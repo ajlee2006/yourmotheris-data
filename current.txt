@@ -1,1 +1,1 @@
-test
+{'data': ['Your mother is', 'antifungal', "Pronunciation: ,æn,taɪ'fʌŋɡʌl", 'Definition: capable of destroying fungi', 'Synonyms: fungicidal']}
