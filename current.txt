@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T02:43:14.603173+08:00', 41, 'Your mother is', 'paradisal', "Pronunciation: 'pærə,daɪsəl", 'Definition: relating to or befitting Paradise', 'Synonyms: paradisaic, paradisaical, paradisiac, paradisiacal']}
+{'data': ['2021-05-13T02:53:19.160393+08:00', 42, 'Your mother is', 'unbelieving', "Pronunciation: ,ənbɪ'livɪŋ", 'Definition: rejecting any belief in gods', 'Synonyms: atheistic, atheistical']}
