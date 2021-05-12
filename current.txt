@@ -1,1 +1,1 @@
-{'data': ['2021-05-12T23:01:31.320552+08:00', 19, 'Your mother is', 'prejudicious', '', 'Definition: tending to favor preconceived ideas', 'Synonyms: prejudicial']}
+{'data': ['2021-05-12T23:11:37.252654+08:00', 20, 'Your mother is', 'adipose', "Pronunciation: 'ædə,poʊs", 'Definition: composed of animal fat', '']}
