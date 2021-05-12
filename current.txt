@@ -1,1 +1,1 @@
-{'data': ['2021-05-12T20:20:15.213921+08:00', 3, 'Your mother is', 'arboresque', 'Similar to: branchy', 'Definition: resembling a tree in form and branching structure', 'Synonyms: arboreal, arboreous, arborescent, arboriform, dendriform, dendroid, dendroidal, tree-shaped, treelike']}
+{'data': ['2021-05-12T20:30:20.149778+08:00', 4, 'Your mother is', 'self-winding', "Pronunciation: sɛlf_'waɪndɪŋ", 'Definition: designed so that manual winding is unnecessary', '']}
