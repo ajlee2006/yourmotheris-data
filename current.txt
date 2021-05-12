@@ -1,1 +1,1 @@
-{'data': ['Your mother is', 'good-natured', "Pronunciation: 'ɡʊd'neɪʧərd", 'Definition: having an easygoing and cheerful disposition', '']}
+{'data': ['Your mother is', 'impartial', "Pronunciation: ɪm'pɑrʃəl", 'Definition: free from undue bias or preconceived opinions', 'Synonyms: unprejudiced']}
