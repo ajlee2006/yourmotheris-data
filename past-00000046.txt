@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T03:33:38.903853+08:00', 46, 'Your mother is', 'wooly-haired', 'Similar to: haired', 'Definition: covered with dense often matted or curly hairs', 'Synonyms: woolly, woolly-haired, wooly']}
