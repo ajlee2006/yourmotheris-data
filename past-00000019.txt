@@ -1,0 +1,1 @@
+{'data': ['2021-05-12T23:01:31.320552+08:00', 19, 'Your mother is', 'prejudicious', '', 'Definition: tending to favor preconceived ideas', 'Synonyms: prejudicial']}
