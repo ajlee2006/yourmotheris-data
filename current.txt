@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T06:24:57.509731+08:00', 63, 'Your mother is', 'clumsy', "Pronunciation: 'kləmzi", 'Definition: showing lack of skill or aptitude', 'Synonyms: bungling, fumbling, incompetent']}
+{'data': ['2021-05-13T06:35:02.440262+08:00', 64, 'Your mother is', 'open-air', "Pronunciation: 'oʊpən_ɜr", 'Definition: in the open air', 'Synonyms: alfresco']}
