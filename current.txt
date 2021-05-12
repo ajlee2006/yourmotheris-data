@@ -1,1 +1,1 @@
-{'data': ['2021-05-12T23:11:37.252654+08:00', 20, 'Your mother is', 'adipose', "Pronunciation: 'ædə,poʊs", 'Definition: composed of animal fat', '']}
+{'data': ['2021-05-12T23:21:41.604365+08:00', 21, 'Your mother is', 'misty-eyed', 'Similar to: tearful', 'Definition: having eyes blurred as with tears', '']}
