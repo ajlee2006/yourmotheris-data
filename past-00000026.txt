@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T00:12:04.918392+08:00', 26, 'Your mother is', 'untechnical', '', 'Definition: not characteristic of or skilled in applied arts and sciences', 'Synonyms: nontechnical']}
