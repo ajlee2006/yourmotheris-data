@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T05:44:39.349775+08:00', 59, 'Your mother is', 'outraged', "Pronunciation: 'aʊt,reɪdʒd", 'Definition: angered at something unjust or wrong', 'Synonyms: incensed, indignant, umbrageous']}
+{'data': ['2021-05-13T05:54:43.393016+08:00', 60, 'Your mother is', 'halting', "Pronunciation: 'hɔltɪŋ", 'Definition: disabled in the feet or legs', 'Synonyms: crippled, game, gimpy, halt, lame']}
