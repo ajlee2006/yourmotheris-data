@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T03:33:38.903853+08:00', 46, 'Your mother is', 'wooly-haired', 'Similar to: haired', 'Definition: covered with dense often matted or curly hairs', 'Synonyms: woolly, woolly-haired, wooly']}
+{'data': ['2021-05-13T03:43:43.768633+08:00', 47, 'Your mother is', 'off-putting', 'Similar to: displeasing', 'Definition: causing annoyance or repugnance', '']}
