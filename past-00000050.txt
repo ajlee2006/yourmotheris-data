@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T04:13:57.343216+08:00', 50, 'Your mother is', 'rainless', 'Similar to: dry', 'Definition: lacking rain', '']}
