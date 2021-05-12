@@ -1,1 +1,1 @@
-{'data': ['Your mother is', 'unexampled', "Pronunciation: ,ənɪɡ'zɑmpəld", 'Definition: having no previous example or precedent or parallel', 'Synonyms: new']}
+{'data': ['Your mother is', 'powdery', "Pronunciation: 'paʊdəri", 'Definition: consisting of fine particles', 'Synonyms: fine-grained, powdered, pulverised, pulverized, small-grained']}
