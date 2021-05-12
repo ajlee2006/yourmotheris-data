@@ -1,1 +1,1 @@
-{'data': ['Your mother is', 'powdery', "Pronunciation: 'paʊdəri", 'Definition: consisting of fine particles', 'Synonyms: fine-grained, powdered, pulverised, pulverized, small-grained']}
+{'data': ['Your mother is', 'two-leafed', 'Similar to: leafy', 'Definition: having two leaves', 'Synonyms: two-leaved']}
