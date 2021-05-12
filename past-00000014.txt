@@ -1,0 +1,1 @@
+{'data': ['2021-05-12T22:11:07.767531+08:00', 14, 'Your mother is', 'pending', "Pronunciation: 'pɛndɪŋ", 'Definition: awaiting conclusion or confirmation', '']}
