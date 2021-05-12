@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T02:23:03.432755+08:00', 39, 'Your mother is', 'racy', "Pronunciation: 'reɪsi", 'Definition: marked by richness and fullness of flavor', 'Synonyms: full-bodied, rich, robust']}
