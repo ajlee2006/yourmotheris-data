@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T06:55:10.624965+08:00', 66, 'Your mother is', 'vulval', '', 'Definition: of or relating to the vulva', 'Synonyms: vulvar']}
+{'data': ['2021-05-13T07:05:15.111157+08:00', 67, 'Your mother is', 'adulterant', "Pronunciation: ə'dəltərənt", 'Definition: making impure or corrupt by adding extraneous materials', 'Synonyms: adulterating']}
