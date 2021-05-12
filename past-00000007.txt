@@ -1,1 +1,0 @@
-{'data': ['2021-05-12T15:08:28.300643+08:00', 7, 'Your mother is', 'seafaring', "Pronunciation: 'si,fɜrɪŋ", 'Definition: used on the high seas', 'Synonyms: oceangoing, seagoing']}
