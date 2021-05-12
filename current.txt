@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T00:42:18.522635+08:00', 29, 'Your mother is', 'blocked', 'Pronunciation: blɑkt', 'Definition: completely obstructed or closed off', 'Synonyms: plugged']}
+{'data': ['2021-05-13T00:52:22.873023+08:00', 30, 'Your mother is', 'unstratified', "Pronunciation: ən'strætə,faɪd", 'Definition: not deposited in layers', '']}
