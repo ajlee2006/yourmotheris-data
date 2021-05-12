@@ -1,0 +1,1 @@
+{'data': [4, 'Your mother is', 'neutral-colored', 'Similar to: colored', 'Definition: having a color that does not attract attention', 'Synonyms: neutral-coloured']}
