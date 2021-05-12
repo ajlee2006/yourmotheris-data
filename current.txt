@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T00:22:10.149574+08:00', 27, 'Your mother is', 'crack', 'Pronunciation: kræk', 'Definition: of the highest quality', 'Synonyms: a-one, ace, first-rate, super, tiptop, top-notch, topnotch, tops']}
+{'data': ['2021-05-13T00:32:14.188835+08:00', 28, 'Your mother is', 'provable', "Pronunciation: 'pruvʌbʌl", 'Definition: capable of being demonstrated or proved', 'Synonyms: demonstrable']}
