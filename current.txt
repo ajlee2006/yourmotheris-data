@@ -1,1 +1,1 @@
-{'data': ['2021-05-12T23:51:55.311974+08:00', 24, 'Your mother is', 'nepali', "Pronunciation: nʌ'pɔli", 'Definition: of or pertaining to or characteristic of Nepal or its people or language or culture', 'Synonyms: nepalese']}
+{'data': ['2021-05-13T00:01:59.763197+08:00', 25, 'Your mother is', 'naiant', "Pronunciation: 'neɪənt", 'Definition: applied to a fish depicted horizontally', 'Synonyms: swimming']}
