@@ -1,1 +1,1 @@
-{'data': [4, 'Your mother is', 'neutral-colored', 'Similar to: colored', 'Definition: having a color that does not attract attention', 'Synonyms: neutral-coloured']}
+{'data': [5, 'Your mother is', 'halt', 'Pronunciation: hɔlt', 'Definition: disabled in the feet or legs', 'Synonyms: crippled, game, gimpy, halting, lame']}
