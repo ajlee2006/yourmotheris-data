@@ -1,1 +1,1 @@
-{'data': ['2021-05-12T21:10:40.618867+08:00', 8, 'Your mother is', 'unembellished', "Pronunciation: ,ənɪm'bɛlɪʃt", 'Definition: lacking embellishment or ornamentation', 'Synonyms: bare, plain, spare, unornamented']}
+{'data': ['2021-05-12T21:20:44.783927+08:00', 9, 'Your mother is', 'selected', "Pronunciation: sʌ'lɛktʌd", 'Definition: chosen in preference to another', '']}
