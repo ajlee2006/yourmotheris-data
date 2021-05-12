@@ -1,1 +1,1 @@
-{'data': ['2021-05-12T20:40:26.170086+08:00', 5, 'Your mother is', 'graven', "Pronunciation: 'greɪvən", 'Definition: cut into a desired shape', 'Synonyms: sculpted, sculptured']}
+{'data': ['2021-05-12T20:50:31.399359+08:00', 6, 'Your mother is', 'misanthropical', 'Similar to: distrustful', 'Definition: believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others', 'Synonyms: cynical, misanthropic']}
