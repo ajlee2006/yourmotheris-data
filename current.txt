@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T05:24:30.182778+08:00', 57, 'Your mother is', 'overactive', "Pronunciation: ,oʊvər'æktɪv", 'Definition: more active than normal', 'Synonyms: hyperactive']}
+{'data': ['2021-05-13T05:34:34.893798+08:00', 58, 'Your mother is', 'overmodest', "Pronunciation: 'oʊvər'mɑdɪst", 'Definition: affectedly modest or shy especially in a playful or provocative way', 'Synonyms: coy, demure']}
