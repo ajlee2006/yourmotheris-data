@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T03:43:43.768633+08:00', 47, 'Your mother is', 'off-putting', 'Similar to: displeasing', 'Definition: causing annoyance or repugnance', '']}
+{'data': ['2021-05-13T03:53:48.344346+08:00', 48, 'Your mother is', 'marked', 'Pronunciation: mɑrkt', 'Definition: strongly marked; easily noticeable', 'Synonyms: pronounced']}
