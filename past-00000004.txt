@@ -1,0 +1,1 @@
+{'data': ['2021-05-12T20:30:20.149778+08:00', 4, 'Your mother is', 'self-winding', "Pronunciation: sɛlf_'waɪndɪŋ", 'Definition: designed so that manual winding is unnecessary', '']}
