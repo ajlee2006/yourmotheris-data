@@ -1,1 +1,1 @@
-{'data': ['2021-05-12T22:01:02.554365+08:00', 13, 'Your mother is', 'repentant', "Pronunciation: rɪ'pɛntənt", 'Definition: feeling or expressing remorse for misdeeds', 'Synonyms: penitent']}
+{'data': ['2021-05-12T22:11:07.767531+08:00', 14, 'Your mother is', 'pending', "Pronunciation: 'pɛndɪŋ", 'Definition: awaiting conclusion or confirmation', '']}
