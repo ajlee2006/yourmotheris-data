@@ -1,1 +1,1 @@
-{'data': ['Your mother is', 'impartial', "Pronunciation: ɪm'pɑrʃəl", 'Definition: free from undue bias or preconceived opinions', 'Synonyms: unprejudiced']}
+{'data': ['Your mother is', 'unexampled', "Pronunciation: ,ənɪɡ'zɑmpəld", 'Definition: having no previous example or precedent or parallel', 'Synonyms: new']}
