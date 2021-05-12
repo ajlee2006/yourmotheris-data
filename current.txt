@@ -1,1 +1,1 @@
-{'data': ['2021-05-12T18:02:31.002778+08:00', 8, 'Your mother is', 'haemic', "Pronunciation: 'himɪk", 'Definition: relating to or containing or affecting blood', 'Synonyms: haematic, hematic, hemic']}
+{'data': ['2021-05-12T19:51:01.969797+08:00', 1, 'Your mother is', 'retroactive', "Pronunciation: ,rɛtroʊ'æktɪv", 'Definition: affecting things past', 'Synonyms: ex post facto, retro']}
