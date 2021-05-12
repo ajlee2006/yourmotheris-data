@@ -1,1 +1,1 @@
-{'data': ['2021-05-12T21:30:48.935439+08:00', 10, 'Your mother is', 'expandable', "Pronunciation: ɪk'spændʌbʌl", 'Definition: able to expand or be expanded', 'Synonyms: expandible, expansible']}
+{'data': ['2021-05-12T21:40:53.085008+08:00', 11, 'Your mother is', 'unfinished', "Pronunciation: ən'fɪnɪʃt", 'Definition: lacking a surface finish such as paint', 'Synonyms: bare']}
