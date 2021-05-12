@@ -1,4 +1,4 @@
-# yourmotheris-data
+# [BETA] yourmotheris-data
 Data for the 10-minutely Your Mother Is word.
 
 ### Format
