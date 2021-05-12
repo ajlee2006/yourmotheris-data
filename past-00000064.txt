@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T06:35:02.440262+08:00', 64, 'Your mother is', 'open-air', "Pronunciation: 'oʊpən_ɜr", 'Definition: in the open air', 'Synonyms: alfresco']}
