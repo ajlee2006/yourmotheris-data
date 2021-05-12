@@ -1,1 +1,1 @@
-{'data': ['2021-05-12T20:00:03.854174+08:00', 1, 'Your mother is', 'cardboard', "Pronunciation: 'kɑrd,boʊrd", 'Definition: without substance', 'Synonyms: unlifelike']}
+{'data': ['2021-05-12T20:10:08.712856+08:00', 2, 'Your mother is', 'weeklong', "Pronunciation: 'wiklɑŋ", 'Definition: lasting through a week', 'Synonyms: seven-day']}
