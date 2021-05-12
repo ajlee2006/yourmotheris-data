@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T07:15:19.065264+08:00', 68, 'Your mother is', 'neurological', "Pronunciation: ,nʊrʌ'lɑdʒɪkʌl", 'Definition: of or relating to or used in or practicing neurology', 'Synonyms: neurologic']}
