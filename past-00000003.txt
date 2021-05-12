@@ -1,0 +1,1 @@
+{'data': [3, 'Your mother is', 'aerodynamic', "Pronunciation: ,ɛroʊdaɪ'næmɪk", 'Definition: designed or arranged to offer the least resistant to fluid flow', 'Synonyms: flowing, sleek, streamlined']}
