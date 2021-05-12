@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T03:13:30.170691+08:00', 44, 'Your mother is', 'dominant', "Pronunciation: 'dɑmənənt", 'Definition: most frequent or common', 'Synonyms: predominant, prevailing, prevalent, rife']}
+{'data': ['2021-05-13T03:23:34.215536+08:00', 45, 'Your mother is', 'wiggly', "Pronunciation: 'wɪgli", 'Definition: curved or curving in and out', 'Synonyms: sinuate, sinuous']}
