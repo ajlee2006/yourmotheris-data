@@ -1,1 +1,1 @@
-{'data': ['2021-05-12T13:28:20.902859+08:00', 6, 'Your mother is', 'magnificent', "Pronunciation: mæɡ'nɪfɪsənt", 'Definition: characterized by grandeur', 'Synonyms: brilliant, glorious, splendid']}
+{'data': ['2021-05-12T13:44:17.754463+08:00', 1, 'Your mother is', 'preventive', "Pronunciation: prɪ'vɛntɪv", 'Definition: preventing or contributing to the prevention of disease', 'Synonyms: preventative, prophylactic']}
