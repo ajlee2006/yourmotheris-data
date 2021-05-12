@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T05:04:21.425796+08:00', 55, 'Your mother is', 'coniferous', "Pronunciation: koʊ'nɪfərəs", 'Definition: of or relating to or part of trees or shrubs bearing cones and evergreen leaves', 'Synonyms: cone-bearing']}
+{'data': ['2021-05-13T05:14:25.626107+08:00', 56, 'Your mother is', 'deviant', "Pronunciation: 'diviənt", 'Definition: markedly different from an accepted norm', 'Synonyms: aberrant, deviate']}
