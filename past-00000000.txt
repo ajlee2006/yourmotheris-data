@@ -1,4 +1,1 @@
-Your mother is
-
-
-Definition: 
+{'data': ['Your mother is', '', '', 'Definition: ', '']}
