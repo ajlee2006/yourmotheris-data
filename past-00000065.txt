@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T06:45:06.582356+08:00', 65, 'Your mother is', 'cytoplasmatic', '', 'Definition: of or relating to cytoplasm', 'Synonyms: cytoplasmic']}
