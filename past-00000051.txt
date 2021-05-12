@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T04:24:01.895773+08:00', 51, 'Your mother is', 'nuptial', "Pronunciation: 'nəpʃəl", 'Definition: of or relating to a wedding', 'Synonyms: bridal, spousal']}
