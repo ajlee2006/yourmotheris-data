@@ -1,1 +1,1 @@
-{'data': ['2021-05-12T21:40:53.085008+08:00', 11, 'Your mother is', 'unfinished', "Pronunciation: ən'fɪnɪʃt", 'Definition: lacking a surface finish such as paint', 'Synonyms: bare']}
+{'data': ['2021-05-12T21:50:57.369285+08:00', 12, 'Your mother is', 'chthonic', "Pronunciation: 'θɑnɪk", 'Definition: dwelling beneath the surface of the earth', 'Synonyms: chthonian, nether']}
