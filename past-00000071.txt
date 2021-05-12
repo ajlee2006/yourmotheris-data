@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T07:45:32.002864+08:00', 71, 'Your mother is', 'excitable', "Pronunciation: ɪk'saɪtəbəl", 'Definition: capable of responding to stimuli', 'Synonyms: irritable']}
