@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T03:03:24.012390+08:00', 43, 'Your mother is', 'bantering', "Pronunciation: 'bæntɝrɪŋ", 'Definition: cleverly amusing in tone', 'Synonyms: facetious, tongue-in-cheek']}
+{'data': ['2021-05-13T03:13:30.170691+08:00', 44, 'Your mother is', 'dominant', "Pronunciation: 'dɑmənənt", 'Definition: most frequent or common', 'Synonyms: predominant, prevailing, prevalent, rife']}
