@@ -1,0 +1,1 @@
+{'data': ['2021-05-12T15:08:05.516154+08:00', 2, 'Your mother is', 'fiftieth', "Pronunciation: 'fɪftiɪθ", 'Definition: the ordinal number of fifty in counting order', 'Synonyms: 50th']}
