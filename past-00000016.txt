@@ -1,0 +1,1 @@
+{'data': ['2021-05-12T22:31:17.399882+08:00', 16, 'Your mother is', 'epicyclic', "Pronunciation: ,ɛpɪ'saɪklɪk", 'Definition: of or relating to an epicycle', 'Synonyms: epicyclical']}
