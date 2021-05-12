@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T02:53:19.160393+08:00', 42, 'Your mother is', 'unbelieving', "Pronunciation: ,ənbɪ'livɪŋ", 'Definition: rejecting any belief in gods', 'Synonyms: atheistic, atheistical']}
+{'data': ['2021-05-13T03:03:24.012390+08:00', 43, 'Your mother is', 'bantering', "Pronunciation: 'bæntɝrɪŋ", 'Definition: cleverly amusing in tone', 'Synonyms: facetious, tongue-in-cheek']}
