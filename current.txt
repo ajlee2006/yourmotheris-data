@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T16:30:11.413949+00:00", 19, "Your mother is", "ticklish", "Pronunciation: /\u02c8t\u026akl\u026a\u0283/", "Definition: difficult to handle; requiring great tact", "Synonyms: delicate, touchy"]}
+{"data": ["2021-05-13T16:40:11.299129+00:00", 20, "Your mother is", "reverent", "Pronunciation: /\u02c8r\u025bv\u0259r\u0259nt/", "Definition: showing great reverence for god", "Synonyms: godly, worshipful"]}
