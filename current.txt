@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T18:00:11.363305+00:00", 28, "Your mother is", "grizzled", "Pronunciation: /\u02c8gr\u026az\u0259ld/", "Definition: having dark hairs mixed with grey or white", ""]}
+{"data": ["2021-05-13T18:10:11.472466+00:00", 29, "Your mother is", "thumbed", "Pronunciation: /\u03b8\u028cmd/", "Definition: (of pages) worn or soiled by thumb and fingers by frequent handling or turning", ""]}
