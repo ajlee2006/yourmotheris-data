@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T20:39:57.936789+00:00", 44, "Your mother is", "delirious", "Pronunciation: /d\u026a\u02c8liri\u0259s/", "Definition: marked by uncontrolled excitement or emotion", "Synonyms: excited, frantic, mad, unrestrained"]}
+{"data": ["2021-05-13T20:49:57.887555+00:00", 45, "Your mother is", "branchiopod", "Pronunciation: /\u02c8br\u00e6\u014bki\u0259\u02ccp\u0251d/", "Definition: of or relating to or characteristic of the subclass Branchiopoda", "Synonyms: branchiopodan, branchiopodous"]}
