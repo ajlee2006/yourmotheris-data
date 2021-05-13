@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T16:40:11.299129+00:00", 20, "Your mother is", "reverent", "Pronunciation: /\u02c8r\u025bv\u0259r\u0259nt/", "Definition: showing great reverence for god", "Synonyms: godly, worshipful"]}
+{"data": ["2021-05-13T16:50:11.340995+00:00", 21, "Your mother is", "cephalopodan", "", "Definition: relating or belonging to the class Cephalopoda", "Synonyms: cephalopod"]}
