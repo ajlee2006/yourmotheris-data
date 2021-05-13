@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T09:00:05.174076+00:00', 22, 'Your mother is', 'stoppable', "Pronunciation: 'stɑpəbəl", 'Definition: capable of being stopped', '']}
+{'data': ['2021-05-13T09:10:05.141878+00:00', 23, 'Your mother is', 'comforting', "Pronunciation: 'kʌmfɝrtɪŋ", 'Definition: providing freedom from worry', 'Synonyms: cheering, satisfying']}
