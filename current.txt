@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T19:49:57.826159+00:00", 39, "Your mother is", "impressionistic", "Pronunciation: /\u026am\u02ccpr\u025b\u0283\u0259\u02c8n\u026ast\u026ak/", "Definition: relating to or characteristic of Impressionism", "Synonyms: impressionist"]}
+{"data": ["2021-05-13T19:59:57.865109+00:00", 40, "Your mother is", "cultivated", "Pronunciation: /\u02c8k\u0259lt\u0259\u02ccve\u026at\u026ad/", "Definition: marked by refinement in taste and manners", "Synonyms: civilised, civilized, cultured, genteel, polite"]}
