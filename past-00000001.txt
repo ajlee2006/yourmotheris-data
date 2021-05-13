@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T12:31:33.048251+08:00', 1, 'Your mother is', 'prix fixe', "Pronunciation: 'pri_'fɪks", 'Definition: (of a restaurant meal) complete but with limited choices and at a fixed price', "Synonyms: table d'hote"]}
