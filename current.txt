@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T09:30:05.311942+00:00', 25, 'Your mother is', 'battleful', 'Similar to: aggressive', 'Definition: having or showing a ready disposition to fight', 'Synonyms: bellicose, combative']}
+{'data': ['2021-05-13T09:50:08.829417+00:00', 26, 'Your mother is', 'ultramarine', "Pronunciation: /,əltrəmə'rin/", 'Definition: of a brilliant pure blue to purplish blue color', '']}
