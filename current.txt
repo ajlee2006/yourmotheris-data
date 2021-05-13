@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T15:10:11.456621+00:00", 11, "Your mother is", "dim", "Pronunciation: /d\u026am/", "Definition: lacking in light; not bright or harsh", "Synonyms: subdued"]}
+{"data": ["2021-05-13T15:20:11.286341+00:00", 12, "Your mother is", "dwindling", "Pronunciation: /\u02c8dw\u026and\u028cl\u026a\u014b/", "Definition: gradually decreasing until little remains", "Synonyms: tapering, tapering off"]}
