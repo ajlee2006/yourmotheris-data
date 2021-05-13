@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T16:20:11.412365+00:00", 18, "Your mother is", "same", "Pronunciation: /se\u026am/", "Definition: equal in amount or value", "Synonyms: like"]}
+{"data": ["2021-05-13T16:30:11.413949+00:00", 19, "Your mother is", "ticklish", "Pronunciation: /\u02c8t\u026akl\u026a\u0283/", "Definition: difficult to handle; requiring great tact", "Synonyms: delicate, touchy"]}
