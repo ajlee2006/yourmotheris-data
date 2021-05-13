@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T07:10:06.866537+00:00', 13, 'Your mother is', 'bushy', "Pronunciation: 'bʊʃi", 'Definition: used of hair; thick and poorly groomed', 'Synonyms: shaggy, shaggy-coated, shaggy-haired']}
