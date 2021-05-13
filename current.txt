@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T15:20:11.286341+00:00", 12, "Your mother is", "dwindling", "Pronunciation: /\u02c8dw\u026and\u028cl\u026a\u014b/", "Definition: gradually decreasing until little remains", "Synonyms: tapering, tapering off"]}
+{"data": ["2021-05-13T15:30:11.379868+00:00", 13, "Your mother is", "pachydermous", "", "Definition: of or relating to or characteristic of pachyderms", "Synonyms: pachydermal, pachydermatous, pachydermic"]}
