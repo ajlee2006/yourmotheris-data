@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T05:00:17.355460+00:00', 1, 'Your mother is', 'telepathic', "Pronunciation: ,tɛlə'pæθɪk", 'Definition: communicating without apparent physical signals', '']}
