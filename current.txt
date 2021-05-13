@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T18:10:11.472466+00:00", 29, "Your mother is", "thumbed", "Pronunciation: /\u03b8\u028cmd/", "Definition: (of pages) worn or soiled by thumb and fingers by frequent handling or turning", ""]}
+{"data": ["2021-05-13T18:20:11.342424+00:00", 30, "Your mother is", "mucoidal", "Pronunciation: /mju\u02c8k\u0254\u026ad\u0259l/", "Definition: relating to or resembling mucus", "Synonyms: mucoid"]}
