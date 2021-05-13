@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T11:17:13.855268+08:00', 92, 'Your mother is', 'cuneate', "Pronunciation: 'kjuniɪt", 'Definition: (of a leaf shape) narrowly triangular, wider at the apex and tapering toward the base', 'Synonyms: wedge-shaped']}
+{'data': ['2021-05-13T11:27:18.433994+08:00', 93, 'Your mother is', 'lavender', "Pronunciation: 'lævəndər", 'Definition: of a pale purple color', 'Synonyms: lilac, lilac-colored']}
