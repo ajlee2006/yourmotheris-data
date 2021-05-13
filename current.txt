@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T05:40:17.011912+00:00', 5, 'Your mother is', 'ambulant', "Pronunciation: 'æmbjələnt", 'Definition: able to walk about', 'Synonyms: ambulatory']}
+{'data': ['2021-05-13T05:50:17.017184+00:00', 6, 'Your mother is', 'priestlike', '', 'Definition: befitting or characteristic of a priest or the priesthood', 'Synonyms: priestly']}
