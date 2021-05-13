@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T20:49:57.887555+00:00", 45, "Your mother is", "branchiopod", "Pronunciation: /\u02c8br\u00e6\u014bki\u0259\u02ccp\u0251d/", "Definition: of or relating to or characteristic of the subclass Branchiopoda", "Synonyms: branchiopodan, branchiopodous"]}
+{"data": ["2021-05-13T20:59:57.879117+00:00", 46, "Your mother is", "anaemic", "Pronunciation: /\u0259\u02c8nim\u026ak/", "Definition: relating to anemia or suffering from anemia", "Synonyms: anemic"]}
