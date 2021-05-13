@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T08:35:54.388203+08:00', 76, 'Your mother is', 'blackish', 'Similar to: achromatic', 'Definition: of something that is somewhat black', '']}
+{'data': ['2021-05-13T08:45:59.138506+08:00', 77, 'Your mother is', '69', 'Similar to: cardinal', 'Definition: being nine more than sixty', 'Synonyms: ilxx, sixty-nine']}
