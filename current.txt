@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T19:09:59.084480+00:00", 35, "Your mother is", "incredible", "Pronunciation: /\u026an\u02c8kr\u025bd\u0259b\u0259l/", "Definition: beyond belief or understanding", "Synonyms: unbelievable"]}
+{"data": ["2021-05-13T19:19:57.906471+00:00", 36, "Your mother is", "perilous", "Pronunciation: /\u02c8p\u025bril\u0259s/", "Definition: fraught with danger", "Synonyms: parlous, precarious, touch-and-go"]}
