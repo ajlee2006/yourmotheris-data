@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T17:10:11.473810+00:00", 23, "Your mother is", "nurturant", "Similar to: compassionate", "Definition: providing physical and emotional care and nourishment", ""]}
+{"data": ["2021-05-13T17:20:11.378134+00:00", 24, "Your mother is", "unforgettable", "Pronunciation: /\u02cc\u0259nf\u0259r\u02c8\u0261\u025bt\u0259b\u0259l/", "Definition: impossible to forget", ""]}
