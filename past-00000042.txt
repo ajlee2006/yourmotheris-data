@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T12:30:08.656071+00:00', 42, 'Your mother is', 'frustrated', "Pronunciation: /'frəstreɪtɪd/", 'Definition: disappointingly unsuccessful', 'Synonyms: defeated, disappointed, discomfited, foiled, thwarted']}
