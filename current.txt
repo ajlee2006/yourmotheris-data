@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T22:59:57.846026+00:00", 58, "Your mother is", "half-blooded", "Pronunciation: /h\u00e6f-\u02c8bl\u0259d\u026ad/", "Definition: (of animals) having only one purebred parent", "Synonyms: half-bred, half-breed"]}
+{"data": ["2021-05-13T23:09:57.896309+00:00", 59, "Your mother is", "semiopaque", "Similar to: opaque", "Definition: partially opaque", ""]}
