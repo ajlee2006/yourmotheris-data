@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T07:40:05.153862+00:00', 14, 'Your mother is', 'poached', 'Pronunciation: poʊtʃt', 'Definition: cooked in hot water', 'Synonyms: boiled, stewed']}
