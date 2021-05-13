@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T08:15:44.740582+08:00', 74, 'Your mother is', 'unanalyzed', 'Similar to: crude', 'Definition: not analyzed or broken down for detailed examination', '']}
+{'data': ['2021-05-13T08:25:49.603987+08:00', 75, 'Your mother is', 'concealed', "Pronunciation: kʌn'sild", 'Definition: not accessible to view', 'Synonyms: hidden, out of sight']}
