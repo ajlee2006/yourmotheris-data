@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T07:55:36.158436+08:00', 72, 'Your mother is', 'turkic-speaking', 'Similar to: communicative', 'Definition: able to communicate in Turkic', '']}
+{'data': ['2021-05-13T08:05:40.257581+08:00', 73, 'Your mother is', 'socialistic', "Pronunciation: ,soʊʃə'lɪstɪk", 'Definition: advocating or following the socialist principles', 'Synonyms: socialist']}
