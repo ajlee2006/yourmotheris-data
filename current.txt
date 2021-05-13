@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T10:06:37.633020+08:00', 85, 'Your mother is', 'allotropical', "Pronunciation: ,ælə'trɑpɪkəl", 'Definition: of or related to or exhibiting allotropism', 'Synonyms: allotropic']}
+{'data': ['2021-05-13T10:16:43.850946+08:00', 86, 'Your mother is', 'charmed', 'Pronunciation: tʃɑrmd', 'Definition: strongly attracted', 'Synonyms: captivated']}
