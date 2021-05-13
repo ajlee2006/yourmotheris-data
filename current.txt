@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T18:40:11.478737+00:00", 32, "Your mother is", "three-party", "Similar to: many-sided", "Definition: involving three parties or elements", "Synonyms: three-way, tripartite"]}
+{"data": ["2021-05-13T18:50:11.522406+00:00", 33, "Your mother is", "spumy", "Similar to: effervescent", "Definition: emitting or filled with bubbles as from carbonation or fermentation", "Synonyms: bubbling, bubbly, effervescing, foaming, foamy, frothy"]}
