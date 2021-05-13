@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T11:47:27.328788+08:00', 95, 'Your mother is', 'abruptly-pinnate', 'Similar to: compound', 'Definition: (of a leaf shape) pinnate with a pair of leaflets at the apex', 'Synonyms: even-pinnate, paripinnate']}
+{'data': ['2021-05-13T11:57:32.275270+08:00', 96, 'Your mother is', 'younger', "Pronunciation: 'jəŋər", 'Definition: used of the younger of two persons of the same name especially used to distinguish a son from his father', 'Synonyms: jr.']}
