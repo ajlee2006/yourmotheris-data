@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T07:00:06.845734+00:00', 12, 'Your mother is', 'bedraggled', "Pronunciation: bɪ'dræɡəld", 'Definition: in deplorable condition', 'Synonyms: broken-down, derelict, dilapidated, ramshackle, tatterdemalion, tumble-down']}
+{'data': ['2021-05-13T07:10:06.866537+00:00', 13, 'Your mother is', 'bushy', "Pronunciation: 'bʊʃi", 'Definition: used of hair; thick and poorly groomed', 'Synonyms: shaggy, shaggy-coated, shaggy-haired']}
