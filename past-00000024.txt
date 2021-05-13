@@ -1,1 +1,0 @@
-{'data': ['2021-05-13T09:20:05.471606+00:00', 24, 'Your mother is', 'trite', 'Pronunciation: traɪt', 'Definition: repeated too often; overfamiliar through overuse', 'Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, tired, well-worn']}

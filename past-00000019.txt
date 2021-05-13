@@ -1,1 +1,0 @@
-{'data': ['2021-05-13T08:30:05.284308+00:00', 19, 'Your mother is', 'poor', 'Pronunciation: pʊr', 'Definition: of insufficient quantity to meet a need', 'Synonyms: inadequate, jejune, short']}

@@ -1,1 +1,0 @@
-{'data': ['2021-05-13T08:40:05.155259+00:00', 20, 'Your mother is', 'hatted', 'Similar to: turbaned', 'Definition: wearing a hat or a hat of a particular kind', '']}

@@ -1,1 +1,0 @@
-{'data': ['2021-05-13T05:30:17.028091+00:00', 4, 'Your mother is', 'ordinary', "Pronunciation: 'ɔrdənɜri", 'Definition: lacking special distinction, rank, or status; commonly encountered', 'Synonyms: average']}
