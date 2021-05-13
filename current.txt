@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T22:49:57.853946+00:00", 57, "Your mother is", "raptorial", "Pronunciation: /r\u00e6p\u02c8to\u028ari\u0259l/", "Definition: living by preying on other animals especially by catching living prey", "Synonyms: predatory, rapacious, ravening, vulturine, vulturous"]}
+{"data": ["2021-05-13T22:59:57.846026+00:00", 58, "Your mother is", "half-blooded", "Pronunciation: /h\u00e6f-\u02c8bl\u0259d\u026ad/", "Definition: (of animals) having only one purebred parent", "Synonyms: half-bred, half-breed"]}
