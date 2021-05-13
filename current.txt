@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T09:10:05.141878+00:00', 23, 'Your mother is', 'comforting', "Pronunciation: 'kʌmfɝrtɪŋ", 'Definition: providing freedom from worry', 'Synonyms: cheering, satisfying']}
+{'data': ['2021-05-13T09:20:05.471606+00:00', 24, 'Your mother is', 'trite', 'Pronunciation: traɪt', 'Definition: repeated too often; overfamiliar through overuse', 'Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, tired, well-worn']}
