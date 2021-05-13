@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T12:31:33.048251+08:00', 1, 'Your mother is', 'prix fixe', "Pronunciation: 'pri_'fɪks", 'Definition: (of a restaurant meal) complete but with limited choices and at a fixed price', "Synonyms: table d'hote"]}
+{'data': ['2021-05-13T05:00:17.355460+00:00', 1, 'Your mother is', 'telepathic', "Pronunciation: ,tɛlə'pæθɪk", 'Definition: communicating without apparent physical signals', '']}
