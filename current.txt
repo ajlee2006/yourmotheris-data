@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T10:26:48.666088+08:00', 87, 'Your mother is', 'insinuating', "Pronunciation: ɪn'sɪnju,eɪtɪŋ", 'Definition: calculated to please or gain favor', 'Synonyms: ingratiating, ingratiatory']}
+{'data': ['2021-05-13T10:36:53.766192+08:00', 88, 'Your mother is', 'two-lipped', 'Pronunciation: tu_lɪpt', 'Definition: having two lips', 'Synonyms: bilabiate']}
