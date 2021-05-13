@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T10:16:43.850946+08:00', 86, 'Your mother is', 'charmed', 'Pronunciation: tʃɑrmd', 'Definition: strongly attracted', 'Synonyms: captivated']}
+{'data': ['2021-05-13T10:26:48.666088+08:00', 87, 'Your mother is', 'insinuating', "Pronunciation: ɪn'sɪnju,eɪtɪŋ", 'Definition: calculated to please or gain favor', 'Synonyms: ingratiating, ingratiatory']}
