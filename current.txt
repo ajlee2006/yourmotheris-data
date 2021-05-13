@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T15:40:11.476727+00:00", 14, "Your mother is", "neck and neck", "Similar to: inconclusive", "Definition: inconclusive as to outcome; close or just even in a race or comparison or competition", "Synonyms: head-to-head, nip and tuck"]}
+{"data": ["2021-05-13T15:50:11.405960+00:00", 15, "Your mother is", "nutritious", "Pronunciation: /nu\u02c8tr\u026a\u0283\u0259s/", "Definition: of or providing nourishment", "Synonyms: alimental, alimentary, nourishing, nutrient, nutritive"]}
