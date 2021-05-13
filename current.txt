@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T07:10:06.866537+00:00', 13, 'Your mother is', 'bushy', "Pronunciation: 'bʊʃi", 'Definition: used of hair; thick and poorly groomed', 'Synonyms: shaggy, shaggy-coated, shaggy-haired']}
+{'data': ['2021-05-13T07:40:05.153862+00:00', 14, 'Your mother is', 'poached', 'Pronunciation: poʊtʃt', 'Definition: cooked in hot water', 'Synonyms: boiled, stewed']}
