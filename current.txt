@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T10:36:53.766192+08:00', 88, 'Your mother is', 'two-lipped', 'Pronunciation: tu_lɪpt', 'Definition: having two lips', 'Synonyms: bilabiate']}
+{'data': ['2021-05-13T10:46:59.402267+08:00', 89, 'Your mother is', 'rear', 'Pronunciation: rir', 'Definition: located in or toward the back or rear', 'Synonyms: rearward']}
