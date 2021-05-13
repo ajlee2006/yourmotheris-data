@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T20:29:58.008223+00:00", 43, "Your mother is", "homing", "Pronunciation: /\u02c8ho\u028am\u026a\u014b/", "Definition: orienting or directing homeward or to a destination", ""]}
+{"data": ["2021-05-13T20:39:57.936789+00:00", 44, "Your mother is", "delirious", "Pronunciation: /d\u026a\u02c8liri\u0259s/", "Definition: marked by uncontrolled excitement or emotion", "Synonyms: excited, frantic, mad, unrestrained"]}
