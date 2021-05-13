@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T06:30:16.960496+00:00', 10, 'Your mother is', 'amenorrheal', '', 'Definition: related to the suppression of normal menstrual flow for any reason other than pregnancy', 'Synonyms: amenorrheic, amenorrhoeal, amenorrhoeic']}
+{'data': ['2021-05-13T06:40:17.000346+00:00', 11, 'Your mother is', 'supraocular', '', 'Definition: located or occurring above the eye socket', 'Synonyms: supraorbital']}
