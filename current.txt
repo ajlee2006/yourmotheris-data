@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T23:29:57.840911+00:00", 61, "Your mother is", "soppy", "Pronunciation: /\u02c8s\u0251pi/", "Definition: wet through and through; thoroughly wet", "Synonyms: sodden"]}
+{"data": ["2021-05-13T23:39:57.917905+00:00", 62, "Your mother is", "w-shaped", "Similar to: formed", "Definition: shaped in the form of the letter W", ""]}
