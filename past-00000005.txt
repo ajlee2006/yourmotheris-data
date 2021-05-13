@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T05:40:17.011912+00:00', 5, 'Your mother is', 'ambulant', "Pronunciation: 'æmbjələnt", 'Definition: able to walk about', 'Synonyms: ambulatory']}
