@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T09:50:08.829417+00:00', 26, 'Your mother is', 'ultramarine', "Pronunciation: /,əltrəmə'rin/", 'Definition: of a brilliant pure blue to purplish blue color', '']}
+{'data': ['2021-05-13T10:00:08.739579+00:00', 27, 'Your mother is', 'subjacent', "Pronunciation: /səb'dʒeɪsənt/", 'Definition: lying nearby but lower', '']}
