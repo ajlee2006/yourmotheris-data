@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T21:49:57.915106+00:00", 51, "Your mother is", "dainty", "Pronunciation: /\u02c8de\u026anti/", "Definition: delicately beautiful", "Synonyms: exquisite"]}
+{"data": ["2021-05-13T21:59:57.936371+00:00", 52, "Your mother is", "cupulate", "Pronunciation: /\u02c8kjupj\u0259\u02ccle\u026at/", "Definition: shaped like (or supporting) a cupule", "Synonyms: cupular"]}
