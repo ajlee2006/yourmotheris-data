@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T08:56:03.898938+08:00', 78, 'Your mother is', 'concordant', "Pronunciation: kɑn'kɔrdənt", 'Definition: in keeping', 'Synonyms: accordant, agreeable, conformable, consonant']}
