@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T10:50:08.739774+00:00', 32, 'Your mother is', 'no-hit', 'Pronunciation: /noʊ_hɪt/', 'Definition: of a game (or the pitching) in which a pitcher allows the opponent no hits', '']}
