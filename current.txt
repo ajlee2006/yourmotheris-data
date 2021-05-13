@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T14:10:11.414294+00:00", 5, "Your mother is", "echoless", "Similar to: nonreflecting", "Definition: having or producing no echo", ""]}
+{"data": ["2021-05-13T14:20:11.326054+00:00", 6, "Your mother is", "tricuspidate", "Pronunciation: /tra\u026a\u02c8k\u0259sp\u026a\u02ccde\u026at/", "Definition: having three cusps or points (especially a molar tooth)", "Synonyms: tricuspid"]}
