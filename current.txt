@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T11:40:08.637756+00:00', 37, 'Your mother is', 'volatilized', 'Similar to: gaseous', 'Definition: converted into a gas or vapor', 'Synonyms: gasified, vaporized, vapourised, volatilised']}
+{'data': ['2021-05-13T11:50:08.689931+00:00', 38, 'Your mother is', 'a posteriori', "Pronunciation: /,eɪ_pɑ,stiri'oʊri/", 'Definition: involving reasoning from facts or particulars to general principles or from effects to causes', '']}
