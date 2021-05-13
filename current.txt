@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T20:59:57.879117+00:00", 46, "Your mother is", "anaemic", "Pronunciation: /\u0259\u02c8nim\u026ak/", "Definition: relating to anemia or suffering from anemia", "Synonyms: anemic"]}
+{"data": ["2021-05-13T21:09:57.896333+00:00", 47, "Your mother is", "overrefined", "Similar to: refined", "Definition: excessively delicate or refined", "Synonyms: superfine"]}
