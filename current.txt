@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T08:00:05.133753+00:00', 16, 'Your mother is', 'tomboyish', 'Similar to: unwomanly', 'Definition: used of girls; wild and boisterous', 'Synonyms: hoydenish']}
+{'data': ['2021-05-13T08:10:05.147822+00:00', 17, 'Your mother is', 'stitched', 'Pronunciation: stɪtʃt', 'Definition: fastened with stitches', 'Synonyms: sewed, sewn']}
