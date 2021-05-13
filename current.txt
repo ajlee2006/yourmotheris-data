@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T09:20:05.471606+00:00', 24, 'Your mother is', 'trite', 'Pronunciation: traɪt', 'Definition: repeated too often; overfamiliar through overuse', 'Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, tired, well-worn']}
+{'data': ['2021-05-13T09:30:05.311942+00:00', 25, 'Your mother is', 'battleful', 'Similar to: aggressive', 'Definition: having or showing a ready disposition to fight', 'Synonyms: bellicose, combative']}
