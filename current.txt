@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T11:10:08.683391+00:00', 34, 'Your mother is', 'pilose', "Pronunciation: /'paɪloʊs/", 'Definition: covered with hairs especially fine soft ones', 'Synonyms: pilary, pilous']}
+{'data': ['2021-05-13T11:20:08.740095+00:00', 35, 'Your mother is', 'semisoft', 'Similar to: soft', 'Definition: somewhat soft', 'Synonyms: softish']}
