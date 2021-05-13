@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T20:19:57.833829+00:00", 42, "Your mother is", "extinct", "Pronunciation: /\u026ak\u02c8st\u026a\u014bkt/", "Definition: no longer in existence; lost or especially having died out leaving no living representatives", "Synonyms: nonextant"]}
+{"data": ["2021-05-13T20:29:58.008223+00:00", 43, "Your mother is", "homing", "Pronunciation: /\u02c8ho\u028am\u026a\u014b/", "Definition: orienting or directing homeward or to a destination", ""]}
