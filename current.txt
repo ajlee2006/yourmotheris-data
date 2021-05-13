@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T23:49:57.939612+00:00", 63, "Your mother is", "winding", "Pronunciation: /\u02c8wa\u026and\u026a\u014b/", "Definition: of a path e.g.", "Synonyms: meandering, rambling, wandering"]}
+{"data": ["2021-05-13T23:59:57.885962+00:00", 64, "Your mother is", "submersible", "Pronunciation: /s\u0259b\u02c8m\u025crs\u026ab\u0259l/", "Definition: capable of being immersed in water or functioning while submerged", "Synonyms: submergible"]}
