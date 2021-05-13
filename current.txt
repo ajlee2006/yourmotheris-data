@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T11:00:08.678640+00:00', 33, 'Your mother is', 'nontoxic', "Pronunciation: /nɑn'tɑksɪk/", 'Definition: safe to eat', 'Synonyms: non-poisonous, nonpoisonous']}
+{'data': ['2021-05-13T11:10:08.683391+00:00', 34, 'Your mother is', 'pilose', "Pronunciation: /'paɪloʊs/", 'Definition: covered with hairs especially fine soft ones', 'Synonyms: pilary, pilous']}
