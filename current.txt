@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T23:19:57.867138+00:00", 60, "Your mother is", "thin", "Pronunciation: /\u03b8\u026an/", "Definition: lacking excess flesh", "Synonyms: lean"]}
+{"data": ["2021-05-13T23:29:57.840911+00:00", 61, "Your mother is", "soppy", "Pronunciation: /\u02c8s\u0251pi/", "Definition: wet through and through; thoroughly wet", "Synonyms: sodden"]}
