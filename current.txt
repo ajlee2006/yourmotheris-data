@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T10:30:08.725754+00:00', 30, 'Your mother is', 'unmarketable', "Pronunciation: /ən'mərkɪtəbəl/", 'Definition: not fit for sale', 'Synonyms: unmerchantable, unvendible']}
+{'data': ['2021-05-13T10:40:08.735703+00:00', 31, 'Your mother is', 'terror-stricken', "Pronunciation: /'tɛrər_'strɪkən/", 'Definition: struck or filled with terror', 'Synonyms: terror-struck']}
