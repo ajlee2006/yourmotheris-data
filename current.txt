@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T08:25:49.603987+08:00', 75, 'Your mother is', 'concealed', "Pronunciation: kʌn'sild", 'Definition: not accessible to view', 'Synonyms: hidden, out of sight']}
+{'data': ['2021-05-13T08:35:54.388203+08:00', 76, 'Your mother is', 'blackish', 'Similar to: achromatic', 'Definition: of something that is somewhat black', '']}
