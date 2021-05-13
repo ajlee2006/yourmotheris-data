@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T11:27:18.433994+08:00', 93, 'Your mother is', 'lavender', "Pronunciation: 'lævəndər", 'Definition: of a pale purple color', 'Synonyms: lilac, lilac-colored']}
+{'data': ['2021-05-13T11:37:22.662990+08:00', 94, 'Your mother is', 'conterminous', "Pronunciation: kən'tɜrmənəs", 'Definition: being of equal extent or scope or duration', 'Synonyms: coextensive, coterminous']}
