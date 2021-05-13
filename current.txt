@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T19:19:57.906471+00:00", 36, "Your mother is", "perilous", "Pronunciation: /\u02c8p\u025bril\u0259s/", "Definition: fraught with danger", "Synonyms: parlous, precarious, touch-and-go"]}
+{"data": ["2021-05-13T19:29:57.901898+00:00", 37, "Your mother is", "low-growing", "Similar to: low", "Definition: of plants that grow relatively low to the ground", "Synonyms: flat-growing, ground-hugging"]}
