@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T10:00:08.739579+00:00', 27, 'Your mother is', 'subjacent', "Pronunciation: /səb'dʒeɪsənt/", 'Definition: lying nearby but lower', '']}
+{'data': ['2021-05-13T10:10:08.890947+00:00', 28, 'Your mother is', 'inspired', "Pronunciation: /ɪn'spaɪərd/", 'Definition: being of such surpassing excellence as to suggest inspiration by the gods', 'Synonyms: divine, elysian']}
