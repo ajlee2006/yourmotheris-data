@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T08:40:05.155259+00:00', 20, 'Your mother is', 'hatted', 'Similar to: turbaned', 'Definition: wearing a hat or a hat of a particular kind', '']}
+{'data': ['2021-05-13T08:50:05.117072+00:00', 21, 'Your mother is', 'stranded', "Pronunciation: 'strændʌd", 'Definition: cut off or left behind', 'Synonyms: isolated, marooned']}
