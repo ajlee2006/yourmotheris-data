@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T06:40:17.000346+00:00', 11, 'Your mother is', 'supraocular', '', 'Definition: located or occurring above the eye socket', 'Synonyms: supraorbital']}
+{'data': ['2021-05-13T07:00:06.845734+00:00', 12, 'Your mother is', 'bedraggled', "Pronunciation: bɪ'dræɡəld", 'Definition: in deplorable condition', 'Synonyms: broken-down, derelict, dilapidated, ramshackle, tatterdemalion, tumble-down']}
