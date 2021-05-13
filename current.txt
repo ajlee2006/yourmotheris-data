@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T16:00:11.323975+00:00", 16, "Your mother is", "short-eared", "Pronunciation: /\u0283\u0254rt-ird/", "Definition: having short ears", ""]}
+{"data": ["2021-05-13T16:10:11.483982+00:00", 17, "Your mother is", "lenient", "Pronunciation: /\u02c8lini\u0259nt/", "Definition: tolerant or lenient", "Synonyms: indulgent, soft"]}
