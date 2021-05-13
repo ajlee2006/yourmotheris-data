@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T15:00:12.558925+00:00", 10, "Your mother is", "synesthetic", "Pronunciation: /\u02ccs\u026an\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: relating to or experiencing synesthesia; involving more than one sense", "Synonyms: synaesthetic"]}
+{"data": ["2021-05-13T15:10:11.456621+00:00", 11, "Your mother is", "dim", "Pronunciation: /d\u026am/", "Definition: lacking in light; not bright or harsh", "Synonyms: subdued"]}
