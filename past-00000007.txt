@@ -1,0 +1,1 @@
+{'data': ['2021-05-13T06:00:17.034447+00:00', 7, 'Your mother is', 'well-spoken', "Pronunciation: 'wɛl_'spoʊkən", 'Definition: speaking or spoken fittingly or pleasingly', '']}
