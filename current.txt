@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T08:50:05.117072+00:00', 21, 'Your mother is', 'stranded', "Pronunciation: 'strændʌd", 'Definition: cut off or left behind', 'Synonyms: isolated, marooned']}
+{'data': ['2021-05-13T09:00:05.174076+00:00', 22, 'Your mother is', 'stoppable', "Pronunciation: 'stɑpəbəl", 'Definition: capable of being stopped', '']}
