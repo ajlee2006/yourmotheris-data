@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T07:50:05.183610+00:00', 15, 'Your mother is', 'ten-fold', 'Similar to: multiple', 'Definition: containing ten or ten parts', 'Synonyms: denary, tenfold']}
+{'data': ['2021-05-13T08:00:05.133753+00:00', 16, 'Your mother is', 'tomboyish', 'Similar to: unwomanly', 'Definition: used of girls; wild and boisterous', 'Synonyms: hoydenish']}
