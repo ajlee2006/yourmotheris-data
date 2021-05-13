@@ -1,1 +1,0 @@
-{'data': ['2021-05-13T00:01:59.763197+08:00', 25, 'Your mother is', 'naiant', "Pronunciation: 'neɪənt", 'Definition: applied to a fish depicted horizontally', 'Synonyms: swimming']}

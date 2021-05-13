@@ -1,1 +1,0 @@
-{'data': ['2021-05-13T00:32:14.188835+08:00', 28, 'Your mother is', 'provable', "Pronunciation: 'pruvʌbʌl", 'Definition: capable of being demonstrated or proved', 'Synonyms: demonstrable']}

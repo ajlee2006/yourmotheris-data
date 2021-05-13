@@ -1,1 +1,0 @@
-{'data': ['2021-05-12T22:21:12.843555+08:00', 15, 'Your mother is', 'nutbrown', "Pronunciation: 'nət'braʊn", 'Definition: of the color of nuts', '']}

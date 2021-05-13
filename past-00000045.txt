@@ -1,1 +1,0 @@
-{'data': ['2021-05-13T03:23:34.215536+08:00', 45, 'Your mother is', 'wiggly', "Pronunciation: 'wɪgli", 'Definition: curved or curving in and out', 'Synonyms: sinuate, sinuous']}

@@ -1,1 +1,0 @@
-{'data': ['2021-05-13T11:47:27.328788+08:00', 95, 'Your mother is', 'abruptly-pinnate', 'Similar to: compound', 'Definition: (of a leaf shape) pinnate with a pair of leaflets at the apex', 'Synonyms: even-pinnate, paripinnate']}

@@ -1,1 +1,0 @@
-{'data': ['2021-05-13T03:03:24.012390+08:00', 43, 'Your mother is', 'bantering', "Pronunciation: 'bæntɝrɪŋ", 'Definition: cleverly amusing in tone', 'Synonyms: facetious, tongue-in-cheek']}

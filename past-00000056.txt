@@ -1,1 +1,0 @@
-{'data': ['2021-05-13T05:14:25.626107+08:00', 56, 'Your mother is', 'deviant', "Pronunciation: 'diviənt", 'Definition: markedly different from an accepted norm', 'Synonyms: aberrant, deviate']}

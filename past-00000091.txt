@@ -1,1 +1,0 @@
-{'data': ['2021-05-13T11:07:09.401829+08:00', 91, 'Your mother is', 'intraspecific', '', 'Definition: arising or occurring within a species; involving the members of one species', 'Synonyms: intraspecies']}

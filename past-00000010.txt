@@ -1,1 +1,0 @@
-{'data': ['2021-05-12T21:30:48.935439+08:00', 10, 'Your mother is', 'expandable', "Pronunciation: ɪk'spændʌbʌl", 'Definition: able to expand or be expanded', 'Synonyms: expandible, expansible']}

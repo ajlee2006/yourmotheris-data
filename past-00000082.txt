@@ -1,1 +1,0 @@
-{'data': ['2021-05-13T09:36:22.240308+08:00', 82, 'Your mother is', 'spectral', "Pronunciation: 'spɛktrəl", 'Definition: resembling or characteristic of a phantom', 'Synonyms: apparitional, ghostlike, ghostly, phantasmal, spiritual']}

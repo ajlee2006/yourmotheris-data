@@ -1,1 +1,0 @@
-{'data': ['2021-05-13T04:34:06.401732+08:00', 52, 'Your mother is', 'humanitarian', "Pronunciation: hju,mænɪ'tɜriən", 'Definition: marked by humanistic values and devotion to human welfare', 'Synonyms: human-centered, human-centred, humanist, humanistic']}

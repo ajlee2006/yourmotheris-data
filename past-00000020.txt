@@ -1,1 +1,0 @@
-{'data': ['2021-05-12T23:11:37.252654+08:00', 20, 'Your mother is', 'adipose', "Pronunciation: 'ædə,poʊs", 'Definition: composed of animal fat', '']}

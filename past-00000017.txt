@@ -1,1 +1,0 @@
-{'data': ['2021-05-12T22:41:21.811779+08:00', 17, 'Your mother is', 'forgivable', "Pronunciation: fɔr'ɡɪvʌbʌl", 'Definition: easily excused or forgiven', 'Synonyms: excusable, venial']}
