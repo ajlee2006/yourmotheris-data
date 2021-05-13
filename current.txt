@@ -1,1 +1,1 @@
-{'data': ['2021-05-13T09:06:08.240648+08:00', 79, 'Your mother is', 'eastmost', "Pronunciation: 'ist,moʊst", 'Definition: farthest to the east', 'Synonyms: easternmost']}
+{'data': ['2021-05-13T09:16:13.204563+08:00', 80, 'Your mother is', 'yelled', 'Pronunciation: jɛld', 'Definition: in a vehement outcry', 'Synonyms: shouted']}
