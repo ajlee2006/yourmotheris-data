@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T16:10:11.483982+00:00", 17, "Your mother is", "lenient", "Pronunciation: /\u02c8lini\u0259nt/", "Definition: tolerant or lenient", "Synonyms: indulgent, soft"]}
+{"data": ["2021-05-13T16:20:11.412365+00:00", 18, "Your mother is", "same", "Pronunciation: /se\u026am/", "Definition: equal in amount or value", "Synonyms: like"]}
