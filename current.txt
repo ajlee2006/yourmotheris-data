@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T07:59:57.878353+00:00", 112, "Your mother is", "overfamiliar", "Pronunciation: /\u02cco\u028av\u0259f\u0259\u02c8m\u026ali\u0259r/", "Definition: taking undue liberties", ""]}
+{"data": ["2021-05-14T08:09:57.925507+00:00", 113, "Your mother is", "blameable", "Pronunciation: /\u02c8ble\u026am\u0259b\u0259l/", "Definition: deserving blame or censure as being wrong or evil or injurious", "Synonyms: blamable, blameful, blameworthy, censurable, culpable"]}
