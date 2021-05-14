@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T20:08:21.364408+00:00", 184, "Your mother is", "muffled", "Pronunciation: /\u02c8m\u028cf\u028cld/", "Definition: being or made softer or less loud or clear", "Synonyms: dull, muted, softened"]}
+{"data": ["2021-05-14T20:18:21.266725+00:00", 185, "Your mother is", "kyphotic", "Pronunciation: /ka\u026a\u02c8f\u0251t\u026ak/", "Definition: characteristic of or suffering from kyphosis, an abnormality of the vertebral column", "Synonyms: crookback, crookbacked, gibbous, humpbacked, humped, hunchbacked"]}
