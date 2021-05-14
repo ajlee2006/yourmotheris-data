@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T05:59:57.843834+00:00", 100, "Your mother is", "immunological", "Pronunciation: /\u02cc\u026amjun\u028c\u02c8l\u0251d\u0292\u026ak\u028cl/", "Definition: of or relating to immunology", "Synonyms: immunologic"]}
+{"data": ["2021-05-14T06:09:57.957431+00:00", 101, "Your mother is", "anthropoidal", "Similar to: nonhuman", "Definition: resembling apes", "Synonyms: anthropoid, apelike"]}
