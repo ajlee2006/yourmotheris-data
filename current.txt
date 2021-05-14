@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T00:29:57.921498+00:00", 67, "Your mother is", "lilac-purple", "Pronunciation: /\u02c8la\u026al\u0259k-\u02c8p\u025crp\u0259l/", "Definition: of purple tinged with lilac", ""]}
+{"data": ["2021-05-14T00:39:57.825361+00:00", 68, "Your mother is", "damascene", "Pronunciation: /\u02c8d\u00e6m\u0259\u02ccsin/", "Definition: (of metals) decorated or inlaid with a wavy pattern of different (especially precious) metals", ""]}
