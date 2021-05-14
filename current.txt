@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T06:09:57.957431+00:00", 101, "Your mother is", "anthropoidal", "Similar to: nonhuman", "Definition: resembling apes", "Synonyms: anthropoid, apelike"]}
+{"data": ["2021-05-14T06:19:57.844169+00:00", 102, "Your mother is", "unasterisked", "Similar to: unmarked", "Definition: not marked with an asterisk", "Synonyms: unstarred"]}
