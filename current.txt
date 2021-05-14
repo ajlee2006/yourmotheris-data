@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T13:29:57.922263+00:00", 145, "Your mother is", "acentric", "Pronunciation: /e\u026a\u02c8s\u025bntr\u026ak/", "Definition: not centered or having no center", ""]}
+{"data": ["2021-05-14T13:39:57.910068+00:00", 146, "Your mother is", "neanderthal", "Pronunciation: /ni\u02c8\u00e6nd\u0259r\u02cc\u03b8\u0254l/", "Definition: relating to or belonging to or resembling Neanderthal man", "Synonyms: neandertal, neanderthalian"]}
