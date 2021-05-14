@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T01:19:57.807727+00:00", 72, "Your mother is", "hygienic", "Pronunciation: /\u02ccha\u026ad\u0292i\u02c8\u025bn\u026ak/", "Definition: tending to promote or preserve health", "Synonyms: hygienical"]}
+{"data": ["2021-05-14T01:29:57.877262+00:00", 73, "Your mother is", "splenic", "Pronunciation: /\u02c8splin\u026ak/", "Definition: of or relating to the spleen", "Synonyms: lienal, splenetic"]}
