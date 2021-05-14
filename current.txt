@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T08:39:57.868522+00:00", 116, "Your mother is", "sunken", "Pronunciation: /\u02c8s\u0259\u014bk\u0259n/", "Definition: having a sunken area", "Synonyms: deep-set, recessed"]}
+{"data": ["2021-05-14T08:49:58.156173+00:00", 117, "Your mother is", "ungregarious", "Similar to: unsociable", "Definition: not disposed to seek company", ""]}
