@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T03:39:57.852185+00:00", 86, "Your mother is", "incoherent", "Pronunciation: /\u02cc\u026anko\u028a\u02c8hir\u0259nt/", "Definition: unable to express yourself clearly or fluently", "Synonyms: tongue-tied"]}
+{"data": ["2021-05-14T03:49:57.921676+00:00", 87, "Your mother is", "volatile", "Pronunciation: /\u02c8v\u0251l\u0259t\u026al/", "Definition: liable to lead to sudden change or violence", "Synonyms: explosive"]}
