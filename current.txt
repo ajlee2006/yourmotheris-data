@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T06:59:57.961622+00:00", 106, "Your mother is", "seeming", "Pronunciation: /\u02c8simi\u014b/", "Definition: appearing as such but not necessarily so", "Synonyms: apparent, ostensible"]}
+{"data": ["2021-05-14T07:09:58.169658+00:00", 107, "Your mother is", "inexpungible", "Pronunciation: /\u02cc\u026an\u026ak\u02c8sp\u0259nd\u0292\u0259b\u0259l/", "Definition: not capable of being expunged", "Synonyms: inexpungeable"]}
