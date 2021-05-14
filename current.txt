@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T13:59:57.950405+00:00", 148, "Your mother is", "faint-hearted", "Similar to: cowardly", "Definition: lacking conviction or boldness or courage", "Synonyms: faint, fainthearted, timid"]}
+{"data": ["2021-05-14T14:09:57.896043+00:00", 149, "Your mother is", "anestrous", "", "Definition: of or relating to anestrus", "Synonyms: anestric, anoestrous"]}
