@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T23:08:21.774125+00:00", 202, "Your mother is", "canted", "Similar to: inclined", "Definition: departing or being caused to depart from the true vertical or horizontal", "Synonyms: atilt, leaning, tilted, tipped"]}
+{"data": ["2021-05-14T23:18:21.215281+00:00", 203, "Your mother is", "hepatotoxic", "Pronunciation: /\u02cch\u025bp\u0259to\u028a\u02c8t\u0251ks\u026ak/", "Definition: toxic to the liver", ""]}
