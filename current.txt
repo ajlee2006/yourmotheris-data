@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T02:59:57.866115+00:00", 82, "Your mother is", "unsolvable", "Pronunciation: /\u0259n\u02c8s\u0251lv\u0259b\u0259l/", "Definition: not easily solved", "Synonyms: insolvable, unresolvable, unsoluble"]}
+{"data": ["2021-05-14T03:09:57.804387+00:00", 83, "Your mother is", "fiber-optic", "", "Definition: of or relating to fiber optics", "Synonyms: fiberoptic, fibre-optic, fibreoptic"]}
