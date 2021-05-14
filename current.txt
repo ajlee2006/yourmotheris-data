@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T01:59:57.831627+00:00", 76, "Your mother is", "condescending", "Pronunciation: /\u02cck\u0251nd\u026a\u02c8s\u025bnd\u026a\u014b/", "Definition: (used of behavior or attitude) characteristic of those who treat others with condescension", "Synonyms: arch, patronising, patronizing"]}
+{"data": ["2021-05-14T02:09:58.005464+00:00", 77, "Your mother is", "monoclinic", "Pronunciation: /\u02ccm\u0251no\u028a\u02c8kl\u026an\u026ak/", "Definition: having three unequal crystal axes with one oblique intersection", ""]}
