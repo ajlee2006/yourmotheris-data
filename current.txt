@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T18:18:21.407876+00:00", 173, "Your mother is", "watered", "Pronunciation: /\u02c8w\u0254t\u025drd/", "Definition: (of silk fabric) having a wavelike pattern", "Synonyms: moire"]}
+{"data": ["2021-05-14T18:28:21.177107+00:00", 174, "Your mother is", "astonishing", "Pronunciation: /\u0259\u02c8st\u0251n\u026a\u0283\u026a\u014b/", "Definition: so surprisingly impressive as to stun or overwhelm", "Synonyms: astounding, staggering, stupefying"]}
