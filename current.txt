@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T12:49:57.926133+00:00", 141, "Your mother is", "glaucous", "Pronunciation: /\u02c8gl\u0254k\u0259s/", "Definition: having a frosted look from a powdery coating, as on plants", ""]}
+{"data": ["2021-05-14T12:59:57.938287+00:00", 142, "Your mother is", "getatable", "Pronunciation: /\u02cc\u0261\u025bt\u02c8\u00e6t\u0259b\u0259l/", "Definition: capable of being reached or attained", "Synonyms: come-at-able, get-at-able"]}
