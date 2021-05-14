@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T21:08:21.249759+00:00", 190, "Your mother is", "downscale", "Pronunciation: /\u02c8d\u00e6\u028anske\u026al/", "Definition: intended for people with low incomes", ""]}
+{"data": ["2021-05-14T21:18:21.205420+00:00", 191, "Your mother is", "nonresistant", "Pronunciation: /\u02ccn\u0251nr\u026a\u02c8z\u026ast\u0259nt/", "Definition: (often followed by `to') likely to be affected with", "Synonyms: liable, nonimmune, unresistant"]}
