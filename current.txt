@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T22:38:21.309329+00:00", 199, "Your mother is", "apathetic", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: marked by a lack of interest", "Synonyms: indifferent"]}
+{"data": ["2021-05-14T22:48:21.223060+00:00", 200, "Your mother is", "twopenny", "Pronunciation: /\u02c8t\u0259p\u0259ni/", "Definition: of trifling worth", "Synonyms: sixpenny, threepenny, tuppeny, two-a-penny, twopenny-halfpenny"]}
