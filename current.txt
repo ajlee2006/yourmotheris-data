@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T02:09:58.005464+00:00", 77, "Your mother is", "monoclinic", "Pronunciation: /\u02ccm\u0251no\u028a\u02c8kl\u026an\u026ak/", "Definition: having three unequal crystal axes with one oblique intersection", ""]}
+{"data": ["2021-05-14T02:19:57.911321+00:00", 78, "Your mother is", "semipermanent", "Pronunciation: /\u02ccs\u025bmi\u02c8p\u025crm\u0259n\u0259nt/", "Definition: relating to or extending over a relatively long time", "Synonyms: long-run, long-term"]}
