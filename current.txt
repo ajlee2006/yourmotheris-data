@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T04:39:57.868605+00:00", 92, "Your mother is", "graduate", "Pronunciation: /\u02c8gr\u00e6d\u0292u\u02cce\u026at/", "Definition: of or relating to studies beyond a bachelor's degree", "Synonyms: postgraduate"]}
+{"data": ["2021-05-14T04:49:57.843708+00:00", 93, "Your mother is", "one-humped", "", "Definition: having one hump", "Synonyms: single-humped"]}
