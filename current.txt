@@ -1,1 +1,1 @@
-{"data": ["2021-05-13T23:59:57.885962+00:00", 64, "Your mother is", "submersible", "Pronunciation: /s\u0259b\u02c8m\u025crs\u026ab\u0259l/", "Definition: capable of being immersed in water or functioning while submerged", "Synonyms: submergible"]}
+{"data": ["2021-05-14T00:09:57.906792+00:00", 65, "Your mother is", "factor analytical", "", "Definition: of or relating to or the product of factor analysis", "Synonyms: factor analytic"]}
