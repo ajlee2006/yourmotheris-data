@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T15:59:58.051219+00:00", 160, "Your mother is", "psychogenic", "Pronunciation: /\u02ccsa\u026ako\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: of or relating to the psychological cause of a disorder", "Synonyms: psychogenetic"]}
+{"data": ["2021-05-14T16:09:57.964720+00:00", 161, "Your mother is", "brahminical", "", "Definition: of or relating to or characteristic of a brahmin", "Synonyms: brahminic"]}
