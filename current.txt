@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T09:39:57.973900+00:00", 122, "Your mother is", "pent-up", "Pronunciation: /p\u025bnt-\u0259p/", "Definition: characterized by or showing the suppression of impulses or emotions", "Synonyms: repressed"]}
+{"data": ["2021-05-14T09:49:57.861227+00:00", 123, "Your mother is", "anthophilous", "Pronunciation: /\u00e6n\u02c8\u03b8\u0251f\u0259l\u0259s/", "Definition: feeding on flowers", "Synonyms: anthophagous"]}
