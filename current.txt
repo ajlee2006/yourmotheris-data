@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T10:39:57.845758+00:00", 128, "Your mother is", "enjoyable", "Pronunciation: /\u025bn\u02c8d\u0292\u0254\u026a\u0259b\u0259l/", "Definition: affording satisfaction or pleasure", "Synonyms: gratifying, pleasurable"]}
+{"data": ["2021-05-14T10:49:57.906917+00:00", 129, "Your mother is", "progressive", "Pronunciation: /pr\u0259\u02c8gr\u025bs\u026av/", "Definition: favoring or promoting reform (often by government action)", "Synonyms: reform-minded, reformist"]}
