@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T10:29:57.907126+00:00", 127, "Your mother is", "nonwoody", "Similar to: herbaceous", "Definition: not woody; not consisting of or resembling wood", ""]}
+{"data": ["2021-05-14T10:39:57.845758+00:00", 128, "Your mother is", "enjoyable", "Pronunciation: /\u025bn\u02c8d\u0292\u0254\u026a\u0259b\u0259l/", "Definition: affording satisfaction or pleasure", "Synonyms: gratifying, pleasurable"]}
