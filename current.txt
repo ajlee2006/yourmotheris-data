@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T15:39:57.941627+00:00", 158, "Your mother is", "retractable", "Pronunciation: /ri\u02c8tr\u00e6kt\u028cb\u028cl/", "Definition: capable of being retracted", ""]}
+{"data": ["2021-05-14T15:49:58.049915+00:00", 159, "Your mother is", "haphazard", "Pronunciation: /h\u00e6p\u02c8h\u00e6z\u0259d/", "Definition: marked by great carelessness", "Synonyms: slapdash, slipshod, sloppy"]}
