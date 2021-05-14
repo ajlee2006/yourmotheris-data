@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T02:29:57.876074+00:00", 79, "Your mother is", "traitorous", "Pronunciation: /\u02c8tre\u026at\u0259r\u0259s/", "Definition: having the character of, or characteristic of, a traitor", "Synonyms: faithless, treasonable, treasonous, unfaithful"]}
+{"data": ["2021-05-14T02:39:57.805326+00:00", 80, "Your mother is", "ungallant", "Pronunciation: /\u0259n\u02c8\u0261\u00e6l\u0259nt/", "Definition: offensively discourteous", "Synonyms: caddish, unchivalrous"]}
