@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T18:38:21.311995+00:00", 175, "Your mother is", "bar-shaped", "Similar to: formed", "Definition: shaped like a rigid strip of metal or wood", ""]}
+{"data": ["2021-05-14T18:48:21.202320+00:00", 176, "Your mother is", "oxford-grey", "Similar to: achromatic", "Definition: of a dark shade of grey", "Synonyms: dark-gray, dark-grey, oxford-gray"]}
