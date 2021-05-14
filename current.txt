@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T22:28:21.441644+00:00", 198, "Your mother is", "powerless", "Pronunciation: /\u02c8pa\u028a\u0259rl\u026as/", "Definition: lacking power", ""]}
+{"data": ["2021-05-14T22:38:21.309329+00:00", 199, "Your mother is", "apathetic", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: marked by a lack of interest", "Synonyms: indifferent"]}
