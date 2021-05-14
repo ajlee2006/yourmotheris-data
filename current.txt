@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T06:29:57.812686+00:00", 103, "Your mother is", "misunderstood", "Pronunciation: /\u02ccm\u026as\u0259nd\u0259r\u02c8st\u028ad/", "Definition: wrongly understood", ""]}
+{"data": ["2021-05-14T06:39:57.838432+00:00", 104, "Your mother is", "pilose", "Pronunciation: /\u02c8pa\u026alo\u028as/", "Definition: covered with hairs especially fine soft ones", "Synonyms: pilary, pilous"]}
