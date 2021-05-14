@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T16:49:57.936600+00:00", 165, "Your mother is", "obtainable", "Pronunciation: /\u028cb\u02c8te\u026an\u028cb\u028cl/", "Definition: capable of being obtained", "Synonyms: getable, gettable, procurable"]}
+{"data": ["2021-05-14T16:59:57.925333+00:00", 166, "Your mother is", "watered", "Pronunciation: /\u02c8w\u0254t\u025drd/", "Definition: (of silk fabric) having a wavelike pattern", "Synonyms: moire"]}
