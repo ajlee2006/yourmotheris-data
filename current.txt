@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T13:19:57.883046+00:00", 144, "Your mother is", "behaviourist", "", "Definition: of or relating to behaviorism", "Synonyms: behaviorist, behavioristic, behaviouristic"]}
+{"data": ["2021-05-14T13:29:57.922263+00:00", 145, "Your mother is", "acentric", "Pronunciation: /e\u026a\u02c8s\u025bntr\u026ak/", "Definition: not centered or having no center", ""]}
