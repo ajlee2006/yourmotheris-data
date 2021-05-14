@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T01:39:57.791600+00:00", 74, "Your mother is", "chthonic", "Pronunciation: /\u02c8\u03b8\u0251n\u026ak/", "Definition: dwelling beneath the surface of the earth", "Synonyms: chthonian, nether"]}
+{"data": ["2021-05-14T01:49:57.923915+00:00", 75, "Your mother is", "ixl", "Similar to: cardinal", "Definition: being nine more than thirty", "Synonyms: 39, thirty-nine"]}
