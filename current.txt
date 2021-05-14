@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T04:19:57.903564+00:00", 90, "Your mother is", "ferrous", "Pronunciation: /\u02c8f\u025br\u0259s/", "Definition: of or relating to or containing iron", "Synonyms: ferric"]}
+{"data": ["2021-05-14T04:29:57.886778+00:00", 91, "Your mother is", "pestilent", "Pronunciation: /\u02c8p\u025bst\u0259l\u0259nt/", "Definition: likely to spread and cause an epidemic disease", "Synonyms: pestiferous, pestilential, plaguey"]}
