@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T01:29:57.877262+00:00", 73, "Your mother is", "splenic", "Pronunciation: /\u02c8splin\u026ak/", "Definition: of or relating to the spleen", "Synonyms: lienal, splenetic"]}
+{"data": ["2021-05-14T01:39:57.791600+00:00", 74, "Your mother is", "chthonic", "Pronunciation: /\u02c8\u03b8\u0251n\u026ak/", "Definition: dwelling beneath the surface of the earth", "Synonyms: chthonian, nether"]}
