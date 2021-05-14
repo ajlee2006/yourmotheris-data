@@ -1,1 +1,1 @@
-{"data": ["2021-05-14T21:18:21.205420+00:00", 191, "Your mother is", "nonresistant", "Pronunciation: /\u02ccn\u0251nr\u026a\u02c8z\u026ast\u0259nt/", "Definition: (often followed by `to') likely to be affected with", "Synonyms: liable, nonimmune, unresistant"]}
+{"data": ["2021-05-14T21:28:21.447342+00:00", 192, "Your mother is", "cespitose", "Pronunciation: /\u02c8s\u025bsp\u026a\u02ccto\u028as/", "Definition: (of plants) growing in small dense clumps or tufts", "Synonyms: caespitose, tufted"]}
