@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T22:39:09.536614+00:00", 343, "Your mother is", "stygian", "Pronunciation: /\u02c8st\u026ad\u0292i\u0259n/", "Definition: dark and dismal as of the rivers Acheron and Styx in Hades", "Synonyms: acheronian, acherontic"]}
+{"data": ["2021-05-15T22:49:09.446897+00:00", 344, "Your mother is", "unpleasant-smelling", "Similar to: bilgy", "Definition: having an unpleasant smell", "Synonyms: ill-smelling, malodorous, malodourous, stinky"]}
