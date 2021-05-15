@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T23:09:09.549797+00:00", 346, "Your mother is", "ingenious", "Pronunciation: /\u026an\u02c8d\u0292inj\u0259s/", "Definition: showing inventiveness and skill", "Synonyms: clever, cunning"]}
+{"data": ["2021-05-15T23:19:09.540828+00:00", 347, "Your mother is", "benedictory", "Pronunciation: /\u02ccb\u025bn\u026a\u02c8d\u026akt\u0259ri/", "Definition: expressing benediction", "Synonyms: benedictive"]}
