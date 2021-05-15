@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T02:39:09.444065+00:00", 223, "Your mother is", "y2k compliant", "Similar to: obedient", "Definition: prepared to accurately process date and time data between and into the 20th and 21st centuries", ""]}
+{"data": ["2021-05-15T02:49:09.507961+00:00", 224, "Your mother is", "azygous", "Pronunciation: /\u02c8\u00e6z\u0259\u0261\u0259s/", "Definition: occurring singly; not one of a pair", "Synonyms: azygos"]}
