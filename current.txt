@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T18:39:10.798912+00:00", 319, "Your mother is", "regenerate", "Pronunciation: /r\u026a\u02c8d\u0292\u025bn\u0259r\u026at/", "Definition: reformed spiritually or morally", ""]}
+{"data": ["2021-05-15T18:49:09.531555+00:00", 320, "Your mother is", "mediate", "Pronunciation: /\u02c8midi\u026at/", "Definition: being neither at the beginning nor at the end in a series", "Synonyms: in-between, middle"]}
