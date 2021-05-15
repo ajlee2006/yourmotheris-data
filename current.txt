@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T23:19:09.540828+00:00", 347, "Your mother is", "benedictory", "Pronunciation: /\u02ccb\u025bn\u026a\u02c8d\u026akt\u0259ri/", "Definition: expressing benediction", "Synonyms: benedictive"]}
+{"data": ["2021-05-15T23:29:09.482970+00:00", 348, "Your mother is", "uninhabitable", "Pronunciation: /\u02cc\u0259n\u026an\u02c8h\u00e6b\u026at\u0259b\u0259l/", "Definition: not fit for habitation", ""]}
