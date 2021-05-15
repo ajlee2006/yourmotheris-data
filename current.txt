@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T22:59:09.458989+00:00", 345, "Your mother is", "changing", "Pronunciation: /\u02c8t\u0283e\u026and\u0292\u026a\u014b/", "Definition: marked by continuous change or effective action", "Synonyms: ever-changing"]}
+{"data": ["2021-05-15T23:09:09.549797+00:00", 346, "Your mother is", "ingenious", "Pronunciation: /\u026an\u02c8d\u0292inj\u0259s/", "Definition: showing inventiveness and skill", "Synonyms: clever, cunning"]}
