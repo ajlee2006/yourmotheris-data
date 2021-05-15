@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T22:49:09.446897+00:00", 344, "Your mother is", "unpleasant-smelling", "Similar to: bilgy", "Definition: having an unpleasant smell", "Synonyms: ill-smelling, malodorous, malodourous, stinky"]}
+{"data": ["2021-05-15T22:59:09.458989+00:00", 345, "Your mother is", "changing", "Pronunciation: /\u02c8t\u0283e\u026and\u0292\u026a\u014b/", "Definition: marked by continuous change or effective action", "Synonyms: ever-changing"]}
