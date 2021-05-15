@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T08:09:09.450226+00:00", 256, "Your mother is", "self-evident", "Pronunciation: /s\u025blf-\u02c8\u025bv\u026ad\u0259nt/", "Definition: evident without proof or argument", "Synonyms: axiomatic, taken for granted"]}
+{"data": ["2021-05-15T08:19:09.491330+00:00", 257, "Your mother is", "springy", "Pronunciation: /\u02c8spr\u026a\u014bi/", "Definition: elastic; rebounds readily", "Synonyms: bouncy, live, lively, resilient"]}
