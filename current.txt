@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T10:49:09.467653+00:00", 272, "Your mother is", "lightsome", "Pronunciation: /\u02c8la\u026ats\u0259m/", "Definition: carefree and happy and lighthearted", "Synonyms: blithe, blithesome, light-hearted, lighthearted"]}
+{"data": ["2021-05-15T10:59:09.509715+00:00", 273, "Your mother is", "protractible", "Similar to: extensible", "Definition: able to be extended", "Synonyms: protractile"]}
