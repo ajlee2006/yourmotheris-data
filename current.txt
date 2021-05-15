@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T00:08:21.296289+00:00", 208, "Your mother is", "fruitless", "Pronunciation: /\u02c8frutl\u026as/", "Definition: unproductive of success", "Synonyms: bootless, futile, sleeveless, vain"]}
+{"data": ["2021-05-15T00:18:21.426710+00:00", 209, "Your mother is", "egg-producing", "Similar to: female", "Definition: capable of producing eggs and bearing offspring", "Synonyms: young-bearing"]}
