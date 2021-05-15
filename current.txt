@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T15:09:09.399297+00:00", 298, "Your mother is", "watery-eyed", "Pronunciation: /\u02c8w\u0254t\u0259ri-a\u026ad/", "Definition: with eyes full of tears", "Synonyms: teary, teary-eyed"]}
+{"data": ["2021-05-15T15:19:09.497928+00:00", 299, "Your mother is", "unarmed", "Pronunciation: /\u0259n\u02c8\u0251rmd/", "Definition: (used of persons or the military) not having or using arms", ""]}
