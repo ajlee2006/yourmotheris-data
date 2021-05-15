@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T07:29:09.448434+00:00", 252, "Your mother is", "bifocal", "Pronunciation: /ba\u026a\u02c8fo\u028ak\u0259l/", "Definition: having two foci", ""]}
+{"data": ["2021-05-15T07:39:09.418397+00:00", 253, "Your mother is", "beggarly", "Pronunciation: /\u02c8b\u025b\u0261\u0259rli/", "Definition: (used of sums of money) so small in amount as to deserve contempt", "Synonyms: mean"]}
