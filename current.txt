@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T05:49:09.506796+00:00", 242, "Your mother is", "syncarpous", "Pronunciation: /s\u026an\u02c8k\u0251rp\u0259s/", "Definition: (of ovaries of flowering plants) consisting of united carpels", ""]}
+{"data": ["2021-05-15T05:59:09.642618+00:00", 243, "Your mother is", "algebraical", "Pronunciation: /\u02cc\u00e6ld\u0292\u026a\u02c8bre\u026a\u026ak\u0259l/", "Definition: of or relating to algebra", "Synonyms: algebraic"]}
