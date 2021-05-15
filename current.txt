@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T19:49:09.498664+00:00", 326, "Your mother is", "darling", "Pronunciation: /\u02c8d\u0251rl\u026a\u014b/", "Definition: dearly loved", "Synonyms: beloved, dear"]}
+{"data": ["2021-05-15T19:59:09.479223+00:00", 327, "Your mother is", "voteless", "Pronunciation: /\u02c8vo\u028atl\u026as/", "Definition: deprived of the rights of citizenship especially the right to vote", "Synonyms: disenfranchised, disfranchised, voiceless"]}
