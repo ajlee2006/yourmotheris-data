@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T03:49:09.422916+00:00", 230, "Your mother is", "bottom", "Pronunciation: /\u02c8b\u0251t\u0259m/", "Definition: situated at the bottom or lowest position", ""]}
+{"data": ["2021-05-15T03:59:09.458188+00:00", 231, "Your mother is", "choosy", "Pronunciation: /\u02c8t\u0283uzi/", "Definition: difficult to please", "Synonyms: choosey"]}
