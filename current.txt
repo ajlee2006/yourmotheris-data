@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T05:19:09.486416+00:00", 239, "Your mother is", "pervasive", "Pronunciation: /\u02c8p\u0259rve\u026as\u026av/", "Definition: spreading or spread throughout", "Synonyms: permeant, permeating, permeative"]}
+{"data": ["2021-05-15T05:29:09.431872+00:00", 240, "Your mother is", "vocalic", "Pronunciation: /vo\u028a\u02c8k\u00e6l\u026ak/", "Definition: being or containing or characterized by vowels", ""]}
