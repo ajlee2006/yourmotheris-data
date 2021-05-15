@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T02:19:09.568817+00:00", 221, "Your mother is", "unfrightened", "Similar to: fearless", "Definition: not affected by fright", ""]}
+{"data": ["2021-05-15T02:29:09.705391+00:00", 222, "Your mother is", "pinnate", "Pronunciation: /\u02c8p\u026ane\u026at/", "Definition: (of a leaf shape) featherlike; having leaflets on each side of a common axis", "Synonyms: pinnated"]}
