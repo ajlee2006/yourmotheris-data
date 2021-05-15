@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T21:19:09.619497+00:00", 335, "Your mother is", "surface", "Pronunciation: /\u02c8s\u025crf\u026as/", "Definition: on the surface", ""]}
+{"data": ["2021-05-15T21:29:09.469563+00:00", 336, "Your mother is", "inverse", "Pronunciation: /\u02c8\u026anv\u025crs/", "Definition: reversed (turned backward) in order or nature or effect", "Synonyms: reverse"]}
