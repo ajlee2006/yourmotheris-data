@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T23:39:09.544455+00:00", 349, "Your mother is", "bona fide", "Pronunciation: /\u02c8bo\u028an\u0259-\u02ccfa\u026ad/", "Definition: not counterfeit or copied", "Synonyms: authentic, unquestionable, veritable"]}
+{"data": ["2021-05-15T23:49:09.642769+00:00", 350, "Your mother is", "directing", "Pronunciation: /d\u025dr\u02c8\u025bkt\u026a\u014b/", "Definition: showing the way by conducting or leading; imposing direction on", "Synonyms: directional, directive, guiding"]}
