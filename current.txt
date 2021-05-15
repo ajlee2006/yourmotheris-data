@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T12:29:09.397564+00:00", 282, "Your mother is", "morphological", "Pronunciation: /\u02ccm\u0254rf\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: relating to or concerned with the formation of admissible words in a language", "Synonyms: morphologic"]}
+{"data": ["2021-05-15T12:39:09.515460+00:00", 283, "Your mother is", "unhearable", "Similar to: supersonic", "Definition: impossible to hear; imperceptible by the ear", "Synonyms: inaudible"]}
