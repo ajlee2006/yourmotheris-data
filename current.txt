@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T13:09:09.508160+00:00", 286, "Your mother is", "evident", "Pronunciation: /\u02c8\u025bv\u026ad\u0259nt/", "Definition: capable of being seen or noticed", "Synonyms: discernible, observable"]}
+{"data": ["2021-05-15T13:19:09.618087+00:00", 287, "Your mother is", "screwy", "Pronunciation: /\u02c8skrui/", "Definition: not behaving normally", "Synonyms: screw-loose"]}
