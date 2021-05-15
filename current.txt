@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T04:09:09.440926+00:00", 232, "Your mother is", "nonreflecting", "Similar to: echoless", "Definition: not capable of physical reflection", "Synonyms: nonreflective"]}
+{"data": ["2021-05-15T04:19:09.453715+00:00", 233, "Your mother is", "bean-shaped", "Pronunciation: /bin-\u0283e\u026apt/", "Definition: having a shape resembling a bean", ""]}
