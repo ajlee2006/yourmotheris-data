@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T11:09:09.478643+00:00", 274, "Your mother is", "worm-shaped", "Similar to: formed", "Definition: resembling a worm; long and thin and cylindrical", "Synonyms: vermiform"]}
+{"data": ["2021-05-15T11:19:09.466505+00:00", 275, "Your mother is", "sacrosanct", "Pronunciation: /\u02c8s\u00e6kro\u028a\u02ccs\u00e6\u014bkt/", "Definition: must be kept sacred", "Synonyms: inviolable, inviolate"]}
