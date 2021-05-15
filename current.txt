@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T09:39:09.526282+00:00", 265, "Your mother is", "moderate", "Pronunciation: /\u02c8m\u0251d\u025cr\u0259t/", "Definition: not extreme", "Synonyms: temperate"]}
+{"data": ["2021-05-15T09:49:09.500573+00:00", 266, "Your mother is", "unequaled", "Pronunciation: /\u0259n\u02c8ikw\u0259ld/", "Definition: radically distinctive and without equal", "Synonyms: alone, unequalled, unique, unparalleled"]}
