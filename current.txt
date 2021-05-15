@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T01:18:21.546321+00:00", 215, "Your mother is", "phytophilous", "Similar to: herbivorous", "Definition: (of animals) feeding on plants", "Synonyms: phytophagic, phytophagous, plant-eating"]}
+{"data": ["2021-05-15T01:28:21.522257+00:00", 216, "Your mother is", "hackneyed", "Pronunciation: /\u02c8h\u00e6knid/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, old-hat, shopworn, stock, threadbare, timeworn, tired, trite, well-worn"]}
