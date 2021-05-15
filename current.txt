@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T01:48:21.227882+00:00", 218, "Your mother is", "under-the-counter", "Pronunciation: /\u02c8\u0259nd\u0259r\u00f0\u0259\u02c8ka\u028ant\u0259r/", "Definition: done or sold illicitly and secretly", ""]}
+{"data": ["2021-05-15T01:58:21.140247+00:00", 219, "Your mother is", "wintery", "Pronunciation: /\u02c8w\u026ant\u0259ri/", "Definition: characteristic of or occurring in winter", "Synonyms: wintry"]}
