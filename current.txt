@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T03:59:09.458188+00:00", 231, "Your mother is", "choosy", "Pronunciation: /\u02c8t\u0283uzi/", "Definition: difficult to please", "Synonyms: choosey"]}
+{"data": ["2021-05-15T04:09:09.440926+00:00", 232, "Your mother is", "nonreflecting", "Similar to: echoless", "Definition: not capable of physical reflection", "Synonyms: nonreflective"]}
