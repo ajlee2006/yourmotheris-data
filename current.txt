@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T04:29:09.432174+00:00", 234, "Your mother is", "blown-up", "Pronunciation: /\u02c8blo\u028an\u02c8\u0259p/", "Definition: as of a photograph; made larger", "Synonyms: enlarged"]}
+{"data": ["2021-05-15T04:39:09.553329+00:00", 235, "Your mother is", "four-ply", "Pronunciation: /fo\u028ar-pla\u026a/", "Definition: having a thickness made up of four layers or strands", ""]}
