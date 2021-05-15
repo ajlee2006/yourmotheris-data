@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T20:39:09.567539+00:00", 331, "Your mother is", "clearheaded", "Pronunciation: /\u02c8klir\u02c8h\u025bd\u026ad/", "Definition: not mentally confused; able to think clearly and act intelligently", "Synonyms: clear-thinking"]}
+{"data": ["2021-05-15T20:49:09.484999+00:00", 332, "Your mother is", "ichorous", "Pronunciation: /\u02c8a\u026ak\u0259r\u0259s/", "Definition: of or resembling or characterized by ichor or sanies", "Synonyms: sanious"]}
