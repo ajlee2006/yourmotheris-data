@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T11:19:09.466505+00:00", 275, "Your mother is", "sacrosanct", "Pronunciation: /\u02c8s\u00e6kro\u028a\u02ccs\u00e6\u014bkt/", "Definition: must be kept sacred", "Synonyms: inviolable, inviolate"]}
+{"data": ["2021-05-15T11:29:09.608383+00:00", 276, "Your mother is", "agnate", "Pronunciation: /\u02c8\u00e6gne\u026at/", "Definition: related on the father's side", "Synonyms: agnatic, paternal"]}
