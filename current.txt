@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T20:49:09.484999+00:00", 332, "Your mother is", "ichorous", "Pronunciation: /\u02c8a\u026ak\u0259r\u0259s/", "Definition: of or resembling or characterized by ichor or sanies", "Synonyms: sanious"]}
+{"data": ["2021-05-15T20:59:09.520258+00:00", 333, "Your mother is", "norse", "Pronunciation: /n\u0254rs/", "Definition: of or relating to Norway or its people or culture or language", "Synonyms: norwegian"]}
