@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T14:29:09.406292+00:00", 294, "Your mother is", "powerful", "Pronunciation: /\u02c8pa\u028a\u0259rf\u0259l/", "Definition: strong enough to knock down or overwhelm", "Synonyms: knock-down"]}
+{"data": ["2021-05-15T14:39:09.434303+00:00", 295, "Your mother is", "teenage", "Pronunciation: /\u02c8tine\u026ad\u0292/", "Definition: being of the age 13 through 19", "Synonyms: adolescent, teen, teenaged"]}
