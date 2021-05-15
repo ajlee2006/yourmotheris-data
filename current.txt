@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T00:38:21.328497+00:00", 211, "Your mother is", "jetting", "Pronunciation: /\u02c8d\u0292\u025bt\u026a\u014b/", "Definition: propelled violently in a usually narrow stream", "Synonyms: spouting, spurting, squirting"]}
+{"data": ["2021-05-15T00:48:21.642566+00:00", 212, "Your mother is", "exoergic", "Pronunciation: /\u02cc\u025bkso\u028a\u02c8\u025crd\u0292\u026ak/", "Definition: (of a nuclear reaction) occurring with evolution or releasing of energy", "Synonyms: energy-releasing"]}
