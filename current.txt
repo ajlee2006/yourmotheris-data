@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T23:29:09.482970+00:00", 348, "Your mother is", "uninhabitable", "Pronunciation: /\u02cc\u0259n\u026an\u02c8h\u00e6b\u026at\u0259b\u0259l/", "Definition: not fit for habitation", ""]}
+{"data": ["2021-05-15T23:39:09.544455+00:00", 349, "Your mother is", "bona fide", "Pronunciation: /\u02c8bo\u028an\u0259-\u02ccfa\u026ad/", "Definition: not counterfeit or copied", "Synonyms: authentic, unquestionable, veritable"]}
