@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T11:39:09.430806+00:00", 277, "Your mother is", "oversea", "Pronunciation: /\u02cco\u028av\u025dr\u02c8si/", "Definition: being or passing over or across the sea", "Synonyms: overseas"]}
+{"data": ["2021-05-15T11:49:09.482661+00:00", 278, "Your mother is", "hundred-and-eightieth", "Similar to: ordinal", "Definition: the ordinal number of one hundred eighty in counting order", "Synonyms: 180th"]}
