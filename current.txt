@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T07:19:09.528910+00:00", 251, "Your mother is", "three-wheel", "", "Definition: of or relating to vehicles having three wheels", "Synonyms: three-wheeled"]}
+{"data": ["2021-05-15T07:29:09.448434+00:00", 252, "Your mother is", "bifocal", "Pronunciation: /ba\u026a\u02c8fo\u028ak\u0259l/", "Definition: having two foci", ""]}
