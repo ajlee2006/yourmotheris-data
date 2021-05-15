@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T22:19:09.589050+00:00", 341, "Your mother is", "49", "Similar to: cardinal", "Definition: being nine more than forty", "Synonyms: forty-nine, il"]}
+{"data": ["2021-05-15T22:29:09.619126+00:00", 342, "Your mother is", "analgesic", "Pronunciation: /\u02cc\u00e6n\u0259l\u02c8d\u0292is\u026ak/", "Definition: capable of relieving pain", "Synonyms: analgetic, anodyne"]}
