@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T15:19:09.497928+00:00", 299, "Your mother is", "unarmed", "Pronunciation: /\u0259n\u02c8\u0251rmd/", "Definition: (used of persons or the military) not having or using arms", ""]}
+{"data": ["2021-05-15T15:29:09.454274+00:00", 300, "Your mother is", "heedful", "Pronunciation: /\u02c8hidf\u0259l/", "Definition: cautiously attentive", "Synonyms: careful"]}
