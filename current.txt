@@ -1,1 +1,1 @@
-{"data": ["2021-05-15T00:48:21.642566+00:00", 212, "Your mother is", "exoergic", "Pronunciation: /\u02cc\u025bkso\u028a\u02c8\u025crd\u0292\u026ak/", "Definition: (of a nuclear reaction) occurring with evolution or releasing of energy", "Synonyms: energy-releasing"]}
+{"data": ["2021-05-15T00:58:21.230698+00:00", 213, "Your mother is", "contrary", "Pronunciation: /\u02c8k\u0251ntr\u025bri/", "Definition: in an opposing direction", "Synonyms: adverse"]}
