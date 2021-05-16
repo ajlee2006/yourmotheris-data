@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T01:19:09.625260+00:00", 359, "Your mother is", "continual", "Pronunciation: /k\u0259n\u02c8t\u026anju\u0259l/", "Definition: having no interruptions", ""]}
+{"data": ["2021-05-16T01:29:09.704885+00:00", 360, "Your mother is", "dostoevskian", "", "Definition: of or relating to or in the style of Feodor Dostoevski", "Synonyms: dostoyevskian"]}
