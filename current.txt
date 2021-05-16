@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T11:53:31.683094+00:00", 421, "Your mother is", "abominable", "Pronunciation: /\u0259\u02c8b\u0251m\u0259n\u0259b\u0259l/", "Definition: unequivocally detestable", "Synonyms: detestable, execrable, odious"]}
+{"data": ["2021-05-16T12:03:31.631860+00:00", 422, "Your mother is", "delimited", "Similar to: finite", "Definition: having the limits or boundaries established", "Synonyms: bounded"]}
