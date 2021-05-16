@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T21:13:31.805435+00:00", 477, "Your mother is", "weak-kneed", "Pronunciation: /\u02c8wik-\u02c8nid/", "Definition: lacking will power or resolution", ""]}
+{"data": ["2021-05-16T21:23:31.769315+00:00", 478, "Your mother is", "anomalous", "Pronunciation: /\u0259\u02c8n\u0251m\u0259l\u0259s/", "Definition: deviating from the general or common order or type", ""]}
