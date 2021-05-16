@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T20:43:31.699070+00:00", 474, "Your mother is", "every", "Pronunciation: /\u02c8\u025bvri/", "Definition: each and all of a series of entities or intervals as specified", ""]}
+{"data": ["2021-05-16T20:53:31.799004+00:00", 475, "Your mother is", "strict", "Pronunciation: /str\u026akt/", "Definition: incapable of compromise or flexibility", "Synonyms: rigid"]}
