@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T09:03:31.714038+00:00", 404, "Your mother is", "catastrophic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8str\u0251f\u026ak/", "Definition: extremely harmful; bringing physical or financial ruin", "Synonyms: ruinous"]}
+{"data": ["2021-05-16T09:13:31.659514+00:00", 405, "Your mother is", "amenorrheal", "", "Definition: related to the suppression of normal menstrual flow for any reason other than pregnancy", "Synonyms: amenorrheic, amenorrhoeal, amenorrhoeic"]}
