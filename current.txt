@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T19:53:31.822058+00:00", 469, "Your mother is", "bullocky", "Pronunciation: /\u02c8b\u028al\u0259ki/", "Definition: resembling a bullock in strength and power", ""]}
+{"data": ["2021-05-16T20:03:31.755348+00:00", 470, "Your mother is", "neurological", "Pronunciation: /\u02ccn\u028ar\u028c\u02c8l\u0251d\u0292\u026ak\u028cl/", "Definition: of or relating to or used in or practicing neurology", "Synonyms: neurologic"]}
