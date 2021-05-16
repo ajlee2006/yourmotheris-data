@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T08:43:31.680581+00:00", 402, "Your mother is", "contaminating", "Pronunciation: /k\u028cn\u02c8t\u00e6m\u028c\u02ccne\u026at\u026a\u014b/", "Definition: that infects or taints", "Synonyms: corrupting"]}
+{"data": ["2021-05-16T08:53:31.672591+00:00", 403, "Your mother is", "unimpressed", "Pronunciation: /\u02cc\u028cn\u026am\u02c8pr\u025bst/", "Definition: not moved to serious regard", ""]}
