@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T03:33:31.665236+00:00", 372, "Your mother is", "profoundly deaf", "Similar to: deaf", "Definition: totally deaf; unable to hear anything", "Synonyms: deaf as a post, stone-deaf, unhearing"]}
+{"data": ["2021-05-16T03:43:31.656963+00:00", 373, "Your mother is", "amygdaloidal", "Similar to: rounded", "Definition: shaped like an almond", "Synonyms: almond-shaped, amygdaliform, amygdaloid"]}
