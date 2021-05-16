@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T04:03:31.645377+00:00", 375, "Your mother is", "unsportsmanlike", "Pronunciation: /\u0259n\u02c8spo\u028artsm\u0259n\u02ccla\u026ak/", "Definition: violating accepted standards or rules", "Synonyms: cheating, dirty, foul, unsporting"]}
+{"data": ["2021-05-16T04:13:31.701148+00:00", 376, "Your mother is", "noncritical", "Similar to: acritical", "Definition: not in a state of crisis or emergency", "Synonyms: noncrucial"]}
