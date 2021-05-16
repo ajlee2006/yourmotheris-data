@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T12:03:31.631860+00:00", 422, "Your mother is", "delimited", "Similar to: finite", "Definition: having the limits or boundaries established", "Synonyms: bounded"]}
+{"data": ["2021-05-16T12:13:31.736697+00:00", 423, "Your mother is", "glazed", "Pronunciation: /gle\u026azd/", "Definition: having a shiny surface or coating", "Synonyms: shiny"]}
