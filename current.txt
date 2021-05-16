@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T03:43:31.656963+00:00", 373, "Your mother is", "amygdaloidal", "Similar to: rounded", "Definition: shaped like an almond", "Synonyms: almond-shaped, amygdaliform, amygdaloid"]}
+{"data": ["2021-05-16T03:53:31.685946+00:00", 374, "Your mother is", "mastoid", "Pronunciation: /\u02c8m\u00e6st\u0254\u026ad/", "Definition: relating to or resembling a nipple", "Synonyms: mastoidal"]}
