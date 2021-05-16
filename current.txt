@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T08:23:31.769031+00:00", 400, "Your mother is", "sweetened", "Pronunciation: /\u02c8swit\u028cnd/", "Definition: with sweetening added", "Synonyms: sugared, sweet, sweet-flavored"]}
+{"data": ["2021-05-16T08:33:31.695923+00:00", 401, "Your mother is", "self-evident", "Pronunciation: /s\u025blf-\u02c8\u025bv\u026ad\u0259nt/", "Definition: evident without proof or argument", "Synonyms: axiomatic, taken for granted"]}
