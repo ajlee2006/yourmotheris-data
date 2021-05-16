@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T03:03:31.728370+00:00", 369, "Your mother is", "out-of-date", "Pronunciation: /\u02c8a\u028at\u0259v\u02c8de\u026at/", "Definition: old; no longer valid or fashionable", "Synonyms: outdated, superannuated"]}
+{"data": ["2021-05-16T03:13:31.841589+00:00", 370, "Your mother is", "tip-and-run", "Pronunciation: /\u02c8t\u026ap-\u0259nd-\u02c8r\u0259n/", "Definition: designed for or consisting of a brief attack followed by a quick escape", "Synonyms: hit-and-run"]}
