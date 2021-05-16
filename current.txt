@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T00:29:09.585629+00:00", 354, "Your mother is", "high-rise", "Similar to: multistorey", "Definition: used of buildings of many stories equipped with elevators; tall", ""]}
+{"data": ["2021-05-16T00:39:09.588945+00:00", 355, "Your mother is", "ariled", "Similar to: covered", "Definition: (of some seeds) having a fleshy and usually brightly colored cover", "Synonyms: arillate"]}
