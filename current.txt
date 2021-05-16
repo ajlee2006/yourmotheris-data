@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T17:03:31.893719+00:00", 452, "Your mother is", "cherubic", "Pronunciation: /t\u0283\u0259\u02c8rub\u026ak/", "Definition: having a sweet nature befitting an angel or cherub", "Synonyms: angelic, angelical, seraphic, sweet"]}
+{"data": ["2021-05-16T17:13:31.833225+00:00", 453, "Your mother is", "interfering", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8f\u026ar\u026a\u014b/", "Definition: intrusive in a meddling or offensive manner", "Synonyms: busy, busybodied, meddlesome, meddling, officious"]}
