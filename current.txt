@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T05:43:31.635498+00:00", 385, "Your mother is", "freelance", "Pronunciation: /\u02c8fri/", "Definition: serving for wages in a foreign army", "Synonyms: free-lance, mercenary"]}
+{"data": ["2021-05-16T05:53:31.689321+00:00", 386, "Your mother is", "machinelike", "Similar to: mechanical", "Definition: resembling the unthinking functioning of a machine", "Synonyms: automatic, automatonlike, robotic, robotlike"]}
