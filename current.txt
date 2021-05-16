@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T02:09:09.805228+00:00", 364, "Your mother is", "reflective", "Pronunciation: /r\u026a\u02c8fl\u025bkt\u026av/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, musing, pensive, pondering, ruminative"]}
+{"data": ["2021-05-16T02:23:31.852570+00:00", 365, "Your mother is", "hypophyseal", "Pronunciation: /\u02ccha\u026ap\u0259\u02c8f\u026azi\u0259l/", "Definition: of or relating to the hypophysis", "Synonyms: hypophysial"]}
