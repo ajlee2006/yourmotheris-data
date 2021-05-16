@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T19:23:31.828829+00:00", 466, "Your mother is", "amort", "Pronunciation: /\u0259\u02c8m\u0254rt/", "Definition: utterly cast down", ""]}
+{"data": ["2021-05-16T19:33:32.079058+00:00", 467, "Your mother is", "bucked up", "Similar to: pleased", "Definition: inspired with confidence", "Synonyms: encouraged"]}
