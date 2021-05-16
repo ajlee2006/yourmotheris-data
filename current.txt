@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T15:13:31.818036+00:00", 441, "Your mother is", "womanly", "Pronunciation: /\u02c8w\u028am\u0259nli/", "Definition: befitting or characteristic of a woman especially a mature woman", "Synonyms: feminine"]}
+{"data": ["2021-05-16T15:23:31.767242+00:00", 442, "Your mother is", "longed-for", "Similar to: wanted", "Definition: greatly desired", "Synonyms: wished-for, yearned-for"]}
