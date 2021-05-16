@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T03:13:31.841589+00:00", 370, "Your mother is", "tip-and-run", "Pronunciation: /\u02c8t\u026ap-\u0259nd-\u02c8r\u0259n/", "Definition: designed for or consisting of a brief attack followed by a quick escape", "Synonyms: hit-and-run"]}
+{"data": ["2021-05-16T03:23:31.623172+00:00", 371, "Your mother is", "fathomable", "Pronunciation: /\u02c8f\u00e6\u00f0\u028cm\u028cb\u028cl/", "Definition: (of depth) capable of being sounded or measured for depth", "Synonyms: plumbable, soundable"]}
