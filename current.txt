@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T10:23:31.804311+00:00", 412, "Your mother is", "postmortal", "", "Definition: occurring or done after death", "Synonyms: postmortem"]}
+{"data": ["2021-05-16T10:33:31.691743+00:00", 413, "Your mother is", "delineated", "Pronunciation: /d\u026a\u02c8l\u026ani\u02cce\u026at\u026ad/", "Definition: represented accurately or precisely", "Synonyms: delineate, represented"]}
