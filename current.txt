@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T12:43:31.730849+00:00", 426, "Your mother is", "finespun", "Pronunciation: /\u02c8fa\u026an\u02c8sp\u0259n/", "Definition: developed in excessively fine detail", "Synonyms: hairsplitting"]}
+{"data": ["2021-05-16T12:53:31.900862+00:00", 427, "Your mother is", "frightening", "Pronunciation: /\u02c8fra\u026at\u028cn\u026a\u014b/", "Definition: causing fear or dread or terror", "Synonyms: awful, dire, direful, dread, dreaded, dreadful, fearful, fearsome, horrendous, horrific, terrible"]}
