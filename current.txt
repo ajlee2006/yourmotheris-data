@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T17:43:31.703821+00:00", 456, "Your mother is", "good-hearted", "Pronunciation: /\u0261\u028ad-\u02c8h\u0251rt\u026ad/", "Definition: showing or motivated by sympathy and understanding and generosity", "Synonyms: benevolent, charitable, kindly, large-hearted, openhearted, sympathetic"]}
+{"data": ["2021-05-16T17:53:32.027062+00:00", 457, "Your mother is", "alpestrine", "Pronunciation: /\u00e6l\u02c8p\u025bstr\u026an/", "Definition: growing at high altitudes", "Synonyms: subalpine"]}
