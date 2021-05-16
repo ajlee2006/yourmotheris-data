@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T06:43:31.740745+00:00", 390, "Your mother is", "intersecting", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8s\u025bkt\u026a\u014b/", "Definition: crossed or intersected in the form of an X", "Synonyms: decussate, intersectant"]}
+{"data": ["2021-05-16T06:53:31.754756+00:00", 391, "Your mother is", "undermentioned", "Pronunciation: /\u02cc\u0259nd\u0259\u02c8m\u025bn\u0283\u0259nd/", "Definition: about to be mentioned or specified", "Synonyms: following"]}
