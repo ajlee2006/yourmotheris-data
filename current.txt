@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T11:43:31.736453+00:00", 420, "Your mother is", "dusty", "Pronunciation: /\u02c8d\u0259sti/", "Definition: covered with a layer of dust", "Synonyms: dust-covered"]}
+{"data": ["2021-05-16T11:53:31.683094+00:00", 421, "Your mother is", "abominable", "Pronunciation: /\u0259\u02c8b\u0251m\u0259n\u0259b\u0259l/", "Definition: unequivocally detestable", "Synonyms: detestable, execrable, odious"]}
