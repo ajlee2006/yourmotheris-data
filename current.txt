@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T04:43:31.627737+00:00", 379, "Your mother is", "l", "Pronunciation: /\u025bl/", "Definition: being ten more than forty", "Synonyms: 50, fifty"]}
+{"data": ["2021-05-16T04:53:31.744831+00:00", 380, "Your mother is", "senile", "Pronunciation: /\u02c8sina\u026al/", "Definition: mentally or physically infirm with age", "Synonyms: doddering, doddery, gaga"]}
