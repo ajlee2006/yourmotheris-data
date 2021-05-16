@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T17:13:31.833225+00:00", 453, "Your mother is", "interfering", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8f\u026ar\u026a\u014b/", "Definition: intrusive in a meddling or offensive manner", "Synonyms: busy, busybodied, meddlesome, meddling, officious"]}
+{"data": ["2021-05-16T17:23:31.852866+00:00", 454, "Your mother is", "gnomish", "Similar to: little", "Definition: used of small deformed creatures", ""]}
