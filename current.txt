@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T10:43:31.652948+00:00", 414, "Your mother is", "mono", "Pronunciation: /\u02c8m\u0251no\u028a/", "Definition: designating sound transmission or recording or reproduction over a single channel", "Synonyms: monophonic, single-channel"]}
+{"data": ["2021-05-16T10:53:31.697258+00:00", 415, "Your mother is", "crass", "Pronunciation: /kr\u00e6s/", "Definition: (of persons) so unrefined as to be lacking in discrimination and sensibility", ""]}
