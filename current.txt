@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T12:33:31.764328+00:00", 425, "Your mother is", "nuts", "Pronunciation: /n\u0259ts/", "Definition: informal or slang terms for mentally irregular", "Synonyms: around the bend, balmy, barmy, bats, batty, bonkers, buggy, cracked, crackers, daft, dotty, fruity, haywire, kookie, kooky, loco, loony, loopy, nutty, round the bend, wacky, whacky"]}
+{"data": ["2021-05-16T12:43:31.730849+00:00", 426, "Your mother is", "finespun", "Pronunciation: /\u02c8fa\u026an\u02c8sp\u0259n/", "Definition: developed in excessively fine detail", "Synonyms: hairsplitting"]}
