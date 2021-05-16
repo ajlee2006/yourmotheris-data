@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T20:33:31.785929+00:00", 473, "Your mother is", "fact-finding", "Pronunciation: /\u02c8f\u00e6kt\u02ccfa\u026and\u026a\u014b/", "Definition: designed to find information or ascertain facts", "Synonyms: investigative, investigatory"]}
+{"data": ["2021-05-16T20:43:31.699070+00:00", 474, "Your mother is", "every", "Pronunciation: /\u02c8\u025bvri/", "Definition: each and all of a series of entities or intervals as specified", ""]}
