@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T07:23:31.671668+00:00", 394, "Your mother is", "freehanded", "Similar to: generous", "Definition: given or giving freely", "Synonyms: big, bighearted, bounteous, bountiful, giving, handsome, liberal, openhanded"]}
+{"data": ["2021-05-16T07:33:31.704983+00:00", 395, "Your mother is", "hand-loomed", "Similar to: hand-crafted", "Definition: made on a handloom", "Synonyms: handwoven"]}
