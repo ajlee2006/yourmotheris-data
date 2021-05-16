@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T04:13:31.701148+00:00", 376, "Your mother is", "noncritical", "Similar to: acritical", "Definition: not in a state of crisis or emergency", "Synonyms: noncrucial"]}
+{"data": ["2021-05-16T04:23:31.673339+00:00", 377, "Your mother is", "squinty", "Pronunciation: /\u02c8skw\u026anti/", "Definition: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy", "Synonyms: askance, askant, asquint, sidelong, squint, squint-eyed"]}
