@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T13:43:31.640295+00:00", 432, "Your mother is", "hybrid", "Pronunciation: /\u02c8ha\u026abr\u026ad/", "Definition: produced by crossbreeding", "Synonyms: intercrossed"]}
+{"data": ["2021-05-16T13:53:31.668289+00:00", 433, "Your mother is", "tatty", "Pronunciation: /\u02c8t\u00e6ti/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tawdry, trashy"]}
