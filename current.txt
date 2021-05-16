@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T06:53:31.754756+00:00", 391, "Your mother is", "undermentioned", "Pronunciation: /\u02cc\u0259nd\u0259\u02c8m\u025bn\u0283\u0259nd/", "Definition: about to be mentioned or specified", "Synonyms: following"]}
+{"data": ["2021-05-16T07:03:31.652179+00:00", 392, "Your mother is", "large-leafed", "Similar to: leafy", "Definition: having relatively large leaves", "Synonyms: large-leaved"]}
