@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T15:53:32.281176+00:00", 445, "Your mother is", "ill-mannered", "Pronunciation: /\u026al-\u02c8m\u00e6n\u0259rd/", "Definition: socially incorrect in behavior", "Synonyms: bad-mannered, rude, unmannered, unmannerly"]}
+{"data": ["2021-05-16T16:03:31.770043+00:00", 446, "Your mother is", "polyunsaturated", "Pronunciation: /\u02ccp\u0251li\u0259n\u02c8s\u00e6\u02a7\u0259\u02ccre\u026at\u026ad/", "Definition: (of long-chain carbon compounds especially fats) having many unsaturated bonds", ""]}
