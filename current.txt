@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T01:39:09.563848+00:00", 361, "Your mother is", "fully grown", "Similar to: mature", "Definition: (of animals) fully developed", "Synonyms: adult, big, full-grown, grown, grownup"]}
+{"data": ["2021-05-16T01:49:09.622935+00:00", 362, "Your mother is", "confutable", "Similar to: deniable", "Definition: able to be refuted", "Synonyms: confutative, questionable, refutable"]}
