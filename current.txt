@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T08:53:31.672591+00:00", 403, "Your mother is", "unimpressed", "Pronunciation: /\u02cc\u028cn\u026am\u02c8pr\u025bst/", "Definition: not moved to serious regard", ""]}
+{"data": ["2021-05-16T09:03:31.714038+00:00", 404, "Your mother is", "catastrophic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8str\u0251f\u026ak/", "Definition: extremely harmful; bringing physical or financial ruin", "Synonyms: ruinous"]}
