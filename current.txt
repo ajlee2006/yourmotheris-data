@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T16:43:31.734094+00:00", 450, "Your mother is", "protanopic", "Pronunciation: /\u02ccpro\u028at\u02c8\u0259n\u0251p\u026ak/", "Definition: inability to see the color red or to distinguish red and bluish-green", "Synonyms: red-blind"]}
+{"data": ["2021-05-16T16:53:31.665641+00:00", 451, "Your mother is", "catastrophic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8str\u0251f\u026ak/", "Definition: extremely harmful; bringing physical or financial ruin", "Synonyms: ruinous"]}
