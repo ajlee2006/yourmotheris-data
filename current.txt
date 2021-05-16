@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T02:43:31.659987+00:00", 367, "Your mother is", "inflexible", "Pronunciation: /\u026an\u02c8fl\u025bks\u0259b\u0259l/", "Definition: incapable of adapting or changing to meet circumstances", "Synonyms: rigid, unbending"]}
+{"data": ["2021-05-16T02:53:31.610933+00:00", 368, "Your mother is", "accompanying", "Pronunciation: /\u028c\u02c8k\u028cmp\u028cni\u026a\u014b/", "Definition: occurring with or following as a consequence", "Synonyms: attendant, collateral, concomitant, consequent, ensuant, incidental, resultant, sequent"]}
