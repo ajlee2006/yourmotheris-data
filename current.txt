@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T15:03:31.770319+00:00", 440, "Your mother is", "unenviable", "Pronunciation: /\u0259n\u02c8\u025bnvi\u0259b\u0259l/", "Definition: hard to deal with; especially causing pain or embarrassment", "Synonyms: awkward, embarrassing, sticky"]}
+{"data": ["2021-05-16T15:13:31.818036+00:00", 441, "Your mother is", "womanly", "Pronunciation: /\u02c8w\u028am\u0259nli/", "Definition: befitting or characteristic of a woman especially a mature woman", "Synonyms: feminine"]}
