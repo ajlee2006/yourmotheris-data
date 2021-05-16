@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T18:43:31.969034+00:00", 462, "Your mother is", "barbate", "Pronunciation: /\u02c8b\u0251rbe\u026at/", "Definition: having hair on the cheeks and chin", "Synonyms: bearded, bewhiskered, whiskered, whiskery"]}
+{"data": ["2021-05-16T18:53:31.920287+00:00", 463, "Your mother is", "septrional", "Similar to: northern", "Definition: of northern regions; from the seven stars (or seven plowing oxen) of Ursa Major", ""]}
