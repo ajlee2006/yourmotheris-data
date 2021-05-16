@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T07:33:31.704983+00:00", 395, "Your mother is", "hand-loomed", "Similar to: hand-crafted", "Definition: made on a handloom", "Synonyms: handwoven"]}
+{"data": ["2021-05-16T07:43:31.735435+00:00", 396, "Your mother is", "binate", "Pronunciation: /\u02c8ba\u026ane\u026at/", "Definition: growing in two parts or in pairs", ""]}
