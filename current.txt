@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T10:13:31.694321+00:00", 411, "Your mother is", "controllable", "Pronunciation: /k\u028cn\u02c8tro\u028al\u028cb\u028cl/", "Definition: capable of being controlled", "Synonyms: governable"]}
+{"data": ["2021-05-16T10:23:31.804311+00:00", 412, "Your mother is", "postmortal", "", "Definition: occurring or done after death", "Synonyms: postmortem"]}
