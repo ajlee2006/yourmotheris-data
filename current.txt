@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T01:29:09.704885+00:00", 360, "Your mother is", "dostoevskian", "", "Definition: of or relating to or in the style of Feodor Dostoevski", "Synonyms: dostoyevskian"]}
+{"data": ["2021-05-16T01:39:09.563848+00:00", 361, "Your mother is", "fully grown", "Similar to: mature", "Definition: (of animals) fully developed", "Synonyms: adult, big, full-grown, grown, grownup"]}
