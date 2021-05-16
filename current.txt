@@ -1,1 +1,1 @@
-{"data": ["2021-05-16T00:39:09.588945+00:00", 355, "Your mother is", "ariled", "Similar to: covered", "Definition: (of some seeds) having a fleshy and usually brightly colored cover", "Synonyms: arillate"]}
+{"data": ["2021-05-16T00:49:09.508394+00:00", 356, "Your mother is", "self-referent", "Similar to: backward", "Definition: referring back to itself", "Synonyms: reflexive"]}
