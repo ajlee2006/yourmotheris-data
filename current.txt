@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T21:51:22.074736+00:00", 624, "Your mother is", "ignitable", "Similar to: combustible", "Definition: capable of burning", "Synonyms: burnable, ignitible"]}
+{"data": ["2021-05-17T22:01:21.899436+00:00", 625, "Your mother is", "factor analytical", "", "Definition: of or relating to or the product of factor analysis", "Synonyms: factor analytic"]}
