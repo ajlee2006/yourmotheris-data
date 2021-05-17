@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T06:11:21.757244+00:00", 530, "Your mother is", "fast-growing", "Pronunciation: /f\u00e6st-\u02c8gro\u028a\u026a\u014b/", "Definition: tending to spread quickly", "Synonyms: aggressive, strong-growing"]}
+{"data": ["2021-05-17T06:21:21.960688+00:00", 531, "Your mother is", "adductive", "", "Definition: especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part", "Synonyms: adducent, adducting"]}
