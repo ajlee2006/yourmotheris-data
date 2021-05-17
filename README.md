@@ -1,4 +1,4 @@
-# [in testing] yourmotheris-data
+# yourmotheris-data
 Data for the 10-minutely Your Mother Is word.
 
 ## Accessing data
