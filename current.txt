@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T08:11:21.783150+00:00", 542, "Your mother is", "ripe", "Pronunciation: /ra\u026ap/", "Definition: far along in time", "Synonyms: advanced"]}
+{"data": ["2021-05-17T08:21:21.886609+00:00", 543, "Your mother is", "humdrum", "Pronunciation: /\u02c8h\u0259m\u02ccdr\u0259m/", "Definition: not challenging; dull and lacking excitement", "Synonyms: commonplace, prosaic, unglamorous, unglamourous"]}
