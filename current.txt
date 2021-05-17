@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T14:51:21.793146+00:00", 582, "Your mother is", "hemimetabolic", "Pronunciation: /\u02cch\u025bmi\u02ccm\u025bt\u0259\u02c8b\u0251l\u026ak/", "Definition: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult", "Synonyms: hemimetabolous, hemimetamorphic, hemimetamorphous"]}
+{"data": ["2021-05-17T15:01:22.533072+00:00", 583, "Your mother is", "four-wheel", "Pronunciation: /\u02c8fo\u028ar\u02c8hwil/", "Definition: of or relating to vehicles with four wheels", "Synonyms: four-wheeled"]}
