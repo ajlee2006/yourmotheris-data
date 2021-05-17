@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T12:51:21.764106+00:00", 570, "Your mother is", "unmitigated", "Pronunciation: /\u0259n\u02c8m\u026at\u0259\u02cc\u0261e\u026at\u026ad/", "Definition: not diminished or moderated in intensity or severity; sometimes used as an intensifier", ""]}
+{"data": ["2021-05-17T13:01:21.998240+00:00", 571, "Your mother is", "sawed-off", "Pronunciation: /\u02c8s\u0254d\u02c8\u0254f/", "Definition: cut short", "Synonyms: sawn-off, shortened"]}
