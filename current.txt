@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T13:51:21.846112+00:00", 576, "Your mother is", "strikebound", "Pronunciation: /\u02c8stra\u026ak\u02ccba\u028and/", "Definition: closed or immobilized by a strike", ""]}
+{"data": ["2021-05-17T14:01:22.003030+00:00", 577, "Your mother is", "feisty", "Pronunciation: /\u02c8fa\u026asti/", "Definition: showing courage", "Synonyms: plucky, spunky"]}
