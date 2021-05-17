@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T07:11:22.216066+00:00", 536, "Your mother is", "white-flowered", "Pronunciation: /hwa\u026at-\u02c8fla\u028a\u0259rd/", "Definition: (of plants) having white flowers", ""]}
+{"data": ["2021-05-17T07:21:22.015013+00:00", 537, "Your mother is", "early", "Pronunciation: /irli/", "Definition: belonging to the distant past", "Synonyms: former, other"]}
