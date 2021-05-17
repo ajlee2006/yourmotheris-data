@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T01:03:31.887462+00:00", 500, "Your mother is", "decurved", "Pronunciation: /di\u02c8k\u025crvd/", "Definition: bent down or curved downward", ""]}
+{"data": ["2021-05-17T01:13:32.027864+00:00", 501, "Your mother is", "undreamed", "Pronunciation: /\u0259n\u02c8drimd/", "Definition: not imagined even in a dream", "Synonyms: undreamed of, undreamt, undreamt of, unimagined"]}
