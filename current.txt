@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T20:41:22.081363+00:00", 617, "Your mother is", "pestilent", "Pronunciation: /\u02c8p\u025bst\u0259l\u0259nt/", "Definition: likely to spread and cause an epidemic disease", "Synonyms: pestiferous, pestilential, plaguey"]}
+{"data": ["2021-05-17T20:51:22.212400+00:00", 618, "Your mother is", "hermaphroditic", "Pronunciation: /h\u025dr\u02ccm\u00e6fr\u028c\u02c8d\u026at\u026ak/", "Definition: of animal or plant; having both male female reproductive organs", "Synonyms: hermaphrodite"]}
