@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T00:33:32.010299+00:00", 497, "Your mother is", "droopy", "Pronunciation: /\u02c8drupi/", "Definition: hanging down (as from exhaustion or weakness)", "Synonyms: drooping, sagging"]}
+{"data": ["2021-05-17T00:43:31.724355+00:00", 498, "Your mother is", "probationary", "Pronunciation: /pro\u028a\u02c8be\u026a\u0283\u028cn\u02cc\u025bri/", "Definition: under terms not final or fully worked out or agreed upon", "Synonyms: provisional, provisionary, tentative"]}
