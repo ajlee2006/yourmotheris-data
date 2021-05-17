@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T20:31:22.269807+00:00", 616, "Your mother is", "dragging", "Pronunciation: /\u02c8dr\u00e6\u0261\u026a\u014b/", "Definition: marked by a painfully slow and effortful manner", ""]}
+{"data": ["2021-05-17T20:41:22.081363+00:00", 617, "Your mother is", "pestilent", "Pronunciation: /\u02c8p\u025bst\u0259l\u0259nt/", "Definition: likely to spread and cause an epidemic disease", "Synonyms: pestiferous, pestilential, plaguey"]}
