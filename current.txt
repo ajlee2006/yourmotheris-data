@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T04:31:21.810289+00:00", 520, "Your mother is", "disruptive", "Pronunciation: /d\u026as\u02c8r\u0259pt\u026av/", "Definition: characterized by unrest or disorder or insubordination", "Synonyms: riotous, troubled, tumultuous, turbulent"]}
+{"data": ["2021-05-17T04:41:21.708473+00:00", 521, "Your mother is", "inclusive", "Pronunciation: /\u026an\u02c8klus\u026av/", "Definition: including much or everything; and especially including stated limits", ""]}
