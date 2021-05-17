@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T22:31:21.815532+00:00", 628, "Your mother is", "unjust", "Pronunciation: /\u0259n\u02c8d\u0292\u0259st/", "Definition: not fair; marked by injustice or partiality or deception", "Synonyms: unfair"]}
+{"data": ["2021-05-17T22:41:22.099016+00:00", 629, "Your mother is", "telluric", "Pronunciation: /t\u025b\u02c8l\u028ar\u026ak/", "Definition: of or relating to or inhabiting the land as opposed to the sea or air", "Synonyms: tellurian, terrene, terrestrial"]}
