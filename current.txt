@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T01:13:32.027864+00:00", 501, "Your mother is", "undreamed", "Pronunciation: /\u0259n\u02c8drimd/", "Definition: not imagined even in a dream", "Synonyms: undreamed of, undreamt, undreamt of, unimagined"]}
+{"data": ["2021-05-17T01:23:32.161622+00:00", 502, "Your mother is", "summational", "Similar to: additive", "Definition: of or relating to a summation or produced by summation", "Synonyms: summative"]}
