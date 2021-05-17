@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T08:41:22.032337+00:00", 545, "Your mother is", "matured", "Pronunciation: /m\u028c\u02c8tj\u028ard/", "Definition: fully considered and perfected", "Synonyms: mature"]}
+{"data": ["2021-05-17T08:51:22.052908+00:00", 546, "Your mother is", "paternal", "Pronunciation: /p\u0259\u02c8t\u025crn\u0259l/", "Definition: relating to or characteristic of or befitting a parent", "Synonyms: maternal, parental"]}
