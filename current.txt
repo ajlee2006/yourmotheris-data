@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T19:21:21.757486+00:00", 609, "Your mother is", "unconquerable", "Pronunciation: /\u0259n\u02c8k\u0251\u014bk\u0259r\u0259b\u0259l/", "Definition: incapable of being surmounted or excelled", "Synonyms: insuperable"]}
+{"data": ["2021-05-17T19:31:21.992747+00:00", 610, "Your mother is", "undulate", "Pronunciation: /\u02c8\u0259nd\u0292\u0259l\u026at/", "Definition: having a wavy margin and rippled surface", ""]}
