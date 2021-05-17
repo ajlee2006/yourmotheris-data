@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T05:31:21.641640+00:00", 526, "Your mother is", "grave", "Pronunciation: /gre\u026av/", "Definition: of great gravity or crucial import; requiring serious thought", "Synonyms: grievous, heavy, weighty"]}
+{"data": ["2021-05-17T05:41:21.755436+00:00", 527, "Your mother is", "wiry-stemmed", "Similar to: caulescent", "Definition: having a wiry stem", ""]}
