@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T08:01:22.812991+00:00", 541, "Your mother is", "untrue", "Pronunciation: /\u0259n\u02c8tru/", "Definition: not accurately fitted; not level", "Synonyms: out of true"]}
+{"data": ["2021-05-17T08:11:21.783150+00:00", 542, "Your mother is", "ripe", "Pronunciation: /ra\u026ap/", "Definition: far along in time", "Synonyms: advanced"]}
