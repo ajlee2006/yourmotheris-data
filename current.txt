@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T10:21:21.716681+00:00", 555, "Your mother is", "revealing", "Pronunciation: /r\u026a\u02c8vil\u026a\u014b/", "Definition: disclosing unintentionally something concealed", "Synonyms: telling, telltale"]}
+{"data": ["2021-05-17T10:31:22.030181+00:00", 556, "Your mother is", "unnaturalised", "Similar to: foreign", "Definition: not having acquired citizenship", "Synonyms: unnaturalized"]}
