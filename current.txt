@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T16:01:21.813835+00:00", 589, "Your mother is", "short-eared", "Pronunciation: /\u0283\u0254rt-ird/", "Definition: having short ears", ""]}
+{"data": ["2021-05-17T16:11:21.966890+00:00", 590, "Your mother is", "bookable", "Similar to: reserved", "Definition: subject to being reserved or booked", ""]}
