@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T16:11:21.966890+00:00", 590, "Your mother is", "bookable", "Similar to: reserved", "Definition: subject to being reserved or booked", ""]}
+{"data": ["2021-05-17T16:21:21.985154+00:00", 591, "Your mother is", "box-shaped", "Pronunciation: /b\u0251ks-\u0283e\u026apt/", "Definition: resembling a box in rectangularity", "Synonyms: boxlike, boxy"]}
