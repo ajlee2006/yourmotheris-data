@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T13:41:21.735284+00:00", 575, "Your mother is", "opposite", "Pronunciation: /\u02c8\u0251p\u0259s\u026at/", "Definition: characterized by opposite extremes; completely opposed", "Synonyms: diametric, diametrical, polar"]}
+{"data": ["2021-05-17T13:51:21.846112+00:00", 576, "Your mother is", "strikebound", "Pronunciation: /\u02c8stra\u026ak\u02ccba\u028and/", "Definition: closed or immobilized by a strike", ""]}
