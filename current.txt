@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T00:23:31.787908+00:00", 496, "Your mother is", "ungovernable", "Pronunciation: /\u0259n\u02c8\u0261\u0259v\u0259rn\u0259b\u0259l/", "Definition: incapable of being controlled", "Synonyms: indocile, uncontrollable, unruly"]}
+{"data": ["2021-05-17T00:33:32.010299+00:00", 497, "Your mother is", "droopy", "Pronunciation: /\u02c8drupi/", "Definition: hanging down (as from exhaustion or weakness)", "Synonyms: drooping, sagging"]}
