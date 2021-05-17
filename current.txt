@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T23:31:21.713192+00:00", 634, "Your mother is", "mushy", "Pronunciation: /\u02c8m\u0259\u0283i/", "Definition: effusively or insincerely emotional", "Synonyms: bathetic, drippy, hokey, kitschy, maudlin, mawkish, sappy, schmaltzy, schmalzy, sentimental, slushy, soppy, soupy"]}
+{"data": ["2021-05-17T23:41:21.990938+00:00", 635, "Your mother is", "posthumous", "Pronunciation: /\u02c8p\u0251s\u02a7\u0259m\u0259s/", "Definition: occurring or coming into existence after a person's death", ""]}
