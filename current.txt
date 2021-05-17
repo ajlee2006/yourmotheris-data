@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T05:11:21.799436+00:00", 524, "Your mother is", "in straitened circumstances", "Similar to: poor", "Definition: not having enough money to pay for necessities", "Synonyms: hard up, impecunious, penniless, penurious, pinched"]}
+{"data": ["2021-05-17T05:21:21.742497+00:00", 525, "Your mother is", "bicorned", "Similar to: horned", "Definition: having two horns or horn-shaped parts", "Synonyms: bicorn, bicornate, bicornuate, bicornuous"]}
