@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T03:03:32.298033+00:00", 512, "Your mother is", "timeworn", "Pronunciation: /\u02c8ta\u026am\u02ccwo\u028arn/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, tired, trite, well-worn"]}
+{"data": ["2021-05-17T03:21:21.779633+00:00", 513, "Your mother is", "coppery", "Pronunciation: /\u02c8k\u0251p\u0259ri/", "Definition: of something having the color of copper", "Synonyms: copper colored"]}
