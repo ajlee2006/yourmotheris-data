@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T16:21:21.985154+00:00", 591, "Your mother is", "box-shaped", "Pronunciation: /b\u0251ks-\u0283e\u026apt/", "Definition: resembling a box in rectangularity", "Synonyms: boxlike, boxy"]}
+{"data": ["2021-05-17T16:31:22.013087+00:00", 592, "Your mother is", "haggard", "Pronunciation: /\u02c8h\u00e6\u0261\u0259rd/", "Definition: very thin especially from disease or hunger or cold", "Synonyms: cadaverous, emaciated, gaunt, pinched, skeletal, wasted"]}
