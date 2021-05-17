@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T12:21:21.839875+00:00", 567, "Your mother is", "lamellibranch", "Pronunciation: /l\u0259\u02c8m\u025bl\u0259\u02ccbr\u00e6\u014bk/", "Definition: bivalve", "Synonyms: pelecypod, pelecypodous"]}
+{"data": ["2021-05-17T12:31:21.990746+00:00", 568, "Your mother is", "eighteenth", "Pronunciation: /\u02c8e\u026a\u02c8tin\u03b8/", "Definition: coming next after the seventeenth in position", "Synonyms: 18th"]}
