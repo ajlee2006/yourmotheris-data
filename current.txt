@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T12:41:21.892700+00:00", 569, "Your mother is", "misplaced", "Pronunciation: /m\u026as\u02c8ple\u026ast/", "Definition: lost temporarily; as especially put in an unaccustomed or forgotten place", "Synonyms: mislaid"]}
+{"data": ["2021-05-17T12:51:21.764106+00:00", 570, "Your mother is", "unmitigated", "Pronunciation: /\u0259n\u02c8m\u026at\u0259\u02cc\u0261e\u026at\u026ad/", "Definition: not diminished or moderated in intensity or severity; sometimes used as an intensifier", ""]}
