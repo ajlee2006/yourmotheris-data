@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T01:33:31.890781+00:00", 503, "Your mother is", "cinnamon coloured", "Similar to: colored", "Definition: having the color of cinnamon", "Synonyms: cinnamon-colored, cinnamon-coloured, cinnamon colored"]}
+{"data": ["2021-05-17T01:43:31.712252+00:00", 504, "Your mother is", "discretionary", "Pronunciation: /d\u026a\u02c8skr\u025b\u0283\u0259\u02ccn\u025bri/", "Definition: having or using the ability to act or decide according to your own discretion or judgment", "Synonyms: discretional"]}
