@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T15:11:21.839668+00:00", 584, "Your mother is", "cc", "Pronunciation: /\u02c8si\u02c8si/", "Definition: being ten more than one hundred ninety", "Synonyms: 200, two hundred"]}
+{"data": ["2021-05-17T15:21:21.761054+00:00", 585, "Your mother is", "fungal", "Pronunciation: /\u02c8f\u0259\u014b\u0261\u0259l/", "Definition: of or relating to fungi", "Synonyms: fungous"]}
