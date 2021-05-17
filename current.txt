@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T15:41:22.256019+00:00", 587, "Your mother is", "luxe", "Pronunciation: /l\u028aks/", "Definition: elegant and sumptuous", "Synonyms: de luxe, deluxe"]}
+{"data": ["2021-05-17T15:51:21.828498+00:00", 588, "Your mother is", "side", "Pronunciation: /sa\u026ad/", "Definition: located on a side", ""]}
