@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T10:31:22.030181+00:00", 556, "Your mother is", "unnaturalised", "Similar to: foreign", "Definition: not having acquired citizenship", "Synonyms: unnaturalized"]}
+{"data": ["2021-05-17T10:41:21.793575+00:00", 557, "Your mother is", "inexact", "Pronunciation: /\u02cc\u026an\u026a\u0261\u02c8z\u00e6kt/", "Definition: not exact", ""]}
