@@ -1,1 +1,1 @@
-{"data": ["2021-05-17T12:31:21.990746+00:00", 568, "Your mother is", "eighteenth", "Pronunciation: /\u02c8e\u026a\u02c8tin\u03b8/", "Definition: coming next after the seventeenth in position", "Synonyms: 18th"]}
+{"data": ["2021-05-17T12:41:21.892700+00:00", 569, "Your mother is", "misplaced", "Pronunciation: /m\u026as\u02c8ple\u026ast/", "Definition: lost temporarily; as especially put in an unaccustomed or forgotten place", "Synonyms: mislaid"]}
