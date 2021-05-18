@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T14:18:17.530306+00:00", 722, "Your mother is", "brickly", "Similar to: breakable", "Definition: having little elasticity; hence easily cracked or fractured or snapped", "Synonyms: brickle, brittle"]}
+{"data": ["2021-05-18T14:28:17.343676+00:00", 723, "Your mother is", "ovoviviparous", "Pronunciation: /\u02cco\u028avo\u028ava\u026a\u02c8v\u026ap\u0259r\u0259s/", "Definition: producing living young from eggs that hatch within the body", ""]}
