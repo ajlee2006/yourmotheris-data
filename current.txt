@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T17:08:17.870716+00:00", 739, "Your mother is", "baseborn", "Pronunciation: /\u02c8be\u026as\u02c8b\u0254rn/", "Definition: of low birth or station (`base' is archaic in this sense)", "Synonyms: base, humble, lowly"]}
+{"data": ["2021-05-18T17:18:17.635473+00:00", 740, "Your mother is", "hypophysial", "Pronunciation: /\u02ccha\u026ap\u0259\u02c8f\u026azi\u0259l/", "Definition: of or relating to the hypophysis", "Synonyms: hypophyseal"]}
