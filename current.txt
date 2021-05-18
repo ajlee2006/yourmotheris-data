@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T09:28:17.440446+00:00", 693, "Your mother is", "recessed", "Pronunciation: /r\u026a\u02c8s\u025bst/", "Definition: having a sunken area", "Synonyms: deep-set, sunken"]}
+{"data": ["2021-05-18T09:38:17.369782+00:00", 694, "Your mother is", "unlit", "Pronunciation: /\u0259n\u02c8l\u026at/", "Definition: not set afire or burning", "Synonyms: unlighted"]}
