@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T13:58:17.650742+00:00", 720, "Your mother is", "uncheckable", "Similar to: difficult", "Definition: incapable of being checked or restrained", ""]}
+{"data": ["2021-05-18T14:08:17.578443+00:00", 721, "Your mother is", "decorated", "Pronunciation: /\u02c8d\u025bk\u0259\u02ccre\u026at\u026ad/", "Definition: provided with something intended to increase its beauty or distinction", "Synonyms: adorned"]}
