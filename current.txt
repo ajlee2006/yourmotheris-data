@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T20:38:17.529999+00:00", 760, "Your mother is", "articled", "Similar to: unfree", "Definition: bound by contract", "Synonyms: apprenticed, bound, indentured"]}
+{"data": ["2021-05-18T20:48:18.830214+00:00", 761, "Your mother is", "ovoid", "Pronunciation: /\u02c8o\u028av\u0254\u026ad/", "Definition: rounded like an egg", "Synonyms: egg-shaped, elliptic, elliptical, oval, oval-shaped, ovate, oviform, prolate"]}
