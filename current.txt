@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T06:18:17.248029+00:00", 674, "Your mother is", "seventy-two", "Pronunciation: /\u02c8s\u025bv\u0259nti\u02c8tu/", "Definition: being two more than seventy", "Synonyms: 72, lxxii"]}
+{"data": ["2021-05-18T06:28:17.383360+00:00", 675, "Your mother is", "hunted", "Pronunciation: /\u02c8h\u028cnt\u028cd/", "Definition: reflecting the fear or terror of one who is hunted", ""]}
