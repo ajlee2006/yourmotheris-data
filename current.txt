@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T23:08:17.452679+00:00", 775, "Your mother is", "enclosed", "Pronunciation: /\u025bn\u02c8klo\u028azd/", "Definition: closed in or surrounded or included within", ""]}
+{"data": ["2021-05-18T23:18:17.757657+00:00", 776, "Your mother is", "doltish", "Similar to: stupid", "Definition: heavy and dull and stupid", "Synonyms: cloddish"]}
