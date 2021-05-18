@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T18:38:17.413556+00:00", 748, "Your mother is", "upcountry", "Pronunciation: /\u02c8\u0259p\u02cck\u0259ntri/", "Definition: of or coming from the middle of a region or country", "Synonyms: interior, midland"]}
+{"data": ["2021-05-18T18:48:17.752765+00:00", 749, "Your mother is", "declarative", "Pronunciation: /d\u026a\u02c8kl\u00e6r\u0259t\u026av/", "Definition: relating to the use of or having the nature of a declaration", "Synonyms: asserting, declaratory"]}
