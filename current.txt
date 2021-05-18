@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T06:58:17.466357+00:00", 678, "Your mother is", "cognoscible", "Pronunciation: /k\u0251\u0261\u02c8n\u0251s\u0259b\u0259l/", "Definition: capable of being known", "Synonyms: cognisable, cognizable, knowable"]}
+{"data": ["2021-05-18T07:08:17.648980+00:00", 679, "Your mother is", "shamanist", "", "Definition: of or relating to shamanism", "Synonyms: shamanistic"]}
