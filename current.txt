@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T20:28:17.586084+00:00", 759, "Your mother is", "nonadjacent", "Similar to: distant", "Definition: not adjacent; not next", ""]}
+{"data": ["2021-05-18T20:38:17.529999+00:00", 760, "Your mother is", "articled", "Similar to: unfree", "Definition: bound by contract", "Synonyms: apprenticed, bound, indentured"]}
