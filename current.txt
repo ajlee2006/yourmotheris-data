@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T18:48:17.752765+00:00", 749, "Your mother is", "declarative", "Pronunciation: /d\u026a\u02c8kl\u00e6r\u0259t\u026av/", "Definition: relating to the use of or having the nature of a declaration", "Synonyms: asserting, declaratory"]}
+{"data": ["2021-05-18T18:58:17.698947+00:00", 750, "Your mother is", "hazy", "Pronunciation: /\u02c8he\u026azi/", "Definition: indistinct or hazy in outline", "Synonyms: bleary, blurred, blurry, foggy, fuzzy, muzzy"]}
