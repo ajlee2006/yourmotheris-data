@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T22:48:17.544124+00:00", 773, "Your mother is", "pivotal", "Pronunciation: /\u02c8p\u026av\u0259t\u0259l/", "Definition: being of crucial importance", "Synonyms: polar"]}
+{"data": ["2021-05-18T22:58:17.715347+00:00", 774, "Your mother is", "metabolic", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8b\u0251l\u026ak/", "Definition: undergoing metamorphosis", "Synonyms: metabolous"]}
