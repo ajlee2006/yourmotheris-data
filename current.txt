@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T06:48:17.224571+00:00", 677, "Your mother is", "anodic", "Pronunciation: /\u00e6n\u02c8\u0251d\u026ak/", "Definition: of or at or relating to an anode", "Synonyms: anodal"]}
+{"data": ["2021-05-18T06:58:17.466357+00:00", 678, "Your mother is", "cognoscible", "Pronunciation: /k\u0251\u0261\u02c8n\u0251s\u0259b\u0259l/", "Definition: capable of being known", "Synonyms: cognisable, cognizable, knowable"]}
