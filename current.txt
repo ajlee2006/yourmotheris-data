@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T16:08:17.559329+00:00", 733, "Your mother is", "extemporaneous", "Pronunciation: /\u026ak\u02ccst\u025bmp\u0259\u02c8re\u026ani\u0259s/", "Definition: with little or no preparation or forethought", "Synonyms: ad-lib, extemporary, extempore, impromptu, off-the-cuff, offhand, offhanded, unrehearsed"]}
+{"data": ["2021-05-18T16:18:17.758404+00:00", 734, "Your mother is", "prestissimo", "Pronunciation: /pr\u025b\u02c8st\u026as\u0259\u02ccmo\u028a/", "Definition: (of tempo) as fast as possible", ""]}
