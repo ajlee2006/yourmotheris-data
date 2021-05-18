@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T05:48:17.261659+00:00", 671, "Your mother is", "periodical", "Pronunciation: /\u02ccpiri\u02c8\u0251d\u026ak\u0259l/", "Definition: happening or recurring at regular intervals", "Synonyms: periodic"]}
+{"data": ["2021-05-18T05:58:17.219898+00:00", 672, "Your mother is", "thermodynamic", "Pronunciation: /\u02cc\u03b8\u025crmo\u028ada\u026a\u02c8n\u00e6m\u026ak/", "Definition: of or concerned with thermodynamics", "Synonyms: thermodynamical"]}
