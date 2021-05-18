@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T08:18:17.276549+00:00", 686, "Your mother is", "combative", "Pronunciation: /k\u0259m\u02c8b\u00e6t\u026av/", "Definition: striving to overcome in argument", "Synonyms: agonistic, agonistical"]}
+{"data": ["2021-05-18T08:28:17.252875+00:00", 687, "Your mother is", "radiant", "Pronunciation: /\u02c8re\u026adi\u0259nt/", "Definition: radiating or as if radiating light", "Synonyms: beaming, beamy, effulgent, refulgent"]}
