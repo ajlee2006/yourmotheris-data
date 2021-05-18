@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T03:01:21.987986+00:00", 655, "Your mother is", "famed", "Pronunciation: /fe\u026amd/", "Definition: widely known and esteemed", "Synonyms: celebrated, famous, far-famed, illustrious, notable, noted, renowned"]}
+{"data": ["2021-05-18T03:11:22.067261+00:00", 656, "Your mother is", "faulty", "Pronunciation: /\u02c8f\u0254lti/", "Definition: having a defect", "Synonyms: defective"]}
