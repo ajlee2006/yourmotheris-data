@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T06:38:17.278136+00:00", 676, "Your mother is", "strict", "Pronunciation: /str\u026akt/", "Definition: incapable of compromise or flexibility", "Synonyms: rigid"]}
+{"data": ["2021-05-18T06:48:17.224571+00:00", 677, "Your mother is", "anodic", "Pronunciation: /\u00e6n\u02c8\u0251d\u026ak/", "Definition: of or at or relating to an anode", "Synonyms: anodal"]}
