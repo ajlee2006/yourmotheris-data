@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T00:31:21.908855+00:00", 640, "Your mother is", "salt", "Pronunciation: /s\u0254lt/", "Definition: (of speech) painful or bitter", ""]}
+{"data": ["2021-05-18T00:41:21.883171+00:00", 641, "Your mother is", "pencilled", "", "Definition: drawn or written with a pencil", "Synonyms: penciled"]}
