@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T07:28:17.475100+00:00", 681, "Your mother is", "relational", "Pronunciation: /r\u026a\u02c8le\u026a\u0283\u0259n\u00e6l/", "Definition: having a relation or being related", ""]}
+{"data": ["2021-05-18T07:38:17.602617+00:00", 682, "Your mother is", "atrabilious", "Pronunciation: /\u02cc\u00e6tr\u0259\u02c8b\u026alj\u0259s/", "Definition: irritable as if suffering from indigestion", "Synonyms: bilious, dyspeptic, liverish"]}
