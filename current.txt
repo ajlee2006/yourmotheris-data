@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T10:38:17.358060+00:00", 700, "Your mother is", "wiggly", "Pronunciation: /\u02c8w\u026agli/", "Definition: curved or curving in and out", "Synonyms: sinuate, sinuous"]}
+{"data": ["2021-05-18T10:48:17.529295+00:00", 701, "Your mother is", "isolationistic", "", "Definition: of or relating to isolationism", "Synonyms: isolationist"]}
