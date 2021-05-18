@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T17:38:17.502341+00:00", 742, "Your mother is", "matrilineal", "Pronunciation: /\u02ccm\u00e6tri\u02c8l\u026ani\u0259l/", "Definition: based on or tracing descent through the female line", "Synonyms: matrilinear"]}
+{"data": ["2021-05-18T17:48:17.335035+00:00", 743, "Your mother is", "hematologic", "Pronunciation: /\u02cch\u025bm\u0259\u02c8t\u0259l\u0251d\u0292\u026ak/", "Definition: of or relating to or involved in hematology", "Synonyms: haematological, hematological"]}
