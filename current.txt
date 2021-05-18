@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T07:58:17.240389+00:00", 684, "Your mother is", "superjacent", "Pronunciation: /\u02ccsup\u0259r\u02c8d\u0292e\u026as\u0259nt/", "Definition: lying immediately above or on something else", ""]}
+{"data": ["2021-05-18T08:08:17.551797+00:00", 685, "Your mother is", "prefigurative", "Pronunciation: /pri\u02c8f\u026a\u0261j\u0259r\u0259t\u026av/", "Definition: indistinctly prophetic", "Synonyms: adumbrative, foreshadowing"]}
