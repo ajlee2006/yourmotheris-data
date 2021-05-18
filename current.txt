@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T16:58:17.412915+00:00", 738, "Your mother is", "pretended", "Pronunciation: /pr\u026a\u02c8t\u025bnd\u026ad/", "Definition: adopted in order to deceive", "Synonyms: assumed, false, fictitious, fictive, put on, sham"]}
+{"data": ["2021-05-18T17:08:17.870716+00:00", 739, "Your mother is", "baseborn", "Pronunciation: /\u02c8be\u026as\u02c8b\u0254rn/", "Definition: of low birth or station (`base' is archaic in this sense)", "Synonyms: base, humble, lowly"]}
