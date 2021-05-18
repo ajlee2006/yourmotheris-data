@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T20:48:18.830214+00:00", 761, "Your mother is", "ovoid", "Pronunciation: /\u02c8o\u028av\u0254\u026ad/", "Definition: rounded like an egg", "Synonyms: egg-shaped, elliptic, elliptical, oval, oval-shaped, ovate, oviform, prolate"]}
+{"data": ["2021-05-18T20:58:17.534545+00:00", 762, "Your mother is", "semiofficial", "Pronunciation: /\u02ccs\u025bmi\u0259\u02c8f\u026a\u0283\u0259l/", "Definition: having some official authority or sanction", ""]}
