@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T14:28:17.343676+00:00", 723, "Your mother is", "ovoviviparous", "Pronunciation: /\u02cco\u028avo\u028ava\u026a\u02c8v\u026ap\u0259r\u0259s/", "Definition: producing living young from eggs that hatch within the body", ""]}
+{"data": ["2021-05-18T14:38:17.539874+00:00", 724, "Your mother is", "germy", "Similar to: unsterilised", "Definition: full of germs or pathological microorganisms", ""]}
