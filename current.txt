@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T11:08:17.431844+00:00", 703, "Your mother is", "self-colored", "Pronunciation: /s\u025blf-\u02c8k\u0259l\u0259rd/", "Definition: of the same color throughout", "Synonyms: self-coloured, solid"]}
+{"data": ["2021-05-18T11:18:17.446486+00:00", 704, "Your mother is", "marriageable", "Pronunciation: /\u02c8m\u00e6r\u026ad\u0292\u0259b\u0259l/", "Definition: of girls or women who are eligible to marry", "Synonyms: nubile"]}
