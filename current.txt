@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T02:51:22.586048+00:00", 654, "Your mother is", "fine", "Pronunciation: /fa\u026an/", "Definition: being satisfactory or in satisfactory condition", "Synonyms: all right, cool, hunky-dory, o.k., ok, okay"]}
+{"data": ["2021-05-18T03:01:21.987986+00:00", 655, "Your mother is", "famed", "Pronunciation: /fe\u026amd/", "Definition: widely known and esteemed", "Synonyms: celebrated, famous, far-famed, illustrious, notable, noted, renowned"]}
