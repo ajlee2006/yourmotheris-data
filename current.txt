@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T22:58:17.715347+00:00", 774, "Your mother is", "metabolic", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8b\u0251l\u026ak/", "Definition: undergoing metamorphosis", "Synonyms: metabolous"]}
+{"data": ["2021-05-18T23:08:17.452679+00:00", 775, "Your mother is", "enclosed", "Pronunciation: /\u025bn\u02c8klo\u028azd/", "Definition: closed in or surrounded or included within", ""]}
