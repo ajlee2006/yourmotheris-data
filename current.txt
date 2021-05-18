@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T05:38:17.297727+00:00", 670, "Your mother is", "bohemian", "Pronunciation: /bo\u028a\u02c8himi\u0259n/", "Definition: unconventional in especially appearance and behavior", ""]}
+{"data": ["2021-05-18T05:48:17.261659+00:00", 671, "Your mother is", "periodical", "Pronunciation: /\u02ccpiri\u02c8\u0251d\u026ak\u0259l/", "Definition: happening or recurring at regular intervals", "Synonyms: periodic"]}
