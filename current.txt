@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T02:01:21.972577+00:00", 649, "Your mother is", "prepossessing", "Pronunciation: /\u02ccprip\u0259\u02c8z\u025bs\u026a\u014b/", "Definition: creating a favorable impression", ""]}
+{"data": ["2021-05-18T02:11:22.079005+00:00", 650, "Your mother is", "chartered", "Pronunciation: /\u02c8t\u0283\u0251rt\u025drd/", "Definition: hired for the exclusive temporary use of a group of travelers", "Synonyms: hired, leased"]}
