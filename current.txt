@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T04:28:17.198308+00:00", 663, "Your mother is", "armour-plated", "Similar to: armored", "Definition: covered with heavy steel", "Synonyms: armor-clad, armor-plated, armour-clad, steel-plated"]}
+{"data": ["2021-05-18T04:38:17.254476+00:00", 664, "Your mother is", "slate-gray", "Similar to: achromatic", "Definition: of the color of slate or granite", "Synonyms: slate-grey, slatey, slaty, slaty-gray, slaty-grey, stone-gray, stone-grey"]}
