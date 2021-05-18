@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T10:08:17.765921+00:00", 697, "Your mother is", "hail-fellow", "Pronunciation: /he\u026al-\u02c8f\u025blo\u028a/", "Definition: heartily friendly and congenial", "Synonyms: comradely, hail-fellow-well-met"]}
+{"data": ["2021-05-18T10:18:17.562611+00:00", 698, "Your mother is", "blasting", "Pronunciation: /\u02c8bl\u00e6st\u026a\u014b/", "Definition: causing injury or blight; especially affecting with sudden violence or plague or ruin", "Synonyms: ruinous"]}
