@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T12:28:17.396015+00:00", 711, "Your mother is", "isobilateral", "Similar to: symmetric", "Definition: having identical parts on each side of an axis", "Synonyms: bilateral, bilaterally symmetric, bilaterally symmetrical"]}
+{"data": ["2021-05-18T12:38:17.259048+00:00", 712, "Your mother is", "approved", "Pronunciation: /\u028c\u02c8pruvd/", "Definition: established by authority; given authoritative approval", "Synonyms: sanctioned"]}
