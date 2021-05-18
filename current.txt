@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T07:48:17.435408+00:00", 683, "Your mother is", "brittle", "Pronunciation: /\u02c8br\u026at\u0259l/", "Definition: having little elasticity; hence easily cracked or fractured or snapped", "Synonyms: brickle, brickly"]}
+{"data": ["2021-05-18T07:58:17.240389+00:00", 684, "Your mother is", "superjacent", "Pronunciation: /\u02ccsup\u0259r\u02c8d\u0292e\u026as\u0259nt/", "Definition: lying immediately above or on something else", ""]}
