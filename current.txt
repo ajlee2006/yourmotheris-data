@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T01:41:21.888541+00:00", 647, "Your mother is", "adjective", "Pronunciation: /\u02c8\u00e6d\u0292\u026akt\u026av/", "Definition: of or relating to or functioning as an adjective", "Synonyms: adjectival"]}
+{"data": ["2021-05-18T01:51:21.812936+00:00", 648, "Your mother is", "affectionate", "Pronunciation: /\u0259\u02c8f\u025bk\u0283\u0259n\u026at/", "Definition: having or displaying warmth or affection", "Synonyms: fond, lovesome, tender"]}
