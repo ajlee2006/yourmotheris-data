@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T17:58:17.303251+00:00", 744, "Your mother is", "capitulary", "Pronunciation: /k\u0259\u02c8p\u026a\u02a7\u0259\u02ccl\u0259ri/", "Definition: of or pertaining to an ecclesiastical chapter", "Synonyms: capitular"]}
+{"data": ["2021-05-18T18:08:17.664830+00:00", 745, "Your mother is", "undeveloped", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8v\u025bl\u0259pt/", "Definition: not developed, improved, exploited or used", "Synonyms: unexploited"]}
