@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T14:48:17.593208+00:00", 725, "Your mother is", "exploded", "Pronunciation: /\u026ak\u02c8splo\u028ad\u028cd/", "Definition: showing the parts of something separated but in positions that show their correct relation to one another", ""]}
+{"data": ["2021-05-18T14:58:17.478092+00:00", 726, "Your mother is", "procaryotic", "", "Definition: having cells that lack membrane-bound nuclei", "Synonyms: prokaryotic"]}
