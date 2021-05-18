@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T04:18:17.217983+00:00", 662, "Your mother is", "covariant", "Pronunciation: /ko\u028a\u02c8v\u025cri\u0259nt/", "Definition: changing so that interrelations with another variable quantity or set of quantities remain unchanged", ""]}
+{"data": ["2021-05-18T04:28:17.198308+00:00", 663, "Your mother is", "armour-plated", "Similar to: armored", "Definition: covered with heavy steel", "Synonyms: armor-clad, armor-plated, armour-clad, steel-plated"]}
