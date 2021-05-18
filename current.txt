@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T23:48:17.355038+00:00", 779, "Your mother is", "well-made", "Pronunciation: /w\u025bl-me\u026ad/", "Definition: skillfully constructed", ""]}
+{"data": ["2021-05-18T23:58:17.431449+00:00", 780, "Your mother is", "beady-eyed", "Pronunciation: /\u02c8bidi-a\u026ad/", "Definition: having eyes that gleam with malice", ""]}
