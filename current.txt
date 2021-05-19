@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T19:50:10.710980+00:00", 888, "Your mother is", "axiomatical", "", "Definition: of or relating to or derived from axioms", "Synonyms: axiomatic, postulational"]}
+{"data": ["2021-05-19T20:00:10.951299+00:00", 889, "Your mother is", "pliable", "Pronunciation: /\u02c8pla\u026a\u0259b\u0259l/", "Definition: able to adjust readily to different conditions", "Synonyms: elastic, flexible, pliant"]}
