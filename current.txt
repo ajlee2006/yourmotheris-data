@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T08:30:11.043484+00:00", 820, "Your mother is", "tete-a-tete", "Pronunciation: /\u02c8te\u026at\u0259\u02c8te\u026at/", "Definition: involving two persons; intimately private", "Synonyms: head-to-head"]}
+{"data": ["2021-05-19T08:40:11.076147+00:00", 821, "Your mother is", "custodial", "Pronunciation: /k\u0259\u02c8sto\u028adi\u0259l/", "Definition: providing protective supervision; watching over or safeguarding", "Synonyms: tutelar, tutelary"]}
