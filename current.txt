@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T07:40:10.778185+00:00", 815, "Your mother is", "pickled", "Pronunciation: /\u02c8p\u026ak\u0259ld/", "Definition: (used of foods) preserved in a pickling liquid", ""]}
+{"data": ["2021-05-19T07:50:10.709998+00:00", 816, "Your mother is", "bipartizan", "Similar to: nonpartisan", "Definition: supported by both sides", "Synonyms: bipartisan, two-party, two-way"]}
