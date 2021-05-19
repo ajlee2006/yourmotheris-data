@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T06:40:10.704547+00:00", 809, "Your mother is", "prejudiced", "Pronunciation: /\u02c8pr\u025bd\u0292\u028cd\u028cst/", "Definition: being biased or having a belief or attitude formed beforehand", "Synonyms: discriminatory"]}
+{"data": ["2021-05-19T06:50:10.844123+00:00", 810, "Your mother is", "aft", "Pronunciation: /\u00e6ft/", "Definition: (nautical, aeronautical) situated at or toward the stern or tail", ""]}
