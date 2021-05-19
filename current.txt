@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T18:00:10.988542+00:00", 877, "Your mother is", "armor-clad", "Pronunciation: /\u02c8\u0251rm\u0259r-\u02cckl\u00e6d/", "Definition: covered with heavy steel", "Synonyms: armor-plated, armour-clad, armour-plated, steel-plated"]}
+{"data": ["2021-05-19T18:10:10.758090+00:00", 878, "Your mother is", "dentate", "Pronunciation: /\u02c8d\u025bnte\u026at/", "Definition: having toothlike projections in the margin", ""]}
