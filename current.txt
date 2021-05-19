@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T00:28:17.717521+00:00", 783, "Your mother is", "sexed", "Pronunciation: /s\u025bkst/", "Definition: characterized by sexuality", ""]}
+{"data": ["2021-05-19T00:38:17.551906+00:00", 784, "Your mother is", "touristy", "Pronunciation: /\u02c8t\u028ar\u026asti/", "Definition: visited by throngs of tourists", "Synonyms: touristed"]}
