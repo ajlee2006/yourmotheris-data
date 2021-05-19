@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T07:30:10.736236+00:00", 814, "Your mother is", "unvulcanized", "Similar to: unprocessed", "Definition: (used of rubber) not subjected to the process of vulcanization", "Synonyms: unvulcanised"]}
+{"data": ["2021-05-19T07:40:10.778185+00:00", 815, "Your mother is", "pickled", "Pronunciation: /\u02c8p\u026ak\u0259ld/", "Definition: (used of foods) preserved in a pickling liquid", ""]}
