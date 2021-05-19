@@ -1,1 +1,1 @@
-{"data": ["2021-05-18T23:58:17.431449+00:00", 780, "Your mother is", "beady-eyed", "Pronunciation: /\u02c8bidi-a\u026ad/", "Definition: having eyes that gleam with malice", ""]}
+{"data": ["2021-05-19T00:08:17.403625+00:00", 781, "Your mother is", "fatty", "Pronunciation: /\u02c8f\u00e6ti/", "Definition: containing or composed of fat", "Synonyms: fat"]}
