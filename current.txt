@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T13:20:10.888018+00:00", 849, "Your mother is", "metamorphous", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8m\u0254rf\u0259s/", "Definition: of or relating to metamorphosis (especially of rocks)", "Synonyms: metamorphic"]}
+{"data": ["2021-05-19T13:30:11.557715+00:00", 850, "Your mother is", "extroverted", "Pronunciation: /\u02c8\u025bkstr\u028c\u02ccv\u025drt\u026ad/", "Definition: not introspective; examining what is outside yourself", "Synonyms: extrospective"]}
