@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T17:00:10.969980+00:00", 871, "Your mother is", "dyspneal", "Similar to: blown", "Definition: not breathing or able to breathe except with difficulty", "Synonyms: breathless, dyspneic, dyspnoeal, dyspnoeic"]}
+{"data": ["2021-05-19T17:10:10.727467+00:00", 872, "Your mother is", "censurable", "Pronunciation: /\u02c8s\u025bn\u0283\u0259r\u0259b\u0259l/", "Definition: deserving blame or censure as being wrong or evil or injurious", "Synonyms: blamable, blameable, blameful, blameworthy, culpable"]}
