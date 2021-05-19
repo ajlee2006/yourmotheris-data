@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T13:30:11.557715+00:00", 850, "Your mother is", "extroverted", "Pronunciation: /\u02c8\u025bkstr\u028c\u02ccv\u025drt\u026ad/", "Definition: not introspective; examining what is outside yourself", "Synonyms: extrospective"]}
+{"data": ["2021-05-19T13:40:11.150021+00:00", 851, "Your mother is", "nine", "Pronunciation: /na\u026an/", "Definition: denoting a quantity consisting of one more than eight and one less than ten", "Synonyms: 9, ix"]}
