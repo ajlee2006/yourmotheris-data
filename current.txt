@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T13:40:11.150021+00:00", 851, "Your mother is", "nine", "Pronunciation: /na\u026an/", "Definition: denoting a quantity consisting of one more than eight and one less than ten", "Synonyms: 9, ix"]}
+{"data": ["2021-05-19T13:50:10.635838+00:00", 852, "Your mother is", "excursive", "Pronunciation: /\u026ak\u02c8sk\u025crs\u026av/", "Definition: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects", "Synonyms: digressive, discursive, rambling"]}
