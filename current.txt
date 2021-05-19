@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T13:50:10.635838+00:00", 852, "Your mother is", "excursive", "Pronunciation: /\u026ak\u02c8sk\u025crs\u026av/", "Definition: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects", "Synonyms: digressive, discursive, rambling"]}
+{"data": ["2021-05-19T14:00:11.003125+00:00", 853, "Your mother is", "congealed", "Pronunciation: /k\u028cn\u02c8d\u0292ild/", "Definition: congealed into jelly; solidified by cooling", "Synonyms: jelled, jellied"]}
