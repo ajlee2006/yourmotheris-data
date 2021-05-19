@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T02:38:17.267806+00:00", 796, "Your mother is", "ultranationalistic", "Similar to: loyal", "Definition: fanatically patriotic", "Synonyms: chauvinistic, flag-waving, jingoistic, nationalistic, superpatriotic"]}
+{"data": ["2021-05-19T02:48:17.360315+00:00", 797, "Your mother is", "prehistoric", "Pronunciation: /\u02ccprih\u026a\u02c8st\u0254r\u026ak/", "Definition: belonging to or existing in times before recorded history", "Synonyms: prehistorical"]}
