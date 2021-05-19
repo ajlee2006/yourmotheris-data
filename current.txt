@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T09:10:10.939718+00:00", 824, "Your mother is", "leibnizian", "Pronunciation: /la\u026ab\u02c8n\u026atsi\u0259n/", "Definition: of or relating to Gottfried Wilhelm Leibniz or to his mathematics or philosophy", "Synonyms: leibnitzian"]}
+{"data": ["2021-05-19T09:20:10.862906+00:00", 825, "Your mother is", "sheeplike", "Similar to: docile", "Definition: like or suggestive of a sheep in docility or stupidity or meekness or timidity", "Synonyms: sheepish"]}
