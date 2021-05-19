@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T18:50:10.843637+00:00", 882, "Your mother is", "impromptu", "Pronunciation: /\u026am\u02c8pr\u0251mptu/", "Definition: with little or no preparation or forethought", "Synonyms: ad-lib, extemporaneous, extemporary, extempore, off-the-cuff, offhand, offhanded, unrehearsed"]}
+{"data": ["2021-05-19T19:00:10.827506+00:00", 883, "Your mother is", "procedural", "Pronunciation: /pr\u028c\u02c8sid\u0292\u025dr\u028cl/", "Definition: relating to court practice and procedure as opposed to the principles of law", "Synonyms: adjective"]}
