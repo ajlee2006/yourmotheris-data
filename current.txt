@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T16:50:10.982592+00:00", 870, "Your mother is", "stoic", "Pronunciation: /\u02c8sto\u028a\u026ak/", "Definition: seeming unaffected by pleasure or pain; impassive", "Synonyms: stoical"]}
+{"data": ["2021-05-19T17:00:10.969980+00:00", 871, "Your mother is", "dyspneal", "Similar to: blown", "Definition: not breathing or able to breathe except with difficulty", "Synonyms: breathless, dyspneic, dyspnoeal, dyspnoeic"]}
