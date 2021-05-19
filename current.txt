@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T07:10:10.983170+00:00", 812, "Your mother is", "dozen", "Pronunciation: /\u02c8d\u0259z\u0259n/", "Definition: denoting a quantity consisting of 12 items or units", "Synonyms: 12, twelve, xii"]}
+{"data": ["2021-05-19T07:20:10.701290+00:00", 813, "Your mother is", "terror-struck", "Pronunciation: /\u02c8t\u025br\u0259r-str\u0259k/", "Definition: struck or filled with terror", "Synonyms: terror-stricken"]}
