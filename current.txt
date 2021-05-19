@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T20:50:10.849523+00:00", 894, "Your mother is", "promulgated", "Pronunciation: /\u02c8pr\u0251m\u028cl\u02cc\u0261e\u026at\u028cd/", "Definition: formally made public", "Synonyms: published"]}
+{"data": ["2021-05-19T21:00:10.916488+00:00", 895, "Your mother is", "receivable", "Pronunciation: /r\u026a\u02c8siv\u0259b\u0259l/", "Definition: awaiting payment", ""]}
