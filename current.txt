@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T19:00:10.827506+00:00", 883, "Your mother is", "procedural", "Pronunciation: /pr\u028c\u02c8sid\u0292\u025dr\u028cl/", "Definition: relating to court practice and procedure as opposed to the principles of law", "Synonyms: adjective"]}
+{"data": ["2021-05-19T19:10:10.892322+00:00", 884, "Your mother is", "wideband", "", "Definition: responding to or operating at a wide band of frequencies", "Synonyms: broadband"]}
