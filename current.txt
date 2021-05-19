@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T06:30:10.727949+00:00", 808, "Your mother is", "humbling", "Pronunciation: /\u02c8h\u028cmb\u028cl\u026a\u014b/", "Definition: causing awareness of your shortcomings", "Synonyms: demeaning, humiliating, mortifying"]}
+{"data": ["2021-05-19T06:40:10.704547+00:00", 809, "Your mother is", "prejudiced", "Pronunciation: /\u02c8pr\u025bd\u0292\u028cd\u028cst/", "Definition: being biased or having a belief or attitude formed beforehand", "Synonyms: discriminatory"]}
