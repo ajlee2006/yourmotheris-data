@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T07:00:10.995445+00:00", 811, "Your mother is", "gargantuan", "Pronunciation: /\u0261\u0251r\u02c8\u0261\u00e6n\u02a7u\u0259n/", "Definition: of great mass; huge and bulky", "Synonyms: elephantine, giant, jumbo"]}
+{"data": ["2021-05-19T07:10:10.983170+00:00", 812, "Your mother is", "dozen", "Pronunciation: /\u02c8d\u0259z\u0259n/", "Definition: denoting a quantity consisting of 12 items or units", "Synonyms: 12, twelve, xii"]}
