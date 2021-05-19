@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T05:40:10.599803+00:00", 803, "Your mother is", "higher", "Pronunciation: /\u02c8ha\u026a\u0259r/", "Definition: advanced in complexity or elaboration", ""]}
+{"data": ["2021-05-19T05:50:10.659390+00:00", 804, "Your mother is", "acquainted", "Pronunciation: /\u0259\u02c8kwe\u026ant\u026ad/", "Definition: having fair knowledge of", ""]}
