@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T12:10:10.779323+00:00", 842, "Your mother is", "purplish-lilac", "Similar to: chromatic", "Definition: of lavender tinged with purple", "Synonyms: purple-lilac"]}
+{"data": ["2021-05-19T12:20:11.046315+00:00", 843, "Your mother is", "achromous", "Similar to: uncolored", "Definition: having no color", "Synonyms: achromic"]}
