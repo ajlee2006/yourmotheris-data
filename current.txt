@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T09:30:10.834992+00:00", 826, "Your mother is", "101st", "Similar to: ordinal", "Definition: the ordinal number of one hundred one in counting order", "Synonyms: hundred-and-first"]}
+{"data": ["2021-05-19T09:40:10.887088+00:00", 827, "Your mother is", "last-ditch", "Pronunciation: /l\u00e6st-d\u026a\u02a7/", "Definition: of something done as a final recourse (especially to prevent a crisis or disaster)", ""]}
