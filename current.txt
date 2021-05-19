@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T17:40:10.960294+00:00", 875, "Your mother is", "bendable", "Similar to: flexible", "Definition: capable of being bent or flexed or twisted without breaking", "Synonyms: pliable, pliant, waxy"]}
+{"data": ["2021-05-19T17:50:11.049891+00:00", 876, "Your mother is", "fricative", "Pronunciation: /\u02c8fr\u026ak\u0259t\u026av/", "Definition: of speech sounds produced by forcing air through a constricted passage (as `f', `s', `z', or `th' in both `thin' and `then')", "Synonyms: continuant, sibilant, spirant, strident"]}
