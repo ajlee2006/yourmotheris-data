@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T03:28:17.241164+00:00", 801, "Your mother is", "enabling", "Pronunciation: /\u025bn\u02c8e\u026abl\u026a\u014b/", "Definition: providing legal power or sanction", ""]}
+{"data": ["2021-05-19T05:20:06.477075+00:00", 802, "Your mother is", "outflowing", "Similar to: outgoing", "Definition: that is flowing outward", "Synonyms: effluent"]}
