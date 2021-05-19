@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T06:50:10.844123+00:00", 810, "Your mother is", "aft", "Pronunciation: /\u00e6ft/", "Definition: (nautical, aeronautical) situated at or toward the stern or tail", ""]}
+{"data": ["2021-05-19T07:00:10.995445+00:00", 811, "Your mother is", "gargantuan", "Pronunciation: /\u0261\u0251r\u02c8\u0261\u00e6n\u02a7u\u0259n/", "Definition: of great mass; huge and bulky", "Synonyms: elephantine, giant, jumbo"]}
