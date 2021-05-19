@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T10:30:10.795193+00:00", 832, "Your mother is", "intensive", "Pronunciation: /\u026an\u02c8t\u025bns\u026av/", "Definition: characterized by a high degree or intensity; often used as a combining form", ""]}
+{"data": ["2021-05-19T10:40:10.735441+00:00", 833, "Your mother is", "multivariate", "Pronunciation: /\u02ccm\u0259lt\u0259\u02c8v\u025cri\u026at/", "Definition: pertaining to any procedure involving two or more variables", ""]}
