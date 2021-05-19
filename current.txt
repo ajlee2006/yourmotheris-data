@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T05:50:10.659390+00:00", 804, "Your mother is", "acquainted", "Pronunciation: /\u0259\u02c8kwe\u026ant\u026ad/", "Definition: having fair knowledge of", ""]}
+{"data": ["2021-05-19T06:00:10.840924+00:00", 805, "Your mother is", "vitreous", "Pronunciation: /\u02c8v\u026atri\u0259s/", "Definition: (of ceramics) having the surface made shiny and nonporous by fusing a vitreous solution to it", "Synonyms: glassy, vitrified"]}
