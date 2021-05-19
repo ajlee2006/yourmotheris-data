@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T14:00:11.003125+00:00", 853, "Your mother is", "congealed", "Pronunciation: /k\u028cn\u02c8d\u0292ild/", "Definition: congealed into jelly; solidified by cooling", "Synonyms: jelled, jellied"]}
+{"data": ["2021-05-19T14:10:11.029516+00:00", 854, "Your mother is", "seasick", "Pronunciation: /\u02c8sis\u026ak/", "Definition: experiencing motion sickness", "Synonyms: air sick, airsick, carsick"]}
