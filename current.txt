@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T15:50:11.032729+00:00", 864, "Your mother is", "compatible", "Pronunciation: /k\u0259m\u02c8p\u00e6t\u0259b\u0259l/", "Definition: able to exist and perform in harmonious or agreeable combination", ""]}
+{"data": ["2021-05-19T16:00:10.835049+00:00", 865, "Your mother is", "immortal", "Pronunciation: /\u026a\u02c8m\u0254rt\u0259l/", "Definition: not subject to death", ""]}
