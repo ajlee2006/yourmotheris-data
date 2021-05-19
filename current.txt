@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T12:50:10.688260+00:00", 846, "Your mother is", "squirrel-sized", "Similar to: sized", "Definition: having the approximate size of a squirrel", ""]}
+{"data": ["2021-05-19T13:00:11.188747+00:00", 847, "Your mother is", "blank", "Pronunciation: /bl\u00e6\u014bk/", "Definition: complete and absolute", "Synonyms: utter"]}
