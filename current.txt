@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T22:40:11.217917+00:00", 905, "Your mother is", "equatorial", "Pronunciation: /\u02ccikw\u0259\u02c8to\u028ari\u0259l/", "Definition: of or existing at or near the geographic equator", ""]}
+{"data": ["2021-05-19T22:50:10.949016+00:00", 906, "Your mother is", "outstanding", "Pronunciation: /\u02cca\u028at\u02c8st\u00e6nd\u026a\u014b/", "Definition: owed as a debt", "Synonyms: owing, undischarged"]}
