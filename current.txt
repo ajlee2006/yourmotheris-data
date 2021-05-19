@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T20:30:10.895492+00:00", 892, "Your mother is", "upon one's guard", "Similar to: wary", "Definition: vigilant", "Synonyms: on guard, on one's guard, on your guard"]}
+{"data": ["2021-05-19T20:40:10.974966+00:00", 893, "Your mother is", "mongol", "Pronunciation: /\u02c8m\u0251\u014b\u0261\u0259l/", "Definition: of or relating to the region of Mongolia or its people or their languages or cultures", "Synonyms: mongolian"]}
