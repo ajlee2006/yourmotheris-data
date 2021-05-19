@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T02:08:17.440716+00:00", 793, "Your mother is", "theist", "Pronunciation: /\u02c8\u03b8i\u026ast/", "Definition: of or relating to theism", "Synonyms: theistic, theistical"]}
+{"data": ["2021-05-19T02:18:17.445873+00:00", 794, "Your mother is", "unfamiliar", "Pronunciation: /\u02cc\u0259nf\u0259\u02c8m\u026alj\u0259r/", "Definition: not known or well known", ""]}
