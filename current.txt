@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T01:48:17.362282+00:00", 791, "Your mother is", "animated", "Pronunciation: /\u02c8\u00e6n\u0259\u02ccme\u026at\u026ad/", "Definition: having life or vigor or spirit", "Synonyms: alive"]}
+{"data": ["2021-05-19T01:58:17.337259+00:00", 792, "Your mother is", "trussed", "Pronunciation: /tr\u0259st/", "Definition: bound or secured closely", "Synonyms: tied"]}
