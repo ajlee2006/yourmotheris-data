@@ -2,10 +2,12 @@
 Data for the 10-minutely Your Mother Is word.
 
 ## Accessing data
-https://raw.githubusercontent.com/ajlee2006/yourmotheris-data/main/current.txt gives the latest word.
+[current.txt](https://raw.githubusercontent.com/ajlee2006/yourmotheris-data/main/current.txt) gives data of the latest word. [past-00000001.txt](https://raw.githubusercontent.com/ajlee2006/yourmotheris-data/main/past-00000001.txt) gives word #1, and so on.
+ 
+Alternatively, you can listen for tweets from [@yourmotherisbot](https://twitter.com/yourmotherisbot).
 
 ### Format
 ```{'data': ['yyyy-mm-ddThh:mm:ss.zzzzzz+hh:mm', number, 'Your mother is', 'word', 'Pronunciation/Similar to', 'Definition: definintion', 'Synonyms: synonym, synonym']}```
 
 ### Example
-View an example of how the data is presented at https://yourmotheris.ajlee.repl.co/
+View an example of how the data is presented at https://yourmotheris.ajlee.repl.co/ as well as [@yourmotherisbot](https://twitter.com/yourmotherisbot)
