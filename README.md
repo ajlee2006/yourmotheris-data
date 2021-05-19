@@ -2,7 +2,7 @@
 Data for the 10-minutely Your Mother Is word.
 
 ## Accessing data
-[current.txt](https://raw.githubusercontent.com/ajlee2006/yourmotheris-data/main/current.txt) gives data of the latest word. [past-00000001.txt](https://raw.githubusercontent.com/ajlee2006/yourmotheris-data/main/past-00000001.txt) gives word #1, and so on.
+[current.txt](https://raw.githubusercontent.com/ajlee2006/yourmotheris-data/main/current.txt) gives JSON data of the latest word. [past-00000001.txt](https://raw.githubusercontent.com/ajlee2006/yourmotheris-data/main/past-00000001.txt) gives word #1, and so on.
  
 Alternatively, you can listen for tweets from [@yourmotherisbot](https://twitter.com/yourmotherisbot).
 
