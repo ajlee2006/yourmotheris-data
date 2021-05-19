@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T06:00:10.840924+00:00", 805, "Your mother is", "vitreous", "Pronunciation: /\u02c8v\u026atri\u0259s/", "Definition: (of ceramics) having the surface made shiny and nonporous by fusing a vitreous solution to it", "Synonyms: glassy, vitrified"]}
+{"data": ["2021-05-19T06:10:10.732243+00:00", 806, "Your mother is", "oviparous", "Pronunciation: /o\u028a\u02c8v\u026ap\u0259r\u0259s/", "Definition: egg-laying", ""]}
