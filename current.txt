@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T09:40:10.887088+00:00", 827, "Your mother is", "last-ditch", "Pronunciation: /l\u00e6st-d\u026a\u02a7/", "Definition: of something done as a final recourse (especially to prevent a crisis or disaster)", ""]}
+{"data": ["2021-05-19T09:50:10.791804+00:00", 828, "Your mother is", "homogeneous", "Pronunciation: /\u02ccho\u028am\u0259\u02c8d\u0292ini\u0259s/", "Definition: all of the same or similar kind or nature", "Synonyms: homogenous"]}
