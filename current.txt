@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T21:00:10.916488+00:00", 895, "Your mother is", "receivable", "Pronunciation: /r\u026a\u02c8siv\u0259b\u0259l/", "Definition: awaiting payment", ""]}
+{"data": ["2021-05-19T21:10:10.721077+00:00", 896, "Your mother is", "foliaceous", "Pronunciation: /\u02ccfo\u028ali\u02c8e\u026a\u0283\u0259s/", "Definition: (especially of metamorphic rock) having thin leaflike layers or strata", "Synonyms: foliate, foliated"]}
