@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T03:20:10.845420+00:00", 933, "Your mother is", "purple-black", "Pronunciation: /\u02c8p\u025crp\u0259l-bl\u00e6k/", "Definition: of black tinged with purple", "Synonyms: purplish-black"]}
+{"data": ["2021-05-20T03:30:10.872997+00:00", 934, "Your mother is", "present-day", "Pronunciation: /\u02c8pr\u025bz\u0259nt-de\u026a/", "Definition: belonging to the present time", "Synonyms: contemporary"]}
