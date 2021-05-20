@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T23:46:41.112788+00:00", 998, "Your mother is", "laic", "Pronunciation: /\u02c8le\u026a\u026ak/", "Definition: characteristic of those who are not members of the clergy", "Synonyms: lay, secular"]}
+{"data": ["2021-05-20T23:56:41.061102+00:00", 998, "Your mother is", "metabolous", "Pronunciation: /m\u0259\u02c8t\u00e6b\u0259l\u0259s/", "Definition: undergoing metamorphosis", "Synonyms: metabolic"]}
