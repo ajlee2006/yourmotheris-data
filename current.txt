@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T05:30:10.795233+00:00", 946, "Your mother is", "specious", "Pronunciation: /\u02c8spi\u0283\u0259s/", "Definition: plausible but false", "Synonyms: spurious"]}
+{"data": ["2021-05-20T05:46:41.219084+00:00", 947, "Your mother is", "classical", "Pronunciation: /\u02c8kl\u00e6s\u026ak\u0259l/", "Definition: of or pertaining to or characteristic of the ancient Greeks and Romans, especially their art, literature, or culture", "Synonyms: graeco-roman, greco-roman"]}
