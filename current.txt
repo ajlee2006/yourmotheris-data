@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T19:56:40.999246+00:00", 998, "Your mother is", "commissioned", "Pronunciation: /k\u028c\u02c8m\u026a\u0283\u028cnd/", "Definition: given official approval to act", "Synonyms: accredited, licenced, licensed"]}
+{"data": ["2021-05-20T20:06:41.338833+00:00", 998, "Your mother is", "built-in", "Pronunciation: /b\u026alt-\u026an/", "Definition: existing as an essential constituent or characteristic", "Synonyms: constitutional, inbuilt, inherent, integral"]}
