@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T22:36:41.300643+00:00", 998, "Your mother is", "stranded", "Pronunciation: /\u02c8str\u00e6nd\u028cd/", "Definition: cut off or left behind", "Synonyms: isolated, marooned"]}
+{"data": ["2021-05-20T22:46:41.184684+00:00", 998, "Your mother is", "mountainous", "Pronunciation: /\u02c8ma\u028ant\u0259n\u0259s/", "Definition: having hills and crags", "Synonyms: cragged, craggy, hilly"]}
