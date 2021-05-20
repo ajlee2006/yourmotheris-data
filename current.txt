@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T06:46:41.395036+00:00", 953, "Your mother is", "nonprescription", "Pronunciation: /\u02ccn\u0251npr\u028c\u02c8skr\u026ap\u0283\u028cn/", "Definition: purchasable without a doctor's prescription", "Synonyms: over-the-counter"]}
+{"data": ["2021-05-20T06:56:41.422647+00:00", 954, "Your mother is", "ninety-one", "Pronunciation: /\u02c8na\u026anti-w\u0259n/", "Definition: being one more than ninety", "Synonyms: 91, xci"]}
