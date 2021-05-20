@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T08:46:41.217486+00:00", 965, "Your mother is", "industrial", "Pronunciation: /\u026an\u02c8d\u0259stri\u0259l/", "Definition: employed in industry", ""]}
+{"data": ["2021-05-20T08:56:41.080126+00:00", 966, "Your mother is", "disqualifying", "Pronunciation: /d\u026as\u02c8kw\u0251l\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: depriving of legal right; rendering legally disqualified", "Synonyms: disabling"]}
