@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T02:20:10.811116+00:00", 927, "Your mother is", "joking", "Pronunciation: /\u02c8d\u0292o\u028ak\u026a\u014b/", "Definition: characterized by jokes and good humor", "Synonyms: jesting, jocose, jocular"]}
+{"data": ["2021-05-20T02:30:10.620162+00:00", 928, "Your mother is", "tatty", "Pronunciation: /\u02c8t\u00e6ti/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tawdry, trashy"]}
