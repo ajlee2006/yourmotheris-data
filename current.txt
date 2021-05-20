@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T08:16:42.025515+00:00", 962, "Your mother is", "oecumenical", "Similar to: nonsectarian", "Definition: concerned with promoting unity among churches or religions", "Synonyms: ecumenic, ecumenical, oecumenic"]}
+{"data": ["2021-05-20T08:26:41.048941+00:00", 963, "Your mother is", "simultaneous", "Pronunciation: /\u02ccsa\u026am\u0259l\u02c8te\u026ani\u0259s/", "Definition: occurring or operating at the same time", "Synonyms: co-occurrent, coincident, coincidental, coinciding, concurrent, cooccurring"]}
