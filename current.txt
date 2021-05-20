@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T23:26:41.532105+00:00", 998, "Your mother is", "unpretending", "Pronunciation: /\u02cc\u0259npri\u02c8t\u025bndi\u014b/", "Definition: not ostentatious", "Synonyms: unostentatious, unpretentious"]}
+{"data": ["2021-05-20T23:36:40.985865+00:00", 998, "Your mother is", "benign", "Pronunciation: /b\u026a\u02c8na\u026an/", "Definition: pleasant and beneficial in nature or influence", "Synonyms: benignant"]}
