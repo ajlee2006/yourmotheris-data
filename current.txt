@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T18:16:41.138439+00:00", 998, "Your mother is", "redeemable", "Pronunciation: /r\u026a\u02c8dim\u0259b\u0259l/", "Definition: susceptible to improvement or reform", "Synonyms: reformable"]}
+{"data": ["2021-05-20T18:26:41.452164+00:00", 998, "Your mother is", "phytophagous", "Pronunciation: /fa\u026a\u02c8t\u0251f\u0259\u0261\u0259s/", "Definition: (of animals) feeding on plants", "Synonyms: phytophagic, phytophilous, plant-eating"]}
