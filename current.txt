@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T15:46:41.100820+00:00", 998, "Your mother is", "fawn-coloured", "Similar to: colored", "Definition: having the color of a fawn", "Synonyms: fawn-colored"]}
+{"data": ["2021-05-20T15:56:41.201483+00:00", 998, "Your mother is", "arable", "Pronunciation: /\u02c8\u00e6r\u0259b\u0259l/", "Definition: (of farmland) capable of being farmed productively", "Synonyms: cultivable, cultivatable, tillable"]}
