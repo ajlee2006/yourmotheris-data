@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T08:26:41.048941+00:00", 963, "Your mother is", "simultaneous", "Pronunciation: /\u02ccsa\u026am\u0259l\u02c8te\u026ani\u0259s/", "Definition: occurring or operating at the same time", "Synonyms: co-occurrent, coincident, coincidental, coinciding, concurrent, cooccurring"]}
+{"data": ["2021-05-20T08:36:41.280852+00:00", 964, "Your mother is", "smooth-spoken", "Pronunciation: /\u02c8smu\u00f0\u02c8spo\u028ak\u0259n/", "Definition: expressing yourself readily, clearly, effectively", "Synonyms: eloquent, facile, fluent, silver, silver-tongued"]}
