@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T12:06:41.018181+00:00", 985, "Your mother is", "damascene", "Pronunciation: /\u02c8d\u00e6m\u0259\u02ccsin/", "Definition: (of metals) decorated or inlaid with a wavy pattern of different (especially precious) metals", ""]}
+{"data": ["2021-05-20T12:16:41.235109+00:00", 986, "Your mother is", "modeled", "Pronunciation: /\u02c8m\u0251d\u028cld/", "Definition: resembling sculpture", "Synonyms: sculptural, sculptured, sculpturesque"]}
