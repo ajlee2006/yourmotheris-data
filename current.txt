@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T20:16:41.020587+00:00", 998, "Your mother is", "snotty", "Similar to: proud", "Definition: (used colloquially) overly conceited or arrogant", "Synonyms: bigheaded, persnickety, snooty, snot-nosed, stuck-up, too big for one's breeches, uppish"]}
+{"data": ["2021-05-20T20:26:41.107771+00:00", 998, "Your mother is", "covered", "Pronunciation: /\u02c8k\u0259v\u0259rd/", "Definition: overlaid or spread or topped with or enclosed within something; sometimes used as a combining form", ""]}
