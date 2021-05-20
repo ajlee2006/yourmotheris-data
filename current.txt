@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T20:06:41.338833+00:00", 998, "Your mother is", "built-in", "Pronunciation: /b\u026alt-\u026an/", "Definition: existing as an essential constituent or characteristic", "Synonyms: constitutional, inbuilt, inherent, integral"]}
+{"data": ["2021-05-20T20:16:41.020587+00:00", 998, "Your mother is", "snotty", "Similar to: proud", "Definition: (used colloquially) overly conceited or arrogant", "Synonyms: bigheaded, persnickety, snooty, snot-nosed, stuck-up, too big for one's breeches, uppish"]}
