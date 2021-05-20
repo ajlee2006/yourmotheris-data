@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T17:56:41.039773+00:00", 998, "Your mother is", "fractional", "Pronunciation: /\u02c8fr\u00e6k\u0283\u0259n\u0259l/", "Definition: constituting or comprising a part or fraction of a possible whole or entirety", ""]}
+{"data": ["2021-05-20T18:06:40.983691+00:00", 998, "Your mother is", "unctuous", "Pronunciation: /\u02c8\u0259\u014bk\u02a7u\u0259s/", "Definition: unpleasantly and excessively suave or ingratiating in manner or speech", "Synonyms: buttery, fulsome, oily, oleaginous, smarmy, soapy"]}
