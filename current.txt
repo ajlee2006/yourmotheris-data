@@ -1,1 +1,1 @@
-{"data": ["2021-05-19T23:50:10.832318+00:00", 912, "Your mother is", "offhand", "Pronunciation: /\u02c8\u0254f\u02c8h\u00e6nd/", "Definition: casually thoughtless or inconsiderate", "Synonyms: offhanded"]}
+{"data": ["2021-05-20T00:00:10.902032+00:00", 913, "Your mother is", "courteous", "Pronunciation: /\u02c8k\u025crti\u0259s/", "Definition: exhibiting courtesy and politeness", "Synonyms: gracious, nice"]}
