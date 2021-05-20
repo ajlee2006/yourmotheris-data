@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T16:16:41.234891+00:00", 998, "Your mother is", "mind-blowing", "Pronunciation: /ma\u026and-\u02c8blo\u028a\u026a\u014b/", "Definition: intensely affecting the mind especially in producing hallucinations", "Synonyms: mind-bending"]}
+{"data": ["2021-05-20T16:26:41.078789+00:00", 998, "Your mother is", "unsarcastic", "", "Definition: not sarcastic", ""]}
