@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T17:36:41.134416+00:00", 998, "Your mother is", "mature", "Pronunciation: /m\u0259\u02c8tj\u028a\u0259r/", "Definition: (of birds) having developed feathers or plumage; often used in combination", "Synonyms: fledged"]}
+{"data": ["2021-05-20T17:46:41.063818+00:00", 998, "Your mother is", "fore-and-aft", "Pronunciation: /\u02c8fo\u028ar\u0259nd\u02c8\u00e6ft/", "Definition: parallel with the keel of a boat or ship", ""]}
