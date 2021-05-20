@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T05:20:10.610299+00:00", 945, "Your mother is", "lance-shaped", "Pronunciation: /l\u00e6ns-\u0283e\u026apt/", "Definition: shaped like a lance", ""]}
+{"data": ["2021-05-20T05:30:10.795233+00:00", 946, "Your mother is", "specious", "Pronunciation: /\u02c8spi\u0283\u0259s/", "Definition: plausible but false", "Synonyms: spurious"]}
