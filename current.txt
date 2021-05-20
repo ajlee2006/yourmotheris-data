@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T21:36:41.310326+00:00", 998, "Your mother is", "clubby", "Pronunciation: /\u02c8kl\u0259bi/", "Definition: effusively sociable", "Synonyms: clubbish"]}
+{"data": ["2021-05-20T21:46:41.137470+00:00", 998, "Your mother is", "anticlinal", "Pronunciation: /\u02cc\u00e6nt\u026a\u02c8kla\u026an\u0259l/", "Definition: sloping downward away from a common crest", ""]}
