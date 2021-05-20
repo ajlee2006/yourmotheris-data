@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T07:56:41.181629+00:00", 960, "Your mother is", "unembodied", "Similar to: immaterial", "Definition: not having a material body", "Synonyms: bodiless, discorporate, disembodied, unbodied"]}
+{"data": ["2021-05-20T08:06:41.177757+00:00", 961, "Your mother is", "ecumenical", "Pronunciation: /\u02c8\u025bkj\u028a\u02c8m\u025bn\u026ak\u0259l/", "Definition: concerned with promoting unity among churches or religions", "Synonyms: ecumenic, oecumenic, oecumenical"]}
