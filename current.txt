@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T11:46:41.103748+00:00", 983, "Your mother is", "metallic-colored", "Similar to: colored", "Definition: having a metallic color", "Synonyms: metal-colored, metal-coloured, metallic-coloured"]}
+{"data": ["2021-05-20T11:56:41.004784+00:00", 984, "Your mother is", "deep-set", "Pronunciation: /dip-s\u025bt/", "Definition: having a sunken area", "Synonyms: recessed, sunken"]}
