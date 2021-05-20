@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T14:26:41.161051+00:00", 998, "Your mother is", "slatternly", "Pronunciation: /\u02c8sl\u00e6t\u0259rnli/", "Definition: characteristic of or befitting a slut or slattern; used especially of women", "Synonyms: blowsy, blowzy, sluttish"]}
+{"data": ["2021-05-20T14:36:41.342061+00:00", 998, "Your mother is", "fogged", "Similar to: opaque", "Definition: obscured by fog", "Synonyms: foggy"]}
