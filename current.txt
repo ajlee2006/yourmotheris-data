@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T15:16:41.676839+00:00", 998, "Your mother is", "unsheared", "", "Definition: not sheared", "Synonyms: unshorn"]}
+{"data": ["2021-05-20T15:26:41.116940+00:00", 998, "Your mother is", "untapped", "Pronunciation: /\u0259n\u02c8t\u00e6pt/", "Definition: not drawn upon or used", ""]}
