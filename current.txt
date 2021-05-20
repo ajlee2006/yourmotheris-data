@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T20:36:41.153020+00:00", 998, "Your mother is", "myrmecophytic", "", "Definition: of or relating to myrmecophytes", ""]}
+{"data": ["2021-05-20T20:46:41.942050+00:00", 998, "Your mother is", "unagitated", "Similar to: composed", "Definition: not agitated; without losing self-possession", "Synonyms: calm, serene, tranquil"]}
