@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T15:06:41.399946+00:00", 998, "Your mother is", "unshakable", "Pronunciation: /\u028cn\u02c8\u0283e\u026ak\u028cb\u028cl/", "Definition: without flaws or loopholes", "Synonyms: bulletproof, unassailable, watertight"]}
+{"data": ["2021-05-20T15:16:41.676839+00:00", 998, "Your mother is", "unsheared", "", "Definition: not sheared", "Synonyms: unshorn"]}
