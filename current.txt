@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T17:46:41.063818+00:00", 998, "Your mother is", "fore-and-aft", "Pronunciation: /\u02c8fo\u028ar\u0259nd\u02c8\u00e6ft/", "Definition: parallel with the keel of a boat or ship", ""]}
+{"data": ["2021-05-20T17:56:41.039773+00:00", 998, "Your mother is", "fractional", "Pronunciation: /\u02c8fr\u00e6k\u0283\u0259n\u0259l/", "Definition: constituting or comprising a part or fraction of a possible whole or entirety", ""]}
