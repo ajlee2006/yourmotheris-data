@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T02:10:11.040281+00:00", 926, "Your mother is", "provisionary", "Pronunciation: /pr\u0259\u02c8v\u026a\u0292\u0259\u02ccn\u025bri/", "Definition: under terms not final or fully worked out or agreed upon", "Synonyms: probationary, provisional, tentative"]}
+{"data": ["2021-05-20T02:20:10.811116+00:00", 927, "Your mother is", "joking", "Pronunciation: /\u02c8d\u0292o\u028ak\u026a\u014b/", "Definition: characterized by jokes and good humor", "Synonyms: jesting, jocose, jocular"]}
