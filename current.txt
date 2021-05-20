@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T22:56:41.073763+00:00", 998, "Your mother is", "big-bellied", "Pronunciation: /b\u026ag-\u02c8b\u025blid/", "Definition: having a prominent belly", "Synonyms: great bellied"]}
+{"data": ["2021-05-20T23:06:41.229294+00:00", 998, "Your mother is", "bibliographical", "", "Definition: relating to or dealing with bibliography", "Synonyms: bibliographic"]}
