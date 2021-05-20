@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T12:26:41.229318+00:00", 987, "Your mother is", "unnaturalized", "Similar to: foreign", "Definition: not having acquired citizenship", "Synonyms: unnaturalised"]}
+{"data": ["2021-05-20T12:36:41.144660+00:00", 988, "Your mother is", "berried", "Pronunciation: /\u02c8b\u025brid/", "Definition: producing or bearing berries", "Synonyms: baccate, bacciferous"]}
