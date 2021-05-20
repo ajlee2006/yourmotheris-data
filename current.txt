@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T18:56:41.317961+00:00", 998, "Your mother is", "verificatory", "Similar to: supportive", "Definition: serving to support or corroborate", "Synonyms: collateral, confirmative, confirmatory, confirming, corroborative, corroboratory, substantiating, substantiative, validating, validatory, verifying"]}
+{"data": ["2021-05-20T19:06:41.062248+00:00", 998, "Your mother is", "60th", "Similar to: ordinal", "Definition: the ordinal number of sixty in counting order", "Synonyms: sixtieth"]}
