@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T01:10:11.364744+00:00", 920, "Your mother is", "nonsubjective", "Similar to: clinical", "Definition: undistorted by emotion or personal bias; based on observable phenomena", "Synonyms: objective"]}
+{"data": ["2021-05-20T01:20:11.405851+00:00", 921, "Your mother is", "enticing", "Pronunciation: /\u025bn\u02c8ta\u026as\u026a\u014b/", "Definition: highly attractive and able to arouse hope or desire", "Synonyms: alluring, beguiling, tempting"]}
