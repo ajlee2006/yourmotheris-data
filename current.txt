@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T09:26:40.966376+00:00", 969, "Your mother is", "national", "Pronunciation: /\u02c8n\u00e6\u0283\u0259n\u0259l/", "Definition: inside the country", "Synonyms: home, interior, internal"]}
+{"data": ["2021-05-20T09:36:41.333477+00:00", 970, "Your mother is", "uptight", "Pronunciation: /\u0259p\u02c8ta\u026at/", "Definition: being in a tense state", "Synonyms: edgy, high-strung, highly strung, jittery, jumpy, nervy, overstrung, restive"]}
