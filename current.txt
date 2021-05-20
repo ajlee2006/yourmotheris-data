@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T16:56:40.903446+00:00", 998, "Your mother is", "multistory", "Pronunciation: /\u02ccm\u0259lt\u026a\u02c8sto\u028ari/", "Definition: having more than one story", "Synonyms: multistorey, multistoried"]}
+{"data": ["2021-05-20T17:06:41.022009+00:00", 998, "Your mother is", "patronised", "", "Definition: having patronage or clients", "Synonyms: patronized"]}
