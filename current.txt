@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T21:06:41.959856+00:00", 998, "Your mother is", "priestly", "Pronunciation: /\u02c8pristli/", "Definition: befitting or characteristic of a priest or the priesthood", "Synonyms: priestlike"]}
+{"data": ["2021-05-20T21:16:41.110057+00:00", 998, "Your mother is", "unencumbered", "Pronunciation: /\u02cc\u0259n\u026an\u02c8k\u0259mb\u0259d/", "Definition: free of encumbrance", ""]}
