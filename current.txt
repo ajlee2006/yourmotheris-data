@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T23:36:40.985865+00:00", 998, "Your mother is", "benign", "Pronunciation: /b\u026a\u02c8na\u026an/", "Definition: pleasant and beneficial in nature or influence", "Synonyms: benignant"]}
+{"data": ["2021-05-20T23:46:41.112788+00:00", 998, "Your mother is", "laic", "Pronunciation: /\u02c8le\u026a\u026ak/", "Definition: characteristic of those who are not members of the clergy", "Synonyms: lay, secular"]}
