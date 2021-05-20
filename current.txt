@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T18:36:40.948040+00:00", 998, "Your mother is", "lax", "Pronunciation: /l\u00e6ks/", "Definition: emptying easily or excessively", "Synonyms: loose"]}
+{"data": ["2021-05-20T18:46:41.418471+00:00", 998, "Your mother is", "jumbled", "Pronunciation: /\u02c8d\u0292\u0259mb\u0259ld/", "Definition: in utter disorder", "Synonyms: disorderly, higgledy-piggledy, hugger-mugger, topsy-turvy"]}
