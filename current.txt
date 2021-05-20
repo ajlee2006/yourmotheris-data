@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T16:36:41.164566+00:00", 998, "Your mother is", "literate", "Pronunciation: /\u02c8l\u026at\u0259r\u026at/", "Definition: knowledgeable and educated in one or several fields", ""]}
+{"data": ["2021-05-20T16:46:41.040910+00:00", 998, "Your mother is", "deep-pink", "Similar to: chromatic", "Definition: of a deep shade of pink", ""]}
