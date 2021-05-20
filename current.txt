@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T03:10:10.755008+00:00", 932, "Your mother is", "polydactyl", "Pronunciation: /\u02ccp\u0251li\u02c8d\u00e6kt\u0259l/", "Definition: of or relating to a person (or other vertebrate) having more than the normal number of digits", "Synonyms: polydactylous"]}
+{"data": ["2021-05-20T03:20:10.845420+00:00", 933, "Your mother is", "purple-black", "Pronunciation: /\u02c8p\u025crp\u0259l-bl\u00e6k/", "Definition: of black tinged with purple", "Synonyms: purplish-black"]}
