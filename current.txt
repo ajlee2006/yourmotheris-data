@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T04:10:10.610381+00:00", 938, "Your mother is", "purplish-red", "Similar to: chromatic", "Definition: of red tinged with purple", "Synonyms: purple-red"]}
+{"data": ["2021-05-20T04:20:10.702914+00:00", 939, "Your mother is", "on the offensive", "Similar to: offensive", "Definition: actively attacking", ""]}
