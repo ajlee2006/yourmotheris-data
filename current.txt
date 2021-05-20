@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T16:26:41.078789+00:00", 998, "Your mother is", "unsarcastic", "", "Definition: not sarcastic", ""]}
+{"data": ["2021-05-20T16:36:41.164566+00:00", 998, "Your mother is", "literate", "Pronunciation: /\u02c8l\u026at\u0259r\u026at/", "Definition: knowledgeable and educated in one or several fields", ""]}
