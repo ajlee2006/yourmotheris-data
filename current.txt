@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T22:26:40.954185+00:00", 998, "Your mother is", "actinomorphic", "Pronunciation: /\u02cc\u00e6kt\u0259no\u028a\u02c8m\u0254rf\u026ak/", "Definition: capable of division into symmetrical halves by any longitudinal plane passing through the axis", "Synonyms: actinomorphous"]}
+{"data": ["2021-05-20T22:36:41.300643+00:00", 998, "Your mother is", "stranded", "Pronunciation: /\u02c8str\u00e6nd\u028cd/", "Definition: cut off or left behind", "Synonyms: isolated, marooned"]}
