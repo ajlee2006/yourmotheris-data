@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T14:46:41.244741+00:00", 998, "Your mother is", "regressive", "Pronunciation: /r\u026a\u02c8gr\u025bs\u026av/", "Definition: (of taxes) adjusted so that the rate decreases as the amount of income increases", ""]}
+{"data": ["2021-05-20T14:56:40.980962+00:00", 998, "Your mother is", "coupled", "Pronunciation: /\u02c8k\u028cp\u028cld/", "Definition: connected by a link, as railway cars or trailer trucks", "Synonyms: joined, linked"]}
