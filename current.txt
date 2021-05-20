@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T19:16:41.426473+00:00", 998, "Your mother is", "five hundred", "Pronunciation: /fa\u026av-\u02c8h\u0259ndr\u026ad/", "Definition: denoting a quantity consisting of 500 items or units", "Synonyms: 500, d"]}
+{"data": ["2021-05-20T19:26:41.269697+00:00", 998, "Your mother is", "dermic", "", "Definition: of or relating to or located in the dermis", "Synonyms: dermal"]}
