@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T23:06:41.229294+00:00", 998, "Your mother is", "bibliographical", "", "Definition: relating to or dealing with bibliography", "Synonyms: bibliographic"]}
+{"data": ["2021-05-20T23:16:41.290661+00:00", 998, "Your mother is", "sheltered", "Pronunciation: /\u02c8\u0283\u025blt\u025drd/", "Definition: protected from danger or bad weather", ""]}
