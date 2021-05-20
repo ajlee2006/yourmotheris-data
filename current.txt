@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T20:56:41.115926+00:00", 998, "Your mother is", "monoatomic", "Pronunciation: /\u02ccm\u0251no\u028a\u0259\u02c8t\u0251m\u026ak/", "Definition: of or relating to an element consisting of a single atom", "Synonyms: monatomic"]}
+{"data": ["2021-05-20T21:06:41.959856+00:00", 998, "Your mother is", "priestly", "Pronunciation: /\u02c8pristli/", "Definition: befitting or characteristic of a priest or the priesthood", "Synonyms: priestlike"]}
