@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T01:50:10.775801+00:00", 924, "Your mother is", "whiney", "Similar to: complaining", "Definition: habitually complaining", "Synonyms: fretful, querulous, whiny"]}
+{"data": ["2021-05-20T02:00:11.046250+00:00", 925, "Your mother is", "misplaced", "Pronunciation: /m\u026as\u02c8ple\u026ast/", "Definition: lost temporarily; as especially put in an unaccustomed or forgotten place", "Synonyms: mislaid"]}
