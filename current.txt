@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T10:06:41.736314+00:00", 973, "Your mother is", "paramount", "Pronunciation: /\u02c8p\u00e6r\u0259ma\u028ant/", "Definition: having superior power and influence", "Synonyms: overriding, predominant, predominate, preponderant, preponderating"]}
+{"data": ["2021-05-20T10:16:41.353088+00:00", 974, "Your mother is", "unadaptable", "Similar to: inflexible", "Definition: not adaptable", ""]}
