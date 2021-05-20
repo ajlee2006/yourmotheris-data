@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T02:40:10.550956+00:00", 929, "Your mother is", "allegoric", "Similar to: representative", "Definition: used in or characteristic of or containing allegory", "Synonyms: allegorical"]}
+{"data": ["2021-05-20T02:50:10.795863+00:00", 930, "Your mother is", "coenobitic", "", "Definition: of or relating to or befitting cenobites or their practices of communal living", "Synonyms: cenobitic, cenobitical, coenobitical"]}
