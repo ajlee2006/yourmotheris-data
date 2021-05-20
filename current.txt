@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T10:36:41.168777+00:00", 976, "Your mother is", "solvable", "Pronunciation: /\u02c8s\u0251lv\u028cb\u028cl/", "Definition: capable of being solved", "Synonyms: resolvable"]}
+{"data": ["2021-05-20T10:46:41.060461+00:00", 977, "Your mother is", "humanitarian", "Pronunciation: /hju\u02ccm\u00e6n\u026a\u02c8t\u025cri\u0259n/", "Definition: marked by humanistic values and devotion to human welfare", "Synonyms: human-centered, human-centred, humanist, humanistic"]}
