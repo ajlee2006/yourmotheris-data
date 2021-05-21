@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T01:36:40.749030+00:00", 1004, "Your mother is", "instructive", "Pronunciation: /\u026an\u02c8str\u0259kt\u026av/", "Definition: serving to instruct or enlighten or inform", "Synonyms: informative"]}
+{"data": ["2021-05-21T01:46:40.674641+00:00", 1005, "Your mother is", "shocked", "Pronunciation: /\u0283\u0251kt/", "Definition: struck with fear, dread, or consternation", "Synonyms: aghast, appalled, dismayed"]}
