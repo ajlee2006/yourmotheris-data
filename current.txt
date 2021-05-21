@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T08:15:55.469591+00:00", 1042, "Your mother is", "poker-faced", "Similar to: incommunicative", "Definition: deliberately impassive in manner", "Synonyms: deadpan, expressionless, impassive, unexpressive"]}
+{"data": ["2021-05-21T08:25:55.461754+00:00", 1043, "Your mother is", "cassocked", "Similar to: clad", "Definition: dressed in a cassock", ""]}
