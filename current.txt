@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T06:52:38.856413+00:00", 1034, "Your mother is", "dendroid", "Pronunciation: /\u02c8d\u025bndr\u0254\u026ad/", "Definition: resembling a tree in form and branching structure", "Synonyms: arboreal, arboreous, arborescent, arboresque, arboriform, dendriform, dendroidal, tree-shaped, treelike"]}
+{"data": ["2021-05-21T07:02:38.814366+00:00", 1035, "Your mother is", "miffed", "Pronunciation: /m\u026aft/", "Definition: aroused to impatience or anger", "Synonyms: annoyed, irritated, nettled, peeved, pissed, pissed off, riled, roiled, steamed, stung"]}
