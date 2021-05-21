@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T03:44:04.351735+00:00", 1016, "Your mother is", "manufactured", "Pronunciation: /\u02ccm\u00e6nj\u028c\u02c8f\u00e6kt\u0283\u025drd/", "Definition: produced in a large-scale industrial operation", ""]}
+{"data": ["2021-05-21T03:54:04.135583+00:00", 1017, "Your mother is", "reluctant", "Pronunciation: /r\u026a\u02c8l\u0259kt\u0259nt/", "Definition: unwillingness to do something contrary to your custom", "Synonyms: loath, loth"]}
