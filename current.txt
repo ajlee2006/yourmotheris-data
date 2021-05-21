@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T10:05:55.460862+00:00", 1053, "Your mother is", "surprising", "Pronunciation: /s\u025dr\u02c8pra\u026az\u026a\u014b/", "Definition: causing surprise or wonder or amazement", ""]}
+{"data": ["2021-05-21T10:15:55.439374+00:00", 1054, "Your mother is", "keeled", "", "Definition: having a ridge or shaped like a ridge or suggesting the keel of a ship", "Synonyms: carinate, carinated, ridged"]}
