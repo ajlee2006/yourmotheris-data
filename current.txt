@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T17:55:55.451924+00:00", 1100, "Your mother is", "dustlike", "Similar to: fine", "Definition: as fine and powdery as dust", ""]}
+{"data": ["2021-05-21T18:05:55.644977+00:00", 1101, "Your mother is", "greasy", "Pronunciation: /\u02c8grisi/", "Definition: smeared or soiled with grease or oil", "Synonyms: oily"]}
