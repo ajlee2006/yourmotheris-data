@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T16:15:55.464859+00:00", 1090, "Your mother is", "twilight", "Pronunciation: /\u02c8twa\u026a\u02ccla\u026at/", "Definition: lighted by or as if by twilight", "Synonyms: dusky, twilit"]}
+{"data": ["2021-05-21T16:25:55.475663+00:00", 1091, "Your mother is", "economic", "Pronunciation: /\u02ccik\u0259\u02c8n\u0251m\u026ak/", "Definition: using the minimum of time or resources necessary for effectiveness", "Synonyms: economical"]}
