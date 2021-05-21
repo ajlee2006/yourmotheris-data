@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T17:05:55.373574+00:00", 1095, "Your mother is", "city-bred", "Pronunciation: /\u02c8s\u026ati-br\u025bd/", "Definition: being or having the customs or manners or dress of a city person", "Synonyms: citified, city-born, cityfied"]}
+{"data": ["2021-05-21T17:15:55.442742+00:00", 1096, "Your mother is", "conquerable", "Similar to: surmountable", "Definition: capable of being surmounted or excelled", "Synonyms: superable"]}
