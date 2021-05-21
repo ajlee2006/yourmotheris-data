@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T04:42:39.219393+00:00", 1021, "Your mother is", "gold-bearing", "Pronunciation: /\u0261o\u028ald-\u02c8b\u025cr\u026a\u014b/", "Definition: containing gold", "Synonyms: auriferous"]}
+{"data": ["2021-05-21T04:52:38.791713+00:00", 1022, "Your mother is", "unlit", "Pronunciation: /\u0259n\u02c8l\u026at/", "Definition: not set afire or burning", "Synonyms: unlighted"]}
