@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T20:15:55.535590+00:00", 1114, "Your mother is", "rejoicing", "Pronunciation: /r\u026a\u02c8d\u0292\u0254\u026as\u026a\u014b/", "Definition: joyful and proud especially because of triumph or success", "Synonyms: exultant, exulting, jubilant, prideful, triumphal, triumphant"]}
+{"data": ["2021-05-21T20:25:55.432450+00:00", 1115, "Your mother is", "defunct", "Pronunciation: /d\u026a\u02c8f\u0259\u014bkt/", "Definition: having ceased to exist or live", ""]}
