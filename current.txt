@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T23:35:55.451955+00:00", 1134, "Your mother is", "salient", "Pronunciation: /\u02c8se\u026ali\u0259nt/", "Definition: having a quality that thrusts itself into attention", "Synonyms: outstanding, prominent, spectacular, striking"]}
+{"data": ["2021-05-21T23:45:55.458772+00:00", 1135, "Your mother is", "coalescing", "Pronunciation: /\u02ccko\u028a\u028c\u02c8l\u025bs\u026a\u014b/", "Definition: growing together, fusing", "Synonyms: coalescent"]}
