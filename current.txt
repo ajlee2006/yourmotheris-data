@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T00:06:41.067962+00:00", 998, "Your mother is", "hoped-for", "Similar to: expected", "Definition: expected hopefully", "Synonyms: anticipated, awaited"]}
+{"data": ["2021-05-21T00:16:41.260783+00:00", 998, "Your mother is", "hostile", "Pronunciation: /\u02c8h\u0251st\u0259l/", "Definition: very unfavorable to life or growth", "Synonyms: uncongenial, unfriendly"]}
