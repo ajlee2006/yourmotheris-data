@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T00:56:40.649405+00:00", 1000, "Your mother is", "snorty", "Similar to: ill-natured", "Definition: (British informal) ill-tempered or annoyed", "Synonyms: shirty"]}
+{"data": ["2021-05-21T01:06:40.653438+00:00", 1001, "Your mother is", "high-speed", "Pronunciation: /ha\u026a-spid/", "Definition: operating at high speed", "Synonyms: high-velocity"]}
