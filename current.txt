@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T04:52:38.791713+00:00", 1022, "Your mother is", "unlit", "Pronunciation: /\u0259n\u02c8l\u026at/", "Definition: not set afire or burning", "Synonyms: unlighted"]}
+{"data": ["2021-05-21T05:02:38.765650+00:00", 1023, "Your mother is", "thrilling", "Pronunciation: /\u02c8\u03b8r\u026al\u026a\u014b/", "Definition: causing a surge of emotion or excitement", "Synonyms: electrifying"]}
