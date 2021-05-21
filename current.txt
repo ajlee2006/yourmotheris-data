@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T19:15:55.437405+00:00", 1108, "Your mother is", "cohesive", "Pronunciation: /ko\u028a\u02c8his\u026av/", "Definition: causing cohesion", ""]}
+{"data": ["2021-05-21T19:25:55.449009+00:00", 1109, "Your mother is", "flexible", "Pronunciation: /\u02c8fl\u025bks\u0259b\u0259l/", "Definition: able to adjust readily to different conditions", "Synonyms: elastic, pliable, pliant"]}
