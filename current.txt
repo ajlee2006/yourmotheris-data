@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T02:44:04.160428+00:00", 1010, "Your mother is", "keen", "Pronunciation: /kin/", "Definition: intense or sharp", "Synonyms: exquisite"]}
+{"data": ["2021-05-21T02:54:04.502566+00:00", 1011, "Your mother is", "wimpy", "Pronunciation: /\u02c8w\u026ampi/", "Definition: weak and ineffectual", "Synonyms: wimpish"]}
