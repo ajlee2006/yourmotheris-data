@@ -1,1 +1,1 @@
-{"data": ["2021-05-20T23:56:41.061102+00:00", 998, "Your mother is", "metabolous", "Pronunciation: /m\u0259\u02c8t\u00e6b\u0259l\u0259s/", "Definition: undergoing metamorphosis", "Synonyms: metabolic"]}
+{"data": ["2021-05-21T00:06:41.067962+00:00", 998, "Your mother is", "hoped-for", "Similar to: expected", "Definition: expected hopefully", "Synonyms: anticipated, awaited"]}
