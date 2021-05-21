@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T13:55:55.469763+00:00", 1076, "Your mother is", "publicized", "Pronunciation: /\u02c8p\u028cbl\u026a\u02ccsa\u026azd/", "Definition: made known; especially made widely known", "Synonyms: publicised"]}
+{"data": ["2021-05-21T14:05:55.451069+00:00", 1077, "Your mother is", "trifid", "Pronunciation: /\u02c8tra\u026af\u026ad/", "Definition: divided into three lobes", ""]}
