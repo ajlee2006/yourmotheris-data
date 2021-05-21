@@ -1,1 +1,1 @@
-{"data": ["2021-05-21T04:04:04.153619+00:00", 1018, "Your mother is", "soft", "Pronunciation: /s\u0254ft/", "Definition: not brilliant or glaring", "Synonyms: subdued"]}
+{"data": ["2021-05-21T04:14:04.358222+00:00", 1019, "Your mother is", "two hundred", "Pronunciation: /tu-\u02c8h\u0259ndr\u026ad/", "Definition: being ten more than one hundred ninety", "Synonyms: 200, cc"]}
