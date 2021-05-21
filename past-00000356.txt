@@ -1,1 +1,0 @@
-{"data": ["2021-05-16T00:49:09.508394+00:00", 356, "Your mother is", "self-referent", "Similar to: backward", "Definition: referring back to itself", "Synonyms: reflexive"]}
