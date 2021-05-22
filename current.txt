@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T20:00:10.589585+00:00", 72, "Your mother is", "bumper-to-bumper", "Similar to: slow", "Definition: used of traffic", ""]}
+{"data": ["2021-05-22T20:10:10.480832+00:00", 73, "Your mother is", "cubistic", "", "Definition: relating to or characteristic of cubism", "Synonyms: cubist"]}
