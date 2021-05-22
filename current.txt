@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T17:20:10.411774+00:00", 56, "Your mother is", "ineffable", "Pronunciation: /\u026an\u02c8\u025bf\u0259b\u0259l/", "Definition: too sacred to be uttered", "Synonyms: unnameable, unspeakable, unutterable"]}
+{"data": ["2021-05-22T17:30:10.495858+00:00", 57, "Your mother is", "megalomaniacal", "Pronunciation: /\u02ccm\u025b\u0261\u0259lo\u028am\u0259\u02c8na\u026a\u0259k\u0259l/", "Definition: suffering from megalomania", "Synonyms: megalomanic"]}
