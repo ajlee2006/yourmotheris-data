@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T15:40:10.458186+00:00", 46, "Your mother is", "associate", "Pronunciation: /\u0259\u02c8so\u028a\u0283i\u02cce\u026at/", "Definition: having partial rights and privileges or subordinate status", ""]}
+{"data": ["2021-05-22T15:50:10.383481+00:00", 47, "Your mother is", "patent", "Pronunciation: /\u02c8p\u00e6t\u0259nt/", "Definition: clearly revealed to the mind or the senses or judgment", "Synonyms: apparent, evident, manifest, palpable, plain, unmistakable"]}
