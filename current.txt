@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T12:10:10.551353+00:00", 25, "Your mother is", "ninety-seven", "Pronunciation: /\u02c8na\u026anti-\u02c8s\u025bv\u0259n/", "Definition: being seven more than ninety", "Synonyms: 97, xcvii"]}
+{"data": ["2021-05-22T12:20:10.385137+00:00", 26, "Your mother is", "approximative", "Similar to: inexact", "Definition: not quite exact or correct", "Synonyms: approximate, rough"]}
