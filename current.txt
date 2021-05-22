@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T04:45:55.347951+00:00", 1165, "Your mother is", "priapic", "Pronunciation: /pra\u026a\u02c8\u00e6p\u026ak/", "Definition: resembling or being a phallus", "Synonyms: phallic"]}
+{"data": ["2021-05-22T04:55:55.414016+00:00", 1166, "Your mother is", "aristotelian", "Pronunciation: /\u02cc\u00e6r\u026ast\u0259\u02c8tilj\u0259n/", "Definition: of or relating to Aristotle or his philosophy", "Synonyms: aristotelean, aristotelic, peripatetic"]}
