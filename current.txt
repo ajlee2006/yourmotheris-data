@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T12:40:10.412620+00:00", 28, "Your mother is", "magnanimous", "Pronunciation: /m\u00e6\u0261\u02c8n\u00e6n\u0259m\u0259s/", "Definition: generous and understanding and tolerant", "Synonyms: big, large"]}
+{"data": ["2021-05-22T12:50:10.379545+00:00", 29, "Your mother is", "meager", "Pronunciation: /\u02c8mi\u0261\u0259r/", "Definition: deficient in amount or quality or extent", "Synonyms: meagerly, meagre, scrimpy, stingy"]}
