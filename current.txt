@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T01:35:55.414431+00:00", 1146, "Your mother is", "screechy", "Similar to: high", "Definition: having or making a high-pitched sound such as that made by a mouse or a rusty hinge", "Synonyms: screaky, squeaking, squeaky, squealing"]}
+{"data": ["2021-05-22T01:45:55.415396+00:00", 1147, "Your mother is", "archaeologic", "", "Definition: related to or dealing with or devoted to archaeology", "Synonyms: archaeological, archeologic, archeological"]}
