@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T15:00:12.832073+00:00", 42, "Your mother is", "sighted", "Pronunciation: /\u02c8sa\u026at\u026ad/", "Definition: able to see", ""]}
+{"data": ["2021-05-22T15:10:10.413803+00:00", 43, "Your mother is", "unwavering", "Pronunciation: /\u0259n\u02c8we\u026av\u0259ri\u014b/", "Definition: marked by firm determination or resolution; not shakable", "Synonyms: firm, steadfast, steady, stiff, unbendable, unfaltering, unshakable"]}
