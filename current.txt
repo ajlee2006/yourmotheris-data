@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T05:25:55.426506+00:00", 1169, "Your mother is", "unbeholden", "Pronunciation: /\u02cc\u0259nb\u026a\u02c8ho\u028ald\u0259n/", "Definition: free of moral obligation", ""]}
+{"data": ["2021-05-22T05:35:55.418914+00:00", 1170, "Your mother is", "balsamic", "Pronunciation: /b\u0254l\u02c8s\u00e6m\u026ak/", "Definition: of or relating to or containing balsam", "Synonyms: balsamy"]}
