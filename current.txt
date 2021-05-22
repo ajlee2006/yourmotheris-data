@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T21:00:10.509631+00:00", 78, "Your mother is", "patient", "Pronunciation: /\u02c8pe\u026a\u0283\u025bnt/", "Definition: enduring trying circumstances with even temper or characterized by such endurance", ""]}
+{"data": ["2021-05-22T21:10:10.484172+00:00", 79, "Your mother is", "cambrian", "Pronunciation: /\u02c8k\u00e6mbri\u0259n/", "Definition: of or relating to or characteristic of Wales or its people or their language", "Synonyms: welsh"]}
