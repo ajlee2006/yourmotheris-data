@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T00:05:55.459142+00:00", 1137, "Your mother is", "luckless", "Pronunciation: /\u02c8l\u0259kl\u026as/", "Definition: having or bringing misfortune", "Synonyms: unlucky"]}
+{"data": ["2021-05-22T00:15:55.487885+00:00", 1138, "Your mother is", "liberal", "Pronunciation: /libe\u026a\u02c8R\u0251l/", "Definition: given or giving freely", "Synonyms: big, bighearted, bounteous, bountiful, freehanded, giving, handsome, openhanded"]}
