@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T17:00:10.492973+00:00", 54, "Your mother is", "mail-clad", "Similar to: armored", "Definition: wearing protective mail", "Synonyms: mailed"]}
+{"data": ["2021-05-22T17:10:10.516624+00:00", 55, "Your mother is", "basic", "Pronunciation: /\u02c8be\u026as\u026ak/", "Definition: reduced to the simplest and most significant form possible without loss of generality", "Synonyms: canonic, canonical"]}
