@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T17:10:10.516624+00:00", 55, "Your mother is", "basic", "Pronunciation: /\u02c8be\u026as\u026ak/", "Definition: reduced to the simplest and most significant form possible without loss of generality", "Synonyms: canonic, canonical"]}
+{"data": ["2021-05-22T17:20:10.411774+00:00", 56, "Your mother is", "ineffable", "Pronunciation: /\u026an\u02c8\u025bf\u0259b\u0259l/", "Definition: too sacred to be uttered", "Synonyms: unnameable, unspeakable, unutterable"]}
