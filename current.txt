@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T09:10:10.438001+00:00", 7, "Your mother is", "walk-on", "Pronunciation: /w\u0254k-\u0251n/", "Definition: not capable of or especially not involving speech or spoken lines", "Synonyms: nonspeaking"]}
+{"data": ["2021-05-22T09:20:10.446656+00:00", 8, "Your mother is", "39th", "Similar to: ordinal", "Definition: the ordinal number of thirty-nine in counting order", "Synonyms: thirty-ninth"]}
