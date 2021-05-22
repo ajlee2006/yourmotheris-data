@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T18:50:10.402739+00:00", 65, "Your mother is", "four", "Pronunciation: /fo\u028ar/", "Definition: being one more than three", "Synonyms: 4, iv"]}
+{"data": ["2021-05-22T19:00:10.491268+00:00", 66, "Your mother is", "cock-a-hoop", "Pronunciation: /\u02cck\u0251k\u0259\u02c8hup/", "Definition: exhibiting self-importance", "Synonyms: big, boastful, braggart, bragging, braggy, crowing, self-aggrandising, self-aggrandizing"]}
