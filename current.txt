@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T15:50:10.383481+00:00", 47, "Your mother is", "patent", "Pronunciation: /\u02c8p\u00e6t\u0259nt/", "Definition: clearly revealed to the mind or the senses or judgment", "Synonyms: apparent, evident, manifest, palpable, plain, unmistakable"]}
+{"data": ["2021-05-22T16:00:10.450689+00:00", 48, "Your mother is", "ominous", "Pronunciation: /\u02c8\u0251m\u0259n\u0259s/", "Definition: presaging ill fortune", "Synonyms: ill, inauspicious"]}
