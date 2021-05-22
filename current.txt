@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T09:00:10.418787+00:00", 6, "Your mother is", "mere", "Pronunciation: /mir/", "Definition: apart from anything else; without additions or modifications", "Synonyms: bare, simple"]}
+{"data": ["2021-05-22T09:10:10.438001+00:00", 7, "Your mother is", "walk-on", "Pronunciation: /w\u0254k-\u0251n/", "Definition: not capable of or especially not involving speech or spoken lines", "Synonyms: nonspeaking"]}
