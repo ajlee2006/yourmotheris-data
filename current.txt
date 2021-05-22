@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T18:20:10.560446+00:00", 62, "Your mother is", "self-important", "Pronunciation: /s\u025blf-\u026am\u02c8p\u0254rt\u0259nt/", "Definition: having or showing feelings of unwarranted importance out of overbearing pride", "Synonyms: arrogant, chesty"]}
+{"data": ["2021-05-22T18:30:10.645742+00:00", 63, "Your mother is", "thought-provoking", "Similar to: stimulating", "Definition: stimulating interest or thought", "Synonyms: challenging"]}
