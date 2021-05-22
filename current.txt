@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T09:50:10.482956+00:00", 11, "Your mother is", "ritzy", "Pronunciation: /\u02c8r\u026atsi/", "Definition: luxuriously elegant", ""]}
+{"data": ["2021-05-22T10:00:10.440177+00:00", 12, "Your mother is", "acid-loving", "Similar to: acidophilic", "Definition: thriving in a relatively acidic environment (especially of plants requiring a pH well below 7)", ""]}
