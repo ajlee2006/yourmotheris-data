@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T18:00:10.453321+00:00", 60, "Your mother is", "beastly", "Pronunciation: /\u02c8bistli/", "Definition: (informal) very unpleasant", "Synonyms: god-awful, hellish"]}
+{"data": ["2021-05-22T18:10:10.530319+00:00", 61, "Your mother is", "mouthless", "Pronunciation: /\u02c8ma\u028a\u03b8l\u025bs/", "Definition: having no mouth or mouthlike opening", "Synonyms: astomatous"]}
