@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T18:30:10.645742+00:00", 63, "Your mother is", "thought-provoking", "Similar to: stimulating", "Definition: stimulating interest or thought", "Synonyms: challenging"]}
+{"data": ["2021-05-22T18:40:10.634190+00:00", 64, "Your mother is", "intersecting", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8s\u025bkt\u026a\u014b/", "Definition: crossed or intersected in the form of an X", "Synonyms: decussate, intersectant"]}
