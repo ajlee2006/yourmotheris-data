@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T20:40:10.588346+00:00", 76, "Your mother is", "basophilic", "Pronunciation: /\u02ccbe\u026as\u0259\u02c8f\u026al\u026ak/", "Definition: staining readily with basic dyes", ""]}
+{"data": ["2021-05-22T20:50:10.516441+00:00", 77, "Your mother is", "uncomplaining", "Pronunciation: /\u02cc\u0259nk\u0259m\u02c8ple\u026ani\u014b/", "Definition: not complaining", ""]}
