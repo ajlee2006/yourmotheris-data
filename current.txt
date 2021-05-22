@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T11:10:10.412241+00:00", 19, "Your mother is", "controlled", "Pronunciation: /k\u028cn\u02c8tro\u028ald/", "Definition: restrained or managed or kept within certain bounds", ""]}
+{"data": ["2021-05-22T11:20:10.533748+00:00", 20, "Your mother is", "smashing", "Pronunciation: /\u02c8sm\u00e6\u0283i\u014b/", "Definition: very good", "Synonyms: bang-up, bully, corking, cracking, dandy, great, groovy, keen, neat, nifty, not bad, old, peachy, slap-up, swell"]}
