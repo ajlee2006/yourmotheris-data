@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T16:50:10.417313+00:00", 53, "Your mother is", "long-term", "Pronunciation: /l\u0254\u014b-t\u025crm/", "Definition: relating to or extending over a relatively long time", "Synonyms: long-run, semipermanent"]}
+{"data": ["2021-05-22T17:00:10.492973+00:00", 54, "Your mother is", "mail-clad", "Similar to: armored", "Definition: wearing protective mail", "Synonyms: mailed"]}
