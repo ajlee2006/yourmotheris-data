@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T22:00:10.442820+00:00", 84, "Your mother is", "pale-faced", "Similar to: faced", "Definition: having a pale face", ""]}
+{"data": ["2021-05-22T22:10:10.538338+00:00", 85, "Your mother is", "psychopathological", "Pronunciation: /\u02ccsa\u026ako\u028a\u02ccp\u00e6\u03b8\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: suffering from an undiagnosed mental disorder", "Synonyms: psychopathic, psychopathologic"]}
