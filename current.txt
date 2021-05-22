@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T20:50:10.516441+00:00", 77, "Your mother is", "uncomplaining", "Pronunciation: /\u02cc\u0259nk\u0259m\u02c8ple\u026ani\u014b/", "Definition: not complaining", ""]}
+{"data": ["2021-05-22T21:00:10.509631+00:00", 78, "Your mother is", "patient", "Pronunciation: /\u02c8pe\u026a\u0283\u025bnt/", "Definition: enduring trying circumstances with even temper or characterized by such endurance", ""]}
