@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T20:10:10.480832+00:00", 73, "Your mother is", "cubistic", "", "Definition: relating to or characteristic of cubism", "Synonyms: cubist"]}
+{"data": ["2021-05-22T20:20:10.428466+00:00", 74, "Your mother is", "attentional", "", "Definition: of or relating to attention", ""]}
