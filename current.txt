@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T11:30:10.738492+00:00", 21, "Your mother is", "inhibitory", "Pronunciation: /\u026an\u02c8h\u026ab\u026a\u02ccto\u028ari/", "Definition: restrictive of action", "Synonyms: repressing, repressive"]}
+{"data": ["2021-05-22T11:40:10.642508+00:00", 22, "Your mother is", "plumy", "Pronunciation: /\u02c8plumi/", "Definition: having or covered with or abounding in plumes", "Synonyms: plumed"]}
