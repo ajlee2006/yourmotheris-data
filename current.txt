@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T23:40:10.497549+00:00", 94, "Your mother is", "soft-boiled", "Pronunciation: /\u02c8s\u0254ft\u02c8b\u0254\u026ald/", "Definition: easily moved to pity or sorrow", "Synonyms: softhearted"]}
+{"data": ["2021-05-22T23:50:10.373828+00:00", 95, "Your mother is", "yellow-marked", "Pronunciation: /\u02c8j\u025blo\u028a-m\u0251rkt/", "Definition: having yellow marks", ""]}
