@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T14:10:10.426609+00:00", 37, "Your mother is", "brownish-speckled", "Similar to: patterned", "Definition: having brown speckles", "Synonyms: brown-speckled"]}
+{"data": ["2021-05-22T14:20:10.527605+00:00", 38, "Your mother is", "pessimal", "Similar to: worst", "Definition: of an organism's environment; least favorable for survival", "Synonyms: pessimum"]}
