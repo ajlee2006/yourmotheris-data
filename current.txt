@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T16:10:10.520682+00:00", 49, "Your mother is", "missing", "Pronunciation: /\u02c8m\u026asi\u014b/", "Definition: nonexistent", "Synonyms: absent, lacking, wanting"]}
+{"data": ["2021-05-22T16:20:10.639438+00:00", 50, "Your mother is", "stinting", "Similar to: thrifty", "Definition: avoiding waste", "Synonyms: economical, frugal, scotch, sparing"]}
