@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T10:30:10.471748+00:00", 15, "Your mother is", "coleridgian", "", "Definition: of or relating to Samuel Taylor Coleridge or his writings", "Synonyms: coleridgean"]}
+{"data": ["2021-05-22T10:40:10.387558+00:00", 16, "Your mother is", "yokel-like", "Similar to: stupid", "Definition: stupid and ignorant like proverbial rural inhabitants", ""]}
