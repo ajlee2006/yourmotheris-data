@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T09:40:10.458590+00:00", 10, "Your mother is", "algebraical", "Pronunciation: /\u02cc\u00e6ld\u0292\u026a\u02c8bre\u026a\u026ak\u0259l/", "Definition: of or relating to algebra", "Synonyms: algebraic"]}
+{"data": ["2021-05-22T09:50:10.482956+00:00", 11, "Your mother is", "ritzy", "Pronunciation: /\u02c8r\u026atsi/", "Definition: luxuriously elegant", ""]}
