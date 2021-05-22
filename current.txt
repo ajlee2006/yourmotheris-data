@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T13:10:10.464127+00:00", 31, "Your mother is", "well-kept", "Pronunciation: /w\u025bl-k\u025bpt/", "Definition: of places; characterized by order and neatness; free from disorder", "Synonyms: shipshape, trim"]}
+{"data": ["2021-05-22T13:20:10.516957+00:00", 32, "Your mother is", "fugitive", "Pronunciation: /\u02c8fjud\u0292\u026at\u026av/", "Definition: lasting for a markedly brief time", "Synonyms: fleeting, momentaneous, momentary"]}
