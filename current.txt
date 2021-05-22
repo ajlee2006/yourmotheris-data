@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T20:30:10.473158+00:00", 75, "Your mother is", "albescent", "Pronunciation: /\u00e6l\u02c8b\u025bs\u0259nt/", "Definition: becoming or shading into white", ""]}
+{"data": ["2021-05-22T20:40:10.588346+00:00", 76, "Your mother is", "basophilic", "Pronunciation: /\u02ccbe\u026as\u0259\u02c8f\u026al\u026ak/", "Definition: staining readily with basic dyes", ""]}
