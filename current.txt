@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T19:30:10.516584+00:00", 69, "Your mother is", "re-entrant", "", "Definition: (of angles) pointing inward", "Synonyms: reentrant"]}
+{"data": ["2021-05-22T19:40:10.445455+00:00", 70, "Your mother is", "saw-toothed", "Pronunciation: /\u02c8s\u0254\u02cctu\u03b8t/", "Definition: notched like a saw with teeth pointing toward the apex", "Synonyms: notched, serrate, serrated, toothed"]}
