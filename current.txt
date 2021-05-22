@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T17:30:10.495858+00:00", 57, "Your mother is", "megalomaniacal", "Pronunciation: /\u02ccm\u025b\u0261\u0259lo\u028am\u0259\u02c8na\u026a\u0259k\u0259l/", "Definition: suffering from megalomania", "Synonyms: megalomanic"]}
+{"data": ["2021-05-22T17:40:10.485886+00:00", 58, "Your mother is", "perishable", "Pronunciation: /\u02c8p\u025br\u026a\u0283\u0259b\u0259l/", "Definition: liable to perish; subject to destruction or death or decay", ""]}
