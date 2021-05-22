@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T23:10:10.413027+00:00", 91, "Your mother is", "crucial", "Pronunciation: /\u02c8kru\u0283\u0259l/", "Definition: of the greatest importance", "Synonyms: all-important, all important, essential, of the essence"]}
+{"data": ["2021-05-22T23:20:10.698285+00:00", 92, "Your mother is", "unjustifiable", "Pronunciation: /\u0259n\u02c8d\u0292\u0259st\u026a\u02ccfa\u026a\u0259b\u0259l/", "Definition: incapable of being justified or explained", "Synonyms: indefensible, insupportable, unwarrantable, unwarranted"]}
