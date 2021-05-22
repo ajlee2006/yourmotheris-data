@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T10:20:10.543071+00:00", 14, "Your mother is", "lascivious", "Pronunciation: /l\u0259\u02c8s\u026avi\u0259s/", "Definition: driven by lust; preoccupied with or exhibiting lustful desires", "Synonyms: lewd, libidinous, lustful"]}
+{"data": ["2021-05-22T10:30:10.471748+00:00", 15, "Your mother is", "coleridgian", "", "Definition: of or relating to Samuel Taylor Coleridge or his writings", "Synonyms: coleridgean"]}
