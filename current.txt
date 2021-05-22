@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T23:20:10.698285+00:00", 92, "Your mother is", "unjustifiable", "Pronunciation: /\u0259n\u02c8d\u0292\u0259st\u026a\u02ccfa\u026a\u0259b\u0259l/", "Definition: incapable of being justified or explained", "Synonyms: indefensible, insupportable, unwarrantable, unwarranted"]}
+{"data": ["2021-05-22T23:30:10.432783+00:00", 93, "Your mother is", "alcoholic", "Pronunciation: /\u02cc\u00e6lk\u0259\u02c8h\u0254l\u026ak/", "Definition: addicted to alcohol", "Synonyms: alcohol-dependent"]}
