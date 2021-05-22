@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T15:10:10.413803+00:00", 43, "Your mother is", "unwavering", "Pronunciation: /\u0259n\u02c8we\u026av\u0259ri\u014b/", "Definition: marked by firm determination or resolution; not shakable", "Synonyms: firm, steadfast, steady, stiff, unbendable, unfaltering, unshakable"]}
+{"data": ["2021-05-22T15:20:10.428333+00:00", 44, "Your mother is", "important", "Pronunciation: /\u026am\u02c8p\u0254rt\u0259nt/", "Definition: having authority or ascendancy or influence", "Synonyms: authoritative"]}
