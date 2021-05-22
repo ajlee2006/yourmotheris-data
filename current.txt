@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T16:30:10.748847+00:00", 51, "Your mother is", "cultivated", "Pronunciation: /\u02c8k\u0259lt\u0259\u02ccve\u026at\u026ad/", "Definition: marked by refinement in taste and manners", "Synonyms: civilised, civilized, cultured, genteel, polite"]}
+{"data": ["2021-05-22T16:40:10.672141+00:00", 52, "Your mother is", "empathetic", "Pronunciation: /\u02cc\u025bmp\u028c\u02c8\u03b8\u025bt\u026ak/", "Definition: showing empathy or ready comprehension of others' states", "Synonyms: empathic"]}
