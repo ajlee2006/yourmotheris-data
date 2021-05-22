@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T13:00:10.503715+00:00", 30, "Your mother is", "wrought", "Pronunciation: /r\u0254t/", "Definition: shaped to fit by or as if by altering the contours of a pliable mass (as by work or effort)", "Synonyms: molded, shaped"]}
+{"data": ["2021-05-22T13:10:10.464127+00:00", 31, "Your mother is", "well-kept", "Pronunciation: /w\u025bl-k\u025bpt/", "Definition: of places; characterized by order and neatness; free from disorder", "Synonyms: shipshape, trim"]}
