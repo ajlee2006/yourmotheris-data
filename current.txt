@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T10:00:10.440177+00:00", 12, "Your mother is", "acid-loving", "Similar to: acidophilic", "Definition: thriving in a relatively acidic environment (especially of plants requiring a pH well below 7)", ""]}
+{"data": ["2021-05-22T10:10:10.527000+00:00", 13, "Your mother is", "tatty", "Pronunciation: /\u02c8t\u00e6ti/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tawdry, trashy"]}
