@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T11:20:10.533748+00:00", 20, "Your mother is", "smashing", "Pronunciation: /\u02c8sm\u00e6\u0283i\u014b/", "Definition: very good", "Synonyms: bang-up, bully, corking, cracking, dandy, great, groovy, keen, neat, nifty, not bad, old, peachy, slap-up, swell"]}
+{"data": ["2021-05-22T11:30:10.738492+00:00", 21, "Your mother is", "inhibitory", "Pronunciation: /\u026an\u02c8h\u026ab\u026a\u02ccto\u028ari/", "Definition: restrictive of action", "Synonyms: repressing, repressive"]}
