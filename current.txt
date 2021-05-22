@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T08:50:10.511411+00:00", 5, "Your mother is", "lifelong", "Pronunciation: /\u02c8la\u026af\u02ccl\u0254\u014b/", "Definition: continuing through life", "Synonyms: womb-to-tomb"]}
+{"data": ["2021-05-22T09:00:10.418787+00:00", 6, "Your mother is", "mere", "Pronunciation: /mir/", "Definition: apart from anything else; without additions or modifications", "Synonyms: bare, simple"]}
