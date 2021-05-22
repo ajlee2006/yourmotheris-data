@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T12:50:10.379545+00:00", 29, "Your mother is", "meager", "Pronunciation: /\u02c8mi\u0261\u0259r/", "Definition: deficient in amount or quality or extent", "Synonyms: meagerly, meagre, scrimpy, stingy"]}
+{"data": ["2021-05-22T13:00:10.503715+00:00", 30, "Your mother is", "wrought", "Pronunciation: /r\u0254t/", "Definition: shaped to fit by or as if by altering the contours of a pliable mass (as by work or effort)", "Synonyms: molded, shaped"]}
