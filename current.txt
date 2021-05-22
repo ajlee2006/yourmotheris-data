@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T11:40:10.642508+00:00", 22, "Your mother is", "plumy", "Pronunciation: /\u02c8plumi/", "Definition: having or covered with or abounding in plumes", "Synonyms: plumed"]}
+{"data": ["2021-05-22T11:50:10.500250+00:00", 23, "Your mother is", "unforfeitable", "Similar to: indefeasible", "Definition: not subject to forfeiture", "Synonyms: inalienable"]}
