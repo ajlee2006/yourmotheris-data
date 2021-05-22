@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T11:00:10.374992+00:00", 18, "Your mother is", "thrifty", "Pronunciation: /\u02c8\u03b8r\u026afti/", "Definition: mindful of the future in spending money", "Synonyms: careful"]}
+{"data": ["2021-05-22T11:10:10.412241+00:00", 19, "Your mother is", "controlled", "Pronunciation: /k\u028cn\u02c8tro\u028ald/", "Definition: restrained or managed or kept within certain bounds", ""]}
