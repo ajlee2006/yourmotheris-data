@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T02:15:55.394438+00:00", 1150, "Your mother is", "rumansh", "", "Definition: of or relating to the Romansh language", "Synonyms: romansh"]}
+{"data": ["2021-05-22T02:25:55.686710+00:00", 1151, "Your mother is", "little-known", "Pronunciation: /\u02c8l\u026at\u0259l-no\u028an/", "Definition: unknown to most people", ""]}
