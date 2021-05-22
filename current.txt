@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T05:55:55.380323+00:00", 1172, "Your mother is", "unresolvable", "Pronunciation: /\u02cc\u0259nri\u02c8z\u0251lv\u0259b\u0259l/", "Definition: not easily solved", "Synonyms: insolvable, unsoluble, unsolvable"]}
+{"data": ["2021-05-22T08:10:10.651696+00:00", 1, "Your mother is", "quaternate", "Pronunciation: /\u02c8kw\u0251t\u0259r\u02ccne\u026at/", "Definition: consisting of or especially arranged in sets of four", "Synonyms: quaternary"]}
