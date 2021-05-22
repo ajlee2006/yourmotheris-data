@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T14:00:10.502107+00:00", 36, "Your mother is", "optimum", "Pronunciation: /\u02c8\u0251pt\u0259m\u0259m/", "Definition: most desirable possible under a restriction expressed or implied", "Synonyms: optimal"]}
+{"data": ["2021-05-22T14:10:10.426609+00:00", 37, "Your mother is", "brownish-speckled", "Similar to: patterned", "Definition: having brown speckles", "Synonyms: brown-speckled"]}
