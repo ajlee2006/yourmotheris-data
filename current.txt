@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T22:40:10.438868+00:00", 88, "Your mother is", "oxidised", "", "Definition: combined with or having undergone a chemical reaction with oxygen", "Synonyms: oxidized"]}
+{"data": ["2021-05-22T22:50:10.457520+00:00", 89, "Your mother is", "thrifty", "Pronunciation: /\u02c8\u03b8r\u026afti/", "Definition: mindful of the future in spending money", "Synonyms: careful"]}
