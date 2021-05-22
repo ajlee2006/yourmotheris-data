@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T17:40:10.485886+00:00", 58, "Your mother is", "perishable", "Pronunciation: /\u02c8p\u025br\u026a\u0283\u0259b\u0259l/", "Definition: liable to perish; subject to destruction or death or decay", ""]}
+{"data": ["2021-05-22T17:50:10.428129+00:00", 59, "Your mother is", "documented", "Pronunciation: /\u02c8d\u0251kj\u028c\u02ccm\u025bnt\u028cd/", "Definition: established as genuine", "Synonyms: attested, authenticated"]}
