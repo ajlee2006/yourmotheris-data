@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T19:50:10.532447+00:00", 71, "Your mother is", "het up", "Similar to: hot", "Definition: made warm or hot (`het' is a dialectal variant of `heated')", "Synonyms: heated, heated up, het"]}
+{"data": ["2021-05-22T20:00:10.589585+00:00", 72, "Your mother is", "bumper-to-bumper", "Similar to: slow", "Definition: used of traffic", ""]}
