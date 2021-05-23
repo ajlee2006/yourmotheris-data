@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T02:00:10.437521+00:00", 108, "Your mother is", "boughten", "Pronunciation: /\u02c8b\u0254t\u0259n/", "Definition: purchased; not homemade", "Synonyms: store-bought"]}
+{"data": ["2021-05-23T02:10:10.667677+00:00", 109, "Your mother is", "subfusc", "Pronunciation: /\u02c8s\u0259bf\u0259sk/", "Definition: devoid of brightness or appeal", ""]}
