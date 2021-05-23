@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T18:47:06.094566+00:00", 208, "Your mother is", "staged", "Pronunciation: /ste\u026ad\u0292d/", "Definition: deliberately arranged for effect", "Synonyms: arranged"]}
+{"data": ["2021-05-23T18:57:06.050502+00:00", 209, "Your mother is", "empty", "Pronunciation: /\u02c8\u025bmpti/", "Definition: needing nourishment", "Synonyms: empty-bellied"]}
