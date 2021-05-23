@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T17:17:06.079591+00:00", 199, "Your mother is", "physiological", "Pronunciation: /\u02ccf\u026azi\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or consistent with an organism's normal functioning", "Synonyms: physiologic"]}
+{"data": ["2021-05-23T17:27:06.054154+00:00", 200, "Your mother is", "grizzly", "Pronunciation: /\u02c8gr\u026azli/", "Definition: showing characteristics of age, especially having grey or white hair", "Synonyms: gray, gray-haired, gray-headed, grey, grey-haired, grey-headed, hoar, hoary, white-haired"]}
