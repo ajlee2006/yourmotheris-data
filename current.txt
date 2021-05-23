@@ -1,1 +1,1 @@
-{"data": ["2021-05-22T23:50:10.373828+00:00", 95, "Your mother is", "yellow-marked", "Pronunciation: /\u02c8j\u025blo\u028a-m\u0251rkt/", "Definition: having yellow marks", ""]}
+{"data": ["2021-05-23T00:00:10.561666+00:00", 96, "Your mother is", "xcvi", "Similar to: cardinal", "Definition: being six more than ninety", "Synonyms: 96, ninety-six"]}
