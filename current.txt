@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T20:27:06.016581+00:00", 218, "Your mother is", "garden", "Pronunciation: /\u02c8\u0261\u0251rd\u0259n/", "Definition: the usual or familiar type", ""]}
+{"data": ["2021-05-23T20:37:06.013226+00:00", 219, "Your mother is", "weatherly", "Pronunciation: /\u02c8w\u025b\u00f0\u0259rli/", "Definition: (of a sailing vessel) making very little leeway when close-hauled", ""]}
