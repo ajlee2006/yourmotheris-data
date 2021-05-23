@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T01:10:10.421580+00:00", 103, "Your mother is", "ghostly", "Pronunciation: /\u0261o\u028astli/", "Definition: resembling or characteristic of a phantom", "Synonyms: apparitional, ghostlike, phantasmal, spectral, spiritual"]}
+{"data": ["2021-05-23T01:20:10.404495+00:00", 104, "Your mother is", "mean", "Pronunciation: /min/", "Definition: (used of sums of money) so small in amount as to deserve contempt", "Synonyms: beggarly"]}
