@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T19:17:06.098793+00:00", 211, "Your mother is", "blindfolded", "Pronunciation: /\u02c8bla\u026and\u02ccfo\u028ald\u026ad/", "Definition: wearing a blindfold", "Synonyms: blindfold"]}
+{"data": ["2021-05-23T19:27:06.021530+00:00", 212, "Your mother is", "abominable", "Pronunciation: /\u0259\u02c8b\u0251m\u0259n\u0259b\u0259l/", "Definition: unequivocally detestable", "Synonyms: detestable, execrable, odious"]}
