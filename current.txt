@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T04:30:10.523252+00:00", 123, "Your mother is", "leibnizian", "Pronunciation: /la\u026ab\u02c8n\u026atsi\u0259n/", "Definition: of or relating to Gottfried Wilhelm Leibniz or to his mathematics or philosophy", "Synonyms: leibnitzian"]}
+{"data": ["2021-05-23T04:40:10.316448+00:00", 124, "Your mother is", "tree-living", "Pronunciation: /tri-\u02c8l\u026av\u026a\u014b/", "Definition: inhabiting or frequenting trees", "Synonyms: arboreal, arboreous"]}
