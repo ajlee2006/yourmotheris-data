@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T17:47:06.016296+00:00", 202, "Your mother is", "six-fold", "Similar to: multiple", "Definition: having six units or components", "Synonyms: sextuple, sixfold"]}
+{"data": ["2021-05-23T17:57:06.032014+00:00", 203, "Your mother is", "literary", "Pronunciation: /\u02c8l\u026at\u0259\u02ccr\u025bri/", "Definition: appropriate to literature rather than everyday speech or writing", ""]}
