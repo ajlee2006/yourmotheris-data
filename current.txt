@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T00:20:10.404157+00:00", 98, "Your mother is", "disjunctive", "Pronunciation: /d\u026as\u02c8d\u0292\u0259\u014bkt\u026av/", "Definition: serving or tending to divide or separate", ""]}
+{"data": ["2021-05-23T00:30:10.503468+00:00", 99, "Your mother is", "inoffensive", "Pronunciation: /\u02cc\u026an\u0259\u02c8f\u025bns\u026av/", "Definition: not causing anger or annoyance", "Synonyms: unoffending"]}
