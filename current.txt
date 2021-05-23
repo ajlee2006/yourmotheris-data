@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T08:47:06.089890+00:00", 148, "Your mother is", "fat-soluble", "Pronunciation: /f\u00e6t-\u02c8s\u0251lj\u0259b\u0259l/", "Definition: soluble in fats", ""]}
+{"data": ["2021-05-23T08:57:06.037076+00:00", 149, "Your mother is", "untechnical", "", "Definition: not characteristic of or skilled in applied arts and sciences", "Synonyms: nontechnical"]}
