@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T12:07:06.142293+00:00", 168, "Your mother is", "paid", "Pronunciation: /pe\u026ad/", "Definition: involving gainful employment in something often done as a hobby", "Synonyms: nonrecreational"]}
+{"data": ["2021-05-23T12:17:06.059077+00:00", 169, "Your mother is", "bacillary", "Pronunciation: /\u02c8b\u00e6s\u0259\u02ccl\u025bri/", "Definition: relating to or produced by or containing bacilli", "Synonyms: bacillar"]}
