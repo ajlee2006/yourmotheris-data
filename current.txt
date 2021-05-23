@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T23:07:06.014810+00:00", 234, "Your mother is", "nonaligned", "Pronunciation: /\u02c8n\u0251n\u028c\u02ccla\u026and/", "Definition: not affiliated with any faction, party, or cause", ""]}
+{"data": ["2021-05-23T23:17:06.084093+00:00", 235, "Your mother is", "outward-moving", "Similar to: centrifugal", "Definition: moving or directed away from center, especially when spinning or traveling in a curve", ""]}
