@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T00:30:10.503468+00:00", 99, "Your mother is", "inoffensive", "Pronunciation: /\u02cc\u026an\u0259\u02c8f\u025bns\u026av/", "Definition: not causing anger or annoyance", "Synonyms: unoffending"]}
+{"data": ["2021-05-23T00:40:10.537415+00:00", 100, "Your mother is", "formulated", "Pronunciation: /\u02c8f\u0254rmj\u028c\u02ccle\u026at\u028cd/", "Definition: devised; developed according to an orderly plan", ""]}
