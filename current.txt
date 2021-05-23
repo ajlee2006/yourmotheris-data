@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T13:07:06.128702+00:00", 174, "Your mother is", "cumulative", "Pronunciation: /\u02c8kjumj\u0259\u02ccle\u026at\u026av/", "Definition: increasing by successive addition", "Synonyms: accumulative"]}
+{"data": ["2021-05-23T13:17:06.024320+00:00", 175, "Your mother is", "punctilious", "Pronunciation: /p\u0259\u014bk\u02c8t\u026ali\u0259s/", "Definition: marked by precise accordance with details", "Synonyms: meticulous"]}
