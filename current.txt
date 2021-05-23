@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T21:27:06.049817+00:00", 224, "Your mother is", "columned", "Pronunciation: /\u02c8k\u0251l\u028cmd/", "Definition: having or resembling columns; having columns of a specified kind (often used as a combining form)", ""]}
+{"data": ["2021-05-23T21:37:06.026155+00:00", 225, "Your mother is", "impalpable", "Pronunciation: /\u026am\u02c8p\u00e6lp\u0259b\u0259l/", "Definition: incapable of being perceived by the senses especially the sense of touch", "Synonyms: intangible"]}
