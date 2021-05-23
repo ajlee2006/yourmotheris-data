@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T06:10:10.403067+00:00", 133, "Your mother is", "bifoliate", "Pronunciation: /ba\u026a\u02c8fo\u028ali\u026at/", "Definition: having two leaves", ""]}
+{"data": ["2021-05-23T06:20:10.309048+00:00", 134, "Your mother is", "jewelled", "Similar to: adorned", "Definition: covered with beads or jewels or sequins", "Synonyms: beady, gemmed, jeweled, sequined, spangled, spangly"]}
