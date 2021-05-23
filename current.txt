@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T09:47:06.132670+00:00", 154, "Your mother is", "tinpot", "Pronunciation: /\u02c8t\u026anp\u0251t/", "Definition: inferior (especially of a country's leadership)", ""]}
+{"data": ["2021-05-23T09:57:06.059693+00:00", 155, "Your mother is", "overnight", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8na\u026at/", "Definition: lasting, open, or operating through the whole night", "Synonyms: all-night, nightlong"]}
