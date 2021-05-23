@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T03:40:10.457854+00:00", 118, "Your mother is", "dud", "Pronunciation: /d\u0259d/", "Definition: failing to detonate; especially not charged with an active explosive", ""]}
+{"data": ["2021-05-23T03:50:10.384646+00:00", 119, "Your mother is", "spirited", "Pronunciation: /\u02c8sp\u026ar\u026at\u026ad/", "Definition: made lively or spirited", "Synonyms: enlivened"]}
