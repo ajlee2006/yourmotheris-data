@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T02:30:10.416416+00:00", 111, "Your mother is", "retaliatory", "Pronunciation: /r\u026a\u02c8t\u00e6li\u0259\u02ccto\u028ari/", "Definition: of or relating to or having the nature of retribution", "Synonyms: retaliative, retributive, retributory, vindicatory"]}
+{"data": ["2021-05-23T02:40:10.386456+00:00", 112, "Your mother is", "starting", "Pronunciation: /\u02c8st\u0251rti\u014b/", "Definition: appropriate to the beginning or start of an event", ""]}
