@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T15:27:06.055723+00:00", 188, "Your mother is", "beneficial", "Pronunciation: /\u02ccb\u025bn\u0259\u02c8f\u026a\u0283\u0259l/", "Definition: promoting or enhancing well-being", "Synonyms: good"]}
+{"data": ["2021-05-23T15:37:06.005250+00:00", 189, "Your mother is", "radiate", "Pronunciation: /\u02c8re\u026adi\u026at/", "Definition: arranged like rays or radii; radiating from a common center", "Synonyms: radial, stellate"]}
