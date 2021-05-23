@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T16:47:05.987155+00:00", 196, "Your mother is", "cultural", "Pronunciation: /\u02c8k\u0259l\u02a7\u0259r\u0259l/", "Definition: denoting or deriving from or distinctive of the ways of living built up by a group of people", "Synonyms: ethnic, ethnical"]}
+{"data": ["2021-05-23T16:57:06.041792+00:00", 197, "Your mother is", "mannered", "Pronunciation: /\u02c8m\u00e6n\u0259rd/", "Definition: having unnatural mannerisms", ""]}
