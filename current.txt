@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T11:47:06.040223+00:00", 166, "Your mother is", "choosey", "Pronunciation: /\u02c8\u02a7uzi/", "Definition: difficult to please", "Synonyms: choosy"]}
+{"data": ["2021-05-23T11:57:05.966314+00:00", 167, "Your mother is", "eligible", "Pronunciation: /\u02c8\u025bl\u026ad\u0292\u0259b\u0259l/", "Definition: qualified for or allowed or worthy of being chosen", ""]}
