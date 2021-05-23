@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T04:20:10.430055+00:00", 122, "Your mother is", "racial", "Pronunciation: /\u02c8re\u026a\u0283\u0259l/", "Definition: of or characteristic of race or races or arising from differences among groups", ""]}
+{"data": ["2021-05-23T04:30:10.523252+00:00", 123, "Your mother is", "leibnizian", "Pronunciation: /la\u026ab\u02c8n\u026atsi\u0259n/", "Definition: of or relating to Gottfried Wilhelm Leibniz or to his mathematics or philosophy", "Synonyms: leibnitzian"]}
