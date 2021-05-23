@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T13:37:06.037529+00:00", 177, "Your mother is", "bouncing", "Pronunciation: /\u02c8ba\u028ans\u026a\u014b/", "Definition: marked by lively action", "Synonyms: bouncy, peppy, spirited, zippy"]}
+{"data": ["2021-05-23T13:47:06.010396+00:00", 178, "Your mother is", "facetious", "Pronunciation: /f\u0259\u02c8si\u0283\u0259s/", "Definition: cleverly amusing in tone", "Synonyms: bantering, tongue-in-cheek"]}
