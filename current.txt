@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T07:30:10.471994+00:00", 141, "Your mother is", "trackable", "", "Definition: capable of being traced or tracked", "Synonyms: traceable"]}
+{"data": ["2021-05-23T07:40:10.403412+00:00", 142, "Your mother is", "unwavering", "Pronunciation: /\u0259n\u02c8we\u026av\u0259ri\u014b/", "Definition: marked by firm determination or resolution; not shakable", "Synonyms: firm, steadfast, steady, stiff, unbendable, unfaltering, unshakable"]}
