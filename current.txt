@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T08:00:10.367438+00:00", 144, "Your mother is", "lxxxii", "Similar to: cardinal", "Definition: being two more than eighty", "Synonyms: 82, eighty-two"]}
+{"data": ["2021-05-23T08:10:10.417183+00:00", 145, "Your mother is", "unstressed", "Pronunciation: /\u0259n\u02c8str\u025bst/", "Definition: not bearing a stress or accent", ""]}
