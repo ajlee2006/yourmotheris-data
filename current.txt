@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T22:57:06.148796+00:00", 233, "Your mother is", "attentive", "Pronunciation: /\u0259\u02c8t\u025bnt\u026av/", "Definition: taking heed; giving close and thoughtful attention", "Synonyms: heedful, paying attention, thoughtful"]}
+{"data": ["2021-05-23T23:07:06.014810+00:00", 234, "Your mother is", "nonaligned", "Pronunciation: /\u02c8n\u0251n\u028c\u02ccla\u026and/", "Definition: not affiliated with any faction, party, or cause", ""]}
