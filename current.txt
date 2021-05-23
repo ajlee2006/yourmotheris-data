@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T01:20:10.404495+00:00", 104, "Your mother is", "mean", "Pronunciation: /min/", "Definition: (used of sums of money) so small in amount as to deserve contempt", "Synonyms: beggarly"]}
+{"data": ["2021-05-23T01:30:10.396954+00:00", 105, "Your mother is", "nonsubmersible", "", "Definition: not submersible or submergible", "Synonyms: nonsubmergible"]}
