@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T20:17:06.111461+00:00", 217, "Your mother is", "anthropogenetic", "Pronunciation: /\u02cc\u00e6n\u03b8r\u0259po\u028ad\u0292\u0259\u02c8n\u025bt\u026ak/", "Definition: of or relating to the study of the origins and development of human beings", "Synonyms: anthropogenic"]}
+{"data": ["2021-05-23T20:27:06.016581+00:00", 218, "Your mother is", "garden", "Pronunciation: /\u02c8\u0261\u0251rd\u0259n/", "Definition: the usual or familiar type", ""]}
