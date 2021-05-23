@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T05:20:10.410763+00:00", 128, "Your mother is", "undefended", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8f\u025bnd\u026ad/", "Definition: not defended or capable of being defended", "Synonyms: assailable, open, undefendable"]}
+{"data": ["2021-05-23T05:30:10.372670+00:00", 129, "Your mother is", "unattributable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8tribj\u028at\u0259b\u0259l/", "Definition: not attributable", "Synonyms: unascribable"]}
