@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T18:27:06.072573+00:00", 206, "Your mother is", "toxicologic", "", "Definition: of or relating to toxicology", "Synonyms: toxicological"]}
+{"data": ["2021-05-23T18:37:06.061859+00:00", 207, "Your mother is", "coeval", "Pronunciation: /ko\u028a\u02c8iv\u0259l/", "Definition: of the same period", "Synonyms: coetaneous, contemporaneous"]}
