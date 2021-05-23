@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T11:37:06.074220+00:00", 165, "Your mother is", "sulfurized", "", "Definition: treated or impregnated with sulfur", "Synonyms: sulfuretted, sulphuretted"]}
+{"data": ["2021-05-23T11:47:06.040223+00:00", 166, "Your mother is", "choosey", "Pronunciation: /\u02c8\u02a7uzi/", "Definition: difficult to please", "Synonyms: choosy"]}
