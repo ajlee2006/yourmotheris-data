@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T21:57:06.077807+00:00", 227, "Your mother is", "mad", "Pronunciation: /m\u00e6d/", "Definition: roused to anger", "Synonyms: huffy, sore"]}
+{"data": ["2021-05-23T22:07:06.221145+00:00", 228, "Your mother is", "coal-burning", "Pronunciation: /ko\u028al-\u02c8b\u025crn\u026a\u014b/", "Definition: fueled by burning coal", "Synonyms: coal-fired"]}
