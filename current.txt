@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T07:10:10.380194+00:00", 139, "Your mother is", "cypriote", "Pronunciation: /\u02c8s\u026apri\u02cco\u028at/", "Definition: of or relating to Cyprus or its people or culture", "Synonyms: cyprian, cypriot"]}
+{"data": ["2021-05-23T07:20:10.401360+00:00", 140, "Your mother is", "valorous", "Pronunciation: /\u02c8v\u00e6l\u0259r\u0259s/", "Definition: having or showing valor", "Synonyms: valiant"]}
