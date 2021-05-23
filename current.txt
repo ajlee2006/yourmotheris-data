@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T18:17:06.095288+00:00", 205, "Your mother is", "formed", "Pronunciation: /f\u0254rmd/", "Definition: having or given a form or shape", ""]}
+{"data": ["2021-05-23T18:27:06.072573+00:00", 206, "Your mother is", "toxicologic", "", "Definition: of or relating to toxicology", "Synonyms: toxicological"]}
