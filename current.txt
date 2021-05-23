@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T05:10:10.350612+00:00", 127, "Your mother is", "rubberlike", "Similar to: elastic", "Definition: having an elastic texture resembling rubber in flexibility or toughness", "Synonyms: rubbery"]}
+{"data": ["2021-05-23T05:20:10.410763+00:00", 128, "Your mother is", "undefended", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8f\u025bnd\u026ad/", "Definition: not defended or capable of being defended", "Synonyms: assailable, open, undefendable"]}
