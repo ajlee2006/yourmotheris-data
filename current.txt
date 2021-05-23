@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T14:07:06.162012+00:00", 180, "Your mother is", "barred", "Pronunciation: /b\u0251rd/", "Definition: preventing entry or exit or a course of action", "Synonyms: barricaded, blockaded"]}
+{"data": ["2021-05-23T14:17:06.094996+00:00", 181, "Your mother is", "coloured", "Pronunciation: /\u02c8k\u0259l\u0259d/", "Definition: favoring one person or side over another", "Synonyms: biased, colored, one-sided, slanted"]}
