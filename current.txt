@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T13:17:06.024320+00:00", 175, "Your mother is", "punctilious", "Pronunciation: /p\u0259\u014bk\u02c8t\u026ali\u0259s/", "Definition: marked by precise accordance with details", "Synonyms: meticulous"]}
+{"data": ["2021-05-23T13:27:05.986097+00:00", 176, "Your mother is", "afghanistani", "", "Definition: of or relating to or characteristic of Afghanistan or its people", "Synonyms: afghan, afghani"]}
