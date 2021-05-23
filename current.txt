@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T06:20:10.309048+00:00", 134, "Your mother is", "jewelled", "Similar to: adorned", "Definition: covered with beads or jewels or sequins", "Synonyms: beady, gemmed, jeweled, sequined, spangled, spangly"]}
+{"data": ["2021-05-23T06:30:10.361031+00:00", 135, "Your mother is", "grammatic", "", "Definition: of or pertaining to grammar", "Synonyms: grammatical"]}
