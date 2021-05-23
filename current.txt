@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T12:17:06.059077+00:00", 169, "Your mother is", "bacillary", "Pronunciation: /\u02c8b\u00e6s\u0259\u02ccl\u025bri/", "Definition: relating to or produced by or containing bacilli", "Synonyms: bacillar"]}
+{"data": ["2021-05-23T12:27:05.992927+00:00", 170, "Your mother is", "cymose", "Pronunciation: /\u02c8sa\u026amo\u028as/", "Definition: having a usually flat-topped flower cluster in which the main and branch stems each end in a flower that opens before those below it or to its side", ""]}
