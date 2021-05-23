@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T20:37:06.013226+00:00", 219, "Your mother is", "weatherly", "Pronunciation: /\u02c8w\u025b\u00f0\u0259rli/", "Definition: (of a sailing vessel) making very little leeway when close-hauled", ""]}
+{"data": ["2021-05-23T20:47:06.036006+00:00", 220, "Your mother is", "schismatical", "", "Definition: of or relating to or involved in or characteristic of schism", "Synonyms: schismatic"]}
