@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T15:37:06.005250+00:00", 189, "Your mother is", "radiate", "Pronunciation: /\u02c8re\u026adi\u026at/", "Definition: arranged like rays or radii; radiating from a common center", "Synonyms: radial, stellate"]}
+{"data": ["2021-05-23T15:47:06.046121+00:00", 190, "Your mother is", "achromic", "Pronunciation: /e\u026a\u02c8kro\u028am\u026ak/", "Definition: having no color", "Synonyms: achromous"]}
