@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T21:47:06.011220+00:00", 226, "Your mother is", "gonadotropic", "Pronunciation: /\u0261o\u028a\u02ccn\u00e6d\u0259\u02c8tr\u0251p\u026ak/", "Definition: of or relating to or involving gonadotropin", "Synonyms: gonadotrophic"]}
+{"data": ["2021-05-23T21:57:06.077807+00:00", 227, "Your mother is", "mad", "Pronunciation: /m\u00e6d/", "Definition: roused to anger", "Synonyms: huffy, sore"]}
