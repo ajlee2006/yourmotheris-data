@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T01:00:10.527713+00:00", 102, "Your mother is", "two-way", "Pronunciation: /tu-we\u026a/", "Definition: supported by both sides", "Synonyms: bipartisan, bipartizan, two-party"]}
+{"data": ["2021-05-23T01:10:10.421580+00:00", 103, "Your mother is", "ghostly", "Pronunciation: /\u0261o\u028astli/", "Definition: resembling or characteristic of a phantom", "Synonyms: apparitional, ghostlike, phantasmal, spectral, spiritual"]}
