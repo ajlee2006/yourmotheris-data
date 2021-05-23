@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T04:00:10.430836+00:00", 120, "Your mother is", "verdant", "Pronunciation: /\u02c8v\u025crd\ufffdnt/", "Definition: characterized by abundance of verdure", ""]}
+{"data": ["2021-05-23T04:10:11.067932+00:00", 121, "Your mother is", "increased", "Pronunciation: /\u026an\u02c8krist/", "Definition: made greater in size or amount or degree", ""]}
