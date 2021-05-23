@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T11:17:06.039180+00:00", 163, "Your mother is", "heavy-footed", "Pronunciation: /\u02c8h\u025bvi-\u02c8f\u028at\u026ad/", "Definition: (of movement) lacking ease or lightness", ""]}
+{"data": ["2021-05-23T11:27:06.025937+00:00", 164, "Your mother is", "saponaceous", "Pronunciation: /\u02ccs\u00e6p\u0259\u02c8ne\u026a\u0283\u0259s/", "Definition: resembling or having the qualities of soap", "Synonyms: soapy"]}
