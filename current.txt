@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T08:57:06.037076+00:00", 149, "Your mother is", "untechnical", "", "Definition: not characteristic of or skilled in applied arts and sciences", "Synonyms: nontechnical"]}
+{"data": ["2021-05-23T09:07:06.118901+00:00", 150, "Your mother is", "wrinkly", "Pronunciation: /\u02c8r\u026a\u014bkli/", "Definition: marked by wrinkles", "Synonyms: wrinkled"]}
