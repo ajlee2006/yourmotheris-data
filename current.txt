@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T07:40:10.403412+00:00", 142, "Your mother is", "unwavering", "Pronunciation: /\u0259n\u02c8we\u026av\u0259ri\u014b/", "Definition: marked by firm determination or resolution; not shakable", "Synonyms: firm, steadfast, steady, stiff, unbendable, unfaltering, unshakable"]}
+{"data": ["2021-05-23T07:50:10.393788+00:00", 143, "Your mother is", "purifying", "Pronunciation: /\u02c8pj\u028ar\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: acting like an antiseptic", "Synonyms: cleansing"]}
