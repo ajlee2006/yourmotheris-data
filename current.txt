@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T06:40:10.341653+00:00", 136, "Your mother is", "stoic", "Pronunciation: /\u02c8sto\u028a\u026ak/", "Definition: seeming unaffected by pleasure or pain; impassive", "Synonyms: stoical"]}
+{"data": ["2021-05-23T06:50:10.365451+00:00", 137, "Your mother is", "penitentiary", "Pronunciation: /\u02ccp\u025bn\u026a\u02c8t\u025bn\u0283\u0259ri/", "Definition: showing or constituting penance", "Synonyms: penitential"]}
