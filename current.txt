@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T12:47:06.014636+00:00", 172, "Your mother is", "heterometabolic", "Similar to: metamorphic", "Definition: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage", "Synonyms: heterometabolous"]}
+{"data": ["2021-05-23T12:57:06.010867+00:00", 173, "Your mother is", "magenta pink", "Similar to: chromatic", "Definition: of pink tinged with magenta", ""]}
