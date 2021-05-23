@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T22:07:06.221145+00:00", 228, "Your mother is", "coal-burning", "Pronunciation: /ko\u028al-\u02c8b\u025crn\u026a\u014b/", "Definition: fueled by burning coal", "Synonyms: coal-fired"]}
+{"data": ["2021-05-23T22:17:06.070220+00:00", 229, "Your mother is", "oxidised", "", "Definition: combined with or having undergone a chemical reaction with oxygen", "Synonyms: oxidized"]}
