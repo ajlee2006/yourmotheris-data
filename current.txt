@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T04:40:10.316448+00:00", 124, "Your mother is", "tree-living", "Pronunciation: /tri-\u02c8l\u026av\u026a\u014b/", "Definition: inhabiting or frequenting trees", "Synonyms: arboreal, arboreous"]}
+{"data": ["2021-05-23T04:50:10.326310+00:00", 125, "Your mother is", "withered", "Pronunciation: /\u02c8w\u026a\u00f0\u025drd/", "Definition: lean and wrinkled by shrinkage as from age or illness", "Synonyms: shriveled, shrivelled, shrunken, wizen, wizened"]}
