@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T19:07:06.011678+00:00", 210, "Your mother is", "dermatologic", "", "Definition: of or relating to or practicing dermatology", "Synonyms: dermatological"]}
+{"data": ["2021-05-23T19:17:06.098793+00:00", 211, "Your mother is", "blindfolded", "Pronunciation: /\u02c8bla\u026and\u02ccfo\u028ald\u026ad/", "Definition: wearing a blindfold", "Synonyms: blindfold"]}
