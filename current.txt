@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T12:57:06.010867+00:00", 173, "Your mother is", "magenta pink", "Similar to: chromatic", "Definition: of pink tinged with magenta", ""]}
+{"data": ["2021-05-23T13:07:06.128702+00:00", 174, "Your mother is", "cumulative", "Pronunciation: /\u02c8kjumj\u0259\u02ccle\u026at\u026av/", "Definition: increasing by successive addition", "Synonyms: accumulative"]}
