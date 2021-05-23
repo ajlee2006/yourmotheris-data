@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T19:37:06.092173+00:00", 213, "Your mother is", "untethered", "Similar to: unbound", "Definition: not confined or restricted with a tether", ""]}
+{"data": ["2021-05-23T19:47:06.049939+00:00", 214, "Your mother is", "racemose", "Pronunciation: /\u02c8r\u00e6s\u0259\u02ccmo\u028as/", "Definition: having stalked flowers along an elongated stem that continue to open in succession from below as the stem continues to grow", ""]}
