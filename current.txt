@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T05:00:10.652415+00:00", 126, "Your mother is", "model", "Pronunciation: /\u02c8m\u0251d\u0259l/", "Definition: worthy of imitation", "Synonyms: exemplary"]}
+{"data": ["2021-05-23T05:10:10.350612+00:00", 127, "Your mother is", "rubberlike", "Similar to: elastic", "Definition: having an elastic texture resembling rubber in flexibility or toughness", "Synonyms: rubbery"]}
