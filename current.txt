@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T10:17:06.175727+00:00", 157, "Your mother is", "incompetent", "Pronunciation: /\u026an\u02c8k\u0251mp\u026at\u0259nt/", "Definition: legally not qualified or sufficient", "Synonyms: unqualified"]}
+{"data": ["2021-05-23T10:27:05.974613+00:00", 158, "Your mother is", "dauntless", "Pronunciation: /\u02c8d\u0254ntl\u026as/", "Definition: invulnerable to fear or intimidation", "Synonyms: audacious, brave, fearless, hardy, intrepid, unfearing"]}
