@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T06:00:10.342883+00:00", 132, "Your mother is", "fair to middling", "Similar to: satisfactory", "Definition: about average; acceptable", "Synonyms: adequate, passable, tolerable"]}
+{"data": ["2021-05-23T06:10:10.403067+00:00", 133, "Your mother is", "bifoliate", "Pronunciation: /ba\u026a\u02c8fo\u028ali\u026at/", "Definition: having two leaves", ""]}
