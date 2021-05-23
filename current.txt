@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T05:30:10.372670+00:00", 129, "Your mother is", "unattributable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8tribj\u028at\u0259b\u0259l/", "Definition: not attributable", "Synonyms: unascribable"]}
+{"data": ["2021-05-23T05:40:10.325833+00:00", 130, "Your mother is", "unperceptive", "Pronunciation: /\u02cc\u0259np\u0259\u02c8s\u025bpt\u026av/", "Definition: lacking perception", "Synonyms: unperceiving"]}
