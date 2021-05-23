@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T10:47:06.047426+00:00", 160, "Your mother is", "needle-shaped", "Pronunciation: /\u02c8nid\u0259l-\u0283e\u026apt/", "Definition: narrow and long and pointed; as pine leaves", "Synonyms: acerate, acerose, acicular"]}
+{"data": ["2021-05-23T10:57:06.192830+00:00", 161, "Your mother is", "grass-eating", "Pronunciation: /gr\u00e6s-\u02c8it\u026a\u014b/", "Definition: feeding on grasses", ""]}
