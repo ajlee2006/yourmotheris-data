@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T05:40:10.325833+00:00", 130, "Your mother is", "unperceptive", "Pronunciation: /\u02cc\u0259np\u0259\u02c8s\u025bpt\u026av/", "Definition: lacking perception", "Synonyms: unperceiving"]}
+{"data": ["2021-05-23T05:50:10.288312+00:00", 131, "Your mother is", "shuttered", "Pronunciation: /\u02c8\u0283\u028ct\u025drd/", "Definition: provided with shutters or shutters as specified; often used in combination", ""]}
