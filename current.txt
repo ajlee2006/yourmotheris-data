@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T13:57:06.015611+00:00", 179, "Your mother is", "unenthusiastic", "Pronunciation: /\u02cc\u0259n\u026an\u02cc\u03b8juz\u026a\u02c8\u00e6st\u026ak/", "Definition: not enthusiastic; lacking excitement or ardor", ""]}
+{"data": ["2021-05-23T14:07:06.162012+00:00", 180, "Your mother is", "barred", "Pronunciation: /b\u0251rd/", "Definition: preventing entry or exit or a course of action", "Synonyms: barricaded, blockaded"]}
