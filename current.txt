@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T06:50:10.365451+00:00", 137, "Your mother is", "penitentiary", "Pronunciation: /\u02ccp\u025bn\u026a\u02c8t\u025bn\u0283\u0259ri/", "Definition: showing or constituting penance", "Synonyms: penitential"]}
+{"data": ["2021-05-23T07:00:10.470911+00:00", 138, "Your mother is", "ironic", "Pronunciation: /a\u026a\u02c8r\u0251n\u026ak/", "Definition: characterized by often poignant difference or incongruity between what is expected and what actually is", "Synonyms: ironical"]}
