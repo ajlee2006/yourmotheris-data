@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T17:27:06.054154+00:00", 200, "Your mother is", "grizzly", "Pronunciation: /\u02c8gr\u026azli/", "Definition: showing characteristics of age, especially having grey or white hair", "Synonyms: gray, gray-haired, gray-headed, grey, grey-haired, grey-headed, hoar, hoary, white-haired"]}
+{"data": ["2021-05-23T17:37:06.017450+00:00", 201, "Your mother is", "foreordained", "Similar to: certain", "Definition: established or prearranged unalterably", "Synonyms: predestinate, predestined"]}
