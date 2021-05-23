@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T09:07:06.118901+00:00", 150, "Your mother is", "wrinkly", "Pronunciation: /\u02c8r\u026a\u014bkli/", "Definition: marked by wrinkles", "Synonyms: wrinkled"]}
+{"data": ["2021-05-23T09:17:06.120138+00:00", 151, "Your mother is", "bellicose", "Pronunciation: /\u02c8b\u025bl\u0259\u02ccko\u028as/", "Definition: having or showing a ready disposition to fight", "Synonyms: battleful, combative"]}
