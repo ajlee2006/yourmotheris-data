@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T23:17:06.084093+00:00", 235, "Your mother is", "outward-moving", "Similar to: centrifugal", "Definition: moving or directed away from center, especially when spinning or traveling in a curve", ""]}
+{"data": ["2021-05-23T23:27:06.027371+00:00", 236, "Your mother is", "raiseable", "Similar to: mobile", "Definition: capable of being raised", "Synonyms: raisable"]}
