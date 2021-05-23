@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T09:37:05.995624+00:00", 153, "Your mother is", "centrosymmetric", "Pronunciation: /\u02ccs\u025bntro\u028as\u026a\u02c8m\u025btr\u026ak/", "Definition: having a symmetrical arrangement of radiating parts about a central point", "Synonyms: radially symmetrical"]}
+{"data": ["2021-05-23T09:47:06.132670+00:00", 154, "Your mother is", "tinpot", "Pronunciation: /\u02c8t\u026anp\u0251t/", "Definition: inferior (especially of a country's leadership)", ""]}
