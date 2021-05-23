@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T04:10:11.067932+00:00", 121, "Your mother is", "increased", "Pronunciation: /\u026an\u02c8krist/", "Definition: made greater in size or amount or degree", ""]}
+{"data": ["2021-05-23T04:20:10.430055+00:00", 122, "Your mother is", "racial", "Pronunciation: /\u02c8re\u026a\u0283\u0259l/", "Definition: of or characteristic of race or races or arising from differences among groups", ""]}
