@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T13:47:06.010396+00:00", 178, "Your mother is", "facetious", "Pronunciation: /f\u0259\u02c8si\u0283\u0259s/", "Definition: cleverly amusing in tone", "Synonyms: bantering, tongue-in-cheek"]}
+{"data": ["2021-05-23T13:57:06.015611+00:00", 179, "Your mother is", "unenthusiastic", "Pronunciation: /\u02cc\u0259n\u026an\u02cc\u03b8juz\u026a\u02c8\u00e6st\u026ak/", "Definition: not enthusiastic; lacking excitement or ardor", ""]}
