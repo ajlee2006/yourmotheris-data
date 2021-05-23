@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T14:27:06.027964+00:00", 182, "Your mother is", "beat", "Pronunciation: /bit/", "Definition: very tired", "Synonyms: all in, bushed, dead"]}
+{"data": ["2021-05-23T14:37:06.125573+00:00", 183, "Your mother is", "epidemiologic", "", "Definition: of or relating to epidemiology", "Synonyms: epidemiological"]}
