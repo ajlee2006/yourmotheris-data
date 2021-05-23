@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T19:27:06.021530+00:00", 212, "Your mother is", "abominable", "Pronunciation: /\u0259\u02c8b\u0251m\u0259n\u0259b\u0259l/", "Definition: unequivocally detestable", "Synonyms: detestable, execrable, odious"]}
+{"data": ["2021-05-23T19:37:06.092173+00:00", 213, "Your mother is", "untethered", "Similar to: unbound", "Definition: not confined or restricted with a tether", ""]}
