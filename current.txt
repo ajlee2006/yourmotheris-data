@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T21:17:06.043050+00:00", 223, "Your mother is", "walk-up", "Pronunciation: /w\u0254k-\u0259p/", "Definition: a building with no elevator", ""]}
+{"data": ["2021-05-23T21:27:06.049817+00:00", 224, "Your mother is", "columned", "Pronunciation: /\u02c8k\u0251l\u028cmd/", "Definition: having or resembling columns; having columns of a specified kind (often used as a combining form)", ""]}
