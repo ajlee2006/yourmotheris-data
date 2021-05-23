@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T22:17:06.070220+00:00", 229, "Your mother is", "oxidised", "", "Definition: combined with or having undergone a chemical reaction with oxygen", "Synonyms: oxidized"]}
+{"data": ["2021-05-23T22:27:06.078030+00:00", 230, "Your mother is", "one-to-one", "Pronunciation: /\u02c8w\u0259nt\u0259-\u02c8w\u0259n/", "Definition: used of relations such that each member of one set is associated with one member of a second set", ""]}
