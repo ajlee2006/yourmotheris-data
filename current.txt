@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T16:57:06.041792+00:00", 197, "Your mother is", "mannered", "Pronunciation: /\u02c8m\u00e6n\u0259rd/", "Definition: having unnatural mannerisms", ""]}
+{"data": ["2021-05-23T17:07:06.058831+00:00", 198, "Your mother is", "pulseless", "Similar to: dead", "Definition: appearing dead; not breathing or having no perceptible pulse", "Synonyms: breathless, inanimate"]}
