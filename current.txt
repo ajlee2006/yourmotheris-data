@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T07:20:10.401360+00:00", 140, "Your mother is", "valorous", "Pronunciation: /\u02c8v\u00e6l\u0259r\u0259s/", "Definition: having or showing valor", "Synonyms: valiant"]}
+{"data": ["2021-05-23T07:30:10.471994+00:00", 141, "Your mother is", "trackable", "", "Definition: capable of being traced or tracked", "Synonyms: traceable"]}
