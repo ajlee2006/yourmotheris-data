@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T18:57:06.050502+00:00", 209, "Your mother is", "empty", "Pronunciation: /\u02c8\u025bmpti/", "Definition: needing nourishment", "Synonyms: empty-bellied"]}
+{"data": ["2021-05-23T19:07:06.011678+00:00", 210, "Your mother is", "dermatologic", "", "Definition: of or relating to or practicing dermatology", "Synonyms: dermatological"]}
