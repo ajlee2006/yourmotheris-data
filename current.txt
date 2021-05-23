@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T09:17:06.120138+00:00", 151, "Your mother is", "bellicose", "Pronunciation: /\u02c8b\u025bl\u0259\u02ccko\u028as/", "Definition: having or showing a ready disposition to fight", "Synonyms: battleful, combative"]}
+{"data": ["2021-05-23T09:27:06.319812+00:00", 152, "Your mother is", "escaped", "Pronunciation: /\u026a\u02c8ske\u026apt/", "Definition: having escaped, especially from confinement", "Synonyms: at large, loose, on the loose"]}
