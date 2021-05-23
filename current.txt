@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T00:40:10.537415+00:00", 100, "Your mother is", "formulated", "Pronunciation: /\u02c8f\u0254rmj\u028c\u02ccle\u026at\u028cd/", "Definition: devised; developed according to an orderly plan", ""]}
+{"data": ["2021-05-23T00:50:10.517597+00:00", 101, "Your mother is", "catabolic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8b\u0251l\u026ak/", "Definition: relating to or characterized by catabolism", "Synonyms: katabolic"]}
