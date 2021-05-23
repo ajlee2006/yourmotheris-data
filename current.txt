@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T06:30:10.361031+00:00", 135, "Your mother is", "grammatic", "", "Definition: of or pertaining to grammar", "Synonyms: grammatical"]}
+{"data": ["2021-05-23T06:40:10.341653+00:00", 136, "Your mother is", "stoic", "Pronunciation: /\u02c8sto\u028a\u026ak/", "Definition: seeming unaffected by pleasure or pain; impassive", "Synonyms: stoical"]}
