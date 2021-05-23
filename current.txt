@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T11:57:05.966314+00:00", 167, "Your mother is", "eligible", "Pronunciation: /\u02c8\u025bl\u026ad\u0292\u0259b\u0259l/", "Definition: qualified for or allowed or worthy of being chosen", ""]}
+{"data": ["2021-05-23T12:07:06.142293+00:00", 168, "Your mother is", "paid", "Pronunciation: /pe\u026ad/", "Definition: involving gainful employment in something often done as a hobby", "Synonyms: nonrecreational"]}
