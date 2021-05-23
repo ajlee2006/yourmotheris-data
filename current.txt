@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T03:10:10.416356+00:00", 115, "Your mother is", "straining", "Pronunciation: /\u02c8stre\u026an\u026a\u014b/", "Definition: taxing to the utmost; testing powers of endurance", "Synonyms: arduous, strenuous"]}
+{"data": ["2021-05-23T03:20:10.540383+00:00", 116, "Your mother is", "aslope", "Pronunciation: /\u0259\u02c8slo\u028ap/", "Definition: having an oblique or slanted direction", "Synonyms: aslant, diagonal, slanted, slanting, sloped, sloping"]}
