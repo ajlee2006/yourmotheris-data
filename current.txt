@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T12:27:05.992927+00:00", 170, "Your mother is", "cymose", "Pronunciation: /\u02c8sa\u026amo\u028as/", "Definition: having a usually flat-topped flower cluster in which the main and branch stems each end in a flower that opens before those below it or to its side", ""]}
+{"data": ["2021-05-23T12:37:06.033321+00:00", 171, "Your mother is", "canescent", "Pronunciation: /k\u0259\u02c8n\u025bs\u0259nt/", "Definition: covered with fine whitish hairs or down", "Synonyms: hoary"]}
