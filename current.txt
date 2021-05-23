@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T15:17:06.255036+00:00", 187, "Your mother is", "prodromal", "Pronunciation: /\u02c8pr\u0251dr\u0259m\u0259l/", "Definition: symptomatic of the onset of an attack or a disease", "Synonyms: prodromic"]}
+{"data": ["2021-05-23T15:27:06.055723+00:00", 188, "Your mother is", "beneficial", "Pronunciation: /\u02ccb\u025bn\u0259\u02c8f\u026a\u0283\u0259l/", "Definition: promoting or enhancing well-being", "Synonyms: good"]}
