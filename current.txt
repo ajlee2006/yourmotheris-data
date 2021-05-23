@@ -1,1 +1,1 @@
-{"data": ["2021-05-23T11:07:06.007837+00:00", 162, "Your mother is", "iron-gray", "Pronunciation: /\u02c8a\u026a\u0259rn-gre\u026a/", "Definition: of the grey color of iron", "Synonyms: iron-grey"]}
+{"data": ["2021-05-23T11:17:06.039180+00:00", 163, "Your mother is", "heavy-footed", "Pronunciation: /\u02c8h\u025bvi-\u02c8f\u028at\u026ad/", "Definition: (of movement) lacking ease or lightness", ""]}
