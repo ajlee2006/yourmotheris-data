@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T21:15:45.394153+00:00", 366, "Your mother is", "grimy", "Pronunciation: /\u02c8gra\u026ami/", "Definition: thickly covered with ingrained dirt or soot", "Synonyms: begrimed, dingy, grubby, grungy, raunchy"]}
+{"data": ["2021-05-24T21:25:45.745321+00:00", 367, "Your mother is", "propertied", "Pronunciation: /\u02c8pr\u0251p\u0259rtid/", "Definition: owning land or securities as a principal source of revenue", "Synonyms: property-owning"]}
