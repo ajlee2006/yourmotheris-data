@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T09:15:45.462333+00:00", 294, "Your mother is", "pretty-pretty", "Pronunciation: /\u02c8pr\u026ati-\u02c8pr\u026ati/", "Definition: ostentatiously or inappropriately pretty", ""]}
+{"data": ["2021-05-24T09:25:45.304132+00:00", 295, "Your mother is", "stupefying", "Similar to: impressive", "Definition: so surprisingly impressive as to stun or overwhelm", "Synonyms: astonishing, astounding, staggering"]}
