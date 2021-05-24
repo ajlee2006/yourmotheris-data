@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T10:35:45.297710+00:00", 302, "Your mother is", "underslung", "Pronunciation: /\u02c8\u0259nd\u0259r\u02c8sl\u0259\u014b/", "Definition: having a low center of gravity; built low to the ground", "Synonyms: squat"]}
+{"data": ["2021-05-24T10:45:45.278342+00:00", 303, "Your mother is", "remiss", "Pronunciation: /r\u026a\u02c8m\u026as/", "Definition: failing in what duty requires", "Synonyms: delinquent, derelict, neglectful"]}
