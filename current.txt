@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T08:17:06.105924+00:00", 289, "Your mother is", "over-the-counter", "Pronunciation: /\u02c8o\u028av\u0259r\u00f0\u0259\u02c8ka\u028ant\u0259r/", "Definition: (of securities) not traded on a stock exchange", "Synonyms: otc"]}
+{"data": ["2021-05-24T08:27:06.058967+00:00", 290, "Your mother is", "rapturous", "Pronunciation: /\u02c8r\u00e6p\u02a7\u0259r\u0259s/", "Definition: feeling great rapture or delight", "Synonyms: ecstatic, enraptured, rapt, rhapsodic"]}
