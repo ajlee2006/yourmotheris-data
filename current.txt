@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T11:25:45.356365+00:00", 307, "Your mother is", "behind", "Pronunciation: /b\u026a\u02c8ha\u026and/", "Definition: having the lower score or lagging position in a contest", ""]}
+{"data": ["2021-05-24T11:35:45.389805+00:00", 308, "Your mother is", "deflated", "Pronunciation: /d\u026a\u02c8fle\u026at\u026ad/", "Definition: brought low in spirit", "Synonyms: chapfallen, chopfallen, crestfallen"]}
