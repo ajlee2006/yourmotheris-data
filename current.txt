@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T02:17:06.121900+00:00", 253, "Your mother is", "ball-shaped", "Pronunciation: /b\u0254l-\u0283e\u026apt/", "Definition: having the shape of a sphere or ball", "Synonyms: global, globose, globular, orbicular, spheric, spherical"]}
+{"data": ["2021-05-24T02:27:06.138256+00:00", 254, "Your mother is", "atonic", "Pronunciation: /\u0259\u02c8t\u0251n\u026ak/", "Definition: (used of syllables) carrying no stress", "Synonyms: unaccented"]}
