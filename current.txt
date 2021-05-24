@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T15:15:45.528497+00:00", 330, "Your mother is", "debased", "Pronunciation: /d\u028c\u02c8be\u026ast/", "Definition: mixed with impurities", "Synonyms: adulterate, adulterated"]}
+{"data": ["2021-05-24T15:25:45.459648+00:00", 331, "Your mother is", "recovered", "Pronunciation: /r\u028c\u02c8k\u028cv\u025drd/", "Definition: freed from illness or injury", "Synonyms: cured, healed"]}
