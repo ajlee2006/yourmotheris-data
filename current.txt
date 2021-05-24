@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T07:57:06.059478+00:00", 287, "Your mother is", "smart", "Pronunciation: /sm\u0251rt/", "Definition: improperly forward or bold", "Synonyms: fresh, impertinent, impudent, overbold, sassy, saucy, wise"]}
+{"data": ["2021-05-24T08:07:07.081855+00:00", 288, "Your mother is", "strenuous", "Pronunciation: /\u02c8str\u025bnju\u0259s/", "Definition: taxing to the utmost; testing powers of endurance", "Synonyms: arduous, straining"]}
