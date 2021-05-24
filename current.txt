@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T19:15:45.945199+00:00", 354, "Your mother is", "paniculate", "Pronunciation: /p\u0259\u02c8n\u026akj\u0259\u02ccle\u026at/", "Definition: having a panicle", ""]}
+{"data": ["2021-05-24T19:25:45.399897+00:00", 355, "Your mother is", "mouse-colored", "Similar to: chromatic", "Definition: of something having a drab pale brown color resembling a mouse", "Synonyms: mouselike, mousey, mousy"]}
