@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T11:45:45.445248+00:00", 309, "Your mother is", "bunchy", "Pronunciation: /\u02c8b\u0259n\u02a7i/", "Definition: occurring close together in bunches or clusters", ""]}
+{"data": ["2021-05-24T11:55:45.851014+00:00", 310, "Your mother is", "justificatory", "Pronunciation: /d\u0292\u0259\u02c8st\u026af\u0259k\u0259\u02ccto\u028ari/", "Definition: providing justification", "Synonyms: justificative, vindicatory"]}
