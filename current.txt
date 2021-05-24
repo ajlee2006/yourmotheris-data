@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T04:07:06.057148+00:00", 264, "Your mother is", "piecemeal", "Pronunciation: /\u02c8pis\u02ccmil/", "Definition: one thing at a time", "Synonyms: bit-by-bit, in small stages, step-by-step, stepwise"]}
+{"data": ["2021-05-24T04:17:06.103216+00:00", 265, "Your mother is", "cuboidal", "Similar to: cubic", "Definition: shaped like a cube", "Synonyms: cube-shaped, cubelike, cubical, cubiform, cuboid"]}
