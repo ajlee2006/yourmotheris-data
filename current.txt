@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T12:05:45.369639+00:00", 311, "Your mother is", "threescore", "Pronunciation: /\u02c8\u03b8risko\u028ar/", "Definition: being ten more than fifty", "Synonyms: 60, lx, sixty"]}
+{"data": ["2021-05-24T12:15:45.435080+00:00", 312, "Your mother is", "unknowable", "Pronunciation: /\u0259n\u02c8no\u028a\u0259b\u0259l/", "Definition: not knowable", ""]}
