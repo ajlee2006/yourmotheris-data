@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T06:37:06.049946+00:00", 279, "Your mother is", "pondering", "Pronunciation: /\u02c8p\u0251nd\u025dr\u026a\u014b/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, musing, pensive, reflective, ruminative"]}
+{"data": ["2021-05-24T06:47:06.120658+00:00", 280, "Your mother is", "morose", "Pronunciation: /m\u0259\u02c8ro\u028as/", "Definition: showing a brooding ill humor", "Synonyms: dark, dour, glowering, glum, moody, saturnine, sour, sullen"]}
