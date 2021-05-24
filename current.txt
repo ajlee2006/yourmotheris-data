@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T10:55:45.304020+00:00", 304, "Your mother is", "150th", "Similar to: ordinal", "Definition: the ordinal number of one hundred fifty in counting order", "Synonyms: hundred-and-fiftieth"]}
+{"data": ["2021-05-24T11:05:45.201596+00:00", 305, "Your mother is", "assorted", "Pronunciation: /\u0259\u02c8s\u0254rt\u026ad/", "Definition: consisting of a haphazard assortment of different kinds", "Synonyms: miscellaneous, mixed, motley, sundry"]}
