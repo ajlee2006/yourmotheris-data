@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T07:17:06.135021+00:00", 283, "Your mother is", "unconfirmed", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8f\u025crmd/", "Definition: not finally established or settled", ""]}
+{"data": ["2021-05-24T07:27:06.101071+00:00", 284, "Your mother is", "equiangular", "Pronunciation: /\u02ccikwi\u02cc\u00e6\u014b\u0261j\u0259l\u0259r/", "Definition: having all angles equal", ""]}
