@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T08:07:07.081855+00:00", 288, "Your mother is", "strenuous", "Pronunciation: /\u02c8str\u025bnju\u0259s/", "Definition: taxing to the utmost; testing powers of endurance", "Synonyms: arduous, straining"]}
+{"data": ["2021-05-24T08:17:06.105924+00:00", 289, "Your mother is", "over-the-counter", "Pronunciation: /\u02c8o\u028av\u0259r\u00f0\u0259\u02c8ka\u028ant\u0259r/", "Definition: (of securities) not traded on a stock exchange", "Synonyms: otc"]}
