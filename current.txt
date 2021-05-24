@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T03:17:06.157302+00:00", 259, "Your mother is", "ill-sorted", "Pronunciation: /\u02c8\u026al\u02c8s\u0254rt\u026ad/", "Definition: not easy to combine harmoniously", "Synonyms: incompatible, mismated, unsuited"]}
+{"data": ["2021-05-24T03:27:06.027629+00:00", 260, "Your mother is", "wolflike", "", "Definition: resembling or characteristic (or considered characteristic) of a wolf", "Synonyms: wolfish"]}
