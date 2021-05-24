@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T20:05:45.438244+00:00", 359, "Your mother is", "unsheared", "", "Definition: not sheared", "Synonyms: unshorn"]}
+{"data": ["2021-05-24T20:15:45.496332+00:00", 360, "Your mother is", "renegade", "Pronunciation: /\u02c8r\u025bn\u0259\u02cc\u0261e\u026ad/", "Definition: having deserted a cause or principle", "Synonyms: recreant"]}
