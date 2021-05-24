@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T23:15:45.404651+00:00", 378, "Your mother is", "indefensible", "Pronunciation: /\u02cc\u026and\u026a\u02c8f\u025bns\u0259b\u0259l/", "Definition: (of theories etc) incapable of being defended or justified", "Synonyms: untenable"]}
+{"data": ["2021-05-24T23:25:45.593830+00:00", 379, "Your mother is", "autonomous", "Pronunciation: /\u0254\u02c8t\u0251n\u0259m\u0259s/", "Definition: (of political bodies) not controlled by outside forces", "Synonyms: independent, self-governing, sovereign"]}
