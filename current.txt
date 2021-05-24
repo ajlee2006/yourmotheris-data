@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T19:05:45.429250+00:00", 353, "Your mother is", "cruel", "Pronunciation: /\u02c8kru\u0259l/", "Definition: (of persons or their actions) able or disposed to inflict pain or suffering", "Synonyms: barbarous, brutal, fell, roughshod, savage, vicious"]}
+{"data": ["2021-05-24T19:15:45.945199+00:00", 354, "Your mother is", "paniculate", "Pronunciation: /p\u0259\u02c8n\u026akj\u0259\u02ccle\u026at/", "Definition: having a panicle", ""]}
