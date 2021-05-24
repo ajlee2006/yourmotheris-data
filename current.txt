@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T18:15:45.652628+00:00", 348, "Your mother is", "tractile", "Pronunciation: /\u02c8tr\u00e6kt\u026al/", "Definition: capable of being shaped or bent or drawn out", "Synonyms: ductile, malleable, pliable, pliant, tensile"]}
+{"data": ["2021-05-24T18:25:45.546254+00:00", 349, "Your mother is", "placental", "Similar to: transplacental", "Definition: pertaining to or having or occurring by means of a placenta", ""]}
