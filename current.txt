@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T16:25:45.387816+00:00", 337, "Your mother is", "revolved", "Pronunciation: /ri\u02c8v\u0251lvd/", "Definition: turned in a circle around an axis", "Synonyms: rotated"]}
+{"data": ["2021-05-24T16:35:45.541496+00:00", 338, "Your mother is", "twinning", "Similar to: multiparous", "Definition: producing two offspring at a time", "Synonyms: biparous"]}
