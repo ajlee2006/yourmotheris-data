@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T23:25:45.593830+00:00", 379, "Your mother is", "autonomous", "Pronunciation: /\u0254\u02c8t\u0251n\u0259m\u0259s/", "Definition: (of political bodies) not controlled by outside forces", "Synonyms: independent, self-governing, sovereign"]}
+{"data": ["2021-05-24T23:35:45.816811+00:00", 380, "Your mother is", "unreproducible", "Similar to: inimitable", "Definition: impossible to reproduce or duplicate", "Synonyms: irreproducible"]}
