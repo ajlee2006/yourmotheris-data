@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T01:57:06.333903+00:00", 251, "Your mother is", "bowery", "Pronunciation: /\u02c8ba\u028a\u0259ri/", "Definition: like a bower; leafy and shady", ""]}
+{"data": ["2021-05-24T02:07:06.239765+00:00", 252, "Your mother is", "calm", "Pronunciation: /k\u0251m/", "Definition: not agitated; without losing self-possession", "Synonyms: serene, tranquil, unagitated"]}
