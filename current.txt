@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T18:55:46.246677+00:00", 352, "Your mother is", "exterior", "Pronunciation: /\u026ak\u02c8stiri\u0259r/", "Definition: situated in or suitable for the outdoors or outside of a building", ""]}
+{"data": ["2021-05-24T19:05:45.429250+00:00", 353, "Your mother is", "cruel", "Pronunciation: /\u02c8kru\u0259l/", "Definition: (of persons or their actions) able or disposed to inflict pain or suffering", "Synonyms: barbarous, brutal, fell, roughshod, savage, vicious"]}
