@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T05:27:06.033344+00:00", 272, "Your mother is", "toughened", "Pronunciation: /\u02c8t\u028cf\u028cnd/", "Definition: physically toughened", "Synonyms: tough"]}
+{"data": ["2021-05-24T05:37:06.077065+00:00", 273, "Your mother is", "stricken", "Pronunciation: /\u02c8str\u026ak\u0259n/", "Definition: (used in combination) affected by something overwhelming", "Synonyms: smitten, struck"]}
