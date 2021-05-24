@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T21:35:45.734430+00:00", 368, "Your mother is", "antiaircraft", "Pronunciation: /\u02cc\u00e6nti\u02c8\u025cr\u02cckr\u00e6ft/", "Definition: designed for defense from a surface position against air attack", ""]}
+{"data": ["2021-05-24T21:45:45.733616+00:00", 369, "Your mother is", "reusable", "Pronunciation: /ri\u02c8uz\u028cb\u028cl/", "Definition: capable of being used again", "Synonyms: reclaimable, recyclable"]}
