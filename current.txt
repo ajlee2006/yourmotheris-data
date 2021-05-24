@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T21:05:45.646164+00:00", 365, "Your mother is", "candied", "Pronunciation: /\u02c8k\u00e6ndid/", "Definition: encrusted with sugar or syrup", "Synonyms: sugar-coated"]}
+{"data": ["2021-05-24T21:15:45.394153+00:00", 366, "Your mother is", "grimy", "Pronunciation: /\u02c8gra\u026ami/", "Definition: thickly covered with ingrained dirt or soot", "Synonyms: begrimed, dingy, grubby, grungy, raunchy"]}
