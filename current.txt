@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T04:47:06.116489+00:00", 268, "Your mother is", "contraceptive", "Pronunciation: /\u02cck\u0251ntr\u0259\u02c8s\u025bpt\u026av/", "Definition: capable of preventing conception or impregnation", "Synonyms: antifertility, prophylactic"]}
+{"data": ["2021-05-24T04:57:06.056592+00:00", 269, "Your mother is", "low-cal", "Similar to: fat-free", "Definition: having relatively few calories", "Synonyms: calorie-free, light, lite"]}
