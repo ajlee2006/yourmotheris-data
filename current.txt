@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T05:37:06.077065+00:00", 273, "Your mother is", "stricken", "Pronunciation: /\u02c8str\u026ak\u0259n/", "Definition: (used in combination) affected by something overwhelming", "Synonyms: smitten, struck"]}
+{"data": ["2021-05-24T05:47:06.064951+00:00", 274, "Your mother is", "deferential", "Pronunciation: /\u02ccd\u025bf\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: showing deference", "Synonyms: deferent, regardful"]}
