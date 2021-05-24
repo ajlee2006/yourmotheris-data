@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T16:15:45.434671+00:00", 336, "Your mother is", "novel", "Pronunciation: /\u02c8n\u0251v\u0259l/", "Definition: original and of a kind not seen before", "Synonyms: fresh, new"]}
+{"data": ["2021-05-24T16:25:45.387816+00:00", 337, "Your mother is", "revolved", "Pronunciation: /ri\u02c8v\u0251lvd/", "Definition: turned in a circle around an axis", "Synonyms: rotated"]}
