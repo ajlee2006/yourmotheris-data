@@ -6,7 +6,7 @@ I reset the entire system for a better system where all past entries are stored 
 Data for the 10-minutely Your Mother Is word.
 
 ## Accessing data
-[current.txt](https://raw.githubusercontent.com/ajlee2006/yourmotheris-data/main/current.txt) gives JSON data of the latest word. [past.txt](https://raw.githubusercontent.com/ajlee2006/yourmotheris-data/main/past.txt) is all past words in ascending order.
+[current.txt](https://raw.githubusercontent.com/ajlee2006/yourmotheris-data/main/current.txt) gives JSON data of the latest word. [past.txt](https://raw.githubusercontent.com/ajlee2006/yourmotheris-data/main/past.txt) gives a list of all past words in ascending order.
  
 Alternatively, you can listen for tweets from [@yourmotherisbot](https://twitter.com/yourmotherisbot).
 
