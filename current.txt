@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T13:45:45.789913+00:00", 321, "Your mother is", "semimonthly", "Pronunciation: /\u02ccs\u025bmi\u02c8m\u0259n\u03b8li/", "Definition: occurring twice a month", "Synonyms: bimonthly"]}
+{"data": ["2021-05-24T13:55:45.421545+00:00", 322, "Your mother is", "plane", "Pronunciation: /ple\u026an/", "Definition: having a surface without slope, tilt in which no part is higher or lower than another", "Synonyms: flat, level"]}
