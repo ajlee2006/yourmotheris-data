@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T11:15:45.283559+00:00", 306, "Your mother is", "adjunctive", "Pronunciation: /\u0259\u02c8d\u0292\u0259\u014bkt\u026av/", "Definition: joining; forming an adjunct", ""]}
+{"data": ["2021-05-24T11:25:45.356365+00:00", 307, "Your mother is", "behind", "Pronunciation: /b\u026a\u02c8ha\u026and/", "Definition: having the lower score or lagging position in a contest", ""]}
