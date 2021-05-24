@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T17:25:45.558796+00:00", 343, "Your mother is", "anisogamic", "", "Definition: relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape)", "Synonyms: anisogamous"]}
+{"data": ["2021-05-24T17:35:45.506003+00:00", 344, "Your mother is", "well-dressed", "Pronunciation: /\u02c8w\u025bl-\u02c8dr\u025bst/", "Definition: having tasteful clothing and being scrupulously neat", "Synonyms: well-groomed"]}
