@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T14:25:45.283124+00:00", 325, "Your mother is", "corrupt", "Pronunciation: /k\u0259\u02c8r\u0259pt/", "Definition: containing errors or alterations", "Synonyms: corrupted"]}
+{"data": ["2021-05-24T14:35:45.409629+00:00", 326, "Your mother is", "swampy", "Pronunciation: /\u02c8sw\u0251mpi/", "Definition: (of soil) soft and watery", "Synonyms: boggy, marshy, miry, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, waterlogged"]}
