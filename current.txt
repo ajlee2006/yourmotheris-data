@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T06:27:06.259259+00:00", 278, "Your mother is", "bluish-purple", "Similar to: chromatic", "Definition: of purple tinged with blue", "Synonyms: blue-purple"]}
+{"data": ["2021-05-24T06:37:06.049946+00:00", 279, "Your mother is", "pondering", "Pronunciation: /\u02c8p\u0251nd\u025dr\u026a\u014b/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, musing, pensive, reflective, ruminative"]}
