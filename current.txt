@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T02:57:06.042927+00:00", 257, "Your mother is", "crisp", "Pronunciation: /kr\u026asp/", "Definition: pleasantly cold and invigorating", "Synonyms: frosty, nipping, nippy, snappy"]}
+{"data": ["2021-05-24T03:07:06.319282+00:00", 258, "Your mother is", "relational", "Pronunciation: /r\u026a\u02c8le\u026a\u0283\u0259n\u00e6l/", "Definition: having a relation or being related", ""]}
