@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T20:45:45.801210+00:00", 363, "Your mother is", "seismologic", "Pronunciation: /\u02ccsa\u026azm\u0259\u02c8l\u0251d\u0292\u026ak/", "Definition: of or concerned with seismology", "Synonyms: seismological"]}
+{"data": ["2021-05-24T20:55:45.430710+00:00", 364, "Your mother is", "burred", "Pronunciation: /b\u025crd/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristled, bristly, burry, prickly, setaceous, setose, spiny, thorny"]}
