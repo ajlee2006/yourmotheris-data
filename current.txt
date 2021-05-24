@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T21:45:45.733616+00:00", 369, "Your mother is", "reusable", "Pronunciation: /ri\u02c8uz\u028cb\u028cl/", "Definition: capable of being used again", "Synonyms: reclaimable, recyclable"]}
+{"data": ["2021-05-24T21:55:45.864229+00:00", 370, "Your mother is", "roughdried", "Similar to: unironed", "Definition: (of laundry) dried but not ironed", ""]}
