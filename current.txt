@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T23:05:45.472652+00:00", 377, "Your mother is", "undetermined", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8t\u025crm\u026and/", "Definition: not brought to a conclusion; subject to further thought", "Synonyms: open, undecided, unresolved"]}
+{"data": ["2021-05-24T23:15:45.404651+00:00", 378, "Your mother is", "indefensible", "Pronunciation: /\u02cc\u026and\u026a\u02c8f\u025bns\u0259b\u0259l/", "Definition: (of theories etc) incapable of being defended or justified", "Synonyms: untenable"]}
