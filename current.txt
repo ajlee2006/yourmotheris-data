@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T15:05:45.540511+00:00", 329, "Your mother is", "blazing", "Pronunciation: /\u02c8ble\u026az\u026a\u014b/", "Definition: shining intensely", "Synonyms: blinding, dazzling, fulgent, glaring, glary"]}
+{"data": ["2021-05-24T15:15:45.528497+00:00", 330, "Your mother is", "debased", "Pronunciation: /d\u028c\u02c8be\u026ast/", "Definition: mixed with impurities", "Synonyms: adulterate, adulterated"]}
