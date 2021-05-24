@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T07:37:06.175185+00:00", 285, "Your mother is", "unattackable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u00e6k\u0259b\u0259l/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, inviolable, secure, strong, unassailable"]}
+{"data": ["2021-05-24T07:47:06.129207+00:00", 286, "Your mother is", "self-defeating", "Pronunciation: /\u02ccs\u025blfd\u026a\u02c8fiti\u014b/", "Definition: acting to defeat its own purpose", ""]}
