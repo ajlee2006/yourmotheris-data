@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T19:35:45.580954+00:00", 356, "Your mother is", "annual", "Pronunciation: /\u02c8\u00e6nju\u0259l/", "Definition: occurring or payable every year", "Synonyms: yearly"]}
+{"data": ["2021-05-24T19:45:45.428545+00:00", 357, "Your mother is", "likable", "Pronunciation: /\u02c8la\u026ak\u0259b\u0259l/", "Definition: (of characters in literature or drama) evoking empathic or sympathetic feelings", "Synonyms: appealing, likeable, sympathetic"]}
