@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T13:15:45.247138+00:00", 318, "Your mother is", "sweetish", "Similar to: sweet", "Definition: somewhat sweet", ""]}
+{"data": ["2021-05-24T13:25:45.348384+00:00", 319, "Your mother is", "half-length", "Pronunciation: /h\u00e6f-l\u025b\u014bk\u03b8/", "Definition: abridged to half its original length", ""]}
