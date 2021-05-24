@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T07:27:06.101071+00:00", 284, "Your mother is", "equiangular", "Pronunciation: /\u02ccikwi\u02cc\u00e6\u014b\u0261j\u0259l\u0259r/", "Definition: having all angles equal", ""]}
+{"data": ["2021-05-24T07:37:06.175185+00:00", 285, "Your mother is", "unattackable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u00e6k\u0259b\u0259l/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, inviolable, secure, strong, unassailable"]}
