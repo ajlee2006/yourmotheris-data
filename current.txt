@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T08:27:06.058967+00:00", 290, "Your mother is", "rapturous", "Pronunciation: /\u02c8r\u00e6p\u02a7\u0259r\u0259s/", "Definition: feeling great rapture or delight", "Synonyms: ecstatic, enraptured, rapt, rhapsodic"]}
+{"data": ["2021-05-24T08:37:06.133859+00:00", 291, "Your mother is", "kindled", "Pronunciation: /\u02c8k\u026and\u028cld/", "Definition: set afire", "Synonyms: enkindled, ignited"]}
