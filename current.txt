@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T10:05:45.315608+00:00", 299, "Your mother is", "gallic", "Pronunciation: /\u02c8\u0261\u00e6l\u026ak/", "Definition: of or pertaining to France or the people of France", "Synonyms: french"]}
+{"data": ["2021-05-24T10:15:45.295732+00:00", 300, "Your mother is", "puzzling", "Pronunciation: /\u02c8p\u028cz\u028cl\u026a\u014b/", "Definition: not clear to the understanding", "Synonyms: enigmatic, enigmatical"]}
