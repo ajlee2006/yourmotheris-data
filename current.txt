@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T20:15:45.496332+00:00", 360, "Your mother is", "renegade", "Pronunciation: /\u02c8r\u025bn\u0259\u02cc\u0261e\u026ad/", "Definition: having deserted a cause or principle", "Synonyms: recreant"]}
+{"data": ["2021-05-24T20:25:45.448558+00:00", 361, "Your mother is", "old-maidish", "Similar to: fastidious", "Definition: primly fastidious", "Synonyms: old-womanish"]}
