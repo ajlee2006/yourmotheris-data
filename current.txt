@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T05:17:06.030339+00:00", 271, "Your mother is", "whitewashed", "Pronunciation: /\u02c8wa\u026at\u02ccw\u0251\u0283t/", "Definition: coated with whitewash", ""]}
+{"data": ["2021-05-24T05:27:06.033344+00:00", 272, "Your mother is", "toughened", "Pronunciation: /\u02c8t\u028cf\u028cnd/", "Definition: physically toughened", "Synonyms: tough"]}
