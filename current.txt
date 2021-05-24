@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T14:35:45.409629+00:00", 326, "Your mother is", "swampy", "Pronunciation: /\u02c8sw\u0251mpi/", "Definition: (of soil) soft and watery", "Synonyms: boggy, marshy, miry, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, waterlogged"]}
+{"data": ["2021-05-24T14:45:46.044037+00:00", 327, "Your mother is", "receptive", "Pronunciation: /r\u026a\u02c8s\u025bpt\u026av/", "Definition: ready or willing to receive favorably", "Synonyms: open"]}
