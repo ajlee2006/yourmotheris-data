@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T04:27:06.015778+00:00", 266, "Your mother is", "flame-colored", "Pronunciation: /fle\u026am-\u02c8k\u0259l\u0259rd/", "Definition: having the brilliant orange-red color of flames", "Synonyms: flame-coloured"]}
+{"data": ["2021-05-24T04:37:06.121754+00:00", 267, "Your mother is", "5", "Similar to: cardinal", "Definition: being one more than four", "Synonyms: five, v"]}
