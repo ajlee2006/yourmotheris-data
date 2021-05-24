@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T00:37:06.135328+00:00", 243, "Your mother is", "parhelic", "Pronunciation: /p\u0251r\u02c8hil\u026ak/", "Definition: relating to or resembling a parhelion", "Synonyms: parheliacal"]}
+{"data": ["2021-05-24T00:47:06.331937+00:00", 244, "Your mother is", "unsought", "Pronunciation: /\u0259n\u02c8s\u0251t/", "Definition: not desired", "Synonyms: undesired"]}
