@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T05:07:06.012247+00:00", 270, "Your mother is", "paperback", "Pronunciation: /\u02c8pe\u026ap\u0259rb\u0251k/", "Definition: (of books) having a flexible binding", "Synonyms: paperbacked"]}
+{"data": ["2021-05-24T05:17:06.030339+00:00", 271, "Your mother is", "whitewashed", "Pronunciation: /\u02c8wa\u026at\u02ccw\u0251\u0283t/", "Definition: coated with whitewash", ""]}
