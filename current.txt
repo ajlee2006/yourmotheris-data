@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T13:25:45.348384+00:00", 319, "Your mother is", "half-length", "Pronunciation: /h\u00e6f-l\u025b\u014bk\u03b8/", "Definition: abridged to half its original length", ""]}
+{"data": ["2021-05-24T13:35:45.458138+00:00", 320, "Your mother is", "put-up", "Pronunciation: /\u02c8p\u028at\u02cc\u0259p/", "Definition: planned secretly", ""]}
