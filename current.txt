@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T17:35:45.506003+00:00", 344, "Your mother is", "well-dressed", "Pronunciation: /\u02c8w\u025bl-\u02c8dr\u025bst/", "Definition: having tasteful clothing and being scrupulously neat", "Synonyms: well-groomed"]}
+{"data": ["2021-05-24T17:45:45.765252+00:00", 345, "Your mother is", "involved", "Pronunciation: /\u026an\u02c8v\u0251lvd/", "Definition: highly complex or intricate and occasionally devious", "Synonyms: byzantine, convoluted, knotty, tangled, tortuous"]}
