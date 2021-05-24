@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T12:55:45.253940+00:00", 316, "Your mother is", "fungous", "Pronunciation: /\u02c8f\u0259\u014b\u0261\u0259s/", "Definition: of or relating to fungi", "Synonyms: fungal"]}
+{"data": ["2021-05-24T13:05:45.297992+00:00", 317, "Your mother is", "hundred-and-twentieth", "Similar to: ordinal", "Definition: the ordinal number of one hundred twenty in counting order", "Synonyms: 120th"]}
