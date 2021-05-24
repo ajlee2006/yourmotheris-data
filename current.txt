@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T16:45:45.426804+00:00", 339, "Your mother is", "uncertain", "Pronunciation: /\u0259n\u02c8s\u025crt\u0259n/", "Definition: not established or confirmed", "Synonyms: unsealed"]}
+{"data": ["2021-05-24T16:55:45.409624+00:00", 340, "Your mother is", "moroccan", "Pronunciation: /m\u0259\u02c8r\u0251k\u0259n/", "Definition: of or relating to or characteristic of Morocco or its people", "Synonyms: maroc"]}
