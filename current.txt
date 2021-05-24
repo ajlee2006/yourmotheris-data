@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T02:47:05.995553+00:00", 256, "Your mother is", "day-old", "Similar to: stale", "Definition: not fresh today", ""]}
+{"data": ["2021-05-24T02:57:06.042927+00:00", 257, "Your mother is", "crisp", "Pronunciation: /kr\u026asp/", "Definition: pleasantly cold and invigorating", "Synonyms: frosty, nipping, nippy, snappy"]}
