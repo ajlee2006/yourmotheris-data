@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T11:55:45.851014+00:00", 310, "Your mother is", "justificatory", "Pronunciation: /d\u0292\u0259\u02c8st\u026af\u0259k\u0259\u02ccto\u028ari/", "Definition: providing justification", "Synonyms: justificative, vindicatory"]}
+{"data": ["2021-05-24T12:05:45.369639+00:00", 311, "Your mother is", "threescore", "Pronunciation: /\u02c8\u03b8risko\u028ar/", "Definition: being ten more than fifty", "Synonyms: 60, lx, sixty"]}
