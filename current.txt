@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T17:15:45.474981+00:00", 342, "Your mother is", "curtained", "Similar to: draped", "Definition: furnished or concealed with curtains or draperies", ""]}
+{"data": ["2021-05-24T17:25:45.558796+00:00", 343, "Your mother is", "anisogamic", "", "Definition: relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape)", "Synonyms: anisogamous"]}
