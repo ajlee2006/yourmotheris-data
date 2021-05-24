@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T00:27:06.140053+00:00", 242, "Your mother is", "salaried", "Pronunciation: /\u02c8s\u00e6l\u0259rid/", "Definition: receiving or eligible for compensation", "Synonyms: compensated, remunerated, stipendiary"]}
+{"data": ["2021-05-24T00:37:06.135328+00:00", 243, "Your mother is", "parhelic", "Pronunciation: /p\u0251r\u02c8hil\u026ak/", "Definition: relating to or resembling a parhelion", "Synonyms: parheliacal"]}
