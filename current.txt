@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T10:45:45.278342+00:00", 303, "Your mother is", "remiss", "Pronunciation: /r\u026a\u02c8m\u026as/", "Definition: failing in what duty requires", "Synonyms: delinquent, derelict, neglectful"]}
+{"data": ["2021-05-24T10:55:45.304020+00:00", 304, "Your mother is", "150th", "Similar to: ordinal", "Definition: the ordinal number of one hundred fifty in counting order", "Synonyms: hundred-and-fiftieth"]}
