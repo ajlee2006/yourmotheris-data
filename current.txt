@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T18:35:45.715250+00:00", 350, "Your mother is", "communicative", "Pronunciation: /k\u0259\u02c8mjun\u0259\u02ccke\u026at\u026av/", "Definition: able or tending to communicate", "Synonyms: communicatory"]}
+{"data": ["2021-05-24T18:45:45.594874+00:00", 351, "Your mother is", "coolheaded", "Similar to: composed", "Definition: marked by calm self-control (especially in trying circumstances); unemotional", "Synonyms: cool, nerveless"]}
