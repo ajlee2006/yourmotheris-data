@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T14:15:45.922051+00:00", 324, "Your mother is", "finno-ugric-speaking", "Similar to: communicative", "Definition: able to communicate in a Finno-Ugric language", ""]}
+{"data": ["2021-05-24T14:25:45.283124+00:00", 325, "Your mother is", "corrupt", "Pronunciation: /k\u0259\u02c8r\u0259pt/", "Definition: containing errors or alterations", "Synonyms: corrupted"]}
