@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T10:15:45.295732+00:00", 300, "Your mother is", "puzzling", "Pronunciation: /\u02c8p\u028cz\u028cl\u026a\u014b/", "Definition: not clear to the understanding", "Synonyms: enigmatic, enigmatical"]}
+{"data": ["2021-05-24T10:25:45.399225+00:00", 301, "Your mother is", "malodourous", "Similar to: bilgy", "Definition: having an unpleasant smell", "Synonyms: ill-smelling, malodorous, stinky, unpleasant-smelling"]}
