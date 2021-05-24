@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T19:45:45.428545+00:00", 357, "Your mother is", "likable", "Pronunciation: /\u02c8la\u026ak\u0259b\u0259l/", "Definition: (of characters in literature or drama) evoking empathic or sympathetic feelings", "Synonyms: appealing, likeable, sympathetic"]}
+{"data": ["2021-05-24T19:55:45.661131+00:00", 358, "Your mother is", "divers", "Pronunciation: /\u02c8da\u026av\u0259rz/", "Definition: many and different", "Synonyms: diverse"]}
