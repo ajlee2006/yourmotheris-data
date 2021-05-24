@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T03:57:06.121244+00:00", 263, "Your mother is", "mephistophelian", "Similar to: evil", "Definition: showing the cunning or ingenuity or wickedness typical of a devil", "Synonyms: devilish, diabolic, diabolical, mephistophelean"]}
+{"data": ["2021-05-24T04:07:06.057148+00:00", 264, "Your mother is", "piecemeal", "Pronunciation: /\u02c8pis\u02ccmil/", "Definition: one thing at a time", "Synonyms: bit-by-bit, in small stages, step-by-step, stepwise"]}
