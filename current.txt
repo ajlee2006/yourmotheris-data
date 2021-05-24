@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T00:17:06.094019+00:00", 241, "Your mother is", "house-proud", "Similar to: proud", "Definition: proud of your house or its furnishings or upkeep", ""]}
+{"data": ["2021-05-24T00:27:06.140053+00:00", 242, "Your mother is", "salaried", "Pronunciation: /\u02c8s\u00e6l\u0259rid/", "Definition: receiving or eligible for compensation", "Synonyms: compensated, remunerated, stipendiary"]}
