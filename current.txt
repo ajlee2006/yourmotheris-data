@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T22:55:45.366124+00:00", 376, "Your mother is", "quondam", "Pronunciation: /\u02c8kw\u0251nd\u00e6m/", "Definition: belonging to some prior time", "Synonyms: erstwhile, former, old, one-time, onetime, sometime"]}
+{"data": ["2021-05-24T23:05:45.472652+00:00", 377, "Your mother is", "undetermined", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8t\u025crm\u026and/", "Definition: not brought to a conclusion; subject to further thought", "Synonyms: open, undecided, unresolved"]}
