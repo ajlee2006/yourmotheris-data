@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T09:55:45.397726+00:00", 298, "Your mother is", "appreciable", "Pronunciation: /\u0259\u02c8pri\u0283i\u0259b\u0259l/", "Definition: enough to be estimated or measured", ""]}
+{"data": ["2021-05-24T10:05:45.315608+00:00", 299, "Your mother is", "gallic", "Pronunciation: /\u02c8\u0261\u00e6l\u026ak/", "Definition: of or pertaining to France or the people of France", "Synonyms: french"]}
