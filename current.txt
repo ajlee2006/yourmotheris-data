@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T04:17:06.103216+00:00", 265, "Your mother is", "cuboidal", "Similar to: cubic", "Definition: shaped like a cube", "Synonyms: cube-shaped, cubelike, cubical, cubiform, cuboid"]}
+{"data": ["2021-05-24T04:27:06.015778+00:00", 266, "Your mother is", "flame-colored", "Pronunciation: /fle\u026am-\u02c8k\u0259l\u0259rd/", "Definition: having the brilliant orange-red color of flames", "Synonyms: flame-coloured"]}
