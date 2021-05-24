@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T10:25:45.399225+00:00", 301, "Your mother is", "malodourous", "Similar to: bilgy", "Definition: having an unpleasant smell", "Synonyms: ill-smelling, malodorous, stinky, unpleasant-smelling"]}
+{"data": ["2021-05-24T10:35:45.297710+00:00", 302, "Your mother is", "underslung", "Pronunciation: /\u02c8\u0259nd\u0259r\u02c8sl\u0259\u014b/", "Definition: having a low center of gravity; built low to the ground", "Synonyms: squat"]}
