@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T16:55:45.409624+00:00", 340, "Your mother is", "moroccan", "Pronunciation: /m\u0259\u02c8r\u0251k\u0259n/", "Definition: of or relating to or characteristic of Morocco or its people", "Synonyms: maroc"]}
+{"data": ["2021-05-24T17:05:45.482311+00:00", 341, "Your mother is", "self-denying", "Similar to: nonindulgent", "Definition: used especially of behavior", "Synonyms: renunciant, renunciative, self-abnegating"]}
