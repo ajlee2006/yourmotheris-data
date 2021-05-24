@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T12:25:45.528806+00:00", 313, "Your mother is", "homesick", "Pronunciation: /\u02c8ho\u028am\u02ccs\u026ak/", "Definition: longing to return home", ""]}
+{"data": ["2021-05-24T12:35:45.332224+00:00", 314, "Your mother is", "asleep", "Pronunciation: /\u0259\u02c8slip/", "Definition: lacking sensation", "Synonyms: benumbed, numb"]}
