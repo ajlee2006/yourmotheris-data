@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T01:37:06.175377+00:00", 249, "Your mother is", "gray-blue", "Pronunciation: /gre\u026a-blu/", "Definition: of blue tinged with grey", "Synonyms: grayish-blue, grey-blue, greyish-blue"]}
+{"data": ["2021-05-24T01:47:06.160697+00:00", 250, "Your mother is", "paddle-shaped", "Pronunciation: /\u02c8p\u00e6d\u0259l-\u0283e\u026apt/", "Definition: shaped in the form of a paddle", ""]}
