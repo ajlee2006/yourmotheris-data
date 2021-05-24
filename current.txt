@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T15:25:45.459648+00:00", 331, "Your mother is", "recovered", "Pronunciation: /r\u028c\u02c8k\u028cv\u025drd/", "Definition: freed from illness or injury", "Synonyms: cured, healed"]}
+{"data": ["2021-05-24T15:35:45.729517+00:00", 332, "Your mother is", "grey-green", "Similar to: chromatic", "Definition: of green tinged with grey", "Synonyms: gray-green, grayish-green, greyish-green"]}
