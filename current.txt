@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T04:37:06.121754+00:00", 267, "Your mother is", "5", "Similar to: cardinal", "Definition: being one more than four", "Synonyms: five, v"]}
+{"data": ["2021-05-24T04:47:06.116489+00:00", 268, "Your mother is", "contraceptive", "Pronunciation: /\u02cck\u0251ntr\u0259\u02c8s\u025bpt\u026av/", "Definition: capable of preventing conception or impregnation", "Synonyms: antifertility, prophylactic"]}
