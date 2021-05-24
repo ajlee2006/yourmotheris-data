@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T18:25:45.546254+00:00", 349, "Your mother is", "placental", "Similar to: transplacental", "Definition: pertaining to or having or occurring by means of a placenta", ""]}
+{"data": ["2021-05-24T18:35:45.715250+00:00", 350, "Your mother is", "communicative", "Pronunciation: /k\u0259\u02c8mjun\u0259\u02ccke\u026at\u026av/", "Definition: able or tending to communicate", "Synonyms: communicatory"]}
