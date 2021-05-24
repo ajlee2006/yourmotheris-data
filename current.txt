@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T17:45:45.765252+00:00", 345, "Your mother is", "involved", "Pronunciation: /\u026an\u02c8v\u0251lvd/", "Definition: highly complex or intricate and occasionally devious", "Synonyms: byzantine, convoluted, knotty, tangled, tortuous"]}
+{"data": ["2021-05-24T17:55:45.274913+00:00", 346, "Your mother is", "craniometrical", "", "Definition: of or relating to craniometry", "Synonyms: craniometric"]}
