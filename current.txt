@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T18:05:45.434333+00:00", 347, "Your mother is", "flowery", "Pronunciation: /\u02c8fla\u028a\u0259ri/", "Definition: marked by elaborate rhetoric and elaborated with decorative details", "Synonyms: ornate"]}
+{"data": ["2021-05-24T18:15:45.652628+00:00", 348, "Your mother is", "tractile", "Pronunciation: /\u02c8tr\u00e6kt\u026al/", "Definition: capable of being shaped or bent or drawn out", "Synonyms: ductile, malleable, pliable, pliant, tensile"]}
