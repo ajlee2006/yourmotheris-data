@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T19:25:45.399897+00:00", 355, "Your mother is", "mouse-colored", "Similar to: chromatic", "Definition: of something having a drab pale brown color resembling a mouse", "Synonyms: mouselike, mousey, mousy"]}
+{"data": ["2021-05-24T19:35:45.580954+00:00", 356, "Your mother is", "annual", "Pronunciation: /\u02c8\u00e6nju\u0259l/", "Definition: occurring or payable every year", "Synonyms: yearly"]}
