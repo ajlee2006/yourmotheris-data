@@ -1,1 +1,1 @@
-{"data": ["2021-05-24T15:45:46.740183+00:00", 333, "Your mother is", "benthal", "", "Definition: of or relating to or happening on the bottom under a body of water", "Synonyms: benthic, benthonic"]}
+{"data": ["2021-05-24T15:55:45.600694+00:00", 334, "Your mother is", "anthropical", "", "Definition: relating to mankind or the period of mankind's existence", "Synonyms: anthropic"]}
