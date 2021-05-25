@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T04:50:05.444055+00:00", 411, "Your mother is", "testy", "Pronunciation: /\u02c8t\u025bsti/", "Definition: easily irritated or annoyed", "Synonyms: cranky, fractious, irritable, nettlesome, peckish, peevish, pettish, petulant, scratchy, techy, tetchy"]}
+{"data": ["2021-05-25T05:00:05.513629+00:00", 412, "Your mother is", "blear", "Pronunciation: /blir/", "Definition: tired to the point of exhaustion", "Synonyms: blear-eyed, bleary, bleary-eyed"]}
