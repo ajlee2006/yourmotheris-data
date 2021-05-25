@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T16:50:05.581600+00:00", 483, "Your mother is", "knotted", "Pronunciation: /\u02c8n\u0251t\u026ad/", "Definition: used of old persons or old trees; covered with knobs or knots", "Synonyms: gnarled, gnarly, knobbed, knotty"]}
+{"data": ["2021-05-25T17:00:05.644312+00:00", 484, "Your mother is", "nonuple", "Similar to: multiple", "Definition: having nine units or components", "Synonyms: nine-fold, ninefold"]}
