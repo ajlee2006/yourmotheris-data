@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T19:00:05.587011+00:00", 496, "Your mother is", "proximal", "Pronunciation: /\u02c8pr\u0251ks\u0259m\u0259l/", "Definition: situated nearest to point of attachment or origin", ""]}
+{"data": ["2021-05-25T19:10:06.160715+00:00", 497, "Your mother is", "milled", "Pronunciation: /m\u026ald/", "Definition: (of grains especially rice) having the husk or outer layers removed", "Synonyms: polished"]}
