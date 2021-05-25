@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T08:40:05.412663+00:00", 434, "Your mother is", "floury", "Pronunciation: /\u02c8fla\u028ari/", "Definition: resembling flour in fine powdery texture", ""]}
+{"data": ["2021-05-25T08:50:05.495863+00:00", 435, "Your mother is", "seven", "Pronunciation: /\u02c8s\u025bv\u0259n/", "Definition: being one more than six", "Synonyms: 7, vii"]}
