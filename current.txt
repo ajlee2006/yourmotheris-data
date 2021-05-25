@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T16:10:05.950293+00:00", 479, "Your mother is", "odd", "Pronunciation: /\u0251d/", "Definition: beyond or deviating from the usual or expected", "Synonyms: curious, funny, peculiar, queer, rum, rummy, singular"]}
+{"data": ["2021-05-25T16:20:05.638761+00:00", 480, "Your mother is", "rapacious", "Pronunciation: /r\u0259\u02c8pe\u026a\u0283\u0259s/", "Definition: devouring or craving food in great quantities", "Synonyms: edacious, esurient, ravening, ravenous, voracious, wolfish"]}
