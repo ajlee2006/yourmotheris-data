@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T08:20:05.393338+00:00", 432, "Your mother is", "tapered", "Pronunciation: /\u02c8te\u026ap\u025drd/", "Definition: becoming gradually narrower", "Synonyms: narrowing, tapering"]}
+{"data": ["2021-05-25T08:30:05.624450+00:00", 433, "Your mother is", "three-needled", "Similar to: simple", "Definition: (of conifers) having three needles", ""]}
