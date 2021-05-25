@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T05:10:05.378409+00:00", 413, "Your mother is", "reclaimable", "Similar to: useful", "Definition: capable of being used again", "Synonyms: recyclable, reusable"]}
+{"data": ["2021-05-25T05:20:05.401990+00:00", 414, "Your mother is", "locomotive", "Pronunciation: /\u02cclo\u028ak\u0259\u02c8mo\u028at\u026av/", "Definition: of or relating to locomotion", "Synonyms: locomotor"]}
