@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T12:40:05.372190+00:00", 458, "Your mother is", "egg-producing", "Similar to: female", "Definition: capable of producing eggs and bearing offspring", "Synonyms: young-bearing"]}
+{"data": ["2021-05-25T12:50:05.479301+00:00", 459, "Your mother is", "anagogic", "Pronunciation: /\u02cc\u00e6n\u0259\u02c8\u0261\u0251d\u0292\u026ak/", "Definition: based on or exemplifying anagoge", "Synonyms: anagogical"]}
