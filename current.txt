@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T06:30:05.478271+00:00", 421, "Your mother is", "self-abnegating", "Similar to: nonindulgent", "Definition: used especially of behavior", "Synonyms: renunciant, renunciative, self-denying"]}
+{"data": ["2021-05-25T06:40:05.425035+00:00", 422, "Your mother is", "calceiform", "Pronunciation: /\u02c8k\u00e6lsi\u0259\u02ccf\u0254rm/", "Definition: of slipper-shaped blossoms", "Synonyms: calceolate"]}
