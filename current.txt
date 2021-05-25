@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T05:50:05.389237+00:00", 417, "Your mother is", "whole-wheat", "Pronunciation: /ho\u028al-hwit/", "Definition: of or relating to or derived from wheat", "Synonyms: wheaten, wholemeal"]}
+{"data": ["2021-05-25T06:00:05.385589+00:00", 418, "Your mother is", "footless", "Pronunciation: /\u02c8f\u028atl\u026as/", "Definition: having no feet or analogous appendages", ""]}
