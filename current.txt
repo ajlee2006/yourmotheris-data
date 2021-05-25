@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T12:50:05.479301+00:00", 459, "Your mother is", "anagogic", "Pronunciation: /\u02cc\u00e6n\u0259\u02c8\u0261\u0251d\u0292\u026ak/", "Definition: based on or exemplifying anagoge", "Synonyms: anagogical"]}
+{"data": ["2021-05-25T13:00:05.496550+00:00", 460, "Your mother is", "holey", "Similar to: leaky", "Definition: allowing passage in and out", "Synonyms: porous"]}
