@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T15:30:05.590399+00:00", 475, "Your mother is", "exchangeable", "Pronunciation: /\u026aks\u02c8\u02a7e\u026and\u0292\u0259b\u0259l/", "Definition: capable of being exchanged for or replaced by something of equal value", "Synonyms: convertible"]}
+{"data": ["2021-05-25T15:40:05.851801+00:00", 476, "Your mother is", "bran-new", "Pronunciation: /\u02c8br\u00e6n\u02c8nu/", "Definition: conspicuously new", "Synonyms: brand-new, spic-and-span, spick-and-span"]}
