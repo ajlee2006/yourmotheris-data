@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T21:20:05.535054+00:00", 510, "Your mother is", "apiculate", "Pronunciation: /\u0259\u02c8p\u026akj\u0259l\u026at/", "Definition: (of a leaf shape) having a short sharply pointed tip", ""]}
+{"data": ["2021-05-25T21:30:05.563412+00:00", 511, "Your mother is", "tops", "Pronunciation: /t\u0251ps/", "Definition: of the highest quality", "Synonyms: a-one, ace, crack, first-rate, super, tiptop, top-notch, topnotch"]}
