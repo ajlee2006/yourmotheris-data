@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T19:30:05.638006+00:00", 499, "Your mother is", "mauve-blue", "Similar to: chromatic", "Definition: of blue tinged with mauve", ""]}
+{"data": ["2021-05-25T19:40:05.650855+00:00", 500, "Your mother is", "175th", "Similar to: ordinal", "Definition: the ordinal number of one hundred seventy-five in counting order", "Synonyms: hundred-and-seventy-fifth"]}
