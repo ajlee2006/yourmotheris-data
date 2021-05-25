@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T08:50:05.495863+00:00", 435, "Your mother is", "seven", "Pronunciation: /\u02c8s\u025bv\u0259n/", "Definition: being one more than six", "Synonyms: 7, vii"]}
+{"data": ["2021-05-25T09:00:05.686252+00:00", 436, "Your mother is", "53", "Similar to: cardinal", "Definition: being three more than fifty", "Synonyms: fifty-three, liii"]}
