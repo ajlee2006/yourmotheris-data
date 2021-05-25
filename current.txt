@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T05:00:05.513629+00:00", 412, "Your mother is", "blear", "Pronunciation: /blir/", "Definition: tired to the point of exhaustion", "Synonyms: blear-eyed, bleary, bleary-eyed"]}
+{"data": ["2021-05-25T05:10:05.378409+00:00", 413, "Your mother is", "reclaimable", "Similar to: useful", "Definition: capable of being used again", "Synonyms: recyclable, reusable"]}
