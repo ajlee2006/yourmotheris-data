@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T12:20:05.474035+00:00", 456, "Your mother is", "creative", "Pronunciation: /kri\u02c8e\u026at\u026av/", "Definition: having the ability or power to create", "Synonyms: originative"]}
+{"data": ["2021-05-25T12:30:06.635532+00:00", 457, "Your mother is", "ectomorphic", "Pronunciation: /\u02cc\u025bkt\u0259\u02c8m\u0254rf\u026ak/", "Definition: having a build with little fat or muscle but with long limbs", ""]}
