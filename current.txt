@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T21:50:05.549534+00:00", 513, "Your mother is", "heliacal", "Pronunciation: /h\u026a\u02c8la\u026a\u0259k\u0259l/", "Definition: pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun", "Synonyms: heliac"]}
+{"data": ["2021-05-25T22:00:05.513639+00:00", 514, "Your mother is", "xcii", "Similar to: cardinal", "Definition: being two more than ninety", "Synonyms: 92, ninety-two"]}
