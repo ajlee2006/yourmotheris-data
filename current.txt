@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T15:20:05.557859+00:00", 474, "Your mother is", "recursive", "Pronunciation: /r\u026a\u02c8k\u025crs\u026av/", "Definition: of or relating to a recursion", ""]}
+{"data": ["2021-05-25T15:30:05.590399+00:00", 475, "Your mother is", "exchangeable", "Pronunciation: /\u026aks\u02c8\u02a7e\u026and\u0292\u0259b\u0259l/", "Definition: capable of being exchanged for or replaced by something of equal value", "Synonyms: convertible"]}
