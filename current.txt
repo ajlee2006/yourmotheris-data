@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T18:20:05.397804+00:00", 492, "Your mother is", "supporting", "Pronunciation: /s\u028c\u02c8p\u0254rt\u026a\u014b/", "Definition: furnishing support and encouragement", "Synonyms: encouraging"]}
+{"data": ["2021-05-25T18:30:05.508716+00:00", 493, "Your mother is", "indentured", "Pronunciation: /\u026an\u02c8d\u025bnt\u0283\u025drd/", "Definition: bound by contract", "Synonyms: apprenticed, articled, bound"]}
