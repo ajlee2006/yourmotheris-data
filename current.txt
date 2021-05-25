@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T14:20:05.473447+00:00", 468, "Your mother is", "inapposite", "Pronunciation: /\u026an\u02c8\u00e6p\u0259z\u026at/", "Definition: of an inappropriate or misapplied nature", "Synonyms: out of place"]}
+{"data": ["2021-05-25T14:30:05.571365+00:00", 469, "Your mother is", "obovate", "Pronunciation: /\u0251b\u02c8o\u028ave\u026at/", "Definition: (of a leaf shape) egg-shaped with the narrower end at the base", ""]}
