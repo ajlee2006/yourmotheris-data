@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T10:20:05.366109+00:00", 444, "Your mother is", "another", "Pronunciation: /\u0259\u02c8n\u0259\u00f0\u0259r/", "Definition: any of various alternatives; some other", "Synonyms: some other"]}
+{"data": ["2021-05-25T10:30:05.764732+00:00", 445, "Your mother is", "bright-red", "Similar to: chromatic", "Definition: of the red of fresh raspberries", "Synonyms: raspberry-red"]}
