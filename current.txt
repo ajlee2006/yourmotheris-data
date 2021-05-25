@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T16:00:05.612057+00:00", 478, "Your mother is", "afeard", "Pronunciation: /\u0259\u02c8fird/", "Definition: a pronunciation of afraid", "Synonyms: afeared"]}
+{"data": ["2021-05-25T16:10:05.950293+00:00", 479, "Your mother is", "odd", "Pronunciation: /\u0251d/", "Definition: beyond or deviating from the usual or expected", "Synonyms: curious, funny, peculiar, queer, rum, rummy, singular"]}
