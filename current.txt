@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T23:00:05.630759+00:00", 520, "Your mother is", "gratified", "Pronunciation: /\u02c8\u0261r\u00e6t\u028c\u02ccfa\u026ad/", "Definition: having received what was desired", ""]}
+{"data": ["2021-05-25T23:10:05.463138+00:00", 521, "Your mother is", "acoustical", "Pronunciation: /\u028c\u02c8kust\u026ak\u028cl/", "Definition: of or relating to the science of acoustics", "Synonyms: acoustic"]}
