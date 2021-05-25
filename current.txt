@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T02:00:06.078709+00:00", 394, "Your mother is", "historical", "Pronunciation: /h\u026a\u02c8st\u0254r\u026ak\u0259l/", "Definition: belonging to the past; of what is important or famous in the past", "Synonyms: historic"]}
+{"data": ["2021-05-25T02:10:05.539142+00:00", 395, "Your mother is", "dress", "Pronunciation: /dr\u025bs/", "Definition: suitable for formal occasions", "Synonyms: full-dress"]}
