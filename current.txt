@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T18:50:05.518427+00:00", 495, "Your mother is", "cheeselike", "Similar to: soft", "Definition: having the consistency of cheese", ""]}
+{"data": ["2021-05-25T19:00:05.587011+00:00", 496, "Your mother is", "proximal", "Pronunciation: /\u02c8pr\u0251ks\u0259m\u0259l/", "Definition: situated nearest to point of attachment or origin", ""]}
