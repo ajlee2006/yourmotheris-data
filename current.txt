@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T18:30:05.508716+00:00", 493, "Your mother is", "indentured", "Pronunciation: /\u026an\u02c8d\u025bnt\u0283\u025drd/", "Definition: bound by contract", "Synonyms: apprenticed, articled, bound"]}
+{"data": ["2021-05-25T18:40:05.573727+00:00", 494, "Your mother is", "acheronian", "Similar to: dark", "Definition: dark and dismal as of the rivers Acheron and Styx in Hades", "Synonyms: acherontic, stygian"]}
