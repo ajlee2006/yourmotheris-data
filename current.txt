@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T11:20:05.407165+00:00", 450, "Your mother is", "cetaceous", "", "Definition: of or relating to whales and dolphins etc", "Synonyms: cetacean"]}
+{"data": ["2021-05-25T11:30:05.523349+00:00", 451, "Your mother is", "well-grounded", "Pronunciation: /\u02c8w\u025bl-\u02c8gra\u028and\u026ad/", "Definition: logically valid", "Synonyms: reasoned, sound"]}
