@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T16:40:05.471037+00:00", 482, "Your mother is", "uncomely", "Pronunciation: /\u0259n\u02c8k\u0259mli/", "Definition: not in keeping with accepted standards of what is right or proper in polite society", "Synonyms: indecent, indecorous, unbecoming, unseemly, untoward"]}
+{"data": ["2021-05-25T16:50:05.581600+00:00", 483, "Your mother is", "knotted", "Pronunciation: /\u02c8n\u0251t\u026ad/", "Definition: used of old persons or old trees; covered with knobs or knots", "Synonyms: gnarled, gnarly, knobbed, knotty"]}
