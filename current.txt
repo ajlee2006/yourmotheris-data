@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T13:00:05.496550+00:00", 460, "Your mother is", "holey", "Similar to: leaky", "Definition: allowing passage in and out", "Synonyms: porous"]}
+{"data": ["2021-05-25T13:10:05.552835+00:00", 461, "Your mother is", "exclamatory", "Pronunciation: /\u026ak\u02c8skl\u00e6m\u0259\u02ccto\u028ari/", "Definition: sudden and strong", "Synonyms: emphatic"]}
