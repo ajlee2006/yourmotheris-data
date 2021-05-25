@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T12:30:06.635532+00:00", 457, "Your mother is", "ectomorphic", "Pronunciation: /\u02cc\u025bkt\u0259\u02c8m\u0254rf\u026ak/", "Definition: having a build with little fat or muscle but with long limbs", ""]}
+{"data": ["2021-05-25T12:40:05.372190+00:00", 458, "Your mother is", "egg-producing", "Similar to: female", "Definition: capable of producing eggs and bearing offspring", "Synonyms: young-bearing"]}
