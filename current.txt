@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T06:00:05.385589+00:00", 418, "Your mother is", "footless", "Pronunciation: /\u02c8f\u028atl\u026as/", "Definition: having no feet or analogous appendages", ""]}
+{"data": ["2021-05-25T06:10:05.566436+00:00", 419, "Your mother is", "antineoplastic", "", "Definition: used in the treatment of cancer", "Synonyms: anticancer, antitumor, antitumour"]}
