@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T11:10:05.425205+00:00", 449, "Your mother is", "chlamydeous", "Pronunciation: /kl\u0259\u02c8m\u026adi\u00e6s/", "Definition: having a floral envelope or perianth consisting of a calyx and/or corolla", ""]}
+{"data": ["2021-05-25T11:20:05.407165+00:00", 450, "Your mother is", "cetaceous", "", "Definition: of or relating to whales and dolphins etc", "Synonyms: cetacean"]}
