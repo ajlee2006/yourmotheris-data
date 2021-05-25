@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T07:10:05.604860+00:00", 425, "Your mother is", "accredited", "Pronunciation: /\u028c\u02c8kr\u025bd\u026at\u026ad/", "Definition: given official approval to act", "Synonyms: commissioned, licenced, licensed"]}
+{"data": ["2021-05-25T07:20:05.472113+00:00", 426, "Your mother is", "impassive", "Pronunciation: /\u026am\u02c8p\u00e6s\u026av/", "Definition: having or revealing little emotion or sensibility; not easily aroused or excited", "Synonyms: stolid"]}
