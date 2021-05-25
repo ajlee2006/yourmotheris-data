@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T09:00:05.686252+00:00", 436, "Your mother is", "53", "Similar to: cardinal", "Definition: being three more than fifty", "Synonyms: fifty-three, liii"]}
+{"data": ["2021-05-25T09:10:05.462789+00:00", 437, "Your mother is", "unusual", "Pronunciation: /\u0259n\u02c8ju\u0292u\u0259l/", "Definition: being definitely out of the ordinary and unexpected; slightly odd or even a bit weird", "Synonyms: strange"]}
