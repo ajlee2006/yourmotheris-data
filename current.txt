@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T23:30:05.491135+00:00", 523, "Your mother is", "stifled", "Pronunciation: /\u02c8sta\u026af\u028cld/", "Definition: held in check with difficulty", "Synonyms: smothered, strangled, suppressed"]}
+{"data": ["2021-05-25T23:40:05.461888+00:00", 524, "Your mother is", "egoistic", "Pronunciation: /\u02cci\u0261o\u028a\u02c8\u026ast\u026ak/", "Definition: limited to or caring only about yourself and your own needs", "Synonyms: egocentric, egoistical, self-centered, self-centred"]}
