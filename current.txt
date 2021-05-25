@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T06:40:05.425035+00:00", 422, "Your mother is", "calceiform", "Pronunciation: /\u02c8k\u00e6lsi\u0259\u02ccf\u0254rm/", "Definition: of slipper-shaped blossoms", "Synonyms: calceolate"]}
+{"data": ["2021-05-25T06:50:05.437940+00:00", 423, "Your mother is", "perpetual", "Pronunciation: /p\u0259r\u02c8p\u025b\u02a7u\u0259l/", "Definition: uninterrupted in time and indefinitely long continuing", "Synonyms: ceaseless, constant, incessant, never-ending, unceasing, unremitting"]}
