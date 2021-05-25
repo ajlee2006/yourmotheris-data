@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T20:40:05.437465+00:00", 506, "Your mother is", "exotic", "Pronunciation: /\u026a\u0261\u02c8z\u0251t\u026ak/", "Definition: being or from or characteristic of another place or part of the world", "Synonyms: alien"]}
+{"data": ["2021-05-25T20:50:05.463541+00:00", 507, "Your mother is", "strenuous", "Pronunciation: /\u02c8str\u025bnju\u0259s/", "Definition: taxing to the utmost; testing powers of endurance", "Synonyms: arduous, straining"]}
