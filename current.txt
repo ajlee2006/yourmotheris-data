@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T21:00:05.506564+00:00", 508, "Your mother is", "putrefactive", "Similar to: infected", "Definition: causing or promoting bacterial putrefaction", "Synonyms: putrefacient"]}
+{"data": ["2021-05-25T21:10:05.391119+00:00", 509, "Your mother is", "juvenile", "Pronunciation: /\u02c8d\u0292uv\u0259n\u0259l/", "Definition: displaying or suggesting a lack of maturity", "Synonyms: adolescent, jejune, puerile"]}
