@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T01:00:05.476318+00:00", 388, "Your mother is", "grand", "Pronunciation: /gr\u00e6nd/", "Definition: of behavior that is impressive and ambitious in scale or scope", "Synonyms: expansive, heroic"]}
+{"data": ["2021-05-25T01:10:05.431797+00:00", 389, "Your mother is", "roughhewn", "Similar to: unfinished", "Definition: of stone or timber; shaped roughly without finishing", "Synonyms: rough-cut"]}
