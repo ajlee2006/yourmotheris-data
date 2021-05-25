@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T20:30:05.534255+00:00", 505, "Your mother is", "syncretistic", "Pronunciation: /\u02ccs\u026a\u014bkr\u026a\u02c8t\u026ast\u026ak/", "Definition: relating to a historical tendency for a language to reduce its use of inflections", "Synonyms: syncretic, syncretical, syncretistical"]}
+{"data": ["2021-05-25T20:40:05.437465+00:00", 506, "Your mother is", "exotic", "Pronunciation: /\u026a\u0261\u02c8z\u0251t\u026ak/", "Definition: being or from or characteristic of another place or part of the world", "Synonyms: alien"]}
