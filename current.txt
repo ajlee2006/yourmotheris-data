@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T14:30:05.571365+00:00", 469, "Your mother is", "obovate", "Pronunciation: /\u0251b\u02c8o\u028ave\u026at/", "Definition: (of a leaf shape) egg-shaped with the narrower end at the base", ""]}
+{"data": ["2021-05-25T14:40:05.537711+00:00", 470, "Your mother is", "rummy", "Pronunciation: /\u02c8r\u0259mi/", "Definition: beyond or deviating from the usual or expected", "Synonyms: curious, funny, odd, peculiar, queer, rum, singular"]}
