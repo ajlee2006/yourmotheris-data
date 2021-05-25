@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T16:30:05.728920+00:00", 481, "Your mother is", "unplanned", "Pronunciation: /\u0259n\u02c8pl\u00e6nd/", "Definition: not done with purpose or intent", "Synonyms: unintentional, unwitting"]}
+{"data": ["2021-05-25T16:40:05.471037+00:00", 482, "Your mother is", "uncomely", "Pronunciation: /\u0259n\u02c8k\u0259mli/", "Definition: not in keeping with accepted standards of what is right or proper in polite society", "Synonyms: indecent, indecorous, unbecoming, unseemly, untoward"]}
