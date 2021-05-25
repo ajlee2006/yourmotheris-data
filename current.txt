@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T13:40:05.542844+00:00", 464, "Your mother is", "baleful", "Pronunciation: /\u02c8be\u026alf\u0259l/", "Definition: deadly or sinister", "Synonyms: baneful"]}
+{"data": ["2021-05-25T13:50:05.545771+00:00", 465, "Your mother is", "aft", "Pronunciation: /\u00e6ft/", "Definition: (nautical, aeronautical) situated at or toward the stern or tail", ""]}
