@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T23:40:05.461888+00:00", 524, "Your mother is", "egoistic", "Pronunciation: /\u02cci\u0261o\u028a\u02c8\u026ast\u026ak/", "Definition: limited to or caring only about yourself and your own needs", "Synonyms: egocentric, egoistical, self-centered, self-centred"]}
+{"data": ["2021-05-25T23:50:05.592041+00:00", 525, "Your mother is", "multiplied", "Pronunciation: /\u02c8m\u028clt\u028c\u02ccpla\u026ad/", "Definition: greatly increased as by multiplication", ""]}
