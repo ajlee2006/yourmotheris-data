@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T10:50:05.328459+00:00", 447, "Your mother is", "light-green", "Pronunciation: /la\u026at-grin/", "Definition: of the color between blue and yellow in the color spectrum; similar to the color of fresh grass", "Synonyms: dark-green, green, greenish"]}
+{"data": ["2021-05-25T11:00:05.551018+00:00", 448, "Your mother is", "marine", "Pronunciation: /m\u0259\u02c8rin/", "Definition: relating to or involving ships or shipping or navigation or seamen", "Synonyms: maritime, nautical"]}
