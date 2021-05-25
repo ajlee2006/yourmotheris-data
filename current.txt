@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T03:30:05.646913+00:00", 403, "Your mother is", "nip and tuck", "Pronunciation: /\u02ccn\u026ap\u0259n\u02c8t\u0259k/", "Definition: inconclusive as to outcome; close or just even in a race or comparison or competition", "Synonyms: head-to-head, neck and neck"]}
+{"data": ["2021-05-25T03:40:05.442496+00:00", 404, "Your mother is", "mercantile", "Pronunciation: /\u02c8m\u025crk\u0259n\u02cctil/", "Definition: profit oriented", "Synonyms: mercenary, moneymaking"]}
