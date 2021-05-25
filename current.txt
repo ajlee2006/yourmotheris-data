@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T14:10:05.544071+00:00", 467, "Your mother is", "hornlike", "Pronunciation: /\u02c8h\u0254rn\u02ccla\u026ak/", "Definition: made of horn (or of a substance resembling horn)", "Synonyms: corneous, horny"]}
+{"data": ["2021-05-25T14:20:05.473447+00:00", 468, "Your mother is", "inapposite", "Pronunciation: /\u026an\u02c8\u00e6p\u0259z\u026at/", "Definition: of an inappropriate or misapplied nature", "Synonyms: out of place"]}
