@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T07:20:05.472113+00:00", 426, "Your mother is", "impassive", "Pronunciation: /\u026am\u02c8p\u00e6s\u026av/", "Definition: having or revealing little emotion or sensibility; not easily aroused or excited", "Synonyms: stolid"]}
+{"data": ["2021-05-25T07:30:05.466392+00:00", 427, "Your mother is", "quantifiable", "Pronunciation: /\u02cckw\u0251nt\u026a\u02c8fa\u026a\u028cb\u025bl/", "Definition: capable of being quantified", ""]}
