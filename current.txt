@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T22:10:05.597170+00:00", 515, "Your mother is", "formless", "Pronunciation: /\u02c8f\u0254rml\u026as/", "Definition: having no definite form or distinct shape", "Synonyms: amorphous, shapeless"]}
+{"data": ["2021-05-25T22:20:05.619670+00:00", 516, "Your mother is", "volunteer", "Pronunciation: /\u02ccv\u0251l\u0259n\u02c8tir/", "Definition: without payment", "Synonyms: unpaid"]}
