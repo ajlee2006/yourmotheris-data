@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T21:10:05.391119+00:00", 509, "Your mother is", "juvenile", "Pronunciation: /\u02c8d\u0292uv\u0259n\u0259l/", "Definition: displaying or suggesting a lack of maturity", "Synonyms: adolescent, jejune, puerile"]}
+{"data": ["2021-05-25T21:20:05.535054+00:00", 510, "Your mother is", "apiculate", "Pronunciation: /\u0259\u02c8p\u026akj\u0259l\u026at/", "Definition: (of a leaf shape) having a short sharply pointed tip", ""]}
