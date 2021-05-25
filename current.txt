@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T09:10:05.462789+00:00", 437, "Your mother is", "unusual", "Pronunciation: /\u0259n\u02c8ju\u0292u\u0259l/", "Definition: being definitely out of the ordinary and unexpected; slightly odd or even a bit weird", "Synonyms: strange"]}
+{"data": ["2021-05-25T09:20:05.474825+00:00", 438, "Your mother is", "uncleared", "Similar to: unimproved", "Definition: not cleared; not rid of objects or obstructions", ""]}
