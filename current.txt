@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T11:30:05.523349+00:00", 451, "Your mother is", "well-grounded", "Pronunciation: /\u02c8w\u025bl-\u02c8gra\u028and\u026ad/", "Definition: logically valid", "Synonyms: reasoned, sound"]}
+{"data": ["2021-05-25T11:40:05.580886+00:00", 452, "Your mother is", "blue", "Pronunciation: /blu/", "Definition: of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky", "Synonyms: blueish, bluish"]}
