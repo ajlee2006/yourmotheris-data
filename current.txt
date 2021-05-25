@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T07:00:05.420341+00:00", 424, "Your mother is", "immanent", "Pronunciation: /\u02c8\u026am\u0259n\u0259nt/", "Definition: of a mental act performed entirely within the mind", "Synonyms: subjective"]}
+{"data": ["2021-05-25T07:10:05.604860+00:00", 425, "Your mother is", "accredited", "Pronunciation: /\u028c\u02c8kr\u025bd\u026at\u026ad/", "Definition: given official approval to act", "Synonyms: commissioned, licenced, licensed"]}
