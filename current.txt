@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T16:20:05.638761+00:00", 480, "Your mother is", "rapacious", "Pronunciation: /r\u0259\u02c8pe\u026a\u0283\u0259s/", "Definition: devouring or craving food in great quantities", "Synonyms: edacious, esurient, ravening, ravenous, voracious, wolfish"]}
+{"data": ["2021-05-25T16:30:05.728920+00:00", 481, "Your mother is", "unplanned", "Pronunciation: /\u0259n\u02c8pl\u00e6nd/", "Definition: not done with purpose or intent", "Synonyms: unintentional, unwitting"]}
