@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T17:40:05.652787+00:00", 488, "Your mother is", "campylotropous", "Pronunciation: /\u02cck\u00e6mp\u0259\u02c8l\u0251tr\u0259p\u0259s/", "Definition: (of a plant ovule) curved with the micropyle near the base almost touching its stalk", ""]}
+{"data": ["2021-05-25T17:50:05.505495+00:00", 489, "Your mother is", "bladdery", "", "Definition: resembling a bladder", "Synonyms: bladderlike"]}
