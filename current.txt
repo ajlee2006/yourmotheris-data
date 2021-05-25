@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T14:40:05.537711+00:00", 470, "Your mother is", "rummy", "Pronunciation: /\u02c8r\u0259mi/", "Definition: beyond or deviating from the usual or expected", "Synonyms: curious, funny, odd, peculiar, queer, rum, singular"]}
+{"data": ["2021-05-25T14:50:05.994583+00:00", 471, "Your mother is", "nonviscid", "Similar to: nonadhesive", "Definition: not resembling glue in texture", "Synonyms: nonglutinous"]}
