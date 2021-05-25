@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T09:50:05.397182+00:00", 441, "Your mother is", "bimotored", "Pronunciation: /ba\u026a\u02c8mo\u028at\u0259rd/", "Definition: having two motors", ""]}
+{"data": ["2021-05-25T10:00:05.658196+00:00", 442, "Your mother is", "new-mown", "Pronunciation: /\u02c8nu\u02c8mo\u028an/", "Definition: newly mown", ""]}
