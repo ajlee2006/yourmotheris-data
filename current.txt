@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T17:00:05.644312+00:00", 484, "Your mother is", "nonuple", "Similar to: multiple", "Definition: having nine units or components", "Synonyms: nine-fold, ninefold"]}
+{"data": ["2021-05-25T17:10:05.677074+00:00", 485, "Your mother is", "prognosticative", "Pronunciation: /\u02ccpr\u0251\u0261\u02c8n\u0251st\u028c\u02ccke\u026at\u026av/", "Definition: of or relating to prediction; having value for making predictions", "Synonyms: predictive, prognostic"]}
