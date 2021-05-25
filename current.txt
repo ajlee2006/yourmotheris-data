@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T22:40:05.425728+00:00", 518, "Your mother is", "fabian", "Pronunciation: /\u02c8fe\u026abi\u0259n/", "Definition: using cautious slow strategy to wear down opposition; avoiding direct confrontation", ""]}
+{"data": ["2021-05-25T22:50:05.580456+00:00", 519, "Your mother is", "katabatic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8b\u00e6t\u026ak/", "Definition: of an air current or wind; moving downward or down a slope because of cooling especially at night", "Synonyms: catabatic"]}
