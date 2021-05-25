@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T13:10:05.552835+00:00", 461, "Your mother is", "exclamatory", "Pronunciation: /\u026ak\u02c8skl\u00e6m\u0259\u02ccto\u028ari/", "Definition: sudden and strong", "Synonyms: emphatic"]}
+{"data": ["2021-05-25T13:20:05.553195+00:00", 462, "Your mother is", "illimitable", "Pronunciation: /\u026a\u02c8l\u026am\u026at\u0259b\u0259l/", "Definition: without limits in extent or size or quantity", "Synonyms: limitless, measureless, unmeasured"]}
