@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T03:00:05.468052+00:00", 400, "Your mother is", "junior-grade", "Similar to: junior", "Definition: inferior in rank or status", "Synonyms: lower-ranking, lowly, petty, secondary, subaltern"]}
+{"data": ["2021-05-25T03:10:05.374996+00:00", 401, "Your mother is", "150th", "Similar to: ordinal", "Definition: the ordinal number of one hundred fifty in counting order", "Synonyms: hundred-and-fiftieth"]}
