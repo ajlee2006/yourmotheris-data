@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T11:40:05.580886+00:00", 452, "Your mother is", "blue", "Pronunciation: /blu/", "Definition: of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky", "Synonyms: blueish, bluish"]}
+{"data": ["2021-05-25T11:50:05.366902+00:00", 453, "Your mother is", "treelike", "Similar to: branchy", "Definition: resembling a tree in form and branching structure", "Synonyms: arboreal, arboreous, arborescent, arboresque, arboriform, dendriform, dendroid, dendroidal, tree-shaped"]}
