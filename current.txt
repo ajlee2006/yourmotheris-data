@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T05:30:05.367960+00:00", 415, "Your mother is", "stooping", "Pronunciation: /\u02c8stup\u026a\u014b/", "Definition: having the back and shoulders rounded; not erect", "Synonyms: crooked, hunched, round-backed, round-shouldered, stooped"]}
+{"data": ["2021-05-25T05:40:05.646795+00:00", 416, "Your mother is", "arguable", "Pronunciation: /\u02c8\u0251rgj\u028a\u0259b\u0259l/", "Definition: open to argument or debate", "Synonyms: debatable, disputable, moot"]}
