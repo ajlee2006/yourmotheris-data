@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T20:50:05.463541+00:00", 507, "Your mother is", "strenuous", "Pronunciation: /\u02c8str\u025bnju\u0259s/", "Definition: taxing to the utmost; testing powers of endurance", "Synonyms: arduous, straining"]}
+{"data": ["2021-05-25T21:00:05.506564+00:00", 508, "Your mother is", "putrefactive", "Similar to: infected", "Definition: causing or promoting bacterial putrefaction", "Synonyms: putrefacient"]}
