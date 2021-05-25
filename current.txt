@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T02:20:05.396464+00:00", 396, "Your mother is", "phony", "Pronunciation: /\u02c8fo\u028ani/", "Definition: fraudulent; having a misleading appearance", "Synonyms: bastard, bogus, fake, phoney"]}
+{"data": ["2021-05-25T02:30:06.099497+00:00", 397, "Your mother is", "famished", "Pronunciation: /\u02c8f\u00e6m\u026a\u0283t/", "Definition: extremely hungry", "Synonyms: esurient, ravenous, sharp-set, starved"]}
