@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T06:50:05.437940+00:00", 423, "Your mother is", "perpetual", "Pronunciation: /p\u0259r\u02c8p\u025b\u02a7u\u0259l/", "Definition: uninterrupted in time and indefinitely long continuing", "Synonyms: ceaseless, constant, incessant, never-ending, unceasing, unremitting"]}
+{"data": ["2021-05-25T07:00:05.420341+00:00", 424, "Your mother is", "immanent", "Pronunciation: /\u02c8\u026am\u0259n\u0259nt/", "Definition: of a mental act performed entirely within the mind", "Synonyms: subjective"]}
