@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T15:40:05.851801+00:00", 476, "Your mother is", "bran-new", "Pronunciation: /\u02c8br\u00e6n\u02c8nu/", "Definition: conspicuously new", "Synonyms: brand-new, spic-and-span, spick-and-span"]}
+{"data": ["2021-05-25T15:50:05.490291+00:00", 477, "Your mother is", "lviii", "Similar to: cardinal", "Definition: being eight more than fifty", "Synonyms: 58, fifty-eight"]}
