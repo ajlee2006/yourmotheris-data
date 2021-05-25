@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T03:50:05.550873+00:00", 405, "Your mother is", "intellectual", "Pronunciation: /\u02cc\u026an\u02c8t\u0259l\u025bk\u02a7u\u0259l/", "Definition: of or associated with or requiring the use of the mind", "Synonyms: noetic, rational"]}
+{"data": ["2021-05-25T04:00:05.501209+00:00", 406, "Your mother is", "expedient", "Pronunciation: /\u026ak\u02c8spidi\u0259nt/", "Definition: appropriate to a purpose; practical", ""]}
