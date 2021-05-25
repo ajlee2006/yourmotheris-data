@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T10:00:05.658196+00:00", 442, "Your mother is", "new-mown", "Pronunciation: /\u02c8nu\u02c8mo\u028an/", "Definition: newly mown", ""]}
+{"data": ["2021-05-25T10:10:05.448324+00:00", 443, "Your mother is", "stonelike", "Similar to: hard", "Definition: (of bone especially the temporal bone) resembling stone in hardness", "Synonyms: petrous"]}
