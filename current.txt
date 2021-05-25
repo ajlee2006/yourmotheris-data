@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T12:00:05.446730+00:00", 454, "Your mother is", "unrecognized", "Pronunciation: /\u0259n\u02c8r\u025bk\u0259\u0261\u02ccna\u026azd/", "Definition: not having a secure reputation", "Synonyms: unrecognised"]}
+{"data": ["2021-05-25T12:10:05.512433+00:00", 455, "Your mother is", "impassioned", "Pronunciation: /\u026am\u02c8p\u00e6\u0283\u0259nd/", "Definition: characterized by intense emotion", "Synonyms: ardent, fervent, fervid, fiery, perfervid, torrid"]}
