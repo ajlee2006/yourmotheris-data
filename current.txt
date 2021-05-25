@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T18:00:05.820637+00:00", 490, "Your mother is", "moon-splashed", "Similar to: covered", "Definition: splashed or covered patchily with moonlight", ""]}
+{"data": ["2021-05-25T18:10:05.766397+00:00", 491, "Your mother is", "mercerised", "", "Definition: of cotton thread that has been treated with sodium hydroxide to shrink it and increase its luster and affinity for dye", "Synonyms: mercerized"]}
