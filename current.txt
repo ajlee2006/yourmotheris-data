@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T05:20:05.401990+00:00", 414, "Your mother is", "locomotive", "Pronunciation: /\u02cclo\u028ak\u0259\u02c8mo\u028at\u026av/", "Definition: of or relating to locomotion", "Synonyms: locomotor"]}
+{"data": ["2021-05-25T05:30:05.367960+00:00", 415, "Your mother is", "stooping", "Pronunciation: /\u02c8stup\u026a\u014b/", "Definition: having the back and shoulders rounded; not erect", "Synonyms: crooked, hunched, round-backed, round-shouldered, stooped"]}
