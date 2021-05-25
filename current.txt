@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T07:30:05.466392+00:00", 427, "Your mother is", "quantifiable", "Pronunciation: /\u02cckw\u0251nt\u026a\u02c8fa\u026a\u028cb\u025bl/", "Definition: capable of being quantified", ""]}
+{"data": ["2021-05-25T07:40:05.440065+00:00", 428, "Your mother is", "unforethoughtful", "Similar to: improvident", "Definition: lacking forethought", ""]}
