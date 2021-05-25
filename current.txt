@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T04:20:05.363492+00:00", 408, "Your mother is", "upcountry", "Pronunciation: /\u02c8\u0259p\u02cck\u0259ntri/", "Definition: of or coming from the middle of a region or country", "Synonyms: interior, midland"]}
+{"data": ["2021-05-25T04:30:05.465582+00:00", 409, "Your mother is", "wordy", "Pronunciation: /\u02c8w\u025crdi/", "Definition: using or containing too many words", "Synonyms: long-winded, tedious, verbose, windy"]}
