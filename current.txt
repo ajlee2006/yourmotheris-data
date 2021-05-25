@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T23:20:05.654472+00:00", 522, "Your mother is", "crimson", "Pronunciation: /\u02c8kr\u026amz\u0259n/", "Definition: characterized by violence or bloodshed", "Synonyms: red, violent"]}
+{"data": ["2021-05-25T23:30:05.491135+00:00", 523, "Your mother is", "stifled", "Pronunciation: /\u02c8sta\u026af\u028cld/", "Definition: held in check with difficulty", "Synonyms: smothered, strangled, suppressed"]}
