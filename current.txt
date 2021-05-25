@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T13:50:05.545771+00:00", 465, "Your mother is", "aft", "Pronunciation: /\u00e6ft/", "Definition: (nautical, aeronautical) situated at or toward the stern or tail", ""]}
+{"data": ["2021-05-25T14:00:05.511806+00:00", 466, "Your mother is", "epidemiological", "Pronunciation: /\u02cc\u025bp\u026a\u02ccdimi\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to epidemiology", "Synonyms: epidemiologic"]}
