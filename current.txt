@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T15:10:05.876252+00:00", 473, "Your mother is", "pyrogenic", "Pronunciation: /\u02ccpa\u026ar\u0259\u02c8d\u0292\u025bn\u026ak/", "Definition: produced under conditions involving intense heat", "Synonyms: igneous, pyrogenous"]}
+{"data": ["2021-05-25T15:20:05.557859+00:00", 474, "Your mother is", "recursive", "Pronunciation: /r\u026a\u02c8k\u025crs\u026av/", "Definition: of or relating to a recursion", ""]}
