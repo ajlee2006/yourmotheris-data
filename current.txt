@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T19:50:05.469357+00:00", 501, "Your mother is", "akimbo", "Pronunciation: /\u0259\u02c8k\u026ambo\u028a/", "Definition: (used of arms and legs) bent outward with the joint away from the body", ""]}
+{"data": ["2021-05-25T20:00:05.458029+00:00", 502, "Your mother is", "fragrant", "Pronunciation: /\u02c8fre\u026agr\u0259nt/", "Definition: pleasant-smelling", ""]}
