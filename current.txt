@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T12:10:05.512433+00:00", 455, "Your mother is", "impassioned", "Pronunciation: /\u026am\u02c8p\u00e6\u0283\u0259nd/", "Definition: characterized by intense emotion", "Synonyms: ardent, fervent, fervid, fiery, perfervid, torrid"]}
+{"data": ["2021-05-25T12:20:05.474035+00:00", 456, "Your mother is", "creative", "Pronunciation: /kri\u02c8e\u026at\u026av/", "Definition: having the ability or power to create", "Synonyms: originative"]}
