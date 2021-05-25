@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T02:30:06.099497+00:00", 397, "Your mother is", "famished", "Pronunciation: /\u02c8f\u00e6m\u026a\u0283t/", "Definition: extremely hungry", "Synonyms: esurient, ravenous, sharp-set, starved"]}
+{"data": ["2021-05-25T02:40:05.359831+00:00", 398, "Your mother is", "unpromising", "Pronunciation: /\u0259n\u02c8pr\u0251m\u026as\u026a\u014b/", "Definition: unlikely to bring about favorable results or enjoyment", ""]}
