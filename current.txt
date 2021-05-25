@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T20:10:05.940565+00:00", 503, "Your mother is", "antitoxic", "Pronunciation: /\u02cc\u00e6nt\u026a\u02c8t\u0251ks\u026ak/", "Definition: counteracting a toxin or poison", ""]}
+{"data": ["2021-05-25T20:20:05.480703+00:00", 504, "Your mother is", "godless", "Pronunciation: /\u02c8\u0261\u0251dl\u026as/", "Definition: not revering god", "Synonyms: irreverent"]}
