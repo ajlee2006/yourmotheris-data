@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T10:41:37.399603+00:00", 590, "Your mother is", "rugged", "Pronunciation: /\u02c8r\u0259\u0261\u026ad/", "Definition: very difficult; severely testing stamina or resolution", "Synonyms: tough"]}
+{"data": ["2021-05-26T10:51:37.078167+00:00", 591, "Your mother is", "custom-built", "Pronunciation: /\u02c8k\u0259st\u0259m-b\u026alt/", "Definition: built for a particular individual", "Synonyms: made-to-order"]}
