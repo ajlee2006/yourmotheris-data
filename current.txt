@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T05:31:37.190238+00:00", 559, "Your mother is", "spring-blooming", "Pronunciation: /spr\u026a\u014b-\u02c8blum\u026a\u014b/", "Definition: of plants that bloom during the spring", "Synonyms: early-blooming, early-flowering, late-spring-blooming, spring-flowering"]}
+{"data": ["2021-05-26T05:41:36.977424+00:00", 560, "Your mother is", "scaled", "Pronunciation: /ske\u026ald/", "Definition: having the body covered or partially covered with thin horny plates, as some fish and reptiles", "Synonyms: scaley, scaly"]}
