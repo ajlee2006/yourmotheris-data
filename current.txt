@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T15:31:37.179721+00:00", 619, "Your mother is", "bibliographic", "Pronunciation: /\u02ccb\u026abli\u0259\u02c8gr\u00e6f\u026ak/", "Definition: relating to or dealing with bibliography", "Synonyms: bibliographical"]}
+{"data": ["2021-05-26T15:41:37.244031+00:00", 620, "Your mother is", "intracellular", "Pronunciation: /\u02cc\u026antr\u0259\u02c8s\u025blj\u0259l\u0259r/", "Definition: located or occurring within a cell or cells", ""]}
