@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T18:31:37.166890+00:00", 637, "Your mother is", "modulated", "Pronunciation: /\u02c8m\u0254d\u0292jule\u026at\u026ad/", "Definition: altered in volume as well as tone or pitch", ""]}
+{"data": ["2021-05-26T18:41:37.326602+00:00", 638, "Your mother is", "runty", "Pronunciation: /\u02c8r\u0259nti/", "Definition: (used especially of persons) of inferior size", "Synonyms: puny, shrimpy"]}
