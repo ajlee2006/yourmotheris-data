@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T11:01:37.236095+00:00", 592, "Your mother is", "drugless", "Pronunciation: /\u02c8dr\u0259gl\u026as/", "Definition: without the use of drugs", ""]}
+{"data": ["2021-05-26T11:11:37.117349+00:00", 593, "Your mother is", "continual", "Pronunciation: /k\u0259n\u02c8t\u026anju\u0259l/", "Definition: having no interruptions", ""]}
