@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T23:31:37.083791+00:00", 667, "Your mother is", "onerous", "Pronunciation: /\u02c8\u0251n\u0259r\u0259s/", "Definition: not easily borne; wearing", "Synonyms: burdensome, taxing"]}
+{"data": ["2021-05-26T23:41:37.104461+00:00", 668, "Your mother is", "at work", "Similar to: busy", "Definition: on the job", ""]}
