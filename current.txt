@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T11:51:37.089494+00:00", 597, "Your mother is", "technical-grade", "Similar to: impure", "Definition: containing small amounts of other chemicals, hence slightly impure", "Synonyms: technical grade"]}
+{"data": ["2021-05-26T12:01:37.056262+00:00", 598, "Your mother is", "gormless", "Pronunciation: /\u02c8\u0261\u0254rml\u026as/", "Definition: (British informal) lacking intelligence and vitality", "Synonyms: gaumless"]}
