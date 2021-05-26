@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T12:31:37.047669+00:00", 601, "Your mother is", "bashful", "Pronunciation: /\u02c8b\u00e6\u0283f\u0259l/", "Definition: disposed to avoid notice", "Synonyms: blate"]}
+{"data": ["2021-05-26T12:41:37.046670+00:00", 602, "Your mother is", "straying", "Pronunciation: /\u02c8stre\u026a\u026a\u014b/", "Definition: unable to find your way", ""]}
