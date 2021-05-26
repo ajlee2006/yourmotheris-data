@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T13:21:37.208016+00:00", 606, "Your mother is", "off-key", "Pronunciation: /\u0254f-ki/", "Definition: inaccurate in pitch", "Synonyms: false, sour"]}
+{"data": ["2021-05-26T13:31:37.025075+00:00", 607, "Your mother is", "broken-down", "Pronunciation: /\u02c8bro\u028ak\u0259n-da\u028an/", "Definition: in deplorable condition", "Synonyms: bedraggled, derelict, dilapidated, ramshackle, tatterdemalion, tumble-down"]}
