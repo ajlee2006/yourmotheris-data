@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T20:21:37.055593+00:00", 648, "Your mother is", "fungous", "Pronunciation: /\u02c8f\u0259\u014b\u0261\u0259s/", "Definition: of or relating to fungi", "Synonyms: fungal"]}
+{"data": ["2021-05-26T20:31:37.304089+00:00", 649, "Your mother is", "clastic", "Pronunciation: /\u02c8kl\u00e6st\u026ak/", "Definition: capable of being taken apart", ""]}
