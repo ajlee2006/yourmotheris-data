@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T22:31:37.308088+00:00", 661, "Your mother is", "silly", "Pronunciation: /\u02c8s\u026ali/", "Definition: inspiring scornful pity", "Synonyms: pathetic, ridiculous"]}
+{"data": ["2021-05-26T22:41:37.637395+00:00", 662, "Your mother is", "short-bodied", "Similar to: bodied", "Definition: having a relatively short body", ""]}
