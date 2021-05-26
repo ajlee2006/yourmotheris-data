@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T07:31:37.020509+00:00", 571, "Your mother is", "affixal", "", "Definition: of or pertaining to a linguistic affix", "Synonyms: affixial"]}
+{"data": ["2021-05-26T07:41:37.255720+00:00", 572, "Your mother is", "outward-moving", "Similar to: centrifugal", "Definition: moving or directed away from center, especially when spinning or traveling in a curve", ""]}
