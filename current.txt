@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T12:51:37.113650+00:00", 603, "Your mother is", "domineering", "Pronunciation: /\u02ccd\u0251m\u0259\u02c8nir\u026a\u014b/", "Definition: tending to domineer", ""]}
+{"data": ["2021-05-26T13:01:37.289166+00:00", 604, "Your mother is", "endergonic", "Pronunciation: /\u02cc\u025bnd\u0259r\u02c8b\u0251n\u026ak/", "Definition: (biochemistry) of a process accompanied by or requiring the absorption of energy; the products of the process are of greater free energy than the reactants", ""]}
