@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T14:51:40.127572+00:00", 615, "Your mother is", "thornless", "Similar to: unarmed", "Definition: lacking thorns", "Synonyms: spineless"]}
+{"data": ["2021-05-26T15:01:37.314949+00:00", 616, "Your mother is", "consultatory", "Pronunciation: /k\u0259n\u02c8s\u0259lt\u0259\u02ccto\u028ari/", "Definition: giving advice", "Synonyms: advisory, consultative, consultive"]}
