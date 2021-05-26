@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T16:41:37.049133+00:00", 626, "Your mother is", "stenographic", "Pronunciation: /\u02ccst\u025bn\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to or employing stenography", "Synonyms: stenographical"]}
+{"data": ["2021-05-26T16:51:37.006552+00:00", 627, "Your mother is", "asserted", "Pronunciation: /\u0259\u02c8s\u025crt\u026ad/", "Definition: confidently declared to be so", ""]}
