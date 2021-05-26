@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T15:41:37.244031+00:00", 620, "Your mother is", "intracellular", "Pronunciation: /\u02cc\u026antr\u0259\u02c8s\u025blj\u0259l\u0259r/", "Definition: located or occurring within a cell or cells", ""]}
+{"data": ["2021-05-26T15:51:37.091436+00:00", 621, "Your mother is", "conciliable", "Pronunciation: /k\u0259n\u02c8s\u026ali\u0259b\u0259l/", "Definition: capable of being pacified", "Synonyms: appeasable"]}
