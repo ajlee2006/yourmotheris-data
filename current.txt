@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T07:41:37.255720+00:00", 572, "Your mother is", "outward-moving", "Similar to: centrifugal", "Definition: moving or directed away from center, especially when spinning or traveling in a curve", ""]}
+{"data": ["2021-05-26T07:51:37.200044+00:00", 573, "Your mother is", "shell-less", "Pronunciation: /\u0283\u025bl-l\u025bs/", "Definition: of animals or fruits that have no shell", "Synonyms: unshelled"]}
