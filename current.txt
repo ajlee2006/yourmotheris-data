@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T00:41:37.138713+00:00", 530, "Your mother is", "international", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8n\u00e6\u0283\u0259n\u0259l/", "Definition: from or between other countries", "Synonyms: external, outside"]}
+{"data": ["2021-05-26T00:51:37.155277+00:00", 531, "Your mother is", "glowering", "Pronunciation: /\u02c8\u0261la\u028a\u025dr\u026a\u014b/", "Definition: showing a brooding ill humor", "Synonyms: dark, dour, glum, moody, morose, saturnine, sour, sullen"]}
