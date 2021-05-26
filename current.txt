@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T22:41:37.637395+00:00", 662, "Your mother is", "short-bodied", "Similar to: bodied", "Definition: having a relatively short body", ""]}
+{"data": ["2021-05-26T22:51:37.164884+00:00", 663, "Your mother is", "occidental", "Pronunciation: /\u02cc\u0251ks\u026a\u02c8d\u025bnt\u0259l/", "Definition: denoting or characteristic of countries of Europe and the western hemisphere", "Synonyms: hesperian"]}
