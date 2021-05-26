@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T08:51:37.028993+00:00", 579, "Your mother is", "boisterous", "Pronunciation: /\u02c8b\u0254\u026ast\u0259r\u0259s/", "Definition: violently agitated and turbulent", "Synonyms: fierce, rough"]}
+{"data": ["2021-05-26T09:01:37.049841+00:00", 580, "Your mother is", "noncivilized", "Similar to: barbaric", "Definition: not having a high state of culture and social development", "Synonyms: noncivilised"]}
