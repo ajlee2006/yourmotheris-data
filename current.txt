@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T10:01:37.314319+00:00", 586, "Your mother is", "unclassified", "Pronunciation: /\u0259n\u02c8kl\u00e6s\u0259\u02ccfa\u026ad/", "Definition: not arranged in any specific grouping", ""]}
+{"data": ["2021-05-26T10:11:37.291716+00:00", 587, "Your mother is", "distributive", "Pronunciation: /d\u026a\u02c8str\u026abj\u0259t\u026av/", "Definition: serving to distribute or allot or disperse", ""]}
