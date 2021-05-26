@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T04:51:37.016723+00:00", 555, "Your mother is", "slim-bodied", "Similar to: bodied", "Definition: having a slim body", "Synonyms: slender-bodied, thin-bodied"]}
+{"data": ["2021-05-26T05:01:37.058400+00:00", 556, "Your mother is", "insanitary", "Pronunciation: /\u026an\u02c8s\u00e6n\u026a\u02cct\u025bri/", "Definition: not sanitary or healthful", "Synonyms: unhealthful, unsanitary"]}
