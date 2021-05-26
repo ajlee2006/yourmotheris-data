@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T07:01:36.924419+00:00", 568, "Your mother is", "common-law", "Pronunciation: /\u02c8k\u0251m\u0259n-l\u0254/", "Definition: based on common law", ""]}
+{"data": ["2021-05-26T07:11:37.040504+00:00", 569, "Your mother is", "reputable", "Pronunciation: /\u02c8r\u025bpj\u028at\u0259b\u0259l/", "Definition: having a good reputation", ""]}
