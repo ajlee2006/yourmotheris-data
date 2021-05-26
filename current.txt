@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T12:21:37.017945+00:00", 600, "Your mother is", "plumbable", "", "Definition: (of depth) capable of being sounded or measured for depth", "Synonyms: fathomable, soundable"]}
+{"data": ["2021-05-26T12:31:37.047669+00:00", 601, "Your mother is", "bashful", "Pronunciation: /\u02c8b\u00e6\u0283f\u0259l/", "Definition: disposed to avoid notice", "Synonyms: blate"]}
