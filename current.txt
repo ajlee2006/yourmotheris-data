@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T20:31:37.304089+00:00", 649, "Your mother is", "clastic", "Pronunciation: /\u02c8kl\u00e6st\u026ak/", "Definition: capable of being taken apart", ""]}
+{"data": ["2021-05-26T20:41:37.102528+00:00", 650, "Your mother is", "palaeolithic", "Pronunciation: /\u02ccpe\u026ali\u0259\u02c8l\u026a\u03b8\u026ak/", "Definition: of or relating to the second period of the Stone Age (following the eolithic)", "Synonyms: paleolithic"]}
