@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T04:41:37.061938+00:00", 554, "Your mother is", "noncollapsable", "Similar to: nontelescopic", "Definition: not capable of collapsing", "Synonyms: noncollapsible"]}
+{"data": ["2021-05-26T04:51:37.016723+00:00", 555, "Your mother is", "slim-bodied", "Similar to: bodied", "Definition: having a slim body", "Synonyms: slender-bodied, thin-bodied"]}
