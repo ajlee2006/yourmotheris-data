@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T13:31:37.025075+00:00", 607, "Your mother is", "broken-down", "Pronunciation: /\u02c8bro\u028ak\u0259n-da\u028an/", "Definition: in deplorable condition", "Synonyms: bedraggled, derelict, dilapidated, ramshackle, tatterdemalion, tumble-down"]}
+{"data": ["2021-05-26T13:41:37.055364+00:00", 608, "Your mother is", "advanced", "Pronunciation: /\u00e6d\u02c8v\u00e6nst/", "Definition: far along in time", "Synonyms: ripe"]}
