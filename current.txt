@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T23:41:37.104461+00:00", 668, "Your mother is", "at work", "Similar to: busy", "Definition: on the job", ""]}
+{"data": ["2021-05-26T23:51:36.978959+00:00", 669, "Your mother is", "wordless", "Pronunciation: /\u02c8w\u025crdl\u026as/", "Definition: expressed without speech", "Synonyms: mute, tongueless, unspoken"]}
