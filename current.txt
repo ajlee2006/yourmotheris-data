@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T19:11:37.009904+00:00", 641, "Your mother is", "rotated", "Pronunciation: /\u02c8ro\u028a\u02ccte\u026at\u026ad/", "Definition: turned in a circle around an axis", "Synonyms: revolved"]}
+{"data": ["2021-05-26T19:21:36.986262+00:00", 642, "Your mother is", "burned-over", "Similar to: destroyed", "Definition: destroyed or badly damaged by fire", "Synonyms: burned, burned-out, burnt, burnt-out"]}
