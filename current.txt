@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T16:01:37.275444+00:00", 622, "Your mother is", "orange-red", "Pronunciation: /\u02c8\u0254r\u026and\u0292-r\u025bd/", "Definition: of red tinged with orange", "Synonyms: orangish-red"]}
+{"data": ["2021-05-26T16:11:37.133922+00:00", 623, "Your mother is", "stringy", "Pronunciation: /\u02c8stri\u014bi/", "Definition: (of meat) full of sinews; especially impossible to chew", "Synonyms: fibrous, sinewy, unchewable"]}
