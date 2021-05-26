@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T12:11:37.242263+00:00", 599, "Your mother is", "downhill", "Pronunciation: /\u02c8da\u028an\u02c8h\u026al/", "Definition: sloping down rather steeply", "Synonyms: declivitous, downward-sloping"]}
+{"data": ["2021-05-26T12:21:37.017945+00:00", 600, "Your mother is", "plumbable", "", "Definition: (of depth) capable of being sounded or measured for depth", "Synonyms: fathomable, soundable"]}
