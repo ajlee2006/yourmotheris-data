@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T06:31:37.072396+00:00", 565, "Your mother is", "cleansing", "Pronunciation: /\u02c8kl\u025bnz\u026a\u014b/", "Definition: acting like an antiseptic", "Synonyms: purifying"]}
+{"data": ["2021-05-26T06:41:37.007343+00:00", 566, "Your mother is", "javanese", "Pronunciation: /\u02ccd\u0292\u00e6v\u0259\u02c8niz/", "Definition: of or relating to or characteristic of Java or its inhabitants or its language", "Synonyms: javan"]}
