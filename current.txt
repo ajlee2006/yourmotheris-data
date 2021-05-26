@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T19:51:37.467673+00:00", 645, "Your mother is", "queer", "Pronunciation: /kwir/", "Definition: beyond or deviating from the usual or expected", "Synonyms: curious, funny, odd, peculiar, rum, rummy, singular"]}
+{"data": ["2021-05-26T20:01:41.099551+00:00", 646, "Your mother is", "transmutable", "Similar to: commutable", "Definition: capable of being changed in substance as if by alchemy", "Synonyms: convertible, transformable, translatable"]}
