@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T13:01:37.289166+00:00", 604, "Your mother is", "endergonic", "Pronunciation: /\u02cc\u025bnd\u0259r\u02c8b\u0251n\u026ak/", "Definition: (biochemistry) of a process accompanied by or requiring the absorption of energy; the products of the process are of greater free energy than the reactants", ""]}
+{"data": ["2021-05-26T13:11:37.064651+00:00", 605, "Your mother is", "dyed", "Pronunciation: /da\u026ad/", "Definition: (used of color) artificially produced; not natural", "Synonyms: bleached, colored, coloured"]}
