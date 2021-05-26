@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T06:21:37.004550+00:00", 564, "Your mother is", "subordinating", "Pronunciation: /s\u028c\u02c8b\u0254rd\u028c\u02ccne\u026at\u026a\u014b/", "Definition: serving to connect a subordinate clause to a main clause", "Synonyms: subordinative"]}
+{"data": ["2021-05-26T06:31:37.072396+00:00", 565, "Your mother is", "cleansing", "Pronunciation: /\u02c8kl\u025bnz\u026a\u014b/", "Definition: acting like an antiseptic", "Synonyms: purifying"]}
