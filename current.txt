@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T10:51:37.078167+00:00", 591, "Your mother is", "custom-built", "Pronunciation: /\u02c8k\u0259st\u0259m-b\u026alt/", "Definition: built for a particular individual", "Synonyms: made-to-order"]}
+{"data": ["2021-05-26T11:01:37.236095+00:00", 592, "Your mother is", "drugless", "Pronunciation: /\u02c8dr\u0259gl\u026as/", "Definition: without the use of drugs", ""]}
