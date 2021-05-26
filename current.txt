@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T19:21:36.986262+00:00", 642, "Your mother is", "burned-over", "Similar to: destroyed", "Definition: destroyed or badly damaged by fire", "Synonyms: burned, burned-out, burnt, burnt-out"]}
+{"data": ["2021-05-26T19:31:37.212526+00:00", 643, "Your mother is", "distinguished", "Pronunciation: /d\u026a\u02c8st\u026a\u014bgw\u026a\u0283t/", "Definition: used of a person's appearance or behavior; befitting an eminent person", "Synonyms: grand, imposing, magisterial"]}
