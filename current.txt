@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T11:41:36.992398+00:00", 596, "Your mother is", "monoploid", "Pronunciation: /\u02c8m\u0251n\u0259\u02ccpl\u0254\u026ad/", "Definition: of a cell or organism having a single set of chromosomes", "Synonyms: haploid, haploidic"]}
+{"data": ["2021-05-26T11:51:37.089494+00:00", 597, "Your mother is", "technical-grade", "Similar to: impure", "Definition: containing small amounts of other chemicals, hence slightly impure", "Synonyms: technical grade"]}
