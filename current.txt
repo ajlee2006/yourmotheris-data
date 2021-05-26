@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T23:01:37.266609+00:00", 664, "Your mother is", "squarish", "Pronunciation: /\u02c8skw\u025cr\u026a\u0283/", "Definition: somewhat square in appearance or form", ""]}
+{"data": ["2021-05-26T23:11:37.108531+00:00", 665, "Your mother is", "musing", "Pronunciation: /\u02c8mjuz\u026a\u014b/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, pensive, pondering, reflective, ruminative"]}
