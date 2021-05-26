@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T18:21:37.281368+00:00", 636, "Your mother is", "queasy", "Pronunciation: /\u02c8kwizi/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, noisome, offensive, sickening, vile"]}
+{"data": ["2021-05-26T18:31:37.166890+00:00", 637, "Your mother is", "modulated", "Pronunciation: /\u02c8m\u0254d\u0292jule\u026at\u026ad/", "Definition: altered in volume as well as tone or pitch", ""]}
