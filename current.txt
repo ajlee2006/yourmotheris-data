@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T01:41:37.121039+00:00", 536, "Your mother is", "tortuous", "Pronunciation: /\u02c8t\u0254r\u02a7u\u0259s/", "Definition: highly complex or intricate and occasionally devious", "Synonyms: byzantine, convoluted, involved, knotty, tangled"]}
+{"data": ["2021-05-26T01:51:37.047848+00:00", 537, "Your mother is", "collateral", "Pronunciation: /k\u0259\u02c8l\u00e6t\u0259r\u0259l/", "Definition: occurring with or following as a consequence", "Synonyms: accompanying, attendant, concomitant, consequent, ensuant, incidental, resultant, sequent"]}
