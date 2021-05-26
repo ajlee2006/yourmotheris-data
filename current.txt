@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T08:41:37.006420+00:00", 578, "Your mother is", "distressful", "Pronunciation: /d\u026a\u02c8str\u025bsf\u0259l/", "Definition: causing distress or worry or anxiety", "Synonyms: distressing, disturbing, perturbing, troubling, worrisome, worrying"]}
+{"data": ["2021-05-26T08:51:37.028993+00:00", 579, "Your mother is", "boisterous", "Pronunciation: /\u02c8b\u0254\u026ast\u0259r\u0259s/", "Definition: violently agitated and turbulent", "Synonyms: fierce, rough"]}
