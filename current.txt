@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T08:21:37.061636+00:00", 576, "Your mother is", "demented", "Pronunciation: /d\u026a\u02c8m\u025bnt\u026ad/", "Definition: affected with madness or insanity", "Synonyms: brainsick, crazy, disturbed, mad, sick, unbalanced, unhinged"]}
+{"data": ["2021-05-26T08:31:37.119887+00:00", 577, "Your mother is", "inactive", "Pronunciation: /\u026an\u02c8\u00e6kt\u026av/", "Definition: lacking in energy or will", "Synonyms: passive"]}
