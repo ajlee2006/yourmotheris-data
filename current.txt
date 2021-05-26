@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T23:21:36.999033+00:00", 666, "Your mother is", "crowing", "Pronunciation: /\u02c8kro\u028a\u026a\u014b/", "Definition: exhibiting self-importance", "Synonyms: big, boastful, braggart, bragging, braggy, cock-a-hoop, self-aggrandising, self-aggrandizing"]}
+{"data": ["2021-05-26T23:31:37.083791+00:00", 667, "Your mother is", "onerous", "Pronunciation: /\u02c8\u0251n\u0259r\u0259s/", "Definition: not easily borne; wearing", "Synonyms: burdensome, taxing"]}
