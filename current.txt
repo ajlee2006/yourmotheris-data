@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T03:11:37.145545+00:00", 545, "Your mother is", "dispassionate", "Pronunciation: /d\u026as\u02c8p\u00e6\u0283\u0259n\u026at/", "Definition: unaffected by strong emotion or prejudice", "Synonyms: cold-eyed"]}
+{"data": ["2021-05-26T03:21:37.146870+00:00", 546, "Your mother is", "analyzable", "Pronunciation: /\u02c8\u00e6n\u028c\u02ccla\u026az\u028cb\u028cl/", "Definition: capable of being partitioned", "Synonyms: decomposable"]}
