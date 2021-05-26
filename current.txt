@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T12:41:37.046670+00:00", 602, "Your mother is", "straying", "Pronunciation: /\u02c8stre\u026a\u026a\u014b/", "Definition: unable to find your way", ""]}
+{"data": ["2021-05-26T12:51:37.113650+00:00", 603, "Your mother is", "domineering", "Pronunciation: /\u02ccd\u0251m\u0259\u02c8nir\u026a\u014b/", "Definition: tending to domineer", ""]}
