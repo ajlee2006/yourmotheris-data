@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T21:01:37.043179+00:00", 652, "Your mother is", "three-cornered", "Pronunciation: /\u02c8\u03b8ri-\u02c8k\u0254rn\u0259rd/", "Definition: having three corners", ""]}
+{"data": ["2021-05-26T21:11:37.148219+00:00", 653, "Your mother is", "oppositive", "Pronunciation: /\u0259\u02c8p\u0251z\u026at\u026av/", "Definition: expressing antithesis or opposition", "Synonyms: adversative"]}
