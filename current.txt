@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T09:51:37.183845+00:00", 585, "Your mother is", "geometric", "Pronunciation: /\u02ccd\u0292i\u0259\u02c8m\u025btr\u026ak/", "Definition: characterized by simple geometric forms in design and decoration", "Synonyms: geometrical"]}
+{"data": ["2021-05-26T10:01:37.314319+00:00", 586, "Your mother is", "unclassified", "Pronunciation: /\u0259n\u02c8kl\u00e6s\u0259\u02ccfa\u026ad/", "Definition: not arranged in any specific grouping", ""]}
