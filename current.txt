@@ -1,1 +1,1 @@
-{"data": ["2021-05-25T23:50:05.592041+00:00", 525, "Your mother is", "multiplied", "Pronunciation: /\u02c8m\u028clt\u028c\u02ccpla\u026ad/", "Definition: greatly increased as by multiplication", ""]}
+{"data": ["2021-05-26T00:00:05.661121+00:00", 526, "Your mother is", "endothermic", "Pronunciation: /\u02cc\u025bndo\u028a\u02c8\u03b8\u025crm\u026ak/", "Definition: (of a chemical reaction or compound) occurring or formed with absorption of heat", "Synonyms: endothermal, heat-absorbing"]}
