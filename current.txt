@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T09:11:37.297737+00:00", 581, "Your mother is", "fulgurous", "Pronunciation: /\u02c8f\u0259lgj\u0259r\u0259s/", "Definition: amazingly impressive; suggestive of the flashing of lightning", "Synonyms: dazzling, eye-popping, fulgurant"]}
+{"data": ["2021-05-26T09:21:37.206173+00:00", 582, "Your mother is", "dressy", "Pronunciation: /\u02c8dr\u025bsi/", "Definition: in fancy clothing", ""]}
