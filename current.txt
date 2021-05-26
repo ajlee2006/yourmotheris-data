@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T05:01:37.058400+00:00", 556, "Your mother is", "insanitary", "Pronunciation: /\u026an\u02c8s\u00e6n\u026a\u02cct\u025bri/", "Definition: not sanitary or healthful", "Synonyms: unhealthful, unsanitary"]}
+{"data": ["2021-05-26T05:11:37.123557+00:00", 557, "Your mother is", "buff", "Pronunciation: /b\u0259f/", "Definition: of the yellowish-beige color of buff leather", ""]}
