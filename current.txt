@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T09:31:37.093965+00:00", 583, "Your mother is", "quintillionth", "Similar to: ordinal", "Definition: the ordinal number of one quintillion in counting order", ""]}
+{"data": ["2021-05-26T09:41:37.117582+00:00", 584, "Your mother is", "epizootic", "Pronunciation: /\u02cc\u025bp\u026azo\u028a\u02c8\u0251t\u026ak/", "Definition: (of animals) epidemic among animals of a single kind within a particular region", ""]}
