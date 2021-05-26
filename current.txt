@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T12:01:37.056262+00:00", 598, "Your mother is", "gormless", "Pronunciation: /\u02c8\u0261\u0254rml\u026as/", "Definition: (British informal) lacking intelligence and vitality", "Synonyms: gaumless"]}
+{"data": ["2021-05-26T12:11:37.242263+00:00", 599, "Your mother is", "downhill", "Pronunciation: /\u02c8da\u028an\u02c8h\u026al/", "Definition: sloping down rather steeply", "Synonyms: declivitous, downward-sloping"]}
