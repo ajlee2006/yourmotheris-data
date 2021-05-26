@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T09:21:37.206173+00:00", 582, "Your mother is", "dressy", "Pronunciation: /\u02c8dr\u025bsi/", "Definition: in fancy clothing", ""]}
+{"data": ["2021-05-26T09:31:37.093965+00:00", 583, "Your mother is", "quintillionth", "Similar to: ordinal", "Definition: the ordinal number of one quintillion in counting order", ""]}
