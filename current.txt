@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T21:11:37.148219+00:00", 653, "Your mother is", "oppositive", "Pronunciation: /\u0259\u02c8p\u0251z\u026at\u026av/", "Definition: expressing antithesis or opposition", "Synonyms: adversative"]}
+{"data": ["2021-05-26T21:21:37.100192+00:00", 654, "Your mother is", "employed", "Pronunciation: /\u025bm\u02c8pl\u0254\u026ad/", "Definition: put to use", "Synonyms: utilised, utilized"]}
