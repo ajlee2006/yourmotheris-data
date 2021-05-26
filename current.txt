@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T15:21:37.011548+00:00", 618, "Your mother is", "barrelled", "Similar to: pointed", "Definition: (of an arrow) tapered toward both ends", "Synonyms: barreled"]}
+{"data": ["2021-05-26T15:31:37.179721+00:00", 619, "Your mother is", "bibliographic", "Pronunciation: /\u02ccb\u026abli\u0259\u02c8gr\u00e6f\u026ak/", "Definition: relating to or dealing with bibliography", "Synonyms: bibliographical"]}
