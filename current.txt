@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T08:31:37.119887+00:00", 577, "Your mother is", "inactive", "Pronunciation: /\u026an\u02c8\u00e6kt\u026av/", "Definition: lacking in energy or will", "Synonyms: passive"]}
+{"data": ["2021-05-26T08:41:37.006420+00:00", 578, "Your mother is", "distressful", "Pronunciation: /d\u026a\u02c8str\u025bsf\u0259l/", "Definition: causing distress or worry or anxiety", "Synonyms: distressing, disturbing, perturbing, troubling, worrisome, worrying"]}
