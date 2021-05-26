@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T00:31:37.160689+00:00", 529, "Your mother is", "cleansing", "Pronunciation: /\u02c8kl\u025bnz\u026a\u014b/", "Definition: acting like an antiseptic", "Synonyms: purifying"]}
+{"data": ["2021-05-26T00:41:37.138713+00:00", 530, "Your mother is", "international", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8n\u00e6\u0283\u0259n\u0259l/", "Definition: from or between other countries", "Synonyms: external, outside"]}
