@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T03:21:37.146870+00:00", 546, "Your mother is", "analyzable", "Pronunciation: /\u02c8\u00e6n\u028c\u02ccla\u026az\u028cb\u028cl/", "Definition: capable of being partitioned", "Synonyms: decomposable"]}
+{"data": ["2021-05-26T03:31:37.239314+00:00", 547, "Your mother is", "unbaffled", "Similar to: unperplexed", "Definition: not perplexed by conflicting situations or statements", "Synonyms: unconfused"]}
