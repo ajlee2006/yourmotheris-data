@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T14:41:37.208981+00:00", 614, "Your mother is", "insulting", "Pronunciation: /\u026an\u02c8s\u0259lt\u026a\u014b/", "Definition: expressing extreme contempt", "Synonyms: contemptuous, disdainful, scornful"]}
+{"data": ["2021-05-26T14:51:40.127572+00:00", 615, "Your mother is", "thornless", "Similar to: unarmed", "Definition: lacking thorns", "Synonyms: spineless"]}
