@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T00:00:05.661121+00:00", 526, "Your mother is", "endothermic", "Pronunciation: /\u02cc\u025bndo\u028a\u02c8\u03b8\u025crm\u026ak/", "Definition: (of a chemical reaction or compound) occurring or formed with absorption of heat", "Synonyms: endothermal, heat-absorbing"]}
+{"data": ["2021-05-26T00:10:05.607081+00:00", 527, "Your mother is", "dejected", "Pronunciation: /d\u026a\u02c8d\u0292\u025bkt\u026ad/", "Definition: affected or marked by low spirits", ""]}
