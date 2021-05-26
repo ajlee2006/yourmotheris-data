@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T04:31:37.095327+00:00", 553, "Your mother is", "outbound", "Pronunciation: /\u02c8a\u028atb\u00e6\u028and/", "Definition: that is going out or leaving", "Synonyms: outward, outward-bound"]}
+{"data": ["2021-05-26T04:41:37.061938+00:00", 554, "Your mother is", "noncollapsable", "Similar to: nontelescopic", "Definition: not capable of collapsing", "Synonyms: noncollapsible"]}
