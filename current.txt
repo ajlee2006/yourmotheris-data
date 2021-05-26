@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T22:21:37.029729+00:00", 660, "Your mother is", "successive", "Pronunciation: /s\u0259k\u02c8s\u025bs\u026av/", "Definition: in regular succession without gaps", "Synonyms: consecutive, sequent, sequential, serial"]}
+{"data": ["2021-05-26T22:31:37.308088+00:00", 661, "Your mother is", "silly", "Pronunciation: /\u02c8s\u026ali/", "Definition: inspiring scornful pity", "Synonyms: pathetic, ridiculous"]}
