@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T21:21:37.100192+00:00", 654, "Your mother is", "employed", "Pronunciation: /\u025bm\u02c8pl\u0254\u026ad/", "Definition: put to use", "Synonyms: utilised, utilized"]}
+{"data": ["2021-05-26T21:31:37.069780+00:00", 655, "Your mother is", "pollyannaish", "Similar to: optimistic", "Definition: pleasantly (even unrealistically) optimistic", "Synonyms: cheerful, upbeat"]}
