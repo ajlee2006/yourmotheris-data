@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T04:01:37.297699+00:00", 550, "Your mother is", "countywide", "Similar to: comprehensive", "Definition: occurring or extending throughout a county", ""]}
+{"data": ["2021-05-26T04:11:37.049074+00:00", 551, "Your mother is", "predicative", "Pronunciation: /pri\u02c8d\u026ak\u0259t\u026av/", "Definition: of adjectives; relating to or occurring within the predicate of a sentence", ""]}
