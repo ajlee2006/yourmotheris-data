@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T15:01:37.314949+00:00", 616, "Your mother is", "consultatory", "Pronunciation: /k\u0259n\u02c8s\u0259lt\u0259\u02ccto\u028ari/", "Definition: giving advice", "Synonyms: advisory, consultative, consultive"]}
+{"data": ["2021-05-26T15:11:37.637557+00:00", 617, "Your mother is", "eastern orthodox", "", "Definition: of or relating to or characteristic of the Eastern Orthodox Church", "Synonyms: greek orthodox, orthodox, russian orthodox"]}
