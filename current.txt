@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T23:11:37.108531+00:00", 665, "Your mother is", "musing", "Pronunciation: /\u02c8mjuz\u026a\u014b/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, pensive, pondering, reflective, ruminative"]}
+{"data": ["2021-05-26T23:21:36.999033+00:00", 666, "Your mother is", "crowing", "Pronunciation: /\u02c8kro\u028a\u026a\u014b/", "Definition: exhibiting self-importance", "Synonyms: big, boastful, braggart, bragging, braggy, cock-a-hoop, self-aggrandising, self-aggrandizing"]}
