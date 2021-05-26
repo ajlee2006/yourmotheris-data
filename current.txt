@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T00:10:05.607081+00:00", 527, "Your mother is", "dejected", "Pronunciation: /d\u026a\u02c8d\u0292\u025bkt\u026ad/", "Definition: affected or marked by low spirits", ""]}
+{"data": ["2021-05-26T00:20:05.461320+00:00", 528, "Your mother is", "specifiable", "Similar to: identifiable", "Definition: capable of being specified", ""]}
