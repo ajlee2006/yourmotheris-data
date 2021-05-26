@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T08:01:37.335297+00:00", 574, "Your mother is", "epiphytotic", "Pronunciation: /\u02cc\u025bp\u0259fa\u026a\u02c8t\u0251t\u026ak/", "Definition: (of plants) epidemic among plants of a single kind especially over a wide area", ""]}
+{"data": ["2021-05-26T08:11:36.993258+00:00", 575, "Your mother is", "barbecued", "Pronunciation: /\u02c8b\u0251rb\u026a\u02cckjud/", "Definition: cooked over an outdoor grill", "Synonyms: grilled"]}
