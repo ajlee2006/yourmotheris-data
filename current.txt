@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T13:51:37.023182+00:00", 609, "Your mother is", "liege", "Pronunciation: /lid\u0292/", "Definition: owing or owed feudal allegiance and service", ""]}
+{"data": ["2021-05-26T14:01:37.153172+00:00", 610, "Your mother is", "reciprocatory", "Pronunciation: /r\u026a\u02c8s\u026apr\u0259k\u0259\u02ccto\u028ari/", "Definition: given or done or owed to each other", "Synonyms: reciprocative"]}
