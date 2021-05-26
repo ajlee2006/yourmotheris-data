@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T15:11:37.637557+00:00", 617, "Your mother is", "eastern orthodox", "", "Definition: of or relating to or characteristic of the Eastern Orthodox Church", "Synonyms: greek orthodox, orthodox, russian orthodox"]}
+{"data": ["2021-05-26T15:21:37.011548+00:00", 618, "Your mother is", "barrelled", "Similar to: pointed", "Definition: (of an arrow) tapered toward both ends", "Synonyms: barreled"]}
