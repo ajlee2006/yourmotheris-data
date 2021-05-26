@@ -1,1 +1,1 @@
-{"data": ["2021-05-26T02:21:37.099392+00:00", 540, "Your mother is", "self-deprecating", "Pronunciation: /\u02ccs\u025blf\u02c8d\u025bpr\u0259\u02ccke\u026at\u026a\u014b/", "Definition: conscious of your own shortcomings", ""]}
+{"data": ["2021-05-26T02:31:37.125999+00:00", 541, "Your mother is", "hypnagogic", "Similar to: depressant", "Definition: sleep inducing", "Synonyms: hypnogogic, somniferous, somnific, soporiferous, soporific"]}
