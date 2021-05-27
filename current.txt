@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T11:47:08.030978+00:00", 740, "Your mother is", "gauzy", "Pronunciation: /\u02c8\u0261\u0254zi/", "Definition: so thin as to transmit light", "Synonyms: cobwebby, diaphanous, filmy, gauze-like, gossamer, see-through, sheer, transparent, vaporous, vapourous"]}
+{"data": ["2021-05-27T11:57:08.058446+00:00", 741, "Your mother is", "interchurch", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8\u02a7\u025cr\u02a7/", "Definition: occurring between or among or common to different churches or denominations", "Synonyms: interdenominational"]}
