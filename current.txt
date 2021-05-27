@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T07:47:07.882435+00:00", 716, "Your mother is", "punitory", "Pronunciation: /\u02c8pjun\u026a\u02ccto\u028ari/", "Definition: inflicting punishment", "Synonyms: punitive"]}
+{"data": ["2021-05-27T07:57:07.875010+00:00", 717, "Your mother is", "cloven-hoofed", "Pronunciation: /\u02c8klo\u028av\u0259n-h\u028aft/", "Definition: of or relating to the cloven feet of ruminants or swine", "Synonyms: cloven-footed"]}
