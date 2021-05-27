@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T13:37:07.982106+00:00", 751, "Your mother is", "undefined", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8fa\u026and/", "Definition: not precisely limited, determined, or distinguished", "Synonyms: vague"]}
+{"data": ["2021-05-27T13:47:07.970144+00:00", 752, "Your mother is", "banded", "Pronunciation: /\u02c8b\u00e6nd\u026ad/", "Definition: characterized by a band of especially white around the body", ""]}
