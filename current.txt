@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T10:27:07.992610+00:00", 732, "Your mother is", "tutelary", "Pronunciation: /\u02c8tjut\u026al\u0259ri/", "Definition: providing protective supervision; watching over or safeguarding", "Synonyms: custodial, tutelar"]}
+{"data": ["2021-05-27T10:37:07.997599+00:00", 733, "Your mother is", "viewless", "Pronunciation: /\u02c8vjul\u026as/", "Definition: not having or expressing opinions or views", ""]}
