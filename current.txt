@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T15:07:08.481565+00:00", 760, "Your mother is", "delighted", "Pronunciation: /d\u026a\u02c8la\u026at\u026ad/", "Definition: filled with wonder and delight", "Synonyms: beguiled, captivated, charmed, enthralled, entranced"]}
+{"data": ["2021-05-27T15:17:07.962197+00:00", 761, "Your mother is", "uncooperative", "Pronunciation: /\u02cc\u0259nko\u028a\u02c8\u0251p\u0259r\u0259t\u026av/", "Definition: intentionally unaccommodating", "Synonyms: disobliging"]}
