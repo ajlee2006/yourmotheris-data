@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T17:37:08.040607+00:00", 775, "Your mother is", "charged", "Pronunciation: /t\u0283\u0251rd\u0292d/", "Definition: fraught with great emotion", "Synonyms: supercharged"]}
+{"data": ["2021-05-27T17:52:59.587126+00:00", 776, "Your mother is", "monaural", "Pronunciation: /m\u0251\u02c8n\u0251r\u0259l/", "Definition: relating to or having or hearing with only one ear", ""]}
