@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T01:17:07.836871+00:00", 677, "Your mother is", "flat-top", "Pronunciation: /fl\u00e6t-t\u0251p/", "Definition: having a flat or flattened upper surface", "Synonyms: flat-topped"]}
+{"data": ["2021-05-27T01:27:07.856313+00:00", 678, "Your mother is", "scotch", "Pronunciation: /sk\u0251\u02a7/", "Definition: avoiding waste", "Synonyms: economical, frugal, sparing, stinting"]}
