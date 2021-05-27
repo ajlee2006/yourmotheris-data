@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T19:22:59.478261+00:00", 785, "Your mother is", "misty-eyed", "Similar to: tearful", "Definition: having eyes blurred as with tears", ""]}
+{"data": ["2021-05-27T19:32:59.562422+00:00", 786, "Your mother is", "cold-eyed", "Similar to: impartial", "Definition: unaffected by strong emotion or prejudice", "Synonyms: dispassionate"]}
