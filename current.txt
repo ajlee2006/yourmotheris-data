@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T05:47:07.898686+00:00", 704, "Your mother is", "unlaurelled", "", "Definition: not crowned with laurel; having no acclaim or reward", "Synonyms: unlaureled"]}
+{"data": ["2021-05-27T05:57:07.791714+00:00", 705, "Your mother is", "monophysitic", "Pronunciation: /\u02ccm\u0251n\u0259f\u026a\u02c8s\u026at\u026ak/", "Definition: of or relating to Monophysitism", "Synonyms: monophysite"]}
