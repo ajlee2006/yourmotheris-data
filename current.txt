@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T09:07:07.834162+00:00", 724, "Your mother is", "subliminal", "Pronunciation: /s\u0259b\u02c8l\u026am\u0259n\u0259l/", "Definition: below the threshold of conscious perception", ""]}
+{"data": ["2021-05-27T09:17:07.818862+00:00", 725, "Your mother is", "blueish", "Pronunciation: /\u02c8blu\u026a\u0283/", "Definition: of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky", "Synonyms: blue, bluish"]}
