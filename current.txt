@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T03:07:07.818914+00:00", 688, "Your mother is", "deterrent", "Pronunciation: /d\u026a\u02c8t\u025cr\u0259nt/", "Definition: tending to deter", ""]}
+{"data": ["2021-05-27T03:17:07.892255+00:00", 689, "Your mother is", "universal", "Pronunciation: /\u02ccjun\u0259\u02c8v\u025crs\u0259l/", "Definition: of worldwide scope or applicability", "Synonyms: cosmopolitan, ecumenical, general, oecumenical, world-wide, worldwide"]}
