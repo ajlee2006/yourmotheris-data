@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T05:17:08.012217+00:00", 701, "Your mother is", "blue-flowered", "Pronunciation: /blu-\u02c8fla\u028a\u0259rd/", "Definition: having blue flowers", ""]}
+{"data": ["2021-05-27T05:27:08.014347+00:00", 702, "Your mother is", "godly", "Pronunciation: /\u02c8\u0261\u0251dli/", "Definition: emanating from God", "Synonyms: divine"]}
