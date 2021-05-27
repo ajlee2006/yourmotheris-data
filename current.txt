@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T22:12:59.539384+00:00", 802, "Your mother is", "slack", "Pronunciation: /sl\u00e6k/", "Definition: not tense or taut", "Synonyms: loose"]}
+{"data": ["2021-05-27T22:22:59.582679+00:00", 803, "Your mother is", "dismissible", "Similar to: removable", "Definition: subject to dismissal", ""]}
