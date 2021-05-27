@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T00:21:36.989330+00:00", 672, "Your mother is", "frostbitten", "Pronunciation: /\u02c8fr\u0254st\u02ccb\u026at\u0259n/", "Definition: injured by freezing or partial freezing", ""]}
+{"data": ["2021-05-27T00:31:37.002868+00:00", 673, "Your mother is", "subtractive", "Pronunciation: /s\u0259b\u02c8tr\u00e6kt\u026av/", "Definition: constituting or involving subtraction", ""]}
