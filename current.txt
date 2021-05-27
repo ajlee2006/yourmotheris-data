@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T12:27:08.668377+00:00", 744, "Your mother is", "unintimidated", "Similar to: fearless", "Definition: not shrinking from danger", "Synonyms: unblinking, unflinching, unshrinking"]}
+{"data": ["2021-05-27T12:37:07.975017+00:00", 745, "Your mother is", "noncommittal", "Pronunciation: /\u02ccn\u0251nk\u0259\u02c8m\u026at\u0259l/", "Definition: refusing to bind oneself to a particular course of action or view or the like", ""]}
