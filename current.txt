@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T08:57:08.026904+00:00", 723, "Your mother is", "quarantined", "Pronunciation: /\u02c8kw\u0254r\u028cn\u02cctind/", "Definition: under forced isolation especially for health reasons", "Synonyms: isolated"]}
+{"data": ["2021-05-27T09:07:07.834162+00:00", 724, "Your mother is", "subliminal", "Pronunciation: /s\u0259b\u02c8l\u026am\u0259n\u0259l/", "Definition: below the threshold of conscious perception", ""]}
