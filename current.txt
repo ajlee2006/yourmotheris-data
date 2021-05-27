@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T19:02:59.522273+00:00", 783, "Your mother is", "indiscreet", "Pronunciation: /\u02cc\u026and\u026a\u02c8skrit/", "Definition: lacking discretion; injudicious", ""]}
+{"data": ["2021-05-27T19:12:59.553965+00:00", 784, "Your mother is", "echoless", "Similar to: nonreflecting", "Definition: having or producing no echo", ""]}
