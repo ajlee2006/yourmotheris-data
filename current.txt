@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T21:22:59.580209+00:00", 797, "Your mother is", "uncommon", "Pronunciation: /\u0259n\u02c8k\u0251m\u0259n/", "Definition: marked by an uncommon quality; especially superlative or extreme of its kind", "Synonyms: rare"]}
+{"data": ["2021-05-27T21:32:59.451587+00:00", 798, "Your mother is", "four-needled", "Similar to: simple", "Definition: (of conifers) having four needles", ""]}
