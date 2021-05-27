@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T00:11:37.101277+00:00", 671, "Your mother is", "preliterate", "Pronunciation: /pri\u02c8l\u026at\u0259r\u0259t/", "Definition: used of a society that has not developed writing", "Synonyms: nonliterate"]}
+{"data": ["2021-05-27T00:21:36.989330+00:00", 672, "Your mother is", "frostbitten", "Pronunciation: /\u02c8fr\u0254st\u02ccb\u026at\u0259n/", "Definition: injured by freezing or partial freezing", ""]}
