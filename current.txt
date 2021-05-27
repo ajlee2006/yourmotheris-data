@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T14:37:08.132348+00:00", 757, "Your mother is", "round-eyed", "Pronunciation: /ra\u028and-a\u026ad/", "Definition: exhibiting childlike simplicity and credulity", "Synonyms: childlike, dewy-eyed, simple, wide-eyed"]}
+{"data": ["2021-05-27T14:47:07.866772+00:00", 758, "Your mother is", "cater-cornered", "Pronunciation: /\u02c8ke\u026at\u0259r-\u02c8k\u0254rn\u0259rd/", "Definition: slanted across a polygon on a diagonal line", "Synonyms: cata-cornered, catacorner, catercorner, catty-corner, catty-cornered, kitty-corner, kitty-cornered"]}
