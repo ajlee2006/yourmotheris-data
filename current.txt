@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T17:52:59.587126+00:00", 776, "Your mother is", "monaural", "Pronunciation: /m\u0251\u02c8n\u0251r\u0259l/", "Definition: relating to or having or hearing with only one ear", ""]}
+{"data": ["2021-05-27T18:02:59.647644+00:00", 777, "Your mother is", "on-going", "Similar to: current", "Definition: currently happening", "Synonyms: ongoing"]}
