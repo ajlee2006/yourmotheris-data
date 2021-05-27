@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T00:01:37.124174+00:00", 670, "Your mother is", "hardhearted", "Pronunciation: /\u02c8h\u0251rd\u02c8h\u0251rt\u026ad/", "Definition: lacking in feeling or pity or warmth", "Synonyms: heartless"]}
+{"data": ["2021-05-27T00:11:37.101277+00:00", 671, "Your mother is", "preliterate", "Pronunciation: /pri\u02c8l\u026at\u0259r\u0259t/", "Definition: used of a society that has not developed writing", "Synonyms: nonliterate"]}
