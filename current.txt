@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T01:57:07.987747+00:00", 681, "Your mother is", "subjacent", "Pronunciation: /s\u0259b\u02c8d\u0292e\u026as\u0259nt/", "Definition: lying nearby but lower", ""]}
+{"data": ["2021-05-27T02:07:07.939328+00:00", 682, "Your mother is", "deserved", "Pronunciation: /d\u026a\u02c8z\u025crvd/", "Definition: properly deserved", "Synonyms: merited"]}
