@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T11:07:07.985631+00:00", 736, "Your mother is", "peppy", "Pronunciation: /\u02c8p\u025bpi/", "Definition: marked by lively action", "Synonyms: bouncing, bouncy, spirited, zippy"]}
+{"data": ["2021-05-27T11:17:08.007214+00:00", 737, "Your mother is", "towheaded", "Similar to: blond", "Definition: of hair color; whitish", "Synonyms: ash-blonde, platinum-blonde"]}
