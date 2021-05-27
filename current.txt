@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T14:47:07.866772+00:00", 758, "Your mother is", "cater-cornered", "Pronunciation: /\u02c8ke\u026at\u0259r-\u02c8k\u0254rn\u0259rd/", "Definition: slanted across a polygon on a diagonal line", "Synonyms: cata-cornered, catacorner, catercorner, catty-corner, catty-cornered, kitty-corner, kitty-cornered"]}
+{"data": ["2021-05-27T14:57:07.988585+00:00", 759, "Your mother is", "flocculent", "Pronunciation: /\u02c8fl\u0251kj\u0259l\u0259nt/", "Definition: having a fluffy character or appearance", "Synonyms: woolly, wooly"]}
