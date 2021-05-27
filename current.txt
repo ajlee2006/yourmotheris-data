@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T10:07:08.044801+00:00", 730, "Your mother is", "blistering", "Pronunciation: /\u02c8bl\u026ast\u025dr\u026a\u014b/", "Definition: hot enough to raise (or as if to raise) blisters", "Synonyms: blistery"]}
+{"data": ["2021-05-27T10:17:07.959656+00:00", 731, "Your mother is", "unequalised", "Similar to: unequal", "Definition: not caused to be equal", "Synonyms: unequalized"]}
