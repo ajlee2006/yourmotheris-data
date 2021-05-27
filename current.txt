@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T06:57:07.793538+00:00", 711, "Your mother is", "aimless", "Pronunciation: /\u02c8e\u026aml\u026as/", "Definition: aimlessly drifting", "Synonyms: adrift, afloat, directionless, planless, rudderless, undirected"]}
+{"data": ["2021-05-27T07:07:07.794281+00:00", 712, "Your mother is", "unfearing", "Similar to: bold", "Definition: invulnerable to fear or intimidation", "Synonyms: audacious, brave, dauntless, fearless, hardy, intrepid"]}
