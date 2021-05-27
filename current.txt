@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T19:42:59.580425+00:00", 787, "Your mother is", "provident", "Pronunciation: /\u02c8pr\u0251v\u026ad\u0259nt/", "Definition: careful in regard to your own interests", ""]}
+{"data": ["2021-05-27T19:52:59.642277+00:00", 788, "Your mother is", "incomprehensible", "Pronunciation: /\u02cc\u026ank\u0251mpr\u026a\u02c8h\u025bns\u0259b\u0259l/", "Definition: difficult to understand", "Synonyms: uncomprehensible"]}
