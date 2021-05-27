@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T01:07:08.185144+00:00", 676, "Your mother is", "undistinguished", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8st\u026a\u014bw\u026a\u0283t/", "Definition: not special in any way; lacking distinction", "Synonyms: mine run, run-of-the-mill, run-of-the-mine, unexceptional"]}
+{"data": ["2021-05-27T01:17:07.836871+00:00", 677, "Your mother is", "flat-top", "Pronunciation: /fl\u00e6t-t\u0251p/", "Definition: having a flat or flattened upper surface", "Synonyms: flat-topped"]}
