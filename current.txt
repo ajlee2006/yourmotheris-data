@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T06:37:07.683224+00:00", 709, "Your mother is", "stylized", "Pronunciation: /\u02c8sta\u026a\u02ccla\u026azd/", "Definition: using artistic forms and conventions to create effects; not natural or spontaneous", "Synonyms: conventionalised, conventionalized, stylised"]}
+{"data": ["2021-05-27T06:47:07.898415+00:00", 710, "Your mother is", "aflicker", "Similar to: unsteady", "Definition: shining unsteadily", "Synonyms: flickering"]}
