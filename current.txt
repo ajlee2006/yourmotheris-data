@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T16:17:08.662269+00:00", 767, "Your mother is", "impotent", "Pronunciation: /\u02c8\u026amp\u0259t\u0259nt/", "Definition: lacking power or ability", ""]}
+{"data": ["2021-05-27T16:27:07.968744+00:00", 768, "Your mother is", "uncompleted", "Pronunciation: /\u02cc\u0259nk\u0259m\u02c8plit\u026ad/", "Definition: not yet finished", "Synonyms: incomplete"]}
