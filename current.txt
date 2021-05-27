@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T19:52:59.642277+00:00", 788, "Your mother is", "incomprehensible", "Pronunciation: /\u02cc\u026ank\u0251mpr\u026a\u02c8h\u025bns\u0259b\u0259l/", "Definition: difficult to understand", "Synonyms: uncomprehensible"]}
+{"data": ["2021-05-27T20:02:59.505404+00:00", 789, "Your mother is", "impish", "Pronunciation: /\u02c8\u026amp\u026a\u0283/", "Definition: naughtily or annoyingly playful", "Synonyms: arch, implike, mischievous, pixilated, prankish, puckish, wicked"]}
