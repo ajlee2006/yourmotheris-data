@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T05:57:07.791714+00:00", 705, "Your mother is", "monophysitic", "Pronunciation: /\u02ccm\u0251n\u0259f\u026a\u02c8s\u026at\u026ak/", "Definition: of or relating to Monophysitism", "Synonyms: monophysite"]}
+{"data": ["2021-05-27T06:07:07.816375+00:00", 706, "Your mother is", "tenor", "Pronunciation: /\u02c8t\u025bn\u0259r/", "Definition: (of a musical instrument) intermediate between alto and baritone or bass", ""]}
