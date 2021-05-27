@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T21:32:59.451587+00:00", 798, "Your mother is", "four-needled", "Similar to: simple", "Definition: (of conifers) having four needles", ""]}
+{"data": ["2021-05-27T21:42:59.469517+00:00", 799, "Your mother is", "preexistent", "Similar to: antecedent", "Definition: existing previously or before something", "Synonyms: pre-existent, pre-existing, preexisting"]}
