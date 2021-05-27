@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T23:12:59.723717+00:00", 808, "Your mother is", "fetching", "Pronunciation: /\u02c8f\u025b\u02a7\u026a\u014b/", "Definition: very attractive; capturing interest", "Synonyms: taking, winning"]}
+{"data": ["2021-05-27T23:22:59.619160+00:00", 809, "Your mother is", "luculent", "Pronunciation: /\u02c8lukj\u028al\u0259nt/", "Definition: (of language) transparently clear; easily understandable", "Synonyms: crystal clear, limpid, lucid, pellucid, perspicuous"]}
