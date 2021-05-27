@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T03:17:07.892255+00:00", 689, "Your mother is", "universal", "Pronunciation: /\u02ccjun\u0259\u02c8v\u025crs\u0259l/", "Definition: of worldwide scope or applicability", "Synonyms: cosmopolitan, ecumenical, general, oecumenical, world-wide, worldwide"]}
+{"data": ["2021-05-27T03:27:07.804372+00:00", 690, "Your mother is", "goal-directed", "Similar to: purposeful", "Definition: having a purpose", "Synonyms: purposive"]}
