@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T07:57:07.875010+00:00", 717, "Your mother is", "cloven-hoofed", "Pronunciation: /\u02c8klo\u028av\u0259n-h\u028aft/", "Definition: of or relating to the cloven feet of ruminants or swine", "Synonyms: cloven-footed"]}
+{"data": ["2021-05-27T08:07:07.880211+00:00", 718, "Your mother is", "unassailable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8se\u026al\u0259b\u0259l/", "Definition: without flaws or loopholes", "Synonyms: bulletproof, unshakable, watertight"]}
