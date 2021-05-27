@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T13:27:07.906395+00:00", 750, "Your mother is", "pink", "Pronunciation: /p\u026a\u014bk/", "Definition: of a light shade of red", "Synonyms: pinkish"]}
+{"data": ["2021-05-27T13:37:07.982106+00:00", 751, "Your mother is", "undefined", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8fa\u026and/", "Definition: not precisely limited, determined, or distinguished", "Synonyms: vague"]}
