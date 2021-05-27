@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T15:27:08.198869+00:00", 762, "Your mother is", "sellable", "Similar to: salable", "Definition: fit to be offered for sale", "Synonyms: marketable, merchantable, vendable, vendible"]}
+{"data": ["2021-05-27T15:37:08.026141+00:00", 763, "Your mother is", "melodious", "Pronunciation: /m\u0259\u02c8lo\u028adi\u0259s/", "Definition: containing or constituting or characterized by pleasing melody", "Synonyms: melodic, musical"]}
