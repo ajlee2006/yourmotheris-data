@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T06:47:07.898415+00:00", 710, "Your mother is", "aflicker", "Similar to: unsteady", "Definition: shining unsteadily", "Synonyms: flickering"]}
+{"data": ["2021-05-27T06:57:07.793538+00:00", 711, "Your mother is", "aimless", "Pronunciation: /\u02c8e\u026aml\u026as/", "Definition: aimlessly drifting", "Synonyms: adrift, afloat, directionless, planless, rudderless, undirected"]}
