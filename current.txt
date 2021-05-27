@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T09:27:07.893019+00:00", 726, "Your mother is", "unrecognized", "Pronunciation: /\u0259n\u02c8r\u025bk\u0259\u0261\u02ccna\u026azd/", "Definition: not having a secure reputation", "Synonyms: unrecognised"]}
+{"data": ["2021-05-27T09:37:08.146520+00:00", 727, "Your mother is", "conceptional", "Similar to: abstract", "Definition: being of the nature of a notion or concept", "Synonyms: ideational, notional"]}
