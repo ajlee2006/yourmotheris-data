@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T23:02:59.497723+00:00", 807, "Your mother is", "snoopy", "Pronunciation: /\u02c8snupi/", "Definition: offensively curious or inquisitive", "Synonyms: nosey, nosy, prying"]}
+{"data": ["2021-05-27T23:12:59.723717+00:00", 808, "Your mother is", "fetching", "Pronunciation: /\u02c8f\u025b\u02a7\u026a\u014b/", "Definition: very attractive; capturing interest", "Synonyms: taking, winning"]}
