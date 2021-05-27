@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T07:27:07.779355+00:00", 714, "Your mother is", "latino", "Pronunciation: /l\u00e6\u02c8tino\u028a/", "Definition: related to a Spanish-speaking people or culture", "Synonyms: hispanic"]}
+{"data": ["2021-05-27T07:37:07.810723+00:00", 715, "Your mother is", "decollete", "Pronunciation: /\u02ccde\u026ak\u0251l\u02c8te\u026a/", "Definition: (of a garment) having a low-cut neckline", "Synonyms: low-cut, low-necked"]}
