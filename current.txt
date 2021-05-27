@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T03:57:07.880740+00:00", 693, "Your mother is", "misshapen", "Pronunciation: /m\u026as\u02c8\u0283e\u026ap\u0259n/", "Definition: so badly formed or out of shape as to be ugly", "Synonyms: deformed, distorted, ill-shapen, malformed"]}
+{"data": ["2021-05-27T04:07:08.443806+00:00", 694, "Your mother is", "doglike", "Pronunciation: /\u02c8d\u0254\u0261\u02ccla\u026ak/", "Definition: resembling a dog; especially in devotion", ""]}
