@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T23:42:59.627781+00:00", 811, "Your mother is", "plowed", "Pronunciation: /pla\u028ad/", "Definition: (of farmland) broken and turned over with a plow", "Synonyms: ploughed"]}
+{"data": ["2021-05-27T23:52:59.683569+00:00", 812, "Your mother is", "high-ticket", "Similar to: expensive", "Definition: very expensive", "Synonyms: big-ticket"]}
