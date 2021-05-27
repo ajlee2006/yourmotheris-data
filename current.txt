@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T20:02:59.505404+00:00", 789, "Your mother is", "impish", "Pronunciation: /\u02c8\u026amp\u026a\u0283/", "Definition: naughtily or annoyingly playful", "Synonyms: arch, implike, mischievous, pixilated, prankish, puckish, wicked"]}
+{"data": ["2021-05-27T20:12:59.757775+00:00", 790, "Your mother is", "overwrought", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8r\u0254t/", "Definition: deeply agitated especially from emotion", "Synonyms: distraught"]}
