@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T13:47:07.970144+00:00", 752, "Your mother is", "banded", "Pronunciation: /\u02c8b\u00e6nd\u026ad/", "Definition: characterized by a band of especially white around the body", ""]}
+{"data": ["2021-05-27T13:57:07.902587+00:00", 753, "Your mother is", "meridian", "Pronunciation: /m\u0259\u02c8r\u026adi\u0259n/", "Definition: being at the best stage of development", "Synonyms: prime"]}
