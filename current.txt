@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T10:47:07.992289+00:00", 734, "Your mother is", "eponymous", "Pronunciation: /\u025b\u02c8p\u0251n\u0259m\u0259s/", "Definition: being or relating to or bearing the name of an eponym", "Synonyms: eponymic"]}
+{"data": ["2021-05-27T10:57:08.103795+00:00", 735, "Your mother is", "perambulating", "Similar to: mobile", "Definition: strolling or walking around", ""]}
