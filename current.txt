@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T16:07:08.194536+00:00", 766, "Your mother is", "weasel-worded", "Pronunciation: /\u02c8wiz\u0259l\u02ccw\u025crd\u026ad/", "Definition: evasively worded in order to avoid an unqualified statement", "Synonyms: hedged"]}
+{"data": ["2021-05-27T16:17:08.662269+00:00", 767, "Your mother is", "impotent", "Pronunciation: /\u02c8\u026amp\u0259t\u0259nt/", "Definition: lacking power or ability", ""]}
