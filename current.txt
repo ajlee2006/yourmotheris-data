@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T07:07:07.794281+00:00", 712, "Your mother is", "unfearing", "Similar to: bold", "Definition: invulnerable to fear or intimidation", "Synonyms: audacious, brave, dauntless, fearless, hardy, intrepid"]}
+{"data": ["2021-05-27T07:17:07.874909+00:00", 713, "Your mother is", "25", "Similar to: cardinal", "Definition: being five more than twenty", "Synonyms: twenty-five, xxv"]}
