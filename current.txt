@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T23:22:59.619160+00:00", 809, "Your mother is", "luculent", "Pronunciation: /\u02c8lukj\u028al\u0259nt/", "Definition: (of language) transparently clear; easily understandable", "Synonyms: crystal clear, limpid, lucid, pellucid, perspicuous"]}
+{"data": ["2021-05-27T23:32:59.493589+00:00", 810, "Your mother is", "unconstructive", "Similar to: unhelpful", "Definition: not constructive", ""]}
