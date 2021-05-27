@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T08:17:07.905678+00:00", 719, "Your mother is", "determinable", "Pronunciation: /d\u026a\u02c8t\u025crm\u0259n\u0259b\u0259l/", "Definition: capable of being determined or limited or fixed", ""]}
+{"data": ["2021-05-27T08:27:07.847055+00:00", 720, "Your mother is", "spiny-leaved", "Pronunciation: /\u02c8spa\u026ani-livd/", "Definition: having spiny leaves", "Synonyms: spiny-leafed"]}
