@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T18:02:59.647644+00:00", 777, "Your mother is", "on-going", "Similar to: current", "Definition: currently happening", "Synonyms: ongoing"]}
+{"data": ["2021-05-27T18:12:59.627553+00:00", 778, "Your mother is", "tantamount", "Pronunciation: /\u02c8t\u00e6nt\u0259\u02ccm\u00e6\u028ant/", "Definition: being essentially equal to something", "Synonyms: equivalent"]}
