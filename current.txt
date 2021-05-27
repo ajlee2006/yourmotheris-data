@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T08:07:07.880211+00:00", 718, "Your mother is", "unassailable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8se\u026al\u0259b\u0259l/", "Definition: without flaws or loopholes", "Synonyms: bulletproof, unshakable, watertight"]}
+{"data": ["2021-05-27T08:17:07.905678+00:00", 719, "Your mother is", "determinable", "Pronunciation: /d\u026a\u02c8t\u025crm\u0259n\u0259b\u0259l/", "Definition: capable of being determined or limited or fixed", ""]}
