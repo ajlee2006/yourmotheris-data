@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T04:07:08.443806+00:00", 694, "Your mother is", "doglike", "Pronunciation: /\u02c8d\u0254\u0261\u02ccla\u026ak/", "Definition: resembling a dog; especially in devotion", ""]}
+{"data": ["2021-05-27T04:17:08.205174+00:00", 695, "Your mother is", "fraught", "Pronunciation: /fr\u0254t/", "Definition: filled with or attended with", "Synonyms: pregnant"]}
