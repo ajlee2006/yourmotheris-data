@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T00:57:07.750529+00:00", 675, "Your mother is", "teeny-weeny", "Pronunciation: /\u02c8tini-\u02c8wini/", "Definition: (used informally) very small", "Synonyms: bittie, bitty, itsy-bitsy, itty-bitty, teensy, teensy-weensy, teentsy, teeny, wee, weensy, weeny"]}
+{"data": ["2021-05-27T01:07:08.185144+00:00", 676, "Your mother is", "undistinguished", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8st\u026a\u014bw\u026a\u0283t/", "Definition: not special in any way; lacking distinction", "Synonyms: mine run, run-of-the-mill, run-of-the-mine, unexceptional"]}
