@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T18:22:59.495252+00:00", 779, "Your mother is", "barrel-shaped", "Pronunciation: /\u02c8b\u00e6r\u0259l-\u0283e\u026apt/", "Definition: having the general shape of a barrel", ""]}
+{"data": ["2021-05-27T18:32:59.652984+00:00", 780, "Your mother is", "integral", "Pronunciation: /\u02c8\u026ant\u0259gr\u0259l/", "Definition: existing as an essential constituent or characteristic", "Synonyms: built-in, constitutional, inbuilt, inherent"]}
