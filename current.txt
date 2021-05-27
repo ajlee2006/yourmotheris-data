@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T10:37:07.997599+00:00", 733, "Your mother is", "viewless", "Pronunciation: /\u02c8vjul\u026as/", "Definition: not having or expressing opinions or views", ""]}
+{"data": ["2021-05-27T10:47:07.992289+00:00", 734, "Your mother is", "eponymous", "Pronunciation: /\u025b\u02c8p\u0251n\u0259m\u0259s/", "Definition: being or relating to or bearing the name of an eponym", "Synonyms: eponymic"]}
