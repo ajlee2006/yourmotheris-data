@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T18:12:59.627553+00:00", 778, "Your mother is", "tantamount", "Pronunciation: /\u02c8t\u00e6nt\u0259\u02ccm\u00e6\u028ant/", "Definition: being essentially equal to something", "Synonyms: equivalent"]}
+{"data": ["2021-05-27T18:22:59.495252+00:00", 779, "Your mother is", "barrel-shaped", "Pronunciation: /\u02c8b\u00e6r\u0259l-\u0283e\u026apt/", "Definition: having the general shape of a barrel", ""]}
