@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T22:52:59.525507+00:00", 806, "Your mother is", "harmful", "Pronunciation: /\u02c8h\u0251rmf\u0259l/", "Definition: causing or capable of causing harm", ""]}
+{"data": ["2021-05-27T23:02:59.497723+00:00", 807, "Your mother is", "snoopy", "Pronunciation: /\u02c8snupi/", "Definition: offensively curious or inquisitive", "Synonyms: nosey, nosy, prying"]}
