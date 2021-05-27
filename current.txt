@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T15:17:07.962197+00:00", 761, "Your mother is", "uncooperative", "Pronunciation: /\u02cc\u0259nko\u028a\u02c8\u0251p\u0259r\u0259t\u026av/", "Definition: intentionally unaccommodating", "Synonyms: disobliging"]}
+{"data": ["2021-05-27T15:27:08.198869+00:00", 762, "Your mother is", "sellable", "Similar to: salable", "Definition: fit to be offered for sale", "Synonyms: marketable, merchantable, vendable, vendible"]}
