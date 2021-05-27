@@ -1,1 +1,1 @@
-{"data": ["2021-05-27T16:27:07.968744+00:00", 768, "Your mother is", "uncompleted", "Pronunciation: /\u02cc\u0259nk\u0259m\u02c8plit\u026ad/", "Definition: not yet finished", "Synonyms: incomplete"]}
+{"data": ["2021-05-27T16:37:08.164163+00:00", 769, "Your mother is", "tangy", "Pronunciation: /\u02c8t\u00e6\u014bi/", "Definition: tasting sour like a lemon", "Synonyms: lemonlike, lemony, sourish, tart"]}
