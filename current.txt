@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T22:02:27.531661+00:00", 944, "Your mother is", "allargando", "Pronunciation: /\u02cc\u0251l\u0251r\u02c8\u0261\u0251ndo\u028a/", "Definition: (music) gradually decreasing in tempo and broadening in manner", ""]}
+{"data": ["2021-05-28T22:12:26.782425+00:00", 945, "Your mother is", "weepy", "Pronunciation: /\u02c8wipi/", "Definition: liable to weep easily", ""]}
