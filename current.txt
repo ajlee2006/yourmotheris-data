@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T12:52:59.889996+00:00", 890, "Your mother is", "biographical", "Pronunciation: /\u02ccba\u026a\u0259\u02c8gr\u00e6f\u026ak\u0259l/", "Definition: of or relating to or being biography", "Synonyms: biographic"]}
+{"data": ["2021-05-28T13:02:59.574798+00:00", 891, "Your mother is", "delineated", "Pronunciation: /d\u026a\u02c8l\u026ani\u02cce\u026at\u026ad/", "Definition: represented accurately or precisely", "Synonyms: delineate, represented"]}
