@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T22:42:26.987319+00:00", 948, "Your mother is", "slim", "Pronunciation: /sl\u026am/", "Definition: being of delicate or slender build", "Synonyms: slender, slight, svelte"]}
+{"data": ["2021-05-28T22:52:26.581080+00:00", 949, "Your mother is", "overmodest", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8m\u0251d\u026ast/", "Definition: affectedly modest or shy especially in a playful or provocative way", "Synonyms: coy, demure"]}
