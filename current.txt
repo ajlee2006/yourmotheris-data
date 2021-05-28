@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T13:12:59.900654+00:00", 892, "Your mother is", "unbeholden", "Pronunciation: /\u02cc\u0259nb\u026a\u02c8ho\u028ald\u0259n/", "Definition: free of moral obligation", ""]}
+{"data": ["2021-05-28T13:22:59.611692+00:00", 893, "Your mother is", "bracing", "Pronunciation: /\u02c8bre\u026as\u026a\u014b/", "Definition: imparting vitality and energy", "Synonyms: brisk, fresh, refreshful, refreshing, tonic"]}
