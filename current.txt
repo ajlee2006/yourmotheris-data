@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T20:22:26.486143+00:00", 934, "Your mother is", "dark-colored", "Pronunciation: /d\u0251rk-\u02c8k\u0259l\u0259rd/", "Definition: having a dark color", "Synonyms: dark-coloured, dusky-colored, dusky-coloured"]}
+{"data": ["2021-05-28T20:32:26.535088+00:00", 935, "Your mother is", "aspiring", "Pronunciation: /\u028c\u02c8spa\u026ar\u026a\u014b/", "Definition: desiring or striving for recognition or advancement", "Synonyms: aspirant, wishful"]}
