@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T07:42:59.702994+00:00", 859, "Your mother is", "disarrayed", "Similar to: disarranged", "Definition: in disarray", ""]}
+{"data": ["2021-05-28T07:52:59.480458+00:00", 860, "Your mother is", "constipated", "Pronunciation: /\u02c8k\u0251nst\u028c\u02ccpe\u026at\u028cd/", "Definition: have difficult or incomplete or infrequent evacuation of the bowels", ""]}
