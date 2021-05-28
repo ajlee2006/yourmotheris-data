@@ -11,7 +11,10 @@ Data for the 10-minutely Your Mother Is word.
 Alternatively, you can listen for tweets from [@yourmotherisbot](https://twitter.com/yourmotherisbot). For example, you could wait for it to tweet, then access current.txt for the JSON data.
 
 ## Format
-```['yyyy-mm-ddThh:mm:ss.zzzzzz+hh:mm', number, 'Your mother is', 'word', 'Pronunciation/Similar to', 'Definition: definintion', 'Synonyms: synonym, synonym']```
+```
+['yyyy-mm-ddThh:mm:ss.zzzzzz+hh:mm', number, 'Your mother is', 'word', 'Pronunciation/Similar to', 'Definition: definintion', 'Synonyms: synonym, synonym']
+```
+
 current.txt is in the format `{'data':list}`, while past.txt is in the format `{'data':[list1,list2,...]}`
 
 ## Example
