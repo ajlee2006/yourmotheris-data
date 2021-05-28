@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T02:22:59.533092+00:00", 827, "Your mother is", "resiny", "Pronunciation: /\u02c8r\u025bz\u0259ni/", "Definition: having the characteristics of pitch or tar", "Synonyms: pitchy, resinous, tarry"]}
+{"data": ["2021-05-28T02:32:59.530727+00:00", 828, "Your mother is", "roughshod", "Pronunciation: /\u02c8r\u0259f\u0283\u0251d/", "Definition: unjustly domineering", "Synonyms: heavy-handed"]}
