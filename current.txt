@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T21:52:26.433609+00:00", 943, "Your mother is", "nauseous", "Pronunciation: /\u02c8n\u0254\u0283\u0259s/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, noisome, offensive, queasy, sickening, vile"]}
+{"data": ["2021-05-28T22:02:27.531661+00:00", 944, "Your mother is", "allargando", "Pronunciation: /\u02cc\u0251l\u0251r\u02c8\u0261\u0251ndo\u028a/", "Definition: (music) gradually decreasing in tempo and broadening in manner", ""]}
