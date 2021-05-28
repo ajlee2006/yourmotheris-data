@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T03:02:59.583356+00:00", 831, "Your mother is", "non-u", "Pronunciation: /n\u0259n-ju/", "Definition: not characteristic of the upper classes especially in language use", ""]}
+{"data": ["2021-05-28T03:12:59.497102+00:00", 832, "Your mother is", "tormented", "Pronunciation: /\u02c8t\u0254r\u02ccm\u025bnt\u026ad/", "Definition: experiencing intense pain especially mental pain", "Synonyms: anguished, tortured"]}
