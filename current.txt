@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T06:32:59.428281+00:00", 852, "Your mother is", "permissible", "Pronunciation: /p\u0259r\u02c8m\u026as\u0259b\u0259l/", "Definition: that may be permitted especially as according to rule", "Synonyms: allowable"]}
+{"data": ["2021-05-28T06:42:59.888687+00:00", 853, "Your mother is", "slain", "Pronunciation: /sle\u026an/", "Definition: killed; `slain' is formal or literary as in", ""]}
