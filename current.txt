@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T06:02:59.513552+00:00", 849, "Your mother is", "mirthful", "Pronunciation: /\u02c8m\u025cr\u03b8f\u0259l/", "Definition: full of or showing high-spirited merriment", "Synonyms: gay, jocund, jolly, jovial, merry"]}
+{"data": ["2021-05-28T06:12:59.538003+00:00", 850, "Your mother is", "plausible", "Pronunciation: /\u02c8pl\u0254z\u0259b\u0259l/", "Definition: apparently reasonable and credible, and therefore convincing", ""]}
