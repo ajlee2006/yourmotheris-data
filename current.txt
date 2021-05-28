@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T22:32:26.463396+00:00", 947, "Your mother is", "torturing", "Pronunciation: /\u02c8t\u0254rt\u0283\u025dr\u026a\u014b/", "Definition: extremely painful", "Synonyms: agonising, agonizing, excruciating, harrowing, torturesome, torturous"]}
+{"data": ["2021-05-28T22:42:26.987319+00:00", 948, "Your mother is", "slim", "Pronunciation: /sl\u026am/", "Definition: being of delicate or slender build", "Synonyms: slender, slight, svelte"]}
