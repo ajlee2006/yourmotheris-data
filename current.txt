@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T13:22:59.611692+00:00", 893, "Your mother is", "bracing", "Pronunciation: /\u02c8bre\u026as\u026a\u014b/", "Definition: imparting vitality and energy", "Synonyms: brisk, fresh, refreshful, refreshing, tonic"]}
+{"data": ["2021-05-28T13:32:59.634557+00:00", 894, "Your mother is", "broadleaf", "Pronunciation: /\u02c8br\u0254d\u02cclif/", "Definition: having relatively broad rather than needlelike or scalelike leaves", "Synonyms: broad-leafed, broad-leaved"]}
