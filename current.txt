@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T17:52:59.612538+00:00", 920, "Your mother is", "sectarian", "Pronunciation: /s\u025bk\u02c8t\u025cri\u0259n/", "Definition: belonging to or characteristic of a sect", ""]}
+{"data": ["2021-05-28T18:02:59.602243+00:00", 921, "Your mother is", "shoed", "Similar to: booted", "Definition: wearing footgear", "Synonyms: shod, shodden"]}
