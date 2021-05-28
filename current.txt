@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T19:12:26.533589+00:00", 927, "Your mother is", "higher", "Pronunciation: /\u02c8ha\u026a\u0259r/", "Definition: advanced in complexity or elaboration", ""]}
+{"data": ["2021-05-28T19:22:26.549994+00:00", 928, "Your mother is", "spatulate", "Pronunciation: /\u02c8sp\u00e6tj\u028al\u0259t/", "Definition: (of a leaf shape) having a broad rounded apex and a narrow base", "Synonyms: spatula-shaped"]}
