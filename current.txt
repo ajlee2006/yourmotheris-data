@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T23:12:26.493757+00:00", 951, "Your mother is", "bacteriophagous", "", "Definition: of or relating to bacteriophages", "Synonyms: bacteriophagic"]}
+{"data": ["2021-05-28T23:22:26.456624+00:00", 952, "Your mother is", "wing-shaped", "Pronunciation: /w\u026a\u014b-\u0283e\u026apt/", "Definition: having or resembling wings", "Synonyms: alar, alary, aliform"]}
