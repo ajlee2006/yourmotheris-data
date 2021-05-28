@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T20:02:26.601276+00:00", 932, "Your mother is", "confirmed", "Pronunciation: /k\u0259n\u02c8f\u025crmd/", "Definition: having been established or made firm or received the rite of confirmation", ""]}
+{"data": ["2021-05-28T20:12:26.525378+00:00", 933, "Your mother is", "nutritionary", "", "Definition: of or relating to or providing nutrition", "Synonyms: nutritional"]}
