@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T04:22:59.602059+00:00", 839, "Your mother is", "sparse", "Pronunciation: /sp\u0251rs/", "Definition: not dense", "Synonyms: thin"]}
+{"data": ["2021-05-28T04:32:59.745593+00:00", 840, "Your mother is", "silver-scaled", "Similar to: armored", "Definition: having the body covered or partially covered with silver-colored scales", ""]}
