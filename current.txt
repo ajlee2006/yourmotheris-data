@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T03:32:59.474589+00:00", 834, "Your mother is", "self-induced", "Pronunciation: /\u02c8s\u025blf\u026an\u02c8dust/", "Definition: brought about by yourself", ""]}
+{"data": ["2021-05-28T03:42:59.461665+00:00", 835, "Your mother is", "overcareful", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8k\u025crf\u0259l/", "Definition: excessively or unduly careful", "Synonyms: too-careful"]}
