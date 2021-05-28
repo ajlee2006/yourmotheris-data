@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T08:42:59.715432+00:00", 865, "Your mother is", "extensible", "Pronunciation: /\u026ak\u02c8st\u025bns\u0259b\u0259l/", "Definition: capable of being protruded or stretched or opened out", "Synonyms: extensile"]}
+{"data": ["2021-05-28T08:52:59.567216+00:00", 866, "Your mother is", "confirmed", "Pronunciation: /k\u0259n\u02c8f\u025crmd/", "Definition: having been established or made firm or received the rite of confirmation", ""]}
