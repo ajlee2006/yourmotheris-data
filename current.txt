@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T23:32:26.449818+00:00", 953, "Your mother is", "even", "Pronunciation: /\u02c8iv\u0259n/", "Definition: of the score in a contest", "Synonyms: level, tied"]}
+{"data": ["2021-05-28T23:42:26.501948+00:00", 954, "Your mother is", "notched", "Pronunciation: /n\u0251t\u0283t/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: erose, jagged, jaggy, toothed"]}
