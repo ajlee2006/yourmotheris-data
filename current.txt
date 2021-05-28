@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T18:52:26.459522+00:00", 925, "Your mother is", "funereal", "Pronunciation: /fju\u02c8niri\u0259l/", "Definition: suited to or suggestive of a grave or burial", "Synonyms: sepulchral"]}
+{"data": ["2021-05-28T19:02:26.492895+00:00", 926, "Your mother is", "unseaworthy", "Pronunciation: /\u0259n\u02c8si\u02ccw\u025cr\u00f0i/", "Definition: unfit for a voyage", ""]}
