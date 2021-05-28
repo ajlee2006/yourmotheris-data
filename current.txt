@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T17:42:59.536785+00:00", 919, "Your mother is", "victorious", "Pronunciation: /v\u026ak\u02c8to\u028ari\u0259s/", "Definition: experiencing triumph", "Synonyms: triumphant"]}
+{"data": ["2021-05-28T17:52:59.612538+00:00", 920, "Your mother is", "sectarian", "Pronunciation: /s\u025bk\u02c8t\u025cri\u0259n/", "Definition: belonging to or characteristic of a sect", ""]}
