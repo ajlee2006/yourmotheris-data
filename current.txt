@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T15:52:59.555342+00:00", 908, "Your mother is", "arthropodous", "Pronunciation: /\u0251r\u02c8\u03b8r\u0251p\u0259d\u0259s/", "Definition: of or relating to invertebrates of the phylum Arthropoda", "Synonyms: arthropodal, arthropodan"]}
+{"data": ["2021-05-28T16:02:59.543584+00:00", 909, "Your mother is", "enormous", "Pronunciation: /\u026a\u02c8n\u0254rm\u0259s/", "Definition: extraordinarily large in size or extent or amount or power or degree", "Synonyms: tremendous"]}
