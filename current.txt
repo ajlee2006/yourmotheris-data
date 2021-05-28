@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T03:12:59.497102+00:00", 832, "Your mother is", "tormented", "Pronunciation: /\u02c8t\u0254r\u02ccm\u025bnt\u026ad/", "Definition: experiencing intense pain especially mental pain", "Synonyms: anguished, tortured"]}
+{"data": ["2021-05-28T03:22:59.486391+00:00", 833, "Your mother is", "larghissimo", "Similar to: slow", "Definition: (of tempo) as slow and broad as possible", ""]}
