@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T13:52:59.608899+00:00", 896, "Your mother is", "well-connected", "Pronunciation: /w\u025bl-k\u0259\u02c8n\u025bkt\u026ad/", "Definition: connected by blood or close acquaintance with people of wealth or social position", ""]}
+{"data": ["2021-05-28T14:02:59.934492+00:00", 897, "Your mother is", "mechanic", "Pronunciation: /m\u0259\u02c8k\u00e6n\u026ak/", "Definition: resembling the action of a machine", ""]}
