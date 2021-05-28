@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T06:12:59.538003+00:00", 850, "Your mother is", "plausible", "Pronunciation: /\u02c8pl\u0254z\u0259b\u0259l/", "Definition: apparently reasonable and credible, and therefore convincing", ""]}
+{"data": ["2021-05-28T06:22:59.616059+00:00", 851, "Your mother is", "cloven-footed", "Pronunciation: /\u02c8klo\u028av\u0259n-\u02c8f\u028at\u026ad/", "Definition: of or relating to the cloven feet of ruminants or swine", "Synonyms: cloven-hoofed"]}
