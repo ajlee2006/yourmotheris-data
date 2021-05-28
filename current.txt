@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T00:02:59.529763+00:00", 813, "Your mother is", "muddied", "Pronunciation: /\u02c8m\u028cdid/", "Definition: (of color) discolored by impurities; not bright and clear", "Synonyms: dingy, dirty, muddy"]}
+{"data": ["2021-05-28T00:12:59.515723+00:00", 814, "Your mother is", "encyclopaedic", "Pronunciation: /\u025bn\u02ccsa\u026akl\u0259\u02c8pid\u026ak/", "Definition: comprehensive in scope or content (as an encyclopedia)", "Synonyms: encyclopedic"]}
