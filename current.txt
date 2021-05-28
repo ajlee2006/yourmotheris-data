@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T15:22:59.704613+00:00", 905, "Your mother is", "philistine", "Pronunciation: /\u02c8f\u026al\u026a\u02ccsta\u026an/", "Definition: smug and ignorant and indifferent or hostile to artistic and cultural values", "Synonyms: anti-intellectual"]}
+{"data": ["2021-05-28T15:32:59.597326+00:00", 906, "Your mother is", "clueless", "Pronunciation: /\u02c8klul\u025bs/", "Definition: totally uninformed about what is going on; not having even a clue from which to infer what is occurring", ""]}
