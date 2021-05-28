@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T04:32:59.745593+00:00", 840, "Your mother is", "silver-scaled", "Similar to: armored", "Definition: having the body covered or partially covered with silver-colored scales", ""]}
+{"data": ["2021-05-28T04:42:59.459783+00:00", 841, "Your mother is", "metallurgical", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8l\u025crd\u0292\u026ak\u0259l/", "Definition: of or relating to metallurgy", "Synonyms: metallurgic"]}
