@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T03:42:59.461665+00:00", 835, "Your mother is", "overcareful", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8k\u025crf\u0259l/", "Definition: excessively or unduly careful", "Synonyms: too-careful"]}
+{"data": ["2021-05-28T03:52:59.462676+00:00", 836, "Your mother is", "prophetic", "Pronunciation: /pr\u0259\u02c8f\u025bt\u026ak/", "Definition: foretelling events as if by supernatural intervention", "Synonyms: prophetical"]}
