@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T02:02:59.764262+00:00", 825, "Your mother is", "top-hole", "Pronunciation: /t\u0251p-ho\u028al/", "Definition: excellent; best possible", "Synonyms: top-flight, topping"]}
+{"data": ["2021-05-28T02:12:59.592143+00:00", 826, "Your mother is", "well-timed", "Pronunciation: /\u02c8w\u025bl-\u02c8ta\u026amd/", "Definition: done or happening at the appropriate or proper time", "Synonyms: seasonable, timely, well timed"]}
