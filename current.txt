@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T14:32:59.644245+00:00", 900, "Your mother is", "purple-red", "Pronunciation: /\u02c8p\u025crp\u0259l-r\u025bd/", "Definition: of red tinged with purple", "Synonyms: purplish-red"]}
+{"data": ["2021-05-28T14:42:59.686259+00:00", 901, "Your mother is", "episodic", "Pronunciation: /\u02cc\u025bp\u026a\u02c8s\u0251d\u026ak/", "Definition: occurring or appearing at usually irregular intervals", "Synonyms: occasional"]}
