@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T09:02:59.617341+00:00", 867, "Your mother is", "equitable", "Pronunciation: /\u02c8\u025bkw\u026at\u0259b\u0259l/", "Definition: fair to all parties as dictated by reason and conscience", "Synonyms: just"]}
+{"data": ["2021-05-28T09:12:59.601280+00:00", 868, "Your mother is", "overcritical", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8kr\u026at\u026ak\u0259l/", "Definition: inclined to judge too severely", "Synonyms: hypercritical"]}
