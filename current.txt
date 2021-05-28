@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T11:42:59.566221+00:00", 883, "Your mother is", "extroversive", "Similar to: extraverted", "Definition: directed outward; marked by interest in others or concerned with external reality", "Synonyms: extraversive"]}
+{"data": ["2021-05-28T11:52:59.580041+00:00", 884, "Your mother is", "posterior", "Pronunciation: /p\u0251\u02c8stiri\u0259r/", "Definition: coming at a subsequent time or stage", "Synonyms: later, ulterior"]}
