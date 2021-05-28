@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T14:53:00.136395+00:00", 902, "Your mother is", "poor-spirited", "Pronunciation: /p\u028ar-\u02c8sp\u026ar\u026at\u026ad/", "Definition: lacking in courage and manly strength and resolution; contemptibly fearful", "Synonyms: pusillanimous, unmanly"]}
+{"data": ["2021-05-28T15:02:59.608541+00:00", 903, "Your mother is", "custom-built", "Pronunciation: /\u02c8k\u0259st\u0259m-b\u026alt/", "Definition: built for a particular individual", "Synonyms: made-to-order"]}
