@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T07:02:59.562244+00:00", 855, "Your mother is", "razorback", "Pronunciation: /\u02c8re\u026az\u0259r\u02ccb\u00e6k/", "Definition: having a sharp narrow back", "Synonyms: razor-backed"]}
+{"data": ["2021-05-28T07:12:59.705187+00:00", 856, "Your mother is", "clean", "Pronunciation: /klin/", "Definition: free of restrictions or qualifications", "Synonyms: clear"]}
