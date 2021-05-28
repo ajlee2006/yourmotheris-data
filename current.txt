@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T04:02:59.452737+00:00", 837, "Your mother is", "censorious", "Pronunciation: /s\u025bn\u02c8so\u028ari\u0259s/", "Definition: harshly critical or expressing censure", ""]}
+{"data": ["2021-05-28T04:12:59.451556+00:00", 838, "Your mother is", "boozy", "Pronunciation: /\u02c8buzi/", "Definition: given to or marked by the consumption of alcohol", "Synonyms: bibulous, drunken, sottish"]}
