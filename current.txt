@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T15:42:59.618251+00:00", 907, "Your mother is", "tired of", "Similar to: displeased", "Definition: having a strong distaste from surfeit", "Synonyms: disgusted, fed up, sick, sick of"]}
+{"data": ["2021-05-28T15:52:59.555342+00:00", 908, "Your mother is", "arthropodous", "Pronunciation: /\u0251r\u02c8\u03b8r\u0251p\u0259d\u0259s/", "Definition: of or relating to invertebrates of the phylum Arthropoda", "Synonyms: arthropodal, arthropodan"]}
