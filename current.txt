@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T02:32:59.530727+00:00", 828, "Your mother is", "roughshod", "Pronunciation: /\u02c8r\u0259f\u0283\u0251d/", "Definition: unjustly domineering", "Synonyms: heavy-handed"]}
+{"data": ["2021-05-28T02:42:59.477394+00:00", 829, "Your mother is", "semestral", "Similar to: periodic", "Definition: occurring every six months or during every period of six months", "Synonyms: semestrial"]}
