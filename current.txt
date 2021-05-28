@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T14:02:59.934492+00:00", 897, "Your mother is", "mechanic", "Pronunciation: /m\u0259\u02c8k\u00e6n\u026ak/", "Definition: resembling the action of a machine", ""]}
+{"data": ["2021-05-28T14:12:59.974658+00:00", 898, "Your mother is", "disabled", "Pronunciation: /d\u026as\u02c8e\u026ab\u0259ld/", "Definition: having restricted mental or physical functioning as a consequence of injury or illness", "Synonyms: handicapped"]}
