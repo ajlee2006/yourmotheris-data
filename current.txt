@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T10:32:59.537926+00:00", 876, "Your mother is", "ammoniacal", "Pronunciation: /\u02cc\u00e6m\u0259\u02c8na\u026a\u0259k\u0259l/", "Definition: pertaining to or containing or similar to ammonia", "Synonyms: ammoniac"]}
+{"data": ["2021-05-28T10:42:59.663079+00:00", 877, "Your mother is", "aweigh", "Pronunciation: /\u0259\u02c8we\u026a/", "Definition: (of an anchor) just clear of the bottom", "Synonyms: atrip"]}
