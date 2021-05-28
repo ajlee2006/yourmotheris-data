@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T13:42:59.793386+00:00", 895, "Your mother is", "gracious", "Pronunciation: /\u02c8gre\u026a\u0283\u0259s/", "Definition: characterized by kindness and warm courtesy especially of a king to his subjects", "Synonyms: benignant"]}
+{"data": ["2021-05-28T13:52:59.608899+00:00", 896, "Your mother is", "well-connected", "Pronunciation: /w\u025bl-k\u0259\u02c8n\u025bkt\u026ad/", "Definition: connected by blood or close acquaintance with people of wealth or social position", ""]}
