@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T00:12:59.515723+00:00", 814, "Your mother is", "encyclopaedic", "Pronunciation: /\u025bn\u02ccsa\u026akl\u0259\u02c8pid\u026ak/", "Definition: comprehensive in scope or content (as an encyclopedia)", "Synonyms: encyclopedic"]}
+{"data": ["2021-05-28T00:22:59.694077+00:00", 815, "Your mother is", "implicated", "Pronunciation: /\u02c8\u026ampl\u026a\u02ccke\u026at\u026ad/", "Definition: culpably involved", "Synonyms: concerned"]}
