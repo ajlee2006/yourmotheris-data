@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T12:32:59.613555+00:00", 888, "Your mother is", "life-sized", "Pronunciation: /la\u026af-sa\u026azd/", "Definition: being of the same size as an original", "Synonyms: full-size, life-size, lifesize"]}
+{"data": ["2021-05-28T12:42:59.542973+00:00", 889, "Your mother is", "gushy", "Pronunciation: /\u02c8\u0261\u0259\u0283i/", "Definition: extravagantly demonstrative", "Synonyms: effusive, gushing"]}
