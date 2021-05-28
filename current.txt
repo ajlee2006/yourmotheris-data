@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T17:22:59.561971+00:00", 917, "Your mother is", "primary", "Pronunciation: /\u02c8pra\u026am\u025bri/", "Definition: of or being the essential or basic part", "Synonyms: basal, elemental, elementary"]}
+{"data": ["2021-05-28T17:32:59.576612+00:00", 918, "Your mother is", "24", "Similar to: cardinal", "Definition: being four more than twenty", "Synonyms: twenty-four, xxiv"]}
