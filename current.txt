@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T23:22:26.456624+00:00", 952, "Your mother is", "wing-shaped", "Pronunciation: /w\u026a\u014b-\u0283e\u026apt/", "Definition: having or resembling wings", "Synonyms: alar, alary, aliform"]}
+{"data": ["2021-05-28T23:32:26.449818+00:00", 953, "Your mother is", "even", "Pronunciation: /\u02c8iv\u0259n/", "Definition: of the score in a contest", "Synonyms: level, tied"]}
