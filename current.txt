@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T08:22:59.621114+00:00", 863, "Your mother is", "fan-leaved", "Pronunciation: /f\u00e6n-livd/", "Definition: having fan-shaped leaves", "Synonyms: fan-leafed"]}
+{"data": ["2021-05-28T08:32:59.597840+00:00", 864, "Your mother is", "ungrateful", "Pronunciation: /\u0259n\u02c8gre\u026atf\u0259l/", "Definition: not feeling or showing gratitude", "Synonyms: thankless, unthankful"]}
