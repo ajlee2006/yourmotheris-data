@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T07:22:59.599532+00:00", 857, "Your mother is", "vehement", "Pronunciation: /\u02c8vi\u0259m\u0259nt/", "Definition: marked by extreme intensity of emotions or convictions; inclined to react violently; fervid", "Synonyms: fierce, tearing, trigger-happy, violent"]}
+{"data": ["2021-05-28T07:32:59.581244+00:00", 858, "Your mother is", "beloved", "Pronunciation: /b\u026a\u02c8l\u0259v\u026ad/", "Definition: dearly loved", "Synonyms: darling, dear"]}
