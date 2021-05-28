@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T12:22:59.558709+00:00", 887, "Your mother is", "winsome", "Pronunciation: /\u02c8w\u026ans\u0259m/", "Definition: charming in a childlike or naive way", ""]}
+{"data": ["2021-05-28T12:32:59.613555+00:00", 888, "Your mother is", "life-sized", "Pronunciation: /la\u026af-sa\u026azd/", "Definition: being of the same size as an original", "Synonyms: full-size, life-size, lifesize"]}
