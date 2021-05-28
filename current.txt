@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T06:52:59.579567+00:00", 854, "Your mother is", "rectified", "Pronunciation: /\u02c8r\u025bkt\u028c\u02ccfa\u026ad/", "Definition: having been put right", ""]}
+{"data": ["2021-05-28T07:02:59.562244+00:00", 855, "Your mother is", "razorback", "Pronunciation: /\u02c8re\u026az\u0259r\u02ccb\u00e6k/", "Definition: having a sharp narrow back", "Synonyms: razor-backed"]}
