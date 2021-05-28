@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T01:42:59.486227+00:00", 823, "Your mother is", "incessant", "Pronunciation: /\u026an\u02c8s\u025bs\u0259nt/", "Definition: uninterrupted in time and indefinitely long continuing", "Synonyms: ceaseless, constant, never-ending, perpetual, unceasing, unremitting"]}
+{"data": ["2021-05-28T01:52:59.476606+00:00", 824, "Your mother is", "internecine", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8nisin/", "Definition: characterized by bloodshed and carnage for both sides", ""]}
