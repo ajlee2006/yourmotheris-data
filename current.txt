@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T15:02:59.608541+00:00", 903, "Your mother is", "custom-built", "Pronunciation: /\u02c8k\u0259st\u0259m-b\u026alt/", "Definition: built for a particular individual", "Synonyms: made-to-order"]}
+{"data": ["2021-05-28T15:12:59.918357+00:00", 904, "Your mother is", "unpromising", "Pronunciation: /\u0259n\u02c8pr\u0251m\u026as\u026a\u014b/", "Definition: unlikely to bring about favorable results or enjoyment", ""]}
