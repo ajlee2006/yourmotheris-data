@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T13:32:59.634557+00:00", 894, "Your mother is", "broadleaf", "Pronunciation: /\u02c8br\u0254d\u02cclif/", "Definition: having relatively broad rather than needlelike or scalelike leaves", "Synonyms: broad-leafed, broad-leaved"]}
+{"data": ["2021-05-28T13:42:59.793386+00:00", 895, "Your mother is", "gracious", "Pronunciation: /\u02c8gre\u026a\u0283\u0259s/", "Definition: characterized by kindness and warm courtesy especially of a king to his subjects", "Synonyms: benignant"]}
