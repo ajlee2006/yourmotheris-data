@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T10:22:59.535733+00:00", 875, "Your mother is", "shielded", "Pronunciation: /\u02c8\u0283ild\u026ad/", "Definition: (used especially of machinery) protected by a shield to prevent injury", ""]}
+{"data": ["2021-05-28T10:32:59.537926+00:00", 876, "Your mother is", "ammoniacal", "Pronunciation: /\u02cc\u00e6m\u0259\u02c8na\u026a\u0259k\u0259l/", "Definition: pertaining to or containing or similar to ammonia", "Synonyms: ammoniac"]}
