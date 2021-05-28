@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T14:42:59.686259+00:00", 901, "Your mother is", "episodic", "Pronunciation: /\u02cc\u025bp\u026a\u02c8s\u0251d\u026ak/", "Definition: occurring or appearing at usually irregular intervals", "Synonyms: occasional"]}
+{"data": ["2021-05-28T14:53:00.136395+00:00", 902, "Your mother is", "poor-spirited", "Pronunciation: /p\u028ar-\u02c8sp\u026ar\u026at\u026ad/", "Definition: lacking in courage and manly strength and resolution; contemptibly fearful", "Synonyms: pusillanimous, unmanly"]}
