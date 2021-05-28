@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T22:12:26.782425+00:00", 945, "Your mother is", "weepy", "Pronunciation: /\u02c8wipi/", "Definition: liable to weep easily", ""]}
+{"data": ["2021-05-28T22:22:26.513589+00:00", 946, "Your mother is", "novel", "Pronunciation: /\u02c8n\u0251v\u0259l/", "Definition: original and of a kind not seen before", "Synonyms: fresh, new"]}
