@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T08:02:59.738189+00:00", 861, "Your mother is", "rose-lilac", "Similar to: chromatic", "Definition: of lavender tinged with rose", "Synonyms: rose-lavender"]}
+{"data": ["2021-05-28T08:12:59.521071+00:00", 862, "Your mother is", "avertible", "", "Definition: capable of being avoided or warded off", "Synonyms: avertable, avoidable, evitable"]}
