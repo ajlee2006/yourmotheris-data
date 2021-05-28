@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T19:02:26.492895+00:00", 926, "Your mother is", "unseaworthy", "Pronunciation: /\u0259n\u02c8si\u02ccw\u025cr\u00f0i/", "Definition: unfit for a voyage", ""]}
+{"data": ["2021-05-28T19:12:26.533589+00:00", 927, "Your mother is", "higher", "Pronunciation: /\u02c8ha\u026a\u0259r/", "Definition: advanced in complexity or elaboration", ""]}
