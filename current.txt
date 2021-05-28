@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T05:32:59.452929+00:00", 846, "Your mother is", "sparkly", "Pronunciation: /\u02c8sp\u0251rkli/", "Definition: marked by high spirits or excitement", "Synonyms: bubbling, effervescent, frothy, scintillating"]}
+{"data": ["2021-05-28T05:42:59.448187+00:00", 847, "Your mother is", "confusing", "Pronunciation: /k\u028cn\u02c8fjuz\u026a\u014b/", "Definition: lacking clarity of meaning; causing confusion or perplexity", "Synonyms: perplexing, puzzling"]}
