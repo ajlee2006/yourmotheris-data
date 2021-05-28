@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T19:22:26.549994+00:00", 928, "Your mother is", "spatulate", "Pronunciation: /\u02c8sp\u00e6tj\u028al\u0259t/", "Definition: (of a leaf shape) having a broad rounded apex and a narrow base", "Synonyms: spatula-shaped"]}
+{"data": ["2021-05-28T19:32:26.686374+00:00", 929, "Your mother is", "self-assertive", "Pronunciation: /s\u025blf-\u0259\u02c8s\u025crt\u026av/", "Definition: offensively self-assertive", "Synonyms: bumptious"]}
