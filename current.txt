@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T18:22:59.695794+00:00", 923, "Your mother is", "maroc", "Pronunciation: /mA\u02c8R\u0254k/", "Definition: of or relating to or characteristic of Morocco or its people", "Synonyms: moroccan"]}
+{"data": ["2021-05-28T18:42:27.071205+00:00", 924, "Your mother is", "flushed", "Pronunciation: /fl\u028c\u0283t/", "Definition: having the pinkish flush of health", "Synonyms: rose-cheeked, rosy, rosy-cheeked"]}
