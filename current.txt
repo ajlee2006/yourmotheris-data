@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T08:52:59.567216+00:00", 866, "Your mother is", "confirmed", "Pronunciation: /k\u0259n\u02c8f\u025crmd/", "Definition: having been established or made firm or received the rite of confirmation", ""]}
+{"data": ["2021-05-28T09:02:59.617341+00:00", 867, "Your mother is", "equitable", "Pronunciation: /\u02c8\u025bkw\u026at\u0259b\u0259l/", "Definition: fair to all parties as dictated by reason and conscience", "Synonyms: just"]}
