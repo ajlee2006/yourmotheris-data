@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T23:42:26.501948+00:00", 954, "Your mother is", "notched", "Pronunciation: /n\u0251t\u0283t/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: erose, jagged, jaggy, toothed"]}
+{"data": ["2021-05-28T23:52:26.549770+00:00", 955, "Your mother is", "well-intentioned", "Pronunciation: /\u02c8w\u025bl-\u026an\u02c8t\u025bn\u0283\u0259nd/", "Definition: marked by good intentions though often producing unfortunate results", "Synonyms: well-meaning, well-meant"]}
