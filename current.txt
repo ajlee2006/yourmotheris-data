@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T23:02:26.579959+00:00", 950, "Your mother is", "viable", "Pronunciation: /\u02c8va\u026a\u0259b\u0259l/", "Definition: capable of being done with means at hand and circumstances as they are", "Synonyms: executable, feasible, practicable, workable"]}
+{"data": ["2021-05-28T23:12:26.493757+00:00", 951, "Your mother is", "bacteriophagous", "", "Definition: of or relating to bacteriophages", "Synonyms: bacteriophagic"]}
