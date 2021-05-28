@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T08:32:59.597840+00:00", 864, "Your mother is", "ungrateful", "Pronunciation: /\u0259n\u02c8gre\u026atf\u0259l/", "Definition: not feeling or showing gratitude", "Synonyms: thankless, unthankful"]}
+{"data": ["2021-05-28T08:42:59.715432+00:00", 865, "Your mother is", "extensible", "Pronunciation: /\u026ak\u02c8st\u025bns\u0259b\u0259l/", "Definition: capable of being protruded or stretched or opened out", "Synonyms: extensile"]}
