@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T21:42:26.482024+00:00", 942, "Your mother is", "puzzling", "Pronunciation: /\u02c8p\u028cz\u028cl\u026a\u014b/", "Definition: not clear to the understanding", "Synonyms: enigmatic, enigmatical"]}
+{"data": ["2021-05-28T21:52:26.433609+00:00", 943, "Your mother is", "nauseous", "Pronunciation: /\u02c8n\u0254\u0283\u0259s/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, noisome, offensive, queasy, sickening, vile"]}
