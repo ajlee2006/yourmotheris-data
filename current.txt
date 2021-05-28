@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T12:42:59.542973+00:00", 889, "Your mother is", "gushy", "Pronunciation: /\u02c8\u0261\u0259\u0283i/", "Definition: extravagantly demonstrative", "Synonyms: effusive, gushing"]}
+{"data": ["2021-05-28T12:52:59.889996+00:00", 890, "Your mother is", "biographical", "Pronunciation: /\u02ccba\u026a\u0259\u02c8gr\u00e6f\u026ak\u0259l/", "Definition: of or relating to or being biography", "Synonyms: biographic"]}
