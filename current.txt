@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T05:22:59.444072+00:00", 845, "Your mother is", "chestnut", "Pronunciation: /\u02c8\u02a7\u025bs\u02ccn\u0259t/", "Definition: (of hair or feathers) of a golden brown to reddish brown color", ""]}
+{"data": ["2021-05-28T05:32:59.452929+00:00", 846, "Your mother is", "sparkly", "Pronunciation: /\u02c8sp\u0251rkli/", "Definition: marked by high spirits or excitement", "Synonyms: bubbling, effervescent, frothy, scintillating"]}
