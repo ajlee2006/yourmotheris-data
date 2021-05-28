@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T06:42:59.888687+00:00", 853, "Your mother is", "slain", "Pronunciation: /sle\u026an/", "Definition: killed; `slain' is formal or literary as in", ""]}
+{"data": ["2021-05-28T06:52:59.579567+00:00", 854, "Your mother is", "rectified", "Pronunciation: /\u02c8r\u025bkt\u028c\u02ccfa\u026ad/", "Definition: having been put right", ""]}
