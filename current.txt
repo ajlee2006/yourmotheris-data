@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T15:12:59.918357+00:00", 904, "Your mother is", "unpromising", "Pronunciation: /\u0259n\u02c8pr\u0251m\u026as\u026a\u014b/", "Definition: unlikely to bring about favorable results or enjoyment", ""]}
+{"data": ["2021-05-28T15:22:59.704613+00:00", 905, "Your mother is", "philistine", "Pronunciation: /\u02c8f\u026al\u026a\u02ccsta\u026an/", "Definition: smug and ignorant and indifferent or hostile to artistic and cultural values", "Synonyms: anti-intellectual"]}
