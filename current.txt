@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T10:52:59.699402+00:00", 878, "Your mother is", "dry-eyed", "Pronunciation: /dra\u026a-a\u026ad/", "Definition: free from tears", "Synonyms: tearless"]}
+{"data": ["2021-05-28T11:02:59.567097+00:00", 879, "Your mother is", "afferent", "Pronunciation: /\u02c8\u00e6f\u0259r\u0259nt/", "Definition: of nerves and nerve impulses; conveying sensory information from the sense organs to the CNS", ""]}
