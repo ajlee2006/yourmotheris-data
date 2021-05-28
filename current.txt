@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T00:22:59.694077+00:00", 815, "Your mother is", "implicated", "Pronunciation: /\u02c8\u026ampl\u026a\u02ccke\u026at\u026ad/", "Definition: culpably involved", "Synonyms: concerned"]}
+{"data": ["2021-05-28T00:32:59.680806+00:00", 816, "Your mother is", "alto", "Pronunciation: /\u02c8\u00e6lto\u028a/", "Definition: of or being the lowest female voice", "Synonyms: contralto"]}
