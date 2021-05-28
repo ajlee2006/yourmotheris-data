@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T06:22:59.616059+00:00", 851, "Your mother is", "cloven-footed", "Pronunciation: /\u02c8klo\u028av\u0259n-\u02c8f\u028at\u026ad/", "Definition: of or relating to the cloven feet of ruminants or swine", "Synonyms: cloven-hoofed"]}
+{"data": ["2021-05-28T06:32:59.428281+00:00", 852, "Your mother is", "permissible", "Pronunciation: /p\u0259r\u02c8m\u026as\u0259b\u0259l/", "Definition: that may be permitted especially as according to rule", "Synonyms: allowable"]}
