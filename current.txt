@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T09:32:59.544956+00:00", 870, "Your mother is", "equivocal", "Pronunciation: /\u026a\u02c8kw\u026av\u0259k\u0259l/", "Definition: open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead", "Synonyms: ambiguous"]}
+{"data": ["2021-05-28T09:42:59.559338+00:00", 871, "Your mother is", "sold", "Pronunciation: /so\u028ald/", "Definition: disposed of to a purchaser", ""]}
