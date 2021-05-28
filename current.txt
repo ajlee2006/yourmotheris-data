@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T15:32:59.597326+00:00", 906, "Your mother is", "clueless", "Pronunciation: /\u02c8klul\u025bs/", "Definition: totally uninformed about what is going on; not having even a clue from which to infer what is occurring", ""]}
+{"data": ["2021-05-28T15:42:59.618251+00:00", 907, "Your mother is", "tired of", "Similar to: displeased", "Definition: having a strong distaste from surfeit", "Synonyms: disgusted, fed up, sick, sick of"]}
