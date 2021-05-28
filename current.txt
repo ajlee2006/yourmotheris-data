@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T07:32:59.581244+00:00", 858, "Your mother is", "beloved", "Pronunciation: /b\u026a\u02c8l\u0259v\u026ad/", "Definition: dearly loved", "Synonyms: darling, dear"]}
+{"data": ["2021-05-28T07:42:59.702994+00:00", 859, "Your mother is", "disarrayed", "Similar to: disarranged", "Definition: in disarray", ""]}
