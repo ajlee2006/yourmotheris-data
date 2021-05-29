@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T15:32:26.618383+00:00", 1049, "Your mother is", "crafty", "Pronunciation: /\u02c8kr\u00e6fti/", "Definition: marked by skill in deception", "Synonyms: cunning, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily"]}
+{"data": ["2021-05-29T15:42:26.458920+00:00", 1050, "Your mother is", "aglow", "Pronunciation: /\u0259glo\u028a/", "Definition: softly bright or radiant", "Synonyms: lambent, lucent, luminous"]}
