@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T06:02:26.421272+00:00", 992, "Your mother is", "intoned", "Pronunciation: /\u026an\u02c8to\u028and/", "Definition: uttered in a monotonous cadence or rhythm as in chanting", "Synonyms: chantlike, singsong"]}
+{"data": ["2021-05-29T06:12:26.812823+00:00", 993, "Your mother is", "prepacked", "Similar to: packaged", "Definition: prepared and wrapped beforehand and ready for sale", "Synonyms: prepackaged"]}
