@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T03:22:26.401438+00:00", 976, "Your mother is", "parliamentary", "Pronunciation: /\u02ccp\u0251rl\u0259\u02c8m\u025bnt\u0259ri/", "Definition: having the supreme legislative power resting with a body of cabinet ministers chosen from and responsible to the legislature or parliament", ""]}
+{"data": ["2021-05-29T03:32:26.726386+00:00", 977, "Your mother is", "terror-struck", "Pronunciation: /\u02c8t\u025br\u0259r-str\u0259k/", "Definition: struck or filled with terror", "Synonyms: terror-stricken"]}
