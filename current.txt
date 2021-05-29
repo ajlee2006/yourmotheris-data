@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T04:22:26.430074+00:00", 982, "Your mother is", "expressive", "Pronunciation: /\u026ak\u02c8spr\u025bs\u026av/", "Definition: characterized by expression", ""]}
+{"data": ["2021-05-29T04:32:26.516924+00:00", 983, "Your mother is", "pastoral", "Pronunciation: /\u02c8p\u00e6st\u0259r\u0259l/", "Definition: (used with regard to idealized country life) idyllically rustic", "Synonyms: arcadian, bucolic"]}
