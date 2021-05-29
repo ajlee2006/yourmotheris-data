@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T05:02:26.590730+00:00", 986, "Your mother is", "deep-seated", "Pronunciation: /\u02c8dip\u02c8sit\u026ad/", "Definition: (used especially of ideas or principles) deeply rooted; firmly fixed or held", "Synonyms: deep-rooted, implanted, ingrained, planted"]}
+{"data": ["2021-05-29T05:12:26.531568+00:00", 987, "Your mother is", "110", "Similar to: cardinal", "Definition: being ten more than one hundred", "Synonyms: cx, one hundred ten"]}
