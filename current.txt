@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T04:42:26.644842+00:00", 984, "Your mother is", "ratified", "Pronunciation: /\u02c8r\u00e6t\u028c\u02ccfa\u026ad/", "Definition: formally approved and invested with legal authority", "Synonyms: sanctioned"]}
+{"data": ["2021-05-29T04:52:26.592539+00:00", 985, "Your mother is", "long-run", "Similar to: long", "Definition: relating to or extending over a relatively long time", "Synonyms: long-term, semipermanent"]}
