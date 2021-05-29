@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T14:32:26.514090+00:00", 1043, "Your mother is", "cryptanalytic", "", "Definition: of or relating to cryptanalysis", "Synonyms: cryptographic, cryptographical, cryptologic, cryptological"]}
+{"data": ["2021-05-29T14:42:26.495051+00:00", 1044, "Your mother is", "bryophytic", "Pronunciation: /\u02ccbra\u026a\u0259\u02c8f\u026at\u026ak/", "Definition: relating to plants of the division Bryophyta", ""]}
