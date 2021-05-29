@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T03:02:27.766193+00:00", 974, "Your mother is", "300th", "Similar to: ordinal", "Definition: the ordinal number of three hundred in counting order", "Synonyms: three-hundredth"]}
+{"data": ["2021-05-29T03:12:28.764622+00:00", 975, "Your mother is", "annelidan", "Pronunciation: /\u0259\u02c8n\u025bl\u026ad\u0259n/", "Definition: relating to or belonging to or characteristic of any worms of the phylum Annelida", "Synonyms: annelid"]}
