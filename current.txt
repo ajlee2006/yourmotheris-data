@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T23:19:45.889281+00:00", 1095, "Your mother is", "hurtful", "Pronunciation: /\u02c8h\u025crtf\u0259l/", "Definition: harmful to living things", "Synonyms: deleterious, injurious"]}
+{"data": ["2021-05-29T23:29:45.911372+00:00", 1096, "Your mother is", "resplendent", "Pronunciation: /ri\u02c8spl\u025bnd\u0259nt/", "Definition: having great beauty and splendor", "Synonyms: glorious, splendid, splendiferous"]}
