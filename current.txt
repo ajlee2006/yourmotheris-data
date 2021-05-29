@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T02:52:26.428931+00:00", 973, "Your mother is", "waggish", "Pronunciation: /\u02c8w\u00e6\u0261\u026a\u0283/", "Definition: witty or joking", ""]}
+{"data": ["2021-05-29T03:02:27.766193+00:00", 974, "Your mother is", "300th", "Similar to: ordinal", "Definition: the ordinal number of three hundred in counting order", "Synonyms: three-hundredth"]}
