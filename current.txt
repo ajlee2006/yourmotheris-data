@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T09:52:26.391113+00:00", 1015, "Your mother is", "moneyed", "Pronunciation: /\u02c8m\u0259nid/", "Definition: having an abundant supply of money or possessions of value", "Synonyms: affluent, flush, loaded, substantial, wealthy"]}
+{"data": ["2021-05-29T10:02:26.475043+00:00", 1016, "Your mother is", "greedy", "Pronunciation: /\u02c8gridi/", "Definition: (often followed by `for') ardently or excessively desirous", "Synonyms: avid, devouring, esurient"]}
