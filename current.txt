@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T14:52:26.433430+00:00", 1045, "Your mother is", "sound asleep", "Pronunciation: /sa\u028and-\u0259\u02c8slip/", "Definition: sleeping deeply", "Synonyms: fast asleep"]}
+{"data": ["2021-05-29T15:02:26.484041+00:00", 1046, "Your mother is", "staid", "Pronunciation: /ste\u026ad/", "Definition: characterized by dignity and propriety", "Synonyms: sedate"]}
