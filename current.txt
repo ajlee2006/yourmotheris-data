@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T00:42:26.589201+00:00", 960, "Your mother is", "lateral", "Pronunciation: /\u02c8l\u00e6t\u0259r\u0259l/", "Definition: situated at or extending to the side", "Synonyms: sidelong"]}
+{"data": ["2021-05-29T00:52:26.449877+00:00", 961, "Your mother is", "undutiful", "Pronunciation: /\u0259n\u02c8djut\u026a\u02ccf\u028al/", "Definition: lacking due respect or dutifulness", "Synonyms: impious"]}
