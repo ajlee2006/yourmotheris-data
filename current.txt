@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T14:22:26.482379+00:00", 1042, "Your mother is", "treeless", "Pronunciation: /\u02c8tril\u028cs/", "Definition: not wooded", "Synonyms: unwooded"]}
+{"data": ["2021-05-29T14:32:26.514090+00:00", 1043, "Your mother is", "cryptanalytic", "", "Definition: of or relating to cryptanalysis", "Synonyms: cryptographic, cryptographical, cryptologic, cryptological"]}
