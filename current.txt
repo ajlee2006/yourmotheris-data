@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T09:02:26.474190+00:00", 1010, "Your mother is", "slender-waisted", "Similar to: lean", "Definition: having a small waist", "Synonyms: slim-waisted, wasp-waisted"]}
+{"data": ["2021-05-29T09:12:26.422744+00:00", 1011, "Your mother is", "fallacious", "Pronunciation: /f\u0259\u02c8le\u026a\u0283\u0259s/", "Definition: intended to deceive", "Synonyms: deceitful, fraudulent"]}
