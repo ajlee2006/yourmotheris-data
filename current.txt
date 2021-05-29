@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T07:02:26.445763+00:00", 998, "Your mother is", "broad-minded", "Pronunciation: /\u02c8br\u0254d\u02c8ma\u026and\u026ad/", "Definition: incapable of being shocked", "Synonyms: unshockable"]}
+{"data": ["2021-05-29T07:12:26.453316+00:00", 999, "Your mother is", "subjugable", "Pronunciation: /\u02c8s\u0259bd\u0292\u0259\u0261\u0259b\u0259l/", "Definition: susceptible to being subjugated", "Synonyms: subduable"]}
