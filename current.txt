@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T12:52:26.451010+00:00", 1033, "Your mother is", "unconcealed", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8sild/", "Definition: not concealed or hidden", ""]}
+{"data": ["2021-05-29T13:02:26.498914+00:00", 1034, "Your mother is", "carunculated", "", "Definition: having a caruncle", "Synonyms: carunculate"]}
