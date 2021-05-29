@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T22:29:45.924480+00:00", 1090, "Your mother is", "dust-covered", "Pronunciation: /d\u0259st-\u02c8k\u0259v\u0259rd/", "Definition: covered with a layer of dust", "Synonyms: dusty"]}
+{"data": ["2021-05-29T22:39:46.264533+00:00", 1091, "Your mother is", "unverifiable", "Pronunciation: /\u0259n\u02c8v\u025bri\u02ccfa\u026a\u0259b\u0259l/", "Definition: (of e.g. evidence) not objective or easily verified", "Synonyms: unobjective"]}
