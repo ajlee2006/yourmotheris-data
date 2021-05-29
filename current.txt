@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T10:22:26.451178+00:00", 1018, "Your mother is", "dark-brown", "Similar to: chromatic", "Definition: of a color similar to that of wood or earth", "Synonyms: brown, brownish, chocolate-brown"]}
+{"data": ["2021-05-29T10:32:26.398397+00:00", 1019, "Your mother is", "gravid", "Pronunciation: /\u02c8gr\u00e6v\u026ad/", "Definition: in an advanced stage of pregnancy", "Synonyms: big, enceinte, expectant, great, heavy, large, with child"]}
