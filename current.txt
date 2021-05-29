@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T07:42:26.467159+00:00", 1002, "Your mother is", "cavalier", "Pronunciation: /\u02cck\u00e6v\u0259\u02c8lir/", "Definition: given to haughty disregard of others", "Synonyms: high-handed"]}
+{"data": ["2021-05-29T07:52:26.398493+00:00", 1003, "Your mother is", "inutile", "Pronunciation: /\u026an\u02c8jut\u026al/", "Definition: not worth using", ""]}
