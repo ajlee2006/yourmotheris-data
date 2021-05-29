@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T07:12:26.453316+00:00", 999, "Your mother is", "subjugable", "Pronunciation: /\u02c8s\u0259bd\u0292\u0259\u0261\u0259b\u0259l/", "Definition: susceptible to being subjugated", "Synonyms: subduable"]}
+{"data": ["2021-05-29T07:22:26.498759+00:00", 1000, "Your mother is", "amnionic", "", "Definition: of or related to the amnion or characterized by developing an amnion", "Synonyms: amnic, amniotic"]}
