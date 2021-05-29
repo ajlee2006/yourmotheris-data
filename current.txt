@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T20:29:45.968916+00:00", 1078, "Your mother is", "unlobed", "Similar to: simple", "Definition: without lobes", ""]}
+{"data": ["2021-05-29T20:39:45.903822+00:00", 1079, "Your mother is", "dorsal", "Pronunciation: /\u02c8d\u0254rs\u0259l/", "Definition: facing away from the axis of an organ or organism", "Synonyms: abaxial"]}
