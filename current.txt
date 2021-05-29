@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T11:02:26.472513+00:00", 1022, "Your mother is", "unbeknown", "Pronunciation: /\u02cc\u0259nb\u026a\u02c8no\u028an/", "Definition: (usually used with `to') occurring or existing without the knowledge of", "Synonyms: unbeknownst"]}
+{"data": ["2021-05-29T11:12:26.542856+00:00", 1023, "Your mother is", "amoeboid", "Pronunciation: /\u0259\u02c8mib\u0254\u026ad/", "Definition: like an amoeba (especially in having a variable irregular shape)", "Synonyms: ameboid"]}
