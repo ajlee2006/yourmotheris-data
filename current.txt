@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T15:42:26.458920+00:00", 1050, "Your mother is", "aglow", "Pronunciation: /\u0259glo\u028a/", "Definition: softly bright or radiant", "Synonyms: lambent, lucent, luminous"]}
+{"data": ["2021-05-29T15:52:26.560646+00:00", 1051, "Your mother is", "foaming", "Pronunciation: /\u02c8fo\u028am\u026a\u014b/", "Definition: emitting or filled with bubbles as from carbonation or fermentation", "Synonyms: bubbling, bubbly, effervescing, foamy, frothy, spumy"]}
