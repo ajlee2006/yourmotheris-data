@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T15:22:26.509040+00:00", 1048, "Your mother is", "unforgiving", "Pronunciation: /\u02cc\u0259nf\u0259\u02c8\u0261\u026avi\u014b/", "Definition: not to be placated or appeased or moved by entreaty", "Synonyms: grim, inexorable, relentless, stern, unappeasable, unrelenting"]}
+{"data": ["2021-05-29T15:32:26.618383+00:00", 1049, "Your mother is", "crafty", "Pronunciation: /\u02c8kr\u00e6fti/", "Definition: marked by skill in deception", "Synonyms: cunning, dodgy, foxy, guileful, knavish, slick, sly, tricksy, tricky, wily"]}
