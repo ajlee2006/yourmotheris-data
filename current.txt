@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T03:12:28.764622+00:00", 975, "Your mother is", "annelidan", "Pronunciation: /\u0259\u02c8n\u025bl\u026ad\u0259n/", "Definition: relating to or belonging to or characteristic of any worms of the phylum Annelida", "Synonyms: annelid"]}
+{"data": ["2021-05-29T03:22:26.401438+00:00", 976, "Your mother is", "parliamentary", "Pronunciation: /\u02ccp\u0251rl\u0259\u02c8m\u025bnt\u0259ri/", "Definition: having the supreme legislative power resting with a body of cabinet ministers chosen from and responsible to the legislature or parliament", ""]}
