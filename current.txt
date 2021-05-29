@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T02:22:29.527923+00:00", 970, "Your mother is", "custom-built", "Pronunciation: /\u02c8k\u0259st\u0259m-b\u026alt/", "Definition: built for a particular individual", "Synonyms: made-to-order"]}
+{"data": ["2021-05-29T02:32:28.567453+00:00", 971, "Your mother is", "violet-blue", "Pronunciation: /\u02c8va\u026a\u0259l\u026at-blu/", "Definition: of blue tinged with lavender", "Synonyms: lilac-blue"]}
