@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T01:32:26.389012+00:00", 965, "Your mother is", "sanctified", "Pronunciation: /\u02c8s\u00e6\u014bkt\u0259\u02ccfa\u026ad/", "Definition: made or declared or believed to be holy; devoted to a deity or some religious ceremony or use", "Synonyms: consecrated, sacred"]}
+{"data": ["2021-05-29T01:42:26.423850+00:00", 966, "Your mother is", "monocotyledonous", "Pronunciation: /\u02ccm\u0251n\u0259\u02cck\u0251t\u02c8\u0259lid\u0259n\u0259s/", "Definition: (of a flowering plant) having a single cotyledon in the seed as in grasses and lilies", ""]}
