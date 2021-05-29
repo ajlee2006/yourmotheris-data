@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T22:19:45.919883+00:00", 1089, "Your mother is", "complaining", "Pronunciation: /k\u028cm\u02c8ple\u026an\u026a\u014b/", "Definition: expressing pain or dissatisfaction of resentment", "Synonyms: complaintive"]}
+{"data": ["2021-05-29T22:29:45.924480+00:00", 1090, "Your mother is", "dust-covered", "Pronunciation: /d\u0259st-\u02c8k\u0259v\u0259rd/", "Definition: covered with a layer of dust", "Synonyms: dusty"]}
