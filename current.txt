@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T08:02:26.468246+00:00", 1004, "Your mother is", "coltish", "Pronunciation: /\u02c8ko\u028alt\u026a\u0283/", "Definition: given to merry frolicking", "Synonyms: frolicky, frolicsome, rollicking, sportive"]}
+{"data": ["2021-05-29T08:12:26.420599+00:00", 1005, "Your mother is", "premeditated", "Pronunciation: /pri\u02c8m\u025bd\u028c\u02ccte\u026at\u026ad/", "Definition: characterized by deliberate purpose and some degree of planning", ""]}
