@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T04:32:26.516924+00:00", 983, "Your mother is", "pastoral", "Pronunciation: /\u02c8p\u00e6st\u0259r\u0259l/", "Definition: (used with regard to idealized country life) idyllically rustic", "Synonyms: arcadian, bucolic"]}
+{"data": ["2021-05-29T04:42:26.644842+00:00", 984, "Your mother is", "ratified", "Pronunciation: /\u02c8r\u00e6t\u028c\u02ccfa\u026ad/", "Definition: formally approved and invested with legal authority", "Synonyms: sanctioned"]}
