@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T00:12:26.459976+00:00", 957, "Your mother is", "polygenic", "Similar to: heritable", "Definition: of or relating to an inheritable character that is controlled by several genes at once; of or related to or determined by polygenes", ""]}
+{"data": ["2021-05-29T00:22:26.370224+00:00", 958, "Your mother is", "sheer", "Pronunciation: /\u0283ir/", "Definition: not mixed with extraneous elements", "Synonyms: plain, unmingled, unmixed"]}
