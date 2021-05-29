@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T03:52:26.443454+00:00", 979, "Your mother is", "dim", "Pronunciation: /d\u026am/", "Definition: lacking in light; not bright or harsh", "Synonyms: subdued"]}
+{"data": ["2021-05-29T04:02:26.637627+00:00", 980, "Your mother is", "cliquish", "Pronunciation: /\u02c8klik\u026a\u0283/", "Definition: befitting or characteristic of those who incline to social exclusiveness and who rebuff the advances of people considered inferior", "Synonyms: clannish, clubby, snobbish, snobby"]}
