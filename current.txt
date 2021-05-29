@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T08:22:26.508307+00:00", 1006, "Your mother is", "duteous", "Pronunciation: /\u02c8duti\u0259s/", "Definition: willingly obedient out of a sense of duty and respect", "Synonyms: dutiful"]}
+{"data": ["2021-05-29T08:32:26.486591+00:00", 1007, "Your mother is", "wan", "Pronunciation: /w\u0251n/", "Definition: abnormally deficient in color as suggesting physical or emotional distress", "Synonyms: pale, pallid"]}
