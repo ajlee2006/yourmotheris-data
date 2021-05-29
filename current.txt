@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T19:39:45.849539+00:00", 1073, "Your mother is", "cockamamie", "Pronunciation: /\u02cck\u0254k\u028c\u02c8me\u026ami/", "Definition: informal term for ridiculous and implausible", "Synonyms: cockamamy"]}
+{"data": ["2021-05-29T19:49:46.052022+00:00", 1074, "Your mother is", "prestigious", "Pronunciation: /pr\u025b\u02c8st\u026ad\u0292\u0259s/", "Definition: having an illustrious reputation; respected", "Synonyms: esteemed, honored"]}
