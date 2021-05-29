@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T05:32:26.705916+00:00", 989, "Your mother is", "charcoal-gray", "Pronunciation: /\u02c8\u02a7\u0251r\u02ccko\u028al-gre\u026a/", "Definition: of a very dark grey", "Synonyms: charcoal, charcoal-grey"]}
+{"data": ["2021-05-29T05:42:26.539028+00:00", 990, "Your mother is", "run-down", "Pronunciation: /r\u0259n-da\u028an/", "Definition: worn and broken down by hard use", "Synonyms: creaky, decrepit, derelict, flea-bitten, woebegone"]}
