@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T06:32:26.770420+00:00", 995, "Your mother is", "upfront", "Pronunciation: /\u0259p\u02c8fr\u0259nt/", "Definition: frank and honest", ""]}
+{"data": ["2021-05-29T06:42:26.502285+00:00", 996, "Your mother is", "unimposing", "Pronunciation: /\u02cc\u0259n\u026am\u02c8po\u028az\u026a\u014b/", "Definition: lacking in impressiveness", ""]}
