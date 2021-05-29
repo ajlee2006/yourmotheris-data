@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T06:42:26.502285+00:00", 996, "Your mother is", "unimposing", "Pronunciation: /\u02cc\u0259n\u026am\u02c8po\u028az\u026a\u014b/", "Definition: lacking in impressiveness", ""]}
+{"data": ["2021-05-29T06:52:26.443572+00:00", 997, "Your mother is", "inspired", "Pronunciation: /\u026an\u02c8spa\u026a\u0259rd/", "Definition: being of such surpassing excellence as to suggest inspiration by the gods", "Synonyms: divine, elysian"]}
