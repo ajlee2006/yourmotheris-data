@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T11:32:26.559152+00:00", 1025, "Your mother is", "goal-directed", "Similar to: purposeful", "Definition: having a purpose", "Synonyms: purposive"]}
+{"data": ["2021-05-29T11:42:26.480743+00:00", 1026, "Your mother is", "rosy", "Pronunciation: /\u02c8ro\u028azi/", "Definition: having the pinkish flush of health", "Synonyms: flushed, rose-cheeked, rosy-cheeked"]}
