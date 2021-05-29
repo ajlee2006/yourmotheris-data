@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T20:09:45.995764+00:00", 1076, "Your mother is", "culpable", "Pronunciation: /\u02c8k\u0259lp\u0259b\u0259l/", "Definition: deserving blame or censure as being wrong or evil or injurious", "Synonyms: blamable, blameable, blameful, blameworthy, censurable"]}
+{"data": ["2021-05-29T20:19:45.959064+00:00", 1077, "Your mother is", "exacting", "Pronunciation: /\u026a\u0261\u02c8z\u00e6kt\u026a\u014b/", "Definition: requiring precise accuracy", "Synonyms: exigent"]}
