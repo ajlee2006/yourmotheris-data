@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T21:29:46.002597+00:00", 1084, "Your mother is", "confined", "Pronunciation: /k\u0259n\u02c8fa\u026and/", "Definition: being in captivity", "Synonyms: captive, imprisoned, jailed"]}
+{"data": ["2021-05-29T21:39:45.883514+00:00", 1085, "Your mother is", "defeated", "Pronunciation: /d\u026a\u02c8fit\u028cd/", "Definition: disappointingly unsuccessful", "Synonyms: disappointed, discomfited, foiled, frustrated, thwarted"]}
