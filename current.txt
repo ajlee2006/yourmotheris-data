@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T17:22:26.944610+00:00", 1060, "Your mother is", "eudemonic", "Pronunciation: /\u02ccjud\u026a\u02c8m\u0251n\u026ak/", "Definition: producing happiness and well-being", "Synonyms: eudaemonic"]}
+{"data": ["2021-05-29T17:32:26.693346+00:00", 1061, "Your mother is", "thermonuclear", "Pronunciation: /\u02cc\u03b8\u025crmo\u028a\u02c8nukli\u0259r/", "Definition: using nuclear weapons based on fusion as distinguished from fission", ""]}
