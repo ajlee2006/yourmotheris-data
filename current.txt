@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T02:32:28.567453+00:00", 971, "Your mother is", "violet-blue", "Pronunciation: /\u02c8va\u026a\u0259l\u026at-blu/", "Definition: of blue tinged with lavender", "Synonyms: lilac-blue"]}
+{"data": ["2021-05-29T02:42:26.472675+00:00", 972, "Your mother is", "starving", "Pronunciation: /\u02c8st\u0251rv\u026a\u014b/", "Definition: suffering from lack of food", "Synonyms: starved"]}
