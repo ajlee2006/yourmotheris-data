@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T18:12:26.573873+00:00", 1065, "Your mother is", "denary", "Pronunciation: /\u02c8d\u025bn\u0259ri/", "Definition: containing ten or ten parts", "Synonyms: ten-fold, tenfold"]}
+{"data": ["2021-05-29T18:22:26.504367+00:00", 1066, "Your mother is", "subhuman", "Pronunciation: /s\u0259b\u02c8hjum\u0259n/", "Definition: less than human or not worthy of a human being", ""]}
