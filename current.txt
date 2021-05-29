@@ -1,1 +1,1 @@
-{"data": ["2021-05-28T23:52:26.549770+00:00", 955, "Your mother is", "well-intentioned", "Pronunciation: /\u02c8w\u025bl-\u026an\u02c8t\u025bn\u0283\u0259nd/", "Definition: marked by good intentions though often producing unfortunate results", "Synonyms: well-meaning, well-meant"]}
+{"data": ["2021-05-29T00:02:26.516366+00:00", 956, "Your mother is", "leading", "Pronunciation: /\u02c8l\u025bd\u026a\u014b/", "Definition: indicating the most important performer or role", "Synonyms: prima, star, starring, stellar"]}
