@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T15:52:26.560646+00:00", 1051, "Your mother is", "foaming", "Pronunciation: /\u02c8fo\u028am\u026a\u014b/", "Definition: emitting or filled with bubbles as from carbonation or fermentation", "Synonyms: bubbling, bubbly, effervescing, foamy, frothy, spumy"]}
+{"data": ["2021-05-29T16:02:26.641305+00:00", 1052, "Your mother is", "horned", "Pronunciation: /h\u0254rnd/", "Definition: having a horn or horns or hornlike parts or horns of a particular kind", ""]}
