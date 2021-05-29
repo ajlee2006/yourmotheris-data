@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T10:32:26.398397+00:00", 1019, "Your mother is", "gravid", "Pronunciation: /\u02c8gr\u00e6v\u026ad/", "Definition: in an advanced stage of pregnancy", "Synonyms: big, enceinte, expectant, great, heavy, large, with child"]}
+{"data": ["2021-05-29T10:42:26.538191+00:00", 1020, "Your mother is", "imaginative", "Pronunciation: /\u026a\u02c8m\u00e6d\u0292\u0259n\u0259t\u026av/", "Definition: (used of persons or artifacts) marked by independence and creativity in thought or action", "Synonyms: inventive"]}
