@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T19:59:45.955378+00:00", 1075, "Your mother is", "provable", "Pronunciation: /\u02c8pruv\u028cb\u028cl/", "Definition: capable of being demonstrated or proved", "Synonyms: demonstrable"]}
+{"data": ["2021-05-29T20:09:45.995764+00:00", 1076, "Your mother is", "culpable", "Pronunciation: /\u02c8k\u0259lp\u0259b\u0259l/", "Definition: deserving blame or censure as being wrong or evil or injurious", "Synonyms: blamable, blameable, blameful, blameworthy, censurable"]}
