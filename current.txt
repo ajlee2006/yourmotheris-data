@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T01:42:26.423850+00:00", 966, "Your mother is", "monocotyledonous", "Pronunciation: /\u02ccm\u0251n\u0259\u02cck\u0251t\u02c8\u0259lid\u0259n\u0259s/", "Definition: (of a flowering plant) having a single cotyledon in the seed as in grasses and lilies", ""]}
+{"data": ["2021-05-29T01:52:26.558104+00:00", 967, "Your mother is", "whorled", "Pronunciation: /hw\u025crld/", "Definition: forming one or more whorls (especially a whorl of leaves around a stem)", "Synonyms: verticillate, verticillated"]}
