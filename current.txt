@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T14:42:26.495051+00:00", 1044, "Your mother is", "bryophytic", "Pronunciation: /\u02ccbra\u026a\u0259\u02c8f\u026at\u026ak/", "Definition: relating to plants of the division Bryophyta", ""]}
+{"data": ["2021-05-29T14:52:26.433430+00:00", 1045, "Your mother is", "sound asleep", "Pronunciation: /sa\u028and-\u0259\u02c8slip/", "Definition: sleeping deeply", "Synonyms: fast asleep"]}
