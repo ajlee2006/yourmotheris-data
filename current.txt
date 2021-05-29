@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T11:22:27.006294+00:00", 1024, "Your mother is", "unrealizable", "Pronunciation: /\u0259n\u02c8ri\u0259\u02ccla\u026az\u0259b\u0259l/", "Definition: impossible to achieve", "Synonyms: unachievable, unattainable, undoable"]}
+{"data": ["2021-05-29T11:32:26.559152+00:00", 1025, "Your mother is", "goal-directed", "Similar to: purposeful", "Definition: having a purpose", "Synonyms: purposive"]}
