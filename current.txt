@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T11:52:26.514467+00:00", 1027, "Your mother is", "vacant", "Pronunciation: /\u02c8ve\u026ak\u0259nt/", "Definition: void of intelligence or thought", ""]}
+{"data": ["2021-05-29T12:02:26.800383+00:00", 1028, "Your mother is", "diatonic", "Pronunciation: /\u02ccda\u026a\u0259\u02c8t\u0251n\u026ak/", "Definition: based on or using the five tones and two semitones of the major or minor scales of western music", ""]}
