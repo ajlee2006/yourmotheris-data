@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T02:12:26.465825+00:00", 969, "Your mother is", "idolized", "Pronunciation: /\u02c8a\u026ad\u028c\u02ccla\u026azd/", "Definition: regarded with deep or rapturous love (especially as if for a god)", "Synonyms: adored, idolised, worshipped"]}
+{"data": ["2021-05-29T02:22:29.527923+00:00", 970, "Your mother is", "custom-built", "Pronunciation: /\u02c8k\u0259st\u0259m-b\u026alt/", "Definition: built for a particular individual", "Synonyms: made-to-order"]}
