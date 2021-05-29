@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T21:39:45.883514+00:00", 1085, "Your mother is", "defeated", "Pronunciation: /d\u026a\u02c8fit\u028cd/", "Definition: disappointingly unsuccessful", "Synonyms: disappointed, discomfited, foiled, frustrated, thwarted"]}
+{"data": ["2021-05-29T21:49:45.857720+00:00", 1086, "Your mother is", "confirmed", "Pronunciation: /k\u0259n\u02c8f\u025crmd/", "Definition: having been established or made firm or received the rite of confirmation", ""]}
