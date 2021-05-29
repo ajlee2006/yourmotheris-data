@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T15:12:26.424113+00:00", 1047, "Your mother is", "ninety-nine", "Pronunciation: /\u02c8na\u026anti-na\u026an/", "Definition: being one less than one hundred and nine more than ninety", "Synonyms: 99, ic"]}
+{"data": ["2021-05-29T15:22:26.509040+00:00", 1048, "Your mother is", "unforgiving", "Pronunciation: /\u02cc\u0259nf\u0259\u02c8\u0261\u026avi\u014b/", "Definition: not to be placated or appeased or moved by entreaty", "Synonyms: grim, inexorable, relentless, stern, unappeasable, unrelenting"]}
