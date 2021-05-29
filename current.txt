@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T10:12:26.772919+00:00", 1017, "Your mother is", "geomorphological", "Pronunciation: /\u02ccd\u0292i\u0259\u02ccm\u0254rph\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: pertaining to geological structure", "Synonyms: geomorphologic, morphologic, morphological, structural"]}
+{"data": ["2021-05-29T10:22:26.451178+00:00", 1018, "Your mother is", "dark-brown", "Similar to: chromatic", "Definition: of a color similar to that of wood or earth", "Synonyms: brown, brownish, chocolate-brown"]}
