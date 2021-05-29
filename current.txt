@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T20:19:45.959064+00:00", 1077, "Your mother is", "exacting", "Pronunciation: /\u026a\u0261\u02c8z\u00e6kt\u026a\u014b/", "Definition: requiring precise accuracy", "Synonyms: exigent"]}
+{"data": ["2021-05-29T20:29:45.968916+00:00", 1078, "Your mother is", "unlobed", "Similar to: simple", "Definition: without lobes", ""]}
