@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T18:22:26.504367+00:00", 1066, "Your mother is", "subhuman", "Pronunciation: /s\u0259b\u02c8hjum\u0259n/", "Definition: less than human or not worthy of a human being", ""]}
+{"data": ["2021-05-29T18:32:26.472249+00:00", 1067, "Your mother is", "on the button", "Similar to: precise", "Definition: being precise with regard to a prescribed or specified criterion", "Synonyms: on the nose"]}
