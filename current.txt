@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T10:52:26.452618+00:00", 1021, "Your mother is", "vague", "Pronunciation: /ve\u026a\u0261/", "Definition: not clearly expressed or understood", "Synonyms: obscure"]}
+{"data": ["2021-05-29T11:02:26.472513+00:00", 1022, "Your mother is", "unbeknown", "Pronunciation: /\u02cc\u0259nb\u026a\u02c8no\u028an/", "Definition: (usually used with `to') occurring or existing without the knowledge of", "Synonyms: unbeknownst"]}
