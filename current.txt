@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T16:12:26.564871+00:00", 1053, "Your mother is", "actinometric", "Pronunciation: /\u02cc\u00e6kt\u0259no\u028a\u02c8m\u025btr\u026ak/", "Definition: of or related to actinometry", "Synonyms: actinometrical"]}
+{"data": ["2021-05-29T16:22:26.804649+00:00", 1054, "Your mother is", "required", "Pronunciation: /ri\u02c8kwa\u026a\u025drd/", "Definition: required by rule", "Synonyms: compulsory, mandatory"]}
