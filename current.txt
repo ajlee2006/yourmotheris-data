@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T22:49:46.007760+00:00", 1092, "Your mother is", "taiwanese", "Pronunciation: /\u02ccta\u026aw\u0251\u02c8niz/", "Definition: of or relating to or characteristic of the island republic on Taiwan or its residents or their language", "Synonyms: chinese, formosan"]}
+{"data": ["2021-05-29T22:59:45.871143+00:00", 1093, "Your mother is", "overweening", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8win\u026a\u014b/", "Definition: unrestrained, especially with regard to feelings", "Synonyms: excessive, extravagant, exuberant"]}
