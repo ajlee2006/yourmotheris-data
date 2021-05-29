@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T05:42:26.539028+00:00", 990, "Your mother is", "run-down", "Pronunciation: /r\u0259n-da\u028an/", "Definition: worn and broken down by hard use", "Synonyms: creaky, decrepit, derelict, flea-bitten, woebegone"]}
+{"data": ["2021-05-29T05:52:26.477589+00:00", 991, "Your mother is", "slaveholding", "Similar to: unfree", "Definition: allowing slavery", ""]}
