@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T19:49:46.052022+00:00", 1074, "Your mother is", "prestigious", "Pronunciation: /pr\u025b\u02c8st\u026ad\u0292\u0259s/", "Definition: having an illustrious reputation; respected", "Synonyms: esteemed, honored"]}
+{"data": ["2021-05-29T19:59:45.955378+00:00", 1075, "Your mother is", "provable", "Pronunciation: /\u02c8pruv\u028cb\u028cl/", "Definition: capable of being demonstrated or proved", "Synonyms: demonstrable"]}
