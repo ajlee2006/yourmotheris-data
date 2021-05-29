@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T10:42:26.538191+00:00", 1020, "Your mother is", "imaginative", "Pronunciation: /\u026a\u02c8m\u00e6d\u0292\u0259n\u0259t\u026av/", "Definition: (used of persons or artifacts) marked by independence and creativity in thought or action", "Synonyms: inventive"]}
+{"data": ["2021-05-29T10:52:26.452618+00:00", 1021, "Your mother is", "vague", "Pronunciation: /ve\u026a\u0261/", "Definition: not clearly expressed or understood", "Synonyms: obscure"]}
