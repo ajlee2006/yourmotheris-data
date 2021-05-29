@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T20:39:45.903822+00:00", 1079, "Your mother is", "dorsal", "Pronunciation: /\u02c8d\u0254rs\u0259l/", "Definition: facing away from the axis of an organ or organism", "Synonyms: abaxial"]}
+{"data": ["2021-05-29T20:49:46.048899+00:00", 1080, "Your mother is", "corporeal", "Pronunciation: /k\u0254r\u02c8po\u028ari\u0259l/", "Definition: affecting or characteristic of the body as opposed to the mind or spirit", "Synonyms: bodily, corporal, somatic"]}
