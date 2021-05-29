@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T09:42:26.521059+00:00", 1014, "Your mother is", "bouldery", "Similar to: rough", "Definition: abounding in rocks or stones", "Synonyms: bouldered, rocky, stony"]}
+{"data": ["2021-05-29T09:52:26.391113+00:00", 1015, "Your mother is", "moneyed", "Pronunciation: /\u02c8m\u0259nid/", "Definition: having an abundant supply of money or possessions of value", "Synonyms: affluent, flush, loaded, substantial, wealthy"]}
