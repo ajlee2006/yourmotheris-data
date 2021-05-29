@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T20:49:46.048899+00:00", 1080, "Your mother is", "corporeal", "Pronunciation: /k\u0254r\u02c8po\u028ari\u0259l/", "Definition: affecting or characteristic of the body as opposed to the mind or spirit", "Synonyms: bodily, corporal, somatic"]}
+{"data": ["2021-05-29T20:59:45.897740+00:00", 1081, "Your mother is", "suffrutescent", "Similar to: woody", "Definition: of a plant; having a woody base that does not die down each year", ""]}
