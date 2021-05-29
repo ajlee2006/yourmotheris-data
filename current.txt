@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T13:32:26.500594+00:00", 1037, "Your mother is", "four-needled", "Similar to: simple", "Definition: (of conifers) having four needles", ""]}
+{"data": ["2021-05-29T13:42:26.616080+00:00", 1038, "Your mother is", "swift", "Pronunciation: /sw\u026aft/", "Definition: moving very fast", "Synonyms: fleet"]}
