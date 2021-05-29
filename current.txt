@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T09:22:26.483130+00:00", 1012, "Your mother is", "representative", "Pronunciation: /\u02ccr\u025bpr\u026a\u02c8z\u025bnt\u0259t\u026av/", "Definition: being or characteristic of government by representation in which citizens exercise power through elected officers and representatives", ""]}
+{"data": ["2021-05-29T09:32:26.550177+00:00", 1013, "Your mother is", "antipodal", "Pronunciation: /\u00e6n\u02c8t\u026ap\u0259d\u0259l/", "Definition: relating to the antipodes or situated at opposite sides of the earth", "Synonyms: antipodean"]}
