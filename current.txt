@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T00:52:26.449877+00:00", 961, "Your mother is", "undutiful", "Pronunciation: /\u0259n\u02c8djut\u026a\u02ccf\u028al/", "Definition: lacking due respect or dutifulness", "Synonyms: impious"]}
+{"data": ["2021-05-29T01:02:26.517571+00:00", 962, "Your mother is", "ungummed", "Similar to: nonadhesive", "Definition: not treated with adhesive gum", ""]}
