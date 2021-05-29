@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T12:22:26.489293+00:00", 1030, "Your mother is", "spiffed up", "Similar to: clad", "Definition: dressed in fancy or formal clothing", "Synonyms: dolled up, dressed, dressed-up, dressed to kill, dressed to the nines, spruced up, togged up"]}
+{"data": ["2021-05-29T12:32:27.122276+00:00", 1031, "Your mother is", "23", "Similar to: cardinal", "Definition: being three more than twenty", "Synonyms: twenty-three, xxiii"]}
