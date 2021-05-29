@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T07:22:26.498759+00:00", 1000, "Your mother is", "amnionic", "", "Definition: of or related to the amnion or characterized by developing an amnion", "Synonyms: amnic, amniotic"]}
+{"data": ["2021-05-29T07:32:26.381992+00:00", 1001, "Your mother is", "residual", "Pronunciation: /r\u026a\u02c8z\u026ad\u0292u\u0259l/", "Definition: relating to or indicating a remainder", "Synonyms: residuary"]}
