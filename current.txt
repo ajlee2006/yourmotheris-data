@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T08:52:26.780880+00:00", 1009, "Your mother is", "extradural", "", "Definition: on or outside the dura mater", "Synonyms: epidural"]}
+{"data": ["2021-05-29T09:02:26.474190+00:00", 1010, "Your mother is", "slender-waisted", "Similar to: lean", "Definition: having a small waist", "Synonyms: slim-waisted, wasp-waisted"]}
