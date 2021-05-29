@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T04:02:26.637627+00:00", 980, "Your mother is", "cliquish", "Pronunciation: /\u02c8klik\u026a\u0283/", "Definition: befitting or characteristic of those who incline to social exclusiveness and who rebuff the advances of people considered inferior", "Synonyms: clannish, clubby, snobbish, snobby"]}
+{"data": ["2021-05-29T04:12:26.620319+00:00", 981, "Your mother is", "avoidable", "Pronunciation: /\u028c\u02c8v\u0254\u026ad\u028cb\u028cl/", "Definition: capable of being avoided or warded off", "Synonyms: avertable, avertible, evitable"]}
