@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T23:29:45.911372+00:00", 1096, "Your mother is", "resplendent", "Pronunciation: /ri\u02c8spl\u025bnd\u0259nt/", "Definition: having great beauty and splendor", "Synonyms: glorious, splendid, splendiferous"]}
+{"data": ["2021-05-29T23:39:45.878199+00:00", 1097, "Your mother is", "intoxicated", "Pronunciation: /\u026an\u02c8t\u0251ks\u0259\u02ccke\u026at\u026ad/", "Definition: stupefied or excited by a chemical substance (especially alcohol)", "Synonyms: drunk, gone, inebriated, ripped"]}
