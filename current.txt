@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T13:52:26.439889+00:00", 1039, "Your mother is", "self-fertilized", "Similar to: autogamic", "Definition: fertilized by its own pollen", "Synonyms: self-fertilised, self-pollinated"]}
+{"data": ["2021-05-29T14:02:26.534587+00:00", 1040, "Your mother is", "140th", "Similar to: ordinal", "Definition: the ordinal number of one hundred forty in counting order", "Synonyms: hundred-and-fortieth"]}
