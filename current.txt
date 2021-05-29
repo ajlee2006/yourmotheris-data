@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T02:42:26.472675+00:00", 972, "Your mother is", "starving", "Pronunciation: /\u02c8st\u0251rv\u026a\u014b/", "Definition: suffering from lack of food", "Synonyms: starved"]}
+{"data": ["2021-05-29T02:52:26.428931+00:00", 973, "Your mother is", "waggish", "Pronunciation: /\u02c8w\u00e6\u0261\u026a\u0283/", "Definition: witty or joking", ""]}
