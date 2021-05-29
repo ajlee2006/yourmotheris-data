@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T12:02:26.800383+00:00", 1028, "Your mother is", "diatonic", "Pronunciation: /\u02ccda\u026a\u0259\u02c8t\u0251n\u026ak/", "Definition: based on or using the five tones and two semitones of the major or minor scales of western music", ""]}
+{"data": ["2021-05-29T12:12:26.442252+00:00", 1029, "Your mother is", "cliched", "Pronunciation: /\u02c8kli\u0283e\u026ad/", "Definition: repeated regularly without thought or originality", "Synonyms: ready-made"]}
