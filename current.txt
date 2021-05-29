@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T08:12:26.420599+00:00", 1005, "Your mother is", "premeditated", "Pronunciation: /pri\u02c8m\u025bd\u028c\u02ccte\u026at\u026ad/", "Definition: characterized by deliberate purpose and some degree of planning", ""]}
+{"data": ["2021-05-29T08:22:26.508307+00:00", 1006, "Your mother is", "duteous", "Pronunciation: /\u02c8duti\u0259s/", "Definition: willingly obedient out of a sense of duty and respect", "Synonyms: dutiful"]}
