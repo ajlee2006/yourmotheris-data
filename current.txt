@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T08:32:26.486591+00:00", 1007, "Your mother is", "wan", "Pronunciation: /w\u0251n/", "Definition: abnormally deficient in color as suggesting physical or emotional distress", "Synonyms: pale, pallid"]}
+{"data": ["2021-05-29T08:42:26.538208+00:00", 1008, "Your mother is", "three-petaled", "Similar to: petalous", "Definition: (of flowers) having three petals", "Synonyms: three-petalled"]}
