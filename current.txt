@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T16:02:26.641305+00:00", 1052, "Your mother is", "horned", "Pronunciation: /h\u0254rnd/", "Definition: having a horn or horns or hornlike parts or horns of a particular kind", ""]}
+{"data": ["2021-05-29T16:12:26.564871+00:00", 1053, "Your mother is", "actinometric", "Pronunciation: /\u02cc\u00e6kt\u0259no\u028a\u02c8m\u025btr\u026ak/", "Definition: of or related to actinometry", "Synonyms: actinometrical"]}
