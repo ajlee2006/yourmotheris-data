@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T09:32:26.550177+00:00", 1013, "Your mother is", "antipodal", "Pronunciation: /\u00e6n\u02c8t\u026ap\u0259d\u0259l/", "Definition: relating to the antipodes or situated at opposite sides of the earth", "Synonyms: antipodean"]}
+{"data": ["2021-05-29T09:42:26.521059+00:00", 1014, "Your mother is", "bouldery", "Similar to: rough", "Definition: abounding in rocks or stones", "Synonyms: bouldered, rocky, stony"]}
