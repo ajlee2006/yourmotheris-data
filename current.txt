@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T13:22:26.456448+00:00", 1036, "Your mother is", "dabbled", "Pronunciation: /\u02c8d\u00e6b\u028cld/", "Definition: covered with bright patches (often used in combination)", "Synonyms: spattered, splashed, splattered"]}
+{"data": ["2021-05-29T13:32:26.500594+00:00", 1037, "Your mother is", "four-needled", "Similar to: simple", "Definition: (of conifers) having four needles", ""]}
