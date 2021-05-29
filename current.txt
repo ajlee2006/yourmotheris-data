@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T07:52:26.398493+00:00", 1003, "Your mother is", "inutile", "Pronunciation: /\u026an\u02c8jut\u026al/", "Definition: not worth using", ""]}
+{"data": ["2021-05-29T08:02:26.468246+00:00", 1004, "Your mother is", "coltish", "Pronunciation: /\u02c8ko\u028alt\u026a\u0283/", "Definition: given to merry frolicking", "Synonyms: frolicky, frolicsome, rollicking, sportive"]}
