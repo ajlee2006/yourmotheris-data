@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T21:09:45.905083+00:00", 1082, "Your mother is", "four-lobed", "Pronunciation: /fo\u028ar-lo\u028abd/", "Definition: having four lobes", ""]}
+{"data": ["2021-05-29T21:19:45.880035+00:00", 1083, "Your mother is", "cxlv", "Similar to: cardinal", "Definition: being five more than one hundred forty", "Synonyms: 145, one hundred forty-five"]}
