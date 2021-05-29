@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T03:42:27.989300+00:00", 978, "Your mother is", "inky", "Pronunciation: /\u02c8\u026a\u014bki/", "Definition: of the color of black ink", "Synonyms: ink-black, inky-black"]}
+{"data": ["2021-05-29T03:52:26.443454+00:00", 979, "Your mother is", "dim", "Pronunciation: /d\u026am/", "Definition: lacking in light; not bright or harsh", "Synonyms: subdued"]}
