@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T17:12:26.554600+00:00", 1059, "Your mother is", "sinister", "Pronunciation: /\u02c8s\u026an\u026ast\u0259r/", "Definition: stemming from evil characteristics or forces; wicked or dishonorable", "Synonyms: black, dark"]}
+{"data": ["2021-05-29T17:22:26.944610+00:00", 1060, "Your mother is", "eudemonic", "Pronunciation: /\u02ccjud\u026a\u02c8m\u0251n\u026ak/", "Definition: producing happiness and well-being", "Synonyms: eudaemonic"]}
