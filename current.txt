@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T05:52:26.477589+00:00", 991, "Your mother is", "slaveholding", "Similar to: unfree", "Definition: allowing slavery", ""]}
+{"data": ["2021-05-29T06:02:26.421272+00:00", 992, "Your mother is", "intoned", "Pronunciation: /\u026an\u02c8to\u028and/", "Definition: uttered in a monotonous cadence or rhythm as in chanting", "Synonyms: chantlike, singsong"]}
