@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T08:42:26.538208+00:00", 1008, "Your mother is", "three-petaled", "Similar to: petalous", "Definition: (of flowers) having three petals", "Synonyms: three-petalled"]}
+{"data": ["2021-05-29T08:52:26.780880+00:00", 1009, "Your mother is", "extradural", "", "Definition: on or outside the dura mater", "Synonyms: epidural"]}
