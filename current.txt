@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T00:22:26.370224+00:00", 958, "Your mother is", "sheer", "Pronunciation: /\u0283ir/", "Definition: not mixed with extraneous elements", "Synonyms: plain, unmingled, unmixed"]}
+{"data": ["2021-05-29T00:32:26.465976+00:00", 959, "Your mother is", "ill-favoured", "Pronunciation: /\u026al-\u02c8fe\u026av\u0259rd/", "Definition: usually used of a face", "Synonyms: ill-favored"]}
