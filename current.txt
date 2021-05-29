@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T07:32:26.381992+00:00", 1001, "Your mother is", "residual", "Pronunciation: /r\u026a\u02c8z\u026ad\u0292u\u0259l/", "Definition: relating to or indicating a remainder", "Synonyms: residuary"]}
+{"data": ["2021-05-29T07:42:26.467159+00:00", 1002, "Your mother is", "cavalier", "Pronunciation: /\u02cck\u00e6v\u0259\u02c8lir/", "Definition: given to haughty disregard of others", "Synonyms: high-handed"]}
