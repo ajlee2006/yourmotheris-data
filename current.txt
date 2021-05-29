@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T09:12:26.422744+00:00", 1011, "Your mother is", "fallacious", "Pronunciation: /f\u0259\u02c8le\u026a\u0283\u0259s/", "Definition: intended to deceive", "Synonyms: deceitful, fraudulent"]}
+{"data": ["2021-05-29T09:22:26.483130+00:00", 1012, "Your mother is", "representative", "Pronunciation: /\u02ccr\u025bpr\u026a\u02c8z\u025bnt\u0259t\u026av/", "Definition: being or characteristic of government by representation in which citizens exercise power through elected officers and representatives", ""]}
