@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T11:19:45.821780+00:00", 1167, "Your mother is", "homelike", "Pronunciation: /\u02c8ho\u028am\u02ccla\u026ak/", "Definition: having a feeling of home; cozy and comfortable", "Synonyms: homely, homey, homy"]}
+{"data": ["2021-05-30T11:29:45.891293+00:00", 1168, "Your mother is", "half-yearly", "Pronunciation: /h\u00e6f-\u02c8jirli/", "Definition: occurring or payable twice each year", "Synonyms: biannual, biyearly, semiannual"]}
