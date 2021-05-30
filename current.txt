@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T13:39:45.969862+00:00", 1181, "Your mother is", "pimpled", "Pronunciation: /\u02c8p\u026amp\u0259ld/", "Definition: (of complexion) blemished by imperfections of the skin", "Synonyms: acned, pimply, pustulate"]}
+{"data": ["2021-05-30T13:49:45.970127+00:00", 1182, "Your mother is", "shipboard", "Pronunciation: /\u02c8\u0283\u026ap\u02ccbo\u028ard/", "Definition: casual or ephemeral as if taking place on board a ship", ""]}
