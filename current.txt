@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T20:46:48.374345+00:00", 1223, "Your mother is", "dropping", "Pronunciation: /\u02c8dr\u0251p\u026a\u014b/", "Definition: coming down freely under the influence of gravity", "Synonyms: falling"]}
+{"data": ["2021-05-30T20:56:48.541458+00:00", 1224, "Your mother is", "artifactual", "", "Definition: of or relating to artifacts", "Synonyms: artefactual"]}
