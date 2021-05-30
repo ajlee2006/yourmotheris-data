@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T22:26:48.514761+00:00", 1233, "Your mother is", "ready and waiting", "Similar to: ready", "Definition: being and remaining ready and available for use", "Synonyms: waiting"]}
+{"data": ["2021-05-30T22:36:48.529819+00:00", 1234, "Your mother is", "nonmilitary", "Pronunciation: /n\u0251n\u02c8m\u026al\u028c\u02cct\u025bri/", "Definition: not associated with soldiers or the military", "Synonyms: unmilitary"]}
