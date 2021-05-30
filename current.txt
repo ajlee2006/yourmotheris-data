@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T08:19:46.140800+00:00", 1149, "Your mother is", "measureless", "Pronunciation: /\u02c8m\u025b\u0292\u0259l\u0259s/", "Definition: without limits in extent or size or quantity", "Synonyms: illimitable, limitless, unmeasured"]}
+{"data": ["2021-05-30T08:29:45.879982+00:00", 1150, "Your mother is", "unvarnished", "Pronunciation: /\u0259n\u02c8v\u0251rn\u026a\u0283t/", "Definition: free from any effort to soften to disguise", "Synonyms: plain"]}
