@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T22:36:48.529819+00:00", 1234, "Your mother is", "nonmilitary", "Pronunciation: /n\u0251n\u02c8m\u026al\u028c\u02cct\u025bri/", "Definition: not associated with soldiers or the military", "Synonyms: unmilitary"]}
+{"data": ["2021-05-30T22:46:48.456047+00:00", 1235, "Your mother is", "hindmost", "Pronunciation: /\u02c8ha\u026and\u02ccmo\u028ast/", "Definition: located farthest to the rear", "Synonyms: backmost, hindermost, rearmost"]}
