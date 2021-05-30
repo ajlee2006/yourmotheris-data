@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T05:39:45.800480+00:00", 1133, "Your mother is", "untold", "Pronunciation: /\u0259n\u02c8to\u028ald/", "Definition: too much to be measured", "Synonyms: incalculable"]}
+{"data": ["2021-05-30T05:49:45.832734+00:00", 1134, "Your mother is", "divorced", "Pronunciation: /d\u026a\u02c8v\u0254rst/", "Definition: of someone whose marriage has been legally dissolved", ""]}
