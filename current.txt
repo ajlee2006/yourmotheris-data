@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T14:39:45.850824+00:00", 1187, "Your mother is", "tiled", "Pronunciation: /ta\u026ald/", "Definition: covered or furnished with tiles", ""]}
+{"data": ["2021-05-30T14:49:45.929416+00:00", 1188, "Your mother is", "splattered", "Pronunciation: /\u02c8spl\u00e6t\u025drd/", "Definition: covered with bright patches (often used in combination)", "Synonyms: dabbled, spattered, splashed"]}
