@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T09:39:46.505002+00:00", 1157, "Your mother is", "demythologised", "Similar to: rational", "Definition: having mythical elements removed", "Synonyms: demythologized"]}
+{"data": ["2021-05-30T09:49:46.430418+00:00", 1158, "Your mother is", "pelecypod", "Pronunciation: /p\u0259\u02c8l\u025bs\u0259\u02ccp\u0251d/", "Definition: bivalve", "Synonyms: lamellibranch, pelecypodous"]}
