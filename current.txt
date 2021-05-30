@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T18:49:45.964791+00:00", 1212, "Your mother is", "off-the-rack", "Similar to: ready-made", "Definition: (especially of clothing) made in standard sizes and available from merchandise in stock", "Synonyms: off-the-peg, off-the-shelf, ready-to-wear"]}
+{"data": ["2021-05-30T18:59:45.873727+00:00", 1213, "Your mother is", "drill-like", "Pronunciation: /dr\u026al-la\u026ak/", "Definition: resembling a drill", ""]}
