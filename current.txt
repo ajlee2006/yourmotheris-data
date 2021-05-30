@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T05:09:45.889844+00:00", 1130, "Your mother is", "small-eared", "Pronunciation: /sm\u0254l-ird/", "Definition: having small ears", ""]}
+{"data": ["2021-05-30T05:19:45.863663+00:00", 1131, "Your mother is", "musing", "Pronunciation: /\u02c8mjuz\u026a\u014b/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, pensive, pondering, reflective, ruminative"]}
