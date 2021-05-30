@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T02:09:45.882622+00:00", 1112, "Your mother is", "lilac", "Pronunciation: /\u02c8la\u026al\u0259k/", "Definition: of a pale purple color", "Synonyms: lavender, lilac-colored"]}
+{"data": ["2021-05-30T02:19:45.883199+00:00", 1113, "Your mother is", "cozy", "Pronunciation: /\u02c8ko\u028azi/", "Definition: having or fostering a warm or friendly and informal atmosphere", "Synonyms: informal, intimate"]}
