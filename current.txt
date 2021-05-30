@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T20:36:48.442893+00:00", 1222, "Your mother is", "heraldic", "Pronunciation: /h\u025b\u02c8r\u00e6ld\u026ak/", "Definition: of or relating to heraldry", "Synonyms: heraldist"]}
+{"data": ["2021-05-30T20:46:48.374345+00:00", 1223, "Your mother is", "dropping", "Pronunciation: /\u02c8dr\u0251p\u026a\u014b/", "Definition: coming down freely under the influence of gravity", "Synonyms: falling"]}
