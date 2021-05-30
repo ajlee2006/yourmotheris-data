@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T18:29:45.928194+00:00", 1210, "Your mother is", "awol", "Pronunciation: /\u02c8e\u026aw\u0251l/", "Definition: absent without permission", "Synonyms: truant"]}
+{"data": ["2021-05-30T18:39:45.962809+00:00", 1211, "Your mother is", "versed", "Pronunciation: /v\u025crst/", "Definition: thoroughly acquainted through study or experience", "Synonyms: intimate, knowledgeable"]}
