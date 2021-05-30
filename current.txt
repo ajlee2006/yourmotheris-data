@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T23:06:48.465451+00:00", 1237, "Your mother is", "heraldic", "Pronunciation: /h\u025b\u02c8r\u00e6ld\u026ak/", "Definition: of or relating to heraldry", "Synonyms: heraldist"]}
+{"data": ["2021-05-30T23:16:48.419932+00:00", 1238, "Your mother is", "ebullient", "Pronunciation: /\u026a\u02c8b\u0259lj\u0259nt/", "Definition: joyously unrestrained", "Synonyms: exuberant, high-spirited"]}
