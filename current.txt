@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T23:46:48.434845+00:00", 1241, "Your mother is", "breathtaking", "Pronunciation: /\u02c8br\u025b\u03b8\u02ccte\u026aki\u014b/", "Definition: tending to cause suspension of regular breathing", "Synonyms: breathless"]}
+{"data": ["2021-05-30T23:56:48.529443+00:00", 1242, "Your mother is", "approximate", "Pronunciation: /\u0259\u02c8pr\u0251ks\u0259m\u026at/", "Definition: located close together", "Synonyms: close together"]}
