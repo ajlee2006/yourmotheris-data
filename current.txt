@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T06:49:46.260960+00:00", 1140, "Your mother is", "vapourous", "Similar to: gaseous", "Definition: resembling or characteristic of vapor", "Synonyms: vaporific, vaporish, vaporous, vapourific, vapourish"]}
+{"data": ["2021-05-30T06:59:45.835025+00:00", 1141, "Your mother is", "lunate", "Pronunciation: /\u02c8lune\u026at/", "Definition: resembling the new moon in shape", "Synonyms: crescent, crescent-shaped, semilunar"]}
