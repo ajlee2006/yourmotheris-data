@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T05:59:46.062584+00:00", 1135, "Your mother is", "embroiled", "Pronunciation: /\u025bm\u02c8br\u0254\u026ald/", "Definition: deeply involved especially in something complicated", "Synonyms: entangled"]}
+{"data": ["2021-05-30T06:09:45.865944+00:00", 1136, "Your mother is", "cheerful", "Pronunciation: /\u02c8\u02a7irf\u0259l/", "Definition: pleasantly (even unrealistically) optimistic", "Synonyms: pollyannaish, upbeat"]}
