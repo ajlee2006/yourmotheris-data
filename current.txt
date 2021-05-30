@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T05:19:45.863663+00:00", 1131, "Your mother is", "musing", "Pronunciation: /\u02c8mjuz\u026a\u014b/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, pensive, pondering, reflective, ruminative"]}
+{"data": ["2021-05-30T05:29:45.773566+00:00", 1132, "Your mother is", "low-cost", "Pronunciation: /lo\u028a-k\u0254st/", "Definition: that you have the financial means for", "Synonyms: affordable, low-priced"]}
