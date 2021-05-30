@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T20:26:48.393343+00:00", 1221, "Your mother is", "relational", "Pronunciation: /r\u026a\u02c8le\u026a\u0283\u0259n\u00e6l/", "Definition: having a relation or being related", ""]}
+{"data": ["2021-05-30T20:36:48.442893+00:00", 1222, "Your mother is", "heraldic", "Pronunciation: /h\u025b\u02c8r\u00e6ld\u026ak/", "Definition: of or relating to heraldry", "Synonyms: heraldist"]}
