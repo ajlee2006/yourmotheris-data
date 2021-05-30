@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T20:06:48.655985+00:00", 1219, "Your mother is", "molten", "Pronunciation: /\u02c8mo\u028alt\u0259n/", "Definition: reduced to liquid form by heating", "Synonyms: liquefied, liquified"]}
+{"data": ["2021-05-30T20:16:48.419364+00:00", 1220, "Your mother is", "self-enclosed", "Similar to: enclosed", "Definition: of self-imposed enclosure or confinement", ""]}
