@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T12:49:46.096884+00:00", 1176, "Your mother is", "genealogic", "", "Definition: of or relating to genealogy", "Synonyms: genealogical"]}
+{"data": ["2021-05-30T12:59:46.088022+00:00", 1177, "Your mother is", "propulsive", "Similar to: dynamic", "Definition: tending to or capable of propelling", "Synonyms: propellant, propellent, propelling"]}
