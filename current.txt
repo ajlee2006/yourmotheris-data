@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T15:49:45.984564+00:00", 1194, "Your mother is", "jobless", "Pronunciation: /\u02c8d\u0292\u0251bl\u026as/", "Definition: not having a job", "Synonyms: idle, out of work"]}
+{"data": ["2021-05-30T15:59:45.851608+00:00", 1195, "Your mother is", "extensile", "Pronunciation: /\u026ak\u02c8st\u025bns\u0259l/", "Definition: capable of being protruded or stretched or opened out", "Synonyms: extensible"]}
