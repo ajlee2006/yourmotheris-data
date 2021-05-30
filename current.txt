@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T06:29:45.955433+00:00", 1138, "Your mother is", "fibre-optic", "", "Definition: of or relating to fiber optics", "Synonyms: fiber-optic, fiberoptic, fibreoptic"]}
+{"data": ["2021-05-30T06:39:45.890651+00:00", 1139, "Your mother is", "vapourised", "Similar to: gaseous", "Definition: converted into a gas or vapor", "Synonyms: gasified, vaporized, volatilised, volatilized"]}
