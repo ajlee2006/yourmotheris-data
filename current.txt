@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T08:49:45.937077+00:00", 1152, "Your mother is", "errhine", "Pronunciation: /\u02c8\u025bra\u026an/", "Definition: causing nasal discharge", ""]}
+{"data": ["2021-05-30T08:59:45.842702+00:00", 1153, "Your mother is", "neutralized", "Pronunciation: /\u02c8nutr\u028c\u02ccla\u026azd/", "Definition: made neutral in some respect; deprived of distinctive characteristics", "Synonyms: neutralised"]}
