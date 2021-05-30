@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T10:59:46.114955+00:00", 1165, "Your mother is", "brahminic", "Pronunciation: /br\u0251\u02c8m\u026an\u026ak/", "Definition: of or relating to or characteristic of a brahmin", "Synonyms: brahminical"]}
+{"data": ["2021-05-30T11:09:45.924102+00:00", 1166, "Your mother is", "pathogenic", "Pronunciation: /\u02ccp\u00e6\u03b8\u0259\u02c8d\u0292\u025bn\u026ak/", "Definition: able to cause disease", "Synonyms: infective, morbific"]}
