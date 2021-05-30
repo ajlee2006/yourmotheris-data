@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T16:59:46.022907+00:00", 1201, "Your mother is", "bacteriophagous", "", "Definition: of or relating to bacteriophages", "Synonyms: bacteriophagic"]}
+{"data": ["2021-05-30T17:09:45.788331+00:00", 1202, "Your mother is", "mixable", "Similar to: compatible", "Definition: (chemistry, physics) capable of being mixed", "Synonyms: miscible"]}
