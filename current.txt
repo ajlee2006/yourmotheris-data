@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T13:29:45.898676+00:00", 1180, "Your mother is", "nonsense", "Pronunciation: /\u02c8n\u0251ns\u025bns/", "Definition: having no intelligible meaning", "Synonyms: nonsensical"]}
+{"data": ["2021-05-30T13:39:45.969862+00:00", 1181, "Your mother is", "pimpled", "Pronunciation: /\u02c8p\u026amp\u0259ld/", "Definition: (of complexion) blemished by imperfections of the skin", "Synonyms: acned, pimply, pustulate"]}
