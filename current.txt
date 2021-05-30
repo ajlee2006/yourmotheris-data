@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T07:39:45.852102+00:00", 1145, "Your mother is", "unequalled", "Pronunciation: /\u0259n\u02c8ikw\u0259ld/", "Definition: radically distinctive and without equal", "Synonyms: alone, unequaled, unique, unparalleled"]}
+{"data": ["2021-05-30T07:49:45.887509+00:00", 1146, "Your mother is", "oxidative", "Similar to: aerobic", "Definition: taking place in the presence of oxygen", ""]}
