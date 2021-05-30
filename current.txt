@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T11:49:45.837917+00:00", 1170, "Your mother is", "out-of-town", "Similar to: distant", "Definition: happening in or being of another town or city", ""]}
+{"data": ["2021-05-30T11:59:45.899620+00:00", 1171, "Your mother is", "heartless", "Pronunciation: /\u02c8h\u0251rtl\u026as/", "Definition: lacking in feeling or pity or warmth", "Synonyms: hardhearted"]}
