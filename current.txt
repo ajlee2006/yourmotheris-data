@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T19:46:48.412041+00:00", 1217, "Your mother is", "unrehearsed", "Pronunciation: /\u02cc\u0259nri\u02c8h\u025crst/", "Definition: with little or no preparation or forethought", "Synonyms: ad-lib, extemporaneous, extemporary, extempore, impromptu, off-the-cuff, offhand, offhanded"]}
+{"data": ["2021-05-30T19:56:48.482047+00:00", 1218, "Your mother is", "catenulate", "Similar to: formed", "Definition: having a chainlike form", "Synonyms: chainlike"]}
