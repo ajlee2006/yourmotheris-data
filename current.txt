@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T01:19:45.868443+00:00", 1107, "Your mother is", "gratuitous", "Pronunciation: /gr\u0259\u02c8tu\u026at\u0259s/", "Definition: unnecessary and unwarranted", "Synonyms: needless, uncalled-for"]}
+{"data": ["2021-05-30T01:29:45.854660+00:00", 1108, "Your mother is", "close", "Pronunciation: /klo\u028as/", "Definition: not far distant in time or space or degree or circumstances", "Synonyms: near, nigh"]}
