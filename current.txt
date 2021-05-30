@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T01:39:47.414317+00:00", 1109, "Your mother is", "anticancer", "Pronunciation: /\u02cc\u00e6n\u02ccta\u026a\u02c8k\u00e6ns\u025dr/", "Definition: used in the treatment of cancer", "Synonyms: antineoplastic, antitumor, antitumour"]}
+{"data": ["2021-05-30T01:49:45.836674+00:00", 1110, "Your mother is", "sore", "Pronunciation: /so\u028ar/", "Definition: roused to anger", "Synonyms: huffy, mad"]}
