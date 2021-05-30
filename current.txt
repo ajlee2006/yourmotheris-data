@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T01:59:46.015545+00:00", 1111, "Your mother is", "lilting", "Similar to: rhythmic", "Definition: characterized by a buoyant rhythm", "Synonyms: swinging, swingy, tripping"]}
+{"data": ["2021-05-30T02:09:45.882622+00:00", 1112, "Your mother is", "lilac", "Pronunciation: /\u02c8la\u026al\u0259k/", "Definition: of a pale purple color", "Synonyms: lavender, lilac-colored"]}
