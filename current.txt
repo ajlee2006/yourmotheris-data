@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T07:19:45.831269+00:00", 1143, "Your mother is", "ultramodern", "Pronunciation: /\u02cc\u0259ltr\u0259\u02c8m\u0251d\u0259rn/", "Definition: extremely modern", ""]}
+{"data": ["2021-05-30T07:29:46.052349+00:00", 1144, "Your mother is", "sensational", "Pronunciation: /s\u025bn\u02c8se\u026a\u0283\u0259n\u0259l/", "Definition: commanding attention", "Synonyms: arresting, stunning"]}
