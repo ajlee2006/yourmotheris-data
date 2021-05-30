@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T01:49:45.836674+00:00", 1110, "Your mother is", "sore", "Pronunciation: /so\u028ar/", "Definition: roused to anger", "Synonyms: huffy, mad"]}
+{"data": ["2021-05-30T01:59:46.015545+00:00", 1111, "Your mother is", "lilting", "Similar to: rhythmic", "Definition: characterized by a buoyant rhythm", "Synonyms: swinging, swingy, tripping"]}
