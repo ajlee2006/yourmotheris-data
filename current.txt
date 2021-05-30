@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T08:09:45.857378+00:00", 1148, "Your mother is", "disadvantageous", "Pronunciation: /d\u026as\u02cc\u00e6dv\u0259n\u02c8te\u026ad\u0292\u0259s/", "Definition: involving or creating circumstances detrimental to success or effectiveness", "Synonyms: unfavorable, unfavourable"]}
+{"data": ["2021-05-30T08:19:46.140800+00:00", 1149, "Your mother is", "measureless", "Pronunciation: /\u02c8m\u025b\u0292\u0259l\u0259s/", "Definition: without limits in extent or size or quantity", "Synonyms: illimitable, limitless, unmeasured"]}
