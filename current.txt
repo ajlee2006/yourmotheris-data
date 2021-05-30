@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T16:39:46.048317+00:00", 1199, "Your mother is", "lap-streak", "", "Definition: having overlapping hull planks", "Synonyms: clincher-built, clinker-built, lap-strake, lap-straked, lap-streaked"]}
+{"data": ["2021-05-30T16:49:45.880025+00:00", 1200, "Your mother is", "oversolicitous", "Pronunciation: /\u02c8o\u028av\u0259rs\u0259\u02c8l\u026as\u026at\u0259s/", "Definition: excessively solicitous", ""]}
