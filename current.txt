@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T01:29:45.854660+00:00", 1108, "Your mother is", "close", "Pronunciation: /klo\u028as/", "Definition: not far distant in time or space or degree or circumstances", "Synonyms: near, nigh"]}
+{"data": ["2021-05-30T01:39:47.414317+00:00", 1109, "Your mother is", "anticancer", "Pronunciation: /\u02cc\u00e6n\u02ccta\u026a\u02c8k\u00e6ns\u025dr/", "Definition: used in the treatment of cancer", "Synonyms: antineoplastic, antitumor, antitumour"]}
