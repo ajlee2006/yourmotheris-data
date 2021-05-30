@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T16:09:45.858086+00:00", 1196, "Your mother is", "courtly", "Pronunciation: /\u02c8ko\u028artli/", "Definition: refined or imposing in manner or appearance; befitting a royal court", "Synonyms: formal, stately"]}
+{"data": ["2021-05-30T16:19:45.991288+00:00", 1197, "Your mother is", "ninety-nine", "Pronunciation: /\u02c8na\u026anti-na\u026an/", "Definition: being one less than one hundred and nine more than ninety", "Synonyms: 99, ic"]}
