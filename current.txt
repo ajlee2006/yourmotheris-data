@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T09:49:46.430418+00:00", 1158, "Your mother is", "pelecypod", "Pronunciation: /p\u0259\u02c8l\u025bs\u0259\u02ccp\u0251d/", "Definition: bivalve", "Synonyms: lamellibranch, pelecypodous"]}
+{"data": ["2021-05-30T09:59:46.358829+00:00", 1159, "Your mother is", "physiological", "Pronunciation: /\u02ccf\u026azi\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or consistent with an organism's normal functioning", "Synonyms: physiologic"]}
