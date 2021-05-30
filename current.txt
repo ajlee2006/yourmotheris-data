@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T22:06:48.451311+00:00", 1231, "Your mother is", "childish", "Pronunciation: /\u02c8\u02a7a\u026ald\u026a\u0283/", "Definition: indicating a lack of maturity", "Synonyms: infantile"]}
+{"data": ["2021-05-30T22:16:48.842429+00:00", 1232, "Your mother is", "uniovular", "", "Definition: having a single ovule", "Synonyms: uniovulate"]}
