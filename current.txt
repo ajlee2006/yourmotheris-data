@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T17:29:45.953402+00:00", 1204, "Your mother is", "unenthusiastic", "Pronunciation: /\u02cc\u0259n\u026an\u02cc\u03b8juz\u026a\u02c8\u00e6st\u026ak/", "Definition: not enthusiastic; lacking excitement or ardor", ""]}
+{"data": ["2021-05-30T17:39:45.879769+00:00", 1205, "Your mother is", "springlike", "Similar to: elastic", "Definition: resembling a spring or the action of a spring", ""]}
