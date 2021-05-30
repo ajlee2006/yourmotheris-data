@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T00:09:46.649443+00:00", 1100, "Your mother is", "cursory", "Pronunciation: /\u02c8k\u025crs\u0259ri/", "Definition: hasty and without attention to detail; not thorough", "Synonyms: casual, passing, perfunctory, superficial"]}
+{"data": ["2021-05-30T00:19:45.895911+00:00", 1101, "Your mother is", "latin", "Pronunciation: /\u02c8l\u00e6t\u0259n/", "Definition: relating to languages derived from Latin", "Synonyms: romance"]}
