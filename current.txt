@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T06:59:45.835025+00:00", 1141, "Your mother is", "lunate", "Pronunciation: /\u02c8lune\u026at/", "Definition: resembling the new moon in shape", "Synonyms: crescent, crescent-shaped, semilunar"]}
+{"data": ["2021-05-30T07:09:45.831438+00:00", 1142, "Your mother is", "triple", "Pronunciation: /\u02c8tr\u026ap\u0259l/", "Definition: having three units or components or elements", "Synonyms: ternary, treble, triplex"]}
