@@ -1,1 +1,1 @@
-{"data": ["2021-05-29T23:59:45.814541+00:00", 1099, "Your mother is", "hostile", "Pronunciation: /\u02c8h\u0251st\u0259l/", "Definition: very unfavorable to life or growth", "Synonyms: uncongenial, unfriendly"]}
+{"data": ["2021-05-30T00:09:46.649443+00:00", 1100, "Your mother is", "cursory", "Pronunciation: /\u02c8k\u025crs\u0259ri/", "Definition: hasty and without attention to detail; not thorough", "Synonyms: casual, passing, perfunctory, superficial"]}
