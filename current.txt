@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T03:19:45.835933+00:00", 1119, "Your mother is", "dissolved", "Pronunciation: /d\u026a\u02c8z\u0251lvd/", "Definition: (of solid matter) reduced to a liquid form", ""]}
+{"data": ["2021-05-30T03:29:45.872539+00:00", 1120, "Your mother is", "energy-releasing", "Similar to: catabolic", "Definition: of or relating to catabolism", "Synonyms: destructive-metabolic"]}
