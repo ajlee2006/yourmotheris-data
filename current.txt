@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T10:49:45.960728+00:00", 1164, "Your mother is", "homonymous", "Pronunciation: /h\u0259\u02c8m\u0251n\u0259m\u0259s/", "Definition: of or related to or being homonyms", "Synonyms: homonymic"]}
+{"data": ["2021-05-30T10:59:46.114955+00:00", 1165, "Your mother is", "brahminic", "Pronunciation: /br\u0251\u02c8m\u026an\u026ak/", "Definition: of or relating to or characteristic of a brahmin", "Synonyms: brahminical"]}
