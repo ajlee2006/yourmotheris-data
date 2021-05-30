@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T02:19:45.883199+00:00", 1113, "Your mother is", "cozy", "Pronunciation: /\u02c8ko\u028azi/", "Definition: having or fostering a warm or friendly and informal atmosphere", "Synonyms: informal, intimate"]}
+{"data": ["2021-05-30T02:29:45.912572+00:00", 1114, "Your mother is", "gummy", "Pronunciation: /\u02c8\u0261\u0259mi/", "Definition: having the sticky properties of an adhesive", "Synonyms: gluey, glutinous, mucilaginous, pasty, sticky, viscid, viscous"]}
