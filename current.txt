@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T01:09:45.991581+00:00", 1106, "Your mother is", "low-tension", "Pronunciation: /lo\u028a-\u02c8t\u025bn\u0283\u0259n/", "Definition: subjected to or capable of operating under relative low voltage", "Synonyms: low-voltage"]}
+{"data": ["2021-05-30T01:19:45.868443+00:00", 1107, "Your mother is", "gratuitous", "Pronunciation: /gr\u0259\u02c8tu\u026at\u0259s/", "Definition: unnecessary and unwarranted", "Synonyms: needless, uncalled-for"]}
