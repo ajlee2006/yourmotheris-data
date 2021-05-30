@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T10:19:45.904187+00:00", 1161, "Your mother is", "self-enclosed", "Similar to: enclosed", "Definition: of self-imposed enclosure or confinement", ""]}
+{"data": ["2021-05-30T10:29:45.996822+00:00", 1162, "Your mother is", "softened", "Pronunciation: /\u02c8s\u0254f\u028cnd/", "Definition: being or made softer or less loud or clear", "Synonyms: dull, muffled, muted"]}
