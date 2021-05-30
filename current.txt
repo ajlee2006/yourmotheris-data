@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T05:49:45.832734+00:00", 1134, "Your mother is", "divorced", "Pronunciation: /d\u026a\u02c8v\u0254rst/", "Definition: of someone whose marriage has been legally dissolved", ""]}
+{"data": ["2021-05-30T05:59:46.062584+00:00", 1135, "Your mother is", "embroiled", "Pronunciation: /\u025bm\u02c8br\u0254\u026ald/", "Definition: deeply involved especially in something complicated", "Synonyms: entangled"]}
