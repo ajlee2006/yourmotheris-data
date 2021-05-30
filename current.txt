@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T14:49:45.929416+00:00", 1188, "Your mother is", "splattered", "Pronunciation: /\u02c8spl\u00e6t\u025drd/", "Definition: covered with bright patches (often used in combination)", "Synonyms: dabbled, spattered, splashed"]}
+{"data": ["2021-05-30T14:59:45.917850+00:00", 1189, "Your mother is", "muslim", "Pronunciation: /\u02c8m\u0259zl\u026am/", "Definition: of or relating to or supporting Islamism", "Synonyms: islamic, moslem"]}
