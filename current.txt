@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T08:29:45.879982+00:00", 1150, "Your mother is", "unvarnished", "Pronunciation: /\u0259n\u02c8v\u0251rn\u026a\u0283t/", "Definition: free from any effort to soften to disguise", "Synonyms: plain"]}
+{"data": ["2021-05-30T08:39:46.556634+00:00", 1151, "Your mother is", "hidebound", "Pronunciation: /\u02c8ha\u026ad\u02ccba\u028and/", "Definition: stubbornly conservative and narrow-minded", "Synonyms: traditionalist"]}
