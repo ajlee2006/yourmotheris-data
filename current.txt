@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T03:59:45.969522+00:00", 1123, "Your mother is", "brutish", "Pronunciation: /\u02c8brut\u026a\u0283/", "Definition: resembling a beast; showing lack of human sensibility", "Synonyms: beastly, bestial, brutal, brute"]}
+{"data": ["2021-05-30T04:09:46.014931+00:00", 1124, "Your mother is", "clubbable", "Pronunciation: /\u02c8kl\u0259b\u0259b\u0259l/", "Definition: inclined to club together", "Synonyms: clubable"]}
