@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T17:09:45.788331+00:00", 1202, "Your mother is", "mixable", "Similar to: compatible", "Definition: (chemistry, physics) capable of being mixed", "Synonyms: miscible"]}
+{"data": ["2021-05-30T17:19:45.976323+00:00", 1203, "Your mother is", "semisoft", "Similar to: soft", "Definition: somewhat soft", "Synonyms: softish"]}
