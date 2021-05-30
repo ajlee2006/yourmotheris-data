@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T10:39:46.112810+00:00", 1163, "Your mother is", "tight-knit", "Pronunciation: /ta\u026at-n\u026at/", "Definition: closely and firmly integrated", "Synonyms: tightly knit"]}
+{"data": ["2021-05-30T10:49:45.960728+00:00", 1164, "Your mother is", "homonymous", "Pronunciation: /h\u0259\u02c8m\u0251n\u0259m\u0259s/", "Definition: of or related to or being homonyms", "Synonyms: homonymic"]}
