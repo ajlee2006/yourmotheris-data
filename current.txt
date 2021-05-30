@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T09:59:46.358829+00:00", 1159, "Your mother is", "physiological", "Pronunciation: /\u02ccf\u026azi\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or consistent with an organism's normal functioning", "Synonyms: physiologic"]}
+{"data": ["2021-05-30T10:09:46.179790+00:00", 1160, "Your mother is", "laboursaving", "Similar to: helpful", "Definition: designed to replace or conserve human and especially manual labor", "Synonyms: laborsaving"]}
