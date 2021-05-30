@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T09:09:45.987314+00:00", 1154, "Your mother is", "dispiriting", "Pronunciation: /d\u026a\u02c8sp\u026ar\u026at\u026a\u014b/", "Definition: destructive of morale and self-reliance", "Synonyms: demoralising, demoralizing, disheartening"]}
+{"data": ["2021-05-30T09:19:45.917216+00:00", 1155, "Your mother is", "gastronomic", "Pronunciation: /\u02cc\u0261\u00e6str\u0259\u02c8n\u0251m\u026ak/", "Definition: of or relating to gastronomy", "Synonyms: gastronomical"]}
