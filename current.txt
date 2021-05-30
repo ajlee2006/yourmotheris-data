@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T12:19:45.925985+00:00", 1173, "Your mother is", "fed up", "Similar to: displeased", "Definition: having a strong distaste from surfeit", "Synonyms: disgusted, sick, sick of, tired of"]}
+{"data": ["2021-05-30T12:29:46.001985+00:00", 1174, "Your mother is", "semidark", "Similar to: dark", "Definition: partially devoid of light or brightness", ""]}
