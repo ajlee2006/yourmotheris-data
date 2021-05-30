@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T14:19:45.849217+00:00", 1185, "Your mother is", "sixty-three", "Pronunciation: /\u02c8s\u026aksti-\u02c8\u03b8ri/", "Definition: being three more than sixty", "Synonyms: 63, lxiii"]}
+{"data": ["2021-05-30T14:29:45.958606+00:00", 1186, "Your mother is", "tried", "Pronunciation: /tra\u026ad/", "Definition: tested and proved useful or correct", "Synonyms: tested, well-tried"]}
