@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T13:59:46.395202+00:00", 1183, "Your mother is", "tzarist", "Pronunciation: /\u02c8z\u0251r\u026ast/", "Definition: of or relating to or characteristic of a czar", "Synonyms: czarist, czaristic, tsarist, tsaristic"]}
+{"data": ["2021-05-30T14:09:46.010905+00:00", 1184, "Your mother is", "gravelly", "Pronunciation: /\u02c8gr\u00e6v\u0259lli/", "Definition: abounding in small stones", "Synonyms: pebbly, shingly"]}
