@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T06:09:45.865944+00:00", 1136, "Your mother is", "cheerful", "Pronunciation: /\u02c8\u02a7irf\u0259l/", "Definition: pleasantly (even unrealistically) optimistic", "Synonyms: pollyannaish, upbeat"]}
+{"data": ["2021-05-30T06:19:45.862713+00:00", 1137, "Your mother is", "branchless", "Similar to: palmlike", "Definition: having no branches", ""]}
