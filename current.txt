@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T23:16:48.419932+00:00", 1238, "Your mother is", "ebullient", "Pronunciation: /\u026a\u02c8b\u0259lj\u0259nt/", "Definition: joyously unrestrained", "Synonyms: exuberant, high-spirited"]}
+{"data": ["2021-05-30T23:26:48.519683+00:00", 1239, "Your mother is", "clinched", "Pronunciation: /kl\u026ant\u0283t/", "Definition: closed or squeezed together tightly", "Synonyms: clenched"]}
