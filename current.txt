@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T09:29:45.994382+00:00", 1156, "Your mother is", "falsifiable", "Similar to: empiric", "Definition: capable of being tested (verified or falsified) by experiment or observation", "Synonyms: confirmable, verifiable"]}
+{"data": ["2021-05-30T09:39:46.505002+00:00", 1157, "Your mother is", "demythologised", "Similar to: rational", "Definition: having mythical elements removed", "Synonyms: demythologized"]}
