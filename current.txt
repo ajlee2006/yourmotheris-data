@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T03:39:45.893124+00:00", 1121, "Your mother is", "hellenistical", "", "Definition: relating to or characteristic of the classical Greek civilization", "Synonyms: hellenic, hellenistic"]}
+{"data": ["2021-05-30T03:49:45.803531+00:00", 1122, "Your mother is", "twenty-first", "Pronunciation: /\u02c8tw\u025bnti-\u02c8f\u025crst/", "Definition: coming next after the twentieth in position", "Synonyms: 21st"]}
