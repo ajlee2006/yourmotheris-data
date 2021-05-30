@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T21:26:48.503767+00:00", 1227, "Your mother is", "tansy-scented", "Similar to: odorous", "Definition: smelling of tansy", "Synonyms: tansy-smelling"]}
+{"data": ["2021-05-30T21:36:48.386289+00:00", 1228, "Your mother is", "corrupting", "Pronunciation: /k\u025dr\u02c8\u028cpt\u026a\u014b/", "Definition: that infects or taints", "Synonyms: contaminating"]}
