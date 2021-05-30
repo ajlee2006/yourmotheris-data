@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T07:59:45.851497+00:00", 1147, "Your mother is", "old-world", "Pronunciation: /o\u028ald-w\u025crld/", "Definition: characteristic of former times especially in Europe", ""]}
+{"data": ["2021-05-30T08:09:45.857378+00:00", 1148, "Your mother is", "disadvantageous", "Pronunciation: /d\u026as\u02cc\u00e6dv\u0259n\u02c8te\u026ad\u0292\u0259s/", "Definition: involving or creating circumstances detrimental to success or effectiveness", "Synonyms: unfavorable, unfavourable"]}
