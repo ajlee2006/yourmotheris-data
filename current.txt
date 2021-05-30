@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T07:09:45.831438+00:00", 1142, "Your mother is", "triple", "Pronunciation: /\u02c8tr\u026ap\u0259l/", "Definition: having three units or components or elements", "Synonyms: ternary, treble, triplex"]}
+{"data": ["2021-05-30T07:19:45.831269+00:00", 1143, "Your mother is", "ultramodern", "Pronunciation: /\u02cc\u0259ltr\u0259\u02c8m\u0251d\u0259rn/", "Definition: extremely modern", ""]}
