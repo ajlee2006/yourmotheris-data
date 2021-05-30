@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T14:29:45.958606+00:00", 1186, "Your mother is", "tried", "Pronunciation: /tra\u026ad/", "Definition: tested and proved useful or correct", "Synonyms: tested, well-tried"]}
+{"data": ["2021-05-30T14:39:45.850824+00:00", 1187, "Your mother is", "tiled", "Pronunciation: /ta\u026ald/", "Definition: covered or furnished with tiles", ""]}
