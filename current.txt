@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T16:29:45.941710+00:00", 1198, "Your mother is", "unsteady", "Pronunciation: /\u0259n\u02c8st\u025bdi/", "Definition: not firmly or solidly positioned", "Synonyms: unfirm"]}
+{"data": ["2021-05-30T16:39:46.048317+00:00", 1199, "Your mother is", "lap-streak", "", "Definition: having overlapping hull planks", "Synonyms: clincher-built, clinker-built, lap-strake, lap-straked, lap-streaked"]}
