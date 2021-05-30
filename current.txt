@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T17:19:45.976323+00:00", 1203, "Your mother is", "semisoft", "Similar to: soft", "Definition: somewhat soft", "Synonyms: softish"]}
+{"data": ["2021-05-30T17:29:45.953402+00:00", 1204, "Your mother is", "unenthusiastic", "Pronunciation: /\u02cc\u0259n\u026an\u02cc\u03b8juz\u026a\u02c8\u00e6st\u026ak/", "Definition: not enthusiastic; lacking excitement or ardor", ""]}
