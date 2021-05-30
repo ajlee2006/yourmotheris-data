@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T14:09:46.010905+00:00", 1184, "Your mother is", "gravelly", "Pronunciation: /\u02c8gr\u00e6v\u0259lli/", "Definition: abounding in small stones", "Synonyms: pebbly, shingly"]}
+{"data": ["2021-05-30T14:19:45.849217+00:00", 1185, "Your mother is", "sixty-three", "Pronunciation: /\u02c8s\u026aksti-\u02c8\u03b8ri/", "Definition: being three more than sixty", "Synonyms: 63, lxiii"]}
