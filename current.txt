@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T00:59:46.140632+00:00", 1105, "Your mother is", "greek orthodox", "", "Definition: of or relating to or characteristic of the Eastern Orthodox Church", "Synonyms: eastern orthodox, orthodox, russian orthodox"]}
+{"data": ["2021-05-30T01:09:45.991581+00:00", 1106, "Your mother is", "low-tension", "Pronunciation: /lo\u028a-\u02c8t\u025bn\u0283\u0259n/", "Definition: subjected to or capable of operating under relative low voltage", "Synonyms: low-voltage"]}
