@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T18:19:46.244325+00:00", 1209, "Your mother is", "seventy-five", "Similar to: cardinal", "Definition: being five more than seventy", "Synonyms: 75, lxxv"]}
+{"data": ["2021-05-30T18:29:45.928194+00:00", 1210, "Your mother is", "awol", "Pronunciation: /\u02c8e\u026aw\u0251l/", "Definition: absent without permission", "Synonyms: truant"]}
