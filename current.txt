@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T15:19:45.857250+00:00", 1191, "Your mother is", "triune", "Pronunciation: /\u02c8tra\u026ajun/", "Definition: being three in one; used especially of the Christian Trinity", ""]}
+{"data": ["2021-05-30T15:29:46.017418+00:00", 1192, "Your mother is", "active", "Pronunciation: /\u02c8\u00e6kt\u026av/", "Definition: engaged in or ready for military or naval operations", "Synonyms: combat-ready, fighting"]}
