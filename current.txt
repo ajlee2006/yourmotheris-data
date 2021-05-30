@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T04:29:45.803516+00:00", 1126, "Your mother is", "ataxic", "", "Definition: lacking motor coordination; marked or caused by ataxia", "Synonyms: atactic"]}
+{"data": ["2021-05-30T04:39:45.893055+00:00", 1127, "Your mother is", "hindering", "Pronunciation: /\u02c8h\u026and\u025dr\u026a\u014b/", "Definition: preventing movement", "Synonyms: clogging, impeding, obstructive"]}
