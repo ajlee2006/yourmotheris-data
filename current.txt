@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T09:19:45.917216+00:00", 1155, "Your mother is", "gastronomic", "Pronunciation: /\u02cc\u0261\u00e6str\u0259\u02c8n\u0251m\u026ak/", "Definition: of or relating to gastronomy", "Synonyms: gastronomical"]}
+{"data": ["2021-05-30T09:29:45.994382+00:00", 1156, "Your mother is", "falsifiable", "Similar to: empiric", "Definition: capable of being tested (verified or falsified) by experiment or observation", "Synonyms: confirmable, verifiable"]}
