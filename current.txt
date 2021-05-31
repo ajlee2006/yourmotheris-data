@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T07:06:48.462849+00:00", 1285, "Your mother is", "unsarcastic", "", "Definition: not sarcastic", ""]}
+{"data": ["2021-05-31T07:16:48.505976+00:00", 1286, "Your mother is", "offensive", "Pronunciation: /\u0259\u02c8f\u025bns\u026av/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, noisome, queasy, sickening, vile"]}
