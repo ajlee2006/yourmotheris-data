@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T03:36:48.422106+00:00", 1264, "Your mother is", "apostate", "Pronunciation: /\u0259\u02c8p\u0251ste\u026at/", "Definition: not faithful to religion or party or cause", ""]}
+{"data": ["2021-05-31T03:46:48.520315+00:00", 1265, "Your mother is", "metalloid", "Pronunciation: /\u02c8m\u025bt\u02cc\u0259l\u0254\u026ad/", "Definition: of or being a nonmetallic element that has some of the properties of metal", ""]}
