@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T15:16:48.397531+00:00", 1334, "Your mother is", "asymptomatic", "Pronunciation: /e\u026a\u02ccs\u026ampt\u0259\u02c8m\u00e6t\u026ak/", "Definition: having no symptoms of illness or disease", "Synonyms: symptomless"]}
+{"data": ["2021-05-31T15:26:48.447842+00:00", 1335, "Your mother is", "reconciled", "Pronunciation: /\u02c8r\u025bk\u028cn\u02ccsa\u026ald/", "Definition: made compatible or consistent", ""]}
