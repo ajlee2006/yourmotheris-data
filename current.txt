@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T18:36:48.721185+00:00", 1354, "Your mother is", "untufted", "Similar to: unadorned", "Definition: not adorned with tufts", ""]}
+{"data": ["2021-05-31T18:46:48.583647+00:00", 1355, "Your mother is", "beady", "Pronunciation: /\u02c8bidi/", "Definition: covered with beads or jewels or sequins", "Synonyms: gemmed, jeweled, jewelled, sequined, spangled, spangly"]}
