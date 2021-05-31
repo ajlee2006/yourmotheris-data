@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T13:16:48.537414+00:00", 1322, "Your mother is", "fattish", "Pronunciation: /\u02c8f\u00e6t\u026a\u0283/", "Definition: somewhat fat", ""]}
+{"data": ["2021-05-31T13:26:48.418835+00:00", 1323, "Your mother is", "seventeen", "Pronunciation: /\u02c8s\u025bv\u0259n\u02c8tin/", "Definition: being one more than sixteen", "Synonyms: 17, xvii"]}
