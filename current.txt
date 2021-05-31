@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T03:56:48.461950+00:00", 1266, "Your mother is", "lyrate", "Pronunciation: /\u02c8la\u026are\u026at/", "Definition: (of a leaf shape) having curvature suggestive of a lyre", ""]}
+{"data": ["2021-05-31T04:06:48.372435+00:00", 1267, "Your mother is", "cambodian", "Pronunciation: /k\u00e6m\u02c8bo\u028adi\u0259n/", "Definition: of or relating to or characteristic of Cambodia or its people or language", "Synonyms: kampuchean"]}
