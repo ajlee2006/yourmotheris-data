@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T09:06:49.006449+00:00", 1297, "Your mother is", "unsatisfied", "Pronunciation: /\u0259n\u02c8s\u00e6t\u026as\u02ccfa\u026ad/", "Definition: not having been satisfied", "Synonyms: unsated, unsatiated"]}
+{"data": ["2021-05-31T09:16:48.613691+00:00", 1298, "Your mother is", "assured", "Pronunciation: /\u0259\u02c8\u0283\u028ard/", "Definition: characterized by certainty or security", ""]}
