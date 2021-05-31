@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T10:36:48.482424+00:00", 1306, "Your mother is", "metric", "Pronunciation: /\u02c8m\u025btr\u026ak/", "Definition: the rhythmic arrangement of syllables", "Synonyms: measured, metrical"]}
+{"data": ["2021-05-31T10:46:48.510728+00:00", 1307, "Your mother is", "ravenous", "Pronunciation: /\u02c8r\u00e6v\u0259n\u0259s/", "Definition: devouring or craving food in great quantities", "Synonyms: edacious, esurient, rapacious, ravening, voracious, wolfish"]}
