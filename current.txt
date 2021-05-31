@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T06:56:48.438908+00:00", 1284, "Your mother is", "inducive", "Similar to: causative", "Definition: inducing or influencing; leading on", "Synonyms: inductive"]}
+{"data": ["2021-05-31T07:06:48.462849+00:00", 1285, "Your mother is", "unsarcastic", "", "Definition: not sarcastic", ""]}
