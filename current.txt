@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T17:26:48.641076+00:00", 1347, "Your mother is", "admirable", "Pronunciation: /\u02c8\u00e6dm\u0259r\u0259b\u0259l/", "Definition: deserving of the highest esteem or admiration", ""]}
+{"data": ["2021-05-31T17:36:48.480845+00:00", 1348, "Your mother is", "basiscopic", "", "Definition: facing or on the side toward the base", ""]}
