@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T01:36:49.108628+00:00", 1252, "Your mother is", "verticillate", "Pronunciation: /v\u0259r\u02c8t\u026as\u0259l\u026at/", "Definition: forming one or more whorls (especially a whorl of leaves around a stem)", "Synonyms: verticillated, whorled"]}
+{"data": ["2021-05-31T01:46:48.410119+00:00", 1253, "Your mother is", "symbolical", "", "Definition: relating to or using or proceeding by means of symbols", "Synonyms: symbolic"]}
