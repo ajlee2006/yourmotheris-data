@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T16:46:48.513024+00:00", 1343, "Your mother is", "hysterical", "Pronunciation: /h\u026a\u02c8st\u025br\u026ak\u0259l/", "Definition: characterized by or arising from psychoneurotic hysteria", "Synonyms: hysteric"]}
+{"data": ["2021-05-31T16:56:48.601711+00:00", 1344, "Your mother is", "slavic", "Pronunciation: /\u02c8sl\u00e6v\u026ak/", "Definition: of or relating to Slavic languages", "Synonyms: slavonic"]}
