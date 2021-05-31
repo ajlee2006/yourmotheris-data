@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T11:16:48.405434+00:00", 1310, "Your mother is", "liquified", "Similar to: fusible", "Definition: changed from a solid to a liquid state", "Synonyms: liquid, melted"]}
+{"data": ["2021-05-31T11:26:48.880074+00:00", 1311, "Your mother is", "toxicological", "Pronunciation: /\u02c8t\u0251ks\u0259k\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to toxicology", "Synonyms: toxicologic"]}
