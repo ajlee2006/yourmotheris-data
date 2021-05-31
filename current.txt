@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T21:09:49.438290+00:00", 1369, "Your mother is", "informal", "Pronunciation: /\u026an\u02c8f\u0254rm\u0259l/", "Definition: having or fostering a warm or friendly and informal atmosphere", "Synonyms: cozy, intimate"]}
+{"data": ["2021-05-31T21:19:50.155292+00:00", 1370, "Your mother is", "capital", "Pronunciation: /\u02c8k\u00e6p\u026at\u0259l/", "Definition: uppercase", "Synonyms: great, majuscule"]}
