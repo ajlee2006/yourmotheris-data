@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T09:36:48.486714+00:00", 1300, "Your mother is", "half-baked", "Pronunciation: /\u02c8h\u00e6f\u02c8be\u026akt/", "Definition: foolish; totally unsound", "Synonyms: crazy, screwball, softheaded"]}
+{"data": ["2021-05-31T09:46:48.450307+00:00", 1301, "Your mother is", "unrecoverable", "Similar to: irretrievable", "Definition: incapable of being recovered or regained", "Synonyms: irrecoverable"]}
