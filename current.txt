@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T02:06:48.630685+00:00", 1255, "Your mother is", "m", "Pronunciation: /\u025bm/", "Definition: denoting a quantity consisting of 1,000 items or units", "Synonyms: 1000, k, one thousand, thousand"]}
+{"data": ["2021-05-31T02:16:48.416017+00:00", 1256, "Your mother is", "light-minded", "Pronunciation: /\u02c8la\u026at\u02c8ma\u026and\u026ad/", "Definition: showing inappropriate levity", "Synonyms: flippant"]}
