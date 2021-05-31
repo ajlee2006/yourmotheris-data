@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T20:29:49.555575+00:00", 1365, "Your mother is", "muscle-bound", "Pronunciation: /\u02c8m\u0259s\u0259l\u02ccb\u00e6\u028and/", "Definition: having stiff muscles as the result of excessive exercise", ""]}
+{"data": ["2021-05-31T20:39:49.425612+00:00", 1366, "Your mother is", "in operation", "Similar to: operative", "Definition: being in effect or operation", "Synonyms: operating, operational"]}
