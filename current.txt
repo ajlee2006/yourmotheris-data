@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T03:06:48.876797+00:00", 1261, "Your mother is", "uppercase", "Similar to: capital", "Definition: relating to capital letters which were kept in the top half of a compositor's type case", ""]}
+{"data": ["2021-05-31T03:16:48.478677+00:00", 1262, "Your mother is", "goblet-shaped", "Similar to: circular", "Definition: resembling the shape of a goblet", ""]}
