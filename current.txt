@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T11:06:48.526030+00:00", 1309, "Your mother is", "splashed", "Pronunciation: /spl\u00e6\u0283t/", "Definition: covered with bright patches (often used in combination)", "Synonyms: dabbled, spattered, splattered"]}
+{"data": ["2021-05-31T11:16:48.405434+00:00", 1310, "Your mother is", "liquified", "Similar to: fusible", "Definition: changed from a solid to a liquid state", "Synonyms: liquid, melted"]}
