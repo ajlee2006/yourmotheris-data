@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T13:06:48.558184+00:00", 1321, "Your mother is", "boric", "Pronunciation: /\u02c8bo\u028ar\u026ak/", "Definition: of or relating to or derived from or containing boron", "Synonyms: boracic"]}
+{"data": ["2021-05-31T13:16:48.537414+00:00", 1322, "Your mother is", "fattish", "Pronunciation: /\u02c8f\u00e6t\u026a\u0283/", "Definition: somewhat fat", ""]}
