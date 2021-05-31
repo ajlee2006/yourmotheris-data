@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T11:26:48.880074+00:00", 1311, "Your mother is", "toxicological", "Pronunciation: /\u02c8t\u0251ks\u0259k\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to toxicology", "Synonyms: toxicologic"]}
+{"data": ["2021-05-31T11:36:48.467277+00:00", 1312, "Your mother is", "unmechanized", "Similar to: nonmechanical", "Definition: not mechanized", "Synonyms: unmechanised"]}
