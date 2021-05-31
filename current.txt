@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T14:46:49.107814+00:00", 1331, "Your mother is", "kittenish", "Pronunciation: /\u02c8k\u026at\u0259n\u026a\u0283/", "Definition: playful like a lively kitten", "Synonyms: frisky"]}
+{"data": ["2021-05-31T14:56:48.702296+00:00", 1332, "Your mother is", "dropsical", "Pronunciation: /\u02c8dr\u0251ps\u026ak\u0259l/", "Definition: swollen with an excessive accumulation of fluid", "Synonyms: edematous"]}
