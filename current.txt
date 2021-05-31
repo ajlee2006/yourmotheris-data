@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T02:46:48.413910+00:00", 1259, "Your mother is", "goodly", "Pronunciation: /\u0261\u028adli/", "Definition: large in amount or extent or degree", "Synonyms: goodish, healthy, hefty, respectable, sizable, sizeable, tidy"]}
+{"data": ["2021-05-31T02:56:48.438079+00:00", 1260, "Your mother is", "configured", "Pronunciation: /k\u028cn\u02c8f\u026a\u0261j\u025drd/", "Definition: organized so as to give configuration to", ""]}
