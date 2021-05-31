@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T06:16:48.450570+00:00", 1280, "Your mother is", "studious", "Pronunciation: /\u02c8studi\u0259s/", "Definition: characterized by diligent study and fondness for reading", "Synonyms: bookish"]}
+{"data": ["2021-05-31T06:26:48.478589+00:00", 1281, "Your mother is", "brindle", "Pronunciation: /\u02c8br\u026and\u0259l/", "Definition: having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats", "Synonyms: brinded, brindled, tabby"]}
