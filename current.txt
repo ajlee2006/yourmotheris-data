@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T14:06:48.421626+00:00", 1327, "Your mother is", "palpable", "Pronunciation: /\u02c8p\u00e6lp\u0259b\u0259l/", "Definition: clearly revealed to the mind or the senses or judgment", "Synonyms: apparent, evident, manifest, patent, plain, unmistakable"]}
+{"data": ["2021-05-31T14:16:48.445714+00:00", 1328, "Your mother is", "carinate", "Pronunciation: /\u02c8k\u00e6r\u0259\u02ccne\u026at/", "Definition: having a ridge or shaped like a ridge or suggesting the keel of a ship", "Synonyms: carinated, keeled, ridged"]}
