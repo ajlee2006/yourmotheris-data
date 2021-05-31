@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T08:26:48.504987+00:00", 1293, "Your mother is", "abstracted", "Pronunciation: /\u00e6b\u02c8str\u00e6kt\u026ad/", "Definition: lost in thought; showing preoccupation", "Synonyms: absent, absentminded, scatty"]}
+{"data": ["2021-05-31T08:36:48.359902+00:00", 1294, "Your mother is", "harrowing", "Pronunciation: /\u02c8h\u025bro\u028a\u026a\u014b/", "Definition: extremely painful", "Synonyms: agonising, agonizing, excruciating, torturesome, torturing, torturous"]}
