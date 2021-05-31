@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T04:46:48.346748+00:00", 1271, "Your mother is", "galled", "Similar to: painful", "Definition: painful from having the skin abraded", "Synonyms: chafed"]}
+{"data": ["2021-05-31T04:56:48.883085+00:00", 1272, "Your mother is", "anapestic", "", "Definition: (of a metric foot) characterized by two short syllables followed by a long one", "Synonyms: anapaestic"]}
