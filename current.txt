@@ -1,1 +1,1 @@
-{"data": ["2021-05-30T23:56:48.529443+00:00", 1242, "Your mother is", "approximate", "Pronunciation: /\u0259\u02c8pr\u0251ks\u0259m\u026at/", "Definition: located close together", "Synonyms: close together"]}
+{"data": ["2021-05-31T00:06:48.473492+00:00", 1243, "Your mother is", "spindle-shaped", "Pronunciation: /\u02c8sp\u026and\u0259l-\u0283e\u026apt/", "Definition: tapering at each end", "Synonyms: cigar-shaped, fusiform"]}
