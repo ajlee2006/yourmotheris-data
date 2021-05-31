@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T07:46:48.414922+00:00", 1289, "Your mother is", "acquirable", "Similar to: available", "Definition: capable of being acquired", ""]}
+{"data": ["2021-05-31T07:56:48.515694+00:00", 1290, "Your mother is", "tartarean", "Pronunciation: /t\u0251r\u02c8t\u025cri\u0259n/", "Definition: of or relating to or characteristic of Hades or Tartarus", "Synonyms: hadean, plutonian"]}
