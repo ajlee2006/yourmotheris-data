@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T23:19:49.423079+00:00", 1382, "Your mother is", "post-free", "Pronunciation: /po\u028ast-fri/", "Definition: postpaid", ""]}
+{"data": ["2021-05-31T23:29:49.438791+00:00", 1383, "Your mother is", "homophonous", "Pronunciation: /h\u0259\u02c8m\u0251f\u0259n\u0259s/", "Definition: characteristic of the phenomenon of words of different origins that are pronounced the same way", ""]}
