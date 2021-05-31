@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T18:56:48.489756+00:00", 1356, "Your mother is", "virile", "Pronunciation: /\u02c8v\u026ar\u0259l/", "Definition: characteristic of a man", "Synonyms: male, manful, manlike, manly"]}
+{"data": ["2021-05-31T19:06:48.481651+00:00", 1357, "Your mother is", "unsoiled", "Pronunciation: /\u0259n\u02c8s\u0254\u026ald/", "Definition: without soil or spot or stain", "Synonyms: unspotted, unstained"]}
