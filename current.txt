@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T18:16:48.547332+00:00", 1352, "Your mother is", "multicoloured", "Similar to: colored", "Definition: having sections or patches colored differently and usually brightly", "Synonyms: calico, motley, multi-color, multi-colored, multi-colour, multi-coloured, multicolor, multicolored, multicolour, painted, particolored, particoloured, piebald, pied, varicolored, varicoloured"]}
+{"data": ["2021-05-31T18:26:48.595793+00:00", 1353, "Your mother is", "algometrical", "", "Definition: of or related to algometry", "Synonyms: algometric"]}
