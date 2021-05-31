@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T17:46:48.899896+00:00", 1349, "Your mother is", "jammed", "Pronunciation: /d\u0292\u00e6md/", "Definition: extremely crowed or filled to capacity", "Synonyms: jam-packed, packed"]}
+{"data": ["2021-05-31T17:56:48.540967+00:00", 1350, "Your mother is", "allusive", "Pronunciation: /\u0259\u02c8lus\u026av/", "Definition: characterized by indirect references", ""]}
