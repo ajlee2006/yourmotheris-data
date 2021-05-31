@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T02:56:48.438079+00:00", 1260, "Your mother is", "configured", "Pronunciation: /k\u028cn\u02c8f\u026a\u0261j\u025drd/", "Definition: organized so as to give configuration to", ""]}
+{"data": ["2021-05-31T03:06:48.876797+00:00", 1261, "Your mother is", "uppercase", "Similar to: capital", "Definition: relating to capital letters which were kept in the top half of a compositor's type case", ""]}
