@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T07:16:48.505976+00:00", 1286, "Your mother is", "offensive", "Pronunciation: /\u0259\u02c8f\u025bns\u026av/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, noisome, queasy, sickening, vile"]}
+{"data": ["2021-05-31T07:26:48.520365+00:00", 1287, "Your mother is", "changeable", "Pronunciation: /\u02c8\u02a7e\u026and\u0292\u0259b\u0259l/", "Definition: capable of or tending to change in form or quality or nature", "Synonyms: mutable"]}
