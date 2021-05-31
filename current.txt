@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T13:56:48.400738+00:00", 1326, "Your mother is", "onetime", "Pronunciation: /\u02c8w@n/", "Definition: belonging to some prior time", "Synonyms: erstwhile, former, old, one-time, quondam, sometime"]}
+{"data": ["2021-05-31T14:06:48.421626+00:00", 1327, "Your mother is", "palpable", "Pronunciation: /\u02c8p\u00e6lp\u0259b\u0259l/", "Definition: clearly revealed to the mind or the senses or judgment", "Synonyms: apparent, evident, manifest, patent, plain, unmistakable"]}
