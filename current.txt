@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T03:16:48.478677+00:00", 1262, "Your mother is", "goblet-shaped", "Similar to: circular", "Definition: resembling the shape of a goblet", ""]}
+{"data": ["2021-05-31T03:26:49.051110+00:00", 1263, "Your mother is", "castled", "Pronunciation: /\u02c8k\u00e6s\u0259ld/", "Definition: having or resembling repeated square indentations like those in a battlement", "Synonyms: battlemented, castellated, embattled"]}
