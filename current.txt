@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T19:06:48.481651+00:00", 1357, "Your mother is", "unsoiled", "Pronunciation: /\u0259n\u02c8s\u0254\u026ald/", "Definition: without soil or spot or stain", "Synonyms: unspotted, unstained"]}
+{"data": ["2021-05-31T19:16:48.560556+00:00", 1358, "Your mother is", "sulfur-yellow", "Pronunciation: /\u02c8s\u0259lf\u0259r-\u02c8j\u025blo\u028a/", "Definition: of something having the yellow color of sulfur", "Synonyms: sulphur-yellow"]}
