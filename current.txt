@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T00:06:48.473492+00:00", 1243, "Your mother is", "spindle-shaped", "Pronunciation: /\u02c8sp\u026and\u0259l-\u0283e\u026apt/", "Definition: tapering at each end", "Synonyms: cigar-shaped, fusiform"]}
+{"data": ["2021-05-31T00:16:48.450276+00:00", 1244, "Your mother is", "darkling", "Pronunciation: /\u02c8d\u0251rkl\u026a\u014b/", "Definition: (poetic) occurring in the dark or night", ""]}
