@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T09:56:48.343746+00:00", 1302, "Your mother is", "configured", "Pronunciation: /k\u028cn\u02c8f\u026a\u0261j\u025drd/", "Definition: organized so as to give configuration to", ""]}
+{"data": ["2021-05-31T10:06:48.611953+00:00", 1303, "Your mother is", "synchronised", "Similar to: synchronal", "Definition: operating in unison", "Synonyms: synchronized"]}
