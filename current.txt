@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T15:06:48.535778+00:00", 1333, "Your mother is", "spiderly", "", "Definition: relating to or resembling a member of the class Arachnida", "Synonyms: arachnidian, arachnoid, spiderlike, spidery"]}
+{"data": ["2021-05-31T15:16:48.397531+00:00", 1334, "Your mother is", "asymptomatic", "Pronunciation: /e\u026a\u02ccs\u026ampt\u0259\u02c8m\u00e6t\u026ak/", "Definition: having no symptoms of illness or disease", "Synonyms: symptomless"]}
