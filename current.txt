@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T06:06:48.480630+00:00", 1279, "Your mother is", "precedent", "Pronunciation: /\u02c8pr\u025bs\u026ad\u0259nt/", "Definition: preceding in time, order, or significance", ""]}
+{"data": ["2021-05-31T06:16:48.450570+00:00", 1280, "Your mother is", "studious", "Pronunciation: /\u02c8studi\u0259s/", "Definition: characterized by diligent study and fondness for reading", "Synonyms: bookish"]}
