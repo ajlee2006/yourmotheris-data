@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T08:06:48.457221+00:00", 1291, "Your mother is", "suitable", "Pronunciation: /\u02c8sut\u00e6b\u0259l/", "Definition: worthy of being chosen especially as a spouse", "Synonyms: desirable, worthy"]}
+{"data": ["2021-05-31T08:16:48.638972+00:00", 1292, "Your mother is", "pasty", "Pronunciation: /\u02c8pe\u026asti/", "Definition: resembling paste in color; pallid", "Synonyms: pastelike"]}
