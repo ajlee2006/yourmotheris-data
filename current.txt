@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T05:36:49.020090+00:00", 1276, "Your mother is", "complicated", "Pronunciation: /\u02c8k\u0251mpl\u0259\u02ccke\u026at\u026ad/", "Definition: difficult to analyze or understand", "Synonyms: complex"]}
+{"data": ["2021-05-31T05:46:48.665166+00:00", 1277, "Your mother is", "overburdened", "Pronunciation: /\u02c8o\u028av\u025dr\u02c8b\u025drd\u028cnd/", "Definition: heavily burdened with work or cares", "Synonyms: bowed down, loaded down, weighed down"]}
