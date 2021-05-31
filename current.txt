@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T02:26:48.533964+00:00", 1257, "Your mother is", "singsong", "Pronunciation: /\u02c8s\u026a\u014bs\u0251\u014b/", "Definition: uttered in a monotonous cadence or rhythm as in chanting", "Synonyms: chantlike, intoned"]}
+{"data": ["2021-05-31T02:36:49.205543+00:00", 1258, "Your mother is", "unaged", "Similar to: green", "Definition: not subjected to an aging process", ""]}
