@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T21:19:50.155292+00:00", 1370, "Your mother is", "capital", "Pronunciation: /\u02c8k\u00e6p\u026at\u0259l/", "Definition: uppercase", "Synonyms: great, majuscule"]}
+{"data": ["2021-05-31T21:29:49.403082+00:00", 1371, "Your mother is", "calced", "Pronunciation: /k\u00e6lst/", "Definition: used of certain religious orders who wear shoes", "Synonyms: shod"]}
