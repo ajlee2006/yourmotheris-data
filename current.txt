@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T16:16:48.581093+00:00", 1340, "Your mother is", "undiminished", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8m\u026an\u026a\u0283t/", "Definition: not lessened or diminished", "Synonyms: unrelieved"]}
+{"data": ["2021-05-31T16:26:48.478521+00:00", 1341, "Your mother is", "tamable", "Similar to: manipulable", "Definition: capable of being tamed", "Synonyms: tameable"]}
