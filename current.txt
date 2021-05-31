@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T10:56:48.445298+00:00", 1308, "Your mother is", "uncommitted", "Pronunciation: /\u02cc\u0259nk\u0259\u02c8m\u026at\u026ad/", "Definition: not associated in an exclusive sexual relationship", "Synonyms: unattached"]}
+{"data": ["2021-05-31T11:06:48.526030+00:00", 1309, "Your mother is", "splashed", "Pronunciation: /spl\u00e6\u0283t/", "Definition: covered with bright patches (often used in combination)", "Synonyms: dabbled, spattered, splattered"]}
