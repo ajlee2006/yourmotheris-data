@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T03:26:49.051110+00:00", 1263, "Your mother is", "castled", "Pronunciation: /\u02c8k\u00e6s\u0259ld/", "Definition: having or resembling repeated square indentations like those in a battlement", "Synonyms: battlemented, castellated, embattled"]}
+{"data": ["2021-05-31T03:36:48.422106+00:00", 1264, "Your mother is", "apostate", "Pronunciation: /\u0259\u02c8p\u0251ste\u026at/", "Definition: not faithful to religion or party or cause", ""]}
