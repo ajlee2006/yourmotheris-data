@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T13:46:48.498821+00:00", 1325, "Your mother is", "moralistic", "Pronunciation: /\u02ccm\u0254r\u028c\u02c8l\u026ast\u026ak/", "Definition: narrowly and conventionally moral", ""]}
+{"data": ["2021-05-31T13:56:48.400738+00:00", 1326, "Your mother is", "onetime", "Pronunciation: /\u02c8w@n/", "Definition: belonging to some prior time", "Synonyms: erstwhile, former, old, one-time, quondam, sometime"]}
