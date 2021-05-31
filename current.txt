@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T23:29:49.438791+00:00", 1383, "Your mother is", "homophonous", "Pronunciation: /h\u0259\u02c8m\u0251f\u0259n\u0259s/", "Definition: characteristic of the phenomenon of words of different origins that are pronounced the same way", ""]}
+{"data": ["2021-05-31T23:39:50.077274+00:00", 1384, "Your mother is", "asinine", "Pronunciation: /\u02c8\u00e6s\u0259\u02ccna\u026an/", "Definition: extremely silly or stupid", "Synonyms: fatuous, inane"]}
