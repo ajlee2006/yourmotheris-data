@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T00:26:48.463488+00:00", 1245, "Your mother is", "inhibited", "Pronunciation: /\u026an\u02c8h\u026ab\u028ct\u026ad/", "Definition: held back or restrained or prevented", ""]}
+{"data": ["2021-05-31T00:36:48.477343+00:00", 1246, "Your mother is", "valetudinary", "Pronunciation: /\u02ccv\u00e6l\u026a\u02c8tud\u02cc\u0259n\u025bri/", "Definition: of or relating to or characteristic of a person who is a valetudinarian", "Synonyms: valetudinarian"]}
