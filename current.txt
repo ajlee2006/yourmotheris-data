@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T13:36:48.468404+00:00", 1324, "Your mother is", "concerted", "Pronunciation: /k\u0259n\u02c8s\u025crt\u026ad/", "Definition: involving the joint activity of two or more", "Synonyms: conjunct, conjunctive, cooperative"]}
+{"data": ["2021-05-31T13:46:48.498821+00:00", 1325, "Your mother is", "moralistic", "Pronunciation: /\u02ccm\u0254r\u028c\u02c8l\u026ast\u026ak/", "Definition: narrowly and conventionally moral", ""]}
