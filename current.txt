@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T06:36:48.477256+00:00", 1282, "Your mother is", "unappreciated", "Pronunciation: /\u02cc\u028cn\u028c\u02c8pri\u0283i\u02cce\u026at\u026ad/", "Definition: not likely to be rewarded", "Synonyms: thankless, ungratifying"]}
+{"data": ["2021-05-31T06:46:48.494629+00:00", 1283, "Your mother is", "umbrella-shaped", "Pronunciation: /\u0259m\u02c8br\u025bl\u0259-\u0283e\u026apt/", "Definition: shaped in the form of an umbrella", ""]}
