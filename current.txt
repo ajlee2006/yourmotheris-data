@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T12:16:48.634550+00:00", 1316, "Your mother is", "short and sweet", "Similar to: short", "Definition: dealt with very quickly; to the point", ""]}
+{"data": ["2021-05-31T12:26:48.464745+00:00", 1317, "Your mother is", "interlaced", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8le\u026ast/", "Definition: having a pattern of fretwork or latticework", "Synonyms: fretted, latticed, latticelike"]}
