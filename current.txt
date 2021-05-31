@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T12:26:48.464745+00:00", 1317, "Your mother is", "interlaced", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8le\u026ast/", "Definition: having a pattern of fretwork or latticework", "Synonyms: fretted, latticed, latticelike"]}
+{"data": ["2021-05-31T12:36:48.545897+00:00", 1318, "Your mother is", "paederastic", "", "Definition: of homosexuality between a man and a boy", "Synonyms: pederastic"]}
