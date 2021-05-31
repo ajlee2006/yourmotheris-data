@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T01:56:48.457351+00:00", 1254, "Your mother is", "sheeny", "Pronunciation: /\u02c8\u0283ini/", "Definition: reflecting light", "Synonyms: glistening, glossy, lustrous, shining, shiny"]}
+{"data": ["2021-05-31T02:06:48.630685+00:00", 1255, "Your mother is", "m", "Pronunciation: /\u025bm/", "Definition: denoting a quantity consisting of 1,000 items or units", "Synonyms: 1000, k, one thousand, thousand"]}
