@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T08:16:48.638972+00:00", 1292, "Your mother is", "pasty", "Pronunciation: /\u02c8pe\u026asti/", "Definition: resembling paste in color; pallid", "Synonyms: pastelike"]}
+{"data": ["2021-05-31T08:26:48.504987+00:00", 1293, "Your mother is", "abstracted", "Pronunciation: /\u00e6b\u02c8str\u00e6kt\u026ad/", "Definition: lost in thought; showing preoccupation", "Synonyms: absent, absentminded, scatty"]}
