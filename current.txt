@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T15:46:48.403691+00:00", 1337, "Your mother is", "seafaring", "Pronunciation: /\u02c8si\u02ccf\u025cr\u026a\u014b/", "Definition: used on the high seas", "Synonyms: oceangoing, seagoing"]}
+{"data": ["2021-05-31T15:56:48.485250+00:00", 1338, "Your mother is", "constituted", "Pronunciation: /\u02c8k\u0251nst\u028c\u02cctut\u028cd/", "Definition: brought about or set up or accepted; especially long established", "Synonyms: established"]}
