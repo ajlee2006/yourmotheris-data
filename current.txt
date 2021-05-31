@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T05:26:48.543657+00:00", 1275, "Your mother is", "house-proud", "Similar to: proud", "Definition: proud of your house or its furnishings or upkeep", ""]}
+{"data": ["2021-05-31T05:36:49.020090+00:00", 1276, "Your mother is", "complicated", "Pronunciation: /\u02c8k\u0251mpl\u0259\u02ccke\u026at\u026ad/", "Definition: difficult to analyze or understand", "Synonyms: complex"]}
