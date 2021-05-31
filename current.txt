@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T13:26:48.418835+00:00", 1323, "Your mother is", "seventeen", "Pronunciation: /\u02c8s\u025bv\u0259n\u02c8tin/", "Definition: being one more than sixteen", "Synonyms: 17, xvii"]}
+{"data": ["2021-05-31T13:36:48.468404+00:00", 1324, "Your mother is", "concerted", "Pronunciation: /k\u0259n\u02c8s\u025crt\u026ad/", "Definition: involving the joint activity of two or more", "Synonyms: conjunct, conjunctive, cooperative"]}
