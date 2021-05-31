@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T05:56:48.421300+00:00", 1278, "Your mother is", "well-disposed", "Pronunciation: /\u02c8w\u025bl-d\u026a\u02c8spo\u028azd/", "Definition: inclined to help or support; not antagonistic or hostile", "Synonyms: friendly, well disposed"]}
+{"data": ["2021-05-31T06:06:48.480630+00:00", 1279, "Your mother is", "precedent", "Pronunciation: /\u02c8pr\u025bs\u026ad\u0259nt/", "Definition: preceding in time, order, or significance", ""]}
