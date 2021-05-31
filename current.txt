@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T04:26:48.480261+00:00", 1269, "Your mother is", "spooky", "Pronunciation: /\u02c8spuki/", "Definition: unpredictably excitable (especially of horses)", "Synonyms: flighty, nervous, skittish"]}
+{"data": ["2021-05-31T04:36:48.417709+00:00", 1270, "Your mother is", "anarchical", "Pronunciation: /\u0259\u02c8n\u0259rk\u026ak\u0259l/", "Definition: without law or control", "Synonyms: anarchic, lawless"]}
