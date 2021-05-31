@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T12:56:48.481647+00:00", 1320, "Your mother is", "vermiculate", "Pronunciation: /v\u0259r\u02c8m\u026akj\u0259l\u026at/", "Definition: decorated with wormlike tracery or markings", "Synonyms: vermicular, vermiculated"]}
+{"data": ["2021-05-31T13:06:48.558184+00:00", 1321, "Your mother is", "boric", "Pronunciation: /\u02c8bo\u028ar\u026ak/", "Definition: of or relating to or derived from or containing boron", "Synonyms: boracic"]}
