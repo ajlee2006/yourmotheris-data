@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T10:26:48.565222+00:00", 1305, "Your mother is", "reconcilable", "Pronunciation: /\u02c8r\u025bk\u0259n\u02ccsa\u026ab\u0259l/", "Definition: capable of being reconciled", ""]}
+{"data": ["2021-05-31T10:36:48.482424+00:00", 1306, "Your mother is", "metric", "Pronunciation: /\u02c8m\u025btr\u026ak/", "Definition: the rhythmic arrangement of syllables", "Synonyms: measured, metrical"]}
