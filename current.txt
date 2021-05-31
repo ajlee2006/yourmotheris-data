@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T05:46:48.665166+00:00", 1277, "Your mother is", "overburdened", "Pronunciation: /\u02c8o\u028av\u025dr\u02c8b\u025drd\u028cnd/", "Definition: heavily burdened with work or cares", "Synonyms: bowed down, loaded down, weighed down"]}
+{"data": ["2021-05-31T05:56:48.421300+00:00", 1278, "Your mother is", "well-disposed", "Pronunciation: /\u02c8w\u025bl-d\u026a\u02c8spo\u028azd/", "Definition: inclined to help or support; not antagonistic or hostile", "Synonyms: friendly, well disposed"]}
