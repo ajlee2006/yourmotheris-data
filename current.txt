@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T06:26:48.478589+00:00", 1281, "Your mother is", "brindle", "Pronunciation: /\u02c8br\u026and\u0259l/", "Definition: having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats", "Synonyms: brinded, brindled, tabby"]}
+{"data": ["2021-05-31T06:36:48.477256+00:00", 1282, "Your mother is", "unappreciated", "Pronunciation: /\u02cc\u028cn\u028c\u02c8pri\u0283i\u02cce\u026at\u026ad/", "Definition: not likely to be rewarded", "Synonyms: thankless, ungratifying"]}
