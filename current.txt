@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T03:46:48.520315+00:00", 1265, "Your mother is", "metalloid", "Pronunciation: /\u02c8m\u025bt\u02cc\u0259l\u0254\u026ad/", "Definition: of or being a nonmetallic element that has some of the properties of metal", ""]}
+{"data": ["2021-05-31T03:56:48.461950+00:00", 1266, "Your mother is", "lyrate", "Pronunciation: /\u02c8la\u026are\u026at/", "Definition: (of a leaf shape) having curvature suggestive of a lyre", ""]}
