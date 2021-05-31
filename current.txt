@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T20:09:49.378789+00:00", 1363, "Your mother is", "protrusive", "Pronunciation: /pro\u028a\u02c8trus\u026av/", "Definition: thrusting outward", ""]}
+{"data": ["2021-05-31T20:19:49.358698+00:00", 1364, "Your mother is", "bereaved", "Pronunciation: /b\u025dr\u02c8ivd/", "Definition: sorrowful through loss or deprivation", "Synonyms: bereft, grief-stricken, grieving, mourning, sorrowing"]}
