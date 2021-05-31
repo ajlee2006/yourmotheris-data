@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T16:56:48.601711+00:00", 1344, "Your mother is", "slavic", "Pronunciation: /\u02c8sl\u00e6v\u026ak/", "Definition: of or relating to Slavic languages", "Synonyms: slavonic"]}
+{"data": ["2021-05-31T17:06:48.445834+00:00", 1345, "Your mother is", "roman catholic", "Pronunciation: /\u02c8ro\u028am\u0251n-\u02c8k\u00e6\u03b8\u0259l\u026ak/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, papistical, popish, r.c., roman, romanist, romish"]}
