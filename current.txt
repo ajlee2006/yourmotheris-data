@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T17:56:48.540967+00:00", 1350, "Your mother is", "allusive", "Pronunciation: /\u0259\u02c8lus\u026av/", "Definition: characterized by indirect references", ""]}
+{"data": ["2021-05-31T18:06:48.677566+00:00", 1351, "Your mother is", "epic", "Pronunciation: /\u02c8\u025bp\u026ak/", "Definition: constituting or having to do with or suggestive of a literary epic", "Synonyms: epical"]}
