@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T18:46:48.583647+00:00", 1355, "Your mother is", "beady", "Pronunciation: /\u02c8bidi/", "Definition: covered with beads or jewels or sequins", "Synonyms: gemmed, jeweled, jewelled, sequined, spangled, spangly"]}
+{"data": ["2021-05-31T18:56:48.489756+00:00", 1356, "Your mother is", "virile", "Pronunciation: /\u02c8v\u026ar\u0259l/", "Definition: characteristic of a man", "Synonyms: male, manful, manlike, manly"]}
