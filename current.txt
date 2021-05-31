@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T00:36:48.477343+00:00", 1246, "Your mother is", "valetudinary", "Pronunciation: /\u02ccv\u00e6l\u026a\u02c8tud\u02cc\u0259n\u025bri/", "Definition: of or relating to or characteristic of a person who is a valetudinarian", "Synonyms: valetudinarian"]}
+{"data": ["2021-05-31T00:46:48.409983+00:00", 1247, "Your mother is", "excused", "Pronunciation: /\u026ak\u02c8skjuzd/", "Definition: granted exemption", ""]}
