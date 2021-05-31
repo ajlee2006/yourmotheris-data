@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T23:49:49.607031+00:00", 1385, "Your mother is", "upstage", "Pronunciation: /\u02c8\u0259p\u02c8ste\u026ad\u0292/", "Definition: remote in manner", "Synonyms: aloof, distant"]}
+{"data": ["2021-05-31T23:59:49.619424+00:00", 1386, "Your mother is", "excusatory", "Pronunciation: /\u026ak\u02c8skjuz\u0259\u02ccto\u028ari/", "Definition: offering or expressing apology", "Synonyms: apologetic"]}
