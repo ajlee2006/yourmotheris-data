@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T22:09:49.548294+00:00", 1375, "Your mother is", "anagogic", "Pronunciation: /\u02cc\u00e6n\u0259\u02c8\u0261\u0251d\u0292\u026ak/", "Definition: based on or exemplifying anagoge", "Synonyms: anagogical"]}
+{"data": ["2021-05-31T22:19:49.780843+00:00", 1376, "Your mother is", "unsuppressed", "Similar to: uninhibited", "Definition: given vent to", ""]}
