@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T08:56:48.598901+00:00", 1296, "Your mother is", "undersealed", "Similar to: rustless", "Definition: (of motor vehicles) having a coating of tar or other rustproof material applied to the underside", "Synonyms: undercoated"]}
+{"data": ["2021-05-31T09:06:49.006449+00:00", 1297, "Your mother is", "unsatisfied", "Pronunciation: /\u0259n\u02c8s\u00e6t\u026as\u02ccfa\u026ad/", "Definition: not having been satisfied", "Synonyms: unsated, unsatiated"]}
