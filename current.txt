@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T07:26:48.520365+00:00", 1287, "Your mother is", "changeable", "Pronunciation: /\u02c8\u02a7e\u026and\u0292\u0259b\u0259l/", "Definition: capable of or tending to change in form or quality or nature", "Synonyms: mutable"]}
+{"data": ["2021-05-31T07:36:49.170594+00:00", 1288, "Your mother is", "spidery", "Pronunciation: /\u02c8spa\u026ad\u0259ri/", "Definition: relating to or resembling a member of the class Arachnida", "Synonyms: arachnidian, arachnoid, spiderlike, spiderly"]}
