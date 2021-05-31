@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T08:36:48.359902+00:00", 1294, "Your mother is", "harrowing", "Pronunciation: /\u02c8h\u025bro\u028a\u026a\u014b/", "Definition: extremely painful", "Synonyms: agonising, agonizing, excruciating, torturesome, torturing, torturous"]}
+{"data": ["2021-05-31T08:46:48.458623+00:00", 1295, "Your mother is", "inescapable", "Pronunciation: /\u02cc\u026an\u025b\u02c8ske\u026ap\u0259b\u0259l/", "Definition: impossible to avoid or evade", "Synonyms: ineluctable, unavoidable"]}
