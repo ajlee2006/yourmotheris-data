@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T08:46:48.458623+00:00", 1295, "Your mother is", "inescapable", "Pronunciation: /\u02cc\u026an\u025b\u02c8ske\u026ap\u0259b\u0259l/", "Definition: impossible to avoid or evade", "Synonyms: ineluctable, unavoidable"]}
+{"data": ["2021-05-31T08:56:48.598901+00:00", 1296, "Your mother is", "undersealed", "Similar to: rustless", "Definition: (of motor vehicles) having a coating of tar or other rustproof material applied to the underside", "Synonyms: undercoated"]}
