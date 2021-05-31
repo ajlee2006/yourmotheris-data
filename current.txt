@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T07:36:49.170594+00:00", 1288, "Your mother is", "spidery", "Pronunciation: /\u02c8spa\u026ad\u0259ri/", "Definition: relating to or resembling a member of the class Arachnida", "Synonyms: arachnidian, arachnoid, spiderlike, spiderly"]}
+{"data": ["2021-05-31T07:46:48.414922+00:00", 1289, "Your mother is", "acquirable", "Similar to: available", "Definition: capable of being acquired", ""]}
