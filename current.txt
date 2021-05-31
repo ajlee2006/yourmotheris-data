@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T04:06:48.372435+00:00", 1267, "Your mother is", "cambodian", "Pronunciation: /k\u00e6m\u02c8bo\u028adi\u0259n/", "Definition: of or relating to or characteristic of Cambodia or its people or language", "Synonyms: kampuchean"]}
+{"data": ["2021-05-31T04:16:48.443417+00:00", 1268, "Your mother is", "sensuous", "Pronunciation: /\u02ccs\u025bn\u0283u\u02c8\u0251s\u026ati/", "Definition: taking delight in beauty", ""]}
