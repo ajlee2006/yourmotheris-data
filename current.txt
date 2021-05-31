@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T15:26:48.447842+00:00", 1335, "Your mother is", "reconciled", "Pronunciation: /\u02c8r\u025bk\u028cn\u02ccsa\u026ald/", "Definition: made compatible or consistent", ""]}
+{"data": ["2021-05-31T15:36:48.446781+00:00", 1336, "Your mother is", "careworn", "Pronunciation: /\u02c8k\u025cr\u02ccwo\u028arn/", "Definition: showing the wearing effects of overwork or care or suffering", "Synonyms: drawn, haggard, raddled, worn"]}
