@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T19:36:48.529934+00:00", 1360, "Your mother is", "perfervid", "Pronunciation: /p\u0259r\u02c8f\u025crv\u026ad/", "Definition: characterized by intense emotion", "Synonyms: ardent, fervent, fervid, fiery, impassioned, torrid"]}
+{"data": ["2021-05-31T19:46:48.937400+00:00", 1361, "Your mother is", "ludic", "Similar to: playful", "Definition: relating to play or playfulness", ""]}
