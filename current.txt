@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T02:16:48.416017+00:00", 1256, "Your mother is", "light-minded", "Pronunciation: /\u02c8la\u026at\u02c8ma\u026and\u026ad/", "Definition: showing inappropriate levity", "Synonyms: flippant"]}
+{"data": ["2021-05-31T02:26:48.533964+00:00", 1257, "Your mother is", "singsong", "Pronunciation: /\u02c8s\u026a\u014bs\u0251\u014b/", "Definition: uttered in a monotonous cadence or rhythm as in chanting", "Synonyms: chantlike, intoned"]}
