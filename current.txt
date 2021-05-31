@@ -1,1 +1,1 @@
-{"data": ["2021-05-31T00:56:49.207676+00:00", 1248, "Your mother is", "uncollectible", "Pronunciation: /\u028cnk\u028c\u02c8l\u025bkt\u026ab\u028cl/", "Definition: not capable of being collected", "Synonyms: bad"]}
+{"data": ["2021-05-31T01:06:48.509883+00:00", 1249, "Your mother is", "coral", "Pronunciation: /\u02c8k\u0254r\u0259l/", "Definition: of a strong pink to yellowish-pink color", ""]}
