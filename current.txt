@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T12:39:50.199901+00:00", 1462, "Your mother is", "k", "Pronunciation: /ke\u026a/", "Definition: denoting a quantity consisting of 1,000 items or units", "Synonyms: 1000, m, one thousand, thousand"]}
+{"data": ["2021-06-01T12:49:49.378162+00:00", 1463, "Your mother is", "balding", "Pronunciation: /\u02c8b\u0254ld\u026a\u014b/", "Definition: getting bald", ""]}
