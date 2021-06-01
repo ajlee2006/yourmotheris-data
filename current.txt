@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T10:59:49.970631+00:00", 1452, "Your mother is", "former", "Pronunciation: /\u02c8f\u0254rm\u0259r/", "Definition: belonging to some prior time", "Synonyms: erstwhile, old, one-time, onetime, quondam, sometime"]}
+{"data": ["2021-06-01T11:09:49.492265+00:00", 1453, "Your mother is", "retroflexed", "Similar to: backward", "Definition: bent or curved backward", "Synonyms: retroflex"]}
