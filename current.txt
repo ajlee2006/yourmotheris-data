@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T03:29:49.540198+00:00", 1407, "Your mother is", "boisterous", "Pronunciation: /\u02c8b\u0254\u026ast\u0259r\u0259s/", "Definition: violently agitated and turbulent", "Synonyms: fierce, rough"]}
+{"data": ["2021-06-01T03:39:49.428084+00:00", 1408, "Your mother is", "one-woman", "Similar to: single", "Definition: designed for or restricted to a single person", "Synonyms: one-man, one-person"]}
