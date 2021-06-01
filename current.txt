@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T04:39:49.441114+00:00", 1414, "Your mother is", "benignant", "Pronunciation: /b\u026a\u02c8n\u026agn\u0259nt/", "Definition: characterized by kindness and warm courtesy especially of a king to his subjects", "Synonyms: gracious"]}
+{"data": ["2021-06-01T04:49:49.347871+00:00", 1415, "Your mother is", "coolheaded", "Similar to: composed", "Definition: marked by calm self-control (especially in trying circumstances); unemotional", "Synonyms: cool, nerveless"]}
