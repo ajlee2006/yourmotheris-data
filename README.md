@@ -2,7 +2,7 @@
 ## UPDATE 22/05/2021
 I reset the entire system to implement a better past storage system where all past entries are stored in one file. The previous words are downloadable at [previousrun.zip](https://raw.githubusercontent.com/ajlee2006/yourmotheris-data/main/previousrun.zip) 
 
-## [BETA] yourmotheris-data
+## yourmotheris-data
 Data for the 10-minutely Your Mother Is word.
 
 ## Accessing data
