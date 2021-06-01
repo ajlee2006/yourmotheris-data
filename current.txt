@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T05:39:49.405790+00:00", 1420, "Your mother is", "societal", "Pronunciation: /s\u028c\u02c8sa\u026a\u026at\u028cl/", "Definition: relating to human society and its members", "Synonyms: social"]}
+{"data": ["2021-06-01T05:49:49.376240+00:00", 1421, "Your mother is", "transposable", "Similar to: exchangeable", "Definition: capable of changing sequence", "Synonyms: permutable"]}
