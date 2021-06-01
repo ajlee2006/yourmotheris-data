@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T10:09:49.515175+00:00", 1447, "Your mother is", "scandinavian", "Pronunciation: /\u02ccsk\u00e6nd\u026a\u02c8ne\u026avi\u0259n/", "Definition: of or relating to Scandinavia or its peoples or cultures", "Synonyms: norse"]}
+{"data": ["2021-06-01T10:19:49.677542+00:00", 1448, "Your mother is", "carnivorous", "Pronunciation: /k\u0251r\u02c8n\u026av\u0259r\u0259s/", "Definition: (used of plants as well as animals) feeding on animals", ""]}
