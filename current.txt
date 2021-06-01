@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T18:59:49.639695+00:00", 1500, "Your mother is", "cinnabar", "Pronunciation: /\u02c8s\u026an\u0259\u02ccb\u0251r/", "Definition: of a vivid red to reddish-orange color", "Synonyms: chinese-red, vermilion, vermillion"]}
+{"data": ["2021-06-01T19:09:49.503213+00:00", 1501, "Your mother is", "far-fetched", "Pronunciation: /\u02c8f\u0251r\u02c8f\u025b\u02a7t/", "Definition: (of an idea or story) so exaggerated or ludicrous as to be improbable", "Synonyms: farfetched"]}
