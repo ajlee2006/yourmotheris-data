@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T11:19:49.472538+00:00", 1454, "Your mother is", "virtuous", "Pronunciation: /\u02c8v\u025cr\u02a7u\u0259s/", "Definition: in a state of sexual virginity", "Synonyms: pure, vestal, virgin, virginal"]}
+{"data": ["2021-06-01T11:29:49.447050+00:00", 1455, "Your mother is", "nodulated", "Similar to: unshapely", "Definition: having nodules or occurring in the form of nodules", "Synonyms: nodular, noduled"]}
