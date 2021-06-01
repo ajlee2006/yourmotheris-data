@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T15:09:49.492427+00:00", 1477, "Your mother is", "handsewn", "Pronunciation: /\u02c8h\u00e6nd\u02c8so\u028an/", "Definition: sewn by hand rather than machine", "Synonyms: handstitched"]}
+{"data": ["2021-06-01T15:19:50.313107+00:00", 1478, "Your mother is", "maidenly", "Similar to: feminine", "Definition: befitting or characteristic of a maiden", "Synonyms: maidenlike"]}
