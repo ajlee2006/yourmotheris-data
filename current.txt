@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T18:39:49.597982+00:00", 1498, "Your mother is", "indifferent", "Pronunciation: /\u026an\u02c8d\u026af\u0259r\u0259nt/", "Definition: characterized by a lack of partiality", "Synonyms: unbiased, unbiassed"]}
+{"data": ["2021-06-01T18:49:50.107656+00:00", 1499, "Your mother is", "highly infective", "Similar to: virulent", "Definition: (of a microorganism) extremely infective", ""]}
