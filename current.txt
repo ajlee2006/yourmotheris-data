@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T03:09:49.411702+00:00", 1405, "Your mother is", "evocative", "Pronunciation: /\u026a\u02c8v\u0251k\u0259t\u026av/", "Definition: serving to bring to mind", "Synonyms: redolent, remindful, reminiscent, resonant"]}
+{"data": ["2021-06-01T03:19:49.635525+00:00", 1406, "Your mother is", "unknowable", "Pronunciation: /\u0259n\u02c8no\u028a\u0259b\u0259l/", "Definition: not knowable", ""]}
