@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T06:59:49.622705+00:00", 1428, "Your mother is", "crashing", "Pronunciation: /\u02c8kr\u00e6\u0283\u026a\u014b/", "Definition: informal intensifiers", "Synonyms: bally, blinking, bloody, blooming, flaming, fucking"]}
+{"data": ["2021-06-01T07:09:49.449719+00:00", 1429, "Your mother is", "comme il faut", "Pronunciation: /k\u0254-mil-\u02c8fo\u028a/", "Definition: according with custom or propriety", "Synonyms: becoming, comely, decorous, seemly"]}
