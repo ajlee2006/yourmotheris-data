@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T12:59:49.429682+00:00", 1464, "Your mother is", "content", "Pronunciation: /k\u0259n\u02c8t\u025bnt/", "Definition: satisfied or showing satisfaction with things as they are", "Synonyms: contented"]}
+{"data": ["2021-06-01T13:09:49.688983+00:00", 1465, "Your mother is", "glistening", "Pronunciation: /\u02c8\u0261l\u026as\u028cn\u026a\u014b/", "Definition: reflecting light", "Synonyms: glossy, lustrous, sheeny, shining, shiny"]}
