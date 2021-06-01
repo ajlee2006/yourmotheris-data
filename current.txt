@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T13:39:49.419806+00:00", 1468, "Your mother is", "gothic", "Pronunciation: /\u02c8\u0261\u0251\u03b8\u026ak/", "Definition: as if belonging to the Middle Ages; old-fashioned and unenlightened", "Synonyms: mediaeval, medieval"]}
+{"data": ["2021-06-01T13:49:49.729356+00:00", 1469, "Your mother is", "linked", "Pronunciation: /l\u026a\u014bkt/", "Definition: connected by a link, as railway cars or trailer trucks", "Synonyms: coupled, joined"]}
