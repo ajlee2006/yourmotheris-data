@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T14:09:49.463566+00:00", 1471, "Your mother is", "chapfallen", "Pronunciation: /\u02c8\u02a7\u0251p\u02ccf\u0254l\u0259n/", "Definition: brought low in spirit", "Synonyms: chopfallen, crestfallen, deflated"]}
+{"data": ["2021-06-01T14:19:49.520786+00:00", 1472, "Your mother is", "southern", "Pronunciation: /\u02c8s\u0259\u00f0\u0259rn/", "Definition: from the south; used especially of wind", "Synonyms: southerly"]}
