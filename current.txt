@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T11:59:50.078553+00:00", 1458, "Your mother is", "adjustable", "Pronunciation: /\u028c\u02c8d\u0292\u028cst\u028cb\u028cl/", "Definition: capable of being changed so as to match or fit", ""]}
+{"data": ["2021-06-01T12:09:49.767376+00:00", 1459, "Your mother is", "tough", "Pronunciation: /t\u0259f/", "Definition: making great mental demands; hard to comprehend or solve or believe", "Synonyms: baffling, elusive, knotty, problematic, problematical"]}
