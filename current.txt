@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T16:49:49.427772+00:00", 1487, "Your mother is", "equable", "Pronunciation: /\u02c8\u025bkw\u0259b\u0259l/", "Definition: not easily irritated", "Synonyms: even-tempered, good-tempered, placid"]}
+{"data": ["2021-06-01T16:59:49.447874+00:00", 1488, "Your mother is", "unyielding", "Pronunciation: /\u0259n\u02c8jildi\u014b/", "Definition: stubbornly unyielding", "Synonyms: dogged, dour, persistent, pertinacious, tenacious"]}
