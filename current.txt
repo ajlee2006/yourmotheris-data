@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T22:32:12.709728+00:00", 1521, "Your mother is", "nightly", "Pronunciation: /\u02c8na\u026atli/", "Definition: happening every night", ""]}
+{"data": ["2021-06-01T22:42:13.316994+00:00", 1522, "Your mother is", "nuclear", "Pronunciation: /\u02c8nukli\u0259r/", "Definition: (weapons) deriving destructive energy from the release of atomic energy", "Synonyms: atomic"]}
