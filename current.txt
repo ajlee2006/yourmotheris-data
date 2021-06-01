@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T04:19:49.655430+00:00", 1412, "Your mother is", "assignable", "Pronunciation: /\u0259\u02c8sa\u026an\u0259b\u0259l/", "Definition: legally transferable to the ownership of another", "Synonyms: conveyable, negotiable, transferable, transferrable"]}
+{"data": ["2021-06-01T04:29:49.565180+00:00", 1413, "Your mother is", "proto", "Pronunciation: /\u02c8pro\u028at\u028c/", "Definition: indicating the first or earliest or original", ""]}
