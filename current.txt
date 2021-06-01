@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T13:49:49.729356+00:00", 1469, "Your mother is", "linked", "Pronunciation: /l\u026a\u014bkt/", "Definition: connected by a link, as railway cars or trailer trucks", "Synonyms: coupled, joined"]}
+{"data": ["2021-06-01T13:59:49.548121+00:00", 1470, "Your mother is", "unripe", "Pronunciation: /\u0259n\u02c8ra\u026ap/", "Definition: not fully developed or mature; not ripe", "Synonyms: green, immature, unripened"]}
