@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T00:39:49.476753+00:00", 1390, "Your mother is", "hoarse", "Pronunciation: /ho\u028ars/", "Definition: deep and harsh sounding as if from shouting or illness or emotion", "Synonyms: gruff, husky"]}
+{"data": ["2021-06-01T00:49:49.465913+00:00", 1391, "Your mother is", "reposeful", "Pronunciation: /r\u026a\u02c8po\u028azf\u0259l/", "Definition: affording physical or mental rest", "Synonyms: relaxing, restful"]}
