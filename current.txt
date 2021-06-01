@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T18:19:49.595581+00:00", 1496, "Your mother is", "unsalable", "Pronunciation: /\u028cn\u02c8se\u026al\u028cb\u028cl/", "Definition: impossible to sell", "Synonyms: unsaleable"]}
+{"data": ["2021-06-01T18:29:49.601379+00:00", 1497, "Your mother is", "scabby", "Pronunciation: /\u02c8sk\u00e6bi/", "Definition: covered with scabs", ""]}
