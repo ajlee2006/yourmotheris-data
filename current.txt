@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T11:39:49.427951+00:00", 1456, "Your mother is", "175th", "Similar to: ordinal", "Definition: the ordinal number of one hundred seventy-five in counting order", "Synonyms: hundred-and-seventy-fifth"]}
+{"data": ["2021-06-01T11:49:49.898171+00:00", 1457, "Your mother is", "citified", "Pronunciation: /\u02c8s\u026at\u026a\u02ccfa\u026ad/", "Definition: being or having the customs or manners or dress of a city person", "Synonyms: city-born, city-bred, cityfied"]}
