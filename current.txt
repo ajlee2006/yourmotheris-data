@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T06:09:49.620453+00:00", 1423, "Your mother is", "comradely", "Similar to: friendly", "Definition: heartily friendly and congenial", "Synonyms: hail-fellow, hail-fellow-well-met"]}
+{"data": ["2021-06-01T06:19:49.420324+00:00", 1424, "Your mother is", "beat", "Pronunciation: /bit/", "Definition: very tired", "Synonyms: all in, bushed, dead"]}
