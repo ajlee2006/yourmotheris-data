@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T13:29:49.409373+00:00", 1467, "Your mother is", "conceited", "Pronunciation: /k\u0259n\u02c8sit\u026ad/", "Definition: characteristic of false pride; having an exaggerated sense of self-importance", "Synonyms: egotistic, egotistical, self-conceited, swollen, swollen-headed, vain"]}
+{"data": ["2021-06-01T13:39:49.419806+00:00", 1468, "Your mother is", "gothic", "Pronunciation: /\u02c8\u0261\u0251\u03b8\u026ak/", "Definition: as if belonging to the Middle Ages; old-fashioned and unenlightened", "Synonyms: mediaeval, medieval"]}
