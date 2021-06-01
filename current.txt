@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T13:19:49.482188+00:00", 1466, "Your mother is", "analogical", "Pronunciation: /\u02cc\u00e6n\u02c8\u0259l\u0251d\u0292\u026ak\u0259l/", "Definition: expressing, composed of, or based on an analogy", ""]}
+{"data": ["2021-06-01T13:29:49.409373+00:00", 1467, "Your mother is", "conceited", "Pronunciation: /k\u0259n\u02c8sit\u026ad/", "Definition: characteristic of false pride; having an exaggerated sense of self-importance", "Synonyms: egotistic, egotistical, self-conceited, swollen, swollen-headed, vain"]}
