@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T00:09:49.483043+00:00", 1387, "Your mother is", "awed", "Pronunciation: /\u0254d/", "Definition: inspired by a feeling of fearful wonderment or reverence", "Synonyms: awful"]}
+{"data": ["2021-06-01T00:19:49.570053+00:00", 1388, "Your mother is", "recurring", "Pronunciation: /r\u026a\u02c8k\u025dr\u026a\u014b/", "Definition: coming back", "Synonyms: revenant"]}
