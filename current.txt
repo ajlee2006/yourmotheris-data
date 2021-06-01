@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T02:59:49.399813+00:00", 1404, "Your mother is", "insatiate", "Pronunciation: /\u026an\u02c8se\u026a\u0283i\u026at/", "Definition: impossible to satisfy", "Synonyms: insatiable, unsatiable"]}
+{"data": ["2021-06-01T03:09:49.411702+00:00", 1405, "Your mother is", "evocative", "Pronunciation: /\u026a\u02c8v\u0251k\u0259t\u026av/", "Definition: serving to bring to mind", "Synonyms: redolent, remindful, reminiscent, resonant"]}
