@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T07:39:49.477236+00:00", 1432, "Your mother is", "shifting", "Pronunciation: /\u02c8\u0283\u026aft\u026a\u014b/", "Definition: (of soil) unstable", "Synonyms: unfirm"]}
+{"data": ["2021-06-01T07:49:49.500071+00:00", 1433, "Your mother is", "co-referent", "", "Definition: relating to coreference", "Synonyms: coreferential"]}
