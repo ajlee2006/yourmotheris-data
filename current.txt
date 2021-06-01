@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T16:29:50.182295+00:00", 1485, "Your mother is", "realized", "Pronunciation: /\u02c8ri\u02ccla\u026azd/", "Definition: successfully completed or brought to an end", "Synonyms: accomplished, completed, realised"]}
+{"data": ["2021-06-01T16:39:49.502376+00:00", 1486, "Your mother is", "purplish-red", "Similar to: chromatic", "Definition: of red tinged with purple", "Synonyms: purple-red"]}
