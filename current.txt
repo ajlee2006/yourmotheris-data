@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T14:19:49.520786+00:00", 1472, "Your mother is", "southern", "Pronunciation: /\u02c8s\u0259\u00f0\u0259rn/", "Definition: from the south; used especially of wind", "Synonyms: southerly"]}
+{"data": ["2021-06-01T14:29:49.523806+00:00", 1473, "Your mother is", "obliterate", "Pronunciation: /\u0259\u02c8bl\u026at\u0259\u02ccre\u026at/", "Definition: reduced to nothingness", "Synonyms: blotted out, obliterated"]}
