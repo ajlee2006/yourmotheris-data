@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T20:12:13.341177+00:00", 1507, "Your mother is", "l", "Pronunciation: /\u025bl/", "Definition: being ten more than forty", "Synonyms: 50, fifty"]}
+{"data": ["2021-06-01T20:22:12.728528+00:00", 1508, "Your mother is", "bumper-to-bumper", "Similar to: slow", "Definition: used of traffic", ""]}
