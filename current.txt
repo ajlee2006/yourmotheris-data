@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T18:09:49.546901+00:00", 1495, "Your mother is", "conspiratorial", "Pronunciation: /k\u028cn\u02ccsp\u026ar\u028c\u02c8t\u0254ri\u028cl/", "Definition: relating to or characteristic of conspiracy or conspirators", "Synonyms: conspirative"]}
+{"data": ["2021-06-01T18:19:49.595581+00:00", 1496, "Your mother is", "unsalable", "Pronunciation: /\u028cn\u02c8se\u026al\u028cb\u028cl/", "Definition: impossible to sell", "Synonyms: unsaleable"]}
