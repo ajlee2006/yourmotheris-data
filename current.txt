@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T18:29:49.601379+00:00", 1497, "Your mother is", "scabby", "Pronunciation: /\u02c8sk\u00e6bi/", "Definition: covered with scabs", ""]}
+{"data": ["2021-06-01T18:39:49.597982+00:00", 1498, "Your mother is", "indifferent", "Pronunciation: /\u026an\u02c8d\u026af\u0259r\u0259nt/", "Definition: characterized by a lack of partiality", "Synonyms: unbiased, unbiassed"]}
