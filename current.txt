@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T07:59:49.414567+00:00", 1434, "Your mother is", "uncomprehending", "Pronunciation: /\u02cc\u0259nk\u0251mpri\u02c8h\u025bndi\u014b/", "Definition: lacking understanding", ""]}
+{"data": ["2021-06-01T08:09:49.505605+00:00", 1435, "Your mother is", "decent", "Pronunciation: /\u02c8dis\u0259nt/", "Definition: in harmony with the spirit of particular persons or occasion", "Synonyms: fitting"]}
