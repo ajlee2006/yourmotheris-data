@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T18:49:50.107656+00:00", 1499, "Your mother is", "highly infective", "Similar to: virulent", "Definition: (of a microorganism) extremely infective", ""]}
+{"data": ["2021-06-01T18:59:49.639695+00:00", 1500, "Your mother is", "cinnabar", "Pronunciation: /\u02c8s\u026an\u0259\u02ccb\u0251r/", "Definition: of a vivid red to reddish-orange color", "Synonyms: chinese-red, vermilion, vermillion"]}
