@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T08:39:50.122501+00:00", 1438, "Your mother is", "eellike", "Pronunciation: /\u02c8il\u02ccla\u026ak/", "Definition: resembling an eel in being long and thin and sinuous", ""]}
+{"data": ["2021-06-01T08:49:50.114874+00:00", 1439, "Your mother is", "pinioned", "Similar to: bound", "Definition: bound fast especially having the arms restrained", ""]}
