@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T10:19:49.677542+00:00", 1448, "Your mother is", "carnivorous", "Pronunciation: /k\u0251r\u02c8n\u026av\u0259r\u0259s/", "Definition: (used of plants as well as animals) feeding on animals", ""]}
+{"data": ["2021-06-01T10:29:49.556605+00:00", 1449, "Your mother is", "run-of-the-mine", "Pronunciation: /\u02c8r\u0259n\u0259v\u00f0\u0259\u02c8ma\u026an/", "Definition: not special in any way; lacking distinction", "Synonyms: mine run, run-of-the-mill, undistinguished, unexceptional"]}
