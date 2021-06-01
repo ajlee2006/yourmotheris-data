@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T10:49:49.439056+00:00", 1451, "Your mother is", "wide", "Pronunciation: /wa\u026ad/", "Definition: not on target", "Synonyms: wide of the mark"]}
+{"data": ["2021-06-01T10:59:49.970631+00:00", 1452, "Your mother is", "former", "Pronunciation: /\u02c8f\u0254rm\u0259r/", "Definition: belonging to some prior time", "Synonyms: erstwhile, old, one-time, onetime, quondam, sometime"]}
