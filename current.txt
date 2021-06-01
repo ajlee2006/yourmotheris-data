@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T16:09:50.250678+00:00", 1483, "Your mother is", "silty", "Pronunciation: /\u02c8s\u026alti/", "Definition: full of silt", ""]}
+{"data": ["2021-06-01T16:19:49.420091+00:00", 1484, "Your mother is", "palaeontological", "", "Definition: of or relating to paleontology", "Synonyms: paleontological"]}
