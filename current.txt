@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T09:59:49.394053+00:00", 1446, "Your mother is", "only", "Pronunciation: /\u02c8o\u028anli/", "Definition: being the only one; single and isolated from others", "Synonyms: lone, lonesome, sole, solitary"]}
+{"data": ["2021-06-01T10:09:49.515175+00:00", 1447, "Your mother is", "scandinavian", "Pronunciation: /\u02ccsk\u00e6nd\u026a\u02c8ne\u026avi\u0259n/", "Definition: of or relating to Scandinavia or its peoples or cultures", "Synonyms: norse"]}
