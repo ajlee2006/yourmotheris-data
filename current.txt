@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T14:59:49.512321+00:00", 1476, "Your mother is", "metallic", "Pronunciation: /m\u0259\u02c8t\u00e6l\u026ak/", "Definition: containing or made of or resembling or characteristic of a metal", "Synonyms: metal"]}
+{"data": ["2021-06-01T15:09:49.492427+00:00", 1477, "Your mother is", "handsewn", "Pronunciation: /\u02c8h\u00e6nd\u02c8so\u028an/", "Definition: sewn by hand rather than machine", "Synonyms: handstitched"]}
