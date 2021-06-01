@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T22:42:13.316994+00:00", 1522, "Your mother is", "nuclear", "Pronunciation: /\u02c8nukli\u0259r/", "Definition: (weapons) deriving destructive energy from the release of atomic energy", "Synonyms: atomic"]}
+{"data": ["2021-06-01T22:52:12.546785+00:00", 1523, "Your mother is", "broken-field", "Similar to: broken", "Definition: varying in direction suddenly and frequently", ""]}
