@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T06:19:49.420324+00:00", 1424, "Your mother is", "beat", "Pronunciation: /bit/", "Definition: very tired", "Synonyms: all in, bushed, dead"]}
+{"data": ["2021-06-01T06:29:49.445484+00:00", 1425, "Your mother is", "actinoid", "Pronunciation: /\u02c8\u00e6kt\u0259\u02ccn\u0254\u026ad/", "Definition: having a radial form", ""]}
