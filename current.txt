@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T20:42:12.771771+00:00", 1510, "Your mother is", "air-to-surface", "Pronunciation: /\u02c8\u025crt\u0259\u02c8s\u025crf\u0259s/", "Definition: operating from or designed to be fired from aircraft at targets on the ground", "Synonyms: air-to-ground"]}
+{"data": ["2021-06-01T20:52:12.848584+00:00", 1511, "Your mother is", "purple-green", "Pronunciation: /\u02c8p\u025crp\u0259l-grin/", "Definition: of green tinged with purple", "Synonyms: purplish-green"]}
