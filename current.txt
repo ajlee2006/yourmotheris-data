@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T19:39:49.487779+00:00", 1504, "Your mother is", "freehanded", "Similar to: generous", "Definition: given or giving freely", "Synonyms: big, bighearted, bounteous, bountiful, giving, handsome, liberal, openhanded"]}
+{"data": ["2021-06-01T19:49:49.529891+00:00", 1505, "Your mother is", "prefrontal", "Pronunciation: /pri\u02c8fr\u0259nt\u0259l/", "Definition: anterior to a frontal structure", ""]}
