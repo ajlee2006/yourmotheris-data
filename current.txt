@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T15:49:49.448050+00:00", 1481, "Your mother is", "self-evident", "Pronunciation: /s\u025blf-\u02c8\u025bv\u026ad\u0259nt/", "Definition: evident without proof or argument", "Synonyms: axiomatic, taken for granted"]}
+{"data": ["2021-06-01T15:59:49.490864+00:00", 1482, "Your mother is", "lip-shaped", "Similar to: formed", "Definition: shaped in the form of a lip", ""]}
