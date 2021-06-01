@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T07:29:49.399498+00:00", 1431, "Your mother is", "unverifiable", "Pronunciation: /\u0259n\u02c8v\u025bri\u02ccfa\u026a\u0259b\u0259l/", "Definition: (of e.g. evidence) not objective or easily verified", "Synonyms: unobjective"]}
+{"data": ["2021-06-01T07:39:49.477236+00:00", 1432, "Your mother is", "shifting", "Pronunciation: /\u02c8\u0283\u026aft\u026a\u014b/", "Definition: (of soil) unstable", "Synonyms: unfirm"]}
