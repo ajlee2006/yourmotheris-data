@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T12:49:49.378162+00:00", 1463, "Your mother is", "balding", "Pronunciation: /\u02c8b\u0254ld\u026a\u014b/", "Definition: getting bald", ""]}
+{"data": ["2021-06-01T12:59:49.429682+00:00", 1464, "Your mother is", "content", "Pronunciation: /k\u0259n\u02c8t\u025bnt/", "Definition: satisfied or showing satisfaction with things as they are", "Synonyms: contented"]}
