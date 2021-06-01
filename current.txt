@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T03:19:49.635525+00:00", 1406, "Your mother is", "unknowable", "Pronunciation: /\u0259n\u02c8no\u028a\u0259b\u0259l/", "Definition: not knowable", ""]}
+{"data": ["2021-06-01T03:29:49.540198+00:00", 1407, "Your mother is", "boisterous", "Pronunciation: /\u02c8b\u0254\u026ast\u0259r\u0259s/", "Definition: violently agitated and turbulent", "Synonyms: fierce, rough"]}
