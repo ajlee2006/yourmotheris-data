@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T20:32:12.622783+00:00", 1509, "Your mother is", "under wraps", "Similar to: covert", "Definition: kept secret", ""]}
+{"data": ["2021-06-01T20:42:12.771771+00:00", 1510, "Your mother is", "air-to-surface", "Pronunciation: /\u02c8\u025crt\u0259\u02c8s\u025crf\u0259s/", "Definition: operating from or designed to be fired from aircraft at targets on the ground", "Synonyms: air-to-ground"]}
