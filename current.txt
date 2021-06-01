@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T23:32:12.627492+00:00", 1527, "Your mother is", "antitumor", "", "Definition: used in the treatment of cancer", "Synonyms: anticancer, antineoplastic, antitumour"]}
+{"data": ["2021-06-01T23:42:12.617316+00:00", 1528, "Your mother is", "imperial", "Pronunciation: /\u026am\u02c8piri\u0259l/", "Definition: belonging to or befitting a supreme ruler", "Synonyms: majestic, purple, regal, royal"]}
