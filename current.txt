@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T08:59:49.509343+00:00", 1440, "Your mother is", "accented", "Pronunciation: /\u02c8\u00e6ks\u025bnt\u026ad/", "Definition: (used of syllables) bearing the principle stress, usually accompanied by a change in pitch", "Synonyms: tonic"]}
+{"data": ["2021-06-01T09:09:50.223957+00:00", 1441, "Your mother is", "convulsive", "Pronunciation: /k\u0259n\u02c8v\u0259ls\u026av/", "Definition: affected by involuntary jerky muscular contractions; resembling a spasm", "Synonyms: spasmodic, spastic"]}
