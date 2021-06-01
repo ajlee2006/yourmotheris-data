@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T07:09:49.449719+00:00", 1429, "Your mother is", "comme il faut", "Pronunciation: /k\u0254-mil-\u02c8fo\u028a/", "Definition: according with custom or propriety", "Synonyms: becoming, comely, decorous, seemly"]}
+{"data": ["2021-06-01T07:19:49.579376+00:00", 1430, "Your mother is", "inaudible", "Pronunciation: /\u026an\u02c8\u0254d\u0259b\u0259l/", "Definition: impossible to hear; imperceptible by the ear", "Synonyms: unhearable"]}
