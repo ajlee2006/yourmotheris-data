@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T09:19:49.874244+00:00", 1442, "Your mother is", "scrumptious", "Pronunciation: /\u02c8skr\u0259mp\u0283\u0259s/", "Definition: extremely pleasing to the sense of taste", "Synonyms: delectable, delicious, luscious, pleasant-tasting, toothsome, yummy"]}
+{"data": ["2021-06-01T09:29:49.471298+00:00", 1443, "Your mother is", "loud", "Pronunciation: /la\u028ad/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, gimcrack, meretricious, tacky, tatty, tawdry, trashy"]}
