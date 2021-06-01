@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T07:19:49.579376+00:00", 1430, "Your mother is", "inaudible", "Pronunciation: /\u026an\u02c8\u0254d\u0259b\u0259l/", "Definition: impossible to hear; imperceptible by the ear", "Synonyms: unhearable"]}
+{"data": ["2021-06-01T07:29:49.399498+00:00", 1431, "Your mother is", "unverifiable", "Pronunciation: /\u0259n\u02c8v\u025bri\u02ccfa\u026a\u0259b\u0259l/", "Definition: (of e.g. evidence) not objective or easily verified", "Synonyms: unobjective"]}
