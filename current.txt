@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T19:49:49.529891+00:00", 1505, "Your mother is", "prefrontal", "Pronunciation: /pri\u02c8fr\u0259nt\u0259l/", "Definition: anterior to a frontal structure", ""]}
+{"data": ["2021-06-01T19:59:49.586046+00:00", 1506, "Your mother is", "unimprisoned", "Similar to: free", "Definition: free from confinement or physical restraint", "Synonyms: unconfined"]}
