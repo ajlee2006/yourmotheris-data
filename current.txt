@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T03:39:49.428084+00:00", 1408, "Your mother is", "one-woman", "Similar to: single", "Definition: designed for or restricted to a single person", "Synonyms: one-man, one-person"]}
+{"data": ["2021-06-01T03:49:49.463130+00:00", 1409, "Your mother is", "bracted", "", "Definition: having bracts", "Synonyms: bracteate"]}
