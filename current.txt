@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T21:02:12.557287+00:00", 1512, "Your mother is", "apperceptive", "Similar to: perceptive", "Definition: able to relate new percepts to past experience", ""]}
+{"data": ["2021-06-01T21:12:12.577635+00:00", 1513, "Your mother is", "running", "Pronunciation: /\u02c8r\u0259n\u026a\u014b/", "Definition: (of e.g. a machine) performing or capable of performing", "Synonyms: functional, operative, working"]}
