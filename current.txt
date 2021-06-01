@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T14:39:49.598785+00:00", 1474, "Your mother is", "civil", "Pronunciation: /\u02c8s\u026av\u0259l/", "Definition: not rude; marked by satisfactory (or especially minimal) adherence to social usages and sufficient but not noteworthy consideration for others", "Synonyms: polite"]}
+{"data": ["2021-06-01T14:49:49.621417+00:00", 1475, "Your mother is", "ahorse", "Pronunciation: /\u0259\u02c8h\u0254rs/", "Definition: traveling on horseback", "Synonyms: ahorseback"]}
