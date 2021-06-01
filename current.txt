@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T21:22:12.927950+00:00", 1514, "Your mother is", "partizan", "Pronunciation: /\u02c8p\u0251rt\u026az\u0259n/", "Definition: devoted to a cause or party", "Synonyms: partisan"]}
+{"data": ["2021-06-01T21:32:12.590804+00:00", 1515, "Your mother is", "well-off", "Pronunciation: /w\u025bl-\u0254f/", "Definition: in fortunate circumstances financially; moderately rich", "Synonyms: comfortable, easy, prosperous, well-fixed, well-heeled, well-situated, well-to-do"]}
