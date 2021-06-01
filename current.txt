@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T03:59:49.590165+00:00", 1410, "Your mother is", "semite", "Pronunciation: /\u02c8s\u025bma\u026at/", "Definition: of or relating to or characteristic of Semites", "Synonyms: semitic"]}
+{"data": ["2021-06-01T04:09:49.607627+00:00", 1411, "Your mother is", "unruly", "Pronunciation: /\u0259n\u02c8ruli/", "Definition: incapable of being controlled", "Synonyms: indocile, uncontrollable, ungovernable"]}
