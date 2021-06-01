@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T21:52:12.579281+00:00", 1517, "Your mother is", "separatist", "Pronunciation: /\u02c8s\u025bp\u0259r\u0259t\u026ast/", "Definition: having separated or advocating separation from another entity or policy or attitude", "Synonyms: breakaway, fissiparous"]}
+{"data": ["2021-06-01T22:02:12.676965+00:00", 1518, "Your mother is", "worldly-minded", "Pronunciation: /\u02c8w\u025crldli-\u02c8ma\u026and\u026ad/", "Definition: marked by materialism", "Synonyms: materialistic, mercenary"]}
