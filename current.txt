@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T09:49:49.526955+00:00", 1445, "Your mother is", "epidemic", "Pronunciation: /\u02cc\u025bp\u026a\u02c8d\u025bm\u026ak/", "Definition: (especially of medicine) of disease or anything resembling a disease; attacking or affecting many individuals in a community or a population simultaneously", ""]}
+{"data": ["2021-06-01T09:59:49.394053+00:00", 1446, "Your mother is", "only", "Pronunciation: /\u02c8o\u028anli/", "Definition: being the only one; single and isolated from others", "Synonyms: lone, lonesome, sole, solitary"]}
