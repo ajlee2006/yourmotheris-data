@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T04:09:49.607627+00:00", 1411, "Your mother is", "unruly", "Pronunciation: /\u0259n\u02c8ruli/", "Definition: incapable of being controlled", "Synonyms: indocile, uncontrollable, ungovernable"]}
+{"data": ["2021-06-01T04:19:49.655430+00:00", 1412, "Your mother is", "assignable", "Pronunciation: /\u0259\u02c8sa\u026an\u0259b\u0259l/", "Definition: legally transferable to the ownership of another", "Synonyms: conveyable, negotiable, transferable, transferrable"]}
