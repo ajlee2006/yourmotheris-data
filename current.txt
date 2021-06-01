@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T23:22:12.626498+00:00", 1526, "Your mother is", "idyllic", "Pronunciation: /a\u026a\u02c8d\u026al\u026ak/", "Definition: excellent and delightful in all respects", ""]}
+{"data": ["2021-06-01T23:32:12.627492+00:00", 1527, "Your mother is", "antitumor", "", "Definition: used in the treatment of cancer", "Synonyms: anticancer, antineoplastic, antitumour"]}
