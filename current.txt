@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T02:29:50.635942+00:00", 1401, "Your mother is", "anapaestic", "", "Definition: (of a metric foot) characterized by two short syllables followed by a long one", "Synonyms: anapestic"]}
+{"data": ["2021-06-01T02:39:49.337167+00:00", 1402, "Your mother is", "disorganized", "Pronunciation: /d\u026as\u02c8\u0254r\u0261\u028c\u02ccna\u026azd/", "Definition: lacking order or methodical arrangement or function", "Synonyms: disorganised"]}
