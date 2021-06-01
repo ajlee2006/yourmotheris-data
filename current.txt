@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T00:59:49.608044+00:00", 1392, "Your mother is", "assailable", "Similar to: vulnerable", "Definition: not defended or capable of being defended", "Synonyms: open, undefendable, undefended"]}
+{"data": ["2021-06-01T01:09:49.353699+00:00", 1393, "Your mother is", "out of it", "Similar to: unconscious", "Definition: unresponsive to stimulation", "Synonyms: insensible, senseless"]}
