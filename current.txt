@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T08:49:50.114874+00:00", 1439, "Your mother is", "pinioned", "Similar to: bound", "Definition: bound fast especially having the arms restrained", ""]}
+{"data": ["2021-06-01T08:59:49.509343+00:00", 1440, "Your mother is", "accented", "Pronunciation: /\u02c8\u00e6ks\u025bnt\u026ad/", "Definition: (used of syllables) bearing the principle stress, usually accompanied by a change in pitch", "Synonyms: tonic"]}
