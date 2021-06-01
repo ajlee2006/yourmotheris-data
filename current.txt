@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T01:29:49.359600+00:00", 1395, "Your mother is", "dexter", "Pronunciation: /\u02c8d\u025bkst\u0259r/", "Definition: on or starting from the wearer's right", ""]}
+{"data": ["2021-06-01T01:39:49.315369+00:00", 1396, "Your mother is", "famous", "Pronunciation: /\u02c8fe\u026am\u0259s/", "Definition: widely known and esteemed", "Synonyms: celebrated, famed, far-famed, illustrious, notable, noted, renowned"]}
