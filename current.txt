@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T02:19:49.357364+00:00", 1400, "Your mother is", "emboldened", "Pronunciation: /\u025bm\u02c8bo\u028ald\u028cnd/", "Definition: made bold or courageous", ""]}
+{"data": ["2021-06-01T02:29:50.635942+00:00", 1401, "Your mother is", "anapaestic", "", "Definition: (of a metric foot) characterized by two short syllables followed by a long one", "Synonyms: anapestic"]}
