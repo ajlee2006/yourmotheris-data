@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T22:52:12.546785+00:00", 1523, "Your mother is", "broken-field", "Similar to: broken", "Definition: varying in direction suddenly and frequently", ""]}
+{"data": ["2021-06-01T23:02:12.578938+00:00", 1524, "Your mother is", "splendid", "Pronunciation: /\u02c8spl\u025bnd\u026ad/", "Definition: very good; of the highest quality", "Synonyms: excellent, fantabulous, first-class, ripping"]}
