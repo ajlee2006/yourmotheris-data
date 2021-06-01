@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T22:12:12.630908+00:00", 1519, "Your mother is", "geodesical", "", "Definition: of or relating to or determined by geodesy", "Synonyms: geodesic, geodetic"]}
+{"data": ["2021-06-01T22:22:12.704763+00:00", 1520, "Your mother is", "antisatellite", "", "Definition: of or relating to a system to destroy satellites in orbit", "Synonyms: asat"]}
