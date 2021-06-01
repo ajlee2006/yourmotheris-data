@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T01:49:49.576139+00:00", 1397, "Your mother is", "bad", "Pronunciation: /b\u00e6d/", "Definition: very intense", "Synonyms: big"]}
+{"data": ["2021-06-01T01:59:49.461864+00:00", 1398, "Your mother is", "decisive", "Pronunciation: /d\u026a\u02c8sa\u026as\u026av/", "Definition: forming or having the nature of a turning point or crisis", "Synonyms: critical"]}
