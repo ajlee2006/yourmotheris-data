@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T22:22:12.704763+00:00", 1520, "Your mother is", "antisatellite", "", "Definition: of or relating to a system to destroy satellites in orbit", "Synonyms: asat"]}
+{"data": ["2021-06-01T22:32:12.709728+00:00", 1521, "Your mother is", "nightly", "Pronunciation: /\u02c8na\u026atli/", "Definition: happening every night", ""]}
