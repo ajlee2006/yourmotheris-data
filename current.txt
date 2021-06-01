@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T09:39:49.504042+00:00", 1444, "Your mother is", "lunatic", "Pronunciation: /\u02c8lun\u0259t\u026ak/", "Definition: insane and believed to be affected by the phases of the moon", "Synonyms: moonstruck"]}
+{"data": ["2021-06-01T09:49:49.526955+00:00", 1445, "Your mother is", "epidemic", "Pronunciation: /\u02cc\u025bp\u026a\u02c8d\u025bm\u026ak/", "Definition: (especially of medicine) of disease or anything resembling a disease; attacking or affecting many individuals in a community or a population simultaneously", ""]}
