@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T09:29:49.471298+00:00", 1443, "Your mother is", "loud", "Pronunciation: /la\u028ad/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, gimcrack, meretricious, tacky, tatty, tawdry, trashy"]}
+{"data": ["2021-06-01T09:39:49.504042+00:00", 1444, "Your mother is", "lunatic", "Pronunciation: /\u02c8lun\u0259t\u026ak/", "Definition: insane and believed to be affected by the phases of the moon", "Synonyms: moonstruck"]}
