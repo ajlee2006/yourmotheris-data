@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T10:39:49.453193+00:00", 1450, "Your mother is", "high-flown", "Pronunciation: /\u02c8ha\u026a\u02c8flo\u028an/", "Definition: of high moral or intellectual value; elevated in nature or style", "Synonyms: elevated, exalted, grand, high-minded, idealistic, lofty, noble-minded, rarefied, rarified, sublime"]}
+{"data": ["2021-06-01T10:49:49.439056+00:00", 1451, "Your mother is", "wide", "Pronunciation: /wa\u026ad/", "Definition: not on target", "Synonyms: wide of the mark"]}
