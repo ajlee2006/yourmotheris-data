@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T13:59:49.548121+00:00", 1470, "Your mother is", "unripe", "Pronunciation: /\u0259n\u02c8ra\u026ap/", "Definition: not fully developed or mature; not ripe", "Synonyms: green, immature, unripened"]}
+{"data": ["2021-06-01T14:09:49.463566+00:00", 1471, "Your mother is", "chapfallen", "Pronunciation: /\u02c8\u02a7\u0251p\u02ccf\u0254l\u0259n/", "Definition: brought low in spirit", "Synonyms: chopfallen, crestfallen, deflated"]}
