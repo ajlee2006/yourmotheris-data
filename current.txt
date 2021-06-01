@@ -1,1 +1,1 @@
-{"data": ["2021-06-01T21:32:12.590804+00:00", 1515, "Your mother is", "well-off", "Pronunciation: /w\u025bl-\u0254f/", "Definition: in fortunate circumstances financially; moderately rich", "Synonyms: comfortable, easy, prosperous, well-fixed, well-heeled, well-situated, well-to-do"]}
+{"data": ["2021-06-01T21:42:12.783303+00:00", 1516, "Your mother is", "strait", "Pronunciation: /stre\u026at/", "Definition: narrow", ""]}
