@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T09:32:12.618571+00:00", 1583, "Your mother is", "iodinated", "", "Definition: treated with iodine", "Synonyms: iodised, iodized"]}
+{"data": ["2021-06-02T09:42:12.578535+00:00", 1584, "Your mother is", "intercollegiate", "Pronunciation: /\u02cc\u026ant\u0259rk\u0259\u02c8lid\u0292\u026at/", "Definition: used of competition between colleges or universities", ""]}
