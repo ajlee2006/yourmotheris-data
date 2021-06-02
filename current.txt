@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T03:02:12.509315+00:00", 1548, "Your mother is", "premier", "Pronunciation: /\u02c8pr\u025bmi\u0259r/", "Definition: first in rank or degree", "Synonyms: prime"]}
+{"data": ["2021-06-02T03:12:12.523393+00:00", 1549, "Your mother is", "comparable to", "Similar to: comparable", "Definition: worthy of comparison; as good as", ""]}
