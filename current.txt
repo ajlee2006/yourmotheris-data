@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T07:32:12.722555+00:00", 1575, "Your mother is", "slate-gray", "Similar to: achromatic", "Definition: of the color of slate or granite", "Synonyms: slate-grey, slatey, slaty, slaty-gray, slaty-grey, stone-gray, stone-grey"]}
+{"data": ["2021-06-02T07:42:12.616064+00:00", 1576, "Your mother is", "mozartean", "Pronunciation: /\u02ccmo\u028a\u02c8z\u0251rti\u028cn/", "Definition: of or relating to or in the manner of Wolfgang Amadeus Mozart", "Synonyms: mozartian"]}
