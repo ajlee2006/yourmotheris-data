@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T17:32:12.588595+00:00", 1630, "Your mother is", "russian-speaking", "Similar to: communicative", "Definition: able to communicate in Russian", ""]}
+{"data": ["2021-06-02T17:42:12.836540+00:00", 1631, "Your mother is", "self-pollinated", "Pronunciation: /\u02ccs\u025blf\u02c8p\u0251l\u0259\u02ccne\u026at\u026ad/", "Definition: fertilized by its own pollen", "Synonyms: self-fertilised, self-fertilized"]}
