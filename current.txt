@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T18:02:12.861183+00:00", 1633, "Your mother is", "three-fold", "Pronunciation: /\u02c8\u03b8ri-\u02ccfo\u028ald/", "Definition: having more than one decidedly dissimilar aspects or qualities", "Synonyms: double, dual, threefold, treble, two-fold, twofold"]}
+{"data": ["2021-06-02T18:12:12.674489+00:00", 1634, "Your mother is", "upper-class", "Pronunciation: /\u02c8\u0259p\u0259r-\u02c8kl\u00e6s/", "Definition: occupying the highest socioeconomic position in a society", ""]}
