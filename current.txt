@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T06:52:12.560322+00:00", 1571, "Your mother is", "blame", "Pronunciation: /ble\u026am/", "Definition: expletives used informally as intensifiers", "Synonyms: blamed, blasted, blessed, damn, damned, darned, deuced, goddam, goddamn, goddamned, infernal"]}
+{"data": ["2021-06-02T07:02:12.570814+00:00", 1572, "Your mother is", "calligraphic", "Pronunciation: /\u02cck\u00e6l\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to or expressed in calligraphy", "Synonyms: calligraphical"]}
