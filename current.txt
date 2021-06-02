@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T05:32:12.557162+00:00", 1563, "Your mother is", "unkept", "Pronunciation: /\u0259n\u02c8k\u025bpt/", "Definition: (especially of promises or contracts) having been violated or disregarded", "Synonyms: broken"]}
+{"data": ["2021-06-02T05:42:12.651284+00:00", 1564, "Your mother is", "on the offensive", "Similar to: offensive", "Definition: actively attacking", ""]}
