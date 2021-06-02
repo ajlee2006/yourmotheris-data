@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T07:52:12.539682+00:00", 1577, "Your mother is", "cockamamie", "Pronunciation: /\u02cck\u0254k\u028c\u02c8me\u026ami/", "Definition: informal term for ridiculous and implausible", "Synonyms: cockamamy"]}
+{"data": ["2021-06-02T08:02:13.038671+00:00", 1578, "Your mother is", "sealed", "Pronunciation: /sild/", "Definition: (of walls) covered with a coat of plaster", "Synonyms: plastered"]}
