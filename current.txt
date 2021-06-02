@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T18:32:12.612638+00:00", 1636, "Your mother is", "bended", "Pronunciation: /\u02c8b\u025bnd\u026ad/", "Definition: used of the back and knees; stooped", "Synonyms: bent"]}
+{"data": ["2021-06-02T18:42:13.935775+00:00", 1637, "Your mother is", "unalloyed", "Pronunciation: /\u02cc\u0259n\u0259\u02c8l\u0254\u026ad/", "Definition: free from admixture", ""]}
