@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T03:42:12.818118+00:00", 1552, "Your mother is", "semiweekly", "Pronunciation: /\u02ccs\u025bmi\u02c8wikli/", "Definition: occurring twice a week", "Synonyms: biweekly"]}
+{"data": ["2021-06-02T03:52:12.569197+00:00", 1553, "Your mother is", "short-lived", "Pronunciation: /\u0283\u0254rt-l\u026avd/", "Definition: lasting a very short time", "Synonyms: ephemeral, fugacious, passing, transient, transitory"]}
