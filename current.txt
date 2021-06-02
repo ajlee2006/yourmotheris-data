@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T12:02:12.655221+00:00", 1597, "Your mother is", "navigable", "Pronunciation: /\u02c8n\u00e6v\u0259\u0261\u0259b\u0259l/", "Definition: able to be sailed on or through safely", ""]}
+{"data": ["2021-06-02T12:12:12.498059+00:00", 1598, "Your mother is", "circumferential", "Pronunciation: /s\u0259r\u02cck\u0259mf\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: lying around or just outside the edges or outskirts", ""]}
