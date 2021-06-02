@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T03:32:12.752096+00:00", 1551, "Your mother is", "penitential", "Pronunciation: /\u02ccp\u025bn\u026a\u02c8t\u025bn\u0283\u0259l/", "Definition: showing or constituting penance", "Synonyms: penitentiary"]}
+{"data": ["2021-06-02T03:42:12.818118+00:00", 1552, "Your mother is", "semiweekly", "Pronunciation: /\u02ccs\u025bmi\u02c8wikli/", "Definition: occurring twice a week", "Synonyms: biweekly"]}
