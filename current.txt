@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T16:22:12.643588+00:00", 1623, "Your mother is", "burglarproof", "Pronunciation: /\u02c8b\u025crgl\u0259r\u02ccpruf/", "Definition: secure against burglary", ""]}
+{"data": ["2021-06-02T16:32:12.594772+00:00", 1624, "Your mother is", "colicky", "Pronunciation: /\u02c8k\u0251l\u0259ki/", "Definition: suffering from excessive gas in the alimentary canal", "Synonyms: flatulent, gassy"]}
