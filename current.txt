@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T23:07:21.467062+00:00", 1663, "Your mother is", "heterothermic", "Similar to: cold-blooded", "Definition: of animals except birds and mammals; having body temperature that varies with the environment", "Synonyms: ectothermic, poikilothermic, poikilothermous"]}
+{"data": ["2021-06-02T23:17:22.033208+00:00", 1664, "Your mother is", "identifiable", "Pronunciation: /a\u026a\u02c8d\u025bnt\u028c\u02ccfa\u026a\u028cb\u028cl/", "Definition: capable of being identified", ""]}
