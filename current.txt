@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T14:52:12.587759+00:00", 1614, "Your mother is", "weatherworn", "Pronunciation: /\u02c8w\u025b\u00f0\u0259r\u02ccwo\u028arn/", "Definition: worn by exposure to the weather", "Synonyms: weather-beaten, weathered"]}
+{"data": ["2021-06-02T15:02:12.803384+00:00", 1615, "Your mother is", "shrewish", "Pronunciation: /\u02c8\u0283ru\u026a\u0283/", "Definition: continually complaining or faultfinding", "Synonyms: nagging"]}
