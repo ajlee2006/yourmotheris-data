@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T01:32:13.632497+00:00", 1539, "Your mother is", "nanocephalic", "", "Definition: having an abnormally small head and underdeveloped brain", "Synonyms: microcephalic, microcephalous"]}
+{"data": ["2021-06-02T01:42:12.511976+00:00", 1540, "Your mother is", "inalterable", "Pronunciation: /\u026an\u02c8\u0254lt\u0259r\u0259b\u0259l/", "Definition: not capable of being changed or altered", "Synonyms: unalterable"]}
