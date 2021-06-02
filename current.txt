@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T00:32:12.995920+00:00", 1533, "Your mother is", "wailful", "Pronunciation: /\u02c8we\u026alf\u0259l/", "Definition: vocally expressing grief or sorrow or resembling such expression", "Synonyms: lamenting, wailing"]}
+{"data": ["2021-06-02T00:42:12.527015+00:00", 1534, "Your mother is", "goddamned", "Pronunciation: /\u02c8\u0261\u0251d\u02c8d\u00e6md/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blasted, blessed, damn, damned, darned, deuced, goddam, goddamn, infernal"]}
