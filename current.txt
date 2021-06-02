@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T18:52:13.133074+00:00", 1638, "Your mother is", "voltarian", "", "Definition: in the manner of Voltaire", "Synonyms: voltarean"]}
+{"data": ["2021-06-02T19:02:12.756393+00:00", 1639, "Your mother is", "spaciotemporal", "Similar to: comprehensive", "Definition: existing in both space and time; having both spatial extension and temporal duration", "Synonyms: spatiotemporal"]}
