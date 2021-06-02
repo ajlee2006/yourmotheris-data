@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T20:47:21.662993+00:00", 1649, "Your mother is", "formulaic", "Pronunciation: /\u02ccf\u0254rmj\u0259\u02c8le\u026a\u026ak/", "Definition: characterized by or in accordance with some formula", ""]}
+{"data": ["2021-06-02T20:57:21.394379+00:00", 1650, "Your mother is", "insolent", "Pronunciation: /\u02c8\u026ans\u0259l\u0259nt/", "Definition: unrestrained by convention or propriety", "Synonyms: audacious, bald-faced, barefaced, bodacious, brassy, brazen, brazen-faced"]}
