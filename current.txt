@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T16:12:12.670137+00:00", 1622, "Your mother is", "aglow", "Pronunciation: /\u0259glo\u028a/", "Definition: softly bright or radiant", "Synonyms: lambent, lucent, luminous"]}
+{"data": ["2021-06-02T16:22:12.643588+00:00", 1623, "Your mother is", "burglarproof", "Pronunciation: /\u02c8b\u025crgl\u0259r\u02ccpruf/", "Definition: secure against burglary", ""]}
