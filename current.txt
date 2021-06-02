@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T06:12:12.676359+00:00", 1567, "Your mother is", "considered", "Pronunciation: /k\u0259n\u02c8s\u026ad\u0259rd/", "Definition: carefully weighed", ""]}
+{"data": ["2021-06-02T06:22:12.604260+00:00", 1568, "Your mother is", "private-enterprise", "Pronunciation: /\u02c8pra\u026av\u026at-\u02c8\u025bnt\u0259r\u02ccpra\u026az/", "Definition: subscribing to capitalistic competition", "Synonyms: competitive, free-enterprise"]}
