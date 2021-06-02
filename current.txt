@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T00:12:12.664520+00:00", 1531, "Your mother is", "uproarious", "Pronunciation: /\u0259p\u02c8ro\u028ari\u0259s/", "Definition: uncontrollably noisy", "Synonyms: rackety, rip-roaring"]}
+{"data": ["2021-06-02T00:22:12.603388+00:00", 1532, "Your mother is", "undiscerning", "Similar to: obtuse", "Definition: lacking discernment", ""]}
