@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T02:02:12.580109+00:00", 1542, "Your mother is", "sixty-nine", "Pronunciation: /\u02c8s\u026aksti-\u02c8na\u026an/", "Definition: being nine more than sixty", "Synonyms: 69, ilxx"]}
+{"data": ["2021-06-02T02:12:12.772556+00:00", 1543, "Your mother is", "bacteriophagic", "", "Definition: of or relating to bacteriophages", "Synonyms: bacteriophagous"]}
