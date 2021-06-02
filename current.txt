@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T16:52:12.651717+00:00", 1626, "Your mother is", "quaternary", "Pronunciation: /kw\u0259\u02c8t\u025crn\u0259ri/", "Definition: coming next after the third and just before the fifth in position or time or degree or magnitude", "Synonyms: 4th, fourth"]}
+{"data": ["2021-06-02T17:02:13.270137+00:00", 1627, "Your mother is", "jointed", "Pronunciation: /\u02c8d\u0292\u0254\u026ant\u026ad/", "Definition: having joints or jointed segments", ""]}
