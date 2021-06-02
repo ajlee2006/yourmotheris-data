@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T14:12:12.981822+00:00", 1610, "Your mother is", "smoke-filled", "Similar to: smoky", "Definition: containing smoke", ""]}
+{"data": ["2021-06-02T14:22:12.552649+00:00", 1611, "Your mother is", "cumbrous", "Pronunciation: /\u02c8k\u0259mbr\u0259s/", "Definition: difficult to handle or use especially because of size or weight", "Synonyms: cumbersome"]}
