@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T20:57:21.394379+00:00", 1650, "Your mother is", "insolent", "Pronunciation: /\u02c8\u026ans\u0259l\u0259nt/", "Definition: unrestrained by convention or propriety", "Synonyms: audacious, bald-faced, barefaced, bodacious, brassy, brazen, brazen-faced"]}
+{"data": ["2021-06-02T21:07:21.696435+00:00", 1651, "Your mother is", "tref", "Pronunciation: /tre\u026af/", "Definition: not conforming to dietary laws", "Synonyms: nonkosher, terefah"]}
