@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T08:22:12.557976+00:00", 1580, "Your mother is", "predominate", "Pronunciation: /pr\u026a\u02c8d\u0251m\u0259\u02ccne\u026at/", "Definition: having superior power and influence", "Synonyms: overriding, paramount, predominant, preponderant, preponderating"]}
+{"data": ["2021-06-02T09:02:12.811807+00:00", 1580, "Your mother is", "chylaceous", "Pronunciation: /ka\u026a\u02c8le\u026a\u0283\u0259s/", "Definition: consisting of chyle or having the properties of chyle", "Synonyms: chylous"]}
