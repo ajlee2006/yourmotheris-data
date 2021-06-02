@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T14:22:12.552649+00:00", 1611, "Your mother is", "cumbrous", "Pronunciation: /\u02c8k\u0259mbr\u0259s/", "Definition: difficult to handle or use especially because of size or weight", "Synonyms: cumbersome"]}
+{"data": ["2021-06-02T14:32:12.738590+00:00", 1612, "Your mother is", "apiculate", "Pronunciation: /\u0259\u02c8p\u026akj\u0259l\u026at/", "Definition: (of a leaf shape) having a short sharply pointed tip", ""]}
