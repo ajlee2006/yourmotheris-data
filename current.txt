@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T18:42:13.935775+00:00", 1637, "Your mother is", "unalloyed", "Pronunciation: /\u02cc\u0259n\u0259\u02c8l\u0254\u026ad/", "Definition: free from admixture", ""]}
+{"data": ["2021-06-02T18:52:13.133074+00:00", 1638, "Your mother is", "voltarian", "", "Definition: in the manner of Voltaire", "Synonyms: voltarean"]}
