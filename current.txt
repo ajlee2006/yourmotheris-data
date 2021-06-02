@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T10:02:12.621333+00:00", 1585, "Your mother is", "parthenogenetic", "Pronunciation: /\u02ccp\u0251r\u03b8\u028cno\u028ad\u0292\u028c\u02c8n\u025bt\u026ak/", "Definition: (of reproduction) not involving the fusion of male and female gametes in reproduction", "Synonyms: agamic, agamogenetic, agamous, apomictic"]}
+{"data": ["2021-06-02T10:12:12.585101+00:00", 1586, "Your mother is", "unmutilated", "Similar to: unsullied", "Definition: free from physical or moral spots or stains", "Synonyms: unblemished, unmarred"]}
