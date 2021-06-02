@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T14:02:12.879485+00:00", 1609, "Your mother is", "ironical", "Pronunciation: /a\u026a\u02c8r\u0251n\u026ak\u0259l/", "Definition: characterized by often poignant difference or incongruity between what is expected and what actually is", "Synonyms: ironic"]}
+{"data": ["2021-06-02T14:12:12.981822+00:00", 1610, "Your mother is", "smoke-filled", "Similar to: smoky", "Definition: containing smoke", ""]}
