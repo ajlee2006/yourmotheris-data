@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T18:22:12.633767+00:00", 1635, "Your mother is", "mad", "Pronunciation: /m\u00e6d/", "Definition: roused to anger", "Synonyms: huffy, sore"]}
+{"data": ["2021-06-02T18:32:12.612638+00:00", 1636, "Your mother is", "bended", "Pronunciation: /\u02c8b\u025bnd\u026ad/", "Definition: used of the back and knees; stooped", "Synonyms: bent"]}
