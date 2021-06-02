@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T02:32:12.613317+00:00", 1545, "Your mother is", "uncaring", "Pronunciation: /\u028cn\u02c8k\u025br\u026a\u014b/", "Definition: lacking affection or warm feeling", "Synonyms: detached, unaffectionate"]}
+{"data": ["2021-06-02T02:42:12.576574+00:00", 1546, "Your mother is", "killing", "Pronunciation: /\u02c8k\u026al\u026a\u014b/", "Definition: very funny", "Synonyms: sidesplitting"]}
