@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T19:02:12.756393+00:00", 1639, "Your mother is", "spaciotemporal", "Similar to: comprehensive", "Definition: existing in both space and time; having both spatial extension and temporal duration", "Synonyms: spatiotemporal"]}
+{"data": ["2021-06-02T19:12:12.733405+00:00", 1640, "Your mother is", "aerated", "Similar to: effervescent", "Definition: supplied with carbon dioxide", "Synonyms: charged"]}
