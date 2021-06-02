@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T12:42:12.621807+00:00", 1601, "Your mother is", "prosy", "Pronunciation: /\u02c8pro\u028azi/", "Definition: lacking wit or imagination", "Synonyms: earthbound, pedestrian, prosaic"]}
+{"data": ["2021-06-02T12:52:13.048659+00:00", 1602, "Your mother is", "developing", "Pronunciation: /d\u026a\u02c8v\u025bl\u0259p\u026a\u014b/", "Definition: relating to societies in which capital needed to industrialize is in short supply", "Synonyms: underdeveloped"]}
