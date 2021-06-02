@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T05:22:12.527883+00:00", 1562, "Your mother is", "special", "Pronunciation: /\u02c8sp\u025b\u0283\u0259l/", "Definition: added to a regular schedule", "Synonyms: extra"]}
+{"data": ["2021-06-02T05:32:12.557162+00:00", 1563, "Your mother is", "unkept", "Pronunciation: /\u0259n\u02c8k\u025bpt/", "Definition: (especially of promises or contracts) having been violated or disregarded", "Synonyms: broken"]}
