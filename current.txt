@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T15:52:12.586153+00:00", 1620, "Your mother is", "temperate", "Pronunciation: /\u02c8t\u025bmp\u0259r\u026at/", "Definition: not extreme", "Synonyms: moderate"]}
+{"data": ["2021-06-02T16:02:12.738173+00:00", 1621, "Your mother is", "maggoty", "Similar to: stale", "Definition: spoiled and covered with eggs and larvae of flies", "Synonyms: flyblown"]}
