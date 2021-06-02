@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T10:32:12.971519+00:00", 1588, "Your mother is", "five-lobed", "Pronunciation: /fa\u026av-lo\u028abd/", "Definition: having five lobes", ""]}
+{"data": ["2021-06-02T10:42:12.545344+00:00", 1589, "Your mother is", "amerind", "Pronunciation: /\u02c8\u00e6m\u0259r\u026and/", "Definition: of or pertaining to Native Americans or their culture or languages", "Synonyms: amerindic, indian, native american"]}
