@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T16:32:12.594772+00:00", 1624, "Your mother is", "colicky", "Pronunciation: /\u02c8k\u0251l\u0259ki/", "Definition: suffering from excessive gas in the alimentary canal", "Synonyms: flatulent, gassy"]}
+{"data": ["2021-06-02T16:42:12.657600+00:00", 1625, "Your mother is", "unaccented", "Similar to: unstressed", "Definition: (used of vowels or syllables) pronounced with little or no stress", "Synonyms: light, weak"]}
