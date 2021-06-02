@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T12:12:12.498059+00:00", 1598, "Your mother is", "circumferential", "Pronunciation: /s\u0259r\u02cck\u0259mf\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: lying around or just outside the edges or outskirts", ""]}
+{"data": ["2021-06-02T12:22:12.568265+00:00", 1599, "Your mother is", "fanatic", "Pronunciation: /f\u0259\u02c8n\u00e6t\u026ak/", "Definition: marked by excessive enthusiasm for and intense devotion to a cause or idea", "Synonyms: fanatical, overzealous, rabid"]}
