@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T15:32:12.933655+00:00", 1618, "Your mother is", "semiconductive", "Similar to: conductive", "Definition: having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors", "Synonyms: semiconducting"]}
+{"data": ["2021-06-02T15:42:12.555231+00:00", 1619, "Your mother is", "unexcused", "Similar to: nonexempt", "Definition: not excused", ""]}
