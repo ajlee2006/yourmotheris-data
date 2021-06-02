@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T07:22:12.991962+00:00", 1574, "Your mother is", "zippy", "Pronunciation: /\u02c8z\u026api/", "Definition: quick and energetic", "Synonyms: alert, brisk, lively, merry, rattling, snappy, spanking"]}
+{"data": ["2021-06-02T07:32:12.722555+00:00", 1575, "Your mother is", "slate-gray", "Similar to: achromatic", "Definition: of the color of slate or granite", "Synonyms: slate-grey, slatey, slaty, slaty-gray, slaty-grey, stone-gray, stone-grey"]}
