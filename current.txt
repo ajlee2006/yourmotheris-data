@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T01:42:12.511976+00:00", 1540, "Your mother is", "inalterable", "Pronunciation: /\u026an\u02c8\u0254lt\u0259r\u0259b\u0259l/", "Definition: not capable of being changed or altered", "Synonyms: unalterable"]}
+{"data": ["2021-06-02T01:52:12.737614+00:00", 1541, "Your mother is", "light-minded", "Pronunciation: /\u02c8la\u026at\u02c8ma\u026and\u026ad/", "Definition: showing inappropriate levity", "Synonyms: flippant"]}
