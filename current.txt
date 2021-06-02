@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T02:42:12.576574+00:00", 1546, "Your mother is", "killing", "Pronunciation: /\u02c8k\u026al\u026a\u014b/", "Definition: very funny", "Synonyms: sidesplitting"]}
+{"data": ["2021-06-02T02:52:12.529567+00:00", 1547, "Your mother is", "recollective", "", "Definition: good at remembering", "Synonyms: long, retentive, tenacious"]}
