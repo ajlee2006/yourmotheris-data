@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T08:12:12.565143+00:00", 1579, "Your mother is", "gray-blue", "Pronunciation: /gre\u026a-blu/", "Definition: of blue tinged with grey", "Synonyms: grayish-blue, grey-blue, greyish-blue"]}
+{"data": ["2021-06-02T08:22:12.557976+00:00", 1580, "Your mother is", "predominate", "Pronunciation: /pr\u026a\u02c8d\u0251m\u0259\u02ccne\u026at/", "Definition: having superior power and influence", "Synonyms: overriding, paramount, predominant, preponderant, preponderating"]}
