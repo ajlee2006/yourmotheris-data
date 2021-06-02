@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T11:22:12.469535+00:00", 1593, "Your mother is", "constituted", "Pronunciation: /\u02c8k\u0251nst\u028c\u02cctut\u028cd/", "Definition: brought about or set up or accepted; especially long established", "Synonyms: established"]}
+{"data": ["2021-06-02T11:32:12.591379+00:00", 1594, "Your mother is", "unintelligent", "Pronunciation: /\u02cc\u0259n\u026an\u02c8t\u025bl\u026ad\u0292\u0259nt/", "Definition: lacking intelligence", "Synonyms: stupid"]}
