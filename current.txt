@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T00:02:13.559265+00:00", 1530, "Your mother is", "self-complacent", "Pronunciation: /s\u025blf-k\u0259m\u02c8ple\u026as\u0259nt/", "Definition: contented to a fault with oneself or one's actions", "Synonyms: complacent, self-satisfied"]}
+{"data": ["2021-06-02T00:12:12.664520+00:00", 1531, "Your mother is", "uproarious", "Pronunciation: /\u0259p\u02c8ro\u028ari\u0259s/", "Definition: uncontrollably noisy", "Synonyms: rackety, rip-roaring"]}
