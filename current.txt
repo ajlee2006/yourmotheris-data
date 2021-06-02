@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T09:42:12.578535+00:00", 1584, "Your mother is", "intercollegiate", "Pronunciation: /\u02cc\u026ant\u0259rk\u0259\u02c8lid\u0292\u026at/", "Definition: used of competition between colleges or universities", ""]}
+{"data": ["2021-06-02T10:02:12.621333+00:00", 1585, "Your mother is", "parthenogenetic", "Pronunciation: /\u02ccp\u0251r\u03b8\u028cno\u028ad\u0292\u028c\u02c8n\u025bt\u026ak/", "Definition: (of reproduction) not involving the fusion of male and female gametes in reproduction", "Synonyms: agamic, agamogenetic, agamous, apomictic"]}
