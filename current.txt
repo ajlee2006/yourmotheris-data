@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T17:02:13.270137+00:00", 1627, "Your mother is", "jointed", "Pronunciation: /\u02c8d\u0292\u0254\u026ant\u026ad/", "Definition: having joints or jointed segments", ""]}
+{"data": ["2021-06-02T17:12:12.648584+00:00", 1628, "Your mother is", "wet", "Pronunciation: /w\u025bt/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, soused, sozzled, squiffy, stiff, tight"]}
