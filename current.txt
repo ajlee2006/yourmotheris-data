@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T15:22:12.783279+00:00", 1617, "Your mother is", "xlii", "Similar to: cardinal", "Definition: being two more than forty", "Synonyms: 42, forty-two"]}
+{"data": ["2021-06-02T15:32:12.933655+00:00", 1618, "Your mother is", "semiconductive", "Similar to: conductive", "Definition: having characteristics of a semiconductor; that is having electrical conductivity greater than insulators but less than good conductors", "Synonyms: semiconducting"]}
