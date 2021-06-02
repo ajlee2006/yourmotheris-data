@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T22:47:21.591470+00:00", 1661, "Your mother is", "unintentional", "Pronunciation: /\u02cc\u0259n\u026an\u02c8t\u025bn\u0283\u0259n\u0259l/", "Definition: done or made or performed with purpose and intent", "Synonyms: designed, intentional"]}
+{"data": ["2021-06-02T22:57:21.739438+00:00", 1662, "Your mother is", "treasonous", "Pronunciation: /\u02c8triz\u0259n\u0259s/", "Definition: having the character of, or characteristic of, a traitor", "Synonyms: faithless, traitorous, treasonable, unfaithful"]}
