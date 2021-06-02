@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T18:12:12.674489+00:00", 1634, "Your mother is", "upper-class", "Pronunciation: /\u02c8\u0259p\u0259r-\u02c8kl\u00e6s/", "Definition: occupying the highest socioeconomic position in a society", ""]}
+{"data": ["2021-06-02T18:22:12.633767+00:00", 1635, "Your mother is", "mad", "Pronunciation: /m\u00e6d/", "Definition: roused to anger", "Synonyms: huffy, sore"]}
