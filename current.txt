@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T08:02:13.038671+00:00", 1578, "Your mother is", "sealed", "Pronunciation: /sild/", "Definition: (of walls) covered with a coat of plaster", "Synonyms: plastered"]}
+{"data": ["2021-06-02T08:12:12.565143+00:00", 1579, "Your mother is", "gray-blue", "Pronunciation: /gre\u026a-blu/", "Definition: of blue tinged with grey", "Synonyms: grayish-blue, grey-blue, greyish-blue"]}
