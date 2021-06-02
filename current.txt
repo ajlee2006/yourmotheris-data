@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T13:52:12.630755+00:00", 1608, "Your mother is", "bisexual", "Pronunciation: /ba\u026a\u02c8s\u025bk\u0283u\u0259l/", "Definition: having an ambiguous sexual identity", "Synonyms: epicene"]}
+{"data": ["2021-06-02T14:02:12.879485+00:00", 1609, "Your mother is", "ironical", "Pronunciation: /a\u026a\u02c8r\u0251n\u026ak\u0259l/", "Definition: characterized by often poignant difference or incongruity between what is expected and what actually is", "Synonyms: ironic"]}
