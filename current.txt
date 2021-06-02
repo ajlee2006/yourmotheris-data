@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T04:32:12.546603+00:00", 1557, "Your mother is", "insistent", "Pronunciation: /\u026an\u02c8s\u026ast\u0259nt/", "Definition: repetitive and persistent", "Synonyms: repetitive"]}
+{"data": ["2021-06-02T04:42:12.546509+00:00", 1558, "Your mother is", "hermitic", "Similar to: unworldly", "Definition: characterized by ascetic solitude", "Synonyms: anchoritic, eremitic, eremitical, hermitical"]}
