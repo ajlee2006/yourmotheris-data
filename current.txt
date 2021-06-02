@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T04:22:12.549707+00:00", 1556, "Your mother is", "incremental", "Pronunciation: /\u02cc\u026ankr\u0259\u02c8m\u025bnt\u0259l/", "Definition: increasing gradually by regular degrees or additions", ""]}
+{"data": ["2021-06-02T04:32:12.546603+00:00", 1557, "Your mother is", "insistent", "Pronunciation: /\u026an\u02c8s\u026ast\u0259nt/", "Definition: repetitive and persistent", "Synonyms: repetitive"]}
