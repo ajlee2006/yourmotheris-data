@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T21:37:21.149709+00:00", 1654, "Your mother is", "self-addressed", "Pronunciation: /\u02c8s\u025blf\u0259\u02c8dr\u025bst/", "Definition: addressed to yourself", ""]}
+{"data": ["2021-06-02T21:47:21.172794+00:00", 1655, "Your mother is", "positivistic", "", "Definition: of or relating to positivism", "Synonyms: positive, positivist"]}
