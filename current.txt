@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T20:27:21.487197+00:00", 1647, "Your mother is", "colorful", "Pronunciation: /\u02c8k\u0259l\u0259rf\u0259l/", "Definition: striking in variety and interest", "Synonyms: colourful"]}
+{"data": ["2021-06-02T20:37:21.401271+00:00", 1648, "Your mother is", "contemptible", "Pronunciation: /k\u0259n\u02c8t\u025bmpt\u0259b\u0259l/", "Definition: deserving of contempt or scorn", ""]}
