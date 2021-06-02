@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T11:32:12.591379+00:00", 1594, "Your mother is", "unintelligent", "Pronunciation: /\u02cc\u0259n\u026an\u02c8t\u025bl\u026ad\u0292\u0259nt/", "Definition: lacking intelligence", "Synonyms: stupid"]}
+{"data": ["2021-06-02T11:42:12.732053+00:00", 1595, "Your mother is", "flat-growing", "Similar to: low", "Definition: of plants that grow relatively low to the ground", "Synonyms: ground-hugging, low-growing"]}
