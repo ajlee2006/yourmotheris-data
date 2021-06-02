@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T07:42:12.616064+00:00", 1576, "Your mother is", "mozartean", "Pronunciation: /\u02ccmo\u028a\u02c8z\u0251rti\u028cn/", "Definition: of or relating to or in the manner of Wolfgang Amadeus Mozart", "Synonyms: mozartian"]}
+{"data": ["2021-06-02T07:52:12.539682+00:00", 1577, "Your mother is", "cockamamie", "Pronunciation: /\u02cck\u0254k\u028c\u02c8me\u026ami/", "Definition: informal term for ridiculous and implausible", "Synonyms: cockamamy"]}
