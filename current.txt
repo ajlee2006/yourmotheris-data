@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T12:22:12.568265+00:00", 1599, "Your mother is", "fanatic", "Pronunciation: /f\u0259\u02c8n\u00e6t\u026ak/", "Definition: marked by excessive enthusiasm for and intense devotion to a cause or idea", "Synonyms: fanatical, overzealous, rabid"]}
+{"data": ["2021-06-02T12:32:12.840608+00:00", 1600, "Your mother is", "garbled", "Pronunciation: /\u02c8\u0261\u0251rb\u028cld/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, illogical, scattered, unconnected"]}
