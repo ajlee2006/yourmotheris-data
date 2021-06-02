@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T14:42:12.611610+00:00", 1613, "Your mother is", "mendicant", "Pronunciation: /\u02c8m\u025bnd\u0259k\u0259nt/", "Definition: practicing beggary", ""]}
+{"data": ["2021-06-02T14:52:12.587759+00:00", 1614, "Your mother is", "weatherworn", "Pronunciation: /\u02c8w\u025b\u00f0\u0259r\u02ccwo\u028arn/", "Definition: worn by exposure to the weather", "Synonyms: weather-beaten, weathered"]}
