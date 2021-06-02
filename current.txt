@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T11:42:12.732053+00:00", 1595, "Your mother is", "flat-growing", "Similar to: low", "Definition: of plants that grow relatively low to the ground", "Synonyms: ground-hugging, low-growing"]}
+{"data": ["2021-06-02T11:52:12.570292+00:00", 1596, "Your mother is", "parliamentary", "Pronunciation: /\u02ccp\u0251rl\u0259\u02c8m\u025bnt\u0259ri/", "Definition: having the supreme legislative power resting with a body of cabinet ministers chosen from and responsible to the legislature or parliament", ""]}
