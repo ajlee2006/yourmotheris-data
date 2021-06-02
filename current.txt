@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T00:42:12.527015+00:00", 1534, "Your mother is", "goddamned", "Pronunciation: /\u02c8\u0261\u0251d\u02c8d\u00e6md/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blasted, blessed, damn, damned, darned, deuced, goddam, goddamn, infernal"]}
+{"data": ["2021-06-02T00:52:12.536539+00:00", 1535, "Your mother is", "nontaxable", "Pronunciation: /n\u0251n\u02c8t\u00e6ks\u028cb\u028cl/", "Definition: (of goods or funds) not subject to taxation", "Synonyms: exempt"]}
