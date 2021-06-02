@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T23:27:21.235263+00:00", 1665, "Your mother is", "transmittable", "Pronunciation: /tr\u00e6nz\u02c8m\u026at\u028cb\u028cl/", "Definition: (of disease) capable of being transmitted by infection", "Synonyms: catching, communicable, contagious, contractable, transmissible"]}
+{"data": ["2021-06-02T23:37:21.311424+00:00", 1666, "Your mother is", "unrealizable", "Pronunciation: /\u0259n\u02c8ri\u0259\u02ccla\u026az\u0259b\u0259l/", "Definition: impossible to achieve", "Synonyms: unachievable, unattainable, undoable"]}
