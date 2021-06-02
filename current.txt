@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T12:32:12.840608+00:00", 1600, "Your mother is", "garbled", "Pronunciation: /\u02c8\u0261\u0251rb\u028cld/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, illogical, scattered, unconnected"]}
+{"data": ["2021-06-02T12:42:12.621807+00:00", 1601, "Your mother is", "prosy", "Pronunciation: /\u02c8pro\u028azi/", "Definition: lacking wit or imagination", "Synonyms: earthbound, pedestrian, prosaic"]}
