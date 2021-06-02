@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T07:12:12.636148+00:00", 1573, "Your mother is", "slapdash", "Pronunciation: /\u02c8sl\u00e6p\u02ccd\u00e6\u0283/", "Definition: marked by great carelessness", "Synonyms: haphazard, slipshod, sloppy"]}
+{"data": ["2021-06-02T07:22:12.991962+00:00", 1574, "Your mother is", "zippy", "Pronunciation: /\u02c8z\u026api/", "Definition: quick and energetic", "Synonyms: alert, brisk, lively, merry, rattling, snappy, spanking"]}
