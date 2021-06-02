@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T07:02:12.570814+00:00", 1572, "Your mother is", "calligraphic", "Pronunciation: /\u02cck\u00e6l\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to or expressed in calligraphy", "Synonyms: calligraphical"]}
+{"data": ["2021-06-02T07:12:12.636148+00:00", 1573, "Your mother is", "slapdash", "Pronunciation: /\u02c8sl\u00e6p\u02ccd\u00e6\u0283/", "Definition: marked by great carelessness", "Synonyms: haphazard, slipshod, sloppy"]}
