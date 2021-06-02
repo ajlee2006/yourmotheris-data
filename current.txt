@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T11:12:12.498968+00:00", 1592, "Your mother is", "anorthic", "Pronunciation: /\u00e6n\u02c8\u0254r\u03b8\u026ak/", "Definition: having three unequal crystal axes intersecting at oblique angles", "Synonyms: triclinic"]}
+{"data": ["2021-06-02T11:22:12.469535+00:00", 1593, "Your mother is", "constituted", "Pronunciation: /\u02c8k\u0251nst\u028c\u02cctut\u028cd/", "Definition: brought about or set up or accepted; especially long established", "Synonyms: established"]}
