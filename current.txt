@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T02:22:12.501652+00:00", 1544, "Your mother is", "allied", "Pronunciation: /\u0259\u02c8la\u026ad/", "Definition: united in a confederacy or league", "Synonyms: confederate, confederative"]}
+{"data": ["2021-06-02T02:32:12.613317+00:00", 1545, "Your mother is", "uncaring", "Pronunciation: /\u028cn\u02c8k\u025br\u026a\u014b/", "Definition: lacking affection or warm feeling", "Synonyms: detached, unaffectionate"]}
