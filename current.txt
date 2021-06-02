@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T21:27:21.282388+00:00", 1653, "Your mother is", "perforated", "Pronunciation: /\u02c8p\u025crf\u0259\u02ccre\u026at\u026ad/", "Definition: having a hole cut through", "Synonyms: perforate, pierced, punctured"]}
+{"data": ["2021-06-02T21:37:21.149709+00:00", 1654, "Your mother is", "self-addressed", "Pronunciation: /\u02c8s\u025blf\u0259\u02c8dr\u025bst/", "Definition: addressed to yourself", ""]}
