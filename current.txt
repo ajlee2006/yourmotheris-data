@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T09:22:12.545495+00:00", 1582, "Your mother is", "rutted", "Pronunciation: /\u02c8r\u028ct\u026ad/", "Definition: full of ruts", "Synonyms: rutty"]}
+{"data": ["2021-06-02T09:32:12.618571+00:00", 1583, "Your mother is", "iodinated", "", "Definition: treated with iodine", "Synonyms: iodised, iodized"]}
