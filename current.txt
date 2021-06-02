@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T19:32:12.628982+00:00", 1642, "Your mother is", "preceding", "Pronunciation: /pri\u02c8sid\u026a\u014b/", "Definition: of a person who has held and relinquished a position or office", "Synonyms: past, retiring"]}
+{"data": ["2021-06-02T19:42:12.667926+00:00", 1643, "Your mother is", "cut up", "Similar to: cut", "Definition: cut into pieces", ""]}
