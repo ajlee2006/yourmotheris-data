@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T00:52:12.536539+00:00", 1535, "Your mother is", "nontaxable", "Pronunciation: /n\u0251n\u02c8t\u00e6ks\u028cb\u028cl/", "Definition: (of goods or funds) not subject to taxation", "Synonyms: exempt"]}
+{"data": ["2021-06-02T01:02:12.552953+00:00", 1536, "Your mother is", "file-like", "Similar to: sharp", "Definition: resembling a file", ""]}
