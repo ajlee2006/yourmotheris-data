@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T15:02:12.803384+00:00", 1615, "Your mother is", "shrewish", "Pronunciation: /\u02c8\u0283ru\u026a\u0283/", "Definition: continually complaining or faultfinding", "Synonyms: nagging"]}
+{"data": ["2021-06-02T15:12:12.490386+00:00", 1616, "Your mother is", "bridal", "Pronunciation: /\u02c8bra\u026ad\u0259l/", "Definition: of or relating to a wedding", "Synonyms: nuptial, spousal"]}
