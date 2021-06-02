@@ -1,1 +1,1 @@
-{"data": ["2021-06-02T13:32:12.625371+00:00", 1606, "Your mother is", "liege", "Pronunciation: /lid\u0292/", "Definition: owing or owed feudal allegiance and service", ""]}
+{"data": ["2021-06-02T13:42:12.627255+00:00", 1607, "Your mother is", "chantlike", "Similar to: rhythmic", "Definition: uttered in a monotonous cadence or rhythm as in chanting", "Synonyms: intoned, singsong"]}
