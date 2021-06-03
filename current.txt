@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T20:37:21.201447+00:00", 1792, "Your mother is", "stern", "Pronunciation: /st\u025crn/", "Definition: of a stern or strict bearing or demeanor; forbidding in aspect", "Synonyms: austere"]}
+{"data": ["2021-06-03T20:47:21.121636+00:00", 1793, "Your mother is", "sinuate", "Pronunciation: /\u02c8s\u026anju\u026at/", "Definition: curved or curving in and out", "Synonyms: sinuous, wiggly"]}
