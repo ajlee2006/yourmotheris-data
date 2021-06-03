@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T19:37:21.147568+00:00", 1786, "Your mother is", "dilettante", "Pronunciation: /\u02ccd\u026al\u026a\u02c8t\u00e6nti/", "Definition: showing frivolous or superficial interest; amateurish", "Synonyms: dilettanteish, dilettantish, sciolistic"]}
+{"data": ["2021-06-03T19:47:21.708214+00:00", 1787, "Your mother is", "uncut", "Pronunciation: /\u0259n\u02c8k\u0259t/", "Definition: complete", "Synonyms: full-length"]}
