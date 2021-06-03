@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T03:07:21.181921+00:00", 1687, "Your mother is", "unsentimental", "Pronunciation: /\u02cc\u0259ns\u025bnt\u026a\u02c8m\u025bnt\u0259l/", "Definition: facing facts or difficulties realistically and with determination", "Synonyms: tough-minded"]}
+{"data": ["2021-06-03T03:17:21.984474+00:00", 1688, "Your mother is", "piddling", "Pronunciation: /\u02c8p\u026adl\u026a\u014b/", "Definition: (informal) small and of little importance", "Synonyms: fiddling, footling, lilliputian, little, niggling, petty, picayune, piffling, trivial"]}
