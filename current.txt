@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T08:27:21.861586+00:00", 1719, "Your mother is", "large-scale", "Pronunciation: /l\u0251rd\u0292-ske\u026al/", "Definition: constructed or drawn to a big scale", ""]}
+{"data": ["2021-06-03T08:37:21.203984+00:00", 1720, "Your mother is", "touristy", "Pronunciation: /\u02c8t\u028ar\u026asti/", "Definition: visited by throngs of tourists", "Synonyms: touristed"]}
