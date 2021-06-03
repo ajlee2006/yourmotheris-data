@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T04:47:21.194563+00:00", 1697, "Your mother is", "canorous", "Pronunciation: /k\u0259\u02c8no\u028ar\u0259s/", "Definition: richly melodious", "Synonyms: songful"]}
+{"data": ["2021-06-03T04:57:21.236142+00:00", 1698, "Your mother is", "sturdy", "Pronunciation: /\u02c8st\u025crdi/", "Definition: having rugged physical strength; inured to fatigue or hardships", "Synonyms: hardy, stalwart, stout"]}
