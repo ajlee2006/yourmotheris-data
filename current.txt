@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T22:49:38.161972+00:00", 1805, "Your mother is", "intruding", "Pronunciation: /\u026an\u02c8trud\u026a\u014b/", "Definition: projecting inward", ""]}
+{"data": ["2021-06-03T22:59:38.118403+00:00", 1806, "Your mother is", "influent", "Pronunciation: /\u02c8\u026anflu\u0259nt/", "Definition: flowing inward", "Synonyms: inflowing"]}
