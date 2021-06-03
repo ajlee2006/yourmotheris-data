@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T11:37:21.337383+00:00", 1738, "Your mother is", "reversed", "Pronunciation: /r\u026a\u02c8v\u025drst/", "Definition: turned about in order or relation", "Synonyms: converse, transposed"]}
+{"data": ["2021-06-03T11:47:21.360652+00:00", 1739, "Your mother is", "rimed", "Similar to: cold", "Definition: covered with frost", "Synonyms: frosty, rimy"]}
