@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T16:57:21.238977+00:00", 1770, "Your mother is", "unsweetened", "Similar to: nonsweet", "Definition: not made sweet", ""]}
+{"data": ["2021-06-03T17:07:21.237967+00:00", 1771, "Your mother is", "skim", "Pronunciation: /sk\u026am/", "Definition: used of milk and milk products from which the cream has been removed", "Synonyms: skimmed"]}
