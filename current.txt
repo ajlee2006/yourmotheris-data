@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T16:37:21.608191+00:00", 1768, "Your mother is", "bristled", "Pronunciation: /\u02c8br\u026as\u028cld/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristly, burred, burry, prickly, setaceous, setose, spiny, thorny"]}
+{"data": ["2021-06-03T16:47:21.241407+00:00", 1769, "Your mother is", "elegiac", "Pronunciation: /\u02cc\u025bl\u0259\u02c8d\u0292a\u026a\u0259k/", "Definition: expressing sorrow often for something past", ""]}
