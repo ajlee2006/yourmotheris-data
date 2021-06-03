@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T03:27:21.315153+00:00", 1689, "Your mother is", "inhospitable", "Pronunciation: /\u026an\u02c8h\u0251sp\u026at\u0259b\u0259l/", "Definition: not hospitable", ""]}
+{"data": ["2021-06-03T03:37:21.119754+00:00", 1690, "Your mother is", "spangled", "Pronunciation: /\u02c8sp\u00e6\u014b\u0261\u028cld/", "Definition: covered with beads or jewels or sequins", "Synonyms: beady, gemmed, jeweled, jewelled, sequined, spangly"]}
