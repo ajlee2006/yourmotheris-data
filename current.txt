@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T06:47:21.321117+00:00", 1709, "Your mother is", "unbaptised", "", "Definition: not having undergone the Christian ritual of baptism", "Synonyms: unbaptized"]}
+{"data": ["2021-06-03T06:57:21.254317+00:00", 1710, "Your mother is", "four-lobed", "Pronunciation: /fo\u028ar-lo\u028abd/", "Definition: having four lobes", ""]}
