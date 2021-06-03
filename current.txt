@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T05:37:21.192250+00:00", 1702, "Your mother is", "bilinear", "Pronunciation: /ba\u026a\u02c8l\u026ani\u0259r/", "Definition: linear with respect to each of two variables or positions", ""]}
+{"data": ["2021-06-03T05:47:21.825206+00:00", 1703, "Your mother is", "documentary", "Pronunciation: /\u02ccd\u0251kj\u0259\u02c8m\u025bnt\u0259ri/", "Definition: relating to or consisting of or derived from documents", "Synonyms: documental"]}
