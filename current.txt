@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T07:27:21.775883+00:00", 1713, "Your mother is", "well-made", "Pronunciation: /w\u025bl-me\u026ad/", "Definition: skillfully constructed", ""]}
+{"data": ["2021-06-03T07:37:21.122290+00:00", 1714, "Your mother is", "400th", "Similar to: ordinal", "Definition: the ordinal number of four hundred in counting order", "Synonyms: four-hundredth"]}
