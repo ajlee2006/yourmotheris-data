@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T01:57:21.335693+00:00", 1680, "Your mother is", "hesperian", "Pronunciation: /h\u025b\u02c8spiri\u0259n/", "Definition: denoting or characteristic of countries of Europe and the western hemisphere", "Synonyms: occidental"]}
+{"data": ["2021-06-03T02:07:21.351562+00:00", 1681, "Your mother is", "wonted", "Pronunciation: /\u02c8wo\u028ant\u026ad/", "Definition: commonly used or practiced; usual", "Synonyms: accustomed, customary, habitual"]}
