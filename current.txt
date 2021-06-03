@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T06:27:21.381355+00:00", 1707, "Your mother is", "unbelievable", "Pronunciation: /\u02cc\u0259nb\u026a\u02c8liv\u0259b\u0259l/", "Definition: having a probability too low to inspire belief", "Synonyms: improbable, unconvincing, unlikely"]}
+{"data": ["2021-06-03T06:37:21.185702+00:00", 1708, "Your mother is", "approbatory", "Pronunciation: /\u0259\u02c8pro\u028ab\u0259\u02ccto\u028ari/", "Definition: expressing or manifesting praise or approval", "Synonyms: affirmative, approbative, approving, plausive"]}
