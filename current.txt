@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T13:27:21.230071+00:00", 1749, "Your mother is", "tempting", "Pronunciation: /\u02c8t\u025bmpt\u026a\u014b/", "Definition: very pleasantly inviting", "Synonyms: tantalising, tantalizing"]}
+{"data": ["2021-06-03T13:37:21.426974+00:00", 1750, "Your mother is", "stranded", "Pronunciation: /\u02c8str\u00e6nd\u028cd/", "Definition: cut off or left behind", "Synonyms: isolated, marooned"]}
