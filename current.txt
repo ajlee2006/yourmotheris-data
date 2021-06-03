@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T20:07:21.086424+00:00", 1789, "Your mother is", "eery", "Pronunciation: /\u02c8\u026a(\u0259)ri/", "Definition: inspiring a feeling of fear; strange and frightening", "Synonyms: eerie"]}
+{"data": ["2021-06-03T20:17:21.440030+00:00", 1790, "Your mother is", "ill-scented", "Similar to: ill-smelling", "Definition: offensively malodorous", "Synonyms: fetid, foetid, foul, foul-smelling, funky, noisome, smelly, stinking"]}
