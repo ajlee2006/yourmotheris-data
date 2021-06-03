@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T10:47:21.278005+00:00", 1733, "Your mother is", "unsalted", "Pronunciation: /\u0259n\u02c8s\u0251lt\u026ad/", "Definition: without salt or seasoning", "Synonyms: unseasoned"]}
+{"data": ["2021-06-03T10:57:21.160169+00:00", 1734, "Your mother is", "doctrinaire", "Pronunciation: /\u02c8d\u0251ktr\u0259\u02c8n\u025cr/", "Definition: stubbornly insistent on theory without regard for practicality or suitability", ""]}
