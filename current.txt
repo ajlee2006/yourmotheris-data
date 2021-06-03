@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T15:27:21.251298+00:00", 1761, "Your mother is", "tight-knit", "Pronunciation: /ta\u026at-n\u026at/", "Definition: closely and firmly integrated", "Synonyms: tightly knit"]}
+{"data": ["2021-06-03T15:37:21.443437+00:00", 1762, "Your mother is", "yankee", "Pronunciation: /\u02c8j\u00e6\u014bki/", "Definition: used by Southerners for an inhabitant of a northern state in the United States (especially a Union soldier)", ""]}
