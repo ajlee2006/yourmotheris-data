@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T20:17:21.440030+00:00", 1790, "Your mother is", "ill-scented", "Similar to: ill-smelling", "Definition: offensively malodorous", "Synonyms: fetid, foetid, foul, foul-smelling, funky, noisome, smelly, stinking"]}
+{"data": ["2021-06-03T20:27:21.194033+00:00", 1791, "Your mother is", "bossy", "Pronunciation: /\u02c8b\u0251si/", "Definition: offensively self-assured or given to exercising usually unwarranted power", "Synonyms: autocratic, dominating, high-and-mighty, magisterial, peremptory"]}
