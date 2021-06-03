@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T14:37:21.381690+00:00", 1756, "Your mother is", "unpopular", "Pronunciation: /\u02cc\u0259n\u02c8p\u0251pj\u0259l\u00e6r/", "Definition: regarded with disfavor or lacking general approval", ""]}
+{"data": ["2021-06-03T14:47:21.544450+00:00", 1757, "Your mother is", "nonabsorbent", "Similar to: repellent", "Definition: not capable of absorbing or soaking up (liquids)", "Synonyms: nonabsorptive"]}
