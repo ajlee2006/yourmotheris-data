@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T08:57:21.267864+00:00", 1722, "Your mother is", "heterologous", "Pronunciation: /\u02cch\u025bt\u0259\u02c8r\u0251l\u0259\u0261\u0259s/", "Definition: not corresponding in structure or evolutionary origin", "Synonyms: heterologic, heterological"]}
+{"data": ["2021-06-03T09:07:21.203523+00:00", 1723, "Your mother is", "afrikaner", "Pronunciation: /\u02cc\u00e6fr\u0259\u02c8k\u0251n\u0259r/", "Definition: belonging or relating to white people of South Africa whose ancestors were Dutch or to their language", "Synonyms: afrikaans"]}
