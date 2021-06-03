@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T09:37:21.300258+00:00", 1726, "Your mother is", "built", "Pronunciation: /b\u026alt/", "Definition: (used of soaps or cleaning agents) having a substance (an abrasive or filler) added to increase effectiveness", "Synonyms: reinforced"]}
+{"data": ["2021-06-03T09:47:21.256110+00:00", 1727, "Your mother is", "unartistic", "Pronunciation: /\u02cc\u0259n\u0251r\u02c8t\u026ast\u026ak/", "Definition: lacking aesthetic sensibility", "Synonyms: inartistic"]}
