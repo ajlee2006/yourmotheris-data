@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T02:47:21.237983+00:00", 1685, "Your mother is", "alphanumerical", "", "Definition: of or pertaining to alphanumeric characters", "Synonyms: alphameric, alphamerical, alphanumeric"]}
+{"data": ["2021-06-03T02:57:21.239718+00:00", 1686, "Your mother is", "preachy", "Pronunciation: /\u02c8pri\u02a7i/", "Definition: inclined to or marked by tedious moralization", ""]}
