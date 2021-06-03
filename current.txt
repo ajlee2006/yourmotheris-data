@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T06:37:21.185702+00:00", 1708, "Your mother is", "approbatory", "Pronunciation: /\u0259\u02c8pro\u028ab\u0259\u02ccto\u028ari/", "Definition: expressing or manifesting praise or approval", "Synonyms: affirmative, approbative, approving, plausive"]}
+{"data": ["2021-06-03T06:47:21.321117+00:00", 1709, "Your mother is", "unbaptised", "", "Definition: not having undergone the Christian ritual of baptism", "Synonyms: unbaptized"]}
