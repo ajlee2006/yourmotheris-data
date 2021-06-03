@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T14:57:21.172142+00:00", 1758, "Your mother is", "dermatologic", "", "Definition: of or relating to or practicing dermatology", "Synonyms: dermatological"]}
+{"data": ["2021-06-03T15:07:21.218823+00:00", 1759, "Your mother is", "multidimensional", "Pronunciation: /\u02ccm\u0259lt\u026ada\u026a\u02c8m\u025bn\u0283\u0259n\u0259l/", "Definition: having or involving or marked by several dimensions or aspects", ""]}
