@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T17:47:21.757001+00:00", 1775, "Your mother is", "multi-colored", "Similar to: colored", "Definition: having sections or patches colored differently and usually brightly", "Synonyms: calico, motley, multi-color, multi-colour, multi-coloured, multicolor, multicolored, multicolour, multicoloured, painted, particolored, particoloured, piebald, pied, varicolored, varicoloured"]}
+{"data": ["2021-06-03T17:57:21.755862+00:00", 1776, "Your mother is", "bowfront", "Similar to: rounded", "Definition: having an outward curving front", ""]}
