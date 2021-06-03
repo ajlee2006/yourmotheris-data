@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T17:27:21.217723+00:00", 1773, "Your mother is", "bacchanal", "Pronunciation: /\u02ccb\u0251k\u0259\u02c8n\u0251l/", "Definition: used of riotously drunken merrymaking", "Synonyms: bacchanalian, bacchic, carousing, orgiastic"]}
+{"data": ["2021-06-03T17:37:21.312282+00:00", 1774, "Your mother is", "throwback", "Pronunciation: /\u02c8\u03b8ro\u028a\u02ccb\u00e6k/", "Definition: characteristic of an atavist", "Synonyms: atavistic"]}
