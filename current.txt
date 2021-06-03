@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T05:07:21.190545+00:00", 1699, "Your mother is", "on the fence", "Similar to: indecisive", "Definition: characterized by indecision", "Synonyms: undecided"]}
+{"data": ["2021-06-03T05:17:22.369396+00:00", 1700, "Your mother is", "even-tempered", "Pronunciation: /\u02c8iv\u0259n\u02c8t\u025bmp\u0259rd/", "Definition: not easily irritated", "Synonyms: equable, good-tempered, placid"]}
