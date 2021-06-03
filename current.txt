@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T10:17:21.353329+00:00", 1730, "Your mother is", "unsuspicious", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8sp\u026a\u0283\u0259s/", "Definition: not suspicious", "Synonyms: unsuspecting"]}
+{"data": ["2021-06-03T10:27:21.566331+00:00", 1731, "Your mother is", "thenal", "", "Definition: of or relating to the palm of the hand or to the area at the base of the thumb", "Synonyms: thenar"]}
