@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T20:47:21.121636+00:00", 1793, "Your mother is", "sinuate", "Pronunciation: /\u02c8s\u026anju\u026at/", "Definition: curved or curving in and out", "Synonyms: sinuous, wiggly"]}
+{"data": ["2021-06-03T20:59:38.148714+00:00", 1794, "Your mother is", "bibliographic", "Pronunciation: /\u02ccb\u026abli\u0259\u02c8gr\u00e6f\u026ak/", "Definition: relating to or dealing with bibliography", "Synonyms: bibliographical"]}
