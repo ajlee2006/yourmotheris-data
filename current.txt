@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T17:07:21.237967+00:00", 1771, "Your mother is", "skim", "Pronunciation: /sk\u026am/", "Definition: used of milk and milk products from which the cream has been removed", "Synonyms: skimmed"]}
+{"data": ["2021-06-03T17:17:21.355109+00:00", 1772, "Your mother is", "highland", "Pronunciation: /\u02c8ha\u026al\u0259nd/", "Definition: used of high or hilly country", "Synonyms: upland"]}
