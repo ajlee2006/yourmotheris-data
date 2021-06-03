@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T20:27:21.194033+00:00", 1791, "Your mother is", "bossy", "Pronunciation: /\u02c8b\u0251si/", "Definition: offensively self-assured or given to exercising usually unwarranted power", "Synonyms: autocratic, dominating, high-and-mighty, magisterial, peremptory"]}
+{"data": ["2021-06-03T20:37:21.201447+00:00", 1792, "Your mother is", "stern", "Pronunciation: /st\u025crn/", "Definition: of a stern or strict bearing or demeanor; forbidding in aspect", "Synonyms: austere"]}
