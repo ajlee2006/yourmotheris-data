@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T05:57:21.470104+00:00", 1704, "Your mother is", "neurotropic", "Pronunciation: /\u02ccn\u028ar\u0259\u02c8tr\u0251p\u026ak/", "Definition: (of a virus, toxin, or chemical) tending to attack or affect the nervous system preferentially", ""]}
+{"data": ["2021-06-03T06:07:21.410180+00:00", 1705, "Your mother is", "depressed", "Pronunciation: /d\u026a\u02c8pr\u025bst/", "Definition: lower than previously", "Synonyms: down"]}
