@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T03:47:21.221996+00:00", 1691, "Your mother is", "nebulous", "Pronunciation: /\u02c8n\u025bbj\u0259l\u0259s/", "Definition: of or relating to or resembling a nebula", "Synonyms: nebular"]}
+{"data": ["2021-06-03T03:57:21.170286+00:00", 1692, "Your mother is", "plumlike", "Similar to: rounded", "Definition: resembling a plum fruit", ""]}
