@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T09:07:21.203523+00:00", 1723, "Your mother is", "afrikaner", "Pronunciation: /\u02cc\u00e6fr\u0259\u02c8k\u0251n\u0259r/", "Definition: belonging or relating to white people of South Africa whose ancestors were Dutch or to their language", "Synonyms: afrikaans"]}
+{"data": ["2021-06-03T09:17:21.156416+00:00", 1724, "Your mother is", "generative", "Pronunciation: /\u02c8d\u0292\u025bn\u0259\u02ccre\u026at\u026av/", "Definition: producing new life or offspring", "Synonyms: procreative, reproductive"]}
