@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T12:07:21.557805+00:00", 1741, "Your mother is", "manky", "Pronunciation: /\u02c8m\u00e6\u014bki/", "Definition: inferior and worthless", ""]}
+{"data": ["2021-06-03T12:17:21.236696+00:00", 1742, "Your mother is", "restricted", "Pronunciation: /r\u026a\u02c8str\u026akt\u026ad/", "Definition: restricted in meaning; (as e.g. `man' in `a tall man')", "Synonyms: qualified"]}
