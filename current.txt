@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T12:37:21.289239+00:00", 1744, "Your mother is", "moderate-sized", "Similar to: sized", "Definition: intermediate in size", "Synonyms: medium-size, medium-sized, moderate-size"]}
+{"data": ["2021-06-03T12:47:21.226948+00:00", 1745, "Your mother is", "jocular", "Pronunciation: /\u02c8d\u0292\u0251kj\u0259l\u0259r/", "Definition: characterized by jokes and good humor", "Synonyms: jesting, jocose, joking"]}
