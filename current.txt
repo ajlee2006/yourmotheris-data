@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T10:37:21.342215+00:00", 1732, "Your mother is", "astonished", "Pronunciation: /\u028c\u02c8st\u0251n\u026a\u0283t/", "Definition: filled with the emotional impact of overwhelming surprise or shock", "Synonyms: amazed, astonied, astounded, stunned"]}
+{"data": ["2021-06-03T10:47:21.278005+00:00", 1733, "Your mother is", "unsalted", "Pronunciation: /\u0259n\u02c8s\u0251lt\u026ad/", "Definition: without salt or seasoning", "Synonyms: unseasoned"]}
