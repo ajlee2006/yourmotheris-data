@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T21:49:38.059914+00:00", 1799, "Your mother is", "slummy", "Pronunciation: /\u02c8sl\u0259mi/", "Definition: (of housing or residential areas) indicative of poverty", ""]}
+{"data": ["2021-06-03T21:59:38.062859+00:00", 1800, "Your mother is", "anesthetic", "Pronunciation: /\u02cc\u00e6n\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: characterized by insensibility", "Synonyms: anaesthetic"]}
