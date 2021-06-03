@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T03:37:21.119754+00:00", 1690, "Your mother is", "spangled", "Pronunciation: /\u02c8sp\u00e6\u014b\u0261\u028cld/", "Definition: covered with beads or jewels or sequins", "Synonyms: beady, gemmed, jeweled, jewelled, sequined, spangly"]}
+{"data": ["2021-06-03T03:47:21.221996+00:00", 1691, "Your mother is", "nebulous", "Pronunciation: /\u02c8n\u025bbj\u0259l\u0259s/", "Definition: of or relating to or resembling a nebula", "Synonyms: nebular"]}
