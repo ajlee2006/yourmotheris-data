@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T06:57:21.254317+00:00", 1710, "Your mother is", "four-lobed", "Pronunciation: /fo\u028ar-lo\u028abd/", "Definition: having four lobes", ""]}
+{"data": ["2021-06-03T07:07:21.431448+00:00", 1711, "Your mother is", "xanthous", "Pronunciation: /\u02c8z\u00e6n\u03b8\u0259s/", "Definition: of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk", "Synonyms: yellow, yellowish"]}
