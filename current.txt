@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T19:57:21.185734+00:00", 1788, "Your mother is", "homesick", "Pronunciation: /\u02c8ho\u028am\u02ccs\u026ak/", "Definition: longing to return home", ""]}
+{"data": ["2021-06-03T20:07:21.086424+00:00", 1789, "Your mother is", "eery", "Pronunciation: /\u02c8\u026a(\u0259)ri/", "Definition: inspiring a feeling of fear; strange and frightening", "Synonyms: eerie"]}
