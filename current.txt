@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T01:37:21.671882+00:00", 1678, "Your mother is", "slapdash", "Pronunciation: /\u02c8sl\u00e6p\u02ccd\u00e6\u0283/", "Definition: marked by great carelessness", "Synonyms: haphazard, slipshod, sloppy"]}
+{"data": ["2021-06-03T01:47:21.283454+00:00", 1679, "Your mother is", "southeastward", "Pronunciation: /\u02ccsa\u028a\u03b8\u02c8istw\u0259rd/", "Definition: toward the southeast", ""]}
