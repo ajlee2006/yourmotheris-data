@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T11:17:21.227423+00:00", 1736, "Your mother is", "ill-affected", "Pronunciation: /\u026al-\u0259\u02c8f\u025bkt\u026ad/", "Definition: discontented as toward authority", "Synonyms: disaffected, malcontent, rebellious"]}
+{"data": ["2021-06-03T11:27:21.192762+00:00", 1737, "Your mother is", "noninstitutionalised", "", "Definition: not committed to an institution", "Synonyms: noninstitutionalized"]}
