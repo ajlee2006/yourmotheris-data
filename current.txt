@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T22:59:38.118403+00:00", 1806, "Your mother is", "influent", "Pronunciation: /\u02c8\u026anflu\u0259nt/", "Definition: flowing inward", "Synonyms: inflowing"]}
+{"data": ["2021-06-03T23:09:38.730227+00:00", 1807, "Your mother is", "subsidized", "Pronunciation: /\u02c8s\u028cbs\u026a\u02ccda\u026azd/", "Definition: having partial financial support from public funds", "Synonyms: subsidised"]}
