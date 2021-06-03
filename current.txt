@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T00:07:21.349332+00:00", 1669, "Your mother is", "butterfingered", "Pronunciation: /\u02ccb\u0259t\u0259r\u02c8f\u026a\u014b\u0261\u0259rd/", "Definition: lacking physical movement skills, especially with the hands", "Synonyms: bumbling, bungling, ham-fisted, ham-handed, handless, heavy-handed, left-handed"]}
+{"data": ["2021-06-03T00:17:21.387413+00:00", 1670, "Your mother is", "semi-evergreen", "Similar to: evergreen", "Definition: of a plant that is incompletely evergreen", "Synonyms: half-evergreen"]}
