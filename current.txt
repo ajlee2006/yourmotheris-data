@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T15:07:21.218823+00:00", 1759, "Your mother is", "multidimensional", "Pronunciation: /\u02ccm\u0259lt\u026ada\u026a\u02c8m\u025bn\u0283\u0259n\u0259l/", "Definition: having or involving or marked by several dimensions or aspects", ""]}
+{"data": ["2021-06-03T15:17:21.327793+00:00", 1760, "Your mother is", "decomposable", "Similar to: complex", "Definition: capable of being partitioned", "Synonyms: analyzable"]}
