@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T01:07:21.795268+00:00", 1675, "Your mother is", "trifling", "Pronunciation: /\u02c8tra\u026afl\u026a\u014b/", "Definition: not worth considering", "Synonyms: negligible, paltry"]}
+{"data": ["2021-06-03T01:17:21.259054+00:00", 1676, "Your mother is", "nontelescopic", "Similar to: noncollapsable", "Definition: not telescopic", "Synonyms: nontelescoping"]}
