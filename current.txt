@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T23:39:38.668942+00:00", 1810, "Your mother is", "uninviting", "Pronunciation: /\u02cc\u0259n\u026an\u02c8va\u026ati\u014b/", "Definition: not tempting", "Synonyms: untempting"]}
+{"data": ["2021-06-03T23:49:38.175096+00:00", 1811, "Your mother is", "rakish", "Pronunciation: /\u02c8re\u026ak\u026a\u0283/", "Definition: marked by up-to-dateness in dress and manners", "Synonyms: dapper, dashing, jaunty, natty, raffish, snappy, spiffy, spruce"]}
