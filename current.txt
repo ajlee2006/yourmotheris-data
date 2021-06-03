@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T12:17:21.236696+00:00", 1742, "Your mother is", "restricted", "Pronunciation: /r\u026a\u02c8str\u026akt\u026ad/", "Definition: restricted in meaning; (as e.g. `man' in `a tall man')", "Synonyms: qualified"]}
+{"data": ["2021-06-03T12:27:21.331514+00:00", 1743, "Your mother is", "isocyclic", "Pronunciation: /\u02cca\u026aso\u028a\u02c8sa\u026akl\u026ak/", "Definition: containing a closed ring of atoms of the same kind especially carbon atoms", "Synonyms: homocyclic"]}
