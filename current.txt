@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T01:47:21.283454+00:00", 1679, "Your mother is", "southeastward", "Pronunciation: /\u02ccsa\u028a\u03b8\u02c8istw\u0259rd/", "Definition: toward the southeast", ""]}
+{"data": ["2021-06-03T01:57:21.335693+00:00", 1680, "Your mother is", "hesperian", "Pronunciation: /h\u025b\u02c8spiri\u0259n/", "Definition: denoting or characteristic of countries of Europe and the western hemisphere", "Synonyms: occidental"]}
