@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T14:47:21.544450+00:00", 1757, "Your mother is", "nonabsorbent", "Similar to: repellent", "Definition: not capable of absorbing or soaking up (liquids)", "Synonyms: nonabsorptive"]}
+{"data": ["2021-06-03T14:57:21.172142+00:00", 1758, "Your mother is", "dermatologic", "", "Definition: of or relating to or practicing dermatology", "Synonyms: dermatological"]}
