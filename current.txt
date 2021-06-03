@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T05:27:21.188306+00:00", 1701, "Your mother is", "abominable", "Pronunciation: /\u0259\u02c8b\u0251m\u0259n\u0259b\u0259l/", "Definition: unequivocally detestable", "Synonyms: detestable, execrable, odious"]}
+{"data": ["2021-06-03T05:37:21.192250+00:00", 1702, "Your mother is", "bilinear", "Pronunciation: /ba\u026a\u02c8l\u026ani\u0259r/", "Definition: linear with respect to each of two variables or positions", ""]}
