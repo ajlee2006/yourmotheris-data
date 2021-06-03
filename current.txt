@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T18:47:22.919427+00:00", 1781, "Your mother is", "petitionary", "Pronunciation: /p\u0259\u02c8t\u026a\u0283\u0259\u02ccn\u025bri/", "Definition: of the nature of or expressing a petition", ""]}
+{"data": ["2021-06-03T18:57:21.241562+00:00", 1782, "Your mother is", "unprotected", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8t\u025bkt\u026ad/", "Definition: lacking protection or defense", ""]}
