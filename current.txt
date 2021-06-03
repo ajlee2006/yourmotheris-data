@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T12:27:21.331514+00:00", 1743, "Your mother is", "isocyclic", "Pronunciation: /\u02cca\u026aso\u028a\u02c8sa\u026akl\u026ak/", "Definition: containing a closed ring of atoms of the same kind especially carbon atoms", "Synonyms: homocyclic"]}
+{"data": ["2021-06-03T12:37:21.289239+00:00", 1744, "Your mother is", "moderate-sized", "Similar to: sized", "Definition: intermediate in size", "Synonyms: medium-size, medium-sized, moderate-size"]}
