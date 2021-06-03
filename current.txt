@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T16:17:22.799893+00:00", 1766, "Your mother is", "figured", "Pronunciation: /\u02c8f\u026a\u0261j\u0259rd/", "Definition: (of e.g. fabric design) adorned with patterns", ""]}
+{"data": ["2021-06-03T16:27:21.941674+00:00", 1767, "Your mother is", "flabbergasted", "Pronunciation: /\u02c8fl\u00e6b\u025dr\u02cc\u0261\u00e6st\u026ad/", "Definition: as if struck dumb with astonishment and surprise", "Synonyms: dumbfounded, dumbstricken, dumbstruck, dumfounded, stupefied, thunderstruck"]}
