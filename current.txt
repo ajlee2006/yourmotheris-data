@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T05:47:21.825206+00:00", 1703, "Your mother is", "documentary", "Pronunciation: /\u02ccd\u0251kj\u0259\u02c8m\u025bnt\u0259ri/", "Definition: relating to or consisting of or derived from documents", "Synonyms: documental"]}
+{"data": ["2021-06-03T05:57:21.470104+00:00", 1704, "Your mother is", "neurotropic", "Pronunciation: /\u02ccn\u028ar\u0259\u02c8tr\u0251p\u026ak/", "Definition: (of a virus, toxin, or chemical) tending to attack or affect the nervous system preferentially", ""]}
