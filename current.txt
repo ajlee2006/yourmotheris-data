@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T18:57:21.241562+00:00", 1782, "Your mother is", "unprotected", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8t\u025bkt\u026ad/", "Definition: lacking protection or defense", ""]}
+{"data": ["2021-06-03T19:07:21.196067+00:00", 1783, "Your mother is", "twinning", "Similar to: multiparous", "Definition: producing two offspring at a time", "Synonyms: biparous"]}
