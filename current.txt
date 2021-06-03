@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T02:07:21.351562+00:00", 1681, "Your mother is", "wonted", "Pronunciation: /\u02c8wo\u028ant\u026ad/", "Definition: commonly used or practiced; usual", "Synonyms: accustomed, customary, habitual"]}
+{"data": ["2021-06-03T02:17:21.159026+00:00", 1682, "Your mother is", "rheologic", "Pronunciation: /\u02ccri\u0259\u02c8l\u0251d\u0292\u026ak/", "Definition: of or relating to rheology", "Synonyms: rheological"]}
