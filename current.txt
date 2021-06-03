@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T22:29:38.111868+00:00", 1803, "Your mother is", "bicuspid", "Pronunciation: /ba\u026a\u02c8k\u0259sp\u026ad/", "Definition: having two cusps or points (especially a molar tooth)", "Synonyms: bicuspidate"]}
+{"data": ["2021-06-03T22:39:38.113744+00:00", 1804, "Your mother is", "donnish", "Pronunciation: /\u02c8d\u0251n\u026a\u0283/", "Definition: marked by a narrow focus on or display of learning especially its trivial aspects", "Synonyms: academic, pedantic"]}
