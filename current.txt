@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T14:27:21.304066+00:00", 1755, "Your mother is", "causative", "Pronunciation: /\u02c8k\u0254z\u0259t\u026av/", "Definition: producing an effect", ""]}
+{"data": ["2021-06-03T14:37:21.381690+00:00", 1756, "Your mother is", "unpopular", "Pronunciation: /\u02cc\u0259n\u02c8p\u0251pj\u0259l\u00e6r/", "Definition: regarded with disfavor or lacking general approval", ""]}
