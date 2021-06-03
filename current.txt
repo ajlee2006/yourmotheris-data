@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T02:37:21.233746+00:00", 1684, "Your mother is", "untellable", "Similar to: inexpressible", "Definition: defying expression or description", "Synonyms: indefinable, indescribable, ineffable, unspeakable, unutterable"]}
+{"data": ["2021-06-03T02:47:21.237983+00:00", 1685, "Your mother is", "alphanumerical", "", "Definition: of or pertaining to alphanumeric characters", "Synonyms: alphameric, alphamerical, alphanumeric"]}
