@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T07:47:21.113758+00:00", 1715, "Your mother is", "red-brown", "Pronunciation: /r\u025bd-bra\u028an/", "Definition: of brown tinged with red", "Synonyms: mahogany-red, reddish-brown"]}
+{"data": ["2021-06-03T07:57:21.601550+00:00", 1716, "Your mother is", "isobilateral", "Similar to: symmetric", "Definition: having identical parts on each side of an axis", "Synonyms: bilateral, bilaterally symmetric, bilaterally symmetrical"]}
