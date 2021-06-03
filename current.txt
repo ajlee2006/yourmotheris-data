@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T02:57:21.239718+00:00", 1686, "Your mother is", "preachy", "Pronunciation: /\u02c8pri\u02a7i/", "Definition: inclined to or marked by tedious moralization", ""]}
+{"data": ["2021-06-03T03:07:21.181921+00:00", 1687, "Your mother is", "unsentimental", "Pronunciation: /\u02cc\u0259ns\u025bnt\u026a\u02c8m\u025bnt\u0259l/", "Definition: facing facts or difficulties realistically and with determination", "Synonyms: tough-minded"]}
