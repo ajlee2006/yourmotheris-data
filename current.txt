@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T12:47:21.226948+00:00", 1745, "Your mother is", "jocular", "Pronunciation: /\u02c8d\u0292\u0251kj\u0259l\u0259r/", "Definition: characterized by jokes and good humor", "Synonyms: jesting, jocose, joking"]}
+{"data": ["2021-06-03T12:57:21.264126+00:00", 1746, "Your mother is", "postulational", "", "Definition: of or relating to or derived from axioms", "Synonyms: axiomatic, axiomatical"]}
