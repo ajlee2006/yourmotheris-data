@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T13:37:21.426974+00:00", 1750, "Your mother is", "stranded", "Pronunciation: /\u02c8str\u00e6nd\u028cd/", "Definition: cut off or left behind", "Synonyms: isolated, marooned"]}
+{"data": ["2021-06-03T13:47:21.630201+00:00", 1751, "Your mother is", "pocked", "Pronunciation: /p\u0251kt/", "Definition: marked by or as if by smallpox or acne or other eruptive skin disease", "Synonyms: pockmarked"]}
