@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T09:57:21.343876+00:00", 1728, "Your mother is", "unveiled", "Pronunciation: /\u028cn\u02c8ve\u026ald/", "Definition: revealed; especially by having a veil removed", ""]}
+{"data": ["2021-06-03T10:07:21.339760+00:00", 1729, "Your mother is", "amphiprostylar", "Similar to: apteral", "Definition: marked by columniation having free columns in porticoes either at both ends or at both sides of a structure", "Synonyms: amphiprostyle, amphistylar, porticoed"]}
