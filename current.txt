@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T21:29:38.128071+00:00", 1797, "Your mother is", "larghetto", "Pronunciation: /l\u0251r\u02c8\u0261\u025bto\u028a/", "Definition: (of tempo) less slow and broad than largo", ""]}
+{"data": ["2021-06-03T21:39:38.173690+00:00", 1798, "Your mother is", "nonequivalent", "Similar to: unequal", "Definition: not equal or interchangeable in value, quantity, or significance", ""]}
