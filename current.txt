@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T20:59:38.148714+00:00", 1794, "Your mother is", "bibliographic", "Pronunciation: /\u02ccb\u026abli\u0259\u02c8gr\u00e6f\u026ak/", "Definition: relating to or dealing with bibliography", "Synonyms: bibliographical"]}
+{"data": ["2021-06-03T21:09:38.526982+00:00", 1795, "Your mother is", "mosstone", "Similar to: chromatic", "Definition: of a moderate somewhat dull yellow-green color", "Synonyms: moss green"]}
