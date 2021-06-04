@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T13:59:38.572204+00:00", 1896, "Your mother is", "dendroid", "Pronunciation: /\u02c8d\u025bndr\u0254\u026ad/", "Definition: resembling a tree in form and branching structure", "Synonyms: arboreal, arboreous, arborescent, arboresque, arboriform, dendriform, dendroidal, tree-shaped, treelike"]}
+{"data": ["2021-06-04T14:09:38.304638+00:00", 1897, "Your mother is", "oviparous", "Pronunciation: /o\u028a\u02c8v\u026ap\u0259r\u0259s/", "Definition: egg-laying", ""]}
