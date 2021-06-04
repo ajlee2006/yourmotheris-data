@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T04:49:38.684217+00:00", 1841, "Your mother is", "unverified", "Pronunciation: /\u0259n\u02c8v\u025bri\u02ccfa\u026ad/", "Definition: lacking proof or substantiation", ""]}
+{"data": ["2021-06-04T04:59:38.140036+00:00", 1842, "Your mother is", "hebraical", "", "Definition: of or relating to the language of the Hebrews", "Synonyms: hebraic, hebrew"]}
