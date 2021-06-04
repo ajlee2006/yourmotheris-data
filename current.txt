@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T06:49:38.407440+00:00", 1853, "Your mother is", "manufactured", "Pronunciation: /\u02ccm\u00e6nj\u028c\u02c8f\u00e6kt\u0283\u025drd/", "Definition: produced in a large-scale industrial operation", ""]}
+{"data": ["2021-06-04T06:59:38.190432+00:00", 1854, "Your mother is", "low-backed", "Pronunciation: /lo\u028a-b\u00e6kt/", "Definition: having a low back", ""]}
