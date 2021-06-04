@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T14:49:38.222503+00:00", 1901, "Your mother is", "silken", "Pronunciation: /\u02c8s\u026alk\u0259n/", "Definition: having a smooth, gleaming surface reflecting light", "Synonyms: satiny, silklike, silky, sleek, slick"]}
+{"data": ["2021-06-04T14:59:38.183746+00:00", 1902, "Your mother is", "elemental", "Pronunciation: /\u02cc\u025bl\u0259\u02c8m\u025bnt\u0259l/", "Definition: of or being the essential or basic part", "Synonyms: basal, elementary, primary"]}
