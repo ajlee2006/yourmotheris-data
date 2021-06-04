@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T03:59:38.075870+00:00", 1836, "Your mother is", "uncreative", "Pronunciation: /\u02cc\u0259nkri\u02c8e\u026at\u026av/", "Definition: not creative", ""]}
+{"data": ["2021-06-04T04:09:38.164310+00:00", 1837, "Your mother is", "yearly", "Pronunciation: /\u02c8jirli/", "Definition: occurring or payable every year", "Synonyms: annual"]}
