@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T22:47:18.775127+00:00", 1948, "Your mother is", "easy", "Pronunciation: /\u02c8izi/", "Definition: not hurried or forced", "Synonyms: easygoing, leisurely"]}
+{"data": ["2021-06-04T22:57:19.011859+00:00", 1949, "Your mother is", "endothermic", "Pronunciation: /\u02cc\u025bndo\u028a\u02c8\u03b8\u025crm\u026ak/", "Definition: (of a chemical reaction or compound) occurring or formed with absorption of heat", "Synonyms: endothermal, heat-absorbing"]}
