@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T22:07:19.351927+00:00", 1944, "Your mother is", "stray", "Pronunciation: /stre\u026a/", "Definition: not close together in time", "Synonyms: isolated"]}
+{"data": ["2021-06-04T22:17:18.793889+00:00", 1945, "Your mother is", "tousled", "Similar to: untidy", "Definition: in disarray; extremely disorderly", "Synonyms: disheveled, dishevelled, frowzled, rumpled"]}
