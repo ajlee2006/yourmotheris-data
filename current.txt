@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T02:49:38.207653+00:00", 1829, "Your mother is", "working-class", "Pronunciation: /\u02c8w\u025crk\u026a\u014b-\u02cckl\u00e6s/", "Definition: working for hourly wages rather than fixed (e.g. annual) salaries", "Synonyms: wage-earning"]}
+{"data": ["2021-06-04T02:59:38.216091+00:00", 1830, "Your mother is", "gynecological", "Pronunciation: /\u02cc\u0261a\u026an\u028ck\u028c\u02c8l\u0251d\u0292\u026ak\u028cl/", "Definition: of or relating to or practicing gynecology", "Synonyms: gynaecological, gynecologic"]}
