@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T19:19:38.151526+00:00", 1928, "Your mother is", "strapless", "Pronunciation: /\u02c8str\u00e6pl\u026as/", "Definition: having no straps", ""]}
+{"data": ["2021-06-04T19:29:38.261425+00:00", 1929, "Your mother is", "calycled", "", "Definition: having a calyculus", "Synonyms: calyculate"]}
