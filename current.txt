@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T10:29:38.253056+00:00", 1875, "Your mother is", "supersensitive", "Pronunciation: /\u02ccsup\u0259r\u02c8s\u025bns\u026at\u026av/", "Definition: having an allergy or peculiar or excessive susceptibility (especially to a specific factor)", "Synonyms: allergic, hypersensitised, hypersensitive, hypersensitized, sensitised, sensitized, supersensitised, supersensitized"]}
+{"data": ["2021-06-04T10:39:38.111998+00:00", 1876, "Your mother is", "straplike", "Similar to: narrow", "Definition: long and narrow like a strap", ""]}
