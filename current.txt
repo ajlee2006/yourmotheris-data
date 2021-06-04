@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T11:39:38.182780+00:00", 1882, "Your mother is", "stomachic", "Pronunciation: /sto\u028a\u02c8m\u00e6k\u026ak/", "Definition: relating to or involving the stomach", "Synonyms: gastric, stomachal"]}
+{"data": ["2021-06-04T11:49:38.101105+00:00", 1883, "Your mother is", "stubbly", "Similar to: unshaved", "Definition: having a short growth of beard", "Synonyms: bestubbled, stubbled"]}
