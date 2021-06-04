@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T02:09:38.179092+00:00", 1825, "Your mother is", "donnish", "Pronunciation: /\u02c8d\u0251n\u026a\u0283/", "Definition: marked by a narrow focus on or display of learning especially its trivial aspects", "Synonyms: academic, pedantic"]}
+{"data": ["2021-06-04T02:19:38.182220+00:00", 1826, "Your mother is", "dragging", "Pronunciation: /\u02c8dr\u00e6\u0261\u026a\u014b/", "Definition: marked by a painfully slow and effortful manner", ""]}
