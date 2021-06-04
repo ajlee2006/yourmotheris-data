@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T05:49:38.221237+00:00", 1847, "Your mother is", "deadlocked", "Pronunciation: /\u02c8d\u025bd\u02ccl\u0251kt/", "Definition: at a complete standstill because of opposition of two unrelenting forces or factions", "Synonyms: stalemated"]}
+{"data": ["2021-06-04T05:59:38.177419+00:00", 1848, "Your mother is", "black-and-tan", "Pronunciation: /\u02c8bl\u00e6k\u0259n\u02c8t\u00e6n/", "Definition: having a pattern of black and tan", ""]}
