@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T16:19:38.310266+00:00", 1910, "Your mother is", "unadapted", "Similar to: maladjusted", "Definition: not having adapted to new conditions", "Synonyms: unadjusted"]}
+{"data": ["2021-06-04T16:29:38.293517+00:00", 1911, "Your mother is", "exculpatory", "Pronunciation: /\u026ak\u02c8sk\u0259lp\u0259\u02ccto\u028ari/", "Definition: clearing of guilt or blame", ""]}
