@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T09:49:38.787143+00:00", 1871, "Your mother is", "seeded", "Pronunciation: /\u02c8sid\u028cd/", "Definition: sprinkled with seed", "Synonyms: sown"]}
+{"data": ["2021-06-04T09:59:38.326792+00:00", 1872, "Your mother is", "salty", "Pronunciation: /\u02c8s\u0251lti/", "Definition: engagingly stimulating or provocative", "Synonyms: piquant"]}
