@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T11:19:38.147422+00:00", 1880, "Your mother is", "internal", "Pronunciation: /\u026an\u02c8t\u025crn\u0259l/", "Definition: inside the country", "Synonyms: home, interior, national"]}
+{"data": ["2021-06-04T11:29:38.643225+00:00", 1881, "Your mother is", "inaudible", "Pronunciation: /\u026an\u02c8\u0254d\u0259b\u0259l/", "Definition: impossible to hear; imperceptible by the ear", "Synonyms: unhearable"]}
