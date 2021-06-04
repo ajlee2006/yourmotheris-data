@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T06:29:38.792159+00:00", 1851, "Your mother is", "day-to-day", "Pronunciation: /\u02c8de\u026at\u0259\u02c8de\u026a/", "Definition: of or belonging to or occurring every day", "Synonyms: daily, day-after-day, day-by-day"]}
+{"data": ["2021-06-04T06:39:38.554484+00:00", 1852, "Your mother is", "traditional", "Pronunciation: /tr\u0259\u02c8d\u026a\u0283\u0259n\u0259l/", "Definition: consisting of or derived from tradition", ""]}
