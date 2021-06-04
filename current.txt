@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T22:17:18.793889+00:00", 1945, "Your mother is", "tousled", "Similar to: untidy", "Definition: in disarray; extremely disorderly", "Synonyms: disheveled, dishevelled, frowzled, rumpled"]}
+{"data": ["2021-06-04T22:27:18.748440+00:00", 1946, "Your mother is", "lumpen", "Pronunciation: /\u02c8l\u0259mp\u0259n/", "Definition: mentally sluggish", "Synonyms: lumpish, unthinking"]}
