@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T04:19:38.235416+00:00", 1838, "Your mother is", "credal", "Pronunciation: /\u02c8krid\u0259l/", "Definition: of or relating to a creed", "Synonyms: creedal"]}
+{"data": ["2021-06-04T04:29:38.246144+00:00", 1839, "Your mother is", "smelling", "Pronunciation: /\u02c8sm\u025bl\u026a\u014b/", "Definition: (used with `of' or `with') noticeably odorous", "Synonyms: redolent"]}
