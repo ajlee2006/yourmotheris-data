@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T01:59:38.435116+00:00", 1824, "Your mother is", "eloquent", "Pronunciation: /\u02c8\u025bl\u0259kw\u0259nt/", "Definition: expressing yourself readily, clearly, effectively", "Synonyms: facile, fluent, silver, silver-tongued, smooth-spoken"]}
+{"data": ["2021-06-04T02:09:38.179092+00:00", 1825, "Your mother is", "donnish", "Pronunciation: /\u02c8d\u0251n\u026a\u0283/", "Definition: marked by a narrow focus on or display of learning especially its trivial aspects", "Synonyms: academic, pedantic"]}
