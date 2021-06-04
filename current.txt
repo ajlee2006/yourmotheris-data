@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T18:39:38.402469+00:00", 1924, "Your mother is", "extortionate", "Pronunciation: /\u026ak\u02c8st\u0254r\u0283\u0259n\u026at/", "Definition: greatly exceeding bounds of reason or moderation", "Synonyms: exorbitant, outrageous, steep, unconscionable, usurious"]}
+{"data": ["2021-06-04T18:49:38.162795+00:00", 1925, "Your mother is", "solicitous", "Pronunciation: /s\u0259\u02c8l\u026as\u026at\u0259s/", "Definition: full of anxiety and concern", ""]}
