@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T08:49:38.413909+00:00", 1865, "Your mother is", "dainty", "Pronunciation: /\u02c8de\u026anti/", "Definition: delicately beautiful", "Synonyms: exquisite"]}
+{"data": ["2021-06-04T08:59:38.656851+00:00", 1866, "Your mother is", "broken-backed", "Pronunciation: /\u02c8bro\u028ak\u0259n-b\u00e6kt/", "Definition: (of a ship) so weakened as to sag at each end", "Synonyms: hogged"]}
