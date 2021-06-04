@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T08:09:38.073608+00:00", 1861, "Your mother is", "tightfisted", "Pronunciation: /\u02c8ta\u026at\u02c8f\u026ast\u0259d/", "Definition: unwilling to part with money", "Synonyms: closefisted, hardfisted"]}
+{"data": ["2021-06-04T08:19:38.161235+00:00", 1862, "Your mother is", "class-conscious", "Pronunciation: /kl\u00e6s-\u02c8k\u0251n\u0283\u0259s/", "Definition: (used of society) socially hierarchical", "Synonyms: stratified"]}
