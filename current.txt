@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T12:39:38.185266+00:00", 1888, "Your mother is", "indistinguishable", "Pronunciation: /\u02cc\u026and\u026a\u02c8st\u026a\u014bgw\u026a\u0283\u0259b\u0259l/", "Definition: exactly alike; incapable of being perceived as different", "Synonyms: identical"]}
+{"data": ["2021-06-04T12:49:39.851107+00:00", 1889, "Your mother is", "inconvenient", "Pronunciation: /\u02cc\u026ank\u0259n\u02c8vinj\u0259nt/", "Definition: not conveniently timed", ""]}
