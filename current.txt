@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T14:09:38.304638+00:00", 1897, "Your mother is", "oviparous", "Pronunciation: /o\u028a\u02c8v\u026ap\u0259r\u0259s/", "Definition: egg-laying", ""]}
+{"data": ["2021-06-04T14:19:38.111900+00:00", 1898, "Your mother is", "comely", "Pronunciation: /k\u0259mli/", "Definition: according with custom or propriety", "Synonyms: becoming, comme il faut, decorous, seemly"]}
