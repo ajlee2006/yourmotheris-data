@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T06:09:38.232696+00:00", 1849, "Your mother is", "mechanized", "Pronunciation: /\u02c8m\u025bk\u028c\u02ccna\u026azd/", "Definition: equipped with machinery", "Synonyms: mechanised"]}
+{"data": ["2021-06-04T06:19:38.073030+00:00", 1850, "Your mother is", "feverish", "Pronunciation: /\u02c8fiv\u0259r\u026a\u0283/", "Definition: of or relating to or characterized by fever", "Synonyms: febrile"]}
