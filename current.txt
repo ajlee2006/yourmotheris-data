@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T04:09:38.164310+00:00", 1837, "Your mother is", "yearly", "Pronunciation: /\u02c8jirli/", "Definition: occurring or payable every year", "Synonyms: annual"]}
+{"data": ["2021-06-04T04:19:38.235416+00:00", 1838, "Your mother is", "credal", "Pronunciation: /\u02c8krid\u0259l/", "Definition: of or relating to a creed", "Synonyms: creedal"]}
