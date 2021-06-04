@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T13:29:38.185970+00:00", 1893, "Your mother is", "frank", "Pronunciation: /fR\u0251nk/", "Definition: characterized by directness in manner or speech; without subtlety or evasion", "Synonyms: blunt, candid, forthright, free-spoken, outspoken, plainspoken, point-blank, straight-from-the-shoulder"]}
+{"data": ["2021-06-04T13:39:38.243502+00:00", 1894, "Your mother is", "romance", "Pronunciation: /ro\u028a\u02c8m\u00e6ns/", "Definition: relating to languages derived from Latin", "Synonyms: latin"]}
