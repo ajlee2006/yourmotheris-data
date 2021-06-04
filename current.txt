@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T07:39:38.407834+00:00", 1858, "Your mother is", "pneumonic", "Pronunciation: /nju\u02c8m\u0251n\u026ak/", "Definition: relating to or affecting the lungs", "Synonyms: pulmonary, pulmonic"]}
+{"data": ["2021-06-04T07:49:38.120085+00:00", 1859, "Your mother is", "unconsolable", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8so\u028al\u0259b\u0259l/", "Definition: sad beyond comforting; incapable of being consoled", "Synonyms: disconsolate, inconsolable"]}
