@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T16:09:38.250423+00:00", 1909, "Your mother is", "vinegarish", "Pronunciation: /\u02c8v\u026an\u0259\u0261\u0259r\u026a\u0283/", "Definition: tasting or smelling like vinegar", "Synonyms: acetose, acetous, vinegary"]}
+{"data": ["2021-06-04T16:19:38.310266+00:00", 1910, "Your mother is", "unadapted", "Similar to: maladjusted", "Definition: not having adapted to new conditions", "Synonyms: unadjusted"]}
