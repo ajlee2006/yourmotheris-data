@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T21:19:38.437815+00:00", 1940, "Your mother is", "dark-haired", "Similar to: brunet", "Definition: having hair of a dark color", "Synonyms: black-haired, brown-haired"]}
+{"data": ["2021-06-04T21:37:18.843405+00:00", 1941, "Your mother is", "resentful", "Pronunciation: /ri\u02c8z\u025bntf\u028al/", "Definition: full of or marked by resentment or indignant ill will", ""]}
