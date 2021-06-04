@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T20:29:38.332918+00:00", 1935, "Your mother is", "hard-shelled", "Pronunciation: /h\u0251rd-\u0283\u025bld/", "Definition: of animals or plants that have a hard shell", ""]}
+{"data": ["2021-06-04T20:39:38.354546+00:00", 1936, "Your mother is", "red-purple", "Pronunciation: /r\u025bd-\u02c8p\u025crp\u0259l/", "Definition: of purple tinged with red", "Synonyms: reddisn-purple"]}
