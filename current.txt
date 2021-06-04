@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T02:29:38.134590+00:00", 1827, "Your mother is", "pressed", "Pronunciation: /pr\u025bst/", "Definition: compacted by ironing", ""]}
+{"data": ["2021-06-04T02:39:38.642192+00:00", 1828, "Your mother is", "low-tension", "Pronunciation: /lo\u028a-\u02c8t\u025bn\u0283\u0259n/", "Definition: subjected to or capable of operating under relative low voltage", "Synonyms: low-voltage"]}
