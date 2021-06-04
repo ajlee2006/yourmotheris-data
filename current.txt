@@ -1,1 +1,1 @@
-{"data": ["2021-06-03T23:59:38.141586+00:00", 1812, "Your mother is", "snappish", "Pronunciation: /\u02c8sn\u00e6p\u026a\u0283/", "Definition: apt to speak irritably", "Synonyms: snappy"]}
+{"data": ["2021-06-04T00:09:38.782662+00:00", 1813, "Your mother is", "telluric", "Pronunciation: /t\u025b\u02c8l\u028ar\u026ak/", "Definition: of or relating to or inhabiting the land as opposed to the sea or air", "Synonyms: tellurian, terrene, terrestrial"]}
