@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T11:59:38.159133+00:00", 1884, "Your mother is", "astrocytic", "", "Definition: of or relating to or containing large star-shaped cells in the neuroglia", ""]}
+{"data": ["2021-06-04T12:09:38.073607+00:00", 1885, "Your mother is", "sixty", "Pronunciation: /\u02c8s\u026aksti/", "Definition: being ten more than fifty", "Synonyms: 60, lx, threescore"]}
