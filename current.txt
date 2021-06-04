@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T10:59:38.239868+00:00", 1878, "Your mother is", "recherche", "Similar to: elegant", "Definition: lavishly elegant and refined", "Synonyms: exquisite"]}
+{"data": ["2021-06-04T11:09:38.769170+00:00", 1879, "Your mother is", "lipophilic", "Pronunciation: /\u02ccl\u026ap\u0259\u02c8f\u026al\u026ak/", "Definition: having an affinity for lipids", "Synonyms: lipotropic"]}
