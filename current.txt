@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T17:19:38.626647+00:00", 1916, "Your mother is", "stereo", "Pronunciation: /\u02c8st\u025brio\u028a/", "Definition: designating the reproduction of sound using two or more independent audio channels", "Synonyms: stereophonic, two-channel"]}
+{"data": ["2021-06-04T17:29:38.987454+00:00", 1917, "Your mother is", "furled", "Similar to: bound", "Definition: rolled up and secured", "Synonyms: rolled"]}
