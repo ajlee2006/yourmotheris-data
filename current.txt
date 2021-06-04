@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T20:49:38.271712+00:00", 1937, "Your mother is", "pentamerous", "Pronunciation: /p\u025bn\u02c8t\u00e6m\u0259r\u0259s/", "Definition: divided into five parts; specifically, having each floral whorl consist of five (or a multiple of five) members", ""]}
+{"data": ["2021-06-04T20:59:38.811810+00:00", 1938, "Your mother is", "tempest-tost", "Similar to: troubled", "Definition: pounded or hit repeatedly by storms or adversities", "Synonyms: buffeted, storm-tossed, tempest-swept, tempest-tossed"]}
