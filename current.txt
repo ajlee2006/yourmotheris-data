@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T16:49:38.273219+00:00", 1913, "Your mother is", "indigo", "Pronunciation: /\u02c8\u026and\u0259\u02cc\u0261o\u028a/", "Definition: having a color between blue and violet", ""]}
+{"data": ["2021-06-04T16:59:38.577837+00:00", 1914, "Your mother is", "ivied", "Pronunciation: /\u02c8a\u026avid/", "Definition: overgrown with ivy", "Synonyms: ivy-covered"]}
