@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T16:29:38.293517+00:00", 1911, "Your mother is", "exculpatory", "Pronunciation: /\u026ak\u02c8sk\u0259lp\u0259\u02ccto\u028ari/", "Definition: clearing of guilt or blame", ""]}
+{"data": ["2021-06-04T16:39:38.790174+00:00", 1912, "Your mother is", "mercury-contaminated", "Similar to: contaminated", "Definition: contaminated by mercury", ""]}
