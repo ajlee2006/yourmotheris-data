@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T12:49:39.851107+00:00", 1889, "Your mother is", "inconvenient", "Pronunciation: /\u02cc\u026ank\u0259n\u02c8vinj\u0259nt/", "Definition: not conveniently timed", ""]}
+{"data": ["2021-06-04T12:59:38.485466+00:00", 1890, "Your mother is", "acquitted", "Pronunciation: /\u028c\u02c8kw\u026at\u028cd/", "Definition: declared not guilty of a specific offense or crime; legally blameless", "Synonyms: not guilty"]}
