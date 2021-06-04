@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T08:59:38.656851+00:00", 1866, "Your mother is", "broken-backed", "Pronunciation: /\u02c8bro\u028ak\u0259n-b\u00e6kt/", "Definition: (of a ship) so weakened as to sag at each end", "Synonyms: hogged"]}
+{"data": ["2021-06-04T09:09:38.147018+00:00", 1867, "Your mother is", "homeward-bound", "Pronunciation: /\u02c8ho\u028amw\u0259rd-ba\u028and/", "Definition: oriented toward home", "Synonyms: homeward"]}
