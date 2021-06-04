@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T15:09:38.401536+00:00", 1903, "Your mother is", "unpolitical", "Pronunciation: /\u02cc\u0259np\u0259\u02c8l\u026at\u026ak\u0259l/", "Definition: politically neutral", "Synonyms: apolitical"]}
+{"data": ["2021-06-04T15:19:38.792919+00:00", 1904, "Your mother is", "comatose", "Pronunciation: /\u02c8k\u0251m\u0259\u02ccto\u028as/", "Definition: in a state of deep and usually prolonged unconsciousness; unable to respond to external stimuli", ""]}
