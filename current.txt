@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T22:37:18.690973+00:00", 1947, "Your mother is", "dotted", "Pronunciation: /\u02c8d\u0251t\u026ad/", "Definition: having a pattern of dots", "Synonyms: flecked, specked, speckled, stippled"]}
+{"data": ["2021-06-04T22:47:18.775127+00:00", 1948, "Your mother is", "easy", "Pronunciation: /\u02c8izi/", "Definition: not hurried or forced", "Synonyms: easygoing, leisurely"]}
