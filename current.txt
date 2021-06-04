@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T11:49:38.101105+00:00", 1883, "Your mother is", "stubbly", "Similar to: unshaved", "Definition: having a short growth of beard", "Synonyms: bestubbled, stubbled"]}
+{"data": ["2021-06-04T11:59:38.159133+00:00", 1884, "Your mother is", "astrocytic", "", "Definition: of or relating to or containing large star-shaped cells in the neuroglia", ""]}
