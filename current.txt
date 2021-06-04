@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T04:29:38.246144+00:00", 1839, "Your mother is", "smelling", "Pronunciation: /\u02c8sm\u025bl\u026a\u014b/", "Definition: (used with `of' or `with') noticeably odorous", "Synonyms: redolent"]}
+{"data": ["2021-06-04T04:39:38.399003+00:00", 1840, "Your mother is", "malayan", "Pronunciation: /m\u0259\u02c8le\u026a\u0259n/", "Definition: of or relating to or characteristic of Malaysia", "Synonyms: malaysian"]}
