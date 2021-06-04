@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T00:09:38.782662+00:00", 1813, "Your mother is", "telluric", "Pronunciation: /t\u025b\u02c8l\u028ar\u026ak/", "Definition: of or relating to or inhabiting the land as opposed to the sea or air", "Synonyms: tellurian, terrene, terrestrial"]}
+{"data": ["2021-06-04T00:19:38.152260+00:00", 1814, "Your mother is", "tellurian", "Pronunciation: /t\u025b\u02c8l\u028ari\u0259n/", "Definition: of or relating to or inhabiting the land as opposed to the sea or air", "Synonyms: telluric, terrene, terrestrial"]}
