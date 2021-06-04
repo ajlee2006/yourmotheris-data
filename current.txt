@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T09:09:38.147018+00:00", 1867, "Your mother is", "homeward-bound", "Pronunciation: /\u02c8ho\u028amw\u0259rd-ba\u028and/", "Definition: oriented toward home", "Synonyms: homeward"]}
+{"data": ["2021-06-04T09:19:38.382232+00:00", 1868, "Your mother is", "burbling", "Similar to: lively", "Definition: uttered with unrestrained enthusiasm", "Synonyms: burbly, effusive, gushing"]}
