@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T18:19:38.161106+00:00", 1922, "Your mother is", "closing", "Pronunciation: /\u02c8klo\u028az\u026a\u014b/", "Definition: final or ending", ""]}
+{"data": ["2021-06-04T18:29:38.266491+00:00", 1923, "Your mother is", "further", "Pronunciation: /\u02c8f\u025cr\u00f0\u0259r/", "Definition: more distant in especially degree", "Synonyms: farther"]}
