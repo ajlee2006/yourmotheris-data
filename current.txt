@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T09:19:38.382232+00:00", 1868, "Your mother is", "burbling", "Similar to: lively", "Definition: uttered with unrestrained enthusiasm", "Synonyms: burbly, effusive, gushing"]}
+{"data": ["2021-06-04T09:29:38.938304+00:00", 1869, "Your mother is", "mislaid", "Pronunciation: /m\u026as\u02c8le\u026ad/", "Definition: lost temporarily; as especially put in an unaccustomed or forgotten place", "Synonyms: misplaced"]}
