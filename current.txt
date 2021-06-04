@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T05:39:38.298635+00:00", 1846, "Your mother is", "well-worn", "Pronunciation: /w\u025bl-wo\u028arn/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, tired, trite"]}
+{"data": ["2021-06-04T05:49:38.221237+00:00", 1847, "Your mother is", "deadlocked", "Pronunciation: /\u02c8d\u025bd\u02ccl\u0251kt/", "Definition: at a complete standstill because of opposition of two unrelenting forces or factions", "Synonyms: stalemated"]}
