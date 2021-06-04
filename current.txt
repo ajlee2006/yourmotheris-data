@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T00:39:38.077605+00:00", 1816, "Your mother is", "nascent", "Pronunciation: /\u02c8n\u00e6s\u0259nt/", "Definition: being born or beginning", ""]}
+{"data": ["2021-06-04T00:49:38.140665+00:00", 1817, "Your mother is", "zestful", "Pronunciation: /\u02c8z\u025bstf\u0259l/", "Definition: marked by spirited enjoyment", "Synonyms: barmy, yeasty, zesty"]}
