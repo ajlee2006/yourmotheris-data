@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T03:49:38.105792+00:00", 1835, "Your mother is", "meridian", "Pronunciation: /m\u0259\u02c8r\u026adi\u0259n/", "Definition: being at the best stage of development", "Synonyms: prime"]}
+{"data": ["2021-06-04T03:59:38.075870+00:00", 1836, "Your mother is", "uncreative", "Pronunciation: /\u02cc\u0259nkri\u02c8e\u026at\u026av/", "Definition: not creative", ""]}
