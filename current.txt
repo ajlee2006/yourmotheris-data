@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T09:39:38.130991+00:00", 1870, "Your mother is", "elegiac", "Pronunciation: /\u02cc\u025bl\u0259\u02c8d\u0292a\u026a\u0259k/", "Definition: expressing sorrow often for something past", ""]}
+{"data": ["2021-06-04T09:49:38.787143+00:00", 1871, "Your mother is", "seeded", "Pronunciation: /\u02c8sid\u028cd/", "Definition: sprinkled with seed", "Synonyms: sown"]}
