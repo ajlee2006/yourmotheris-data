@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T00:29:38.133041+00:00", 1815, "Your mother is", "never-ending", "Pronunciation: /\u02c8n\u025bv\u0259r-\u02c8\u025bnd\u026a\u014b/", "Definition: uninterrupted in time and indefinitely long continuing", "Synonyms: ceaseless, constant, incessant, perpetual, unceasing, unremitting"]}
+{"data": ["2021-06-04T00:39:38.077605+00:00", 1816, "Your mother is", "nascent", "Pronunciation: /\u02c8n\u00e6s\u0259nt/", "Definition: being born or beginning", ""]}
