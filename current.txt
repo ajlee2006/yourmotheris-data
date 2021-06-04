@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T13:09:38.459953+00:00", 1891, "Your mother is", "signed", "Pronunciation: /sa\u026and/", "Definition: used of the language of the deaf", "Synonyms: gestural, sign, sign-language"]}
+{"data": ["2021-06-04T13:19:38.282486+00:00", 1892, "Your mother is", "26", "Similar to: cardinal", "Definition: being six more than twenty", "Synonyms: twenty-six, xxvi"]}
