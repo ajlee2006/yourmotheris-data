@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T17:09:38.859739+00:00", 1915, "Your mother is", "enlightened", "Pronunciation: /\u025bn\u02c8la\u026at\u028cnd/", "Definition: characterized by full comprehension of the problem involved", "Synonyms: educated"]}
+{"data": ["2021-06-04T17:19:38.626647+00:00", 1916, "Your mother is", "stereo", "Pronunciation: /\u02c8st\u025brio\u028a/", "Definition: designating the reproduction of sound using two or more independent audio channels", "Synonyms: stereophonic, two-channel"]}
