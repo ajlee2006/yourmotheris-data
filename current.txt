@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T21:37:18.843405+00:00", 1941, "Your mother is", "resentful", "Pronunciation: /ri\u02c8z\u025bntf\u028al/", "Definition: full of or marked by resentment or indignant ill will", ""]}
+{"data": ["2021-06-04T21:47:18.918881+00:00", 1942, "Your mother is", "epidermic", "", "Definition: of or relating to a cuticle or cuticula", "Synonyms: cuticular, dermal, epidermal"]}
