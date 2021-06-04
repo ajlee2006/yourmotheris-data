@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T07:49:38.120085+00:00", 1859, "Your mother is", "unconsolable", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8so\u028al\u0259b\u0259l/", "Definition: sad beyond comforting; incapable of being consoled", "Synonyms: disconsolate, inconsolable"]}
+{"data": ["2021-06-04T07:59:38.030802+00:00", 1860, "Your mother is", "galling", "Pronunciation: /\u02c8\u0261\u0254l\u026a\u014b/", "Definition: causing irritation or annoyance", "Synonyms: annoying, bothersome, irritating, nettlesome, pesky, pestering, pestiferous, plaguey, plaguy, teasing, vexatious, vexing"]}
