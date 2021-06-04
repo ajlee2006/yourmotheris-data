@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T14:19:38.111900+00:00", 1898, "Your mother is", "comely", "Pronunciation: /k\u0259mli/", "Definition: according with custom or propriety", "Synonyms: becoming, comme il faut, decorous, seemly"]}
+{"data": ["2021-06-04T14:29:38.545167+00:00", 1899, "Your mother is", "interlaced", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8le\u026ast/", "Definition: having a pattern of fretwork or latticework", "Synonyms: fretted, latticed, latticelike"]}
