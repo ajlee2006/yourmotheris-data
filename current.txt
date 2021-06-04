@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T23:27:18.865423+00:00", 1952, "Your mother is", "inexpressive", "Pronunciation: /\u02cc\u026an\u026ak\u02c8spr\u025bs\u026av/", "Definition: not expressive", ""]}
+{"data": ["2021-06-04T23:37:18.832484+00:00", 1953, "Your mother is", "sugary", "Pronunciation: /\u02c8\u0283\u028a\u0261\u0259ri/", "Definition: containing sugar", ""]}
