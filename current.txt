@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T07:29:38.358242+00:00", 1857, "Your mother is", "mathematical", "Pronunciation: /\u02ccm\u00e6\u03b8\u0259\u02c8m\u00e6t\u026ak\u0259l/", "Definition: relating to or having ability to think in or work with numbers", "Synonyms: numerical"]}
+{"data": ["2021-06-04T07:39:38.407834+00:00", 1858, "Your mother is", "pneumonic", "Pronunciation: /nju\u02c8m\u0251n\u026ak/", "Definition: relating to or affecting the lungs", "Synonyms: pulmonary, pulmonic"]}
