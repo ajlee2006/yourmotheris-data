@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T11:09:38.769170+00:00", 1879, "Your mother is", "lipophilic", "Pronunciation: /\u02ccl\u026ap\u0259\u02c8f\u026al\u026ak/", "Definition: having an affinity for lipids", "Synonyms: lipotropic"]}
+{"data": ["2021-06-04T11:19:38.147422+00:00", 1880, "Your mother is", "internal", "Pronunciation: /\u026an\u02c8t\u025crn\u0259l/", "Definition: inside the country", "Synonyms: home, interior, national"]}
