@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T20:39:38.354546+00:00", 1936, "Your mother is", "red-purple", "Pronunciation: /r\u025bd-\u02c8p\u025crp\u0259l/", "Definition: of purple tinged with red", "Synonyms: reddisn-purple"]}
+{"data": ["2021-06-04T20:49:38.271712+00:00", 1937, "Your mother is", "pentamerous", "Pronunciation: /p\u025bn\u02c8t\u00e6m\u0259r\u0259s/", "Definition: divided into five parts; specifically, having each floral whorl consist of five (or a multiple of five) members", ""]}
