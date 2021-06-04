@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T00:49:38.140665+00:00", 1817, "Your mother is", "zestful", "Pronunciation: /\u02c8z\u025bstf\u0259l/", "Definition: marked by spirited enjoyment", "Synonyms: barmy, yeasty, zesty"]}
+{"data": ["2021-06-04T00:59:38.147859+00:00", 1818, "Your mother is", "unlipped", "", "Definition: without a lip or lips", "Synonyms: lipless"]}
