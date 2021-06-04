@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T19:59:38.282631+00:00", 1932, "Your mother is", "cloven", "Pronunciation: /\u02c8klo\u028av\u0259n/", "Definition: (used of hooves) split, divided", "Synonyms: bisulcate"]}
+{"data": ["2021-06-04T20:09:38.367699+00:00", 1933, "Your mother is", "duplex", "Pronunciation: /\u02c8dupl\u025bks/", "Definition: allowing communication in opposite directions simultaneously", ""]}
