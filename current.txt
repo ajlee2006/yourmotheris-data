@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T01:29:38.260149+00:00", 1821, "Your mother is", "directed", "Pronunciation: /d\u026a\u02c8r\u025bkt\u026ad/", "Definition: manageable by a supervising agent", ""]}
+{"data": ["2021-06-04T01:39:38.116291+00:00", 1822, "Your mother is", "dismal", "Pronunciation: /\u02c8d\u026azm\u0259l/", "Definition: causing dejection", "Synonyms: blue, dark, dingy, disconsolate, drab, drear, dreary, gloomy, grim, sorry"]}
