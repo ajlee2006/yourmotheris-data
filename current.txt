@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T05:59:38.177419+00:00", 1848, "Your mother is", "black-and-tan", "Pronunciation: /\u02c8bl\u00e6k\u0259n\u02c8t\u00e6n/", "Definition: having a pattern of black and tan", ""]}
+{"data": ["2021-06-04T06:09:38.232696+00:00", 1849, "Your mother is", "mechanized", "Pronunciation: /\u02c8m\u025bk\u028c\u02ccna\u026azd/", "Definition: equipped with machinery", "Synonyms: mechanised"]}
