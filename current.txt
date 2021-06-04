@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T02:39:38.642192+00:00", 1828, "Your mother is", "low-tension", "Pronunciation: /lo\u028a-\u02c8t\u025bn\u0283\u0259n/", "Definition: subjected to or capable of operating under relative low voltage", "Synonyms: low-voltage"]}
+{"data": ["2021-06-04T02:49:38.207653+00:00", 1829, "Your mother is", "working-class", "Pronunciation: /\u02c8w\u025crk\u026a\u014b-\u02cckl\u00e6s/", "Definition: working for hourly wages rather than fixed (e.g. annual) salaries", "Synonyms: wage-earning"]}
