@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T13:49:38.426008+00:00", 1895, "Your mother is", "scattered", "Pronunciation: /\u02c8sk\u00e6t\u025drd/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, garbled, illogical, unconnected"]}
+{"data": ["2021-06-04T13:59:38.572204+00:00", 1896, "Your mother is", "dendroid", "Pronunciation: /\u02c8d\u025bndr\u0254\u026ad/", "Definition: resembling a tree in form and branching structure", "Synonyms: arboreal, arboreous, arborescent, arboresque, arboriform, dendriform, dendroidal, tree-shaped, treelike"]}
