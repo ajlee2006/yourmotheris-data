@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T11:29:38.643225+00:00", 1881, "Your mother is", "inaudible", "Pronunciation: /\u026an\u02c8\u0254d\u0259b\u0259l/", "Definition: impossible to hear; imperceptible by the ear", "Synonyms: unhearable"]}
+{"data": ["2021-06-04T11:39:38.182780+00:00", 1882, "Your mother is", "stomachic", "Pronunciation: /sto\u028a\u02c8m\u00e6k\u026ak/", "Definition: relating to or involving the stomach", "Synonyms: gastric, stomachal"]}
