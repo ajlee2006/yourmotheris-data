@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T04:59:38.140036+00:00", 1842, "Your mother is", "hebraical", "", "Definition: of or relating to the language of the Hebrews", "Synonyms: hebraic, hebrew"]}
+{"data": ["2021-06-04T05:09:38.266371+00:00", 1843, "Your mother is", "taxonomic", "Pronunciation: /\u02cct\u00e6ks\u0259\u02c8n\u0251m\u026ak/", "Definition: of or relating to taxonomy", "Synonyms: systematic, taxonomical"]}
