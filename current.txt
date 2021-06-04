@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T02:19:38.182220+00:00", 1826, "Your mother is", "dragging", "Pronunciation: /\u02c8dr\u00e6\u0261\u026a\u014b/", "Definition: marked by a painfully slow and effortful manner", ""]}
+{"data": ["2021-06-04T02:29:38.134590+00:00", 1827, "Your mother is", "pressed", "Pronunciation: /pr\u025bst/", "Definition: compacted by ironing", ""]}
