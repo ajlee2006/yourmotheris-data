@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T18:49:38.162795+00:00", 1925, "Your mother is", "solicitous", "Pronunciation: /s\u0259\u02c8l\u026as\u026at\u0259s/", "Definition: full of anxiety and concern", ""]}
+{"data": ["2021-06-04T18:59:38.306403+00:00", 1926, "Your mother is", "squalling", "Similar to: unquiet", "Definition: characterized by short periods of noisy commotion", "Synonyms: squally"]}
