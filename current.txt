@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T17:39:38.729396+00:00", 1918, "Your mother is", "intimate", "Pronunciation: /\u02c8\u026ant\u0259m\u026at/", "Definition: having or fostering a warm or friendly and informal atmosphere", "Synonyms: cozy, informal"]}
+{"data": ["2021-06-04T17:49:38.330057+00:00", 1919, "Your mother is", "hydrometric", "Pronunciation: /\u02ccha\u026adr\u0259\u02c8m\u025btr\u026ak/", "Definition: of or relating to hydrometry", "Synonyms: gravimetric"]}
