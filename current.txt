@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T14:39:38.276808+00:00", 1900, "Your mother is", "platinum-blonde", "Similar to: blond", "Definition: of hair color; whitish", "Synonyms: ash-blonde, towheaded"]}
+{"data": ["2021-06-04T14:49:38.222503+00:00", 1901, "Your mother is", "silken", "Pronunciation: /\u02c8s\u026alk\u0259n/", "Definition: having a smooth, gleaming surface reflecting light", "Synonyms: satiny, silklike, silky, sleek, slick"]}
