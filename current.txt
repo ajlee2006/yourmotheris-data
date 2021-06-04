@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T17:49:38.330057+00:00", 1919, "Your mother is", "hydrometric", "Pronunciation: /\u02ccha\u026adr\u0259\u02c8m\u025btr\u026ak/", "Definition: of or relating to hydrometry", "Synonyms: gravimetric"]}
+{"data": ["2021-06-04T17:59:38.372178+00:00", 1920, "Your mother is", "diametric", "Pronunciation: /\u02ccda\u026a\u0259\u02c8m\u025btr\u026ak/", "Definition: related to or along a diameter", "Synonyms: diametral, diametrical"]}
