@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T13:19:38.282486+00:00", 1892, "Your mother is", "26", "Similar to: cardinal", "Definition: being six more than twenty", "Synonyms: twenty-six, xxvi"]}
+{"data": ["2021-06-04T13:29:38.185970+00:00", 1893, "Your mother is", "frank", "Pronunciation: /fR\u0251nk/", "Definition: characterized by directness in manner or speech; without subtlety or evasion", "Synonyms: blunt, candid, forthright, free-spoken, outspoken, plainspoken, point-blank, straight-from-the-shoulder"]}
