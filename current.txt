@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T12:09:38.073607+00:00", 1885, "Your mother is", "sixty", "Pronunciation: /\u02c8s\u026aksti/", "Definition: being ten more than fifty", "Synonyms: 60, lx, threescore"]}
+{"data": ["2021-06-04T12:19:38.108481+00:00", 1886, "Your mother is", "rosy", "Pronunciation: /\u02c8ro\u028azi/", "Definition: having the pinkish flush of health", "Synonyms: flushed, rose-cheeked, rosy-cheeked"]}
