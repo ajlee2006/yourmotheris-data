@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T15:19:38.792919+00:00", 1904, "Your mother is", "comatose", "Pronunciation: /\u02c8k\u0251m\u0259\u02ccto\u028as/", "Definition: in a state of deep and usually prolonged unconsciousness; unable to respond to external stimuli", ""]}
+{"data": ["2021-06-04T15:29:38.485209+00:00", 1905, "Your mother is", "97", "Similar to: cardinal", "Definition: being seven more than ninety", "Synonyms: ninety-seven, xcvii"]}
