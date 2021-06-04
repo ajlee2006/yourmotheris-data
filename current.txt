@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T15:49:38.319299+00:00", 1907, "Your mother is", "minuscule", "Pronunciation: /\u02c8m\u026an\u0259\u02ccskjul/", "Definition: of or relating to a small cursive script developed from uncial; 7th to 9th centuries", "Synonyms: minuscular"]}
+{"data": ["2021-06-04T15:59:38.293138+00:00", 1908, "Your mother is", "nonslip", "Similar to: nonslippery", "Definition: designed to reduce or prevent slipping", ""]}
