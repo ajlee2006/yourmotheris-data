@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T10:09:38.324642+00:00", 1873, "Your mother is", "bacillar", "Pronunciation: /b\u0259\u02c8s\u026al\u0259r/", "Definition: relating to or produced by or containing bacilli", "Synonyms: bacillary"]}
+{"data": ["2021-06-04T10:19:38.136676+00:00", 1874, "Your mother is", "sexless", "Pronunciation: /\u02c8s\u025bksl\u025bs/", "Definition: having no or imperfectly developed or nonfunctional sex organs", "Synonyms: neuter"]}
