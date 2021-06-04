@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T23:07:18.923518+00:00", 1950, "Your mother is", "ample", "Pronunciation: /\u02c8\u00e6mp\u0259l/", "Definition: fairly large in size", "Synonyms: sizable, sizeable"]}
+{"data": ["2021-06-04T23:17:19.213146+00:00", 1951, "Your mother is", "unartistic", "Pronunciation: /\u02cc\u0259n\u0251r\u02c8t\u026ast\u026ak/", "Definition: lacking aesthetic sensibility", "Synonyms: inartistic"]}
