@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T07:59:38.030802+00:00", 1860, "Your mother is", "galling", "Pronunciation: /\u02c8\u0261\u0254l\u026a\u014b/", "Definition: causing irritation or annoyance", "Synonyms: annoying, bothersome, irritating, nettlesome, pesky, pestering, pestiferous, plaguey, plaguy, teasing, vexatious, vexing"]}
+{"data": ["2021-06-04T08:09:38.073608+00:00", 1861, "Your mother is", "tightfisted", "Pronunciation: /\u02c8ta\u026at\u02c8f\u026ast\u0259d/", "Definition: unwilling to part with money", "Synonyms: closefisted, hardfisted"]}
