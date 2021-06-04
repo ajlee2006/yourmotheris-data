@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T09:29:38.938304+00:00", 1869, "Your mother is", "mislaid", "Pronunciation: /m\u026as\u02c8le\u026ad/", "Definition: lost temporarily; as especially put in an unaccustomed or forgotten place", "Synonyms: misplaced"]}
+{"data": ["2021-06-04T09:39:38.130991+00:00", 1870, "Your mother is", "elegiac", "Pronunciation: /\u02cc\u025bl\u0259\u02c8d\u0292a\u026a\u0259k/", "Definition: expressing sorrow often for something past", ""]}
