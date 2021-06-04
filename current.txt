@@ -1,1 +1,1 @@
-{"data": ["2021-06-04T15:39:38.127579+00:00", 1906, "Your mother is", "little-known", "Pronunciation: /\u02c8l\u026at\u0259l-no\u028an/", "Definition: unknown to most people", ""]}
+{"data": ["2021-06-04T15:49:38.319299+00:00", 1907, "Your mother is", "minuscule", "Pronunciation: /\u02c8m\u026an\u0259\u02ccskjul/", "Definition: of or relating to a small cursive script developed from uncial; 7th to 9th centuries", "Synonyms: minuscular"]}
