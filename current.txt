@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T10:07:19.172981+00:00", 2016, "Your mother is", "obligated", "Pronunciation: /\u02c8\u0251bl\u028c\u02cc\u0261e\u026at\u026ad/", "Definition: caused by law or conscience to follow a certain course", ""]}
+{"data": ["2021-06-05T10:17:18.864923+00:00", 2017, "Your mother is", "clouded", "Pronunciation: /\u02c8kla\u028ad\u026ad/", "Definition: unclear in form or expression", "Synonyms: blurred"]}
