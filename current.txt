@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T03:37:18.959781+00:00", 1977, "Your mother is", "accurate", "Pronunciation: /\u02c8\u00e6kj\u0259r\u026at/", "Definition: (of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth; strictly correct", "Synonyms: exact, precise"]}
+{"data": ["2021-06-05T03:47:19.357165+00:00", 1978, "Your mother is", "unworkmanlike", "Pronunciation: /\u0259n\u02c8w\u025crkm\u0259n\u02ccla\u026ak/", "Definition: not characteristic of or suitable for a good workman", ""]}
