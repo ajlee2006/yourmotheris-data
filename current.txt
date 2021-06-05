@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T18:27:18.940951+00:00", 2066, "Your mother is", "rumbustious", "Pronunciation: /r\u0259m\u02c8b\u0259st\u0283\u0259s/", "Definition: noisy and lacking in restraint or discipline", "Synonyms: boisterous, rambunctious, robustious, unruly"]}
+{"data": ["2021-06-05T18:37:18.950568+00:00", 2067, "Your mother is", "small-cap", "", "Definition: of stocks of companies with a market capitalization of less than one billion dollars", "Synonyms: small-capitalisation, small-capitalization"]}
