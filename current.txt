@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T08:27:18.791352+00:00", 2006, "Your mother is", "low-set", "Pronunciation: /lo\u028a-s\u025bt/", "Definition: lower than average", "Synonyms: lowset"]}
+{"data": ["2021-06-05T08:37:18.840839+00:00", 2007, "Your mother is", "torturous", "Pronunciation: /\u02c8t\u0254r\u02cct\u0283u\u028cs/", "Definition: extremely painful", "Synonyms: agonising, agonizing, excruciating, harrowing, torturesome, torturing"]}
