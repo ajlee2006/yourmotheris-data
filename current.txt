@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T09:47:19.494759+00:00", 2014, "Your mother is", "rapacious", "Pronunciation: /r\u0259\u02c8pe\u026a\u0283\u0259s/", "Definition: devouring or craving food in great quantities", "Synonyms: edacious, esurient, ravening, ravenous, voracious, wolfish"]}
+{"data": ["2021-06-05T09:57:18.757384+00:00", 2015, "Your mother is", "unrecognized", "Pronunciation: /\u0259n\u02c8r\u025bk\u0259\u0261\u02ccna\u026azd/", "Definition: not having a secure reputation", "Synonyms: unrecognised"]}
