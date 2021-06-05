@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T20:17:18.886369+00:00", 2077, "Your mother is", "fatless", "Similar to: calorie-free", "Definition: without fat or fat solids", "Synonyms: fat-free, nonfat"]}
+{"data": ["2021-06-05T20:27:19.803832+00:00", 2078, "Your mother is", "noninheritable", "Similar to: acquired", "Definition: not inheritable", "Synonyms: nonheritable"]}
