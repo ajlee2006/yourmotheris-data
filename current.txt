@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T06:27:18.768934+00:00", 1994, "Your mother is", "exhortatory", "Pronunciation: /\u026a\u0261\u02c8z\u0254rt\u0259\u02ccto\u028ari/", "Definition: giving strong encouragement", "Synonyms: exhortative, hortative, hortatory"]}
+{"data": ["2021-06-05T06:37:18.800469+00:00", 1995, "Your mother is", "doled out", "Similar to: distributed", "Definition: given out in portions", "Synonyms: apportioned, dealt out, meted out, parceled out"]}
