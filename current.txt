@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T08:07:18.757844+00:00", 2004, "Your mother is", "heraldist", "Pronunciation: /\u02c8h\u025br\u0259ld\u026ast/", "Definition: of or relating to heraldry", "Synonyms: heraldic"]}
+{"data": ["2021-06-05T08:17:18.784703+00:00", 2005, "Your mother is", "porcine", "Pronunciation: /\u02c8p\u0254rs\u026an/", "Definition: repellently fat", "Synonyms: gross"]}
