@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T08:17:18.784703+00:00", 2005, "Your mother is", "porcine", "Pronunciation: /\u02c8p\u0254rs\u026an/", "Definition: repellently fat", "Synonyms: gross"]}
+{"data": ["2021-06-05T08:27:18.791352+00:00", 2006, "Your mother is", "low-set", "Pronunciation: /lo\u028a-s\u025bt/", "Definition: lower than average", "Synonyms: lowset"]}
