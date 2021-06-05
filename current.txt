@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T20:57:18.906298+00:00", 2081, "Your mother is", "plutocratic", "Pronunciation: /\u02ccplut\u0259\u02c8kr\u00e6t\u026ak/", "Definition: of or relating to or characteristic of a plutocrat", "Synonyms: plutocratical"]}
+{"data": ["2021-06-05T21:07:18.826092+00:00", 2082, "Your mother is", "jocund", "Pronunciation: /\u02c8d\u0292\u0251k\u0259nd/", "Definition: full of or showing high-spirited merriment", "Synonyms: gay, jolly, jovial, merry, mirthful"]}
