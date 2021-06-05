@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T10:17:18.864923+00:00", 2017, "Your mother is", "clouded", "Pronunciation: /\u02c8kla\u028ad\u026ad/", "Definition: unclear in form or expression", "Synonyms: blurred"]}
+{"data": ["2021-06-05T10:27:18.723866+00:00", 2018, "Your mother is", "imprudent", "Pronunciation: /\u026am\u02c8prud\u0259nt/", "Definition: lacking wise self-restraint", ""]}
