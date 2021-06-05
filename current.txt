@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T08:47:18.819850+00:00", 2008, "Your mother is", "ladylike", "Pronunciation: /\u02c8le\u026adi\u02ccla\u026ak/", "Definition: befitting a woman of good breeding", ""]}
+{"data": ["2021-06-05T08:57:19.233042+00:00", 2009, "Your mother is", "spirituous", "Pronunciation: /\u02c8sp\u026ar\u026a\u02a7u\u0259s/", "Definition: containing or of the nature of alcohol", "Synonyms: spiritous"]}
