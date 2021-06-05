@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T23:18:37.881705+00:00", 2095, "Your mother is", "constrained", "Pronunciation: /k\u0259n\u02c8stre\u026and/", "Definition: lacking spontaneity; not natural", "Synonyms: forced, strained"]}
+{"data": ["2021-06-05T23:28:37.971328+00:00", 2096, "Your mother is", "67", "Similar to: cardinal", "Definition: being seven more than sixty", "Synonyms: lxvii, sixty-seven"]}
