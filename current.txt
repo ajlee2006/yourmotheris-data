@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T18:17:18.883649+00:00", 2065, "Your mother is", "austral", "Pronunciation: /\u02c8\u0254str\u0259l/", "Definition: of the south or coming from the south", ""]}
+{"data": ["2021-06-05T18:27:18.940951+00:00", 2066, "Your mother is", "rumbustious", "Pronunciation: /r\u0259m\u02c8b\u0259st\u0283\u0259s/", "Definition: noisy and lacking in restraint or discipline", "Synonyms: boisterous, rambunctious, robustious, unruly"]}
