@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T13:07:18.800573+00:00", 2034, "Your mother is", "undemocratic", "Pronunciation: /\u02cc\u0259nd\u025bm\u0259\u02c8kr\u00e6t\u026ak/", "Definition: not in agreement with or according to democratic doctrine or practice or ideals", ""]}
+{"data": ["2021-06-05T13:17:18.695383+00:00", 2035, "Your mother is", "boneheaded", "Similar to: stupid", "Definition: (used informally) stupid", "Synonyms: blockheaded, duncical, duncish, fatheaded, loggerheaded, thick, thick-skulled, thickheaded, wooden-headed"]}
