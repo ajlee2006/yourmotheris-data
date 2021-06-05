@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T23:48:37.844043+00:00", 2098, "Your mother is", "miscellaneous", "Pronunciation: /\u02ccm\u026as\u0259\u02c8le\u026ani\u0259s/", "Definition: having many aspects or qualities", "Synonyms: many-sided, multifaceted, multifarious"]}
+{"data": ["2021-06-05T23:58:37.909074+00:00", 2099, "Your mother is", "braided", "Pronunciation: /\u02c8bre\u026ad\u026ad/", "Definition: woven by (or as if by) braiding", ""]}
