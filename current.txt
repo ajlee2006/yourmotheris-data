@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T21:07:18.826092+00:00", 2082, "Your mother is", "jocund", "Pronunciation: /\u02c8d\u0292\u0251k\u0259nd/", "Definition: full of or showing high-spirited merriment", "Synonyms: gay, jolly, jovial, merry, mirthful"]}
+{"data": ["2021-06-05T21:17:18.809597+00:00", 2083, "Your mother is", "bifocal", "Pronunciation: /ba\u026a\u02c8fo\u028ak\u0259l/", "Definition: having two foci", ""]}
