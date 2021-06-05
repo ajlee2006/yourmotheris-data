@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T17:47:19.403722+00:00", 2062, "Your mother is", "a-one", "Similar to: superior", "Definition: of the highest quality", "Synonyms: ace, crack, first-rate, super, tiptop, top-notch, topnotch, tops"]}
+{"data": ["2021-06-05T17:57:18.883441+00:00", 2063, "Your mother is", "panegyrical", "Similar to: complimentary", "Definition: formally expressing praise", "Synonyms: encomiastic, eulogistic, panegyric"]}
