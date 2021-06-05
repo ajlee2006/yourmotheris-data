@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T17:57:18.883441+00:00", 2063, "Your mother is", "panegyrical", "Similar to: complimentary", "Definition: formally expressing praise", "Synonyms: encomiastic, eulogistic, panegyric"]}
+{"data": ["2021-06-05T18:07:18.865500+00:00", 2064, "Your mother is", "closed-minded", "Similar to: narrow", "Definition: not ready to receive to new ideas", "Synonyms: close-minded"]}
