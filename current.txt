@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T02:07:18.889269+00:00", 1968, "Your mother is", "mechanised", "Similar to: mechanical", "Definition: equipped with machinery", "Synonyms: mechanized"]}
+{"data": ["2021-06-05T02:17:19.029281+00:00", 1969, "Your mother is", "greyish", "Pronunciation: /\u02c8gre\u026a\u026a\u0283/", "Definition: of an achromatic color of any lightness intermediate between the extremes of white and black", "Synonyms: gray, grayish, grey"]}
