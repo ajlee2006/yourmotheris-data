@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T07:27:18.774179+00:00", 2000, "Your mother is", "adnate", "Pronunciation: /\u02c8\u00e6dne\u026at/", "Definition: of unlike parts or organs; growing closely attached", ""]}
+{"data": ["2021-06-05T07:37:19.231402+00:00", 2001, "Your mother is", "ubiquitous", "Pronunciation: /ju\u02c8b\u026akw\u026at\u0259s/", "Definition: being present everywhere at once", "Synonyms: omnipresent"]}
