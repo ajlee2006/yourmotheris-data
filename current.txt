@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T07:47:18.789748+00:00", 2002, "Your mother is", "overaged", "Similar to: old", "Definition: too old to be useful", "Synonyms: over-the-hill, overage, superannuated"]}
+{"data": ["2021-06-05T07:57:18.838370+00:00", 2003, "Your mother is", "writ large", "Similar to: obvious", "Definition: made more obvious or prominent", ""]}
