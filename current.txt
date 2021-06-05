@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T21:17:18.809597+00:00", 2083, "Your mother is", "bifocal", "Pronunciation: /ba\u026a\u02c8fo\u028ak\u0259l/", "Definition: having two foci", ""]}
+{"data": ["2021-06-05T21:27:18.880101+00:00", 2084, "Your mother is", "beta", "Pronunciation: /\u02c8be\u026at\u0259/", "Definition: preliminary or testing stage of a software or hardware product", ""]}
