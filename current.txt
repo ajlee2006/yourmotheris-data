@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T15:17:18.968800+00:00", 2047, "Your mother is", "contemporaneous", "Pronunciation: /k\u0259n\u02cct\u025bmp\u0259\u02c8re\u026ani\u0259s/", "Definition: of the same period", "Synonyms: coetaneous, coeval"]}
+{"data": ["2021-06-05T15:27:19.247071+00:00", 2048, "Your mother is", "alone", "Pronunciation: /\u0259\u02c8lo\u028an/", "Definition: lacking companions or companionship", "Synonyms: lone, lonely, solitary"]}
