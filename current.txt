@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T13:57:18.835784+00:00", 2039, "Your mother is", "adroit", "Pronunciation: /\u0259\u02c8dr\u0254\u026at/", "Definition: quick or skillful or adept in action or thought", ""]}
+{"data": ["2021-06-05T14:07:19.412722+00:00", 2040, "Your mother is", "arcadian", "Pronunciation: /\u0251r\u02c8ke\u026adi\u0259n/", "Definition: (used with regard to idealized country life) idyllically rustic", "Synonyms: bucolic, pastoral"]}
