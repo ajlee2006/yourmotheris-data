@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T16:27:18.888457+00:00", 2054, "Your mother is", "mighty", "Pronunciation: /\u02c8ma\u026ati/", "Definition: having or showing great strength or force or intensity", ""]}
+{"data": ["2021-06-05T16:37:18.968508+00:00", 2055, "Your mother is", "flag-waving", "Pronunciation: /\u02c8fl\u00e6\u0261\u02ccwe\u026av\u026a\u014b/", "Definition: fanatically patriotic", "Synonyms: chauvinistic, jingoistic, nationalistic, superpatriotic, ultranationalistic"]}
