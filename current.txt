@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T22:07:18.826407+00:00", 2088, "Your mother is", "stick-in-the-mud", "Pronunciation: /\u02c8st\u026ak\u026an-\u00f0\u0259-\u02ccm\u0259d/", "Definition: (used pejoratively) out of fashion; old fashioned", "Synonyms: fogyish, moss-grown, mossy, stodgy"]}
+{"data": ["2021-06-05T22:18:38.041675+00:00", 2089, "Your mother is", "nonsectarian", "Pronunciation: /\u02ccn\u0251ns\u025bk\u02c8t\u025cri\u0259n/", "Definition: not restricted to one sect or school or party", "Synonyms: unsectarian"]}
