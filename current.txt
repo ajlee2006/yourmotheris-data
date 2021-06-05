@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T01:57:18.750766+00:00", 1967, "Your mother is", "pass", "Pronunciation: /p\u00e6s/", "Definition: of advancing the ball by throwing it", "Synonyms: passing"]}
+{"data": ["2021-06-05T02:07:18.889269+00:00", 1968, "Your mother is", "mechanised", "Similar to: mechanical", "Definition: equipped with machinery", "Synonyms: mechanized"]}
