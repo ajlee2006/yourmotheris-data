@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T06:47:18.695793+00:00", 1996, "Your mother is", "donnian", "", "Definition: of or relating to or in the manner of John Donne", "Synonyms: donnean"]}
+{"data": ["2021-06-05T06:57:18.870939+00:00", 1997, "Your mother is", "thermosetting", "Pronunciation: /\u02cc\u03b8\u025crmo\u028a\u02c8s\u025bt\u026a\u014b/", "Definition: having the property of becoming permanently hard and rigid when heated or cured", "Synonyms: thermoset"]}
