@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T11:57:18.663379+00:00", 2027, "Your mother is", "hot-blooded", "Pronunciation: /\u02c8h\u0251t\u02c8bl\u0259d\u026ad/", "Definition: prone to emotion", ""]}
+{"data": ["2021-06-05T12:07:18.803814+00:00", 2028, "Your mother is", "professed", "Pronunciation: /pr\u0259\u02c8f\u025bst/", "Definition: openly declared as such", "Synonyms: avowed"]}
