@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T05:07:18.776583+00:00", 1986, "Your mother is", "run-of-the-mill", "Pronunciation: /\u02c8r\u0259n\u0259v\u00f0\u0259\u02c8m\u026al/", "Definition: not special in any way; lacking distinction", "Synonyms: mine run, run-of-the-mine, undistinguished, unexceptional"]}
+{"data": ["2021-06-05T05:17:18.870482+00:00", 1987, "Your mother is", "large-capitalization", "", "Definition: of stocks of companies with a market capitalization of five billion dollars or more", "Synonyms: large-cap, large-capitalisation"]}
