@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T09:37:18.754073+00:00", 2013, "Your mother is", "old-world", "Pronunciation: /o\u028ald-w\u025crld/", "Definition: characteristic of former times especially in Europe", ""]}
+{"data": ["2021-06-05T09:47:19.494759+00:00", 2014, "Your mother is", "rapacious", "Pronunciation: /r\u0259\u02c8pe\u026a\u0283\u0259s/", "Definition: devouring or craving food in great quantities", "Synonyms: edacious, esurient, ravening, ravenous, voracious, wolfish"]}
