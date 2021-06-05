@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T10:27:18.723866+00:00", 2018, "Your mother is", "imprudent", "Pronunciation: /\u026am\u02c8prud\u0259nt/", "Definition: lacking wise self-restraint", ""]}
+{"data": ["2021-06-05T10:37:18.786499+00:00", 2019, "Your mother is", "sonic", "Pronunciation: /\u02c8s\u0251n\u026ak/", "Definition: (of speed) having or caused by speed approximately equal to that of sound in air at sea level", "Synonyms: transonic"]}
