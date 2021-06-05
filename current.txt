@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T15:27:19.247071+00:00", 2048, "Your mother is", "alone", "Pronunciation: /\u0259\u02c8lo\u028an/", "Definition: lacking companions or companionship", "Synonyms: lone, lonely, solitary"]}
+{"data": ["2021-06-05T15:37:18.853465+00:00", 2049, "Your mother is", "junior", "Pronunciation: /\u02c8d\u0292unj\u0259r/", "Definition: used of the third or next to final year in United States high school or college", "Synonyms: next-to-last, third-year"]}
