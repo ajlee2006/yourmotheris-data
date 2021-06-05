@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T16:07:18.834910+00:00", 2052, "Your mother is", "millenarian", "Pronunciation: /\u02ccm\u026al\u0259\u02c8n\u025cri\u0259n/", "Definition: relating to or believing in the millennium of peace and happiness", "Synonyms: chiliastic"]}
+{"data": ["2021-06-05T16:17:18.808608+00:00", 2053, "Your mother is", "catching", "Pronunciation: /\u02c8k\u00e6\u02a7\u026a\u014b/", "Definition: (of disease) capable of being transmitted by infection", "Synonyms: communicable, contagious, contractable, transmissible, transmittable"]}
