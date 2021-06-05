@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T21:27:18.880101+00:00", 2084, "Your mother is", "beta", "Pronunciation: /\u02c8be\u026at\u0259/", "Definition: preliminary or testing stage of a software or hardware product", ""]}
+{"data": ["2021-06-05T21:37:18.945294+00:00", 2085, "Your mother is", "unsuasible", "Similar to: insusceptible", "Definition: not susceptible to persuasion", "Synonyms: unpersuadable"]}
