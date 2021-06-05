@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T12:07:18.803814+00:00", 2028, "Your mother is", "professed", "Pronunciation: /pr\u0259\u02c8f\u025bst/", "Definition: openly declared as such", "Synonyms: avowed"]}
+{"data": ["2021-06-05T12:17:18.796490+00:00", 2029, "Your mother is", "assertable", "Similar to: possible", "Definition: capable of being affirmed or asserted", "Synonyms: affirmable"]}
