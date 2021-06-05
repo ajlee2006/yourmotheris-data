@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T02:47:18.793049+00:00", 1972, "Your mother is", "vertiginous", "Pronunciation: /v\u0259r\u02c8t\u026ad\u0292\u0259n\u0259s/", "Definition: having or causing a whirling sensation; liable to falling", "Synonyms: dizzy, giddy, woozy"]}
+{"data": ["2021-06-05T02:57:19.037257+00:00", 1973, "Your mother is", "haemophilic", "Pronunciation: /\u02cchim\u0259\u02c8f\u026al\u026ak/", "Definition: relating to or having hemophilia", "Synonyms: hemophilic"]}
