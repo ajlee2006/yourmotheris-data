@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T07:07:18.786918+00:00", 1998, "Your mother is", "judicable", "Pronunciation: /\u02c8d\u0292ud\u0259k\u0259b\u0259l/", "Definition: capable of being judged or decided", ""]}
+{"data": ["2021-06-05T07:17:18.803431+00:00", 1999, "Your mother is", "doddery", "Pronunciation: /\u02c8d\u0251d\u0259ri/", "Definition: mentally or physically infirm with age", "Synonyms: doddering, gaga, senile"]}
