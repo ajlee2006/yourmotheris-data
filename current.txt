@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T14:47:18.826895+00:00", 2044, "Your mother is", "gerundial", "Pronunciation: /d\u0292\u0259\u02c8r\u0259ndi\u0259l/", "Definition: relating to or like a gerund", ""]}
+{"data": ["2021-06-05T14:57:18.898394+00:00", 2045, "Your mother is", "spic-and-span", "Similar to: new", "Definition: conspicuously new", "Synonyms: bran-new, brand-new, spick-and-span"]}
