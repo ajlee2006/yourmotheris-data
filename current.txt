@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T12:47:18.790398+00:00", 2032, "Your mother is", "rascally", "Pronunciation: /\u02c8r\u00e6sk\u0259li/", "Definition: lacking principles or scruples", "Synonyms: blackguardly, roguish, scoundrelly"]}
+{"data": ["2021-06-05T12:57:18.786193+00:00", 2033, "Your mother is", "unreplaceable", "", "Definition: impossible to replace", "Synonyms: irreplaceable"]}
