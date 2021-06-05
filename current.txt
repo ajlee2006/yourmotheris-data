@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T04:27:18.680949+00:00", 1982, "Your mother is", "moorish", "Pronunciation: /\u02c8m\u028ar\u026a\u0283/", "Definition: relating to or characteristic of the Moors", "Synonyms: moresque"]}
+{"data": ["2021-06-05T04:37:18.637109+00:00", 1983, "Your mother is", "predestined", "Pronunciation: /\u02ccpri\u02c8d\u025bst\u028cnd/", "Definition: established or prearranged unalterably", "Synonyms: foreordained, predestinate"]}
