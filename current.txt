@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T03:07:19.018655+00:00", 1974, "Your mother is", "high-pitched", "Pronunciation: /\u02c8ha\u026a\u02c8p\u026at\u02a7t/", "Definition: used of sounds and voices; high in pitch or frequency", "Synonyms: high"]}
+{"data": ["2021-06-05T03:17:18.808380+00:00", 1975, "Your mother is", "court-ordered", "Similar to: legal", "Definition: ordered by a court of law", ""]}
