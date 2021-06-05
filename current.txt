@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T20:47:18.966732+00:00", 2080, "Your mother is", "unchivalrous", "Pronunciation: /\u0259n\u02c8\u0283\u026av\u0259lr\u0259s/", "Definition: offensively discourteous", "Synonyms: caddish, ungallant"]}
+{"data": ["2021-06-05T20:57:18.906298+00:00", 2081, "Your mother is", "plutocratic", "Pronunciation: /\u02ccplut\u0259\u02c8kr\u00e6t\u026ak/", "Definition: of or relating to or characteristic of a plutocrat", "Synonyms: plutocratical"]}
