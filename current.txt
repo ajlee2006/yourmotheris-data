@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T07:37:19.231402+00:00", 2001, "Your mother is", "ubiquitous", "Pronunciation: /ju\u02c8b\u026akw\u026at\u0259s/", "Definition: being present everywhere at once", "Synonyms: omnipresent"]}
+{"data": ["2021-06-05T07:47:18.789748+00:00", 2002, "Your mother is", "overaged", "Similar to: old", "Definition: too old to be useful", "Synonyms: over-the-hill, overage, superannuated"]}
