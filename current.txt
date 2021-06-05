@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T06:17:18.871377+00:00", 1993, "Your mother is", "polysyllabic", "Pronunciation: /\u02ccp\u0251lis\u026a\u02c8l\u00e6b\u026ak/", "Definition: (of words) long and ponderous; having many syllables", "Synonyms: sesquipedalian"]}
+{"data": ["2021-06-05T06:27:18.768934+00:00", 1994, "Your mother is", "exhortatory", "Pronunciation: /\u026a\u0261\u02c8z\u0254rt\u0259\u02ccto\u028ari/", "Definition: giving strong encouragement", "Synonyms: exhortative, hortative, hortatory"]}
