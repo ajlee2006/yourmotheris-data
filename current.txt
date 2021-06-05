@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T09:17:18.748995+00:00", 2011, "Your mother is", "undeserved", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8z\u025crvd/", "Definition: not deserved or earned", ""]}
+{"data": ["2021-06-05T09:27:18.819972+00:00", 2012, "Your mother is", "blanketed", "Pronunciation: /\u02c8bl\u00e6\u014bk\u028ct\u026ad/", "Definition: covered with (or as if with) a blanket", ""]}
