@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T15:07:18.765011+00:00", 2046, "Your mother is", "vagal", "Pronunciation: /\u02c8ve\u026a\u0261\u0259l/", "Definition: of or relating to the vagus nerve", "Synonyms: pneumogastric"]}
+{"data": ["2021-06-05T15:17:18.968800+00:00", 2047, "Your mother is", "contemporaneous", "Pronunciation: /k\u0259n\u02cct\u025bmp\u0259\u02c8re\u026ani\u0259s/", "Definition: of the same period", "Synonyms: coetaneous, coeval"]}
