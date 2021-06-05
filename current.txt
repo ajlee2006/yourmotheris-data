@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T22:48:37.872923+00:00", 2092, "Your mother is", "fifty-five", "Pronunciation: /\u02c8f\u026afti-fa\u026av/", "Definition: being five more than fifty", "Synonyms: 55, lv"]}
+{"data": ["2021-06-05T22:58:38.298521+00:00", 2093, "Your mother is", "dud", "Pronunciation: /d\u0259d/", "Definition: failing to detonate; especially not charged with an active explosive", ""]}
