@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T22:18:38.041675+00:00", 2089, "Your mother is", "nonsectarian", "Pronunciation: /\u02ccn\u0251ns\u025bk\u02c8t\u025cri\u0259n/", "Definition: not restricted to one sect or school or party", "Synonyms: unsectarian"]}
+{"data": ["2021-06-05T22:28:38.172773+00:00", 2090, "Your mother is", "activist", "Pronunciation: /\u02c8\u00e6kt\u0259v\u026ast/", "Definition: advocating or engaged in activism", "Synonyms: activistic"]}
