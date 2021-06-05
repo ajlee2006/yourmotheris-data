@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T14:07:19.412722+00:00", 2040, "Your mother is", "arcadian", "Pronunciation: /\u0251r\u02c8ke\u026adi\u0259n/", "Definition: (used with regard to idealized country life) idyllically rustic", "Synonyms: bucolic, pastoral"]}
+{"data": ["2021-06-05T14:17:18.988081+00:00", 2041, "Your mother is", "weensy", "Similar to: little", "Definition: (used informally) very small", "Synonyms: bittie, bitty, itsy-bitsy, itty-bitty, teensy, teensy-weensy, teentsy, teeny, teeny-weeny, wee, weeny"]}
