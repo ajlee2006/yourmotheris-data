@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T16:47:18.881420+00:00", 2056, "Your mother is", "lordotic", "Pronunciation: /l\u0254r\u02c8d\u0251t\u026ak/", "Definition: having abnormal sagging of the spine (especially in horses)", "Synonyms: dipped, swayback, swaybacked"]}
+{"data": ["2021-06-05T16:57:18.868037+00:00", 2057, "Your mother is", "anachronic", "Pronunciation: /\u02cc\u00e6n\u0259\u02c8kr\u0251n\u026ak/", "Definition: chronologically misplaced", "Synonyms: anachronistic, anachronous"]}
