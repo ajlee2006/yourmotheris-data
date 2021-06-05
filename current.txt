@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T13:37:18.786980+00:00", 2037, "Your mother is", "housewifely", "Pronunciation: /\u02c8ha\u028as\u02ccwa\u026afli/", "Definition: related or suited to a housewife", ""]}
+{"data": ["2021-06-05T13:47:18.893116+00:00", 2038, "Your mother is", "shot", "Pronunciation: /\u0283\u0251t/", "Definition: varying in color when seen in different lights or from different angles", "Synonyms: changeable, chatoyant, iridescent"]}
