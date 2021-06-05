@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T13:47:18.893116+00:00", 2038, "Your mother is", "shot", "Pronunciation: /\u0283\u0251t/", "Definition: varying in color when seen in different lights or from different angles", "Synonyms: changeable, chatoyant, iridescent"]}
+{"data": ["2021-06-05T13:57:18.835784+00:00", 2039, "Your mother is", "adroit", "Pronunciation: /\u0259\u02c8dr\u0254\u026at/", "Definition: quick or skillful or adept in action or thought", ""]}
