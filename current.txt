@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T00:57:18.754284+00:00", 1961, "Your mother is", "rushy", "Pronunciation: /\u02c8r\u0259\u0283i/", "Definition: abounding in rushes", ""]}
+{"data": ["2021-06-05T01:07:18.808668+00:00", 1962, "Your mother is", "unqualified", "Pronunciation: /\u0259n\u02c8kw\u0251l\u026a\u02ccfa\u026ad/", "Definition: legally not qualified or sufficient", "Synonyms: incompetent"]}
