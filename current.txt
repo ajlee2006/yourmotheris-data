@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T20:27:19.803832+00:00", 2078, "Your mother is", "noninheritable", "Similar to: acquired", "Definition: not inheritable", "Synonyms: nonheritable"]}
+{"data": ["2021-06-05T20:37:18.976754+00:00", 2079, "Your mother is", "presbyopic", "Similar to: eagle-eyed", "Definition: able to see distant objects clearly", "Synonyms: farsighted"]}
