@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T01:07:18.808668+00:00", 1962, "Your mother is", "unqualified", "Pronunciation: /\u0259n\u02c8kw\u0251l\u026a\u02ccfa\u026ad/", "Definition: legally not qualified or sufficient", "Synonyms: incompetent"]}
+{"data": ["2021-06-05T01:17:18.846649+00:00", 1963, "Your mother is", "thickspread", "Similar to: covered", "Definition: covered thickly", ""]}
