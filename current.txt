@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T12:37:18.664467+00:00", 2031, "Your mother is", "coltish", "Pronunciation: /\u02c8ko\u028alt\u026a\u0283/", "Definition: given to merry frolicking", "Synonyms: frolicky, frolicsome, rollicking, sportive"]}
+{"data": ["2021-06-05T12:47:18.790398+00:00", 2032, "Your mother is", "rascally", "Pronunciation: /\u02c8r\u00e6sk\u0259li/", "Definition: lacking principles or scruples", "Synonyms: blackguardly, roguish, scoundrelly"]}
