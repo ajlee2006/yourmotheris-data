@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T18:57:18.856444+00:00", 2069, "Your mother is", "tempest-tossed", "Pronunciation: /\u02c8t\u025bmp\u026ast\u02c8t\u0254st/", "Definition: pounded or hit repeatedly by storms or adversities", "Synonyms: buffeted, storm-tossed, tempest-swept, tempest-tost"]}
+{"data": ["2021-06-05T19:07:18.925610+00:00", 2070, "Your mother is", "silk-lined", "Similar to: lined", "Definition: having a silk lining", ""]}
