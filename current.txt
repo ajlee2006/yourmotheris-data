@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T07:17:18.803431+00:00", 1999, "Your mother is", "doddery", "Pronunciation: /\u02c8d\u0251d\u0259ri/", "Definition: mentally or physically infirm with age", "Synonyms: doddering, gaga, senile"]}
+{"data": ["2021-06-05T07:27:18.774179+00:00", 2000, "Your mother is", "adnate", "Pronunciation: /\u02c8\u00e6dne\u026at/", "Definition: of unlike parts or organs; growing closely attached", ""]}
