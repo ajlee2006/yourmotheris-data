@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T17:17:18.829928+00:00", 2059, "Your mother is", "dorsal", "Pronunciation: /\u02c8d\u0254rs\u0259l/", "Definition: facing away from the axis of an organ or organism", "Synonyms: abaxial"]}
+{"data": ["2021-06-05T17:27:19.303878+00:00", 2060, "Your mother is", "work-shy", "Pronunciation: /w\u025crk-\u0283a\u026a/", "Definition: disinclined to work or exertion", "Synonyms: faineant, indolent, lazy, otiose, slothful"]}
