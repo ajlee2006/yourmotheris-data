@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T22:58:38.298521+00:00", 2093, "Your mother is", "dud", "Pronunciation: /d\u0259d/", "Definition: failing to detonate; especially not charged with an active explosive", ""]}
+{"data": ["2021-06-05T23:08:38.035880+00:00", 2094, "Your mother is", "indo-aryan", "Pronunciation: /\u02c8\u026ando\u028a-\u02c8\u025cri\u0259n/", "Definition: of or relating to the former Indo-European people", "Synonyms: aryan, indo-european"]}
