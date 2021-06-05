@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T20:07:18.927130+00:00", 2076, "Your mother is", "slaphappy", "Similar to: irresponsible", "Definition: cheerfully irresponsible", "Synonyms: carefree, devil-may-care, freewheeling, happy-go-lucky, harum-scarum"]}
+{"data": ["2021-06-05T20:17:18.886369+00:00", 2077, "Your mother is", "fatless", "Similar to: calorie-free", "Definition: without fat or fat solids", "Synonyms: fat-free, nonfat"]}
