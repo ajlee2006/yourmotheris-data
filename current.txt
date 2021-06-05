@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T21:47:18.927464+00:00", 2086, "Your mother is", "affable", "Pronunciation: /\u02c8\u00e6f\u0259b\u0259l/", "Definition: diffusing warmth and friendliness", "Synonyms: amiable, cordial, genial"]}
+{"data": ["2021-06-05T21:57:18.833303+00:00", 2087, "Your mother is", "pallid", "Pronunciation: /\u02c8p\u00e6l\u026ad/", "Definition: abnormally deficient in color as suggesting physical or emotional distress", "Synonyms: pale, wan"]}
