@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T00:27:18.777489+00:00", 1958, "Your mother is", "remorseful", "Pronunciation: /r\u026a\u02c8m\u0254rsf\u0259l/", "Definition: feeling or expressing pain or sorrow for sins or offenses", "Synonyms: contrite, rueful, ruthful"]}
+{"data": ["2021-06-05T00:37:19.018181+00:00", 1959, "Your mother is", "scraggly", "Pronunciation: /\u02c8skr\u00e6gli/", "Definition: being very thin", "Synonyms: boney, bony, scraggy, scrawny, skinny, underweight, weedy"]}
