@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T09:27:18.819972+00:00", 2012, "Your mother is", "blanketed", "Pronunciation: /\u02c8bl\u00e6\u014bk\u028ct\u026ad/", "Definition: covered with (or as if with) a blanket", ""]}
+{"data": ["2021-06-05T09:37:18.754073+00:00", 2013, "Your mother is", "old-world", "Pronunciation: /o\u028ald-w\u025crld/", "Definition: characteristic of former times especially in Europe", ""]}
