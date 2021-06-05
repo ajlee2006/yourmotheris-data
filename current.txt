@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T05:27:18.777682+00:00", 1988, "Your mother is", "nonkosher", "Similar to: impure", "Definition: not conforming to dietary laws", "Synonyms: terefah, tref"]}
+{"data": ["2021-06-05T05:37:18.777613+00:00", 1989, "Your mother is", "connotative of", "Similar to: connotative", "Definition: of or relating to a connotation", "Synonyms: connotational"]}
