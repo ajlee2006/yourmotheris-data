@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T01:27:18.939715+00:00", 1964, "Your mother is", "o.k.", "Similar to: satisfactory", "Definition: being satisfactory or in satisfactory condition", "Synonyms: all right, cool, fine, hunky-dory, ok, okay"]}
+{"data": ["2021-06-05T01:37:19.384372+00:00", 1965, "Your mother is", "viricidal", "", "Definition: tending to destroy viruses", "Synonyms: virucidal"]}
