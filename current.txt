@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T05:08:37.853921+00:00", 2130, "Your mother is", "uniformed", "Pronunciation: /\u02c8jun\u0259\u02ccf\u0254rmd/", "Definition: dressed in a uniform", ""]}
+{"data": ["2021-06-06T05:18:37.812197+00:00", 2131, "Your mother is", "germane", "Pronunciation: /d\u0292\u0259r\u02c8me\u026an/", "Definition: relevant and appropriate", ""]}
