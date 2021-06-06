@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T00:38:38.024051+00:00", 2103, "Your mother is", "corny", "Pronunciation: /\u02c8k\u0254rni/", "Definition: dull and tiresome but with pretensions of significance or originality", "Synonyms: bromidic, platitudinal, platitudinous"]}
+{"data": ["2021-06-06T00:48:38.012625+00:00", 2104, "Your mother is", "onymous", "Pronunciation: /\u02c8\u0251n\u026am\u0259s/", "Definition: bearing a name", ""]}
