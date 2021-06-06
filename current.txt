@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T02:38:38.102384+00:00", 2115, "Your mother is", "auric", "Pronunciation: /\u02c8\u0254r\u026ak/", "Definition: of or relating to or containing or derived from gold", "Synonyms: aurous"]}
+{"data": ["2021-06-06T02:48:37.754731+00:00", 2116, "Your mother is", "unsanctioned", "Pronunciation: /\u0259n\u02c8s\u00e6\u014bk\u0283\u0259nd/", "Definition: without explicit official permission", ""]}
