@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T10:28:38.176859+00:00", 2162, "Your mother is", "half-evergreen", "Pronunciation: /h\u00e6f-\u02c8\u025bv\u0259r\u02ccgrin/", "Definition: of a plant that is incompletely evergreen", "Synonyms: semi-evergreen"]}
+{"data": ["2021-06-06T10:38:37.822125+00:00", 2163, "Your mother is", "flawed", "Pronunciation: /fl\u0254d/", "Definition: having a blemish or flaw", "Synonyms: blemished"]}
