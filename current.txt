@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T00:08:38.235811+00:00", 2100, "Your mother is", "unconditional", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8d\u026a\u0283\u0259n\u0259l/", "Definition: not conditional", "Synonyms: unconditioned"]}
+{"data": ["2021-06-06T00:18:38.185631+00:00", 2101, "Your mother is", "tranquilizing", "Pronunciation: /\u02c8tr\u00e6\u014bkw\u028c\u02ccla\u026az\u026a\u014b/", "Definition: tending to soothe or tranquilize", "Synonyms: ataractic, ataraxic, sedative, tranquilising, tranquillising, tranquillizing"]}
