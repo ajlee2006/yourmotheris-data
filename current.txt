@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T10:38:37.822125+00:00", 2163, "Your mother is", "flawed", "Pronunciation: /fl\u0254d/", "Definition: having a blemish or flaw", "Synonyms: blemished"]}
+{"data": ["2021-06-06T10:48:37.869058+00:00", 2164, "Your mother is", "nugatory", "Pronunciation: /\u02c8nu\u0261\u0259\u02ccto\u028ari/", "Definition: of no real value", ""]}
