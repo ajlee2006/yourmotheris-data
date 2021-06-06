@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T21:48:38.173902+00:00", 2230, "Your mother is", "erosive", "Pronunciation: /\u026a\u02c8ro\u028as\u026av/", "Definition: of a substance, especially a strong acid; capable of destroying or eating away by chemical action", "Synonyms: caustic, corrosive, mordant, vitriolic"]}
+{"data": ["2021-06-06T21:58:37.773506+00:00", 2231, "Your mother is", "200th", "Similar to: ordinal", "Definition: the ordinal number of two hundred in counting order", "Synonyms: two-hundredth"]}
