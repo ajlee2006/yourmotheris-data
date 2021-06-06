@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T12:18:37.816299+00:00", 2173, "Your mother is", "incomprehensible", "Pronunciation: /\u02cc\u026ank\u0251mpr\u026a\u02c8h\u025bns\u0259b\u0259l/", "Definition: difficult to understand", "Synonyms: uncomprehensible"]}
+{"data": ["2021-06-06T12:28:38.026448+00:00", 2174, "Your mother is", "streptococcic", "Pronunciation: /\u02ccstr\u025bpt\u0259\u02c8k\u0251ks\u026ak/", "Definition: of or relating to or caused by streptococci", "Synonyms: strep, streptococcal"]}
