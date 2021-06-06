@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T06:38:37.836341+00:00", 2139, "Your mother is", "bimonthly", "Pronunciation: /ba\u026a\u02c8m\u0259n\u03b8li/", "Definition: occurring every two months", "Synonyms: bimestrial"]}
+{"data": ["2021-06-06T06:48:37.825681+00:00", 2140, "Your mother is", "agrobiological", "", "Definition: of or pertaining to agrobiology", "Synonyms: agrobiologic"]}
