@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T21:08:37.983950+00:00", 2226, "Your mother is", "105", "Similar to: cardinal", "Definition: being five more than one hundred", "Synonyms: cv, one hundred five"]}
+{"data": ["2021-06-06T21:18:37.793742+00:00", 2227, "Your mother is", "clipped", "Pronunciation: /kl\u026apt/", "Definition: cut or trimmed by clipping", ""]}
