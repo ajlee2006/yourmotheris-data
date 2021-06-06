@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T19:08:37.885454+00:00", 2214, "Your mother is", "wide-ranging", "Pronunciation: /\u02c8wa\u026ad-\u02c8re\u026and\u0292\u026a\u014b/", "Definition: widely different", "Synonyms: varied"]}
+{"data": ["2021-06-06T19:18:37.990062+00:00", 2215, "Your mother is", "verdant", "Pronunciation: /\u02c8v\u025crd\ufffdnt/", "Definition: characterized by abundance of verdure", ""]}
