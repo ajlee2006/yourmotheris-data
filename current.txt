@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T03:08:38.025095+00:00", 2118, "Your mother is", "practicable", "Pronunciation: /\u02c8pr\u00e6kt\u0259k\u0259b\u0259l/", "Definition: usable for a specific purpose", "Synonyms: operable"]}
+{"data": ["2021-06-06T03:18:37.891399+00:00", 2119, "Your mother is", "mournful", "Pronunciation: /\u02c8mo\u028arnf\u028al/", "Definition: filled with or evoking sadness", "Synonyms: doleful"]}
