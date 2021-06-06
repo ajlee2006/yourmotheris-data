@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T02:18:38.052147+00:00", 2113, "Your mother is", "stewed", "Pronunciation: /stud/", "Definition: cooked in hot water", "Synonyms: boiled, poached"]}
+{"data": ["2021-06-06T02:28:37.871595+00:00", 2114, "Your mother is", "unlettered", "Pronunciation: /\u0259n\u02c8l\u025bt\u0259rd/", "Definition: uneducated in general; lacking knowledge or sophistication", "Synonyms: ignorant, nescient, unlearned"]}
