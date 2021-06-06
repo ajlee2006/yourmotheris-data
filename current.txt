@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T01:48:37.856922+00:00", 2110, "Your mother is", "pharmaceutical", "Pronunciation: /\u02ccf\u0251rm\u0259\u02c8sut\u026ak\u0259l/", "Definition: of or relating to pharmacy or pharmacists", "Synonyms: pharmaceutic"]}
+{"data": ["2021-06-06T01:58:37.824906+00:00", 2111, "Your mother is", "entrepreneurial", "Pronunciation: /\u02cc\u0251ntr\u028cpr\u028c\u02c8n\u025dri\u028cl/", "Definition: willing to take risks in order to make a profit", ""]}
