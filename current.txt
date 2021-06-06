@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T19:48:37.908260+00:00", 2218, "Your mother is", "scaly-tailed", "Similar to: caudate", "Definition: having a scaly tail", ""]}
+{"data": ["2021-06-06T19:58:37.926784+00:00", 2219, "Your mother is", "red-brown", "Pronunciation: /r\u025bd-bra\u028an/", "Definition: of brown tinged with red", "Synonyms: mahogany-red, reddish-brown"]}
