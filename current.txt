@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T12:08:37.782611+00:00", 2172, "Your mother is", "waiting", "Pronunciation: /\u02c8we\u026ati\u014b/", "Definition: being and remaining ready and available for use", "Synonyms: ready and waiting"]}
+{"data": ["2021-06-06T12:18:37.816299+00:00", 2173, "Your mother is", "incomprehensible", "Pronunciation: /\u02cc\u026ank\u0251mpr\u026a\u02c8h\u025bns\u0259b\u0259l/", "Definition: difficult to understand", "Synonyms: uncomprehensible"]}
