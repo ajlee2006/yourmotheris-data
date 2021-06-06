@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T18:38:37.787866+00:00", 2211, "Your mother is", "maintainable", "Similar to: rectifiable", "Definition: capable of being maintained", ""]}
+{"data": ["2021-06-06T18:48:37.788001+00:00", 2212, "Your mother is", "projectile", "Pronunciation: /pr\u0259\u02c8d\u0292\u025bkt\u026al/", "Definition: impelling or impelled forward", ""]}
