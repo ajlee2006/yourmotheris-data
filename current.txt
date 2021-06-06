@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T07:08:38.010364+00:00", 2142, "Your mother is", "intransigent", "Pronunciation: /\u026an\u02c8tr\u00e6ns\u026ad\u0292\u0259nt/", "Definition: impervious to pleas, persuasion, requests, reason", "Synonyms: adamant, adamantine, inexorable"]}
+{"data": ["2021-06-06T07:18:37.831980+00:00", 2143, "Your mother is", "vulgar", "Pronunciation: /\u02c8v\u0259lg\u0259r/", "Definition: being or characteristic of or appropriate to everyday language", "Synonyms: common, vernacular"]}
