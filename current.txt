@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T08:58:37.937751+00:00", 2153, "Your mother is", "calceiform", "Pronunciation: /\u02c8k\u00e6lsi\u0259\u02ccf\u0254rm/", "Definition: of slipper-shaped blossoms", "Synonyms: calceolate"]}
+{"data": ["2021-06-06T09:08:37.778658+00:00", 2154, "Your mother is", "reversed", "Pronunciation: /r\u026a\u02c8v\u025drst/", "Definition: turned about in order or relation", "Synonyms: converse, transposed"]}
