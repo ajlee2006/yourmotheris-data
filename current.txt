@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T17:58:37.875128+00:00", 2207, "Your mother is", "malodorous", "Pronunciation: /m\u00e6l\u02c8o\u028ad\u0259r\u0259s/", "Definition: having an unpleasant smell", "Synonyms: ill-smelling, malodourous, stinky, unpleasant-smelling"]}
+{"data": ["2021-06-06T18:08:37.961074+00:00", 2208, "Your mother is", "unpleasing", "Pronunciation: /\u0259n\u02c8plizi\u014b/", "Definition: unpleasant or disagreeable to the senses", ""]}
