@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T18:48:37.788001+00:00", 2212, "Your mother is", "projectile", "Pronunciation: /pr\u0259\u02c8d\u0292\u025bkt\u026al/", "Definition: impelling or impelled forward", ""]}
+{"data": ["2021-06-06T18:58:37.849919+00:00", 2213, "Your mother is", "stannic", "Pronunciation: /\u02c8st\u00e6n\u026ak/", "Definition: of or relating to or containing tin", "Synonyms: stannous"]}
