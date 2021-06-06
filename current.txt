@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T11:08:37.754037+00:00", 2166, "Your mother is", "diacritic", "Pronunciation: /\u02ccda\u026a\u0259\u02c8kr\u026at\u026ak/", "Definition: capable of distinguishing", "Synonyms: diacritical"]}
+{"data": ["2021-06-06T11:18:37.923167+00:00", 2167, "Your mother is", "low-set", "Pronunciation: /lo\u028a-s\u025bt/", "Definition: lower than average", "Synonyms: lowset"]}
