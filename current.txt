@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T01:38:37.872409+00:00", 2109, "Your mother is", "ferrous", "Pronunciation: /\u02c8f\u025br\u0259s/", "Definition: of or relating to or containing iron", "Synonyms: ferric"]}
+{"data": ["2021-06-06T01:48:37.856922+00:00", 2110, "Your mother is", "pharmaceutical", "Pronunciation: /\u02ccf\u0251rm\u0259\u02c8sut\u026ak\u0259l/", "Definition: of or relating to pharmacy or pharmacists", "Synonyms: pharmaceutic"]}
