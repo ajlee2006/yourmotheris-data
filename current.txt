@@ -1,1 +1,1 @@
-{"data": ["2021-06-05T23:58:37.909074+00:00", 2099, "Your mother is", "braided", "Pronunciation: /\u02c8bre\u026ad\u026ad/", "Definition: woven by (or as if by) braiding", ""]}
+{"data": ["2021-06-06T00:08:38.235811+00:00", 2100, "Your mother is", "unconditional", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8d\u026a\u0283\u0259n\u0259l/", "Definition: not conditional", "Synonyms: unconditioned"]}
