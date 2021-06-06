@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T11:48:37.845194+00:00", 2170, "Your mother is", "unobliging", "Pronunciation: /\u02cc\u0259n\u0259\u02c8bla\u026ad\u0292i\u014b/", "Definition: not accommodating", "Synonyms: unaccommodating"]}
+{"data": ["2021-06-06T11:58:37.748480+00:00", 2171, "Your mother is", "obvious", "Pronunciation: /\u02c8\u0251bvi\u0259s/", "Definition: easily perceived by the senses or grasped by the mind", ""]}
