@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T00:58:37.858698+00:00", 2105, "Your mother is", "appalling", "Pronunciation: /\u0259\u02c8p\u0254l\u026a\u014b/", "Definition: causing consternation", "Synonyms: dismaying"]}
+{"data": ["2021-06-06T01:08:37.912359+00:00", 2106, "Your mother is", "foreboding", "Pronunciation: /fo\u028ar\u02c8bo\u028ad\u026a\u014b/", "Definition: ominously prophetic", "Synonyms: fateful, portentous"]}
