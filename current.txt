@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T15:08:37.902049+00:00", 2190, "Your mother is", "shamanist", "", "Definition: of or relating to shamanism", "Synonyms: shamanistic"]}
+{"data": ["2021-06-06T15:18:37.844363+00:00", 2191, "Your mother is", "statutory", "Pronunciation: /\u02c8st\u00e6\u02a7\u028a\u02ccto\u028ari/", "Definition: prescribed or authorized by or punishable under a statute", ""]}
