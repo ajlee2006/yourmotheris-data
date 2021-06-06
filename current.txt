@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T09:28:37.965074+00:00", 2156, "Your mother is", "poriferous", "Pronunciation: /po\u028a\u02c8r\u026af\u0259r\u0259s/", "Definition: full of pores or vessels or holes", "Synonyms: porous"]}
+{"data": ["2021-06-06T09:38:37.932511+00:00", 2157, "Your mother is", "minuscular", "Pronunciation: /m\u026a\u02c8n\u0259skj\u028al\u0259r/", "Definition: of or relating to a small cursive script developed from uncial; 7th to 9th centuries", "Synonyms: minuscule"]}
