@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T03:48:37.999270+00:00", 2122, "Your mother is", "grumbling", "Pronunciation: /\u02c8\u0261r\u028cmb\u028cl\u026a\u014b/", "Definition: continuous full and low-pitched throbbing sound", "Synonyms: rumbling"]}
+{"data": ["2021-06-06T03:58:37.830499+00:00", 2123, "Your mother is", "apportioned", "Pronunciation: /\u028c\u02c8p\u0254r\u0283\u028cnd/", "Definition: given out in portions", "Synonyms: dealt out, doled out, meted out, parceled out"]}
