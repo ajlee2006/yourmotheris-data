@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T08:18:37.957838+00:00", 2149, "Your mother is", "benthal", "", "Definition: of or relating to or happening on the bottom under a body of water", "Synonyms: benthic, benthonic"]}
+{"data": ["2021-06-06T08:28:37.751989+00:00", 2150, "Your mother is", "unmediated", "Similar to: immediate", "Definition: having no intervening persons, agents, conditions", "Synonyms: direct"]}
