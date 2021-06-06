@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T11:38:37.753664+00:00", 2169, "Your mother is", "vested", "Pronunciation: /\u02c8v\u025bst\u026ad/", "Definition: fixed and absolute and without contingency", ""]}
+{"data": ["2021-06-06T11:48:37.845194+00:00", 2170, "Your mother is", "unobliging", "Pronunciation: /\u02cc\u0259n\u0259\u02c8bla\u026ad\u0292i\u014b/", "Definition: not accommodating", "Synonyms: unaccommodating"]}
