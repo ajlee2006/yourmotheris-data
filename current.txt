@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T20:48:37.812987+00:00", 2224, "Your mother is", "aryan", "Pronunciation: /\u02c8\u025cri\u0259n/", "Definition: of or relating to the former Indo-European people", "Synonyms: indo-aryan, indo-european"]}
+{"data": ["2021-06-06T20:58:37.861623+00:00", 2225, "Your mother is", "reedy", "Pronunciation: /\u02c8ridi/", "Definition: having a tone of a reed instrument", "Synonyms: wheezy"]}
