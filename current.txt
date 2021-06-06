@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T13:48:37.883820+00:00", 2182, "Your mother is", "blae", "Pronunciation: /ble\u026a/", "Definition: of bluish-black or grey-blue", ""]}
+{"data": ["2021-06-06T13:58:37.800836+00:00", 2183, "Your mother is", "portuguese", "Pronunciation: /\u02ccpo\u028artj\u028a\u02c8\u0261iz/", "Definition: of or relating to or characteristic of Portugal or the people of Portugal or their language", "Synonyms: lusitanian"]}
