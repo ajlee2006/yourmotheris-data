@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T05:18:37.812197+00:00", 2131, "Your mother is", "germane", "Pronunciation: /d\u0292\u0259r\u02c8me\u026an/", "Definition: relevant and appropriate", ""]}
+{"data": ["2021-06-06T05:28:37.815504+00:00", 2132, "Your mother is", "immensurable", "Pronunciation: /\u026a\u02c8m\u025bn\u0283\u028ar\u0259b\u0259l/", "Definition: impossible to measure", "Synonyms: immeasurable, unmeasurable"]}
