@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T15:18:37.844363+00:00", 2191, "Your mother is", "statutory", "Pronunciation: /\u02c8st\u00e6\u02a7\u028a\u02ccto\u028ari/", "Definition: prescribed or authorized by or punishable under a statute", ""]}
+{"data": ["2021-06-06T15:28:37.836838+00:00", 2192, "Your mother is", "fuggy", "Similar to: unventilated", "Definition: (British informal) poorly ventilated", ""]}
