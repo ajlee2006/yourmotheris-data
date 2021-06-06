@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T08:08:37.879691+00:00", 2148, "Your mother is", "scabrous", "Pronunciation: /\u02c8sk\u00e6br\u0259s/", "Definition: rough to the touch; covered with scales or scurf", "Synonyms: lepidote, leprose, scaly, scurfy"]}
+{"data": ["2021-06-06T08:18:37.957838+00:00", 2149, "Your mother is", "benthal", "", "Definition: of or relating to or happening on the bottom under a body of water", "Synonyms: benthic, benthonic"]}
