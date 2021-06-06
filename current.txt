@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T17:38:37.678826+00:00", 2205, "Your mother is", "harum-scarum", "Pronunciation: /\u02c8h\u025cr\u0259m\u02c8sk\u00e6r\u0259m/", "Definition: cheerfully irresponsible", "Synonyms: carefree, devil-may-care, freewheeling, happy-go-lucky, slaphappy"]}
+{"data": ["2021-06-06T17:48:37.867812+00:00", 2206, "Your mother is", "nubbly", "Pronunciation: /\u02c8n\u0259bli/", "Definition: of textiles; having a rough surface", "Synonyms: homespun, nubby, slubbed, tweedy"]}
