@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T19:18:37.990062+00:00", 2215, "Your mother is", "verdant", "Pronunciation: /\u02c8v\u025crd\ufffdnt/", "Definition: characterized by abundance of verdure", ""]}
+{"data": ["2021-06-06T19:28:37.859120+00:00", 2216, "Your mother is", "styleless", "Similar to: dowdy", "Definition: lacking in style or elegance", "Synonyms: unstylish"]}
