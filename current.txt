@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T18:28:37.817335+00:00", 2210, "Your mother is", "gram-positive", "Pronunciation: /gr\u00e6m-\u02c8p\u0251z\u026at\u026av/", "Definition: (of bacteria) being or relating to a bacterium that retains the violet stain used in Gram's method", ""]}
+{"data": ["2021-06-06T18:38:37.787866+00:00", 2211, "Your mother is", "maintainable", "Similar to: rectifiable", "Definition: capable of being maintained", ""]}
