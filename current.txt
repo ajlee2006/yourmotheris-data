@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T03:18:37.891399+00:00", 2119, "Your mother is", "mournful", "Pronunciation: /\u02c8mo\u028arnf\u028al/", "Definition: filled with or evoking sadness", "Synonyms: doleful"]}
+{"data": ["2021-06-06T03:28:37.960243+00:00", 2120, "Your mother is", "arcadian", "Pronunciation: /\u0251r\u02c8ke\u026adi\u0259n/", "Definition: (used with regard to idealized country life) idyllically rustic", "Synonyms: bucolic, pastoral"]}
