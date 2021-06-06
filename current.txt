@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T14:58:37.735776+00:00", 2189, "Your mother is", "ill-fated", "Pronunciation: /\u02c8\u026al\u02c8fe\u026at\u026ad/", "Definition: marked by or promising bad fortune", "Synonyms: doomed, ill-omened, ill-starred, unlucky"]}
+{"data": ["2021-06-06T15:08:37.902049+00:00", 2190, "Your mother is", "shamanist", "", "Definition: of or relating to shamanism", "Synonyms: shamanistic"]}
