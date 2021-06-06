@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T11:28:37.857305+00:00", 2168, "Your mother is", "metamorphic", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8m\u0254rf\u026ak/", "Definition: of or relating to metamorphosis (especially of rocks)", "Synonyms: metamorphous"]}
+{"data": ["2021-06-06T11:38:37.753664+00:00", 2169, "Your mother is", "vested", "Pronunciation: /\u02c8v\u025bst\u026ad/", "Definition: fixed and absolute and without contingency", ""]}
