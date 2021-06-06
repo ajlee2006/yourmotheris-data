@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T10:08:37.825012+00:00", 2160, "Your mother is", "crowded", "Pronunciation: /\u02c8kra\u028ad\u026ad/", "Definition: overfilled or compacted or concentrated", ""]}
+{"data": ["2021-06-06T10:18:37.868238+00:00", 2161, "Your mother is", "dysgenic", "Pronunciation: /d\u026as\u02c8d\u0292\u025bn\u026ak/", "Definition: pertaining to or causing degeneration in the offspring produced", "Synonyms: cacogenic"]}
