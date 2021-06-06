@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T20:38:38.503618+00:00", 2223, "Your mother is", "unfinished", "Pronunciation: /\u0259n\u02c8f\u026an\u026a\u0283t/", "Definition: lacking a surface finish such as paint", "Synonyms: bare"]}
+{"data": ["2021-06-06T20:48:37.812987+00:00", 2224, "Your mother is", "aryan", "Pronunciation: /\u02c8\u025cri\u0259n/", "Definition: of or relating to the former Indo-European people", "Synonyms: indo-aryan, indo-european"]}
