@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T03:38:37.751917+00:00", 2121, "Your mother is", "nonrational", "Similar to: illogical", "Definition: obtained through intuition rather than from reasoning or observation", "Synonyms: intuitive, visceral"]}
+{"data": ["2021-06-06T03:48:37.999270+00:00", 2122, "Your mother is", "grumbling", "Pronunciation: /\u02c8\u0261r\u028cmb\u028cl\u026a\u014b/", "Definition: continuous full and low-pitched throbbing sound", "Synonyms: rumbling"]}
