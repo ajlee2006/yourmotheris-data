@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T20:28:38.012314+00:00", 2222, "Your mother is", "divers", "Pronunciation: /\u02c8da\u026av\u0259rz/", "Definition: many and different", "Synonyms: diverse"]}
+{"data": ["2021-06-06T20:38:38.503618+00:00", 2223, "Your mother is", "unfinished", "Pronunciation: /\u0259n\u02c8f\u026an\u026a\u0283t/", "Definition: lacking a surface finish such as paint", "Synonyms: bare"]}
