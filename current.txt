@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T02:08:37.881651+00:00", 2112, "Your mother is", "yearly", "Pronunciation: /\u02c8jirli/", "Definition: occurring or payable every year", "Synonyms: annual"]}
+{"data": ["2021-06-06T02:18:38.052147+00:00", 2113, "Your mother is", "stewed", "Pronunciation: /stud/", "Definition: cooked in hot water", "Synonyms: boiled, poached"]}
