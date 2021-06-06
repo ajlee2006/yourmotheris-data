@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T04:18:38.046222+00:00", 2125, "Your mother is", "lowbrow", "Pronunciation: /\u02c8lo\u028a\u02ccbra\u028a/", "Definition: characteristic of a person who is not cultivated or does not have intellectual tastes", "Synonyms: lowbrowed, uncultivated"]}
+{"data": ["2021-06-06T04:28:38.242897+00:00", 2126, "Your mother is", "ammoniac", "Pronunciation: /\u0259\u02c8mo\u028ani\u02cc\u00e6k/", "Definition: pertaining to or containing or similar to ammonia", "Synonyms: ammoniacal"]}
