@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T16:28:37.940689+00:00", 2198, "Your mother is", "elder", "Pronunciation: /\u02c8\u025bld\u0259r/", "Definition: used of the older of two persons of the same name especially used to distinguish a father from his son", "Synonyms: older, sr."]}
+{"data": ["2021-06-06T16:38:37.826822+00:00", 2199, "Your mother is", "placid", "Pronunciation: /\u02c8pl\u00e6s\u026ad/", "Definition: not easily irritated", "Synonyms: equable, even-tempered, good-tempered"]}
