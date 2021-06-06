@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T13:38:37.793058+00:00", 2181, "Your mother is", "stock-still", "Pronunciation: /st\u0251k-st\u026al/", "Definition: absolutely still", "Synonyms: frozen, rooted"]}
+{"data": ["2021-06-06T13:48:37.883820+00:00", 2182, "Your mother is", "blae", "Pronunciation: /ble\u026a/", "Definition: of bluish-black or grey-blue", ""]}
