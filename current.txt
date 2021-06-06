@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T15:58:37.838092+00:00", 2195, "Your mother is", "unrhetorical", "Similar to: matter-of-fact", "Definition: not rhetorical", ""]}
+{"data": ["2021-06-06T16:08:37.933007+00:00", 2196, "Your mother is", "speedy", "Pronunciation: /\u02c8spidi/", "Definition: characterized by speed; moving with or capable of moving with high speed", "Synonyms: rapid"]}
