@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T04:08:37.936475+00:00", 2124, "Your mother is", "semiprivate", "Pronunciation: /\u02ccs\u025bmi\u02c8pra\u026av\u026at/", "Definition: confined to a small number of hospital patients", ""]}
+{"data": ["2021-06-06T04:18:38.046222+00:00", 2125, "Your mother is", "lowbrow", "Pronunciation: /\u02c8lo\u028a\u02ccbra\u028a/", "Definition: characteristic of a person who is not cultivated or does not have intellectual tastes", "Synonyms: lowbrowed, uncultivated"]}
