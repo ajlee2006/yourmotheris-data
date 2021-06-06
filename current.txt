@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T06:28:37.775497+00:00", 2138, "Your mother is", "nugatory", "Pronunciation: /\u02c8nu\u0261\u0259\u02ccto\u028ari/", "Definition: of no real value", ""]}
+{"data": ["2021-06-06T06:38:37.836341+00:00", 2139, "Your mother is", "bimonthly", "Pronunciation: /ba\u026a\u02c8m\u0259n\u03b8li/", "Definition: occurring every two months", "Synonyms: bimestrial"]}
