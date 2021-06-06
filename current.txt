@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T13:08:37.811746+00:00", 2178, "Your mother is", "talky", "Pronunciation: /\u02c8t\u0254ki/", "Definition: full of trivial conversation", "Synonyms: chatty, gabby, garrulous, loquacious, talkative"]}
+{"data": ["2021-06-06T13:18:37.812444+00:00", 2179, "Your mother is", "low-toned", "Similar to: soft", "Definition: very low in volume", "Synonyms: low"]}
