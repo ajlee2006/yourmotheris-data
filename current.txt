@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T16:58:37.800284+00:00", 2201, "Your mother is", "syncategorematic", "Similar to: synsemantic", "Definition: of a term that cannot stand as the subject or (especially) the predicate of a proposition but must be used in conjunction with other terms", ""]}
+{"data": ["2021-06-06T17:08:37.815535+00:00", 2202, "Your mother is", "yellow-tipped", "Similar to: tipped", "Definition: of a flower tipped with yellow", ""]}
