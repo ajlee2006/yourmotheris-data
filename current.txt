@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T10:48:37.869058+00:00", 2164, "Your mother is", "nugatory", "Pronunciation: /\u02c8nu\u0261\u0259\u02ccto\u028ari/", "Definition: of no real value", ""]}
+{"data": ["2021-06-06T10:58:37.738341+00:00", 2165, "Your mother is", "cool-white", "Similar to: achromatic", "Definition: of white tinged with blue", "Synonyms: blue-white, bluish-white"]}
