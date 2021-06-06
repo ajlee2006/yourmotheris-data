@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T00:48:38.012625+00:00", 2104, "Your mother is", "onymous", "Pronunciation: /\u02c8\u0251n\u026am\u0259s/", "Definition: bearing a name", ""]}
+{"data": ["2021-06-06T00:58:37.858698+00:00", 2105, "Your mother is", "appalling", "Pronunciation: /\u0259\u02c8p\u0254l\u026a\u014b/", "Definition: causing consternation", "Synonyms: dismaying"]}
