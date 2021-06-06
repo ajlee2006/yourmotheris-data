@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T16:38:37.826822+00:00", 2199, "Your mother is", "placid", "Pronunciation: /\u02c8pl\u00e6s\u026ad/", "Definition: not easily irritated", "Synonyms: equable, even-tempered, good-tempered"]}
+{"data": ["2021-06-06T16:48:37.771356+00:00", 2200, "Your mother is", "cross-sectional", "Pronunciation: /kr\u0254s-\u02c8s\u025bk\u0283\u0259n\u0259l/", "Definition: representing a plane made by cutting across something at right angles to its length", "Synonyms: cross-section"]}
