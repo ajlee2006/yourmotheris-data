@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T17:28:38.024111+00:00", 2204, "Your mother is", "rosy", "Pronunciation: /\u02c8ro\u028azi/", "Definition: having the pinkish flush of health", "Synonyms: flushed, rose-cheeked, rosy-cheeked"]}
+{"data": ["2021-06-06T17:38:37.678826+00:00", 2205, "Your mother is", "harum-scarum", "Pronunciation: /\u02c8h\u025cr\u0259m\u02c8sk\u00e6r\u0259m/", "Definition: cheerfully irresponsible", "Synonyms: carefree, devil-may-care, freewheeling, happy-go-lucky, slaphappy"]}
