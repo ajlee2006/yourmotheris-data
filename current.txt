@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T15:38:37.883858+00:00", 2193, "Your mother is", "biting", "Pronunciation: /\u02c8ba\u026at\u026a\u014b/", "Definition: causing a sharply painful or stinging sensation; used especially of cold", "Synonyms: bitter"]}
+{"data": ["2021-06-06T15:48:37.767262+00:00", 2194, "Your mother is", "thirty-seventh", "Pronunciation: /\u02c8\u03b8\u025crti-\u02c8s\u025bv\u0259n\u03b8/", "Definition: the ordinal number of thirty-seven in counting order", "Synonyms: 37th"]}
