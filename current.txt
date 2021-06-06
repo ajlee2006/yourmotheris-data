@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T23:13:16.211149+00:00", 2238, "Your mother is", "asterisked", "Similar to: marked", "Definition: marked with an asterisk", "Synonyms: starred"]}
+{"data": ["2021-06-06T23:23:16.236870+00:00", 2239, "Your mother is", "one-man", "Pronunciation: /\u02c8w\u0259n\u02ccm\u00e6n/", "Definition: designed for or restricted to a single person", "Synonyms: one-person, one-woman"]}
