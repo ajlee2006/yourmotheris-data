@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T19:38:37.833987+00:00", 2217, "Your mother is", "brusk", "Similar to: discourteous", "Definition: marked by rude or peremptory shortness", "Synonyms: brusque, curt, short"]}
+{"data": ["2021-06-06T19:48:37.908260+00:00", 2218, "Your mother is", "scaly-tailed", "Similar to: caudate", "Definition: having a scaly tail", ""]}
