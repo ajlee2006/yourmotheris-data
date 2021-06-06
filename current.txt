@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T22:08:37.978134+00:00", 2232, "Your mother is", "noninstitutionalised", "", "Definition: not committed to an institution", "Synonyms: noninstitutionalized"]}
+{"data": ["2021-06-06T22:18:37.872861+00:00", 2233, "Your mother is", "enumerable", "Pronunciation: /\u026a\u02c8num\u0259r\u0259b\u0259l/", "Definition: that can be counted", "Synonyms: countable, denumerable, numerable"]}
