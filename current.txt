@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T11:58:37.748480+00:00", 2171, "Your mother is", "obvious", "Pronunciation: /\u02c8\u0251bvi\u0259s/", "Definition: easily perceived by the senses or grasped by the mind", ""]}
+{"data": ["2021-06-06T12:08:37.782611+00:00", 2172, "Your mother is", "waiting", "Pronunciation: /\u02c8we\u026ati\u014b/", "Definition: being and remaining ready and available for use", "Synonyms: ready and waiting"]}
