@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T22:28:37.825414+00:00", 2234, "Your mother is", "spiny-backed", "Pronunciation: /\u02c8spa\u026ani-b\u00e6kt/", "Definition: having the back covered with spines", ""]}
+{"data": ["2021-06-06T22:43:16.022234+00:00", 2235, "Your mother is", "timely", "Pronunciation: /\u02c8ta\u026amli/", "Definition: done or happening at the appropriate or proper time", "Synonyms: seasonable, well-timed, well timed"]}
