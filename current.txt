@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T12:58:37.798796+00:00", 2177, "Your mother is", "preparative", "Pronunciation: /pri\u02c8p\u00e6r\u0259t\u026av/", "Definition: preceding and preparing for something", "Synonyms: preparatory, propaedeutic"]}
+{"data": ["2021-06-06T13:08:37.811746+00:00", 2178, "Your mother is", "talky", "Pronunciation: /\u02c8t\u0254ki/", "Definition: full of trivial conversation", "Synonyms: chatty, gabby, garrulous, loquacious, talkative"]}
