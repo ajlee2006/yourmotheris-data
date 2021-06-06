@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T05:48:37.831714+00:00", 2134, "Your mother is", "interchangeable", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8\u02a7e\u026and\u0292\u0259b\u0259l/", "Definition: capable of replacing or changing places with something else; permitting mutual substitution without loss of function or suitability", "Synonyms: exchangeable, similar, standardised, standardized"]}
+{"data": ["2021-06-06T05:58:37.762967+00:00", 2135, "Your mother is", "laureled", "", "Definition: crowned with or as if with laurel symbolizing victory", "Synonyms: crowned, laurelled"]}
