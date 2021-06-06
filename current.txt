@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T02:28:37.871595+00:00", 2114, "Your mother is", "unlettered", "Pronunciation: /\u0259n\u02c8l\u025bt\u0259rd/", "Definition: uneducated in general; lacking knowledge or sophistication", "Synonyms: ignorant, nescient, unlearned"]}
+{"data": ["2021-06-06T02:38:38.102384+00:00", 2115, "Your mother is", "auric", "Pronunciation: /\u02c8\u0254r\u026ak/", "Definition: of or relating to or containing or derived from gold", "Synonyms: aurous"]}
