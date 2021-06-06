@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T12:48:37.885721+00:00", 2176, "Your mother is", "homologic", "Similar to: homologous", "Definition: similar in evolutionary origin but not in function", "Synonyms: homological"]}
+{"data": ["2021-06-06T12:58:37.798796+00:00", 2177, "Your mother is", "preparative", "Pronunciation: /pri\u02c8p\u00e6r\u0259t\u026av/", "Definition: preceding and preparing for something", "Synonyms: preparatory, propaedeutic"]}
