@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T18:18:37.819039+00:00", 2209, "Your mother is", "teeny", "Pronunciation: /\u02c8tini/", "Definition: (used informally) very small", "Synonyms: bittie, bitty, itsy-bitsy, itty-bitty, teensy, teensy-weensy, teentsy, teeny-weeny, wee, weensy, weeny"]}
+{"data": ["2021-06-06T18:28:37.817335+00:00", 2210, "Your mother is", "gram-positive", "Pronunciation: /gr\u00e6m-\u02c8p\u0251z\u026at\u026av/", "Definition: (of bacteria) being or relating to a bacterium that retains the violet stain used in Gram's method", ""]}
