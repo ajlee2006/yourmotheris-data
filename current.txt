@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T22:43:16.022234+00:00", 2235, "Your mother is", "timely", "Pronunciation: /\u02c8ta\u026amli/", "Definition: done or happening at the appropriate or proper time", "Synonyms: seasonable, well-timed, well timed"]}
+{"data": ["2021-06-06T22:53:16.103682+00:00", 2236, "Your mother is", "manic", "Pronunciation: /\u02c8m\u00e6n\u026ak/", "Definition: affected with or marked by frenzy or mania uncontrolled by reason", "Synonyms: frenzied"]}
