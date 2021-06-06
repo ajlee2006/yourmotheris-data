@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T01:58:37.824906+00:00", 2111, "Your mother is", "entrepreneurial", "Pronunciation: /\u02cc\u0251ntr\u028cpr\u028c\u02c8n\u025dri\u028cl/", "Definition: willing to take risks in order to make a profit", ""]}
+{"data": ["2021-06-06T02:08:37.881651+00:00", 2112, "Your mother is", "yearly", "Pronunciation: /\u02c8jirli/", "Definition: occurring or payable every year", "Synonyms: annual"]}
