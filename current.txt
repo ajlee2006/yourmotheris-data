@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T03:58:37.830499+00:00", 2123, "Your mother is", "apportioned", "Pronunciation: /\u028c\u02c8p\u0254r\u0283\u028cnd/", "Definition: given out in portions", "Synonyms: dealt out, doled out, meted out, parceled out"]}
+{"data": ["2021-06-06T04:08:37.936475+00:00", 2124, "Your mother is", "semiprivate", "Pronunciation: /\u02ccs\u025bmi\u02c8pra\u026av\u026at/", "Definition: confined to a small number of hospital patients", ""]}
