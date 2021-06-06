@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T23:03:17.076728+00:00", 2237, "Your mother is", "influent", "Pronunciation: /\u02c8\u026anflu\u0259nt/", "Definition: flowing inward", "Synonyms: inflowing"]}
+{"data": ["2021-06-06T23:13:16.211149+00:00", 2238, "Your mother is", "asterisked", "Similar to: marked", "Definition: marked with an asterisk", "Synonyms: starred"]}
