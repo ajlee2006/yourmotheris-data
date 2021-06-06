@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T12:38:37.897282+00:00", 2175, "Your mother is", "looted", "Pronunciation: /\u02c8lut\u028cd/", "Definition: wrongfully emptied or stripped of anything of value", "Synonyms: pillaged, plundered, ransacked"]}
+{"data": ["2021-06-06T12:48:37.885721+00:00", 2176, "Your mother is", "homologic", "Similar to: homologous", "Definition: similar in evolutionary origin but not in function", "Synonyms: homological"]}
