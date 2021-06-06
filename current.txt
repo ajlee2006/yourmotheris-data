@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T07:18:37.831980+00:00", 2143, "Your mother is", "vulgar", "Pronunciation: /\u02c8v\u0259lg\u0259r/", "Definition: being or characteristic of or appropriate to everyday language", "Synonyms: common, vernacular"]}
+{"data": ["2021-06-06T07:28:37.835434+00:00", 2144, "Your mother is", "unreactive", "Similar to: neutral", "Definition: (chemistry) not reacting chemically", ""]}
