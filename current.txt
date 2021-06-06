@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T16:08:37.933007+00:00", 2196, "Your mother is", "speedy", "Pronunciation: /\u02c8spidi/", "Definition: characterized by speed; moving with or capable of moving with high speed", "Synonyms: rapid"]}
+{"data": ["2021-06-06T16:18:37.762572+00:00", 2197, "Your mother is", "late-flowering", "Pronunciation: /le\u026at-\u02c8fla\u028a\u0259r\u026a\u014b/", "Definition: of plants that bloom during the autumn", "Synonyms: autumn-blooming, autumn-flowering, fall-blooming, fall-flowering, late-blooming"]}
