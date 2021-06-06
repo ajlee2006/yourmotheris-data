@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T01:18:37.895950+00:00", 2107, "Your mother is", "brownish", "Pronunciation: /\u02c8bra\u028an\u026a\u0283/", "Definition: of a color similar to that of wood or earth", "Synonyms: brown, chocolate-brown, dark-brown"]}
+{"data": ["2021-06-06T01:28:37.951051+00:00", 2108, "Your mother is", "lxxiii", "Similar to: cardinal", "Definition: being three more than seventy", "Synonyms: 73, seventy-three"]}
