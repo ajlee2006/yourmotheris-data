@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T08:48:37.800948+00:00", 2152, "Your mother is", "three-pronged", "Similar to: divided", "Definition: having three prongs", ""]}
+{"data": ["2021-06-06T08:58:37.937751+00:00", 2153, "Your mother is", "calceiform", "Pronunciation: /\u02c8k\u00e6lsi\u0259\u02ccf\u0254rm/", "Definition: of slipper-shaped blossoms", "Synonyms: calceolate"]}
