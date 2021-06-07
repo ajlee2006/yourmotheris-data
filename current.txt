@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T09:23:16.210599+00:00", 2299, "Your mother is", "homebound", "Pronunciation: /\u02c8ho\u028am\u02c8ba\u028and/", "Definition: confined usually by illness", "Synonyms: housebound, shut-in"]}
+{"data": ["2021-06-07T09:33:16.223197+00:00", 2300, "Your mother is", "thronged", "Pronunciation: /\u03b8r\u0254\u014bd/", "Definition: filled with great numbers crowded together", ""]}
