@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T07:13:16.520766+00:00", 2286, "Your mother is", "activated", "Pronunciation: /\u02c8\u00e6kt\u028c\u02ccve\u026at\u028cd/", "Definition: (of e.g. a molecule) made reactive or more reactive", "Synonyms: excited"]}
+{"data": ["2021-06-07T07:23:16.314508+00:00", 2287, "Your mother is", "capacious", "Pronunciation: /k\u0259\u02c8pe\u026a\u0283\u0259s/", "Definition: large in capacity", ""]}
