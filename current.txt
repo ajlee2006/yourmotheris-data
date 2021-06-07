@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T02:43:15.969749+00:00", 2259, "Your mother is", "anthropoidal", "Similar to: nonhuman", "Definition: resembling apes", "Synonyms: anthropoid, apelike"]}
+{"data": ["2021-06-07T02:53:16.019703+00:00", 2260, "Your mother is", "admonitory", "Pronunciation: /\u00e6d\u02c8m\u0251n\u026a\u02ccto\u028ari/", "Definition: expressing reproof or reproach especially as a corrective", "Synonyms: admonishing, reproachful, reproving"]}
