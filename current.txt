@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T11:13:16.110877+00:00", 2310, "Your mother is", "adulterous", "Pronunciation: /\u0259\u02c8d\u0259lt\u0259r\u0259s/", "Definition: characterized by adultery", "Synonyms: extracurricular, extramarital"]}
+{"data": ["2021-06-07T11:23:16.081408+00:00", 2311, "Your mother is", "alpine", "Pronunciation: /\u02c8\u00e6lpa\u026an/", "Definition: living or growing above the timber line", ""]}
