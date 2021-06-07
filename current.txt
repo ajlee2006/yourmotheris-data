@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T22:03:16.202270+00:00", 2375, "Your mother is", "lavish", "Pronunciation: /\u02c8l\u00e6v\u026a\u0283/", "Definition: very generous", "Synonyms: munificent, overgenerous, too-generous, unsparing, unstinted, unstinting"]}
+{"data": ["2021-06-07T22:13:16.056407+00:00", 2376, "Your mother is", "whole-souled", "Pronunciation: /\u02c8ho\u028al-\u02c8so\u028ald/", "Definition: with unconditional and enthusiastic devotion", "Synonyms: heart-whole, wholehearted"]}
