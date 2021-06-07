@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T16:53:16.537104+00:00", 2344, "Your mother is", "conterminous", "Pronunciation: /k\u0259n\u02c8t\u025crm\u0259n\u0259s/", "Definition: being of equal extent or scope or duration", "Synonyms: coextensive, coterminous"]}
+{"data": ["2021-06-07T17:03:16.180090+00:00", 2345, "Your mother is", "periodontic", "", "Definition: of or relating to or involving or practicing periodontics", "Synonyms: periodontal"]}
