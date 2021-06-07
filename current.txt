@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T07:43:16.160157+00:00", 2289, "Your mother is", "popish", "Pronunciation: /\u02c8po\u028ap\u026a\u0283/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, papistical, r.c., roman, roman catholic, romanist, romish"]}
+{"data": ["2021-06-07T07:53:16.135792+00:00", 2290, "Your mother is", "biconcave", "Pronunciation: /ba\u026a\u02c8k\u0251nke\u026av/", "Definition: concave on both sides", "Synonyms: concavo-concave"]}
