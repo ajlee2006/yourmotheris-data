@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T01:03:16.182745+00:00", 2249, "Your mother is", "thankful", "Pronunciation: /\u02c8\u03b8\u00e6\u014bkf\u0259l/", "Definition: feeling or showing gratitude", "Synonyms: grateful"]}
+{"data": ["2021-06-07T01:13:16.269407+00:00", 2250, "Your mother is", "spoilt", "Pronunciation: /sp\u0254\u026alt/", "Definition: affected by blight; anything that mars or prevents growth or prosperity", "Synonyms: blighted"]}
