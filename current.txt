@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T15:03:16.163662+00:00", 2333, "Your mother is", "oafish", "Similar to: unrefined", "Definition: ill-mannered and coarse and contemptible in behavior or appearance", "Synonyms: boorish, loutish, neandertal, neanderthal, swinish"]}
+{"data": ["2021-06-07T15:13:16.279199+00:00", 2334, "Your mother is", "attainable", "Pronunciation: /\u0259\u02c8te\u026an\u0259b\u0259l/", "Definition: capable of being attained or accomplished", "Synonyms: come-at-able"]}
