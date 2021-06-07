@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T14:23:16.681646+00:00", 2329, "Your mother is", "diplomatical", "Similar to: kid-glove", "Definition: using or marked by tact in dealing with sensitive matters or people", "Synonyms: diplomatic"]}
+{"data": ["2021-06-07T14:33:16.722704+00:00", 2330, "Your mother is", "aoristic", "Pronunciation: /\u02cce\u026a\u0259\u02c8r\u026ast\u026ak/", "Definition: of or relating to the aorist tense", ""]}
