@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T17:33:16.593609+00:00", 2348, "Your mother is", "pyramidal", "Pronunciation: /p\u026a\u02c8r\u00e6m\u026ad\u0259l/", "Definition: resembling a pyramid", "Synonyms: pyramidic, pyramidical"]}
+{"data": ["2021-06-07T17:43:16.451152+00:00", 2349, "Your mother is", "gold-coloured", "Similar to: colored", "Definition: having the color of gold", "Synonyms: gold-colored"]}
