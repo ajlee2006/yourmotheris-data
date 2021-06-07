@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T01:23:16.067123+00:00", 2251, "Your mother is", "longhand", "Pronunciation: /\u02c8l\u0254\u014b\u02cch\u00e6nd/", "Definition: having words written out in full by hand", ""]}
+{"data": ["2021-06-07T01:33:16.155019+00:00", 2252, "Your mother is", "noxious", "Pronunciation: /\u02c8n\u0251k\u0283\u0259s/", "Definition: injurious to physical or mental health", ""]}
