@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T03:13:16.236291+00:00", 2262, "Your mother is", "gassy", "Pronunciation: /\u02c8\u0261\u00e6si/", "Definition: suffering from excessive gas in the alimentary canal", "Synonyms: colicky, flatulent"]}
+{"data": ["2021-06-07T03:23:16.444367+00:00", 2263, "Your mother is", "undeceived", "Similar to: disenchanted", "Definition: freed of a mistaken or misguided notion", "Synonyms: disabused"]}
