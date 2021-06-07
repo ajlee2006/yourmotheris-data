@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T13:13:16.557535+00:00", 2322, "Your mother is", "high-priced", "Pronunciation: /\u02c8ha\u026a\u02c8pra\u026ast/", "Definition: having a high price", "Synonyms: costly, dear, pricey, pricy"]}
+{"data": ["2021-06-07T13:23:16.363647+00:00", 2323, "Your mother is", "foliolate", "Pronunciation: /\u02c8fo\u028ali\u0259\u02ccle\u026at/", "Definition: (often used as a combining form) having leaflets (compound leaves) or a specified kind or number of leaflets", ""]}
