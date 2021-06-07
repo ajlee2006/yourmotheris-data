@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T18:23:16.250448+00:00", 2353, "Your mother is", "troubling", "Pronunciation: /\u02c8tr\u028cb\u028cl\u026a\u014b/", "Definition: causing distress or worry or anxiety", "Synonyms: distressful, distressing, disturbing, perturbing, worrisome, worrying"]}
+{"data": ["2021-06-07T18:33:16.225379+00:00", 2354, "Your mother is", "gusty", "Pronunciation: /\u02c8\u0261\u0259sti/", "Definition: blowing in puffs or short intermittent blasts", "Synonyms: puffy"]}
