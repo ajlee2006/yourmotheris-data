@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T16:43:16.359913+00:00", 2343, "Your mother is", "effulgent", "Pronunciation: /\u026a\u02c8f\u0259ld\u0292\u0259nt/", "Definition: radiating or as if radiating light", "Synonyms: beaming, beamy, radiant, refulgent"]}
+{"data": ["2021-06-07T16:53:16.537104+00:00", 2344, "Your mother is", "conterminous", "Pronunciation: /k\u0259n\u02c8t\u025crm\u0259n\u0259s/", "Definition: being of equal extent or scope or duration", "Synonyms: coextensive, coterminous"]}
