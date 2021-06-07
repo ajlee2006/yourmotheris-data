@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T20:43:16.352697+00:00", 2367, "Your mother is", "polysynthetic", "Pronunciation: /\u02ccp\u0251lis\u026an\u02c8\u03b8\u025bt\u026ak/", "Definition: forming derivative or compound words by putting together constituents each of which expresses a single definite meaning", "Synonyms: agglutinative"]}
+{"data": ["2021-06-07T20:53:17.704476+00:00", 2368, "Your mother is", "prosaic", "Pronunciation: /pro\u028a\u02c8ze\u026a\u026ak/", "Definition: lacking wit or imagination", "Synonyms: earthbound, pedestrian, prosy"]}
