@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T11:23:16.081408+00:00", 2311, "Your mother is", "alpine", "Pronunciation: /\u02c8\u00e6lpa\u026an/", "Definition: living or growing above the timber line", ""]}
+{"data": ["2021-06-07T11:33:16.095575+00:00", 2312, "Your mother is", "doughy", "Pronunciation: /\u02c8do\u028ai/", "Definition: having the consistency of dough because of insufficient leavening or improper cooking", "Synonyms: soggy"]}
