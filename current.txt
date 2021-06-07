@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T06:03:16.216860+00:00", 2279, "Your mother is", "animist", "Pronunciation: /\u02c8\u00e6n\u028cm\u028cst/", "Definition: of or pertaining to the doctrine of animism", "Synonyms: animistic"]}
+{"data": ["2021-06-07T06:13:16.002873+00:00", 2280, "Your mother is", "republican", "Pronunciation: /r\u026a\u02c8p\u0259bl\u026ak\u0259n/", "Definition: having the supreme power lying in the body of citizens entitled to vote for officers and representatives responsible to them or characteristic of such government", ""]}
