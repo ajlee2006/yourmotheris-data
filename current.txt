@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T15:43:16.200975+00:00", 2337, "Your mother is", "indefinable", "Pronunciation: /\u02cc\u026and\u026a\u02c8fa\u026an\u0259b\u0259l/", "Definition: defying expression or description", "Synonyms: indescribable, ineffable, unspeakable, untellable, unutterable"]}
+{"data": ["2021-06-07T15:53:16.447209+00:00", 2338, "Your mother is", "full-bodied", "Pronunciation: /\u02c8f\u028al\u02c8b\u0251did/", "Definition: marked by richness and fullness of flavor", "Synonyms: racy, rich, robust"]}
