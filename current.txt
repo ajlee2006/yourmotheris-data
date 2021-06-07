@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T00:13:16.116760+00:00", 2244, "Your mother is", "pacifist", "Pronunciation: /\u02c8p\u00e6s\u0259f\u026ast/", "Definition: opposed to war", "Synonyms: dovish, pacifistic"]}
+{"data": ["2021-06-07T00:23:16.057613+00:00", 2245, "Your mother is", "sound", "Pronunciation: /sa\u028and/", "Definition: logically valid", "Synonyms: reasoned, well-grounded"]}
