@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T05:03:16.234725+00:00", 2273, "Your mother is", "unargumentative", "Similar to: noncontentious", "Definition: not given to or characterized by argument", ""]}
+{"data": ["2021-06-07T05:13:16.018322+00:00", 2274, "Your mother is", "economical", "Pronunciation: /\u02ccik\u0259\u02c8n\u0251m\u026ak\u0259l/", "Definition: using the minimum of time or resources necessary for effectiveness", "Synonyms: economic"]}
