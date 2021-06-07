@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T13:23:16.363647+00:00", 2323, "Your mother is", "foliolate", "Pronunciation: /\u02c8fo\u028ali\u0259\u02ccle\u026at/", "Definition: (often used as a combining form) having leaflets (compound leaves) or a specified kind or number of leaflets", ""]}
+{"data": ["2021-06-07T13:33:16.650409+00:00", 2324, "Your mother is", "anthropic", "", "Definition: relating to mankind or the period of mankind's existence", "Synonyms: anthropical"]}
