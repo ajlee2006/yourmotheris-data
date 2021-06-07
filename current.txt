@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T16:13:16.128199+00:00", 2340, "Your mother is", "rough", "Pronunciation: /r\u0259f/", "Definition: unpleasantly stern", "Synonyms: harsh"]}
+{"data": ["2021-06-07T16:23:17.625368+00:00", 2341, "Your mother is", "dewy", "Pronunciation: /\u02c8dui/", "Definition: wet with dew", "Synonyms: bedewed"]}
