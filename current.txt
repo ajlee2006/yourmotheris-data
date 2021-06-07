@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T23:07:34.892338+00:00", 2381, "Your mother is", "unexcused", "Similar to: nonexempt", "Definition: not excused", ""]}
+{"data": ["2021-06-07T23:17:34.972692+00:00", 2382, "Your mother is", "rosy-purple", "Similar to: chromatic", "Definition: of purple with a rose tinge", "Synonyms: rose-purple"]}
