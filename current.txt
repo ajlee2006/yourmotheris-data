@@ -1,1 +1,1 @@
-{"data": ["2021-06-06T23:53:16.027894+00:00", 2242, "Your mother is", "pristine", "Pronunciation: /\u02c8pr\u026astin/", "Definition: completely free from dirt or contamination", ""]}
+{"data": ["2021-06-07T00:03:16.017264+00:00", 2243, "Your mother is", "argillaceous", "Pronunciation: /\u02cc\u0251rd\u0292\u0259\u02c8le\u026a\u0283\u0259s/", "Definition: resembling or containing clay", "Synonyms: clayey"]}
