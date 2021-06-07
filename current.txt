@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T20:33:16.420309+00:00", 2366, "Your mother is", "tardive", "Similar to: late", "Definition: late-occurring (especially with reference to symptoms of a disease)", ""]}
+{"data": ["2021-06-07T20:43:16.352697+00:00", 2367, "Your mother is", "polysynthetic", "Pronunciation: /\u02ccp\u0251lis\u026an\u02c8\u03b8\u025bt\u026ak/", "Definition: forming derivative or compound words by putting together constituents each of which expresses a single definite meaning", "Synonyms: agglutinative"]}
