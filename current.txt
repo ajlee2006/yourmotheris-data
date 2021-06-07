@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T07:33:16.183389+00:00", 2288, "Your mother is", "triplex", "Pronunciation: /\u02c8tr\u026apl\u025bks/", "Definition: having three units or components or elements", "Synonyms: ternary, treble, triple"]}
+{"data": ["2021-06-07T07:43:16.160157+00:00", 2289, "Your mother is", "popish", "Pronunciation: /\u02c8po\u028ap\u026a\u0283/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, papistical, r.c., roman, roman catholic, romanist, romish"]}
