@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T07:23:16.314508+00:00", 2287, "Your mother is", "capacious", "Pronunciation: /k\u0259\u02c8pe\u026a\u0283\u0259s/", "Definition: large in capacity", ""]}
+{"data": ["2021-06-07T07:33:16.183389+00:00", 2288, "Your mother is", "triplex", "Pronunciation: /\u02c8tr\u026apl\u025bks/", "Definition: having three units or components or elements", "Synonyms: ternary, treble, triple"]}
