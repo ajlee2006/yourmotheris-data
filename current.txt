@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T05:53:16.130485+00:00", 2278, "Your mother is", "charismatic", "Pronunciation: /\u02cck\u00e6riz\u02c8m\u00e6t\u026ak/", "Definition: possessing an extraordinary ability to attract", "Synonyms: magnetic"]}
+{"data": ["2021-06-07T06:03:16.216860+00:00", 2279, "Your mother is", "animist", "Pronunciation: /\u02c8\u00e6n\u028cm\u028cst/", "Definition: of or pertaining to the doctrine of animism", "Synonyms: animistic"]}
