@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T11:03:16.397455+00:00", 2309, "Your mother is", "flyspeck", "Pronunciation: /\u02c8fla\u026a\u02ccsp\u025bk/", "Definition: very small", "Synonyms: bantam, diminutive, lilliputian, midget, petite, tiny"]}
+{"data": ["2021-06-07T11:13:16.110877+00:00", 2310, "Your mother is", "adulterous", "Pronunciation: /\u0259\u02c8d\u0259lt\u0259r\u0259s/", "Definition: characterized by adultery", "Synonyms: extracurricular, extramarital"]}
