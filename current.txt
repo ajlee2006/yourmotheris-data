@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T14:53:16.667653+00:00", 2332, "Your mother is", "voidable", "Pronunciation: /\u02c8v\u0254\u026ad\u0259b\u0259l/", "Definition: capable of being rescinded or voided", "Synonyms: rescindable"]}
+{"data": ["2021-06-07T15:03:16.163662+00:00", 2333, "Your mother is", "oafish", "Similar to: unrefined", "Definition: ill-mannered and coarse and contemptible in behavior or appearance", "Synonyms: boorish, loutish, neandertal, neanderthal, swinish"]}
