@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T13:33:16.650409+00:00", 2324, "Your mother is", "anthropic", "", "Definition: relating to mankind or the period of mankind's existence", "Synonyms: anthropical"]}
+{"data": ["2021-06-07T13:43:16.325064+00:00", 2325, "Your mother is", "imparipinnate", "Pronunciation: /\u026am\u02ccp\u00e6r\u0259\u02c8p\u026ane\u026at/", "Definition: (a leaf shape) pinnate with a single leaflet at the apex", "Synonyms: odd-pinnate"]}
