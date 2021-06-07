@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T00:33:16.381387+00:00", 2246, "Your mother is", "parve", "Pronunciation: /\u02c8p\u0251rv\u0259/", "Definition: containing no meat or milk (or their derivatives) and thus eatable with both meat and dairy dishes according to the dietary laws of Judaism", "Synonyms: pareve"]}
+{"data": ["2021-06-07T00:43:16.022502+00:00", 2247, "Your mother is", "duty-free", "Pronunciation: /\u02c8dut\u026a\u02c8fri/", "Definition: exempt from duty", ""]}
