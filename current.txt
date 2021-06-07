@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T05:23:16.140662+00:00", 2275, "Your mother is", "coagulable", "Pronunciation: /ko\u028a\u02c8\u00e6\u0261j\u0259l\u0259b\u0259l/", "Definition: capable of coagulating and becoming thick", ""]}
+{"data": ["2021-06-07T05:33:16.068696+00:00", 2276, "Your mother is", "abstractive", "Pronunciation: /\u00e6b\u02c8str\u00e6kt\u026av/", "Definition: of an abstracting nature or having the power of abstracting", ""]}
