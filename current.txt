@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T12:03:16.264547+00:00", 2315, "Your mother is", "petrous", "Pronunciation: /\u02c8p\u025btr\u0259s/", "Definition: (of bone especially the temporal bone) resembling stone in hardness", "Synonyms: stonelike"]}
+{"data": ["2021-06-07T12:13:16.155220+00:00", 2316, "Your mother is", "separate", "Pronunciation: /s\u025bp\u025cr\u0259t/", "Definition: have the connection undone; having become separate", "Synonyms: disjoined"]}
