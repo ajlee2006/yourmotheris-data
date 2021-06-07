@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T01:33:16.155019+00:00", 2252, "Your mother is", "noxious", "Pronunciation: /\u02c8n\u0251k\u0283\u0259s/", "Definition: injurious to physical or mental health", ""]}
+{"data": ["2021-06-07T01:43:16.060030+00:00", 2253, "Your mother is", "nonsubmergible", "", "Definition: not submersible or submergible", "Synonyms: nonsubmersible"]}
