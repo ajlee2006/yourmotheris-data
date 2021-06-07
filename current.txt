@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T04:03:16.301037+00:00", 2267, "Your mother is", "unwholesome", "Pronunciation: /\u0259n\u02c8ho\u028als\u0259m/", "Definition: detrimental to physical or moral well-being", ""]}
+{"data": ["2021-06-07T04:13:16.125274+00:00", 2268, "Your mother is", "filipino", "Pronunciation: /\u02ccf\u026al\u0259\u02c8pino\u028a/", "Definition: of or relating to or characteristic of the Philippines or its people or customs", "Synonyms: philippine"]}
