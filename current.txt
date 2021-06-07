@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T03:43:16.046884+00:00", 2265, "Your mother is", "fogged", "Similar to: opaque", "Definition: obscured by fog", "Synonyms: foggy"]}
+{"data": ["2021-06-07T03:53:16.123621+00:00", 2266, "Your mother is", "crocketed", "Similar to: adorned", "Definition: (of a gable or spire) furnished with a crocket (an ornament in the form of curved or bent foliage)", ""]}
