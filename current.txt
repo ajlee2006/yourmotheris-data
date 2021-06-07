@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T21:33:16.197928+00:00", 2372, "Your mother is", "yellowish-gray", "Pronunciation: /\u02c8j\u025blo\u028a\u026a\u0283-gre\u026a/", "Definition: of grey tinged with yellow", "Synonyms: yellow-gray, yellow-grey, yellowish-grey"]}
+{"data": ["2021-06-07T21:43:16.535240+00:00", 2373, "Your mother is", "amentiferous", "Pronunciation: /\u02cc\u00e6m\u0259n\u02c8t\u026af\u0259r\u0259s/", "Definition: (of plants) bearing or characterized by aments or catkins", "Synonyms: amentaceous"]}
