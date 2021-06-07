@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T17:53:16.244339+00:00", 2350, "Your mother is", "blameworthy", "Pronunciation: /\u02c8ble\u026am\u02ccw\u025cr\u03b8i/", "Definition: deserving blame or censure as being wrong or evil or injurious", "Synonyms: blamable, blameable, blameful, censurable, culpable"]}
+{"data": ["2021-06-07T18:03:16.149348+00:00", 2351, "Your mother is", "authorised", "Pronunciation: /\u02c8\u0254\u03b8\u0259\u02ccra\u026azd/", "Definition: endowed with authority", "Synonyms: authorized"]}
