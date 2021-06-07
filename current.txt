@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T09:03:16.099563+00:00", 2297, "Your mother is", "comical", "Pronunciation: /\u02c8k\u0251m\u026ak\u0259l/", "Definition: arousing or provoking laughter", "Synonyms: amusing, comic, funny, laughable, mirthful, risible"]}
+{"data": ["2021-06-07T09:13:16.187406+00:00", 2298, "Your mother is", "rod-shaped", "Pronunciation: /r\u0251d-\u0283e\u026apt/", "Definition: resembling a rod", "Synonyms: rodlike"]}
