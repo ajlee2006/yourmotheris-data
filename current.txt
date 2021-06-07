@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T06:23:16.314652+00:00", 2281, "Your mother is", "equidistant", "Pronunciation: /\u02ccikw\u026a\u02c8d\u026ast\u0259nt/", "Definition: the same distance apart at every point", ""]}
+{"data": ["2021-06-07T06:33:16.356962+00:00", 2282, "Your mother is", "phylliform", "Similar to: formed", "Definition: having the shape of a leaf", ""]}
