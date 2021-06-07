@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T10:23:16.333138+00:00", 2305, "Your mother is", "monstrous", "Pronunciation: /\u02c8m\u0251nstr\u0259s/", "Definition: shockingly brutal or cruel", "Synonyms: atrocious, flagitious, grievous"]}
+{"data": ["2021-06-07T10:33:16.159990+00:00", 2306, "Your mother is", "datable", "Pronunciation: /\u02c8de\u026at\u0259b\u0259l/", "Definition: that can be given a date", "Synonyms: dateable"]}
