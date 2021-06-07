@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T13:03:16.467893+00:00", 2321, "Your mother is", "serious", "Pronunciation: /\u02c8siri\u0259s/", "Definition: appealing to the mind", "Synonyms: good"]}
+{"data": ["2021-06-07T13:13:16.557535+00:00", 2322, "Your mother is", "high-priced", "Pronunciation: /\u02c8ha\u026a\u02c8pra\u026ast/", "Definition: having a high price", "Synonyms: costly, dear, pricey, pricy"]}
