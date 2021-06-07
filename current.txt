@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T10:53:16.067741+00:00", 2308, "Your mother is", "bungling", "Pronunciation: /\u02c8b\u028c\u014b\u0261\u028cl\u026a\u014b/", "Definition: showing lack of skill or aptitude", "Synonyms: clumsy, fumbling, incompetent"]}
+{"data": ["2021-06-07T11:03:16.397455+00:00", 2309, "Your mother is", "flyspeck", "Pronunciation: /\u02c8fla\u026a\u02ccsp\u025bk/", "Definition: very small", "Synonyms: bantam, diminutive, lilliputian, midget, petite, tiny"]}
