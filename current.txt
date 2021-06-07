@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T03:23:16.444367+00:00", 2263, "Your mother is", "undeceived", "Similar to: disenchanted", "Definition: freed of a mistaken or misguided notion", "Synonyms: disabused"]}
+{"data": ["2021-06-07T03:33:16.184342+00:00", 2264, "Your mother is", "levorotatory", "Pronunciation: /\u02ccliv\u0259\u02c8ro\u028at\u0259\u02ccto\u028ari/", "Definition: rotating to the left", "Synonyms: left-handed, levorotary"]}
