@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T01:13:16.269407+00:00", 2250, "Your mother is", "spoilt", "Pronunciation: /sp\u0254\u026alt/", "Definition: affected by blight; anything that mars or prevents growth or prosperity", "Synonyms: blighted"]}
+{"data": ["2021-06-07T01:23:16.067123+00:00", 2251, "Your mother is", "longhand", "Pronunciation: /\u02c8l\u0254\u014b\u02cch\u00e6nd/", "Definition: having words written out in full by hand", ""]}
