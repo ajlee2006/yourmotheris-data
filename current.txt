@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T12:13:16.155220+00:00", 2316, "Your mother is", "separate", "Pronunciation: /s\u025bp\u025cr\u0259t/", "Definition: have the connection undone; having become separate", "Synonyms: disjoined"]}
+{"data": ["2021-06-07T12:23:16.099469+00:00", 2317, "Your mother is", "never-ending", "Pronunciation: /\u02c8n\u025bv\u0259r-\u02c8\u025bnd\u026a\u014b/", "Definition: uninterrupted in time and indefinitely long continuing", "Synonyms: ceaseless, constant, incessant, perpetual, unceasing, unremitting"]}
