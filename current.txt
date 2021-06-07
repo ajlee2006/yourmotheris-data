@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T17:43:16.451152+00:00", 2349, "Your mother is", "gold-coloured", "Similar to: colored", "Definition: having the color of gold", "Synonyms: gold-colored"]}
+{"data": ["2021-06-07T17:53:16.244339+00:00", 2350, "Your mother is", "blameworthy", "Pronunciation: /\u02c8ble\u026am\u02ccw\u025cr\u03b8i/", "Definition: deserving blame or censure as being wrong or evil or injurious", "Synonyms: blamable, blameable, blameful, censurable, culpable"]}
