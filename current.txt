@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T02:53:16.019703+00:00", 2260, "Your mother is", "admonitory", "Pronunciation: /\u00e6d\u02c8m\u0251n\u026a\u02ccto\u028ari/", "Definition: expressing reproof or reproach especially as a corrective", "Synonyms: admonishing, reproachful, reproving"]}
+{"data": ["2021-06-07T03:03:15.990223+00:00", 2261, "Your mother is", "on one's guard", "Similar to: wary", "Definition: vigilant", "Synonyms: on guard, on your guard, upon one's guard"]}
