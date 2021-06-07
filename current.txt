@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T12:23:16.099469+00:00", 2317, "Your mother is", "never-ending", "Pronunciation: /\u02c8n\u025bv\u0259r-\u02c8\u025bnd\u026a\u014b/", "Definition: uninterrupted in time and indefinitely long continuing", "Synonyms: ceaseless, constant, incessant, perpetual, unceasing, unremitting"]}
+{"data": ["2021-06-07T12:33:16.192145+00:00", 2318, "Your mother is", "transonic", "Pronunciation: /tr\u00e6n\u02c8s\u0251n\u026ak/", "Definition: (of speed) having or caused by speed approximately equal to that of sound in air at sea level", "Synonyms: sonic"]}
