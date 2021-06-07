@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T05:43:16.030926+00:00", 2277, "Your mother is", "bum", "Pronunciation: /b\u0259m/", "Definition: of very poor quality; flimsy", "Synonyms: cheap, cheesy, chintzy, crummy, punk, sleazy, tinny"]}
+{"data": ["2021-06-07T05:53:16.130485+00:00", 2278, "Your mother is", "charismatic", "Pronunciation: /\u02cck\u00e6riz\u02c8m\u00e6t\u026ak/", "Definition: possessing an extraordinary ability to attract", "Synonyms: magnetic"]}
