@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T21:03:16.121281+00:00", 2369, "Your mother is", "eyed", "Pronunciation: /a\u026ad/", "Definition: having an eye or eyes or eyelike feature especially as specified; often used in combination", ""]}
+{"data": ["2021-06-07T21:13:17.193198+00:00", 2370, "Your mother is", "underground", "Pronunciation: /\u02cc\u0259nd\u0259r\u02c8gr\u00e6\u028and/", "Definition: conducted with or marked by hidden aims or methods", "Synonyms: clandestine, cloak-and-dagger, hole-and-corner, hugger-mugger, hush-hush, secret, surreptitious, undercover"]}
