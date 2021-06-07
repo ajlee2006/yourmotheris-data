@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T11:53:16.389666+00:00", 2314, "Your mother is", "idolized", "Pronunciation: /\u02c8a\u026ad\u028c\u02ccla\u026azd/", "Definition: regarded with deep or rapturous love (especially as if for a god)", "Synonyms: adored, idolised, worshipped"]}
+{"data": ["2021-06-07T12:03:16.264547+00:00", 2315, "Your mother is", "petrous", "Pronunciation: /\u02c8p\u025btr\u0259s/", "Definition: (of bone especially the temporal bone) resembling stone in hardness", "Synonyms: stonelike"]}
