@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T09:13:16.187406+00:00", 2298, "Your mother is", "rod-shaped", "Pronunciation: /r\u0251d-\u0283e\u026apt/", "Definition: resembling a rod", "Synonyms: rodlike"]}
+{"data": ["2021-06-07T09:23:16.210599+00:00", 2299, "Your mother is", "homebound", "Pronunciation: /\u02c8ho\u028am\u02c8ba\u028and/", "Definition: confined usually by illness", "Synonyms: housebound, shut-in"]}
