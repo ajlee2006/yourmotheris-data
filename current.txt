@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T09:33:16.223197+00:00", 2300, "Your mother is", "thronged", "Pronunciation: /\u03b8r\u0254\u014bd/", "Definition: filled with great numbers crowded together", ""]}
+{"data": ["2021-06-07T09:43:16.360648+00:00", 2301, "Your mother is", "urban", "Pronunciation: /\u02c8\u025crb\u0259n/", "Definition: located in or characteristic of a city or city life", ""]}
