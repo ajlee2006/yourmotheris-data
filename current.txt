@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T14:43:16.783516+00:00", 2331, "Your mother is", "ridged", "Pronunciation: /r\u026ad\u0292d/", "Definition: having a ridge or shaped like a ridge or suggesting the keel of a ship", "Synonyms: carinate, carinated, keeled"]}
+{"data": ["2021-06-07T14:53:16.667653+00:00", 2332, "Your mother is", "voidable", "Pronunciation: /\u02c8v\u0254\u026ad\u0259b\u0259l/", "Definition: capable of being rescinded or voided", "Synonyms: rescindable"]}
