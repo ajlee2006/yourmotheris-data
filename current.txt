@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T15:13:16.279199+00:00", 2334, "Your mother is", "attainable", "Pronunciation: /\u0259\u02c8te\u026an\u0259b\u0259l/", "Definition: capable of being attained or accomplished", "Synonyms: come-at-able"]}
+{"data": ["2021-06-07T15:23:16.083606+00:00", 2335, "Your mother is", "long-snouted", "Similar to: long", "Definition: having a snout that is longer than average", ""]}
