@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T10:03:16.474024+00:00", 2303, "Your mother is", "transmissible", "Pronunciation: /tr\u00e6ns\u02c8m\u026as\u0259b\u0259l/", "Definition: (of disease) capable of being transmitted by infection", "Synonyms: catching, communicable, contagious, contractable, transmittable"]}
+{"data": ["2021-06-07T10:13:16.305482+00:00", 2304, "Your mother is", "presumptuous", "Pronunciation: /pr\u026a\u02c8z\u0259mp\u02a7u\u0259s/", "Definition: excessively forward", "Synonyms: assuming, assumptive"]}
