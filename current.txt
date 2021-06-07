@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T20:13:16.193623+00:00", 2364, "Your mother is", "outbred", "", "Definition: bred of parents not closely related; having parents of different classes or tribes", ""]}
+{"data": ["2021-06-07T20:23:16.423116+00:00", 2365, "Your mother is", "jural", "Pronunciation: /\u02c8d\u0292\u028ar\u0259l/", "Definition: of or relating to law or to legal rights and obligations", "Synonyms: juristic"]}
