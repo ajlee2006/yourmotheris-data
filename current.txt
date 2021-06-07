@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T04:53:16.365012+00:00", 2272, "Your mother is", "duckbill", "Pronunciation: /\u02c8d\u0259k\u02ccb\u026al/", "Definition: having a beak resembling that of a duck", "Synonyms: duck-billed"]}
+{"data": ["2021-06-07T05:03:16.234725+00:00", 2273, "Your mother is", "unargumentative", "Similar to: noncontentious", "Definition: not given to or characterized by argument", ""]}
