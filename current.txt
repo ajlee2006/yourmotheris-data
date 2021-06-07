@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T18:33:16.225379+00:00", 2354, "Your mother is", "gusty", "Pronunciation: /\u02c8\u0261\u0259sti/", "Definition: blowing in puffs or short intermittent blasts", "Synonyms: puffy"]}
+{"data": ["2021-06-07T18:43:16.298031+00:00", 2355, "Your mother is", "unsuspicious", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8sp\u026a\u0283\u0259s/", "Definition: not suspicious", "Synonyms: unsuspecting"]}
