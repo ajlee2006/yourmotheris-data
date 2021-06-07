@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T01:43:16.060030+00:00", 2253, "Your mother is", "nonsubmergible", "", "Definition: not submersible or submergible", "Synonyms: nonsubmersible"]}
+{"data": ["2021-06-07T01:53:16.760829+00:00", 2254, "Your mother is", "uptight", "Pronunciation: /\u0259p\u02c8ta\u026at/", "Definition: being in a tense state", "Synonyms: edgy, high-strung, highly strung, jittery, jumpy, nervy, overstrung, restive"]}
