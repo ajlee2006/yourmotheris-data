@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T06:13:16.002873+00:00", 2280, "Your mother is", "republican", "Pronunciation: /r\u026a\u02c8p\u0259bl\u026ak\u0259n/", "Definition: having the supreme power lying in the body of citizens entitled to vote for officers and representatives responsible to them or characteristic of such government", ""]}
+{"data": ["2021-06-07T06:23:16.314652+00:00", 2281, "Your mother is", "equidistant", "Pronunciation: /\u02ccikw\u026a\u02c8d\u026ast\u0259nt/", "Definition: the same distance apart at every point", ""]}
