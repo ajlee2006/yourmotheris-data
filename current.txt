@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T15:23:16.083606+00:00", 2335, "Your mother is", "long-snouted", "Similar to: long", "Definition: having a snout that is longer than average", ""]}
+{"data": ["2021-06-07T15:33:16.376290+00:00", 2336, "Your mother is", "non-profit-making", "Pronunciation: /n\u0251n\u02c8pr\u0251f\u026at\u02ccme\u026aki\u014b/", "Definition: not commercially motivated", "Synonyms: nonprofit"]}
