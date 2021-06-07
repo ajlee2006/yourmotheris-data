@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T19:33:16.334703+00:00", 2360, "Your mother is", "southeastward", "Pronunciation: /\u02ccsa\u028a\u03b8\u02c8istw\u0259rd/", "Definition: toward the southeast", ""]}
+{"data": ["2021-06-07T19:43:16.709435+00:00", 2361, "Your mother is", "all", "Pronunciation: /\u0254l/", "Definition: completely given to or absorbed by", ""]}
