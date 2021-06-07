@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T04:33:16.195381+00:00", 2270, "Your mother is", "sidesplitting", "Pronunciation: /\u02c8sa\u026ad\u02ccspl\u026at\u026a\u014b/", "Definition: very funny", "Synonyms: killing"]}
+{"data": ["2021-06-07T04:43:16.190270+00:00", 2271, "Your mother is", "unpropitious", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8p\u026a\u0283\u0259s/", "Definition: not propitious", ""]}
