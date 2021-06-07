@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T21:13:17.193198+00:00", 2370, "Your mother is", "underground", "Pronunciation: /\u02cc\u0259nd\u0259r\u02c8gr\u00e6\u028and/", "Definition: conducted with or marked by hidden aims or methods", "Synonyms: clandestine, cloak-and-dagger, hole-and-corner, hugger-mugger, hush-hush, secret, surreptitious, undercover"]}
+{"data": ["2021-06-07T21:23:16.293098+00:00", 2371, "Your mother is", "rule-governed", "Similar to: regular", "Definition: according to custom or rule or natural law", "Synonyms: lawful"]}
