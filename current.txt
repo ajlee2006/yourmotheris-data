@@ -1,1 +1,1 @@
-{"data": ["2021-06-07T23:17:34.972692+00:00", 2382, "Your mother is", "rosy-purple", "Similar to: chromatic", "Definition: of purple with a rose tinge", "Synonyms: rose-purple"]}
+{"data": ["2021-06-07T23:27:35.019847+00:00", 2383, "Your mother is", "48th", "Similar to: ordinal", "Definition: the ordinal number of forty-eight in counting order", "Synonyms: forty-eighth"]}
