@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T05:37:34.852962+00:00", 2420, "Your mother is", "parvenu", "Pronunciation: /\u02c8p\u0251rv\u0259\u02ccnu/", "Definition: characteristic of someone who has risen economically or socially but lacks the social skills appropriate for this new position", "Synonyms: nouveau-riche, parvenue, upstart"]}
+{"data": ["2021-06-08T05:47:34.956656+00:00", 2421, "Your mother is", "hundred-and-ninetieth", "Similar to: ordinal", "Definition: the ordinal number of one hundred eighty-five in counting order", "Synonyms: 190th"]}
