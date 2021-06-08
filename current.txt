@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T07:37:35.497225+00:00", 2432, "Your mother is", "unlivable", "Pronunciation: /\u0259n\u02c8l\u026av\u0259b\u0259l/", "Definition: unfit or unsuitable to live in or with", "Synonyms: unliveable"]}
+{"data": ["2021-06-08T07:47:34.951033+00:00", 2433, "Your mother is", "blaring", "Pronunciation: /\u02c8bl\u025br\u026a\u014b/", "Definition: unpleasantly loud and penetrating", "Synonyms: blasting"]}
