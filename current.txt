@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T04:27:34.858854+00:00", 2413, "Your mother is", "punk", "Pronunciation: /p\u0259\u014bk/", "Definition: of very poor quality; flimsy", "Synonyms: bum, cheap, cheesy, chintzy, crummy, sleazy, tinny"]}
+{"data": ["2021-06-08T04:37:35.198201+00:00", 2414, "Your mother is", "pantropic", "Pronunciation: /p\u00e6n\u02c8tr\u0251p\u026ak/", "Definition: distributed throughout the tropics", "Synonyms: pantropical"]}
