@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T18:04:45.207422+00:00", 2493, "Your mother is", "spartan", "Pronunciation: /\u02c8sp\u0251rt\u0259n/", "Definition: unsparing and uncompromising in discipline or judgment", "Synonyms: severe"]}
+{"data": ["2021-06-08T18:14:45.246167+00:00", 2494, "Your mother is", "contraclockwise", "Pronunciation: /\u02cck\u0251ntr\u0259\u02c8kl\u0251k\u02ccwa\u026az/", "Definition: in the direction opposite to the rotation of the hands of a clock", "Synonyms: anticlockwise, counterclockwise"]}
