@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T16:54:45.176799+00:00", 2486, "Your mother is", "hebephrenic", "Pronunciation: /\u02cchib\u0259\u02c8fr\u025bn\u026ak/", "Definition: suffering from a form of schizophrenia characterized by foolish mannerisms and senseless laughter along with delusions and regressive behavior", ""]}
+{"data": ["2021-06-08T17:04:45.323187+00:00", 2487, "Your mother is", "sumptuary", "Pronunciation: /\u02c8s\u0259mptj\u028a\u0259ri/", "Definition: regulating or controlling expenditure or personal behavior", ""]}
