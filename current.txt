@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T20:24:45.160372+00:00", 2507, "Your mother is", "ripping", "Pronunciation: /\u02c8r\u026ap\u026a\u014b/", "Definition: very good; of the highest quality", "Synonyms: excellent, fantabulous, first-class, splendid"]}
+{"data": ["2021-06-08T20:34:45.304245+00:00", 2508, "Your mother is", "parabolical", "Pronunciation: /\u02ccp\u00e6r\u0259\u02c8b\u0251l\u026ak\u0259l/", "Definition: having the form of a parabola", "Synonyms: parabolic"]}
