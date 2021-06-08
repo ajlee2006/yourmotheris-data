@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T20:54:45.279431+00:00", 2510, "Your mother is", "noncommercial", "Pronunciation: /\u02c8n\u0251nk\u028c\u02c8m\u025dr\u0283\u028cl/", "Definition: not connected with or engaged in commercial enterprises", ""]}
+{"data": ["2021-06-08T21:04:45.361419+00:00", 2511, "Your mother is", "top-hole", "Pronunciation: /t\u0251p-ho\u028al/", "Definition: excellent; best possible", "Synonyms: top-flight, topping"]}
