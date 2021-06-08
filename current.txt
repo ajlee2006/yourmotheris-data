@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T13:14:45.503486+00:00", 2464, "Your mother is", "astronomical", "Pronunciation: /\u02cc\u00e6str\u0259\u02c8n\u0251m\u026ak\u0259l/", "Definition: inconceivably large", "Synonyms: astronomic, galactic"]}
+{"data": ["2021-06-08T13:24:45.846722+00:00", 2465, "Your mother is", "noneffervescent", "", "Definition: not sparkling", "Synonyms: still"]}
