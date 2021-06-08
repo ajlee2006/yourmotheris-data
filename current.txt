@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T23:36:18.412418+00:00", 2526, "Your mother is", "sorry", "Pronunciation: /\u02c8s\u0251ri/", "Definition: bad; unfortunate", "Synonyms: deplorable, distressing, lamentable, pitiful, sad"]}
+{"data": ["2021-06-08T23:46:18.515040+00:00", 2527, "Your mother is", "obsessed", "Pronunciation: /\u028cb\u02c8s\u025bst/", "Definition: influenced or controlled by a powerful force such as a strong emotion", "Synonyms: possessed"]}
