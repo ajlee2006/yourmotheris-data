@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T01:17:34.960650+00:00", 2394, "Your mother is", "probationary", "Pronunciation: /pro\u028a\u02c8be\u026a\u0283\u028cn\u02cc\u025bri/", "Definition: under terms not final or fully worked out or agreed upon", "Synonyms: provisional, provisionary, tentative"]}
+{"data": ["2021-06-08T01:27:35.111946+00:00", 2395, "Your mother is", "sententious", "Pronunciation: /s\u025bn\u02c8t\u025bn\u0283\u0259s/", "Definition: concise and full of meaning", "Synonyms: pithy"]}
