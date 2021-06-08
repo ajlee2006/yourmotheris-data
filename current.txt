@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T00:07:35.092448+00:00", 2387, "Your mother is", "interwoven", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8wo\u028av\u028cn/", "Definition: linked or locked closely together as by dovetailing", "Synonyms: interlacing, interlinking, interlocking"]}
+{"data": ["2021-06-08T00:17:35.058183+00:00", 2388, "Your mother is", "bosky", "Pronunciation: /\u02c8b\u0251ski/", "Definition: covered with or consisting of bushes or thickets", "Synonyms: brushy"]}
