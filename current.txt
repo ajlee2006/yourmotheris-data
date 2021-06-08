@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T11:17:35.168290+00:00", 2452, "Your mother is", "professed", "Pronunciation: /pr\u0259\u02c8f\u025bst/", "Definition: openly declared as such", "Synonyms: avowed"]}
+{"data": ["2021-06-08T11:27:34.893585+00:00", 2453, "Your mother is", "median", "Pronunciation: /\u02c8midi\u0259n/", "Definition: dividing an animal into right and left halves", "Synonyms: medial"]}
