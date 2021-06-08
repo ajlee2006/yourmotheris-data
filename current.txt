@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T16:24:45.080586+00:00", 2483, "Your mother is", "sorrowing", "Similar to: sorrowful", "Definition: sorrowful through loss or deprivation", "Synonyms: bereaved, bereft, grief-stricken, grieving, mourning"]}
+{"data": ["2021-06-08T16:34:45.117439+00:00", 2484, "Your mother is", "19", "Similar to: cardinal", "Definition: being one more than eighteen", "Synonyms: nineteen, xix"]}
