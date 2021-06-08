@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T08:27:34.855594+00:00", 2437, "Your mother is", "raucous", "Pronunciation: /\u02c8r\u0254k\u0259s/", "Definition: disturbing the public peace; loud and rough", "Synonyms: rowdy"]}
+{"data": ["2021-06-08T08:37:34.784569+00:00", 2438, "Your mother is", "hip", "Pronunciation: /h\u026ap/", "Definition: informed about the latest trends", "Synonyms: hep, hip to"]}
