@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T21:26:18.504151+00:00", 2513, "Your mother is", "low-pressure", "Pronunciation: /\u02c8lo\u028a\u02c8pr\u025b\u0283\u0259r/", "Definition: not forceful", ""]}
+{"data": ["2021-06-08T21:36:18.309890+00:00", 2514, "Your mother is", "lateral", "Pronunciation: /\u02c8l\u00e6t\u0259r\u0259l/", "Definition: situated at or extending to the side", "Synonyms: sidelong"]}
