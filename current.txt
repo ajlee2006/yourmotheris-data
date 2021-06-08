@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T00:37:35.419255+00:00", 2390, "Your mother is", "destroyable", "Similar to: destructible", "Definition: capable of being destroyed", ""]}
+{"data": ["2021-06-08T00:47:34.869938+00:00", 2391, "Your mother is", "new-sprung", "Pronunciation: /nu-spr\u0259\u014b/", "Definition: having just or recently arisen or come into existence", "Synonyms: newborn"]}
