@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T04:57:34.816150+00:00", 2416, "Your mother is", "affine", "Pronunciation: /\u00e6\u02c8fa\u026an/", "Definition: (anthropology) related by marriage", "Synonyms: affinal"]}
+{"data": ["2021-06-08T05:07:34.801727+00:00", 2417, "Your mother is", "centrical", "Similar to: central", "Definition: having or situated at or near a center", "Synonyms: centric"]}
