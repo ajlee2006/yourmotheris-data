@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T22:46:18.356660+00:00", 2521, "Your mother is", "protean", "Pronunciation: /\u02c8pro\u028ati\u0259n/", "Definition: taking on different forms", ""]}
+{"data": ["2021-06-08T22:56:18.329706+00:00", 2522, "Your mother is", "taciturn", "Pronunciation: /\u02c8t\u00e6s\u026a\u02cct\u025crn/", "Definition: habitually reserved and uncommunicative", ""]}
