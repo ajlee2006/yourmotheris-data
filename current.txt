@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T01:27:35.111946+00:00", 2395, "Your mother is", "sententious", "Pronunciation: /s\u025bn\u02c8t\u025bn\u0283\u0259s/", "Definition: concise and full of meaning", "Synonyms: pithy"]}
+{"data": ["2021-06-08T01:37:35.374258+00:00", 2396, "Your mother is", "inimical", "Pronunciation: /\u026a\u02c8n\u026am\u026ak\u0259l/", "Definition: not friendly", "Synonyms: unfriendly"]}
