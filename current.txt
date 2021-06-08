@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T09:07:34.803273+00:00", 2441, "Your mother is", "toxicant", "Similar to: toxic", "Definition: having the qualities or effects of a poison", "Synonyms: poisonous"]}
+{"data": ["2021-06-08T09:17:35.396670+00:00", 2442, "Your mother is", "flaccid", "Pronunciation: /\u02c8fl\u00e6ks\u026ad/", "Definition: out of condition; not strong or robust; incapable of exertion or endurance", "Synonyms: flabby, soft"]}
