@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T12:17:34.987242+00:00", 2458, "Your mother is", "pancake-style", "Similar to: cooked", "Definition: cooked as pancakes are cooked", ""]}
+{"data": ["2021-06-08T12:27:35.443910+00:00", 2459, "Your mother is", "unlifelike", "Similar to: artificial", "Definition: without substance", "Synonyms: cardboard"]}
