@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T12:07:34.815285+00:00", 2457, "Your mother is", "manichaean", "", "Definition: of or relating to the philosophical doctrine of dualism", "Synonyms: dualistic"]}
+{"data": ["2021-06-08T12:17:34.987242+00:00", 2458, "Your mother is", "pancake-style", "Similar to: cooked", "Definition: cooked as pancakes are cooked", ""]}
