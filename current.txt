@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T16:34:45.117439+00:00", 2484, "Your mother is", "19", "Similar to: cardinal", "Definition: being one more than eighteen", "Synonyms: nineteen, xix"]}
+{"data": ["2021-06-08T16:44:45.112852+00:00", 2485, "Your mother is", "decimal", "Pronunciation: /\u02c8d\u025bs\u0259m\u0259l/", "Definition: numbered or proceeding by tens; based on ten", "Synonyms: denary"]}
