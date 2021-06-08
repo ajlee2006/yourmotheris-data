@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T10:47:35.087956+00:00", 2449, "Your mother is", "powerless", "Pronunciation: /\u02c8pa\u028a\u0259rl\u026as/", "Definition: lacking power", ""]}
+{"data": ["2021-06-08T10:57:35.407532+00:00", 2450, "Your mother is", "fanciful", "Pronunciation: /\u02c8f\u00e6ns\u026af\u0259l/", "Definition: indulging in or influenced by fancy", "Synonyms: notional"]}
