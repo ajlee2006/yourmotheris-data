@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T09:47:35.069871+00:00", 2445, "Your mother is", "crackle", "Pronunciation: /\u02c8kr\u00e6k\u0259l/", "Definition: having the surface decorated with a network of fine cracks, as in crackleware", ""]}
+{"data": ["2021-06-08T09:57:34.840488+00:00", 2446, "Your mother is", "parturient", "Pronunciation: /p\u0251r\u02c8t\u028ari\u0259nt/", "Definition: giving birth", ""]}
