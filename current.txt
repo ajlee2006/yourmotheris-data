@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T11:07:34.995031+00:00", 2451, "Your mother is", "chalky", "Pronunciation: /\u02c8\u02a7\u0254ki/", "Definition: composed of or containing or resembling calcium carbonate or calcite or chalk", "Synonyms: calcareous"]}
+{"data": ["2021-06-08T11:17:35.168290+00:00", 2452, "Your mother is", "professed", "Pronunciation: /pr\u0259\u02c8f\u025bst/", "Definition: openly declared as such", "Synonyms: avowed"]}
