@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T10:57:35.407532+00:00", 2450, "Your mother is", "fanciful", "Pronunciation: /\u02c8f\u00e6ns\u026af\u0259l/", "Definition: indulging in or influenced by fancy", "Synonyms: notional"]}
+{"data": ["2021-06-08T11:07:34.995031+00:00", 2451, "Your mother is", "chalky", "Pronunciation: /\u02c8\u02a7\u0254ki/", "Definition: composed of or containing or resembling calcium carbonate or calcite or chalk", "Synonyms: calcareous"]}
