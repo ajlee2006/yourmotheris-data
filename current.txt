@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T13:04:45.287877+00:00", 2463, "Your mother is", "leafy", "Pronunciation: /\u02c8lifi/", "Definition: having or covered with leaves", ""]}
+{"data": ["2021-06-08T13:14:45.503486+00:00", 2464, "Your mother is", "astronomical", "Pronunciation: /\u02cc\u00e6str\u0259\u02c8n\u0251m\u026ak\u0259l/", "Definition: inconceivably large", "Synonyms: astronomic, galactic"]}
