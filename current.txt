@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T18:54:45.162609+00:00", 2498, "Your mother is", "genic", "Pronunciation: /\u02c8d\u0292\u025bn\u026ak/", "Definition: of or relating to or produced by or being a gene", "Synonyms: genetic, genetical"]}
+{"data": ["2021-06-08T19:04:45.375261+00:00", 2499, "Your mother is", "biographical", "Pronunciation: /\u02ccba\u026a\u0259\u02c8gr\u00e6f\u026ak\u0259l/", "Definition: of or relating to or being biography", "Synonyms: biographic"]}
