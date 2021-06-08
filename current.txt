@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T02:37:34.816232+00:00", 2402, "Your mother is", "hebdomadal", "Pronunciation: /h\u025bb\u02c8d\u0251m\u0259d\u0259l/", "Definition: of or occurring every seven days", "Synonyms: hebdomadary, weekly"]}
+{"data": ["2021-06-08T02:47:34.805105+00:00", 2403, "Your mother is", "prix fixe", "Pronunciation: /\u02c8pri-\u02c8f\u026aks/", "Definition: (of a restaurant meal) complete but with limited choices and at a fixed price", "Synonyms: table d'hote"]}
