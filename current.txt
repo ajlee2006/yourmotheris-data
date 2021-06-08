@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T03:57:34.855462+00:00", 2410, "Your mother is", "distant", "Pronunciation: /\u02c8d\u026ast\u0259nt/", "Definition: far apart in relevance or relationship or kinship", "Synonyms: remote"]}
+{"data": ["2021-06-08T04:07:34.889214+00:00", 2411, "Your mother is", "coseismic", "Similar to: unstable", "Definition: being where earthquake waves arrive simultaneously", "Synonyms: coseismal"]}
