@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T12:44:45.355874+00:00", 2461, "Your mother is", "geniculate", "Pronunciation: /d\u0292\u0259\u02c8n\u026akj\u0259l\u026at/", "Definition: bent at a sharp angle", ""]}
+{"data": ["2021-06-08T12:54:45.151486+00:00", 2462, "Your mother is", "cubist", "Pronunciation: /\u02c8kjub\u026ast/", "Definition: relating to or characteristic of cubism", "Synonyms: cubistic"]}
