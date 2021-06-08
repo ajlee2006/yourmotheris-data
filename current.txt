@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T17:14:45.231453+00:00", 2488, "Your mother is", "hemimetamorphous", "Similar to: metamorphic", "Definition: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult", "Synonyms: hemimetabolic, hemimetabolous, hemimetamorphic"]}
+{"data": ["2021-06-08T17:24:45.271201+00:00", 2489, "Your mother is", "21", "Similar to: cardinal", "Definition: being one more than twenty", "Synonyms: twenty-one, xxi"]}
