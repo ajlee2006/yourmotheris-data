@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T15:04:45.094579+00:00", 2475, "Your mother is", "palatable", "Pronunciation: /\u02c8p\u00e6l\u0259t\u0259b\u0259l/", "Definition: acceptable to the taste or mind", "Synonyms: toothsome"]}
+{"data": ["2021-06-08T15:14:45.208327+00:00", 2476, "Your mother is", "favourite", "Pronunciation: /\u02c8fe\u026av\u0259r\u026at/", "Definition: preferred above all others and treated with partiality", "Synonyms: best-loved, favored, favorite, pet, preferent, preferred"]}
