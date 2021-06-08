@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T20:34:45.304245+00:00", 2508, "Your mother is", "parabolical", "Pronunciation: /\u02ccp\u00e6r\u0259\u02c8b\u0251l\u026ak\u0259l/", "Definition: having the form of a parabola", "Synonyms: parabolic"]}
+{"data": ["2021-06-08T20:44:45.352661+00:00", 2509, "Your mother is", "dissatisfactory", "Pronunciation: /\u02ccd\u026ass\u00e6t\u026as\u02c8f\u00e6kt\u0259ri/", "Definition: not up to expectations", "Synonyms: disappointing, unsatisfying"]}
