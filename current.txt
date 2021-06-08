@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T04:47:34.874022+00:00", 2415, "Your mother is", "propaedeutic", "Pronunciation: /\u02ccpro\u028ap\u026a\u02c8dut\u026ak/", "Definition: preceding and preparing for something", "Synonyms: preparative, preparatory"]}
+{"data": ["2021-06-08T04:57:34.816150+00:00", 2416, "Your mother is", "affine", "Pronunciation: /\u00e6\u02c8fa\u026an/", "Definition: (anthropology) related by marriage", "Synonyms: affinal"]}
