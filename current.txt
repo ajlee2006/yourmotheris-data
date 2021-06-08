@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T11:57:34.966794+00:00", 2456, "Your mother is", "thirty-three", "Pronunciation: /\u02c8\u03b8\u025crti-\u02c8\u03b8ri/", "Definition: being three more than thirty", "Synonyms: 33, xxxiii"]}
+{"data": ["2021-06-08T12:07:34.815285+00:00", 2457, "Your mother is", "manichaean", "", "Definition: of or relating to the philosophical doctrine of dualism", "Synonyms: dualistic"]}
