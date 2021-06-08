@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T10:17:35.552041+00:00", 2447, "Your mother is", "hypercritical", "Pronunciation: /\u02ccha\u026ap\u0259r\u02c8kr\u026at\u026ak\u0259l/", "Definition: inclined to judge too severely", "Synonyms: overcritical"]}
+{"data": ["2021-06-08T10:37:35.092313+00:00", 2448, "Your mother is", "abulic", "Similar to: neurotic", "Definition: suffering from abulia; showing abnormal inability to act or make decisions", "Synonyms: aboulic"]}
