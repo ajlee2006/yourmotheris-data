@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T06:17:34.940435+00:00", 2424, "Your mother is", "uncut", "Pronunciation: /\u0259n\u02c8k\u0259t/", "Definition: complete", "Synonyms: full-length"]}
+{"data": ["2021-06-08T06:27:34.826532+00:00", 2425, "Your mother is", "pinkish-white", "Similar to: achromatic", "Definition: of white tinged with pink", ""]}
