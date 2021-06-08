@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T20:44:45.352661+00:00", 2509, "Your mother is", "dissatisfactory", "Pronunciation: /\u02ccd\u026ass\u00e6t\u026as\u02c8f\u00e6kt\u0259ri/", "Definition: not up to expectations", "Synonyms: disappointing, unsatisfying"]}
+{"data": ["2021-06-08T20:54:45.279431+00:00", 2510, "Your mother is", "noncommercial", "Pronunciation: /\u02c8n\u0251nk\u028c\u02c8m\u025dr\u0283\u028cl/", "Definition: not connected with or engaged in commercial enterprises", ""]}
