@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T23:16:18.316109+00:00", 2524, "Your mother is", "timid", "Pronunciation: /\u02c8t\u026am\u026ad/", "Definition: lacking conviction or boldness or courage", "Synonyms: faint, faint-hearted, fainthearted"]}
+{"data": ["2021-06-08T23:26:18.343141+00:00", 2525, "Your mother is", "corrosive", "Pronunciation: /k\u0259\u02c8ro\u028as\u026av/", "Definition: of a substance, especially a strong acid; capable of destroying or eating away by chemical action", "Synonyms: caustic, erosive, mordant, vitriolic"]}
