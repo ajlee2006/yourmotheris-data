@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T03:17:34.873658+00:00", 2406, "Your mother is", "pessimistic", "Pronunciation: /\u02ccp\u025bs\u028c\u02c8m\u026ast\u026ak/", "Definition: expecting the worst possible outcome", ""]}
+{"data": ["2021-06-08T03:27:34.902916+00:00", 2407, "Your mother is", "scandalous", "Pronunciation: /\u02c8sk\u00e6nd\u028cl\u028cs/", "Definition: giving offense to moral sensibilities and injurious to reputation", "Synonyms: disgraceful, shameful, shocking"]}
