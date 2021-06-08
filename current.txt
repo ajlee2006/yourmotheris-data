@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T14:54:45.335314+00:00", 2474, "Your mother is", "acquired", "Pronunciation: /\u028c\u02c8kwa\u026a\u025drd/", "Definition: gotten through environmental forces", ""]}
+{"data": ["2021-06-08T15:04:45.094579+00:00", 2475, "Your mother is", "palatable", "Pronunciation: /\u02c8p\u00e6l\u0259t\u0259b\u0259l/", "Definition: acceptable to the taste or mind", "Synonyms: toothsome"]}
