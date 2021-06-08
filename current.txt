@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T15:54:45.253828+00:00", 2480, "Your mother is", "avant-garde", "Pronunciation: /\u0259\u02ccv\u0251nt\u02c8\u0261\u0251rd/", "Definition: radically new or original", "Synonyms: daring"]}
+{"data": ["2021-06-08T16:04:45.273568+00:00", 2481, "Your mother is", "inventive", "Pronunciation: /\u026an\u02c8v\u025bnt\u026av/", "Definition: (used of persons or artifacts) marked by independence and creativity in thought or action", "Synonyms: imaginative"]}
