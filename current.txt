@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T19:14:45.313495+00:00", 2500, "Your mother is", "thirty-three", "Pronunciation: /\u02c8\u03b8\u025crti-\u02c8\u03b8ri/", "Definition: being three more than thirty", "Synonyms: 33, xxxiii"]}
+{"data": ["2021-06-08T19:24:45.338138+00:00", 2501, "Your mother is", "subgross", "Similar to: seeable", "Definition: too small to be visible to the naked eye", ""]}
