@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T12:37:34.868020+00:00", 2460, "Your mother is", "confounding", "Pronunciation: /k\u028cn\u02c8fa\u028and\u026a\u014b/", "Definition: that confounds or contradicts or confuses", "Synonyms: contradictory"]}
+{"data": ["2021-06-08T12:44:45.355874+00:00", 2461, "Your mother is", "geniculate", "Pronunciation: /d\u0292\u0259\u02c8n\u026akj\u0259l\u026at/", "Definition: bent at a sharp angle", ""]}
