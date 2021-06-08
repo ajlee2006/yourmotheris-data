@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T00:47:34.869938+00:00", 2391, "Your mother is", "new-sprung", "Pronunciation: /nu-spr\u0259\u014b/", "Definition: having just or recently arisen or come into existence", "Synonyms: newborn"]}
+{"data": ["2021-06-08T00:57:34.803672+00:00", 2392, "Your mother is", "retrospective", "Pronunciation: /\u02ccr\u025btr\u0259\u02c8sp\u025bkt\u026av/", "Definition: concerned with or related to the past", ""]}
