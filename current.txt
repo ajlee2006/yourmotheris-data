@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T22:16:18.413304+00:00", 2518, "Your mother is", "subject", "Pronunciation: /s\u0259b\u02c8d\u0292\u025bkt/", "Definition: possibly accepting or permitting", "Synonyms: capable, open"]}
+{"data": ["2021-06-08T22:26:18.451715+00:00", 2519, "Your mother is", "purplish-brown", "Similar to: chromatic", "Definition: of brown tinged with purple", "Synonyms: purple-brown"]}
