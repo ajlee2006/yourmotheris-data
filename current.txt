@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T00:27:35.508968+00:00", 2389, "Your mother is", "two-lane", "Similar to: multilane", "Definition: having a lane for traffic in each direction", ""]}
+{"data": ["2021-06-08T00:37:35.419255+00:00", 2390, "Your mother is", "destroyable", "Similar to: destructible", "Definition: capable of being destroyed", ""]}
