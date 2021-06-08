@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T01:57:34.881974+00:00", 2398, "Your mother is", "apheretic", "Pronunciation: /\u02cc\u00e6f\u0259\u02c8r\u025bt\u026ak/", "Definition: relating to or formed by or consisting of aphaeresis", "Synonyms: aphaeretic"]}
+{"data": ["2021-06-08T02:07:34.873156+00:00", 2399, "Your mother is", "moist", "Pronunciation: /m\u0254\u026ast/", "Definition: slightly wet", "Synonyms: damp, dampish"]}
