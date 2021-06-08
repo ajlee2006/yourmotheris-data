@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T11:37:35.042528+00:00", 2454, "Your mother is", "carnassial", "Pronunciation: /k\u0251r\u02c8n\u00e6si\u0259l/", "Definition: (of a tooth) adapted for shearing flesh", ""]}
+{"data": ["2021-06-08T11:47:34.987757+00:00", 2455, "Your mother is", "lead-free", "Pronunciation: /l\u025bd-fri/", "Definition: (of gasoline) not containing tetraethyl lead", "Synonyms: nonleaded"]}
