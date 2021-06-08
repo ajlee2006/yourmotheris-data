@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T17:04:45.323187+00:00", 2487, "Your mother is", "sumptuary", "Pronunciation: /\u02c8s\u0259mptj\u028a\u0259ri/", "Definition: regulating or controlling expenditure or personal behavior", ""]}
+{"data": ["2021-06-08T17:14:45.231453+00:00", 2488, "Your mother is", "hemimetamorphous", "Similar to: metamorphic", "Definition: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult", "Synonyms: hemimetabolic, hemimetabolous, hemimetamorphic"]}
