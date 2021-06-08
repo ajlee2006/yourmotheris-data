@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T16:44:45.112852+00:00", 2485, "Your mother is", "decimal", "Pronunciation: /\u02c8d\u025bs\u0259m\u0259l/", "Definition: numbered or proceeding by tens; based on ten", "Synonyms: denary"]}
+{"data": ["2021-06-08T16:54:45.176799+00:00", 2486, "Your mother is", "hebephrenic", "Pronunciation: /\u02cchib\u0259\u02c8fr\u025bn\u026ak/", "Definition: suffering from a form of schizophrenia characterized by foolish mannerisms and senseless laughter along with delusions and regressive behavior", ""]}
