@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T08:17:35.607670+00:00", 2436, "Your mother is", "unanalyzed", "Similar to: crude", "Definition: not analyzed or broken down for detailed examination", ""]}
+{"data": ["2021-06-08T08:27:34.855594+00:00", 2437, "Your mother is", "raucous", "Pronunciation: /\u02c8r\u0254k\u0259s/", "Definition: disturbing the public peace; loud and rough", "Synonyms: rowdy"]}
