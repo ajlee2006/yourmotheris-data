@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T08:07:35.445956+00:00", 2435, "Your mother is", "nubby", "Similar to: rough", "Definition: of textiles; having a rough surface", "Synonyms: homespun, nubbly, slubbed, tweedy"]}
+{"data": ["2021-06-08T08:17:35.607670+00:00", 2436, "Your mother is", "unanalyzed", "Similar to: crude", "Definition: not analyzed or broken down for detailed examination", ""]}
