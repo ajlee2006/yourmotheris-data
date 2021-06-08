@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T09:37:34.902302+00:00", 2444, "Your mother is", "developed", "Pronunciation: /d\u026a\u02c8v\u025bl\u028cpt/", "Definition: (used of societies) having high industrial development", "Synonyms: highly-developed"]}
+{"data": ["2021-06-08T09:47:35.069871+00:00", 2445, "Your mother is", "crackle", "Pronunciation: /\u02c8kr\u00e6k\u0259l/", "Definition: having the surface decorated with a network of fine cracks, as in crackleware", ""]}
