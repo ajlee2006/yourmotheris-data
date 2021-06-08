@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T16:14:45.085308+00:00", 2482, "Your mother is", "prickly-leafed", "Similar to: leafy", "Definition: having prickly leaves", "Synonyms: prickly-leaved"]}
+{"data": ["2021-06-08T16:24:45.080586+00:00", 2483, "Your mother is", "sorrowing", "Similar to: sorrowful", "Definition: sorrowful through loss or deprivation", "Synonyms: bereaved, bereft, grief-stricken, grieving, mourning"]}
