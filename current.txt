@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T01:47:34.905051+00:00", 2397, "Your mother is", "doctoral", "Pronunciation: /\u02c8d\u0251kt\u0259r\u0259l/", "Definition: of or relating to a doctor or doctorate", "Synonyms: doctorial"]}
+{"data": ["2021-06-08T01:57:34.881974+00:00", 2398, "Your mother is", "apheretic", "Pronunciation: /\u02cc\u00e6f\u0259\u02c8r\u025bt\u026ak/", "Definition: relating to or formed by or consisting of aphaeresis", "Synonyms: aphaeretic"]}
