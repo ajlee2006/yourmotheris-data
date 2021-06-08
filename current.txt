@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T21:14:45.350109+00:00", 2512, "Your mother is", "knowing", "Pronunciation: /\u02c8no\u028a\u026a\u014b/", "Definition: characterized by conscious design or purpose", "Synonyms: deliberate, intentional"]}
+{"data": ["2021-06-08T21:26:18.504151+00:00", 2513, "Your mother is", "low-pressure", "Pronunciation: /\u02c8lo\u028a\u02c8pr\u025b\u0283\u0259r/", "Definition: not forceful", ""]}
