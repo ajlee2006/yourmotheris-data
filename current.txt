@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T00:17:35.058183+00:00", 2388, "Your mother is", "bosky", "Pronunciation: /\u02c8b\u0251ski/", "Definition: covered with or consisting of bushes or thickets", "Synonyms: brushy"]}
+{"data": ["2021-06-08T00:27:35.508968+00:00", 2389, "Your mother is", "two-lane", "Similar to: multilane", "Definition: having a lane for traffic in each direction", ""]}
