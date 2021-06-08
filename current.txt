@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T17:34:45.306888+00:00", 2490, "Your mother is", "violet-blue", "Pronunciation: /\u02c8va\u026a\u0259l\u026at-blu/", "Definition: of blue tinged with lavender", "Synonyms: lilac-blue"]}
+{"data": ["2021-06-08T17:44:45.414971+00:00", 2491, "Your mother is", "xxxvi", "Similar to: cardinal", "Definition: being six more than thirty", "Synonyms: 36, thirty-six"]}
