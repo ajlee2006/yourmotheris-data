@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T15:34:45.111736+00:00", 2478, "Your mother is", "parallel", "Pronunciation: /\u02c8p\u00e6r\u0259\u02ccl\u025bl/", "Definition: being everywhere equidistant and not intersecting", ""]}
+{"data": ["2021-06-08T15:44:45.485965+00:00", 2479, "Your mother is", "tenuous", "Pronunciation: /\u02c8t\u025bnju\u0259s/", "Definition: lacking substance or significance", "Synonyms: flimsy, fragile, slight, thin"]}
