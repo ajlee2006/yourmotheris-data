@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T18:44:45.420567+00:00", 2497, "Your mother is", "slaked", "Similar to: mitigated", "Definition: allayed", "Synonyms: quenched, satisfied"]}
+{"data": ["2021-06-08T18:54:45.162609+00:00", 2498, "Your mother is", "genic", "Pronunciation: /\u02c8d\u0292\u025bn\u026ak/", "Definition: of or relating to or produced by or being a gene", "Synonyms: genetic, genetical"]}
