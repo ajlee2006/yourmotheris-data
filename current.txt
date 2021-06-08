@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T07:47:34.951033+00:00", 2433, "Your mother is", "blaring", "Pronunciation: /\u02c8bl\u025br\u026a\u014b/", "Definition: unpleasantly loud and penetrating", "Synonyms: blasting"]}
+{"data": ["2021-06-08T07:57:34.942192+00:00", 2434, "Your mother is", "curvy", "Pronunciation: /\u02c8k\u025crvi/", "Definition: having curves", "Synonyms: curvey"]}
