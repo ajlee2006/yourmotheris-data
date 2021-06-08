@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T02:07:34.873156+00:00", 2399, "Your mother is", "moist", "Pronunciation: /m\u0254\u026ast/", "Definition: slightly wet", "Synonyms: damp, dampish"]}
+{"data": ["2021-06-08T02:17:34.832971+00:00", 2400, "Your mother is", "public-spirited", "Pronunciation: /\u02c8p\u0259bl\u026ak-\u02c8sp\u026ar\u026at\u026ad/", "Definition: showing unselfish interest in the public welfare", ""]}
