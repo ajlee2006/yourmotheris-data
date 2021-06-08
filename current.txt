@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T14:34:45.363890+00:00", 2472, "Your mother is", "close", "Pronunciation: /klo\u028as/", "Definition: not far distant in time or space or degree or circumstances", "Synonyms: near, nigh"]}
+{"data": ["2021-06-08T14:44:45.326069+00:00", 2473, "Your mother is", "seaward", "Pronunciation: /\u02c8siw\u0259rd/", "Definition: (of winds) coming from the land", "Synonyms: offshore"]}
