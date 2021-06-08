@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T09:57:34.840488+00:00", 2446, "Your mother is", "parturient", "Pronunciation: /p\u0251r\u02c8t\u028ari\u0259nt/", "Definition: giving birth", ""]}
+{"data": ["2021-06-08T10:17:35.552041+00:00", 2447, "Your mother is", "hypercritical", "Pronunciation: /\u02ccha\u026ap\u0259r\u02c8kr\u026at\u026ak\u0259l/", "Definition: inclined to judge too severely", "Synonyms: overcritical"]}
