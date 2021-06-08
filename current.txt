@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T14:24:45.247707+00:00", 2471, "Your mother is", "rushy", "Pronunciation: /\u02c8r\u0259\u0283i/", "Definition: abounding in rushes", ""]}
+{"data": ["2021-06-08T14:34:45.363890+00:00", 2472, "Your mother is", "close", "Pronunciation: /klo\u028as/", "Definition: not far distant in time or space or degree or circumstances", "Synonyms: near, nigh"]}
