@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T21:46:18.438587+00:00", 2515, "Your mother is", "lowbred", "Pronunciation: /\u02c8lo\u028a\u02c8br\u025bd/", "Definition: (of persons) lacking in refinement or grace", "Synonyms: bounderish, ill-bred, rude, underbred, yokelish"]}
+{"data": ["2021-06-08T21:56:18.395610+00:00", 2516, "Your mother is", "convulsive", "Pronunciation: /k\u0259n\u02c8v\u0259ls\u026av/", "Definition: affected by involuntary jerky muscular contractions; resembling a spasm", "Synonyms: spasmodic, spastic"]}
