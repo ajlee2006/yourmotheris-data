@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T11:47:34.987757+00:00", 2455, "Your mother is", "lead-free", "Pronunciation: /l\u025bd-fri/", "Definition: (of gasoline) not containing tetraethyl lead", "Synonyms: nonleaded"]}
+{"data": ["2021-06-08T11:57:34.966794+00:00", 2456, "Your mother is", "thirty-three", "Pronunciation: /\u02c8\u03b8\u025crti-\u02c8\u03b8ri/", "Definition: being three more than thirty", "Synonyms: 33, xxxiii"]}
