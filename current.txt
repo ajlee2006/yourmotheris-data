@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T13:24:45.846722+00:00", 2465, "Your mother is", "noneffervescent", "", "Definition: not sparkling", "Synonyms: still"]}
+{"data": ["2021-06-08T13:34:45.206839+00:00", 2466, "Your mother is", "photosensitive", "Pronunciation: /\u02ccfo\u028ato\u028a\u02c8s\u025bns\u026at\u026av/", "Definition: sensitive to visible light", "Synonyms: light-sensitive"]}
