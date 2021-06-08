@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T19:44:45.309662+00:00", 2503, "Your mother is", "incompetent", "Pronunciation: /\u026an\u02c8k\u0251mp\u026at\u0259nt/", "Definition: legally not qualified or sufficient", "Synonyms: unqualified"]}
+{"data": ["2021-06-08T19:54:45.412586+00:00", 2504, "Your mother is", "strong", "Pronunciation: /str\u0254\u014b/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, inviolable, secure, unassailable, unattackable"]}
