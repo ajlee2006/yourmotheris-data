@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T06:07:35.392037+00:00", 2423, "Your mother is", "blooming", "Pronunciation: /\u02c8blum\u026a\u014b/", "Definition: informal intensifiers", "Synonyms: bally, blinking, bloody, crashing, flaming, fucking"]}
+{"data": ["2021-06-08T06:17:34.940435+00:00", 2424, "Your mother is", "uncut", "Pronunciation: /\u0259n\u02c8k\u0259t/", "Definition: complete", "Synonyms: full-length"]}
