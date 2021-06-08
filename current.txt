@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T00:57:34.803672+00:00", 2392, "Your mother is", "retrospective", "Pronunciation: /\u02ccr\u025btr\u0259\u02c8sp\u025bkt\u026av/", "Definition: concerned with or related to the past", ""]}
+{"data": ["2021-06-08T01:07:35.059818+00:00", 2393, "Your mother is", "180th", "Similar to: ordinal", "Definition: the ordinal number of one hundred eighty in counting order", "Synonyms: hundred-and-eightieth"]}
