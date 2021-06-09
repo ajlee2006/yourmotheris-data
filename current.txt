@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T07:07:01.585594+00:00", 2571, "Your mother is", "unappealing", "Pronunciation: /\u02cc\u028cn\u028c\u02c8pil\u026a\u014b/", "Definition: (of characters in literature or drama) tending to evoke antipathetic feelings", "Synonyms: unlikable, unlikeable, unsympathetic"]}
+{"data": ["2021-06-09T07:17:01.504758+00:00", 2572, "Your mother is", "unsoluble", "Similar to: insoluble", "Definition: not easily solved", "Synonyms: insolvable, unresolvable, unsolvable"]}
