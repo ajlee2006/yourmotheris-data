@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T05:17:01.477707+00:00", 2560, "Your mother is", "aboriginal", "Pronunciation: /\u02cc\u00e6b\u0259\u02c8r\u026ad\u0292\u0259n\u0259l/", "Definition: characteristic of or relating to people inhabiting a region from the beginning", "Synonyms: native"]}
+{"data": ["2021-06-09T05:27:01.586808+00:00", 2561, "Your mother is", "lxxii", "Similar to: cardinal", "Definition: being two more than seventy", "Synonyms: 72, seventy-two"]}
