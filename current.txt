@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T14:47:01.631696+00:00", 2617, "Your mother is", "fearsome", "Pronunciation: /\u02c8firs\u0259m/", "Definition: causing fear or dread or terror", "Synonyms: awful, dire, direful, dread, dreaded, dreadful, fearful, frightening, horrendous, horrific, terrible"]}
+{"data": ["2021-06-09T14:57:02.216107+00:00", 2618, "Your mother is", "hideous", "Pronunciation: /\u02c8h\u026adi\u0259s/", "Definition: so extremely ugly as to be terrifying", "Synonyms: repulsive"]}
