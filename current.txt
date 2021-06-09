@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T08:57:01.579336+00:00", 2582, "Your mother is", "codified", "Pronunciation: /\u02c8k\u0251d\u028c\u02ccfa\u026ad/", "Definition: enacted by a legislative body", "Synonyms: statute"]}
+{"data": ["2021-06-09T09:07:01.667939+00:00", 2583, "Your mother is", "vocal", "Pronunciation: /\u02c8vo\u028ak\u00e6l/", "Definition: given to expressing yourself freely or insistently", "Synonyms: outspoken"]}
