@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T22:37:01.531099+00:00", 2664, "Your mother is", "chagrined", "Pronunciation: /\u0283\u028c\u02c8\u0261r\u026and/", "Definition: feeling or caused to feel ill at ease or self-conscious or ashamed", "Synonyms: abashed, embarrassed"]}
+{"data": ["2021-06-09T22:47:01.609048+00:00", 2665, "Your mother is", "sophistical", "Pronunciation: /s\u0259\u02c8f\u026ast\u026ak\u0259l/", "Definition: plausible but misleading", "Synonyms: sophistic"]}
