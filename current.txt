@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T04:17:01.633477+00:00", 2554, "Your mother is", "bobtail", "Pronunciation: /\u02c8b\u0251b\u02ccte\u026al/", "Definition: having a short or shortened tail", "Synonyms: bobtailed"]}
+{"data": ["2021-06-09T04:27:01.635350+00:00", 2555, "Your mother is", "seasick", "Pronunciation: /\u02c8sis\u026ak/", "Definition: experiencing motion sickness", "Synonyms: air sick, airsick, carsick"]}
