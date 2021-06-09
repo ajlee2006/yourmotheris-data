@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T12:27:01.598904+00:00", 2603, "Your mother is", "sorted", "Pronunciation: /\u02c8s\u0254rt\u026ad/", "Definition: arranged into groups", "Synonyms: grouped"]}
+{"data": ["2021-06-09T12:37:01.578642+00:00", 2604, "Your mother is", "undogmatic", "Similar to: broad-minded", "Definition: unwilling to accept authority or dogma (especially in religion)", "Synonyms: free-thinking, latitudinarian, undogmatical"]}
