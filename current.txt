@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T05:57:01.550989+00:00", 2564, "Your mother is", "unfit", "Pronunciation: /\u0259n\u02c8f\u026at/", "Definition: physically unsound or diseased", "Synonyms: bad, unsound"]}
+{"data": ["2021-06-09T06:07:01.530705+00:00", 2565, "Your mother is", "fundamental", "Pronunciation: /\u02ccf\u0259nd\u0259\u02c8m\u025bnt\u0259l/", "Definition: far-reaching and thoroughgoing in effect especially on the nature of something", "Synonyms: profound"]}
