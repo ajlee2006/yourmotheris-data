@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T05:47:01.709129+00:00", 2563, "Your mother is", "harmful", "Pronunciation: /\u02c8h\u0251rmf\u0259l/", "Definition: causing or capable of causing harm", ""]}
+{"data": ["2021-06-09T05:57:01.550989+00:00", 2564, "Your mother is", "unfit", "Pronunciation: /\u0259n\u02c8f\u026at/", "Definition: physically unsound or diseased", "Synonyms: bad, unsound"]}
