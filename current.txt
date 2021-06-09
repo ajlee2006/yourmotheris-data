@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T04:07:01.873679+00:00", 2553, "Your mother is", "phenotypic", "Pronunciation: /\u02ccfin\u0259\u02c8t\u026ap\u026ak/", "Definition: of or relating to or constituting a phenotype", "Synonyms: phenotypical"]}
+{"data": ["2021-06-09T04:17:01.633477+00:00", 2554, "Your mother is", "bobtail", "Pronunciation: /\u02c8b\u0251b\u02ccte\u026al/", "Definition: having a short or shortened tail", "Synonyms: bobtailed"]}
