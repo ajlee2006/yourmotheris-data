@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T20:07:01.591726+00:00", 2649, "Your mother is", "amoebous", "", "Definition: pertaining to or resembling amoebae", "Synonyms: ameban, amebic, amebous, amoeban, amoebic"]}
+{"data": ["2021-06-09T20:17:02.047005+00:00", 2650, "Your mother is", "proactive", "Pronunciation: /pro\u028a\u02c8\u00e6kt\u026av/", "Definition: descriptive of any event or stimulus or process that has an effect on events or stimuli or processes that occur subsequently", ""]}
