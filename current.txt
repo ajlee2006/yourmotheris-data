@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T19:27:01.600445+00:00", 2645, "Your mother is", "bladelike", "Similar to: simple", "Definition: shaped like a sword blade", "Synonyms: ensiform, sword-shaped, swordlike"]}
+{"data": ["2021-06-09T19:37:01.622826+00:00", 2646, "Your mother is", "straight-backed", "Pronunciation: /stre\u026at-b\u00e6kt/", "Definition: having a straight back", ""]}
