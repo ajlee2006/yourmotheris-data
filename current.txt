@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T10:37:01.925072+00:00", 2592, "Your mother is", "withering", "Pronunciation: /\u02c8w\u026a\u00f0\u025dr\u026a\u014b/", "Definition: making light of", "Synonyms: annihilating, devastating"]}
+{"data": ["2021-06-09T10:47:01.690847+00:00", 2593, "Your mother is", "internecine", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8nisin/", "Definition: characterized by bloodshed and carnage for both sides", ""]}
