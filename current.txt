@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T06:17:01.738625+00:00", 2566, "Your mother is", "unheard-of", "Similar to: unknown", "Definition: previously unknown", ""]}
+{"data": ["2021-06-09T06:27:01.657327+00:00", 2567, "Your mother is", "glace", "Pronunciation: /gl\u00e6\u02c8se\u026a/", "Definition: (used especially of fruits) preserved by coating with or allowing to absorb sugar", "Synonyms: candied, crystalised, crystalized"]}
