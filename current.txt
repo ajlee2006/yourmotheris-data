@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T20:57:01.845076+00:00", 2654, "Your mother is", "macabre", "Pronunciation: /m\u0259\u02c8k\u00e6br\u0259/", "Definition: shockingly repellent; inspiring horror", "Synonyms: ghastly, grim, grisly, gruesome, sick"]}
+{"data": ["2021-06-09T21:07:01.536134+00:00", 2655, "Your mother is", "nonchristian", "Similar to: unchristian", "Definition: not believing in Christ", "Synonyms: christless"]}
