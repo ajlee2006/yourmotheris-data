@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T08:17:01.604012+00:00", 2578, "Your mother is", "graded", "Pronunciation: /\u02c8\u0261re\u026ad\u028cd/", "Definition: arranged in a sequence of grades or ranks", "Synonyms: ranked, stratified"]}
+{"data": ["2021-06-09T08:27:01.712622+00:00", 2579, "Your mother is", "admittable", "Similar to: admissible", "Definition: deserving to be allowed to enter", "Synonyms: admittible"]}
