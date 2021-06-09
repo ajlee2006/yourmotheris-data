@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T01:06:18.563631+00:00", 2535, "Your mother is", "unfearing", "Similar to: bold", "Definition: invulnerable to fear or intimidation", "Synonyms: audacious, brave, dauntless, fearless, hardy, intrepid"]}
+{"data": ["2021-06-09T01:16:18.601236+00:00", 2536, "Your mother is", "elfin", "Pronunciation: /\u02c8\u025blf\u026an/", "Definition: suggestive of an elf in strangeness and otherworldliness", "Synonyms: fey"]}
