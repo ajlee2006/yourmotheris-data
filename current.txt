@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T19:37:01.622826+00:00", 2646, "Your mother is", "straight-backed", "Pronunciation: /stre\u026at-b\u00e6kt/", "Definition: having a straight back", ""]}
+{"data": ["2021-06-09T19:47:01.598614+00:00", 2647, "Your mother is", "agitative", "Similar to: provocative", "Definition: causing or tending to cause anger or resentment", "Synonyms: agitating, provoking"]}
