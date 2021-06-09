@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T16:17:01.981434+00:00", 2626, "Your mother is", "pleonastic", "Similar to: prolix", "Definition: repetition of same sense in different words", "Synonyms: redundant, tautologic, tautological"]}
+{"data": ["2021-06-09T16:27:01.694978+00:00", 2627, "Your mother is", "cytogenetical", "", "Definition: of or relating to cytogenetics", "Synonyms: cytogenetic"]}
