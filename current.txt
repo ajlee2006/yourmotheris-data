@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T03:07:01.689478+00:00", 2547, "Your mother is", "unforeseen", "Pronunciation: /\u02cc\u0259nfo\u028ar\u02c8sin/", "Definition: not anticipated", "Synonyms: out of the blue, unanticipated, unlooked-for, unseen"]}
+{"data": ["2021-06-09T03:17:01.628582+00:00", 2548, "Your mother is", "sooty", "Pronunciation: /\u02c8s\u028ati/", "Definition: of the blackest black; similar to the color of jet or coal", "Synonyms: coal-black, jet, jet-black, pitchy"]}
