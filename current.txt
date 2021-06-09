@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T10:07:01.585995+00:00", 2589, "Your mother is", "water-washed", "Similar to: clean", "Definition: clean by virtue of having been washed in water", "Synonyms: washed"]}
+{"data": ["2021-06-09T10:17:01.742777+00:00", 2590, "Your mother is", "select", "Pronunciation: /s\u026a\u02c8l\u025bkt/", "Definition: selected or chosen for special qualifications", "Synonyms: blue-ribbon"]}
