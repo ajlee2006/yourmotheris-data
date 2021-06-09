@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T17:47:01.653889+00:00", 2635, "Your mother is", "bumptious", "Pronunciation: /\u02c8b\u0259mp\u0283\u0259s/", "Definition: offensively self-assertive", "Synonyms: self-assertive"]}
+{"data": ["2021-06-09T17:57:02.054056+00:00", 2636, "Your mother is", "hit-and-run", "Pronunciation: /\u02c8h\u026at\u0259n\u02c8r\u0259n/", "Definition: designed for or consisting of a brief attack followed by a quick escape", "Synonyms: tip-and-run"]}
