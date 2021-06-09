@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T16:57:01.682197+00:00", 2630, "Your mother is", "ungracious", "Pronunciation: /\u0259n\u02c8gre\u026a\u0283\u0259s/", "Definition: lacking social graces", "Synonyms: discourteous"]}
+{"data": ["2021-06-09T17:07:01.696805+00:00", 2631, "Your mother is", "descriptive", "Pronunciation: /d\u026a\u02c8skr\u026apt\u026av/", "Definition: of or relating to an approach to linguistic analysis that aims at the description of a language's forms, structures and usage", ""]}
