@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T14:07:01.644858+00:00", 2613, "Your mother is", "efficient", "Pronunciation: /\u026a\u02c8f\u026a\u0283\u0259nt/", "Definition: able to accomplish a purpose; functioning effectively", "Synonyms: effective"]}
+{"data": ["2021-06-09T14:17:01.676033+00:00", 2614, "Your mother is", "devouring", "Pronunciation: /d\u026a\u02c8va\u028a\u025dr\u026a\u014b/", "Definition: (often followed by `for') ardently or excessively desirous", "Synonyms: avid, esurient, greedy"]}
