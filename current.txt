@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T12:17:02.098390+00:00", 2602, "Your mother is", "scandent", "Pronunciation: /\u02c8sk\u00e6nd\u0259nt/", "Definition: used especially of plants; having a tendency to climb", ""]}
+{"data": ["2021-06-09T12:27:01.598904+00:00", 2603, "Your mother is", "sorted", "Pronunciation: /\u02c8s\u0254rt\u026ad/", "Definition: arranged into groups", "Synonyms: grouped"]}
