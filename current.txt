@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T09:27:01.557214+00:00", 2585, "Your mother is", "sarcolemmic", "", "Definition: of or relating to sarcolemma", "Synonyms: sarcolemnous"]}
+{"data": ["2021-06-09T09:37:01.565824+00:00", 2586, "Your mother is", "non-conducting", "", "Definition: not able to conduct heat or electricity or sound", "Synonyms: nonconducting, nonconductive"]}
