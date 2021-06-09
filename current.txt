@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T10:27:01.567072+00:00", 2591, "Your mother is", "meditative", "Pronunciation: /\u02c8m\u025bd\u026at\u0259t\u026av/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, musing, pensive, pondering, reflective, ruminative"]}
+{"data": ["2021-06-09T10:37:01.925072+00:00", 2592, "Your mother is", "withering", "Pronunciation: /\u02c8w\u026a\u00f0\u025dr\u026a\u014b/", "Definition: making light of", "Synonyms: annihilating, devastating"]}
