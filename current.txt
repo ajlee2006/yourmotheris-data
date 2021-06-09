@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T22:17:01.631727+00:00", 2662, "Your mother is", "nutbrown", "Pronunciation: /\u02c8n\u0259t\u02c8bra\u028an/", "Definition: of the color of nuts", ""]}
+{"data": ["2021-06-09T22:27:01.607839+00:00", 2663, "Your mother is", "hexagonal", "Pronunciation: /h\u025bk\u02c8s\u00e6\u0261\u0259n\u0259l/", "Definition: having six sides or divided into hexagons", "Synonyms: hexangular"]}
