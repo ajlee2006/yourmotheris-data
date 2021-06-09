@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T15:27:01.574159+00:00", 2621, "Your mother is", "askant", "Pronunciation: /\u0259\u02c8sk\u00e6nt/", "Definition: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy", "Synonyms: askance, asquint, sidelong, squint, squint-eyed, squinty"]}
+{"data": ["2021-06-09T15:37:01.566462+00:00", 2622, "Your mother is", "juristic", "Pronunciation: /d\u0292\u028a\u02c8r\u026ast\u026ak/", "Definition: of or relating to law or to legal rights and obligations", "Synonyms: jural"]}
