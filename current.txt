@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T18:27:01.609966+00:00", 2639, "Your mother is", "chemisorptive", "Similar to: adsorbent", "Definition: having the capacity to adsorb by chemical as contrasted with physical forces", "Synonyms: chemosorptive"]}
+{"data": ["2021-06-09T18:37:01.506563+00:00", 2640, "Your mother is", "swift", "Pronunciation: /sw\u026aft/", "Definition: moving very fast", "Synonyms: fleet"]}
