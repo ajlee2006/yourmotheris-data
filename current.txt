@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T16:07:02.082963+00:00", 2625, "Your mother is", "naming", "Pronunciation: /\u02c8ne\u026am\u026a\u014b/", "Definition: inclined to or serving for the giving of names", "Synonyms: appellative"]}
+{"data": ["2021-06-09T16:17:01.981434+00:00", 2626, "Your mother is", "pleonastic", "Similar to: prolix", "Definition: repetition of same sense in different words", "Synonyms: redundant, tautologic, tautological"]}
