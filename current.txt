@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T03:17:01.628582+00:00", 2548, "Your mother is", "sooty", "Pronunciation: /\u02c8s\u028ati/", "Definition: of the blackest black; similar to the color of jet or coal", "Synonyms: coal-black, jet, jet-black, pitchy"]}
+{"data": ["2021-06-09T03:27:01.579546+00:00", 2549, "Your mother is", "unkindled", "Similar to: unlighted", "Definition: not set afire", ""]}
