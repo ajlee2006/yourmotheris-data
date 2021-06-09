@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T07:27:01.684374+00:00", 2573, "Your mother is", "fastigiate", "Pronunciation: /f\u00e6\u02c8st\u026ad\u0292i\u026at/", "Definition: having clusters of erect branches (often appearing to form a single column)", ""]}
+{"data": ["2021-06-09T07:37:01.507127+00:00", 2574, "Your mother is", "duplicatable", "Similar to: consistent", "Definition: capable of being duplicated", "Synonyms: duplicable"]}
