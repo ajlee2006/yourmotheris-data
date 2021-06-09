@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T06:47:01.656737+00:00", 2569, "Your mother is", "studious", "Pronunciation: /\u02c8studi\u0259s/", "Definition: characterized by diligent study and fondness for reading", "Synonyms: bookish"]}
+{"data": ["2021-06-09T06:57:01.641993+00:00", 2570, "Your mother is", "outraged", "Pronunciation: /\u02c8a\u028at\u02ccre\u026ad\u0292d/", "Definition: angered at something unjust or wrong", "Synonyms: incensed, indignant, umbrageous"]}
