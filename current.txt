@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T11:37:01.549527+00:00", 2598, "Your mother is", "prejudicious", "", "Definition: tending to favor preconceived ideas", "Synonyms: prejudicial"]}
+{"data": ["2021-06-09T11:47:01.566277+00:00", 2599, "Your mother is", "gradational", "Similar to: gradual", "Definition: taking place by degrees", "Synonyms: gradatory, graduated"]}
