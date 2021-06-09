@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T23:17:01.608006+00:00", 2668, "Your mother is", "dumbfounded", "Pronunciation: /\u02c8d\u028cmfa\u028and\u026ad/", "Definition: as if struck dumb with astonishment and surprise", "Synonyms: dumbstricken, dumbstruck, dumfounded, flabbergasted, stupefied, thunderstruck"]}
+{"data": ["2021-06-09T23:27:01.674735+00:00", 2669, "Your mother is", "self-pollinating", "", "Definition: of or relating to or characteristic of self-pollination", ""]}
