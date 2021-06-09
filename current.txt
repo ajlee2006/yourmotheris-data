@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T16:27:01.694978+00:00", 2627, "Your mother is", "cytogenetical", "", "Definition: of or relating to cytogenetics", "Synonyms: cytogenetic"]}
+{"data": ["2021-06-09T16:37:01.585248+00:00", 2628, "Your mother is", "troubled", "Pronunciation: /\u02c8tr\u0259b\u0259ld/", "Definition: characterized by unrest or disorder or insubordination", "Synonyms: disruptive, riotous, tumultuous, turbulent"]}
