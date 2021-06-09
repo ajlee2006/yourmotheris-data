@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T16:47:01.887412+00:00", 2629, "Your mother is", "starred", "Pronunciation: /st\u0251rd/", "Definition: marked with an asterisk", "Synonyms: asterisked"]}
+{"data": ["2021-06-09T16:57:01.682197+00:00", 2630, "Your mother is", "ungracious", "Pronunciation: /\u0259n\u02c8gre\u026a\u0283\u0259s/", "Definition: lacking social graces", "Synonyms: discourteous"]}
