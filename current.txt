@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T00:06:18.453371+00:00", 2529, "Your mother is", "self-acting", "Pronunciation: /s\u025blf-\u02c8\u00e6kt\u026a\u014b/", "Definition: designed to activate or move or regulate itself", "Synonyms: self-activating, self-moving, self-regulating"]}
+{"data": ["2021-06-09T00:16:18.971651+00:00", 2530, "Your mother is", "ratified", "Pronunciation: /\u02c8r\u00e6t\u028c\u02ccfa\u026ad/", "Definition: formally approved and invested with legal authority", "Synonyms: sanctioned"]}
