@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T02:26:18.525802+00:00", 2543, "Your mother is", "concerned", "Pronunciation: /k\u0259n\u02c8s\u025crnd/", "Definition: involved in or affected by or having a claim to or share in", "Synonyms: interested"]}
+{"data": ["2021-06-09T02:37:01.606010+00:00", 2544, "Your mother is", "sticking", "Pronunciation: /\u02c8st\u026ak\u026a\u014b/", "Definition: extending out above or beyond a surface or boundary", "Synonyms: jutting, projected, projecting, protruding, relieved, sticking out"]}
