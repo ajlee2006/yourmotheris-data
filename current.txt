@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T06:37:01.809501+00:00", 2568, "Your mother is", "elderly", "Pronunciation: /\u02c8\u025bld\u0259rli/", "Definition: advanced in years; (`aged' is pronounced as two syllables)", "Synonyms: aged, older, senior"]}
+{"data": ["2021-06-09T06:47:01.656737+00:00", 2569, "Your mother is", "studious", "Pronunciation: /\u02c8studi\u0259s/", "Definition: characterized by diligent study and fondness for reading", "Synonyms: bookish"]}
