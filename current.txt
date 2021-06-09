@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T14:27:01.818041+00:00", 2615, "Your mother is", "cohesive", "Pronunciation: /ko\u028a\u02c8his\u026av/", "Definition: causing cohesion", ""]}
+{"data": ["2021-06-09T14:37:01.589075+00:00", 2616, "Your mother is", "sulfur-yellow", "Pronunciation: /\u02c8s\u0259lf\u0259r-\u02c8j\u025blo\u028a/", "Definition: of something having the yellow color of sulfur", "Synonyms: sulphur-yellow"]}
