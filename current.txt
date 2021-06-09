@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T14:17:01.676033+00:00", 2614, "Your mother is", "devouring", "Pronunciation: /d\u026a\u02c8va\u028a\u025dr\u026a\u014b/", "Definition: (often followed by `for') ardently or excessively desirous", "Synonyms: avid, esurient, greedy"]}
+{"data": ["2021-06-09T14:27:01.818041+00:00", 2615, "Your mother is", "cohesive", "Pronunciation: /ko\u028a\u02c8his\u026av/", "Definition: causing cohesion", ""]}
