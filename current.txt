@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T08:07:01.795740+00:00", 2577, "Your mother is", "lacrimal", "Pronunciation: /\u02c8l\u00e6kr\u0259m\u0259l/", "Definition: of or relating to tears", "Synonyms: lachrymal"]}
+{"data": ["2021-06-09T08:17:01.604012+00:00", 2578, "Your mother is", "graded", "Pronunciation: /\u02c8\u0261re\u026ad\u028cd/", "Definition: arranged in a sequence of grades or ranks", "Synonyms: ranked, stratified"]}
