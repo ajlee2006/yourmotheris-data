@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T03:37:01.528443+00:00", 2550, "Your mother is", "unsyllabled", "Similar to: nonsyllabic", "Definition: not articulated in syllables", ""]}
+{"data": ["2021-06-09T03:47:01.655570+00:00", 2551, "Your mother is", "hoar", "Pronunciation: /ho\u028ar/", "Definition: showing characteristics of age, especially having grey or white hair", "Synonyms: gray, gray-haired, gray-headed, grey, grey-haired, grey-headed, grizzly, hoary, white-haired"]}
