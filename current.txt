@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T05:07:01.533287+00:00", 2559, "Your mother is", "fair", "Pronunciation: /f\u025cr/", "Definition: (of a manuscript) having few alterations or corrections", "Synonyms: clean"]}
+{"data": ["2021-06-09T05:17:01.477707+00:00", 2560, "Your mother is", "aboriginal", "Pronunciation: /\u02cc\u00e6b\u0259\u02c8r\u026ad\u0292\u0259n\u0259l/", "Definition: characteristic of or relating to people inhabiting a region from the beginning", "Synonyms: native"]}
