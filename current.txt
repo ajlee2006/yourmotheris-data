@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T22:47:01.609048+00:00", 2665, "Your mother is", "sophistical", "Pronunciation: /s\u0259\u02c8f\u026ast\u026ak\u0259l/", "Definition: plausible but misleading", "Synonyms: sophistic"]}
+{"data": ["2021-06-09T22:57:01.741066+00:00", 2666, "Your mother is", "coal-fired", "Similar to: fueled", "Definition: fueled by burning coal", "Synonyms: coal-burning"]}
