@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T13:47:01.951647+00:00", 2611, "Your mother is", "febrile", "Pronunciation: /\u02c8fibr\u0259l/", "Definition: of or relating to or characterized by fever", "Synonyms: feverish"]}
+{"data": ["2021-06-09T13:57:01.999424+00:00", 2612, "Your mother is", "failing", "Pronunciation: /\u02c8fe\u026al\u026a\u014b/", "Definition: below acceptable in performance", ""]}
