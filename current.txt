@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T15:07:01.510468+00:00", 2619, "Your mother is", "contaminated", "Pronunciation: /k\u028cn\u02c8t\u00e6m\u028c\u02ccne\u026at\u028cd/", "Definition: rendered unwholesome by contaminants and pollution", "Synonyms: polluted"]}
+{"data": ["2021-06-09T15:17:01.660030+00:00", 2620, "Your mother is", "bluish", "Pronunciation: /\u02c8blu\u026a\u0283/", "Definition: of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky", "Synonyms: blue, blueish"]}
