@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T08:47:01.734661+00:00", 2581, "Your mother is", "unshapely", "Pronunciation: /\u0259n\u02c8\u0283e\u026apli/", "Definition: not well-proportioned and pleasing in shape", ""]}
+{"data": ["2021-06-09T08:57:01.579336+00:00", 2582, "Your mother is", "codified", "Pronunciation: /\u02c8k\u0251d\u028c\u02ccfa\u026ad/", "Definition: enacted by a legislative body", "Synonyms: statute"]}
