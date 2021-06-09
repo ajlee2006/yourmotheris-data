@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T11:57:01.686913+00:00", 2600, "Your mother is", "hearsay", "Pronunciation: /\u02c8hir\u02ccse\u026a/", "Definition: heard through another rather than directly", ""]}
+{"data": ["2021-06-09T12:07:01.507041+00:00", 2601, "Your mother is", "iridescent", "Pronunciation: /\u02cc\u026ar\u026a\u02c8d\u025bs\u0259nt/", "Definition: varying in color when seen in different lights or from different angles", "Synonyms: changeable, chatoyant, shot"]}
