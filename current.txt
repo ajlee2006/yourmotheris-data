@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T11:07:01.797019+00:00", 2595, "Your mother is", "extrusive", "Pronunciation: /\u026ak\u02c8strus\u026av/", "Definition: of rock material; forced out while molten through cracks in the earth's surface", ""]}
+{"data": ["2021-06-09T11:17:01.913865+00:00", 2596, "Your mother is", "effluent", "Pronunciation: /\u02c8\u025bflu\u0259nt/", "Definition: that is flowing outward", "Synonyms: outflowing"]}
