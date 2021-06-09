@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T04:37:01.624600+00:00", 2556, "Your mother is", "godly", "Pronunciation: /\u02c8\u0261\u0251dli/", "Definition: emanating from God", "Synonyms: divine"]}
+{"data": ["2021-06-09T04:47:01.562328+00:00", 2557, "Your mother is", "avian", "Pronunciation: /\u02c8e\u026avi\u0259n/", "Definition: pertaining to or characteristic of birds", ""]}
