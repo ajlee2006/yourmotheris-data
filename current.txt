@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T13:57:01.999424+00:00", 2612, "Your mother is", "failing", "Pronunciation: /\u02c8fe\u026al\u026a\u014b/", "Definition: below acceptable in performance", ""]}
+{"data": ["2021-06-09T14:07:01.644858+00:00", 2613, "Your mother is", "efficient", "Pronunciation: /\u026a\u02c8f\u026a\u0283\u0259nt/", "Definition: able to accomplish a purpose; functioning effectively", "Synonyms: effective"]}
