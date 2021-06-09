@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T07:37:01.507127+00:00", 2574, "Your mother is", "duplicatable", "Similar to: consistent", "Definition: capable of being duplicated", "Synonyms: duplicable"]}
+{"data": ["2021-06-09T07:47:01.519792+00:00", 2575, "Your mother is", "garbled", "Pronunciation: /\u02c8\u0261\u0251rb\u028cld/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, illogical, scattered, unconnected"]}
