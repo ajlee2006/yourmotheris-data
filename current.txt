@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T12:47:01.712559+00:00", 2605, "Your mother is", "webbed", "Pronunciation: /w\u025bbd/", "Definition: having open interstices or resembling a web", "Synonyms: lacy, netlike, netted, webby, weblike"]}
+{"data": ["2021-06-09T12:57:01.737761+00:00", 2606, "Your mother is", "unbearable", "Pronunciation: /\u0259n\u02c8b\u025cr\u0259b\u0259l/", "Definition: incapable of being tolerated or endured", "Synonyms: intolerable, unendurable"]}
