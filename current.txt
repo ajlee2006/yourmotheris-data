@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T21:27:01.535580+00:00", 2657, "Your mother is", "stable", "Pronunciation: /\u02c8ste\u026ab\u0259l/", "Definition: showing little if any change", "Synonyms: static, unchanging"]}
+{"data": ["2021-06-09T21:37:01.699592+00:00", 2658, "Your mother is", "augean", "Pronunciation: /\u0254\u02c8d\u0292i\u0259n/", "Definition: extremely filthy from long neglect", ""]}
