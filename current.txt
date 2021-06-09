@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T02:47:01.615819+00:00", 2545, "Your mother is", "extravagant", "Pronunciation: /\u026ak\u02c8str\u00e6v\u0259\u0261\u0259nt/", "Definition: unrestrained, especially with regard to feelings", "Synonyms: excessive, exuberant, overweening"]}
+{"data": ["2021-06-09T02:57:01.584576+00:00", 2546, "Your mother is", "intangible", "Pronunciation: /\u026an\u02c8t\u00e6nd\u0292\u0259b\u0259l/", "Definition: incapable of being perceived by the senses especially the sense of touch", "Synonyms: impalpable"]}
