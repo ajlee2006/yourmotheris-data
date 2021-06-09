@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T10:17:01.742777+00:00", 2590, "Your mother is", "select", "Pronunciation: /s\u026a\u02c8l\u025bkt/", "Definition: selected or chosen for special qualifications", "Synonyms: blue-ribbon"]}
+{"data": ["2021-06-09T10:27:01.567072+00:00", 2591, "Your mother is", "meditative", "Pronunciation: /\u02c8m\u025bd\u026at\u0259t\u026av/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, musing, pensive, pondering, reflective, ruminative"]}
