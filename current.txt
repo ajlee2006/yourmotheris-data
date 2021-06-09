@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T09:17:01.589486+00:00", 2584, "Your mother is", "holy", "Pronunciation: /\u02c8ho\u028ali/", "Definition: belonging to or derived from or associated with a divine power", ""]}
+{"data": ["2021-06-09T09:27:01.557214+00:00", 2585, "Your mother is", "sarcolemmic", "", "Definition: of or relating to sarcolemma", "Synonyms: sarcolemnous"]}
