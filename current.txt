@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T06:27:01.657327+00:00", 2567, "Your mother is", "glace", "Pronunciation: /gl\u00e6\u02c8se\u026a/", "Definition: (used especially of fruits) preserved by coating with or allowing to absorb sugar", "Synonyms: candied, crystalised, crystalized"]}
+{"data": ["2021-06-09T06:37:01.809501+00:00", 2568, "Your mother is", "elderly", "Pronunciation: /\u02c8\u025bld\u0259rli/", "Definition: advanced in years; (`aged' is pronounced as two syllables)", "Synonyms: aged, older, senior"]}
