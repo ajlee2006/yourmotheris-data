@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T04:27:01.635350+00:00", 2555, "Your mother is", "seasick", "Pronunciation: /\u02c8sis\u026ak/", "Definition: experiencing motion sickness", "Synonyms: air sick, airsick, carsick"]}
+{"data": ["2021-06-09T04:37:01.624600+00:00", 2556, "Your mother is", "godly", "Pronunciation: /\u02c8\u0261\u0251dli/", "Definition: emanating from God", "Synonyms: divine"]}
