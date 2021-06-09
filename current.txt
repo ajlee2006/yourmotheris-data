@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T12:57:01.737761+00:00", 2606, "Your mother is", "unbearable", "Pronunciation: /\u0259n\u02c8b\u025cr\u0259b\u0259l/", "Definition: incapable of being tolerated or endured", "Synonyms: intolerable, unendurable"]}
+{"data": ["2021-06-09T13:07:01.590532+00:00", 2607, "Your mother is", "alimental", "Pronunciation: /\u02cc\u00e6l\u026a\u02c8m\u025bnt\u0259l/", "Definition: of or providing nourishment", "Synonyms: alimentary, nourishing, nutrient, nutritious, nutritive"]}
