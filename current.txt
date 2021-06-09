@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T01:16:18.601236+00:00", 2536, "Your mother is", "elfin", "Pronunciation: /\u02c8\u025blf\u026an/", "Definition: suggestive of an elf in strangeness and otherworldliness", "Synonyms: fey"]}
+{"data": ["2021-06-09T01:26:21.195185+00:00", 2537, "Your mother is", "anorexic", "Pronunciation: /\u02cc\u00e6n\u025dr\u02c8\u025bks\u026ak/", "Definition: suffering from anorexia nervosa; pathologically thin", "Synonyms: anorectic"]}
