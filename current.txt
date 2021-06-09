@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T09:07:01.667939+00:00", 2583, "Your mother is", "vocal", "Pronunciation: /\u02c8vo\u028ak\u00e6l/", "Definition: given to expressing yourself freely or insistently", "Synonyms: outspoken"]}
+{"data": ["2021-06-09T09:17:01.589486+00:00", 2584, "Your mother is", "holy", "Pronunciation: /\u02c8ho\u028ali/", "Definition: belonging to or derived from or associated with a divine power", ""]}
