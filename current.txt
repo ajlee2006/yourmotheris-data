@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T00:36:18.929744+00:00", 2532, "Your mother is", "rattling", "Pronunciation: /\u02c8r\u00e6tl\u026an/", "Definition: quick and energetic", "Synonyms: alert, brisk, lively, merry, snappy, spanking, zippy"]}
+{"data": ["2021-06-09T00:46:18.476369+00:00", 2533, "Your mother is", "landscaped", "Pronunciation: /\u02c8l\u00e6nd\u02ccske\u026apt/", "Definition: (of land) improved by gardening or landscape architecture", ""]}
