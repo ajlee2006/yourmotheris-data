@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T17:27:01.607308+00:00", 2633, "Your mother is", "armour-plated", "Similar to: armored", "Definition: covered with heavy steel", "Synonyms: armor-clad, armor-plated, armour-clad, steel-plated"]}
+{"data": ["2021-06-09T17:37:01.819238+00:00", 2634, "Your mother is", "subtropic", "", "Definition: of or relating to or characteristic of conditions in the subtropics", "Synonyms: semitropic, semitropical, subtropical"]}
