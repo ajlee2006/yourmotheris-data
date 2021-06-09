@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T10:47:01.690847+00:00", 2593, "Your mother is", "internecine", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8nisin/", "Definition: characterized by bloodshed and carnage for both sides", ""]}
+{"data": ["2021-06-09T10:57:01.904780+00:00", 2594, "Your mother is", "garbled", "Pronunciation: /\u02c8\u0261\u0251rb\u028cld/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, illogical, scattered, unconnected"]}
