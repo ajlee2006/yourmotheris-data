@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T20:37:02.049196+00:00", 2652, "Your mother is", "lower-class", "Similar to: proletarian", "Definition: occupying the lowest socioeconomic position in a society", "Synonyms: low-class"]}
+{"data": ["2021-06-09T20:47:01.668175+00:00", 2653, "Your mother is", "190", "Similar to: cardinal", "Definition: being ten more than one hundred eighty", "Synonyms: one hundred ninety, xcl"]}
