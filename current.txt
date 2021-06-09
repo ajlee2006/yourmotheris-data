@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T13:27:01.913816+00:00", 2609, "Your mother is", "clothesless", "Similar to: unclothed", "Definition: possessing no clothing", "Synonyms: garmentless, raimentless"]}
+{"data": ["2021-06-09T13:37:01.614407+00:00", 2610, "Your mother is", "holographic", "Pronunciation: /\u02cch\u0251l\u0259\u02c8gr\u00e6f\u026ak/", "Definition: written entirely in one's own hand", "Synonyms: holographical"]}
