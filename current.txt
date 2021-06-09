@@ -1,1 +1,1 @@
-{"data": ["2021-06-08T23:56:18.514437+00:00", 2528, "Your mother is", "unflagging", "Pronunciation: /\u0259n\u02c8fl\u00e6\u0261i\u014b/", "Definition: unceasing", "Synonyms: unfailing"]}
+{"data": ["2021-06-09T00:06:18.453371+00:00", 2529, "Your mother is", "self-acting", "Pronunciation: /s\u025blf-\u02c8\u00e6kt\u026a\u014b/", "Definition: designed to activate or move or regulate itself", "Synonyms: self-activating, self-moving, self-regulating"]}
