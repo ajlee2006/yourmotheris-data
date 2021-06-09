@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T10:57:01.904780+00:00", 2594, "Your mother is", "garbled", "Pronunciation: /\u02c8\u0261\u0251rb\u028cld/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, illogical, scattered, unconnected"]}
+{"data": ["2021-06-09T11:07:01.797019+00:00", 2595, "Your mother is", "extrusive", "Pronunciation: /\u026ak\u02c8strus\u026av/", "Definition: of rock material; forced out while molten through cracks in the earth's surface", ""]}
