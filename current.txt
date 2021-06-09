@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T04:47:01.562328+00:00", 2557, "Your mother is", "avian", "Pronunciation: /\u02c8e\u026avi\u0259n/", "Definition: pertaining to or characteristic of birds", ""]}
+{"data": ["2021-06-09T04:57:01.575675+00:00", 2558, "Your mother is", "oecumenic", "Similar to: nonsectarian", "Definition: concerned with promoting unity among churches or religions", "Synonyms: ecumenic, ecumenical, oecumenical"]}
