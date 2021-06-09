@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T16:37:01.585248+00:00", 2628, "Your mother is", "troubled", "Pronunciation: /\u02c8tr\u0259b\u0259ld/", "Definition: characterized by unrest or disorder or insubordination", "Synonyms: disruptive, riotous, tumultuous, turbulent"]}
+{"data": ["2021-06-09T16:47:01.887412+00:00", 2629, "Your mother is", "starred", "Pronunciation: /st\u0251rd/", "Definition: marked with an asterisk", "Synonyms: asterisked"]}
