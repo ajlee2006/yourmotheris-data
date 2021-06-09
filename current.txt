@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T11:17:01.913865+00:00", 2596, "Your mother is", "effluent", "Pronunciation: /\u02c8\u025bflu\u0259nt/", "Definition: that is flowing outward", "Synonyms: outflowing"]}
+{"data": ["2021-06-09T11:27:01.811590+00:00", 2597, "Your mother is", "cyanophyte", "", "Definition: relating to or caused by photosynthetic bacteria of the class Cyanobacteria", "Synonyms: cyanobacterial"]}
