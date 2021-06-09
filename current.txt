@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T15:17:01.660030+00:00", 2620, "Your mother is", "bluish", "Pronunciation: /\u02c8blu\u026a\u0283/", "Definition: of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky", "Synonyms: blue, blueish"]}
+{"data": ["2021-06-09T15:27:01.574159+00:00", 2621, "Your mother is", "askant", "Pronunciation: /\u0259\u02c8sk\u00e6nt/", "Definition: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy", "Synonyms: askance, asquint, sidelong, squint, squint-eyed, squinty"]}
