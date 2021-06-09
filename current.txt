@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T09:57:01.769619+00:00", 2588, "Your mother is", "midi", "Pronunciation: /mi\u02c8di/", "Definition: used of women's clothing having a hemline at mid-calf", ""]}
+{"data": ["2021-06-09T10:07:01.585995+00:00", 2589, "Your mother is", "water-washed", "Similar to: clean", "Definition: clean by virtue of having been washed in water", "Synonyms: washed"]}
