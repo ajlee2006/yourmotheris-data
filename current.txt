@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T17:17:01.577387+00:00", 2632, "Your mother is", "unnameable", "Pronunciation: /\u0259n\u02c8ne\u026am\u0259b\u0259l/", "Definition: too sacred to be uttered", "Synonyms: ineffable, unspeakable, unutterable"]}
+{"data": ["2021-06-09T17:27:01.607308+00:00", 2633, "Your mother is", "armour-plated", "Similar to: armored", "Definition: covered with heavy steel", "Synonyms: armor-clad, armor-plated, armour-clad, steel-plated"]}
