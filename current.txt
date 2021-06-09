@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T18:07:01.653695+00:00", 2637, "Your mother is", "exuberant", "Pronunciation: /\u026a\u0261\u02c8zub\u0259r\u0259nt/", "Definition: unrestrained, especially with regard to feelings", "Synonyms: excessive, extravagant, overweening"]}
+{"data": ["2021-06-09T18:17:01.630458+00:00", 2638, "Your mother is", "dizygotic", "Pronunciation: /\u02ccda\u026aza\u026a\u02c8\u0261\u0251t\u026ak/", "Definition: derived from two separately fertilized eggs", "Synonyms: dizygous"]}
