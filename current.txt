@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T14:37:01.589075+00:00", 2616, "Your mother is", "sulfur-yellow", "Pronunciation: /\u02c8s\u0259lf\u0259r-\u02c8j\u025blo\u028a/", "Definition: of something having the yellow color of sulfur", "Synonyms: sulphur-yellow"]}
+{"data": ["2021-06-09T14:47:01.631696+00:00", 2617, "Your mother is", "fearsome", "Pronunciation: /\u02c8firs\u0259m/", "Definition: causing fear or dread or terror", "Synonyms: awful, dire, direful, dread, dreaded, dreadful, fearful, frightening, horrendous, horrific, terrible"]}
