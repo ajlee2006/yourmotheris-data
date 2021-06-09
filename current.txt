@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T11:27:01.811590+00:00", 2597, "Your mother is", "cyanophyte", "", "Definition: relating to or caused by photosynthetic bacteria of the class Cyanobacteria", "Synonyms: cyanobacterial"]}
+{"data": ["2021-06-09T11:37:01.549527+00:00", 2598, "Your mother is", "prejudicious", "", "Definition: tending to favor preconceived ideas", "Synonyms: prejudicial"]}
