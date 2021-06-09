@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T21:47:01.588504+00:00", 2659, "Your mother is", "hypnoid", "Similar to: asleep", "Definition: of or relating to a state of sleep or hypnosis", ""]}
+{"data": ["2021-06-09T21:57:01.540313+00:00", 2660, "Your mother is", "forbearing", "Similar to: patient", "Definition: showing patient and unruffled self-control and restraint under adversity; slow to retaliate or express resentment", "Synonyms: longanimous"]}
