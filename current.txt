@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T00:26:19.155129+00:00", 2531, "Your mother is", "bouncing", "Pronunciation: /\u02c8ba\u028ans\u026a\u014b/", "Definition: marked by lively action", "Synonyms: bouncy, peppy, spirited, zippy"]}
+{"data": ["2021-06-09T00:36:18.929744+00:00", 2532, "Your mother is", "rattling", "Pronunciation: /\u02c8r\u00e6tl\u026an/", "Definition: quick and energetic", "Synonyms: alert, brisk, lively, merry, snappy, spanking, zippy"]}
