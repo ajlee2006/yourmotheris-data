@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T18:47:01.947390+00:00", 2641, "Your mother is", "offshore", "Pronunciation: /\u02c8\u0254f\u02c8\u0283o\u028ar/", "Definition: (of winds) coming from the land", "Synonyms: seaward"]}
+{"data": ["2021-06-09T18:57:01.747508+00:00", 2642, "Your mother is", "meted out", "Similar to: distributed", "Definition: given out in portions", "Synonyms: apportioned, dealt out, doled out, parceled out"]}
