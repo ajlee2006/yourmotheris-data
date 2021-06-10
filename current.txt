@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T22:38:42.256613+00:00", 2808, "Your mother is", "northeastward", "Pronunciation: /\u02ccn\u0254r\u03b8\u02c8istw\u0259rd/", "Definition: toward the northeast", ""]}
+{"data": ["2021-06-10T22:48:42.338489+00:00", 2809, "Your mother is", "teetotal", "Pronunciation: /ti\u02c8to\u028at\u0259l/", "Definition: practicing complete abstinence from alcoholic beverages", "Synonyms: dry"]}
