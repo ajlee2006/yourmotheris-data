@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T01:37:01.651324+00:00", 2682, "Your mother is", "barefaced", "Pronunciation: /\u02c8b\u025cr\u02c8fe\u026ast/", "Definition: unrestrained by convention or propriety", "Synonyms: audacious, bald-faced, bodacious, brassy, brazen, brazen-faced, insolent"]}
+{"data": ["2021-06-10T01:47:01.603741+00:00", 2683, "Your mother is", "nonreflecting", "Similar to: echoless", "Definition: not capable of physical reflection", "Synonyms: nonreflective"]}
