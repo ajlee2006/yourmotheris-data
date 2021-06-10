@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T23:18:42.203702+00:00", 2812, "Your mother is", "misused", "Pronunciation: /m\u026as\u02c8juzd/", "Definition: used incorrectly or carelessly or for an improper purpose", ""]}
+{"data": ["2021-06-10T23:28:42.220033+00:00", 2813, "Your mother is", "southward", "Pronunciation: /\u02c8sa\u028a\u03b8\u02ccw\u0259rd/", "Definition: moving toward the south", "Synonyms: southbound"]}
