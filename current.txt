@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T22:48:42.338489+00:00", 2809, "Your mother is", "teetotal", "Pronunciation: /ti\u02c8to\u028at\u0259l/", "Definition: practicing complete abstinence from alcoholic beverages", "Synonyms: dry"]}
+{"data": ["2021-06-10T22:58:42.100750+00:00", 2810, "Your mother is", "sobering", "Pronunciation: /\u02c8so\u028ab\u025dr\u026a\u014b/", "Definition: tending to make sober or more serious", ""]}
