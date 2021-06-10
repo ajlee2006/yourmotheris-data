@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T11:18:42.339768+00:00", 2740, "Your mother is", "biaxial", "Pronunciation: /ba\u026a\u02c8\u00e6ksi\u0259l/", "Definition: having two axes", "Synonyms: biaxal, biaxate"]}
+{"data": ["2021-06-10T11:28:42.244983+00:00", 2741, "Your mother is", "transferrable", "Pronunciation: /\u02cctr\u00e6ns\u02c8f\u025dr\u028cb\u028cl/", "Definition: capable of being moved or conveyed from one place to another", "Synonyms: movable, moveable, transferable, transportable"]}
