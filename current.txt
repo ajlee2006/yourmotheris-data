@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T19:08:42.355903+00:00", 2787, "Your mother is", "agronomical", "Pronunciation: /\u02cc\u00e6gr\u0259\u02c8n\u0251m\u026ak\u0259l/", "Definition: of or relating to or promoting agronomy", "Synonyms: agronomic"]}
+{"data": ["2021-06-10T19:18:42.130267+00:00", 2788, "Your mother is", "saturated", "Pronunciation: /\u02c8s\u00e6\u02a7\u0259\u02ccre\u026at\u026ad/", "Definition: being the most concentrated solution possible at a given temperature; unable to dissolve still more of a substance", "Synonyms: concentrated"]}
