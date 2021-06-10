@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T22:08:42.259392+00:00", 2805, "Your mother is", "crocked", "Pronunciation: /kr\u0251kt/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
+{"data": ["2021-06-10T22:18:42.153294+00:00", 2806, "Your mother is", "patient", "Pronunciation: /\u02c8pe\u026a\u0283\u025bnt/", "Definition: enduring trying circumstances with even temper or characterized by such endurance", ""]}
