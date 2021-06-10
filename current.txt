@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T09:48:42.114826+00:00", 2731, "Your mother is", "apiculate", "Pronunciation: /\u0259\u02c8p\u026akj\u0259l\u026at/", "Definition: (of a leaf shape) having a short sharply pointed tip", ""]}
+{"data": ["2021-06-10T09:58:42.164571+00:00", 2732, "Your mother is", "even-pinnate", "Similar to: compound", "Definition: (of a leaf shape) pinnate with a pair of leaflets at the apex", "Synonyms: abruptly-pinnate, paripinnate"]}
