@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T11:08:42.328038+00:00", 2739, "Your mother is", "bearing", "Pronunciation: /\u02c8b\u025cr\u026a\u014b/", "Definition: (of a structural member) withstanding a weight or strain", ""]}
+{"data": ["2021-06-10T11:18:42.339768+00:00", 2740, "Your mother is", "biaxial", "Pronunciation: /ba\u026a\u02c8\u00e6ksi\u0259l/", "Definition: having two axes", "Synonyms: biaxal, biaxate"]}
