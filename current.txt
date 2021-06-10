@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T08:18:42.212569+00:00", 2722, "Your mother is", "putrefactive", "Similar to: infected", "Definition: causing or promoting bacterial putrefaction", "Synonyms: putrefacient"]}
+{"data": ["2021-06-10T08:28:42.247503+00:00", 2723, "Your mother is", "preoperative", "Pronunciation: /\u02c8pri\u02c8\u0251p(\u0259)r\u0259t\u026av/", "Definition: happening or done before and in preparation for a surgical operation", ""]}
