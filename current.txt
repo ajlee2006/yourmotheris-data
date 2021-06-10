@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T08:58:42.215056+00:00", 2726, "Your mother is", "assistive", "Similar to: helpful", "Definition: giving assistance", ""]}
+{"data": ["2021-06-10T09:08:42.167933+00:00", 2727, "Your mother is", "emancipated", "Pronunciation: /\u026a\u02c8m\u00e6ns\u0259\u02ccpe\u026at\u026ad/", "Definition: free from traditional social restraints", "Synonyms: liberated"]}
