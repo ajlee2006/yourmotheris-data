@@ -1,1 +1,1 @@
-{"data": ["2021-06-09T23:57:01.710999+00:00", 2672, "Your mother is", "unsolicited", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8l\u026as\u026at\u026ad/", "Definition: not requested or sought", "Synonyms: unasked-for"]}
+{"data": ["2021-06-10T00:07:01.573448+00:00", 2673, "Your mother is", "effulgent", "Pronunciation: /\u026a\u02c8f\u0259ld\u0292\u0259nt/", "Definition: radiating or as if radiating light", "Synonyms: beaming, beamy, radiant, refulgent"]}
