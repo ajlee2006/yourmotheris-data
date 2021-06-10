@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T21:18:42.426705+00:00", 2800, "Your mother is", "6-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with six members", "Synonyms: six-membered"]}
+{"data": ["2021-06-10T21:28:42.302111+00:00", 2801, "Your mother is", "seventy-three", "Similar to: cardinal", "Definition: being three more than seventy", "Synonyms: 73, lxxiii"]}
