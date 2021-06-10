@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T02:17:01.562076+00:00", 2686, "Your mother is", "orange-sized", "Pronunciation: /\u02c8\u0254r\u026and\u0292-sa\u026azd/", "Definition: having the approximate size of an orange", ""]}
+{"data": ["2021-06-10T02:27:01.598617+00:00", 2687, "Your mother is", "foreseeable", "Pronunciation: /f\u0254r\u02c8si\u028cb\u028cl/", "Definition: capable of being anticipated", ""]}
