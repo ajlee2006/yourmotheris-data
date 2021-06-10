@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T04:48:42.225451+00:00", 2701, "Your mother is", "topnotch", "Pronunciation: /\u02c8t\u0251p\u02c8n\u0251\u02a7/", "Definition: of the highest quality", "Synonyms: a-one, ace, crack, first-rate, super, tiptop, top-notch, tops"]}
+{"data": ["2021-06-10T04:58:42.310891+00:00", 2702, "Your mother is", "proficient", "Pronunciation: /pr\u0259\u02c8f\u026a\u0283\u0259nt/", "Definition: of or relating to technique or proficiency in a practical skill", "Synonyms: technical"]}
