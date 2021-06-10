@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T16:38:42.305432+00:00", 2772, "Your mother is", "unremitting", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8m\u026at\u026a\u014b/", "Definition: uninterrupted in time and indefinitely long continuing", "Synonyms: ceaseless, constant, incessant, never-ending, perpetual, unceasing"]}
+{"data": ["2021-06-10T16:48:42.305962+00:00", 2773, "Your mother is", "beige", "Pronunciation: /be\u026a\u0292/", "Definition: of a light greyish-brown color", ""]}
