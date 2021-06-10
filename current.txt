@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T19:38:42.495054+00:00", 2790, "Your mother is", "atrocious", "Pronunciation: /\u0259\u02c8tro\u028a\u0283\u0259s/", "Definition: provoking horror", "Synonyms: frightful, horrible, horrifying, ugly"]}
+{"data": ["2021-06-10T19:48:42.219639+00:00", 2791, "Your mother is", "contained", "Pronunciation: /k\u0259n\u02c8te\u026and/", "Definition: gotten under control", ""]}
