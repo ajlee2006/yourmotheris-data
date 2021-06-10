@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T15:28:42.237695+00:00", 2765, "Your mother is", "minimal", "Pronunciation: /\u02c8m\u026an\u0259m\u0259l/", "Definition: the least possible", "Synonyms: minimum"]}
+{"data": ["2021-06-10T15:38:42.366103+00:00", 2766, "Your mother is", "mesial", "Similar to: medial", "Definition: being in or directed toward the midline or mesial plane of the body", ""]}
