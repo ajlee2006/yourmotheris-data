@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T18:28:42.347342+00:00", 2783, "Your mother is", "jolted", "Pronunciation: /\u02c8d\u0292o\u028alt\u026ad/", "Definition: disturbed psychologically as if by a physical jolt or shock", "Synonyms: shaken"]}
+{"data": ["2021-06-10T18:38:42.364932+00:00", 2784, "Your mother is", "contemptuous", "Pronunciation: /k\u0259n\u02c8t\u025bmp\u02a7u\u0259s/", "Definition: expressing extreme contempt", "Synonyms: disdainful, insulting, scornful"]}
