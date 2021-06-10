@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T22:28:42.211542+00:00", 2807, "Your mother is", "triumphal", "Pronunciation: /tra\u026a\u02c8\u0259mf\u0259l/", "Definition: joyful and proud especially because of triumph or success", "Synonyms: exultant, exulting, jubilant, prideful, rejoicing, triumphant"]}
+{"data": ["2021-06-10T22:38:42.256613+00:00", 2808, "Your mother is", "northeastward", "Pronunciation: /\u02ccn\u0254r\u03b8\u02c8istw\u0259rd/", "Definition: toward the northeast", ""]}
