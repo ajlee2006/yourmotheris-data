@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T03:28:42.262813+00:00", 2693, "Your mother is", "silty", "Pronunciation: /\u02c8s\u026alti/", "Definition: full of silt", ""]}
+{"data": ["2021-06-10T03:38:42.146191+00:00", 2694, "Your mother is", "disruptive", "Pronunciation: /d\u026as\u02c8r\u0259pt\u026av/", "Definition: characterized by unrest or disorder or insubordination", "Synonyms: riotous, troubled, tumultuous, turbulent"]}
