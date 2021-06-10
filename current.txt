@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T12:38:42.227602+00:00", 2748, "Your mother is", "stone-broke", "Pronunciation: /\u02c8sto\u028an\u02c8bro\u028ak/", "Definition: lacking funds", "Synonyms: broke, bust, skint, stony-broke"]}
+{"data": ["2021-06-10T12:48:42.246406+00:00", 2749, "Your mother is", "inlaid", "Pronunciation: /\u02c8\u026an\u02ccle\u026ad/", "Definition: adorned by inlays", ""]}
