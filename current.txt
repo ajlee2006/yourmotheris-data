@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T10:18:42.096464+00:00", 2734, "Your mother is", "hypnotic", "Pronunciation: /h\u026ap\u02c8n\u0251t\u026ak/", "Definition: attracting and holding interest as if by a spell", "Synonyms: mesmeric, mesmerizing, spellbinding"]}
+{"data": ["2021-06-10T10:28:42.088625+00:00", 2735, "Your mother is", "coalesced", "Pronunciation: /\u02ccko\u028a\u028c\u02c8l\u025bst/", "Definition: joined together into a whole", "Synonyms: amalgamate, amalgamated, consolidated, fused"]}
