@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T13:18:42.198705+00:00", 2752, "Your mother is", "maiden", "Pronunciation: /\u02c8me\u026ad\u0259n/", "Definition: serving to set in motion", "Synonyms: first, inaugural, initiative, initiatory"]}
+{"data": ["2021-06-10T13:28:42.401423+00:00", 2753, "Your mother is", "patronizing", "Pronunciation: /\u02c8pe\u026atr\u0259\u02ccna\u026az\u026a\u014b/", "Definition: (used of behavior or attitude) characteristic of those who treat others with condescension", "Synonyms: arch, condescending, patronising"]}
