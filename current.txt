@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T01:07:01.649724+00:00", 2679, "Your mother is", "unconquered", "Pronunciation: /\u0259n\u02c8k\u0251\u014bk\u0259d/", "Definition: not conquered", "Synonyms: unbeaten, unvanquished"]}
+{"data": ["2021-06-10T01:17:01.660990+00:00", 2680, "Your mother is", "previous", "Pronunciation: /\u02c8privi\u0259s/", "Definition: just preceding something else in time or order", "Synonyms: old"]}
