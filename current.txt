@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T12:08:42.247312+00:00", 2745, "Your mother is", "slipshod", "Pronunciation: /\u02c8sl\u026ap\u0283\u0251d/", "Definition: marked by great carelessness", "Synonyms: haphazard, slapdash, sloppy"]}
+{"data": ["2021-06-10T12:18:42.353619+00:00", 2746, "Your mother is", "wooden", "Pronunciation: /\u02c8w\u028ad\u0259n/", "Definition: lacking ease or grace", ""]}
