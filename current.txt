@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T20:58:42.341707+00:00", 2798, "Your mother is", "high-powered", "Pronunciation: /ha\u026a-\u02c8pa\u028a\u0259rd/", "Definition: vigorously energetic or forceful", "Synonyms: high-energy, high-octane, high-power, high-voltage"]}
+{"data": ["2021-06-10T21:08:42.246913+00:00", 2799, "Your mother is", "municipal", "Pronunciation: /mju\u02c8n\u026as\u0259p\u0259l/", "Definition: of or relating to the government of a municipality", ""]}
