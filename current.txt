@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T22:58:42.100750+00:00", 2810, "Your mother is", "sobering", "Pronunciation: /\u02c8so\u028ab\u025dr\u026a\u014b/", "Definition: tending to make sober or more serious", ""]}
+{"data": ["2021-06-10T23:08:42.163389+00:00", 2811, "Your mother is", "semite", "Pronunciation: /\u02c8s\u025bma\u026at/", "Definition: of or relating to or characteristic of Semites", "Synonyms: semitic"]}
