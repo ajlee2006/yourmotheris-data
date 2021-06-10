@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T12:48:42.246406+00:00", 2749, "Your mother is", "inlaid", "Pronunciation: /\u02c8\u026an\u02ccle\u026ad/", "Definition: adorned by inlays", ""]}
+{"data": ["2021-06-10T12:58:42.281076+00:00", 2750, "Your mother is", "sociable", "Pronunciation: /\u02c8so\u028a\u0283\u0259b\u0259l/", "Definition: friendly and pleasant", ""]}
