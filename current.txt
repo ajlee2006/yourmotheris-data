@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T12:18:42.353619+00:00", 2746, "Your mother is", "wooden", "Pronunciation: /\u02c8w\u028ad\u0259n/", "Definition: lacking ease or grace", ""]}
+{"data": ["2021-06-10T12:28:42.194235+00:00", 2747, "Your mother is", "stentorian", "Pronunciation: /st\u025bn\u02c8to\u028ari\u0259n/", "Definition: (used of the voice or sound) deep and resonant", "Synonyms: booming"]}
