@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T08:08:42.434726+00:00", 2721, "Your mother is", "warming", "Pronunciation: /\u02c8w\u0254rm\u026a\u014b/", "Definition: producing the sensation of heat when applied to the body", "Synonyms: calefacient"]}
+{"data": ["2021-06-10T08:18:42.212569+00:00", 2722, "Your mother is", "putrefactive", "Similar to: infected", "Definition: causing or promoting bacterial putrefaction", "Synonyms: putrefacient"]}
