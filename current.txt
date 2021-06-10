@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T01:57:01.571014+00:00", 2684, "Your mother is", "redeemed", "Pronunciation: /r\u026a\u02c8dimd/", "Definition: saved from the bondage of sin", "Synonyms: ransomed"]}
+{"data": ["2021-06-10T02:07:01.569243+00:00", 2685, "Your mother is", "gaelic", "Pronunciation: /\u02c8\u0261e\u026al\u026ak/", "Definition: relating to or characteristic of the Celts", "Synonyms: celtic"]}
