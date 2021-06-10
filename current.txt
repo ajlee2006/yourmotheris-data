@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T15:48:42.199231+00:00", 2767, "Your mother is", "half-hourly", "Pronunciation: /h\u00e6f-a\u028arli/", "Definition: occurring ever half hour", ""]}
+{"data": ["2021-06-10T15:58:42.955275+00:00", 2768, "Your mother is", "yogic", "Pronunciation: /\u02c8jo\u028a\u0261\u026ak/", "Definition: of or relating to yoga", "Synonyms: yogistic"]}
