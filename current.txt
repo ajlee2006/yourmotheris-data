@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T18:48:42.326120+00:00", 2785, "Your mother is", "grungy", "Pronunciation: /\u02c8\u0261r\u028cnd\u0292i/", "Definition: thickly covered with ingrained dirt or soot", "Synonyms: begrimed, dingy, grimy, grubby, raunchy"]}
+{"data": ["2021-06-10T18:58:42.242807+00:00", 2786, "Your mother is", "sacculate", "Pronunciation: /\u02c8s\u00e6kj\u0259\u02ccle\u026at/", "Definition: formed with or having saclike expansions", "Synonyms: sacculated"]}
