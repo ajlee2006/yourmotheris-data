@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T07:08:42.214976+00:00", 2715, "Your mother is", "learned", "Pronunciation: /l\u025crnd/", "Definition: having or showing profound knowledge", "Synonyms: erudite"]}
+{"data": ["2021-06-10T07:18:42.216654+00:00", 2716, "Your mother is", "large-grained", "Pronunciation: /l\u0251rd\u0292-gre\u026and/", "Definition: not having a fine texture", "Synonyms: coarse-grained"]}
