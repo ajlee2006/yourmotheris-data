@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T21:38:42.162701+00:00", 2802, "Your mother is", "bailable", "Pronunciation: /\u02c8be\u026al\u0259b\u0259l/", "Definition: admitting of bail", ""]}
+{"data": ["2021-06-10T21:48:42.313936+00:00", 2803, "Your mother is", "boxed in", "Similar to: enclosed", "Definition: enclosed in or as if in a box", "Synonyms: boxed, boxed-in"]}
