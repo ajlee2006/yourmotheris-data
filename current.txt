@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T15:08:42.696598+00:00", 2763, "Your mother is", "craven", "Pronunciation: /\u02c8kre\u026av\u0259n/", "Definition: lacking even the rudiments of courage; abjectly fearful", "Synonyms: recreant"]}
+{"data": ["2021-06-10T15:18:42.128086+00:00", 2764, "Your mother is", "peopled", "Pronunciation: /\u02c8pip\u028cld/", "Definition: furnished with people", ""]}
