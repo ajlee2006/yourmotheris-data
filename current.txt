@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T02:47:01.530356+00:00", 2689, "Your mother is", "nonhereditary", "Similar to: nonheritable", "Definition: not acquirable by inheritance", "Synonyms: nontransmissible"]}
+{"data": ["2021-06-10T02:58:42.482094+00:00", 2690, "Your mother is", "anencephalic", "Pronunciation: /\u00e6\u02ccn\u025bns\u028c\u02c8f\u00e6l\u026ak/", "Definition: characterized by partial or total absence of a brain", "Synonyms: anencephalous"]}
