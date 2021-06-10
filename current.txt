@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T07:28:42.110899+00:00", 2717, "Your mother is", "fluid", "Pronunciation: /\u02c8flu\u026ad/", "Definition: affording change (especially in social status)", "Synonyms: mobile"]}
+{"data": ["2021-06-10T07:38:42.267771+00:00", 2718, "Your mother is", "monopteral", "Similar to: peripteral", "Definition: having circular columniation", ""]}
