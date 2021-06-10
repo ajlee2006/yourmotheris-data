@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T14:18:42.392138+00:00", 2758, "Your mother is", "timbered", "Pronunciation: /\u02c8t\u026amb\u0259rd/", "Definition: covered with growing timber", ""]}
+{"data": ["2021-06-10T14:28:42.494525+00:00", 2759, "Your mother is", "untasted", "Pronunciation: /\u0259n\u02c8te\u026ast\u026ad/", "Definition: still full", "Synonyms: untouched"]}
