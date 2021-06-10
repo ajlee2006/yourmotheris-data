@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T05:48:42.233367+00:00", 2707, "Your mother is", "ungulated", "Similar to: solid-hoofed", "Definition: having or resembling hoofs", "Synonyms: hoofed, hooved, ungulate"]}
+{"data": ["2021-06-10T05:58:42.431365+00:00", 2708, "Your mother is", "aflutter", "Pronunciation: /\u0259\u02c8fl\u0259t\u0259r/", "Definition: excited in anticipation", "Synonyms: nervous"]}
