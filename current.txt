@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T16:28:42.249290+00:00", 2771, "Your mother is", "rubbery", "Pronunciation: /\u02c8r\u0259b\u0259ri/", "Definition: difficult to chew", "Synonyms: cartilaginous, gristly"]}
+{"data": ["2021-06-10T16:38:42.305432+00:00", 2772, "Your mother is", "unremitting", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8m\u026at\u026a\u014b/", "Definition: uninterrupted in time and indefinitely long continuing", "Synonyms: ceaseless, constant, incessant, never-ending, perpetual, unceasing"]}
