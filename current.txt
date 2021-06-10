@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T17:58:42.253751+00:00", 2780, "Your mother is", "wheezy", "Pronunciation: /\u02c8hwizi/", "Definition: having a tone of a reed instrument", "Synonyms: reedy"]}
+{"data": ["2021-06-10T18:08:42.407947+00:00", 2781, "Your mother is", "gory", "Pronunciation: /\u02c8\u0261o\u028ari/", "Definition: covered with blood", "Synonyms: bloodstained"]}
