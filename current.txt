@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T06:38:42.171492+00:00", 2712, "Your mother is", "uncommitted", "Pronunciation: /\u02cc\u0259nk\u0259\u02c8m\u026at\u026ad/", "Definition: not associated in an exclusive sexual relationship", "Synonyms: unattached"]}
+{"data": ["2021-06-10T06:48:42.250585+00:00", 2713, "Your mother is", "melted", "Pronunciation: /\u02c8m\u025blt\u028cd/", "Definition: changed from a solid to a liquid state", "Synonyms: liquid, liquified"]}
