@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T04:18:42.243918+00:00", 2698, "Your mother is", "burned-over", "Similar to: destroyed", "Definition: destroyed or badly damaged by fire", "Synonyms: burned, burned-out, burnt, burnt-out"]}
+{"data": ["2021-06-10T04:28:42.353535+00:00", 2699, "Your mother is", "walking", "Pronunciation: /\u02c8w\u0254k\u026a\u014b/", "Definition: close enough to be walked to", "Synonyms: walk-to"]}
