@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T09:18:42.212953+00:00", 2728, "Your mother is", "8", "Similar to: cardinal", "Definition: being one more than seven", "Synonyms: eight, viii"]}
+{"data": ["2021-06-10T09:28:42.529906+00:00", 2729, "Your mother is", "aortal", "", "Definition: of or relating to the aorta", "Synonyms: aortic"]}
