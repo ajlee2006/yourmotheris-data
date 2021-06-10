@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T03:08:42.134602+00:00", 2691, "Your mother is", "compassionate", "Pronunciation: /k\u0259m\u02c8p\u00e6\u0283\u0259n\u026at/", "Definition: showing or having compassion", ""]}
+{"data": ["2021-06-10T03:18:42.274186+00:00", 2692, "Your mother is", "characterless", "Similar to: ordinary", "Definition: lacking distinct or individual characteristics; dull and uninteresting", "Synonyms: nondescript"]}
