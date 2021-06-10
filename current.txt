@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T16:18:42.568851+00:00", 2770, "Your mother is", "unbodied", "Pronunciation: /\u0259n\u02c8b\u0251did/", "Definition: not having a material body", "Synonyms: bodiless, discorporate, disembodied, unembodied"]}
+{"data": ["2021-06-10T16:28:42.249290+00:00", 2771, "Your mother is", "rubbery", "Pronunciation: /\u02c8r\u0259b\u0259ri/", "Definition: difficult to chew", "Synonyms: cartilaginous, gristly"]}
