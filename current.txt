@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T00:17:01.900332+00:00", 2674, "Your mother is", "unmilitary", "Pronunciation: /\u0259n\u02c8m\u026al\u026at\u0259ri/", "Definition: not associated with soldiers or the military", "Synonyms: nonmilitary"]}
+{"data": ["2021-06-10T00:27:01.618676+00:00", 2675, "Your mother is", "xviii", "Similar to: cardinal", "Definition: being one more than seventeen", "Synonyms: 18, eighteen"]}
