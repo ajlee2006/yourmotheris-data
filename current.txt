@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T22:18:42.153294+00:00", 2806, "Your mother is", "patient", "Pronunciation: /\u02c8pe\u026a\u0283\u025bnt/", "Definition: enduring trying circumstances with even temper or characterized by such endurance", ""]}
+{"data": ["2021-06-10T22:28:42.211542+00:00", 2807, "Your mother is", "triumphal", "Pronunciation: /tra\u026a\u02c8\u0259mf\u0259l/", "Definition: joyful and proud especially because of triumph or success", "Synonyms: exultant, exulting, jubilant, prideful, rejoicing, triumphant"]}
