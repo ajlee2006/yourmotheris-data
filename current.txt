@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T18:18:42.278603+00:00", 2782, "Your mother is", "unspeakable", "Pronunciation: /\u0259n\u02c8spik\u0259b\u0259l/", "Definition: too sacred to be uttered", "Synonyms: ineffable, unnameable, unutterable"]}
+{"data": ["2021-06-10T18:28:42.347342+00:00", 2783, "Your mother is", "jolted", "Pronunciation: /\u02c8d\u0292o\u028alt\u026ad/", "Definition: disturbed psychologically as if by a physical jolt or shock", "Synonyms: shaken"]}
