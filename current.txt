@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T11:38:42.505315+00:00", 2742, "Your mother is", "crispate", "Pronunciation: /\u02c8kr\u026aspe\u026at/", "Definition: wavy or notched and curled very irregularly", ""]}
+{"data": ["2021-06-10T11:48:42.125267+00:00", 2743, "Your mother is", "stellate", "Pronunciation: /\u02c8st\u025bl\u026at/", "Definition: arranged like rays or radii; radiating from a common center", "Synonyms: radial, radiate"]}
