@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T00:07:01.573448+00:00", 2673, "Your mother is", "effulgent", "Pronunciation: /\u026a\u02c8f\u0259ld\u0292\u0259nt/", "Definition: radiating or as if radiating light", "Synonyms: beaming, beamy, radiant, refulgent"]}
+{"data": ["2021-06-10T00:17:01.900332+00:00", 2674, "Your mother is", "unmilitary", "Pronunciation: /\u0259n\u02c8m\u026al\u026at\u0259ri/", "Definition: not associated with soldiers or the military", "Synonyms: nonmilitary"]}
