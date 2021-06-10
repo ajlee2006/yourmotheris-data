@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T01:17:01.660990+00:00", 2680, "Your mother is", "previous", "Pronunciation: /\u02c8privi\u0259s/", "Definition: just preceding something else in time or order", "Synonyms: old"]}
+{"data": ["2021-06-10T01:27:01.533154+00:00", 2681, "Your mother is", "heedful", "Pronunciation: /\u02c8hidf\u0259l/", "Definition: cautiously attentive", "Synonyms: careful"]}
