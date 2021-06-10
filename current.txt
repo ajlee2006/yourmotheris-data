@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T02:07:01.569243+00:00", 2685, "Your mother is", "gaelic", "Pronunciation: /\u02c8\u0261e\u026al\u026ak/", "Definition: relating to or characteristic of the Celts", "Synonyms: celtic"]}
+{"data": ["2021-06-10T02:17:01.562076+00:00", 2686, "Your mother is", "orange-sized", "Pronunciation: /\u02c8\u0254r\u026and\u0292-sa\u026azd/", "Definition: having the approximate size of an orange", ""]}
