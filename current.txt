@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T13:38:42.127395+00:00", 2754, "Your mother is", "hourlong", "Pronunciation: /\u02c8a\u028ar\u02ccl\u0254\u014b/", "Definition: lasting for an hour", ""]}
+{"data": ["2021-06-10T13:48:42.198071+00:00", 2755, "Your mother is", "dietary", "Pronunciation: /\u02c8da\u026a\u026a\u02cct\u025bri/", "Definition: of or relating to the diet", "Synonyms: dietetic, dietetical"]}
