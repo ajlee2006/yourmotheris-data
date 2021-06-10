@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T23:48:42.234771+00:00", 2815, "Your mother is", "unearthly", "Pronunciation: /\u0259n\u02c8\u025cr\u03b8li/", "Definition: suggesting the operation of supernatural influences", "Synonyms: eldritch, uncanny, weird"]}
+{"data": ["2021-06-10T23:58:42.226451+00:00", 2816, "Your mother is", "aguish", "Pronunciation: /\u02c8e\u026a\u0261ju\u026a\u0283/", "Definition: affected by ague", ""]}
