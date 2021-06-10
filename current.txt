@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T21:08:42.246913+00:00", 2799, "Your mother is", "municipal", "Pronunciation: /mju\u02c8n\u026as\u0259p\u0259l/", "Definition: of or relating to the government of a municipality", ""]}
+{"data": ["2021-06-10T21:18:42.426705+00:00", 2800, "Your mother is", "6-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with six members", "Synonyms: six-membered"]}
