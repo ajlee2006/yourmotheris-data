@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T07:18:42.216654+00:00", 2716, "Your mother is", "large-grained", "Pronunciation: /l\u0251rd\u0292-gre\u026and/", "Definition: not having a fine texture", "Synonyms: coarse-grained"]}
+{"data": ["2021-06-10T07:28:42.110899+00:00", 2717, "Your mother is", "fluid", "Pronunciation: /\u02c8flu\u026ad/", "Definition: affording change (especially in social status)", "Synonyms: mobile"]}
