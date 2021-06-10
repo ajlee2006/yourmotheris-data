@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T21:58:42.161420+00:00", 2804, "Your mother is", "deviate", "Pronunciation: /\u02c8div\u026a\u02cce\u026at/", "Definition: markedly different from an accepted norm", "Synonyms: aberrant, deviant"]}
+{"data": ["2021-06-10T22:08:42.259392+00:00", 2805, "Your mother is", "crocked", "Pronunciation: /kr\u0251kt/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
