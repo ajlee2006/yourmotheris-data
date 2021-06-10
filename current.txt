@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T05:18:42.198926+00:00", 2704, "Your mother is", "round-the-clock", "Pronunciation: /\u02c8ra\u028and-\u00f0\u0259-\u02c8kl\u0251k/", "Definition: at all times", "Synonyms: around-the-clock, day-and-night, nonstop"]}
+{"data": ["2021-06-10T05:28:42.204650+00:00", 2705, "Your mother is", "unjust", "Pronunciation: /\u0259n\u02c8d\u0292\u0259st/", "Definition: not fair; marked by injustice or partiality or deception", "Synonyms: unfair"]}
