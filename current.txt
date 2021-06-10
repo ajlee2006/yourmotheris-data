@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T17:38:42.347753+00:00", 2778, "Your mother is", "confirmed", "Pronunciation: /k\u0259n\u02c8f\u025crmd/", "Definition: having been established or made firm or received the rite of confirmation", ""]}
+{"data": ["2021-06-10T17:48:42.131879+00:00", 2779, "Your mother is", "unprofessional", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8f\u025b\u0283\u0259n\u0259l/", "Definition: not characteristic of or befitting a profession or one engaged in a profession", ""]}
