@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T02:58:42.482094+00:00", 2690, "Your mother is", "anencephalic", "Pronunciation: /\u00e6\u02ccn\u025bns\u028c\u02c8f\u00e6l\u026ak/", "Definition: characterized by partial or total absence of a brain", "Synonyms: anencephalous"]}
+{"data": ["2021-06-10T03:08:42.134602+00:00", 2691, "Your mother is", "compassionate", "Pronunciation: /k\u0259m\u02c8p\u00e6\u0283\u0259n\u026at/", "Definition: showing or having compassion", ""]}
