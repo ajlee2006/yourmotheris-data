@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T08:28:42.247503+00:00", 2723, "Your mother is", "preoperative", "Pronunciation: /\u02c8pri\u02c8\u0251p(\u0259)r\u0259t\u026av/", "Definition: happening or done before and in preparation for a surgical operation", ""]}
+{"data": ["2021-06-10T08:38:42.304044+00:00", 2724, "Your mother is", "diluted", "Pronunciation: /da\u026a\u02c8lut\u028cd/", "Definition: reduced in strength or concentration or quality or purity", "Synonyms: dilute"]}
