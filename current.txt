@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T00:37:01.710654+00:00", 2676, "Your mother is", "uninsurable", "Pronunciation: /\u02cc\u0259n\u026an\u02c8\u0283\u028a\u0259r\u0259b\u0259l/", "Definition: not capable of being insured or not eligible to be insured", ""]}
+{"data": ["2021-06-10T00:47:01.661244+00:00", 2677, "Your mother is", "glass-like", "Similar to: glazed", "Definition: resembling glass", ""]}
