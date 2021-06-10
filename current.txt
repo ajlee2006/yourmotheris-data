@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T03:38:42.146191+00:00", 2694, "Your mother is", "disruptive", "Pronunciation: /d\u026as\u02c8r\u0259pt\u026av/", "Definition: characterized by unrest or disorder or insubordination", "Synonyms: riotous, troubled, tumultuous, turbulent"]}
+{"data": ["2021-06-10T03:48:42.162623+00:00", 2695, "Your mother is", "on your guard", "Similar to: wary", "Definition: vigilant", "Synonyms: on guard, on one's guard, upon one's guard"]}
