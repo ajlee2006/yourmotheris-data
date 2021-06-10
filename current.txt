@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T18:58:42.242807+00:00", 2786, "Your mother is", "sacculate", "Pronunciation: /\u02c8s\u00e6kj\u0259\u02ccle\u026at/", "Definition: formed with or having saclike expansions", "Synonyms: sacculated"]}
+{"data": ["2021-06-10T19:08:42.355903+00:00", 2787, "Your mother is", "agronomical", "Pronunciation: /\u02cc\u00e6gr\u0259\u02c8n\u0251m\u026ak\u0259l/", "Definition: of or relating to or promoting agronomy", "Synonyms: agronomic"]}
