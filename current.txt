@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T09:38:42.143434+00:00", 2730, "Your mother is", "analogical", "Pronunciation: /\u02cc\u00e6n\u02c8\u0259l\u0251d\u0292\u026ak\u0259l/", "Definition: expressing, composed of, or based on an analogy", ""]}
+{"data": ["2021-06-10T09:48:42.114826+00:00", 2731, "Your mother is", "apiculate", "Pronunciation: /\u0259\u02c8p\u026akj\u0259l\u026at/", "Definition: (of a leaf shape) having a short sharply pointed tip", ""]}
