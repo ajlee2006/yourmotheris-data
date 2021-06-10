@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T23:38:42.288560+00:00", 2814, "Your mother is", "favourable", "Pronunciation: /\u02c8fe\u026av\u0259r\u0259b\u0259l/", "Definition: presaging or likely to bring good luck or a good outcome", "Synonyms: favorable, golden, lucky, prosperous"]}
+{"data": ["2021-06-10T23:48:42.234771+00:00", 2815, "Your mother is", "unearthly", "Pronunciation: /\u0259n\u02c8\u025cr\u03b8li/", "Definition: suggesting the operation of supernatural influences", "Synonyms: eldritch, uncanny, weird"]}
