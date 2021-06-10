@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T20:28:42.227002+00:00", 2795, "Your mother is", "stone-dead", "Pronunciation: /sto\u028an-d\u025bd/", "Definition: as lifeless as a stone", ""]}
+{"data": ["2021-06-10T20:38:42.267441+00:00", 2796, "Your mother is", "indigenous", "Pronunciation: /\u026an\u02c8d\u026ad\u0292\u0259n\u0259s/", "Definition: originating where it is found", "Synonyms: autochthonal, autochthonic, autochthonous, endemic"]}
