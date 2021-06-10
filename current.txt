@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T10:28:42.088625+00:00", 2735, "Your mother is", "coalesced", "Pronunciation: /\u02ccko\u028a\u028c\u02c8l\u025bst/", "Definition: joined together into a whole", "Synonyms: amalgamate, amalgamated, consolidated, fused"]}
+{"data": ["2021-06-10T10:38:42.183590+00:00", 2736, "Your mother is", "smothered", "Pronunciation: /\u02c8sm\u028c\u00f0\u025drd/", "Definition: held in check with difficulty", "Synonyms: stifled, strangled, suppressed"]}
