@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T05:58:42.431365+00:00", 2708, "Your mother is", "aflutter", "Pronunciation: /\u0259\u02c8fl\u0259t\u0259r/", "Definition: excited in anticipation", "Synonyms: nervous"]}
+{"data": ["2021-06-10T06:08:42.321516+00:00", 2709, "Your mother is", "accrued", "Pronunciation: /\u028c\u02c8krud/", "Definition: periodically accumulated over time", "Synonyms: accumulated"]}
