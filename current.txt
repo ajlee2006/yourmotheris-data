@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T05:08:42.480674+00:00", 2703, "Your mother is", "mercurial", "Pronunciation: /m\u0259r\u02c8kj\u028ari\u0259l/", "Definition: liable to sudden unpredictable change", "Synonyms: erratic, fickle, quicksilver"]}
+{"data": ["2021-06-10T05:18:42.198926+00:00", 2704, "Your mother is", "round-the-clock", "Pronunciation: /\u02c8ra\u028and-\u00f0\u0259-\u02c8kl\u0251k/", "Definition: at all times", "Synonyms: around-the-clock, day-and-night, nonstop"]}
