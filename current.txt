@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T02:27:01.598617+00:00", 2687, "Your mother is", "foreseeable", "Pronunciation: /f\u0254r\u02c8si\u028cb\u028cl/", "Definition: capable of being anticipated", ""]}
+{"data": ["2021-06-10T02:37:01.914866+00:00", 2688, "Your mother is", "recreational", "Pronunciation: /\u02ccr\u025bkri\u02c8e\u026a\u0283\u028cn\u028cl/", "Definition: engaged in as a pastime", "Synonyms: amateur, unpaid"]}
