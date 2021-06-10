@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T05:38:42.311380+00:00", 2706, "Your mother is", "unnecessary", "Pronunciation: /\u0259n\u02c8n\u025bs\u026a\u02ccs\u025bri/", "Definition: not necessary", "Synonyms: unneeded"]}
+{"data": ["2021-06-10T05:48:42.233367+00:00", 2707, "Your mother is", "ungulated", "Similar to: solid-hoofed", "Definition: having or resembling hoofs", "Synonyms: hoofed, hooved, ungulate"]}
