@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T17:18:42.311609+00:00", 2776, "Your mother is", "uncoloured", "Pronunciation: /\u0259n\u02c8k\u0259l\u0259d/", "Definition: without color", "Synonyms: uncolored"]}
+{"data": ["2021-06-10T17:28:42.135008+00:00", 2777, "Your mother is", "apportionable", "Similar to: distributive", "Definition: capable of being distributed", "Synonyms: allocable, allocatable"]}
