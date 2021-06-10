@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T19:18:42.130267+00:00", 2788, "Your mother is", "saturated", "Pronunciation: /\u02c8s\u00e6\u02a7\u0259\u02ccre\u026at\u026ad/", "Definition: being the most concentrated solution possible at a given temperature; unable to dissolve still more of a substance", "Synonyms: concentrated"]}
+{"data": ["2021-06-10T19:28:42.302509+00:00", 2789, "Your mother is", "turbinate", "Pronunciation: /\u02c8t\u025crb\u0259n\u026at/", "Definition: in the shape of a coil", "Synonyms: coiling, helical, spiral, spiraling, volute, voluted, whorled"]}
