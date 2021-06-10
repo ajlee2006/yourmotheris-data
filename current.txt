@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T06:58:42.941714+00:00", 2714, "Your mother is", "immotile", "Pronunciation: /\u026a\u02c8mo\u028at\u0259l/", "Definition: (of spores or microorganisms) not capable of movement", "Synonyms: nonmotile"]}
+{"data": ["2021-06-10T07:08:42.214976+00:00", 2715, "Your mother is", "learned", "Pronunciation: /l\u025crnd/", "Definition: having or showing profound knowledge", "Synonyms: erudite"]}
