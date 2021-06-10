@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T09:58:42.164571+00:00", 2732, "Your mother is", "even-pinnate", "Similar to: compound", "Definition: (of a leaf shape) pinnate with a pair of leaflets at the apex", "Synonyms: abruptly-pinnate, paripinnate"]}
+{"data": ["2021-06-10T10:08:42.192532+00:00", 2733, "Your mother is", "well-intentioned", "Pronunciation: /\u02c8w\u025bl-\u026an\u02c8t\u025bn\u0283\u0259nd/", "Definition: marked by good intentions though often producing unfortunate results", "Synonyms: well-meaning, well-meant"]}
