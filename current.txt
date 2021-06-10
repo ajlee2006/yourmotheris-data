@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T18:08:42.407947+00:00", 2781, "Your mother is", "gory", "Pronunciation: /\u02c8\u0261o\u028ari/", "Definition: covered with blood", "Synonyms: bloodstained"]}
+{"data": ["2021-06-10T18:18:42.278603+00:00", 2782, "Your mother is", "unspeakable", "Pronunciation: /\u0259n\u02c8spik\u0259b\u0259l/", "Definition: too sacred to be uttered", "Synonyms: ineffable, unnameable, unutterable"]}
