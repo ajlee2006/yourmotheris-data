@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T18:38:42.364932+00:00", 2784, "Your mother is", "contemptuous", "Pronunciation: /k\u0259n\u02c8t\u025bmp\u02a7u\u0259s/", "Definition: expressing extreme contempt", "Synonyms: disdainful, insulting, scornful"]}
+{"data": ["2021-06-10T18:48:42.326120+00:00", 2785, "Your mother is", "grungy", "Pronunciation: /\u02c8\u0261r\u028cnd\u0292i/", "Definition: thickly covered with ingrained dirt or soot", "Synonyms: begrimed, dingy, grimy, grubby, raunchy"]}
