@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T10:01:07.666759+00:00", 2876, "Your mother is", "fair-haired", "Pronunciation: /\u02c8f\u025cr\u02c8h\u025crd/", "Definition: favorite", "Synonyms: blue-eyed, white-haired"]}
+{"data": ["2021-06-11T10:11:07.201060+00:00", 2877, "Your mother is", "prismatic", "Pronunciation: /pr\u026az\u02c8m\u00e6t\u026ak/", "Definition: exhibiting spectral colors formed by refraction of light through a prism", ""]}
