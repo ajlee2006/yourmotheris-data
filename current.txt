@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T00:48:42.283255+00:00", 2821, "Your mother is", "beastly", "Pronunciation: /\u02c8bistli/", "Definition: (informal) very unpleasant", "Synonyms: god-awful, hellish"]}
+{"data": ["2021-06-11T00:58:42.147913+00:00", 2822, "Your mother is", "self-coloured", "Pronunciation: /s\u025blf\u02c8k\u0259l\u0259d/", "Definition: of the same color throughout", "Synonyms: self-colored, solid"]}
