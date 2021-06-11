@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T17:31:07.481632+00:00", 2921, "Your mother is", "rancorous", "Pronunciation: /\u02c8r\u00e6\u014bk\u0259r\u0259s/", "Definition: showing deep-seated resentment", ""]}
+{"data": ["2021-06-11T17:41:07.425501+00:00", 2922, "Your mother is", "wifelike", "Pronunciation: /\u02c8wa\u026af\u02ccla\u026ak/", "Definition: befitting or characteristic of a wife", "Synonyms: uxorial, wifely"]}
