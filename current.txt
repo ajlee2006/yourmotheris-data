@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T05:21:07.235631+00:00", 2848, "Your mother is", "taxable", "Pronunciation: /\u02c8t\u00e6ks\u0259b\u0259l/", "Definition: (of goods or funds) subject to taxation", "Synonyms: nonexempt"]}
+{"data": ["2021-06-11T05:31:07.371030+00:00", 2849, "Your mother is", "congenital", "Pronunciation: /k\u0259n\u02c8d\u0292\u025bn\u026at\u0259l/", "Definition: present at birth but not necessarily hereditary; acquired during fetal development", "Synonyms: inborn, innate"]}
