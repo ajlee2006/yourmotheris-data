@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T05:41:07.294312+00:00", 2850, "Your mother is", "maniclike", "Similar to: insane", "Definition: resembling the mania of manic-depressive illness", ""]}
+{"data": ["2021-06-11T05:51:07.237280+00:00", 2851, "Your mother is", "taboo", "Pronunciation: /t\u00e6\u02c8bu/", "Definition: excluded from use or mention", "Synonyms: forbidden, out, prohibited, proscribed, tabu, verboten"]}
