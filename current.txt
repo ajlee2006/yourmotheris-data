@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T22:21:07.340811+00:00", 2950, "Your mother is", "likely", "Pronunciation: /\u02c8la\u026akli/", "Definition: likely but not certain to be or become true or real", "Synonyms: probable"]}
+{"data": ["2021-06-11T22:31:07.483255+00:00", 2951, "Your mother is", "traversable", "Similar to: passable", "Definition: capable of being traversed", "Synonyms: travelable"]}
