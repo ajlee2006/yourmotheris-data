@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T22:41:07.264081+00:00", 2952, "Your mother is", "brachycranic", "Pronunciation: /\u02ccbr\u00e6ki\u02c8kre\u026an\u026ak/", "Definition: having a short broad head with a cephalic index of over 80", "Synonyms: brachycephalic, brachycranial"]}
+{"data": ["2021-06-11T22:51:07.285898+00:00", 2953, "Your mother is", "annular", "Pronunciation: /\u02c8\u00e6nj\u0259l\u0259r/", "Definition: shaped like a ring", "Synonyms: annulate, annulated, circinate, doughnut-shaped, ring-shaped, ringed"]}
