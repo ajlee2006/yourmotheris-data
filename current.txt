@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T01:38:42.158513+00:00", 2826, "Your mother is", "fallen", "Pronunciation: /\u02c8f\u0254l\u0259n/", "Definition: having dropped by the force of gravity", ""]}
+{"data": ["2021-06-11T01:48:42.096494+00:00", 2827, "Your mother is", "wildcat", "Pronunciation: /\u02c8wa\u026aldk\u00e6t/", "Definition: without official authorization", "Synonyms: unauthorised, unauthorized"]}
