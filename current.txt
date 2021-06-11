@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T10:21:07.262140+00:00", 2878, "Your mother is", "paralyzed", "Pronunciation: /\u02c8p\u025br\u028c\u02ccla\u026azd/", "Definition: affected with paralysis", "Synonyms: paralytic"]}
+{"data": ["2021-06-11T10:31:07.310007+00:00", 2879, "Your mother is", "early-flowering", "Similar to: vernal", "Definition: of plants that bloom during the spring", "Synonyms: early-blooming, late-spring-blooming, spring-blooming, spring-flowering"]}
