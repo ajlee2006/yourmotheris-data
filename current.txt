@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T22:01:07.320517+00:00", 2948, "Your mother is", "nonmetamorphic", "Similar to: ametabolic", "Definition: not metamorphic", ""]}
+{"data": ["2021-06-11T22:11:07.724045+00:00", 2949, "Your mother is", "triangular", "Pronunciation: /tra\u026a\u02c8\u00e6\u014b\u0261j\u0259l\u0259r/", "Definition: having three sides", "Synonyms: three-sided, trilateral"]}
