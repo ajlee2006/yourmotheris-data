@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T09:51:07.251152+00:00", 2875, "Your mother is", "toxicant", "Similar to: toxic", "Definition: having the qualities or effects of a poison", "Synonyms: poisonous"]}
+{"data": ["2021-06-11T10:01:07.666759+00:00", 2876, "Your mother is", "fair-haired", "Pronunciation: /\u02c8f\u025cr\u02c8h\u025crd/", "Definition: favorite", "Synonyms: blue-eyed, white-haired"]}
