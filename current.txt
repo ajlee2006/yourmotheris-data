@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T23:41:07.446900+00:00", 2958, "Your mother is", "putrescent", "Pronunciation: /pju\u02c8tr\u025bs\u0259nt/", "Definition: becoming putrid", ""]}
+{"data": ["2021-06-11T23:51:07.246359+00:00", 2959, "Your mother is", "xi", "Pronunciation: /za\u026a/", "Definition: being one more than ten", "Synonyms: 11, eleven"]}
