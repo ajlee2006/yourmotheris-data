@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T01:48:42.096494+00:00", 2827, "Your mother is", "wildcat", "Pronunciation: /\u02c8wa\u026aldk\u00e6t/", "Definition: without official authorization", "Synonyms: unauthorised, unauthorized"]}
+{"data": ["2021-06-11T01:58:42.195399+00:00", 2828, "Your mother is", "saving", "Pronunciation: /\u02c8se\u026avi\u014b/", "Definition: bringing about salvation or redemption from sin", "Synonyms: redeeming, redemptive"]}
