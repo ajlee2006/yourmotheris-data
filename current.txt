@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T22:11:07.724045+00:00", 2949, "Your mother is", "triangular", "Pronunciation: /tra\u026a\u02c8\u00e6\u014b\u0261j\u0259l\u0259r/", "Definition: having three sides", "Synonyms: three-sided, trilateral"]}
+{"data": ["2021-06-11T22:21:07.340811+00:00", 2950, "Your mother is", "likely", "Pronunciation: /\u02c8la\u026akli/", "Definition: likely but not certain to be or become true or real", "Synonyms: probable"]}
