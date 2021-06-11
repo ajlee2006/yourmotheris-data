@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T10:11:07.201060+00:00", 2877, "Your mother is", "prismatic", "Pronunciation: /pr\u026az\u02c8m\u00e6t\u026ak/", "Definition: exhibiting spectral colors formed by refraction of light through a prism", ""]}
+{"data": ["2021-06-11T10:21:07.262140+00:00", 2878, "Your mother is", "paralyzed", "Pronunciation: /\u02c8p\u025br\u028c\u02ccla\u026azd/", "Definition: affected with paralysis", "Synonyms: paralytic"]}
