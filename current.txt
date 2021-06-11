@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T07:51:07.307071+00:00", 2863, "Your mother is", "garden", "Pronunciation: /\u02c8\u0261\u0251rd\u0259n/", "Definition: the usual or familiar type", ""]}
+{"data": ["2021-06-11T08:01:07.300175+00:00", 2864, "Your mother is", "out of print", "Similar to: discontinued", "Definition: (of books) no longer offered for sale by a publisher", ""]}
