@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T04:11:07.237435+00:00", 2841, "Your mother is", "consummate", "Pronunciation: /k\u0259n\u02c8s\u0259m\u026at/", "Definition: without qualification; used informally as (often pejorative) intensifiers", "Synonyms: arrant, complete, double-dyed, everlasting, gross, perfect, pure, sodding, staring, stark, thorough, thoroughgoing, unadulterated, utter"]}
+{"data": ["2021-06-11T04:21:07.229045+00:00", 2842, "Your mother is", "left over", "Similar to: unexhausted", "Definition: not used up", "Synonyms: left, leftover, odd, remaining, unexpended"]}
