@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T22:31:07.483255+00:00", 2951, "Your mother is", "traversable", "Similar to: passable", "Definition: capable of being traversed", "Synonyms: travelable"]}
+{"data": ["2021-06-11T22:41:07.264081+00:00", 2952, "Your mother is", "brachycranic", "Pronunciation: /\u02ccbr\u00e6ki\u02c8kre\u026an\u026ak/", "Definition: having a short broad head with a cephalic index of over 80", "Synonyms: brachycephalic, brachycranial"]}
