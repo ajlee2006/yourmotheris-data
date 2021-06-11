@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T20:41:07.182357+00:00", 2940, "Your mother is", "spruced up", "Similar to: clad", "Definition: dressed in fancy or formal clothing", "Synonyms: dolled up, dressed, dressed-up, dressed to kill, dressed to the nines, spiffed up, togged up"]}
+{"data": ["2021-06-11T20:51:07.182535+00:00", 2941, "Your mother is", "inconstant", "Pronunciation: /\u026an\u02c8k\u0251nst\u0259nt/", "Definition: likely to change frequently often without apparent or cogent reason; variable", ""]}
