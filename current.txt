@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T18:41:07.462940+00:00", 2928, "Your mother is", "twenty-fifth", "Pronunciation: /\u02c8tw\u025bnti-\u02c8f\u026af\u03b8/", "Definition: coming next after the twenty-fourth in position", "Synonyms: 25th"]}
+{"data": ["2021-06-11T18:51:07.307232+00:00", 2929, "Your mother is", "double-barrelled", "Similar to: ambiguous", "Definition: having two purposes; twofold", "Synonyms: double-barreled"]}
