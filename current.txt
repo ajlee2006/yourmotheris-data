@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T06:11:07.257394+00:00", 2853, "Your mother is", "silklike", "Similar to: bright", "Definition: having a smooth, gleaming surface reflecting light", "Synonyms: satiny, silken, silky, sleek, slick"]}
+{"data": ["2021-06-11T06:21:07.237983+00:00", 2854, "Your mother is", "sunk", "Pronunciation: /s\u0259\u014bk/", "Definition: doomed to extinction", "Synonyms: done for, ruined, undone, washed-up"]}
