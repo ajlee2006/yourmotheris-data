@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T09:31:07.339728+00:00", 2873, "Your mother is", "overcautious", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8k\u0254\u0283\u0259s/", "Definition: unnecessarily cautious", ""]}
+{"data": ["2021-06-11T09:41:07.121368+00:00", 2874, "Your mother is", "suboceanic", "Pronunciation: /\u02ccs\u0259bo\u028a\u0283i\u02c8\u00e6n\u026ak/", "Definition: formed or situated or occurring beneath the ocean or the ocean bed", "Synonyms: subocean"]}
