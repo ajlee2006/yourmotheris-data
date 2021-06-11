@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T17:11:07.428460+00:00", 2919, "Your mother is", "unrivalled", "Pronunciation: /\u0259n\u02c8ra\u026av\u0259ld/", "Definition: eminent beyond or above comparison", "Synonyms: matchless, nonpareil, one, one and only, peerless, unmatchable, unmatched, unrivaled"]}
+{"data": ["2021-06-11T17:21:07.301737+00:00", 2920, "Your mother is", "undefeated", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8fit\u026ad/", "Definition: victorious", ""]}
