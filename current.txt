@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T09:11:07.156666+00:00", 2871, "Your mother is", "uncontroversial", "Pronunciation: /\u02cc\u0259nk\u0251ntr\u0259\u02c8v\u025cr\u0283\u0259l/", "Definition: not likely to arouse controversy", "Synonyms: noncontroversial"]}
+{"data": ["2021-06-11T09:21:07.195602+00:00", 2872, "Your mother is", "nutritive", "Pronunciation: /\u02c8nutr\u026at\u026av/", "Definition: of or providing nourishment", "Synonyms: alimental, alimentary, nourishing, nutrient, nutritious"]}
