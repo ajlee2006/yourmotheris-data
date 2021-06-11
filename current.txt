@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T16:41:07.326642+00:00", 2916, "Your mother is", "shackled", "Pronunciation: /\u02c8\u0283\u00e6k\u028cld/", "Definition: bound by chains fastened around the ankles", "Synonyms: fettered"]}
+{"data": ["2021-06-11T16:51:07.383215+00:00", 2917, "Your mother is", "catabolic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8b\u0251l\u026ak/", "Definition: relating to or characterized by catabolism", "Synonyms: katabolic"]}
