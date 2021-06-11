@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T03:28:42.134647+00:00", 2837, "Your mother is", "moralistic", "Pronunciation: /\u02ccm\u0254r\u028c\u02c8l\u026ast\u026ak/", "Definition: narrowly and conventionally moral", ""]}
+{"data": ["2021-06-11T03:38:42.068437+00:00", 2838, "Your mother is", "autumn-blooming", "Similar to: autumnal", "Definition: of plants that bloom during the autumn", "Synonyms: autumn-flowering, fall-blooming, fall-flowering, late-blooming, late-flowering"]}
