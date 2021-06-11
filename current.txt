@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T03:08:42.174380+00:00", 2835, "Your mother is", "ccc", "Similar to: cardinal", "Definition: being one hundred more than two hundred", "Synonyms: 300, three hundred"]}
+{"data": ["2021-06-11T03:18:42.487451+00:00", 2836, "Your mother is", "misappropriated", "Pronunciation: /\u02ccm\u026as\u028c\u02c8pro\u028apri\u02cce\u026at\u026ad/", "Definition: taken for your own use in violation of a trust", "Synonyms: embezzled"]}
