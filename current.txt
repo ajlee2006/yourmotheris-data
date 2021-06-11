@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T14:01:07.281004+00:00", 2900, "Your mother is", "acerb", "Pronunciation: /\u0259\u02c8s\u025crb/", "Definition: sour or bitter in taste", "Synonyms: acerbic, astringent"]}
+{"data": ["2021-06-11T14:11:07.228165+00:00", 2901, "Your mother is", "complaining", "Pronunciation: /k\u028cm\u02c8ple\u026an\u026a\u014b/", "Definition: expressing pain or dissatisfaction of resentment", "Synonyms: complaintive"]}
