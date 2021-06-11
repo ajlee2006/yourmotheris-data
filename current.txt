@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T13:51:07.508741+00:00", 2899, "Your mother is", "segmental", "Pronunciation: /s\u025b\u0261\u02c8m\u025bnt\u0259l/", "Definition: having the body divided into successive metameres or segments, as in earthworms or lobsters", "Synonyms: metameric, segmented"]}
+{"data": ["2021-06-11T14:01:07.281004+00:00", 2900, "Your mother is", "acerb", "Pronunciation: /\u0259\u02c8s\u025crb/", "Definition: sour or bitter in taste", "Synonyms: acerbic, astringent"]}
