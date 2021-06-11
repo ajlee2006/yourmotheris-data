@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T00:38:42.195673+00:00", 2820, "Your mother is", "spartan", "Pronunciation: /\u02c8sp\u0251rt\u0259n/", "Definition: unsparing and uncompromising in discipline or judgment", "Synonyms: severe"]}
+{"data": ["2021-06-11T00:48:42.283255+00:00", 2821, "Your mother is", "beastly", "Pronunciation: /\u02c8bistli/", "Definition: (informal) very unpleasant", "Synonyms: god-awful, hellish"]}
