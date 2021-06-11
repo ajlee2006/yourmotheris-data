@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T04:51:07.599799+00:00", 2845, "Your mother is", "exhortative", "Pronunciation: /\u026a\u0261\u02c8z\u0254rt\u0259t\u026av/", "Definition: giving strong encouragement", "Synonyms: exhortatory, hortative, hortatory"]}
+{"data": ["2021-06-11T05:01:07.190277+00:00", 2846, "Your mother is", "far-right", "Similar to: right", "Definition: opposed to political or social liberalism or reform", "Synonyms: reactionary, reactionist"]}
