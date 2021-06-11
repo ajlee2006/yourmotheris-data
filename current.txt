@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T03:38:42.068437+00:00", 2838, "Your mother is", "autumn-blooming", "Similar to: autumnal", "Definition: of plants that bloom during the autumn", "Synonyms: autumn-flowering, fall-blooming, fall-flowering, late-blooming, late-flowering"]}
+{"data": ["2021-06-11T03:48:42.115669+00:00", 2839, "Your mother is", "virulent", "Pronunciation: /\u02c8v\u026arj\u0259l\u0259nt/", "Definition: harsh or corrosive in tone", "Synonyms: acerb, acerbic, acid, acrid, bitter, blistering, caustic, sulfurous, sulphurous, vitriolic"]}
