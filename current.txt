@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T08:41:07.495153+00:00", 2868, "Your mother is", "befuddled", "Pronunciation: /b\u026a\u02c8f\u028cd\u028cld/", "Definition: confused and vague; used especially of thinking", "Synonyms: addled, muddled, muzzy, woolly, woolly-headed, wooly, wooly-minded"]}
+{"data": ["2021-06-11T08:51:07.148908+00:00", 2869, "Your mother is", "licenced", "Similar to: authorised", "Definition: given official approval to act", "Synonyms: accredited, commissioned, licensed"]}
