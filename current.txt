@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T03:18:42.487451+00:00", 2836, "Your mother is", "misappropriated", "Pronunciation: /\u02ccm\u026as\u028c\u02c8pro\u028apri\u02cce\u026at\u026ad/", "Definition: taken for your own use in violation of a trust", "Synonyms: embezzled"]}
+{"data": ["2021-06-11T03:28:42.134647+00:00", 2837, "Your mother is", "moralistic", "Pronunciation: /\u02ccm\u0254r\u028c\u02c8l\u026ast\u026ak/", "Definition: narrowly and conventionally moral", ""]}
