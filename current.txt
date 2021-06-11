@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T12:51:07.240107+00:00", 2893, "Your mother is", "cardiopulmonary", "Pronunciation: /\u02cck\u0251rdio\u028a\u02c8p\u028alm\u028c\u02ccn\u025bri/", "Definition: of or pertaining to or affecting both the heart and the lungs and their functions", "Synonyms: cardiorespiratory"]}
+{"data": ["2021-06-11T13:01:07.202168+00:00", 2894, "Your mother is", "alcohol-dependent", "Similar to: addicted", "Definition: addicted to alcohol", "Synonyms: alcoholic"]}
