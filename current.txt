@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T13:01:07.202168+00:00", 2894, "Your mother is", "alcohol-dependent", "Similar to: addicted", "Definition: addicted to alcohol", "Synonyms: alcoholic"]}
+{"data": ["2021-06-11T13:11:07.452729+00:00", 2895, "Your mother is", "aculeated", "", "Definition: having or resembling a stinger or barb", "Synonyms: aculeate"]}
