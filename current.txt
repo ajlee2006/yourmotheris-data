@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T00:18:42.174166+00:00", 2818, "Your mother is", "arborical", "", "Definition: of or relating to or formed by trees", "Synonyms: arborary, arboreal, arborous"]}
+{"data": ["2021-06-11T00:28:42.416018+00:00", 2819, "Your mother is", "rejective", "Similar to: dismissive", "Definition: rejecting or tending to reject", ""]}
