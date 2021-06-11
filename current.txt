@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T18:51:07.307232+00:00", 2929, "Your mother is", "double-barrelled", "Similar to: ambiguous", "Definition: having two purposes; twofold", "Synonyms: double-barreled"]}
+{"data": ["2021-06-11T19:01:07.234420+00:00", 2930, "Your mother is", "volitional", "Similar to: willing", "Definition: with deliberate intention", ""]}
