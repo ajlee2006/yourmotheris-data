@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T07:01:07.292018+00:00", 2858, "Your mother is", "savourless", "Similar to: tasteless", "Definition: lacking taste or flavor or tang", "Synonyms: bland, flat, flavorless, flavourless, insipid, savorless, vapid"]}
+{"data": ["2021-06-11T07:11:07.483967+00:00", 2859, "Your mother is", "streaming", "Pronunciation: /\u02c8strim\u026a\u014b/", "Definition: (computer science) using or relating to a form of continuous tape transport; used mainly to provide backup storage of unedited data", ""]}
