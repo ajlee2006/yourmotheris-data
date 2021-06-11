@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T20:31:07.242832+00:00", 2939, "Your mother is", "unwooded", "Pronunciation: /\u0259n\u02c8w\u028ad\u026ad/", "Definition: not wooded", "Synonyms: treeless"]}
+{"data": ["2021-06-11T20:41:07.182357+00:00", 2940, "Your mother is", "spruced up", "Similar to: clad", "Definition: dressed in fancy or formal clothing", "Synonyms: dolled up, dressed, dressed-up, dressed to kill, dressed to the nines, spiffed up, togged up"]}
