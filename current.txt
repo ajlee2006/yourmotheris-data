@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T07:31:07.159682+00:00", 2861, "Your mother is", "cosmic", "Pronunciation: /\u02c8k\u0251zm\u026ak/", "Definition: inconceivably extended in space or time", ""]}
+{"data": ["2021-06-11T07:41:07.309708+00:00", 2862, "Your mother is", "dismal", "Pronunciation: /\u02c8d\u026azm\u0259l/", "Definition: causing dejection", "Synonyms: blue, dark, dingy, disconsolate, drab, drear, dreary, gloomy, grim, sorry"]}
