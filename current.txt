@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T16:21:07.351312+00:00", 2914, "Your mother is", "auriform", "Pronunciation: /\u02c8\u0254r\u0259\u02ccf\u0254rm/", "Definition: having a shape resembling an ear", "Synonyms: ear-like, ear-shaped"]}
+{"data": ["2021-06-11T16:31:07.327355+00:00", 2915, "Your mother is", "crenulate", "Pronunciation: /\u02c8kr\u025bnj\u0259\u02ccle\u026at/", "Definition: having a margin with small rounded teeth", "Synonyms: crenulated"]}
