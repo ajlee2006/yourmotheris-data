@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T09:01:07.253319+00:00", 2870, "Your mother is", "arboreous", "Pronunciation: /\u0251r\u02c8bo\u028ari\u0259s/", "Definition: inhabiting or frequenting trees", "Synonyms: arboreal, tree-living"]}
+{"data": ["2021-06-11T09:11:07.156666+00:00", 2871, "Your mother is", "uncontroversial", "Pronunciation: /\u02cc\u0259nk\u0251ntr\u0259\u02c8v\u025cr\u0283\u0259l/", "Definition: not likely to arouse controversy", "Synonyms: noncontroversial"]}
