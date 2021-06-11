@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T14:21:07.289842+00:00", 2902, "Your mother is", "connotative of", "Similar to: connotative", "Definition: of or relating to a connotation", "Synonyms: connotational"]}
+{"data": ["2021-06-11T14:31:07.224362+00:00", 2903, "Your mother is", "discordant", "Pronunciation: /d\u026as\u02c8k\u0254rd\u0259nt/", "Definition: lacking in harmony", "Synonyms: disharmonious, dissonant, inharmonic"]}
