@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T13:41:07.140157+00:00", 2898, "Your mother is", "depilous", "Similar to: hairless", "Definition: completely hairless", ""]}
+{"data": ["2021-06-11T13:51:07.508741+00:00", 2899, "Your mother is", "segmental", "Pronunciation: /s\u025b\u0261\u02c8m\u025bnt\u0259l/", "Definition: having the body divided into successive metameres or segments, as in earthworms or lobsters", "Synonyms: metameric, segmented"]}
