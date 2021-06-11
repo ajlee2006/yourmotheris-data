@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T21:51:07.266218+00:00", 2947, "Your mother is", "catchpenny", "Pronunciation: /\u02c8k\u00e6\u02a7\u02ccp\u025bni/", "Definition: designed to sell quickly without concern for quality", ""]}
+{"data": ["2021-06-11T22:01:07.320517+00:00", 2948, "Your mother is", "nonmetamorphic", "Similar to: ametabolic", "Definition: not metamorphic", ""]}
