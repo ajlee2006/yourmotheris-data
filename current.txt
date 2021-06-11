@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T01:28:42.143158+00:00", 2825, "Your mother is", "altissimo", "Pronunciation: /\u00e6l\u02c8t\u026as\u0259\u02ccmo\u028a/", "Definition: very high", ""]}
+{"data": ["2021-06-11T01:38:42.158513+00:00", 2826, "Your mother is", "fallen", "Pronunciation: /\u02c8f\u0254l\u0259n/", "Definition: having dropped by the force of gravity", ""]}
