@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T16:31:07.327355+00:00", 2915, "Your mother is", "crenulate", "Pronunciation: /\u02c8kr\u025bnj\u0259\u02ccle\u026at/", "Definition: having a margin with small rounded teeth", "Synonyms: crenulated"]}
+{"data": ["2021-06-11T16:41:07.326642+00:00", 2916, "Your mother is", "shackled", "Pronunciation: /\u02c8\u0283\u00e6k\u028cld/", "Definition: bound by chains fastened around the ankles", "Synonyms: fettered"]}
