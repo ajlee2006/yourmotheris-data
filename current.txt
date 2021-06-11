@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T15:41:07.333611+00:00", 2910, "Your mother is", "integumentary", "Pronunciation: /\u026an\u02cct\u025b\u0261j\u0259\u02c8m\u025bnt\u0259ri/", "Definition: of or relating to the integument", "Synonyms: integumental"]}
+{"data": ["2021-06-11T15:51:07.286426+00:00", 2911, "Your mother is", "swallow-tailed", "Pronunciation: /\u02c8sw\u0251lo\u028a-\u02ccte\u026ald/", "Definition: (especially of butterflies and birds) having a forked tail like that of a swallow", ""]}
