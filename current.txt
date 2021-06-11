@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T07:11:07.483967+00:00", 2859, "Your mother is", "streaming", "Pronunciation: /\u02c8strim\u026a\u014b/", "Definition: (computer science) using or relating to a form of continuous tape transport; used mainly to provide backup storage of unedited data", ""]}
+{"data": ["2021-06-11T07:21:07.315194+00:00", 2860, "Your mother is", "beaten", "Pronunciation: /\u02c8bit\u0259n/", "Definition: much trodden and worn smooth or bare", ""]}
