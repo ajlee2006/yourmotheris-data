@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T02:08:42.327496+00:00", 2829, "Your mother is", "plushy", "Pronunciation: /\u02c8pl\u0259\u0283i/", "Definition: (of textures) resembling plush", "Synonyms: plush-like"]}
+{"data": ["2021-06-11T02:18:42.221004+00:00", 2830, "Your mother is", "calyculate", "", "Definition: having a calyculus", "Synonyms: calycled"]}
