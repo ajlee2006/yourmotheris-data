@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T19:31:07.227476+00:00", 2933, "Your mother is", "corrupted", "Pronunciation: /k\u025dr\u02c8\u028cpt\u026ad/", "Definition: containing errors or alterations", "Synonyms: corrupt"]}
+{"data": ["2021-06-11T19:41:07.300306+00:00", 2934, "Your mother is", "corporate", "Pronunciation: /\u02c8k\u0254rp\u0259r\u026at/", "Definition: done by or characteristic of individuals acting together", "Synonyms: collective"]}
