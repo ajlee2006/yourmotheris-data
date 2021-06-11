@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T16:11:07.278912+00:00", 2913, "Your mother is", "mod", "Pronunciation: /m\u0251d/", "Definition: relating to a recently developed fashion or style", "Synonyms: modern, modernistic"]}
+{"data": ["2021-06-11T16:21:07.351312+00:00", 2914, "Your mother is", "auriform", "Pronunciation: /\u02c8\u0254r\u0259\u02ccf\u0254rm/", "Definition: having a shape resembling an ear", "Synonyms: ear-like, ear-shaped"]}
