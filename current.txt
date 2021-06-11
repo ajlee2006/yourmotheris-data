@@ -1,1 +1,1 @@
-{"data": ["2021-06-10T23:58:42.226451+00:00", 2816, "Your mother is", "aguish", "Pronunciation: /\u02c8e\u026a\u0261ju\u026a\u0283/", "Definition: affected by ague", ""]}
+{"data": ["2021-06-11T00:08:42.226469+00:00", 2817, "Your mother is", "capricious", "Pronunciation: /k\u0259\u02c8pr\u026a\u0283\u0259s/", "Definition: determined by chance or impulse or whim rather than by necessity or reason", "Synonyms: impulsive, whimsical"]}
