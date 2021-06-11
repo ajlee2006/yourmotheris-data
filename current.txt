@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T15:31:07.261821+00:00", 2909, "Your mother is", "well behaved", "Similar to: good", "Definition: (usually of children) someone who behaves in a manner that the speaker believes is correct", "Synonyms: well-behaved"]}
+{"data": ["2021-06-11T15:41:07.333611+00:00", 2910, "Your mother is", "integumentary", "Pronunciation: /\u026an\u02cct\u025b\u0261j\u0259\u02c8m\u025bnt\u0259ri/", "Definition: of or relating to the integument", "Synonyms: integumental"]}
