@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T02:38:42.090732+00:00", 2832, "Your mother is", "inconceivable", "Pronunciation: /\u02cc\u026ank\u0259n\u02c8siv\u0259b\u0259l/", "Definition: totally unlikely", "Synonyms: impossible, out of the question, unimaginable"]}
+{"data": ["2021-06-11T02:48:42.159847+00:00", 2833, "Your mother is", "unsatiated", "Similar to: insatiable", "Definition: not having been satisfied", "Synonyms: unsated, unsatisfied"]}
