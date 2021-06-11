@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T09:41:07.121368+00:00", 2874, "Your mother is", "suboceanic", "Pronunciation: /\u02ccs\u0259bo\u028a\u0283i\u02c8\u00e6n\u026ak/", "Definition: formed or situated or occurring beneath the ocean or the ocean bed", "Synonyms: subocean"]}
+{"data": ["2021-06-11T09:51:07.251152+00:00", 2875, "Your mother is", "toxicant", "Similar to: toxic", "Definition: having the qualities or effects of a poison", "Synonyms: poisonous"]}
