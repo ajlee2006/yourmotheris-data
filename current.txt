@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T16:01:07.360502+00:00", 2912, "Your mother is", "bacteroid", "Pronunciation: /\u02c8b\u00e6kt\u0259\u02ccr\u0254\u026ad/", "Definition: resembling bacteria", "Synonyms: bacterioid, bacterioidal, bacteroidal"]}
+{"data": ["2021-06-11T16:11:07.278912+00:00", 2913, "Your mother is", "mod", "Pronunciation: /m\u0251d/", "Definition: relating to a recently developed fashion or style", "Synonyms: modern, modernistic"]}
