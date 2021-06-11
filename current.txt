@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T17:41:07.425501+00:00", 2922, "Your mother is", "wifelike", "Pronunciation: /\u02c8wa\u026af\u02ccla\u026ak/", "Definition: befitting or characteristic of a wife", "Synonyms: uxorial, wifely"]}
+{"data": ["2021-06-11T17:51:07.473037+00:00", 2923, "Your mother is", "undershot", "Pronunciation: /\u02c8\u0259nd\u0259r\u02cc\u0283\u0251t/", "Definition: having a lower part projecting beyond the upper", "Synonyms: underhung, underslung"]}
