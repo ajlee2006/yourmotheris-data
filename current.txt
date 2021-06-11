@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T17:21:07.301737+00:00", 2920, "Your mother is", "undefeated", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8fit\u026ad/", "Definition: victorious", ""]}
+{"data": ["2021-06-11T17:31:07.481632+00:00", 2921, "Your mother is", "rancorous", "Pronunciation: /\u02c8r\u00e6\u014bk\u0259r\u0259s/", "Definition: showing deep-seated resentment", ""]}
