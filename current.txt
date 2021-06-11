@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T15:11:07.607399+00:00", 2907, "Your mother is", "sigmoid", "Pronunciation: /\u02c8s\u026agm\u0254\u026ad/", "Definition: of or relating to the sigmoid flexure in the large intestine", "Synonyms: sigmoidal"]}
+{"data": ["2021-06-11T15:21:07.152381+00:00", 2908, "Your mother is", "nitid", "Pronunciation: /\u02c8n\u026at\u026ad/", "Definition: bright with a steady but subdued shining", "Synonyms: agleam, gleaming"]}
