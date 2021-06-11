@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T02:28:42.236269+00:00", 2831, "Your mother is", "thirtieth", "Pronunciation: /\u02c8\u03b8\u025crti\u026a\u03b8/", "Definition: coming next after the twenty-ninth in position", "Synonyms: 30th"]}
+{"data": ["2021-06-11T02:38:42.090732+00:00", 2832, "Your mother is", "inconceivable", "Pronunciation: /\u02cc\u026ank\u0259n\u02c8siv\u0259b\u0259l/", "Definition: totally unlikely", "Synonyms: impossible, out of the question, unimaginable"]}
