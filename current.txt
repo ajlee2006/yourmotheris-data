@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T23:11:07.265180+00:00", 2955, "Your mother is", "hands-down", "Pronunciation: /\u02c8h\u00e6ndz\u02c8da\u028an/", "Definition: achieved without great effort", ""]}
+{"data": ["2021-06-11T23:21:07.198656+00:00", 2956, "Your mother is", "acheronian", "Similar to: dark", "Definition: dark and dismal as of the rivers Acheron and Styx in Hades", "Synonyms: acherontic, stygian"]}
