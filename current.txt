@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T08:51:07.148908+00:00", 2869, "Your mother is", "licenced", "Similar to: authorised", "Definition: given official approval to act", "Synonyms: accredited, commissioned, licensed"]}
+{"data": ["2021-06-11T09:01:07.253319+00:00", 2870, "Your mother is", "arboreous", "Pronunciation: /\u0251r\u02c8bo\u028ari\u0259s/", "Definition: inhabiting or frequenting trees", "Synonyms: arboreal, tree-living"]}
