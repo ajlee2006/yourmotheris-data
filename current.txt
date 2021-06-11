@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T08:11:07.349616+00:00", 2865, "Your mother is", "combinable", "Pronunciation: /k\u028cm\u02c8ba\u026an\u028cb\u028cl/", "Definition: able to or tending to combine", "Synonyms: combinational, combinatory"]}
+{"data": ["2021-06-11T08:21:07.304058+00:00", 2866, "Your mother is", "unthoughtful", "Pronunciation: /\u0259n\u02c8\u03b8\u0251tf\u028al/", "Definition: not exhibiting or characterized by careful thought", "Synonyms: unreflective, unthinking"]}
