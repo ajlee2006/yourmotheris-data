@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T03:48:42.115669+00:00", 2839, "Your mother is", "virulent", "Pronunciation: /\u02c8v\u026arj\u0259l\u0259nt/", "Definition: harsh or corrosive in tone", "Synonyms: acerb, acerbic, acid, acrid, bitter, blistering, caustic, sulfurous, sulphurous, vitriolic"]}
+{"data": ["2021-06-11T04:01:07.266496+00:00", 2840, "Your mother is", "trepid", "Similar to: timid", "Definition: timid by nature or revealing timidity", "Synonyms: fearful, timorous"]}
