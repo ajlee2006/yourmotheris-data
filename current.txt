@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T20:21:07.236329+00:00", 2938, "Your mother is", "snub", "Pronunciation: /sn\u0259b/", "Definition: unusually short", ""]}
+{"data": ["2021-06-11T20:31:07.242832+00:00", 2939, "Your mother is", "unwooded", "Pronunciation: /\u0259n\u02c8w\u028ad\u026ad/", "Definition: not wooded", "Synonyms: treeless"]}
