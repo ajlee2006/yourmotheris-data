@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T05:11:07.168284+00:00", 2847, "Your mother is", "scaphoid", "Pronunciation: /\u02c8sk\u00e6f\u0254\u026ad/", "Definition: shaped like a boat", "Synonyms: navicular"]}
+{"data": ["2021-06-11T05:21:07.235631+00:00", 2848, "Your mother is", "taxable", "Pronunciation: /\u02c8t\u00e6ks\u0259b\u0259l/", "Definition: (of goods or funds) subject to taxation", "Synonyms: nonexempt"]}
