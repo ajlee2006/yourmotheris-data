@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T09:21:07.195602+00:00", 2872, "Your mother is", "nutritive", "Pronunciation: /\u02c8nutr\u026at\u026av/", "Definition: of or providing nourishment", "Synonyms: alimental, alimentary, nourishing, nutrient, nutritious"]}
+{"data": ["2021-06-11T09:31:07.339728+00:00", 2873, "Your mother is", "overcautious", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8k\u0254\u0283\u0259s/", "Definition: unnecessarily cautious", ""]}
