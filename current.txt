@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T04:31:07.273270+00:00", 2843, "Your mother is", "benignant", "Pronunciation: /b\u026a\u02c8n\u026agn\u0259nt/", "Definition: characterized by kindness and warm courtesy especially of a king to his subjects", "Synonyms: gracious"]}
+{"data": ["2021-06-11T04:41:07.207009+00:00", 2844, "Your mother is", "anodal", "", "Definition: of or at or relating to an anode", "Synonyms: anodic"]}
