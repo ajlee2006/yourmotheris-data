@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T13:11:07.452729+00:00", 2895, "Your mother is", "aculeated", "", "Definition: having or resembling a stinger or barb", "Synonyms: aculeate"]}
+{"data": ["2021-06-11T13:21:07.200741+00:00", 2896, "Your mother is", "sophistic", "Pronunciation: /s\u0259\u02c8f\u026ast\u026ak/", "Definition: plausible but misleading", "Synonyms: sophistical"]}
