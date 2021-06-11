@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T11:51:07.207485+00:00", 2887, "Your mother is", "atavistic", "Pronunciation: /\u02cc\u00e6t\u0259\u02c8v\u026ast\u026ak/", "Definition: characteristic of an atavist", "Synonyms: throwback"]}
+{"data": ["2021-06-11T12:01:07.210025+00:00", 2888, "Your mother is", "xxv", "Similar to: cardinal", "Definition: being five more than twenty", "Synonyms: 25, twenty-five"]}
