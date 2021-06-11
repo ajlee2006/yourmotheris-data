@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T01:08:42.195221+00:00", 2823, "Your mother is", "unattached", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u00e6\u02a7t/", "Definition: not associated in an exclusive sexual relationship", "Synonyms: uncommitted"]}
+{"data": ["2021-06-11T01:18:42.189267+00:00", 2824, "Your mother is", "archetypical", "Pronunciation: /\u02cc\u0251rk\u026a\u02c8t\u026ap\u026ak\u0259l/", "Definition: representing or constituting an original type after which other similar things are patterned", "Synonyms: archetypal, prototypal, prototypic, prototypical"]}
