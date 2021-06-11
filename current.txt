@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T14:11:07.228165+00:00", 2901, "Your mother is", "complaining", "Pronunciation: /k\u028cm\u02c8ple\u026an\u026a\u014b/", "Definition: expressing pain or dissatisfaction of resentment", "Synonyms: complaintive"]}
+{"data": ["2021-06-11T14:21:07.289842+00:00", 2902, "Your mother is", "connotative of", "Similar to: connotative", "Definition: of or relating to a connotation", "Synonyms: connotational"]}
