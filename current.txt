@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T01:18:42.189267+00:00", 2824, "Your mother is", "archetypical", "Pronunciation: /\u02cc\u0251rk\u026a\u02c8t\u026ap\u026ak\u0259l/", "Definition: representing or constituting an original type after which other similar things are patterned", "Synonyms: archetypal, prototypal, prototypic, prototypical"]}
+{"data": ["2021-06-11T01:28:42.143158+00:00", 2825, "Your mother is", "altissimo", "Pronunciation: /\u00e6l\u02c8t\u026as\u0259\u02ccmo\u028a/", "Definition: very high", ""]}
