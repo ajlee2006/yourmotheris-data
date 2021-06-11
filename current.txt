@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T17:51:07.473037+00:00", 2923, "Your mother is", "undershot", "Pronunciation: /\u02c8\u0259nd\u0259r\u02cc\u0283\u0251t/", "Definition: having a lower part projecting beyond the upper", "Synonyms: underhung, underslung"]}
+{"data": ["2021-06-11T18:01:07.515766+00:00", 2924, "Your mother is", "noncivilized", "Similar to: barbaric", "Definition: not having a high state of culture and social development", "Synonyms: noncivilised"]}
