@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T18:21:08.499468+00:00", 2926, "Your mother is", "seventy-four", "Pronunciation: /\u02c8s\u025bv\u0259nti\u02c8fo\u028ar/", "Definition: being four more than seventy", "Synonyms: 74, lxxiv"]}
+{"data": ["2021-06-11T18:31:07.383855+00:00", 2927, "Your mother is", "basilar", "Pronunciation: /\u02c8b\u00e6s\u0259l\u0259r/", "Definition: of or relating to or located at the base", "Synonyms: basilary"]}
