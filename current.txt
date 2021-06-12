@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T00:01:07.336477+00:00", 2960, "Your mother is", "unchanged", "Pronunciation: /\u0259n\u02c8t\u0283e\u026and\u0292d/", "Definition: remaining in an original state", "Synonyms: unaltered"]}
+{"data": ["2021-06-12T00:11:07.293137+00:00", 2961, "Your mother is", "agonising", "Similar to: painful", "Definition: extremely painful", "Synonyms: agonizing, excruciating, harrowing, torturesome, torturing, torturous"]}
