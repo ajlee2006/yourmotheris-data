@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T11:49:44.303285+00:00", 3030, "Your mother is", "woolen", "Pronunciation: /\u02c8w\u028al\u028cn/", "Definition: of or related to or made of wool", "Synonyms: woollen"]}
+{"data": ["2021-06-12T11:59:44.279091+00:00", 3031, "Your mother is", "specular", "Pronunciation: /\u02c8sp\u025bkj\u0259l\u0259r/", "Definition: capable of reflecting light like a mirror", "Synonyms: mirrorlike"]}
