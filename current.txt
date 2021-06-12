@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T08:39:44.258984+00:00", 3011, "Your mother is", "broody", "Pronunciation: /\u02c8brudi/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, contemplative, meditative, musing, pensive, pondering, reflective, ruminative"]}
+{"data": ["2021-06-12T08:49:44.295175+00:00", 3012, "Your mother is", "endangered", "Pronunciation: /\u025bn\u02c8de\u026and\u0292\u025drd/", "Definition: (of flora or fauna) in imminent danger of extinction", ""]}
