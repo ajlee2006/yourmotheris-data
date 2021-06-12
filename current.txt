@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T08:49:44.295175+00:00", 3012, "Your mother is", "endangered", "Pronunciation: /\u025bn\u02c8de\u026and\u0292\u025drd/", "Definition: (of flora or fauna) in imminent danger of extinction", ""]}
+{"data": ["2021-06-12T08:59:44.282396+00:00", 3013, "Your mother is", "unwatchful", "Pronunciation: /\u0259n\u02c8w\u0251t\u0283f\u028al/", "Definition: not alert to what is potentially dangerous", "Synonyms: unalert, unvigilant"]}
