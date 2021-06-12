@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T06:19:44.421689+00:00", 2997, "Your mother is", "cursive", "Pronunciation: /\u02c8k\u025crs\u026av/", "Definition: having successive letter joined together", ""]}
+{"data": ["2021-06-12T06:29:44.269375+00:00", 2998, "Your mother is", "repellant", "Similar to: unpleasant", "Definition: serving or tending to repel", "Synonyms: rebarbative, repellent"]}
