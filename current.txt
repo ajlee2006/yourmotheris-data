@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T14:39:44.156201+00:00", 3047, "Your mother is", "acuminate", "Pronunciation: /\u0259\u02c8kjum\u0259n\u026at/", "Definition: (of a leaf shape) narrowing to a slender point", ""]}
+{"data": ["2021-06-12T14:49:44.204778+00:00", 3048, "Your mother is", "intracutaneous", "Pronunciation: /\u02cc\u026antr\u0259kju\u02c8te\u026ani\u0259s/", "Definition: relating to areas between the layers of the skin", "Synonyms: intradermal, intradermic"]}
