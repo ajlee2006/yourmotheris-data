@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T18:29:44.280423+00:00", 3070, "Your mother is", "alienable", "Pronunciation: /\u02c8e\u026alj\u0259n\u0259b\u0259l/", "Definition: transferable to another owner", ""]}
+{"data": ["2021-06-12T18:39:44.179915+00:00", 3071, "Your mother is", "geodetic", "Pronunciation: /\u02ccd\u0292i\u0259\u02c8d\u025bt\u026ak/", "Definition: of or relating to or determined by geodesy", "Synonyms: geodesic, geodesical"]}
