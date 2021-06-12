@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T05:29:44.355692+00:00", 2992, "Your mother is", "rhetorical", "Pronunciation: /r\u026a\u02c8t\u0251rik\u0259l/", "Definition: given to rhetoric, emphasizing style at the expense of thought", ""]}
+{"data": ["2021-06-12T05:39:44.272864+00:00", 2993, "Your mother is", "battery-powered", "Similar to: powered", "Definition: powered by one or more electric batteries", ""]}
