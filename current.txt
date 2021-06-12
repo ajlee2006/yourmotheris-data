@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T08:19:44.290050+00:00", 3009, "Your mother is", "fundamentalist", "Pronunciation: /\u02ccf\u028cnd\u028c\u02c8m\u025bnt\u028cl\u026ast/", "Definition: of or relating to or characteristic of Protestant fundamentalism or its adherents", "Synonyms: fundamentalistic"]}
+{"data": ["2021-06-12T08:29:44.405861+00:00", 3010, "Your mother is", "yokelish", "Similar to: unrefined", "Definition: (of persons) lacking in refinement or grace", "Synonyms: bounderish, ill-bred, lowbred, rude, underbred"]}
