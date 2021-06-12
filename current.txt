@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T19:59:44.238275+00:00", 3079, "Your mother is", "referential", "Similar to: denotative", "Definition: referring or pointing to something", ""]}
+{"data": ["2021-06-12T20:09:44.364625+00:00", 3080, "Your mother is", "lyrical", "Pronunciation: /\u02c8l\u026arik\u0259l/", "Definition: expressing deep emotion", "Synonyms: lyric"]}
