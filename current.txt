@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T10:29:44.247360+00:00", 3022, "Your mother is", "biped", "Pronunciation: /\u02c8ba\u026ap\u025bd/", "Definition: having two feet", "Synonyms: bipedal, two-footed"]}
+{"data": ["2021-06-12T10:39:44.217216+00:00", 3023, "Your mother is", "probable", "Pronunciation: /\u02c8pr\u0251b\u0259b\u0259l/", "Definition: likely but not certain to be or become true or real", "Synonyms: likely"]}
