@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T15:29:44.206755+00:00", 3052, "Your mother is", "capital", "Pronunciation: /\u02c8k\u00e6p\u026at\u0259l/", "Definition: uppercase", "Synonyms: great, majuscule"]}
+{"data": ["2021-06-12T15:39:44.229348+00:00", 3053, "Your mother is", "oblong", "Pronunciation: /\u02c8\u0251b\u02ccl\u0254\u014b/", "Definition: deviating from a square or circle or sphere by being elongated in one direction", ""]}
