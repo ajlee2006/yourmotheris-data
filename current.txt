@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T05:09:44.251644+00:00", 2990, "Your mother is", "muddied", "Pronunciation: /\u02c8m\u028cdid/", "Definition: (of color) discolored by impurities; not bright and clear", "Synonyms: dingy, dirty, muddy"]}
+{"data": ["2021-06-12T05:19:44.256904+00:00", 2991, "Your mother is", "decayable", "Similar to: perishable", "Definition: liable to decay or spoil or become putrid", "Synonyms: putrefiable, putrescible, spoilable"]}
