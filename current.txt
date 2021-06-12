@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T22:19:44.240569+00:00", 3093, "Your mother is", "irritated", "Pronunciation: /\u02c8\u026ar\u026a\u02ccte\u026at\u026ad/", "Definition: aroused to impatience or anger", "Synonyms: annoyed, miffed, nettled, peeved, pissed, pissed off, riled, roiled, steamed, stung"]}
+{"data": ["2021-06-12T22:29:44.238452+00:00", 3094, "Your mother is", "unfriendly", "Pronunciation: /\u0259n\u02c8fr\u025bndli/", "Definition: not friendly", "Synonyms: inimical"]}
