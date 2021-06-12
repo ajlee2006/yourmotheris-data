@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T11:39:44.309677+00:00", 3029, "Your mother is", "granitic", "Pronunciation: /gr\u0259\u02c8n\u026at\u026ak/", "Definition: hard as granite", "Synonyms: granitelike, rocklike, stony"]}
+{"data": ["2021-06-12T11:49:44.303285+00:00", 3030, "Your mother is", "woolen", "Pronunciation: /\u02c8w\u028al\u028cn/", "Definition: of or related to or made of wool", "Synonyms: woollen"]}
