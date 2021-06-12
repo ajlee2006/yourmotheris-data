@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T03:51:07.239033+00:00", 2983, "Your mother is", "agelong", "Pronunciation: /\u02c8e\u026ad\u0292\u02ccl\u0254\u014b/", "Definition: lasting through all time", ""]}
+{"data": ["2021-06-12T04:01:07.981566+00:00", 2984, "Your mother is", "mucoid", "Pronunciation: /\u02c8mjuk\u0254\u026ad/", "Definition: relating to or resembling mucus", "Synonyms: mucoidal"]}
