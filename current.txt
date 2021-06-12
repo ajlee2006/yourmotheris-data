@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T07:49:44.246373+00:00", 3006, "Your mother is", "iv", "Similar to: cardinal", "Definition: being one more than three", "Synonyms: 4, four"]}
+{"data": ["2021-06-12T07:59:44.440089+00:00", 3007, "Your mother is", "still", "Pronunciation: /st\u026al/", "Definition: (of a body of water) free from disturbance by heavy waves", "Synonyms: placid, quiet, smooth, tranquil, unruffled"]}
