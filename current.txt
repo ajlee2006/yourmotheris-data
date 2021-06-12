@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T23:39:44.337219+00:00", 3101, "Your mother is", "priestlike", "", "Definition: befitting or characteristic of a priest or the priesthood", "Synonyms: priestly"]}
+{"data": ["2021-06-12T23:49:44.223485+00:00", 3102, "Your mother is", "seamless", "Pronunciation: /\u02c8siml\u028cs/", "Definition: smooth, especially of skin", "Synonyms: unlined, unseamed"]}
