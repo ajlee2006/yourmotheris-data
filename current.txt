@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T04:11:07.237877+00:00", 2985, "Your mother is", "stiff-haired", "Similar to: haired", "Definition: having stiff hair", ""]}
+{"data": ["2021-06-12T04:21:07.284495+00:00", 2986, "Your mother is", "ill-shapen", "Similar to: unshapely", "Definition: so badly formed or out of shape as to be ugly", "Synonyms: deformed, distorted, malformed, misshapen"]}
