@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T13:59:44.204540+00:00", 3043, "Your mother is", "daylong", "Pronunciation: /\u02c8de\u026a\u02ccl\u0254\u014b/", "Definition: lasting through an entire day", ""]}
+{"data": ["2021-06-12T14:09:44.297199+00:00", 3044, "Your mother is", "national socialist", "", "Definition: relating to a form of socialism", "Synonyms: nazi"]}
