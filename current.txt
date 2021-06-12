@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T15:59:44.200984+00:00", 3055, "Your mother is", "ossiculate", "Pronunciation: /\u0251\u02c8s\u026akj\u0259l\u026at/", "Definition: pertaining to the ossicles in the middle ear", "Synonyms: ossicular"]}
+{"data": ["2021-06-12T16:09:44.292483+00:00", 3056, "Your mother is", "chylifactory", "", "Definition: producing or converting into chyle", "Synonyms: chylifactive, chylific"]}
