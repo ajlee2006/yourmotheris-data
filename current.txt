@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T02:41:07.233430+00:00", 2976, "Your mother is", "rhomboidal", "", "Definition: shaped like a rhombus or rhomboid", "Synonyms: rhomboid"]}
+{"data": ["2021-06-12T02:51:07.287581+00:00", 2977, "Your mother is", "salaried", "Pronunciation: /\u02c8s\u00e6l\u0259rid/", "Definition: receiving or eligible for compensation", "Synonyms: compensated, remunerated, stipendiary"]}
