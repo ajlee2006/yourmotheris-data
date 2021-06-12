@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T11:19:44.192952+00:00", 3027, "Your mother is", "smooth-spoken", "Pronunciation: /\u02c8smu\u00f0\u02c8spo\u028ak\u0259n/", "Definition: expressing yourself readily, clearly, effectively", "Synonyms: eloquent, facile, fluent, silver, silver-tongued"]}
+{"data": ["2021-06-12T11:29:44.238867+00:00", 3028, "Your mother is", "computable", "Similar to: calculable", "Definition: may be computed or estimated", "Synonyms: estimable"]}
