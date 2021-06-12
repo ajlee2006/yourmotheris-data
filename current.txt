@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T20:49:44.229867+00:00", 3084, "Your mother is", "alpestrine", "Pronunciation: /\u00e6l\u02c8p\u025bstr\u026an/", "Definition: growing at high altitudes", "Synonyms: subalpine"]}
+{"data": ["2021-06-12T20:59:44.348654+00:00", 3085, "Your mother is", "homophonous", "Pronunciation: /h\u0259\u02c8m\u0251f\u0259n\u0259s/", "Definition: characteristic of the phenomenon of words of different origins that are pronounced the same way", ""]}
