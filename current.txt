@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T02:11:07.245745+00:00", 2973, "Your mother is", "brightly-coloured", "Similar to: colored", "Definition: having a bright color", "Synonyms: brightly-colored"]}
+{"data": ["2021-06-12T02:21:07.231682+00:00", 2974, "Your mother is", "cockamamy", "Similar to: implausible", "Definition: informal term for ridiculous and implausible", "Synonyms: cockamamie"]}
