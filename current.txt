@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T20:29:44.243415+00:00", 3082, "Your mother is", "pardonable", "Similar to: excusable", "Definition: admitting of being pardoned", ""]}
+{"data": ["2021-06-12T20:39:44.375029+00:00", 3083, "Your mother is", "amerindic", "", "Definition: of or pertaining to Native Americans or their culture or languages", "Synonyms: amerind, indian, native american"]}
