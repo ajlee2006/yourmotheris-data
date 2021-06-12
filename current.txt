@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T05:39:44.272864+00:00", 2993, "Your mother is", "battery-powered", "Similar to: powered", "Definition: powered by one or more electric batteries", ""]}
+{"data": ["2021-06-12T05:49:44.239820+00:00", 2994, "Your mother is", "catatonic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8t\u0251n\u026ak/", "Definition: characterized by catatonia especially either rigidity or extreme laxness of limbs", ""]}
