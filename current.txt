@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T22:49:44.519305+00:00", 3096, "Your mother is", "moralistic", "Pronunciation: /\u02ccm\u0254r\u028c\u02c8l\u026ast\u026ak/", "Definition: narrowly and conventionally moral", ""]}
+{"data": ["2021-06-12T22:59:44.164023+00:00", 3097, "Your mother is", "fabulous", "Pronunciation: /\u02c8f\u00e6bj\u0259l\u0259s/", "Definition: extremely pleasing", "Synonyms: fab"]}
