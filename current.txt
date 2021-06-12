@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T14:29:44.281231+00:00", 3046, "Your mother is", "vitiated", "Pronunciation: /\u02c8v\u026a\u0283i\u02cce\u026at\u026ad/", "Definition: impaired by diminution", "Synonyms: diminished, lessened, weakened"]}
+{"data": ["2021-06-12T14:39:44.156201+00:00", 3047, "Your mother is", "acuminate", "Pronunciation: /\u0259\u02c8kjum\u0259n\u026at/", "Definition: (of a leaf shape) narrowing to a slender point", ""]}
