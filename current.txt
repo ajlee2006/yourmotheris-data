@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T16:49:44.235049+00:00", 3060, "Your mother is", "paper thin", "Similar to: thin", "Definition: thin as paper", ""]}
+{"data": ["2021-06-12T16:59:44.246893+00:00", 3061, "Your mother is", "sedative", "Pronunciation: /\u02c8s\u025bd\u0259t\u026av/", "Definition: tending to soothe or tranquilize", "Synonyms: ataractic, ataraxic, tranquilising, tranquilizing, tranquillising, tranquillizing"]}
