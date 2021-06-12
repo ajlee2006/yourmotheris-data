@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T02:01:07.313092+00:00", 2972, "Your mother is", "inappropriate", "Pronunciation: /\u02cc\u026an\u0259\u02c8pro\u028apri\u026at/", "Definition: not in keeping with what is correct or proper", "Synonyms: incompatible, out or keeping, unfitting"]}
+{"data": ["2021-06-12T02:11:07.245745+00:00", 2973, "Your mother is", "brightly-coloured", "Similar to: colored", "Definition: having a bright color", "Synonyms: brightly-colored"]}
