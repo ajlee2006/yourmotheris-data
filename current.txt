@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T01:51:07.297991+00:00", 2971, "Your mother is", "miry", "Pronunciation: /\u02c8ma\u026a\u0259ri/", "Definition: (of soil) soft and watery", "Synonyms: boggy, marshy, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, swampy, waterlogged"]}
+{"data": ["2021-06-12T02:01:07.313092+00:00", 2972, "Your mother is", "inappropriate", "Pronunciation: /\u02cc\u026an\u0259\u02c8pro\u028apri\u026at/", "Definition: not in keeping with what is correct or proper", "Synonyms: incompatible, out or keeping, unfitting"]}
