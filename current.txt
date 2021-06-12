@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T07:09:44.569174+00:00", 3002, "Your mother is", "textured", "Pronunciation: /\u02c8t\u025bkst\u0283\u025drd/", "Definition: having surface roughness", "Synonyms: coarse-textured, rough-textured"]}
+{"data": ["2021-06-12T07:19:44.290893+00:00", 3003, "Your mother is", "spavined", "Pronunciation: /\u02c8sp\u00e6v\u026and/", "Definition: (of horses) afflicted with a swelling of the hock-joint", ""]}
