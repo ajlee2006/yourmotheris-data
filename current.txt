@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T00:51:07.270407+00:00", 2965, "Your mother is", "adulterous", "Pronunciation: /\u0259\u02c8d\u0259lt\u0259r\u0259s/", "Definition: characterized by adultery", "Synonyms: extracurricular, extramarital"]}
+{"data": ["2021-06-12T01:01:07.228991+00:00", 2966, "Your mother is", "qualified", "Pronunciation: /\u02c8kw\u0251l\u0259\u02ccfa\u026ad/", "Definition: holding appropriate documentation and officially on record as qualified to perform a specified function or practice a specified skill", "Synonyms: certified"]}
