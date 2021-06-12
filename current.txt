@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T09:09:44.280870+00:00", 3014, "Your mother is", "goddamn", "Pronunciation: /\u02c8\u0261\u0251d\u02c8d\u00e6m/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blasted, blessed, damn, damned, darned, deuced, goddam, goddamned, infernal"]}
+{"data": ["2021-06-12T09:19:44.272426+00:00", 3015, "Your mother is", "unrequited", "Pronunciation: /\u02cc\u0259nri\u02c8kwa\u026at\u026ad/", "Definition: not returned in kind", "Synonyms: unanswered, unreciprocated"]}
