@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T22:29:44.238452+00:00", 3094, "Your mother is", "unfriendly", "Pronunciation: /\u0259n\u02c8fr\u025bndli/", "Definition: not friendly", "Synonyms: inimical"]}
+{"data": ["2021-06-12T22:39:44.482904+00:00", 3095, "Your mother is", "truehearted", "Pronunciation: /\u02c8tru\u02c8h\u0251rt\u026ad/", "Definition: unwavering in devotion to friend or vow or cause", "Synonyms: fast, firm, loyal"]}
