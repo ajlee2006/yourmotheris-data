@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T19:39:44.268684+00:00", 3077, "Your mother is", "bladed", "Pronunciation: /\u02c8ble\u026ad\u026ad/", "Definition: composed of thin flat plates resembling a knife blade", ""]}
+{"data": ["2021-06-12T19:49:44.253675+00:00", 3078, "Your mother is", "noisome", "Pronunciation: /\u02c8n\u0254\u026as\u0259m/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, offensive, queasy, sickening, vile"]}
