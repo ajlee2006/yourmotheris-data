@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T15:39:44.229348+00:00", 3053, "Your mother is", "oblong", "Pronunciation: /\u02c8\u0251b\u02ccl\u0254\u014b/", "Definition: deviating from a square or circle or sphere by being elongated in one direction", ""]}
+{"data": ["2021-06-12T15:49:44.238155+00:00", 3054, "Your mother is", "infectious", "Pronunciation: /\u026an\u02c8f\u025bk\u0283\u0259s/", "Definition: caused by infection or capable of causing infection", "Synonyms: infective"]}
