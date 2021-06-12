@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T05:59:44.281813+00:00", 2995, "Your mother is", "silky", "Pronunciation: /\u02c8s\u026alki/", "Definition: having a smooth, gleaming surface reflecting light", "Synonyms: satiny, silken, silklike, sleek, slick"]}
+{"data": ["2021-06-12T06:09:44.230698+00:00", 2996, "Your mother is", "physiologic", "Similar to: physical", "Definition: of or consistent with an organism's normal functioning", "Synonyms: physiological"]}
