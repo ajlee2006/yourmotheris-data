@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T06:09:44.230698+00:00", 2996, "Your mother is", "physiologic", "Similar to: physical", "Definition: of or consistent with an organism's normal functioning", "Synonyms: physiological"]}
+{"data": ["2021-06-12T06:19:44.421689+00:00", 2997, "Your mother is", "cursive", "Pronunciation: /\u02c8k\u025crs\u026av/", "Definition: having successive letter joined together", ""]}
