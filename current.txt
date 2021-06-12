@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T12:49:44.300829+00:00", 3036, "Your mother is", "full-clad", "Similar to: complete", "Definition: given substance or detail; completed", "Synonyms: fleshed out"]}
+{"data": ["2021-06-12T12:59:44.221095+00:00", 3037, "Your mother is", "apparent", "Pronunciation: /\u0259\u02c8p\u00e6r\u0259nt/", "Definition: clearly revealed to the mind or the senses or judgment", "Synonyms: evident, manifest, palpable, patent, plain, unmistakable"]}
