@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T12:19:44.258704+00:00", 3033, "Your mother is", "unquestionable", "Pronunciation: /\u0259n\u02c8kw\u025bs\u02a7\u0259n\u0259b\u0259l/", "Definition: not counterfeit or copied", "Synonyms: authentic, bona fide, veritable"]}
+{"data": ["2021-06-12T12:29:44.264449+00:00", 3034, "Your mother is", "tailor-made", "Pronunciation: /\u02c8te\u026al\u0259r-me\u026ad/", "Definition: (of clothing) custom-made", "Synonyms: bespoke, bespoken, made-to-order, tailored"]}
