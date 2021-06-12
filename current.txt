@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T20:19:44.336234+00:00", 3081, "Your mother is", "scummy", "Pronunciation: /\u02c8sk\u0259mi/", "Definition: of the most contemptible kind", "Synonyms: abject, low, low-down, miserable, scurvy"]}
+{"data": ["2021-06-12T20:29:44.243415+00:00", 3082, "Your mother is", "pardonable", "Similar to: excusable", "Definition: admitting of being pardoned", ""]}
