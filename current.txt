@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T02:31:07.201735+00:00", 2975, "Your mother is", "undercover", "Pronunciation: /\u02cc\u0259nd\u0259\u02c8k\u0259v\u0259r/", "Definition: conducted with or marked by hidden aims or methods", "Synonyms: clandestine, cloak-and-dagger, hole-and-corner, hugger-mugger, hush-hush, secret, surreptitious, underground"]}
+{"data": ["2021-06-12T02:41:07.233430+00:00", 2976, "Your mother is", "rhomboidal", "", "Definition: shaped like a rhombus or rhomboid", "Synonyms: rhomboid"]}
