@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T01:31:07.233799+00:00", 2969, "Your mother is", "subsidized", "Pronunciation: /\u02c8s\u028cbs\u026a\u02ccda\u026azd/", "Definition: having partial financial support from public funds", "Synonyms: subsidised"]}
+{"data": ["2021-06-12T01:41:07.317816+00:00", 2970, "Your mother is", "mustached", "Pronunciation: /\u02c8m\u028c\u02ccst\u00e6\u0283t/", "Definition: having a moustache", "Synonyms: mustachioed"]}
