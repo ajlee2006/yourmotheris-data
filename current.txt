@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T23:09:44.300550+00:00", 3098, "Your mother is", "precise", "Pronunciation: /pr\u026a\u02c8sa\u026as/", "Definition: (of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth; strictly correct", "Synonyms: accurate, exact"]}
+{"data": ["2021-06-12T23:19:44.409272+00:00", 3099, "Your mother is", "oval-fruited", "Similar to: fruitful", "Definition: bearing oval fruit", ""]}
