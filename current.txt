@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T21:49:44.314750+00:00", 3090, "Your mother is", "incensed", "Pronunciation: /\u02c8\u026an\u02ccs\u025bnst/", "Definition: angered at something unjust or wrong", "Synonyms: indignant, outraged, umbrageous"]}
+{"data": ["2021-06-12T21:59:44.322277+00:00", 3091, "Your mother is", "cosher", "Pronunciation: /\u02c8k\u0251\u0283\u0259r/", "Definition: conforming to dietary laws", "Synonyms: kosher"]}
