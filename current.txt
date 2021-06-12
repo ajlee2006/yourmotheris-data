@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T23:29:44.244703+00:00", 3100, "Your mother is", "anarchical", "Pronunciation: /\u0259\u02c8n\u0259rk\u026ak\u0259l/", "Definition: without law or control", "Synonyms: anarchic, lawless"]}
+{"data": ["2021-06-12T23:39:44.337219+00:00", 3101, "Your mother is", "priestlike", "", "Definition: befitting or characteristic of a priest or the priesthood", "Synonyms: priestly"]}
