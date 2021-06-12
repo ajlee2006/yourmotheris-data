@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T06:59:44.178103+00:00", 3001, "Your mother is", "decurved", "Pronunciation: /di\u02c8k\u025crvd/", "Definition: bent down or curved downward", ""]}
+{"data": ["2021-06-12T07:09:44.569174+00:00", 3002, "Your mother is", "textured", "Pronunciation: /\u02c8t\u025bkst\u0283\u025drd/", "Definition: having surface roughness", "Synonyms: coarse-textured, rough-textured"]}
