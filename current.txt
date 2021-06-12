@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T22:39:44.482904+00:00", 3095, "Your mother is", "truehearted", "Pronunciation: /\u02c8tru\u02c8h\u0251rt\u026ad/", "Definition: unwavering in devotion to friend or vow or cause", "Synonyms: fast, firm, loyal"]}
+{"data": ["2021-06-12T22:49:44.519305+00:00", 3096, "Your mother is", "moralistic", "Pronunciation: /\u02ccm\u0254r\u028c\u02c8l\u026ast\u026ak/", "Definition: narrowly and conventionally moral", ""]}
