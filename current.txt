@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T02:51:07.287581+00:00", 2977, "Your mother is", "salaried", "Pronunciation: /\u02c8s\u00e6l\u0259rid/", "Definition: receiving or eligible for compensation", "Synonyms: compensated, remunerated, stipendiary"]}
+{"data": ["2021-06-12T03:01:07.224345+00:00", 2978, "Your mother is", "chiliastic", "", "Definition: relating to or believing in the millennium of peace and happiness", "Synonyms: millenarian"]}
