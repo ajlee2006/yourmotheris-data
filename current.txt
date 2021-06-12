@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T14:49:44.204778+00:00", 3048, "Your mother is", "intracutaneous", "Pronunciation: /\u02cc\u026antr\u0259kju\u02c8te\u026ani\u0259s/", "Definition: relating to areas between the layers of the skin", "Synonyms: intradermal, intradermic"]}
+{"data": ["2021-06-12T14:59:44.167792+00:00", 3049, "Your mother is", "lighting-up", "Similar to: light", "Definition: turning lights on", ""]}
