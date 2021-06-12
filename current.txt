@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T01:01:07.228991+00:00", 2966, "Your mother is", "qualified", "Pronunciation: /\u02c8kw\u0251l\u0259\u02ccfa\u026ad/", "Definition: holding appropriate documentation and officially on record as qualified to perform a specified function or practice a specified skill", "Synonyms: certified"]}
+{"data": ["2021-06-12T01:11:07.226779+00:00", 2967, "Your mother is", "unseamed", "Similar to: smooth", "Definition: smooth, especially of skin", "Synonyms: seamless, unlined"]}
