@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T02:21:07.231682+00:00", 2974, "Your mother is", "cockamamy", "Similar to: implausible", "Definition: informal term for ridiculous and implausible", "Synonyms: cockamamie"]}
+{"data": ["2021-06-12T02:31:07.201735+00:00", 2975, "Your mother is", "undercover", "Pronunciation: /\u02cc\u0259nd\u0259\u02c8k\u0259v\u0259r/", "Definition: conducted with or marked by hidden aims or methods", "Synonyms: clandestine, cloak-and-dagger, hole-and-corner, hugger-mugger, hush-hush, secret, surreptitious, underground"]}
