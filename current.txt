@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T20:59:44.348654+00:00", 3085, "Your mother is", "homophonous", "Pronunciation: /h\u0259\u02c8m\u0251f\u0259n\u0259s/", "Definition: characteristic of the phenomenon of words of different origins that are pronounced the same way", ""]}
+{"data": ["2021-06-12T21:09:44.297913+00:00", 3086, "Your mother is", "lascivious", "Pronunciation: /l\u0259\u02c8s\u026avi\u0259s/", "Definition: driven by lust; preoccupied with or exhibiting lustful desires", "Synonyms: lewd, libidinous, lustful"]}
