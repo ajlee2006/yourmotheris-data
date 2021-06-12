@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T18:09:44.248485+00:00", 3068, "Your mother is", "pinchbeck", "Pronunciation: /\u02c8p\u026an\u02a7\u02ccb\u025bk/", "Definition: serving as an imitation or substitute", ""]}
+{"data": ["2021-06-12T18:19:44.286525+00:00", 3069, "Your mother is", "long-range", "Pronunciation: /l\u0254\u014b-re\u026and\u0292/", "Definition: involving an extended span of time", ""]}
