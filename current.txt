@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T09:19:44.272426+00:00", 3015, "Your mother is", "unrequited", "Pronunciation: /\u02cc\u0259nri\u02c8kwa\u026at\u026ad/", "Definition: not returned in kind", "Synonyms: unanswered, unreciprocated"]}
+{"data": ["2021-06-12T09:29:44.364046+00:00", 3016, "Your mother is", "bally", "Pronunciation: /b\u00e6lli/", "Definition: informal intensifiers", "Synonyms: blinking, bloody, blooming, crashing, flaming, fucking"]}
