@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T18:39:44.179915+00:00", 3071, "Your mother is", "geodetic", "Pronunciation: /\u02ccd\u0292i\u0259\u02c8d\u025bt\u026ak/", "Definition: of or relating to or determined by geodesy", "Synonyms: geodesic, geodesical"]}
+{"data": ["2021-06-12T18:49:44.305404+00:00", 3072, "Your mother is", "alchemical", "Pronunciation: /\u00e6l\u02c8k\u025bm\u026ak\u0259l/", "Definition: related to or concerned with alchemy", "Synonyms: alchemic"]}
