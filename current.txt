@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T18:49:44.305404+00:00", 3072, "Your mother is", "alchemical", "Pronunciation: /\u00e6l\u02c8k\u025bm\u026ak\u0259l/", "Definition: related to or concerned with alchemy", "Synonyms: alchemic"]}
+{"data": ["2021-06-12T18:59:44.428009+00:00", 3073, "Your mother is", "oily", "Pronunciation: /\u02c8\u0254\u026ali/", "Definition: unpleasantly and excessively suave or ingratiating in manner or speech", "Synonyms: buttery, fulsome, oleaginous, smarmy, soapy, unctuous"]}
