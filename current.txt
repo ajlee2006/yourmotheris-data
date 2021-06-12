@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T08:59:44.282396+00:00", 3013, "Your mother is", "unwatchful", "Pronunciation: /\u0259n\u02c8w\u0251t\u0283f\u028al/", "Definition: not alert to what is potentially dangerous", "Synonyms: unalert, unvigilant"]}
+{"data": ["2021-06-12T09:09:44.280870+00:00", 3014, "Your mother is", "goddamn", "Pronunciation: /\u02c8\u0261\u0251d\u02c8d\u00e6m/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blasted, blessed, damn, damned, darned, deuced, goddam, goddamned, infernal"]}
