@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T05:49:44.239820+00:00", 2994, "Your mother is", "catatonic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8t\u0251n\u026ak/", "Definition: characterized by catatonia especially either rigidity or extreme laxness of limbs", ""]}
+{"data": ["2021-06-12T05:59:44.281813+00:00", 2995, "Your mother is", "silky", "Pronunciation: /\u02c8s\u026alki/", "Definition: having a smooth, gleaming surface reflecting light", "Synonyms: satiny, silken, silklike, sleek, slick"]}
