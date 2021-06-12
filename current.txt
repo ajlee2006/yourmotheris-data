@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T12:39:44.219407+00:00", 3035, "Your mother is", "table d'hote", "", "Definition: (of a restaurant meal) complete but with limited choices and at a fixed price", "Synonyms: prix fixe"]}
+{"data": ["2021-06-12T12:49:44.300829+00:00", 3036, "Your mother is", "full-clad", "Similar to: complete", "Definition: given substance or detail; completed", "Synonyms: fleshed out"]}
