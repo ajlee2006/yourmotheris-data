@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T19:09:44.221984+00:00", 3074, "Your mother is", "solid-coloured", "Similar to: plain", "Definition: having the same color all over", "Synonyms: solid-colored"]}
+{"data": ["2021-06-12T19:19:44.256777+00:00", 3075, "Your mother is", "meted out", "Similar to: distributed", "Definition: given out in portions", "Synonyms: apportioned, dealt out, doled out, parceled out"]}
