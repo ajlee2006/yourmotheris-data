@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T12:09:44.224065+00:00", 3032, "Your mother is", "excellent", "Pronunciation: /\u02c8\u025bks\u0259l\u0259nt/", "Definition: very good; of the highest quality", "Synonyms: fantabulous, first-class, ripping, splendid"]}
+{"data": ["2021-06-12T12:19:44.258704+00:00", 3033, "Your mother is", "unquestionable", "Pronunciation: /\u0259n\u02c8kw\u025bs\u02a7\u0259n\u0259b\u0259l/", "Definition: not counterfeit or copied", "Synonyms: authentic, bona fide, veritable"]}
