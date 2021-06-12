@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T21:29:44.217225+00:00", 3088, "Your mother is", "filipino", "Pronunciation: /\u02ccf\u026al\u0259\u02c8pino\u028a/", "Definition: of or relating to or characteristic of the Philippines or its people or customs", "Synonyms: philippine"]}
+{"data": ["2021-06-12T21:39:44.388734+00:00", 3089, "Your mother is", "petaled", "Similar to: five-petaled", "Definition: (of flowers) having petals", "Synonyms: petalous, petalled"]}
