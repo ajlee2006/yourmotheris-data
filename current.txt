@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T09:49:44.303245+00:00", 3018, "Your mother is", "sigmoid", "Pronunciation: /\u02c8s\u026agm\u0254\u026ad/", "Definition: of or relating to the sigmoid flexure in the large intestine", "Synonyms: sigmoidal"]}
+{"data": ["2021-06-12T09:59:44.262353+00:00", 3019, "Your mother is", "stipulatory", "Pronunciation: /\u02c8st\u026apj\u0259l\u0259\u02ccto\u028ari/", "Definition: constituted or contracted by stipulation or agreement", "Synonyms: agreed upon"]}
