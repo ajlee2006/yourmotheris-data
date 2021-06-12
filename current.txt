@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T00:21:07.306327+00:00", 2962, "Your mother is", "detergent", "Pronunciation: /d\u026a\u02c8t\u025crd\u0292\u0259nt/", "Definition: having cleansing power", "Synonyms: detersive"]}
+{"data": ["2021-06-12T00:31:07.205839+00:00", 2963, "Your mother is", "hypnotised", "Similar to: enchanted", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotized, mesmerised, mesmerized, spell-bound, spellbound, transfixed"]}
