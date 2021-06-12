@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T00:31:07.205839+00:00", 2963, "Your mother is", "hypnotised", "Similar to: enchanted", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotized, mesmerised, mesmerized, spell-bound, spellbound, transfixed"]}
+{"data": ["2021-06-12T00:41:07.404426+00:00", 2964, "Your mother is", "phantasmagoric", "Pronunciation: /f\u00e6n\u02cct\u00e6zm\u0259\u02c8\u0261\u0254r\u026ak/", "Definition: characterized by fantastic imagery and incongruous juxtapositions", "Synonyms: phantasmagorical, surreal, surrealistic"]}
