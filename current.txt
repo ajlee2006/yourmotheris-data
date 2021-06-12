@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T20:09:44.364625+00:00", 3080, "Your mother is", "lyrical", "Pronunciation: /\u02c8l\u026arik\u0259l/", "Definition: expressing deep emotion", "Synonyms: lyric"]}
+{"data": ["2021-06-12T20:19:44.336234+00:00", 3081, "Your mother is", "scummy", "Pronunciation: /\u02c8sk\u0259mi/", "Definition: of the most contemptible kind", "Synonyms: abject, low, low-down, miserable, scurvy"]}
