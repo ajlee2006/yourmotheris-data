@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T13:39:44.213926+00:00", 3041, "Your mother is", "amphiprotic", "", "Definition: having characteristics of both an acid and a base and capable of reacting as either", "Synonyms: amphoteric"]}
+{"data": ["2021-06-12T13:49:44.289255+00:00", 3042, "Your mother is", "grassy", "Pronunciation: /\u02c8gr\u00e6si/", "Definition: abounding in grass", ""]}
