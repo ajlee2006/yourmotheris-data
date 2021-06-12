@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T00:11:07.293137+00:00", 2961, "Your mother is", "agonising", "Similar to: painful", "Definition: extremely painful", "Synonyms: agonizing, excruciating, harrowing, torturesome, torturing, torturous"]}
+{"data": ["2021-06-12T00:21:07.306327+00:00", 2962, "Your mother is", "detergent", "Pronunciation: /d\u026a\u02c8t\u025crd\u0292\u0259nt/", "Definition: having cleansing power", "Synonyms: detersive"]}
