@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T12:59:44.221095+00:00", 3037, "Your mother is", "apparent", "Pronunciation: /\u0259\u02c8p\u00e6r\u0259nt/", "Definition: clearly revealed to the mind or the senses or judgment", "Synonyms: evident, manifest, palpable, patent, plain, unmistakable"]}
+{"data": ["2021-06-12T13:09:44.156184+00:00", 3038, "Your mother is", "jerking", "Pronunciation: /\u02c8d\u0292\u025drk\u026a\u014b/", "Definition: lacking a steady rhythm", "Synonyms: arrhythmic, jerky"]}
