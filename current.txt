@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T18:19:44.286525+00:00", 3069, "Your mother is", "long-range", "Pronunciation: /l\u0254\u014b-re\u026and\u0292/", "Definition: involving an extended span of time", ""]}
+{"data": ["2021-06-12T18:29:44.280423+00:00", 3070, "Your mother is", "alienable", "Pronunciation: /\u02c8e\u026alj\u0259n\u0259b\u0259l/", "Definition: transferable to another owner", ""]}
