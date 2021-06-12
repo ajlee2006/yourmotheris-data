@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T10:19:44.252456+00:00", 3021, "Your mother is", "carved", "Pronunciation: /k\u0251rvd/", "Definition: made for or formed by carving (`carven' is archaic or literary)", "Synonyms: carven"]}
+{"data": ["2021-06-12T10:29:44.247360+00:00", 3022, "Your mother is", "biped", "Pronunciation: /\u02c8ba\u026ap\u025bd/", "Definition: having two feet", "Synonyms: bipedal, two-footed"]}
