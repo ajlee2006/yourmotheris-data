@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T13:29:44.239263+00:00", 3040, "Your mother is", "circumlocutory", "Pronunciation: /\u02ccs\u025crk\u0259m\u02c8l\u0251kj\u0259\u02ccto\u028ari/", "Definition: roundabout and unnecessarily wordy", "Synonyms: ambagious, circumlocutious, periphrastic"]}
+{"data": ["2021-06-12T13:39:44.213926+00:00", 3041, "Your mother is", "amphiprotic", "", "Definition: having characteristics of both an acid and a base and capable of reacting as either", "Synonyms: amphoteric"]}
