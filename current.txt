@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T20:39:44.375029+00:00", 3083, "Your mother is", "amerindic", "", "Definition: of or pertaining to Native Americans or their culture or languages", "Synonyms: amerind, indian, native american"]}
+{"data": ["2021-06-12T20:49:44.229867+00:00", 3084, "Your mother is", "alpestrine", "Pronunciation: /\u00e6l\u02c8p\u025bstr\u026an/", "Definition: growing at high altitudes", "Synonyms: subalpine"]}
