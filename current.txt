@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T17:49:44.294387+00:00", 3066, "Your mother is", "wafer-thin", "Pronunciation: /\u02c8we\u026af\u0259r-\u02c8\u03b8\u026an/", "Definition: very thin", ""]}
+{"data": ["2021-06-12T17:59:44.226955+00:00", 3067, "Your mother is", "one-man", "Pronunciation: /\u02c8w\u0259n\u02ccm\u00e6n/", "Definition: designed for or restricted to a single person", "Synonyms: one-person, one-woman"]}
