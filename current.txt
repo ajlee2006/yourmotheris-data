@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T14:59:44.167792+00:00", 3049, "Your mother is", "lighting-up", "Similar to: light", "Definition: turning lights on", ""]}
+{"data": ["2021-06-12T15:09:44.303642+00:00", 3050, "Your mother is", "monaural", "Pronunciation: /m\u0251\u02c8n\u0251r\u0259l/", "Definition: relating to or having or hearing with only one ear", ""]}
