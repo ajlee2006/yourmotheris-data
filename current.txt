@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T03:21:07.617804+00:00", 2980, "Your mother is", "teen", "Pronunciation: /tin/", "Definition: being of the age 13 through 19", "Synonyms: adolescent, teenage, teenaged"]}
+{"data": ["2021-06-12T03:31:07.196596+00:00", 2981, "Your mother is", "dome-shaped", "Pronunciation: /do\u028am-\u0283e\u026apt/", "Definition: having the shape of a dome", ""]}
