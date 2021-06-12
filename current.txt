@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T10:09:44.269375+00:00", 3020, "Your mother is", "fazed", "Pronunciation: /fe\u026azd/", "Definition: caused to show discomposure", "Synonyms: bothered, daunted"]}
+{"data": ["2021-06-12T10:19:44.252456+00:00", 3021, "Your mother is", "carved", "Pronunciation: /k\u0251rvd/", "Definition: made for or formed by carving (`carven' is archaic or literary)", "Synonyms: carven"]}
