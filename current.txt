@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T03:31:07.196596+00:00", 2981, "Your mother is", "dome-shaped", "Pronunciation: /do\u028am-\u0283e\u026apt/", "Definition: having the shape of a dome", ""]}
+{"data": ["2021-06-12T03:41:07.548295+00:00", 2982, "Your mother is", "chimerical", "Pronunciation: /k\u026a\u02c8m\u025br\u026ak\u0259l/", "Definition: being or relating to or like a chimera", "Synonyms: chimeral, chimeric"]}
