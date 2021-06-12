@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T15:49:44.238155+00:00", 3054, "Your mother is", "infectious", "Pronunciation: /\u026an\u02c8f\u025bk\u0283\u0259s/", "Definition: caused by infection or capable of causing infection", "Synonyms: infective"]}
+{"data": ["2021-06-12T15:59:44.200984+00:00", 3055, "Your mother is", "ossiculate", "Pronunciation: /\u0251\u02c8s\u026akj\u0259l\u026at/", "Definition: pertaining to the ossicles in the middle ear", "Synonyms: ossicular"]}
