@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T06:29:44.269375+00:00", 2998, "Your mother is", "repellant", "Similar to: unpleasant", "Definition: serving or tending to repel", "Synonyms: rebarbative, repellent"]}
+{"data": ["2021-06-12T06:39:44.266589+00:00", 2999, "Your mother is", "verisimilar", "Similar to: likely", "Definition: appearing to be true or real", ""]}
