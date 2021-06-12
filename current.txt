@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T04:21:07.284495+00:00", 2986, "Your mother is", "ill-shapen", "Similar to: unshapely", "Definition: so badly formed or out of shape as to be ugly", "Synonyms: deformed, distorted, malformed, misshapen"]}
+{"data": ["2021-06-12T04:39:44.315186+00:00", 2987, "Your mother is", "hexed", "Similar to: luckless", "Definition: (usually used colloquially) causing or accompanied by misfortune", "Synonyms: jinxed"]}
