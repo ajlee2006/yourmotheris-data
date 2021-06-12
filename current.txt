@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T06:49:44.309128+00:00", 3000, "Your mother is", "exoteric", "Pronunciation: /\u02cc\u025bks\u0259\u02c8t\u025br\u026ak/", "Definition: suitable for the general public", ""]}
+{"data": ["2021-06-12T06:59:44.178103+00:00", 3001, "Your mother is", "decurved", "Pronunciation: /di\u02c8k\u025crvd/", "Definition: bent down or curved downward", ""]}
