@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T06:39:44.266589+00:00", 2999, "Your mother is", "verisimilar", "Similar to: likely", "Definition: appearing to be true or real", ""]}
+{"data": ["2021-06-12T06:49:44.309128+00:00", 3000, "Your mother is", "exoteric", "Pronunciation: /\u02cc\u025bks\u0259\u02c8t\u025br\u026ak/", "Definition: suitable for the general public", ""]}
