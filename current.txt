@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T14:19:44.154802+00:00", 3045, "Your mother is", "restricting", "Pronunciation: /ri\u02c8str\u026akt\u026a\u014b/", "Definition: restricting the scope or freedom of action", "Synonyms: confining, constraining, constrictive, limiting"]}
+{"data": ["2021-06-12T14:29:44.281231+00:00", 3046, "Your mother is", "vitiated", "Pronunciation: /\u02c8v\u026a\u0283i\u02cce\u026at\u026ad/", "Definition: impaired by diminution", "Synonyms: diminished, lessened, weakened"]}
