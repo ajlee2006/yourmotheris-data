@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T04:49:44.188331+00:00", 2988, "Your mother is", "apodal", "Pronunciation: /\u02c8\u00e6p\u0259d\u0259l/", "Definition: (of snakes and eels) naturally footless", "Synonyms: apodous"]}
+{"data": ["2021-06-12T04:59:44.325101+00:00", 2989, "Your mother is", "dendriform", "Pronunciation: /\u02c8d\u025bndr\u0259\u02ccf\u0254rm/", "Definition: resembling a tree in form and branching structure", "Synonyms: arboreal, arboreous, arborescent, arboresque, arboriform, dendroid, dendroidal, tree-shaped, treelike"]}
