@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T07:59:44.440089+00:00", 3007, "Your mother is", "still", "Pronunciation: /st\u026al/", "Definition: (of a body of water) free from disturbance by heavy waves", "Synonyms: placid, quiet, smooth, tranquil, unruffled"]}
+{"data": ["2021-06-12T08:09:44.291917+00:00", 3008, "Your mother is", "unexciting", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8sa\u026ati\u014b/", "Definition: not stimulating", "Synonyms: unstimulating"]}
