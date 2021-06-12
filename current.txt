@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T08:09:44.291917+00:00", 3008, "Your mother is", "unexciting", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8sa\u026ati\u014b/", "Definition: not stimulating", "Synonyms: unstimulating"]}
+{"data": ["2021-06-12T08:19:44.290050+00:00", 3009, "Your mother is", "fundamentalist", "Pronunciation: /\u02ccf\u028cnd\u028c\u02c8m\u025bnt\u028cl\u026ast/", "Definition: of or relating to or characteristic of Protestant fundamentalism or its adherents", "Synonyms: fundamentalistic"]}
