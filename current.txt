@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T09:39:44.259785+00:00", 3017, "Your mother is", "spiny-backed", "Pronunciation: /\u02c8spa\u026ani-b\u00e6kt/", "Definition: having the back covered with spines", ""]}
+{"data": ["2021-06-12T09:49:44.303245+00:00", 3018, "Your mother is", "sigmoid", "Pronunciation: /\u02c8s\u026agm\u0254\u026ad/", "Definition: of or relating to the sigmoid flexure in the large intestine", "Synonyms: sigmoidal"]}
