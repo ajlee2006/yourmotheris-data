@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T19:49:44.253675+00:00", 3078, "Your mother is", "noisome", "Pronunciation: /\u02c8n\u0254\u026as\u0259m/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, offensive, queasy, sickening, vile"]}
+{"data": ["2021-06-12T19:59:44.238275+00:00", 3079, "Your mother is", "referential", "Similar to: denotative", "Definition: referring or pointing to something", ""]}
