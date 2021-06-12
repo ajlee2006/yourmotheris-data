@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T15:09:44.303642+00:00", 3050, "Your mother is", "monaural", "Pronunciation: /m\u0251\u02c8n\u0251r\u0259l/", "Definition: relating to or having or hearing with only one ear", ""]}
+{"data": ["2021-06-12T15:19:44.518524+00:00", 3051, "Your mother is", "norwegian", "Pronunciation: /n\u0254r\u02c8wid\u0292\u0259n/", "Definition: of or relating to Norway or its people or culture or language", "Synonyms: norse"]}
