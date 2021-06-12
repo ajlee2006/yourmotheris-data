@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T21:09:44.297913+00:00", 3086, "Your mother is", "lascivious", "Pronunciation: /l\u0259\u02c8s\u026avi\u0259s/", "Definition: driven by lust; preoccupied with or exhibiting lustful desires", "Synonyms: lewd, libidinous, lustful"]}
+{"data": ["2021-06-12T21:19:44.411496+00:00", 3087, "Your mother is", "privy", "Pronunciation: /\u02c8pr\u026avi/", "Definition: hidden from general view or use", "Synonyms: secluded, secret"]}
