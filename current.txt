@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T08:29:44.405861+00:00", 3010, "Your mother is", "yokelish", "Similar to: unrefined", "Definition: (of persons) lacking in refinement or grace", "Synonyms: bounderish, ill-bred, lowbred, rude, underbred"]}
+{"data": ["2021-06-12T08:39:44.258984+00:00", 3011, "Your mother is", "broody", "Pronunciation: /\u02c8brudi/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, contemplative, meditative, musing, pensive, pondering, reflective, ruminative"]}
