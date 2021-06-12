@@ -1,1 +1,1 @@
-{"data": ["2021-06-12T03:11:07.282762+00:00", 2979, "Your mother is", "patched", "Pronunciation: /p\u00e6t\u0283t/", "Definition: having spots or patches (small areas of contrasting color or texture)", "Synonyms: spotted, spotty"]}
+{"data": ["2021-06-12T03:21:07.617804+00:00", 2980, "Your mother is", "teen", "Pronunciation: /tin/", "Definition: being of the age 13 through 19", "Synonyms: adolescent, teenage, teenaged"]}
