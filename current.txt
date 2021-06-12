@@ -1,1 +1,1 @@
-{"data": ["2021-06-11T23:51:07.246359+00:00", 2959, "Your mother is", "xi", "Pronunciation: /za\u026a/", "Definition: being one more than ten", "Synonyms: 11, eleven"]}
+{"data": ["2021-06-12T00:01:07.336477+00:00", 2960, "Your mother is", "unchanged", "Pronunciation: /\u0259n\u02c8t\u0283e\u026and\u0292d/", "Definition: remaining in an original state", "Synonyms: unaltered"]}
