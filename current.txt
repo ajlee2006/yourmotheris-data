@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T13:01:00.631261+00:00", 3181, "Your mother is", "sprawly", "Similar to: extended", "Definition: extended out irregularly", ""]}
+{"data": ["2021-06-13T13:11:00.480884+00:00", 3182, "Your mother is", "bell-shaped", "Pronunciation: /b\u025bl-\u0283e\u026apt/", "Definition: having a convex shape that resembles a bell", ""]}
