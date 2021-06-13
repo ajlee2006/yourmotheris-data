@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T19:11:00.335199+00:00", 3218, "Your mother is", "snub-nosed", "Pronunciation: /\u02c8sn\u0259b\u02ccno\u028azd/", "Definition: having a blunt nose", "Synonyms: pug-nose, pug-nosed, short-nosed"]}
+{"data": ["2021-06-13T19:21:00.295253+00:00", 3219, "Your mother is", "hardhearted", "Pronunciation: /\u02c8h\u0251rd\u02c8h\u0251rt\u026ad/", "Definition: lacking in feeling or pity or warmth", "Synonyms: heartless"]}
