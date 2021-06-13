@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T12:31:00.407557+00:00", 3178, "Your mother is", "noiseless", "Pronunciation: /\u02c8n\u0254\u026azl\u026as/", "Definition: making no sound", ""]}
+{"data": ["2021-06-13T12:41:00.377002+00:00", 3179, "Your mother is", "attrited", "Similar to: worn", "Definition: worn by rubbing or friction", ""]}
