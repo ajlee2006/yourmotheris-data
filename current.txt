@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T21:41:00.449400+00:00", 3233, "Your mother is", "blotted out", "Similar to: destroyed", "Definition: reduced to nothingness", "Synonyms: obliterate, obliterated"]}
+{"data": ["2021-06-13T21:51:00.391718+00:00", 3234, "Your mother is", "landlocked", "Pronunciation: /\u02c8l\u00e6nd\u02ccl\u0251kt/", "Definition: surrounded entirely or almost entirely by land", ""]}
