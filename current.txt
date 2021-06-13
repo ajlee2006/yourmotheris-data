@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T02:19:44.153042+00:00", 3117, "Your mother is", "annelid", "Pronunciation: /\u02c8\u00e6n\u0259l\u026ad/", "Definition: relating to or belonging to or characteristic of any worms of the phylum Annelida", "Synonyms: annelidan"]}
+{"data": ["2021-06-13T02:29:45.939611+00:00", 3118, "Your mother is", "forty-three", "Pronunciation: /\u02c8f\u0254rti-\u03b8ri/", "Definition: being three more than forty", "Synonyms: 43, xliii"]}
