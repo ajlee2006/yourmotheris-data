@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T12:01:00.510916+00:00", 3175, "Your mother is", "goody-goody", "Pronunciation: /\u02c8\u0261\u028adi-\u02c8\u0261\u028adi/", "Definition: affectedly or smugly good or self-righteous", ""]}
+{"data": ["2021-06-13T12:11:00.412562+00:00", 3176, "Your mother is", "port", "Pronunciation: /po\u028art/", "Definition: located on the left side of a ship or aircraft", "Synonyms: larboard"]}
