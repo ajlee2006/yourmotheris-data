@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T14:41:00.339733+00:00", 3191, "Your mother is", "colonized", "Pronunciation: /\u02c8k\u0251l\u028c\u02ccna\u026azd/", "Definition: inhabited by colonists", "Synonyms: colonised, settled"]}
+{"data": ["2021-06-13T14:51:00.474458+00:00", 3192, "Your mother is", "iterative", "Pronunciation: /\u02c8\u026at\u0259\u02ccre\u026at\u026av/", "Definition: marked by iteration", "Synonyms: reiterative"]}
