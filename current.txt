@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T15:11:00.331094+00:00", 3194, "Your mother is", "lengthy", "Pronunciation: /\u02c8l\u025b\u014bk\u03b8i/", "Definition: relatively long in duration; tediously protracted", "Synonyms: drawn-out, extended, prolonged, protracted"]}
+{"data": ["2021-06-13T15:21:00.379275+00:00", 3195, "Your mother is", "oval", "Pronunciation: /\u02c8o\u028av\u0259l/", "Definition: rounded like an egg", "Synonyms: egg-shaped, elliptic, elliptical, oval-shaped, ovate, oviform, ovoid, prolate"]}
