@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T18:21:00.453419+00:00", 3213, "Your mother is", "biographical", "Pronunciation: /\u02ccba\u026a\u0259\u02c8gr\u00e6f\u026ak\u0259l/", "Definition: of or relating to or being biography", "Synonyms: biographic"]}
+{"data": ["2021-06-13T18:31:00.395727+00:00", 3214, "Your mother is", "one hundred forty", "Similar to: cardinal", "Definition: being ten more than one hundred thirty", "Synonyms: 140, cxl"]}
