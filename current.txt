@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T03:39:44.302898+00:00", 3125, "Your mother is", "smutty", "Pronunciation: /\u02c8sm\u0259ti/", "Definition: soiled with dirt or soot", "Synonyms: black"]}
+{"data": ["2021-06-13T03:49:44.328324+00:00", 3126, "Your mother is", "palmy", "Pronunciation: /\u02c8p\u0251mi/", "Definition: very lively and profitable", "Synonyms: booming, flourishing, prospering, prosperous, roaring, thriving"]}
