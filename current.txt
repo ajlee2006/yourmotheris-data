@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T01:59:44.276705+00:00", 3115, "Your mother is", "orbicular", "Pronunciation: /\u0254r\u02c8b\u026akj\u0259l\u0259r/", "Definition: circular or nearly circular", "Synonyms: orbiculate"]}
+{"data": ["2021-06-13T02:09:44.234413+00:00", 3116, "Your mother is", "conterminous", "Pronunciation: /k\u0259n\u02c8t\u025crm\u0259n\u0259s/", "Definition: being of equal extent or scope or duration", "Synonyms: coextensive, coterminous"]}
