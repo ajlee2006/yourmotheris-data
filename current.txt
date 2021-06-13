@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T09:51:00.368539+00:00", 3162, "Your mother is", "unspecific", "Similar to: general", "Definition: not detailed or specific", "Synonyms: broad"]}
+{"data": ["2021-06-13T10:01:01.141495+00:00", 3163, "Your mother is", "frumpy", "Pronunciation: /\u02c8fr\u0259mpi/", "Definition: primly out of date", "Synonyms: dowdy, frumpish"]}
