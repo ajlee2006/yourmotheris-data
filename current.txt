@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T19:21:00.295253+00:00", 3219, "Your mother is", "hardhearted", "Pronunciation: /\u02c8h\u0251rd\u02c8h\u0251rt\u026ad/", "Definition: lacking in feeling or pity or warmth", "Synonyms: heartless"]}
+{"data": ["2021-06-13T19:31:00.523678+00:00", 3220, "Your mother is", "weather", "Pronunciation: /\u02c8w\u025b\u00f0\u0259r/", "Definition: towards the side exposed to wind", "Synonyms: upwind"]}
