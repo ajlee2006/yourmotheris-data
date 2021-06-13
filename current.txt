@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T02:39:44.209962+00:00", 3119, "Your mother is", "comfortless", "Pronunciation: /\u02c8k\u0259mf\u0259tl\u025bs/", "Definition: without comfort", ""]}
+{"data": ["2021-06-13T02:49:44.157340+00:00", 3120, "Your mother is", "buffeted", "Pronunciation: /b\u028c\u02c8fe\u026ad/", "Definition: pounded or hit repeatedly by storms or adversities", "Synonyms: storm-tossed, tempest-swept, tempest-tossed, tempest-tost"]}
