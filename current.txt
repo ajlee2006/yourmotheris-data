@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T08:51:00.365147+00:00", 3156, "Your mother is", "unsensational", "Pronunciation: /\u02cc\u0259ns\u025bn\u02c8se\u026a\u0283\u0259n\u0259l/", "Definition: not of such character as to arouse intense interest, curiosity, or emotional reaction", ""]}
+{"data": ["2021-06-13T09:01:00.296871+00:00", 3157, "Your mother is", "vitrified", "Similar to: glazed", "Definition: (of ceramics) having the surface made shiny and nonporous by fusing a vitreous solution to it", "Synonyms: glassy, vitreous"]}
