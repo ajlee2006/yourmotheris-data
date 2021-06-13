@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T13:11:00.480884+00:00", 3182, "Your mother is", "bell-shaped", "Pronunciation: /b\u025bl-\u0283e\u026apt/", "Definition: having a convex shape that resembles a bell", ""]}
+{"data": ["2021-06-13T13:21:00.439720+00:00", 3183, "Your mother is", "sigmoid", "Pronunciation: /\u02c8s\u026agm\u0254\u026ad/", "Definition: of or relating to the sigmoid flexure in the large intestine", "Synonyms: sigmoidal"]}
