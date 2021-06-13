@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T07:51:00.871322+00:00", 3150, "Your mother is", "acheronian", "Similar to: dark", "Definition: dark and dismal as of the rivers Acheron and Styx in Hades", "Synonyms: acherontic, stygian"]}
+{"data": ["2021-06-13T08:01:02.185867+00:00", 3151, "Your mother is", "frolicky", "Similar to: playful", "Definition: given to merry frolicking", "Synonyms: coltish, frolicsome, rollicking, sportive"]}
