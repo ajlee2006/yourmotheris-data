@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T01:09:44.226417+00:00", 3110, "Your mother is", "frayed", "Pronunciation: /fre\u026ad/", "Definition: worn away or tattered along the edges", ""]}
+{"data": ["2021-06-13T01:19:44.251206+00:00", 3111, "Your mother is", "marmorean", "", "Definition: of or relating to or characteristic of marble", "Synonyms: marmoreal"]}
