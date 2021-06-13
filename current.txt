@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T11:41:00.338989+00:00", 3173, "Your mother is", "prerecorded", "Pronunciation: /\u02ccpriri\u02c8k\u0254rd\u026ad/", "Definition: recorded at one time for transmission later", ""]}
+{"data": ["2021-06-13T11:51:00.527783+00:00", 3174, "Your mother is", "splenic", "Pronunciation: /\u02c8splin\u026ak/", "Definition: of or relating to the spleen", "Synonyms: lienal, splenetic"]}
