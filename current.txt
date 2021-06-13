@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T10:31:00.404335+00:00", 3166, "Your mother is", "blue-grey", "Similar to: achromatic", "Definition: of grey tinged with blue", "Synonyms: blue-gray, bluish-gray, bluish-grey"]}
+{"data": ["2021-06-13T10:41:00.285493+00:00", 3167, "Your mother is", "artifactual", "", "Definition: of or relating to artifacts", "Synonyms: artefactual"]}
