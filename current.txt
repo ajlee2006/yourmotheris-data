@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T17:41:00.380052+00:00", 3209, "Your mother is", "flyspeck", "Pronunciation: /\u02c8fla\u026a\u02ccsp\u025bk/", "Definition: very small", "Synonyms: bantam, diminutive, lilliputian, midget, petite, tiny"]}
+{"data": ["2021-06-13T17:51:00.381301+00:00", 3210, "Your mother is", "voyeuristic", "Pronunciation: /\u02ccv\u0254\u026aj\u028c\u02c8r\u026ast\u026ak/", "Definition: of or relating to voyeurs or voyeurism", "Synonyms: voyeuristical"]}
