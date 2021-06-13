@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T22:01:02.560500+00:00", 3235, "Your mother is", "inextricable", "Pronunciation: /\u026an\u02c8\u025bkstr\u0259k\u0259b\u0259l/", "Definition: not permitting extrication; incapable of being disentangled or untied", ""]}
+{"data": ["2021-06-13T22:11:00.319180+00:00", 3236, "Your mother is", "bittie", "Similar to: little", "Definition: (used informally) very small", "Synonyms: bitty, itsy-bitsy, itty-bitty, teensy, teensy-weensy, teentsy, teeny, teeny-weeny, wee, weensy, weeny"]}
