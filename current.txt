@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T21:31:00.418045+00:00", 3232, "Your mother is", "annelidan", "Pronunciation: /\u0259\u02c8n\u025bl\u026ad\u0259n/", "Definition: relating to or belonging to or characteristic of any worms of the phylum Annelida", "Synonyms: annelid"]}
+{"data": ["2021-06-13T21:41:00.449400+00:00", 3233, "Your mother is", "blotted out", "Similar to: destroyed", "Definition: reduced to nothingness", "Synonyms: obliterate, obliterated"]}
