@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T13:21:00.439720+00:00", 3183, "Your mother is", "sigmoid", "Pronunciation: /\u02c8s\u026agm\u0254\u026ad/", "Definition: of or relating to the sigmoid flexure in the large intestine", "Synonyms: sigmoidal"]}
+{"data": ["2021-06-13T13:31:00.374871+00:00", 3184, "Your mother is", "precedent", "Pronunciation: /\u02c8pr\u025bs\u026ad\u0259nt/", "Definition: preceding in time, order, or significance", ""]}
