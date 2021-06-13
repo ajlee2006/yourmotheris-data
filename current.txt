@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T14:51:00.474458+00:00", 3192, "Your mother is", "iterative", "Pronunciation: /\u02c8\u026at\u0259\u02ccre\u026at\u026av/", "Definition: marked by iteration", "Synonyms: reiterative"]}
+{"data": ["2021-06-13T15:01:00.419554+00:00", 3193, "Your mother is", "courteous", "Pronunciation: /\u02c8k\u025crti\u0259s/", "Definition: exhibiting courtesy and politeness", "Synonyms: gracious, nice"]}
