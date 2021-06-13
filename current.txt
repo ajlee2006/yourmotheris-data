@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T07:31:00.319049+00:00", 3148, "Your mother is", "repugnant", "Pronunciation: /ri\u02c8p\u0259gn\u0259nt/", "Definition: offensive to the mind", "Synonyms: abhorrent, detestable, obscene, repulsive"]}
+{"data": ["2021-06-13T07:41:00.338623+00:00", 3149, "Your mother is", "unknowledgeable", "Similar to: uninformed", "Definition: unaware because of a lack of relevant information or knowledge", "Synonyms: ignorant, unknowing, unwitting"]}
