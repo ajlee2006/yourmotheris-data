@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T12:21:00.437205+00:00", 3177, "Your mother is", "unforeseen", "Pronunciation: /\u02cc\u0259nfo\u028ar\u02c8sin/", "Definition: not anticipated", "Synonyms: out of the blue, unanticipated, unlooked-for, unseen"]}
+{"data": ["2021-06-13T12:31:00.407557+00:00", 3178, "Your mother is", "noiseless", "Pronunciation: /\u02c8n\u0254\u026azl\u026as/", "Definition: making no sound", ""]}
