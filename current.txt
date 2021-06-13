@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T18:51:00.473605+00:00", 3216, "Your mother is", "subatomic", "Pronunciation: /\u02ccs\u0259b\u0259\u02c8t\u0251m\u026ak/", "Definition: of smaller than atomic dimensions", ""]}
+{"data": ["2021-06-13T19:01:00.492884+00:00", 3217, "Your mother is", "slate-gray", "Similar to: achromatic", "Definition: of the color of slate or granite", "Synonyms: slate-grey, slatey, slaty, slaty-gray, slaty-grey, stone-gray, stone-grey"]}
