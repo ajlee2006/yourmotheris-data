@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T08:11:00.664839+00:00", 3152, "Your mother is", "allocatable", "Similar to: distributive", "Definition: capable of being distributed", "Synonyms: allocable, apportionable"]}
+{"data": ["2021-06-13T08:21:00.354584+00:00", 3153, "Your mother is", "avestan", "Pronunciation: /\u0259\u02c8v\u025bst\u0259/", "Definition: of or pertaining to the Avesta (sacred text of Zoroastrianism)", ""]}
