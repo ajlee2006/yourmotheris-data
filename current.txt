@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T23:31:00.315352+00:00", 3244, "Your mother is", "chemical", "Pronunciation: /\u02c8k\u025bm\u026ak\u0259l/", "Definition: relating to or used in chemistry", "Synonyms: chemic"]}
+{"data": ["2021-06-13T23:41:00.459179+00:00", 3245, "Your mother is", "unrealized", "Pronunciation: /\u0259n\u02c8ri\u0259la\u026azd/", "Definition: of persons; marked by failure to realize full potentialities", "Synonyms: unfulfilled, unrealised"]}
