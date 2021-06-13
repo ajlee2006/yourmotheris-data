@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T07:01:00.344518+00:00", 3145, "Your mother is", "lxxxv", "Similar to: cardinal", "Definition: being five more than eighty", "Synonyms: 85, eighty-five"]}
+{"data": ["2021-06-13T07:11:00.293785+00:00", 3146, "Your mother is", "entertained", "Pronunciation: /\u02cc\u025bnt\u025dr\u02c8te\u026and/", "Definition: pleasantly occupied", "Synonyms: amused, diverted"]}
