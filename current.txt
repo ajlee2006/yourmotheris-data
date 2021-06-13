@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T11:51:00.527783+00:00", 3174, "Your mother is", "splenic", "Pronunciation: /\u02c8splin\u026ak/", "Definition: of or relating to the spleen", "Synonyms: lienal, splenetic"]}
+{"data": ["2021-06-13T12:01:00.510916+00:00", 3175, "Your mother is", "goody-goody", "Pronunciation: /\u02c8\u0261\u028adi-\u02c8\u0261\u028adi/", "Definition: affectedly or smugly good or self-righteous", ""]}
