@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T13:31:00.374871+00:00", 3184, "Your mother is", "precedent", "Pronunciation: /\u02c8pr\u025bs\u026ad\u0259nt/", "Definition: preceding in time, order, or significance", ""]}
+{"data": ["2021-06-13T13:41:00.417976+00:00", 3185, "Your mother is", "miserly", "Pronunciation: /\u02c8ma\u026az\u0259rli/", "Definition: (used of persons or behavior) characterized by or indicative of lack of generosity", "Synonyms: mean, mingy, tight"]}
