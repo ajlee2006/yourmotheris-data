@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T22:21:00.571424+00:00", 3237, "Your mother is", "conservative", "Pronunciation: /k\u0259n\u02c8s\u025crv\u0259t\u026av/", "Definition: conforming to the standards and conventions of the middle class", "Synonyms: bourgeois, materialistic"]}
+{"data": ["2021-06-13T22:31:00.504350+00:00", 3238, "Your mother is", "plushy", "Pronunciation: /\u02c8pl\u0259\u0283i/", "Definition: (of textures) resembling plush", "Synonyms: plush-like"]}
