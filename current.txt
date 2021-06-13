@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T09:41:00.440208+00:00", 3161, "Your mother is", "over-the-counter", "Pronunciation: /\u02c8o\u028av\u0259r\u00f0\u0259\u02c8ka\u028ant\u0259r/", "Definition: (of securities) not traded on a stock exchange", "Synonyms: otc"]}
+{"data": ["2021-06-13T09:51:00.368539+00:00", 3162, "Your mother is", "unspecific", "Similar to: general", "Definition: not detailed or specific", "Synonyms: broad"]}
