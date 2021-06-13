@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T23:21:00.358966+00:00", 3243, "Your mother is", "hard-of-hearing", "Pronunciation: /\u02c8h\u0251rd\u0259v\u02c8hir\u026a\u014b/", "Definition: having a hearing loss", "Synonyms: hearing-impaired"]}
+{"data": ["2021-06-13T23:31:00.315352+00:00", 3244, "Your mother is", "chemical", "Pronunciation: /\u02c8k\u025bm\u026ak\u0259l/", "Definition: relating to or used in chemistry", "Synonyms: chemic"]}
