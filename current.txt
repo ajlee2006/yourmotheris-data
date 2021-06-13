@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T05:41:00.394224+00:00", 3137, "Your mother is", "ill-defined", "", "Definition: poorly stated or described", "Synonyms: unclear"]}
+{"data": ["2021-06-13T05:51:00.430230+00:00", 3138, "Your mother is", "total", "Pronunciation: /\u02c8to\u028at\u0259l/", "Definition: constituting the full quantity or extent; complete", "Synonyms: entire, full"]}
