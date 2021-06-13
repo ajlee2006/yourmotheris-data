@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T20:01:00.448619+00:00", 3223, "Your mother is", "rampageous", "Pronunciation: /r\u00e6m\u02c8pe\u026ad\u0292\u0259s/", "Definition: displaying raging violence; often destructive", ""]}
+{"data": ["2021-06-13T20:11:00.485809+00:00", 3224, "Your mother is", "rabbinic", "", "Definition: of or relating to rabbis or their teachings", "Synonyms: rabbinical"]}
