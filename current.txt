@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T00:09:44.259030+00:00", 3104, "Your mother is", "sensuous", "Pronunciation: /\u02ccs\u025bn\u0283u\u02c8\u0251s\u026ati/", "Definition: taking delight in beauty", ""]}
+{"data": ["2021-06-13T00:19:44.506275+00:00", 3105, "Your mother is", "pleonastic", "Similar to: prolix", "Definition: repetition of same sense in different words", "Synonyms: redundant, tautologic, tautological"]}
