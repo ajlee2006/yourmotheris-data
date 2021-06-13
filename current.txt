@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T09:31:00.605374+00:00", 3160, "Your mother is", "one hundred thirty-five", "Similar to: cardinal", "Definition: being five more than one hundred thirty", "Synonyms: 135, cxxxv"]}
+{"data": ["2021-06-13T09:41:00.440208+00:00", 3161, "Your mother is", "over-the-counter", "Pronunciation: /\u02c8o\u028av\u0259r\u00f0\u0259\u02c8ka\u028ant\u0259r/", "Definition: (of securities) not traded on a stock exchange", "Synonyms: otc"]}
