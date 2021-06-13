@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T22:31:00.504350+00:00", 3238, "Your mother is", "plushy", "Pronunciation: /\u02c8pl\u0259\u0283i/", "Definition: (of textures) resembling plush", "Synonyms: plush-like"]}
+{"data": ["2021-06-13T22:41:00.347334+00:00", 3239, "Your mother is", "afflictive", "Pronunciation: /\u0259\u02c8fl\u026akt\u026av/", "Definition: causing misery or pain or distress", "Synonyms: painful, sore"]}
