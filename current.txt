@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T13:51:00.374477+00:00", 3186, "Your mother is", "estrous", "Pronunciation: /\u02c8\u025bstr\u0259s/", "Definition: (of lower mammals) showing or in a state of estrus; in heat", ""]}
+{"data": ["2021-06-13T14:01:00.333665+00:00", 3187, "Your mother is", "buried", "Pronunciation: /\u02c8b\u025brid/", "Definition: placed in a grave", "Synonyms: inhumed, interred"]}
