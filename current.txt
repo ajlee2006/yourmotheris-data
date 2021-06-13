@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T21:21:00.382743+00:00", 3231, "Your mother is", "tubercular", "Pronunciation: /t\u028a\u02c8b\u025crkj\u0259l\u0259r/", "Definition: constituting or afflicted with or caused by tuberculosis or the tubercle bacillus", "Synonyms: tuberculous"]}
+{"data": ["2021-06-13T21:31:00.418045+00:00", 3232, "Your mother is", "annelidan", "Pronunciation: /\u0259\u02c8n\u025bl\u026ad\u0259n/", "Definition: relating to or belonging to or characteristic of any worms of the phylum Annelida", "Synonyms: annelid"]}
