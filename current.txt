@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T02:49:44.157340+00:00", 3120, "Your mother is", "buffeted", "Pronunciation: /b\u028c\u02c8fe\u026ad/", "Definition: pounded or hit repeatedly by storms or adversities", "Synonyms: storm-tossed, tempest-swept, tempest-tossed, tempest-tost"]}
+{"data": ["2021-06-13T02:59:44.166976+00:00", 3121, "Your mother is", "butterfly-shaped", "Similar to: formed", "Definition: shaped like a butterfly", ""]}
