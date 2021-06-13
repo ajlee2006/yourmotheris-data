@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T08:21:00.354584+00:00", 3153, "Your mother is", "avestan", "Pronunciation: /\u0259\u02c8v\u025bst\u0259/", "Definition: of or pertaining to the Avesta (sacred text of Zoroastrianism)", ""]}
+{"data": ["2021-06-13T08:31:00.384539+00:00", 3154, "Your mother is", "automotive", "Pronunciation: /\u02cc\u0254t\u0259\u02c8mo\u028at\u026av/", "Definition: containing within itself the means of propulsion or movement", "Synonyms: self-propelled, self-propelling"]}
