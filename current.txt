@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T08:01:02.185867+00:00", 3151, "Your mother is", "frolicky", "Similar to: playful", "Definition: given to merry frolicking", "Synonyms: coltish, frolicsome, rollicking, sportive"]}
+{"data": ["2021-06-13T08:11:00.664839+00:00", 3152, "Your mother is", "allocatable", "Similar to: distributive", "Definition: capable of being distributed", "Synonyms: allocable, apportionable"]}
