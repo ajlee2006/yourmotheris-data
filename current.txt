@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T09:11:00.348654+00:00", 3158, "Your mother is", "knock-down-and-drag-out", "Similar to: violent", "Definition: extremely violent", "Synonyms: knockdown-dragout"]}
+{"data": ["2021-06-13T09:21:00.484002+00:00", 3159, "Your mother is", "worried", "Pronunciation: /\u02c8w\u025crid/", "Definition: afflicted with or marked by anxious uneasiness or trouble or grief", "Synonyms: disquieted, distressed, disturbed, upset"]}
