@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T06:01:00.361498+00:00", 3139, "Your mother is", "infertile", "Pronunciation: /\u026an\u02c8f\u025crt\u0259l/", "Definition: incapable of reproducing", "Synonyms: sterile, unfertile"]}
+{"data": ["2021-06-13T06:11:00.400432+00:00", 3140, "Your mother is", "theist", "Pronunciation: /\u02c8\u03b8i\u026ast/", "Definition: of or relating to theism", "Synonyms: theistic, theistical"]}
