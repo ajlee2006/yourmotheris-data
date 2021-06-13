@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T01:29:44.187724+00:00", 3112, "Your mother is", "gammy", "Pronunciation: /\u02c8\u0261\u00e6mi/", "Definition: (British informal) sore or lame", ""]}
+{"data": ["2021-06-13T01:39:44.324926+00:00", 3113, "Your mother is", "uncoupled", "Similar to: unconnected", "Definition: having the coupling undone", ""]}
