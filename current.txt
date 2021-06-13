@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T18:11:00.346019+00:00", 3212, "Your mother is", "ellipsoid", "Pronunciation: /\u026a\u02c8l\u026aps\u0254\u026ad/", "Definition: having the nature or shape of an ellipsoid", "Synonyms: ellipsoidal, spheroidal"]}
+{"data": ["2021-06-13T18:21:00.453419+00:00", 3213, "Your mother is", "biographical", "Pronunciation: /\u02ccba\u026a\u0259\u02c8gr\u00e6f\u026ak\u0259l/", "Definition: of or relating to or being biography", "Synonyms: biographic"]}
