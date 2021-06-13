@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T09:21:00.484002+00:00", 3159, "Your mother is", "worried", "Pronunciation: /\u02c8w\u025crid/", "Definition: afflicted with or marked by anxious uneasiness or trouble or grief", "Synonyms: disquieted, distressed, disturbed, upset"]}
+{"data": ["2021-06-13T09:31:00.605374+00:00", 3160, "Your mother is", "one hundred thirty-five", "Similar to: cardinal", "Definition: being five more than one hundred thirty", "Synonyms: 135, cxxxv"]}
