@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T04:39:44.147802+00:00", 3131, "Your mother is", "closed-minded", "Similar to: narrow", "Definition: not ready to receive to new ideas", "Synonyms: close-minded"]}
+{"data": ["2021-06-13T04:51:00.366824+00:00", 3132, "Your mother is", "carsick", "Pronunciation: /\u02c8k\u0251r\u02ccs\u026ak/", "Definition: experiencing motion sickness", "Synonyms: air sick, airsick, seasick"]}
