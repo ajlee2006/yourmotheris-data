@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T05:21:00.445599+00:00", 3135, "Your mother is", "casual", "Pronunciation: /\u02c8k\u00e6\u0292u\u0259l/", "Definition: hasty and without attention to detail; not thorough", "Synonyms: cursory, passing, perfunctory, superficial"]}
+{"data": ["2021-06-13T05:31:00.371093+00:00", 3136, "Your mother is", "rueful", "Pronunciation: /\u02c8ruf\u028al/", "Definition: feeling or expressing pain or sorrow for sins or offenses", "Synonyms: contrite, remorseful, ruthful"]}
