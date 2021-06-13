@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T07:11:00.293785+00:00", 3146, "Your mother is", "entertained", "Pronunciation: /\u02cc\u025bnt\u025dr\u02c8te\u026and/", "Definition: pleasantly occupied", "Synonyms: amused, diverted"]}
+{"data": ["2021-06-13T07:21:00.304680+00:00", 3147, "Your mother is", "whirring", "Pronunciation: /\u02c8w\u025dr\u026a\u014b/", "Definition: like the sound of rapidly vibrating wings", ""]}
