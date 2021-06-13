@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T18:41:00.398517+00:00", 3215, "Your mother is", "unanimated", "Similar to: lifeless", "Definition: not animated or enlivened; dull", ""]}
+{"data": ["2021-06-13T18:51:00.473605+00:00", 3216, "Your mother is", "subatomic", "Pronunciation: /\u02ccs\u0259b\u0259\u02c8t\u0251m\u026ak/", "Definition: of smaller than atomic dimensions", ""]}
