@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T18:01:00.344945+00:00", 3211, "Your mother is", "censurable", "Pronunciation: /\u02c8s\u025bn\u0283\u0259r\u0259b\u0259l/", "Definition: deserving blame or censure as being wrong or evil or injurious", "Synonyms: blamable, blameable, blameful, blameworthy, culpable"]}
+{"data": ["2021-06-13T18:11:00.346019+00:00", 3212, "Your mother is", "ellipsoid", "Pronunciation: /\u026a\u02c8l\u026aps\u0254\u026ad/", "Definition: having the nature or shape of an ellipsoid", "Synonyms: ellipsoidal, spheroidal"]}
