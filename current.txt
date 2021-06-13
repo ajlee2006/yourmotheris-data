@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T01:49:44.214036+00:00", 3114, "Your mother is", "leptorrhinian", "", "Definition: having a long narrow nose", "Synonyms: leptorhine, leptorrhine, leptorrhinic"]}
+{"data": ["2021-06-13T01:59:44.276705+00:00", 3115, "Your mother is", "orbicular", "Pronunciation: /\u0254r\u02c8b\u026akj\u0259l\u0259r/", "Definition: circular or nearly circular", "Synonyms: orbiculate"]}
