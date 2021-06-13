@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T05:31:00.371093+00:00", 3136, "Your mother is", "rueful", "Pronunciation: /\u02c8ruf\u028al/", "Definition: feeling or expressing pain or sorrow for sins or offenses", "Synonyms: contrite, remorseful, ruthful"]}
+{"data": ["2021-06-13T05:41:00.394224+00:00", 3137, "Your mother is", "ill-defined", "", "Definition: poorly stated or described", "Synonyms: unclear"]}
