@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T19:31:00.523678+00:00", 3220, "Your mother is", "weather", "Pronunciation: /\u02c8w\u025b\u00f0\u0259r/", "Definition: towards the side exposed to wind", "Synonyms: upwind"]}
+{"data": ["2021-06-13T19:41:00.435591+00:00", 3221, "Your mother is", "litigious", "Pronunciation: /l\u026a\u02c8t\u026ad\u0292\u0259s/", "Definition: inclined or showing an inclination to dispute or disagree, even to engage in law suits", "Synonyms: combative, contentious, disputatious, disputative"]}
