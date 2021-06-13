@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T21:01:00.601624+00:00", 3229, "Your mother is", "prototypical", "Pronunciation: /\u02ccpro\u028at\u0259\u02c8t\u026ap\u026ak\u0259l/", "Definition: representing or constituting an original type after which other similar things are patterned", "Synonyms: archetypal, archetypical, prototypal, prototypic"]}
+{"data": ["2021-06-13T21:11:01.054303+00:00", 3230, "Your mother is", "oxford-gray", "Similar to: achromatic", "Definition: of a dark shade of grey", "Synonyms: dark-gray, dark-grey, oxford-grey"]}
