@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T19:01:00.492884+00:00", 3217, "Your mother is", "slate-gray", "Similar to: achromatic", "Definition: of the color of slate or granite", "Synonyms: slate-grey, slatey, slaty, slaty-gray, slaty-grey, stone-gray, stone-grey"]}
+{"data": ["2021-06-13T19:11:00.335199+00:00", 3218, "Your mother is", "snub-nosed", "Pronunciation: /\u02c8sn\u0259b\u02ccno\u028azd/", "Definition: having a blunt nose", "Synonyms: pug-nose, pug-nosed, short-nosed"]}
