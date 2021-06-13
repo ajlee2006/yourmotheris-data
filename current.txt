@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T20:11:00.485809+00:00", 3224, "Your mother is", "rabbinic", "", "Definition: of or relating to rabbis or their teachings", "Synonyms: rabbinical"]}
+{"data": ["2021-06-13T20:21:00.299011+00:00", 3225, "Your mother is", "set-apart", "Similar to: separate", "Definition: being or feeling set or kept apart from others", "Synonyms: detached, isolated, separated"]}
