@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T21:11:01.054303+00:00", 3230, "Your mother is", "oxford-gray", "Similar to: achromatic", "Definition: of a dark shade of grey", "Synonyms: dark-gray, dark-grey, oxford-grey"]}
+{"data": ["2021-06-13T21:21:00.382743+00:00", 3231, "Your mother is", "tubercular", "Pronunciation: /t\u028a\u02c8b\u025crkj\u0259l\u0259r/", "Definition: constituting or afflicted with or caused by tuberculosis or the tubercle bacillus", "Synonyms: tuberculous"]}
