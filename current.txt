@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T20:51:00.389138+00:00", 3228, "Your mother is", "slubbed", "Similar to: rough", "Definition: of textiles; having a rough surface", "Synonyms: homespun, nubbly, nubby, tweedy"]}
+{"data": ["2021-06-13T21:01:00.601624+00:00", 3229, "Your mother is", "prototypical", "Pronunciation: /\u02ccpro\u028at\u0259\u02c8t\u026ap\u026ak\u0259l/", "Definition: representing or constituting an original type after which other similar things are patterned", "Synonyms: archetypal, archetypical, prototypal, prototypic"]}
