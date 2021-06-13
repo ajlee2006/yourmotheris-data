@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T16:31:00.376435+00:00", 3202, "Your mother is", "po-faced", "Similar to: humorless", "Definition: humorless and disapproving", ""]}
+{"data": ["2021-06-13T16:41:00.420144+00:00", 3203, "Your mother is", "freshman", "Pronunciation: /\u02c8fr\u025b\u0283m\u0259n/", "Definition: used of a person in the first year of an experience (especially in United States high school or college)", "Synonyms: first-year"]}
