@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T20:41:00.382853+00:00", 3227, "Your mother is", "ventricose", "Pronunciation: /\u02c8v\u025bntr\u0259\u02ccko\u028as/", "Definition: having a swelling on one side", "Synonyms: ventricous"]}
+{"data": ["2021-06-13T20:51:00.389138+00:00", 3228, "Your mother is", "slubbed", "Similar to: rough", "Definition: of textiles; having a rough surface", "Synonyms: homespun, nubbly, nubby, tweedy"]}
