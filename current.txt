@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T03:29:44.265361+00:00", 3124, "Your mother is", "down-and-out", "Pronunciation: /\u02c8da\u028an\u0259nd-\u02c8a\u028at/", "Definition: lacking resources (or any prospect of resources)", ""]}
+{"data": ["2021-06-13T03:39:44.302898+00:00", 3125, "Your mother is", "smutty", "Pronunciation: /\u02c8sm\u0259ti/", "Definition: soiled with dirt or soot", "Synonyms: black"]}
