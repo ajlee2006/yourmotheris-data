@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T12:51:00.443333+00:00", 3180, "Your mother is", "eighty-eight", "Pronunciation: /\u02c8e\u026ati-e\u026at/", "Definition: being eight more than eighty", "Synonyms: 88, lxxxviii"]}
+{"data": ["2021-06-13T13:01:00.631261+00:00", 3181, "Your mother is", "sprawly", "Similar to: extended", "Definition: extended out irregularly", ""]}
