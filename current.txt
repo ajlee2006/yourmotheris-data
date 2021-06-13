@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T11:31:00.439291+00:00", 3172, "Your mother is", "fusty", "Pronunciation: /\u02c8f\u0259sti/", "Definition: stale and unclean smelling", "Synonyms: frowsty, musty"]}
+{"data": ["2021-06-13T11:41:00.338989+00:00", 3173, "Your mother is", "prerecorded", "Pronunciation: /\u02ccpriri\u02c8k\u0254rd\u026ad/", "Definition: recorded at one time for transmission later", ""]}
