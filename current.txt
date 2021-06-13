@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T07:21:00.304680+00:00", 3147, "Your mother is", "whirring", "Pronunciation: /\u02c8w\u025dr\u026a\u014b/", "Definition: like the sound of rapidly vibrating wings", ""]}
+{"data": ["2021-06-13T07:31:00.319049+00:00", 3148, "Your mother is", "repugnant", "Pronunciation: /ri\u02c8p\u0259gn\u0259nt/", "Definition: offensive to the mind", "Synonyms: abhorrent, detestable, obscene, repulsive"]}
