@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T12:11:00.412562+00:00", 3176, "Your mother is", "port", "Pronunciation: /po\u028art/", "Definition: located on the left side of a ship or aircraft", "Synonyms: larboard"]}
+{"data": ["2021-06-13T12:21:00.437205+00:00", 3177, "Your mother is", "unforeseen", "Pronunciation: /\u02cc\u0259nfo\u028ar\u02c8sin/", "Definition: not anticipated", "Synonyms: out of the blue, unanticipated, unlooked-for, unseen"]}
