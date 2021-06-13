@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T13:41:00.417976+00:00", 3185, "Your mother is", "miserly", "Pronunciation: /\u02c8ma\u026az\u0259rli/", "Definition: (used of persons or behavior) characterized by or indicative of lack of generosity", "Synonyms: mean, mingy, tight"]}
+{"data": ["2021-06-13T13:51:00.374477+00:00", 3186, "Your mother is", "estrous", "Pronunciation: /\u02c8\u025bstr\u0259s/", "Definition: (of lower mammals) showing or in a state of estrus; in heat", ""]}
