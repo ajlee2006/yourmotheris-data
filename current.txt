@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T04:29:44.122103+00:00", 3130, "Your mother is", "sleazy", "Pronunciation: /\u02c8slizi/", "Definition: morally degraded", "Synonyms: seamy, seedy, sordid, squalid"]}
+{"data": ["2021-06-13T04:39:44.147802+00:00", 3131, "Your mother is", "closed-minded", "Similar to: narrow", "Definition: not ready to receive to new ideas", "Synonyms: close-minded"]}
