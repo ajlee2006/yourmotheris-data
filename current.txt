@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T07:41:00.338623+00:00", 3149, "Your mother is", "unknowledgeable", "Similar to: uninformed", "Definition: unaware because of a lack of relevant information or knowledge", "Synonyms: ignorant, unknowing, unwitting"]}
+{"data": ["2021-06-13T07:51:00.871322+00:00", 3150, "Your mother is", "acheronian", "Similar to: dark", "Definition: dark and dismal as of the rivers Acheron and Styx in Hades", "Synonyms: acherontic, stygian"]}
