@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T12:41:00.377002+00:00", 3179, "Your mother is", "attrited", "Similar to: worn", "Definition: worn by rubbing or friction", ""]}
+{"data": ["2021-06-13T12:51:00.443333+00:00", 3180, "Your mother is", "eighty-eight", "Pronunciation: /\u02c8e\u026ati-e\u026at/", "Definition: being eight more than eighty", "Synonyms: 88, lxxxviii"]}
