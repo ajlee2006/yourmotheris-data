@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T17:31:00.366157+00:00", 3208, "Your mother is", "low-priced", "Similar to: cheap", "Definition: that you have the financial means for", "Synonyms: affordable, low-cost"]}
+{"data": ["2021-06-13T17:41:00.380052+00:00", 3209, "Your mother is", "flyspeck", "Pronunciation: /\u02c8fla\u026a\u02ccsp\u025bk/", "Definition: very small", "Synonyms: bantam, diminutive, lilliputian, midget, petite, tiny"]}
