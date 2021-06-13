@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T23:11:00.513021+00:00", 3242, "Your mother is", "churlish", "Pronunciation: /\u02c8\u02a7\u025crl\u026a\u0283/", "Definition: having a bad disposition; surly", ""]}
+{"data": ["2021-06-13T23:21:00.358966+00:00", 3243, "Your mother is", "hard-of-hearing", "Pronunciation: /\u02c8h\u0251rd\u0259v\u02c8hir\u026a\u014b/", "Definition: having a hearing loss", "Synonyms: hearing-impaired"]}
