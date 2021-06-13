@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T14:11:00.416499+00:00", 3188, "Your mother is", "introuvable", "Similar to: absent", "Definition: impossible to find", ""]}
+{"data": ["2021-06-13T14:21:00.490862+00:00", 3189, "Your mother is", "spearhead-shaped", "Similar to: simple", "Definition: (of a leaf shape) like a spear point, with flaring pointed lobes at the base", "Synonyms: hastate"]}
