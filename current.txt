@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T15:31:00.329980+00:00", 3196, "Your mother is", "washed-up", "Pronunciation: /\u02c8w\u0251\u0283t-\u02c8\u0259p/", "Definition: doomed to extinction", "Synonyms: done for, ruined, sunk, undone"]}
+{"data": ["2021-06-13T15:41:00.417617+00:00", 3197, "Your mother is", "concomitant", "Pronunciation: /k\u0251n\u02c8k\u0251m\u026at\u0259nt/", "Definition: occurring with or following as a consequence", "Synonyms: accompanying, attendant, collateral, consequent, ensuant, incidental, resultant, sequent"]}
