@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T02:29:45.939611+00:00", 3118, "Your mother is", "forty-three", "Pronunciation: /\u02c8f\u0254rti-\u03b8ri/", "Definition: being three more than forty", "Synonyms: 43, xliii"]}
+{"data": ["2021-06-13T02:39:44.209962+00:00", 3119, "Your mother is", "comfortless", "Pronunciation: /\u02c8k\u0259mf\u0259tl\u025bs/", "Definition: without comfort", ""]}
