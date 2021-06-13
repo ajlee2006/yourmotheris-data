@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T06:31:00.310518+00:00", 3142, "Your mother is", "fire-resistive", "Pronunciation: /fa\u026a\u0259r-r\u026a\u02c8z\u026ast\u026av/", "Definition: difficult to burn", "Synonyms: fire-resistant, fire-resisting, fire-retardant"]}
+{"data": ["2021-06-13T06:41:00.401734+00:00", 3143, "Your mother is", "out of whack", "Similar to: malfunctioning", "Definition: out of balance or out of adjustment", ""]}
