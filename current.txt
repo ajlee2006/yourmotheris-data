@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T04:51:00.366824+00:00", 3132, "Your mother is", "carsick", "Pronunciation: /\u02c8k\u0251r\u02ccs\u026ak/", "Definition: experiencing motion sickness", "Synonyms: air sick, airsick, seasick"]}
+{"data": ["2021-06-13T05:01:00.816587+00:00", 3133, "Your mother is", "uncheerful", "Similar to: dingy", "Definition: causing sad feelings of gloom and inadequacy", "Synonyms: cheerless, depressing"]}
