@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T03:59:44.160358+00:00", 3127, "Your mother is", "hand-held", "", "Definition: small and light enough to be operated while you hold it in your hands", "Synonyms: handheld"]}
+{"data": ["2021-06-13T04:09:44.135734+00:00", 3128, "Your mother is", "proactive", "Pronunciation: /pro\u028a\u02c8\u00e6kt\u026av/", "Definition: descriptive of any event or stimulus or process that has an effect on events or stimuli or processes that occur subsequently", ""]}
