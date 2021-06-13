@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T10:01:01.141495+00:00", 3163, "Your mother is", "frumpy", "Pronunciation: /\u02c8fr\u0259mpi/", "Definition: primly out of date", "Synonyms: dowdy, frumpish"]}
+{"data": ["2021-06-13T10:11:00.438098+00:00", 3164, "Your mother is", "green", "Pronunciation: /grin/", "Definition: of the color between blue and yellow in the color spectrum; similar to the color of fresh grass", "Synonyms: dark-green, greenish, light-green"]}
