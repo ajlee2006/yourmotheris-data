@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T16:01:00.498310+00:00", 3199, "Your mother is", "preferred", "Pronunciation: /pr\u028c\u02c8f\u025drd/", "Definition: preferred above all others and treated with partiality", "Synonyms: best-loved, favored, favorite, favourite, pet, preferent"]}
+{"data": ["2021-06-13T16:11:00.558859+00:00", 3200, "Your mother is", "cytoplasmatic", "", "Definition: of or relating to cytoplasm", "Synonyms: cytoplasmic"]}
