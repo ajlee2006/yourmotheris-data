@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T06:21:00.356219+00:00", 3141, "Your mother is", "threepenny", "Pronunciation: /\u02c8\u03b8r\u0259p\u0259ni/", "Definition: of trifling worth", "Synonyms: sixpenny, tuppeny, two-a-penny, twopenny, twopenny-halfpenny"]}
+{"data": ["2021-06-13T06:31:00.310518+00:00", 3142, "Your mother is", "fire-resistive", "Pronunciation: /fa\u026a\u0259r-r\u026a\u02c8z\u026ast\u026av/", "Definition: difficult to burn", "Synonyms: fire-resistant, fire-resisting, fire-retardant"]}
