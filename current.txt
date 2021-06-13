@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T02:09:44.234413+00:00", 3116, "Your mother is", "conterminous", "Pronunciation: /k\u0259n\u02c8t\u025crm\u0259n\u0259s/", "Definition: being of equal extent or scope or duration", "Synonyms: coextensive, coterminous"]}
+{"data": ["2021-06-13T02:19:44.153042+00:00", 3117, "Your mother is", "annelid", "Pronunciation: /\u02c8\u00e6n\u0259l\u026ad/", "Definition: relating to or belonging to or characteristic of any worms of the phylum Annelida", "Synonyms: annelidan"]}
