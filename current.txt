@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T15:01:00.419554+00:00", 3193, "Your mother is", "courteous", "Pronunciation: /\u02c8k\u025crti\u0259s/", "Definition: exhibiting courtesy and politeness", "Synonyms: gracious, nice"]}
+{"data": ["2021-06-13T15:11:00.331094+00:00", 3194, "Your mother is", "lengthy", "Pronunciation: /\u02c8l\u025b\u014bk\u03b8i/", "Definition: relatively long in duration; tediously protracted", "Synonyms: drawn-out, extended, prolonged, protracted"]}
