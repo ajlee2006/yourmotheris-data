@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T15:21:00.379275+00:00", 3195, "Your mother is", "oval", "Pronunciation: /\u02c8o\u028av\u0259l/", "Definition: rounded like an egg", "Synonyms: egg-shaped, elliptic, elliptical, oval-shaped, ovate, oviform, ovoid, prolate"]}
+{"data": ["2021-06-13T15:31:00.329980+00:00", 3196, "Your mother is", "washed-up", "Pronunciation: /\u02c8w\u0251\u0283t-\u02c8\u0259p/", "Definition: doomed to extinction", "Synonyms: done for, ruined, sunk, undone"]}
