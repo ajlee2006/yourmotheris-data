@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T22:11:00.319180+00:00", 3236, "Your mother is", "bittie", "Similar to: little", "Definition: (used informally) very small", "Synonyms: bitty, itsy-bitsy, itty-bitty, teensy, teensy-weensy, teentsy, teeny, teeny-weeny, wee, weensy, weeny"]}
+{"data": ["2021-06-13T22:21:00.571424+00:00", 3237, "Your mother is", "conservative", "Pronunciation: /k\u0259n\u02c8s\u025crv\u0259t\u026av/", "Definition: conforming to the standards and conventions of the middle class", "Synonyms: bourgeois, materialistic"]}
