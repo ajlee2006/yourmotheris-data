@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T22:41:00.347334+00:00", 3239, "Your mother is", "afflictive", "Pronunciation: /\u0259\u02c8fl\u026akt\u026av/", "Definition: causing misery or pain or distress", "Synonyms: painful, sore"]}
+{"data": ["2021-06-13T22:51:00.641619+00:00", 3240, "Your mother is", "earthlike", "Similar to: chromatic", "Definition: earth colored; of something having a color of soil or earth", ""]}
