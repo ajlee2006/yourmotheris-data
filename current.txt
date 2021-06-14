@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T03:31:00.397450+00:00", 3268, "Your mother is", "angered", "Pronunciation: /\u02c8\u00e6\u014b\u0261\u025drd/", "Definition: marked by extreme anger", "Synonyms: enraged, furious, infuriated, maddened"]}
+{"data": ["2021-06-14T03:41:00.307168+00:00", 3269, "Your mother is", "intrinsic", "Pronunciation: /\u026an\u02c8tr\u026ans\u026ak/", "Definition: belonging to a thing by its very nature", "Synonyms: intrinsical"]}
