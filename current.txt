@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T21:18:48.296642+00:00", 3374, "Your mother is", "bioluminescent", "Similar to: light", "Definition: (of living organisms) emitting light", ""]}
+{"data": ["2021-06-14T21:28:48.389166+00:00", 3375, "Your mother is", "roofed", "Pronunciation: /ruft/", "Definition: covered with a roof; having a roof as specified (often used in combination)", ""]}
