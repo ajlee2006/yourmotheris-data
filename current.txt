@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T10:28:48.342470+00:00", 3309, "Your mother is", "competitory", "Pronunciation: /k\u0259m\u02c8p\u025bt\u026a\u02ccto\u028ari/", "Definition: involving competition or competitiveness", "Synonyms: competitive"]}
+{"data": ["2021-06-14T10:38:48.225734+00:00", 3310, "Your mother is", "ovate", "Pronunciation: /\u02c8o\u028ave\u026at/", "Definition: rounded like an egg", "Synonyms: egg-shaped, elliptic, elliptical, oval, oval-shaped, oviform, ovoid, prolate"]}
