@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T18:18:48.628311+00:00", 3356, "Your mother is", "hesperian", "Pronunciation: /h\u025b\u02c8spiri\u0259n/", "Definition: denoting or characteristic of countries of Europe and the western hemisphere", "Synonyms: occidental"]}
+{"data": ["2021-06-14T18:28:48.291604+00:00", 3357, "Your mother is", "articulate", "Pronunciation: /\u0251r\u02c8t\u026akj\u0259\u02ccl\u026at/", "Definition: consisting of segments held together by joints", "Synonyms: articulated"]}
