@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T21:48:48.347670+00:00", 3377, "Your mother is", "asserting", "Pronunciation: /\u028c\u02c8s\u025drt\u026a\u014b/", "Definition: relating to the use of or having the nature of a declaration", "Synonyms: declarative, declaratory"]}
+{"data": ["2021-06-14T21:58:48.280149+00:00", 3378, "Your mother is", "out-of-door", "Similar to: alfresco", "Definition: located, suited for, or taking place in the open air", "Synonyms: outdoor, outside"]}
