@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T20:58:48.336468+00:00", 3372, "Your mother is", "fungible", "Pronunciation: /\u02c8f\u0259nd\u0292\u0259b\u0259l/", "Definition: of goods or commodities; freely exchangeable for or replaceable by another of like nature or kind in the satisfaction of an obligation", ""]}
+{"data": ["2021-06-14T21:08:48.480853+00:00", 3373, "Your mother is", "sprawly", "Similar to: extended", "Definition: extended out irregularly", ""]}
