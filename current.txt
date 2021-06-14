@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T05:58:48.343705+00:00", 3282, "Your mother is", "unspent", "Pronunciation: /\u0259n\u02c8sp\u025bnt/", "Definition: (of financial resources) not spent", "Synonyms: unexpended"]}
+{"data": ["2021-06-14T06:08:48.332627+00:00", 3283, "Your mother is", "hardscrabble", "Pronunciation: /\u02c8h\u0251rd\u02ccskr\u00e6b\u0259l/", "Definition: barely satisfying a lower standard", ""]}
