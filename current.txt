@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T03:51:00.458011+00:00", 3270, "Your mother is", "thirty-fourth", "Pronunciation: /\u02c8\u03b8\u025crti-fo\u028ar\u03b8/", "Definition: the ordinal number of thirty-four in counting order", "Synonyms: 34th"]}
+{"data": ["2021-06-14T04:01:00.429075+00:00", 3271, "Your mother is", "nodulose", "Pronunciation: /\u02c8n\u0251d\u0292\u0259\u02cclo\u028as/", "Definition: having minute nodules", ""]}
