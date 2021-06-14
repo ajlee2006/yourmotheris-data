@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T08:28:48.265874+00:00", 3297, "Your mother is", "subtractive", "Pronunciation: /s\u0259b\u02c8tr\u00e6kt\u026av/", "Definition: constituting or involving subtraction", ""]}
+{"data": ["2021-06-14T08:38:48.277603+00:00", 3298, "Your mother is", "undeserving", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8z\u025crvi\u014b/", "Definition: not deserving", "Synonyms: unworthy"]}
