@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T04:41:00.381617+00:00", 3275, "Your mother is", "yellowish", "Pronunciation: /\u02c8j\u025blo\u028a\u026a\u0283/", "Definition: of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk", "Synonyms: xanthous, yellow"]}
+{"data": ["2021-06-14T04:51:00.511946+00:00", 3276, "Your mother is", "implemental", "Similar to: helpful", "Definition: serving or acting as a means or aid", "Synonyms: instrumental, subservient"]}
