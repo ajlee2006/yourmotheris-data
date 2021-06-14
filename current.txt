@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T05:01:00.394608+00:00", 3277, "Your mother is", "unhappy", "Pronunciation: /\u0259n\u02c8h\u00e6pi/", "Definition: generalized feeling of distress", "Synonyms: distressed, dysphoric"]}
+{"data": ["2021-06-14T05:18:48.393347+00:00", 3278, "Your mother is", "parky", "Pronunciation: /\u02c8p\u0259rki/", "Definition: appreciably or disagreeably cold", "Synonyms: chilly"]}
