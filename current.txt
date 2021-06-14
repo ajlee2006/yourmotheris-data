@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T13:38:48.364907+00:00", 3328, "Your mother is", "secondary", "Pronunciation: /\u02c8s\u025bk\u0259n\u02ccd\u025bri/", "Definition: inferior in rank or status", "Synonyms: junior-grade, lower-ranking, lowly, petty, subaltern"]}
+{"data": ["2021-06-14T13:48:48.316616+00:00", 3329, "Your mother is", "appointive", "Pronunciation: /\u0259\u02c8p\u0254\u026ant\u026av/", "Definition: subject to appointment", "Synonyms: appointed"]}
