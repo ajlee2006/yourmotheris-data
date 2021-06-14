@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T04:11:00.354380+00:00", 3272, "Your mother is", "ostensible", "Pronunciation: /\u0251\u02c8st\u025bns\u026ab\u0259l/", "Definition: represented or appearing as such; pretended", "Synonyms: ostensive"]}
+{"data": ["2021-06-14T04:21:00.502691+00:00", 3273, "Your mother is", "anginose", "Pronunciation: /\u02c8\u00e6nd\u0292\u0259\u02ccno\u028as/", "Definition: of or related to the pain of angina pectoris", "Synonyms: anginal, anginous"]}
