@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T14:08:48.559966+00:00", 3331, "Your mother is", "sexist", "Pronunciation: /\u02c8s\u025bks\u026ast/", "Definition: discriminatory on the basis of sex (usually said of men's attitude toward women)", ""]}
+{"data": ["2021-06-14T14:18:48.530908+00:00", 3332, "Your mother is", "swimming", "Pronunciation: /\u02c8sw\u026am\u026a\u014b/", "Definition: filled or brimming with tears", "Synonyms: liquid"]}
