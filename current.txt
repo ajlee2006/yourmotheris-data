@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T05:38:48.377835+00:00", 3280, "Your mother is", "basal", "Pronunciation: /\u02c8be\u026as\u0259l/", "Definition: especially of leaves; located at the base of a plant or stem; especially arising directly from the root or rootstock or a root-like stem", "Synonyms: radical"]}
+{"data": ["2021-06-14T05:48:48.257138+00:00", 3281, "Your mother is", "pleasant-tasting", "Similar to: tasty", "Definition: extremely pleasing to the sense of taste", "Synonyms: delectable, delicious, luscious, scrumptious, toothsome, yummy"]}
