@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T19:58:48.539615+00:00", 3366, "Your mother is", "uneducated", "Pronunciation: /\u0259n\u02c8\u025bd\u0292\u028a\u02ccke\u026at\u026ad/", "Definition: not having a good education", ""]}
+{"data": ["2021-06-14T20:08:48.529304+00:00", 3367, "Your mother is", "swingeing", "Pronunciation: /\u02c8sw\u026and\u0292\u026a\u014b/", "Definition: severe; punishingly bad", ""]}
