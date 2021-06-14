@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T10:08:48.336956+00:00", 3307, "Your mother is", "mobile", "Pronunciation: /mo\u028a\u02c8bil/", "Definition: affording change (especially in social status)", "Synonyms: fluid"]}
+{"data": ["2021-06-14T10:18:48.408168+00:00", 3308, "Your mother is", "antisatellite", "", "Definition: of or relating to a system to destroy satellites in orbit", "Synonyms: asat"]}
