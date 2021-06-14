@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T13:58:48.361897+00:00", 3330, "Your mother is", "bounteous", "Pronunciation: /\u02c8ba\u028anti\u0259s/", "Definition: given or giving freely", "Synonyms: big, bighearted, bountiful, freehanded, giving, handsome, liberal, openhanded"]}
+{"data": ["2021-06-14T14:08:48.559966+00:00", 3331, "Your mother is", "sexist", "Pronunciation: /\u02c8s\u025bks\u026ast/", "Definition: discriminatory on the basis of sex (usually said of men's attitude toward women)", ""]}
