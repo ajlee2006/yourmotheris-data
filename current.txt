@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T00:51:00.357621+00:00", 3252, "Your mother is", "squat", "Pronunciation: /skw\u0251t/", "Definition: having a low center of gravity; built low to the ground", "Synonyms: underslung"]}
+{"data": ["2021-06-14T01:01:00.446323+00:00", 3253, "Your mother is", "utmost", "Pronunciation: /\u02c8\u0259t\u02ccmo\u028ast/", "Definition: of the greatest possible degree or extent or intensity", "Synonyms: extreme, uttermost"]}
