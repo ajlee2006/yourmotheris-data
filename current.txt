@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T10:48:48.336381+00:00", 3311, "Your mother is", "confederate", "Pronunciation: /k\u0259n\u02c8f\u025bd\u0259r\u0259t/", "Definition: united in a confederacy or league", "Synonyms: allied, confederative"]}
+{"data": ["2021-06-14T10:58:48.392863+00:00", 3312, "Your mother is", "enclosed", "Pronunciation: /\u025bn\u02c8klo\u028azd/", "Definition: closed in or surrounded or included within", ""]}
