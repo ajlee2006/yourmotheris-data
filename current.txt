@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T14:48:48.428917+00:00", 3335, "Your mother is", "wrinkleless", "", "Definition: not wrinkled or creased", "Synonyms: unwrinkled"]}
+{"data": ["2021-06-14T14:58:48.414193+00:00", 3336, "Your mother is", "fragmented", "Pronunciation: /\u02c8fr\u00e6gm\u0259nt\u026ad/", "Definition: having been divided; having the unity destroyed", "Synonyms: disconnected, disunited, split"]}
