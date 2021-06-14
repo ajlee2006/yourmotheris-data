@@ -1,1 +1,1 @@
-{"data": ["2021-06-13T23:51:00.436194+00:00", 3246, "Your mother is", "increasing monotonic", "Similar to: monotone", "Definition: consistently increasing", ""]}
+{"data": ["2021-06-14T00:01:00.460926+00:00", 3247, "Your mother is", "restful", "Pronunciation: /\u02c8r\u025bstf\u0259l/", "Definition: affording physical or mental rest", "Synonyms: relaxing, reposeful"]}
