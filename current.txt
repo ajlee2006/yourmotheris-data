@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T23:38:48.327660+00:00", 3388, "Your mother is", "postmeridian", "Pronunciation: /\u02ccpo\u028astm\u0259\u02c8r\u026adi\u0259n/", "Definition: after noon", ""]}
+{"data": ["2021-06-14T23:48:48.823254+00:00", 3389, "Your mother is", "unresistant", "Similar to: susceptible", "Definition: (often followed by `to') likely to be affected with", "Synonyms: liable, nonimmune, nonresistant"]}
