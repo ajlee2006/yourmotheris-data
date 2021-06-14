@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T22:28:48.482137+00:00", 3381, "Your mother is", "expressionist", "Pronunciation: /\u026ak\u02c8spr\u025b\u0283\u028cn\u028cst/", "Definition: of or relating to expressionism", "Synonyms: expressionistic"]}
+{"data": ["2021-06-14T22:38:48.382355+00:00", 3382, "Your mother is", "2d", "Similar to: ordinal", "Definition: coming next after the first in position in space or time or degree or magnitude", "Synonyms: 2nd, second"]}
