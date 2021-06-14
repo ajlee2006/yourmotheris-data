@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T00:31:00.823022+00:00", 3250, "Your mother is", "nonenterprising", "Similar to: slowgoing", "Definition: lacking in enterprise; not bold or venturesome", "Synonyms: unenterprising"]}
+{"data": ["2021-06-14T00:41:00.349088+00:00", 3251, "Your mother is", "masterful", "Pronunciation: /\u02c8m\u00e6st\u0259rf\u0259l/", "Definition: having or revealing supreme mastery or skill", "Synonyms: consummate, masterly, virtuoso"]}
