@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T16:18:48.362744+00:00", 3344, "Your mother is", "semiliquid", "Pronunciation: /\u02ccs\u025bmi\u02c8l\u026akw\u026ad/", "Definition: somewhat liquid", ""]}
+{"data": ["2021-06-14T16:28:48.356773+00:00", 3345, "Your mother is", "tod", "Pronunciation: /t\u0251d/", "Definition: alone and on your own", ""]}
