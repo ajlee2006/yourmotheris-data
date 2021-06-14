@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T14:18:48.530908+00:00", 3332, "Your mother is", "swimming", "Pronunciation: /\u02c8sw\u026am\u026a\u014b/", "Definition: filled or brimming with tears", "Synonyms: liquid"]}
+{"data": ["2021-06-14T14:28:48.410800+00:00", 3333, "Your mother is", "head-on", "Pronunciation: /\u02c8h\u025bd\u02c8\u0251n/", "Definition: meeting front to front", "Synonyms: frontal"]}
