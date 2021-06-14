@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T15:58:48.451765+00:00", 3342, "Your mother is", "brumous", "Pronunciation: /\u02c8brum\u0259s/", "Definition: filled or abounding with fog or mist", "Synonyms: foggy, hazy, misty"]}
+{"data": ["2021-06-14T16:08:48.313303+00:00", 3343, "Your mother is", "areolar", "", "Definition: relating to or like or divided into areolae", "Synonyms: areolate"]}
