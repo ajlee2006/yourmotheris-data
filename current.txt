@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T03:41:00.307168+00:00", 3269, "Your mother is", "intrinsic", "Pronunciation: /\u026an\u02c8tr\u026ans\u026ak/", "Definition: belonging to a thing by its very nature", "Synonyms: intrinsical"]}
+{"data": ["2021-06-14T03:51:00.458011+00:00", 3270, "Your mother is", "thirty-fourth", "Pronunciation: /\u02c8\u03b8\u025crti-fo\u028ar\u03b8/", "Definition: the ordinal number of thirty-four in counting order", "Synonyms: 34th"]}
