@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T12:48:48.423591+00:00", 3323, "Your mother is", "top-secret", "Pronunciation: /t\u0251p-\u02c8sikr\u026at/", "Definition: the highest official level of classification of documents", ""]}
+{"data": ["2021-06-14T12:58:48.556103+00:00", 3324, "Your mother is", "degressive", "Pronunciation: /d\u026a\u02c8gr\u025bs\u026av/", "Definition: going down by steps", ""]}
