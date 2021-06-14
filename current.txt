@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T08:08:48.333506+00:00", 3295, "Your mother is", "panicked", "Pronunciation: /\u02c8p\u00e6n\u026akt/", "Definition: thrown into a state of intense fear or desperation", "Synonyms: frightened, panic-stricken, panic-struck, panicky, terrified"]}
+{"data": ["2021-06-14T08:18:48.452471+00:00", 3296, "Your mother is", "sanguine", "Pronunciation: /\u02c8s\u00e6\u014bw\u026an/", "Definition: confidently optimistic and cheerful", "Synonyms: sanguineous"]}
