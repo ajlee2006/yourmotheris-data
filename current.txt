@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T18:08:49.042103+00:00", 3355, "Your mother is", "zigzag", "Pronunciation: /\u02c8z\u026a\u0261\u02ccz\u00e6\u0261/", "Definition: having short sharp turns or angles", "Synonyms: zig-zag"]}
+{"data": ["2021-06-14T18:18:48.628311+00:00", 3356, "Your mother is", "hesperian", "Pronunciation: /h\u025b\u02c8spiri\u0259n/", "Definition: denoting or characteristic of countries of Europe and the western hemisphere", "Synonyms: occidental"]}
