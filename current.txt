@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T22:38:48.382355+00:00", 3382, "Your mother is", "2d", "Similar to: ordinal", "Definition: coming next after the first in position in space or time or degree or magnitude", "Synonyms: 2nd, second"]}
+{"data": ["2021-06-14T22:48:48.471135+00:00", 3383, "Your mother is", "scientific", "Pronunciation: /\u02ccsa\u026a\u0259n\u02c8t\u026af\u026ak/", "Definition: conforming with the principles or methods used in science", ""]}
