@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T13:18:48.419018+00:00", 3326, "Your mother is", "unheated", "Pronunciation: /\u0259n\u02c8hit\u026ad/", "Definition: not having been heated or warmed", "Synonyms: unwarmed"]}
+{"data": ["2021-06-14T13:28:48.258410+00:00", 3327, "Your mother is", "greased", "Pronunciation: /\u0261rist/", "Definition: smeared with oil or grease to reduce friction", "Synonyms: lubricated"]}
