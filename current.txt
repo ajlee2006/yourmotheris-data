@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T06:48:48.436192+00:00", 3287, "Your mother is", "endothermal", "Pronunciation: /\u02cc\u025bndo\u028a\u02c8\u03b8\u025crm\u0259l/", "Definition: (of a chemical reaction or compound) occurring or formed with absorption of heat", "Synonyms: endothermic, heat-absorbing"]}
+{"data": ["2021-06-14T06:58:48.367970+00:00", 3288, "Your mother is", "enlarged", "Pronunciation: /\u025bn\u02c8l\u0251rd\u0292d/", "Definition: (of an organ or body part) excessively enlarged as a result of increased size in the constituent cells", "Synonyms: hypertrophied"]}
