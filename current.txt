@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T20:38:48.660553+00:00", 3370, "Your mother is", "cream-colored", "Pronunciation: /\u02c8krim\u02cck\u0259l\u0259rd/", "Definition: having the color of fresh cream", "Synonyms: creamy-colored, creamy-white"]}
+{"data": ["2021-06-14T20:48:48.527359+00:00", 3371, "Your mother is", "unbiased", "Pronunciation: /\u0259n\u02c8ba\u026a\u0259st/", "Definition: characterized by a lack of partiality", "Synonyms: indifferent, unbiassed"]}
