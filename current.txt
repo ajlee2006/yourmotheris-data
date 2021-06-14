@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T01:31:00.340849+00:00", 3256, "Your mother is", "operant", "Pronunciation: /\u02c8\u0251p\u0259r\u0259nt/", "Definition: having influence or producing an effect", ""]}
+{"data": ["2021-06-14T01:41:00.368076+00:00", 3257, "Your mother is", "walk-in", "Pronunciation: /\u02c8w\u0254k-\u02cc\u026an/", "Definition: (of e.g. closets or refrigerators) extending very far enough back to allow a person to enter", ""]}
