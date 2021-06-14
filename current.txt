@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T18:38:48.345543+00:00", 3358, "Your mother is", "trained", "Pronunciation: /tre\u026and/", "Definition: shaped or conditioned or disciplined by training; often used as a combining form", ""]}
+{"data": ["2021-06-14T18:48:48.388320+00:00", 3359, "Your mother is", "plushy", "Pronunciation: /\u02c8pl\u0259\u0283i/", "Definition: (of textures) resembling plush", "Synonyms: plush-like"]}
