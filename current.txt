@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T16:48:48.290259+00:00", 3347, "Your mother is", "roughdried", "Similar to: unironed", "Definition: (of laundry) dried but not ironed", ""]}
+{"data": ["2021-06-14T16:58:48.802701+00:00", 3348, "Your mother is", "homeothermic", "Similar to: warm-blooded", "Definition: of birds and mammals; having constant and relatively high body temperature", "Synonyms: homoiothermic, homothermic"]}
