@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T07:48:48.451763+00:00", 3293, "Your mother is", "agronomical", "Pronunciation: /\u02cc\u00e6gr\u0259\u02c8n\u0251m\u026ak\u0259l/", "Definition: of or relating to or promoting agronomy", "Synonyms: agronomic"]}
+{"data": ["2021-06-14T07:58:48.355560+00:00", 3294, "Your mother is", "venose", "Pronunciation: /\u02c8vino\u028as/", "Definition: having or showing markings that resemble veins", "Synonyms: veined, veinlike"]}
