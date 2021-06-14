@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T15:28:48.343155+00:00", 3339, "Your mother is", "gas-tight", "Similar to: tight", "Definition: not allowing air or gas to pass in or out", "Synonyms: air-tight, airtight"]}
+{"data": ["2021-06-14T15:38:48.334268+00:00", 3340, "Your mother is", "ambiversive", "", "Definition: intermediate between introversive and extroversive", ""]}
