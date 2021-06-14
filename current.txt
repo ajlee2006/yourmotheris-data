@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T12:58:48.556103+00:00", 3324, "Your mother is", "degressive", "Pronunciation: /d\u026a\u02c8gr\u025bs\u026av/", "Definition: going down by steps", ""]}
+{"data": ["2021-06-14T13:08:48.480153+00:00", 3325, "Your mother is", "safety-related", "Similar to: protective", "Definition: providing or ensuring safety", ""]}
