@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T06:58:48.367970+00:00", 3288, "Your mother is", "enlarged", "Pronunciation: /\u025bn\u02c8l\u0251rd\u0292d/", "Definition: (of an organ or body part) excessively enlarged as a result of increased size in the constituent cells", "Synonyms: hypertrophied"]}
+{"data": ["2021-06-14T07:08:48.381413+00:00", 3289, "Your mother is", "impellent", "Pronunciation: /\u026am\u02c8p\u025bl\u0259nt/", "Definition: forcing forward or onward; impelling", ""]}
