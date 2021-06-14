@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T18:48:48.388320+00:00", 3359, "Your mother is", "plushy", "Pronunciation: /\u02c8pl\u0259\u0283i/", "Definition: (of textures) resembling plush", "Synonyms: plush-like"]}
+{"data": ["2021-06-14T18:58:48.310294+00:00", 3360, "Your mother is", "boneless", "Pronunciation: /\u02c8bo\u028anl\u028cs/", "Definition: being without a bone or bones", ""]}
