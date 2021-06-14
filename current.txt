@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T23:08:48.659948+00:00", 3385, "Your mother is", "deep-water", "Pronunciation: /dip-\u02c8w\u0254t\u0259r/", "Definition: of or carried on in waters of great depth", ""]}
+{"data": ["2021-06-14T23:18:48.678805+00:00", 3386, "Your mother is", "zaftig", "Pronunciation: /\u02c8z\u00e6ft\u026a\u0261/", "Definition: (of a female body) healthily plump and vigorous", "Synonyms: buxom, zoftig"]}
