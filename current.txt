@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T07:58:48.355560+00:00", 3294, "Your mother is", "venose", "Pronunciation: /\u02c8vino\u028as/", "Definition: having or showing markings that resemble veins", "Synonyms: veined, veinlike"]}
+{"data": ["2021-06-14T08:08:48.333506+00:00", 3295, "Your mother is", "panicked", "Pronunciation: /\u02c8p\u00e6n\u026akt/", "Definition: thrown into a state of intense fear or desperation", "Synonyms: frightened, panic-stricken, panic-struck, panicky, terrified"]}
