@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T06:28:48.322204+00:00", 3285, "Your mother is", "coequal", "Pronunciation: /ko\u028a\u02c8ikw\u0259l/", "Definition: having the same standing before the law", ""]}
+{"data": ["2021-06-14T06:38:48.240270+00:00", 3286, "Your mother is", "own", "Pronunciation: /o\u028an/", "Definition: belonging to or on behalf of a specified person (especially yourself); preceded by a possessive", "Synonyms: ain"]}
