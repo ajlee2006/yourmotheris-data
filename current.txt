@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T20:48:48.527359+00:00", 3371, "Your mother is", "unbiased", "Pronunciation: /\u0259n\u02c8ba\u026a\u0259st/", "Definition: characterized by a lack of partiality", "Synonyms: indifferent, unbiassed"]}
+{"data": ["2021-06-14T20:58:48.336468+00:00", 3372, "Your mother is", "fungible", "Pronunciation: /\u02c8f\u0259nd\u0292\u0259b\u0259l/", "Definition: of goods or commodities; freely exchangeable for or replaceable by another of like nature or kind in the satisfaction of an obligation", ""]}
