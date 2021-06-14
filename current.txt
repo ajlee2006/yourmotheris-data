@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T03:21:00.363825+00:00", 3267, "Your mother is", "noninstitutionalized", "", "Definition: not committed to an institution", "Synonyms: noninstitutionalised"]}
+{"data": ["2021-06-14T03:31:00.397450+00:00", 3268, "Your mother is", "angered", "Pronunciation: /\u02c8\u00e6\u014b\u0261\u025drd/", "Definition: marked by extreme anger", "Synonyms: enraged, furious, infuriated, maddened"]}
