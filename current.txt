@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T17:18:48.353259+00:00", 3350, "Your mother is", "irregular", "Pronunciation: /\u026a\u02c8r\u025b\u0261j\u0259l\u0259r/", "Definition: independent in behavior or thought", "Synonyms: maverick, unorthodox"]}
+{"data": ["2021-06-14T17:28:48.622221+00:00", 3351, "Your mother is", "centrist", "Pronunciation: /\u02c8s\u025bntr\u026ast/", "Definition: supporting or pursuing a course of action that is neither liberal nor conservative", "Synonyms: middle-of-the-road"]}
