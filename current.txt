@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T18:28:48.291604+00:00", 3357, "Your mother is", "articulate", "Pronunciation: /\u0251r\u02c8t\u026akj\u0259\u02ccl\u026at/", "Definition: consisting of segments held together by joints", "Synonyms: articulated"]}
+{"data": ["2021-06-14T18:38:48.345543+00:00", 3358, "Your mother is", "trained", "Pronunciation: /tre\u026and/", "Definition: shaped or conditioned or disciplined by training; often used as a combining form", ""]}
