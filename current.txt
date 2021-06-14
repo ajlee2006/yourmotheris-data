@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T11:18:48.350036+00:00", 3314, "Your mother is", "dowdy", "Pronunciation: /\u02c8da\u028adi/", "Definition: primly out of date", "Synonyms: frumpish, frumpy"]}
+{"data": ["2021-06-14T11:28:48.470091+00:00", 3315, "Your mother is", "booked", "Pronunciation: /b\u028akt/", "Definition: reserved in advance", "Synonyms: engaged, set-aside"]}
