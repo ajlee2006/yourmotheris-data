@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T02:41:00.394590+00:00", 3263, "Your mother is", "apprenticed", "Pronunciation: /\u028c\u02c8pr\u025bnt\u028cst/", "Definition: bound by contract", "Synonyms: articled, bound, indentured"]}
+{"data": ["2021-06-14T02:51:00.377878+00:00", 3264, "Your mother is", "one thousand", "Similar to: cardinal", "Definition: denoting a quantity consisting of 1,000 items or units", "Synonyms: 1000, k, m, thousand"]}
