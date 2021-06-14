@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T01:11:00.343810+00:00", 3254, "Your mother is", "operculated", "", "Definition: having an operculum", "Synonyms: operculate"]}
+{"data": ["2021-06-14T01:21:00.502551+00:00", 3255, "Your mother is", "monthlong", "Pronunciation: /\u02c8m\u028cn\u02cc\u03b8l\u0254\u014b/", "Definition: last through a month", ""]}
