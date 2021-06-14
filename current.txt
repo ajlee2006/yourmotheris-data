@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T14:28:48.410800+00:00", 3333, "Your mother is", "head-on", "Pronunciation: /\u02c8h\u025bd\u02c8\u0251n/", "Definition: meeting front to front", "Synonyms: frontal"]}
+{"data": ["2021-06-14T14:38:48.348851+00:00", 3334, "Your mother is", "satiable", "Pronunciation: /\u02c8se\u026a\u0283i\u0259b\u0259l/", "Definition: capable of being sated", "Synonyms: satisfiable"]}
