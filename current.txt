@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T23:48:48.823254+00:00", 3389, "Your mother is", "unresistant", "Similar to: susceptible", "Definition: (often followed by `to') likely to be affected with", "Synonyms: liable, nonimmune, nonresistant"]}
+{"data": ["2021-06-14T23:58:48.328655+00:00", 3390, "Your mother is", "germicidal", "Similar to: antiseptic", "Definition: preventing infection by inhibiting the growth or action of microorganisms", "Synonyms: bactericidal, disinfectant"]}
