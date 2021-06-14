@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T16:58:48.802701+00:00", 3348, "Your mother is", "homeothermic", "Similar to: warm-blooded", "Definition: of birds and mammals; having constant and relatively high body temperature", "Synonyms: homoiothermic, homothermic"]}
+{"data": ["2021-06-14T17:08:48.454108+00:00", 3349, "Your mother is", "nonelective", "Similar to: appointed", "Definition: filled by appointment rather than by election", "Synonyms: non-elective, nonelected"]}
