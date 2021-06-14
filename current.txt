@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T12:18:48.228918+00:00", 3320, "Your mother is", "coal-fired", "Similar to: fueled", "Definition: fueled by burning coal", "Synonyms: coal-burning"]}
+{"data": ["2021-06-14T12:28:48.481113+00:00", 3321, "Your mother is", "gradual", "Pronunciation: /\u02c8gr\u00e6d\u0292u\u0259l/", "Definition: (of a topographical gradient) not steep or abrupt", ""]}
