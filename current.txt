@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T13:28:48.258410+00:00", 3327, "Your mother is", "greased", "Pronunciation: /\u0261rist/", "Definition: smeared with oil or grease to reduce friction", "Synonyms: lubricated"]}
+{"data": ["2021-06-14T13:38:48.364907+00:00", 3328, "Your mother is", "secondary", "Pronunciation: /\u02c8s\u025bk\u0259n\u02ccd\u025bri/", "Definition: inferior in rank or status", "Synonyms: junior-grade, lower-ranking, lowly, petty, subaltern"]}
