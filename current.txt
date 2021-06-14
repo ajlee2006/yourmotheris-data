@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T09:38:48.335905+00:00", 3304, "Your mother is", "septic", "Pronunciation: /\u02c8s\u025bpt\u026ak/", "Definition: containing or resulting from disease-causing organisms", "Synonyms: infected"]}
+{"data": ["2021-06-14T09:48:48.546992+00:00", 3305, "Your mother is", "in straitened circumstances", "Similar to: poor", "Definition: not having enough money to pay for necessities", "Synonyms: hard up, impecunious, penniless, penurious, pinched"]}
