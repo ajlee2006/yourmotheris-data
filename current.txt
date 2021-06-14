@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T01:01:00.446323+00:00", 3253, "Your mother is", "utmost", "Pronunciation: /\u02c8\u0259t\u02ccmo\u028ast/", "Definition: of the greatest possible degree or extent or intensity", "Synonyms: extreme, uttermost"]}
+{"data": ["2021-06-14T01:11:00.343810+00:00", 3254, "Your mother is", "operculated", "", "Definition: having an operculum", "Synonyms: operculate"]}
