@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T11:48:48.332418+00:00", 3317, "Your mother is", "opposing", "Pronunciation: /\u028c\u02c8po\u028az\u026a\u014b/", "Definition: characterized by active hostility", "Synonyms: opponent"]}
+{"data": ["2021-06-14T11:58:48.329193+00:00", 3318, "Your mother is", "self-indulgent", "Pronunciation: /s\u025blf-\u026an\u02c8d\u0259ld\u0292\u0259nt/", "Definition: indulgent of your own appetites and desires", ""]}
