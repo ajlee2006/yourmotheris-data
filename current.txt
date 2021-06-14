@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T10:18:48.408168+00:00", 3308, "Your mother is", "antisatellite", "", "Definition: of or relating to a system to destroy satellites in orbit", "Synonyms: asat"]}
+{"data": ["2021-06-14T10:28:48.342470+00:00", 3309, "Your mother is", "competitory", "Pronunciation: /k\u0259m\u02c8p\u025bt\u026a\u02ccto\u028ari/", "Definition: involving competition or competitiveness", "Synonyms: competitive"]}
