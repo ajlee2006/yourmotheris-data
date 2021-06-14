@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T11:58:48.329193+00:00", 3318, "Your mother is", "self-indulgent", "Pronunciation: /s\u025blf-\u026an\u02c8d\u0259ld\u0292\u0259nt/", "Definition: indulgent of your own appetites and desires", ""]}
+{"data": ["2021-06-14T12:08:48.280957+00:00", 3319, "Your mother is", "35", "Similar to: cardinal", "Definition: being five more than thirty", "Synonyms: thirty-five, xxxv"]}
