@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T16:08:48.313303+00:00", 3343, "Your mother is", "areolar", "", "Definition: relating to or like or divided into areolae", "Synonyms: areolate"]}
+{"data": ["2021-06-14T16:18:48.362744+00:00", 3344, "Your mother is", "semiliquid", "Pronunciation: /\u02ccs\u025bmi\u02c8l\u026akw\u026ad/", "Definition: somewhat liquid", ""]}
