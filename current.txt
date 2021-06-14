@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T19:48:48.402135+00:00", 3365, "Your mother is", "star-shaped", "Pronunciation: /st\u0251r-\u0283e\u026apt/", "Definition: shaped like a star", "Synonyms: asteroid"]}
+{"data": ["2021-06-14T19:58:48.539615+00:00", 3366, "Your mother is", "uneducated", "Pronunciation: /\u0259n\u02c8\u025bd\u0292\u028a\u02ccke\u026at\u026ad/", "Definition: not having a good education", ""]}
