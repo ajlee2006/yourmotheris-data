@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T09:08:48.337427+00:00", 3301, "Your mother is", "indiscreet", "Pronunciation: /\u02cc\u026and\u026a\u02c8skrit/", "Definition: lacking discretion; injudicious", ""]}
+{"data": ["2021-06-14T09:18:48.312748+00:00", 3302, "Your mother is", "out-of-town", "Similar to: distant", "Definition: happening in or being of another town or city", ""]}
