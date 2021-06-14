@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T04:01:00.429075+00:00", 3271, "Your mother is", "nodulose", "Pronunciation: /\u02c8n\u0251d\u0292\u0259\u02cclo\u028as/", "Definition: having minute nodules", ""]}
+{"data": ["2021-06-14T04:11:00.354380+00:00", 3272, "Your mother is", "ostensible", "Pronunciation: /\u0251\u02c8st\u025bns\u026ab\u0259l/", "Definition: represented or appearing as such; pretended", "Synonyms: ostensive"]}
