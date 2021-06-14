@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T19:18:48.422518+00:00", 3362, "Your mother is", "unswept", "Similar to: dirty", "Definition: not having been swept", ""]}
+{"data": ["2021-06-14T19:28:48.502040+00:00", 3363, "Your mother is", "hemic", "Pronunciation: /\u02c8him\u026ak/", "Definition: relating to or containing or affecting blood", "Synonyms: haematic, haemic, hematic"]}
