@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T07:28:48.255588+00:00", 3291, "Your mother is", "rounded", "Pronunciation: /\u02c8ra\u028and\u026ad/", "Definition: curving and somewhat round in shape rather than jagged", ""]}
+{"data": ["2021-06-14T07:38:48.337663+00:00", 3292, "Your mother is", "u", "Pronunciation: /ju/", "Definition: (chiefly British) of or appropriate to the upper classes especially in language use", ""]}
