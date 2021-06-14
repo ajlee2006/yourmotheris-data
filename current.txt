@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T05:48:48.257138+00:00", 3281, "Your mother is", "pleasant-tasting", "Similar to: tasty", "Definition: extremely pleasing to the sense of taste", "Synonyms: delectable, delicious, luscious, scrumptious, toothsome, yummy"]}
+{"data": ["2021-06-14T05:58:48.343705+00:00", 3282, "Your mother is", "unspent", "Pronunciation: /\u0259n\u02c8sp\u025bnt/", "Definition: (of financial resources) not spent", "Synonyms: unexpended"]}
