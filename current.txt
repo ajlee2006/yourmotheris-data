@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T06:08:48.332627+00:00", 3283, "Your mother is", "hardscrabble", "Pronunciation: /\u02c8h\u0251rd\u02ccskr\u00e6b\u0259l/", "Definition: barely satisfying a lower standard", ""]}
+{"data": ["2021-06-14T06:18:48.237909+00:00", 3284, "Your mother is", "prenominal", "Pronunciation: /pri\u02c8n\u0251m\u0259n\u0259l/", "Definition: of adjectives; placed before the nouns they modify", "Synonyms: attributive"]}
