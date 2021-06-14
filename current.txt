@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T02:01:00.465600+00:00", 3259, "Your mother is", "suited", "Pronunciation: /\u02c8sut\u026ad/", "Definition: meant or adapted for an occasion or use", "Synonyms: suitable"]}
+{"data": ["2021-06-14T02:11:00.278290+00:00", 3260, "Your mother is", "cotyloid", "Similar to: concave", "Definition: of the cup-shaped socket that receives the head of the thigh bone", "Synonyms: acetabular, cotyloidal"]}
