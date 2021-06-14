@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T16:38:48.541107+00:00", 3346, "Your mother is", "tanned", "Pronunciation: /t\u00e6nd/", "Definition: (of skin) having a tan color from exposure to the sun", "Synonyms: bronzed, suntanned"]}
+{"data": ["2021-06-14T16:48:48.290259+00:00", 3347, "Your mother is", "roughdried", "Similar to: unironed", "Definition: (of laundry) dried but not ironed", ""]}
