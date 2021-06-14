@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T15:18:48.506415+00:00", 3338, "Your mother is", "welcome", "Pronunciation: /\u02c8w\u025blk\u0259m/", "Definition: giving pleasure or satisfaction or received with pleasure or freely granted", ""]}
+{"data": ["2021-06-14T15:28:48.343155+00:00", 3339, "Your mother is", "gas-tight", "Similar to: tight", "Definition: not allowing air or gas to pass in or out", "Synonyms: air-tight, airtight"]}
