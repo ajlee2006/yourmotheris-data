@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T21:38:48.380229+00:00", 3376, "Your mother is", "second-string", "Similar to: secondary", "Definition: being a replacement or substitute for a regular member of a team", ""]}
+{"data": ["2021-06-14T21:48:48.347670+00:00", 3377, "Your mother is", "asserting", "Pronunciation: /\u028c\u02c8s\u025drt\u026a\u014b/", "Definition: relating to the use of or having the nature of a declaration", "Synonyms: declarative, declaratory"]}
