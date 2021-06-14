@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T18:58:48.310294+00:00", 3360, "Your mother is", "boneless", "Pronunciation: /\u02c8bo\u028anl\u028cs/", "Definition: being without a bone or bones", ""]}
+{"data": ["2021-06-14T19:08:48.342146+00:00", 3361, "Your mother is", "shamefaced", "Pronunciation: /\u02c8\u0283e\u026am\u02ccfe\u026ast/", "Definition: showing a sense of shame", "Synonyms: sheepish"]}
