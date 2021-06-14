@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T17:08:48.454108+00:00", 3349, "Your mother is", "nonelective", "Similar to: appointed", "Definition: filled by appointment rather than by election", "Synonyms: non-elective, nonelected"]}
+{"data": ["2021-06-14T17:18:48.353259+00:00", 3350, "Your mother is", "irregular", "Pronunciation: /\u026a\u02c8r\u025b\u0261j\u0259l\u0259r/", "Definition: independent in behavior or thought", "Synonyms: maverick, unorthodox"]}
