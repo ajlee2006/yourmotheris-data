@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T16:28:48.356773+00:00", 3345, "Your mother is", "tod", "Pronunciation: /t\u0251d/", "Definition: alone and on your own", ""]}
+{"data": ["2021-06-14T16:38:48.541107+00:00", 3346, "Your mother is", "tanned", "Pronunciation: /t\u00e6nd/", "Definition: (of skin) having a tan color from exposure to the sun", "Synonyms: bronzed, suntanned"]}
