@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T09:28:48.418070+00:00", 3303, "Your mother is", "verbose", "Pronunciation: /v\u0259r\u02c8bo\u028as/", "Definition: using or containing too many words", "Synonyms: long-winded, tedious, windy, wordy"]}
+{"data": ["2021-06-14T09:38:48.335905+00:00", 3304, "Your mother is", "septic", "Pronunciation: /\u02c8s\u025bpt\u026ak/", "Definition: containing or resulting from disease-causing organisms", "Synonyms: infected"]}
