@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T09:48:48.546992+00:00", 3305, "Your mother is", "in straitened circumstances", "Similar to: poor", "Definition: not having enough money to pay for necessities", "Synonyms: hard up, impecunious, penniless, penurious, pinched"]}
+{"data": ["2021-06-14T09:58:48.312576+00:00", 3306, "Your mother is", "150", "Similar to: cardinal", "Definition: being ten more than one hundred forty", "Synonyms: cl, one hundred fifty"]}
