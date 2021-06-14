@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T08:38:48.277603+00:00", 3298, "Your mother is", "undeserving", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8z\u025crvi\u014b/", "Definition: not deserving", "Synonyms: unworthy"]}
+{"data": ["2021-06-14T08:48:48.344531+00:00", 3299, "Your mother is", "vincible", "Pronunciation: /\u02c8v\u026ans\u0259b\u0259l/", "Definition: susceptible to being defeated", "Synonyms: beatable, vanquishable"]}
