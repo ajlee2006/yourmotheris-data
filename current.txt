@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T22:48:48.471135+00:00", 3383, "Your mother is", "scientific", "Pronunciation: /\u02ccsa\u026a\u0259n\u02c8t\u026af\u026ak/", "Definition: conforming with the principles or methods used in science", ""]}
+{"data": ["2021-06-14T22:58:48.300528+00:00", 3384, "Your mother is", "mild-mannered", "Pronunciation: /ma\u026ald-\u02c8m\u00e6n\u0259rd/", "Definition: behaving in or having a mild or gentle manner", ""]}
