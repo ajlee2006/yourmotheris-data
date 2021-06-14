@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T14:38:48.348851+00:00", 3334, "Your mother is", "satiable", "Pronunciation: /\u02c8se\u026a\u0283i\u0259b\u0259l/", "Definition: capable of being sated", "Synonyms: satisfiable"]}
+{"data": ["2021-06-14T14:48:48.428917+00:00", 3335, "Your mother is", "wrinkleless", "", "Definition: not wrinkled or creased", "Synonyms: unwrinkled"]}
