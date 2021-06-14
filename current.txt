@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T09:18:48.312748+00:00", 3302, "Your mother is", "out-of-town", "Similar to: distant", "Definition: happening in or being of another town or city", ""]}
+{"data": ["2021-06-14T09:28:48.418070+00:00", 3303, "Your mother is", "verbose", "Pronunciation: /v\u0259r\u02c8bo\u028as/", "Definition: using or containing too many words", "Synonyms: long-winded, tedious, windy, wordy"]}
