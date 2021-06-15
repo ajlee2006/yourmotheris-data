@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T04:08:48.323868+00:00", 3415, "Your mother is", "axile", "Pronunciation: /\u02c8\u00e6ks\u026al/", "Definition: relating to or attached to the axis", "Synonyms: axial"]}
+{"data": ["2021-06-15T04:25:43.870235+00:00", 3416, "Your mother is", "unsheathed", "", "Definition: not having a protective covering", "Synonyms: bare"]}
