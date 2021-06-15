@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T12:20:14.440953+00:00", 3463, "Your mother is", "amerciable", "Similar to: illegal", "Definition: of a crime or misdemeanor; punishable by a fine set by a judge", ""]}
+{"data": ["2021-06-15T12:30:13.845178+00:00", 3464, "Your mother is", "sausage-shaped", "Pronunciation: /\u02c8s\u0254s\u026ad\u0292-\u0283e\u026apt/", "Definition: shaped like a sausage", "Synonyms: allantoid"]}
