@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T23:30:13.868047+00:00", 3530, "Your mother is", "clinical", "Pronunciation: /\u02c8kl\u026an\u026ak\u0259l/", "Definition: scientifically detached; unemotional", ""]}
+{"data": ["2021-06-15T23:40:13.873055+00:00", 3531, "Your mother is", "epistolatory", "Similar to: informal", "Definition: written in the form of or carried on by letters or correspondence", "Synonyms: epistolary"]}
