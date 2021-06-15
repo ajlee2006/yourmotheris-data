@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T08:00:13.971112+00:00", 3437, "Your mother is", "unordered", "", "Definition: not arranged in order", "Synonyms: disordered"]}
+{"data": ["2021-06-15T08:10:14.079099+00:00", 3438, "Your mother is", "tone-deaf", "Pronunciation: /to\u028an-d\u025bf/", "Definition: unable to appreciate music", ""]}
