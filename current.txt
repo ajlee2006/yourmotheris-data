@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T20:30:13.981367+00:00", 3512, "Your mother is", "encyclopedic", "Pronunciation: /\u025bn\u02ccsa\u026akl\u0259\u02c8pid\u026ak/", "Definition: comprehensive in scope or content (as an encyclopedia)", "Synonyms: encyclopaedic"]}
+{"data": ["2021-06-15T20:40:14.187093+00:00", 3513, "Your mother is", "disquieted", "Similar to: troubled", "Definition: afflicted with or marked by anxious uneasiness or trouble or grief", "Synonyms: distressed, disturbed, upset, worried"]}
