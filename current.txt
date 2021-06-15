@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T18:10:14.020749+00:00", 3498, "Your mother is", "rheumatic", "Pronunciation: /r\u028a\u02c8m\u00e6t\u026ak/", "Definition: of or pertaining to arthritis", "Synonyms: arthritic, creaky, rheumatoid, rheumy"]}
+{"data": ["2021-06-15T18:20:13.890751+00:00", 3499, "Your mother is", "sere", "Pronunciation: /sir/", "Definition: (used especially of vegetation) having lost all moisture", "Synonyms: dried-up, sear, shriveled, shrivelled, withered"]}
