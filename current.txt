@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T07:00:13.962231+00:00", 3431, "Your mother is", "unguiculate", "Pronunciation: /\u0259\u014b\u02c8gw\u026akj\u025bl\u026at/", "Definition: having or resembling claws or nails", "Synonyms: unguiculated"]}
+{"data": ["2021-06-15T07:10:13.834108+00:00", 3432, "Your mother is", "separative", "Pronunciation: /\u02c8s\u025bp\u0259\u02ccre\u026at\u026av/", "Definition: serving to separate or divide into parts", "Synonyms: partitive"]}
