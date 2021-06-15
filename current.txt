@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T04:25:43.870235+00:00", 3416, "Your mother is", "unsheathed", "", "Definition: not having a protective covering", "Synonyms: bare"]}
+{"data": ["2021-06-15T04:40:13.880469+00:00", 3417, "Your mother is", "contiguous", "Pronunciation: /k\u0259n\u02c8t\u026a\u0261ju\u0259s/", "Definition: having a common boundary or edge; abutting; touching", "Synonyms: adjacent, conterminous, neighboring"]}
