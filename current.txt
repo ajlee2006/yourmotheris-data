@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T05:40:13.807646+00:00", 3423, "Your mother is", "unclad", "Pronunciation: /\u0259n\u02c8kl\u00e6d/", "Definition: having removed clothing", "Synonyms: unappareled, unattired, undressed, ungarbed, ungarmented"]}
+{"data": ["2021-06-15T05:50:13.956873+00:00", 3424, "Your mother is", "palatable", "Pronunciation: /\u02c8p\u00e6l\u0259t\u0259b\u0259l/", "Definition: acceptable to the taste or mind", "Synonyms: toothsome"]}
