@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T06:20:13.774371+00:00", 3427, "Your mother is", "upset", "Pronunciation: /\u0259p\u02c8s\u025bt/", "Definition: having been turned so that the bottom is no longer the bottom", "Synonyms: overturned, upturned"]}
+{"data": ["2021-06-15T06:30:13.840476+00:00", 3428, "Your mother is", "leakproof", "Similar to: tight", "Definition: not subject to leaks", ""]}
