@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T22:10:14.022533+00:00", 3522, "Your mother is", "exceptionable", "Pronunciation: /\u026ak\u02c8s\u025bp\u0283\u0259n\u0259b\u0259l/", "Definition: liable to objection or debate; used of something one might take exception to", "Synonyms: objectionable"]}
+{"data": ["2021-06-15T22:20:13.812821+00:00", 3523, "Your mother is", "ornery", "Pronunciation: /\u02c8o\u028arn\u0259ri/", "Definition: having a difficult and contrary disposition", "Synonyms: cantankerous, crotchety"]}
