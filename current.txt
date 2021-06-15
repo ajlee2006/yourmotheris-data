@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T09:50:13.804698+00:00", 3448, "Your mother is", "undereducated", "Similar to: uneducated", "Definition: poorly or insufficiently educated", ""]}
+{"data": ["2021-06-15T10:00:13.863673+00:00", 3449, "Your mother is", "hunted", "Pronunciation: /\u02c8h\u028cnt\u028cd/", "Definition: reflecting the fear or terror of one who is hunted", ""]}
