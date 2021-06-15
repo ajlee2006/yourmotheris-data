@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T06:10:13.944441+00:00", 3426, "Your mother is", "allowable", "Pronunciation: /\u0259\u02c8la\u028a\u0259b\u0259l/", "Definition: that may be permitted especially as according to rule", "Synonyms: permissible"]}
+{"data": ["2021-06-15T06:20:13.774371+00:00", 3427, "Your mother is", "upset", "Pronunciation: /\u0259p\u02c8s\u025bt/", "Definition: having been turned so that the bottom is no longer the bottom", "Synonyms: overturned, upturned"]}
