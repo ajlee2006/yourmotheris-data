@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T09:20:13.903456+00:00", 3445, "Your mother is", "freckled", "Pronunciation: /\u02c8fr\u025bk\u028cld/", "Definition: relating to or covered with or resembling freckles", "Synonyms: lentiginose, lentiginous"]}
+{"data": ["2021-06-15T09:30:13.975539+00:00", 3446, "Your mother is", "diclinous", "Pronunciation: /\u02c8da\u026akl\u0259n\u0259s/", "Definition: having pistils and stamens in separate flowers", ""]}
