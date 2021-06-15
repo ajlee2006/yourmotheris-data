@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T11:50:13.872664+00:00", 3460, "Your mother is", "late-blooming", "Pronunciation: /le\u026at-\u02c8blum\u026a\u014b/", "Definition: of plants that bloom during the autumn", "Synonyms: autumn-blooming, autumn-flowering, fall-blooming, fall-flowering, late-flowering"]}
+{"data": ["2021-06-15T12:00:14.220301+00:00", 3461, "Your mother is", "wormy", "Pronunciation: /\u02c8w\u025crmi/", "Definition: infested with or damaged (as if eaten) by worms", "Synonyms: vermiculate, worm-eaten"]}
