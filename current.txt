@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T17:20:13.975003+00:00", 3493, "Your mother is", "brachydactylic", "Similar to: abnormal", "Definition: having abnormally short finger or toes", "Synonyms: brachydactylous"]}
+{"data": ["2021-06-15T17:30:13.870340+00:00", 3494, "Your mother is", "stray", "Pronunciation: /stre\u026a/", "Definition: not close together in time", "Synonyms: isolated"]}
