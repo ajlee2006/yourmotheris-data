@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T10:00:13.863673+00:00", 3449, "Your mother is", "hunted", "Pronunciation: /\u02c8h\u028cnt\u028cd/", "Definition: reflecting the fear or terror of one who is hunted", ""]}
+{"data": ["2021-06-15T10:10:14.048433+00:00", 3450, "Your mother is", "isomorphous", "Pronunciation: /\u02cca\u026as\u0259\u02c8m\u0254rf\u0259s/", "Definition: having similar appearance but genetically different", "Synonyms: isomorphic"]}
