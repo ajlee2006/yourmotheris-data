@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T02:48:48.392428+00:00", 3407, "Your mother is", "adhesive", "Pronunciation: /\u00e6d\u02c8his\u026av/", "Definition: tending to adhere", ""]}
+{"data": ["2021-06-15T02:58:48.210017+00:00", 3408, "Your mother is", "dry", "Pronunciation: /dra\u026a/", "Definition: lacking interest or stimulation; dull and lifeless", "Synonyms: juiceless"]}
