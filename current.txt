@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T10:50:13.760104+00:00", 3454, "Your mother is", "storied", "Pronunciation: /\u02c8sto\u028arid/", "Definition: having stories as indicated", "Synonyms: storeyed"]}
+{"data": ["2021-06-15T11:00:13.829987+00:00", 3455, "Your mother is", "conservative", "Pronunciation: /k\u0259n\u02c8s\u025crv\u0259t\u026av/", "Definition: conforming to the standards and conventions of the middle class", "Synonyms: bourgeois, materialistic"]}
