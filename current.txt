@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T10:20:13.962525+00:00", 3451, "Your mother is", "solid-state", "Pronunciation: /\u02c8s\u0251l\u026ad-ste\u026at/", "Definition: characteristic of or relating to the physical properties of solid materials especially electromagnetic or thermodynamic or structural properties of crystalline solids", ""]}
+{"data": ["2021-06-15T10:30:13.902675+00:00", 3452, "Your mother is", "flatbottomed", "Similar to: even", "Definition: having a flat bottom", "Synonyms: flat-bottom, flat-bottomed, flatbottom"]}
