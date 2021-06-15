@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T03:48:48.244430+00:00", 3413, "Your mother is", "blanketed", "Pronunciation: /\u02c8bl\u00e6\u014bk\u028ct\u026ad/", "Definition: covered with (or as if with) a blanket", ""]}
+{"data": ["2021-06-15T03:58:48.203137+00:00", 3414, "Your mother is", "matter-of-fact", "Pronunciation: /\u02c8m\u00e6t\u0259r-\u0259v-\u02c8f\u00e6kt/", "Definition: concerned with practical matters", "Synonyms: pragmatic, pragmatical"]}
