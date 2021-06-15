@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T19:40:13.840337+00:00", 3507, "Your mother is", "provable", "Pronunciation: /\u02c8pruv\u028cb\u028cl/", "Definition: capable of being demonstrated or proved", "Synonyms: demonstrable"]}
+{"data": ["2021-06-15T19:50:13.848626+00:00", 3508, "Your mother is", "55", "Similar to: cardinal", "Definition: being five more than fifty", "Synonyms: fifty-five, lv"]}
