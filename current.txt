@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T05:10:13.763503+00:00", 3420, "Your mother is", "crummy", "Pronunciation: /\u02c8kR\u0259mi/", "Definition: of very poor quality; flimsy", "Synonyms: bum, cheap, cheesy, chintzy, punk, sleazy, tinny"]}
+{"data": ["2021-06-15T05:20:13.769233+00:00", 3421, "Your mother is", "straw", "Pronunciation: /str\u0254/", "Definition: of a pale yellow color like straw; straw-colored", ""]}
