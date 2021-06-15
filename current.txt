@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T02:08:48.308721+00:00", 3403, "Your mother is", "entertained", "Pronunciation: /\u02cc\u025bnt\u025dr\u02c8te\u026and/", "Definition: pleasantly occupied", "Synonyms: amused, diverted"]}
+{"data": ["2021-06-15T02:18:48.275774+00:00", 3404, "Your mother is", "saute", "Pronunciation: /so\u028a\u02c8te\u026a/", "Definition: fried quickly in a little fat", "Synonyms: sauteed"]}
