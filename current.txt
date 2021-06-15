@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T23:40:13.873055+00:00", 3531, "Your mother is", "epistolatory", "Similar to: informal", "Definition: written in the form of or carried on by letters or correspondence", "Synonyms: epistolary"]}
+{"data": ["2021-06-15T23:50:13.953409+00:00", 3532, "Your mother is", "constricting", "Pronunciation: /k\u028cn\u02c8str\u026akt\u026a\u014b/", "Definition: (of circumstances) tending to constrict freedom", "Synonyms: constrictive, narrowing"]}
