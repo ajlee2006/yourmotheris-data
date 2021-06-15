@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T02:28:48.304359+00:00", 3405, "Your mother is", "long-time", "Pronunciation: /l\u0254\u014b-ta\u026am/", "Definition: having existed or persisted or continued in a particular role or state for a long time", "Synonyms: longtime"]}
+{"data": ["2021-06-15T02:38:48.626874+00:00", 3406, "Your mother is", "mononucleate", "", "Definition: having only one nucleus", "Synonyms: mononuclear"]}
