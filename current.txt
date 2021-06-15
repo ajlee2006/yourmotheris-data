@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T12:30:13.845178+00:00", 3464, "Your mother is", "sausage-shaped", "Pronunciation: /\u02c8s\u0254s\u026ad\u0292-\u0283e\u026apt/", "Definition: shaped like a sausage", "Synonyms: allantoid"]}
+{"data": ["2021-06-15T12:40:14.064180+00:00", 3465, "Your mother is", "heart-shaped", "Pronunciation: /h\u0251rt-\u0283e\u026apt/", "Definition: (of a leaf) shaped like a heart", "Synonyms: cordate, cordiform"]}
