@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T12:00:14.220301+00:00", 3461, "Your mother is", "wormy", "Pronunciation: /\u02c8w\u025crmi/", "Definition: infested with or damaged (as if eaten) by worms", "Synonyms: vermiculate, worm-eaten"]}
+{"data": ["2021-06-15T12:10:13.908954+00:00", 3462, "Your mother is", "exegetic", "Pronunciation: /\u02cc\u025bks\u026a\u02c8d\u0292\u025bt\u026ak/", "Definition: relating to exegesis", "Synonyms: exegetical"]}
