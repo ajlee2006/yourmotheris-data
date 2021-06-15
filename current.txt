@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T11:40:13.799826+00:00", 3459, "Your mother is", "spatulate", "Pronunciation: /\u02c8sp\u00e6tj\u028al\u0259t/", "Definition: (of a leaf shape) having a broad rounded apex and a narrow base", "Synonyms: spatula-shaped"]}
+{"data": ["2021-06-15T11:50:13.872664+00:00", 3460, "Your mother is", "late-blooming", "Pronunciation: /le\u026at-\u02c8blum\u026a\u014b/", "Definition: of plants that bloom during the autumn", "Synonyms: autumn-blooming, autumn-flowering, fall-blooming, fall-flowering, late-flowering"]}
