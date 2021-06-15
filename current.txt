@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T15:50:14.376076+00:00", 3484, "Your mother is", "ended", "Pronunciation: /\u02c8\u025bnd\u028cd/", "Definition: having come or been brought to a conclusion", "Synonyms: all over, complete, concluded, over, terminated"]}
+{"data": ["2021-06-15T16:00:14.288719+00:00", 3485, "Your mother is", "unbending", "Pronunciation: /\u0259n\u02c8b\u025bnd\u026a\u014b/", "Definition: incapable of adapting or changing to meet circumstances", "Synonyms: inflexible, rigid"]}
