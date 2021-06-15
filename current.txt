@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T23:10:14.111379+00:00", 3528, "Your mother is", "legendary", "Pronunciation: /\u02c8l\u025bd\u0292\u0259n\u02ccd\u025bri/", "Definition: celebrated in fable or legend", "Synonyms: fabled"]}
+{"data": ["2021-06-15T23:20:13.920126+00:00", 3529, "Your mother is", "crying", "Pronunciation: /\u02c8kra\u026a\u026a\u014b/", "Definition: demanding attention", "Synonyms: clamant, exigent, insistent, instant"]}
