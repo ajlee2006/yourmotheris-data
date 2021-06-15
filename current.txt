@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T07:40:14.258839+00:00", 3435, "Your mother is", "ungenerous", "Pronunciation: /\u0259n\u02c8d\u0292\u025bn\u0259r\u0259s/", "Definition: lacking in magnanimity", "Synonyms: meanspirited"]}
+{"data": ["2021-06-15T07:50:13.840903+00:00", 3436, "Your mother is", "stoic", "Pronunciation: /\u02c8sto\u028a\u026ak/", "Definition: seeming unaffected by pleasure or pain; impassive", "Synonyms: stoical"]}
