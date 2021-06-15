@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T07:50:13.840903+00:00", 3436, "Your mother is", "stoic", "Pronunciation: /\u02c8sto\u028a\u026ak/", "Definition: seeming unaffected by pleasure or pain; impassive", "Synonyms: stoical"]}
+{"data": ["2021-06-15T08:00:13.971112+00:00", 3437, "Your mother is", "unordered", "", "Definition: not arranged in order", "Synonyms: disordered"]}
