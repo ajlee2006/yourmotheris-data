@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T11:30:13.872766+00:00", 3458, "Your mother is", "solidified", "Pronunciation: /s\u028c\u02c8l\u026ad\u028c\u02ccfa\u026ad/", "Definition: changed into a solid mass", "Synonyms: coagulated"]}
+{"data": ["2021-06-15T11:40:13.799826+00:00", 3459, "Your mother is", "spatulate", "Pronunciation: /\u02c8sp\u00e6tj\u028al\u0259t/", "Definition: (of a leaf shape) having a broad rounded apex and a narrow base", "Synonyms: spatula-shaped"]}
