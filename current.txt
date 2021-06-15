@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T01:18:48.377974+00:00", 3398, "Your mother is", "stand-alone", "Similar to: complete", "Definition: capable of operating independently", ""]}
+{"data": ["2021-06-15T01:28:48.257718+00:00", 3399, "Your mother is", "strong", "Pronunciation: /str\u0254\u014b/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, inviolable, secure, unassailable, unattackable"]}
