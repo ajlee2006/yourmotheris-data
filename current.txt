@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T21:40:13.985565+00:00", 3519, "Your mother is", "junoesque", "Pronunciation: /\u02ccd\u0292uno\u028a\u02c8\u025bsk/", "Definition: suggestive of a statue", "Synonyms: statuesque"]}
+{"data": ["2021-06-15T21:50:13.898886+00:00", 3520, "Your mother is", "queasy", "Pronunciation: /\u02c8kwizi/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, noisome, offensive, sickening, vile"]}
