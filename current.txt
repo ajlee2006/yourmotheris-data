@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T00:08:48.379394+00:00", 3391, "Your mother is", "faced", "Pronunciation: /fe\u026ast/", "Definition: having a face or facing especially of a specified kind or number; often used in combination", ""]}
+{"data": ["2021-06-15T00:18:48.561467+00:00", 3392, "Your mother is", "cecal", "", "Definition: of or like a cecum", "Synonyms: caecal"]}
