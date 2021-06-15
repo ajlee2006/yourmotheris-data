@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T23:00:14.024082+00:00", 3527, "Your mother is", "fearsome", "Pronunciation: /\u02c8firs\u0259m/", "Definition: causing fear or dread or terror", "Synonyms: awful, dire, direful, dread, dreaded, dreadful, fearful, frightening, horrendous, horrific, terrible"]}
+{"data": ["2021-06-15T23:10:14.111379+00:00", 3528, "Your mother is", "legendary", "Pronunciation: /\u02c8l\u025bd\u0292\u0259n\u02ccd\u025bri/", "Definition: celebrated in fable or legend", "Synonyms: fabled"]}
