@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T12:40:14.064180+00:00", 3465, "Your mother is", "heart-shaped", "Pronunciation: /h\u0251rt-\u0283e\u026apt/", "Definition: (of a leaf) shaped like a heart", "Synonyms: cordate, cordiform"]}
+{"data": ["2021-06-15T12:50:13.810738+00:00", 3466, "Your mother is", "calculated", "Pronunciation: /\u02c8k\u00e6lkj\u0259\u02ccle\u026at\u026ad/", "Definition: carefully thought out in advance", "Synonyms: deliberate, measured"]}
