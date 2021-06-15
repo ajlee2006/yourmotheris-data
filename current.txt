@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T16:20:13.954164+00:00", 3487, "Your mother is", "undivided", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8va\u026ad\u026ad/", "Definition: not divided among or brought to bear on more than one object or objective", "Synonyms: exclusive, single"]}
+{"data": ["2021-06-15T16:30:13.999922+00:00", 3488, "Your mother is", "sea-level", "Pronunciation: /si-\u02c8l\u025bv\u0259l/", "Definition: lying below the normal level", "Synonyms: low-lying"]}
