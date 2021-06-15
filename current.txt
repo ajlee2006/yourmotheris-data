@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T09:00:13.855199+00:00", 3443, "Your mother is", "eastmost", "Pronunciation: /\u02c8ist\u02ccmo\u028ast/", "Definition: farthest to the east", "Synonyms: easternmost"]}
+{"data": ["2021-06-15T09:10:14.003645+00:00", 3444, "Your mother is", "svelte", "Pronunciation: /sv\u025blt/", "Definition: being of delicate or slender build", "Synonyms: slender, slight, slim"]}
