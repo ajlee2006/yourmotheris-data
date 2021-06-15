@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T01:38:48.221902+00:00", 3400, "Your mother is", "melted", "Pronunciation: /\u02c8m\u025blt\u028cd/", "Definition: changed from a solid to a liquid state", "Synonyms: liquid, liquified"]}
+{"data": ["2021-06-15T01:48:48.312828+00:00", 3401, "Your mother is", "platyrrhinian", "Pronunciation: /\u02ccpl\u00e6t\u026a\u02c8r\u026ani\u0259n/", "Definition: of or related to New World monkeys having nostrils far apart or to people with broad noses", "Synonyms: broadnosed, platyrhine, platyrhinian, platyrrhine, platyrrhinic"]}
