@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T03:58:48.203137+00:00", 3414, "Your mother is", "matter-of-fact", "Pronunciation: /\u02c8m\u00e6t\u0259r-\u0259v-\u02c8f\u00e6kt/", "Definition: concerned with practical matters", "Synonyms: pragmatic, pragmatical"]}
+{"data": ["2021-06-15T04:08:48.323868+00:00", 3415, "Your mother is", "axile", "Pronunciation: /\u02c8\u00e6ks\u026al/", "Definition: relating to or attached to the axis", "Synonyms: axial"]}
