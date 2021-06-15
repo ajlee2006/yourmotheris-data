@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T07:10:13.834108+00:00", 3432, "Your mother is", "separative", "Pronunciation: /\u02c8s\u025bp\u0259\u02ccre\u026at\u026av/", "Definition: serving to separate or divide into parts", "Synonyms: partitive"]}
+{"data": ["2021-06-15T07:20:13.961722+00:00", 3433, "Your mother is", "divided", "Pronunciation: /d\u026a\u02c8va\u026ad\u026ad/", "Definition: distributed in portions (often equal) on the basis of a plan or purpose", "Synonyms: divided up, shared, shared out"]}
