@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T07:30:13.834184+00:00", 3434, "Your mother is", "three-d", "Similar to: multidimensional", "Definition: involving or relating to three dimensions or aspects; giving the illusion of depth", "Synonyms: 3-dimensional, third-dimensional, three-dimensional"]}
+{"data": ["2021-06-15T07:40:14.258839+00:00", 3435, "Your mother is", "ungenerous", "Pronunciation: /\u0259n\u02c8d\u0292\u025bn\u0259r\u0259s/", "Definition: lacking in magnanimity", "Synonyms: meanspirited"]}
