@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T20:50:13.982204+00:00", 3514, "Your mother is", "year-round", "Pronunciation: /\u02c8jir-\u02c8ra\u028and/", "Definition: operating or continuing throughout the year", "Synonyms: year-around"]}
+{"data": ["2021-06-15T21:00:14.020452+00:00", 3515, "Your mother is", "answering", "Pronunciation: /\u02c8\u00e6ns\u025dr\u026a\u014b/", "Definition: replying", "Synonyms: respondent"]}
