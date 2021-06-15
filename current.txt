@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T16:30:13.999922+00:00", 3488, "Your mother is", "sea-level", "Pronunciation: /si-\u02c8l\u025bv\u0259l/", "Definition: lying below the normal level", "Synonyms: low-lying"]}
+{"data": ["2021-06-15T16:40:13.922553+00:00", 3489, "Your mother is", "ritardando", "Pronunciation: /\u02ccrit\u0251r\u02c8d\u0251ndo\u028a/", "Definition: (music) gradually decreasing in tempo", "Synonyms: rallentando, rit., ritenuto"]}
