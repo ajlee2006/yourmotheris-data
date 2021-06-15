@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T14:50:13.873943+00:00", 3478, "Your mother is", "awing", "Similar to: impressive", "Definition: inspiring awe or admiration or wonder", "Synonyms: amazing, awe-inspiring, awesome, awful"]}
+{"data": ["2021-06-15T15:00:14.067860+00:00", 3479, "Your mother is", "paralytical", "", "Definition: relating to or of the nature of paralysis", "Synonyms: paralytic"]}
