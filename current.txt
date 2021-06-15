@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T11:20:13.889703+00:00", 3457, "Your mother is", "overjoyed", "Pronunciation: /\u02cco\u028av\u0259\u02c8d\u0292\u0254\u026ad/", "Definition: extremely joyful", ""]}
+{"data": ["2021-06-15T11:30:13.872766+00:00", 3458, "Your mother is", "solidified", "Pronunciation: /s\u028c\u02c8l\u026ad\u028c\u02ccfa\u026ad/", "Definition: changed into a solid mass", "Synonyms: coagulated"]}
