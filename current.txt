@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T16:40:13.922553+00:00", 3489, "Your mother is", "ritardando", "Pronunciation: /\u02ccrit\u0251r\u02c8d\u0251ndo\u028a/", "Definition: (music) gradually decreasing in tempo", "Synonyms: rallentando, rit., ritenuto"]}
+{"data": ["2021-06-15T16:50:14.423592+00:00", 3490, "Your mother is", "papistical", "Pronunciation: /pe\u026a\u02c8p\u026ast\u026ak\u0259l/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, popish, r.c., roman, roman catholic, romanist, romish"]}
