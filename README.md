@@ -20,5 +20,5 @@ current.txt is in the format `{'data':list}`, while past.txt is in the format `{
 ## Example
 View an example of how the data is presented at https://yourmotheris.ajlee.repl.co/ as well as [@yourmotherisbot](https://twitter.com/yourmotherisbot)
 
-## Code
+## Source code
 View the code that maintains this repository at https://github.com/ajlee2006/yourmotheris-code/
