@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T18:30:13.915686+00:00", 3500, "Your mother is", "contraceptive", "Pronunciation: /\u02cck\u0251ntr\u0259\u02c8s\u025bpt\u026av/", "Definition: capable of preventing conception or impregnation", "Synonyms: antifertility, prophylactic"]}
+{"data": ["2021-06-15T18:40:13.819107+00:00", 3501, "Your mother is", "widely distributed", "", "Definition: growing or occurring in many parts of the world", "Synonyms: cosmopolitan"]}
