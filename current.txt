@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T18:20:13.890751+00:00", 3499, "Your mother is", "sere", "Pronunciation: /sir/", "Definition: (used especially of vegetation) having lost all moisture", "Synonyms: dried-up, sear, shriveled, shrivelled, withered"]}
+{"data": ["2021-06-15T18:30:13.915686+00:00", 3500, "Your mother is", "contraceptive", "Pronunciation: /\u02cck\u0251ntr\u0259\u02c8s\u025bpt\u026av/", "Definition: capable of preventing conception or impregnation", "Synonyms: antifertility, prophylactic"]}
