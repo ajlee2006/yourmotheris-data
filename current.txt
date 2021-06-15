@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T21:50:13.898886+00:00", 3520, "Your mother is", "queasy", "Pronunciation: /\u02c8kwizi/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, noisome, offensive, sickening, vile"]}
+{"data": ["2021-06-15T22:00:13.814614+00:00", 3521, "Your mother is", "avertible", "", "Definition: capable of being avoided or warded off", "Synonyms: avertable, avoidable, evitable"]}
