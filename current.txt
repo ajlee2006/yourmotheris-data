@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T06:50:13.970161+00:00", 3430, "Your mother is", "slopped", "Similar to: drunk", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, sloshed, smashed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
+{"data": ["2021-06-15T07:00:13.962231+00:00", 3431, "Your mother is", "unguiculate", "Pronunciation: /\u0259\u014b\u02c8gw\u026akj\u025bl\u026at/", "Definition: having or resembling claws or nails", "Synonyms: unguiculated"]}
