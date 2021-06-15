@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T23:20:13.920126+00:00", 3529, "Your mother is", "crying", "Pronunciation: /\u02c8kra\u026a\u026a\u014b/", "Definition: demanding attention", "Synonyms: clamant, exigent, insistent, instant"]}
+{"data": ["2021-06-15T23:30:13.868047+00:00", 3530, "Your mother is", "clinical", "Pronunciation: /\u02c8kl\u026an\u026ak\u0259l/", "Definition: scientifically detached; unemotional", ""]}
