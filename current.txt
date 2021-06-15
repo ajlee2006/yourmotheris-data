@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T17:30:13.870340+00:00", 3494, "Your mother is", "stray", "Pronunciation: /stre\u026a/", "Definition: not close together in time", "Synonyms: isolated"]}
+{"data": ["2021-06-15T17:40:14.024015+00:00", 3495, "Your mother is", "vicenary", "Pronunciation: /\u02c8v\u026as\u0259\u02ccn\u025bri/", "Definition: of or relating to or based on 20", ""]}
