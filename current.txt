@@ -1,1 +1,1 @@
-{"data": ["2021-06-14T23:58:48.328655+00:00", 3390, "Your mother is", "germicidal", "Similar to: antiseptic", "Definition: preventing infection by inhibiting the growth or action of microorganisms", "Synonyms: bactericidal, disinfectant"]}
+{"data": ["2021-06-15T00:08:48.379394+00:00", 3391, "Your mother is", "faced", "Pronunciation: /fe\u026ast/", "Definition: having a face or facing especially of a specified kind or number; often used in combination", ""]}
