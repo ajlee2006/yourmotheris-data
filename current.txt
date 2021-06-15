@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T08:20:13.841873+00:00", 3439, "Your mother is", "deft", "Pronunciation: /d\u025bft/", "Definition: skillful in physical movements; especially of the hands", "Synonyms: dexterous, dextrous"]}
+{"data": ["2021-06-15T08:30:13.981876+00:00", 3440, "Your mother is", "dead on target", "Similar to: accurate", "Definition: accurately placed or thrown", "Synonyms: true"]}
