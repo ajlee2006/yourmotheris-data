@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T08:30:13.981876+00:00", 3440, "Your mother is", "dead on target", "Similar to: accurate", "Definition: accurately placed or thrown", "Synonyms: true"]}
+{"data": ["2021-06-15T08:40:13.892603+00:00", 3441, "Your mother is", "18th", "Similar to: ordinal", "Definition: coming next after the seventeenth in position", "Synonyms: eighteenth"]}
