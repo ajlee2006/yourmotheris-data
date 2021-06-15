@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T05:50:13.956873+00:00", 3424, "Your mother is", "palatable", "Pronunciation: /\u02c8p\u00e6l\u0259t\u0259b\u0259l/", "Definition: acceptable to the taste or mind", "Synonyms: toothsome"]}
+{"data": ["2021-06-15T06:00:13.789642+00:00", 3425, "Your mother is", "gardant", "Pronunciation: /\u02c8\u0261\u0251rd\u0259nt/", "Definition: looking forward", "Synonyms: full-face, guardant"]}
