@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T09:10:14.003645+00:00", 3444, "Your mother is", "svelte", "Pronunciation: /sv\u025blt/", "Definition: being of delicate or slender build", "Synonyms: slender, slight, slim"]}
+{"data": ["2021-06-15T09:20:13.903456+00:00", 3445, "Your mother is", "freckled", "Pronunciation: /\u02c8fr\u025bk\u028cld/", "Definition: relating to or covered with or resembling freckles", "Synonyms: lentiginose, lentiginous"]}
