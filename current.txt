@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T06:40:13.860568+00:00", 3429, "Your mother is", "unimodal", "", "Definition: having a single mode", ""]}
+{"data": ["2021-06-15T06:50:13.970161+00:00", 3430, "Your mother is", "slopped", "Similar to: drunk", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, sloshed, smashed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
