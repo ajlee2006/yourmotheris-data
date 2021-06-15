@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T18:00:14.158743+00:00", 3497, "Your mother is", "threefold", "Pronunciation: /\u02c8\u03b8ri\u02ccfo\u028ald/", "Definition: having more than one decidedly dissimilar aspects or qualities", "Synonyms: double, dual, three-fold, treble, two-fold, twofold"]}
+{"data": ["2021-06-15T18:10:14.020749+00:00", 3498, "Your mother is", "rheumatic", "Pronunciation: /r\u028a\u02c8m\u00e6t\u026ak/", "Definition: of or pertaining to arthritis", "Synonyms: arthritic, creaky, rheumatoid, rheumy"]}
