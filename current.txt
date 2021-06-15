@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T15:30:14.032725+00:00", 3482, "Your mother is", "thrombosed", "Similar to: obstructed", "Definition: affected with or obstructed by a clot of coagulated blood", ""]}
+{"data": ["2021-06-15T15:40:14.015587+00:00", 3483, "Your mother is", "atrial", "", "Definition: of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart)", ""]}
