@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T15:40:14.015587+00:00", 3483, "Your mother is", "atrial", "", "Definition: of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart)", ""]}
+{"data": ["2021-06-15T15:50:14.376076+00:00", 3484, "Your mother is", "ended", "Pronunciation: /\u02c8\u025bnd\u028cd/", "Definition: having come or been brought to a conclusion", "Synonyms: all over, complete, concluded, over, terminated"]}
