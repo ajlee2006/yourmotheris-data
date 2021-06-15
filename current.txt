@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T07:20:13.961722+00:00", 3433, "Your mother is", "divided", "Pronunciation: /d\u026a\u02c8va\u026ad\u026ad/", "Definition: distributed in portions (often equal) on the basis of a plan or purpose", "Synonyms: divided up, shared, shared out"]}
+{"data": ["2021-06-15T07:30:13.834184+00:00", 3434, "Your mother is", "three-d", "Similar to: multidimensional", "Definition: involving or relating to three dimensions or aspects; giving the illusion of depth", "Synonyms: 3-dimensional, third-dimensional, three-dimensional"]}
