@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T04:40:13.880469+00:00", 3417, "Your mother is", "contiguous", "Pronunciation: /k\u0259n\u02c8t\u026a\u0261ju\u0259s/", "Definition: having a common boundary or edge; abutting; touching", "Synonyms: adjacent, conterminous, neighboring"]}
+{"data": ["2021-06-15T04:50:13.820715+00:00", 3418, "Your mother is", "supraocular", "", "Definition: located or occurring above the eye socket", "Synonyms: supraorbital"]}
