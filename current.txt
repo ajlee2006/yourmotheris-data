@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T09:40:13.763725+00:00", 3447, "Your mother is", "contrastive", "Pronunciation: /k\u0259n\u02c8tr\u00e6st\u026av/", "Definition: of words so related that one contrasts with the other", "Synonyms: incompatible"]}
+{"data": ["2021-06-15T09:50:13.804698+00:00", 3448, "Your mother is", "undereducated", "Similar to: uneducated", "Definition: poorly or insufficiently educated", ""]}
