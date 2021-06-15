@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T03:18:48.248917+00:00", 3410, "Your mother is", "thronged", "Pronunciation: /\u03b8r\u0254\u014bd/", "Definition: filled with great numbers crowded together", ""]}
+{"data": ["2021-06-15T03:28:48.324907+00:00", 3411, "Your mother is", "bituminoid", "Pronunciation: /b\u026a\u02c8tum\u0259\u02ccn\u0254\u026ad/", "Definition: like bitumen", "Synonyms: bitumenoid"]}
