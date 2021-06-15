@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T16:00:14.288719+00:00", 3485, "Your mother is", "unbending", "Pronunciation: /\u0259n\u02c8b\u025bnd\u026a\u014b/", "Definition: incapable of adapting or changing to meet circumstances", "Synonyms: inflexible, rigid"]}
+{"data": ["2021-06-15T16:10:14.011522+00:00", 3486, "Your mother is", "gushing", "Pronunciation: /\u02c8\u0261\u028c\u0283\u026a\u014b/", "Definition: uttered with unrestrained enthusiasm", "Synonyms: burbling, burbly, effusive"]}
