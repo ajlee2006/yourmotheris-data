@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T00:38:48.320863+00:00", 3394, "Your mother is", "level-headed", "Pronunciation: /\u02c8l\u025bv\u0259l\u02c8h\u025bd\u026ad/", "Definition: exercising or showing good judgment", "Synonyms: healthy, intelligent, levelheaded, sound"]}
+{"data": ["2021-06-15T00:48:48.502210+00:00", 3395, "Your mother is", "conglomerate", "Pronunciation: /k\u0259n\u02c8gl\u0251m\u0259\u02ccre\u026at/", "Definition: composed of heterogeneous elements gathered into a mass", ""]}
