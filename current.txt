@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T18:40:13.819107+00:00", 3501, "Your mother is", "widely distributed", "", "Definition: growing or occurring in many parts of the world", "Synonyms: cosmopolitan"]}
+{"data": ["2021-06-15T18:50:13.875896+00:00", 3502, "Your mother is", "perspicuous", "Pronunciation: /p\u0259r\u02c8sp\u026akju\u0259s/", "Definition: (of language) transparently clear; easily understandable", "Synonyms: crystal clear, limpid, lucid, luculent, pellucid"]}
