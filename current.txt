@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T19:20:14.115251+00:00", 3505, "Your mother is", "molar", "Pronunciation: /\u02c8mo\u028al\u0259r/", "Definition: pertaining to large units of behavior", ""]}
+{"data": ["2021-06-15T19:30:14.589073+00:00", 3506, "Your mother is", "testy", "Pronunciation: /\u02c8t\u025bsti/", "Definition: easily irritated or annoyed", "Synonyms: cranky, fractious, irritable, nettlesome, peckish, peevish, pettish, petulant, scratchy, techy, tetchy"]}
