@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T20:20:13.909528+00:00", 3511, "Your mother is", "water-loving", "Pronunciation: /\u02c8w\u0254t\u0259r-\u02c8l\u0259v\u026a\u014b/", "Definition: (of plants) flourishing with lots of water", ""]}
+{"data": ["2021-06-15T20:30:13.981367+00:00", 3512, "Your mother is", "encyclopedic", "Pronunciation: /\u025bn\u02ccsa\u026akl\u0259\u02c8pid\u026ak/", "Definition: comprehensive in scope or content (as an encyclopedia)", "Synonyms: encyclopaedic"]}
