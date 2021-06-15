@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T11:00:13.829987+00:00", 3455, "Your mother is", "conservative", "Pronunciation: /k\u0259n\u02c8s\u025crv\u0259t\u026av/", "Definition: conforming to the standards and conventions of the middle class", "Synonyms: bourgeois, materialistic"]}
+{"data": ["2021-06-15T11:10:14.045425+00:00", 3456, "Your mother is", "shallow-draught", "", "Definition: of vessels whose keel is not far below the waterline", "Synonyms: shallow-draft"]}
