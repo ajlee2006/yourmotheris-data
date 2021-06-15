@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T02:18:48.275774+00:00", 3404, "Your mother is", "saute", "Pronunciation: /so\u028a\u02c8te\u026a/", "Definition: fried quickly in a little fat", "Synonyms: sauteed"]}
+{"data": ["2021-06-15T02:28:48.304359+00:00", 3405, "Your mother is", "long-time", "Pronunciation: /l\u0254\u014b-ta\u026am/", "Definition: having existed or persisted or continued in a particular role or state for a long time", "Synonyms: longtime"]}
