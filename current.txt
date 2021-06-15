@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T19:10:14.213948+00:00", 3504, "Your mother is", "laid-off", "Similar to: unemployed", "Definition: having lost your job", "Synonyms: discharged, dismissed, fired, pink-slipped"]}
+{"data": ["2021-06-15T19:20:14.115251+00:00", 3505, "Your mother is", "molar", "Pronunciation: /\u02c8mo\u028al\u0259r/", "Definition: pertaining to large units of behavior", ""]}
