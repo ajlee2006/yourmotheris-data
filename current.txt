@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T04:50:13.820715+00:00", 3418, "Your mother is", "supraocular", "", "Definition: located or occurring above the eye socket", "Synonyms: supraorbital"]}
+{"data": ["2021-06-15T05:00:13.775020+00:00", 3419, "Your mother is", "ampullary", "Pronunciation: /\u00e6m\u02c8p\u0259l\u0259ri/", "Definition: of or related to an ampulla", "Synonyms: ampullar"]}
