@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T20:40:14.187093+00:00", 3513, "Your mother is", "disquieted", "Similar to: troubled", "Definition: afflicted with or marked by anxious uneasiness or trouble or grief", "Synonyms: distressed, disturbed, upset, worried"]}
+{"data": ["2021-06-15T20:50:13.982204+00:00", 3514, "Your mother is", "year-round", "Pronunciation: /\u02c8jir-\u02c8ra\u028and/", "Definition: operating or continuing throughout the year", "Synonyms: year-around"]}
