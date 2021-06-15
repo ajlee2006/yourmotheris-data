@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T19:00:13.817254+00:00", 3503, "Your mother is", "desired", "Pronunciation: /d\u026a\u02c8za\u026a\u0259rd/", "Definition: wanted intensely", "Synonyms: craved"]}
+{"data": ["2021-06-15T19:10:14.213948+00:00", 3504, "Your mother is", "laid-off", "Similar to: unemployed", "Definition: having lost your job", "Synonyms: discharged, dismissed, fired, pink-slipped"]}
