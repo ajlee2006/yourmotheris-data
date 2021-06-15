@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T08:10:14.079099+00:00", 3438, "Your mother is", "tone-deaf", "Pronunciation: /to\u028an-d\u025bf/", "Definition: unable to appreciate music", ""]}
+{"data": ["2021-06-15T08:20:13.841873+00:00", 3439, "Your mother is", "deft", "Pronunciation: /d\u025bft/", "Definition: skillful in physical movements; especially of the hands", "Synonyms: dexterous, dextrous"]}
