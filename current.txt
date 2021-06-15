@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T03:38:48.236383+00:00", 3412, "Your mother is", "reasonable", "Pronunciation: /\u02c8riz\u0259-n\u0259-b\u0259l/", "Definition: not excessive or extreme", "Synonyms: fair, fairish"]}
+{"data": ["2021-06-15T03:48:48.244430+00:00", 3413, "Your mother is", "blanketed", "Pronunciation: /\u02c8bl\u00e6\u014bk\u028ct\u026ad/", "Definition: covered with (or as if with) a blanket", ""]}
