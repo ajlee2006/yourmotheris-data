@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T21:20:13.952318+00:00", 3517, "Your mother is", "wearied", "Pronunciation: /\u02c8w\u026arid/", "Definition: exhausted", "Synonyms: jaded"]}
+{"data": ["2021-06-15T21:30:14.216399+00:00", 3518, "Your mother is", "non-u", "Pronunciation: /n\u0259n-ju/", "Definition: not characteristic of the upper classes especially in language use", ""]}
