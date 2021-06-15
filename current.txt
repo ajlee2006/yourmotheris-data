@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T20:00:13.983765+00:00", 3509, "Your mother is", "assurgent", "Pronunciation: /\u0259\u02c8s\u025crd\u0292\u0259nt/", "Definition: growing or extending upward", ""]}
+{"data": ["2021-06-15T20:10:14.111045+00:00", 3510, "Your mother is", "terror-stricken", "Pronunciation: /\u02c8t\u025br\u0259r-\u02c8str\u026ak\u0259n/", "Definition: struck or filled with terror", "Synonyms: terror-struck"]}
