@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T13:10:13.844286+00:00", 3468, "Your mother is", "gusty", "Pronunciation: /\u02c8\u0261\u0259sti/", "Definition: blowing in puffs or short intermittent blasts", "Synonyms: puffy"]}
+{"data": ["2021-06-15T13:20:14.014690+00:00", 3469, "Your mother is", "venose", "Pronunciation: /\u02c8vino\u028as/", "Definition: having or showing markings that resemble veins", "Synonyms: veined, veinlike"]}
