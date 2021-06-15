@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T13:20:14.014690+00:00", 3469, "Your mother is", "venose", "Pronunciation: /\u02c8vino\u028as/", "Definition: having or showing markings that resemble veins", "Synonyms: veined, veinlike"]}
+{"data": ["2021-06-15T13:30:13.865271+00:00", 3470, "Your mother is", "cyprinoid", "Pronunciation: /\u02c8s\u026apr\u0259\u02ccn\u0254\u026ad/", "Definition: of or relating to members of fish family Cyprinidae", "Synonyms: cyprinid"]}
