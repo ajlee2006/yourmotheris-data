@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T15:20:13.845288+00:00", 3481, "Your mother is", "fifty-five", "Pronunciation: /\u02c8f\u026afti-fa\u026av/", "Definition: being five more than fifty", "Synonyms: 55, lv"]}
+{"data": ["2021-06-15T15:30:14.032725+00:00", 3482, "Your mother is", "thrombosed", "Similar to: obstructed", "Definition: affected with or obstructed by a clot of coagulated blood", ""]}
