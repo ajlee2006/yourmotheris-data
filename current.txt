@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T16:50:14.423592+00:00", 3490, "Your mother is", "papistical", "Pronunciation: /pe\u026a\u02c8p\u026ast\u026ak\u0259l/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, popish, r.c., roman, roman catholic, romanist, romish"]}
+{"data": ["2021-06-15T17:00:14.032883+00:00", 3491, "Your mother is", "clinker-built", "Pronunciation: /\u02c8kl\u026a\u014bk\u0259r-b\u026alt/", "Definition: having overlapping hull planks", "Synonyms: clincher-built, lap-strake, lap-straked, lap-streak, lap-streaked"]}
