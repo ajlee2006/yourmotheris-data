@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T22:40:13.822925+00:00", 3525, "Your mother is", "knock-down", "Pronunciation: /n\u0251k-da\u028an/", "Definition: strong enough to knock down or overwhelm", "Synonyms: powerful"]}
+{"data": ["2021-06-15T22:50:14.185118+00:00", 3526, "Your mother is", "aspheric", "Similar to: rounded", "Definition: varying slightly from a perfectly spherical shape", "Synonyms: aspherical"]}
