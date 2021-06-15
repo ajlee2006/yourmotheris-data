@@ -1,1 +1,1 @@
-{"data": ["2021-06-15T01:58:48.260800+00:00", 3402, "Your mother is", "vindicated", "Pronunciation: /\u02c8v\u026and\u028cke\u026at\u026ad/", "Definition: freed from any question of guilt", "Synonyms: absolved, clear, cleared, exculpated, exonerated"]}
+{"data": ["2021-06-15T02:08:48.308721+00:00", 3403, "Your mother is", "entertained", "Pronunciation: /\u02cc\u025bnt\u025dr\u02c8te\u026and/", "Definition: pleasantly occupied", "Synonyms: amused, diverted"]}
