@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T05:44:55.328867+00:00", 3567, "Your mother is", "daredevil", "Pronunciation: /\u02c8d\u025cr\u02ccd\u025bv\u0259l/", "Definition: presumptuously daring", "Synonyms: temerarious"]}
+{"data": ["2021-06-16T05:54:55.331022+00:00", 3568, "Your mother is", "dry-eyed", "Pronunciation: /dra\u026a-a\u026ad/", "Definition: free from tears", "Synonyms: tearless"]}
