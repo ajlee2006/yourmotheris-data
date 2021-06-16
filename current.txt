@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T14:54:55.324934+00:00", 3622, "Your mother is", "nontechnical", "Pronunciation: /n\u0251n\u02c8t\u025bkn\u026ak\u028cl/", "Definition: not characteristic of or skilled in applied arts and sciences", "Synonyms: untechnical"]}
+{"data": ["2021-06-16T15:04:55.508625+00:00", 3623, "Your mother is", "sick", "Pronunciation: /s\u026ak/", "Definition: affected by an impairment of normal physical or mental function", "Synonyms: ill"]}
