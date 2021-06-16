@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T11:24:55.282510+00:00", 3601, "Your mother is", "high-altitude", "Pronunciation: /ha\u026a-\u02c8\u00e6lt\u026a\u02cctud/", "Definition: occurring at or from a relative high altitude", "Synonyms: high-level"]}
+{"data": ["2021-06-16T11:34:55.288780+00:00", 3602, "Your mother is", "callable", "Pronunciation: /\u02c8k\u0254l\u0259b\u0259l/", "Definition: subject to a demand for payment before due date", ""]}
