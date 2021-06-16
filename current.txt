@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T07:04:55.627835+00:00", 3575, "Your mother is", "ongoing", "Pronunciation: /\u02c8\u0251n\u02cc\u0261o\u028ai\u014b/", "Definition: currently happening", "Synonyms: on-going"]}
+{"data": ["2021-06-16T07:14:55.335285+00:00", 3576, "Your mother is", "facilitatory", "Similar to: helpful", "Definition: inducing or aiding in facilitating neural activity", ""]}
