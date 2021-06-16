@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T04:30:14.002746+00:00", 3560, "Your mother is", "splotched", "Similar to: patterned", "Definition: marked with irregularly shaped spots or blots", "Synonyms: blotched, blotchy"]}
+{"data": ["2021-06-16T04:40:14.186446+00:00", 3561, "Your mother is", "inhospitable", "Pronunciation: /\u026an\u02c8h\u0251sp\u026at\u0259b\u0259l/", "Definition: not hospitable", ""]}
