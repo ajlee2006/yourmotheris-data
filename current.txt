@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T19:34:55.422859+00:00", 3650, "Your mother is", "crusty", "Pronunciation: /\u02c8kr\u0259sti/", "Definition: having a hardened crust as a covering", "Synonyms: crusted, crustlike, encrusted"]}
+{"data": ["2021-06-16T19:44:55.374898+00:00", 3651, "Your mother is", "anachronic", "Pronunciation: /\u02cc\u00e6n\u0259\u02c8kr\u0251n\u026ak/", "Definition: chronologically misplaced", "Synonyms: anachronistic, anachronous"]}
