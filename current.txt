@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T05:14:55.322016+00:00", 3564, "Your mother is", "youthful", "Pronunciation: /\u02c8ju\u03b8f\u0259l/", "Definition: suggestive of youth; vigorous and fresh", "Synonyms: vernal, young"]}
+{"data": ["2021-06-16T05:24:55.252166+00:00", 3565, "Your mother is", "heady", "Pronunciation: /\u02c8h\u025bdi/", "Definition: extremely exciting as if by alcohol or a narcotic", "Synonyms: intoxicating"]}
