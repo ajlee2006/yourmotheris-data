@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T17:04:55.389669+00:00", 3635, "Your mother is", "vagal", "Pronunciation: /\u02c8ve\u026a\u0261\u0259l/", "Definition: of or relating to the vagus nerve", "Synonyms: pneumogastric"]}
+{"data": ["2021-06-16T17:14:55.649803+00:00", 3636, "Your mother is", "shackled", "Pronunciation: /\u02c8\u0283\u00e6k\u028cld/", "Definition: bound by chains fastened around the ankles", "Synonyms: fettered"]}
