@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T06:04:55.308065+00:00", 3569, "Your mother is", "steely", "Pronunciation: /\u02c8stili/", "Definition: resembling steel as in hardness", ""]}
+{"data": ["2021-06-16T06:14:55.301426+00:00", 3570, "Your mother is", "avertible", "", "Definition: capable of being avoided or warded off", "Synonyms: avertable, avoidable, evitable"]}
