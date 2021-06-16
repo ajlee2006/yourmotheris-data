@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T01:30:13.865969+00:00", 3542, "Your mother is", "auld", "Pronunciation: /\u0254ld/", "Definition: a Scottish word", ""]}
+{"data": ["2021-06-16T01:40:13.952139+00:00", 3543, "Your mother is", "completed", "Pronunciation: /k\u028cm\u02c8plit\u028cd/", "Definition: successfully completed or brought to an end", "Synonyms: accomplished, realised, realized"]}
