@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T21:14:55.600510+00:00", 3660, "Your mother is", "conic", "Pronunciation: /\u02c8k\u0251n\u026ak/", "Definition: relating to or resembling a cone", "Synonyms: cone-shaped, conelike, conical"]}
+{"data": ["2021-06-16T21:24:55.459722+00:00", 3661, "Your mother is", "submersible", "Pronunciation: /s\u0259b\u02c8m\u025crs\u026ab\u0259l/", "Definition: capable of being immersed in water or functioning while submerged", "Synonyms: submergible"]}
