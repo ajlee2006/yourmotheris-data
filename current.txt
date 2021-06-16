@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T13:14:55.329557+00:00", 3612, "Your mother is", "unsighted", "Pronunciation: /\u0259n\u02c8sa\u026at\u026ad/", "Definition: unable to see", "Synonyms: blind"]}
+{"data": ["2021-06-16T13:24:55.295187+00:00", 3613, "Your mother is", "in advance", "Similar to: front", "Definition: situated ahead or going before", "Synonyms: advance, advanced"]}
