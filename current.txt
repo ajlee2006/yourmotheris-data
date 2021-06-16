@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T20:24:55.529028+00:00", 3655, "Your mother is", "saudi-arabian", "", "Definition: of or relating to Saudi Arabia or its people", "Synonyms: saudi"]}
+{"data": ["2021-06-16T20:34:55.440441+00:00", 3656, "Your mother is", "fineable", "Pronunciation: /\u02c8fa\u026an\u0259b\u0259l/", "Definition: liable to a fine", "Synonyms: finable"]}
