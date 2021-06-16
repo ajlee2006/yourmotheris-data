@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T11:34:55.288780+00:00", 3602, "Your mother is", "callable", "Pronunciation: /\u02c8k\u0254l\u0259b\u0259l/", "Definition: subject to a demand for payment before due date", ""]}
+{"data": ["2021-06-16T11:44:55.291263+00:00", 3603, "Your mother is", "germinal", "Pronunciation: /\u02c8d\u0292\u025crm\u0259n\u0259l/", "Definition: containing seeds of later development", "Synonyms: originative, seminal"]}
