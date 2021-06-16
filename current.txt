@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T02:30:13.893336+00:00", 3548, "Your mother is", "defending", "Pronunciation: /d\u026a\u02c8f\u025bnd\u026a\u014b/", "Definition: attempting to or designed to prevent an opponent from winning or scoring", ""]}
+{"data": ["2021-06-16T02:40:14.316077+00:00", 3549, "Your mother is", "inextricable", "Pronunciation: /\u026an\u02c8\u025bkstr\u0259k\u0259b\u0259l/", "Definition: not permitting extrication; incapable of being disentangled or untied", ""]}
