@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T22:24:55.398015+00:00", 3667, "Your mother is", "upstair", "", "Definition: on or of upper floors of a building", "Synonyms: upstairs"]}
+{"data": ["2021-06-16T22:34:55.353767+00:00", 3668, "Your mother is", "cylindrical", "Pronunciation: /s\u026a\u02c8l\u026andr\u026ak\u0259l/", "Definition: having the form of a cylinder", "Synonyms: cylindric"]}
