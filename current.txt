@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T09:44:55.429941+00:00", 3591, "Your mother is", "darned", "Pronunciation: /d\u0251rnd/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blasted, blessed, damn, damned, deuced, goddam, goddamn, goddamned, infernal"]}
+{"data": ["2021-06-16T09:54:55.335993+00:00", 3592, "Your mother is", "amber", "Pronunciation: /\u02c8\u00e6mb\u0259r/", "Definition: of a medium to dark brownish yellow color", "Synonyms: brownish-yellow, yellow-brown"]}
