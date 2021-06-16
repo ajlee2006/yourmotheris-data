@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T14:44:55.380907+00:00", 3621, "Your mother is", "procedural", "Pronunciation: /pr\u028c\u02c8sid\u0292\u025dr\u028cl/", "Definition: relating to court practice and procedure as opposed to the principles of law", "Synonyms: adjective"]}
+{"data": ["2021-06-16T14:54:55.324934+00:00", 3622, "Your mother is", "nontechnical", "Pronunciation: /n\u0251n\u02c8t\u025bkn\u026ak\u028cl/", "Definition: not characteristic of or skilled in applied arts and sciences", "Synonyms: untechnical"]}
