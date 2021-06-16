@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T04:20:13.912032+00:00", 3559, "Your mother is", "botanic", "Pronunciation: /b\u0259\u02c8t\u00e6n\u026ak/", "Definition: of or relating to plants or botany", "Synonyms: botanical"]}
+{"data": ["2021-06-16T04:30:14.002746+00:00", 3560, "Your mother is", "splotched", "Similar to: patterned", "Definition: marked with irregularly shaped spots or blots", "Synonyms: blotched, blotchy"]}
