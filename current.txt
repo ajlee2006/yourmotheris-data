@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T08:04:55.298272+00:00", 3581, "Your mother is", "conscientious", "Pronunciation: /\u02cck\u0251n\u0283i\u02c8\u025bn\u0283\u0259s/", "Definition: characterized by extreme care and great effort", "Synonyms: painstaking, scrupulous"]}
+{"data": ["2021-06-16T08:14:55.329198+00:00", 3582, "Your mother is", "rare-roasted", "Similar to: cooked", "Definition: (meat) roasted with the meat inside still rare", ""]}
