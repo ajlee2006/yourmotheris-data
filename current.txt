@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T04:54:55.357396+00:00", 3562, "Your mother is", "untaught", "Pronunciation: /\u0259n\u02c8t\u0251t/", "Definition: lacking in schooling", "Synonyms: unschooled, untutored"]}
+{"data": ["2021-06-16T05:04:55.300840+00:00", 3563, "Your mother is", "caducous", "Pronunciation: /k\u0259\u02c8duk\u0259s/", "Definition: shed at an early stage of development", "Synonyms: shed"]}
