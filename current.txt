@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T07:34:55.305693+00:00", 3578, "Your mother is", "retractable", "Pronunciation: /ri\u02c8tr\u00e6kt\u028cb\u028cl/", "Definition: capable of being retracted", ""]}
+{"data": ["2021-06-16T07:44:55.279438+00:00", 3579, "Your mother is", "snooty", "Pronunciation: /\u02c8snuti/", "Definition: (used colloquially) overly conceited or arrogant", "Synonyms: bigheaded, persnickety, snot-nosed, snotty, stuck-up, too big for one's breeches, uppish"]}
