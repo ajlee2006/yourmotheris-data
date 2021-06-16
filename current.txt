@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T05:04:55.300840+00:00", 3563, "Your mother is", "caducous", "Pronunciation: /k\u0259\u02c8duk\u0259s/", "Definition: shed at an early stage of development", "Synonyms: shed"]}
+{"data": ["2021-06-16T05:14:55.322016+00:00", 3564, "Your mother is", "youthful", "Pronunciation: /\u02c8ju\u03b8f\u0259l/", "Definition: suggestive of youth; vigorous and fresh", "Synonyms: vernal, young"]}
