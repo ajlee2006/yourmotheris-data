@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T03:30:14.448660+00:00", 3554, "Your mother is", "exterminated", "Pronunciation: /\u026ak\u02c8st\u025drm\u028c\u02ccne\u026at\u026ad/", "Definition: destroyed completely", "Synonyms: annihilated, wiped out"]}
+{"data": ["2021-06-16T03:40:13.865551+00:00", 3555, "Your mother is", "cheerful", "Pronunciation: /\u02c8\u02a7irf\u0259l/", "Definition: pleasantly (even unrealistically) optimistic", "Synonyms: pollyannaish, upbeat"]}
