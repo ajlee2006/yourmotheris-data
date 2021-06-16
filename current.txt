@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T03:00:14.248516+00:00", 3551, "Your mother is", "resinous", "Pronunciation: /\u02c8r\u025bz\u0259n\u0259s/", "Definition: having the characteristics of pitch or tar", "Synonyms: pitchy, resiny, tarry"]}
+{"data": ["2021-06-16T03:10:15.247367+00:00", 3552, "Your mother is", "evidential", "Pronunciation: /\u02cc\u025bv\u026a\u02c8d\u025bn\u0283\u0259l/", "Definition: serving as or based on evidence", "Synonyms: evidentiary"]}
