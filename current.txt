@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T06:44:55.481986+00:00", 3573, "Your mother is", "fourscore", "Pronunciation: /\u02c8fo\u028ar\u02c8sko\u028ar/", "Definition: being ten more than seventy", "Synonyms: 80, eighty, lxxx"]}
+{"data": ["2021-06-16T06:54:55.359098+00:00", 3574, "Your mother is", "inbred", "Pronunciation: /\u02c8\u026an\u02c8br\u025bd/", "Definition: normally existing at birth", "Synonyms: connatural, inborn"]}
