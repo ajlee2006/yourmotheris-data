@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T09:24:55.450525+00:00", 3589, "Your mother is", "high-minded", "Pronunciation: /\u02c8ha\u026a\u02c8ma\u026and\u026ad/", "Definition: of high moral or intellectual value; elevated in nature or style", "Synonyms: elevated, exalted, grand, high-flown, idealistic, lofty, noble-minded, rarefied, rarified, sublime"]}
+{"data": ["2021-06-16T09:34:55.393572+00:00", 3590, "Your mother is", "apologetic", "Pronunciation: /\u0259\u02ccp\u0251l\u0259\u02c8d\u0292\u025bt\u026ak/", "Definition: offering or expressing apology", "Synonyms: excusatory"]}
