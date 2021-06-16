@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T04:10:13.841759+00:00", 3558, "Your mother is", "vapid", "Pronunciation: /\u02c8v\u00e6p\u026ad/", "Definition: lacking taste or flavor or tang", "Synonyms: bland, flat, flavorless, flavourless, insipid, savorless, savourless"]}
+{"data": ["2021-06-16T04:20:13.912032+00:00", 3559, "Your mother is", "botanic", "Pronunciation: /b\u0259\u02c8t\u00e6n\u026ak/", "Definition: of or relating to plants or botany", "Synonyms: botanical"]}
