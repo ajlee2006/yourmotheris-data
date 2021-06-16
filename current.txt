@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T11:44:55.291263+00:00", 3603, "Your mother is", "germinal", "Pronunciation: /\u02c8d\u0292\u025crm\u0259n\u0259l/", "Definition: containing seeds of later development", "Synonyms: originative, seminal"]}
+{"data": ["2021-06-16T11:54:55.485832+00:00", 3604, "Your mother is", "contrary", "Pronunciation: /\u02c8k\u0251ntr\u025bri/", "Definition: in an opposing direction", "Synonyms: adverse"]}
