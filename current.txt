@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T00:30:14.753491+00:00", 3536, "Your mother is", "teutonic", "Pronunciation: /tu\u02c8t\u0251n\u026ak/", "Definition: of or pertaining to the ancient Teutons or their languages", "Synonyms: germanic"]}
+{"data": ["2021-06-16T00:40:14.030838+00:00", 3537, "Your mother is", "wheezing", "Pronunciation: /\u02c8wiz\u026a\u014b/", "Definition: relating to breathing with a whistling sound", "Synonyms: asthmatic, wheezy"]}
