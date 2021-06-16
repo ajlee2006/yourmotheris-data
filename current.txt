@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T21:04:55.364489+00:00", 3659, "Your mother is", "subliminal", "Pronunciation: /s\u0259b\u02c8l\u026am\u0259n\u0259l/", "Definition: below the threshold of conscious perception", ""]}
+{"data": ["2021-06-16T21:14:55.600510+00:00", 3660, "Your mother is", "conic", "Pronunciation: /\u02c8k\u0251n\u026ak/", "Definition: relating to or resembling a cone", "Synonyms: cone-shaped, conelike, conical"]}
