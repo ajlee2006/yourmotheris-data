@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T17:54:55.353608+00:00", 3640, "Your mother is", "encumbered", "Pronunciation: /\u025bn\u02c8k\u028cmb\u025drd/", "Definition: loaded to excess or impeded by a heavy load", ""]}
+{"data": ["2021-06-16T18:04:55.367277+00:00", 3641, "Your mother is", "kindly", "Pronunciation: /\u02c8ka\u026andli/", "Definition: showing or motivated by sympathy and understanding and generosity", "Synonyms: benevolent, charitable, good-hearted, large-hearted, openhearted, sympathetic"]}
