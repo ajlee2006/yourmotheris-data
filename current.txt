@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T12:04:55.365844+00:00", 3605, "Your mother is", "mechanistic", "Pronunciation: /\u02ccm\u025bk\u0259\u02c8n\u026ast\u026ak/", "Definition: explained in terms of physical forces", ""]}
+{"data": ["2021-06-16T12:14:55.393824+00:00", 3606, "Your mother is", "ruthful", "Pronunciation: /\u02c8ru\u03b8f\u0259l/", "Definition: feeling or expressing pain or sorrow for sins or offenses", "Synonyms: contrite, remorseful, rueful"]}
