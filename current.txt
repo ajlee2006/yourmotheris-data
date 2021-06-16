@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T02:10:14.009179+00:00", 3546, "Your mother is", "fathomable", "Pronunciation: /\u02c8f\u00e6\u00f0\u028cm\u028cb\u028cl/", "Definition: (of depth) capable of being sounded or measured for depth", "Synonyms: plumbable, soundable"]}
+{"data": ["2021-06-16T02:20:13.959061+00:00", 3547, "Your mother is", "supercritical", "Pronunciation: /\u02ccsup\u0259r\u02c8kr\u026at\u026ak\u0259l/", "Definition: (especially of fissionable material) able to sustain a chain reaction in such a manner that the rate of reaction increases", ""]}
