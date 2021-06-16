@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T21:54:55.339463+00:00", 3664, "Your mother is", "presentational", "Pronunciation: /\u02ccpr\u025bz\u0259n\u02c8te\u026a\u0283\u0259n\u0259l/", "Definition: of or relating to a presentation (especially in psychology or philosophy)", ""]}
+{"data": ["2021-06-16T22:04:55.710671+00:00", 3665, "Your mother is", "composed", "Pronunciation: /k\u0259m\u02c8po\u028azd/", "Definition: serenely self-possessed and free from agitation especially in times of stress", ""]}
