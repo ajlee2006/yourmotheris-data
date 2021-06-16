@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T16:24:55.953449+00:00", 3631, "Your mother is", "meager", "Pronunciation: /\u02c8mi\u0261\u0259r/", "Definition: deficient in amount or quality or extent", "Synonyms: meagerly, meagre, scrimpy, stingy"]}
+{"data": ["2021-06-16T16:34:55.255606+00:00", 3632, "Your mother is", "lacking", "Pronunciation: /\u02c8l\u00e6k\u026a\u014b/", "Definition: nonexistent", "Synonyms: absent, missing, wanting"]}
