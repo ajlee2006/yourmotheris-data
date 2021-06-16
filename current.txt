@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T19:54:55.336052+00:00", 3652, "Your mother is", "correctable", "Similar to: corrigible", "Definition: capable of being corrected by additions", "Synonyms: amendable"]}
+{"data": ["2021-06-16T20:04:55.502633+00:00", 3653, "Your mother is", "preponderant", "Pronunciation: /pr\u026a\u02c8p\u0251nd\u0259r\u0259nt/", "Definition: having superior power and influence", "Synonyms: overriding, paramount, predominant, predominate, preponderating"]}
