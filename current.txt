@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T16:54:55.367861+00:00", 3634, "Your mother is", "indelicate", "Pronunciation: /\u026an\u02c8d\u025bl\u0259k\u026at/", "Definition: lacking propriety and good taste in manners and conduct", "Synonyms: indecorous"]}
+{"data": ["2021-06-16T17:04:55.389669+00:00", 3635, "Your mother is", "vagal", "Pronunciation: /\u02c8ve\u026a\u0261\u0259l/", "Definition: of or relating to the vagus nerve", "Synonyms: pneumogastric"]}
