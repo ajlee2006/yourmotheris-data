@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T01:10:13.980960+00:00", 3540, "Your mother is", "horrifying", "Pronunciation: /\u02c8h\u0254r\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: provoking horror", "Synonyms: atrocious, frightful, horrible, ugly"]}
+{"data": ["2021-06-16T01:20:13.911366+00:00", 3541, "Your mother is", "uncoiled", "Pronunciation: /\u02cc\u028cn\u02c8k\u0254\u026ald/", "Definition: no longer coiled", "Synonyms: straight"]}
