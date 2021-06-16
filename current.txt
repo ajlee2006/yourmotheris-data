@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T16:34:55.255606+00:00", 3632, "Your mother is", "lacking", "Pronunciation: /\u02c8l\u00e6k\u026a\u014b/", "Definition: nonexistent", "Synonyms: absent, missing, wanting"]}
+{"data": ["2021-06-16T16:44:55.300951+00:00", 3633, "Your mother is", "letter-perfect", "Pronunciation: /\u02c8l\u025bt\u0259r\u02c8p\u025crf\u026akt/", "Definition: correct to the last detail; especially being in or following the exact words", "Synonyms: word-perfect"]}
