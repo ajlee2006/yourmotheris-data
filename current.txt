@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T11:14:55.364613+00:00", 3600, "Your mother is", "convolute", "Pronunciation: /\u02c8k\u0251nv\u0259\u02cclut/", "Definition: rolled longitudinally upon itself", "Synonyms: convoluted"]}
+{"data": ["2021-06-16T11:24:55.282510+00:00", 3601, "Your mother is", "high-altitude", "Pronunciation: /ha\u026a-\u02c8\u00e6lt\u026a\u02cctud/", "Definition: occurring at or from a relative high altitude", "Synonyms: high-level"]}
