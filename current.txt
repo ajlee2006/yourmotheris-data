@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T11:04:55.406929+00:00", 3599, "Your mother is", "diurnal", "Pronunciation: /da\u026a\u02c8\u025crn\u0259l/", "Definition: having a daily cycle or occurring every day", ""]}
+{"data": ["2021-06-16T11:14:55.364613+00:00", 3600, "Your mother is", "convolute", "Pronunciation: /\u02c8k\u0251nv\u0259\u02cclut/", "Definition: rolled longitudinally upon itself", "Synonyms: convoluted"]}
