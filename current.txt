@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T18:04:55.367277+00:00", 3641, "Your mother is", "kindly", "Pronunciation: /\u02c8ka\u026andli/", "Definition: showing or motivated by sympathy and understanding and generosity", "Synonyms: benevolent, charitable, good-hearted, large-hearted, openhearted, sympathetic"]}
+{"data": ["2021-06-16T18:14:55.308008+00:00", 3642, "Your mother is", "eighty-fifth", "Pronunciation: /\u02c8e\u026ati-f\u026af\u03b8/", "Definition: the ordinal number of eighty-five in counting order", "Synonyms: 85th"]}
