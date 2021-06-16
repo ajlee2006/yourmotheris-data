@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T07:44:55.279438+00:00", 3579, "Your mother is", "snooty", "Pronunciation: /\u02c8snuti/", "Definition: (used colloquially) overly conceited or arrogant", "Synonyms: bigheaded, persnickety, snot-nosed, snotty, stuck-up, too big for one's breeches, uppish"]}
+{"data": ["2021-06-16T07:54:55.264405+00:00", 3580, "Your mother is", "monochromic", "Similar to: colored", "Definition: having or appearing to have only one color", "Synonyms: monochromatic, monochrome, monochromous"]}
