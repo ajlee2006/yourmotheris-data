@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T06:14:55.301426+00:00", 3570, "Your mother is", "avertible", "", "Definition: capable of being avoided or warded off", "Synonyms: avertable, avoidable, evitable"]}
+{"data": ["2021-06-16T06:24:55.379579+00:00", 3571, "Your mother is", "unbarreled", "", "Definition: not in a barrel", "Synonyms: unbarrelled"]}
