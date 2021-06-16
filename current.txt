@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T21:24:55.459722+00:00", 3661, "Your mother is", "submersible", "Pronunciation: /s\u0259b\u02c8m\u025crs\u026ab\u0259l/", "Definition: capable of being immersed in water or functioning while submerged", "Synonyms: submergible"]}
+{"data": ["2021-06-16T21:34:55.461859+00:00", 3662, "Your mother is", "burning", "Pronunciation: /\u02c8b\u025crn\u026a\u014b/", "Definition: of immediate import", ""]}
