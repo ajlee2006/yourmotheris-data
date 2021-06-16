@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T05:34:55.309114+00:00", 3566, "Your mother is", "self-centred", "Pronunciation: /s\u025blf\u02c8s\u025bnt\u0259d/", "Definition: limited to or caring only about yourself and your own needs", "Synonyms: egocentric, egoistic, egoistical, self-centered"]}
+{"data": ["2021-06-16T05:44:55.328867+00:00", 3567, "Your mother is", "daredevil", "Pronunciation: /\u02c8d\u025cr\u02ccd\u025bv\u0259l/", "Definition: presumptuously daring", "Synonyms: temerarious"]}
