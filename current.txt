@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T01:40:13.952139+00:00", 3543, "Your mother is", "completed", "Pronunciation: /k\u028cm\u02c8plit\u028cd/", "Definition: successfully completed or brought to an end", "Synonyms: accomplished, realised, realized"]}
+{"data": ["2021-06-16T01:50:13.948715+00:00", 3544, "Your mother is", "one-celled", "Similar to: acellular", "Definition: having a single cell (and thus not divided into cells)", "Synonyms: single-celled"]}
