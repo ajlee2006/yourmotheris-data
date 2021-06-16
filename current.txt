@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T04:40:14.186446+00:00", 3561, "Your mother is", "inhospitable", "Pronunciation: /\u026an\u02c8h\u0251sp\u026at\u0259b\u0259l/", "Definition: not hospitable", ""]}
+{"data": ["2021-06-16T04:54:55.357396+00:00", 3562, "Your mother is", "untaught", "Pronunciation: /\u0259n\u02c8t\u0251t/", "Definition: lacking in schooling", "Synonyms: unschooled, untutored"]}
