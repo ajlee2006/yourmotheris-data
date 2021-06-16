@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T15:04:55.508625+00:00", 3623, "Your mother is", "sick", "Pronunciation: /s\u026ak/", "Definition: affected by an impairment of normal physical or mental function", "Synonyms: ill"]}
+{"data": ["2021-06-16T15:14:55.247981+00:00", 3624, "Your mother is", "afflictive", "Pronunciation: /\u0259\u02c8fl\u026akt\u026av/", "Definition: causing misery or pain or distress", "Synonyms: painful, sore"]}
