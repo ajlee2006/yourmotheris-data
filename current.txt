@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T03:10:15.247367+00:00", 3552, "Your mother is", "evidential", "Pronunciation: /\u02cc\u025bv\u026a\u02c8d\u025bn\u0283\u0259l/", "Definition: serving as or based on evidence", "Synonyms: evidentiary"]}
+{"data": ["2021-06-16T03:20:13.973984+00:00", 3553, "Your mother is", "luxuriant", "Pronunciation: /l\u0259\u0261\u02c8\u0292\u028ari\u0259nt/", "Definition: marked by complexity and richness of detail", "Synonyms: elaborate"]}
