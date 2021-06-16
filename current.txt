@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T19:24:55.376782+00:00", 3649, "Your mother is", "keeled", "", "Definition: having a ridge or shaped like a ridge or suggesting the keel of a ship", "Synonyms: carinate, carinated, ridged"]}
+{"data": ["2021-06-16T19:34:55.422859+00:00", 3650, "Your mother is", "crusty", "Pronunciation: /\u02c8kr\u0259sti/", "Definition: having a hardened crust as a covering", "Synonyms: crusted, crustlike, encrusted"]}
