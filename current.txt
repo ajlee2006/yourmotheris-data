@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T13:44:55.438488+00:00", 3615, "Your mother is", "mental", "Pronunciation: /\u02c8m\u025bnt\u0259l/", "Definition: of or relating to the chin or median part of the lower jaw", "Synonyms: genial"]}
+{"data": ["2021-06-16T13:54:55.345321+00:00", 3616, "Your mother is", "precautional", "Similar to: preventative", "Definition: taken in advance to protect against possible danger or failure", "Synonyms: precautionary"]}
