@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T01:20:13.911366+00:00", 3541, "Your mother is", "uncoiled", "Pronunciation: /\u02cc\u028cn\u02c8k\u0254\u026ald/", "Definition: no longer coiled", "Synonyms: straight"]}
+{"data": ["2021-06-16T01:30:13.865969+00:00", 3542, "Your mother is", "auld", "Pronunciation: /\u0254ld/", "Definition: a Scottish word", ""]}
