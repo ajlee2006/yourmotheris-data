@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T06:24:55.379579+00:00", 3571, "Your mother is", "unbarreled", "", "Definition: not in a barrel", "Synonyms: unbarrelled"]}
+{"data": ["2021-06-16T06:34:55.328573+00:00", 3572, "Your mother is", "unmitigated", "Pronunciation: /\u0259n\u02c8m\u026at\u0259\u02cc\u0261e\u026at\u026ad/", "Definition: not diminished or moderated in intensity or severity; sometimes used as an intensifier", ""]}
