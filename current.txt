@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T23:14:55.394399+00:00", 3672, "Your mother is", "handheld", "Pronunciation: /\u02c8h\u00e6nd\u02c8h\u025bld/", "Definition: small and light enough to be operated while you hold it in your hands", "Synonyms: hand-held"]}
+{"data": ["2021-06-16T23:24:55.331629+00:00", 3673, "Your mother is", "botonnee", "Similar to: buttoned", "Definition: (of a heraldic cross) having a cluster of three buttons or knobs at the end of each arm", "Synonyms: botonee"]}
