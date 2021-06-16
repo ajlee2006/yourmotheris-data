@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T07:54:55.264405+00:00", 3580, "Your mother is", "monochromic", "Similar to: colored", "Definition: having or appearing to have only one color", "Synonyms: monochromatic, monochrome, monochromous"]}
+{"data": ["2021-06-16T08:04:55.298272+00:00", 3581, "Your mother is", "conscientious", "Pronunciation: /\u02cck\u0251n\u0283i\u02c8\u025bn\u0283\u0259s/", "Definition: characterized by extreme care and great effort", "Synonyms: painstaking, scrupulous"]}
