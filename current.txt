@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T10:54:55.327061+00:00", 3598, "Your mother is", "crumpled", "Pronunciation: /\u02c8kr\u0259mp\u0259ld/", "Definition: of metal e.g.", "Synonyms: bent, dented"]}
+{"data": ["2021-06-16T11:04:55.406929+00:00", 3599, "Your mother is", "diurnal", "Pronunciation: /da\u026a\u02c8\u025crn\u0259l/", "Definition: having a daily cycle or occurring every day", ""]}
