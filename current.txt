@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T19:44:55.374898+00:00", 3651, "Your mother is", "anachronic", "Pronunciation: /\u02cc\u00e6n\u0259\u02c8kr\u0251n\u026ak/", "Definition: chronologically misplaced", "Synonyms: anachronistic, anachronous"]}
+{"data": ["2021-06-16T19:54:55.336052+00:00", 3652, "Your mother is", "correctable", "Similar to: corrigible", "Definition: capable of being corrected by additions", "Synonyms: amendable"]}
