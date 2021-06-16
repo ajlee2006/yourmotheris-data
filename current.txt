@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T13:34:55.525732+00:00", 3614, "Your mother is", "mandatory", "Pronunciation: /\u02c8m\u00e6nd\u0259\u02ccto\u028ari/", "Definition: required by rule", "Synonyms: compulsory, required"]}
+{"data": ["2021-06-16T13:44:55.438488+00:00", 3615, "Your mother is", "mental", "Pronunciation: /\u02c8m\u025bnt\u0259l/", "Definition: of or relating to the chin or median part of the lower jaw", "Synonyms: genial"]}
