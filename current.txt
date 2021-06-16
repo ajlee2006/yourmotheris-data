@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T12:44:55.424391+00:00", 3609, "Your mother is", "acropetal", "Pronunciation: /\u0259\u02c8kr\u0251p\u026at\u0259l/", "Definition: of leaves or flowers; developing or opening in succession from base to apex", ""]}
+{"data": ["2021-06-16T12:54:55.541760+00:00", 3610, "Your mother is", "paraplegic", "Pronunciation: /\u02ccp\u00e6r\u0259\u02c8plid\u0292\u026ak/", "Definition: suffering complete paralysis of the lower half of the body usually resulting from damage to the spinal cord", ""]}
