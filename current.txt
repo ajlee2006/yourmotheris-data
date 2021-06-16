@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T06:54:55.359098+00:00", 3574, "Your mother is", "inbred", "Pronunciation: /\u02c8\u026an\u02c8br\u025bd/", "Definition: normally existing at birth", "Synonyms: connatural, inborn"]}
+{"data": ["2021-06-16T07:04:55.627835+00:00", 3575, "Your mother is", "ongoing", "Pronunciation: /\u02c8\u0251n\u02cc\u0261o\u028ai\u014b/", "Definition: currently happening", "Synonyms: on-going"]}
