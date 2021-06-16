@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T06:34:55.328573+00:00", 3572, "Your mother is", "unmitigated", "Pronunciation: /\u0259n\u02c8m\u026at\u0259\u02cc\u0261e\u026at\u026ad/", "Definition: not diminished or moderated in intensity or severity; sometimes used as an intensifier", ""]}
+{"data": ["2021-06-16T06:44:55.481986+00:00", 3573, "Your mother is", "fourscore", "Pronunciation: /\u02c8fo\u028ar\u02c8sko\u028ar/", "Definition: being ten more than seventy", "Synonyms: 80, eighty, lxxx"]}
