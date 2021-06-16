@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T09:34:55.393572+00:00", 3590, "Your mother is", "apologetic", "Pronunciation: /\u0259\u02ccp\u0251l\u0259\u02c8d\u0292\u025bt\u026ak/", "Definition: offering or expressing apology", "Synonyms: excusatory"]}
+{"data": ["2021-06-16T09:44:55.429941+00:00", 3591, "Your mother is", "darned", "Pronunciation: /d\u0251rnd/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blasted, blessed, damn, damned, deuced, goddam, goddamn, goddamned, infernal"]}
