@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T08:44:55.353168+00:00", 3585, "Your mother is", "unmedical", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: nonmedicinal, unmedicative, unmedicinal"]}
+{"data": ["2021-06-16T08:54:55.323441+00:00", 3586, "Your mother is", "classified", "Pronunciation: /\u02c8kl\u00e6s\u0259\u02ccfa\u026ad/", "Definition: arranged into classes", ""]}
