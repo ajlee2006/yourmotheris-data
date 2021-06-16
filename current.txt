@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T04:00:14.030254+00:00", 3557, "Your mother is", "shabby", "Pronunciation: /\u02c8\u0283\u00e6bi/", "Definition: showing signs of wear and tear", "Synonyms: moth-eaten, ratty, tatty"]}
+{"data": ["2021-06-16T04:10:13.841759+00:00", 3558, "Your mother is", "vapid", "Pronunciation: /\u02c8v\u00e6p\u026ad/", "Definition: lacking taste or flavor or tang", "Synonyms: bland, flat, flavorless, flavourless, insipid, savorless, savourless"]}
