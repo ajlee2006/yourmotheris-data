@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T18:14:55.308008+00:00", 3642, "Your mother is", "eighty-fifth", "Pronunciation: /\u02c8e\u026ati-f\u026af\u03b8/", "Definition: the ordinal number of eighty-five in counting order", "Synonyms: 85th"]}
+{"data": ["2021-06-16T18:24:55.307640+00:00", 3643, "Your mother is", "head-to-head", "Similar to: private", "Definition: involving two persons; intimately private", "Synonyms: tete-a-tete"]}
