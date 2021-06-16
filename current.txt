@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T11:54:55.485832+00:00", 3604, "Your mother is", "contrary", "Pronunciation: /\u02c8k\u0251ntr\u025bri/", "Definition: in an opposing direction", "Synonyms: adverse"]}
+{"data": ["2021-06-16T12:04:55.365844+00:00", 3605, "Your mother is", "mechanistic", "Pronunciation: /\u02ccm\u025bk\u0259\u02c8n\u026ast\u026ak/", "Definition: explained in terms of physical forces", ""]}
