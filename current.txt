@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T02:40:14.316077+00:00", 3549, "Your mother is", "inextricable", "Pronunciation: /\u026an\u02c8\u025bkstr\u0259k\u0259b\u0259l/", "Definition: not permitting extrication; incapable of being disentangled or untied", ""]}
+{"data": ["2021-06-16T02:50:13.751167+00:00", 3550, "Your mother is", "dead on target", "Similar to: accurate", "Definition: accurately placed or thrown", "Synonyms: true"]}
