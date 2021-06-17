@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T09:31:49.764930+00:00", 3733, "Your mother is", "crystallized", "Pronunciation: /\u02c8kr\u026ast\u028c\u02ccla\u026azd/", "Definition: having both internal structure and external form of a crystal", "Synonyms: crystalised"]}
+{"data": ["2021-06-17T09:41:49.877658+00:00", 3734, "Your mother is", "welcome", "Pronunciation: /\u02c8w\u025blk\u0259m/", "Definition: giving pleasure or satisfaction or received with pleasure or freely granted", ""]}
