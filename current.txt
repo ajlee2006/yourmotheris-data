@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T03:14:55.394782+00:00", 3696, "Your mother is", "inducive", "Similar to: causative", "Definition: inducing or influencing; leading on", "Synonyms: inductive"]}
+{"data": ["2021-06-17T03:24:55.305961+00:00", 3697, "Your mother is", "immotile", "Pronunciation: /\u026a\u02c8mo\u028at\u0259l/", "Definition: (of spores or microorganisms) not capable of movement", "Synonyms: nonmotile"]}
