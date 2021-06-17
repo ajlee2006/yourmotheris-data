@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T09:51:49.634140+00:00", 3735, "Your mother is", "prideful", "Similar to: proud", "Definition: having or showing arrogant superiority to and disdain of those one views as unworthy", "Synonyms: disdainful, haughty, imperious, lordly, overbearing, sniffy, supercilious, swaggering"]}
+{"data": ["2021-06-17T10:01:49.893722+00:00", 3736, "Your mother is", "hedonic", "Pronunciation: /hi\u02c8d\u0251n\u026ak/", "Definition: devoted to pleasure", "Synonyms: epicurean, hedonistic"]}
