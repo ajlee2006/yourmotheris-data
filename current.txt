@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T23:01:49.905175+00:00", 3814, "Your mother is", "ready-cooked", "Similar to: cooked", "Definition: cooked in such a way as to be ready for sale", ""]}
+{"data": ["2021-06-17T23:11:49.828313+00:00", 3815, "Your mother is", "jubilant", "Pronunciation: /\u02c8d\u0292ub\u0259l\u0259nt/", "Definition: full of high-spirited delight", "Synonyms: elated, gleeful, joyful"]}
