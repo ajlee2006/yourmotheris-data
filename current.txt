@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T08:51:49.760751+00:00", 3729, "Your mother is", "dozen", "Pronunciation: /\u02c8d\u0259z\u0259n/", "Definition: denoting a quantity consisting of 12 items or units", "Synonyms: 12, twelve, xii"]}
+{"data": ["2021-06-17T09:01:49.787817+00:00", 3730, "Your mother is", "maxillofacial", "", "Definition: of or relating to the upper jaw and face (particularly with reference to specialized surgery of the maxilla)", ""]}
