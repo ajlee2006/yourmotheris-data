@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T18:11:49.795752+00:00", 3785, "Your mother is", "ninety-five", "Pronunciation: /\u02c8na\u026anti-fa\u026av/", "Definition: being five more than ninety", "Synonyms: 95, xcv"]}
+{"data": ["2021-06-17T18:21:49.783154+00:00", 3786, "Your mother is", "left-wing", "Pronunciation: /l\u025bft-w\u026a\u014b/", "Definition: believing in or supporting tenets of the political left", "Synonyms: left-of-center, leftist"]}
