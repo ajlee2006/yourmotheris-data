@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T05:34:55.300510+00:00", 3710, "Your mother is", "patrician", "Pronunciation: /p\u0259\u02c8tr\u026a\u0283\u0259n/", "Definition: belonging to or characteristic of the nobility or aristocracy", "Synonyms: aristocratic, aristocratical, blue, blue-blooded, gentle"]}
+{"data": ["2021-06-17T05:51:49.710564+00:00", 3711, "Your mother is", "frost-bound", "Pronunciation: /fr\u0254st-ba\u028and/", "Definition: (of the ground) made hard by frost", ""]}
