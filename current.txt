@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T21:41:49.794918+00:00", 3806, "Your mother is", "grassy-leaved", "Pronunciation: /\u02c8gr\u00e6si-livd/", "Definition: having leaves that resemble grass", "Synonyms: grassy-leafed"]}
+{"data": ["2021-06-17T21:51:49.684228+00:00", 3807, "Your mother is", "cerebral", "Pronunciation: /\u02c8s\u025br\u0259br\u0259l/", "Definition: involving intelligence rather than emotions or instinct", "Synonyms: intellectual"]}
