@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T14:51:49.751459+00:00", 3765, "Your mother is", "ill-natured", "Pronunciation: /\u02c8\u026al\u02c8ne\u026a\u02a7\u0259rd/", "Definition: having an irritable and unpleasant disposition", ""]}
+{"data": ["2021-06-17T15:01:49.745698+00:00", 3766, "Your mother is", "grazed", "Pronunciation: /\u0261re\u026azd/", "Definition: scraped or touched lightly in passing", ""]}
