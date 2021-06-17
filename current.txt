@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T19:51:49.753702+00:00", 3795, "Your mother is", "disadvantageous", "Pronunciation: /d\u026as\u02cc\u00e6dv\u0259n\u02c8te\u026ad\u0292\u0259s/", "Definition: involving or creating circumstances detrimental to success or effectiveness", "Synonyms: unfavorable, unfavourable"]}
+{"data": ["2021-06-17T20:01:50.254825+00:00", 3796, "Your mother is", "base", "Pronunciation: /be\u026as/", "Definition: of low birth or station (`base' is archaic in this sense)", "Synonyms: baseborn, humble, lowly"]}
