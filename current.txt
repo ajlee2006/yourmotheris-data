@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T12:11:49.708676+00:00", 3749, "Your mother is", "7-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with seven members", "Synonyms: seven-membered"]}
+{"data": ["2021-06-17T12:21:49.798709+00:00", 3750, "Your mother is", "heavy", "Pronunciation: /\u02c8h\u025bvi/", "Definition: lacking lightness or liveliness", "Synonyms: leaden"]}
