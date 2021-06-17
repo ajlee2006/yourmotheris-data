@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T05:04:55.504494+00:00", 3707, "Your mother is", "corrupt", "Pronunciation: /k\u0259\u02c8r\u0259pt/", "Definition: containing errors or alterations", "Synonyms: corrupted"]}
+{"data": ["2021-06-17T05:14:55.329816+00:00", 3708, "Your mother is", "endemical", "Similar to: enzootic", "Definition: of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality", "Synonyms: endemic"]}
