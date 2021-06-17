@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T04:04:55.449894+00:00", 3701, "Your mother is", "monarchal", "Pronunciation: /m\u0259\u02c8n\u0251rk\u0259l/", "Definition: having the characteristics of or befitting or worthy of a monarch", "Synonyms: monarchical"]}
+{"data": ["2021-06-17T04:14:55.291976+00:00", 3702, "Your mother is", "filariid", "Pronunciation: /f\u026a\u02c8l\u025cri\u026ad/", "Definition: of or relating to or belonging to the family Filariidae", ""]}
