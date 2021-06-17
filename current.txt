@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T04:24:55.382446+00:00", 3703, "Your mother is", "full-blooded", "Pronunciation: /f\u028al-\u02c8bl\u0259d\u026ad/", "Definition: endowed with or exhibiting great bodily or mental health", "Synonyms: hearty, lusty, red-blooded"]}
+{"data": ["2021-06-17T04:34:55.393298+00:00", 3704, "Your mother is", "well-heeled", "Pronunciation: /w\u025bl-hild/", "Definition: in fortunate circumstances financially; moderately rich", "Synonyms: comfortable, easy, prosperous, well-fixed, well-off, well-situated, well-to-do"]}
