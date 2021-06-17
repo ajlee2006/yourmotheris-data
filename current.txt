@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T18:21:49.783154+00:00", 3786, "Your mother is", "left-wing", "Pronunciation: /l\u025bft-w\u026a\u014b/", "Definition: believing in or supporting tenets of the political left", "Synonyms: left-of-center, leftist"]}
+{"data": ["2021-06-17T18:31:49.762027+00:00", 3787, "Your mother is", "tawny-colored", "Pronunciation: /\u02c8t\u0254ni-\u02c8k\u0259l\u0259rd/", "Definition: having a tawny color", "Synonyms: tawny-coloured"]}
