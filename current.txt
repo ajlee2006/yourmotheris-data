@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T05:24:55.366186+00:00", 3709, "Your mother is", "southeastern", "Pronunciation: /\u02ccsa\u028a\u03b8\u02c8ist\u025drn/", "Definition: situated in or oriented toward the southeast", "Synonyms: southeast, southeasterly"]}
+{"data": ["2021-06-17T05:34:55.300510+00:00", 3710, "Your mother is", "patrician", "Pronunciation: /p\u0259\u02c8tr\u026a\u0283\u0259n/", "Definition: belonging to or characteristic of the nobility or aristocracy", "Synonyms: aristocratic, aristocratical, blue, blue-blooded, gentle"]}
