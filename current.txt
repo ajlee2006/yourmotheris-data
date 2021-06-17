@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T16:31:49.846849+00:00", 3775, "Your mother is", "metonymic", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8n\u026am\u026ak/", "Definition: using the name of one thing for that of another with which it is closely associated", "Synonyms: metonymical"]}
+{"data": ["2021-06-17T16:41:49.916231+00:00", 3776, "Your mother is", "fatheaded", "Similar to: stupid", "Definition: (used informally) stupid", "Synonyms: blockheaded, boneheaded, duncical, duncish, loggerheaded, thick, thick-skulled, thickheaded, wooden-headed"]}
