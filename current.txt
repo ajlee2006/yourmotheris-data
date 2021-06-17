@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T22:31:49.821745+00:00", 3811, "Your mother is", "eponymic", "", "Definition: being or relating to or bearing the name of an eponym", "Synonyms: eponymous"]}
+{"data": ["2021-06-17T22:41:49.830345+00:00", 3812, "Your mother is", "calvinistic", "", "Definition: of or relating to or characteristic of Calvinism or its adherents", "Synonyms: calvinist, calvinistical"]}
