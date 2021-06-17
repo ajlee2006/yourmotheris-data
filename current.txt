@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T15:41:49.789437+00:00", 3770, "Your mother is", "costly", "Pronunciation: /\u02c8k\u0254stli/", "Definition: entailing great loss or sacrifice", "Synonyms: dearly-won"]}
+{"data": ["2021-06-17T15:51:49.882856+00:00", 3771, "Your mother is", "upwind", "Pronunciation: /\u02c8\u0259p\u02ccw\u026and/", "Definition: towards the side exposed to wind", "Synonyms: weather"]}
