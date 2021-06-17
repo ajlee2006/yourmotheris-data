@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T00:44:55.418673+00:00", 3681, "Your mother is", "striped", "Pronunciation: /stra\u026apt/", "Definition: marked or decorated with stripes", "Synonyms: stripy"]}
+{"data": ["2021-06-17T00:54:55.400835+00:00", 3682, "Your mother is", "tined", "Similar to: divided", "Definition: having prongs or tines; usually used in combination", "Synonyms: pronged"]}
