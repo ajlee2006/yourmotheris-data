@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T00:24:55.322313+00:00", 3679, "Your mother is", "telepathic", "Pronunciation: /\u02cct\u025bl\u0259\u02c8p\u00e6\u03b8\u026ak/", "Definition: communicating without apparent physical signals", ""]}
+{"data": ["2021-06-17T00:34:55.396046+00:00", 3680, "Your mother is", "unclimbable", "Similar to: impassable", "Definition: incapable of being surmounted or climbed", "Synonyms: unsurmountable"]}
