@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T13:51:49.837291+00:00", 3759, "Your mother is", "suspended", "Pronunciation: /s\u028c\u02c8sp\u025bnd\u028cd/", "Definition: (of undissolved particles in a fluid) supported or kept from sinking or falling by buoyancy and without apparent attachment", ""]}
+{"data": ["2021-06-17T14:01:49.728190+00:00", 3760, "Your mother is", "misappropriated", "Pronunciation: /\u02ccm\u026as\u028c\u02c8pro\u028apri\u02cce\u026at\u026ad/", "Definition: taken for your own use in violation of a trust", "Synonyms: embezzled"]}
