@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T20:01:50.254825+00:00", 3796, "Your mother is", "base", "Pronunciation: /be\u026as/", "Definition: of low birth or station (`base' is archaic in this sense)", "Synonyms: baseborn, humble, lowly"]}
+{"data": ["2021-06-17T20:11:50.184859+00:00", 3797, "Your mother is", "stuck", "Pronunciation: /st\u0259k/", "Definition: baffled", ""]}
