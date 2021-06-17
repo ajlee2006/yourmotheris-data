@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T19:01:49.747480+00:00", 3790, "Your mother is", "dysfunctional", "Pronunciation: /d\u026as\u02c8f\u028c\u014bk\u0283\u028cn\u028cl/", "Definition: (of a trait or condition) failing to serve an adjustive purpose", "Synonyms: nonadaptive"]}
+{"data": ["2021-06-17T19:11:49.753345+00:00", 3791, "Your mother is", "umbrella-shaped", "Pronunciation: /\u0259m\u02c8br\u025bl\u0259-\u0283e\u026apt/", "Definition: shaped in the form of an umbrella", ""]}
