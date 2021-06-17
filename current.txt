@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T17:41:50.001307+00:00", 3782, "Your mother is", "deltoid", "Pronunciation: /\u02c8d\u025blt\u0254\u026ad/", "Definition: triangular or suggesting a capital delta, with a point at the apex", ""]}
+{"data": ["2021-06-17T17:51:49.736414+00:00", 3783, "Your mother is", "convergent", "Pronunciation: /k\u0259n\u02c8v\u025crd\u0292\u0259nt/", "Definition: tending to come together from different directions", ""]}
