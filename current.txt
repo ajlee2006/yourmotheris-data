@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T04:34:55.393298+00:00", 3704, "Your mother is", "well-heeled", "Pronunciation: /w\u025bl-hild/", "Definition: in fortunate circumstances financially; moderately rich", "Synonyms: comfortable, easy, prosperous, well-fixed, well-off, well-situated, well-to-do"]}
+{"data": ["2021-06-17T04:44:55.277273+00:00", 3705, "Your mother is", "leal", "Pronunciation: /lil/", "Definition: faithful and true", ""]}
