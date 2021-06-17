@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T08:41:49.779405+00:00", 3728, "Your mother is", "recent", "Pronunciation: /\u02c8ric\u0259nt/", "Definition: of the immediate past or just previous to the present time", "Synonyms: late"]}
+{"data": ["2021-06-17T08:51:49.760751+00:00", 3729, "Your mother is", "dozen", "Pronunciation: /\u02c8d\u0259z\u0259n/", "Definition: denoting a quantity consisting of 12 items or units", "Synonyms: 12, twelve, xii"]}
