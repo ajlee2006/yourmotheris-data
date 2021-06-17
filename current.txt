@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T01:34:55.336420+00:00", 3686, "Your mother is", "numerous", "Pronunciation: /\u02c8num\u0259r\u0259s/", "Definition: amounting to a large indefinite number", "Synonyms: legion"]}
+{"data": ["2021-06-17T01:44:55.296619+00:00", 3687, "Your mother is", "propertied", "Pronunciation: /\u02c8pr\u0251p\u0259rtid/", "Definition: owning land or securities as a principal source of revenue", "Synonyms: property-owning"]}
