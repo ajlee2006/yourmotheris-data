@@ -1,1 +1,1 @@
-{"data": ["2021-06-16T23:54:55.341408+00:00", 3676, "Your mother is", "planoconvex", "Pronunciation: /\u02ccple\u026ano\u028a\u02c8k\u0251nv\u025bks/", "Definition: flat on one side and convex on the other", ""]}
+{"data": ["2021-06-17T00:04:55.428271+00:00", 3677, "Your mother is", "curling", "Pronunciation: /\u02c8k\u025crl\u026a\u014b/", "Definition: (of hair) making curls or having been made to curl", "Synonyms: curled"]}
