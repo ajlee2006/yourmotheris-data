@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T02:24:55.448314+00:00", 3691, "Your mother is", "boggy", "Similar to: wet", "Definition: (of soil) soft and watery", "Synonyms: marshy, miry, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, swampy, waterlogged"]}
+{"data": ["2021-06-17T02:34:55.365118+00:00", 3692, "Your mother is", "inward-developing", "Similar to: centripetal", "Definition: toward an axis, as in a sunflower; the oldest flowers are near the edge, the youngest in the center", ""]}
