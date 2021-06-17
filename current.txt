@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T05:14:55.329816+00:00", 3708, "Your mother is", "endemical", "Similar to: enzootic", "Definition: of or relating to a disease (or anything resembling a disease) constantly present to greater or lesser extent in a particular locality", "Synonyms: endemic"]}
+{"data": ["2021-06-17T05:24:55.366186+00:00", 3709, "Your mother is", "southeastern", "Pronunciation: /\u02ccsa\u028a\u03b8\u02c8ist\u025drn/", "Definition: situated in or oriented toward the southeast", "Synonyms: southeast, southeasterly"]}
