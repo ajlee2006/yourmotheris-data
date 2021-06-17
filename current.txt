@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T14:11:49.798698+00:00", 3761, "Your mother is", "biting", "Pronunciation: /\u02c8ba\u026at\u026a\u014b/", "Definition: causing a sharply painful or stinging sensation; used especially of cold", "Synonyms: bitter"]}
+{"data": ["2021-06-17T14:21:49.800359+00:00", 3762, "Your mother is", "trifoliolate", "Pronunciation: /tra\u026a\u02c8fo\u028ali\u0259\u02ccle\u026at/", "Definition: (of a leaf shape) having three leaflets", "Synonyms: trifoliate, trifoliated"]}
