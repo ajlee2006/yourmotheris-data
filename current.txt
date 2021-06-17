@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T06:31:49.705247+00:00", 3715, "Your mother is", "artsy-craftsy", "Pronunciation: /\u02c8\u0251rtsi\u02c8kr\u00e6ftsi/", "Definition: pretentiously artistic; cloyingly charming", "Synonyms: arty-crafty"]}
+{"data": ["2021-06-17T06:41:49.716623+00:00", 3716, "Your mother is", "cx", "Similar to: cardinal", "Definition: being ten more than one hundred", "Synonyms: 110, one hundred ten"]}
