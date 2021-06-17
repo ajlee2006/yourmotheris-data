@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T19:11:49.753345+00:00", 3791, "Your mother is", "umbrella-shaped", "Pronunciation: /\u0259m\u02c8br\u025bl\u0259-\u0283e\u026apt/", "Definition: shaped in the form of an umbrella", ""]}
+{"data": ["2021-06-17T19:21:49.768353+00:00", 3792, "Your mother is", "coordinate", "Pronunciation: /ko\u028a\u02c8\u0254rd\u0259n\u026at/", "Definition: of equal importance, rank, or degree", ""]}
