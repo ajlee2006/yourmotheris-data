@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T04:44:55.277273+00:00", 3705, "Your mother is", "leal", "Pronunciation: /lil/", "Definition: faithful and true", ""]}
+{"data": ["2021-06-17T04:54:55.333051+00:00", 3706, "Your mother is", "certificated", "Similar to: certified", "Definition: furnished with or authorized by a certificate:", ""]}
