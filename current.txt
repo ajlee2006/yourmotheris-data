@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T03:24:55.305961+00:00", 3697, "Your mother is", "immotile", "Pronunciation: /\u026a\u02c8mo\u028at\u0259l/", "Definition: (of spores or microorganisms) not capable of movement", "Synonyms: nonmotile"]}
+{"data": ["2021-06-17T03:34:55.522060+00:00", 3698, "Your mother is", "impassable", "Pronunciation: /\u026am\u02c8p\u00e6s\u0259b\u0259l/", "Definition: incapable of being passed", "Synonyms: unpassable"]}
