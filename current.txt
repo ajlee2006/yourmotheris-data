@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T23:31:49.764328+00:00", 3817, "Your mother is", "lineal", "Pronunciation: /\u02c8l\u026ani\u0259l/", "Definition: in a straight unbroken line of descent from parent to child", "Synonyms: direct"]}
+{"data": ["2021-06-17T23:41:49.991218+00:00", 3818, "Your mother is", "identifiable", "Pronunciation: /a\u026a\u02c8d\u025bnt\u028c\u02ccfa\u026a\u028cb\u028cl/", "Definition: capable of being identified", ""]}
