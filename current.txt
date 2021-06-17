@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T15:11:49.979939+00:00", 3767, "Your mother is", "untapped", "Pronunciation: /\u0259n\u02c8t\u00e6pt/", "Definition: not drawn upon or used", ""]}
+{"data": ["2021-06-17T15:21:49.767010+00:00", 3768, "Your mother is", "wild", "Pronunciation: /wa\u026ald/", "Definition: without civilizing influences", "Synonyms: barbarian, barbaric, savage, uncivilised, uncivilized"]}
