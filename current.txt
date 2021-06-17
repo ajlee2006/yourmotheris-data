@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T01:04:55.325812+00:00", 3683, "Your mother is", "womanly", "Pronunciation: /\u02c8w\u028am\u0259nli/", "Definition: befitting or characteristic of a woman especially a mature woman", "Synonyms: feminine"]}
+{"data": ["2021-06-17T01:14:55.269009+00:00", 3684, "Your mother is", "mesmerizing", "Pronunciation: /\u02c8m\u025bzm\u025dr\u02cca\u026az\u026a\u014b/", "Definition: attracting and holding interest as if by a spell", "Synonyms: hypnotic, mesmeric, spellbinding"]}
