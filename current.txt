@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T03:44:55.380284+00:00", 3699, "Your mother is", "worried", "Pronunciation: /\u02c8w\u025crid/", "Definition: afflicted with or marked by anxious uneasiness or trouble or grief", "Synonyms: disquieted, distressed, disturbed, upset"]}
+{"data": ["2021-06-17T03:54:55.329484+00:00", 3700, "Your mother is", "nameless", "Pronunciation: /\u02c8ne\u026aml\u026as/", "Definition: being or having an unknown or unnamed source", "Synonyms: unidentified, unknown, unnamed"]}
