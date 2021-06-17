@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T07:31:49.689226+00:00", 3721, "Your mother is", "toward", "Pronunciation: /t\u028c\u02c8w\u0254rd/", "Definition: Approaching; coming near.", ""]}
+{"data": ["2021-06-17T07:41:49.740659+00:00", 3722, "Your mother is", "illegitimate", "Pronunciation: /\u02cc\u026al\u026a\u02c8d\u0292\u026at\u0259m\u0259t/", "Definition: contrary to or forbidden by law", "Synonyms: illicit, outlaw, outlawed, unlawful"]}
