@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T11:21:49.773534+00:00", 3744, "Your mother is", "encouraging", "Pronunciation: /\u025bn\u02c8k\u025dr\u026ad\u0292\u026a\u014b/", "Definition: furnishing support and encouragement", "Synonyms: supporting"]}
+{"data": ["2021-06-17T11:31:49.904349+00:00", 3745, "Your mother is", "heathen", "Pronunciation: /\u02c8hi\u00f0\u0259n/", "Definition: not acknowledging the God of Christianity and Judaism and Islam", "Synonyms: ethnic, heathenish, pagan"]}
