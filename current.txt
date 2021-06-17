@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T10:01:49.893722+00:00", 3736, "Your mother is", "hedonic", "Pronunciation: /hi\u02c8d\u0251n\u026ak/", "Definition: devoted to pleasure", "Synonyms: epicurean, hedonistic"]}
+{"data": ["2021-06-17T10:11:49.807198+00:00", 3737, "Your mother is", "unconscientious", "Similar to: conscienceless", "Definition: not conscientious", ""]}
