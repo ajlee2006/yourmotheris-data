@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T22:01:49.903056+00:00", 3808, "Your mother is", "ductile", "Pronunciation: /\u02c8d\u0259kt\u0259l/", "Definition: easily influenced", "Synonyms: malleable"]}
+{"data": ["2021-06-17T22:11:49.730672+00:00", 3809, "Your mother is", "tellurian", "Pronunciation: /t\u025b\u02c8l\u028ari\u0259n/", "Definition: of or relating to or inhabiting the land as opposed to the sea or air", "Synonyms: telluric, terrene, terrestrial"]}
