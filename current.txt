@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T02:14:55.360435+00:00", 3690, "Your mother is", "enormous", "Pronunciation: /\u026a\u02c8n\u0254rm\u0259s/", "Definition: extraordinarily large in size or extent or amount or power or degree", "Synonyms: tremendous"]}
+{"data": ["2021-06-17T02:24:55.448314+00:00", 3691, "Your mother is", "boggy", "Similar to: wet", "Definition: (of soil) soft and watery", "Synonyms: marshy, miry, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, swampy, waterlogged"]}
