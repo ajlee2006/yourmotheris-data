@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T14:41:49.723533+00:00", 3764, "Your mother is", "casebook", "Pronunciation: /\u02c8ke\u026as\u02ccb\u028ak/", "Definition: according to or characteristic of a casebook or textbook; typical", "Synonyms: textbook"]}
+{"data": ["2021-06-17T14:51:49.751459+00:00", 3765, "Your mother is", "ill-natured", "Pronunciation: /\u02c8\u026al\u02c8ne\u026a\u02a7\u0259rd/", "Definition: having an irritable and unpleasant disposition", ""]}
