@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T20:21:50.201018+00:00", 3798, "Your mother is", "architectonic", "Pronunciation: /\u02cc\u0251rk\u026at\u025bk\u02c8t\u0251n\u026ak/", "Definition: of or pertaining to construction or architecture", "Synonyms: tectonic"]}
+{"data": ["2021-06-17T20:31:49.865094+00:00", 3799, "Your mother is", "risky", "Pronunciation: /\u02c8r\u026aski/", "Definition: involving risk or danger", "Synonyms: hazardous, wild"]}
