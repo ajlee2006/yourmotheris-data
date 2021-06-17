@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T06:21:49.788861+00:00", 3714, "Your mother is", "monophonic", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8f\u0251n\u026ak/", "Definition: designating sound transmission or recording or reproduction over a single channel", "Synonyms: mono, single-channel"]}
+{"data": ["2021-06-17T06:31:49.705247+00:00", 3715, "Your mother is", "artsy-craftsy", "Pronunciation: /\u02c8\u0251rtsi\u02c8kr\u00e6ftsi/", "Definition: pretentiously artistic; cloyingly charming", "Synonyms: arty-crafty"]}
