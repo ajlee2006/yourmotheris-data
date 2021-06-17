@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T17:31:49.866250+00:00", 3781, "Your mother is", "mousy", "Pronunciation: /\u02c8ma\u028asi/", "Definition: of something having a drab pale brown color resembling a mouse", "Synonyms: mouse-colored, mouselike, mousey"]}
+{"data": ["2021-06-17T17:41:50.001307+00:00", 3782, "Your mother is", "deltoid", "Pronunciation: /\u02c8d\u025blt\u0254\u026ad/", "Definition: triangular or suggesting a capital delta, with a point at the apex", ""]}
