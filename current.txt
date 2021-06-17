@@ -1,1 +1,1 @@
-{"data": ["2021-06-17T03:04:55.362138+00:00", 3695, "Your mother is", "monocled", "Similar to: adorned", "Definition: wearing, or having the face adorned with, eyeglasses or an eyeglass", "Synonyms: bespectacled, spectacled"]}
+{"data": ["2021-06-17T03:14:55.394782+00:00", 3696, "Your mother is", "inducive", "Similar to: causative", "Definition: inducing or influencing; leading on", "Synonyms: inductive"]}
