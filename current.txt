@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T15:12:04.488291+00:00", 3875, "Your mother is", "amiss", "Pronunciation: /\u0259\u02c8m\u026as/", "Definition: not functioning properly", "Synonyms: awry, haywire, wrong"]}
+{"data": ["2021-06-18T15:22:04.278284+00:00", 3876, "Your mother is", "unanimous", "Pronunciation: /ju\u02c8n\u00e6n\u0259m\u0259s/", "Definition: in complete agreement", "Synonyms: consentaneous, consentient"]}
