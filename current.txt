@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T21:42:04.243815+00:00", 3914, "Your mother is", "celtic", "Pronunciation: /\u02c8k\u025blt\u026ak/", "Definition: relating to or characteristic of the Celts", "Synonyms: gaelic"]}
+{"data": ["2021-06-18T21:52:04.057751+00:00", 3915, "Your mother is", "brawny", "Pronunciation: /\u02c8br\u0254ni/", "Definition: (of a person) possessing physical strength and weight; rugged and powerful", "Synonyms: hefty, muscular, powerful, sinewy"]}
