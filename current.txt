@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T22:32:04.135962+00:00", 3919, "Your mother is", "axiomatical", "", "Definition: of or relating to or derived from axioms", "Synonyms: axiomatic, postulational"]}
+{"data": ["2021-06-18T22:42:03.992969+00:00", 3920, "Your mother is", "peripatetic", "Pronunciation: /\u02ccp\u025brip\u0259\u02c8t\u025bt\u026ak/", "Definition: traveling especially on foot", "Synonyms: wayfaring"]}
