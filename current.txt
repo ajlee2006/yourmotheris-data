@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T16:22:04.098667+00:00", 3882, "Your mother is", "neuronic", "Pronunciation: /n\u028a\u02c8r\u0251n\u026ak/", "Definition: of or relating to neurons", "Synonyms: neural, neuronal"]}
+{"data": ["2021-06-18T16:32:04.282717+00:00", 3883, "Your mother is", "materialistic", "Pronunciation: /m\u028c\u02cct\u026ari\u028c\u02c8l\u026ast\u026ak/", "Definition: conforming to the standards and conventions of the middle class", "Synonyms: bourgeois, conservative"]}
