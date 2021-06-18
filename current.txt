@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T12:12:04.208609+00:00", 3857, "Your mother is", "lofty", "Pronunciation: /\u02c8l\u0254fti/", "Definition: of high moral or intellectual value; elevated in nature or style", "Synonyms: elevated, exalted, grand, high-flown, high-minded, idealistic, noble-minded, rarefied, rarified, sublime"]}
+{"data": ["2021-06-18T12:22:04.098386+00:00", 3858, "Your mother is", "high-rise", "Similar to: multistorey", "Definition: used of buildings of many stories equipped with elevators; tall", ""]}
