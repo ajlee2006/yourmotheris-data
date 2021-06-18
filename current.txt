@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T10:52:04.226760+00:00", 3849, "Your mother is", "handwritten", "Pronunciation: /\u02c8h\u00e6nd\u02ccr\u026at\u028cn/", "Definition: written by hand", ""]}
+{"data": ["2021-06-18T11:02:04.176828+00:00", 3850, "Your mother is", "godly", "Pronunciation: /\u02c8\u0261\u0251dli/", "Definition: emanating from God", "Synonyms: divine"]}
