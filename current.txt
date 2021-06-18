@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T17:12:04.428613+00:00", 3887, "Your mother is", "broadside", "Pronunciation: /\u02c8br\u0254d\u02ccsa\u026ad/", "Definition: toward a full side", ""]}
+{"data": ["2021-06-18T17:22:04.409251+00:00", 3888, "Your mother is", "fivefold", "Pronunciation: /\u02c8fa\u026av\u02ccfo\u028ald/", "Definition: having five units or components", "Synonyms: five-fold, quintuple"]}
