@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T11:12:04.152424+00:00", 3851, "Your mother is", "impulsive", "Pronunciation: /\u026am\u02c8p\u0259ls\u026av/", "Definition: determined by chance or impulse or whim rather than by necessity or reason", "Synonyms: capricious, whimsical"]}
+{"data": ["2021-06-18T11:22:04.210093+00:00", 3852, "Your mother is", "deceased", "Pronunciation: /d\u026a\u02c8sist/", "Definition: dead", "Synonyms: asleep, at peace, at rest, departed, gone"]}
