@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T13:12:04.192748+00:00", 3863, "Your mother is", "halal", "Pronunciation: /h\u0251\u02c8l\u0251l/", "Definition: conforming to dietary laws", ""]}
+{"data": ["2021-06-18T13:22:04.207137+00:00", 3864, "Your mother is", "50th", "Similar to: ordinal", "Definition: the ordinal number of fifty in counting order", "Synonyms: fiftieth"]}
