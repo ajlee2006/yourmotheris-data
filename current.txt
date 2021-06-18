@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T00:31:49.730233+00:00", 3823, "Your mother is", "underarm", "Pronunciation: /\u02c8\u0259nd\u0259r\u02cc\u0251rm/", "Definition: with hand brought forward and up from below shoulder level", "Synonyms: underhand, underhanded"]}
+{"data": ["2021-06-18T00:41:49.927317+00:00", 3824, "Your mother is", "incremental", "Pronunciation: /\u02cc\u026ankr\u0259\u02c8m\u025bnt\u0259l/", "Definition: increasing gradually by regular degrees or additions", ""]}
