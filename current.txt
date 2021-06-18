@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T11:32:04.409142+00:00", 3853, "Your mother is", "tricentennial", "Pronunciation: /\u02cctra\u026as\u025bn\u02c8t\u025bni\u0259l/", "Definition: of or relating to or completing a period of 300 years", "Synonyms: tricentenary"]}
+{"data": ["2021-06-18T11:42:04.131692+00:00", 3854, "Your mother is", "voltaic", "Pronunciation: /v\u0251l\u02c8te\u026a\u026ak/", "Definition: pertaining to or producing electric current by chemical action", "Synonyms: galvanic"]}
