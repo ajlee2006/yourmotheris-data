@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T04:01:49.796062+00:00", 3844, "Your mother is", "layered", "Pronunciation: /\u02c8le\u026a\u025drd/", "Definition: with one layer on top of another", "Synonyms: superimposed"]}
+{"data": ["2021-06-18T04:11:49.708537+00:00", 3845, "Your mother is", "argumentative", "Pronunciation: /\u02cc\u0251rgj\u0259\u02c8m\u025bnt\u0259t\u026av/", "Definition: given to or characterized by argument", ""]}
