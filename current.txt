@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T17:52:04.178941+00:00", 3891, "Your mother is", "ineffective", "Pronunciation: /\u02cc\u026an\u026a\u02c8f\u025bkt\u026av/", "Definition: not producing an intended effect", "Synonyms: ineffectual, uneffective"]}
+{"data": ["2021-06-18T18:02:04.105287+00:00", 3892, "Your mother is", "fanatic", "Pronunciation: /f\u0259\u02c8n\u00e6t\u026ak/", "Definition: marked by excessive enthusiasm for and intense devotion to a cause or idea", "Synonyms: fanatical, overzealous, rabid"]}
