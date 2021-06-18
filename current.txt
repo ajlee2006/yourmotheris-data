@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T20:02:04.181334+00:00", 3904, "Your mother is", "thunderstruck", "Pronunciation: /\u02c8\u03b8\u0259nd\u0259r\u02ccstr\u0259k/", "Definition: as if struck dumb with astonishment and surprise", "Synonyms: dumbfounded, dumbstricken, dumbstruck, dumfounded, flabbergasted, stupefied"]}
+{"data": ["2021-06-18T20:12:04.230864+00:00", 3905, "Your mother is", "differential", "Pronunciation: /\u02ccd\u026af\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: involving or containing one or more derivatives", ""]}
