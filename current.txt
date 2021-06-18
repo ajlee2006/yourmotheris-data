@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T03:01:50.082108+00:00", 3838, "Your mother is", "blended", "Pronunciation: /\u02c8bl\u025bnd\u028cd/", "Definition: combined or mixed together so that the constituent parts are indistinguishable", ""]}
+{"data": ["2021-06-18T03:11:49.657868+00:00", 3839, "Your mother is", "unperceivable", "Similar to: indiscernible", "Definition: impossible or difficult to perceive by the mind or senses", "Synonyms: imperceptible"]}
