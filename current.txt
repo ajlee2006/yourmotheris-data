@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T15:22:04.278284+00:00", 3876, "Your mother is", "unanimous", "Pronunciation: /ju\u02c8n\u00e6n\u0259m\u0259s/", "Definition: in complete agreement", "Synonyms: consentaneous, consentient"]}
+{"data": ["2021-06-18T15:32:04.496863+00:00", 3877, "Your mother is", "frank", "Pronunciation: /fR\u0251nk/", "Definition: characterized by directness in manner or speech; without subtlety or evasion", "Synonyms: blunt, candid, forthright, free-spoken, outspoken, plainspoken, point-blank, straight-from-the-shoulder"]}
