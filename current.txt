@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T22:42:03.992969+00:00", 3920, "Your mother is", "peripatetic", "Pronunciation: /\u02ccp\u025brip\u0259\u02c8t\u025bt\u026ak/", "Definition: traveling especially on foot", "Synonyms: wayfaring"]}
+{"data": ["2021-06-18T22:52:03.913615+00:00", 3921, "Your mother is", "elementary", "Pronunciation: /\u02cc\u025bl\u0259\u02c8m\u025bnt\u0259ri/", "Definition: of or being the essential or basic part", "Synonyms: basal, elemental, primary"]}
