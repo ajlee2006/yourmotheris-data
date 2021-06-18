@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T21:02:04.450460+00:00", 3910, "Your mother is", "hardhearted", "Pronunciation: /\u02c8h\u0251rd\u02c8h\u0251rt\u026ad/", "Definition: lacking in feeling or pity or warmth", "Synonyms: heartless"]}
+{"data": ["2021-06-18T21:12:04.330576+00:00", 3911, "Your mother is", "unorganized", "Pronunciation: /\u0259n\u02c8\u0254rg\u0259\u02ccna\u026azd/", "Definition: not affiliated in a trade union", "Synonyms: nonunionised, nonunionized, unorganised"]}
