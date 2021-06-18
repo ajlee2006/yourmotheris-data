@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T23:12:05.439466+00:00", 3923, "Your mother is", "botched", "Pronunciation: /b\u0251t\u0283t/", "Definition: spoiled through incompetence or clumsiness", "Synonyms: bungled"]}
+{"data": ["2021-06-18T23:22:04.011196+00:00", 3924, "Your mother is", "overdone", "Pronunciation: /\u02cco\u028av\u0259r\u02c8d\u0259n/", "Definition: represented as greater than is true or reasonable", "Synonyms: exaggerated, overstated"]}
