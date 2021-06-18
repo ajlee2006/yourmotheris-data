@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T13:22:04.207137+00:00", 3864, "Your mother is", "50th", "Similar to: ordinal", "Definition: the ordinal number of fifty in counting order", "Synonyms: fiftieth"]}
+{"data": ["2021-06-18T13:32:04.619395+00:00", 3865, "Your mother is", "leechlike", "Similar to: dependent", "Definition: of plants or persons; having the nature or habits of a parasite or leech; living off another", "Synonyms: bloodsucking, parasitic, parasitical"]}
