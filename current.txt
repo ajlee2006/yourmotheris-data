@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T00:51:49.825551+00:00", 3825, "Your mother is", "filial", "Pronunciation: /\u02c8f\u026ali\u0259l/", "Definition: designating the generation or the sequence of generations following the parental generation", ""]}
+{"data": ["2021-06-18T01:01:49.743417+00:00", 3826, "Your mother is", "light-sensitive", "Pronunciation: /la\u026at-\u02c8s\u025bns\u026at\u026av/", "Definition: sensitive to visible light", "Synonyms: photosensitive"]}
