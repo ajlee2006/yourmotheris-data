@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T11:02:04.176828+00:00", 3850, "Your mother is", "godly", "Pronunciation: /\u02c8\u0261\u0251dli/", "Definition: emanating from God", "Synonyms: divine"]}
+{"data": ["2021-06-18T11:12:04.152424+00:00", 3851, "Your mother is", "impulsive", "Pronunciation: /\u026am\u02c8p\u0259ls\u026av/", "Definition: determined by chance or impulse or whim rather than by necessity or reason", "Synonyms: capricious, whimsical"]}
