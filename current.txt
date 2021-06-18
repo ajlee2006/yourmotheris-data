@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T18:42:04.215120+00:00", 3896, "Your mother is", "languid", "Pronunciation: /\u02c8l\u00e6\u014bgw\u026ad/", "Definition: lacking spirit or liveliness", "Synonyms: dreamy, lackadaisical, languorous"]}
+{"data": ["2021-06-18T18:52:04.195615+00:00", 3897, "Your mother is", "heterological", "", "Definition: not corresponding in structure or evolutionary origin", "Synonyms: heterologic, heterologous"]}
