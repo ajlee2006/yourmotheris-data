@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T12:52:04.066872+00:00", 3861, "Your mother is", "digitigrade", "Pronunciation: /\u02c8d\u026ad\u0292\u026at\u0259\u02ccgre\u026ad/", "Definition: (of mammals) walking on the toes with the posterior part of the foot raised (as cats, dogs, and horses do)", ""]}
+{"data": ["2021-06-18T13:02:04.243274+00:00", 3862, "Your mother is", "lapsed", "Pronunciation: /l\u00e6pst/", "Definition: no longer active or practicing", "Synonyms: nonchurchgoing"]}
