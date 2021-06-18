@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T18:02:04.105287+00:00", 3892, "Your mother is", "fanatic", "Pronunciation: /f\u0259\u02c8n\u00e6t\u026ak/", "Definition: marked by excessive enthusiasm for and intense devotion to a cause or idea", "Synonyms: fanatical, overzealous, rabid"]}
+{"data": ["2021-06-18T18:12:04.146925+00:00", 3893, "Your mother is", "doltish", "Similar to: stupid", "Definition: heavy and dull and stupid", "Synonyms: cloddish"]}
