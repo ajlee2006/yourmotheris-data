@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T18:52:04.195615+00:00", 3897, "Your mother is", "heterological", "", "Definition: not corresponding in structure or evolutionary origin", "Synonyms: heterologic, heterologous"]}
+{"data": ["2021-06-18T19:02:04.088722+00:00", 3898, "Your mother is", "silicious", "Pronunciation: /s\u026a\u02c8l\u026a\u0283\u0259s/", "Definition: relating to or containing or resembling silica", "Synonyms: siliceous"]}
