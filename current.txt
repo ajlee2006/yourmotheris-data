@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T14:32:04.424304+00:00", 3871, "Your mother is", "76", "Similar to: cardinal", "Definition: being six more than seventy", "Synonyms: lxxvi, seventy-six"]}
+{"data": ["2021-06-18T14:42:04.439215+00:00", 3872, "Your mother is", "pathogenic", "Pronunciation: /\u02ccp\u00e6\u03b8\u0259\u02c8d\u0292\u025bn\u026ak/", "Definition: able to cause disease", "Synonyms: infective, morbific"]}
