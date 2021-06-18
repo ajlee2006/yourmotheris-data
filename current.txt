@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T11:42:04.131692+00:00", 3854, "Your mother is", "voltaic", "Pronunciation: /v\u0251l\u02c8te\u026a\u026ak/", "Definition: pertaining to or producing electric current by chemical action", "Synonyms: galvanic"]}
+{"data": ["2021-06-18T11:52:04.160209+00:00", 3855, "Your mother is", "pinwheel-shaped", "Similar to: circular", "Definition: having the round shape of a pinwheel", ""]}
