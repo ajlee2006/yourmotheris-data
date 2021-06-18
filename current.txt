@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T01:01:49.743417+00:00", 3826, "Your mother is", "light-sensitive", "Pronunciation: /la\u026at-\u02c8s\u025bns\u026at\u026av/", "Definition: sensitive to visible light", "Synonyms: photosensitive"]}
+{"data": ["2021-06-18T01:11:49.829242+00:00", 3827, "Your mother is", "suppositious", "Pronunciation: /\u02ccs\u0259p\u0259\u02c8z\u026a\u0283\u0259s/", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetic, hypothetical, supposed, suppositional, supposititious"]}
