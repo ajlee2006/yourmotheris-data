@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T16:12:04.592285+00:00", 3881, "Your mother is", "dull", "Pronunciation: /d\u0259l/", "Definition: darkened with overcast", "Synonyms: leaden"]}
+{"data": ["2021-06-18T16:22:04.098667+00:00", 3882, "Your mother is", "neuronic", "Pronunciation: /n\u028a\u02c8r\u0251n\u026ak/", "Definition: of or relating to neurons", "Synonyms: neural, neuronal"]}
