@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T03:21:49.805983+00:00", 3840, "Your mother is", "oratorical", "Pronunciation: /\u02cc\u0254r\u0259\u02c8t\u0254r\u026ak\u0259l/", "Definition: characteristic of an orator or oratory", ""]}
+{"data": ["2021-06-18T03:31:49.804011+00:00", 3841, "Your mother is", "radial", "Pronunciation: /\u02c8re\u026adi\u0259l/", "Definition: arranged like rays or radii; radiating from a common center", "Synonyms: radiate, stellate"]}
