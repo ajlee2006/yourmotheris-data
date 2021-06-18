@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T23:32:04.433082+00:00", 3925, "Your mother is", "cl", "Similar to: cardinal", "Definition: being ten more than one hundred forty", "Synonyms: 150, one hundred fifty"]}
+{"data": ["2021-06-18T23:42:04.104098+00:00", 3926, "Your mother is", "rambling", "Pronunciation: /\u02c8r\u00e6mbl\u026a\u014b/", "Definition: spreading out in different directions or distributed irregularly", "Synonyms: sprawling, straggling, straggly"]}
