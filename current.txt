@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T03:41:49.837207+00:00", 3842, "Your mother is", "immunized", "Pronunciation: /\u02c8\u026amj\u028c\u02ccna\u026azd/", "Definition: having been rendered unsusceptible to a disease", "Synonyms: immunised, vaccinated"]}
+{"data": ["2021-06-18T03:51:49.802631+00:00", 3843, "Your mother is", "error-prone", "Pronunciation: /\u02c8\u025br\u0259r-pro\u028an/", "Definition: capable of making an error", "Synonyms: erring"]}
