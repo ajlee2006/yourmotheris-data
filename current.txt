@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T02:41:49.698712+00:00", 3836, "Your mother is", "lifelike", "Pronunciation: /\u02c8la\u026af\u02ccla\u026ak/", "Definition: evoking lifelike images within the mind", "Synonyms: graphic, pictorial, vivid"]}
+{"data": ["2021-06-18T02:51:49.727390+00:00", 3837, "Your mother is", "reverential", "Pronunciation: /\u02ccr\u025bv\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: feeling or manifesting veneration", "Synonyms: respectful, venerating"]}
