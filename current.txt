@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T17:22:04.409251+00:00", 3888, "Your mother is", "fivefold", "Pronunciation: /\u02c8fa\u026av\u02ccfo\u028ald/", "Definition: having five units or components", "Synonyms: five-fold, quintuple"]}
+{"data": ["2021-06-18T17:32:04.529239+00:00", 3889, "Your mother is", "sixty-two", "Pronunciation: /\u02c8s\u026aksti-tu/", "Definition: being two more than sixty", "Synonyms: 62, lxii"]}
