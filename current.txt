@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T21:12:04.330576+00:00", 3911, "Your mother is", "unorganized", "Pronunciation: /\u0259n\u02c8\u0254rg\u0259\u02ccna\u026azd/", "Definition: not affiliated in a trade union", "Synonyms: nonunionised, nonunionized, unorganised"]}
+{"data": ["2021-06-18T21:22:04.501572+00:00", 3912, "Your mother is", "red-hot", "Pronunciation: /r\u025bd-h\u0251t/", "Definition: characterized by intense emotion or interest or excitement", "Synonyms: sizzling"]}
