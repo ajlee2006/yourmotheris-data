@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T11:52:04.160209+00:00", 3855, "Your mother is", "pinwheel-shaped", "Similar to: circular", "Definition: having the round shape of a pinwheel", ""]}
+{"data": ["2021-06-18T12:02:06.540498+00:00", 3856, "Your mother is", "archiepiscopal", "Pronunciation: /\u02cc\u0251rki\u026a\u02c8p\u026ask\u0259p\u0259l/", "Definition: of or associated with an archbishop", "Synonyms: archepiscopal"]}
