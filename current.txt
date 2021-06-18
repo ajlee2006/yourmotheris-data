@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T01:41:49.798049+00:00", 3830, "Your mother is", "serried", "Pronunciation: /\u02c8s\u025brid/", "Definition: (especially of rows as of troops or mountains) pressed together", ""]}
+{"data": ["2021-06-18T01:51:49.721219+00:00", 3831, "Your mother is", "poker-faced", "Similar to: incommunicative", "Definition: deliberately impassive in manner", "Synonyms: deadpan, expressionless, impassive, unexpressive"]}
