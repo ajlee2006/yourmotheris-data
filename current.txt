@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T10:42:04.181791+00:00", 3848, "Your mother is", "apivorous", "Pronunciation: /e\u026a\u02c8p\u026av\u0259r\u0259s/", "Definition: feeding on bees", ""]}
+{"data": ["2021-06-18T10:52:04.226760+00:00", 3849, "Your mother is", "handwritten", "Pronunciation: /\u02c8h\u00e6nd\u02ccr\u026at\u028cn/", "Definition: written by hand", ""]}
