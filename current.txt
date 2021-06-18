@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T15:32:04.496863+00:00", 3877, "Your mother is", "frank", "Pronunciation: /fR\u0251nk/", "Definition: characterized by directness in manner or speech; without subtlety or evasion", "Synonyms: blunt, candid, forthright, free-spoken, outspoken, plainspoken, point-blank, straight-from-the-shoulder"]}
+{"data": ["2021-06-18T15:42:04.203591+00:00", 3878, "Your mother is", "antineoplastic", "", "Definition: used in the treatment of cancer", "Synonyms: anticancer, antitumor, antitumour"]}
