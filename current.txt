@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T23:42:04.104098+00:00", 3926, "Your mother is", "rambling", "Pronunciation: /\u02c8r\u00e6mbl\u026a\u014b/", "Definition: spreading out in different directions or distributed irregularly", "Synonyms: sprawling, straggling, straggly"]}
+{"data": ["2021-06-18T23:52:03.902118+00:00", 3927, "Your mother is", "unbolted", "Pronunciation: /\u0259n\u02c8bo\u028alt\u026ad/", "Definition: not firmly fastened or secured", "Synonyms: unbarred, unlatched, unlocked, unsecured"]}
