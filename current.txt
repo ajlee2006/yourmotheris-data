@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T11:22:04.210093+00:00", 3852, "Your mother is", "deceased", "Pronunciation: /d\u026a\u02c8sist/", "Definition: dead", "Synonyms: asleep, at peace, at rest, departed, gone"]}
+{"data": ["2021-06-18T11:32:04.409142+00:00", 3853, "Your mother is", "tricentennial", "Pronunciation: /\u02cctra\u026as\u025bn\u02c8t\u025bni\u0259l/", "Definition: of or relating to or completing a period of 300 years", "Synonyms: tricentenary"]}
