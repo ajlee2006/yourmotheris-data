@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T12:22:04.098386+00:00", 3858, "Your mother is", "high-rise", "Similar to: multistorey", "Definition: used of buildings of many stories equipped with elevators; tall", ""]}
+{"data": ["2021-06-18T12:32:04.223709+00:00", 3859, "Your mother is", "raring", "Similar to: eager", "Definition: (usually followed by `to') full of eagerness", "Synonyms: impatient"]}
