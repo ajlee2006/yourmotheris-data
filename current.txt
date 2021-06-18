@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T16:52:04.154990+00:00", 3885, "Your mother is", "oil-soluble", "Similar to: soluble", "Definition: soluble in oil", ""]}
+{"data": ["2021-06-18T17:02:05.639104+00:00", 3886, "Your mother is", "gravid", "Pronunciation: /\u02c8gr\u00e6v\u026ad/", "Definition: in an advanced stage of pregnancy", "Synonyms: big, enceinte, expectant, great, heavy, large, with child"]}
