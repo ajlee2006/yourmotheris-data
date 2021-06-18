@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T03:31:49.804011+00:00", 3841, "Your mother is", "radial", "Pronunciation: /\u02c8re\u026adi\u0259l/", "Definition: arranged like rays or radii; radiating from a common center", "Synonyms: radiate, stellate"]}
+{"data": ["2021-06-18T03:41:49.837207+00:00", 3842, "Your mother is", "immunized", "Pronunciation: /\u02c8\u026amj\u028c\u02ccna\u026azd/", "Definition: having been rendered unsusceptible to a disease", "Synonyms: immunised, vaccinated"]}
