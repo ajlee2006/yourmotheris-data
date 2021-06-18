@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T14:12:04.300480+00:00", 3869, "Your mother is", "pendant", "Pronunciation: /\u02c8p\u025bnd\u0259nt/", "Definition: held from above and hanging down", "Synonyms: dependent, pendent"]}
+{"data": ["2021-06-18T14:22:04.388472+00:00", 3870, "Your mother is", "expansile", "Pronunciation: /\u026ak\u02c8sp\u00e6ns\u026al/", "Definition: (of gases) capable of expansion", "Synonyms: expandable, expandible, expansible"]}
