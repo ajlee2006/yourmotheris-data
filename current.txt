@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T15:42:04.203591+00:00", 3878, "Your mother is", "antineoplastic", "", "Definition: used in the treatment of cancer", "Synonyms: anticancer, antitumor, antitumour"]}
+{"data": ["2021-06-18T15:52:04.117252+00:00", 3879, "Your mother is", "psychedelic", "Pronunciation: /\u02ccsa\u026ak\u026a\u02c8d\u025bl\u026ak/", "Definition: having the vivid colors and bizarre patterns associated with psychedelic states", ""]}
