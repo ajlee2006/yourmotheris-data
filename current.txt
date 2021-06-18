@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T17:42:04.618237+00:00", 3890, "Your mother is", "crippling", "Pronunciation: /\u02c8kr\u026ap\u028cl\u026a\u014b/", "Definition: that cripples or disables or incapacitates", "Synonyms: disabling, incapacitating"]}
+{"data": ["2021-06-18T17:52:04.178941+00:00", 3891, "Your mother is", "ineffective", "Pronunciation: /\u02cc\u026an\u026a\u02c8f\u025bkt\u026av/", "Definition: not producing an intended effect", "Synonyms: ineffectual, uneffective"]}
