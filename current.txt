@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T13:02:04.243274+00:00", 3862, "Your mother is", "lapsed", "Pronunciation: /l\u00e6pst/", "Definition: no longer active or practicing", "Synonyms: nonchurchgoing"]}
+{"data": ["2021-06-18T13:12:04.192748+00:00", 3863, "Your mother is", "halal", "Pronunciation: /h\u0251\u02c8l\u0251l/", "Definition: conforming to dietary laws", ""]}
