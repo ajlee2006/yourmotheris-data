@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T22:12:04.103676+00:00", 3917, "Your mother is", "unpronounceable", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8n\u00e6\u028ans\u0259b\u0259l/", "Definition: very difficult to pronounce correctly", "Synonyms: unutterable"]}
+{"data": ["2021-06-18T22:22:04.054479+00:00", 3918, "Your mother is", "moated", "Similar to: protected", "Definition: protected by a deep wide ditch usually filled with water", ""]}
