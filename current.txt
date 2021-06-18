@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T02:11:49.731634+00:00", 3833, "Your mother is", "beady", "Pronunciation: /\u02c8bidi/", "Definition: covered with beads or jewels or sequins", "Synonyms: gemmed, jeweled, jewelled, sequined, spangled, spangly"]}
+{"data": ["2021-06-18T02:21:49.734899+00:00", 3834, "Your mother is", "disabused", "Pronunciation: /d\u026as\u028c\u02c8bjuzd/", "Definition: freed of a mistaken or misguided notion", "Synonyms: undeceived"]}
