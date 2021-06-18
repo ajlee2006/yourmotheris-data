@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T17:02:05.639104+00:00", 3886, "Your mother is", "gravid", "Pronunciation: /\u02c8gr\u00e6v\u026ad/", "Definition: in an advanced stage of pregnancy", "Synonyms: big, enceinte, expectant, great, heavy, large, with child"]}
+{"data": ["2021-06-18T17:12:04.428613+00:00", 3887, "Your mother is", "broadside", "Pronunciation: /\u02c8br\u0254d\u02ccsa\u026ad/", "Definition: toward a full side", ""]}
