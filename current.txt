@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T03:51:49.802631+00:00", 3843, "Your mother is", "error-prone", "Pronunciation: /\u02c8\u025br\u0259r-pro\u028an/", "Definition: capable of making an error", "Synonyms: erring"]}
+{"data": ["2021-06-18T04:01:49.796062+00:00", 3844, "Your mother is", "layered", "Pronunciation: /\u02c8le\u026a\u025drd/", "Definition: with one layer on top of another", "Synonyms: superimposed"]}
