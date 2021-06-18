@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T00:41:49.927317+00:00", 3824, "Your mother is", "incremental", "Pronunciation: /\u02cc\u026ankr\u0259\u02c8m\u025bnt\u0259l/", "Definition: increasing gradually by regular degrees or additions", ""]}
+{"data": ["2021-06-18T00:51:49.825551+00:00", 3825, "Your mother is", "filial", "Pronunciation: /\u02c8f\u026ali\u0259l/", "Definition: designating the generation or the sequence of generations following the parental generation", ""]}
