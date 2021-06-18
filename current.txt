@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T22:02:04.121365+00:00", 3916, "Your mother is", "choky", "Pronunciation: /\u02c8\u02a7o\u028aki/", "Definition: so tight as to tend to choke", ""]}
+{"data": ["2021-06-18T22:12:04.103676+00:00", 3917, "Your mother is", "unpronounceable", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8n\u00e6\u028ans\u0259b\u0259l/", "Definition: very difficult to pronounce correctly", "Synonyms: unutterable"]}
