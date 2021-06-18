@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T04:21:49.657977+00:00", 3846, "Your mother is", "outgoing", "Pronunciation: /\u02c8a\u028at\u02cc\u0261o\u028a\u026a\u014b/", "Definition: at ease in talking to others", "Synonyms: extroverted, forthcoming"]}
+{"data": ["2021-06-18T04:31:49.797208+00:00", 3847, "Your mother is", "unchangeable", "Pronunciation: /\u0259n\u02c8t\u0283e\u026and\u0292\u0259b\u0259l/", "Definition: not changeable or subject to change", ""]}
