@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T17:32:04.529239+00:00", 3889, "Your mother is", "sixty-two", "Pronunciation: /\u02c8s\u026aksti-tu/", "Definition: being two more than sixty", "Synonyms: 62, lxii"]}
+{"data": ["2021-06-18T17:42:04.618237+00:00", 3890, "Your mother is", "crippling", "Pronunciation: /\u02c8kr\u026ap\u028cl\u026a\u014b/", "Definition: that cripples or disables or incapacitates", "Synonyms: disabling, incapacitating"]}
