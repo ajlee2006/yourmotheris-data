@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T01:21:49.825031+00:00", 3828, "Your mother is", "trespassing", "Pronunciation: /\u02c8tr\u025bs\u02ccp\u00e6s\u026a\u014b/", "Definition: gradually intrusive without right or permission", "Synonyms: encroaching, invasive"]}
+{"data": ["2021-06-18T01:31:49.749787+00:00", 3829, "Your mother is", "apogamic", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8\u0261\u00e6m\u026ak/", "Definition: of or relating to the development of an embryo in the absence of fertilization", "Synonyms: apogametic, apogamous"]}
