@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T02:31:49.712444+00:00", 3835, "Your mother is", "no-account", "Pronunciation: /no\u028a-\u0259\u02c8ka\u028ant/", "Definition: without merit; of little or no value or use", "Synonyms: good-for-naught, good-for-nothing, meritless, no-count, no-good, sorry"]}
+{"data": ["2021-06-18T02:41:49.698712+00:00", 3836, "Your mother is", "lifelike", "Pronunciation: /\u02c8la\u026af\u02ccla\u026ak/", "Definition: evoking lifelike images within the mind", "Synonyms: graphic, pictorial, vivid"]}
