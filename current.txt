@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T19:42:04.230203+00:00", 3902, "Your mother is", "umteen", "Pronunciation: /\u02c8\u0259m\u02c8tin/", "Definition: innumerable but many", "Synonyms: umpteen"]}
+{"data": ["2021-06-18T19:52:04.136734+00:00", 3903, "Your mother is", "staccato", "Pronunciation: /st\u0259\u02c8k\u0251to\u028a/", "Definition: (music) marked by or composed of disconnected parts or sounds; cut short crisply", "Synonyms: disconnected"]}
