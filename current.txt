@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T01:11:49.829242+00:00", 3827, "Your mother is", "suppositious", "Pronunciation: /\u02ccs\u0259p\u0259\u02c8z\u026a\u0283\u0259s/", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetic, hypothetical, supposed, suppositional, supposititious"]}
+{"data": ["2021-06-18T01:21:49.825031+00:00", 3828, "Your mother is", "trespassing", "Pronunciation: /\u02c8tr\u025bs\u02ccp\u00e6s\u026a\u014b/", "Definition: gradually intrusive without right or permission", "Synonyms: encroaching, invasive"]}
