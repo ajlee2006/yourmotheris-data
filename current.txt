@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T14:02:04.289790+00:00", 3868, "Your mother is", "brave", "Pronunciation: /bre\u026av/", "Definition: possessing or displaying courage; able to face and deal with danger or fear without flinching", "Synonyms: courageous"]}
+{"data": ["2021-06-18T14:12:04.300480+00:00", 3869, "Your mother is", "pendant", "Pronunciation: /\u02c8p\u025bnd\u0259nt/", "Definition: held from above and hanging down", "Synonyms: dependent, pendent"]}
