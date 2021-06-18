@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T16:02:04.228114+00:00", 3880, "Your mother is", "absent", "Pronunciation: /\u02c8\u00e6bs\u0259nt/", "Definition: nonexistent", "Synonyms: lacking, missing, wanting"]}
+{"data": ["2021-06-18T16:12:04.592285+00:00", 3881, "Your mother is", "dull", "Pronunciation: /d\u0259l/", "Definition: darkened with overcast", "Synonyms: leaden"]}
