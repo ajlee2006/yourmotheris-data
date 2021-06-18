@@ -1,1 +1,1 @@
-{"data": ["2021-06-18T19:52:04.136734+00:00", 3903, "Your mother is", "staccato", "Pronunciation: /st\u0259\u02c8k\u0251to\u028a/", "Definition: (music) marked by or composed of disconnected parts or sounds; cut short crisply", "Synonyms: disconnected"]}
+{"data": ["2021-06-18T20:02:04.181334+00:00", 3904, "Your mother is", "thunderstruck", "Pronunciation: /\u02c8\u03b8\u0259nd\u0259r\u02ccstr\u0259k/", "Definition: as if struck dumb with astonishment and surprise", "Synonyms: dumbfounded, dumbstricken, dumbstruck, dumfounded, flabbergasted, stupefied"]}
