@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T17:28:17.030705+00:00", 4032, "Your mother is", "smug", "Pronunciation: /sm\u0259\u0261/", "Definition: marked by excessive complacency or self-satisfaction", "Synonyms: self-satisfied"]}
+{"data": ["2021-06-19T17:38:17.241194+00:00", 4033, "Your mother is", "jumpy", "Pronunciation: /\u02c8d\u0292\u0259mpi/", "Definition: being in a tense state", "Synonyms: edgy, high-strung, highly strung, jittery, nervy, overstrung, restive, uptight"]}
