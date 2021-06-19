@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T09:02:03.977282+00:00", 3982, "Your mother is", "per capita", "Pronunciation: /p\u0259r-\u02c8k\u00e6p\u026at\u0259/", "Definition: per person", ""]}
+{"data": ["2021-06-19T09:12:03.943130+00:00", 3983, "Your mother is", "cataclinal", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8kla\u026an\u0259l/", "Definition: of valleys and rivers; running in the direction of the dip in surrounding rock strata", ""]}
