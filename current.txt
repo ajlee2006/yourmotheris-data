@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T12:28:16.983014+00:00", 4002, "Your mother is", "cinnamon-scented", "Similar to: odorous", "Definition: smelling of cinnamon", ""]}
+{"data": ["2021-06-19T12:38:16.936976+00:00", 4003, "Your mother is", "nuclear", "Pronunciation: /\u02c8nukli\u0259r/", "Definition: (weapons) deriving destructive energy from the release of atomic energy", "Synonyms: atomic"]}
