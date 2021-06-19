@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T07:22:03.969975+00:00", 3972, "Your mother is", "haired", "Pronunciation: /h\u025brd/", "Definition: having or covered with hair", "Synonyms: hairy, hirsute"]}
+{"data": ["2021-06-19T07:32:04.052589+00:00", 3973, "Your mother is", "rose-lavender", "Similar to: chromatic", "Definition: of lavender tinged with rose", "Synonyms: rose-lilac"]}
