@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T11:18:17.355440+00:00", 3995, "Your mother is", "instant", "Pronunciation: /\u02c8\u026anst\u0259nt/", "Definition: occurring with no delay", "Synonyms: instantaneous"]}
+{"data": ["2021-06-19T11:28:17.198479+00:00", 3996, "Your mother is", "overlarge", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8l\u0251rd\u0292/", "Definition: excessively large", "Synonyms: too large"]}
