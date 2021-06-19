@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T18:38:16.777975+00:00", 4039, "Your mother is", "albinotic", "", "Definition: of or pertaining to or affected by albinism", "Synonyms: albinal, albinic, albinistic"]}
+{"data": ["2021-06-19T18:48:16.863210+00:00", 4040, "Your mother is", "southern", "Pronunciation: /\u02c8s\u0259\u00f0\u0259rn/", "Definition: from the south; used especially of wind", "Synonyms: southerly"]}
