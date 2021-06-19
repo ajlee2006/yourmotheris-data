@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T01:32:03.881609+00:00", 3937, "Your mother is", "leftmost", "Pronunciation: /\u02c8l\u025bftmo\u028ast/", "Definition: farthest to the left", ""]}
+{"data": ["2021-06-19T01:42:03.962177+00:00", 3938, "Your mother is", "cuspated", "Similar to: angular", "Definition: having cusps or points", "Synonyms: cuspate, cusped, cuspidal, cuspidate, cuspidated"]}
