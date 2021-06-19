@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T18:58:16.926485+00:00", 4041, "Your mother is", "up-to-the-minute", "Pronunciation: /\u02c8\u0259p-t\u0259\u00f0\u0259\u02c8m\u026an\u026at/", "Definition: up to the immediate present; most recent or most up-to-date", "Synonyms: latest"]}
+{"data": ["2021-06-19T19:08:17.033049+00:00", 4042, "Your mother is", "wiry", "Pronunciation: /\u02c8wa\u026a\u0259ri/", "Definition: lean and sinewy", "Synonyms: stringy"]}
