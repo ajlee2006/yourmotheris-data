@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T09:22:04.025506+00:00", 3984, "Your mother is", "symbolic", "Pronunciation: /s\u026am\u02c8b\u0251l\u026ak/", "Definition: relating to or using or proceeding by means of symbols", "Synonyms: symbolical"]}
+{"data": ["2021-06-19T09:32:04.091488+00:00", 3985, "Your mother is", "suitable", "Pronunciation: /\u02c8sut\u00e6b\u0259l/", "Definition: worthy of being chosen especially as a spouse", "Synonyms: desirable, worthy"]}
