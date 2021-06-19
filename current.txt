@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T04:02:04.035701+00:00", 3952, "Your mother is", "picturesque", "Pronunciation: /\u02ccp\u026ak\u02a7\u0259\u02c8r\u025bsk/", "Definition: strikingly expressive", ""]}
+{"data": ["2021-06-19T04:12:04.167633+00:00", 3953, "Your mother is", "xlv", "Similar to: cardinal", "Definition: being five more than forty", "Synonyms: 45, forty-five"]}
