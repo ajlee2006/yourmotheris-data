@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T12:38:16.936976+00:00", 4003, "Your mother is", "nuclear", "Pronunciation: /\u02c8nukli\u0259r/", "Definition: (weapons) deriving destructive energy from the release of atomic energy", "Synonyms: atomic"]}
+{"data": ["2021-06-19T12:48:16.957958+00:00", 4004, "Your mother is", "diametral", "Pronunciation: /da\u026a\u02c8\u00e6m\u026atr\u0259l/", "Definition: related to or along a diameter", "Synonyms: diametric, diametrical"]}
