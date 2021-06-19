@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T10:32:03.909794+00:00", 3991, "Your mother is", "rhymeless", "", "Definition: not having rhyme", "Synonyms: rimeless, unrhymed, unrimed"]}
+{"data": ["2021-06-19T10:42:03.928406+00:00", 3992, "Your mother is", "buried", "Pronunciation: /\u02c8b\u025brid/", "Definition: placed in a grave", "Synonyms: inhumed, interred"]}
