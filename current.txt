@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T06:32:03.958305+00:00", 3967, "Your mother is", "unkindly", "Similar to: unkind", "Definition: lacking in sympathy and kindness", "Synonyms: unsympathetic"]}
+{"data": ["2021-06-19T06:42:04.040563+00:00", 3968, "Your mother is", "crisp", "Pronunciation: /kr\u026asp/", "Definition: pleasantly cold and invigorating", "Synonyms: frosty, nipping, nippy, snappy"]}
