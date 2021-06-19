@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T12:58:16.996501+00:00", 4005, "Your mother is", "lifesize", "Similar to: big", "Definition: being of the same size as an original", "Synonyms: full-size, life-size, life-sized"]}
+{"data": ["2021-06-19T13:08:17.235641+00:00", 4006, "Your mother is", "exacting", "Pronunciation: /\u026a\u0261\u02c8z\u00e6kt\u026a\u014b/", "Definition: requiring precise accuracy", "Synonyms: exigent"]}
