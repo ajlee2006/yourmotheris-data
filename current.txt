@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T19:58:16.891292+00:00", 4047, "Your mother is", "ceilinged", "Similar to: high-ceilinged", "Definition: provided with a ceiling especially the overhead interior surface", ""]}
+{"data": ["2021-06-19T20:08:17.136841+00:00", 4048, "Your mother is", "nonadjacent", "Similar to: distant", "Definition: not adjacent; not next", ""]}
