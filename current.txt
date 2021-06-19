@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T13:38:16.929708+00:00", 4009, "Your mother is", "sobersided", "Pronunciation: /\u02c8so\u028ab\u0259r\u02ccsa\u026ad\u026ad/", "Definition: completely lacking in humor or lightness of touch", ""]}
+{"data": ["2021-06-19T13:48:16.965497+00:00", 4010, "Your mother is", "rumansh", "", "Definition: of or relating to the Romansh language", "Synonyms: romansh"]}
