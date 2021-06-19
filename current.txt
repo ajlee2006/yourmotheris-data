@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T01:42:03.962177+00:00", 3938, "Your mother is", "cuspated", "Similar to: angular", "Definition: having cusps or points", "Synonyms: cuspate, cusped, cuspidal, cuspidate, cuspidated"]}
+{"data": ["2021-06-19T01:52:04.033082+00:00", 3939, "Your mother is", "unsecured", "Pronunciation: /\u02cc\u0259ns\u026a\u02c8kj\u028ard/", "Definition: without financial security", "Synonyms: unguaranteed"]}
