@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T21:18:17.135537+00:00", 4055, "Your mother is", "fattening", "Pronunciation: /\u02c8f\u00e6t\u028cn\u026a\u014b/", "Definition: subject to or used in the process of finishing or fattening up for slaughter", ""]}
+{"data": ["2021-06-19T21:28:17.156482+00:00", 4056, "Your mother is", "unploughed", "Pronunciation: /\u0259n\u02c8pl\u00e6\u028ad/", "Definition: (of farmland) not plowed", "Synonyms: unbroken, unplowed"]}
