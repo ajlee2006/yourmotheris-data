@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T13:08:17.235641+00:00", 4006, "Your mother is", "exacting", "Pronunciation: /\u026a\u0261\u02c8z\u00e6kt\u026a\u014b/", "Definition: requiring precise accuracy", "Synonyms: exigent"]}
+{"data": ["2021-06-19T13:18:17.044286+00:00", 4007, "Your mother is", "zoftig", "Similar to: fat", "Definition: (of a female body) healthily plump and vigorous", "Synonyms: buxom, zaftig"]}
