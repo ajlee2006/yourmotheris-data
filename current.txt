@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T16:28:17.149199+00:00", 4026, "Your mother is", "deceased", "Pronunciation: /d\u026a\u02c8sist/", "Definition: dead", "Synonyms: asleep, at peace, at rest, departed, gone"]}
+{"data": ["2021-06-19T16:38:17.156731+00:00", 4027, "Your mother is", "reproducible", "Similar to: duplicable", "Definition: capable of being reproduced", "Synonyms: consistent"]}
