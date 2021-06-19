@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T07:02:04.189165+00:00", 3970, "Your mother is", "uncounted", "Pronunciation: /\u0259n\u02c8ka\u028ant\u026ad/", "Definition: too numerous to be counted", "Synonyms: countless, infinite, innumerable, innumerous, multitudinous, myriad, numberless, unnumberable, unnumbered, unnumerable"]}
+{"data": ["2021-06-19T07:12:03.974223+00:00", 3971, "Your mother is", "emarginate", "Pronunciation: /\u026a\u02c8m\u0251rd\u0292\u0259\u02ccne\u026at/", "Definition: having a notched tip", ""]}
