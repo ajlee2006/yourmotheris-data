@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T21:48:17.022812+00:00", 4058, "Your mother is", "untrustworthy", "Pronunciation: /\u0259n\u02c8tr\u0259st\u02ccw\u025cr\u00f0i/", "Definition: not worthy of trust or belief", "Synonyms: untrusty"]}
+{"data": ["2021-06-19T21:58:17.167038+00:00", 4059, "Your mother is", "hurtful", "Pronunciation: /\u02c8h\u025crtf\u0259l/", "Definition: harmful to living things", "Synonyms: deleterious, injurious"]}
