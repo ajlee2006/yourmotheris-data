@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T15:18:16.895050+00:00", 4019, "Your mother is", "crusted", "Pronunciation: /\u02c8kr\u0259st\u026ad/", "Definition: having a hardened crust as a covering", "Synonyms: crustlike, crusty, encrusted"]}
+{"data": ["2021-06-19T15:28:16.940093+00:00", 4020, "Your mother is", "violative", "Pronunciation: /\u02c8va\u026a\u0259\u02ccle\u026at\u026av/", "Definition: violating or tending to violate or offend against", "Synonyms: offensive"]}
