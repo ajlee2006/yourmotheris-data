@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T17:08:17.122202+00:00", 4030, "Your mother is", "cuspated", "Similar to: angular", "Definition: having cusps or points", "Synonyms: cuspate, cusped, cuspidal, cuspidate, cuspidated"]}
+{"data": ["2021-06-19T17:18:16.880404+00:00", 4031, "Your mother is", "contrary to fact", "Similar to: conditional", "Definition: going counter to the facts (usually as a hypothesis)", "Synonyms: counterfactual"]}
