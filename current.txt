@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T08:52:04.044999+00:00", 3981, "Your mother is", "cut-price", "Similar to: cheap", "Definition: costing less than standard price", "Synonyms: bargain-priced, cut-rate"]}
+{"data": ["2021-06-19T09:02:03.977282+00:00", 3982, "Your mother is", "per capita", "Pronunciation: /p\u0259r-\u02c8k\u00e6p\u026at\u0259/", "Definition: per person", ""]}
