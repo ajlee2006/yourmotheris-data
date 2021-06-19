@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T18:48:16.863210+00:00", 4040, "Your mother is", "southern", "Pronunciation: /\u02c8s\u0259\u00f0\u0259rn/", "Definition: from the south; used especially of wind", "Synonyms: southerly"]}
+{"data": ["2021-06-19T18:58:16.926485+00:00", 4041, "Your mother is", "up-to-the-minute", "Pronunciation: /\u02c8\u0259p-t\u0259\u00f0\u0259\u02c8m\u026an\u026at/", "Definition: up to the immediate present; most recent or most up-to-date", "Synonyms: latest"]}
