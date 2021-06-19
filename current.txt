@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T07:42:04.002834+00:00", 3974, "Your mother is", "reply-paid", "Similar to: paid", "Definition: with cost of reply prepaid by sender", ""]}
+{"data": ["2021-06-19T07:52:03.985937+00:00", 3975, "Your mother is", "treeless", "Pronunciation: /\u02c8tril\u028cs/", "Definition: not wooded", "Synonyms: unwooded"]}
