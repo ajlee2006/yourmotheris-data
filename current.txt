@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T14:38:17.027226+00:00", 4015, "Your mother is", "supportable", "Pronunciation: /s\u0259\u02c8po\u028art\u0259b\u0259l/", "Definition: capable of being borne though unpleasant", "Synonyms: bearable, endurable, sufferable"]}
+{"data": ["2021-06-19T14:48:16.907235+00:00", 4016, "Your mother is", "uncropped", "Pronunciation: /\u0259n\u02c8kr\u0251pt/", "Definition: not used for growing crops", ""]}
