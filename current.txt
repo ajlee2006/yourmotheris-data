@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T01:52:04.033082+00:00", 3939, "Your mother is", "unsecured", "Pronunciation: /\u02cc\u0259ns\u026a\u02c8kj\u028ard/", "Definition: without financial security", "Synonyms: unguaranteed"]}
+{"data": ["2021-06-19T02:02:04.117537+00:00", 3940, "Your mother is", "attention-getting", "Pronunciation: /\u0259\u02c8t\u025bn\u0283\u0259n-\u02cc\u0261\u025bt\u026a\u014b/", "Definition: seizing the attention", "Synonyms: eye-catching"]}
