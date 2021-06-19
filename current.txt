@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T05:22:04.041753+00:00", 3960, "Your mother is", "nonrenewable", "Pronunciation: /n\u0251nri\u02c8nu\u028cb\u028cl/", "Definition: that can not be renewed", "Synonyms: unrenewable"]}
+{"data": ["2021-06-19T05:32:04.021270+00:00", 3961, "Your mother is", "present-day", "Pronunciation: /\u02c8pr\u025bz\u0259nt-de\u026a/", "Definition: belonging to the present time", "Synonyms: contemporary"]}
