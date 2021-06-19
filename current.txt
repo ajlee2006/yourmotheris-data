@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T06:12:03.991299+00:00", 3965, "Your mother is", "unstrained", "Pronunciation: /\u0259n\u02c8stre\u026and/", "Definition: not resulting from undue effort; not forced", "Synonyms: unforced"]}
+{"data": ["2021-06-19T06:22:03.920355+00:00", 3966, "Your mother is", "straying", "Pronunciation: /\u02c8stre\u026a\u026a\u014b/", "Definition: unable to find your way", ""]}
