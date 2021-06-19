@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T11:28:17.198479+00:00", 3996, "Your mother is", "overlarge", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8l\u0251rd\u0292/", "Definition: excessively large", "Synonyms: too large"]}
+{"data": ["2021-06-19T11:38:17.095205+00:00", 3997, "Your mother is", "ravenous", "Pronunciation: /\u02c8r\u00e6v\u0259n\u0259s/", "Definition: devouring or craving food in great quantities", "Synonyms: edacious, esurient, rapacious, ravening, voracious, wolfish"]}
