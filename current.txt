@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T11:38:17.095205+00:00", 3997, "Your mother is", "ravenous", "Pronunciation: /\u02c8r\u00e6v\u0259n\u0259s/", "Definition: devouring or craving food in great quantities", "Synonyms: edacious, esurient, rapacious, ravening, voracious, wolfish"]}
+{"data": ["2021-06-19T11:48:16.917497+00:00", 3998, "Your mother is", "bluish-gray", "Similar to: achromatic", "Definition: of grey tinged with blue", "Synonyms: blue-gray, blue-grey, bluish-grey"]}
