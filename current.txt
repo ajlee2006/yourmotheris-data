@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T03:52:04.065072+00:00", 3951, "Your mother is", "untagged", "", "Definition: lacking a label or tag", "Synonyms: unlabeled, unlabelled"]}
+{"data": ["2021-06-19T04:02:04.035701+00:00", 3952, "Your mother is", "picturesque", "Pronunciation: /\u02ccp\u026ak\u02a7\u0259\u02c8r\u025bsk/", "Definition: strikingly expressive", ""]}
