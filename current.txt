@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T08:32:03.994339+00:00", 3979, "Your mother is", "in", "Pronunciation: /\u026an/", "Definition: currently fashionable", ""]}
+{"data": ["2021-06-19T08:42:03.943941+00:00", 3980, "Your mother is", "decorated", "Pronunciation: /\u02c8d\u025bk\u0259\u02ccre\u026at\u026ad/", "Definition: provided with something intended to increase its beauty or distinction", "Synonyms: adorned"]}
