@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T16:48:16.970854+00:00", 4028, "Your mother is", "boned", "Pronunciation: /bo\u028and/", "Definition: having had the bones removed", "Synonyms: deboned"]}
+{"data": ["2021-06-19T16:58:16.916496+00:00", 4029, "Your mother is", "calculated", "Pronunciation: /\u02c8k\u00e6lkj\u0259\u02ccle\u026at\u026ad/", "Definition: carefully thought out in advance", "Synonyms: deliberate, measured"]}
