@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T05:42:04.002523+00:00", 3962, "Your mother is", "reticent", "Pronunciation: /\u02c8r\u025bt\u026as\u0259nt/", "Definition: temperamentally disinclined to talk", "Synonyms: untalkative"]}
+{"data": ["2021-06-19T05:52:03.973673+00:00", 3963, "Your mother is", "spouting", "Pronunciation: /\u02c8spa\u028at\u026a\u014b/", "Definition: propelled violently in a usually narrow stream", "Synonyms: jetting, spurting, squirting"]}
