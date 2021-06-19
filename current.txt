@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T00:42:04.220017+00:00", 3932, "Your mother is", "sugary", "Pronunciation: /\u02c8\u0283\u028a\u0261\u0259ri/", "Definition: containing sugar", ""]}
+{"data": ["2021-06-19T00:52:04.135963+00:00", 3933, "Your mother is", "beta", "Pronunciation: /\u02c8be\u026at\u0259/", "Definition: preliminary or testing stage of a software or hardware product", ""]}
