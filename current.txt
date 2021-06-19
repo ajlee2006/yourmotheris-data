@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T12:18:17.151226+00:00", 4001, "Your mother is", "noisome", "Pronunciation: /\u02c8n\u0254\u026as\u0259m/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, offensive, queasy, sickening, vile"]}
+{"data": ["2021-06-19T12:28:16.983014+00:00", 4002, "Your mother is", "cinnamon-scented", "Similar to: odorous", "Definition: smelling of cinnamon", ""]}
