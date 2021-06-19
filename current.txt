@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T10:12:04.055510+00:00", 3989, "Your mother is", "short-headed", "Pronunciation: /\u0283\u0254rt-\u02c8h\u025bd\u026ad/", "Definition: having a brachycephalic head", "Synonyms: broad-headed, roundheaded"]}
+{"data": ["2021-06-19T10:22:03.997269+00:00", 3990, "Your mother is", "snuffly", "Similar to: tearful", "Definition: liable to sniffle", "Synonyms: sniffly, snuffling"]}
