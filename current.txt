@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T08:02:05.382596+00:00", 3976, "Your mother is", "sexagenarian", "Pronunciation: /\u02ccs\u025bks\u0259d\u0292\u0259\u02c8n\u025cri\u0259n/", "Definition: being from 60 to 69 years old", ""]}
+{"data": ["2021-06-19T08:12:03.967115+00:00", 3977, "Your mother is", "prospective", "Pronunciation: /pr\u0259\u02c8sp\u025bkt\u026av/", "Definition: of or concerned with or related to the future", ""]}
