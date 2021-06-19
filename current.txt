@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T04:32:04.012269+00:00", 3955, "Your mother is", "two", "Pronunciation: /tu/", "Definition: being one more than one", "Synonyms: 2, ii"]}
+{"data": ["2021-06-19T04:42:03.961263+00:00", 3956, "Your mother is", "nearby", "Pronunciation: /\u02c8nir\u02c8ba\u026a/", "Definition: close at hand", ""]}
