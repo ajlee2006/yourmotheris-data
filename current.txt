@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T21:58:17.167038+00:00", 4059, "Your mother is", "hurtful", "Pronunciation: /\u02c8h\u025crtf\u0259l/", "Definition: harmful to living things", "Synonyms: deleterious, injurious"]}
+{"data": ["2021-06-19T22:08:17.192260+00:00", 4060, "Your mother is", "endogenic", "", "Definition: derived or originating internally", "Synonyms: endogenous"]}
