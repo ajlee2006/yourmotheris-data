@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T09:42:03.976931+00:00", 3986, "Your mother is", "ad-lib", "Pronunciation: /\u00e6d-\u02c8l\u026ab/", "Definition: with little or no preparation or forethought", "Synonyms: extemporaneous, extemporary, extempore, impromptu, off-the-cuff, offhand, offhanded, unrehearsed"]}
+{"data": ["2021-06-19T09:52:03.969633+00:00", 3987, "Your mother is", "proclaimed", "Pronunciation: /pro\u028a\u02c8kle\u026amd/", "Definition: declared publicly; made widely known", "Synonyms: announced"]}
