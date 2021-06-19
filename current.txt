@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T02:52:03.975120+00:00", 3945, "Your mother is", "oozy", "Pronunciation: /\u02c8uzi/", "Definition: leaking out slowly", "Synonyms: oozing, seeping"]}
+{"data": ["2021-06-19T03:02:04.542466+00:00", 3946, "Your mother is", "unmanageable", "Pronunciation: /\u0259n\u02c8m\u00e6n\u026ad\u0292\u0259b\u0259l/", "Definition: difficult to use or handle or manage because of size or weight or shape", "Synonyms: unwieldy"]}
