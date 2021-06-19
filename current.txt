@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T01:12:04.010283+00:00", 3935, "Your mother is", "immunized", "Pronunciation: /\u02c8\u026amj\u028c\u02ccna\u026azd/", "Definition: having been rendered unsusceptible to a disease", "Synonyms: immunised, vaccinated"]}
+{"data": ["2021-06-19T01:22:03.944932+00:00", 3936, "Your mother is", "brachiopod", "Pronunciation: /\u02c8bre\u026aki\u0259\u02ccp\u0251d/", "Definition: of or belonging to the phylum Brachiopoda", "Synonyms: brachiopodous"]}
