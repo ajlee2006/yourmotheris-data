@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T06:22:03.920355+00:00", 3966, "Your mother is", "straying", "Pronunciation: /\u02c8stre\u026a\u026a\u014b/", "Definition: unable to find your way", ""]}
+{"data": ["2021-06-19T06:32:03.958305+00:00", 3967, "Your mother is", "unkindly", "Similar to: unkind", "Definition: lacking in sympathy and kindness", "Synonyms: unsympathetic"]}
