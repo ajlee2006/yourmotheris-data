@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T15:28:16.940093+00:00", 4020, "Your mother is", "violative", "Pronunciation: /\u02c8va\u026a\u0259\u02ccle\u026at\u026av/", "Definition: violating or tending to violate or offend against", "Synonyms: offensive"]}
+{"data": ["2021-06-19T15:38:16.792587+00:00", 4021, "Your mother is", "tilted", "Pronunciation: /\u02c8t\u026alt\u028cd/", "Definition: departing or being caused to depart from the true vertical or horizontal", "Synonyms: atilt, canted, leaning, tipped"]}
