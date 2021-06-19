@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T01:02:04.099512+00:00", 3934, "Your mother is", "clad", "Pronunciation: /kl\u00e6d/", "Definition: wearing or provided with clothing; sometimes used in combination", "Synonyms: clothed"]}
+{"data": ["2021-06-19T01:12:04.010283+00:00", 3935, "Your mother is", "immunized", "Pronunciation: /\u02c8\u026amj\u028c\u02ccna\u026azd/", "Definition: having been rendered unsusceptible to a disease", "Synonyms: immunised, vaccinated"]}
