@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T14:18:17.112688+00:00", 4013, "Your mother is", "all-time", "Pronunciation: /\u0254l-ta\u026am/", "Definition: unsurpassed in some respect up to the present", ""]}
+{"data": ["2021-06-19T14:28:16.962544+00:00", 4014, "Your mother is", "up to", "Similar to: adequate", "Definition: having the requisite qualities for", "Synonyms: adequate to, capable, equal to"]}
