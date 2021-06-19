@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T22:48:17.169041+00:00", 4064, "Your mother is", "unwarmed", "Pronunciation: /\u0259n\u02c8wo\u028armd/", "Definition: not having been heated or warmed", "Synonyms: unheated"]}
+{"data": ["2021-06-19T22:58:17.277989+00:00", 4065, "Your mother is", "uninventive", "Pronunciation: /\u02cc\u0259n\u026an\u02c8v\u025bnt\u026av/", "Definition: deficient in originality or creativity; lacking powers of invention", "Synonyms: sterile, unimaginative, uninspired"]}
