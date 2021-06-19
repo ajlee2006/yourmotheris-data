@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T10:42:03.928406+00:00", 3992, "Your mother is", "buried", "Pronunciation: /\u02c8b\u025brid/", "Definition: placed in a grave", "Synonyms: inhumed, interred"]}
+{"data": ["2021-06-19T10:52:03.943695+00:00", 3993, "Your mother is", "on tap", "Similar to: available", "Definition: available for immediate use", ""]}
