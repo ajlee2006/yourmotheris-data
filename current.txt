@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T19:28:17.425414+00:00", 4044, "Your mother is", "twenty-three", "Similar to: cardinal", "Definition: being three more than twenty", "Synonyms: 23, xxiii"]}
+{"data": ["2021-06-19T19:38:17.597187+00:00", 4045, "Your mother is", "biped", "Pronunciation: /\u02c8ba\u026ap\u025bd/", "Definition: having two feet", "Synonyms: bipedal, two-footed"]}
