@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T02:32:03.954710+00:00", 3943, "Your mother is", "suggestible", "Pronunciation: /s\u0259\u0261\u02c8d\u0292\u025bst\u0259b\u0259l/", "Definition: susceptible or responsive to suggestion", ""]}
+{"data": ["2021-06-19T02:42:03.967658+00:00", 3944, "Your mother is", "reactionist", "Similar to: right", "Definition: opposed to political or social liberalism or reform", "Synonyms: far-right, reactionary"]}
