@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T14:58:16.971520+00:00", 4017, "Your mother is", "unaware", "Pronunciation: /\u02cc\u0259n\u0259\u02c8w\u025cr/", "Definition: (often followed by `of') not aware", "Synonyms: incognizant"]}
+{"data": ["2021-06-19T15:08:16.933487+00:00", 4018, "Your mother is", "calvinist", "Pronunciation: /\u02c8k\u00e6lv\u028cn\u028cst/", "Definition: of or relating to or characteristic of Calvinism or its adherents", "Synonyms: calvinistic, calvinistical"]}
