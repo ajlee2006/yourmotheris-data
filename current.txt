@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T13:58:17.045252+00:00", 4011, "Your mother is", "tubby", "Pronunciation: /\u02c8t\u0259bi/", "Definition: short and plump", "Synonyms: dumpy, podgy, pudgy, roly-poly"]}
+{"data": ["2021-06-19T14:08:16.823789+00:00", 4012, "Your mother is", "dizzy", "Pronunciation: /\u02c8d\u026azi/", "Definition: lacking seriousness; given to frivolity", "Synonyms: airheaded, empty-headed, featherbrained, giddy, light-headed, lightheaded, silly"]}
