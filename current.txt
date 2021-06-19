@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T19:48:16.956701+00:00", 4046, "Your mother is", "allover", "Pronunciation: /\u02c8\u0254l\u02cco\u028av\u0259r/", "Definition: covering the entire surface", ""]}
+{"data": ["2021-06-19T19:58:16.891292+00:00", 4047, "Your mother is", "ceilinged", "Similar to: high-ceilinged", "Definition: provided with a ceiling especially the overhead interior surface", ""]}
