@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T14:28:16.962544+00:00", 4014, "Your mother is", "up to", "Similar to: adequate", "Definition: having the requisite qualities for", "Synonyms: adequate to, capable, equal to"]}
+{"data": ["2021-06-19T14:38:17.027226+00:00", 4015, "Your mother is", "supportable", "Pronunciation: /s\u0259\u02c8po\u028art\u0259b\u0259l/", "Definition: capable of being borne though unpleasant", "Synonyms: bearable, endurable, sufferable"]}
