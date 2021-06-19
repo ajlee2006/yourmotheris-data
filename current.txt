@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T08:42:03.943941+00:00", 3980, "Your mother is", "decorated", "Pronunciation: /\u02c8d\u025bk\u0259\u02ccre\u026at\u026ad/", "Definition: provided with something intended to increase its beauty or distinction", "Synonyms: adorned"]}
+{"data": ["2021-06-19T08:52:04.044999+00:00", 3981, "Your mother is", "cut-price", "Similar to: cheap", "Definition: costing less than standard price", "Synonyms: bargain-priced, cut-rate"]}
