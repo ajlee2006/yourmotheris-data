@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T13:48:16.965497+00:00", 4010, "Your mother is", "rumansh", "", "Definition: of or relating to the Romansh language", "Synonyms: romansh"]}
+{"data": ["2021-06-19T13:58:17.045252+00:00", 4011, "Your mother is", "tubby", "Pronunciation: /\u02c8t\u0259bi/", "Definition: short and plump", "Synonyms: dumpy, podgy, pudgy, roly-poly"]}
