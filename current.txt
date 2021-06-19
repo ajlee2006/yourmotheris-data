@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T20:08:17.136841+00:00", 4048, "Your mother is", "nonadjacent", "Similar to: distant", "Definition: not adjacent; not next", ""]}
+{"data": ["2021-06-19T20:18:17.044163+00:00", 4049, "Your mother is", "factor analytic", "", "Definition: of or relating to or the product of factor analysis", "Synonyms: factor analytical"]}
