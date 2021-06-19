@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T21:38:16.860361+00:00", 4057, "Your mother is", "raiseable", "Similar to: mobile", "Definition: capable of being raised", "Synonyms: raisable"]}
+{"data": ["2021-06-19T21:48:17.022812+00:00", 4058, "Your mother is", "untrustworthy", "Pronunciation: /\u0259n\u02c8tr\u0259st\u02ccw\u025cr\u00f0i/", "Definition: not worthy of trust or belief", "Synonyms: untrusty"]}
