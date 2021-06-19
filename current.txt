@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T09:12:03.943130+00:00", 3983, "Your mother is", "cataclinal", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8kla\u026an\u0259l/", "Definition: of valleys and rivers; running in the direction of the dip in surrounding rock strata", ""]}
+{"data": ["2021-06-19T09:22:04.025506+00:00", 3984, "Your mother is", "symbolic", "Pronunciation: /s\u026am\u02c8b\u0251l\u026ak/", "Definition: relating to or using or proceeding by means of symbols", "Synonyms: symbolical"]}
