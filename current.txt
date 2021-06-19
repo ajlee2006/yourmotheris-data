@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T23:28:17.055241+00:00", 4068, "Your mother is", "five-sided", "Similar to: many-sided", "Definition: having five sides", ""]}
+{"data": ["2021-06-19T23:38:16.902302+00:00", 4069, "Your mother is", "one-eared", "Pronunciation: /w\u0259n-ird/", "Definition: having a single ear", ""]}
