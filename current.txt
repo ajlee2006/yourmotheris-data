@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T02:12:03.904410+00:00", 3941, "Your mother is", "ill-fitting", "Pronunciation: /\u026al-\u02c8f\u026at\u026a\u014b/", "Definition: not the right size or shape", ""]}
+{"data": ["2021-06-19T02:22:04.074881+00:00", 3942, "Your mother is", "gnarled", "Pronunciation: /n\u0251rld/", "Definition: used of old persons or old trees; covered with knobs or knots", "Synonyms: gnarly, knobbed, knotted, knotty"]}
