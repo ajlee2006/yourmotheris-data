@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T19:38:17.597187+00:00", 4045, "Your mother is", "biped", "Pronunciation: /\u02c8ba\u026ap\u025bd/", "Definition: having two feet", "Synonyms: bipedal, two-footed"]}
+{"data": ["2021-06-19T19:48:16.956701+00:00", 4046, "Your mother is", "allover", "Pronunciation: /\u02c8\u0254l\u02cco\u028av\u0259r/", "Definition: covering the entire surface", ""]}
