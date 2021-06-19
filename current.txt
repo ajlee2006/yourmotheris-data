@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T18:08:17.027437+00:00", 4036, "Your mother is", "anachronic", "Pronunciation: /\u02cc\u00e6n\u0259\u02c8kr\u0251n\u026ak/", "Definition: chronologically misplaced", "Synonyms: anachronistic, anachronous"]}
+{"data": ["2021-06-19T18:18:16.972103+00:00", 4037, "Your mother is", "crow-sized", "Similar to: sized", "Definition: having the approximate size of a crow", ""]}
