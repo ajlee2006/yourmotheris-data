@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T22:38:17.023072+00:00", 4063, "Your mother is", "sweet", "Pronunciation: /swit/", "Definition: not containing or composed of salt water", "Synonyms: fresh"]}
+{"data": ["2021-06-19T22:48:17.169041+00:00", 4064, "Your mother is", "unwarmed", "Pronunciation: /\u0259n\u02c8wo\u028armd/", "Definition: not having been heated or warmed", "Synonyms: unheated"]}
