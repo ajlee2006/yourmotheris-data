@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T05:12:04.031849+00:00", 3959, "Your mother is", "deathlike", "Pronunciation: /\u02c8d\u025b\u03b8\u02ccla\u026ak/", "Definition: having the physical appearance of death", "Synonyms: deathly"]}
+{"data": ["2021-06-19T05:22:04.041753+00:00", 3960, "Your mother is", "nonrenewable", "Pronunciation: /n\u0251nri\u02c8nu\u028cb\u028cl/", "Definition: that can not be renewed", "Synonyms: unrenewable"]}
