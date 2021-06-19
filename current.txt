@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T07:32:04.052589+00:00", 3973, "Your mother is", "rose-lavender", "Similar to: chromatic", "Definition: of lavender tinged with rose", "Synonyms: rose-lilac"]}
+{"data": ["2021-06-19T07:42:04.002834+00:00", 3974, "Your mother is", "reply-paid", "Similar to: paid", "Definition: with cost of reply prepaid by sender", ""]}
