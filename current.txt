@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T09:32:04.091488+00:00", 3985, "Your mother is", "suitable", "Pronunciation: /\u02c8sut\u00e6b\u0259l/", "Definition: worthy of being chosen especially as a spouse", "Synonyms: desirable, worthy"]}
+{"data": ["2021-06-19T09:42:03.976931+00:00", 3986, "Your mother is", "ad-lib", "Pronunciation: /\u00e6d-\u02c8l\u026ab/", "Definition: with little or no preparation or forethought", "Synonyms: extemporaneous, extemporary, extempore, impromptu, off-the-cuff, offhand, offhanded, unrehearsed"]}
