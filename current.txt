@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T05:02:04.128870+00:00", 3958, "Your mother is", "armorial", "Pronunciation: /\u0251r\u02c8mo\u028ari\u0259l/", "Definition: of or relating to heraldry or heraldic arms", ""]}
+{"data": ["2021-06-19T05:12:04.031849+00:00", 3959, "Your mother is", "deathlike", "Pronunciation: /\u02c8d\u025b\u03b8\u02ccla\u026ak/", "Definition: having the physical appearance of death", "Synonyms: deathly"]}
