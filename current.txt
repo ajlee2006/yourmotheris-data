@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T09:52:03.969633+00:00", 3987, "Your mother is", "proclaimed", "Pronunciation: /pro\u028a\u02c8kle\u026amd/", "Definition: declared publicly; made widely known", "Synonyms: announced"]}
+{"data": ["2021-06-19T10:02:03.995990+00:00", 3988, "Your mother is", "slate-black", "Similar to: achromatic", "Definition: of a black tinged with slate-grey", ""]}
