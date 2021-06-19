@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T17:18:16.880404+00:00", 4031, "Your mother is", "contrary to fact", "Similar to: conditional", "Definition: going counter to the facts (usually as a hypothesis)", "Synonyms: counterfactual"]}
+{"data": ["2021-06-19T17:28:17.030705+00:00", 4032, "Your mother is", "smug", "Pronunciation: /sm\u0259\u0261/", "Definition: marked by excessive complacency or self-satisfaction", "Synonyms: self-satisfied"]}
