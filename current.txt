@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T08:22:04.285033+00:00", 3978, "Your mother is", "ordered", "Pronunciation: /\u02c8\u0254rd\u025drd/", "Definition: disposed or placed in a particular kind of order", "Synonyms: arranged"]}
+{"data": ["2021-06-19T08:32:03.994339+00:00", 3979, "Your mother is", "in", "Pronunciation: /\u026an/", "Definition: currently fashionable", ""]}
