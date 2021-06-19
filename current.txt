@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T03:32:04.234211+00:00", 3949, "Your mother is", "millionth", "Pronunciation: /\u02c8m\u026alj\u028cn\u03b8/", "Definition: the ordinal number of one million in counting order", ""]}
+{"data": ["2021-06-19T03:42:04.164284+00:00", 3950, "Your mother is", "meshuga", "Pronunciation: /m\u0259\u02c8\u0283\u028a\u0261\u0259/", "Definition: senseless; crazy", "Synonyms: meshugga, meshugge, meshuggeneh, meshuggener"]}
