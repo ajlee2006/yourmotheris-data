@@ -1,1 +1,1 @@
-{"data": ["2021-06-19T07:12:03.974223+00:00", 3971, "Your mother is", "emarginate", "Pronunciation: /\u026a\u02c8m\u0251rd\u0292\u0259\u02ccne\u026at/", "Definition: having a notched tip", ""]}
+{"data": ["2021-06-19T07:22:03.969975+00:00", 3972, "Your mother is", "haired", "Pronunciation: /h\u025brd/", "Definition: having or covered with hair", "Synonyms: hairy, hirsute"]}
