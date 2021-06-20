@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T09:08:16.943635+00:00", 4126, "Your mother is", "reconcilable", "Pronunciation: /\u02c8r\u025bk\u0259n\u02ccsa\u026ab\u0259l/", "Definition: capable of being reconciled", ""]}
+{"data": ["2021-06-20T09:18:16.941806+00:00", 4127, "Your mother is", "flickering", "Pronunciation: /\u02c8fl\u026ak\u025dr\u026a\u014b/", "Definition: shining unsteadily", "Synonyms: aflicker"]}
