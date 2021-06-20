@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T13:45:06.174723+00:00", 4153, "Your mother is", "nonessential", "Pronunciation: /\u02ccn\u0251n\u026a\u02c8s\u025bn\u0283\u0259l/", "Definition: not of prime or central importance", "Synonyms: accidental, incidental"]}
+{"data": ["2021-06-20T13:55:05.996345+00:00", 4154, "Your mother is", "juiceless", "Similar to: unexciting", "Definition: lacking interest or stimulation; dull and lifeless", "Synonyms: dry"]}
