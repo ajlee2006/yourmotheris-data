@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T04:28:16.829266+00:00", 4098, "Your mother is", "unattached", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u00e6\u02a7t/", "Definition: not associated in an exclusive sexual relationship", "Synonyms: uncommitted"]}
+{"data": ["2021-06-20T04:38:16.956284+00:00", 4099, "Your mother is", "ramate", "Similar to: branchy", "Definition: having branches", "Synonyms: branched, branching, ramose, ramous"]}
