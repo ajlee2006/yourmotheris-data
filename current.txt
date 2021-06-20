@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T02:08:16.972702+00:00", 4084, "Your mother is", "self-coloured", "Pronunciation: /s\u025blf\u02c8k\u0259l\u0259d/", "Definition: of the same color throughout", "Synonyms: self-colored, solid"]}
+{"data": ["2021-06-20T02:18:16.814043+00:00", 4085, "Your mother is", "palmately-lobed", "Similar to: many-sided", "Definition: having lobes radiating from a central point", ""]}
