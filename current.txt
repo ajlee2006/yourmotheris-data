@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T00:58:17.109965+00:00", 4077, "Your mother is", "plutonian", "Pronunciation: /plu\u02c8to\u028ani\u0259n/", "Definition: of or relating to or characteristic of Hades or Tartarus", "Synonyms: hadean, tartarean"]}
+{"data": ["2021-06-20T01:08:16.829754+00:00", 4078, "Your mother is", "quincentennial", "", "Definition: of or relating to a 500th anniversary", "Synonyms: quincentenary"]}
