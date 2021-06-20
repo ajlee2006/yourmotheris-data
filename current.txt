@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T10:48:16.845131+00:00", 4136, "Your mother is", "abducting", "Pronunciation: /\u00e6b\u02c8d\u028ckt\u026a\u014b/", "Definition: especially of muscles; drawing away from the midline of the body or from an adjacent part", "Synonyms: abducent"]}
+{"data": ["2021-06-20T10:58:16.840975+00:00", 4137, "Your mother is", "square-built", "Pronunciation: /skw\u025cr-b\u026alt/", "Definition: broad and solidly built", ""]}
