@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T04:18:17.146309+00:00", 4097, "Your mother is", "disbelieving", "Pronunciation: /d\u026asb\u028c\u02c8liv\u026a\u014b/", "Definition: denying or questioning the tenets of especially a religion", "Synonyms: sceptical, skeptical, unbelieving"]}
+{"data": ["2021-06-20T04:28:16.829266+00:00", 4098, "Your mother is", "unattached", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u00e6\u02a7t/", "Definition: not associated in an exclusive sexual relationship", "Synonyms: uncommitted"]}
