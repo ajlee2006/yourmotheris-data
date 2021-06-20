@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T17:35:06.077358+00:00", 4176, "Your mother is", "consultatory", "Pronunciation: /k\u0259n\u02c8s\u0259lt\u0259\u02ccto\u028ari/", "Definition: giving advice", "Synonyms: advisory, consultative, consultive"]}
+{"data": ["2021-06-20T17:45:06.055797+00:00", 4177, "Your mother is", "soused", "Similar to: drunk", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, sozzled, squiffy, stiff, tight, wet"]}
