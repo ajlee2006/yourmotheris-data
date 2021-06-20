@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T22:05:06.088405+00:00", 4203, "Your mother is", "noduled", "Similar to: unshapely", "Definition: having nodules or occurring in the form of nodules", "Synonyms: nodular, nodulated"]}
+{"data": ["2021-06-20T22:15:06.096673+00:00", 4204, "Your mother is", "current", "Pronunciation: /\u02c8k\u025cr\u0259nt/", "Definition: occurring in or belonging to the present time", ""]}
