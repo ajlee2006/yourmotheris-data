@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T20:25:06.081240+00:00", 4193, "Your mother is", "detergent", "Pronunciation: /d\u026a\u02c8t\u025crd\u0292\u0259nt/", "Definition: having cleansing power", "Synonyms: detersive"]}
+{"data": ["2021-06-20T20:35:06.173068+00:00", 4194, "Your mother is", "downwind", "Pronunciation: /\u02c8da\u028an\u02c8w\u026and/", "Definition: towards the side away from the wind", "Synonyms: lee"]}
