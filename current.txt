@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T20:15:06.094134+00:00", 4192, "Your mother is", "circumlocutory", "Pronunciation: /\u02ccs\u025crk\u0259m\u02c8l\u0251kj\u0259\u02ccto\u028ari/", "Definition: roundabout and unnecessarily wordy", "Synonyms: ambagious, circumlocutious, periphrastic"]}
+{"data": ["2021-06-20T20:25:06.081240+00:00", 4193, "Your mother is", "detergent", "Pronunciation: /d\u026a\u02c8t\u025crd\u0292\u0259nt/", "Definition: having cleansing power", "Synonyms: detersive"]}
