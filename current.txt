@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T22:15:06.096673+00:00", 4204, "Your mother is", "current", "Pronunciation: /\u02c8k\u025cr\u0259nt/", "Definition: occurring in or belonging to the present time", ""]}
+{"data": ["2021-06-20T22:25:06.240551+00:00", 4205, "Your mother is", "belittled", "Pronunciation: /b\u026a\u02c8l\u026at\u028cld/", "Definition: made to seem smaller or less (especially in worth)", "Synonyms: diminished, small"]}
