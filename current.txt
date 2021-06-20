@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T14:25:06.127290+00:00", 4157, "Your mother is", "cloistered", "Pronunciation: /\u02c8kl\u0254\u026ast\u0259rd/", "Definition: of communal life sequestered from the world under religious vows", "Synonyms: cloistral, conventual, monastic, monastical"]}
+{"data": ["2021-06-20T14:35:06.013356+00:00", 4158, "Your mother is", "disc-shaped", "Similar to: circular", "Definition: having a flat circular shape", "Synonyms: disclike, discoid, discoidal, disk-shaped, disklike"]}
