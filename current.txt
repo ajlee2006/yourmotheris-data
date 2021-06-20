@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T13:05:06.273345+00:00", 4149, "Your mother is", "bestial", "Pronunciation: /\u02c8b\u025bs\u02a7\u0259l/", "Definition: resembling a beast; showing lack of human sensibility", "Synonyms: beastly, brutal, brute, brutish"]}
+{"data": ["2021-06-20T13:15:05.973319+00:00", 4150, "Your mother is", "lowly", "Pronunciation: /\u02c8lo\u028ali/", "Definition: of low birth or station (`base' is archaic in this sense)", "Synonyms: base, baseborn, humble"]}
