@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T00:38:17.033713+00:00", 4075, "Your mother is", "smoking", "Pronunciation: /sm\u0254\u02c8ki\u014b/", "Definition: emitting smoke in great volume", ""]}
+{"data": ["2021-06-20T00:48:16.998394+00:00", 4076, "Your mother is", "decasyllabic", "Pronunciation: /\u02ccd\u025bk\u0259s\u026a\u02c8l\u00e6b\u026ak/", "Definition: having or characterized by or consisting of ten syllables", ""]}
