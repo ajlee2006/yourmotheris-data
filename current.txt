@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T19:55:06.014014+00:00", 4190, "Your mother is", "high-octane", "Pronunciation: /\u02c8ha\u026a\u02c8\u0251kte\u026an/", "Definition: vigorously energetic or forceful", "Synonyms: high-energy, high-power, high-powered, high-voltage"]}
+{"data": ["2021-06-20T20:05:06.047706+00:00", 4191, "Your mother is", "mitigable", "Similar to: placable", "Definition: capable of being alleviated", ""]}
