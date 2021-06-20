@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T06:08:16.782960+00:00", 4108, "Your mother is", "violet-streaked", "Similar to: patterned", "Definition: having streaks of violet color", ""]}
+{"data": ["2021-06-20T06:18:16.862373+00:00", 4109, "Your mother is", "all in", "Similar to: tired", "Definition: very tired", "Synonyms: beat, bushed, dead"]}
