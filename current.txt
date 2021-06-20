@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T12:45:05.990311+00:00", 4147, "Your mother is", "gustative", "Pronunciation: /\u02c8\u0261\u0259st\u0259t\u026av/", "Definition: of or relating to gustation", "Synonyms: gustatorial, gustatory"]}
+{"data": ["2021-06-20T12:55:06.004919+00:00", 4148, "Your mother is", "inexpedient", "Pronunciation: /\u02cc\u026an\u026ak\u02c8spidi\u0259nt/", "Definition: not appropriate to the purpose", "Synonyms: unwise"]}
