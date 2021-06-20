@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T14:45:06.081237+00:00", 4159, "Your mother is", "clubfooted", "Similar to: unshapely", "Definition: having a deformed foot", "Synonyms: taliped"]}
+{"data": ["2021-06-20T14:55:06.266651+00:00", 4160, "Your mother is", "pediatric", "Pronunciation: /\u02ccpidi\u02c8\u00e6tr\u026ak/", "Definition: of or relating to the medical care of children", "Synonyms: paediatric"]}
