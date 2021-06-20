@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T00:48:16.998394+00:00", 4076, "Your mother is", "decasyllabic", "Pronunciation: /\u02ccd\u025bk\u0259s\u026a\u02c8l\u00e6b\u026ak/", "Definition: having or characterized by or consisting of ten syllables", ""]}
+{"data": ["2021-06-20T00:58:17.109965+00:00", 4077, "Your mother is", "plutonian", "Pronunciation: /plu\u02c8to\u028ani\u0259n/", "Definition: of or relating to or characteristic of Hades or Tartarus", "Synonyms: hadean, tartarean"]}
