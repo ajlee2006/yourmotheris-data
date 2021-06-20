@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T01:28:16.893471+00:00", 4080, "Your mother is", "sterling", "Pronunciation: /\u02c8st\u025crli\u014b/", "Definition: highest in quality", "Synonyms: greatest, superlative"]}
+{"data": ["2021-06-20T01:38:16.936969+00:00", 4081, "Your mother is", "miraculous", "Pronunciation: /m\u026a\u02c8r\u00e6kj\u028al\u0259s/", "Definition: peculiarly fortunate or appropriate; as if by divine intervention", "Synonyms: heaven-sent, providential"]}
