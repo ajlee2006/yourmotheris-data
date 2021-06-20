@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T10:58:16.840975+00:00", 4137, "Your mother is", "square-built", "Pronunciation: /skw\u025cr-b\u026alt/", "Definition: broad and solidly built", ""]}
+{"data": ["2021-06-20T11:08:16.817960+00:00", 4138, "Your mother is", "patchy", "Pronunciation: /\u02c8p\u00e6\u02a7i/", "Definition: irregular or uneven in quality, texture, etc.", ""]}
