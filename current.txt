@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T01:48:16.956878+00:00", 4082, "Your mother is", "mystifying", "Pronunciation: /\u02c8m\u026ast\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: of an obscure nature", "Synonyms: cryptic, cryptical, deep, inscrutable, mysterious"]}
+{"data": ["2021-06-20T01:58:16.988649+00:00", 4083, "Your mother is", "enlivened", "Pronunciation: /\u025bn\u02c8la\u026av\u028cnd/", "Definition: made lively or spirited", "Synonyms: spirited"]}
