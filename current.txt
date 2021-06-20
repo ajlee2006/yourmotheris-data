@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T18:35:06.078256+00:00", 4182, "Your mother is", "semisweet", "Pronunciation: /\u02ccs\u025bmi\u02c8swit/", "Definition: having a taste that is a mixture of bitterness and sweetness", "Synonyms: bittersweet"]}
+{"data": ["2021-06-20T18:45:06.092116+00:00", 4183, "Your mother is", "awestricken", "Pronunciation: /\u02c8\u0254\u02ccstr\u026ak\u0259n/", "Definition: having or showing a feeling of mixed reverence and respect and wonder and dread", "Synonyms: awed, awestruck"]}
