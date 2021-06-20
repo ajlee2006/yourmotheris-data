@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T19:15:06.129206+00:00", 4186, "Your mother is", "completing", "Pronunciation: /k\u028cm\u02c8plit\u026a\u014b/", "Definition: acting as or providing a complement (something that completes the whole)", "Synonyms: complemental, complementary"]}
+{"data": ["2021-06-20T19:25:06.335423+00:00", 4187, "Your mother is", "cookie-cutter", "Similar to: same", "Definition: having the same appearance (as if mass-produced)", ""]}
