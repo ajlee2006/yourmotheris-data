@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T16:35:05.940281+00:00", 4170, "Your mother is", "experiential", "Pronunciation: /\u026ak\u02ccspiri\u02c8\u025bn\u0283\u0259l/", "Definition: derived from experience or the experience of existence", "Synonyms: existential"]}
+{"data": ["2021-06-20T16:45:06.021750+00:00", 4171, "Your mother is", "protean", "Pronunciation: /\u02c8pro\u028ati\u0259n/", "Definition: taking on different forms", ""]}
