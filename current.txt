@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T21:55:06.135885+00:00", 4202, "Your mother is", "constitutional", "Pronunciation: /\u02cck\u0251nst\u026a\u02c8tu\u0283\u0259n\u0259l/", "Definition: existing as an essential constituent or characteristic", "Synonyms: built-in, inbuilt, inherent, integral"]}
+{"data": ["2021-06-20T22:05:06.088405+00:00", 4203, "Your mother is", "noduled", "Similar to: unshapely", "Definition: having nodules or occurring in the form of nodules", "Synonyms: nodular, nodulated"]}
