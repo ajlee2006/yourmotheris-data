@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T11:45:06.006301+00:00", 4141, "Your mother is", "gastric", "Pronunciation: /\u02c8\u0261\u00e6str\u026ak/", "Definition: relating to or involving the stomach", "Synonyms: stomachal, stomachic"]}
+{"data": ["2021-06-20T11:55:06.100812+00:00", 4142, "Your mother is", "ensuant", "Similar to: subsequent", "Definition: occurring with or following as a consequence", "Synonyms: accompanying, attendant, collateral, concomitant, consequent, incidental, resultant, sequent"]}
