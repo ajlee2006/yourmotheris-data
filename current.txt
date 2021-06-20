@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T05:38:16.871988+00:00", 4105, "Your mother is", "down", "Pronunciation: /da\u028an/", "Definition: understood perfectly", "Synonyms: down pat, mastered"]}
+{"data": ["2021-06-20T05:48:16.775875+00:00", 4106, "Your mother is", "fallen", "Pronunciation: /\u02c8f\u0254l\u0259n/", "Definition: having dropped by the force of gravity", ""]}
