@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T17:45:06.055797+00:00", 4177, "Your mother is", "soused", "Similar to: drunk", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, sozzled, squiffy, stiff, tight, wet"]}
+{"data": ["2021-06-20T17:55:05.988102+00:00", 4178, "Your mother is", "frowsty", "Pronunciation: /\u02c8fra\u028asti/", "Definition: stale and unclean smelling", "Synonyms: fusty, musty"]}
