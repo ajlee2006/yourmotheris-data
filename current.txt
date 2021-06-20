@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T17:55:05.988102+00:00", 4178, "Your mother is", "frowsty", "Pronunciation: /\u02c8fra\u028asti/", "Definition: stale and unclean smelling", "Synonyms: fusty, musty"]}
+{"data": ["2021-06-20T18:05:06.087914+00:00", 4179, "Your mother is", "biliary", "Pronunciation: /\u02c8b\u026ali\u02cc\u025bri/", "Definition: relating to or containing bile", "Synonyms: bilious"]}
