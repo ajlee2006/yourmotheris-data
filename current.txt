@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T03:58:17.177486+00:00", 4095, "Your mother is", "niggardly", "Pronunciation: /\u02c8n\u026a\u0261\u0259rdli/", "Definition: petty or reluctant in giving or spending", "Synonyms: grudging, scrimy"]}
+{"data": ["2021-06-20T04:08:17.120537+00:00", 4096, "Your mother is", "self-generated", "Pronunciation: /\u02ccs\u025blf\u02c8d\u0292\u025bn\u0259\u02ccre\u026at\u026ad/", "Definition: originating from the self", "Synonyms: self-produced"]}
