@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T16:15:06.152698+00:00", 4168, "Your mother is", "proto", "Pronunciation: /\u02c8pro\u028at\u028c/", "Definition: indicating the first or earliest or original", ""]}
+{"data": ["2021-06-20T16:25:06.093973+00:00", 4169, "Your mother is", "indigenous", "Pronunciation: /\u026an\u02c8d\u026ad\u0292\u0259n\u0259s/", "Definition: originating where it is found", "Synonyms: autochthonal, autochthonic, autochthonous, endemic"]}
