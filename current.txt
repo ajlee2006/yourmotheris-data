@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T02:38:16.944491+00:00", 4087, "Your mother is", "vesicant", "Pronunciation: /\u02c8v\u025bs\u0259k-\u0251nt/", "Definition: causing blisters", "Synonyms: vesicatory"]}
+{"data": ["2021-06-20T02:48:16.848804+00:00", 4088, "Your mother is", "tenebrific", "Pronunciation: /\u02cct\u025bn\u0259\u02c8br\u026af\u026ak/", "Definition: dark and gloomy", "Synonyms: tenebrious, tenebrous"]}
