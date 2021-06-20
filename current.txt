@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T23:15:06.158288+00:00", 4210, "Your mother is", "dependant upon", "Similar to: conditional", "Definition: being determined by conditions or circumstances that follow", "Synonyms: contingent, contingent on, contingent upon, dependant on, dependent on, dependent upon, depending on"]}
+{"data": ["2021-06-20T23:25:06.038827+00:00", 4211, "Your mother is", "totipotent", "", "Definition: having the ability to give rise to unlike cells", ""]}
