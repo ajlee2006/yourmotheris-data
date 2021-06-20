@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T16:25:06.093973+00:00", 4169, "Your mother is", "indigenous", "Pronunciation: /\u026an\u02c8d\u026ad\u0292\u0259n\u0259s/", "Definition: originating where it is found", "Synonyms: autochthonal, autochthonic, autochthonous, endemic"]}
+{"data": ["2021-06-20T16:35:05.940281+00:00", 4170, "Your mother is", "experiential", "Pronunciation: /\u026ak\u02ccspiri\u02c8\u025bn\u0283\u0259l/", "Definition: derived from experience or the experience of existence", "Synonyms: existential"]}
