@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T09:18:16.941806+00:00", 4127, "Your mother is", "flickering", "Pronunciation: /\u02c8fl\u026ak\u025dr\u026a\u014b/", "Definition: shining unsteadily", "Synonyms: aflicker"]}
+{"data": ["2021-06-20T09:28:16.768539+00:00", 4128, "Your mother is", "unspectacular", "Pronunciation: /\u02cc\u0259nsp\u025bk\u02c8t\u00e6kj\u028al\u0259r/", "Definition: not spectacular", ""]}
