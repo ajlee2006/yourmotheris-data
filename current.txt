@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T12:55:06.004919+00:00", 4148, "Your mother is", "inexpedient", "Pronunciation: /\u02cc\u026an\u026ak\u02c8spidi\u0259nt/", "Definition: not appropriate to the purpose", "Synonyms: unwise"]}
+{"data": ["2021-06-20T13:05:06.273345+00:00", 4149, "Your mother is", "bestial", "Pronunciation: /\u02c8b\u025bs\u02a7\u0259l/", "Definition: resembling a beast; showing lack of human sensibility", "Synonyms: beastly, brutal, brute, brutish"]}
