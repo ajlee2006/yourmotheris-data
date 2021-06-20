@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T08:38:16.736698+00:00", 4123, "Your mother is", "expository", "Pronunciation: /\u026ak\u02c8sp\u0251z\u026a\u02ccto\u028ari/", "Definition: serving to expound or set forth", "Synonyms: expositive"]}
+{"data": ["2021-06-20T08:48:16.817672+00:00", 4124, "Your mother is", "columned", "Pronunciation: /\u02c8k\u0251l\u028cmd/", "Definition: having or resembling columns; having columns of a specified kind (often used as a combining form)", ""]}
