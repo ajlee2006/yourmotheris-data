@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T14:55:06.266651+00:00", 4160, "Your mother is", "pediatric", "Pronunciation: /\u02ccpidi\u02c8\u00e6tr\u026ak/", "Definition: of or relating to the medical care of children", "Synonyms: paediatric"]}
+{"data": ["2021-06-20T15:05:06.117994+00:00", 4161, "Your mother is", "sporty", "Pronunciation: /\u02c8spo\u028arti/", "Definition: exhibiting or calling for sportsmanship or fair play", "Synonyms: clean, sporting, sportsmanlike"]}
