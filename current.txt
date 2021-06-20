@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T11:35:06.105692+00:00", 4140, "Your mother is", "unentitled", "Similar to: ineligible", "Definition: having no right or entitlement", "Synonyms: unqualified"]}
+{"data": ["2021-06-20T11:45:06.006301+00:00", 4141, "Your mother is", "gastric", "Pronunciation: /\u02c8\u0261\u00e6str\u026ak/", "Definition: relating to or involving the stomach", "Synonyms: stomachal, stomachic"]}
