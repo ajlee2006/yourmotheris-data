@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T18:15:06.130752+00:00", 4180, "Your mother is", "125th", "Similar to: ordinal", "Definition: the ordinal number of one hundred twenty-five in counting order", "Synonyms: hundred-and-twenty-fifth"]}
+{"data": ["2021-06-20T18:25:06.010838+00:00", 4181, "Your mother is", "swinish", "Pronunciation: /\u02c8swa\u026an\u026a\u0283/", "Definition: resembling swine; coarsely gluttonous or greedy", "Synonyms: hoggish, piggish, piggy, porcine"]}
