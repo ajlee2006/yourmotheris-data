@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T14:05:06.002395+00:00", 4155, "Your mother is", "participatory", "Pronunciation: /\u02ccp\u0251r\u02c8t\u026as\u028cp\u028c\u02cct\u0254ri/", "Definition: affording the opportunity for individual participation", ""]}
+{"data": ["2021-06-20T14:15:06.160767+00:00", 4156, "Your mother is", "thickset", "Pronunciation: /\u02c8\u03b8\u026ak\u02c8s\u025bt/", "Definition: having a short and solid form or stature", "Synonyms: compact, heavyset, stocky, thick"]}
