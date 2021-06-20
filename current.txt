@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T13:15:05.973319+00:00", 4150, "Your mother is", "lowly", "Pronunciation: /\u02c8lo\u028ali/", "Definition: of low birth or station (`base' is archaic in this sense)", "Synonyms: base, baseborn, humble"]}
+{"data": ["2021-06-20T13:25:06.139852+00:00", 4151, "Your mother is", "water-resistant", "Pronunciation: /\u02c8w\u0254t\u0259rr\u026a\u02ccz\u026ast\u0259nt/", "Definition: hindering the penetration of water", "Synonyms: water-repellent"]}
