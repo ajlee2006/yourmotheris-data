@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T10:38:16.842178+00:00", 4135, "Your mother is", "apothegmatical", "", "Definition: given to or characterized by terse apothegms", "Synonyms: apothegmatic"]}
+{"data": ["2021-06-20T10:48:16.845131+00:00", 4136, "Your mother is", "abducting", "Pronunciation: /\u00e6b\u02c8d\u028ckt\u026a\u014b/", "Definition: especially of muscles; drawing away from the midline of the body or from an adjacent part", "Synonyms: abducent"]}
