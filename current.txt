@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T09:58:16.794448+00:00", 4131, "Your mother is", "kayoed", "Similar to: unconscious", "Definition: knocked unconscious by a heavy blow", "Synonyms: knocked out, ko'd, out, stunned"]}
+{"data": ["2021-06-20T10:08:16.795441+00:00", 4132, "Your mother is", "pint-size", "Pronunciation: /\u02c8pa\u026ant\u02ccsa\u026az/", "Definition: well below average height", "Synonyms: pint-sized, runty, sawed-off, sawn-off"]}
