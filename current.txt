@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T02:48:16.848804+00:00", 4088, "Your mother is", "tenebrific", "Pronunciation: /\u02cct\u025bn\u0259\u02c8br\u026af\u026ak/", "Definition: dark and gloomy", "Synonyms: tenebrious, tenebrous"]}
+{"data": ["2021-06-20T02:58:16.864109+00:00", 4089, "Your mother is", "agrarian", "Pronunciation: /\u0259\u02c8gr\u025cri\u0259n/", "Definition: relating to farming or agriculture", "Synonyms: agricultural, farming"]}
