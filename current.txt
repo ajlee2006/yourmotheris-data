@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T06:28:16.849444+00:00", 4110, "Your mother is", "acyclic", "Pronunciation: /e\u026a\u02c8sa\u026akl\u026ak/", "Definition: having an open chain structure", "Synonyms: open-chain"]}
+{"data": ["2021-06-20T06:38:16.787983+00:00", 4111, "Your mother is", "well-formed", "", "Definition: conforming to the rules of grammar or usage accepted by native speakers", "Synonyms: grammatical"]}
