@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T03:28:16.998488+00:00", 4092, "Your mother is", "actinomorphous", "Similar to: actinoid", "Definition: capable of division into symmetrical halves by any longitudinal plane passing through the axis", "Synonyms: actinomorphic"]}
+{"data": ["2021-06-20T03:38:16.995215+00:00", 4093, "Your mother is", "flatus-relieving", "Similar to: healthful", "Definition: relieving gas in the alimentary tract (colic or flatulence or griping)", "Synonyms: carminative"]}
