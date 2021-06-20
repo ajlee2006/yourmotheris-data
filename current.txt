@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T05:08:16.971785+00:00", 4102, "Your mother is", "sleeping", "Pronunciation: /\u02c8slip\u026a\u014b/", "Definition: lying with head on paws as if sleeping", "Synonyms: dormant"]}
+{"data": ["2021-06-20T05:18:16.880197+00:00", 4103, "Your mother is", "illogical", "Pronunciation: /\u026a\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: lacking in correct logical relation", "Synonyms: unlogical"]}
