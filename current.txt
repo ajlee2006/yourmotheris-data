@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T09:28:16.768539+00:00", 4128, "Your mother is", "unspectacular", "Pronunciation: /\u02cc\u0259nsp\u025bk\u02c8t\u00e6kj\u028al\u0259r/", "Definition: not spectacular", ""]}
+{"data": ["2021-06-20T09:38:16.870361+00:00", 4129, "Your mother is", "unused to", "Similar to: unaccustomed to", "Definition: infrequently exposed to", ""]}
