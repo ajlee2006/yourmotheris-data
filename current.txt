@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T15:55:06.026540+00:00", 4166, "Your mother is", "biracial", "Pronunciation: /ba\u026a\u02c8re\u026a\u0283\u0259l/", "Definition: consisting of or combining two races", ""]}
+{"data": ["2021-06-20T16:05:06.437869+00:00", 4167, "Your mother is", "solemn", "Pronunciation: /\u02c8s\u0251l\u0259m/", "Definition: characterized by a firm and humorless belief in the validity of your opinions", "Synonyms: earnest, sincere"]}
