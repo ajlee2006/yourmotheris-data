@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T20:35:06.173068+00:00", 4194, "Your mother is", "downwind", "Pronunciation: /\u02c8da\u028an\u02c8w\u026and/", "Definition: towards the side away from the wind", "Synonyms: lee"]}
+{"data": ["2021-06-20T20:45:06.038780+00:00", 4195, "Your mother is", "gormless", "Pronunciation: /\u02c8\u0261\u0254rml\u026as/", "Definition: (British informal) lacking intelligence and vitality", "Synonyms: gaumless"]}
