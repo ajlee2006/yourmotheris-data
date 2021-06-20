@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T18:25:06.010838+00:00", 4181, "Your mother is", "swinish", "Pronunciation: /\u02c8swa\u026an\u026a\u0283/", "Definition: resembling swine; coarsely gluttonous or greedy", "Synonyms: hoggish, piggish, piggy, porcine"]}
+{"data": ["2021-06-20T18:35:06.078256+00:00", 4182, "Your mother is", "semisweet", "Pronunciation: /\u02ccs\u025bmi\u02c8swit/", "Definition: having a taste that is a mixture of bitterness and sweetness", "Synonyms: bittersweet"]}
