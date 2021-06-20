@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T08:58:16.897661+00:00", 4125, "Your mother is", "gonadotropic", "Pronunciation: /\u0261o\u028a\u02ccn\u00e6d\u0259\u02c8tr\u0251p\u026ak/", "Definition: of or relating to or involving gonadotropin", "Synonyms: gonadotrophic"]}
+{"data": ["2021-06-20T09:08:16.943635+00:00", 4126, "Your mother is", "reconcilable", "Pronunciation: /\u02c8r\u025bk\u0259n\u02ccsa\u026ab\u0259l/", "Definition: capable of being reconciled", ""]}
