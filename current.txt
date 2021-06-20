@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T15:15:05.986235+00:00", 4162, "Your mother is", "wizen", "Pronunciation: /\u02c8w\u026az\u0259n/", "Definition: lean and wrinkled by shrinkage as from age or illness", "Synonyms: shriveled, shrivelled, shrunken, withered, wizened"]}
+{"data": ["2021-06-20T15:25:06.097361+00:00", 4163, "Your mother is", "optical", "Pronunciation: /\u02c8\u0251pt\u026ak\u0259l/", "Definition: relating to or using sight", "Synonyms: ocular, optic, visual"]}
