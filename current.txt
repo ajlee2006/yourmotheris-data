@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T02:28:16.887080+00:00", 4086, "Your mother is", "catabatic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8b\u00e6t\u026ak/", "Definition: of an air current or wind; moving downward or down a slope because of cooling especially at night", "Synonyms: katabatic"]}
+{"data": ["2021-06-20T02:38:16.944491+00:00", 4087, "Your mother is", "vesicant", "Pronunciation: /\u02c8v\u025bs\u0259k-\u0251nt/", "Definition: causing blisters", "Synonyms: vesicatory"]}
