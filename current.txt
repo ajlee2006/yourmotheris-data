@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T15:25:06.097361+00:00", 4163, "Your mother is", "optical", "Pronunciation: /\u02c8\u0251pt\u026ak\u0259l/", "Definition: relating to or using sight", "Synonyms: ocular, optic, visual"]}
+{"data": ["2021-06-20T15:35:06.026397+00:00", 4164, "Your mother is", "branching", "Pronunciation: /\u02c8br\u00e6nt\u0283\u026a\u014b/", "Definition: having branches", "Synonyms: branched, ramate, ramose, ramous"]}
