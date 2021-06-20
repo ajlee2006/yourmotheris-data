@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T03:18:16.826050+00:00", 4091, "Your mother is", "perplexing", "Pronunciation: /p\u025dr\u02c8pl\u025bks\u026a\u014b/", "Definition: lacking clarity of meaning; causing confusion or perplexity", "Synonyms: confusing, puzzling"]}
+{"data": ["2021-06-20T03:28:16.998488+00:00", 4092, "Your mother is", "actinomorphous", "Similar to: actinoid", "Definition: capable of division into symmetrical halves by any longitudinal plane passing through the axis", "Synonyms: actinomorphic"]}
