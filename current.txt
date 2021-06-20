@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T21:05:06.093974+00:00", 4197, "Your mother is", "overserious", "Similar to: serious", "Definition: excessively serious", ""]}
+{"data": ["2021-06-20T21:15:06.076879+00:00", 4198, "Your mother is", "universal", "Pronunciation: /\u02ccjun\u0259\u02c8v\u025crs\u0259l/", "Definition: of worldwide scope or applicability", "Synonyms: cosmopolitan, ecumenical, general, oecumenical, world-wide, worldwide"]}
