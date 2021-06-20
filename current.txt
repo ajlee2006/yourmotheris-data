@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T14:15:06.160767+00:00", 4156, "Your mother is", "thickset", "Pronunciation: /\u02c8\u03b8\u026ak\u02c8s\u025bt/", "Definition: having a short and solid form or stature", "Synonyms: compact, heavyset, stocky, thick"]}
+{"data": ["2021-06-20T14:25:06.127290+00:00", 4157, "Your mother is", "cloistered", "Pronunciation: /\u02c8kl\u0254\u026ast\u0259rd/", "Definition: of communal life sequestered from the world under religious vows", "Synonyms: cloistral, conventual, monastic, monastical"]}
