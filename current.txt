@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T15:35:06.026397+00:00", 4164, "Your mother is", "branching", "Pronunciation: /\u02c8br\u00e6nt\u0283\u026a\u014b/", "Definition: having branches", "Synonyms: branched, ramate, ramose, ramous"]}
+{"data": ["2021-06-20T15:45:06.012271+00:00", 4165, "Your mother is", "upstair", "", "Definition: on or of upper floors of a building", "Synonyms: upstairs"]}
