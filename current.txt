@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T17:05:05.984326+00:00", 4173, "Your mother is", "unseasonable", "Pronunciation: /\u0259n\u02c8siz\u0259n\u0259b\u0259l/", "Definition: badly timed", "Synonyms: ill-timed, untimely, wrong"]}
+{"data": ["2021-06-20T17:15:06.030949+00:00", 4174, "Your mother is", "xliii", "Similar to: cardinal", "Definition: being three more than forty", "Synonyms: 43, forty-three"]}
