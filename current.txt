@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T22:35:06.150460+00:00", 4206, "Your mother is", "disconnected", "Pronunciation: /\u02ccd\u026ask\u0259\u02c8n\u025bkt\u026ad/", "Definition: having been divided; having the unity destroyed", "Synonyms: disunited, fragmented, split"]}
+{"data": ["2021-06-20T22:45:06.800786+00:00", 4207, "Your mother is", "rush", "Pronunciation: /r\u0259\u0283/", "Definition: not accepting reservations", "Synonyms: first-come-first-serve"]}
