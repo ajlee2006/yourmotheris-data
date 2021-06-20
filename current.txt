@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T05:18:16.880197+00:00", 4103, "Your mother is", "illogical", "Pronunciation: /\u026a\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: lacking in correct logical relation", "Synonyms: unlogical"]}
+{"data": ["2021-06-20T05:28:16.924550+00:00", 4104, "Your mother is", "ovate", "Pronunciation: /\u02c8o\u028ave\u026at/", "Definition: rounded like an egg", "Synonyms: egg-shaped, elliptic, elliptical, oval, oval-shaped, oviform, ovoid, prolate"]}
