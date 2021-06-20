@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T08:08:16.737980+00:00", 4120, "Your mother is", "craggy", "Pronunciation: /\u02c8kr\u00e6\u0261i/", "Definition: having hills and crags", "Synonyms: cragged, hilly, mountainous"]}
+{"data": ["2021-06-20T08:18:16.784854+00:00", 4121, "Your mother is", "combatant", "Pronunciation: /k\u0259m\u02c8b\u00e6t\u0259nt/", "Definition: engaging in or ready for combat", ""]}
