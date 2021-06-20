@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T04:48:16.830572+00:00", 4100, "Your mother is", "cluttered", "Pronunciation: /\u02c8kl\u028ct\u025drd/", "Definition: filled or scattered with a disorderly accumulation of objects or rubbish", "Synonyms: littered"]}
+{"data": ["2021-06-20T04:58:16.892896+00:00", 4101, "Your mother is", "eternal", "Pronunciation: /\u026a\u02c8t\u025crn\u0259l/", "Definition: tiresomely long; seemingly without end", "Synonyms: endless, interminable"]}
