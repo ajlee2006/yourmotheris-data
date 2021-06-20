@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T12:35:06.274768+00:00", 4146, "Your mother is", "courageous", "Pronunciation: /k\u0259\u02c8re\u026ad\u0292\u0259s/", "Definition: possessing or displaying courage; able to face and deal with danger or fear without flinching", "Synonyms: brave"]}
+{"data": ["2021-06-20T12:45:05.990311+00:00", 4147, "Your mother is", "gustative", "Pronunciation: /\u02c8\u0261\u0259st\u0259t\u026av/", "Definition: of or relating to gustation", "Synonyms: gustatorial, gustatory"]}
