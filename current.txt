@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T06:48:16.855300+00:00", 4112, "Your mother is", "sorrel", "Pronunciation: /\u02c8s\u0254r\u0259l/", "Definition: of a light brownish color", "Synonyms: brownish-orange"]}
+{"data": ["2021-06-20T06:58:16.878454+00:00", 4113, "Your mother is", "known", "Pronunciation: /no\u028an/", "Definition: apprehended with certainty", ""]}
