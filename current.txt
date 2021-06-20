@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T10:28:17.267705+00:00", 4134, "Your mother is", "unrealistic", "Pronunciation: /\u02cc\u0259nri\u0259\u02c8l\u026ast\u026ak/", "Definition: not realistic", ""]}
+{"data": ["2021-06-20T10:38:16.842178+00:00", 4135, "Your mother is", "apothegmatical", "", "Definition: given to or characterized by terse apothegms", "Synonyms: apothegmatic"]}
