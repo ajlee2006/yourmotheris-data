@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T19:25:06.335423+00:00", 4187, "Your mother is", "cookie-cutter", "Similar to: same", "Definition: having the same appearance (as if mass-produced)", ""]}
+{"data": ["2021-06-20T19:35:06.044006+00:00", 4188, "Your mother is", "saprozoic", "Similar to: herbivorous", "Definition: (of certain animals) feeding on dead or decaying animal matter", "Synonyms: saprophagous"]}
