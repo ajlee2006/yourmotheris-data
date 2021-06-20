@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T11:08:16.817960+00:00", 4138, "Your mother is", "patchy", "Pronunciation: /\u02c8p\u00e6\u02a7i/", "Definition: irregular or uneven in quality, texture, etc.", ""]}
+{"data": ["2021-06-20T11:25:06.053151+00:00", 4139, "Your mother is", "tuneful", "Pronunciation: /\u02c8tunf\u0259l/", "Definition: having a musical sound; especially a pleasing tune", "Synonyms: melodious"]}
