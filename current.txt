@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T00:08:17.168864+00:00", 4072, "Your mother is", "conscionable", "Pronunciation: /\u02c8k\u0251n\u0283\u0259n\u0259b\u0259l/", "Definition: acceptable to your conscience", ""]}
+{"data": ["2021-06-20T00:18:17.064186+00:00", 4073, "Your mother is", "dichromatic", "Pronunciation: /\u02ccda\u026akro\u028a\u02c8m\u00e6t\u026ak/", "Definition: having two colors", "Synonyms: bichrome, bicolor, bicolored, bicolour, bicoloured"]}
