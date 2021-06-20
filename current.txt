@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T02:18:16.814043+00:00", 4085, "Your mother is", "palmately-lobed", "Similar to: many-sided", "Definition: having lobes radiating from a central point", ""]}
+{"data": ["2021-06-20T02:28:16.887080+00:00", 4086, "Your mother is", "catabatic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8b\u00e6t\u026ak/", "Definition: of an air current or wind; moving downward or down a slope because of cooling especially at night", "Synonyms: katabatic"]}
