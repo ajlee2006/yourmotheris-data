@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T06:38:16.787983+00:00", 4111, "Your mother is", "well-formed", "", "Definition: conforming to the rules of grammar or usage accepted by native speakers", "Synonyms: grammatical"]}
+{"data": ["2021-06-20T06:48:16.855300+00:00", 4112, "Your mother is", "sorrel", "Pronunciation: /\u02c8s\u0254r\u0259l/", "Definition: of a light brownish color", "Synonyms: brownish-orange"]}
