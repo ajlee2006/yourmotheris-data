@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T19:35:06.044006+00:00", 4188, "Your mother is", "saprozoic", "Similar to: herbivorous", "Definition: (of certain animals) feeding on dead or decaying animal matter", "Synonyms: saprophagous"]}
+{"data": ["2021-06-20T19:45:06.061668+00:00", 4189, "Your mother is", "unreduced", "Similar to: unaltered", "Definition: not altered by reduction", ""]}
