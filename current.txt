@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T16:05:06.437869+00:00", 4167, "Your mother is", "solemn", "Pronunciation: /\u02c8s\u0251l\u0259m/", "Definition: characterized by a firm and humorless belief in the validity of your opinions", "Synonyms: earnest, sincere"]}
+{"data": ["2021-06-20T16:15:06.152698+00:00", 4168, "Your mother is", "proto", "Pronunciation: /\u02c8pro\u028at\u028c/", "Definition: indicating the first or earliest or original", ""]}
