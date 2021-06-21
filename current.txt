@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T10:05:06.162744+00:00", 4275, "Your mother is", "unerring", "Pronunciation: /\u0259n\u02c8\u025cr\u026a\u014b/", "Definition: not liable to error", "Synonyms: inerrable, inerrant"]}
+{"data": ["2021-06-21T10:15:06.858928+00:00", 4276, "Your mother is", "side by side", "Similar to: close", "Definition: nearest in space or position; immediately adjoining without intervening space", "Synonyms: adjacent, next"]}
