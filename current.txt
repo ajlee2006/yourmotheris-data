@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T00:15:06.183059+00:00", 4216, "Your mother is", "moderate-size", "Similar to: sized", "Definition: intermediate in size", "Synonyms: medium-size, medium-sized, moderate-sized"]}
+{"data": ["2021-06-21T00:25:05.970531+00:00", 4217, "Your mother is", "most", "Pronunciation: /mo\u028ast/", "Definition: (superlative of `many' used with count nouns and often preceded by `the') quantifier meaning the greatest in number", ""]}
