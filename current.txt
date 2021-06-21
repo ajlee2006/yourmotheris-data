@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T17:03:04.855419+00:00", 4316, "Your mother is", "beaten", "Pronunciation: /\u02c8bit\u0259n/", "Definition: much trodden and worn smooth or bare", ""]}
+{"data": ["2021-06-21T17:13:04.859040+00:00", 4317, "Your mother is", "savory", "Pronunciation: /\u02c8se\u026av\u0259ri/", "Definition: pleasing to the sense of taste", "Synonyms: mouth-watering, savoury"]}
