@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T03:25:06.133747+00:00", 4235, "Your mother is", "protozoan", "Pronunciation: /\u02ccpro\u028at\u0259\u02c8zo\u028a\u0259n/", "Definition: of or relating to the Protozoa", "Synonyms: protozoal, protozoic"]}
+{"data": ["2021-06-21T03:35:06.017856+00:00", 4236, "Your mother is", "rational", "Pronunciation: /\u02c8r\u00e6\u0283\u0259n\u0259l/", "Definition: of or associated with or requiring the use of the mind", "Synonyms: intellectual, noetic"]}
