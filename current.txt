@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T02:35:06.020403+00:00", 4230, "Your mother is", "down in the mouth", "Similar to: dejected", "Definition: filled with melancholy and despondency", "Synonyms: blue, depressed, dispirited, down, downcast, downhearted, gloomy, grim, low, low-spirited"]}
+{"data": ["2021-06-21T02:45:05.954639+00:00", 4231, "Your mother is", "surplus", "Pronunciation: /\u02c8s\u025crpl\u0259s/", "Definition: more than is needed, desired, or required", "Synonyms: excess, extra, redundant, spare, supererogatory, superfluous, supernumerary"]}
