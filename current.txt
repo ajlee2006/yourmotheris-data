@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T07:35:06.908605+00:00", 4260, "Your mother is", "iatrogenic", "Pronunciation: /a\u026a\u02cc\u00e6tr\u0259\u02c8d\u0292\u025bn\u026ak/", "Definition: induced by a physician's words or therapy (used especially of a complication resulting from treatment)", ""]}
+{"data": ["2021-06-21T07:45:06.456100+00:00", 4261, "Your mother is", "a priori", "Pronunciation: /\u02cce\u026a-pra\u026a\u02c8o\u028ari/", "Definition: based on hypothesis or theory rather than experiment", ""]}
