@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T23:33:04.740547+00:00", 4355, "Your mother is", "bactericidal", "Similar to: antiseptic", "Definition: preventing infection by inhibiting the growth or action of microorganisms", "Synonyms: disinfectant, germicidal"]}
+{"data": ["2021-06-21T23:43:05.000374+00:00", 4356, "Your mother is", "anticyclonic", "Pronunciation: /\u02cc\u00e6ntisa\u026a\u02c8kl\u0251n\u026ak/", "Definition: of or relating to or characteristic of the atmosphere around a high pressure center", ""]}
