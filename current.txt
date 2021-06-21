@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T10:25:06.289944+00:00", 4277, "Your mother is", "elephantine", "Pronunciation: /\u02cc\u025bl\u0259\u02c8f\u00e6nt\u026an/", "Definition: of great mass; huge and bulky", "Synonyms: gargantuan, giant, jumbo"]}
+{"data": ["2021-06-21T10:35:06.430185+00:00", 4278, "Your mother is", "decimal", "Pronunciation: /\u02c8d\u025bs\u0259m\u0259l/", "Definition: numbered or proceeding by tens; based on ten", "Synonyms: denary"]}
