@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T15:53:04.811848+00:00", 4309, "Your mother is", "tortuous", "Pronunciation: /\u02c8t\u0254r\u02a7u\u0259s/", "Definition: highly complex or intricate and occasionally devious", "Synonyms: byzantine, convoluted, involved, knotty, tangled"]}
+{"data": ["2021-06-21T16:03:04.935589+00:00", 4310, "Your mother is", "renascent", "Pronunciation: /r\u026a\u02c8n\u00e6s\u0259nt/", "Definition: rising again as to new life and vigor", "Synonyms: resurgent"]}
