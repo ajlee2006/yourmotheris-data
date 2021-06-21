@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T18:43:04.855472+00:00", 4326, "Your mother is", "sorrowful", "Pronunciation: /\u02c8s\u0251ro\u028a\u02ccf\u028al/", "Definition: experiencing or marked by or expressing sorrow especially that associated with irreparable loss", ""]}
+{"data": ["2021-06-21T18:53:04.853453+00:00", 4327, "Your mother is", "bladelike", "Similar to: simple", "Definition: shaped like a sword blade", "Synonyms: ensiform, sword-shaped, swordlike"]}
