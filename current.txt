@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T00:55:05.949962+00:00", 4220, "Your mother is", "carved", "Pronunciation: /k\u0251rvd/", "Definition: made for or formed by carving (`carven' is archaic or literary)", "Synonyms: carven"]}
+{"data": ["2021-06-21T01:05:06.043240+00:00", 4221, "Your mother is", "acaudal", "Pronunciation: /e\u026a\u02c8k\u0254d\u0259l/", "Definition: lacking a tail or taillike appendage", "Synonyms: acaudate"]}
