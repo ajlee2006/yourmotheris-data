@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T01:45:06.251848+00:00", 4225, "Your mother is", "leaflike", "Pronunciation: /\u02c8lif\u02ccla\u026ak/", "Definition: resembling a leaf", "Synonyms: leaf-like"]}
+{"data": ["2021-06-21T01:55:06.119664+00:00", 4226, "Your mother is", "dermatological", "Pronunciation: /\u02ccd\u025crm\u0259\u02c8t\u0259l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to or practicing dermatology", "Synonyms: dermatologic"]}
