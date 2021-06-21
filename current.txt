@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T05:15:06.071522+00:00", 4246, "Your mother is", "fair-minded", "Pronunciation: /\u02c8f\u025cr\u02c8m\u026and\u026ad/", "Definition: of a person; just and impartial; not prejudiced", ""]}
+{"data": ["2021-06-21T05:25:06.042736+00:00", 4247, "Your mother is", "passable", "Pronunciation: /\u02c8p\u00e6s\u0259bl/", "Definition: about average; acceptable", "Synonyms: adequate, fair to middling, tolerable"]}
