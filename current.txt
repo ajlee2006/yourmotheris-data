@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T22:53:04.772928+00:00", 4351, "Your mother is", "subaqueous", "Pronunciation: /s\u0259b\u02c8e\u026akwi\u0259s/", "Definition: growing or remaining under water", "Synonyms: subaquatic, submerged, submersed, underwater"]}
+{"data": ["2021-06-21T23:03:05.658938+00:00", 4352, "Your mother is", "ciliary", "Pronunciation: /\u02c8s\u026ali\u02cc\u025bri/", "Definition: of or relating to the human eyelash", "Synonyms: ciliate"]}
