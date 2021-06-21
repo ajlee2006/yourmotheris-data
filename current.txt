@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T07:45:06.456100+00:00", 4261, "Your mother is", "a priori", "Pronunciation: /\u02cce\u026a-pra\u026a\u02c8o\u028ari/", "Definition: based on hypothesis or theory rather than experiment", ""]}
+{"data": ["2021-06-21T07:55:06.066387+00:00", 4262, "Your mother is", "sinhalese", "Pronunciation: /\u02ccs\u026anh\u0259\u02c8liz/", "Definition: of or relating to the Sinhalese people", "Synonyms: singhalese"]}
