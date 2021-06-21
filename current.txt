@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T11:45:06.221540+00:00", 4285, "Your mother is", "allegro", "Pronunciation: /\u0259\u02c8le\u026agro\u028a/", "Definition: (of tempo) fast", ""]}
+{"data": ["2021-06-21T11:55:06.197055+00:00", 4286, "Your mother is", "obliterated", "Pronunciation: /\u028c\u02c8bl\u026at\u025dr\u02cce\u026at\u026ad/", "Definition: reduced to nothingness", "Synonyms: blotted out, obliterate"]}
