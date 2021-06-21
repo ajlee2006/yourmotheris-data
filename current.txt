@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T11:15:06.332204+00:00", 4282, "Your mother is", "sulphur-yellow", "Similar to: chromatic", "Definition: of something having the yellow color of sulfur", "Synonyms: sulfur-yellow"]}
+{"data": ["2021-06-21T11:25:06.240030+00:00", 4283, "Your mother is", "toupeed", "Similar to: wigged", "Definition: wearing a small hairpiece to cover partial baldness", ""]}
