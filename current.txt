@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T22:43:04.897869+00:00", 4350, "Your mother is", "transplacental", "Similar to: placental", "Definition: occurring through or by way of the placenta", ""]}
+{"data": ["2021-06-21T22:53:04.772928+00:00", 4351, "Your mother is", "subaqueous", "Pronunciation: /s\u0259b\u02c8e\u026akwi\u0259s/", "Definition: growing or remaining under water", "Synonyms: subaquatic, submerged, submersed, underwater"]}
