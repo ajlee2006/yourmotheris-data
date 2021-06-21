@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T23:23:04.809657+00:00", 4354, "Your mother is", "hispid", "Pronunciation: /\u02c8h\u026asp\u026ad/", "Definition: (of animals or plants) having stiff coarse hairs or bristles", ""]}
+{"data": ["2021-06-21T23:33:04.740547+00:00", 4355, "Your mother is", "bactericidal", "Similar to: antiseptic", "Definition: preventing infection by inhibiting the growth or action of microorganisms", "Synonyms: disinfectant, germicidal"]}
