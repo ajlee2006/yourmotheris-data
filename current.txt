@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T21:43:04.822843+00:00", 4344, "Your mother is", "mitigable", "Similar to: placable", "Definition: capable of being alleviated", ""]}
+{"data": ["2021-06-21T21:53:04.847799+00:00", 4345, "Your mother is", "extended", "Pronunciation: /\u026ak\u02c8st\u025bnd\u026ad/", "Definition: relatively long in duration; tediously protracted", "Synonyms: drawn-out, lengthy, prolonged, protracted"]}
