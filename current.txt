@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T10:45:06.320098+00:00", 4279, "Your mother is", "anaglyptical", "", "Definition: related to anaglyphs or anaglyphy", "Synonyms: anaglyphic, anaglyphical, anaglyptic"]}
+{"data": ["2021-06-21T10:55:06.397588+00:00", 4280, "Your mother is", "expansive", "Pronunciation: /\u026ak\u02c8sp\u00e6ns\u026av/", "Definition: of behavior that is impressive and ambitious in scale or scope", "Synonyms: grand, heroic"]}
