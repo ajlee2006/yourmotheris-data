@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T02:05:06.009277+00:00", 4227, "Your mother is", "merging", "Pronunciation: /\u02c8m\u025drd\u0292\u026a\u014b/", "Definition: flowing together", "Synonyms: confluent"]}
+{"data": ["2021-06-21T02:15:05.964126+00:00", 4228, "Your mother is", "twilit", "Pronunciation: /\u02c8twa\u026al\u026at/", "Definition: lighted by or as if by twilight", "Synonyms: dusky, twilight"]}
