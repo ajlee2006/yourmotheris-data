@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T17:53:04.754825+00:00", 4321, "Your mother is", "midi", "Pronunciation: /mi\u02c8di/", "Definition: used of women's clothing having a hemline at mid-calf", ""]}
+{"data": ["2021-06-21T18:03:05.024069+00:00", 4322, "Your mother is", "antiauthoritarian", "Similar to: democratic", "Definition: opposed to authoritarianism", ""]}
