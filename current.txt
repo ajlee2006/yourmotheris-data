@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T15:23:05.168316+00:00", 4306, "Your mother is", "malaysian", "Pronunciation: /m\u0259\u02c8le\u026azi\u0259n/", "Definition: of or relating to or characteristic of Malaysia", "Synonyms: malayan"]}
+{"data": ["2021-06-21T15:33:05.453638+00:00", 4307, "Your mother is", "non-water-soluble", "Similar to: indissoluble", "Definition: not soluble in water", "Synonyms: water-insoluble"]}
