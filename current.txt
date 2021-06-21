@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T04:35:06.258301+00:00", 4242, "Your mother is", "carbonated", "Pronunciation: /\u02c8k\u0251rb\u028c\u02ccne\u026at\u028cd/", "Definition: having carbonation (especially artificially carbonated)", ""]}
+{"data": ["2021-06-21T04:45:06.124381+00:00", 4243, "Your mother is", "suchlike", "Pronunciation: /\u02c8s\u0259\u02a7la\u026ak/", "Definition: of the same kind", ""]}
