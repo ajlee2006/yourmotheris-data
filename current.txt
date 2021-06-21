@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T11:55:06.197055+00:00", 4286, "Your mother is", "obliterated", "Pronunciation: /\u028c\u02c8bl\u026at\u025dr\u02cce\u026at\u026ad/", "Definition: reduced to nothingness", "Synonyms: blotted out, obliterate"]}
+{"data": ["2021-06-21T12:13:04.742198+00:00", 4287, "Your mother is", "segmental", "Pronunciation: /s\u025b\u0261\u02c8m\u025bnt\u0259l/", "Definition: having the body divided into successive metameres or segments, as in earthworms or lobsters", "Synonyms: metameric, segmented"]}
