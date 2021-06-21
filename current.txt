@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T11:35:06.293980+00:00", 4284, "Your mother is", "intestinal", "Pronunciation: /\u026an\u02c8t\u025bst\u0259n\u0259l/", "Definition: of or relating to or inside the intestines", "Synonyms: enteral, enteric"]}
+{"data": ["2021-06-21T11:45:06.221540+00:00", 4285, "Your mother is", "allegro", "Pronunciation: /\u0259\u02c8le\u026agro\u028a/", "Definition: (of tempo) fast", ""]}
