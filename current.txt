@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T18:33:04.937517+00:00", 4325, "Your mother is", "entomologic", "", "Definition: of or relating to the biological science of entomology", "Synonyms: entomological"]}
+{"data": ["2021-06-21T18:43:04.855472+00:00", 4326, "Your mother is", "sorrowful", "Pronunciation: /\u02c8s\u0251ro\u028a\u02ccf\u028al/", "Definition: experiencing or marked by or expressing sorrow especially that associated with irreparable loss", ""]}
