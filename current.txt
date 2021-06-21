@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T14:43:04.873915+00:00", 4302, "Your mother is", "squishy", "Pronunciation: /\u02c8skw\u026a\u0283i/", "Definition: easily squashed; resembling a sponge in having soft porous texture and compressibility", "Synonyms: spongelike, spongy, squashy"]}
+{"data": ["2021-06-21T14:53:04.805864+00:00", 4303, "Your mother is", "unconsumed", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8sjumd/", "Definition: not consumed", ""]}
