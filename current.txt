@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T23:43:05.000374+00:00", 4356, "Your mother is", "anticyclonic", "Pronunciation: /\u02cc\u00e6ntisa\u026a\u02c8kl\u0251n\u026ak/", "Definition: of or relating to or characteristic of the atmosphere around a high pressure center", ""]}
+{"data": ["2021-06-21T23:53:04.786271+00:00", 4357, "Your mother is", "motor-assisted", "Similar to: aided", "Definition: relying on an engine for propulsion in addition to muscle power", ""]}
