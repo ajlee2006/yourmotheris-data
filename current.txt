@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T02:15:05.964126+00:00", 4228, "Your mother is", "twilit", "Pronunciation: /\u02c8twa\u026al\u026at/", "Definition: lighted by or as if by twilight", "Synonyms: dusky, twilight"]}
+{"data": ["2021-06-21T02:25:06.091097+00:00", 4229, "Your mother is", "pint-sized", "Pronunciation: /pa\u026ant-sa\u026azd/", "Definition: well below average height", "Synonyms: pint-size, runty, sawed-off, sawn-off"]}
