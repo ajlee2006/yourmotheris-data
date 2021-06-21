@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T15:43:04.900329+00:00", 4308, "Your mother is", "papistic", "Pronunciation: /p\u0259\u02c8p\u026ast\u026ak/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistical, popish, r.c., roman, roman catholic, romanist, romish"]}
+{"data": ["2021-06-21T15:53:04.811848+00:00", 4309, "Your mother is", "tortuous", "Pronunciation: /\u02c8t\u0254r\u02a7u\u0259s/", "Definition: highly complex or intricate and occasionally devious", "Synonyms: byzantine, convoluted, involved, knotty, tangled"]}
