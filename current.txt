@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T08:05:06.235820+00:00", 4263, "Your mother is", "unregistered", "Pronunciation: /\u0259n\u02c8r\u025bd\u0292\u026ast\u0259d/", "Definition: (a boat or vessel) not furnished with official documents", ""]}
+{"data": ["2021-06-21T08:15:06.247670+00:00", 4264, "Your mother is", "complementary", "Pronunciation: /\u02cck\u0251mpl\u0259\u02c8m\u025bnt\u0259ri/", "Definition: acting as or providing a complement (something that completes the whole)", "Synonyms: complemental, completing"]}
