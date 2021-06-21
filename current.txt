@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T19:23:05.061943+00:00", 4330, "Your mother is", "petalous", "Pronunciation: /\u02c8p\u025bt\u0259l\u0259s/", "Definition: (of flowers) having petals", "Synonyms: petaled, petalled"]}
+{"data": ["2021-06-21T19:33:04.784049+00:00", 4331, "Your mother is", "quick-frozen", "Similar to: preserved", "Definition: (used of foods) preserved by freezing sufficiently rapidly to retain flavor and nutritional value", "Synonyms: flash-frozen, frozen"]}
