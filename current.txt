@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T13:13:04.775362+00:00", 4293, "Your mother is", "one-seed", "Similar to: seedy", "Definition: having a single seed", "Synonyms: one-seeded, single-seeded"]}
+{"data": ["2021-06-21T13:23:05.520438+00:00", 4294, "Your mother is", "undignified", "Pronunciation: /\u0259n\u02c8d\u026agn\u026a\u02ccfa\u026ad/", "Definition: lacking dignity", ""]}
