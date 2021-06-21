@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T13:23:05.520438+00:00", 4294, "Your mother is", "undignified", "Pronunciation: /\u0259n\u02c8d\u026agn\u026a\u02ccfa\u026ad/", "Definition: lacking dignity", ""]}
+{"data": ["2021-06-21T13:33:04.909938+00:00", 4295, "Your mother is", "extrusive", "Pronunciation: /\u026ak\u02c8strus\u026av/", "Definition: of rock material; forced out while molten through cracks in the earth's surface", ""]}
