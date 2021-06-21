@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T07:15:06.160447+00:00", 4258, "Your mother is", "hastate", "Pronunciation: /\u02c8h\u00e6ste\u026at/", "Definition: (of a leaf shape) like a spear point, with flaring pointed lobes at the base", "Synonyms: spearhead-shaped"]}
+{"data": ["2021-06-21T07:25:06.195485+00:00", 4259, "Your mother is", "dented", "Pronunciation: /\u02c8d\u025bnt\u026ad/", "Definition: of metal e.g.", "Synonyms: bent, crumpled"]}
