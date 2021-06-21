@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T02:55:05.977455+00:00", 4232, "Your mother is", "unclaimed", "Pronunciation: /\u0259n\u02c8kle\u026amd/", "Definition: not claimed or called for by an owner or assignee", ""]}
+{"data": ["2021-06-21T03:05:06.009778+00:00", 4233, "Your mother is", "twentieth", "Pronunciation: /\u02c8tw\u025bnti\u026a\u03b8/", "Definition: coming next after the nineteenth in position", "Synonyms: 20th"]}
