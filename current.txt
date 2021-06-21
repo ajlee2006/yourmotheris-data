@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T23:13:04.824763+00:00", 4353, "Your mother is", "undefined", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8fa\u026and/", "Definition: not precisely limited, determined, or distinguished", "Synonyms: vague"]}
+{"data": ["2021-06-21T23:23:04.809657+00:00", 4354, "Your mother is", "hispid", "Pronunciation: /\u02c8h\u026asp\u026ad/", "Definition: (of animals or plants) having stiff coarse hairs or bristles", ""]}
