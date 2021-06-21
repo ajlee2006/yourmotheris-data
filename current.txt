@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T07:55:06.066387+00:00", 4262, "Your mother is", "sinhalese", "Pronunciation: /\u02ccs\u026anh\u0259\u02c8liz/", "Definition: of or relating to the Sinhalese people", "Synonyms: singhalese"]}
+{"data": ["2021-06-21T08:05:06.235820+00:00", 4263, "Your mother is", "unregistered", "Pronunciation: /\u0259n\u02c8r\u025bd\u0292\u026ast\u0259d/", "Definition: (a boat or vessel) not furnished with official documents", ""]}
