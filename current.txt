@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T13:03:04.753116+00:00", 4292, "Your mother is", "bowed down", "Pronunciation: /bo\u028ad-da\u028an/", "Definition: heavily burdened with work or cares", "Synonyms: loaded down, overburdened, weighed down"]}
+{"data": ["2021-06-21T13:13:04.775362+00:00", 4293, "Your mother is", "one-seed", "Similar to: seedy", "Definition: having a single seed", "Synonyms: one-seeded, single-seeded"]}
