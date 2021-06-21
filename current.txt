@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T06:15:06.142692+00:00", 4252, "Your mother is", "bootless", "Pronunciation: /\u02c8butl\u026as/", "Definition: unproductive of success", "Synonyms: fruitless, futile, sleeveless, vain"]}
+{"data": ["2021-06-21T06:25:06.388409+00:00", 4253, "Your mother is", "bimotored", "Pronunciation: /ba\u026a\u02c8mo\u028at\u0259rd/", "Definition: having two motors", ""]}
