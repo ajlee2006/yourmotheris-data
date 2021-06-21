@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T21:13:04.769102+00:00", 4341, "Your mother is", "lush", "Pronunciation: /l\u0259\u0283/", "Definition: tender and full of juice", "Synonyms: succulent"]}
+{"data": ["2021-06-21T21:23:04.666514+00:00", 4342, "Your mother is", "pianissimo assai", "Similar to: piano", "Definition: (chiefly a direction or description in music) very soft", ""]}
