@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T06:45:06.027991+00:00", 4255, "Your mother is", "punch-drunk", "Pronunciation: /p\u0259n\u02a7-dr\u0259\u014bk/", "Definition: dazed from or as if from repeated blows", "Synonyms: silly, slaphappy"]}
+{"data": ["2021-06-21T06:55:06.001235+00:00", 4256, "Your mother is", "violated", "Pronunciation: /\u02c8va\u026a\u028cle\u026at\u026ad/", "Definition: treated irreverently or sacrilegiously", "Synonyms: profaned"]}
