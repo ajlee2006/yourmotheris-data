@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T16:13:04.918767+00:00", 4311, "Your mother is", "rampant", "Pronunciation: /\u02c8r\u00e6mp\u0259nt/", "Definition: rearing on left hind leg with forelegs elevated and head usually in profile", "Synonyms: rearing"]}
+{"data": ["2021-06-21T16:23:05.167995+00:00", 4312, "Your mother is", "bicornate", "Similar to: horned", "Definition: having two horns or horn-shaped parts", "Synonyms: bicorn, bicorned, bicornuate, bicornuous"]}
