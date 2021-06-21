@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T06:55:06.001235+00:00", 4256, "Your mother is", "violated", "Pronunciation: /\u02c8va\u026a\u028cle\u026at\u026ad/", "Definition: treated irreverently or sacrilegiously", "Synonyms: profaned"]}
+{"data": ["2021-06-21T07:05:06.198592+00:00", 4257, "Your mother is", "terror-stricken", "Pronunciation: /\u02c8t\u025br\u0259r-\u02c8str\u026ak\u0259n/", "Definition: struck or filled with terror", "Synonyms: terror-struck"]}
