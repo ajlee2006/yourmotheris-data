@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T04:05:06.068333+00:00", 4239, "Your mother is", "finished", "Pronunciation: /\u02c8f\u026an\u026a\u0283t/", "Definition: brought to ruin", "Synonyms: ruined"]}
+{"data": ["2021-06-21T04:15:06.080046+00:00", 4240, "Your mother is", "bovine", "Pronunciation: /\u02c8bo\u028ava\u026an/", "Definition: of or relating to or belonging to the genus Bos (cattle)", "Synonyms: bovid"]}
