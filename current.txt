@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T10:35:06.430185+00:00", 4278, "Your mother is", "decimal", "Pronunciation: /\u02c8d\u025bs\u0259m\u0259l/", "Definition: numbered or proceeding by tens; based on ten", "Synonyms: denary"]}
+{"data": ["2021-06-21T10:45:06.320098+00:00", 4279, "Your mother is", "anaglyptical", "", "Definition: related to anaglyphs or anaglyphy", "Synonyms: anaglyphic, anaglyphical, anaglyptic"]}
