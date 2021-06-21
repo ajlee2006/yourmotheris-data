@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T14:33:04.826437+00:00", 4301, "Your mother is", "matronly", "Pronunciation: /\u02c8me\u026atr\u0259nli/", "Definition: befitting or characteristic of a fully mature woman", ""]}
+{"data": ["2021-06-21T14:43:04.873915+00:00", 4302, "Your mother is", "squishy", "Pronunciation: /\u02c8skw\u026a\u0283i/", "Definition: easily squashed; resembling a sponge in having soft porous texture and compressibility", "Synonyms: spongelike, spongy, squashy"]}
