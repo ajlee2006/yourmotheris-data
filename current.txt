@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T08:25:06.079357+00:00", 4265, "Your mother is", "half-track", "Pronunciation: /h\u00e6f-tr\u00e6k/", "Definition: having caterpillar treads on the rear and wheels in front", "Synonyms: half-tracked"]}
+{"data": ["2021-06-21T08:35:06.177785+00:00", 4266, "Your mother is", "glooming", "Pronunciation: /\u02c8glum\u026a\u014b/", "Definition: depressingly dark", "Synonyms: gloomful, gloomy, sulky"]}
