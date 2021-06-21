@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T05:35:06.207180+00:00", 4248, "Your mother is", "disturbing", "Pronunciation: /d\u026a\u02c8st\u025crb\u026a\u014b/", "Definition: causing distress or worry or anxiety", "Synonyms: distressful, distressing, perturbing, troubling, worrisome, worrying"]}
+{"data": ["2021-06-21T05:45:06.209975+00:00", 4249, "Your mother is", "canonized", "Similar to: authorised", "Definition: accorded sacrosanct or authoritative standing", "Synonyms: canonised, glorified"]}
