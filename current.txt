@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T01:05:06.043240+00:00", 4221, "Your mother is", "acaudal", "Pronunciation: /e\u026a\u02c8k\u0254d\u0259l/", "Definition: lacking a tail or taillike appendage", "Synonyms: acaudate"]}
+{"data": ["2021-06-21T01:15:06.044404+00:00", 4222, "Your mother is", "daedal", "Pronunciation: /\u02c8did\u0259l/", "Definition: complex and ingenious in design or function", ""]}
