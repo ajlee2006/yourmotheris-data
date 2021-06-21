@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T20:23:05.150903+00:00", 4336, "Your mother is", "scandent", "Pronunciation: /\u02c8sk\u00e6nd\u0259nt/", "Definition: used especially of plants; having a tendency to climb", ""]}
+{"data": ["2021-06-21T20:33:04.769093+00:00", 4337, "Your mother is", "diametral", "Pronunciation: /da\u026a\u02c8\u00e6m\u026atr\u0259l/", "Definition: related to or along a diameter", "Synonyms: diametric, diametrical"]}
