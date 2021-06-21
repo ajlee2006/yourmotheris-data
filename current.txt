@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T05:05:06.087352+00:00", 4245, "Your mother is", "glutinous", "Pronunciation: /\u02c8glut\u0259n\u0259s/", "Definition: having the sticky properties of an adhesive", "Synonyms: gluey, gummy, mucilaginous, pasty, sticky, viscid, viscous"]}
+{"data": ["2021-06-21T05:15:06.071522+00:00", 4246, "Your mother is", "fair-minded", "Pronunciation: /\u02c8f\u025cr\u02c8m\u026and\u026ad/", "Definition: of a person; just and impartial; not prejudiced", ""]}
