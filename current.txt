@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T16:43:05.031393+00:00", 4314, "Your mother is", "inelegant", "Pronunciation: /\u026an\u02c8\u025bl\u0259\u0261\u0259nt/", "Definition: lacking in refinement or grace or good taste", ""]}
+{"data": ["2021-06-21T16:53:04.695651+00:00", 4315, "Your mother is", "unmediated", "Similar to: immediate", "Definition: having no intervening persons, agents, conditions", "Synonyms: direct"]}
