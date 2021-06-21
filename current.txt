@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T20:03:04.870471+00:00", 4334, "Your mother is", "interrelated", "Pronunciation: /\u02cc\u026ant\u0259rr\u026a\u02c8le\u026at\u026ad/", "Definition: reciprocally connected", "Synonyms: interconnected"]}
+{"data": ["2021-06-21T20:13:04.814522+00:00", 4335, "Your mother is", "vapourish", "Pronunciation: /\u02c8ve\u026ap\u0259r\u026a\u0283/", "Definition: resembling or characteristic of vapor", "Synonyms: vaporific, vaporish, vaporous, vapourific, vapourous"]}
