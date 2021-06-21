@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T04:25:06.139073+00:00", 4241, "Your mother is", "unlobed", "Similar to: simple", "Definition: without lobes", ""]}
+{"data": ["2021-06-21T04:35:06.258301+00:00", 4242, "Your mother is", "carbonated", "Pronunciation: /\u02c8k\u0251rb\u028c\u02ccne\u026at\u028cd/", "Definition: having carbonation (especially artificially carbonated)", ""]}
