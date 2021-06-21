@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T14:13:04.940533+00:00", 4299, "Your mother is", "shackled", "Pronunciation: /\u02c8\u0283\u00e6k\u028cld/", "Definition: bound by chains fastened around the ankles", "Synonyms: fettered"]}
+{"data": ["2021-06-21T14:23:05.098743+00:00", 4300, "Your mother is", "self-deprecating", "Pronunciation: /\u02ccs\u025blf\u02c8d\u025bpr\u0259\u02ccke\u026at\u026a\u014b/", "Definition: conscious of your own shortcomings", ""]}
