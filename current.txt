@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T04:55:06.302942+00:00", 4244, "Your mother is", "bellyless", "", "Definition: lacking a prominent belly", "Synonyms: flat-bellied"]}
+{"data": ["2021-06-21T05:05:06.087352+00:00", 4245, "Your mother is", "glutinous", "Pronunciation: /\u02c8glut\u0259n\u0259s/", "Definition: having the sticky properties of an adhesive", "Synonyms: gluey, gummy, mucilaginous, pasty, sticky, viscid, viscous"]}
