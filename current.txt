@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T03:35:06.017856+00:00", 4236, "Your mother is", "rational", "Pronunciation: /\u02c8r\u00e6\u0283\u0259n\u0259l/", "Definition: of or associated with or requiring the use of the mind", "Synonyms: intellectual, noetic"]}
+{"data": ["2021-06-21T03:45:06.055220+00:00", 4237, "Your mother is", "sensitizing", "", "Definition: making susceptible or sensitive to either physical or emotional stimuli", "Synonyms: sensitising"]}
