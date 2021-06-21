@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T07:05:06.198592+00:00", 4257, "Your mother is", "terror-stricken", "Pronunciation: /\u02c8t\u025br\u0259r-\u02c8str\u026ak\u0259n/", "Definition: struck or filled with terror", "Synonyms: terror-struck"]}
+{"data": ["2021-06-21T07:15:06.160447+00:00", 4258, "Your mother is", "hastate", "Pronunciation: /\u02c8h\u00e6ste\u026at/", "Definition: (of a leaf shape) like a spear point, with flaring pointed lobes at the base", "Synonyms: spearhead-shaped"]}
