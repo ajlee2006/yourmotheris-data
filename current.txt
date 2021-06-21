@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T01:35:06.026031+00:00", 4224, "Your mother is", "theatrical", "Pronunciation: /\u03b8i\u02c8\u00e6tr\u026ak\u0259l/", "Definition: suited to or characteristic of the stage or theater", ""]}
+{"data": ["2021-06-21T01:45:06.251848+00:00", 4225, "Your mother is", "leaflike", "Pronunciation: /\u02c8lif\u02ccla\u026ak/", "Definition: resembling a leaf", "Synonyms: leaf-like"]}
