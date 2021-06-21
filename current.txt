@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T06:05:06.176947+00:00", 4251, "Your mother is", "ghastly", "Pronunciation: /\u0261\u00e6stli/", "Definition: gruesomely indicative of death or the dead", "Synonyms: charnel, sepulchral"]}
+{"data": ["2021-06-21T06:15:06.142692+00:00", 4252, "Your mother is", "bootless", "Pronunciation: /\u02c8butl\u026as/", "Definition: unproductive of success", "Synonyms: fruitless, futile, sleeveless, vain"]}
