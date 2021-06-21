@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T06:25:06.388409+00:00", 4253, "Your mother is", "bimotored", "Pronunciation: /ba\u026a\u02c8mo\u028at\u0259rd/", "Definition: having two motors", ""]}
+{"data": ["2021-06-21T06:35:06.413109+00:00", 4254, "Your mother is", "antitumor", "", "Definition: used in the treatment of cancer", "Synonyms: anticancer, antineoplastic, antitumour"]}
