@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T00:45:06.085464+00:00", 4219, "Your mother is", "cancellate", "Pronunciation: /\u02c8k\u00e6ns\u0259\u02ccle\u026at/", "Definition: having a latticelike structure pierced with holes or windows", "Synonyms: cancellated, clathrate"]}
+{"data": ["2021-06-21T00:55:05.949962+00:00", 4220, "Your mother is", "carved", "Pronunciation: /k\u0251rvd/", "Definition: made for or formed by carving (`carven' is archaic or literary)", "Synonyms: carven"]}
