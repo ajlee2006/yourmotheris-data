@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T00:35:06.059220+00:00", 4218, "Your mother is", "unrighteous", "Pronunciation: /\u0259n\u02c8ra\u026a\u02a7\u0259s/", "Definition: not righteous", ""]}
+{"data": ["2021-06-21T00:45:06.085464+00:00", 4219, "Your mother is", "cancellate", "Pronunciation: /\u02c8k\u00e6ns\u0259\u02ccle\u026at/", "Definition: having a latticelike structure pierced with holes or windows", "Synonyms: cancellated, clathrate"]}
