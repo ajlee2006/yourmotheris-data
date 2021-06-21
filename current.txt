@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T12:13:04.742198+00:00", 4287, "Your mother is", "segmental", "Pronunciation: /s\u025b\u0261\u02c8m\u025bnt\u0259l/", "Definition: having the body divided into successive metameres or segments, as in earthworms or lobsters", "Synonyms: metameric, segmented"]}
+{"data": ["2021-06-21T12:23:04.881711+00:00", 4288, "Your mother is", "mindless", "Pronunciation: /\u02c8ma\u026andl\u026as/", "Definition: not mindful or attentive", "Synonyms: forgetful, unmindful"]}
