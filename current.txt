@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T00:05:06.217621+00:00", 4215, "Your mother is", "azido", "Pronunciation: /\u02c8\u00e6z\u026a\u02ccdo\u028a/", "Definition: relating to or containing the azido group N3", ""]}
+{"data": ["2021-06-21T00:15:06.183059+00:00", 4216, "Your mother is", "moderate-size", "Similar to: sized", "Definition: intermediate in size", "Synonyms: medium-size, medium-sized, moderate-sized"]}
