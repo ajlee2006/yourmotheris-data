@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T20:33:04.769093+00:00", 4337, "Your mother is", "diametral", "Pronunciation: /da\u026a\u02c8\u00e6m\u026atr\u0259l/", "Definition: related to or along a diameter", "Synonyms: diametric, diametrical"]}
+{"data": ["2021-06-21T20:43:04.753974+00:00", 4338, "Your mother is", "true to life", "Similar to: realistic", "Definition: representing things or actions or conditions as they actually are", "Synonyms: true-to-life"]}
