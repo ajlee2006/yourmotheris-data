@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T01:55:06.119664+00:00", 4226, "Your mother is", "dermatological", "Pronunciation: /\u02ccd\u025crm\u0259\u02c8t\u0259l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to or practicing dermatology", "Synonyms: dermatologic"]}
+{"data": ["2021-06-21T02:05:06.009277+00:00", 4227, "Your mother is", "merging", "Pronunciation: /\u02c8m\u025drd\u0292\u026a\u014b/", "Definition: flowing together", "Synonyms: confluent"]}
