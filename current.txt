@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T18:53:04.853453+00:00", 4327, "Your mother is", "bladelike", "Similar to: simple", "Definition: shaped like a sword blade", "Synonyms: ensiform, sword-shaped, swordlike"]}
+{"data": ["2021-06-21T19:03:04.891686+00:00", 4328, "Your mother is", "grandiloquent", "Pronunciation: /gr\u00e6n\u02c8d\u026al\u0259kw\u0259nt/", "Definition: puffed up with vanity", "Synonyms: overblown, pompous, pontifical, portentous"]}
