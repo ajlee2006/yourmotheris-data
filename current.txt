@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T22:03:04.772007+00:00", 4346, "Your mother is", "quotable", "Pronunciation: /\u02c8kwo\u028at\u0259b\u0259l/", "Definition: able or fit to be repeated or quoted", "Synonyms: repeatable"]}
+{"data": ["2021-06-21T22:13:04.882776+00:00", 4347, "Your mother is", "exacting", "Pronunciation: /\u026a\u0261\u02c8z\u00e6kt\u026a\u014b/", "Definition: requiring precise accuracy", "Synonyms: exigent"]}
