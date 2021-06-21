@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T05:55:06.129938+00:00", 4250, "Your mother is", "acerb", "Pronunciation: /\u0259\u02c8s\u025crb/", "Definition: sour or bitter in taste", "Synonyms: acerbic, astringent"]}
+{"data": ["2021-06-21T06:05:06.176947+00:00", 4251, "Your mother is", "ghastly", "Pronunciation: /\u0261\u00e6stli/", "Definition: gruesomely indicative of death or the dead", "Synonyms: charnel, sepulchral"]}
