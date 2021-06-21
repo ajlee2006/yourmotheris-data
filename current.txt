@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T04:15:06.080046+00:00", 4240, "Your mother is", "bovine", "Pronunciation: /\u02c8bo\u028ava\u026an/", "Definition: of or relating to or belonging to the genus Bos (cattle)", "Synonyms: bovid"]}
+{"data": ["2021-06-21T04:25:06.139073+00:00", 4241, "Your mother is", "unlobed", "Similar to: simple", "Definition: without lobes", ""]}
