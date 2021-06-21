@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T16:03:04.935589+00:00", 4310, "Your mother is", "renascent", "Pronunciation: /r\u026a\u02c8n\u00e6s\u0259nt/", "Definition: rising again as to new life and vigor", "Synonyms: resurgent"]}
+{"data": ["2021-06-21T16:13:04.918767+00:00", 4311, "Your mother is", "rampant", "Pronunciation: /\u02c8r\u00e6mp\u0259nt/", "Definition: rearing on left hind leg with forelegs elevated and head usually in profile", "Synonyms: rearing"]}
