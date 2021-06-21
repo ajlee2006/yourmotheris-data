@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T17:13:04.859040+00:00", 4317, "Your mother is", "savory", "Pronunciation: /\u02c8se\u026av\u0259ri/", "Definition: pleasing to the sense of taste", "Synonyms: mouth-watering, savoury"]}
+{"data": ["2021-06-21T17:23:04.711914+00:00", 4318, "Your mother is", "embossed", "Pronunciation: /\u026am\u02c8b\u0254st/", "Definition: embellished with a raised pattern created by pressure or embroidery", "Synonyms: brocaded, raised"]}
