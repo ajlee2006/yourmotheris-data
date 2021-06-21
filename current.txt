@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T22:13:04.882776+00:00", 4347, "Your mother is", "exacting", "Pronunciation: /\u026a\u0261\u02c8z\u00e6kt\u026a\u014b/", "Definition: requiring precise accuracy", "Synonyms: exigent"]}
+{"data": ["2021-06-21T22:23:04.911982+00:00", 4348, "Your mother is", "sociobiological", "", "Definition: of or relating to sociobiology", "Synonyms: sociobiologic"]}
