@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T19:13:04.793479+00:00", 4329, "Your mother is", "monoestrous", "Similar to: estrous", "Definition: having one estrous cycle per year", "Synonyms: monestrous"]}
+{"data": ["2021-06-21T19:23:05.061943+00:00", 4330, "Your mother is", "petalous", "Pronunciation: /\u02c8p\u025bt\u0259l\u0259s/", "Definition: (of flowers) having petals", "Synonyms: petaled, petalled"]}
