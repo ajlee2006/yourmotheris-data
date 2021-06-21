@@ -1,1 +1,1 @@
-{"data": ["2021-06-20T23:55:05.999832+00:00", 4214, "Your mother is", "subordinative", "Pronunciation: /s\u0259\u02c8b\u0254r\u02ccd\u0259ne\u026at\u026av/", "Definition: serving to connect a subordinate clause to a main clause", "Synonyms: subordinating"]}
+{"data": ["2021-06-21T00:05:06.217621+00:00", 4215, "Your mother is", "azido", "Pronunciation: /\u02c8\u00e6z\u026a\u02ccdo\u028a/", "Definition: relating to or containing the azido group N3", ""]}
