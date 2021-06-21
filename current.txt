@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T16:33:05.427582+00:00", 4313, "Your mother is", "unimportant", "Pronunciation: /\u028cn\u026am\u02c8p\u0254rt\u028cnt/", "Definition: devoid of importance, meaning, or force", "Synonyms: insignificant"]}
+{"data": ["2021-06-21T16:43:05.031393+00:00", 4314, "Your mother is", "inelegant", "Pronunciation: /\u026an\u02c8\u025bl\u0259\u0261\u0259nt/", "Definition: lacking in refinement or grace or good taste", ""]}
