@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T15:03:04.897441+00:00", 4304, "Your mother is", "averse", "Pronunciation: /\u0259\u02c8v\u025crs/", "Definition: (usually followed by `to') strongly opposed", "Synonyms: antipathetic, antipathetical, indisposed, loath, loth"]}
+{"data": ["2021-06-21T15:13:04.777679+00:00", 4305, "Your mother is", "ataxic", "", "Definition: lacking motor coordination; marked or caused by ataxia", "Synonyms: atactic"]}
