@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T04:45:06.124381+00:00", 4243, "Your mother is", "suchlike", "Pronunciation: /\u02c8s\u0259\u02a7la\u026ak/", "Definition: of the same kind", ""]}
+{"data": ["2021-06-21T04:55:06.302942+00:00", 4244, "Your mother is", "bellyless", "", "Definition: lacking a prominent belly", "Synonyms: flat-bellied"]}
