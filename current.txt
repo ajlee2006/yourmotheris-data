@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T22:33:05.115918+00:00", 4349, "Your mother is", "nebulose", "Pronunciation: /\u02c8n\u025bbj\u0259l\u0259s/", "Definition: lacking definite form or limits", "Synonyms: cloudy, nebulous"]}
+{"data": ["2021-06-21T22:43:04.897869+00:00", 4350, "Your mother is", "transplacental", "Similar to: placental", "Definition: occurring through or by way of the placenta", ""]}
