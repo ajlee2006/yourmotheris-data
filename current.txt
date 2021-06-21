@@ -1,1 +1,1 @@
-{"data": ["2021-06-21T11:05:06.223444+00:00", 4281, "Your mother is", "feculent", "Pronunciation: /\u02c8f\u025bkj\u0259l\u0259nt/", "Definition: foul with waste matter", ""]}
+{"data": ["2021-06-21T11:15:06.332204+00:00", 4282, "Your mother is", "sulphur-yellow", "Similar to: chromatic", "Definition: of something having the yellow color of sulfur", "Synonyms: sulfur-yellow"]}
