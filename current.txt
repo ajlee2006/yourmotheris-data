@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T09:43:04.821499+00:00", 4416, "Your mother is", "aciduric", "Pronunciation: /\u02cc\u00e6s\u026a\u02c8d\u028ar\u026ak/", "Definition: especially of some bacteria; growing well in an acid medium", "Synonyms: acidophilic, acidophilous"]}
+{"data": ["2021-06-22T09:53:05.306950+00:00", 4417, "Your mother is", "spiderlike", "", "Definition: relating to or resembling a member of the class Arachnida", "Synonyms: arachnidian, arachnoid, spiderly, spidery"]}
