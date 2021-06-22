@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T10:33:04.955651+00:00", 4421, "Your mother is", "destined", "Pronunciation: /\u02c8d\u025bst\u026and/", "Definition: (usually followed by `to') governed by fate", "Synonyms: bound"]}
+{"data": ["2021-06-22T10:43:04.860918+00:00", 4422, "Your mother is", "capable", "Pronunciation: /\u02c8ke\u026ap\u0259b\u0259l/", "Definition: possibly accepting or permitting", "Synonyms: open, subject"]}
