@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T08:33:05.479648+00:00", 4409, "Your mother is", "naturalized", "Pronunciation: /\u02c8n\u00e6t\u0283\u025dr\u028c\u02ccla\u026azd/", "Definition: planted so as to give an effect of wild growth", "Synonyms: naturalised"]}
+{"data": ["2021-06-22T08:43:05.210190+00:00", 4410, "Your mother is", "propulsive", "Similar to: dynamic", "Definition: tending to or capable of propelling", "Synonyms: propellant, propellent, propelling"]}
