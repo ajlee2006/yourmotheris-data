@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T22:24:37.681767+00:00", 4492, "Your mother is", "epicurean", "Pronunciation: /\u02cc\u025bp\u026akj\u028a\u0259\u02c8ri\u0259n/", "Definition: devoted to pleasure", "Synonyms: hedonic, hedonistic"]}
+{"data": ["2021-06-22T22:34:37.690221+00:00", 4493, "Your mother is", "recoverable", "Pronunciation: /r\u026a\u02c8k\u0259v\u0259r\u0259b\u0259l/", "Definition: capable of being recovered or regained", ""]}
