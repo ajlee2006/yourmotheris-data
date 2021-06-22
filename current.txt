@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T06:33:05.051556+00:00", 4397, "Your mother is", "semirigid", "Pronunciation: /\u02ccs\u025bmi\u02c8r\u026ad\u0292\u026ad/", "Definition: having a form maintained by a rigid internal structure as well as by internal gas pressure", ""]}
+{"data": ["2021-06-22T06:43:05.035032+00:00", 4398, "Your mother is", "neoclassical", "Pronunciation: /\u02ccnio\u028a\u02c8kl\u00e6s\u026ak\u0259l/", "Definition: characteristic of a revival of an earlier classical style", "Synonyms: neoclassic"]}
