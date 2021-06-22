@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T06:43:05.035032+00:00", 4398, "Your mother is", "neoclassical", "Pronunciation: /\u02ccnio\u028a\u02c8kl\u00e6s\u026ak\u0259l/", "Definition: characteristic of a revival of an earlier classical style", "Synonyms: neoclassic"]}
+{"data": ["2021-06-22T06:53:04.978269+00:00", 4399, "Your mother is", "pentagonal", "Pronunciation: /p\u025bn\u02c8t\u00e6\u0261\u0259n\u0259l/", "Definition: of or relating to or shaped like a pentagon", "Synonyms: pentangular"]}
