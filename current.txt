@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T05:13:05.909499+00:00", 4389, "Your mother is", "sanctioned", "Pronunciation: /\u02c8s\u00e6\u014bk\u0283\u028cnd/", "Definition: conforming to orthodox or recognized rules", "Synonyms: canonic, canonical"]}
+{"data": ["2021-06-22T05:23:05.539331+00:00", 4390, "Your mother is", "buttony", "Pronunciation: /\u02c8b\u0259t\u0259ni/", "Definition: small and round and shiny like a shiny bead or button", "Synonyms: beadlike, beady, buttonlike"]}
