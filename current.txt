@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T02:53:04.871350+00:00", 4375, "Your mother is", "unstudied", "Pronunciation: /\u0259n\u02c8st\u0259d\u026ad/", "Definition: not by design or artifice; unforced and impromptu", "Synonyms: uncontrived"]}
+{"data": ["2021-06-22T03:03:04.871198+00:00", 4376, "Your mother is", "sarcolemmic", "", "Definition: of or relating to sarcolemma", "Synonyms: sarcolemnous"]}
