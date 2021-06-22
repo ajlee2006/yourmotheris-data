@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T22:34:37.690221+00:00", 4493, "Your mother is", "recoverable", "Pronunciation: /r\u026a\u02c8k\u0259v\u0259r\u0259b\u0259l/", "Definition: capable of being recovered or regained", ""]}
+{"data": ["2021-06-22T22:44:37.928328+00:00", 4494, "Your mother is", "exceptionable", "Pronunciation: /\u026ak\u02c8s\u025bp\u0283\u0259n\u0259b\u0259l/", "Definition: liable to objection or debate; used of something one might take exception to", "Synonyms: objectionable"]}
