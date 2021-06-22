@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T17:34:37.865172+00:00", 4463, "Your mother is", "derivative", "Pronunciation: /d\u026a\u02c8r\u026av\u0259t\u026av/", "Definition: resulting from or employing derivation", ""]}
+{"data": ["2021-06-22T17:44:37.758754+00:00", 4464, "Your mother is", "accretionary", "Similar to: increasing", "Definition: marked or produced by accretion", ""]}
