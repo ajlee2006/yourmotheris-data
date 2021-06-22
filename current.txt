@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T17:24:38.203731+00:00", 4462, "Your mother is", "premature", "Pronunciation: /\u02ccprim\u0259\u02c8t\u028ar/", "Definition: too soon or too hasty", "Synonyms: previous"]}
+{"data": ["2021-06-22T17:34:37.865172+00:00", 4463, "Your mother is", "derivative", "Pronunciation: /d\u026a\u02c8r\u026av\u0259t\u026av/", "Definition: resulting from or employing derivation", ""]}
