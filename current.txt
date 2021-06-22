@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T01:43:04.757432+00:00", 4368, "Your mother is", "supplemental", "Pronunciation: /\u02ccs\u0259pl\u0259\u02c8m\u025bnt\u0259l/", "Definition: functioning in a supporting capacity", "Synonyms: auxiliary, subsidiary, supplementary"]}
+{"data": ["2021-06-22T01:53:04.688631+00:00", 4369, "Your mother is", "uncurled", "Similar to: straight", "Definition: not curled", ""]}
