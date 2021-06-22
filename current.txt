@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T14:04:37.745279+00:00", 4442, "Your mother is", "unconverted", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8v\u025crt\u026ad/", "Definition: not converted", "Synonyms: unpersuaded"]}
+{"data": ["2021-06-22T14:14:38.238482+00:00", 4443, "Your mother is", "struggling", "Pronunciation: /\u02c8str\u028c\u0261\u028cl\u026a\u014b/", "Definition: engaged in a struggle to overcome especially poverty or obscurity", ""]}
