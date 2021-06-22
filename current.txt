@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T06:03:05.251908+00:00", 4394, "Your mother is", "saltlike", "Pronunciation: /\u02c8s\u0254lt\u02ccla\u026ak/", "Definition: resembling a compound formed by replacing hydrogen in an acid by a metal", ""]}
+{"data": ["2021-06-22T06:13:04.970112+00:00", 4395, "Your mother is", "biconcave", "Pronunciation: /ba\u026a\u02c8k\u0251nke\u026av/", "Definition: concave on both sides", "Synonyms: concavo-concave"]}
