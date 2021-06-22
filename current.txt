@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T07:53:05.607268+00:00", 4405, "Your mother is", "laciniate", "Pronunciation: /l\u0259\u02c8s\u026ani\u02cce\u026at/", "Definition: having edges irregularly and finely slashed", "Synonyms: fringed"]}
+{"data": ["2021-06-22T08:03:05.513280+00:00", 4406, "Your mother is", "crested", "Pronunciation: /\u02c8kr\u025bst\u028cd/", "Definition: (of a knight's helmet) having a decorative plume", "Synonyms: plumed"]}
