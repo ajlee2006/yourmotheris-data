@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T03:13:04.815410+00:00", 4377, "Your mother is", "discrepant", "Pronunciation: /d\u026a\u02c8skr\u025bp\u0259nt/", "Definition: not in accord", "Synonyms: at variance, dissonant"]}
+{"data": ["2021-06-22T03:23:04.909195+00:00", 4378, "Your mother is", "unconfirmed", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8f\u025crmd/", "Definition: not finally established or settled", ""]}
