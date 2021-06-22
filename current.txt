@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T01:13:05.020638+00:00", 4365, "Your mother is", "cardboard", "Pronunciation: /\u02c8k\u0251rd\u02ccbo\u028ard/", "Definition: without substance", "Synonyms: unlifelike"]}
+{"data": ["2021-06-22T01:23:04.975582+00:00", 4366, "Your mother is", "thickspread", "Similar to: covered", "Definition: covered thickly", ""]}
