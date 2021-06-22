@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T08:13:05.258538+00:00", 4407, "Your mother is", "tailored", "Pronunciation: /\u02c8te\u026al\u0259rd/", "Definition: (of clothing) custom-made", "Synonyms: bespoke, bespoken, made-to-order, tailor-made"]}
+{"data": ["2021-06-22T08:23:05.285796+00:00", 4408, "Your mother is", "suspicious", "Pronunciation: /s\u0259\u02c8sp\u026a\u0283\u0259s/", "Definition: not as expected", "Synonyms: fishy, funny, shady, suspect"]}
