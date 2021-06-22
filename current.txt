@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T20:24:37.708306+00:00", 4480, "Your mother is", "unrouged", "Similar to: unpainted", "Definition: not wearing rouge", ""]}
+{"data": ["2021-06-22T20:34:37.630201+00:00", 4481, "Your mother is", "mouselike", "Similar to: chromatic", "Definition: of something having a drab pale brown color resembling a mouse", "Synonyms: mouse-colored, mousey, mousy"]}
