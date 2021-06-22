@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T15:54:37.798314+00:00", 4453, "Your mother is", "apocryphal", "Pronunciation: /\u0259\u02c8p\u0251kr\u0259f\u0259l/", "Definition: being of questionable authenticity", ""]}
+{"data": ["2021-06-22T16:04:37.791791+00:00", 4454, "Your mother is", "nonionised", "", "Definition: not converted into ions", "Synonyms: nonionic, nonionized, unionised, unionized"]}
