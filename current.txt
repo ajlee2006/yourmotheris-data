@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T19:14:37.718746+00:00", 4473, "Your mother is", "herbaceous", "Pronunciation: /h\u025cr\u02c8be\u026a\u0283\u0259s/", "Definition: characteristic of a nonwoody herb or plant part", ""]}
+{"data": ["2021-06-22T19:24:37.683824+00:00", 4474, "Your mother is", "flatulent", "Pronunciation: /\u02c8fl\u00e6\u02a7\u0259l\u0259nt/", "Definition: suffering from excessive gas in the alimentary canal", "Synonyms: colicky, gassy"]}
