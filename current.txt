@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T15:44:38.014016+00:00", 4452, "Your mother is", "avellane", "", "Definition: pertaining to filberts or hazelnuts", "Synonyms: avellan"]}
+{"data": ["2021-06-22T15:54:37.798314+00:00", 4453, "Your mother is", "apocryphal", "Pronunciation: /\u0259\u02c8p\u0251kr\u0259f\u0259l/", "Definition: being of questionable authenticity", ""]}
