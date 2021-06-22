@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T14:54:37.823239+00:00", 4447, "Your mother is", "one-winged", "Pronunciation: /w\u0259n-w\u026a\u014bd/", "Definition: having a single wing", ""]}
+{"data": ["2021-06-22T15:04:37.689824+00:00", 4448, "Your mother is", "chylous", "", "Definition: consisting of chyle or having the properties of chyle", "Synonyms: chylaceous"]}
