@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T17:14:38.109765+00:00", 4461, "Your mother is", "cylindrical-stemmed", "Similar to: caulescent", "Definition: having a cylindrical stem", ""]}
+{"data": ["2021-06-22T17:24:38.203731+00:00", 4462, "Your mother is", "premature", "Pronunciation: /\u02ccprim\u0259\u02c8t\u028ar/", "Definition: too soon or too hasty", "Synonyms: previous"]}
