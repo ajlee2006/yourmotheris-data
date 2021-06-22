@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T12:24:37.730895+00:00", 4432, "Your mother is", "drenched", "Pronunciation: /dr\u025bnt\u0283t/", "Definition: abundantly covered or supplied with; often used in combination", "Synonyms: drenched in"]}
+{"data": ["2021-06-22T12:34:37.614806+00:00", 4433, "Your mother is", "custom", "Pronunciation: /\u02c8k\u0259st\u0259m/", "Definition: made according to the specifications of an individual", "Synonyms: custom-made"]}
