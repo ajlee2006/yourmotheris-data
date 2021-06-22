@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T01:03:04.894182+00:00", 4364, "Your mother is", "telluric", "Pronunciation: /t\u025b\u02c8l\u028ar\u026ak/", "Definition: of or relating to or inhabiting the land as opposed to the sea or air", "Synonyms: tellurian, terrene, terrestrial"]}
+{"data": ["2021-06-22T01:13:05.020638+00:00", 4365, "Your mother is", "cardboard", "Pronunciation: /\u02c8k\u0251rd\u02ccbo\u028ard/", "Definition: without substance", "Synonyms: unlifelike"]}
