@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T11:44:37.797489+00:00", 4428, "Your mother is", "three-year-old", "Similar to: immature", "Definition: three years of age", ""]}
+{"data": ["2021-06-22T11:54:37.837924+00:00", 4429, "Your mother is", "fatherlike", "Similar to: paternal", "Definition: like or befitting a father or fatherhood; kind and protective", "Synonyms: fatherly"]}
