@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T18:24:37.647128+00:00", 4468, "Your mother is", "vapourisable", "Similar to: volatile", "Definition: (used of substances) capable of being volatilized", "Synonyms: evaporable, vaporific, vaporizable, vapourific, volatilisable, volatilizable"]}
+{"data": ["2021-06-22T18:34:37.799651+00:00", 4469, "Your mother is", "tan", "Pronunciation: /t\u00e6n/", "Definition: of a light yellowish-brown color", ""]}
