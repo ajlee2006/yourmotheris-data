@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T00:43:04.800829+00:00", 4362, "Your mother is", "harried", "Pronunciation: /\u02c8h\u025brid/", "Definition: troubled persistently especially with petty annoyances", "Synonyms: annoyed, harassed, pestered, vexed"]}
+{"data": ["2021-06-22T00:53:05.012175+00:00", 4363, "Your mother is", "modified", "Pronunciation: /\u02c8m\u0251d\u028c\u02ccfa\u026ad/", "Definition: mediocre", "Synonyms: limited"]}
