@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T22:54:37.688114+00:00", 4495, "Your mother is", "psychiatrical", "", "Definition: relating to or used in or engaged in the practice of psychiatry", "Synonyms: psychiatric"]}
+{"data": ["2021-06-22T23:04:37.719483+00:00", 4496, "Your mother is", "preexisting", "Pronunciation: /\u02c8pri\u026a\u0261\u02c8z\u026ast\u026a\u014b/", "Definition: existing previously or before something", "Synonyms: pre-existent, pre-existing, preexistent"]}
