@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T10:54:37.773148+00:00", 4423, "Your mother is", "expensive", "Pronunciation: /\u026ak\u02c8sp\u025bns\u026av/", "Definition: high in price or charging high prices", ""]}
+{"data": ["2021-06-22T11:04:37.762172+00:00", 4424, "Your mother is", "pithy", "Pronunciation: /\u02c8p\u026a\u03b8i/", "Definition: concise and full of meaning", "Synonyms: sententious"]}
