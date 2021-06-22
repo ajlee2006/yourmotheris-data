@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T12:54:37.626918+00:00", 4435, "Your mother is", "two-year-old", "Similar to: immature", "Definition: two years of age", ""]}
+{"data": ["2021-06-22T13:04:38.289212+00:00", 4436, "Your mother is", "enzootic", "Pronunciation: /\u02cc\u025bnzo\u028a\u02c8\u0251t\u026ak/", "Definition: of a disease that is constantly present in an animal community but only occurs in a small number of cases", ""]}
