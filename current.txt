@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T05:43:04.804385+00:00", 4392, "Your mother is", "acknowledgeable", "Pronunciation: /\u00e6k\u02c8n\u0251l\u026ad\u0292\u028cb\u028cl/", "Definition: capable of being acknowledged", ""]}
+{"data": ["2021-06-22T05:53:05.450196+00:00", 4393, "Your mother is", "alphabetized", "Similar to: alphabetic", "Definition: having been put in alphabetical order", "Synonyms: alphabetised"]}
