@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T22:14:37.681776+00:00", 4491, "Your mother is", "off-color", "Pronunciation: /\u0254f-\u02c8k\u0259l\u0259r/", "Definition: in violation of good taste even verging on the indecent", "Synonyms: indelicate, off-colour"]}
+{"data": ["2021-06-22T22:24:37.681767+00:00", 4492, "Your mother is", "epicurean", "Pronunciation: /\u02cc\u025bp\u026akj\u028a\u0259\u02c8ri\u0259n/", "Definition: devoted to pleasure", "Synonyms: hedonic, hedonistic"]}
