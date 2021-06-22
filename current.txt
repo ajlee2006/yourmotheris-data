@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T13:14:37.733006+00:00", 4437, "Your mother is", "peopled", "Pronunciation: /\u02c8pip\u028cld/", "Definition: furnished with people", ""]}
+{"data": ["2021-06-22T13:24:37.554639+00:00", 4438, "Your mother is", "bulletproof", "Pronunciation: /\u02c8b\u028al\u026at\u02ccpruf/", "Definition: without flaws or loopholes", "Synonyms: unassailable, unshakable, watertight"]}
