@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T11:14:38.051267+00:00", 4425, "Your mother is", "bristly", "Pronunciation: /\u02c8brisli/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristled, burred, burry, prickly, setaceous, setose, spiny, thorny"]}
+{"data": ["2021-06-22T11:24:37.843098+00:00", 4426, "Your mother is", "calligraphic", "Pronunciation: /\u02cck\u00e6l\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to or expressed in calligraphy", "Synonyms: calligraphical"]}
