@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T04:43:05.017629+00:00", 4386, "Your mother is", "snappish", "Pronunciation: /\u02c8sn\u00e6p\u026a\u0283/", "Definition: apt to speak irritably", "Synonyms: snappy"]}
+{"data": ["2021-06-22T04:53:05.768392+00:00", 4387, "Your mother is", "class-conscious", "Pronunciation: /kl\u00e6s-\u02c8k\u0251n\u0283\u0259s/", "Definition: (used of society) socially hierarchical", "Synonyms: stratified"]}
