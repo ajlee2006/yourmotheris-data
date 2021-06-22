@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T20:04:37.889198+00:00", 4478, "Your mother is", "greasy", "Pronunciation: /\u02c8grisi/", "Definition: smeared or soiled with grease or oil", "Synonyms: oily"]}
+{"data": ["2021-06-22T20:14:37.793785+00:00", 4479, "Your mother is", "out of gear", "Similar to: ungeared", "Definition: not having gears engaged", ""]}
