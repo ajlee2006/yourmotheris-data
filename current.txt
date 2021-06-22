@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T09:53:05.306950+00:00", 4417, "Your mother is", "spiderlike", "", "Definition: relating to or resembling a member of the class Arachnida", "Synonyms: arachnidian, arachnoid, spiderly, spidery"]}
+{"data": ["2021-06-22T10:03:06.167763+00:00", 4418, "Your mother is", "conquerable", "Similar to: surmountable", "Definition: capable of being surmounted or excelled", "Synonyms: superable"]}
