@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T02:23:05.065523+00:00", 4372, "Your mother is", "nonaged", "", "Definition: not of legal age", "Synonyms: minor, underage"]}
+{"data": ["2021-06-22T02:33:05.024100+00:00", 4373, "Your mother is", "soft-witted", "Pronunciation: /s\u0254ft-\u02c8w\u026at\u026ad/", "Definition: (of especially persons) lacking sense or understanding or judgment", "Synonyms: nitwitted, senseless, witless"]}
