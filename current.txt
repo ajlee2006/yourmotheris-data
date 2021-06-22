@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T05:33:04.779236+00:00", 4391, "Your mother is", "phytophagous", "Pronunciation: /fa\u026a\u02c8t\u0251f\u0259\u0261\u0259s/", "Definition: (of animals) feeding on plants", "Synonyms: phytophagic, phytophilous, plant-eating"]}
+{"data": ["2021-06-22T05:43:04.804385+00:00", 4392, "Your mother is", "acknowledgeable", "Pronunciation: /\u00e6k\u02c8n\u0251l\u026ad\u0292\u028cb\u028cl/", "Definition: capable of being acknowledged", ""]}
