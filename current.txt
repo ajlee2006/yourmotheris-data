@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T11:04:37.762172+00:00", 4424, "Your mother is", "pithy", "Pronunciation: /\u02c8p\u026a\u03b8i/", "Definition: concise and full of meaning", "Synonyms: sententious"]}
+{"data": ["2021-06-22T11:14:38.051267+00:00", 4425, "Your mother is", "bristly", "Pronunciation: /\u02c8brisli/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristled, burred, burry, prickly, setaceous, setose, spiny, thorny"]}
