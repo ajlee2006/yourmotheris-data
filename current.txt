@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T03:53:04.839640+00:00", 4381, "Your mother is", "pulverized", "Pronunciation: /\u02c8p\u028clv\u025dr\u02cca\u026azd/", "Definition: consisting of fine particles", "Synonyms: fine-grained, powdered, powdery, pulverised, small-grained"]}
+{"data": ["2021-06-22T04:03:04.812491+00:00", 4382, "Your mother is", "geodesic", "Pronunciation: /\u02ccd\u0292i\u0259\u02c8d\u025bs\u026ak/", "Definition: of or relating to or determined by geodesy", "Synonyms: geodesical, geodetic"]}
