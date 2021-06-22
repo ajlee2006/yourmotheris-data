@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T03:43:04.932517+00:00", 4380, "Your mother is", "forty-one", "Pronunciation: /\u02c8f\u0254rti-w\u0259n/", "Definition: being one more than forty", "Synonyms: 41, xli"]}
+{"data": ["2021-06-22T03:53:04.839640+00:00", 4381, "Your mother is", "pulverized", "Pronunciation: /\u02c8p\u028clv\u025dr\u02cca\u026azd/", "Definition: consisting of fine particles", "Synonyms: fine-grained, powdered, powdery, pulverised, small-grained"]}
