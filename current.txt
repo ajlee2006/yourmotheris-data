@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T02:43:04.758387+00:00", 4374, "Your mother is", "elephantine", "Pronunciation: /\u02cc\u025bl\u0259\u02c8f\u00e6nt\u026an/", "Definition: of great mass; huge and bulky", "Synonyms: gargantuan, giant, jumbo"]}
+{"data": ["2021-06-22T02:53:04.871350+00:00", 4375, "Your mother is", "unstudied", "Pronunciation: /\u0259n\u02c8st\u0259d\u026ad/", "Definition: not by design or artifice; unforced and impromptu", "Synonyms: uncontrived"]}
