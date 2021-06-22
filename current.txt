@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T08:03:05.513280+00:00", 4406, "Your mother is", "crested", "Pronunciation: /\u02c8kr\u025bst\u028cd/", "Definition: (of a knight's helmet) having a decorative plume", "Synonyms: plumed"]}
+{"data": ["2021-06-22T08:13:05.258538+00:00", 4407, "Your mother is", "tailored", "Pronunciation: /\u02c8te\u026al\u0259rd/", "Definition: (of clothing) custom-made", "Synonyms: bespoke, bespoken, made-to-order, tailor-made"]}
