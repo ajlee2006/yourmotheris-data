@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T00:33:04.791710+00:00", 4361, "Your mother is", "nonsubmersible", "", "Definition: not submersible or submergible", "Synonyms: nonsubmergible"]}
+{"data": ["2021-06-22T00:43:04.800829+00:00", 4362, "Your mother is", "harried", "Pronunciation: /\u02c8h\u025brid/", "Definition: troubled persistently especially with petty annoyances", "Synonyms: annoyed, harassed, pestered, vexed"]}
