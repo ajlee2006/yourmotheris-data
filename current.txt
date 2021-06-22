@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T21:34:37.681691+00:00", 4487, "Your mother is", "unlisted", "Pronunciation: /\u0259n\u02c8l\u026ast\u026ad/", "Definition: not having your name entered on a voting list", ""]}
+{"data": ["2021-06-22T21:44:37.692725+00:00", 4488, "Your mother is", "contemplative", "Pronunciation: /k\u0259n\u02c8t\u025bmpl\u0259t\u026av/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, meditative, musing, pensive, pondering, reflective, ruminative"]}
