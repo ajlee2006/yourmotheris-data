@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T13:24:37.554639+00:00", 4438, "Your mother is", "bulletproof", "Pronunciation: /\u02c8b\u028al\u026at\u02ccpruf/", "Definition: without flaws or loopholes", "Synonyms: unassailable, unshakable, watertight"]}
+{"data": ["2021-06-22T13:34:37.864249+00:00", 4439, "Your mother is", "abdominous", "Pronunciation: /\u00e6b\u02c8d\u0251m\u0259n\u0259s/", "Definition: having a large belly", "Synonyms: paunchy, potbellied"]}
