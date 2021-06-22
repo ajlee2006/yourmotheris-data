@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T23:44:37.733484+00:00", 4500, "Your mother is", "third-rate", "Pronunciation: /\u03b8\u025crd-re\u026at/", "Definition: of lesser quality than second-rate", ""]}
+{"data": ["2021-06-22T23:54:37.711081+00:00", 4501, "Your mother is", "snazzy", "Pronunciation: /\u02c8sn\u00e6zi/", "Definition: flashily stylish", ""]}
