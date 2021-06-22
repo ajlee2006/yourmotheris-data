@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T13:04:38.289212+00:00", 4436, "Your mother is", "enzootic", "Pronunciation: /\u02cc\u025bnzo\u028a\u02c8\u0251t\u026ak/", "Definition: of a disease that is constantly present in an animal community but only occurs in a small number of cases", ""]}
+{"data": ["2021-06-22T13:14:37.733006+00:00", 4437, "Your mother is", "peopled", "Pronunciation: /\u02c8pip\u028cld/", "Definition: furnished with people", ""]}
