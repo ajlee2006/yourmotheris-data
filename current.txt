@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T20:44:37.834383+00:00", 4482, "Your mother is", "ensiform", "Pronunciation: /\u02c8\u025bns\u0259\u02ccf\u0254rm/", "Definition: shaped like a sword blade", "Synonyms: bladelike, sword-shaped, swordlike"]}
+{"data": ["2021-06-22T20:54:37.662527+00:00", 4483, "Your mother is", "indiscriminating", "Pronunciation: /\u02cc\u026and\u026a\u02c8skr\u026am\u0259\u02ccne\u026at\u026a\u014b/", "Definition: not discriminating", "Synonyms: undiscriminating"]}
