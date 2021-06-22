@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T09:03:04.964915+00:00", 4412, "Your mother is", "powered", "Pronunciation: /\u02c8pa\u028a\u0259rd/", "Definition: (often used in combination) having or using or propelled by means of power or power of a specified kind", ""]}
+{"data": ["2021-06-22T09:13:04.922625+00:00", 4413, "Your mother is", "motiveless", "Similar to: unmotivated", "Definition: occurring without motivation or provocation", "Synonyms: unprovoked, wanton"]}
