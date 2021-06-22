@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T07:23:04.809214+00:00", 4402, "Your mother is", "patient", "Pronunciation: /\u02c8pe\u026a\u0283\u025bnt/", "Definition: enduring trying circumstances with even temper or characterized by such endurance", ""]}
+{"data": ["2021-06-22T07:33:04.971476+00:00", 4403, "Your mother is", "double-bass", "Pronunciation: /\u02c8d\u0259b\u0259l-b\u00e6s/", "Definition: pitched an octave below normal bass instrumental or vocal range", "Synonyms: contrabass"]}
