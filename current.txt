@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T18:04:37.712958+00:00", 4466, "Your mother is", "chelated", "", "Definition: relating to or characterized by chelation", "Synonyms: chelate"]}
+{"data": ["2021-06-22T18:14:37.811383+00:00", 4467, "Your mother is", "spatiotemporal", "Pronunciation: /\u02ccspe\u026a\u0283io\u028a\u02c8t\u025bmp\u0259r\u0259l/", "Definition: existing in both space and time; having both spatial extension and temporal duration", "Synonyms: spaciotemporal"]}
