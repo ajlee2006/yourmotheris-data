@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T02:03:05.168763+00:00", 4370, "Your mother is", "diplomatical", "Similar to: kid-glove", "Definition: using or marked by tact in dealing with sensitive matters or people", "Synonyms: diplomatic"]}
+{"data": ["2021-06-22T02:13:04.873607+00:00", 4371, "Your mother is", "self-appointed", "Pronunciation: /s\u025blf-\u0259\u02c8p\u0254\u026ant\u026ad/", "Definition: designated or chosen by yourself", ""]}
