@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T18:44:37.687711+00:00", 4470, "Your mother is", "umpteenth", "Pronunciation: /\u02c8\u0259mp\u02c8tin\u03b8/", "Definition: last in an indefinitely numerous series", "Synonyms: umptieth, umteenth"]}
+{"data": ["2021-06-22T18:54:37.739706+00:00", 4471, "Your mother is", "intransitive", "Pronunciation: /\u026an\u02c8tr\u00e6ns\u026at\u026av/", "Definition: designating a verb that does not require or cannot take a direct object", ""]}
