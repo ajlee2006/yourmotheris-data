@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T07:33:04.971476+00:00", 4403, "Your mother is", "double-bass", "Pronunciation: /\u02c8d\u0259b\u0259l-b\u00e6s/", "Definition: pitched an octave below normal bass instrumental or vocal range", "Synonyms: contrabass"]}
+{"data": ["2021-06-22T07:43:05.303674+00:00", 4404, "Your mother is", "third-dimensional", "Similar to: multidimensional", "Definition: involving or relating to three dimensions or aspects; giving the illusion of depth", "Synonyms: 3-dimensional, three-d, three-dimensional"]}
