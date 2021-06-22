@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T11:24:37.843098+00:00", 4426, "Your mother is", "calligraphic", "Pronunciation: /\u02cck\u00e6l\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to or expressed in calligraphy", "Synonyms: calligraphical"]}
+{"data": ["2021-06-22T11:34:37.575749+00:00", 4427, "Your mother is", "lowering", "Pronunciation: /\u02c8la\u028a\u0259r\u026a\u014b/", "Definition: darkened by clouds", "Synonyms: heavy, sullen, threatening"]}
