@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T14:14:38.238482+00:00", 4443, "Your mother is", "struggling", "Pronunciation: /\u02c8str\u028c\u0261\u028cl\u026a\u014b/", "Definition: engaged in a struggle to overcome especially poverty or obscurity", ""]}
+{"data": ["2021-06-22T14:24:38.338630+00:00", 4444, "Your mother is", "six-fold", "Similar to: multiple", "Definition: having six units or components", "Synonyms: sextuple, sixfold"]}
