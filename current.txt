@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T21:44:37.692725+00:00", 4488, "Your mother is", "contemplative", "Pronunciation: /k\u0259n\u02c8t\u025bmpl\u0259t\u026av/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, meditative, musing, pensive, pondering, reflective, ruminative"]}
+{"data": ["2021-06-22T21:54:37.681515+00:00", 4489, "Your mother is", "third-dimensional", "Similar to: multidimensional", "Definition: involving or relating to three dimensions or aspects; giving the illusion of depth", "Synonyms: 3-dimensional, three-d, three-dimensional"]}
