@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T17:54:37.699202+00:00", 4465, "Your mother is", "clever", "Pronunciation: /\u02c8kl\u025bv\u0259r/", "Definition: showing self-interest and shrewdness in dealing with others", "Synonyms: cagey, cagy, canny"]}
+{"data": ["2021-06-22T18:04:37.712958+00:00", 4466, "Your mother is", "chelated", "", "Definition: relating to or characterized by chelation", "Synonyms: chelate"]}
