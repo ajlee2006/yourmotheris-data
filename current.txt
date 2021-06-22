@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T09:33:05.110223+00:00", 4415, "Your mother is", "parheliacal", "Pronunciation: /\u02ccp\u0251rh\u026a\u02c8la\u026a\u0259k\u0259l/", "Definition: relating to or resembling a parhelion", "Synonyms: parhelic"]}
+{"data": ["2021-06-22T09:43:04.821499+00:00", 4416, "Your mother is", "aciduric", "Pronunciation: /\u02cc\u00e6s\u026a\u02c8d\u028ar\u026ak/", "Definition: especially of some bacteria; growing well in an acid medium", "Synonyms: acidophilic, acidophilous"]}
