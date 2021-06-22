@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T19:04:37.749133+00:00", 4472, "Your mother is", "prognostic", "Pronunciation: /pr\u0251\u0261\u02c8n\u0251st\u026ak/", "Definition: of or relating to prediction; having value for making predictions", "Synonyms: predictive, prognosticative"]}
+{"data": ["2021-06-22T19:14:37.718746+00:00", 4473, "Your mother is", "herbaceous", "Pronunciation: /h\u025cr\u02c8be\u026a\u0283\u0259s/", "Definition: characteristic of a nonwoody herb or plant part", ""]}
