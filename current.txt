@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T08:23:05.285796+00:00", 4408, "Your mother is", "suspicious", "Pronunciation: /s\u0259\u02c8sp\u026a\u0283\u0259s/", "Definition: not as expected", "Synonyms: fishy, funny, shady, suspect"]}
+{"data": ["2021-06-22T08:33:05.479648+00:00", 4409, "Your mother is", "naturalized", "Pronunciation: /\u02c8n\u00e6t\u0283\u025dr\u028c\u02ccla\u026azd/", "Definition: planted so as to give an effect of wild growth", "Synonyms: naturalised"]}
