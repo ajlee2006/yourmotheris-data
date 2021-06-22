@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T01:33:04.755170+00:00", 4367, "Your mother is", "tinny", "Pronunciation: /\u02c8t\u026ani/", "Definition: of very poor quality; flimsy", "Synonyms: bum, cheap, cheesy, chintzy, crummy, punk, sleazy"]}
+{"data": ["2021-06-22T01:43:04.757432+00:00", 4368, "Your mother is", "supplemental", "Pronunciation: /\u02ccs\u0259pl\u0259\u02c8m\u025bnt\u0259l/", "Definition: functioning in a supporting capacity", "Synonyms: auxiliary, subsidiary, supplementary"]}
