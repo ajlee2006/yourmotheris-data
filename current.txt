@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T15:34:37.945621+00:00", 4451, "Your mother is", "misunderstood", "Pronunciation: /\u02ccm\u026as\u0259nd\u0259r\u02c8st\u028ad/", "Definition: wrongly understood", ""]}
+{"data": ["2021-06-22T15:44:38.014016+00:00", 4452, "Your mother is", "avellane", "", "Definition: pertaining to filberts or hazelnuts", "Synonyms: avellan"]}
