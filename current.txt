@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T03:23:04.909195+00:00", 4378, "Your mother is", "unconfirmed", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8f\u025crmd/", "Definition: not finally established or settled", ""]}
+{"data": ["2021-06-22T03:33:04.861887+00:00", 4379, "Your mother is", "faddish", "Pronunciation: /\u02c8f\u00e6d\u026a\u0283/", "Definition: intensely fashionable for a short time", "Synonyms: faddy"]}
