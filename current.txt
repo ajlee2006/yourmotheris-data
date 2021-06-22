@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T02:13:04.873607+00:00", 4371, "Your mother is", "self-appointed", "Pronunciation: /s\u025blf-\u0259\u02c8p\u0254\u026ant\u026ad/", "Definition: designated or chosen by yourself", ""]}
+{"data": ["2021-06-22T02:23:05.065523+00:00", 4372, "Your mother is", "nonaged", "", "Definition: not of legal age", "Synonyms: minor, underage"]}
