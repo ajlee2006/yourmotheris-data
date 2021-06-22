@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T06:13:04.970112+00:00", 4395, "Your mother is", "biconcave", "Pronunciation: /ba\u026a\u02c8k\u0251nke\u026av/", "Definition: concave on both sides", "Synonyms: concavo-concave"]}
+{"data": ["2021-06-22T06:23:05.109118+00:00", 4396, "Your mother is", "ratty", "Pronunciation: /\u02c8r\u00e6ti/", "Definition: showing signs of wear and tear", "Synonyms: moth-eaten, shabby, tatty"]}
