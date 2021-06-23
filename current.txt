@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T12:09:28.892552+00:00", 4574, "Your mother is", "nonopening", "Similar to: closed", "Definition: not open; not opening", ""]}
+{"data": ["2021-06-23T12:19:28.921976+00:00", 4575, "Your mother is", "argillaceous", "Pronunciation: /\u02cc\u0251rd\u0292\u0259\u02c8le\u026a\u0283\u0259s/", "Definition: resembling or containing clay", "Synonyms: clayey"]}
