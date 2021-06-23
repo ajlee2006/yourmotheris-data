@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T16:49:28.863972+00:00", 4602, "Your mother is", "dissociable", "Pronunciation: /d\u026a\u02c8so\u028a\u0283i\u0259b\u0259l/", "Definition: capable of being divided or dissociated", "Synonyms: separable, severable"]}
+{"data": ["2021-06-23T16:59:28.811761+00:00", 4603, "Your mother is", "good-time", "Similar to: sociable", "Definition: occupied with or fond of the pleasures of good company", "Synonyms: convivial"]}
