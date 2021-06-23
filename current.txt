@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T11:59:28.923363+00:00", 4573, "Your mother is", "speedy", "Pronunciation: /\u02c8spidi/", "Definition: characterized by speed; moving with or capable of moving with high speed", "Synonyms: rapid"]}
+{"data": ["2021-06-23T12:09:28.892552+00:00", 4574, "Your mother is", "nonopening", "Similar to: closed", "Definition: not open; not opening", ""]}
