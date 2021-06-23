@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T21:39:28.817057+00:00", 4631, "Your mother is", "nonfinite", "", "Definition: (of verbs) not having tense, person, or number (as a participle or gerund or infinitive)", "Synonyms: infinite, non-finite"]}
+{"data": ["2021-06-23T21:49:28.786622+00:00", 4632, "Your mother is", "plenteous", "Pronunciation: /\u02c8pl\u025bnti\u0259s/", "Definition: affording an abundant supply", "Synonyms: ample, copious, plentiful, rich"]}
