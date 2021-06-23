@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T19:09:28.984603+00:00", 4616, "Your mother is", "achlamydeous", "Pronunciation: /\u02cc\u00e6kl\u0259\u02c8m\u026adi\u0259s/", "Definition: not having a floral envelope or perianth", ""]}
+{"data": ["2021-06-23T19:19:28.996169+00:00", 4617, "Your mother is", "jobless", "Pronunciation: /\u02c8d\u0292\u0251bl\u026as/", "Definition: not having a job", "Synonyms: idle, out of work"]}
