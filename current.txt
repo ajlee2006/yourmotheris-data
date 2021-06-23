@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T06:34:37.832638+00:00", 4541, "Your mother is", "reconciled", "Pronunciation: /\u02c8r\u025bk\u028cn\u02ccsa\u026ald/", "Definition: made compatible or consistent", ""]}
+{"data": ["2021-06-23T06:44:37.739977+00:00", 4542, "Your mother is", "squared", "Pronunciation: /skw\u025brd/", "Definition: having been made square", ""]}
