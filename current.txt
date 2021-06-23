@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T13:49:28.950647+00:00", 4584, "Your mother is", "superstitious", "Pronunciation: /\u02ccsup\u0259r\u02c8st\u026a\u0283\u0259s/", "Definition: showing ignorance of the laws of nature and faith in magic or chance", ""]}
+{"data": ["2021-06-23T13:59:28.949677+00:00", 4585, "Your mother is", "cephalopod", "Pronunciation: /\u02c8s\u025bf\u0259l\u0259\u02ccp\u0251d/", "Definition: relating or belonging to the class Cephalopoda", "Synonyms: cephalopodan"]}
