@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T11:29:29.063603+00:00", 4570, "Your mother is", "financial", "Pronunciation: /f\u026a\u02c8n\u00e6n\u0283\u0259l/", "Definition: involving financial matters", "Synonyms: fiscal"]}
+{"data": ["2021-06-23T11:39:29.134884+00:00", 4571, "Your mother is", "three-fold", "Pronunciation: /\u02c8\u03b8ri-\u02ccfo\u028ald/", "Definition: having more than one decidedly dissimilar aspects or qualities", "Synonyms: double, dual, threefold, treble, two-fold, twofold"]}
