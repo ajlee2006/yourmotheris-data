@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T08:04:37.807201+00:00", 4550, "Your mother is", "natural", "Pronunciation: /\u02c8n\u00e6\u02a7\u0259r\u0259l/", "Definition: (of a parent or child) related by blood; genetically related", "Synonyms: biological"]}
+{"data": ["2021-06-23T08:14:37.633824+00:00", 4551, "Your mother is", "categorised", "Similar to: classified", "Definition: arranged into categories", "Synonyms: categorized"]}
