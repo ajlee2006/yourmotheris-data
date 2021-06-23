@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T08:34:37.615821+00:00", 4553, "Your mother is", "dull", "Pronunciation: /d\u0259l/", "Definition: darkened with overcast", "Synonyms: leaden"]}
+{"data": ["2021-06-23T08:44:37.694764+00:00", 4554, "Your mother is", "crystallized", "Pronunciation: /\u02c8kr\u026ast\u028c\u02ccla\u026azd/", "Definition: having both internal structure and external form of a crystal", "Synonyms: crystalised"]}
