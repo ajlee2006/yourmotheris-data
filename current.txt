@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T09:04:37.709447+00:00", 4556, "Your mother is", "semidetached", "Similar to: detached", "Definition: attached on one side only", ""]}
+{"data": ["2021-06-23T09:14:37.663214+00:00", 4557, "Your mother is", "stylised", "Similar to: artificial", "Definition: using artistic forms and conventions to create effects; not natural or spontaneous", "Synonyms: conventionalised, conventionalized, stylized"]}
