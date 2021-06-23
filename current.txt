@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T04:14:37.759623+00:00", 4527, "Your mother is", "inflammable", "Pronunciation: /\u026an\u02c8fl\u00e6m\u0259b\u0259l/", "Definition: easily ignited", "Synonyms: flammable"]}
+{"data": ["2021-06-23T04:24:37.778792+00:00", 4528, "Your mother is", "high-spirited", "Pronunciation: /ha\u026a-\u02c8sp\u026ar\u026at\u026ad/", "Definition: joyously unrestrained", "Synonyms: ebullient, exuberant"]}
