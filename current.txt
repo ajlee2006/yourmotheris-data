@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T11:09:29.153947+00:00", 4568, "Your mother is", "nutrient", "Pronunciation: /\u02c8nutri\u0259nt/", "Definition: of or providing nourishment", "Synonyms: alimental, alimentary, nourishing, nutritious, nutritive"]}
+{"data": ["2021-06-23T11:19:28.948404+00:00", 4569, "Your mother is", "stout-billed", "Similar to: beaked", "Definition: having a strong beak", ""]}
