@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T23:49:29.017437+00:00", 4644, "Your mother is", "murmurous", "Pronunciation: /\u02c8m\u025crm\u0259r\u0259s/", "Definition: characterized by soft sounds", "Synonyms: rustling, soughing, susurrous"]}
+{"data": ["2021-06-23T23:59:28.966476+00:00", 4645, "Your mother is", "brachycephalic", "Pronunciation: /\u02ccbr\u00e6kis\u0259\u02c8f\u00e6l\u026ak/", "Definition: having a short broad head with a cephalic index of over 80", "Synonyms: brachycranial, brachycranic"]}
