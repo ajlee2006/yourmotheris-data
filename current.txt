@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T02:04:37.676455+00:00", 4514, "Your mother is", "unreceptive", "Pronunciation: /\u02cc\u0259nri\u02c8s\u025bpt\u026av/", "Definition: not receptive", ""]}
+{"data": ["2021-06-23T02:14:37.722630+00:00", 4515, "Your mother is", "onomatopoetic", "Pronunciation: /\u02cc\u0251n\u0259\u02ccm\u00e6t\u0259p\u0254\u026a\u02c8\u025bt\u026ak/", "Definition: (of words) formed in imitation of a natural sound", "Synonyms: echoic, imitative, onomatopoeic, onomatopoeical"]}
