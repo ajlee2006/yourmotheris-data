@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T12:59:29.066370+00:00", 4579, "Your mother is", "hydrophytic", "Pronunciation: /\u02ccha\u026adr\u0259\u02c8f\u026at\u026ak/", "Definition: growing wholly or partially in water", ""]}
+{"data": ["2021-06-23T13:09:28.942388+00:00", 4580, "Your mother is", "glowering", "Pronunciation: /\u02c8\u0261la\u028a\u025dr\u026a\u014b/", "Definition: showing a brooding ill humor", "Synonyms: dark, dour, glum, moody, morose, saturnine, sour, sullen"]}
