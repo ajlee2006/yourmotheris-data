@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T01:04:37.750177+00:00", 4508, "Your mother is", "humongous", "Pronunciation: /hju\u02c8m\u0254\u014b\u0261\u028cs/", "Definition: (used informally) very large", "Synonyms: banging, thumping, walloping, whopping"]}
+{"data": ["2021-06-23T01:14:37.937727+00:00", 4509, "Your mother is", "stoic", "Pronunciation: /\u02c8sto\u028a\u026ak/", "Definition: seeming unaffected by pleasure or pain; impassive", "Synonyms: stoical"]}
