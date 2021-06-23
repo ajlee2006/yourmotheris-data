@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T01:54:37.663277+00:00", 4513, "Your mother is", "salted", "Pronunciation: /\u02c8s\u0254lt\u026ad/", "Definition: (used especially of meats) preserved in salt", "Synonyms: brine-cured, salt-cured"]}
+{"data": ["2021-06-23T02:04:37.676455+00:00", 4514, "Your mother is", "unreceptive", "Pronunciation: /\u02cc\u0259nri\u02c8s\u025bpt\u026av/", "Definition: not receptive", ""]}
