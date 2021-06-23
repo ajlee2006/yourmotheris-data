@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T05:04:37.875109+00:00", 4532, "Your mother is", "leftmost", "Pronunciation: /\u02c8l\u025bftmo\u028ast/", "Definition: farthest to the left", ""]}
+{"data": ["2021-06-23T05:14:37.655883+00:00", 4533, "Your mother is", "small-winged", "Similar to: winged", "Definition: having small wings", ""]}
