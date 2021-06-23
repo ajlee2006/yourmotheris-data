@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T10:34:37.803901+00:00", 4565, "Your mother is", "innocuous", "Pronunciation: /\u026a\u02c8n\u0251kju\u0259s/", "Definition: not causing disapproval", "Synonyms: unobjectionable"]}
+{"data": ["2021-06-23T10:44:37.580301+00:00", 4566, "Your mother is", "eldest", "Pronunciation: /\u02c8\u025bld\u026ast/", "Definition: first in order of birth", "Synonyms: firstborn"]}
