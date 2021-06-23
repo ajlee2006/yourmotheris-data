@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T09:44:37.778892+00:00", 4560, "Your mother is", "sky-blue", "Pronunciation: /ska\u026a-blu/", "Definition: of a deep somewhat purplish blue color similar to that of a clear October sky", "Synonyms: azure, bright blue, cerulean"]}
+{"data": ["2021-06-23T09:54:37.597686+00:00", 4561, "Your mother is", "somatogenetic", "Pronunciation: /\u02ccso\u028am\u0259t\u0259d\u0292\u0259\u02c8n\u025bt\u026ak/", "Definition: of or arising from physiological causes rather than being psychogenic in origin", "Synonyms: somatogenic"]}
