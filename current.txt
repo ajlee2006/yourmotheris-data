@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T05:14:37.655883+00:00", 4533, "Your mother is", "small-winged", "Similar to: winged", "Definition: having small wings", ""]}
+{"data": ["2021-06-23T05:24:37.609402+00:00", 4534, "Your mother is", "sudden", "Pronunciation: /\u02c8s\u0259d\u0259n/", "Definition: happening without warning or in a short space of time", ""]}
