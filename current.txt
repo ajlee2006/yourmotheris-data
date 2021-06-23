@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T17:49:28.940373+00:00", 4608, "Your mother is", "varied", "Pronunciation: /\u02c8v\u025crid/", "Definition: widely different", "Synonyms: wide-ranging"]}
+{"data": ["2021-06-23T17:59:28.946388+00:00", 4609, "Your mother is", "optative", "Pronunciation: /\u02c8\u0251pt\u0259t\u026av/", "Definition: relating to a mood of verbs in some languages", ""]}
