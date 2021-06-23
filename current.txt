@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T22:29:28.990788+00:00", 4636, "Your mother is", "yankee", "Pronunciation: /\u02c8j\u00e6\u014bki/", "Definition: used by Southerners for an inhabitant of a northern state in the United States (especially a Union soldier)", ""]}
+{"data": ["2021-06-23T22:39:29.049851+00:00", 4637, "Your mother is", "unsecured", "Pronunciation: /\u02cc\u0259ns\u026a\u02c8kj\u028ard/", "Definition: without financial security", "Synonyms: unguaranteed"]}
