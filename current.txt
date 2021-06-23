@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T14:29:28.917822+00:00", 4588, "Your mother is", "bald", "Pronunciation: /b\u0254ld/", "Definition: without the natural or usual covering", "Synonyms: denudate, denuded"]}
+{"data": ["2021-06-23T14:39:28.946162+00:00", 4589, "Your mother is", "pampering", "Pronunciation: /\u02c8p\u00e6mp\u025dr\u026a\u014b/", "Definition: gratifying tastes, appetites, or desires", ""]}
