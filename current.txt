@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T14:49:28.928794+00:00", 4590, "Your mother is", "believable", "Pronunciation: /b\u028c\u02c8liv\u028cb\u028cl/", "Definition: capable of being believed", "Synonyms: credible"]}
+{"data": ["2021-06-23T14:59:28.824448+00:00", 4591, "Your mother is", "elaborate", "Pronunciation: /\u026a\u02c8l\u00e6b\u0259r\u026at/", "Definition: marked by complexity and richness of detail", "Synonyms: luxuriant"]}
