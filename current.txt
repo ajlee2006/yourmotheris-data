@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T20:19:28.954541+00:00", 4623, "Your mother is", "replete", "Pronunciation: /r\u026a\u02c8plit/", "Definition: (followed by `with') deeply filled or permeated", "Synonyms: instinct"]}
+{"data": ["2021-06-23T20:29:28.957009+00:00", 4624, "Your mother is", "red-violet", "Pronunciation: /r\u025bd-\u02c8va\u026a\u0259l\u026at/", "Definition: of violet tinged with red", "Synonyms: reddish-violet"]}
