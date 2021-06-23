@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T08:54:37.735198+00:00", 4555, "Your mother is", "tranquilizing", "Pronunciation: /\u02c8tr\u00e6\u014bkw\u028c\u02ccla\u026az\u026a\u014b/", "Definition: tending to soothe or tranquilize", "Synonyms: ataractic, ataraxic, sedative, tranquilising, tranquillising, tranquillizing"]}
+{"data": ["2021-06-23T09:04:37.709447+00:00", 4556, "Your mother is", "semidetached", "Similar to: detached", "Definition: attached on one side only", ""]}
