@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T23:29:28.942871+00:00", 4642, "Your mother is", "carolean", "Pronunciation: /\u02cck\u00e6r\u0259\u02c8li\u0259n/", "Definition: of or relating to the life and times of kings Charles I or Charles II of England", "Synonyms: caroline"]}
+{"data": ["2021-06-23T23:39:28.888753+00:00", 4643, "Your mother is", "hulky", "Pronunciation: /\u02c8h\u0259lki/", "Definition: of great size and bulk", "Synonyms: hulking"]}
