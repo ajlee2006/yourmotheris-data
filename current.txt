@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T04:04:37.702051+00:00", 4526, "Your mother is", "indiscernible", "Pronunciation: /\u02cc\u026and\u026a\u02c8s\u025crn\u0259b\u0259l/", "Definition: barely able to be perceived", "Synonyms: insensible, undetectable"]}
+{"data": ["2021-06-23T04:14:37.759623+00:00", 4527, "Your mother is", "inflammable", "Pronunciation: /\u026an\u02c8fl\u00e6m\u0259b\u0259l/", "Definition: easily ignited", "Synonyms: flammable"]}
