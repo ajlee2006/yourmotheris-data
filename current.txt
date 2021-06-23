@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T09:34:37.637369+00:00", 4559, "Your mother is", "studded", "Pronunciation: /\u02c8st\u028cd\u026ad/", "Definition: dotted or adorned with or as with studs or nailheads; usually used in combination", ""]}
+{"data": ["2021-06-23T09:44:37.778892+00:00", 4560, "Your mother is", "sky-blue", "Pronunciation: /ska\u026a-blu/", "Definition: of a deep somewhat purplish blue color similar to that of a clear October sky", "Synonyms: azure, bright blue, cerulean"]}
