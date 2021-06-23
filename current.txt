@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T11:19:28.948404+00:00", 4569, "Your mother is", "stout-billed", "Similar to: beaked", "Definition: having a strong beak", ""]}
+{"data": ["2021-06-23T11:29:29.063603+00:00", 4570, "Your mother is", "financial", "Pronunciation: /f\u026a\u02c8n\u00e6n\u0283\u0259l/", "Definition: involving financial matters", "Synonyms: fiscal"]}
