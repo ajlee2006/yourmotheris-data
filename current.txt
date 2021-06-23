@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T14:59:28.824448+00:00", 4591, "Your mother is", "elaborate", "Pronunciation: /\u026a\u02c8l\u00e6b\u0259r\u026at/", "Definition: marked by complexity and richness of detail", "Synonyms: luxuriant"]}
+{"data": ["2021-06-23T15:09:29.020569+00:00", 4592, "Your mother is", "self-acting", "Pronunciation: /s\u025blf-\u02c8\u00e6kt\u026a\u014b/", "Definition: designed to activate or move or regulate itself", "Synonyms: self-activating, self-moving, self-regulating"]}
