@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T22:59:28.917340+00:00", 4639, "Your mother is", "well-proportioned", "Pronunciation: /w\u025bl-pr\u0259\u02c8po\u028ar\u0283\u0259nd/", "Definition: of pleasing proportions", ""]}
+{"data": ["2021-06-23T23:09:28.872410+00:00", 4640, "Your mother is", "eastern", "Pronunciation: /\u02c8ist\u0259rn/", "Definition: from the east; used especially of winds", "Synonyms: easterly"]}
