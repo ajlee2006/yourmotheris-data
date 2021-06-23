@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T18:29:29.408352+00:00", 4612, "Your mother is", "valiant", "Pronunciation: /\u02c8v\u00e6lj\u0259nt/", "Definition: having or showing valor", "Synonyms: valorous"]}
+{"data": ["2021-06-23T18:39:28.919060+00:00", 4613, "Your mother is", "assuasive", "Pronunciation: /\u0259\u02c8swe\u026as\u026av/", "Definition: freeing from fear and anxiety", "Synonyms: soothing"]}
