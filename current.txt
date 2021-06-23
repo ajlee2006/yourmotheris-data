@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T14:19:29.016379+00:00", 4587, "Your mother is", "sixty-eight", "Pronunciation: /\u02c8s\u026aksti-\u02c8e\u026at/", "Definition: being eight more than sixty", "Synonyms: 68, lxviii"]}
+{"data": ["2021-06-23T14:29:28.917822+00:00", 4588, "Your mother is", "bald", "Pronunciation: /b\u0254ld/", "Definition: without the natural or usual covering", "Synonyms: denudate, denuded"]}
