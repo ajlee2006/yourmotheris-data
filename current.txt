@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T17:29:29.125212+00:00", 4606, "Your mother is", "peppy", "Pronunciation: /\u02c8p\u025bpi/", "Definition: marked by lively action", "Synonyms: bouncing, bouncy, spirited, zippy"]}
+{"data": ["2021-06-23T17:39:29.244793+00:00", 4607, "Your mother is", "prepubertal", "Similar to: immature", "Definition: (especially of human beings) at the age immediately before puberty; often marked by accelerated growth", "Synonyms: prepubescent"]}
