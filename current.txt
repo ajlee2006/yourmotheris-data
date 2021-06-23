@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T10:14:37.583804+00:00", 4563, "Your mother is", "depilatory", "Pronunciation: /d\u026a\u02c8p\u026al\u0259\u02ccto\u028ari/", "Definition: able to remove hair or render hairless", ""]}
+{"data": ["2021-06-23T10:24:37.713651+00:00", 4564, "Your mother is", "tenacious", "Pronunciation: /t\u0259\u02c8ne\u026a\u0283\u0259s/", "Definition: sticking together", "Synonyms: coherent"]}
