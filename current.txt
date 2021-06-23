@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T19:39:28.894150+00:00", 4619, "Your mother is", "amber-green", "Similar to: chromatic", "Definition: of green tinged with amber", ""]}
+{"data": ["2021-06-23T19:49:28.913768+00:00", 4620, "Your mother is", "seamanlike", "Pronunciation: /\u02c8sim\u0259n\u02ccla\u026ak/", "Definition: characteristic of or befitting a seaman; indicating competent seamanship", "Synonyms: seamanly"]}
