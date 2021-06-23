@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T22:19:28.951329+00:00", 4635, "Your mother is", "inviolable", "Pronunciation: /\u026an\u02c8va\u026a\u0259l\u0259b\u0259l/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, secure, strong, unassailable, unattackable"]}
+{"data": ["2021-06-23T22:29:28.990788+00:00", 4636, "Your mother is", "yankee", "Pronunciation: /\u02c8j\u00e6\u014bki/", "Definition: used by Southerners for an inhabitant of a northern state in the United States (especially a Union soldier)", ""]}
