@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T19:59:29.008857+00:00", 4621, "Your mother is", "weird", "Pronunciation: /wird/", "Definition: suggesting the operation of supernatural influences", "Synonyms: eldritch, uncanny, unearthly"]}
+{"data": ["2021-06-23T20:09:28.896842+00:00", 4622, "Your mother is", "nonconducting", "", "Definition: not able to conduct heat or electricity or sound", "Synonyms: non-conducting, nonconductive"]}
