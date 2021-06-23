@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T13:09:28.942388+00:00", 4580, "Your mother is", "glowering", "Pronunciation: /\u02c8\u0261la\u028a\u025dr\u026a\u014b/", "Definition: showing a brooding ill humor", "Synonyms: dark, dour, glum, moody, morose, saturnine, sour, sullen"]}
+{"data": ["2021-06-23T13:19:28.961887+00:00", 4581, "Your mother is", "illusive", "Pronunciation: /\u026a\u02c8lus\u026av/", "Definition: based on or having the nature of an illusion", "Synonyms: illusory"]}
