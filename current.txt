@@ -1,1 +1,1 @@
-{"data": ["2021-06-22T23:54:37.711081+00:00", 4501, "Your mother is", "snazzy", "Pronunciation: /\u02c8sn\u00e6zi/", "Definition: flashily stylish", ""]}
+{"data": ["2021-06-23T00:04:37.682534+00:00", 4502, "Your mother is", "cobwebby", "Pronunciation: /\u02c8k\u0251b\u02ccw\u025bbi/", "Definition: so thin as to transmit light", "Synonyms: diaphanous, filmy, gauze-like, gauzy, gossamer, see-through, sheer, transparent, vaporous, vapourous"]}
