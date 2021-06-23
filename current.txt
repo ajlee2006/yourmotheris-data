@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T22:49:28.821683+00:00", 4638, "Your mother is", "gallant", "Pronunciation: /\u02c8\u0261\u00e6l\u0259nt/", "Definition: lively and spirited", "Synonyms: dashing"]}
+{"data": ["2021-06-23T22:59:28.917340+00:00", 4639, "Your mother is", "well-proportioned", "Pronunciation: /w\u025bl-pr\u0259\u02c8po\u028ar\u0283\u0259nd/", "Definition: of pleasing proportions", ""]}
