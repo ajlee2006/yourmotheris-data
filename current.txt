@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T21:29:28.845185+00:00", 4630, "Your mother is", "responsive", "Pronunciation: /ri\u02c8sp\u0251ns\u026av/", "Definition: reacting to a stimulus", "Synonyms: reactive"]}
+{"data": ["2021-06-23T21:39:28.817057+00:00", 4631, "Your mother is", "nonfinite", "", "Definition: (of verbs) not having tense, person, or number (as a participle or gerund or infinitive)", "Synonyms: infinite, non-finite"]}
