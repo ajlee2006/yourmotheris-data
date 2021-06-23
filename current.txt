@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T05:24:37.609402+00:00", 4534, "Your mother is", "sudden", "Pronunciation: /\u02c8s\u0259d\u0259n/", "Definition: happening without warning or in a short space of time", ""]}
+{"data": ["2021-06-23T05:34:37.714812+00:00", 4535, "Your mother is", "grammatic", "", "Definition: of or pertaining to grammar", "Synonyms: grammatical"]}
