@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T21:49:28.786622+00:00", 4632, "Your mother is", "plenteous", "Pronunciation: /\u02c8pl\u025bnti\u0259s/", "Definition: affording an abundant supply", "Synonyms: ample, copious, plentiful, rich"]}
+{"data": ["2021-06-23T21:59:28.892585+00:00", 4633, "Your mother is", "on the button", "Similar to: precise", "Definition: being precise with regard to a prescribed or specified criterion", "Synonyms: on the nose"]}
