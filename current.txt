@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T02:54:37.905149+00:00", 4519, "Your mother is", "amnesic", "Pronunciation: /\u00e6m\u02c8nis\u026ak/", "Definition: of or relating to or caused by amnesia", "Synonyms: amnestic"]}
+{"data": ["2021-06-23T03:04:37.653047+00:00", 4520, "Your mother is", "adjunctive", "Pronunciation: /\u0259\u02c8d\u0292\u0259\u014bkt\u026av/", "Definition: joining; forming an adjunct", ""]}
