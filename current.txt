@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T18:39:28.919060+00:00", 4613, "Your mother is", "assuasive", "Pronunciation: /\u0259\u02c8swe\u026as\u026av/", "Definition: freeing from fear and anxiety", "Synonyms: soothing"]}
+{"data": ["2021-06-23T18:49:28.995217+00:00", 4614, "Your mother is", "archean", "Pronunciation: /\u0251r\u02c8ki\u0259n/", "Definition: of or relating to the earliest known rocks formed during the Precambrian Eon", "Synonyms: archaean"]}
