@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T17:59:28.946388+00:00", 4609, "Your mother is", "optative", "Pronunciation: /\u02c8\u0251pt\u0259t\u026av/", "Definition: relating to a mood of verbs in some languages", ""]}
+{"data": ["2021-06-23T18:09:29.210679+00:00", 4610, "Your mother is", "dowerless", "Similar to: unendowed", "Definition: lacking a dowry", ""]}
