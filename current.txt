@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T18:49:28.995217+00:00", 4614, "Your mother is", "archean", "Pronunciation: /\u0251r\u02c8ki\u0259n/", "Definition: of or relating to the earliest known rocks formed during the Precambrian Eon", "Synonyms: archaean"]}
+{"data": ["2021-06-23T18:59:29.081379+00:00", 4615, "Your mother is", "unglamorous", "Pronunciation: /\u028cn\u02c8\u0261l\u00e6m\u025dr\u028cs/", "Definition: not challenging; dull and lacking excitement", "Synonyms: commonplace, humdrum, prosaic, unglamourous"]}
