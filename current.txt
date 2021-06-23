@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T09:54:37.597686+00:00", 4561, "Your mother is", "somatogenetic", "Pronunciation: /\u02ccso\u028am\u0259t\u0259d\u0292\u0259\u02c8n\u025bt\u026ak/", "Definition: of or arising from physiological causes rather than being psychogenic in origin", "Synonyms: somatogenic"]}
+{"data": ["2021-06-23T10:04:37.904362+00:00", 4562, "Your mother is", "unlovely", "Pronunciation: /\u0259n\u02c8l\u0259vli/", "Definition: without beauty or charm", "Synonyms: unpicturesque"]}
