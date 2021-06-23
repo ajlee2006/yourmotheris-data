@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T03:54:37.658685+00:00", 4525, "Your mother is", "dozy", "Pronunciation: /\u02c8do\u028azi/", "Definition: half asleep", "Synonyms: drowsing, drowsy"]}
+{"data": ["2021-06-23T04:04:37.702051+00:00", 4526, "Your mother is", "indiscernible", "Pronunciation: /\u02cc\u026and\u026a\u02c8s\u025crn\u0259b\u0259l/", "Definition: barely able to be perceived", "Synonyms: insensible, undetectable"]}
