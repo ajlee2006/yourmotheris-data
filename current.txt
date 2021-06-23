@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T01:34:37.673621+00:00", 4511, "Your mother is", "latino", "Pronunciation: /l\u00e6\u02c8tino\u028a/", "Definition: related to a Spanish-speaking people or culture", "Synonyms: hispanic"]}
+{"data": ["2021-06-23T01:44:37.677949+00:00", 4512, "Your mother is", "muscle-bound", "Pronunciation: /\u02c8m\u0259s\u0259l\u02ccb\u00e6\u028and/", "Definition: having stiff muscles as the result of excessive exercise", ""]}
