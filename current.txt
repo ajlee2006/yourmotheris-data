@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T00:34:37.808979+00:00", 4505, "Your mother is", "uninspired", "Pronunciation: /\u02cc\u0259n\u026an\u02c8spa\u026a\u0259rd/", "Definition: deficient in originality or creativity; lacking powers of invention", "Synonyms: sterile, unimaginative, uninventive"]}
+{"data": ["2021-06-23T00:44:37.645433+00:00", 4506, "Your mother is", "sporadic", "Pronunciation: /spo\u028a\u02c8r\u00e6d\u026ak/", "Definition: recurring in scattered and irregular or unpredictable instances", ""]}
