@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T03:04:37.653047+00:00", 4520, "Your mother is", "adjunctive", "Pronunciation: /\u0259\u02c8d\u0292\u0259\u014bkt\u026av/", "Definition: joining; forming an adjunct", ""]}
+{"data": ["2021-06-23T03:14:37.780485+00:00", 4521, "Your mother is", "forty-first", "Pronunciation: /\u02c8f\u0254rti-\u02c8f\u025crst/", "Definition: the ordinal number of forty-one in counting order", "Synonyms: 41st"]}
