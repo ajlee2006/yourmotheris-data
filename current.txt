@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T13:19:28.961887+00:00", 4581, "Your mother is", "illusive", "Pronunciation: /\u026a\u02c8lus\u026av/", "Definition: based on or having the nature of an illusion", "Synonyms: illusory"]}
+{"data": ["2021-06-23T13:29:29.031794+00:00", 4582, "Your mother is", "disjoint", "Pronunciation: /d\u026as\u02c8d\u0292\u0254\u026ant/", "Definition: having no elements in common", ""]}
