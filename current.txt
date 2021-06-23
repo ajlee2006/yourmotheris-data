@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T13:59:28.949677+00:00", 4585, "Your mother is", "cephalopod", "Pronunciation: /\u02c8s\u025bf\u0259l\u0259\u02ccp\u0251d/", "Definition: relating or belonging to the class Cephalopoda", "Synonyms: cephalopodan"]}
+{"data": ["2021-06-23T14:09:29.320968+00:00", 4586, "Your mother is", "wished-for", "Similar to: wanted", "Definition: greatly desired", "Synonyms: longed-for, yearned-for"]}
