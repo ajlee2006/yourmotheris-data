@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T23:19:28.870736+00:00", 4641, "Your mother is", "bolshevistic", "Pronunciation: /\u02ccbo\u028al\u0283\u0259\u02c8v\u026ast\u026ak/", "Definition: of or relating to Bolshevism", "Synonyms: bolshevik, bolshevist"]}
+{"data": ["2021-06-23T23:29:28.942871+00:00", 4642, "Your mother is", "carolean", "Pronunciation: /\u02cck\u00e6r\u0259\u02c8li\u0259n/", "Definition: of or relating to the life and times of kings Charles I or Charles II of England", "Synonyms: caroline"]}
