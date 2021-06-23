@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T17:09:28.904559+00:00", 4604, "Your mother is", "silver-grey", "Similar to: achromatic", "Definition: of grey resembling silver", "Synonyms: silver-gray, silvery-gray, silvery-grey"]}
+{"data": ["2021-06-23T17:19:28.964754+00:00", 4605, "Your mother is", "chiasmic", "", "Definition: of or relating to a chiasm", "Synonyms: chiasmal, chiasmatic"]}
