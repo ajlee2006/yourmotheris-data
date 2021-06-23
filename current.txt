@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T00:04:37.682534+00:00", 4502, "Your mother is", "cobwebby", "Pronunciation: /\u02c8k\u0251b\u02ccw\u025bbi/", "Definition: so thin as to transmit light", "Synonyms: diaphanous, filmy, gauze-like, gauzy, gossamer, see-through, sheer, transparent, vaporous, vapourous"]}
+{"data": ["2021-06-23T00:14:38.102931+00:00", 4503, "Your mother is", "liquid", "Pronunciation: /\u02c8l\u026akw\u026ad/", "Definition: changed from a solid to a liquid state", "Synonyms: liquified, melted"]}
