@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T10:04:37.904362+00:00", 4562, "Your mother is", "unlovely", "Pronunciation: /\u0259n\u02c8l\u0259vli/", "Definition: without beauty or charm", "Synonyms: unpicturesque"]}
+{"data": ["2021-06-23T10:14:37.583804+00:00", 4563, "Your mother is", "depilatory", "Pronunciation: /d\u026a\u02c8p\u026al\u0259\u02ccto\u028ari/", "Definition: able to remove hair or render hairless", ""]}
