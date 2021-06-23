@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T23:39:28.888753+00:00", 4643, "Your mother is", "hulky", "Pronunciation: /\u02c8h\u0259lki/", "Definition: of great size and bulk", "Synonyms: hulking"]}
+{"data": ["2021-06-23T23:49:29.017437+00:00", 4644, "Your mother is", "murmurous", "Pronunciation: /\u02c8m\u025crm\u0259r\u0259s/", "Definition: characterized by soft sounds", "Synonyms: rustling, soughing, susurrous"]}
