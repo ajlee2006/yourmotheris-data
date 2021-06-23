@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T18:19:29.202391+00:00", 4611, "Your mother is", "prying", "Pronunciation: /\u02c8pra\u026a\u026a\u014b/", "Definition: offensively curious or inquisitive", "Synonyms: nosey, nosy, snoopy"]}
+{"data": ["2021-06-23T18:29:29.408352+00:00", 4612, "Your mother is", "valiant", "Pronunciation: /\u02c8v\u00e6lj\u0259nt/", "Definition: having or showing valor", "Synonyms: valorous"]}
