@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T02:44:37.657966+00:00", 4518, "Your mother is", "cancellated", "Pronunciation: /\u02c8k\u00e6ns\u0259\u02ccle\u026at\u026ad/", "Definition: having a latticelike structure pierced with holes or windows", "Synonyms: cancellate, clathrate"]}
+{"data": ["2021-06-23T02:54:37.905149+00:00", 4519, "Your mother is", "amnesic", "Pronunciation: /\u00e6m\u02c8nis\u026ak/", "Definition: of or relating to or caused by amnesia", "Synonyms: amnestic"]}
