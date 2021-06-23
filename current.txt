@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T16:29:28.917608+00:00", 4600, "Your mother is", "shelvy", "Similar to: shallow", "Definition: full of submerged reefs or sandbanks or shoals", "Synonyms: reefy, shelfy, shoaly"]}
+{"data": ["2021-06-23T16:39:28.880921+00:00", 4601, "Your mother is", "nontransmissible", "Similar to: noninfectious", "Definition: (of disease) not capable of being passed on", "Synonyms: noncommunicable, noncontagious"]}
