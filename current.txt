@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T13:39:28.876142+00:00", 4583, "Your mother is", "unstinted", "Pronunciation: /\u0259n\u02c8st\u026ant\u026ad/", "Definition: very generous", "Synonyms: lavish, munificent, overgenerous, too-generous, unsparing, unstinting"]}
+{"data": ["2021-06-23T13:49:28.950647+00:00", 4584, "Your mother is", "superstitious", "Pronunciation: /\u02ccsup\u0259r\u02c8st\u026a\u0283\u0259s/", "Definition: showing ignorance of the laws of nature and faith in magic or chance", ""]}
