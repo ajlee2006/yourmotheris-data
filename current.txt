@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T15:39:28.908728+00:00", 4595, "Your mother is", "undomestic", "Similar to: undomesticated", "Definition: not domestic or related to home", ""]}
+{"data": ["2021-06-23T15:49:28.915336+00:00", 4596, "Your mother is", "insolent", "Pronunciation: /\u02c8\u026ans\u0259l\u0259nt/", "Definition: unrestrained by convention or propriety", "Synonyms: audacious, bald-faced, barefaced, bodacious, brassy, brazen, brazen-faced"]}
