@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T10:44:37.580301+00:00", 4566, "Your mother is", "eldest", "Pronunciation: /\u02c8\u025bld\u026ast/", "Definition: first in order of birth", "Synonyms: firstborn"]}
+{"data": ["2021-06-23T10:59:28.971038+00:00", 4567, "Your mother is", "hackneyed", "Pronunciation: /\u02c8h\u00e6knid/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, old-hat, shopworn, stock, threadbare, timeworn, tired, trite, well-worn"]}
