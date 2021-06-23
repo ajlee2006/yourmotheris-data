@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T04:54:37.615201+00:00", 4531, "Your mother is", "blue-black", "Pronunciation: /blu-bl\u00e6k/", "Definition: of black tinged with blue", "Synonyms: bluish black"]}
+{"data": ["2021-06-23T05:04:37.875109+00:00", 4532, "Your mother is", "leftmost", "Pronunciation: /\u02c8l\u025bftmo\u028ast/", "Definition: farthest to the left", ""]}
