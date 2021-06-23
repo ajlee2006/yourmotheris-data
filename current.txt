@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T13:29:29.031794+00:00", 4582, "Your mother is", "disjoint", "Pronunciation: /d\u026as\u02c8d\u0292\u0254\u026ant/", "Definition: having no elements in common", ""]}
+{"data": ["2021-06-23T13:39:28.876142+00:00", 4583, "Your mother is", "unstinted", "Pronunciation: /\u0259n\u02c8st\u026ant\u026ad/", "Definition: very generous", "Synonyms: lavish, munificent, overgenerous, too-generous, unsparing, unstinting"]}
