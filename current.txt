@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T03:34:37.650297+00:00", 4523, "Your mother is", "authorised", "Pronunciation: /\u02c8\u0254\u03b8\u0259\u02ccra\u026azd/", "Definition: endowed with authority", "Synonyms: authorized"]}
+{"data": ["2021-06-23T03:44:37.742256+00:00", 4524, "Your mother is", "perforate", "Pronunciation: /\u02c8p\u0259rf\u0259\u02ccre\u026at/", "Definition: having a hole cut through", "Synonyms: perforated, pierced, punctured"]}
