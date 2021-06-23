@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T03:44:37.742256+00:00", 4524, "Your mother is", "perforate", "Pronunciation: /\u02c8p\u0259rf\u0259\u02ccre\u026at/", "Definition: having a hole cut through", "Synonyms: perforated, pierced, punctured"]}
+{"data": ["2021-06-23T03:54:37.658685+00:00", 4525, "Your mother is", "dozy", "Pronunciation: /\u02c8do\u028azi/", "Definition: half asleep", "Synonyms: drowsing, drowsy"]}
