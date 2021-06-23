@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T23:09:28.872410+00:00", 4640, "Your mother is", "eastern", "Pronunciation: /\u02c8ist\u0259rn/", "Definition: from the east; used especially of winds", "Synonyms: easterly"]}
+{"data": ["2021-06-23T23:19:28.870736+00:00", 4641, "Your mother is", "bolshevistic", "Pronunciation: /\u02ccbo\u028al\u0283\u0259\u02c8v\u026ast\u026ak/", "Definition: of or relating to Bolshevism", "Synonyms: bolshevik, bolshevist"]}
