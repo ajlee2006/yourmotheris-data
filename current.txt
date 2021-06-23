@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T12:49:28.849657+00:00", 4578, "Your mother is", "giddy", "Pronunciation: /\u02c8\u0261\u026adi/", "Definition: lacking seriousness; given to frivolity", "Synonyms: airheaded, dizzy, empty-headed, featherbrained, light-headed, lightheaded, silly"]}
+{"data": ["2021-06-23T12:59:29.066370+00:00", 4579, "Your mother is", "hydrophytic", "Pronunciation: /\u02ccha\u026adr\u0259\u02c8f\u026at\u026ak/", "Definition: growing wholly or partially in water", ""]}
