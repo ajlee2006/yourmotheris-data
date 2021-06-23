@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T06:54:37.606583+00:00", 4543, "Your mother is", "unimportant", "Pronunciation: /\u028cn\u026am\u02c8p\u0254rt\u028cnt/", "Definition: devoid of importance, meaning, or force", "Synonyms: insignificant"]}
+{"data": ["2021-06-23T07:04:37.750053+00:00", 4544, "Your mother is", "oncological", "", "Definition: of or relating to or practicing oncology", "Synonyms: oncologic"]}
