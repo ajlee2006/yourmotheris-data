@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T17:25:10.417767+00:00", 4749, "Your mother is", "pyknotic", "", "Definition: of or relating to or exhibiting pyknosis", "Synonyms: pycnotic"]}
+{"data": ["2021-06-24T17:35:10.273402+00:00", 4750, "Your mother is", "incurvate", "Pronunciation: /\u02c8\u026an\u02c8k\u025cr\u02ccve\u026at/", "Definition: bent into or having an inward curve", "Synonyms: incurved"]}
