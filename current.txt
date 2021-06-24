@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T14:15:10.891737+00:00", 4730, "Your mother is", "right-wing", "Pronunciation: /ra\u026at-w\u026a\u014b/", "Definition: believing in or supporting tenets of the political right", "Synonyms: rightist"]}
+{"data": ["2021-06-24T14:25:10.727622+00:00", 4731, "Your mother is", "dionysian", "Pronunciation: /\u02ccda\u026a\u0259\u02c8n\u026a\u0283\u0259n/", "Definition: of or relating to or worshipping Dionysus", ""]}
