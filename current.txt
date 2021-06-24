@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T00:39:29.001551+00:00", 4649, "Your mother is", "bootleg", "Pronunciation: /\u02c8but\u02ccl\u025b\u0261/", "Definition: distributed or sold illicitly", "Synonyms: black, black-market, contraband, smuggled"]}
+{"data": ["2021-06-24T00:49:28.891043+00:00", 4650, "Your mother is", "filmable", "Pronunciation: /\u02c8f\u026alm\u0259b\u0259l/", "Definition: (used of a story or literary work) capable of being adapted to motion picture form", ""]}
