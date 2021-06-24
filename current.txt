@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T01:19:28.827763+00:00", 4653, "Your mother is", "equipped", "Pronunciation: /\u026a\u02c8kw\u026apt/", "Definition: carrying weapons", "Synonyms: weaponed"]}
+{"data": ["2021-06-24T01:29:28.870799+00:00", 4654, "Your mother is", "right-side-up", "Similar to: unturned", "Definition: of objects having a top and bottom", ""]}
