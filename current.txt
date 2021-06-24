@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T20:25:10.256910+00:00", 4767, "Your mother is", "sophistical", "Pronunciation: /s\u0259\u02c8f\u026ast\u026ak\u0259l/", "Definition: plausible but misleading", "Synonyms: sophistic"]}
+{"data": ["2021-06-24T20:35:10.098805+00:00", 4768, "Your mother is", "blessed", "Pronunciation: /\u02c8bl\u025bs\u026ad/", "Definition: Roman Catholic; proclaimed one of the blessed and thus worthy of veneration", "Synonyms: beatified"]}
