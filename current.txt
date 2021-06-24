@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T06:59:28.850020+00:00", 4687, "Your mother is", "sharp-worded", "Similar to: unpleasant", "Definition: harsh", "Synonyms: sharp, tart"]}
+{"data": ["2021-06-24T07:09:28.848699+00:00", 4688, "Your mother is", "shuttered", "Pronunciation: /\u02c8\u0283\u028ct\u025drd/", "Definition: provided with shutters or shutters as specified; often used in combination", ""]}
