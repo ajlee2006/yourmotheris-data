@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T23:25:10.199536+00:00", 4785, "Your mother is", "periodic", "Pronunciation: /\u02ccpiri\u02c8\u0251d\u026ak/", "Definition: recurring or reappearing from time to time", "Synonyms: occasional"]}
+{"data": ["2021-06-24T23:35:10.089781+00:00", 4786, "Your mother is", "expeditious", "Pronunciation: /\u02cc\u025bksp\u026a\u02c8d\u026a\u0283\u0259s/", "Definition: marked by speed and efficiency", ""]}
