@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T05:09:28.850543+00:00", 4676, "Your mother is", "cosmopolitan", "Pronunciation: /\u02cck\u0251zm\u0259\u02c8p\u0251l\u026at\u0259n/", "Definition: growing or occurring in many parts of the world", "Synonyms: widely distributed"]}
+{"data": ["2021-06-24T05:19:28.834202+00:00", 4677, "Your mother is", "meddlesome", "Pronunciation: /\u02c8m\u025bd\u0259ls\u0259m/", "Definition: intrusive in a meddling or offensive manner", "Synonyms: busy, busybodied, interfering, meddling, officious"]}
