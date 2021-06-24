@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T07:39:28.807457+00:00", 4691, "Your mother is", "subordinate", "Pronunciation: /s\u0259b\u02c8o\u028ad\u0259n\u02cce\u026at/", "Definition: (of a clause) unable to stand alone syntactically as a complete sentence", "Synonyms: dependent"]}
+{"data": ["2021-06-24T07:49:28.874877+00:00", 4692, "Your mother is", "cadaveric", "", "Definition: of or relating to a cadaver or corpse", "Synonyms: cadaverous"]}
