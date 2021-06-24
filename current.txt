@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T16:25:10.432813+00:00", 4743, "Your mother is", "ninety-four", "Pronunciation: /\u02c8na\u026anti-fo\u028ar/", "Definition: being four more than ninety", "Synonyms: 94, xciv"]}
+{"data": ["2021-06-24T16:35:10.112443+00:00", 4744, "Your mother is", "unattached", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u00e6\u02a7t/", "Definition: not associated in an exclusive sexual relationship", "Synonyms: uncommitted"]}
