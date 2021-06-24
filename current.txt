@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T08:29:28.918964+00:00", 4696, "Your mother is", "ruthless", "Pronunciation: /\u02c8ru\u03b8l\u026as/", "Definition: without mercy or pity", "Synonyms: pitiless, remorseless, unpitying"]}
+{"data": ["2021-06-24T08:39:28.866339+00:00", 4697, "Your mother is", "nonparasitic", "Similar to: independent", "Definition: not parasitic on another organism", "Synonyms: free-living, nonsymbiotic"]}
