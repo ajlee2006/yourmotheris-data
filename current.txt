@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T08:49:28.938247+00:00", 4698, "Your mother is", "unlikable", "", "Definition: (of characters in literature or drama) tending to evoke antipathetic feelings", "Synonyms: unappealing, unlikeable, unsympathetic"]}
+{"data": ["2021-06-24T08:59:28.868757+00:00", 4699, "Your mother is", "drawn-out", "Pronunciation: /dr\u0254n-a\u028at/", "Definition: relatively long in duration; tediously protracted", "Synonyms: extended, lengthy, prolonged, protracted"]}
