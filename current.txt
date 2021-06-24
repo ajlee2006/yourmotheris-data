@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T11:10:22.007662+00:00", 4712, "Your mother is", "minimalist", "Pronunciation: /\u02c8m\u026an\u026am\u0259l\u026ast/", "Definition: advocating minimal reforms (as in government or politics)", ""]}
+{"data": ["2021-06-24T11:20:22.024156+00:00", 4713, "Your mother is", "extendable", "Pronunciation: /\u02cc\u025bk\u02c8st\u025bnd\u028cb\u028cl/", "Definition: capable of being lengthened", "Synonyms: extendible"]}
