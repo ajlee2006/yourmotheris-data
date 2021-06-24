@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T16:55:10.069395+00:00", 4746, "Your mother is", "unwashed", "Pronunciation: /\u0259n\u02c8w\u0251\u0283t/", "Definition: of or associated with the great masses of people", "Synonyms: common, plebeian, vulgar"]}
+{"data": ["2021-06-24T17:05:10.508070+00:00", 4747, "Your mother is", "corrugated", "Pronunciation: /\u02c8k\u0254r\u028c\u02cc\u0261e\u026at\u028cd/", "Definition: shaped into alternating parallel grooves and ridges", ""]}
