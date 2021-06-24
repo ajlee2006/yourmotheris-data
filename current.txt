@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T00:49:28.891043+00:00", 4650, "Your mother is", "filmable", "Pronunciation: /\u02c8f\u026alm\u0259b\u0259l/", "Definition: (used of a story or literary work) capable of being adapted to motion picture form", ""]}
+{"data": ["2021-06-24T00:59:28.889406+00:00", 4651, "Your mother is", "tricentenary", "Pronunciation: /\u02cctra\u026as\u025bn\u02c8tin\u0259ri/", "Definition: of or relating to or completing a period of 300 years", "Synonyms: tricentennial"]}
