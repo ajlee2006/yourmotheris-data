@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T08:59:28.868757+00:00", 4699, "Your mother is", "drawn-out", "Pronunciation: /dr\u0254n-a\u028at/", "Definition: relatively long in duration; tediously protracted", "Synonyms: extended, lengthy, prolonged, protracted"]}
+{"data": ["2021-06-24T09:09:28.911439+00:00", 4700, "Your mother is", "fast-growing", "Pronunciation: /f\u00e6st-\u02c8gro\u028a\u026a\u014b/", "Definition: tending to spread quickly", "Synonyms: aggressive, strong-growing"]}
