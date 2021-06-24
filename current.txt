@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T04:19:28.914885+00:00", 4671, "Your mother is", "replaceable", "Pronunciation: /\u02ccri\u02c8ple\u026as\u028cb\u028cl/", "Definition: capable of being replaced", ""]}
+{"data": ["2021-06-24T04:29:28.757964+00:00", 4672, "Your mother is", "diffusive", "Pronunciation: /d\u026a\u02c8fjus\u026av/", "Definition: spreading by diffusion", "Synonyms: diffusing, dispersive, disseminative"]}
