@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T12:00:22.095157+00:00", 4717, "Your mother is", "urban", "Pronunciation: /\u02c8\u025crb\u0259n/", "Definition: located in or characteristic of a city or city life", ""]}
+{"data": ["2021-06-24T12:10:22.149191+00:00", 4718, "Your mother is", "musical", "Pronunciation: /\u02c8mjuz\u026ak\u0259l/", "Definition: containing or constituting or characterized by pleasing melody", "Synonyms: melodic, melodious"]}
