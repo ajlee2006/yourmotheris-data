@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T01:59:28.859800+00:00", 4657, "Your mother is", "ago", "Pronunciation: /\u0259\u02c8\u0261o\u028a/", "Definition: gone by; or in the past", "Synonyms: agone"]}
+{"data": ["2021-06-24T02:09:28.925704+00:00", 4658, "Your mother is", "paediatric", "", "Definition: of or relating to the medical care of children", "Synonyms: pediatric"]}
