@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T20:05:10.107037+00:00", 4765, "Your mother is", "curt", "Pronunciation: /k\u025crt/", "Definition: marked by rude or peremptory shortness", "Synonyms: brusk, brusque, short"]}
+{"data": ["2021-06-24T20:15:10.389291+00:00", 4766, "Your mother is", "manque", "Pronunciation: /m\u0251\u014b\u02c8ke\u026a/", "Definition: unfulfilled or frustrated in realizing an ambition", "Synonyms: would-be"]}
