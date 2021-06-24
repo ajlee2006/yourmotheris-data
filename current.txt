@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T02:39:28.858920+00:00", 4661, "Your mother is", "unwed", "Pronunciation: /\u0259n\u02c8w\u025bd/", "Definition: of someone who has not been married", "Synonyms: unwedded"]}
+{"data": ["2021-06-24T02:49:28.892793+00:00", 4662, "Your mother is", "jacobinical", "", "Definition: of or relating to the Jacobins of the French Revolution", "Synonyms: jacobinic"]}
