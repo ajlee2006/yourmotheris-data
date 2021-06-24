@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T16:35:10.112443+00:00", 4744, "Your mother is", "unattached", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u00e6\u02a7t/", "Definition: not associated in an exclusive sexual relationship", "Synonyms: uncommitted"]}
+{"data": ["2021-06-24T16:45:11.044980+00:00", 4745, "Your mother is", "tyrannical", "Pronunciation: /t\u026a\u02c8r\u00e6n\u026ak\u0259l/", "Definition: characteristic of an absolute ruler or absolute rule; having absolute sovereignty", "Synonyms: authoritarian, autocratic, despotic, dictatorial, tyrannic"]}
