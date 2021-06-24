@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T03:19:28.881687+00:00", 4665, "Your mother is", "unrecorded", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8k\u0254rd\u026ad/", "Definition: actually being performed at the time of hearing or viewing", "Synonyms: live"]}
+{"data": ["2021-06-24T03:29:28.885355+00:00", 4666, "Your mother is", "deepening", "Pronunciation: /\u02c8dip\u028cn\u026a\u014b/", "Definition: accumulating and becoming more intense", "Synonyms: thickening"]}
