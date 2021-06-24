@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T15:55:10.920941+00:00", 4740, "Your mother is", "inmost", "Pronunciation: /\u02c8\u026an\u02ccmo\u028ast/", "Definition: situated or occurring farthest within", "Synonyms: innermost"]}
+{"data": ["2021-06-24T16:05:10.083502+00:00", 4741, "Your mother is", "swimming", "Pronunciation: /\u02c8sw\u026am\u026a\u014b/", "Definition: filled or brimming with tears", "Synonyms: liquid"]}
