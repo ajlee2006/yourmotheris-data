@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T04:39:28.874213+00:00", 4673, "Your mother is", "tetravalent", "Pronunciation: /\u02cct\u025btr\u0259\u02c8ve\u026al\u0259nt/", "Definition: haveing a valence of four", ""]}
+{"data": ["2021-06-24T04:49:28.909185+00:00", 4674, "Your mother is", "meridional", "Pronunciation: /m\u0259\u02c8r\u026adi\u0259n\u0259l/", "Definition: located in the south or characteristic of southern people or places", ""]}
