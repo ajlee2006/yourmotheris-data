@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T23:45:10.418672+00:00", 4787, "Your mother is", "footless", "Pronunciation: /\u02c8f\u028atl\u026as/", "Definition: having no feet or analogous appendages", ""]}
+{"data": ["2021-06-24T23:55:10.232142+00:00", 4788, "Your mother is", "dismissed", "Pronunciation: /d\u026as\u02c8m\u026ast/", "Definition: having lost your job", "Synonyms: discharged, fired, laid-off, pink-slipped"]}
