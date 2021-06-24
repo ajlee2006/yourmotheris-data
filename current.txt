@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T19:05:10.155164+00:00", 4759, "Your mother is", "sequential", "Pronunciation: /s\u026a\u02c8kw\u025bn\u0283\u0259l/", "Definition: in regular succession without gaps", "Synonyms: consecutive, sequent, serial, successive"]}
+{"data": ["2021-06-24T19:15:10.613194+00:00", 4760, "Your mother is", "warty", "Pronunciation: /\u02c8w\u0254rti/", "Definition: (of skin) covered with warts or projections that resemble warts", "Synonyms: verrucose, wartlike"]}
