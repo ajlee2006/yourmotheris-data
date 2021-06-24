@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T07:09:28.848699+00:00", 4688, "Your mother is", "shuttered", "Pronunciation: /\u02c8\u0283\u028ct\u025drd/", "Definition: provided with shutters or shutters as specified; often used in combination", ""]}
+{"data": ["2021-06-24T07:19:28.887054+00:00", 4689, "Your mother is", "undefended", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8f\u025bnd\u026ad/", "Definition: not defended or capable of being defended", "Synonyms: assailable, open, undefendable"]}
