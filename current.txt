@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T02:29:28.814043+00:00", 4660, "Your mother is", "damaging", "Pronunciation: /\u02c8d\u00e6m\u026ad\u0292\u026a\u014b/", "Definition: designed or tending to discredit, especially without positive or helpful suggestions", "Synonyms: negative"]}
+{"data": ["2021-06-24T02:39:28.858920+00:00", 4661, "Your mother is", "unwed", "Pronunciation: /\u0259n\u02c8w\u025bd/", "Definition: of someone who has not been married", "Synonyms: unwedded"]}
