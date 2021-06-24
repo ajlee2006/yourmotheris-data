@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T07:59:29.934614+00:00", 4693, "Your mother is", "right-hand", "Pronunciation: /ra\u026at-h\u00e6nd/", "Definition: intended for the right hand", "Synonyms: right"]}
+{"data": ["2021-06-24T08:09:28.852299+00:00", 4694, "Your mother is", "accessorial", "Pronunciation: /\u02cc\u00e6ks\u026a\u02c8so\u028ari\u0259l/", "Definition: nonessential but helpful", ""]}
