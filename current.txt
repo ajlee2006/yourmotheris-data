@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T19:45:10.357838+00:00", 4763, "Your mother is", "halt", "Pronunciation: /h\u0254lt/", "Definition: disabled in the feet or legs", "Synonyms: crippled, game, gimpy, halting, lame"]}
+{"data": ["2021-06-24T19:55:10.121119+00:00", 4764, "Your mother is", "unidirectional", "Pronunciation: /\u02ccjun\u026ad\u026a\u02c8r\u025bk\u0283\u0259n\u0259l/", "Definition: operating or moving or allowing movement in one direction only", ""]}
