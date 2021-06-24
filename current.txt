@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T19:25:10.271497+00:00", 4761, "Your mother is", "tight-laced", "Similar to: proper", "Definition: exaggeratedly proper", "Synonyms: priggish, prim, prissy, prudish, puritanical, square-toed, straight-laced, straightlaced, strait-laced, straitlaced, victorian"]}
+{"data": ["2021-06-24T19:35:10.362277+00:00", 4762, "Your mother is", "exonerative", "Similar to: exculpatory", "Definition: providing absolution", "Synonyms: absolvitory, forgiving"]}
