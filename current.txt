@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T20:55:10.665142+00:00", 4770, "Your mother is", "cunning", "Pronunciation: /\u02c8k\u0259n\u026a\u014b/", "Definition: showing inventiveness and skill", "Synonyms: clever, ingenious"]}
+{"data": ["2021-06-24T21:05:10.293593+00:00", 4771, "Your mother is", "antitypic", "Pronunciation: /\u02cc\u00e6nt\u026a\u02c8t\u026ap\u026ak/", "Definition: of or relating to an antitype that represents an opposite", "Synonyms: antitypical"]}
