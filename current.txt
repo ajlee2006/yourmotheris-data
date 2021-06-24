@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T09:19:28.832267+00:00", 4701, "Your mother is", "afflicted", "Pronunciation: /\u028c\u02c8fl\u026akt\u028cd/", "Definition: mentally or physically unfit", "Synonyms: impaired"]}
+{"data": ["2021-06-24T09:29:28.861631+00:00", 4702, "Your mother is", "weaponless", "Similar to: unarmed", "Definition: without a weapon", ""]}
