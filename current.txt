@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T04:09:28.843149+00:00", 4670, "Your mother is", "lavender-tinged", "Similar to: chromatic", "Definition: of something tinged with lavender", ""]}
+{"data": ["2021-06-24T04:19:28.914885+00:00", 4671, "Your mother is", "replaceable", "Pronunciation: /\u02ccri\u02c8ple\u026as\u028cb\u028cl/", "Definition: capable of being replaced", ""]}
