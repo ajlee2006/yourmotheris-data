@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T12:50:22.330538+00:00", 4722, "Your mother is", "substitute", "Pronunciation: /\u02c8s\u0259bst\u026a\u02cctut/", "Definition: serving or used in place of another", "Synonyms: alternate, alternative"]}
+{"data": ["2021-06-24T13:05:10.062925+00:00", 4723, "Your mother is", "tacky", "Pronunciation: /\u02c8t\u00e6ki/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, gimcrack, loud, meretricious, tatty, tawdry, trashy"]}
