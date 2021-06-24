@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T12:30:22.251861+00:00", 4720, "Your mother is", "subalpine", "Pronunciation: /s\u0259b\u02c8\u00e6lpa\u026an/", "Definition: growing at high altitudes", "Synonyms: alpestrine"]}
+{"data": ["2021-06-24T12:40:22.663737+00:00", 4721, "Your mother is", "saxicolous", "Pronunciation: /s\u00e6k\u02c8s\u026ak\u0259l\u0259s/", "Definition: growing on or living among rocks", "Synonyms: saxatile, saxicoline"]}
