@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T07:29:28.786784+00:00", 4690, "Your mother is", "frustrated", "Pronunciation: /\u02c8fr\u0259stre\u026at\u026ad/", "Definition: disappointingly unsuccessful", "Synonyms: defeated, disappointed, discomfited, foiled, thwarted"]}
+{"data": ["2021-06-24T07:39:28.807457+00:00", 4691, "Your mother is", "subordinate", "Pronunciation: /s\u0259b\u02c8o\u028ad\u0259n\u02cce\u026at/", "Definition: (of a clause) unable to stand alone syntactically as a complete sentence", "Synonyms: dependent"]}
