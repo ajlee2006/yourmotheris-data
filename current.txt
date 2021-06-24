@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T00:29:28.969831+00:00", 4648, "Your mother is", "prototypal", "Similar to: first", "Definition: representing or constituting an original type after which other similar things are patterned", "Synonyms: archetypal, archetypical, prototypic, prototypical"]}
+{"data": ["2021-06-24T00:39:29.001551+00:00", 4649, "Your mother is", "bootleg", "Pronunciation: /\u02c8but\u02ccl\u025b\u0261/", "Definition: distributed or sold illicitly", "Synonyms: black, black-market, contraband, smuggled"]}
