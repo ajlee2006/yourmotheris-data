@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T05:49:28.850212+00:00", 4680, "Your mother is", "underived", "Similar to: original", "Definition: not derived; primary or simple", ""]}
+{"data": ["2021-06-24T05:59:28.825396+00:00", 4681, "Your mother is", "at rest", "Similar to: dead", "Definition: dead", "Synonyms: asleep, at peace, deceased, departed, gone"]}
