@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T12:10:22.149191+00:00", 4718, "Your mother is", "musical", "Pronunciation: /\u02c8mjuz\u026ak\u0259l/", "Definition: containing or constituting or characterized by pleasing melody", "Synonyms: melodic, melodious"]}
+{"data": ["2021-06-24T12:20:22.164238+00:00", 4719, "Your mother is", "orienting", "Similar to: familiarising", "Definition: positioning with respect to a reference system or determining your bearings physically or intellectually", "Synonyms: orientating"]}
