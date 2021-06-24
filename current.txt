@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T14:35:10.122547+00:00", 4732, "Your mother is", "noncontentious", "Similar to: unargumentative", "Definition: of persons; not given to controversy", ""]}
+{"data": ["2021-06-24T14:45:10.304995+00:00", 4733, "Your mother is", "possessive", "Pronunciation: /p\u0259\u02c8z\u025bs\u026av/", "Definition: serving to express or indicate possession", "Synonyms: genitive"]}
