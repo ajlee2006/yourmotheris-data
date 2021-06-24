@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T03:39:28.874677+00:00", 4667, "Your mother is", "homogenous", "Pronunciation: /h\u0259\u02c8m\u0251d\u0292\u0259n\u0259s/", "Definition: all of the same or similar kind or nature", "Synonyms: homogeneous"]}
+{"data": ["2021-06-24T03:49:28.912308+00:00", 4668, "Your mother is", "euphoric", "Pronunciation: /ju\u02c8f\u0254r\u026ak/", "Definition: exaggerated feeling of well-being or elation", ""]}
