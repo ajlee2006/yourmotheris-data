@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T05:39:28.812214+00:00", 4679, "Your mother is", "bottom", "Pronunciation: /\u02c8b\u0251t\u0259m/", "Definition: situated at the bottom or lowest position", ""]}
+{"data": ["2021-06-24T05:49:28.850212+00:00", 4680, "Your mother is", "underived", "Similar to: original", "Definition: not derived; primary or simple", ""]}
