@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T12:40:22.663737+00:00", 4721, "Your mother is", "saxicolous", "Pronunciation: /s\u00e6k\u02c8s\u026ak\u0259l\u0259s/", "Definition: growing on or living among rocks", "Synonyms: saxatile, saxicoline"]}
+{"data": ["2021-06-24T12:50:22.330538+00:00", 4722, "Your mother is", "substitute", "Pronunciation: /\u02c8s\u0259bst\u026a\u02cctut/", "Definition: serving or used in place of another", "Synonyms: alternate, alternative"]}
