@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T13:25:10.182053+00:00", 4725, "Your mother is", "homegrown", "Pronunciation: /ho\u028am\u02c8gro\u028an/", "Definition: grown or originating in a particular place", ""]}
+{"data": ["2021-06-24T13:35:10.242625+00:00", 4726, "Your mother is", "off-the-shoulder", "Similar to: unclothed", "Definition: not covering the shoulders (especially in the case of a blouse or dress)", ""]}
