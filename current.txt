@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T11:20:22.024156+00:00", 4713, "Your mother is", "extendable", "Pronunciation: /\u02cc\u025bk\u02c8st\u025bnd\u028cb\u028cl/", "Definition: capable of being lengthened", "Synonyms: extendible"]}
+{"data": ["2021-06-24T11:30:21.950744+00:00", 4714, "Your mother is", "nonmedicinal", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: unmedical, unmedicative, unmedicinal"]}
