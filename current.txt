@@ -1,1 +1,1 @@
-{"data": ["2021-06-23T23:59:28.966476+00:00", 4645, "Your mother is", "brachycephalic", "Pronunciation: /\u02ccbr\u00e6kis\u0259\u02c8f\u00e6l\u026ak/", "Definition: having a short broad head with a cephalic index of over 80", "Synonyms: brachycranial, brachycranic"]}
+{"data": ["2021-06-24T00:09:28.945321+00:00", 4646, "Your mother is", "marriageable", "Pronunciation: /\u02c8m\u00e6r\u026ad\u0292\u0259b\u0259l/", "Definition: of girls or women who are eligible to marry", "Synonyms: nubile"]}
