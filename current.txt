@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T06:09:28.848455+00:00", 4682, "Your mother is", "salacious", "Pronunciation: /s\u0259\u02c8le\u026a\u0283\u0259s/", "Definition: suggestive of or tending to moral looseness", "Synonyms: lewd, obscene, raunchy"]}
+{"data": ["2021-06-24T06:19:28.911491+00:00", 4683, "Your mother is", "nutritionary", "", "Definition: of or relating to or providing nutrition", "Synonyms: nutritional"]}
