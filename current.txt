@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T13:05:10.062925+00:00", 4723, "Your mother is", "tacky", "Pronunciation: /\u02c8t\u00e6ki/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, gimcrack, loud, meretricious, tatty, tawdry, trashy"]}
+{"data": ["2021-06-24T13:15:10.083054+00:00", 4724, "Your mother is", "trendsetting", "Similar to: fashionable", "Definition: initiating or popularizing a trend", "Synonyms: trend-setting"]}
