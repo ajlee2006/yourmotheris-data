@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T07:19:28.887054+00:00", 4689, "Your mother is", "undefended", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8f\u025bnd\u026ad/", "Definition: not defended or capable of being defended", "Synonyms: assailable, open, undefendable"]}
+{"data": ["2021-06-24T07:29:28.786784+00:00", 4690, "Your mother is", "frustrated", "Pronunciation: /\u02c8fr\u0259stre\u026at\u026ad/", "Definition: disappointingly unsuccessful", "Synonyms: defeated, disappointed, discomfited, foiled, thwarted"]}
