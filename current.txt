@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T03:09:28.874725+00:00", 4664, "Your mother is", "delineated", "Pronunciation: /d\u026a\u02c8l\u026ani\u02cce\u026at\u026ad/", "Definition: represented accurately or precisely", "Synonyms: delineate, represented"]}
+{"data": ["2021-06-24T03:19:28.881687+00:00", 4665, "Your mother is", "unrecorded", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8k\u0254rd\u026ad/", "Definition: actually being performed at the time of hearing or viewing", "Synonyms: live"]}
