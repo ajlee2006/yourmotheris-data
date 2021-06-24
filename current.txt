@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T06:29:28.868449+00:00", 4684, "Your mother is", "relaxant", "Pronunciation: /ri\u02c8l\u00e6ks\u0259nt/", "Definition: tending to relax or relieve muscular or nervous tension", ""]}
+{"data": ["2021-06-24T06:39:28.810407+00:00", 4685, "Your mother is", "spectroscopical", "", "Definition: of or relating to or involving spectroscopy", "Synonyms: spectroscopic"]}
