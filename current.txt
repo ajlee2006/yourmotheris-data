@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T15:05:10.712227+00:00", 4735, "Your mother is", "alternate", "Pronunciation: /\u02c8\u0254lt\u0259r\u02ccn\u026at/", "Definition: serving or used in place of another", "Synonyms: alternative, substitute"]}
+{"data": ["2021-06-24T15:15:10.258811+00:00", 4736, "Your mother is", "joyful", "Pronunciation: /\u02c8d\u0292\u0254\u026af\u0259l/", "Definition: full of high-spirited delight", "Synonyms: elated, gleeful, jubilant"]}
