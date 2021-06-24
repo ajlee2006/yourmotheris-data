@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T08:19:28.889762+00:00", 4695, "Your mother is", "uncomplimentary", "Pronunciation: /\u02cc\u0259nk\u0251mpl\u026a\u02c8m\u025bnt\u0259ri/", "Definition: showing or representing unfavorably", "Synonyms: unflattering"]}
+{"data": ["2021-06-24T08:29:28.918964+00:00", 4696, "Your mother is", "ruthless", "Pronunciation: /\u02c8ru\u03b8l\u026as/", "Definition: without mercy or pity", "Synonyms: pitiless, remorseless, unpitying"]}
