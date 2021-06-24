@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T01:49:28.947239+00:00", 4656, "Your mother is", "unscalable", "Pronunciation: /\u0259n\u02c8ske\u026al\u0259b\u0259l/", "Definition: incapable of being ascended", "Synonyms: unclimbable"]}
+{"data": ["2021-06-24T01:59:28.859800+00:00", 4657, "Your mother is", "ago", "Pronunciation: /\u0259\u02c8\u0261o\u028a/", "Definition: gone by; or in the past", "Synonyms: agone"]}
