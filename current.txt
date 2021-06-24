@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T19:55:10.121119+00:00", 4764, "Your mother is", "unidirectional", "Pronunciation: /\u02ccjun\u026ad\u026a\u02c8r\u025bk\u0283\u0259n\u0259l/", "Definition: operating or moving or allowing movement in one direction only", ""]}
+{"data": ["2021-06-24T20:05:10.107037+00:00", 4765, "Your mother is", "curt", "Pronunciation: /k\u025crt/", "Definition: marked by rude or peremptory shortness", "Synonyms: brusk, brusque, short"]}
