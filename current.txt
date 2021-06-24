@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T01:09:29.105528+00:00", 4652, "Your mother is", "freakish", "Pronunciation: /\u02c8frik\u026a\u0283/", "Definition: changeable", "Synonyms: capricious"]}
+{"data": ["2021-06-24T01:19:28.827763+00:00", 4653, "Your mother is", "equipped", "Pronunciation: /\u026a\u02c8kw\u026apt/", "Definition: carrying weapons", "Synonyms: weaponed"]}
