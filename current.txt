@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T18:55:10.180558+00:00", 4758, "Your mother is", "sonorous", "Pronunciation: /s\u0259\u02c8no\u028ar\u0259s/", "Definition: full and loud and deep", "Synonyms: heavy"]}
+{"data": ["2021-06-24T19:05:10.155164+00:00", 4759, "Your mother is", "sequential", "Pronunciation: /s\u026a\u02c8kw\u025bn\u0283\u0259l/", "Definition: in regular succession without gaps", "Synonyms: consecutive, sequent, serial, successive"]}
