@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T17:15:10.254327+00:00", 4748, "Your mother is", "comparable", "Pronunciation: /\u02c8k\u0251mp\u0259r\u0259b\u0259l/", "Definition: conforming in every respect", "Synonyms: corresponding, like"]}
+{"data": ["2021-06-24T17:25:10.417767+00:00", 4749, "Your mother is", "pyknotic", "", "Definition: of or relating to or exhibiting pyknosis", "Synonyms: pycnotic"]}
