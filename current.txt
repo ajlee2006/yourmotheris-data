@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T09:29:28.861631+00:00", 4702, "Your mother is", "weaponless", "Similar to: unarmed", "Definition: without a weapon", ""]}
+{"data": ["2021-06-24T09:39:28.968608+00:00", 4703, "Your mother is", "pink-purple", "Similar to: chromatic", "Definition: of purple tinged with pink", "Synonyms: pinkish-purple"]}
