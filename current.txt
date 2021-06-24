@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T06:39:28.810407+00:00", 4685, "Your mother is", "spectroscopical", "", "Definition: of or relating to or involving spectroscopy", "Synonyms: spectroscopic"]}
+{"data": ["2021-06-24T06:49:28.920987+00:00", 4686, "Your mother is", "unalienable", "Pronunciation: /\u0259n\u02c8e\u026ali\u0259n\u0259b\u0259l/", "Definition: incapable of being repudiated or transferred to another", "Synonyms: inalienable"]}
