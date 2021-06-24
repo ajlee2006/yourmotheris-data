@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T18:15:10.154652+00:00", 4754, "Your mother is", "crabby", "Pronunciation: /\u02c8kr\u00e6bi/", "Definition: annoyed and irritable", "Synonyms: bad-tempered, crabbed, cross, fussy, grouchy, grumpy, ill-tempered"]}
+{"data": ["2021-06-24T18:25:10.390582+00:00", 4755, "Your mother is", "trimmed", "Pronunciation: /tr\u026amd/", "Definition: made neat and tidy by trimming", "Synonyms: cut"]}
