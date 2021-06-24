@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T00:09:28.945321+00:00", 4646, "Your mother is", "marriageable", "Pronunciation: /\u02c8m\u00e6r\u026ad\u0292\u0259b\u0259l/", "Definition: of girls or women who are eligible to marry", "Synonyms: nubile"]}
+{"data": ["2021-06-24T00:19:28.958862+00:00", 4647, "Your mother is", "exogenic", "", "Definition: derived or originating externally", "Synonyms: exogenous"]}
