@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T15:35:10.728345+00:00", 4738, "Your mother is", "unproved", "Pronunciation: /\u0259n\u02c8pruvd/", "Definition: not proved", "Synonyms: unproven"]}
+{"data": ["2021-06-24T15:45:10.136803+00:00", 4739, "Your mother is", "wise", "Pronunciation: /wa\u026az/", "Definition: improperly forward or bold", "Synonyms: fresh, impertinent, impudent, overbold, sassy, saucy, smart"]}
