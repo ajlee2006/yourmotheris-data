@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T21:55:10.144684+00:00", 4776, "Your mother is", "champleve", "Pronunciation: /\u0283\u0251Nl\u0259\u02c8ve\u026a/", "Definition: (for metals) having areas separated by metal and filled with colored enamel and fired", "Synonyms: cloisonne"]}
+{"data": ["2021-06-24T22:05:10.219915+00:00", 4777, "Your mother is", "perinasal", "", "Definition: near the nose", "Synonyms: perirhinal"]}
