@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T04:29:28.757964+00:00", 4672, "Your mother is", "diffusive", "Pronunciation: /d\u026a\u02c8fjus\u026av/", "Definition: spreading by diffusion", "Synonyms: diffusing, dispersive, disseminative"]}
+{"data": ["2021-06-24T04:39:28.874213+00:00", 4673, "Your mother is", "tetravalent", "Pronunciation: /\u02cct\u025btr\u0259\u02c8ve\u026al\u0259nt/", "Definition: haveing a valence of four", ""]}
