@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T14:45:10.304995+00:00", 4733, "Your mother is", "possessive", "Pronunciation: /p\u0259\u02c8z\u025bs\u026av/", "Definition: serving to express or indicate possession", "Synonyms: genitive"]}
+{"data": ["2021-06-24T14:55:10.035682+00:00", 4734, "Your mother is", "depreciative", "Similar to: decreasing", "Definition: tending to decrease or cause a decrease in value", "Synonyms: depreciating, depreciatory"]}
