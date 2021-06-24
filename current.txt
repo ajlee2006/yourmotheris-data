@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T02:09:28.925704+00:00", 4658, "Your mother is", "paediatric", "", "Definition: of or relating to the medical care of children", "Synonyms: pediatric"]}
+{"data": ["2021-06-24T02:19:29.000677+00:00", 4659, "Your mother is", "simple-minded", "Pronunciation: /\u02c8s\u026amp\u0259l-\u02c8ma\u026and\u026ad/", "Definition: lacking mental capacity and subtlety", "Synonyms: dim-witted, simple"]}
