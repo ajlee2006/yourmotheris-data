@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T09:39:28.968608+00:00", 4703, "Your mother is", "pink-purple", "Similar to: chromatic", "Definition: of purple tinged with pink", "Synonyms: pinkish-purple"]}
+{"data": ["2021-06-24T09:49:28.965971+00:00", 4704, "Your mother is", "approved", "Pronunciation: /\u028c\u02c8pruvd/", "Definition: established by authority; given authoritative approval", "Synonyms: sanctioned"]}
