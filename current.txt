@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T22:55:10.167976+00:00", 4782, "Your mother is", "unliterary", "Similar to: informal", "Definition: marked by lack of affectation or pedantry", "Synonyms: nonliterary"]}
+{"data": ["2021-06-24T23:05:10.361969+00:00", 4783, "Your mother is", "step-by-step", "Similar to: gradual", "Definition: one thing at a time", "Synonyms: bit-by-bit, in small stages, piecemeal, stepwise"]}
