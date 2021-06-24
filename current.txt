@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T15:45:10.136803+00:00", 4739, "Your mother is", "wise", "Pronunciation: /wa\u026az/", "Definition: improperly forward or bold", "Synonyms: fresh, impertinent, impudent, overbold, sassy, saucy, smart"]}
+{"data": ["2021-06-24T15:55:10.920941+00:00", 4740, "Your mother is", "inmost", "Pronunciation: /\u02c8\u026an\u02ccmo\u028ast/", "Definition: situated or occurring farthest within", "Synonyms: innermost"]}
