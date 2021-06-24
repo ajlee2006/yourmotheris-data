@@ -1,1 +1,1 @@
-{"data": ["2021-06-24T09:59:29.066975+00:00", 4705, "Your mother is", "subliterary", "Similar to: informal", "Definition: not written as or intended to be literature", ""]}
+{"data": ["2021-06-24T10:09:28.878586+00:00", 4706, "Your mother is", "attainable", "Pronunciation: /\u0259\u02c8te\u026an\u0259b\u0259l/", "Definition: capable of being attained or accomplished", "Synonyms: come-at-able"]}
