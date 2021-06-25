@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T14:46:38.069130+00:00", 4876, "Your mother is", "alienated", "Pronunciation: /\u02c8e\u026ali\u028c\u02ccne\u026at\u028cd/", "Definition: socially disoriented", "Synonyms: anomic, disoriented"]}
+{"data": ["2021-06-25T14:56:38.003343+00:00", 4877, "Your mother is", "unavailable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8ve\u026al\u0259b\u0259l/", "Definition: not available or accessible or at hand", ""]}
