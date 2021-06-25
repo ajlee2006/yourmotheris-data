@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T04:25:10.315164+00:00", 4815, "Your mother is", "protestant", "Pronunciation: /\u02c8pr\u0251t\u026ast\u0259nt/", "Definition: of or relating to Protestants or Protestantism", ""]}
+{"data": ["2021-06-25T04:35:10.209986+00:00", 4816, "Your mother is", "desensitizing", "Pronunciation: /d\u026a\u02c8s\u025bns\u028c\u02ccta\u026az\u026a\u014b/", "Definition: making less susceptible or sensitive to either physical or emotional stimuli", "Synonyms: desensitising"]}
