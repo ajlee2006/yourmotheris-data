@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T14:26:38.051692+00:00", 4874, "Your mother is", "flash", "Pronunciation: /fl\u00e6\u0283/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tatty, tawdry, trashy"]}
+{"data": ["2021-06-25T14:36:38.095230+00:00", 4875, "Your mother is", "allotropic", "Pronunciation: /\u02cc\u00e6l\u0259\u02c8tr\u0251p\u026ak/", "Definition: of or related to or exhibiting allotropism", "Synonyms: allotropical"]}
