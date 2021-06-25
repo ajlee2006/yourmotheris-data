@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T01:15:10.342205+00:00", 4796, "Your mother is", "confused", "Pronunciation: /k\u028cn\u02c8fjuzd/", "Definition: lacking orderly continuity", "Synonyms: disconnected, disjointed, disordered, garbled, illogical, scattered, unconnected"]}
+{"data": ["2021-06-25T01:25:10.363766+00:00", 4797, "Your mother is", "hunky-dory", "Pronunciation: /\u02c8h\u0259\u014bki\u02c8do\u028ari/", "Definition: being satisfactory or in satisfactory condition", "Synonyms: all right, cool, fine, o.k., ok, okay"]}
