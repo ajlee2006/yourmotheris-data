@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T19:56:38.216307+00:00", 4907, "Your mother is", "seagoing", "Pronunciation: /\u02c8si\u02cc\u0261o\u028a\u026a\u014b/", "Definition: used on the high seas", "Synonyms: oceangoing, seafaring"]}
+{"data": ["2021-06-25T20:06:38.464067+00:00", 4908, "Your mother is", "pseudo", "Pronunciation: /\u02c8sudu/", "Definition: (often used in combination) not genuine but having the appearance of", ""]}
