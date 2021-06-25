@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T13:05:10.029811+00:00", 4866, "Your mother is", "adapted", "Pronunciation: /\u028c\u02c8d\u00e6pt\u028cd/", "Definition: changed in order to improve or made more fit for a particular purpose", "Synonyms: altered"]}
+{"data": ["2021-06-25T13:15:10.047687+00:00", 4867, "Your mother is", "febrile", "Pronunciation: /\u02c8fibr\u0259l/", "Definition: of or relating to or characterized by fever", "Synonyms: feverish"]}
