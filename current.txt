@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T04:05:10.348135+00:00", 4813, "Your mother is", "dressed", "Pronunciation: /dr\u025bst/", "Definition: (of lumber or stone) to trim and smooth", "Synonyms: polished"]}
+{"data": ["2021-06-25T04:15:10.168495+00:00", 4814, "Your mother is", "inconvenient", "Pronunciation: /\u02cc\u026ank\u0259n\u02c8vinj\u0259nt/", "Definition: not conveniently timed", ""]}
