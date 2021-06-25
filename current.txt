@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T07:05:09.991508+00:00", 4831, "Your mother is", "frowning", "Pronunciation: /\u02c8fra\u028an\u026a\u014b/", "Definition: showing displeasure or anger", ""]}
+{"data": ["2021-06-25T07:15:10.068734+00:00", 4832, "Your mother is", "14th", "Similar to: ordinal", "Definition: coming next after the thirteenth in position", "Synonyms: fourteenth"]}
