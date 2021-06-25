@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T14:36:38.095230+00:00", 4875, "Your mother is", "allotropic", "Pronunciation: /\u02cc\u00e6l\u0259\u02c8tr\u0251p\u026ak/", "Definition: of or related to or exhibiting allotropism", "Synonyms: allotropical"]}
+{"data": ["2021-06-25T14:46:38.069130+00:00", 4876, "Your mother is", "alienated", "Pronunciation: /\u02c8e\u026ali\u028c\u02ccne\u026at\u028cd/", "Definition: socially disoriented", "Synonyms: anomic, disoriented"]}
