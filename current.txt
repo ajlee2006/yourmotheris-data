@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T08:05:10.053582+00:00", 4837, "Your mother is", "downcast", "Pronunciation: /\u02c8da\u028an\u02cck\u00e6st/", "Definition: filled with melancholy and despondency", "Synonyms: blue, depressed, dispirited, down, down in the mouth, downhearted, gloomy, grim, low, low-spirited"]}
+{"data": ["2021-06-25T08:15:10.054467+00:00", 4838, "Your mother is", "adsorptive", "Similar to: chemisorptive", "Definition: having capacity or tendency to adsorb or cause to accumulate on a surface", "Synonyms: adsorbent, surface-assimilative"]}
