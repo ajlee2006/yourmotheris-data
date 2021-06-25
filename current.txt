@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T12:45:10.232506+00:00", 4864, "Your mother is", "ultramarine", "Pronunciation: /\u02cc\u0259ltr\u0259m\u0259\u02c8rin/", "Definition: of a brilliant pure blue to purplish blue color", ""]}
+{"data": ["2021-06-25T12:55:10.341489+00:00", 4865, "Your mother is", "suicidal", "Pronunciation: /\u02ccsu\u026a\u02c8sa\u026ad\u0259l/", "Definition: dangerous to yourself or your interests", "Synonyms: self-destructive"]}
