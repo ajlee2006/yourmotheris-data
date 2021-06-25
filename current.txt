@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T04:55:10.034310+00:00", 4818, "Your mother is", "gray-blue", "Pronunciation: /gre\u026a-blu/", "Definition: of blue tinged with grey", "Synonyms: grayish-blue, grey-blue, greyish-blue"]}
+{"data": ["2021-06-25T05:05:10.084692+00:00", 4819, "Your mother is", "finable", "Pronunciation: /\u02c8fa\u026an\u0259b\u0259l/", "Definition: liable to a fine", "Synonyms: fineable"]}
