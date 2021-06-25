@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T10:35:10.014006+00:00", 4851, "Your mother is", "flavourous", "Similar to: tasty", "Definition: full of flavor", "Synonyms: flavorful, flavorous, flavorsome, flavourful, flavoursome, sapid, saporous"]}
+{"data": ["2021-06-25T10:45:10.017884+00:00", 4852, "Your mother is", "sobersided", "Pronunciation: /\u02c8so\u028ab\u0259r\u02ccsa\u026ad\u026ad/", "Definition: completely lacking in humor or lightness of touch", ""]}
