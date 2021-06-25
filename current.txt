@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T19:16:38.697630+00:00", 4903, "Your mother is", "burned-out", "Pronunciation: /\u02c8b\u025crnd\u02c8a\u028at/", "Definition: destroyed or badly damaged by fire", "Synonyms: burned, burned-over, burnt, burnt-out"]}
+{"data": ["2021-06-25T19:26:38.078112+00:00", 4904, "Your mother is", "practised", "Similar to: experienced", "Definition: skillful after much practice", "Synonyms: practiced"]}
