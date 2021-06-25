@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T19:36:38.065126+00:00", 4905, "Your mother is", "unrecognisable", "Similar to: unidentifiable", "Definition: defying recognition as e.g. because of damage or alteration", "Synonyms: unrecognizable"]}
+{"data": ["2021-06-25T19:46:39.658189+00:00", 4906, "Your mother is", "stand-alone", "Similar to: complete", "Definition: capable of operating independently", ""]}
