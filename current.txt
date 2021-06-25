@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T18:16:38.191960+00:00", 4897, "Your mother is", "humorous", "Pronunciation: /\u02c8hjum\u0259r\u0259s/", "Definition: full of or characterized by humor", "Synonyms: humourous"]}
+{"data": ["2021-06-25T18:26:38.596725+00:00", 4898, "Your mother is", "suggestive", "Pronunciation: /s\u0259\u0261\u02c8d\u0292\u025bst\u026av/", "Definition: tending to suggest or imply", "Synonyms: implicative"]}
