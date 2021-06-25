@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T14:56:38.003343+00:00", 4877, "Your mother is", "unavailable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8ve\u026al\u0259b\u0259l/", "Definition: not available or accessible or at hand", ""]}
+{"data": ["2021-06-25T15:06:38.184936+00:00", 4878, "Your mother is", "urgent", "Pronunciation: /\u02c8\u025crd\u0292\u0259nt/", "Definition: compelling immediate action", "Synonyms: pressing"]}
