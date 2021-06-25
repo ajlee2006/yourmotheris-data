@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T13:36:38.048682+00:00", 4869, "Your mother is", "petallike", "Similar to: leafy", "Definition: resembling a petal", "Synonyms: petal-like"]}
+{"data": ["2021-06-25T13:46:37.993975+00:00", 4870, "Your mother is", "dozy", "Pronunciation: /\u02c8do\u028azi/", "Definition: half asleep", "Synonyms: drowsing, drowsy"]}
