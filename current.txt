@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T15:56:38.068170+00:00", 4883, "Your mother is", "antiphonary", "Pronunciation: /\u00e6n\u02c8t\u026af\u0259\u02ccn\u025bri/", "Definition: relating to or resembling an antiphon or antiphony", "Synonyms: antiphonal"]}
+{"data": ["2021-06-25T16:06:38.128587+00:00", 4884, "Your mother is", "thousand", "Pronunciation: /\u02c8\u03b8a\u028az\u0259nd/", "Definition: denoting a quantity consisting of 1,000 items or units", "Synonyms: 1000, k, m, one thousand"]}
