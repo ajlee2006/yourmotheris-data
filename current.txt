@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T19:06:38.981839+00:00", 4902, "Your mother is", "unsheared", "", "Definition: not sheared", "Synonyms: unshorn"]}
+{"data": ["2021-06-25T19:16:38.697630+00:00", 4903, "Your mother is", "burned-out", "Pronunciation: /\u02c8b\u025crnd\u02c8a\u028at/", "Definition: destroyed or badly damaged by fire", "Synonyms: burned, burned-over, burnt, burnt-out"]}
