@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T05:35:10.304437+00:00", 4822, "Your mother is", "exalted", "Pronunciation: /\u026a\u0261\u02c8z\u0254lt\u026ad/", "Definition: of high moral or intellectual value; elevated in nature or style", "Synonyms: elevated, grand, high-flown, high-minded, idealistic, lofty, noble-minded, rarefied, rarified, sublime"]}
+{"data": ["2021-06-25T05:45:10.038448+00:00", 4823, "Your mother is", "gray-blue", "Pronunciation: /gre\u026a-blu/", "Definition: of blue tinged with grey", "Synonyms: grayish-blue, grey-blue, greyish-blue"]}
