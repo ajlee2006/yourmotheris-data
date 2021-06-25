@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T00:45:10.036043+00:00", 4793, "Your mother is", "unharmonious", "Pronunciation: /\u02cc\u0259nh\u0251r\u02c8mo\u028ani\u0259s/", "Definition: not in harmony", "Synonyms: inharmonious"]}
+{"data": ["2021-06-25T00:55:10.275797+00:00", 4794, "Your mother is", "bone-lazy", "Pronunciation: /bo\u028an-\u02c8le\u026azi/", "Definition: constitutionally lazy or idle", "Synonyms: bone-idle"]}
