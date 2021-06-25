@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T10:05:10.122149+00:00", 4848, "Your mother is", "burnt-out", "Pronunciation: /b\u025crnt-a\u028at/", "Definition: destroyed or badly damaged by fire", "Synonyms: burned, burned-out, burned-over, burnt"]}
+{"data": ["2021-06-25T10:15:10.836327+00:00", 4849, "Your mother is", "unwarrantable", "Pronunciation: /\u0259n\u02c8w\u0251r\u0259nt\u0259b\u0259l/", "Definition: incapable of being justified or explained", "Synonyms: indefensible, insupportable, unjustifiable, unwarranted"]}
