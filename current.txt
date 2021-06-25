@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T16:36:38.180361+00:00", 4887, "Your mother is", "endogenic", "", "Definition: derived or originating internally", "Synonyms: endogenous"]}
+{"data": ["2021-06-25T16:46:38.021454+00:00", 4888, "Your mother is", "inexperienced", "Pronunciation: /\u02cc\u026an\u026ak\u02c8spiri\u0259nst/", "Definition: lacking practical experience or training", "Synonyms: inexperient"]}
