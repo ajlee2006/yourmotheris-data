@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T01:55:10.189813+00:00", 4800, "Your mother is", "never-ending", "Pronunciation: /\u02c8n\u025bv\u0259r-\u02c8\u025bnd\u026a\u014b/", "Definition: uninterrupted in time and indefinitely long continuing", "Synonyms: ceaseless, constant, incessant, perpetual, unceasing, unremitting"]}
+{"data": ["2021-06-25T02:05:10.192968+00:00", 4801, "Your mother is", "unostentatious", "Similar to: quiet", "Definition: not ostentatious", "Synonyms: unpretending, unpretentious"]}
