@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T13:26:38.226273+00:00", 4868, "Your mother is", "blue-ribbon", "Pronunciation: /\u02c8blu\u02c8r\u026ab\u0259n/", "Definition: selected or chosen for special qualifications", "Synonyms: select"]}
+{"data": ["2021-06-25T13:36:38.048682+00:00", 4869, "Your mother is", "petallike", "Similar to: leafy", "Definition: resembling a petal", "Synonyms: petal-like"]}
