@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T00:35:10.281130+00:00", 4792, "Your mother is", "annulate", "Pronunciation: /\u02c8\u00e6nj\u0259l\u026at/", "Definition: shaped like a ring", "Synonyms: annular, annulated, circinate, doughnut-shaped, ring-shaped, ringed"]}
+{"data": ["2021-06-25T00:45:10.036043+00:00", 4793, "Your mother is", "unharmonious", "Pronunciation: /\u02cc\u0259nh\u0251r\u02c8mo\u028ani\u0259s/", "Definition: not in harmony", "Synonyms: inharmonious"]}
