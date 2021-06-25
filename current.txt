@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T14:16:38.160401+00:00", 4873, "Your mother is", "calorific", "Pronunciation: /\u02cck\u00e6l\u0259\u02c8r\u026af\u026ak/", "Definition: heat-generating", ""]}
+{"data": ["2021-06-25T14:26:38.051692+00:00", 4874, "Your mother is", "flash", "Pronunciation: /fl\u00e6\u0283/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tatty, tawdry, trashy"]}
