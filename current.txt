@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T05:15:10.425185+00:00", 4820, "Your mother is", "unequivocal", "Pronunciation: /\u02cc\u0259n\u026a\u02c8kw\u026av\u0259k\u0259l/", "Definition: clearly defined or formulated", "Synonyms: definitive"]}
+{"data": ["2021-06-25T05:25:10.258778+00:00", 4821, "Your mother is", "wan", "Pronunciation: /w\u0251n/", "Definition: abnormally deficient in color as suggesting physical or emotional distress", "Synonyms: pale, pallid"]}
