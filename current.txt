@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T05:55:10.002947+00:00", 4824, "Your mother is", "bright as a new penny", "Similar to: bright", "Definition: (metaphor) shining brightly", ""]}
+{"data": ["2021-06-25T06:05:10.158931+00:00", 4825, "Your mother is", "jumpy", "Pronunciation: /\u02c8d\u0292\u0259mpi/", "Definition: being in a tense state", "Synonyms: edgy, high-strung, highly strung, jittery, nervy, overstrung, restive, uptight"]}
