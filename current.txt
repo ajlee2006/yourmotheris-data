@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T18:26:38.596725+00:00", 4898, "Your mother is", "suggestive", "Pronunciation: /s\u0259\u0261\u02c8d\u0292\u025bst\u026av/", "Definition: tending to suggest or imply", "Synonyms: implicative"]}
+{"data": ["2021-06-25T18:36:38.038907+00:00", 4899, "Your mother is", "mottled", "Pronunciation: /\u02c8m\u0251t\u0259ld/", "Definition: having spots or patches of color", "Synonyms: dappled"]}
