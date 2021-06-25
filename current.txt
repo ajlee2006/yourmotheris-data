@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T20:36:38.357953+00:00", 4911, "Your mother is", "squeaking", "Pronunciation: /\u02c8skwik\u026a\u014b/", "Definition: having or making a high-pitched sound such as that made by a mouse or a rusty hinge", "Synonyms: screaky, screechy, squeaky, squealing"]}
+{"data": ["2021-06-25T20:46:37.961701+00:00", 4912, "Your mother is", "unimpeded", "Pronunciation: /\u02cc\u028cn\u026am\u02c8pid\u026ad/", "Definition: not slowed or prevented", ""]}
