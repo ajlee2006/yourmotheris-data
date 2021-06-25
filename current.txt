@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T08:35:10.063568+00:00", 4840, "Your mother is", "paradisaical", "Pronunciation: /\u02ccp\u00e6r\u0259d\u026a\u02c8se\u026a\u026ak\u0259l/", "Definition: relating to or befitting Paradise", "Synonyms: paradisaic, paradisal, paradisiac, paradisiacal"]}
+{"data": ["2021-06-25T08:45:10.244227+00:00", 4841, "Your mother is", "phyletic", "Pronunciation: /fa\u026a\u02c8l\u025bt\u026ak/", "Definition: of or relating to the evolutionary development of organisms", "Synonyms: phylogenetic"]}
