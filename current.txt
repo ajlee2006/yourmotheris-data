@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T22:36:38.094509+00:00", 4923, "Your mother is", "decomposable", "Similar to: complex", "Definition: capable of being partitioned", "Synonyms: analyzable"]}
+{"data": ["2021-06-25T22:46:37.950757+00:00", 4924, "Your mother is", "simple", "Pronunciation: /\u02c8s\u026amp\u0259l/", "Definition: apart from anything else; without additions or modifications", "Synonyms: bare, mere"]}
