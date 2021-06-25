@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T17:06:38.084941+00:00", 4890, "Your mother is", "captive", "Pronunciation: /\u02c8k\u00e6pt\u026av/", "Definition: giving or marked by complete attention to", "Synonyms: absorbed, engrossed, enwrapped, intent, wrapped"]}
+{"data": ["2021-06-25T17:16:38.087639+00:00", 4891, "Your mother is", "gormless", "Pronunciation: /\u02c8\u0261\u0254rml\u026as/", "Definition: (British informal) lacking intelligence and vitality", "Synonyms: gaumless"]}
