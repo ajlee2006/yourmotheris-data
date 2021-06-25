@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T20:26:38.314026+00:00", 4910, "Your mother is", "dependable", "Pronunciation: /d\u026a\u02c8p\u025bnd\u0259b\u0259l/", "Definition: worthy of reliance or trust", "Synonyms: reliable"]}
+{"data": ["2021-06-25T20:36:38.357953+00:00", 4911, "Your mother is", "squeaking", "Pronunciation: /\u02c8skwik\u026a\u014b/", "Definition: having or making a high-pitched sound such as that made by a mouse or a rusty hinge", "Synonyms: screaky, screechy, squeaky, squealing"]}
