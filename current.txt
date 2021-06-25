@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T22:56:38.069567+00:00", 4925, "Your mother is", "endothermic", "Pronunciation: /\u02cc\u025bndo\u028a\u02c8\u03b8\u025crm\u026ak/", "Definition: (of a chemical reaction or compound) occurring or formed with absorption of heat", "Synonyms: endothermal, heat-absorbing"]}
+{"data": ["2021-06-25T23:06:38.230417+00:00", 4926, "Your mother is", "behavioral", "Pronunciation: /b\u026a\u02c8he\u026avj\u025dr\u028cl/", "Definition: of or relating to behavior", "Synonyms: behavioural"]}
