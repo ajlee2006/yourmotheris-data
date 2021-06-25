@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T04:35:10.209986+00:00", 4816, "Your mother is", "desensitizing", "Pronunciation: /d\u026a\u02c8s\u025bns\u028c\u02ccta\u026az\u026a\u014b/", "Definition: making less susceptible or sensitive to either physical or emotional stimuli", "Synonyms: desensitising"]}
+{"data": ["2021-06-25T04:45:10.239753+00:00", 4817, "Your mother is", "argentiferous", "Pronunciation: /\u02cc\u0251rd\u0292\u0259n\u02c8t\u026af\u0259r\u0259s/", "Definition: containing or yielding silver", ""]}
