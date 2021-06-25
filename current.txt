@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T17:36:38.029441+00:00", 4893, "Your mother is", "elevated", "Pronunciation: /\u02c8\u025bl\u0259\u02ccve\u026at\u026ad/", "Definition: of high moral or intellectual value; elevated in nature or style", "Synonyms: exalted, grand, high-flown, high-minded, idealistic, lofty, noble-minded, rarefied, rarified, sublime"]}
+{"data": ["2021-06-25T17:46:37.987804+00:00", 4894, "Your mother is", "half-blooded", "Pronunciation: /h\u00e6f-\u02c8bl\u0259d\u026ad/", "Definition: (of animals) having only one purebred parent", "Synonyms: half-bred, half-breed"]}
