@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T10:25:09.950187+00:00", 4850, "Your mother is", "ill-sorted", "Pronunciation: /\u02c8\u026al\u02c8s\u0254rt\u026ad/", "Definition: not easy to combine harmoniously", "Synonyms: incompatible, mismated, unsuited"]}
+{"data": ["2021-06-25T10:35:10.014006+00:00", 4851, "Your mother is", "flavourous", "Similar to: tasty", "Definition: full of flavor", "Synonyms: flavorful, flavorous, flavorsome, flavourful, flavoursome, sapid, saporous"]}
