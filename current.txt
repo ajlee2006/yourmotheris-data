@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T15:46:38.323930+00:00", 4882, "Your mother is", "buckshee", "Pronunciation: /\u02c8b\u0259k\u0283i/", "Definition: free of charge", ""]}
+{"data": ["2021-06-25T15:56:38.068170+00:00", 4883, "Your mother is", "antiphonary", "Pronunciation: /\u00e6n\u02c8t\u026af\u0259\u02ccn\u025bri/", "Definition: relating to or resembling an antiphon or antiphony", "Synonyms: antiphonal"]}
