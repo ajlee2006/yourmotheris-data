@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T18:36:38.038907+00:00", 4899, "Your mother is", "mottled", "Pronunciation: /\u02c8m\u0251t\u0259ld/", "Definition: having spots or patches of color", "Synonyms: dappled"]}
+{"data": ["2021-06-25T18:46:38.170847+00:00", 4900, "Your mother is", "reverential", "Pronunciation: /\u02ccr\u025bv\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: feeling or manifesting veneration", "Synonyms: respectful, venerating"]}
