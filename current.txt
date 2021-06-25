@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T03:25:10.129929+00:00", 4809, "Your mother is", "flabbergasted", "Pronunciation: /\u02c8fl\u00e6b\u025dr\u02cc\u0261\u00e6st\u026ad/", "Definition: as if struck dumb with astonishment and surprise", "Synonyms: dumbfounded, dumbstricken, dumbstruck, dumfounded, stupefied, thunderstruck"]}
+{"data": ["2021-06-25T03:35:11.369377+00:00", 4810, "Your mother is", "propagandistic", "Pronunciation: /\u02ccpr\u0251p\u028c\u0261\u028cn\u02c8d\u026ast\u026ak/", "Definition: of or relating to or characterized by propaganda", "Synonyms: propagandist"]}
