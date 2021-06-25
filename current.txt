@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T01:25:10.363766+00:00", 4797, "Your mother is", "hunky-dory", "Pronunciation: /\u02c8h\u0259\u014bki\u02c8do\u028ari/", "Definition: being satisfactory or in satisfactory condition", "Synonyms: all right, cool, fine, o.k., ok, okay"]}
+{"data": ["2021-06-25T01:35:10.228768+00:00", 4798, "Your mother is", "low-down", "Pronunciation: /lo\u028a-\u02c8da\u028an/", "Definition: (of jazz) having the soulful feeling of early blues", "Synonyms: funky"]}
