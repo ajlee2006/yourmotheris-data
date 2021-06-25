@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T17:26:38.007780+00:00", 4892, "Your mother is", "renascent", "Pronunciation: /r\u026a\u02c8n\u00e6s\u0259nt/", "Definition: rising again as to new life and vigor", "Synonyms: resurgent"]}
+{"data": ["2021-06-25T17:36:38.029441+00:00", 4893, "Your mother is", "elevated", "Pronunciation: /\u02c8\u025bl\u0259\u02ccve\u026at\u026ad/", "Definition: of high moral or intellectual value; elevated in nature or style", "Synonyms: exalted, grand, high-flown, high-minded, idealistic, lofty, noble-minded, rarefied, rarified, sublime"]}
