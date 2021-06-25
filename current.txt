@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T08:15:10.054467+00:00", 4838, "Your mother is", "adsorptive", "Similar to: chemisorptive", "Definition: having capacity or tendency to adsorb or cause to accumulate on a surface", "Synonyms: adsorbent, surface-assimilative"]}
+{"data": ["2021-06-25T08:25:10.723446+00:00", 4839, "Your mother is", "tagged", "Pronunciation: /t\u00e6\u0261d/", "Definition: bearing or marked with a label or tag", "Synonyms: labeled, labelled"]}
