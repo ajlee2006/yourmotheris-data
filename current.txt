@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T12:55:10.341489+00:00", 4865, "Your mother is", "suicidal", "Pronunciation: /\u02ccsu\u026a\u02c8sa\u026ad\u0259l/", "Definition: dangerous to yourself or your interests", "Synonyms: self-destructive"]}
+{"data": ["2021-06-25T13:05:10.029811+00:00", 4866, "Your mother is", "adapted", "Pronunciation: /\u028c\u02c8d\u00e6pt\u028cd/", "Definition: changed in order to improve or made more fit for a particular purpose", "Synonyms: altered"]}
