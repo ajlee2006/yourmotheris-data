@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T06:45:10.084639+00:00", 4829, "Your mother is", "penciled", "Pronunciation: /\u02c8p\u025bns\u028cld/", "Definition: drawn or written with a pencil", "Synonyms: pencilled"]}
+{"data": ["2021-06-25T06:55:10.144928+00:00", 4830, "Your mother is", "aboulic", "Similar to: neurotic", "Definition: suffering from abulia; showing abnormal inability to act or make decisions", "Synonyms: abulic"]}
