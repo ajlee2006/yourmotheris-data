@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T12:05:10.371120+00:00", 4860, "Your mother is", "cuspate", "Pronunciation: /\u02c8k\u0259sp\u026at/", "Definition: having cusps or points", "Synonyms: cuspated, cusped, cuspidal, cuspidate, cuspidated"]}
+{"data": ["2021-06-25T12:15:10.146196+00:00", 4861, "Your mother is", "adulatory", "Pronunciation: /\u02c8\u00e6d\u0292\u0259l\u0259\u02ccto\u028ari/", "Definition: obsequiously complimentary", ""]}
