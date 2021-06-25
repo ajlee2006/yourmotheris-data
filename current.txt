@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T09:15:09.958338+00:00", 4843, "Your mother is", "distinct", "Pronunciation: /d\u026a\u02c8st\u026a\u014bkt/", "Definition: constituting a separate entity or part", "Synonyms: discrete"]}
+{"data": ["2021-06-25T09:25:10.060504+00:00", 4844, "Your mother is", "nonracist", "Similar to: impartial", "Definition: unprejudiced about race", "Synonyms: color-blind, colour-blind"]}
