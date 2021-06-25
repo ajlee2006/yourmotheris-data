@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T20:46:37.961701+00:00", 4912, "Your mother is", "unimpeded", "Pronunciation: /\u02cc\u028cn\u026am\u02c8pid\u026ad/", "Definition: not slowed or prevented", ""]}
+{"data": ["2021-06-25T20:56:38.124224+00:00", 4913, "Your mother is", "acquainted", "Pronunciation: /\u0259\u02c8kwe\u026ant\u026ad/", "Definition: having fair knowledge of", ""]}
