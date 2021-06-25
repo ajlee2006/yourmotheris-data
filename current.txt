@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T06:35:10.079237+00:00", 4828, "Your mother is", "cyan", "Pronunciation: /\u02c8sa\u026a\u00e6n/", "Definition: of a bluish shade of green", "Synonyms: blue-green, bluish green, teal"]}
+{"data": ["2021-06-25T06:45:10.084639+00:00", 4829, "Your mother is", "penciled", "Pronunciation: /\u02c8p\u025bns\u028cld/", "Definition: drawn or written with a pencil", "Synonyms: pencilled"]}
