@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T06:25:10.142275+00:00", 4827, "Your mother is", "apolitical", "Pronunciation: /\u02cce\u026ap\u0259\u02c8l\u026at\u026ak\u0259l/", "Definition: politically neutral", "Synonyms: unpolitical"]}
+{"data": ["2021-06-25T06:35:10.079237+00:00", 4828, "Your mother is", "cyan", "Pronunciation: /\u02c8sa\u026a\u00e6n/", "Definition: of a bluish shade of green", "Synonyms: blue-green, bluish green, teal"]}
