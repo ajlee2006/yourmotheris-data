@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T15:16:38.200050+00:00", 4879, "Your mother is", "marked", "Pronunciation: /m\u0251rkt/", "Definition: strongly marked; easily noticeable", "Synonyms: pronounced"]}
+{"data": ["2021-06-25T15:26:38.044298+00:00", 4880, "Your mother is", "lonesome", "Pronunciation: /\u02c8lo\u028ans\u0259m/", "Definition: marked by dejection from being alone", "Synonyms: lonely"]}
