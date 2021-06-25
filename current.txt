@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T21:16:38.176340+00:00", 4915, "Your mother is", "many-sided", "Pronunciation: /\u02c8m\u025bni\u02c8sa\u026ad\u026ad/", "Definition: having many parts or sides", "Synonyms: multilateral"]}
+{"data": ["2021-06-25T21:26:38.110592+00:00", 4916, "Your mother is", "spotty", "Pronunciation: /\u02c8sp\u0251ti/", "Definition: having spots or patches (small areas of contrasting color or texture)", "Synonyms: patched, spotted"]}
