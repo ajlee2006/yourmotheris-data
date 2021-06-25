@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T06:15:10.357302+00:00", 4826, "Your mother is", "reprobate", "Pronunciation: /\u02c8r\u025bpr\u0259\u02ccbe\u026at/", "Definition: deviating from what is considered moral or right or proper or good", "Synonyms: depraved, perverse, perverted"]}
+{"data": ["2021-06-25T06:25:10.142275+00:00", 4827, "Your mother is", "apolitical", "Pronunciation: /\u02cce\u026ap\u0259\u02c8l\u026at\u026ak\u0259l/", "Definition: politically neutral", "Synonyms: unpolitical"]}
