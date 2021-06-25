@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T17:56:38.081115+00:00", 4895, "Your mother is", "evidential", "Pronunciation: /\u02cc\u025bv\u026a\u02c8d\u025bn\u0283\u0259l/", "Definition: serving as or based on evidence", "Synonyms: evidentiary"]}
+{"data": ["2021-06-25T18:06:38.252488+00:00", 4896, "Your mother is", "black-seeded", "Similar to: seedy", "Definition: having black seeds", ""]}
