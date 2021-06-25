@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T19:46:39.658189+00:00", 4906, "Your mother is", "stand-alone", "Similar to: complete", "Definition: capable of operating independently", ""]}
+{"data": ["2021-06-25T19:56:38.216307+00:00", 4907, "Your mother is", "seagoing", "Pronunciation: /\u02c8si\u02cc\u0261o\u028a\u026a\u014b/", "Definition: used on the high seas", "Synonyms: oceangoing, seafaring"]}
