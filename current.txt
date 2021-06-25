@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T10:45:10.017884+00:00", 4852, "Your mother is", "sobersided", "Pronunciation: /\u02c8so\u028ab\u0259r\u02ccsa\u026ad\u026ad/", "Definition: completely lacking in humor or lightness of touch", ""]}
+{"data": ["2021-06-25T10:55:10.061498+00:00", 4853, "Your mother is", "pink", "Pronunciation: /p\u026a\u014bk/", "Definition: of a light shade of red", "Synonyms: pinkish"]}
