@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T09:25:10.060504+00:00", 4844, "Your mother is", "nonracist", "Similar to: impartial", "Definition: unprejudiced about race", "Synonyms: color-blind, colour-blind"]}
+{"data": ["2021-06-25T09:35:09.993794+00:00", 4845, "Your mother is", "bedimmed", "Similar to: indistinct", "Definition: made dim or indistinct", ""]}
