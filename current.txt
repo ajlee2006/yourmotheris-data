@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T21:26:38.110592+00:00", 4916, "Your mother is", "spotty", "Pronunciation: /\u02c8sp\u0251ti/", "Definition: having spots or patches (small areas of contrasting color or texture)", "Synonyms: patched, spotted"]}
+{"data": ["2021-06-25T21:36:38.306932+00:00", 4917, "Your mother is", "naked", "Pronunciation: /\u02c8ne\u026ak\u025bd/", "Definition: having no protecting or concealing cover", "Synonyms: defenseless"]}
