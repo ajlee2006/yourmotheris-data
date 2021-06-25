@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T00:25:10.106367+00:00", 4791, "Your mother is", "reminiscent", "Pronunciation: /\u02ccr\u025bm\u02c8\u0259n\u026as\u0259nt/", "Definition: serving to bring to mind", "Synonyms: evocative, redolent, remindful, resonant"]}
+{"data": ["2021-06-25T00:35:10.281130+00:00", 4792, "Your mother is", "annulate", "Pronunciation: /\u02c8\u00e6nj\u0259l\u026at/", "Definition: shaped like a ring", "Synonyms: annular, annulated, circinate, doughnut-shaped, ring-shaped, ringed"]}
