@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T04:45:10.239753+00:00", 4817, "Your mother is", "argentiferous", "Pronunciation: /\u02cc\u0251rd\u0292\u0259n\u02c8t\u026af\u0259r\u0259s/", "Definition: containing or yielding silver", ""]}
+{"data": ["2021-06-25T04:55:10.034310+00:00", 4818, "Your mother is", "gray-blue", "Pronunciation: /gre\u026a-blu/", "Definition: of blue tinged with grey", "Synonyms: grayish-blue, grey-blue, greyish-blue"]}
