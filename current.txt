@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T06:05:10.158931+00:00", 4825, "Your mother is", "jumpy", "Pronunciation: /\u02c8d\u0292\u0259mpi/", "Definition: being in a tense state", "Synonyms: edgy, high-strung, highly strung, jittery, nervy, overstrung, restive, uptight"]}
+{"data": ["2021-06-25T06:15:10.357302+00:00", 4826, "Your mother is", "reprobate", "Pronunciation: /\u02c8r\u025bpr\u0259\u02ccbe\u026at/", "Definition: deviating from what is considered moral or right or proper or good", "Synonyms: depraved, perverse, perverted"]}
