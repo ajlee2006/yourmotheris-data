@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T03:55:10.207669+00:00", 4812, "Your mother is", "agamous", "Pronunciation: /\u02c8\u00e6\u0261\u0259m\u0259s/", "Definition: (of reproduction) not involving the fusion of male and female gametes in reproduction", "Synonyms: agamic, agamogenetic, apomictic, parthenogenetic"]}
+{"data": ["2021-06-25T04:05:10.348135+00:00", 4813, "Your mother is", "dressed", "Pronunciation: /dr\u025bst/", "Definition: (of lumber or stone) to trim and smooth", "Synonyms: polished"]}
