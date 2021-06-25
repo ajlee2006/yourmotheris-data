@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T02:15:10.424965+00:00", 4802, "Your mother is", "incomprehensive", "Pronunciation: /\u02cc\u026ank\u0251mpr\u026a\u02c8h\u025bns\u026av/", "Definition: not comprehensive", "Synonyms: noncomprehensive"]}
+{"data": ["2021-06-25T02:25:10.170358+00:00", 4803, "Your mother is", "spectroscopical", "", "Definition: of or relating to or involving spectroscopy", "Synonyms: spectroscopic"]}
