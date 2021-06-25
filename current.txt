@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T13:46:37.993975+00:00", 4870, "Your mother is", "dozy", "Pronunciation: /\u02c8do\u028azi/", "Definition: half asleep", "Synonyms: drowsing, drowsy"]}
+{"data": ["2021-06-25T13:56:38.575122+00:00", 4871, "Your mother is", "high-crowned", "Pronunciation: /ha\u026a-kra\u028and/", "Definition: (of a hat) having a high crown", ""]}
