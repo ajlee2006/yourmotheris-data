@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T12:25:10.037443+00:00", 4862, "Your mother is", "well-formed", "", "Definition: conforming to the rules of grammar or usage accepted by native speakers", "Synonyms: grammatical"]}
+{"data": ["2021-06-25T12:35:10.025199+00:00", 4863, "Your mother is", "select", "Pronunciation: /s\u026a\u02c8l\u025bkt/", "Definition: selected or chosen for special qualifications", "Synonyms: blue-ribbon"]}
