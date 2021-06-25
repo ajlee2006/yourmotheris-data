@@ -1,1 +1,1 @@
-{"data": ["2021-06-25T05:05:10.084692+00:00", 4819, "Your mother is", "finable", "Pronunciation: /\u02c8fa\u026an\u0259b\u0259l/", "Definition: liable to a fine", "Synonyms: fineable"]}
+{"data": ["2021-06-25T05:15:10.425185+00:00", 4820, "Your mother is", "unequivocal", "Pronunciation: /\u02cc\u0259n\u026a\u02c8kw\u026av\u0259k\u0259l/", "Definition: clearly defined or formulated", "Synonyms: definitive"]}
