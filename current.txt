@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T19:07:46.488824+00:00", 5046, "Your mother is", "nonsweet", "Similar to: unsugared", "Definition: not containing sugar", "Synonyms: sugarless"]}
+{"data": ["2021-06-26T19:17:46.440385+00:00", 5047, "Your mother is", "fifteenth", "Pronunciation: /\u02c8f\u026af\u02c8tin\u03b8/", "Definition: coming next after the fourteenth and just before the sixteenth in position", "Synonyms: 15th"]}
