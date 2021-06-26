@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T21:27:46.354374+00:00", 5060, "Your mother is", "eudemonic", "Pronunciation: /\u02ccjud\u026a\u02c8m\u0251n\u026ak/", "Definition: producing happiness and well-being", "Synonyms: eudaemonic"]}
+{"data": ["2021-06-26T21:37:46.464813+00:00", 5061, "Your mother is", "dextrorotatory", "Pronunciation: /\u02ccd\u025bkstro\u028a\u02c8ro\u028a\u02cct\u0259to\u028ari/", "Definition: rotating to the right", "Synonyms: dextrorotary, right-handed"]}
