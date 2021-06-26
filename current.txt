@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T11:56:38.065311+00:00", 5003, "Your mother is", "rumpled", "Pronunciation: /\u02c8r\u028cmp\u028cld/", "Definition: in disarray; extremely disorderly", "Synonyms: disheveled, dishevelled, frowzled, tousled"]}
+{"data": ["2021-06-26T12:06:38.096800+00:00", 5004, "Your mother is", "plumelike", "Similar to: feathered", "Definition: resembling a plume", "Synonyms: plumy"]}
