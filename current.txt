@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T15:17:46.300044+00:00", 5023, "Your mother is", "deserving", "Pronunciation: /d\u026a\u02c8z\u025crv\u026a\u014b/", "Definition: (often used ironically) worthy of being treated in a particular way", "Synonyms: worth"]}
+{"data": ["2021-06-26T15:27:46.353055+00:00", 5024, "Your mother is", "lawful", "Pronunciation: /\u02c8l\u0254f\u0259l/", "Definition: authorized, sanctioned by, or in accordance with law", "Synonyms: legitimate, licit"]}
