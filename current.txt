@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T11:26:37.996290+00:00", 5000, "Your mother is", "positive", "Pronunciation: /\u02c8p\u0251z\u026at\u026av/", "Definition: involving advantage or good", "Synonyms: plus"]}
+{"data": ["2021-06-26T11:36:38.169216+00:00", 5001, "Your mother is", "sheepish", "Pronunciation: /\u02c8\u0283ip\u026a\u0283/", "Definition: showing a sense of shame", "Synonyms: shamefaced"]}
