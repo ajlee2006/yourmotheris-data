@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T21:57:46.260555+00:00", 5063, "Your mother is", "nipping", "Pronunciation: /\u02c8n\u026ap\u026a\u014b/", "Definition: pleasantly cold and invigorating", "Synonyms: crisp, frosty, nippy, snappy"]}
+{"data": ["2021-06-26T22:07:46.316748+00:00", 5064, "Your mother is", "posthumous", "Pronunciation: /\u02c8p\u0251s\u02a7\u0259m\u0259s/", "Definition: occurring or coming into existence after a person's death", ""]}
