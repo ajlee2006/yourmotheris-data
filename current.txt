@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T17:17:46.392155+00:00", 5035, "Your mother is", "dividable", "Pronunciation: /d\u026a\u02c8va\u026ad\u0259b\u0259l/", "Definition: can be divided usually without leaving a remainder", ""]}
+{"data": ["2021-06-26T17:27:46.311543+00:00", 5036, "Your mother is", "babelike", "Similar to: dependent", "Definition: like a baby especially in dependence", ""]}
