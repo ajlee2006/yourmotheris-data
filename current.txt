@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T11:46:37.986489+00:00", 5002, "Your mother is", "top-quality", "Similar to: best", "Definition: surpassing in quality", "Synonyms: high-grade, top-grade"]}
+{"data": ["2021-06-26T11:56:38.065311+00:00", 5003, "Your mother is", "rumpled", "Pronunciation: /\u02c8r\u028cmp\u028cld/", "Definition: in disarray; extremely disorderly", "Synonyms: disheveled, dishevelled, frowzled, tousled"]}
