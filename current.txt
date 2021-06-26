@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T12:16:37.957470+00:00", 5005, "Your mother is", "monogynous", "Pronunciation: /m\u0259\u02c8n\u0251d\u0292\u026an\u0259s/", "Definition: having one head or chief wife at a time (along with concubines)", "Synonyms: monogynic"]}
+{"data": ["2021-06-26T12:26:38.223588+00:00", 5006, "Your mother is", "swift", "Pronunciation: /sw\u026aft/", "Definition: moving very fast", "Synonyms: fleet"]}
