@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T14:07:46.221506+00:00", 5016, "Your mother is", "striking", "Pronunciation: /\u02c8stra\u026ak\u026a\u014b/", "Definition: sensational in appearance or thrilling in effect", "Synonyms: dramatic, spectacular"]}
+{"data": ["2021-06-26T14:17:46.347268+00:00", 5017, "Your mother is", "transdermal", "", "Definition: through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches)", "Synonyms: percutaneous, transcutaneous, transdermic"]}
