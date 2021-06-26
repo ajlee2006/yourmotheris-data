@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T09:46:38.016510+00:00", 4990, "Your mother is", "intravenous", "Pronunciation: /\u02cc\u026antr\u0259\u02c8vin\u0259s/", "Definition: within or by means of a vein", "Synonyms: endovenous"]}
+{"data": ["2021-06-26T09:56:38.191688+00:00", 4991, "Your mother is", "purplish", "Pronunciation: /\u02c8p\u025crpl\u026a\u0283/", "Definition: of a color intermediate between red and blue", "Synonyms: purple, violet"]}
