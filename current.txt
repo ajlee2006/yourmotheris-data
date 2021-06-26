@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T19:57:46.305496+00:00", 5051, "Your mother is", "dastard", "Pronunciation: /\u02c8d\u00e6st\u0259rd/", "Definition: despicably cowardly", "Synonyms: dastardly"]}
+{"data": ["2021-06-26T20:07:46.366563+00:00", 5052, "Your mother is", "left-eyed", "Pronunciation: /l\u025bft-a\u026ad/", "Definition: having only the left eye", ""]}
