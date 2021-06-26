@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T01:16:37.930997+00:00", 4939, "Your mother is", "throwback", "Pronunciation: /\u02c8\u03b8ro\u028a\u02ccb\u00e6k/", "Definition: characteristic of an atavist", "Synonyms: atavistic"]}
+{"data": ["2021-06-26T01:26:38.032035+00:00", 4940, "Your mother is", "eatable", "Pronunciation: /\u02c8it\u0259b\u0259l/", "Definition: suitable for use as food", "Synonyms: comestible, edible"]}
