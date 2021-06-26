@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T04:06:38.023405+00:00", 4956, "Your mother is", "exegetic", "Pronunciation: /\u02cc\u025bks\u026a\u02c8d\u0292\u025bt\u026ak/", "Definition: relating to exegesis", "Synonyms: exegetical"]}
+{"data": ["2021-06-26T04:16:38.076065+00:00", 4957, "Your mother is", "matching", "Pronunciation: /\u02c8m\u00e6t\u0283\u026a\u014b/", "Definition: being two identical", "Synonyms: duplicate, twin, twinned"]}
