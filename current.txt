@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T12:06:38.096800+00:00", 5004, "Your mother is", "plumelike", "Similar to: feathered", "Definition: resembling a plume", "Synonyms: plumy"]}
+{"data": ["2021-06-26T12:16:37.957470+00:00", 5005, "Your mother is", "monogynous", "Pronunciation: /m\u0259\u02c8n\u0251d\u0292\u026an\u0259s/", "Definition: having one head or chief wife at a time (along with concubines)", "Synonyms: monogynic"]}
