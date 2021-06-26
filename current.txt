@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T03:46:37.939969+00:00", 4954, "Your mother is", "square-toed", "Similar to: toed", "Definition: having a square toe", "Synonyms: squared-toe"]}
+{"data": ["2021-06-26T03:56:37.968834+00:00", 4955, "Your mother is", "synthetical", "", "Definition: involving or of the nature of synthesis (combining separate elements to form a coherent whole) as opposed to analysis", "Synonyms: synthetic"]}
