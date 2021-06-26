@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T22:57:46.349646+00:00", 5069, "Your mother is", "weakly", "Pronunciation: /\u02c8wikli/", "Definition: lacking bodily or muscular strength or vitality", "Synonyms: debile, decrepit, feeble, infirm, rickety, sapless, weak"]}
+{"data": ["2021-06-26T23:07:46.344349+00:00", 5070, "Your mother is", "intermural", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8mj\u028ar\u0259l/", "Definition: between two or more institutions etc", ""]}
