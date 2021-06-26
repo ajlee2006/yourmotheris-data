@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T07:46:38.021152+00:00", 4978, "Your mother is", "carousing", "Pronunciation: /k\u025dr\u02c8a\u028az\u026a\u014b/", "Definition: used of riotously drunken merrymaking", "Synonyms: bacchanal, bacchanalian, bacchic, orgiastic"]}
+{"data": ["2021-06-26T07:56:38.049743+00:00", 4979, "Your mother is", "abysmal", "Pronunciation: /\u0259\u02c8b\u026azm\u0259l/", "Definition: resembling an abyss in depth; so deep as to be unmeasurable", "Synonyms: abyssal, unfathomable"]}
