@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T05:36:37.939700+00:00", 4965, "Your mother is", "self-imposed", "Pronunciation: /\u02ccs\u025blf\u026am\u02c8po\u028azd/", "Definition: voluntarily assumed or endured", ""]}
+{"data": ["2021-06-26T05:46:38.039575+00:00", 4966, "Your mother is", "mandibular", "Pronunciation: /m\u00e6n\u02c8d\u026abj\u0259l\u0259r/", "Definition: relating to the lower jaw", "Synonyms: inframaxillary"]}
