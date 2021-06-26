@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T13:57:46.302753+00:00", 5015, "Your mother is", "bucolic", "Pronunciation: /bju\u02c8k\u0251l\u026ak/", "Definition: (used with regard to idealized country life) idyllically rustic", "Synonyms: arcadian, pastoral"]}
+{"data": ["2021-06-26T14:07:46.221506+00:00", 5016, "Your mother is", "striking", "Pronunciation: /\u02c8stra\u026ak\u026a\u014b/", "Definition: sensational in appearance or thrilling in effect", "Synonyms: dramatic, spectacular"]}
