@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T02:16:38.053402+00:00", 4945, "Your mother is", "cut up", "Similar to: cut", "Definition: cut into pieces", ""]}
+{"data": ["2021-06-26T02:26:37.955730+00:00", 4946, "Your mother is", "replaceable", "Pronunciation: /\u02ccri\u02c8ple\u026as\u028cb\u028cl/", "Definition: capable of being replaced", ""]}
