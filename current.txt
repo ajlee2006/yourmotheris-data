@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T10:26:38.254341+00:00", 4994, "Your mother is", "afraid", "Pronunciation: /\u0259\u02c8fre\u026ad/", "Definition: feeling worry or concern or insecurity", ""]}
+{"data": ["2021-06-26T10:36:38.211229+00:00", 4995, "Your mother is", "uncooked", "Pronunciation: /\u0259n\u02c8k\u028akt/", "Definition: not cooked", ""]}
