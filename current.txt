@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T17:07:46.416600+00:00", 5034, "Your mother is", "submergible", "Pronunciation: /s\u0259b\u02c8m\u025crd\u0292\u0259b\u0259l/", "Definition: capable of being immersed in water or functioning while submerged", "Synonyms: submersible"]}
+{"data": ["2021-06-26T17:17:46.392155+00:00", 5035, "Your mother is", "dividable", "Pronunciation: /d\u026a\u02c8va\u026ad\u0259b\u0259l/", "Definition: can be divided usually without leaving a remainder", ""]}
