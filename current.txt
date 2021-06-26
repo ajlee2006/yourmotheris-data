@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T14:17:46.347268+00:00", 5017, "Your mother is", "transdermal", "", "Definition: through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches)", "Synonyms: percutaneous, transcutaneous, transdermic"]}
+{"data": ["2021-06-26T14:27:46.259619+00:00", 5018, "Your mother is", "snafu", "Pronunciation: /sn\u00e6\u02c8fu/", "Definition: snarled or stalled in complete confusion", "Synonyms: fucked-up"]}
