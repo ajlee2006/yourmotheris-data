@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T07:36:38.022049+00:00", 4977, "Your mother is", "gushy", "Pronunciation: /\u02c8\u0261\u0259\u0283i/", "Definition: extravagantly demonstrative", "Synonyms: effusive, gushing"]}
+{"data": ["2021-06-26T07:46:38.021152+00:00", 4978, "Your mother is", "carousing", "Pronunciation: /k\u025dr\u02c8a\u028az\u026a\u014b/", "Definition: used of riotously drunken merrymaking", "Synonyms: bacchanal, bacchanalian, bacchic, orgiastic"]}
