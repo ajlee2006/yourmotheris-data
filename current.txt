@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T21:47:46.272715+00:00", 5062, "Your mother is", "geodesical", "", "Definition: of or relating to or determined by geodesy", "Synonyms: geodesic, geodetic"]}
+{"data": ["2021-06-26T21:57:46.260555+00:00", 5063, "Your mother is", "nipping", "Pronunciation: /\u02c8n\u026ap\u026a\u014b/", "Definition: pleasantly cold and invigorating", "Synonyms: crisp, frosty, nippy, snappy"]}
