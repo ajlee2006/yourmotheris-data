@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T12:56:38.046989+00:00", 5009, "Your mother is", "sharp-cornered", "Pronunciation: /\u0283\u0251rp-\u02c8k\u0254rn\u0259rd/", "Definition: having sharp corners", "Synonyms: sharp-angled"]}
+{"data": ["2021-06-26T13:06:37.943880+00:00", 5010, "Your mother is", "arching", "Pronunciation: /\u02c8\u0251r\u02a7\u026a\u014b/", "Definition: forming or resembling an arch", "Synonyms: arced, arched, arciform, arcuate, bowed"]}
