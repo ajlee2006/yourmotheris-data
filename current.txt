@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T19:27:46.694750+00:00", 5048, "Your mother is", "unreserved", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8z\u025crvd/", "Definition: not cautious or reticent", ""]}
+{"data": ["2021-06-26T19:37:46.265299+00:00", 5049, "Your mother is", "negligible", "Pronunciation: /\u02c8n\u025bgl\u026ad\u0292\u0259b\u0259l/", "Definition: not worth considering", "Synonyms: paltry, trifling"]}
