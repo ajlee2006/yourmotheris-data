@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T19:17:46.440385+00:00", 5047, "Your mother is", "fifteenth", "Pronunciation: /\u02c8f\u026af\u02c8tin\u03b8/", "Definition: coming next after the fourteenth and just before the sixteenth in position", "Synonyms: 15th"]}
+{"data": ["2021-06-26T19:27:46.694750+00:00", 5048, "Your mother is", "unreserved", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8z\u025crvd/", "Definition: not cautious or reticent", ""]}
