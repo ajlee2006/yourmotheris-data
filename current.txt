@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T11:36:38.169216+00:00", 5001, "Your mother is", "sheepish", "Pronunciation: /\u02c8\u0283ip\u026a\u0283/", "Definition: showing a sense of shame", "Synonyms: shamefaced"]}
+{"data": ["2021-06-26T11:46:37.986489+00:00", 5002, "Your mother is", "top-quality", "Similar to: best", "Definition: surpassing in quality", "Synonyms: high-grade, top-grade"]}
