@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T12:46:37.921007+00:00", 5008, "Your mother is", "clove-scented", "Similar to: odorous", "Definition: smelling of clove", ""]}
+{"data": ["2021-06-26T12:56:38.046989+00:00", 5009, "Your mother is", "sharp-cornered", "Pronunciation: /\u0283\u0251rp-\u02c8k\u0254rn\u0259rd/", "Definition: having sharp corners", "Synonyms: sharp-angled"]}
