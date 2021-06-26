@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T11:16:38.062915+00:00", 4999, "Your mother is", "fifty-one", "Pronunciation: /\u02c8f\u026afti\u02c8w\u0259n/", "Definition: being one more than fifty", "Synonyms: 51, li"]}
+{"data": ["2021-06-26T11:26:37.996290+00:00", 5000, "Your mother is", "positive", "Pronunciation: /\u02c8p\u0251z\u026at\u026av/", "Definition: involving advantage or good", "Synonyms: plus"]}
