@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T08:46:37.973964+00:00", 4984, "Your mother is", "null", "Pronunciation: /n\u0259l/", "Definition: lacking any legal or binding force", "Synonyms: void"]}
+{"data": ["2021-06-26T08:56:38.080880+00:00", 4985, "Your mother is", "renewing", "Pronunciation: /r\u026a\u02c8nu\u026a\u014b/", "Definition: tending to impart new life and vigor to", "Synonyms: restorative, revitalising, revitalizing, reviving"]}
