@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T04:56:37.981946+00:00", 4961, "Your mother is", "untended", "Similar to: uncared-for", "Definition: lacking care and attention", ""]}
+{"data": ["2021-06-26T05:06:38.034999+00:00", 4962, "Your mother is", "unmodernized", "Similar to: regressive", "Definition: not brought up to date", "Synonyms: unmodernised"]}
