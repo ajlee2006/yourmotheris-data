@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T03:16:37.990980+00:00", 4951, "Your mother is", "keeled", "", "Definition: having a ridge or shaped like a ridge or suggesting the keel of a ship", "Synonyms: carinate, carinated, ridged"]}
+{"data": ["2021-06-26T03:26:38.040658+00:00", 4952, "Your mother is", "ground-floor", "Similar to: downstair", "Definition: on the floor closest to level with the ground", ""]}
