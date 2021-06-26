@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T22:47:46.316000+00:00", 5068, "Your mother is", "nine", "Pronunciation: /na\u026an/", "Definition: denoting a quantity consisting of one more than eight and one less than ten", "Synonyms: 9, ix"]}
+{"data": ["2021-06-26T22:57:46.349646+00:00", 5069, "Your mother is", "weakly", "Pronunciation: /\u02c8wikli/", "Definition: lacking bodily or muscular strength or vitality", "Synonyms: debile, decrepit, feeble, infirm, rickety, sapless, weak"]}
