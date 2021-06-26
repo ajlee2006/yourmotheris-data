@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T18:37:46.366350+00:00", 5043, "Your mother is", "querulous", "Pronunciation: /\u02c8kw\u025br\u0259l\u0259s/", "Definition: habitually complaining", "Synonyms: fretful, whiney, whiny"]}
+{"data": ["2021-06-26T18:47:46.361984+00:00", 5044, "Your mother is", "berrylike", "Pronunciation: /\u02c8b\u025bri\u02ccla\u026ak/", "Definition: resembling a berry", "Synonyms: baccate"]}
