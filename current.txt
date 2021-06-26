@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T11:06:38.012165+00:00", 4998, "Your mother is", "bum", "Pronunciation: /b\u0259m/", "Definition: of very poor quality; flimsy", "Synonyms: cheap, cheesy, chintzy, crummy, punk, sleazy, tinny"]}
+{"data": ["2021-06-26T11:16:38.062915+00:00", 4999, "Your mother is", "fifty-one", "Pronunciation: /\u02c8f\u026afti\u02c8w\u0259n/", "Definition: being one more than fifty", "Synonyms: 51, li"]}
