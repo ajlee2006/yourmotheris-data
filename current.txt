@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T00:36:38.114096+00:00", 4935, "Your mother is", "glooming", "Pronunciation: /\u02c8glum\u026a\u014b/", "Definition: depressingly dark", "Synonyms: gloomful, gloomy, sulky"]}
+{"data": ["2021-06-26T00:46:38.013476+00:00", 4936, "Your mother is", "choked", "Pronunciation: /t\u0283o\u028akt/", "Definition: stopped up; clogged up", "Synonyms: clogged"]}
