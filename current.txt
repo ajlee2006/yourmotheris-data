@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T04:36:38.036717+00:00", 4959, "Your mother is", "soggy", "Pronunciation: /\u02c8s\u0251\u0261i/", "Definition: slow and apathetic", "Synonyms: inert, sluggish, torpid"]}
+{"data": ["2021-06-26T04:46:38.081518+00:00", 4960, "Your mother is", "glowering", "Pronunciation: /\u02c8\u0261la\u028a\u025dr\u026a\u014b/", "Definition: showing a brooding ill humor", "Synonyms: dark, dour, glum, moody, morose, saturnine, sour, sullen"]}
