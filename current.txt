@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T05:26:38.079433+00:00", 4964, "Your mother is", "photoelectric", "Pronunciation: /\u02ccfo\u028ato\u028a\u026a\u02c8l\u025bktr\u026ak/", "Definition: of or pertaining to photoelectricity", "Synonyms: photoelectrical"]}
+{"data": ["2021-06-26T05:36:37.939700+00:00", 4965, "Your mother is", "self-imposed", "Pronunciation: /\u02ccs\u025blf\u026am\u02c8po\u028azd/", "Definition: voluntarily assumed or endured", ""]}
