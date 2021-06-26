@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T04:26:38.027754+00:00", 4958, "Your mother is", "coordinated", "Pronunciation: /ko\u028a\u02c8\u0254rd\u028cne\u026at\u026ad/", "Definition: being dexterous in the use of more than one set of muscle movements", "Synonyms: co-ordinated"]}
+{"data": ["2021-06-26T04:36:38.036717+00:00", 4959, "Your mother is", "soggy", "Pronunciation: /\u02c8s\u0251\u0261i/", "Definition: slow and apathetic", "Synonyms: inert, sluggish, torpid"]}
