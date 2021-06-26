@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T10:36:38.211229+00:00", 4995, "Your mother is", "uncooked", "Pronunciation: /\u0259n\u02c8k\u028akt/", "Definition: not cooked", ""]}
+{"data": ["2021-06-26T10:46:37.955044+00:00", 4996, "Your mother is", "powerless", "Pronunciation: /\u02c8pa\u028a\u0259rl\u026as/", "Definition: lacking power", ""]}
