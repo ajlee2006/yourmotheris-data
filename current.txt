@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T10:46:37.955044+00:00", 4996, "Your mother is", "powerless", "Pronunciation: /\u02c8pa\u028a\u0259rl\u026as/", "Definition: lacking power", ""]}
+{"data": ["2021-06-26T10:56:37.969613+00:00", 4997, "Your mother is", "sapid", "Pronunciation: /\u02c8s\u00e6p\u026ad/", "Definition: full of flavor", "Synonyms: flavorful, flavorous, flavorsome, flavourful, flavourous, flavoursome, saporous"]}
