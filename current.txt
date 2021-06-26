@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T21:07:46.382743+00:00", 5058, "Your mother is", "actuated", "Similar to: motivated", "Definition: moved to action", ""]}
+{"data": ["2021-06-26T21:17:46.305226+00:00", 5059, "Your mother is", "amphiprotic", "", "Definition: having characteristics of both an acid and a base and capable of reacting as either", "Synonyms: amphoteric"]}
