@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T07:26:38.053042+00:00", 4976, "Your mother is", "shakespearean", "Pronunciation: /\u02cc\u0283e\u026ak\u02c8sp\u026ari\u028cn/", "Definition: of or relating to William Shakespeare or his works", "Synonyms: shakespearian"]}
+{"data": ["2021-06-26T07:36:38.022049+00:00", 4977, "Your mother is", "gushy", "Pronunciation: /\u02c8\u0261\u0259\u0283i/", "Definition: extravagantly demonstrative", "Synonyms: effusive, gushing"]}
