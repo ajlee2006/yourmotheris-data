@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T05:46:38.039575+00:00", 4966, "Your mother is", "mandibular", "Pronunciation: /m\u00e6n\u02c8d\u026abj\u0259l\u0259r/", "Definition: relating to the lower jaw", "Synonyms: inframaxillary"]}
+{"data": ["2021-06-26T05:56:38.043215+00:00", 4967, "Your mother is", "unapproachable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8pro\u028a\u02a7\u0259b\u0259l/", "Definition: inaccessibly located or situated", "Synonyms: out of reach, unreachable, unreached"]}
