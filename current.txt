@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T16:27:46.203217+00:00", 5030, "Your mother is", "monomaniacal", "Pronunciation: /\u02ccm\u0251n\u0259m\u0259\u02c8na\u026a\u0259k\u0259l/", "Definition: obsessed with a single subject or idea", ""]}
+{"data": ["2021-06-26T16:37:46.296264+00:00", 5031, "Your mother is", "maidenly", "Similar to: feminine", "Definition: befitting or characteristic of a maiden", "Synonyms: maidenlike"]}
