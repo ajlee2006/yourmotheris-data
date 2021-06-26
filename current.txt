@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T20:07:46.366563+00:00", 5052, "Your mother is", "left-eyed", "Pronunciation: /l\u025bft-a\u026ad/", "Definition: having only the left eye", ""]}
+{"data": ["2021-06-26T20:17:46.416578+00:00", 5053, "Your mother is", "silvery-grey", "Similar to: achromatic", "Definition: of grey resembling silver", "Synonyms: silver-gray, silver-grey, silvery-gray"]}
