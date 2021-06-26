@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T05:56:38.043215+00:00", 4967, "Your mother is", "unapproachable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8pro\u028a\u02a7\u0259b\u0259l/", "Definition: inaccessibly located or situated", "Synonyms: out of reach, unreachable, unreached"]}
+{"data": ["2021-06-26T06:06:38.100282+00:00", 4968, "Your mother is", "moved", "Pronunciation: /muvd/", "Definition: being excited or provoked to the expression of an emotion", "Synonyms: affected, stirred, touched"]}
