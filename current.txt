@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T01:36:38.062077+00:00", 4941, "Your mother is", "kind", "Pronunciation: /ka\u026and/", "Definition: agreeable, conducive to comfort", "Synonyms: genial"]}
+{"data": ["2021-06-26T01:46:38.130378+00:00", 4942, "Your mother is", "crestfallen", "Pronunciation: /\u02c8kr\u025bst\u02ccf\u0254l\u0259n/", "Definition: brought low in spirit", "Synonyms: chapfallen, chopfallen, deflated"]}
