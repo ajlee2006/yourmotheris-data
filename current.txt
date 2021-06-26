@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T15:47:46.914042+00:00", 5026, "Your mother is", "barky", "Pronunciation: /\u02c8b\u0251rki/", "Definition: resembling the rough bark of a tree", ""]}
+{"data": ["2021-06-26T15:57:46.740551+00:00", 5027, "Your mother is", "friable", "Pronunciation: /\u02c8fra\u026a\u0259b\u0259l/", "Definition: easily broken into small fragments or reduced to powder", "Synonyms: crumbly"]}
