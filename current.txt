@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T16:17:46.252198+00:00", 5029, "Your mother is", "fewest", "Pronunciation: /\u02c8fju\u028cst/", "Definition: (superlative of `few' used with count nouns and usually preceded by `the') quantifier meaning the smallest in number", ""]}
+{"data": ["2021-06-26T16:27:46.203217+00:00", 5030, "Your mother is", "monomaniacal", "Pronunciation: /\u02ccm\u0251n\u0259m\u0259\u02c8na\u026a\u0259k\u0259l/", "Definition: obsessed with a single subject or idea", ""]}
