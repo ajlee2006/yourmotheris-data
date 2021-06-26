@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T13:26:37.932373+00:00", 5012, "Your mother is", "advisable", "Pronunciation: /\u00e6d\u02c8va\u026az\u0259b\u0259l/", "Definition: worthy of being recommended or suggested; prudent or wise", ""]}
+{"data": ["2021-06-26T13:36:37.999404+00:00", 5013, "Your mother is", "acid-loving", "Similar to: acidophilic", "Definition: thriving in a relatively acidic environment (especially of plants requiring a pH well below 7)", ""]}
