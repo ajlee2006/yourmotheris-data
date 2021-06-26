@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T18:47:46.361984+00:00", 5044, "Your mother is", "berrylike", "Pronunciation: /\u02c8b\u025bri\u02ccla\u026ak/", "Definition: resembling a berry", "Synonyms: baccate"]}
+{"data": ["2021-06-26T18:57:46.360550+00:00", 5045, "Your mother is", "touristed", "Similar to: popular", "Definition: visited by throngs of tourists", "Synonyms: touristy"]}
