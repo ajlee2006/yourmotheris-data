@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T06:26:38.099573+00:00", 4970, "Your mother is", "shell-less", "Pronunciation: /\u0283\u025bl-l\u025bs/", "Definition: of animals or fruits that have no shell", "Synonyms: unshelled"]}
+{"data": ["2021-06-26T06:36:38.219678+00:00", 4971, "Your mother is", "2nd", "Similar to: ordinal", "Definition: coming next after the first in position in space or time or degree or magnitude", "Synonyms: 2d, second"]}
