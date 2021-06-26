@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T03:26:38.040658+00:00", 4952, "Your mother is", "ground-floor", "Similar to: downstair", "Definition: on the floor closest to level with the ground", ""]}
+{"data": ["2021-06-26T03:36:37.978710+00:00", 4953, "Your mother is", "weeny", "Pronunciation: /\u02c8wini/", "Definition: (used informally) very small", "Synonyms: bittie, bitty, itsy-bitsy, itty-bitty, teensy, teensy-weensy, teentsy, teeny, teeny-weeny, wee, weensy"]}
