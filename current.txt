@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T01:46:38.130378+00:00", 4942, "Your mother is", "crestfallen", "Pronunciation: /\u02c8kr\u025bst\u02ccf\u0254l\u0259n/", "Definition: brought low in spirit", "Synonyms: chapfallen, chopfallen, deflated"]}
+{"data": ["2021-06-26T01:56:37.948029+00:00", 4943, "Your mother is", "moonstruck", "Pronunciation: /\u02c8munstr\u0259k/", "Definition: insane and believed to be affected by the phases of the moon", "Synonyms: lunatic"]}
