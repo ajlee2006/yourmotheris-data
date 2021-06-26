@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T04:16:38.076065+00:00", 4957, "Your mother is", "matching", "Pronunciation: /\u02c8m\u00e6t\u0283\u026a\u014b/", "Definition: being two identical", "Synonyms: duplicate, twin, twinned"]}
+{"data": ["2021-06-26T04:26:38.027754+00:00", 4958, "Your mother is", "coordinated", "Pronunciation: /ko\u028a\u02c8\u0254rd\u028cne\u026at\u026ad/", "Definition: being dexterous in the use of more than one set of muscle movements", "Synonyms: co-ordinated"]}
