@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T08:36:38.214268+00:00", 4983, "Your mother is", "carven", "Pronunciation: /\u02c8k\u0251rv\u0259n/", "Definition: made for or formed by carving (`carven' is archaic or literary)", "Synonyms: carved"]}
+{"data": ["2021-06-26T08:46:37.973964+00:00", 4984, "Your mother is", "null", "Pronunciation: /n\u0259l/", "Definition: lacking any legal or binding force", "Synonyms: void"]}
