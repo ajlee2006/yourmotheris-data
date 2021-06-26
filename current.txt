@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T07:56:38.049743+00:00", 4979, "Your mother is", "abysmal", "Pronunciation: /\u0259\u02c8b\u026azm\u0259l/", "Definition: resembling an abyss in depth; so deep as to be unmeasurable", "Synonyms: abyssal, unfathomable"]}
+{"data": ["2021-06-26T08:06:38.302883+00:00", 4980, "Your mother is", "calumnious", "Pronunciation: /k\u0259\u02c8l\u0259mni\u0259s/", "Definition: (used of statements) harmful and often untrue; tending to discredit or malign", "Synonyms: calumniatory, defamatory, denigrating, denigrative, denigratory, libellous, libelous, slanderous"]}
