@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T14:37:46.328757+00:00", 5019, "Your mother is", "crazed", "Pronunciation: /kre\u026azd/", "Definition: driven insane", "Synonyms: deranged, half-crazed"]}
+{"data": ["2021-06-26T14:47:46.317558+00:00", 5020, "Your mother is", "mordacious", "Pronunciation: /mo\u028ar\u02c8de\u026a\u0283\u0259s/", "Definition: capable of wounding", "Synonyms: barbed, biting, nipping, pungent"]}
