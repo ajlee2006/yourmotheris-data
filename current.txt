@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T16:47:46.253295+00:00", 5032, "Your mother is", "lxxiv", "Similar to: cardinal", "Definition: being four more than seventy", "Synonyms: 74, seventy-four"]}
+{"data": ["2021-06-26T16:57:46.311070+00:00", 5033, "Your mother is", "male", "Pronunciation: /me\u026al/", "Definition: characteristic of a man", "Synonyms: manful, manlike, manly, virile"]}
