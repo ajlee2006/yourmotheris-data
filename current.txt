@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T05:16:38.032245+00:00", 4963, "Your mother is", "mislaid", "Pronunciation: /m\u026as\u02c8le\u026ad/", "Definition: lost temporarily; as especially put in an unaccustomed or forgotten place", "Synonyms: misplaced"]}
+{"data": ["2021-06-26T05:26:38.079433+00:00", 4964, "Your mother is", "photoelectric", "Pronunciation: /\u02ccfo\u028ato\u028a\u026a\u02c8l\u025bktr\u026ak/", "Definition: of or pertaining to photoelectricity", "Synonyms: photoelectrical"]}
