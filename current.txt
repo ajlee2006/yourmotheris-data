@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T22:37:46.316659+00:00", 5067, "Your mother is", "sulphuretted", "Pronunciation: /\u02ccs\u0259lfj\u028a\u02c8r\u025bt\u026ad/", "Definition: treated or impregnated with sulfur", "Synonyms: sulfuretted, sulfurized"]}
+{"data": ["2021-06-26T22:47:46.316000+00:00", 5068, "Your mother is", "nine", "Pronunciation: /na\u026an/", "Definition: denoting a quantity consisting of one more than eight and one less than ten", "Synonyms: 9, ix"]}
