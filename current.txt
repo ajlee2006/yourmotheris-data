@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T09:16:38.175592+00:00", 4987, "Your mother is", "knitted", "Pronunciation: /\u02c8n\u026at\u026ad/", "Definition: made by intertwining threads in a series of connected loops rather than by weaving", ""]}
+{"data": ["2021-06-26T09:26:38.058023+00:00", 4988, "Your mother is", "several", "Pronunciation: /\u02c8s\u025bv\u0259r\u0259l/", "Definition: considered individually", "Synonyms: respective, various"]}
