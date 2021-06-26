@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T20:27:46.315411+00:00", 5054, "Your mother is", "papist", "Pronunciation: /\u02c8pe\u026ap\u026ast/", "Definition: of or relating to or supporting Romanism", "Synonyms: papistic, papistical, popish, r.c., roman, roman catholic, romanist, romish"]}
+{"data": ["2021-06-26T20:37:46.305020+00:00", 5055, "Your mother is", "mucky", "Pronunciation: /\u02c8m\u0259ki/", "Definition: dirty and messy; covered with mud or muck", "Synonyms: muddy"]}
