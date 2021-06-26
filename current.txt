@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T00:06:38.127134+00:00", 4932, "Your mother is", "handed", "Pronunciation: /\u02c8h\u00e6nd\u026ad/", "Definition: having or involving the use of hands", ""]}
+{"data": ["2021-06-26T00:16:38.068451+00:00", 4933, "Your mother is", "sweptwing", "Pronunciation: /\u02c8sw\u025bpt\u02ccw\u026a\u014b/", "Definition: (of an aircraft) having sweptback wings", ""]}
