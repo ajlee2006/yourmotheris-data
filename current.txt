@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T20:57:46.262975+00:00", 5057, "Your mother is", "introductory", "Pronunciation: /\u02cc\u026antr\u0259\u02c8d\u0259kt\u0259ri/", "Definition: serving as a base or starting point", "Synonyms: basic"]}
+{"data": ["2021-06-26T21:07:46.382743+00:00", 5058, "Your mother is", "actuated", "Similar to: motivated", "Definition: moved to action", ""]}
