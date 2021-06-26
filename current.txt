@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T19:47:46.292810+00:00", 5050, "Your mother is", "seismic", "Pronunciation: /\u02c8sa\u026azm\u026ak/", "Definition: subject to or caused by an earthquake or earth vibration", "Synonyms: seismal"]}
+{"data": ["2021-06-26T19:57:46.305496+00:00", 5051, "Your mother is", "dastard", "Pronunciation: /\u02c8d\u00e6st\u0259rd/", "Definition: despicably cowardly", "Synonyms: dastardly"]}
