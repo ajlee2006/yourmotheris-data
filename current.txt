@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T09:26:38.058023+00:00", 4988, "Your mother is", "several", "Pronunciation: /\u02c8s\u025bv\u0259r\u0259l/", "Definition: considered individually", "Synonyms: respective, various"]}
+{"data": ["2021-06-26T09:36:38.088474+00:00", 4989, "Your mother is", "causeless", "Similar to: unmotivated", "Definition: having no justifying cause or reason", "Synonyms: reasonless"]}
