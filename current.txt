@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T12:36:37.946647+00:00", 5007, "Your mother is", "palmar", "Pronunciation: /\u02c8p\u00e6lm\u0259r/", "Definition: relating to the palm of the hand or the sole of the foot", "Synonyms: volar"]}
+{"data": ["2021-06-26T12:46:37.921007+00:00", 5008, "Your mother is", "clove-scented", "Similar to: odorous", "Definition: smelling of clove", ""]}
