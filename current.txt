@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T10:06:38.008982+00:00", 4992, "Your mother is", "snowbound", "Pronunciation: /\u02c8sno\u028a\u02ccba\u028and/", "Definition: confined or shut in by heavy snow", ""]}
+{"data": ["2021-06-26T10:16:38.056977+00:00", 4993, "Your mother is", "hematogenic", "", "Definition: pertaining to the formation of blood or blood cells", "Synonyms: haematogenic, haematopoietic, haemopoietic, hematopoietic, hemopoietic"]}
