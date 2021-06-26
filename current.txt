@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T06:36:38.219678+00:00", 4971, "Your mother is", "2nd", "Similar to: ordinal", "Definition: coming next after the first in position in space or time or degree or magnitude", "Synonyms: 2d, second"]}
+{"data": ["2021-06-26T06:46:38.034313+00:00", 4972, "Your mother is", "sinusoidal", "Pronunciation: /\u02ccsa\u026an\u0259\u02c8s\u0254\u026ad\u0259l/", "Definition: having a succession of waves or curves", ""]}
