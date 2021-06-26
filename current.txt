@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T02:06:38.116489+00:00", 4944, "Your mother is", "ampullary", "Pronunciation: /\u00e6m\u02c8p\u0259l\u0259ri/", "Definition: of or related to an ampulla", "Synonyms: ampullar"]}
+{"data": ["2021-06-26T02:16:38.053402+00:00", 4945, "Your mother is", "cut up", "Similar to: cut", "Definition: cut into pieces", ""]}
