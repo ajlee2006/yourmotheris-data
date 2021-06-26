@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T03:06:38.054683+00:00", 4950, "Your mother is", "spectroscopic", "Pronunciation: /\u02ccsp\u025bktr\u0259\u02c8sk\u0251p\u026ak/", "Definition: of or relating to or involving spectroscopy", "Synonyms: spectroscopical"]}
+{"data": ["2021-06-26T03:16:37.990980+00:00", 4951, "Your mother is", "keeled", "", "Definition: having a ridge or shaped like a ridge or suggesting the keel of a ship", "Synonyms: carinate, carinated, ridged"]}
