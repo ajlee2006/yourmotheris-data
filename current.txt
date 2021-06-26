@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T15:27:46.353055+00:00", 5024, "Your mother is", "lawful", "Pronunciation: /\u02c8l\u0254f\u0259l/", "Definition: authorized, sanctioned by, or in accordance with law", "Synonyms: legitimate, licit"]}
+{"data": ["2021-06-26T15:37:46.414172+00:00", 5025, "Your mother is", "orange-brown", "Similar to: chromatic", "Definition: of brown tinged with orange", ""]}
