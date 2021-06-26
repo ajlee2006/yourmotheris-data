@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T07:06:38.133940+00:00", 4974, "Your mother is", "sheltered", "Pronunciation: /\u02c8\u0283\u025blt\u025drd/", "Definition: protected from danger or bad weather", ""]}
+{"data": ["2021-06-26T07:16:38.129987+00:00", 4975, "Your mother is", "fine-looking", "Similar to: beautiful", "Definition: pleasing in appearance especially by reason of conformity to ideals of form and proportion", "Synonyms: better-looking, good-looking, handsome, well-favored, well-favoured"]}
