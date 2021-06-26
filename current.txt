@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T01:26:38.032035+00:00", 4940, "Your mother is", "eatable", "Pronunciation: /\u02c8it\u0259b\u0259l/", "Definition: suitable for use as food", "Synonyms: comestible, edible"]}
+{"data": ["2021-06-26T01:36:38.062077+00:00", 4941, "Your mother is", "kind", "Pronunciation: /ka\u026and/", "Definition: agreeable, conducive to comfort", "Synonyms: genial"]}
