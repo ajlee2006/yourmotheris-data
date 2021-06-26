@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T23:07:46.344349+00:00", 5070, "Your mother is", "intermural", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8mj\u028ar\u0259l/", "Definition: between two or more institutions etc", ""]}
+{"data": ["2021-06-26T23:17:46.266632+00:00", 5071, "Your mother is", "yearly", "Pronunciation: /\u02c8jirli/", "Definition: occurring or payable every year", "Synonyms: annual"]}
