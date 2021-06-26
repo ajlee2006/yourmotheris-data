@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T03:36:37.978710+00:00", 4953, "Your mother is", "weeny", "Pronunciation: /\u02c8wini/", "Definition: (used informally) very small", "Synonyms: bittie, bitty, itsy-bitsy, itty-bitty, teensy, teensy-weensy, teentsy, teeny, teeny-weeny, wee, weensy"]}
+{"data": ["2021-06-26T03:46:37.939969+00:00", 4954, "Your mother is", "square-toed", "Similar to: toed", "Definition: having a square toe", "Synonyms: squared-toe"]}
