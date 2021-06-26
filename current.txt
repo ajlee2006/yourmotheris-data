@@ -1,1 +1,1 @@
-{"data": ["2021-06-26T02:46:37.959731+00:00", 4948, "Your mother is", "xanthous", "Pronunciation: /\u02c8z\u00e6n\u03b8\u0259s/", "Definition: of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk", "Synonyms: yellow, yellowish"]}
+{"data": ["2021-06-26T02:56:37.937656+00:00", 4949, "Your mother is", "blastodermic", "", "Definition: of or relating to a blastoderm", "Synonyms: blastodermatic"]}
