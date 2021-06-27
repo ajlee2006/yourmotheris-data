@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T05:47:46.211278+00:00", 5110, "Your mother is", "orange-hued", "Pronunciation: /\u02c8\u0254r\u026and\u0292-hjud/", "Definition: having the color of ripe oranges", "Synonyms: orange-colored, orange-coloured"]}
+{"data": ["2021-06-27T05:57:46.211650+00:00", 5111, "Your mother is", "russet", "Pronunciation: /\u02c8r\u0259s\u026at/", "Definition: of brown with a reddish tinge", ""]}
