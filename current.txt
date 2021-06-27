@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T11:01:57.146161+00:00", 1, "Your mother is", "wicked", "Pronunciation: /\u02c8w\u026ak\u026ad/", "Definition: having committed unrighteous acts", "Synonyms: sinful, unholy"]}
+{"data": ["2021-06-27T12:03:03.685502+00:00", 2, "Your mother is", "grayish-white", "Similar to: achromatic", "Definition: of white tinged with grey", "Synonyms: gray-white, grey-white, greyish-white"]}
