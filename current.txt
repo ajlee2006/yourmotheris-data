@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T02:07:46.273752+00:00", 5088, "Your mother is", "psychogenic", "Pronunciation: /\u02ccsa\u026ako\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: of or relating to the psychological cause of a disorder", "Synonyms: psychogenetic"]}
+{"data": ["2021-06-27T02:17:46.386637+00:00", 5089, "Your mother is", "rattlebrained", "Pronunciation: /\u02c8r\u00e6t\u0259l\u02c8bre\u026and/", "Definition: lacking sense or discretion", "Synonyms: rattlepated, scatterbrained, scatty"]}
