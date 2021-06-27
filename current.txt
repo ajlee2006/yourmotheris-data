@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T01:37:46.644130+00:00", 5085, "Your mother is", "laboured", "Pronunciation: /\u02c8le\u026ab\u0259rd/", "Definition: lacking natural ease", "Synonyms: labored, strained"]}
+{"data": ["2021-06-27T01:47:46.223628+00:00", 5086, "Your mother is", "obligate", "Pronunciation: /\u02c8\u0251bl\u0259\u02cc\u0261e\u026at/", "Definition: restricted to a particular condition of life", ""]}
