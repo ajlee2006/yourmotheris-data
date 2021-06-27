@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T00:07:46.478538+00:00", 5076, "Your mother is", "22", "Similar to: cardinal", "Definition: being two more than twenty", "Synonyms: twenty-two, xxii"]}
+{"data": ["2021-06-27T00:17:46.710381+00:00", 5077, "Your mother is", "ancient", "Pronunciation: /\u02c8e\u026an\u0283\u0259nt/", "Definition: belonging to times long past especially of the historical period before the fall of the Western Roman Empire", ""]}
