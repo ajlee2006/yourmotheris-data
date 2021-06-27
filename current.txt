@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T13:00:37.397867+00:00", 3, "Your mother is", "stooped", "Pronunciation: /stupt/", "Definition: having the back and shoulders rounded; not erect", "Synonyms: crooked, hunched, round-backed, round-shouldered, stooping"]}
+{"data": ["2021-06-27T14:03:11.633326+00:00", 4, "Your mother is", "saute", "Pronunciation: /so\u028a\u02c8te\u026a/", "Definition: fried quickly in a little fat", "Synonyms: sauteed"]}
