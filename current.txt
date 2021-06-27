@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T06:07:46.272711+00:00", 5112, "Your mother is", "rust-brown", "Similar to: chromatic", "Definition: of the brown color of rust", "Synonyms: rust, rusty"]}
+{"data": ["2021-06-27T06:17:46.296026+00:00", 5113, "Your mother is", "unpolitical", "Pronunciation: /\u02cc\u0259np\u0259\u02c8l\u026at\u026ak\u0259l/", "Definition: politically neutral", "Synonyms: apolitical"]}
