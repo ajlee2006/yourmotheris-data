@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T04:17:46.194237+00:00", 5101, "Your mother is", "anguished", "Pronunciation: /\u02c8\u00e6\u014bgw\u026a\u0283t/", "Definition: experiencing intense pain especially mental pain", "Synonyms: tormented, tortured"]}
+{"data": ["2021-06-27T04:27:46.476372+00:00", 5102, "Your mother is", "brazen-faced", "Pronunciation: /\u02c8bre\u026az\u0259n-\u02ccfe\u026ast/", "Definition: unrestrained by convention or propriety", "Synonyms: audacious, bald-faced, barefaced, bodacious, brassy, brazen, insolent"]}
