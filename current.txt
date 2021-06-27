@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T04:07:46.227058+00:00", 5100, "Your mother is", "unclad", "Pronunciation: /\u0259n\u02c8kl\u00e6d/", "Definition: having removed clothing", "Synonyms: unappareled, unattired, undressed, ungarbed, ungarmented"]}
+{"data": ["2021-06-27T04:17:46.194237+00:00", 5101, "Your mother is", "anguished", "Pronunciation: /\u02c8\u00e6\u014bgw\u026a\u0283t/", "Definition: experiencing intense pain especially mental pain", "Synonyms: tormented, tortured"]}
