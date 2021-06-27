@@ -23,4 +23,5 @@ View the code that maintains this repository at https://github.com/ajlee2006/you
 
 ## Past runs
 22 May 2021 ([previousrun.zip](https://raw.githubusercontent.com/ajlee2006/yourmotheris-data/main/previousrun.zip)): reset the entire system to implement a better past storage system where all past entries are stored in one file, because max 1000 files could be obtained via Github API. The previous system was one text file for each word.
+
 27 Jun 2021 ([previousrun2.txt](https://raw.githubusercontent.com/ajlee2006/yourmotheris-data/main/previousrun2.txt)): 1 MB is the maximum file size obtainable for Github API, so the bot broke and I had to reset it. Previously, it was 10-minutely, and now I have changed it to hourly.
