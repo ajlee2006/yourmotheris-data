@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T04:47:46.209973+00:00", 5104, "Your mother is", "persistent", "Pronunciation: /p\u0259r\u02c8s\u026ast\u0259nt/", "Definition: continually recurring to the mind", "Synonyms: haunting"]}
+{"data": ["2021-06-27T04:57:46.282384+00:00", 5105, "Your mother is", "spurned", "Pronunciation: /sp\u025drnd/", "Definition: rebuffed (by a lover) without warning", "Synonyms: jilted, rejected"]}
