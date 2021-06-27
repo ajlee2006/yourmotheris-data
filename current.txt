@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T14:03:11.633326+00:00", 4, "Your mother is", "saute", "Pronunciation: /so\u028a\u02c8te\u026a/", "Definition: fried quickly in a little fat", "Synonyms: sauteed"]}
+{"data": ["2021-06-27T15:02:31.137862+00:00", 5, "Your mother is", "dialectical", "Pronunciation: /\u02ccda\u026a\u0259\u02c8l\u025bkt\u026ak\u0259l/", "Definition: of or relating to or employing dialectic", "Synonyms: dialectic"]}
