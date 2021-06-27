@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T00:57:46.783626+00:00", 5081, "Your mother is", "omnivorous", "Pronunciation: /\u0251m\u02c8n\u026av\u0259r\u0259s/", "Definition: feeding on both plants and animals", ""]}
+{"data": ["2021-06-27T01:07:46.419626+00:00", 5082, "Your mother is", "bottomed", "Pronunciation: /\u02c8b\u0251t\u028cmd/", "Definition: having a bottom of a specified character", ""]}
