@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T05:57:46.211650+00:00", 5111, "Your mother is", "russet", "Pronunciation: /\u02c8r\u0259s\u026at/", "Definition: of brown with a reddish tinge", ""]}
+{"data": ["2021-06-27T06:07:46.272711+00:00", 5112, "Your mother is", "rust-brown", "Similar to: chromatic", "Definition: of the brown color of rust", "Synonyms: rust, rusty"]}
