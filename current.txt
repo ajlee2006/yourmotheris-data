@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T06:17:46.296026+00:00", 5113, "Your mother is", "unpolitical", "Pronunciation: /\u02cc\u0259np\u0259\u02c8l\u026at\u026ak\u0259l/", "Definition: politically neutral", "Synonyms: apolitical"]}
+{"data": ["2021-06-27T06:27:46.257684+00:00", 5114, "Your mother is", "dislocated", "Pronunciation: /\u02c8d\u026aslo\u028ake\u026at\u026ad/", "Definition: separated at the joint", "Synonyms: disjointed, separated"]}
