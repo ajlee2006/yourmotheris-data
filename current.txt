@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T16:01:00.359779+00:00", 6, "Your mother is", "epidermic", "", "Definition: of or relating to a cuticle or cuticula", "Synonyms: cuticular, dermal, epidermal"]}
+{"data": ["2021-06-27T17:02:42.161705+00:00", 7, "Your mother is", "raspberry-red", "Similar to: chromatic", "Definition: of the red of fresh raspberries", "Synonyms: bright-red"]}
