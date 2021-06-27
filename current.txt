@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T03:27:46.342815+00:00", 5096, "Your mother is", "groomed", "Pronunciation: /\u0261rumd/", "Definition: neat and smart in appearance; well cared for", ""]}
+{"data": ["2021-06-27T03:37:46.399142+00:00", 5097, "Your mother is", "excitable", "Pronunciation: /\u026ak\u02c8sa\u026at\u0259b\u0259l/", "Definition: capable of responding to stimuli", "Synonyms: irritable"]}
