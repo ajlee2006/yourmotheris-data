@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T03:57:46.304740+00:00", 5099, "Your mother is", "romanic", "Pronunciation: /ro\u028a\u02c8m\u00e6n\u026ak/", "Definition: of or relating to or derived from Rome (especially ancient Rome)", "Synonyms: roman"]}
+{"data": ["2021-06-27T04:07:46.227058+00:00", 5100, "Your mother is", "unclad", "Pronunciation: /\u0259n\u02c8kl\u00e6d/", "Definition: having removed clothing", "Synonyms: unappareled, unattired, undressed, ungarbed, ungarmented"]}
