@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T03:07:46.343854+00:00", 5094, "Your mother is", "arthrosporous", "", "Definition: of or relating to arthrospores", "Synonyms: arthrosporic"]}
+{"data": ["2021-06-27T03:17:46.227032+00:00", 5095, "Your mother is", "microcephalous", "", "Definition: having an abnormally small head and underdeveloped brain", "Synonyms: microcephalic, nanocephalic"]}
