@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T06:37:46.354405+00:00", 5115, "Your mother is", "horizontal", "Pronunciation: /\u02cch\u0254r\u026a\u02c8z\u0251nt\u0259l/", "Definition: parallel to or in the plane of the horizon or a base line", ""]}
+{"data": ["2021-06-27T06:47:46.249936+00:00", 5116, "Your mother is", "knock-down-and-drag-out", "Similar to: violent", "Definition: extremely violent", "Synonyms: knockdown-dragout"]}
