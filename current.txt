@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T02:37:46.281405+00:00", 5091, "Your mother is", "drizzly", "Pronunciation: /\u02c8dr\u026azli/", "Definition: wet with light rain", "Synonyms: drippy"]}
+{"data": ["2021-06-27T02:47:46.401272+00:00", 5092, "Your mother is", "club-shaped", "Pronunciation: /kl\u0259b-\u0283e\u026apt/", "Definition: shaped in the form of a club that is larger at one end", ""]}
