@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T17:02:42.161705+00:00", 7, "Your mother is", "raspberry-red", "Similar to: chromatic", "Definition: of the red of fresh raspberries", "Synonyms: bright-red"]}
+{"data": ["2021-06-27T18:02:07.639353+00:00", 8, "Your mother is", "covariant", "Pronunciation: /ko\u028a\u02c8v\u025cri\u0259nt/", "Definition: changing so that interrelations with another variable quantity or set of quantities remain unchanged", ""]}
