@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T03:17:46.227032+00:00", 5095, "Your mother is", "microcephalous", "", "Definition: having an abnormally small head and underdeveloped brain", "Synonyms: microcephalic, nanocephalic"]}
+{"data": ["2021-06-27T03:27:46.342815+00:00", 5096, "Your mother is", "groomed", "Pronunciation: /\u0261rumd/", "Definition: neat and smart in appearance; well cared for", ""]}
