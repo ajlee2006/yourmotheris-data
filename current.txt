@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T19:00:20.470415+00:00", 9, "Your mother is", "untravelled", "Pronunciation: /\u0259n\u02c8tr\u00e6v\u0259ld/", "Definition: not having traveled much, especially to foreign lands; not having gained experience by travel", "Synonyms: untraveled"]}
+{"data": ["2021-06-27T20:01:43.571951+00:00", 10, "Your mother is", "hell-bent", "Pronunciation: /h\u025bl-b\u025bnt/", "Definition: recklessly determined", ""]}
