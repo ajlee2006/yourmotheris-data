@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T04:37:46.328105+00:00", 5103, "Your mother is", "dispirited", "Pronunciation: /d\u026a\u02c8sp\u026ar\u026at\u026ad/", "Definition: marked by low spirits; showing no enthusiasm", "Synonyms: listless"]}
+{"data": ["2021-06-27T04:47:46.209973+00:00", 5104, "Your mother is", "persistent", "Pronunciation: /p\u0259r\u02c8s\u026ast\u0259nt/", "Definition: continually recurring to the mind", "Synonyms: haunting"]}
