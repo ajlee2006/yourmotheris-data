@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T20:01:43.571951+00:00", 10, "Your mother is", "hell-bent", "Pronunciation: /h\u025bl-b\u025bnt/", "Definition: recklessly determined", ""]}
+{"data": ["2021-06-27T21:01:39.298438+00:00", 11, "Your mother is", "low-powered", "Similar to: powerless", "Definition: having little power to do work", ""]}
