@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T09:00:51.663857+00:00", 5118, "Your mother is", "demagogic", "Pronunciation: /\u02ccd\u025bm\u0259\u02c8\u0261\u0251d\u0292\u026ak/", "Definition: characteristic of or resembling a demagogue", "Synonyms: demagogical"]}
+{"data": ["2021-06-27T11:01:57.146161+00:00", 1, "Your mother is", "wicked", "Pronunciation: /\u02c8w\u026ak\u026ad/", "Definition: having committed unrighteous acts", "Synonyms: sinful, unholy"]}
