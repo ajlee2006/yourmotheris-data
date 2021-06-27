@@ -1,1 +1,1 @@
-{"data": ["2021-06-27T00:27:46.609021+00:00", 5078, "Your mother is", "10th", "Similar to: ordinal", "Definition: coming next after the ninth and just before the eleventh in position", "Synonyms: tenth"]}
+{"data": ["2021-06-27T00:37:46.311266+00:00", 5079, "Your mother is", "plausible", "Pronunciation: /\u02c8pl\u0254z\u0259b\u0259l/", "Definition: apparently reasonable and credible, and therefore convincing", ""]}
