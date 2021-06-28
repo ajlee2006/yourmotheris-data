@@ -1,1 +1,1 @@
-{"data": ["2021-06-28T18:04:18.666172+00:00", 26, "Your mother is", "shady", "Pronunciation: /\u02c8\u0283e\u026adi/", "Definition: not as expected", "Synonyms: fishy, funny, suspect, suspicious"]}
+{"data": ["2021-06-28T19:01:53.652829+00:00", 27, "Your mother is", "crosstown", "Pronunciation: /\u02c8kr\u0254s\u02ccta\u028an/", "Definition: going or extending across a town or city", "Synonyms: cross-town"]}
