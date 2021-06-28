@@ -1,1 +1,1 @@
-{"data": ["2021-06-28T15:03:13.949161+00:00", 23, "Your mother is", "dulled", "Pronunciation: /d\u028cld/", "Definition: made dull or blunt", "Synonyms: blunted"]}
+{"data": ["2021-06-28T16:02:44.868954+00:00", 24, "Your mother is", "teensy", "Pronunciation: /\u02c8tinsi/", "Definition: (used informally) very small", "Synonyms: bittie, bitty, itsy-bitsy, itty-bitty, teensy-weensy, teentsy, teeny, teeny-weeny, wee, weensy, weeny"]}
