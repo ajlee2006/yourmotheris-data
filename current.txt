@@ -1,1 +1,1 @@
-{"data": ["2021-06-28T01:01:57.325798+00:00", 15, "Your mother is", "rushlike", "Similar to: grassy", "Definition: resembling rush or sedge", "Synonyms: sedgelike"]}
+{"data": ["2021-06-28T02:03:42.772493+00:00", 16, "Your mother is", "imperative", "Pronunciation: /\u026am\u02c8p\u025br\u0259t\u026av/", "Definition: relating to verbs in the imperative mood", ""]}
