@@ -1,1 +1,1 @@
-{"data": ["2021-06-28T20:00:26.191518+00:00", 28, "Your mother is", "unclad", "Pronunciation: /\u0259n\u02c8kl\u00e6d/", "Definition: having removed clothing", "Synonyms: unappareled, unattired, undressed, ungarbed, ungarmented"]}
+{"data": ["2021-06-28T21:04:25.347051+00:00", 29, "Your mother is", "threadlike", "Similar to: thin", "Definition: thin in diameter; resembling a thread", "Synonyms: filamentlike, filamentous, filiform, thready"]}
