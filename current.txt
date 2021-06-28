@@ -1,1 +1,1 @@
-{"data": ["2021-06-28T22:02:50.895678+00:00", 30, "Your mother is", "plenary", "Pronunciation: /\u02c8plin\u0259ri/", "Definition: full in all respects", ""]}
+{"data": ["2021-06-28T23:04:12.281292+00:00", 31, "Your mother is", "inelaborate", "Similar to: plain", "Definition: not elaborate; lacking rich or complex detail", "Synonyms: unelaborate"]}
