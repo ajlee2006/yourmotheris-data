@@ -1,1 +1,1 @@
-{"data": ["2021-06-28T09:01:49.113793+00:00", 17, "Your mother is", "copulative", "Pronunciation: /\u02c8k\u0251pj\u0259\u02ccle\u026at\u026av/", "Definition: syntactically connecting sentences or elements of a sentence", ""]}
+{"data": ["2021-06-28T10:02:58.280111+00:00", 18, "Your mother is", "awninged", "Similar to: covered", "Definition: covered with an awning", ""]}
