@@ -1,1 +1,1 @@
-{"data": ["2021-06-28T14:02:53.912430+00:00", 22, "Your mother is", "stylized", "Pronunciation: /\u02c8sta\u026a\u02ccla\u026azd/", "Definition: using artistic forms and conventions to create effects; not natural or spontaneous", "Synonyms: conventionalised, conventionalized, stylised"]}
+{"data": ["2021-06-28T15:03:13.949161+00:00", 23, "Your mother is", "dulled", "Pronunciation: /d\u028cld/", "Definition: made dull or blunt", "Synonyms: blunted"]}
