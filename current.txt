@@ -1,1 +1,1 @@
-{"data": ["2021-06-28T00:06:04.133364+00:00", 14, "Your mother is", "sixty-four", "Pronunciation: /\u02c8s\u026aksti-\u02c8fo\u028ar/", "Definition: being four more than sixty", "Synonyms: 64, lxiv"]}
+{"data": ["2021-06-28T01:01:57.325798+00:00", 15, "Your mother is", "rushlike", "Similar to: grassy", "Definition: resembling rush or sedge", "Synonyms: sedgelike"]}
