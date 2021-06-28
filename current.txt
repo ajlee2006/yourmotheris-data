@@ -1,1 +1,1 @@
-{"data": ["2021-06-28T19:01:53.652829+00:00", 27, "Your mother is", "crosstown", "Pronunciation: /\u02c8kr\u0254s\u02ccta\u028an/", "Definition: going or extending across a town or city", "Synonyms: cross-town"]}
+{"data": ["2021-06-28T20:00:26.191518+00:00", 28, "Your mother is", "unclad", "Pronunciation: /\u0259n\u02c8kl\u00e6d/", "Definition: having removed clothing", "Synonyms: unappareled, unattired, undressed, ungarbed, ungarmented"]}
