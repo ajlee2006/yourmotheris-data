@@ -1,1 +1,1 @@
-{"data": ["2021-06-28T13:03:06.837542+00:00", 21, "Your mother is", "bally", "Pronunciation: /b\u00e6lli/", "Definition: informal intensifiers", "Synonyms: blinking, bloody, blooming, crashing, flaming, fucking"]}
+{"data": ["2021-06-28T14:02:53.912430+00:00", 22, "Your mother is", "stylized", "Pronunciation: /\u02c8sta\u026a\u02ccla\u026azd/", "Definition: using artistic forms and conventions to create effects; not natural or spontaneous", "Synonyms: conventionalised, conventionalized, stylised"]}
