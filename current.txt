@@ -1,1 +1,1 @@
-{"data": ["2021-06-28T17:03:40.287464+00:00", 25, "Your mother is", "fluctuating", "Pronunciation: /\u02c8fl\u028ckt\u0283\u028cw\u02cce\u026at\u026a\u014b/", "Definition: having unpredictable ups and downs", ""]}
+{"data": ["2021-06-28T18:04:18.666172+00:00", 26, "Your mother is", "shady", "Pronunciation: /\u02c8\u0283e\u026adi/", "Definition: not as expected", "Synonyms: fishy, funny, suspect, suspicious"]}
