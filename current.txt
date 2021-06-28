@@ -1,1 +1,1 @@
-{"data": ["2021-06-28T16:02:44.868954+00:00", 24, "Your mother is", "teensy", "Pronunciation: /\u02c8tinsi/", "Definition: (used informally) very small", "Synonyms: bittie, bitty, itsy-bitsy, itty-bitty, teensy-weensy, teentsy, teeny, teeny-weeny, wee, weensy, weeny"]}
+{"data": ["2021-06-28T17:03:40.287464+00:00", 25, "Your mother is", "fluctuating", "Pronunciation: /\u02c8fl\u028ckt\u0283\u028cw\u02cce\u026at\u026a\u014b/", "Definition: having unpredictable ups and downs", ""]}
