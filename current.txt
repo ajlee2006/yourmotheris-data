@@ -1,1 +1,1 @@
-{"data": ["2021-06-29T02:04:12.209084+00:00", 34, "Your mother is", "final", "Pronunciation: /\u02c8fa\u026an\u0259l/", "Definition: not to be altered or undone", "Synonyms: last"]}
+{"data": ["2021-06-29T03:03:04.815656+00:00", 35, "Your mother is", "broadnosed", "", "Definition: of or related to New World monkeys having nostrils far apart or to people with broad noses", "Synonyms: platyrhine, platyrhinian, platyrrhine, platyrrhinian, platyrrhinic"]}
