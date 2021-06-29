@@ -1,1 +1,1 @@
-{"data": ["2021-06-29T04:05:02.330769+00:00", 36, "Your mother is", "polysynthetic", "Pronunciation: /\u02ccp\u0251lis\u026an\u02c8\u03b8\u025bt\u026ak/", "Definition: forming derivative or compound words by putting together constituents each of which expresses a single definite meaning", "Synonyms: agglutinative"]}
+{"data": ["2021-06-29T05:04:52.773191+00:00", 37, "Your mother is", "bilaterally symmetrical", "", "Definition: capable of division into symmetrical halves by only one longitudinal plane passing through the axis", "Synonyms: zygomorphic, zygomorphous"]}
