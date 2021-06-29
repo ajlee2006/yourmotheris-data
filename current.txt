@@ -1,1 +1,1 @@
-{"data": ["2021-06-28T23:04:12.281292+00:00", 31, "Your mother is", "inelaborate", "Similar to: plain", "Definition: not elaborate; lacking rich or complex detail", "Synonyms: unelaborate"]}
+{"data": ["2021-06-29T00:04:49.565081+00:00", 32, "Your mother is", "bumptious", "Pronunciation: /\u02c8b\u0259mp\u0283\u0259s/", "Definition: offensively self-assertive", "Synonyms: self-assertive"]}
