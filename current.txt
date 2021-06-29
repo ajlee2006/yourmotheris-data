@@ -1,1 +1,1 @@
-{"data": ["2021-06-29T14:02:56.170459+00:00", 46, "Your mother is", "saprophytic", "Pronunciation: /\u02ccs\u00e6pr\u0259\u02c8f\u026at\u026ak/", "Definition: (of some plants or fungi) feeding on dead or decaying organic matter", ""]}
+{"data": ["2021-06-29T15:04:17.806147+00:00", 47, "Your mother is", "broadleaf", "Pronunciation: /\u02c8br\u0254d\u02cclif/", "Definition: having relatively broad rather than needlelike or scalelike leaves", "Synonyms: broad-leafed, broad-leaved"]}
