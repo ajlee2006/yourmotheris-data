@@ -1,1 +1,1 @@
-{"data": ["2021-06-29T09:03:02.894985+00:00", 41, "Your mother is", "undershot", "Pronunciation: /\u02c8\u0259nd\u0259r\u02cc\u0283\u0251t/", "Definition: having a lower part projecting beyond the upper", "Synonyms: underhung, underslung"]}
+{"data": ["2021-06-29T10:02:35.836477+00:00", 42, "Your mother is", "87", "Similar to: cardinal", "Definition: being seven more than eighty", "Synonyms: eighty-seven, lxxxvii"]}
