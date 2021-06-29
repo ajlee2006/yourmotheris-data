@@ -1,1 +1,1 @@
-{"data": ["2021-06-29T08:03:05.132993+00:00", 40, "Your mother is", "opprobrious", "Pronunciation: /\u0259\u02c8pro\u028abri\u0259s/", "Definition: (used of conduct or character) deserving or bringing disgrace or shame", "Synonyms: black, disgraceful, ignominious, inglorious, shameful"]}
+{"data": ["2021-06-29T09:03:02.894985+00:00", 41, "Your mother is", "undershot", "Pronunciation: /\u02c8\u0259nd\u0259r\u02cc\u0283\u0251t/", "Definition: having a lower part projecting beyond the upper", "Synonyms: underhung, underslung"]}
