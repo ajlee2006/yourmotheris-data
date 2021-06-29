@@ -1,1 +1,1 @@
-{"data": ["2021-06-29T06:03:22.415513+00:00", 38, "Your mother is", "unsubstantiated", "Pronunciation: /\u02cc\u0259ns\u0259b\u02c8st\u00e6n\u0283\u026a\u02cce\u026at\u026ad/", "Definition: unsupported by other evidence", "Synonyms: uncorroborated"]}
+{"data": ["2021-06-29T07:03:37.163891+00:00", 39, "Your mother is", "premonitory", "Pronunciation: /pr\u026a\u02c8m\u0251n\u026a\u02ccto\u028ari/", "Definition: warning of future misfortune", "Synonyms: precursory"]}
