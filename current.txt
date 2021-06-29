@@ -1,1 +1,1 @@
-{"data": ["2021-06-29T11:04:05.689961+00:00", 43, "Your mother is", "thirty-six", "Pronunciation: /\u02c8\u03b8\u025crti-s\u026aks/", "Definition: being six more than thirty", "Synonyms: 36, xxxvi"]}
+{"data": ["2021-06-29T12:01:18.838391+00:00", 44, "Your mother is", "canescent", "Pronunciation: /k\u0259\u02c8n\u025bs\u0259nt/", "Definition: covered with fine whitish hairs or down", "Synonyms: hoary"]}
