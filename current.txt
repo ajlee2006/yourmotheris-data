@@ -1,1 +1,1 @@
-{"data": ["2021-06-29T21:00:52.919651+00:00", 53, "Your mother is", "self-willed", "Pronunciation: /s\u025blf-w\u026ald/", "Definition: habitually disposed to disobedience and opposition", "Synonyms: froward, headstrong, wilful, willful"]}
+{"data": ["2021-06-29T22:02:44.192338+00:00", 54, "Your mother is", "flighted", "Similar to: feathered", "Definition: having feathers", ""]}
