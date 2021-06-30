@@ -1,1 +1,1 @@
-{"data": ["2021-06-30T06:02:47.997976+00:00", 62, "Your mother is", "unidentified", "Pronunciation: /\u02cc\u028cna\u026a\u02c8d\u025bnt\u028c\u02ccfa\u026ad/", "Definition: being or having an unknown or unnamed source", "Synonyms: nameless, unknown, unnamed"]}
+{"data": ["2021-06-30T07:04:06.067439+00:00", 63, "Your mother is", "unimpregnated", "Similar to: infertile", "Definition: not having been fertilized", "Synonyms: unfertilised, unfertilized"]}
