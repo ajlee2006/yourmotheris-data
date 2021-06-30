@@ -1,1 +1,1 @@
-{"data": ["2021-06-30T19:02:41.291953+00:00", 75, "Your mother is", "trifling", "Pronunciation: /\u02c8tra\u026afl\u026a\u014b/", "Definition: not worth considering", "Synonyms: negligible, paltry"]}
+{"data": ["2021-06-30T20:01:32.413013+00:00", 76, "Your mother is", "bacteriologic", "", "Definition: of or relating to bacteriology", "Synonyms: bacteriological"]}
