@@ -1,1 +1,1 @@
-{"data": ["2021-06-30T12:02:02.434878+00:00", 68, "Your mother is", "caesarean", "Pronunciation: /s\u026a\u02c8z\u025cri\u0259n/", "Definition: of or relating to or in the manner of Julius Caesar", "Synonyms: caesarian"]}
+{"data": ["2021-06-30T13:03:19.503128+00:00", 69, "Your mother is", "potbellied", "Pronunciation: /\u02c8p\u0251t\u02ccb\u025blid/", "Definition: having a large belly", "Synonyms: abdominous, paunchy"]}
