@@ -1,1 +1,1 @@
-{"data": ["2021-06-30T08:02:18.479506+00:00", 64, "Your mother is", "discontented", "Pronunciation: /\u02ccd\u026ask\u0259n\u02c8t\u025bnt\u026ad/", "Definition: showing or experiencing dissatisfaction or restless longing", "Synonyms: discontent"]}
+{"data": ["2021-06-30T09:03:30.132987+00:00", 65, "Your mother is", "seventeen", "Pronunciation: /\u02c8s\u025bv\u0259n\u02c8tin/", "Definition: being one more than sixteen", "Synonyms: 17, xvii"]}
