@@ -1,1 +1,1 @@
-{"data": ["2021-06-30T00:04:01.144577+00:00", 56, "Your mother is", "palatial", "Pronunciation: /p\u0259\u02c8le\u026a\u0283\u0259l/", "Definition: suitable for or like a palace", ""]}
+{"data": ["2021-06-30T01:01:05.861377+00:00", 57, "Your mother is", "crass", "Pronunciation: /kr\u00e6s/", "Definition: (of persons) so unrefined as to be lacking in discrimination and sensibility", ""]}
