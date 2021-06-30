@@ -1,1 +1,1 @@
-{"data": ["2021-06-30T02:02:59.453553+00:00", 58, "Your mother is", "heterodox", "Pronunciation: /\u02c8h\u025bt\u0259r\u0259\u02ccd\u0251ks/", "Definition: characterized by departure from accepted beliefs or standards", "Synonyms: dissident, heretical"]}
+{"data": ["2021-06-30T03:03:19.001157+00:00", 59, "Your mother is", "pinnate-leafed", "Similar to: leafy", "Definition: having pinnate leaves", "Synonyms: pinnate-leaved"]}
