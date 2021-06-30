@@ -1,1 +1,1 @@
-{"data": ["2021-06-30T16:04:50.281001+00:00", 72, "Your mother is", "arithmetic", "Pronunciation: /\u02cc\u00e6r\u026a\u03b8\u02c8m\u025bt\u026ak/", "Definition: relating to or involving arithmetic", "Synonyms: arithmetical"]}
+{"data": ["2021-06-30T17:00:28.742593+00:00", 73, "Your mother is", "well-advised", "Pronunciation: /w\u025bl-\u00e6d\u02c8va\u026azd/", "Definition: having the benefit of careful prior consideration or counsel", "Synonyms: advised"]}
