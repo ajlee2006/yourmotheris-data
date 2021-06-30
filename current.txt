@@ -1,1 +1,1 @@
-{"data": ["2021-06-30T05:03:34.269804+00:00", 61, "Your mother is", "pro tempore", "Pronunciation: /pro\u028a-\u02c8t\u025bmp\u0259ri/", "Definition: for the time being", "Synonyms: pro tem"]}
+{"data": ["2021-06-30T06:02:47.997976+00:00", 62, "Your mother is", "unidentified", "Pronunciation: /\u02cc\u028cna\u026a\u02c8d\u025bnt\u028c\u02ccfa\u026ad/", "Definition: being or having an unknown or unnamed source", "Synonyms: nameless, unknown, unnamed"]}
