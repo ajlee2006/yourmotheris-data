@@ -1,1 +1,1 @@
-{"data": ["2021-06-30T20:01:32.413013+00:00", 76, "Your mother is", "bacteriologic", "", "Definition: of or relating to bacteriology", "Synonyms: bacteriological"]}
+{"data": ["2021-06-30T21:02:59.179419+00:00", 77, "Your mother is", "dried-out", "Similar to: dry", "Definition: thoroughly dried out", "Synonyms: desiccated"]}
