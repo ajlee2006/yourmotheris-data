@@ -1,1 +1,1 @@
-{"data": ["2021-06-29T23:04:29.642987+00:00", 55, "Your mother is", "recumbent", "Pronunciation: /r\u026a\u02c8k\u0259mb\u0259nt/", "Definition: lying down; in a position of comfort or rest", "Synonyms: accumbent, decumbent"]}
+{"data": ["2021-06-30T00:04:01.144577+00:00", 56, "Your mother is", "palatial", "Pronunciation: /p\u0259\u02c8le\u026a\u0283\u0259l/", "Definition: suitable for or like a palace", ""]}
