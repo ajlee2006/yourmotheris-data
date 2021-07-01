@@ -1,1 +1,1 @@
-{"data": ["2021-06-30T23:04:21.054350+00:00", 79, "Your mother is", "chipper", "Pronunciation: /\u02c8\u02a7\u026ap\u0259r/", "Definition: having a cheerful, lively, and self-confident air", "Synonyms: debonair, debonaire, jaunty"]}
+{"data": ["2021-07-01T00:06:30.807854+00:00", 80, "Your mother is", "gentle", "Pronunciation: /\u02c8d\u0292\u025bnt\u0259l/", "Definition: marked by moderate steepness", "Synonyms: easy"]}
