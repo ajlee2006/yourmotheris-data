@@ -1,1 +1,1 @@
-{"data": ["2021-07-01T16:03:56.615544+00:00", 96, "Your mother is", "neuronic", "Pronunciation: /n\u028a\u02c8r\u0251n\u026ak/", "Definition: of or relating to neurons", "Synonyms: neural, neuronal"]}
+{"data": ["2021-07-01T17:02:56.421994+00:00", 97, "Your mother is", "glued", "Pronunciation: /\u0261lud/", "Definition: affixed or as if affixed with glue or paste", "Synonyms: pasted"]}
