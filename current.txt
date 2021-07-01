@@ -1,1 +1,1 @@
-{"data": ["2021-07-01T22:02:52.319518+00:00", 102, "Your mother is", "akin", "Pronunciation: /\u0259\u02c8k\u026an/", "Definition: similar in quality or character", "Synonyms: kindred"]}
+{"data": ["2021-07-01T23:04:17.399194+00:00", 103, "Your mother is", "sound asleep", "Pronunciation: /sa\u028and-\u0259\u02c8slip/", "Definition: sleeping deeply", "Synonyms: fast asleep"]}
