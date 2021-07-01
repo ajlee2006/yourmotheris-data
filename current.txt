@@ -1,1 +1,1 @@
-{"data": ["2021-07-01T05:01:13.038974+00:00", 85, "Your mother is", "conceptual", "Pronunciation: /k\u0259n\u02c8s\u025bp\u02a7u\u0259l/", "Definition: being or characterized by concepts or their formation", ""]}
+{"data": ["2021-07-01T06:04:04.932389+00:00", 86, "Your mother is", "drug-addicted", "Pronunciation: /dr\u0259g-\u0259\u02c8d\u026akt\u026ad/", "Definition: addicted to a drug", "Synonyms: dependant, dependent, hooked, strung-out"]}
