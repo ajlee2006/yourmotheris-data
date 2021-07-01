@@ -1,1 +1,1 @@
-{"data": ["2021-07-01T00:06:30.807854+00:00", 80, "Your mother is", "gentle", "Pronunciation: /\u02c8d\u0292\u025bnt\u0259l/", "Definition: marked by moderate steepness", "Synonyms: easy"]}
+{"data": ["2021-07-01T01:05:12.240263+00:00", 81, "Your mother is", "43rd", "Similar to: ordinal", "Definition: the ordinal number of forty-three in counting order", "Synonyms: forty-third"]}
