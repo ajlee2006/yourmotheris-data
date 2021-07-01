@@ -1,1 +1,1 @@
-{"data": ["2021-07-01T03:03:03.315624+00:00", 83, "Your mother is", "human-centred", "Similar to: humane", "Definition: marked by humanistic values and devotion to human welfare", "Synonyms: human-centered, humanist, humanistic, humanitarian"]}
+{"data": ["2021-07-01T04:04:56.564004+00:00", 84, "Your mother is", "iron", "Pronunciation: /\u02c8a\u026a\u0259rn/", "Definition: extremely robust", "Synonyms: cast-iron"]}
