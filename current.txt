@@ -1,1 +1,1 @@
-{"data": ["2021-07-01T18:03:11.924438+00:00", 98, "Your mother is", "travelable", "Similar to: passable", "Definition: capable of being traversed", "Synonyms: traversable"]}
+{"data": ["2021-07-01T19:02:07.608071+00:00", 99, "Your mother is", "psychoneurotic", "Pronunciation: /\u02ccsa\u026ako\u028an\u028a\u02c8r\u0251t\u026ak/", "Definition: affected with emotional disorder", "Synonyms: neurotic"]}
