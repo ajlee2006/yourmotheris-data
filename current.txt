@@ -1,1 +1,1 @@
-{"data": ["2021-07-01T08:03:29.542474+00:00", 88, "Your mother is", "brightly-coloured", "Similar to: colored", "Definition: having a bright color", "Synonyms: brightly-colored"]}
+{"data": ["2021-07-01T09:04:24.465744+00:00", 89, "Your mother is", "solid-hoofed", "Pronunciation: /\u02c8s\u0251l\u026ad-h\u028aft/", "Definition: having solid hooves", ""]}
