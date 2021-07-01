@@ -1,1 +1,1 @@
-{"data": ["2021-07-01T01:05:12.240263+00:00", 81, "Your mother is", "43rd", "Similar to: ordinal", "Definition: the ordinal number of forty-three in counting order", "Synonyms: forty-third"]}
+{"data": ["2021-07-01T02:02:20.787544+00:00", 82, "Your mother is", "unornamented", "Pronunciation: /\u0259n\u02c8o\u028arn\u0259\u02ccm\u025bnt\u026ad/", "Definition: lacking embellishment or ornamentation", "Synonyms: bare, plain, spare, unembellished"]}
