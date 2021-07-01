@@ -1,1 +1,1 @@
-{"data": ["2021-07-01T11:04:29.358323+00:00", 91, "Your mother is", "unvanquished", "Pronunciation: /\u0259n\u02c8v\u00e6\u014bkw\u026a\u0283t/", "Definition: not conquered", "Synonyms: unbeaten, unconquered"]}
+{"data": ["2021-07-01T12:03:27.996715+00:00", 92, "Your mother is", "fair", "Pronunciation: /f\u025cr/", "Definition: (of a manuscript) having few alterations or corrections", "Synonyms: clean"]}
