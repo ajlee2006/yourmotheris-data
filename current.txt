@@ -1,1 +1,1 @@
-{"data": ["2021-07-01T09:04:24.465744+00:00", 89, "Your mother is", "solid-hoofed", "Pronunciation: /\u02c8s\u0251l\u026ad-h\u028aft/", "Definition: having solid hooves", ""]}
+{"data": ["2021-07-01T10:02:31.904735+00:00", 90, "Your mother is", "dissenting", "Pronunciation: /d\u026a\u02c8s\u025bnt\u026a\u014b/", "Definition: disagreeing, especially with a majority", "Synonyms: dissentient, dissident"]}
