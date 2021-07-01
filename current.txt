@@ -1,1 +1,1 @@
-{"data": ["2021-07-01T02:02:20.787544+00:00", 82, "Your mother is", "unornamented", "Pronunciation: /\u0259n\u02c8o\u028arn\u0259\u02ccm\u025bnt\u026ad/", "Definition: lacking embellishment or ornamentation", "Synonyms: bare, plain, spare, unembellished"]}
+{"data": ["2021-07-01T03:03:03.315624+00:00", 83, "Your mother is", "human-centred", "Similar to: humane", "Definition: marked by humanistic values and devotion to human welfare", "Synonyms: human-centered, humanist, humanistic, humanitarian"]}
