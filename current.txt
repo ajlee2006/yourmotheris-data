@@ -1,1 +1,1 @@
-{"data": ["2021-07-02T09:03:27.555467+00:00", 113, "Your mother is", "short-tempered", "Pronunciation: /\u0283\u0254rt-\u02c8t\u025bmp\u0259rd/", "Definition: quickly aroused to anger", "Synonyms: choleric, hot-tempered, hotheaded, irascible, quick-tempered"]}
+{"data": ["2021-07-02T10:04:06.425462+00:00", 114, "Your mother is", "adamant", "Pronunciation: /\u02c8\u00e6d\u0259m\u0259nt/", "Definition: impervious to pleas, persuasion, requests, reason", "Synonyms: adamantine, inexorable, intransigent"]}
