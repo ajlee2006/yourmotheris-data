@@ -1,1 +1,1 @@
-{"data": ["2021-07-02T10:04:06.425462+00:00", 114, "Your mother is", "adamant", "Pronunciation: /\u02c8\u00e6d\u0259m\u0259nt/", "Definition: impervious to pleas, persuasion, requests, reason", "Synonyms: adamantine, inexorable, intransigent"]}
+{"data": ["2021-07-02T11:02:41.192530+00:00", 115, "Your mother is", "lexicalised", "", "Definition: expressed by a word", "Synonyms: lexicalized"]}
