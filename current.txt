@@ -1,1 +1,1 @@
-{"data": ["2021-07-02T19:01:49.524902+00:00", 123, "Your mother is", "small-minded", "Pronunciation: /\u02c8sm\u0254l\u02c8ma\u026and\u026ad/", "Definition: contemptibly narrow in outlook", "Synonyms: petty"]}
+{"data": ["2021-07-02T20:01:19.621722+00:00", 124, "Your mother is", "trusting", "Pronunciation: /\u02c8tr\u0259st\u026a\u014b/", "Definition: inclined to believe or confide readily; full of trust", "Synonyms: trustful"]}
