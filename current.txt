@@ -1,1 +1,1 @@
-{"data": ["2021-07-02T06:03:01.962985+00:00", 110, "Your mother is", "retaliative", "Similar to: punitive", "Definition: of or relating to or having the nature of retribution", "Synonyms: retaliatory, retributive, retributory, vindicatory"]}
+{"data": ["2021-07-02T07:02:51.570362+00:00", 111, "Your mother is", "unassisted", "Pronunciation: /\u02cc\u0259n\u0259\u02c8s\u026ast\u026ad/", "Definition: unsupported by other people", "Synonyms: single-handed, unbacked"]}
