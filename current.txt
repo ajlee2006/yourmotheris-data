@@ -1,1 +1,1 @@
-{"data": ["2021-07-02T08:04:43.248642+00:00", 112, "Your mother is", "birchen", "Pronunciation: /\u02c8b\u025cr\u02a7\u0259n/", "Definition: consisting of or made of wood of the birch tree", "Synonyms: birch, birken"]}
+{"data": ["2021-07-02T09:03:27.555467+00:00", 113, "Your mother is", "short-tempered", "Pronunciation: /\u0283\u0254rt-\u02c8t\u025bmp\u0259rd/", "Definition: quickly aroused to anger", "Synonyms: choleric, hot-tempered, hotheaded, irascible, quick-tempered"]}
