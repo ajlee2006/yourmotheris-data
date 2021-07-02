@@ -1,1 +1,1 @@
-{"data": ["2021-07-02T12:03:15.060402+00:00", 116, "Your mother is", "identifiable", "Pronunciation: /a\u026a\u02c8d\u025bnt\u028c\u02ccfa\u026a\u028cb\u028cl/", "Definition: capable of being identified", ""]}
+{"data": ["2021-07-02T13:02:23.540070+00:00", 117, "Your mother is", "withering", "Pronunciation: /\u02c8w\u026a\u00f0\u025dr\u026a\u014b/", "Definition: making light of", "Synonyms: annihilating, devastating"]}
