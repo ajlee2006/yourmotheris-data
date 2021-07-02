@@ -1,1 +1,1 @@
-{"data": ["2021-07-02T20:01:19.621722+00:00", 124, "Your mother is", "trusting", "Pronunciation: /\u02c8tr\u0259st\u026a\u014b/", "Definition: inclined to believe or confide readily; full of trust", "Synonyms: trustful"]}
+{"data": ["2021-07-02T21:02:11.318987+00:00", 125, "Your mother is", "short-bodied", "Similar to: bodied", "Definition: having a relatively short body", ""]}
