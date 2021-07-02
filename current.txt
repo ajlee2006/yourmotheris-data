@@ -1,1 +1,1 @@
-{"data": ["2021-07-02T18:02:50.736056+00:00", 122, "Your mother is", "cypriot", "Pronunciation: /\u02c8s\u026apri\u0259t/", "Definition: of or relating to Cyprus or its people or culture", "Synonyms: cyprian, cypriote"]}
+{"data": ["2021-07-02T19:01:49.524902+00:00", 123, "Your mother is", "small-minded", "Pronunciation: /\u02c8sm\u0254l\u02c8ma\u026and\u026ad/", "Definition: contemptibly narrow in outlook", "Synonyms: petty"]}
