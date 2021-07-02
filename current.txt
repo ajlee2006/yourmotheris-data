@@ -1,1 +1,1 @@
-{"data": ["2021-07-02T11:02:41.192530+00:00", 115, "Your mother is", "lexicalised", "", "Definition: expressed by a word", "Synonyms: lexicalized"]}
+{"data": ["2021-07-02T12:03:15.060402+00:00", 116, "Your mother is", "identifiable", "Pronunciation: /a\u026a\u02c8d\u025bnt\u028c\u02ccfa\u026a\u028cb\u028cl/", "Definition: capable of being identified", ""]}
