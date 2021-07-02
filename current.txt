@@ -1,1 +1,1 @@
-{"data": ["2021-07-01T23:04:17.399194+00:00", 103, "Your mother is", "sound asleep", "Pronunciation: /sa\u028and-\u0259\u02c8slip/", "Definition: sleeping deeply", "Synonyms: fast asleep"]}
+{"data": ["2021-07-02T00:03:58.896699+00:00", 104, "Your mother is", "three-dimensional", "Similar to: multidimensional", "Definition: involving or relating to three dimensions or aspects; giving the illusion of depth", "Synonyms: 3-dimensional, third-dimensional, three-d"]}
