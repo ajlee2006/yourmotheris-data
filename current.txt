@@ -1,1 +1,1 @@
-{"data": ["2021-07-02T04:04:14.795298+00:00", 108, "Your mother is", "avowed", "Pronunciation: /\u0259\u02c8va\u028ad/", "Definition: openly declared as such", "Synonyms: professed"]}
+{"data": ["2021-07-02T05:04:29.182104+00:00", 109, "Your mother is", "tannish", "Similar to: chromatic", "Definition: of a color resembling tan", ""]}
