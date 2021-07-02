@@ -1,1 +1,1 @@
-{"data": ["2021-07-02T17:01:56.148112+00:00", 121, "Your mother is", "dashing", "Pronunciation: /\u02c8d\u00e6\u0283\u026a\u014b/", "Definition: lively and spirited", "Synonyms: gallant"]}
+{"data": ["2021-07-02T18:02:50.736056+00:00", 122, "Your mother is", "cypriot", "Pronunciation: /\u02c8s\u026apri\u0259t/", "Definition: of or relating to Cyprus or its people or culture", "Synonyms: cyprian, cypriote"]}
