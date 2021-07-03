@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T16:01:51.614748+00:00", 144, "Your mother is", "supposed", "Pronunciation: /s\u0259\u02c8po\u028azd/", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetic, hypothetical, suppositional, suppositious, supposititious"]}
+{"data": ["2021-07-03T17:01:56.473361+00:00", 145, "Your mother is", "crapulent", "Pronunciation: /\u02c8kr\u00e6pj\u028al\u0259nt/", "Definition: suffering from excessive eating or drinking", "Synonyms: crapulous"]}
