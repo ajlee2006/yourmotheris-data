@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T10:04:20.361020+00:00", 138, "Your mother is", "authorial", "Pronunciation: /\u0254\u02c8\u03b8o\u028ari\u0259l/", "Definition: of or by or typical of an author", "Synonyms: auctorial"]}
+{"data": ["2021-07-03T11:00:40.853823+00:00", 139, "Your mother is", "algophobic", "Similar to: afraid", "Definition: suffering from algophobia; abnormally afraid of pain", ""]}
