@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T17:01:56.473361+00:00", 145, "Your mother is", "crapulent", "Pronunciation: /\u02c8kr\u00e6pj\u028al\u0259nt/", "Definition: suffering from excessive eating or drinking", "Synonyms: crapulous"]}
+{"data": ["2021-07-03T18:00:27.741644+00:00", 146, "Your mother is", "strikebound", "Pronunciation: /\u02c8stra\u026ak\u02ccba\u028and/", "Definition: closed or immobilized by a strike", ""]}
