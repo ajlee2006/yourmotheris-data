@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T05:03:14.449851+00:00", 133, "Your mother is", "momentaneous", "Similar to: short", "Definition: lasting for a markedly brief time", "Synonyms: fleeting, fugitive, momentary"]}
+{"data": ["2021-07-03T06:02:36.935001+00:00", 134, "Your mother is", "crystallized", "Pronunciation: /\u02c8kr\u026ast\u028c\u02ccla\u026azd/", "Definition: having both internal structure and external form of a crystal", "Synonyms: crystalised"]}
