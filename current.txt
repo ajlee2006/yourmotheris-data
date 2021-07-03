@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T09:02:14.378901+00:00", 137, "Your mother is", "complete", "Pronunciation: /k\u0259m\u02c8plit/", "Definition: without qualification; used informally as (often pejorative) intensifiers", "Synonyms: arrant, consummate, double-dyed, everlasting, gross, perfect, pure, sodding, staring, stark, thorough, thoroughgoing, unadulterated, utter"]}
+{"data": ["2021-07-03T10:04:20.361020+00:00", 138, "Your mother is", "authorial", "Pronunciation: /\u0254\u02c8\u03b8o\u028ari\u0259l/", "Definition: of or by or typical of an author", "Synonyms: auctorial"]}
