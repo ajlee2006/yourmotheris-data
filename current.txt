@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T13:03:02.719494+00:00", 141, "Your mother is", "unfruitful", "Pronunciation: /\u0259n\u02c8frutf\u0259l/", "Definition: not fruitful; not conducive to abundant production", ""]}
+{"data": ["2021-07-03T14:01:45.494981+00:00", 142, "Your mother is", "clouded", "Pronunciation: /\u02c8kla\u028ad\u026ad/", "Definition: unclear in form or expression", "Synonyms: blurred"]}
