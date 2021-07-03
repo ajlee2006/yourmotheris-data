@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T07:02:46.929337+00:00", 135, "Your mother is", "laid-off", "Similar to: unemployed", "Definition: having lost your job", "Synonyms: discharged, dismissed, fired, pink-slipped"]}
+{"data": ["2021-07-03T08:03:02.459554+00:00", 136, "Your mother is", "salt-cured", "Similar to: preserved", "Definition: (used especially of meats) preserved in salt", "Synonyms: brine-cured, salted"]}
