@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T12:01:55.878465+00:00", 140, "Your mother is", "joyless", "Pronunciation: /\u02c8d\u0292\u0254\u026al\u026as/", "Definition: not experiencing or inspiring joy", ""]}
+{"data": ["2021-07-03T13:03:02.719494+00:00", 141, "Your mother is", "unfruitful", "Pronunciation: /\u0259n\u02c8frutf\u0259l/", "Definition: not fruitful; not conducive to abundant production", ""]}
