@@ -1,1 +1,1 @@
-{"data": ["2021-07-02T23:02:56.122088+00:00", 127, "Your mother is", "trackless", "Pronunciation: /\u02c8tr\u00e6kl\u026as/", "Definition: lacking pathways", "Synonyms: pathless, roadless, untracked, untrod, untrodden"]}
+{"data": ["2021-07-03T00:05:57.546132+00:00", 128, "Your mother is", "impious", "Pronunciation: /\u02c8\u026ampi\u0259s/", "Definition: lacking due respect or dutifulness", "Synonyms: undutiful"]}
