@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T15:03:08.776900+00:00", 143, "Your mother is", "inconsiderate", "Pronunciation: /\u02cc\u026ank\u0259n\u02c8s\u026ad\u0259r\u026at/", "Definition: without proper consideration or reflection", "Synonyms: unconsidered"]}
+{"data": ["2021-07-03T16:01:51.614748+00:00", 144, "Your mother is", "supposed", "Pronunciation: /s\u0259\u02c8po\u028azd/", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetic, hypothetical, suppositional, suppositious, supposititious"]}
