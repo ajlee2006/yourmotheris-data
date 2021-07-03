@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T02:02:41.797070+00:00", 130, "Your mother is", "fatherly", "Pronunciation: /\u02c8f\u0251\u00f0\u0259rli/", "Definition: like or befitting a father or fatherhood; kind and protective", "Synonyms: fatherlike"]}
+{"data": ["2021-07-03T03:03:38.436721+00:00", 131, "Your mother is", "trapped", "Pronunciation: /tr\u00e6pt/", "Definition: forced to turn and face attackers", "Synonyms: at bay, cornered, treed"]}
