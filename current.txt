@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T01:02:06.032562+00:00", 129, "Your mother is", "lemon-scented", "Similar to: odorous", "Definition: smelling of lemons", ""]}
+{"data": ["2021-07-03T02:02:41.797070+00:00", 130, "Your mother is", "fatherly", "Pronunciation: /\u02c8f\u0251\u00f0\u0259rli/", "Definition: like or befitting a father or fatherhood; kind and protective", "Synonyms: fatherlike"]}
