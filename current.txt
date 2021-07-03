@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T21:04:24.541130+00:00", 149, "Your mother is", "illicit", "Pronunciation: /\u026a\u02c8l\u026as\u026at/", "Definition: contrary to or forbidden by law", "Synonyms: illegitimate, outlaw, outlawed, unlawful"]}
+{"data": ["2021-07-03T22:01:49.818067+00:00", 150, "Your mother is", "inferential", "Pronunciation: /\u02cc\u026anf\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: relating to or having the nature of illation or inference", "Synonyms: illative"]}
