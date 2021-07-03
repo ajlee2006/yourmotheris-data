@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T03:03:38.436721+00:00", 131, "Your mother is", "trapped", "Pronunciation: /tr\u00e6pt/", "Definition: forced to turn and face attackers", "Synonyms: at bay, cornered, treed"]}
+{"data": ["2021-07-03T04:03:44.823958+00:00", 132, "Your mother is", "aseptic", "Pronunciation: /\u0259\u02c8s\u025bpt\u026ak/", "Definition: free of or using methods to keep free of pathological microorganisms", "Synonyms: sterile"]}
