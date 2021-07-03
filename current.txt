@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T04:03:44.823958+00:00", 132, "Your mother is", "aseptic", "Pronunciation: /\u0259\u02c8s\u025bpt\u026ak/", "Definition: free of or using methods to keep free of pathological microorganisms", "Synonyms: sterile"]}
+{"data": ["2021-07-03T05:03:14.449851+00:00", 133, "Your mother is", "momentaneous", "Similar to: short", "Definition: lasting for a markedly brief time", "Synonyms: fleeting, fugitive, momentary"]}
