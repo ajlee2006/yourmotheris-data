@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T06:02:36.935001+00:00", 134, "Your mother is", "crystallized", "Pronunciation: /\u02c8kr\u026ast\u028c\u02ccla\u026azd/", "Definition: having both internal structure and external form of a crystal", "Synonyms: crystalised"]}
+{"data": ["2021-07-03T07:02:46.929337+00:00", 135, "Your mother is", "laid-off", "Similar to: unemployed", "Definition: having lost your job", "Synonyms: discharged, dismissed, fired, pink-slipped"]}
