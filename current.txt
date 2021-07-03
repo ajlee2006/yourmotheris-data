@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T18:00:27.741644+00:00", 146, "Your mother is", "strikebound", "Pronunciation: /\u02c8stra\u026ak\u02ccba\u028and/", "Definition: closed or immobilized by a strike", ""]}
+{"data": ["2021-07-03T19:03:41.498172+00:00", 147, "Your mother is", "chlorophyllose", "Pronunciation: /\u02ccklo\u028ar\u0259\u02c8f\u026alo\u028as/", "Definition: relating to or being or containing chlorophyll", "Synonyms: chlorophyllous"]}
