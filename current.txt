@@ -1,1 +1,1 @@
-{"data": ["2021-07-04T18:01:13.006641+00:00", 170, "Your mother is", "understaffed", "Pronunciation: /\u02cc\u0259nd\u0259r\u02c8st\u00e6ft/", "Definition: inadequate in number of workers or assistants etc.", "Synonyms: short-handed, short-staffed, undermanned"]}
+{"data": ["2021-07-04T19:02:57.209213+00:00", 171, "Your mother is", "calm", "Pronunciation: /k\u0251m/", "Definition: not agitated; without losing self-possession", "Synonyms: serene, tranquil, unagitated"]}
