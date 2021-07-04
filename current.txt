@@ -1,1 +1,1 @@
-{"data": ["2021-07-04T13:04:06.376452+00:00", 165, "Your mother is", "unrivaled", "Pronunciation: /\u0259n\u02c8ra\u026av\u0259ld/", "Definition: eminent beyond or above comparison", "Synonyms: matchless, nonpareil, one, one and only, peerless, unmatchable, unmatched, unrivalled"]}
+{"data": ["2021-07-04T14:01:32.890913+00:00", 166, "Your mother is", "spinose", "Pronunciation: /\u02c8spa\u026ano\u028as/", "Definition: having spines", ""]}
