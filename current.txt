@@ -1,1 +1,1 @@
-{"data": ["2021-07-04T17:01:06.937026+00:00", 169, "Your mother is", "albinal", "Pronunciation: /\u02c8\u00e6lb\u0259n\u0259l/", "Definition: of or pertaining to or affected by albinism", "Synonyms: albinic, albinistic, albinotic"]}
+{"data": ["2021-07-04T18:01:13.006641+00:00", 170, "Your mother is", "understaffed", "Pronunciation: /\u02cc\u0259nd\u0259r\u02c8st\u00e6ft/", "Definition: inadequate in number of workers or assistants etc.", "Synonyms: short-handed, short-staffed, undermanned"]}
