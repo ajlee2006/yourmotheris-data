@@ -1,1 +1,1 @@
-{"data": ["2021-07-04T19:02:57.209213+00:00", 171, "Your mother is", "calm", "Pronunciation: /k\u0251m/", "Definition: not agitated; without losing self-possession", "Synonyms: serene, tranquil, unagitated"]}
+{"data": ["2021-07-04T20:01:08.666448+00:00", 172, "Your mother is", "bleached", "Pronunciation: /blit\u0283t/", "Definition: (used of color) artificially produced; not natural", "Synonyms: colored, coloured, dyed"]}
