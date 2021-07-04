@@ -1,1 +1,1 @@
-{"data": ["2021-07-04T01:04:22.084931+00:00", 153, "Your mother is", "hole-and-corner", "Pronunciation: /\u02c8ho\u028al\u0259n-\u02c8k\u0254rn\u0259r/", "Definition: relating to the peripheral and unimportant aspects of life", "Synonyms: hole-in-corner"]}
+{"data": ["2021-07-04T02:04:19.347480+00:00", 154, "Your mother is", "liveable", "Pronunciation: /\u02c8l\u026av\u0259b\u0259l/", "Definition: fit or suitable to live in or with", "Synonyms: livable"]}
