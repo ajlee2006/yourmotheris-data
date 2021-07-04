@@ -1,1 +1,1 @@
-{"data": ["2021-07-03T23:01:55.651527+00:00", 151, "Your mother is", "cautionary", "Pronunciation: /\u02c8k\u0254\u0283\u0259\u02ccn\u025bri/", "Definition: warding off", "Synonyms: prophylactic"]}
+{"data": ["2021-07-04T00:05:02.659176+00:00", 152, "Your mother is", "kinesthetic", "Pronunciation: /\u02cck\u026an\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: of or relating to kinesthesis", "Synonyms: kinaesthetic"]}
