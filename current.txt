@@ -1,1 +1,1 @@
-{"data": ["2021-07-04T20:01:08.666448+00:00", 172, "Your mother is", "bleached", "Pronunciation: /blit\u0283t/", "Definition: (used of color) artificially produced; not natural", "Synonyms: colored, coloured, dyed"]}
+{"data": ["2021-07-04T21:00:30.538642+00:00", 173, "Your mother is", "cxlv", "Similar to: cardinal", "Definition: being five more than one hundred forty", "Synonyms: 145, one hundred forty-five"]}
