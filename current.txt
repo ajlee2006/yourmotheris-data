@@ -1,1 +1,1 @@
-{"data": ["2021-07-04T08:02:34.086919+00:00", 160, "Your mother is", "springlike", "Similar to: elastic", "Definition: resembling a spring or the action of a spring", ""]}
+{"data": ["2021-07-04T09:02:43.586725+00:00", 161, "Your mother is", "certified", "Pronunciation: /\u02c8s\u025crt\u0259\u02ccfa\u026ad/", "Definition: holding appropriate documentation and officially on record as qualified to perform a specified function or practice a specified skill", "Synonyms: qualified"]}
