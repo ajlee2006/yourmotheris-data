@@ -1,1 +1,1 @@
-{"data": ["2021-07-04T06:02:41.881996+00:00", 158, "Your mother is", "mealymouthed", "Pronunciation: /\u02ccmili\u02c8m\u00e6\u028a\u00f0d/", "Definition: hesitant to state facts or opinions simply and directly as from e.g. timidity or hypocrisy", "Synonyms: mealy-mouthed"]}
+{"data": ["2021-07-04T07:03:01.297686+00:00", 159, "Your mother is", "administrable", "Similar to: manageable", "Definition: capable of being administered or managed", ""]}
