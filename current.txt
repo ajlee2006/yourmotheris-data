@@ -1,1 +1,1 @@
-{"data": ["2021-07-04T00:05:02.659176+00:00", 152, "Your mother is", "kinesthetic", "Pronunciation: /\u02cck\u026an\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: of or relating to kinesthesis", "Synonyms: kinaesthetic"]}
+{"data": ["2021-07-04T01:04:22.084931+00:00", 153, "Your mother is", "hole-and-corner", "Pronunciation: /\u02c8ho\u028al\u0259n-\u02c8k\u0254rn\u0259r/", "Definition: relating to the peripheral and unimportant aspects of life", "Synonyms: hole-in-corner"]}
