@@ -1,1 +1,1 @@
-{"data": ["2021-07-04T15:02:42.351092+00:00", 167, "Your mother is", "woodsy", "Pronunciation: /\u02c8w\u028adzi/", "Definition: abounding in trees", "Synonyms: arboraceous, arboreous, woody"]}
+{"data": ["2021-07-04T16:01:21.879464+00:00", 168, "Your mother is", "demythologized", "Similar to: rational", "Definition: having mythical elements removed", "Synonyms: demythologised"]}
