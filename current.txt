@@ -1,1 +1,1 @@
-{"data": ["2021-07-04T14:01:32.890913+00:00", 166, "Your mother is", "spinose", "Pronunciation: /\u02c8spa\u026ano\u028as/", "Definition: having spines", ""]}
+{"data": ["2021-07-04T15:02:42.351092+00:00", 167, "Your mother is", "woodsy", "Pronunciation: /\u02c8w\u028adzi/", "Definition: abounding in trees", "Synonyms: arboraceous, arboreous, woody"]}
