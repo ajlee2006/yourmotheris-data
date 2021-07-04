@@ -1,1 +1,1 @@
-{"data": ["2021-07-04T02:04:19.347480+00:00", 154, "Your mother is", "liveable", "Pronunciation: /\u02c8l\u026av\u0259b\u0259l/", "Definition: fit or suitable to live in or with", "Synonyms: livable"]}
+{"data": ["2021-07-04T03:02:55.497323+00:00", 155, "Your mother is", "aspiring", "Pronunciation: /\u028c\u02c8spa\u026ar\u026a\u014b/", "Definition: desiring or striving for recognition or advancement", "Synonyms: aspirant, wishful"]}
