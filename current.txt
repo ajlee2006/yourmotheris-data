@@ -1,1 +1,1 @@
-{"data": ["2021-07-05T11:02:57.799545+00:00", 187, "Your mother is", "protrusive", "Pronunciation: /pro\u028a\u02c8trus\u026av/", "Definition: thrusting outward", ""]}
+{"data": ["2021-07-05T12:04:38.249525+00:00", 188, "Your mother is", "kosher", "Pronunciation: /\u02c8ko\u028a\u0283\u0259r/", "Definition: conforming to dietary laws", "Synonyms: cosher"]}
