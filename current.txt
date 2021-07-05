@@ -1,1 +1,1 @@
-{"data": ["2021-07-05T05:01:24.538079+00:00", 181, "Your mother is", "rightist", "Pronunciation: /\u02c8ra\u026at\u026ast/", "Definition: believing in or supporting tenets of the political right", "Synonyms: right-wing"]}
+{"data": ["2021-07-05T06:02:25.101839+00:00", 182, "Your mother is", "66", "Similar to: cardinal", "Definition: being six more than sixty", "Synonyms: lxvi, sixty-six"]}
