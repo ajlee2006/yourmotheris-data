@@ -1,1 +1,1 @@
-{"data": ["2021-07-05T21:02:09.678959+00:00", 197, "Your mother is", "bilgy", "Pronunciation: /\u02c8b\u026ald\u0292i/", "Definition: smelling like bilge water", ""]}
+{"data": ["2021-07-05T22:00:35.026835+00:00", 198, "Your mother is", "ghanian", "Pronunciation: /\u02c8\u0261\u0251ni\u0259n/", "Definition: of or relating to or characteristic of Ghana or its people or language", "Synonyms: ghanaian, ghanese"]}
