@@ -1,1 +1,1 @@
-{"data": ["2021-07-05T02:02:34.879906+00:00", 178, "Your mother is", "unmapped", "Similar to: unknown", "Definition: (of unknown regions) not yet surveyed or investigated", "Synonyms: chartless, uncharted"]}
+{"data": ["2021-07-05T03:01:29.074734+00:00", 179, "Your mother is", "goodish", "Pronunciation: /\u02c8\u0261\u028ad\u026a\u0283/", "Definition: large in amount or extent or degree", "Synonyms: goodly, healthy, hefty, respectable, sizable, sizeable, tidy"]}
