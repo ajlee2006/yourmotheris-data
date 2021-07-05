@@ -1,1 +1,1 @@
-{"data": ["2021-07-05T10:01:23.361914+00:00", 186, "Your mother is", "recovered", "Pronunciation: /r\u028c\u02c8k\u028cv\u025drd/", "Definition: freed from illness or injury", "Synonyms: cured, healed"]}
+{"data": ["2021-07-05T11:02:57.799545+00:00", 187, "Your mother is", "protrusive", "Pronunciation: /pro\u028a\u02c8trus\u026av/", "Definition: thrusting outward", ""]}
