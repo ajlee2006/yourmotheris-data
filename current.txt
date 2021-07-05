@@ -1,1 +1,1 @@
-{"data": ["2021-07-05T01:02:30.890225+00:00", 177, "Your mother is", "all-out", "Pronunciation: /\u0254l-a\u028at/", "Definition: using all available resources", "Synonyms: full-scale"]}
+{"data": ["2021-07-05T02:02:34.879906+00:00", 178, "Your mother is", "unmapped", "Similar to: unknown", "Definition: (of unknown regions) not yet surveyed or investigated", "Synonyms: chartless, uncharted"]}
