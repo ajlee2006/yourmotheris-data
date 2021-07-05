@@ -1,1 +1,1 @@
-{"data": ["2021-07-05T07:01:53.558280+00:00", 183, "Your mother is", "onerous", "Pronunciation: /\u02c8\u0251n\u0259r\u0259s/", "Definition: not easily borne; wearing", "Synonyms: burdensome, taxing"]}
+{"data": ["2021-07-05T08:02:23.373117+00:00", 184, "Your mother is", "on-the-scene", "Similar to: on-site", "Definition: at the scene of action", "Synonyms: on-the-spot"]}
