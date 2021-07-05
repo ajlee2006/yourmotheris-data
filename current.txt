@@ -1,1 +1,1 @@
-{"data": ["2021-07-05T20:03:43.744524+00:00", 196, "Your mother is", "straight", "Pronunciation: /stre\u026at/", "Definition: characterized by honesty and fairness", "Synonyms: square"]}
+{"data": ["2021-07-05T21:02:09.678959+00:00", 197, "Your mother is", "bilgy", "Pronunciation: /\u02c8b\u026ald\u0292i/", "Definition: smelling like bilge water", ""]}
