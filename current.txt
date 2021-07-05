@@ -1,1 +1,1 @@
-{"data": ["2021-07-05T18:02:58.817661+00:00", 194, "Your mother is", "shabby-genteel", "Pronunciation: /\u02c8\u0283\u00e6bi-d\u0292\u025bn\u02c8til/", "Definition: trying to maintain dignity and self respect despite shabbiness", ""]}
+{"data": ["2021-07-05T19:01:47.694790+00:00", 195, "Your mother is", "exclusive", "Pronunciation: /\u026ak\u02c8sklus\u026av/", "Definition: not divided or shared with others", "Synonyms: sole"]}
