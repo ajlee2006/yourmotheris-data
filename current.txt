@@ -1,1 +1,1 @@
-{"data": ["2021-07-05T17:01:22.410527+00:00", 193, "Your mother is", "ix", "Similar to: cardinal", "Definition: denoting a quantity consisting of one more than eight and one less than ten", "Synonyms: 9, nine"]}
+{"data": ["2021-07-05T18:02:58.817661+00:00", 194, "Your mother is", "shabby-genteel", "Pronunciation: /\u02c8\u0283\u00e6bi-d\u0292\u025bn\u02c8til/", "Definition: trying to maintain dignity and self respect despite shabbiness", ""]}
