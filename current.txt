@@ -1,1 +1,1 @@
-{"data": ["2021-07-05T09:02:16.816424+00:00", 185, "Your mother is", "cypriot", "Pronunciation: /\u02c8s\u026apri\u0259t/", "Definition: of or relating to Cyprus or its people or culture", "Synonyms: cyprian, cypriote"]}
+{"data": ["2021-07-05T10:01:23.361914+00:00", 186, "Your mother is", "recovered", "Pronunciation: /r\u028c\u02c8k\u028cv\u025drd/", "Definition: freed from illness or injury", "Synonyms: cured, healed"]}
