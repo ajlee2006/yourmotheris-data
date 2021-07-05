@@ -1,1 +1,1 @@
-{"data": ["2021-07-05T06:02:25.101839+00:00", 182, "Your mother is", "66", "Similar to: cardinal", "Definition: being six more than sixty", "Synonyms: lxvi, sixty-six"]}
+{"data": ["2021-07-05T07:01:53.558280+00:00", 183, "Your mother is", "onerous", "Pronunciation: /\u02c8\u0251n\u0259r\u0259s/", "Definition: not easily borne; wearing", "Synonyms: burdensome, taxing"]}
