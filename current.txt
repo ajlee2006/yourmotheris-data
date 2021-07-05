@@ -1,1 +1,1 @@
-{"data": ["2021-07-05T12:04:38.249525+00:00", 188, "Your mother is", "kosher", "Pronunciation: /\u02c8ko\u028a\u0283\u0259r/", "Definition: conforming to dietary laws", "Synonyms: cosher"]}
+{"data": ["2021-07-05T13:02:41.305111+00:00", 189, "Your mother is", "podlike", "Similar to: sheathed", "Definition: resembling a pod", ""]}
