@@ -1,1 +1,1 @@
-{"data": ["2021-07-05T19:01:47.694790+00:00", 195, "Your mother is", "exclusive", "Pronunciation: /\u026ak\u02c8sklus\u026av/", "Definition: not divided or shared with others", "Synonyms: sole"]}
+{"data": ["2021-07-05T20:03:43.744524+00:00", 196, "Your mother is", "straight", "Pronunciation: /stre\u026at/", "Definition: characterized by honesty and fairness", "Synonyms: square"]}
