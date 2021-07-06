@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T03:04:00.284870+00:00", 203, "Your mother is", "cespitose", "Pronunciation: /\u02c8s\u025bsp\u026a\u02ccto\u028as/", "Definition: (of plants) growing in small dense clumps or tufts", "Synonyms: caespitose, tufted"]}
+{"data": ["2021-07-06T04:00:37.740170+00:00", 204, "Your mother is", "stateless", "Pronunciation: /\u02c8ste\u026atl\u025bs/", "Definition: without nationality or citizenship", "Synonyms: homeless"]}
