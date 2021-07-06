@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T10:03:32.737385+00:00", 210, "Your mother is", "imputrescible", "Pronunciation: /\u02cc\u026ampju\u02c8tr\u025bs\u0259b\u0259l/", "Definition: not subject to decay", ""]}
+{"data": ["2021-07-06T11:02:21.632663+00:00", 211, "Your mother is", "glamorous", "Pronunciation: /\u02c8gl\u00e6m\u0259r\u0259s/", "Definition: having an air of allure, romance and excitement", "Synonyms: glamourous"]}
