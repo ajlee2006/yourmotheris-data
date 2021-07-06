@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T06:01:52.747929+00:00", 206, "Your mother is", "aramaean", "", "Definition: of or relating to Aram or to its inhabitants or their culture or their language", "Synonyms: aramean"]}
+{"data": ["2021-07-06T07:01:38.585052+00:00", 207, "Your mother is", "damning", "Pronunciation: /\u02c8d\u00e6m\u026a\u014b/", "Definition: threatening with damnation", "Synonyms: damnatory"]}
