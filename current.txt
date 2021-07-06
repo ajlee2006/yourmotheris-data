@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T22:02:13.437648+00:00", 222, "Your mother is", "heartwarming", "Pronunciation: /\u02c8h\u0251rt\u02ccw\u0254rm\u026a\u014b/", "Definition: causing gladness and pleasure", ""]}
+{"data": ["2021-07-06T23:01:11.153461+00:00", 223, "Your mother is", "protozoal", "Pronunciation: /\u02ccpro\u028at\u0259\u02c8zo\u028a\u0259l/", "Definition: of or relating to the Protozoa", "Synonyms: protozoan, protozoic"]}
