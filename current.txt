@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T13:01:50.001725+00:00", 213, "Your mother is", "aramean", "Pronunciation: /\u02cc\u00e6r\u0259\u02c8mi\u0259n/", "Definition: of or relating to Aram or to its inhabitants or their culture or their language", "Synonyms: aramaean"]}
+{"data": ["2021-07-06T14:02:02.399268+00:00", 214, "Your mother is", "amidship", "Similar to: central", "Definition: located in the middle part of a ship or aircraft", ""]}
