@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T16:04:34.644364+00:00", 216, "Your mother is", "forested", "Pronunciation: /\u02c8f\u0254r\u028cst\u028cd/", "Definition: covered with forest", ""]}
+{"data": ["2021-07-06T17:03:44.558820+00:00", 217, "Your mother is", "smug", "Pronunciation: /sm\u0259\u0261/", "Definition: marked by excessive complacency or self-satisfaction", "Synonyms: self-satisfied"]}
