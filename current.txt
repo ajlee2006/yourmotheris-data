@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T02:03:39.604729+00:00", 202, "Your mother is", "branded", "Pronunciation: /\u02c8br\u00e6nd\u026ad/", "Definition: (of goods and merchandise) marked or labeled by a distinctive word or symbol indicating exclusive rights", ""]}
+{"data": ["2021-07-06T03:04:00.284870+00:00", 203, "Your mother is", "cespitose", "Pronunciation: /\u02c8s\u025bsp\u026a\u02ccto\u028as/", "Definition: (of plants) growing in small dense clumps or tufts", "Synonyms: caespitose, tufted"]}
