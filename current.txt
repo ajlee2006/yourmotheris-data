@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T15:04:42.777037+00:00", 215, "Your mother is", "diacritical", "Pronunciation: /\u02ccda\u026a\u0259\u02c8kr\u026at\u026ak\u0259l/", "Definition: capable of distinguishing", "Synonyms: diacritic"]}
+{"data": ["2021-07-06T16:04:34.644364+00:00", 216, "Your mother is", "forested", "Pronunciation: /\u02c8f\u0254r\u028cst\u028cd/", "Definition: covered with forest", ""]}
