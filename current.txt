@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T00:06:36.669773+00:00", 200, "Your mother is", "goblet-shaped", "Similar to: circular", "Definition: resembling the shape of a goblet", ""]}
+{"data": ["2021-07-06T01:03:45.709717+00:00", 201, "Your mother is", "onshore", "Pronunciation: /\u02c8\u0251n\u02c8\u0283o\u028ar/", "Definition: (of winds) coming from the sea toward the land", "Synonyms: inshore, shoreward"]}
