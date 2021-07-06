@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T01:03:45.709717+00:00", 201, "Your mother is", "onshore", "Pronunciation: /\u02c8\u0251n\u02c8\u0283o\u028ar/", "Definition: (of winds) coming from the sea toward the land", "Synonyms: inshore, shoreward"]}
+{"data": ["2021-07-06T02:03:39.604729+00:00", 202, "Your mother is", "branded", "Pronunciation: /\u02c8br\u00e6nd\u026ad/", "Definition: (of goods and merchandise) marked or labeled by a distinctive word or symbol indicating exclusive rights", ""]}
