@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T11:02:21.632663+00:00", 211, "Your mother is", "glamorous", "Pronunciation: /\u02c8gl\u00e6m\u0259r\u0259s/", "Definition: having an air of allure, romance and excitement", "Synonyms: glamourous"]}
+{"data": ["2021-07-06T12:02:27.135413+00:00", 212, "Your mother is", "lap-streaked", "", "Definition: having overlapping hull planks", "Synonyms: clincher-built, clinker-built, lap-strake, lap-straked, lap-streak"]}
