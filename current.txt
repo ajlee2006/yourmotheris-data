@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T20:03:07.527313+00:00", 220, "Your mother is", "alarmed", "Pronunciation: /\u028c\u02c8l\u0251rmd/", "Definition: experiencing a sudden sense of danger", ""]}
+{"data": ["2021-07-06T21:02:06.684603+00:00", 221, "Your mother is", "pointed-toe", "Similar to: toed", "Definition: having a pointed toe", "Synonyms: pointy-toed"]}
