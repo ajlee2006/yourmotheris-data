@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T12:02:27.135413+00:00", 212, "Your mother is", "lap-streaked", "", "Definition: having overlapping hull planks", "Synonyms: clincher-built, clinker-built, lap-strake, lap-straked, lap-streak"]}
+{"data": ["2021-07-06T13:01:50.001725+00:00", 213, "Your mother is", "aramean", "Pronunciation: /\u02cc\u00e6r\u0259\u02c8mi\u0259n/", "Definition: of or relating to Aram or to its inhabitants or their culture or their language", "Synonyms: aramaean"]}
