@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T09:00:34.599908+00:00", 209, "Your mother is", "bran-new", "Pronunciation: /\u02c8br\u00e6n\u02c8nu/", "Definition: conspicuously new", "Synonyms: brand-new, spic-and-span, spick-and-span"]}
+{"data": ["2021-07-06T10:03:32.737385+00:00", 210, "Your mother is", "imputrescible", "Pronunciation: /\u02cc\u026ampju\u02c8tr\u025bs\u0259b\u0259l/", "Definition: not subject to decay", ""]}
