@@ -1,1 +1,1 @@
-{"data": ["2021-07-07T19:02:32.036341+00:00", 243, "Your mother is", "kayoed", "Similar to: unconscious", "Definition: knocked unconscious by a heavy blow", "Synonyms: knocked out, ko'd, out, stunned"]}
+{"data": ["2021-07-07T20:01:34.457219+00:00", 244, "Your mother is", "appellant", "Pronunciation: /\u0259\u02c8p\u025bl\u0259nt/", "Definition: of or relating to or taking account of appeals (usually legal appeals)", "Synonyms: appellate"]}
