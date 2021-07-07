@@ -1,1 +1,1 @@
-{"data": ["2021-07-07T06:02:37.851870+00:00", 230, "Your mother is", "upstage", "Pronunciation: /\u02c8\u0259p\u02c8ste\u026ad\u0292/", "Definition: remote in manner", "Synonyms: aloof, distant"]}
+{"data": ["2021-07-07T07:03:12.713176+00:00", 231, "Your mother is", "apterous", "Pronunciation: /\u02c8\u00e6pt\u0259r\u0259s/", "Definition: (of insects) without wings", "Synonyms: apteral"]}
