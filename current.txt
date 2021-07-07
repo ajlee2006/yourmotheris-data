@@ -1,1 +1,1 @@
-{"data": ["2021-07-07T14:02:57.311460+00:00", 238, "Your mother is", "overfamiliar", "Pronunciation: /\u02cco\u028av\u0259f\u0259\u02c8m\u026ali\u0259r/", "Definition: taking undue liberties", ""]}
+{"data": ["2021-07-07T15:00:53.449085+00:00", 239, "Your mother is", "authoritative", "Pronunciation: /\u0259\u02c8\u03b8\u0254r\u026a\u02ccte\u026at\u026av/", "Definition: having authority or ascendancy or influence", "Synonyms: important"]}
