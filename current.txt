@@ -1,1 +1,1 @@
-{"data": ["2021-07-07T05:01:56.060822+00:00", 229, "Your mother is", "goethian", "Pronunciation: /\u02c8\u0261\u025crti\u0259n/", "Definition: of or relating to or in the manner of Goethe", "Synonyms: goethean"]}
+{"data": ["2021-07-07T06:02:37.851870+00:00", 230, "Your mother is", "upstage", "Pronunciation: /\u02c8\u0259p\u02c8ste\u026ad\u0292/", "Definition: remote in manner", "Synonyms: aloof, distant"]}
