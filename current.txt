@@ -1,1 +1,1 @@
-{"data": ["2021-07-07T17:02:48.985037+00:00", 241, "Your mother is", "fevered", "Pronunciation: /\u02c8fiv\u025drd/", "Definition: highly or nervously excited", ""]}
+{"data": ["2021-07-07T18:04:24.123028+00:00", 242, "Your mother is", "blinking", "Pronunciation: /\u02c8bl\u026a\u014bk\u026a\u014b/", "Definition: informal intensifiers", "Synonyms: bally, bloody, blooming, crashing, flaming, fucking"]}
