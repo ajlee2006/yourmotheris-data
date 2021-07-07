@@ -1,1 +1,1 @@
-{"data": ["2021-07-07T13:04:42.628873+00:00", 237, "Your mother is", "unversed", "Pronunciation: /\u0259n\u02c8v\u025crst/", "Definition: not having had extensive practice", "Synonyms: unpracticed, unpractised"]}
+{"data": ["2021-07-07T14:02:57.311460+00:00", 238, "Your mother is", "overfamiliar", "Pronunciation: /\u02cco\u028av\u0259f\u0259\u02c8m\u026ali\u0259r/", "Definition: taking undue liberties", ""]}
