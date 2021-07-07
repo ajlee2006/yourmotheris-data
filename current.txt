@@ -1,1 +1,1 @@
-{"data": ["2021-07-06T23:01:11.153461+00:00", 223, "Your mother is", "protozoal", "Pronunciation: /\u02ccpro\u028at\u0259\u02c8zo\u028a\u0259l/", "Definition: of or relating to the Protozoa", "Synonyms: protozoan, protozoic"]}
+{"data": ["2021-07-07T00:06:26.536846+00:00", 224, "Your mother is", "seeping", "Pronunciation: /\u02c8sip\u026a\u014b/", "Definition: leaking out slowly", "Synonyms: oozing, oozy"]}
