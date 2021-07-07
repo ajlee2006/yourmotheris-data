@@ -1,1 +1,1 @@
-{"data": ["2021-07-07T01:03:19.787798+00:00", 225, "Your mother is", "askant", "Pronunciation: /\u0259\u02c8sk\u00e6nt/", "Definition: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy", "Synonyms: askance, asquint, sidelong, squint, squint-eyed, squinty"]}
+{"data": ["2021-07-07T02:02:29.026255+00:00", 226, "Your mother is", "credal", "Pronunciation: /\u02c8krid\u0259l/", "Definition: of or relating to a creed", "Synonyms: creedal"]}
