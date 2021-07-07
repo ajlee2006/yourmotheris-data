@@ -1,1 +1,1 @@
-{"data": ["2021-07-07T15:00:53.449085+00:00", 239, "Your mother is", "authoritative", "Pronunciation: /\u0259\u02c8\u03b8\u0254r\u026a\u02ccte\u026at\u026av/", "Definition: having authority or ascendancy or influence", "Synonyms: important"]}
+{"data": ["2021-07-07T16:04:37.728356+00:00", 240, "Your mother is", "heaven-sent", "Pronunciation: /\u02c8h\u025bv\u0259n-s\u025bnt/", "Definition: peculiarly fortunate or appropriate; as if by divine intervention", "Synonyms: miraculous, providential"]}
