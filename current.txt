@@ -1,1 +1,1 @@
-{"data": ["2021-07-07T18:04:24.123028+00:00", 242, "Your mother is", "blinking", "Pronunciation: /\u02c8bl\u026a\u014bk\u026a\u014b/", "Definition: informal intensifiers", "Synonyms: bally, bloody, blooming, crashing, flaming, fucking"]}
+{"data": ["2021-07-07T19:02:32.036341+00:00", 243, "Your mother is", "kayoed", "Similar to: unconscious", "Definition: knocked unconscious by a heavy blow", "Synonyms: knocked out, ko'd, out, stunned"]}
