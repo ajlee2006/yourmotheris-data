@@ -1,1 +1,1 @@
-{"data": ["2021-07-07T03:03:26.644922+00:00", 227, "Your mother is", "singing", "Pronunciation: /\u02c8s\u026a\u014b\u026a\u014b/", "Definition: smooth and flowing", "Synonyms: cantabile"]}
+{"data": ["2021-07-07T04:04:28.795431+00:00", 228, "Your mother is", "burglarproof", "Pronunciation: /\u02c8b\u025crgl\u0259r\u02ccpruf/", "Definition: secure against burglary", ""]}
