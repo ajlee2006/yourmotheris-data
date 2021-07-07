@@ -1,1 +1,1 @@
-{"data": ["2021-07-07T04:04:28.795431+00:00", 228, "Your mother is", "burglarproof", "Pronunciation: /\u02c8b\u025crgl\u0259r\u02ccpruf/", "Definition: secure against burglary", ""]}
+{"data": ["2021-07-07T05:01:56.060822+00:00", 229, "Your mother is", "goethian", "Pronunciation: /\u02c8\u0261\u025crti\u0259n/", "Definition: of or relating to or in the manner of Goethe", "Synonyms: goethean"]}
