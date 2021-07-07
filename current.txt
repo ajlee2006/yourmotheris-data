@@ -1,1 +1,1 @@
-{"data": ["2021-07-07T12:02:16.638548+00:00", 236, "Your mother is", "psychopathological", "Pronunciation: /\u02ccsa\u026ako\u028a\u02ccp\u00e6\u03b8\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: suffering from an undiagnosed mental disorder", "Synonyms: psychopathic, psychopathologic"]}
+{"data": ["2021-07-07T13:04:42.628873+00:00", 237, "Your mother is", "unversed", "Pronunciation: /\u0259n\u02c8v\u025crst/", "Definition: not having had extensive practice", "Synonyms: unpracticed, unpractised"]}
