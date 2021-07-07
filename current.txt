@@ -1,1 +1,1 @@
-{"data": ["2021-07-07T10:03:00.699705+00:00", 234, "Your mother is", "dead", "Pronunciation: /d\u025bd/", "Definition: devoid of physical sensation; numb", "Synonyms: deadened"]}
+{"data": ["2021-07-07T11:04:22.924304+00:00", 235, "Your mother is", "abstract", "Pronunciation: /\u02c8\u00e6bstr\u00e6kt/", "Definition: not representing or imitating external reality or the objects of nature", "Synonyms: abstractionist, nonfigurative, nonobjective"]}
