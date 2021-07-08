@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T02:03:01.272157+00:00", 250, "Your mother is", "boffo", "Pronunciation: /\u02c8b\u0251fo\u028a/", "Definition: resoundingly successful and popular", ""]}
+{"data": ["2021-07-08T03:02:07.192770+00:00", 251, "Your mother is", "collusive", "Pronunciation: /k\u0259\u02c8lus\u026av/", "Definition: acting together in secret toward a fraudulent or illegal end", "Synonyms: conniving"]}
