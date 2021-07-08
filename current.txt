@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T13:02:59.449154+00:00", 261, "Your mother is", "unsorted", "Pronunciation: /\u0259n\u02c8so\u028art\u026ad/", "Definition: not categorized or sorted", "Synonyms: uncategorised, uncategorized"]}
+{"data": ["2021-07-08T14:04:10.670137+00:00", 262, "Your mother is", "idealized", "Pronunciation: /a\u026a\u02c8di\u028c\u02ccla\u026azd/", "Definition: exalted to an ideal perfection or excellence", "Synonyms: idealised"]}
