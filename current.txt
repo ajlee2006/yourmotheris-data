@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T22:04:17.861504+00:00", 270, "Your mother is", "accumulated", "Pronunciation: /\u028c\u02c8kjumj\u028c\u02ccle\u026at\u026ad/", "Definition: periodically accumulated over time", "Synonyms: accrued"]}
+{"data": ["2021-07-08T23:01:46.884824+00:00", 271, "Your mother is", "discreditable", "Pronunciation: /d\u026as\u02c8kr\u025bd\u026at\u0259b\u0259l/", "Definition: tending to bring discredit or disrepute; blameworthy", ""]}
