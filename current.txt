@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T14:04:10.670137+00:00", 262, "Your mother is", "idealized", "Pronunciation: /a\u026a\u02c8di\u028c\u02ccla\u026azd/", "Definition: exalted to an ideal perfection or excellence", "Synonyms: idealised"]}
+{"data": ["2021-07-08T15:03:26.798813+00:00", 263, "Your mother is", "toxic", "Pronunciation: /\u02c8t\u0251ks\u026ak/", "Definition: of or relating to or caused by a toxin or poison", ""]}
