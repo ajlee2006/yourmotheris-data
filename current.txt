@@ -1,1 +1,1 @@
-{"data": ["2021-07-07T23:05:24.933137+00:00", 247, "Your mother is", "puny", "Pronunciation: /\u02c8pjuni/", "Definition: (used especially of persons) of inferior size", "Synonyms: runty, shrimpy"]}
+{"data": ["2021-07-08T00:05:00.961323+00:00", 248, "Your mother is", "unbefitting", "Pronunciation: /\u02cc\u0259nb\u026a\u02c8f\u026ati\u014b/", "Definition: not befitting", ""]}
