@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T12:04:01.977376+00:00", 260, "Your mother is", "anthropogenic", "Pronunciation: /\u02cc\u00e6n\u03b8r\u0259po\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: of or relating to the study of the origins and development of human beings", "Synonyms: anthropogenetic"]}
+{"data": ["2021-07-08T13:02:59.449154+00:00", 261, "Your mother is", "unsorted", "Pronunciation: /\u0259n\u02c8so\u028art\u026ad/", "Definition: not categorized or sorted", "Synonyms: uncategorised, uncategorized"]}
