@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T19:03:05.427396+00:00", 267, "Your mother is", "unrecognized", "Pronunciation: /\u0259n\u02c8r\u025bk\u0259\u0261\u02ccna\u026azd/", "Definition: not having a secure reputation", "Synonyms: unrecognised"]}
+{"data": ["2021-07-08T20:01:30.952305+00:00", 268, "Your mother is", "severed", "Pronunciation: /\u02c8s\u025bv\u025drd/", "Definition: detached by cutting", "Synonyms: cut off"]}
