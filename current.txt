@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T21:00:25.230026+00:00", 269, "Your mother is", "dangerous", "Pronunciation: /\u02c8de\u026and\u0292\u0259r\u0259s/", "Definition: involving or causing danger or risk; liable to hurt or harm", "Synonyms: unsafe"]}
+{"data": ["2021-07-08T22:04:17.861504+00:00", 270, "Your mother is", "accumulated", "Pronunciation: /\u028c\u02c8kjumj\u028c\u02ccle\u026at\u026ad/", "Definition: periodically accumulated over time", "Synonyms: accrued"]}
