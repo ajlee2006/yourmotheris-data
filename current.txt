@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T05:03:40.545672+00:00", 253, "Your mother is", "problematic", "Pronunciation: /\u02ccpr\u0251bl\u0259\u02c8m\u00e6t\u026ak/", "Definition: making great mental demands; hard to comprehend or solve or believe", "Synonyms: baffling, elusive, knotty, problematical, tough"]}
+{"data": ["2021-07-08T06:03:05.100884+00:00", 254, "Your mother is", "eastmost", "Pronunciation: /\u02c8ist\u02ccmo\u028ast/", "Definition: farthest to the east", "Synonyms: easternmost"]}
