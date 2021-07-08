@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T20:01:30.952305+00:00", 268, "Your mother is", "severed", "Pronunciation: /\u02c8s\u025bv\u025drd/", "Definition: detached by cutting", "Synonyms: cut off"]}
+{"data": ["2021-07-08T21:00:25.230026+00:00", 269, "Your mother is", "dangerous", "Pronunciation: /\u02c8de\u026and\u0292\u0259r\u0259s/", "Definition: involving or causing danger or risk; liable to hurt or harm", "Synonyms: unsafe"]}
