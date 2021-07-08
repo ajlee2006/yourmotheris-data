@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T07:03:58.490035+00:00", 255, "Your mother is", "bronchitic", "Pronunciation: /br\u0251\u014b\u02c8k\u026at\u026ak/", "Definition: suffering from or prone to bronchitis", ""]}
+{"data": ["2021-07-08T08:03:16.571930+00:00", 256, "Your mother is", "agamic", "Pronunciation: /\u0259\u02c8\u0261\u00e6m\u026ak/", "Definition: (of reproduction) not involving the fusion of male and female gametes in reproduction", "Synonyms: agamogenetic, agamous, apomictic, parthenogenetic"]}
