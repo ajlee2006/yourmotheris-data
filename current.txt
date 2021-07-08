@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T03:02:07.192770+00:00", 251, "Your mother is", "collusive", "Pronunciation: /k\u0259\u02c8lus\u026av/", "Definition: acting together in secret toward a fraudulent or illegal end", "Synonyms: conniving"]}
+{"data": ["2021-07-08T04:02:20.797576+00:00", 252, "Your mother is", "fainthearted", "Pronunciation: /\u02c8fe\u026ant\u02c8h\u0251rt\u026ad/", "Definition: lacking conviction or boldness or courage", "Synonyms: faint, faint-hearted, timid"]}
