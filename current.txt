@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T17:02:37.050858+00:00", 265, "Your mother is", "slanderous", "Pronunciation: /\u02c8sl\u00e6nd\u025dr\u028cs/", "Definition: (used of statements) harmful and often untrue; tending to discredit or malign", "Synonyms: calumniatory, calumnious, defamatory, denigrating, denigrative, denigratory, libellous, libelous"]}
+{"data": ["2021-07-08T18:03:04.769026+00:00", 266, "Your mother is", "tripinnated", "Similar to: compound", "Definition: (of a leaf shape) thrice pinnate", "Synonyms: tripinnate"]}
