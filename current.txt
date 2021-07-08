@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T04:02:20.797576+00:00", 252, "Your mother is", "fainthearted", "Pronunciation: /\u02c8fe\u026ant\u02c8h\u0251rt\u026ad/", "Definition: lacking conviction or boldness or courage", "Synonyms: faint, faint-hearted, timid"]}
+{"data": ["2021-07-08T05:03:40.545672+00:00", 253, "Your mother is", "problematic", "Pronunciation: /\u02ccpr\u0251bl\u0259\u02c8m\u00e6t\u026ak/", "Definition: making great mental demands; hard to comprehend or solve or believe", "Synonyms: baffling, elusive, knotty, problematical, tough"]}
