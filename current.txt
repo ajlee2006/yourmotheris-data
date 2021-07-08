@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T09:02:34.299555+00:00", 257, "Your mother is", "nonconscious", "Similar to: unconscious", "Definition: concerning mental functioning that is not represented in consciousness", ""]}
+{"data": ["2021-07-08T10:03:57.415565+00:00", 258, "Your mother is", "small-time", "Pronunciation: /\u02c8sm\u0254l\u02c8ta\u026am/", "Definition: of minor importance", "Synonyms: nickel-and-dime"]}
