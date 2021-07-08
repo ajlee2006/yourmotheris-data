@@ -1,1 +1,1 @@
-{"data": ["2021-07-08T10:03:57.415565+00:00", 258, "Your mother is", "small-time", "Pronunciation: /\u02c8sm\u0254l\u02c8ta\u026am/", "Definition: of minor importance", "Synonyms: nickel-and-dime"]}
+{"data": ["2021-07-08T11:04:47.524614+00:00", 259, "Your mother is", "saber-toothed", "Similar to: toothed", "Definition: having teeth that resemble sabers", "Synonyms: sabertoothed, sabre-toothed"]}
