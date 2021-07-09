@@ -1,1 +1,1 @@
-{"data": ["2021-07-09T14:03:10.225192+00:00", 286, "Your mother is", "bacchic", "Pronunciation: /\u02c8b\u00e6k\u026ak/", "Definition: used of riotously drunken merrymaking", "Synonyms: bacchanal, bacchanalian, carousing, orgiastic"]}
+{"data": ["2021-07-09T15:03:42.712331+00:00", 287, "Your mother is", "brown-black", "Similar to: achromatic", "Definition: of black tinged with brown", "Synonyms: brownish-black"]}
