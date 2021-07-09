@@ -1,1 +1,1 @@
-{"data": ["2021-07-09T06:04:44.805082+00:00", 278, "Your mother is", "60", "Similar to: cardinal", "Definition: being ten more than fifty", "Synonyms: lx, sixty, threescore"]}
+{"data": ["2021-07-09T07:00:37.389380+00:00", 279, "Your mother is", "amnionic", "", "Definition: of or related to the amnion or characterized by developing an amnion", "Synonyms: amnic, amniotic"]}
