@@ -1,1 +1,1 @@
-{"data": ["2021-07-09T03:03:57.730523+00:00", 275, "Your mother is", "imperious", "Pronunciation: /\u026am\u02c8piri\u0259s/", "Definition: having or showing arrogant superiority to and disdain of those one views as unworthy", "Synonyms: disdainful, haughty, lordly, overbearing, prideful, sniffy, supercilious, swaggering"]}
+{"data": ["2021-07-09T04:01:50.592918+00:00", 276, "Your mother is", "untalkative", "Similar to: taciturn", "Definition: temperamentally disinclined to talk", "Synonyms: reticent"]}
