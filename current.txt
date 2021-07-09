@@ -1,1 +1,1 @@
-{"data": ["2021-07-09T16:01:45.505710+00:00", 288, "Your mother is", "dishonourable", "Pronunciation: /d\u026as\u02c8\u0251n\u0259r\u0259b\u0259l/", "Definition: lacking honor or integrity; deserving dishonor", "Synonyms: dishonorable"]}
+{"data": ["2021-07-09T17:02:37.485621+00:00", 289, "Your mother is", "dextrorotary", "Pronunciation: /\u02ccd\u025bkstro\u028a\u02c8ro\u028at\u0259ri/", "Definition: rotating to the right", "Synonyms: dextrorotatory, right-handed"]}
