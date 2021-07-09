@@ -1,1 +1,1 @@
-{"data": ["2021-07-09T21:01:17.795986+00:00", 293, "Your mother is", "branching", "Pronunciation: /\u02c8br\u00e6nt\u0283\u026a\u014b/", "Definition: having branches", "Synonyms: branched, ramate, ramose, ramous"]}
+{"data": ["2021-07-09T22:03:04.348261+00:00", 294, "Your mother is", "cephalopod", "Pronunciation: /\u02c8s\u025bf\u0259l\u0259\u02ccp\u0251d/", "Definition: relating or belonging to the class Cephalopoda", "Synonyms: cephalopodan"]}
