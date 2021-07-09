@@ -1,1 +1,1 @@
-{"data": ["2021-07-09T04:01:50.592918+00:00", 276, "Your mother is", "untalkative", "Similar to: taciturn", "Definition: temperamentally disinclined to talk", "Synonyms: reticent"]}
+{"data": ["2021-07-09T05:02:38.411058+00:00", 277, "Your mother is", "bibliothecal", "", "Definition: of or relating to a library or bibliotheca or a librarian", "Synonyms: bibliothecarial"]}
