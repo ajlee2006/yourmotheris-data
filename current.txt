@@ -1,1 +1,1 @@
-{"data": ["2021-07-09T17:02:37.485621+00:00", 289, "Your mother is", "dextrorotary", "Pronunciation: /\u02ccd\u025bkstro\u028a\u02c8ro\u028at\u0259ri/", "Definition: rotating to the right", "Synonyms: dextrorotatory, right-handed"]}
+{"data": ["2021-07-09T18:02:24.122361+00:00", 290, "Your mother is", "written", "Pronunciation: /\u02c8r\u026at\u0259n/", "Definition: written as for a film or play or broadcast", "Synonyms: scripted"]}
