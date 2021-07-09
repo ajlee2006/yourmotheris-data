@@ -1,1 +1,1 @@
-{"data": ["2021-07-09T00:05:46.351465+00:00", 272, "Your mother is", "champion", "Pronunciation: /\u02c8\u02a7\u00e6mpi\u0259n/", "Definition: holding first place in a contest", "Synonyms: prizewinning"]}
+{"data": ["2021-07-09T01:04:32.894714+00:00", 273, "Your mother is", "avellane", "", "Definition: pertaining to filberts or hazelnuts", "Synonyms: avellan"]}
