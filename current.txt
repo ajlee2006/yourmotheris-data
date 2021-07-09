@@ -1,1 +1,1 @@
-{"data": ["2021-07-09T08:00:42.618412+00:00", 280, "Your mother is", "floaty", "Pronunciation: /\u02c8flo\u028ati/", "Definition: tending to float on a liquid or rise in air or gas", "Synonyms: buoyant"]}
+{"data": ["2021-07-09T09:03:44.830984+00:00", 281, "Your mother is", "provisionary", "Pronunciation: /pr\u0259\u02c8v\u026a\u0292\u0259\u02ccn\u025bri/", "Definition: under terms not final or fully worked out or agreed upon", "Synonyms: probationary, provisional, tentative"]}
