@@ -1,1 +1,1 @@
-{"data": ["2021-07-09T15:03:42.712331+00:00", 287, "Your mother is", "brown-black", "Similar to: achromatic", "Definition: of black tinged with brown", "Synonyms: brownish-black"]}
+{"data": ["2021-07-09T16:01:45.505710+00:00", 288, "Your mother is", "dishonourable", "Pronunciation: /d\u026as\u02c8\u0251n\u0259r\u0259b\u0259l/", "Definition: lacking honor or integrity; deserving dishonor", "Synonyms: dishonorable"]}
