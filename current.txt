@@ -1,1 +1,1 @@
-{"data": ["2021-07-09T05:02:38.411058+00:00", 277, "Your mother is", "bibliothecal", "", "Definition: of or relating to a library or bibliotheca or a librarian", "Synonyms: bibliothecarial"]}
+{"data": ["2021-07-09T06:04:44.805082+00:00", 278, "Your mother is", "60", "Similar to: cardinal", "Definition: being ten more than fifty", "Synonyms: lx, sixty, threescore"]}
