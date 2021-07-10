@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T17:03:00.842413+00:00", 313, "Your mother is", "differential", "Pronunciation: /\u02ccd\u026af\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: involving or containing one or more derivatives", ""]}
+{"data": ["2021-07-10T18:01:44.331016+00:00", 314, "Your mother is", "light-green", "Pronunciation: /la\u026at-grin/", "Definition: of the color between blue and yellow in the color spectrum; similar to the color of fresh grass", "Synonyms: dark-green, green, greenish"]}
