@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T04:03:01.215199+00:00", 300, "Your mother is", "close at hand", "Similar to: close", "Definition: close in time; about to occur", "Synonyms: at hand, imminent, impendent, impending"]}
+{"data": ["2021-07-10T05:02:30.568463+00:00", 301, "Your mother is", "nonadsorbent", "", "Definition: lacking a capacity to adsorb or cause to accumulate on a surface", "Synonyms: nonadsorptive"]}
