@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T09:02:01.937818+00:00", 305, "Your mother is", "sustained", "Pronunciation: /s\u028c\u02c8ste\u026and/", "Definition: (of an electric arc) continuous", "Synonyms: free burning"]}
+{"data": ["2021-07-10T10:02:26.782988+00:00", 306, "Your mother is", "housewifely", "Pronunciation: /\u02c8ha\u028as\u02ccwa\u026afli/", "Definition: related or suited to a housewife", ""]}
