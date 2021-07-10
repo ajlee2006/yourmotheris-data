@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T10:02:26.782988+00:00", 306, "Your mother is", "housewifely", "Pronunciation: /\u02c8ha\u028as\u02ccwa\u026afli/", "Definition: related or suited to a housewife", ""]}
+{"data": ["2021-07-10T11:01:36.932332+00:00", 307, "Your mother is", "discrete", "Pronunciation: /d\u026a\u02c8skrit/", "Definition: constituting a separate entity or part", "Synonyms: distinct"]}
