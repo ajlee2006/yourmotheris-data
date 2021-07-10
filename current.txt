@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T16:03:03.367520+00:00", 312, "Your mother is", "black-and-white", "Pronunciation: /\u02c8bl\u00e6k\u0259n\u02c8hwa\u026at/", "Definition: not having or not capable of producing colors", "Synonyms: black and white"]}
+{"data": ["2021-07-10T17:03:00.842413+00:00", 313, "Your mother is", "differential", "Pronunciation: /\u02ccd\u026af\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: involving or containing one or more derivatives", ""]}
