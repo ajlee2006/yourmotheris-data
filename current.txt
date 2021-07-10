@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T05:02:30.568463+00:00", 301, "Your mother is", "nonadsorbent", "", "Definition: lacking a capacity to adsorb or cause to accumulate on a surface", "Synonyms: nonadsorptive"]}
+{"data": ["2021-07-10T06:04:41.242137+00:00", 302, "Your mother is", "downward-sloping", "Similar to: descending", "Definition: sloping down rather steeply", "Synonyms: declivitous, downhill"]}
