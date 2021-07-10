@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T03:05:04.869865+00:00", 299, "Your mother is", "expressible", "Similar to: describable", "Definition: capable of being expressed", ""]}
+{"data": ["2021-07-10T04:03:01.215199+00:00", 300, "Your mother is", "close at hand", "Similar to: close", "Definition: close in time; about to occur", "Synonyms: at hand, imminent, impendent, impending"]}
