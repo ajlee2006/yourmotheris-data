@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T22:02:21.671246+00:00", 318, "Your mother is", "devilish", "Pronunciation: /\u02c8d\u025bv\u0259l\u026a\u0283/", "Definition: showing the cunning or ingenuity or wickedness typical of a devil", "Synonyms: diabolic, diabolical, mephistophelean, mephistophelian"]}
+{"data": ["2021-07-10T23:04:24.053211+00:00", 319, "Your mother is", "motivating", "Pronunciation: /\u02c8mo\u028at\u028c\u02ccve\u026at\u026a\u014b/", "Definition: impelling to action", "Synonyms: motivative, motive"]}
