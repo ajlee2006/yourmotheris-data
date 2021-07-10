@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T18:01:44.331016+00:00", 314, "Your mother is", "light-green", "Pronunciation: /la\u026at-grin/", "Definition: of the color between blue and yellow in the color spectrum; similar to the color of fresh grass", "Synonyms: dark-green, green, greenish"]}
+{"data": ["2021-07-10T19:01:20.477247+00:00", 315, "Your mother is", "refreshful", "Similar to: invigorating", "Definition: imparting vitality and energy", "Synonyms: bracing, brisk, fresh, refreshing, tonic"]}
