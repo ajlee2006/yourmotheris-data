@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T07:03:00.287299+00:00", 303, "Your mother is", "untended", "Similar to: uncared-for", "Definition: lacking care and attention", ""]}
+{"data": ["2021-07-10T08:02:28.379751+00:00", 304, "Your mother is", "benevolent", "Pronunciation: /b\u0259\u02c8n\u025bv\u0259l\u0259nt/", "Definition: generous in assistance to the poor", "Synonyms: beneficent, eleemosynary, philanthropic"]}
