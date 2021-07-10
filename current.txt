@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T12:01:41.073913+00:00", 308, "Your mother is", "sanctimonious", "Pronunciation: /\u02ccs\u00e6\u014bkt\u0259\u02c8mo\u028ani\u0259s/", "Definition: excessively or hypocritically pious", "Synonyms: holier-than-thou, pharisaic, pharisaical, pietistic, pietistical, self-righteous"]}
+{"data": ["2021-07-10T13:02:35.419113+00:00", 309, "Your mother is", "harassed", "Pronunciation: /\u02c8h\u00e6r\u0259st/", "Definition: troubled persistently especially with petty annoyances", "Synonyms: annoyed, harried, pestered, vexed"]}
