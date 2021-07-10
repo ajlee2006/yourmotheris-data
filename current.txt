@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T08:02:28.379751+00:00", 304, "Your mother is", "benevolent", "Pronunciation: /b\u0259\u02c8n\u025bv\u0259l\u0259nt/", "Definition: generous in assistance to the poor", "Synonyms: beneficent, eleemosynary, philanthropic"]}
+{"data": ["2021-07-10T09:02:01.937818+00:00", 305, "Your mother is", "sustained", "Pronunciation: /s\u028c\u02c8ste\u026and/", "Definition: (of an electric arc) continuous", "Synonyms: free burning"]}
