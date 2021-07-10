@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T21:01:06.288058+00:00", 317, "Your mother is", "dissimilar", "Pronunciation: /d\u026a\u02c8s\u026am\u0259l\u0259r/", "Definition: not alike or similar", "Synonyms: unalike"]}
+{"data": ["2021-07-10T22:02:21.671246+00:00", 318, "Your mother is", "devilish", "Pronunciation: /\u02c8d\u025bv\u0259l\u026a\u0283/", "Definition: showing the cunning or ingenuity or wickedness typical of a devil", "Synonyms: diabolic, diabolical, mephistophelean, mephistophelian"]}
