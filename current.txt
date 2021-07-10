@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T01:04:30.697607+00:00", 297, "Your mother is", "low-density", "Similar to: distributed", "Definition: having low concentration", ""]}
+{"data": ["2021-07-10T02:03:48.551394+00:00", 298, "Your mother is", "trochaic", "Pronunciation: /tro\u028a\u02c8ke\u026a\u026ak/", "Definition: of or consisting of trochees", ""]}
