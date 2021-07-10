@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T19:01:20.477247+00:00", 315, "Your mother is", "refreshful", "Similar to: invigorating", "Definition: imparting vitality and energy", "Synonyms: bracing, brisk, fresh, refreshing, tonic"]}
+{"data": ["2021-07-10T20:03:57.134682+00:00", 316, "Your mother is", "declarable", "Similar to: acknowledged", "Definition: that must be declared", ""]}
