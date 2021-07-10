@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T20:03:57.134682+00:00", 316, "Your mother is", "declarable", "Similar to: acknowledged", "Definition: that must be declared", ""]}
+{"data": ["2021-07-10T21:01:06.288058+00:00", 317, "Your mother is", "dissimilar", "Pronunciation: /d\u026a\u02c8s\u026am\u0259l\u0259r/", "Definition: not alike or similar", "Synonyms: unalike"]}
