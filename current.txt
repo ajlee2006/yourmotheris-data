@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T11:01:36.932332+00:00", 307, "Your mother is", "discrete", "Pronunciation: /d\u026a\u02c8skrit/", "Definition: constituting a separate entity or part", "Synonyms: distinct"]}
+{"data": ["2021-07-10T12:01:41.073913+00:00", 308, "Your mother is", "sanctimonious", "Pronunciation: /\u02ccs\u00e6\u014bkt\u0259\u02c8mo\u028ani\u0259s/", "Definition: excessively or hypocritically pious", "Synonyms: holier-than-thou, pharisaic, pharisaical, pietistic, pietistical, self-righteous"]}
