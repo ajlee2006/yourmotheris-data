@@ -1,1 +1,1 @@
-{"data": ["2021-07-10T23:04:24.053211+00:00", 319, "Your mother is", "motivating", "Pronunciation: /\u02c8mo\u028at\u028c\u02ccve\u026at\u026a\u014b/", "Definition: impelling to action", "Synonyms: motivative, motive"]}
+{"data": ["2021-07-11T00:02:34.086889+00:00", 320, "Your mother is", "hypognathous", "Pronunciation: /ha\u026a\u02c8p\u0251gn\u0259\u03b8\u0259s/", "Definition: having a projecting lower jaw", "Synonyms: prognathic, prognathous"]}
