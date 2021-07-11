@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T17:01:13.286714+00:00", 337, "Your mother is", "brightly-coloured", "Similar to: colored", "Definition: having a bright color", "Synonyms: brightly-colored"]}
+{"data": ["2021-07-11T18:00:58.444866+00:00", 338, "Your mother is", "privy", "Pronunciation: /\u02c8pr\u026avi/", "Definition: hidden from general view or use", "Synonyms: secluded, secret"]}
