@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T13:02:04.192594+00:00", 333, "Your mother is", "womanish", "Pronunciation: /\u02c8w\u028am\u0259n\u026a\u0283/", "Definition: having characteristics associated with women and considered undesirable in men", ""]}
+{"data": ["2021-07-11T14:02:05.081940+00:00", 334, "Your mother is", "ecclesiastical", "Pronunciation: /\u026a\u02ccklizi\u02c8\u00e6st\u026ak\u0259l/", "Definition: of or associated with a church (especially a Christian Church)", "Synonyms: ecclesiastic"]}
