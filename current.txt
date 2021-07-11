@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T05:04:08.356728+00:00", 325, "Your mother is", "germicidal", "Similar to: antiseptic", "Definition: preventing infection by inhibiting the growth or action of microorganisms", "Synonyms: bactericidal, disinfectant"]}
+{"data": ["2021-07-11T06:04:51.877147+00:00", 326, "Your mother is", "short-dated", "Pronunciation: /\u0283\u0254rt-\u02c8de\u026at\u026ad/", "Definition: of a gilt-edged security; having less than 5 years to run before redemption", ""]}
