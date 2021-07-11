@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T18:00:58.444866+00:00", 338, "Your mother is", "privy", "Pronunciation: /\u02c8pr\u026avi/", "Definition: hidden from general view or use", "Synonyms: secluded, secret"]}
+{"data": ["2021-07-11T19:02:39.941652+00:00", 339, "Your mother is", "gainly", "Pronunciation: /\u02c8\u0261e\u026anli/", "Definition: graceful and pleasing", ""]}
