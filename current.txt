@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T04:04:22.549352+00:00", 324, "Your mother is", "amatory", "Pronunciation: /\u02c8\u00e6m\u0259\u02ccto\u028ari/", "Definition: expressive of or exciting sexual love or romance", "Synonyms: amorous, romantic"]}
+{"data": ["2021-07-11T05:04:08.356728+00:00", 325, "Your mother is", "germicidal", "Similar to: antiseptic", "Definition: preventing infection by inhibiting the growth or action of microorganisms", "Synonyms: bactericidal, disinfectant"]}
