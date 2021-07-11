@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T00:02:34.086889+00:00", 320, "Your mother is", "hypognathous", "Pronunciation: /ha\u026a\u02c8p\u0251gn\u0259\u03b8\u0259s/", "Definition: having a projecting lower jaw", "Synonyms: prognathic, prognathous"]}
+{"data": ["2021-07-11T01:03:37.901353+00:00", 321, "Your mother is", "fluent", "Pronunciation: /\u02c8flu\u0259nt/", "Definition: expressing yourself readily, clearly, effectively", "Synonyms: eloquent, facile, silver, silver-tongued, smooth-spoken"]}
