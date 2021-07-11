@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T07:03:14.118623+00:00", 327, "Your mother is", "angulate", "Pronunciation: /\u02c8\u00e6\u014b\u0261j\u0259l\u026at/", "Definition: having angles or an angular shape", "Synonyms: angular"]}
+{"data": ["2021-07-11T08:04:13.444820+00:00", 328, "Your mother is", "belittling", "Pronunciation: /b\u026a\u02c8l\u026at\u028cl\u026a\u014b/", "Definition: tending to diminish or disparage", "Synonyms: deprecating, deprecative, deprecatory, depreciative, depreciatory, slighting"]}
