@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T14:02:05.081940+00:00", 334, "Your mother is", "ecclesiastical", "Pronunciation: /\u026a\u02ccklizi\u02c8\u00e6st\u026ak\u0259l/", "Definition: of or associated with a church (especially a Christian Church)", "Synonyms: ecclesiastic"]}
+{"data": ["2021-07-11T15:00:28.446134+00:00", 335, "Your mother is", "migratory", "Pronunciation: /\u02c8ma\u026agr\u0259\u02ccto\u028ari/", "Definition: habitually moving from place to place especially in search of seasonal work", "Synonyms: migrant"]}
