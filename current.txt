@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T01:03:37.901353+00:00", 321, "Your mother is", "fluent", "Pronunciation: /\u02c8flu\u0259nt/", "Definition: expressing yourself readily, clearly, effectively", "Synonyms: eloquent, facile, silver, silver-tongued, smooth-spoken"]}
+{"data": ["2021-07-11T02:03:58.456061+00:00", 322, "Your mother is", "xenophobic", "Pronunciation: /\u02ccz\u025bn\u028c\u02c8f\u0251b\u026ak/", "Definition: suffering from xenophobia; having abnormal fear or hatred of the strange or foreign", ""]}
