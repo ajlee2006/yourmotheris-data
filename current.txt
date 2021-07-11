@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T11:02:32.885200+00:00", 331, "Your mother is", "servomechanical", "Pronunciation: /\u02ccs\u025crvo\u028am\u0259\u02c8k\u00e6n\u026ak\u0259l/", "Definition: of or involving servomechanisms", "Synonyms: servo"]}
+{"data": ["2021-07-11T12:02:55.999059+00:00", 332, "Your mother is", "far-famed", "Pronunciation: /\u02c8f\u0251r\u02c8fe\u026amd/", "Definition: widely known and esteemed", "Synonyms: celebrated, famed, famous, illustrious, notable, noted, renowned"]}
