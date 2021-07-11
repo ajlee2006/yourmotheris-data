@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T08:04:13.444820+00:00", 328, "Your mother is", "belittling", "Pronunciation: /b\u026a\u02c8l\u026at\u028cl\u026a\u014b/", "Definition: tending to diminish or disparage", "Synonyms: deprecating, deprecative, deprecatory, depreciative, depreciatory, slighting"]}
+{"data": ["2021-07-11T09:00:43.191069+00:00", 329, "Your mother is", "derived", "Pronunciation: /d\u025dr\u02c8a\u026avd/", "Definition: formed or developed from something else; not original", ""]}
