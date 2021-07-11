@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T06:04:51.877147+00:00", 326, "Your mother is", "short-dated", "Pronunciation: /\u0283\u0254rt-\u02c8de\u026at\u026ad/", "Definition: of a gilt-edged security; having less than 5 years to run before redemption", ""]}
+{"data": ["2021-07-11T07:03:14.118623+00:00", 327, "Your mother is", "angulate", "Pronunciation: /\u02c8\u00e6\u014b\u0261j\u0259l\u026at/", "Definition: having angles or an angular shape", "Synonyms: angular"]}
