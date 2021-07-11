@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T12:02:55.999059+00:00", 332, "Your mother is", "far-famed", "Pronunciation: /\u02c8f\u0251r\u02c8fe\u026amd/", "Definition: widely known and esteemed", "Synonyms: celebrated, famed, famous, illustrious, notable, noted, renowned"]}
+{"data": ["2021-07-11T13:02:04.192594+00:00", 333, "Your mother is", "womanish", "Pronunciation: /\u02c8w\u028am\u0259n\u026a\u0283/", "Definition: having characteristics associated with women and considered undesirable in men", ""]}
