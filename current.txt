@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T09:00:43.191069+00:00", 329, "Your mother is", "derived", "Pronunciation: /d\u025dr\u02c8a\u026avd/", "Definition: formed or developed from something else; not original", ""]}
+{"data": ["2021-07-11T10:04:06.504153+00:00", 330, "Your mother is", "salmon", "Pronunciation: /\u02c8s\u00e6m\u0259n/", "Definition: of orange tinged with pink", "Synonyms: pink-orange, pinkish-orange"]}
