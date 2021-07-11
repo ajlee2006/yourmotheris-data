@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T03:01:25.320492+00:00", 323, "Your mother is", "monatomic", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8t\u0251m\u026ak/", "Definition: of or relating to an element consisting of a single atom", "Synonyms: monoatomic"]}
+{"data": ["2021-07-11T04:04:22.549352+00:00", 324, "Your mother is", "amatory", "Pronunciation: /\u02c8\u00e6m\u0259\u02ccto\u028ari/", "Definition: expressive of or exciting sexual love or romance", "Synonyms: amorous, romantic"]}
