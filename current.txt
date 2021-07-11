@@ -1,1 +1,1 @@
-{"data": ["2021-07-11T02:03:58.456061+00:00", 322, "Your mother is", "xenophobic", "Pronunciation: /\u02ccz\u025bn\u028c\u02c8f\u0251b\u026ak/", "Definition: suffering from xenophobia; having abnormal fear or hatred of the strange or foreign", ""]}
+{"data": ["2021-07-11T03:01:25.320492+00:00", 323, "Your mother is", "monatomic", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8t\u0251m\u026ak/", "Definition: of or relating to an element consisting of a single atom", "Synonyms: monoatomic"]}
