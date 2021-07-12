@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T22:02:56.007339+00:00", 366, "Your mother is", "executed", "Pronunciation: /\u02c8\u025bks\u028c\u02cckjut\u028cd/", "Definition: put to death as punishment", ""]}
+{"data": ["2021-07-12T23:03:49.003068+00:00", 367, "Your mother is", "nonreflective", "Similar to: echoless", "Definition: not capable of physical reflection", "Synonyms: nonreflecting"]}
