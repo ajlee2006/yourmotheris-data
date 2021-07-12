@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T10:04:17.232941+00:00", 354, "Your mother is", "habitable", "Pronunciation: /\u02c8h\u00e6b\u026at\u0259b\u0259l/", "Definition: fit for habitation", "Synonyms: inhabitable"]}
+{"data": ["2021-07-12T11:01:09.700956+00:00", 355, "Your mother is", "pancake-like", "Similar to: circular", "Definition: resembling a pancake in shape", ""]}
