@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T17:00:31.290033+00:00", 361, "Your mother is", "unsportsmanlike", "Pronunciation: /\u0259n\u02c8spo\u028artsm\u0259n\u02ccla\u026ak/", "Definition: violating accepted standards or rules", "Synonyms: cheating, dirty, foul, unsporting"]}
+{"data": ["2021-07-12T18:02:36.954954+00:00", 362, "Your mother is", "smug", "Pronunciation: /sm\u0259\u0261/", "Definition: marked by excessive complacency or self-satisfaction", "Synonyms: self-satisfied"]}
