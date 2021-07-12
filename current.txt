@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T19:02:40.307912+00:00", 363, "Your mother is", "autochthonic", "Pronunciation: /\u02cc\u0254t\u0251k\u02c8\u03b8\u0251n\u026ak/", "Definition: originating where it is found", "Synonyms: autochthonal, autochthonous, endemic, indigenous"]}
+{"data": ["2021-07-12T20:03:38.521459+00:00", 364, "Your mother is", "unilluminated", "Pronunciation: /\u02cc\u0259n\u026a\u02c8lum\u026a\u02ccne\u026at\u026ad/", "Definition: without illumination", "Synonyms: lightless, unlighted, unlit"]}
