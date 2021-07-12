@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T09:04:59.263187+00:00", 353, "Your mother is", "one-party", "Similar to: one-sided", "Definition: determined by a single party", ""]}
+{"data": ["2021-07-12T10:04:17.232941+00:00", 354, "Your mother is", "habitable", "Pronunciation: /\u02c8h\u00e6b\u026at\u0259b\u0259l/", "Definition: fit for habitation", "Synonyms: inhabitable"]}
