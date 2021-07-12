@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T18:02:36.954954+00:00", 362, "Your mother is", "smug", "Pronunciation: /sm\u0259\u0261/", "Definition: marked by excessive complacency or self-satisfaction", "Synonyms: self-satisfied"]}
+{"data": ["2021-07-12T19:02:40.307912+00:00", 363, "Your mother is", "autochthonic", "Pronunciation: /\u02cc\u0254t\u0251k\u02c8\u03b8\u0251n\u026ak/", "Definition: originating where it is found", "Synonyms: autochthonal, autochthonous, endemic, indigenous"]}
