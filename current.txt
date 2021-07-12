@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T02:04:22.527151+00:00", 346, "Your mother is", "semiopaque", "Similar to: opaque", "Definition: partially opaque", ""]}
+{"data": ["2021-07-12T03:02:06.240314+00:00", 347, "Your mother is", "preemptive", "Pronunciation: /pri\u02c8\u025bmpt\u026av/", "Definition: designed or having the power to deter or prevent an anticipated situation or occurrence", "Synonyms: pre-emptive"]}
