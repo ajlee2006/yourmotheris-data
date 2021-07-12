@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T08:03:41.651529+00:00", 352, "Your mother is", "screwy", "Pronunciation: /\u02c8skrui/", "Definition: not behaving normally", "Synonyms: screw-loose"]}
+{"data": ["2021-07-12T09:04:59.263187+00:00", 353, "Your mother is", "one-party", "Similar to: one-sided", "Definition: determined by a single party", ""]}
