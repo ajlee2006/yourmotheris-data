@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T16:03:43.274442+00:00", 360, "Your mother is", "befogged", "Similar to: confused", "Definition: stupefied by alcoholic drink", "Synonyms: befuddled"]}
+{"data": ["2021-07-12T17:00:31.290033+00:00", 361, "Your mother is", "unsportsmanlike", "Pronunciation: /\u0259n\u02c8spo\u028artsm\u0259n\u02ccla\u026ak/", "Definition: violating accepted standards or rules", "Synonyms: cheating, dirty, foul, unsporting"]}
