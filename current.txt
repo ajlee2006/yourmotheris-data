@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T12:03:42.210877+00:00", 356, "Your mother is", "thunderstruck", "Pronunciation: /\u02c8\u03b8\u0259nd\u0259r\u02ccstr\u0259k/", "Definition: as if struck dumb with astonishment and surprise", "Synonyms: dumbfounded, dumbstricken, dumbstruck, dumfounded, flabbergasted, stupefied"]}
+{"data": ["2021-07-12T13:03:20.584681+00:00", 357, "Your mother is", "frothing", "Similar to: unhealthy", "Definition: producing or covered with lathery sweat or saliva from exhaustion or disease", "Synonyms: foaming, foamy"]}
