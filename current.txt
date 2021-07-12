@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T15:02:24.774649+00:00", 359, "Your mother is", "botryoidal", "Pronunciation: /\u02ccb\u0251tri\u02c8\u0254\u026ad\u0259l/", "Definition: resembling a cluster of grapes in form", "Synonyms: botryoid, boytrose"]}
+{"data": ["2021-07-12T16:03:43.274442+00:00", 360, "Your mother is", "befogged", "Similar to: confused", "Definition: stupefied by alcoholic drink", "Synonyms: befuddled"]}
