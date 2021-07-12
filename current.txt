@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T20:03:38.521459+00:00", 364, "Your mother is", "unilluminated", "Pronunciation: /\u02cc\u0259n\u026a\u02c8lum\u026a\u02ccne\u026at\u026ad/", "Definition: without illumination", "Synonyms: lightless, unlighted, unlit"]}
+{"data": ["2021-07-12T21:01:43.977609+00:00", 365, "Your mother is", "get-at-able", "Pronunciation: /\u0261\u025bt\u02c8\u00e6t\u0259b\u0259l/", "Definition: capable of being reached or attained", "Synonyms: come-at-able, getatable"]}
