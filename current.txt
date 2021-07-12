@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T04:03:36.783323+00:00", 348, "Your mother is", "go-to-meeting", "Pronunciation: /\u02c8\u0261o\u028at\u0259-\u02c8mit\u0259n/", "Definition: used of clothing", "Synonyms: sunday-go-to-meeting"]}
+{"data": ["2021-07-12T05:03:30.784668+00:00", 349, "Your mother is", "sloughy", "Pronunciation: /\u02c8sl\u00e6\u028ai/", "Definition: (of soil) soft and watery", "Synonyms: boggy, marshy, miry, mucky, muddy, quaggy, sloppy, soggy, squashy, swampy, waterlogged"]}
