@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T05:03:30.784668+00:00", 349, "Your mother is", "sloughy", "Pronunciation: /\u02c8sl\u00e6\u028ai/", "Definition: (of soil) soft and watery", "Synonyms: boggy, marshy, miry, mucky, muddy, quaggy, sloppy, soggy, squashy, swampy, waterlogged"]}
+{"data": ["2021-07-12T06:04:12.861492+00:00", 350, "Your mother is", "archiepiscopal", "Pronunciation: /\u02cc\u0251rki\u026a\u02c8p\u026ask\u0259p\u0259l/", "Definition: of or associated with an archbishop", "Synonyms: archepiscopal"]}
