@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T07:02:14.735042+00:00", 351, "Your mother is", "lexicographical", "", "Definition: of or relating to lexicography", "Synonyms: lexicographic"]}
+{"data": ["2021-07-12T08:03:41.651529+00:00", 352, "Your mother is", "screwy", "Pronunciation: /\u02c8skrui/", "Definition: not behaving normally", "Synonyms: screw-loose"]}
