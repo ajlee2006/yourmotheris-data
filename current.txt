@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T06:04:12.861492+00:00", 350, "Your mother is", "archiepiscopal", "Pronunciation: /\u02cc\u0251rki\u026a\u02c8p\u026ask\u0259p\u0259l/", "Definition: of or associated with an archbishop", "Synonyms: archepiscopal"]}
+{"data": ["2021-07-12T07:02:14.735042+00:00", 351, "Your mother is", "lexicographical", "", "Definition: of or relating to lexicography", "Synonyms: lexicographic"]}
