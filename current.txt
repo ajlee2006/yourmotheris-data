@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T11:01:09.700956+00:00", 355, "Your mother is", "pancake-like", "Similar to: circular", "Definition: resembling a pancake in shape", ""]}
+{"data": ["2021-07-12T12:03:42.210877+00:00", 356, "Your mother is", "thunderstruck", "Pronunciation: /\u02c8\u03b8\u0259nd\u0259r\u02ccstr\u0259k/", "Definition: as if struck dumb with astonishment and surprise", "Synonyms: dumbfounded, dumbstricken, dumbstruck, dumfounded, flabbergasted, stupefied"]}
