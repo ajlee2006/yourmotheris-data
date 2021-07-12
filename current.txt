@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T14:03:51.388575+00:00", 358, "Your mother is", "beady-eyed", "Pronunciation: /\u02c8bidi-a\u026ad/", "Definition: having eyes that gleam with malice", ""]}
+{"data": ["2021-07-12T15:02:24.774649+00:00", 359, "Your mother is", "botryoidal", "Pronunciation: /\u02ccb\u0251tri\u02c8\u0254\u026ad\u0259l/", "Definition: resembling a cluster of grapes in form", "Synonyms: botryoid, boytrose"]}
