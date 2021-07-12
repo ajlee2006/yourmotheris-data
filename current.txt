@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T03:02:06.240314+00:00", 347, "Your mother is", "preemptive", "Pronunciation: /pri\u02c8\u025bmpt\u026av/", "Definition: designed or having the power to deter or prevent an anticipated situation or occurrence", "Synonyms: pre-emptive"]}
+{"data": ["2021-07-12T04:03:36.783323+00:00", 348, "Your mother is", "go-to-meeting", "Pronunciation: /\u02c8\u0261o\u028at\u0259-\u02c8mit\u0259n/", "Definition: used of clothing", "Synonyms: sunday-go-to-meeting"]}
