@@ -1,1 +1,1 @@
-{"data": ["2021-07-12T01:03:56.925543+00:00", 345, "Your mother is", "baneful", "Pronunciation: /\u02c8be\u026anf\u0259l/", "Definition: deadly or sinister", "Synonyms: baleful"]}
+{"data": ["2021-07-12T02:04:22.527151+00:00", 346, "Your mother is", "semiopaque", "Similar to: opaque", "Definition: partially opaque", ""]}
