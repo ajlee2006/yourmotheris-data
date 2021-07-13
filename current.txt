@@ -1,1 +1,1 @@
-{"data": ["2021-07-13T21:03:17.041417+00:00", 389, "Your mother is", "phallic", "Pronunciation: /\u02c8f\u00e6l\u026ak/", "Definition: resembling or being a phallus", "Synonyms: priapic"]}
+{"data": ["2021-07-13T22:01:45.359457+00:00", 390, "Your mother is", "decompound", "Pronunciation: /\u02ccdik\u0259m\u02c8pa\u028and/", "Definition: of a compound leaf; consisting of divisions that are themselves compound", ""]}
