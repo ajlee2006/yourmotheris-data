@@ -1,1 +1,1 @@
-{"data": ["2021-07-13T10:02:36.995361+00:00", 378, "Your mother is", "blockaded", "Pronunciation: /\u02ccbl\u0251\u02c8ke\u026ad\u026ad/", "Definition: preventing entry or exit or a course of action", "Synonyms: barred, barricaded"]}
+{"data": ["2021-07-13T11:01:55.221781+00:00", 379, "Your mother is", "ungraded", "Similar to: unimproved", "Definition: (of roads) not leveled or drained; unsuitable for all year travel", "Synonyms: dirt"]}
