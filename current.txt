@@ -1,1 +1,1 @@
-{"data": ["2021-07-13T22:01:45.359457+00:00", 390, "Your mother is", "decompound", "Pronunciation: /\u02ccdik\u0259m\u02c8pa\u028and/", "Definition: of a compound leaf; consisting of divisions that are themselves compound", ""]}
+{"data": ["2021-07-13T23:03:28.031946+00:00", 391, "Your mother is", "swingeing", "Pronunciation: /\u02c8sw\u026and\u0292\u026a\u014b/", "Definition: severe; punishingly bad", ""]}
