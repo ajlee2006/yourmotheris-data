@@ -1,1 +1,1 @@
-{"data": ["2021-07-13T04:01:05.041581+00:00", 372, "Your mother is", "would-be", "Pronunciation: /\u02c8w\u028ad\u02ccbi/", "Definition: unfulfilled or frustrated in realizing an ambition", "Synonyms: manque"]}
+{"data": ["2021-07-13T05:02:49.453252+00:00", 373, "Your mother is", "unavailable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8ve\u026al\u0259b\u0259l/", "Definition: not available or accessible or at hand", ""]}
