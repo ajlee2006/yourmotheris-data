@@ -1,1 +1,1 @@
-{"data": ["2021-07-13T01:03:40.241379+00:00", 369, "Your mother is", "unattended", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u025bnd\u026ad/", "Definition: lacking a caretaker", "Synonyms: neglected"]}
+{"data": ["2021-07-13T02:04:06.922375+00:00", 370, "Your mother is", "sitting", "Pronunciation: /\u02c8s\u026at\u026a\u014b/", "Definition: (of persons) having the torso erect and legs bent with the body supported on the buttocks", "Synonyms: seated"]}
