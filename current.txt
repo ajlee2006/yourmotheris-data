@@ -1,1 +1,1 @@
-{"data": ["2021-07-13T16:02:23.042318+00:00", 384, "Your mother is", "south-polar", "Similar to: polar", "Definition: at or near the south pole", "Synonyms: antarctic"]}
+{"data": ["2021-07-13T17:03:44.742730+00:00", 385, "Your mother is", "w-shaped", "Similar to: formed", "Definition: shaped in the form of the letter W", ""]}
