@@ -1,1 +1,1 @@
-{"data": ["2021-07-13T05:02:49.453252+00:00", 373, "Your mother is", "unavailable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8ve\u026al\u0259b\u0259l/", "Definition: not available or accessible or at hand", ""]}
+{"data": ["2021-07-13T06:03:08.173272+00:00", 374, "Your mother is", "unfearing", "Similar to: bold", "Definition: invulnerable to fear or intimidation", "Synonyms: audacious, brave, dauntless, fearless, hardy, intrepid"]}
