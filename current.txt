@@ -1,1 +1,1 @@
-{"data": ["2021-07-13T06:03:08.173272+00:00", 374, "Your mother is", "unfearing", "Similar to: bold", "Definition: invulnerable to fear or intimidation", "Synonyms: audacious, brave, dauntless, fearless, hardy, intrepid"]}
+{"data": ["2021-07-13T07:03:42.393846+00:00", 375, "Your mother is", "subliminal", "Pronunciation: /s\u0259b\u02c8l\u026am\u0259n\u0259l/", "Definition: below the threshold of conscious perception", ""]}
