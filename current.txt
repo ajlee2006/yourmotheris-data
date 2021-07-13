@@ -1,1 +1,1 @@
-{"data": ["2021-07-13T14:01:41.894205+00:00", 382, "Your mother is", "ungovernable", "Pronunciation: /\u0259n\u02c8\u0261\u0259v\u0259rn\u0259b\u0259l/", "Definition: incapable of being controlled", "Synonyms: indocile, uncontrollable, unruly"]}
+{"data": ["2021-07-13T15:01:57.285273+00:00", 383, "Your mother is", "unreflective", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8fl\u025bkt\u026av/", "Definition: not exhibiting or characterized by careful thought", "Synonyms: unthinking, unthoughtful"]}
