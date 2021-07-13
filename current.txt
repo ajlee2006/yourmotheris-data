@@ -1,1 +1,1 @@
-{"data": ["2021-07-13T00:06:15.959836+00:00", 368, "Your mother is", "in effect", "Similar to: operative", "Definition: exerting force or influence", "Synonyms: effective, good, in force"]}
+{"data": ["2021-07-13T01:03:40.241379+00:00", 369, "Your mother is", "unattended", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u025bnd\u026ad/", "Definition: lacking a caretaker", "Synonyms: neglected"]}
