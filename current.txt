@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T07:02:15.764583+00:00", 399, "Your mother is", "undamaged", "Pronunciation: /\u0259n\u02c8d\u00e6m\u026ad\u0292d/", "Definition: not harmed or spoiled; sound", ""]}
+{"data": ["2021-07-14T08:02:20.038110+00:00", 400, "Your mother is", "great bellied", "Similar to: bellied", "Definition: having a prominent belly", "Synonyms: big-bellied"]}
