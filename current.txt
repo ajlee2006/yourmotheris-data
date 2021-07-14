@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T18:01:59.693457+00:00", 410, "Your mother is", "barrelled", "Similar to: pointed", "Definition: (of an arrow) tapered toward both ends", "Synonyms: barreled"]}
+{"data": ["2021-07-14T19:03:16.894099+00:00", 411, "Your mother is", "vertical", "Pronunciation: /\u02c8v\u025crt\u026ak\u0259l/", "Definition: at right angles to the plane of the horizon or a base line", "Synonyms: perpendicular"]}
