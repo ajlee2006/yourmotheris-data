@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T08:02:20.038110+00:00", 400, "Your mother is", "great bellied", "Similar to: bellied", "Definition: having a prominent belly", "Synonyms: big-bellied"]}
+{"data": ["2021-07-14T09:04:28.020532+00:00", 401, "Your mother is", "jealous", "Pronunciation: /\u02c8d\u0292\u025bl\u0259s/", "Definition: showing extreme cupidity; painfully desirous of another's advantages", "Synonyms: covetous, envious"]}
