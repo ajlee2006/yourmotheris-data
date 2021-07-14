@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T12:01:37.688582+00:00", 404, "Your mother is", "look-alike", "Pronunciation: /l\u028ak-\u0259\u02c8la\u026ak/", "Definition: resembling closely", ""]}
+{"data": ["2021-07-14T13:03:46.648107+00:00", 405, "Your mother is", "narrowed", "Pronunciation: /\u02c8n\u025bro\u028ad/", "Definition: made narrow; limited in breadth", ""]}
