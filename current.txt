@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T17:01:47.136073+00:00", 409, "Your mother is", "top-hole", "Pronunciation: /t\u0251p-ho\u028al/", "Definition: excellent; best possible", "Synonyms: top-flight, topping"]}
+{"data": ["2021-07-14T18:01:59.693457+00:00", 410, "Your mother is", "barrelled", "Similar to: pointed", "Definition: (of an arrow) tapered toward both ends", "Synonyms: barreled"]}
