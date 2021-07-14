@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T21:02:39.199915+00:00", 413, "Your mother is", "corroded", "Pronunciation: /k\u025dr\u02c8o\u028ad\u026ad/", "Definition: eaten away as by acid or oxidation", ""]}
+{"data": ["2021-07-14T22:01:29.134208+00:00", 414, "Your mother is", "nonmedicinal", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: unmedical, unmedicative, unmedicinal"]}
