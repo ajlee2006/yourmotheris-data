@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T22:01:29.134208+00:00", 414, "Your mother is", "nonmedicinal", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: unmedical, unmedicative, unmedicinal"]}
+{"data": ["2021-07-14T23:03:10.696516+00:00", 415, "Your mother is", "revived", "Pronunciation: /r\u026a\u02c8va\u026avd/", "Definition: given fresh life or vigor or spirit", "Synonyms: reanimated"]}
