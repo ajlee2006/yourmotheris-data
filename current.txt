@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T03:02:42.543546+00:00", 395, "Your mother is", "28", "Similar to: cardinal", "Definition: being eight more than twenty", "Synonyms: twenty-eight, xxviii"]}
+{"data": ["2021-07-14T04:03:47.904759+00:00", 396, "Your mother is", "biaxate", "", "Definition: having two axes", "Synonyms: biaxal, biaxial"]}
