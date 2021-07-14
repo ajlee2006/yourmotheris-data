@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T14:00:52.470399+00:00", 406, "Your mother is", "blueish", "Pronunciation: /\u02c8blu\u026a\u0283/", "Definition: of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky", "Synonyms: blue, bluish"]}
+{"data": ["2021-07-14T15:04:21.733194+00:00", 407, "Your mother is", "caruncular", "Pronunciation: /k\u0259\u02c8r\u0259\u014bkj\u0259l\u0259r/", "Definition: resembling a caruncle", "Synonyms: carunculous"]}
