@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T15:04:21.733194+00:00", 407, "Your mother is", "caruncular", "Pronunciation: /k\u0259\u02c8r\u0259\u014bkj\u0259l\u0259r/", "Definition: resembling a caruncle", "Synonyms: carunculous"]}
+{"data": ["2021-07-14T16:02:44.858205+00:00", 408, "Your mother is", "fathomable", "Pronunciation: /\u02c8f\u00e6\u00f0\u028cm\u028cb\u028cl/", "Definition: (of depth) capable of being sounded or measured for depth", "Synonyms: plumbable, soundable"]}
