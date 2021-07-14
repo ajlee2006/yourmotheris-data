@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T09:04:28.020532+00:00", 401, "Your mother is", "jealous", "Pronunciation: /\u02c8d\u0292\u025bl\u0259s/", "Definition: showing extreme cupidity; painfully desirous of another's advantages", "Synonyms: covetous, envious"]}
+{"data": ["2021-07-14T10:02:10.967380+00:00", 402, "Your mother is", "utterable", "Similar to: expressible", "Definition: capable of being uttered in words or sentences", "Synonyms: speakable"]}
