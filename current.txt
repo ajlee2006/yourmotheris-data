@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T05:04:08.007237+00:00", 397, "Your mother is", "effusive", "Pronunciation: /\u026a\u02c8fjus\u026av/", "Definition: uttered with unrestrained enthusiasm", "Synonyms: burbling, burbly, gushing"]}
+{"data": ["2021-07-14T06:03:27.569176+00:00", 398, "Your mother is", "bellying", "Similar to: protrusive", "Definition: curving outward", "Synonyms: bellied, bulbous, bulging, bulgy, protuberant"]}
