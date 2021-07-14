@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T13:03:46.648107+00:00", 405, "Your mother is", "narrowed", "Pronunciation: /\u02c8n\u025bro\u028ad/", "Definition: made narrow; limited in breadth", ""]}
+{"data": ["2021-07-14T14:00:52.470399+00:00", 406, "Your mother is", "blueish", "Pronunciation: /\u02c8blu\u026a\u0283/", "Definition: of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky", "Synonyms: blue, bluish"]}
