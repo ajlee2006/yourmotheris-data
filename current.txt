@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T19:03:16.894099+00:00", 411, "Your mother is", "vertical", "Pronunciation: /\u02c8v\u025crt\u026ak\u0259l/", "Definition: at right angles to the plane of the horizon or a base line", "Synonyms: perpendicular"]}
+{"data": ["2021-07-14T20:03:17.297327+00:00", 412, "Your mother is", "cacophonic", "Pronunciation: /\u02cck\u00e6k\u0259\u02c8f\u0251n\u026ak/", "Definition: having an unpleasant sound", "Synonyms: cacophonous"]}
