@@ -1,1 +1,1 @@
-{"data": ["2021-07-14T20:03:17.297327+00:00", 412, "Your mother is", "cacophonic", "Pronunciation: /\u02cck\u00e6k\u0259\u02c8f\u0251n\u026ak/", "Definition: having an unpleasant sound", "Synonyms: cacophonous"]}
+{"data": ["2021-07-14T21:02:39.199915+00:00", 413, "Your mother is", "corroded", "Pronunciation: /k\u025dr\u02c8o\u028ad\u026ad/", "Definition: eaten away as by acid or oxidation", ""]}
