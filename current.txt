@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T04:03:40.196176+00:00", 420, "Your mother is", "about", "Pronunciation: /\u0259\u02c8ba\u028at/", "Definition: on the move", "Synonyms: astir"]}
+{"data": ["2021-07-15T05:01:09.622633+00:00", 421, "Your mother is", "sincere", "Pronunciation: /s\u026an\u02c8sir/", "Definition: characterized by a firm and humorless belief in the validity of your opinions", "Synonyms: earnest, solemn"]}
