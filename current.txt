@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T08:02:22.811343+00:00", 424, "Your mother is", "unclipped", "Similar to: uncut", "Definition: not clipped", ""]}
+{"data": ["2021-07-15T09:04:53.145560+00:00", 425, "Your mother is", "embryotic", "Similar to: early", "Definition: in an early stage of development", "Synonyms: embryonic"]}
