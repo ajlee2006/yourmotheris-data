@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T01:04:57.094513+00:00", 417, "Your mother is", "shinto", "Pronunciation: /\u02c8\u0283\u026anto\u028a/", "Definition: relating to or characteristic of Shintoism", "Synonyms: shintoist, shintoistic"]}
+{"data": ["2021-07-15T02:02:02.361991+00:00", 418, "Your mother is", "blastodermatic", "", "Definition: of or relating to a blastoderm", "Synonyms: blastodermic"]}
