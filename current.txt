@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T05:01:09.622633+00:00", 421, "Your mother is", "sincere", "Pronunciation: /s\u026an\u02c8sir/", "Definition: characterized by a firm and humorless belief in the validity of your opinions", "Synonyms: earnest, solemn"]}
+{"data": ["2021-07-15T06:01:50.703688+00:00", 422, "Your mother is", "residuary", "Pronunciation: /r\u026a\u02c8z\u026ad\u0292u\u02cc\u025bri/", "Definition: relating to or indicating a remainder", "Synonyms: residual"]}
