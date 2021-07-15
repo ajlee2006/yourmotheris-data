@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T07:03:17.058628+00:00", 423, "Your mother is", "ago", "Pronunciation: /\u0259\u02c8\u0261o\u028a/", "Definition: gone by; or in the past", "Synonyms: agone"]}
+{"data": ["2021-07-15T08:02:22.811343+00:00", 424, "Your mother is", "unclipped", "Similar to: uncut", "Definition: not clipped", ""]}
