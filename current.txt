@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T00:04:47.827495+00:00", 416, "Your mother is", "dastardly", "Pronunciation: /\u02c8d\u00e6st\u0259rdli/", "Definition: despicably cowardly", "Synonyms: dastard"]}
+{"data": ["2021-07-15T01:04:57.094513+00:00", 417, "Your mother is", "shinto", "Pronunciation: /\u02c8\u0283\u026anto\u028a/", "Definition: relating to or characteristic of Shintoism", "Synonyms: shintoist, shintoistic"]}
