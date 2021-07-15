@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T18:00:46.055190+00:00", 434, "Your mother is", "unconquerable", "Pronunciation: /\u0259n\u02c8k\u0251\u014bk\u0259r\u0259b\u0259l/", "Definition: incapable of being surmounted or excelled", "Synonyms: insuperable"]}
+{"data": ["2021-07-15T19:03:07.725769+00:00", 435, "Your mother is", "driving", "Pronunciation: /\u02c8dra\u026av\u026a\u014b/", "Definition: having the power of driving or impelling", "Synonyms: impulsive"]}
