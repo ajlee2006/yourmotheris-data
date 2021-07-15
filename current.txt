@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T20:02:13.029829+00:00", 436, "Your mother is", "unrewarded", "Pronunciation: /\u02cc\u0259nri\u02c8wo\u028ard\u026ad/", "Definition: having acquired or gained nothing", "Synonyms: empty-handed"]}
+{"data": ["2021-07-15T21:02:57.143523+00:00", 437, "Your mother is", "terse", "Pronunciation: /t\u025crs/", "Definition: brief and to the point; effectively cut short", "Synonyms: crisp, curt, laconic"]}
