@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T13:01:22.488694+00:00", 429, "Your mother is", "premiere", "Pronunciation: /pr\u026a\u02c8mir/", "Definition: preceding all others in time", "Synonyms: premier"]}
+{"data": ["2021-07-15T14:03:16.973669+00:00", 430, "Your mother is", "prongy", "Similar to: divided", "Definition: resembling a fork; divided or separated into two branches", "Synonyms: bifurcate, biramous, branched, forficate, fork-like, forked, pronged"]}
