@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T10:00:39.291668+00:00", 426, "Your mother is", "ectodermic", "", "Definition: of or relating to the ectoderm", "Synonyms: ectodermal"]}
+{"data": ["2021-07-15T11:02:03.090399+00:00", 427, "Your mother is", "clad", "Pronunciation: /kl\u00e6d/", "Definition: wearing or provided with clothing; sometimes used in combination", "Synonyms: clothed"]}
