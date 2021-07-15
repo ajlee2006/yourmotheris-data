@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T11:02:03.090399+00:00", 427, "Your mother is", "clad", "Pronunciation: /kl\u00e6d/", "Definition: wearing or provided with clothing; sometimes used in combination", "Synonyms: clothed"]}
+{"data": ["2021-07-15T12:01:38.679167+00:00", 428, "Your mother is", "boring", "Pronunciation: /\u02c8bo\u028ar\u026a\u014b/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: deadening, dull, ho-hum, irksome, slow, tedious, tiresome, wearisome"]}
