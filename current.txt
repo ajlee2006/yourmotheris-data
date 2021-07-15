@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T22:03:12.008393+00:00", 438, "Your mother is", "roofed", "Pronunciation: /ruft/", "Definition: covered with a roof; having a roof as specified (often used in combination)", ""]}
+{"data": ["2021-07-15T23:02:51.793383+00:00", 439, "Your mother is", "lonely", "Pronunciation: /\u02c8lo\u028anli/", "Definition: lacking companions or companionship", "Synonyms: alone, lone, solitary"]}
