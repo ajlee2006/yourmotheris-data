@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T09:04:53.145560+00:00", 425, "Your mother is", "embryotic", "Similar to: early", "Definition: in an early stage of development", "Synonyms: embryonic"]}
+{"data": ["2021-07-15T10:00:39.291668+00:00", 426, "Your mother is", "ectodermic", "", "Definition: of or relating to the ectoderm", "Synonyms: ectodermal"]}
