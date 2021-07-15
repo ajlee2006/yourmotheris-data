@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T12:01:38.679167+00:00", 428, "Your mother is", "boring", "Pronunciation: /\u02c8bo\u028ar\u026a\u014b/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: deadening, dull, ho-hum, irksome, slow, tedious, tiresome, wearisome"]}
+{"data": ["2021-07-15T13:01:22.488694+00:00", 429, "Your mother is", "premiere", "Pronunciation: /pr\u026a\u02c8mir/", "Definition: preceding all others in time", "Synonyms: premier"]}
