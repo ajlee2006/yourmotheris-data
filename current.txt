@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T12:03:28.016377+00:00", 452, "Your mother is", "antic", "Pronunciation: /\u02c8\u00e6nt\u026ak/", "Definition: ludicrously odd", "Synonyms: fantastic, fantastical, grotesque"]}
+{"data": ["2021-07-16T13:01:32.297036+00:00", 453, "Your mother is", "bacchic", "Pronunciation: /\u02c8b\u00e6k\u026ak/", "Definition: used of riotously drunken merrymaking", "Synonyms: bacchanal, bacchanalian, carousing, orgiastic"]}
