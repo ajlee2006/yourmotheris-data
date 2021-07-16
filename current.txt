@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T15:00:59.109690+00:00", 455, "Your mother is", "enabling", "Pronunciation: /\u025bn\u02c8e\u026abl\u026a\u014b/", "Definition: providing legal power or sanction", ""]}
+{"data": ["2021-07-16T16:01:01.394077+00:00", 456, "Your mother is", "praetorian", "Pronunciation: /pri\u02c8to\u028ari\u0259n/", "Definition: characteristic of or similar to the corruptible soldiers in the Praetorian Guard with respect to corruption or political venality", "Synonyms: pretorian"]}
