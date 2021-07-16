@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T05:03:43.324701+00:00", 445, "Your mother is", "surprised", "Pronunciation: /s\u025dr\u02c8pra\u026azd/", "Definition: taken unawares or suddenly and feeling wonder or astonishment", ""]}
+{"data": ["2021-07-16T06:04:21.826875+00:00", 446, "Your mother is", "anal retentive", "", "Definition: a stage in psychosexual development when the child's interest is concentrated on the anal region; fixation at this stage is said to result in orderliness, meanness, stubbornness, compulsiveness, etc.", "Synonyms: anal"]}
