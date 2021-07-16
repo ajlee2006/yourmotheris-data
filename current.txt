@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T01:02:37.010755+00:00", 441, "Your mother is", "tree-living", "Pronunciation: /tri-\u02c8l\u026av\u026a\u014b/", "Definition: inhabiting or frequenting trees", "Synonyms: arboreal, arboreous"]}
+{"data": ["2021-07-16T02:02:16.239455+00:00", 442, "Your mother is", "apple-scented", "Similar to: odorous", "Definition: smelling of apples", ""]}
