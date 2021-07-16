@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T20:00:24.908868+00:00", 460, "Your mother is", "lacrimal", "Pronunciation: /\u02c8l\u00e6kr\u0259m\u0259l/", "Definition: of or relating to tears", "Synonyms: lachrymal"]}
+{"data": ["2021-07-16T21:02:03.672471+00:00", 461, "Your mother is", "orange", "Pronunciation: /\u02c8\u0254r\u026and\u0292/", "Definition: of the color between red and yellow; similar to the color of a ripe orange", "Synonyms: orangish"]}
