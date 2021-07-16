@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T02:02:16.239455+00:00", 442, "Your mother is", "apple-scented", "Similar to: odorous", "Definition: smelling of apples", ""]}
+{"data": ["2021-07-16T03:04:14.356335+00:00", 443, "Your mother is", "placating", "Pronunciation: /\u02c8ple\u026a\u02ccke\u026at\u026a\u014b/", "Definition: intended to pacify by acceding to demands or granting concessions", "Synonyms: appeasing, placative, placatory"]}
