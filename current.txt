@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T07:03:34.985149+00:00", 447, "Your mother is", "riskless", "Pronunciation: /\u02c8r\u026askl\u028cs/", "Definition: thought to be devoid of risk", "Synonyms: risk-free, unhazardous"]}
+{"data": ["2021-07-16T08:05:00.771141+00:00", 448, "Your mother is", "deciding", "Pronunciation: /d\u028c\u02c8sa\u026ad\u026a\u014b/", "Definition: having the power or quality of deciding", "Synonyms: determinant, determinative, determining"]}
