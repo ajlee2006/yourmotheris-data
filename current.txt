@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T16:01:01.394077+00:00", 456, "Your mother is", "praetorian", "Pronunciation: /pri\u02c8to\u028ari\u0259n/", "Definition: characteristic of or similar to the corruptible soldiers in the Praetorian Guard with respect to corruption or political venality", "Synonyms: pretorian"]}
+{"data": ["2021-07-16T17:01:53.272157+00:00", 457, "Your mother is", "thickened", "Pronunciation: /\u02c8\u03b8\u026ak\u028cnd/", "Definition: having calluses; having skin made tough and thick through wear", "Synonyms: callous, calloused"]}
