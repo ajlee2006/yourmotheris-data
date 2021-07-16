@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T13:01:32.297036+00:00", 453, "Your mother is", "bacchic", "Pronunciation: /\u02c8b\u00e6k\u026ak/", "Definition: used of riotously drunken merrymaking", "Synonyms: bacchanal, bacchanalian, carousing, orgiastic"]}
+{"data": ["2021-07-16T14:01:21.369307+00:00", 454, "Your mother is", "lucifugal", "", "Definition: light-avoiding", "Synonyms: lucifugous"]}
