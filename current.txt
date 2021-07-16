@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T04:02:28.106472+00:00", 444, "Your mother is", "assonant", "Similar to: same", "Definition: having the same sound (especially the same vowel sound) occurring in successive stressed syllables", ""]}
+{"data": ["2021-07-16T05:03:43.324701+00:00", 445, "Your mother is", "surprised", "Pronunciation: /s\u025dr\u02c8pra\u026azd/", "Definition: taken unawares or suddenly and feeling wonder or astonishment", ""]}
