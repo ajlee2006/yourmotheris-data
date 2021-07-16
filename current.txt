@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T03:04:14.356335+00:00", 443, "Your mother is", "placating", "Pronunciation: /\u02c8ple\u026a\u02ccke\u026at\u026a\u014b/", "Definition: intended to pacify by acceding to demands or granting concessions", "Synonyms: appeasing, placative, placatory"]}
+{"data": ["2021-07-16T04:02:28.106472+00:00", 444, "Your mother is", "assonant", "Similar to: same", "Definition: having the same sound (especially the same vowel sound) occurring in successive stressed syllables", ""]}
