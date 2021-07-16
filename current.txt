@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T21:02:03.672471+00:00", 461, "Your mother is", "orange", "Pronunciation: /\u02c8\u0254r\u026and\u0292/", "Definition: of the color between red and yellow; similar to the color of a ripe orange", "Synonyms: orangish"]}
+{"data": ["2021-07-16T22:02:50.711785+00:00", 462, "Your mother is", "benignant", "Pronunciation: /b\u026a\u02c8n\u026agn\u0259nt/", "Definition: characterized by kindness and warm courtesy especially of a king to his subjects", "Synonyms: gracious"]}
