@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T22:02:50.711785+00:00", 462, "Your mother is", "benignant", "Pronunciation: /b\u026a\u02c8n\u026agn\u0259nt/", "Definition: characterized by kindness and warm courtesy especially of a king to his subjects", "Synonyms: gracious"]}
+{"data": ["2021-07-16T23:04:43.247342+00:00", 463, "Your mother is", "handed-down", "Similar to: traditional", "Definition: having been passed along from generation to generation", "Synonyms: tralatitious"]}
