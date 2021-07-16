@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T11:03:30.130528+00:00", 451, "Your mother is", "unsafe", "Pronunciation: /\u0259n\u02c8se\u026af/", "Definition: involving or causing danger or risk; liable to hurt or harm", "Synonyms: dangerous"]}
+{"data": ["2021-07-16T12:03:28.016377+00:00", 452, "Your mother is", "antic", "Pronunciation: /\u02c8\u00e6nt\u026ak/", "Definition: ludicrously odd", "Synonyms: fantastic, fantastical, grotesque"]}
