@@ -1,1 +1,1 @@
-{"data": ["2021-07-15T23:02:51.793383+00:00", 439, "Your mother is", "lonely", "Pronunciation: /\u02c8lo\u028anli/", "Definition: lacking companions or companionship", "Synonyms: alone, lone, solitary"]}
+{"data": ["2021-07-16T00:03:53.463070+00:00", 440, "Your mother is", "endozoic", "", "Definition: living within a living animal usually as a parasite", "Synonyms: entozoan, entozoic"]}
