@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T10:00:29.506792+00:00", 450, "Your mother is", "off-limits", "Pronunciation: /\u02c8\u0254f\u02c8l\u026am\u026ats/", "Definition: barred to a designated group", "Synonyms: out-of-bounds"]}
+{"data": ["2021-07-16T11:03:30.130528+00:00", 451, "Your mother is", "unsafe", "Pronunciation: /\u0259n\u02c8se\u026af/", "Definition: involving or causing danger or risk; liable to hurt or harm", "Synonyms: dangerous"]}
