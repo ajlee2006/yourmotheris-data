@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T19:02:27.698400+00:00", 459, "Your mother is", "knightly", "Pronunciation: /\u02c8na\u026atli/", "Definition: being attentive to women like an ideal knight", "Synonyms: chivalrous, gallant"]}
+{"data": ["2021-07-16T20:00:24.908868+00:00", 460, "Your mother is", "lacrimal", "Pronunciation: /\u02c8l\u00e6kr\u0259m\u0259l/", "Definition: of or relating to tears", "Synonyms: lachrymal"]}
