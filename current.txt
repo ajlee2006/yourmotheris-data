@@ -1,1 +1,1 @@
-{"data": ["2021-07-16T09:03:42.510685+00:00", 449, "Your mother is", "sham", "Pronunciation: /\u0283\u0259m/", "Definition: adopted in order to deceive", "Synonyms: assumed, false, fictitious, fictive, pretended, put on"]}
+{"data": ["2021-07-16T10:00:29.506792+00:00", 450, "Your mother is", "off-limits", "Pronunciation: /\u02c8\u0254f\u02c8l\u026am\u026ats/", "Definition: barred to a designated group", "Synonyms: out-of-bounds"]}
