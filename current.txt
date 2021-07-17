@@ -1,1 +1,1 @@
-{"data": ["2021-07-17T05:02:15.246508+00:00", 469, "Your mother is", "die-cast", "Pronunciation: /da\u026a-c\u0251st/", "Definition: formed by forcing molten metal into a die", ""]}
+{"data": ["2021-07-17T06:04:53.653305+00:00", 470, "Your mother is", "incommunicative", "Pronunciation: /\u02cc\u026ank\u0259\u02c8mjun\u0259\u02ccke\u026at\u026av/", "Definition: not inclined to talk or give information or express opinions", "Synonyms: uncommunicative"]}
