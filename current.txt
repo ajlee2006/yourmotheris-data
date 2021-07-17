@@ -1,1 +1,1 @@
-{"data": ["2021-07-17T14:03:26.630854+00:00", 478, "Your mother is", "batty", "Pronunciation: /\u02c8b\u00e6ti/", "Definition: informal or slang terms for mentally irregular", "Synonyms: around the bend, balmy, barmy, bats, bonkers, buggy, cracked, crackers, daft, dotty, fruity, haywire, kookie, kooky, loco, loony, loopy, nuts, nutty, round the bend, wacky, whacky"]}
+{"data": ["2021-07-17T15:03:53.488839+00:00", 479, "Your mother is", "fecund", "Pronunciation: /\u02c8fik\u0259nd/", "Definition: intellectually productive", "Synonyms: fertile, prolific"]}
