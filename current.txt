@@ -1,1 +1,1 @@
-{"data": ["2021-07-17T02:01:03.069190+00:00", 466, "Your mother is", "standpat", "Similar to: conservative", "Definition: old-fashioned and out of date", "Synonyms: fusty, nonprogressive, unprogressive"]}
+{"data": ["2021-07-17T03:05:02.694186+00:00", 467, "Your mother is", "unwieldy", "Pronunciation: /\u0259n\u02c8wildi/", "Definition: difficult to use or handle or manage because of size or weight or shape", "Synonyms: unmanageable"]}
