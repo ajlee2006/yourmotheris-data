@@ -1,1 +1,1 @@
-{"data": ["2021-07-17T04:01:23.686167+00:00", 468, "Your mother is", "unstuck", "Pronunciation: /\u028cn\u02c8st\u028ck/", "Definition: thrown into a state of disorganization or incoherence", "Synonyms: undone"]}
+{"data": ["2021-07-17T05:02:15.246508+00:00", 469, "Your mother is", "die-cast", "Pronunciation: /da\u026a-c\u0251st/", "Definition: formed by forcing molten metal into a die", ""]}
