@@ -1,1 +1,1 @@
-{"data": ["2021-07-17T08:04:29.068277+00:00", 472, "Your mother is", "uncured", "Pronunciation: /\u0259n\u02c8kj\u028a\u0259d/", "Definition: not seasoned", ""]}
+{"data": ["2021-07-17T09:03:41.511650+00:00", 473, "Your mother is", "concentric", "Pronunciation: /k\u0259n\u02c8s\u025bntr\u026ak/", "Definition: having a common center", "Synonyms: concentrical, homocentric"]}
