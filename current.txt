@@ -1,1 +1,1 @@
-{"data": ["2021-07-17T15:03:53.488839+00:00", 479, "Your mother is", "fecund", "Pronunciation: /\u02c8fik\u0259nd/", "Definition: intellectually productive", "Synonyms: fertile, prolific"]}
+{"data": ["2021-07-17T16:03:52.670343+00:00", 480, "Your mother is", "inducive", "Similar to: causative", "Definition: inducing or influencing; leading on", "Synonyms: inductive"]}
