@@ -1,1 +1,1 @@
-{"data": ["2021-07-17T09:03:41.511650+00:00", 473, "Your mother is", "concentric", "Pronunciation: /k\u0259n\u02c8s\u025bntr\u026ak/", "Definition: having a common center", "Synonyms: concentrical, homocentric"]}
+{"data": ["2021-07-17T10:03:55.971824+00:00", 474, "Your mother is", "esthetic", "Pronunciation: /\u025bs\u02c8\u03b8\u025bt\u026ak/", "Definition: relating to or dealing with the subject of aesthetics", "Synonyms: aesthetic"]}
