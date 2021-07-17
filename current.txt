@@ -1,1 +1,1 @@
-{"data": ["2021-07-17T20:02:20.151608+00:00", 484, "Your mother is", "dishevelled", "Pronunciation: /d\u026a\u02c8\u0283\u025bv\u0259ld/", "Definition: in disarray; extremely disorderly", "Synonyms: disheveled, frowzled, rumpled, tousled"]}
+{"data": ["2021-07-17T21:02:14.575713+00:00", 485, "Your mother is", "quadrasonic", "", "Definition: of or relating to quadraphony", "Synonyms: quadraphonic, quadriphonic, quadrisonic"]}
