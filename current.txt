@@ -1,1 +1,1 @@
-{"data": ["2021-07-17T00:03:43.888464+00:00", 464, "Your mother is", "unethical", "Pronunciation: /\u028cn\u02c8\u025b\u03b8\u026ak\u028cl/", "Definition: not conforming to approved standards of social or professional behavior", ""]}
+{"data": ["2021-07-17T01:02:34.390272+00:00", 465, "Your mother is", "hard-pressed", "Pronunciation: /\u02c8h\u0251rd\u02c8pr\u025bst/", "Definition: facing or experiencing financial trouble or difficulty", "Synonyms: distressed, hard put, in a bad way"]}
