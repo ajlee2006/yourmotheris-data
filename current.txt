@@ -1,1 +1,1 @@
-{"data": ["2021-07-17T22:03:59.952567+00:00", 486, "Your mother is", "lap-streak", "", "Definition: having overlapping hull planks", "Synonyms: clincher-built, clinker-built, lap-strake, lap-straked, lap-streaked"]}
+{"data": ["2021-07-17T23:02:08.934229+00:00", 487, "Your mother is", "trustworthy", "Pronunciation: /\u02c8tr\u0259st\u02ccw\u025cr\u00f0i/", "Definition: worthy of trust or belief", "Synonyms: trusty"]}
