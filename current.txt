@@ -1,1 +1,1 @@
-{"data": ["2021-07-17T07:04:45.569912+00:00", 471, "Your mother is", "glazed", "Pronunciation: /gle\u026azd/", "Definition: having a shiny surface or coating", "Synonyms: shiny"]}
+{"data": ["2021-07-17T08:04:29.068277+00:00", 472, "Your mother is", "uncured", "Pronunciation: /\u0259n\u02c8kj\u028a\u0259d/", "Definition: not seasoned", ""]}
