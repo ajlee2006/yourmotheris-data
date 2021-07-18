@@ -1,1 +1,1 @@
-{"data": ["2021-07-18T04:03:13.460926+00:00", 492, "Your mother is", "fireproof", "Pronunciation: /\u02c8fa\u026a\u0259r\u02ccpruf/", "Definition: impervious to damage by fire", ""]}
+{"data": ["2021-07-18T05:00:47.474833+00:00", 493, "Your mother is", "inhospitable", "Pronunciation: /\u026an\u02c8h\u0251sp\u026at\u0259b\u0259l/", "Definition: not hospitable", ""]}
