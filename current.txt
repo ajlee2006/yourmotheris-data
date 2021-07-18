@@ -1,1 +1,1 @@
-{"data": ["2021-07-18T18:01:49.218649+00:00", 506, "Your mother is", "wasp-waisted", "Pronunciation: /w\u0251sp-\u02c8we\u026ast\u026ad/", "Definition: having a small waist", "Synonyms: slender-waisted, slim-waisted"]}
+{"data": ["2021-07-18T19:03:07.049588+00:00", 507, "Your mother is", "plumaged", "Similar to: feathered", "Definition: having or covered in plumage; often used as a combining form", ""]}
