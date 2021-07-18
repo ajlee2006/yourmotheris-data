@@ -1,1 +1,1 @@
-{"data": ["2021-07-18T03:04:35.114966+00:00", 491, "Your mother is", "ritzy", "Pronunciation: /\u02c8r\u026atsi/", "Definition: luxuriously elegant", ""]}
+{"data": ["2021-07-18T04:03:13.460926+00:00", 492, "Your mother is", "fireproof", "Pronunciation: /\u02c8fa\u026a\u0259r\u02ccpruf/", "Definition: impervious to damage by fire", ""]}
