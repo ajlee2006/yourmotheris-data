@@ -1,1 +1,1 @@
-{"data": ["2021-07-18T02:02:17.085249+00:00", 490, "Your mother is", "blowy", "Pronunciation: /\u02c8blo\u028ai/", "Definition: abounding in or exposed to the wind or breezes", "Synonyms: breezy, windy"]}
+{"data": ["2021-07-18T03:04:35.114966+00:00", 491, "Your mother is", "ritzy", "Pronunciation: /\u02c8r\u026atsi/", "Definition: luxuriously elegant", ""]}
