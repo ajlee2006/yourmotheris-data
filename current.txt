@@ -1,1 +1,1 @@
-{"data": ["2021-07-18T05:00:47.474833+00:00", 493, "Your mother is", "inhospitable", "Pronunciation: /\u026an\u02c8h\u0251sp\u026at\u0259b\u0259l/", "Definition: not hospitable", ""]}
+{"data": ["2021-07-18T06:02:43.839465+00:00", 494, "Your mother is", "wood-fired", "Similar to: fueled", "Definition: fueled by wood", "Synonyms: wood-burning"]}
