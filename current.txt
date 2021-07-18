@@ -1,1 +1,1 @@
-{"data": ["2021-07-18T13:02:12.218959+00:00", 501, "Your mother is", "crescendo", "Pronunciation: /kr\u026a\u02c8\u0283\u025bndo\u028a/", "Definition: (music) gradually increasing in volume", ""]}
+{"data": ["2021-07-18T14:04:34.239848+00:00", 502, "Your mother is", "magenta pink", "Similar to: chromatic", "Definition: of pink tinged with magenta", ""]}
