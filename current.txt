@@ -1,1 +1,1 @@
-{"data": ["2021-07-18T14:04:34.239848+00:00", 502, "Your mother is", "magenta pink", "Similar to: chromatic", "Definition: of pink tinged with magenta", ""]}
+{"data": ["2021-07-18T15:01:49.170015+00:00", 503, "Your mother is", "diplomatic", "Pronunciation: /\u02ccd\u026apl\u0259\u02c8m\u00e6t\u026ak/", "Definition: using or marked by tact in dealing with sensitive matters or people", "Synonyms: diplomatical"]}
