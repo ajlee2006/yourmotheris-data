@@ -1,1 +1,1 @@
-{"data": ["2021-07-18T12:01:11.689067+00:00", 500, "Your mother is", "thickset", "Pronunciation: /\u02c8\u03b8\u026ak\u02c8s\u025bt/", "Definition: having a short and solid form or stature", "Synonyms: compact, heavyset, stocky, thick"]}
+{"data": ["2021-07-18T13:02:12.218959+00:00", 501, "Your mother is", "crescendo", "Pronunciation: /kr\u026a\u02c8\u0283\u025bndo\u028a/", "Definition: (music) gradually increasing in volume", ""]}
