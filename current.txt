@@ -1,1 +1,1 @@
-{"data": ["2021-07-18T01:02:19.334910+00:00", 489, "Your mother is", "shipshape", "Pronunciation: /\u02c8\u0283\u026ap\u02cc\u0283e\u026ap/", "Definition: of places; characterized by order and neatness; free from disorder", "Synonyms: trim, well-kept"]}
+{"data": ["2021-07-18T02:02:17.085249+00:00", 490, "Your mother is", "blowy", "Pronunciation: /\u02c8blo\u028ai/", "Definition: abounding in or exposed to the wind or breezes", "Synonyms: breezy, windy"]}
