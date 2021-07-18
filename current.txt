@@ -1,1 +1,1 @@
-{"data": ["2021-07-18T11:01:29.373146+00:00", 499, "Your mother is", "complicated", "Pronunciation: /\u02c8k\u0251mpl\u0259\u02ccke\u026at\u026ad/", "Definition: difficult to analyze or understand", "Synonyms: complex"]}
+{"data": ["2021-07-18T12:01:11.689067+00:00", 500, "Your mother is", "thickset", "Pronunciation: /\u02c8\u03b8\u026ak\u02c8s\u025bt/", "Definition: having a short and solid form or stature", "Synonyms: compact, heavyset, stocky, thick"]}
