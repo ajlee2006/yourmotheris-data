@@ -1,1 +1,1 @@
-{"data": ["2021-07-18T09:02:03.032794+00:00", 497, "Your mother is", "techy", "Pronunciation: /\u02c8t\u025b\u02a7i/", "Definition: easily irritated or annoyed", "Synonyms: cranky, fractious, irritable, nettlesome, peckish, peevish, pettish, petulant, scratchy, testy, tetchy"]}
+{"data": ["2021-07-18T10:01:38.742024+00:00", 498, "Your mother is", "amative", "Pronunciation: /\u02c8\u00e6m\u0259t\u026av/", "Definition: inclined toward or displaying love", "Synonyms: amorous"]}
