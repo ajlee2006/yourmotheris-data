@@ -1,1 +1,1 @@
-{"data": ["2021-07-18T16:03:34.110831+00:00", 504, "Your mother is", "overt", "Pronunciation: /o\u028a\u02c8v\u025crt/", "Definition: open and observable; not secret or hidden", "Synonyms: open"]}
+{"data": ["2021-07-18T17:00:23.456218+00:00", 505, "Your mother is", "xliii", "Similar to: cardinal", "Definition: being three more than forty", "Synonyms: 43, forty-three"]}
