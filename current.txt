@@ -1,1 +1,1 @@
-{"data": ["2021-07-18T17:00:23.456218+00:00", 505, "Your mother is", "xliii", "Similar to: cardinal", "Definition: being three more than forty", "Synonyms: 43, forty-three"]}
+{"data": ["2021-07-18T18:01:49.218649+00:00", 506, "Your mother is", "wasp-waisted", "Pronunciation: /w\u0251sp-\u02c8we\u026ast\u026ad/", "Definition: having a small waist", "Synonyms: slender-waisted, slim-waisted"]}
