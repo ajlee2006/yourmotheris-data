@@ -1,1 +1,1 @@
-{"data": ["2021-07-19T09:04:44.812564+00:00", 521, "Your mother is", "andante", "Pronunciation: /\u00e6n\u02c8d\u00e6nti/", "Definition: (of tempo) moderately slow", ""]}
+{"data": ["2021-07-19T10:03:01.337619+00:00", 522, "Your mother is", "corn-fed", "Pronunciation: /k\u0254rn-f\u025bd/", "Definition: fed on corn", ""]}
