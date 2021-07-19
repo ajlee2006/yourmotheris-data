@@ -1,1 +1,1 @@
-{"data": ["2021-07-19T08:01:30.342552+00:00", 520, "Your mother is", "hypnagogic", "Similar to: depressant", "Definition: sleep inducing", "Synonyms: hypnogogic, somniferous, somnific, soporiferous, soporific"]}
+{"data": ["2021-07-19T09:04:44.812564+00:00", 521, "Your mother is", "andante", "Pronunciation: /\u00e6n\u02c8d\u00e6nti/", "Definition: (of tempo) moderately slow", ""]}
