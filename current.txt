@@ -1,1 +1,1 @@
-{"data": ["2021-07-19T07:04:26.442745+00:00", 519, "Your mother is", "ripe", "Pronunciation: /ra\u026ap/", "Definition: far along in time", "Synonyms: advanced"]}
+{"data": ["2021-07-19T08:01:30.342552+00:00", 520, "Your mother is", "hypnagogic", "Similar to: depressant", "Definition: sleep inducing", "Synonyms: hypnogogic, somniferous, somnific, soporiferous, soporific"]}
