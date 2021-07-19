@@ -1,1 +1,1 @@
-{"data": ["2021-07-19T14:04:29.350670+00:00", 526, "Your mother is", "primary", "Pronunciation: /\u02c8pra\u026am\u025bri/", "Definition: of or being the essential or basic part", "Synonyms: basal, elemental, elementary"]}
+{"data": ["2021-07-19T15:04:04.522638+00:00", 527, "Your mother is", "flightless", "Pronunciation: /\u02c8fla\u026atl\u026as/", "Definition: incapable of flying", ""]}
