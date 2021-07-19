@@ -1,1 +1,1 @@
-{"data": ["2021-07-19T03:04:21.495966+00:00", 515, "Your mother is", "insidious", "Pronunciation: /\u026an\u02c8s\u026adi\u0259s/", "Definition: working or spreading in a hidden and usually injurious way", "Synonyms: pernicious, subtle"]}
+{"data": ["2021-07-19T04:03:11.108725+00:00", 516, "Your mother is", "disavowable", "Similar to: deniable", "Definition: capable of being disavowed", ""]}
