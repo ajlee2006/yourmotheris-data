@@ -1,1 +1,1 @@
-{"data": ["2021-07-19T02:02:25.655951+00:00", 514, "Your mother is", "cancellated", "Pronunciation: /\u02c8k\u00e6ns\u0259\u02ccle\u026at\u026ad/", "Definition: having a latticelike structure pierced with holes or windows", "Synonyms: cancellate, clathrate"]}
+{"data": ["2021-07-19T03:04:21.495966+00:00", 515, "Your mother is", "insidious", "Pronunciation: /\u026an\u02c8s\u026adi\u0259s/", "Definition: working or spreading in a hidden and usually injurious way", "Synonyms: pernicious, subtle"]}
