@@ -1,1 +1,1 @@
-{"data": ["2021-07-19T19:00:37.460566+00:00", 531, "Your mother is", "consecrated", "Pronunciation: /\u02c8k\u0251ns\u028c\u02cckre\u026at\u028cd/", "Definition: made or declared or believed to be holy; devoted to a deity or some religious ceremony or use", "Synonyms: sacred, sanctified"]}
+{"data": ["2021-07-19T20:02:57.649321+00:00", 532, "Your mother is", "ex officio", "Pronunciation: /\u025bks-\u0259\u02c8f\u026a\u0283i\u02cco\u028a/", "Definition: by virtue of an office or position", ""]}
