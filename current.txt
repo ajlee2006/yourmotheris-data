@@ -1,1 +1,1 @@
-{"data": ["2021-07-19T01:02:20.903703+00:00", 513, "Your mother is", "white-bread", "Similar to: conventional", "Definition: of or belonging to or representative of the white middle class", ""]}
+{"data": ["2021-07-19T02:02:25.655951+00:00", 514, "Your mother is", "cancellated", "Pronunciation: /\u02c8k\u00e6ns\u0259\u02ccle\u026at\u026ad/", "Definition: having a latticelike structure pierced with holes or windows", "Synonyms: cancellate, clathrate"]}
