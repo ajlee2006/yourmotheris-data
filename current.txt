@@ -1,1 +1,1 @@
-{"data": ["2021-07-19T04:03:11.108725+00:00", 516, "Your mother is", "disavowable", "Similar to: deniable", "Definition: capable of being disavowed", ""]}
+{"data": ["2021-07-19T05:00:41.198974+00:00", 517, "Your mother is", "duodecimal", "Pronunciation: /\u02ccdu\u0259\u02c8d\u025bs\u0259m\u0259l/", "Definition: based on twelve", ""]}
