@@ -1,1 +1,1 @@
-{"data": ["2021-07-19T05:00:41.198974+00:00", 517, "Your mother is", "duodecimal", "Pronunciation: /\u02ccdu\u0259\u02c8d\u025bs\u0259m\u0259l/", "Definition: based on twelve", ""]}
+{"data": ["2021-07-19T06:01:55.785230+00:00", 518, "Your mother is", "uncounted", "Pronunciation: /\u0259n\u02c8ka\u028ant\u026ad/", "Definition: too numerous to be counted", "Synonyms: countless, infinite, innumerable, innumerous, multitudinous, myriad, numberless, unnumberable, unnumbered, unnumerable"]}
