@@ -1,1 +1,1 @@
-{"data": ["2021-07-19T18:02:42.373926+00:00", 530, "Your mother is", "adjuratory", "Pronunciation: /\u0259\u02c8d\u0292\u028ar\u0259\u02ccto\u028ari/", "Definition: containing a solemn charge or command", ""]}
+{"data": ["2021-07-19T19:00:37.460566+00:00", 531, "Your mother is", "consecrated", "Pronunciation: /\u02c8k\u0251ns\u028c\u02cckre\u026at\u028cd/", "Definition: made or declared or believed to be holy; devoted to a deity or some religious ceremony or use", "Synonyms: sacred, sanctified"]}
