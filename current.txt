@@ -1,1 +1,1 @@
-{"data": ["2021-07-20T20:01:34.428504+00:00", 556, "Your mother is", "upcountry", "Pronunciation: /\u02c8\u0259p\u02cck\u0259ntri/", "Definition: of or coming from the middle of a region or country", "Synonyms: interior, midland"]}
+{"data": ["2021-07-20T21:00:18.545224+00:00", 557, "Your mother is", "stuffy", "Pronunciation: /\u02c8st\u0259fi/", "Definition: excessively conventional and unimaginative and hence dull", "Synonyms: stodgy"]}
