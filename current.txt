@@ -1,1 +1,1 @@
-{"data": ["2021-07-19T23:02:06.054951+00:00", 535, "Your mother is", "emboldened", "Pronunciation: /\u025bm\u02c8bo\u028ald\u028cnd/", "Definition: made bold or courageous", ""]}
+{"data": ["2021-07-20T00:02:39.196067+00:00", 536, "Your mother is", "interscholastic", "Pronunciation: /\u02cc\u026ant\u0259rsk\u0259\u02c8l\u00e6st\u026ak/", "Definition: used of competition or cooperation between secondary schools", "Synonyms: interschool"]}
