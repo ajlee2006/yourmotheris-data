@@ -1,1 +1,1 @@
-{"data": ["2021-07-20T05:02:25.982236+00:00", 541, "Your mother is", "studied", "Pronunciation: /\u02c8st\u0259did/", "Definition: produced or marked by conscious design or premeditation", ""]}
+{"data": ["2021-07-20T06:03:16.379304+00:00", 542, "Your mother is", "persistent", "Pronunciation: /p\u0259r\u02c8s\u026ast\u0259nt/", "Definition: continually recurring to the mind", "Synonyms: haunting"]}
