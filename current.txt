@@ -1,1 +1,1 @@
-{"data": ["2021-07-20T09:01:51.759890+00:00", 545, "Your mother is", "admirable", "Pronunciation: /\u02c8\u00e6dm\u0259r\u0259b\u0259l/", "Definition: deserving of the highest esteem or admiration", ""]}
+{"data": ["2021-07-20T10:02:50.464753+00:00", 546, "Your mother is", "uneffective", "Similar to: toothless", "Definition: not producing an intended effect", "Synonyms: ineffective, ineffectual"]}
