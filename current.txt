@@ -1,1 +1,1 @@
-{"data": ["2021-07-20T02:03:08.618996+00:00", 538, "Your mother is", "spiritual", "Pronunciation: /\u02c8sp\u026ar\u026a\u02a7u\u0259l/", "Definition: concerned with sacred matters or religion or the church", "Synonyms: religious"]}
+{"data": ["2021-07-20T03:02:21.438515+00:00", 539, "Your mother is", "all-or-nothing", "Similar to: complete", "Definition: occurring completely or not occurring at all", "Synonyms: all-or-none"]}
