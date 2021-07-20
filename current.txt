@@ -1,1 +1,1 @@
-{"data": ["2021-07-20T11:04:41.004279+00:00", 547, "Your mother is", "dog-eared", "Pronunciation: /\u02c8d\u0254\u0261\u02ccird/", "Definition: worn or shabby from overuse or (of pages) from having corners turned down", "Synonyms: eared"]}
+{"data": ["2021-07-20T12:01:56.062587+00:00", 548, "Your mother is", "preachy", "Pronunciation: /\u02c8pri\u02a7i/", "Definition: inclined to or marked by tedious moralization", ""]}
