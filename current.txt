@@ -1,1 +1,1 @@
-{"data": ["2021-07-20T12:01:56.062587+00:00", 548, "Your mother is", "preachy", "Pronunciation: /\u02c8pri\u02a7i/", "Definition: inclined to or marked by tedious moralization", ""]}
+{"data": ["2021-07-20T13:02:55.779588+00:00", 549, "Your mother is", "veridical", "Pronunciation: /v\u0259\u02c8r\u026ad\u026ak\u0259l/", "Definition: coinciding with reality", "Synonyms: real"]}
