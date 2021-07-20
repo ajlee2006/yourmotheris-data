@@ -1,1 +1,1 @@
-{"data": ["2021-07-20T06:03:16.379304+00:00", 542, "Your mother is", "persistent", "Pronunciation: /p\u0259r\u02c8s\u026ast\u0259nt/", "Definition: continually recurring to the mind", "Synonyms: haunting"]}
+{"data": ["2021-07-20T07:02:55.908509+00:00", 543, "Your mother is", "motorized", "Pronunciation: /\u02c8mo\u028at\u025dr\u02cca\u026azd/", "Definition: equipped with a motor or motors", "Synonyms: motored, motorised"]}
