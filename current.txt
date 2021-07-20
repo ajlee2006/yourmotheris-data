@@ -1,1 +1,1 @@
-{"data": ["2021-07-20T19:00:43.224597+00:00", 555, "Your mother is", "turnip-shaped", "Similar to: formed", "Definition: shaped in the form of a turnip", ""]}
+{"data": ["2021-07-20T20:01:34.428504+00:00", 556, "Your mother is", "upcountry", "Pronunciation: /\u02c8\u0259p\u02cck\u0259ntri/", "Definition: of or coming from the middle of a region or country", "Synonyms: interior, midland"]}
