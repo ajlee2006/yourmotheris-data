@@ -1,1 +1,1 @@
-{"data": ["2021-07-20T07:02:55.908509+00:00", 543, "Your mother is", "motorized", "Pronunciation: /\u02c8mo\u028at\u025dr\u02cca\u026azd/", "Definition: equipped with a motor or motors", "Synonyms: motored, motorised"]}
+{"data": ["2021-07-20T08:01:48.876506+00:00", 544, "Your mother is", "speedy", "Pronunciation: /\u02c8spidi/", "Definition: characterized by speed; moving with or capable of moving with high speed", "Synonyms: rapid"]}
