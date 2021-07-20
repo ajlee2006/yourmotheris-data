@@ -1,1 +1,1 @@
-{"data": ["2021-07-20T00:02:39.196067+00:00", 536, "Your mother is", "interscholastic", "Pronunciation: /\u02cc\u026ant\u0259rsk\u0259\u02c8l\u00e6st\u026ak/", "Definition: used of competition or cooperation between secondary schools", "Synonyms: interschool"]}
+{"data": ["2021-07-20T01:03:30.899855+00:00", 537, "Your mother is", "unconstipated", "Similar to: diarrheal", "Definition: not constipated", "Synonyms: regular"]}
