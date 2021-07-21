@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T05:02:41.907934+00:00", 565, "Your mother is", "tai", "Pronunciation: /ta\u026a/", "Definition: of or relating to the languages of the Thai people", "Synonyms: siamese, thai"]}
+{"data": ["2021-07-21T06:02:56.199767+00:00", 566, "Your mother is", "bearing", "Pronunciation: /\u02c8b\u025cr\u026a\u014b/", "Definition: (of a structural member) withstanding a weight or strain", ""]}
