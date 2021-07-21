@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T20:02:12.151257+00:00", 580, "Your mother is", "military", "Pronunciation: /\u02c8m\u026al\u026a\u02cct\u025bri/", "Definition: associated with or performed by members of the armed services as contrasted with civilians", ""]}
+{"data": ["2021-07-21T21:00:44.449064+00:00", 581, "Your mother is", "thirsty", "Pronunciation: /\u02c8\u03b8\u025crsti/", "Definition: (usually followed by `for') extremely desirous", "Synonyms: athirst, hungry"]}
