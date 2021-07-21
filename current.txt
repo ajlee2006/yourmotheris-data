@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T10:03:07.295200+00:00", 570, "Your mother is", "ameliorating", "Similar to: bettering", "Definition: tending to ameliorate", "Synonyms: ameliorative, amelioratory, meliorative"]}
+{"data": ["2021-07-21T11:04:05.543568+00:00", 571, "Your mother is", "suppressive", "Similar to: restrictive", "Definition: tending to suppress", ""]}
