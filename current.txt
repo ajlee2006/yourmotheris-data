@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T17:03:22.775080+00:00", 577, "Your mother is", "incomplete", "Pronunciation: /\u02cc\u026ank\u0259m\u02c8plit/", "Definition: not yet finished", "Synonyms: uncompleted"]}
+{"data": ["2021-07-21T18:03:21.331978+00:00", 578, "Your mother is", "spotted", "Pronunciation: /\u02c8sp\u0251t\u026ad/", "Definition: having spots or patches (small areas of contrasting color or texture)", "Synonyms: patched, spotty"]}
