@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T14:03:38.188238+00:00", 574, "Your mother is", "last-minute", "Pronunciation: /l\u00e6st-\u02c8m\u026an\u026at/", "Definition: just before a deadline; at the last minute", ""]}
+{"data": ["2021-07-21T15:02:03.949697+00:00", 575, "Your mother is", "coinciding", "Pronunciation: /\u02ccko\u028a\u028cn\u02c8sa\u026ad\u026a\u014b/", "Definition: occurring or operating at the same time", "Synonyms: co-occurrent, coincident, coincidental, concurrent, cooccurring, simultaneous"]}
