@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T12:03:54.130349+00:00", 572, "Your mother is", "granted", "Pronunciation: /\u02c8\u0261r\u00e6nt\u028cd/", "Definition: acknowledged as a supposition", "Synonyms: given"]}
+{"data": ["2021-07-21T13:01:01.785096+00:00", 573, "Your mother is", "robed", "Pronunciation: /ro\u028abd/", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: appareled, attired, dressed, garbed, garmented, habilimented"]}
