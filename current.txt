@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T21:00:44.449064+00:00", 581, "Your mother is", "thirsty", "Pronunciation: /\u02c8\u03b8\u025crsti/", "Definition: (usually followed by `for') extremely desirous", "Synonyms: athirst, hungry"]}
+{"data": ["2021-07-21T22:04:19.513654+00:00", 582, "Your mother is", "dilatory", "Pronunciation: /\u02c8d\u026al\u0259\u02ccto\u028ari/", "Definition: wasting time", "Synonyms: laggard, pokey, poky"]}
