@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T00:02:30.573946+00:00", 560, "Your mother is", "fueled", "Pronunciation: /\u02c8fju\u028cld/", "Definition: heated, driven, or produced by burning fuel", ""]}
+{"data": ["2021-07-21T01:05:01.883188+00:00", 561, "Your mother is", "botonnee", "Similar to: buttoned", "Definition: (of a heraldic cross) having a cluster of three buttons or knobs at the end of each arm", "Synonyms: botonee"]}
