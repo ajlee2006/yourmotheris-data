@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T03:01:49.694068+00:00", 563, "Your mother is", "master", "Pronunciation: /\u02c8m\u00e6st\u0259r/", "Definition: most important element", "Synonyms: chief, main, primary, principal"]}
+{"data": ["2021-07-21T04:04:13.671372+00:00", 564, "Your mother is", "biological", "Pronunciation: /\u02ccba\u026a\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: (of a parent or child) related by blood; genetically related", "Synonyms: natural"]}
