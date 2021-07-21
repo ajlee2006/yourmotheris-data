@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T13:01:01.785096+00:00", 573, "Your mother is", "robed", "Pronunciation: /ro\u028abd/", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: appareled, attired, dressed, garbed, garmented, habilimented"]}
+{"data": ["2021-07-21T14:03:38.188238+00:00", 574, "Your mother is", "last-minute", "Pronunciation: /l\u00e6st-\u02c8m\u026an\u026at/", "Definition: just before a deadline; at the last minute", ""]}
