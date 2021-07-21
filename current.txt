@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T18:03:21.331978+00:00", 578, "Your mother is", "spotted", "Pronunciation: /\u02c8sp\u0251t\u026ad/", "Definition: having spots or patches (small areas of contrasting color or texture)", "Synonyms: patched, spotty"]}
+{"data": ["2021-07-21T19:02:13.639008+00:00", 579, "Your mother is", "strung-out", "Similar to: addicted", "Definition: addicted to a drug", "Synonyms: dependant, dependent, drug-addicted, hooked"]}
