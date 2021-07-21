@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T19:02:13.639008+00:00", 579, "Your mother is", "strung-out", "Similar to: addicted", "Definition: addicted to a drug", "Synonyms: dependant, dependent, drug-addicted, hooked"]}
+{"data": ["2021-07-21T20:02:12.151257+00:00", 580, "Your mother is", "military", "Pronunciation: /\u02c8m\u026al\u026a\u02cct\u025bri/", "Definition: associated with or performed by members of the armed services as contrasted with civilians", ""]}
