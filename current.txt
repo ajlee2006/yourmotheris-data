@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T04:04:13.671372+00:00", 564, "Your mother is", "biological", "Pronunciation: /\u02ccba\u026a\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: (of a parent or child) related by blood; genetically related", "Synonyms: natural"]}
+{"data": ["2021-07-21T05:02:41.907934+00:00", 565, "Your mother is", "tai", "Pronunciation: /ta\u026a/", "Definition: of or relating to the languages of the Thai people", "Synonyms: siamese, thai"]}
