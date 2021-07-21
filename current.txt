@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T16:04:14.732765+00:00", 576, "Your mother is", "stereotyped", "Pronunciation: /\u02c8st\u025bri\u0259\u02ccta\u026apt/", "Definition: lacking spontaneity or originality or individuality", "Synonyms: stereotypic, stereotypical, unimaginative"]}
+{"data": ["2021-07-21T17:03:22.775080+00:00", 577, "Your mother is", "incomplete", "Pronunciation: /\u02cc\u026ank\u0259m\u02c8plit/", "Definition: not yet finished", "Synonyms: uncompleted"]}
