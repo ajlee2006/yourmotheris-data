@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T09:04:20.734161+00:00", 569, "Your mother is", "translucent", "Pronunciation: /tr\u00e6ns\u02c8lus\u0259nt/", "Definition: allowing light to pass through diffusely", "Synonyms: semitransparent"]}
+{"data": ["2021-07-21T10:03:07.295200+00:00", 570, "Your mother is", "ameliorating", "Similar to: bettering", "Definition: tending to ameliorate", "Synonyms: ameliorative, amelioratory, meliorative"]}
