@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T08:02:24.682737+00:00", 568, "Your mother is", "snotty", "Similar to: proud", "Definition: (used colloquially) overly conceited or arrogant", "Synonyms: bigheaded, persnickety, snooty, snot-nosed, stuck-up, too big for one's breeches, uppish"]}
+{"data": ["2021-07-21T09:04:20.734161+00:00", 569, "Your mother is", "translucent", "Pronunciation: /tr\u00e6ns\u02c8lus\u0259nt/", "Definition: allowing light to pass through diffusely", "Synonyms: semitransparent"]}
