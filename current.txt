@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T11:04:05.543568+00:00", 571, "Your mother is", "suppressive", "Similar to: restrictive", "Definition: tending to suppress", ""]}
+{"data": ["2021-07-21T12:03:54.130349+00:00", 572, "Your mother is", "granted", "Pronunciation: /\u02c8\u0261r\u00e6nt\u028cd/", "Definition: acknowledged as a supposition", "Synonyms: given"]}
