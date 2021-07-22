@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T19:01:57.681558+00:00", 603, "Your mother is", "brunette", "Pronunciation: /bru\u02c8n\u025bt/", "Definition: marked by dark or relatively dark pigmentation of hair or skin or eyes", "Synonyms: brunet"]}
+{"data": ["2021-07-22T20:00:36.430227+00:00", 604, "Your mother is", "bicornuate", "Pronunciation: /ba\u026a\u02c8k\u0254rnu\u026at/", "Definition: having two horns or horn-shaped parts", "Synonyms: bicorn, bicornate, bicorned, bicornuous"]}
