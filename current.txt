@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T12:03:58.857006+00:00", 596, "Your mother is", "mechanized", "Pronunciation: /\u02c8m\u025bk\u028c\u02ccna\u026azd/", "Definition: equipped with machinery", "Synonyms: mechanised"]}
+{"data": ["2021-07-22T13:02:33.635952+00:00", 597, "Your mother is", "tightlipped", "Similar to: incommunicative", "Definition: inclined to secrecy or reticence about divulging information", "Synonyms: close, closelipped, closemouthed, secretive"]}
