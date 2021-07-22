@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T07:03:39.177110+00:00", 591, "Your mother is", "sure-enough", "Pronunciation: /\u0283\u028ar-\u026a\u02c8n\u0259f/", "Definition: (used informally especially for emphasis) real or genuine", "Synonyms: honest-to-god, honest-to-goodness"]}
+{"data": ["2021-07-22T08:01:58.202463+00:00", 592, "Your mother is", "triple", "Pronunciation: /\u02c8tr\u026ap\u0259l/", "Definition: having three units or components or elements", "Synonyms: ternary, treble, triplex"]}
