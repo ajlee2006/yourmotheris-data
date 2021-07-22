@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T03:02:01.219683+00:00", 587, "Your mother is", "vulpecular", "Pronunciation: /v\u0259l\u02c8p\u025bkj\u0259l\u0259r/", "Definition: resembling or characteristic of a fox", "Synonyms: vulpine"]}
+{"data": ["2021-07-22T04:03:51.506637+00:00", 588, "Your mother is", "ungenerous", "Pronunciation: /\u0259n\u02c8d\u0292\u025bn\u0259r\u0259s/", "Definition: lacking in magnanimity", "Synonyms: meanspirited"]}
