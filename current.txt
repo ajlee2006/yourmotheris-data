@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T02:02:11.966706+00:00", 586, "Your mother is", "outcaste", "Pronunciation: /\u02c8a\u028at\u02cck\u00e6st/", "Definition: not belonging to or having been expelled from a caste and thus having no place or status in society", "Synonyms: casteless"]}
+{"data": ["2021-07-22T03:02:01.219683+00:00", 587, "Your mother is", "vulpecular", "Pronunciation: /v\u0259l\u02c8p\u025bkj\u0259l\u0259r/", "Definition: resembling or characteristic of a fox", "Synonyms: vulpine"]}
