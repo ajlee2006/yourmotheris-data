@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T21:01:42.582197+00:00", 605, "Your mother is", "thin-shelled", "Similar to: shelled", "Definition: of animals or plants that have a thin shell", ""]}
+{"data": ["2021-07-22T22:00:57.827850+00:00", 606, "Your mother is", "unconsidered", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8s\u026ad\u0259d/", "Definition: without proper consideration or reflection", "Synonyms: inconsiderate"]}
