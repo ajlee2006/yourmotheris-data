@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T17:04:52.255373+00:00", 601, "Your mother is", "water-loving", "Pronunciation: /\u02c8w\u0254t\u0259r-\u02c8l\u0259v\u026a\u014b/", "Definition: (of plants) flourishing with lots of water", ""]}
+{"data": ["2021-07-22T18:03:04.502232+00:00", 602, "Your mother is", "paperback", "Pronunciation: /\u02c8pe\u026ap\u0259rb\u0251k/", "Definition: (of books) having a flexible binding", "Synonyms: paperbacked"]}
