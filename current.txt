@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T06:03:22.791137+00:00", 590, "Your mother is", "frivolous", "Pronunciation: /\u02c8fr\u026av\u0259l\u0259s/", "Definition: not serious in content or attitude or behavior", ""]}
+{"data": ["2021-07-22T07:03:39.177110+00:00", 591, "Your mother is", "sure-enough", "Pronunciation: /\u0283\u028ar-\u026a\u02c8n\u0259f/", "Definition: (used informally especially for emphasis) real or genuine", "Synonyms: honest-to-god, honest-to-goodness"]}
