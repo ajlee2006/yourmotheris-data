@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T08:01:58.202463+00:00", 592, "Your mother is", "triple", "Pronunciation: /\u02c8tr\u026ap\u0259l/", "Definition: having three units or components or elements", "Synonyms: ternary, treble, triplex"]}
+{"data": ["2021-07-22T09:03:57.697747+00:00", 593, "Your mother is", "full-blooded", "Pronunciation: /f\u028al-\u02c8bl\u0259d\u026ad/", "Definition: endowed with or exhibiting great bodily or mental health", "Synonyms: hearty, lusty, red-blooded"]}
