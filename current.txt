@@ -1,1 +1,1 @@
-{"data": ["2021-07-21T23:02:53.212630+00:00", 583, "Your mother is", "omissible", "Pronunciation: /o\u028a\u02c8m\u026as\u0259b\u0259l/", "Definition: capable of being left out", ""]}
+{"data": ["2021-07-22T00:04:57.147685+00:00", 584, "Your mother is", "baseless", "Pronunciation: /\u02c8be\u026asl\u026as/", "Definition: without a basis in reason or fact", "Synonyms: groundless, idle, unfounded, unwarranted, wild"]}
