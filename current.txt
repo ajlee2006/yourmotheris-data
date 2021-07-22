@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T10:01:46.827121+00:00", 594, "Your mother is", "heavy-coated", "Similar to: clad", "Definition: wearing a heavy coat", ""]}
+{"data": ["2021-07-22T11:04:46.529770+00:00", 595, "Your mother is", "blue", "Pronunciation: /blu/", "Definition: of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky", "Synonyms: blueish, bluish"]}
