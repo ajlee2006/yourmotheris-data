@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T22:00:57.827850+00:00", 606, "Your mother is", "unconsidered", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8s\u026ad\u0259d/", "Definition: without proper consideration or reflection", "Synonyms: inconsiderate"]}
+{"data": ["2021-07-22T23:03:37.244641+00:00", 607, "Your mother is", "extensile", "Pronunciation: /\u026ak\u02c8st\u025bns\u0259l/", "Definition: capable of being protruded or stretched or opened out", "Synonyms: extensible"]}
