@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T00:04:57.147685+00:00", 584, "Your mother is", "baseless", "Pronunciation: /\u02c8be\u026asl\u026as/", "Definition: without a basis in reason or fact", "Synonyms: groundless, idle, unfounded, unwarranted, wild"]}
+{"data": ["2021-07-22T01:04:34.749079+00:00", 585, "Your mother is", "yawning", "Pronunciation: /\u02c8j\u0254n\u026a\u014b/", "Definition: showing lack of attention or boredom", "Synonyms: drowsy, oscitant"]}
