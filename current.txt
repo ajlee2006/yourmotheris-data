@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T04:03:51.506637+00:00", 588, "Your mother is", "ungenerous", "Pronunciation: /\u0259n\u02c8d\u0292\u025bn\u0259r\u0259s/", "Definition: lacking in magnanimity", "Synonyms: meanspirited"]}
+{"data": ["2021-07-22T05:03:00.926814+00:00", 589, "Your mother is", "thwarting", "Pronunciation: /\u02c8\u03b8w\u0254rt\u026a\u014b/", "Definition: preventing realization or attainment of a desire", "Synonyms: frustrating, frustrative"]}
