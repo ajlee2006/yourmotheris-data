@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T01:04:34.749079+00:00", 585, "Your mother is", "yawning", "Pronunciation: /\u02c8j\u0254n\u026a\u014b/", "Definition: showing lack of attention or boredom", "Synonyms: drowsy, oscitant"]}
+{"data": ["2021-07-22T02:02:11.966706+00:00", 586, "Your mother is", "outcaste", "Pronunciation: /\u02c8a\u028at\u02cck\u00e6st/", "Definition: not belonging to or having been expelled from a caste and thus having no place or status in society", "Synonyms: casteless"]}
