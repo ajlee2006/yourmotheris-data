@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T10:02:10.962780+00:00", 618, "Your mother is", "volatile", "Pronunciation: /\u02c8v\u0251l\u0259t\u026al/", "Definition: liable to lead to sudden change or violence", "Synonyms: explosive"]}
+{"data": ["2021-07-23T11:04:43.574556+00:00", 619, "Your mother is", "laughable", "Pronunciation: /\u02c8l\u00e6f\u0259b\u0259l/", "Definition: arousing or provoking laughter", "Synonyms: amusing, comic, comical, funny, mirthful, risible"]}
