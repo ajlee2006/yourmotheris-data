@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T07:02:26.028732+00:00", 615, "Your mother is", "unsoiled", "Pronunciation: /\u0259n\u02c8s\u0254\u026ald/", "Definition: without soil or spot or stain", "Synonyms: unspotted, unstained"]}
+{"data": ["2021-07-23T08:03:16.313178+00:00", 616, "Your mother is", "accursed", "Pronunciation: /\u0259\u02c8k\u025crs\u026ad/", "Definition: under a curse", "Synonyms: accurst, maledict"]}
