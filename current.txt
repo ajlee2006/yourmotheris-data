@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T02:03:31.521742+00:00", 610, "Your mother is", "afoul", "Pronunciation: /\u0259\u02c8fa\u028al/", "Definition: especially of a ship's lines etc", "Synonyms: foul, fouled"]}
+{"data": ["2021-07-23T03:02:16.301037+00:00", 611, "Your mother is", "haptic", "Pronunciation: /\u02c8h\u00e6pt\u026ak/", "Definition: of or relating to or proceeding from the sense of touch", "Synonyms: tactile, tactual"]}
