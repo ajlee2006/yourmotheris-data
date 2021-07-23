@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T03:02:16.301037+00:00", 611, "Your mother is", "haptic", "Pronunciation: /\u02c8h\u00e6pt\u026ak/", "Definition: of or relating to or proceeding from the sense of touch", "Synonyms: tactile, tactual"]}
+{"data": ["2021-07-23T04:00:51.353991+00:00", 612, "Your mother is", "subscribed", "Pronunciation: /s\u028cb\u02c8skra\u026abd/", "Definition: (of a contract or will or other document) having a signature written at the end", ""]}
