@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T15:04:25.796065+00:00", 623, "Your mother is", "surrounding", "Pronunciation: /s\u0259\u02c8ra\u028and\u026a\u014b/", "Definition: closely encircling", "Synonyms: circumferent, encompassing"]}
+{"data": ["2021-07-23T16:02:02.814222+00:00", 624, "Your mother is", "multilateral", "Pronunciation: /\u02ccm\u0259lt\u026a\u02c8l\u00e6t\u0259r\u0259l/", "Definition: having many parts or sides", "Synonyms: many-sided"]}
