@@ -1,1 +1,1 @@
-{"data": ["2021-07-22T23:03:37.244641+00:00", 607, "Your mother is", "extensile", "Pronunciation: /\u026ak\u02c8st\u025bns\u0259l/", "Definition: capable of being protruded or stretched or opened out", "Synonyms: extensible"]}
+{"data": ["2021-07-23T00:04:00.861779+00:00", 608, "Your mother is", "dendroid", "Pronunciation: /\u02c8d\u025bndr\u0254\u026ad/", "Definition: resembling a tree in form and branching structure", "Synonyms: arboreal, arboreous, arborescent, arboresque, arboriform, dendriform, dendroidal, tree-shaped, treelike"]}
