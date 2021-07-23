@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T22:00:45.495336+00:00", 630, "Your mother is", "chemical", "Pronunciation: /\u02c8k\u025bm\u026ak\u0259l/", "Definition: relating to or used in chemistry", "Synonyms: chemic"]}
+{"data": ["2021-07-23T23:01:02.385562+00:00", 631, "Your mother is", "rending", "Pronunciation: /\u02c8r\u025bnd\u026a\u014b/", "Definition: resembling a sound of violent tearing as of something ripped apart or lightning splitting a tree", "Synonyms: ripping, splitting"]}
