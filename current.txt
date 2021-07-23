@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T01:00:53.189247+00:00", 609, "Your mother is", "spindle-legged", "Similar to: lean", "Definition: having long slender legs", "Synonyms: spindle-shanked"]}
+{"data": ["2021-07-23T02:03:31.521742+00:00", 610, "Your mother is", "afoul", "Pronunciation: /\u0259\u02c8fa\u028al/", "Definition: especially of a ship's lines etc", "Synonyms: foul, fouled"]}
