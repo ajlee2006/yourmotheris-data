@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T18:02:45.158562+00:00", 626, "Your mother is", "vermillion", "Pronunciation: /v\u0259r\u02c8m\u026alj\u0259n/", "Definition: of a vivid red to reddish-orange color", "Synonyms: chinese-red, cinnabar, vermilion"]}
+{"data": ["2021-07-23T19:04:08.131059+00:00", 627, "Your mother is", "meddling", "Pronunciation: /\u02c8m\u025bd\u028cl\u026a\u014b/", "Definition: intrusive in a meddling or offensive manner", "Synonyms: busy, busybodied, interfering, meddlesome, officious"]}
