@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T00:04:00.861779+00:00", 608, "Your mother is", "dendroid", "Pronunciation: /\u02c8d\u025bndr\u0254\u026ad/", "Definition: resembling a tree in form and branching structure", "Synonyms: arboreal, arboreous, arborescent, arboresque, arboriform, dendriform, dendroidal, tree-shaped, treelike"]}
+{"data": ["2021-07-23T01:00:53.189247+00:00", 609, "Your mother is", "spindle-legged", "Similar to: lean", "Definition: having long slender legs", "Synonyms: spindle-shanked"]}
