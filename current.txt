@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T08:03:16.313178+00:00", 616, "Your mother is", "accursed", "Pronunciation: /\u0259\u02c8k\u025crs\u026ad/", "Definition: under a curse", "Synonyms: accurst, maledict"]}
+{"data": ["2021-07-23T09:03:58.439314+00:00", 617, "Your mother is", "mouse-colored", "Similar to: chromatic", "Definition: of something having a drab pale brown color resembling a mouse", "Synonyms: mouselike, mousey, mousy"]}
