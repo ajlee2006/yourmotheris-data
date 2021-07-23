@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T16:02:02.814222+00:00", 624, "Your mother is", "multilateral", "Pronunciation: /\u02ccm\u0259lt\u026a\u02c8l\u00e6t\u0259r\u0259l/", "Definition: having many parts or sides", "Synonyms: many-sided"]}
+{"data": ["2021-07-23T17:01:59.934431+00:00", 625, "Your mother is", "gustatorial", "", "Definition: of or relating to gustation", "Synonyms: gustative, gustatory"]}
