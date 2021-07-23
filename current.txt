@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T09:03:58.439314+00:00", 617, "Your mother is", "mouse-colored", "Similar to: chromatic", "Definition: of something having a drab pale brown color resembling a mouse", "Synonyms: mouselike, mousey, mousy"]}
+{"data": ["2021-07-23T10:02:10.962780+00:00", 618, "Your mother is", "volatile", "Pronunciation: /\u02c8v\u0251l\u0259t\u026al/", "Definition: liable to lead to sudden change or violence", "Synonyms: explosive"]}
