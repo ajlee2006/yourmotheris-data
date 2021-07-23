@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T14:01:58.497750+00:00", 622, "Your mother is", "gilded", "Pronunciation: /\u02c8\u0261\u026ald\u026ad/", "Definition: based on pretense; deceptively pleasing", "Synonyms: glossy, meretricious, specious"]}
+{"data": ["2021-07-23T15:04:25.796065+00:00", 623, "Your mother is", "surrounding", "Pronunciation: /s\u0259\u02c8ra\u028and\u026a\u014b/", "Definition: closely encircling", "Synonyms: circumferent, encompassing"]}
