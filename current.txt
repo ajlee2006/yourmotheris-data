@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T04:00:51.353991+00:00", 612, "Your mother is", "subscribed", "Pronunciation: /s\u028cb\u02c8skra\u026abd/", "Definition: (of a contract or will or other document) having a signature written at the end", ""]}
+{"data": ["2021-07-23T05:02:10.391212+00:00", 613, "Your mother is", "uncurled", "Similar to: straight", "Definition: not curled", ""]}
