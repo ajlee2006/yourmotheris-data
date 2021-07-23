@@ -1,1 +1,1 @@
-{"data": ["2021-07-23T21:02:21.809102+00:00", 629, "Your mother is", "grey", "Pronunciation: /gre\u026a/", "Definition: showing characteristics of age, especially having grey or white hair", "Synonyms: gray, gray-haired, gray-headed, grey-haired, grey-headed, grizzly, hoar, hoary, white-haired"]}
+{"data": ["2021-07-23T22:00:45.495336+00:00", 630, "Your mother is", "chemical", "Pronunciation: /\u02c8k\u025bm\u026ak\u0259l/", "Definition: relating to or used in chemistry", "Synonyms: chemic"]}
