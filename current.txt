@@ -1,1 +1,1 @@
-{"data": ["2021-07-24T01:02:49.369628+00:00", 633, "Your mother is", "unharmonious", "Pronunciation: /\u02cc\u0259nh\u0251r\u02c8mo\u028ani\u0259s/", "Definition: not in harmony", "Synonyms: inharmonious"]}
+{"data": ["2021-07-24T02:01:46.635718+00:00", 634, "Your mother is", "psychotherapeutic", "Pronunciation: /\u02ccsa\u026ako\u028a\u02cc\u03b8\u025br\u028c\u02c8pjut\u026ak/", "Definition: emotionally purging", "Synonyms: cathartic"]}
