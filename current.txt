@@ -1,1 +1,1 @@
-{"data": ["2021-07-24T19:02:35.668948+00:00", 651, "Your mother is", "supple", "Pronunciation: /\u02c8s\u0259p\u0259l/", "Definition: (used of persons' bodies) capable of moving or bending freely", "Synonyms: limber"]}
+{"data": ["2021-07-24T20:03:29.609413+00:00", 652, "Your mother is", "zygomorphic", "Pronunciation: /\u02ccza\u026a\u0261\u0259\u02c8m\u0254rf\u026ak/", "Definition: capable of division into symmetrical halves by only one longitudinal plane passing through the axis", "Synonyms: bilaterally symmetrical, zygomorphous"]}
