@@ -1,1 +1,1 @@
-{"data": ["2021-07-24T14:02:04.733013+00:00", 646, "Your mother is", "color", "Pronunciation: /\u02c8k\u0259l\u0259r/", "Definition: having or capable of producing colors", "Synonyms: colour"]}
+{"data": ["2021-07-24T15:04:54.899743+00:00", 647, "Your mother is", "crestfallen", "Pronunciation: /\u02c8kr\u025bst\u02ccf\u0254l\u0259n/", "Definition: brought low in spirit", "Synonyms: chapfallen, chopfallen, deflated"]}
