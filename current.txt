@@ -1,1 +1,1 @@
-{"data": ["2021-07-24T13:04:25.055343+00:00", 645, "Your mother is", "fast-growing", "Pronunciation: /f\u00e6st-\u02c8gro\u028a\u026a\u014b/", "Definition: tending to spread quickly", "Synonyms: aggressive, strong-growing"]}
+{"data": ["2021-07-24T14:02:04.733013+00:00", 646, "Your mother is", "color", "Pronunciation: /\u02c8k\u0259l\u0259r/", "Definition: having or capable of producing colors", "Synonyms: colour"]}
