@@ -1,1 +1,1 @@
-{"data": ["2021-07-24T06:02:11.732370+00:00", 638, "Your mother is", "any", "Pronunciation: /\u02c8\u025bni/", "Definition: one or some or every or all without specification", "Synonyms: whatever, whatsoever"]}
+{"data": ["2021-07-24T07:03:56.096961+00:00", 639, "Your mother is", "dedicated", "Pronunciation: /\u02c8d\u025bd\u0259\u02ccke\u026at\u026ad/", "Definition: solemnly dedicated to or set apart for a high or sacred purpose", "Synonyms: consecrate, consecrated"]}
