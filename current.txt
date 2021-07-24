@@ -1,1 +1,1 @@
-{"data": ["2021-07-24T17:00:28.589559+00:00", 649, "Your mother is", "misrepresented", "Pronunciation: /\u02ccm\u026asr\u025bpr\u026a\u02c8z\u025bnt\u026ad/", "Definition: having an intended meaning altered or misrepresented", "Synonyms: distorted, perverted, twisted"]}
+{"data": ["2021-07-24T18:03:16.110640+00:00", 650, "Your mother is", "biface", "Similar to: bidirectional", "Definition: having two faces or fronts", "Synonyms: bifacial"]}
