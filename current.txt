@@ -1,1 +1,1 @@
-{"data": ["2021-07-24T16:01:29.063908+00:00", 648, "Your mother is", "anticipative", "Pronunciation: /\u00e6n\u02c8t\u026as\u0259\u02ccpe\u026at\u026av/", "Definition: marked by eager anticipation", "Synonyms: anticipant, expectant"]}
+{"data": ["2021-07-24T17:00:28.589559+00:00", 649, "Your mother is", "misrepresented", "Pronunciation: /\u02ccm\u026asr\u025bpr\u026a\u02c8z\u025bnt\u026ad/", "Definition: having an intended meaning altered or misrepresented", "Synonyms: distorted, perverted, twisted"]}
