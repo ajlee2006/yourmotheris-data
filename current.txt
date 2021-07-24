@@ -1,1 +1,1 @@
-{"data": ["2021-07-24T20:03:29.609413+00:00", 652, "Your mother is", "zygomorphic", "Pronunciation: /\u02ccza\u026a\u0261\u0259\u02c8m\u0254rf\u026ak/", "Definition: capable of division into symmetrical halves by only one longitudinal plane passing through the axis", "Synonyms: bilaterally symmetrical, zygomorphous"]}
+{"data": ["2021-07-24T21:01:02.402508+00:00", 653, "Your mother is", "pathetic", "Pronunciation: /p\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: inspiring scornful pity", "Synonyms: ridiculous, silly"]}
