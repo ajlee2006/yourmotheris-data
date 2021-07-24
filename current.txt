@@ -1,1 +1,1 @@
-{"data": ["2021-07-24T18:03:16.110640+00:00", 650, "Your mother is", "biface", "Similar to: bidirectional", "Definition: having two faces or fronts", "Synonyms: bifacial"]}
+{"data": ["2021-07-24T19:02:35.668948+00:00", 651, "Your mother is", "supple", "Pronunciation: /\u02c8s\u0259p\u0259l/", "Definition: (used of persons' bodies) capable of moving or bending freely", "Synonyms: limber"]}
