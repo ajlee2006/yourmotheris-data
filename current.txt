@@ -1,1 +1,1 @@
-{"data": ["2021-07-24T09:01:22.225768+00:00", 641, "Your mother is", "countless", "Pronunciation: /\u02c8ka\u028antl\u026as/", "Definition: too numerous to be counted", "Synonyms: infinite, innumerable, innumerous, multitudinous, myriad, numberless, uncounted, unnumberable, unnumbered, unnumerable"]}
+{"data": ["2021-07-24T10:03:06.392129+00:00", 642, "Your mother is", "protrusible", "Pronunciation: /pro\u028a\u02c8trus\u0259b\u0259l/", "Definition: capable of being thrust forward, as the tongue", "Synonyms: protrusile"]}
