@@ -1,1 +1,1 @@
-{"data": ["2021-07-25T02:04:01.847133+00:00", 658, "Your mother is", "anthelminthic", "Similar to: healthful", "Definition: capable of expelling or destroying parasitic worms", "Synonyms: anthelmintic, helminthic, parasiticidal"]}
+{"data": ["2021-07-25T03:02:58.327032+00:00", 659, "Your mother is", "cenobitical", "", "Definition: of or relating to or befitting cenobites or their practices of communal living", "Synonyms: cenobitic, coenobitic, coenobitical"]}
