@@ -1,1 +1,1 @@
-{"data": ["2021-07-25T21:03:58.430635+00:00", 677, "Your mother is", "conversational", "Pronunciation: /\u02cck\u0251nv\u0259r\u02c8se\u026a\u0283\u0259n\u0259l/", "Definition: characteristic of informal spoken language or conversation", "Synonyms: colloquial"]}
+{"data": ["2021-07-25T22:01:44.709076+00:00", 678, "Your mother is", "aspectual", "Pronunciation: /\u00e6\u02c8sp\u025bk\u02a7u\u0259l/", "Definition: of or belonging to an aspect (as an aspect of the verb)", ""]}
