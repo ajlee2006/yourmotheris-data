@@ -1,1 +1,1 @@
-{"data": ["2021-07-25T20:02:37.764377+00:00", 676, "Your mother is", "favorable", "Pronunciation: /\u02c8fe\u026av\u0259r\u0259b\u0259l/", "Definition: presaging or likely to bring good luck or a good outcome", "Synonyms: favourable, golden, lucky, prosperous"]}
+{"data": ["2021-07-25T21:03:58.430635+00:00", 677, "Your mother is", "conversational", "Pronunciation: /\u02cck\u0251nv\u0259r\u02c8se\u026a\u0283\u0259n\u0259l/", "Definition: characteristic of informal spoken language or conversation", "Synonyms: colloquial"]}
