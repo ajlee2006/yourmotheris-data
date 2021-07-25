@@ -1,1 +1,1 @@
-{"data": ["2021-07-25T05:02:08.844869+00:00", 661, "Your mother is", "celiac", "Pronunciation: /\u02c8sili\u02cc\u00e6k/", "Definition: of or in or belonging to the cavity of the abdomen", "Synonyms: coeliac"]}
+{"data": ["2021-07-25T06:02:59.007416+00:00", 662, "Your mother is", "venial", "Pronunciation: /\u02c8vini\u0259l/", "Definition: easily excused or forgiven", "Synonyms: excusable, forgivable"]}
