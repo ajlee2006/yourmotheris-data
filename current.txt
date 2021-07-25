@@ -1,1 +1,1 @@
-{"data": ["2021-07-25T06:02:59.007416+00:00", 662, "Your mother is", "venial", "Pronunciation: /\u02c8vini\u0259l/", "Definition: easily excused or forgiven", "Synonyms: excusable, forgivable"]}
+{"data": ["2021-07-25T07:01:46.925960+00:00", 663, "Your mother is", "eremitic", "", "Definition: of or relating to or befitting eremites or their practices of hermitic living", "Synonyms: eremitical"]}
