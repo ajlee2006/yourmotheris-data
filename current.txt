@@ -1,1 +1,1 @@
-{"data": ["2021-07-25T08:02:09.099752+00:00", 664, "Your mother is", "dismal", "Pronunciation: /\u02c8d\u026azm\u0259l/", "Definition: causing dejection", "Synonyms: blue, dark, dingy, disconsolate, drab, drear, dreary, gloomy, grim, sorry"]}
+{"data": ["2021-07-25T09:03:15.355606+00:00", 665, "Your mother is", "party-spirited", "Pronunciation: /\u02c8p\u0251rti-\u02c8sp\u026ar\u026at\u026ad/", "Definition: devoted to a political party", ""]}
