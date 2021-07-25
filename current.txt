@@ -1,1 +1,1 @@
-{"data": ["2021-07-25T12:01:00.744743+00:00", 668, "Your mother is", "insolvent", "Pronunciation: /\u026an\u02c8s\u0251lv\u0259nt/", "Definition: unable to meet or discharge financial obligations", ""]}
+{"data": ["2021-07-25T13:01:07.646273+00:00", 669, "Your mother is", "potbellied", "Pronunciation: /\u02c8p\u0251t\u02ccb\u025blid/", "Definition: having a large belly", "Synonyms: abdominous, paunchy"]}
