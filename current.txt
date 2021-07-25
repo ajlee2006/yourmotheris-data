@@ -1,1 +1,1 @@
-{"data": ["2021-07-25T04:04:17.545988+00:00", 660, "Your mother is", "pinnate", "Pronunciation: /\u02c8p\u026ane\u026at/", "Definition: (of a leaf shape) featherlike; having leaflets on each side of a common axis", "Synonyms: pinnated"]}
+{"data": ["2021-07-25T05:02:08.844869+00:00", 661, "Your mother is", "celiac", "Pronunciation: /\u02c8sili\u02cc\u00e6k/", "Definition: of or in or belonging to the cavity of the abdomen", "Synonyms: coeliac"]}
