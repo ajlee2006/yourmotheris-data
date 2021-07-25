@@ -1,1 +1,1 @@
-{"data": ["2021-07-25T13:01:07.646273+00:00", 669, "Your mother is", "potbellied", "Pronunciation: /\u02c8p\u0251t\u02ccb\u025blid/", "Definition: having a large belly", "Synonyms: abdominous, paunchy"]}
+{"data": ["2021-07-25T14:01:25.582617+00:00", 670, "Your mother is", "downmarket", "Similar to: downscale", "Definition: designed for low-income consumers", ""]}
