@@ -1,1 +1,1 @@
-{"data": ["2021-07-25T22:01:44.709076+00:00", 678, "Your mother is", "aspectual", "Pronunciation: /\u00e6\u02c8sp\u025bk\u02a7u\u0259l/", "Definition: of or belonging to an aspect (as an aspect of the verb)", ""]}
+{"data": ["2021-07-25T23:02:52.295921+00:00", 679, "Your mother is", "humourous", "Similar to: bantering", "Definition: full of or characterized by humor", "Synonyms: humorous"]}
