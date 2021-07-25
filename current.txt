@@ -1,1 +1,1 @@
-{"data": ["2021-07-25T09:03:15.355606+00:00", 665, "Your mother is", "party-spirited", "Pronunciation: /\u02c8p\u0251rti-\u02c8sp\u026ar\u026at\u026ad/", "Definition: devoted to a political party", ""]}
+{"data": ["2021-07-25T10:02:16.718699+00:00", 666, "Your mother is", "chinked", "Similar to: caulked", "Definition: having narrow opening filled", "Synonyms: stopped-up"]}
