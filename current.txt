@@ -1,1 +1,1 @@
-{"data": ["2021-07-25T01:03:37.413669+00:00", 657, "Your mother is", "decreed", "Pronunciation: /d\u026a\u02c8krid/", "Definition: fixed or established especially by order or command", "Synonyms: appointed, ordained, prescribed"]}
+{"data": ["2021-07-25T02:04:01.847133+00:00", 658, "Your mother is", "anthelminthic", "Similar to: healthful", "Definition: capable of expelling or destroying parasitic worms", "Synonyms: anthelmintic, helminthic, parasiticidal"]}
