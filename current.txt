@@ -1,1 +1,1 @@
-{"data": ["2021-07-25T17:01:56.822506+00:00", 673, "Your mother is", "northbound", "Pronunciation: /\u02c8n\u0254r\u03b8\u02ccba\u028and/", "Definition: moving toward the north", "Synonyms: northward"]}
+{"data": ["2021-07-25T18:01:47.474708+00:00", 674, "Your mother is", "dedicated", "Pronunciation: /\u02c8d\u025bd\u0259\u02ccke\u026at\u026ad/", "Definition: solemnly dedicated to or set apart for a high or sacred purpose", "Synonyms: consecrate, consecrated"]}
