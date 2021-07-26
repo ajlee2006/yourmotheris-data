@@ -1,1 +1,1 @@
-{"data": ["2021-07-26T07:03:56.123847+00:00", 687, "Your mother is", "torturous", "Pronunciation: /\u02c8t\u0254r\u02cct\u0283u\u028cs/", "Definition: extremely painful", "Synonyms: agonising, agonizing, excruciating, harrowing, torturesome, torturing"]}
+{"data": ["2021-07-26T08:04:49.197280+00:00", 688, "Your mother is", "calculating", "Pronunciation: /\u02c8k\u00e6lkj\u0259\u02ccle\u026at\u026a\u014b/", "Definition: acting with a specific goal", "Synonyms: calculative, conniving, scheming, shrewd"]}
