@@ -1,1 +1,1 @@
-{"data": ["2021-07-26T10:02:54.817806+00:00", 690, "Your mother is", "farther", "Pronunciation: /\u02c8f\u0251r\u00f0\u0259r/", "Definition: more distant in especially degree", "Synonyms: further"]}
+{"data": ["2021-07-26T11:01:00.794315+00:00", 691, "Your mother is", "mythologic", "Similar to: unreal", "Definition: based on or told of in traditional stories; lacking factual basis or historical validity", "Synonyms: fabulous, mythic, mythical, mythological"]}
