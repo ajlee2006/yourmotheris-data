@@ -1,1 +1,1 @@
-{"data": ["2021-07-26T16:03:13.254409+00:00", 696, "Your mother is", "galling", "Pronunciation: /\u02c8\u0261\u0254l\u026a\u014b/", "Definition: causing irritation or annoyance", "Synonyms: annoying, bothersome, irritating, nettlesome, pesky, pestering, pestiferous, plaguey, plaguy, teasing, vexatious, vexing"]}
+{"data": ["2021-07-26T17:02:55.994869+00:00", 697, "Your mother is", "untrammelled", "Pronunciation: /\u0259n\u02c8tr\u00e6m\u0259ld/", "Definition: not confined or limited", "Synonyms: untrammeled"]}
