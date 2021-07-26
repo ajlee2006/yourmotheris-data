@@ -1,1 +1,1 @@
-{"data": ["2021-07-26T20:02:09.420609+00:00", 700, "Your mother is", "evil", "Pronunciation: /\u02c8iv\u0259l/", "Definition: having the nature of vice", "Synonyms: vicious"]}
+{"data": ["2021-07-26T21:02:59.672394+00:00", 701, "Your mother is", "direct", "Pronunciation: /d\u026a\u02c8r\u025bkt/", "Definition: having no intervening persons, agents, conditions", "Synonyms: unmediated"]}
