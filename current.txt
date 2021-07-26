@@ -1,1 +1,1 @@
-{"data": ["2021-07-26T09:02:46.722320+00:00", 689, "Your mother is", "shrunken", "Pronunciation: /\u02c8\u0283r\u0259\u014bk\u0259n/", "Definition: lean and wrinkled by shrinkage as from age or illness", "Synonyms: shriveled, shrivelled, withered, wizen, wizened"]}
+{"data": ["2021-07-26T10:02:54.817806+00:00", 690, "Your mother is", "farther", "Pronunciation: /\u02c8f\u0251r\u00f0\u0259r/", "Definition: more distant in especially degree", "Synonyms: further"]}
