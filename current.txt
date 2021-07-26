@@ -1,1 +1,1 @@
-{"data": ["2021-07-26T18:03:17.465455+00:00", 698, "Your mother is", "sprawling", "Pronunciation: /\u02c8spr\u0254l\u026a\u014b/", "Definition: spreading out in different directions or distributed irregularly", "Synonyms: rambling, straggling, straggly"]}
+{"data": ["2021-07-26T19:03:35.953788+00:00", 699, "Your mother is", "64th", "Similar to: ordinal", "Definition: the ordinal number of sixty-four in counting order", "Synonyms: sixty-fourth"]}
