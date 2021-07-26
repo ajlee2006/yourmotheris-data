@@ -1,1 +1,1 @@
-{"data": ["2021-07-26T06:04:02.961689+00:00", 686, "Your mother is", "high-altitude", "Pronunciation: /ha\u026a-\u02c8\u00e6lt\u026a\u02cctud/", "Definition: occurring at or from a relative high altitude", "Synonyms: high-level"]}
+{"data": ["2021-07-26T07:03:56.123847+00:00", 687, "Your mother is", "torturous", "Pronunciation: /\u02c8t\u0254r\u02cct\u0283u\u028cs/", "Definition: extremely painful", "Synonyms: agonising, agonizing, excruciating, harrowing, torturesome, torturing"]}
