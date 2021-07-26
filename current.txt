@@ -1,1 +1,1 @@
-{"data": ["2021-07-26T04:01:36.916939+00:00", 684, "Your mother is", "seventy-seven", "Pronunciation: /\u02c8s\u025bv\u0259nti\u02c8s\u025bv\u0259n/", "Definition: being seven more than seventy", "Synonyms: 77, lxxvii"]}
+{"data": ["2021-07-26T05:02:46.585272+00:00", 685, "Your mother is", "doomed", "Pronunciation: /dumd/", "Definition: in danger of the eternal punishment of Hell", "Synonyms: cursed, damned, unredeemed, unsaved"]}
