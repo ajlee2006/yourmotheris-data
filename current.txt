@@ -1,1 +1,1 @@
-{"data": ["2021-07-26T12:04:27.472558+00:00", 692, "Your mother is", "low-growing", "Similar to: low", "Definition: of plants that grow relatively low to the ground", "Synonyms: flat-growing, ground-hugging"]}
+{"data": ["2021-07-26T13:03:40.945431+00:00", 693, "Your mother is", "anthophagous", "Similar to: herbivorous", "Definition: feeding on flowers", "Synonyms: anthophilous"]}
