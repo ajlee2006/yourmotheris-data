@@ -1,1 +1,1 @@
-{"data": ["2021-07-26T02:02:48.844249+00:00", 682, "Your mother is", "cool", "Pronunciation: /kul/", "Definition: marked by calm self-control (especially in trying circumstances); unemotional", "Synonyms: coolheaded, nerveless"]}
+{"data": ["2021-07-26T03:03:35.058947+00:00", 683, "Your mother is", "malleable", "Pronunciation: /\u02c8m\u00e6li\u0259b\u0259l/", "Definition: easily influenced", "Synonyms: ductile"]}
