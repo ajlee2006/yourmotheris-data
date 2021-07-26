@@ -1,1 +1,1 @@
-{"data": ["2021-07-26T13:03:40.945431+00:00", 693, "Your mother is", "anthophagous", "Similar to: herbivorous", "Definition: feeding on flowers", "Synonyms: anthophilous"]}
+{"data": ["2021-07-26T14:04:42.323601+00:00", 694, "Your mother is", "sublunary", "Pronunciation: /s\u0259b\u02c8lun\u0259ri/", "Definition: of this earth", "Synonyms: sublunar, terrestrial"]}
