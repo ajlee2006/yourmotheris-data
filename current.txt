@@ -1,1 +1,1 @@
-{"data": ["2021-07-26T14:04:42.323601+00:00", 694, "Your mother is", "sublunary", "Pronunciation: /s\u0259b\u02c8lun\u0259ri/", "Definition: of this earth", "Synonyms: sublunar, terrestrial"]}
+{"data": ["2021-07-26T15:03:31.222821+00:00", 695, "Your mother is", "formless", "Pronunciation: /\u02c8f\u0254rml\u026as/", "Definition: having no definite form or distinct shape", "Synonyms: amorphous, shapeless"]}
