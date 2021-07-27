@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T07:04:08.675679+00:00", 711, "Your mother is", "buff", "Pronunciation: /b\u0259f/", "Definition: of the yellowish-beige color of buff leather", ""]}
+{"data": ["2021-07-27T08:04:38.870339+00:00", 712, "Your mother is", "premature", "Pronunciation: /\u02ccprim\u0259\u02c8t\u028ar/", "Definition: too soon or too hasty", "Synonyms: previous"]}
