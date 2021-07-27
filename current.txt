@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T02:03:04.856001+00:00", 706, "Your mother is", "idolatrous", "Pronunciation: /a\u026a\u02c8d\u0251l\u0259tr\u0259s/", "Definition: blindly or excessively devoted or adoring", ""]}
+{"data": ["2021-07-27T03:01:55.741599+00:00", 707, "Your mother is", "low-pitched", "Pronunciation: /\u02c8lo\u028a\u02c8p\u026a\u02a7t/", "Definition: used of sounds and voices; low in pitch or frequency", "Synonyms: low"]}
