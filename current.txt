@@ -1,1 +1,1 @@
-{"data": ["2021-07-26T23:00:59.584154+00:00", 703, "Your mother is", "insane", "Pronunciation: /\u026an\u02c8se\u026an/", "Definition: very foolish", "Synonyms: harebrained, mad"]}
+{"data": ["2021-07-27T00:05:51.425502+00:00", 704, "Your mother is", "woeful", "Pronunciation: /\u02c8wo\u028af\u0259l/", "Definition: of very poor quality or condition", "Synonyms: deplorable, execrable, miserable, wretched"]}
