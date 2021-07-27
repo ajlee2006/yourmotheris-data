@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T21:02:32.343828+00:00", 725, "Your mother is", "mentally ill", "Pronunciation: /\u02c8m\u025bnt\u0259li-\u026al/", "Definition: suffering from severe mental illness", "Synonyms: unsound, unstable"]}
+{"data": ["2021-07-27T22:03:06.243470+00:00", 726, "Your mother is", "pressed", "Pronunciation: /pr\u025bst/", "Definition: compacted by ironing", ""]}
