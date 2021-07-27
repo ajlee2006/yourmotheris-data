@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T10:02:42.391875+00:00", 714, "Your mother is", "transient", "Pronunciation: /\u02c8tr\u00e6n\u0283\u0259nt/", "Definition: lasting a very short time", "Synonyms: ephemeral, fugacious, passing, short-lived, transitory"]}
+{"data": ["2021-07-27T11:02:36.734737+00:00", 715, "Your mother is", "covariant", "Pronunciation: /ko\u028a\u02c8v\u025cri\u0259nt/", "Definition: changing so that interrelations with another variable quantity or set of quantities remain unchanged", ""]}
