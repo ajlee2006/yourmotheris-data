@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T19:03:58.758229+00:00", 723, "Your mother is", "furrowed", "Pronunciation: /\u02c8f\u025dro\u028ad/", "Definition: having long narrow shallow depressions (as grooves or wrinkles) in the surface", "Synonyms: rugged"]}
+{"data": ["2021-07-27T20:04:21.732561+00:00", 724, "Your mother is", "tawdry", "Pronunciation: /\u02c8t\u0254dri/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tatty, trashy"]}
