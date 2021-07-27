@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T14:03:11.246457+00:00", 718, "Your mother is", "cunning", "Pronunciation: /\u02c8k\u0259n\u026a\u014b/", "Definition: showing inventiveness and skill", "Synonyms: clever, ingenious"]}
+{"data": ["2021-07-27T15:00:42.620306+00:00", 719, "Your mother is", "hoarse", "Pronunciation: /ho\u028ars/", "Definition: deep and harsh sounding as if from shouting or illness or emotion", "Synonyms: gruff, husky"]}
