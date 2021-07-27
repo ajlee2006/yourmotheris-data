@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T13:01:22.227499+00:00", 717, "Your mother is", "dependant", "Pronunciation: /d\u026a\u02c8p\u025bnd\u0259nt/", "Definition: contingent on something else", "Synonyms: dependent, qualified"]}
+{"data": ["2021-07-27T14:03:11.246457+00:00", 718, "Your mother is", "cunning", "Pronunciation: /\u02c8k\u0259n\u026a\u014b/", "Definition: showing inventiveness and skill", "Synonyms: clever, ingenious"]}
