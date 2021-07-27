@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T11:02:36.734737+00:00", 715, "Your mother is", "covariant", "Pronunciation: /ko\u028a\u02c8v\u025cri\u0259nt/", "Definition: changing so that interrelations with another variable quantity or set of quantities remain unchanged", ""]}
+{"data": ["2021-07-27T12:03:23.628681+00:00", 716, "Your mother is", "dazzling", "Pronunciation: /\u02c8d\u00e6z\u028cl\u026a\u014b/", "Definition: shining intensely", "Synonyms: blazing, blinding, fulgent, glaring, glary"]}
