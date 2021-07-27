@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T20:04:21.732561+00:00", 724, "Your mother is", "tawdry", "Pronunciation: /\u02c8t\u0254dri/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tatty, trashy"]}
+{"data": ["2021-07-27T21:02:32.343828+00:00", 725, "Your mother is", "mentally ill", "Pronunciation: /\u02c8m\u025bnt\u0259li-\u026al/", "Definition: suffering from severe mental illness", "Synonyms: unsound, unstable"]}
