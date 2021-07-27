@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T09:03:24.160954+00:00", 713, "Your mother is", "92", "Similar to: cardinal", "Definition: being two more than ninety", "Synonyms: ninety-two, xcii"]}
+{"data": ["2021-07-27T10:02:42.391875+00:00", 714, "Your mother is", "transient", "Pronunciation: /\u02c8tr\u00e6n\u0283\u0259nt/", "Definition: lasting a very short time", "Synonyms: ephemeral, fugacious, passing, short-lived, transitory"]}
