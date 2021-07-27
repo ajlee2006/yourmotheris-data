@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T00:05:51.425502+00:00", 704, "Your mother is", "woeful", "Pronunciation: /\u02c8wo\u028af\u0259l/", "Definition: of very poor quality or condition", "Synonyms: deplorable, execrable, miserable, wretched"]}
+{"data": ["2021-07-27T01:04:02.000926+00:00", 705, "Your mother is", "eastbound", "Pronunciation: /\u02c8ist\u02ccba\u028and/", "Definition: moving toward the east", "Synonyms: eastward"]}
