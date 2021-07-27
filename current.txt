@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T22:03:06.243470+00:00", 726, "Your mother is", "pressed", "Pronunciation: /pr\u025bst/", "Definition: compacted by ironing", ""]}
+{"data": ["2021-07-27T23:01:26.926964+00:00", 727, "Your mother is", "bare", "Pronunciation: /b\u025cr/", "Definition: apart from anything else; without additions or modifications", "Synonyms: mere, simple"]}
