@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T08:04:38.870339+00:00", 712, "Your mother is", "premature", "Pronunciation: /\u02ccprim\u0259\u02c8t\u028ar/", "Definition: too soon or too hasty", "Synonyms: previous"]}
+{"data": ["2021-07-27T09:03:24.160954+00:00", 713, "Your mother is", "92", "Similar to: cardinal", "Definition: being two more than ninety", "Synonyms: ninety-two, xcii"]}
