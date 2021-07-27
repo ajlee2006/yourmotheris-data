@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T18:02:08.788398+00:00", 722, "Your mother is", "higher", "Pronunciation: /\u02c8ha\u026a\u0259r/", "Definition: advanced in complexity or elaboration", ""]}
+{"data": ["2021-07-27T19:03:58.758229+00:00", 723, "Your mother is", "furrowed", "Pronunciation: /\u02c8f\u025dro\u028ad/", "Definition: having long narrow shallow depressions (as grooves or wrinkles) in the surface", "Synonyms: rugged"]}
