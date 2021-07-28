@@ -1,1 +1,1 @@
-{"data": ["2021-07-27T23:01:26.926964+00:00", 727, "Your mother is", "bare", "Pronunciation: /b\u025cr/", "Definition: apart from anything else; without additions or modifications", "Synonyms: mere, simple"]}
+{"data": ["2021-07-28T00:05:47.301654+00:00", 728, "Your mother is", "cotyloidal", "Similar to: concave", "Definition: of the cup-shaped socket that receives the head of the thigh bone", "Synonyms: acetabular, cotyloid"]}
