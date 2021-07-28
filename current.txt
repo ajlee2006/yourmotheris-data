@@ -1,1 +1,1 @@
-{"data": ["2021-07-28T11:01:50.707173+00:00", 739, "Your mother is", "newsworthy", "Pronunciation: /\u02c8nuz\u02ccw\u025cr\u00f0i/", "Definition: sufficiently interesting to be reported in a newspaper", ""]}
+{"data": ["2021-07-28T12:03:39.368780+00:00", 740, "Your mother is", "weeklong", "Pronunciation: /\u02c8wikl\u0251\u014b/", "Definition: lasting through a week", "Synonyms: seven-day"]}
