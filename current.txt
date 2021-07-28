@@ -1,1 +1,1 @@
-{"data": ["2021-07-28T22:02:56.386430+00:00", 750, "Your mother is", "puzzled", "Pronunciation: /\u02c8p\u028cz\u028cld/", "Definition: filled with bewilderment", "Synonyms: at a loss, nonplused, nonplussed"]}
+{"data": ["2021-07-28T23:02:39.597545+00:00", 751, "Your mother is", "champion", "Pronunciation: /\u02c8\u02a7\u00e6mpi\u0259n/", "Definition: holding first place in a contest", "Synonyms: prizewinning"]}
