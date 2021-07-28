@@ -1,1 +1,1 @@
-{"data": ["2021-07-28T21:02:31.618180+00:00", 749, "Your mother is", "adherent", "Pronunciation: /\u00e6d\u02c8hir\u0259nt/", "Definition: sticking fast", ""]}
+{"data": ["2021-07-28T22:02:56.386430+00:00", 750, "Your mother is", "puzzled", "Pronunciation: /\u02c8p\u028cz\u028cld/", "Definition: filled with bewilderment", "Synonyms: at a loss, nonplused, nonplussed"]}
