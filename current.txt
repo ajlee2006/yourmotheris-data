@@ -1,1 +1,1 @@
-{"data": ["2021-07-28T09:03:28.148342+00:00", 737, "Your mother is", "duncical", "Similar to: stupid", "Definition: (used informally) stupid", "Synonyms: blockheaded, boneheaded, duncish, fatheaded, loggerheaded, thick, thick-skulled, thickheaded, wooden-headed"]}
+{"data": ["2021-07-28T10:03:25.787394+00:00", 738, "Your mother is", "surefooted", "Similar to: steady", "Definition: not liable to stumble or fall", "Synonyms: footsure, sure-footed"]}
