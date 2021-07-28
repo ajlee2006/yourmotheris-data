@@ -1,1 +1,1 @@
-{"data": ["2021-07-28T15:03:45.041511+00:00", 743, "Your mother is", "unworthy", "Pronunciation: /\u0259n\u02c8w\u025cr\u00f0i/", "Definition: not deserving", "Synonyms: undeserving"]}
+{"data": ["2021-07-28T16:03:18.466003+00:00", 744, "Your mother is", "unfavourable", "Pronunciation: /\u0259n\u02c8fe\u026av\u0259r\u0259b\u0259l/", "Definition: involving or creating circumstances detrimental to success or effectiveness", "Synonyms: disadvantageous, unfavorable"]}
