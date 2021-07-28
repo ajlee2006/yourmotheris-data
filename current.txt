@@ -1,1 +1,1 @@
-{"data": ["2021-07-28T13:00:23.197463+00:00", 741, "Your mother is", "cock-a-hoop", "Pronunciation: /\u02cck\u0251k\u0259\u02c8hup/", "Definition: exhibiting self-importance", "Synonyms: big, boastful, braggart, bragging, braggy, crowing, self-aggrandising, self-aggrandizing"]}
+{"data": ["2021-07-28T14:03:26.187532+00:00", 742, "Your mother is", "compartmented", "Similar to: compartmental", "Definition: divided up or separated into compartments or isolated units", ""]}
