@@ -1,1 +1,1 @@
-{"data": ["2021-07-28T04:03:21.173983+00:00", 732, "Your mother is", "rambunctious", "Pronunciation: /r\u00e6m\u02c8b\u0259\u014bk\u0283\u0259s/", "Definition: noisy and lacking in restraint or discipline", "Synonyms: boisterous, robustious, rumbustious, unruly"]}
+{"data": ["2021-07-28T05:00:47.308896+00:00", 733, "Your mother is", "washed-up", "Pronunciation: /\u02c8w\u0251\u0283t-\u02c8\u0259p/", "Definition: doomed to extinction", "Synonyms: done for, ruined, sunk, undone"]}
