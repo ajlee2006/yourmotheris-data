@@ -1,1 +1,1 @@
-{"data": ["2021-07-28T16:03:18.466003+00:00", 744, "Your mother is", "unfavourable", "Pronunciation: /\u0259n\u02c8fe\u026av\u0259r\u0259b\u0259l/", "Definition: involving or creating circumstances detrimental to success or effectiveness", "Synonyms: disadvantageous, unfavorable"]}
+{"data": ["2021-07-28T17:01:43.451491+00:00", 745, "Your mother is", "unregenerate", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8d\u0292\u025bn\u0259r\u026at/", "Definition: unrepentant and incapable of being reformed", "Synonyms: unreformable"]}
