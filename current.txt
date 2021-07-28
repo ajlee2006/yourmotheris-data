@@ -1,1 +1,1 @@
-{"data": ["2021-07-28T05:00:47.308896+00:00", 733, "Your mother is", "washed-up", "Pronunciation: /\u02c8w\u0251\u0283t-\u02c8\u0259p/", "Definition: doomed to extinction", "Synonyms: done for, ruined, sunk, undone"]}
+{"data": ["2021-07-28T06:01:38.762532+00:00", 734, "Your mother is", "biyearly", "Pronunciation: /ba\u026a\u02c8jirli/", "Definition: occurring or payable twice each year", "Synonyms: biannual, half-yearly, semiannual"]}
