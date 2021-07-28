@@ -1,1 +1,1 @@
-{"data": ["2021-07-28T08:03:32.396298+00:00", 736, "Your mother is", "ill", "Pronunciation: /\u026al/", "Definition: affected by an impairment of normal physical or mental function", "Synonyms: sick"]}
+{"data": ["2021-07-28T09:03:28.148342+00:00", 737, "Your mother is", "duncical", "Similar to: stupid", "Definition: (used informally) stupid", "Synonyms: blockheaded, boneheaded, duncish, fatheaded, loggerheaded, thick, thick-skulled, thickheaded, wooden-headed"]}
