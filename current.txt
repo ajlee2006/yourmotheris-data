@@ -1,1 +1,1 @@
-{"data": ["2021-07-29T00:03:00.475247+00:00", 752, "Your mother is", "falsetto", "Pronunciation: /f\u0254l\u02c8s\u025bto\u028a/", "Definition: artificially high; above the normal voice range", ""]}
+{"data": ["2021-07-29T01:02:58.578117+00:00", 753, "Your mother is", "dilettante", "Pronunciation: /\u02ccd\u026al\u026a\u02c8t\u00e6nti/", "Definition: showing frivolous or superficial interest; amateurish", "Synonyms: dilettanteish, dilettantish, sciolistic"]}
