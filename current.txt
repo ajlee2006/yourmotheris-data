@@ -1,1 +1,1 @@
-{"data": ["2021-07-29T21:03:41.932749+00:00", 773, "Your mother is", "isometric", "Pronunciation: /\u02cca\u026as\u0259\u02c8m\u025btr\u026ak/", "Definition: having equal dimensions or measurements", "Synonyms: isometrical"]}
+{"data": ["2021-07-29T22:03:22.249582+00:00", 774, "Your mother is", "stuffed", "Pronunciation: /st\u028cft/", "Definition: crammed with food", ""]}
