@@ -1,1 +1,1 @@
-{"data": ["2021-07-29T16:03:01.752717+00:00", 768, "Your mother is", "hooved", "Similar to: solid-hoofed", "Definition: having or resembling hoofs", "Synonyms: hoofed, ungulate, ungulated"]}
+{"data": ["2021-07-29T17:02:37.698363+00:00", 769, "Your mother is", "y2k compliant", "Similar to: obedient", "Definition: prepared to accurately process date and time data between and into the 20th and 21st centuries", ""]}
