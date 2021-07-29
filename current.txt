@@ -1,1 +1,1 @@
-{"data": ["2021-07-29T11:03:28.690319+00:00", 763, "Your mother is", "maximal", "Pronunciation: /\u02c8m\u00e6ks\u026am\u0259l/", "Definition: the greatest or most complete or best possible", "Synonyms: maximum"]}
+{"data": ["2021-07-29T12:03:26.334007+00:00", 764, "Your mother is", "branching", "Pronunciation: /\u02c8br\u00e6nt\u0283\u026a\u014b/", "Definition: having branches", "Synonyms: branched, ramate, ramose, ramous"]}
