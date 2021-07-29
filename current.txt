@@ -1,1 +1,1 @@
-{"data": ["2021-07-29T22:03:22.249582+00:00", 774, "Your mother is", "stuffed", "Pronunciation: /st\u028cft/", "Definition: crammed with food", ""]}
+{"data": ["2021-07-29T23:01:23.980138+00:00", 775, "Your mother is", "positivist", "", "Definition: of or relating to positivism", "Synonyms: positive, positivistic"]}
