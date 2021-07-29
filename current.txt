@@ -1,1 +1,1 @@
-{"data": ["2021-07-29T06:03:41.214059+00:00", 758, "Your mother is", "in condition", "Similar to: fit", "Definition: physically fit", "Synonyms: conditioned"]}
+{"data": ["2021-07-29T07:02:31.820170+00:00", 759, "Your mother is", "pinwheel-shaped", "Similar to: circular", "Definition: having the round shape of a pinwheel", ""]}
