@@ -1,1 +1,1 @@
-{"data": ["2021-07-29T05:02:52.149316+00:00", 757, "Your mother is", "shopworn", "Pronunciation: /\u02c8\u0283\u0251p\u02ccwo\u028arn/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, stock, threadbare, timeworn, tired, trite, well-worn"]}
+{"data": ["2021-07-29T06:03:41.214059+00:00", 758, "Your mother is", "in condition", "Similar to: fit", "Definition: physically fit", "Synonyms: conditioned"]}
