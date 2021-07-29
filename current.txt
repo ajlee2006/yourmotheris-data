@@ -1,1 +1,1 @@
-{"data": ["2021-07-28T23:02:39.597545+00:00", 751, "Your mother is", "champion", "Pronunciation: /\u02c8\u02a7\u00e6mpi\u0259n/", "Definition: holding first place in a contest", "Synonyms: prizewinning"]}
+{"data": ["2021-07-29T00:03:00.475247+00:00", 752, "Your mother is", "falsetto", "Pronunciation: /f\u0254l\u02c8s\u025bto\u028a/", "Definition: artificially high; above the normal voice range", ""]}
