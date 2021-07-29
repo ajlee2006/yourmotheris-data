@@ -1,1 +1,1 @@
-{"data": ["2021-07-29T03:02:26.753915+00:00", 755, "Your mother is", "raining", "Pronunciation: /\u02c8re\u026an\u026a\u014b/", "Definition: falling in drops or as if falling like rain", ""]}
+{"data": ["2021-07-29T04:04:10.181863+00:00", 756, "Your mother is", "stripped", "Pronunciation: /str\u026apt/", "Definition: having only essential or minimal features", "Synonyms: stripped-down"]}
