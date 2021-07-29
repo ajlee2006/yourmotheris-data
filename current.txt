@@ -1,1 +1,1 @@
-{"data": ["2021-07-29T19:00:36.588520+00:00", 771, "Your mother is", "disc-shaped", "Similar to: circular", "Definition: having a flat circular shape", "Synonyms: disclike, discoid, discoidal, disk-shaped, disklike"]}
+{"data": ["2021-07-29T20:00:36.486215+00:00", 772, "Your mother is", "disorganised", "Similar to: chaotic", "Definition: lacking order or methodical arrangement or function", "Synonyms: disorganized"]}
