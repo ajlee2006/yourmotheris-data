@@ -1,1 +1,1 @@
-{"data": ["2021-07-30T07:01:38.772579+00:00", 783, "Your mother is", "networklike", "Similar to: reticular", "Definition: having a network of veins or ribs", ""]}
+{"data": ["2021-07-30T08:03:37.185670+00:00", 784, "Your mother is", "cheliceral", "", "Definition: of or relating to or resembling chelicerae", "Synonyms: chelicerate"]}
