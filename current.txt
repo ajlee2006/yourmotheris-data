@@ -1,1 +1,1 @@
-{"data": ["2021-07-30T01:03:51.920073+00:00", 777, "Your mother is", "molecular", "Pronunciation: /mo\u028a\u02c8l\u025bkj\u0259l\u00e6r/", "Definition: relating to simple or elementary organization", ""]}
+{"data": ["2021-07-30T02:03:01.063036+00:00", 778, "Your mother is", "moist", "Pronunciation: /m\u0254\u026ast/", "Definition: slightly wet", "Synonyms: damp, dampish"]}
