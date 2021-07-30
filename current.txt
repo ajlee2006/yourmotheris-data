@@ -1,1 +1,1 @@
-{"data": ["2021-07-30T12:00:32.085097+00:00", 788, "Your mother is", "revealing", "Pronunciation: /r\u026a\u02c8vil\u026a\u014b/", "Definition: disclosing unintentionally something concealed", "Synonyms: telling, telltale"]}
+{"data": ["2021-07-30T13:01:00.244610+00:00", 789, "Your mother is", "nebular", "Pronunciation: /\u02c8n\u025bbj\u028al\u0259r/", "Definition: of or relating to or resembling a nebula", "Synonyms: nebulous"]}
