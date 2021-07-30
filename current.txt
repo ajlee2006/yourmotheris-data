@@ -1,1 +1,1 @@
-{"data": ["2021-07-30T09:01:45.905487+00:00", 785, "Your mother is", "torn", "Pronunciation: /to\u028arn/", "Definition: having edges that are jagged from injury", "Synonyms: lacerate, lacerated, mangled"]}
+{"data": ["2021-07-30T10:02:54.343325+00:00", 786, "Your mother is", "vanilla", "Pronunciation: /v\u0259\u02c8n\u026al\u0259/", "Definition: plain and without any extras or adornments", ""]}
