@@ -1,1 +1,1 @@
-{"data": ["2021-07-30T00:05:27.495198+00:00", 776, "Your mother is", "burbling", "Similar to: lively", "Definition: uttered with unrestrained enthusiasm", "Synonyms: burbly, effusive, gushing"]}
+{"data": ["2021-07-30T01:03:51.920073+00:00", 777, "Your mother is", "molecular", "Pronunciation: /mo\u028a\u02c8l\u025bkj\u0259l\u00e6r/", "Definition: relating to simple or elementary organization", ""]}
