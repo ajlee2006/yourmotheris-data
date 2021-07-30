@@ -1,1 +1,1 @@
-{"data": ["2021-07-30T21:00:20.491435+00:00", 797, "Your mother is", "malay", "Pronunciation: /\u02c8me\u026ale\u026a/", "Definition: of or relating to or characteristic of the people or language of Malaysia and the northern Malay Peninsula and parts of the western Malay Archipelago", "Synonyms: malayan"]}
+{"data": ["2021-07-30T22:01:43.696080+00:00", 798, "Your mother is", "commonsensible", "Similar to: reasonable", "Definition: exhibiting native good judgment", "Synonyms: commonsense, commonsensical"]}
