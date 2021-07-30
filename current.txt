@@ -1,1 +1,1 @@
-{"data": ["2021-07-30T10:02:54.343325+00:00", 786, "Your mother is", "vanilla", "Pronunciation: /v\u0259\u02c8n\u026al\u0259/", "Definition: plain and without any extras or adornments", ""]}
+{"data": ["2021-07-30T11:01:01.462940+00:00", 787, "Your mother is", "snobbish", "Pronunciation: /\u02c8sn\u0251b\u026a\u0283/", "Definition: befitting or characteristic of those who incline to social exclusiveness and who rebuff the advances of people considered inferior", "Synonyms: clannish, cliquish, clubby, snobby"]}
