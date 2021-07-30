@@ -1,1 +1,1 @@
-{"data": ["2021-07-30T04:02:49.910617+00:00", 780, "Your mother is", "maxillofacial", "", "Definition: of or relating to the upper jaw and face (particularly with reference to specialized surgery of the maxilla)", ""]}
+{"data": ["2021-07-30T05:02:53.746599+00:00", 781, "Your mother is", "calceiform", "Pronunciation: /\u02c8k\u00e6lsi\u0259\u02ccf\u0254rm/", "Definition: of slipper-shaped blossoms", "Synonyms: calceolate"]}
