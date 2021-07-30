@@ -1,1 +1,1 @@
-{"data": ["2021-07-30T13:01:00.244610+00:00", 789, "Your mother is", "nebular", "Pronunciation: /\u02c8n\u025bbj\u028al\u0259r/", "Definition: of or relating to or resembling a nebula", "Synonyms: nebulous"]}
+{"data": ["2021-07-30T14:02:45.525517+00:00", 790, "Your mother is", "cumbrous", "Pronunciation: /\u02c8k\u0259mbr\u0259s/", "Definition: difficult to handle or use especially because of size or weight", "Synonyms: cumbersome"]}
