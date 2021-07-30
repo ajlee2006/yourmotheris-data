@@ -1,1 +1,1 @@
-{"data": ["2021-07-30T03:00:57.268510+00:00", 779, "Your mother is", "felted", "Similar to: unwoven", "Definition: made by combining fibers with a binder using heat and pressure", ""]}
+{"data": ["2021-07-30T04:02:49.910617+00:00", 780, "Your mother is", "maxillofacial", "", "Definition: of or relating to the upper jaw and face (particularly with reference to specialized surgery of the maxilla)", ""]}
