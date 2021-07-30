@@ -1,1 +1,1 @@
-{"data": ["2021-07-30T11:01:01.462940+00:00", 787, "Your mother is", "snobbish", "Pronunciation: /\u02c8sn\u0251b\u026a\u0283/", "Definition: befitting or characteristic of those who incline to social exclusiveness and who rebuff the advances of people considered inferior", "Synonyms: clannish, cliquish, clubby, snobby"]}
+{"data": ["2021-07-30T12:00:32.085097+00:00", 788, "Your mother is", "revealing", "Pronunciation: /r\u026a\u02c8vil\u026a\u014b/", "Definition: disclosing unintentionally something concealed", "Synonyms: telling, telltale"]}
