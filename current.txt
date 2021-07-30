@@ -1,1 +1,1 @@
-{"data": ["2021-07-30T16:02:19.715591+00:00", 792, "Your mother is", "quick-tempered", "Pronunciation: /\u02c8kw\u026ak\u02c8t\u025bmp\u0259rd/", "Definition: quickly aroused to anger", "Synonyms: choleric, hot-tempered, hotheaded, irascible, short-tempered"]}
+{"data": ["2021-07-30T17:02:19.728999+00:00", 793, "Your mother is", "astounded", "Pronunciation: /\u028c\u02c8sta\u028and\u026ad/", "Definition: filled with the emotional impact of overwhelming surprise or shock", "Synonyms: amazed, astonied, astonished, stunned"]}
