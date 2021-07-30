@@ -1,1 +1,1 @@
-{"data": ["2021-07-30T17:02:19.728999+00:00", 793, "Your mother is", "astounded", "Pronunciation: /\u028c\u02c8sta\u028and\u026ad/", "Definition: filled with the emotional impact of overwhelming surprise or shock", "Synonyms: amazed, astonied, astonished, stunned"]}
+{"data": ["2021-07-30T18:02:38.938575+00:00", 794, "Your mother is", "panic-stricken", "Pronunciation: /\u02c8p\u00e6n\u026ak-\u02ccstr\u026ak\u0259n/", "Definition: thrown into a state of intense fear or desperation", "Synonyms: frightened, panic-struck, panicked, panicky, terrified"]}
