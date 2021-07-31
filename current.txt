@@ -1,1 +1,1 @@
-{"data": ["2021-07-31T13:01:35.779680+00:00", 813, "Your mother is", "quack", "Pronunciation: /kw\u00e6k/", "Definition: medically unqualified", ""]}
+{"data": ["2021-07-31T14:01:39.414240+00:00", 814, "Your mother is", "edified", "Similar to: enlightened", "Definition: instructed and encouraged in moral, intellectual, and spiritual improvement", ""]}
