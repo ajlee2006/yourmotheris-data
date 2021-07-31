@@ -1,1 +1,1 @@
-{"data": ["2021-07-31T18:04:58.000608+00:00", 818, "Your mother is", "low-set", "Pronunciation: /lo\u028a-s\u025bt/", "Definition: lower than average", "Synonyms: lowset"]}
+{"data": ["2021-07-31T19:01:12.973216+00:00", 819, "Your mother is", "elvish", "Pronunciation: /\u02c8\u025blv\u026a\u0283/", "Definition: usually good-naturedly mischievous", "Synonyms: elfin, elfish"]}
