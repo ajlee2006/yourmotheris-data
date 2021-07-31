@@ -1,1 +1,1 @@
-{"data": ["2021-07-31T07:02:24.467878+00:00", 807, "Your mother is", "approving", "Pronunciation: /\u028c\u02c8pruv\u026a\u014b/", "Definition: expressing or manifesting praise or approval", "Synonyms: affirmative, approbative, approbatory, plausive"]}
+{"data": ["2021-07-31T08:04:53.218003+00:00", 808, "Your mother is", "motile", "Pronunciation: /\u02c8mo\u028at\u0259l/", "Definition: (of spores or microorganisms) capable of movement", ""]}
