@@ -1,1 +1,1 @@
-{"data": ["2021-07-31T05:00:25.781727+00:00", 805, "Your mother is", "razor-sharp", "Pronunciation: /\u02c8re\u026az\u0259r-\u0283\u0251rp/", "Definition: as sharp as a razor", ""]}
+{"data": ["2021-07-31T06:00:39.678743+00:00", 806, "Your mother is", "faraway", "Pronunciation: /\u02c8f\u0251r\u0259\u02c8we\u026a/", "Definition: very far away in space or time", "Synonyms: far-off"]}
