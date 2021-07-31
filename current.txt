@@ -1,1 +1,1 @@
-{"data": ["2021-07-31T17:01:42.244407+00:00", 817, "Your mother is", "bedfast", "Pronunciation: /\u02c8b\u025bd\u02ccf\u00e6st/", "Definition: confined to bed (by illness)", "Synonyms: bedrid, bedridden, sick-abed"]}
+{"data": ["2021-07-31T18:04:58.000608+00:00", 818, "Your mother is", "low-set", "Pronunciation: /lo\u028a-s\u025bt/", "Definition: lower than average", "Synonyms: lowset"]}
