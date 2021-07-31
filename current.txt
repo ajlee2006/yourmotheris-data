@@ -1,1 +1,1 @@
-{"data": ["2021-07-30T23:02:06.553948+00:00", 799, "Your mother is", "shorn", "Pronunciation: /\u0283o\u028arn/", "Definition: having the hair or wool cut or clipped off as if with shears or clippers", "Synonyms: sheared"]}
+{"data": ["2021-07-31T00:04:31.929431+00:00", 800, "Your mother is", "fat-soluble", "Pronunciation: /f\u00e6t-\u02c8s\u0251lj\u0259b\u0259l/", "Definition: soluble in fats", ""]}
