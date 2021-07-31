@@ -1,1 +1,1 @@
-{"data": ["2021-07-31T04:04:57.713159+00:00", 804, "Your mother is", "xxxi", "Similar to: cardinal", "Definition: being one more than thirty", "Synonyms: 31, thirty-one"]}
+{"data": ["2021-07-31T05:00:25.781727+00:00", 805, "Your mother is", "razor-sharp", "Pronunciation: /\u02c8re\u026az\u0259r-\u0283\u0251rp/", "Definition: as sharp as a razor", ""]}
