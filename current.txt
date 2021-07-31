@@ -1,1 +1,1 @@
-{"data": ["2021-07-31T03:02:03.670885+00:00", 803, "Your mother is", "street smart", "Similar to: smart", "Definition: having the shrewd resourcefulness needed to survive in an urban environment", "Synonyms: streetwise, with-it"]}
+{"data": ["2021-07-31T04:04:57.713159+00:00", 804, "Your mother is", "xxxi", "Similar to: cardinal", "Definition: being one more than thirty", "Synonyms: 31, thirty-one"]}
