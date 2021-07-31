@@ -1,1 +1,1 @@
-{"data": ["2021-07-31T06:00:39.678743+00:00", 806, "Your mother is", "faraway", "Pronunciation: /\u02c8f\u0251r\u0259\u02c8we\u026a/", "Definition: very far away in space or time", "Synonyms: far-off"]}
+{"data": ["2021-07-31T07:02:24.467878+00:00", 807, "Your mother is", "approving", "Pronunciation: /\u028c\u02c8pruv\u026a\u014b/", "Definition: expressing or manifesting praise or approval", "Synonyms: affirmative, approbative, approbatory, plausive"]}
