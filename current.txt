@@ -1,1 +1,1 @@
-{"data": ["2021-07-31T22:01:54.870905+00:00", 822, "Your mother is", "unfinished", "Pronunciation: /\u0259n\u02c8f\u026an\u026a\u0283t/", "Definition: lacking a surface finish such as paint", "Synonyms: bare"]}
+{"data": ["2021-07-31T23:01:19.049030+00:00", 823, "Your mother is", "drastic", "Pronunciation: /\u02c8dr\u00e6st\u026ak/", "Definition: forceful and extreme and rigorous", ""]}
