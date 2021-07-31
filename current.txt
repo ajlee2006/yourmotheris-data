@@ -1,1 +1,1 @@
-{"data": ["2021-07-31T10:01:02.454132+00:00", 810, "Your mother is", "advertised", "Pronunciation: /\u02c8\u00e6dv\u025dr\u02ccta\u026azd/", "Definition: called to public attention", ""]}
+{"data": ["2021-07-31T11:01:00.199383+00:00", 811, "Your mother is", "extrospective", "", "Definition: not introspective; examining what is outside yourself", "Synonyms: extroverted"]}
