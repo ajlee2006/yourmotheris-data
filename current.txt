@@ -1,1 +1,1 @@
-{"data": ["2021-07-31T16:03:20.574212+00:00", 816, "Your mother is", "lentiginous", "Pronunciation: /l\u025bn\u02c8t\u026ad\u0292\u0259n\u0259s/", "Definition: relating to or covered with or resembling freckles", "Synonyms: freckled, lentiginose"]}
+{"data": ["2021-07-31T17:01:42.244407+00:00", 817, "Your mother is", "bedfast", "Pronunciation: /\u02c8b\u025bd\u02ccf\u00e6st/", "Definition: confined to bed (by illness)", "Synonyms: bedrid, bedridden, sick-abed"]}
