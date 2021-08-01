@@ -1,1 +1,1 @@
-{"data": ["2021-08-01T21:04:50.193622+00:00", 845, "Your mother is", "pillaged", "Pronunciation: /\u02c8p\u026al\u026ad\u0292d/", "Definition: having been robbed and destroyed by force and violence", "Synonyms: despoiled, raped, ravaged, sacked"]}
+{"data": ["2021-08-01T22:02:59.342707+00:00", 846, "Your mother is", "seven-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with seven members", "Synonyms: 7-membered"]}
