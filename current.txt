@@ -1,1 +1,1 @@
-{"data": ["2021-08-01T18:01:49.301721+00:00", 842, "Your mother is", "hatted", "Similar to: turbaned", "Definition: wearing a hat or a hat of a particular kind", ""]}
+{"data": ["2021-08-01T19:01:05.401220+00:00", 843, "Your mother is", "chambered", "Pronunciation: /\u02c8t\u0283e\u026amb\u0259d/", "Definition: having compartmental chambers", ""]}
