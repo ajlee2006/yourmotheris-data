@@ -1,1 +1,1 @@
-{"data": ["2021-08-01T13:02:21.898293+00:00", 837, "Your mother is", "distinct", "Pronunciation: /d\u026a\u02c8st\u026a\u014bkt/", "Definition: constituting a separate entity or part", "Synonyms: discrete"]}
+{"data": ["2021-08-01T14:03:27.285719+00:00", 838, "Your mother is", "littler", "Pronunciation: /\u02c8l\u026at\u028cl\u025dr/", "Definition: small or little relative to something else", "Synonyms: smaller"]}
