@@ -1,1 +1,1 @@
-{"data": ["2021-07-31T23:01:19.049030+00:00", 823, "Your mother is", "drastic", "Pronunciation: /\u02c8dr\u00e6st\u026ak/", "Definition: forceful and extreme and rigorous", ""]}
+{"data": ["2021-08-01T00:05:17.609028+00:00", 824, "Your mother is", "undone", "Pronunciation: /\u0259n\u02c8d\u0259n/", "Definition: doomed to extinction", "Synonyms: done for, ruined, sunk, washed-up"]}
