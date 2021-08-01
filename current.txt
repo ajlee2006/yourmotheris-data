@@ -1,1 +1,1 @@
-{"data": ["2021-08-01T15:04:24.153547+00:00", 839, "Your mother is", "residuary", "Pronunciation: /r\u026a\u02c8z\u026ad\u0292u\u02cc\u025bri/", "Definition: relating to or indicating a remainder", "Synonyms: residual"]}
+{"data": ["2021-08-01T16:04:52.949333+00:00", 840, "Your mother is", "gerundial", "Pronunciation: /d\u0292\u0259\u02c8r\u0259ndi\u0259l/", "Definition: relating to or like a gerund", ""]}
