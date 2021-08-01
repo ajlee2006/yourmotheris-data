@@ -1,1 +1,1 @@
-{"data": ["2021-08-01T10:01:39.672938+00:00", 834, "Your mother is", "36th", "Similar to: ordinal", "Definition: the ordinal number of thirty-six in counting order", "Synonyms: thirty-sixth"]}
+{"data": ["2021-08-01T11:04:58.413169+00:00", 835, "Your mother is", "intracellular", "Pronunciation: /\u02cc\u026antr\u0259\u02c8s\u025blj\u0259l\u0259r/", "Definition: located or occurring within a cell or cells", ""]}
