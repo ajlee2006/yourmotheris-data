@@ -1,1 +1,1 @@
-{"data": ["2021-08-01T12:02:34.051900+00:00", 836, "Your mother is", "couchant", "Pronunciation: /\u02c8ka\u028a\u02a7\u0259nt/", "Definition: lying on the stomach with head raised with legs pointed forward", ""]}
+{"data": ["2021-08-01T13:02:21.898293+00:00", 837, "Your mother is", "distinct", "Pronunciation: /d\u026a\u02c8st\u026a\u014bkt/", "Definition: constituting a separate entity or part", "Synonyms: discrete"]}
