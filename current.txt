@@ -1,1 +1,1 @@
-{"data": ["2021-08-01T08:02:01.679860+00:00", 832, "Your mother is", "desecrated", "Pronunciation: /d\u025bz\u028c\u02c8kre\u026at\u026ad/", "Definition: treated with disrespect and contempt", ""]}
+{"data": ["2021-08-01T09:01:57.641752+00:00", 833, "Your mother is", "platyrhine", "", "Definition: of or related to New World monkeys having nostrils far apart or to people with broad noses", "Synonyms: broadnosed, platyrhinian, platyrrhine, platyrrhinian, platyrrhinic"]}
