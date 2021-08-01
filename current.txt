@@ -1,1 +1,1 @@
-{"data": ["2021-08-01T03:04:35.629654+00:00", 827, "Your mother is", "homeless", "Pronunciation: /\u02c8ho\u028aml\u026as/", "Definition: physically or spiritually homeless or deprived of security", "Synonyms: dispossessed, roofless"]}
+{"data": ["2021-08-01T04:01:30.949301+00:00", 828, "Your mother is", "rosy-colored", "Similar to: colored", "Definition: having a rose color", "Synonyms: rose-colored"]}
