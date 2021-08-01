@@ -1,1 +1,1 @@
-{"data": ["2021-08-01T02:04:43.713869+00:00", 826, "Your mother is", "topsy-turvy", "Pronunciation: /\u02c8t\u0251psi-\u02c8t\u025crvi/", "Definition: in utter disorder", "Synonyms: disorderly, higgledy-piggledy, hugger-mugger, jumbled"]}
+{"data": ["2021-08-01T03:04:35.629654+00:00", 827, "Your mother is", "homeless", "Pronunciation: /\u02c8ho\u028aml\u026as/", "Definition: physically or spiritually homeless or deprived of security", "Synonyms: dispossessed, roofless"]}
