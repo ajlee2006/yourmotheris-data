@@ -1,1 +1,1 @@
-{"data": ["2021-08-02T09:03:38.359451+00:00", 857, "Your mother is", "scraggly", "Pronunciation: /\u02c8skr\u00e6gli/", "Definition: being very thin", "Synonyms: boney, bony, scraggy, scrawny, skinny, underweight, weedy"]}
+{"data": ["2021-08-02T10:02:29.843050+00:00", 858, "Your mother is", "umber", "Pronunciation: /\u02c8\u0259mb\u0259r/", "Definition: of the color of any of various natural brown earth pigments", ""]}
