@@ -1,1 +1,1 @@
-{"data": ["2021-08-02T16:03:37.579990+00:00", 864, "Your mother is", ".38-caliber", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures thirty-eight hundredths of an inch in diameter", "Synonyms: .38-calibre, .38 caliber, .38 calibre"]}
+{"data": ["2021-08-02T17:02:46.584551+00:00", 865, "Your mother is", "chicken-breasted", "Similar to: unshapely", "Definition: having a chest deformity marked by a projecting breastbone caused by infantile rickets", "Synonyms: pigeon-breasted"]}
