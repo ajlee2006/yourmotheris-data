@@ -1,1 +1,1 @@
-{"data": ["2021-08-02T00:06:43.664757+00:00", 848, "Your mother is", "ctenoid", "Pronunciation: /\u02c8tin\u0254\u026ad/", "Definition: resembling a comb; having projections like the teeth of a comb", "Synonyms: comb-like"]}
+{"data": ["2021-08-02T01:04:12.369334+00:00", 849, "Your mother is", "ebony", "Pronunciation: /\u02c8\u025bb\u0259ni/", "Definition: of a very dark black", "Synonyms: ebon"]}
