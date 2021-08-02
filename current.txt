@@ -1,1 +1,1 @@
-{"data": ["2021-08-02T03:04:50.922218+00:00", 851, "Your mother is", "chaotic", "Pronunciation: /ke\u026a\u02c8\u0251t\u026ak/", "Definition: completely unordered and unpredictable and confusing", "Synonyms: disorderly"]}
+{"data": ["2021-08-02T04:02:18.565338+00:00", 852, "Your mother is", "nomothetic", "Pronunciation: /\u02ccn\u0251m\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: relating to or involving the search for abstract universal principles", ""]}
