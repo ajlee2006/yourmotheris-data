@@ -1,1 +1,1 @@
-{"data": ["2021-08-02T05:03:46.446395+00:00", 853, "Your mother is", "fairish", "Pronunciation: /\u02c8f\u025cr\u026a\u0283/", "Definition: not excessive or extreme", "Synonyms: fair, reasonable"]}
+{"data": ["2021-08-02T06:03:06.055967+00:00", 854, "Your mother is", "telescopic", "Pronunciation: /\u02cct\u025bl\u026a\u02c8sk\u0251p\u026ak/", "Definition: capable of discerning distant objects", ""]}
