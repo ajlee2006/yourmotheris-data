@@ -1,1 +1,1 @@
-{"data": ["2021-08-02T04:02:18.565338+00:00", 852, "Your mother is", "nomothetic", "Pronunciation: /\u02ccn\u0251m\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: relating to or involving the search for abstract universal principles", ""]}
+{"data": ["2021-08-02T05:03:46.446395+00:00", 853, "Your mother is", "fairish", "Pronunciation: /\u02c8f\u025cr\u026a\u0283/", "Definition: not excessive or extreme", "Synonyms: fair, reasonable"]}
