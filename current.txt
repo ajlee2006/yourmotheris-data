@@ -1,1 +1,1 @@
-{"data": ["2021-08-02T12:02:43.215449+00:00", 860, "Your mother is", "vaccinated", "Pronunciation: /\u02c8v\u00e6ks\u028cne\u026at\u026ad/", "Definition: having been rendered unsusceptible to a disease", "Synonyms: immunised, immunized"]}
+{"data": ["2021-08-02T13:02:00.607183+00:00", 861, "Your mother is", "constrained", "Pronunciation: /k\u0259n\u02c8stre\u026and/", "Definition: lacking spontaneity; not natural", "Synonyms: forced, strained"]}
