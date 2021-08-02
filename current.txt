@@ -1,1 +1,1 @@
-{"data": ["2021-08-02T18:02:22.425976+00:00", 866, "Your mother is", "epideictical", "Similar to: demonstrative", "Definition: designed primarily for rhetorical display", "Synonyms: epideictic"]}
+{"data": ["2021-08-02T19:04:20.282975+00:00", 867, "Your mother is", "conic", "Pronunciation: /\u02c8k\u0251n\u026ak/", "Definition: relating to or resembling a cone", "Synonyms: cone-shaped, conelike, conical"]}
