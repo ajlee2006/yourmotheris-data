@@ -1,1 +1,1 @@
-{"data": ["2021-08-02T11:02:04.515307+00:00", 859, "Your mother is", "continuant", "Pronunciation: /k\u0259n\u02c8t\u026anju\u0259nt/", "Definition: of speech sounds produced by forcing air through a constricted passage (as `f', `s', `z', or `th' in both `thin' and `then')", "Synonyms: fricative, sibilant, spirant, strident"]}
+{"data": ["2021-08-02T12:02:43.215449+00:00", 860, "Your mother is", "vaccinated", "Pronunciation: /\u02c8v\u00e6ks\u028cne\u026at\u026ad/", "Definition: having been rendered unsusceptible to a disease", "Synonyms: immunised, immunized"]}
