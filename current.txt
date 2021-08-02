@@ -1,1 +1,1 @@
-{"data": ["2021-08-02T10:02:29.843050+00:00", 858, "Your mother is", "umber", "Pronunciation: /\u02c8\u0259mb\u0259r/", "Definition: of the color of any of various natural brown earth pigments", ""]}
+{"data": ["2021-08-02T11:02:04.515307+00:00", 859, "Your mother is", "continuant", "Pronunciation: /k\u0259n\u02c8t\u026anju\u0259nt/", "Definition: of speech sounds produced by forcing air through a constricted passage (as `f', `s', `z', or `th' in both `thin' and `then')", "Synonyms: fricative, sibilant, spirant, strident"]}
