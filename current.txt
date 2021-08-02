@@ -1,1 +1,1 @@
-{"data": ["2021-08-02T08:01:53.967657+00:00", 856, "Your mother is", "nonplussed", "Pronunciation: /n\u0251n\u02c8pl\u028cst/", "Definition: filled with bewilderment", "Synonyms: at a loss, nonplused, puzzled"]}
+{"data": ["2021-08-02T09:03:38.359451+00:00", 857, "Your mother is", "scraggly", "Pronunciation: /\u02c8skr\u00e6gli/", "Definition: being very thin", "Synonyms: boney, bony, scraggy, scrawny, skinny, underweight, weedy"]}
