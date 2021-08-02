@@ -1,1 +1,1 @@
-{"data": ["2021-08-02T22:01:36.086479+00:00", 870, "Your mother is", "flawless", "Pronunciation: /\u02c8fl\u0254l\u028cs/", "Definition: without a flaw", "Synonyms: unflawed"]}
+{"data": ["2021-08-02T23:01:48.925249+00:00", 871, "Your mother is", "pretentious", "Pronunciation: /pri\u02c8t\u025bn\u0283\u0259s/", "Definition: intended to attract notice and impress others", "Synonyms: ostentatious"]}
