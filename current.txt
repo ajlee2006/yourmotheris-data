@@ -1,1 +1,1 @@
-{"data": ["2021-08-03T08:00:48.882315+00:00", 880, "Your mother is", "anthophilous", "Pronunciation: /\u00e6n\u02c8\u03b8\u0251f\u0259l\u0259s/", "Definition: feeding on flowers", "Synonyms: anthophagous"]}
+{"data": ["2021-08-03T09:01:39.458280+00:00", 881, "Your mother is", "cadaveric", "", "Definition: of or relating to a cadaver or corpse", "Synonyms: cadaverous"]}
