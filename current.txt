@@ -1,1 +1,1 @@
-{"data": ["2021-08-03T10:00:52.995450+00:00", 882, "Your mother is", "immoral", "Pronunciation: /\u026a\u02c8m\u0254r\u0259l/", "Definition: not adhering to ethical or moral principles", "Synonyms: base"]}
+{"data": ["2021-08-03T11:02:30.311012+00:00", 883, "Your mother is", "orbiculate", "Pronunciation: /\u0254r\u02c8b\u026akj\u0259l\u026at/", "Definition: circular or nearly circular", "Synonyms: orbicular"]}
