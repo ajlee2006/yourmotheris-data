@@ -1,1 +1,1 @@
-{"data": ["2021-08-03T11:02:30.311012+00:00", 883, "Your mother is", "orbiculate", "Pronunciation: /\u0254r\u02c8b\u026akj\u0259l\u026at/", "Definition: circular or nearly circular", "Synonyms: orbicular"]}
+{"data": ["2021-08-03T12:01:53.419483+00:00", 884, "Your mother is", "46th", "Similar to: ordinal", "Definition: the ordinal number of forty-six in counting order", "Synonyms: forty-sixth"]}
