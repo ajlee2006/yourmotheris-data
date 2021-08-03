@@ -1,1 +1,1 @@
-{"data": ["2021-08-03T00:05:37.780113+00:00", 872, "Your mother is", "buttressed", "Pronunciation: /\u02c8b\u028ctr\u028cst/", "Definition: held up by braces or buttresses", "Synonyms: braced"]}
+{"data": ["2021-08-03T01:01:55.671789+00:00", 873, "Your mother is", "qualitative", "Pronunciation: /\u02c8kw\u0251l\u026a\u02ccte\u026at\u026av/", "Definition: involving distinctions based on qualities", ""]}
