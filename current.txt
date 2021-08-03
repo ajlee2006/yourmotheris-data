@@ -1,1 +1,1 @@
-{"data": ["2021-08-03T07:02:19.649448+00:00", 879, "Your mother is", "neritic", "Pronunciation: /n\u0259\u02c8r\u026at\u026ak/", "Definition: relating to the region of shallow water adjoining the seacoast", ""]}
+{"data": ["2021-08-03T08:00:48.882315+00:00", 880, "Your mother is", "anthophilous", "Pronunciation: /\u00e6n\u02c8\u03b8\u0251f\u0259l\u0259s/", "Definition: feeding on flowers", "Synonyms: anthophagous"]}
