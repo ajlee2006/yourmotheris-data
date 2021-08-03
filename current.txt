@@ -1,1 +1,1 @@
-{"data": ["2021-08-02T23:01:48.925249+00:00", 871, "Your mother is", "pretentious", "Pronunciation: /pri\u02c8t\u025bn\u0283\u0259s/", "Definition: intended to attract notice and impress others", "Synonyms: ostentatious"]}
+{"data": ["2021-08-03T00:05:37.780113+00:00", 872, "Your mother is", "buttressed", "Pronunciation: /\u02c8b\u028ctr\u028cst/", "Definition: held up by braces or buttresses", "Synonyms: braced"]}
