@@ -1,1 +1,1 @@
-{"data": ["2021-08-03T17:02:32.077031+00:00", 889, "Your mother is", "low-lying", "Pronunciation: /lo\u028a-\u02c8la\u026a\u026a\u014b/", "Definition: lying below the normal level", "Synonyms: sea-level"]}
+{"data": ["2021-08-03T18:01:54.789093+00:00", 890, "Your mother is", "eclectic", "Pronunciation: /\u026a\u02c8kl\u025bkt\u026ak/", "Definition: selecting what seems best of various styles or ideas", ""]}
