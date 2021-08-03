@@ -1,1 +1,1 @@
-{"data": ["2021-08-03T05:02:02.153502+00:00", 877, "Your mother is", "catapultian", "", "Definition: of or like a catapult", "Synonyms: catapultic"]}
+{"data": ["2021-08-03T06:04:57.469829+00:00", 878, "Your mother is", "heterotrophic", "Pronunciation: /\u02cch\u025bt\u0259r\u0259\u02c8tr\u0251f\u026ak/", "Definition: requiring organic compounds of carbon and nitrogen for nourishment", ""]}
