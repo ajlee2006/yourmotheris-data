@@ -1,1 +1,1 @@
-{"data": ["2021-08-03T22:04:29.839312+00:00", 894, "Your mother is", "weighted", "Pronunciation: /\u02c8we\u026at\u026ad/", "Definition: made heavy or weighted down with weariness", "Synonyms: leaden"]}
+{"data": ["2021-08-03T23:03:03.036326+00:00", 895, "Your mother is", "forward-moving", "Similar to: progressive", "Definition: moving forward", "Synonyms: advancing, forward"]}
