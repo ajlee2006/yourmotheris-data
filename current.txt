@@ -1,1 +1,1 @@
-{"data": ["2021-08-03T18:01:54.789093+00:00", 890, "Your mother is", "eclectic", "Pronunciation: /\u026a\u02c8kl\u025bkt\u026ak/", "Definition: selecting what seems best of various styles or ideas", ""]}
+{"data": ["2021-08-03T19:00:55.486845+00:00", 891, "Your mother is", "on-going", "Similar to: current", "Definition: currently happening", "Synonyms: ongoing"]}
