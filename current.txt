@@ -1,1 +1,1 @@
-{"data": ["2021-08-03T02:02:03.129718+00:00", 874, "Your mother is", "scrumptious", "Pronunciation: /\u02c8skr\u0259mp\u0283\u0259s/", "Definition: extremely pleasing to the sense of taste", "Synonyms: delectable, delicious, luscious, pleasant-tasting, toothsome, yummy"]}
+{"data": ["2021-08-03T03:02:24.095466+00:00", 875, "Your mother is", "inharmonious", "Pronunciation: /\u02cc\u026anh\u0251r\u02c8mo\u028ani\u0259s/", "Definition: not in harmony", "Synonyms: unharmonious"]}
