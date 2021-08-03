@@ -1,1 +1,1 @@
-{"data": ["2021-08-03T21:00:24.391105+00:00", 893, "Your mother is", "intestate", "Pronunciation: /\u026an\u02c8t\u025bste\u026at/", "Definition: having made no legally valid will before death or not disposed of by a legal will", ""]}
+{"data": ["2021-08-03T22:04:29.839312+00:00", 894, "Your mother is", "weighted", "Pronunciation: /\u02c8we\u026at\u026ad/", "Definition: made heavy or weighted down with weariness", "Synonyms: leaden"]}
