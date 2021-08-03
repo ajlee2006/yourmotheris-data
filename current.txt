@@ -1,1 +1,1 @@
-{"data": ["2021-08-03T04:04:33.104747+00:00", 876, "Your mother is", "forty-nine", "Pronunciation: /\u02c8f\u0254rti-na\u026an/", "Definition: being nine more than forty", "Synonyms: 49, il"]}
+{"data": ["2021-08-03T05:02:02.153502+00:00", 877, "Your mother is", "catapultian", "", "Definition: of or like a catapult", "Synonyms: catapultic"]}
