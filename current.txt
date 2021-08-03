@@ -1,1 +1,1 @@
-{"data": ["2021-08-03T06:04:57.469829+00:00", 878, "Your mother is", "heterotrophic", "Pronunciation: /\u02cch\u025bt\u0259r\u0259\u02c8tr\u0251f\u026ak/", "Definition: requiring organic compounds of carbon and nitrogen for nourishment", ""]}
+{"data": ["2021-08-03T07:02:19.649448+00:00", 879, "Your mother is", "neritic", "Pronunciation: /n\u0259\u02c8r\u026at\u026ak/", "Definition: relating to the region of shallow water adjoining the seacoast", ""]}
