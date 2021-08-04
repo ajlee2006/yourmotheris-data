@@ -1,1 +1,1 @@
-{"data": ["2021-08-04T16:00:23.785927+00:00", 912, "Your mother is", "fuddled", "Similar to: drunk", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
+{"data": ["2021-08-04T17:03:09.257302+00:00", 913, "Your mother is", "emulous", "Pronunciation: /\u02c8\u025bmj\u0259l\u0259s/", "Definition: eager to surpass others", "Synonyms: rivalrous"]}
