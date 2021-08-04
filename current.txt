@@ -1,1 +1,1 @@
-{"data": ["2021-08-04T03:04:46.253875+00:00", 899, "Your mother is", "non-finite", "", "Definition: (of verbs) not having tense, person, or number (as a participle or gerund or infinitive)", "Synonyms: infinite, nonfinite"]}
+{"data": ["2021-08-04T04:02:38.234131+00:00", 900, "Your mother is", "sanitised", "", "Definition: made sanitary", "Synonyms: sanitized"]}
