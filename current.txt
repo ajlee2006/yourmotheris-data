@@ -1,1 +1,1 @@
-{"data": ["2021-08-04T20:01:17.139342+00:00", 916, "Your mother is", "unsightly", "Pronunciation: /\u0259n\u02c8sa\u026atli/", "Definition: unpleasant to look at", ""]}
+{"data": ["2021-08-04T21:01:45.601290+00:00", 917, "Your mother is", "noduled", "Similar to: unshapely", "Definition: having nodules or occurring in the form of nodules", "Synonyms: nodular, nodulated"]}
