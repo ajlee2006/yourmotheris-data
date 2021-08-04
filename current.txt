@@ -1,1 +1,1 @@
-{"data": ["2021-08-04T07:05:04.360809+00:00", 903, "Your mother is", "complaisant", "Pronunciation: /k\u0259m\u02c8ple\u026as\u0259nt/", "Definition: showing a cheerful willingness to do favors for others", "Synonyms: obliging"]}
+{"data": ["2021-08-04T08:04:19.937054+00:00", 904, "Your mother is", "inexpedient", "Pronunciation: /\u02cc\u026an\u026ak\u02c8spidi\u0259nt/", "Definition: not appropriate to the purpose", "Synonyms: unwise"]}
