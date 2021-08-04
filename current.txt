@@ -1,1 +1,1 @@
-{"data": ["2021-08-04T00:06:03.635793+00:00", 896, "Your mother is", "undisciplined", "Pronunciation: /\u0259n\u02c8d\u026as\u026apl\u026and/", "Definition: not subjected to correction or discipline", "Synonyms: uncorrected"]}
+{"data": ["2021-08-04T01:04:27.906768+00:00", 897, "Your mother is", "creedal", "", "Definition: of or relating to a creed", "Synonyms: credal"]}
