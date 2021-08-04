@@ -1,1 +1,1 @@
-{"data": ["2021-08-04T11:01:53.571360+00:00", 907, "Your mother is", "teen", "Pronunciation: /tin/", "Definition: being of the age 13 through 19", "Synonyms: adolescent, teenage, teenaged"]}
+{"data": ["2021-08-04T12:01:29.037732+00:00", 908, "Your mother is", "gesticulating", "Similar to: communicative", "Definition: making gestures while speaking", ""]}
