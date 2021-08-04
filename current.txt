@@ -1,1 +1,1 @@
-{"data": ["2021-08-04T04:02:38.234131+00:00", 900, "Your mother is", "sanitised", "", "Definition: made sanitary", "Synonyms: sanitized"]}
+{"data": ["2021-08-04T05:00:32.499134+00:00", 901, "Your mother is", "antimicrobial", "Pronunciation: /\u02cc\u00e6ntima\u026a\u02c8kro\u028abi\u0259l/", "Definition: capable of destroying or inhibiting the growth of disease-causing microorganisms", "Synonyms: antimicrobic"]}
