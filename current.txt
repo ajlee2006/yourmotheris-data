@@ -1,1 +1,1 @@
-{"data": ["2021-08-04T02:03:21.744485+00:00", 898, "Your mother is", "presocratic", "Pronunciation: /\u02ccpris\u0259\u02c8kr\u00e6t\u026ak/", "Definition: before the time of Socrates", "Synonyms: pre-socratic"]}
+{"data": ["2021-08-04T03:04:46.253875+00:00", 899, "Your mother is", "non-finite", "", "Definition: (of verbs) not having tense, person, or number (as a participle or gerund or infinitive)", "Synonyms: infinite, nonfinite"]}
