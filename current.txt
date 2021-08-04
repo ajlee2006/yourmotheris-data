@@ -1,1 +1,1 @@
-{"data": ["2021-08-04T22:03:07.616717+00:00", 918, "Your mother is", "doltish", "Similar to: stupid", "Definition: heavy and dull and stupid", "Synonyms: cloddish"]}
+{"data": ["2021-08-04T23:05:07.316003+00:00", 919, "Your mother is", "unreduced", "Similar to: unaltered", "Definition: not altered by reduction", ""]}
