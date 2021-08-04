@@ -1,1 +1,1 @@
-{"data": ["2021-08-04T06:05:04.347163+00:00", 902, "Your mother is", "uncompetitive", "Pronunciation: /\u02cc\u0259nk\u0259m\u02c8p\u025bt\u026at\u026av/", "Definition: not inclined to compete", ""]}
+{"data": ["2021-08-04T07:05:04.360809+00:00", 903, "Your mother is", "complaisant", "Pronunciation: /k\u0259m\u02c8ple\u026as\u0259nt/", "Definition: showing a cheerful willingness to do favors for others", "Synonyms: obliging"]}
