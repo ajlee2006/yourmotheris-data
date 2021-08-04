@@ -1,1 +1,1 @@
-{"data": ["2021-08-04T18:00:59.148325+00:00", 914, "Your mother is", "overgrown", "Pronunciation: /\u02c8o\u028av\u025dr\u02c8\u0261ro\u028an/", "Definition: abounding in usually unwanted vegetation", ""]}
+{"data": ["2021-08-04T19:02:18.268331+00:00", 915, "Your mother is", "unfertile", "Similar to: sterilized", "Definition: incapable of reproducing", "Synonyms: infertile, sterile"]}
