@@ -1,1 +1,1 @@
-{"data": ["2021-08-04T05:00:32.499134+00:00", 901, "Your mother is", "antimicrobial", "Pronunciation: /\u02cc\u00e6ntima\u026a\u02c8kro\u028abi\u0259l/", "Definition: capable of destroying or inhibiting the growth of disease-causing microorganisms", "Synonyms: antimicrobic"]}
+{"data": ["2021-08-04T06:05:04.347163+00:00", 902, "Your mother is", "uncompetitive", "Pronunciation: /\u02cc\u0259nk\u0259m\u02c8p\u025bt\u026at\u026av/", "Definition: not inclined to compete", ""]}
