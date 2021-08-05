@@ -1,1 +1,1 @@
-{"data": ["2021-08-05T09:02:34.781006+00:00", 929, "Your mother is", "diametral", "Pronunciation: /da\u026a\u02c8\u00e6m\u026atr\u0259l/", "Definition: related to or along a diameter", "Synonyms: diametric, diametrical"]}
+{"data": ["2021-08-05T10:03:53.130966+00:00", 930, "Your mother is", "uneducated", "Pronunciation: /\u0259n\u02c8\u025bd\u0292\u028a\u02ccke\u026at\u026ad/", "Definition: not having a good education", ""]}
