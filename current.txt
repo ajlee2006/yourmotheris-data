@@ -1,1 +1,1 @@
-{"data": ["2021-08-05T20:01:59.177050+00:00", 940, "Your mother is", "gonadotrophic", "Pronunciation: /\u0261o\u028a\u02ccn\u00e6d\u0259\u02c8tr\u0251f\u026ak/", "Definition: of or relating to or involving gonadotropin", "Synonyms: gonadotropic"]}
+{"data": ["2021-08-05T21:01:18.442353+00:00", 941, "Your mother is", "adscript", "Pronunciation: /\u02c8\u00e6dskr\u026apt/", "Definition: (used of persons) bound to a tract of land; hence their service is transferable from owner to owner", "Synonyms: adscripted"]}
