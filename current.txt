@@ -1,1 +1,1 @@
-{"data": ["2021-08-05T21:01:18.442353+00:00", 941, "Your mother is", "adscript", "Pronunciation: /\u02c8\u00e6dskr\u026apt/", "Definition: (used of persons) bound to a tract of land; hence their service is transferable from owner to owner", "Synonyms: adscripted"]}
+{"data": ["2021-08-05T22:03:23.326465+00:00", 942, "Your mother is", "bioluminescent", "Similar to: light", "Definition: (of living organisms) emitting light", ""]}
