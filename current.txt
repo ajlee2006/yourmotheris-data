@@ -1,1 +1,1 @@
-{"data": ["2021-08-05T12:00:34.460915+00:00", 932, "Your mother is", "prodigal", "Pronunciation: /\u02c8pr\u0251d\u0259\u0261\u0259l/", "Definition: recklessly wasteful", "Synonyms: extravagant, profligate, spendthrift"]}
+{"data": ["2021-08-05T13:01:47.743537+00:00", 933, "Your mother is", "minded", "Pronunciation: /\u02c8ma\u026and\u026ad/", "Definition: (usually followed by `to') naturally disposed toward", "Synonyms: apt, disposed, given, tending"]}
