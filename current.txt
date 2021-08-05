@@ -1,1 +1,1 @@
-{"data": ["2021-08-05T08:01:13.419794+00:00", 928, "Your mother is", "guided", "Pronunciation: /\u02c8\u0261a\u026ad\u026ad/", "Definition: subject to guidance or control especially after launching", ""]}
+{"data": ["2021-08-05T09:02:34.781006+00:00", 929, "Your mother is", "diametral", "Pronunciation: /da\u026a\u02c8\u00e6m\u026atr\u0259l/", "Definition: related to or along a diameter", "Synonyms: diametric, diametrical"]}
