@@ -1,1 +1,1 @@
-{"data": ["2021-08-05T16:03:53.972358+00:00", 936, "Your mother is", "plumb", "Pronunciation: /pl\u0259m/", "Definition: exactly vertical", ""]}
+{"data": ["2021-08-05T17:00:32.574997+00:00", 937, "Your mother is", "sunlit", "Pronunciation: /\u02c8s\u0259n\u02ccl\u026at/", "Definition: lighted by sunlight", "Synonyms: sunstruck"]}
