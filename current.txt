@@ -1,1 +1,1 @@
-{"data": ["2021-08-05T17:00:32.574997+00:00", 937, "Your mother is", "sunlit", "Pronunciation: /\u02c8s\u0259n\u02ccl\u026at/", "Definition: lighted by sunlight", "Synonyms: sunstruck"]}
+{"data": ["2021-08-05T18:01:02.194199+00:00", 938, "Your mother is", "home-cured", "Similar to: homemade", "Definition: cured at home", ""]}
