@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T00:05:05.364009+00:00", 944, "Your mother is", "subject", "Pronunciation: /s\u0259b\u02c8d\u0292\u025bkt/", "Definition: possibly accepting or permitting", "Synonyms: capable, open"]}
+{"data": ["2021-08-06T01:03:20.591398+00:00", 945, "Your mother is", "light-handed", "Pronunciation: /la\u026at-\u02c8h\u00e6nd\u026ad/", "Definition: having a metaphorically delicate touch", ""]}
