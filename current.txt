@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T15:04:03.074562+00:00", 959, "Your mother is", "ninety-seven", "Pronunciation: /\u02c8na\u026anti-\u02c8s\u025bv\u0259n/", "Definition: being seven more than ninety", "Synonyms: 97, xcvii"]}
+{"data": ["2021-08-06T16:03:20.694694+00:00", 960, "Your mother is", "salubrious", "Pronunciation: /s\u0259\u02c8lubri\u0259s/", "Definition: promoting health; healthful", "Synonyms: good for you, healthy"]}
