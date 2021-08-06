@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T22:04:26.933096+00:00", 965, "Your mother is", "singular", "Pronunciation: /\u02c8s\u026a\u014b\u0261j\u0259l\u0259r/", "Definition: beyond or deviating from the usual or expected", "Synonyms: curious, funny, odd, peculiar, queer, rum, rummy"]}
+{"data": ["2021-08-06T23:00:25.967989+00:00", 966, "Your mother is", "microscopic", "Pronunciation: /\u02ccma\u026akr\u0259\u02c8sk\u0251p\u026ak/", "Definition: of or relating to or used in microscopy", "Synonyms: microscopical"]}
