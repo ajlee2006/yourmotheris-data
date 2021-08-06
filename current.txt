@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T20:00:33.460747+00:00", 963, "Your mother is", "nonliterary", "Similar to: informal", "Definition: marked by lack of affectation or pedantry", "Synonyms: unliterary"]}
+{"data": ["2021-08-06T21:04:53.690603+00:00", 964, "Your mother is", "stale", "Pronunciation: /ste\u026al/", "Definition: lacking originality or spontaneity; no longer new", "Synonyms: cold, dusty, moth-eaten"]}
