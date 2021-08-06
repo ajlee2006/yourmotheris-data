@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T21:04:53.690603+00:00", 964, "Your mother is", "stale", "Pronunciation: /ste\u026al/", "Definition: lacking originality or spontaneity; no longer new", "Synonyms: cold, dusty, moth-eaten"]}
+{"data": ["2021-08-06T22:04:26.933096+00:00", 965, "Your mother is", "singular", "Pronunciation: /\u02c8s\u026a\u014b\u0261j\u0259l\u0259r/", "Definition: beyond or deviating from the usual or expected", "Synonyms: curious, funny, odd, peculiar, queer, rum, rummy"]}
