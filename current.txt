@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T11:02:25.181795+00:00", 955, "Your mother is", "rupestral", "", "Definition: composed of or inscribed on rock", "Synonyms: rupicolous"]}
+{"data": ["2021-08-06T12:01:44.557874+00:00", 956, "Your mother is", "in sight", "Similar to: seeable", "Definition: at or within a reasonable distance for seeing", ""]}
