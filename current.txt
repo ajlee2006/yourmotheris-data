@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T10:02:51.979122+00:00", 954, "Your mother is", "knotted", "Pronunciation: /\u02c8n\u0251t\u026ad/", "Definition: used of old persons or old trees; covered with knobs or knots", "Synonyms: gnarled, gnarly, knobbed, knotty"]}
+{"data": ["2021-08-06T11:02:25.181795+00:00", 955, "Your mother is", "rupestral", "", "Definition: composed of or inscribed on rock", "Synonyms: rupicolous"]}
