@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T01:03:20.591398+00:00", 945, "Your mother is", "light-handed", "Pronunciation: /la\u026at-\u02c8h\u00e6nd\u026ad/", "Definition: having a metaphorically delicate touch", ""]}
+{"data": ["2021-08-06T02:01:23.427263+00:00", 946, "Your mother is", "chickenhearted", "Pronunciation: /\u02cc\u02a7\u026ak\u0259n\u02c8h\u0251rt\u0259d/", "Definition: easily frightened", "Synonyms: chicken, lily-livered, white-livered, yellow, yellow-bellied"]}
