@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T04:03:04.030941+00:00", 948, "Your mother is", "brain dead", "Similar to: dead", "Definition: having irreversible loss of brain function as indicated by a persistent flat electroencephalogram", ""]}
+{"data": ["2021-08-06T05:04:27.602324+00:00", 949, "Your mother is", "coalescent", "Similar to: united", "Definition: growing together, fusing", "Synonyms: coalescing"]}
