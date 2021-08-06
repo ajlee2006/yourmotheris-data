@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T06:03:53.474088+00:00", 950, "Your mother is", "springless", "Pronunciation: /\u02c8spr\u026a\u014bl\u026as/", "Definition: lacking in elasticity or vitality", ""]}
+{"data": ["2021-08-06T07:02:28.076589+00:00", 951, "Your mother is", "deceptive", "Pronunciation: /d\u026a\u02c8s\u025bpt\u026av/", "Definition: causing one to believe what is not true or fail to believe what is true", "Synonyms: delusory"]}
