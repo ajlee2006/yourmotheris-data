@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T19:01:05.743813+00:00", 962, "Your mother is", "specked", "Similar to: patterned", "Definition: having a pattern of dots", "Synonyms: dotted, flecked, speckled, stippled"]}
+{"data": ["2021-08-06T20:00:33.460747+00:00", 963, "Your mother is", "nonliterary", "Similar to: informal", "Definition: marked by lack of affectation or pedantry", "Synonyms: unliterary"]}
