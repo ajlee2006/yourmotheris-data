@@ -1,1 +1,1 @@
-{"data": ["2021-08-05T23:02:19.971125+00:00", 943, "Your mother is", "genealogical", "Pronunciation: /\u02ccd\u0292ini\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to genealogy", "Synonyms: genealogic"]}
+{"data": ["2021-08-06T00:05:05.364009+00:00", 944, "Your mother is", "subject", "Pronunciation: /s\u0259b\u02c8d\u0292\u025bkt/", "Definition: possibly accepting or permitting", "Synonyms: capable, open"]}
