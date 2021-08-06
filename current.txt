@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T03:04:45.881724+00:00", 947, "Your mother is", "cagey", "Pronunciation: /\u02c8ke\u026ad\u0292i/", "Definition: showing self-interest and shrewdness in dealing with others", "Synonyms: cagy, canny, clever"]}
+{"data": ["2021-08-06T04:03:04.030941+00:00", 948, "Your mother is", "brain dead", "Similar to: dead", "Definition: having irreversible loss of brain function as indicated by a persistent flat electroencephalogram", ""]}
