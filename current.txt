@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T16:03:20.694694+00:00", 960, "Your mother is", "salubrious", "Pronunciation: /s\u0259\u02c8lubri\u0259s/", "Definition: promoting health; healthful", "Synonyms: good for you, healthy"]}
+{"data": ["2021-08-06T17:01:26.022528+00:00", 961, "Your mother is", "shapeless", "Pronunciation: /\u02c8\u0283e\u026apl\u026as/", "Definition: having no definite form or distinct shape", "Synonyms: amorphous, formless"]}
