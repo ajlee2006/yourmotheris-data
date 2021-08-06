@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T12:01:44.557874+00:00", 956, "Your mother is", "in sight", "Similar to: seeable", "Definition: at or within a reasonable distance for seeing", ""]}
+{"data": ["2021-08-06T13:01:13.919347+00:00", 957, "Your mother is", "rattlepated", "Similar to: foolish", "Definition: lacking sense or discretion", "Synonyms: rattlebrained, scatterbrained, scatty"]}
