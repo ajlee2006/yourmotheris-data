@@ -1,1 +1,1 @@
-{"data": ["2021-08-06T23:00:25.967989+00:00", 966, "Your mother is", "microscopic", "Pronunciation: /\u02ccma\u026akr\u0259\u02c8sk\u0251p\u026ak/", "Definition: of or relating to or used in microscopy", "Synonyms: microscopical"]}
+{"data": ["2021-08-07T00:02:55.841766+00:00", 967, "Your mother is", "hygroscopic", "Pronunciation: /\u02ccha\u026agr\u0259\u02c8sk\u0251p\u026ak/", "Definition: absorbing moisture (as from the air)", ""]}
