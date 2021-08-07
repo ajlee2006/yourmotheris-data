@@ -1,1 +1,1 @@
-{"data": ["2021-08-07T16:04:16.693532+00:00", 983, "Your mother is", "concordant", "Pronunciation: /k\u0251n\u02c8k\u0254rd\u0259nt/", "Definition: in keeping", "Synonyms: accordant, agreeable, conformable, consonant"]}
+{"data": ["2021-08-07T17:03:05.036584+00:00", 984, "Your mother is", "anatomical", "Pronunciation: /\u02cc\u00e6n\u0259\u02c8t\u0251m\u026ak\u0259l/", "Definition: of or relating to the branch of morphology that studies the structure of organisms", "Synonyms: anatomic"]}
