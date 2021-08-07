@@ -1,1 +1,1 @@
-{"data": ["2021-08-07T18:04:29.734861+00:00", 985, "Your mother is", "fail-safe", "Pronunciation: /\u02c8fe\u026al\u02c8se\u026af/", "Definition: eliminating danger by compensating automatically for a failure or malfunction", ""]}
+{"data": ["2021-08-07T19:00:36.479132+00:00", 986, "Your mother is", "murky", "Pronunciation: /\u02c8m\u025crki/", "Definition: dark or gloomy", "Synonyms: mirky"]}
