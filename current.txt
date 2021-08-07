@@ -1,1 +1,1 @@
-{"data": ["2021-08-07T15:03:28.499730+00:00", 982, "Your mother is", "amber", "Pronunciation: /\u02c8\u00e6mb\u0259r/", "Definition: of a medium to dark brownish yellow color", "Synonyms: brownish-yellow, yellow-brown"]}
+{"data": ["2021-08-07T16:04:16.693532+00:00", 983, "Your mother is", "concordant", "Pronunciation: /k\u0251n\u02c8k\u0254rd\u0259nt/", "Definition: in keeping", "Synonyms: accordant, agreeable, conformable, consonant"]}
