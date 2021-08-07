@@ -1,1 +1,1 @@
-{"data": ["2021-08-07T03:02:51.362051+00:00", 970, "Your mother is", "frozen", "Pronunciation: /\u02c8fro\u028az\u0259n/", "Definition: devoid of warmth and cordiality; expressive of unfriendliness or disdain", "Synonyms: frigid, frosty, glacial, icy, wintry"]}
+{"data": ["2021-08-07T04:00:46.086720+00:00", 971, "Your mother is", "sequent", "Pronunciation: /\u02c8sikw\u0259nt/", "Definition: occurring with or following as a consequence", "Synonyms: accompanying, attendant, collateral, concomitant, consequent, ensuant, incidental, resultant"]}
