@@ -1,1 +1,1 @@
-{"data": ["2021-08-07T22:04:04.107918+00:00", 989, "Your mother is", "horizontal", "Pronunciation: /\u02cch\u0254r\u026a\u02c8z\u0251nt\u0259l/", "Definition: parallel to or in the plane of the horizon or a base line", ""]}
+{"data": ["2021-08-07T23:03:36.343424+00:00", 990, "Your mother is", "blessed", "Pronunciation: /\u02c8bl\u025bs\u026ad/", "Definition: Roman Catholic; proclaimed one of the blessed and thus worthy of veneration", "Synonyms: beatified"]}
