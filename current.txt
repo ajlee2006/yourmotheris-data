@@ -1,1 +1,1 @@
-{"data": ["2021-08-07T00:02:55.841766+00:00", 967, "Your mother is", "hygroscopic", "Pronunciation: /\u02ccha\u026agr\u0259\u02c8sk\u0251p\u026ak/", "Definition: absorbing moisture (as from the air)", ""]}
+{"data": ["2021-08-07T01:05:13.617403+00:00", 968, "Your mother is", "nth", "Pronunciation: /\u025bn\u03b8/", "Definition: last or greatest in an indefinitely large series", "Synonyms: n-th"]}
