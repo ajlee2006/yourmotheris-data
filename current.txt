@@ -1,1 +1,1 @@
-{"data": ["2021-08-07T08:04:53.513488+00:00", 975, "Your mother is", "welsh", "Pronunciation: /w\u025bl\u0283/", "Definition: of or relating to or characteristic of Wales or its people or their language", "Synonyms: cambrian"]}
+{"data": ["2021-08-07T09:03:57.518493+00:00", 976, "Your mother is", "dermic", "", "Definition: of or relating to or located in the dermis", "Synonyms: dermal"]}
