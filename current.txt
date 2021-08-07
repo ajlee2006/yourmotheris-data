@@ -1,1 +1,1 @@
-{"data": ["2021-08-07T04:00:46.086720+00:00", 971, "Your mother is", "sequent", "Pronunciation: /\u02c8sikw\u0259nt/", "Definition: occurring with or following as a consequence", "Synonyms: accompanying, attendant, collateral, concomitant, consequent, ensuant, incidental, resultant"]}
+{"data": ["2021-08-07T05:03:45.165835+00:00", 972, "Your mother is", "peopled", "Pronunciation: /\u02c8pip\u028cld/", "Definition: furnished with people", ""]}
