@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T21:01:44.262851+00:00", 1012, "Your mother is", "expressive", "Pronunciation: /\u026ak\u02c8spr\u025bs\u026av/", "Definition: characterized by expression", ""]}
+{"data": ["2021-08-08T22:04:41.040430+00:00", 1013, "Your mother is", ".45-caliber", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures forty-five hundredths of an inch in diameter", "Synonyms: .45-calibre, .45 caliber, .45 calibre"]}
