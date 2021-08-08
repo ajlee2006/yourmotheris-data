@@ -1,1 +1,1 @@
-{"data": ["2021-08-07T23:03:36.343424+00:00", 990, "Your mother is", "blessed", "Pronunciation: /\u02c8bl\u025bs\u026ad/", "Definition: Roman Catholic; proclaimed one of the blessed and thus worthy of veneration", "Synonyms: beatified"]}
+{"data": ["2021-08-08T00:05:56.661860+00:00", 991, "Your mother is", "observable", "Pronunciation: /\u0259b\u02c8z\u025crv\u0259b\u0259l/", "Definition: capable of being seen or noticed", "Synonyms: discernible, evident"]}
