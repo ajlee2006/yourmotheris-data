@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T06:01:19.790273+00:00", 997, "Your mother is", "northward", "Pronunciation: /\u02c8n\u0254r\u03b8\u02ccw\u0259rd/", "Definition: moving toward the north", "Synonyms: northbound"]}
+{"data": ["2021-08-08T07:04:37.263599+00:00", 998, "Your mother is", "evergreen", "Pronunciation: /\u02c8\u025bv\u0259r\u02ccgrin/", "Definition: (of plants and shrubs) bearing foliage throughout the year", ""]}
