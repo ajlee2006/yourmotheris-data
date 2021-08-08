@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T08:01:49.646303+00:00", 999, "Your mother is", "unhinged", "Pronunciation: /\u028cn\u02c8h\u026and\u0292d/", "Definition: affected with madness or insanity", "Synonyms: brainsick, crazy, demented, disturbed, mad, sick, unbalanced"]}
+{"data": ["2021-08-08T09:00:58.298015+00:00", 1000, "Your mother is", "sneaky", "Pronunciation: /\u02c8sniki/", "Definition: marked by deception", "Synonyms: underhand, underhanded"]}
