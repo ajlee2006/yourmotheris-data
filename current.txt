@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T19:03:51.734296+00:00", 1010, "Your mother is", "liquid-fueled", "Similar to: fueled", "Definition: fueled by a liquid fuel", ""]}
+{"data": ["2021-08-08T20:03:34.741316+00:00", 1011, "Your mother is", "multivalent", "Pronunciation: /\u02ccm\u0259lt\u0259\u02c8ve\u026al\u0259nt/", "Definition: having many values, meanings, or appeals", "Synonyms: multi-valued"]}
