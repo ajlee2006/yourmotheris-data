@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T22:04:41.040430+00:00", 1013, "Your mother is", ".45-caliber", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures forty-five hundredths of an inch in diameter", "Synonyms: .45-calibre, .45 caliber, .45 calibre"]}
+{"data": ["2021-08-08T23:00:39.209488+00:00", 1014, "Your mother is", "meridional", "Pronunciation: /m\u0259\u02c8r\u026adi\u0259n\u0259l/", "Definition: located in the south or characteristic of southern people or places", ""]}
