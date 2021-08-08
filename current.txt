@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T11:02:06.666153+00:00", 1002, "Your mother is", "old-womanish", "Pronunciation: /o\u028ald-\u02c8w\u028am\u0259n\u026a\u0283/", "Definition: primly fastidious", "Synonyms: old-maidish"]}
+{"data": ["2021-08-08T12:04:24.714367+00:00", 1003, "Your mother is", "calvinistic", "", "Definition: of or relating to or characteristic of Calvinism or its adherents", "Synonyms: calvinist, calvinistical"]}
