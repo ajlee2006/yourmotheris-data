@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T20:03:34.741316+00:00", 1011, "Your mother is", "multivalent", "Pronunciation: /\u02ccm\u0259lt\u0259\u02c8ve\u026al\u0259nt/", "Definition: having many values, meanings, or appeals", "Synonyms: multi-valued"]}
+{"data": ["2021-08-08T21:01:44.262851+00:00", 1012, "Your mother is", "expressive", "Pronunciation: /\u026ak\u02c8spr\u025bs\u026av/", "Definition: characterized by expression", ""]}
