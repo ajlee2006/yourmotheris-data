@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T02:02:50.150206+00:00", 993, "Your mother is", "noncollapsible", "Similar to: nontelescopic", "Definition: not capable of collapsing", "Synonyms: noncollapsable"]}
+{"data": ["2021-08-08T03:02:48.811449+00:00", 994, "Your mother is", "nonskid", "Pronunciation: /\u02c8n\u0251n\u02c8sk\u026ad/", "Definition: designed to reduce or prevent skidding", ""]}
