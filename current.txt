@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T09:00:58.298015+00:00", 1000, "Your mother is", "sneaky", "Pronunciation: /\u02c8sniki/", "Definition: marked by deception", "Synonyms: underhand, underhanded"]}
+{"data": ["2021-08-08T10:01:30.910387+00:00", 1001, "Your mother is", "inconsequential", "Pronunciation: /\u02cc\u026ank\u0251ns\u0259\u02c8kw\u025bn\u0283\u0259l/", "Definition: lacking worth or importance", "Synonyms: inconsequent"]}
