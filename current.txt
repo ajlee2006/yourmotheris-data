@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T00:05:56.661860+00:00", 991, "Your mother is", "observable", "Pronunciation: /\u0259b\u02c8z\u025crv\u0259b\u0259l/", "Definition: capable of being seen or noticed", "Synonyms: discernible, evident"]}
+{"data": ["2021-08-08T01:05:11.137151+00:00", 992, "Your mother is", "dextrorsal", "Similar to: dextral", "Definition: spiraling upward from left to right", "Synonyms: dextrorse"]}
