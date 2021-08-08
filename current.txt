@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T10:01:30.910387+00:00", 1001, "Your mother is", "inconsequential", "Pronunciation: /\u02cc\u026ank\u0251ns\u0259\u02c8kw\u025bn\u0283\u0259l/", "Definition: lacking worth or importance", "Synonyms: inconsequent"]}
+{"data": ["2021-08-08T11:02:06.666153+00:00", 1002, "Your mother is", "old-womanish", "Pronunciation: /o\u028ald-\u02c8w\u028am\u0259n\u026a\u0283/", "Definition: primly fastidious", "Synonyms: old-maidish"]}
