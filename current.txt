@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T03:02:48.811449+00:00", 994, "Your mother is", "nonskid", "Pronunciation: /\u02c8n\u0251n\u02c8sk\u026ad/", "Definition: designed to reduce or prevent skidding", ""]}
+{"data": ["2021-08-08T04:00:33.545725+00:00", 995, "Your mother is", "unobvious", "Similar to: unapparent", "Definition: not immediately apparent", ""]}
