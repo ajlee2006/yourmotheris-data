@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T05:02:35.902063+00:00", 996, "Your mother is", "down-and-out", "Pronunciation: /\u02c8da\u028an\u0259nd-\u02c8a\u028at/", "Definition: lacking resources (or any prospect of resources)", ""]}
+{"data": ["2021-08-08T06:01:19.790273+00:00", 997, "Your mother is", "northward", "Pronunciation: /\u02c8n\u0254r\u03b8\u02ccw\u0259rd/", "Definition: moving toward the north", "Synonyms: northbound"]}
