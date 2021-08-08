@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T17:02:37.374784+00:00", 1008, "Your mother is", "ersatz", "Pronunciation: /\u02c8\u025brz\u0251ts/", "Definition: artificial and inferior", "Synonyms: substitute"]}
+{"data": ["2021-08-08T18:01:38.365714+00:00", 1009, "Your mother is", "reserved", "Pronunciation: /r\u026a\u02c8z\u025crvd/", "Definition: marked by self-restraint and reticence", ""]}
