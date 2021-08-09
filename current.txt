@@ -1,1 +1,1 @@
-{"data": ["2021-08-09T06:04:53.573763+00:00", 1021, "Your mother is", "five-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with five members", "Synonyms: 5-membered"]}
+{"data": ["2021-08-09T07:00:56.749199+00:00", 1022, "Your mother is", "nonhairy", "Similar to: hairless", "Definition: without hair", ""]}
