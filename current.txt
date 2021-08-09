@@ -1,1 +1,1 @@
-{"data": ["2021-08-09T16:04:29.866758+00:00", 1031, "Your mother is", "uncommitted", "Pronunciation: /\u02cc\u0259nk\u0259\u02c8m\u026at\u026ad/", "Definition: not associated in an exclusive sexual relationship", "Synonyms: unattached"]}
+{"data": ["2021-08-09T17:03:54.314927+00:00", 1032, "Your mother is", "prickly", "Pronunciation: /\u02c8pr\u026akli/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristled, bristly, burred, burry, setaceous, setose, spiny, thorny"]}
