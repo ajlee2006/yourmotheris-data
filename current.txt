@@ -1,1 +1,1 @@
-{"data": ["2021-08-09T04:04:17.613796+00:00", 1019, "Your mother is", "sulphur-yellow", "Similar to: chromatic", "Definition: of something having the yellow color of sulfur", "Synonyms: sulfur-yellow"]}
+{"data": ["2021-08-09T05:03:53.225056+00:00", 1020, "Your mother is", "spotty", "Pronunciation: /\u02c8sp\u0251ti/", "Definition: having spots or patches (small areas of contrasting color or texture)", "Synonyms: patched, spotted"]}
