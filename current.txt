@@ -1,1 +1,1 @@
-{"data": ["2021-08-09T18:04:13.283112+00:00", 1033, "Your mother is", "nonunionised", "Similar to: nonunion", "Definition: not affiliated in a trade union", "Synonyms: nonunionized, unorganised, unorganized"]}
+{"data": ["2021-08-09T19:04:16.425310+00:00", 1034, "Your mother is", "anglican", "Pronunciation: /\u02c8\u00e6\u014bgl\u0259k\u0259n/", "Definition: of or pertaining to or characteristic of the Anglican church", ""]}
