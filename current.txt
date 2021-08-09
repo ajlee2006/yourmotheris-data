@@ -1,1 +1,1 @@
-{"data": ["2021-08-09T01:05:39.439328+00:00", 1016, "Your mother is", "extravert", "Pronunciation: /\u02c8\u025bkstr\u0259\u02ccv\u025crt/", "Definition: being concerned with the social and physical environment", "Synonyms: extraverted, extravertive, extrovert, extroverted, extrovertive"]}
+{"data": ["2021-08-09T02:00:37.348175+00:00", 1017, "Your mother is", "unchained", "Similar to: unbound", "Definition: not bound by shackles and chains", "Synonyms: unfettered, unshackled, untied"]}
