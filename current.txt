@@ -1,1 +1,1 @@
-{"data": ["2021-08-09T12:02:41.532562+00:00", 1027, "Your mother is", "bonnie", "Pronunciation: /\u02c8b\u0251ni/", "Definition: very pleasing to the eye", "Synonyms: bonny, comely, fair, sightly"]}
+{"data": ["2021-08-09T13:02:08.187072+00:00", 1028, "Your mother is", "penniless", "Pronunciation: /\u02c8p\u025bnil\u026as/", "Definition: not having enough money to pay for necessities", "Synonyms: hard up, impecunious, in straitened circumstances, penurious, pinched"]}
