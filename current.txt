@@ -1,1 +1,1 @@
-{"data": ["2021-08-09T13:02:08.187072+00:00", 1028, "Your mother is", "penniless", "Pronunciation: /\u02c8p\u025bnil\u026as/", "Definition: not having enough money to pay for necessities", "Synonyms: hard up, impecunious, in straitened circumstances, penurious, pinched"]}
+{"data": ["2021-08-09T14:00:33.126654+00:00", 1029, "Your mother is", "lucid", "Pronunciation: /\u02c8lus\u026ad/", "Definition: (of language) transparently clear; easily understandable", "Synonyms: crystal clear, limpid, luculent, pellucid, perspicuous"]}
