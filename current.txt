@@ -1,1 +1,1 @@
-{"data": ["2021-08-09T10:02:43.941931+00:00", 1025, "Your mother is", "cleansing", "Pronunciation: /\u02c8kl\u025bnz\u026a\u014b/", "Definition: acting like an antiseptic", "Synonyms: purifying"]}
+{"data": ["2021-08-09T11:01:00.766064+00:00", 1026, "Your mother is", "untagged", "", "Definition: lacking a label or tag", "Synonyms: unlabeled, unlabelled"]}
