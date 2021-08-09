@@ -1,1 +1,1 @@
-{"data": ["2021-08-09T19:04:16.425310+00:00", 1034, "Your mother is", "anglican", "Pronunciation: /\u02c8\u00e6\u014bgl\u0259k\u0259n/", "Definition: of or pertaining to or characteristic of the Anglican church", ""]}
+{"data": ["2021-08-09T20:01:43.407499+00:00", 1035, "Your mother is", "unreachable", "Pronunciation: /\u0259n\u02c8rit\u0283\u0259b\u0259l/", "Definition: inaccessibly located or situated", "Synonyms: out of reach, unapproachable, unreached"]}
