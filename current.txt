@@ -1,1 +1,1 @@
-{"data": ["2021-08-09T15:03:46.891302+00:00", 1030, "Your mother is", "obsessive-compulsive", "Pronunciation: /\u0259b\u02c8s\u025bs\u026av-k\u0259m\u02c8p\u0259ls\u026av/", "Definition: characterized by obsessions and compulsions", ""]}
+{"data": ["2021-08-09T16:04:29.866758+00:00", 1031, "Your mother is", "uncommitted", "Pronunciation: /\u02cc\u0259nk\u0259\u02c8m\u026at\u026ad/", "Definition: not associated in an exclusive sexual relationship", "Synonyms: unattached"]}
