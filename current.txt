@@ -1,1 +1,1 @@
-{"data": ["2021-08-08T23:00:39.209488+00:00", 1014, "Your mother is", "meridional", "Pronunciation: /m\u0259\u02c8r\u026adi\u0259n\u0259l/", "Definition: located in the south or characteristic of southern people or places", ""]}
+{"data": ["2021-08-09T00:03:18.880806+00:00", 1015, "Your mother is", "moneymaking", "Pronunciation: /\u02c8m\u028cni\u02ccme\u026ak\u026a\u014b/", "Definition: producing a sizeable profit", "Synonyms: lucrative, remunerative"]}
