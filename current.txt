@@ -1,1 +1,1 @@
-{"data": ["2021-08-09T14:00:33.126654+00:00", 1029, "Your mother is", "lucid", "Pronunciation: /\u02c8lus\u026ad/", "Definition: (of language) transparently clear; easily understandable", "Synonyms: crystal clear, limpid, luculent, pellucid, perspicuous"]}
+{"data": ["2021-08-09T15:03:46.891302+00:00", 1030, "Your mother is", "obsessive-compulsive", "Pronunciation: /\u0259b\u02c8s\u025bs\u026av-k\u0259m\u02c8p\u0259ls\u026av/", "Definition: characterized by obsessions and compulsions", ""]}
