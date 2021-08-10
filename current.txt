@@ -1,1 +1,1 @@
-{"data": ["2021-08-10T20:03:21.016625+00:00", 1058, "Your mother is", "syrupy", "Pronunciation: /\u02c8s\u026ar\u0259pi/", "Definition: having a relatively high resistance to flow", "Synonyms: viscous"]}
+{"data": ["2021-08-10T21:04:18.539383+00:00", 1059, "Your mother is", "alarming", "Pronunciation: /\u0259\u02c8l\u0251rmi\u014b/", "Definition: frightening because of an awareness of danger", ""]}
