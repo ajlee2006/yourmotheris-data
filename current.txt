@@ -1,1 +1,1 @@
-{"data": ["2021-08-10T13:02:22.450170+00:00", 1052, "Your mother is", "exothermic", "Pronunciation: /\u02cc\u025bkso\u028a\u02c8\u03b8\u025crm\u026ak/", "Definition: (of a chemical reaction or compound) occurring or formed with the liberation of heat", "Synonyms: exothermal, heat-releasing"]}
+{"data": ["2021-08-10T14:02:41.569774+00:00", 1053, "Your mother is", "infelicitous", "Pronunciation: /\u02cc\u026anf\u0259\u02c8l\u026as\u026at\u0259s/", "Definition: marked by or producing unhappiness", "Synonyms: unhappy"]}
