@@ -1,1 +1,1 @@
-{"data": ["2021-08-10T08:04:32.665992+00:00", 1047, "Your mother is", "scowling", "Pronunciation: /\u02c8ska\u028al\u026a\u014b/", "Definition: sullen or unfriendly in appearance", "Synonyms: beetle-browed"]}
+{"data": ["2021-08-10T09:03:32.336341+00:00", 1048, "Your mother is", "tantric", "Pronunciation: /\u02c8t\u00e6ntr\u026ak/", "Definition: of or relating to Tantrism", "Synonyms: tantrik"]}
