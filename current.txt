@@ -1,1 +1,1 @@
-{"data": ["2021-08-10T18:06:00.599108+00:00", 1056, "Your mother is", "calligraphical", "", "Definition: of or relating to or expressed in calligraphy", "Synonyms: calligraphic"]}
+{"data": ["2021-08-10T19:05:14.167700+00:00", 1057, "Your mother is", "small-cap", "", "Definition: of stocks of companies with a market capitalization of less than one billion dollars", "Synonyms: small-capitalisation, small-capitalization"]}
