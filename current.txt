@@ -1,1 +1,1 @@
-{"data": ["2021-08-10T11:03:57.325690+00:00", 1050, "Your mother is", "bugged", "Pronunciation: /b\u028c\u0261d/", "Definition: having hidden electronic eavesdropping devices", ""]}
+{"data": ["2021-08-10T12:01:47.625036+00:00", 1051, "Your mother is", "introvertive", "Pronunciation: /\u02cc\u026antr\u0259\u02c8v\u025crt\u026av/", "Definition: directed inward; marked by interest in yourself or concerned with inner feelings", "Synonyms: introversive"]}
