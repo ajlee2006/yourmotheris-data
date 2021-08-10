@@ -1,1 +1,1 @@
-{"data": ["2021-08-10T21:04:18.539383+00:00", 1059, "Your mother is", "alarming", "Pronunciation: /\u0259\u02c8l\u0251rmi\u014b/", "Definition: frightening because of an awareness of danger", ""]}
+{"data": ["2021-08-10T22:03:11.787752+00:00", 1060, "Your mother is", "countrywide", "Pronunciation: /\u02c8k\u028cntri\u02ccwa\u026ad/", "Definition: occurring or extending throughout a country or nation", "Synonyms: nationwide"]}
