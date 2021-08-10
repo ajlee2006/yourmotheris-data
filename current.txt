@@ -1,1 +1,1 @@
-{"data": ["2021-08-10T03:01:08.972204+00:00", 1042, "Your mother is", "untaught", "Pronunciation: /\u0259n\u02c8t\u0251t/", "Definition: lacking in schooling", "Synonyms: unschooled, untutored"]}
+{"data": ["2021-08-10T04:03:37.767334+00:00", 1043, "Your mother is", "straightforward", "Pronunciation: /\u02ccstre\u026at\u02c8f\u0254rw\u0259rd/", "Definition: without concealment or deception; honest", "Synonyms: aboveboard"]}
