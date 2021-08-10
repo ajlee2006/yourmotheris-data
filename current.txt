@@ -1,1 +1,1 @@
-{"data": ["2021-08-10T04:03:37.767334+00:00", 1043, "Your mother is", "straightforward", "Pronunciation: /\u02ccstre\u026at\u02c8f\u0254rw\u0259rd/", "Definition: without concealment or deception; honest", "Synonyms: aboveboard"]}
+{"data": ["2021-08-10T05:01:41.732417+00:00", 1044, "Your mother is", "inquisitory", "Similar to: inquiring", "Definition: diligent and thorough in inquiry or investigation", "Synonyms: probing, searching"]}
