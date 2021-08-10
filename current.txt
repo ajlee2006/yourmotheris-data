@@ -1,1 +1,1 @@
-{"data": ["2021-08-10T10:03:01.331499+00:00", 1049, "Your mother is", "jilted", "Pronunciation: /\u02c8d\u0292\u026alt\u026ad/", "Definition: rebuffed (by a lover) without warning", "Synonyms: rejected, spurned"]}
+{"data": ["2021-08-10T11:03:57.325690+00:00", 1050, "Your mother is", "bugged", "Pronunciation: /b\u028c\u0261d/", "Definition: having hidden electronic eavesdropping devices", ""]}
