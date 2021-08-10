@@ -1,1 +1,1 @@
-{"data": ["2021-08-10T14:02:41.569774+00:00", 1053, "Your mother is", "infelicitous", "Pronunciation: /\u02cc\u026anf\u0259\u02c8l\u026as\u026at\u0259s/", "Definition: marked by or producing unhappiness", "Synonyms: unhappy"]}
+{"data": ["2021-08-10T15:03:34.629146+00:00", 1054, "Your mother is", "numerical", "Pronunciation: /nu\u02c8m\u025br\u026ak\u0259l/", "Definition: measured or expressed in numbers", "Synonyms: numeric"]}
