@@ -1,1 +1,1 @@
-{"data": ["2021-08-10T12:01:47.625036+00:00", 1051, "Your mother is", "introvertive", "Pronunciation: /\u02cc\u026antr\u0259\u02c8v\u025crt\u026av/", "Definition: directed inward; marked by interest in yourself or concerned with inner feelings", "Synonyms: introversive"]}
+{"data": ["2021-08-10T13:02:22.450170+00:00", 1052, "Your mother is", "exothermic", "Pronunciation: /\u02cc\u025bkso\u028a\u02c8\u03b8\u025crm\u026ak/", "Definition: (of a chemical reaction or compound) occurring or formed with the liberation of heat", "Synonyms: exothermal, heat-releasing"]}
