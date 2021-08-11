@@ -1,1 +1,1 @@
-{"data": ["2021-08-11T22:01:33.345951+00:00", 1084, "Your mother is", "augean", "Pronunciation: /\u0254\u02c8d\u0292i\u0259n/", "Definition: extremely filthy from long neglect", ""]}
+{"data": ["2021-08-11T23:01:09.957884+00:00", 1085, "Your mother is", "double-faced", "Pronunciation: /\u02c8d\u0259b\u0259l-\u02c8fe\u026ast/", "Definition: marked by deliberate deceptiveness especially by pretending one set of feelings and acting under the influence of another", "Synonyms: ambidextrous, deceitful, double-dealing, double-tongued, duplicitous, janus-faced, two-faced"]}
