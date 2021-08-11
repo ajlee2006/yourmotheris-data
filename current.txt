@@ -1,1 +1,1 @@
-{"data": ["2021-08-11T13:01:00.385571+00:00", 1075, "Your mother is", "xxxi", "Similar to: cardinal", "Definition: being one more than thirty", "Synonyms: 31, thirty-one"]}
+{"data": ["2021-08-11T14:02:53.049146+00:00", 1076, "Your mother is", "congratulatory", "Pronunciation: /k\u0259n\u02c8gr\u00e6\u02a7\u0259l\u0259\u02ccto\u028ari/", "Definition: expressive of sympathetic pleasure or joy on account of someone's success or good fortune", "Synonyms: gratulatory"]}
