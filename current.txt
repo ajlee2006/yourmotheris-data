@@ -1,1 +1,1 @@
-{"data": ["2021-08-10T23:04:47.238912+00:00", 1061, "Your mother is", "mechanic", "Pronunciation: /m\u0259\u02c8k\u00e6n\u026ak/", "Definition: resembling the action of a machine", ""]}
+{"data": ["2021-08-11T00:06:50.869451+00:00", 1062, "Your mother is", "trussed", "Pronunciation: /tr\u0259st/", "Definition: bound or secured closely", "Synonyms: tied"]}
