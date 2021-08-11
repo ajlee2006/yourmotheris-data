@@ -1,1 +1,1 @@
-{"data": ["2021-08-11T05:04:15.975772+00:00", 1067, "Your mother is", "wooded", "Pronunciation: /\u02c8w\u028ad\u026ad/", "Definition: covered with growing trees and bushes etc", ""]}
+{"data": ["2021-08-11T06:02:29.302377+00:00", 1068, "Your mother is", "nightmarish", "Pronunciation: /\u02c8na\u026at\u02ccm\u025cr\u026a\u0283/", "Definition: extremely alarming", "Synonyms: bloodcurdling, hair-raising"]}
