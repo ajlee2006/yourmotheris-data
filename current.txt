@@ -1,1 +1,1 @@
-{"data": ["2021-08-11T12:02:49.336892+00:00", 1074, "Your mother is", "identical", "Pronunciation: /a\u026a\u02c8d\u025bnt\u026ak\u0259l/", "Definition: being the exact same one; not any other:", "Synonyms: selfsame, very"]}
+{"data": ["2021-08-11T13:01:00.385571+00:00", 1075, "Your mother is", "xxxi", "Similar to: cardinal", "Definition: being one more than thirty", "Synonyms: 31, thirty-one"]}
