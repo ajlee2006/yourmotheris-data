@@ -1,1 +1,1 @@
-{"data": ["2021-08-11T07:02:13.180030+00:00", 1069, "Your mother is", "wiggly", "Pronunciation: /\u02c8w\u026agli/", "Definition: curved or curving in and out", "Synonyms: sinuate, sinuous"]}
+{"data": ["2021-08-11T08:02:13.048771+00:00", 1070, "Your mother is", "oligarchic", "Pronunciation: /\u02cc\u0251l\u0259\u02c8\u0261\u0251rk\u026ak/", "Definition: of or relating to or supporting or characteristic of an oligarchy", "Synonyms: oligarchical"]}
