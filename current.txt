@@ -1,1 +1,1 @@
-{"data": ["2021-08-11T15:04:06.054727+00:00", 1077, "Your mother is", "observed", "Pronunciation: /\u028cb\u02c8z\u025drvd/", "Definition: discovered or determined by scientific observation", "Synonyms: ascertained, discovered"]}
+{"data": ["2021-08-11T16:03:50.529438+00:00", 1078, "Your mother is", "flea-bitten", "Pronunciation: /\u02c8fli\u02ccb\u026at\u0259n/", "Definition: worn and broken down by hard use", "Synonyms: creaky, decrepit, derelict, run-down, woebegone"]}
