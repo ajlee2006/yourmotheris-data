@@ -1,1 +1,1 @@
-{"data": ["2021-08-11T01:05:14.142019+00:00", 1063, "Your mother is", "peach-colored", "Pronunciation: /pi\u02a7-\u02c8k\u0259l\u0259rd/", "Definition: having the color of a ripe peach", ""]}
+{"data": ["2021-08-11T02:06:29.526649+00:00", 1064, "Your mother is", "abkhazian", "Pronunciation: /\u00e6b\u02c8k\u00e6zi\u0259n/", "Definition: of or relating to Abkazia or its people or their language", "Synonyms: abkhaz"]}
