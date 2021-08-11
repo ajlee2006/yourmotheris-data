@@ -1,1 +1,1 @@
-{"data": ["2021-08-11T21:03:24.472526+00:00", 1083, "Your mother is", "reformative", "Pronunciation: /ri\u02c8fo\u028arm\u0259t\u026av/", "Definition: tending to reform", "Synonyms: reformatory"]}
+{"data": ["2021-08-11T22:01:33.345951+00:00", 1084, "Your mother is", "augean", "Pronunciation: /\u0254\u02c8d\u0292i\u0259n/", "Definition: extremely filthy from long neglect", ""]}
