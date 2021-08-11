@@ -1,1 +1,1 @@
-{"data": ["2021-08-11T02:06:29.526649+00:00", 1064, "Your mother is", "abkhazian", "Pronunciation: /\u00e6b\u02c8k\u00e6zi\u0259n/", "Definition: of or relating to Abkazia or its people or their language", "Synonyms: abkhaz"]}
+{"data": ["2021-08-11T03:02:27.891019+00:00", 1065, "Your mother is", "well-groomed", "Pronunciation: /\u02c8w\u025bl-\u02c8grumd/", "Definition: having tasteful clothing and being scrupulously neat", "Synonyms: well-dressed"]}
