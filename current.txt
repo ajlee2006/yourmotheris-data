@@ -1,1 +1,1 @@
-{"data": ["2021-08-11T09:02:53.472974+00:00", 1071, "Your mother is", "luxe", "Pronunciation: /l\u028aks/", "Definition: elegant and sumptuous", "Synonyms: de luxe, deluxe"]}
+{"data": ["2021-08-11T10:01:00.282160+00:00", 1072, "Your mother is", "sculptural", "Pronunciation: /\u02c8sk\u028clpt\u0283\u025dr\u028cl/", "Definition: resembling sculpture", "Synonyms: modeled, sculptured, sculpturesque"]}
