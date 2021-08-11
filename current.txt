@@ -1,1 +1,1 @@
-{"data": ["2021-08-11T16:03:50.529438+00:00", 1078, "Your mother is", "flea-bitten", "Pronunciation: /\u02c8fli\u02ccb\u026at\u0259n/", "Definition: worn and broken down by hard use", "Synonyms: creaky, decrepit, derelict, run-down, woebegone"]}
+{"data": ["2021-08-11T17:01:38.256777+00:00", 1079, "Your mother is", "bolshevistic", "Pronunciation: /\u02ccbo\u028al\u0283\u0259\u02c8v\u026ast\u026ak/", "Definition: of or relating to Bolshevism", "Synonyms: bolshevik, bolshevist"]}
