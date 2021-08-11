@@ -1,1 +1,1 @@
-{"data": ["2021-08-11T10:01:00.282160+00:00", 1072, "Your mother is", "sculptural", "Pronunciation: /\u02c8sk\u028clpt\u0283\u025dr\u028cl/", "Definition: resembling sculpture", "Synonyms: modeled, sculptured, sculpturesque"]}
+{"data": ["2021-08-11T11:01:59.413522+00:00", 1073, "Your mother is", "aesthetical", "Pronunciation: /\u025bs\u02c8\u03b8\u025bt\u026ak\u0259l/", "Definition: concerning or characterized by an appreciation of beauty or good taste", "Synonyms: aesthetic, esthetic, esthetical"]}
