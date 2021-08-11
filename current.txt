@@ -1,1 +1,1 @@
-{"data": ["2021-08-11T04:02:44.590371+00:00", 1066, "Your mother is", "coruscant", "Pronunciation: /k\u0259\u02c8r\u0259sk\u0259nt/", "Definition: having brief brilliant points or flashes of light", "Synonyms: aglitter, fulgid, glinting, glistering, glittering, glittery, scintillant, scintillating, sparkly"]}
+{"data": ["2021-08-11T05:04:15.975772+00:00", 1067, "Your mother is", "wooded", "Pronunciation: /\u02c8w\u028ad\u026ad/", "Definition: covered with growing trees and bushes etc", ""]}
