@@ -1,1 +1,1 @@
-{"data": ["2021-08-11T19:02:52.343177+00:00", 1081, "Your mother is", "gerundial", "Pronunciation: /d\u0292\u0259\u02c8r\u0259ndi\u0259l/", "Definition: relating to or like a gerund", ""]}
+{"data": ["2021-08-11T20:02:27.858062+00:00", 1082, "Your mother is", "blunt", "Pronunciation: /bl\u0259nt/", "Definition: characterized by directness in manner or speech; without subtlety or evasion", "Synonyms: candid, forthright, frank, free-spoken, outspoken, plainspoken, point-blank, straight-from-the-shoulder"]}
