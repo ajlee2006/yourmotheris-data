@@ -1,1 +1,1 @@
-{"data": ["2021-08-12T00:05:12.380760+00:00", 1086, "Your mother is", "dilettante", "Pronunciation: /\u02ccd\u026al\u026a\u02c8t\u00e6nti/", "Definition: showing frivolous or superficial interest; amateurish", "Synonyms: dilettanteish, dilettantish, sciolistic"]}
+{"data": ["2021-08-12T01:03:23.876546+00:00", 1087, "Your mother is", "oriented", "Pronunciation: /\u02c8\u0254ri\u02cc\u025bnt\u028cd/", "Definition: adjusted or located in relation to surroundings or circumstances; sometimes used in combination", "Synonyms: orientated"]}
