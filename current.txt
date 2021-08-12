@@ -1,1 +1,1 @@
-{"data": ["2021-08-12T07:02:51.899206+00:00", 1093, "Your mother is", "unperformed", "Pronunciation: /\u02cc\u0259np\u0259\u02c8fo\u028armd/", "Definition: not performed", ""]}
+{"data": ["2021-08-12T08:03:47.000405+00:00", 1094, "Your mother is", "wingless", "Pronunciation: /\u02c8w\u026a\u014bl\u026as/", "Definition: lacking wings", ""]}
