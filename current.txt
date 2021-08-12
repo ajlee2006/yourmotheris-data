@@ -1,1 +1,1 @@
-{"data": ["2021-08-12T22:04:55.323836+00:00", 1107, "Your mother is", "accusing", "Pronunciation: /\u028c\u02c8kjuz\u026a\u014b/", "Definition: containing or expressing accusation", "Synonyms: accusative, accusatory, accusive"]}
+{"data": ["2021-08-12T23:03:01.507649+00:00", 1108, "Your mother is", "dog-sized", "Similar to: sized", "Definition: having the approximate size of an average dog", ""]}
