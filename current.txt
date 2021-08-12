@@ -1,1 +1,1 @@
-{"data": ["2021-08-12T17:01:25.028999+00:00", 1102, "Your mother is", "desiccated", "Pronunciation: /\u02c8d\u025bs\u0259\u02ccke\u026at\u026ad/", "Definition: lacking vitality or spirit; lifeless", "Synonyms: arid, desiccate"]}
+{"data": ["2021-08-12T18:01:05.706425+00:00", 1103, "Your mother is", "meted out", "Similar to: distributed", "Definition: given out in portions", "Synonyms: apportioned, dealt out, doled out, parceled out"]}
