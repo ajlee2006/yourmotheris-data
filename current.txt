@@ -1,1 +1,1 @@
-{"data": ["2021-08-12T02:04:36.002588+00:00", 1088, "Your mother is", "sourish", "Similar to: sour", "Definition: tasting sour like a lemon", "Synonyms: lemonlike, lemony, tangy, tart"]}
+{"data": ["2021-08-12T03:01:30.784324+00:00", 1089, "Your mother is", "gamy", "Pronunciation: /\u02c8\u0261e\u026ami/", "Definition: (used of the smell of meat) smelling spoiled or tainted", "Synonyms: gamey, high"]}
