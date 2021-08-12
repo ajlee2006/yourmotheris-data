@@ -1,1 +1,1 @@
-{"data": ["2021-08-12T11:05:02.586342+00:00", 1096, "Your mother is", "vapourific", "Pronunciation: /\u02ccve\u026ap\u0259\u02c8r\u026af\u026ak/", "Definition: resembling or characteristic of vapor", "Synonyms: vaporific, vaporish, vaporous, vapourish, vapourous"]}
+{"data": ["2021-08-12T12:03:05.061270+00:00", 1097, "Your mother is", "10-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with ten members", "Synonyms: ten-membered"]}
