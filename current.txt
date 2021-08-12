@@ -1,1 +1,1 @@
-{"data": ["2021-08-12T20:02:14.319732+00:00", 1105, "Your mother is", "peripheral", "Pronunciation: /p\u0259\u02c8r\u026af\u0259r\u0259l/", "Definition: on or near an edge or constituting an outer boundary; the outer area", ""]}
+{"data": ["2021-08-12T21:01:52.124837+00:00", 1106, "Your mother is", "proportional", "Pronunciation: /pr\u0259\u02c8po\u028ar\u0283\u0259n\u0259l/", "Definition: properly related in size or degree or other measurable characteristics; usually followed by `to'", "Synonyms: relative"]}
