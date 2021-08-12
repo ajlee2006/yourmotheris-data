@@ -1,1 +1,1 @@
-{"data": ["2021-08-12T12:03:05.061270+00:00", 1097, "Your mother is", "10-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with ten members", "Synonyms: ten-membered"]}
+{"data": ["2021-08-12T13:02:20.336827+00:00", 1098, "Your mother is", "potbound", "Similar to: planted", "Definition: (of a potted plant) grown too large for its container resulting in matting or tangling of the roots", "Synonyms: rootbound"]}
