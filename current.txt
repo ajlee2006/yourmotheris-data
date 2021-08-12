@@ -1,1 +1,1 @@
-{"data": ["2021-08-12T05:04:43.252276+00:00", 1091, "Your mother is", "foul", "Pronunciation: /fa\u028al/", "Definition: (of a manuscript) defaced with changes", "Synonyms: dirty, marked-up"]}
+{"data": ["2021-08-12T06:02:01.884179+00:00", 1092, "Your mother is", "canary", "Pronunciation: /k\u0259\u02c8n\u025cri/", "Definition: having the color of a canary; of a light to moderate yellow", "Synonyms: canary-yellow"]}
