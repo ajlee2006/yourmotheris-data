@@ -1,1 +1,1 @@
-{"data": ["2021-08-12T10:02:52.416867+00:00", 1095, "Your mother is", "drenched", "Pronunciation: /dr\u025bnt\u0283t/", "Definition: abundantly covered or supplied with; often used in combination", "Synonyms: drenched in"]}
+{"data": ["2021-08-12T11:05:02.586342+00:00", 1096, "Your mother is", "vapourific", "Pronunciation: /\u02ccve\u026ap\u0259\u02c8r\u026af\u026ak/", "Definition: resembling or characteristic of vapor", "Synonyms: vaporific, vaporish, vaporous, vapourish, vapourous"]}
