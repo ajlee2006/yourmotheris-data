@@ -1,1 +1,1 @@
-{"data": ["2021-08-12T21:01:52.124837+00:00", 1106, "Your mother is", "proportional", "Pronunciation: /pr\u0259\u02c8po\u028ar\u0283\u0259n\u0259l/", "Definition: properly related in size or degree or other measurable characteristics; usually followed by `to'", "Synonyms: relative"]}
+{"data": ["2021-08-12T22:04:55.323836+00:00", 1107, "Your mother is", "accusing", "Pronunciation: /\u028c\u02c8kjuz\u026a\u014b/", "Definition: containing or expressing accusation", "Synonyms: accusative, accusatory, accusive"]}
