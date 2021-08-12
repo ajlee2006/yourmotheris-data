@@ -1,1 +1,1 @@
-{"data": ["2021-08-12T08:03:47.000405+00:00", 1094, "Your mother is", "wingless", "Pronunciation: /\u02c8w\u026a\u014bl\u026as/", "Definition: lacking wings", ""]}
+{"data": ["2021-08-12T09:02:01.624367+00:00", 1094, "Your mother is", "amentiferous", "Pronunciation: /\u02cc\u00e6m\u0259n\u02c8t\u026af\u0259r\u0259s/", "Definition: (of plants) bearing or characterized by aments or catkins", "Synonyms: amentaceous"]}
