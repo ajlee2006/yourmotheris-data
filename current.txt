@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T19:01:48.605601+00:00", 1128, "Your mother is", "biyearly", "Pronunciation: /ba\u026a\u02c8jirli/", "Definition: occurring or payable twice each year", "Synonyms: biannual, half-yearly, semiannual"]}
+{"data": ["2021-08-13T20:03:50.313848+00:00", 1129, "Your mother is", "atrabilious", "Pronunciation: /\u02cc\u00e6tr\u0259\u02c8b\u026alj\u0259s/", "Definition: irritable as if suffering from indigestion", "Synonyms: bilious, dyspeptic, liverish"]}
