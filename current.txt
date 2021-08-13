@@ -1,1 +1,1 @@
-{"data": ["2021-08-12T23:03:01.507649+00:00", 1108, "Your mother is", "dog-sized", "Similar to: sized", "Definition: having the approximate size of an average dog", ""]}
+{"data": ["2021-08-13T00:04:06.434728+00:00", 1109, "Your mother is", "semiliquid", "Pronunciation: /\u02ccs\u025bmi\u02c8l\u026akw\u026ad/", "Definition: somewhat liquid", ""]}
