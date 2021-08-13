@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T06:05:09.944588+00:00", 1115, "Your mother is", "collaborative", "Pronunciation: /k\u0259\u02c8l\u00e6b\u0259\u02ccre\u026at\u026av/", "Definition: accomplished by collaboration", ""]}
+{"data": ["2021-08-13T07:03:02.788989+00:00", 1116, "Your mother is", "spread-out", "Similar to: distributed", "Definition: especially spread in a fan shape", "Synonyms: fanned"]}
