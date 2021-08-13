@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T17:02:49.207711+00:00", 1126, "Your mother is", "high-grade", "Pronunciation: /ha\u026a-gre\u026ad/", "Definition: surpassing in quality", "Synonyms: top-grade, top-quality"]}
+{"data": ["2021-08-13T18:03:38.064415+00:00", 1127, "Your mother is", "auditive", "Pronunciation: /\u02c8\u0254d\u026at\u026av/", "Definition: of or relating to the process of hearing", "Synonyms: audile, auditory"]}
