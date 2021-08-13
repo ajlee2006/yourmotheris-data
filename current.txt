@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T15:03:53.947358+00:00", 1124, "Your mother is", "yellowish-grey", "Similar to: achromatic", "Definition: of grey tinged with yellow", "Synonyms: yellow-gray, yellow-grey, yellowish-gray"]}
+{"data": ["2021-08-13T16:03:25.770885+00:00", 1125, "Your mother is", "exocentric", "Pronunciation: /\u02cc\u025bkso\u028a\u02c8s\u025bntr\u026ak/", "Definition: not fulfilling the same grammatical role of any of its constituents", ""]}
