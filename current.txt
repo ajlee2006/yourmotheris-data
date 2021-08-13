@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T08:04:58.763671+00:00", 1117, "Your mother is", "prejudiced", "Pronunciation: /\u02c8pr\u025bd\u0292\u028cd\u028cst/", "Definition: being biased or having a belief or attitude formed beforehand", "Synonyms: discriminatory"]}
+{"data": ["2021-08-13T09:02:29.612206+00:00", 1118, "Your mother is", "somali", "Pronunciation: /so\u028a\u02c8m\u00e6i/", "Definition: of or relating to the African republic of Somalia or its people or their language and culture", "Synonyms: somalian"]}
