@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T12:03:37.583286+00:00", 1121, "Your mother is", "malevolent", "Pronunciation: /m\u0259\u02c8l\u025bv\u0259l\u0259nt/", "Definition: having or exerting a malignant influence", "Synonyms: evil, malefic, malign"]}
+{"data": ["2021-08-13T13:04:23.144992+00:00", 1122, "Your mother is", "trabeculate", "Pronunciation: /tr\u0259\u02c8b\u025bkj\u0259l\u026at/", "Definition: of or relating to trabeculae", "Synonyms: trabecular"]}
