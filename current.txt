@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T03:03:41.727120+00:00", 1112, "Your mother is", "miscellaneous", "Pronunciation: /\u02ccm\u026as\u0259\u02c8le\u026ani\u0259s/", "Definition: having many aspects or qualities", "Synonyms: many-sided, multifaceted, multifarious"]}
+{"data": ["2021-08-13T04:02:58.060518+00:00", 1113, "Your mother is", "timeworn", "Pronunciation: /\u02c8ta\u026am\u02ccwo\u028arn/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, tired, trite, well-worn"]}
