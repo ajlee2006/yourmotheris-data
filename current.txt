@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T11:03:09.207890+00:00", 1120, "Your mother is", "atrabilious", "Pronunciation: /\u02cc\u00e6tr\u0259\u02c8b\u026alj\u0259s/", "Definition: irritable as if suffering from indigestion", "Synonyms: bilious, dyspeptic, liverish"]}
+{"data": ["2021-08-13T12:03:37.583286+00:00", 1121, "Your mother is", "malevolent", "Pronunciation: /m\u0259\u02c8l\u025bv\u0259l\u0259nt/", "Definition: having or exerting a malignant influence", "Synonyms: evil, malefic, malign"]}
