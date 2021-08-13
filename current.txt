@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T13:04:23.144992+00:00", 1122, "Your mother is", "trabeculate", "Pronunciation: /tr\u0259\u02c8b\u025bkj\u0259l\u026at/", "Definition: of or relating to trabeculae", "Synonyms: trabecular"]}
+{"data": ["2021-08-13T14:04:20.148734+00:00", 1123, "Your mother is", "recalcitrant", "Pronunciation: /ri\u02c8k\u00e6ls\u026atr\u0259nt/", "Definition: stubbornly resistant to authority or control", "Synonyms: fractious, refractory"]}
