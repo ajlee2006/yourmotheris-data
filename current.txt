@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T22:03:50.754707+00:00", 1131, "Your mother is", "thrilled", "Pronunciation: /\u03b8r\u026ald/", "Definition: feeling intense pleasurable excitement", ""]}
+{"data": ["2021-08-13T23:00:53.299027+00:00", 1132, "Your mother is", "musing", "Pronunciation: /\u02c8mjuz\u026a\u014b/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, pensive, pondering, reflective, ruminative"]}
