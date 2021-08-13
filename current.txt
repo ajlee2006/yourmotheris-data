@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T00:04:06.434728+00:00", 1109, "Your mother is", "semiliquid", "Pronunciation: /\u02ccs\u025bmi\u02c8l\u026akw\u026ad/", "Definition: somewhat liquid", ""]}
+{"data": ["2021-08-13T01:04:31.535484+00:00", 1110, "Your mother is", "sedulous", "Pronunciation: /\u02c8s\u025bd\u0292\u0259l\u0259s/", "Definition: marked by care and persistent effort", "Synonyms: assiduous"]}
