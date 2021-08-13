@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T18:03:38.064415+00:00", 1127, "Your mother is", "auditive", "Pronunciation: /\u02c8\u0254d\u026at\u026av/", "Definition: of or relating to the process of hearing", "Synonyms: audile, auditory"]}
+{"data": ["2021-08-13T19:01:48.605601+00:00", 1128, "Your mother is", "biyearly", "Pronunciation: /ba\u026a\u02c8jirli/", "Definition: occurring or payable twice each year", "Synonyms: biannual, half-yearly, semiannual"]}
