@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T16:03:25.770885+00:00", 1125, "Your mother is", "exocentric", "Pronunciation: /\u02cc\u025bkso\u028a\u02c8s\u025bntr\u026ak/", "Definition: not fulfilling the same grammatical role of any of its constituents", ""]}
+{"data": ["2021-08-13T17:02:49.207711+00:00", 1126, "Your mother is", "high-grade", "Pronunciation: /ha\u026a-gre\u026ad/", "Definition: surpassing in quality", "Synonyms: top-grade, top-quality"]}
