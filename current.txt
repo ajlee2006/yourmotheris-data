@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T10:03:18.923915+00:00", 1119, "Your mother is", "junoesque", "Pronunciation: /\u02ccd\u0292uno\u028a\u02c8\u025bsk/", "Definition: suggestive of a statue", "Synonyms: statuesque"]}
+{"data": ["2021-08-13T11:03:09.207890+00:00", 1120, "Your mother is", "atrabilious", "Pronunciation: /\u02cc\u00e6tr\u0259\u02c8b\u026alj\u0259s/", "Definition: irritable as if suffering from indigestion", "Synonyms: bilious, dyspeptic, liverish"]}
