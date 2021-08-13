@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T02:04:24.222828+00:00", 1111, "Your mother is", "orientated", "Pronunciation: /\u02c8\u0254ri\u028cn\u02ccte\u026at\u026ad/", "Definition: adjusted or located in relation to surroundings or circumstances; sometimes used in combination", "Synonyms: oriented"]}
+{"data": ["2021-08-13T03:03:41.727120+00:00", 1112, "Your mother is", "miscellaneous", "Pronunciation: /\u02ccm\u026as\u0259\u02c8le\u026ani\u0259s/", "Definition: having many aspects or qualities", "Synonyms: many-sided, multifaceted, multifarious"]}
