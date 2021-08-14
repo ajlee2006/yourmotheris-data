@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T15:02:55.805065+00:00", 1148, "Your mother is", "scrofulous", "Similar to: ill", "Definition: afflicted with scrofula", ""]}
+{"data": ["2021-08-14T16:02:18.167226+00:00", 1149, "Your mother is", "blurred", "Pronunciation: /bl\u025drd/", "Definition: unclear in form or expression", "Synonyms: clouded"]}
