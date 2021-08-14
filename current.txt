@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T10:01:17.463646+00:00", 1143, "Your mother is", "fungal", "Pronunciation: /\u02c8f\u0259\u014b\u0261\u0259l/", "Definition: of or relating to fungi", "Synonyms: fungous"]}
+{"data": ["2021-08-14T11:02:01.873353+00:00", 1144, "Your mother is", "ex", "Pronunciation: /\u025bks/", "Definition: out of fashion", "Synonyms: antique, demode, old-fashioned, old-hat, outmoded, passe, passee"]}
