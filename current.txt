@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T05:04:36.470598+00:00", 1138, "Your mother is", "supported", "Pronunciation: /s\u028c\u02c8p\u0254rt\u028cd/", "Definition: held up or having the weight borne especially from below", ""]}
+{"data": ["2021-08-14T06:01:26.614495+00:00", 1139, "Your mother is", "isotropous", "Pronunciation: /a\u026a\u02c8s\u0251tr\u0259p\u0259s/", "Definition: invariant with respect to direction", "Synonyms: isotropic"]}
