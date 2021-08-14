@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T18:03:44.999221+00:00", 1151, "Your mother is", "unobtainable", "Pronunciation: /\u02cc\u0259n\u0259b\u02c8te\u026an\u0259b\u0259l/", "Definition: not capable of being obtained", "Synonyms: inaccessible, unprocurable, untouchable"]}
+{"data": ["2021-08-14T19:00:30.091684+00:00", 1152, "Your mother is", "nutbrown", "Pronunciation: /\u02c8n\u0259t\u02c8bra\u028an/", "Definition: of the color of nuts", ""]}
