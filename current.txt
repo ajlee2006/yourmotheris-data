@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T08:03:55.163925+00:00", 1141, "Your mother is", "scatty", "Pronunciation: /\u02c8sk\u00e6ti/", "Definition: lacking sense or discretion", "Synonyms: rattlebrained, rattlepated, scatterbrained"]}
+{"data": ["2021-08-14T09:04:42.836934+00:00", 1142, "Your mother is", "transgendered", "", "Definition: involving a partial or full reversal of gender", "Synonyms: transgender"]}
