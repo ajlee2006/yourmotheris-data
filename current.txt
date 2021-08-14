@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T19:00:30.091684+00:00", 1152, "Your mother is", "nutbrown", "Pronunciation: /\u02c8n\u0259t\u02c8bra\u028an/", "Definition: of the color of nuts", ""]}
+{"data": ["2021-08-14T20:00:22.309841+00:00", 1153, "Your mother is", "odds-on", "Pronunciation: /\u02c8\u0251dz\u02c8\u0251n/", "Definition: having a better than even chance of success", ""]}
