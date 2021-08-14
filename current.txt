@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T07:00:59.060784+00:00", 1140, "Your mother is", "problematic", "Pronunciation: /\u02ccpr\u0251bl\u0259\u02c8m\u00e6t\u026ak/", "Definition: making great mental demands; hard to comprehend or solve or believe", "Synonyms: baffling, elusive, knotty, problematical, tough"]}
+{"data": ["2021-08-14T08:03:55.163925+00:00", 1141, "Your mother is", "scatty", "Pronunciation: /\u02c8sk\u00e6ti/", "Definition: lacking sense or discretion", "Synonyms: rattlebrained, rattlepated, scatterbrained"]}
