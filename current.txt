@@ -1,1 +1,1 @@
-{"data": ["2021-08-13T23:00:53.299027+00:00", 1132, "Your mother is", "musing", "Pronunciation: /\u02c8mjuz\u026a\u014b/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, pensive, pondering, reflective, ruminative"]}
+{"data": ["2021-08-14T00:05:47.053372+00:00", 1133, "Your mother is", "dimmed", "Pronunciation: /d\u026amd/", "Definition: made dim or less bright", "Synonyms: dim"]}
