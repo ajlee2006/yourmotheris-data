@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T13:01:59.343438+00:00", 1146, "Your mother is", "livelong", "Pronunciation: /\u02c8l\u026av\u02ccl\u0254\u014b/", "Definition: (of time) constituting the full extent or duration", ""]}
+{"data": ["2021-08-14T14:00:28.961932+00:00", 1147, "Your mother is", "midway", "Pronunciation: /\u02c8m\u026adwe\u026a/", "Definition: equally distant from the extremes", "Synonyms: center, halfway, middle"]}
