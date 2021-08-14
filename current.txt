@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T00:05:47.053372+00:00", 1133, "Your mother is", "dimmed", "Pronunciation: /d\u026amd/", "Definition: made dim or less bright", "Synonyms: dim"]}
+{"data": ["2021-08-14T01:02:08.332317+00:00", 1134, "Your mother is", "naif", "Pronunciation: /n\u0251\u02c8if/", "Definition: marked by or showing unaffected simplicity and lack of guile or worldly experience", "Synonyms: naive"]}
