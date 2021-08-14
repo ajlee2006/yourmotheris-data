@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T12:02:06.071463+00:00", 1145, "Your mother is", "de facto", "Pronunciation: /d\u026a\u02c8f\u00e6kto\u028a/", "Definition: existing in fact whether with lawful authority or not", ""]}
+{"data": ["2021-08-14T13:01:59.343438+00:00", 1146, "Your mother is", "livelong", "Pronunciation: /\u02c8l\u026av\u02ccl\u0254\u014b/", "Definition: (of time) constituting the full extent or duration", ""]}
