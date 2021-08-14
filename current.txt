@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T01:02:08.332317+00:00", 1134, "Your mother is", "naif", "Pronunciation: /n\u0251\u02c8if/", "Definition: marked by or showing unaffected simplicity and lack of guile or worldly experience", "Synonyms: naive"]}
+{"data": ["2021-08-14T02:03:11.322910+00:00", 1135, "Your mother is", "heart-to-heart", "Pronunciation: /\u02c8h\u0251rtt\u0259-\u02c8h\u0251rt/", "Definition: openly straightforward and direct without reserve or secretiveness", "Synonyms: candid, open"]}
