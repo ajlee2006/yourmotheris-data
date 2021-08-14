@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T17:02:05.256925+00:00", 1150, "Your mother is", "former", "Pronunciation: /\u02c8f\u0254rm\u0259r/", "Definition: belonging to some prior time", "Synonyms: erstwhile, old, one-time, onetime, quondam, sometime"]}
+{"data": ["2021-08-14T18:03:44.999221+00:00", 1151, "Your mother is", "unobtainable", "Pronunciation: /\u02cc\u0259n\u0259b\u02c8te\u026an\u0259b\u0259l/", "Definition: not capable of being obtained", "Synonyms: inaccessible, unprocurable, untouchable"]}
