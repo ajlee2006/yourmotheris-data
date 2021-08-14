@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T16:02:18.167226+00:00", 1149, "Your mother is", "blurred", "Pronunciation: /bl\u025drd/", "Definition: unclear in form or expression", "Synonyms: clouded"]}
+{"data": ["2021-08-14T17:02:05.256925+00:00", 1150, "Your mother is", "former", "Pronunciation: /\u02c8f\u0254rm\u0259r/", "Definition: belonging to some prior time", "Synonyms: erstwhile, old, one-time, onetime, quondam, sometime"]}
