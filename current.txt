@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T03:05:12.864406+00:00", 1136, "Your mother is", "inviolate", "Pronunciation: /\u026an\u02c8va\u026a\u0259l\u026at/", "Definition: must be kept sacred", "Synonyms: inviolable, sacrosanct"]}
+{"data": ["2021-08-14T04:04:26.950762+00:00", 1137, "Your mother is", "set", "Pronunciation: /s\u025bt/", "Definition: set down according to a plan", "Synonyms: laid"]}
