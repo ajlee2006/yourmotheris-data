@@ -1,1 +1,1 @@
-{"data": ["2021-08-14T11:02:01.873353+00:00", 1144, "Your mother is", "ex", "Pronunciation: /\u025bks/", "Definition: out of fashion", "Synonyms: antique, demode, old-fashioned, old-hat, outmoded, passe, passee"]}
+{"data": ["2021-08-14T12:02:06.071463+00:00", 1145, "Your mother is", "de facto", "Pronunciation: /d\u026a\u02c8f\u00e6kto\u028a/", "Definition: existing in fact whether with lawful authority or not", ""]}
