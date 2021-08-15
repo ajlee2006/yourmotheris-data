@@ -1,1 +1,1 @@
-{"data": ["2021-08-15T17:02:39.521014+00:00", 1174, "Your mother is", "toothed", "Pronunciation: /tu\u03b8t/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: erose, jagged, jaggy, notched"]}
+{"data": ["2021-08-15T18:04:50.718059+00:00", 1175, "Your mother is", "splashy", "Pronunciation: /\u02c8spl\u00e6\u0283i/", "Definition: marked by ostentation but often tasteless", "Synonyms: flamboyant, showy"]}
