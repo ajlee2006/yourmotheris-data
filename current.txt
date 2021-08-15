@@ -1,1 +1,1 @@
-{"data": ["2021-08-15T01:03:53.069692+00:00", 1158, "Your mother is", "nice", "Pronunciation: /nis/", "Definition: done with delicacy and skill", "Synonyms: skillful"]}
+{"data": ["2021-08-15T02:02:00.924985+00:00", 1159, "Your mother is", "flavourless", "Similar to: tasteless", "Definition: lacking taste or flavor or tang", "Synonyms: bland, flat, flavorless, insipid, savorless, savourless, vapid"]}
