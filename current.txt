@@ -1,1 +1,1 @@
-{"data": ["2021-08-15T16:02:58.327496+00:00", 1173, "Your mother is", "unexpressive", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8spr\u025bs\u026av/", "Definition: deliberately impassive in manner", "Synonyms: deadpan, expressionless, impassive, poker-faced"]}
+{"data": ["2021-08-15T17:02:39.521014+00:00", 1174, "Your mother is", "toothed", "Pronunciation: /tu\u03b8t/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: erose, jagged, jaggy, notched"]}
