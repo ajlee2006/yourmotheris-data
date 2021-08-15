@@ -1,1 +1,1 @@
-{"data": ["2021-08-15T20:00:50.416634+00:00", 1177, "Your mother is", "gushing", "Pronunciation: /\u02c8\u0261\u028c\u0283\u026a\u014b/", "Definition: uttered with unrestrained enthusiasm", "Synonyms: burbling, burbly, effusive"]}
+{"data": ["2021-08-15T21:01:09.515200+00:00", 1178, "Your mother is", "fogbound", "Pronunciation: /\u02c8f\u0251\u0261\u02ccba\u028and/", "Definition: enveloped in fog", ""]}
