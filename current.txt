@@ -1,1 +1,1 @@
-{"data": ["2021-08-15T14:03:56.446705+00:00", 1171, "Your mother is", "lower-middle-class", "Similar to: middle-class", "Definition: occupying the lower part of the middle socioeconomic range in a society", ""]}
+{"data": ["2021-08-15T15:03:06.949259+00:00", 1172, "Your mother is", "end-to-end", "Pronunciation: /\u02c8\u025bndtu\u02c8\u025bnd/", "Definition: with the end of one object in contact lengthwise with the end of another object", ""]}
