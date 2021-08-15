@@ -1,1 +1,1 @@
-{"data": ["2021-08-15T06:03:12.596404+00:00", 1163, "Your mother is", "rectilinear", "Pronunciation: /\u02ccr\u025bk\u02c8t\u0259l\u026ani\u0259r/", "Definition: characterized by a straight line or lines", "Synonyms: rectilineal"]}
+{"data": ["2021-08-15T07:00:58.262289+00:00", 1164, "Your mother is", "techy", "Pronunciation: /\u02c8t\u025b\u02a7i/", "Definition: easily irritated or annoyed", "Synonyms: cranky, fractious, irritable, nettlesome, peckish, peevish, pettish, petulant, scratchy, testy, tetchy"]}
