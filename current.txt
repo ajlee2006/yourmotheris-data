@@ -1,1 +1,1 @@
-{"data": ["2021-08-15T15:03:06.949259+00:00", 1172, "Your mother is", "end-to-end", "Pronunciation: /\u02c8\u025bndtu\u02c8\u025bnd/", "Definition: with the end of one object in contact lengthwise with the end of another object", ""]}
+{"data": ["2021-08-15T16:02:58.327496+00:00", 1173, "Your mother is", "unexpressive", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8spr\u025bs\u026av/", "Definition: deliberately impassive in manner", "Synonyms: deadpan, expressionless, impassive, poker-faced"]}
