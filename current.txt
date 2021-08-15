@@ -1,1 +1,1 @@
-{"data": ["2021-08-15T10:01:15.782835+00:00", 1167, "Your mother is", "mediate", "Pronunciation: /\u02c8midi\u026at/", "Definition: being neither at the beginning nor at the end in a series", "Synonyms: in-between, middle"]}
+{"data": ["2021-08-15T11:00:37.588908+00:00", 1168, "Your mother is", "outrigged", "Pronunciation: /\u02c8a\u028atrigd/", "Definition: rigged with a structure projecting from or over the side of a boat for various purposes; to prevent capsizing or to support an oarlock or to help secure a mast etc", ""]}
