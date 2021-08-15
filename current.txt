@@ -1,1 +1,1 @@
-{"data": ["2021-08-15T04:02:22.652929+00:00", 1161, "Your mother is", "soundproof", "Pronunciation: /\u02c8sa\u028and\u02ccpruf/", "Definition: impervious to, or not penetrable by, sound", ""]}
+{"data": ["2021-08-15T05:04:47.064636+00:00", 1162, "Your mother is", "cuprous", "Pronunciation: /\u02c8kjupr\u0259s/", "Definition: of or containing divalent copper", "Synonyms: cupric"]}
