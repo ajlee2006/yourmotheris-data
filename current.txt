@@ -1,1 +1,1 @@
-{"data": ["2021-08-15T18:04:50.718059+00:00", 1175, "Your mother is", "splashy", "Pronunciation: /\u02c8spl\u00e6\u0283i/", "Definition: marked by ostentation but often tasteless", "Synonyms: flamboyant, showy"]}
+{"data": ["2021-08-15T19:03:52.573583+00:00", 1176, "Your mother is", "hypethral", "Pronunciation: /h\u026a\u02c8pi\u03b8r\u0259l/", "Definition: partly or entirely open to the sky", "Synonyms: hypaethral"]}
