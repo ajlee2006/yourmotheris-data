@@ -1,1 +1,1 @@
-{"data": ["2021-08-15T03:02:13.226303+00:00", 1160, "Your mother is", "indurate", "Pronunciation: /\u02c8\u026and\u028ar\u026at/", "Definition: emotionally hardened", "Synonyms: callous, pachydermatous"]}
+{"data": ["2021-08-15T04:02:22.652929+00:00", 1161, "Your mother is", "soundproof", "Pronunciation: /\u02c8sa\u028and\u02ccpruf/", "Definition: impervious to, or not penetrable by, sound", ""]}
