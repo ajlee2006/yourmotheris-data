@@ -1,1 +1,1 @@
-{"data": ["2021-08-16T14:03:21.041794+00:00", 1195, "Your mother is", "parheliacal", "Pronunciation: /\u02ccp\u0251rh\u026a\u02c8la\u026a\u0259k\u0259l/", "Definition: relating to or resembling a parhelion", "Synonyms: parhelic"]}
+{"data": ["2021-08-16T15:04:14.450302+00:00", 1196, "Your mother is", "adept", "Pronunciation: /\u0259\u02c8d\u025bpt/", "Definition: having or showing knowledge and skill and aptitude", "Synonyms: expert, good, practiced, proficient, skilful, skillful"]}
