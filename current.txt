@@ -1,1 +1,1 @@
-{"data": ["2021-08-16T10:01:24.301260+00:00", 1191, "Your mother is", "transposed", "Pronunciation: /tr\u00e6ns\u02c8po\u028azd/", "Definition: turned about in order or relation", "Synonyms: converse, reversed"]}
+{"data": ["2021-08-16T11:02:11.057451+00:00", 1192, "Your mother is", "puppyish", "Similar to: immature", "Definition: characteristic of a puppy", "Synonyms: puppylike"]}
