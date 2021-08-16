@@ -1,1 +1,1 @@
-{"data": ["2021-08-16T16:01:09.110124+00:00", 1197, "Your mother is", "twenty", "Pronunciation: /\u02c8tw\u025bnti/", "Definition: denoting a quantity consisting of 20 items or units", "Synonyms: 20, xx"]}
+{"data": ["2021-08-16T17:03:34.144144+00:00", 1198, "Your mother is", "noncarbonated", "Similar to: noneffervescent", "Definition: not having carbonation", "Synonyms: uncarbonated"]}
