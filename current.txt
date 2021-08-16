@@ -1,1 +1,1 @@
-{"data": ["2021-08-16T17:03:34.144144+00:00", 1198, "Your mother is", "noncarbonated", "Similar to: noneffervescent", "Definition: not having carbonation", "Synonyms: uncarbonated"]}
+{"data": ["2021-08-16T18:04:40.047022+00:00", 1199, "Your mother is", "fissionable", "Pronunciation: /\u02c8f\u026a\u0283\u0259n\u0259b\u0259l/", "Definition: capable of undergoing nuclear fission", "Synonyms: fissile"]}
