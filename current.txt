@@ -1,1 +1,1 @@
-{"data": ["2021-08-16T09:01:37.197272+00:00", 1190, "Your mother is", "proficient", "Pronunciation: /pr\u0259\u02c8f\u026a\u0283\u0259nt/", "Definition: of or relating to technique or proficiency in a practical skill", "Synonyms: technical"]}
+{"data": ["2021-08-16T10:01:24.301260+00:00", 1191, "Your mother is", "transposed", "Pronunciation: /tr\u00e6ns\u02c8po\u028azd/", "Definition: turned about in order or relation", "Synonyms: converse, reversed"]}
