@@ -1,1 +1,1 @@
-{"data": ["2021-08-16T00:05:51.014333+00:00", 1181, "Your mother is", "webbed", "Pronunciation: /w\u025bbd/", "Definition: having open interstices or resembling a web", "Synonyms: lacy, netlike, netted, webby, weblike"]}
+{"data": ["2021-08-16T01:04:19.003395+00:00", 1182, "Your mother is", "concavo-convex", "Pronunciation: /k\u0251n\u02c8ke\u026avo\u028ak\u0251n\u02c8v\u025bks/", "Definition: concave on one side and convex on the other with the concavity being greater than the convexity", ""]}
