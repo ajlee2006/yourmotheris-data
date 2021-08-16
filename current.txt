@@ -1,1 +1,1 @@
-{"data": ["2021-08-16T07:03:21.444042+00:00", 1188, "Your mother is", "infelicitous", "Pronunciation: /\u02cc\u026anf\u0259\u02c8l\u026as\u026at\u0259s/", "Definition: marked by or producing unhappiness", "Synonyms: unhappy"]}
+{"data": ["2021-08-16T08:01:42.831696+00:00", 1189, "Your mother is", "capsulate", "Pronunciation: /\u02c8k\u00e6ps\u0259\u02ccle\u026at/", "Definition: used of seeds or spores that are enclosed in a capsule", "Synonyms: capsulated"]}
