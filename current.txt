@@ -1,1 +1,1 @@
-{"data": ["2021-08-16T08:01:42.831696+00:00", 1189, "Your mother is", "capsulate", "Pronunciation: /\u02c8k\u00e6ps\u0259\u02ccle\u026at/", "Definition: used of seeds or spores that are enclosed in a capsule", "Synonyms: capsulated"]}
+{"data": ["2021-08-16T09:01:37.197272+00:00", 1190, "Your mother is", "proficient", "Pronunciation: /pr\u0259\u02c8f\u026a\u0283\u0259nt/", "Definition: of or relating to technique or proficiency in a practical skill", "Synonyms: technical"]}
