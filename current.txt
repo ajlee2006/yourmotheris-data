@@ -1,1 +1,1 @@
-{"data": ["2021-08-16T02:02:13.114549+00:00", 1183, "Your mother is", "diurnal", "Pronunciation: /da\u026a\u02c8\u025crn\u0259l/", "Definition: having a daily cycle or occurring every day", ""]}
+{"data": ["2021-08-16T03:02:37.038006+00:00", 1184, "Your mother is", "haematal", "Pronunciation: /\u02c8h\u025bm\u0259t\u0259l/", "Definition: relating to the blood vessels or blood", "Synonyms: haemal, hemal, hematal"]}
