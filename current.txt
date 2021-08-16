@@ -1,1 +1,1 @@
-{"data": ["2021-08-16T13:00:59.664494+00:00", 1194, "Your mother is", "stereotyped", "Pronunciation: /\u02c8st\u025bri\u0259\u02ccta\u026apt/", "Definition: lacking spontaneity or originality or individuality", "Synonyms: stereotypic, stereotypical, unimaginative"]}
+{"data": ["2021-08-16T14:03:21.041794+00:00", 1195, "Your mother is", "parheliacal", "Pronunciation: /\u02ccp\u0251rh\u026a\u02c8la\u026a\u0259k\u0259l/", "Definition: relating to or resembling a parhelion", "Synonyms: parhelic"]}
