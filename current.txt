@@ -1,1 +1,1 @@
-{"data": ["2021-08-15T23:02:15.713639+00:00", 1180, "Your mother is", "octosyllabic", "Pronunciation: /\u02cc\u0251kto\u028as\u026a\u02c8l\u00e6b\u026ak/", "Definition: having or characterized by or consisting of eight syllables", ""]}
+{"data": ["2021-08-16T00:05:51.014333+00:00", 1181, "Your mother is", "webbed", "Pronunciation: /w\u025bbd/", "Definition: having open interstices or resembling a web", "Synonyms: lacy, netlike, netted, webby, weblike"]}
