@@ -1,1 +1,1 @@
-{"data": ["2021-08-16T22:01:55.116236+00:00", 1203, "Your mother is", "yellow", "Pronunciation: /\u02c8j\u025blo\u028a/", "Definition: of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk", "Synonyms: xanthous, yellowish"]}
+{"data": ["2021-08-16T23:00:26.214810+00:00", 1204, "Your mother is", "uncomprehended", "Similar to: ununderstood", "Definition: not fully understood", ""]}
