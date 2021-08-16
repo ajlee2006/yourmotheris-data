@@ -1,1 +1,1 @@
-{"data": ["2021-08-16T18:04:40.047022+00:00", 1199, "Your mother is", "fissionable", "Pronunciation: /\u02c8f\u026a\u0283\u0259n\u0259b\u0259l/", "Definition: capable of undergoing nuclear fission", "Synonyms: fissile"]}
+{"data": ["2021-08-16T19:00:25.169471+00:00", 1200, "Your mother is", "subacid", "Pronunciation: /s\u0259b\u02c8\u00e6s\u026ad/", "Definition: slightly sour to the taste", ""]}
