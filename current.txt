@@ -1,1 +1,1 @@
-{"data": ["2021-08-16T21:01:56.866579+00:00", 1202, "Your mother is", "interrogative", "Pronunciation: /\u02cc\u026ant\u0259\u02c8r\u0251\u0261\u0259t\u026av/", "Definition: relating to the use of or having the nature of an interrogation", "Synonyms: interrogatory"]}
+{"data": ["2021-08-16T22:01:55.116236+00:00", 1203, "Your mother is", "yellow", "Pronunciation: /\u02c8j\u025blo\u028a/", "Definition: of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk", "Synonyms: xanthous, yellowish"]}
