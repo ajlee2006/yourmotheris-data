@@ -1,1 +1,1 @@
-{"data": ["2021-08-17T09:04:01.889104+00:00", 1214, "Your mother is", "speaking", "Pronunciation: /\u02c8spik\u026a\u014b/", "Definition: capable of or involving speech or speaking", ""]}
+{"data": ["2021-08-17T10:01:18.999810+00:00", 1215, "Your mother is", "schmaltzy", "Pronunciation: /\u02c8\u0283m\u0251ltsi/", "Definition: effusively or insincerely emotional", "Synonyms: bathetic, drippy, hokey, kitschy, maudlin, mawkish, mushy, sappy, schmalzy, sentimental, slushy, soppy, soupy"]}
