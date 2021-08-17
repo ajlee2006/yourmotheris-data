@@ -1,1 +1,1 @@
-{"data": ["2021-08-17T14:02:17.531914+00:00", 1219, "Your mother is", "seaward", "Pronunciation: /\u02c8siw\u0259rd/", "Definition: (of winds) coming from the land", "Synonyms: offshore"]}
+{"data": ["2021-08-17T15:02:08.495905+00:00", 1220, "Your mother is", "endangered", "Pronunciation: /\u025bn\u02c8de\u026and\u0292\u025drd/", "Definition: (of flora or fauna) in imminent danger of extinction", ""]}
