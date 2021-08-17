@@ -1,1 +1,1 @@
-{"data": ["2021-08-17T15:02:08.495905+00:00", 1220, "Your mother is", "endangered", "Pronunciation: /\u025bn\u02c8de\u026and\u0292\u025drd/", "Definition: (of flora or fauna) in imminent danger of extinction", ""]}
+{"data": ["2021-08-17T16:01:17.188494+00:00", 1221, "Your mother is", "blae", "Pronunciation: /ble\u026a/", "Definition: of bluish-black or grey-blue", ""]}
