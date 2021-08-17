@@ -1,1 +1,1 @@
-{"data": ["2021-08-17T20:02:55.437876+00:00", 1225, "Your mother is", "trapped", "Pronunciation: /tr\u00e6pt/", "Definition: forced to turn and face attackers", "Synonyms: at bay, cornered, treed"]}
+{"data": ["2021-08-17T21:00:39.694161+00:00", 1226, "Your mother is", "immediate", "Pronunciation: /\u026a\u02c8midi\u026at/", "Definition: very close or connected in space or time", "Synonyms: contiguous"]}
