@@ -1,1 +1,1 @@
-{"data": ["2021-08-17T13:04:22.186651+00:00", 1218, "Your mother is", "spirited", "Pronunciation: /\u02c8sp\u026ar\u026at\u026ad/", "Definition: made lively or spirited", "Synonyms: enlivened"]}
+{"data": ["2021-08-17T14:02:17.531914+00:00", 1219, "Your mother is", "seaward", "Pronunciation: /\u02c8siw\u0259rd/", "Definition: (of winds) coming from the land", "Synonyms: offshore"]}
