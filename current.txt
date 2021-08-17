@@ -1,1 +1,1 @@
-{"data": ["2021-08-17T22:01:29.032834+00:00", 1227, "Your mother is", "prerecorded", "Pronunciation: /\u02ccpriri\u02c8k\u0254rd\u026ad/", "Definition: recorded at one time for transmission later", ""]}
+{"data": ["2021-08-17T23:02:49.493383+00:00", 1228, "Your mother is", "flat", "Pronunciation: /fl\u00e6t/", "Definition: lacking the expected range or depth; not designed to give an illusion or depth", "Synonyms: 2-dimensional, two-dimensional"]}
