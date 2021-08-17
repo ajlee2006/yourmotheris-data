@@ -1,1 +1,1 @@
-{"data": ["2021-08-17T06:03:51.726665+00:00", 1211, "Your mother is", "katabatic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8b\u00e6t\u026ak/", "Definition: of an air current or wind; moving downward or down a slope because of cooling especially at night", "Synonyms: catabatic"]}
+{"data": ["2021-08-17T07:01:53.393643+00:00", 1212, "Your mother is", "unrepaired", "Similar to: unserviceable", "Definition: unserviceable because necessary repairs have not been made", ""]}
