@@ -1,1 +1,1 @@
-{"data": ["2021-08-17T00:02:49.184025+00:00", 1205, "Your mother is", "overzealous", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8z\u025bl\u0259s/", "Definition: marked by excessive enthusiasm for and intense devotion to a cause or idea", "Synonyms: fanatic, fanatical, rabid"]}
+{"data": ["2021-08-17T01:04:16.450810+00:00", 1206, "Your mother is", "aggravating", "Pronunciation: /\u02c8\u00e6\u0261r\u028c\u02ccve\u026at\u026a\u014b/", "Definition: making worse", "Synonyms: exacerbating, exasperating"]}
