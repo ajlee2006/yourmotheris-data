@@ -1,1 +1,1 @@
-{"data": ["2021-08-17T02:02:43.148183+00:00", 1207, "Your mother is", "backhand", "Pronunciation: /\u02c8b\u00e6k\u02cch\u00e6nd/", "Definition: (of handwriting) having the letters slanting backward", "Synonyms: left-slanting"]}
+{"data": ["2021-08-17T03:00:52.336449+00:00", 1208, "Your mother is", "fried", "Pronunciation: /frid/", "Definition: cooked by frying in fat", "Synonyms: deep-fried"]}
