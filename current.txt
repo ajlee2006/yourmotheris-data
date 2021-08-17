@@ -1,1 +1,1 @@
-{"data": ["2021-08-17T07:01:53.393643+00:00", 1212, "Your mother is", "unrepaired", "Similar to: unserviceable", "Definition: unserviceable because necessary repairs have not been made", ""]}
+{"data": ["2021-08-17T08:01:32.376467+00:00", 1213, "Your mother is", "bandy-legged", "Pronunciation: /\u02c8b\u00e6ndi-\u02ccl\u025b\u0261\u026ad/", "Definition: have legs that curve outward at the knees", "Synonyms: bandy, bowed, bowleg, bowlegged"]}
