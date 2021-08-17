@@ -1,1 +1,1 @@
-{"data": ["2021-08-17T10:01:18.999810+00:00", 1215, "Your mother is", "schmaltzy", "Pronunciation: /\u02c8\u0283m\u0251ltsi/", "Definition: effusively or insincerely emotional", "Synonyms: bathetic, drippy, hokey, kitschy, maudlin, mawkish, mushy, sappy, schmalzy, sentimental, slushy, soppy, soupy"]}
+{"data": ["2021-08-17T11:02:31.588873+00:00", 1216, "Your mother is", "bottomless", "Pronunciation: /\u02c8b\u0251t\u0259ml\u026as/", "Definition: extremely deep", ""]}
