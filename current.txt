@@ -1,1 +1,1 @@
-{"data": ["2021-08-17T21:00:39.694161+00:00", 1226, "Your mother is", "immediate", "Pronunciation: /\u026a\u02c8midi\u026at/", "Definition: very close or connected in space or time", "Synonyms: contiguous"]}
+{"data": ["2021-08-17T22:01:29.032834+00:00", 1227, "Your mother is", "prerecorded", "Pronunciation: /\u02ccpriri\u02c8k\u0254rd\u026ad/", "Definition: recorded at one time for transmission later", ""]}
