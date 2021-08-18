@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T04:03:47.177665+00:00", 1233, "Your mother is", "canny", "Pronunciation: /\u02c8k\u00e6ni/", "Definition: showing self-interest and shrewdness in dealing with others", "Synonyms: cagey, cagy, clever"]}
+{"data": ["2021-08-18T05:03:46.381815+00:00", 1234, "Your mother is", "terrifying", "Pronunciation: /\u02c8t\u025br\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: causing extreme terror", "Synonyms: terrific"]}
