@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T20:04:55.544031+00:00", 1249, "Your mother is", "coincident", "Pronunciation: /ko\u028a\u02c8\u026ans\u026ad\u0259nt/", "Definition: occurring or operating at the same time", "Synonyms: co-occurrent, coincidental, coinciding, concurrent, cooccurring, simultaneous"]}
+{"data": ["2021-08-18T21:00:45.614001+00:00", 1250, "Your mother is", "eventual", "Pronunciation: /\u026a\u02c8v\u025bn\u02a7u\u0259l/", "Definition: expected to follow in the indefinite future from causes already operating", ""]}
