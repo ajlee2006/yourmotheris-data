@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T11:02:06.521232+00:00", 1240, "Your mother is", "42nd", "Similar to: ordinal", "Definition: the ordinal number of forty-two in counting order", "Synonyms: forty-second"]}
+{"data": ["2021-08-18T12:02:29.251692+00:00", 1241, "Your mother is", "half-yearly", "Pronunciation: /h\u00e6f-\u02c8jirli/", "Definition: occurring or payable twice each year", "Synonyms: biannual, biyearly, semiannual"]}
