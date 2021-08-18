@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T14:01:06.535512+00:00", 1243, "Your mother is", "spiral", "Pronunciation: /\u02c8spa\u026ar\u0259l/", "Definition: in the shape of a coil", "Synonyms: coiling, helical, spiraling, turbinate, volute, voluted, whorled"]}
+{"data": ["2021-08-18T15:01:29.632058+00:00", 1244, "Your mother is", "nonmaterial", "Pronunciation: /\u02ccn\u0251nm\u0259\u02c8tiri\u0259l/", "Definition: not consisting of matter", "Synonyms: immaterial"]}
