@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T07:03:43.131283+00:00", 1236, "Your mother is", "supposed", "Pronunciation: /s\u0259\u02c8po\u028azd/", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetic, hypothetical, suppositional, suppositious, supposititious"]}
+{"data": ["2021-08-18T08:02:41.459688+00:00", 1237, "Your mother is", "harsh-voiced", "Pronunciation: /h\u0251r\u0283-v\u0254\u026ast/", "Definition: having an unusually harsh sound", ""]}
