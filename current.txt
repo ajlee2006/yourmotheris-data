@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T09:01:04.120468+00:00", 1238, "Your mother is", "lyophilized", "Similar to: preserved", "Definition: used of tissue or blood or serum or other biological substances; dried by freezing in a high vacuum", "Synonyms: freeze-dried, lyophilised"]}
+{"data": ["2021-08-18T10:03:31.750321+00:00", 1239, "Your mother is", "obliterated", "Pronunciation: /\u028c\u02c8bl\u026at\u025dr\u02cce\u026at\u026ad/", "Definition: reduced to nothingness", "Synonyms: blotted out, obliterate"]}
