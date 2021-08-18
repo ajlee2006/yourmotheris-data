@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T13:01:52.860117+00:00", 1242, "Your mother is", "bladelike", "Similar to: simple", "Definition: shaped like a sword blade", "Synonyms: ensiform, sword-shaped, swordlike"]}
+{"data": ["2021-08-18T14:01:06.535512+00:00", 1243, "Your mother is", "spiral", "Pronunciation: /\u02c8spa\u026ar\u0259l/", "Definition: in the shape of a coil", "Synonyms: coiling, helical, spiraling, turbinate, volute, voluted, whorled"]}
