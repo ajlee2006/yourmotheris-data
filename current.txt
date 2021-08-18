@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T19:02:05.447293+00:00", 1248, "Your mother is", "garrulous", "Pronunciation: /\u02c8\u0261\u00e6r\u0259l\u0259s/", "Definition: full of trivial conversation", "Synonyms: chatty, gabby, loquacious, talkative, talky"]}
+{"data": ["2021-08-18T20:04:55.544031+00:00", 1249, "Your mother is", "coincident", "Pronunciation: /ko\u028a\u02c8\u026ans\u026ad\u0259nt/", "Definition: occurring or operating at the same time", "Synonyms: co-occurrent, coincidental, coinciding, concurrent, cooccurring, simultaneous"]}
