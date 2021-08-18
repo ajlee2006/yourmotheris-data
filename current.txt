@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T22:03:42.636935+00:00", 1251, "Your mother is", "cuneiform", "Pronunciation: /kju\u02c8ni\u0259\u02ccf\u0254rm/", "Definition: shaped like a wedge", "Synonyms: cuneal, wedge-shaped"]}
+{"data": ["2021-08-18T23:02:37.395206+00:00", 1252, "Your mother is", "divorced", "Pronunciation: /d\u026a\u02c8v\u0254rst/", "Definition: of someone whose marriage has been legally dissolved", ""]}
