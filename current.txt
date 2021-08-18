@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T10:03:31.750321+00:00", 1239, "Your mother is", "obliterated", "Pronunciation: /\u028c\u02c8bl\u026at\u025dr\u02cce\u026at\u026ad/", "Definition: reduced to nothingness", "Synonyms: blotted out, obliterate"]}
+{"data": ["2021-08-18T11:02:06.521232+00:00", 1240, "Your mother is", "42nd", "Similar to: ordinal", "Definition: the ordinal number of forty-two in counting order", "Synonyms: forty-second"]}
