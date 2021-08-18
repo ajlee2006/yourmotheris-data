@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T17:04:27.959921+00:00", 1246, "Your mother is", "sinistral", "Pronunciation: /\u02c8s\u026an\u026astr\u0259l/", "Definition: of or on the left", ""]}
+{"data": ["2021-08-18T18:01:21.185544+00:00", 1247, "Your mother is", "bluish-purple", "Similar to: chromatic", "Definition: of purple tinged with blue", "Synonyms: blue-purple"]}
