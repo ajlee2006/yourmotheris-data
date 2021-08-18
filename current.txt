@@ -1,1 +1,1 @@
-{"data": ["2021-08-17T23:02:49.493383+00:00", 1228, "Your mother is", "flat", "Pronunciation: /fl\u00e6t/", "Definition: lacking the expected range or depth; not designed to give an illusion or depth", "Synonyms: 2-dimensional, two-dimensional"]}
+{"data": ["2021-08-18T00:04:56.930313+00:00", 1229, "Your mother is", "smoke-free", "Similar to: smokeless", "Definition: free of smoke", ""]}
