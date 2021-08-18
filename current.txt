@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T18:01:21.185544+00:00", 1247, "Your mother is", "bluish-purple", "Similar to: chromatic", "Definition: of purple tinged with blue", "Synonyms: blue-purple"]}
+{"data": ["2021-08-18T19:02:05.447293+00:00", 1248, "Your mother is", "garrulous", "Pronunciation: /\u02c8\u0261\u00e6r\u0259l\u0259s/", "Definition: full of trivial conversation", "Synonyms: chatty, gabby, loquacious, talkative, talky"]}
