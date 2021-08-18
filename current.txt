@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T05:03:46.381815+00:00", 1234, "Your mother is", "terrifying", "Pronunciation: /\u02c8t\u025br\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: causing extreme terror", "Synonyms: terrific"]}
+{"data": ["2021-08-18T06:02:38.661305+00:00", 1235, "Your mother is", "realizable", "Pronunciation: /\u02ccri\u028c\u02c8la\u026az\u028cb\u028cl/", "Definition: capable of existing or taking place or proving true; possible to do", "Synonyms: accomplishable, achievable, doable, manageable"]}
