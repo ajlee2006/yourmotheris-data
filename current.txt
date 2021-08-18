@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T08:02:41.459688+00:00", 1237, "Your mother is", "harsh-voiced", "Pronunciation: /h\u0251r\u0283-v\u0254\u026ast/", "Definition: having an unusually harsh sound", ""]}
+{"data": ["2021-08-18T09:01:04.120468+00:00", 1238, "Your mother is", "lyophilized", "Similar to: preserved", "Definition: used of tissue or blood or serum or other biological substances; dried by freezing in a high vacuum", "Synonyms: freeze-dried, lyophilised"]}
