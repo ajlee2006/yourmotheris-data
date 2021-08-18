@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T03:03:21.161706+00:00", 1232, "Your mother is", "unequipped", "Pronunciation: /\u02cc\u0259n\u026a\u02c8kw\u026apt/", "Definition: without necessary physical or intellectual equipment", ""]}
+{"data": ["2021-08-18T04:03:47.177665+00:00", 1233, "Your mother is", "canny", "Pronunciation: /\u02c8k\u00e6ni/", "Definition: showing self-interest and shrewdness in dealing with others", "Synonyms: cagey, cagy, clever"]}
