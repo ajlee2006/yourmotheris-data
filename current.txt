@@ -1,1 +1,1 @@
-{"data": ["2021-08-19T03:04:58.851090+00:00", 1256, "Your mother is", "bipolar", "Pronunciation: /ba\u026a\u02c8po\u028al\u0259r/", "Definition: having two poles", ""]}
+{"data": ["2021-08-19T04:02:58.061030+00:00", 1257, "Your mother is", "ampullary", "Pronunciation: /\u00e6m\u02c8p\u0259l\u0259ri/", "Definition: of or related to an ampulla", "Synonyms: ampullar"]}
