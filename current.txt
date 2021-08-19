@@ -1,1 +1,1 @@
-{"data": ["2021-08-19T12:03:32.318638+00:00", 1265, "Your mother is", "lugubrious", "Pronunciation: /l\u028a\u02c8\u0261ubri\u0259s/", "Definition: excessively mournful", ""]}
+{"data": ["2021-08-19T13:01:26.498855+00:00", 1266, "Your mother is", "caudated", "Similar to: bobtail", "Definition: having a tail or taillike appendage", "Synonyms: caudate"]}
