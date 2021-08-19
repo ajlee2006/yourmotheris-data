@@ -1,1 +1,1 @@
-{"data": ["2021-08-18T23:02:37.395206+00:00", 1252, "Your mother is", "divorced", "Pronunciation: /d\u026a\u02c8v\u0254rst/", "Definition: of someone whose marriage has been legally dissolved", ""]}
+{"data": ["2021-08-19T00:05:00.430507+00:00", 1253, "Your mother is", "floral", "Pronunciation: /\u02c8flo\u028ar\u0259l/", "Definition: resembling or made of or suggestive of flowers", "Synonyms: flowered"]}
