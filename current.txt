@@ -1,1 +1,1 @@
-{"data": ["2021-08-19T09:03:03.212930+00:00", 1262, "Your mother is", "lay", "Pronunciation: /le\u026a/", "Definition: characteristic of those who are not members of the clergy", "Synonyms: laic, secular"]}
+{"data": ["2021-08-19T10:01:31.021661+00:00", 1263, "Your mother is", "sitting", "Pronunciation: /\u02c8s\u026at\u026a\u014b/", "Definition: (of persons) having the torso erect and legs bent with the body supported on the buttocks", "Synonyms: seated"]}
