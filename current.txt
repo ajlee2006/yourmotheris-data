@@ -1,1 +1,1 @@
-{"data": ["2021-08-19T20:03:24.607238+00:00", 1273, "Your mother is", "metamorphic", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8m\u0254rf\u026ak/", "Definition: of or relating to metamorphosis (especially of rocks)", "Synonyms: metamorphous"]}
+{"data": ["2021-08-19T21:02:14.682193+00:00", 1274, "Your mother is", "bacteriological", "Pronunciation: /b\u00e6k\u02cctiri\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to bacteriology", "Synonyms: bacteriologic"]}
