@@ -1,1 +1,1 @@
-{"data": ["2021-08-19T04:02:58.061030+00:00", 1257, "Your mother is", "ampullary", "Pronunciation: /\u00e6m\u02c8p\u0259l\u0259ri/", "Definition: of or related to an ampulla", "Synonyms: ampullar"]}
+{"data": ["2021-08-19T05:03:34.668414+00:00", 1258, "Your mother is", "third-dimensional", "Similar to: multidimensional", "Definition: involving or relating to three dimensions or aspects; giving the illusion of depth", "Synonyms: 3-dimensional, three-d, three-dimensional"]}
