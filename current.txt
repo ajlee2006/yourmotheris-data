@@ -1,1 +1,1 @@
-{"data": ["2021-08-19T18:01:37.904591+00:00", 1271, "Your mother is", "do-or-die", "Pronunciation: /\u02c8du\u0259r\u02c8da\u026a/", "Definition: desperately determined", "Synonyms: desperate"]}
+{"data": ["2021-08-19T19:00:38.377053+00:00", 1272, "Your mother is", "unrenewable", "Pronunciation: /\u02cc\u0259nri\u02c8nju\u0259b\u0259l/", "Definition: that can not be renewed", "Synonyms: nonrenewable"]}
