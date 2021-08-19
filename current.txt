@@ -1,1 +1,1 @@
-{"data": ["2021-08-19T02:02:02.634148+00:00", 1255, "Your mother is", "stereo", "Pronunciation: /\u02c8st\u025brio\u028a/", "Definition: designating the reproduction of sound using two or more independent audio channels", "Synonyms: stereophonic, two-channel"]}
+{"data": ["2021-08-19T03:04:58.851090+00:00", 1256, "Your mother is", "bipolar", "Pronunciation: /ba\u026a\u02c8po\u028al\u0259r/", "Definition: having two poles", ""]}
