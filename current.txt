@@ -1,1 +1,1 @@
-{"data": ["2021-08-19T00:05:00.430507+00:00", 1253, "Your mother is", "floral", "Pronunciation: /\u02c8flo\u028ar\u0259l/", "Definition: resembling or made of or suggestive of flowers", "Synonyms: flowered"]}
+{"data": ["2021-08-19T01:04:59.494922+00:00", 1254, "Your mother is", "out-of-date", "Pronunciation: /\u02c8a\u028at\u0259v\u02c8de\u026at/", "Definition: old; no longer valid or fashionable", "Synonyms: outdated, superannuated"]}
