@@ -1,1 +1,1 @@
-{"data": ["2021-08-19T17:04:01.901627+00:00", 1270, "Your mother is", "well-favored", "Pronunciation: /w\u025bl-\u02c8fe\u026av\u0259rd/", "Definition: pleasing in appearance especially by reason of conformity to ideals of form and proportion", "Synonyms: better-looking, fine-looking, good-looking, handsome, well-favoured"]}
+{"data": ["2021-08-19T18:01:37.904591+00:00", 1271, "Your mother is", "do-or-die", "Pronunciation: /\u02c8du\u0259r\u02c8da\u026a/", "Definition: desperately determined", "Synonyms: desperate"]}
