@@ -1,1 +1,1 @@
-{"data": ["2021-08-19T01:04:59.494922+00:00", 1254, "Your mother is", "out-of-date", "Pronunciation: /\u02c8a\u028at\u0259v\u02c8de\u026at/", "Definition: old; no longer valid or fashionable", "Synonyms: outdated, superannuated"]}
+{"data": ["2021-08-19T02:02:02.634148+00:00", 1255, "Your mother is", "stereo", "Pronunciation: /\u02c8st\u025brio\u028a/", "Definition: designating the reproduction of sound using two or more independent audio channels", "Synonyms: stereophonic, two-channel"]}
