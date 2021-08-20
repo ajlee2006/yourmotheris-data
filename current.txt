@@ -1,1 +1,1 @@
-{"data": ["2021-08-20T11:03:11.199771+00:00", 1288, "Your mother is", "wishy-washy", "Pronunciation: /\u02c8w\u026a\u0283\u026a\u02ccw\u0251\u0283i/", "Definition: weak in willpower, courage or vitality", "Synonyms: gutless, namby-pamby, spineless"]}
+{"data": ["2021-08-20T12:01:00.579577+00:00", 1289, "Your mother is", "authoritative", "Pronunciation: /\u0259\u02c8\u03b8\u0254r\u026a\u02ccte\u026at\u026av/", "Definition: having authority or ascendancy or influence", "Synonyms: important"]}
