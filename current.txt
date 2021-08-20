@@ -1,1 +1,1 @@
-{"data": ["2021-08-20T07:02:42.368072+00:00", 1284, "Your mother is", "unentitled", "Similar to: ineligible", "Definition: having no right or entitlement", "Synonyms: unqualified"]}
+{"data": ["2021-08-20T08:01:44.527159+00:00", 1285, "Your mother is", "spiraling", "Pronunciation: /\u02c8spa\u026ar\u028cl\u026a\u014b/", "Definition: in the shape of a coil", "Synonyms: coiling, helical, spiral, turbinate, volute, voluted, whorled"]}
