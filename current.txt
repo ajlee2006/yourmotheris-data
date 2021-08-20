@@ -1,1 +1,1 @@
-{"data": ["2021-08-20T01:03:06.300557+00:00", 1278, "Your mother is", "heterothermic", "Similar to: cold-blooded", "Definition: of animals except birds and mammals; having body temperature that varies with the environment", "Synonyms: ectothermic, poikilothermic, poikilothermous"]}
+{"data": ["2021-08-20T02:03:37.114446+00:00", 1279, "Your mother is", "beholden", "Pronunciation: /b\u026a\u02c8ho\u028ald\u0259n/", "Definition: under a moral obligation to someone", ""]}
