@@ -1,1 +1,1 @@
-{"data": ["2021-08-20T02:03:37.114446+00:00", 1279, "Your mother is", "beholden", "Pronunciation: /b\u026a\u02c8ho\u028ald\u0259n/", "Definition: under a moral obligation to someone", ""]}
+{"data": ["2021-08-20T03:04:27.317034+00:00", 1280, "Your mother is", "garden", "Pronunciation: /\u02c8\u0261\u0251rd\u0259n/", "Definition: the usual or familiar type", ""]}
