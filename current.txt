@@ -1,1 +1,1 @@
-{"data": ["2021-08-20T15:03:59.626142+00:00", 1292, "Your mother is", "endoergic", "Pronunciation: /\u02cc\u025bndo\u028a\u02c8\u025crd\u0292\u026ak/", "Definition: (of a nuclear reaction) occurring with absorption of energy", "Synonyms: energy-absorbing"]}
+{"data": ["2021-08-20T16:03:00.378820+00:00", 1293, "Your mother is", "tatty", "Pronunciation: /\u02c8t\u00e6ti/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tawdry, trashy"]}
