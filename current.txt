@@ -1,1 +1,1 @@
-{"data": ["2021-08-20T00:05:51.657804+00:00", 1277, "Your mother is", "outboard", "Pronunciation: /\u02c8a\u028at\u02ccbo\u028ard/", "Definition: located away from the midline of a vessel or aircraft", ""]}
+{"data": ["2021-08-20T01:03:06.300557+00:00", 1278, "Your mother is", "heterothermic", "Similar to: cold-blooded", "Definition: of animals except birds and mammals; having body temperature that varies with the environment", "Synonyms: ectothermic, poikilothermic, poikilothermous"]}
