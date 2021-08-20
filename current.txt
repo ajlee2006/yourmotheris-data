@@ -1,1 +1,1 @@
-{"data": ["2021-08-20T16:03:00.378820+00:00", 1293, "Your mother is", "tatty", "Pronunciation: /\u02c8t\u00e6ti/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tawdry, trashy"]}
+{"data": ["2021-08-20T17:02:27.375905+00:00", 1294, "Your mother is", "nonrhythmic", "Similar to: unrhythmic", "Definition: deliberately not rhythmic", ""]}
