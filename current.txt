@@ -1,1 +1,1 @@
-{"data": ["2021-08-20T03:04:27.317034+00:00", 1280, "Your mother is", "garden", "Pronunciation: /\u02c8\u0261\u0251rd\u0259n/", "Definition: the usual or familiar type", ""]}
+{"data": ["2021-08-20T04:03:54.268977+00:00", 1281, "Your mother is", "schoolwide", "Similar to: comprehensive", "Definition: occurring or extending throughout a school", ""]}
