@@ -1,1 +1,1 @@
-{"data": ["2021-08-20T08:01:44.527159+00:00", 1285, "Your mother is", "spiraling", "Pronunciation: /\u02c8spa\u026ar\u028cl\u026a\u014b/", "Definition: in the shape of a coil", "Synonyms: coiling, helical, spiral, turbinate, volute, voluted, whorled"]}
+{"data": ["2021-08-20T09:02:02.384838+00:00", 1286, "Your mother is", "romany", "Pronunciation: /\u02c8r\u0251m\u0259ni/", "Definition: of or relating to the Gypsies or their language or culture", "Synonyms: romani"]}
