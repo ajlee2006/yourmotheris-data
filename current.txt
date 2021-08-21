@@ -1,1 +1,1 @@
-{"data": ["2021-08-21T10:02:18.164816+00:00", 1311, "Your mother is", "conical", "Pronunciation: /\u02c8k\u0251n\u026a\u0259l/", "Definition: relating to or resembling a cone", "Synonyms: cone-shaped, conelike, conic"]}
+{"data": ["2021-08-21T11:01:39.545531+00:00", 1312, "Your mother is", "forcible", "Pronunciation: /\u02c8fo\u028ars\u0259b\u0259l/", "Definition: impelled by physical force especially against resistance", "Synonyms: physical, strong-arm"]}
