@@ -1,1 +1,1 @@
-{"data": ["2021-08-21T00:06:33.207312+00:00", 1301, "Your mother is", "morphologic", "", "Definition: relating to or concerned with the formation of admissible words in a language", "Synonyms: morphological"]}
+{"data": ["2021-08-21T01:02:21.846160+00:00", 1302, "Your mother is", "jurisdictional", "Pronunciation: /\u02ccd\u0292\u028ar\u028cs\u02c8d\u026ak\u0283\u028cn\u028cl/", "Definition: restricted to the geographic area under a particular jurisdiction", ""]}
