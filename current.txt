@@ -1,1 +1,1 @@
-{"data": ["2021-08-21T19:03:30.675619+00:00", 1320, "Your mother is", "unverified", "Pronunciation: /\u0259n\u02c8v\u025bri\u02ccfa\u026ad/", "Definition: lacking proof or substantiation", ""]}
+{"data": ["2021-08-21T20:03:14.265662+00:00", 1321, "Your mother is", "clean", "Pronunciation: /klin/", "Definition: free of restrictions or qualifications", "Synonyms: clear"]}
