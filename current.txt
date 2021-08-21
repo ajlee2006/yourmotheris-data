@@ -1,1 +1,1 @@
-{"data": ["2021-08-20T23:02:05.015547+00:00", 1300, "Your mother is", "xxi", "Similar to: cardinal", "Definition: being one more than twenty", "Synonyms: 21, twenty-one"]}
+{"data": ["2021-08-21T00:06:33.207312+00:00", 1301, "Your mother is", "morphologic", "", "Definition: relating to or concerned with the formation of admissible words in a language", "Synonyms: morphological"]}
