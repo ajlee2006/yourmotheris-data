@@ -1,1 +1,1 @@
-{"data": ["2021-08-21T20:03:14.265662+00:00", 1321, "Your mother is", "clean", "Pronunciation: /klin/", "Definition: free of restrictions or qualifications", "Synonyms: clear"]}
+{"data": ["2021-08-21T21:03:24.101987+00:00", 1322, "Your mother is", "greyish-blue", "Similar to: chromatic", "Definition: of blue tinged with grey", "Synonyms: gray-blue, grayish-blue, grey-blue"]}
