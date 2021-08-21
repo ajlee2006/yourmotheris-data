@@ -1,1 +1,1 @@
-{"data": ["2021-08-21T12:03:52.735480+00:00", 1313, "Your mother is", "alchemical", "Pronunciation: /\u00e6l\u02c8k\u025bm\u026ak\u0259l/", "Definition: related to or concerned with alchemy", "Synonyms: alchemic"]}
+{"data": ["2021-08-21T13:01:44.388037+00:00", 1314, "Your mother is", "adulterated", "Pronunciation: /\u028c\u02c8d\u028clt\u025dr\u02cce\u026at\u026ad/", "Definition: mixed with impurities", "Synonyms: adulterate, debased"]}
