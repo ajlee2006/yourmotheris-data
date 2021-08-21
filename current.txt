@@ -1,1 +1,1 @@
-{"data": ["2021-08-21T11:01:39.545531+00:00", 1312, "Your mother is", "forcible", "Pronunciation: /\u02c8fo\u028ars\u0259b\u0259l/", "Definition: impelled by physical force especially against resistance", "Synonyms: physical, strong-arm"]}
+{"data": ["2021-08-21T12:03:52.735480+00:00", 1313, "Your mother is", "alchemical", "Pronunciation: /\u00e6l\u02c8k\u025bm\u026ak\u0259l/", "Definition: related to or concerned with alchemy", "Synonyms: alchemic"]}
