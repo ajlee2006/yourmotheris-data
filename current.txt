@@ -1,1 +1,1 @@
-{"data": ["2021-08-21T15:01:07.880659+00:00", 1316, "Your mother is", "hemostatic", "Pronunciation: /\u02cchim\u0259\u02c8st\u00e6t\u026ak/", "Definition: tending to check bleeding by contracting the tissues or blood vessels", "Synonyms: styptic"]}
+{"data": ["2021-08-21T16:01:51.867177+00:00", 1317, "Your mother is", "nontraditional", "Pronunciation: /\u02ccn\u0251ntr\u028c\u02c8d\u026a\u0283\u028cn\u028cl/", "Definition: not conforming to or in accord with tradition", "Synonyms: untraditional"]}
