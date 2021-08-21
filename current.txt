@@ -1,1 +1,1 @@
-{"data": ["2021-08-21T18:01:44.650748+00:00", 1319, "Your mother is", "hole-in-corner", "Pronunciation: /\u02c8ho\u028al\u026an\u02c8k\u0254rn\u0259r/", "Definition: relating to the peripheral and unimportant aspects of life", "Synonyms: hole-and-corner"]}
+{"data": ["2021-08-21T19:03:30.675619+00:00", 1320, "Your mother is", "unverified", "Pronunciation: /\u0259n\u02c8v\u025bri\u02ccfa\u026ad/", "Definition: lacking proof or substantiation", ""]}
