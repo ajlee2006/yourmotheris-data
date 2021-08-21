@@ -1,1 +1,1 @@
-{"data": ["2021-08-21T05:03:05.956753+00:00", 1306, "Your mother is", "brownish-striped", "Similar to: patterned", "Definition: having brown stripes", "Synonyms: brown-striped"]}
+{"data": ["2021-08-21T06:03:35.215575+00:00", 1307, "Your mother is", "tensionless", "Similar to: lax", "Definition: free from tension", ""]}
