@@ -1,1 +1,1 @@
-{"data": ["2021-08-21T16:01:51.867177+00:00", 1317, "Your mother is", "nontraditional", "Pronunciation: /\u02ccn\u0251ntr\u028c\u02c8d\u026a\u0283\u028cn\u028cl/", "Definition: not conforming to or in accord with tradition", "Synonyms: untraditional"]}
+{"data": ["2021-08-21T17:01:18.521751+00:00", 1318, "Your mother is", "visually challenged", "Similar to: blind", "Definition: having greatly reduced vision", "Synonyms: dim-sighted, near-blind, purblind, sand-blind, visually impaired"]}
