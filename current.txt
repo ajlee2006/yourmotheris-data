@@ -1,1 +1,1 @@
-{"data": ["2021-08-21T17:01:18.521751+00:00", 1318, "Your mother is", "visually challenged", "Similar to: blind", "Definition: having greatly reduced vision", "Synonyms: dim-sighted, near-blind, purblind, sand-blind, visually impaired"]}
+{"data": ["2021-08-21T18:01:44.650748+00:00", 1319, "Your mother is", "hole-in-corner", "Pronunciation: /\u02c8ho\u028al\u026an\u02c8k\u0254rn\u0259r/", "Definition: relating to the peripheral and unimportant aspects of life", "Synonyms: hole-and-corner"]}
