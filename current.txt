@@ -1,1 +1,1 @@
-{"data": ["2021-08-22T07:01:03.670835+00:00", 1332, "Your mother is", "narrowing", "Pronunciation: /\u02c8n\u025bro\u028a\u026a\u014b/", "Definition: becoming gradually narrower", "Synonyms: tapered, tapering"]}
+{"data": ["2021-08-22T08:05:09.827040+00:00", 1333, "Your mother is", "pitched", "Pronunciation: /p\u026at\u0283t/", "Definition: set at a slant", ""]}
