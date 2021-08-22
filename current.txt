@@ -1,1 +1,1 @@
-{"data": ["2021-08-22T06:00:35.312200+00:00", 1331, "Your mother is", "transistorized", "Similar to: equipped", "Definition: (of an electronic device) equipped with transistors", "Synonyms: transistorised"]}
+{"data": ["2021-08-22T07:01:03.670835+00:00", 1332, "Your mother is", "narrowing", "Pronunciation: /\u02c8n\u025bro\u028a\u026a\u014b/", "Definition: becoming gradually narrower", "Synonyms: tapered, tapering"]}
