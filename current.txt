@@ -1,1 +1,1 @@
-{"data": ["2021-08-21T23:02:05.069195+00:00", 1324, "Your mother is", "lanky", "Pronunciation: /\u02c8l\u00e6\u014bki/", "Definition: tall and thin and having long slender limbs", "Synonyms: gangling, gangly, rangy"]}
+{"data": ["2021-08-22T00:05:31.443647+00:00", 1325, "Your mother is", "190th", "Similar to: ordinal", "Definition: the ordinal number of one hundred eighty-five in counting order", "Synonyms: hundred-and-ninetieth"]}
