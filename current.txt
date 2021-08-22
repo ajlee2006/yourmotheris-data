@@ -1,1 +1,1 @@
-{"data": ["2021-08-22T05:04:05.789531+00:00", 1330, "Your mother is", "overshot", "Pronunciation: /\u02c8o\u028av\u025dr\u02cc\u0283\u0251t/", "Definition: having an upper part projecting beyond the lower", ""]}
+{"data": ["2021-08-22T06:00:35.312200+00:00", 1331, "Your mother is", "transistorized", "Similar to: equipped", "Definition: (of an electronic device) equipped with transistors", "Synonyms: transistorised"]}
