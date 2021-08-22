@@ -1,1 +1,1 @@
-{"data": ["2021-08-22T20:03:59.455163+00:00", 1345, "Your mother is", "tiptop", "Pronunciation: /\u02c8t\u026ap\u02cct\u0251p/", "Definition: of the highest quality", "Synonyms: a-one, ace, crack, first-rate, super, top-notch, topnotch, tops"]}
+{"data": ["2021-08-22T21:03:22.971815+00:00", 1346, "Your mother is", "unaware", "Pronunciation: /\u02cc\u0259n\u0259\u02c8w\u025cr/", "Definition: (often followed by `of') not aware", "Synonyms: incognizant"]}
