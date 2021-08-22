@@ -1,1 +1,1 @@
-{"data": ["2021-08-22T12:02:03.229825+00:00", 1337, "Your mother is", "declarable", "Similar to: acknowledged", "Definition: that must be declared", ""]}
+{"data": ["2021-08-22T13:02:28.328386+00:00", 1338, "Your mother is", "tawny-brown", "Pronunciation: /\u02c8t\u0254ni-bra\u028an/", "Definition: of a light brown to brownish orange color; the color of tanned leather", "Synonyms: tawny"]}
