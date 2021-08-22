@@ -1,1 +1,1 @@
-{"data": ["2021-08-22T15:04:06.124779+00:00", 1340, "Your mother is", "optimal", "Pronunciation: /\u02c8\u0251pt\u0259m\u0259l/", "Definition: most desirable possible under a restriction expressed or implied", "Synonyms: optimum"]}
+{"data": ["2021-08-22T16:01:50.310025+00:00", 1341, "Your mother is", "shabby", "Pronunciation: /\u02c8\u0283\u00e6bi/", "Definition: showing signs of wear and tear", "Synonyms: moth-eaten, ratty, tatty"]}
