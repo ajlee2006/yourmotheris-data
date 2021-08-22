@@ -1,1 +1,1 @@
-{"data": ["2021-08-22T18:03:02.189383+00:00", 1343, "Your mother is", "revitalizing", "Pronunciation: /ri\u02c8va\u026at\u028c\u02ccla\u026az\u026a\u014b/", "Definition: tending to impart new life and vigor to", "Synonyms: renewing, restorative, revitalising, reviving"]}
+{"data": ["2021-08-22T19:02:52.777217+00:00", 1344, "Your mother is", "opencut", "Similar to: surface", "Definition: (of mines and mining) worked from the exposed surface", "Synonyms: opencast"]}
