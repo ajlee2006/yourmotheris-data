@@ -1,1 +1,1 @@
-{"data": ["2021-08-22T11:02:41.406305+00:00", 1336, "Your mother is", "gushy", "Pronunciation: /\u02c8\u0261\u0259\u0283i/", "Definition: extravagantly demonstrative", "Synonyms: effusive, gushing"]}
+{"data": ["2021-08-22T12:02:03.229825+00:00", 1337, "Your mother is", "declarable", "Similar to: acknowledged", "Definition: that must be declared", ""]}
