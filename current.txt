@@ -1,1 +1,1 @@
-{"data": ["2021-08-22T03:02:52.168279+00:00", 1328, "Your mother is", "ok", "Pronunciation: /o\u028a\u02c8ke\u026a/", "Definition: being satisfactory or in satisfactory condition", "Synonyms: all right, cool, fine, hunky-dory, o.k., okay"]}
+{"data": ["2021-08-22T04:03:16.678030+00:00", 1329, "Your mother is", "furled", "Similar to: bound", "Definition: rolled up and secured", "Synonyms: rolled"]}
