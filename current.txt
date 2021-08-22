@@ -1,1 +1,1 @@
-{"data": ["2021-08-22T02:02:19.599553+00:00", 1327, "Your mother is", "arborescent", "Pronunciation: /\u02cc\u0251rb\u0259\u02c8r\u025bs\u0259nt/", "Definition: resembling a tree in form and branching structure", "Synonyms: arboreal, arboreous, arboresque, arboriform, dendriform, dendroid, dendroidal, tree-shaped, treelike"]}
+{"data": ["2021-08-22T03:02:52.168279+00:00", 1328, "Your mother is", "ok", "Pronunciation: /o\u028a\u02c8ke\u026a/", "Definition: being satisfactory or in satisfactory condition", "Synonyms: all right, cool, fine, hunky-dory, o.k., okay"]}
