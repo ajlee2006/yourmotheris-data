@@ -1,1 +1,1 @@
-{"data": ["2021-08-22T17:02:34.976793+00:00", 1342, "Your mother is", "cinnamon-red", "Similar to: colored", "Definition: red tinged with cinnamon", ""]}
+{"data": ["2021-08-22T18:03:02.189383+00:00", 1343, "Your mother is", "revitalizing", "Pronunciation: /ri\u02c8va\u026at\u028c\u02ccla\u026az\u026a\u014b/", "Definition: tending to impart new life and vigor to", "Synonyms: renewing, restorative, revitalising, reviving"]}
