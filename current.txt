@@ -1,1 +1,1 @@
-{"data": ["2021-08-23T07:03:12.002790+00:00", 1356, "Your mother is", "endomorphic", "Pronunciation: /\u02cc\u025bnd\u0259\u02c8m\u0254rf\u026ak/", "Definition: having a squat and fleshy build", "Synonyms: pyknic"]}
+{"data": ["2021-08-23T08:03:06.091489+00:00", 1357, "Your mother is", "payable", "Pronunciation: /\u02c8pe\u026a\u0259bl/", "Definition: subject to or requiring payment especially as specified", "Synonyms: collectable, collectible"]}
