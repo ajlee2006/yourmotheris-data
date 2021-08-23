@@ -1,1 +1,1 @@
-{"data": ["2021-08-23T13:03:24.402610+00:00", 1362, "Your mother is", "full-time", "Pronunciation: /f\u028al-ta\u026am/", "Definition: for the entire time appropriate to an activity", ""]}
+{"data": ["2021-08-23T14:01:26.858104+00:00", 1363, "Your mother is", "scriptural", "Pronunciation: /\u02c8skr\u026ap\u02a7\u0259r\u0259l/", "Definition: of or pertaining to or contained in or in accordance with the Bible", "Synonyms: biblical"]}
