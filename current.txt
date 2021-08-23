@@ -1,1 +1,1 @@
-{"data": ["2021-08-23T04:02:26.753320+00:00", 1353, "Your mother is", "bifoliate", "Pronunciation: /ba\u026a\u02c8fo\u028ali\u026at/", "Definition: having two leaves", ""]}
+{"data": ["2021-08-23T05:03:14.075276+00:00", 1354, "Your mother is", "calendered", "Similar to: glazed", "Definition: (of paper and fabric and leather) having a surface made smooth and shiny especially by pressing between rollers", "Synonyms: glossy"]}
