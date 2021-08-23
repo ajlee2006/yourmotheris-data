@@ -1,1 +1,1 @@
-{"data": ["2021-08-23T19:03:43.508035+00:00", 1368, "Your mother is", "undisturbed", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8st\u025crbd/", "Definition: untroubled by interference or disturbance", ""]}
+{"data": ["2021-08-23T20:00:41.955538+00:00", 1369, "Your mother is", "inaugural", "Pronunciation: /\u026an\u02c8\u0254\u0261j\u0259r\u0259l/", "Definition: serving to set in motion", "Synonyms: first, initiative, initiatory, maiden"]}
