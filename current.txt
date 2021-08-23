@@ -1,1 +1,1 @@
-{"data": ["2021-08-23T11:04:41.562874+00:00", 1360, "Your mother is", "porticoed", "Pronunciation: /\u02c8po\u028art\u0259\u02ccko\u028ad/", "Definition: marked by columniation having free columns in porticoes either at both ends or at both sides of a structure", "Synonyms: amphiprostylar, amphiprostyle, amphistylar"]}
+{"data": ["2021-08-23T12:03:42.662245+00:00", 1361, "Your mother is", "adducting", "", "Definition: especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part", "Synonyms: adducent, adductive"]}
