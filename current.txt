@@ -1,1 +1,1 @@
-{"data": ["2021-08-23T00:06:28.908299+00:00", 1349, "Your mother is", "stormproof", "Similar to: protected", "Definition: protected against or able to withstand storms", ""]}
+{"data": ["2021-08-23T01:01:51.647144+00:00", 1350, "Your mother is", "agrarian", "Pronunciation: /\u0259\u02c8gr\u025cri\u0259n/", "Definition: relating to farming or agriculture", "Synonyms: agricultural, farming"]}
