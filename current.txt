@@ -1,1 +1,1 @@
-{"data": ["2021-08-23T10:02:55.379821+00:00", 1359, "Your mother is", "sixty-eight", "Pronunciation: /\u02c8s\u026aksti-\u02c8e\u026at/", "Definition: being eight more than sixty", "Synonyms: 68, lxviii"]}
+{"data": ["2021-08-23T11:04:41.562874+00:00", 1360, "Your mother is", "porticoed", "Pronunciation: /\u02c8po\u028art\u0259\u02ccko\u028ad/", "Definition: marked by columniation having free columns in porticoes either at both ends or at both sides of a structure", "Synonyms: amphiprostylar, amphiprostyle, amphistylar"]}
