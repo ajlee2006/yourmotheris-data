@@ -1,1 +1,1 @@
-{"data": ["2021-08-23T17:01:22.067816+00:00", 1366, "Your mother is", "gettable", "Similar to: available", "Definition: capable of being obtained", "Synonyms: getable, obtainable, procurable"]}
+{"data": ["2021-08-23T18:02:46.328952+00:00", 1367, "Your mother is", "unaddicted", "Similar to: clean", "Definition: not addicted", ""]}
