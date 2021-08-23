@@ -1,1 +1,1 @@
-{"data": ["2021-08-23T08:03:06.091489+00:00", 1357, "Your mother is", "payable", "Pronunciation: /\u02c8pe\u026a\u0259bl/", "Definition: subject to or requiring payment especially as specified", "Synonyms: collectable, collectible"]}
+{"data": ["2021-08-23T09:03:11.490291+00:00", 1358, "Your mother is", "myotic", "Pronunciation: /ma\u026a\u02c8\u0251t\u026ak/", "Definition: of or relating to or causing constriction of the pupil of the eye", "Synonyms: miotic"]}
