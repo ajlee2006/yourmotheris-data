@@ -1,1 +1,1 @@
-{"data": ["2021-08-23T06:04:55.896542+00:00", 1355, "Your mother is", "subterranean", "Pronunciation: /\u02ccs\u0259bt\u0259\u02c8re\u026ani\u0259n/", "Definition: lying beyond what is openly revealed or avowed (especially being kept in the background or deliberately concealed)", "Synonyms: subterraneous, ulterior"]}
+{"data": ["2021-08-23T07:03:12.002790+00:00", 1356, "Your mother is", "endomorphic", "Pronunciation: /\u02cc\u025bnd\u0259\u02c8m\u0254rf\u026ak/", "Definition: having a squat and fleshy build", "Synonyms: pyknic"]}
