@@ -1,1 +1,1 @@
-{"data": ["2021-08-23T16:01:09.942809+00:00", 1365, "Your mother is", "crippling", "Pronunciation: /\u02c8kr\u026ap\u028cl\u026a\u014b/", "Definition: that cripples or disables or incapacitates", "Synonyms: disabling, incapacitating"]}
+{"data": ["2021-08-23T17:01:22.067816+00:00", 1366, "Your mother is", "gettable", "Similar to: available", "Definition: capable of being obtained", "Synonyms: getable, obtainable, procurable"]}
