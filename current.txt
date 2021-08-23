@@ -1,1 +1,1 @@
-{"data": ["2021-08-23T02:03:09.916274+00:00", 1351, "Your mother is", "halting", "Pronunciation: /\u02c8h\u0254lt\u026a\u014b/", "Definition: disabled in the feet or legs", "Synonyms: crippled, game, gimpy, halt, lame"]}
+{"data": ["2021-08-23T03:04:00.270549+00:00", 1352, "Your mother is", "traversable", "Similar to: passable", "Definition: capable of being traversed", "Synonyms: travelable"]}
