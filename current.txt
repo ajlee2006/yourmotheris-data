@@ -1,1 +1,1 @@
-{"data": ["2021-08-23T21:03:20.979749+00:00", 1370, "Your mother is", "unsharpened", "Pronunciation: /\u028cn\u02c8\u0283\u0251rp\u028cnd/", "Definition: not sharpened", ""]}
+{"data": ["2021-08-23T22:02:21.727125+00:00", 1371, "Your mother is", "bivalved", "Similar to: lamellibranch", "Definition: used of mollusks having two shells (as clams etc.)", "Synonyms: bivalve"]}
