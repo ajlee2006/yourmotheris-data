@@ -1,1 +1,1 @@
-{"data": ["2021-08-24T01:03:36.698018+00:00", 1374, "Your mother is", "conglomerate", "Pronunciation: /k\u0259n\u02c8gl\u0251m\u0259\u02ccre\u026at/", "Definition: composed of heterogeneous elements gathered into a mass", ""]}
+{"data": ["2021-08-24T02:04:50.781160+00:00", 1375, "Your mother is", "gallic", "Pronunciation: /\u02c8\u0261\u00e6l\u026ak/", "Definition: of or pertaining to France or the people of France", "Synonyms: french"]}
