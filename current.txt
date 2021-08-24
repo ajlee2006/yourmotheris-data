@@ -1,1 +1,1 @@
-{"data": ["2021-08-24T08:01:53.113926+00:00", 1381, "Your mother is", "bleak", "Pronunciation: /blik/", "Definition: providing no shelter or sustenance", "Synonyms: bare, barren, desolate, stark"]}
+{"data": ["2021-08-24T09:04:22.019268+00:00", 1382, "Your mother is", "tenderized", "Similar to: tender", "Definition: made tender as by marinating or pounding", "Synonyms: tenderised"]}
