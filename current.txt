@@ -1,1 +1,1 @@
-{"data": ["2021-08-24T07:03:06.881221+00:00", 1380, "Your mother is", "well-advised", "Pronunciation: /w\u025bl-\u00e6d\u02c8va\u026azd/", "Definition: having the benefit of careful prior consideration or counsel", "Synonyms: advised"]}
+{"data": ["2021-08-24T08:01:53.113926+00:00", 1381, "Your mother is", "bleak", "Pronunciation: /blik/", "Definition: providing no shelter or sustenance", "Synonyms: bare, barren, desolate, stark"]}
