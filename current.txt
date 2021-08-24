@@ -1,1 +1,1 @@
-{"data": ["2021-08-24T05:01:10.484156+00:00", 1378, "Your mother is", "glacial", "Pronunciation: /\u02c8gle\u026a\u0283\u0259l/", "Definition: devoid of warmth and cordiality; expressive of unfriendliness or disdain", "Synonyms: frigid, frosty, frozen, icy, wintry"]}
+{"data": ["2021-08-24T06:03:16.881057+00:00", 1379, "Your mother is", "accordant", "Pronunciation: /\u0259\u02c8k\u0254rd\u0259nt/", "Definition: in keeping", "Synonyms: agreeable, concordant, conformable, consonant"]}
