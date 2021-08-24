@@ -1,1 +1,1 @@
-{"data": ["2021-08-24T15:04:28.128425+00:00", 1388, "Your mother is", "chemic", "Pronunciation: /\u02c8k\u025bm\u026ak/", "Definition: relating to or used in chemistry", "Synonyms: chemical"]}
+{"data": ["2021-08-24T16:04:34.355912+00:00", 1389, "Your mother is", "oligarchic", "Pronunciation: /\u02cc\u0251l\u0259\u02c8\u0261\u0251rk\u026ak/", "Definition: of or relating to or supporting or characteristic of an oligarchy", "Synonyms: oligarchical"]}
