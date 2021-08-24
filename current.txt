@@ -1,1 +1,1 @@
-{"data": ["2021-08-24T17:01:00.517567+00:00", 1390, "Your mother is", "shamanistic", "", "Definition: of or relating to shamanism", "Synonyms: shamanist"]}
+{"data": ["2021-08-24T18:03:02.528116+00:00", 1391, "Your mother is", "decomposable", "Similar to: complex", "Definition: capable of being partitioned", "Synonyms: analyzable"]}
