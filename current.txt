@@ -1,1 +1,1 @@
-{"data": ["2021-08-24T16:04:34.355912+00:00", 1389, "Your mother is", "oligarchic", "Pronunciation: /\u02cc\u0251l\u0259\u02c8\u0261\u0251rk\u026ak/", "Definition: of or relating to or supporting or characteristic of an oligarchy", "Synonyms: oligarchical"]}
+{"data": ["2021-08-24T17:01:00.517567+00:00", 1390, "Your mother is", "shamanistic", "", "Definition: of or relating to shamanism", "Synonyms: shamanist"]}
