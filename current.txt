@@ -1,1 +1,1 @@
-{"data": ["2021-08-24T04:00:22.173083+00:00", 1377, "Your mother is", "eleven", "Pronunciation: /\u026a\u02c8l\u025bv\u0259n/", "Definition: being one more than ten", "Synonyms: 11, xi"]}
+{"data": ["2021-08-24T05:01:10.484156+00:00", 1378, "Your mother is", "glacial", "Pronunciation: /\u02c8gle\u026a\u0283\u0259l/", "Definition: devoid of warmth and cordiality; expressive of unfriendliness or disdain", "Synonyms: frigid, frosty, frozen, icy, wintry"]}
