@@ -1,1 +1,1 @@
-{"data": ["2021-08-24T11:02:26.001232+00:00", 1384, "Your mother is", "unrecognizable", "Pronunciation: /\u0259n\u02c8r\u025bk\u0259\u0261\u02ccna\u026az\u0259b\u0259l/", "Definition: defying recognition as e.g. because of damage or alteration", "Synonyms: unrecognisable"]}
+{"data": ["2021-08-24T12:02:33.334214+00:00", 1385, "Your mother is", "plain-woven", "Similar to: woven", "Definition: (of cloth) made in plain weave", ""]}
