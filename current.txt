@@ -1,1 +1,1 @@
-{"data": ["2021-08-24T18:03:02.528116+00:00", 1391, "Your mother is", "decomposable", "Similar to: complex", "Definition: capable of being partitioned", "Synonyms: analyzable"]}
+{"data": ["2021-08-24T19:00:59.346630+00:00", 1392, "Your mother is", "bacillary", "Pronunciation: /\u02c8b\u00e6s\u0259\u02ccl\u025bri/", "Definition: relating to or produced by or containing bacilli", "Synonyms: bacillar"]}
