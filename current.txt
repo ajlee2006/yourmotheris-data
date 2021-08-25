@@ -1,1 +1,1 @@
-{"data": ["2021-08-25T03:04:49.264274+00:00", 1400, "Your mother is", "hoarse", "Pronunciation: /ho\u028ars/", "Definition: deep and harsh sounding as if from shouting or illness or emotion", "Synonyms: gruff, husky"]}
+{"data": ["2021-08-25T04:00:35.659583+00:00", 1401, "Your mother is", "immunogenic", "Pronunciation: /\u02cc\u026amj\u0259no\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: possessing the ability to elicit an immune response", ""]}
