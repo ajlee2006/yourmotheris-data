@@ -1,1 +1,1 @@
-{"data": ["2021-08-25T04:00:35.659583+00:00", 1401, "Your mother is", "immunogenic", "Pronunciation: /\u02cc\u026amj\u0259no\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: possessing the ability to elicit an immune response", ""]}
+{"data": ["2021-08-25T05:04:21.412520+00:00", 1402, "Your mother is", "flecked", "Similar to: patterned", "Definition: having a pattern of dots", "Synonyms: dotted, specked, speckled, stippled"]}
