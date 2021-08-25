@@ -1,1 +1,1 @@
-{"data": ["2021-08-25T10:01:16.094960+00:00", 1407, "Your mother is", "categorematic", "Similar to: autosemantic", "Definition: of a term or phrase capable of standing as the subject or (especially) the predicate of a proposition", ""]}
+{"data": ["2021-08-25T11:03:22.967693+00:00", 1408, "Your mother is", "unsecured", "Pronunciation: /\u02cc\u0259ns\u026a\u02c8kj\u028ard/", "Definition: without financial security", "Synonyms: unguaranteed"]}
