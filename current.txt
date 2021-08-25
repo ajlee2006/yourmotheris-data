@@ -1,1 +1,1 @@
-{"data": ["2021-08-25T09:02:24.373470+00:00", 1406, "Your mother is", "faint-hearted", "Similar to: cowardly", "Definition: lacking conviction or boldness or courage", "Synonyms: faint, fainthearted, timid"]}
+{"data": ["2021-08-25T10:01:16.094960+00:00", 1407, "Your mother is", "categorematic", "Similar to: autosemantic", "Definition: of a term or phrase capable of standing as the subject or (especially) the predicate of a proposition", ""]}
