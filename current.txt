@@ -1,1 +1,1 @@
-{"data": ["2021-08-25T20:02:13.638648+00:00", 1417, "Your mother is", "representative", "Pronunciation: /\u02ccr\u025bpr\u026a\u02c8z\u025bnt\u0259t\u026av/", "Definition: being or characteristic of government by representation in which citizens exercise power through elected officers and representatives", ""]}
+{"data": ["2021-08-25T21:02:32.869900+00:00", 1418, "Your mother is", "decompound", "Pronunciation: /\u02ccdik\u0259m\u02c8pa\u028and/", "Definition: of a compound leaf; consisting of divisions that are themselves compound", ""]}
