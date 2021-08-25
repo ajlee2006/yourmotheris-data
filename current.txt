@@ -1,1 +1,1 @@
-{"data": ["2021-08-25T02:03:27.421450+00:00", 1399, "Your mother is", "lucullan", "Pronunciation: /lu\u02c8k\u0259l\u0259n/", "Definition: characterized by extravagance and profusion", "Synonyms: lavish, plush, plushy"]}
+{"data": ["2021-08-25T03:04:49.264274+00:00", 1400, "Your mother is", "hoarse", "Pronunciation: /ho\u028ars/", "Definition: deep and harsh sounding as if from shouting or illness or emotion", "Synonyms: gruff, husky"]}
