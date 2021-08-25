@@ -1,1 +1,1 @@
-{"data": ["2021-08-25T19:01:50.880114+00:00", 1416, "Your mother is", "tragical", "Similar to: sad", "Definition: very sad; especially involving grief or death or destruction", "Synonyms: tragic"]}
+{"data": ["2021-08-25T20:02:13.638648+00:00", 1417, "Your mother is", "representative", "Pronunciation: /\u02ccr\u025bpr\u026a\u02c8z\u025bnt\u0259t\u026av/", "Definition: being or characteristic of government by representation in which citizens exercise power through elected officers and representatives", ""]}
