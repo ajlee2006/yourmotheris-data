@@ -1,1 +1,1 @@
-{"data": ["2021-08-25T00:03:31.327421+00:00", 1397, "Your mother is", "western", "Pronunciation: /\u02c8w\u025bst\u0259rn/", "Definition: of wind; from the west", "Synonyms: westerly"]}
+{"data": ["2021-08-25T01:01:27.279918+00:00", 1398, "Your mother is", "harnessed", "Pronunciation: /\u02c8h\u0251rn\u028cst/", "Definition: brought under control and put to use", ""]}
