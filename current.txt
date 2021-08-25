@@ -1,1 +1,1 @@
-{"data": ["2021-08-25T15:01:48.286356+00:00", 1412, "Your mother is", "horizontal", "Pronunciation: /\u02cch\u0254r\u026a\u02c8z\u0251nt\u0259l/", "Definition: parallel to or in the plane of the horizon or a base line", ""]}
+{"data": ["2021-08-25T16:03:28.161275+00:00", 1413, "Your mother is", "abundant", "Pronunciation: /\u0259\u02c8b\u0259nd\u0259nt/", "Definition: present in great quantity", ""]}
