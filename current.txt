@@ -1,1 +1,1 @@
-{"data": ["2021-08-26T11:03:44.331910+00:00", 1431, "Your mother is", "mistreated", "Pronunciation: /m\u026as\u02c8trit\u026ad/", "Definition: subjected to cruel treatment", "Synonyms: abused, ill-treated, maltreated"]}
+{"data": ["2021-08-26T12:04:07.218566+00:00", 1432, "Your mother is", "pampering", "Pronunciation: /\u02c8p\u00e6mp\u025dr\u026a\u014b/", "Definition: gratifying tastes, appetites, or desires", ""]}
