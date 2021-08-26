@@ -1,1 +1,1 @@
-{"data": ["2021-08-25T23:00:19.296852+00:00", 1419, "Your mother is", "knocked-out", "Similar to: damaged", "Definition: damaged", ""]}
+{"data": ["2021-08-26T00:05:08.804588+00:00", 1420, "Your mother is", "unwedded", "Pronunciation: /\u0259n\u02c8w\u025bd\u026ad/", "Definition: of someone who has not been married", "Synonyms: unwed"]}
