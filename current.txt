@@ -1,1 +1,1 @@
-{"data": ["2021-08-26T09:01:48.696937+00:00", 1429, "Your mother is", "passionless", "Pronunciation: /\u02c8p\u00e6\u0283\u0259nl\u026as/", "Definition: unmoved by feeling", "Synonyms: emotionless"]}
+{"data": ["2021-08-26T10:03:34.476015+00:00", 1430, "Your mother is", "waspish", "Pronunciation: /\u02c8w\u0251sp\u026a\u0283/", "Definition: very irritable", "Synonyms: bristly, prickly, splenetic"]}
