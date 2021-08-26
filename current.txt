@@ -1,1 +1,1 @@
-{"data": ["2021-08-26T16:01:42.929669+00:00", 1436, "Your mother is", "incessant", "Pronunciation: /\u026an\u02c8s\u025bs\u0259nt/", "Definition: uninterrupted in time and indefinitely long continuing", "Synonyms: ceaseless, constant, never-ending, perpetual, unceasing, unremitting"]}
+{"data": ["2021-08-26T17:01:56.515228+00:00", 1437, "Your mother is", "nicene", "Pronunciation: /na\u026a\u02c8sin/", "Definition: of or relating to the ancient city of Nicaea in Asia Minor", "Synonyms: nicaean"]}
