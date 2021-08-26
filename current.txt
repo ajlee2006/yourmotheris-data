@@ -1,1 +1,1 @@
-{"data": ["2021-08-26T18:03:40.934272+00:00", 1438, "Your mother is", "detestable", "Pronunciation: /d\u026a\u02c8t\u025bst\u0259b\u0259l/", "Definition: unequivocally detestable", "Synonyms: abominable, execrable, odious"]}
+{"data": ["2021-08-26T19:03:43.492588+00:00", 1439, "Your mother is", "hesperian", "Pronunciation: /h\u025b\u02c8spiri\u0259n/", "Definition: denoting or characteristic of countries of Europe and the western hemisphere", "Synonyms: occidental"]}
