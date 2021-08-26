@@ -1,1 +1,1 @@
-{"data": ["2021-08-26T20:02:38.327776+00:00", 1441, "Your mother is", "tactless", "Pronunciation: /\u02c8t\u00e6ktl\u026as/", "Definition: lacking or showing a lack of what is fitting and considerate in dealing with others", "Synonyms: untactful"]}
+{"data": ["2021-08-26T21:01:54.586642+00:00", 1442, "Your mother is", "labile", "Pronunciation: /\u02c8le\u026ab\u026al/", "Definition: (chemistry, physics, biology) readily undergoing change or breakdown", ""]}
