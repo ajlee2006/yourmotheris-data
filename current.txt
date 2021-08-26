@@ -1,1 +1,1 @@
-{"data": ["2021-08-26T19:05:15.689324+00:00", 1440, "Your mother is", "walk-on", "Pronunciation: /w\u0254k-\u0251n/", "Definition: not capable of or especially not involving speech or spoken lines", "Synonyms: nonspeaking"]}
+{"data": ["2021-08-26T20:02:38.327776+00:00", 1441, "Your mother is", "tactless", "Pronunciation: /\u02c8t\u00e6ktl\u026as/", "Definition: lacking or showing a lack of what is fitting and considerate in dealing with others", "Synonyms: untactful"]}
