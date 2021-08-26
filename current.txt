@@ -1,1 +1,1 @@
-{"data": ["2021-08-26T10:03:34.476015+00:00", 1430, "Your mother is", "waspish", "Pronunciation: /\u02c8w\u0251sp\u026a\u0283/", "Definition: very irritable", "Synonyms: bristly, prickly, splenetic"]}
+{"data": ["2021-08-26T11:03:44.331910+00:00", 1431, "Your mother is", "mistreated", "Pronunciation: /m\u026as\u02c8trit\u026ad/", "Definition: subjected to cruel treatment", "Synonyms: abused, ill-treated, maltreated"]}
