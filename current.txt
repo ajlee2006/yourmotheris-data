@@ -1,1 +1,1 @@
-{"data": ["2021-08-26T14:02:35.301377+00:00", 1434, "Your mother is", "recognizable", "Pronunciation: /\u02c8r\u025bk\u0259\u0261\u02ccna\u026az\u0259b\u0259l/", "Definition: capable of being recognized", "Synonyms: placeable, recognisable"]}
+{"data": ["2021-08-26T15:00:27.132860+00:00", 1435, "Your mother is", "28", "Similar to: cardinal", "Definition: being eight more than twenty", "Synonyms: twenty-eight, xxviii"]}
