@@ -1,1 +1,1 @@
-{"data": ["2021-08-26T05:03:47.838158+00:00", 1425, "Your mother is", "silenced", "Pronunciation: /\u02c8sa\u026al\u028cnst/", "Definition: reduced to silence", ""]}
+{"data": ["2021-08-26T06:02:16.833654+00:00", 1426, "Your mother is", "decussate", "Pronunciation: /d\u026a\u02c8k\u0259se\u026at/", "Definition: crossed or intersected in the form of an X", "Synonyms: intersectant, intersecting"]}
