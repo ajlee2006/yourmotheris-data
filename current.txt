@@ -1,1 +1,1 @@
-{"data": ["2021-08-26T12:04:07.218566+00:00", 1432, "Your mother is", "pampering", "Pronunciation: /\u02c8p\u00e6mp\u025dr\u026a\u014b/", "Definition: gratifying tastes, appetites, or desires", ""]}
+{"data": ["2021-08-26T13:02:16.732765+00:00", 1433, "Your mother is", "felicitous", "Pronunciation: /f\u026a\u02c8l\u026as\u026at\u0259s/", "Definition: marked by good fortune", "Synonyms: happy"]}
