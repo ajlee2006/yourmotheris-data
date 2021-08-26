@@ -1,1 +1,1 @@
-{"data": ["2021-08-26T06:02:16.833654+00:00", 1426, "Your mother is", "decussate", "Pronunciation: /d\u026a\u02c8k\u0259se\u026at/", "Definition: crossed or intersected in the form of an X", "Synonyms: intersectant, intersecting"]}
+{"data": ["2021-08-26T07:02:39.413299+00:00", 1427, "Your mother is", "anticancer", "Pronunciation: /\u02cc\u00e6n\u02ccta\u026a\u02c8k\u00e6ns\u025dr/", "Definition: used in the treatment of cancer", "Synonyms: antineoplastic, antitumor, antitumour"]}
