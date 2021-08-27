@@ -1,1 +1,1 @@
-{"data": ["2021-08-27T02:02:11.590264+00:00", 1447, "Your mother is", "inoperable", "Pronunciation: /\u026an\u02c8\u0251p\u0259r\u0259b\u0259l/", "Definition: not able to perform its normal function", ""]}
+{"data": ["2021-08-27T03:04:18.915739+00:00", 1448, "Your mother is", "elephantine", "Pronunciation: /\u02cc\u025bl\u0259\u02c8f\u00e6nt\u026an/", "Definition: of great mass; huge and bulky", "Synonyms: gargantuan, giant, jumbo"]}
