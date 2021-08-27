@@ -1,1 +1,1 @@
-{"data": ["2021-08-27T16:01:54.929463+00:00", 1461, "Your mother is", "ii", "Similar to: cardinal", "Definition: being one more than one", "Synonyms: 2, two"]}
+{"data": ["2021-08-27T17:02:46.398218+00:00", 1462, "Your mother is", "rushy", "Pronunciation: /\u02c8r\u0259\u0283i/", "Definition: abounding in rushes", ""]}
