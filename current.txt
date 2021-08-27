@@ -1,1 +1,1 @@
-{"data": ["2021-08-27T07:02:05.508030+00:00", 1452, "Your mother is", "stubborn", "Pronunciation: /\u02c8st\u0259b\u0259rn/", "Definition: not responding to treatment", "Synonyms: refractory"]}
+{"data": ["2021-08-27T08:04:53.563247+00:00", 1453, "Your mother is", "biliary", "Pronunciation: /\u02c8b\u026ali\u02cc\u025bri/", "Definition: relating to or containing bile", "Synonyms: bilious"]}
