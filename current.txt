@@ -1,1 +1,1 @@
-{"data": ["2021-08-27T04:04:02.031729+00:00", 1449, "Your mother is", "grizzly", "Pronunciation: /\u02c8gr\u026azli/", "Definition: showing characteristics of age, especially having grey or white hair", "Synonyms: gray, gray-haired, gray-headed, grey, grey-haired, grey-headed, hoar, hoary, white-haired"]}
+{"data": ["2021-08-27T05:02:30.312453+00:00", 1450, "Your mother is", "antimonopoly", "Similar to: fair", "Definition: of laws and regulations; designed to protect trade and commerce from unfair business practices", "Synonyms: antitrust"]}
