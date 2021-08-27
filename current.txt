@@ -1,1 +1,1 @@
-{"data": ["2021-08-26T23:02:32.168032+00:00", 1444, "Your mother is", "well-balanced", "Pronunciation: /w\u025bl-\u02c8b\u00e6l\u0259nst/", "Definition: free from psychological disorder", "Synonyms: well-adjusted"]}
+{"data": ["2021-08-27T00:04:29.947233+00:00", 1445, "Your mother is", "timeworn", "Pronunciation: /\u02c8ta\u026am\u02ccwo\u028arn/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, tired, trite, well-worn"]}
