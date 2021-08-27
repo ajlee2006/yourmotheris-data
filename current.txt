@@ -1,1 +1,1 @@
-{"data": ["2021-08-27T11:00:56.412381+00:00", 1456, "Your mother is", "beginning", "Pronunciation: /b\u026a\u02c8\u0261\u026an\u026a\u014b/", "Definition: serving to begin", "Synonyms: first"]}
+{"data": ["2021-08-27T12:02:09.842714+00:00", 1457, "Your mother is", "bimotored", "Pronunciation: /ba\u026a\u02c8mo\u028at\u0259rd/", "Definition: having two motors", ""]}
