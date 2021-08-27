@@ -1,1 +1,1 @@
-{"data": ["2021-08-27T03:04:18.915739+00:00", 1448, "Your mother is", "elephantine", "Pronunciation: /\u02cc\u025bl\u0259\u02c8f\u00e6nt\u026an/", "Definition: of great mass; huge and bulky", "Synonyms: gargantuan, giant, jumbo"]}
+{"data": ["2021-08-27T04:04:02.031729+00:00", 1449, "Your mother is", "grizzly", "Pronunciation: /\u02c8gr\u026azli/", "Definition: showing characteristics of age, especially having grey or white hair", "Synonyms: gray, gray-haired, gray-headed, grey, grey-haired, grey-headed, hoar, hoary, white-haired"]}
