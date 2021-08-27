@@ -1,1 +1,1 @@
-{"data": ["2021-08-27T12:02:09.842714+00:00", 1457, "Your mother is", "bimotored", "Pronunciation: /ba\u026a\u02c8mo\u028at\u0259rd/", "Definition: having two motors", ""]}
+{"data": ["2021-08-27T13:01:35.941976+00:00", 1458, "Your mother is", "bombproof", "Pronunciation: /\u02c8b\u0251m\u02ccpruf/", "Definition: able to resist the explosive force of bombs and shells", "Synonyms: shellproof"]}
