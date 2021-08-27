@@ -1,1 +1,1 @@
-{"data": ["2021-08-27T18:04:56.941071+00:00", 1463, "Your mother is", "unclassified", "Pronunciation: /\u0259n\u02c8kl\u00e6s\u0259\u02ccfa\u026ad/", "Definition: not arranged in any specific grouping", ""]}
+{"data": ["2021-08-27T19:04:13.923434+00:00", 1464, "Your mother is", "2", "Similar to: cardinal", "Definition: being one more than one", "Synonyms: ii, two"]}
