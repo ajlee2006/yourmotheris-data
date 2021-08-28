@@ -1,1 +1,1 @@
-{"data": ["2021-08-28T15:04:09.626121+00:00", 1484, "Your mother is", "defending", "Pronunciation: /d\u026a\u02c8f\u025bnd\u026a\u014b/", "Definition: attempting to or designed to prevent an opponent from winning or scoring", ""]}
+{"data": ["2021-08-28T16:02:06.233825+00:00", 1485, "Your mother is", "abuzz", "Pronunciation: /\u0259\u02c8b\u0259z/", "Definition: noisy like the sound of a bee", "Synonyms: buzzing"]}
