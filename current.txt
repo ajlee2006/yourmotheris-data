@@ -1,1 +1,1 @@
-{"data": ["2021-08-28T18:02:44.652311+00:00", 1487, "Your mother is", "spry", "Pronunciation: /spra\u026a/", "Definition: moving quickly and lightly", "Synonyms: agile, nimble, quick"]}
+{"data": ["2021-08-28T19:02:02.718774+00:00", 1488, "Your mother is", "thornless", "Similar to: unarmed", "Definition: lacking thorns", "Synonyms: spineless"]}
