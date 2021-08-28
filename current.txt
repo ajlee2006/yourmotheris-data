@@ -1,1 +1,1 @@
-{"data": ["2021-08-28T14:01:49.139890+00:00", 1483, "Your mother is", "unshaken", "Pronunciation: /\u0259n\u02c8\u0283e\u026ak\u0259n/", "Definition: unshaken in purpose", "Synonyms: undaunted, undismayed"]}
+{"data": ["2021-08-28T15:04:09.626121+00:00", 1484, "Your mother is", "defending", "Pronunciation: /d\u026a\u02c8f\u025bnd\u026a\u014b/", "Definition: attempting to or designed to prevent an opponent from winning or scoring", ""]}
