@@ -1,1 +1,1 @@
-{"data": ["2021-08-28T03:02:22.502908+00:00", 1472, "Your mother is", "armored", "Pronunciation: /\u02c8\u0251rm\u0259rd/", "Definition: equipped with the complete arms and armor of a warrior", "Synonyms: panoplied"]}
+{"data": ["2021-08-28T04:03:34.313750+00:00", 1473, "Your mother is", "short-run", "Similar to: short", "Definition: relating to or extending over a limited period", "Synonyms: short-term"]}
