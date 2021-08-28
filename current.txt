@@ -1,1 +1,1 @@
-{"data": ["2021-08-28T13:00:19.968363+00:00", 1482, "Your mother is", "unbalanced", "Pronunciation: /\u0259n\u02c8b\u00e6l\u0259nst/", "Definition: affected with madness or insanity", "Synonyms: brainsick, crazy, demented, disturbed, mad, sick, unhinged"]}
+{"data": ["2021-08-28T14:01:49.139890+00:00", 1483, "Your mother is", "unshaken", "Pronunciation: /\u0259n\u02c8\u0283e\u026ak\u0259n/", "Definition: unshaken in purpose", "Synonyms: undaunted, undismayed"]}
