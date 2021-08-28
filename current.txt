@@ -1,1 +1,1 @@
-{"data": ["2021-08-28T02:01:40.320835+00:00", 1471, "Your mother is", "saccharine", "Pronunciation: /\u02c8s\u00e6k\u0259r\u026an/", "Definition: overly sweet", "Synonyms: cloying, syrupy, treacly"]}
+{"data": ["2021-08-28T03:02:22.502908+00:00", 1472, "Your mother is", "armored", "Pronunciation: /\u02c8\u0251rm\u0259rd/", "Definition: equipped with the complete arms and armor of a warrior", "Synonyms: panoplied"]}
