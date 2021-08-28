@@ -1,1 +1,1 @@
-{"data": ["2021-08-28T09:03:52.145743+00:00", 1478, "Your mother is", "snaky", "Pronunciation: /\u02c8sne\u026aki/", "Definition: resembling a serpent in form", "Synonyms: serpentine, snakelike"]}
+{"data": ["2021-08-28T10:01:48.024765+00:00", 1479, "Your mother is", "converse", "Pronunciation: /k\u0259n\u02c8v\u025crs/", "Definition: turned about in order or relation", "Synonyms: reversed, transposed"]}
