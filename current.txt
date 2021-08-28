@@ -1,1 +1,1 @@
-{"data": ["2021-08-27T23:03:15.742647+00:00", 1468, "Your mother is", "befitting", "Pronunciation: /b\u026a\u02c8f\u026at\u026a\u014b/", "Definition: appropriate to", ""]}
+{"data": ["2021-08-28T00:05:43.180451+00:00", 1469, "Your mother is", "built-in", "Pronunciation: /b\u026alt-\u026an/", "Definition: existing as an essential constituent or characteristic", "Synonyms: constitutional, inbuilt, inherent, integral"]}
