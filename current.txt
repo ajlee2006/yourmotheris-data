@@ -1,1 +1,1 @@
-{"data": ["2021-08-28T16:02:06.233825+00:00", 1485, "Your mother is", "abuzz", "Pronunciation: /\u0259\u02c8b\u0259z/", "Definition: noisy like the sound of a bee", "Synonyms: buzzing"]}
+{"data": ["2021-08-28T17:01:13.162944+00:00", 1486, "Your mother is", "separate", "Pronunciation: /s\u025bp\u025cr\u0259t/", "Definition: have the connection undone; having become separate", "Synonyms: disjoined"]}
