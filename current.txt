@@ -1,1 +1,1 @@
-{"data": ["2021-08-28T08:01:41.072196+00:00", 1477, "Your mother is", "hourglass-shaped", "Pronunciation: /\u02c8a\u028ar\u02ccgl\u00e6s-\u0283e\u026apt/", "Definition: shaped in the form of an hourglass", ""]}
+{"data": ["2021-08-28T09:03:52.145743+00:00", 1478, "Your mother is", "snaky", "Pronunciation: /\u02c8sne\u026aki/", "Definition: resembling a serpent in form", "Synonyms: serpentine, snakelike"]}
