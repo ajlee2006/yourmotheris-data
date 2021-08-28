@@ -1,1 +1,1 @@
-{"data": ["2021-08-28T10:01:48.024765+00:00", 1479, "Your mother is", "converse", "Pronunciation: /k\u0259n\u02c8v\u025crs/", "Definition: turned about in order or relation", "Synonyms: reversed, transposed"]}
+{"data": ["2021-08-28T11:04:36.257829+00:00", 1480, "Your mother is", "inextricable", "Pronunciation: /\u026an\u02c8\u025bkstr\u0259k\u0259b\u0259l/", "Definition: not permitting extrication; incapable of being disentangled or untied", ""]}
