@@ -1,1 +1,1 @@
-{"data": ["2021-08-28T12:00:18.704024+00:00", 1481, "Your mother is", "midi", "Pronunciation: /mi\u02c8di/", "Definition: used of women's clothing having a hemline at mid-calf", ""]}
+{"data": ["2021-08-28T13:00:19.968363+00:00", 1482, "Your mother is", "unbalanced", "Pronunciation: /\u0259n\u02c8b\u00e6l\u0259nst/", "Definition: affected with madness or insanity", "Synonyms: brainsick, crazy, demented, disturbed, mad, sick, unhinged"]}
