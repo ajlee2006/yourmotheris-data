@@ -1,1 +1,1 @@
-{"data": ["2021-08-28T20:03:51.003395+00:00", 1489, "Your mother is", "allotted", "Pronunciation: /\u028c\u02c8l\u0251t\u026ad/", "Definition: given as a task", ""]}
+{"data": ["2021-08-28T21:03:01.982847+00:00", 1490, "Your mother is", "scattered", "Pronunciation: /\u02c8sk\u00e6t\u025drd/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, garbled, illogical, unconnected"]}
