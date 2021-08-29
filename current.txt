@@ -1,1 +1,1 @@
-{"data": ["2021-08-29T14:03:27.630915+00:00", 1507, "Your mother is", "odourless", "Similar to: non-aromatic", "Definition: having no odor", "Synonyms: inodorous, odorless"]}
+{"data": ["2021-08-29T15:00:35.763022+00:00", 1508, "Your mother is", "anaesthetic", "Pronunciation: /\u02cc\u00e6n\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: characterized by insensibility", "Synonyms: anesthetic"]}
