@@ -1,1 +1,1 @@
-{"data": ["2021-08-29T07:00:48.186455+00:00", 1500, "Your mother is", "scholarly", "Pronunciation: /\u02c8sk\u0251l\u025drli/", "Definition: characteristic of scholars or scholarship", ""]}
+{"data": ["2021-08-29T08:01:38.348222+00:00", 1501, "Your mother is", "singular", "Pronunciation: /\u02c8s\u026a\u014b\u0261j\u0259l\u0259r/", "Definition: beyond or deviating from the usual or expected", "Synonyms: curious, funny, odd, peculiar, queer, rum, rummy"]}
