@@ -1,1 +1,1 @@
-{"data": ["2021-08-29T13:02:09.653383+00:00", 1506, "Your mother is", "jaggy", "Pronunciation: /\u02c8d\u0292\u00e6\u0261i/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: erose, jagged, notched, toothed"]}
+{"data": ["2021-08-29T14:03:27.630915+00:00", 1507, "Your mother is", "odourless", "Similar to: non-aromatic", "Definition: having no odor", "Synonyms: inodorous, odorless"]}
