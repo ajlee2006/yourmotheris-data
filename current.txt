@@ -1,1 +1,1 @@
-{"data": ["2021-08-29T06:01:23.693855+00:00", 1499, "Your mother is", "good-tempered", "Pronunciation: /\u0261\u028ad-\u02c8t\u025bmp\u0259rd/", "Definition: not easily irritated", "Synonyms: equable, even-tempered, placid"]}
+{"data": ["2021-08-29T07:00:48.186455+00:00", 1500, "Your mother is", "scholarly", "Pronunciation: /\u02c8sk\u0251l\u025drli/", "Definition: characteristic of scholars or scholarship", ""]}
