@@ -1,1 +1,1 @@
-{"data": ["2021-08-29T21:02:13.435236+00:00", 1514, "Your mother is", "nonexplorative", "", "Definition: not exploratory", "Synonyms: nonexploratory, unexplorative, unexploratory"]}
+{"data": ["2021-08-29T22:03:44.960191+00:00", 1515, "Your mother is", "cloak-and-dagger", "Pronunciation: /\u02c8klo\u028ak\u0259n\u02c8d\u00e6\u0261\u0259r/", "Definition: conducted with or marked by hidden aims or methods", "Synonyms: clandestine, hole-and-corner, hugger-mugger, hush-hush, secret, surreptitious, undercover, underground"]}
