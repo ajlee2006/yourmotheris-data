@@ -1,1 +1,1 @@
-{"data": ["2021-08-29T10:02:40.790881+00:00", 1503, "Your mother is", "waking", "Pronunciation: /\u02c8we\u026ak\u026a\u014b/", "Definition: marked by full consciousness or alertness", "Synonyms: wakeful"]}
+{"data": ["2021-08-29T11:01:16.214608+00:00", 1504, "Your mother is", "sparrow-sized", "Similar to: sized", "Definition: having the approximate size of a sparrow", ""]}
