@@ -1,1 +1,1 @@
-{"data": ["2021-08-29T09:02:10.670295+00:00", 1502, "Your mother is", "powdery", "Pronunciation: /\u02c8pa\u028ad\u0259ri/", "Definition: consisting of fine particles", "Synonyms: fine-grained, powdered, pulverised, pulverized, small-grained"]}
+{"data": ["2021-08-29T10:02:40.790881+00:00", 1503, "Your mother is", "waking", "Pronunciation: /\u02c8we\u026ak\u026a\u014b/", "Definition: marked by full consciousness or alertness", "Synonyms: wakeful"]}
