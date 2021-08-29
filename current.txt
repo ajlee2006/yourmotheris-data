@@ -1,1 +1,1 @@
-{"data": ["2021-08-29T20:01:18.306002+00:00", 1513, "Your mother is", "nonsubjective", "Similar to: clinical", "Definition: undistorted by emotion or personal bias; based on observable phenomena", "Synonyms: objective"]}
+{"data": ["2021-08-29T21:02:13.435236+00:00", 1514, "Your mother is", "nonexplorative", "", "Definition: not exploratory", "Synonyms: nonexploratory, unexplorative, unexploratory"]}
