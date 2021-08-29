@@ -1,1 +1,1 @@
-{"data": ["2021-08-29T19:01:55.097001+00:00", 1512, "Your mother is", "otherwise", "Pronunciation: /\u02c8\u0259\u00f0\u0259r\u02ccwa\u026az/", "Definition: other than as supposed or expected", ""]}
+{"data": ["2021-08-29T20:01:18.306002+00:00", 1513, "Your mother is", "nonsubjective", "Similar to: clinical", "Definition: undistorted by emotion or personal bias; based on observable phenomena", "Synonyms: objective"]}
