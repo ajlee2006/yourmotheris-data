@@ -1,1 +1,1 @@
-{"data": ["2021-08-29T02:02:10.417263+00:00", 1495, "Your mother is", "manky", "Pronunciation: /\u02c8m\u00e6\u014bki/", "Definition: inferior and worthless", ""]}
+{"data": ["2021-08-29T03:03:34.568932+00:00", 1496, "Your mother is", "telescoped", "Similar to: short", "Definition: shortened by or as if by means of parts that slide one within another or are crushed one into another", "Synonyms: shortened"]}
