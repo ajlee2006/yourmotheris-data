@@ -1,1 +1,1 @@
-{"data": ["2021-08-28T23:01:48.422226+00:00", 1492, "Your mother is", "brown-grey", "Similar to: achromatic", "Definition: of grey tinged with brown", "Synonyms: brown-gray, brownish-gray, brownish-grey"]}
+{"data": ["2021-08-29T00:05:10.342591+00:00", 1493, "Your mother is", "uncorrupted", "Pronunciation: /\u02cc\u0259nk\u0259\u02c8r\u0259pt\u026ad/", "Definition: (of language) not having its purity or excellence debased", "Synonyms: undefiled"]}
