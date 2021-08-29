@@ -1,1 +1,1 @@
-{"data": ["2021-08-29T04:01:33.052991+00:00", 1497, "Your mother is", "pilotless", "Pronunciation: /\u02c8pa\u026al\u028ctl\u028cs/", "Definition: lacking a pilot", ""]}
+{"data": ["2021-08-29T05:02:18.884580+00:00", 1498, "Your mother is", "unspeakable", "Pronunciation: /\u0259n\u02c8spik\u0259b\u0259l/", "Definition: too sacred to be uttered", "Synonyms: ineffable, unnameable, unutterable"]}
