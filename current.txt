@@ -1,1 +1,1 @@
-{"data": ["2021-08-30T10:04:47.009315+00:00", 1527, "Your mother is", "uncoiled", "Pronunciation: /\u02cc\u028cn\u02c8k\u0254\u026ald/", "Definition: no longer coiled", "Synonyms: straight"]}
+{"data": ["2021-08-30T11:03:02.252753+00:00", 1528, "Your mother is", "astonished", "Pronunciation: /\u028c\u02c8st\u0251n\u026a\u0283t/", "Definition: filled with the emotional impact of overwhelming surprise or shock", "Synonyms: amazed, astonied, astounded, stunned"]}
