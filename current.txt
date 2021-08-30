@@ -1,1 +1,1 @@
-{"data": ["2021-08-30T22:02:56.627740+00:00", 1539, "Your mother is", "cruddy", "Pronunciation: /\u02c8kr\u028cdi/", "Definition: characterized by obscenity", "Synonyms: filthy, foul, nasty, smutty"]}
+{"data": ["2021-08-30T23:01:19.284659+00:00", 1540, "Your mother is", "huxleian", "Pronunciation: /\u02c8h\u0259ksli\u0259n/", "Definition: of or relating to Thomas Huxley", "Synonyms: huxleyan"]}
