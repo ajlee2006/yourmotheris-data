@@ -1,1 +1,1 @@
-{"data": ["2021-08-30T21:01:51.256908+00:00", 1538, "Your mother is", "malign", "Pronunciation: /m\u0259\u02c8la\u026an/", "Definition: having or exerting a malignant influence", "Synonyms: evil, malefic, malevolent"]}
+{"data": ["2021-08-30T22:02:56.627740+00:00", 1539, "Your mother is", "cruddy", "Pronunciation: /\u02c8kr\u028cdi/", "Definition: characterized by obscenity", "Synonyms: filthy, foul, nasty, smutty"]}
