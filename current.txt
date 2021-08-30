@@ -1,1 +1,1 @@
-{"data": ["2021-08-30T01:00:52.621250+00:00", 1518, "Your mother is", "obstetrical", "", "Definition: of or relating to or used in or practicing obstetrics", "Synonyms: obstetric"]}
+{"data": ["2021-08-30T02:03:02.894466+00:00", 1519, "Your mother is", "agonized", "Pronunciation: /\u02c8\u00e6\u0261\u0259\u02ccna\u026azd/", "Definition: expressing pain or agony", "Synonyms: agonised"]}
