@@ -1,1 +1,1 @@
-{"data": ["2021-08-30T08:03:39.113866+00:00", 1525, "Your mother is", "bacillar", "Pronunciation: /b\u0259\u02c8s\u026al\u0259r/", "Definition: relating to or produced by or containing bacilli", "Synonyms: bacillary"]}
+{"data": ["2021-08-30T09:04:43.331406+00:00", 1526, "Your mother is", "unknowable", "Pronunciation: /\u0259n\u02c8no\u028a\u0259b\u0259l/", "Definition: not knowable", ""]}
