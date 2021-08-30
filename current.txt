@@ -1,1 +1,1 @@
-{"data": ["2021-08-30T00:03:52.901705+00:00", 1517, "Your mother is", "ill-affected", "Pronunciation: /\u026al-\u0259\u02c8f\u025bkt\u026ad/", "Definition: discontented as toward authority", "Synonyms: disaffected, malcontent, rebellious"]}
+{"data": ["2021-08-30T01:00:52.621250+00:00", 1518, "Your mother is", "obstetrical", "", "Definition: of or relating to or used in or practicing obstetrics", "Synonyms: obstetric"]}
