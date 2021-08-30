@@ -1,1 +1,1 @@
-{"data": ["2021-08-30T15:03:58.937836+00:00", 1532, "Your mother is", "sere", "Pronunciation: /sir/", "Definition: (used especially of vegetation) having lost all moisture", "Synonyms: dried-up, sear, shriveled, shrivelled, withered"]}
+{"data": ["2021-08-30T16:03:02.789510+00:00", 1533, "Your mother is", "apetalous", "Pronunciation: /e\u026a\u02c8p\u025bt\u0259l\u0259s/", "Definition: (of flowers) having no petals", "Synonyms: petalless"]}
