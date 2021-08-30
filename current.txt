@@ -1,1 +1,1 @@
-{"data": ["2021-08-30T18:00:53.371089+00:00", 1535, "Your mother is", "binding", "Pronunciation: /\u02c8ba\u026and\u026a\u014b/", "Definition: executed with proper legal authority", ""]}
+{"data": ["2021-08-30T19:01:05.227236+00:00", 1536, "Your mother is", "hominine", "Pronunciation: /\u02c8h\u0251m\u0259\u02ccna\u026an/", "Definition: characteristic of humankind", ""]}
