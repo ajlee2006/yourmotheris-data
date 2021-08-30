@@ -1,1 +1,1 @@
-{"data": ["2021-08-30T06:04:03.288697+00:00", 1523, "Your mother is", "mummy-brown", "Pronunciation: /\u02c8m\u0259mi-bra\u028an/", "Definition: snuff colored; of a greyish to yellowish brown", "Synonyms: chukker-brown, snuff, snuff-brown"]}
+{"data": ["2021-08-30T07:03:42.405494+00:00", 1524, "Your mother is", "gung ho", "Pronunciation: /\u02c8\u0261\u0259\u014b-\u02c8ho\u028a/", "Definition: very enthusiastic and dedicated", ""]}
