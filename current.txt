@@ -1,1 +1,1 @@
-{"data": ["2021-08-30T11:03:02.252753+00:00", 1528, "Your mother is", "astonished", "Pronunciation: /\u028c\u02c8st\u0251n\u026a\u0283t/", "Definition: filled with the emotional impact of overwhelming surprise or shock", "Synonyms: amazed, astonied, astounded, stunned"]}
+{"data": ["2021-08-30T12:03:18.756736+00:00", 1529, "Your mother is", "supersaturated", "Similar to: concentrated", "Definition: being more concentrated than normally possible and therefore not in equilibrium", ""]}
