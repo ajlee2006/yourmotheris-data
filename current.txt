@@ -1,1 +1,1 @@
-{"data": ["2021-08-30T09:04:43.331406+00:00", 1526, "Your mother is", "unknowable", "Pronunciation: /\u0259n\u02c8no\u028a\u0259b\u0259l/", "Definition: not knowable", ""]}
+{"data": ["2021-08-30T10:04:47.009315+00:00", 1527, "Your mother is", "uncoiled", "Pronunciation: /\u02cc\u028cn\u02c8k\u0254\u026ald/", "Definition: no longer coiled", "Synonyms: straight"]}
