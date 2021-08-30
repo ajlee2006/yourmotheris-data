@@ -1,1 +1,1 @@
-{"data": ["2021-08-30T14:02:31.742935+00:00", 1531, "Your mother is", "northwest", "Pronunciation: /\u02ccn\u0254r\u03b8\u02c8w\u025bst/", "Definition: coming from the northwest", "Synonyms: northwesterly"]}
+{"data": ["2021-08-30T15:03:58.937836+00:00", 1532, "Your mother is", "sere", "Pronunciation: /sir/", "Definition: (used especially of vegetation) having lost all moisture", "Synonyms: dried-up, sear, shriveled, shrivelled, withered"]}
