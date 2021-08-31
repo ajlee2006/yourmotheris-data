@@ -1,1 +1,1 @@
-{"data": ["2021-08-31T19:04:33.556164+00:00", 1560, "Your mother is", "consolidated", "Pronunciation: /k\u028cn\u02c8s\u0251l\u028c\u02ccde\u026at\u028cd/", "Definition: joined together into a whole", "Synonyms: amalgamate, amalgamated, coalesced, fused"]}
+{"data": ["2021-08-31T20:01:03.950855+00:00", 1561, "Your mother is", "ad-lib", "Pronunciation: /\u00e6d-\u02c8l\u026ab/", "Definition: with little or no preparation or forethought", "Synonyms: extemporaneous, extemporary, extempore, impromptu, off-the-cuff, offhand, offhanded, unrehearsed"]}
