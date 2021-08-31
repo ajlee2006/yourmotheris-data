@@ -1,1 +1,1 @@
-{"data": ["2021-08-31T11:01:10.751158+00:00", 1552, "Your mother is", "fallen", "Pronunciation: /\u02c8f\u0254l\u0259n/", "Definition: having dropped by the force of gravity", ""]}
+{"data": ["2021-08-31T12:00:43.397266+00:00", 1553, "Your mother is", "overcareful", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8k\u025crf\u0259l/", "Definition: excessively or unduly careful", "Synonyms: too-careful"]}
