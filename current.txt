@@ -1,1 +1,1 @@
-{"data": ["2021-08-31T12:00:43.397266+00:00", 1553, "Your mother is", "overcareful", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8k\u025crf\u0259l/", "Definition: excessively or unduly careful", "Synonyms: too-careful"]}
+{"data": ["2021-08-31T13:00:35.827366+00:00", 1554, "Your mother is", "overzealous", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8z\u025bl\u0259s/", "Definition: marked by excessive enthusiasm for and intense devotion to a cause or idea", "Synonyms: fanatic, fanatical, rabid"]}
