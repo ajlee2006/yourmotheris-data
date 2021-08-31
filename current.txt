@@ -1,1 +1,1 @@
-{"data": ["2021-08-31T05:00:58.650357+00:00", 1546, "Your mother is", "yellow-green", "Pronunciation: /\u02c8j\u025blo\u028a-grin/", "Definition: of a color midway between yellow and green", ""]}
+{"data": ["2021-08-31T06:01:38.303343+00:00", 1547, "Your mother is", "moon-faced", "Pronunciation: /\u02c8mun\u02ccfe\u026ast/", "Definition: having a round face", "Synonyms: round-faced"]}
