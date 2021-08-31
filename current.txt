@@ -1,1 +1,1 @@
-{"data": ["2021-08-31T00:04:26.763770+00:00", 1541, "Your mother is", "unflappable", "Pronunciation: /\u0259n\u02c8fl\u00e6p\u0259b\u0259l/", "Definition: not easily perturbed or excited or upset; marked by extreme calm and composure", "Synonyms: imperturbable"]}
+{"data": ["2021-08-31T01:04:20.270796+00:00", 1542, "Your mother is", "comb-like", "", "Definition: resembling a comb; having projections like the teeth of a comb", "Synonyms: ctenoid"]}
