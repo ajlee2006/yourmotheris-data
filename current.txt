@@ -1,1 +1,1 @@
-{"data": ["2021-08-31T07:01:57.219489+00:00", 1548, "Your mother is", "misanthropical", "Similar to: distrustful", "Definition: believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others", "Synonyms: cynical, misanthropic"]}
+{"data": ["2021-08-31T08:04:29.227114+00:00", 1549, "Your mother is", "unbiassed", "Similar to: impartial", "Definition: characterized by a lack of partiality", "Synonyms: indifferent, unbiased"]}
