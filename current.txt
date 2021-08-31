@@ -1,1 +1,1 @@
-{"data": ["2021-08-31T16:03:12.847728+00:00", 1557, "Your mother is", "puffed", "Pronunciation: /p\u028cft/", "Definition: gathered for protruding fullness", "Synonyms: puff"]}
+{"data": ["2021-08-31T17:03:08.232184+00:00", 1558, "Your mother is", "galilaean", "", "Definition: of or relating to Galilee or its inhabitants", "Synonyms: galilean"]}
