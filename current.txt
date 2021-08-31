@@ -1,1 +1,1 @@
-{"data": ["2021-08-31T20:01:03.950855+00:00", 1561, "Your mother is", "ad-lib", "Pronunciation: /\u00e6d-\u02c8l\u026ab/", "Definition: with little or no preparation or forethought", "Synonyms: extemporaneous, extemporary, extempore, impromptu, off-the-cuff, offhand, offhanded, unrehearsed"]}
+{"data": ["2021-08-31T21:01:22.150352+00:00", 1562, "Your mother is", "sharp-nosed", "Pronunciation: /\u02c8\u0283\u0251rp\u02c8no\u028azd/", "Definition: having a sharply pointed nose", ""]}
