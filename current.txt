@@ -1,1 +1,1 @@
-{"data": ["2021-09-01T18:01:53.190771+00:00", 1583, "Your mother is", "favourite", "Pronunciation: /\u02c8fe\u026av\u0259r\u026at/", "Definition: preferred above all others and treated with partiality", "Synonyms: best-loved, favored, favorite, pet, preferent, preferred"]}
+{"data": ["2021-09-01T19:01:49.439011+00:00", 1584, "Your mother is", "panic-struck", "Pronunciation: /\u02c8p\u00e6n\u026ak-str\u0259k/", "Definition: thrown into a state of intense fear or desperation", "Synonyms: frightened, panic-stricken, panicked, panicky, terrified"]}
