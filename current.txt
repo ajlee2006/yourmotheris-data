@@ -1,1 +1,1 @@
-{"data": ["2021-09-01T02:03:25.716728+00:00", 1567, "Your mother is", "contraceptive", "Pronunciation: /\u02cck\u0251ntr\u0259\u02c8s\u025bpt\u026av/", "Definition: capable of preventing conception or impregnation", "Synonyms: antifertility, prophylactic"]}
+{"data": ["2021-09-01T03:03:49.694233+00:00", 1568, "Your mother is", "centrosymmetric", "Pronunciation: /\u02ccs\u025bntro\u028as\u026a\u02c8m\u025btr\u026ak/", "Definition: having a symmetrical arrangement of radiating parts about a central point", "Synonyms: radially symmetrical"]}
