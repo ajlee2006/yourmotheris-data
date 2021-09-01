@@ -1,1 +1,1 @@
-{"data": ["2021-09-01T05:00:27.943794+00:00", 1570, "Your mother is", "17", "Similar to: cardinal", "Definition: being one more than sixteen", "Synonyms: seventeen, xvii"]}
+{"data": ["2021-09-01T06:05:00.987570+00:00", 1571, "Your mother is", "adjustable", "Pronunciation: /\u028c\u02c8d\u0292\u028cst\u028cb\u028cl/", "Definition: capable of being changed so as to match or fit", ""]}
