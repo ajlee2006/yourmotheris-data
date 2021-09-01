@@ -1,1 +1,1 @@
-{"data": ["2021-09-01T00:05:03.078198+00:00", 1565, "Your mother is", "shaggy-coated", "Pronunciation: /\u02c8\u0283\u00e6\u0261i-\u02c8ko\u028at\u026ad/", "Definition: used of hair; thick and poorly groomed", "Synonyms: bushy, shaggy, shaggy-haired"]}
+{"data": ["2021-09-01T01:02:27.432977+00:00", 1566, "Your mother is", "hydrographic", "Pronunciation: /\u02ccha\u026adr\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to the science of hydrography", "Synonyms: hydrographical"]}
