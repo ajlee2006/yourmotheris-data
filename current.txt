@@ -1,1 +1,1 @@
-{"data": ["2021-09-01T07:01:32.167471+00:00", 1572, "Your mother is", "fabian", "Pronunciation: /\u02c8fe\u026abi\u0259n/", "Definition: using cautious slow strategy to wear down opposition; avoiding direct confrontation", ""]}
+{"data": ["2021-09-01T08:04:35.479206+00:00", 1573, "Your mother is", "tactless", "Pronunciation: /\u02c8t\u00e6ktl\u026as/", "Definition: lacking or showing a lack of what is fitting and considerate in dealing with others", "Synonyms: untactful"]}
