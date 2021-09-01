@@ -1,1 +1,1 @@
-{"data": ["2021-09-01T15:00:19.585473+00:00", 1580, "Your mother is", "dapper", "Pronunciation: /\u02c8d\u00e6p\u0259r/", "Definition: marked by up-to-dateness in dress and manners", "Synonyms: dashing, jaunty, natty, raffish, rakish, snappy, spiffy, spruce"]}
+{"data": ["2021-09-01T16:01:19.544011+00:00", 1581, "Your mother is", "gormless", "Pronunciation: /\u02c8\u0261\u0254rml\u026as/", "Definition: (British informal) lacking intelligence and vitality", "Synonyms: gaumless"]}
