@@ -1,1 +1,1 @@
-{"data": ["2021-09-01T08:04:35.479206+00:00", 1573, "Your mother is", "tactless", "Pronunciation: /\u02c8t\u00e6ktl\u026as/", "Definition: lacking or showing a lack of what is fitting and considerate in dealing with others", "Synonyms: untactful"]}
+{"data": ["2021-09-01T09:04:48.668546+00:00", 1574, "Your mother is", "four-wheeled", "Pronunciation: /fo\u028ar-hwild/", "Definition: of or relating to vehicles with four wheels", "Synonyms: four-wheel"]}
