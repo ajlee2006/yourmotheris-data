@@ -1,1 +1,1 @@
-{"data": ["2021-09-01T04:03:04.098158+00:00", 1569, "Your mother is", "centralized", "Pronunciation: /\u02c8s\u025bntr\u028c\u02ccla\u026azd/", "Definition: drawn toward a center or brought under the control of a central authority", "Synonyms: centralised"]}
+{"data": ["2021-09-01T05:00:27.943794+00:00", 1570, "Your mother is", "17", "Similar to: cardinal", "Definition: being one more than sixteen", "Synonyms: seventeen, xvii"]}
