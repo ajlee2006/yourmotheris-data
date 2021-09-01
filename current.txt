@@ -1,1 +1,1 @@
-{"data": ["2021-09-01T22:03:51.026163+00:00", 1587, "Your mother is", "stabbing", "Pronunciation: /\u02c8st\u00e6b\u026a\u014b/", "Definition: causing physical or especially psychological injury", "Synonyms: wounding"]}
+{"data": ["2021-09-01T23:01:10.274039+00:00", 1588, "Your mother is", "abulic", "Similar to: neurotic", "Definition: suffering from abulia; showing abnormal inability to act or make decisions", "Synonyms: aboulic"]}
