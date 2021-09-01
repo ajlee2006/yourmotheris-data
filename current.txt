@@ -1,1 +1,1 @@
-{"data": ["2021-09-01T01:02:27.432977+00:00", 1566, "Your mother is", "hydrographic", "Pronunciation: /\u02ccha\u026adr\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to the science of hydrography", "Synonyms: hydrographical"]}
+{"data": ["2021-09-01T02:03:25.716728+00:00", 1567, "Your mother is", "contraceptive", "Pronunciation: /\u02cck\u0251ntr\u0259\u02c8s\u025bpt\u026av/", "Definition: capable of preventing conception or impregnation", "Synonyms: antifertility, prophylactic"]}
