@@ -1,1 +1,1 @@
-{"data": ["2021-09-02T07:02:28.985804+00:00", 1596, "Your mother is", "strenuous", "Pronunciation: /\u02c8str\u025bnju\u0259s/", "Definition: taxing to the utmost; testing powers of endurance", "Synonyms: arduous, straining"]}
+{"data": ["2021-09-02T08:00:40.707170+00:00", 1597, "Your mother is", "unsarcastic", "", "Definition: not sarcastic", ""]}
