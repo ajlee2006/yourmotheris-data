@@ -1,1 +1,1 @@
-{"data": ["2021-09-02T14:03:23.370457+00:00", 1603, "Your mother is", "fighting", "Pronunciation: /\u02c8fa\u026at\u026a\u014b/", "Definition: engaged in or ready for military or naval operations", "Synonyms: active, combat-ready"]}
+{"data": ["2021-09-02T15:03:15.593099+00:00", 1604, "Your mother is", "uncommitted", "Pronunciation: /\u02cc\u0259nk\u0259\u02c8m\u026at\u026ad/", "Definition: not associated in an exclusive sexual relationship", "Synonyms: unattached"]}
