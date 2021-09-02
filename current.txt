@@ -1,1 +1,1 @@
-{"data": ["2021-09-02T09:04:30.234019+00:00", 1598, "Your mother is", "sleeveless", "Pronunciation: /\u02c8slivl\u026as/", "Definition: unproductive of success", "Synonyms: bootless, fruitless, futile, vain"]}
+{"data": ["2021-09-02T10:03:59.744687+00:00", 1599, "Your mother is", "alkalescent", "Pronunciation: /\u02cc\u00e6lk\u0259\u02c8l\u025bs\u0259nt/", "Definition: tending to become alkaline; slightly alkaline", "Synonyms: alcalescent"]}
