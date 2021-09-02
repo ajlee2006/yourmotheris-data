@@ -1,1 +1,1 @@
-{"data": ["2021-09-02T08:00:40.707170+00:00", 1597, "Your mother is", "unsarcastic", "", "Definition: not sarcastic", ""]}
+{"data": ["2021-09-02T09:04:30.234019+00:00", 1598, "Your mother is", "sleeveless", "Pronunciation: /\u02c8slivl\u026as/", "Definition: unproductive of success", "Synonyms: bootless, fruitless, futile, vain"]}
