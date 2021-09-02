@@ -1,1 +1,1 @@
-{"data": ["2021-09-02T21:02:44.279941+00:00", 1610, "Your mother is", "isolating", "Pronunciation: /\u02c8a\u026as\u0259\u02ccle\u026ati\u014b/", "Definition: relating to or being a language in which each word typically expresses a distinct idea and part of speech and syntactical relations are determined almost exclusively by word order and particles", ""]}
+{"data": ["2021-09-02T22:01:03.639006+00:00", 1611, "Your mother is", "black-coated", "Pronunciation: /bl\u00e6k-\u02c8ko\u028at\u026ad/", "Definition: coated with black", ""]}
