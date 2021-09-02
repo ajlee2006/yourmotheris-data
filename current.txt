@@ -1,1 +1,1 @@
-{"data": ["2021-09-02T03:05:03.305306+00:00", 1592, "Your mother is", "lantern-jawed", "Pronunciation: /\u02c8l\u00e6nt\u0259rn-\u02c8d\u0292\u0254d/", "Definition: having a protruding jaw giving the face a gaunt appearance", ""]}
+{"data": ["2021-09-02T04:02:35.011283+00:00", 1593, "Your mother is", "unassignable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8sa\u026an\u0259b\u0259l/", "Definition: incapable of being transferred", "Synonyms: nontransferable, untransferable"]}
