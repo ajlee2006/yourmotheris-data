@@ -1,1 +1,1 @@
-{"data": ["2021-09-02T02:03:45.611213+00:00", 1591, "Your mother is", "noncritical", "Similar to: acritical", "Definition: not in a state of crisis or emergency", "Synonyms: noncrucial"]}
+{"data": ["2021-09-02T03:05:03.305306+00:00", 1592, "Your mother is", "lantern-jawed", "Pronunciation: /\u02c8l\u00e6nt\u0259rn-\u02c8d\u0292\u0254d/", "Definition: having a protruding jaw giving the face a gaunt appearance", ""]}
