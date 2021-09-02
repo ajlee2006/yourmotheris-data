@@ -1,1 +1,1 @@
-{"data": ["2021-09-02T16:04:05.685122+00:00", 1605, "Your mother is", "paraphrastic", "Pronunciation: /\u02ccp\u00e6r\u0259\u02c8fr\u00e6st\u026ak/", "Definition: altered by paraphrasing", ""]}
+{"data": ["2021-09-02T17:05:24.908314+00:00", 1606, "Your mother is", "quadrate", "Pronunciation: /\u02c8kw\u0251dre\u026at/", "Definition: having four sides and four angles", ""]}
