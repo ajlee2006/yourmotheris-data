@@ -1,1 +1,1 @@
-{"data": ["2021-09-02T20:04:26.345573+00:00", 1609, "Your mother is", "sixty-six", "Pronunciation: /\u02c8s\u026aksti-\u02c8s\u026aks/", "Definition: being six more than sixty", "Synonyms: 66, lxvi"]}
+{"data": ["2021-09-02T21:02:44.279941+00:00", 1610, "Your mother is", "isolating", "Pronunciation: /\u02c8a\u026as\u0259\u02ccle\u026ati\u014b/", "Definition: relating to or being a language in which each word typically expresses a distinct idea and part of speech and syntactical relations are determined almost exclusively by word order and particles", ""]}
