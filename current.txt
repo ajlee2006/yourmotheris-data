@@ -1,1 +1,1 @@
-{"data": ["2021-09-02T15:03:15.593099+00:00", 1604, "Your mother is", "uncommitted", "Pronunciation: /\u02cc\u0259nk\u0259\u02c8m\u026at\u026ad/", "Definition: not associated in an exclusive sexual relationship", "Synonyms: unattached"]}
+{"data": ["2021-09-02T16:04:05.685122+00:00", 1605, "Your mother is", "paraphrastic", "Pronunciation: /\u02ccp\u00e6r\u0259\u02c8fr\u00e6st\u026ak/", "Definition: altered by paraphrasing", ""]}
