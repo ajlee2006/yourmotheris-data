@@ -1,1 +1,1 @@
-{"data": ["2021-09-02T19:03:13.090562+00:00", 1608, "Your mother is", "obsequious", "Pronunciation: /\u0259b\u02c8sikwi\u0259s/", "Definition: attempting to win favor from influential people by flattery", "Synonyms: bootlicking, fawning, sycophantic, toadyish"]}
+{"data": ["2021-09-02T20:04:26.345573+00:00", 1609, "Your mother is", "sixty-six", "Pronunciation: /\u02c8s\u026aksti-\u02c8s\u026aks/", "Definition: being six more than sixty", "Synonyms: 66, lxvi"]}
