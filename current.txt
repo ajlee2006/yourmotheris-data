@@ -1,1 +1,1 @@
-{"data": ["2021-09-02T00:06:51.560157+00:00", 1589, "Your mother is", "comparable", "Pronunciation: /\u02c8k\u0251mp\u0259r\u0259b\u0259l/", "Definition: conforming in every respect", "Synonyms: corresponding, like"]}
+{"data": ["2021-09-02T01:06:13.844793+00:00", 1590, "Your mother is", "worked up", "Similar to: agitated", "Definition: (of persons) excessively affected by emotion", "Synonyms: aroused, emotional, excited"]}
