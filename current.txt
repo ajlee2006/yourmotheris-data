@@ -1,1 +1,1 @@
-{"data": ["2021-09-02T11:03:16.312369+00:00", 1600, "Your mother is", "unsurpassable", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8p\u0251s\u0259b\u0259l/", "Definition: not to be exceeded", ""]}
+{"data": ["2021-09-02T12:04:07.016832+00:00", 1601, "Your mother is", "unaesthetic", "Pronunciation: /\u02cc\u0259n\u025bs\u02c8\u03b8\u025bt\u026ak/", "Definition: violating aesthetic canons or requirements; deficient in tastefulness or beauty", "Synonyms: inaesthetic"]}
