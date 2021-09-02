@@ -1,1 +1,1 @@
-{"data": ["2021-09-02T22:01:03.639006+00:00", 1611, "Your mother is", "black-coated", "Pronunciation: /bl\u00e6k-\u02c8ko\u028at\u026ad/", "Definition: coated with black", ""]}
+{"data": ["2021-09-02T23:03:41.928333+00:00", 1612, "Your mother is", "equipt", "Similar to: accoutered", "Definition: provided or fitted out with what is necessary or useful or appropriate", "Synonyms: equipped"]}
