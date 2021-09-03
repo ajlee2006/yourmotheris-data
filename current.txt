@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T08:01:14.080397+00:00", 1621, "Your mother is", "nonequivalent", "Similar to: unequal", "Definition: not equal or interchangeable in value, quantity, or significance", ""]}
+{"data": ["2021-09-03T09:04:17.000477+00:00", 1622, "Your mother is", "aspheric", "Similar to: rounded", "Definition: varying slightly from a perfectly spherical shape", "Synonyms: aspherical"]}
