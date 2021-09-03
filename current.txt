@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T05:01:50.818538+00:00", 1618, "Your mother is", "squat", "Pronunciation: /skw\u0251t/", "Definition: having a low center of gravity; built low to the ground", "Synonyms: underslung"]}
+{"data": ["2021-09-03T06:04:35.907857+00:00", 1619, "Your mother is", "mechanistic", "Pronunciation: /\u02ccm\u025bk\u0259\u02c8n\u026ast\u026ak/", "Definition: explained in terms of physical forces", ""]}
