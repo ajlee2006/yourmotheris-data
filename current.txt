@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T17:00:48.400047+00:00", 1630, "Your mother is", "noncombatant", "Pronunciation: /n\u0251n\u02c8k\u0251mb\u0259t\u0259nt/", "Definition: member of armed forces whose duties do not include fighting as e.g. a chaplain or surgeon", ""]}
+{"data": ["2021-09-03T18:01:33.271002+00:00", 1631, "Your mother is", "homesick", "Pronunciation: /\u02c8ho\u028am\u02ccs\u026ak/", "Definition: longing to return home", ""]}
