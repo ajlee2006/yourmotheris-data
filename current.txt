@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T19:01:30.613643+00:00", 1632, "Your mother is", "antlered", "Pronunciation: /\u02c8\u00e6ntl\u0259rd/", "Definition: having antlers", ""]}
+{"data": ["2021-09-03T20:01:38.781120+00:00", 1633, "Your mother is", "delimited", "Similar to: finite", "Definition: having the limits or boundaries established", "Synonyms: bounded"]}
