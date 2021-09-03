@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T01:02:41.229378+00:00", 1614, "Your mother is", "kin", "Pronunciation: /k\u026an/", "Definition: related by blood", "Synonyms: akin, blood-related, cognate, consanguine, consanguineal, consanguineous"]}
+{"data": ["2021-09-03T02:05:03.498571+00:00", 1615, "Your mother is", "careless", "Pronunciation: /\u02c8k\u025crl\u026as/", "Definition: (usually followed by `of') without due thought or consideration", "Synonyms: regardless"]}
