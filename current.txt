@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T03:04:41.398048+00:00", 1616, "Your mother is", "metallic", "Pronunciation: /m\u0259\u02c8t\u00e6l\u026ak/", "Definition: containing or made of or resembling or characteristic of a metal", "Synonyms: metal"]}
+{"data": ["2021-09-03T04:04:46.219826+00:00", 1617, "Your mother is", "controllable", "Pronunciation: /k\u028cn\u02c8tro\u028al\u028cb\u028cl/", "Definition: capable of being controlled", "Synonyms: governable"]}
