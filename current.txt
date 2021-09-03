@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T18:01:33.271002+00:00", 1631, "Your mother is", "homesick", "Pronunciation: /\u02c8ho\u028am\u02ccs\u026ak/", "Definition: longing to return home", ""]}
+{"data": ["2021-09-03T19:01:30.613643+00:00", 1632, "Your mother is", "antlered", "Pronunciation: /\u02c8\u00e6ntl\u0259rd/", "Definition: having antlers", ""]}
