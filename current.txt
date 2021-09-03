@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T07:04:00.392158+00:00", 1620, "Your mother is", "finical", "Pronunciation: /\u02c8f\u026an\u026ak\u0259l/", "Definition: exacting especially about details", "Synonyms: finicky, fussy, particular, picky"]}
+{"data": ["2021-09-03T08:01:14.080397+00:00", 1621, "Your mother is", "nonequivalent", "Similar to: unequal", "Definition: not equal or interchangeable in value, quantity, or significance", ""]}
