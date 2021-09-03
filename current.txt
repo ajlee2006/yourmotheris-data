@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T14:02:37.373353+00:00", 1627, "Your mother is", "unprocessed", "Pronunciation: /\u028cn\u02c8pr\u0254\u02ccs\u025bst/", "Definition: not refined or processed", "Synonyms: crude, unrefined"]}
+{"data": ["2021-09-03T15:04:56.597990+00:00", 1628, "Your mother is", "afflictive", "Pronunciation: /\u0259\u02c8fl\u026akt\u026av/", "Definition: causing misery or pain or distress", "Synonyms: painful, sore"]}
