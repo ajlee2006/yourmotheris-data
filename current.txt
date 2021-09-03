@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T21:02:02.521765+00:00", 1634, "Your mother is", "housebroken", "Pronunciation: /\u02c8ha\u028as\u02ccbro\u028ak\u0259n/", "Definition: (of pets) trained to urinate and defecate outside or in a special place", "Synonyms: house-trained"]}
+{"data": ["2021-09-03T22:02:44.303822+00:00", 1635, "Your mother is", "anginal", "Pronunciation: /\u00e6n\u02c8d\u0292a\u026an\u0259l/", "Definition: of or related to the pain of angina pectoris", "Synonyms: anginose, anginous"]}
