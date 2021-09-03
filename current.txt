@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T20:01:38.781120+00:00", 1633, "Your mother is", "delimited", "Similar to: finite", "Definition: having the limits or boundaries established", "Synonyms: bounded"]}
+{"data": ["2021-09-03T21:02:02.521765+00:00", 1634, "Your mother is", "housebroken", "Pronunciation: /\u02c8ha\u028as\u02ccbro\u028ak\u0259n/", "Definition: (of pets) trained to urinate and defecate outside or in a special place", "Synonyms: house-trained"]}
