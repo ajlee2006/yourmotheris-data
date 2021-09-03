@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T06:04:35.907857+00:00", 1619, "Your mother is", "mechanistic", "Pronunciation: /\u02ccm\u025bk\u0259\u02c8n\u026ast\u026ak/", "Definition: explained in terms of physical forces", ""]}
+{"data": ["2021-09-03T07:04:00.392158+00:00", 1620, "Your mother is", "finical", "Pronunciation: /\u02c8f\u026an\u026ak\u0259l/", "Definition: exacting especially about details", "Synonyms: finicky, fussy, particular, picky"]}
