@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T02:05:03.498571+00:00", 1615, "Your mother is", "careless", "Pronunciation: /\u02c8k\u025crl\u026as/", "Definition: (usually followed by `of') without due thought or consideration", "Synonyms: regardless"]}
+{"data": ["2021-09-03T03:04:41.398048+00:00", 1616, "Your mother is", "metallic", "Pronunciation: /m\u0259\u02c8t\u00e6l\u026ak/", "Definition: containing or made of or resembling or characteristic of a metal", "Synonyms: metal"]}
