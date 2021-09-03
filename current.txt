@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T22:02:44.303822+00:00", 1635, "Your mother is", "anginal", "Pronunciation: /\u00e6n\u02c8d\u0292a\u026an\u0259l/", "Definition: of or related to the pain of angina pectoris", "Synonyms: anginose, anginous"]}
+{"data": ["2021-09-03T23:04:50.176596+00:00", 1636, "Your mother is", "goodish", "Pronunciation: /\u02c8\u0261\u028ad\u026a\u0283/", "Definition: large in amount or extent or degree", "Synonyms: goodly, healthy, hefty, respectable, sizable, sizeable, tidy"]}
