@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T00:05:36.131214+00:00", 1613, "Your mother is", "unworldly", "Pronunciation: /\u0259n\u02c8w\u025crldli/", "Definition: not wise in the ways of the world", "Synonyms: unsophisticated"]}
+{"data": ["2021-09-03T01:02:41.229378+00:00", 1614, "Your mother is", "kin", "Pronunciation: /k\u026an/", "Definition: related by blood", "Synonyms: akin, blood-related, cognate, consanguine, consanguineal, consanguineous"]}
