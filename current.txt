@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T12:04:40.575850+00:00", 1625, "Your mother is", "unutterable", "Pronunciation: /\u0259n\u02c8\u0259t\u0259r\u0259b\u0259l/", "Definition: too sacred to be uttered", "Synonyms: ineffable, unnameable, unspeakable"]}
+{"data": ["2021-09-03T13:03:30.626785+00:00", 1626, "Your mother is", "acinic", "Pronunciation: /\u0259\u02c8s\u026an\u026ak/", "Definition: pertaining to one of the small sacs (as in a compound gland)", "Synonyms: acinar, acinose, acinous"]}
