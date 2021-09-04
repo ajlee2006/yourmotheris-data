@@ -1,1 +1,1 @@
-{"data": ["2021-09-04T06:04:55.151784+00:00", 1643, "Your mother is", "emphatic", "Pronunciation: /\u025bm\u02c8f\u00e6t\u026ak/", "Definition: spoken with emphasis", "Synonyms: emphasised, emphasized"]}
+{"data": ["2021-09-04T07:04:40.340226+00:00", 1644, "Your mother is", "guileless", "Pronunciation: /\u02c8\u0261a\u026all\u026as/", "Definition: free of deceit", "Synonyms: transparent"]}
