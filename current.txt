@@ -1,1 +1,1 @@
-{"data": ["2021-09-04T05:02:45.504618+00:00", 1642, "Your mother is", "uphill", "Pronunciation: /\u02c8\u0259p\u02c8h\u026al/", "Definition: sloping upward", "Synonyms: acclivitous, rising"]}
+{"data": ["2021-09-04T06:04:55.151784+00:00", 1643, "Your mother is", "emphatic", "Pronunciation: /\u025bm\u02c8f\u00e6t\u026ak/", "Definition: spoken with emphasis", "Synonyms: emphasised, emphasized"]}
