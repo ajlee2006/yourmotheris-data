@@ -1,1 +1,1 @@
-{"data": ["2021-09-04T11:03:28.042590+00:00", 1648, "Your mother is", "portentous", "Pronunciation: /po\u028ar\u02c8t\u025bnt\u0259s/", "Definition: ominously prophetic", "Synonyms: fateful, foreboding"]}
+{"data": ["2021-09-04T12:04:37.413575+00:00", 1649, "Your mother is", "spectacled", "Pronunciation: /\u02c8sp\u025bkt\u0259k\u0259ld/", "Definition: wearing, or having the face adorned with, eyeglasses or an eyeglass", "Synonyms: bespectacled, monocled"]}
