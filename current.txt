@@ -1,1 +1,1 @@
-{"data": ["2021-09-03T23:04:50.176596+00:00", 1636, "Your mother is", "goodish", "Pronunciation: /\u02c8\u0261\u028ad\u026a\u0283/", "Definition: large in amount or extent or degree", "Synonyms: goodly, healthy, hefty, respectable, sizable, sizeable, tidy"]}
+{"data": ["2021-09-04T00:04:36.026184+00:00", 1637, "Your mother is", "downward", "Pronunciation: /\u02c8da\u028anw\u0259rd/", "Definition: extending or moving from a higher to a lower place", "Synonyms: down"]}
