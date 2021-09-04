@@ -1,1 +1,1 @@
-{"data": ["2021-09-04T14:02:20.224524+00:00", 1651, "Your mother is", "fundamental", "Pronunciation: /\u02ccf\u0259nd\u0259\u02c8m\u025bnt\u0259l/", "Definition: far-reaching and thoroughgoing in effect especially on the nature of something", "Synonyms: profound"]}
+{"data": ["2021-09-04T15:03:55.847636+00:00", 1652, "Your mother is", "135", "Similar to: cardinal", "Definition: being five more than one hundred thirty", "Synonyms: cxxxv, one hundred thirty-five"]}
