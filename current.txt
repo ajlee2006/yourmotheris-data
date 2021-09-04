@@ -1,1 +1,1 @@
-{"data": ["2021-09-04T04:04:21.529560+00:00", 1641, "Your mother is", "spindly", "Pronunciation: /\u02c8sp\u026andli/", "Definition: long and lean", "Synonyms: lank"]}
+{"data": ["2021-09-04T05:02:45.504618+00:00", 1642, "Your mother is", "uphill", "Pronunciation: /\u02c8\u0259p\u02c8h\u026al/", "Definition: sloping upward", "Synonyms: acclivitous, rising"]}
