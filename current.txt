@@ -1,1 +1,1 @@
-{"data": ["2021-09-04T13:03:56.010578+00:00", 1650, "Your mother is", "reverse", "Pronunciation: /r\u026a\u02c8v\u025crs/", "Definition: reversed (turned backward) in order or nature or effect", "Synonyms: inverse"]}
+{"data": ["2021-09-04T14:02:20.224524+00:00", 1651, "Your mother is", "fundamental", "Pronunciation: /\u02ccf\u0259nd\u0259\u02c8m\u025bnt\u0259l/", "Definition: far-reaching and thoroughgoing in effect especially on the nature of something", "Synonyms: profound"]}
