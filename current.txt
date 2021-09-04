@@ -1,1 +1,1 @@
-{"data": ["2021-09-04T22:04:26.870933+00:00", 1659, "Your mother is", "invigorating", "Pronunciation: /\u026an\u02c8v\u026a\u0261\u025dr\u02cce\u026at\u026a\u014b/", "Definition: imparting strength and vitality", ""]}
+{"data": ["2021-09-04T23:01:32.073628+00:00", 1660, "Your mother is", "societal", "Pronunciation: /s\u028c\u02c8sa\u026a\u026at\u028cl/", "Definition: relating to human society and its members", "Synonyms: social"]}
