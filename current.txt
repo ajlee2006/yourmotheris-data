@@ -1,1 +1,1 @@
-{"data": ["2021-09-04T18:03:05.747180+00:00", 1655, "Your mother is", "unattackable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u00e6k\u0259b\u0259l/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, inviolable, secure, strong, unassailable"]}
+{"data": ["2021-09-04T19:01:32.965648+00:00", 1656, "Your mother is", "woolly-stemmed", "Similar to: caulescent", "Definition: having a woolly stem", ""]}
