@@ -1,1 +1,1 @@
-{"data": ["2021-09-04T19:01:32.965648+00:00", 1656, "Your mother is", "woolly-stemmed", "Similar to: caulescent", "Definition: having a woolly stem", ""]}
+{"data": ["2021-09-04T20:02:15.370380+00:00", 1657, "Your mother is", "aerobic", "Pronunciation: /\u025c\u02c8ro\u028ab\u026ak/", "Definition: depending on free oxygen or air", "Synonyms: aerophilic, aerophilous"]}
