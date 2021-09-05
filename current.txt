@@ -1,1 +1,1 @@
-{"data": ["2021-09-05T18:04:55.259336+00:00", 1679, "Your mother is", "mucous", "Pronunciation: /\u02c8mjuk\u0259s/", "Definition: of or secreting or covered with or resembling mucus", "Synonyms: mucose"]}
+{"data": ["2021-09-05T19:02:46.363367+00:00", 1680, "Your mother is", "gassy", "Pronunciation: /\u02c8\u0261\u00e6si/", "Definition: suffering from excessive gas in the alimentary canal", "Synonyms: colicky, flatulent"]}
