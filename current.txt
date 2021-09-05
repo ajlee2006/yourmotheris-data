@@ -1,1 +1,1 @@
-{"data": ["2021-09-05T10:01:42.850357+00:00", 1671, "Your mother is", "insufferable", "Pronunciation: /\u026an\u02c8s\u0259f\u0259r\u0259b\u0259l/", "Definition: too extreme to bear", "Synonyms: unsufferable"]}
+{"data": ["2021-09-05T11:02:35.765030+00:00", 1672, "Your mother is", "ellipsoidal", "Pronunciation: /\u026al\u026ap\u02c8s\u0254\u026ad\u0259l/", "Definition: having the nature or shape of an ellipsoid", "Synonyms: ellipsoid, spheroidal"]}
