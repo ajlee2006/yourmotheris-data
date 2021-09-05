@@ -1,1 +1,1 @@
-{"data": ["2021-09-05T05:04:26.356775+00:00", 1666, "Your mother is", "high-toned", "Pronunciation: /\u02c8ha\u026a\u02c8to\u028and/", "Definition: pretentiously elegant", "Synonyms: high-class"]}
+{"data": ["2021-09-05T06:04:07.544254+00:00", 1667, "Your mother is", "hypodermic", "Pronunciation: /\u02ccha\u026ap\u0259\u02c8d\u025crm\u026ak/", "Definition: relating to or located below the epidermis", "Synonyms: subcutaneous"]}
