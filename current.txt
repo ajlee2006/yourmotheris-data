@@ -1,1 +1,1 @@
-{"data": ["2021-09-05T14:01:42.252472+00:00", 1675, "Your mother is", "four", "Pronunciation: /fo\u028ar/", "Definition: being one more than three", "Synonyms: 4, iv"]}
+{"data": ["2021-09-05T15:02:08.970320+00:00", 1676, "Your mother is", "disliked", "Pronunciation: /d\u026as\u02c8la\u026akt/", "Definition: regarded with aversion", ""]}
