@@ -1,1 +1,1 @@
-{"data": ["2021-09-05T22:04:31.601483+00:00", 1683, "Your mother is", "leaved", "Pronunciation: /livd/", "Definition: having leaves or leaves as specified; often used in combination", "Synonyms: leafed"]}
+{"data": ["2021-09-05T23:03:42.027955+00:00", 1684, "Your mother is", "implicit", "Pronunciation: /\u026am\u02c8pl\u026as\u026at/", "Definition: implied though not directly expressed; inherent in the nature of something", "Synonyms: inexplicit"]}
