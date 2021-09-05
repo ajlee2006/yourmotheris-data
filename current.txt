@@ -1,1 +1,1 @@
-{"data": ["2021-09-05T06:04:07.544254+00:00", 1667, "Your mother is", "hypodermic", "Pronunciation: /\u02ccha\u026ap\u0259\u02c8d\u025crm\u026ak/", "Definition: relating to or located below the epidermis", "Synonyms: subcutaneous"]}
+{"data": ["2021-09-05T07:00:40.772146+00:00", 1668, "Your mother is", "nonclassical", "Similar to: modern", "Definition: not classical", ""]}
