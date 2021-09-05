@@ -1,1 +1,1 @@
-{"data": ["2021-09-05T07:00:40.772146+00:00", 1668, "Your mother is", "nonclassical", "Similar to: modern", "Definition: not classical", ""]}
+{"data": ["2021-09-05T08:03:08.949372+00:00", 1669, "Your mother is", "restless", "Pronunciation: /\u02c8r\u025bstl\u025bs/", "Definition: lacking or not affording physical or mental rest", "Synonyms: uneasy"]}
