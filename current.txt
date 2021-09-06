@@ -1,1 +1,1 @@
-{"data": ["2021-09-06T18:04:01.478003+00:00", 1703, "Your mother is", "prickly-leaved", "Similar to: leafy", "Definition: having prickly leaves", "Synonyms: prickly-leafed"]}
+{"data": ["2021-09-06T19:03:13.018060+00:00", 1704, "Your mother is", "stoned", "Pronunciation: /sto\u028and/", "Definition: under the influence of narcotics", "Synonyms: hopped-up"]}
