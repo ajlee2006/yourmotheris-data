@@ -1,1 +1,1 @@
-{"data": ["2021-09-06T02:01:13.759104+00:00", 1687, "Your mother is", "pulmonic", "Pronunciation: /p\u0259l\u02c8m\u0251n\u026ak/", "Definition: relating to or affecting the lungs", "Synonyms: pneumonic, pulmonary"]}
+{"data": ["2021-09-06T03:05:03.358729+00:00", 1688, "Your mother is", "spheroidal", "Pronunciation: /sf\u026a\u02c8r\u0254\u026ad\u0259l/", "Definition: having the nature or shape of an ellipsoid", "Synonyms: ellipsoid, ellipsoidal"]}
