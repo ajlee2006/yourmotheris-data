@@ -1,1 +1,1 @@
-{"data": ["2021-09-05T23:03:42.027955+00:00", 1684, "Your mother is", "implicit", "Pronunciation: /\u026am\u02c8pl\u026as\u026at/", "Definition: implied though not directly expressed; inherent in the nature of something", "Synonyms: inexplicit"]}
+{"data": ["2021-09-06T00:04:15.236921+00:00", 1685, "Your mother is", "stunning", "Pronunciation: /\u02c8st\u0259ni\u014b/", "Definition: commanding attention", "Synonyms: arresting, sensational"]}
