@@ -1,1 +1,1 @@
-{"data": ["2021-09-06T06:04:54.909399+00:00", 1691, "Your mother is", "unanalyzed", "Similar to: crude", "Definition: not analyzed or broken down for detailed examination", ""]}
+{"data": ["2021-09-06T07:04:10.539347+00:00", 1692, "Your mother is", "carnivorous", "Pronunciation: /k\u0251r\u02c8n\u026av\u0259r\u0259s/", "Definition: (used of plants as well as animals) feeding on animals", ""]}
