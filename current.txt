@@ -1,1 +1,1 @@
-{"data": ["2021-09-06T08:03:51.875152+00:00", 1693, "Your mother is", "overseas", "Pronunciation: /\u02cco\u028av\u0259r\u02c8siz/", "Definition: in a foreign country", "Synonyms: abroad"]}
+{"data": ["2021-09-06T09:04:21.747377+00:00", 1694, "Your mother is", "greaseproof", "Pronunciation: /\u02c8grispruf/", "Definition: resistant to penetration by grease or oil or wax", ""]}
