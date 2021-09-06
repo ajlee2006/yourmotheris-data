@@ -1,1 +1,1 @@
-{"data": ["2021-09-06T09:04:21.747377+00:00", 1694, "Your mother is", "greaseproof", "Pronunciation: /\u02c8grispruf/", "Definition: resistant to penetration by grease or oil or wax", ""]}
+{"data": ["2021-09-06T10:00:18.176356+00:00", 1695, "Your mother is", "quarantined", "Pronunciation: /\u02c8kw\u0254r\u028cn\u02cctind/", "Definition: under forced isolation especially for health reasons", "Synonyms: isolated"]}
