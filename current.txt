@@ -1,1 +1,1 @@
-{"data": ["2021-09-06T20:01:44.193397+00:00", 1705, "Your mother is", "numerate", "Pronunciation: /\u02c8num\u0259\u02ccre\u026at/", "Definition: able to understand and use numbers", ""]}
+{"data": ["2021-09-06T21:01:25.334904+00:00", 1706, "Your mother is", "trembling", "Pronunciation: /\u02c8tr\u025bmb\u028cl\u026a\u014b/", "Definition: vibrating slightly and irregularly; as e.g. with fear or cold or like the leaves of an aspen in a breeze", "Synonyms: shaky, shivering"]}
