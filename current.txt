@@ -1,1 +1,1 @@
-{"data": ["2021-09-06T19:03:13.018060+00:00", 1704, "Your mother is", "stoned", "Pronunciation: /sto\u028and/", "Definition: under the influence of narcotics", "Synonyms: hopped-up"]}
+{"data": ["2021-09-06T20:01:44.193397+00:00", 1705, "Your mother is", "numerate", "Pronunciation: /\u02c8num\u0259\u02ccre\u026at/", "Definition: able to understand and use numbers", ""]}
