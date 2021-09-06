@@ -1,1 +1,1 @@
-{"data": ["2021-09-06T07:04:10.539347+00:00", 1692, "Your mother is", "carnivorous", "Pronunciation: /k\u0251r\u02c8n\u026av\u0259r\u0259s/", "Definition: (used of plants as well as animals) feeding on animals", ""]}
+{"data": ["2021-09-06T08:03:51.875152+00:00", 1693, "Your mother is", "overseas", "Pronunciation: /\u02cco\u028av\u0259r\u02c8siz/", "Definition: in a foreign country", "Synonyms: abroad"]}
