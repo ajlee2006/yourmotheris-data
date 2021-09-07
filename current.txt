@@ -1,1 +1,1 @@
-{"data": ["2021-09-07T14:02:21.915571+00:00", 1722, "Your mother is", "prenuptial", "Pronunciation: /pri\u02c8n\u028cp\u0283\u028cl/", "Definition: relating to events before a marriage", "Synonyms: antenuptial, premarital"]}
+{"data": ["2021-09-07T15:03:17.852101+00:00", 1723, "Your mother is", "cymose", "Pronunciation: /\u02c8sa\u026amo\u028as/", "Definition: having a usually flat-topped flower cluster in which the main and branch stems each end in a flower that opens before those below it or to its side", ""]}
