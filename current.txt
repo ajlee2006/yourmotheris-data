@@ -1,1 +1,1 @@
-{"data": ["2021-09-07T13:03:57.875316+00:00", 1721, "Your mother is", "polygynous", "Pronunciation: /p\u0259\u02c8l\u026ad\u0292\u0259n\u0259s/", "Definition: having more than one wife at a time", ""]}
+{"data": ["2021-09-07T14:02:21.915571+00:00", 1722, "Your mother is", "prenuptial", "Pronunciation: /pri\u02c8n\u028cp\u0283\u028cl/", "Definition: relating to events before a marriage", "Synonyms: antenuptial, premarital"]}
