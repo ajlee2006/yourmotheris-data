@@ -1,1 +1,1 @@
-{"data": ["2021-09-07T17:06:31.571710+00:00", 1725, "Your mother is", "derelict", "Pronunciation: /\u02c8d\u025br\u0259l\u026akt/", "Definition: failing in what duty requires", "Synonyms: delinquent, neglectful, remiss"]}
+{"data": ["2021-09-07T18:04:56.133048+00:00", 1726, "Your mother is", "uniovulate", "", "Definition: having a single ovule", "Synonyms: uniovular"]}
