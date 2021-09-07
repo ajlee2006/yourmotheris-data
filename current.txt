@@ -1,1 +1,1 @@
-{"data": ["2021-09-07T01:03:33.789240+00:00", 1710, "Your mother is", "logical", "Pronunciation: /\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: based on known statements or events or conditions", "Synonyms: legitimate"]}
+{"data": ["2021-09-07T02:02:48.489654+00:00", 1711, "Your mother is", "resinous", "Pronunciation: /\u02c8r\u025bz\u0259n\u0259s/", "Definition: having the characteristics of pitch or tar", "Synonyms: pitchy, resiny, tarry"]}
