@@ -1,1 +1,1 @@
-{"data": ["2021-09-07T00:06:04.423852+00:00", 1709, "Your mother is", "dressed-up", "Similar to: clad", "Definition: dressed in fancy or formal clothing", "Synonyms: dolled up, dressed, dressed to kill, dressed to the nines, spiffed up, spruced up, togged up"]}
+{"data": ["2021-09-07T01:03:33.789240+00:00", 1710, "Your mother is", "logical", "Pronunciation: /\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: based on known statements or events or conditions", "Synonyms: legitimate"]}
