@@ -1,1 +1,1 @@
-{"data": ["2021-09-07T20:01:54.861090+00:00", 1728, "Your mother is", "flaunty", "Pronunciation: /\u02c8fl\u0254nti/", "Definition: inclined to flaunt", ""]}
+{"data": ["2021-09-07T21:05:33.162820+00:00", 1729, "Your mother is", "crazy", "Pronunciation: /\u02c8kre\u026azi/", "Definition: affected with madness or insanity", "Synonyms: brainsick, demented, disturbed, mad, sick, unbalanced, unhinged"]}
