@@ -1,1 +1,1 @@
-{"data": ["2021-09-07T02:02:48.489654+00:00", 1711, "Your mother is", "resinous", "Pronunciation: /\u02c8r\u025bz\u0259n\u0259s/", "Definition: having the characteristics of pitch or tar", "Synonyms: pitchy, resiny, tarry"]}
+{"data": ["2021-09-07T03:00:40.715604+00:00", 1711, "Your mother is", "hooved", "Similar to: solid-hoofed", "Definition: having or resembling hoofs", "Synonyms: hoofed, ungulate, ungulated"]}
