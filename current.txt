@@ -1,1 +1,1 @@
-{"data": ["2021-09-07T15:03:17.852101+00:00", 1723, "Your mother is", "cymose", "Pronunciation: /\u02c8sa\u026amo\u028as/", "Definition: having a usually flat-topped flower cluster in which the main and branch stems each end in a flower that opens before those below it or to its side", ""]}
+{"data": ["2021-09-07T16:07:00.222535+00:00", 1724, "Your mother is", "piggy", "Pronunciation: /\u02c8p\u026a\u0261i/", "Definition: resembling swine; coarsely gluttonous or greedy", "Synonyms: hoggish, piggish, porcine, swinish"]}
