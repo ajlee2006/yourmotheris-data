@@ -1,1 +1,1 @@
-{"data": ["2021-09-07T16:07:00.222535+00:00", 1724, "Your mother is", "piggy", "Pronunciation: /\u02c8p\u026a\u0261i/", "Definition: resembling swine; coarsely gluttonous or greedy", "Synonyms: hoggish, piggish, porcine, swinish"]}
+{"data": ["2021-09-07T17:06:31.571710+00:00", 1725, "Your mother is", "derelict", "Pronunciation: /\u02c8d\u025br\u0259l\u026akt/", "Definition: failing in what duty requires", "Synonyms: delinquent, neglectful, remiss"]}
