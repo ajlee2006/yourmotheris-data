@@ -1,1 +1,1 @@
-{"data": ["2021-09-07T06:02:21.432223+00:00", 1714, "Your mother is", "quaternary", "Pronunciation: /kw\u0259\u02c8t\u025crn\u0259ri/", "Definition: coming next after the third and just before the fifth in position or time or degree or magnitude", "Synonyms: 4th, fourth"]}
+{"data": ["2021-09-07T07:03:07.527830+00:00", 1715, "Your mother is", "final", "Pronunciation: /\u02c8fa\u026an\u0259l/", "Definition: not to be altered or undone", "Synonyms: last"]}
