@@ -1,1 +1,1 @@
-{"data": ["2021-09-08T08:05:10.762426+00:00", 1740, "Your mother is", "horror-struck", "Pronunciation: /\u02c8h\u0254r\u0259r-str\u0259k/", "Definition: stricken with horror", "Synonyms: horrified, horror-stricken"]}
+{"data": ["2021-09-08T09:01:48.477364+00:00", 1741, "Your mother is", "crass", "Pronunciation: /kr\u00e6s/", "Definition: (of persons) so unrefined as to be lacking in discrimination and sensibility", ""]}
