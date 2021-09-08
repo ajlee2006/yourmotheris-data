@@ -1,1 +1,1 @@
-{"data": ["2021-09-08T21:04:13.206717+00:00", 1753, "Your mother is", "unkempt", "Pronunciation: /\u0259n\u02c8k\u025bmpt/", "Definition: not neatly combed", ""]}
+{"data": ["2021-09-08T22:02:33.304491+00:00", 1754, "Your mother is", "diaphyseal", "", "Definition: relating to the diaphysis of a bone", "Synonyms: diaphysial"]}
