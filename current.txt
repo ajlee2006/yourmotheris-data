@@ -1,1 +1,1 @@
-{"data": ["2021-09-08T18:06:56.259967+00:00", 1750, "Your mother is", "mineral", "Pronunciation: /\u02c8m\u026an\u0259r\u0259l/", "Definition: composed of matter other than plant or animal", ""]}
+{"data": ["2021-09-08T19:05:49.594532+00:00", 1751, "Your mother is", "worst", "Pronunciation: /w\u025crst/", "Definition: (superlative of `bad') most wanting in quality or value or condition", ""]}
