@@ -1,1 +1,1 @@
-{"data": ["2021-09-08T05:04:30.282873+00:00", 1737, "Your mother is", "industrious", "Pronunciation: /\u026an\u02c8d\u0259stri\u0259s/", "Definition: characterized by hard work and perseverance", "Synonyms: hardworking, tireless, untiring"]}
+{"data": ["2021-09-08T06:02:44.039779+00:00", 1738, "Your mother is", "songlike", "Similar to: melodic", "Definition: having a melody (as distinguished from recitative)", "Synonyms: ariose"]}
