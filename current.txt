@@ -1,1 +1,1 @@
-{"data": ["2021-09-08T14:02:51.193987+00:00", 1746, "Your mother is", "advisable", "Pronunciation: /\u00e6d\u02c8va\u026az\u0259b\u0259l/", "Definition: worthy of being recommended or suggested; prudent or wise", ""]}
+{"data": ["2021-09-08T15:02:51.013907+00:00", 1747, "Your mother is", "slaveless", "Similar to: free", "Definition: where slavery was prohibited", "Synonyms: free-soil, non-slave"]}
