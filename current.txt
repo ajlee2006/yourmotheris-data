@@ -1,1 +1,1 @@
-{"data": ["2021-09-08T00:03:10.192971+00:00", 1732, "Your mother is", "neural", "Pronunciation: /\u02c8nj\u028a\u0259r\u0259l/", "Definition: of or relating to the nervous system", "Synonyms: nervous"]}
+{"data": ["2021-09-08T01:02:45.653397+00:00", 1733, "Your mother is", "visually challenged", "Similar to: blind", "Definition: having greatly reduced vision", "Synonyms: dim-sighted, near-blind, purblind, sand-blind, visually impaired"]}
