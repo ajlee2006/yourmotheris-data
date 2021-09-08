@@ -1,1 +1,1 @@
-{"data": ["2021-09-08T13:03:05.298356+00:00", 1745, "Your mother is", "tinkling", "Pronunciation: /\u02c8t\u026a\u014bkl\u026a\u014b/", "Definition: like the short high ringing sound of a small bell", "Synonyms: tinkly"]}
+{"data": ["2021-09-08T14:02:51.193987+00:00", 1746, "Your mother is", "advisable", "Pronunciation: /\u00e6d\u02c8va\u026az\u0259b\u0259l/", "Definition: worthy of being recommended or suggested; prudent or wise", ""]}
