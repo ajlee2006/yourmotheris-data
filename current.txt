@@ -1,1 +1,1 @@
-{"data": ["2021-09-08T01:02:45.653397+00:00", 1733, "Your mother is", "visually challenged", "Similar to: blind", "Definition: having greatly reduced vision", "Synonyms: dim-sighted, near-blind, purblind, sand-blind, visually impaired"]}
+{"data": ["2021-09-08T02:02:34.172907+00:00", 1734, "Your mother is", "reversive", "Similar to: backward", "Definition: tending to be turned back", "Synonyms: returning"]}
