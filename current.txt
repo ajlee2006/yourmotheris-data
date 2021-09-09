@@ -1,1 +1,1 @@
-{"data": ["2021-09-09T06:03:52.567786+00:00", 1762, "Your mother is", "undulant", "Pronunciation: /\u02c8\u0259nd\u0292\u0259l\u0259nt/", "Definition: resembling waves in form or outline or motion", "Synonyms: undulatory"]}
+{"data": ["2021-09-09T07:02:48.401240+00:00", 1763, "Your mother is", "biyearly", "Pronunciation: /ba\u026a\u02c8jirli/", "Definition: occurring or payable twice each year", "Synonyms: biannual, half-yearly, semiannual"]}
