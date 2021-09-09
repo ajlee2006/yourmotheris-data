@@ -1,1 +1,1 @@
-{"data": ["2021-09-09T21:02:55.865017+00:00", 1777, "Your mother is", "retroflex", "Pronunciation: /\u02c8r\u025btr\u0259\u02ccfl\u025bks/", "Definition: pronounced with the tip of the tongue turned back toward the hard palate", "Synonyms: cacuminal"]}
+{"data": ["2021-09-09T22:03:14.062664+00:00", 1778, "Your mother is", "clattery", "Similar to: noisy", "Definition: a rattling sound as of hard things striking together", ""]}
