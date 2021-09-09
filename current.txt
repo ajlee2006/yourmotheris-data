@@ -1,1 +1,1 @@
-{"data": ["2021-09-09T03:02:34.506059+00:00", 1759, "Your mother is", "selfsame", "Pronunciation: /\u02c8s\u025blf\u02ccse\u026am/", "Definition: being the exact same one; not any other:", "Synonyms: identical, very"]}
+{"data": ["2021-09-09T04:02:27.114052+00:00", 1760, "Your mother is", "consolidative", "Similar to: integrative", "Definition: combining into a single unit", "Synonyms: unifying"]}
