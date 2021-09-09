@@ -1,1 +1,1 @@
-{"data": ["2021-09-09T02:05:22.250112+00:00", 1758, "Your mother is", "cell-like", "Pronunciation: /s\u025bl-la\u026ak/", "Definition: resembling a cell", ""]}
+{"data": ["2021-09-09T03:02:34.506059+00:00", 1759, "Your mother is", "selfsame", "Pronunciation: /\u02c8s\u025blf\u02ccse\u026am/", "Definition: being the exact same one; not any other:", "Synonyms: identical, very"]}
