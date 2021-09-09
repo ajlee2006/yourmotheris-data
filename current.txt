@@ -1,1 +1,1 @@
-{"data": ["2021-09-09T15:04:00.011333+00:00", 1771, "Your mother is", "bouffant", "Pronunciation: /bu\u02c8f\u0251nt/", "Definition: being puffed out; used of hair style or clothing", "Synonyms: puffy"]}
+{"data": ["2021-09-09T16:07:27.497783+00:00", 1772, "Your mother is", "activistic", "Similar to: active", "Definition: advocating or engaged in activism", "Synonyms: activist"]}
