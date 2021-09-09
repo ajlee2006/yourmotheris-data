@@ -1,1 +1,1 @@
-{"data": ["2021-09-09T05:03:11.671573+00:00", 1761, "Your mother is", "fain", "Pronunciation: /fe\u026an/", "Definition: having made preparations", "Synonyms: disposed, inclined, prepared"]}
+{"data": ["2021-09-09T06:03:52.567786+00:00", 1762, "Your mother is", "undulant", "Pronunciation: /\u02c8\u0259nd\u0292\u0259l\u0259nt/", "Definition: resembling waves in form or outline or motion", "Synonyms: undulatory"]}
