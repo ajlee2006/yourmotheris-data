@@ -1,1 +1,1 @@
-{"data": ["2021-09-09T20:05:33.681828+00:00", 1776, "Your mother is", "irresponsible", "Pronunciation: /\u02cc\u026ar\u026a\u02c8sp\u0251ns\u0259b\u0259l/", "Definition: showing lack of care for consequences", ""]}
+{"data": ["2021-09-09T21:02:55.865017+00:00", 1777, "Your mother is", "retroflex", "Pronunciation: /\u02c8r\u025btr\u0259\u02ccfl\u025bks/", "Definition: pronounced with the tip of the tongue turned back toward the hard palate", "Synonyms: cacuminal"]}
