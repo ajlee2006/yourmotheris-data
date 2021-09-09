@@ -1,1 +1,1 @@
-{"data": ["2021-09-09T11:02:32.826790+00:00", 1767, "Your mother is", "conductive", "Pronunciation: /k\u0259n\u02c8d\u0259kt\u026av/", "Definition: having the quality or power of conducting heat or electricity or sound; exhibiting conductivity", ""]}
+{"data": ["2021-09-09T12:03:11.404038+00:00", 1768, "Your mother is", "hypophysectomised", "", "Definition: having the pituitary gland removed by surgery", "Synonyms: hypophysectomized"]}
