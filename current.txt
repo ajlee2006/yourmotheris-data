@@ -1,1 +1,1 @@
-{"data": ["2021-09-09T09:01:37.854202+00:00", 1765, "Your mother is", "encouraging", "Pronunciation: /\u025bn\u02c8k\u025dr\u026ad\u0292\u026a\u014b/", "Definition: furnishing support and encouragement", "Synonyms: supporting"]}
+{"data": ["2021-09-09T10:05:04.695495+00:00", 1766, "Your mother is", "acapnic", "", "Definition: relating to or demonstrating acapnia", "Synonyms: acapnial, acapnotic"]}
