@@ -1,1 +1,1 @@
-{"data": ["2021-09-09T01:06:08.973137+00:00", 1757, "Your mother is", "thirteen", "Pronunciation: /\u03b8\u025cr-\u02c8tin/", "Definition: being one more than twelve", "Synonyms: 13, xiii"]}
+{"data": ["2021-09-09T02:05:22.250112+00:00", 1758, "Your mother is", "cell-like", "Pronunciation: /s\u025bl-la\u026ak/", "Definition: resembling a cell", ""]}
