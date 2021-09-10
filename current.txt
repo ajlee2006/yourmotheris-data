@@ -1,1 +1,1 @@
-{"data": ["2021-09-10T19:01:02.768528+00:00", 1798, "Your mother is", "trembling", "Pronunciation: /\u02c8tr\u025bmb\u028cl\u026a\u014b/", "Definition: vibrating slightly and irregularly; as e.g. with fear or cold or like the leaves of an aspen in a breeze", "Synonyms: shaky, shivering"]}
+{"data": ["2021-09-10T20:02:38.497698+00:00", 1799, "Your mother is", "vicious", "Pronunciation: /\u02c8v\u026a\u0283\u0259s/", "Definition: having the nature of vice", "Synonyms: evil"]}
