@@ -1,1 +1,1 @@
-{"data": ["2021-09-10T14:02:33.630618+00:00", 1793, "Your mother is", "common", "Pronunciation: /\u02c8k\u0251m\u0259n/", "Definition: common to or shared by two or more parties", "Synonyms: mutual"]}
+{"data": ["2021-09-10T15:01:38.317161+00:00", 1794, "Your mother is", "15th", "Similar to: ordinal", "Definition: coming next after the fourteenth and just before the sixteenth in position", "Synonyms: fifteenth"]}
