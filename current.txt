@@ -1,1 +1,1 @@
-{"data": ["2021-09-10T07:04:08.902539+00:00", 1787, "Your mother is", "tripinnate", "Pronunciation: /tra\u026a\u02c8p\u026ane\u026at/", "Definition: (of a leaf shape) thrice pinnate", "Synonyms: tripinnated"]}
+{"data": ["2021-09-10T09:04:10.399732+00:00", 1788, "Your mother is", "numerical", "Pronunciation: /nu\u02c8m\u025br\u026ak\u0259l/", "Definition: measured or expressed in numbers", "Synonyms: numeric"]}
