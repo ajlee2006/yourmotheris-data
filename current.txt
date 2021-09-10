@@ -1,1 +1,1 @@
-{"data": ["2021-09-09T23:02:35.140741+00:00", 1779, "Your mother is", "inorganic", "Pronunciation: /\u02cc\u026an\u0254r\u02c8\u0261\u00e6n\u026ak/", "Definition: lacking the properties characteristic of living organisms", ""]}
+{"data": ["2021-09-10T00:13:45.177554+00:00", 1780, "Your mother is", "archegoniate", "Pronunciation: /\u02cc\u0251rk\u0259\u02c8\u0261o\u028ani\u026at/", "Definition: of or relating to an archegonium", "Synonyms: archegonial"]}
