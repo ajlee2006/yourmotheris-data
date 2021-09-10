@@ -1,1 +1,1 @@
-{"data": ["2021-09-10T20:02:38.497698+00:00", 1799, "Your mother is", "vicious", "Pronunciation: /\u02c8v\u026a\u0283\u0259s/", "Definition: having the nature of vice", "Synonyms: evil"]}
+{"data": ["2021-09-10T21:02:30.853188+00:00", 1800, "Your mother is", "harsh", "Pronunciation: /h\u0251r\u0283/", "Definition: unpleasantly stern", "Synonyms: rough"]}
