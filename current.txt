@@ -1,1 +1,1 @@
-{"data": ["2021-09-10T18:04:14.723444+00:00", 1797, "Your mother is", "impressive", "Pronunciation: /\u026am\u02c8pr\u025bs\u026av/", "Definition: producing a strong effect", "Synonyms: telling"]}
+{"data": ["2021-09-10T19:01:02.768528+00:00", 1798, "Your mother is", "trembling", "Pronunciation: /\u02c8tr\u025bmb\u028cl\u026a\u014b/", "Definition: vibrating slightly and irregularly; as e.g. with fear or cold or like the leaves of an aspen in a breeze", "Synonyms: shaky, shivering"]}
