@@ -1,1 +1,1 @@
-{"data": ["2021-09-10T06:05:09.935149+00:00", 1786, "Your mother is", "potty", "Pronunciation: /\u02c8p\u0251ti/", "Definition: slightly intoxicated", "Synonyms: tiddly, tipsy"]}
+{"data": ["2021-09-10T07:04:08.902539+00:00", 1787, "Your mother is", "tripinnate", "Pronunciation: /tra\u026a\u02c8p\u026ane\u026at/", "Definition: (of a leaf shape) thrice pinnate", "Synonyms: tripinnated"]}
