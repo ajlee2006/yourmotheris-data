@@ -1,1 +1,1 @@
-{"data": ["2021-09-10T00:13:45.177554+00:00", 1780, "Your mother is", "archegoniate", "Pronunciation: /\u02cc\u0251rk\u0259\u02c8\u0261o\u028ani\u026at/", "Definition: of or relating to an archegonium", "Synonyms: archegonial"]}
+{"data": ["2021-09-10T01:06:58.426548+00:00", 1781, "Your mother is", "acoustical", "Pronunciation: /\u028c\u02c8kust\u026ak\u028cl/", "Definition: of or relating to the science of acoustics", "Synonyms: acoustic"]}
