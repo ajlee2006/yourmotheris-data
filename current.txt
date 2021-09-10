@@ -1,1 +1,1 @@
-{"data": ["2021-09-10T13:03:16.995143+00:00", 1792, "Your mother is", "grass-eating", "Pronunciation: /gr\u00e6s-\u02c8it\u026a\u014b/", "Definition: feeding on grasses", ""]}
+{"data": ["2021-09-10T14:02:33.630618+00:00", 1793, "Your mother is", "common", "Pronunciation: /\u02c8k\u0251m\u0259n/", "Definition: common to or shared by two or more parties", "Synonyms: mutual"]}
