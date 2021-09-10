@@ -1,1 +1,1 @@
-{"data": ["2021-09-10T04:03:33.733280+00:00", 1784, "Your mother is", "resistless", "Pronunciation: /r\u026a\u02c8z\u026astl\u026as/", "Definition: impossible to resist; overpowering", "Synonyms: irresistible"]}
+{"data": ["2021-09-10T05:02:17.090666+00:00", 1785, "Your mother is", "latino", "Pronunciation: /l\u00e6\u02c8tino\u028a/", "Definition: related to a Spanish-speaking people or culture", "Synonyms: hispanic"]}
