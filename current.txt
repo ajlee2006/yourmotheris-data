@@ -1,1 +1,1 @@
-{"data": ["2021-09-10T02:05:32.047304+00:00", 1782, "Your mother is", "interlocking", "Pronunciation: /\u02c8\u026ant\u025dr\u02ccl\u0251k\u026a\u014b/", "Definition: linked or locked closely together as by dovetailing", "Synonyms: interlacing, interlinking, interwoven"]}
+{"data": ["2021-09-10T03:03:32.994198+00:00", 1783, "Your mother is", "decreed", "Pronunciation: /d\u026a\u02c8krid/", "Definition: fixed or established especially by order or command", "Synonyms: appointed, ordained, prescribed"]}
