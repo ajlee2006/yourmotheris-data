@@ -1,1 +1,1 @@
-{"data": ["2021-09-10T16:06:03.629769+00:00", 1795, "Your mother is", "insomniac", "Pronunciation: /\u026an\u02c8s\u0251mni\u02cc\u00e6k/", "Definition: experiencing or accompanied by sleeplessness", "Synonyms: sleepless, watchful"]}
+{"data": ["2021-09-10T17:01:27.382415+00:00", 1796, "Your mother is", "pedantic", "Pronunciation: /p\u026a\u02c8d\u00e6nt\u026ak/", "Definition: marked by a narrow focus on or display of learning especially its trivial aspects", "Synonyms: academic, donnish"]}
