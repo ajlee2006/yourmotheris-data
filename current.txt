@@ -1,1 +1,1 @@
-{"data": ["2021-09-11T21:02:05.503746+00:00", 1824, "Your mother is", "supportable", "Pronunciation: /s\u0259\u02c8po\u028art\u0259b\u0259l/", "Definition: capable of being borne though unpleasant", "Synonyms: bearable, endurable, sufferable"]}
+{"data": ["2021-09-11T22:00:21.487939+00:00", 1825, "Your mother is", "diarrheic", "Similar to: regular", "Definition: of or relating to diarrhea", "Synonyms: diarrheal, diarrhetic, diarrhoeal, diarrhoeic, diarrhoetic"]}
