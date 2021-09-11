@@ -1,1 +1,1 @@
-{"data": ["2021-09-11T17:03:54.843353+00:00", 1820, "Your mother is", "bipedal", "Pronunciation: /\u02c8ba\u026a\u02ccp\u025bd\u0259l/", "Definition: having two feet", "Synonyms: biped, two-footed"]}
+{"data": ["2021-09-11T18:04:20.413376+00:00", 1821, "Your mother is", "straightlaced", "Similar to: proper", "Definition: exaggeratedly proper", "Synonyms: priggish, prim, prissy, prudish, puritanical, square-toed, straight-laced, strait-laced, straitlaced, tight-laced, victorian"]}
