@@ -1,1 +1,1 @@
-{"data": ["2021-09-11T02:04:26.979745+00:00", 1805, "Your mother is", "apoplectoid", "", "Definition: resembling apoplexy", "Synonyms: apoplectiform"]}
+{"data": ["2021-09-11T03:03:39.385134+00:00", 1806, "Your mother is", "opportunist", "Pronunciation: /\u02cc\u0251p\u025dr\u02c8tun\u026ast/", "Definition: taking immediate advantage, often unethically, of any circumstance of possible benefit", "Synonyms: opportunistic, timeserving"]}
