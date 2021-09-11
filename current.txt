@@ -1,1 +1,1 @@
-{"data": ["2021-09-11T00:05:36.306767+00:00", 1803, "Your mother is", "timely", "Pronunciation: /\u02c8ta\u026amli/", "Definition: done or happening at the appropriate or proper time", "Synonyms: seasonable, well-timed, well timed"]}
+{"data": ["2021-09-11T01:05:15.256526+00:00", 1804, "Your mother is", "thimble-shaped", "Pronunciation: /\u02c8\u03b8\u026amb\u0259l-\u0283e\u026apt/", "Definition: shaped in the form of a thimble", ""]}
