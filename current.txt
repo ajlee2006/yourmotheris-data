@@ -1,1 +1,1 @@
-{"data": ["2021-09-11T12:03:43.227855+00:00", 1815, "Your mother is", "exquisite", "Pronunciation: /\u02c8\u025bkskw\u026az\u026at/", "Definition: delicately beautiful", "Synonyms: dainty"]}
+{"data": ["2021-09-11T13:00:55.258838+00:00", 1816, "Your mother is", "anuric", "", "Definition: of or relating to an inability to urinate", "Synonyms: anuretic"]}
