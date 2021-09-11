@@ -1,1 +1,1 @@
-{"data": ["2021-09-11T20:03:01.426636+00:00", 1823, "Your mother is", "clear-cut", "Pronunciation: /klir-k\u0259t/", "Definition: clearly or sharply defined to the mind", "Synonyms: distinct, trenchant"]}
+{"data": ["2021-09-11T21:02:05.503746+00:00", 1824, "Your mother is", "supportable", "Pronunciation: /s\u0259\u02c8po\u028art\u0259b\u0259l/", "Definition: capable of being borne though unpleasant", "Synonyms: bearable, endurable, sufferable"]}
