@@ -1,1 +1,1 @@
-{"data": ["2021-09-11T07:03:54.141446+00:00", 1810, "Your mother is", "infrared", "Pronunciation: /\u02cc\u026anfr\u0259\u02c8r\u025bd/", "Definition: having or employing wavelengths longer than light but shorter than radio waves; lying outside the visible spectrum at its red end", ""]}
+{"data": ["2021-09-11T08:02:08.359259+00:00", 1811, "Your mother is", "massive", "Pronunciation: /\u02c8m\u00e6s\u026av/", "Definition: imposing in size or bulk or solidity", "Synonyms: monolithic, monumental"]}
