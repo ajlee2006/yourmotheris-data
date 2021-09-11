@@ -1,1 +1,1 @@
-{"data": ["2021-09-11T01:05:15.256526+00:00", 1804, "Your mother is", "thimble-shaped", "Pronunciation: /\u02c8\u03b8\u026amb\u0259l-\u0283e\u026apt/", "Definition: shaped in the form of a thimble", ""]}
+{"data": ["2021-09-11T02:04:26.979745+00:00", 1805, "Your mother is", "apoplectoid", "", "Definition: resembling apoplexy", "Synonyms: apoplectiform"]}
