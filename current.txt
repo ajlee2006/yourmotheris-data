@@ -1,1 +1,1 @@
-{"data": ["2021-09-11T14:00:41.028724+00:00", 1817, "Your mother is", "troubling", "Pronunciation: /\u02c8tr\u028cb\u028cl\u026a\u014b/", "Definition: causing distress or worry or anxiety", "Synonyms: distressful, distressing, disturbing, perturbing, worrisome, worrying"]}
+{"data": ["2021-09-11T15:02:34.277617+00:00", 1818, "Your mother is", "westside", "Pronunciation: /\u02c8w\u025bst\u02c8sa\u026ad/", "Definition: of the western part of a city", ""]}
