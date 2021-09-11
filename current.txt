@@ -1,1 +1,1 @@
-{"data": ["2021-09-11T10:03:04.643160+00:00", 1813, "Your mother is", "keen", "Pronunciation: /kin/", "Definition: intense or sharp", "Synonyms: exquisite"]}
+{"data": ["2021-09-11T11:01:10.957295+00:00", 1814, "Your mother is", "obtainable", "Pronunciation: /\u028cb\u02c8te\u026an\u028cb\u028cl/", "Definition: capable of being obtained", "Synonyms: getable, gettable, procurable"]}
