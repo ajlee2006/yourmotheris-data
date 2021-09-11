@@ -1,1 +1,1 @@
-{"data": ["2021-09-11T19:00:36.782346+00:00", 1822, "Your mother is", "hunched", "Pronunciation: /h\u028cnt\u0283t/", "Definition: having the back and shoulders rounded; not erect", "Synonyms: crooked, round-backed, round-shouldered, stooped, stooping"]}
+{"data": ["2021-09-11T20:03:01.426636+00:00", 1823, "Your mother is", "clear-cut", "Pronunciation: /klir-k\u0259t/", "Definition: clearly or sharply defined to the mind", "Synonyms: distinct, trenchant"]}
