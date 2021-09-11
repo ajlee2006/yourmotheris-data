@@ -1,1 +1,1 @@
-{"data": ["2021-09-11T05:02:13.056573+00:00", 1808, "Your mother is", "drowsy", "Pronunciation: /\u02c8dra\u028azi/", "Definition: showing lack of attention or boredom", "Synonyms: oscitant, yawning"]}
+{"data": ["2021-09-11T06:02:58.972167+00:00", 1809, "Your mother is", "technical", "Pronunciation: /\u02c8t\u025bkn\u026ak\u0259l/", "Definition: of or relating to a practical subject that is organized according to scientific principles", "Synonyms: technological"]}
