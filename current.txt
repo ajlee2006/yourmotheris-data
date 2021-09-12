@@ -1,1 +1,1 @@
-{"data": ["2021-09-12T03:05:07.715539+00:00", 1830, "Your mother is", "bipinnatifid", "Similar to: compound", "Definition: pinnatifid with the segments also pinnatifid", ""]}
+{"data": ["2021-09-12T04:02:26.684416+00:00", 1831, "Your mother is", "icelandic-speaking", "Similar to: communicative", "Definition: able to communicate in Icelandic", ""]}
