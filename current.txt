@@ -1,1 +1,1 @@
-{"data": ["2021-09-12T04:02:26.684416+00:00", 1831, "Your mother is", "icelandic-speaking", "Similar to: communicative", "Definition: able to communicate in Icelandic", ""]}
+{"data": ["2021-09-12T05:04:32.264412+00:00", 1832, "Your mother is", "plenteous", "Pronunciation: /\u02c8pl\u025bnti\u0259s/", "Definition: affording an abundant supply", "Synonyms: ample, copious, plentiful, rich"]}
