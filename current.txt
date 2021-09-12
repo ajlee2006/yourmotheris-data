@@ -1,1 +1,1 @@
-{"data": ["2021-09-11T23:03:46.387113+00:00", 1826, "Your mother is", "checked", "Pronunciation: /t\u0283\u025bkt/", "Definition: patterned with alternating squares of color", "Synonyms: checkered, chequered"]}
+{"data": ["2021-09-12T00:06:32.366720+00:00", 1827, "Your mother is", "five-hundredth", "Similar to: ordinal", "Definition: the ordinal number of five hundred in counting order", "Synonyms: 500th"]}
