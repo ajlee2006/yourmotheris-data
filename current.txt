@@ -1,1 +1,1 @@
-{"data": ["2021-09-12T14:03:32.738352+00:00", 1841, "Your mother is", "single-bedded", "Similar to: bedded", "Definition: having single beds", ""]}
+{"data": ["2021-09-12T15:04:23.557173+00:00", 1842, "Your mother is", "hex", "Pronunciation: /h\u025bks/", "Definition: of or pertaining to a number system having 16 as its base", "Synonyms: hexadecimal"]}
