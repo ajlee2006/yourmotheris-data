@@ -1,1 +1,1 @@
-{"data": ["2021-09-12T15:04:23.557173+00:00", 1842, "Your mother is", "hex", "Pronunciation: /h\u025bks/", "Definition: of or pertaining to a number system having 16 as its base", "Synonyms: hexadecimal"]}
+{"data": ["2021-09-12T16:01:26.075020+00:00", 1843, "Your mother is", "pantalooned", "Similar to: clad", "Definition: dressed in trousers", "Synonyms: breeched, trousered"]}
