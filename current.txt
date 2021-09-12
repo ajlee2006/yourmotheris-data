@@ -1,1 +1,1 @@
-{"data": ["2021-09-12T19:02:55.036950+00:00", 1846, "Your mother is", "32nd", "Similar to: ordinal", "Definition: the ordinal number of thirty-two in counting order", "Synonyms: thirty-second"]}
+{"data": ["2021-09-12T20:01:52.818956+00:00", 1847, "Your mother is", "granular", "Pronunciation: /\u02c8gr\u00e6nj\u0259l\u0259r/", "Definition: composed of or covered with particles resembling meal in texture or consistency", "Synonyms: coarse-grained, farinaceous, grainy, granulose, gritty, mealy"]}
