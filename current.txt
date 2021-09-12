@@ -1,1 +1,1 @@
-{"data": ["2021-09-12T17:01:30.750030+00:00", 1844, "Your mother is", "rough-cut", "Pronunciation: /\u02c8r\u0259f-\u02c8k\u0259t/", "Definition: of stone or timber; shaped roughly without finishing", "Synonyms: roughhewn"]}
+{"data": ["2021-09-12T18:01:37.304585+00:00", 1845, "Your mother is", "beamy", "Pronunciation: /\u02c8bimi/", "Definition: radiating or as if radiating light", "Synonyms: beaming, effulgent, radiant, refulgent"]}
