@@ -1,1 +1,1 @@
-{"data": ["2021-09-12T02:03:14.129998+00:00", 1829, "Your mother is", "nonadaptive", "Similar to: maladaptive", "Definition: (of a trait or condition) failing to serve an adjustive purpose", "Synonyms: dysfunctional"]}
+{"data": ["2021-09-12T03:05:07.715539+00:00", 1830, "Your mother is", "bipinnatifid", "Similar to: compound", "Definition: pinnatifid with the segments also pinnatifid", ""]}
