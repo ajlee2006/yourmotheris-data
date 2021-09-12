@@ -1,1 +1,1 @@
-{"data": ["2021-09-12T11:01:07.068789+00:00", 1838, "Your mother is", "capitalistic", "Pronunciation: /\u02cck\u00e6p\u026a\u02c8t\u0259l\u026ast\u026ak/", "Definition: favoring or practicing capitalism", "Synonyms: capitalist"]}
+{"data": ["2021-09-12T12:02:26.925843+00:00", 1839, "Your mother is", "hand-operated", "Similar to: manual", "Definition: operated by hand", "Synonyms: non-automatic"]}
