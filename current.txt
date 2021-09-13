@@ -1,1 +1,1 @@
-{"data": ["2021-09-13T08:01:56.972748+00:00", 1859, "Your mother is", "alien", "Pronunciation: /\u02c8e\u026alj\u0259n/", "Definition: not contained in or deriving from the essential nature of something", "Synonyms: foreign"]}
+{"data": ["2021-09-13T09:04:40.344554+00:00", 1860, "Your mother is", "succeeding", "Pronunciation: /s\u028ck\u02c8sid\u026a\u014b/", "Definition: (of elected officers) elected but not yet serving", "Synonyms: future, next"]}
