@@ -1,1 +1,1 @@
-{"data": ["2021-09-13T14:02:52.593664+00:00", 1865, "Your mother is", "unsolvable", "Pronunciation: /\u0259n\u02c8s\u0251lv\u0259b\u0259l/", "Definition: not easily solved", "Synonyms: insolvable, unresolvable, unsoluble"]}
+{"data": ["2021-09-13T15:02:57.590925+00:00", 1866, "Your mother is", "free burning", "Similar to: continuous", "Definition: (of an electric arc) continuous", "Synonyms: sustained"]}
