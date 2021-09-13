@@ -1,1 +1,1 @@
-{"data": ["2021-09-13T01:03:26.486758+00:00", 1852, "Your mother is", "unsleeping", "Similar to: awake", "Definition: fully awake", "Synonyms: wide-awake"]}
+{"data": ["2021-09-13T02:03:57.679227+00:00", 1853, "Your mother is", "gabby", "Pronunciation: /\u02c8\u0261\u00e6bi/", "Definition: full of trivial conversation", "Synonyms: chatty, garrulous, loquacious, talkative, talky"]}
