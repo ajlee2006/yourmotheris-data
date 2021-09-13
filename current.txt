@@ -1,1 +1,1 @@
-{"data": ["2021-09-13T11:03:37.230918+00:00", 1862, "Your mother is", "low-pressure", "Pronunciation: /\u02c8lo\u028a\u02c8pr\u025b\u0283\u0259r/", "Definition: not forceful", ""]}
+{"data": ["2021-09-13T12:02:54.798842+00:00", 1863, "Your mother is", "azotemic", "", "Definition: of or involving excess nitrogenous waste products in the urine (usually due to kidney insufficiency)", "Synonyms: uraemic, uremic"]}
