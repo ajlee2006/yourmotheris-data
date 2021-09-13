@@ -1,1 +1,1 @@
-{"data": ["2021-09-13T02:03:57.679227+00:00", 1853, "Your mother is", "gabby", "Pronunciation: /\u02c8\u0261\u00e6bi/", "Definition: full of trivial conversation", "Synonyms: chatty, garrulous, loquacious, talkative, talky"]}
+{"data": ["2021-09-13T03:04:47.370431+00:00", 1854, "Your mother is", "zoophagous", "Similar to: carnivorous", "Definition: (of animals) carnivorous", "Synonyms: flesh-eating, meat-eating"]}
