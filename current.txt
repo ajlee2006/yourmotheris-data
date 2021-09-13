@@ -1,1 +1,1 @@
-{"data": ["2021-09-12T23:03:16.481520+00:00", 1850, "Your mother is", "merciful", "Pronunciation: /\u02c8m\u025crs\u026af\u0259l/", "Definition: showing or giving mercy", ""]}
+{"data": ["2021-09-13T00:06:34.739637+00:00", 1851, "Your mother is", "grecian", "Pronunciation: /\u02c8gri\u0283\u0259n/", "Definition: of or relating to or characteristic of Greece or the Greeks or the Greek language", "Synonyms: greek, hellenic"]}
