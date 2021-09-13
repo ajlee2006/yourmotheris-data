@@ -1,1 +1,1 @@
-{"data": ["2021-09-13T18:02:04.006238+00:00", 1869, "Your mother is", "bluish-lilac", "Similar to: chromatic", "Definition: of lavender tinged with blue", "Synonyms: blue-lilac"]}
+{"data": ["2021-09-13T19:00:45.096834+00:00", 1870, "Your mother is", "revenant", "Pronunciation: /\u02c8r\u025bv\u0259n\u0259nt/", "Definition: coming back", "Synonyms: recurring"]}
