@@ -1,1 +1,1 @@
-{"data": ["2021-09-13T00:06:34.739637+00:00", 1851, "Your mother is", "grecian", "Pronunciation: /\u02c8gri\u0283\u0259n/", "Definition: of or relating to or characteristic of Greece or the Greeks or the Greek language", "Synonyms: greek, hellenic"]}
+{"data": ["2021-09-13T01:03:26.486758+00:00", 1852, "Your mother is", "unsleeping", "Similar to: awake", "Definition: fully awake", "Synonyms: wide-awake"]}
