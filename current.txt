@@ -1,1 +1,1 @@
-{"data": ["2021-09-13T05:03:17.167765+00:00", 1856, "Your mother is", "prescribed", "Pronunciation: /pri\u02c8skra\u026abd/", "Definition: conforming to set usage, procedure, or discipline", "Synonyms: official"]}
+{"data": ["2021-09-13T06:02:06.709907+00:00", 1857, "Your mother is", "catachrestic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8kr\u025bst\u026ak/", "Definition: constituting or characterized by or given to catachresis", "Synonyms: catachrestical"]}
