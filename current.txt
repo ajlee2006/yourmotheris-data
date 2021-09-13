@@ -1,1 +1,1 @@
-{"data": ["2021-09-13T16:02:36.560283+00:00", 1867, "Your mother is", "alien", "Pronunciation: /\u02c8e\u026alj\u0259n/", "Definition: not contained in or deriving from the essential nature of something", "Synonyms: foreign"]}
+{"data": ["2021-09-13T17:03:44.948150+00:00", 1868, "Your mother is", "200", "Similar to: cardinal", "Definition: being ten more than one hundred ninety", "Synonyms: cc, two hundred"]}
