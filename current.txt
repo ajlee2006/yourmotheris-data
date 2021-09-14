@@ -1,1 +1,1 @@
-{"data": ["2021-09-14T05:00:37.423198+00:00", 1880, "Your mother is", "unbeknownst", "Pronunciation: /\u02cc\u0259nb\u026a\u02c8no\u028anst/", "Definition: (usually used with `to') occurring or existing without the knowledge of", "Synonyms: unbeknown"]}
+{"data": ["2021-09-14T06:02:53.151047+00:00", 1881, "Your mother is", "stone-sober", "Similar to: sober", "Definition: totally sober", "Synonyms: cold sober"]}
