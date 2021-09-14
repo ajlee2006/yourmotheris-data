@@ -1,1 +1,1 @@
-{"data": ["2021-09-14T03:02:22.862951+00:00", 1878, "Your mother is", "tsaristic", "Pronunciation: /z\u0251\u02c8r\u026ast\u026ak/", "Definition: of or relating to or characteristic of a czar", "Synonyms: czarist, czaristic, tsarist, tzarist"]}
+{"data": ["2021-09-14T04:04:49.307383+00:00", 1879, "Your mother is", "vaporized", "Pronunciation: /\u02c8ve\u026ap\u025dr\u02cca\u026azd/", "Definition: converted into a gas or vapor", "Synonyms: gasified, vapourised, volatilised, volatilized"]}
