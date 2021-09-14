@@ -1,1 +1,1 @@
-{"data": ["2021-09-14T04:04:49.307383+00:00", 1879, "Your mother is", "vaporized", "Pronunciation: /\u02c8ve\u026ap\u025dr\u02cca\u026azd/", "Definition: converted into a gas or vapor", "Synonyms: gasified, vapourised, volatilised, volatilized"]}
+{"data": ["2021-09-14T05:00:37.423198+00:00", 1880, "Your mother is", "unbeknownst", "Pronunciation: /\u02cc\u0259nb\u026a\u02c8no\u028anst/", "Definition: (usually used with `to') occurring or existing without the knowledge of", "Synonyms: unbeknown"]}
