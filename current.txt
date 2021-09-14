@@ -1,1 +1,1 @@
-{"data": ["2021-09-14T00:04:12.261120+00:00", 1875, "Your mother is", "unsmoothed", "Similar to: wrinkled", "Definition: not having been made smooth by having hands run over the surface", ""]}
+{"data": ["2021-09-14T01:04:35.180600+00:00", 1876, "Your mother is", "unedited", "Pronunciation: /\u028c\u02c8n\u025bd\u028ct\u026ad/", "Definition: not changed by editing", ""]}
