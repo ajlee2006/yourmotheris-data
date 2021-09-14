@@ -1,1 +1,1 @@
-{"data": ["2021-09-14T07:02:20.695864+00:00", 1882, "Your mother is", "almighty", "Pronunciation: /\u0254l\u02c8ma\u026ati/", "Definition: having unlimited power", "Synonyms: all-powerful, omnipotent"]}
+{"data": ["2021-09-14T08:03:59.606168+00:00", 1883, "Your mother is", "alkalic", "Similar to: alcalescent", "Definition: relating to or containing an alkali; having a pH greater than 7", "Synonyms: alkaline"]}
