@@ -1,1 +1,1 @@
-{"data": ["2021-09-14T02:03:54.391854+00:00", 1877, "Your mother is", "finespun", "Pronunciation: /\u02c8fa\u026an\u02c8sp\u0259n/", "Definition: developed in excessively fine detail", "Synonyms: hairsplitting"]}
+{"data": ["2021-09-14T03:02:22.862951+00:00", 1878, "Your mother is", "tsaristic", "Pronunciation: /z\u0251\u02c8r\u026ast\u026ak/", "Definition: of or relating to or characteristic of a czar", "Synonyms: czarist, czaristic, tsarist, tzarist"]}
