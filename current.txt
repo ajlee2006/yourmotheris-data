@@ -1,1 +1,1 @@
-{"data": ["2021-09-14T14:01:44.892146+00:00", 1889, "Your mother is", "indistinguishable", "Pronunciation: /\u02cc\u026and\u026a\u02c8st\u026a\u014bgw\u026a\u0283\u0259b\u0259l/", "Definition: exactly alike; incapable of being perceived as different", "Synonyms: identical"]}
+{"data": ["2021-09-14T15:05:15.950611+00:00", 1890, "Your mother is", "impromptu", "Pronunciation: /\u026am\u02c8pr\u0251mptu/", "Definition: with little or no preparation or forethought", "Synonyms: ad-lib, extemporaneous, extemporary, extempore, off-the-cuff, offhand, offhanded, unrehearsed"]}
