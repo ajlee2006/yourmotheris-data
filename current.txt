@@ -1,1 +1,1 @@
-{"data": ["2021-09-14T11:03:17.701860+00:00", 1886, "Your mother is", "eyeless", "Pronunciation: /\u02c8a\u026al\u026as/", "Definition: lacking sight", "Synonyms: sightless, unseeing"]}
+{"data": ["2021-09-14T12:03:45.562215+00:00", 1887, "Your mother is", "unilluminating", "", "Definition: failing to inform or clarify", "Synonyms: unenlightening"]}
