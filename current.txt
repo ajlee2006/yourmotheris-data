@@ -1,1 +1,1 @@
-{"data": ["2021-09-14T16:02:07.224440+00:00", 1891, "Your mother is", "armour-clad", "Pronunciation: /\u02c8\u0251rm\u0259r-kl\u00e6d/", "Definition: covered with heavy steel", "Synonyms: armor-clad, armor-plated, armour-plated, steel-plated"]}
+{"data": ["2021-09-14T17:03:26.061138+00:00", 1892, "Your mother is", "good enough", "Pronunciation: /\u0261\u028ad-\u026a\u02c8n\u0259f/", "Definition: adequately good for the circumstances", ""]}
