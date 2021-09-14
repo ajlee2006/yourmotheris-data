@@ -1,1 +1,1 @@
-{"data": ["2021-09-14T15:05:15.950611+00:00", 1890, "Your mother is", "impromptu", "Pronunciation: /\u026am\u02c8pr\u0251mptu/", "Definition: with little or no preparation or forethought", "Synonyms: ad-lib, extemporaneous, extemporary, extempore, off-the-cuff, offhand, offhanded, unrehearsed"]}
+{"data": ["2021-09-14T16:02:07.224440+00:00", 1891, "Your mother is", "armour-clad", "Pronunciation: /\u02c8\u0251rm\u0259r-kl\u00e6d/", "Definition: covered with heavy steel", "Synonyms: armor-clad, armor-plated, armour-plated, steel-plated"]}
