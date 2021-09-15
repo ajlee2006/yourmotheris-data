@@ -1,1 +1,1 @@
-{"data": ["2021-09-15T00:05:49.243597+00:00", 1899, "Your mother is", "deceitful", "Pronunciation: /d\u026a\u02c8sitf\u0259l/", "Definition: intended to deceive", "Synonyms: fallacious, fraudulent"]}
+{"data": ["2021-09-15T01:03:13.782637+00:00", 1900, "Your mother is", "good-humoured", "Pronunciation: /\u0261\u028ad\u02c8hjum\u0259d/", "Definition: disposed to please", "Synonyms: amiable, good-humored"]}
