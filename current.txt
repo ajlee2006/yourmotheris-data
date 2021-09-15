@@ -1,1 +1,1 @@
-{"data": ["2021-09-15T19:01:51.622387+00:00", 1918, "Your mother is", "unsectarian", "Similar to: ecumenic", "Definition: not restricted to one sect or school or party", "Synonyms: nonsectarian"]}
+{"data": ["2021-09-15T20:04:26.823314+00:00", 1919, "Your mother is", "ultraviolet", "Pronunciation: /\u02cc\u0259ltr\u0259\u02c8va\u026a\u0259l\u026at/", "Definition: having or employing wavelengths shorter than light but longer than X-rays; lying outside the visible spectrum at its violet end", ""]}
