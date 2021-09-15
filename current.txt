@@ -1,1 +1,1 @@
-{"data": ["2021-09-15T17:00:55.539307+00:00", 1916, "Your mother is", "self-assertive", "Pronunciation: /s\u025blf-\u0259\u02c8s\u025crt\u026av/", "Definition: offensively self-assertive", "Synonyms: bumptious"]}
+{"data": ["2021-09-15T18:04:56.219342+00:00", 1917, "Your mother is", "banal", "Pronunciation: /\u02c8be\u026an\u0259l/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, tired, trite, well-worn"]}
