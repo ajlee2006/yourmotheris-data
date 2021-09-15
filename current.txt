@@ -1,1 +1,1 @@
-{"data": ["2021-09-15T10:01:38.881908+00:00", 1909, "Your mother is", "communicative", "Pronunciation: /k\u0259\u02c8mjun\u0259\u02ccke\u026at\u026av/", "Definition: able or tending to communicate", "Synonyms: communicatory"]}
+{"data": ["2021-09-15T11:02:28.121227+00:00", 1910, "Your mother is", "immediate", "Pronunciation: /\u026a\u02c8midi\u026at/", "Definition: very close or connected in space or time", "Synonyms: contiguous"]}
