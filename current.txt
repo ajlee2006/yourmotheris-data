@@ -1,1 +1,1 @@
-{"data": ["2021-09-15T02:03:14.072342+00:00", 1901, "Your mother is", "six", "Pronunciation: /s\u026aks/", "Definition: denoting a quantity consisting of six items or units", "Synonyms: 6, half-dozen, half dozen, vi"]}
+{"data": ["2021-09-15T03:03:01.013817+00:00", 1902, "Your mother is", "blond", "Pronunciation: /bl\u0251nd/", "Definition: being or having light colored skin and hair and usually blue or grey eyes", "Synonyms: blonde, light-haired"]}
