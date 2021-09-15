@@ -1,1 +1,1 @@
-{"data": ["2021-09-15T13:00:28.924575+00:00", 1912, "Your mother is", "olive", "Pronunciation: /\u02c8\u0251l\u026av/", "Definition: of a yellow-green color similar to that of an unripe olive", ""]}
+{"data": ["2021-09-15T14:02:07.733498+00:00", 1913, "Your mother is", "cacodemonic", "", "Definition: of or relating to evil spirits", "Synonyms: cacodaemonic"]}
