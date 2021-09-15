@@ -1,1 +1,1 @@
-{"data": ["2021-09-15T11:02:28.121227+00:00", 1910, "Your mother is", "immediate", "Pronunciation: /\u026a\u02c8midi\u026at/", "Definition: very close or connected in space or time", "Synonyms: contiguous"]}
+{"data": ["2021-09-15T12:03:38.711363+00:00", 1911, "Your mother is", "slapstick", "Pronunciation: /\u02c8sl\u00e6p\u02ccst\u026ak/", "Definition: characterized by horseplay and physical action", ""]}
