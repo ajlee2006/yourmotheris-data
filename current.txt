@@ -1,1 +1,1 @@
-{"data": ["2021-09-15T07:01:15.770898+00:00", 1906, "Your mother is", "clean-living", "Pronunciation: /\u02c8klin\u02c8l\u026av\u026a\u014b/", "Definition: morally pure", "Synonyms: clean"]}
+{"data": ["2021-09-15T08:02:33.580221+00:00", 1907, "Your mother is", "caucasian", "Pronunciation: /k\u0254\u02c8ke\u026a\u0292\u0259n/", "Definition: of or relating to the geographical region of Caucasia", "Synonyms: caucasic"]}
