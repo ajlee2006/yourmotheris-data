@@ -1,1 +1,1 @@
-{"data": ["2021-09-15T16:05:51.530077+00:00", 1915, "Your mother is", "solvable", "Pronunciation: /\u02c8s\u0251lv\u028cb\u028cl/", "Definition: capable of being solved", "Synonyms: resolvable"]}
+{"data": ["2021-09-15T17:00:55.539307+00:00", 1916, "Your mother is", "self-assertive", "Pronunciation: /s\u025blf-\u0259\u02c8s\u025crt\u026av/", "Definition: offensively self-assertive", "Synonyms: bumptious"]}
