@@ -1,1 +1,1 @@
-{"data": ["2021-09-16T00:06:20.914533+00:00", 1923, "Your mother is", "indomitable", "Pronunciation: /\u026an\u02c8d\u0251m\u026at\u0259b\u0259l/", "Definition: impossible to subdue", "Synonyms: never-say-die, unsubduable"]}
+{"data": ["2021-09-16T01:03:30.110586+00:00", 1924, "Your mother is", "birchen", "Pronunciation: /\u02c8b\u025cr\u02a7\u0259n/", "Definition: consisting of or made of wood of the birch tree", "Synonyms: birch, birken"]}
