@@ -1,1 +1,1 @@
-{"data": ["2021-09-16T06:04:59.046800+00:00", 1929, "Your mother is", "grateful", "Pronunciation: /\u02c8gre\u026atf\u0259l/", "Definition: feeling or showing gratitude", "Synonyms: thankful"]}
+{"data": ["2021-09-16T07:03:16.323893+00:00", 1930, "Your mother is", "exothermic", "Pronunciation: /\u02cc\u025bkso\u028a\u02c8\u03b8\u025crm\u026ak/", "Definition: (of a chemical reaction or compound) occurring or formed with the liberation of heat", "Synonyms: exothermal, heat-releasing"]}
