@@ -1,1 +1,1 @@
-{"data": ["2021-09-16T01:03:30.110586+00:00", 1924, "Your mother is", "birchen", "Pronunciation: /\u02c8b\u025cr\u02a7\u0259n/", "Definition: consisting of or made of wood of the birch tree", "Synonyms: birch, birken"]}
+{"data": ["2021-09-16T02:04:18.803442+00:00", 1925, "Your mother is", "cavalier", "Pronunciation: /\u02cck\u00e6v\u0259\u02c8lir/", "Definition: given to haughty disregard of others", "Synonyms: high-handed"]}
