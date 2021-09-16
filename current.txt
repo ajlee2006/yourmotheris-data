@@ -1,1 +1,1 @@
-{"data": ["2021-09-16T11:01:05.144839+00:00", 1934, "Your mother is", "clean-shaven", "Pronunciation: /\u02c8klin\u02c8\u0283e\u026av\u0259n/", "Definition: closely shaved recently", "Synonyms: smooth-shaven, well-shaven"]}
+{"data": ["2021-09-16T12:04:55.795449+00:00", 1935, "Your mother is", "discernable", "", "Definition: perceptible by the senses or intellect", "Synonyms: discernible"]}
