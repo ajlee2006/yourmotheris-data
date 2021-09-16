@@ -1,1 +1,1 @@
-{"data": ["2021-09-16T08:03:30.342852+00:00", 1931, "Your mother is", "75th", "Similar to: ordinal", "Definition: the ordinal number of seventy-five in counting order", "Synonyms: seventy-fifth"]}
+{"data": ["2021-09-16T09:03:45.716787+00:00", 1932, "Your mother is", "exterritorial", "Pronunciation: /\u02cc\u025bkst\u025br\u026a\u02c8to\u028ari\u0259l/", "Definition: outside territorial limits or jurisdiction", "Synonyms: extraterritorial"]}
