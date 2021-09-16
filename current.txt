@@ -1,1 +1,1 @@
-{"data": ["2021-09-16T07:03:16.323893+00:00", 1930, "Your mother is", "exothermic", "Pronunciation: /\u02cc\u025bkso\u028a\u02c8\u03b8\u025crm\u026ak/", "Definition: (of a chemical reaction or compound) occurring or formed with the liberation of heat", "Synonyms: exothermal, heat-releasing"]}
+{"data": ["2021-09-16T08:03:30.342852+00:00", 1931, "Your mother is", "75th", "Similar to: ordinal", "Definition: the ordinal number of seventy-five in counting order", "Synonyms: seventy-fifth"]}
