@@ -1,1 +1,1 @@
-{"data": ["2021-09-16T18:03:42.016003+00:00", 1941, "Your mother is", "storm-tossed", "Similar to: troubled", "Definition: pounded or hit repeatedly by storms or adversities", "Synonyms: buffeted, tempest-swept, tempest-tossed, tempest-tost"]}
+{"data": ["2021-09-16T19:02:54.339299+00:00", 1942, "Your mother is", "true to life", "Similar to: realistic", "Definition: representing things or actions or conditions as they actually are", "Synonyms: true-to-life"]}
