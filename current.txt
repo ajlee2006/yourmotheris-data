@@ -1,1 +1,1 @@
-{"data": ["2021-09-17T02:04:14.223919+00:00", 1949, "Your mother is", "heinous", "Pronunciation: /\u02c8he\u026an\u0259s/", "Definition: extremely wicked, deeply criminal", "Synonyms: flagitious"]}
+{"data": ["2021-09-17T03:02:05.645443+00:00", 1950, "Your mother is", "burundi", "Pronunciation: /b\u0259\u02c8r\u0259ndi/", "Definition: of or relating to or characteristic of Burundi or its people", "Synonyms: burundian"]}
