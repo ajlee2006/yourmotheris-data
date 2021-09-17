@@ -1,1 +1,1 @@
-{"data": ["2021-09-17T08:03:36.379217+00:00", 1955, "Your mother is", "uphill", "Pronunciation: /\u02c8\u0259p\u02c8h\u026al/", "Definition: sloping upward", "Synonyms: acclivitous, rising"]}
+{"data": ["2021-09-17T09:02:14.707473+00:00", 1956, "Your mother is", "inorganic", "Pronunciation: /\u02cc\u026an\u0254r\u02c8\u0261\u00e6n\u026ak/", "Definition: lacking the properties characteristic of living organisms", ""]}
