@@ -1,1 +1,1 @@
-{"data": ["2021-09-17T12:02:04.409014+00:00", 1959, "Your mother is", "interrogative", "Pronunciation: /\u02cc\u026ant\u0259\u02c8r\u0251\u0261\u0259t\u026av/", "Definition: relating to the use of or having the nature of an interrogation", "Synonyms: interrogatory"]}
+{"data": ["2021-09-17T13:04:16.086179+00:00", 1960, "Your mother is", "red-handed", "Pronunciation: /\u02c8r\u025bd\u02c8h\u00e6nd\u026ad/", "Definition: in the act of committing a crime or other reprehensible act", ""]}
