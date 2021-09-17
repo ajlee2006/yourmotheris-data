@@ -1,1 +1,1 @@
-{"data": ["2021-09-17T10:04:46.157661+00:00", 1957, "Your mother is", "unending", "Pronunciation: /\u0259n\u02c8\u025bndi\u014b/", "Definition: continuing forever or indefinitely", "Synonyms: aeonian, ageless, eonian, eternal, everlasting, perpetual, unceasing"]}
+{"data": ["2021-09-17T11:04:02.787634+00:00", 1958, "Your mother is", "centripetal", "Pronunciation: /s\u025bn\u02c8tr\u026ap\u026at\u0259l/", "Definition: tending to unify", "Synonyms: unifying"]}
