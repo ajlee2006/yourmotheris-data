@@ -1,1 +1,1 @@
-{"data": ["2021-09-17T13:04:16.086179+00:00", 1960, "Your mother is", "red-handed", "Pronunciation: /\u02c8r\u025bd\u02c8h\u00e6nd\u026ad/", "Definition: in the act of committing a crime or other reprehensible act", ""]}
+{"data": ["2021-09-17T14:03:31.864965+00:00", 1961, "Your mother is", "eupneic", "Similar to: sweet-breathed", "Definition: passing or able to pass air in and out of the lungs normally; sometimes used in combination", "Synonyms: breathing, eupnoeic"]}
