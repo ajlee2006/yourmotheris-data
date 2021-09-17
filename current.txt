@@ -1,1 +1,1 @@
-{"data": ["2021-09-17T09:02:14.707473+00:00", 1956, "Your mother is", "inorganic", "Pronunciation: /\u02cc\u026an\u0254r\u02c8\u0261\u00e6n\u026ak/", "Definition: lacking the properties characteristic of living organisms", ""]}
+{"data": ["2021-09-17T10:04:46.157661+00:00", 1957, "Your mother is", "unending", "Pronunciation: /\u0259n\u02c8\u025bndi\u014b/", "Definition: continuing forever or indefinitely", "Synonyms: aeonian, ageless, eonian, eternal, everlasting, perpetual, unceasing"]}
