@@ -1,1 +1,1 @@
-{"data": ["2021-09-17T20:03:45.864468+00:00", 1967, "Your mother is", "infrequent", "Pronunciation: /\u026an\u02c8frikw\u0259nt/", "Definition: not frequent; not occurring regularly or at short intervals", ""]}
+{"data": ["2021-09-17T21:04:16.754889+00:00", 1968, "Your mother is", "undefinable", "Similar to: undefined", "Definition: not capable of being precisely or readily described; not easily put into words", "Synonyms: indefinable"]}
