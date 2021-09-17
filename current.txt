@@ -1,1 +1,1 @@
-{"data": ["2021-09-17T22:00:45.057805+00:00", 1969, "Your mother is", "round-the-clock", "Pronunciation: /\u02c8ra\u028and-\u00f0\u0259-\u02c8kl\u0251k/", "Definition: at all times", "Synonyms: around-the-clock, day-and-night, nonstop"]}
+{"data": ["2021-09-17T23:01:39.085719+00:00", 1970, "Your mother is", "estival", "Pronunciation: /\u02c8\u025bst\u0259v\u0259l/", "Definition: (rare) of or occurring in summer", "Synonyms: aestival"]}
