@@ -1,1 +1,1 @@
-{"data": ["2021-09-17T11:04:02.787634+00:00", 1958, "Your mother is", "centripetal", "Pronunciation: /s\u025bn\u02c8tr\u026ap\u026at\u0259l/", "Definition: tending to unify", "Synonyms: unifying"]}
+{"data": ["2021-09-17T12:02:04.409014+00:00", 1959, "Your mother is", "interrogative", "Pronunciation: /\u02cc\u026ant\u0259\u02c8r\u0251\u0261\u0259t\u026av/", "Definition: relating to the use of or having the nature of an interrogation", "Synonyms: interrogatory"]}
