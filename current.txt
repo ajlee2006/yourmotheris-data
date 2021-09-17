@@ -1,1 +1,1 @@
-{"data": ["2021-09-17T05:03:54.787008+00:00", 1952, "Your mother is", "runty", "Pronunciation: /\u02c8r\u0259nti/", "Definition: (used especially of persons) of inferior size", "Synonyms: puny, shrimpy"]}
+{"data": ["2021-09-17T06:02:06.801220+00:00", 1953, "Your mother is", "catatonic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8t\u0251n\u026ak/", "Definition: characterized by catatonia especially either rigidity or extreme laxness of limbs", ""]}
