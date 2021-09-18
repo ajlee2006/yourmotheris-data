@@ -1,1 +1,1 @@
-{"data": ["2021-09-18T02:05:08.286135+00:00", 1973, "Your mother is", "communicatory", "Pronunciation: /k\u0259\u02c8mjun\u0259k\u0259\u02ccto\u028ari/", "Definition: able or tending to communicate", "Synonyms: communicative"]}
+{"data": ["2021-09-18T03:03:57.533104+00:00", 1974, "Your mother is", "midmost", "Pronunciation: /\u02c8m\u026ad\u02ccmo\u028ast/", "Definition: being in the exact middle", "Synonyms: middlemost"]}
