@@ -1,1 +1,1 @@
-{"data": ["2021-09-18T17:00:39.554786+00:00", 1988, "Your mother is", "presentational", "Pronunciation: /\u02ccpr\u025bz\u0259n\u02c8te\u026a\u0283\u0259n\u0259l/", "Definition: of or relating to a presentation (especially in psychology or philosophy)", ""]}
+{"data": ["2021-09-18T18:03:38.627468+00:00", 1989, "Your mother is", "out-of-door", "Similar to: alfresco", "Definition: located, suited for, or taking place in the open air", "Synonyms: outdoor, outside"]}
