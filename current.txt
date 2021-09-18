@@ -1,1 +1,1 @@
-{"data": ["2021-09-18T12:04:14.308543+00:00", 1983, "Your mother is", "fact-finding", "Pronunciation: /\u02c8f\u00e6kt\u02ccfa\u026and\u026a\u014b/", "Definition: designed to find information or ascertain facts", "Synonyms: investigative, investigatory"]}
+{"data": ["2021-09-18T13:00:14.971379+00:00", 1984, "Your mother is", "elucidative", "Pronunciation: /\u026a\u02c8lus\u028c\u02ccde\u026at\u026av/", "Definition: that makes clear", "Synonyms: clarifying"]}
