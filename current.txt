@@ -1,1 +1,1 @@
-{"data": ["2021-09-18T14:04:08.779884+00:00", 1985, "Your mother is", "cycloid", "Pronunciation: /\u02c8sa\u026akl\u0254\u026ad/", "Definition: resembling a circle", "Synonyms: cycloidal"]}
+{"data": ["2021-09-18T15:00:59.581772+00:00", 1986, "Your mother is", "gratuitous", "Pronunciation: /gr\u0259\u02c8tu\u026at\u0259s/", "Definition: unnecessary and unwarranted", "Synonyms: needless, uncalled-for"]}
