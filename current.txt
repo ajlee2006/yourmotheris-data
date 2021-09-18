@@ -1,1 +1,1 @@
-{"data": ["2021-09-18T13:00:14.971379+00:00", 1984, "Your mother is", "elucidative", "Pronunciation: /\u026a\u02c8lus\u028c\u02ccde\u026at\u026av/", "Definition: that makes clear", "Synonyms: clarifying"]}
+{"data": ["2021-09-18T14:04:08.779884+00:00", 1985, "Your mother is", "cycloid", "Pronunciation: /\u02c8sa\u026akl\u0254\u026ad/", "Definition: resembling a circle", "Synonyms: cycloidal"]}
