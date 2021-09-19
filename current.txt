@@ -1,1 +1,1 @@
-{"data": ["2021-09-19T04:03:19.902065+00:00", 1999, "Your mother is", "cordial", "Pronunciation: /\u02c8k\u0254rd\u0292\u0259l/", "Definition: diffusing warmth and friendliness", "Synonyms: affable, amiable, genial"]}
+{"data": ["2021-09-19T05:04:55.383942+00:00", 2000, "Your mother is", "monochromic", "Similar to: colored", "Definition: having or appearing to have only one color", "Synonyms: monochromatic, monochrome, monochromous"]}
