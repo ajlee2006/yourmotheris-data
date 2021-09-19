@@ -1,1 +1,1 @@
-{"data": ["2021-09-19T03:04:03.330080+00:00", 1998, "Your mother is", "subjective", "Pronunciation: /s\u0259b\u02c8d\u0292\u025bkt\u026av/", "Definition: of a mental act performed entirely within the mind", "Synonyms: immanent"]}
+{"data": ["2021-09-19T04:03:19.902065+00:00", 1999, "Your mother is", "cordial", "Pronunciation: /\u02c8k\u0254rd\u0292\u0259l/", "Definition: diffusing warmth and friendliness", "Synonyms: affable, amiable, genial"]}
