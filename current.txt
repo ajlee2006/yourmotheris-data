@@ -1,1 +1,1 @@
-{"data": ["2021-09-19T10:04:47.589833+00:00", 2005, "Your mother is", "aliform", "Pronunciation: /\u02c8\u00e6l\u0259\u02ccf\u0254rm/", "Definition: having or resembling wings", "Synonyms: alar, alary, wing-shaped"]}
+{"data": ["2021-09-19T11:03:41.744582+00:00", 2006, "Your mother is", "round-arm", "Pronunciation: /ra\u028and-\u0251rm/", "Definition: with the arm swung round at shoulder height", ""]}
