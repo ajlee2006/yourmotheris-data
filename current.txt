@@ -1,1 +1,1 @@
-{"data": ["2021-09-19T00:04:07.170671+00:00", 1995, "Your mother is", "away", "Pronunciation: /\u0259\u02c8we\u026a/", "Definition: (of a baseball pitch) on the far side of home plate from the batter", "Synonyms: outside"]}
+{"data": ["2021-09-19T01:05:55.059943+00:00", 1996, "Your mother is", "aerobic", "Pronunciation: /\u025c\u02c8ro\u028ab\u026ak/", "Definition: depending on free oxygen or air", "Synonyms: aerophilic, aerophilous"]}
