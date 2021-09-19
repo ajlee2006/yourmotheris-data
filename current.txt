@@ -1,1 +1,1 @@
-{"data": ["2021-09-19T11:03:41.744582+00:00", 2006, "Your mother is", "round-arm", "Pronunciation: /ra\u028and-\u0251rm/", "Definition: with the arm swung round at shoulder height", ""]}
+{"data": ["2021-09-19T12:04:25.332384+00:00", 2007, "Your mother is", "overstuffed", "Pronunciation: /\u02c8o\u028av\u0259r\u02ccst\u0259ft/", "Definition: upholstered thickly and deeply", ""]}
