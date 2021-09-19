@@ -1,1 +1,1 @@
-{"data": ["2021-09-19T16:02:31.476869+00:00", 2011, "Your mother is", "galling", "Pronunciation: /\u02c8\u0261\u0254l\u026a\u014b/", "Definition: causing irritation or annoyance", "Synonyms: annoying, bothersome, irritating, nettlesome, pesky, pestering, pestiferous, plaguey, plaguy, teasing, vexatious, vexing"]}
+{"data": ["2021-09-19T17:04:56.937504+00:00", 2012, "Your mother is", "aphotic", "Pronunciation: /e\u026a\u02c8fo\u028at\u026ak/", "Definition: lacking light; especially not reached by sunlight", ""]}
