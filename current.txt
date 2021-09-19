@@ -1,1 +1,1 @@
-{"data": ["2021-09-19T12:04:25.332384+00:00", 2007, "Your mother is", "overstuffed", "Pronunciation: /\u02c8o\u028av\u0259r\u02ccst\u0259ft/", "Definition: upholstered thickly and deeply", ""]}
+{"data": ["2021-09-19T13:04:52.423623+00:00", 2008, "Your mother is", "placental", "Similar to: transplacental", "Definition: pertaining to or having or occurring by means of a placenta", ""]}
