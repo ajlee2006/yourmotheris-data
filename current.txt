@@ -1,1 +1,1 @@
-{"data": ["2021-09-19T05:04:55.383942+00:00", 2000, "Your mother is", "monochromic", "Similar to: colored", "Definition: having or appearing to have only one color", "Synonyms: monochromatic, monochrome, monochromous"]}
+{"data": ["2021-09-19T06:02:17.516555+00:00", 2001, "Your mother is", "restive", "Pronunciation: /\u02c8r\u025bst\u026av/", "Definition: being in a tense state", "Synonyms: edgy, high-strung, highly strung, jittery, jumpy, nervy, overstrung, uptight"]}
