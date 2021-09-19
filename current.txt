@@ -1,1 +1,1 @@
-{"data": ["2021-09-19T21:00:49.046975+00:00", 2016, "Your mother is", "mislabeled", "Pronunciation: /m\u026as\u02c8le\u026ab\u028cld/", "Definition: branded or labeled falsely and in violation of statutory requirements", "Synonyms: misbranded"]}
+{"data": ["2021-09-19T22:01:43.921231+00:00", 2017, "Your mother is", "incorporate", "Pronunciation: /\u026an\u02c8k\u0254rp\u0259r\u026at/", "Definition: formed or united into a whole", "Synonyms: incorporated, integrated, merged, unified"]}
