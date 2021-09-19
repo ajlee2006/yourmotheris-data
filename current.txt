@@ -1,1 +1,1 @@
-{"data": ["2021-09-19T20:03:46.161616+00:00", 2015, "Your mother is", "verboten", "Pronunciation: /f\u0259R\u02c8bo\u028at\u0259n/", "Definition: excluded from use or mention", "Synonyms: forbidden, out, prohibited, proscribed, taboo, tabu"]}
+{"data": ["2021-09-19T21:00:49.046975+00:00", 2016, "Your mother is", "mislabeled", "Pronunciation: /m\u026as\u02c8le\u026ab\u028cld/", "Definition: branded or labeled falsely and in violation of statutory requirements", "Synonyms: misbranded"]}
