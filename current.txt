@@ -1,1 +1,1 @@
-{"data": ["2021-09-20T14:00:50.517342+00:00", 2033, "Your mother is", "coniferous", "Pronunciation: /ko\u028a\u02c8n\u026af\u0259r\u0259s/", "Definition: of or relating to or part of trees or shrubs bearing cones and evergreen leaves", "Synonyms: cone-bearing"]}
+{"data": ["2021-09-20T15:01:53.905271+00:00", 2034, "Your mother is", "self-balancing", "Similar to: balanced", "Definition: of someone or something that balances himself or itself", ""]}
