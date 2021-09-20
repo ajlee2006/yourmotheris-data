@@ -1,1 +1,1 @@
-{"data": ["2021-09-20T02:02:55.110544+00:00", 2021, "Your mother is", "linnaean", "Pronunciation: /l\u026a\u02c8ni\u0259n/", "Definition: of or relating to Linnaeus or to the system of taxonomic classification that Linnaeus proposed", "Synonyms: linnean"]}
+{"data": ["2021-09-20T03:04:32.082799+00:00", 2022, "Your mother is", "nonautonomous", "Similar to: unfree", "Definition: (of peoples and political bodies) controlled by outside forces", "Synonyms: nonsovereign"]}
