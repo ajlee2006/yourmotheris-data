@@ -1,1 +1,1 @@
-{"data": ["2021-09-20T08:02:45.187133+00:00", 2027, "Your mother is", "own", "Pronunciation: /o\u028an/", "Definition: belonging to or on behalf of a specified person (especially yourself); preceded by a possessive", "Synonyms: ain"]}
+{"data": ["2021-09-20T09:01:49.696390+00:00", 2028, "Your mother is", "nonopening", "Similar to: closed", "Definition: not open; not opening", ""]}
