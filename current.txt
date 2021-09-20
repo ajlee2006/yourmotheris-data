@@ -1,1 +1,1 @@
-{"data": ["2021-09-20T10:04:53.147849+00:00", 2029, "Your mother is", "horizontal", "Pronunciation: /\u02cch\u0254r\u026a\u02c8z\u0251nt\u0259l/", "Definition: parallel to or in the plane of the horizon or a base line", ""]}
+{"data": ["2021-09-20T11:04:14.672012+00:00", 2030, "Your mother is", "bilabiate", "Pronunciation: /ba\u026a\u02c8le\u026abi\u02cce\u026at/", "Definition: having two lips", "Synonyms: two-lipped"]}
