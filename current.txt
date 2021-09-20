@@ -1,1 +1,1 @@
-{"data": ["2021-09-20T12:02:56.714695+00:00", 2031, "Your mother is", "aortic", "Pronunciation: /e\u026a\u02c8\u0254rt\u026ak/", "Definition: of or relating to the aorta", "Synonyms: aortal"]}
+{"data": ["2021-09-20T13:04:05.306580+00:00", 2032, "Your mother is", "tenfold", "Pronunciation: /\u02c8t\u025bn\u02ccfo\u028ald/", "Definition: containing ten or ten parts", "Synonyms: denary, ten-fold"]}
