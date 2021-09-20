@@ -1,1 +1,1 @@
-{"data": ["2021-09-20T22:01:55.606118+00:00", 2041, "Your mother is", "confederate", "Pronunciation: /k\u0259n\u02c8f\u025bd\u0259r\u0259t/", "Definition: united in a confederacy or league", "Synonyms: allied, confederative"]}
+{"data": ["2021-09-20T23:04:22.719654+00:00", 2042, "Your mother is", "bicephalous", "Pronunciation: /ba\u026a\u02c8s\u025bf\u0259l\u0259s/", "Definition: having two heads", ""]}
