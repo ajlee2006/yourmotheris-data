@@ -1,1 +1,1 @@
-{"data": ["2021-09-20T17:05:58.313981+00:00", 2036, "Your mother is", "extra", "Pronunciation: /\u02c8\u025bkstr\u0259/", "Definition: added to a regular schedule", "Synonyms: special"]}
+{"data": ["2021-09-20T18:05:20.411180+00:00", 2037, "Your mother is", "olden", "Pronunciation: /\u02c8o\u028ald\u0259n/", "Definition: relating to time long past", ""]}
