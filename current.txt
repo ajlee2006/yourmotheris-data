@@ -1,1 +1,1 @@
-{"data": ["2021-09-20T11:04:14.672012+00:00", 2030, "Your mother is", "bilabiate", "Pronunciation: /ba\u026a\u02c8le\u026abi\u02cce\u026at/", "Definition: having two lips", "Synonyms: two-lipped"]}
+{"data": ["2021-09-20T12:02:56.714695+00:00", 2031, "Your mother is", "aortic", "Pronunciation: /e\u026a\u02c8\u0254rt\u026ak/", "Definition: of or relating to the aorta", "Synonyms: aortal"]}
