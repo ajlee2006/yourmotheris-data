@@ -1,1 +1,1 @@
-{"data": ["2021-09-20T18:05:20.411180+00:00", 2037, "Your mother is", "olden", "Pronunciation: /\u02c8o\u028ald\u0259n/", "Definition: relating to time long past", ""]}
+{"data": ["2021-09-20T19:04:21.159688+00:00", 2038, "Your mother is", "entangled", "Pronunciation: /\u025bn\u02c8t\u00e6\u014b\u0261\u028cld/", "Definition: deeply involved especially in something complicated", "Synonyms: embroiled"]}
