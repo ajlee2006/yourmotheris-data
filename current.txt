@@ -1,1 +1,1 @@
-{"data": ["2021-09-20T19:04:21.159688+00:00", 2038, "Your mother is", "entangled", "Pronunciation: /\u025bn\u02c8t\u00e6\u014b\u0261\u028cld/", "Definition: deeply involved especially in something complicated", "Synonyms: embroiled"]}
+{"data": ["2021-09-20T20:03:48.700928+00:00", 2039, "Your mother is", "meritorious", "Pronunciation: /\u02ccm\u025br\u026a\u02c8to\u028ari\u0259s/", "Definition: deserving reward or praise", "Synonyms: meritable"]}
