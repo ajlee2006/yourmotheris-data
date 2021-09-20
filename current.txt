@@ -1,1 +1,1 @@
-{"data": ["2021-09-20T06:02:36.973567+00:00", 2025, "Your mother is", "pitcher-shaped", "Pronunciation: /\u02c8p\u026a\u02a7\u0259r-\u0283e\u026apt/", "Definition: shaped in the form of a pitcher", ""]}
+{"data": ["2021-09-20T07:01:54.160296+00:00", 2026, "Your mother is", "chelated", "", "Definition: relating to or characterized by chelation", "Synonyms: chelate"]}
