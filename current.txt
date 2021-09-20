@@ -1,1 +1,1 @@
-{"data": ["2021-09-20T13:04:05.306580+00:00", 2032, "Your mother is", "tenfold", "Pronunciation: /\u02c8t\u025bn\u02ccfo\u028ald/", "Definition: containing ten or ten parts", "Synonyms: denary, ten-fold"]}
+{"data": ["2021-09-20T14:00:50.517342+00:00", 2033, "Your mother is", "coniferous", "Pronunciation: /ko\u028a\u02c8n\u026af\u0259r\u0259s/", "Definition: of or relating to or part of trees or shrubs bearing cones and evergreen leaves", "Synonyms: cone-bearing"]}
