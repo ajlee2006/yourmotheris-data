@@ -1,1 +1,1 @@
-{"data": ["2021-09-21T04:03:46.476655+00:00", 2047, "Your mother is", "calumnious", "Pronunciation: /k\u0259\u02c8l\u0259mni\u0259s/", "Definition: (used of statements) harmful and often untrue; tending to discredit or malign", "Synonyms: calumniatory, defamatory, denigrating, denigrative, denigratory, libellous, libelous, slanderous"]}
+{"data": ["2021-09-21T05:02:35.590700+00:00", 2048, "Your mother is", "lyonnaise", "Pronunciation: /\u02ccla\u026a\u0259\u02c8ne\u026az/", "Definition: cooked with onions", ""]}
