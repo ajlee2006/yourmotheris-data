@@ -1,1 +1,1 @@
-{"data": ["2021-09-21T17:01:51.424514+00:00", 2060, "Your mother is", "reconciled", "Pronunciation: /\u02c8r\u025bk\u028cn\u02ccsa\u026ald/", "Definition: made compatible or consistent", ""]}
+{"data": ["2021-09-21T18:00:46.536465+00:00", 2061, "Your mother is", "thyroidal", "", "Definition: of or relating to the thyroid gland", "Synonyms: thyroid"]}
