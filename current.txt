@@ -1,1 +1,1 @@
-{"data": ["2021-09-21T08:02:19.942517+00:00", 2051, "Your mother is", "informal", "Pronunciation: /\u026an\u02c8f\u0254rm\u0259l/", "Definition: having or fostering a warm or friendly and informal atmosphere", "Synonyms: cozy, intimate"]}
+{"data": ["2021-09-21T09:02:48.884787+00:00", 2052, "Your mother is", "extrovert", "Pronunciation: /\u02c8\u025bkstro\u028a\u02ccv\u025crt/", "Definition: being concerned with the social and physical environment", "Synonyms: extravert, extraverted, extravertive, extroverted, extrovertive"]}
