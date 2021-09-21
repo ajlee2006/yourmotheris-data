@@ -1,1 +1,1 @@
-{"data": ["2021-09-21T20:02:11.087619+00:00", 2063, "Your mother is", "precognitive", "Pronunciation: /pri\u02c8k\u0251gn\u026at\u026av/", "Definition: foreseeing the future", "Synonyms: clairvoyant, second-sighted"]}
+{"data": ["2021-09-21T21:04:18.261648+00:00", 2064, "Your mother is", "swampy", "Pronunciation: /\u02c8sw\u0251mpi/", "Definition: (of soil) soft and watery", "Synonyms: boggy, marshy, miry, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, waterlogged"]}
