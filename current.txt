@@ -1,1 +1,1 @@
-{"data": ["2021-09-21T18:00:46.536465+00:00", 2061, "Your mother is", "thyroidal", "", "Definition: of or relating to the thyroid gland", "Synonyms: thyroid"]}
+{"data": ["2021-09-21T19:03:19.151196+00:00", 2062, "Your mother is", "ungraceful", "Pronunciation: /\u0259n\u02c8gre\u026asf\u0259l/", "Definition: lacking grace; clumsy", "Synonyms: graceless"]}
