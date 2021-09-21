@@ -1,1 +1,1 @@
-{"data": ["2021-09-21T01:05:19.192911+00:00", 2044, "Your mother is", "angular", "Pronunciation: /\u02c8\u00e6\u014b\u0261j\u0259l\u0259r/", "Definition: having angles or an angular shape", "Synonyms: angulate"]}
+{"data": ["2021-09-21T02:01:49.209689+00:00", 2045, "Your mother is", "unventilated", "Pronunciation: /\u0259n\u02c8v\u025bnt\u026a\u02ccle\u026at\u026ad/", "Definition: not ventilated", ""]}
