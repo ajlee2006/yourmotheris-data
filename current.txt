@@ -1,1 +1,1 @@
-{"data": ["2021-09-20T23:04:22.719654+00:00", 2042, "Your mother is", "bicephalous", "Pronunciation: /ba\u026a\u02c8s\u025bf\u0259l\u0259s/", "Definition: having two heads", ""]}
+{"data": ["2021-09-21T00:05:56.654866+00:00", 2043, "Your mother is", "regrettable", "Pronunciation: /ri\u02c8gr\u025bt\u0259b\u0259l/", "Definition: deserving regret", "Synonyms: too bad"]}
