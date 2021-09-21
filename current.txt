@@ -1,1 +1,1 @@
-{"data": ["2021-09-21T14:02:38.557702+00:00", 2057, "Your mother is", "underpopulated", "Pronunciation: /\u02cc\u0259nd\u0259\u02c8p\u0251pj\u028a\u02c8le\u026at\u026ad/", "Definition: having a lower population density than normal or desirable", ""]}
+{"data": ["2021-09-21T15:01:49.495493+00:00", 2058, "Your mother is", "nimble-fingered", "Pronunciation: /\u02c8n\u026amb\u0259l-\u02c8f\u026a\u014b\u0261\u0259rd/", "Definition: having nimble fingers literally or figuratively; especially for stealing or picking pockets", "Synonyms: light-fingered"]}
