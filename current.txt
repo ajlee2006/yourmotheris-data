@@ -1,1 +1,1 @@
-{"data": ["2021-09-21T11:02:01.831591+00:00", 2054, "Your mother is", "apostate", "Pronunciation: /\u0259\u02c8p\u0251ste\u026at/", "Definition: not faithful to religion or party or cause", ""]}
+{"data": ["2021-09-21T12:04:29.413033+00:00", 2055, "Your mother is", "patristic", "Pronunciation: /p\u0259\u02c8trist\u026ak/", "Definition: of or relating to the writings of the early church fathers", "Synonyms: patristical"]}
