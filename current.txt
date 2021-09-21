@@ -1,1 +1,1 @@
-{"data": ["2021-09-21T21:04:18.261648+00:00", 2064, "Your mother is", "swampy", "Pronunciation: /\u02c8sw\u0251mpi/", "Definition: (of soil) soft and watery", "Synonyms: boggy, marshy, miry, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, waterlogged"]}
+{"data": ["2021-09-21T22:02:15.746183+00:00", 2065, "Your mother is", "erose", "Pronunciation: /\u026a\u02c8ro\u028as/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: jagged, jaggy, notched, toothed"]}
