@@ -1,1 +1,1 @@
-{"data": ["2021-09-21T19:03:19.151196+00:00", 2062, "Your mother is", "ungraceful", "Pronunciation: /\u0259n\u02c8gre\u026asf\u0259l/", "Definition: lacking grace; clumsy", "Synonyms: graceless"]}
+{"data": ["2021-09-21T20:02:11.087619+00:00", 2063, "Your mother is", "precognitive", "Pronunciation: /pri\u02c8k\u0251gn\u026at\u026av/", "Definition: foreseeing the future", "Synonyms: clairvoyant, second-sighted"]}
