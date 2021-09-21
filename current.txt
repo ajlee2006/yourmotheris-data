@@ -1,1 +1,1 @@
-{"data": ["2021-09-21T00:05:56.654866+00:00", 2043, "Your mother is", "regrettable", "Pronunciation: /ri\u02c8gr\u025bt\u0259b\u0259l/", "Definition: deserving regret", "Synonyms: too bad"]}
+{"data": ["2021-09-21T01:05:19.192911+00:00", 2044, "Your mother is", "angular", "Pronunciation: /\u02c8\u00e6\u014b\u0261j\u0259l\u0259r/", "Definition: having angles or an angular shape", "Synonyms: angulate"]}
