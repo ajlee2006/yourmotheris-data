@@ -1,1 +1,1 @@
-{"data": ["2021-09-21T05:02:35.590700+00:00", 2048, "Your mother is", "lyonnaise", "Pronunciation: /\u02ccla\u026a\u0259\u02c8ne\u026az/", "Definition: cooked with onions", ""]}
+{"data": ["2021-09-21T06:03:39.083224+00:00", 2049, "Your mother is", "conscience-smitten", "Pronunciation: /\u02c8k\u0251n\u0283\u0259ns-\u02c8sm\u026at\u0259n/", "Definition: affected by conscience", ""]}
