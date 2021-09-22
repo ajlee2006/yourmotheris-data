@@ -1,1 +1,1 @@
-{"data": ["2021-09-22T01:04:26.854980+00:00", 2068, "Your mother is", "nonuniform", "Similar to: heterogeneous", "Definition: not homogeneous", "Synonyms: inhomogeneous"]}
+{"data": ["2021-09-22T02:02:07.363441+00:00", 2069, "Your mother is", "cookie-sized", "Similar to: sized", "Definition: having the approximate size of a cookie", ""]}
