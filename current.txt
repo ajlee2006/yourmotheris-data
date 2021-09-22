@@ -1,1 +1,1 @@
-{"data": ["2021-09-22T18:02:12.583370+00:00", 2085, "Your mother is", "confirmed", "Pronunciation: /k\u0259n\u02c8f\u025crmd/", "Definition: having been established or made firm or received the rite of confirmation", ""]}
+{"data": ["2021-09-22T19:03:36.531908+00:00", 2086, "Your mother is", "fairish", "Pronunciation: /\u02c8f\u025cr\u026a\u0283/", "Definition: not excessive or extreme", "Synonyms: fair, reasonable"]}
