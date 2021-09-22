@@ -1,1 +1,1 @@
-{"data": ["2021-09-22T07:03:46.078482+00:00", 2074, "Your mother is", "backhand", "Pronunciation: /\u02c8b\u00e6k\u02cch\u00e6nd/", "Definition: (of handwriting) having the letters slanting backward", "Synonyms: left-slanting"]}
+{"data": ["2021-09-22T08:01:47.406061+00:00", 2075, "Your mother is", "unsupervised", "Pronunciation: /\u0259n\u02c8sup\u0259\u02ccva\u026azd/", "Definition: not supervised or under constant observation", ""]}
