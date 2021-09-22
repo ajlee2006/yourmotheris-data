@@ -1,1 +1,1 @@
-{"data": ["2021-09-22T10:03:02.366699+00:00", 2077, "Your mother is", "twenty-ninth", "Pronunciation: /\u02c8tw\u025bnti-\u02c8na\u026an\u03b8/", "Definition: coming next after the twenty-eighth in position", "Synonyms: 29th"]}
+{"data": ["2021-09-22T11:01:03.052548+00:00", 2078, "Your mother is", "unsusceptible", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8s\u025bpt\u026ab\u0259l/", "Definition: not susceptible to", "Synonyms: insusceptible"]}
