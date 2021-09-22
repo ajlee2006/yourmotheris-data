@@ -1,1 +1,1 @@
-{"data": ["2021-09-22T21:03:29.380692+00:00", 2088, "Your mother is", "unruffled", "Pronunciation: /\u0259n\u02c8r\u0259f\u0259ld/", "Definition: (of a body of water) free from disturbance by heavy waves", "Synonyms: placid, quiet, smooth, still, tranquil"]}
+{"data": ["2021-09-22T22:02:29.997129+00:00", 2089, "Your mother is", "febrile", "Pronunciation: /\u02c8fibr\u0259l/", "Definition: of or relating to or characterized by fever", "Synonyms: feverish"]}
