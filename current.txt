@@ -1,1 +1,1 @@
-{"data": ["2021-09-22T12:02:01.252319+00:00", 2079, "Your mother is", "confiscate", "Pronunciation: /\u02c8k\u0251nf\u026a\u02ccske\u026at/", "Definition: surrendered as a penalty", "Synonyms: forfeit, forfeited"]}
+{"data": ["2021-09-22T13:03:21.391519+00:00", 2080, "Your mother is", "colonnaded", "Similar to: columned", "Definition: having a series of columns arranged at regular intervals", ""]}
