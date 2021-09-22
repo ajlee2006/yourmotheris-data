@@ -1,1 +1,1 @@
-{"data": ["2021-09-22T08:01:47.406061+00:00", 2075, "Your mother is", "unsupervised", "Pronunciation: /\u0259n\u02c8sup\u0259\u02ccva\u026azd/", "Definition: not supervised or under constant observation", ""]}
+{"data": ["2021-09-22T09:02:28.838186+00:00", 2076, "Your mother is", "corny", "Pronunciation: /\u02c8k\u0254rni/", "Definition: dull and tiresome but with pretensions of significance or originality", "Synonyms: bromidic, platitudinal, platitudinous"]}
