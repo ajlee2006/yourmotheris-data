@@ -1,1 +1,1 @@
-{"data": ["2021-09-22T06:01:53.139598+00:00", 2073, "Your mother is", "patrimonial", "Pronunciation: /\u02c8p\u00e6tr\u028c\u02ccmo\u028anj\u028cl/", "Definition: inherited or inheritable by established rules (usually legal rules) of descent", "Synonyms: ancestral, hereditary, transmissible"]}
+{"data": ["2021-09-22T07:03:46.078482+00:00", 2074, "Your mother is", "backhand", "Pronunciation: /\u02c8b\u00e6k\u02cch\u00e6nd/", "Definition: (of handwriting) having the letters slanting backward", "Synonyms: left-slanting"]}
