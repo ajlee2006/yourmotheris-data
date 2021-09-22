@@ -1,1 +1,1 @@
-{"data": ["2021-09-22T09:02:28.838186+00:00", 2076, "Your mother is", "corny", "Pronunciation: /\u02c8k\u0254rni/", "Definition: dull and tiresome but with pretensions of significance or originality", "Synonyms: bromidic, platitudinal, platitudinous"]}
+{"data": ["2021-09-22T10:03:02.366699+00:00", 2077, "Your mother is", "twenty-ninth", "Pronunciation: /\u02c8tw\u025bnti-\u02c8na\u026an\u03b8/", "Definition: coming next after the twenty-eighth in position", "Synonyms: 29th"]}
