@@ -1,1 +1,1 @@
-{"data": ["2021-09-22T16:04:08.733113+00:00", 2083, "Your mother is", "overlooked", "Pronunciation: /\u02c8o\u028av\u025dr\u02ccl\u028akt/", "Definition: not taken into account", "Synonyms: unmarked, unnoted"]}
+{"data": ["2021-09-22T17:01:02.822304+00:00", 2084, "Your mother is", "elongated", "Pronunciation: /\u026a\u02c8l\u0254\u014b\u0261e\u026at\u028cd/", "Definition: having notably more length than width; being long and slender", "Synonyms: elongate"]}
