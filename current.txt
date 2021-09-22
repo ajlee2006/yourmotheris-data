@@ -1,1 +1,1 @@
-{"data": ["2021-09-22T11:01:03.052548+00:00", 2078, "Your mother is", "unsusceptible", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8s\u025bpt\u026ab\u0259l/", "Definition: not susceptible to", "Synonyms: insusceptible"]}
+{"data": ["2021-09-22T12:02:01.252319+00:00", 2079, "Your mother is", "confiscate", "Pronunciation: /\u02c8k\u0251nf\u026a\u02ccske\u026at/", "Definition: surrendered as a penalty", "Synonyms: forfeit, forfeited"]}
