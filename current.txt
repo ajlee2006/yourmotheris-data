@@ -1,1 +1,1 @@
-{"data": ["2021-09-23T10:04:35.395773+00:00", 2101, "Your mother is", "fleshed out", "Similar to: complete", "Definition: given substance or detail; completed", "Synonyms: full-clad"]}
+{"data": ["2021-09-23T11:03:29.123894+00:00", 2102, "Your mother is", "aminic", "", "Definition: pertaining to or containing any of a group of organic compounds of nitrogen derived from ammonia", "Synonyms: amino"]}
