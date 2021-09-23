@@ -1,1 +1,1 @@
-{"data": ["2021-09-23T01:03:26.576722+00:00", 2092, "Your mother is", "pearlescent", "Pronunciation: /p\u025cr\u02c8l\u025bs\u0259nt/", "Definition: having a play of lustrous rainbow colors", "Synonyms: iridescent, nacreous, opalescent, opaline"]}
+{"data": ["2021-09-23T02:04:22.039124+00:00", 2093, "Your mother is", "blockading", "Pronunciation: /\u02ccbl\u0251\u02c8ke\u026ad\u026a\u014b/", "Definition: blocking entrance to and exit from seaports and harbors", ""]}
