@@ -1,1 +1,1 @@
-{"data": ["2021-09-23T05:04:57.412215+00:00", 2096, "Your mother is", "nonintellectual", "Similar to: lowbrow", "Definition: not intellectual", ""]}
+{"data": ["2021-09-23T06:02:38.858896+00:00", 2097, "Your mother is", "indeterminable", "Pronunciation: /\u02cc\u026and\u026a\u02c8t\u025crm\u0259n\u0259b\u0259l/", "Definition: not capable of being definitely decided or ascertained", "Synonyms: undeterminable"]}
