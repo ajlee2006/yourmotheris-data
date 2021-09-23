@@ -1,1 +1,1 @@
-{"data": ["2021-09-23T11:03:29.123894+00:00", 2102, "Your mother is", "aminic", "", "Definition: pertaining to or containing any of a group of organic compounds of nitrogen derived from ammonia", "Synonyms: amino"]}
+{"data": ["2021-09-23T12:01:59.000778+00:00", 2103, "Your mother is", "hominian", "Pronunciation: /ho\u028a\u02c8m\u026ani\u0259n/", "Definition: characterizing the family Hominidae, which includes Homo sapiens as well as extinct species of manlike creatures", "Synonyms: hominid"]}
