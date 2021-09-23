@@ -1,1 +1,1 @@
-{"data": ["2021-09-23T07:02:17.570105+00:00", 2098, "Your mother is", "forty-fifth", "Pronunciation: /\u02c8f\u0254rti-\u02c8f\u026af\u03b8/", "Definition: the ordinal number of forty-five in counting order", "Synonyms: 45th"]}
+{"data": ["2021-09-23T08:05:15.505989+00:00", 2099, "Your mother is", "copper-bottomed", "Similar to: bottomed", "Definition: having a bottom of copper or sheathed with copper", ""]}
