@@ -1,1 +1,1 @@
-{"data": ["2021-09-23T12:01:59.000778+00:00", 2103, "Your mother is", "hominian", "Pronunciation: /ho\u028a\u02c8m\u026ani\u0259n/", "Definition: characterizing the family Hominidae, which includes Homo sapiens as well as extinct species of manlike creatures", "Synonyms: hominid"]}
+{"data": ["2021-09-23T13:01:52.672222+00:00", 2104, "Your mother is", "paperlike", "", "Definition: of or like paper", "Synonyms: chartaceous, papery"]}
