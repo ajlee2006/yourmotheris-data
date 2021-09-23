@@ -1,1 +1,1 @@
-{"data": ["2021-09-23T15:03:50.164796+00:00", 2106, "Your mother is", "diploid", "Pronunciation: /\u02c8d\u026apl\u0254\u026ad/", "Definition: of a cell or organism having two sets of chromosomes or twice the haploid number", ""]}
+{"data": ["2021-09-23T16:02:20.298456+00:00", 2107, "Your mother is", "anthropometrical", "", "Definition: of or relating to anthropometry", "Synonyms: anthropometric"]}
