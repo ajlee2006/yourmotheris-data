@@ -1,1 +1,1 @@
-{"data": ["2021-09-23T17:02:37.326280+00:00", 2108, "Your mother is", "sensible", "Pronunciation: /\u02c8s\u025bns\u0259b\u0259l/", "Definition: able to feel or perceive", "Synonyms: sensitive"]}
+{"data": ["2021-09-23T18:03:23.209646+00:00", 2109, "Your mother is", "impelled", "Pronunciation: /\u026am\u02c8p\u025bld/", "Definition: urged or forced to action through moral pressure", "Synonyms: driven"]}
