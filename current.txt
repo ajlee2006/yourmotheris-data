@@ -1,1 +1,1 @@
-{"data": ["2021-09-23T06:02:38.858896+00:00", 2097, "Your mother is", "indeterminable", "Pronunciation: /\u02cc\u026and\u026a\u02c8t\u025crm\u0259n\u0259b\u0259l/", "Definition: not capable of being definitely decided or ascertained", "Synonyms: undeterminable"]}
+{"data": ["2021-09-23T07:02:17.570105+00:00", 2098, "Your mother is", "forty-fifth", "Pronunciation: /\u02c8f\u0254rti-\u02c8f\u026af\u03b8/", "Definition: the ordinal number of forty-five in counting order", "Synonyms: 45th"]}
