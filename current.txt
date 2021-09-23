@@ -1,1 +1,1 @@
-{"data": ["2021-09-23T03:03:51.713466+00:00", 2094, "Your mother is", "ectothermic", "Similar to: cold-blooded", "Definition: of animals except birds and mammals; having body temperature that varies with the environment", "Synonyms: heterothermic, poikilothermic, poikilothermous"]}
+{"data": ["2021-09-23T04:02:20.282492+00:00", 2095, "Your mother is", "rimed", "Similar to: cold", "Definition: covered with frost", "Synonyms: frosty, rimy"]}
