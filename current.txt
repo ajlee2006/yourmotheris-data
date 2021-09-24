@@ -1,1 +1,1 @@
-{"data": ["2021-09-24T11:03:43.174560+00:00", 2126, "Your mother is", "belated", "Pronunciation: /b\u026a\u02c8le\u026at\u026ad/", "Definition: after the expected or usual time; delayed", "Synonyms: late, tardy"]}
+{"data": ["2021-09-24T12:03:19.584640+00:00", 2127, "Your mother is", "token", "Pronunciation: /\u02c8to\u028ak\u0259n/", "Definition: insignificantly small; a matter of form only (`tokenish' is informal)", "Synonyms: nominal, tokenish"]}
