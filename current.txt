@@ -1,1 +1,1 @@
-{"data": ["2021-09-24T06:01:50.356758+00:00", 2121, "Your mother is", "helical", "Pronunciation: /\u02c8h\u025bl\u026ak\u0259l/", "Definition: in the shape of a coil", "Synonyms: coiling, spiral, spiraling, turbinate, volute, voluted, whorled"]}
+{"data": ["2021-09-24T07:01:51.082926+00:00", 2122, "Your mother is", "spongy", "Pronunciation: /\u02c8sp\u0259nd\u0292i/", "Definition: easily squashed; resembling a sponge in having soft porous texture and compressibility", "Synonyms: spongelike, squashy, squishy"]}
