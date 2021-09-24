@@ -1,1 +1,1 @@
-{"data": ["2021-09-24T17:04:42.620011+00:00", 2132, "Your mother is", "hardy", "Pronunciation: /\u02c8h\u0251rdi/", "Definition: having rugged physical strength; inured to fatigue or hardships", "Synonyms: stalwart, stout, sturdy"]}
+{"data": ["2021-09-24T18:06:07.661375+00:00", 2133, "Your mother is", "posterior", "Pronunciation: /p\u0251\u02c8stiri\u0259r/", "Definition: coming at a subsequent time or stage", "Synonyms: later, ulterior"]}
