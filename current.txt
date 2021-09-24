@@ -1,1 +1,1 @@
-{"data": ["2021-09-24T08:00:56.042918+00:00", 2123, "Your mother is", "misrepresented", "Pronunciation: /\u02ccm\u026asr\u025bpr\u026a\u02c8z\u025bnt\u026ad/", "Definition: having an intended meaning altered or misrepresented", "Synonyms: distorted, perverted, twisted"]}
+{"data": ["2021-09-24T09:03:23.722725+00:00", 2124, "Your mother is", "disenfranchised", "Pronunciation: /d\u026as\u026an\u02c8fr\u00e6n\u02cct\u0283a\u026azd/", "Definition: deprived of the rights of citizenship especially the right to vote", "Synonyms: disfranchised, voiceless, voteless"]}
