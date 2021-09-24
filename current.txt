@@ -1,1 +1,1 @@
-{"data": ["2021-09-24T01:06:00.465369+00:00", 2116, "Your mother is", "pilose", "Pronunciation: /\u02c8pa\u026alo\u028as/", "Definition: covered with hairs especially fine soft ones", "Synonyms: pilary, pilous"]}
+{"data": ["2021-09-24T02:05:18.452418+00:00", 2117, "Your mother is", "antimicrobic", "Similar to: healthful", "Definition: capable of destroying or inhibiting the growth of disease-causing microorganisms", "Synonyms: antimicrobial"]}
