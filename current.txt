@@ -1,1 +1,1 @@
-{"data": ["2021-09-24T12:03:19.584640+00:00", 2127, "Your mother is", "token", "Pronunciation: /\u02c8to\u028ak\u0259n/", "Definition: insignificantly small; a matter of form only (`tokenish' is informal)", "Synonyms: nominal, tokenish"]}
+{"data": ["2021-09-24T13:03:26.286847+00:00", 2128, "Your mother is", "unfeeling", "Pronunciation: /\u0259n\u02c8fil\u026a\u014b/", "Definition: devoid of feeling for others", "Synonyms: hardhearted, stonyhearted"]}
