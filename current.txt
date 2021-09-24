@@ -1,1 +1,1 @@
-{"data": ["2021-09-24T19:01:59.789716+00:00", 2134, "Your mother is", "fat-soluble", "Pronunciation: /f\u00e6t-\u02c8s\u0251lj\u0259b\u0259l/", "Definition: soluble in fats", ""]}
+{"data": ["2021-09-24T20:04:41.552722+00:00", 2135, "Your mother is", "umbellar", "", "Definition: bearing or consisting of or resembling umbels", "Synonyms: umbellate"]}
