@@ -1,1 +1,1 @@
-{"data": ["2021-09-24T03:02:49.011619+00:00", 2118, "Your mother is", "furthest", "Pronunciation: /\u02c8f\u025cr\u00f0\u026ast/", "Definition: (comparatives of `far') most remote in space or time or order", "Synonyms: farthermost, farthest, furthermost, utmost, uttermost"]}
+{"data": ["2021-09-24T04:00:54.762921+00:00", 2119, "Your mother is", "slithery", "Similar to: slippery", "Definition: having a slippery surface or quality", ""]}
