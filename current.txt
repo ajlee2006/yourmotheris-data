@@ -1,1 +1,1 @@
-{"data": ["2021-09-24T09:03:23.722725+00:00", 2124, "Your mother is", "disenfranchised", "Pronunciation: /d\u026as\u026an\u02c8fr\u00e6n\u02cct\u0283a\u026azd/", "Definition: deprived of the rights of citizenship especially the right to vote", "Synonyms: disfranchised, voiceless, voteless"]}
+{"data": ["2021-09-24T10:05:01.998655+00:00", 2125, "Your mother is", "yugoslav", "Pronunciation: /\u02c8ju\u0261o\u028a\u02ccsl\u0251v/", "Definition: of or relating to or characteristic of the former country of Yugoslavia or its people or languages", "Synonyms: yugoslavian"]}
