@@ -1,1 +1,1 @@
-{"data": ["2021-09-24T05:04:01.707399+00:00", 2120, "Your mother is", "hydrodynamic", "Pronunciation: /\u02ccha\u026adro\u028ada\u026a\u02c8n\u00e6m\u026ak/", "Definition: of or relating to hydrodynamics", ""]}
+{"data": ["2021-09-24T06:01:50.356758+00:00", 2121, "Your mother is", "helical", "Pronunciation: /\u02c8h\u025bl\u026ak\u0259l/", "Definition: in the shape of a coil", "Synonyms: coiling, spiral, spiraling, turbinate, volute, voluted, whorled"]}
