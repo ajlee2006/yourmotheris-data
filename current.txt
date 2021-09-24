@@ -1,1 +1,1 @@
-{"data": ["2021-09-24T02:05:18.452418+00:00", 2117, "Your mother is", "antimicrobic", "Similar to: healthful", "Definition: capable of destroying or inhibiting the growth of disease-causing microorganisms", "Synonyms: antimicrobial"]}
+{"data": ["2021-09-24T03:02:49.011619+00:00", 2118, "Your mother is", "furthest", "Pronunciation: /\u02c8f\u025cr\u00f0\u026ast/", "Definition: (comparatives of `far') most remote in space or time or order", "Synonyms: farthermost, farthest, furthermost, utmost, uttermost"]}
