@@ -1,1 +1,1 @@
-{"data": ["2021-09-24T04:00:54.762921+00:00", 2119, "Your mother is", "slithery", "Similar to: slippery", "Definition: having a slippery surface or quality", ""]}
+{"data": ["2021-09-24T05:04:01.707399+00:00", 2120, "Your mother is", "hydrodynamic", "Pronunciation: /\u02ccha\u026adro\u028ada\u026a\u02c8n\u00e6m\u026ak/", "Definition: of or relating to hydrodynamics", ""]}
