@@ -1,1 +1,1 @@
-{"data": ["2021-09-25T20:04:38.992363+00:00", 2159, "Your mother is", "satiated", "Pronunciation: /\u02c8se\u026a\u0283i\u02cce\u026at\u026ad/", "Definition: supplied (especially fed) to satisfaction", "Synonyms: satiate"]}
+{"data": ["2021-09-25T21:01:21.775881+00:00", 2160, "Your mother is", "spiderly", "", "Definition: relating to or resembling a member of the class Arachnida", "Synonyms: arachnidian, arachnoid, spiderlike, spidery"]}
