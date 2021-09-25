@@ -1,1 +1,1 @@
-{"data": ["2021-09-25T14:01:21.493077+00:00", 2153, "Your mother is", "preoccupied", "Pronunciation: /pri\u02c8\u0251kj\u0259\u02ccpa\u026ad/", "Definition: deeply absorbed in thought", "Synonyms: bemused, lost"]}
+{"data": ["2021-09-25T15:03:28.413830+00:00", 2154, "Your mother is", "diestrual", "Similar to: anestrous", "Definition: (of animals that have several estrous cycles in one breeding season) in a period of sexual inactivity", "Synonyms: diestrous, dioestrous, dioestrual"]}
