@@ -1,1 +1,1 @@
-{"data": ["2021-09-25T21:01:21.775881+00:00", 2160, "Your mother is", "spiderly", "", "Definition: relating to or resembling a member of the class Arachnida", "Synonyms: arachnidian, arachnoid, spiderlike, spidery"]}
+{"data": ["2021-09-25T22:04:57.060982+00:00", 2161, "Your mother is", "long-bodied", "Similar to: bodied", "Definition: having a relatively long body", ""]}
