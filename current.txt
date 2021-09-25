@@ -1,1 +1,1 @@
-{"data": ["2021-09-25T03:03:28.066711+00:00", 2142, "Your mother is", "uncivilized", "Pronunciation: /\u0259n\u02c8s\u026av\u0259la\u026azd/", "Definition: without civilizing influences", "Synonyms: barbarian, barbaric, savage, uncivilised, wild"]}
+{"data": ["2021-09-25T04:02:09.514616+00:00", 2143, "Your mother is", "rattled", "Pronunciation: /\u02c8r\u00e6t\u028cld/", "Definition: thrown into a state of agitated confusion; (`rattled' is an informal term)", "Synonyms: flustered, hot and bothered, perturbed"]}
