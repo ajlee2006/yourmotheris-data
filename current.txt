@@ -1,1 +1,1 @@
-{"data": ["2021-09-25T18:01:05.306601+00:00", 2157, "Your mother is", "hibernal", "Pronunciation: /ha\u026a\u02c8b\u025crn\u0259l/", "Definition: characteristic of or relating to winter", "Synonyms: brumal, hiemal"]}
+{"data": ["2021-09-25T19:02:20.129575+00:00", 2158, "Your mother is", "serrated", "Pronunciation: /\u02c8s\u025bre\u026at\u026ad/", "Definition: notched like a saw with teeth pointing toward the apex", "Synonyms: notched, saw-toothed, serrate, toothed"]}
