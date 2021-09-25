@@ -1,1 +1,1 @@
-{"data": ["2021-09-25T07:02:58.451571+00:00", 2146, "Your mother is", "esthetical", "Pronunciation: /\u025bs\u02c8\u03b8\u025bt\u026ak\u0259l/", "Definition: concerning or characterized by an appreciation of beauty or good taste", "Synonyms: aesthetic, aesthetical, esthetic"]}
+{"data": ["2021-09-25T08:01:18.957102+00:00", 2147, "Your mother is", "sigmoidal", "", "Definition: of or relating to the sigmoid flexure in the large intestine", "Synonyms: sigmoid"]}
