@@ -1,1 +1,1 @@
-{"data": ["2021-09-25T19:02:20.129575+00:00", 2158, "Your mother is", "serrated", "Pronunciation: /\u02c8s\u025bre\u026at\u026ad/", "Definition: notched like a saw with teeth pointing toward the apex", "Synonyms: notched, saw-toothed, serrate, toothed"]}
+{"data": ["2021-09-25T20:04:38.992363+00:00", 2159, "Your mother is", "satiated", "Pronunciation: /\u02c8se\u026a\u0283i\u02cce\u026at\u026ad/", "Definition: supplied (especially fed) to satisfaction", "Synonyms: satiate"]}
