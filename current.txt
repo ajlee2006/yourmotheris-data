@@ -1,1 +1,1 @@
-{"data": ["2021-09-24T23:02:26.434778+00:00", 2138, "Your mother is", "fantastic", "Pronunciation: /f\u00e6n\u02c8t\u00e6st\u026ak/", "Definition: ludicrously odd", "Synonyms: antic, fantastical, grotesque"]}
+{"data": ["2021-09-25T00:04:03.099671+00:00", 2139, "Your mother is", "bastardly", "Pronunciation: /\u02c8b\u00e6st\u0259rdli/", "Definition: of no value or worth", "Synonyms: mean"]}
