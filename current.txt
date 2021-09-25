@@ -1,1 +1,1 @@
-{"data": ["2021-09-25T02:02:09.340148+00:00", 2141, "Your mother is", "rough-and-ready", "Pronunciation: /\u02c8r\u0259f-\u0259n-\u02c8r\u025bdi/", "Definition: crude but effective for the purpose at hand", ""]}
+{"data": ["2021-09-25T03:03:28.066711+00:00", 2142, "Your mother is", "uncivilized", "Pronunciation: /\u0259n\u02c8s\u026av\u0259la\u026azd/", "Definition: without civilizing influences", "Synonyms: barbarian, barbaric, savage, uncivilised, wild"]}
