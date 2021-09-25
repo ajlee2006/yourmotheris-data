@@ -1,1 +1,1 @@
-{"data": ["2021-09-25T04:02:09.514616+00:00", 2143, "Your mother is", "rattled", "Pronunciation: /\u02c8r\u00e6t\u028cld/", "Definition: thrown into a state of agitated confusion; (`rattled' is an informal term)", "Synonyms: flustered, hot and bothered, perturbed"]}
+{"data": ["2021-09-25T05:04:38.248492+00:00", 2144, "Your mother is", "deviant", "Pronunciation: /\u02c8divi\u0259nt/", "Definition: markedly different from an accepted norm", "Synonyms: aberrant, deviate"]}
