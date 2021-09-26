@@ -1,1 +1,1 @@
-{"data": ["2021-09-26T09:02:11.431189+00:00", 2172, "Your mother is", "compressible", "Pronunciation: /k\u0259m\u02c8pr\u025bs\u026ab\u0259l/", "Definition: capable of being easily compressed", "Synonyms: squeezable"]}
+{"data": ["2021-09-26T10:04:21.726648+00:00", 2173, "Your mother is", "off-and-on", "Similar to: broken", "Definition: intermittently stopping and starting", "Synonyms: fitful, interrupted"]}
