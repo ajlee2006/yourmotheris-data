@@ -1,1 +1,1 @@
-{"data": ["2021-09-26T11:03:45.063814+00:00", 2174, "Your mother is", "a-one", "Similar to: superior", "Definition: of the highest quality", "Synonyms: ace, crack, first-rate, super, tiptop, top-notch, topnotch, tops"]}
+{"data": ["2021-09-26T12:04:23.954941+00:00", 2175, "Your mother is", "fortified", "Pronunciation: /\u02c8f\u0254rt\u028c\u02ccfa\u026ad/", "Definition: secured with bastions or fortifications", "Synonyms: bastioned"]}
