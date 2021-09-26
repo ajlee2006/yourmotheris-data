@@ -1,1 +1,1 @@
-{"data": ["2021-09-26T06:01:02.118561+00:00", 2169, "Your mother is", "amoebic", "Pronunciation: /\u0259\u02c8mib\u026ak/", "Definition: pertaining to or resembling amoebae", "Synonyms: ameban, amebic, amebous, amoeban, amoebous"]}
+{"data": ["2021-09-26T07:02:49.336659+00:00", 2170, "Your mother is", "scurfy", "Similar to: rough", "Definition: rough to the touch; covered with scales or scurf", "Synonyms: lepidote, leprose, scabrous, scaly"]}
