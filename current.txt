@@ -1,1 +1,1 @@
-{"data": ["2021-09-26T01:02:02.931467+00:00", 2164, "Your mother is", "gastrointestinal", "Pronunciation: /\u02cc\u0261\u00e6stro\u028a\u026an\u02c8t\u025bst\u0259n\u0259l/", "Definition: of or relating to the stomach and intestines", "Synonyms: gi"]}
+{"data": ["2021-09-26T02:01:02.441725+00:00", 2165, "Your mother is", "hazy", "Pronunciation: /\u02c8he\u026azi/", "Definition: indistinct or hazy in outline", "Synonyms: bleary, blurred, blurry, foggy, fuzzy, muzzy"]}
