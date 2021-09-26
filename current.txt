@@ -1,1 +1,1 @@
-{"data": ["2021-09-26T05:00:57.373915+00:00", 2168, "Your mother is", "northwestward", "Similar to: north", "Definition: toward the northwest", ""]}
+{"data": ["2021-09-26T06:01:02.118561+00:00", 2169, "Your mother is", "amoebic", "Pronunciation: /\u0259\u02c8mib\u026ak/", "Definition: pertaining to or resembling amoebae", "Synonyms: ameban, amebic, amebous, amoeban, amoebous"]}
