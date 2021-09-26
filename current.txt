@@ -1,1 +1,1 @@
-{"data": ["2021-09-25T23:03:10.624858+00:00", 2162, "Your mother is", "splattered", "Pronunciation: /\u02c8spl\u00e6t\u025drd/", "Definition: covered with bright patches (often used in combination)", "Synonyms: dabbled, spattered, splashed"]}
+{"data": ["2021-09-26T00:06:03.336319+00:00", 2163, "Your mother is", "budding", "Pronunciation: /\u02c8b\u028cd\u026a\u014b/", "Definition: beginning to develop", ""]}
