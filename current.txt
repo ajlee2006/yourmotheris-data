@@ -1,1 +1,1 @@
-{"data": ["2021-09-26T02:01:02.441725+00:00", 2165, "Your mother is", "hazy", "Pronunciation: /\u02c8he\u026azi/", "Definition: indistinct or hazy in outline", "Synonyms: bleary, blurred, blurry, foggy, fuzzy, muzzy"]}
+{"data": ["2021-09-26T03:01:13.040188+00:00", 2166, "Your mother is", "thin-shelled", "Similar to: shelled", "Definition: of animals or plants that have a thin shell", ""]}
