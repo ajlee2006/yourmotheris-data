@@ -1,1 +1,1 @@
-{"data": ["2021-09-26T18:02:09.987065+00:00", 2181, "Your mother is", "astringent", "Pronunciation: /\u0259\u02c8str\u026and\u0292\u0259nt/", "Definition: sour or bitter in taste", "Synonyms: acerb, acerbic"]}
+{"data": ["2021-09-26T19:01:09.822099+00:00", 2182, "Your mother is", "chic", "Pronunciation: /\u0283ik/", "Definition: elegant and stylish", "Synonyms: smart, voguish"]}
