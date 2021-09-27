@@ -1,1 +1,1 @@
-{"data": ["2021-09-27T02:02:34.785363+00:00", 2189, "Your mother is", "touristy", "Pronunciation: /\u02c8t\u028ar\u026asti/", "Definition: visited by throngs of tourists", "Synonyms: touristed"]}
+{"data": ["2021-09-27T03:02:09.091799+00:00", 2190, "Your mother is", "unhappy", "Pronunciation: /\u0259n\u02c8h\u00e6pi/", "Definition: generalized feeling of distress", "Synonyms: distressed, dysphoric"]}
