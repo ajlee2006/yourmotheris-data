@@ -1,1 +1,1 @@
-{"data": ["2021-09-27T12:06:06.164539+00:00", 2196, "Your mother is", "flagitious", "Pronunciation: /fl\u0259\u02c8d\u0292\u026a\u0283\u0259s/", "Definition: shockingly brutal or cruel", "Synonyms: atrocious, grievous, monstrous"]}
+{"data": ["2021-09-27T13:03:29.911510+00:00", 2197, "Your mother is", "heavenward", "Pronunciation: /\u02c8h\u025bv\u0259nw\u0259rd/", "Definition: directed toward heaven or the sky", "Synonyms: skyward"]}
