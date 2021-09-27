@@ -1,1 +1,1 @@
-{"data": ["2021-09-27T17:07:23.217238+00:00", 2201, "Your mother is", "wrathful", "Pronunciation: /\u02c8r\u00e6\u03b8f\u0259l/", "Definition: vehemently incensed and condemnatory", "Synonyms: wroth, wrothful"]}
+{"data": ["2021-09-27T18:02:45.089678+00:00", 2202, "Your mother is", "succeeding", "Pronunciation: /s\u028ck\u02c8sid\u026a\u014b/", "Definition: (of elected officers) elected but not yet serving", "Synonyms: future, next"]}
