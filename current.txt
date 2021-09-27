@@ -1,1 +1,1 @@
-{"data": ["2021-09-27T05:01:06.622234+00:00", 2192, "Your mother is", "shaky", "Pronunciation: /\u02c8\u0283e\u026aki/", "Definition: not secure; beset with difficulties", "Synonyms: precarious"]}
+{"data": ["2021-09-27T07:04:42.369945+00:00", 2193, "Your mother is", "volunteer", "Pronunciation: /\u02ccv\u0251l\u0259n\u02c8tir/", "Definition: without payment", "Synonyms: unpaid"]}
