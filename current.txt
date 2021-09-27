@@ -1,1 +1,1 @@
-{"data": ["2021-09-27T14:06:59.950105+00:00", 2198, "Your mother is", "better", "Pronunciation: /\u02c8b\u025bt\u0259r/", "Definition: (comparative and superlative of `well') wiser or more advantageous and hence advisable", "Synonyms: best"]}
+{"data": ["2021-09-27T15:05:05.936098+00:00", 2199, "Your mother is", "wingless", "Pronunciation: /\u02c8w\u026a\u014bl\u026as/", "Definition: lacking wings", ""]}
