@@ -1,1 +1,1 @@
-{"data": ["2021-09-27T01:04:07.441995+00:00", 2188, "Your mother is", "shrew-sized", "Similar to: sized", "Definition: having the approximate size of a shrew", ""]}
+{"data": ["2021-09-27T02:02:34.785363+00:00", 2189, "Your mother is", "touristy", "Pronunciation: /\u02c8t\u028ar\u026asti/", "Definition: visited by throngs of tourists", "Synonyms: touristed"]}
