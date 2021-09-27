@@ -1,1 +1,1 @@
-{"data": ["2021-09-27T07:04:42.369945+00:00", 2193, "Your mother is", "volunteer", "Pronunciation: /\u02ccv\u0251l\u0259n\u02c8tir/", "Definition: without payment", "Synonyms: unpaid"]}
+{"data": ["2021-09-27T10:02:13.743594+00:00", 2194, "Your mother is", "cultivable", "Pronunciation: /\u02c8k\u0259lt\u0259v\u0259b\u0259l/", "Definition: (of farmland) capable of being farmed productively", "Synonyms: arable, cultivatable, tillable"]}
