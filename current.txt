@@ -1,1 +1,1 @@
-{"data": ["2021-09-27T20:02:17.361953+00:00", 2204, "Your mother is", "emphasised", "Similar to: accented", "Definition: spoken with emphasis", "Synonyms: emphasized, emphatic"]}
+{"data": ["2021-09-27T21:04:28.335722+00:00", 2205, "Your mother is", "quadruple", "Pronunciation: /kw\u0251\u02c8drup\u0259l/", "Definition: four times as great or many", "Synonyms: four-fold, fourfold"]}
