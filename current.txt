@@ -1,1 +1,1 @@
-{"data": ["2021-09-27T19:04:51.906314+00:00", 2203, "Your mother is", "misbegotten", "Pronunciation: /\u02ccm\u026asb\u026a\u02c8\u0261\u0251t\u0259n/", "Definition: born out of wedlock", "Synonyms: bastardly, misbegot, spurious"]}
+{"data": ["2021-09-27T20:02:17.361953+00:00", 2204, "Your mother is", "emphasised", "Similar to: accented", "Definition: spoken with emphasis", "Synonyms: emphasized, emphatic"]}
