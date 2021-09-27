@@ -1,1 +1,1 @@
-{"data": ["2021-09-26T23:01:03.827894+00:00", 2186, "Your mother is", "braw", "Pronunciation: /br\u0254/", "Definition: brightly colored and showy", "Synonyms: brave, gay"]}
+{"data": ["2021-09-27T00:05:49.376907+00:00", 2187, "Your mother is", "visaged", "Similar to: faced", "Definition: having a face or visage as specified", ""]}
