@@ -1,1 +1,1 @@
-{"data": ["2021-09-27T13:03:29.911510+00:00", 2197, "Your mother is", "heavenward", "Pronunciation: /\u02c8h\u025bv\u0259nw\u0259rd/", "Definition: directed toward heaven or the sky", "Synonyms: skyward"]}
+{"data": ["2021-09-27T14:06:59.950105+00:00", 2198, "Your mother is", "better", "Pronunciation: /\u02c8b\u025bt\u0259r/", "Definition: (comparative and superlative of `well') wiser or more advantageous and hence advisable", "Synonyms: best"]}
