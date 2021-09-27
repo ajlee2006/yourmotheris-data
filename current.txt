@@ -1,1 +1,1 @@
-{"data": ["2021-09-27T15:05:05.936098+00:00", 2199, "Your mother is", "wingless", "Pronunciation: /\u02c8w\u026a\u014bl\u026as/", "Definition: lacking wings", ""]}
+{"data": ["2021-09-27T16:03:23.272432+00:00", 2200, "Your mother is", "unsatiated", "Similar to: insatiable", "Definition: not having been satisfied", "Synonyms: unsated, unsatisfied"]}
