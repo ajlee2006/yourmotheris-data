@@ -1,1 +1,1 @@
-{"data": ["2021-09-28T17:03:21.063061+00:00", 2223, "Your mother is", "unconformable", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8f\u0254rm\u0259b\u0259l/", "Definition: not correspondent", ""]}
+{"data": ["2021-09-28T18:04:08.816494+00:00", 2224, "Your mother is", "most", "Pronunciation: /mo\u028ast/", "Definition: (superlative of `many' used with count nouns and often preceded by `the') quantifier meaning the greatest in number", ""]}
