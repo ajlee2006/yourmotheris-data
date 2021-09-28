@@ -1,1 +1,1 @@
-{"data": ["2021-09-28T14:02:30.842052+00:00", 2220, "Your mother is", "anaerobic", "Pronunciation: /\u02cc\u00e6n\u025c\u02c8ro\u028ab\u026ak/", "Definition: living or active in the absence of free oxygen", "Synonyms: anaerobiotic"]}
+{"data": ["2021-09-28T15:06:03.697067+00:00", 2221, "Your mother is", "sophomore", "Pronunciation: /\u02c8s\u0251f\u0259\u02ccmo\u028ar/", "Definition: used of the second year in United States high school or college", "Synonyms: second-year"]}
