@@ -1,1 +1,1 @@
-{"data": ["2021-09-28T09:05:34.970392+00:00", 2215, "Your mother is", "horrendous", "Pronunciation: /h\u0254\u02c8r\u025bnd\u0259s/", "Definition: causing fear or dread or terror", "Synonyms: awful, dire, direful, dread, dreaded, dreadful, fearful, fearsome, frightening, horrific, terrible"]}
+{"data": ["2021-09-28T10:05:01.025409+00:00", 2216, "Your mother is", "cosmopolitan", "Pronunciation: /\u02cck\u0251zm\u0259\u02c8p\u0251l\u026at\u0259n/", "Definition: growing or occurring in many parts of the world", "Synonyms: widely distributed"]}
