@@ -1,1 +1,1 @@
-{"data": ["2021-09-28T10:05:01.025409+00:00", 2216, "Your mother is", "cosmopolitan", "Pronunciation: /\u02cck\u0251zm\u0259\u02c8p\u0251l\u026at\u0259n/", "Definition: growing or occurring in many parts of the world", "Synonyms: widely distributed"]}
+{"data": ["2021-09-28T11:06:48.089424+00:00", 2217, "Your mother is", "literate", "Pronunciation: /\u02c8l\u026at\u0259r\u026at/", "Definition: knowledgeable and educated in one or several fields", ""]}
