@@ -1,1 +1,1 @@
-{"data": ["2021-09-28T18:04:08.816494+00:00", 2224, "Your mother is", "most", "Pronunciation: /mo\u028ast/", "Definition: (superlative of `many' used with count nouns and often preceded by `the') quantifier meaning the greatest in number", ""]}
+{"data": ["2021-09-28T19:03:41.966106+00:00", 2225, "Your mother is", "anastigmatic", "Pronunciation: /\u02cc\u00e6n\u0259st\u026a\u0261\u02c8m\u00e6t\u026ak/", "Definition: not astigmatic", "Synonyms: stigmatic"]}
