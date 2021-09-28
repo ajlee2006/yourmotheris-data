@@ -1,1 +1,1 @@
-{"data": ["2021-09-28T05:03:09.594318+00:00", 2211, "Your mother is", "unsterilised", "Similar to: germy", "Definition: not sterilized", "Synonyms: unsterilized"]}
+{"data": ["2021-09-28T06:03:46.708349+00:00", 2212, "Your mother is", "chelated", "", "Definition: relating to or characterized by chelation", "Synonyms: chelate"]}
