@@ -1,1 +1,1 @@
-{"data": ["2021-09-28T15:06:03.697067+00:00", 2221, "Your mother is", "sophomore", "Pronunciation: /\u02c8s\u0251f\u0259\u02ccmo\u028ar/", "Definition: used of the second year in United States high school or college", "Synonyms: second-year"]}
+{"data": ["2021-09-28T16:06:59.535757+00:00", 2222, "Your mother is", "gallant", "Pronunciation: /\u02c8\u0261\u00e6l\u0259nt/", "Definition: lively and spirited", "Synonyms: dashing"]}
