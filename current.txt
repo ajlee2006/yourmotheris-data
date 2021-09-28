@@ -1,1 +1,1 @@
-{"data": ["2021-09-28T11:06:48.089424+00:00", 2217, "Your mother is", "literate", "Pronunciation: /\u02c8l\u026at\u0259r\u026at/", "Definition: knowledgeable and educated in one or several fields", ""]}
+{"data": ["2021-09-28T12:05:38.648085+00:00", 2218, "Your mother is", "basifixed", "Pronunciation: /\u02c8be\u026as\u0259\u02ccf\u026akst/", "Definition: attached by its base (as certain anthers to their filaments or stalks)", ""]}
