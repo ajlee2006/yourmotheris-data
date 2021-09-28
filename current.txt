@@ -1,1 +1,1 @@
-{"data": ["2021-09-28T13:06:55.688175+00:00", 2219, "Your mother is", "incensed", "Pronunciation: /\u02c8\u026an\u02ccs\u025bnst/", "Definition: angered at something unjust or wrong", "Synonyms: indignant, outraged, umbrageous"]}
+{"data": ["2021-09-28T14:02:30.842052+00:00", 2220, "Your mother is", "anaerobic", "Pronunciation: /\u02cc\u00e6n\u025c\u02c8ro\u028ab\u026ak/", "Definition: living or active in the absence of free oxygen", "Synonyms: anaerobiotic"]}
