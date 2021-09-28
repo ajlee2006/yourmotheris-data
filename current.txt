@@ -1,1 +1,1 @@
-{"data": ["2021-09-28T03:03:52.271019+00:00", 2209, "Your mother is", "leptorrhinian", "", "Definition: having a long narrow nose", "Synonyms: leptorhine, leptorrhine, leptorrhinic"]}
+{"data": ["2021-09-28T04:05:57.025868+00:00", 2210, "Your mother is", "sternutative", "Similar to: causative", "Definition: causing sneezing", "Synonyms: sternutatory"]}
