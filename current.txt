@@ -1,1 +1,1 @@
-{"data": ["2021-09-28T20:06:35.596978+00:00", 2226, "Your mother is", "absorbefacient", "Pronunciation: /\u00e6b\u02ccs\u0254rb\u0259\u02c8fe\u026a\u0283\u0259nt/", "Definition: inducing or promoting absorption", "Synonyms: sorbefacient"]}
+{"data": ["2021-09-28T21:02:40.799552+00:00", 2227, "Your mother is", "endogenic", "", "Definition: derived or originating internally", "Synonyms: endogenous"]}
