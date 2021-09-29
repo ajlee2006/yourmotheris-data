@@ -1,1 +1,1 @@
-{"data": ["2021-09-29T05:04:40.593406+00:00", 2235, "Your mother is", "flush", "Pronunciation: /fl\u0259\u0283/", "Definition: having an abundant supply of money or possessions of value", "Synonyms: affluent, loaded, moneyed, substantial, wealthy"]}
+{"data": ["2021-09-29T06:04:26.928492+00:00", 2236, "Your mother is", "purging", "Pronunciation: /\u02c8p\u025drd\u0292\u026a\u014b/", "Definition: serving to purge or rid of sin", "Synonyms: purgatorial, purifying"]}
