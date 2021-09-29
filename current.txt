@@ -1,1 +1,1 @@
-{"data": ["2021-09-29T22:05:50.728393+00:00", 2252, "Your mother is", "hematopoietic", "Pronunciation: /\u02cch\u025bm\u0259to\u028ap\u0254\u026a\u02c8\u025bt\u026ak/", "Definition: pertaining to the formation of blood or blood cells", "Synonyms: haematogenic, haematopoietic, haemopoietic, hematogenic, hemopoietic"]}
+{"data": ["2021-09-29T23:04:48.327160+00:00", 2253, "Your mother is", "nonconducting", "", "Definition: not able to conduct heat or electricity or sound", "Synonyms: non-conducting, nonconductive"]}
