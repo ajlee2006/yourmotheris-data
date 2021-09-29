@@ -1,1 +1,1 @@
-{"data": ["2021-09-29T12:02:25.200310+00:00", 2242, "Your mother is", "acid", "Pronunciation: /\u02c8\u00e6s\u026ad/", "Definition: being sour to the taste", "Synonyms: acidic, acidulent, acidulous"]}
+{"data": ["2021-09-29T13:02:22.111592+00:00", 2243, "Your mother is", "itinerant", "Pronunciation: /a\u026a\u02c8t\u026an\u0259r\u0259nt/", "Definition: traveling from place to place to work", ""]}
