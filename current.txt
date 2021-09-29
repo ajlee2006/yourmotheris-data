@@ -1,1 +1,1 @@
-{"data": ["2021-09-29T06:04:26.928492+00:00", 2236, "Your mother is", "purging", "Pronunciation: /\u02c8p\u025drd\u0292\u026a\u014b/", "Definition: serving to purge or rid of sin", "Synonyms: purgatorial, purifying"]}
+{"data": ["2021-09-29T07:04:24.383370+00:00", 2237, "Your mother is", "ill-famed", "Pronunciation: /\u026al-fe\u026amd/", "Definition: known widely and usually unfavorably", "Synonyms: infamous, notorious"]}
