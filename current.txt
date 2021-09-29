@@ -1,1 +1,1 @@
-{"data": ["2021-09-28T23:02:28.776201+00:00", 2229, "Your mother is", "crusty", "Pronunciation: /\u02c8kr\u0259sti/", "Definition: having a hardened crust as a covering", "Synonyms: crusted, crustlike, encrusted"]}
+{"data": ["2021-09-29T00:13:56.265601+00:00", 2230, "Your mother is", "tedious", "Pronunciation: /\u02c8tidi\u0259s/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: boring, deadening, dull, ho-hum, irksome, slow, tiresome, wearisome"]}
