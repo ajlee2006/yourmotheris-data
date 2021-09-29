@@ -1,1 +1,1 @@
-{"data": ["2021-09-29T16:04:12.776901+00:00", 2246, "Your mother is", "incurable", "Pronunciation: /\u026an\u02c8kj\u028ar\u0259b\u0259l/", "Definition: unalterable in disposition or habits", ""]}
+{"data": ["2021-09-29T17:07:32.742535+00:00", 2247, "Your mother is", "closefisted", "Pronunciation: /\u02c8klo\u028as\u02c8f\u026ast\u026ad/", "Definition: unwilling to part with money", "Synonyms: hardfisted, tightfisted"]}
