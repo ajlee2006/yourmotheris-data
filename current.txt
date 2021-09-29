@@ -1,1 +1,1 @@
-{"data": ["2021-09-29T09:04:07.082848+00:00", 2239, "Your mother is", "300", "Similar to: cardinal", "Definition: being one hundred more than two hundred", "Synonyms: ccc, three hundred"]}
+{"data": ["2021-09-29T10:05:09.914267+00:00", 2240, "Your mother is", "calendrical", "", "Definition: relating to or characteristic of or used in a calendar or time measurement", "Synonyms: calendric"]}
