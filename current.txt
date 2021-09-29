@@ -1,1 +1,1 @@
-{"data": ["2021-09-29T17:07:32.742535+00:00", 2247, "Your mother is", "closefisted", "Pronunciation: /\u02c8klo\u028as\u02c8f\u026ast\u026ad/", "Definition: unwilling to part with money", "Synonyms: hardfisted, tightfisted"]}
+{"data": ["2021-09-29T18:06:12.356976+00:00", 2248, "Your mother is", "whiskerless", "Similar to: shaved", "Definition: having no beard", "Synonyms: beardless"]}
