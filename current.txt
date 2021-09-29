@@ -1,1 +1,1 @@
-{"data": ["2021-09-29T11:04:31.109743+00:00", 2241, "Your mother is", "awestricken", "Pronunciation: /\u02c8\u0254\u02ccstr\u026ak\u0259n/", "Definition: having or showing a feeling of mixed reverence and respect and wonder and dread", "Synonyms: awed, awestruck"]}
+{"data": ["2021-09-29T12:02:25.200310+00:00", 2242, "Your mother is", "acid", "Pronunciation: /\u02c8\u00e6s\u026ad/", "Definition: being sour to the taste", "Synonyms: acidic, acidulent, acidulous"]}
