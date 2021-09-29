@@ -1,1 +1,1 @@
-{"data": ["2021-09-29T21:06:06.253406+00:00", 2251, "Your mother is", "polynomial", "Pronunciation: /\u02ccp\u0251li\u02c8no\u028ami\u0259l/", "Definition: having the character of a polynomial", "Synonyms: multinomial"]}
+{"data": ["2021-09-29T22:05:50.728393+00:00", 2252, "Your mother is", "hematopoietic", "Pronunciation: /\u02cch\u025bm\u0259to\u028ap\u0254\u026a\u02c8\u025bt\u026ak/", "Definition: pertaining to the formation of blood or blood cells", "Synonyms: haematogenic, haematopoietic, haemopoietic, hematogenic, hemopoietic"]}
