@@ -1,1 +1,1 @@
-{"data": ["2021-09-29T01:05:36.792795+00:00", 2231, "Your mother is", "psychogenic", "Pronunciation: /\u02ccsa\u026ako\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: of or relating to the psychological cause of a disorder", "Synonyms: psychogenetic"]}
+{"data": ["2021-09-29T02:03:53.598908+00:00", 2232, "Your mother is", "collapsible", "Pronunciation: /k\u028c\u02c8l\u00e6ps\u028cb\u028cl/", "Definition: capable of collapsing or being collapsed", "Synonyms: collapsable"]}
