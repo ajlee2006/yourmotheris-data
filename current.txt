@@ -1,1 +1,1 @@
-{"data": ["2021-09-29T20:04:32.543369+00:00", 2250, "Your mother is", "82", "Similar to: cardinal", "Definition: being two more than eighty", "Synonyms: eighty-two, lxxxii"]}
+{"data": ["2021-09-29T21:06:06.253406+00:00", 2251, "Your mother is", "polynomial", "Pronunciation: /\u02ccp\u0251li\u02c8no\u028ami\u0259l/", "Definition: having the character of a polynomial", "Synonyms: multinomial"]}
