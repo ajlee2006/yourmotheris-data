@@ -1,1 +1,1 @@
-{"data": ["2021-09-29T13:02:22.111592+00:00", 2243, "Your mother is", "itinerant", "Pronunciation: /a\u026a\u02c8t\u026an\u0259r\u0259nt/", "Definition: traveling from place to place to work", ""]}
+{"data": ["2021-09-29T14:04:04.405151+00:00", 2244, "Your mother is", "pericardiac", "", "Definition: located around the heart or relating to or affecting the pericardium", "Synonyms: pericardial"]}
