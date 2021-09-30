@@ -1,1 +1,1 @@
-{"data": ["2021-09-30T06:05:52.910571+00:00", 2260, "Your mother is", "drooping", "Pronunciation: /\u02c8drup\u026a\u014b/", "Definition: having branches or flower heads that bend downward", "Synonyms: cernuous, nodding, pendulous, weeping"]}
+{"data": ["2021-09-30T07:03:57.129905+00:00", 2261, "Your mother is", "antagonistic", "Pronunciation: /\u00e6n\u02cct\u00e6\u0261\u0259\u02c8n\u026ast\u026ak/", "Definition: used especially of drugs or muscles that counteract or neutralize each other's effect", "Synonyms: incompatible"]}
