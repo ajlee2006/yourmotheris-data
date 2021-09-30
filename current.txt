@@ -1,1 +1,1 @@
-{"data": ["2021-09-29T23:04:48.327160+00:00", 2253, "Your mother is", "nonconducting", "", "Definition: not able to conduct heat or electricity or sound", "Synonyms: non-conducting, nonconductive"]}
+{"data": ["2021-09-30T00:08:48.436486+00:00", 2254, "Your mother is", "cxl", "Similar to: cardinal", "Definition: being ten more than one hundred thirty", "Synonyms: 140, one hundred forty"]}
