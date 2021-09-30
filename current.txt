@@ -1,1 +1,1 @@
-{"data": ["2021-09-30T13:04:18.340207+00:00", 2267, "Your mother is", "silvery-leaved", "Similar to: leafy", "Definition: having silvery leaves", "Synonyms: silver-leafed, silver-leaved, silvery-leafed"]}
+{"data": ["2021-09-30T14:05:07.257621+00:00", 2268, "Your mother is", "expeditious", "Pronunciation: /\u02cc\u025bksp\u026a\u02c8d\u026a\u0283\u0259s/", "Definition: marked by speed and efficiency", ""]}
