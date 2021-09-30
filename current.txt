@@ -1,1 +1,1 @@
-{"data": ["2021-09-30T09:04:03.664327+00:00", 2263, "Your mother is", "heraldic", "Pronunciation: /h\u025b\u02c8r\u00e6ld\u026ak/", "Definition: of or relating to heraldry", "Synonyms: heraldist"]}
+{"data": ["2021-09-30T10:05:18.421414+00:00", 2264, "Your mother is", "acrimonious", "Pronunciation: /\u02cc\u00e6kr\u0259\u02c8mo\u028ani\u0259s/", "Definition: marked by strong resentment or cynicism", "Synonyms: bitter"]}
