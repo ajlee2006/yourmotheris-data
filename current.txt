@@ -1,1 +1,1 @@
-{"data": ["2021-09-30T01:04:16.062739+00:00", 2255, "Your mother is", "brachypterous", "Pronunciation: /br\u0259\u02c8k\u026apt\u0259r\u0259s/", "Definition: (especially of certain insects) having very short or rudimentary wings", "Synonyms: short-winged"]}
+{"data": ["2021-09-30T02:05:16.394417+00:00", 2256, "Your mother is", "matter-of-course", "Similar to: expected", "Definition: expected or depended upon as a natural or logical outcome", ""]}
