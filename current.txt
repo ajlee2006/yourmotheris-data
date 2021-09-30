@@ -1,1 +1,1 @@
-{"data": ["2021-09-30T04:03:57.852375+00:00", 2258, "Your mother is", "quick", "Pronunciation: /kw\u026ak/", "Definition: apprehending and responding with speed and sensitivity", "Synonyms: ready"]}
+{"data": ["2021-09-30T05:02:34.344996+00:00", 2259, "Your mother is", "2-dimensional", "Similar to: multidimensional", "Definition: lacking the expected range or depth; not designed to give an illusion or depth", "Synonyms: flat, two-dimensional"]}
