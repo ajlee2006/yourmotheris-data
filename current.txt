@@ -1,1 +1,1 @@
-{"data": ["2021-09-30T19:06:28.080900+00:00", 2273, "Your mother is", "thinkable", "Pronunciation: /\u02c8\u03b8\u026a\u014bk\u0259b\u0259l/", "Definition: capable of being conceived or imagined or considered", ""]}
+{"data": ["2021-09-30T20:04:02.891971+00:00", 2274, "Your mother is", "gullible", "Pronunciation: /\u02c8\u0261\u0259l\u0259b\u0259l/", "Definition: naive and easily deceived or tricked", "Synonyms: fleeceable, green"]}
