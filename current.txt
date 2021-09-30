@@ -1,1 +1,1 @@
-{"data": ["2021-09-30T20:04:02.891971+00:00", 2274, "Your mother is", "gullible", "Pronunciation: /\u02c8\u0261\u0259l\u0259b\u0259l/", "Definition: naive and easily deceived or tricked", "Synonyms: fleeceable, green"]}
+{"data": ["2021-09-30T21:02:20.672597+00:00", 2275, "Your mother is", "hemophilic", "Pronunciation: /\u02cchim\u0259\u02c8f\u026al\u026ak/", "Definition: relating to or having hemophilia", "Synonyms: haemophilic"]}
