@@ -1,1 +1,1 @@
-{"data": ["2021-09-30T21:02:20.672597+00:00", 2275, "Your mother is", "hemophilic", "Pronunciation: /\u02cchim\u0259\u02c8f\u026al\u026ak/", "Definition: relating to or having hemophilia", "Synonyms: haemophilic"]}
+{"data": ["2021-09-30T22:03:12.697444+00:00", 2276, "Your mother is", "sororal", "", "Definition: like or characteristic of or befitting a sister", "Synonyms: sisterlike, sisterly"]}
