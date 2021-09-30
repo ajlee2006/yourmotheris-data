@@ -1,1 +1,1 @@
-{"data": ["2021-09-30T14:05:07.257621+00:00", 2268, "Your mother is", "expeditious", "Pronunciation: /\u02cc\u025bksp\u026a\u02c8d\u026a\u0283\u0259s/", "Definition: marked by speed and efficiency", ""]}
+{"data": ["2021-09-30T15:04:28.178821+00:00", 2269, "Your mother is", "oversewn", "Similar to: hand-crafted", "Definition: sewn together with overhand stitches (close vertical stitches that pass over and draw the two edges together)", "Synonyms: overhand"]}
