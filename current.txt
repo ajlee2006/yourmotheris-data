@@ -1,1 +1,1 @@
-{"data": ["2021-09-30T08:06:24.073335+00:00", 2262, "Your mother is", "perfumed", "Pronunciation: /p\u025dr\u02c8fjumd/", "Definition: filled or impregnated with perfume", "Synonyms: scented"]}
+{"data": ["2021-09-30T09:04:03.664327+00:00", 2263, "Your mother is", "heraldic", "Pronunciation: /h\u025b\u02c8r\u00e6ld\u026ak/", "Definition: of or relating to heraldry", "Synonyms: heraldist"]}
