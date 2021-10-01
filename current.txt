@@ -1,1 +1,1 @@
-{"data": ["2021-10-01T04:04:12.054178+00:00", 2282, "Your mother is", "hooked", "Pronunciation: /h\u028akt/", "Definition: curved down like an eagle's beak", "Synonyms: aquiline"]}
+{"data": ["2021-10-01T05:05:41.829915+00:00", 2283, "Your mother is", "thin-skinned", "Pronunciation: /\u02c8\u03b8\u026an-\u02c8sk\u026and/", "Definition: quick to take offense", "Synonyms: feisty, huffy, touchy"]}
