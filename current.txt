@@ -1,1 +1,1 @@
-{"data": ["2021-10-01T06:06:03.400051+00:00", 2284, "Your mother is", "desecrated", "Pronunciation: /d\u025bz\u028c\u02c8kre\u026at\u026ad/", "Definition: treated with disrespect and contempt", ""]}
+{"data": ["2021-10-01T07:04:20.793440+00:00", 2285, "Your mother is", "unbacked", "Pronunciation: /\u0259n\u02c8b\u00e6kt/", "Definition: unsupported by other people", "Synonyms: single-handed, unassisted"]}
