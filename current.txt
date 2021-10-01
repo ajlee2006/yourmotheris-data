@@ -1,1 +1,1 @@
-{"data": ["2021-10-01T15:07:30.788478+00:00", 2293, "Your mother is", "running", "Pronunciation: /\u02c8r\u0259n\u026a\u014b/", "Definition: (of e.g. a machine) performing or capable of performing", "Synonyms: functional, operative, working"]}
+{"data": ["2021-10-01T16:07:09.341650+00:00", 2294, "Your mother is", "untangled", "Similar to: disentangled", "Definition: not tangled", ""]}
