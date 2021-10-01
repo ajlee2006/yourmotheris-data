@@ -1,1 +1,1 @@
-{"data": ["2021-10-01T02:04:00.001749+00:00", 2280, "Your mother is", "reformatory", "Pronunciation: /r\u026a\u02c8f\u0254rm\u0259\u02ccto\u028ari/", "Definition: tending to reform", "Synonyms: reformative"]}
+{"data": ["2021-10-01T03:02:56.032092+00:00", 2281, "Your mother is", "outbred", "", "Definition: bred of parents not closely related; having parents of different classes or tribes", ""]}
