@@ -1,1 +1,1 @@
-{"data": ["2021-10-01T01:02:30.525020+00:00", 2279, "Your mother is", "maximizing", "Pronunciation: /\u02c8m\u00e6ks\u028c\u02ccma\u026az\u026a\u014b/", "Definition: making as great as possible", "Synonyms: maximising"]}
+{"data": ["2021-10-01T02:04:00.001749+00:00", 2280, "Your mother is", "reformatory", "Pronunciation: /r\u026a\u02c8f\u0254rm\u0259\u02ccto\u028ari/", "Definition: tending to reform", "Synonyms: reformative"]}
