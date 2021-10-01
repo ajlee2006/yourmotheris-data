@@ -1,1 +1,1 @@
-{"data": ["2021-10-01T09:04:50.826088+00:00", 2287, "Your mother is", "haemopoietic", "", "Definition: pertaining to the formation of blood or blood cells", "Synonyms: haematogenic, haematopoietic, hematogenic, hematopoietic, hemopoietic"]}
+{"data": ["2021-10-01T10:07:25.103710+00:00", 2288, "Your mother is", "scurrilous", "Pronunciation: /\u02c8sk\u025cr\u0259l\u0259s/", "Definition: expressing offensive reproach", "Synonyms: abusive, opprobrious"]}
