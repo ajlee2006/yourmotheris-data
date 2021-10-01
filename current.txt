@@ -1,1 +1,1 @@
-{"data": ["2021-10-01T14:06:59.112371+00:00", 2292, "Your mother is", "braised", "Pronunciation: /bre\u026azd/", "Definition: cooked by browning in fat and then simmering in a closed container", ""]}
+{"data": ["2021-10-01T15:07:30.788478+00:00", 2293, "Your mother is", "running", "Pronunciation: /\u02c8r\u0259n\u026a\u014b/", "Definition: (of e.g. a machine) performing or capable of performing", "Synonyms: functional, operative, working"]}
