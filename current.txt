@@ -1,1 +1,1 @@
-{"data": ["2021-10-01T10:07:25.103710+00:00", 2288, "Your mother is", "scurrilous", "Pronunciation: /\u02c8sk\u025cr\u0259l\u0259s/", "Definition: expressing offensive reproach", "Synonyms: abusive, opprobrious"]}
+{"data": ["2021-10-01T11:06:28.584913+00:00", 2289, "Your mother is", "afloat", "Pronunciation: /\u0259\u02c8flo\u028at/", "Definition: aimlessly drifting", "Synonyms: adrift, aimless, directionless, planless, rudderless, undirected"]}
