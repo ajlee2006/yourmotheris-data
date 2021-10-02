@@ -1,1 +1,1 @@
-{"data": ["2021-10-02T16:04:45.250270+00:00", 2318, "Your mother is", "fighting", "Pronunciation: /\u02c8fa\u026at\u026a\u014b/", "Definition: engaged in or ready for military or naval operations", "Synonyms: active, combat-ready"]}
+{"data": ["2021-10-02T17:06:55.896892+00:00", 2319, "Your mother is", "ostensible", "Pronunciation: /\u0251\u02c8st\u025bns\u026ab\u0259l/", "Definition: represented or appearing as such; pretended", "Synonyms: ostensive"]}
