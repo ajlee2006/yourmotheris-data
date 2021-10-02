@@ -1,1 +1,1 @@
-{"data": ["2021-10-02T14:04:50.907845+00:00", 2316, "Your mother is", "11th", "Similar to: ordinal", "Definition: coming next after the tenth and just before the twelfth in position", "Synonyms: eleventh"]}
+{"data": ["2021-10-02T15:06:59.111913+00:00", 2317, "Your mother is", "stated", "Pronunciation: /\u02c8ste\u026at\u026ad/", "Definition: declared as fact; explicitly stated", "Synonyms: declared"]}
