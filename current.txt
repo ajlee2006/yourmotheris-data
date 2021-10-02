@@ -1,1 +1,1 @@
-{"data": ["2021-10-02T20:06:12.762868+00:00", 2322, "Your mother is", "sear", "Pronunciation: /sir/", "Definition: (used especially of vegetation) having lost all moisture", "Synonyms: dried-up, sere, shriveled, shrivelled, withered"]}
+{"data": ["2021-10-02T21:03:38.305756+00:00", 2323, "Your mother is", "thrown-away", "Similar to: unwanted", "Definition: thrown away", "Synonyms: cast-off, discarded, throwaway"]}
