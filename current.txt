@@ -1,1 +1,1 @@
-{"data": ["2021-10-02T15:06:59.111913+00:00", 2317, "Your mother is", "stated", "Pronunciation: /\u02c8ste\u026at\u026ad/", "Definition: declared as fact; explicitly stated", "Synonyms: declared"]}
+{"data": ["2021-10-02T16:04:45.250270+00:00", 2318, "Your mother is", "fighting", "Pronunciation: /\u02c8fa\u026at\u026a\u014b/", "Definition: engaged in or ready for military or naval operations", "Synonyms: active, combat-ready"]}
