@@ -1,1 +1,1 @@
-{"data": ["2021-10-02T06:06:54.096024+00:00", 2308, "Your mother is", "snow-clad", "Pronunciation: /sno\u028a-kl\u00e6d/", "Definition: covered with snow", "Synonyms: snow-covered, snowy"]}
+{"data": ["2021-10-02T07:07:06.535810+00:00", 2309, "Your mother is", "feathery", "Pronunciation: /\u02c8f\u025b\u00f0\u0259ri/", "Definition: resembling or suggesting a feather or feathers", "Synonyms: featherlike"]}
