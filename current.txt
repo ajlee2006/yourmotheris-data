@@ -1,1 +1,1 @@
-{"data": ["2021-10-02T02:06:05.420891+00:00", 2304, "Your mother is", "remorseless", "Pronunciation: /r\u026a\u02c8m\u0254rsl\u026as/", "Definition: without mercy or pity", "Synonyms: pitiless, ruthless, unpitying"]}
+{"data": ["2021-10-02T03:06:10.716810+00:00", 2305, "Your mother is", "affirmable", "Similar to: possible", "Definition: capable of being affirmed or asserted", "Synonyms: assertable"]}
