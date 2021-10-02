@@ -1,1 +1,1 @@
-{"data": ["2021-10-02T04:04:48.196467+00:00", 2306, "Your mother is", "riveting", "Pronunciation: /\u02c8r\u026av\u028ct\u026a\u014b/", "Definition: capable of arousing and holding the attention", "Synonyms: absorbing, engrossing, fascinating, gripping"]}
+{"data": ["2021-10-02T05:04:09.329913+00:00", 2307, "Your mother is", "eruptive", "Pronunciation: /\u026a\u02c8r\u0259pt\u026av/", "Definition: produced by the action of fire or intense heat", "Synonyms: igneous"]}
