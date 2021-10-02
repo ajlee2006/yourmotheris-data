@@ -1,1 +1,1 @@
-{"data": ["2021-10-02T17:06:55.896892+00:00", 2319, "Your mother is", "ostensible", "Pronunciation: /\u0251\u02c8st\u025bns\u026ab\u0259l/", "Definition: represented or appearing as such; pretended", "Synonyms: ostensive"]}
+{"data": ["2021-10-02T18:05:19.133327+00:00", 2320, "Your mother is", "civil-libertarian", "Similar to: liberal", "Definition: having or showing active concern for protection of civil liberties protected by law", ""]}
