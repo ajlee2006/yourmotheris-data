@@ -1,1 +1,1 @@
-{"data": ["2021-10-02T00:06:18.315921+00:00", 2302, "Your mother is", "impelled", "Pronunciation: /\u026am\u02c8p\u025bld/", "Definition: urged or forced to action through moral pressure", "Synonyms: driven"]}
+{"data": ["2021-10-02T01:06:46.549440+00:00", 2303, "Your mother is", "all-purpose", "Pronunciation: /\u0254l-\u02c8p\u025crp\u0259s/", "Definition: not limited in use or function", "Synonyms: general-purpose"]}
