@@ -1,1 +1,1 @@
-{"data": ["2021-10-02T01:06:46.549440+00:00", 2303, "Your mother is", "all-purpose", "Pronunciation: /\u0254l-\u02c8p\u025crp\u0259s/", "Definition: not limited in use or function", "Synonyms: general-purpose"]}
+{"data": ["2021-10-02T02:06:05.420891+00:00", 2304, "Your mother is", "remorseless", "Pronunciation: /r\u026a\u02c8m\u0254rsl\u026as/", "Definition: without mercy or pity", "Synonyms: pitiless, ruthless, unpitying"]}
