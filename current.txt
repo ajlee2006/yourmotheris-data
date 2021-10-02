@@ -1,1 +1,1 @@
-{"data": ["2021-10-02T05:04:09.329913+00:00", 2307, "Your mother is", "eruptive", "Pronunciation: /\u026a\u02c8r\u0259pt\u026av/", "Definition: produced by the action of fire or intense heat", "Synonyms: igneous"]}
+{"data": ["2021-10-02T06:06:54.096024+00:00", 2308, "Your mother is", "snow-clad", "Pronunciation: /sno\u028a-kl\u00e6d/", "Definition: covered with snow", "Synonyms: snow-covered, snowy"]}
