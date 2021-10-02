@@ -1,1 +1,1 @@
-{"data": ["2021-10-02T10:06:34.872216+00:00", 2312, "Your mother is", "hierarchical", "Pronunciation: /\u02ccha\u026a\u0259\u02c8r\u0251rk\u026ak\u0259l/", "Definition: classified according to various criteria into successive levels or layers", "Synonyms: hierarchal, hierarchic"]}
+{"data": ["2021-10-02T11:05:54.656327+00:00", 2313, "Your mother is", "three-party", "Similar to: many-sided", "Definition: involving three parties or elements", "Synonyms: three-way, tripartite"]}
