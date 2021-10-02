@@ -1,1 +1,1 @@
-{"data": ["2021-10-02T07:07:06.535810+00:00", 2309, "Your mother is", "feathery", "Pronunciation: /\u02c8f\u025b\u00f0\u0259ri/", "Definition: resembling or suggesting a feather or feathers", "Synonyms: featherlike"]}
+{"data": ["2021-10-02T08:04:01.812340+00:00", 2310, "Your mother is", "unshoed", "Similar to: barefoot", "Definition: not shod", "Synonyms: unshod"]}
