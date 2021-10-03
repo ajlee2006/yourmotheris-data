@@ -1,1 +1,1 @@
-{"data": ["2021-10-03T17:05:40.159823+00:00", 2343, "Your mother is", "tasselled", "Similar to: adorned", "Definition: fringed or adorned with tassels", "Synonyms: tasseled"]}
+{"data": ["2021-10-03T18:04:36.183262+00:00", 2344, "Your mother is", "homostylic", "", "Definition: (botany) having styles all of the same length", "Synonyms: homostyled, homostylous"]}
