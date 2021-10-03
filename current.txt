@@ -1,1 +1,1 @@
-{"data": ["2021-10-03T12:05:31.787027+00:00", 2338, "Your mother is", "sunday-go-to-meeting", "Pronunciation: /\u02c8s\u0259ndi-\u02cc\u0261o\u028at\u0259-\u02c8mit\u0259n/", "Definition: used of clothing", "Synonyms: go-to-meeting"]}
+{"data": ["2021-10-03T13:06:48.341352+00:00", 2339, "Your mother is", "rock-loving", "Pronunciation: /r\u0251k-\u02c8l\u0259v\u026a\u014b/", "Definition: of plants that flourish in a rocky environment", ""]}
