@@ -1,1 +1,1 @@
-{"data": ["2021-10-03T14:06:14.463185+00:00", 2340, "Your mother is", "revitalizing", "Pronunciation: /ri\u02c8va\u026at\u028c\u02ccla\u026az\u026a\u014b/", "Definition: tending to impart new life and vigor to", "Synonyms: renewing, restorative, revitalising, reviving"]}
+{"data": ["2021-10-03T15:07:14.586135+00:00", 2341, "Your mother is", "feculent", "Pronunciation: /\u02c8f\u025bkj\u0259l\u0259nt/", "Definition: foul with waste matter", ""]}
