@@ -1,1 +1,1 @@
-{"data": ["2021-10-03T19:01:41.150924+00:00", 2345, "Your mother is", "bizarre", "Pronunciation: /b\u026a\u02c8z\u0251r/", "Definition: conspicuously or grossly unconventional or unusual", "Synonyms: eccentric, flakey, flaky, freakish, freaky, gonzo, off-the-wall, outlandish, outre"]}
+{"data": ["2021-10-03T20:02:41.627327+00:00", 2346, "Your mother is", "impecunious", "Pronunciation: /\u02cc\u026amp\u026a\u02c8kjuni\u0259s/", "Definition: not having enough money to pay for necessities", "Synonyms: hard up, in straitened circumstances, penniless, penurious, pinched"]}
