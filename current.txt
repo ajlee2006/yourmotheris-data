@@ -1,1 +1,1 @@
-{"data": ["2021-10-03T15:07:14.586135+00:00", 2341, "Your mother is", "feculent", "Pronunciation: /\u02c8f\u025bkj\u0259l\u0259nt/", "Definition: foul with waste matter", ""]}
+{"data": ["2021-10-03T16:04:39.541215+00:00", 2342, "Your mother is", "disputative", "Pronunciation: /d\u026a\u02c8spjut\u0259t\u026av/", "Definition: inclined or showing an inclination to dispute or disagree, even to engage in law suits", "Synonyms: combative, contentious, disputatious, litigious"]}
