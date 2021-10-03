@@ -1,1 +1,1 @@
-{"data": ["2021-10-02T23:04:40.344000+00:00", 2325, "Your mother is", "thousandth", "Pronunciation: /\u02c8\u03b8a\u028az\u0259nd\u03b8/", "Definition: the ordinal number of one thousand in counting order", "Synonyms: 1000th"]}
+{"data": ["2021-10-03T00:06:39.941446+00:00", 2326, "Your mother is", "probatory", "Pronunciation: /\u02c8pro\u028ab\u0259\u02ccto\u028ari/", "Definition: tending to prove a particular proposition or to persuade you of the truth of an allegation", "Synonyms: probative"]}
