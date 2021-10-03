@@ -1,1 +1,1 @@
-{"data": ["2021-10-03T07:06:59.068281+00:00", 2333, "Your mother is", "unseemly", "Pronunciation: /\u0259n\u02c8simli/", "Definition: not in keeping with accepted standards of what is right or proper in polite society", "Synonyms: indecent, indecorous, unbecoming, uncomely, untoward"]}
+{"data": ["2021-10-03T08:05:18.665804+00:00", 2334, "Your mother is", "costless", "Similar to: unpaid", "Definition: costing nothing", "Synonyms: complimentary, free, gratis, gratuitous"]}
