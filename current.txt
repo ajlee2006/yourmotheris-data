@@ -1,1 +1,1 @@
-{"data": ["2021-10-04T17:07:01.548991+00:00", 2367, "Your mother is", "elysian", "Pronunciation: /\u026a\u02c8l\u026a\u0292\u0259n/", "Definition: being of such surpassing excellence as to suggest inspiration by the gods", "Synonyms: divine, inspired"]}
+{"data": ["2021-10-04T18:05:50.822595+00:00", 2368, "Your mother is", "inopportune", "Pronunciation: /\u026an\u02cc\u0251p\u0259r\u02c8tun/", "Definition: not opportune", ""]}
