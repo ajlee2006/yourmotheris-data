@@ -1,1 +1,1 @@
-{"data": ["2021-10-04T08:05:22.171196+00:00", 2358, "Your mother is", "undesirable", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8za\u026a\u0259r\u0259b\u0259l/", "Definition: not wanted", "Synonyms: unwanted"]}
+{"data": ["2021-10-04T09:04:57.256828+00:00", 2359, "Your mother is", "multipotent", "Similar to: potent", "Definition: able to many things", ""]}
