@@ -1,1 +1,1 @@
-{"data": ["2021-10-04T01:02:23.762553+00:00", 2351, "Your mother is", "oceanic", "Pronunciation: /\u02cco\u028a\u0283i\u02c8\u00e6n\u026ak/", "Definition: relating to or occurring or living in or frequenting the open ocean", "Synonyms: pelagic"]}
+{"data": ["2021-10-04T02:06:12.723266+00:00", 2352, "Your mother is", "maniclike", "Similar to: insane", "Definition: resembling the mania of manic-depressive illness", ""]}
