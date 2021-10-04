@@ -1,1 +1,1 @@
-{"data": ["2021-10-04T20:05:52.304693+00:00", 2370, "Your mother is", "uncultivatable", "Similar to: uncultivated", "Definition: not suitable for cultivation or tilling", "Synonyms: uncultivable"]}
+{"data": ["2021-10-04T21:04:20.013948+00:00", 2371, "Your mother is", "alliterative", "Pronunciation: /\u0259\u02c8l\u026at\u0259\u02ccre\u026at\u026av/", "Definition: having the same consonant at the beginning of each stressed syllable", ""]}
