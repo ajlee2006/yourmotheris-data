@@ -1,1 +1,1 @@
-{"data": ["2021-10-04T12:07:43.884976+00:00", 2362, "Your mother is", "copernican", "Pronunciation: /ko\u028a\u02c8p\u025crn\u026ak\u0259n/", "Definition: according to Copernicus", ""]}
+{"data": ["2021-10-04T13:05:46.024855+00:00", 2363, "Your mother is", "wroth", "Pronunciation: /r\u0254\u03b8/", "Definition: vehemently incensed and condemnatory", "Synonyms: wrathful, wrothful"]}
