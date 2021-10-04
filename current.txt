@@ -1,1 +1,1 @@
-{"data": ["2021-10-04T19:04:22.728680+00:00", 2369, "Your mother is", "sacerdotal", "Pronunciation: /\u02ccs\u00e6k\u0259\u02c8do\u028at\u0259l/", "Definition: associated with the priesthood or priests", "Synonyms: hieratic, hieratical, priestly"]}
+{"data": ["2021-10-04T20:05:52.304693+00:00", 2370, "Your mother is", "uncultivatable", "Similar to: uncultivated", "Definition: not suitable for cultivation or tilling", "Synonyms: uncultivable"]}
