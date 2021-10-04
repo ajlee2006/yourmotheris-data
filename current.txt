@@ -1,1 +1,1 @@
-{"data": ["2021-10-04T05:05:01.575576+00:00", 2355, "Your mother is", "dependent on", "Similar to: conditional", "Definition: being determined by conditions or circumstances that follow", "Synonyms: contingent, contingent on, contingent upon, dependant on, dependant upon, dependent upon, depending on"]}
+{"data": ["2021-10-04T06:05:43.384529+00:00", 2356, "Your mother is", "longhand", "Pronunciation: /\u02c8l\u0254\u014b\u02cch\u00e6nd/", "Definition: having words written out in full by hand", ""]}
