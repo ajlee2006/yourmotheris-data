@@ -1,1 +1,1 @@
-{"data": ["2021-10-04T21:04:20.013948+00:00", 2371, "Your mother is", "alliterative", "Pronunciation: /\u0259\u02c8l\u026at\u0259\u02ccre\u026at\u026av/", "Definition: having the same consonant at the beginning of each stressed syllable", ""]}
+{"data": ["2021-10-04T22:05:45.461727+00:00", 2372, "Your mother is", "killable", "Similar to: comestible", "Definition: fit to kill, especially for food", ""]}
