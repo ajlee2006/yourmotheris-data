@@ -1,1 +1,1 @@
-{"data": ["2021-10-04T02:06:12.723266+00:00", 2352, "Your mother is", "maniclike", "Similar to: insane", "Definition: resembling the mania of manic-depressive illness", ""]}
+{"data": ["2021-10-04T03:02:24.134511+00:00", 2353, "Your mother is", "6th", "Similar to: ordinal", "Definition: coming next after the fifth and just before the seventh in position", "Synonyms: sixth"]}
