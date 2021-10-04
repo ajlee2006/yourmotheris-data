@@ -1,1 +1,1 @@
-{"data": ["2021-10-04T07:02:14.421135+00:00", 2357, "Your mother is", "superjacent", "Pronunciation: /\u02ccsup\u0259r\u02c8d\u0292e\u026as\u0259nt/", "Definition: lying immediately above or on something else", ""]}
+{"data": ["2021-10-04T08:05:22.171196+00:00", 2358, "Your mother is", "undesirable", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8za\u026a\u0259r\u0259b\u0259l/", "Definition: not wanted", "Synonyms: unwanted"]}
