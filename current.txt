@@ -1,1 +1,1 @@
-{"data": ["2021-10-04T18:05:50.822595+00:00", 2368, "Your mother is", "inopportune", "Pronunciation: /\u026an\u02cc\u0251p\u0259r\u02c8tun/", "Definition: not opportune", ""]}
+{"data": ["2021-10-04T19:04:22.728680+00:00", 2369, "Your mother is", "sacerdotal", "Pronunciation: /\u02ccs\u00e6k\u0259\u02c8do\u028at\u0259l/", "Definition: associated with the priesthood or priests", "Synonyms: hieratic, hieratical, priestly"]}
