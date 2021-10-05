@@ -1,1 +1,1 @@
-{"data": ["2021-10-05T08:05:09.458007+00:00", 2382, "Your mother is", "upstart", "Pronunciation: /\u0259p\u02c8st\u0251rt/", "Definition: characteristic of someone who has risen economically or socially but lacks the social skills appropriate for this new position", "Synonyms: nouveau-riche, parvenu, parvenue"]}
+{"data": ["2021-10-05T09:06:29.596765+00:00", 2383, "Your mother is", "filamentous", "Pronunciation: /\u02ccf\u026al\u0259\u02c8m\u025bnt\u0259s/", "Definition: thin in diameter; resembling a thread", "Synonyms: filamentlike, filiform, threadlike, thready"]}
