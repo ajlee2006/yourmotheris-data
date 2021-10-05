@@ -1,1 +1,1 @@
-{"data": ["2021-10-05T09:06:29.596765+00:00", 2383, "Your mother is", "filamentous", "Pronunciation: /\u02ccf\u026al\u0259\u02c8m\u025bnt\u0259s/", "Definition: thin in diameter; resembling a thread", "Synonyms: filamentlike, filiform, threadlike, thready"]}
+{"data": ["2021-10-05T10:04:16.669858+00:00", 2384, "Your mother is", "tetchy", "Pronunciation: /\u02c8t\u025b\u02a7i/", "Definition: easily irritated or annoyed", "Synonyms: cranky, fractious, irritable, nettlesome, peckish, peevish, pettish, petulant, scratchy, techy, testy"]}
