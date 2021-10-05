@@ -1,1 +1,1 @@
-{"data": ["2021-10-05T12:06:04.248444+00:00", 2386, "Your mother is", "gold", "Pronunciation: /\u0261o\u028ald/", "Definition: having the deep slightly brownish color of gold", "Synonyms: aureate, gilded, gilt, golden"]}
+{"data": ["2021-10-05T13:05:29.104136+00:00", 2387, "Your mother is", "undesirous", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8za\u026a\u0259r\u0259s/", "Definition: having or feeling no desire", "Synonyms: undesiring"]}
