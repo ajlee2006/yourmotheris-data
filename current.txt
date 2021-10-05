@@ -1,1 +1,1 @@
-{"data": ["2021-10-05T22:03:51.992169+00:00", 2396, "Your mother is", "fleshy", "Pronunciation: /\u02c8fl\u025b\u0283i/", "Definition: of or relating to or resembling flesh", "Synonyms: sarcoid"]}
+{"data": ["2021-10-05T23:04:09.051562+00:00", 2397, "Your mother is", "zymotic", "Pronunciation: /za\u026a\u02c8m\u0251t\u026ak/", "Definition: of or relating to or causing fermentation", "Synonyms: zymolytic"]}
