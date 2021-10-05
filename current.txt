@@ -1,1 +1,1 @@
-{"data": ["2021-10-05T11:05:24.303244+00:00", 2385, "Your mother is", "cephalopod", "Pronunciation: /\u02c8s\u025bf\u0259l\u0259\u02ccp\u0251d/", "Definition: relating or belonging to the class Cephalopoda", "Synonyms: cephalopodan"]}
+{"data": ["2021-10-05T12:06:04.248444+00:00", 2386, "Your mother is", "gold", "Pronunciation: /\u0261o\u028ald/", "Definition: having the deep slightly brownish color of gold", "Synonyms: aureate, gilded, gilt, golden"]}
