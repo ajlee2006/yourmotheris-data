@@ -1,1 +1,1 @@
-{"data": ["2021-10-05T06:06:29.655310+00:00", 2380, "Your mother is", "tempting", "Pronunciation: /\u02c8t\u025bmpt\u026a\u014b/", "Definition: very pleasantly inviting", "Synonyms: tantalising, tantalizing"]}
+{"data": ["2021-10-05T07:04:05.064739+00:00", 2381, "Your mother is", "good-looking", "Similar to: beautiful", "Definition: pleasing in appearance especially by reason of conformity to ideals of form and proportion", "Synonyms: better-looking, fine-looking, handsome, well-favored, well-favoured"]}
