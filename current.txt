@@ -1,1 +1,1 @@
-{"data": ["2021-10-04T23:06:07.556079+00:00", 2373, "Your mother is", "preadolescent", "Pronunciation: /\u02ccpri\u00e6d\u0259\u02c8l\u025bs\u0259nt/", "Definition: of or relating to or designed for children between the ages of 9 and 12", "Synonyms: preteen"]}
+{"data": ["2021-10-05T00:06:39.626476+00:00", 2374, "Your mother is", "luminescent", "Pronunciation: /\u02cclum\u0259\u02c8n\u025bs\u0259nt/", "Definition: emitting light not caused by heat", ""]}
