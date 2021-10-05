@@ -1,1 +1,1 @@
-{"data": ["2021-10-05T13:05:29.104136+00:00", 2387, "Your mother is", "undesirous", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8za\u026a\u0259r\u0259s/", "Definition: having or feeling no desire", "Synonyms: undesiring"]}
+{"data": ["2021-10-05T14:05:09.636761+00:00", 2388, "Your mother is", "water-soluble", "Pronunciation: /\u02c8w\u0254t\u0259r-\u02c8s\u0251lj\u0259b\u0259l/", "Definition: soluble in water", ""]}
