@@ -1,1 +1,1 @@
-{"data": ["2021-10-05T14:05:09.636761+00:00", 2388, "Your mother is", "water-soluble", "Pronunciation: /\u02c8w\u0254t\u0259r-\u02c8s\u0251lj\u0259b\u0259l/", "Definition: soluble in water", ""]}
+{"data": ["2021-10-05T15:05:40.001587+00:00", 2389, "Your mother is", "autophytic", "Pronunciation: /\u02cc\u0254t\u0259\u02c8f\u026at\u026ak/", "Definition: of or relating to organisms (as green plants) that can make complex organic nutritive compounds from simple inorganic sources by photosynthesis", "Synonyms: autotrophic"]}
