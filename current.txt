@@ -1,1 +1,1 @@
-{"data": ["2021-10-05T15:05:40.001587+00:00", 2389, "Your mother is", "autophytic", "Pronunciation: /\u02cc\u0254t\u0259\u02c8f\u026at\u026ak/", "Definition: of or relating to organisms (as green plants) that can make complex organic nutritive compounds from simple inorganic sources by photosynthesis", "Synonyms: autotrophic"]}
+{"data": ["2021-10-05T16:06:56.853440+00:00", 2390, "Your mother is", "allotropical", "Pronunciation: /\u02cc\u00e6l\u0259\u02c8tr\u0251p\u026ak\u0259l/", "Definition: of or related to or exhibiting allotropism", "Synonyms: allotropic"]}
