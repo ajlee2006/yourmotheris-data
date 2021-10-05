@@ -1,1 +1,1 @@
-{"data": ["2021-10-05T21:05:48.361158+00:00", 2395, "Your mother is", "club-shaped", "Pronunciation: /kl\u0259b-\u0283e\u026apt/", "Definition: shaped in the form of a club that is larger at one end", ""]}
+{"data": ["2021-10-05T22:03:51.992169+00:00", 2396, "Your mother is", "fleshy", "Pronunciation: /\u02c8fl\u025b\u0283i/", "Definition: of or relating to or resembling flesh", "Synonyms: sarcoid"]}
