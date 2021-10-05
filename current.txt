@@ -1,1 +1,1 @@
-{"data": ["2021-10-05T02:06:17.055385+00:00", 2376, "Your mother is", "azure", "Pronunciation: /\u02c8\u00e6\u0292\u0259r/", "Definition: of a deep somewhat purplish blue color similar to that of a clear October sky", "Synonyms: bright blue, cerulean, sky-blue"]}
+{"data": ["2021-10-05T03:04:30.075339+00:00", 2377, "Your mother is", "dilute", "Pronunciation: /d\u026a\u02c8lut/", "Definition: reduced in strength or concentration or quality or purity", "Synonyms: diluted"]}
