@@ -1,1 +1,1 @@
-{"data": ["2021-10-06T10:07:18.055801+00:00", 2408, "Your mother is", "worshipful", "Pronunciation: /\u02c8w\u025cr\u0283\u026apf\u0259l/", "Definition: showing adoration", "Synonyms: adoring"]}
+{"data": ["2021-10-06T11:07:48.447590+00:00", 2409, "Your mother is", "short-range", "Pronunciation: /\u0283\u0254rt-re\u026and\u0292/", "Definition: limited to short distances", ""]}
