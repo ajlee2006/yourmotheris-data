@@ -1,1 +1,1 @@
-{"data": ["2021-10-06T01:08:40.422637+00:00", 2399, "Your mother is", "cinnabar", "Pronunciation: /\u02c8s\u026an\u0259\u02ccb\u0251r/", "Definition: of a vivid red to reddish-orange color", "Synonyms: chinese-red, vermilion, vermillion"]}
+{"data": ["2021-10-06T02:08:14.003854+00:00", 2400, "Your mother is", "spectroscopic", "Pronunciation: /\u02ccsp\u025bktr\u0259\u02c8sk\u0251p\u026ak/", "Definition: of or relating to or involving spectroscopy", "Synonyms: spectroscopical"]}
