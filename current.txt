@@ -1,1 +1,1 @@
-{"data": ["2021-10-06T18:07:01.970450+00:00", 2416, "Your mother is", "churchly", "Pronunciation: /t\u0283\u025crt\u0283li/", "Definition: resembling or suggesting or appropriate to a church", ""]}
+{"data": ["2021-10-06T19:03:16.134512+00:00", 2417, "Your mother is", "unflavored", "Similar to: tasteless", "Definition: without flavoring added", "Synonyms: nonflavored, nonflavoured, unflavoured"]}
