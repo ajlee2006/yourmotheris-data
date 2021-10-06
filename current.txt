@@ -1,1 +1,1 @@
-{"data": ["2021-10-06T09:06:34.245561+00:00", 2407, "Your mother is", "bandy-legged", "Pronunciation: /\u02c8b\u00e6ndi-\u02ccl\u025b\u0261\u026ad/", "Definition: have legs that curve outward at the knees", "Synonyms: bandy, bowed, bowleg, bowlegged"]}
+{"data": ["2021-10-06T10:07:18.055801+00:00", 2408, "Your mother is", "worshipful", "Pronunciation: /\u02c8w\u025cr\u0283\u026apf\u0259l/", "Definition: showing adoration", "Synonyms: adoring"]}
