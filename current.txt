@@ -1,1 +1,1 @@
-{"data": ["2021-10-06T22:07:25.165727+00:00", 2420, "Your mother is", "formulated", "Pronunciation: /\u02c8f\u0254rmj\u028c\u02ccle\u026at\u028cd/", "Definition: devised; developed according to an orderly plan", ""]}
+{"data": ["2021-10-06T23:06:28.293628+00:00", 2421, "Your mother is", "self-appointed", "Pronunciation: /s\u025blf-\u0259\u02c8p\u0254\u026ant\u026ad/", "Definition: designated or chosen by yourself", ""]}
