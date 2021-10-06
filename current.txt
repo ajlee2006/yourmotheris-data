@@ -1,1 +1,1 @@
-{"data": ["2021-10-06T07:04:40.950891+00:00", 2405, "Your mother is", "latin", "Pronunciation: /\u02c8l\u00e6t\u0259n/", "Definition: relating to languages derived from Latin", "Synonyms: romance"]}
+{"data": ["2021-10-06T08:07:01.881093+00:00", 2406, "Your mother is", "nonflavored", "Similar to: tasteless", "Definition: without flavoring added", "Synonyms: nonflavoured, unflavored, unflavoured"]}
