@@ -1,1 +1,1 @@
-{"data": ["2021-10-06T14:06:54.069558+00:00", 2412, "Your mother is", "brummagem", "Pronunciation: /\u02c8br\u0259m\u0259d\u0292\u0259m/", "Definition: cheap and showy", ""]}
+{"data": ["2021-10-06T15:04:28.326786+00:00", 2413, "Your mother is", "subjacent", "Pronunciation: /s\u0259b\u02c8d\u0292e\u026as\u0259nt/", "Definition: lying nearby but lower", ""]}
