@@ -1,1 +1,1 @@
-{"data": ["2021-10-06T06:05:01.367319+00:00", 2404, "Your mother is", "delineate", "Pronunciation: /d\u026a\u02c8l\u026ani\u02cce\u026at/", "Definition: represented accurately or precisely", "Synonyms: delineated, represented"]}
+{"data": ["2021-10-06T07:04:40.950891+00:00", 2405, "Your mother is", "latin", "Pronunciation: /\u02c8l\u00e6t\u0259n/", "Definition: relating to languages derived from Latin", "Synonyms: romance"]}
