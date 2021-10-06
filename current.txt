@@ -1,1 +1,1 @@
-{"data": ["2021-10-06T15:04:28.326786+00:00", 2413, "Your mother is", "subjacent", "Pronunciation: /s\u0259b\u02c8d\u0292e\u026as\u0259nt/", "Definition: lying nearby but lower", ""]}
+{"data": ["2021-10-06T16:08:14.309045+00:00", 2414, "Your mother is", "fundamental", "Pronunciation: /\u02ccf\u0259nd\u0259\u02c8m\u025bnt\u0259l/", "Definition: far-reaching and thoroughgoing in effect especially on the nature of something", "Synonyms: profound"]}
