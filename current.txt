@@ -1,1 +1,1 @@
-{"data": ["2021-10-06T04:03:33.730460+00:00", 2402, "Your mother is", "full-scale", "Pronunciation: /f\u028al-ske\u026al/", "Definition: using all available resources", "Synonyms: all-out"]}
+{"data": ["2021-10-06T05:02:42.235769+00:00", 2403, "Your mother is", "quick-tempered", "Pronunciation: /\u02c8kw\u026ak\u02c8t\u025bmp\u0259rd/", "Definition: quickly aroused to anger", "Synonyms: choleric, hot-tempered, hotheaded, irascible, short-tempered"]}
