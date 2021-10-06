@@ -1,1 +1,1 @@
-{"data": ["2021-10-06T08:07:01.881093+00:00", 2406, "Your mother is", "nonflavored", "Similar to: tasteless", "Definition: without flavoring added", "Synonyms: nonflavoured, unflavored, unflavoured"]}
+{"data": ["2021-10-06T09:06:34.245561+00:00", 2407, "Your mother is", "bandy-legged", "Pronunciation: /\u02c8b\u00e6ndi-\u02ccl\u025b\u0261\u026ad/", "Definition: have legs that curve outward at the knees", "Synonyms: bandy, bowed, bowleg, bowlegged"]}
