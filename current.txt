@@ -1,1 +1,1 @@
-{"data": ["2021-10-07T13:03:24.875544+00:00", 2435, "Your mother is", "uniformed", "Pronunciation: /\u02c8jun\u0259\u02ccf\u0254rmd/", "Definition: dressed in a uniform", ""]}
+{"data": ["2021-10-07T14:06:36.374356+00:00", 2436, "Your mother is", "74", "Similar to: cardinal", "Definition: being four more than seventy", "Synonyms: lxxiv, seventy-four"]}
