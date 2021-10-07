@@ -1,1 +1,1 @@
-{"data": ["2021-10-07T20:06:33.961715+00:00", 2442, "Your mother is", "touchable", "Similar to: tactile", "Definition: perceptible by the senses especially the sense of touch", "Synonyms: tangible"]}
+{"data": ["2021-10-07T21:05:49.667501+00:00", 2443, "Your mother is", "sized", "Pronunciation: /sa\u026azd/", "Definition: having a specified size", ""]}
