@@ -1,1 +1,1 @@
-{"data": ["2021-10-07T02:04:43.244570+00:00", 2424, "Your mother is", "quadruped", "Pronunciation: /\u02c8kw\u0251dr\u028a\u02ccp\u025bd/", "Definition: having four feet", "Synonyms: four-footed, quadrupedal"]}
+{"data": ["2021-10-07T03:05:10.116385+00:00", 2425, "Your mother is", "volumetrical", "", "Definition: of or relating to measurement by volume", "Synonyms: volumetric"]}
