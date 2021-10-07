@@ -1,1 +1,1 @@
-{"data": ["2021-10-07T18:06:42.638405+00:00", 2440, "Your mother is", "125th", "Similar to: ordinal", "Definition: the ordinal number of one hundred twenty-five in counting order", "Synonyms: hundred-and-twenty-fifth"]}
+{"data": ["2021-10-07T19:05:56.908351+00:00", 2441, "Your mother is", "curtal", "Pronunciation: /\u02c8k\u025crt\u0259l/", "Definition: (archaic) cut short", ""]}
