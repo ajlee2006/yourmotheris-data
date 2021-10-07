@@ -1,1 +1,1 @@
-{"data": ["2021-10-07T00:08:42.049321+00:00", 2422, "Your mother is", "metaphorical", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8f\u0254r\u026ak\u0259l/", "Definition: expressing one thing in terms normally denoting another", "Synonyms: metaphoric"]}
+{"data": ["2021-10-07T01:05:51.043904+00:00", 2423, "Your mother is", "high-ceilinged", "Similar to: ceilinged", "Definition: having a higher than normal ceiling", ""]}
