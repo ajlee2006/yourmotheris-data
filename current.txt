@@ -1,1 +1,1 @@
-{"data": ["2021-10-07T09:04:11.944250+00:00", 2431, "Your mother is", "gnarly", "Pronunciation: /n\u0251rli/", "Definition: used of old persons or old trees; covered with knobs or knots", "Synonyms: gnarled, knobbed, knotted, knotty"]}
+{"data": ["2021-10-07T10:05:53.713485+00:00", 2432, "Your mother is", "huffish", "Pronunciation: /\u02c8h\u0259f\u026a\u0283/", "Definition: sullen or moody", "Synonyms: sulky"]}
