@@ -1,1 +1,1 @@
-{"data": ["2021-10-07T16:09:18.679806+00:00", 2438, "Your mother is", "telluric", "Pronunciation: /t\u025b\u02c8l\u028ar\u026ak/", "Definition: of or relating to or inhabiting the land as opposed to the sea or air", "Synonyms: tellurian, terrene, terrestrial"]}
+{"data": ["2021-10-07T17:05:29.666097+00:00", 2439, "Your mother is", "momentary", "Pronunciation: /\u02c8mo\u028am\u0259n\u02cct\u025bri/", "Definition: lasting for a markedly brief time", "Synonyms: fleeting, fugitive, momentaneous"]}
