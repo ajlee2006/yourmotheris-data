@@ -1,1 +1,1 @@
-{"data": ["2021-10-07T11:06:24.542252+00:00", 2433, "Your mother is", "unanalyzed", "Similar to: crude", "Definition: not analyzed or broken down for detailed examination", ""]}
+{"data": ["2021-10-07T12:06:02.996787+00:00", 2434, "Your mother is", "batholithic", "", "Definition: of or relating to a batholith", "Synonyms: batholitic"]}
