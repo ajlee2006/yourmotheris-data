@@ -1,1 +1,1 @@
-{"data": ["2021-10-07T21:05:49.667501+00:00", 2443, "Your mother is", "sized", "Pronunciation: /sa\u026azd/", "Definition: having a specified size", ""]}
+{"data": ["2021-10-07T22:06:32.147301+00:00", 2444, "Your mother is", "otiose", "Pronunciation: /\u02c8o\u028a\u0283i\u02cco\u028as/", "Definition: serving no useful purpose; having no excuse for being", "Synonyms: pointless, purposeless, senseless, superfluous, wasted"]}
