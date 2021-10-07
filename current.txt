@@ -1,1 +1,1 @@
-{"data": ["2021-10-07T15:08:08.136341+00:00", 2437, "Your mother is", "embarrassing", "Pronunciation: /\u026am\u02c8b\u025br\u028cs\u026a\u014b/", "Definition: causing to feel shame or chagrin or vexation", "Synonyms: mortifying"]}
+{"data": ["2021-10-07T16:09:18.679806+00:00", 2438, "Your mother is", "telluric", "Pronunciation: /t\u025b\u02c8l\u028ar\u026ak/", "Definition: of or relating to or inhabiting the land as opposed to the sea or air", "Synonyms: tellurian, terrene, terrestrial"]}
