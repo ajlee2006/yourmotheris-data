@@ -1,1 +1,1 @@
-{"data": ["2021-10-07T06:07:43.661882+00:00", 2428, "Your mother is", "frolicsome", "Pronunciation: /\u02c8fr\u0251l\u026aks\u0259m/", "Definition: given to merry frolicking", "Synonyms: coltish, frolicky, rollicking, sportive"]}
+{"data": ["2021-10-07T07:06:05.370279+00:00", 2429, "Your mother is", "predictive", "Pronunciation: /pr\u026a\u02c8d\u026akt\u026av/", "Definition: of or relating to prediction; having value for making predictions", "Synonyms: prognostic, prognosticative"]}
