@@ -1,1 +1,1 @@
-{"data": ["2021-10-07T03:05:10.116385+00:00", 2425, "Your mother is", "volumetrical", "", "Definition: of or relating to measurement by volume", "Synonyms: volumetric"]}
+{"data": ["2021-10-07T04:05:29.008513+00:00", 2426, "Your mother is", "bristle-pointed", "Pronunciation: /\u02c8br\u026as\u0259l-\u02c8p\u0254\u026ant\u026ad/", "Definition: pointed like bristles", ""]}
