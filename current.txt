@@ -1,1 +1,1 @@
-{"data": ["2021-10-07T17:05:29.666097+00:00", 2439, "Your mother is", "momentary", "Pronunciation: /\u02c8mo\u028am\u0259n\u02cct\u025bri/", "Definition: lasting for a markedly brief time", "Synonyms: fleeting, fugitive, momentaneous"]}
+{"data": ["2021-10-07T18:06:42.638405+00:00", 2440, "Your mother is", "125th", "Similar to: ordinal", "Definition: the ordinal number of one hundred twenty-five in counting order", "Synonyms: hundred-and-twenty-fifth"]}
