@@ -1,1 +1,1 @@
-{"data": ["2021-10-07T19:05:56.908351+00:00", 2441, "Your mother is", "curtal", "Pronunciation: /\u02c8k\u025crt\u0259l/", "Definition: (archaic) cut short", ""]}
+{"data": ["2021-10-07T20:06:33.961715+00:00", 2442, "Your mother is", "touchable", "Similar to: tactile", "Definition: perceptible by the senses especially the sense of touch", "Synonyms: tangible"]}
