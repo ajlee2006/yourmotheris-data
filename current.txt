@@ -1,1 +1,1 @@
-{"data": ["2021-10-08T09:04:25.898802+00:00", 2455, "Your mother is", "accented", "Pronunciation: /\u02c8\u00e6ks\u025bnt\u026ad/", "Definition: (used of syllables) bearing the principle stress, usually accompanied by a change in pitch", "Synonyms: tonic"]}
+{"data": ["2021-10-08T10:05:02.235656+00:00", 2456, "Your mother is", "antisemitic", "", "Definition: relating to or characterized by anti-Semitism; hating Jews", "Synonyms: anti-semitic"]}
