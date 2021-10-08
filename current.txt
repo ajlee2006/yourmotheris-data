@@ -1,1 +1,1 @@
-{"data": ["2021-10-08T00:07:24.297423+00:00", 2446, "Your mother is", "primary", "Pronunciation: /\u02c8pra\u026am\u025bri/", "Definition: of or being the essential or basic part", "Synonyms: basal, elemental, elementary"]}
+{"data": ["2021-10-08T01:05:19.296562+00:00", 2447, "Your mother is", "spiritualistic", "", "Definition: of or relating to or connected with spiritualism", "Synonyms: spiritualist"]}
