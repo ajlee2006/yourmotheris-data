@@ -1,1 +1,1 @@
-{"data": ["2021-10-08T06:03:08.456480+00:00", 2452, "Your mother is", "floaty", "Pronunciation: /\u02c8flo\u028ati/", "Definition: tending to float on a liquid or rise in air or gas", "Synonyms: buoyant"]}
+{"data": ["2021-10-08T07:03:51.745656+00:00", 2453, "Your mother is", "tropical", "Pronunciation: /\u02c8tr\u0251p\u026ak\u0259l/", "Definition: relating to or situated in or characteristic of the tropics (the region on either side of the equator)", "Synonyms: tropic"]}
