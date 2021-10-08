@@ -1,1 +1,1 @@
-{"data": ["2021-10-08T22:04:06.764107+00:00", 2468, "Your mother is", "andante", "Pronunciation: /\u00e6n\u02c8d\u00e6nti/", "Definition: (of tempo) moderately slow", ""]}
+{"data": ["2021-10-08T23:03:10.435987+00:00", 2469, "Your mother is", "dutiful", "Pronunciation: /\u02c8dut\u026af\u0259l/", "Definition: willingly obedient out of a sense of duty and respect", "Synonyms: duteous"]}
