@@ -1,1 +1,1 @@
-{"data": ["2021-10-08T04:04:11.752233+00:00", 2450, "Your mother is", "fan-leafed", "Similar to: leafy", "Definition: having fan-shaped leaves", "Synonyms: fan-leaved"]}
+{"data": ["2021-10-08T05:03:54.950173+00:00", 2451, "Your mother is", "exogenous", "Pronunciation: /\u025bk\u02c8s\u0251d\u0292\u0259n\u0259s/", "Definition: derived or originating externally", "Synonyms: exogenic"]}
