@@ -1,1 +1,1 @@
-{"data": ["2021-10-08T11:02:44.171290+00:00", 2457, "Your mother is", "obliging", "Pronunciation: /\u0259\u02c8bla\u026ad\u0292\u026a\u014b/", "Definition: showing a cheerful willingness to do favors for others", "Synonyms: complaisant"]}
+{"data": ["2021-10-08T12:04:52.088566+00:00", 2458, "Your mother is", "previous", "Pronunciation: /\u02c8privi\u0259s/", "Definition: just preceding something else in time or order", "Synonyms: old"]}
