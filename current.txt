@@ -1,1 +1,1 @@
-{"data": ["2021-10-08T02:04:51.534869+00:00", 2448, "Your mother is", "chaste", "Pronunciation: /t\u0283e\u026ast/", "Definition: abstaining from unlawful sexual intercourse", ""]}
+{"data": ["2021-10-08T03:05:41.033915+00:00", 2449, "Your mother is", "epideictical", "Similar to: demonstrative", "Definition: designed primarily for rhetorical display", "Synonyms: epideictic"]}
