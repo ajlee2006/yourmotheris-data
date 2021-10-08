@@ -1,1 +1,1 @@
-{"data": ["2021-10-08T07:03:51.745656+00:00", 2453, "Your mother is", "tropical", "Pronunciation: /\u02c8tr\u0251p\u026ak\u0259l/", "Definition: relating to or situated in or characteristic of the tropics (the region on either side of the equator)", "Synonyms: tropic"]}
+{"data": ["2021-10-08T08:03:49.143375+00:00", 2454, "Your mother is", "vanilla-scented", "Similar to: odorous", "Definition: smelling of vanilla", ""]}
