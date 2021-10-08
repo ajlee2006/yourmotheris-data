@@ -1,1 +1,1 @@
-{"data": ["2021-10-08T16:04:33.053958+00:00", 2462, "Your mother is", "put-upon", "Pronunciation: /\u02c8p\u028at\u0259\u02ccp\u0251n/", "Definition: (of persons) taken advantage of", "Synonyms: exploited, ill-used, used, victimised, victimized"]}
+{"data": ["2021-10-08T17:03:26.845610+00:00", 2463, "Your mother is", "so-called", "Pronunciation: /\u02c8so\u028a\u02c8k\u0254ld/", "Definition: doubtful or suspect", "Synonyms: alleged, supposed"]}
