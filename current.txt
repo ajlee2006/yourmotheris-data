@@ -1,1 +1,1 @@
-{"data": ["2021-10-08T08:03:49.143375+00:00", 2454, "Your mother is", "vanilla-scented", "Similar to: odorous", "Definition: smelling of vanilla", ""]}
+{"data": ["2021-10-08T09:04:25.898802+00:00", 2455, "Your mother is", "accented", "Pronunciation: /\u02c8\u00e6ks\u025bnt\u026ad/", "Definition: (used of syllables) bearing the principle stress, usually accompanied by a change in pitch", "Synonyms: tonic"]}
