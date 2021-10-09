@@ -1,1 +1,1 @@
-{"data": ["2021-10-09T17:03:45.887879+00:00", 2487, "Your mother is", "interested", "Pronunciation: /\u02c8\u026ant\u0259r\u026ast\u026ad/", "Definition: involved in or affected by or having a claim to or share in", "Synonyms: concerned"]}
+{"data": ["2021-10-09T18:01:15.024282+00:00", 2488, "Your mother is", "nitrogenous", "Pronunciation: /na\u026a\u02c8tr\u0251d\u0292\u0259n\u0259s/", "Definition: of or relating to or containing nitrogen", "Synonyms: nitrogen-bearing"]}
