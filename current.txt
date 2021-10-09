@@ -1,1 +1,1 @@
-{"data": ["2021-10-09T09:04:16.973554+00:00", 2479, "Your mother is", "molten", "Pronunciation: /\u02c8mo\u028alt\u0259n/", "Definition: reduced to liquid form by heating", "Synonyms: liquefied, liquified"]}
+{"data": ["2021-10-09T10:02:39.419642+00:00", 2480, "Your mother is", "three-wheel", "", "Definition: of or relating to vehicles having three wheels", "Synonyms: three-wheeled"]}
