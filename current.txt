@@ -1,1 +1,1 @@
-{"data": ["2021-10-09T03:03:53.359438+00:00", 2473, "Your mother is", "stabilising", "Similar to: helpful", "Definition: causing to become stable", "Synonyms: stabilizing"]}
+{"data": ["2021-10-09T04:04:17.020704+00:00", 2474, "Your mother is", "all-or-nothing", "Similar to: complete", "Definition: occurring completely or not occurring at all", "Synonyms: all-or-none"]}
