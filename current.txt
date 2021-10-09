@@ -1,1 +1,1 @@
-{"data": ["2021-10-09T14:01:37.267250+00:00", 2484, "Your mother is", "undischarged", "Pronunciation: /\u02cc\u0259nd\u026as\u02c8t\u0283\u0251rd\u0292d/", "Definition: still capable of exploding or being fired", "Synonyms: unexploded"]}
+{"data": ["2021-10-09T15:03:22.284270+00:00", 2485, "Your mother is", "bone-lazy", "Pronunciation: /bo\u028an-\u02c8le\u026azi/", "Definition: constitutionally lazy or idle", "Synonyms: bone-idle"]}
