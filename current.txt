@@ -1,1 +1,1 @@
-{"data": ["2021-10-09T11:03:55.741947+00:00", 2481, "Your mother is", "concavo-concave", "Pronunciation: /k\u0251n\u02c8ke\u026avo\u028ak\u0251n\u02c8ke\u026av/", "Definition: concave on both sides", "Synonyms: biconcave"]}
+{"data": ["2021-10-09T12:04:57.353248+00:00", 2482, "Your mother is", "antiheretical", "Similar to: orthodox", "Definition: opposed to heresy", ""]}
