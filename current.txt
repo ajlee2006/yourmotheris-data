@@ -1,1 +1,1 @@
-{"data": ["2021-10-08T23:03:10.435987+00:00", 2469, "Your mother is", "dutiful", "Pronunciation: /\u02c8dut\u026af\u0259l/", "Definition: willingly obedient out of a sense of duty and respect", "Synonyms: duteous"]}
+{"data": ["2021-10-09T00:07:12.255588+00:00", 2470, "Your mother is", "otiose", "Pronunciation: /\u02c8o\u028a\u0283i\u02cco\u028as/", "Definition: serving no useful purpose; having no excuse for being", "Synonyms: pointless, purposeless, senseless, superfluous, wasted"]}
