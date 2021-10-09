@@ -1,1 +1,1 @@
-{"data": ["2021-10-09T13:03:37.370256+00:00", 2483, "Your mother is", "able-bodied", "Pronunciation: /\u02c8e\u026ab\u0259l\u02c8b\u0251did/", "Definition: having a strong healthy body", "Synonyms: able"]}
+{"data": ["2021-10-09T14:01:37.267250+00:00", 2484, "Your mother is", "undischarged", "Pronunciation: /\u02cc\u0259nd\u026as\u02c8t\u0283\u0251rd\u0292d/", "Definition: still capable of exploding or being fired", "Synonyms: unexploded"]}
