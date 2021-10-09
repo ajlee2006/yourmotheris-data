@@ -1,1 +1,1 @@
-{"data": ["2021-10-09T04:04:17.020704+00:00", 2474, "Your mother is", "all-or-nothing", "Similar to: complete", "Definition: occurring completely or not occurring at all", "Synonyms: all-or-none"]}
+{"data": ["2021-10-09T05:04:31.565286+00:00", 2475, "Your mother is", "propitiatory", "Pronunciation: /pr\u0259\u02c8p\u026a\u0283i\u0259\u02ccto\u028ari/", "Definition: intended to reconcile or appease", "Synonyms: propitiative"]}
