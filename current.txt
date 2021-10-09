@@ -1,1 +1,1 @@
-{"data": ["2021-10-09T07:02:52.891481+00:00", 2477, "Your mother is", "cartographic", "Pronunciation: /\u02cck\u0251rt\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to the making of maps or charts", "Synonyms: cartographical"]}
+{"data": ["2021-10-09T08:04:55.878447+00:00", 2478, "Your mother is", "courtly", "Pronunciation: /\u02c8ko\u028artli/", "Definition: refined or imposing in manner or appearance; befitting a royal court", "Synonyms: formal, stately"]}
