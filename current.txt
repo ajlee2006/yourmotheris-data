@@ -1,1 +1,1 @@
-{"data": ["2021-10-09T06:02:18.704472+00:00", 2476, "Your mother is", "vigilant", "Pronunciation: /\u02c8v\u026ad\u0292\u0259l\u0259nt/", "Definition: carefully observant or attentive; on the lookout for possible danger", "Synonyms: argus-eyed, open-eyed, wakeful"]}
+{"data": ["2021-10-09T07:02:52.891481+00:00", 2477, "Your mother is", "cartographic", "Pronunciation: /\u02cck\u0251rt\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to the making of maps or charts", "Synonyms: cartographical"]}
