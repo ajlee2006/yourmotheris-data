@@ -1,1 +1,1 @@
-{"data": ["2021-10-09T05:04:31.565286+00:00", 2475, "Your mother is", "propitiatory", "Pronunciation: /pr\u0259\u02c8p\u026a\u0283i\u0259\u02ccto\u028ari/", "Definition: intended to reconcile or appease", "Synonyms: propitiative"]}
+{"data": ["2021-10-09T06:02:18.704472+00:00", 2476, "Your mother is", "vigilant", "Pronunciation: /\u02c8v\u026ad\u0292\u0259l\u0259nt/", "Definition: carefully observant or attentive; on the lookout for possible danger", "Synonyms: argus-eyed, open-eyed, wakeful"]}
