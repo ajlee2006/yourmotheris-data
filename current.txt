@@ -1,1 +1,1 @@
-{"data": ["2021-10-09T08:04:55.878447+00:00", 2478, "Your mother is", "courtly", "Pronunciation: /\u02c8ko\u028artli/", "Definition: refined or imposing in manner or appearance; befitting a royal court", "Synonyms: formal, stately"]}
+{"data": ["2021-10-09T09:04:16.973554+00:00", 2479, "Your mother is", "molten", "Pronunciation: /\u02c8mo\u028alt\u0259n/", "Definition: reduced to liquid form by heating", "Synonyms: liquefied, liquified"]}
