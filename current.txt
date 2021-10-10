@@ -1,1 +1,1 @@
-{"data": ["2021-10-09T23:00:58.841928+00:00", 2493, "Your mother is", "addible", "Similar to: additive", "Definition: capable of being added or added to", "Synonyms: addable"]}
+{"data": ["2021-10-10T00:04:37.148609+00:00", 2494, "Your mother is", "hypovolaemic", "", "Definition: of or relating to a decrease in the volume of circulating blood", "Synonyms: hypovolemic"]}
