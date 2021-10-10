@@ -1,1 +1,1 @@
-{"data": ["2021-10-10T19:02:46.712025+00:00", 2513, "Your mother is", "pell-mell", "Pronunciation: /p\u025bl\u02c8m\u025bl/", "Definition: with undue hurry and confusion", "Synonyms: helter-skelter"]}
+{"data": ["2021-10-10T20:02:04.018631+00:00", 2514, "Your mother is", "discriminable", "Similar to: distinguishable", "Definition: capable of being discriminated", ""]}
