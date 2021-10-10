@@ -1,1 +1,1 @@
-{"data": ["2021-10-10T04:02:39.510164+00:00", 2498, "Your mother is", "industrialised", "Similar to: industrial", "Definition: made industrial; converted to industrialism", "Synonyms: industrialized"]}
+{"data": ["2021-10-10T05:04:27.257300+00:00", 2499, "Your mother is", "raiding", "Pronunciation: /\u02c8re\u026ad\u026a\u014b/", "Definition: characterized by plundering or pillaging or marauding", "Synonyms: marauding, predatory"]}
