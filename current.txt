@@ -1,1 +1,1 @@
-{"data": ["2021-10-10T13:03:11.853458+00:00", 2507, "Your mother is", "frothing", "Similar to: unhealthy", "Definition: producing or covered with lathery sweat or saliva from exhaustion or disease", "Synonyms: foaming, foamy"]}
+{"data": ["2021-10-10T14:02:45.608854+00:00", 2508, "Your mother is", "water-repellent", "Pronunciation: /\u02c8w\u0254t\u0259r-r\u026a\u02c8p\u025bl\u0259nt/", "Definition: hindering the penetration of water", "Synonyms: water-resistant"]}
