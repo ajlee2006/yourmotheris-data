@@ -1,1 +1,1 @@
-{"data": ["2021-10-10T09:01:47.065828+00:00", 2503, "Your mother is", "taboo", "Pronunciation: /t\u00e6\u02c8bu/", "Definition: excluded from use or mention", "Synonyms: forbidden, out, prohibited, proscribed, tabu, verboten"]}
+{"data": ["2021-10-10T10:04:10.818271+00:00", 2504, "Your mother is", "ashen", "Pronunciation: /\u02c8\u00e6\u0283\u0259n/", "Definition: anemic looking from illness or emotion", "Synonyms: blanched, bloodless, livid, white"]}
