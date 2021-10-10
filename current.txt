@@ -1,1 +1,1 @@
-{"data": ["2021-10-10T15:01:19.789367+00:00", 2509, "Your mother is", "accustomed", "Pronunciation: /\u0259\u02c8k\u0259st\u0259md/", "Definition: commonly used or practiced; usual", "Synonyms: customary, habitual, wonted"]}
+{"data": ["2021-10-10T16:02:28.593815+00:00", 2510, "Your mother is", "robustious", "Pronunciation: /ro\u028a\u02c8b\u0259s\u02a7\u0259s/", "Definition: noisy and lacking in restraint or discipline", "Synonyms: boisterous, rambunctious, rumbustious, unruly"]}
