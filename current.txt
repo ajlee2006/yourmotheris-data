@@ -1,1 +1,1 @@
-{"data": ["2021-10-10T14:02:45.608854+00:00", 2508, "Your mother is", "water-repellent", "Pronunciation: /\u02c8w\u0254t\u0259r-r\u026a\u02c8p\u025bl\u0259nt/", "Definition: hindering the penetration of water", "Synonyms: water-resistant"]}
+{"data": ["2021-10-10T15:01:19.789367+00:00", 2509, "Your mother is", "accustomed", "Pronunciation: /\u0259\u02c8k\u0259st\u0259md/", "Definition: commonly used or practiced; usual", "Synonyms: customary, habitual, wonted"]}
