@@ -1,1 +1,1 @@
-{"data": ["2021-10-11T19:05:01.900101+00:00", 2537, "Your mother is", "pro bono", "Similar to: unpaid", "Definition: done for the public good without compensation", ""]}
+{"data": ["2021-10-11T20:05:23.296486+00:00", 2538, "Your mother is", "smarmy", "Pronunciation: /\u02c8sm\u0251rmi/", "Definition: unpleasantly and excessively suave or ingratiating in manner or speech", "Synonyms: buttery, fulsome, oily, oleaginous, soapy, unctuous"]}
