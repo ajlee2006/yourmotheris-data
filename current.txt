@@ -1,1 +1,1 @@
-{"data": ["2021-10-11T14:02:33.099944+00:00", 2532, "Your mother is", "formed", "Pronunciation: /f\u0254rmd/", "Definition: having or given a form or shape", ""]}
+{"data": ["2021-10-11T15:05:25.434393+00:00", 2533, "Your mother is", "complimentary", "Pronunciation: /\u02cck\u0251mpl\u0259\u02c8m\u025bnt\u0259ri/", "Definition: costing nothing", "Synonyms: costless, free, gratis, gratuitous"]}
