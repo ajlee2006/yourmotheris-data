@@ -1,1 +1,1 @@
-{"data": ["2021-10-11T07:04:06.475867+00:00", 2525, "Your mother is", "nonmetallic", "Pronunciation: /\u02ccn\u0251nm\u0259\u02c8t\u00e6l\u026ak/", "Definition: not containing or resembling or characteristic of a metal", "Synonyms: nonmetal"]}
+{"data": ["2021-10-11T08:06:29.584416+00:00", 2526, "Your mother is", "diluvial", "Pronunciation: /d\u026a\u02c8luvi\u0259l/", "Definition: of or connected with a deluge", "Synonyms: diluvian"]}
