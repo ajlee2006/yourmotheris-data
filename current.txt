@@ -1,1 +1,1 @@
-{"data": ["2021-10-10T23:00:43.099451+00:00", 2517, "Your mother is", "useful", "Pronunciation: /\u02c8jusf\u0259l/", "Definition: being of use or service", "Synonyms: utile"]}
+{"data": ["2021-10-11T00:04:17.180953+00:00", 2518, "Your mother is", "air-dried", "Pronunciation: /\u025cr-dra\u026ad/", "Definition: made dry by contact with unheated air", ""]}
