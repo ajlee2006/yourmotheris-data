@@ -1,1 +1,1 @@
-{"data": ["2021-10-11T05:01:11.032532+00:00", 2523, "Your mother is", "full-bodied", "Pronunciation: /\u02c8f\u028al\u02c8b\u0251did/", "Definition: marked by richness and fullness of flavor", "Synonyms: racy, rich, robust"]}
+{"data": ["2021-10-11T06:01:49.753456+00:00", 2524, "Your mother is", "industrialized", "Pronunciation: /\u026an\u02c8d\u028cstri\u028c\u02ccla\u026azd/", "Definition: made industrial; converted to industrialism", "Synonyms: industrialised"]}
