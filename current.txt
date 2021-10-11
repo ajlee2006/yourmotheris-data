@@ -1,1 +1,1 @@
-{"data": ["2021-10-11T03:04:25.913509+00:00", 2521, "Your mother is", "imposing", "Pronunciation: /\u026am\u02c8po\u028az\u026a\u014b/", "Definition: impressive in appearance", "Synonyms: baronial, noble, stately"]}
+{"data": ["2021-10-11T04:04:24.151694+00:00", 2522, "Your mother is", "thermohydrometric", "", "Definition: of or relating to thermal hydrometry", "Synonyms: thermogravimetric"]}
