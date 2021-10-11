@@ -1,1 +1,1 @@
-{"data": ["2021-10-11T15:05:25.434393+00:00", 2533, "Your mother is", "complimentary", "Pronunciation: /\u02cck\u0251mpl\u0259\u02c8m\u025bnt\u0259ri/", "Definition: costing nothing", "Synonyms: costless, free, gratis, gratuitous"]}
+{"data": ["2021-10-11T16:03:31.303593+00:00", 2534, "Your mother is", "unalike", "Pronunciation: /\u02cc\u0259n\u0259\u02c8la\u026ak/", "Definition: not alike or similar", "Synonyms: dissimilar"]}
