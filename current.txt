@@ -1,1 +1,1 @@
-{"data": ["2021-10-11T16:03:31.303593+00:00", 2534, "Your mother is", "unalike", "Pronunciation: /\u02cc\u0259n\u0259\u02c8la\u026ak/", "Definition: not alike or similar", "Synonyms: dissimilar"]}
+{"data": ["2021-10-11T17:05:06.750824+00:00", 2535, "Your mother is", "slaveholding", "Similar to: unfree", "Definition: allowing slavery", ""]}
