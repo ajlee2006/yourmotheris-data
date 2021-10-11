@@ -1,1 +1,1 @@
-{"data": ["2021-10-11T17:05:06.750824+00:00", 2535, "Your mother is", "slaveholding", "Similar to: unfree", "Definition: allowing slavery", ""]}
+{"data": ["2021-10-11T18:06:57.482242+00:00", 2536, "Your mother is", "non-buoyant", "Similar to: heavy", "Definition: tending to sink in a liquid or fall in air", ""]}
