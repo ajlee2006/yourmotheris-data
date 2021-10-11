@@ -1,1 +1,1 @@
-{"data": ["2021-10-11T22:02:11.005150+00:00", 2540, "Your mother is", "enterprising", "Pronunciation: /\u02c8\u025bnt\u0259r\u02ccpra\u026az\u026a\u014b/", "Definition: marked by imagination, initiative, and readiness to undertake new projects", ""]}
+{"data": ["2021-10-11T23:04:50.564349+00:00", 2541, "Your mother is", "passable", "Pronunciation: /\u02c8p\u00e6s\u0259bl/", "Definition: about average; acceptable", "Synonyms: adequate, fair to middling, tolerable"]}
