@@ -1,1 +1,1 @@
-{"data": ["2021-10-11T21:05:59.631158+00:00", 2539, "Your mother is", "man-to-man", "Pronunciation: /\u02c8m\u00e6nt\u0259\u02c8m\u00e6n/", "Definition: being a system of play in which an individual defensive player guards an individual offensive player", "Synonyms: one-on-one"]}
+{"data": ["2021-10-11T22:02:11.005150+00:00", 2540, "Your mother is", "enterprising", "Pronunciation: /\u02c8\u025bnt\u0259r\u02ccpra\u026az\u026a\u014b/", "Definition: marked by imagination, initiative, and readiness to undertake new projects", ""]}
