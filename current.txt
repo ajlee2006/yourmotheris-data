@@ -1,1 +1,1 @@
-{"data": ["2021-10-11T12:02:42.314738+00:00", 2530, "Your mother is", "submersed", "Pronunciation: /s\u0259b\u02c8m\u025crst/", "Definition: beneath the surface of the water", "Synonyms: submerged, underwater"]}
+{"data": ["2021-10-11T13:03:57.604571+00:00", 2531, "Your mother is", "thudding", "Similar to: nonresonant", "Definition: not clear and resonant; sounding as if striking with or against something relatively soft", "Synonyms: dull"]}
