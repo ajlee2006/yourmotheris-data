@@ -1,1 +1,1 @@
-{"data": ["2021-10-12T07:03:01.311363+00:00", 2549, "Your mother is", "phylliform", "Similar to: formed", "Definition: having the shape of a leaf", ""]}
+{"data": ["2021-10-12T08:03:02.000590+00:00", 2550, "Your mother is", "short-headed", "Pronunciation: /\u0283\u0254rt-\u02c8h\u025bd\u026ad/", "Definition: having a brachycephalic head", "Synonyms: broad-headed, roundheaded"]}
