@@ -1,1 +1,1 @@
-{"data": ["2021-10-12T08:03:02.000590+00:00", 2550, "Your mother is", "short-headed", "Pronunciation: /\u0283\u0254rt-\u02c8h\u025bd\u026ad/", "Definition: having a brachycephalic head", "Synonyms: broad-headed, roundheaded"]}
+{"data": ["2021-10-12T09:05:43.150743+00:00", 2551, "Your mother is", "underived", "Similar to: original", "Definition: not derived; primary or simple", ""]}
