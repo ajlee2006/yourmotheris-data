@@ -1,1 +1,1 @@
-{"data": ["2021-10-12T01:03:35.462721+00:00", 2543, "Your mother is", "mensurable", "Pronunciation: /\u02c8m\u025bn\u0283\u0259r\u0259b\u0259l/", "Definition: having notes of fixed rhythmic value", "Synonyms: measured, mensural"]}
+{"data": ["2021-10-12T02:06:52.132792+00:00", 2544, "Your mother is", "cleistogamous", "", "Definition: exhibiting or relating to cleistogamy", "Synonyms: cleistogamic"]}
