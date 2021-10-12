@@ -1,1 +1,1 @@
-{"data": ["2021-10-12T16:02:59.772992+00:00", 2558, "Your mother is", "bicolored", "Similar to: colored", "Definition: having two colors", "Synonyms: bichrome, bicolor, bicolour, bicoloured, dichromatic"]}
+{"data": ["2021-10-12T17:07:20.960140+00:00", 2559, "Your mother is", "unanimated", "Similar to: lifeless", "Definition: not animated or enlivened; dull", ""]}
