@@ -1,1 +1,1 @@
-{"data": ["2021-10-12T18:05:28.680584+00:00", 2560, "Your mother is", "custodial", "Pronunciation: /k\u0259\u02c8sto\u028adi\u0259l/", "Definition: providing protective supervision; watching over or safeguarding", "Synonyms: tutelar, tutelary"]}
+{"data": ["2021-10-12T19:06:04.094337+00:00", 2561, "Your mother is", "at loggerheads", "Similar to: hostile", "Definition: in a dispute or confrontation", ""]}
