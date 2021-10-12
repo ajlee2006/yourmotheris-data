@@ -1,1 +1,1 @@
-{"data": ["2021-10-12T13:05:23.576235+00:00", 2555, "Your mother is", "benefic", "Pronunciation: /b\u0259\u02c8n\u025bf\u026ak/", "Definition: exerting a favorable or beneficent influence", ""]}
+{"data": ["2021-10-12T14:06:35.994958+00:00", 2556, "Your mother is", "unconditional", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8d\u026a\u0283\u0259n\u0259l/", "Definition: not conditional", "Synonyms: unconditioned"]}
