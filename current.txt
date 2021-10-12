@@ -1,1 +1,1 @@
-{"data": ["2021-10-12T00:06:36.782593+00:00", 2542, "Your mother is", "redeemable", "Pronunciation: /r\u026a\u02c8dim\u0259b\u0259l/", "Definition: susceptible to improvement or reform", "Synonyms: reformable"]}
+{"data": ["2021-10-12T01:03:35.462721+00:00", 2543, "Your mother is", "mensurable", "Pronunciation: /\u02c8m\u025bn\u0283\u0259r\u0259b\u0259l/", "Definition: having notes of fixed rhythmic value", "Synonyms: measured, mensural"]}
