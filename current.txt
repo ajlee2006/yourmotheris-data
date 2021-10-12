@@ -1,1 +1,1 @@
-{"data": ["2021-10-11T23:04:50.564349+00:00", 2541, "Your mother is", "passable", "Pronunciation: /\u02c8p\u00e6s\u0259bl/", "Definition: about average; acceptable", "Synonyms: adequate, fair to middling, tolerable"]}
+{"data": ["2021-10-12T00:06:36.782593+00:00", 2542, "Your mother is", "redeemable", "Pronunciation: /r\u026a\u02c8dim\u0259b\u0259l/", "Definition: susceptible to improvement or reform", "Synonyms: reformable"]}
