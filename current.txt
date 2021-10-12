@@ -1,1 +1,1 @@
-{"data": ["2021-10-12T09:05:43.150743+00:00", 2551, "Your mother is", "underived", "Similar to: original", "Definition: not derived; primary or simple", ""]}
+{"data": ["2021-10-12T10:04:34.512916+00:00", 2552, "Your mother is", "y2k compliant", "Similar to: obedient", "Definition: prepared to accurately process date and time data between and into the 20th and 21st centuries", ""]}
