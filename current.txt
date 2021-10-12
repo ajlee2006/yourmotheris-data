@@ -1,1 +1,1 @@
-{"data": ["2021-10-12T04:05:56.045707+00:00", 2546, "Your mother is", "long-play", "Similar to: slow", "Definition: (used of records) playing at a slower speed and for a longer time than earlier records", "Synonyms: long-playing"]}
+{"data": ["2021-10-12T05:02:06.089362+00:00", 2547, "Your mother is", "extractible", "Similar to: removable", "Definition: capable of being extracted", "Synonyms: extractable"]}
