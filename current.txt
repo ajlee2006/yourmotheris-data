@@ -1,1 +1,1 @@
-{"data": ["2021-10-13T08:04:03.931671+00:00", 2574, "Your mother is", "carbuncled", "Pronunciation: /\u02c8k\u0251rb\u0259\u014bk\u0259ld/", "Definition: afflicted with or resembling a carbuncle", "Synonyms: carbuncular"]}
+{"data": ["2021-10-13T09:01:59.796782+00:00", 2575, "Your mother is", "bicentenary", "Pronunciation: /ba\u026a\u02c8s\u025bn\u02cct\u0259n\u025bri/", "Definition: of or relating to or completing a period of 200 years", "Synonyms: bicentennial"]}
