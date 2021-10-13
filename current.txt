@@ -1,1 +1,1 @@
-{"data": ["2021-10-13T00:05:35.759358+00:00", 2566, "Your mother is", "freeborn", "Pronunciation: /\u02c8fri\u02ccb\u0254rn/", "Definition: born free of free parents", ""]}
+{"data": ["2021-10-13T01:06:23.535889+00:00", 2567, "Your mother is", "mounted", "Pronunciation: /\u02c8ma\u028ant\u028cd/", "Definition: assembled for use; especially by being attached to a support", ""]}
