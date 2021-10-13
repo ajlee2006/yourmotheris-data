@@ -1,1 +1,1 @@
-{"data": ["2021-10-13T03:03:12.156741+00:00", 2569, "Your mother is", "trumpet-shaped", "Pronunciation: /\u02c8tr\u0259mp\u026at-\u0283e\u026apt/", "Definition: shaped in the form of a trumpet", ""]}
+{"data": ["2021-10-13T04:02:44.981287+00:00", 2570, "Your mother is", "semipublic", "Pronunciation: /\u02ccs\u025bmi\u02c8p\u0259bl\u026ak/", "Definition: having some of the features of public institution", ""]}
