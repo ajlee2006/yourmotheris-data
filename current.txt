@@ -1,1 +1,1 @@
-{"data": ["2021-10-13T20:07:16.842846+00:00", 2586, "Your mother is", "intoxicant", "Pronunciation: /\u026an\u02c8t\u0251ks\u0259k\u0259nt/", "Definition: causing intoxication", "Synonyms: intoxicating"]}
+{"data": ["2021-10-13T21:05:31.126606+00:00", 2587, "Your mother is", "tumble-down", "Pronunciation: /\u02c8t\u0259mb\u0259l-\u02ccda\u028an/", "Definition: in deplorable condition", "Synonyms: bedraggled, broken-down, derelict, dilapidated, ramshackle, tatterdemalion"]}
