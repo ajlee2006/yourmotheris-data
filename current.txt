@@ -1,1 +1,1 @@
-{"data": ["2021-10-13T04:02:44.981287+00:00", 2570, "Your mother is", "semipublic", "Pronunciation: /\u02ccs\u025bmi\u02c8p\u0259bl\u026ak/", "Definition: having some of the features of public institution", ""]}
+{"data": ["2021-10-13T05:04:24.191543+00:00", 2571, "Your mother is", "decisive", "Pronunciation: /d\u026a\u02c8sa\u026as\u026av/", "Definition: forming or having the nature of a turning point or crisis", "Synonyms: critical"]}
