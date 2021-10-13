@@ -1,1 +1,1 @@
-{"data": ["2021-10-12T23:02:46.969763+00:00", 2565, "Your mother is", "austere", "Pronunciation: /\u0254\u02c8stir/", "Definition: of a stern or strict bearing or demeanor; forbidding in aspect", "Synonyms: stern"]}
+{"data": ["2021-10-13T00:05:35.759358+00:00", 2566, "Your mother is", "freeborn", "Pronunciation: /\u02c8fri\u02ccb\u0254rn/", "Definition: born free of free parents", ""]}
