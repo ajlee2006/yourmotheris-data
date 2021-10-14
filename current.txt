@@ -1,1 +1,1 @@
-{"data": ["2021-10-14T06:05:04.792385+00:00", 2596, "Your mother is", "sunlit", "Pronunciation: /\u02c8s\u0259n\u02ccl\u026at/", "Definition: lighted by sunlight", "Synonyms: sunstruck"]}
+{"data": ["2021-10-14T07:02:52.741702+00:00", 2597, "Your mother is", "cobwebby", "Pronunciation: /\u02c8k\u0251b\u02ccw\u025bbi/", "Definition: so thin as to transmit light", "Synonyms: diaphanous, filmy, gauze-like, gauzy, gossamer, see-through, sheer, transparent, vaporous, vapourous"]}
