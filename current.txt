@@ -1,1 +1,1 @@
-{"data": ["2021-10-14T08:00:33.810438+00:00", 2598, "Your mother is", "of unsound mind", "Similar to: insane", "Definition: not of sound mind, memory, or understanding; in law, not competent to go to trial", "Synonyms: non compos mentis"]}
+{"data": ["2021-10-14T09:01:27.018669+00:00", 2599, "Your mother is", "mistrustful", "Pronunciation: /m\u026as\u02c8tr\u0259stf\u0259l/", "Definition: openly distrustful and unwilling to confide", "Synonyms: leery, suspicious, untrusting, wary"]}
