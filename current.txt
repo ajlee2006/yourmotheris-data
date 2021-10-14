@@ -1,1 +1,1 @@
-{"data": ["2021-10-14T00:05:48.293687+00:00", 2590, "Your mother is", "acknowledged", "Pronunciation: /\u00e6k\u02c8n\u0251l\u026ad\u0292d/", "Definition: generally accepted", ""]}
+{"data": ["2021-10-14T01:04:56.293545+00:00", 2591, "Your mother is", "conversational", "Pronunciation: /\u02cck\u0251nv\u0259r\u02c8se\u026a\u0283\u0259n\u0259l/", "Definition: characteristic of informal spoken language or conversation", "Synonyms: colloquial"]}
