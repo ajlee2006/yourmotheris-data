@@ -1,1 +1,1 @@
-{"data": ["2021-10-14T19:04:29.778256+00:00", 2609, "Your mother is", "irruptive", "Pronunciation: /\u026a\u02c8r\u0259pt\u026av/", "Definition: of igneous rock that has solidified beneath the earth's surface; granite or diorite or gabbro", "Synonyms: plutonic"]}
+{"data": ["2021-10-14T20:02:21.730819+00:00", 2610, "Your mother is", "laurelled", "", "Definition: crowned with or as if with laurel symbolizing victory", "Synonyms: crowned, laureled"]}
