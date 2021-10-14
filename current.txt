@@ -1,1 +1,1 @@
-{"data": ["2021-10-14T13:05:58.284608+00:00", 2603, "Your mother is", "sacculate", "Pronunciation: /\u02c8s\u00e6kj\u0259\u02ccle\u026at/", "Definition: formed with or having saclike expansions", "Synonyms: sacculated"]}
+{"data": ["2021-10-14T14:02:00.332167+00:00", 2604, "Your mother is", "48", "Similar to: cardinal", "Definition: being eight more than forty", "Synonyms: forty-eight, xlviii"]}
