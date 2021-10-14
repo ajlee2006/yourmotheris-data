@@ -1,1 +1,1 @@
-{"data": ["2021-10-14T12:02:57.543926+00:00", 2602, "Your mother is", "spinnbar", "Similar to: flexible", "Definition: capable of being spun into fibres", "Synonyms: spinnable"]}
+{"data": ["2021-10-14T13:05:58.284608+00:00", 2603, "Your mother is", "sacculate", "Pronunciation: /\u02c8s\u00e6kj\u0259\u02ccle\u026at/", "Definition: formed with or having saclike expansions", "Synonyms: sacculated"]}
