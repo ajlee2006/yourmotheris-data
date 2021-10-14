@@ -1,1 +1,1 @@
-{"data": ["2021-10-14T16:03:32.375956+00:00", 2606, "Your mother is", "deductive", "Pronunciation: /d\u026a\u02c8d\u0259kt\u026av/", "Definition: involving inferences from general principles", ""]}
+{"data": ["2021-10-14T17:06:05.085866+00:00", 2607, "Your mother is", "usable", "Pronunciation: /\u02c8juz\u0259b\u0259l/", "Definition: convenient for use or disposal", "Synonyms: available, useable"]}
