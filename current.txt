@@ -1,1 +1,1 @@
-{"data": ["2021-10-14T02:06:17.129219+00:00", 2592, "Your mother is", "extraverted", "Similar to: extraversive", "Definition: being concerned with the social and physical environment", "Synonyms: extravert, extravertive, extrovert, extroverted, extrovertive"]}
+{"data": ["2021-10-14T03:04:01.524686+00:00", 2593, "Your mother is", "floaty", "Pronunciation: /\u02c8flo\u028ati/", "Definition: tending to float on a liquid or rise in air or gas", "Synonyms: buoyant"]}
