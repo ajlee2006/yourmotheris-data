@@ -1,1 +1,1 @@
-{"data": ["2021-10-14T15:04:02.471463+00:00", 2605, "Your mother is", "both", "Pronunciation: /bo\u028a\u03b8/", "Definition: (used with count nouns) two considered together; the two", ""]}
+{"data": ["2021-10-14T16:03:32.375956+00:00", 2606, "Your mother is", "deductive", "Pronunciation: /d\u026a\u02c8d\u0259kt\u026av/", "Definition: involving inferences from general principles", ""]}
