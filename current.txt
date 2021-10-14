@@ -1,1 +1,1 @@
-{"data": ["2021-10-14T17:06:05.085866+00:00", 2607, "Your mother is", "usable", "Pronunciation: /\u02c8juz\u0259b\u0259l/", "Definition: convenient for use or disposal", "Synonyms: available, useable"]}
+{"data": ["2021-10-14T18:04:34.237034+00:00", 2608, "Your mother is", "certifiable", "Pronunciation: /\u02c8s\u025crt\u0259\u02ccfa\u026a\u0259b\u0259l/", "Definition: fit to be certified as insane (and treated accordingly)", "Synonyms: certified"]}
