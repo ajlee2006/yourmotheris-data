@@ -1,1 +1,1 @@
-{"data": ["2021-10-14T01:04:56.293545+00:00", 2591, "Your mother is", "conversational", "Pronunciation: /\u02cck\u0251nv\u0259r\u02c8se\u026a\u0283\u0259n\u0259l/", "Definition: characteristic of informal spoken language or conversation", "Synonyms: colloquial"]}
+{"data": ["2021-10-14T02:06:17.129219+00:00", 2592, "Your mother is", "extraverted", "Similar to: extraversive", "Definition: being concerned with the social and physical environment", "Synonyms: extravert, extravertive, extrovert, extroverted, extrovertive"]}
