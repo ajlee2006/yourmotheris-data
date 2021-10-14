@@ -1,1 +1,1 @@
-{"data": ["2021-10-14T22:00:54.170404+00:00", 2612, "Your mother is", "clarifying", "Pronunciation: /\u02c8kl\u025br\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: that makes clear", "Synonyms: elucidative"]}
+{"data": ["2021-10-14T23:03:30.230563+00:00", 2613, "Your mother is", "81", "Similar to: cardinal", "Definition: being one more than eighty", "Synonyms: eighty-one, lxxxi"]}
