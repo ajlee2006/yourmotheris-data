@@ -1,1 +1,1 @@
-{"data": ["2021-10-15T02:06:10.209803+00:00", 2616, "Your mother is", "submersed", "Pronunciation: /s\u0259b\u02c8m\u025crst/", "Definition: beneath the surface of the water", "Synonyms: submerged, underwater"]}
+{"data": ["2021-10-15T03:04:03.183723+00:00", 2617, "Your mother is", "alliterative", "Pronunciation: /\u0259\u02c8l\u026at\u0259\u02ccre\u026at\u026av/", "Definition: having the same consonant at the beginning of each stressed syllable", ""]}
