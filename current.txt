@@ -1,1 +1,1 @@
-{"data": ["2021-10-15T07:02:38.772334+00:00", 2621, "Your mother is", "remote-controlled", "Similar to: pilotless", "Definition: lacking a crew", "Synonyms: unmanned"]}
+{"data": ["2021-10-15T08:02:01.725319+00:00", 2622, "Your mother is", "lightly-armed", "Similar to: light", "Definition: armed with light weapons", "Synonyms: light-armed"]}
