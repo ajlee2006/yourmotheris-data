@@ -1,1 +1,1 @@
-{"data": ["2021-10-15T05:02:46.916259+00:00", 2619, "Your mother is", "territorial", "Pronunciation: /\u02cct\u025br\u026a\u02c8to\u028ari\u0259l/", "Definition: belonging to the territory of any state or ruler", ""]}
+{"data": ["2021-10-15T06:03:30.307777+00:00", 2620, "Your mother is", "xv", "Similar to: cardinal", "Definition: being one more than fourteen", "Synonyms: 15, fifteen"]}
