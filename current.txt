@@ -1,1 +1,1 @@
-{"data": ["2021-10-15T20:01:35.651530+00:00", 2634, "Your mother is", "bionic", "Similar to: artificial", "Definition: having particular physiological functions augmented or replaced by electronic or electromechanical components", ""]}
+{"data": ["2021-10-15T21:02:25.908797+00:00", 2635, "Your mother is", "antisemitic", "", "Definition: relating to or characterized by anti-Semitism; hating Jews", "Synonyms: anti-semitic"]}
