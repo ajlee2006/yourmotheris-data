@@ -1,1 +1,1 @@
-{"data": ["2021-10-15T21:02:25.908797+00:00", 2635, "Your mother is", "antisemitic", "", "Definition: relating to or characterized by anti-Semitism; hating Jews", "Synonyms: anti-semitic"]}
+{"data": ["2021-10-15T22:04:09.901925+00:00", 2636, "Your mother is", "nonmandatory", "Similar to: optional", "Definition: not required by rule or law", "Synonyms: nonobligatory"]}
