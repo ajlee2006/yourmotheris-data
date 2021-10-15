@@ -1,1 +1,1 @@
-{"data": ["2021-10-15T12:04:04.760599+00:00", 2626, "Your mother is", "immoderate", "Pronunciation: /\u026a\u02c8m\u0251d\u0259r\u026at/", "Definition: beyond reasonable limits", ""]}
+{"data": ["2021-10-15T13:01:17.814240+00:00", 2627, "Your mother is", "nonadsorptive", "", "Definition: lacking a capacity to adsorb or cause to accumulate on a surface", "Synonyms: nonadsorbent"]}
