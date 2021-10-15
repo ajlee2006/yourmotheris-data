@@ -1,1 +1,1 @@
-{"data": ["2021-10-15T17:02:45.717940+00:00", 2631, "Your mother is", "noticeable", "Pronunciation: /\u02c8no\u028at\u026as\u0259b\u0259l/", "Definition: capable of being detected", "Synonyms: detectable"]}
+{"data": ["2021-10-15T18:07:02.159599+00:00", 2632, "Your mother is", "acapnotic", "", "Definition: relating to or demonstrating acapnia", "Synonyms: acapnial, acapnic"]}
