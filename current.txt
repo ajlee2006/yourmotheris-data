@@ -1,1 +1,1 @@
-{"data": ["2021-10-15T09:05:13.720680+00:00", 2623, "Your mother is", "stylized", "Pronunciation: /\u02c8sta\u026a\u02ccla\u026azd/", "Definition: using artistic forms and conventions to create effects; not natural or spontaneous", "Synonyms: conventionalised, conventionalized, stylised"]}
+{"data": ["2021-10-15T10:02:53.054360+00:00", 2624, "Your mother is", "platitudinal", "Similar to: unoriginal", "Definition: dull and tiresome but with pretensions of significance or originality", "Synonyms: bromidic, corny, platitudinous"]}
