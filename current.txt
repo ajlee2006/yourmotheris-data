@@ -1,1 +1,1 @@
-{"data": ["2021-10-15T16:05:03.841795+00:00", 2630, "Your mother is", "leading", "Pronunciation: /\u02c8l\u025bd\u026a\u014b/", "Definition: indicating the most important performer or role", "Synonyms: prima, star, starring, stellar"]}
+{"data": ["2021-10-15T17:02:45.717940+00:00", 2631, "Your mother is", "noticeable", "Pronunciation: /\u02c8no\u028at\u026as\u0259b\u0259l/", "Definition: capable of being detected", "Synonyms: detectable"]}
