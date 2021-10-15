@@ -1,1 +1,1 @@
-{"data": ["2021-10-15T19:06:05.309760+00:00", 2633, "Your mother is", "musk-scented", "Similar to: odorous", "Definition: smelling of musk", "Synonyms: musky-scented"]}
+{"data": ["2021-10-15T20:01:35.651530+00:00", 2634, "Your mother is", "bionic", "Similar to: artificial", "Definition: having particular physiological functions augmented or replaced by electronic or electromechanical components", ""]}
