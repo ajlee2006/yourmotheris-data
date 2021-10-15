@@ -1,1 +1,1 @@
-{"data": ["2021-10-15T08:02:01.725319+00:00", 2622, "Your mother is", "lightly-armed", "Similar to: light", "Definition: armed with light weapons", "Synonyms: light-armed"]}
+{"data": ["2021-10-15T09:05:13.720680+00:00", 2623, "Your mother is", "stylized", "Pronunciation: /\u02c8sta\u026a\u02ccla\u026azd/", "Definition: using artistic forms and conventions to create effects; not natural or spontaneous", "Synonyms: conventionalised, conventionalized, stylised"]}
