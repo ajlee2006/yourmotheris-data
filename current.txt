@@ -1,1 +1,1 @@
-{"data": ["2021-10-15T22:04:09.901925+00:00", 2636, "Your mother is", "nonmandatory", "Similar to: optional", "Definition: not required by rule or law", "Synonyms: nonobligatory"]}
+{"data": ["2021-10-15T23:03:06.945447+00:00", 2637, "Your mother is", "amylaceous", "Pronunciation: /\u02cc\u00e6m\u0259\u02c8le\u026a\u0283\u0259s/", "Definition: resembling starch", "Synonyms: amyloid, amyloidal, farinaceous, starchlike"]}
