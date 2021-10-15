@@ -1,1 +1,1 @@
-{"data": ["2021-10-15T00:08:09.022060+00:00", 2614, "Your mother is", "silverish", "Similar to: achromatic", "Definition: of lustrous grey; covered with or tinged with the color of silver", "Synonyms: argent, silver, silvery"]}
+{"data": ["2021-10-15T01:07:20.167771+00:00", 2615, "Your mother is", "idempotent", "Pronunciation: /\u02c8a\u026ad\u0259m\u02c8po\u028at\u0259nt/", "Definition: unchanged in value following multiplication by itself", ""]}
