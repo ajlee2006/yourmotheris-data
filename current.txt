@@ -1,1 +1,1 @@
-{"data": ["2021-10-16T10:04:24.325102+00:00", 2648, "Your mother is", "unattended", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u025bnd\u026ad/", "Definition: lacking a caretaker", "Synonyms: neglected"]}
+{"data": ["2021-10-16T11:02:03.856764+00:00", 2649, "Your mother is", "acronymous", "Pronunciation: /\u0259\u02c8kr\u0251n\u0259m\u0259s/", "Definition: characterized by the use of acronyms", "Synonyms: acronymic"]}
