@@ -1,1 +1,1 @@
-{"data": ["2021-10-16T17:00:57.017946+00:00", 2655, "Your mother is", "hebraic", "Pronunciation: /h\u026a\u02c8bre\u026a\u026ak/", "Definition: of or relating to the language of the Hebrews", "Synonyms: hebraical, hebrew"]}
+{"data": ["2021-10-16T18:00:32.153411+00:00", 2656, "Your mother is", "tailless", "Similar to: acaudal", "Definition: not having a tail", "Synonyms: anurous"]}
