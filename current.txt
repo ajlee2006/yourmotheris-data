@@ -1,1 +1,1 @@
-{"data": ["2021-10-16T05:04:34.413689+00:00", 2643, "Your mother is", "silvery-leaved", "Similar to: leafy", "Definition: having silvery leaves", "Synonyms: silver-leafed, silver-leaved, silvery-leafed"]}
+{"data": ["2021-10-16T06:02:24.983016+00:00", 2644, "Your mother is", "dictatorial", "Pronunciation: /\u02ccd\u026akt\u0259\u02c8to\u028ari\u0259l/", "Definition: characteristic of an absolute ruler or absolute rule; having absolute sovereignty", "Synonyms: authoritarian, autocratic, despotic, tyrannic, tyrannical"]}
