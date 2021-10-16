@@ -1,1 +1,1 @@
-{"data": ["2021-10-16T09:01:28.884064+00:00", 2647, "Your mother is", "detected", "Pronunciation: /d\u026a\u02c8t\u025bkt\u028cd/", "Definition: perceived or discerned", ""]}
+{"data": ["2021-10-16T10:04:24.325102+00:00", 2648, "Your mother is", "unattended", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u025bnd\u026ad/", "Definition: lacking a caretaker", "Synonyms: neglected"]}
