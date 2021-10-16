@@ -1,1 +1,1 @@
-{"data": ["2021-10-16T22:02:53.651293+00:00", 2660, "Your mother is", "ethnic", "Pronunciation: /\u02c8\u025b\u03b8n\u026ak/", "Definition: denoting or deriving from or distinctive of the ways of living built up by a group of people", "Synonyms: cultural, ethnical"]}
+{"data": ["2021-10-16T23:02:41.307657+00:00", 2661, "Your mother is", "swaybacked", "Similar to: unfit", "Definition: having abnormal sagging of the spine (especially in horses)", "Synonyms: dipped, lordotic, swayback"]}
