@@ -1,1 +1,1 @@
-{"data": ["2021-10-16T15:03:10.038846+00:00", 2653, "Your mother is", "lanky", "Pronunciation: /\u02c8l\u00e6\u014bki/", "Definition: tall and thin and having long slender limbs", "Synonyms: gangling, gangly, rangy"]}
+{"data": ["2021-10-16T16:03:39.742160+00:00", 2654, "Your mother is", "vocalic", "Pronunciation: /vo\u028a\u02c8k\u00e6l\u026ak/", "Definition: being or containing or characterized by vowels", ""]}
