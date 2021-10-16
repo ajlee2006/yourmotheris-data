@@ -1,1 +1,1 @@
-{"data": ["2021-10-16T00:06:08.036254+00:00", 2638, "Your mother is", "bluish-grey", "Similar to: achromatic", "Definition: of grey tinged with blue", "Synonyms: blue-gray, blue-grey, bluish-gray"]}
+{"data": ["2021-10-16T01:04:16.601693+00:00", 2639, "Your mother is", "gravitational", "Pronunciation: /\u02ccgr\u00e6v\u026a\u02c8te\u026a\u0283\u0259n\u0259l/", "Definition: of or relating to or caused by gravitation", "Synonyms: gravitative"]}
