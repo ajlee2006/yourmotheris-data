@@ -1,1 +1,1 @@
-{"data": ["2021-10-16T21:03:23.930080+00:00", 2659, "Your mother is", "sheepish", "Pronunciation: /\u02c8\u0283ip\u026a\u0283/", "Definition: showing a sense of shame", "Synonyms: shamefaced"]}
+{"data": ["2021-10-16T22:02:53.651293+00:00", 2660, "Your mother is", "ethnic", "Pronunciation: /\u02c8\u025b\u03b8n\u026ak/", "Definition: denoting or deriving from or distinctive of the ways of living built up by a group of people", "Synonyms: cultural, ethnical"]}
