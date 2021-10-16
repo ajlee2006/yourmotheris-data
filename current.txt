@@ -1,1 +1,1 @@
-{"data": ["2021-10-16T16:03:39.742160+00:00", 2654, "Your mother is", "vocalic", "Pronunciation: /vo\u028a\u02c8k\u00e6l\u026ak/", "Definition: being or containing or characterized by vowels", ""]}
+{"data": ["2021-10-16T17:00:57.017946+00:00", 2655, "Your mother is", "hebraic", "Pronunciation: /h\u026a\u02c8bre\u026a\u026ak/", "Definition: of or relating to the language of the Hebrews", "Synonyms: hebraical, hebrew"]}
