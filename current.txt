@@ -1,1 +1,1 @@
-{"data": ["2021-10-16T19:01:48.733065+00:00", 2657, "Your mother is", "latent", "Pronunciation: /\u02c8le\u026at\u0259nt/", "Definition: (pathology) not presently active", ""]}
+{"data": ["2021-10-16T20:02:11.110596+00:00", 2658, "Your mother is", "unseamed", "Similar to: smooth", "Definition: smooth, especially of skin", "Synonyms: seamless, unlined"]}
