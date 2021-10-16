@@ -1,1 +1,1 @@
-{"data": ["2021-10-16T01:04:16.601693+00:00", 2639, "Your mother is", "gravitational", "Pronunciation: /\u02ccgr\u00e6v\u026a\u02c8te\u026a\u0283\u0259n\u0259l/", "Definition: of or relating to or caused by gravitation", "Synonyms: gravitative"]}
+{"data": ["2021-10-16T02:02:56.239414+00:00", 2640, "Your mother is", "unconditional", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8d\u026a\u0283\u0259n\u0259l/", "Definition: not conditional", "Synonyms: unconditioned"]}
