@@ -1,1 +1,1 @@
-{"data": ["2021-10-16T08:03:42.807769+00:00", 2646, "Your mother is", "arguable", "Pronunciation: /\u02c8\u0251rgj\u028a\u0259b\u0259l/", "Definition: open to argument or debate", "Synonyms: debatable, disputable, moot"]}
+{"data": ["2021-10-16T09:01:28.884064+00:00", 2647, "Your mother is", "detected", "Pronunciation: /d\u026a\u02c8t\u025bkt\u028cd/", "Definition: perceived or discerned", ""]}
