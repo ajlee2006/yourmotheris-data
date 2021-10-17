@@ -1,1 +1,1 @@
-{"data": ["2021-10-17T10:04:01.792001+00:00", 2672, "Your mother is", "piggish", "Pronunciation: /\u02c8p\u026a\u0261\u026ash/", "Definition: resembling swine; coarsely gluttonous or greedy", "Synonyms: hoggish, piggy, porcine, swinish"]}
+{"data": ["2021-10-17T11:03:29.864529+00:00", 2673, "Your mother is", "dyed", "Pronunciation: /da\u026ad/", "Definition: (used of color) artificially produced; not natural", "Synonyms: bleached, colored, coloured"]}
