@@ -1,1 +1,1 @@
-{"data": ["2021-10-17T05:05:07.749604+00:00", 2667, "Your mother is", "done with", "Pronunciation: /d\u0259n-w\u026a\u03b8/", "Definition: having no further concern with", "Synonyms: through with"]}
+{"data": ["2021-10-17T06:07:20.090042+00:00", 2668, "Your mother is", "overdelicate", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8d\u025bl\u0259k\u026at/", "Definition: extremely delicate", ""]}
