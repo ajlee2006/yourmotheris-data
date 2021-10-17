@@ -1,1 +1,1 @@
-{"data": ["2021-10-17T06:07:20.090042+00:00", 2668, "Your mother is", "overdelicate", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8d\u025bl\u0259k\u026at/", "Definition: extremely delicate", ""]}
+{"data": ["2021-10-17T07:05:33.950654+00:00", 2669, "Your mother is", "caramel", "Pronunciation: /\u02c8k\u00e6r\u0259m\u0259l/", "Definition: having the color of caramel; of a moderate yellow-brown", "Synonyms: caramel brown"]}
