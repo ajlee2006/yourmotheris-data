@@ -1,1 +1,1 @@
-{"data": ["2021-10-17T12:02:49.927385+00:00", 2674, "Your mother is", "machine readable", "", "Definition: suitable for feeding directly into a computer", "Synonyms: computer readable"]}
+{"data": ["2021-10-17T13:00:26.133510+00:00", 2675, "Your mother is", "center", "Pronunciation: /\u02c8s\u025bnt\u0259r/", "Definition: equally distant from the extremes", "Synonyms: halfway, middle, midway"]}
