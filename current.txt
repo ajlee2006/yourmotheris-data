@@ -1,1 +1,1 @@
-{"data": ["2021-10-17T00:06:08.049379+00:00", 2662, "Your mother is", "brick-shaped", "Similar to: cubic", "Definition: shaped like a brick", ""]}
+{"data": ["2021-10-17T01:06:45.422340+00:00", 2663, "Your mother is", "loquacious", "Pronunciation: /lo\u028a\u02c8kwe\u026a\u0283\u0259s/", "Definition: full of trivial conversation", "Synonyms: chatty, gabby, garrulous, talkative, talky"]}
