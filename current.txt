@@ -1,1 +1,1 @@
-{"data": ["2021-10-17T03:08:30.127727+00:00", 2665, "Your mother is", "v-shaped", "Pronunciation: /vi-\u0283e\u026apt/", "Definition: shaped in the form of the letter V", ""]}
+{"data": ["2021-10-17T04:06:13.614927+00:00", 2666, "Your mother is", "unaccepted", "Similar to: nonstandard", "Definition: not conforming to standard usage", "Synonyms: unacceptable"]}
