@@ -1,1 +1,1 @@
-{"data": ["2021-10-17T18:04:57.425769+00:00", 2680, "Your mother is", "noticed", "Pronunciation: /\u02c8no\u028at\u028cst/", "Definition: being perceived or observed", ""]}
+{"data": ["2021-10-17T19:04:00.530174+00:00", 2681, "Your mother is", "obsolescent", "Pronunciation: /\u02cc\u0251bs\u0259\u02c8l\u025bs\u0259nt/", "Definition: becoming obsolete", ""]}
