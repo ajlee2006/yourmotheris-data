@@ -1,1 +1,1 @@
-{"data": ["2021-10-17T21:03:05.321895+00:00", 2683, "Your mother is", "exempt", "Pronunciation: /\u026a\u0261\u02c8z\u025bmpt/", "Definition: (of goods or funds) not subject to taxation", "Synonyms: nontaxable"]}
+{"data": ["2021-10-17T22:02:05.307579+00:00", 2684, "Your mother is", "romanist", "Pronunciation: /\u02c8ro\u028am\u0259n\u026ast/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, papistical, popish, r.c., roman, roman catholic, romish"]}
