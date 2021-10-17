@@ -1,1 +1,1 @@
-{"data": ["2021-10-17T22:02:05.307579+00:00", 2684, "Your mother is", "romanist", "Pronunciation: /\u02c8ro\u028am\u0259n\u026ast/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, papistical, popish, r.c., roman, roman catholic, romish"]}
+{"data": ["2021-10-17T23:01:42.367729+00:00", 2685, "Your mother is", "unfrightened", "Similar to: fearless", "Definition: not affected by fright", ""]}
