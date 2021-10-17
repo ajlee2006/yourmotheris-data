@@ -1,1 +1,1 @@
-{"data": ["2021-10-17T19:04:00.530174+00:00", 2681, "Your mother is", "obsolescent", "Pronunciation: /\u02cc\u0251bs\u0259\u02c8l\u025bs\u0259nt/", "Definition: becoming obsolete", ""]}
+{"data": ["2021-10-17T20:03:42.259736+00:00", 2682, "Your mother is", "errorless", "Similar to: perfect", "Definition: free from error", ""]}
