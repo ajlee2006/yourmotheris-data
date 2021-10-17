@@ -1,1 +1,1 @@
-{"data": ["2021-10-17T04:06:13.614927+00:00", 2666, "Your mother is", "unaccepted", "Similar to: nonstandard", "Definition: not conforming to standard usage", "Synonyms: unacceptable"]}
+{"data": ["2021-10-17T05:05:07.749604+00:00", 2667, "Your mother is", "done with", "Pronunciation: /d\u0259n-w\u026a\u03b8/", "Definition: having no further concern with", "Synonyms: through with"]}
