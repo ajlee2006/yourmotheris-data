@@ -1,1 +1,1 @@
-{"data": ["2021-10-17T01:06:45.422340+00:00", 2663, "Your mother is", "loquacious", "Pronunciation: /lo\u028a\u02c8kwe\u026a\u0283\u0259s/", "Definition: full of trivial conversation", "Synonyms: chatty, gabby, garrulous, talkative, talky"]}
+{"data": ["2021-10-17T02:06:39.965822+00:00", 2664, "Your mother is", "snot-nosed", "Similar to: proud", "Definition: (used colloquially) overly conceited or arrogant", "Synonyms: bigheaded, persnickety, snooty, snotty, stuck-up, too big for one's breeches, uppish"]}
