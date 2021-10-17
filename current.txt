@@ -1,1 +1,1 @@
-{"data": ["2021-10-17T11:03:29.864529+00:00", 2673, "Your mother is", "dyed", "Pronunciation: /da\u026ad/", "Definition: (used of color) artificially produced; not natural", "Synonyms: bleached, colored, coloured"]}
+{"data": ["2021-10-17T12:02:49.927385+00:00", 2674, "Your mother is", "machine readable", "", "Definition: suitable for feeding directly into a computer", "Synonyms: computer readable"]}
