@@ -1,1 +1,1 @@
-{"data": ["2021-10-18T16:07:58.162501+00:00", 2701, "Your mother is", "alluring", "Pronunciation: /\u0259\u02c8l\u028ar\u026a\u014b/", "Definition: highly attractive and able to arouse hope or desire", "Synonyms: beguiling, enticing, tempting"]}
+{"data": ["2021-10-18T17:07:30.871081+00:00", 2702, "Your mother is", "demagogic", "Pronunciation: /\u02ccd\u025bm\u0259\u02c8\u0261\u0251d\u0292\u026ak/", "Definition: characteristic of or resembling a demagogue", "Synonyms: demagogical"]}
