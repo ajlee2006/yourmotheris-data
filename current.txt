@@ -1,1 +1,1 @@
-{"data": ["2021-10-18T09:04:50.749582+00:00", 2694, "Your mother is", "slaked", "Similar to: mitigated", "Definition: allayed", "Synonyms: quenched, satisfied"]}
+{"data": ["2021-10-18T10:02:34.566723+00:00", 2695, "Your mother is", "occupied", "Pronunciation: /\u02c8\u0251kj\u028c\u02ccpa\u026ad/", "Definition: resided in; having tenants", "Synonyms: tenanted"]}
