@@ -1,1 +1,1 @@
-{"data": ["2021-10-18T13:02:09.782897+00:00", 2698, "Your mother is", "angled", "Pronunciation: /\u02c8\u00e6\u014b\u0261\u0259ld/", "Definition: forming or set at an angle", ""]}
+{"data": ["2021-10-18T14:05:41.327933+00:00", 2699, "Your mother is", "lachrymatory", "Pronunciation: /\u02c8l\u00e6kr\u0259m\u0259\u02ccto\u028ari/", "Definition: relating to or prompting tears", "Synonyms: lacrimatory"]}
