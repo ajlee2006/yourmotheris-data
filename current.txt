@@ -1,1 +1,1 @@
-{"data": ["2021-10-18T14:05:41.327933+00:00", 2699, "Your mother is", "lachrymatory", "Pronunciation: /\u02c8l\u00e6kr\u0259m\u0259\u02ccto\u028ari/", "Definition: relating to or prompting tears", "Synonyms: lacrimatory"]}
+{"data": ["2021-10-18T15:04:33.357485+00:00", 2700, "Your mother is", "bawdy", "Pronunciation: /\u02c8b\u0254di/", "Definition: humorously vulgar", "Synonyms: off-color, ribald"]}
