@@ -1,1 +1,1 @@
-{"data": ["2021-10-18T12:03:18.004335+00:00", 2697, "Your mother is", "sheathed", "Pronunciation: /\u0283i\u00f0d/", "Definition: enclosed in a protective covering; sometimes used in combination", ""]}
+{"data": ["2021-10-18T13:02:09.782897+00:00", 2698, "Your mother is", "angled", "Pronunciation: /\u02c8\u00e6\u014b\u0261\u0259ld/", "Definition: forming or set at an angle", ""]}
