@@ -1,1 +1,1 @@
-{"data": ["2021-10-18T10:02:34.566723+00:00", 2695, "Your mother is", "occupied", "Pronunciation: /\u02c8\u0251kj\u028c\u02ccpa\u026ad/", "Definition: resided in; having tenants", "Synonyms: tenanted"]}
+{"data": ["2021-10-18T11:04:21.473426+00:00", 2696, "Your mother is", "binuclear", "", "Definition: having two nuclei", "Synonyms: binucleate, binucleated"]}
