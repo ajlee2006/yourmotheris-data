@@ -1,1 +1,1 @@
-{"data": ["2021-10-18T08:07:10.593533+00:00", 2693, "Your mother is", "chemic", "Pronunciation: /\u02c8k\u025bm\u026ak/", "Definition: relating to or used in chemistry", "Synonyms: chemical"]}
+{"data": ["2021-10-18T09:04:50.749582+00:00", 2694, "Your mother is", "slaked", "Similar to: mitigated", "Definition: allayed", "Synonyms: quenched, satisfied"]}
