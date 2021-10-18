@@ -1,1 +1,1 @@
-{"data": ["2021-10-18T02:06:12.302797+00:00", 2687, "Your mother is", "tousled", "Similar to: untidy", "Definition: in disarray; extremely disorderly", "Synonyms: disheveled, dishevelled, frowzled, rumpled"]}
+{"data": ["2021-10-18T03:05:18.009196+00:00", 2688, "Your mother is", "urgent", "Pronunciation: /\u02c8\u025crd\u0292\u0259nt/", "Definition: compelling immediate action", "Synonyms: pressing"]}
