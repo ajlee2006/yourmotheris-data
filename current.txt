@@ -1,1 +1,1 @@
-{"data": ["2021-10-18T07:02:33.214957+00:00", 2692, "Your mother is", "spore-bearing", "Similar to: flowerless", "Definition: bearing spores instead of producing seeds", ""]}
+{"data": ["2021-10-18T08:07:10.593533+00:00", 2693, "Your mother is", "chemic", "Pronunciation: /\u02c8k\u025bm\u026ak/", "Definition: relating to or used in chemistry", "Synonyms: chemical"]}
