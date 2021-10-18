@@ -1,1 +1,1 @@
-{"data": ["2021-10-18T22:06:50.799594+00:00", 2707, "Your mother is", "commonsense", "Pronunciation: /\u02cck\u0251m\u028cn\u02c8s\u025bns/", "Definition: exhibiting native good judgment", "Synonyms: commonsensible, commonsensical"]}
+{"data": ["2021-10-18T23:04:43.210760+00:00", 2708, "Your mother is", "indentured", "Pronunciation: /\u026an\u02c8d\u025bnt\u0283\u025drd/", "Definition: bound by contract", "Synonyms: apprenticed, articled, bound"]}
