@@ -1,1 +1,1 @@
-{"data": ["2021-10-19T12:01:21.444457+00:00", 2721, "Your mother is", "button-down", "Pronunciation: /\u02c8b\u0259t\u0259n-da\u028an/", "Definition: unimaginatively conventional", "Synonyms: buttoned-down, conservative"]}
+{"data": ["2021-10-19T13:05:53.284796+00:00", 2722, "Your mother is", "tricuspidate", "Pronunciation: /tra\u026a\u02c8k\u0259sp\u026a\u02ccde\u026at/", "Definition: having three cusps or points (especially a molar tooth)", "Synonyms: tricuspid"]}
