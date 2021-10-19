@@ -1,1 +1,1 @@
-{"data": ["2021-10-19T16:06:58.672273+00:00", 2725, "Your mother is", "bigeneric", "Pronunciation: /\u02ccba\u026ad\u0292\u0259\u02c8n\u025br\u026ak/", "Definition: resulting from a cross between species of different genera", ""]}
+{"data": ["2021-10-19T17:06:01.484616+00:00", 2726, "Your mother is", "jumbled", "Pronunciation: /\u02c8d\u0292\u0259mb\u0259ld/", "Definition: in utter disorder", "Synonyms: disorderly, higgledy-piggledy, hugger-mugger, topsy-turvy"]}
