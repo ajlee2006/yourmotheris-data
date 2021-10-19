@@ -1,1 +1,1 @@
-{"data": ["2021-10-19T17:06:01.484616+00:00", 2726, "Your mother is", "jumbled", "Pronunciation: /\u02c8d\u0292\u0259mb\u0259ld/", "Definition: in utter disorder", "Synonyms: disorderly, higgledy-piggledy, hugger-mugger, topsy-turvy"]}
+{"data": ["2021-10-19T18:05:08.202419+00:00", 2727, "Your mother is", "tabular", "Pronunciation: /\u02c8t\u00e6bj\u0259l\u0259r/", "Definition: flat; like a table in form", ""]}
