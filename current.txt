@@ -1,1 +1,1 @@
-{"data": ["2021-10-19T18:05:08.202419+00:00", 2727, "Your mother is", "tabular", "Pronunciation: /\u02c8t\u00e6bj\u0259l\u0259r/", "Definition: flat; like a table in form", ""]}
+{"data": ["2021-10-19T19:03:56.022795+00:00", 2728, "Your mother is", "biologic", "Pronunciation: /\u02ccba\u026a\u028c\u02c8l\u0251d\u0292\u026ak/", "Definition: pertaining to biology or to life and living things", "Synonyms: biological"]}
