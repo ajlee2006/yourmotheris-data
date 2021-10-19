@@ -1,1 +1,1 @@
-{"data": ["2021-10-18T23:04:43.210760+00:00", 2708, "Your mother is", "indentured", "Pronunciation: /\u026an\u02c8d\u025bnt\u0283\u025drd/", "Definition: bound by contract", "Synonyms: apprenticed, articled, bound"]}
+{"data": ["2021-10-19T00:07:47.732609+00:00", 2709, "Your mother is", "hindoo", "Pronunciation: /\u02c8h\u026andu/", "Definition: of or relating to or supporting Hinduism", "Synonyms: hindi, hindu"]}
