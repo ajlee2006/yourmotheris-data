@@ -1,1 +1,1 @@
-{"data": ["2021-10-19T09:03:31.074864+00:00", 2718, "Your mother is", "sparkling", "Pronunciation: /\u02c8sp\u0251rkl\u026a\u014b/", "Definition: used of wines and waters; charged naturally or artificially with carbon dioxide", "Synonyms: effervescent"]}
+{"data": ["2021-10-19T10:03:43.670613+00:00", 2719, "Your mother is", "self-propelling", "Similar to: moving", "Definition: containing within itself the means of propulsion or movement", "Synonyms: automotive, self-propelled"]}
