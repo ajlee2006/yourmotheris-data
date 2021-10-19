@@ -1,1 +1,1 @@
-{"data": ["2021-10-19T03:04:42.148208+00:00", 2712, "Your mother is", "roman catholic", "Pronunciation: /\u02c8ro\u028am\u0251n-\u02c8k\u00e6\u03b8\u0259l\u026ak/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, papistical, popish, r.c., roman, romanist, romish"]}
+{"data": ["2021-10-19T04:02:24.657918+00:00", 2713, "Your mother is", "campanular", "", "Definition: shaped like a bell or campana", "Synonyms: campanulate, campanulated"]}
