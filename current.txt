@@ -1,1 +1,1 @@
-{"data": ["2021-10-19T22:04:03.292504+00:00", 2731, "Your mother is", "adsorptive", "Similar to: chemisorptive", "Definition: having capacity or tendency to adsorb or cause to accumulate on a surface", "Synonyms: adsorbent, surface-assimilative"]}
+{"data": ["2021-10-19T23:04:09.698706+00:00", 2732, "Your mother is", "1000th", "Similar to: ordinal", "Definition: the ordinal number of one thousand in counting order", "Synonyms: thousandth"]}
