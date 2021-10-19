@@ -1,1 +1,1 @@
-{"data": ["2021-10-19T15:06:32.484988+00:00", 2724, "Your mother is", "maple-like", "Similar to: branchy", "Definition: resembling maple", "Synonyms: maplelike"]}
+{"data": ["2021-10-19T16:06:58.672273+00:00", 2725, "Your mother is", "bigeneric", "Pronunciation: /\u02ccba\u026ad\u0292\u0259\u02c8n\u025br\u026ak/", "Definition: resulting from a cross between species of different genera", ""]}
