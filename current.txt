@@ -1,1 +1,1 @@
-{"data": ["2021-10-20T08:05:03.365538+00:00", 2741, "Your mother is", "unmoved", "Pronunciation: /\u0259n\u02c8muvd/", "Definition: being in the original position; not having been moved", "Synonyms: in-situ, in situ"]}
+{"data": ["2021-10-20T09:04:12.065575+00:00", 2742, "Your mother is", "antimonic", "Pronunciation: /\u02cc\u00e6nt\u0259\u02c8mo\u028an\u026ak/", "Definition: relating to or derived from antimony", "Synonyms: antimonious"]}
