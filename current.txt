@@ -1,1 +1,1 @@
-{"data": ["2021-10-20T09:04:12.065575+00:00", 2742, "Your mother is", "antimonic", "Pronunciation: /\u02cc\u00e6nt\u0259\u02c8mo\u028an\u026ak/", "Definition: relating to or derived from antimony", "Synonyms: antimonious"]}
+{"data": ["2021-10-20T10:02:06.561921+00:00", 2743, "Your mother is", "greased", "Pronunciation: /\u0261rist/", "Definition: smeared with oil or grease to reduce friction", "Synonyms: lubricated"]}
