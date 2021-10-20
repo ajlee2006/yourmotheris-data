@@ -1,1 +1,1 @@
-{"data": ["2021-10-20T00:07:10.621808+00:00", 2733, "Your mother is", "ctenoid", "Pronunciation: /\u02c8tin\u0254\u026ad/", "Definition: resembling a comb; having projections like the teeth of a comb", "Synonyms: comb-like"]}
+{"data": ["2021-10-20T01:05:15.703317+00:00", 2734, "Your mother is", "abstemious", "Pronunciation: /\u00e6b\u02c8stimi\u0259s/", "Definition: marked by temperance in indulgence", "Synonyms: light"]}
