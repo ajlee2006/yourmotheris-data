@@ -1,1 +1,1 @@
-{"data": ["2021-10-20T01:05:15.703317+00:00", 2734, "Your mother is", "abstemious", "Pronunciation: /\u00e6b\u02c8stimi\u0259s/", "Definition: marked by temperance in indulgence", "Synonyms: light"]}
+{"data": ["2021-10-20T02:02:42.074761+00:00", 2735, "Your mother is", "olive-sized", "Similar to: little", "Definition: about the size of an olive", ""]}
