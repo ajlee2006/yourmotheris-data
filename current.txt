@@ -1,1 +1,1 @@
-{"data": ["2021-10-20T17:00:32.448571+00:00", 2750, "Your mother is", "fruiting", "Pronunciation: /\u02c8frut\u026a\u014b/", "Definition: capable of bearing fruit", ""]}
+{"data": ["2021-10-20T18:04:28.688874+00:00", 2751, "Your mother is", "soi-disant", "Pronunciation: /sWAdi\u02c8z\u0251\u014b/", "Definition: as claimed by and for yourself often without justification", "Synonyms: self-styled"]}
