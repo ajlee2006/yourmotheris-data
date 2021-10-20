@@ -1,1 +1,1 @@
-{"data": ["2021-10-20T13:03:45.262417+00:00", 2746, "Your mother is", "linnean", "Pronunciation: /l\u026a\u02c8ni\u0259n/", "Definition: of or relating to Linnaeus or to the system of taxonomic classification that Linnaeus proposed", "Synonyms: linnaean"]}
+{"data": ["2021-10-20T14:06:53.761400+00:00", 2747, "Your mother is", "olive-coloured", "Similar to: colored", "Definition: having the color of green olives", "Synonyms: olive-colored"]}
