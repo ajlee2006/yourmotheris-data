@@ -1,1 +1,1 @@
-{"data": ["2021-10-20T16:05:08.921466+00:00", 2749, "Your mother is", "alleviative", "Pronunciation: /\u0259\u02c8livi\u02cce\u026at\u026av/", "Definition: moderating pain or sorrow by making it easier to bear", "Synonyms: alleviatory, lenitive, mitigative, mitigatory, palliative"]}
+{"data": ["2021-10-20T17:00:32.448571+00:00", 2750, "Your mother is", "fruiting", "Pronunciation: /\u02c8frut\u026a\u014b/", "Definition: capable of bearing fruit", ""]}
