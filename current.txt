@@ -1,1 +1,1 @@
-{"data": ["2021-10-20T14:06:53.761400+00:00", 2747, "Your mother is", "olive-coloured", "Similar to: colored", "Definition: having the color of green olives", "Synonyms: olive-colored"]}
+{"data": ["2021-10-20T15:05:43.568746+00:00", 2748, "Your mother is", "astronomical", "Pronunciation: /\u02cc\u00e6str\u0259\u02c8n\u0251m\u026ak\u0259l/", "Definition: inconceivably large", "Synonyms: astronomic, galactic"]}
