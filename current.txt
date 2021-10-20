@@ -1,1 +1,1 @@
-{"data": ["2021-10-19T23:04:09.698706+00:00", 2732, "Your mother is", "1000th", "Similar to: ordinal", "Definition: the ordinal number of one thousand in counting order", "Synonyms: thousandth"]}
+{"data": ["2021-10-20T00:07:10.621808+00:00", 2733, "Your mother is", "ctenoid", "Pronunciation: /\u02c8tin\u0254\u026ad/", "Definition: resembling a comb; having projections like the teeth of a comb", "Synonyms: comb-like"]}
