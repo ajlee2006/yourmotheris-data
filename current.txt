@@ -1,1 +1,1 @@
-{"data": ["2021-10-21T13:05:43.741219+00:00", 2770, "Your mother is", "northeast", "Pronunciation: /n\u0254r\u03b8\u02c8ist/", "Definition: coming from the northeast", "Synonyms: northeasterly"]}
+{"data": ["2021-10-21T14:02:13.582082+00:00", 2771, "Your mother is", "winey", "Pronunciation: /\u02c8wa\u026ani/", "Definition: having the taste of wine", "Synonyms: winy"]}
