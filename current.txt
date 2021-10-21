@@ -1,1 +1,1 @@
-{"data": ["2021-10-21T12:02:32.272770+00:00", 2769, "Your mother is", "well-thought-of", "Pronunciation: /\u02c8w\u025bl-\u02c8\u03b8\u0254t\u02cc\u0259v/", "Definition: receiving deferential regard", "Synonyms: respected"]}
+{"data": ["2021-10-21T13:05:43.741219+00:00", 2770, "Your mother is", "northeast", "Pronunciation: /n\u0254r\u03b8\u02c8ist/", "Definition: coming from the northeast", "Synonyms: northeasterly"]}
