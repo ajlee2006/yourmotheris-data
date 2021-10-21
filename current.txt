@@ -1,1 +1,1 @@
-{"data": ["2021-10-21T18:05:29.015344+00:00", 2775, "Your mother is", "silver-bodied", "Similar to: bodied", "Definition: having a silver-colored body", "Synonyms: silvery-bodied"]}
+{"data": ["2021-10-21T19:05:19.546377+00:00", 2776, "Your mother is", "stumpy", "Pronunciation: /\u02c8st\u0259mpi/", "Definition: short and thick; as e.g. having short legs and heavy musculature", "Synonyms: chunky, dumpy, low-set, squat, squatty"]}
