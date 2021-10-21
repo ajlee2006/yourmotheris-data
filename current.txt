@@ -1,1 +1,1 @@
-{"data": ["2021-10-21T11:02:43.659097+00:00", 2768, "Your mother is", "fourfold", "Pronunciation: /\u02c8fo\u028ar\u02ccfo\u028ald/", "Definition: four times as great or many", "Synonyms: four-fold, quadruple"]}
+{"data": ["2021-10-21T12:02:32.272770+00:00", 2769, "Your mother is", "well-thought-of", "Pronunciation: /\u02c8w\u025bl-\u02c8\u03b8\u0254t\u02cc\u0259v/", "Definition: receiving deferential regard", "Synonyms: respected"]}
