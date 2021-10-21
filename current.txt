@@ -1,1 +1,1 @@
-{"data": ["2021-10-21T08:01:05.222545+00:00", 2765, "Your mother is", "rootless", "Pronunciation: /\u02c8rutl\u026as/", "Definition: wandering aimlessly without ties to a place or community", "Synonyms: vagabond"]}
+{"data": ["2021-10-21T09:04:33.293659+00:00", 2766, "Your mother is", "dermatologic", "", "Definition: of or relating to or practicing dermatology", "Synonyms: dermatological"]}
