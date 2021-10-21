@@ -1,1 +1,1 @@
-{"data": ["2021-10-21T05:02:18.231245+00:00", 2762, "Your mother is", "panoramic", "Pronunciation: /\u02ccp\u00e6n\u025dr\u02c8\u00e6m\u026ak/", "Definition: as from an altitude or distance", "Synonyms: bird's-eye"]}
+{"data": ["2021-10-21T06:03:02.412329+00:00", 2763, "Your mother is", "hearable", "Similar to: clunky", "Definition: heard or perceptible by the ear", "Synonyms: audible"]}
