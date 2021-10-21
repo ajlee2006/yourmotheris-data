@@ -1,1 +1,1 @@
-{"data": ["2021-10-21T20:07:01.026296+00:00", 2777, "Your mother is", "yearly", "Pronunciation: /\u02c8jirli/", "Definition: occurring or payable every year", "Synonyms: annual"]}
+{"data": ["2021-10-21T21:04:05.456285+00:00", 2778, "Your mother is", "botryoidal", "Pronunciation: /\u02ccb\u0251tri\u02c8\u0254\u026ad\u0259l/", "Definition: resembling a cluster of grapes in form", "Synonyms: botryoid, boytrose"]}
