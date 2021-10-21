@@ -1,1 +1,1 @@
-{"data": ["2021-10-20T23:01:23.126001+00:00", 2756, "Your mother is", "epidemiological", "Pronunciation: /\u02cc\u025bp\u026a\u02ccdimi\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to epidemiology", "Synonyms: epidemiologic"]}
+{"data": ["2021-10-21T00:05:26.281250+00:00", 2757, "Your mother is", "humpbacked", "Pronunciation: /\u02c8h\u0259mp\u02ccb\u00e6kt/", "Definition: characteristic of or suffering from kyphosis, an abnormality of the vertebral column", "Synonyms: crookback, crookbacked, gibbous, humped, hunchbacked, kyphotic"]}
