@@ -1,1 +1,1 @@
-{"data": ["2021-10-21T19:05:19.546377+00:00", 2776, "Your mother is", "stumpy", "Pronunciation: /\u02c8st\u0259mpi/", "Definition: short and thick; as e.g. having short legs and heavy musculature", "Synonyms: chunky, dumpy, low-set, squat, squatty"]}
+{"data": ["2021-10-21T20:07:01.026296+00:00", 2777, "Your mother is", "yearly", "Pronunciation: /\u02c8jirli/", "Definition: occurring or payable every year", "Synonyms: annual"]}
