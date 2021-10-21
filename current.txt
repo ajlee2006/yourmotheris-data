@@ -1,1 +1,1 @@
-{"data": ["2021-10-21T00:05:26.281250+00:00", 2757, "Your mother is", "humpbacked", "Pronunciation: /\u02c8h\u0259mp\u02ccb\u00e6kt/", "Definition: characteristic of or suffering from kyphosis, an abnormality of the vertebral column", "Synonyms: crookback, crookbacked, gibbous, humped, hunchbacked, kyphotic"]}
+{"data": ["2021-10-21T01:03:39.524648+00:00", 2758, "Your mother is", "mesoblastic", "", "Definition: relating to or derived from the mesoderm", "Synonyms: mesodermal"]}
