@@ -1,1 +1,1 @@
-{"data": ["2021-10-22T06:04:31.946429+00:00", 2787, "Your mother is", "epiphyseal", "Pronunciation: /\u02cc\u025bp\u0259\u02c8f\u026azi\u0259l/", "Definition: relating to the epiphysis of a bone", "Synonyms: epiphysial"]}
+{"data": ["2021-10-22T07:01:01.895844+00:00", 2788, "Your mother is", "wobbly", "Pronunciation: /\u02c8w\u0251bli/", "Definition: inclined to shake as from weakness or defect", "Synonyms: rickety, shaky, wonky"]}
