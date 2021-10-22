@@ -1,1 +1,1 @@
-{"data": ["2021-10-22T22:04:50.125986+00:00", 2803, "Your mother is", "apprehended", "Pronunciation: /\u02cc\u00e6pr\u026a\u02c8h\u025bnd\u028cd/", "Definition: fully understood or grasped", "Synonyms: appreciated, comprehended"]}
+{"data": ["2021-10-22T23:05:18.116833+00:00", 2804, "Your mother is", "unthankful", "Pronunciation: /\u0259n\u02c8\u03b8\u00e6\u014bkf\u0259l/", "Definition: not feeling or showing gratitude", "Synonyms: thankless, ungrateful"]}
