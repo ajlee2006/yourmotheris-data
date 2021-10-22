@@ -1,1 +1,1 @@
-{"data": ["2021-10-22T01:02:25.419865+00:00", 2782, "Your mother is", "unessential", "Pronunciation: /\u02cc\u0259n\u0259\u02c8s\u025bn\u0283\u0259l/", "Definition: not basic or fundamental", "Synonyms: inessential"]}
+{"data": ["2021-10-22T02:05:18.736017+00:00", 2783, "Your mother is", "0", "Similar to: cardinal", "Definition: indicating the absence of any or all units under consideration", "Synonyms: zero"]}
