@@ -1,1 +1,1 @@
-{"data": ["2021-10-22T07:01:01.895844+00:00", 2788, "Your mother is", "wobbly", "Pronunciation: /\u02c8w\u0251bli/", "Definition: inclined to shake as from weakness or defect", "Synonyms: rickety, shaky, wonky"]}
+{"data": ["2021-10-22T08:03:28.607661+00:00", 2789, "Your mother is", "mistaken", "Pronunciation: /m\u026a\u02c8ste\u026ak\u0259n/", "Definition: wrong in e.g. opinion or judgment", "Synonyms: misguided"]}
