@@ -1,1 +1,1 @@
-{"data": ["2021-10-22T14:02:48.716528+00:00", 2795, "Your mother is", "fluent", "Pronunciation: /\u02c8flu\u0259nt/", "Definition: expressing yourself readily, clearly, effectively", "Synonyms: eloquent, facile, silver, silver-tongued, smooth-spoken"]}
+{"data": ["2021-10-22T15:05:10.502714+00:00", 2796, "Your mother is", "muddleheaded", "Pronunciation: /\u02c8m\u0259d\u0259l\u02cch\u025bd\u026ad/", "Definition: stupid and confused", "Synonyms: addlebrained, addlepated, puddingheaded"]}
