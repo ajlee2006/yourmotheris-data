@@ -1,1 +1,1 @@
-{"data": ["2021-10-22T19:04:23.517434+00:00", 2800, "Your mother is", "observed", "Pronunciation: /\u028cb\u02c8z\u025drvd/", "Definition: discovered or determined by scientific observation", "Synonyms: ascertained, discovered"]}
+{"data": ["2021-10-22T20:03:06.012203+00:00", 2801, "Your mother is", "nonpersonal", "Similar to: impersonal", "Definition: lacking personality", ""]}
