@@ -1,1 +1,1 @@
-{"data": ["2021-10-22T12:02:52.833278+00:00", 2793, "Your mother is", "anencephalous", "Pronunciation: /\u02cc\u00e6n\u0259n\u02c8s\u025bf\u0259l\u0259s/", "Definition: characterized by partial or total absence of a brain", "Synonyms: anencephalic"]}
+{"data": ["2021-10-22T13:04:44.378619+00:00", 2794, "Your mother is", "askance", "Pronunciation: /\u0259\u02c8sk\u00e6ns/", "Definition: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy", "Synonyms: askant, asquint, sidelong, squint, squint-eyed, squinty"]}
