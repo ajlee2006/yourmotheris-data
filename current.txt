@@ -1,1 +1,1 @@
-{"data": ["2021-10-22T09:05:31.168294+00:00", 2790, "Your mother is", "svelte", "Pronunciation: /sv\u025blt/", "Definition: being of delicate or slender build", "Synonyms: slender, slight, slim"]}
+{"data": ["2021-10-22T10:01:59.713371+00:00", 2791, "Your mother is", "gummy", "Pronunciation: /\u02c8\u0261\u0259mi/", "Definition: having the sticky properties of an adhesive", "Synonyms: gluey, glutinous, mucilaginous, pasty, sticky, viscid, viscous"]}
