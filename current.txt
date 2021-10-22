@@ -1,1 +1,1 @@
-{"data": ["2021-10-22T13:04:44.378619+00:00", 2794, "Your mother is", "askance", "Pronunciation: /\u0259\u02c8sk\u00e6ns/", "Definition: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy", "Synonyms: askant, asquint, sidelong, squint, squint-eyed, squinty"]}
+{"data": ["2021-10-22T14:02:48.716528+00:00", 2795, "Your mother is", "fluent", "Pronunciation: /\u02c8flu\u0259nt/", "Definition: expressing yourself readily, clearly, effectively", "Synonyms: eloquent, facile, silver, silver-tongued, smooth-spoken"]}
