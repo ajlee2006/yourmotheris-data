@@ -1,1 +1,1 @@
-{"data": ["2021-10-22T21:02:57.157807+00:00", 2802, "Your mother is", "westernmost", "Pronunciation: /\u02c8w\u025bst\u025drn\u02ccmo\u028ast/", "Definition: farthest to the west", "Synonyms: westmost"]}
+{"data": ["2021-10-22T22:04:50.125986+00:00", 2803, "Your mother is", "apprehended", "Pronunciation: /\u02cc\u00e6pr\u026a\u02c8h\u025bnd\u028cd/", "Definition: fully understood or grasped", "Synonyms: appreciated, comprehended"]}
