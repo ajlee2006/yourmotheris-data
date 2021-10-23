@@ -1,1 +1,1 @@
-{"data": ["2021-10-23T15:00:41.933206+00:00", 2820, "Your mother is", "shrewish", "Pronunciation: /\u02c8\u0283ru\u026a\u0283/", "Definition: continually complaining or faultfinding", "Synonyms: nagging"]}
+{"data": ["2021-10-23T16:01:44.328855+00:00", 2821, "Your mother is", "short-staffed", "Similar to: inadequate", "Definition: inadequate in number of workers or assistants etc.", "Synonyms: short-handed, undermanned, understaffed"]}
