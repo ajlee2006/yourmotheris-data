@@ -1,1 +1,1 @@
-{"data": ["2021-10-23T05:04:12.298329+00:00", 2810, "Your mother is", "briny", "Pronunciation: /\u02c8bra\u026ani/", "Definition: slightly salty (especially from containing a mixture of seawater and fresh water)", "Synonyms: brackish"]}
+{"data": ["2021-10-23T06:06:20.644477+00:00", 2811, "Your mother is", "distensible", "Pronunciation: /d\u026a\u02c8st\u025bns\u0259b\u0259l/", "Definition: capable of being distended; able to stretch and expand", ""]}
