@@ -1,1 +1,1 @@
-{"data": ["2021-10-23T00:05:54.767447+00:00", 2805, "Your mother is", "trumped-up", "Similar to: false", "Definition: concocted with intent to deceive", ""]}
+{"data": ["2021-10-23T01:06:33.637473+00:00", 2806, "Your mother is", "noxious", "Pronunciation: /\u02c8n\u0251k\u0283\u0259s/", "Definition: injurious to physical or mental health", ""]}
