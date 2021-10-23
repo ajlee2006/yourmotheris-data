@@ -1,1 +1,1 @@
-{"data": ["2021-10-23T09:03:59.319416+00:00", 2814, "Your mother is", "wavy-grained", "Pronunciation: /\u02c8we\u026avi-gre\u026and/", "Definition: of timber; having fibers running irregularly rather than in parallel", "Synonyms: cross-grained, curly-grained"]}
+{"data": ["2021-10-23T10:04:56.988308+00:00", 2815, "Your mother is", "cantankerous", "Pronunciation: /k\u00e6n\u02c8t\u00e6\u014bk\u0259r\u0259s/", "Definition: stubbornly obstructive and unwilling to cooperate", "Synonyms: bloody-minded"]}
