@@ -1,1 +1,1 @@
-{"data": ["2021-10-23T06:06:20.644477+00:00", 2811, "Your mother is", "distensible", "Pronunciation: /d\u026a\u02c8st\u025bns\u0259b\u0259l/", "Definition: capable of being distended; able to stretch and expand", ""]}
+{"data": ["2021-10-23T07:06:55.886108+00:00", 2812, "Your mother is", "resident", "Pronunciation: /\u02c8r\u025bz\u026ad\u0259nt/", "Definition: used of animals that do not migrate", "Synonyms: nonmigratory"]}
