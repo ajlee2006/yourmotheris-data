@@ -1,1 +1,1 @@
-{"data": ["2021-10-23T10:04:56.988308+00:00", 2815, "Your mother is", "cantankerous", "Pronunciation: /k\u00e6n\u02c8t\u00e6\u014bk\u0259r\u0259s/", "Definition: stubbornly obstructive and unwilling to cooperate", "Synonyms: bloody-minded"]}
+{"data": ["2021-10-23T11:03:39.013337+00:00", 2816, "Your mother is", "good enough", "Pronunciation: /\u0261\u028ad-\u026a\u02c8n\u0259f/", "Definition: adequately good for the circumstances", ""]}
