@@ -1,1 +1,1 @@
-{"data": ["2021-10-22T23:05:18.116833+00:00", 2804, "Your mother is", "unthankful", "Pronunciation: /\u0259n\u02c8\u03b8\u00e6\u014bkf\u0259l/", "Definition: not feeling or showing gratitude", "Synonyms: thankless, ungrateful"]}
+{"data": ["2021-10-23T00:05:54.767447+00:00", 2805, "Your mother is", "trumped-up", "Similar to: false", "Definition: concocted with intent to deceive", ""]}
