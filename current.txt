@@ -1,1 +1,1 @@
-{"data": ["2021-10-23T21:03:12.420267+00:00", 2826, "Your mother is", "unadjusted", "Pronunciation: /\u02cc\u028cn\u028c\u02c8d\u0292\u028cst\u026ad/", "Definition: not having adapted to new conditions", "Synonyms: unadapted"]}
+{"data": ["2021-10-23T22:01:44.182070+00:00", 2827, "Your mother is", "globose", "Pronunciation: /\u02c8glo\u028abo\u028as/", "Definition: having the shape of a sphere or ball", "Synonyms: ball-shaped, global, globular, orbicular, spheric, spherical"]}
