@@ -1,1 +1,1 @@
-{"data": ["2021-10-23T07:06:55.886108+00:00", 2812, "Your mother is", "resident", "Pronunciation: /\u02c8r\u025bz\u026ad\u0259nt/", "Definition: used of animals that do not migrate", "Synonyms: nonmigratory"]}
+{"data": ["2021-10-23T08:06:23.297888+00:00", 2813, "Your mother is", "eleven-sided", "Similar to: many-sided", "Definition: having eleven sides", ""]}
