@@ -1,1 +1,1 @@
-{"data": ["2021-10-23T22:01:44.182070+00:00", 2827, "Your mother is", "globose", "Pronunciation: /\u02c8glo\u028abo\u028as/", "Definition: having the shape of a sphere or ball", "Synonyms: ball-shaped, global, globular, orbicular, spheric, spherical"]}
+{"data": ["2021-10-23T23:00:39.453915+00:00", 2828, "Your mother is", "first-come-first-serve", "Similar to: unreserved", "Definition: not accepting reservations", "Synonyms: rush"]}
