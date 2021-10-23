@@ -1,1 +1,1 @@
-{"data": ["2021-10-23T16:01:44.328855+00:00", 2821, "Your mother is", "short-staffed", "Similar to: inadequate", "Definition: inadequate in number of workers or assistants etc.", "Synonyms: short-handed, undermanned, understaffed"]}
+{"data": ["2021-10-23T17:03:12.653922+00:00", 2822, "Your mother is", "aghast", "Pronunciation: /\u0259\u02c8\u0261\u00e6st/", "Definition: struck with fear, dread, or consternation", "Synonyms: appalled, dismayed, shocked"]}
