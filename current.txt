@@ -1,1 +1,1 @@
-{"data": ["2021-10-23T11:03:39.013337+00:00", 2816, "Your mother is", "good enough", "Pronunciation: /\u0261\u028ad-\u026a\u02c8n\u0259f/", "Definition: adequately good for the circumstances", ""]}
+{"data": ["2021-10-23T12:03:38.943422+00:00", 2817, "Your mother is", "16th", "Similar to: ordinal", "Definition: coming next after the fifteenth in position", "Synonyms: sixteenth"]}
