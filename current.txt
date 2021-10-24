@@ -1,1 +1,1 @@
-{"data": ["2021-10-24T01:03:28.891817+00:00", 2830, "Your mother is", "odds-on", "Pronunciation: /\u02c8\u0251dz\u02c8\u0251n/", "Definition: having a better than even chance of success", ""]}
+{"data": ["2021-10-24T02:04:42.116452+00:00", 2831, "Your mother is", "blue", "Pronunciation: /blu/", "Definition: of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky", "Synonyms: blueish, bluish"]}
