@@ -1,1 +1,1 @@
-{"data": ["2021-10-24T05:04:39.527840+00:00", 2834, "Your mother is", "vaporizable", "Similar to: volatile", "Definition: (used of substances) capable of being volatilized", "Synonyms: evaporable, vaporific, vapourific, vapourisable, volatilisable, volatilizable"]}
+{"data": ["2021-10-24T06:01:16.354896+00:00", 2835, "Your mother is", "falsifiable", "Similar to: empiric", "Definition: capable of being tested (verified or falsified) by experiment or observation", "Synonyms: confirmable, verifiable"]}
