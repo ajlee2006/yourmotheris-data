@@ -1,1 +1,1 @@
-{"data": ["2021-10-24T02:04:42.116452+00:00", 2831, "Your mother is", "blue", "Pronunciation: /blu/", "Definition: of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky", "Synonyms: blueish, bluish"]}
+{"data": ["2021-10-24T03:02:05.703231+00:00", 2832, "Your mother is", "sedate", "Pronunciation: /s\u026a\u02c8de\u026at/", "Definition: dignified and somber in manner or character and committed to keeping promises", "Synonyms: grave, sober, solemn"]}
