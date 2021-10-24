@@ -1,1 +1,1 @@
-{"data": ["2021-10-24T13:01:22.947754+00:00", 2842, "Your mother is", "depreciating", "Pronunciation: /d\u026a\u02c8pri\u0283i\u02cce\u026at\u026a\u014b/", "Definition: tending to decrease or cause a decrease in value", "Synonyms: depreciative, depreciatory"]}
+{"data": ["2021-10-24T14:01:42.179223+00:00", 2843, "Your mother is", "becalmed", "Pronunciation: /b\u026a\u02c8k\u0251md/", "Definition: rendered motionless for lack of wind", ""]}
