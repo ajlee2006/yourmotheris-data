@@ -1,1 +1,1 @@
-{"data": ["2021-10-24T12:04:26.499698+00:00", 2841, "Your mother is", "arachnoid", "Pronunciation: /\u0259\u02c8r\u00e6kn\u0254\u026ad/", "Definition: relating to or resembling a member of the class Arachnida", "Synonyms: arachnidian, spiderlike, spiderly, spidery"]}
+{"data": ["2021-10-24T13:01:22.947754+00:00", 2842, "Your mother is", "depreciating", "Pronunciation: /d\u026a\u02c8pri\u0283i\u02cce\u026at\u026a\u014b/", "Definition: tending to decrease or cause a decrease in value", "Synonyms: depreciative, depreciatory"]}
