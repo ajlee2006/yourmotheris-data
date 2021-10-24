@@ -1,1 +1,1 @@
-{"data": ["2021-10-24T04:04:45.019072+00:00", 2833, "Your mother is", "expansible", "Pronunciation: /\u026ak\u02c8sp\u00e6ns\u0259b\u0259l/", "Definition: able to expand or be expanded", "Synonyms: expandable, expandible"]}
+{"data": ["2021-10-24T05:04:39.527840+00:00", 2834, "Your mother is", "vaporizable", "Similar to: volatile", "Definition: (used of substances) capable of being volatilized", "Synonyms: evaporable, vaporific, vapourific, vapourisable, volatilisable, volatilizable"]}
