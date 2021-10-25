@@ -1,1 +1,1 @@
-{"data": ["2021-10-25T02:05:32.448237+00:00", 2855, "Your mother is", "confiscate", "Pronunciation: /\u02c8k\u0251nf\u026a\u02ccske\u026at/", "Definition: surrendered as a penalty", "Synonyms: forfeit, forfeited"]}
+{"data": ["2021-10-25T03:02:55.196552+00:00", 2856, "Your mother is", "unshelled", "", "Definition: of animals or fruits that have no shell", "Synonyms: shell-less"]}
