@@ -1,1 +1,1 @@
-{"data": ["2021-10-25T05:04:08.284633+00:00", 2858, "Your mother is", "light-sensitive", "Pronunciation: /la\u026at-\u02c8s\u025bns\u026at\u026av/", "Definition: sensitive to visible light", "Synonyms: photosensitive"]}
+{"data": ["2021-10-25T06:02:33.811578+00:00", 2859, "Your mother is", "communicational", "Similar to: communicative", "Definition: used in communication", ""]}
