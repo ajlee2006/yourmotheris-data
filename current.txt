@@ -1,1 +1,1 @@
-{"data": ["2021-10-25T21:02:48.238512+00:00", 2874, "Your mother is", "run-down", "Pronunciation: /r\u0259n-da\u028an/", "Definition: worn and broken down by hard use", "Synonyms: creaky, decrepit, derelict, flea-bitten, woebegone"]}
+{"data": ["2021-10-25T22:05:22.545655+00:00", 2875, "Your mother is", "blonde", "Pronunciation: /bl\u0251nd/", "Definition: being or having light colored skin and hair and usually blue or grey eyes", "Synonyms: blond, light-haired"]}
