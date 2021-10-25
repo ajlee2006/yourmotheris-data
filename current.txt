@@ -1,1 +1,1 @@
-{"data": ["2021-10-25T18:03:48.838631+00:00", 2871, "Your mother is", "twinning", "Similar to: multiparous", "Definition: producing two offspring at a time", "Synonyms: biparous"]}
+{"data": ["2021-10-25T19:05:53.098846+00:00", 2872, "Your mother is", "syncategorematic", "Similar to: synsemantic", "Definition: of a term that cannot stand as the subject or (especially) the predicate of a proposition but must be used in conjunction with other terms", ""]}
