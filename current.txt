@@ -1,1 +1,1 @@
-{"data": ["2021-10-25T09:04:30.660676+00:00", 2862, "Your mother is", "monoatomic", "Pronunciation: /\u02ccm\u0251no\u028a\u0259\u02c8t\u0251m\u026ak/", "Definition: of or relating to an element consisting of a single atom", "Synonyms: monatomic"]}
+{"data": ["2021-10-25T10:03:46.024440+00:00", 2863, "Your mother is", "unfledged", "Pronunciation: /\u0259n\u02c8fl\u025bd\u0292d/", "Definition: (of birds) not yet having developed feathers", "Synonyms: immature"]}
