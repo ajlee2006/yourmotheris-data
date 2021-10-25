@@ -1,1 +1,1 @@
-{"data": ["2021-10-25T15:02:45.495723+00:00", 2868, "Your mother is", "noncrystalline", "Similar to: amorphous", "Definition: not crystalline", ""]}
+{"data": ["2021-10-25T16:04:34.664626+00:00", 2869, "Your mother is", "robustious", "Pronunciation: /ro\u028a\u02c8b\u0259s\u02a7\u0259s/", "Definition: noisy and lacking in restraint or discipline", "Synonyms: boisterous, rambunctious, rumbustious, unruly"]}
