@@ -1,1 +1,1 @@
-{"data": ["2021-10-25T08:04:12.283341+00:00", 2861, "Your mother is", "universalist", "Pronunciation: /\u02ccjun\u0259\u02c8v\u025crs\u0259l\u026ast/", "Definition: of or relating to or tending toward universalism", "Synonyms: universalistic"]}
+{"data": ["2021-10-25T09:04:30.660676+00:00", 2862, "Your mother is", "monoatomic", "Pronunciation: /\u02ccm\u0251no\u028a\u0259\u02c8t\u0251m\u026ak/", "Definition: of or relating to an element consisting of a single atom", "Synonyms: monatomic"]}
