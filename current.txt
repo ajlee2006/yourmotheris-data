@@ -1,1 +1,1 @@
-{"data": ["2021-10-26T05:02:30.748913+00:00", 2882, "Your mother is", "boisterous", "Pronunciation: /\u02c8b\u0254\u026ast\u0259r\u0259s/", "Definition: violently agitated and turbulent", "Synonyms: fierce, rough"]}
+{"data": ["2021-10-26T06:04:09.139827+00:00", 2883, "Your mother is", "stopped-up", "Similar to: obstructed", "Definition: (of a nose) blocked", "Synonyms: stopped, stopped up"]}
