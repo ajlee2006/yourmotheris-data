@@ -1,1 +1,1 @@
-{"data": ["2021-10-26T01:06:06.912099+00:00", 2878, "Your mother is", "blighted", "Pronunciation: /\u02c8bla\u026at\u026ad/", "Definition: affected by blight; anything that mars or prevents growth or prosperity", "Synonyms: spoilt"]}
+{"data": ["2021-10-26T02:03:44.435295+00:00", 2879, "Your mother is", "unclogged", "Similar to: unobstructed", "Definition: freed of obstructions", ""]}
