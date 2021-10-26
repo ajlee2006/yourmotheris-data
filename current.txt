@@ -1,1 +1,1 @@
-{"data": ["2021-10-26T13:03:30.217905+00:00", 2890, "Your mother is", "striped", "Pronunciation: /stra\u026apt/", "Definition: marked or decorated with stripes", "Synonyms: stripy"]}
+{"data": ["2021-10-26T14:06:11.272503+00:00", 2891, "Your mother is", "engorged", "Similar to: full", "Definition: overfull as with blood", "Synonyms: congested"]}
