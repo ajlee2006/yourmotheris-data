@@ -1,1 +1,1 @@
-{"data": ["2021-10-26T22:03:54.893748+00:00", 2899, "Your mother is", "maltreated", "Pronunciation: /m\u00e6l\u02c8trit\u026ad/", "Definition: subjected to cruel treatment", "Synonyms: abused, ill-treated, mistreated"]}
+{"data": ["2021-10-26T23:02:01.436314+00:00", 2900, "Your mother is", "preexistent", "Similar to: antecedent", "Definition: existing previously or before something", "Synonyms: pre-existent, pre-existing, preexisting"]}
