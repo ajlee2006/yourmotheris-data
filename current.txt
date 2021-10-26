@@ -1,1 +1,1 @@
-{"data": ["2021-10-26T19:04:29.973405+00:00", 2896, "Your mother is", "oblate", "Pronunciation: /\u02c8\u0251ble\u026at/", "Definition: having the equatorial diameter greater than the polar diameter; being flattened at the poles", "Synonyms: pumpkin-shaped"]}
+{"data": ["2021-10-26T20:01:54.506706+00:00", 2897, "Your mother is", "runproof", "Similar to: imperviable", "Definition: (of hosiery) resistant to runs or (in Britain) ladders", "Synonyms: ladder-proof, run-resistant"]}
