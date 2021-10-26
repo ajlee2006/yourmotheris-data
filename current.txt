@@ -1,1 +1,1 @@
-{"data": ["2021-10-26T07:04:57.100898+00:00", 2884, "Your mother is", "deserted", "Pronunciation: /d\u026a\u02c8z\u025crt\u026ad/", "Definition: forsaken by owner or inhabitants", "Synonyms: abandoned, derelict"]}
+{"data": ["2021-10-26T08:04:59.200156+00:00", 2885, "Your mother is", "blastoporic", "", "Definition: of or relating to a blastopore", "Synonyms: blastoporal"]}
