@@ -1,1 +1,1 @@
-{"data": ["2021-10-26T18:04:31.167351+00:00", 2895, "Your mother is", "censorious", "Pronunciation: /s\u025bn\u02c8so\u028ari\u0259s/", "Definition: harshly critical or expressing censure", ""]}
+{"data": ["2021-10-26T19:04:29.973405+00:00", 2896, "Your mother is", "oblate", "Pronunciation: /\u02c8\u0251ble\u026at/", "Definition: having the equatorial diameter greater than the polar diameter; being flattened at the poles", "Synonyms: pumpkin-shaped"]}
