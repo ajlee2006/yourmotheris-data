@@ -1,1 +1,1 @@
-{"data": ["2021-10-26T11:01:51.412777+00:00", 2888, "Your mother is", "flightless", "Pronunciation: /\u02c8fla\u026atl\u026as/", "Definition: incapable of flying", ""]}
+{"data": ["2021-10-26T12:05:00.185599+00:00", 2889, "Your mother is", "neuronal", "", "Definition: of or relating to neurons", "Synonyms: neural, neuronic"]}
