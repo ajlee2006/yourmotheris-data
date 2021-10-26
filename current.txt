@@ -1,1 +1,1 @@
-{"data": ["2021-10-26T04:02:16.319244+00:00", 2881, "Your mother is", "severable", "Pronunciation: /\u02c8s\u025bv\u0259r\u0259b\u0259l/", "Definition: capable of being divided or dissociated", "Synonyms: dissociable, separable"]}
+{"data": ["2021-10-26T05:02:30.748913+00:00", 2882, "Your mother is", "boisterous", "Pronunciation: /\u02c8b\u0254\u026ast\u0259r\u0259s/", "Definition: violently agitated and turbulent", "Synonyms: fierce, rough"]}
