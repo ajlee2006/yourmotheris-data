@@ -1,1 +1,1 @@
-{"data": ["2021-10-26T15:03:59.703150+00:00", 2892, "Your mother is", "everyday", "Pronunciation: /\u02c8\u025bvri\u02ccde\u026a/", "Definition: appropriate for ordinary or routine occasions", "Synonyms: casual, daily"]}
+{"data": ["2021-10-26T16:04:43.616924+00:00", 2893, "Your mother is", "substantiative", "Similar to: supportive", "Definition: serving to support or corroborate", "Synonyms: collateral, confirmative, confirmatory, confirming, corroborative, corroboratory, substantiating, validating, validatory, verificatory, verifying"]}
