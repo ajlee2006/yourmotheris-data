@@ -1,1 +1,1 @@
-{"data": ["2021-10-26T21:02:45.393940+00:00", 2898, "Your mother is", "dirty-faced", "Pronunciation: /\u02c8d\u025crti\u02ccfe\u026ast/", "Definition: having a dirty face", ""]}
+{"data": ["2021-10-26T22:03:54.893748+00:00", 2899, "Your mother is", "maltreated", "Pronunciation: /m\u00e6l\u02c8trit\u026ad/", "Definition: subjected to cruel treatment", "Synonyms: abused, ill-treated, mistreated"]}
