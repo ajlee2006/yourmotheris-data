@@ -1,1 +1,1 @@
-{"data": ["2021-10-25T23:01:31.778920+00:00", 2876, "Your mother is", "footling", "Pronunciation: /\u02c8f\u028atl\u026a\u014b/", "Definition: (informal) small and of little importance", "Synonyms: fiddling, lilliputian, little, niggling, petty, picayune, piddling, piffling, trivial"]}
+{"data": ["2021-10-26T00:04:34.304542+00:00", 2877, "Your mother is", "multifaceted", "Pronunciation: /\u02ccm\u0259lti\u02c8f\u00e6s\u026at\u026ad/", "Definition: having many aspects or qualities", "Synonyms: many-sided, miscellaneous, multifarious"]}
