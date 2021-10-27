@@ -1,1 +1,1 @@
-{"data": ["2021-10-27T20:04:11.994912+00:00", 2921, "Your mother is", "depicted", "Pronunciation: /d\u026a\u02c8p\u026akt\u028cd/", "Definition: represented graphically by sketch or design or lines", "Synonyms: pictured, portrayed"]}
+{"data": ["2021-10-27T21:06:06.205640+00:00", 2922, "Your mother is", "apneic", "", "Definition: of or relating to apnea", "Synonyms: apnoeic"]}
