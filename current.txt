@@ -1,1 +1,1 @@
-{"data": ["2021-10-27T12:03:27.106657+00:00", 2913, "Your mother is", "shamed", "Pronunciation: /\u0283e\u026amd/", "Definition: showing a sense of guilt", "Synonyms: guilty, hangdog, shamefaced"]}
+{"data": ["2021-10-27T13:05:09.451849+00:00", 2914, "Your mother is", "geological", "Pronunciation: /\u02ccd\u0292i\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to or based on geology", "Synonyms: geologic"]}
