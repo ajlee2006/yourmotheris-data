@@ -1,1 +1,1 @@
-{"data": ["2021-10-27T00:04:08.575268+00:00", 2901, "Your mother is", "unmentionable", "Pronunciation: /\u0259n\u02c8m\u025bn\u0283\u0259n\u0259b\u0259l/", "Definition: unsuitable or forbidden as a topic of conversation", ""]}
+{"data": ["2021-10-27T01:06:01.701817+00:00", 2902, "Your mother is", "perpetual", "Pronunciation: /p\u0259r\u02c8p\u025b\u02a7u\u0259l/", "Definition: uninterrupted in time and indefinitely long continuing", "Synonyms: ceaseless, constant, incessant, never-ending, unceasing, unremitting"]}
