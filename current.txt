@@ -1,1 +1,1 @@
-{"data": ["2021-10-27T11:04:09.324945+00:00", 2912, "Your mother is", "malleable", "Pronunciation: /\u02c8m\u00e6li\u0259b\u0259l/", "Definition: easily influenced", "Synonyms: ductile"]}
+{"data": ["2021-10-27T12:03:27.106657+00:00", 2913, "Your mother is", "shamed", "Pronunciation: /\u0283e\u026amd/", "Definition: showing a sense of guilt", "Synonyms: guilty, hangdog, shamefaced"]}
