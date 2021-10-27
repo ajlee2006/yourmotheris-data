@@ -1,1 +1,1 @@
-{"data": ["2021-10-27T22:08:56.817999+00:00", 2923, "Your mother is", "unelaborate", "Similar to: plain", "Definition: not elaborate; lacking rich or complex detail", "Synonyms: inelaborate"]}
+{"data": ["2021-10-27T23:06:02.448306+00:00", 2924, "Your mother is", "postmortem", "Pronunciation: /po\u028ast\u02c8m\u0254rt\u0259m/", "Definition: occurring or done after death", "Synonyms: postmortal"]}
