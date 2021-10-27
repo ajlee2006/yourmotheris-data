@@ -1,1 +1,1 @@
-{"data": ["2021-10-27T01:06:01.701817+00:00", 2902, "Your mother is", "perpetual", "Pronunciation: /p\u0259r\u02c8p\u025b\u02a7u\u0259l/", "Definition: uninterrupted in time and indefinitely long continuing", "Synonyms: ceaseless, constant, incessant, never-ending, unceasing, unremitting"]}
+{"data": ["2021-10-27T02:06:21.695600+00:00", 2903, "Your mother is", "king-sized", "Pronunciation: /k\u026a\u014b-sa\u026azd/", "Definition: extra large", "Synonyms: king-size"]}
