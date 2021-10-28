@@ -1,1 +1,1 @@
-{"data": ["2021-10-28T10:05:20.216646+00:00", 2935, "Your mother is", "purple-flowered", "Pronunciation: /\u02c8p\u025crp\u0259l-\u02c8fla\u028a\u0259rd/", "Definition: having purple flowers", ""]}
+{"data": ["2021-10-28T11:02:21.126715+00:00", 2936, "Your mother is", "tricolor", "Pronunciation: /\u02c8tra\u026a\u02cck\u0259l\u0259r/", "Definition: having or involving three colors", "Synonyms: trichromatic, trichrome"]}
