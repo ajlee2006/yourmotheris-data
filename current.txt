@@ -1,1 +1,1 @@
-{"data": ["2021-10-28T08:04:11.045703+00:00", 2933, "Your mother is", "moony", "Pronunciation: /\u02c8muni/", "Definition: lighted by moonlight", "Synonyms: moonlit"]}
+{"data": ["2021-10-28T09:04:49.790971+00:00", 2934, "Your mother is", "flushed", "Pronunciation: /fl\u028c\u0283t/", "Definition: having the pinkish flush of health", "Synonyms: rose-cheeked, rosy, rosy-cheeked"]}
