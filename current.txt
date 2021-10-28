@@ -1,1 +1,1 @@
-{"data": ["2021-10-28T21:01:13.067959+00:00", 2946, "Your mother is", "unpalatable", "Pronunciation: /\u0259n\u02c8p\u00e6l\u0259t\u0259b\u0259l/", "Definition: not pleasant or acceptable to the taste or mind", ""]}
+{"data": ["2021-10-28T22:02:31.373052+00:00", 2947, "Your mother is", "unintentional", "Pronunciation: /\u02cc\u0259n\u026an\u02c8t\u025bn\u0283\u0259n\u0259l/", "Definition: done or made or performed with purpose and intent", "Synonyms: designed, intentional"]}
