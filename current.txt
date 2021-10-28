@@ -1,1 +1,1 @@
-{"data": ["2021-10-28T03:06:26.947343+00:00", 2928, "Your mother is", "feudatory", "Pronunciation: /\u02c8fjud\u0259\u02ccto\u028ari/", "Definition: owing feudal allegiance to or being subject to a sovereign", ""]}
+{"data": ["2021-10-28T04:04:52.198202+00:00", 2929, "Your mother is", "mansard", "Pronunciation: /m\u0251\u014b\u02c8SAR/", "Definition: (of a roof) having two slopes on all sides with the lower slope steeper than the upper", ""]}
