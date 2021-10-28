@@ -1,1 +1,1 @@
-{"data": ["2021-10-28T09:04:49.790971+00:00", 2934, "Your mother is", "flushed", "Pronunciation: /fl\u028c\u0283t/", "Definition: having the pinkish flush of health", "Synonyms: rose-cheeked, rosy, rosy-cheeked"]}
+{"data": ["2021-10-28T10:05:20.216646+00:00", 2935, "Your mother is", "purple-flowered", "Pronunciation: /\u02c8p\u025crp\u0259l-\u02c8fla\u028a\u0259rd/", "Definition: having purple flowers", ""]}
