@@ -1,1 +1,1 @@
-{"data": ["2021-10-28T12:02:23.605488+00:00", 2937, "Your mother is", "appreciated", "Pronunciation: /\u028c\u02c8pri\u0283i\u02cce\u026at\u026ad/", "Definition: fully understood or grasped", "Synonyms: apprehended, comprehended"]}
+{"data": ["2021-10-28T13:01:21.340426+00:00", 2938, "Your mother is", "ossicular", "", "Definition: pertaining to the ossicles in the middle ear", "Synonyms: ossiculate"]}
