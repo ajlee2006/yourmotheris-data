@@ -1,1 +1,1 @@
-{"data": ["2021-10-28T04:04:52.198202+00:00", 2929, "Your mother is", "mansard", "Pronunciation: /m\u0251\u014b\u02c8SAR/", "Definition: (of a roof) having two slopes on all sides with the lower slope steeper than the upper", ""]}
+{"data": ["2021-10-28T05:03:49.655623+00:00", 2930, "Your mother is", "semi-prostrate", "Similar to: unerect", "Definition: imperfectly prostrate; prostrate for part of its length", ""]}
