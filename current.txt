@@ -1,1 +1,1 @@
-{"data": ["2021-10-28T22:02:31.373052+00:00", 2947, "Your mother is", "unintentional", "Pronunciation: /\u02cc\u0259n\u026an\u02c8t\u025bn\u0283\u0259n\u0259l/", "Definition: done or made or performed with purpose and intent", "Synonyms: designed, intentional"]}
+{"data": ["2021-10-28T23:02:48.950378+00:00", 2948, "Your mother is", "twiggy", "Pronunciation: /\u02c8tw\u026a\u0261i/", "Definition: thin as a twig", "Synonyms: twiglike"]}
