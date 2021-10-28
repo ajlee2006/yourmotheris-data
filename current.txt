@@ -1,1 +1,1 @@
-{"data": ["2021-10-28T13:01:21.340426+00:00", 2938, "Your mother is", "ossicular", "", "Definition: pertaining to the ossicles in the middle ear", "Synonyms: ossiculate"]}
+{"data": ["2021-10-28T14:05:25.412896+00:00", 2939, "Your mother is", "adamant", "Pronunciation: /\u02c8\u00e6d\u0259m\u0259nt/", "Definition: impervious to pleas, persuasion, requests, reason", "Synonyms: adamantine, inexorable, intransigent"]}
