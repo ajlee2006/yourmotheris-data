@@ -1,1 +1,1 @@
-{"data": ["2021-10-28T06:08:45.639764+00:00", 2931, "Your mother is", "rough-spoken", "Pronunciation: /\u02c8r\u0259f\u02ccspo\u028ak\u0259n/", "Definition: rude or uncouth in speech", ""]}
+{"data": ["2021-10-28T07:06:44.277020+00:00", 2932, "Your mother is", "foremost", "Pronunciation: /\u02c8fo\u028ar\u02ccmo\u028ast/", "Definition: ranking above all others", "Synonyms: first, world-class"]}
