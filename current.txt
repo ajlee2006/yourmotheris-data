@@ -1,1 +1,1 @@
-{"data": ["2021-10-28T00:08:43.796919+00:00", 2925, "Your mother is", "dishonorable", "Pronunciation: /d\u026as\u02c8\u0251n\u0259r\u0259b\u0259l/", "Definition: deceptive or fraudulent; disposed to cheat or defraud or deceive", "Synonyms: dishonest"]}
+{"data": ["2021-10-28T01:07:59.020926+00:00", 2926, "Your mother is", "platyrhinian", "", "Definition: of or related to New World monkeys having nostrils far apart or to people with broad noses", "Synonyms: broadnosed, platyrhine, platyrrhine, platyrrhinian, platyrrhinic"]}
