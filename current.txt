@@ -1,1 +1,1 @@
-{"data": ["2021-10-28T17:02:20.042423+00:00", 2942, "Your mother is", "unhurt", "Pronunciation: /\u028cn\u02c8h\u025drt/", "Definition: free from danger or injury", "Synonyms: safe and sound"]}
+{"data": ["2021-10-28T18:03:21.922887+00:00", 2943, "Your mother is", "probationary", "Pronunciation: /pro\u028a\u02c8be\u026a\u0283\u028cn\u02cc\u025bri/", "Definition: under terms not final or fully worked out or agreed upon", "Synonyms: provisional, provisionary, tentative"]}
