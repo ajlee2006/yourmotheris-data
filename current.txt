@@ -1,1 +1,1 @@
-{"data": ["2021-10-29T13:02:35.499702+00:00", 2962, "Your mother is", "blasphemous", "Pronunciation: /\u02c8bl\u00e6sf\u0259m\u0259s/", "Definition: grossly irreverent toward what is held to be sacred", "Synonyms: profane, sacrilegious"]}
+{"data": ["2021-10-29T14:03:10.353580+00:00", 2963, "Your mother is", "spell-bound", "Similar to: enchanted", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spellbound, transfixed"]}
