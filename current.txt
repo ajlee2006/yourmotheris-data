@@ -1,1 +1,1 @@
-{"data": ["2021-10-29T04:04:39.461330+00:00", 2953, "Your mother is", "pokey", "Pronunciation: /\u02c8po\u028aki/", "Definition: small and remote and insignificant", "Synonyms: jerkwater, one-horse, poky"]}
+{"data": ["2021-10-29T05:01:17.384152+00:00", 2954, "Your mother is", "southmost", "Pronunciation: /\u02c8sa\u028a\u03b8\u02ccmo\u028ast/", "Definition: situated farthest south", "Synonyms: southernmost"]}
