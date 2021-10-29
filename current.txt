@@ -1,1 +1,1 @@
-{"data": ["2021-10-29T14:03:10.353580+00:00", 2963, "Your mother is", "spell-bound", "Similar to: enchanted", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spellbound, transfixed"]}
+{"data": ["2021-10-29T15:03:33.591370+00:00", 2964, "Your mother is", "red-gray", "Similar to: achromatic", "Definition: of grey tinged with red", "Synonyms: red-grey, reddish-gray, reddish-grey"]}
