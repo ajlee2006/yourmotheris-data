@@ -1,1 +1,1 @@
-{"data": ["2021-10-29T22:02:12.535148+00:00", 2971, "Your mother is", "purging", "Pronunciation: /\u02c8p\u025drd\u0292\u026a\u014b/", "Definition: serving to purge or rid of sin", "Synonyms: purgatorial, purifying"]}
+{"data": ["2021-10-29T23:03:11.867077+00:00", 2972, "Your mother is", "titled", "Pronunciation: /\u02c8ta\u026at\u0259ld/", "Definition: belonging to the peerage", "Synonyms: coroneted, highborn"]}
