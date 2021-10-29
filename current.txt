@@ -1,1 +1,1 @@
-{"data": ["2021-10-29T19:03:11.999405+00:00", 2968, "Your mother is", "bigamous", "Pronunciation: /\u02c8b\u026a\u0261\u0259m\u0259s/", "Definition: of illegal marriage to a second person while legally married to a first", ""]}
+{"data": ["2021-10-29T20:03:09.928112+00:00", 2969, "Your mother is", "lacertilian", "Pronunciation: /\u02ccl\u00e6s\u0259r\u02c8t\u026ali\u0259n/", "Definition: of or relating to lizards", "Synonyms: saurian"]}
