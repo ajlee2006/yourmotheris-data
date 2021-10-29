@@ -1,1 +1,1 @@
-{"data": ["2021-10-29T01:04:04.300544+00:00", 2950, "Your mother is", "considerate", "Pronunciation: /k\u0259n\u02c8s\u026ad\u0259r\u026at/", "Definition: showing concern for the rights and feelings of others", ""]}
+{"data": ["2021-10-29T02:03:30.307846+00:00", 2951, "Your mother is", "parasitical", "Similar to: dependent", "Definition: of plants or persons; having the nature or habits of a parasite or leech; living off another", "Synonyms: bloodsucking, leechlike, parasitic"]}
