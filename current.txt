@@ -1,1 +1,1 @@
-{"data": ["2021-10-29T09:02:47.381006+00:00", 2958, "Your mother is", "exacting", "Pronunciation: /\u026a\u0261\u02c8z\u00e6kt\u026a\u014b/", "Definition: requiring precise accuracy", "Synonyms: exigent"]}
+{"data": ["2021-10-29T10:02:42.169706+00:00", 2959, "Your mother is", "wispy", "Pronunciation: /\u02c8w\u026aspi/", "Definition: thin and weak", "Synonyms: wisplike"]}
