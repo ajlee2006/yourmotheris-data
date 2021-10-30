@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T05:04:23.593886+00:00", 2978, "Your mother is", "incredulous", "Pronunciation: /\u026an\u02c8kr\u025bd\u0292\u0259l\u0259s/", "Definition: not disposed or willing to believe; unbelieving", ""]}
+{"data": ["2021-10-30T06:02:41.853541+00:00", 2979, "Your mother is", "out of work", "Similar to: unemployed", "Definition: not having a job", "Synonyms: idle, jobless"]}
