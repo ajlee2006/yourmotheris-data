@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T12:02:15.400494+00:00", 2985, "Your mother is", "implicative", "Pronunciation: /\u02c8\u026ampl\u0259\u02ccke\u026at\u026av/", "Definition: tending to suggest or imply", "Synonyms: suggestive"]}
+{"data": ["2021-10-30T13:02:35.148452+00:00", 2986, "Your mother is", "junior", "Pronunciation: /\u02c8d\u0292unj\u0259r/", "Definition: used of the third or next to final year in United States high school or college", "Synonyms: next-to-last, third-year"]}
