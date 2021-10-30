@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T10:03:11.038147+00:00", 2983, "Your mother is", "through", "Pronunciation: /\u03b8ru/", "Definition: having finished or arrived at completion", "Synonyms: done, through with"]}
+{"data": ["2021-10-30T11:02:29.753984+00:00", 2984, "Your mother is", "artiodactyl", "Pronunciation: /\u02cc\u0251rtio\u028a\u02c8d\u00e6kt\u026al/", "Definition: of or relating to or belonging to mammals of the order Artiodactyla", "Synonyms: artiodactylous, even-toed"]}
