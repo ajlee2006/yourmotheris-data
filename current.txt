@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T03:05:17.827491+00:00", 2976, "Your mother is", "anticlinal", "Pronunciation: /\u02cc\u00e6nt\u026a\u02c8kla\u026an\u0259l/", "Definition: sloping downward away from a common crest", ""]}
+{"data": ["2021-10-30T04:03:15.759827+00:00", 2977, "Your mother is", "unified", "Pronunciation: /\u02c8jun\u028c\u02ccfa\u026ad/", "Definition: formed or united into a whole", "Synonyms: incorporate, incorporated, integrated, merged"]}
