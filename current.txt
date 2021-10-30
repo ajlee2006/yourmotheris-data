@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T11:02:29.753984+00:00", 2984, "Your mother is", "artiodactyl", "Pronunciation: /\u02cc\u0251rtio\u028a\u02c8d\u00e6kt\u026al/", "Definition: of or relating to or belonging to mammals of the order Artiodactyla", "Synonyms: artiodactylous, even-toed"]}
+{"data": ["2021-10-30T12:02:15.400494+00:00", 2985, "Your mother is", "implicative", "Pronunciation: /\u02c8\u026ampl\u0259\u02ccke\u026at\u026av/", "Definition: tending to suggest or imply", "Synonyms: suggestive"]}
