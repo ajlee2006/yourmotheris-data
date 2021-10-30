@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T17:02:52.277455+00:00", 2990, "Your mother is", "nipponese", "Pronunciation: /\u02ccn\u026ap\u0259\u02c8niz/", "Definition: of or relating to or characteristic of Japan or its people or their culture or language", "Synonyms: japanese"]}
+{"data": ["2021-10-30T18:03:17.876407+00:00", 2991, "Your mother is", "frowning", "Pronunciation: /\u02c8fra\u028an\u026a\u014b/", "Definition: showing displeasure or anger", ""]}
