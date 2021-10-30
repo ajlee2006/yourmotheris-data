@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T16:02:43.805673+00:00", 2989, "Your mother is", "telluric", "Pronunciation: /t\u025b\u02c8l\u028ar\u026ak/", "Definition: of or relating to or inhabiting the land as opposed to the sea or air", "Synonyms: tellurian, terrene, terrestrial"]}
+{"data": ["2021-10-30T17:02:52.277455+00:00", 2990, "Your mother is", "nipponese", "Pronunciation: /\u02ccn\u026ap\u0259\u02c8niz/", "Definition: of or relating to or characteristic of Japan or its people or their culture or language", "Synonyms: japanese"]}
