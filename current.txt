@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T18:03:17.876407+00:00", 2991, "Your mother is", "frowning", "Pronunciation: /\u02c8fra\u028an\u026a\u014b/", "Definition: showing displeasure or anger", ""]}
+{"data": ["2021-10-30T19:03:17.563662+00:00", 2992, "Your mother is", "grubby", "Pronunciation: /\u02c8gr\u0259bi/", "Definition: thickly covered with ingrained dirt or soot", "Synonyms: begrimed, dingy, grimy, grungy, raunchy"]}
