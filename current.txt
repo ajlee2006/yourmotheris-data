@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T02:05:28.354003+00:00", 2975, "Your mother is", "known", "Pronunciation: /no\u028an/", "Definition: apprehended with certainty", ""]}
+{"data": ["2021-10-30T03:05:17.827491+00:00", 2976, "Your mother is", "anticlinal", "Pronunciation: /\u02cc\u00e6nt\u026a\u02c8kla\u026an\u0259l/", "Definition: sloping downward away from a common crest", ""]}
