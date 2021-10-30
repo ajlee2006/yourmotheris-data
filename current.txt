@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T00:06:37.454042+00:00", 2973, "Your mother is", "entrepreneurial", "Pronunciation: /\u02cc\u0251ntr\u028cpr\u028c\u02c8n\u025dri\u028cl/", "Definition: willing to take risks in order to make a profit", ""]}
+{"data": ["2021-10-30T01:03:29.496558+00:00", 2974, "Your mother is", "specular", "Pronunciation: /\u02c8sp\u025bkj\u0259l\u0259r/", "Definition: capable of reflecting light like a mirror", "Synonyms: mirrorlike"]}
