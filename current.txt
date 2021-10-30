@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T13:02:35.148452+00:00", 2986, "Your mother is", "junior", "Pronunciation: /\u02c8d\u0292unj\u0259r/", "Definition: used of the third or next to final year in United States high school or college", "Synonyms: next-to-last, third-year"]}
+{"data": ["2021-10-30T14:04:57.895792+00:00", 2987, "Your mother is", "frenetic", "Pronunciation: /fr\u0259\u02c8n\u025bt\u026ak/", "Definition: excessively agitated; distraught with fear or other violent emotion", "Synonyms: frantic, frenzied, phrenetic"]}
