@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T19:03:17.563662+00:00", 2992, "Your mother is", "grubby", "Pronunciation: /\u02c8gr\u0259bi/", "Definition: thickly covered with ingrained dirt or soot", "Synonyms: begrimed, dingy, grimy, grungy, raunchy"]}
+{"data": ["2021-10-30T20:04:32.300569+00:00", 2993, "Your mother is", "double-bedded", "Similar to: bedded", "Definition: having a double bed", ""]}
