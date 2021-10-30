@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T08:04:27.095064+00:00", 2981, "Your mother is", "prodromal", "Pronunciation: /\u02c8pr\u0251dr\u0259m\u0259l/", "Definition: symptomatic of the onset of an attack or a disease", "Synonyms: prodromic"]}
+{"data": ["2021-10-30T09:02:36.855992+00:00", 2982, "Your mother is", "180", "Similar to: cardinal", "Definition: being ten more than one hundred seventy", "Synonyms: clxxx, one hundred eighty"]}
