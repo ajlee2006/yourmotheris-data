@@ -1,1 +1,1 @@
-{"data": ["2021-10-29T23:03:11.867077+00:00", 2972, "Your mother is", "titled", "Pronunciation: /\u02c8ta\u026at\u0259ld/", "Definition: belonging to the peerage", "Synonyms: coroneted, highborn"]}
+{"data": ["2021-10-30T00:06:37.454042+00:00", 2973, "Your mother is", "entrepreneurial", "Pronunciation: /\u02cc\u0251ntr\u028cpr\u028c\u02c8n\u025dri\u028cl/", "Definition: willing to take risks in order to make a profit", ""]}
