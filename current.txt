@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T15:03:17.337037+00:00", 2988, "Your mother is", "steamy", "Pronunciation: /\u02c8stimi/", "Definition: filled with steam or emitting moisture in the form of vapor or mist", "Synonyms: steaming"]}
+{"data": ["2021-10-30T16:02:43.805673+00:00", 2989, "Your mother is", "telluric", "Pronunciation: /t\u025b\u02c8l\u028ar\u026ak/", "Definition: of or relating to or inhabiting the land as opposed to the sea or air", "Synonyms: tellurian, terrene, terrestrial"]}
