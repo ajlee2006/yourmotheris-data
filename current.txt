@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T20:04:32.300569+00:00", 2993, "Your mother is", "double-bedded", "Similar to: bedded", "Definition: having a double bed", ""]}
+{"data": ["2021-10-30T21:04:20.831401+00:00", 2994, "Your mother is", "vesicant", "Pronunciation: /\u02c8v\u025bs\u0259k-\u0251nt/", "Definition: causing blisters", "Synonyms: vesicatory"]}
