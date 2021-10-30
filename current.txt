@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T07:02:22.192843+00:00", 2980, "Your mother is", "totalistic", "", "Definition: of or relating to the principles of totalitarianism according to which the state regulates every realm of life", "Synonyms: totalitarian"]}
+{"data": ["2021-10-30T08:04:27.095064+00:00", 2981, "Your mother is", "prodromal", "Pronunciation: /\u02c8pr\u0251dr\u0259m\u0259l/", "Definition: symptomatic of the onset of an attack or a disease", "Synonyms: prodromic"]}
