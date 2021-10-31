@@ -1,1 +1,1 @@
-{"data": ["2021-10-31T15:02:26.279699+00:00", 3012, "Your mother is", "unprecedented", "Pronunciation: /\u0259n\u02c8pr\u025bs\u026a\u02ccd\u025bnt\u026ad/", "Definition: having no precedent; novel", ""]}
+{"data": ["2021-10-31T16:03:14.541031+00:00", 3013, "Your mother is", "folding", "Pronunciation: /\u02c8fo\u028ald\u026a\u014b/", "Definition: capable of being folded up and stored", "Synonyms: foldable, foldaway"]}
