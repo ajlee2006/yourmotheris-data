@@ -1,1 +1,1 @@
-{"data": ["2021-10-31T11:04:23.386493+00:00", 3008, "Your mother is", "tiring", "Pronunciation: /\u02c8ta\u026ar\u026a\u014b/", "Definition: producing exhaustion", "Synonyms: exhausting, wearing, wearying"]}
+{"data": ["2021-10-31T12:04:53.953133+00:00", 3009, "Your mother is", "elemental", "Pronunciation: /\u02cc\u025bl\u0259\u02c8m\u025bnt\u0259l/", "Definition: of or being the essential or basic part", "Synonyms: basal, elementary, primary"]}
