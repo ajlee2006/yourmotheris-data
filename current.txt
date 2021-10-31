@@ -1,1 +1,1 @@
-{"data": ["2021-10-31T20:00:43.641499+00:00", 3017, "Your mother is", "moderate-size", "Similar to: sized", "Definition: intermediate in size", "Synonyms: medium-size, medium-sized, moderate-sized"]}
+{"data": ["2021-10-31T21:02:30.372729+00:00", 3018, "Your mother is", "rationed", "Pronunciation: /\u02c8r\u00e6\u0283\u028cnd/", "Definition: distributed equitably in limited individual portions", ""]}
