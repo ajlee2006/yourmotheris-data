@@ -1,1 +1,1 @@
-{"data": ["2021-10-31T21:02:30.372729+00:00", 3018, "Your mother is", "rationed", "Pronunciation: /\u02c8r\u00e6\u0283\u028cnd/", "Definition: distributed equitably in limited individual portions", ""]}
+{"data": ["2021-10-31T22:03:43.211031+00:00", 3019, "Your mother is", "parenthetic", "Pronunciation: /\u02ccp\u00e6r\u0259n\u02c8\u03b8\u025bt\u026ak/", "Definition: qualifying or explaining; placed or as if placed in parentheses", "Synonyms: parenthetical"]}
