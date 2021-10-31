@@ -1,1 +1,1 @@
-{"data": ["2021-10-31T12:04:53.953133+00:00", 3009, "Your mother is", "elemental", "Pronunciation: /\u02cc\u025bl\u0259\u02c8m\u025bnt\u0259l/", "Definition: of or being the essential or basic part", "Synonyms: basal, elementary, primary"]}
+{"data": ["2021-10-31T13:01:12.372831+00:00", 3010, "Your mother is", "accoutred", "Similar to: equipped", "Definition: provided with necessary articles of equipment for a specialized purpose (especially military)", "Synonyms: accoutered"]}
