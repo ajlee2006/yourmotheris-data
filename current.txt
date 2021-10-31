@@ -1,1 +1,1 @@
-{"data": ["2021-10-31T16:03:14.541031+00:00", 3013, "Your mother is", "folding", "Pronunciation: /\u02c8fo\u028ald\u026a\u014b/", "Definition: capable of being folded up and stored", "Synonyms: foldable, foldaway"]}
+{"data": ["2021-10-31T17:04:48.948643+00:00", 3014, "Your mother is", "multilingual", "Pronunciation: /\u02ccm\u0259lt\u026a\u02c8l\u026a\u014bgw\u0259l/", "Definition: using or knowing more than one language", ""]}
