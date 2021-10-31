@@ -1,1 +1,1 @@
-{"data": ["2021-10-31T02:02:08.872804+00:00", 2999, "Your mother is", "pre-existing", "Similar to: antecedent", "Definition: existing previously or before something", "Synonyms: pre-existent, preexistent, preexisting"]}
+{"data": ["2021-10-31T03:02:45.683314+00:00", 3000, "Your mother is", "grouchy", "Pronunciation: /gRu\u02c8\u0283i/", "Definition: annoyed and irritable", "Synonyms: bad-tempered, crabbed, crabby, cross, fussy, grumpy, ill-tempered"]}
