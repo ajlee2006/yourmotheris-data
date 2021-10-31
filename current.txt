@@ -1,1 +1,1 @@
-{"data": ["2021-10-31T14:03:52.119904+00:00", 3011, "Your mother is", "shield-shaped", "Pronunciation: /\u0283ild-\u0283e\u026apt/", "Definition: (of a leaf shape) round, with the stem attached near the center of the lower surface rather than the margin (as a nasturtium leaf for example)", "Synonyms: peltate"]}
+{"data": ["2021-10-31T15:02:26.279699+00:00", 3012, "Your mother is", "unprecedented", "Pronunciation: /\u0259n\u02c8pr\u025bs\u026a\u02ccd\u025bnt\u026ad/", "Definition: having no precedent; novel", ""]}
