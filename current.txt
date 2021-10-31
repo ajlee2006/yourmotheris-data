@@ -1,1 +1,1 @@
-{"data": ["2021-10-31T19:04:22.868594+00:00", 3016, "Your mother is", "loath", "Pronunciation: /lo\u028a\u03b8/", "Definition: unwillingness to do something contrary to your custom", "Synonyms: loth, reluctant"]}
+{"data": ["2021-10-31T20:00:43.641499+00:00", 3017, "Your mother is", "moderate-size", "Similar to: sized", "Definition: intermediate in size", "Synonyms: medium-size, medium-sized, moderate-sized"]}
