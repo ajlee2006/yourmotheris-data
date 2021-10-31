@@ -1,1 +1,1 @@
-{"data": ["2021-10-31T08:02:18.064733+00:00", 3005, "Your mother is", "water-insoluble", "Similar to: indissoluble", "Definition: not soluble in water", "Synonyms: non-water-soluble"]}
+{"data": ["2021-10-31T09:03:45.850953+00:00", 3006, "Your mother is", "sceptred", "Similar to: authorised", "Definition: invested with legal power or official authority especially as symbolized by having a scepter", "Synonyms: empowered, sceptered"]}
