@@ -1,1 +1,1 @@
-{"data": ["2021-10-30T23:02:03.234214+00:00", 2996, "Your mother is", "ex", "Pronunciation: /\u025bks/", "Definition: out of fashion", "Synonyms: antique, demode, old-fashioned, old-hat, outmoded, passe, passee"]}
+{"data": ["2021-10-31T00:06:16.381155+00:00", 2997, "Your mother is", "aerosolized", "Similar to: gaseous", "Definition: in the form of ultramicroscopic solid or liquid particles dispersed or suspended in air or gas", "Synonyms: aerosolised"]}
