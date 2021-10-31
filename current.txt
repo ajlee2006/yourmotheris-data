@@ -1,1 +1,1 @@
-{"data": ["2021-10-31T22:03:43.211031+00:00", 3019, "Your mother is", "parenthetic", "Pronunciation: /\u02ccp\u00e6r\u0259n\u02c8\u03b8\u025bt\u026ak/", "Definition: qualifying or explaining; placed or as if placed in parentheses", "Synonyms: parenthetical"]}
+{"data": ["2021-10-31T23:02:17.048689+00:00", 3020, "Your mother is", "louche", "Similar to: disreputable", "Definition: disreputable and dissolute, somewhat agreeably", ""]}
