@@ -1,1 +1,1 @@
-{"data": ["2021-10-31T01:05:05.739857+00:00", 2998, "Your mother is", "bathetic", "Pronunciation: /b\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: effusively or insincerely emotional", "Synonyms: drippy, hokey, kitschy, maudlin, mawkish, mushy, sappy, schmaltzy, schmalzy, sentimental, slushy, soppy, soupy"]}
+{"data": ["2021-10-31T02:02:08.872804+00:00", 2999, "Your mother is", "pre-existing", "Similar to: antecedent", "Definition: existing previously or before something", "Synonyms: pre-existent, preexistent, preexisting"]}
