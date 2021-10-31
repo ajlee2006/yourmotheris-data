@@ -1,1 +1,1 @@
-{"data": ["2021-10-31T07:03:15.128664+00:00", 3004, "Your mother is", "pentagonal", "Pronunciation: /p\u025bn\u02c8t\u00e6\u0261\u0259n\u0259l/", "Definition: of or relating to or shaped like a pentagon", "Synonyms: pentangular"]}
+{"data": ["2021-10-31T08:02:18.064733+00:00", 3005, "Your mother is", "water-insoluble", "Similar to: indissoluble", "Definition: not soluble in water", "Synonyms: non-water-soluble"]}
