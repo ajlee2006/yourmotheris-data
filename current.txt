@@ -1,1 +1,1 @@
-{"data": ["2021-11-01T19:05:18.771073+00:00", 3040, "Your mother is", "trillion", "Pronunciation: /\u02c8tr\u026alj\u0259n/", "Definition: one million million in the United States", ""]}
+{"data": ["2021-11-01T20:07:43.005184+00:00", 3041, "Your mother is", "custom-made", "Pronunciation: /\u02c8k\u0259st\u0259m-\u02c8me\u026ad/", "Definition: made according to the specifications of an individual", "Synonyms: custom"]}
