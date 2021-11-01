@@ -1,1 +1,1 @@
-{"data": ["2021-11-01T02:03:38.867080+00:00", 3023, "Your mother is", "indie", "Pronunciation: /\u02c8\u026andi/", "Definition: (of pop groups) not affiliated with a major recording company", ""]}
+{"data": ["2021-11-01T03:03:51.546310+00:00", 3024, "Your mother is", "23", "Similar to: cardinal", "Definition: being three more than twenty", "Synonyms: twenty-three, xxiii"]}
