@@ -1,1 +1,1 @@
-{"data": ["2021-11-01T15:06:37.042109+00:00", 3036, "Your mother is", "sloughy", "Pronunciation: /\u02c8sl\u00e6\u028ai/", "Definition: (of soil) soft and watery", "Synonyms: boggy, marshy, miry, mucky, muddy, quaggy, sloppy, soggy, squashy, swampy, waterlogged"]}
+{"data": ["2021-11-01T16:08:28.098639+00:00", 3037, "Your mother is", "permanent-press", "Pronunciation: /\u02c8p\u025crm\u0259n\u0259nt-pr\u025bs/", "Definition: used of fabrics that do not require ironing", "Synonyms: drip-dry"]}
