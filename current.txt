@@ -1,1 +1,1 @@
-{"data": ["2021-11-01T01:05:03.191792+00:00", 3022, "Your mother is", "unlearned", "Pronunciation: /\u0259n\u02c8l\u025crn\u026ad/", "Definition: uneducated in general; lacking knowledge or sophistication", "Synonyms: ignorant, nescient, unlettered"]}
+{"data": ["2021-11-01T02:03:38.867080+00:00", 3023, "Your mother is", "indie", "Pronunciation: /\u02c8\u026andi/", "Definition: (of pop groups) not affiliated with a major recording company", ""]}
