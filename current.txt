@@ -1,1 +1,1 @@
-{"data": ["2021-11-01T14:07:28.832800+00:00", 3035, "Your mother is", "smoothed", "Pronunciation: /smu\u00f0d/", "Definition: made smooth by ironing", "Synonyms: smoothened"]}
+{"data": ["2021-11-01T15:06:37.042109+00:00", 3036, "Your mother is", "sloughy", "Pronunciation: /\u02c8sl\u00e6\u028ai/", "Definition: (of soil) soft and watery", "Synonyms: boggy, marshy, miry, mucky, muddy, quaggy, sloppy, soggy, squashy, swampy, waterlogged"]}
