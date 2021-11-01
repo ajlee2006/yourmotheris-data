@@ -1,1 +1,1 @@
-{"data": ["2021-11-01T21:04:08.944149+00:00", 3042, "Your mother is", "nearsighted", "Pronunciation: /ni\u0259r\u02c8sa\u026at\u026ad/", "Definition: unable to see distant objects clearly", "Synonyms: myopic, shortsighted"]}
+{"data": ["2021-11-01T22:03:30.934483+00:00", 3043, "Your mother is", "debilitated", "Pronunciation: /d\u028c\u02c8b\u026al\u028c\u02ccte\u026at\u026ad/", "Definition: lacking energy or vitality", "Synonyms: adynamic, asthenic, enervated"]}
