@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T04:03:09.987925+00:00", 3049, "Your mother is", "hunky-dory", "Pronunciation: /\u02c8h\u0259\u014bki\u02c8do\u028ari/", "Definition: being satisfactory or in satisfactory condition", "Synonyms: all right, cool, fine, o.k., ok, okay"]}
+{"data": ["2021-11-02T05:03:35.412685+00:00", 3050, "Your mother is", "tasty", "Pronunciation: /\u02c8te\u026asti/", "Definition: pleasing to the sense of taste", ""]}
