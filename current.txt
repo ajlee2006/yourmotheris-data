@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T22:07:01.981825+00:00", 3067, "Your mother is", "witting", "Pronunciation: /\u02c8w\u026at\u026a\u014b/", "Definition: intentionally conceived", "Synonyms: conscious"]}
+{"data": ["2021-11-02T23:04:40.262272+00:00", 3068, "Your mother is", "international", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8n\u00e6\u0283\u0259n\u0259l/", "Definition: from or between other countries", "Synonyms: external, outside"]}
