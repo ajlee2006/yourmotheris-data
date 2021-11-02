@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T18:08:36.997026+00:00", 3063, "Your mother is", "advised", "Pronunciation: /\u00e6d\u02c8va\u026azd/", "Definition: having the benefit of careful prior consideration or counsel", "Synonyms: well-advised"]}
+{"data": ["2021-11-02T19:06:06.299828+00:00", 3064, "Your mother is", "ungarbed", "Similar to: unclothed", "Definition: having removed clothing", "Synonyms: unappareled, unattired, unclad, undressed, ungarmented"]}
