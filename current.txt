@@ -1,1 +1,1 @@
-{"data": ["2021-11-01T23:04:59.949655+00:00", 3044, "Your mother is", "correct", "Pronunciation: /k\u0259\u02c8r\u025bkt/", "Definition: correct in opinion or judgment", "Synonyms: right"]}
+{"data": ["2021-11-02T00:06:26.737704+00:00", 3045, "Your mother is", "trifid", "Pronunciation: /\u02c8tra\u026af\u026ad/", "Definition: divided into three lobes", ""]}
