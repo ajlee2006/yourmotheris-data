@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T15:08:38.464852+00:00", 3060, "Your mother is", "attempted", "Pronunciation: /\u028c\u02c8t\u025bmpt\u028cd/", "Definition: tried unsuccessfully", ""]}
+{"data": ["2021-11-02T16:08:13.787005+00:00", 3061, "Your mother is", "unanticipated", "Pronunciation: /\u02cc\u0259n\u00e6n\u02c8t\u026as\u026a\u02ccpe\u026at\u026ad/", "Definition: not anticipated", "Synonyms: out of the blue, unforeseen, unlooked-for, unseen"]}
