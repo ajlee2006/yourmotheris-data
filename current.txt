@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T10:03:57.425174+00:00", 3055, "Your mother is", "orientated", "Pronunciation: /\u02c8\u0254ri\u028cn\u02ccte\u026at\u026ad/", "Definition: adjusted or located in relation to surroundings or circumstances; sometimes used in combination", "Synonyms: oriented"]}
+{"data": ["2021-11-02T11:04:01.403566+00:00", 3056, "Your mother is", "lingulate", "Pronunciation: /\u02c8l\u026a\u014b\u0261j\u0259\u02ccle\u026at/", "Definition: shaped like a tongue", "Synonyms: tongue-shaped"]}
