@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T13:05:33.722500+00:00", 3058, "Your mother is", "unresolvable", "Pronunciation: /\u02cc\u0259nri\u02c8z\u0251lv\u0259b\u0259l/", "Definition: not easily solved", "Synonyms: insolvable, unsoluble, unsolvable"]}
+{"data": ["2021-11-02T14:05:16.719624+00:00", 3059, "Your mother is", "operculated", "", "Definition: having an operculum", "Synonyms: operculate"]}
