@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T11:04:01.403566+00:00", 3056, "Your mother is", "lingulate", "Pronunciation: /\u02c8l\u026a\u014b\u0261j\u0259\u02ccle\u026at/", "Definition: shaped like a tongue", "Synonyms: tongue-shaped"]}
+{"data": ["2021-11-02T12:07:19.275575+00:00", 3057, "Your mother is", "unplayful", "", "Definition: completely lacking in playfulness", "Synonyms: serious, sober"]}
