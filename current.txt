@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T02:05:51.451061+00:00", 3047, "Your mother is", "overlying", "Pronunciation: /\u02cco\u028av\u0259r\u02c8la\u026a\u026a\u014b/", "Definition: placed on or over something else", "Synonyms: superimposed"]}
+{"data": ["2021-11-02T03:04:57.347293+00:00", 3048, "Your mother is", "37", "Similar to: cardinal", "Definition: being seven more than thirty", "Synonyms: thirty-seven, xxxvii"]}
