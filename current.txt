@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T07:03:18.419092+00:00", 3052, "Your mother is", "energy-absorbing", "", "Definition: (of a nuclear reaction) occurring with absorption of energy", "Synonyms: endoergic"]}
+{"data": ["2021-11-02T08:03:33.035039+00:00", 3053, "Your mother is", "falcate", "Pronunciation: /\u02c8f\u00e6lke\u026at/", "Definition: curved like a sickle", "Synonyms: falciform, sickle-shaped"]}
