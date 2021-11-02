@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T05:03:35.412685+00:00", 3050, "Your mother is", "tasty", "Pronunciation: /\u02c8te\u026asti/", "Definition: pleasing to the sense of taste", ""]}
+{"data": ["2021-11-02T06:03:42.122220+00:00", 3051, "Your mother is", "millennian", "", "Definition: relating to a millennium or span of a thousand years", "Synonyms: millennial"]}
