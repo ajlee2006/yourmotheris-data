@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T00:06:26.737704+00:00", 3045, "Your mother is", "trifid", "Pronunciation: /\u02c8tra\u026af\u026ad/", "Definition: divided into three lobes", ""]}
+{"data": ["2021-11-02T01:06:06.250549+00:00", 3046, "Your mother is", "fully fashioned", "Similar to: shapely", "Definition: knitted to fit the shape of the body", "Synonyms: full-fashioned"]}
