@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T16:08:13.787005+00:00", 3061, "Your mother is", "unanticipated", "Pronunciation: /\u02cc\u0259n\u00e6n\u02c8t\u026as\u026a\u02ccpe\u026at\u026ad/", "Definition: not anticipated", "Synonyms: out of the blue, unforeseen, unlooked-for, unseen"]}
+{"data": ["2021-11-02T17:06:39.860413+00:00", 3062, "Your mother is", "mephistophelian", "Similar to: evil", "Definition: showing the cunning or ingenuity or wickedness typical of a devil", "Synonyms: devilish, diabolic, diabolical, mephistophelean"]}
