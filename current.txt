@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T03:04:57.347293+00:00", 3048, "Your mother is", "37", "Similar to: cardinal", "Definition: being seven more than thirty", "Synonyms: thirty-seven, xxxvii"]}
+{"data": ["2021-11-02T04:03:09.987925+00:00", 3049, "Your mother is", "hunky-dory", "Pronunciation: /\u02c8h\u0259\u014bki\u02c8do\u028ari/", "Definition: being satisfactory or in satisfactory condition", "Synonyms: all right, cool, fine, o.k., ok, okay"]}
