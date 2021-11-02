@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T08:03:33.035039+00:00", 3053, "Your mother is", "falcate", "Pronunciation: /\u02c8f\u00e6lke\u026at/", "Definition: curved like a sickle", "Synonyms: falciform, sickle-shaped"]}
+{"data": ["2021-11-02T09:04:06.350848+00:00", 3054, "Your mother is", "late-ripening", "Similar to: autumnal", "Definition: of plants that ripen in the fall", ""]}
