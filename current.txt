@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T19:06:06.299828+00:00", 3064, "Your mother is", "ungarbed", "Similar to: unclothed", "Definition: having removed clothing", "Synonyms: unappareled, unattired, unclad, undressed, ungarmented"]}
+{"data": ["2021-11-02T20:07:34.284915+00:00", 3065, "Your mother is", "serflike", "Similar to: unfree", "Definition: like someone in servitude", ""]}
