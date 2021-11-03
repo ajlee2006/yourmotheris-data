@@ -1,1 +1,1 @@
-{"data": ["2021-11-03T04:05:18.043497+00:00", 3073, "Your mother is", "contemporary", "Pronunciation: /k\u0259n\u02c8t\u025bmp\u0259\u02ccr\u025bri/", "Definition: occurring in the same period of time", "Synonyms: contemporaneous"]}
+{"data": ["2021-11-03T05:04:34.765587+00:00", 3074, "Your mother is", "industrial", "Pronunciation: /\u026an\u02c8d\u0259stri\u0259l/", "Definition: employed in industry", ""]}
