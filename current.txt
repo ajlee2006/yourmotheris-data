@@ -1,1 +1,1 @@
-{"data": ["2021-11-03T05:04:34.765587+00:00", 3074, "Your mother is", "industrial", "Pronunciation: /\u026an\u02c8d\u0259stri\u0259l/", "Definition: employed in industry", ""]}
+{"data": ["2021-11-03T06:05:19.995889+00:00", 3075, "Your mother is", "starring", "Pronunciation: /\u02c8st\u0251r\u026a\u014b/", "Definition: indicating the most important performer or role", "Synonyms: leading, prima, star, stellar"]}
