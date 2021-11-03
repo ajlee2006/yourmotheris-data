@@ -1,1 +1,1 @@
-{"data": ["2021-11-03T12:04:42.308291+00:00", 3081, "Your mother is", "unnavigable", "Pronunciation: /\u0259n\u02c8n\u00e6v\u026a\u0261\u0259b\u0259l/", "Definition: incapable of being navigated", ""]}
+{"data": ["2021-11-03T13:06:17.308463+00:00", 3082, "Your mother is", "illusionary", "Pronunciation: /\u026a\u02c8lu\u0292\u0259\u02ccn\u025bri/", "Definition: marked by or producing illusion", "Synonyms: illusional"]}
