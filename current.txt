@@ -1,1 +1,1 @@
-{"data": ["2021-11-03T16:05:51.927338+00:00", 3085, "Your mother is", "bowed", "Pronunciation: /bo\u028ad/", "Definition: forming or resembling an arch", "Synonyms: arced, arched, arching, arciform, arcuate"]}
+{"data": ["2021-11-03T17:05:37.907490+00:00", 3086, "Your mother is", "ho-hum", "Pronunciation: /ho\u028a-h\u0259m/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: boring, deadening, dull, irksome, slow, tedious, tiresome, wearisome"]}
