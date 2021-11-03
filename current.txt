@@ -1,1 +1,1 @@
-{"data": ["2021-11-03T06:05:19.995889+00:00", 3075, "Your mother is", "starring", "Pronunciation: /\u02c8st\u0251r\u026a\u014b/", "Definition: indicating the most important performer or role", "Synonyms: leading, prima, star, stellar"]}
+{"data": ["2021-11-03T07:04:19.596808+00:00", 3076, "Your mother is", "screwy", "Pronunciation: /\u02c8skrui/", "Definition: not behaving normally", "Synonyms: screw-loose"]}
