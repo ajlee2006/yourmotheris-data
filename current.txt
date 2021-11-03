@@ -1,1 +1,1 @@
-{"data": ["2021-11-03T20:06:28.442390+00:00", 3089, "Your mother is", "congenerous", "Pronunciation: /k\u0259n\u02c8d\u0292\u025bn\u0259r\u0259s/", "Definition: belonging to the same genus", "Synonyms: congeneric, congenerical"]}
+{"data": ["2021-11-03T21:06:23.090157+00:00", 3090, "Your mother is", "resiny", "Pronunciation: /\u02c8r\u025bz\u0259ni/", "Definition: having the characteristics of pitch or tar", "Synonyms: pitchy, resinous, tarry"]}
