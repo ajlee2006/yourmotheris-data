@@ -1,1 +1,1 @@
-{"data": ["2021-11-02T23:04:40.262272+00:00", 3068, "Your mother is", "international", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8n\u00e6\u0283\u0259n\u0259l/", "Definition: from or between other countries", "Synonyms: external, outside"]}
+{"data": ["2021-11-03T00:08:23.979313+00:00", 3069, "Your mother is", "heatless", "Similar to: cold", "Definition: without generating heat", ""]}
