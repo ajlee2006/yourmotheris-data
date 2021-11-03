@@ -1,1 +1,1 @@
-{"data": ["2021-11-03T01:06:51.445239+00:00", 3070, "Your mother is", "aweigh", "Pronunciation: /\u0259\u02c8we\u026a/", "Definition: (of an anchor) just clear of the bottom", "Synonyms: atrip"]}
+{"data": ["2021-11-03T02:05:04.368448+00:00", 3071, "Your mother is", "hobnailed", "Pronunciation: /\u02c8h\u0251b\u02ccne\u026ald/", "Definition: marked by the wearing of heavy boots studded with hobnails", ""]}
