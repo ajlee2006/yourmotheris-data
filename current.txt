@@ -1,1 +1,1 @@
-{"data": ["2021-11-03T19:06:56.428896+00:00", 3088, "Your mother is", "washy", "Pronunciation: /\u02c8w\u0251\u0283i/", "Definition: overly diluted; thin and insipid", "Synonyms: watery, weak"]}
+{"data": ["2021-11-03T20:06:28.442390+00:00", 3089, "Your mother is", "congenerous", "Pronunciation: /k\u0259n\u02c8d\u0292\u025bn\u0259r\u0259s/", "Definition: belonging to the same genus", "Synonyms: congeneric, congenerical"]}
