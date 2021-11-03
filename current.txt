@@ -1,1 +1,1 @@
-{"data": ["2021-11-03T02:05:04.368448+00:00", 3071, "Your mother is", "hobnailed", "Pronunciation: /\u02c8h\u0251b\u02ccne\u026ald/", "Definition: marked by the wearing of heavy boots studded with hobnails", ""]}
+{"data": ["2021-11-03T03:03:23.244227+00:00", 3072, "Your mother is", "arborous", "Pronunciation: /\u02c8\u0251rb\u0259r\u0259s/", "Definition: of or relating to or formed by trees", "Synonyms: arborary, arboreal, arborical"]}
