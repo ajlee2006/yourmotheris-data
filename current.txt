@@ -1,1 +1,1 @@
-{"data": ["2021-11-03T09:03:29.199508+00:00", 3078, "Your mother is", "encomiastic", "Pronunciation: /\u025bn\u02ccko\u028ami\u02c8\u00e6st\u026ak/", "Definition: formally expressing praise", "Synonyms: eulogistic, panegyric, panegyrical"]}
+{"data": ["2021-11-03T10:08:22.391294+00:00", 3079, "Your mother is", "accredited", "Pronunciation: /\u028c\u02c8kr\u025bd\u026at\u026ad/", "Definition: given official approval to act", "Synonyms: commissioned, licenced, licensed"]}
