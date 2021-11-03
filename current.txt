@@ -1,1 +1,1 @@
-{"data": ["2021-11-03T15:09:10.624160+00:00", 3084, "Your mother is", "ill-tempered", "Pronunciation: /\u026al-\u02c8t\u025bmp\u0259rd/", "Definition: annoyed and irritable", "Synonyms: bad-tempered, crabbed, crabby, cross, fussy, grouchy, grumpy"]}
+{"data": ["2021-11-03T16:05:51.927338+00:00", 3085, "Your mother is", "bowed", "Pronunciation: /bo\u028ad/", "Definition: forming or resembling an arch", "Synonyms: arced, arched, arching, arciform, arcuate"]}
