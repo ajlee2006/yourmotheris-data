@@ -1,1 +1,1 @@
-{"data": ["2021-11-03T03:03:23.244227+00:00", 3072, "Your mother is", "arborous", "Pronunciation: /\u02c8\u0251rb\u0259r\u0259s/", "Definition: of or relating to or formed by trees", "Synonyms: arborary, arboreal, arborical"]}
+{"data": ["2021-11-03T04:05:18.043497+00:00", 3073, "Your mother is", "contemporary", "Pronunciation: /k\u0259n\u02c8t\u025bmp\u0259\u02ccr\u025bri/", "Definition: occurring in the same period of time", "Synonyms: contemporaneous"]}
