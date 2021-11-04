@@ -1,1 +1,1 @@
-{"data": ["2021-11-04T06:07:45.543812+00:00", 3099, "Your mother is", "uncomely", "Pronunciation: /\u0259n\u02c8k\u0259mli/", "Definition: not in keeping with accepted standards of what is right or proper in polite society", "Synonyms: indecent, indecorous, unbecoming, unseemly, untoward"]}
+{"data": ["2021-11-04T07:04:18.494417+00:00", 3100, "Your mother is", "renegade", "Pronunciation: /\u02c8r\u025bn\u0259\u02cc\u0261e\u026ad/", "Definition: having deserted a cause or principle", "Synonyms: recreant"]}
