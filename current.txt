@@ -1,1 +1,1 @@
-{"data": ["2021-11-04T01:06:47.462247+00:00", 3094, "Your mother is", "tenured", "Pronunciation: /\u02c8t\u025bnj\u0259d/", "Definition: appointed for life and not subject to dismissal except for a grave crime", ""]}
+{"data": ["2021-11-04T02:05:36.118444+00:00", 3095, "Your mother is", "refreshing", "Pronunciation: /r\u026a\u02c8fr\u025b\u0283\u026a\u014b/", "Definition: pleasantly new or different", "Synonyms: novel"]}
