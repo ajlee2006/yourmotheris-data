@@ -1,1 +1,1 @@
-{"data": ["2021-11-04T22:00:49.793734+00:00", 3115, "Your mother is", "forty-ninth", "Pronunciation: /\u02c8f\u0254rti-na\u026an\u03b8/", "Definition: the ordinal number of forty-nine in counting order", "Synonyms: 49th"]}
+{"data": ["2021-11-04T23:02:56.239873+00:00", 3116, "Your mother is", "spoken", "Pronunciation: /\u02c8spo\u028ak\u0259n/", "Definition: uttered through the medium of speech or characterized by speech; sometimes used in combination", ""]}
