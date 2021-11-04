@@ -1,1 +1,1 @@
-{"data": ["2021-11-04T14:06:14.578951+00:00", 3107, "Your mother is", "ornate", "Pronunciation: /\u0254r\u02c8ne\u026at/", "Definition: marked by elaborate rhetoric and elaborated with decorative details", "Synonyms: flowery"]}
+{"data": ["2021-11-04T15:06:55.391412+00:00", 3108, "Your mother is", "seaworthy", "Pronunciation: /\u02c8si\u02ccw\u025cr\u00f0i/", "Definition: fit for a sea voyage", ""]}
