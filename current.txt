@@ -1,1 +1,1 @@
-{"data": ["2021-11-03T23:03:41.303843+00:00", 3092, "Your mother is", "bladdery", "", "Definition: resembling a bladder", "Synonyms: bladderlike"]}
+{"data": ["2021-11-04T00:04:52.677686+00:00", 3093, "Your mother is", "phyllodial", "", "Definition: having a phyllode", ""]}
