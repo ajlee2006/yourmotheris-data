@@ -1,1 +1,1 @@
-{"data": ["2021-11-04T09:06:42.386950+00:00", 3102, "Your mother is", "all over", "Pronunciation: /\u0254l-\u02c8o\u028av\u0259r/", "Definition: having come or been brought to a conclusion", "Synonyms: complete, concluded, ended, over, terminated"]}
+{"data": ["2021-11-04T10:06:00.270003+00:00", 3103, "Your mother is", "double-humped", "", "Definition: having two humps", "Synonyms: two-humped"]}
