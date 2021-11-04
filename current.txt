@@ -1,1 +1,1 @@
-{"data": ["2021-11-04T07:04:18.494417+00:00", 3100, "Your mother is", "renegade", "Pronunciation: /\u02c8r\u025bn\u0259\u02cc\u0261e\u026ad/", "Definition: having deserted a cause or principle", "Synonyms: recreant"]}
+{"data": ["2021-11-04T08:05:18.809657+00:00", 3101, "Your mother is", "long-bodied", "Similar to: bodied", "Definition: having a relatively long body", ""]}
