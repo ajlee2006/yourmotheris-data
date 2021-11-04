@@ -1,1 +1,1 @@
-{"data": ["2021-11-04T15:06:55.391412+00:00", 3108, "Your mother is", "seaworthy", "Pronunciation: /\u02c8si\u02ccw\u025cr\u00f0i/", "Definition: fit for a sea voyage", ""]}
+{"data": ["2021-11-04T16:01:46.970616+00:00", 3109, "Your mother is", "exaggerated", "Pronunciation: /\u026a\u0261\u02c8z\u00e6d\u0292\u0259\u02ccre\u026at\u026ad/", "Definition: represented as greater than is true or reasonable", "Synonyms: overdone, overstated"]}
