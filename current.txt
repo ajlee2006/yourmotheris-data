@@ -1,1 +1,1 @@
-{"data": ["2021-11-04T18:01:38.922969+00:00", 3111, "Your mother is", "well-bred", "Pronunciation: /w\u025bl-br\u025bd/", "Definition: of good upbringing", "Synonyms: well-mannered"]}
+{"data": ["2021-11-04T19:03:17.437096+00:00", 3112, "Your mother is", "gray-blue", "Pronunciation: /gre\u026a-blu/", "Definition: of blue tinged with grey", "Synonyms: grayish-blue, grey-blue, greyish-blue"]}
