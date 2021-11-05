@@ -1,1 +1,1 @@
-{"data": ["2021-11-05T21:00:55.886552+00:00", 3138, "Your mother is", "echt", "Pronunciation: /\u025bxt/", "Definition: not fake or counterfeit", "Synonyms: genuine"]}
+{"data": ["2021-11-05T22:02:23.049293+00:00", 3139, "Your mother is", "apodous", "Pronunciation: /\u02c8\u00e6p\u0259d\u0259s/", "Definition: (of snakes and eels) naturally footless", "Synonyms: apodal"]}
