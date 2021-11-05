@@ -1,1 +1,1 @@
-{"data": ["2021-11-05T12:03:26.254200+00:00", 3129, "Your mother is", "caesarian", "", "Definition: of or relating to or in the manner of Julius Caesar", "Synonyms: caesarean"]}
+{"data": ["2021-11-05T13:02:03.919839+00:00", 3130, "Your mother is", "stemmed", "Pronunciation: /st\u025bmd/", "Definition: (of plants) producing a well-developed stem above ground", "Synonyms: caulescent, cauline"]}
