@@ -1,1 +1,1 @@
-{"data": ["2021-11-05T03:02:29.680391+00:00", 3120, "Your mother is", "majestic", "Pronunciation: /m\u0259\u02c8d\u0292\u025bst\u0259/", "Definition: belonging to or befitting a supreme ruler", "Synonyms: imperial, purple, regal, royal"]}
+{"data": ["2021-11-05T04:02:57.193546+00:00", 3121, "Your mother is", "pliant", "Pronunciation: /\u02c8pla\u026a\u0259nt/", "Definition: able to adjust readily to different conditions", "Synonyms: elastic, flexible, pliable"]}
