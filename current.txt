@@ -1,1 +1,1 @@
-{"data": ["2021-11-05T09:00:48.762718+00:00", 3126, "Your mother is", "parenthetical", "Similar to: incident", "Definition: qualifying or explaining; placed or as if placed in parentheses", "Synonyms: parenthetic"]}
+{"data": ["2021-11-05T10:01:12.143777+00:00", 3127, "Your mother is", "xlii", "Similar to: cardinal", "Definition: being two more than forty", "Synonyms: 42, forty-two"]}
