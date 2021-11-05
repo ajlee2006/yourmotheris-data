@@ -1,1 +1,1 @@
-{"data": ["2021-11-05T10:01:12.143777+00:00", 3127, "Your mother is", "xlii", "Similar to: cardinal", "Definition: being two more than forty", "Synonyms: 42, forty-two"]}
+{"data": ["2021-11-05T11:02:19.213875+00:00", 3128, "Your mother is", "puzzled", "Pronunciation: /\u02c8p\u028cz\u028cld/", "Definition: filled with bewilderment", "Synonyms: at a loss, nonplused, nonplussed"]}
