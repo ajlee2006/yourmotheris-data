@@ -1,1 +1,1 @@
-{"data": ["2021-11-05T14:00:36.973212+00:00", 3131, "Your mother is", "cheating", "Pronunciation: /\u02c8t\u0283it\u026a\u014b/", "Definition: violating accepted standards or rules", "Synonyms: dirty, foul, unsporting, unsportsmanlike"]}
+{"data": ["2021-11-05T15:02:59.929475+00:00", 3132, "Your mother is", "hesitant", "Pronunciation: /\u02c8h\u025bz\u026at\u0259nt/", "Definition: lacking decisiveness of character; unable to act or decide quickly or firmly", "Synonyms: hesitating"]}
