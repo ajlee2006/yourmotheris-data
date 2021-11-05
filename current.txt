@@ -1,1 +1,1 @@
-{"data": ["2021-11-04T23:02:56.239873+00:00", 3116, "Your mother is", "spoken", "Pronunciation: /\u02c8spo\u028ak\u0259n/", "Definition: uttered through the medium of speech or characterized by speech; sometimes used in combination", ""]}
+{"data": ["2021-11-05T00:03:34.304551+00:00", 3117, "Your mother is", "visually challenged", "Similar to: blind", "Definition: having greatly reduced vision", "Synonyms: dim-sighted, near-blind, purblind, sand-blind, visually impaired"]}
