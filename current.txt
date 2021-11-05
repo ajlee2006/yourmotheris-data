@@ -1,1 +1,1 @@
-{"data": ["2021-11-05T08:02:18.243693+00:00", 3125, "Your mother is", "squinting", "Pronunciation: /\u02c8skw\u026ant\u026a\u014b/", "Definition: having eyes half closed in order to see better", "Synonyms: squinched"]}
+{"data": ["2021-11-05T09:00:48.762718+00:00", 3126, "Your mother is", "parenthetical", "Similar to: incident", "Definition: qualifying or explaining; placed or as if placed in parentheses", "Synonyms: parenthetic"]}
