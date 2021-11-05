@@ -1,1 +1,1 @@
-{"data": ["2021-11-05T02:03:38.570180+00:00", 3119, "Your mother is", "deceased", "Pronunciation: /d\u026a\u02c8sist/", "Definition: dead", "Synonyms: asleep, at peace, at rest, departed, gone"]}
+{"data": ["2021-11-05T03:02:29.680391+00:00", 3120, "Your mother is", "majestic", "Pronunciation: /m\u0259\u02c8d\u0292\u025bst\u0259/", "Definition: belonging to or befitting a supreme ruler", "Synonyms: imperial, purple, regal, royal"]}
