@@ -1,1 +1,1 @@
-{"data": ["2021-11-05T07:02:19.536717+00:00", 3124, "Your mother is", "genitive", "Pronunciation: /\u02c8d\u0292\u025bn\u026at\u026av/", "Definition: serving to express or indicate possession", "Synonyms: possessive"]}
+{"data": ["2021-11-05T08:02:18.243693+00:00", 3125, "Your mother is", "squinting", "Pronunciation: /\u02c8skw\u026ant\u026a\u014b/", "Definition: having eyes half closed in order to see better", "Synonyms: squinched"]}
