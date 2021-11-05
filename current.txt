@@ -1,1 +1,1 @@
-{"data": ["2021-11-05T16:01:42.310290+00:00", 3133, "Your mother is", "recondite", "Pronunciation: /\u02c8r\u025bk\u0259n\u02ccda\u026at/", "Definition: difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge", "Synonyms: abstruse, deep"]}
+{"data": ["2021-11-05T17:02:01.241267+00:00", 3134, "Your mother is", "chambered", "Pronunciation: /\u02c8t\u0283e\u026amb\u0259d/", "Definition: having compartmental chambers", ""]}
