@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T21:01:29.051148+00:00", 3162, "Your mother is", "unredeemed", "Pronunciation: /\u02cc\u0259nri\u02c8dimd/", "Definition: in danger of the eternal punishment of Hell", "Synonyms: cursed, damned, doomed, unsaved"]}
+{"data": ["2021-11-06T22:02:36.985653+00:00", 3163, "Your mother is", "discretionary", "Pronunciation: /d\u026a\u02c8skr\u025b\u0283\u0259\u02ccn\u025bri/", "Definition: having or using the ability to act or decide according to your own discretion or judgment", "Synonyms: discretional"]}
