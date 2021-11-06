@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T05:01:41.695612+00:00", 3146, "Your mother is", "unthought", "Pronunciation: /\u0259n\u02c8\u03b8\u0254t/", "Definition: so unexpected as to have not been imagined", "Synonyms: unhoped, unhoped-for, unthought-of"]}
+{"data": ["2021-11-06T06:01:48.046793+00:00", 3147, "Your mother is", "terror-stricken", "Pronunciation: /\u02c8t\u025br\u0259r-\u02c8str\u026ak\u0259n/", "Definition: struck or filled with terror", "Synonyms: terror-struck"]}
