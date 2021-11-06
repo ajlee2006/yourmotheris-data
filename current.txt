@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T00:03:27.500617+00:00", 3141, "Your mother is", "half-hourly", "Pronunciation: /h\u00e6f-a\u028arli/", "Definition: occurring ever half hour", ""]}
+{"data": ["2021-11-06T01:02:45.087644+00:00", 3142, "Your mother is", "bibliographic", "Pronunciation: /\u02ccb\u026abli\u0259\u02c8gr\u00e6f\u026ak/", "Definition: relating to or dealing with bibliography", "Synonyms: bibliographical"]}
