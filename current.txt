@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T07:02:14.332344+00:00", 3148, "Your mother is", "sized", "Pronunciation: /sa\u026azd/", "Definition: having a specified size", ""]}
+{"data": ["2021-11-06T08:01:19.758557+00:00", 3149, "Your mother is", "metallurgical", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8l\u025crd\u0292\u026ak\u0259l/", "Definition: of or relating to metallurgy", "Synonyms: metallurgic"]}
