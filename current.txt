@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T13:02:41.277480+00:00", 3154, "Your mother is", "soothing", "Pronunciation: /\u02c8su\u00f0\u026a\u014b/", "Definition: freeing from fear and anxiety", "Synonyms: assuasive"]}
+{"data": ["2021-11-06T14:01:32.735188+00:00", 3155, "Your mother is", "constraining", "Pronunciation: /k\u028cn\u02c8stre\u026an\u026a\u014b/", "Definition: restricting the scope or freedom of action", "Synonyms: confining, constrictive, limiting, restricting"]}
