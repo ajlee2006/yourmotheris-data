@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T08:01:19.758557+00:00", 3149, "Your mother is", "metallurgical", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8l\u025crd\u0292\u026ak\u0259l/", "Definition: of or relating to metallurgy", "Synonyms: metallurgic"]}
+{"data": ["2021-11-06T09:03:03.801313+00:00", 3150, "Your mother is", "port", "Pronunciation: /po\u028art/", "Definition: located on the left side of a ship or aircraft", "Synonyms: larboard"]}
