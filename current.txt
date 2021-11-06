@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T06:01:48.046793+00:00", 3147, "Your mother is", "terror-stricken", "Pronunciation: /\u02c8t\u025br\u0259r-\u02c8str\u026ak\u0259n/", "Definition: struck or filled with terror", "Synonyms: terror-struck"]}
+{"data": ["2021-11-06T07:02:14.332344+00:00", 3148, "Your mother is", "sized", "Pronunciation: /sa\u026azd/", "Definition: having a specified size", ""]}
