@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T16:01:57.046159+00:00", 3157, "Your mother is", "working-class", "Pronunciation: /\u02c8w\u025crk\u026a\u014b-\u02cckl\u00e6s/", "Definition: working for hourly wages rather than fixed (e.g. annual) salaries", "Synonyms: wage-earning"]}
+{"data": ["2021-11-06T17:01:55.274160+00:00", 3158, "Your mother is", "battleful", "Similar to: aggressive", "Definition: having or showing a ready disposition to fight", "Synonyms: bellicose, combative"]}
