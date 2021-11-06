@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T12:01:57.400135+00:00", 3153, "Your mother is", "exculpatory", "Pronunciation: /\u026ak\u02c8sk\u0259lp\u0259\u02ccto\u028ari/", "Definition: clearing of guilt or blame", ""]}
+{"data": ["2021-11-06T13:02:41.277480+00:00", 3154, "Your mother is", "soothing", "Pronunciation: /\u02c8su\u00f0\u026a\u014b/", "Definition: freeing from fear and anxiety", "Synonyms: assuasive"]}
