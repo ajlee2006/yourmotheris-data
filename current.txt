@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T02:01:19.645131+00:00", 3143, "Your mother is", "delicious", "Pronunciation: /d\u026a\u02c8l\u026a\u0283\u0259s/", "Definition: greatly pleasing or entertaining", "Synonyms: delightful"]}
+{"data": ["2021-11-06T03:01:51.496609+00:00", 3144, "Your mother is", "drawn-out", "Pronunciation: /dr\u0254n-a\u028at/", "Definition: relatively long in duration; tediously protracted", "Synonyms: extended, lengthy, prolonged, protracted"]}
