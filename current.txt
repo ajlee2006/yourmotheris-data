@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T19:01:51.285810+00:00", 3160, "Your mother is", "galilean", "Pronunciation: /\u02cc\u0261\u00e6l\u0259\u02c8li\u0259n/", "Definition: of or relating to Galilee or its inhabitants", "Synonyms: galilaean"]}
+{"data": ["2021-11-06T20:01:47.682811+00:00", 3161, "Your mother is", "light-armed", "Pronunciation: /la\u026at-\u0251rmd/", "Definition: armed with light weapons", "Synonyms: lightly-armed"]}
