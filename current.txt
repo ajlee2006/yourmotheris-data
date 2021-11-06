@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T18:01:13.998540+00:00", 3159, "Your mother is", "awful", "Pronunciation: /\u02c8\u0254f\u0259l/", "Definition: offensive or even (of persons) malicious", "Synonyms: nasty"]}
+{"data": ["2021-11-06T19:01:51.285810+00:00", 3160, "Your mother is", "galilean", "Pronunciation: /\u02cc\u0261\u00e6l\u0259\u02c8li\u0259n/", "Definition: of or relating to Galilee or its inhabitants", "Synonyms: galilaean"]}
