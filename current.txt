@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T04:02:28.947332+00:00", 3145, "Your mother is", "scenic", "Pronunciation: /\u02c8sin\u026ak/", "Definition: used of locations; having beautiful natural scenery", ""]}
+{"data": ["2021-11-06T05:01:41.695612+00:00", 3146, "Your mother is", "unthought", "Pronunciation: /\u0259n\u02c8\u03b8\u0254t/", "Definition: so unexpected as to have not been imagined", "Synonyms: unhoped, unhoped-for, unthought-of"]}
