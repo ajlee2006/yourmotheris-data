@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T15:01:47.657602+00:00", 3156, "Your mother is", "national socialist", "", "Definition: relating to a form of socialism", "Synonyms: nazi"]}
+{"data": ["2021-11-06T16:01:57.046159+00:00", 3157, "Your mother is", "working-class", "Pronunciation: /\u02c8w\u025crk\u026a\u014b-\u02cckl\u00e6s/", "Definition: working for hourly wages rather than fixed (e.g. annual) salaries", "Synonyms: wage-earning"]}
