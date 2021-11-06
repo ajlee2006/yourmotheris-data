@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T11:01:27.796310+00:00", 3152, "Your mother is", "incertain", "Similar to: ambivalent", "Definition: lacking or indicating lack of confidence or assurance", "Synonyms: uncertain, unsure"]}
+{"data": ["2021-11-06T12:01:57.400135+00:00", 3153, "Your mother is", "exculpatory", "Pronunciation: /\u026ak\u02c8sk\u0259lp\u0259\u02ccto\u028ari/", "Definition: clearing of guilt or blame", ""]}
