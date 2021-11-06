@@ -1,1 +1,1 @@
-{"data": ["2021-11-06T01:02:45.087644+00:00", 3142, "Your mother is", "bibliographic", "Pronunciation: /\u02ccb\u026abli\u0259\u02c8gr\u00e6f\u026ak/", "Definition: relating to or dealing with bibliography", "Synonyms: bibliographical"]}
+{"data": ["2021-11-06T02:01:19.645131+00:00", 3143, "Your mother is", "delicious", "Pronunciation: /d\u026a\u02c8l\u026a\u0283\u0259s/", "Definition: greatly pleasing or entertaining", "Synonyms: delightful"]}
