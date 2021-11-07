@@ -1,1 +1,1 @@
-{"data": ["2021-11-07T16:02:09.053234+00:00", 3181, "Your mother is", "out-of-date", "Pronunciation: /\u02c8a\u028at\u0259v\u02c8de\u026at/", "Definition: old; no longer valid or fashionable", "Synonyms: outdated, superannuated"]}
+{"data": ["2021-11-07T17:00:57.942174+00:00", 3182, "Your mother is", "northwestward", "Similar to: north", "Definition: toward the northwest", ""]}
