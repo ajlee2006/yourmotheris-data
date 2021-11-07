@@ -1,1 +1,1 @@
-{"data": ["2021-11-07T11:00:13.715331+00:00", 3176, "Your mother is", "blamed", "Pronunciation: /ble\u026amd/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blasted, blessed, damn, damned, darned, deuced, goddam, goddamn, goddamned, infernal"]}
+{"data": ["2021-11-07T12:01:47.417905+00:00", 3177, "Your mother is", "upmarket", "Pronunciation: /\u02c8\u028cp\u02ccm\u0251rk\u028ct/", "Definition: designed for consumers with high incomes", ""]}
