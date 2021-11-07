@@ -1,1 +1,1 @@
-{"data": ["2021-11-07T07:03:09.674072+00:00", 3172, "Your mother is", "tart", "Pronunciation: /t\u0251rt/", "Definition: harsh", "Synonyms: sharp, sharp-worded"]}
+{"data": ["2021-11-07T08:01:50.405158+00:00", 3173, "Your mother is", "numerable", "Pronunciation: /\u02c8njum\u0259r\u0259b\u0259l/", "Definition: that can be counted", "Synonyms: countable, denumerable, enumerable"]}
