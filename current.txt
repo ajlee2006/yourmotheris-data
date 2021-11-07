@@ -1,1 +1,1 @@
-{"data": ["2021-11-07T05:02:59.299959+00:00", 3170, "Your mother is", "ivied", "Pronunciation: /\u02c8a\u026avid/", "Definition: overgrown with ivy", "Synonyms: ivy-covered"]}
+{"data": ["2021-11-07T06:03:11.973644+00:00", 3171, "Your mother is", "undulate", "Pronunciation: /\u02c8\u0259nd\u0292\u0259l\u026at/", "Definition: having a wavy margin and rippled surface", ""]}
