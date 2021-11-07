@@ -1,1 +1,1 @@
-{"data": ["2021-11-07T01:02:10.964823+00:00", 3166, "Your mother is", "relevant", "Pronunciation: /\u02c8r\u025bl\u0259v\u0259nt/", "Definition: having a bearing on or connection with the subject at issue", ""]}
+{"data": ["2021-11-07T02:00:20.736134+00:00", 3167, "Your mother is", "lemony", "Similar to: sour", "Definition: tasting sour like a lemon", "Synonyms: lemonlike, sourish, tangy, tart"]}
