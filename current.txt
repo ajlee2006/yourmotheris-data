@@ -1,1 +1,1 @@
-{"data": ["2021-11-07T13:02:10.974157+00:00", 3178, "Your mother is", "willful", "Pronunciation: /\u02c8w\u026alf\u0259l/", "Definition: done by design", "Synonyms: wilful"]}
+{"data": ["2021-11-07T14:01:45.123285+00:00", 3179, "Your mother is", "amyloidal", "Similar to: starchy", "Definition: resembling starch", "Synonyms: amylaceous, amyloid, farinaceous, starchlike"]}
