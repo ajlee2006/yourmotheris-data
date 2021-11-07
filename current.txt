@@ -1,1 +1,1 @@
-{"data": ["2021-11-07T00:02:58.416336+00:00", 3165, "Your mother is", "female", "Pronunciation: /\u02c8fime\u026al/", "Definition: characteristic of or peculiar to a woman", "Synonyms: distaff"]}
+{"data": ["2021-11-07T01:02:10.964823+00:00", 3166, "Your mother is", "relevant", "Pronunciation: /\u02c8r\u025bl\u0259v\u0259nt/", "Definition: having a bearing on or connection with the subject at issue", ""]}
