@@ -1,1 +1,1 @@
-{"data": ["2021-11-07T17:00:57.942174+00:00", 3182, "Your mother is", "northwestward", "Similar to: north", "Definition: toward the northwest", ""]}
+{"data": ["2021-11-07T18:00:21.033122+00:00", 3183, "Your mother is", "practised", "Similar to: experienced", "Definition: skillful after much practice", "Synonyms: practiced"]}
