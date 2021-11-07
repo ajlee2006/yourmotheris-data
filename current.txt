@@ -1,1 +1,1 @@
-{"data": ["2021-11-07T08:01:50.405158+00:00", 3173, "Your mother is", "numerable", "Pronunciation: /\u02c8njum\u0259r\u0259b\u0259l/", "Definition: that can be counted", "Synonyms: countable, denumerable, enumerable"]}
+{"data": ["2021-11-07T09:00:32.292821+00:00", 3174, "Your mother is", "shakespearian", "Pronunciation: /\u0283e\u026ak\u02c8spi\u0259ri\u0259n/", "Definition: of or relating to William Shakespeare or his works", "Synonyms: shakespearean"]}
