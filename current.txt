@@ -1,1 +1,1 @@
-{"data": ["2021-11-07T14:01:45.123285+00:00", 3179, "Your mother is", "amyloidal", "Similar to: starchy", "Definition: resembling starch", "Synonyms: amylaceous, amyloid, farinaceous, starchlike"]}
+{"data": ["2021-11-07T15:01:30.064783+00:00", 3180, "Your mother is", "organic", "Pronunciation: /\u0254r\u02c8\u0261\u00e6n\u026ak/", "Definition: constitutional in the structure of something (especially your physical makeup)", "Synonyms: constituent, constitutional, constitutive"]}
