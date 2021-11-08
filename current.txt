@@ -1,1 +1,1 @@
-{"data": ["2021-11-08T02:01:56.803408+00:00", 3191, "Your mother is", "declamatory", "Pronunciation: /d\u026a\u02c8kl\u00e6m\u0259\u02ccto\u028ari/", "Definition: ostentatiously lofty in style", "Synonyms: bombastic, large, orotund, tumid, turgid"]}
+{"data": ["2021-11-08T03:03:03.259028+00:00", 3192, "Your mother is", "seditious", "Pronunciation: /s\u026a\u02c8d\u026a\u0283\u0259s/", "Definition: in opposition to a civil authority or government", "Synonyms: insurgent, subversive"]}
