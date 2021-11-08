@@ -1,1 +1,1 @@
-{"data": ["2021-11-08T13:02:24.694415+00:00", 3202, "Your mother is", "each", "Pronunciation: /i\u02a7/", "Definition: (used of count nouns) every one considered individually", ""]}
+{"data": ["2021-11-08T14:03:14.401208+00:00", 3203, "Your mother is", "anestric", "", "Definition: of or relating to anestrus", "Synonyms: anestrous, anoestrous"]}
