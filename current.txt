@@ -1,1 +1,1 @@
-{"data": ["2021-11-08T12:03:26.374523+00:00", 3201, "Your mother is", "nonexempt", "Similar to: dutiable", "Definition: (of goods or funds) subject to taxation", "Synonyms: taxable"]}
+{"data": ["2021-11-08T13:02:24.694415+00:00", 3202, "Your mother is", "each", "Pronunciation: /i\u02a7/", "Definition: (used of count nouns) every one considered individually", ""]}
