@@ -1,1 +1,1 @@
-{"data": ["2021-11-08T10:00:21.181185+00:00", 3199, "Your mother is", "unifying", "Pronunciation: /\u02c8jun\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: tending to unify", "Synonyms: centripetal"]}
+{"data": ["2021-11-08T11:01:11.614756+00:00", 3200, "Your mother is", "exanimate", "Pronunciation: /\u026a\u0261\u02c8z\u00e6n\u0259m\u026at/", "Definition: deprived of life; no longer living", "Synonyms: lifeless"]}
