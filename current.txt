@@ -1,1 +1,1 @@
-{"data": ["2021-11-08T17:02:53.405436+00:00", 3206, "Your mother is", "perceivable", "Pronunciation: /p\u0259r\u02c8siv\u0259b\u0259l/", "Definition: capable of being apprehended or understood", "Synonyms: apprehensible, graspable, intelligible, understandable"]}
+{"data": ["2021-11-08T18:01:28.519570+00:00", 3207, "Your mother is", "belt-shaped", "Similar to: formed", "Definition: shaped like a belt", ""]}
