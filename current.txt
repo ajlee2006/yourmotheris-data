@@ -1,1 +1,1 @@
-{"data": ["2021-11-08T11:01:11.614756+00:00", 3200, "Your mother is", "exanimate", "Pronunciation: /\u026a\u0261\u02c8z\u00e6n\u0259m\u026at/", "Definition: deprived of life; no longer living", "Synonyms: lifeless"]}
+{"data": ["2021-11-08T12:03:26.374523+00:00", 3201, "Your mother is", "nonexempt", "Similar to: dutiable", "Definition: (of goods or funds) subject to taxation", "Synonyms: taxable"]}
