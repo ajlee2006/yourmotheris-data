@@ -1,1 +1,1 @@
-{"data": ["2021-11-08T04:01:00.439468+00:00", 3193, "Your mother is", "highfalutin", "Pronunciation: /\u02ccha\u026af\u0259\u02c8lut\u0259n/", "Definition: affectedly genteel", "Synonyms: grandiose, hifalutin, highfaluting, hoity-toity, la-di-da"]}
+{"data": ["2021-11-08T05:01:17.360760+00:00", 3194, "Your mother is", "xliii", "Similar to: cardinal", "Definition: being three more than forty", "Synonyms: 43, forty-three"]}
