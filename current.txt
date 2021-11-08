@@ -1,1 +1,1 @@
-{"data": ["2021-11-08T01:03:31.775219+00:00", 3190, "Your mother is", "lacklustre", "Pronunciation: /\u02c8l\u00e6k\u02ccl\u0259st\u0259r/", "Definition: lacking brilliance or vitality", "Synonyms: lackluster, lusterless, lustreless"]}
+{"data": ["2021-11-08T02:01:56.803408+00:00", 3191, "Your mother is", "declamatory", "Pronunciation: /d\u026a\u02c8kl\u00e6m\u0259\u02ccto\u028ari/", "Definition: ostentatiously lofty in style", "Synonyms: bombastic, large, orotund, tumid, turgid"]}
