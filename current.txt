@@ -1,1 +1,1 @@
-{"data": ["2021-11-08T20:00:24.269934+00:00", 3209, "Your mother is", "duplex", "Pronunciation: /\u02c8dupl\u025bks/", "Definition: allowing communication in opposite directions simultaneously", ""]}
+{"data": ["2021-11-08T21:01:42.927286+00:00", 3210, "Your mother is", "high-performance", "Similar to: superior", "Definition: modified to give superior performance", ""]}
