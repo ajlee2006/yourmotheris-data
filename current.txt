@@ -1,1 +1,1 @@
-{"data": ["2021-11-08T22:00:39.872210+00:00", 3211, "Your mother is", "seminal", "Pronunciation: /\u02c8s\u025bm\u0259n\u0259l/", "Definition: containing seeds of later development", "Synonyms: germinal, originative"]}
+{"data": ["2021-11-08T23:01:23.072668+00:00", 3212, "Your mother is", "bacteriophagous", "", "Definition: of or relating to bacteriophages", "Synonyms: bacteriophagic"]}
