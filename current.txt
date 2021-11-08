@@ -1,1 +1,1 @@
-{"data": ["2021-11-08T00:04:29.063258+00:00", 3189, "Your mother is", "benefic", "Pronunciation: /b\u0259\u02c8n\u025bf\u026ak/", "Definition: exerting a favorable or beneficent influence", ""]}
+{"data": ["2021-11-08T01:03:31.775219+00:00", 3190, "Your mother is", "lacklustre", "Pronunciation: /\u02c8l\u00e6k\u02ccl\u0259st\u0259r/", "Definition: lacking brilliance or vitality", "Synonyms: lackluster, lusterless, lustreless"]}
