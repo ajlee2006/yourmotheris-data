@@ -1,1 +1,1 @@
-{"data": ["2021-11-08T03:03:03.259028+00:00", 3192, "Your mother is", "seditious", "Pronunciation: /s\u026a\u02c8d\u026a\u0283\u0259s/", "Definition: in opposition to a civil authority or government", "Synonyms: insurgent, subversive"]}
+{"data": ["2021-11-08T04:01:00.439468+00:00", 3193, "Your mother is", "highfalutin", "Pronunciation: /\u02ccha\u026af\u0259\u02c8lut\u0259n/", "Definition: affectedly genteel", "Synonyms: grandiose, hifalutin, highfaluting, hoity-toity, la-di-da"]}
