@@ -1,1 +1,1 @@
-{"data": ["2021-11-09T14:02:27.661491+00:00", 3227, "Your mother is", "industrialized", "Pronunciation: /\u026an\u02c8d\u028cstri\u028c\u02ccla\u026azd/", "Definition: made industrial; converted to industrialism", "Synonyms: industrialised"]}
+{"data": ["2021-11-09T15:01:54.787918+00:00", 3228, "Your mother is", "dried", "Pronunciation: /dra\u026ad/", "Definition: preserved by removing natural moisture", "Synonyms: dehydrated, desiccated"]}
