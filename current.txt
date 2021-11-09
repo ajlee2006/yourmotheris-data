@@ -1,1 +1,1 @@
-{"data": ["2021-11-09T00:14:55.920639+00:00", 3213, "Your mother is", "basilar", "Pronunciation: /\u02c8b\u00e6s\u0259l\u0259r/", "Definition: of or relating to or located at the base", "Synonyms: basilary"]}
+{"data": ["2021-11-09T01:02:04.221160+00:00", 3214, "Your mother is", "improvised", "Pronunciation: /\u02c8\u026ampr\u0259\u02ccva\u026azd/", "Definition: done or made using whatever is available", "Synonyms: jury-rigged, makeshift"]}
