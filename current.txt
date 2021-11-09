@@ -1,1 +1,1 @@
-{"data": ["2021-11-09T19:02:27.527745+00:00", 3232, "Your mother is", "swinish", "Pronunciation: /\u02c8swa\u026an\u026a\u0283/", "Definition: resembling swine; coarsely gluttonous or greedy", "Synonyms: hoggish, piggish, piggy, porcine"]}
+{"data": ["2021-11-09T20:03:00.376983+00:00", 3233, "Your mother is", "pathless", "Pronunciation: /\u02c8p\u00e6\u03b8l\u026as/", "Definition: lacking pathways", "Synonyms: roadless, trackless, untracked, untrod, untrodden"]}
