@@ -1,1 +1,1 @@
-{"data": ["2021-11-09T20:03:00.376983+00:00", 3233, "Your mother is", "pathless", "Pronunciation: /\u02c8p\u00e6\u03b8l\u026as/", "Definition: lacking pathways", "Synonyms: roadless, trackless, untracked, untrod, untrodden"]}
+{"data": ["2021-11-09T21:01:58.254105+00:00", 3234, "Your mother is", "involute", "Pronunciation: /\u02c8\u026anv\u0259\u02cclut/", "Definition: especially of petals or leaves in bud; having margins rolled inward", "Synonyms: rolled"]}
