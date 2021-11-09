@@ -1,1 +1,1 @@
-{"data": ["2021-11-09T15:01:54.787918+00:00", 3228, "Your mother is", "dried", "Pronunciation: /dra\u026ad/", "Definition: preserved by removing natural moisture", "Synonyms: dehydrated, desiccated"]}
+{"data": ["2021-11-09T16:02:04.543540+00:00", 3229, "Your mother is", "amoebous", "", "Definition: pertaining to or resembling amoebae", "Synonyms: ameban, amebic, amebous, amoeban, amoebic"]}
