@@ -1,1 +1,1 @@
-{"data": ["2021-11-09T09:02:57.724792+00:00", 3222, "Your mother is", "sunlit", "Pronunciation: /\u02c8s\u0259n\u02ccl\u026at/", "Definition: lighted by sunlight", "Synonyms: sunstruck"]}
+{"data": ["2021-11-09T10:01:41.034364+00:00", 3223, "Your mother is", "in small stages", "Similar to: gradual", "Definition: one thing at a time", "Synonyms: bit-by-bit, piecemeal, step-by-step, stepwise"]}
