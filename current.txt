@@ -1,1 +1,1 @@
-{"data": ["2021-11-09T13:01:54.873465+00:00", 3226, "Your mother is", "acaudal", "Pronunciation: /e\u026a\u02c8k\u0254d\u0259l/", "Definition: lacking a tail or taillike appendage", "Synonyms: acaudate"]}
+{"data": ["2021-11-09T14:02:27.661491+00:00", 3227, "Your mother is", "industrialized", "Pronunciation: /\u026an\u02c8d\u028cstri\u028c\u02ccla\u026azd/", "Definition: made industrial; converted to industrialism", "Synonyms: industrialised"]}
