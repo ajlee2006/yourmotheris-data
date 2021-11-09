@@ -1,1 +1,1 @@
-{"data": ["2021-11-09T01:02:04.221160+00:00", 3214, "Your mother is", "improvised", "Pronunciation: /\u02c8\u026ampr\u0259\u02ccva\u026azd/", "Definition: done or made using whatever is available", "Synonyms: jury-rigged, makeshift"]}
+{"data": ["2021-11-09T02:00:19.393366+00:00", 3215, "Your mother is", "geared", "Pronunciation: /\u0261\u026ard/", "Definition: equipped with or connected by gears or having gears engaged", ""]}
