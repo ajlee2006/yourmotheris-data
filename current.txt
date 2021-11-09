@@ -1,1 +1,1 @@
-{"data": ["2021-11-09T18:02:56.392265+00:00", 3231, "Your mother is", "sitting", "Pronunciation: /\u02c8s\u026at\u026a\u014b/", "Definition: (of persons) having the torso erect and legs bent with the body supported on the buttocks", "Synonyms: seated"]}
+{"data": ["2021-11-09T19:02:27.527745+00:00", 3232, "Your mother is", "swinish", "Pronunciation: /\u02c8swa\u026an\u026a\u0283/", "Definition: resembling swine; coarsely gluttonous or greedy", "Synonyms: hoggish, piggish, piggy, porcine"]}
