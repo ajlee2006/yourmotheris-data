@@ -1,1 +1,1 @@
-{"data": ["2021-11-09T04:01:23.475026+00:00", 3217, "Your mother is", "bothersome", "Pronunciation: /\u02c8b\u0251\u00f0\u0259rs\u0259m/", "Definition: causing irritation or annoyance", "Synonyms: annoying, galling, irritating, nettlesome, pesky, pestering, pestiferous, plaguey, plaguy, teasing, vexatious, vexing"]}
+{"data": ["2021-11-09T05:02:33.032016+00:00", 3218, "Your mother is", "nodulose", "Pronunciation: /\u02c8n\u0251d\u0292\u0259\u02cclo\u028as/", "Definition: having minute nodules", ""]}
