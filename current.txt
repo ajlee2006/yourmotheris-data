@@ -1,1 +1,1 @@
-{"data": ["2021-11-09T08:01:20.945219+00:00", 3221, "Your mother is", "tutelary", "Pronunciation: /\u02c8tjut\u026al\u0259ri/", "Definition: providing protective supervision; watching over or safeguarding", "Synonyms: custodial, tutelar"]}
+{"data": ["2021-11-09T09:02:57.724792+00:00", 3222, "Your mother is", "sunlit", "Pronunciation: /\u02c8s\u0259n\u02ccl\u026at/", "Definition: lighted by sunlight", "Synonyms: sunstruck"]}
