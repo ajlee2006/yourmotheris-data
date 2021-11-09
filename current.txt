@@ -1,1 +1,1 @@
-{"data": ["2021-11-09T03:02:57.459032+00:00", 3216, "Your mother is", "brown-striped", "Similar to: patterned", "Definition: having brown stripes", "Synonyms: brownish-striped"]}
+{"data": ["2021-11-09T04:01:23.475026+00:00", 3217, "Your mother is", "bothersome", "Pronunciation: /\u02c8b\u0251\u00f0\u0259rs\u0259m/", "Definition: causing irritation or annoyance", "Synonyms: annoying, galling, irritating, nettlesome, pesky, pestering, pestiferous, plaguey, plaguy, teasing, vexatious, vexing"]}
