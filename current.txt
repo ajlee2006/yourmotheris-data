@@ -1,1 +1,1 @@
-{"data": ["2021-11-10T04:02:31.719434+00:00", 3241, "Your mother is", "randomized", "Pronunciation: /\u02c8r\u00e6nd\u028c\u02ccma\u026azd/", "Definition: set up or distributed in a deliberately random way", "Synonyms: randomised"]}
+{"data": ["2021-11-10T05:01:45.856031+00:00", 3242, "Your mother is", "unsanitary", "Pronunciation: /\u0259n\u02c8s\u00e6n\u026at\u0259ri/", "Definition: not sanitary or healthful", "Synonyms: insanitary, unhealthful"]}
