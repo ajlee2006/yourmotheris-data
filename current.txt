@@ -1,1 +1,1 @@
-{"data": ["2021-11-10T09:03:29.802952+00:00", 3246, "Your mother is", "strong-arm", "Pronunciation: /str\u0254\u014b-\u0251rm/", "Definition: impelled by physical force especially against resistance", "Synonyms: forcible, physical"]}
+{"data": ["2021-11-10T10:00:22.467581+00:00", 3247, "Your mother is", "ictal", "", "Definition: of or relating to a seizure or convulsion", "Synonyms: ictic"]}
