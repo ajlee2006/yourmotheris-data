@@ -1,1 +1,1 @@
-{"data": ["2021-11-10T19:01:12.954061+00:00", 3256, "Your mother is", "unbendable", "Similar to: resolute", "Definition: marked by firm determination or resolution; not shakable", "Synonyms: firm, steadfast, steady, stiff, unfaltering, unshakable, unwavering"]}
+{"data": ["2021-11-10T20:02:50.615002+00:00", 3257, "Your mother is", "semidetached", "Similar to: detached", "Definition: attached on one side only", ""]}
