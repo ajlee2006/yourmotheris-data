@@ -1,1 +1,1 @@
-{"data": ["2021-11-10T03:01:09.359755+00:00", 3240, "Your mother is", "nappy", "Pronunciation: /\u02c8n\u00e6pi/", "Definition: (of hair) in small tight curls", "Synonyms: crisp, frizzly, frizzy, kinky"]}
+{"data": ["2021-11-10T04:02:31.719434+00:00", 3241, "Your mother is", "randomized", "Pronunciation: /\u02c8r\u00e6nd\u028c\u02ccma\u026azd/", "Definition: set up or distributed in a deliberately random way", "Synonyms: randomised"]}
