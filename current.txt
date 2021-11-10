@@ -1,1 +1,1 @@
-{"data": ["2021-11-10T01:03:03.136525+00:00", 3238, "Your mother is", "60", "Similar to: cardinal", "Definition: being ten more than fifty", "Synonyms: lx, sixty, threescore"]}
+{"data": ["2021-11-10T02:03:16.533522+00:00", 3239, "Your mother is", "amygdaloidal", "Similar to: rounded", "Definition: shaped like an almond", "Synonyms: almond-shaped, amygdaliform, amygdaloid"]}
