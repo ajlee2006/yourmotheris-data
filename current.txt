@@ -1,1 +1,1 @@
-{"data": ["2021-11-10T08:00:16.923030+00:00", 3245, "Your mother is", "50", "Similar to: cardinal", "Definition: being ten more than forty", "Synonyms: fifty, l"]}
+{"data": ["2021-11-10T09:03:29.802952+00:00", 3246, "Your mother is", "strong-arm", "Pronunciation: /str\u0254\u014b-\u0251rm/", "Definition: impelled by physical force especially against resistance", "Synonyms: forcible, physical"]}
