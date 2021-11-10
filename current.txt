@@ -1,1 +1,1 @@
-{"data": ["2021-11-10T14:00:47.477323+00:00", 3251, "Your mother is", "unmeasured", "Pronunciation: /\u0259n\u02c8m\u025b\u0292\u0259rd/", "Definition: without limits in extent or size or quantity", "Synonyms: illimitable, limitless, measureless"]}
+{"data": ["2021-11-10T15:00:49.008034+00:00", 3252, "Your mother is", "conspiratorial", "Pronunciation: /k\u028cn\u02ccsp\u026ar\u028c\u02c8t\u0254ri\u028cl/", "Definition: relating to or characteristic of conspiracy or conspirators", "Synonyms: conspirative"]}
