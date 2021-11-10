@@ -1,1 +1,1 @@
-{"data": ["2021-11-10T13:03:15.784207+00:00", 3250, "Your mother is", "floccose", "Pronunciation: /\u02c8fl\u0251ko\u028as/", "Definition: (of plants) having tufts of soft woolly hairs", ""]}
+{"data": ["2021-11-10T14:00:47.477323+00:00", 3251, "Your mother is", "unmeasured", "Pronunciation: /\u0259n\u02c8m\u025b\u0292\u0259rd/", "Definition: without limits in extent or size or quantity", "Synonyms: illimitable, limitless, measureless"]}
