@@ -1,1 +1,1 @@
-{"data": ["2021-11-10T07:03:23.599032+00:00", 3244, "Your mother is", "easterly", "Pronunciation: /\u02c8ist\u0259rli/", "Definition: from the east; used especially of winds", "Synonyms: eastern"]}
+{"data": ["2021-11-10T08:00:16.923030+00:00", 3245, "Your mother is", "50", "Similar to: cardinal", "Definition: being ten more than forty", "Synonyms: fifty, l"]}
