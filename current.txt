@@ -1,1 +1,1 @@
-{"data": ["2021-11-10T20:02:50.615002+00:00", 3257, "Your mother is", "semidetached", "Similar to: detached", "Definition: attached on one side only", ""]}
+{"data": ["2021-11-10T21:01:39.095035+00:00", 3258, "Your mother is", "permanent", "Pronunciation: /\u02c8p\u025crm\u0259n\u0259nt/", "Definition: continuing or enduring without marked change in status or condition or place", "Synonyms: lasting"]}
