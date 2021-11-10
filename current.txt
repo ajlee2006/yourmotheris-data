@@ -1,1 +1,1 @@
-{"data": ["2021-11-10T12:02:11.073595+00:00", 3249, "Your mother is", "bactericidal", "Similar to: antiseptic", "Definition: preventing infection by inhibiting the growth or action of microorganisms", "Synonyms: disinfectant, germicidal"]}
+{"data": ["2021-11-10T13:03:15.784207+00:00", 3250, "Your mother is", "floccose", "Pronunciation: /\u02c8fl\u0251ko\u028as/", "Definition: (of plants) having tufts of soft woolly hairs", ""]}
