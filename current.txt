@@ -1,1 +1,1 @@
-{"data": ["2021-11-10T00:03:34.992325+00:00", 3237, "Your mother is", "homophonic", "Pronunciation: /\u02cch\u0251m\u0259\u02c8f\u0251n\u026ak/", "Definition: having a single melodic line with accompaniment", ""]}
+{"data": ["2021-11-10T01:03:03.136525+00:00", 3238, "Your mother is", "60", "Similar to: cardinal", "Definition: being ten more than fifty", "Synonyms: lx, sixty, threescore"]}
