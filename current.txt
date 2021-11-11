@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T17:00:28.556679+00:00", 3278, "Your mother is", "half-timbered", "Pronunciation: /h\u00e6f-\u02c8t\u026amb\u0259rd/", "Definition: having exposed wood framing with spaces filled with masonry, as in Tudor architecture", "Synonyms: half-timber"]}
+{"data": ["2021-11-11T18:01:53.521620+00:00", 3279, "Your mother is", "allocatable", "Similar to: distributive", "Definition: capable of being distributed", "Synonyms: allocable, apportionable"]}
