@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T14:00:23.439016+00:00", 3275, "Your mother is", "crow-sized", "Similar to: sized", "Definition: having the approximate size of a crow", ""]}
+{"data": ["2021-11-11T15:02:58.789278+00:00", 3276, "Your mother is", "unassignable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8sa\u026an\u0259b\u0259l/", "Definition: incapable of being transferred", "Synonyms: nontransferable, untransferable"]}
