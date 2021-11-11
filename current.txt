@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T15:02:58.789278+00:00", 3276, "Your mother is", "unassignable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8sa\u026an\u0259b\u0259l/", "Definition: incapable of being transferred", "Synonyms: nontransferable, untransferable"]}
+{"data": ["2021-11-11T16:00:41.311855+00:00", 3277, "Your mother is", "disyllabic", "Pronunciation: /\u02ccda\u026as\u026a\u02c8l\u00e6b\u026ak/", "Definition: having or characterized by or consisting of two syllables", ""]}
