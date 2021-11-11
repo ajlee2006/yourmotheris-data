@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T04:01:20.992120+00:00", 3265, "Your mother is", "unacquainted with", "Similar to: unfamiliar", "Definition: having little or no knowledge of", "Synonyms: unacquainted, unfamiliar with"]}
+{"data": ["2021-11-11T05:01:30.066268+00:00", 3266, "Your mother is", "stagey", "Pronunciation: /\u02c8ste\u026ad\u0292i/", "Definition: having characteristics of the stage especially an artificial and mannered quality", "Synonyms: stagy"]}
