@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T22:02:20.041795+00:00", 3283, "Your mother is", "burundi", "Pronunciation: /b\u0259\u02c8r\u0259ndi/", "Definition: of or relating to or characteristic of Burundi or its people", "Synonyms: burundian"]}
+{"data": ["2021-11-11T23:03:15.678038+00:00", 3284, "Your mother is", "unheard-of", "Similar to: unknown", "Definition: previously unknown", ""]}
