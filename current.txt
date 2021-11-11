@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T21:00:47.877031+00:00", 3282, "Your mother is", "fifty-seven", "Pronunciation: /\u02c8f\u026afti-\u02c8s\u025bv\u0259n/", "Definition: being seven more than fifty", "Synonyms: 57, lvii"]}
+{"data": ["2021-11-11T22:02:20.041795+00:00", 3283, "Your mother is", "burundi", "Pronunciation: /b\u0259\u02c8r\u0259ndi/", "Definition: of or relating to or characteristic of Burundi or its people", "Synonyms: burundian"]}
