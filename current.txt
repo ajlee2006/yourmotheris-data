@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T00:03:05.032212+00:00", 3261, "Your mother is", "paternalistic", "Pronunciation: /p\u028c\u02cct\u025drn\u028c\u02c8l\u026ast\u026ak/", "Definition: benevolent but sometimes intrusive", ""]}
+{"data": ["2021-11-11T01:03:25.635451+00:00", 3262, "Your mother is", "cramped", "Pronunciation: /kr\u00e6mpt/", "Definition: constricted in size", ""]}
