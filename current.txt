@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T18:01:53.521620+00:00", 3279, "Your mother is", "allocatable", "Similar to: distributive", "Definition: capable of being distributed", "Synonyms: allocable, apportionable"]}
+{"data": ["2021-11-11T19:02:03.515500+00:00", 3280, "Your mother is", "absolute", "Pronunciation: /\u02c8\u00e6bs\u0259\u02cclut/", "Definition: not capable of being violated or infringed", "Synonyms: infrangible, inviolable"]}
