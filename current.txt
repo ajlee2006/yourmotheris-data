@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T12:01:21.962107+00:00", 3273, "Your mother is", "dissentious", "Pronunciation: /d\u026a\u02c8s\u025bn\u0283\u0259s/", "Definition: dissenting (especially dissenting with the majority opinion)", "Synonyms: divisive, factious"]}
+{"data": ["2021-11-11T13:00:42.391613+00:00", 3274, "Your mother is", "adulterated", "Pronunciation: /\u028c\u02c8d\u028clt\u025dr\u02cce\u026at\u026ad/", "Definition: mixed with impurities", "Synonyms: adulterate, debased"]}
