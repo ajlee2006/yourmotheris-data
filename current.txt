@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T10:00:40.208125+00:00", 3271, "Your mother is", "integrated", "Pronunciation: /\u02c8\u026ant\u0259\u02ccgre\u026at\u026ad/", "Definition: formed or united into a whole", "Synonyms: incorporate, incorporated, merged, unified"]}
+{"data": ["2021-11-11T11:00:19.024589+00:00", 3272, "Your mother is", "interested", "Pronunciation: /\u02c8\u026ant\u0259r\u026ast\u026ad/", "Definition: involved in or affected by or having a claim to or share in", "Synonyms: concerned"]}
