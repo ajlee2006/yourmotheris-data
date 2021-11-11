@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T20:03:17.444695+00:00", 3281, "Your mother is", "consultative", "Pronunciation: /k\u0259n\u02c8s\u0259lt\u0259t\u026av/", "Definition: giving advice", "Synonyms: advisory, consultatory, consultive"]}
+{"data": ["2021-11-11T21:00:47.877031+00:00", 3282, "Your mother is", "fifty-seven", "Pronunciation: /\u02c8f\u026afti-\u02c8s\u025bv\u0259n/", "Definition: being seven more than fifty", "Synonyms: 57, lvii"]}
