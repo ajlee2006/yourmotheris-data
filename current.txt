@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T11:00:19.024589+00:00", 3272, "Your mother is", "interested", "Pronunciation: /\u02c8\u026ant\u0259r\u026ast\u026ad/", "Definition: involved in or affected by or having a claim to or share in", "Synonyms: concerned"]}
+{"data": ["2021-11-11T12:01:21.962107+00:00", 3273, "Your mother is", "dissentious", "Pronunciation: /d\u026a\u02c8s\u025bn\u0283\u0259s/", "Definition: dissenting (especially dissenting with the majority opinion)", "Synonyms: divisive, factious"]}
