@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T05:01:30.066268+00:00", 3266, "Your mother is", "stagey", "Pronunciation: /\u02c8ste\u026ad\u0292i/", "Definition: having characteristics of the stage especially an artificial and mannered quality", "Synonyms: stagy"]}
+{"data": ["2021-11-11T06:02:33.651462+00:00", 3267, "Your mother is", "impracticable", "Pronunciation: /\u026am\u02c8pr\u00e6kt\u0259k\u0259b\u0259l/", "Definition: not capable of being carried out or put into practice", "Synonyms: infeasible, unfeasible, unworkable"]}
