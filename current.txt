@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T08:02:21.089729+00:00", 3269, "Your mother is", "proximal", "Pronunciation: /\u02c8pr\u0251ks\u0259m\u0259l/", "Definition: situated nearest to point of attachment or origin", ""]}
+{"data": ["2021-11-11T09:00:36.666819+00:00", 3270, "Your mother is", "slummy", "Pronunciation: /\u02c8sl\u0259mi/", "Definition: (of housing or residential areas) indicative of poverty", ""]}
