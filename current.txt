@@ -1,1 +1,1 @@
-{"data": ["2021-11-11T13:00:42.391613+00:00", 3274, "Your mother is", "adulterated", "Pronunciation: /\u028c\u02c8d\u028clt\u025dr\u02cce\u026at\u026ad/", "Definition: mixed with impurities", "Synonyms: adulterate, debased"]}
+{"data": ["2021-11-11T14:00:23.439016+00:00", 3275, "Your mother is", "crow-sized", "Similar to: sized", "Definition: having the approximate size of a crow", ""]}
