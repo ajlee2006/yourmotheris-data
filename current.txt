@@ -1,1 +1,1 @@
-{"data": ["2021-11-12T07:01:05.480339+00:00", 3292, "Your mother is", "bantu-speaking", "Similar to: communicative", "Definition: able to communicate in Bantu", ""]}
+{"data": ["2021-11-12T08:02:57.612437+00:00", 3293, "Your mother is", "high-power", "Pronunciation: /ha\u026a-\u02c8pa\u028a\u0259r/", "Definition: vigorously energetic or forceful", "Synonyms: high-energy, high-octane, high-powered, high-voltage"]}
