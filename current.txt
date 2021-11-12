@@ -1,1 +1,1 @@
-{"data": ["2021-11-12T14:01:11.902443+00:00", 3299, "Your mother is", "bouffant", "Pronunciation: /bu\u02c8f\u0251nt/", "Definition: being puffed out; used of hair style or clothing", "Synonyms: puffy"]}
+{"data": ["2021-11-12T15:02:26.527905+00:00", 3300, "Your mother is", "presumable", "Pronunciation: /pr\u026a\u02c8zum\u0259b\u0259l/", "Definition: capable of being inferred on slight grounds", "Synonyms: supposable, surmisable"]}
