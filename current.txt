@@ -1,1 +1,1 @@
-{"data": ["2021-11-12T09:02:42.639991+00:00", 3294, "Your mother is", "primeval", "Pronunciation: /pra\u026a\u02c8miv\u0259l/", "Definition: having existed from the beginning; in an earliest or original stage or state", "Synonyms: aboriginal, primaeval, primal, primordial"]}
+{"data": ["2021-11-12T10:02:06.955502+00:00", 3295, "Your mother is", "alular", "", "Definition: pertaining to alulae", ""]}
