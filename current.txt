@@ -1,1 +1,1 @@
-{"data": ["2021-11-12T20:02:08.232035+00:00", 3305, "Your mother is", "violet-scented", "Similar to: odorous", "Definition: smelling of violets", ""]}
+{"data": ["2021-11-12T21:02:37.822874+00:00", 3306, "Your mother is", "profligate", "Pronunciation: /\u02c8pr\u0251fl\u0259\u0261\u026at/", "Definition: recklessly wasteful", "Synonyms: extravagant, prodigal, spendthrift"]}
