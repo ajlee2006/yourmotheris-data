@@ -1,1 +1,1 @@
-{"data": ["2021-11-12T03:02:09.318224+00:00", 3288, "Your mother is", "dinky", "Pronunciation: /\u02c8d\u026a\u014bki/", "Definition: small and unimpressive", "Synonyms: insignificant"]}
+{"data": ["2021-11-12T04:02:25.683488+00:00", 3289, "Your mother is", "algonkian", "Pronunciation: /\u00e6l\u02c8\u0261\u0251\u014bki\u0259n/", "Definition: of or relating to an Algonquian tribe or its people or language", "Synonyms: algonquian, algonquin"]}
