@@ -1,1 +1,1 @@
-{"data": ["2021-11-12T10:02:06.955502+00:00", 3295, "Your mother is", "alular", "", "Definition: pertaining to alulae", ""]}
+{"data": ["2021-11-12T11:00:52.682245+00:00", 3296, "Your mother is", "bristly", "Pronunciation: /\u02c8brisli/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristled, burred, burry, prickly, setaceous, setose, spiny, thorny"]}
