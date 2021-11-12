@@ -1,1 +1,1 @@
-{"data": ["2021-11-12T17:00:24.858842+00:00", 3302, "Your mother is", "uninstructed", "Pronunciation: /\u02cc\u0259n\u026an\u02c8str\u0259kt\u026ad/", "Definition: lacking information or instruction", "Synonyms: naive, unenlightened"]}
+{"data": ["2021-11-12T18:03:29.329725+00:00", 3303, "Your mother is", "irritative", "Pronunciation: /\u02c8\u026ar\u026a\u02ccte\u026at\u026av/", "Definition: (used of physical stimuli) serving to stimulate or excite", "Synonyms: irritating"]}
