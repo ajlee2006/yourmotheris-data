@@ -1,1 +1,1 @@
-{"data": ["2021-11-12T12:02:25.251214+00:00", 3297, "Your mother is", "fictile", "Pronunciation: /\u02c8f\u026akt\u0259l/", "Definition: capable of being molded or modeled (especially of earth or clay or other soft material)", "Synonyms: moldable, plastic"]}
+{"data": ["2021-11-12T13:03:18.900347+00:00", 3298, "Your mother is", "unforeseeable", "Pronunciation: /\u02cc\u0259nfo\u028ar\u02c8si\u0259b\u0259l/", "Definition: incapable of being anticipated", ""]}
