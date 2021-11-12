@@ -1,1 +1,1 @@
-{"data": ["2021-11-12T05:02:46.442043+00:00", 3290, "Your mother is", "unacquainted", "Similar to: uninformed", "Definition: not knowledgeable about something specified", "Synonyms: innocent"]}
+{"data": ["2021-11-12T06:02:02.774151+00:00", 3291, "Your mother is", "tapering off", "Similar to: decreasing", "Definition: gradually decreasing until little remains", "Synonyms: dwindling, tapering"]}
