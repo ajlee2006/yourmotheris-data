@@ -1,1 +1,1 @@
-{"data": ["2021-11-12T15:02:26.527905+00:00", 3300, "Your mother is", "presumable", "Pronunciation: /pr\u026a\u02c8zum\u0259b\u0259l/", "Definition: capable of being inferred on slight grounds", "Synonyms: supposable, surmisable"]}
+{"data": ["2021-11-12T16:03:03.491170+00:00", 3301, "Your mother is", "mum", "Pronunciation: /m\u0259m/", "Definition: failing to speak or communicate etc when expected to", "Synonyms: silent"]}
