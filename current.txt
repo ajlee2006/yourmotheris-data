@@ -1,1 +1,1 @@
-{"data": ["2021-11-12T08:02:57.612437+00:00", 3293, "Your mother is", "high-power", "Pronunciation: /ha\u026a-\u02c8pa\u028a\u0259r/", "Definition: vigorously energetic or forceful", "Synonyms: high-energy, high-octane, high-powered, high-voltage"]}
+{"data": ["2021-11-12T09:02:42.639991+00:00", 3294, "Your mother is", "primeval", "Pronunciation: /pra\u026a\u02c8miv\u0259l/", "Definition: having existed from the beginning; in an earliest or original stage or state", "Synonyms: aboriginal, primaeval, primal, primordial"]}
