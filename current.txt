@@ -1,1 +1,1 @@
-{"data": ["2021-11-13T20:01:07.583893+00:00", 3329, "Your mother is", "well-bound", "Pronunciation: /w\u025bl-ba\u028and/", "Definition: (of books) having a sturdy and attractive binding", ""]}
+{"data": ["2021-11-13T21:01:08.943683+00:00", 3330, "Your mother is", "wide-cut", "Similar to: ample", "Definition: having ample fabric", "Synonyms: full, wide"]}
