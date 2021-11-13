@@ -1,1 +1,1 @@
-{"data": ["2021-11-13T10:01:58.521481+00:00", 3319, "Your mother is", "restricting", "Pronunciation: /ri\u02c8str\u026akt\u026a\u014b/", "Definition: restricting the scope or freedom of action", "Synonyms: confining, constraining, constrictive, limiting"]}
+{"data": ["2021-11-13T11:01:59.214433+00:00", 3320, "Your mother is", "enraptured", "Pronunciation: /\u025bn\u02c8r\u00e6pt\u0283\u025drd/", "Definition: feeling great rapture or delight", "Synonyms: ecstatic, rapt, rapturous, rhapsodic"]}
