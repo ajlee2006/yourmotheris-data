@@ -1,1 +1,1 @@
-{"data": ["2021-11-13T12:01:29.100204+00:00", 3321, "Your mother is", "axiomatic", "Pronunciation: /\u02cc\u00e6ksi\u0259\u02c8m\u00e6t\u026ak/", "Definition: evident without proof or argument", "Synonyms: self-evident, taken for granted"]}
+{"data": ["2021-11-13T13:02:29.780283+00:00", 3322, "Your mother is", "tailor-made", "Pronunciation: /\u02c8te\u026al\u0259r-me\u026ad/", "Definition: (of clothing) custom-made", "Synonyms: bespoke, bespoken, made-to-order, tailored"]}
