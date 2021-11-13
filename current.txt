@@ -1,1 +1,1 @@
-{"data": ["2021-11-13T05:01:37.937398+00:00", 3314, "Your mother is", "inelegant", "Pronunciation: /\u026an\u02c8\u025bl\u0259\u0261\u0259nt/", "Definition: lacking in refinement or grace or good taste", ""]}
+{"data": ["2021-11-13T06:03:25.633051+00:00", 3315, "Your mother is", "polynomial", "Pronunciation: /\u02ccp\u0251li\u02c8no\u028ami\u0259l/", "Definition: having the character of a polynomial", "Synonyms: multinomial"]}
