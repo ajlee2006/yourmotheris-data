@@ -1,1 +1,1 @@
-{"data": ["2021-11-13T22:00:26.668557+00:00", 3331, "Your mother is", "flagellate", "Pronunciation: /\u02c8fl\u00e6d\u0292\u0259\u02ccle\u026at/", "Definition: having or resembling a lash or whip (as does a flagellum)", "Synonyms: flagellated, lash-like, whiplike"]}
+{"data": ["2021-11-13T23:02:10.890842+00:00", 3332, "Your mother is", "unmistakable", "Pronunciation: /\u02cc\u0259nm\u026a\u02c8ste\u026ak\u0259b\u0259l/", "Definition: clearly revealed to the mind or the senses or judgment", "Synonyms: apparent, evident, manifest, palpable, patent, plain"]}
