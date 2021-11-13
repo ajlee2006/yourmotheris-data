@@ -1,1 +1,1 @@
-{"data": ["2021-11-13T04:03:05.795616+00:00", 3313, "Your mother is", "azoic", "Pronunciation: /\u00e6\u02c8zo\u028a\u026ak/", "Definition: before the appearance of life", ""]}
+{"data": ["2021-11-13T05:01:37.937398+00:00", 3314, "Your mother is", "inelegant", "Pronunciation: /\u026an\u02c8\u025bl\u0259\u0261\u0259nt/", "Definition: lacking in refinement or grace or good taste", ""]}
