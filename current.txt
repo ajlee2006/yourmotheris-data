@@ -1,1 +1,1 @@
-{"data": ["2021-11-13T03:02:25.171124+00:00", 3312, "Your mother is", "ministrant", "Pronunciation: /\u02c8m\u026an\u026astr\u0259nt/", "Definition: giving practical help to", ""]}
+{"data": ["2021-11-13T04:03:05.795616+00:00", 3313, "Your mother is", "azoic", "Pronunciation: /\u00e6\u02c8zo\u028a\u026ak/", "Definition: before the appearance of life", ""]}
