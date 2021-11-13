@@ -1,1 +1,1 @@
-{"data": ["2021-11-13T06:03:25.633051+00:00", 3315, "Your mother is", "polynomial", "Pronunciation: /\u02ccp\u0251li\u02c8no\u028ami\u0259l/", "Definition: having the character of a polynomial", "Synonyms: multinomial"]}
+{"data": ["2021-11-13T07:01:17.144037+00:00", 3316, "Your mother is", "rigid", "Pronunciation: /\u02c8r\u026ad\u0292\u026ad/", "Definition: incapable of adapting or changing to meet circumstances", "Synonyms: inflexible, unbending"]}
