@@ -1,1 +1,1 @@
-{"data": ["2021-11-13T07:01:17.144037+00:00", 3316, "Your mother is", "rigid", "Pronunciation: /\u02c8r\u026ad\u0292\u026ad/", "Definition: incapable of adapting or changing to meet circumstances", "Synonyms: inflexible, unbending"]}
+{"data": ["2021-11-13T08:02:43.654620+00:00", 3317, "Your mother is", "thoroughbred", "Pronunciation: /\u02c8\u03b8\u0259r\u0259\u02ccbr\u025bd/", "Definition: having a list of ancestors as proof of being a purebred animal", "Synonyms: pedigree, pedigreed, pureblood, pureblooded"]}
