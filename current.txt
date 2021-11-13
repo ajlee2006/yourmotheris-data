@@ -1,1 +1,1 @@
-{"data": ["2021-11-13T16:01:04.867619+00:00", 3325, "Your mother is", "fall-blooming", "Similar to: autumnal", "Definition: of plants that bloom during the autumn", "Synonyms: autumn-blooming, autumn-flowering, fall-flowering, late-blooming, late-flowering"]}
+{"data": ["2021-11-13T17:01:06.971934+00:00", 3326, "Your mother is", "retrograde", "Pronunciation: /\u02c8r\u025btr\u0259\u02ccgre\u026ad/", "Definition: moving or directed or tending in a backward direction or contrary to a previous direction", "Synonyms: retral"]}
