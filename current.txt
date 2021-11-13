@@ -1,1 +1,1 @@
-{"data": ["2021-11-13T08:02:43.654620+00:00", 3317, "Your mother is", "thoroughbred", "Pronunciation: /\u02c8\u03b8\u0259r\u0259\u02ccbr\u025bd/", "Definition: having a list of ancestors as proof of being a purebred animal", "Synonyms: pedigree, pedigreed, pureblood, pureblooded"]}
+{"data": ["2021-11-13T09:01:55.332628+00:00", 3318, "Your mother is", "unconditioned", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8d\u026a\u0283\u0259nd/", "Definition: not conditional", "Synonyms: unconditional"]}
