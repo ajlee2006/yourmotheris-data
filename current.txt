@@ -1,1 +1,1 @@
-{"data": ["2021-11-13T17:01:06.971934+00:00", 3326, "Your mother is", "retrograde", "Pronunciation: /\u02c8r\u025btr\u0259\u02ccgre\u026ad/", "Definition: moving or directed or tending in a backward direction or contrary to a previous direction", "Synonyms: retral"]}
+{"data": ["2021-11-13T18:02:36.277106+00:00", 3327, "Your mother is", "polymorphic", "Pronunciation: /\u02ccp\u0251li\u02c8m\u0254rf\u026ak/", "Definition: relating to the crystallization of a compound in two or more different forms", "Synonyms: polymorphous"]}
