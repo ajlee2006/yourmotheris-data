@@ -1,1 +1,1 @@
-{"data": ["2021-11-12T23:02:53.363074+00:00", 3308, "Your mother is", "gap-toothed", "Pronunciation: /\u02c8\u0261\u00e6p\u02cctu\u03b8t/", "Definition: having widely spaced teeth", ""]}
+{"data": ["2021-11-13T00:02:42.925785+00:00", 3309, "Your mother is", "conserved", "Pronunciation: /k\u028cn\u02c8s\u025drvd/", "Definition: protected from harm or loss", ""]}
