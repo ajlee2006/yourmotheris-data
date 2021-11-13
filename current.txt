@@ -1,1 +1,1 @@
-{"data": ["2021-11-13T01:03:14.000756+00:00", 3310, "Your mother is", "lofty", "Pronunciation: /\u02c8l\u0254fti/", "Definition: of high moral or intellectual value; elevated in nature or style", "Synonyms: elevated, exalted, grand, high-flown, high-minded, idealistic, noble-minded, rarefied, rarified, sublime"]}
+{"data": ["2021-11-13T02:02:11.896104+00:00", 3311, "Your mother is", "deserved", "Pronunciation: /d\u026a\u02c8z\u025crvd/", "Definition: properly deserved", "Synonyms: merited"]}
