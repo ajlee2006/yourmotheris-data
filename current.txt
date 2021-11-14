@@ -1,1 +1,1 @@
-{"data": ["2021-11-14T07:03:12.568040+00:00", 3340, "Your mother is", "impressionistic", "Pronunciation: /\u026am\u02ccpr\u025b\u0283\u0259\u02c8n\u026ast\u026ak/", "Definition: relating to or characteristic of Impressionism", "Synonyms: impressionist"]}
+{"data": ["2021-11-14T08:03:22.168840+00:00", 3341, "Your mother is", "flesh-colored", "Pronunciation: /fl\u025b\u0283-\u02c8k\u0259l\u0259rd/", "Definition: having a bright red or pinkish color", "Synonyms: flesh-coloured"]}
