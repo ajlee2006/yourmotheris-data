@@ -1,1 +1,1 @@
-{"data": ["2021-11-14T02:03:35.216838+00:00", 3335, "Your mother is", "democratic", "Pronunciation: /\u02ccd\u025bm\u0259\u02c8kr\u00e6t\u026ak/", "Definition: representing or appealing to or adapted for the benefit of the people at large", "Synonyms: popular"]}
+{"data": ["2021-11-14T03:01:03.789647+00:00", 3336, "Your mother is", "take-away", "Similar to: portable", "Definition: of or involving food to be taken and eaten off the premises", "Synonyms: takeout"]}
