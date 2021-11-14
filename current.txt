@@ -1,1 +1,1 @@
-{"data": ["2021-11-13T23:02:10.890842+00:00", 3332, "Your mother is", "unmistakable", "Pronunciation: /\u02cc\u0259nm\u026a\u02c8ste\u026ak\u0259b\u0259l/", "Definition: clearly revealed to the mind or the senses or judgment", "Synonyms: apparent, evident, manifest, palpable, patent, plain"]}
+{"data": ["2021-11-14T00:03:04.257074+00:00", 3333, "Your mother is", "come-at-able", "Similar to: accessible", "Definition: capable of being reached or attained", "Synonyms: get-at-able, getatable"]}
