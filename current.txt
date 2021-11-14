@@ -1,1 +1,1 @@
-{"data": ["2021-11-14T01:01:04.614843+00:00", 3334, "Your mother is", "distributed", "Pronunciation: /d\u026as\u02c8tr\u026abj\u028ct\u028cd/", "Definition: spread out or scattered about or divided up", ""]}
+{"data": ["2021-11-14T02:03:35.216838+00:00", 3335, "Your mother is", "democratic", "Pronunciation: /\u02ccd\u025bm\u0259\u02c8kr\u00e6t\u026ak/", "Definition: representing or appealing to or adapted for the benefit of the people at large", "Synonyms: popular"]}
