@@ -1,1 +1,1 @@
-{"data": ["2021-11-14T22:02:08.828806+00:00", 3355, "Your mother is", "average", "Pronunciation: /\u02c8\u00e6v\u0259r\u026ad\u0292/", "Definition: lacking special distinction, rank, or status; commonly encountered", "Synonyms: ordinary"]}
+{"data": ["2021-11-14T23:02:35.658463+00:00", 3356, "Your mother is", "power-assisted", "Similar to: aided", "Definition: supplementing or replacing manual effort", ""]}
