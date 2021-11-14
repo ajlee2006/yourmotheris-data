@@ -1,1 +1,1 @@
-{"data": ["2021-11-14T05:03:05.281368+00:00", 3338, "Your mother is", "pandemic", "Pronunciation: /p\u00e6n\u02c8d\u025bm\u026ak/", "Definition: epidemic over a wide geographical area", ""]}
+{"data": ["2021-11-14T06:02:49.420497+00:00", 3339, "Your mother is", "year-around", "Pronunciation: /jir-\u0259\u02c8ra\u028and/", "Definition: operating or continuing throughout the year", "Synonyms: year-round"]}
