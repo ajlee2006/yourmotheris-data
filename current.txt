@@ -1,1 +1,1 @@
-{"data": ["2021-11-14T09:03:05.019107+00:00", 3342, "Your mother is", "swingy", "Pronunciation: /\u02c8sw\u026a\u014bi/", "Definition: characterized by a buoyant rhythm", "Synonyms: lilting, swinging, tripping"]}
+{"data": ["2021-11-14T10:00:22.046394+00:00", 3343, "Your mother is", "blameless", "Pronunciation: /\u02c8ble\u026aml\u026as/", "Definition: free of guilt; not subject to blame", "Synonyms: inculpable, irreproachable, unimpeachable"]}
