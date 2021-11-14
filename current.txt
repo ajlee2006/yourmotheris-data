@@ -1,1 +1,1 @@
-{"data": ["2021-11-14T14:02:07.869207+00:00", 3347, "Your mother is", "nettled", "Pronunciation: /\u02c8n\u025bt\u028cld/", "Definition: aroused to impatience or anger", "Synonyms: annoyed, irritated, miffed, peeved, pissed, pissed off, riled, roiled, steamed, stung"]}
+{"data": ["2021-11-14T15:00:33.697045+00:00", 3348, "Your mother is", "ill-fed", "Pronunciation: /\u026al-f\u025bd/", "Definition: not getting adequate food", "Synonyms: underfed, undernourished"]}
