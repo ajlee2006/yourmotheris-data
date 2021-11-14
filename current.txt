@@ -1,1 +1,1 @@
-{"data": ["2021-11-14T15:00:33.697045+00:00", 3348, "Your mother is", "ill-fed", "Pronunciation: /\u026al-f\u025bd/", "Definition: not getting adequate food", "Synonyms: underfed, undernourished"]}
+{"data": ["2021-11-14T16:02:07.821804+00:00", 3349, "Your mother is", "streaming", "Pronunciation: /\u02c8strim\u026a\u014b/", "Definition: (computer science) using or relating to a form of continuous tape transport; used mainly to provide backup storage of unedited data", ""]}
