@@ -1,1 +1,1 @@
-{"data": ["2021-11-14T13:02:42.557792+00:00", 3346, "Your mother is", "comfortless", "Pronunciation: /\u02c8k\u0259mf\u0259tl\u025bs/", "Definition: without comfort", ""]}
+{"data": ["2021-11-14T14:02:07.869207+00:00", 3347, "Your mother is", "nettled", "Pronunciation: /\u02c8n\u025bt\u028cld/", "Definition: aroused to impatience or anger", "Synonyms: annoyed, irritated, miffed, peeved, pissed, pissed off, riled, roiled, steamed, stung"]}
