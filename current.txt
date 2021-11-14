@@ -1,1 +1,1 @@
-{"data": ["2021-11-14T00:03:04.257074+00:00", 3333, "Your mother is", "come-at-able", "Similar to: accessible", "Definition: capable of being reached or attained", "Synonyms: get-at-able, getatable"]}
+{"data": ["2021-11-14T01:01:04.614843+00:00", 3334, "Your mother is", "distributed", "Pronunciation: /d\u026as\u02c8tr\u026abj\u028ct\u028cd/", "Definition: spread out or scattered about or divided up", ""]}
