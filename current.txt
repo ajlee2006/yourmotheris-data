@@ -1,1 +1,1 @@
-{"data": ["2021-11-14T11:03:17.463199+00:00", 3344, "Your mother is", "corresponding", "Pronunciation: /\u02cck\u0254r\u028c\u02c8sp\u0251nd\u026a\u014b/", "Definition: conforming in every respect", "Synonyms: comparable, like"]}
+{"data": ["2021-11-14T12:01:34.825471+00:00", 3345, "Your mother is", "polydactyl", "Pronunciation: /\u02ccp\u0251li\u02c8d\u00e6kt\u0259l/", "Definition: of or relating to a person (or other vertebrate) having more than the normal number of digits", "Synonyms: polydactylous"]}
