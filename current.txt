@@ -1,1 +1,1 @@
-{"data": ["2021-11-14T04:02:18.915709+00:00", 3337, "Your mother is", "unpaid", "Pronunciation: /\u0259n\u02c8pe\u026ad/", "Definition: without payment", "Synonyms: volunteer"]}
+{"data": ["2021-11-14T05:03:05.281368+00:00", 3338, "Your mother is", "pandemic", "Pronunciation: /p\u00e6n\u02c8d\u025bm\u026ak/", "Definition: epidemic over a wide geographical area", ""]}
