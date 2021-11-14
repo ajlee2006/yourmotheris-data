@@ -1,1 +1,1 @@
-{"data": ["2021-11-14T21:01:35.585809+00:00", 3354, "Your mother is", "legendary", "Pronunciation: /\u02c8l\u025bd\u0292\u0259n\u02ccd\u025bri/", "Definition: celebrated in fable or legend", "Synonyms: fabled"]}
+{"data": ["2021-11-14T22:02:08.828806+00:00", 3355, "Your mother is", "average", "Pronunciation: /\u02c8\u00e6v\u0259r\u026ad\u0292/", "Definition: lacking special distinction, rank, or status; commonly encountered", "Synonyms: ordinary"]}
