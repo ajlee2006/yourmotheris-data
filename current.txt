@@ -1,1 +1,1 @@
-{"data": ["2021-11-15T14:01:38.481671+00:00", 3371, "Your mother is", "verbatim", "Pronunciation: /v\u0259r\u02c8be\u026at\u026am/", "Definition: in precisely the same words used by a writer or speaker", "Synonyms: direct"]}
+{"data": ["2021-11-15T15:03:15.445574+00:00", 3372, "Your mother is", "glutinous", "Pronunciation: /\u02c8glut\u0259n\u0259s/", "Definition: having the sticky properties of an adhesive", "Synonyms: gluey, gummy, mucilaginous, pasty, sticky, viscid, viscous"]}
