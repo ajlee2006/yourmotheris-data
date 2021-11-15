@@ -1,1 +1,1 @@
-{"data": ["2021-11-15T10:01:42.615454+00:00", 3367, "Your mother is", "blamed", "Pronunciation: /ble\u026amd/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blasted, blessed, damn, damned, darned, deuced, goddam, goddamn, goddamned, infernal"]}
+{"data": ["2021-11-15T11:03:08.401722+00:00", 3368, "Your mother is", "cxxxv", "Similar to: cardinal", "Definition: being five more than one hundred thirty", "Synonyms: 135, one hundred thirty-five"]}
