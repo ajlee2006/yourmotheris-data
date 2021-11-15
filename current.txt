@@ -1,1 +1,1 @@
-{"data": ["2021-11-15T05:02:47.096058+00:00", 3362, "Your mother is", "barred", "Pronunciation: /b\u0251rd/", "Definition: preventing entry or exit or a course of action", "Synonyms: barricaded, blockaded"]}
+{"data": ["2021-11-15T06:01:25.780231+00:00", 3363, "Your mother is", "keeled", "", "Definition: having a ridge or shaped like a ridge or suggesting the keel of a ship", "Synonyms: carinate, carinated, ridged"]}
