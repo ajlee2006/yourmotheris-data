@@ -1,1 +1,1 @@
-{"data": ["2021-11-15T13:02:15.885252+00:00", 3370, "Your mother is", "anthophilous", "Pronunciation: /\u00e6n\u02c8\u03b8\u0251f\u0259l\u0259s/", "Definition: feeding on flowers", "Synonyms: anthophagous"]}
+{"data": ["2021-11-15T14:01:38.481671+00:00", 3371, "Your mother is", "verbatim", "Pronunciation: /v\u0259r\u02c8be\u026at\u026am/", "Definition: in precisely the same words used by a writer or speaker", "Synonyms: direct"]}
