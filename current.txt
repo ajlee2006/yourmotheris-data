@@ -1,1 +1,1 @@
-{"data": ["2021-11-15T01:03:32.779467+00:00", 3358, "Your mother is", "synthetical", "", "Definition: involving or of the nature of synthesis (combining separate elements to form a coherent whole) as opposed to analysis", "Synonyms: synthetic"]}
+{"data": ["2021-11-15T02:02:13.568834+00:00", 3359, "Your mother is", "sycophantic", "Pronunciation: /\u02ccs\u026ak\u0259\u02c8f\u00e6nt\u026ak/", "Definition: attempting to win favor from influential people by flattery", "Synonyms: bootlicking, fawning, obsequious, toadyish"]}
