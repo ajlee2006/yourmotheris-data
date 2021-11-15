@@ -1,1 +1,1 @@
-{"data": ["2021-11-15T20:03:22.219580+00:00", 3377, "Your mother is", "aglitter", "Pronunciation: /\u0259\u02c8gl\u026at\u0259r/", "Definition: having brief brilliant points or flashes of light", "Synonyms: coruscant, fulgid, glinting, glistering, glittering, glittery, scintillant, scintillating, sparkly"]}
+{"data": ["2021-11-15T21:02:04.683976+00:00", 3378, "Your mother is", "unengaged", "Pronunciation: /\u02cc\u0259n\u026an\u02c8\u0261e\u026ad\u0292d/", "Definition: not promised in marriage", "Synonyms: unpledged, unpromised"]}
