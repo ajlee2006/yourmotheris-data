@@ -1,1 +1,1 @@
-{"data": ["2021-11-14T23:02:35.658463+00:00", 3356, "Your mother is", "power-assisted", "Similar to: aided", "Definition: supplementing or replacing manual effort", ""]}
+{"data": ["2021-11-15T00:02:42.460509+00:00", 3357, "Your mother is", "lemony", "Similar to: sour", "Definition: tasting sour like a lemon", "Synonyms: lemonlike, sourish, tangy, tart"]}
