@@ -1,1 +1,1 @@
-{"data": ["2021-11-15T12:02:40.974490+00:00", 3369, "Your mother is", "leafed", "Pronunciation: /lift/", "Definition: having leaves or leaves as specified; often used in combination", "Synonyms: leaved"]}
+{"data": ["2021-11-15T13:02:15.885252+00:00", 3370, "Your mother is", "anthophilous", "Pronunciation: /\u00e6n\u02c8\u03b8\u0251f\u0259l\u0259s/", "Definition: feeding on flowers", "Synonyms: anthophagous"]}
