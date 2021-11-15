@@ -1,1 +1,1 @@
-{"data": ["2021-11-15T04:03:01.322182+00:00", 3361, "Your mother is", "algorithmic", "Similar to: recursive", "Definition: of or relating to or having the characteristics of an algorithm", ""]}
+{"data": ["2021-11-15T05:02:47.096058+00:00", 3362, "Your mother is", "barred", "Pronunciation: /b\u0251rd/", "Definition: preventing entry or exit or a course of action", "Synonyms: barricaded, blockaded"]}
