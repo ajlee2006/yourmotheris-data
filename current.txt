@@ -1,1 +1,1 @@
-{"data": ["2021-11-15T02:02:13.568834+00:00", 3359, "Your mother is", "sycophantic", "Pronunciation: /\u02ccs\u026ak\u0259\u02c8f\u00e6nt\u026ak/", "Definition: attempting to win favor from influential people by flattery", "Synonyms: bootlicking, fawning, obsequious, toadyish"]}
+{"data": ["2021-11-15T03:02:01.147543+00:00", 3360, "Your mother is", "wilful", "Pronunciation: /\u02c8w\u026alf\u0259l/", "Definition: done by design", "Synonyms: willful"]}
