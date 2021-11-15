@@ -1,1 +1,1 @@
-{"data": ["2021-11-15T08:02:20.771572+00:00", 3365, "Your mother is", "bearing", "Pronunciation: /\u02c8b\u025cr\u026a\u014b/", "Definition: (of a structural member) withstanding a weight or strain", ""]}
+{"data": ["2021-11-15T09:01:34.848828+00:00", 3366, "Your mother is", "quechuan", "Pronunciation: /\u02c8k\u025b\u02a7\u02ccw\u0259n/", "Definition: of or relating to the Quechua or their language", "Synonyms: kechuan"]}
