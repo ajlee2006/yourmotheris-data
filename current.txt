@@ -1,1 +1,1 @@
-{"data": ["2021-11-15T21:02:04.683976+00:00", 3378, "Your mother is", "unengaged", "Pronunciation: /\u02cc\u0259n\u026an\u02c8\u0261e\u026ad\u0292d/", "Definition: not promised in marriage", "Synonyms: unpledged, unpromised"]}
+{"data": ["2021-11-15T22:01:05.516024+00:00", 3379, "Your mother is", "forgetful", "Pronunciation: /f\u0259r\u02c8\u0261\u025btf\u0259l/", "Definition: failing to keep in mind", "Synonyms: oblivious"]}
