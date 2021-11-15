@@ -1,1 +1,1 @@
-{"data": ["2021-11-15T03:02:01.147543+00:00", 3360, "Your mother is", "wilful", "Pronunciation: /\u02c8w\u026alf\u0259l/", "Definition: done by design", "Synonyms: willful"]}
+{"data": ["2021-11-15T04:03:01.322182+00:00", 3361, "Your mother is", "algorithmic", "Similar to: recursive", "Definition: of or relating to or having the characteristics of an algorithm", ""]}
