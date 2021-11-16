@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T02:01:25.479564+00:00", 3383, "Your mother is", "dianoetic", "Pronunciation: /\u02ccda\u026a\u0259no\u028a\u02c8\u025bt\u026ak/", "Definition: proceeding to a conclusion by reason or argument rather than intuition", "Synonyms: discursive"]}
+{"data": ["2021-11-16T03:00:46.096547+00:00", 3384, "Your mother is", "graduated", "Pronunciation: /\u02c8gr\u00e6d\u0292u\u02cce\u026at\u026ad/", "Definition: marked with or divided into degrees", "Synonyms: calibrated"]}
