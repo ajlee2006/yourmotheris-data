@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T07:03:21.157230+00:00", 3388, "Your mother is", "epiphyseal", "Pronunciation: /\u02cc\u025bp\u0259\u02c8f\u026azi\u0259l/", "Definition: relating to the epiphysis of a bone", "Synonyms: epiphysial"]}
+{"data": ["2021-11-16T08:01:52.983746+00:00", 3389, "Your mother is", "vertical", "Pronunciation: /\u02c8v\u025crt\u026ak\u0259l/", "Definition: at right angles to the plane of the horizon or a base line", "Synonyms: perpendicular"]}
