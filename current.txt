@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T20:02:24.278591+00:00", 3401, "Your mother is", "endogamous", "", "Definition: pertaining to or characterized by the custom of marrying only within the limits of a clan or tribe", "Synonyms: endogamic"]}
+{"data": ["2021-11-16T21:00:29.101874+00:00", 3402, "Your mother is", "basidiomycetous", "Pronunciation: /b\u0259\u02ccs\u026adio\u028ama\u026a\u02c8sit\u0259s/", "Definition: pertaining to or characteristic of fungi of the class Basidiomycetes", ""]}
