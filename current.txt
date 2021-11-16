@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T08:01:52.983746+00:00", 3389, "Your mother is", "vertical", "Pronunciation: /\u02c8v\u025crt\u026ak\u0259l/", "Definition: at right angles to the plane of the horizon or a base line", "Synonyms: perpendicular"]}
+{"data": ["2021-11-16T09:01:12.307189+00:00", 3390, "Your mother is", "toxicological", "Pronunciation: /\u02c8t\u0251ks\u0259k\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to toxicology", "Synonyms: toxicologic"]}
