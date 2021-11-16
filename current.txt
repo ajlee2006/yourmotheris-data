@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T10:00:22.106583+00:00", 3391, "Your mother is", "inopportune", "Pronunciation: /\u026an\u02cc\u0251p\u0259r\u02c8tun/", "Definition: not opportune", ""]}
+{"data": ["2021-11-16T11:01:37.169533+00:00", 3392, "Your mother is", "cambodian", "Pronunciation: /k\u00e6m\u02c8bo\u028adi\u0259n/", "Definition: of or relating to or characteristic of Cambodia or its people or language", "Synonyms: kampuchean"]}
