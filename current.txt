@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T13:01:22.537905+00:00", 3394, "Your mother is", "scholarly", "Pronunciation: /\u02c8sk\u0251l\u025drli/", "Definition: characteristic of scholars or scholarship", ""]}
+{"data": ["2021-11-16T14:02:07.126053+00:00", 3395, "Your mother is", "bichrome", "Similar to: colored", "Definition: having two colors", "Synonyms: bicolor, bicolored, bicolour, bicoloured, dichromatic"]}
