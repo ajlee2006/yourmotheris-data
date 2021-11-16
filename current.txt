@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T03:00:46.096547+00:00", 3384, "Your mother is", "graduated", "Pronunciation: /\u02c8gr\u00e6d\u0292u\u02cce\u026at\u026ad/", "Definition: marked with or divided into degrees", "Synonyms: calibrated"]}
+{"data": ["2021-11-16T04:01:49.455946+00:00", 3385, "Your mother is", "transmittable", "Pronunciation: /tr\u00e6nz\u02c8m\u026at\u028cb\u028cl/", "Definition: (of disease) capable of being transmitted by infection", "Synonyms: catching, communicable, contagious, contractable, transmissible"]}
