@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T04:01:49.455946+00:00", 3385, "Your mother is", "transmittable", "Pronunciation: /tr\u00e6nz\u02c8m\u026at\u028cb\u028cl/", "Definition: (of disease) capable of being transmitted by infection", "Synonyms: catching, communicable, contagious, contractable, transmissible"]}
+{"data": ["2021-11-16T05:02:26.000548+00:00", 3386, "Your mother is", "snug", "Pronunciation: /sn\u0259\u0261/", "Definition: fitting closely but comfortably", "Synonyms: close, close-fitting"]}
