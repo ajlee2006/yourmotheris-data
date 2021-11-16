@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T15:01:08.718048+00:00", 3396, "Your mother is", "reniform", "Pronunciation: /\u02c8r\u025bn\u0259\u02ccf\u0254rm/", "Definition: (of a leaf or bean shape) resembling the shape of kidney", "Synonyms: kidney-shaped"]}
+{"data": ["2021-11-16T16:03:13.148175+00:00", 3397, "Your mother is", "agglutinate", "Pronunciation: /\u0259\u02c8glut\u0259n\u026at/", "Definition: united as if by glue", "Synonyms: agglutinative"]}
