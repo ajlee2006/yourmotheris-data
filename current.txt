@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T06:03:16.282902+00:00", 3387, "Your mother is", "cryptanalytic", "", "Definition: of or relating to cryptanalysis", "Synonyms: cryptographic, cryptographical, cryptologic, cryptological"]}
+{"data": ["2021-11-16T07:03:21.157230+00:00", 3388, "Your mother is", "epiphyseal", "Pronunciation: /\u02cc\u025bp\u0259\u02c8f\u026azi\u0259l/", "Definition: relating to the epiphysis of a bone", "Synonyms: epiphysial"]}
