@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T05:02:26.000548+00:00", 3386, "Your mother is", "snug", "Pronunciation: /sn\u0259\u0261/", "Definition: fitting closely but comfortably", "Synonyms: close, close-fitting"]}
+{"data": ["2021-11-16T06:03:16.282902+00:00", 3387, "Your mother is", "cryptanalytic", "", "Definition: of or relating to cryptanalysis", "Synonyms: cryptographic, cryptographical, cryptologic, cryptological"]}
