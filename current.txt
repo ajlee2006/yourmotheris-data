@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T19:02:18.960695+00:00", 3400, "Your mother is", "unequal to", "Similar to: inadequate", "Definition: not meeting requirements", "Synonyms: incapable, incompetent"]}
+{"data": ["2021-11-16T20:02:24.278591+00:00", 3401, "Your mother is", "endogamous", "", "Definition: pertaining to or characterized by the custom of marrying only within the limits of a clan or tribe", "Synonyms: endogamic"]}
