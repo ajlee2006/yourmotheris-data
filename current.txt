@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T12:01:25.548384+00:00", 3393, "Your mother is", "ultraviolet", "Pronunciation: /\u02cc\u0259ltr\u0259\u02c8va\u026a\u0259l\u026at/", "Definition: having or employing wavelengths shorter than light but longer than X-rays; lying outside the visible spectrum at its violet end", ""]}
+{"data": ["2021-11-16T13:01:22.537905+00:00", 3394, "Your mother is", "scholarly", "Pronunciation: /\u02c8sk\u0251l\u025drli/", "Definition: characteristic of scholars or scholarship", ""]}
