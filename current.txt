@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T14:02:07.126053+00:00", 3395, "Your mother is", "bichrome", "Similar to: colored", "Definition: having two colors", "Synonyms: bicolor, bicolored, bicolour, bicoloured, dichromatic"]}
+{"data": ["2021-11-16T15:01:08.718048+00:00", 3396, "Your mother is", "reniform", "Pronunciation: /\u02c8r\u025bn\u0259\u02ccf\u0254rm/", "Definition: (of a leaf or bean shape) resembling the shape of kidney", "Synonyms: kidney-shaped"]}
