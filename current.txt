@@ -1,1 +1,1 @@
-{"data": ["2021-11-15T23:03:06.409714+00:00", 3380, "Your mother is", "brainsick", "Pronunciation: /\u02c8bre\u026an\u02ccs\u026ak/", "Definition: affected with madness or insanity", "Synonyms: crazy, demented, disturbed, mad, sick, unbalanced, unhinged"]}
+{"data": ["2021-11-16T00:04:07.662711+00:00", 3381, "Your mother is", "starred", "Pronunciation: /st\u0251rd/", "Definition: marked with an asterisk", "Synonyms: asterisked"]}
