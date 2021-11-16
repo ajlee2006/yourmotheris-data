@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T09:01:12.307189+00:00", 3390, "Your mother is", "toxicological", "Pronunciation: /\u02c8t\u0251ks\u0259k\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to toxicology", "Synonyms: toxicologic"]}
+{"data": ["2021-11-16T10:00:22.106583+00:00", 3391, "Your mother is", "inopportune", "Pronunciation: /\u026an\u02cc\u0251p\u0259r\u02c8tun/", "Definition: not opportune", ""]}
