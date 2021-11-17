@@ -1,1 +1,1 @@
-{"data": ["2021-11-17T03:01:59.429714+00:00", 3408, "Your mother is", "appellate", "Pronunciation: /\u0259\u02c8p\u025bl\u026at/", "Definition: of or relating to or taking account of appeals (usually legal appeals)", "Synonyms: appellant"]}
+{"data": ["2021-11-17T04:02:33.685681+00:00", 3409, "Your mother is", "stripped-down", "Similar to: minimal", "Definition: having only essential or minimal features", "Synonyms: stripped"]}
