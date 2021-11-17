@@ -1,1 +1,1 @@
-{"data": ["2021-11-17T19:01:34.768599+00:00", 3424, "Your mother is", "stuck", "Pronunciation: /st\u0259k/", "Definition: baffled", ""]}
+{"data": ["2021-11-17T20:00:32.616286+00:00", 3425, "Your mother is", "patient", "Pronunciation: /\u02c8pe\u026a\u0283\u025bnt/", "Definition: enduring trying circumstances with even temper or characterized by such endurance", ""]}
