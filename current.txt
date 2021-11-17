@@ -1,1 +1,1 @@
-{"data": ["2021-11-17T12:01:15.161867+00:00", 3417, "Your mother is", "drawn", "Pronunciation: /dr\u0254n/", "Definition: showing the wearing effects of overwork or care or suffering", "Synonyms: careworn, haggard, raddled, worn"]}
+{"data": ["2021-11-17T13:01:46.205185+00:00", 3418, "Your mother is", "menial", "Pronunciation: /\u02c8mini\u0259l/", "Definition: used of unskilled work (especially domestic work)", "Synonyms: humble, lowly"]}
