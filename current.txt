@@ -1,1 +1,1 @@
-{"data": ["2021-11-17T05:01:56.806837+00:00", 3410, "Your mother is", "small", "Pronunciation: /sm\u0254l/", "Definition: not large but sufficient in size or amount", "Synonyms: modest"]}
+{"data": ["2021-11-17T06:03:14.038687+00:00", 3411, "Your mother is", "retrievable", "Similar to: recoverable", "Definition: capable of being regained especially with effort", ""]}
