@@ -1,1 +1,1 @@
-{"data": ["2021-11-17T01:01:42.214011+00:00", 3406, "Your mother is", "offside", "Pronunciation: /\u02c8\u0254f\u02c8sa\u026ad/", "Definition: illegally beyond a prescribed line or area or ahead of the ball or puck", "Synonyms: offsides"]}
+{"data": ["2021-11-17T02:01:03.692280+00:00", 3407, "Your mother is", "conjugal", "Pronunciation: /\u02c8k\u0251nd\u0292\u0259\u0261\u0259l/", "Definition: of or relating to marriage or to the relationship between a wife and husband", "Synonyms: connubial"]}
