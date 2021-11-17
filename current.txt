@@ -1,1 +1,1 @@
-{"data": ["2021-11-17T13:01:46.205185+00:00", 3418, "Your mother is", "menial", "Pronunciation: /\u02c8mini\u0259l/", "Definition: used of unskilled work (especially domestic work)", "Synonyms: humble, lowly"]}
+{"data": ["2021-11-17T14:00:27.822869+00:00", 3419, "Your mother is", "babyish", "Pronunciation: /\u02c8be\u026ab\u026a\u026a\u0283/", "Definition: characteristic of a baby", ""]}
