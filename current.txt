@@ -1,1 +1,1 @@
-{"data": ["2021-11-16T23:01:40.241426+00:00", 3404, "Your mother is", "uncontrolled", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8tro\u028ald/", "Definition: not being under control; out of control", ""]}
+{"data": ["2021-11-17T00:03:46.152014+00:00", 3405, "Your mother is", "sleepyheaded", "Similar to: asleep", "Definition: ready to fall asleep", "Synonyms: sleepy, sleepy-eyed"]}
