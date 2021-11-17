@@ -1,1 +1,1 @@
-{"data": ["2021-11-17T11:02:26.340229+00:00", 3416, "Your mother is", "twilight", "Pronunciation: /\u02c8twa\u026a\u02ccla\u026at/", "Definition: lighted by or as if by twilight", "Synonyms: dusky, twilit"]}
+{"data": ["2021-11-17T12:01:15.161867+00:00", 3417, "Your mother is", "drawn", "Pronunciation: /dr\u0254n/", "Definition: showing the wearing effects of overwork or care or suffering", "Synonyms: careworn, haggard, raddled, worn"]}
