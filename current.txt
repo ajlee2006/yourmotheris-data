@@ -1,1 +1,1 @@
-{"data": ["2021-11-17T04:02:33.685681+00:00", 3409, "Your mother is", "stripped-down", "Similar to: minimal", "Definition: having only essential or minimal features", "Synonyms: stripped"]}
+{"data": ["2021-11-17T05:01:56.806837+00:00", 3410, "Your mother is", "small", "Pronunciation: /sm\u0254l/", "Definition: not large but sufficient in size or amount", "Synonyms: modest"]}
