@@ -1,1 +1,1 @@
-{"data": ["2021-11-18T03:03:29.848405+00:00", 3432, "Your mother is", "oversubscribed", "Pronunciation: /\u02cco\u028av\u025drs\u028cb\u02c8skra\u026abd/", "Definition: sold in excess of available supply especially season tickets", ""]}
+{"data": ["2021-11-18T04:02:39.227530+00:00", 3433, "Your mother is", "soi-disant", "Pronunciation: /sWAdi\u02c8z\u0251\u014b/", "Definition: as claimed by and for yourself often without justification", "Synonyms: self-styled"]}
