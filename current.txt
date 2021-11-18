@@ -1,1 +1,1 @@
-{"data": ["2021-11-18T12:01:29.990918+00:00", 3441, "Your mother is", "micrometeoric", "", "Definition: of or relating to micrometeorites", "Synonyms: micrometeoritic"]}
+{"data": ["2021-11-18T13:01:30.929222+00:00", 3442, "Your mother is", "haywire", "Pronunciation: /\u02c8he\u026a\u02ccwa\u026a\u0259r/", "Definition: not functioning properly", "Synonyms: amiss, awry, wrong"]}
