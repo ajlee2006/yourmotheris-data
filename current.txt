@@ -1,1 +1,1 @@
-{"data": ["2021-11-18T13:01:30.929222+00:00", 3442, "Your mother is", "haywire", "Pronunciation: /\u02c8he\u026a\u02ccwa\u026a\u0259r/", "Definition: not functioning properly", "Synonyms: amiss, awry, wrong"]}
+{"data": ["2021-11-18T14:00:47.033713+00:00", 3443, "Your mother is", "nonexploratory", "", "Definition: not exploratory", "Synonyms: nonexplorative, unexplorative, unexploratory"]}
