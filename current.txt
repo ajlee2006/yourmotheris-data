@@ -1,1 +1,1 @@
-{"data": ["2021-11-18T05:01:42.733485+00:00", 3434, "Your mother is", "disharmonious", "Pronunciation: /\u02ccd\u026as\u02cch\u0251r\u02c8mo\u028ani\u0259s/", "Definition: lacking in harmony", "Synonyms: discordant, dissonant, inharmonic"]}
+{"data": ["2021-11-18T06:00:29.991650+00:00", 3435, "Your mother is", "oversuspicious", "Similar to: distrustful", "Definition: unduly suspicious", ""]}
