@@ -1,1 +1,1 @@
-{"data": ["2021-11-18T22:02:31.000382+00:00", 3451, "Your mother is", "sorrowful", "Pronunciation: /\u02c8s\u0251ro\u028a\u02ccf\u028al/", "Definition: experiencing or marked by or expressing sorrow especially that associated with irreparable loss", ""]}
+{"data": ["2021-11-18T23:03:13.138931+00:00", 3452, "Your mother is", "bungled", "Pronunciation: /\u02c8b\u028c\u014b\u0261\u028cld/", "Definition: spoiled through incompetence or clumsiness", "Synonyms: botched"]}
