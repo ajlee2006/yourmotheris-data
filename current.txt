@@ -1,1 +1,1 @@
-{"data": ["2021-11-18T10:03:31.246600+00:00", 3439, "Your mother is", "semicomatose", "Pronunciation: /\u02ccs\u025bm\u026a\u02c8k\u0251m\u0259\u02ccto\u028as/", "Definition: in a state of partial coma", ""]}
+{"data": ["2021-11-18T11:00:48.399327+00:00", 3440, "Your mother is", "regulation", "Pronunciation: /\u02ccr\u025b\u0261j\u028a\u02c8le\u026a\u0283\u0259n/", "Definition: prescribed by or according to regulation", ""]}
