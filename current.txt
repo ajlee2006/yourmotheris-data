@@ -1,1 +1,1 @@
-{"data": ["2021-11-18T18:02:32.398001+00:00", 3447, "Your mother is", "hammer-shaped", "Pronunciation: /\u02c8h\u00e6m\u0259r-\u0283e\u026apt/", "Definition: shaped in the form of a hammer", ""]}
+{"data": ["2021-11-18T19:02:23.769330+00:00", 3448, "Your mother is", "yellow-green", "Pronunciation: /\u02c8j\u025blo\u028a-grin/", "Definition: of a color midway between yellow and green", ""]}
