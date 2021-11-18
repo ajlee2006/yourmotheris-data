@@ -1,1 +1,1 @@
-{"data": ["2021-11-18T11:00:48.399327+00:00", 3440, "Your mother is", "regulation", "Pronunciation: /\u02ccr\u025b\u0261j\u028a\u02c8le\u026a\u0283\u0259n/", "Definition: prescribed by or according to regulation", ""]}
+{"data": ["2021-11-18T12:01:29.990918+00:00", 3441, "Your mother is", "micrometeoric", "", "Definition: of or relating to micrometeorites", "Synonyms: micrometeoritic"]}
