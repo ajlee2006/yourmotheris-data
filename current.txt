@@ -1,1 +1,1 @@
-{"data": ["2021-11-18T16:02:43.576533+00:00", 3445, "Your mother is", "all-time", "Pronunciation: /\u0254l-ta\u026am/", "Definition: unsurpassed in some respect up to the present", ""]}
+{"data": ["2021-11-18T17:02:56.634372+00:00", 3446, "Your mother is", "undaunted", "Pronunciation: /\u0259n\u02c8d\u0254nt\u026ad/", "Definition: unshaken in purpose", "Synonyms: undismayed, unshaken"]}
