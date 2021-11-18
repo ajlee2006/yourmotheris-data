@@ -1,1 +1,1 @@
-{"data": ["2021-11-18T19:02:23.769330+00:00", 3448, "Your mother is", "yellow-green", "Pronunciation: /\u02c8j\u025blo\u028a-grin/", "Definition: of a color midway between yellow and green", ""]}
+{"data": ["2021-11-18T20:01:36.582259+00:00", 3449, "Your mother is", "glamourous", "Similar to: exciting", "Definition: having an air of allure, romance and excitement", "Synonyms: glamorous"]}
