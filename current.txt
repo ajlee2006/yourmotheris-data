@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T12:00:28.553736+00:00", 3465, "Your mother is", "benedictory", "Pronunciation: /\u02ccb\u025bn\u026a\u02c8d\u026akt\u0259ri/", "Definition: expressing benediction", "Synonyms: benedictive"]}
+{"data": ["2021-11-19T13:02:02.045253+00:00", 3466, "Your mother is", ".38 caliber", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures thirty-eight hundredths of an inch in diameter", "Synonyms: .38-caliber, .38-calibre, .38 calibre"]}
