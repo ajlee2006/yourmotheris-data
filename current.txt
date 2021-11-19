@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T03:02:04.749855+00:00", 3456, "Your mother is", "aberrant", "Pronunciation: /\u0259\u02c8b\u025br\u0259nt/", "Definition: markedly different from an accepted norm", "Synonyms: deviant, deviate"]}
+{"data": ["2021-11-19T04:00:30.270624+00:00", 3457, "Your mother is", "tearaway", "Pronunciation: /\u02c8t\u025cr\u0259\u02ccwe\u026a/", "Definition: characterized by undue haste and lack of thought or deliberation", "Synonyms: brainish, hotheaded, impetuous, impulsive, madcap"]}
