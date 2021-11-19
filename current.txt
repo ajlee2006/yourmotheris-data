@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T04:00:30.270624+00:00", 3457, "Your mother is", "tearaway", "Pronunciation: /\u02c8t\u025cr\u0259\u02ccwe\u026a/", "Definition: characterized by undue haste and lack of thought or deliberation", "Synonyms: brainish, hotheaded, impetuous, impulsive, madcap"]}
+{"data": ["2021-11-19T05:00:27.645289+00:00", 3458, "Your mother is", "elaborate", "Pronunciation: /\u026a\u02c8l\u00e6b\u0259r\u026at/", "Definition: marked by complexity and richness of detail", "Synonyms: luxuriant"]}
