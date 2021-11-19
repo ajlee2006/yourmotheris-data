@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T14:01:23.426395+00:00", 3467, "Your mother is", "tyrolean", "Pronunciation: /t\u026a\u02c8ro\u028ali\u0259n/", "Definition: of or relating to or characteristic of the Tyrol or its people", "Synonyms: tyrolese"]}
+{"data": ["2021-11-19T15:01:11.939336+00:00", 3468, "Your mother is", "equanimous", "Pronunciation: /\u026a\u02c8kw\u00e6n\u0259m\u0259s/", "Definition: in full control of your faculties", "Synonyms: collected, poised, self-collected, self-contained, self-possessed"]}
