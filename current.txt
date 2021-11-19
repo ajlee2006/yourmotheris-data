@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T07:01:36.443929+00:00", 3460, "Your mother is", "latino", "Pronunciation: /l\u00e6\u02c8tino\u028a/", "Definition: related to a Spanish-speaking people or culture", "Synonyms: hispanic"]}
+{"data": ["2021-11-19T08:03:16.958499+00:00", 3461, "Your mother is", "misbranded", "Similar to: illegal", "Definition: branded or labeled falsely and in violation of statutory requirements", "Synonyms: mislabeled"]}
