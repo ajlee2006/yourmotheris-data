@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T19:02:09.473532+00:00", 3472, "Your mother is", "experienced", "Pronunciation: /\u026ak\u02c8spiri\u0259nst/", "Definition: having experience; having knowledge or skill from observation or participation", "Synonyms: experient"]}
+{"data": ["2021-11-19T20:03:20.547087+00:00", 3473, "Your mother is", "lapsed", "Pronunciation: /l\u00e6pst/", "Definition: no longer active or practicing", "Synonyms: nonchurchgoing"]}
