@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T09:02:05.097943+00:00", 3462, "Your mother is", "nectarous", "Pronunciation: /\u02c8n\u025bkt\u0259r\u0259s/", "Definition: extremely pleasing to the taste; sweet and fragrant", "Synonyms: ambrosial, ambrosian"]}
+{"data": ["2021-11-19T10:03:09.244762+00:00", 3463, "Your mother is", "eventual", "Pronunciation: /\u026a\u02c8v\u025bn\u02a7u\u0259l/", "Definition: expected to follow in the indefinite future from causes already operating", ""]}
