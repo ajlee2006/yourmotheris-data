@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T20:03:20.547087+00:00", 3473, "Your mother is", "lapsed", "Pronunciation: /l\u00e6pst/", "Definition: no longer active or practicing", "Synonyms: nonchurchgoing"]}
+{"data": ["2021-11-19T21:01:10.003555+00:00", 3474, "Your mother is", "accompanying", "Pronunciation: /\u028c\u02c8k\u028cmp\u028cni\u026a\u014b/", "Definition: occurring with or following as a consequence", "Synonyms: attendant, collateral, concomitant, consequent, ensuant, incidental, resultant, sequent"]}
