@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T13:02:02.045253+00:00", 3466, "Your mother is", ".38 caliber", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures thirty-eight hundredths of an inch in diameter", "Synonyms: .38-caliber, .38-calibre, .38 calibre"]}
+{"data": ["2021-11-19T14:01:23.426395+00:00", 3467, "Your mother is", "tyrolean", "Pronunciation: /t\u026a\u02c8ro\u028ali\u0259n/", "Definition: of or relating to or characteristic of the Tyrol or its people", "Synonyms: tyrolese"]}
