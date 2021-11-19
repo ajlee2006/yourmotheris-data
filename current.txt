@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T21:01:10.003555+00:00", 3474, "Your mother is", "accompanying", "Pronunciation: /\u028c\u02c8k\u028cmp\u028cni\u026a\u014b/", "Definition: occurring with or following as a consequence", "Synonyms: attendant, collateral, concomitant, consequent, ensuant, incidental, resultant, sequent"]}
+{"data": ["2021-11-19T22:02:48.751739+00:00", 3475, "Your mother is", "preventive", "Pronunciation: /pr\u026a\u02c8v\u025bnt\u026av/", "Definition: preventing or contributing to the prevention of disease", "Synonyms: preventative, prophylactic"]}
