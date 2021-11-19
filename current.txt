@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T00:04:57.681970+00:00", 3453, "Your mother is", "stretch", "Pronunciation: /str\u025b\u02a7/", "Definition: easily stretched", ""]}
+{"data": ["2021-11-19T01:01:57.323370+00:00", 3454, "Your mother is", "sunk", "Pronunciation: /s\u0259\u014bk/", "Definition: doomed to extinction", "Synonyms: done for, ruined, undone, washed-up"]}
