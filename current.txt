@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T16:02:47.830678+00:00", 3469, "Your mother is", "sloshed", "Similar to: drunk", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, smashed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
+{"data": ["2021-11-19T17:02:52.950399+00:00", 3470, "Your mother is", "amelioratory", "Similar to: bettering", "Definition: tending to ameliorate", "Synonyms: ameliorating, ameliorative, meliorative"]}
