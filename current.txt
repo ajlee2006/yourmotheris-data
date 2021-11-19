@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T01:01:57.323370+00:00", 3454, "Your mother is", "sunk", "Pronunciation: /s\u0259\u014bk/", "Definition: doomed to extinction", "Synonyms: done for, ruined, undone, washed-up"]}
+{"data": ["2021-11-19T02:02:33.110485+00:00", 3455, "Your mother is", "gutsy", "Pronunciation: /\u02c8\u0261\u0259tsi/", "Definition: marked by courage and determination in the face of difficulties or danger; robust and uninhibited", "Synonyms: plucky"]}
