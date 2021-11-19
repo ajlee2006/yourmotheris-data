@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T02:02:33.110485+00:00", 3455, "Your mother is", "gutsy", "Pronunciation: /\u02c8\u0261\u0259tsi/", "Definition: marked by courage and determination in the face of difficulties or danger; robust and uninhibited", "Synonyms: plucky"]}
+{"data": ["2021-11-19T03:02:04.749855+00:00", 3456, "Your mother is", "aberrant", "Pronunciation: /\u0259\u02c8b\u025br\u0259nt/", "Definition: markedly different from an accepted norm", "Synonyms: deviant, deviate"]}
