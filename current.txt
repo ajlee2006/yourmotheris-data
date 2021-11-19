@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T05:00:27.645289+00:00", 3458, "Your mother is", "elaborate", "Pronunciation: /\u026a\u02c8l\u00e6b\u0259r\u026at/", "Definition: marked by complexity and richness of detail", "Synonyms: luxuriant"]}
+{"data": ["2021-11-19T06:03:25.980273+00:00", 3459, "Your mother is", "sleeveless", "Pronunciation: /\u02c8slivl\u026as/", "Definition: unproductive of success", "Synonyms: bootless, fruitless, futile, vain"]}
