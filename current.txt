@@ -1,1 +1,1 @@
-{"data": ["2021-11-20T05:02:22.377566+00:00", 3482, "Your mother is", "cryptanalytic", "", "Definition: of or relating to cryptanalysis", "Synonyms: cryptographic, cryptographical, cryptologic, cryptological"]}
+{"data": ["2021-11-20T06:03:22.812194+00:00", 3483, "Your mother is", "ungulate", "Pronunciation: /\u02c8\u0259\u014b\u0261j\u0259l\u026at/", "Definition: having or resembling hoofs", "Synonyms: hoofed, hooved, ungulated"]}
