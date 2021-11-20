@@ -1,1 +1,1 @@
-{"data": ["2021-11-20T03:02:27.633162+00:00", 3480, "Your mother is", "alexic", "", "Definition: of or relating to or symptomatic of alexia", "Synonyms: word-blind"]}
+{"data": ["2021-11-20T04:00:44.615602+00:00", 3481, "Your mother is", "insolvable", "Pronunciation: /\u026an\u02c8s\u0251lv\u0259b\u0259l/", "Definition: not easily solved", "Synonyms: unresolvable, unsoluble, unsolvable"]}
