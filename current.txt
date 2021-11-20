@@ -1,1 +1,1 @@
-{"data": ["2021-11-20T14:00:37.427546+00:00", 3491, "Your mother is", "vernal", "Pronunciation: /\u02c8v\u025crn\u0259l/", "Definition: suggestive of youth; vigorous and fresh", "Synonyms: young, youthful"]}
+{"data": ["2021-11-20T15:02:25.925796+00:00", 3492, "Your mother is", "bacteroidal", "", "Definition: resembling bacteria", "Synonyms: bacterioid, bacterioidal, bacteroid"]}
