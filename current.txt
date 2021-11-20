@@ -1,1 +1,1 @@
-{"data": ["2021-11-20T11:00:26.050753+00:00", 3488, "Your mother is", "gusty", "Pronunciation: /\u02c8\u0261\u0259sti/", "Definition: blowing in puffs or short intermittent blasts", "Synonyms: puffy"]}
+{"data": ["2021-11-20T12:01:45.987432+00:00", 3489, "Your mother is", "trousered", "Similar to: clad", "Definition: dressed in trousers", "Synonyms: breeched, pantalooned"]}
