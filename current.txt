@@ -1,1 +1,1 @@
-{"data": ["2021-11-20T18:01:26.378036+00:00", 3495, "Your mother is", "kin", "Pronunciation: /k\u026an/", "Definition: related by blood", "Synonyms: akin, blood-related, cognate, consanguine, consanguineal, consanguineous"]}
+{"data": ["2021-11-20T19:00:19.226065+00:00", 3496, "Your mother is", "clubable", "Similar to: sociable", "Definition: inclined to club together", "Synonyms: clubbable"]}
