@@ -1,1 +1,1 @@
-{"data": ["2021-11-20T17:00:34.406019+00:00", 3494, "Your mother is", "restorative", "Pronunciation: /ri\u02c8st\u0251r\u0259t\u026av/", "Definition: tending to impart new life and vigor to", "Synonyms: renewing, revitalising, revitalizing, reviving"]}
+{"data": ["2021-11-20T18:01:26.378036+00:00", 3495, "Your mother is", "kin", "Pronunciation: /k\u026an/", "Definition: related by blood", "Synonyms: akin, blood-related, cognate, consanguine, consanguineal, consanguineous"]}
