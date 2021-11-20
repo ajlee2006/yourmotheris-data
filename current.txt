@@ -1,1 +1,1 @@
-{"data": ["2021-11-20T21:01:39.121698+00:00", 3498, "Your mother is", "lubberly", "Pronunciation: /\u02c8l\u0259b\u0259rli/", "Definition: inexperienced in seamanship", "Synonyms: landlubberly"]}
+{"data": ["2021-11-20T22:01:26.985020+00:00", 3499, "Your mother is", "stated", "Pronunciation: /\u02c8ste\u026at\u026ad/", "Definition: declared as fact; explicitly stated", "Synonyms: declared"]}
