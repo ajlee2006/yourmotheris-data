@@ -1,1 +1,1 @@
-{"data": ["2021-11-20T10:00:47.723019+00:00", 3487, "Your mother is", "lithophytic", "Pronunciation: /\u02ccl\u026a\u03b8\u0259\u02c8f\u026at\u026ak/", "Definition: of or relating to lithophytes", ""]}
+{"data": ["2021-11-20T11:00:26.050753+00:00", 3488, "Your mother is", "gusty", "Pronunciation: /\u02c8\u0261\u0259sti/", "Definition: blowing in puffs or short intermittent blasts", "Synonyms: puffy"]}
