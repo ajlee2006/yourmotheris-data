@@ -1,1 +1,1 @@
-{"data": ["2021-11-19T23:01:19.456880+00:00", 3476, "Your mother is", "crushed", "Pronunciation: /kr\u028c\u0283t/", "Definition: subdued or brought low in condition or status", "Synonyms: broken, humbled, humiliated, low"]}
+{"data": ["2021-11-20T00:04:03.618305+00:00", 3477, "Your mother is", "macrencephalous", "", "Definition: having a large brain case", "Synonyms: macrencephalic"]}
