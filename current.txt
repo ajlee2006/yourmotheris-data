@@ -1,1 +1,1 @@
-{"data": ["2021-11-20T09:02:58.788875+00:00", 3486, "Your mother is", "reticular", "Pronunciation: /r\u026a\u02c8t\u026akj\u0259l\u0259r/", "Definition: resembling or forming a network", "Synonyms: reticulate"]}
+{"data": ["2021-11-20T10:00:47.723019+00:00", 3487, "Your mother is", "lithophytic", "Pronunciation: /\u02ccl\u026a\u03b8\u0259\u02c8f\u026at\u026ak/", "Definition: of or relating to lithophytes", ""]}
