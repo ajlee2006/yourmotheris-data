@@ -1,1 +1,1 @@
-{"data": ["2021-11-21T04:01:32.246608+00:00", 3505, "Your mother is", "frigid", "Pronunciation: /\u02c8fr\u026ad\u0292\u026ad/", "Definition: devoid of warmth and cordiality; expressive of unfriendliness or disdain", "Synonyms: frosty, frozen, glacial, icy, wintry"]}
+{"data": ["2021-11-21T05:02:12.914202+00:00", 3506, "Your mother is", "aggregate", "Pronunciation: /\u02c8\u00e6gr\u026a\u0261\u0259t/", "Definition: formed of separate units gathered into a mass or whole", "Synonyms: aggregated, aggregative, mass"]}
