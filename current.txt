@@ -1,1 +1,1 @@
-{"data": ["2021-11-21T13:01:26.165748+00:00", 3514, "Your mother is", "unthought", "Pronunciation: /\u0259n\u02c8\u03b8\u0254t/", "Definition: so unexpected as to have not been imagined", "Synonyms: unhoped, unhoped-for, unthought-of"]}
+{"data": ["2021-11-21T14:00:33.398145+00:00", 3515, "Your mother is", "sliced", "Pronunciation: /sla\u026ast/", "Definition: prepared by cutting", "Synonyms: chopped, shredded"]}
