@@ -1,1 +1,1 @@
-{"data": ["2021-11-21T05:02:12.914202+00:00", 3506, "Your mother is", "aggregate", "Pronunciation: /\u02c8\u00e6gr\u026a\u0261\u0259t/", "Definition: formed of separate units gathered into a mass or whole", "Synonyms: aggregated, aggregative, mass"]}
+{"data": ["2021-11-21T06:02:22.543208+00:00", 3507, "Your mother is", "defunct", "Pronunciation: /d\u026a\u02c8f\u0259\u014bkt/", "Definition: having ceased to exist or live", ""]}
