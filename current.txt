@@ -1,1 +1,1 @@
-{"data": ["2021-11-21T20:00:37.500421+00:00", 3521, "Your mother is", "remunerated", "Similar to: paid", "Definition: receiving or eligible for compensation", "Synonyms: compensated, salaried, stipendiary"]}
+{"data": ["2021-11-21T21:02:55.067531+00:00", 3522, "Your mother is", "nonsubmersible", "", "Definition: not submersible or submergible", "Synonyms: nonsubmergible"]}
