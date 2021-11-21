@@ -1,1 +1,1 @@
-{"data": ["2021-11-21T22:03:04.350664+00:00", 3523, "Your mother is", "silverish", "Similar to: achromatic", "Definition: of lustrous grey; covered with or tinged with the color of silver", "Synonyms: argent, silver, silvery"]}
+{"data": ["2021-11-21T23:01:23.869507+00:00", 3524, "Your mother is", "washy", "Pronunciation: /\u02c8w\u0251\u0283i/", "Definition: overly diluted; thin and insipid", "Synonyms: watery, weak"]}
