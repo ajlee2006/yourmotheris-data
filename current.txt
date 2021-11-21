@@ -1,1 +1,1 @@
-{"data": ["2021-11-21T10:01:51.743984+00:00", 3511, "Your mother is", "sugared", "Pronunciation: /\u02c8\u0283\u028a\u0261\u0259rd/", "Definition: with sweetening added", "Synonyms: sweet, sweet-flavored, sweetened"]}
+{"data": ["2021-11-21T11:02:59.282327+00:00", 3512, "Your mother is", "screaming", "Pronunciation: /\u02c8skrim\u026a\u014b/", "Definition: marked by or causing boisterous merriment or convulsive laughter", "Synonyms: hilarious, uproarious"]}
