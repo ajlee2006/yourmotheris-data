@@ -1,1 +1,1 @@
-{"data": ["2021-11-21T11:02:59.282327+00:00", 3512, "Your mother is", "screaming", "Pronunciation: /\u02c8skrim\u026a\u014b/", "Definition: marked by or causing boisterous merriment or convulsive laughter", "Synonyms: hilarious, uproarious"]}
+{"data": ["2021-11-21T12:01:35.247809+00:00", 3513, "Your mother is", "extradural", "", "Definition: on or outside the dura mater", "Synonyms: epidural"]}
