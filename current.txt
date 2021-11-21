@@ -1,1 +1,1 @@
-{"data": ["2021-11-21T00:02:32.995429+00:00", 3501, "Your mother is", "neoclassicistic", "", "Definition: relating to or advocating neoclassicism", "Synonyms: neoclassicist"]}
+{"data": ["2021-11-21T01:02:02.205842+00:00", 3502, "Your mother is", "algonquian", "Pronunciation: /\u00e6l\u02c8\u0261\u0251\u014bki\u0259n/", "Definition: of or relating to an Algonquian tribe or its people or language", "Synonyms: algonkian, algonquin"]}
