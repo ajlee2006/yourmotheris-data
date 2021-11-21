@@ -1,1 +1,1 @@
-{"data": ["2021-11-21T07:02:43.749453+00:00", 3508, "Your mother is", "moonlike", "Pronunciation: /\u02c8mun\u02ccla\u026ak/", "Definition: resembling the moon in shape", "Synonyms: moon-round"]}
+{"data": ["2021-11-21T08:01:29.450531+00:00", 3509, "Your mother is", "allegro", "Pronunciation: /\u0259\u02c8le\u026agro\u028a/", "Definition: (of tempo) fast", ""]}
