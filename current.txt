@@ -1,1 +1,1 @@
-{"data": ["2021-11-20T23:00:40.820186+00:00", 3500, "Your mother is", "unwell", "Pronunciation: /\u0259n\u02c8w\u025bl/", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, indisposed, peaked, poorly, seedy, sickly, under the weather"]}
+{"data": ["2021-11-21T00:02:32.995429+00:00", 3501, "Your mother is", "neoclassicistic", "", "Definition: relating to or advocating neoclassicism", "Synonyms: neoclassicist"]}
