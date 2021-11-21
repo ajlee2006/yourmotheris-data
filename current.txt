@@ -1,1 +1,1 @@
-{"data": ["2021-11-21T06:02:22.543208+00:00", 3507, "Your mother is", "defunct", "Pronunciation: /d\u026a\u02c8f\u0259\u014bkt/", "Definition: having ceased to exist or live", ""]}
+{"data": ["2021-11-21T07:02:43.749453+00:00", 3508, "Your mother is", "moonlike", "Pronunciation: /\u02c8mun\u02ccla\u026ak/", "Definition: resembling the moon in shape", "Synonyms: moon-round"]}
