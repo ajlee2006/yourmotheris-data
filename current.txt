@@ -1,1 +1,1 @@
-{"data": ["2021-11-22T03:02:39.305236+00:00", 3528, "Your mother is", "discouraging", "Pronunciation: /d\u026a\u02c8sk\u025dr\u028cd\u0292\u026a\u014b/", "Definition: depriving of confidence or hope or enthusiasm and hence often deterring action", ""]}
+{"data": ["2021-11-22T04:03:18.370573+00:00", 3529, "Your mother is", "waterless", "Pronunciation: /\u02c8w\u0254t\u0259rl\u026as/", "Definition: lacking sufficient water or rainfall", "Synonyms: arid"]}
