@@ -1,1 +1,1 @@
-{"data": ["2021-11-22T20:02:39.735507+00:00", 3545, "Your mother is", "worn", "Pronunciation: /wo\u028arn/", "Definition: showing the wearing effects of overwork or care or suffering", "Synonyms: careworn, drawn, haggard, raddled"]}
+{"data": ["2021-11-22T21:03:19.802675+00:00", 3546, "Your mother is", "buff-colored", "Pronunciation: /b\u0259f-\u02c8k\u0259l\u0259rd/", "Definition: having a buff color", "Synonyms: buff-coloured"]}
