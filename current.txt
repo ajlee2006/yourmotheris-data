@@ -1,1 +1,1 @@
-{"data": ["2021-11-22T05:00:37.574111+00:00", 3530, "Your mother is", "unholy", "Pronunciation: /\u0259n\u02c8ho\u028ali/", "Definition: extremely evil or cruel; expressive of cruelty or befitting hell", "Synonyms: demonic, diabolic, diabolical, fiendish, hellish, infernal, satanic"]}
+{"data": ["2021-11-22T06:02:55.362295+00:00", 3531, "Your mother is", "unmitigable", "Similar to: implacable", "Definition: incapable of being mitigated", ""]}
