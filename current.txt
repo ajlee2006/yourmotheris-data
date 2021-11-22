@@ -1,1 +1,1 @@
-{"data": ["2021-11-22T16:02:29.308419+00:00", 3541, "Your mother is", "disadvantageous", "Pronunciation: /d\u026as\u02cc\u00e6dv\u0259n\u02c8te\u026ad\u0292\u0259s/", "Definition: involving or creating circumstances detrimental to success or effectiveness", "Synonyms: unfavorable, unfavourable"]}
+{"data": ["2021-11-22T17:01:55.073270+00:00", 3542, "Your mother is", "thin-skinned", "Pronunciation: /\u02c8\u03b8\u026an-\u02c8sk\u026and/", "Definition: quick to take offense", "Synonyms: feisty, huffy, touchy"]}
