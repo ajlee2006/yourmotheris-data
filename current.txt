@@ -1,1 +1,1 @@
-{"data": ["2021-11-22T21:03:19.802675+00:00", 3546, "Your mother is", "buff-colored", "Pronunciation: /b\u0259f-\u02c8k\u0259l\u0259rd/", "Definition: having a buff color", "Synonyms: buff-coloured"]}
+{"data": ["2021-11-22T22:01:12.677225+00:00", 3547, "Your mother is", "well-appointed", "Pronunciation: /w\u025bl-\u0259\u02c8p\u0254\u026ant\u026ad/", "Definition: having a full array of suitable equipment or furnishings", "Synonyms: well-found"]}
