@@ -1,1 +1,1 @@
-{"data": ["2021-11-22T13:00:39.326469+00:00", 3538, "Your mother is", "kinesthetic", "Pronunciation: /\u02cck\u026an\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: of or relating to kinesthesis", "Synonyms: kinaesthetic"]}
+{"data": ["2021-11-22T14:03:16.308823+00:00", 3539, "Your mother is", "basic", "Pronunciation: /\u02c8be\u026as\u026ak/", "Definition: reduced to the simplest and most significant form possible without loss of generality", "Synonyms: canonic, canonical"]}
