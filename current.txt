@@ -1,1 +1,1 @@
-{"data": ["2021-11-22T19:02:58.442073+00:00", 3544, "Your mother is", "projected", "Pronunciation: /pr\u028c\u02c8d\u0292\u025bkt\u028cd/", "Definition: extending out above or beyond a surface or boundary", "Synonyms: jutting, projecting, protruding, relieved, sticking, sticking out"]}
+{"data": ["2021-11-22T20:02:39.735507+00:00", 3545, "Your mother is", "worn", "Pronunciation: /wo\u028arn/", "Definition: showing the wearing effects of overwork or care or suffering", "Synonyms: careworn, drawn, haggard, raddled"]}
