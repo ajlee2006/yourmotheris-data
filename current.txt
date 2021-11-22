@@ -1,1 +1,1 @@
-{"data": ["2021-11-22T01:01:56.713739+00:00", 3526, "Your mother is", "loaded", "Pronunciation: /\u02c8lo\u028ad\u026ad/", "Definition: having an abundant supply of money or possessions of value", "Synonyms: affluent, flush, moneyed, substantial, wealthy"]}
+{"data": ["2021-11-22T02:02:34.392508+00:00", 3527, "Your mother is", "fatalist", "Pronunciation: /\u02c8fe\u026at\u028cl\u026ast/", "Definition: of or relating to fatalism", "Synonyms: fatalistic"]}
