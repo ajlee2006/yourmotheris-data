@@ -1,1 +1,1 @@
-{"data": ["2021-11-22T08:01:48.170683+00:00", 3533, "Your mother is", "buffeted", "Pronunciation: /b\u028c\u02c8fe\u026ad/", "Definition: pounded or hit repeatedly by storms or adversities", "Synonyms: storm-tossed, tempest-swept, tempest-tossed, tempest-tost"]}
+{"data": ["2021-11-22T09:01:10.409394+00:00", 3534, "Your mother is", "uncurving", "Similar to: straight", "Definition: having no curves", "Synonyms: uncurved"]}
