@@ -1,1 +1,1 @@
-{"data": ["2021-11-22T10:01:32.385834+00:00", 3535, "Your mother is", "unproven", "Pronunciation: /\u028cn\u02c8pruv\u028cn/", "Definition: not proved", "Synonyms: unproved"]}
+{"data": ["2021-11-22T11:00:47.316407+00:00", 3536, "Your mother is", "mechanized", "Pronunciation: /\u02c8m\u025bk\u028c\u02ccna\u026azd/", "Definition: equipped with machinery", "Synonyms: mechanised"]}
