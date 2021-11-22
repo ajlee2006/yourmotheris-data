@@ -1,1 +1,1 @@
-{"data": ["2021-11-22T22:01:12.677225+00:00", 3547, "Your mother is", "well-appointed", "Pronunciation: /w\u025bl-\u0259\u02c8p\u0254\u026ant\u026ad/", "Definition: having a full array of suitable equipment or furnishings", "Synonyms: well-found"]}
+{"data": ["2021-11-22T23:01:35.640040+00:00", 3548, "Your mother is", "profit-maximizing", "Similar to: increasing", "Definition: making the profit as great as possible", "Synonyms: profit-maximising"]}
