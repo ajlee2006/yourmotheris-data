@@ -1,1 +1,1 @@
-{"data": ["2021-11-22T02:02:34.392508+00:00", 3527, "Your mother is", "fatalist", "Pronunciation: /\u02c8fe\u026at\u028cl\u026ast/", "Definition: of or relating to fatalism", "Synonyms: fatalistic"]}
+{"data": ["2021-11-22T03:02:39.305236+00:00", 3528, "Your mother is", "discouraging", "Pronunciation: /d\u026a\u02c8sk\u025dr\u028cd\u0292\u026a\u014b/", "Definition: depriving of confidence or hope or enthusiasm and hence often deterring action", ""]}
