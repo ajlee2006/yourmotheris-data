@@ -1,1 +1,1 @@
-{"data": ["2021-11-23T22:02:19.177103+00:00", 3571, "Your mother is", "enraged", "Pronunciation: /\u025bn\u02c8re\u026ad\u0292d/", "Definition: marked by extreme anger", "Synonyms: angered, furious, infuriated, maddened"]}
+{"data": ["2021-11-23T23:01:31.388808+00:00", 3572, "Your mother is", "juvenile", "Pronunciation: /\u02c8d\u0292uv\u0259n\u0259l/", "Definition: displaying or suggesting a lack of maturity", "Synonyms: adolescent, jejune, puerile"]}
