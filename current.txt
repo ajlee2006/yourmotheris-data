@@ -1,1 +1,1 @@
-{"data": ["2021-11-23T10:02:29.570441+00:00", 3559, "Your mother is", "casebook", "Pronunciation: /\u02c8ke\u026as\u02ccb\u028ak/", "Definition: according to or characteristic of a casebook or textbook; typical", "Synonyms: textbook"]}
+{"data": ["2021-11-23T11:00:50.426021+00:00", 3560, "Your mother is", "purple-spotted", "Pronunciation: /\u02c8p\u025crp\u0259l-\u02c8sp\u0251t\u026ad/", "Definition: having purple spots", ""]}
