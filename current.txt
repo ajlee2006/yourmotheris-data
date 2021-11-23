@@ -1,1 +1,1 @@
-{"data": ["2021-11-23T05:02:08.256289+00:00", 3554, "Your mother is", "wooly-haired", "Similar to: haired", "Definition: covered with dense often matted or curly hairs", "Synonyms: woolly, woolly-haired, wooly"]}
+{"data": ["2021-11-23T06:01:49.682229+00:00", 3555, "Your mother is", "nontransmissible", "Similar to: noninfectious", "Definition: (of disease) not capable of being passed on", "Synonyms: noncommunicable, noncontagious"]}
