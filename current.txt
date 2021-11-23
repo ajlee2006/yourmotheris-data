@@ -1,1 +1,1 @@
-{"data": ["2021-11-23T18:03:24.578077+00:00", 3567, "Your mother is", "tasteful", "Pronunciation: /\u02c8te\u026astf\u0259l/", "Definition: having or showing or conforming to good taste", ""]}
+{"data": ["2021-11-23T19:01:48.014783+00:00", 3568, "Your mother is", "undeserved", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8z\u025crvd/", "Definition: not deserved or earned", ""]}
