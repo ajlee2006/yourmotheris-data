@@ -1,1 +1,1 @@
-{"data": ["2021-11-23T16:01:27.165815+00:00", 3565, "Your mother is", "boring", "Pronunciation: /\u02c8bo\u028ar\u026a\u014b/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: deadening, dull, ho-hum, irksome, slow, tedious, tiresome, wearisome"]}
+{"data": ["2021-11-23T17:02:26.965541+00:00", 3566, "Your mother is", "bush", "Pronunciation: /b\u028a\u0283/", "Definition: not of the highest quality or sophistication", "Synonyms: bush-league"]}
