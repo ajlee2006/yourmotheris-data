@@ -1,1 +1,1 @@
-{"data": ["2021-11-23T09:03:04.881696+00:00", 3558, "Your mother is", "upmost", "Pronunciation: /\u02c8\u0259p\u02ccmo\u028ast/", "Definition: at or nearest to the top", "Synonyms: topmost, uppermost"]}
+{"data": ["2021-11-23T10:02:29.570441+00:00", 3559, "Your mother is", "casebook", "Pronunciation: /\u02c8ke\u026as\u02ccb\u028ak/", "Definition: according to or characteristic of a casebook or textbook; typical", "Synonyms: textbook"]}
