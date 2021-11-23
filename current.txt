@@ -1,1 +1,1 @@
-{"data": ["2021-11-23T01:03:03.287243+00:00", 3550, "Your mother is", "tongued", "Pronunciation: /t\u028c\u014bd/", "Definition: having a manner of speaking as specified; often used in combination", ""]}
+{"data": ["2021-11-23T02:02:32.569334+00:00", 3551, "Your mother is", "onetime", "Pronunciation: /\u02c8w@n/", "Definition: belonging to some prior time", "Synonyms: erstwhile, former, old, one-time, quondam, sometime"]}
