@@ -1,1 +1,1 @@
-{"data": ["2021-11-23T20:00:33.863921+00:00", 3569, "Your mother is", "observable", "Pronunciation: /\u0259b\u02c8z\u025crv\u0259b\u0259l/", "Definition: capable of being seen or noticed", "Synonyms: discernible, evident"]}
+{"data": ["2021-11-23T21:02:17.868842+00:00", 3570, "Your mother is", "flesh-eating", "Pronunciation: /fl\u025b\u0283-\u02c8it\u026a\u014b/", "Definition: (of animals) carnivorous", "Synonyms: meat-eating, zoophagous"]}
