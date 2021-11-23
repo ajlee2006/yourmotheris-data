@@ -1,1 +1,1 @@
-{"data": ["2021-11-23T00:04:06.743312+00:00", 3549, "Your mother is", "tawny", "Pronunciation: /\u02c8t\u0254ni/", "Definition: of a light brown to brownish orange color; the color of tanned leather", "Synonyms: tawny-brown"]}
+{"data": ["2021-11-23T01:03:03.287243+00:00", 3550, "Your mother is", "tongued", "Pronunciation: /t\u028c\u014bd/", "Definition: having a manner of speaking as specified; often used in combination", ""]}
