@@ -1,1 +1,1 @@
-{"data": ["2021-11-23T06:01:49.682229+00:00", 3555, "Your mother is", "nontransmissible", "Similar to: noninfectious", "Definition: (of disease) not capable of being passed on", "Synonyms: noncommunicable, noncontagious"]}
+{"data": ["2021-11-23T07:01:27.300884+00:00", 3556, "Your mother is", "nonsynthetic", "Similar to: organic", "Definition: involving or derived from living organisms; free from chemical treatments or additives", ""]}
