@@ -1,1 +1,1 @@
-{"data": ["2021-11-23T08:02:24.603750+00:00", 3557, "Your mother is", "unsubstantial", "Pronunciation: /\u02cc\u0259ns\u0259b\u02c8st\u00e6n\u0283\u0259l/", "Definition: lacking material form or substance; unreal", "Synonyms: insubstantial, unreal"]}
+{"data": ["2021-11-23T09:03:04.881696+00:00", 3558, "Your mother is", "upmost", "Pronunciation: /\u02c8\u0259p\u02ccmo\u028ast/", "Definition: at or nearest to the top", "Synonyms: topmost, uppermost"]}
