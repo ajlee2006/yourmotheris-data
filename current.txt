@@ -1,1 +1,1 @@
-{"data": ["2021-11-23T19:01:48.014783+00:00", 3568, "Your mother is", "undeserved", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8z\u025crvd/", "Definition: not deserved or earned", ""]}
+{"data": ["2021-11-23T20:00:33.863921+00:00", 3569, "Your mother is", "observable", "Pronunciation: /\u0259b\u02c8z\u025crv\u0259b\u0259l/", "Definition: capable of being seen or noticed", "Synonyms: discernible, evident"]}
