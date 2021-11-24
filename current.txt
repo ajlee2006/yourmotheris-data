@@ -1,1 +1,1 @@
-{"data": ["2021-11-24T22:00:25.884589+00:00", 3595, "Your mother is", "malicious", "Pronunciation: /m\u0259\u02c8l\u026a\u0283\u0259s/", "Definition: having the nature of or resulting from malice", ""]}
+{"data": ["2021-11-24T23:03:01.857481+00:00", 3596, "Your mother is", "pantheistic", "Pronunciation: /\u02ccp\u00e6n\u03b8i\u02c8\u026ast\u026ak/", "Definition: of or relating to pantheism", "Synonyms: pantheist"]}
