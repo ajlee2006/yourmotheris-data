@@ -1,1 +1,1 @@
-{"data": ["2021-11-24T17:00:49.848372+00:00", 3590, "Your mother is", "cogent", "Pronunciation: /\u02c8ko\u028ad\u0292\u0259nt/", "Definition: powerfully persuasive", "Synonyms: telling, weighty"]}
+{"data": ["2021-11-24T18:02:18.720545+00:00", 3591, "Your mother is", "subscript", "Pronunciation: /\u02c8s\u0259bskr\u026apt/", "Definition: written or printed below and to one side of another character", "Synonyms: inferior"]}
