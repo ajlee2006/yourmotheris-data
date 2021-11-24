@@ -1,1 +1,1 @@
-{"data": ["2021-11-24T02:02:37.362810+00:00", 3575, "Your mother is", "strident", "Pronunciation: /\u02c8stra\u026ad\u0259nt/", "Definition: of speech sounds produced by forcing air through a constricted passage (as `f', `s', `z', or `th' in both `thin' and `then')", "Synonyms: continuant, fricative, sibilant, spirant"]}
+{"data": ["2021-11-24T03:03:10.148491+00:00", 3576, "Your mother is", "untutored", "Pronunciation: /\u0259n\u02c8tut\u0259rd/", "Definition: lacking in schooling", "Synonyms: unschooled, untaught"]}
