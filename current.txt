@@ -1,1 +1,1 @@
-{"data": ["2021-11-24T05:03:17.592056+00:00", 3578, "Your mother is", "nonvoluntary", "Similar to: goaded", "Definition: not subject to the control of the will", "Synonyms: involuntary, unvoluntary"]}
+{"data": ["2021-11-24T06:02:26.816172+00:00", 3579, "Your mother is", "harnessed", "Pronunciation: /\u02c8h\u0251rn\u028cst/", "Definition: brought under control and put to use", ""]}
