@@ -1,1 +1,1 @@
-{"data": ["2021-11-24T18:02:18.720545+00:00", 3591, "Your mother is", "subscript", "Pronunciation: /\u02c8s\u0259bskr\u026apt/", "Definition: written or printed below and to one side of another character", "Synonyms: inferior"]}
+{"data": ["2021-11-24T19:00:39.781608+00:00", 3592, "Your mother is", "beloved", "Pronunciation: /b\u026a\u02c8l\u0259v\u026ad/", "Definition: dearly loved", "Synonyms: darling, dear"]}
