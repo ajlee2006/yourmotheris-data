@@ -1,1 +1,1 @@
-{"data": ["2021-11-24T19:00:39.781608+00:00", 3592, "Your mother is", "beloved", "Pronunciation: /b\u026a\u02c8l\u0259v\u026ad/", "Definition: dearly loved", "Synonyms: darling, dear"]}
+{"data": ["2021-11-24T20:01:38.141774+00:00", 3593, "Your mother is", "anorthic", "Pronunciation: /\u00e6n\u02c8\u0254r\u03b8\u026ak/", "Definition: having three unequal crystal axes intersecting at oblique angles", "Synonyms: triclinic"]}
