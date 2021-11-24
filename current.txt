@@ -1,1 +1,1 @@
-{"data": ["2021-11-24T01:03:30.856131+00:00", 3574, "Your mother is", "affecting", "Pronunciation: /\u0259\u02c8f\u025bkt\u026a\u014b/", "Definition: arousing affect", "Synonyms: poignant, touching"]}
+{"data": ["2021-11-24T02:02:37.362810+00:00", 3575, "Your mother is", "strident", "Pronunciation: /\u02c8stra\u026ad\u0259nt/", "Definition: of speech sounds produced by forcing air through a constricted passage (as `f', `s', `z', or `th' in both `thin' and `then')", "Synonyms: continuant, fricative, sibilant, spirant"]}
