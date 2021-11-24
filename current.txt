@@ -1,1 +1,1 @@
-{"data": ["2021-11-24T14:01:29.688087+00:00", 3587, "Your mother is", "opposable", "Pronunciation: /\u0259\u02c8po\u028az\u0259b\u0259l/", "Definition: capable of being placed opposite to something", "Synonyms: apposable"]}
+{"data": ["2021-11-24T15:02:22.413343+00:00", 3588, "Your mother is", "dilute", "Pronunciation: /d\u026a\u02c8lut/", "Definition: reduced in strength or concentration or quality or purity", "Synonyms: diluted"]}
