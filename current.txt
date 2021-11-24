@@ -1,1 +1,1 @@
-{"data": ["2021-11-24T20:01:38.141774+00:00", 3593, "Your mother is", "anorthic", "Pronunciation: /\u00e6n\u02c8\u0254r\u03b8\u026ak/", "Definition: having three unequal crystal axes intersecting at oblique angles", "Synonyms: triclinic"]}
+{"data": ["2021-11-24T21:01:03.983078+00:00", 3594, "Your mother is", "serendipitous", "Pronunciation: /\u02ccs\u025br\u028cn\u02c8d\u026ap\u026at\u028cs/", "Definition: lucky in making unexpected and fortunate discoveries", ""]}
