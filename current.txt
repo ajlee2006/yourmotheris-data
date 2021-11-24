@@ -1,1 +1,1 @@
-{"data": ["2021-11-24T10:01:39.317481+00:00", 3583, "Your mother is", "tiptoe", "Pronunciation: /\u02c8t\u026ap\u02ccto\u028a/", "Definition: walking on the tips of ones's toes so as to make no noise", ""]}
+{"data": ["2021-11-24T11:02:58.462005+00:00", 3584, "Your mother is", "lap-jointed", "Pronunciation: /l\u00e6p-\u02c8d\u0292\u0254\u026ant\u026ad/", "Definition: jointed so as to produce a flush surface", ""]}
