@@ -1,1 +1,1 @@
-{"data": ["2021-11-24T07:01:15.330677+00:00", 3580, "Your mother is", "geologic", "Pronunciation: /\u02ccd\u0292i\u0259\u02c8l\u0251d\u0292\u026ak/", "Definition: of or relating to or based on geology", "Synonyms: geological"]}
+{"data": ["2021-11-24T08:03:14.933639+00:00", 3581, "Your mother is", "conciliable", "Pronunciation: /k\u0259n\u02c8s\u026ali\u0259b\u0259l/", "Definition: capable of being pacified", "Synonyms: appeasable"]}
