@@ -1,1 +1,1 @@
-{"data": ["2021-11-24T04:02:16.878225+00:00", 3577, "Your mother is", "unsurprising", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8pra\u026azi\u014b/", "Definition: not causing surprise", ""]}
+{"data": ["2021-11-24T05:03:17.592056+00:00", 3578, "Your mother is", "nonvoluntary", "Similar to: goaded", "Definition: not subject to the control of the will", "Synonyms: involuntary, unvoluntary"]}
