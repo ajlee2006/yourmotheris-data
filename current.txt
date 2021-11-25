@@ -1,1 +1,1 @@
-{"data": ["2021-11-25T09:02:00.062018+00:00", 3606, "Your mother is", "undutiful", "Pronunciation: /\u0259n\u02c8djut\u026a\u02ccf\u028al/", "Definition: lacking due respect or dutifulness", "Synonyms: impious"]}
+{"data": ["2021-11-25T10:02:47.724816+00:00", 3607, "Your mother is", "acold", "Pronunciation: /\u0259\u02c8ko\u028ald/", "Definition: of persons; feeling cold", ""]}
