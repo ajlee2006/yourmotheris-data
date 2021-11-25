@@ -1,1 +1,1 @@
-{"data": ["2021-11-25T17:01:01.903383+00:00", 3614, "Your mother is", "unshaken", "Pronunciation: /\u0259n\u02c8\u0283e\u026ak\u0259n/", "Definition: unshaken in purpose", "Synonyms: undaunted, undismayed"]}
+{"data": ["2021-11-25T18:01:41.135695+00:00", 3615, "Your mother is", "cancerous", "Pronunciation: /\u02c8k\u00e6ns\u025dr\u028cs/", "Definition: like a cancer; an evil that grows and spreads", ""]}
