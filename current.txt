@@ -1,1 +1,1 @@
-{"data": ["2021-11-25T03:02:11.054718+00:00", 3600, "Your mother is", "decided", "Pronunciation: /d\u026a\u02c8sa\u026ad\u026ad/", "Definition: recognizable; marked", "Synonyms: distinct"]}
+{"data": ["2021-11-25T04:00:25.139818+00:00", 3601, "Your mother is", "pelagic", "Pronunciation: /p\u0259\u02c8l\u00e6d\u0292\u026ak/", "Definition: relating to or occurring or living in or frequenting the open ocean", "Synonyms: oceanic"]}
