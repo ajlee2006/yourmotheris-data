@@ -1,1 +1,1 @@
-{"data": ["2021-11-25T18:01:41.135695+00:00", 3615, "Your mother is", "cancerous", "Pronunciation: /\u02c8k\u00e6ns\u025dr\u028cs/", "Definition: like a cancer; an evil that grows and spreads", ""]}
+{"data": ["2021-11-25T19:01:17.763338+00:00", 3616, "Your mother is", "eerie", "Pronunciation: /\u02c8iri/", "Definition: inspiring a feeling of fear; strange and frightening", "Synonyms: eery"]}
