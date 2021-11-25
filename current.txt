@@ -1,1 +1,1 @@
-{"data": ["2021-11-25T08:02:59.053880+00:00", 3605, "Your mother is", "patriarchal", "Pronunciation: /\u02ccpe\u026atri\u02c8\u0251rk\u028cl/", "Definition: characteristic of a form of social organization in which the male is the family head and title is traced through the male line", ""]}
+{"data": ["2021-11-25T09:02:00.062018+00:00", 3606, "Your mother is", "undutiful", "Pronunciation: /\u0259n\u02c8djut\u026a\u02ccf\u028al/", "Definition: lacking due respect or dutifulness", "Synonyms: impious"]}
