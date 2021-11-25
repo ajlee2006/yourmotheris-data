@@ -1,1 +1,1 @@
-{"data": ["2021-11-25T19:01:17.763338+00:00", 3616, "Your mother is", "eerie", "Pronunciation: /\u02c8iri/", "Definition: inspiring a feeling of fear; strange and frightening", "Synonyms: eery"]}
+{"data": ["2021-11-25T20:00:14.896366+00:00", 3617, "Your mother is", "injectable", "Pronunciation: /\u026an\u02c8d\u0292\u025bkt\u028cb\u028cl/", "Definition: (used of drugs) capable of being injected", ""]}
