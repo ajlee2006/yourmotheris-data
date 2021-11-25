@@ -1,1 +1,1 @@
-{"data": ["2021-11-25T01:03:03.704604+00:00", 3598, "Your mother is", "yugoslav", "Pronunciation: /\u02c8ju\u0261o\u028a\u02ccsl\u0251v/", "Definition: of or relating to or characteristic of the former country of Yugoslavia or its people or languages", "Synonyms: yugoslavian"]}
+{"data": ["2021-11-25T02:01:43.258043+00:00", 3599, "Your mother is", "intimate", "Pronunciation: /\u02c8\u026ant\u0259m\u026at/", "Definition: having or fostering a warm or friendly and informal atmosphere", "Synonyms: cozy, informal"]}
