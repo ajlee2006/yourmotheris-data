@@ -1,1 +1,1 @@
-{"data": ["2021-11-25T13:01:16.830953+00:00", 3610, "Your mother is", "unproved", "Pronunciation: /\u0259n\u02c8pruvd/", "Definition: not proved", "Synonyms: unproven"]}
+{"data": ["2021-11-25T14:03:15.204756+00:00", 3611, "Your mother is", "cooccurring", "Similar to: synchronal", "Definition: occurring or operating at the same time", "Synonyms: co-occurrent, coincident, coincidental, coinciding, concurrent, simultaneous"]}
