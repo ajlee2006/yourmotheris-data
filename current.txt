@@ -1,1 +1,1 @@
-{"data": ["2021-11-25T12:02:43.908184+00:00", 3609, "Your mother is", "prim", "Pronunciation: /pr\u026am/", "Definition: affectedly dainty or refined", "Synonyms: mincing, niminy-piminy, twee"]}
+{"data": ["2021-11-25T13:01:16.830953+00:00", 3610, "Your mother is", "unproved", "Pronunciation: /\u0259n\u02c8pruvd/", "Definition: not proved", "Synonyms: unproven"]}
