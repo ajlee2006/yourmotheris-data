@@ -1,1 +1,1 @@
-{"data": ["2021-11-25T07:01:46.071995+00:00", 3604, "Your mother is", "neanderthalian", "", "Definition: relating to or belonging to or resembling Neanderthal man", "Synonyms: neandertal, neanderthal"]}
+{"data": ["2021-11-25T08:02:59.053880+00:00", 3605, "Your mother is", "patriarchal", "Pronunciation: /\u02ccpe\u026atri\u02c8\u0251rk\u028cl/", "Definition: characteristic of a form of social organization in which the male is the family head and title is traced through the male line", ""]}
