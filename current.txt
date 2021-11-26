@@ -1,1 +1,1 @@
-{"data": ["2021-11-26T22:02:29.473106+00:00", 3643, "Your mother is", "unexploratory", "", "Definition: not exploratory", "Synonyms: nonexplorative, nonexploratory, unexplorative"]}
+{"data": ["2021-11-26T23:01:10.600051+00:00", 3644, "Your mother is", "machinelike", "Similar to: mechanical", "Definition: resembling the unthinking functioning of a machine", "Synonyms: automatic, automatonlike, robotic, robotlike"]}
