@@ -1,1 +1,1 @@
-{"data": ["2021-11-26T14:02:13.325247+00:00", 3635, "Your mother is", "peppy", "Pronunciation: /\u02c8p\u025bpi/", "Definition: marked by lively action", "Synonyms: bouncing, bouncy, spirited, zippy"]}
+{"data": ["2021-11-26T15:01:49.025140+00:00", 3636, "Your mother is", "undeniable", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8na\u026a\u0259b\u0259l/", "Definition: not possible to deny", ""]}
