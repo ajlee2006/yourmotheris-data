@@ -1,1 +1,1 @@
-{"data": ["2021-11-26T21:01:31.175433+00:00", 3642, "Your mother is", "exergonic", "Pronunciation: /\u02cc\u025bks\u0259r\u02c8\u0261\u0251n\u026ak/", "Definition: (biochemistry) of a process accompanied by the release of energy", ""]}
+{"data": ["2021-11-26T22:02:29.473106+00:00", 3643, "Your mother is", "unexploratory", "", "Definition: not exploratory", "Synonyms: nonexplorative, nonexploratory, unexplorative"]}
