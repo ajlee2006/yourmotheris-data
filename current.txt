@@ -1,1 +1,1 @@
-{"data": ["2021-11-26T05:02:49.439532+00:00", 3626, "Your mother is", "radioactive", "Pronunciation: /\u02ccre\u026adio\u028a\u02c8\u00e6kt\u026av/", "Definition: exhibiting or caused by radioactivity", ""]}
+{"data": ["2021-11-26T06:01:49.914960+00:00", 3627, "Your mother is", "inverted", "Pronunciation: /\u026an\u02c8v\u025drt\u026ad/", "Definition: being in such a position that top and bottom are reversed", "Synonyms: upside-down"]}
