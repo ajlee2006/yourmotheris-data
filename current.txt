@@ -1,1 +1,1 @@
-{"data": ["2021-11-26T12:02:43.781366+00:00", 3633, "Your mother is", "unhazardous", "Similar to: safe", "Definition: thought to be devoid of risk", "Synonyms: risk-free, riskless"]}
+{"data": ["2021-11-26T13:02:49.134603+00:00", 3634, "Your mother is", "implicit in", "Similar to: implicit", "Definition: in the nature of something though not readily apparent", "Synonyms: inherent, underlying"]}
