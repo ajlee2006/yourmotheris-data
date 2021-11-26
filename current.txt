@@ -1,1 +1,1 @@
-{"data": ["2021-11-26T00:04:34.906212+00:00", 3621, "Your mother is", "aliquot", "Pronunciation: /\u02c8\u00e6l\u0259kw\u0259t/", "Definition: signifying an exact divisor or factor of a quantity", ""]}
+{"data": ["2021-11-26T01:01:26.926931+00:00", 3622, "Your mother is", "unyielding", "Pronunciation: /\u0259n\u02c8jildi\u014b/", "Definition: stubbornly unyielding", "Synonyms: dogged, dour, persistent, pertinacious, tenacious"]}
