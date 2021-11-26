@@ -1,1 +1,1 @@
-{"data": ["2021-11-26T18:00:52.987512+00:00", 3639, "Your mother is", "doughnut-shaped", "Similar to: rounded", "Definition: shaped like a ring", "Synonyms: annular, annulate, annulated, circinate, ring-shaped, ringed"]}
+{"data": ["2021-11-26T19:01:53.598812+00:00", 3640, "Your mother is", "knotted", "Pronunciation: /\u02c8n\u0251t\u026ad/", "Definition: used of old persons or old trees; covered with knobs or knots", "Synonyms: gnarled, gnarly, knobbed, knotty"]}
