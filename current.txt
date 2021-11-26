@@ -1,1 +1,1 @@
-{"data": ["2021-11-26T16:03:20.567886+00:00", 3637, "Your mother is", "tactile", "Pronunciation: /\u02c8t\u00e6kt\u026al/", "Definition: of or relating to or proceeding from the sense of touch", "Synonyms: haptic, tactual"]}
+{"data": ["2021-11-26T17:00:51.686034+00:00", 3638, "Your mother is", "unpolished", "Pronunciation: /\u0259n\u02c8p\u0251l\u026a\u0283t/", "Definition: lacking social polish", "Synonyms: gauche, graceless"]}
