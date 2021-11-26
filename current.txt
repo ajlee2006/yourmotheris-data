@@ -1,1 +1,1 @@
-{"data": ["2021-11-26T01:01:26.926931+00:00", 3622, "Your mother is", "unyielding", "Pronunciation: /\u0259n\u02c8jildi\u014b/", "Definition: stubbornly unyielding", "Synonyms: dogged, dour, persistent, pertinacious, tenacious"]}
+{"data": ["2021-11-26T02:03:25.027166+00:00", 3623, "Your mother is", "effortful", "Pronunciation: /\u02c8\u025bf\u0259rtf\u0259l/", "Definition: requiring great physical effort", ""]}
