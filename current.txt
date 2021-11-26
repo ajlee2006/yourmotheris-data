@@ -1,1 +1,1 @@
-{"data": ["2021-11-25T23:01:27.930591+00:00", 3620, "Your mother is", "contemplative", "Pronunciation: /k\u0259n\u02c8t\u025bmpl\u0259t\u026av/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, meditative, musing, pensive, pondering, reflective, ruminative"]}
+{"data": ["2021-11-26T00:04:34.906212+00:00", 3621, "Your mother is", "aliquot", "Pronunciation: /\u02c8\u00e6l\u0259kw\u0259t/", "Definition: signifying an exact divisor or factor of a quantity", ""]}
