@@ -1,1 +1,1 @@
-{"data": ["2021-11-26T03:03:29.092562+00:00", 3624, "Your mother is", "eight-day", "Pronunciation: /e\u026at-de\u026a/", "Definition: lasting for eight days", ""]}
+{"data": ["2021-11-26T04:02:55.557782+00:00", 3625, "Your mother is", "agamic", "Pronunciation: /\u0259\u02c8\u0261\u00e6m\u026ak/", "Definition: (of reproduction) not involving the fusion of male and female gametes in reproduction", "Synonyms: agamogenetic, agamous, apomictic, parthenogenetic"]}
