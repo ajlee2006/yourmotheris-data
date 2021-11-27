@@ -1,1 +1,1 @@
-{"data": ["2021-11-27T03:01:49.347319+00:00", 3648, "Your mother is", "blinking", "Pronunciation: /\u02c8bl\u026a\u014bk\u026a\u014b/", "Definition: informal intensifiers", "Synonyms: bally, bloody, blooming, crashing, flaming, fucking"]}
+{"data": ["2021-11-27T04:02:12.857083+00:00", 3649, "Your mother is", "erosive", "Pronunciation: /\u026a\u02c8ro\u028as\u026av/", "Definition: of a substance, especially a strong acid; capable of destroying or eating away by chemical action", "Synonyms: caustic, corrosive, mordant, vitriolic"]}
