@@ -1,1 +1,1 @@
-{"data": ["2021-11-27T17:00:36.758937+00:00", 3662, "Your mother is", "touched", "Pronunciation: /t\u0259\u02a7t/", "Definition: slightly insane", "Synonyms: fey"]}
+{"data": ["2021-11-27T18:01:00.826184+00:00", 3663, "Your mother is", "retrousse", "Pronunciation: /\u02ccr\u025btru\u02c8se\u026a/", "Definition: (used of noses) turned up at the end", "Synonyms: tip-tilted, upturned"]}
