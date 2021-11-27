@@ -1,1 +1,1 @@
-{"data": ["2021-11-27T08:01:59.403891+00:00", 3653, "Your mother is", "paternal", "Pronunciation: /p\u0259\u02c8t\u025crn\u0259l/", "Definition: relating to or characteristic of or befitting a parent", "Synonyms: maternal, parental"]}
+{"data": ["2021-11-27T09:01:34.676071+00:00", 3654, "Your mother is", "quirky", "Pronunciation: /\u02c8kw\u025crki/", "Definition: (informal) strikingly unconventional", "Synonyms: far-out, kinky, offbeat, way-out"]}
