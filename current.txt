@@ -1,1 +1,1 @@
-{"data": ["2021-11-27T19:03:02.721497+00:00", 3664, "Your mother is", "episcopalian", "Pronunciation: /\u026a\u02ccp\u026ask\u0259\u02c8pe\u026alj\u0259n/", "Definition: of or pertaining to or characteristic of the Episcopal church", "Synonyms: episcopal"]}
+{"data": ["2021-11-27T20:02:50.302325+00:00", 3665, "Your mother is", "resentful", "Pronunciation: /ri\u02c8z\u025bntf\u028al/", "Definition: full of or marked by resentment or indignant ill will", ""]}
