@@ -1,1 +1,1 @@
-{"data": ["2021-11-27T09:01:34.676071+00:00", 3654, "Your mother is", "quirky", "Pronunciation: /\u02c8kw\u025crki/", "Definition: (informal) strikingly unconventional", "Synonyms: far-out, kinky, offbeat, way-out"]}
+{"data": ["2021-11-27T10:00:32.147652+00:00", 3655, "Your mother is", "undutiful", "Pronunciation: /\u0259n\u02c8djut\u026a\u02ccf\u028al/", "Definition: lacking due respect or dutifulness", "Synonyms: impious"]}
