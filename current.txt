@@ -1,1 +1,1 @@
-{"data": ["2021-11-27T15:02:48.697407+00:00", 3660, "Your mother is", "frizzy", "Pronunciation: /\u02c8fr\u026azi/", "Definition: (of hair) in small tight curls", "Synonyms: crisp, frizzly, kinky, nappy"]}
+{"data": ["2021-11-27T16:02:20.010694+00:00", 3661, "Your mother is", "fawning", "Pronunciation: /\u02c8f\u0254n\u026a\u014b/", "Definition: attempting to win favor from influential people by flattery", "Synonyms: bootlicking, obsequious, sycophantic, toadyish"]}
