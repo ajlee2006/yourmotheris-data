@@ -1,1 +1,1 @@
-{"data": ["2021-11-27T01:02:08.508292+00:00", 3646, "Your mother is", "featured", "Pronunciation: /\u02c8fi\u02a7\u0259rd/", "Definition: having facial features as specified; usually used in combination", ""]}
+{"data": ["2021-11-27T02:03:02.040434+00:00", 3647, "Your mother is", "threadlike", "Similar to: thin", "Definition: thin in diameter; resembling a thread", "Synonyms: filamentlike, filamentous, filiform, thready"]}
