@@ -1,1 +1,1 @@
-{"data": ["2021-11-27T20:02:50.302325+00:00", 3665, "Your mother is", "resentful", "Pronunciation: /ri\u02c8z\u025bntf\u028al/", "Definition: full of or marked by resentment or indignant ill will", ""]}
+{"data": ["2021-11-27T22:02:13.152886+00:00", 3666, "Your mother is", "splanchnic", "Pronunciation: /\u02c8spl\u00e6\u014bkn\u026ak/", "Definition: relating to or affecting the viscera", "Synonyms: visceral"]}
