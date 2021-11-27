@@ -1,1 +1,1 @@
-{"data": ["2021-11-27T04:02:12.857083+00:00", 3649, "Your mother is", "erosive", "Pronunciation: /\u026a\u02c8ro\u028as\u026av/", "Definition: of a substance, especially a strong acid; capable of destroying or eating away by chemical action", "Synonyms: caustic, corrosive, mordant, vitriolic"]}
+{"data": ["2021-11-27T05:01:39.294683+00:00", 3650, "Your mother is", "subjective", "Pronunciation: /s\u0259b\u02c8d\u0292\u025bkt\u026av/", "Definition: of a mental act performed entirely within the mind", "Synonyms: immanent"]}
