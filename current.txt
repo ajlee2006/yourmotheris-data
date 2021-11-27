@@ -1,1 +1,1 @@
-{"data": ["2021-11-27T12:02:52.064882+00:00", 3657, "Your mother is", "antic", "Pronunciation: /\u02c8\u00e6nt\u026ak/", "Definition: ludicrously odd", "Synonyms: fantastic, fantastical, grotesque"]}
+{"data": ["2021-11-27T13:00:34.637804+00:00", 3658, "Your mother is", "brave", "Pronunciation: /bre\u026av/", "Definition: possessing or displaying courage; able to face and deal with danger or fear without flinching", "Synonyms: courageous"]}
