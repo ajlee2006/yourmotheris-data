@@ -1,1 +1,1 @@
-{"data": ["2021-11-27T10:00:32.147652+00:00", 3655, "Your mother is", "undutiful", "Pronunciation: /\u0259n\u02c8djut\u026a\u02ccf\u028al/", "Definition: lacking due respect or dutifulness", "Synonyms: impious"]}
+{"data": ["2021-11-27T11:02:48.587205+00:00", 3656, "Your mother is", "deviant", "Pronunciation: /\u02c8divi\u0259nt/", "Definition: markedly different from an accepted norm", "Synonyms: aberrant, deviate"]}
