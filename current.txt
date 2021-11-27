@@ -1,1 +1,1 @@
-{"data": ["2021-11-27T00:04:11.512998+00:00", 3645, "Your mother is", "volar", "Pronunciation: /\u02c8vo\u028al\u0259r/", "Definition: relating to the palm of the hand or the sole of the foot", "Synonyms: palmar"]}
+{"data": ["2021-11-27T01:02:08.508292+00:00", 3646, "Your mother is", "featured", "Pronunciation: /\u02c8fi\u02a7\u0259rd/", "Definition: having facial features as specified; usually used in combination", ""]}
