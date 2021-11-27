@@ -1,1 +1,1 @@
-{"data": ["2021-11-27T11:02:48.587205+00:00", 3656, "Your mother is", "deviant", "Pronunciation: /\u02c8divi\u0259nt/", "Definition: markedly different from an accepted norm", "Synonyms: aberrant, deviate"]}
+{"data": ["2021-11-27T12:02:52.064882+00:00", 3657, "Your mother is", "antic", "Pronunciation: /\u02c8\u00e6nt\u026ak/", "Definition: ludicrously odd", "Synonyms: fantastic, fantastical, grotesque"]}
