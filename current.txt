@@ -1,1 +1,1 @@
-{"data": ["2021-11-27T07:02:59.934740+00:00", 3652, "Your mother is", "uveal", "", "Definition: of or relating to the uvea of the eye", "Synonyms: uveous"]}
+{"data": ["2021-11-27T08:01:59.403891+00:00", 3653, "Your mother is", "paternal", "Pronunciation: /p\u0259\u02c8t\u025crn\u0259l/", "Definition: relating to or characteristic of or befitting a parent", "Synonyms: maternal, parental"]}
