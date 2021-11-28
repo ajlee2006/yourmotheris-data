@@ -1,1 +1,1 @@
-{"data": ["2021-11-28T09:02:52.471452+00:00", 3677, "Your mother is", "tatterdemalion", "Pronunciation: /\u02cct\u00e6t\u0259rd\u026a\u02c8me\u026alj\u0259n/", "Definition: worn to shreds; or wearing torn or ragged clothing", "Synonyms: tattered"]}
+{"data": ["2021-11-28T10:02:19.196942+00:00", 3678, "Your mother is", "piano", "Pronunciation: /pi\u02c8\u0251no\u028a/", "Definition: (used chiefly as a direction or description in music) soft; in a quiet, subdued tone", "Synonyms: soft"]}
