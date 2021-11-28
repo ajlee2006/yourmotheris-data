@@ -1,1 +1,1 @@
-{"data": ["2021-11-28T01:02:59.537489+00:00", 3669, "Your mother is", "oily", "Pronunciation: /\u02c8\u0254\u026ali/", "Definition: unpleasantly and excessively suave or ingratiating in manner or speech", "Synonyms: buttery, fulsome, oleaginous, smarmy, soapy, unctuous"]}
+{"data": ["2021-11-28T02:02:17.389755+00:00", 3670, "Your mother is", "ill-timed", "Pronunciation: /\u02c8\u026al\u02c8ta\u026amd/", "Definition: badly timed", "Synonyms: unseasonable, untimely, wrong"]}
