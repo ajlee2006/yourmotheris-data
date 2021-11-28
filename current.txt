@@ -1,1 +1,1 @@
-{"data": ["2021-11-28T06:01:39.794008+00:00", 3674, "Your mother is", "190", "Similar to: cardinal", "Definition: being ten more than one hundred eighty", "Synonyms: one hundred ninety, xcl"]}
+{"data": ["2021-11-28T07:03:15.308245+00:00", 3675, "Your mother is", "polyploid", "Pronunciation: /\u02c8p\u0251li\u02ccpl\u0254\u026ad/", "Definition: of a cell or organism having more than twice the haploid number of chromosomes", ""]}
