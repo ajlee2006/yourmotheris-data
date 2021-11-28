@@ -1,1 +1,1 @@
-{"data": ["2021-11-28T18:01:58.481229+00:00", 3686, "Your mother is", "unshaved", "Pronunciation: /\u0259n\u02c8\u0283e\u026avd/", "Definition: not shaved", "Synonyms: unshaven"]}
+{"data": ["2021-11-28T19:01:11.281197+00:00", 3687, "Your mother is", "17th", "Similar to: ordinal", "Definition: coming next after the sixteenth in position", "Synonyms: seventeenth"]}
