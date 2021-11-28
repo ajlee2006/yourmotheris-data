@@ -1,1 +1,1 @@
-{"data": ["2021-11-28T08:00:54.494785+00:00", 3676, "Your mother is", "midland", "Pronunciation: /\u02c8m\u026adl\u0259nd/", "Definition: of or coming from the middle of a region or country", "Synonyms: interior, upcountry"]}
+{"data": ["2021-11-28T09:02:52.471452+00:00", 3677, "Your mother is", "tatterdemalion", "Pronunciation: /\u02cct\u00e6t\u0259rd\u026a\u02c8me\u026alj\u0259n/", "Definition: worn to shreds; or wearing torn or ragged clothing", "Synonyms: tattered"]}
