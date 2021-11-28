@@ -1,1 +1,1 @@
-{"data": ["2021-11-28T10:02:19.196942+00:00", 3678, "Your mother is", "piano", "Pronunciation: /pi\u02c8\u0251no\u028a/", "Definition: (used chiefly as a direction or description in music) soft; in a quiet, subdued tone", "Synonyms: soft"]}
+{"data": ["2021-11-28T11:00:24.015723+00:00", 3679, "Your mother is", "discomfited", "Similar to: unsuccessful", "Definition: disappointingly unsuccessful", "Synonyms: defeated, disappointed, foiled, frustrated, thwarted"]}
