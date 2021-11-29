@@ -1,1 +1,1 @@
-{"data": ["2021-11-29T06:02:33.488976+00:00", 3698, "Your mother is", "mutually exclusive", "Similar to: incompatible", "Definition: unable for both to exist or be true at the same time", "Synonyms: contradictory"]}
+{"data": ["2021-11-29T07:02:04.351837+00:00", 3699, "Your mother is", "supreme", "Pronunciation: /s\u0259\u02c8prim/", "Definition: greatest or maximal in degree; extreme", "Synonyms: sublime"]}
