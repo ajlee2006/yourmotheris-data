@@ -1,1 +1,1 @@
-{"data": ["2021-11-29T00:02:51.383813+00:00", 3692, "Your mother is", "prongy", "Similar to: divided", "Definition: resembling a fork; divided or separated into two branches", "Synonyms: bifurcate, biramous, branched, forficate, fork-like, forked, pronged"]}
+{"data": ["2021-11-29T01:01:45.809789+00:00", 3693, "Your mother is", "hypothetic", "Similar to: theoretic", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetical, supposed, suppositional, suppositious, supposititious"]}
