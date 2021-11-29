@@ -1,1 +1,1 @@
-{"data": ["2021-11-29T20:02:23.202365+00:00", 3712, "Your mother is", "cursive", "Pronunciation: /\u02c8k\u025crs\u026av/", "Definition: having successive letter joined together", ""]}
+{"data": ["2021-11-29T21:02:59.737343+00:00", 3713, "Your mother is", "nectarous", "Pronunciation: /\u02c8n\u025bkt\u0259r\u0259s/", "Definition: extremely pleasing to the taste; sweet and fragrant", "Synonyms: ambrosial, ambrosian"]}
