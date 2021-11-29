@@ -1,1 +1,1 @@
-{"data": ["2021-11-29T18:00:37.116799+00:00", 3710, "Your mother is", "untaught", "Pronunciation: /\u0259n\u02c8t\u0251t/", "Definition: lacking in schooling", "Synonyms: unschooled, untutored"]}
+{"data": ["2021-11-29T19:01:47.317933+00:00", 3711, "Your mother is", "public-spirited", "Pronunciation: /\u02c8p\u0259bl\u026ak-\u02c8sp\u026ar\u026at\u026ad/", "Definition: showing unselfish interest in the public welfare", ""]}
