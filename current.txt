@@ -1,1 +1,1 @@
-{"data": ["2021-11-29T19:01:47.317933+00:00", 3711, "Your mother is", "public-spirited", "Pronunciation: /\u02c8p\u0259bl\u026ak-\u02c8sp\u026ar\u026at\u026ad/", "Definition: showing unselfish interest in the public welfare", ""]}
+{"data": ["2021-11-29T20:02:23.202365+00:00", 3712, "Your mother is", "cursive", "Pronunciation: /\u02c8k\u025crs\u026av/", "Definition: having successive letter joined together", ""]}
