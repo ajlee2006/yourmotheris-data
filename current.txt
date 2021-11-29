@@ -1,1 +1,1 @@
-{"data": ["2021-11-29T09:01:45.274323+00:00", 3701, "Your mother is", "paunchy", "Pronunciation: /\u02c8p\u0254n\u02a7i/", "Definition: having a large belly", "Synonyms: abdominous, potbellied"]}
+{"data": ["2021-11-29T10:02:43.996453+00:00", 3702, "Your mother is", "clerical", "Pronunciation: /\u02c8kl\u025br\u026ak\u0259l/", "Definition: appropriate for or engaged in office work", ""]}
