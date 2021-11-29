@@ -1,1 +1,1 @@
-{"data": ["2021-11-28T23:01:44.462936+00:00", 3691, "Your mother is", "self-asserting", "Similar to: cocky", "Definition: aggressively self-assured", "Synonyms: assertive, self-assertive"]}
+{"data": ["2021-11-29T00:02:51.383813+00:00", 3692, "Your mother is", "prongy", "Similar to: divided", "Definition: resembling a fork; divided or separated into two branches", "Synonyms: bifurcate, biramous, branched, forficate, fork-like, forked, pronged"]}
