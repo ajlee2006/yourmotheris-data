@@ -1,1 +1,1 @@
-{"data": ["2021-11-29T10:02:43.996453+00:00", 3702, "Your mother is", "clerical", "Pronunciation: /\u02c8kl\u025br\u026ak\u0259l/", "Definition: appropriate for or engaged in office work", ""]}
+{"data": ["2021-11-29T11:02:47.242722+00:00", 3703, "Your mother is", "faultless", "Pronunciation: /\u02c8f\u0254ltl\u026as/", "Definition: without fault or error", "Synonyms: immaculate, impeccable, incorrupted"]}
