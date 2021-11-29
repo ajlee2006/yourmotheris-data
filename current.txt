@@ -1,1 +1,1 @@
-{"data": ["2021-11-29T05:03:26.423382+00:00", 3697, "Your mother is", "premedical", "Pronunciation: /pri\u02c8m\u025bd\u026ak\u0259l/", "Definition: preceding and preparing for the study of medicine", ""]}
+{"data": ["2021-11-29T06:02:33.488976+00:00", 3698, "Your mother is", "mutually exclusive", "Similar to: incompatible", "Definition: unable for both to exist or be true at the same time", "Synonyms: contradictory"]}
