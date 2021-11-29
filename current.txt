@@ -1,1 +1,1 @@
-{"data": ["2021-11-29T02:01:58.428373+00:00", 3694, "Your mother is", "blond", "Pronunciation: /bl\u0251nd/", "Definition: being or having light colored skin and hair and usually blue or grey eyes", "Synonyms: blonde, light-haired"]}
+{"data": ["2021-11-29T03:00:51.540437+00:00", 3695, "Your mother is", "clitoric", "", "Definition: of or relating to the clitoris", "Synonyms: clitoral"]}
