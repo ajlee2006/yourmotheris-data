@@ -1,1 +1,1 @@
-{"data": ["2021-11-29T08:02:18.523996+00:00", 3700, "Your mother is", "unquotable", "Pronunciation: /\u0259n\u02c8kwo\u028at\u0259b\u0259l/", "Definition: not able or fit to be repeated or quoted", "Synonyms: unrepeatable"]}
+{"data": ["2021-11-29T09:01:45.274323+00:00", 3701, "Your mother is", "paunchy", "Pronunciation: /\u02c8p\u0254n\u02a7i/", "Definition: having a large belly", "Synonyms: abdominous, potbellied"]}
