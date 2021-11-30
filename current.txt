@@ -1,1 +1,1 @@
-{"data": ["2021-11-30T12:03:05.266853+00:00", 3728, "Your mother is", "allelic", "Pronunciation: /\u0259\u02c8lil\u026ak/", "Definition: of or relating to alleles", "Synonyms: allelomorphic"]}
+{"data": ["2021-11-30T13:00:25.635099+00:00", 3729, "Your mother is", "wizard", "Pronunciation: /\u02c8w\u026az\u0259rd/", "Definition: possessing or using or characteristic of or appropriate to supernatural powers", "Synonyms: charming, magic, magical, sorcerous, witching, wizardly"]}
