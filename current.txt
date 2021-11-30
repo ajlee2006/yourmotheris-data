@@ -1,1 +1,1 @@
-{"data": ["2021-11-30T16:02:48.850971+00:00", 3732, "Your mother is", "sevenfold", "Pronunciation: /\u02c8s\u025bv\u0259n\u02ccfo\u028ald/", "Definition: having seven units or components", "Synonyms: septuple, seven-fold"]}
+{"data": ["2021-11-30T17:02:33.122124+00:00", 3733, "Your mother is", "46th", "Similar to: ordinal", "Definition: the ordinal number of forty-six in counting order", "Synonyms: forty-sixth"]}
