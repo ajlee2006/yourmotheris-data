@@ -1,1 +1,1 @@
-{"data": ["2021-11-30T09:02:11.040602+00:00", 3725, "Your mother is", "forty-first", "Pronunciation: /\u02c8f\u0254rti-\u02c8f\u025crst/", "Definition: the ordinal number of forty-one in counting order", "Synonyms: 41st"]}
+{"data": ["2021-11-30T10:02:00.848889+00:00", 3726, "Your mother is", "albinal", "Pronunciation: /\u02c8\u00e6lb\u0259n\u0259l/", "Definition: of or pertaining to or affected by albinism", "Synonyms: albinic, albinistic, albinotic"]}
