@@ -1,1 +1,1 @@
-{"data": ["2021-11-30T03:01:35.186678+00:00", 3719, "Your mother is", "surpassing", "Pronunciation: /s\u025dr\u02c8p\u00e6s\u026a\u014b/", "Definition: far beyond what is usual in magnitude or degree", "Synonyms: exceeding, exceptional, olympian, prodigious"]}
+{"data": ["2021-11-30T04:02:27.495455+00:00", 3720, "Your mother is", "finical", "Pronunciation: /\u02c8f\u026an\u026ak\u0259l/", "Definition: exacting especially about details", "Synonyms: finicky, fussy, particular, picky"]}
