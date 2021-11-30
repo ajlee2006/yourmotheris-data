@@ -1,1 +1,1 @@
-{"data": ["2021-11-30T19:00:20.853778+00:00", 3735, "Your mother is", "nosed", "Pronunciation: /no\u028azd/", "Definition: having a nose (either literal or metaphoric) especially of a specified kind", ""]}
+{"data": ["2021-11-30T20:00:57.538948+00:00", 3736, "Your mother is", "spell-bound", "Similar to: enchanted", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spellbound, transfixed"]}
