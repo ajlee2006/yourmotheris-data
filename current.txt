@@ -1,1 +1,1 @@
-{"data": ["2021-11-30T17:02:33.122124+00:00", 3733, "Your mother is", "46th", "Similar to: ordinal", "Definition: the ordinal number of forty-six in counting order", "Synonyms: forty-sixth"]}
+{"data": ["2021-11-30T18:02:03.423174+00:00", 3734, "Your mother is", "half-track", "Pronunciation: /h\u00e6f-tr\u00e6k/", "Definition: having caterpillar treads on the rear and wheels in front", "Synonyms: half-tracked"]}
