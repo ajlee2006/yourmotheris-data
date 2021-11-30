@@ -1,1 +1,1 @@
-{"data": ["2021-11-30T08:01:56.938948+00:00", 3724, "Your mother is", "inclusive", "Pronunciation: /\u026an\u02c8klus\u026av/", "Definition: including much or everything; and especially including stated limits", ""]}
+{"data": ["2021-11-30T09:02:11.040602+00:00", 3725, "Your mother is", "forty-first", "Pronunciation: /\u02c8f\u0254rti-\u02c8f\u025crst/", "Definition: the ordinal number of forty-one in counting order", "Synonyms: 41st"]}
