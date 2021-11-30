@@ -1,1 +1,1 @@
-{"data": ["2021-11-30T21:00:23.728499+00:00", 3737, "Your mother is", "cottony", "Pronunciation: /\u02c8k\u0251t\u0259ni/", "Definition: resembling cotton; as soft as cotton", ""]}
+{"data": ["2021-11-30T22:02:04.944127+00:00", 3738, "Your mother is", "twenty-two", "Pronunciation: /\u02c8tw\u025bnti-\u02c8tu/", "Definition: being two more than twenty", "Synonyms: 22, xxii"]}
