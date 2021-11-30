@@ -1,1 +1,1 @@
-{"data": ["2021-11-30T13:00:25.635099+00:00", 3729, "Your mother is", "wizard", "Pronunciation: /\u02c8w\u026az\u0259rd/", "Definition: possessing or using or characteristic of or appropriate to supernatural powers", "Synonyms: charming, magic, magical, sorcerous, witching, wizardly"]}
+{"data": ["2021-11-30T14:01:10.870769+00:00", 3730, "Your mother is", "vapourous", "Similar to: gaseous", "Definition: resembling or characteristic of vapor", "Synonyms: vaporific, vaporish, vaporous, vapourific, vapourish"]}
