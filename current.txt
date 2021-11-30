@@ -1,1 +1,1 @@
-{"data": ["2021-11-30T20:00:57.538948+00:00", 3736, "Your mother is", "spell-bound", "Similar to: enchanted", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spellbound, transfixed"]}
+{"data": ["2021-11-30T21:00:23.728499+00:00", 3737, "Your mother is", "cottony", "Pronunciation: /\u02c8k\u0251t\u0259ni/", "Definition: resembling cotton; as soft as cotton", ""]}
