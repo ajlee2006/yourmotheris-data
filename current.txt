@@ -1,1 +1,1 @@
-{"data": ["2021-11-30T22:02:04.944127+00:00", 3738, "Your mother is", "twenty-two", "Pronunciation: /\u02c8tw\u025bnti-\u02c8tu/", "Definition: being two more than twenty", "Synonyms: 22, xxii"]}
+{"data": ["2021-11-30T23:01:37.934562+00:00", 3739, "Your mother is", "compact", "Pronunciation: /\u02c8k\u0251mp\u00e6kt/", "Definition: briefly giving the gist of something", "Synonyms: compendious, succinct, summary"]}
