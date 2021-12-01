@@ -1,1 +1,1 @@
-{"data": ["2021-12-01T06:02:15.042601+00:00", 3746, "Your mother is", "prior", "Pronunciation: /\u02c8pra\u026a\u0259r/", "Definition: earlier in time", "Synonyms: anterior"]}
+{"data": ["2021-12-01T07:03:05.847443+00:00", 3747, "Your mother is", "credited", "Pronunciation: /\u02c8kr\u025bd\u028ct\u028cd/", "Definition: (usually followed by `to') given credit for", ""]}
