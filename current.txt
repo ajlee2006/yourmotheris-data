@@ -1,1 +1,1 @@
-{"data": ["2021-12-01T10:02:58.019071+00:00", 3750, "Your mother is", "middle-aged", "Pronunciation: /\u02c8m\u026ad\u0259l\u02c8e\u026ad\u0292d/", "Definition: being roughly between 45 and 65 years old", ""]}
+{"data": ["2021-12-01T11:01:43.960942+00:00", 3751, "Your mother is", "luminous", "Pronunciation: /\u02c8lum\u0259n\u0259s/", "Definition: softly bright or radiant", "Synonyms: aglow, lambent, lucent"]}
