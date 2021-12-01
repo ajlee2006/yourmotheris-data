@@ -1,1 +1,1 @@
-{"data": ["2021-12-01T02:02:08.626747+00:00", 3742, "Your mother is", "roast", "Pronunciation: /ro\u028ast/", "Definition: (meat) cooked by dry heat in an oven", "Synonyms: roasted"]}
+{"data": ["2021-12-01T03:00:18.051048+00:00", 3743, "Your mother is", "inelastic", "Pronunciation: /\u02cc\u026an\u026a\u02c8l\u00e6st\u026ak/", "Definition: not elastic", ""]}
