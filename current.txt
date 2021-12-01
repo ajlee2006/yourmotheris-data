@@ -1,1 +1,1 @@
-{"data": ["2021-12-01T13:01:34.548117+00:00", 3753, "Your mother is", "saucy", "Pronunciation: /\u02c8s\u0254si/", "Definition: improperly forward or bold", "Synonyms: fresh, impertinent, impudent, overbold, sassy, smart, wise"]}
+{"data": ["2021-12-01T14:02:15.440689+00:00", 3754, "Your mother is", "tensed", "Similar to: finite", "Definition: having inflections to indicate tense", ""]}
