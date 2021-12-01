@@ -1,1 +1,1 @@
-{"data": ["2021-12-01T17:02:19.858024+00:00", 3757, "Your mother is", "verbalized", "Similar to: spoken", "Definition: communicated in words", "Synonyms: expressed, uttered, verbalised"]}
+{"data": ["2021-12-01T18:01:51.481425+00:00", 3758, "Your mother is", "reflective", "Pronunciation: /r\u026a\u02c8fl\u025bkt\u026av/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, musing, pensive, pondering, ruminative"]}
