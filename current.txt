@@ -1,1 +1,1 @@
-{"data": ["2021-12-01T18:01:51.481425+00:00", 3758, "Your mother is", "reflective", "Pronunciation: /r\u026a\u02c8fl\u025bkt\u026av/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, musing, pensive, pondering, ruminative"]}
+{"data": ["2021-12-01T19:01:05.704588+00:00", 3759, "Your mother is", "machine-controlled", "Similar to: automatic", "Definition: operated by automation", "Synonyms: automated, machine-driven"]}
