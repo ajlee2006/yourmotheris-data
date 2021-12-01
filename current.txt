@@ -1,1 +1,1 @@
-{"data": ["2021-12-01T09:03:33.647989+00:00", 3749, "Your mother is", "fire-resisting", "Similar to: incombustible", "Definition: difficult to burn", "Synonyms: fire-resistant, fire-resistive, fire-retardant"]}
+{"data": ["2021-12-01T10:02:58.019071+00:00", 3750, "Your mother is", "middle-aged", "Pronunciation: /\u02c8m\u026ad\u0259l\u02c8e\u026ad\u0292d/", "Definition: being roughly between 45 and 65 years old", ""]}
