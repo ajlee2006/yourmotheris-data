@@ -1,1 +1,1 @@
-{"data": ["2021-12-01T03:00:18.051048+00:00", 3743, "Your mother is", "inelastic", "Pronunciation: /\u02cc\u026an\u026a\u02c8l\u00e6st\u026ak/", "Definition: not elastic", ""]}
+{"data": ["2021-12-01T04:00:53.613016+00:00", 3744, "Your mother is", "delusive", "Pronunciation: /d\u026a\u02c8lus\u026av/", "Definition: inappropriate to reality or facts", "Synonyms: false"]}
