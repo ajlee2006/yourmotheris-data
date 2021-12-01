@@ -1,1 +1,1 @@
-{"data": ["2021-12-01T07:03:05.847443+00:00", 3747, "Your mother is", "credited", "Pronunciation: /\u02c8kr\u025bd\u028ct\u028cd/", "Definition: (usually followed by `to') given credit for", ""]}
+{"data": ["2021-12-01T08:03:08.738461+00:00", 3748, "Your mother is", "fooling", "Pronunciation: /\u02c8ful\u026a\u014b/", "Definition: characterized by a feeling of irresponsibility", "Synonyms: casual"]}
