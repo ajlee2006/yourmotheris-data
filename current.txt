@@ -1,1 +1,1 @@
-{"data": ["2021-12-01T04:00:53.613016+00:00", 3744, "Your mother is", "delusive", "Pronunciation: /d\u026a\u02c8lus\u026av/", "Definition: inappropriate to reality or facts", "Synonyms: false"]}
+{"data": ["2021-12-01T05:01:23.373684+00:00", 3745, "Your mother is", "baking", "Pronunciation: /\u02c8be\u026ak\u026a\u014b/", "Definition: as hot as if in an oven", "Synonyms: baking hot"]}
