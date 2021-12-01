@@ -1,1 +1,1 @@
-{"data": ["2021-12-01T00:01:54.588275+00:00", 3740, "Your mother is", "monophonic", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8f\u0251n\u026ak/", "Definition: designating sound transmission or recording or reproduction over a single channel", "Synonyms: mono, single-channel"]}
+{"data": ["2021-12-01T01:03:11.705744+00:00", 3741, "Your mother is", "ransacked", "Pronunciation: /\u02c8r\u00e6n\u02ccs\u00e6kt/", "Definition: wrongfully emptied or stripped of anything of value", "Synonyms: looted, pillaged, plundered"]}
