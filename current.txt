@@ -1,1 +1,1 @@
-{"data": ["2021-11-30T23:01:37.934562+00:00", 3739, "Your mother is", "compact", "Pronunciation: /\u02c8k\u0251mp\u00e6kt/", "Definition: briefly giving the gist of something", "Synonyms: compendious, succinct, summary"]}
+{"data": ["2021-12-01T00:01:54.588275+00:00", 3740, "Your mother is", "monophonic", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8f\u0251n\u026ak/", "Definition: designating sound transmission or recording or reproduction over a single channel", "Synonyms: mono, single-channel"]}
