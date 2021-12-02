@@ -1,1 +1,1 @@
-{"data": ["2021-12-02T21:01:38.683292+00:00", 3785, "Your mother is", "belletristic", "Pronunciation: /\u02ccb\u025bll\u026a\u02c8tr\u026ast\u026ak/", "Definition: written and regarded for aesthetic value rather than content", ""]}
+{"data": ["2021-12-02T22:02:50.144446+00:00", 3786, "Your mother is", "grayish-black", "Similar to: achromatic", "Definition: of black tinged with grey", "Synonyms: gray-black, grey-black, greyish-black"]}
