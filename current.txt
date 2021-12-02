@@ -1,1 +1,1 @@
-{"data": ["2021-12-02T15:00:38.873535+00:00", 3779, "Your mother is", "strapless", "Pronunciation: /\u02c8str\u00e6pl\u026as/", "Definition: having no straps", ""]}
+{"data": ["2021-12-02T16:02:19.213265+00:00", 3780, "Your mother is", "ligneous", "Pronunciation: /\u02c8l\u026agni\u0259s/", "Definition: consisting of or containing lignin or xylem", ""]}
