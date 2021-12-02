@@ -1,1 +1,1 @@
-{"data": ["2021-12-02T17:01:04.719737+00:00", 3781, "Your mother is", "silver", "Pronunciation: /\u02c8s\u026alv\u0259r/", "Definition: expressing yourself readily, clearly, effectively", "Synonyms: eloquent, facile, fluent, silver-tongued, smooth-spoken"]}
+{"data": ["2021-12-02T18:02:34.394499+00:00", 3782, "Your mother is", "articulary", "", "Definition: relating to or affecting the joints of the body", "Synonyms: articular"]}
