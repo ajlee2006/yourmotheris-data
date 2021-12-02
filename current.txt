@@ -1,1 +1,1 @@
-{"data": ["2021-12-02T19:00:59.745034+00:00", 3783, "Your mother is", "foreordained", "Similar to: certain", "Definition: established or prearranged unalterably", "Synonyms: predestinate, predestined"]}
+{"data": ["2021-12-02T20:02:08.126238+00:00", 3784, "Your mother is", "self-sown", "Pronunciation: /\u02c8s\u025blf\u02c8so\u028an/", "Definition: growing from seed dispersed by natural agency such as wind or birds", "Synonyms: self-seeded, self-sowed"]}
