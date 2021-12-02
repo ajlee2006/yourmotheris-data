@@ -1,1 +1,1 @@
-{"data": ["2021-12-01T23:00:20.997036+00:00", 3763, "Your mother is", "arboraceous", "Pronunciation: /\u02cc\u0251rb\u0259\u02c8re\u026a\u0283\u0259s/", "Definition: abounding in trees", "Synonyms: arboreous, woodsy, woody"]}
+{"data": ["2021-12-02T00:03:24.687603+00:00", 3764, "Your mother is", "gimbaled", "Similar to: supported", "Definition: supported on gimbals and remaining steady or level when the base tips", ""]}
