@@ -1,1 +1,1 @@
-{"data": ["2021-12-02T08:02:07.801699+00:00", 3772, "Your mother is", "corny", "Pronunciation: /\u02c8k\u0254rni/", "Definition: dull and tiresome but with pretensions of significance or originality", "Synonyms: bromidic, platitudinal, platitudinous"]}
+{"data": ["2021-12-02T09:01:29.113435+00:00", 3773, "Your mother is", "auburn", "Pronunciation: /\u02c8\u0254b\u0259rn/", "Definition: (of hair) colored a moderate reddish-brown", ""]}
