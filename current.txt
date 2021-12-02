@@ -1,1 +1,1 @@
-{"data": ["2021-12-02T20:02:08.126238+00:00", 3784, "Your mother is", "self-sown", "Pronunciation: /\u02c8s\u025blf\u02c8so\u028an/", "Definition: growing from seed dispersed by natural agency such as wind or birds", "Synonyms: self-seeded, self-sowed"]}
+{"data": ["2021-12-02T21:01:38.683292+00:00", 3785, "Your mother is", "belletristic", "Pronunciation: /\u02ccb\u025bll\u026a\u02c8tr\u026ast\u026ak/", "Definition: written and regarded for aesthetic value rather than content", ""]}
