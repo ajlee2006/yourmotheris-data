@@ -1,1 +1,1 @@
-{"data": ["2021-12-02T01:02:29.354144+00:00", 3765, "Your mother is", "offhanded", "Similar to: careless", "Definition: casually thoughtless or inconsiderate", "Synonyms: offhand"]}
+{"data": ["2021-12-02T02:01:34.130107+00:00", 3766, "Your mother is", "segregated", "Pronunciation: /\u02c8s\u025b\u0261r\u028c\u02cc\u0261e\u026at\u026ad/", "Definition: separated or isolated from others or a main group", "Synonyms: unintegrated"]}
