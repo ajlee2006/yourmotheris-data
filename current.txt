@@ -1,1 +1,1 @@
-{"data": ["2021-12-02T05:02:54.222286+00:00", 3769, "Your mother is", "membered", "Pronunciation: /\u02c8m\u025bmb\u025drd/", "Definition: having members; normally used in chemistry in combination with a number", ""]}
+{"data": ["2021-12-02T06:02:23.940266+00:00", 3770, "Your mother is", "mechanically skillful", "", "Definition: relating to or concerned with machinery or tools", "Synonyms: mechanical, technical"]}
