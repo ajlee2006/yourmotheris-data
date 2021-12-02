@@ -1,1 +1,1 @@
-{"data": ["2021-12-02T00:03:24.687603+00:00", 3764, "Your mother is", "gimbaled", "Similar to: supported", "Definition: supported on gimbals and remaining steady or level when the base tips", ""]}
+{"data": ["2021-12-02T01:02:29.354144+00:00", 3765, "Your mother is", "offhanded", "Similar to: careless", "Definition: casually thoughtless or inconsiderate", "Synonyms: offhand"]}
