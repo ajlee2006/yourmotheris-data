@@ -1,1 +1,1 @@
-{"data": ["2021-12-02T13:01:42.208671+00:00", 3777, "Your mother is", "ashy", "Pronunciation: /\u02c8\u00e6\u0283i/", "Definition: of a light grey", "Synonyms: ash-gray, ash-grey"]}
+{"data": ["2021-12-02T14:01:22.620470+00:00", 3778, "Your mother is", "flash", "Pronunciation: /fl\u00e6\u0283/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tatty, tawdry, trashy"]}
