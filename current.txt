@@ -1,1 +1,1 @@
-{"data": ["2021-12-02T03:01:58.528006+00:00", 3767, "Your mother is", "unworried", "Pronunciation: /\u0259n\u02c8w\u0259rid/", "Definition: free of trouble and worry and care", "Synonyms: carefree"]}
+{"data": ["2021-12-02T04:02:08.764644+00:00", 3768, "Your mother is", "fugacious", "Pronunciation: /fju\u02c8\u0261e\u026a\u0283\u0259s/", "Definition: lasting a very short time", "Synonyms: ephemeral, passing, short-lived, transient, transitory"]}
