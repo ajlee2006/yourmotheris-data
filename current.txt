@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T05:02:00.168951+00:00", 3793, "Your mother is", "pervasive", "Pronunciation: /\u02c8p\u0259rve\u026as\u026av/", "Definition: spreading or spread throughout", "Synonyms: permeant, permeating, permeative"]}
+{"data": ["2021-12-03T06:02:26.529332+00:00", 3794, "Your mother is", "91", "Similar to: cardinal", "Definition: being one more than ninety", "Synonyms: ninety-one, xci"]}
