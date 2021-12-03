@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T13:01:38.590057+00:00", 3801, "Your mother is", "metaphorical", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8f\u0254r\u026ak\u0259l/", "Definition: expressing one thing in terms normally denoting another", "Synonyms: metaphoric"]}
+{"data": ["2021-12-03T14:01:33.495875+00:00", 3802, "Your mother is", "abiding", "Pronunciation: /\u0259\u02c8ba\u026ad\u026a\u014b/", "Definition: lasting a long time", "Synonyms: enduring, imperishable"]}
