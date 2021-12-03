@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T21:01:38.129724+00:00", 3809, "Your mother is", "ladylike", "Pronunciation: /\u02c8le\u026adi\u02ccla\u026ak/", "Definition: befitting a woman of good breeding", ""]}
+{"data": ["2021-12-03T22:02:53.751724+00:00", 3810, "Your mother is", "astragalar", "", "Definition: of or relating to the anklebone", ""]}
