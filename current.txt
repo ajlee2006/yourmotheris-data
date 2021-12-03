@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T03:02:41.087745+00:00", 3791, "Your mother is", "bulb-shaped", "Similar to: circular", "Definition: shaped like a bulb", "Synonyms: bulblike, bulbous"]}
+{"data": ["2021-12-03T04:01:30.694290+00:00", 3792, "Your mother is", "circulatory", "Pronunciation: /\u02c8s\u025crkj\u0259l\u0259\u02ccto\u028ari/", "Definition: of or relating to circulation", "Synonyms: circulative"]}
