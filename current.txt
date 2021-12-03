@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T12:01:06.793705+00:00", 3800, "Your mother is", "stenographic", "Pronunciation: /\u02ccst\u025bn\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to or employing stenography", "Synonyms: stenographical"]}
+{"data": ["2021-12-03T13:01:38.590057+00:00", 3801, "Your mother is", "metaphorical", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8f\u0254r\u026ak\u0259l/", "Definition: expressing one thing in terms normally denoting another", "Synonyms: metaphoric"]}
