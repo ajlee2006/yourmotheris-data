@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T18:02:38.246615+00:00", 3806, "Your mother is", "wonderful", "Pronunciation: /\u02c8w\u0259nd\u0259rf\u0259l/", "Definition: extraordinarily good or great; used especially as intensifiers", "Synonyms: fantastic, grand, howling, marvellous, marvelous, rattling, terrific, tremendous, wondrous"]}
+{"data": ["2021-12-03T19:02:32.206273+00:00", 3807, "Your mother is", "diarrhoeal", "Similar to: regular", "Definition: of or relating to diarrhea", "Synonyms: diarrheal, diarrheic, diarrhetic, diarrhoeic, diarrhoetic"]}
