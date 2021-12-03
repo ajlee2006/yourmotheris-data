@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T15:01:36.140886+00:00", 3803, "Your mother is", "chesty", "Pronunciation: /\u02c8\u02a7\u025bsti/", "Definition: having or showing feelings of unwarranted importance out of overbearing pride", "Synonyms: arrogant, self-important"]}
+{"data": ["2021-12-03T16:02:53.403206+00:00", 3804, "Your mother is", "multipotent", "Similar to: potent", "Definition: able to many things", ""]}
