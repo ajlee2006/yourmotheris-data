@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T10:00:55.565778+00:00", 3798, "Your mother is", "pastel", "Pronunciation: /\u02c8p\u00e6st\u025bl/", "Definition: delicate and pale in color", ""]}
+{"data": ["2021-12-03T11:02:46.002084+00:00", 3799, "Your mother is", "unwilling", "Pronunciation: /\u0259n\u02c8w\u026al\u026a\u014b/", "Definition: in spite of contrary volition", ""]}
