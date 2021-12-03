@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T04:01:30.694290+00:00", 3792, "Your mother is", "circulatory", "Pronunciation: /\u02c8s\u025crkj\u0259l\u0259\u02ccto\u028ari/", "Definition: of or relating to circulation", "Synonyms: circulative"]}
+{"data": ["2021-12-03T05:02:00.168951+00:00", 3793, "Your mother is", "pervasive", "Pronunciation: /\u02c8p\u0259rve\u026as\u026av/", "Definition: spreading or spread throughout", "Synonyms: permeant, permeating, permeative"]}
