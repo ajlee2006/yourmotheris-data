@@ -1,1 +1,1 @@
-{"data": ["2021-12-02T23:02:47.196396+00:00", 3787, "Your mother is", "connective", "Pronunciation: /k\u0259\u02c8n\u025bkt\u026av/", "Definition: connecting or tending to connect", ""]}
+{"data": ["2021-12-03T00:02:24.428431+00:00", 3788, "Your mother is", "unornamented", "Pronunciation: /\u0259n\u02c8o\u028arn\u0259\u02ccm\u025bnt\u026ad/", "Definition: lacking embellishment or ornamentation", "Synonyms: bare, plain, spare, unembellished"]}
