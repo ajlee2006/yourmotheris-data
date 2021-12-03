@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T01:02:00.027909+00:00", 3789, "Your mother is", "distal", "Pronunciation: /\u02c8d\u026ast\u0259l/", "Definition: directed away from the midline or mesial plane of the body", ""]}
+{"data": ["2021-12-03T02:03:04.454972+00:00", 3790, "Your mother is", "darling", "Pronunciation: /\u02c8d\u0251rl\u026a\u014b/", "Definition: dearly loved", "Synonyms: beloved, dear"]}
