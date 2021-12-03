@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T09:02:04.254260+00:00", 3797, "Your mother is", "approaching", "Pronunciation: /\u028c\u02c8pro\u028at\u0283\u026a\u014b/", "Definition: of the relatively near future", "Synonyms: coming, forthcoming, upcoming"]}
+{"data": ["2021-12-03T10:00:55.565778+00:00", 3798, "Your mother is", "pastel", "Pronunciation: /\u02c8p\u00e6st\u025bl/", "Definition: delicate and pale in color", ""]}
