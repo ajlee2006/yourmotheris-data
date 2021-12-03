@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T17:01:39.219538+00:00", 3805, "Your mother is", "epenthetic", "Pronunciation: /\u02cc\u025bp\u0259n\u02c8\u03b8\u025bt\u026ak/", "Definition: of or pertaining to epenthesis", "Synonyms: parasitic"]}
+{"data": ["2021-12-03T18:02:38.246615+00:00", 3806, "Your mother is", "wonderful", "Pronunciation: /\u02c8w\u0259nd\u0259rf\u0259l/", "Definition: extraordinarily good or great; used especially as intensifiers", "Synonyms: fantastic, grand, howling, marvellous, marvelous, rattling, terrific, tremendous, wondrous"]}
