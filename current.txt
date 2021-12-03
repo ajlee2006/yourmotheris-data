@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T02:03:04.454972+00:00", 3790, "Your mother is", "darling", "Pronunciation: /\u02c8d\u0251rl\u026a\u014b/", "Definition: dearly loved", "Synonyms: beloved, dear"]}
+{"data": ["2021-12-03T03:02:41.087745+00:00", 3791, "Your mother is", "bulb-shaped", "Similar to: circular", "Definition: shaped like a bulb", "Synonyms: bulblike, bulbous"]}
