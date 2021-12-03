@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T11:02:46.002084+00:00", 3799, "Your mother is", "unwilling", "Pronunciation: /\u0259n\u02c8w\u026al\u026a\u014b/", "Definition: in spite of contrary volition", ""]}
+{"data": ["2021-12-03T12:01:06.793705+00:00", 3800, "Your mother is", "stenographic", "Pronunciation: /\u02ccst\u025bn\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to or employing stenography", "Synonyms: stenographical"]}
