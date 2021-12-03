@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T19:02:32.206273+00:00", 3807, "Your mother is", "diarrhoeal", "Similar to: regular", "Definition: of or relating to diarrhea", "Synonyms: diarrheal, diarrheic, diarrhetic, diarrhoeic, diarrhoetic"]}
+{"data": ["2021-12-03T20:01:58.692956+00:00", 3808, "Your mother is", "misshapen", "Pronunciation: /m\u026as\u02c8\u0283e\u026ap\u0259n/", "Definition: so badly formed or out of shape as to be ugly", "Synonyms: deformed, distorted, ill-shapen, malformed"]}
