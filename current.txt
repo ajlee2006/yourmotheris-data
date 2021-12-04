@@ -1,1 +1,1 @@
-{"data": ["2021-12-04T16:02:51.837541+00:00", 3828, "Your mother is", "peeved", "Pronunciation: /pivd/", "Definition: aroused to impatience or anger", "Synonyms: annoyed, irritated, miffed, nettled, pissed, pissed off, riled, roiled, steamed, stung"]}
+{"data": ["2021-12-04T17:01:33.847727+00:00", 3829, "Your mother is", "copacetic", "Pronunciation: /\u02ccko\u028ap\u0259\u02c8s\u025bt\u026ak/", "Definition: completely satisfactory", "Synonyms: copasetic, copesetic, copesettic"]}
