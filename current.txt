@@ -1,1 +1,1 @@
-{"data": ["2021-12-04T07:02:02.835309+00:00", 3819, "Your mother is", "continent", "Pronunciation: /\u02c8k\u0251nt\u0259n\u0259nt/", "Definition: abstaining from sexual intercourse", "Synonyms: celibate"]}
+{"data": ["2021-12-04T08:01:09.609810+00:00", 3820, "Your mother is", "k", "Pronunciation: /ke\u026a/", "Definition: denoting a quantity consisting of 1,000 items or units", "Synonyms: 1000, m, one thousand, thousand"]}
