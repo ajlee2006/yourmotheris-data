@@ -1,1 +1,1 @@
-{"data": ["2021-12-04T14:02:29.438444+00:00", 3826, "Your mother is", "geometrical", "Pronunciation: /\u02ccd\u0292i\u028c\u02c8m\u025btr\u026ak\u028cl/", "Definition: characterized by simple geometric forms in design and decoration", "Synonyms: geometric"]}
+{"data": ["2021-12-04T15:01:38.019492+00:00", 3827, "Your mother is", "temptable", "Similar to: susceptible", "Definition: susceptible to temptation", ""]}
