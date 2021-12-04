@@ -1,1 +1,1 @@
-{"data": ["2021-12-04T18:02:36.724656+00:00", 3830, "Your mother is", "benthonic", "Pronunciation: /b\u025bn\u02c8\u03b8\u0251n\u026ak/", "Definition: of or relating to or happening on the bottom under a body of water", "Synonyms: benthal, benthic"]}
+{"data": ["2021-12-04T19:01:17.498768+00:00", 3831, "Your mother is", "bathetic", "Pronunciation: /b\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: effusively or insincerely emotional", "Synonyms: drippy, hokey, kitschy, maudlin, mawkish, mushy, sappy, schmaltzy, schmalzy, sentimental, slushy, soppy, soupy"]}
