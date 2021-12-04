@@ -1,1 +1,1 @@
-{"data": ["2021-12-04T00:02:55.411681+00:00", 3812, "Your mother is", "extensional", "Similar to: denotative", "Definition: defining a word by listing the class of entities to which the word correctly applies", ""]}
+{"data": ["2021-12-04T01:01:40.083446+00:00", 3813, "Your mother is", "world-weary", "Pronunciation: /w\u025crld-\u02c8wiri/", "Definition: tired of the world", "Synonyms: bored"]}
