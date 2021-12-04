@@ -1,1 +1,1 @@
-{"data": ["2021-12-04T09:00:22.193484+00:00", 3821, "Your mother is", "spanish-speaking", "Pronunciation: /\u02c8sp\u00e6n\u026a\u0283-\u02c8spik\u026a\u014b/", "Definition: able to communicate in Spanish", ""]}
+{"data": ["2021-12-04T10:01:10.320107+00:00", 3822, "Your mother is", "uncaring", "Pronunciation: /\u028cn\u02c8k\u025br\u026a\u014b/", "Definition: lacking affection or warm feeling", "Synonyms: detached, unaffectionate"]}
