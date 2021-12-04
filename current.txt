@@ -1,1 +1,1 @@
-{"data": ["2021-12-04T03:02:33.479574+00:00", 3815, "Your mother is", "cross-section", "Pronunciation: /kr\u0254s-\u02c8s\u025bk\u0283\u0259n/", "Definition: representing a plane made by cutting across something at right angles to its length", "Synonyms: cross-sectional"]}
+{"data": ["2021-12-04T04:01:52.544500+00:00", 3816, "Your mother is", "deathless", "Pronunciation: /\u02c8d\u025b\u03b8l\u026as/", "Definition: never dying", "Synonyms: undying"]}
