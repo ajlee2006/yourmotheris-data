@@ -1,1 +1,1 @@
-{"data": ["2021-12-03T23:01:13.580380+00:00", 3811, "Your mother is", "unbloody", "Similar to: bloodless", "Definition: achieved without bloodshed", "Synonyms: nonviolent"]}
+{"data": ["2021-12-04T00:02:55.411681+00:00", 3812, "Your mother is", "extensional", "Similar to: denotative", "Definition: defining a word by listing the class of entities to which the word correctly applies", ""]}
