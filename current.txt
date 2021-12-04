@@ -1,1 +1,1 @@
-{"data": ["2021-12-04T12:01:32.170164+00:00", 3824, "Your mother is", "nice", "Pronunciation: /nis/", "Definition: done with delicacy and skill", "Synonyms: skillful"]}
+{"data": ["2021-12-04T13:01:55.610674+00:00", 3825, "Your mother is", "worse", "Pronunciation: /w\u025crs/", "Definition: changed for the worse in health or fitness", "Synonyms: worsened"]}
