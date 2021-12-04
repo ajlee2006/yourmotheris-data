@@ -1,1 +1,1 @@
-{"data": ["2021-12-04T06:01:10.005350+00:00", 3818, "Your mother is", "concave", "Pronunciation: /k\u0251n\u02c8ke\u026av/", "Definition: curving inward", ""]}
+{"data": ["2021-12-04T07:02:02.835309+00:00", 3819, "Your mother is", "continent", "Pronunciation: /\u02c8k\u0251nt\u0259n\u0259nt/", "Definition: abstaining from sexual intercourse", "Synonyms: celibate"]}
