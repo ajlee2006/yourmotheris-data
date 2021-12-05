@@ -1,1 +1,1 @@
-{"data": ["2021-12-05T15:01:11.558885+00:00", 3851, "Your mother is", "duty-bound", "Pronunciation: /\u02c8duti-ba\u028and/", "Definition: under a moral obligation to do something", "Synonyms: obliged"]}
+{"data": ["2021-12-05T16:00:53.639534+00:00", 3852, "Your mother is", "formulated", "Pronunciation: /\u02c8f\u0254rmj\u028c\u02ccle\u026at\u028cd/", "Definition: devised; developed according to an orderly plan", ""]}
