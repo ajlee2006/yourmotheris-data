@@ -1,1 +1,1 @@
-{"data": ["2021-12-05T18:02:44.410786+00:00", 3854, "Your mother is", "shaggy-coated", "Pronunciation: /\u02c8\u0283\u00e6\u0261i-\u02c8ko\u028at\u026ad/", "Definition: used of hair; thick and poorly groomed", "Synonyms: bushy, shaggy, shaggy-haired"]}
+{"data": ["2021-12-05T19:01:47.689388+00:00", 3855, "Your mother is", "dented", "Pronunciation: /\u02c8d\u025bnt\u026ad/", "Definition: of metal e.g.", "Synonyms: bent, crumpled"]}
