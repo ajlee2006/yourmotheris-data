@@ -1,1 +1,1 @@
-{"data": ["2021-12-05T02:03:13.604179+00:00", 3838, "Your mother is", "endothermal", "Pronunciation: /\u02cc\u025bndo\u028a\u02c8\u03b8\u025crm\u0259l/", "Definition: (of a chemical reaction or compound) occurring or formed with absorption of heat", "Synonyms: endothermic, heat-absorbing"]}
+{"data": ["2021-12-05T03:01:41.727004+00:00", 3839, "Your mother is", "recherche", "Similar to: elegant", "Definition: lavishly elegant and refined", "Synonyms: exquisite"]}
