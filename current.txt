@@ -1,1 +1,1 @@
-{"data": ["2021-12-05T05:02:08.743259+00:00", 3841, "Your mother is", "criminal", "Pronunciation: /\u02c8kr\u026am\u0259n\u0259l/", "Definition: involving or being or having the nature of a crime", "Synonyms: felonious"]}
+{"data": ["2021-12-05T06:00:51.358968+00:00", 3842, "Your mother is", "tie-on", "Pronunciation: /ta\u026a-\u0251n/", "Definition: fastened by tying on", ""]}
