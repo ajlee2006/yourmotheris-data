@@ -1,1 +1,1 @@
-{"data": ["2021-12-05T14:02:54.531298+00:00", 3850, "Your mother is", "hugger-mugger", "Pronunciation: /\u02c8h\u0259\u0261\u0259r-\u02ccm\u0259\u0261\u0259r/", "Definition: conducted with or marked by hidden aims or methods", "Synonyms: clandestine, cloak-and-dagger, hole-and-corner, hush-hush, secret, surreptitious, undercover, underground"]}
+{"data": ["2021-12-05T15:01:11.558885+00:00", 3851, "Your mother is", "duty-bound", "Pronunciation: /\u02c8duti-ba\u028and/", "Definition: under a moral obligation to do something", "Synonyms: obliged"]}
