@@ -1,1 +1,1 @@
-{"data": ["2021-12-05T06:00:51.358968+00:00", 3842, "Your mother is", "tie-on", "Pronunciation: /ta\u026a-\u0251n/", "Definition: fastened by tying on", ""]}
+{"data": ["2021-12-05T07:02:05.817266+00:00", 3843, "Your mother is", "fascinated", "Pronunciation: /\u02c8f\u00e6s\u028c\u02ccne\u026at\u028cd/", "Definition: having your attention fixated as though by a spell", "Synonyms: hypnotised, hypnotized, mesmerised, mesmerized, spell-bound, spellbound, transfixed"]}
