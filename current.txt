@@ -1,1 +1,1 @@
-{"data": ["2021-12-05T20:00:16.786908+00:00", 3856, "Your mother is", "dissuasive", "Pronunciation: /d\u026a\u02c8swe\u026as\u026av/", "Definition: deterring from action", ""]}
+{"data": ["2021-12-05T21:02:28.925490+00:00", 3857, "Your mother is", "lateen", "Pronunciation: /l\u00e6\u02c8tin/", "Definition: rigged with a triangular (lateen) sail", "Synonyms: lateen-rigged"]}
