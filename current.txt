@@ -1,1 +1,1 @@
-{"data": ["2021-12-05T11:01:42.054566+00:00", 3847, "Your mother is", "on tap", "Similar to: available", "Definition: available for immediate use", ""]}
+{"data": ["2021-12-05T12:01:51.612380+00:00", 3848, "Your mother is", "reflex", "Pronunciation: /r\u026a\u02c8fl\u025bks/", "Definition: without volition or conscious control", "Synonyms: automatic, reflexive"]}
