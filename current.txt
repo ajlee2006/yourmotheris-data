@@ -1,1 +1,1 @@
-{"data": ["2021-12-05T17:01:40.251947+00:00", 3853, "Your mother is", "well-turned", "Pronunciation: /\u02c8w\u025bl-\u02c8t\u025crnd/", "Definition: of a pleasing shape", ""]}
+{"data": ["2021-12-05T18:02:44.410786+00:00", 3854, "Your mother is", "shaggy-coated", "Pronunciation: /\u02c8\u0283\u00e6\u0261i-\u02c8ko\u028at\u026ad/", "Definition: used of hair; thick and poorly groomed", "Synonyms: bushy, shaggy, shaggy-haired"]}
