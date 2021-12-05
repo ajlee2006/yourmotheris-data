@@ -1,1 +1,1 @@
-{"data": ["2021-12-05T12:01:51.612380+00:00", 3848, "Your mother is", "reflex", "Pronunciation: /r\u026a\u02c8fl\u025bks/", "Definition: without volition or conscious control", "Synonyms: automatic, reflexive"]}
+{"data": ["2021-12-05T13:01:56.504479+00:00", 3849, "Your mother is", "snub-nosed", "Pronunciation: /\u02c8sn\u0259b\u02ccno\u028azd/", "Definition: having a blunt nose", "Synonyms: pug-nose, pug-nosed, short-nosed"]}
