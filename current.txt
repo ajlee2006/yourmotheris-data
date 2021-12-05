@@ -1,1 +1,1 @@
-{"data": ["2021-12-05T21:02:28.925490+00:00", 3857, "Your mother is", "lateen", "Pronunciation: /l\u00e6\u02c8tin/", "Definition: rigged with a triangular (lateen) sail", "Synonyms: lateen-rigged"]}
+{"data": ["2021-12-05T22:01:42.194251+00:00", 3858, "Your mother is", "unmolested", "Pronunciation: /\u02cc\u0259nm\u0259\u02c8l\u025bst\u026ad/", "Definition: not interfered with, disturbed, or harmed", ""]}
