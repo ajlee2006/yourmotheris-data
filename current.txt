@@ -1,1 +1,1 @@
-{"data": ["2021-12-05T09:01:49.943272+00:00", 3845, "Your mother is", "distinctive", "Pronunciation: /d\u026a\u02c8st\u026a\u014bkt\u026av/", "Definition: capable of being classified", "Synonyms: classifiable"]}
+{"data": ["2021-12-05T10:01:12.072511+00:00", 3846, "Your mother is", "loquacious", "Pronunciation: /lo\u028a\u02c8kwe\u026a\u0283\u0259s/", "Definition: full of trivial conversation", "Synonyms: chatty, gabby, garrulous, talkative, talky"]}
