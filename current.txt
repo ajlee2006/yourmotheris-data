@@ -1,1 +1,1 @@
-{"data": ["2021-12-05T19:01:47.689388+00:00", 3855, "Your mother is", "dented", "Pronunciation: /\u02c8d\u025bnt\u026ad/", "Definition: of metal e.g.", "Synonyms: bent, crumpled"]}
+{"data": ["2021-12-05T20:00:16.786908+00:00", 3856, "Your mother is", "dissuasive", "Pronunciation: /d\u026a\u02c8swe\u026as\u026av/", "Definition: deterring from action", ""]}
