@@ -1,1 +1,1 @@
-{"data": ["2021-12-05T10:01:12.072511+00:00", 3846, "Your mother is", "loquacious", "Pronunciation: /lo\u028a\u02c8kwe\u026a\u0283\u0259s/", "Definition: full of trivial conversation", "Synonyms: chatty, gabby, garrulous, talkative, talky"]}
+{"data": ["2021-12-05T11:01:42.054566+00:00", 3847, "Your mother is", "on tap", "Similar to: available", "Definition: available for immediate use", ""]}
