@@ -1,1 +1,1 @@
-{"data": ["2021-12-06T22:02:07.202252+00:00", 3882, "Your mother is", "cedar-scented", "Similar to: odorous", "Definition: smelling like cedar", ""]}
+{"data": ["2021-12-06T23:01:24.894914+00:00", 3883, "Your mother is", "null", "Pronunciation: /n\u0259l/", "Definition: lacking any legal or binding force", "Synonyms: void"]}
