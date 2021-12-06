@@ -1,1 +1,1 @@
-{"data": ["2021-12-06T15:01:57.680258+00:00", 3875, "Your mother is", "accumbent", "Pronunciation: /\u0259\u02c8k\u0259mb\u0259nt/", "Definition: lying down; in a position of comfort or rest", "Synonyms: decumbent, recumbent"]}
+{"data": ["2021-12-06T16:01:22.198185+00:00", 3876, "Your mother is", "useless", "Pronunciation: /\u02c8jusl\u026as/", "Definition: having no beneficial use or incapable of functioning usefully", ""]}
