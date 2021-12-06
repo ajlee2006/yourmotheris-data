@@ -1,1 +1,1 @@
-{"data": ["2021-12-06T08:02:09.904634+00:00", 3868, "Your mother is", "unconditioned", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8d\u026a\u0283\u0259nd/", "Definition: not conditional", "Synonyms: unconditional"]}
+{"data": ["2021-12-06T09:01:23.119087+00:00", 3869, "Your mother is", "stone-deaf", "Pronunciation: /sto\u028an-d\u025bf/", "Definition: totally deaf; unable to hear anything", "Synonyms: deaf as a post, profoundly deaf, unhearing"]}
