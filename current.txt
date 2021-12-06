@@ -1,1 +1,1 @@
-{"data": ["2021-12-06T16:01:22.198185+00:00", 3876, "Your mother is", "useless", "Pronunciation: /\u02c8jusl\u026as/", "Definition: having no beneficial use or incapable of functioning usefully", ""]}
+{"data": ["2021-12-06T17:01:25.438167+00:00", 3877, "Your mother is", "7th", "Similar to: ordinal", "Definition: coming next after the sixth and just before the eighth in position", "Synonyms: seventh"]}
