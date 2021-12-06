@@ -1,1 +1,1 @@
-{"data": ["2021-12-06T11:01:16.040827+00:00", 3871, "Your mother is", "black-and-blue", "Pronunciation: /\u02c8bl\u00e6k\u0259n\u02c8blu/", "Definition: discolored by coagulation of blood beneath the skin", "Synonyms: livid"]}
+{"data": ["2021-12-06T12:01:40.583364+00:00", 3872, "Your mother is", "laughable", "Pronunciation: /\u02c8l\u00e6f\u0259b\u0259l/", "Definition: arousing or provoking laughter", "Synonyms: amusing, comic, comical, funny, mirthful, risible"]}
