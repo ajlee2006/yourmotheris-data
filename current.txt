@@ -1,1 +1,1 @@
-{"data": ["2021-12-06T07:01:40.038168+00:00", 3867, "Your mother is", "unprofessional", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8f\u025b\u0283\u0259n\u0259l/", "Definition: not characteristic of or befitting a profession or one engaged in a profession", ""]}
+{"data": ["2021-12-06T08:02:09.904634+00:00", 3868, "Your mother is", "unconditioned", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8d\u026a\u0283\u0259nd/", "Definition: not conditional", "Synonyms: unconditional"]}
