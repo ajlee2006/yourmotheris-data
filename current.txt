@@ -1,1 +1,1 @@
-{"data": ["2021-12-06T04:01:43.604081+00:00", 3864, "Your mother is", "freewill", "Pronunciation: /\u02c8fri\u02c8w\u026al/", "Definition: done of your own accord", ""]}
+{"data": ["2021-12-06T05:01:50.503979+00:00", 3865, "Your mother is", "articulary", "", "Definition: relating to or affecting the joints of the body", "Synonyms: articular"]}
