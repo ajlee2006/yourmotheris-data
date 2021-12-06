@@ -1,1 +1,1 @@
-{"data": ["2021-12-06T09:01:23.119087+00:00", 3869, "Your mother is", "stone-deaf", "Pronunciation: /sto\u028an-d\u025bf/", "Definition: totally deaf; unable to hear anything", "Synonyms: deaf as a post, profoundly deaf, unhearing"]}
+{"data": ["2021-12-06T10:01:03.915398+00:00", 3870, "Your mother is", "aloof", "Pronunciation: /\u0259\u02c8luf/", "Definition: remote in manner", "Synonyms: distant, upstage"]}
