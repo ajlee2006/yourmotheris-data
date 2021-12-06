@@ -1,1 +1,1 @@
-{"data": ["2021-12-06T06:01:26.733320+00:00", 3866, "Your mother is", "farcical", "Pronunciation: /\u02c8f\u0251rs\u026ak\u0259l/", "Definition: broadly or extravagantly humorous; resembling farce", "Synonyms: ludicrous, ridiculous"]}
+{"data": ["2021-12-06T07:01:40.038168+00:00", 3867, "Your mother is", "unprofessional", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8f\u025b\u0283\u0259n\u0259l/", "Definition: not characteristic of or befitting a profession or one engaged in a profession", ""]}
