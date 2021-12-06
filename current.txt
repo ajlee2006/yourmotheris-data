@@ -1,1 +1,1 @@
-{"data": ["2021-12-06T13:00:44.624739+00:00", 3873, "Your mother is", "credited", "Pronunciation: /\u02c8kr\u025bd\u028ct\u028cd/", "Definition: (usually followed by `to') given credit for", ""]}
+{"data": ["2021-12-06T14:01:41.411840+00:00", 3874, "Your mother is", "neuronal", "", "Definition: of or relating to neurons", "Synonyms: neural, neuronic"]}
