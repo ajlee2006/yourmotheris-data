@@ -1,1 +1,1 @@
-{"data": ["2021-12-06T14:01:41.411840+00:00", 3874, "Your mother is", "neuronal", "", "Definition: of or relating to neurons", "Synonyms: neural, neuronic"]}
+{"data": ["2021-12-06T15:01:57.680258+00:00", 3875, "Your mother is", "accumbent", "Pronunciation: /\u0259\u02c8k\u0259mb\u0259nt/", "Definition: lying down; in a position of comfort or rest", "Synonyms: decumbent, recumbent"]}
