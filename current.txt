@@ -1,1 +1,1 @@
-{"data": ["2021-12-06T03:01:44.150365+00:00", 3863, "Your mother is", "caddish", "Pronunciation: /\u02c8k\u00e6d\u026a\u0283/", "Definition: offensively discourteous", "Synonyms: unchivalrous, ungallant"]}
+{"data": ["2021-12-06T04:01:43.604081+00:00", 3864, "Your mother is", "freewill", "Pronunciation: /\u02c8fri\u02c8w\u026al/", "Definition: done of your own accord", ""]}
