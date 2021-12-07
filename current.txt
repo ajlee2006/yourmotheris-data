@@ -1,1 +1,1 @@
-{"data": ["2021-12-07T08:01:21.776273+00:00", 3892, "Your mother is", "off her guard", "Similar to: unready", "Definition: not prepared or vigilant", "Synonyms: napping, off-guard, off guard, off his guard, off one's guard, off your guard"]}
+{"data": ["2021-12-07T09:01:42.764174+00:00", 3893, "Your mother is", "highfalutin", "Pronunciation: /\u02ccha\u026af\u0259\u02c8lut\u0259n/", "Definition: affectedly genteel", "Synonyms: grandiose, hifalutin, highfaluting, hoity-toity, la-di-da"]}
