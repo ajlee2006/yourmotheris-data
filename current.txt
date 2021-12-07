@@ -1,1 +1,1 @@
-{"data": ["2021-12-07T09:01:42.764174+00:00", 3893, "Your mother is", "highfalutin", "Pronunciation: /\u02ccha\u026af\u0259\u02c8lut\u0259n/", "Definition: affectedly genteel", "Synonyms: grandiose, hifalutin, highfaluting, hoity-toity, la-di-da"]}
+{"data": ["2021-12-07T10:01:52.358208+00:00", 3894, "Your mother is", "lubricious", "Pronunciation: /lu\u02c8br\u026a\u0283\u0259s/", "Definition: characterized by lust", "Synonyms: lustful, prurient, salacious"]}
