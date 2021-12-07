@@ -1,1 +1,1 @@
-{"data": ["2021-12-07T02:01:35.760231+00:00", 3886, "Your mother is", "imaginary", "Pronunciation: /\u026a\u02c8m\u00e6d\u0292\u0259\u02ccn\u025bri/", "Definition: not based on fact; existing only in the imagination", "Synonyms: fanciful, notional"]}
+{"data": ["2021-12-07T03:01:29.954210+00:00", 3887, "Your mother is", "dwindling", "Pronunciation: /\u02c8dw\u026and\u028cl\u026a\u014b/", "Definition: gradually decreasing until little remains", "Synonyms: tapering, tapering off"]}
