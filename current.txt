@@ -1,1 +1,1 @@
-{"data": ["2021-12-07T17:01:39.801825+00:00", 3901, "Your mother is", "seasick", "Pronunciation: /\u02c8sis\u026ak/", "Definition: experiencing motion sickness", "Synonyms: air sick, airsick, carsick"]}
+{"data": ["2021-12-07T18:01:28.906209+00:00", 3902, "Your mother is", "homegrown", "Pronunciation: /ho\u028am\u02c8gro\u028an/", "Definition: grown or originating in a particular place", ""]}
