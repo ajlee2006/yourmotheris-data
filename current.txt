@@ -1,1 +1,1 @@
-{"data": ["2021-12-06T23:01:24.894914+00:00", 3883, "Your mother is", "null", "Pronunciation: /n\u0259l/", "Definition: lacking any legal or binding force", "Synonyms: void"]}
+{"data": ["2021-12-07T00:02:37.237360+00:00", 3884, "Your mother is", "anti-semite", "Pronunciation: /\u02cc\u00e6nti\u02c8s\u025bma\u026at/", "Definition: discriminatory especially on the basis of race or religion", "Synonyms: antiblack, racist"]}
