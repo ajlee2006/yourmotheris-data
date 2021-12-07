@@ -1,1 +1,1 @@
-{"data": ["2021-12-07T16:01:28.383106+00:00", 3900, "Your mother is", "pelecypodous", "Pronunciation: /\u02ccp\u025bl\u026a\u02c8s\u026ap\u0259d\u0259s/", "Definition: bivalve", "Synonyms: lamellibranch, pelecypod"]}
+{"data": ["2021-12-07T17:01:39.801825+00:00", 3901, "Your mother is", "seasick", "Pronunciation: /\u02c8sis\u026ak/", "Definition: experiencing motion sickness", "Synonyms: air sick, airsick, carsick"]}
