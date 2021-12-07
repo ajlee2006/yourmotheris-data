@@ -1,1 +1,1 @@
-{"data": ["2021-12-07T04:01:50.199063+00:00", 3888, "Your mother is", "golden-green", "Pronunciation: /\u02c8\u0261o\u028ald\u0259n-grin/", "Definition: of green tinged with gold", ""]}
+{"data": ["2021-12-07T05:01:19.883226+00:00", 3889, "Your mother is", "nonoscillatory", "Similar to: aperiodic", "Definition: not having periodic vibrations", ""]}
