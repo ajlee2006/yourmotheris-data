@@ -1,1 +1,1 @@
-{"data": ["2021-12-07T00:02:37.237360+00:00", 3884, "Your mother is", "anti-semite", "Pronunciation: /\u02cc\u00e6nti\u02c8s\u025bma\u026at/", "Definition: discriminatory especially on the basis of race or religion", "Synonyms: antiblack, racist"]}
+{"data": ["2021-12-07T01:01:59.177251+00:00", 3885, "Your mother is", "arthropodal", "", "Definition: of or relating to invertebrates of the phylum Arthropoda", "Synonyms: arthropodan, arthropodous"]}
