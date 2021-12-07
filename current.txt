@@ -1,1 +1,1 @@
-{"data": ["2021-12-07T15:01:15.489737+00:00", 3899, "Your mother is", "depilous", "Similar to: hairless", "Definition: completely hairless", ""]}
+{"data": ["2021-12-07T16:01:28.383106+00:00", 3900, "Your mother is", "pelecypodous", "Pronunciation: /\u02ccp\u025bl\u026a\u02c8s\u026ap\u0259d\u0259s/", "Definition: bivalve", "Synonyms: lamellibranch, pelecypod"]}
