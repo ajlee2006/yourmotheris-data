@@ -1,1 +1,1 @@
-{"data": ["2021-12-07T14:02:04.682618+00:00", 3898, "Your mother is", "foggy", "Pronunciation: /\u02c8f\u0251\u0261i/", "Definition: stunned or confused and slow to react (as from blows or drunkenness or exhaustion)", "Synonyms: dazed, groggy, logy, stuporous"]}
+{"data": ["2021-12-07T15:01:15.489737+00:00", 3899, "Your mother is", "depilous", "Similar to: hairless", "Definition: completely hairless", ""]}
