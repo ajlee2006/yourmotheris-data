@@ -1,1 +1,1 @@
-{"data": ["2021-12-07T01:01:59.177251+00:00", 3885, "Your mother is", "arthropodal", "", "Definition: of or relating to invertebrates of the phylum Arthropoda", "Synonyms: arthropodan, arthropodous"]}
+{"data": ["2021-12-07T02:01:35.760231+00:00", 3886, "Your mother is", "imaginary", "Pronunciation: /\u026a\u02c8m\u00e6d\u0292\u0259\u02ccn\u025bri/", "Definition: not based on fact; existing only in the imagination", "Synonyms: fanciful, notional"]}
