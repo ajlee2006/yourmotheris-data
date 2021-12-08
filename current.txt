@@ -1,1 +1,1 @@
-{"data": ["2021-12-08T22:01:28.662447+00:00", 3925, "Your mother is", "incredulous", "Pronunciation: /\u026an\u02c8kr\u025bd\u0292\u0259l\u0259s/", "Definition: not disposed or willing to believe; unbelieving", ""]}
+{"data": ["2021-12-08T23:02:02.290352+00:00", 3926, "Your mother is", "cocksure", "Pronunciation: /\u02c8k\u0251k\u02c8\u0283\u028ar/", "Definition: marked by excessive confidence", "Synonyms: overconfident, positive"]}
