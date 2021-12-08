@@ -1,1 +1,1 @@
-{"data": ["2021-12-08T15:01:41.834397+00:00", 3918, "Your mother is", "part-time", "Pronunciation: /p\u0251rt-ta\u026am/", "Definition: involving less than the standard or customary time for an activity", "Synonyms: part time"]}
+{"data": ["2021-12-08T16:01:32.226767+00:00", 3919, "Your mother is", "on time", "Similar to: prompt", "Definition: acting or arriving or performed exactly at the time appointed", "Synonyms: punctual"]}
