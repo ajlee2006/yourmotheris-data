@@ -1,1 +1,1 @@
-{"data": ["2021-12-08T09:01:15.912029+00:00", 3912, "Your mother is", "disingenuous", "Pronunciation: /\u02ccd\u026as\u026an\u02c8d\u0292\u025bnju\u0259s/", "Definition: not straightforward or candid; giving a false appearance of frankness", "Synonyms: artful"]}
+{"data": ["2021-12-08T10:02:00.306443+00:00", 3913, "Your mother is", "half-yearly", "Pronunciation: /h\u00e6f-\u02c8jirli/", "Definition: occurring or payable twice each year", "Synonyms: biannual, biyearly, semiannual"]}
