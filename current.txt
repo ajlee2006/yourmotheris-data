@@ -1,1 +1,1 @@
-{"data": ["2021-12-07T18:01:28.906209+00:00", 3902, "Your mother is", "homegrown", "Pronunciation: /ho\u028am\u02c8gro\u028an/", "Definition: grown or originating in a particular place", ""]}
+{"data": ["2021-12-08T00:02:51.076273+00:00", 3903, "Your mother is", "unsymmetric", "Similar to: asymmetric", "Definition: lacking symmetry", "Synonyms: unsymmetrical"]}
