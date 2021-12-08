@@ -1,1 +1,1 @@
-{"data": ["2021-12-08T17:02:17.632597+00:00", 3920, "Your mother is", "cosmogenic", "", "Definition: pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe", "Synonyms: cosmogonic, cosmogonical, cosmologic, cosmological"]}
+{"data": ["2021-12-08T18:01:54.608882+00:00", 3921, "Your mother is", "plumlike", "Similar to: rounded", "Definition: resembling a plum fruit", ""]}
