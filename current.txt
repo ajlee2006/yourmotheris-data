@@ -1,1 +1,1 @@
-{"data": ["2021-12-08T14:01:17.874487+00:00", 3917, "Your mother is", "fake", "Pronunciation: /fe\u026ak/", "Definition: not genuine or real; being an imitation of the genuine article", "Synonyms: false, faux, imitation, simulated"]}
+{"data": ["2021-12-08T15:01:41.834397+00:00", 3918, "Your mother is", "part-time", "Pronunciation: /p\u0251rt-ta\u026am/", "Definition: involving less than the standard or customary time for an activity", "Synonyms: part time"]}
