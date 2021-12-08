@@ -1,1 +1,1 @@
-{"data": ["2021-12-08T08:01:20.975409+00:00", 3911, "Your mother is", "neural", "Pronunciation: /\u02c8nj\u028a\u0259r\u0259l/", "Definition: of or relating to the nervous system", "Synonyms: nervous"]}
+{"data": ["2021-12-08T09:01:15.912029+00:00", 3912, "Your mother is", "disingenuous", "Pronunciation: /\u02ccd\u026as\u026an\u02c8d\u0292\u025bnju\u0259s/", "Definition: not straightforward or candid; giving a false appearance of frankness", "Synonyms: artful"]}
