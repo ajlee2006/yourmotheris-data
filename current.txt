@@ -1,1 +1,1 @@
-{"data": ["2021-12-08T10:02:00.306443+00:00", 3913, "Your mother is", "half-yearly", "Pronunciation: /h\u00e6f-\u02c8jirli/", "Definition: occurring or payable twice each year", "Synonyms: biannual, biyearly, semiannual"]}
+{"data": ["2021-12-08T11:01:37.440363+00:00", 3914, "Your mother is", "prayerful", "Pronunciation: /\u02c8pr\u025crf\u0259l/", "Definition: disposed to pray or appearing to pray", ""]}
