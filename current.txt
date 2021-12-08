@@ -1,1 +1,1 @@
-{"data": ["2021-12-08T16:01:32.226767+00:00", 3919, "Your mother is", "on time", "Similar to: prompt", "Definition: acting or arriving or performed exactly at the time appointed", "Synonyms: punctual"]}
+{"data": ["2021-12-08T17:02:17.632597+00:00", 3920, "Your mother is", "cosmogenic", "", "Definition: pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe", "Synonyms: cosmogonic, cosmogonical, cosmologic, cosmological"]}
