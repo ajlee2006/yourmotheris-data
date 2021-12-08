@@ -1,1 +1,1 @@
-{"data": ["2021-12-08T00:02:51.076273+00:00", 3903, "Your mother is", "unsymmetric", "Similar to: asymmetric", "Definition: lacking symmetry", "Synonyms: unsymmetrical"]}
+{"data": ["2021-12-08T01:01:18.486844+00:00", 3904, "Your mother is", "pink-purple", "Similar to: chromatic", "Definition: of purple tinged with pink", "Synonyms: pinkish-purple"]}
