@@ -1,1 +1,1 @@
-{"data": ["2021-12-09T06:01:15.368546+00:00", 3933, "Your mother is", "darkling", "Pronunciation: /\u02c8d\u0251rkl\u026a\u014b/", "Definition: (poetic) occurring in the dark or night", ""]}
+{"data": ["2021-12-09T07:02:42.255375+00:00", 3934, "Your mother is", "incontrovertible", "Pronunciation: /\u02cc\u026ank\u0251ntr\u0259\u02c8v\u025crt\u0259b\u0259l/", "Definition: necessarily or demonstrably true", "Synonyms: demonstrable"]}
