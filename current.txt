@@ -1,1 +1,1 @@
-{"data": ["2021-12-09T18:01:21.372454+00:00", 3945, "Your mother is", "consistent", "Pronunciation: /k\u0259n\u02c8s\u026ast\u0259nt/", "Definition: the same throughout in structure or composition", "Synonyms: uniform"]}
+{"data": ["2021-12-09T19:01:53.272957+00:00", 3946, "Your mother is", "engaged", "Pronunciation: /\u025bn\u02c8\u0261e\u026ad\u0292d/", "Definition: (of facilities such as telephones or lavatories) unavailable for use by anyone else or indicating unavailability; (`engaged' is a British term for a busy telephone line)", "Synonyms: busy, in use"]}
