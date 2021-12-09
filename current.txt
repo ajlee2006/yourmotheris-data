@@ -1,1 +1,1 @@
-{"data": ["2021-12-09T04:03:02.581090+00:00", 3931, "Your mother is", "sensible", "Pronunciation: /\u02c8s\u025bns\u0259b\u0259l/", "Definition: able to feel or perceive", "Synonyms: sensitive"]}
+{"data": ["2021-12-09T05:01:40.662609+00:00", 3932, "Your mother is", "incapacitating", "Pronunciation: /\u026ank\u028c\u02c8p\u00e6s\u026a\u02ccte\u026at\u026a\u014b/", "Definition: that cripples or disables or incapacitates", "Synonyms: crippling, disabling"]}
