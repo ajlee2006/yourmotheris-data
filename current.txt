@@ -1,1 +1,1 @@
-{"data": ["2021-12-09T13:01:13.888449+00:00", 3940, "Your mother is", "isoclinic", "Pronunciation: /\u02cca\u026as\u0259\u02c8kl\u026an\u026ak/", "Definition: having equal magnetic inclinations", "Synonyms: isoclinal"]}
+{"data": ["2021-12-09T14:01:35.589464+00:00", 3941, "Your mother is", "unleavened", "Pronunciation: /\u0259n\u02c8l\u025bv\u0259nd/", "Definition: made without leavening", "Synonyms: unraised"]}
