@@ -1,1 +1,1 @@
-{"data": ["2021-12-09T01:02:21.930198+00:00", 3928, "Your mother is", "associative", "Pronunciation: /\u0259\u02c8so\u028a\u0283i\u02cce\u026at\u026av/", "Definition: characterized by or causing or resulting from the process of bringing ideas or events together in memory or imagination", "Synonyms: associatory"]}
+{"data": ["2021-12-09T02:02:03.266276+00:00", 3929, "Your mother is", "rockbound", "Pronunciation: /r\u0251k\u02ccb\u00e6\u028and/", "Definition: abounding in or bordered by rocky cliffs or scarps", "Synonyms: rock-ribbed"]}
