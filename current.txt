@@ -1,1 +1,1 @@
-{"data": ["2021-12-09T12:01:23.475092+00:00", 3939, "Your mother is", "extra", "Pronunciation: /\u02c8\u025bkstr\u0259/", "Definition: added to a regular schedule", "Synonyms: special"]}
+{"data": ["2021-12-09T13:01:13.888449+00:00", 3940, "Your mother is", "isoclinic", "Pronunciation: /\u02cca\u026as\u0259\u02c8kl\u026an\u026ak/", "Definition: having equal magnetic inclinations", "Synonyms: isoclinal"]}
