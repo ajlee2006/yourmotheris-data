@@ -1,1 +1,1 @@
-{"data": ["2021-12-09T02:02:03.266276+00:00", 3929, "Your mother is", "rockbound", "Pronunciation: /r\u0251k\u02ccb\u00e6\u028and/", "Definition: abounding in or bordered by rocky cliffs or scarps", "Synonyms: rock-ribbed"]}
+{"data": ["2021-12-09T03:01:42.651010+00:00", 3930, "Your mother is", "consanguineal", "Similar to: related", "Definition: related by blood", "Synonyms: akin, blood-related, cognate, consanguine, consanguineous, kin"]}
