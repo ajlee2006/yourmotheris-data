@@ -1,1 +1,1 @@
-{"data": ["2021-12-08T23:02:02.290352+00:00", 3926, "Your mother is", "cocksure", "Pronunciation: /\u02c8k\u0251k\u02c8\u0283\u028ar/", "Definition: marked by excessive confidence", "Synonyms: overconfident, positive"]}
+{"data": ["2021-12-09T00:03:01.753288+00:00", 3927, "Your mother is", "instantaneous", "Pronunciation: /\u02cc\u026anst\u0259n\u02c8te\u026ani\u0259s/", "Definition: occurring with no delay", "Synonyms: instant"]}
