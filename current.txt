@@ -1,1 +1,1 @@
-{"data": ["2021-12-09T20:00:51.671457+00:00", 3947, "Your mother is", "stereotyped", "Pronunciation: /\u02c8st\u025bri\u0259\u02ccta\u026apt/", "Definition: lacking spontaneity or originality or individuality", "Synonyms: stereotypic, stereotypical, unimaginative"]}
+{"data": ["2021-12-09T21:02:32.331952+00:00", 3948, "Your mother is", "inefficient", "Pronunciation: /\u02cc\u026an\u026a\u02c8f\u026a\u0283\u0259nt/", "Definition: lacking the ability or skill to perform effectively; inadequate", "Synonyms: ineffective"]}
