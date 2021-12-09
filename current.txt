@@ -1,1 +1,1 @@
-{"data": ["2021-12-09T16:01:14.535780+00:00", 3943, "Your mother is", "assimilatory", "Pronunciation: /\u0259\u02c8s\u026am\u0259l\u0259\u02ccto\u028ari/", "Definition: capable of taking (gas, light, or liquids) into a solution", "Synonyms: assimilating, assimilative"]}
+{"data": ["2021-12-09T17:01:57.894695+00:00", 3944, "Your mother is", "vinaceous", "Pronunciation: /va\u026a\u02c8ne\u026a\u0283\u0259s/", "Definition: of or relating to wine", "Synonyms: vinous"]}
