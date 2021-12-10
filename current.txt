@@ -1,1 +1,1 @@
-{"data": ["2021-12-10T10:00:18.101630+00:00", 3961, "Your mother is", "ascendant", "Pronunciation: /\u0259\u02c8s\u025bnd\u0259nt/", "Definition: most powerful or important or influential", "Synonyms: ascendent, dominating"]}
+{"data": ["2021-12-10T11:01:57.999344+00:00", 3962, "Your mother is", "pluperfect", "Pronunciation: /plu\u02c8p\u025crf\u026akt/", "Definition: more than perfect", ""]}
