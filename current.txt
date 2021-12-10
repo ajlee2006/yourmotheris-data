@@ -1,1 +1,1 @@
-{"data": ["2021-12-10T15:02:01.976825+00:00", 3966, "Your mother is", "metal-colored", "Similar to: colored", "Definition: having a metallic color", "Synonyms: metal-coloured, metallic-colored, metallic-coloured"]}
+{"data": ["2021-12-10T16:02:01.780119+00:00", 3967, "Your mother is", "quantized", "", "Definition: of or relating to a quantum or capable of existing in only one of two states", "Synonyms: quantal"]}
