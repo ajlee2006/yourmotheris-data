@@ -1,1 +1,1 @@
-{"data": ["2021-12-10T16:02:01.780119+00:00", 3967, "Your mother is", "quantized", "", "Definition: of or relating to a quantum or capable of existing in only one of two states", "Synonyms: quantal"]}
+{"data": ["2021-12-10T17:01:21.597596+00:00", 3968, "Your mother is", "particularised", "Similar to: specific", "Definition: directed toward a specific object", "Synonyms: particularized"]}
