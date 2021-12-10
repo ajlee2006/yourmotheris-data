@@ -1,1 +1,1 @@
-{"data": ["2021-12-10T12:01:40.172616+00:00", 3963, "Your mother is", "bimonthly", "Pronunciation: /ba\u026a\u02c8m\u0259n\u03b8li/", "Definition: occurring every two months", "Synonyms: bimestrial"]}
+{"data": ["2021-12-10T13:01:23.010163+00:00", 3964, "Your mother is", "protrusile", "Pronunciation: /pro\u028a\u02c8trus\u026al/", "Definition: capable of being thrust forward, as the tongue", "Synonyms: protrusible"]}
