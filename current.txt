@@ -1,1 +1,1 @@
-{"data": ["2021-12-10T08:01:05.830016+00:00", 3959, "Your mother is", "close-fitting", "Pronunciation: /\u02c8klo\u028as\u02c8f\u026at\u026a\u014b/", "Definition: fitting closely but comfortably", "Synonyms: close, snug"]}
+{"data": ["2021-12-10T09:02:19.225854+00:00", 3960, "Your mother is", "nuclear", "Pronunciation: /\u02c8nukli\u0259r/", "Definition: (weapons) deriving destructive energy from the release of atomic energy", "Synonyms: atomic"]}
