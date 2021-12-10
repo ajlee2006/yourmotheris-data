@@ -1,1 +1,1 @@
-{"data": ["2021-12-10T09:02:19.225854+00:00", 3960, "Your mother is", "nuclear", "Pronunciation: /\u02c8nukli\u0259r/", "Definition: (weapons) deriving destructive energy from the release of atomic energy", "Synonyms: atomic"]}
+{"data": ["2021-12-10T10:00:18.101630+00:00", 3961, "Your mother is", "ascendant", "Pronunciation: /\u0259\u02c8s\u025bnd\u0259nt/", "Definition: most powerful or important or influential", "Synonyms: ascendent, dominating"]}
