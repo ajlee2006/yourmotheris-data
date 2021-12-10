@@ -1,1 +1,1 @@
-{"data": ["2021-12-10T20:00:53.864375+00:00", 3971, "Your mother is", "copulative", "Pronunciation: /\u02c8k\u0251pj\u0259\u02ccle\u026at\u026av/", "Definition: syntactically connecting sentences or elements of a sentence", ""]}
+{"data": ["2021-12-10T21:01:12.540788+00:00", 3972, "Your mother is", "biodegradable", "Pronunciation: /\u02ccba\u026ao\u028ad\u026a\u02c8gre\u026add\u0259b\u0259l/", "Definition: capable of being decomposed by e.g. bacteria", ""]}
