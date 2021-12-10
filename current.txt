@@ -1,1 +1,1 @@
-{"data": ["2021-12-10T19:02:26.718033+00:00", 3970, "Your mother is", "discretionary", "Pronunciation: /d\u026a\u02c8skr\u025b\u0283\u0259\u02ccn\u025bri/", "Definition: having or using the ability to act or decide according to your own discretion or judgment", "Synonyms: discretional"]}
+{"data": ["2021-12-10T20:00:53.864375+00:00", 3971, "Your mother is", "copulative", "Pronunciation: /\u02c8k\u0251pj\u0259\u02ccle\u026at\u026av/", "Definition: syntactically connecting sentences or elements of a sentence", ""]}
