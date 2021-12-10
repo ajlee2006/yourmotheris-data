@@ -1,1 +1,1 @@
-{"data": ["2021-12-10T03:00:41.290536+00:00", 3954, "Your mother is", "anfractuous", "Pronunciation: /\u00e6n\u02c8fr\u00e6k\u02a7u\u0259s/", "Definition: full of twists and turns", ""]}
+{"data": ["2021-12-10T04:02:59.092736+00:00", 3955, "Your mother is", "concurrent", "Pronunciation: /k\u0259n\u02c8k\u025cr\u0259nt/", "Definition: occurring or operating at the same time", "Synonyms: co-occurrent, coincident, coincidental, coinciding, cooccurring, simultaneous"]}
