@@ -1,1 +1,1 @@
-{"data": ["2021-12-10T05:02:31.200303+00:00", 3956, "Your mother is", "inebriated", "Similar to: bacchanal", "Definition: stupefied or excited by a chemical substance (especially alcohol)", "Synonyms: drunk, gone, intoxicated, ripped"]}
+{"data": ["2021-12-10T06:02:52.777203+00:00", 3957, "Your mother is", "paperlike", "", "Definition: of or like paper", "Synonyms: chartaceous, papery"]}
