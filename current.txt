@@ -1,1 +1,1 @@
-{"data": ["2021-12-10T04:02:59.092736+00:00", 3955, "Your mother is", "concurrent", "Pronunciation: /k\u0259n\u02c8k\u025cr\u0259nt/", "Definition: occurring or operating at the same time", "Synonyms: co-occurrent, coincident, coincidental, coinciding, cooccurring, simultaneous"]}
+{"data": ["2021-12-10T05:02:31.200303+00:00", 3956, "Your mother is", "inebriated", "Similar to: bacchanal", "Definition: stupefied or excited by a chemical substance (especially alcohol)", "Synonyms: drunk, gone, intoxicated, ripped"]}
