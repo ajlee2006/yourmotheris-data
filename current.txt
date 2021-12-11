@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T05:01:30.686855+00:00", 3980, "Your mother is", "accomplishable", "Similar to: possible", "Definition: capable of existing or taking place or proving true; possible to do", "Synonyms: achievable, doable, manageable, realizable"]}
+{"data": ["2021-12-11T06:01:38.566213+00:00", 3981, "Your mother is", "venal", "Pronunciation: /\u02c8vin\u0259l/", "Definition: capable of being corrupted", "Synonyms: bribable, corruptible, dishonest, purchasable"]}
