@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T15:02:32.596790+00:00", 3990, "Your mother is", "curative", "Pronunciation: /\u02c8kj\u028ar\u0259t\u026av/", "Definition: tending to cure or restore to health", "Synonyms: alterative, healing, remedial, sanative, therapeutic"]}
+{"data": ["2021-12-11T16:02:13.571988+00:00", 3991, "Your mother is", "xli", "Similar to: cardinal", "Definition: being one more than forty", "Synonyms: 41, forty-one"]}
