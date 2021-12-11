@@ -1,1 +1,1 @@
-{"data": ["2021-12-10T23:01:03.886767+00:00", 3974, "Your mother is", "helpful", "Pronunciation: /\u02c8h\u025blpf\u0259l/", "Definition: providing assistance or serving a useful function", ""]}
+{"data": ["2021-12-11T00:11:00.191752+00:00", 3975, "Your mother is", "nonconductive", "", "Definition: not able to conduct heat or electricity or sound", "Synonyms: non-conducting, nonconducting"]}
