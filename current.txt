@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T13:02:02.826245+00:00", 3988, "Your mother is", "four-lobed", "Pronunciation: /fo\u028ar-lo\u028abd/", "Definition: having four lobes", ""]}
+{"data": ["2021-12-11T14:01:02.348033+00:00", 3989, "Your mother is", "dietary", "Pronunciation: /\u02c8da\u026a\u026a\u02cct\u025bri/", "Definition: of or relating to the diet", "Synonyms: dietetic, dietetical"]}
