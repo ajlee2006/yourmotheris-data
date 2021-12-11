@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T02:00:44.780313+00:00", 3977, "Your mother is", "smelly", "Pronunciation: /\u02c8sm\u025bli/", "Definition: offensively malodorous", "Synonyms: fetid, foetid, foul, foul-smelling, funky, ill-scented, noisome, stinking"]}
+{"data": ["2021-12-11T03:01:59.860560+00:00", 3978, "Your mother is", "strung-out", "Similar to: addicted", "Definition: addicted to a drug", "Synonyms: dependant, dependent, drug-addicted, hooked"]}
