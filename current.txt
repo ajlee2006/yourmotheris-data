@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T18:00:36.602232+00:00", 3993, "Your mother is", "zeroth", "Pronunciation: /\u02c8zi\u0259ro\u028a\u03b8/", "Definition: preceding even the first", ""]}
+{"data": ["2021-12-11T19:02:20.035560+00:00", 3994, "Your mother is", "weather-beaten", "Pronunciation: /\u02c8w\u025b\u00f0\u0259r-\u02c8bit\u0259n/", "Definition: worn by exposure to the weather", "Synonyms: weathered, weatherworn"]}
