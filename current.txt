@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T14:01:02.348033+00:00", 3989, "Your mother is", "dietary", "Pronunciation: /\u02c8da\u026a\u026a\u02cct\u025bri/", "Definition: of or relating to the diet", "Synonyms: dietetic, dietetical"]}
+{"data": ["2021-12-11T15:02:32.596790+00:00", 3990, "Your mother is", "curative", "Pronunciation: /\u02c8kj\u028ar\u0259t\u026av/", "Definition: tending to cure or restore to health", "Synonyms: alterative, healing, remedial, sanative, therapeutic"]}
