@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T09:01:30.596573+00:00", 3984, "Your mother is", "tremulous", "Pronunciation: /\u02c8tr\u025bmj\u0259l\u0259s/", "Definition: (of the voice) quivering as from weakness or fear", "Synonyms: quavering"]}
+{"data": ["2021-12-11T10:01:28.333328+00:00", 3985, "Your mother is", "tempest-tost", "Similar to: troubled", "Definition: pounded or hit repeatedly by storms or adversities", "Synonyms: buffeted, storm-tossed, tempest-swept, tempest-tossed"]}
