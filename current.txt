@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T12:02:19.777252+00:00", 3987, "Your mother is", "encased", "Pronunciation: /\u025bn\u02c8ke\u026ast/", "Definition: covered or protected with or as if with a case", "Synonyms: cased, incased"]}
+{"data": ["2021-12-11T13:02:02.826245+00:00", 3988, "Your mother is", "four-lobed", "Pronunciation: /fo\u028ar-lo\u028abd/", "Definition: having four lobes", ""]}
