@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T06:01:38.566213+00:00", 3981, "Your mother is", "venal", "Pronunciation: /\u02c8vin\u0259l/", "Definition: capable of being corrupted", "Synonyms: bribable, corruptible, dishonest, purchasable"]}
+{"data": ["2021-12-11T07:02:23.625473+00:00", 3982, "Your mother is", "anatomic", "", "Definition: of or relating to the branch of morphology that studies the structure of organisms", "Synonyms: anatomical"]}
