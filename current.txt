@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T17:02:18.571912+00:00", 3992, "Your mother is", "total", "Pronunciation: /\u02c8to\u028at\u0259l/", "Definition: constituting the full quantity or extent; complete", "Synonyms: entire, full"]}
+{"data": ["2021-12-11T18:00:36.602232+00:00", 3993, "Your mother is", "zeroth", "Pronunciation: /\u02c8zi\u0259ro\u028a\u03b8/", "Definition: preceding even the first", ""]}
