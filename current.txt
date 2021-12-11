@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T21:01:20.407168+00:00", 3996, "Your mother is", "bluish-grey", "Similar to: achromatic", "Definition: of grey tinged with blue", "Synonyms: blue-gray, blue-grey, bluish-gray"]}
+{"data": ["2021-12-11T22:02:41.988296+00:00", 3997, "Your mother is", "uncivil", "Pronunciation: /\u0259n\u02c8s\u026av\u0259l/", "Definition: lacking civility or good manners", "Synonyms: rude"]}
