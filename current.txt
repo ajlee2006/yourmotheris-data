@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T03:01:59.860560+00:00", 3978, "Your mother is", "strung-out", "Similar to: addicted", "Definition: addicted to a drug", "Synonyms: dependant, dependent, drug-addicted, hooked"]}
+{"data": ["2021-12-11T04:02:38.829850+00:00", 3979, "Your mother is", "aching", "Pronunciation: /\u02c8e\u026ak\u026a\u014b/", "Definition: causing a dull and steady pain", "Synonyms: achy"]}
