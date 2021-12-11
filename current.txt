@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T22:02:41.988296+00:00", 3997, "Your mother is", "uncivil", "Pronunciation: /\u0259n\u02c8s\u026av\u0259l/", "Definition: lacking civility or good manners", "Synonyms: rude"]}
+{"data": ["2021-12-11T23:02:33.698273+00:00", 3998, "Your mother is", "winglike", "Pronunciation: /\u02c8w\u026a\u014b\u02ccla\u026ak/", "Definition: resembling a wing in shape or position", ""]}
