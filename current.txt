@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T00:11:00.191752+00:00", 3975, "Your mother is", "nonconductive", "", "Definition: not able to conduct heat or electricity or sound", "Synonyms: non-conducting, nonconducting"]}
+{"data": ["2021-12-11T01:00:48.663923+00:00", 3976, "Your mother is", "side by side", "Similar to: close", "Definition: nearest in space or position; immediately adjoining without intervening space", "Synonyms: adjacent, next"]}
