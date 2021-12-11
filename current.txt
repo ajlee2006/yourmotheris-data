@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T08:01:54.272190+00:00", 3983, "Your mother is", "high-class", "Pronunciation: /ha\u026a-kl\u00e6s/", "Definition: pretentiously elegant", "Synonyms: high-toned"]}
+{"data": ["2021-12-11T09:01:30.596573+00:00", 3984, "Your mother is", "tremulous", "Pronunciation: /\u02c8tr\u025bmj\u0259l\u0259s/", "Definition: (of the voice) quivering as from weakness or fear", "Synonyms: quavering"]}
