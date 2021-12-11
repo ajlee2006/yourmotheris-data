@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T11:01:38.318874+00:00", 3986, "Your mother is", "single-bedded", "Similar to: bedded", "Definition: having single beds", ""]}
+{"data": ["2021-12-11T12:02:19.777252+00:00", 3987, "Your mother is", "encased", "Pronunciation: /\u025bn\u02c8ke\u026ast/", "Definition: covered or protected with or as if with a case", "Synonyms: cased, incased"]}
