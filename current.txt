@@ -1,1 +1,1 @@
-{"data": ["2021-12-11T19:02:20.035560+00:00", 3994, "Your mother is", "weather-beaten", "Pronunciation: /\u02c8w\u025b\u00f0\u0259r-\u02c8bit\u0259n/", "Definition: worn by exposure to the weather", "Synonyms: weathered, weatherworn"]}
+{"data": ["2021-12-11T20:01:43.766364+00:00", 3995, "Your mother is", "impetuous", "Pronunciation: /\u026am\u02c8p\u025b\u02a7u\u0259s/", "Definition: characterized by undue haste and lack of thought or deliberation", "Synonyms: brainish, hotheaded, impulsive, madcap, tearaway"]}
