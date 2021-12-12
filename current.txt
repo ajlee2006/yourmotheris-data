@@ -1,1 +1,1 @@
-{"data": ["2021-12-12T17:01:25.521261+00:00", 4016, "Your mother is", "autoloading", "Similar to: automatic", "Definition: (of firearms) capable of automatic loading and firing continuously", "Synonyms: self-loading, semiautomatic"]}
+{"data": ["2021-12-12T18:01:17.618090+00:00", 4017, "Your mother is", "colourless", "Pronunciation: /\u02c8k\u0259l\u0259l\u025bs/", "Definition: weak in color; not colorful", "Synonyms: colorless"]}
