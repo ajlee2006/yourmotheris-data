@@ -1,1 +1,1 @@
-{"data": ["2021-12-12T03:01:31.395642+00:00", 4002, "Your mother is", "linked", "Pronunciation: /l\u026a\u014bkt/", "Definition: connected by a link, as railway cars or trailer trucks", "Synonyms: coupled, joined"]}
+{"data": ["2021-12-12T04:02:39.729142+00:00", 4003, "Your mother is", "portentous", "Pronunciation: /po\u028ar\u02c8t\u025bnt\u0259s/", "Definition: ominously prophetic", "Synonyms: fateful, foreboding"]}
