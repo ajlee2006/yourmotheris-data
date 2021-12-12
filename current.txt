@@ -1,1 +1,1 @@
-{"data": ["2021-12-12T06:01:51.225107+00:00", 4005, "Your mother is", "creditworthy", "Pronunciation: /\u02c8kr\u025bd\u026at\u02ccw\u025cr\u00f0i/", "Definition: having an acceptable credit rating", "Synonyms: responsible"]}
+{"data": ["2021-12-12T07:01:36.039024+00:00", 4006, "Your mother is", "pantheist", "", "Definition: of or relating to pantheism", "Synonyms: pantheistic"]}
