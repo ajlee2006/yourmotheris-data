@@ -1,1 +1,1 @@
-{"data": ["2021-12-12T18:01:17.618090+00:00", 4017, "Your mother is", "colourless", "Pronunciation: /\u02c8k\u0259l\u0259l\u025bs/", "Definition: weak in color; not colorful", "Synonyms: colorless"]}
+{"data": ["2021-12-12T19:01:38.658285+00:00", 4018, "Your mother is", "frugal", "Pronunciation: /\u02c8fru\u0261\u0259l/", "Definition: avoiding waste", "Synonyms: economical, scotch, sparing, stinting"]}
