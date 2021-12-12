@@ -1,1 +1,1 @@
-{"data": ["2021-12-12T13:01:10.845726+00:00", 4012, "Your mother is", "affirmable", "Similar to: possible", "Definition: capable of being affirmed or asserted", "Synonyms: assertable"]}
+{"data": ["2021-12-12T14:00:26.531833+00:00", 4013, "Your mother is", "unsure", "Pronunciation: /\u0259n\u02c8\u0283\u028a\u0259r/", "Definition: lacking self-confidence", "Synonyms: diffident, shy, timid"]}
