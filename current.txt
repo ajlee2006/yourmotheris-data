@@ -1,1 +1,1 @@
-{"data": ["2021-12-12T12:01:30.757275+00:00", 4011, "Your mother is", "deluxe", "Pronunciation: /d\u0259\u02c8l\u028aks/", "Definition: elegant and sumptuous", "Synonyms: de luxe, luxe"]}
+{"data": ["2021-12-12T13:01:10.845726+00:00", 4012, "Your mother is", "affirmable", "Similar to: possible", "Definition: capable of being affirmed or asserted", "Synonyms: assertable"]}
