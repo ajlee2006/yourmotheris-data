@@ -1,1 +1,1 @@
-{"data": ["2021-12-12T11:02:47.739065+00:00", 4010, "Your mother is", "joyless", "Pronunciation: /\u02c8d\u0292\u0254\u026al\u026as/", "Definition: not experiencing or inspiring joy", ""]}
+{"data": ["2021-12-12T12:01:30.757275+00:00", 4011, "Your mother is", "deluxe", "Pronunciation: /d\u0259\u02c8l\u028aks/", "Definition: elegant and sumptuous", "Synonyms: de luxe, luxe"]}
