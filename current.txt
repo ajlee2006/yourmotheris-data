@@ -1,1 +1,1 @@
-{"data": ["2021-12-12T16:01:22.471275+00:00", 4015, "Your mother is", "viva-voce", "Similar to: spoken", "Definition: expressed orally", "Synonyms: word-of-mouth"]}
+{"data": ["2021-12-12T17:01:25.521261+00:00", 4016, "Your mother is", "autoloading", "Similar to: automatic", "Definition: (of firearms) capable of automatic loading and firing continuously", "Synonyms: self-loading, semiautomatic"]}
