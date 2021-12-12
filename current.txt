@@ -1,1 +1,1 @@
-{"data": ["2021-12-12T01:02:39.532710+00:00", 4000, "Your mother is", "in good taste", "Similar to: decorous", "Definition: satisfying generally accepted social or esthetic standards", ""]}
+{"data": ["2021-12-12T02:02:12.749290+00:00", 4001, "Your mother is", "quaint", "Pronunciation: /kwe\u026ant/", "Definition: attractively old-fashioned (but not necessarily authentic)", "Synonyms: old-time, olde worlde"]}
