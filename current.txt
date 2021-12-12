@@ -1,1 +1,1 @@
-{"data": ["2021-12-12T02:02:12.749290+00:00", 4001, "Your mother is", "quaint", "Pronunciation: /kwe\u026ant/", "Definition: attractively old-fashioned (but not necessarily authentic)", "Synonyms: old-time, olde worlde"]}
+{"data": ["2021-12-12T03:01:31.395642+00:00", 4002, "Your mother is", "linked", "Pronunciation: /l\u026a\u014bkt/", "Definition: connected by a link, as railway cars or trailer trucks", "Synonyms: coupled, joined"]}
