@@ -1,1 +1,1 @@
-{"data": ["2021-12-12T14:00:26.531833+00:00", 4013, "Your mother is", "unsure", "Pronunciation: /\u0259n\u02c8\u0283\u028a\u0259r/", "Definition: lacking self-confidence", "Synonyms: diffident, shy, timid"]}
+{"data": ["2021-12-12T15:01:39.209868+00:00", 4014, "Your mother is", "nth", "Pronunciation: /\u025bn\u03b8/", "Definition: last or greatest in an indefinitely large series", "Synonyms: n-th"]}
