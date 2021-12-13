@@ -1,1 +1,1 @@
-{"data": ["2021-12-13T02:00:23.984828+00:00", 4025, "Your mother is", "principal", "Pronunciation: /\u02c8pr\u026ans\u0259p\u0259l/", "Definition: most important element", "Synonyms: chief, main, master, primary"]}
+{"data": ["2021-12-13T03:01:45.219575+00:00", 4026, "Your mother is", "pharmaceutical", "Pronunciation: /\u02ccf\u0251rm\u0259\u02c8sut\u026ak\u0259l/", "Definition: of or relating to pharmacy or pharmacists", "Synonyms: pharmaceutic"]}
