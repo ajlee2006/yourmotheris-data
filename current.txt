@@ -1,1 +1,1 @@
-{"data": ["2021-12-13T12:01:08.005261+00:00", 4034, "Your mother is", "anxious", "Pronunciation: /\u02c8\u00e6\u014bk\u0283\u0259s/", "Definition: eagerly desirous", "Synonyms: dying"]}
+{"data": ["2021-12-13T13:01:14.599627+00:00", 4035, "Your mother is", "cone-bearing", "Similar to: evergreen", "Definition: of or relating to or part of trees or shrubs bearing cones and evergreen leaves", "Synonyms: coniferous"]}
