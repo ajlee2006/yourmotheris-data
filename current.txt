@@ -1,1 +1,1 @@
-{"data": ["2021-12-13T21:00:30.498080+00:00", 4043, "Your mother is", "inscribed", "Pronunciation: /\u026an\u02c8skra\u026abd/", "Definition: cut or impressed into a surface", "Synonyms: engraved, etched, graven, incised"]}
+{"data": ["2021-12-13T22:02:02.038161+00:00", 4044, "Your mother is", "artefactual", "", "Definition: of or relating to artifacts", "Synonyms: artifactual"]}
