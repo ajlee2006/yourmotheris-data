@@ -1,1 +1,1 @@
-{"data": ["2021-12-13T01:01:40.794699+00:00", 4024, "Your mother is", "whiney", "Similar to: complaining", "Definition: habitually complaining", "Synonyms: fretful, querulous, whiny"]}
+{"data": ["2021-12-13T02:00:23.984828+00:00", 4025, "Your mother is", "principal", "Pronunciation: /\u02c8pr\u026ans\u0259p\u0259l/", "Definition: most important element", "Synonyms: chief, main, master, primary"]}
