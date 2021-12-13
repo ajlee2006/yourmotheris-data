@@ -1,1 +1,1 @@
-{"data": ["2021-12-13T19:01:16.906637+00:00", 4041, "Your mother is", "defeated", "Pronunciation: /d\u026a\u02c8fit\u028cd/", "Definition: disappointingly unsuccessful", "Synonyms: disappointed, discomfited, foiled, frustrated, thwarted"]}
+{"data": ["2021-12-13T20:01:14.962316+00:00", 4042, "Your mother is", "rust-free", "Similar to: rustless", "Definition: free of rust", ""]}
