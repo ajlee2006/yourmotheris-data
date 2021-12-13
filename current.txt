@@ -1,1 +1,1 @@
-{"data": ["2021-12-13T10:02:14.246500+00:00", 4033, "Your mother is", "unshared", "Pronunciation: /\u0259n\u02c8\u0283\u025cd/", "Definition: not shared", ""]}
+{"data": ["2021-12-13T12:01:08.005261+00:00", 4034, "Your mother is", "anxious", "Pronunciation: /\u02c8\u00e6\u014bk\u0283\u0259s/", "Definition: eagerly desirous", "Synonyms: dying"]}
