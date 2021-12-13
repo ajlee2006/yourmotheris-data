@@ -1,1 +1,1 @@
-{"data": ["2021-12-13T14:01:53.055187+00:00", 4036, "Your mother is", "sought", "Pronunciation: /s\u0254t/", "Definition: being searched for", "Synonyms: sought-after"]}
+{"data": ["2021-12-13T15:02:11.121950+00:00", 4037, "Your mother is", "necessitous", "Pronunciation: /n\u0259\u02c8s\u025bs\u026at\u0259s/", "Definition: poor enough to need help from others", "Synonyms: destitute, impoverished, indigent, needy, poverty-stricken"]}
