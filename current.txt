@@ -1,1 +1,1 @@
-{"data": ["2021-12-13T03:01:45.219575+00:00", 4026, "Your mother is", "pharmaceutical", "Pronunciation: /\u02ccf\u0251rm\u0259\u02c8sut\u026ak\u0259l/", "Definition: of or relating to pharmacy or pharmacists", "Synonyms: pharmaceutic"]}
+{"data": ["2021-12-13T04:02:50.168720+00:00", 4027, "Your mother is", "bodiless", "Pronunciation: /\u02c8b\u0251dil\u026as/", "Definition: having no trunk or main part", "Synonyms: bodyless"]}
