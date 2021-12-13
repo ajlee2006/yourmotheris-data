@@ -1,1 +1,1 @@
-{"data": ["2021-12-13T16:00:31.116862+00:00", 4038, "Your mother is", "redoubtable", "Pronunciation: /r\u026a\u02c8da\u028at\u0259b\u0259l/", "Definition: inspiring fear", "Synonyms: formidable, unnerving"]}
+{"data": ["2021-12-13T17:00:48.559843+00:00", 4039, "Your mother is", "comatose", "Pronunciation: /\u02c8k\u0251m\u0259\u02ccto\u028as/", "Definition: in a state of deep and usually prolonged unconsciousness; unable to respond to external stimuli", ""]}
