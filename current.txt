@@ -1,1 +1,1 @@
-{"data": ["2021-12-13T06:02:32.167622+00:00", 4029, "Your mother is", "adventurous", "Pronunciation: /\u00e6d\u02c8v\u025bn\u02a7\u0259r\u0259s/", "Definition: willing to undertake or seeking out new and daring enterprises", "Synonyms: adventuresome"]}
+{"data": ["2021-12-13T07:01:38.157153+00:00", 4030, "Your mother is", "cross-eyed", "Pronunciation: /kr\u0254s-a\u026ad/", "Definition: having convergent strabismus", ""]}
