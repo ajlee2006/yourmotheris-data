@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T07:01:57.339433+00:00", 4053, "Your mother is", "uncategorised", "Similar to: unclassified", "Definition: not categorized or sorted", "Synonyms: uncategorized, unsorted"]}
+{"data": ["2021-12-14T08:02:59.436140+00:00", 4054, "Your mother is", "five-lobed", "Pronunciation: /fa\u026av-lo\u028abd/", "Definition: having five lobes", ""]}
