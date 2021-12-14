@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T17:01:55.921606+00:00", 4063, "Your mother is", "hispanic", "Pronunciation: /h\u026a\u02c8sp\u00e6n\u026ak/", "Definition: related to a Spanish-speaking people or culture", "Synonyms: latino"]}
+{"data": ["2021-12-14T18:00:40.067212+00:00", 4064, "Your mother is", "cute", "Pronunciation: /kjut/", "Definition: obviously contrived to charm", "Synonyms: precious"]}
