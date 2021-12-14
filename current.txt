@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T10:02:39.903912+00:00", 4056, "Your mother is", "fourth", "Pronunciation: /fo\u028ar\u03b8/", "Definition: coming next after the third and just before the fifth in position or time or degree or magnitude", "Synonyms: 4th, quaternary"]}
+{"data": ["2021-12-14T11:01:35.494371+00:00", 4057, "Your mother is", "unilateral", "Pronunciation: /\u02ccjun\u026a\u02c8l\u00e6t\u0259r\u0259l/", "Definition: involving only one part or side", "Synonyms: one-sided"]}
