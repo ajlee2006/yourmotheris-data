@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T19:01:38.865109+00:00", 4065, "Your mother is", "mutual", "Pronunciation: /\u02c8mju\u02a7u\u0259l/", "Definition: concerning each of two or more persons or things; especially given or done in return", "Synonyms: reciprocal"]}
+{"data": ["2021-12-14T20:02:25.843225+00:00", 4066, "Your mother is", "pricey", "Pronunciation: /\u02c8pra\u026asi/", "Definition: having a high price", "Synonyms: costly, dear, high-priced, pricy"]}
