@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T15:01:15.760058+00:00", 4061, "Your mother is", "demonstrated", "Pronunciation: /\u02c8d\u025bm\u028cn\u02ccstre\u026at\u028cd/", "Definition: having been demonstrated or verified beyond doubt", ""]}
+{"data": ["2021-12-14T16:02:11.320527+00:00", 4062, "Your mother is", "philistine", "Pronunciation: /\u02c8f\u026al\u026a\u02ccsta\u026an/", "Definition: smug and ignorant and indifferent or hostile to artistic and cultural values", "Synonyms: anti-intellectual"]}
