@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T16:02:11.320527+00:00", 4062, "Your mother is", "philistine", "Pronunciation: /\u02c8f\u026al\u026a\u02ccsta\u026an/", "Definition: smug and ignorant and indifferent or hostile to artistic and cultural values", "Synonyms: anti-intellectual"]}
+{"data": ["2021-12-14T17:01:55.921606+00:00", 4063, "Your mother is", "hispanic", "Pronunciation: /h\u026a\u02c8sp\u00e6n\u026ak/", "Definition: related to a Spanish-speaking people or culture", "Synonyms: latino"]}
