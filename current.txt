@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T06:01:41.345328+00:00", 4052, "Your mother is", "farcical", "Pronunciation: /\u02c8f\u0251rs\u026ak\u0259l/", "Definition: broadly or extravagantly humorous; resembling farce", "Synonyms: ludicrous, ridiculous"]}
+{"data": ["2021-12-14T07:01:57.339433+00:00", 4053, "Your mother is", "uncategorised", "Similar to: unclassified", "Definition: not categorized or sorted", "Synonyms: uncategorized, unsorted"]}
