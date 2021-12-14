@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T04:01:18.277373+00:00", 4050, "Your mother is", "insalubrious", "Pronunciation: /\u02cc\u026ans\u0259\u02c8lubri\u0259s/", "Definition: detrimental to health", "Synonyms: unhealthful, unhealthy"]}
+{"data": ["2021-12-14T05:02:52.121267+00:00", 4051, "Your mother is", "permutable", "Similar to: exchangeable", "Definition: capable of changing sequence", "Synonyms: transposable"]}
