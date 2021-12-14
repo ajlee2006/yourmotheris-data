@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T03:02:56.178739+00:00", 4049, "Your mother is", "vernacular", "Pronunciation: /v\u0259r\u02c8n\u00e6kj\u0259l\u0259r/", "Definition: being or characteristic of or appropriate to everyday language", "Synonyms: common, vulgar"]}
+{"data": ["2021-12-14T04:01:18.277373+00:00", 4050, "Your mother is", "insalubrious", "Pronunciation: /\u02cc\u026ans\u0259\u02c8lubri\u0259s/", "Definition: detrimental to health", "Synonyms: unhealthful, unhealthy"]}
