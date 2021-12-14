@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T14:02:41.465210+00:00", 4060, "Your mother is", "innovative", "Pronunciation: /\u02c8\u026an\u028c\u02ccve\u026at\u026av/", "Definition: being or producing something like nothing done or experienced or created before", "Synonyms: groundbreaking, innovational"]}
+{"data": ["2021-12-14T15:01:15.760058+00:00", 4061, "Your mother is", "demonstrated", "Pronunciation: /\u02c8d\u025bm\u028cn\u02ccstre\u026at\u028cd/", "Definition: having been demonstrated or verified beyond doubt", ""]}
