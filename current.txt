@@ -1,1 +1,1 @@
-{"data": ["2021-12-13T23:01:26.218172+00:00", 4045, "Your mother is", "verified", "Pronunciation: /\u02c8v\u025br\u0259\u02ccfa\u026ad/", "Definition: proved to be true", ""]}
+{"data": ["2021-12-14T00:03:16.119937+00:00", 4046, "Your mother is", "specialised", "Similar to: differentiated", "Definition: developed or designed for a special activity or function", "Synonyms: specialized"]}
