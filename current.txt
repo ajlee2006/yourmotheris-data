@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T20:02:25.843225+00:00", 4066, "Your mother is", "pricey", "Pronunciation: /\u02c8pra\u026asi/", "Definition: having a high price", "Synonyms: costly, dear, high-priced, pricy"]}
+{"data": ["2021-12-14T21:02:22.624488+00:00", 4067, "Your mother is", "xii", "Similar to: cardinal", "Definition: denoting a quantity consisting of 12 items or units", "Synonyms: 12, dozen, twelve"]}
