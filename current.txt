@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T22:02:32.710418+00:00", 4068, "Your mother is", "endearing", "Pronunciation: /\u026an\u02c8di\u0259ri\u014b/", "Definition: lovable especially in a childlike or naive way", "Synonyms: adorable, lovely"]}
+{"data": ["2021-12-14T23:01:32.633651+00:00", 4069, "Your mother is", "empathic", "Pronunciation: /\u025bm\u02c8p\u00e6\u03b8\u026ak/", "Definition: showing empathy or ready comprehension of others' states", "Synonyms: empathetic"]}
