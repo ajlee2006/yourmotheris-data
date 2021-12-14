@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T08:02:59.436140+00:00", 4054, "Your mother is", "five-lobed", "Pronunciation: /fa\u026av-lo\u028abd/", "Definition: having five lobes", ""]}
+{"data": ["2021-12-14T09:01:55.498696+00:00", 4055, "Your mother is", "counterclockwise", "Pronunciation: /\u02ccka\u028ant\u0259r\u02c8kl\u0251k\u02ccwa\u026az/", "Definition: in the direction opposite to the rotation of the hands of a clock", "Synonyms: anticlockwise, contraclockwise"]}
