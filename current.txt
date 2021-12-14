@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T09:01:55.498696+00:00", 4055, "Your mother is", "counterclockwise", "Pronunciation: /\u02ccka\u028ant\u0259r\u02c8kl\u0251k\u02ccwa\u026az/", "Definition: in the direction opposite to the rotation of the hands of a clock", "Synonyms: anticlockwise, contraclockwise"]}
+{"data": ["2021-12-14T10:02:39.903912+00:00", 4056, "Your mother is", "fourth", "Pronunciation: /fo\u028ar\u03b8/", "Definition: coming next after the third and just before the fifth in position or time or degree or magnitude", "Synonyms: 4th, quaternary"]}
