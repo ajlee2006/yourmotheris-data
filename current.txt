@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T02:01:58.523118+00:00", 4048, "Your mother is", "ameliorating", "Similar to: bettering", "Definition: tending to ameliorate", "Synonyms: ameliorative, amelioratory, meliorative"]}
+{"data": ["2021-12-14T03:02:56.178739+00:00", 4049, "Your mother is", "vernacular", "Pronunciation: /v\u0259r\u02c8n\u00e6kj\u0259l\u0259r/", "Definition: being or characteristic of or appropriate to everyday language", "Synonyms: common, vulgar"]}
