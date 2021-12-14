@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T18:00:40.067212+00:00", 4064, "Your mother is", "cute", "Pronunciation: /kjut/", "Definition: obviously contrived to charm", "Synonyms: precious"]}
+{"data": ["2021-12-14T19:01:38.865109+00:00", 4065, "Your mother is", "mutual", "Pronunciation: /\u02c8mju\u02a7u\u0259l/", "Definition: concerning each of two or more persons or things; especially given or done in return", "Synonyms: reciprocal"]}
