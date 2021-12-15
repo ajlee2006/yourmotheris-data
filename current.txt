@@ -1,1 +1,1 @@
-{"data": ["2021-12-15T03:01:34.569054+00:00", 4073, "Your mother is", "unpassable", "Similar to: unclimbable", "Definition: incapable of being passed", "Synonyms: impassable"]}
+{"data": ["2021-12-15T04:00:31.125958+00:00", 4074, "Your mother is", "on the nose", "Similar to: precise", "Definition: being precise with regard to a prescribed or specified criterion", "Synonyms: on the button"]}
