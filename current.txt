@@ -1,1 +1,1 @@
-{"data": ["2021-12-15T21:01:58.174644+00:00", 4091, "Your mother is", "conjunct", "Pronunciation: /k\u0259n\u02c8d\u0292\u0259\u014bkt/", "Definition: involving the joint activity of two or more", "Synonyms: concerted, conjunctive, cooperative"]}
+{"data": ["2021-12-15T22:01:20.436997+00:00", 4092, "Your mother is", "exculpatory", "Pronunciation: /\u026ak\u02c8sk\u0259lp\u0259\u02ccto\u028ari/", "Definition: clearing of guilt or blame", ""]}
