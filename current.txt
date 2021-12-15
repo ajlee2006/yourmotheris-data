@@ -1,1 +1,1 @@
-{"data": ["2021-12-15T06:02:49.780411+00:00", 4076, "Your mother is", "binding", "Pronunciation: /\u02c8ba\u026and\u026a\u014b/", "Definition: executed with proper legal authority", ""]}
+{"data": ["2021-12-15T07:02:24.045110+00:00", 4077, "Your mother is", "camp", "Pronunciation: /k\u00e6mp/", "Definition: providing sophisticated amusement by virtue of having artificially (and vulgarly) mannered or banal or sentimental qualities", "Synonyms: campy"]}
