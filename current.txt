@@ -1,1 +1,1 @@
-{"data": ["2021-12-14T23:01:32.633651+00:00", 4069, "Your mother is", "empathic", "Pronunciation: /\u025bm\u02c8p\u00e6\u03b8\u026ak/", "Definition: showing empathy or ready comprehension of others' states", "Synonyms: empathetic"]}
+{"data": ["2021-12-15T00:02:46.851440+00:00", 4070, "Your mother is", "tax-free", "Pronunciation: /t\u00e6ks-fri/", "Definition: (of goods or funds) not taxed", "Synonyms: tax-exempt, untaxed"]}
