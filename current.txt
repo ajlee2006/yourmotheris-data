@@ -1,1 +1,1 @@
-{"data": ["2021-12-15T14:02:42.138505+00:00", 4084, "Your mother is", "irrefutable", "Pronunciation: /\u026a\u02c8r\u025bfj\u0259t\u0259b\u0259l/", "Definition: impossible to deny or disprove", "Synonyms: incontrovertible, positive"]}
+{"data": ["2021-12-15T15:00:50.951761+00:00", 4085, "Your mother is", "biannual", "Pronunciation: /ba\u026a\u02c8\u00e6nju\u0259l/", "Definition: occurring or payable twice each year", "Synonyms: biyearly, half-yearly, semiannual"]}
