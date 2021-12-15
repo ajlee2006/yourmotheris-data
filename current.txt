@@ -1,1 +1,1 @@
-{"data": ["2021-12-15T18:00:50.866893+00:00", 4088, "Your mother is", "disgusting", "Pronunciation: /d\u026as\u02c8\u0261\u0259st\u026a\u014b/", "Definition: highly offensive; arousing aversion or disgust", "Synonyms: disgustful, distasteful, foul, loathly, loathsome, repellant, repellent, repelling, revolting, skanky, wicked, yucky"]}
+{"data": ["2021-12-15T19:00:27.187358+00:00", 4089, "Your mother is", "monied", "Pronunciation: /\u02c8m\u0259nid/", "Definition: based on or arising from the possession of money or wealth", "Synonyms: moneyed"]}
