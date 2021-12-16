@@ -1,1 +1,1 @@
-{"data": ["2021-12-16T11:02:15.111797+00:00", 4105, "Your mother is", "born", "Pronunciation: /b\u0254rn/", "Definition: being talented through inherited qualities", "Synonyms: innate, natural"]}
+{"data": ["2021-12-16T12:02:27.136135+00:00", 4106, "Your mother is", "forehanded", "Pronunciation: /\u02c8fo\u028ar\u02c8h\u00e6nd\u026ad/", "Definition: (of racket strokes) made with palm facing direction of stroke", "Synonyms: forehand"]}
