@@ -1,1 +1,1 @@
-{"data": ["2021-12-16T18:02:46.635100+00:00", 4112, "Your mother is", "aspectual", "Pronunciation: /\u00e6\u02c8sp\u025bk\u02a7u\u0259l/", "Definition: of or belonging to an aspect (as an aspect of the verb)", ""]}
+{"data": ["2021-12-16T19:01:07.923557+00:00", 4113, "Your mother is", "acoustical", "Pronunciation: /\u028c\u02c8kust\u026ak\u028cl/", "Definition: of or relating to the science of acoustics", "Synonyms: acoustic"]}
