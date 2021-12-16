@@ -1,1 +1,1 @@
-{"data": ["2021-12-16T10:02:10.244498+00:00", 4104, "Your mother is", "joined", "Pronunciation: /d\u0292\u0254\u026and/", "Definition: of or relating to two people who are married to each other", "Synonyms: united"]}
+{"data": ["2021-12-16T11:02:15.111797+00:00", 4105, "Your mother is", "born", "Pronunciation: /b\u0254rn/", "Definition: being talented through inherited qualities", "Synonyms: innate, natural"]}
