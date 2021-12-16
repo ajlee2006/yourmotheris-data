@@ -1,1 +1,1 @@
-{"data": ["2021-12-16T04:02:24.329121+00:00", 4098, "Your mother is", "figured", "Pronunciation: /\u02c8f\u026a\u0261j\u0259rd/", "Definition: (of e.g. fabric design) adorned with patterns", ""]}
+{"data": ["2021-12-16T05:01:52.314374+00:00", 4099, "Your mother is", "chylific", "", "Definition: producing or converting into chyle", "Synonyms: chylifactive, chylifactory"]}
