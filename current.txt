@@ -1,1 +1,1 @@
-{"data": ["2021-12-16T02:01:18.543047+00:00", 4096, "Your mother is", "gauntleted", "Similar to: gloved", "Definition: wearing a protective glove", ""]}
+{"data": ["2021-12-16T03:02:22.836978+00:00", 4097, "Your mother is", "ruling", "Pronunciation: /\u02c8rul\u026a\u014b/", "Definition: exercising power or authority", "Synonyms: regnant, reigning"]}
