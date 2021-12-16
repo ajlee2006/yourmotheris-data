@@ -1,1 +1,1 @@
-{"data": ["2021-12-16T22:01:31.151508+00:00", 4116, "Your mother is", "ploughed", "Pronunciation: /pla\u028ad/", "Definition: (of farmland) broken and turned over with a plow", "Synonyms: plowed"]}
+{"data": ["2021-12-16T23:01:48.266100+00:00", 4117, "Your mother is", "glowering", "Pronunciation: /\u02c8\u0261la\u028a\u025dr\u026a\u014b/", "Definition: showing a brooding ill humor", "Synonyms: dark, dour, glum, moody, morose, saturnine, sour, sullen"]}
