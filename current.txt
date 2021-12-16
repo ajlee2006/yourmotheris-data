@@ -1,1 +1,1 @@
-{"data": ["2021-12-16T01:03:04.785311+00:00", 4095, "Your mother is", "orthodox", "Pronunciation: /\u02c8\u0254r\u03b8\u0259\u02ccd\u0251ks/", "Definition: of or pertaining to or characteristic of Judaism", "Synonyms: jewish-orthodox"]}
+{"data": ["2021-12-16T02:01:18.543047+00:00", 4096, "Your mother is", "gauntleted", "Similar to: gloved", "Definition: wearing a protective glove", ""]}
