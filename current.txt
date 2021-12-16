@@ -1,1 +1,1 @@
-{"data": ["2021-12-16T21:01:46.674890+00:00", 4115, "Your mother is", "woolly", "Pronunciation: /\u02c8w\u028ali/", "Definition: confused and vague; used especially of thinking", "Synonyms: addled, befuddled, muddled, muzzy, woolly-headed, wooly, wooly-minded"]}
+{"data": ["2021-12-16T22:01:31.151508+00:00", 4116, "Your mother is", "ploughed", "Pronunciation: /pla\u028ad/", "Definition: (of farmland) broken and turned over with a plow", "Synonyms: plowed"]}
