@@ -1,1 +1,1 @@
-{"data": ["2021-12-16T14:00:52.483215+00:00", 4108, "Your mother is", "sacrilegious", "Pronunciation: /\u02ccs\u00e6kr\u0259\u02c8l\u026ad\u0292\u0259s/", "Definition: grossly irreverent toward what is held to be sacred", "Synonyms: blasphemous, profane"]}
+{"data": ["2021-12-16T15:00:13.445939+00:00", 4109, "Your mother is", "situated", "Pronunciation: /\u02c8s\u026a\u02a7u\u02cce\u026at\u026ad/", "Definition: situated in a particular spot or position", "Synonyms: located, placed, set"]}
