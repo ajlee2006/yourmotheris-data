@@ -1,1 +1,1 @@
-{"data": ["2021-12-16T15:00:13.445939+00:00", 4109, "Your mother is", "situated", "Pronunciation: /\u02c8s\u026a\u02a7u\u02cce\u026at\u026ad/", "Definition: situated in a particular spot or position", "Synonyms: located, placed, set"]}
+{"data": ["2021-12-16T16:03:01.630038+00:00", 4110, "Your mother is", "specifiable", "Similar to: identifiable", "Definition: capable of being specified", ""]}
