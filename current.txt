@@ -1,1 +1,1 @@
-{"data": ["2021-12-17T07:01:39.783017+00:00", 4125, "Your mother is", "74", "Similar to: cardinal", "Definition: being four more than seventy", "Synonyms: lxxiv, seventy-four"]}
+{"data": ["2021-12-17T08:02:21.766825+00:00", 4126, "Your mother is", "phenotypical", "", "Definition: of or relating to or constituting a phenotype", "Synonyms: phenotypic"]}
