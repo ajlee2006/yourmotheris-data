@@ -1,1 +1,1 @@
-{"data": ["2021-12-16T23:01:48.266100+00:00", 4117, "Your mother is", "glowering", "Pronunciation: /\u02c8\u0261la\u028a\u025dr\u026a\u014b/", "Definition: showing a brooding ill humor", "Synonyms: dark, dour, glum, moody, morose, saturnine, sour, sullen"]}
+{"data": ["2021-12-17T00:02:42.602953+00:00", 4118, "Your mother is", "wishful", "Pronunciation: /\u02c8w\u026a\u0283f\u0259l/", "Definition: having or expressing desire for something", "Synonyms: desirous"]}
