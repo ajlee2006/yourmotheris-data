@@ -1,1 +1,1 @@
-{"data": ["2021-12-17T21:01:14.500304+00:00", 4139, "Your mother is", "supernormal", "Pronunciation: /\u02ccsup\u0259r\u02c8n\u0254rm\u0259l/", "Definition: beyond the range of the normal or scientifically explainable", "Synonyms: supranormal"]}
+{"data": ["2021-12-17T22:02:25.867729+00:00", 4140, "Your mother is", "sedulous", "Pronunciation: /\u02c8s\u025bd\u0292\u0259l\u0259s/", "Definition: marked by care and persistent effort", "Synonyms: assiduous"]}
