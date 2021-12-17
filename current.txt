@@ -1,1 +1,1 @@
-{"data": ["2021-12-17T13:02:16.495614+00:00", 4131, "Your mother is", "hasty", "Pronunciation: /\u02c8he\u026asti/", "Definition: done with very great haste and without due deliberation", "Synonyms: overhasty, precipitant, precipitate, precipitous"]}
+{"data": ["2021-12-17T14:01:02.485788+00:00", 4132, "Your mother is", "xcii", "Similar to: cardinal", "Definition: being two more than ninety", "Synonyms: 92, ninety-two"]}
