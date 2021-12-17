@@ -1,1 +1,1 @@
-{"data": ["2021-12-17T01:02:59.619922+00:00", 4119, "Your mother is", "warped", "Pronunciation: /w\u0254rpt/", "Definition: used especially of timbers or boards; bent out of shape usually by moisture", ""]}
+{"data": ["2021-12-17T02:02:12.380672+00:00", 4120, "Your mother is", "hieroglyphic", "Pronunciation: /\u02ccha\u026a\u0259r\u0259\u02c8gl\u026af\u026ak/", "Definition: resembling hieroglyphic writing", "Synonyms: hieroglyphical"]}
