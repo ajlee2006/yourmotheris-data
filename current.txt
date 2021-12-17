@@ -1,1 +1,1 @@
-{"data": ["2021-12-17T03:01:36.597477+00:00", 4121, "Your mother is", "tawny-coloured", "Similar to: colored", "Definition: having a tawny color", "Synonyms: tawny-colored"]}
+{"data": ["2021-12-17T04:02:46.647859+00:00", 4122, "Your mother is", "landlocked", "Pronunciation: /\u02c8l\u00e6nd\u02ccl\u0251kt/", "Definition: surrounded entirely or almost entirely by land", ""]}
