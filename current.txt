@@ -1,1 +1,1 @@
-{"data": ["2021-12-17T02:02:12.380672+00:00", 4120, "Your mother is", "hieroglyphic", "Pronunciation: /\u02ccha\u026a\u0259r\u0259\u02c8gl\u026af\u026ak/", "Definition: resembling hieroglyphic writing", "Synonyms: hieroglyphical"]}
+{"data": ["2021-12-17T03:01:36.597477+00:00", 4121, "Your mother is", "tawny-coloured", "Similar to: colored", "Definition: having a tawny color", "Synonyms: tawny-colored"]}
