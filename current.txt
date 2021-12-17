@@ -1,1 +1,1 @@
-{"data": ["2021-12-17T04:02:46.647859+00:00", 4122, "Your mother is", "landlocked", "Pronunciation: /\u02c8l\u00e6nd\u02ccl\u0251kt/", "Definition: surrounded entirely or almost entirely by land", ""]}
+{"data": ["2021-12-17T05:01:54.430815+00:00", 4123, "Your mother is", "oil-fired", "Similar to: fueled", "Definition: fueled by burning oil", ""]}
