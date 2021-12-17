@@ -1,1 +1,1 @@
-{"data": ["2021-12-17T12:01:13.558581+00:00", 4130, "Your mother is", "contemporaneous", "Pronunciation: /k\u0259n\u02cct\u025bmp\u0259\u02c8re\u026ani\u0259s/", "Definition: of the same period", "Synonyms: coetaneous, coeval"]}
+{"data": ["2021-12-17T13:02:16.495614+00:00", 4131, "Your mother is", "hasty", "Pronunciation: /\u02c8he\u026asti/", "Definition: done with very great haste and without due deliberation", "Synonyms: overhasty, precipitant, precipitate, precipitous"]}
