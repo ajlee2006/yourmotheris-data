@@ -1,1 +1,1 @@
-{"data": ["2021-12-17T08:02:21.766825+00:00", 4126, "Your mother is", "phenotypical", "", "Definition: of or relating to or constituting a phenotype", "Synonyms: phenotypic"]}
+{"data": ["2021-12-17T09:01:15.832242+00:00", 4127, "Your mother is", "in small stages", "Similar to: gradual", "Definition: one thing at a time", "Synonyms: bit-by-bit, piecemeal, step-by-step, stepwise"]}
