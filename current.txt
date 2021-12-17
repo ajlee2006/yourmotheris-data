@@ -1,1 +1,1 @@
-{"data": ["2021-12-17T15:02:54.546067+00:00", 4133, "Your mother is", "sedate", "Pronunciation: /s\u026a\u02c8de\u026at/", "Definition: dignified and somber in manner or character and committed to keeping promises", "Synonyms: grave, sober, solemn"]}
+{"data": ["2021-12-17T16:01:30.629033+00:00", 4134, "Your mother is", "stomachal", "", "Definition: relating to or involving the stomach", "Synonyms: gastric, stomachic"]}
