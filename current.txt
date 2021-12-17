@@ -1,1 +1,1 @@
-{"data": ["2021-12-17T10:01:32.456164+00:00", 4128, "Your mother is", "sinistral", "Pronunciation: /\u02c8s\u026an\u026astr\u0259l/", "Definition: of or on the left", ""]}
+{"data": ["2021-12-17T11:01:44.163073+00:00", 4129, "Your mother is", "puppylike", "Similar to: immature", "Definition: characteristic of a puppy", "Synonyms: puppyish"]}
