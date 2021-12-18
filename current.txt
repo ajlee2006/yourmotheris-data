@@ -1,1 +1,1 @@
-{"data": ["2021-12-18T03:01:58.562395+00:00", 4145, "Your mother is", "hirsute", "Pronunciation: /\u02c8h\u025crsut/", "Definition: having or covered with hair", "Synonyms: haired, hairy"]}
+{"data": ["2021-12-18T04:01:32.208374+00:00", 4146, "Your mother is", "siliceous", "Pronunciation: /s\u026a\u02c8l\u026a\u0283\u0259s/", "Definition: relating to or containing or resembling silica", "Synonyms: silicious"]}
