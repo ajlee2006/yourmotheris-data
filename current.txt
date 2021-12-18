@@ -1,1 +1,1 @@
-{"data": ["2021-12-18T11:00:39.767888+00:00", 4153, "Your mother is", "popish", "Pronunciation: /\u02c8po\u028ap\u026a\u0283/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, papistical, r.c., roman, roman catholic, romanist, romish"]}
+{"data": ["2021-12-18T12:01:16.458665+00:00", 4154, "Your mother is", "ill-proportioned", "Pronunciation: /\u026al-pr\u0259\u02c8po\u028ar\u0283\u0259nd/", "Definition: lacking pleasing proportions", ""]}
