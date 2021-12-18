@@ -1,1 +1,1 @@
-{"data": ["2021-12-18T04:01:32.208374+00:00", 4146, "Your mother is", "siliceous", "Pronunciation: /s\u026a\u02c8l\u026a\u0283\u0259s/", "Definition: relating to or containing or resembling silica", "Synonyms: silicious"]}
+{"data": ["2021-12-18T05:02:09.259823+00:00", 4147, "Your mother is", "rotated", "Pronunciation: /\u02c8ro\u028a\u02ccte\u026at\u026ad/", "Definition: turned in a circle around an axis", "Synonyms: revolved"]}
