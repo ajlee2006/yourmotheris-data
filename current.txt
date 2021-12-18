@@ -1,1 +1,1 @@
-{"data": ["2021-12-18T00:02:47.881676+00:00", 4142, "Your mother is", "magnificent", "Pronunciation: /m\u00e6\u0261\u02c8n\u026af\u026as\u0259nt/", "Definition: characterized by grandeur", "Synonyms: brilliant, glorious, splendid"]}
+{"data": ["2021-12-18T01:00:27.200059+00:00", 4143, "Your mother is", "two-footed", "Pronunciation: /tu-\u02c8f\u028at\u026ad/", "Definition: having two feet", "Synonyms: biped, bipedal"]}
