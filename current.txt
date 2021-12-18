@@ -1,1 +1,1 @@
-{"data": ["2021-12-18T08:00:56.407166+00:00", 4150, "Your mother is", "hurtful", "Pronunciation: /\u02c8h\u025crtf\u0259l/", "Definition: harmful to living things", "Synonyms: deleterious, injurious"]}
+{"data": ["2021-12-18T09:02:47.041063+00:00", 4151, "Your mother is", "ill-used", "Similar to: misused", "Definition: (of persons) taken advantage of", "Synonyms: exploited, put-upon, used, victimised, victimized"]}
