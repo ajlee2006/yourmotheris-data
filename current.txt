@@ -1,1 +1,1 @@
-{"data": ["2021-12-18T01:00:27.200059+00:00", 4143, "Your mother is", "two-footed", "Pronunciation: /tu-\u02c8f\u028at\u026ad/", "Definition: having two feet", "Synonyms: biped, bipedal"]}
+{"data": ["2021-12-18T02:02:32.641308+00:00", 4144, "Your mother is", "fork-like", "Similar to: divided", "Definition: resembling a fork; divided or separated into two branches", "Synonyms: bifurcate, biramous, branched, forficate, forked, pronged, prongy"]}
