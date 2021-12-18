@@ -1,1 +1,1 @@
-{"data": ["2021-12-18T07:02:51.155906+00:00", 4149, "Your mother is", "timely", "Pronunciation: /\u02c8ta\u026amli/", "Definition: done or happening at the appropriate or proper time", "Synonyms: seasonable, well-timed, well timed"]}
+{"data": ["2021-12-18T08:00:56.407166+00:00", 4150, "Your mother is", "hurtful", "Pronunciation: /\u02c8h\u025crtf\u0259l/", "Definition: harmful to living things", "Synonyms: deleterious, injurious"]}
