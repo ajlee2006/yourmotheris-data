@@ -1,1 +1,1 @@
-{"data": ["2021-12-18T19:02:00.222532+00:00", 4161, "Your mother is", "satellite", "Pronunciation: /\u02c8s\u00e6t\u02cc\u0259la\u026at/", "Definition: surrounding and dominated by a central authority or power", ""]}
+{"data": ["2021-12-18T20:02:39.647070+00:00", 4162, "Your mother is", "leakproof", "Similar to: tight", "Definition: not subject to leaks", ""]}
