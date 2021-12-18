@@ -1,1 +1,1 @@
-{"data": ["2021-12-18T17:02:21.911534+00:00", 4159, "Your mother is", "xxii", "Similar to: cardinal", "Definition: being two more than twenty", "Synonyms: 22, twenty-two"]}
+{"data": ["2021-12-18T18:02:45.673469+00:00", 4160, "Your mother is", "episcopal", "Pronunciation: /\u026a\u02c8p\u026ask\u0259p\u0259l/", "Definition: of or pertaining to or characteristic of the Episcopal church", "Synonyms: episcopalian"]}
