@@ -1,1 +1,1 @@
-{"data": ["2021-12-18T15:01:56.659305+00:00", 4157, "Your mother is", "misappropriated", "Pronunciation: /\u02ccm\u026as\u028c\u02c8pro\u028apri\u02cce\u026at\u026ad/", "Definition: taken for your own use in violation of a trust", "Synonyms: embezzled"]}
+{"data": ["2021-12-18T16:02:20.181163+00:00", 4158, "Your mother is", "highfaluting", "Similar to: pretentious", "Definition: affectedly genteel", "Synonyms: grandiose, hifalutin, highfalutin, hoity-toity, la-di-da"]}
