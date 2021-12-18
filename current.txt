@@ -1,1 +1,1 @@
-{"data": ["2021-12-18T18:02:45.673469+00:00", 4160, "Your mother is", "episcopal", "Pronunciation: /\u026a\u02c8p\u026ask\u0259p\u0259l/", "Definition: of or pertaining to or characteristic of the Episcopal church", "Synonyms: episcopalian"]}
+{"data": ["2021-12-18T19:02:00.222532+00:00", 4161, "Your mother is", "satellite", "Pronunciation: /\u02c8s\u00e6t\u02cc\u0259la\u026at/", "Definition: surrounding and dominated by a central authority or power", ""]}
