@@ -1,1 +1,1 @@
-{"data": ["2021-12-18T21:02:08.605668+00:00", 4163, "Your mother is", "holy", "Pronunciation: /\u02c8ho\u028ali/", "Definition: belonging to or derived from or associated with a divine power", ""]}
+{"data": ["2021-12-18T22:02:02.975715+00:00", 4164, "Your mother is", "tref", "Pronunciation: /tre\u026af/", "Definition: not conforming to dietary laws", "Synonyms: nonkosher, terefah"]}
