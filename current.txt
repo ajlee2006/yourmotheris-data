@@ -1,1 +1,1 @@
-{"data": ["2021-12-19T02:01:34.226313+00:00", 4168, "Your mother is", "skin-deep", "Pronunciation: /\u02c8sk\u026an-\u02c8dip/", "Definition: penetrating no deeper than the skin:", ""]}
+{"data": ["2021-12-19T03:01:43.487792+00:00", 4169, "Your mother is", "assertive", "Pronunciation: /\u0259\u02c8s\u025crt\u026av/", "Definition: aggressively self-assured", "Synonyms: self-asserting, self-assertive"]}
