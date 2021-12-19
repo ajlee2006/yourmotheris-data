@@ -1,1 +1,1 @@
-{"data": ["2021-12-19T14:01:16.545368+00:00", 4180, "Your mother is", "missionary", "Pronunciation: /\u02c8m\u026a\u0283\u0259\u02ccn\u025bri/", "Definition: relating to or connected to a religious mission", "Synonyms: missional"]}
+{"data": ["2021-12-19T15:01:16.788684+00:00", 4181, "Your mother is", "adaptative", "Similar to: accommodative", "Definition: having a capacity for adaptation", "Synonyms: adaptive"]}
