@@ -1,1 +1,1 @@
-{"data": ["2021-12-19T19:02:44.410762+00:00", 4185, "Your mother is", "monthly", "Pronunciation: /\u02c8m\u0259n\u03b8li/", "Definition: of or occurring or payable every month", ""]}
+{"data": ["2021-12-19T20:02:51.310738+00:00", 4186, "Your mother is", "slaked", "Similar to: mitigated", "Definition: allayed", "Synonyms: quenched, satisfied"]}
