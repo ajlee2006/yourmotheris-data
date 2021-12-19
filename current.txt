@@ -1,1 +1,1 @@
-{"data": ["2021-12-19T11:02:37.842328+00:00", 4177, "Your mother is", "plenteous", "Pronunciation: /\u02c8pl\u025bnti\u0259s/", "Definition: affording an abundant supply", "Synonyms: ample, copious, plentiful, rich"]}
+{"data": ["2021-12-19T12:02:32.060675+00:00", 4178, "Your mother is", "consuming", "Pronunciation: /k\u028cn\u02c8sum\u026a\u014b/", "Definition: very strong; urgently felt", "Synonyms: overwhelming"]}
