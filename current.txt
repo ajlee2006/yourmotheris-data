@@ -1,1 +1,1 @@
-{"data": ["2021-12-19T07:03:07.305074+00:00", 4173, "Your mother is", "chukker-brown", "Similar to: chromatic", "Definition: snuff colored; of a greyish to yellowish brown", "Synonyms: mummy-brown, snuff, snuff-brown"]}
+{"data": ["2021-12-19T08:02:49.206970+00:00", 4174, "Your mother is", "assonant", "Similar to: same", "Definition: having the same sound (especially the same vowel sound) occurring in successive stressed syllables", ""]}
