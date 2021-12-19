@@ -1,1 +1,1 @@
-{"data": ["2021-12-19T17:01:02.238131+00:00", 4183, "Your mother is", "bonzer", "Pronunciation: /\u02c8b\u0251nz\u0259r/", "Definition: remarkable or wonderful", ""]}
+{"data": ["2021-12-19T18:01:50.136510+00:00", 4184, "Your mother is", "binary", "Pronunciation: /\u02c8ba\u026an\u0259ri/", "Definition: consisting of two (units or components or elements or terms)", ""]}
