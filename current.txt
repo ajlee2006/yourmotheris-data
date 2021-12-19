@@ -1,1 +1,1 @@
-{"data": ["2021-12-19T00:02:33.301669+00:00", 4166, "Your mother is", "timeworn", "Pronunciation: /\u02c8ta\u026am\u02ccwo\u028arn/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, tired, trite, well-worn"]}
+{"data": ["2021-12-19T01:02:21.423182+00:00", 4167, "Your mother is", "revolved", "Pronunciation: /ri\u02c8v\u0251lvd/", "Definition: turned in a circle around an axis", "Synonyms: rotated"]}
