@@ -1,1 +1,1 @@
-{"data": ["2021-12-19T16:00:36.164922+00:00", 4182, "Your mother is", "smelling", "Pronunciation: /\u02c8sm\u025bl\u026a\u014b/", "Definition: (used with `of' or `with') noticeably odorous", "Synonyms: redolent"]}
+{"data": ["2021-12-19T17:01:02.238131+00:00", 4183, "Your mother is", "bonzer", "Pronunciation: /\u02c8b\u0251nz\u0259r/", "Definition: remarkable or wonderful", ""]}
