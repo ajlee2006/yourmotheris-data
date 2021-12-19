@@ -1,1 +1,1 @@
-{"data": ["2021-12-19T22:00:49.964631+00:00", 4188, "Your mother is", "inflatable", "Pronunciation: /\u026an\u02c8fle\u026at\u0259b\u0259l/", "Definition: designed to be filled with air or gas", ""]}
+{"data": ["2021-12-19T23:01:39.235444+00:00", 4189, "Your mother is", "corrosive", "Pronunciation: /k\u0259\u02c8ro\u028as\u026av/", "Definition: of a substance, especially a strong acid; capable of destroying or eating away by chemical action", "Synonyms: caustic, erosive, mordant, vitriolic"]}
