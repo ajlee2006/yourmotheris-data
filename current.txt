@@ -1,1 +1,1 @@
-{"data": ["2021-12-18T23:00:25.742308+00:00", 4165, "Your mother is", "softheaded", "Similar to: impractical", "Definition: foolish; totally unsound", "Synonyms: crazy, half-baked, screwball"]}
+{"data": ["2021-12-19T00:02:33.301669+00:00", 4166, "Your mother is", "timeworn", "Pronunciation: /\u02c8ta\u026am\u02ccwo\u028arn/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, tired, trite, well-worn"]}
