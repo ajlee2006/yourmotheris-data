@@ -1,1 +1,1 @@
-{"data": ["2021-12-20T10:01:27.174079+00:00", 4200, "Your mother is", "boracic", "Pronunciation: /b\u0259\u02c8r\u00e6s\u026ak/", "Definition: of or relating to or derived from or containing boron", "Synonyms: boric"]}
+{"data": ["2021-12-20T11:02:13.784780+00:00", 4201, "Your mother is", "churned-up", "Similar to: agitated", "Definition: moving with or producing or produced by vigorous agitation", "Synonyms: churning"]}
