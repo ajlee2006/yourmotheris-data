@@ -1,1 +1,1 @@
-{"data": ["2021-12-20T13:00:59.202190+00:00", 4203, "Your mother is", "eclectic", "Pronunciation: /\u026a\u02c8kl\u025bkt\u026ak/", "Definition: selecting what seems best of various styles or ideas", ""]}
+{"data": ["2021-12-20T14:02:16.211776+00:00", 4204, "Your mother is", "bracing", "Pronunciation: /\u02c8bre\u026as\u026a\u014b/", "Definition: imparting vitality and energy", "Synonyms: brisk, fresh, refreshful, refreshing, tonic"]}
