@@ -1,1 +1,1 @@
-{"data": ["2021-12-20T09:01:16.114747+00:00", 4199, "Your mother is", "uninfected", "Pronunciation: /\u02cc\u0259n\u026an\u02c8f\u025bkt\u026ad/", "Definition: free from sepsis or infection", "Synonyms: clean"]}
+{"data": ["2021-12-20T10:01:27.174079+00:00", 4200, "Your mother is", "boracic", "Pronunciation: /b\u0259\u02c8r\u00e6s\u026ak/", "Definition: of or relating to or derived from or containing boron", "Synonyms: boric"]}
