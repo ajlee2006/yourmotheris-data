@@ -1,1 +1,1 @@
-{"data": ["2021-12-20T00:02:47.421079+00:00", 4190, "Your mother is", "bounden", "Pronunciation: /\u02c8ba\u028and\u0259n/", "Definition: morally obligatory", ""]}
+{"data": ["2021-12-20T01:01:46.468633+00:00", 4191, "Your mother is", "prototypical", "Pronunciation: /\u02ccpro\u028at\u0259\u02c8t\u026ap\u026ak\u0259l/", "Definition: representing or constituting an original type after which other similar things are patterned", "Synonyms: archetypal, archetypical, prototypal, prototypic"]}
