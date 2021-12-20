@@ -1,1 +1,1 @@
-{"data": ["2021-12-20T20:01:52.497555+00:00", 4210, "Your mother is", "unexacting", "Pronunciation: /\u02cc\u0259n\u026a\u0261\u02c8z\u00e6kt\u026a\u014b/", "Definition: not rigorous", ""]}
+{"data": ["2021-12-20T21:02:11.230558+00:00", 4211, "Your mother is", "collectivized", "Pronunciation: /k\u028c\u02c8l\u025bkt\u026a\u02ccva\u026azd/", "Definition: subscribing to the socialistic doctrine of ownership by the people collectively", "Synonyms: collectivised, collectivist, collectivistic, state-controlled"]}
