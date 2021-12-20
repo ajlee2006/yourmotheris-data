@@ -1,1 +1,1 @@
-{"data": ["2021-12-20T14:02:16.211776+00:00", 4204, "Your mother is", "bracing", "Pronunciation: /\u02c8bre\u026as\u026a\u014b/", "Definition: imparting vitality and energy", "Synonyms: brisk, fresh, refreshful, refreshing, tonic"]}
+{"data": ["2021-12-20T15:02:31.436509+00:00", 4205, "Your mother is", "symptomless", "Pronunciation: /\u02c8s\u026ampt\u0259ml\u026as/", "Definition: having no symptoms of illness or disease", "Synonyms: asymptomatic"]}
