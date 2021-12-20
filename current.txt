@@ -1,1 +1,1 @@
-{"data": ["2021-12-20T04:01:40.904183+00:00", 4194, "Your mother is", "parheliacal", "Pronunciation: /\u02ccp\u0251rh\u026a\u02c8la\u026a\u0259k\u0259l/", "Definition: relating to or resembling a parhelion", "Synonyms: parhelic"]}
+{"data": ["2021-12-20T05:02:19.569562+00:00", 4195, "Your mother is", "agoraphobic", "Similar to: afraid", "Definition: suffering from agoraphobia; abnormally afraid of open or public places", ""]}
