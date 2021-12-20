@@ -1,1 +1,1 @@
-{"data": ["2021-12-20T12:02:07.812664+00:00", 4202, "Your mother is", "analogical", "Pronunciation: /\u02cc\u00e6n\u02c8\u0259l\u0251d\u0292\u026ak\u0259l/", "Definition: expressing, composed of, or based on an analogy", ""]}
+{"data": ["2021-12-20T13:00:59.202190+00:00", 4203, "Your mother is", "eclectic", "Pronunciation: /\u026a\u02c8kl\u025bkt\u026ak/", "Definition: selecting what seems best of various styles or ideas", ""]}
