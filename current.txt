@@ -1,1 +1,1 @@
-{"data": ["2021-12-20T08:01:21.816740+00:00", 4198, "Your mother is", "overhand", "Pronunciation: /\u02c8o\u028av\u0259r\u02cch\u00e6nd/", "Definition: with hand brought forward and down from above shoulder level", "Synonyms: overarm, overhanded"]}
+{"data": ["2021-12-20T09:01:16.114747+00:00", 4199, "Your mother is", "uninfected", "Pronunciation: /\u02cc\u0259n\u026an\u02c8f\u025bkt\u026ad/", "Definition: free from sepsis or infection", "Synonyms: clean"]}
