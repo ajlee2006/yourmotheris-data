@@ -1,1 +1,1 @@
-{"data": ["2021-12-19T23:01:39.235444+00:00", 4189, "Your mother is", "corrosive", "Pronunciation: /k\u0259\u02c8ro\u028as\u026av/", "Definition: of a substance, especially a strong acid; capable of destroying or eating away by chemical action", "Synonyms: caustic, erosive, mordant, vitriolic"]}
+{"data": ["2021-12-20T00:02:47.421079+00:00", 4190, "Your mother is", "bounden", "Pronunciation: /\u02c8ba\u028and\u0259n/", "Definition: morally obligatory", ""]}
