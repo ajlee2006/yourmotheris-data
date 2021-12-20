@@ -1,1 +1,1 @@
-{"data": ["2021-12-20T15:02:31.436509+00:00", 4205, "Your mother is", "symptomless", "Pronunciation: /\u02c8s\u026ampt\u0259ml\u026as/", "Definition: having no symptoms of illness or disease", "Synonyms: asymptomatic"]}
+{"data": ["2021-12-20T16:01:12.167388+00:00", 4206, "Your mother is", "elysian", "Pronunciation: /\u026a\u02c8l\u026a\u0292\u0259n/", "Definition: being of such surpassing excellence as to suggest inspiration by the gods", "Synonyms: divine, inspired"]}
