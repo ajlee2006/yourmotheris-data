@@ -1,1 +1,1 @@
-{"data": ["2021-12-20T05:02:19.569562+00:00", 4195, "Your mother is", "agoraphobic", "Similar to: afraid", "Definition: suffering from agoraphobia; abnormally afraid of open or public places", ""]}
+{"data": ["2021-12-20T06:01:54.672141+00:00", 4196, "Your mother is", "tyrannical", "Pronunciation: /t\u026a\u02c8r\u00e6n\u026ak\u0259l/", "Definition: characteristic of an absolute ruler or absolute rule; having absolute sovereignty", "Synonyms: authoritarian, autocratic, despotic, dictatorial, tyrannic"]}
