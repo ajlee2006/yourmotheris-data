@@ -1,1 +1,1 @@
-{"data": ["2021-12-21T11:02:51.811647+00:00", 4225, "Your mother is", "retro", "Pronunciation: /\u02c8r\u025btro\u028a/", "Definition: affecting things past", "Synonyms: ex post facto, retroactive"]}
+{"data": ["2021-12-21T12:02:41.516193+00:00", 4226, "Your mother is", "box-shaped", "Pronunciation: /b\u0251ks-\u0283e\u026apt/", "Definition: resembling a box in rectangularity", "Synonyms: boxlike, boxy"]}
