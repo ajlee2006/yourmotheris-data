@@ -1,1 +1,1 @@
-{"data": ["2021-12-21T14:01:07.362915+00:00", 4228, "Your mother is", "purblind", "Pronunciation: /\u02c8p\u025cr\u02ccbla\u026and/", "Definition: lacking in insight or discernment", "Synonyms: obtuse"]}
+{"data": ["2021-12-21T15:01:15.036948+00:00", 4229, "Your mother is", "alterative", "Pronunciation: /\u02c8\u0254lt\u0259\u02ccre\u026at\u026av/", "Definition: tending to cure or restore to health", "Synonyms: curative, healing, remedial, sanative, therapeutic"]}
