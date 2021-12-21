@@ -1,1 +1,1 @@
-{"data": ["2021-12-21T13:00:34.027017+00:00", 4227, "Your mother is", "five", "Pronunciation: /fa\u026av/", "Definition: being one more than four", "Synonyms: 5, v"]}
+{"data": ["2021-12-21T14:01:07.362915+00:00", 4228, "Your mother is", "purblind", "Pronunciation: /\u02c8p\u025cr\u02ccbla\u026and/", "Definition: lacking in insight or discernment", "Synonyms: obtuse"]}
