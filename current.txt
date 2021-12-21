@@ -1,1 +1,1 @@
-{"data": ["2021-12-21T19:01:30.656787+00:00", 4233, "Your mother is", "mordacious", "Pronunciation: /mo\u028ar\u02c8de\u026a\u0283\u0259s/", "Definition: capable of wounding", "Synonyms: barbed, biting, nipping, pungent"]}
+{"data": ["2021-12-21T20:02:26.847986+00:00", 4234, "Your mother is", "on fire", "Similar to: lighted", "Definition: lighted up by or as by fire or flame", "Synonyms: ablaze, afire, aflame, aflare, alight"]}
