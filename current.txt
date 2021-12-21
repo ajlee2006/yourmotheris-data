@@ -1,1 +1,1 @@
-{"data": ["2021-12-21T04:01:27.426271+00:00", 4218, "Your mother is", "knotted", "Pronunciation: /\u02c8n\u0251t\u026ad/", "Definition: used of old persons or old trees; covered with knobs or knots", "Synonyms: gnarled, gnarly, knobbed, knotty"]}
+{"data": ["2021-12-21T05:02:40.139694+00:00", 4219, "Your mother is", "undeserving", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8z\u025crvi\u014b/", "Definition: not deserving", "Synonyms: unworthy"]}
