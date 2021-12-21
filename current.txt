@@ -1,1 +1,1 @@
-{"data": ["2021-12-21T05:02:40.139694+00:00", 4219, "Your mother is", "undeserving", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8z\u025crvi\u014b/", "Definition: not deserving", "Synonyms: unworthy"]}
+{"data": ["2021-12-21T06:00:29.110904+00:00", 4220, "Your mother is", "drunken", "Pronunciation: /\u02c8dr\u0259\u014bk\u0259n/", "Definition: given to or marked by the consumption of alcohol", "Synonyms: bibulous, boozy, sottish"]}
