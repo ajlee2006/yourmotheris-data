@@ -1,1 +1,1 @@
-{"data": ["2021-12-21T07:00:32.307249+00:00", 4221, "Your mother is", "erose", "Pronunciation: /\u026a\u02c8ro\u028as/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: jagged, jaggy, notched, toothed"]}
+{"data": ["2021-12-21T08:02:11.263150+00:00", 4222, "Your mother is", "multiplex", "Pronunciation: /\u02c8m\u0259lt\u0259\u02ccpl\u025bks/", "Definition: many and varied; having many features or forms", "Synonyms: manifold"]}
