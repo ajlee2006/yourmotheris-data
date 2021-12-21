@@ -1,1 +1,1 @@
-{"data": ["2021-12-21T18:00:22.703966+00:00", 4232, "Your mother is", "thirty-one", "Pronunciation: /\u02c8\u03b8\u025crti-w\u0259n/", "Definition: being one more than thirty", "Synonyms: 31, xxxi"]}
+{"data": ["2021-12-21T19:01:30.656787+00:00", 4233, "Your mother is", "mordacious", "Pronunciation: /mo\u028ar\u02c8de\u026a\u0283\u0259s/", "Definition: capable of wounding", "Synonyms: barbed, biting, nipping, pungent"]}
