@@ -1,1 +1,1 @@
-{"data": ["2021-12-21T12:02:41.516193+00:00", 4226, "Your mother is", "box-shaped", "Pronunciation: /b\u0251ks-\u0283e\u026apt/", "Definition: resembling a box in rectangularity", "Synonyms: boxlike, boxy"]}
+{"data": ["2021-12-21T13:00:34.027017+00:00", 4227, "Your mother is", "five", "Pronunciation: /fa\u026av/", "Definition: being one more than four", "Synonyms: 5, v"]}
