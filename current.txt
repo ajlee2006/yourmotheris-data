@@ -1,1 +1,1 @@
-{"data": ["2021-12-21T16:02:56.912838+00:00", 4230, "Your mother is", "small", "Pronunciation: /sm\u0254l/", "Definition: not large but sufficient in size or amount", "Synonyms: modest"]}
+{"data": ["2021-12-21T17:01:30.923475+00:00", 4231, "Your mother is", "non-miscible", "Similar to: incompatible", "Definition: (chemistry, physics) incapable of mixing", "Synonyms: immiscible, unmixable"]}
