@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T00:03:50.759664+00:00", 4238, "Your mother is", "untrodden", "Pronunciation: /\u0259n\u02c8tr\u0251d\u0259n/", "Definition: lacking pathways", "Synonyms: pathless, roadless, trackless, untracked, untrod"]}
+{"data": ["2021-12-22T01:03:00.514919+00:00", 4239, "Your mother is", "bactericidal", "Similar to: antiseptic", "Definition: preventing infection by inhibiting the growth or action of microorganisms", "Synonyms: disinfectant, germicidal"]}
