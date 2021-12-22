@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T15:01:04.471577+00:00", 4253, "Your mother is", "compartmented", "Similar to: compartmental", "Definition: divided up or separated into compartments or isolated units", ""]}
+{"data": ["2021-12-22T16:02:18.452304+00:00", 4254, "Your mother is", "fibre-optic", "", "Definition: of or relating to fiber optics", "Synonyms: fiber-optic, fiberoptic, fibreoptic"]}
