@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T09:02:53.039404+00:00", 4247, "Your mother is", "diverging", "Pronunciation: /da\u026a\u02c8v\u025drd\u0292\u026a\u014b/", "Definition: tending to move apart in different directions", "Synonyms: divergent"]}
+{"data": ["2021-12-22T10:00:43.051039+00:00", 4248, "Your mother is", "dark-gray", "Pronunciation: /d\u0251rk-gre\u026a/", "Definition: of a dark shade of grey", "Synonyms: dark-grey, oxford-gray, oxford-grey"]}
