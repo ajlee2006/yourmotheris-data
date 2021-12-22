@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T01:03:00.514919+00:00", 4239, "Your mother is", "bactericidal", "Similar to: antiseptic", "Definition: preventing infection by inhibiting the growth or action of microorganisms", "Synonyms: disinfectant, germicidal"]}
+{"data": ["2021-12-22T02:01:36.750572+00:00", 4240, "Your mother is", "button-down", "Pronunciation: /\u02c8b\u0259t\u0259n-da\u028an/", "Definition: unimaginatively conventional", "Synonyms: buttoned-down, conservative"]}
