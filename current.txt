@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T08:01:46.364402+00:00", 4246, "Your mother is", "schematic", "Pronunciation: /ski\u02c8m\u00e6t\u026ak/", "Definition: represented in simplified or symbolic form", "Synonyms: conventional, formal"]}
+{"data": ["2021-12-22T09:02:53.039404+00:00", 4247, "Your mother is", "diverging", "Pronunciation: /da\u026a\u02c8v\u025drd\u0292\u026a\u014b/", "Definition: tending to move apart in different directions", "Synonyms: divergent"]}
