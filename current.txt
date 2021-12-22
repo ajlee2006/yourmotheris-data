@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T10:00:43.051039+00:00", 4248, "Your mother is", "dark-gray", "Pronunciation: /d\u0251rk-gre\u026a/", "Definition: of a dark shade of grey", "Synonyms: dark-grey, oxford-gray, oxford-grey"]}
+{"data": ["2021-12-22T11:01:19.751063+00:00", 4249, "Your mother is", "tip-tilted", "Similar to: shapely", "Definition: (used of noses) turned up at the end", "Synonyms: retrousse, upturned"]}
