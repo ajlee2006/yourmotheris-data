@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T12:00:42.331418+00:00", 4250, "Your mother is", "pernickety", "Pronunciation: /p\u0259r\u02c8n\u026ak\u026ati/", "Definition: characterized by excessive precision and attention to trivial details", "Synonyms: persnickety"]}
+{"data": ["2021-12-22T13:08:11.752778+00:00", 4251, "Your mother is", "retaliatory", "Pronunciation: /r\u026a\u02c8t\u00e6li\u0259\u02ccto\u028ari/", "Definition: of or relating to or having the nature of retribution", "Synonyms: retaliative, retributive, retributory, vindicatory"]}
