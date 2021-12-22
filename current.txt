@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T04:02:20.448929+00:00", 4242, "Your mother is", "barbarous", "Pronunciation: /\u02c8b\u0251rb\u0259r\u0259s/", "Definition: (of persons or their actions) able or disposed to inflict pain or suffering", "Synonyms: brutal, cruel, fell, roughshod, savage, vicious"]}
+{"data": ["2021-12-22T05:01:30.482644+00:00", 4243, "Your mother is", "98", "Similar to: cardinal", "Definition: being eight more than ninety", "Synonyms: ninety-eight, xcviii"]}
