@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T06:02:11.745264+00:00", 4244, "Your mother is", "coercive", "Pronunciation: /ko\u028a\u02c8\u025crs\u026av/", "Definition: serving or intended to coerce", ""]}
+{"data": ["2021-12-22T07:02:35.636754+00:00", 4245, "Your mother is", "slashed", "Pronunciation: /sl\u00e6\u0283t/", "Definition: (used of rates or prices) reduced usually sharply", "Synonyms: cut"]}
