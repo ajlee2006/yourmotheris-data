@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T20:01:54.525471+00:00", 4258, "Your mother is", "cool", "Pronunciation: /kul/", "Definition: marked by calm self-control (especially in trying circumstances); unemotional", "Synonyms: coolheaded, nerveless"]}
+{"data": ["2021-12-22T21:00:46.313258+00:00", 4259, "Your mother is", "hot-blooded", "Pronunciation: /\u02c8h\u0251t\u02c8bl\u0259d\u026ad/", "Definition: prone to emotion", ""]}
