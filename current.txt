@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T17:00:45.993735+00:00", 4255, "Your mother is", "proper", "Pronunciation: /\u02c8pr\u0251p\u0259r/", "Definition: appropriate for a condition or purpose or occasion or a person's character, needs", "Synonyms: right"]}
+{"data": ["2021-12-22T18:01:07.030875+00:00", 4256, "Your mother is", "bloody-minded", "Similar to: obstinate", "Definition: stubbornly obstructive and unwilling to cooperate", "Synonyms: cantankerous"]}
