@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T19:02:53.223646+00:00", 4257, "Your mother is", "day-to-day", "Pronunciation: /\u02c8de\u026at\u0259\u02c8de\u026a/", "Definition: of or belonging to or occurring every day", "Synonyms: daily, day-after-day, day-by-day"]}
+{"data": ["2021-12-22T20:01:54.525471+00:00", 4258, "Your mother is", "cool", "Pronunciation: /kul/", "Definition: marked by calm self-control (especially in trying circumstances); unemotional", "Synonyms: coolheaded, nerveless"]}
