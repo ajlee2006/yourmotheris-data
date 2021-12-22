@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T13:08:11.752778+00:00", 4251, "Your mother is", "retaliatory", "Pronunciation: /r\u026a\u02c8t\u00e6li\u0259\u02ccto\u028ari/", "Definition: of or relating to or having the nature of retribution", "Synonyms: retaliative, retributive, retributory, vindicatory"]}
+{"data": ["2021-12-22T14:00:24.327356+00:00", 4252, "Your mother is", "congeneric", "Pronunciation: /\u02cck\u0251nd\u0292\u0259\u02c8n\u025br\u026ak/", "Definition: belonging to the same genus", "Synonyms: congenerical, congenerous"]}
