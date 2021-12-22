@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T03:03:00.902329+00:00", 4241, "Your mother is", "blackish-grey", "Similar to: achromatic", "Definition: of dark grey", "Synonyms: black-gray, black-grey, blackish-gray"]}
+{"data": ["2021-12-22T04:02:20.448929+00:00", 4242, "Your mother is", "barbarous", "Pronunciation: /\u02c8b\u0251rb\u0259r\u0259s/", "Definition: (of persons or their actions) able or disposed to inflict pain or suffering", "Synonyms: brutal, cruel, fell, roughshod, savage, vicious"]}
