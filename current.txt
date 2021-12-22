@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T16:02:18.452304+00:00", 4254, "Your mother is", "fibre-optic", "", "Definition: of or relating to fiber optics", "Synonyms: fiber-optic, fiberoptic, fibreoptic"]}
+{"data": ["2021-12-22T17:00:45.993735+00:00", 4255, "Your mother is", "proper", "Pronunciation: /\u02c8pr\u0251p\u0259r/", "Definition: appropriate for a condition or purpose or occasion or a person's character, needs", "Synonyms: right"]}
