@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T14:00:24.327356+00:00", 4252, "Your mother is", "congeneric", "Pronunciation: /\u02cck\u0251nd\u0292\u0259\u02c8n\u025br\u026ak/", "Definition: belonging to the same genus", "Synonyms: congenerical, congenerous"]}
+{"data": ["2021-12-22T15:01:04.471577+00:00", 4253, "Your mother is", "compartmented", "Similar to: compartmental", "Definition: divided up or separated into compartments or isolated units", ""]}
