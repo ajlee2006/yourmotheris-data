@@ -1,1 +1,1 @@
-{"data": ["2021-12-23T12:01:07.298290+00:00", 4274, "Your mother is", "unsown", "Pronunciation: /\u0259n\u02c8so\u028an/", "Definition: (of a piece of ground) not have a crop sown on it", "Synonyms: unseeded"]}
+{"data": ["2021-12-23T13:00:16.290393+00:00", 4275, "Your mother is", "reflex", "Pronunciation: /r\u026a\u02c8fl\u025bks/", "Definition: without volition or conscious control", "Synonyms: automatic, reflexive"]}
