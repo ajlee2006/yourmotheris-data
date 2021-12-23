@@ -1,1 +1,1 @@
-{"data": ["2021-12-23T10:01:34.606119+00:00", 4272, "Your mother is", "anfractuous", "Pronunciation: /\u00e6n\u02c8fr\u00e6k\u02a7u\u0259s/", "Definition: full of twists and turns", ""]}
+{"data": ["2021-12-23T11:01:23.018338+00:00", 4273, "Your mother is", "verified", "Pronunciation: /\u02c8v\u025br\u0259\u02ccfa\u026ad/", "Definition: proved to be true", ""]}
