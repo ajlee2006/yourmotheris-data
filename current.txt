@@ -1,1 +1,1 @@
-{"data": ["2021-12-23T11:01:23.018338+00:00", 4273, "Your mother is", "verified", "Pronunciation: /\u02c8v\u025br\u0259\u02ccfa\u026ad/", "Definition: proved to be true", ""]}
+{"data": ["2021-12-23T12:01:07.298290+00:00", 4274, "Your mother is", "unsown", "Pronunciation: /\u0259n\u02c8so\u028an/", "Definition: (of a piece of ground) not have a crop sown on it", "Synonyms: unseeded"]}
