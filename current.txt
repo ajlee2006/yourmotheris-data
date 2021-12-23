@@ -1,1 +1,1 @@
-{"data": ["2021-12-23T06:01:51.687689+00:00", 4268, "Your mother is", "unwilling", "Pronunciation: /\u0259n\u02c8w\u026al\u026a\u014b/", "Definition: in spite of contrary volition", ""]}
+{"data": ["2021-12-23T07:02:47.211052+00:00", 4269, "Your mother is", "thirsty", "Pronunciation: /\u02c8\u03b8\u025crsti/", "Definition: (usually followed by `for') extremely desirous", "Synonyms: athirst, hungry"]}
