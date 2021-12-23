@@ -1,1 +1,1 @@
-{"data": ["2021-12-22T23:00:15.123856+00:00", 4261, "Your mother is", "malicious", "Pronunciation: /m\u0259\u02c8l\u026a\u0283\u0259s/", "Definition: having the nature of or resulting from malice", ""]}
+{"data": ["2021-12-23T00:02:34.632486+00:00", 4262, "Your mother is", "missional", "", "Definition: relating to or connected to a religious mission", "Synonyms: missionary"]}
