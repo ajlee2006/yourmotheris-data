@@ -1,1 +1,1 @@
-{"data": ["2021-12-23T13:00:16.290393+00:00", 4275, "Your mother is", "reflex", "Pronunciation: /r\u026a\u02c8fl\u025bks/", "Definition: without volition or conscious control", "Synonyms: automatic, reflexive"]}
+{"data": ["2021-12-23T14:01:03.479630+00:00", 4276, "Your mother is", "scowling", "Pronunciation: /\u02c8ska\u028al\u026a\u014b/", "Definition: sullen or unfriendly in appearance", "Synonyms: beetle-browed"]}
