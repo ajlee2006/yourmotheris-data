@@ -1,1 +1,1 @@
-{"data": ["2021-12-23T21:02:34.583627+00:00", 4283, "Your mother is", "westbound", "Pronunciation: /\u02c8w\u025bst\u02ccba\u028and/", "Definition: moving toward the west", "Synonyms: westerly, westward"]}
+{"data": ["2021-12-23T22:01:55.126268+00:00", 4284, "Your mother is", "freckled", "Pronunciation: /\u02c8fr\u025bk\u028cld/", "Definition: relating to or covered with or resembling freckles", "Synonyms: lentiginose, lentiginous"]}
