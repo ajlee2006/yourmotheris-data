@@ -1,1 +1,1 @@
-{"data": ["2021-12-23T09:02:52.003052+00:00", 4271, "Your mother is", "polished", "Pronunciation: /\u02c8p\u0251l\u026a\u0283t/", "Definition: (of grains especially rice) having the husk or outer layers removed", "Synonyms: milled"]}
+{"data": ["2021-12-23T10:01:34.606119+00:00", 4272, "Your mother is", "anfractuous", "Pronunciation: /\u00e6n\u02c8fr\u00e6k\u02a7u\u0259s/", "Definition: full of twists and turns", ""]}
