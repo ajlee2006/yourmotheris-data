@@ -1,1 +1,1 @@
-{"data": ["2021-12-23T17:01:57.723433+00:00", 4279, "Your mother is", "thickset", "Pronunciation: /\u02c8\u03b8\u026ak\u02c8s\u025bt/", "Definition: having a short and solid form or stature", "Synonyms: compact, heavyset, stocky, thick"]}
+{"data": ["2021-12-23T18:00:49.662265+00:00", 4280, "Your mother is", "predisposed", "Pronunciation: /\u02ccprid\u026a\u02c8spo\u028azd/", "Definition: made susceptible", ""]}
