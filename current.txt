@@ -1,1 +1,1 @@
-{"data": ["2021-12-23T07:02:47.211052+00:00", 4269, "Your mother is", "thirsty", "Pronunciation: /\u02c8\u03b8\u025crsti/", "Definition: (usually followed by `for') extremely desirous", "Synonyms: athirst, hungry"]}
+{"data": ["2021-12-23T08:02:22.944464+00:00", 4270, "Your mother is", "venerable", "Pronunciation: /\u02c8v\u025bn\u0259r\u0259b\u0259l/", "Definition: profoundly honored", "Synonyms: august, revered"]}
