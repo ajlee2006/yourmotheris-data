@@ -1,1 +1,1 @@
-{"data": ["2021-12-23T14:01:03.479630+00:00", 4276, "Your mother is", "scowling", "Pronunciation: /\u02c8ska\u028al\u026a\u014b/", "Definition: sullen or unfriendly in appearance", "Synonyms: beetle-browed"]}
+{"data": ["2021-12-23T15:01:08.621912+00:00", 4277, "Your mother is", "intransitive", "Pronunciation: /\u026an\u02c8tr\u00e6ns\u026at\u026av/", "Definition: designating a verb that does not require or cannot take a direct object", ""]}
