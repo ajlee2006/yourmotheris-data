@@ -1,1 +1,1 @@
-{"data": ["2021-12-23T20:01:59.501743+00:00", 4282, "Your mother is", "overawed", "Similar to: awed", "Definition: overcome by a feeling of awe", ""]}
+{"data": ["2021-12-23T21:02:34.583627+00:00", 4283, "Your mother is", "westbound", "Pronunciation: /\u02c8w\u025bst\u02ccba\u028and/", "Definition: moving toward the west", "Synonyms: westerly, westward"]}
