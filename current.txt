@@ -1,1 +1,1 @@
-{"data": ["2021-12-23T02:03:00.173104+00:00", 4264, "Your mother is", "drawn", "Pronunciation: /dr\u0254n/", "Definition: showing the wearing effects of overwork or care or suffering", "Synonyms: careworn, haggard, raddled, worn"]}
+{"data": ["2021-12-23T03:01:38.315201+00:00", 4265, "Your mother is", "nethermost", "Pronunciation: /\u02c8n\u025b\u00f0\u0259r\u02ccmo\u028ast/", "Definition: farthest down", "Synonyms: bottommost, lowermost"]}
