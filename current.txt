@@ -1,1 +1,1 @@
-{"data": ["2021-12-23T22:01:55.126268+00:00", 4284, "Your mother is", "freckled", "Pronunciation: /\u02c8fr\u025bk\u028cld/", "Definition: relating to or covered with or resembling freckles", "Synonyms: lentiginose, lentiginous"]}
+{"data": ["2021-12-23T23:00:19.279949+00:00", 4285, "Your mother is", "abrupt", "Pronunciation: /\u0259\u02c8br\u0259pt/", "Definition: marked by sudden changes in subject and sharp transitions", "Synonyms: disconnected"]}
