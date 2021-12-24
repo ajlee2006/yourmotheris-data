@@ -1,1 +1,1 @@
-{"data": ["2021-12-24T20:01:12.429906+00:00", 4306, "Your mother is", "untraveled", "Pronunciation: /\u0259n\u02c8tr\u00e6v\u0259ld/", "Definition: not having traveled much, especially to foreign lands; not having gained experience by travel", "Synonyms: untravelled"]}
+{"data": ["2021-12-24T21:01:12.857396+00:00", 4307, "Your mother is", "donnean", "", "Definition: of or relating to or in the manner of John Donne", "Synonyms: donnian"]}
