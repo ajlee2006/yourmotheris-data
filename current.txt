@@ -1,1 +1,1 @@
-{"data": ["2021-12-24T18:00:51.977677+00:00", 4304, "Your mother is", "sulfurous", "Pronunciation: /\u02c8s\u0259lf\u0259r\u0259s/", "Definition: characterized by oppressive heat and humidity", "Synonyms: stifling, sulphurous, sultry"]}
+{"data": ["2021-12-24T19:01:35.640556+00:00", 4305, "Your mother is", "thirsty", "Pronunciation: /\u02c8\u03b8\u025crsti/", "Definition: (usually followed by `for') extremely desirous", "Synonyms: athirst, hungry"]}
