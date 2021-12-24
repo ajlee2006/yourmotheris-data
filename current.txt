@@ -1,1 +1,1 @@
-{"data": ["2021-12-24T12:01:59.934824+00:00", 4298, "Your mother is", "weather-stripped", "Similar to: caulked", "Definition: having cracks blocked with weather stripping", ""]}
+{"data": ["2021-12-24T13:01:08.977427+00:00", 4299, "Your mother is", "threefold", "Pronunciation: /\u02c8\u03b8ri\u02ccfo\u028ald/", "Definition: having more than one decidedly dissimilar aspects or qualities", "Synonyms: double, dual, three-fold, treble, two-fold, twofold"]}
