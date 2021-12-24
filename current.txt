@@ -1,1 +1,1 @@
-{"data": ["2021-12-24T07:01:12.990394+00:00", 4293, "Your mother is", "gaseous", "Pronunciation: /\u02c8\u0261\u00e6si\u0259s/", "Definition: existing as or having characteristics of a gas", ""]}
+{"data": ["2021-12-24T08:02:45.297335+00:00", 4294, "Your mother is", "gratis", "Pronunciation: /\u02c8gr\u00e6t\u026as/", "Definition: costing nothing", "Synonyms: complimentary, costless, free, gratuitous"]}
