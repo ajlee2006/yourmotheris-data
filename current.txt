@@ -1,1 +1,1 @@
-{"data": ["2021-12-24T02:01:06.669927+00:00", 4288, "Your mother is", "dutiable", "Pronunciation: /\u02c8duti\u0259b\u0259l/", "Definition: subject to import tax", ""]}
+{"data": ["2021-12-24T03:01:33.448177+00:00", 4289, "Your mother is", "pliant", "Pronunciation: /\u02c8pla\u026a\u0259nt/", "Definition: able to adjust readily to different conditions", "Synonyms: elastic, flexible, pliable"]}
