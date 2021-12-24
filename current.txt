@@ -1,1 +1,1 @@
-{"data": ["2021-12-24T14:01:00.061462+00:00", 4300, "Your mother is", "improvident", "Pronunciation: /\u026am\u02c8pr\u0251v\u026ad\u0259nt/", "Definition: not given careful consideration", "Synonyms: ill-considered, ill-judged, shortsighted"]}
+{"data": ["2021-12-24T15:00:30.763011+00:00", 4301, "Your mother is", "lonesome", "Pronunciation: /\u02c8lo\u028ans\u0259m/", "Definition: marked by dejection from being alone", "Synonyms: lonely"]}
