@@ -1,1 +1,1 @@
-{"data": ["2021-12-24T04:02:01.349963+00:00", 4290, "Your mother is", "bicentennial", "Pronunciation: /\u02ccba\u026as\u025bn\u02c8t\u025bni\u0259l/", "Definition: of or relating to or completing a period of 200 years", "Synonyms: bicentenary"]}
+{"data": ["2021-12-24T05:02:09.150215+00:00", 4291, "Your mother is", "tightlipped", "Similar to: incommunicative", "Definition: inclined to secrecy or reticence about divulging information", "Synonyms: close, closelipped, closemouthed, secretive"]}
