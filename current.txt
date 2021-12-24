@@ -1,1 +1,1 @@
-{"data": ["2021-12-23T23:00:19.279949+00:00", 4285, "Your mother is", "abrupt", "Pronunciation: /\u0259\u02c8br\u0259pt/", "Definition: marked by sudden changes in subject and sharp transitions", "Synonyms: disconnected"]}
+{"data": ["2021-12-24T00:01:13.855722+00:00", 4286, "Your mother is", "epicyclic", "Pronunciation: /\u02cc\u025bp\u026a\u02c8sa\u026akl\u026ak/", "Definition: of or relating to an epicycle", "Synonyms: epicyclical"]}
