@@ -1,1 +1,1 @@
-{"data": ["2021-12-25T19:02:28.113356+00:00", 4329, "Your mother is", "paraplegic", "Pronunciation: /\u02ccp\u00e6r\u0259\u02c8plid\u0292\u026ak/", "Definition: suffering complete paralysis of the lower half of the body usually resulting from damage to the spinal cord", ""]}
+{"data": ["2021-12-25T20:01:35.558641+00:00", 4330, "Your mother is", "coy", "Pronunciation: /k\u0254\u026a/", "Definition: affectedly modest or shy especially in a playful or provocative way", "Synonyms: demure, overmodest"]}
