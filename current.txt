@@ -1,1 +1,1 @@
-{"data": ["2021-12-25T06:01:41.194255+00:00", 4316, "Your mother is", "axiomatical", "", "Definition: of or relating to or derived from axioms", "Synonyms: axiomatic, postulational"]}
+{"data": ["2021-12-25T07:02:14.660746+00:00", 4317, "Your mother is", "pictural", "", "Definition: pertaining to or consisting of pictures", "Synonyms: pictorial"]}
