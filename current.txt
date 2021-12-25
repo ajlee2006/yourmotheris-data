@@ -1,1 +1,1 @@
-{"data": ["2021-12-25T10:01:04.694510+00:00", 4320, "Your mother is", "undiagnosed", "Pronunciation: /\u0259n\u02c8da\u026a\u0259\u0261\u02ccno\u028azd/", "Definition: eluding diagnosis", ""]}
+{"data": ["2021-12-25T11:02:26.328704+00:00", 4321, "Your mother is", "dominant", "Pronunciation: /\u02c8d\u0251m\u0259n\u0259nt/", "Definition: most frequent or common", "Synonyms: predominant, prevailing, prevalent, rife"]}
