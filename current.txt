@@ -1,1 +1,1 @@
-{"data": ["2021-12-25T16:03:07.565875+00:00", 4326, "Your mother is", "crispy", "Pronunciation: /\u02c8kr\u026aspi/", "Definition: tender and brittle", "Synonyms: crisp"]}
+{"data": ["2021-12-25T17:00:32.320682+00:00", 4327, "Your mother is", "gargantuan", "Pronunciation: /\u0261\u0251r\u02c8\u0261\u00e6n\u02a7u\u0259n/", "Definition: of great mass; huge and bulky", "Synonyms: elephantine, giant, jumbo"]}
