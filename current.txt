@@ -1,1 +1,1 @@
-{"data": ["2021-12-25T18:01:04.100075+00:00", 4328, "Your mother is", "highfalutin", "Pronunciation: /\u02ccha\u026af\u0259\u02c8lut\u0259n/", "Definition: affectedly genteel", "Synonyms: grandiose, hifalutin, highfaluting, hoity-toity, la-di-da"]}
+{"data": ["2021-12-25T19:02:28.113356+00:00", 4329, "Your mother is", "paraplegic", "Pronunciation: /\u02ccp\u00e6r\u0259\u02c8plid\u0292\u026ak/", "Definition: suffering complete paralysis of the lower half of the body usually resulting from damage to the spinal cord", ""]}
