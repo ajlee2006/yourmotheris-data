@@ -1,1 +1,1 @@
-{"data": ["2021-12-25T12:02:08.233553+00:00", 4322, "Your mother is", "undiversified", "Pronunciation: /\u02cc\u028cnd\u026a\u02c8v\u025drs\u026a\u02ccfa\u026ad/", "Definition: not diversified", ""]}
+{"data": ["2021-12-25T13:01:24.386483+00:00", 4323, "Your mother is", "free-flying", "Similar to: aerial", "Definition: able to fly through the air (as a bird)", ""]}
