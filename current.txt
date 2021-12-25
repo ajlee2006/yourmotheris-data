@@ -1,1 +1,1 @@
-{"data": ["2021-12-25T14:02:29.251668+00:00", 4324, "Your mother is", "grapey", "Pronunciation: /\u02c8gre\u026api/", "Definition: having a taste like that of grapes", "Synonyms: grapy"]}
+{"data": ["2021-12-25T15:02:24.405507+00:00", 4325, "Your mother is", "bigheaded", "Similar to: proud", "Definition: (used colloquially) overly conceited or arrogant", "Synonyms: persnickety, snooty, snot-nosed, snotty, stuck-up, too big for one's breeches, uppish"]}
