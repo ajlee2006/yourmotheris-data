@@ -1,1 +1,1 @@
-{"data": ["2021-12-25T09:00:54.370299+00:00", 4319, "Your mother is", "fraught", "Pronunciation: /fr\u0254t/", "Definition: filled with or attended with", "Synonyms: pregnant"]}
+{"data": ["2021-12-25T10:01:04.694510+00:00", 4320, "Your mother is", "undiagnosed", "Pronunciation: /\u0259n\u02c8da\u026a\u0259\u0261\u02ccno\u028azd/", "Definition: eluding diagnosis", ""]}
