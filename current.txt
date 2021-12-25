@@ -1,1 +1,1 @@
-{"data": ["2021-12-25T17:00:32.320682+00:00", 4327, "Your mother is", "gargantuan", "Pronunciation: /\u0261\u0251r\u02c8\u0261\u00e6n\u02a7u\u0259n/", "Definition: of great mass; huge and bulky", "Synonyms: elephantine, giant, jumbo"]}
+{"data": ["2021-12-25T18:01:04.100075+00:00", 4328, "Your mother is", "highfalutin", "Pronunciation: /\u02ccha\u026af\u0259\u02c8lut\u0259n/", "Definition: affectedly genteel", "Synonyms: grandiose, hifalutin, highfaluting, hoity-toity, la-di-da"]}
