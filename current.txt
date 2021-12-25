@@ -1,1 +1,1 @@
-{"data": ["2021-12-24T23:01:15.126573+00:00", 4309, "Your mother is", "oversea", "Pronunciation: /\u02cco\u028av\u025dr\u02c8si/", "Definition: being or passing over or across the sea", "Synonyms: overseas"]}
+{"data": ["2021-12-25T00:02:34.618588+00:00", 4310, "Your mother is", "aeriform", "Pronunciation: /\u02c8\u025cr\u0259\u02ccf\u0254rm/", "Definition: resembling air or having the form of air", "Synonyms: airlike"]}
