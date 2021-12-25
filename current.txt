@@ -1,1 +1,1 @@
-{"data": ["2021-12-25T20:01:35.558641+00:00", 4330, "Your mother is", "coy", "Pronunciation: /k\u0254\u026a/", "Definition: affectedly modest or shy especially in a playful or provocative way", "Synonyms: demure, overmodest"]}
+{"data": ["2021-12-25T21:01:03.222266+00:00", 4331, "Your mother is", "undermentioned", "Pronunciation: /\u02cc\u0259nd\u0259\u02c8m\u025bn\u0283\u0259nd/", "Definition: about to be mentioned or specified", "Synonyms: following"]}
