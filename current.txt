@@ -1,1 +1,1 @@
-{"data": ["2021-12-26T22:00:31.107470+00:00", 4356, "Your mother is", "furred", "Pronunciation: /f\u025crd/", "Definition: covered with a dense coat of fine silky hairs", "Synonyms: furry"]}
+{"data": ["2021-12-26T23:02:10.734725+00:00", 4357, "Your mother is", "unprophetic", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8f\u025bt\u026ak/", "Definition: not prophetic; not foreseeing correctly", ""]}
