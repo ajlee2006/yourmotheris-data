@@ -1,1 +1,1 @@
-{"data": ["2021-12-26T15:01:34.324443+00:00", 4349, "Your mother is", "ambulatory", "Pronunciation: /\u02c8\u00e6mbj\u0259l\u0259\u02ccto\u028ari/", "Definition: able to walk about", "Synonyms: ambulant"]}
+{"data": ["2021-12-26T16:01:44.471245+00:00", 4350, "Your mother is", "seeded", "Pronunciation: /\u02c8sid\u028cd/", "Definition: sprinkled with seed", "Synonyms: sown"]}
