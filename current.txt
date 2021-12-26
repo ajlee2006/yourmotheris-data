@@ -1,1 +1,1 @@
-{"data": ["2021-12-26T00:03:41.335762+00:00", 4334, "Your mother is", "superimposed", "Pronunciation: /\u02ccsup\u0259r\u026am\u02c8po\u028azd/", "Definition: placed on or over something else", "Synonyms: overlying"]}
+{"data": ["2021-12-26T01:01:58.741924+00:00", 4335, "Your mother is", "cheliceral", "", "Definition: of or relating to or resembling chelicerae", "Synonyms: chelicerate"]}
