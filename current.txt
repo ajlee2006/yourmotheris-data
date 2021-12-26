@@ -1,1 +1,1 @@
-{"data": ["2021-12-26T14:00:42.542501+00:00", 4348, "Your mother is", "acceleratory", "Pronunciation: /\u00e6k\u02c8s\u025bl\u0259r\u0259\u02ccto\u028ari/", "Definition: tending to increase velocity", "Synonyms: accelerative"]}
+{"data": ["2021-12-26T15:01:34.324443+00:00", 4349, "Your mother is", "ambulatory", "Pronunciation: /\u02c8\u00e6mbj\u0259l\u0259\u02ccto\u028ari/", "Definition: able to walk about", "Synonyms: ambulant"]}
