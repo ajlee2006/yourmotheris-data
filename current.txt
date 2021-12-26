@@ -1,1 +1,1 @@
-{"data": ["2021-12-26T13:02:09.584405+00:00", 4347, "Your mother is", "fireproof", "Pronunciation: /\u02c8fa\u026a\u0259r\u02ccpruf/", "Definition: impervious to damage by fire", ""]}
+{"data": ["2021-12-26T14:00:42.542501+00:00", 4348, "Your mother is", "acceleratory", "Pronunciation: /\u00e6k\u02c8s\u025bl\u0259r\u0259\u02ccto\u028ari/", "Definition: tending to increase velocity", "Synonyms: accelerative"]}
