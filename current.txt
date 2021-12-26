@@ -1,1 +1,1 @@
-{"data": ["2021-12-26T01:01:58.741924+00:00", 4335, "Your mother is", "cheliceral", "", "Definition: of or relating to or resembling chelicerae", "Synonyms: chelicerate"]}
+{"data": ["2021-12-26T02:01:55.163100+00:00", 4336, "Your mother is", "unventilated", "Pronunciation: /\u0259n\u02c8v\u025bnt\u026a\u02ccle\u026at\u026ad/", "Definition: not ventilated", ""]}
