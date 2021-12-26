@@ -1,1 +1,1 @@
-{"data": ["2021-12-26T17:00:44.218791+00:00", 4351, "Your mother is", "apomictical", "", "Definition: of or relating to a plant that reproduces by apomixis", "Synonyms: apomictic"]}
+{"data": ["2021-12-26T18:02:38.015886+00:00", 4352, "Your mother is", "cilial", "", "Definition: of or relating to cilia projecting from the surface of a cell", "Synonyms: ciliary, ciliate"]}
