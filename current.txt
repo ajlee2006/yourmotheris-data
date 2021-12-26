@@ -1,1 +1,1 @@
-{"data": ["2021-12-26T16:01:44.471245+00:00", 4350, "Your mother is", "seeded", "Pronunciation: /\u02c8sid\u028cd/", "Definition: sprinkled with seed", "Synonyms: sown"]}
+{"data": ["2021-12-26T17:00:44.218791+00:00", 4351, "Your mother is", "apomictical", "", "Definition: of or relating to a plant that reproduces by apomixis", "Synonyms: apomictic"]}
