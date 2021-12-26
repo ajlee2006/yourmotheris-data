@@ -1,1 +1,1 @@
-{"data": ["2021-12-26T21:01:59.819823+00:00", 4355, "Your mother is", "filial", "Pronunciation: /\u02c8f\u026ali\u0259l/", "Definition: designating the generation or the sequence of generations following the parental generation", ""]}
+{"data": ["2021-12-26T22:00:31.107470+00:00", 4356, "Your mother is", "furred", "Pronunciation: /f\u025crd/", "Definition: covered with a dense coat of fine silky hairs", "Synonyms: furry"]}
