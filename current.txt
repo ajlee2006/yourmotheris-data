@@ -1,1 +1,1 @@
-{"data": ["2021-12-25T23:01:54.163677+00:00", 4333, "Your mother is", "2d", "Similar to: ordinal", "Definition: coming next after the first in position in space or time or degree or magnitude", "Synonyms: 2nd, second"]}
+{"data": ["2021-12-26T00:03:41.335762+00:00", 4334, "Your mother is", "superimposed", "Pronunciation: /\u02ccsup\u0259r\u026am\u02c8po\u028azd/", "Definition: placed on or over something else", "Synonyms: overlying"]}
