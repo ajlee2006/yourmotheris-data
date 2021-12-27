@@ -1,1 +1,1 @@
-{"data": ["2021-12-27T18:01:31.604785+00:00", 4376, "Your mother is", "swift-footed", "Pronunciation: /\u02c8sw\u026aft\u02c8f\u028at\u026ad/", "Definition: having rapidly moving feet", "Synonyms: fast-footed"]}
+{"data": ["2021-12-27T19:01:09.664341+00:00", 4377, "Your mother is", "slowgoing", "Similar to: nonenterprising", "Definition: not inclined to be enterprising", "Synonyms: unenergetic"]}
