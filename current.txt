@@ -1,1 +1,1 @@
-{"data": ["2021-12-27T13:00:16.482535+00:00", 4371, "Your mother is", "bandy", "Pronunciation: /\u02c8b\u00e6ndi/", "Definition: have legs that curve outward at the knees", "Synonyms: bandy-legged, bowed, bowleg, bowlegged"]}
+{"data": ["2021-12-27T14:01:06.996527+00:00", 4372, "Your mother is", "melodious", "Pronunciation: /m\u0259\u02c8lo\u028adi\u0259s/", "Definition: containing or constituting or characterized by pleasing melody", "Synonyms: melodic, musical"]}
