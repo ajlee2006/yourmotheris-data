@@ -1,1 +1,1 @@
-{"data": ["2021-12-27T06:01:39.697273+00:00", 4364, "Your mother is", "remote", "Pronunciation: /r\u026a\u02c8mo\u028at/", "Definition: far apart in relevance or relationship or kinship", "Synonyms: distant"]}
+{"data": ["2021-12-27T07:02:07.164426+00:00", 4365, "Your mother is", "bald", "Pronunciation: /b\u0254ld/", "Definition: without the natural or usual covering", "Synonyms: denudate, denuded"]}
