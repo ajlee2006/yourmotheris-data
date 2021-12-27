@@ -1,1 +1,1 @@
-{"data": ["2021-12-27T02:01:44.084837+00:00", 4360, "Your mother is", "machine-accessible", "Similar to: on-line", "Definition: stored in, controlled by, or in direct communication with a central computer", "Synonyms: connected"]}
+{"data": ["2021-12-27T03:02:24.597598+00:00", 4361, "Your mother is", "moire", "Pronunciation: /mw\u0251\u02c8re\u026a/", "Definition: (of silk fabric) having a wavelike pattern", "Synonyms: watered"]}
