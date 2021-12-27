@@ -1,1 +1,1 @@
-{"data": ["2021-12-27T07:02:07.164426+00:00", 4365, "Your mother is", "bald", "Pronunciation: /b\u0254ld/", "Definition: without the natural or usual covering", "Synonyms: denudate, denuded"]}
+{"data": ["2021-12-27T08:02:33.258441+00:00", 4366, "Your mother is", "pasty", "Pronunciation: /\u02c8pe\u026asti/", "Definition: resembling paste in color; pallid", "Synonyms: pastelike"]}
