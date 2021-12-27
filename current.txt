@@ -1,1 +1,1 @@
-{"data": ["2021-12-27T22:02:22.499656+00:00", 4380, "Your mother is", "blank", "Pronunciation: /bl\u00e6\u014bk/", "Definition: complete and absolute", "Synonyms: utter"]}
+{"data": ["2021-12-27T23:01:32.009832+00:00", 4381, "Your mother is", "fed up", "Similar to: displeased", "Definition: having a strong distaste from surfeit", "Synonyms: disgusted, sick, sick of, tired of"]}
