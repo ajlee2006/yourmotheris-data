@@ -1,1 +1,1 @@
-{"data": ["2021-12-27T09:02:15.364621+00:00", 4367, "Your mother is", "fifty-three", "Pronunciation: /\u02c8f\u026afti-\u02c8\u03b8ri/", "Definition: being three more than fifty", "Synonyms: 53, liii"]}
+{"data": ["2021-12-27T10:01:54.229023+00:00", 4368, "Your mother is", "nonmechanical", "Similar to: maladroit", "Definition: (of a person) lacking mechanical skills", "Synonyms: unmechanical"]}
