@@ -1,1 +1,1 @@
-{"data": ["2021-12-27T21:02:03.761018+00:00", 4379, "Your mother is", "hated", "Pronunciation: /\u02c8he\u026at\u028cd/", "Definition: treated with dislike or contempt", "Synonyms: despised, detested, scorned"]}
+{"data": ["2021-12-27T22:02:22.499656+00:00", 4380, "Your mother is", "blank", "Pronunciation: /bl\u00e6\u014bk/", "Definition: complete and absolute", "Synonyms: utter"]}
