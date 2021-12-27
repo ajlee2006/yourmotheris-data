@@ -1,1 +1,1 @@
-{"data": ["2021-12-27T01:02:12.471034+00:00", 4359, "Your mother is", "vile", "Pronunciation: /va\u026al/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, noisome, offensive, queasy, sickening"]}
+{"data": ["2021-12-27T02:01:44.084837+00:00", 4360, "Your mother is", "machine-accessible", "Similar to: on-line", "Definition: stored in, controlled by, or in direct communication with a central computer", "Synonyms: connected"]}
