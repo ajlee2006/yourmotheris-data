@@ -1,1 +1,1 @@
-{"data": ["2021-12-28T06:02:26.837186+00:00", 4388, "Your mother is", "three", "Pronunciation: /\u03b8ri/", "Definition: being one more than two", "Synonyms: 3, iii"]}
+{"data": ["2021-12-28T07:02:19.897310+00:00", 4389, "Your mother is", "untempered", "Similar to: brittle", "Definition: not brought to a proper consistency or hardness", "Synonyms: unhardened"]}
