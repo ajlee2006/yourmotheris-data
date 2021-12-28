@@ -1,1 +1,1 @@
-{"data": ["2021-12-28T22:02:00.698407+00:00", 4404, "Your mother is", "trial-and-error", "Similar to: heuristic", "Definition: relating to solving problems by experience rather than theory", ""]}
+{"data": ["2021-12-28T23:00:56.102970+00:00", 4405, "Your mother is", "retro", "Pronunciation: /\u02c8r\u025btro\u028a/", "Definition: affecting things past", "Synonyms: ex post facto, retroactive"]}
