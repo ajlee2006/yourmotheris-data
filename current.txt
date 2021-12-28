@@ -1,1 +1,1 @@
-{"data": ["2021-12-28T15:00:45.275304+00:00", 4397, "Your mother is", "plucky", "Pronunciation: /\u02c8pl\u0259ki/", "Definition: marked by courage and determination in the face of difficulties or danger; robust and uninhibited", "Synonyms: gutsy"]}
+{"data": ["2021-12-28T16:01:26.568551+00:00", 4398, "Your mother is", "haemorrhagic", "Pronunciation: /\u02cch\u025bm\u0259\u02c8r\u00e6d\u0292\u026ak/", "Definition: of or relating to a hemorrhage", "Synonyms: hemorrhagic"]}
