@@ -1,1 +1,1 @@
-{"data": ["2021-12-28T05:01:11.660678+00:00", 4387, "Your mother is", "unversed", "Pronunciation: /\u0259n\u02c8v\u025crst/", "Definition: not having had extensive practice", "Synonyms: unpracticed, unpractised"]}
+{"data": ["2021-12-28T06:02:26.837186+00:00", 4388, "Your mother is", "three", "Pronunciation: /\u03b8ri/", "Definition: being one more than two", "Synonyms: 3, iii"]}
