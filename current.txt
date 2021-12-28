@@ -1,1 +1,1 @@
-{"data": ["2021-12-28T02:01:41.657149+00:00", 4384, "Your mother is", "virginal", "Pronunciation: /\u02c8v\u025crd\u0292\u0259n\u0259l/", "Definition: in a state of sexual virginity", "Synonyms: pure, vestal, virgin, virtuous"]}
+{"data": ["2021-12-28T03:02:13.883503+00:00", 4385, "Your mother is", "afrikaans", "Pronunciation: /\u02cc\u00e6fr\u026a\u02c8k\u0251ns/", "Definition: belonging or relating to white people of South Africa whose ancestors were Dutch or to their language", "Synonyms: afrikaner"]}
