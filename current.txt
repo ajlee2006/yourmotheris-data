@@ -1,1 +1,1 @@
-{"data": ["2021-12-28T21:01:03.709019+00:00", 4403, "Your mother is", "heavenly", "Pronunciation: /\u02c8h\u025bv\u0259nli/", "Definition: relating to or inhabiting a divine heaven", "Synonyms: celestial"]}
+{"data": ["2021-12-28T22:02:00.698407+00:00", 4404, "Your mother is", "trial-and-error", "Similar to: heuristic", "Definition: relating to solving problems by experience rather than theory", ""]}
