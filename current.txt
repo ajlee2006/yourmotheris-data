@@ -1,1 +1,1 @@
-{"data": ["2021-12-28T18:01:18.056077+00:00", 4400, "Your mother is", "shielded", "Pronunciation: /\u02c8\u0283ild\u026ad/", "Definition: (used especially of machinery) protected by a shield to prevent injury", ""]}
+{"data": ["2021-12-28T19:01:33.538977+00:00", 4401, "Your mother is", "pro tem", "Pronunciation: /pro\u028a-\u02c8t\u025bm/", "Definition: for the time being", "Synonyms: pro tempore"]}
