@@ -1,1 +1,1 @@
-{"data": ["2021-12-28T11:01:52.442558+00:00", 4393, "Your mother is", "underway", "Pronunciation: /\u02cc\u028cnd\u025dr\u02c8we\u026a/", "Definition: currently in progress", "Synonyms: afoot"]}
+{"data": ["2021-12-28T12:02:41.670825+00:00", 4394, "Your mother is", "cathectic", "Pronunciation: /k\u0259\u02c8\u03b8\u025bkt\u026ak/", "Definition: of or relating to cathexis", ""]}
