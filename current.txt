@@ -1,1 +1,1 @@
-{"data": ["2021-12-28T14:02:27.970491+00:00", 4396, "Your mother is", "amendatory", "Pronunciation: /\u0259\u02c8m\u025bnd\u0259\u02ccto\u028ari/", "Definition: effecting amendment", ""]}
+{"data": ["2021-12-28T15:00:45.275304+00:00", 4397, "Your mother is", "plucky", "Pronunciation: /\u02c8pl\u0259ki/", "Definition: marked by courage and determination in the face of difficulties or danger; robust and uninhibited", "Synonyms: gutsy"]}
