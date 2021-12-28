@@ -1,1 +1,1 @@
-{"data": ["2021-12-28T00:02:10.808756+00:00", 4382, "Your mother is", "ground-hugging", "Similar to: low", "Definition: of plants that grow relatively low to the ground", "Synonyms: flat-growing, low-growing"]}
+{"data": ["2021-12-28T01:01:43.305970+00:00", 4383, "Your mother is", "9-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with nine members", "Synonyms: nine-membered"]}
