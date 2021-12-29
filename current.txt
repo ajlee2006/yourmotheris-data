@@ -1,1 +1,1 @@
-{"data": ["2021-12-29T15:01:09.861458+00:00", 4421, "Your mother is", "self-respecting", "Pronunciation: /s\u025blf-r\u026a\u02c8sp\u025bkt\u026a\u014b/", "Definition: having or showing self-esteem", "Synonyms: dignified, self-respectful"]}
+{"data": ["2021-12-29T16:00:29.582707+00:00", 4422, "Your mother is", "self-defeating", "Pronunciation: /\u02ccs\u025blfd\u026a\u02c8fiti\u014b/", "Definition: acting to defeat its own purpose", ""]}
