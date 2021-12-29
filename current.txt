@@ -1,1 +1,1 @@
-{"data": ["2021-12-29T00:03:04.529768+00:00", 4406, "Your mother is", "prodromic", "Pronunciation: /pr\u0259\u02c8dr\u0251m\u026ak/", "Definition: symptomatic of the onset of an attack or a disease", "Synonyms: prodromal"]}
+{"data": ["2021-12-29T01:02:14.118009+00:00", 4407, "Your mother is", "burly", "Pronunciation: /b\u025crli/", "Definition: muscular and heavily built", "Synonyms: beefy, buirdly, husky, strapping"]}
