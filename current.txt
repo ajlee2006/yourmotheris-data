@@ -1,1 +1,1 @@
-{"data": ["2021-12-29T20:02:01.125632+00:00", 4426, "Your mother is", "harum-scarum", "Pronunciation: /\u02c8h\u025cr\u0259m\u02c8sk\u00e6r\u0259m/", "Definition: cheerfully irresponsible", "Synonyms: carefree, devil-may-care, freewheeling, happy-go-lucky, slaphappy"]}
+{"data": ["2021-12-29T21:00:31.501593+00:00", 4427, "Your mother is", "bioluminescent", "Similar to: light", "Definition: (of living organisms) emitting light", ""]}
