@@ -1,1 +1,1 @@
-{"data": ["2021-12-29T19:02:23.230609+00:00", 4425, "Your mother is", "lincolnesque", "Pronunciation: /\u02ccl\u026a\u014bk\u0259\u02c8n\u025bsk/", "Definition: of or relating to or in the manner of Abraham Lincoln", "Synonyms: lincolnian"]}
+{"data": ["2021-12-29T20:02:01.125632+00:00", 4426, "Your mother is", "harum-scarum", "Pronunciation: /\u02c8h\u025cr\u0259m\u02c8sk\u00e6r\u0259m/", "Definition: cheerfully irresponsible", "Synonyms: carefree, devil-may-care, freewheeling, happy-go-lucky, slaphappy"]}
