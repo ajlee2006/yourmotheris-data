@@ -1,1 +1,1 @@
-{"data": ["2021-12-29T14:02:00.353482+00:00", 4420, "Your mother is", "crocked", "Pronunciation: /kr\u0251kt/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
+{"data": ["2021-12-29T15:01:09.861458+00:00", 4421, "Your mother is", "self-respecting", "Pronunciation: /s\u025blf-r\u026a\u02c8sp\u025bkt\u026a\u014b/", "Definition: having or showing self-esteem", "Synonyms: dignified, self-respectful"]}
