@@ -1,1 +1,1 @@
-{"data": ["2021-12-29T01:02:14.118009+00:00", 4407, "Your mother is", "burly", "Pronunciation: /b\u025crli/", "Definition: muscular and heavily built", "Synonyms: beefy, buirdly, husky, strapping"]}
+{"data": ["2021-12-29T02:01:59.122360+00:00", 4408, "Your mother is", "nonreversible", "", "Definition: not reversible or capable of having either side out", "Synonyms: one-sided"]}
