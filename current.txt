@@ -1,1 +1,1 @@
-{"data": ["2021-12-29T06:01:45.044056+00:00", 4412, "Your mother is", "crowning", "Pronunciation: /\u02c8kra\u028an\u026a\u014b/", "Definition: forming or providing a crown or summit", ""]}
+{"data": ["2021-12-29T07:01:24.976747+00:00", 4413, "Your mother is", "unnaturalized", "Similar to: foreign", "Definition: not having acquired citizenship", "Synonyms: unnaturalised"]}
