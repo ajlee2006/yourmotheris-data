@@ -1,1 +1,1 @@
-{"data": ["2021-12-29T08:02:14.110473+00:00", 4414, "Your mother is", "dopey", "Pronunciation: /\u02c8do\u028api/", "Definition: having or revealing stupidity", "Synonyms: anserine, dopy, foolish, gooselike, goosey, goosy, jerky"]}
+{"data": ["2021-12-29T09:02:20.379473+00:00", 4415, "Your mother is", "scientific", "Pronunciation: /\u02ccsa\u026a\u0259n\u02c8t\u026af\u026ak/", "Definition: conforming with the principles or methods used in science", ""]}
