@@ -1,1 +1,1 @@
-{"data": ["2021-12-29T18:01:36.192424+00:00", 4424, "Your mother is", "honorable", "Pronunciation: /\u02c8\u0251n\u0259r\u0259b\u0259l/", "Definition: not disposed to cheat or defraud; not deceptive or fraudulent", "Synonyms: honest"]}
+{"data": ["2021-12-29T19:02:23.230609+00:00", 4425, "Your mother is", "lincolnesque", "Pronunciation: /\u02ccl\u026a\u014bk\u0259\u02c8n\u025bsk/", "Definition: of or relating to or in the manner of Abraham Lincoln", "Synonyms: lincolnian"]}
