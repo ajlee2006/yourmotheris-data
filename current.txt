@@ -1,1 +1,1 @@
-{"data": ["2021-12-29T09:02:20.379473+00:00", 4415, "Your mother is", "scientific", "Pronunciation: /\u02ccsa\u026a\u0259n\u02c8t\u026af\u026ak/", "Definition: conforming with the principles or methods used in science", ""]}
+{"data": ["2021-12-29T10:01:26.824660+00:00", 4416, "Your mother is", "pareve", "Similar to: comestible", "Definition: containing no meat or milk (or their derivatives) and thus eatable with both meat and dairy dishes according to the dietary laws of Judaism", "Synonyms: parve"]}
