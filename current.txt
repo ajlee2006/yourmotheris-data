@@ -1,1 +1,1 @@
-{"data": ["2021-12-29T11:02:01.239271+00:00", 4417, "Your mother is", "allusive", "Pronunciation: /\u0259\u02c8lus\u026av/", "Definition: characterized by indirect references", ""]}
+{"data": ["2021-12-29T12:02:18.156932+00:00", 4418, "Your mother is", "maximizing", "Pronunciation: /\u02c8m\u00e6ks\u028c\u02ccma\u026az\u026a\u014b/", "Definition: making as great as possible", "Synonyms: maximising"]}
