@@ -1,1 +1,1 @@
-{"data": ["2021-12-30T01:01:39.994607+00:00", 4431, "Your mother is", "membrane-forming", "Similar to: unhealthy", "Definition: characterized by formation of a membrane (or something resembling a membrane)", "Synonyms: membranous"]}
+{"data": ["2021-12-30T02:01:34.770051+00:00", 4432, "Your mother is", "merchantable", "Pronunciation: /\u02c8m\u025cr\u02a7\u0259nt\u0259b\u0259l/", "Definition: fit to be offered for sale", "Synonyms: marketable, sellable, vendable, vendible"]}
