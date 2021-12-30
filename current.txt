@@ -1,1 +1,1 @@
-{"data": ["2021-12-30T02:01:34.770051+00:00", 4432, "Your mother is", "merchantable", "Pronunciation: /\u02c8m\u025cr\u02a7\u0259nt\u0259b\u0259l/", "Definition: fit to be offered for sale", "Synonyms: marketable, sellable, vendable, vendible"]}
+{"data": ["2021-12-30T03:02:02.924384+00:00", 4433, "Your mother is", "autosemantic", "Similar to: categorematic", "Definition: of a word or phrase meaningful in isolation, independent of context", ""]}
