@@ -1,1 +1,1 @@
-{"data": ["2021-12-30T11:01:28.132245+00:00", 4441, "Your mother is", "dominated", "Pronunciation: /\u02c8d\u0251m\u028c\u02ccne\u026at\u028cd/", "Definition: harassed by persistent nagging", "Synonyms: henpecked"]}
+{"data": ["2021-12-30T12:02:02.926481+00:00", 4442, "Your mother is", "fourteenth", "Pronunciation: /\u02c8fo\u028ar\u02c8tin\u03b8/", "Definition: coming next after the thirteenth in position", "Synonyms: 14th"]}
