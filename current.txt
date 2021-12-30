@@ -1,1 +1,1 @@
-{"data": ["2021-12-30T18:01:57.438777+00:00", 4448, "Your mother is", "sensate", "Pronunciation: /\u02c8s\u025bnse\u026at/", "Definition: having physical sensation", ""]}
+{"data": ["2021-12-30T19:01:53.863058+00:00", 4449, "Your mother is", "stolid", "Pronunciation: /\u02c8st\u0251l\u026ad/", "Definition: having or revealing little emotion or sensibility; not easily aroused or excited", "Synonyms: impassive"]}
