@@ -1,1 +1,1 @@
-{"data": ["2021-12-30T03:02:02.924384+00:00", 4433, "Your mother is", "autosemantic", "Similar to: categorematic", "Definition: of a word or phrase meaningful in isolation, independent of context", ""]}
+{"data": ["2021-12-30T04:02:22.876735+00:00", 4434, "Your mother is", "ransomed", "Similar to: saved", "Definition: saved from the bondage of sin", "Synonyms: redeemed"]}
