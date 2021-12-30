@@ -1,1 +1,1 @@
-{"data": ["2021-12-30T13:02:39.568178+00:00", 4443, "Your mother is", "misplaced", "Pronunciation: /m\u026as\u02c8ple\u026ast/", "Definition: lost temporarily; as especially put in an unaccustomed or forgotten place", "Synonyms: mislaid"]}
+{"data": ["2021-12-30T14:02:45.348267+00:00", 4444, "Your mother is", "mortified", "Pronunciation: /\u02c8m\u0254rt\u028c\u02ccfa\u026ad/", "Definition: made to feel uncomfortable because of shame or wounded pride", "Synonyms: embarrassed, humiliated"]}
