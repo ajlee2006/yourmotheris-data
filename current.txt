@@ -1,1 +1,1 @@
-{"data": ["2021-12-30T20:00:48.872364+00:00", 4450, "Your mother is", "walking", "Pronunciation: /\u02c8w\u0254k\u026a\u014b/", "Definition: close enough to be walked to", "Synonyms: walk-to"]}
+{"data": ["2021-12-30T21:02:02.620976+00:00", 4451, "Your mother is", "skim", "Pronunciation: /sk\u026am/", "Definition: used of milk and milk products from which the cream has been removed", "Synonyms: skimmed"]}
