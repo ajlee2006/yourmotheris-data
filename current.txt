@@ -1,1 +1,1 @@
-{"data": ["2021-12-30T06:02:05.644737+00:00", 4436, "Your mother is", "coordinate", "Pronunciation: /ko\u028a\u02c8\u0254rd\u0259n\u026at/", "Definition: of equal importance, rank, or degree", ""]}
+{"data": ["2021-12-30T07:01:24.256603+00:00", 4437, "Your mother is", "sunk", "Pronunciation: /s\u0259\u014bk/", "Definition: doomed to extinction", "Synonyms: done for, ruined, undone, washed-up"]}
