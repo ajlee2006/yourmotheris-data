@@ -1,1 +1,1 @@
-{"data": ["2021-12-30T10:01:49.695819+00:00", 4440, "Your mother is", "poor-spirited", "Pronunciation: /p\u028ar-\u02c8sp\u026ar\u026at\u026ad/", "Definition: lacking in courage and manly strength and resolution; contemptibly fearful", "Synonyms: pusillanimous, unmanly"]}
+{"data": ["2021-12-30T11:01:28.132245+00:00", 4441, "Your mother is", "dominated", "Pronunciation: /\u02c8d\u0251m\u028c\u02ccne\u026at\u028cd/", "Definition: harassed by persistent nagging", "Synonyms: henpecked"]}
