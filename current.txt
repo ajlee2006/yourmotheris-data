@@ -1,1 +1,1 @@
-{"data": ["2021-12-30T15:00:58.074971+00:00", 4445, "Your mother is", "faltering", "Pronunciation: /\u02c8f\u0254lt\u025dr\u026a\u014b/", "Definition: unsteady in speech or action", ""]}
+{"data": ["2021-12-30T16:02:03.452061+00:00", 4446, "Your mother is", "curving", "Pronunciation: /\u02c8k\u025drv\u026a\u014b/", "Definition: having or marked by a curve or smoothly rounded bend", "Synonyms: curved"]}
