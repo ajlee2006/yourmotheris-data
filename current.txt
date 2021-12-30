@@ -1,1 +1,1 @@
-{"data": ["2021-12-30T05:02:22.869958+00:00", 4435, "Your mother is", "modernized", "Pronunciation: /\u02c8m\u0251d\u025dr\u02ccna\u026azd/", "Definition: brought up to date", "Synonyms: modernised"]}
+{"data": ["2021-12-30T06:02:05.644737+00:00", 4436, "Your mother is", "coordinate", "Pronunciation: /ko\u028a\u02c8\u0254rd\u0259n\u026at/", "Definition: of equal importance, rank, or degree", ""]}
