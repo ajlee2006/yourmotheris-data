@@ -1,1 +1,1 @@
-{"data": ["2021-12-30T14:02:45.348267+00:00", 4444, "Your mother is", "mortified", "Pronunciation: /\u02c8m\u0254rt\u028c\u02ccfa\u026ad/", "Definition: made to feel uncomfortable because of shame or wounded pride", "Synonyms: embarrassed, humiliated"]}
+{"data": ["2021-12-30T15:00:58.074971+00:00", 4445, "Your mother is", "faltering", "Pronunciation: /\u02c8f\u0254lt\u025dr\u026a\u014b/", "Definition: unsteady in speech or action", ""]}
