@@ -1,1 +1,1 @@
-{"data": ["2021-12-31T15:01:57.894767+00:00", 4469, "Your mother is", "biparous", "Pronunciation: /\u02c8b\u026ap\u0259r\u0259s/", "Definition: producing two offspring at a time", "Synonyms: twinning"]}
+{"data": ["2021-12-31T16:02:43.999834+00:00", 4470, "Your mother is", "transmittable", "Pronunciation: /tr\u00e6nz\u02c8m\u026at\u028cb\u028cl/", "Definition: (of disease) capable of being transmitted by infection", "Synonyms: catching, communicable, contagious, contractable, transmissible"]}
