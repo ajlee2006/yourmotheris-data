@@ -1,1 +1,1 @@
-{"data": ["2021-12-31T19:00:13.149925+00:00", 4473, "Your mother is", "sulky", "Pronunciation: /\u02c8s\u0259lki/", "Definition: depressingly dark", "Synonyms: gloomful, glooming, gloomy"]}
+{"data": ["2021-12-31T20:01:20.343323+00:00", 4474, "Your mother is", "off one's guard", "Similar to: unready", "Definition: not prepared or vigilant", "Synonyms: napping, off-guard, off guard, off her guard, off his guard, off your guard"]}
