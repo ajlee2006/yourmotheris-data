@@ -1,1 +1,1 @@
-{"data": ["2021-12-31T12:00:26.938973+00:00", 4466, "Your mother is", "consistent", "Pronunciation: /k\u0259n\u02c8s\u026ast\u0259nt/", "Definition: the same throughout in structure or composition", "Synonyms: uniform"]}
+{"data": ["2021-12-31T13:01:15.268554+00:00", 4467, "Your mother is", "tactual", "Pronunciation: /\u02c8t\u00e6k\u02a7u\u0259l/", "Definition: of or relating to or proceeding from the sense of touch", "Synonyms: haptic, tactile"]}
