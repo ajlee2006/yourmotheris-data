@@ -1,1 +1,1 @@
-{"data": ["2021-12-31T01:02:59.733867+00:00", 4455, "Your mother is", "unsparing", "Pronunciation: /\u0259n\u02c8sp\u025cr\u026a\u014b/", "Definition: very generous", "Synonyms: lavish, munificent, overgenerous, too-generous, unstinted, unstinting"]}
+{"data": ["2021-12-31T02:02:47.549540+00:00", 4456, "Your mother is", "rutty", "Pronunciation: /\u02c8r\u0259ti/", "Definition: full of ruts", "Synonyms: rutted"]}
