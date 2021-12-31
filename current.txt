@@ -1,1 +1,1 @@
-{"data": ["2021-12-31T13:01:15.268554+00:00", 4467, "Your mother is", "tactual", "Pronunciation: /\u02c8t\u00e6k\u02a7u\u0259l/", "Definition: of or relating to or proceeding from the sense of touch", "Synonyms: haptic, tactile"]}
+{"data": ["2021-12-31T14:02:36.604629+00:00", 4468, "Your mother is", "homebound", "Pronunciation: /\u02c8ho\u028am\u02c8ba\u028and/", "Definition: confined usually by illness", "Synonyms: housebound, shut-in"]}
