@@ -1,1 +1,1 @@
-{"data": ["2021-12-31T16:02:43.999834+00:00", 4470, "Your mother is", "transmittable", "Pronunciation: /tr\u00e6nz\u02c8m\u026at\u028cb\u028cl/", "Definition: (of disease) capable of being transmitted by infection", "Synonyms: catching, communicable, contagious, contractable, transmissible"]}
+{"data": ["2021-12-31T17:01:29.054727+00:00", 4471, "Your mother is", "depreciating", "Pronunciation: /d\u026a\u02c8pri\u0283i\u02cce\u026at\u026a\u014b/", "Definition: tending to decrease or cause a decrease in value", "Synonyms: depreciative, depreciatory"]}
