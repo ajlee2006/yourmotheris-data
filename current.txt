@@ -1,1 +1,1 @@
-{"data": ["2021-12-31T02:02:47.549540+00:00", 4456, "Your mother is", "rutty", "Pronunciation: /\u02c8r\u0259ti/", "Definition: full of ruts", "Synonyms: rutted"]}
+{"data": ["2021-12-31T03:01:22.474142+00:00", 4457, "Your mother is", "plethoric", "Pronunciation: /pl\u025b\u02c8\u03b8\u0254r\u026ak/", "Definition: excessively abundant", "Synonyms: overabundant, rife"]}
