@@ -1,1 +1,1 @@
-{"data": ["2021-12-31T14:02:36.604629+00:00", 4468, "Your mother is", "homebound", "Pronunciation: /\u02c8ho\u028am\u02c8ba\u028and/", "Definition: confined usually by illness", "Synonyms: housebound, shut-in"]}
+{"data": ["2021-12-31T15:01:57.894767+00:00", 4469, "Your mother is", "biparous", "Pronunciation: /\u02c8b\u026ap\u0259r\u0259s/", "Definition: producing two offspring at a time", "Synonyms: twinning"]}
