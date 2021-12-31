@@ -1,1 +1,1 @@
-{"data": ["2021-12-31T11:00:20.535697+00:00", 4465, "Your mother is", "spectral", "Pronunciation: /\u02c8sp\u025bktr\u0259l/", "Definition: resembling or characteristic of a phantom", "Synonyms: apparitional, ghostlike, ghostly, phantasmal, spiritual"]}
+{"data": ["2021-12-31T12:00:26.938973+00:00", 4466, "Your mother is", "consistent", "Pronunciation: /k\u0259n\u02c8s\u026ast\u0259nt/", "Definition: the same throughout in structure or composition", "Synonyms: uniform"]}
