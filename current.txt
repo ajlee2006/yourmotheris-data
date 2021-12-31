@@ -1,1 +1,1 @@
-{"data": ["2021-12-31T05:00:56.551781+00:00", 4459, "Your mother is", "workable", "Pronunciation: /\u02c8w\u025crk\u0259b\u0259l/", "Definition: capable of being done with means at hand and circumstances as they are", "Synonyms: executable, feasible, practicable, viable"]}
+{"data": ["2021-12-31T06:02:50.686463+00:00", 4460, "Your mother is", "caitiff", "Pronunciation: /\u02c8ke\u026at\u026af/", "Definition: despicably mean and cowardly", ""]}
