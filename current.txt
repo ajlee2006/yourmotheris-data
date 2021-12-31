@@ -1,1 +1,1 @@
-{"data": ["2021-12-31T03:01:22.474142+00:00", 4457, "Your mother is", "plethoric", "Pronunciation: /pl\u025b\u02c8\u03b8\u0254r\u026ak/", "Definition: excessively abundant", "Synonyms: overabundant, rife"]}
+{"data": ["2021-12-31T04:00:36.666930+00:00", 4458, "Your mother is", "duplicatable", "Similar to: consistent", "Definition: capable of being duplicated", "Synonyms: duplicable"]}
