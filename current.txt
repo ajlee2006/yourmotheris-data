@@ -1,1 +1,1 @@
-{"data": ["2021-12-31T20:01:20.343323+00:00", 4474, "Your mother is", "off one's guard", "Similar to: unready", "Definition: not prepared or vigilant", "Synonyms: napping, off-guard, off guard, off her guard, off his guard, off your guard"]}
+{"data": ["2021-12-31T21:01:57.291698+00:00", 4475, "Your mother is", "all-or-none", "Similar to: complete", "Definition: occurring completely or not occurring at all", "Synonyms: all-or-nothing"]}
