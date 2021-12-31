@@ -1,1 +1,1 @@
-{"data": ["2021-12-31T07:01:56.723984+00:00", 4461, "Your mother is", "injured", "Pronunciation: /\u02c8\u026and\u0292\u0259rd/", "Definition: emotionally hurt or upset or annoyed", "Synonyms: offended, pained"]}
+{"data": ["2021-12-31T08:02:30.625434+00:00", 4462, "Your mother is", "extensive", "Pronunciation: /\u026ak\u02c8st\u025bns\u026av/", "Definition: large in spatial extent or range or scope or quantity", "Synonyms: extended"]}
