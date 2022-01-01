@@ -1,1 +1,1 @@
-{"data": ["2022-01-01T22:02:40.558849+00:00", 4500, "Your mother is", "monomaniacal", "Pronunciation: /\u02ccm\u0251n\u0259m\u0259\u02c8na\u026a\u0259k\u0259l/", "Definition: obsessed with a single subject or idea", ""]}
+{"data": ["2022-01-01T23:01:18.725017+00:00", 4501, "Your mother is", "counterfactual", "Pronunciation: /\u02ccka\u028ant\u0259r\u02c8f\u00e6k\u02a7u\u0259l/", "Definition: going counter to the facts (usually as a hypothesis)", "Synonyms: contrary to fact"]}
