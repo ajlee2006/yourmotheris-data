@@ -1,1 +1,1 @@
-{"data": ["2022-01-01T17:00:14.883437+00:00", 4495, "Your mother is", "questionable", "Pronunciation: /\u02c8kw\u025bs\u02a7\u0259n\u0259b\u0259l/", "Definition: able to be refuted", "Synonyms: confutable, confutative, refutable"]}
+{"data": ["2022-01-01T18:01:10.163535+00:00", 4496, "Your mother is", "magyar", "Pronunciation: /\u02c8m\u00e6\u0261j\u0251r/", "Definition: relating to or characteristic of Hungary", "Synonyms: hungarian"]}
