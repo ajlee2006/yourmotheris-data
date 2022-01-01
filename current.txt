@@ -1,1 +1,1 @@
-{"data": ["2022-01-01T18:01:10.163535+00:00", 4496, "Your mother is", "magyar", "Pronunciation: /\u02c8m\u00e6\u0261j\u0251r/", "Definition: relating to or characteristic of Hungary", "Synonyms: hungarian"]}
+{"data": ["2022-01-01T19:01:17.684692+00:00", 4497, "Your mother is", "flawed", "Pronunciation: /fl\u0254d/", "Definition: having a blemish or flaw", "Synonyms: blemished"]}
