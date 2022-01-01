@@ -1,1 +1,1 @@
-{"data": ["2022-01-01T05:00:29.031580+00:00", 4483, "Your mother is", "preoperative", "Pronunciation: /\u02c8pri\u02c8\u0251p(\u0259)r\u0259t\u026av/", "Definition: happening or done before and in preparation for a surgical operation", ""]}
+{"data": ["2022-01-01T06:02:02.109993+00:00", 4484, "Your mother is", "schizophrenic", "Pronunciation: /\u02ccsk\u026ats\u0259\u02c8fr\u025bn\u026ak/", "Definition: of or relating to or characteristic of schizophrenia", "Synonyms: schizoid"]}
