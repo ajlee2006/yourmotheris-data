@@ -1,1 +1,1 @@
-{"data": ["2022-01-01T14:02:17.047122+00:00", 4492, "Your mother is", "coarse-grained", "Pronunciation: /ko\u028ars-gre\u026and/", "Definition: composed of or covered with particles resembling meal in texture or consistency", "Synonyms: farinaceous, grainy, granular, granulose, gritty, mealy"]}
+{"data": ["2022-01-01T15:01:21.711486+00:00", 4493, "Your mother is", "lackluster", "Pronunciation: /\u02c8l\u00e6k\u02ccl\u0259st\u0259r/", "Definition: lacking brilliance or vitality", "Synonyms: lacklustre, lusterless, lustreless"]}
