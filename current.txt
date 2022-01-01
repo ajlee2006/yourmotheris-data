@@ -1,1 +1,1 @@
-{"data": ["2022-01-01T15:01:21.711486+00:00", 4493, "Your mother is", "lackluster", "Pronunciation: /\u02c8l\u00e6k\u02ccl\u0259st\u0259r/", "Definition: lacking brilliance or vitality", "Synonyms: lacklustre, lusterless, lustreless"]}
+{"data": ["2022-01-01T16:01:31.111155+00:00", 4494, "Your mother is", "torulose", "Similar to: unshapely", "Definition: of a cylindrical or ellipsoid body; swollen and constricted at intervals", ""]}
