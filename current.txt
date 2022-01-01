@@ -1,1 +1,1 @@
-{"data": ["2022-01-01T11:01:34.262872+00:00", 4489, "Your mother is", "frisky", "Pronunciation: /\u02c8fr\u026aski/", "Definition: playful like a lively kitten", "Synonyms: kittenish"]}
+{"data": ["2022-01-01T12:02:26.315820+00:00", 4490, "Your mother is", "sealed", "Pronunciation: /sild/", "Definition: (of walls) covered with a coat of plaster", "Synonyms: plastered"]}
