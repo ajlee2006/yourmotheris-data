@@ -1,1 +1,1 @@
-{"data": ["2022-01-01T19:01:17.684692+00:00", 4497, "Your mother is", "flawed", "Pronunciation: /fl\u0254d/", "Definition: having a blemish or flaw", "Synonyms: blemished"]}
+{"data": ["2022-01-01T20:01:56.073390+00:00", 4498, "Your mother is", "little", "Pronunciation: /\u02c8l\u026at\u0259l/", "Definition: (informal) small and of little importance", "Synonyms: fiddling, footling, lilliputian, niggling, petty, picayune, piddling, piffling, trivial"]}
