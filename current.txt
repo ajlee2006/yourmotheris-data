@@ -1,1 +1,1 @@
-{"data": ["2022-01-01T21:02:24.462608+00:00", 4499, "Your mother is", "botryoid", "", "Definition: resembling a cluster of grapes in form", "Synonyms: botryoidal, boytrose"]}
+{"data": ["2022-01-01T22:02:40.558849+00:00", 4500, "Your mother is", "monomaniacal", "Pronunciation: /\u02ccm\u0251n\u0259m\u0259\u02c8na\u026a\u0259k\u0259l/", "Definition: obsessed with a single subject or idea", ""]}
