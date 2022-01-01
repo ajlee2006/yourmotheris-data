@@ -1,1 +1,1 @@
-{"data": ["2022-01-01T13:00:33.915543+00:00", 4491, "Your mother is", "tuppeny", "Similar to: cheap", "Definition: of trifling worth", "Synonyms: sixpenny, threepenny, two-a-penny, twopenny, twopenny-halfpenny"]}
+{"data": ["2022-01-01T14:02:17.047122+00:00", 4492, "Your mother is", "coarse-grained", "Pronunciation: /ko\u028ars-gre\u026and/", "Definition: composed of or covered with particles resembling meal in texture or consistency", "Synonyms: farinaceous, grainy, granular, granulose, gritty, mealy"]}
