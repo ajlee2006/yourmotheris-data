@@ -1,1 +1,1 @@
-{"data": ["2022-01-01T04:02:44.456149+00:00", 4482, "Your mother is", "violet", "Pronunciation: /\u02c8va\u026a\u0259l\u026at/", "Definition: of a color intermediate between red and blue", "Synonyms: purple, purplish"]}
+{"data": ["2022-01-01T05:00:29.031580+00:00", 4483, "Your mother is", "preoperative", "Pronunciation: /\u02c8pri\u02c8\u0251p(\u0259)r\u0259t\u026av/", "Definition: happening or done before and in preparation for a surgical operation", ""]}
