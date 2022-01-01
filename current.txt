@@ -1,1 +1,1 @@
-{"data": ["2022-01-01T06:02:02.109993+00:00", 4484, "Your mother is", "schizophrenic", "Pronunciation: /\u02ccsk\u026ats\u0259\u02c8fr\u025bn\u026ak/", "Definition: of or relating to or characteristic of schizophrenia", "Synonyms: schizoid"]}
+{"data": ["2022-01-01T07:02:21.474582+00:00", 4485, "Your mother is", "sapid", "Pronunciation: /\u02c8s\u00e6p\u026ad/", "Definition: full of flavor", "Synonyms: flavorful, flavorous, flavorsome, flavourful, flavourous, flavoursome, saporous"]}
