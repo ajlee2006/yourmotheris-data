@@ -1,1 +1,1 @@
-{"data": ["2022-01-02T00:03:05.585375+00:00", 4502, "Your mother is", "tillable", "Pronunciation: /\u02c8t\u026al\u0259b\u0259l/", "Definition: (of farmland) capable of being farmed productively", "Synonyms: arable, cultivable, cultivatable"]}
+{"data": ["2022-01-02T01:02:11.379725+00:00", 4503, "Your mother is", "bronze", "Pronunciation: /br\u0251nz/", "Definition: of the color of bronze", "Synonyms: bronzy"]}
