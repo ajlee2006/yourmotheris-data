@@ -1,1 +1,1 @@
-{"data": ["2022-01-02T15:01:19.658303+00:00", 4517, "Your mother is", "spiderlike", "", "Definition: relating to or resembling a member of the class Arachnida", "Synonyms: arachnidian, arachnoid, spiderly, spidery"]}
+{"data": ["2022-01-02T16:01:02.052647+00:00", 4518, "Your mother is", "strange", "Pronunciation: /stre\u026and\u0292/", "Definition: not known before", "Synonyms: unknown"]}
