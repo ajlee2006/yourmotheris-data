@@ -1,1 +1,1 @@
-{"data": ["2022-01-02T13:00:46.790956+00:00", 4515, "Your mother is", "obliterate", "Pronunciation: /\u0259\u02c8bl\u026at\u0259\u02ccre\u026at/", "Definition: reduced to nothingness", "Synonyms: blotted out, obliterated"]}
+{"data": ["2022-01-02T14:00:18.673133+00:00", 4516, "Your mother is", "pint-sized", "Pronunciation: /pa\u026ant-sa\u026azd/", "Definition: well below average height", "Synonyms: pint-size, runty, sawed-off, sawn-off"]}
