@@ -1,1 +1,1 @@
-{"data": ["2022-01-02T01:02:11.379725+00:00", 4503, "Your mother is", "bronze", "Pronunciation: /br\u0251nz/", "Definition: of the color of bronze", "Synonyms: bronzy"]}
+{"data": ["2022-01-02T02:02:37.483910+00:00", 4504, "Your mother is", "gas-tight", "Similar to: tight", "Definition: not allowing air or gas to pass in or out", "Synonyms: air-tight, airtight"]}
