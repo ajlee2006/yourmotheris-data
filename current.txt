@@ -1,1 +1,1 @@
-{"data": ["2022-01-02T14:00:18.673133+00:00", 4516, "Your mother is", "pint-sized", "Pronunciation: /pa\u026ant-sa\u026azd/", "Definition: well below average height", "Synonyms: pint-size, runty, sawed-off, sawn-off"]}
+{"data": ["2022-01-02T15:01:19.658303+00:00", 4517, "Your mother is", "spiderlike", "", "Definition: relating to or resembling a member of the class Arachnida", "Synonyms: arachnidian, arachnoid, spiderly, spidery"]}
