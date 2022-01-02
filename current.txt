@@ -1,1 +1,1 @@
-{"data": ["2022-01-02T12:01:55.803720+00:00", 4514, "Your mother is", "exigent", "Pronunciation: /\u02c8\u025bks\u026ad\u0292\u0259nt/", "Definition: requiring precise accuracy", "Synonyms: exacting"]}
+{"data": ["2022-01-02T13:00:46.790956+00:00", 4515, "Your mother is", "obliterate", "Pronunciation: /\u0259\u02c8bl\u026at\u0259\u02ccre\u026at/", "Definition: reduced to nothingness", "Synonyms: blotted out, obliterated"]}
