@@ -1,1 +1,1 @@
-{"data": ["2022-01-02T11:01:17.210294+00:00", 4513, "Your mother is", "sugarless", "Similar to: unsugared", "Definition: not containing sugar", "Synonyms: nonsweet"]}
+{"data": ["2022-01-02T12:01:55.803720+00:00", 4514, "Your mother is", "exigent", "Pronunciation: /\u02c8\u025bks\u026ad\u0292\u0259nt/", "Definition: requiring precise accuracy", "Synonyms: exacting"]}
