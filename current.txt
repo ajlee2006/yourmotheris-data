@@ -1,1 +1,1 @@
-{"data": ["2022-01-02T08:02:11.398467+00:00", 4510, "Your mother is", "palsy-walsy", "Similar to: friendly", "Definition: (used colloquially) having the relationship of friends or pals", "Synonyms: chummy, matey, pally"]}
+{"data": ["2022-01-02T09:01:35.736871+00:00", 4511, "Your mother is", "semitic-speaking", "Similar to: communicative", "Definition: able to communicate in a Semitic language", ""]}
