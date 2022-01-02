@@ -1,1 +1,1 @@
-{"data": ["2022-01-02T18:02:53.116757+00:00", 4520, "Your mother is", "alive", "Pronunciation: /\u0259\u02c8la\u026av/", "Definition: capable of erupting", "Synonyms: live"]}
+{"data": ["2022-01-02T19:00:46.847244+00:00", 4521, "Your mother is", "vertiginous", "Pronunciation: /v\u0259r\u02c8t\u026ad\u0292\u0259n\u0259s/", "Definition: having or causing a whirling sensation; liable to falling", "Synonyms: dizzy, giddy, woozy"]}
