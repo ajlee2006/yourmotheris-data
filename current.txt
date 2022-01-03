@@ -1,1 +1,1 @@
-{"data": ["2022-01-03T20:01:39.168368+00:00", 4546, "Your mother is", "white-bread", "Similar to: conventional", "Definition: of or belonging to or representative of the white middle class", ""]}
+{"data": ["2022-01-03T21:01:47.304813+00:00", 4547, "Your mother is", "most", "Pronunciation: /mo\u028ast/", "Definition: (superlative of `many' used with count nouns and often preceded by `the') quantifier meaning the greatest in number", ""]}
