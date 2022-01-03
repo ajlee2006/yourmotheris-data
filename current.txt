@@ -1,1 +1,1 @@
-{"data": ["2022-01-03T10:01:56.969831+00:00", 4536, "Your mother is", "lite", "Pronunciation: /la\u026at/", "Definition: having relatively few calories", "Synonyms: calorie-free, light, low-cal"]}
+{"data": ["2022-01-03T11:02:22.611850+00:00", 4537, "Your mother is", "damnatory", "Pronunciation: /\u02c8d\u00e6mn\u0259\u02ccto\u028ari/", "Definition: threatening with damnation", "Synonyms: damning"]}
