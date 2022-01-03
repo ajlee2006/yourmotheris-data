@@ -1,1 +1,1 @@
-{"data": ["2022-01-03T21:01:47.304813+00:00", 4547, "Your mother is", "most", "Pronunciation: /mo\u028ast/", "Definition: (superlative of `many' used with count nouns and often preceded by `the') quantifier meaning the greatest in number", ""]}
+{"data": ["2022-01-03T22:01:58.773664+00:00", 4548, "Your mother is", "green-blind", "Pronunciation: /grin-bla\u026and/", "Definition: inability to see the color green or to distinguish green and purplish-red", "Synonyms: deuteranopic"]}
