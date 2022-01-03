@@ -1,1 +1,1 @@
-{"data": ["2022-01-03T11:02:22.611850+00:00", 4537, "Your mother is", "damnatory", "Pronunciation: /\u02c8d\u00e6mn\u0259\u02ccto\u028ari/", "Definition: threatening with damnation", "Synonyms: damning"]}
+{"data": ["2022-01-03T12:02:11.562067+00:00", 4538, "Your mother is", "nonunion", "Pronunciation: /n\u0251n\u02c8junj\u0259n/", "Definition: not belonging to or not allowing affiliation with a trade union", ""]}
