@@ -1,1 +1,1 @@
-{"data": ["2022-01-03T17:01:22.302264+00:00", 4543, "Your mother is", "plastic", "Pronunciation: /\u02c8pl\u00e6st\u026ak/", "Definition: capable of being molded or modeled (especially of earth or clay or other soft material)", "Synonyms: fictile, moldable"]}
+{"data": ["2022-01-03T18:01:58.144071+00:00", 4544, "Your mother is", "low-toned", "Similar to: soft", "Definition: very low in volume", "Synonyms: low"]}
