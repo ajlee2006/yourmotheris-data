@@ -1,1 +1,1 @@
-{"data": ["2022-01-03T12:02:11.562067+00:00", 4538, "Your mother is", "nonunion", "Pronunciation: /n\u0251n\u02c8junj\u0259n/", "Definition: not belonging to or not allowing affiliation with a trade union", ""]}
+{"data": ["2022-01-03T13:02:37.499344+00:00", 4539, "Your mother is", "39", "Similar to: cardinal", "Definition: being nine more than thirty", "Synonyms: ixl, thirty-nine"]}
