@@ -1,1 +1,1 @@
-{"data": ["2022-01-03T08:01:35.675391+00:00", 4534, "Your mother is", "peevish", "Pronunciation: /\u02c8piv\u026a\u0283/", "Definition: easily irritated or annoyed", "Synonyms: cranky, fractious, irritable, nettlesome, peckish, pettish, petulant, scratchy, techy, testy, tetchy"]}
+{"data": ["2022-01-03T09:00:53.837983+00:00", 4535, "Your mother is", "floodlit", "Similar to: light", "Definition: illuminated by means of floodlights", "Synonyms: floodlighted"]}
