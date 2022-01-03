@@ -1,1 +1,1 @@
-{"data": ["2022-01-03T19:01:38.945054+00:00", 4545, "Your mother is", "impressionist", "Pronunciation: /\u026am\u02c8pr\u025b\u0283\u0259n\u026ast/", "Definition: relating to or characteristic of Impressionism", "Synonyms: impressionistic"]}
+{"data": ["2022-01-03T20:01:39.168368+00:00", 4546, "Your mother is", "white-bread", "Similar to: conventional", "Definition: of or belonging to or representative of the white middle class", ""]}
