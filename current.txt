@@ -1,1 +1,1 @@
-{"data": ["2022-01-03T05:01:36.653105+00:00", 4531, "Your mother is", "unbent", "Pronunciation: /\u0259n\u02c8b\u025bnt/", "Definition: erect in posture", "Synonyms: straight, unbowed"]}
+{"data": ["2022-01-03T06:01:05.344327+00:00", 4532, "Your mother is", "justified", "Pronunciation: /\u02c8d\u0292\u028cst\u028c\u02ccfa\u026ad/", "Definition: having words so spaced that lines have straight even margins", ""]}
