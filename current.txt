@@ -1,1 +1,1 @@
-{"data": ["2022-01-03T06:01:05.344327+00:00", 4532, "Your mother is", "justified", "Pronunciation: /\u02c8d\u0292\u028cst\u028c\u02ccfa\u026ad/", "Definition: having words so spaced that lines have straight even margins", ""]}
+{"data": ["2022-01-03T07:01:36.432319+00:00", 4533, "Your mother is", "preserved", "Pronunciation: /pr\u028c\u02c8z\u025drvd/", "Definition: kept intact or in a particular condition", ""]}
