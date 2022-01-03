@@ -1,1 +1,1 @@
-{"data": ["2022-01-03T07:01:36.432319+00:00", 4533, "Your mother is", "preserved", "Pronunciation: /pr\u028c\u02c8z\u025drvd/", "Definition: kept intact or in a particular condition", ""]}
+{"data": ["2022-01-03T08:01:35.675391+00:00", 4534, "Your mother is", "peevish", "Pronunciation: /\u02c8piv\u026a\u0283/", "Definition: easily irritated or annoyed", "Synonyms: cranky, fractious, irritable, nettlesome, peckish, pettish, petulant, scratchy, techy, testy, tetchy"]}
