@@ -1,1 +1,1 @@
-{"data": ["2022-01-03T15:01:03.258897+00:00", 4541, "Your mother is", "eatable", "Pronunciation: /\u02c8it\u0259b\u0259l/", "Definition: suitable for use as food", "Synonyms: comestible, edible"]}
+{"data": ["2022-01-03T16:02:04.391327+00:00", 4542, "Your mother is", "twenty-second", "Similar to: ordinal", "Definition: coming next after the twenty-first in position", "Synonyms: 22nd"]}
