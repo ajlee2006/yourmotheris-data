@@ -1,1 +1,1 @@
-{"data": ["2022-01-03T01:00:24.500955+00:00", 4527, "Your mother is", "veridical", "Pronunciation: /v\u0259\u02c8r\u026ad\u026ak\u0259l/", "Definition: coinciding with reality", "Synonyms: real"]}
+{"data": ["2022-01-03T02:01:01.512339+00:00", 4528, "Your mother is", "untouchable", "Pronunciation: /\u0259n\u02c8t\u0259\u02a7\u0259b\u0259l/", "Definition: impossible to assail", "Synonyms: unassailable"]}
