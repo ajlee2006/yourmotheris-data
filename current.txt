@@ -1,1 +1,1 @@
-{"data": ["2022-01-04T19:01:03.638906+00:00", 4569, "Your mother is", "dietetical", "", "Definition: of or relating to the diet", "Synonyms: dietetic, dietary"]}
+{"data": ["2022-01-04T20:02:14.562329+00:00", 4570, "Your mother is", "twenty-fifth", "Pronunciation: /\u02c8tw\u025bnti-\u02c8f\u026af\u03b8/", "Definition: coming next after the twenty-fourth in position", "Synonyms: 25th"]}
