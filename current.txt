@@ -1,1 +1,1 @@
-{"data": ["2022-01-04T15:02:13.425915+00:00", 4565, "Your mother is", "golden-brown", "Pronunciation: /\u02c8\u0261o\u028ald\u0259n-bra\u028an/", "Definition: of brown tinged with gold", ""]}
+{"data": ["2022-01-04T16:02:19.187070+00:00", 4566, "Your mother is", "stemless", "", "Definition: (of plants) having no apparent stem above ground", "Synonyms: acaulescent"]}
