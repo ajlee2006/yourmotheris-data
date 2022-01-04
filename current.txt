@@ -1,1 +1,1 @@
-{"data": ["2022-01-04T03:02:28.387305+00:00", 4553, "Your mother is", "unreleased", "Pronunciation: /\u028cnr\u026a\u02c8list/", "Definition: not (or not yet) made available for distribution or publication", ""]}
+{"data": ["2022-01-04T04:01:44.246600+00:00", 4554, "Your mother is", "dim-witted", "Pronunciation: /d\u026am-\u02c8w\u026at\u026ad/", "Definition: lacking mental capacity and subtlety", "Synonyms: simple, simple-minded"]}
