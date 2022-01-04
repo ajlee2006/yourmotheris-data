@@ -1,1 +1,1 @@
-{"data": ["2022-01-04T05:02:49.304607+00:00", 4555, "Your mother is", "afghan", "Pronunciation: /\u02c8\u00e6fg\u0259n/", "Definition: of or relating to or characteristic of Afghanistan or its people", "Synonyms: afghani, afghanistani"]}
+{"data": ["2022-01-04T06:02:17.951570+00:00", 4556, "Your mother is", "sacculate", "Pronunciation: /\u02c8s\u00e6kj\u0259\u02ccle\u026at/", "Definition: formed with or having saclike expansions", "Synonyms: sacculated"]}
