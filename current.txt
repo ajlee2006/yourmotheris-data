@@ -1,1 +1,1 @@
-{"data": ["2022-01-04T00:02:59.384148+00:00", 4550, "Your mother is", "elysian", "Pronunciation: /\u026a\u02c8l\u026a\u0292\u0259n/", "Definition: being of such surpassing excellence as to suggest inspiration by the gods", "Synonyms: divine, inspired"]}
+{"data": ["2022-01-04T01:00:57.952543+00:00", 4551, "Your mother is", "abranchial", "Pronunciation: /e\u026a\u02c8br\u00e6\u014bki\u0259l/", "Definition: having no gills", "Synonyms: abranchiate, abranchious, gill-less"]}
