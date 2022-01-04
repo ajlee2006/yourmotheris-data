@@ -1,1 +1,1 @@
-{"data": ["2022-01-04T14:01:26.215102+00:00", 4564, "Your mother is", "ununderstood", "Similar to: misunderstood", "Definition: not understood", ""]}
+{"data": ["2022-01-04T15:02:13.425915+00:00", 4565, "Your mother is", "golden-brown", "Pronunciation: /\u02c8\u0261o\u028ald\u0259n-bra\u028an/", "Definition: of brown tinged with gold", ""]}
