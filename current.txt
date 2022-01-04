@@ -1,1 +1,1 @@
-{"data": ["2022-01-04T09:01:19.897210+00:00", 4559, "Your mother is", "alternative", "Pronunciation: /\u0254l\u02c8t\u025crn\u0259t\u026av/", "Definition: serving or used in place of another", "Synonyms: alternate, substitute"]}
+{"data": ["2022-01-04T10:00:25.487751+00:00", 4560, "Your mother is", "23rd", "Similar to: ordinal", "Definition: coming next after the twenty-second in position", "Synonyms: twenty-third"]}
