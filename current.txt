@@ -1,1 +1,1 @@
-{"data": ["2022-01-04T02:01:34.154847+00:00", 4552, "Your mother is", "anorthic", "Pronunciation: /\u00e6n\u02c8\u0254r\u03b8\u026ak/", "Definition: having three unequal crystal axes intersecting at oblique angles", "Synonyms: triclinic"]}
+{"data": ["2022-01-04T03:02:28.387305+00:00", 4553, "Your mother is", "unreleased", "Pronunciation: /\u028cnr\u026a\u02c8list/", "Definition: not (or not yet) made available for distribution or publication", ""]}
