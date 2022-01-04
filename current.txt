@@ -1,1 +1,1 @@
-{"data": ["2022-01-04T21:01:43.660067+00:00", 4571, "Your mother is", "contrabass", "Pronunciation: /\u02c8k\u0251ntr\u0259\u02ccbe\u026as/", "Definition: pitched an octave below normal bass instrumental or vocal range", "Synonyms: double-bass"]}
+{"data": ["2022-01-04T22:02:20.019022+00:00", 4572, "Your mother is", "aforementioned", "Pronunciation: /\u0259\u02c8fo\u028ar\u02ccm\u025bn\u0283\u0259nd/", "Definition: being the one previously mentioned or spoken of", "Synonyms: aforesaid, said"]}
