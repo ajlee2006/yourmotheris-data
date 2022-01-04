@@ -1,1 +1,1 @@
-{"data": ["2022-01-04T17:01:43.129779+00:00", 4567, "Your mother is", "14", "Similar to: cardinal", "Definition: being one more than thirteen", "Synonyms: fourteen, xiv"]}
+{"data": ["2022-01-04T18:02:00.885259+00:00", 4568, "Your mother is", "frugal", "Pronunciation: /\u02c8fru\u0261\u0259l/", "Definition: avoiding waste", "Synonyms: economical, scotch, sparing, stinting"]}
