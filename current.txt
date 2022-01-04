@@ -1,1 +1,1 @@
-{"data": ["2022-01-04T01:00:57.952543+00:00", 4551, "Your mother is", "abranchial", "Pronunciation: /e\u026a\u02c8br\u00e6\u014bki\u0259l/", "Definition: having no gills", "Synonyms: abranchiate, abranchious, gill-less"]}
+{"data": ["2022-01-04T02:01:34.154847+00:00", 4552, "Your mother is", "anorthic", "Pronunciation: /\u00e6n\u02c8\u0254r\u03b8\u026ak/", "Definition: having three unequal crystal axes intersecting at oblique angles", "Synonyms: triclinic"]}
