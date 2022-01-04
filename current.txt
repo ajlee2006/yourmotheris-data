@@ -1,1 +1,1 @@
-{"data": ["2022-01-04T20:02:14.562329+00:00", 4570, "Your mother is", "twenty-fifth", "Pronunciation: /\u02c8tw\u025bnti-\u02c8f\u026af\u03b8/", "Definition: coming next after the twenty-fourth in position", "Synonyms: 25th"]}
+{"data": ["2022-01-04T21:01:43.660067+00:00", 4571, "Your mother is", "contrabass", "Pronunciation: /\u02c8k\u0251ntr\u0259\u02ccbe\u026as/", "Definition: pitched an octave below normal bass instrumental or vocal range", "Synonyms: double-bass"]}
