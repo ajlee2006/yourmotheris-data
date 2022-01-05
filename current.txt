@@ -1,1 +1,1 @@
-{"data": ["2022-01-05T19:01:46.331527+00:00", 4593, "Your mother is", "well-worn", "Pronunciation: /w\u025bl-wo\u028arn/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, tired, trite"]}
+{"data": ["2022-01-05T20:02:17.076017+00:00", 4594, "Your mother is", "good enough", "Pronunciation: /\u0261\u028ad-\u026a\u02c8n\u0259f/", "Definition: adequately good for the circumstances", ""]}
