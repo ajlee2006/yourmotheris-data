@@ -1,1 +1,1 @@
-{"data": ["2022-01-05T08:01:58.904821+00:00", 4582, "Your mother is", "graded", "Pronunciation: /\u02c8\u0261re\u026ad\u028cd/", "Definition: arranged in a sequence of grades or ranks", "Synonyms: ranked, stratified"]}
+{"data": ["2022-01-05T09:02:22.342009+00:00", 4583, "Your mother is", "farcical", "Pronunciation: /\u02c8f\u0251rs\u026ak\u0259l/", "Definition: broadly or extravagantly humorous; resembling farce", "Synonyms: ludicrous, ridiculous"]}
