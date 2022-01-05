@@ -1,1 +1,1 @@
-{"data": ["2022-01-05T09:02:22.342009+00:00", 4583, "Your mother is", "farcical", "Pronunciation: /\u02c8f\u0251rs\u026ak\u0259l/", "Definition: broadly or extravagantly humorous; resembling farce", "Synonyms: ludicrous, ridiculous"]}
+{"data": ["2022-01-05T10:01:41.346832+00:00", 4584, "Your mother is", "acetose", "Pronunciation: /\u02c8\u00e6s\u026a\u02ccto\u028as/", "Definition: tasting or smelling like vinegar", "Synonyms: acetous, vinegarish, vinegary"]}
