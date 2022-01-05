@@ -1,1 +1,1 @@
-{"data": ["2022-01-05T01:01:52.780310+00:00", 4575, "Your mother is", "leftover", "Pronunciation: /\u02c8l\u025bft\u02cco\u028av\u0259r/", "Definition: not used up", "Synonyms: left, left over, odd, remaining, unexpended"]}
+{"data": ["2022-01-05T02:02:53.766529+00:00", 4576, "Your mother is", "glaucous", "Pronunciation: /\u02c8gl\u0254k\u0259s/", "Definition: having a frosted look from a powdery coating, as on plants", ""]}
