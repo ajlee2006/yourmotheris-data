@@ -1,1 +1,1 @@
-{"data": ["2022-01-05T14:02:39.041347+00:00", 4588, "Your mother is", "debilitating", "Pronunciation: /d\u028c\u02c8b\u026al\u028c\u02ccte\u026at\u026a\u014b/", "Definition: impairing the strength and vitality", ""]}
+{"data": ["2022-01-05T15:00:56.759498+00:00", 4589, "Your mother is", "46", "Similar to: cardinal", "Definition: being six more than forty", "Synonyms: forty-six, xlvi"]}
