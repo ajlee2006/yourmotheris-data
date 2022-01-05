@@ -1,1 +1,1 @@
-{"data": ["2022-01-05T04:00:33.953370+00:00", 4578, "Your mother is", "stomachic", "Pronunciation: /sto\u028a\u02c8m\u00e6k\u026ak/", "Definition: relating to or involving the stomach", "Synonyms: gastric, stomachal"]}
+{"data": ["2022-01-05T05:02:32.953990+00:00", 4579, "Your mother is", "autoloading", "Similar to: automatic", "Definition: (of firearms) capable of automatic loading and firing continuously", "Synonyms: self-loading, semiautomatic"]}
