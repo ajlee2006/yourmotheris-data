@@ -1,1 +1,1 @@
-{"data": ["2022-01-05T12:02:29.533585+00:00", 4586, "Your mother is", "fabricated", "Pronunciation: /\u02c8f\u00e6br\u026a\u02ccke\u026at\u028cd/", "Definition: formed or conceived by the imagination", "Synonyms: fancied, fictional, fictitious"]}
+{"data": ["2022-01-05T13:01:21.138623+00:00", 4587, "Your mother is", "double-barreled", "Pronunciation: /\u02c8d\u0259b\u0259l-\u02c8b\u00e6r\u0259ld/", "Definition: having two purposes; twofold", "Synonyms: double-barrelled"]}
