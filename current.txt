@@ -1,1 +1,1 @@
-{"data": ["2022-01-05T16:03:22.345626+00:00", 4590, "Your mother is", "flaccid", "Pronunciation: /\u02c8fl\u00e6ks\u026ad/", "Definition: out of condition; not strong or robust; incapable of exertion or endurance", "Synonyms: flabby, soft"]}
+{"data": ["2022-01-05T17:01:28.721775+00:00", 4591, "Your mother is", "barelegged", "Pronunciation: /\u02c8b\u025cr\u02ccl\u025b\u0261\u026ad/", "Definition: having the legs uncovered by clothing", ""]}
