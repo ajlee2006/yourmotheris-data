@@ -1,1 +1,1 @@
-{"data": ["2022-01-05T05:02:32.953990+00:00", 4579, "Your mother is", "autoloading", "Similar to: automatic", "Definition: (of firearms) capable of automatic loading and firing continuously", "Synonyms: self-loading, semiautomatic"]}
+{"data": ["2022-01-05T06:02:09.777292+00:00", 4580, "Your mother is", "macrocephalous", "", "Definition: having an exceptionally large head and brain", "Synonyms: macrocephalic"]}
