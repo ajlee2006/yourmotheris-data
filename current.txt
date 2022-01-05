@@ -1,1 +1,1 @@
-{"data": ["2022-01-05T02:02:53.766529+00:00", 4576, "Your mother is", "glaucous", "Pronunciation: /\u02c8gl\u0254k\u0259s/", "Definition: having a frosted look from a powdery coating, as on plants", ""]}
+{"data": ["2022-01-05T03:00:18.516856+00:00", 4577, "Your mother is", "star-shaped", "Pronunciation: /st\u0251r-\u0283e\u026apt/", "Definition: shaped like a star", "Synonyms: asteroid"]}
