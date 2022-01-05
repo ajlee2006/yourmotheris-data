@@ -1,1 +1,1 @@
-{"data": ["2022-01-05T06:02:09.777292+00:00", 4580, "Your mother is", "macrocephalous", "", "Definition: having an exceptionally large head and brain", "Synonyms: macrocephalic"]}
+{"data": ["2022-01-05T07:02:06.513622+00:00", 4581, "Your mother is", "guttural", "Pronunciation: /\u02c8\u0261\u0259t\u0259r\u0259l/", "Definition: like the sounds of frogs and crows", "Synonyms: croaky"]}
