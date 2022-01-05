@@ -1,1 +1,1 @@
-{"data": ["2022-01-05T20:02:17.076017+00:00", 4594, "Your mother is", "good enough", "Pronunciation: /\u0261\u028ad-\u026a\u02c8n\u0259f/", "Definition: adequately good for the circumstances", ""]}
+{"data": ["2022-01-05T21:01:01.263290+00:00", 4595, "Your mother is", "white-tie", "Similar to: formal", "Definition: requiring white ties and tailcoats for men", ""]}
