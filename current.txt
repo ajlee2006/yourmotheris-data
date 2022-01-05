@@ -1,1 +1,1 @@
-{"data": ["2022-01-05T22:01:24.367321+00:00", 4596, "Your mother is", "high-level", "Pronunciation: /\u02c8ha\u026a\u02c8l\u025bv\u0259l/", "Definition: occurring at or from a relative high altitude", "Synonyms: high-altitude"]}
+{"data": ["2022-01-05T23:02:16.815958+00:00", 4597, "Your mother is", "scattershot", "Pronunciation: /\u02c8sk\u00e6t\u0259r\u02cc\u0283\u0251t/", "Definition: covering a wide range in a haphazard way", ""]}
