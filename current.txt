@@ -1,1 +1,1 @@
-{"data": ["2022-01-06T22:01:23.808513+00:00", 4620, "Your mother is", "unhindered", "Pronunciation: /\u0259n\u02c8h\u026and\u0259d/", "Definition: not slowed or blocked or interfered with", "Synonyms: unhampered"]}
+{"data": ["2022-01-06T23:01:19.954449+00:00", 4621, "Your mother is", "graven", "Pronunciation: /\u02c8gre\u026av\u0259n/", "Definition: cut into a desired shape", "Synonyms: sculpted, sculptured"]}
