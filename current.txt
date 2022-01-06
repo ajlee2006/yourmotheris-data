@@ -1,1 +1,1 @@
-{"data": ["2022-01-06T17:01:24.780995+00:00", 4615, "Your mother is", "perfoliate", "Pronunciation: /p\u0259r\u02c8fo\u028ali\u026at/", "Definition: (of a leaf) having the base united around (and apparently pierced by) the stem", ""]}
+{"data": ["2022-01-06T18:03:04.572791+00:00", 4616, "Your mother is", "enatic", "Pronunciation: /i\u02c8n\u00e6t\u026ak/", "Definition: related on the mother's side", "Synonyms: enate, maternal"]}
