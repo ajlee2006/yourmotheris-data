@@ -1,1 +1,1 @@
-{"data": ["2022-01-06T00:03:03.736372+00:00", 4598, "Your mother is", "ill-advised", "Pronunciation: /\u026al-\u00e6d\u02c8va\u026azd/", "Definition: without careful prior deliberation or counsel", "Synonyms: unadvised"]}
+{"data": ["2022-01-06T01:02:46.486697+00:00", 4599, "Your mother is", "blastemic", "Pronunciation: /bl\u00e6\u02c8st\u025bm\u026ak/", "Definition: of or relating to blastemata", "Synonyms: blastemal, blastematic"]}
