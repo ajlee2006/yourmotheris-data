@@ -1,1 +1,1 @@
-{"data": ["2022-01-06T09:01:24.337123+00:00", 4607, "Your mother is", "discursive", "Pronunciation: /d\u026a\u02c8sk\u025crs\u026av/", "Definition: proceeding to a conclusion by reason or argument rather than intuition", "Synonyms: dianoetic"]}
+{"data": ["2022-01-06T10:02:18.605596+00:00", 4608, "Your mother is", "two", "Pronunciation: /tu/", "Definition: being one more than one", "Synonyms: 2, ii"]}
