@@ -1,1 +1,1 @@
-{"data": ["2022-01-06T08:01:40.665366+00:00", 4606, "Your mother is", "aggravating", "Pronunciation: /\u02c8\u00e6\u0261r\u028c\u02ccve\u026at\u026a\u014b/", "Definition: making worse", "Synonyms: exacerbating, exasperating"]}
+{"data": ["2022-01-06T09:01:24.337123+00:00", 4607, "Your mother is", "discursive", "Pronunciation: /d\u026a\u02c8sk\u025crs\u026av/", "Definition: proceeding to a conclusion by reason or argument rather than intuition", "Synonyms: dianoetic"]}
