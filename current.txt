@@ -1,1 +1,1 @@
-{"data": ["2022-01-06T01:02:46.486697+00:00", 4599, "Your mother is", "blastemic", "Pronunciation: /bl\u00e6\u02c8st\u025bm\u026ak/", "Definition: of or relating to blastemata", "Synonyms: blastemal, blastematic"]}
+{"data": ["2022-01-06T02:00:50.453516+00:00", 4600, "Your mother is", "purplish-black", "Similar to: achromatic", "Definition: of black tinged with purple", "Synonyms: purple-black"]}
