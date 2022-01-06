@@ -1,1 +1,1 @@
-{"data": ["2022-01-06T11:00:42.619593+00:00", 4609, "Your mother is", "upbeat", "Pronunciation: /\u02c8\u0259p\u02ccbit/", "Definition: pleasantly (even unrealistically) optimistic", "Synonyms: cheerful, pollyannaish"]}
+{"data": ["2022-01-06T12:01:40.278885+00:00", 4610, "Your mother is", "seamless", "Pronunciation: /\u02c8siml\u028cs/", "Definition: smooth, especially of skin", "Synonyms: unlined, unseamed"]}
