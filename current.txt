@@ -1,1 +1,1 @@
-{"data": ["2022-01-06T18:03:04.572791+00:00", 4616, "Your mother is", "enatic", "Pronunciation: /i\u02c8n\u00e6t\u026ak/", "Definition: related on the mother's side", "Synonyms: enate, maternal"]}
+{"data": ["2022-01-06T19:02:22.409971+00:00", 4617, "Your mother is", "synchronal", "Similar to: coetaneous", "Definition: occurring or existing at the same time or having the same period or phase", "Synonyms: synchronic, synchronous"]}
