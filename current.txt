@@ -1,1 +1,1 @@
-{"data": ["2022-01-06T19:02:22.409971+00:00", 4617, "Your mother is", "synchronal", "Similar to: coetaneous", "Definition: occurring or existing at the same time or having the same period or phase", "Synonyms: synchronic, synchronous"]}
+{"data": ["2022-01-06T20:00:34.939787+00:00", 4618, "Your mother is", "staccato", "Pronunciation: /st\u0259\u02c8k\u0251to\u028a/", "Definition: (music) marked by or composed of disconnected parts or sounds; cut short crisply", "Synonyms: disconnected"]}
