@@ -1,1 +1,1 @@
-{"data": ["2022-01-06T15:02:24.270051+00:00", 4613, "Your mother is", "preliterate", "Pronunciation: /pri\u02c8l\u026at\u0259r\u0259t/", "Definition: used of a society that has not developed writing", "Synonyms: nonliterate"]}
+{"data": ["2022-01-06T16:01:46.070731+00:00", 4614, "Your mother is", "bacteroidal", "", "Definition: resembling bacteria", "Synonyms: bacterioid, bacterioidal, bacteroid"]}
