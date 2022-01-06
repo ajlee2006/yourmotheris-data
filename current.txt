@@ -1,1 +1,1 @@
-{"data": ["2022-01-06T07:02:16.023046+00:00", 4605, "Your mother is", "acid", "Pronunciation: /\u02c8\u00e6s\u026ad/", "Definition: being sour to the taste", "Synonyms: acidic, acidulent, acidulous"]}
+{"data": ["2022-01-06T08:01:40.665366+00:00", 4606, "Your mother is", "aggravating", "Pronunciation: /\u02c8\u00e6\u0261r\u028c\u02ccve\u026at\u026a\u014b/", "Definition: making worse", "Synonyms: exacerbating, exasperating"]}
