@@ -1,1 +1,1 @@
-{"data": ["2022-01-07T06:01:27.073604+00:00", 4628, "Your mother is", "carinate", "Pronunciation: /\u02c8k\u00e6r\u0259\u02ccne\u026at/", "Definition: having a ridge or shaped like a ridge or suggesting the keel of a ship", "Synonyms: carinated, keeled, ridged"]}
+{"data": ["2022-01-07T07:01:44.757244+00:00", 4629, "Your mother is", "hypophyseal", "Pronunciation: /\u02ccha\u026ap\u0259\u02c8f\u026azi\u0259l/", "Definition: of or relating to the hypophysis", "Synonyms: hypophysial"]}
