@@ -1,1 +1,1 @@
-{"data": ["2022-01-07T07:01:44.757244+00:00", 4629, "Your mother is", "hypophyseal", "Pronunciation: /\u02ccha\u026ap\u0259\u02c8f\u026azi\u0259l/", "Definition: of or relating to the hypophysis", "Synonyms: hypophysial"]}
+{"data": ["2022-01-07T08:03:00.101759+00:00", 4630, "Your mother is", "hesperian", "Pronunciation: /h\u025b\u02c8spiri\u0259n/", "Definition: denoting or characteristic of countries of Europe and the western hemisphere", "Synonyms: occidental"]}
