@@ -1,1 +1,1 @@
-{"data": ["2022-01-07T14:01:35.209905+00:00", 4636, "Your mother is", "chemotherapeutic", "", "Definition: of or relating to chemotherapy", "Synonyms: chemotherapeutical"]}
+{"data": ["2022-01-07T15:02:21.827680+00:00", 4637, "Your mother is", "marauding", "Pronunciation: /m\u0259\u02c8r\u0254d\u026a\u014b/", "Definition: characterized by plundering or pillaging or marauding", "Synonyms: predatory, raiding"]}
