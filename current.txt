@@ -1,1 +1,1 @@
-{"data": ["2022-01-07T22:02:57.673911+00:00", 4644, "Your mother is", "apractic", "Similar to: unfit", "Definition: having uncoordinated muscular movements, symptomatic of a CNS disorder", "Synonyms: apraxic"]}
+{"data": ["2022-01-07T23:02:08.761476+00:00", 4645, "Your mother is", "canary-yellow", "Pronunciation: /k\u0259\u02c8n\u025cri-\u02c8j\u025blo\u028a/", "Definition: having the color of a canary; of a light to moderate yellow", "Synonyms: canary"]}
