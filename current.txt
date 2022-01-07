@@ -1,1 +1,1 @@
-{"data": ["2022-01-06T23:01:19.954449+00:00", 4621, "Your mother is", "graven", "Pronunciation: /\u02c8gre\u026av\u0259n/", "Definition: cut into a desired shape", "Synonyms: sculpted, sculptured"]}
+{"data": ["2022-01-07T00:01:48.629228+00:00", 4622, "Your mother is", "unsaturated", "Pronunciation: /\u0259n\u02c8s\u00e6t\u0283\u0259\u02ccre\u026at\u026ad/", "Definition: (of color) not chromatically pure; diluted", ""]}
