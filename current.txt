@@ -1,1 +1,1 @@
-{"data": ["2022-01-07T15:02:21.827680+00:00", 4637, "Your mother is", "marauding", "Pronunciation: /m\u0259\u02c8r\u0254d\u026a\u014b/", "Definition: characterized by plundering or pillaging or marauding", "Synonyms: predatory, raiding"]}
+{"data": ["2022-01-07T16:03:00.932237+00:00", 4638, "Your mother is", "happy-go-lucky", "Pronunciation: /\u02c8h\u00e6pi\u0261o\u028a\u02c8l\u0259ki/", "Definition: cheerfully irresponsible", "Synonyms: carefree, devil-may-care, freewheeling, harum-scarum, slaphappy"]}
