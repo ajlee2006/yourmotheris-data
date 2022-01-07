@@ -1,1 +1,1 @@
-{"data": ["2022-01-07T09:02:10.945539+00:00", 4631, "Your mother is", "late-flowering", "Pronunciation: /le\u026at-\u02c8fla\u028a\u0259r\u026a\u014b/", "Definition: of plants that bloom during the autumn", "Synonyms: autumn-blooming, autumn-flowering, fall-blooming, fall-flowering, late-blooming"]}
+{"data": ["2022-01-07T10:02:27.638208+00:00", 4632, "Your mother is", "recrudescent", "Similar to: revived", "Definition: the revival of an unfortunate situation after a period of abatement", ""]}
