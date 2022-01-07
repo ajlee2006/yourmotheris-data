@@ -1,1 +1,1 @@
-{"data": ["2022-01-07T17:02:22.072383+00:00", 4639, "Your mother is", "spiny-stemmed", "Similar to: caulescent", "Definition: having a spiny stem", ""]}
+{"data": ["2022-01-07T18:02:35.458201+00:00", 4640, "Your mother is", "metallike", "Similar to: metal", "Definition: resembling metal", "Synonyms: metal-looking, metallic-looking"]}
