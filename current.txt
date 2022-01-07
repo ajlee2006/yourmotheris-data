@@ -1,1 +1,1 @@
-{"data": ["2022-01-07T11:01:01.850604+00:00", 4633, "Your mother is", "pestered", "Pronunciation: /\u02c8p\u025bst\u025drd/", "Definition: troubled persistently especially with petty annoyances", "Synonyms: annoyed, harassed, harried, vexed"]}
+{"data": ["2022-01-07T12:01:07.277528+00:00", 4634, "Your mother is", "broad", "Pronunciation: /br\u0254d/", "Definition: showing or characterized by broad-mindedness", "Synonyms: large-minded, liberal, tolerant"]}
