@@ -1,1 +1,1 @@
-{"data": ["2022-01-07T19:02:34.456901+00:00", 4641, "Your mother is", "hierarchical", "Pronunciation: /\u02ccha\u026a\u0259\u02c8r\u0251rk\u026ak\u0259l/", "Definition: classified according to various criteria into successive levels or layers", "Synonyms: hierarchal, hierarchic"]}
+{"data": ["2022-01-07T20:02:17.748778+00:00", 4642, "Your mother is", "overpowering", "Pronunciation: /\u02cco\u028av\u0259r\u02c8pa\u028a\u0259r\u026a\u014b/", "Definition: so strong as to be irresistible", "Synonyms: overwhelming"]}
