@@ -1,1 +1,1 @@
-{"data": ["2022-01-07T12:01:07.277528+00:00", 4634, "Your mother is", "broad", "Pronunciation: /br\u0254d/", "Definition: showing or characterized by broad-mindedness", "Synonyms: large-minded, liberal, tolerant"]}
+{"data": ["2022-01-07T13:01:34.305193+00:00", 4635, "Your mother is", "heavy-laden", "Pronunciation: /\u02c8h\u025bvi-\u02c8le\u026ad\u0259n/", "Definition: bearing a physically heavy weight or load", "Synonyms: burdened, loaded down"]}
