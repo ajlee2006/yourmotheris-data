@@ -1,1 +1,1 @@
-{"data": ["2022-01-07T00:01:48.629228+00:00", 4622, "Your mother is", "unsaturated", "Pronunciation: /\u0259n\u02c8s\u00e6t\u0283\u0259\u02ccre\u026at\u026ad/", "Definition: (of color) not chromatically pure; diluted", ""]}
+{"data": ["2022-01-07T01:02:10.237748+00:00", 4623, "Your mother is", "immaterial", "Pronunciation: /\u02cc\u026am\u02c8\u0259tiri\u0259l/", "Definition: without material form or substance", "Synonyms: incorporeal"]}
