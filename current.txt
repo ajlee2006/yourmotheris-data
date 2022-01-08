@@ -1,1 +1,1 @@
-{"data": ["2022-01-08T13:01:04.401321+00:00", 4659, "Your mother is", "sepaline", "Pronunciation: /\u02c8s\u025bp\u0259\u02ccla\u026an/", "Definition: resembling or characteristic of a sepal", "Synonyms: sepaloid"]}
+{"data": ["2022-01-08T14:01:40.430918+00:00", 4660, "Your mother is", "bouffant", "Pronunciation: /bu\u02c8f\u0251nt/", "Definition: being puffed out; used of hair style or clothing", "Synonyms: puffy"]}
