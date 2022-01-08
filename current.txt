@@ -1,1 +1,1 @@
-{"data": ["2022-01-08T20:02:37.702678+00:00", 4666, "Your mother is", "pestiferous", "Pronunciation: /p\u025b\u02c8st\u026af\u0259r\u0259s/", "Definition: tending to corrupt or pervert", "Synonyms: corruptive, perversive"]}
+{"data": ["2022-01-08T21:01:59.655041+00:00", 4667, "Your mother is", "allegorical", "Pronunciation: /\u02cc\u00e6l\u0259\u02c8\u0261\u0254r\u026ak\u0259l/", "Definition: used in or characteristic of or containing allegory", "Synonyms: allegoric"]}
