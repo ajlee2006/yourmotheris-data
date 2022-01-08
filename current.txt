@@ -1,1 +1,1 @@
-{"data": ["2022-01-08T11:01:31.616344+00:00", 4657, "Your mother is", "superordinate", "Pronunciation: /\u02ccsup\u0259r\u02c8\u0254r\u02ccd\u0259ne\u026at/", "Definition: of higher rank or status or value", ""]}
+{"data": ["2022-01-08T12:01:45.203294+00:00", 4658, "Your mother is", "incorrect", "Pronunciation: /\u02cc\u026ank\u0259\u02c8r\u025bkt/", "Definition: not correct; not in conformity with fact or truth", "Synonyms: wrong"]}
