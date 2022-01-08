@@ -1,1 +1,1 @@
-{"data": ["2022-01-08T02:03:00.215911+00:00", 4648, "Your mother is", "three-lipped", "Pronunciation: /\u03b8ri-l\u026apt/", "Definition: having three lips", ""]}
+{"data": ["2022-01-08T03:01:42.422315+00:00", 4649, "Your mother is", "mettlesome", "Pronunciation: /\u02c8m\u025bt\u0259ls\u0259m/", "Definition: willing to face danger", "Synonyms: game, gamey, gamy, gritty, spirited, spunky"]}
