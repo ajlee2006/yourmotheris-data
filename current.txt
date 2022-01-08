@@ -1,1 +1,1 @@
-{"data": ["2022-01-08T19:02:00.617824+00:00", 4665, "Your mother is", "cookie-cutter", "Similar to: same", "Definition: having the same appearance (as if mass-produced)", ""]}
+{"data": ["2022-01-08T20:02:37.702678+00:00", 4666, "Your mother is", "pestiferous", "Pronunciation: /p\u025b\u02c8st\u026af\u0259r\u0259s/", "Definition: tending to corrupt or pervert", "Synonyms: corruptive, perversive"]}
