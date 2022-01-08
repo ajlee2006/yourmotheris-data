@@ -1,1 +1,1 @@
-{"data": ["2022-01-08T15:02:29.259239+00:00", 4661, "Your mother is", "immune", "Pronunciation: /\u026a\u02c8mjun/", "Definition: relating to or conferring immunity (to disease or infection)", "Synonyms: resistant"]}
+{"data": ["2022-01-08T16:02:17.362969+00:00", 4662, "Your mother is", "curving", "Pronunciation: /\u02c8k\u025drv\u026a\u014b/", "Definition: having or marked by a curve or smoothly rounded bend", "Synonyms: curved"]}
