@@ -1,1 +1,1 @@
-{"data": ["2022-01-08T00:04:07.555144+00:00", 4646, "Your mother is", "deterrent", "Pronunciation: /d\u026a\u02c8t\u025cr\u0259nt/", "Definition: tending to deter", ""]}
+{"data": ["2022-01-08T01:02:00.464372+00:00", 4647, "Your mother is", "flagellate", "Pronunciation: /\u02c8fl\u00e6d\u0292\u0259\u02ccle\u026at/", "Definition: having or resembling a lash or whip (as does a flagellum)", "Synonyms: flagellated, lash-like, whiplike"]}
