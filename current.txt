@@ -1,1 +1,1 @@
-{"data": ["2022-01-08T14:01:40.430918+00:00", 4660, "Your mother is", "bouffant", "Pronunciation: /bu\u02c8f\u0251nt/", "Definition: being puffed out; used of hair style or clothing", "Synonyms: puffy"]}
+{"data": ["2022-01-08T15:02:29.259239+00:00", 4661, "Your mother is", "immune", "Pronunciation: /\u026a\u02c8mjun/", "Definition: relating to or conferring immunity (to disease or infection)", "Synonyms: resistant"]}
