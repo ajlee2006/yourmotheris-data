@@ -1,1 +1,1 @@
-{"data": ["2022-01-08T06:02:58.344227+00:00", 4652, "Your mother is", "forfeit", "Pronunciation: /\u02c8f\u0254rf\u026at/", "Definition: surrendered as a penalty", "Synonyms: confiscate, forfeited"]}
+{"data": ["2022-01-08T07:02:33.207595+00:00", 4653, "Your mother is", "adsorbent", "Similar to: chemisorptive", "Definition: having capacity or tendency to adsorb or cause to accumulate on a surface", "Synonyms: adsorptive, surface-assimilative"]}
