@@ -1,1 +1,1 @@
-{"data": ["2022-01-08T22:02:02.252503+00:00", 4668, "Your mother is", "pusillanimous", "Pronunciation: /\u02ccpj\u028as\u0259\u02c8l\u00e6n\u0259m\u0259s/", "Definition: lacking in courage and manly strength and resolution; contemptibly fearful", "Synonyms: poor-spirited, unmanly"]}
+{"data": ["2022-01-08T23:01:16.377269+00:00", 4669, "Your mother is", "caramel", "Pronunciation: /\u02c8k\u00e6r\u0259m\u0259l/", "Definition: having the color of caramel; of a moderate yellow-brown", "Synonyms: caramel brown"]}
