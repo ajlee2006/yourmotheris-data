@@ -1,1 +1,1 @@
-{"data": ["2022-01-08T01:02:00.464372+00:00", 4647, "Your mother is", "flagellate", "Pronunciation: /\u02c8fl\u00e6d\u0292\u0259\u02ccle\u026at/", "Definition: having or resembling a lash or whip (as does a flagellum)", "Synonyms: flagellated, lash-like, whiplike"]}
+{"data": ["2022-01-08T02:03:00.215911+00:00", 4648, "Your mother is", "three-lipped", "Pronunciation: /\u03b8ri-l\u026apt/", "Definition: having three lips", ""]}
