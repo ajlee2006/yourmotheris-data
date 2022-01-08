@@ -1,1 +1,1 @@
-{"data": ["2022-01-08T08:02:51.058304+00:00", 4654, "Your mother is", "livable", "Pronunciation: /\u02c8l\u026av\u0259b\u0259l/", "Definition: fit or suitable to live in or with", "Synonyms: liveable"]}
+{"data": ["2022-01-08T09:02:12.137198+00:00", 4655, "Your mother is", "fitful", "Pronunciation: /\u02c8f\u026atf\u0259l/", "Definition: intermittently stopping and starting", "Synonyms: interrupted, off-and-on"]}
