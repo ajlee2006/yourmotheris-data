@@ -1,1 +1,1 @@
-{"data": ["2022-01-08T07:02:33.207595+00:00", 4653, "Your mother is", "adsorbent", "Similar to: chemisorptive", "Definition: having capacity or tendency to adsorb or cause to accumulate on a surface", "Synonyms: adsorptive, surface-assimilative"]}
+{"data": ["2022-01-08T08:02:51.058304+00:00", 4654, "Your mother is", "livable", "Pronunciation: /\u02c8l\u026av\u0259b\u0259l/", "Definition: fit or suitable to live in or with", "Synonyms: liveable"]}
