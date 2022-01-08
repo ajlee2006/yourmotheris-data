@@ -1,1 +1,1 @@
-{"data": ["2022-01-08T09:02:12.137198+00:00", 4655, "Your mother is", "fitful", "Pronunciation: /\u02c8f\u026atf\u0259l/", "Definition: intermittently stopping and starting", "Synonyms: interrupted, off-and-on"]}
+{"data": ["2022-01-08T10:01:16.638810+00:00", 4656, "Your mother is", "trimmed", "Pronunciation: /tr\u026amd/", "Definition: made neat and tidy by trimming", "Synonyms: cut"]}
