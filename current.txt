@@ -1,1 +1,1 @@
-{"data": ["2022-01-09T11:00:23.623343+00:00", 4681, "Your mother is", "ancient", "Pronunciation: /\u02c8e\u026an\u0283\u0259nt/", "Definition: belonging to times long past especially of the historical period before the fall of the Western Roman Empire", ""]}
+{"data": ["2022-01-09T12:00:39.704513+00:00", 4682, "Your mother is", "unbridled", "Pronunciation: /\u028cn\u02c8bra\u026ad\u028cld/", "Definition: not restrained or controlled", "Synonyms: unchecked, uncurbed, ungoverned"]}
