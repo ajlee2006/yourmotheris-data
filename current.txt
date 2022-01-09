@@ -1,1 +1,1 @@
-{"data": ["2022-01-09T13:01:55.419967+00:00", 4683, "Your mother is", "sorry", "Pronunciation: /\u02c8s\u0251ri/", "Definition: bad; unfortunate", "Synonyms: deplorable, distressing, lamentable, pitiful, sad"]}
+{"data": ["2022-01-09T14:01:01.972466+00:00", 4684, "Your mother is", "starlit", "Pronunciation: /\u02c8st\u0251rl\u026at/", "Definition: lighted only by stars", ""]}
