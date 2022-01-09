@@ -1,1 +1,1 @@
-{"data": ["2022-01-09T14:01:01.972466+00:00", 4684, "Your mother is", "starlit", "Pronunciation: /\u02c8st\u0251rl\u026at/", "Definition: lighted only by stars", ""]}
+{"data": ["2022-01-09T15:02:21.018005+00:00", 4685, "Your mother is", "turned", "Pronunciation: /t\u025drnd/", "Definition: in an unpalatable state", "Synonyms: off, sour"]}
