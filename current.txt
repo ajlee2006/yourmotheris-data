@@ -1,1 +1,1 @@
-{"data": ["2022-01-09T05:01:37.707630+00:00", 4675, "Your mother is", "fatheaded", "Similar to: stupid", "Definition: (used informally) stupid", "Synonyms: blockheaded, boneheaded, duncical, duncish, loggerheaded, thick, thick-skulled, thickheaded, wooden-headed"]}
+{"data": ["2022-01-09T06:01:50.396100+00:00", 4676, "Your mother is", "rightist", "Pronunciation: /\u02c8ra\u026at\u026ast/", "Definition: believing in or supporting tenets of the political right", "Synonyms: right-wing"]}
