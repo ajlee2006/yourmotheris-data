@@ -1,1 +1,1 @@
-{"data": ["2022-01-09T21:01:32.961416+00:00", 4691, "Your mother is", "scaled", "Pronunciation: /ske\u026ald/", "Definition: having the body covered or partially covered with thin horny plates, as some fish and reptiles", "Synonyms: scaley, scaly"]}
+{"data": ["2022-01-09T22:01:36.502061+00:00", 4692, "Your mother is", "pedigreed", "Pronunciation: /\u02c8p\u025bd\u0259\u02ccgrid/", "Definition: having a list of ancestors as proof of being a purebred animal", "Synonyms: pedigree, pureblood, pureblooded, thoroughbred"]}
