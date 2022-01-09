@@ -1,1 +1,1 @@
-{"data": ["2022-01-09T12:00:39.704513+00:00", 4682, "Your mother is", "unbridled", "Pronunciation: /\u028cn\u02c8bra\u026ad\u028cld/", "Definition: not restrained or controlled", "Synonyms: unchecked, uncurbed, ungoverned"]}
+{"data": ["2022-01-09T13:01:55.419967+00:00", 4683, "Your mother is", "sorry", "Pronunciation: /\u02c8s\u0251ri/", "Definition: bad; unfortunate", "Synonyms: deplorable, distressing, lamentable, pitiful, sad"]}
