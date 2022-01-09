@@ -1,1 +1,1 @@
-{"data": ["2022-01-09T06:01:50.396100+00:00", 4676, "Your mother is", "rightist", "Pronunciation: /\u02c8ra\u026at\u026ast/", "Definition: believing in or supporting tenets of the political right", "Synonyms: right-wing"]}
+{"data": ["2022-01-09T07:01:36.739921+00:00", 4677, "Your mother is", "short-run", "Similar to: short", "Definition: relating to or extending over a limited period", "Synonyms: short-term"]}
