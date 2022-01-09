@@ -1,1 +1,1 @@
-{"data": ["2022-01-09T01:02:49.510398+00:00", 4671, "Your mother is", "lucid", "Pronunciation: /\u02c8lus\u026ad/", "Definition: (of language) transparently clear; easily understandable", "Synonyms: crystal clear, limpid, luculent, pellucid, perspicuous"]}
+{"data": ["2022-01-09T02:03:01.504215+00:00", 4672, "Your mother is", "orange-hued", "Pronunciation: /\u02c8\u0254r\u026and\u0292-hjud/", "Definition: having the color of ripe oranges", "Synonyms: orange-colored, orange-coloured"]}
