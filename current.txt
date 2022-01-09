@@ -1,1 +1,1 @@
-{"data": ["2022-01-09T19:01:59.150297+00:00", 4689, "Your mother is", "soft", "Pronunciation: /s\u0254ft/", "Definition: not brilliant or glaring", "Synonyms: subdued"]}
+{"data": ["2022-01-09T20:00:39.558860+00:00", 4690, "Your mother is", "anagrammatical", "", "Definition: related to anagrams or containing or making an anagram", "Synonyms: anagrammatic"]}
