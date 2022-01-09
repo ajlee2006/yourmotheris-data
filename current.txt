@@ -1,1 +1,1 @@
-{"data": ["2022-01-09T18:01:28.549605+00:00", 4688, "Your mother is", "undereducated", "Similar to: uneducated", "Definition: poorly or insufficiently educated", ""]}
+{"data": ["2022-01-09T19:01:59.150297+00:00", 4689, "Your mother is", "soft", "Pronunciation: /s\u0254ft/", "Definition: not brilliant or glaring", "Synonyms: subdued"]}
