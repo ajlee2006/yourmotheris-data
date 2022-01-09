@@ -1,1 +1,1 @@
-{"data": ["2022-01-09T09:01:09.806320+00:00", 4679, "Your mother is", "sunrise", "Pronunciation: /\u02c8s\u0259n\u02ccra\u026az/", "Definition: of an industry or technology; new and developing", ""]}
+{"data": ["2022-01-09T10:00:26.753570+00:00", 4680, "Your mother is", "timeserving", "Similar to: expedient", "Definition: taking immediate advantage, often unethically, of any circumstance of possible benefit", "Synonyms: opportunist, opportunistic"]}
