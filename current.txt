@@ -1,1 +1,1 @@
-{"data": ["2022-01-10T12:01:51.424002+00:00", 4706, "Your mother is", "characterless", "Similar to: ordinary", "Definition: lacking distinct or individual characteristics; dull and uninteresting", "Synonyms: nondescript"]}
+{"data": ["2022-01-10T13:03:04.830782+00:00", 4707, "Your mother is", "victimized", "Pronunciation: /\u02c8v\u026akt\u028cma\u026azd/", "Definition: (of persons) taken advantage of", "Synonyms: exploited, ill-used, put-upon, used, victimised"]}
