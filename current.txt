@@ -1,1 +1,1 @@
-{"data": ["2022-01-10T06:02:37.912153+00:00", 4700, "Your mother is", "florid", "Pronunciation: /\u02c8fl\u0254r\u026ad/", "Definition: elaborately or excessively ornamented", "Synonyms: aureate, flamboyant"]}
+{"data": ["2022-01-10T07:02:33.866305+00:00", 4701, "Your mother is", "demode", "Pronunciation: /de\u026am\u0254\u02c8de\u026a/", "Definition: out of fashion", "Synonyms: antique, ex, old-fashioned, old-hat, outmoded, passe, passee"]}
