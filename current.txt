@@ -1,1 +1,1 @@
-{"data": ["2022-01-10T08:02:27.523946+00:00", 4702, "Your mother is", "enkindled", "Similar to: lighted", "Definition: set afire", "Synonyms: ignited, kindled"]}
+{"data": ["2022-01-10T09:01:49.191302+00:00", 4703, "Your mother is", "boxy", "Pronunciation: /\u02c8b\u0251ksi/", "Definition: resembling a box in rectangularity", "Synonyms: box-shaped, boxlike"]}
