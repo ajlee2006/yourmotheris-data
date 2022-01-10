@@ -1,1 +1,1 @@
-{"data": ["2022-01-10T09:01:49.191302+00:00", 4703, "Your mother is", "boxy", "Pronunciation: /\u02c8b\u0251ksi/", "Definition: resembling a box in rectangularity", "Synonyms: box-shaped, boxlike"]}
+{"data": ["2022-01-10T10:01:54.701982+00:00", 4704, "Your mother is", "good-hearted", "Pronunciation: /\u0261\u028ad-\u02c8h\u0251rt\u026ad/", "Definition: showing or motivated by sympathy and understanding and generosity", "Synonyms: benevolent, charitable, kindly, large-hearted, openhearted, sympathetic"]}
