@@ -1,1 +1,1 @@
-{"data": ["2022-01-10T16:02:11.254359+00:00", 4710, "Your mother is", "78", "Similar to: cardinal", "Definition: being eight more than seventy", "Synonyms: lxxviii, seventy-eight"]}
+{"data": ["2022-01-10T17:01:43.600828+00:00", 4711, "Your mother is", "photometrical", "", "Definition: of or relating to photometry", "Synonyms: photometric"]}
