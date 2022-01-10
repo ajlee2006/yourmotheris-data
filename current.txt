@@ -1,1 +1,1 @@
-{"data": ["2022-01-10T05:02:28.137243+00:00", 4699, "Your mother is", "several-seeded", "Similar to: seedy", "Definition: having many seeds", "Synonyms: multi-seeded"]}
+{"data": ["2022-01-10T06:02:37.912153+00:00", 4700, "Your mother is", "florid", "Pronunciation: /\u02c8fl\u0254r\u026ad/", "Definition: elaborately or excessively ornamented", "Synonyms: aureate, flamboyant"]}
