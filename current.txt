@@ -1,1 +1,1 @@
-{"data": ["2022-01-10T14:01:53.649603+00:00", 4708, "Your mother is", "atonic", "Pronunciation: /\u0259\u02c8t\u0251n\u026ak/", "Definition: (used of syllables) carrying no stress", "Synonyms: unaccented"]}
+{"data": ["2022-01-10T15:02:38.530502+00:00", 4709, "Your mother is", "goggle-eyed", "Pronunciation: /\u02c8\u0261\u0251\u0261\u0259l-a\u026ad/", "Definition: with eyes or mouth open in surprise", "Synonyms: openmouthed, popeyed"]}
