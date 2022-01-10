@@ -1,1 +1,1 @@
-{"data": ["2022-01-10T22:01:57.890184+00:00", 4716, "Your mother is", "dappled", "Pronunciation: /\u02c8d\u00e6p\u0259ld/", "Definition: having spots or patches of color", "Synonyms: mottled"]}
+{"data": ["2022-01-10T23:01:03.363127+00:00", 4717, "Your mother is", "adsorbate", "Pronunciation: /\u00e6d\u02c8s\u0254rbe\u026at/", "Definition: capable of being adsorbed or accumulated on a surface of a solid", "Synonyms: adsorbable"]}
