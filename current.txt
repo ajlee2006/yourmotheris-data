@@ -1,1 +1,1 @@
-{"data": ["2022-01-10T20:00:27.230047+00:00", 4714, "Your mother is", "here", "Pronunciation: /hir/", "Definition: being here now", ""]}
+{"data": ["2022-01-10T21:01:43.755619+00:00", 4715, "Your mother is", "unrealized", "Pronunciation: /\u0259n\u02c8ri\u0259la\u026azd/", "Definition: of persons; marked by failure to realize full potentialities", "Synonyms: unfulfilled, unrealised"]}
