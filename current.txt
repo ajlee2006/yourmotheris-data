@@ -1,1 +1,1 @@
-{"data": ["2022-01-10T19:01:26.095574+00:00", 4713, "Your mother is", "fed up", "Similar to: displeased", "Definition: having a strong distaste from surfeit", "Synonyms: disgusted, sick, sick of, tired of"]}
+{"data": ["2022-01-10T20:00:27.230047+00:00", 4714, "Your mother is", "here", "Pronunciation: /hir/", "Definition: being here now", ""]}
