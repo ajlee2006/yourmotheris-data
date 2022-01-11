@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T16:02:06.509453+00:00", 4733, "Your mother is", "portuguese", "Pronunciation: /\u02ccpo\u028artj\u028a\u02c8\u0261iz/", "Definition: of or relating to or characteristic of Portugal or the people of Portugal or their language", "Synonyms: lusitanian"]}
+{"data": ["2022-01-11T17:01:00.524454+00:00", 4734, "Your mother is", "floury", "Pronunciation: /\u02c8fla\u028ari/", "Definition: resembling flour in fine powdery texture", ""]}
