@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T21:02:47.272893+00:00", 4738, "Your mother is", "sign-language", "Similar to: communicative", "Definition: used of the language of the deaf", "Synonyms: gestural, sign, signed"]}
+{"data": ["2022-01-11T22:01:08.612376+00:00", 4739, "Your mother is", "improvised", "Pronunciation: /\u02c8\u026ampr\u0259\u02ccva\u026azd/", "Definition: done or made using whatever is available", "Synonyms: jury-rigged, makeshift"]}
