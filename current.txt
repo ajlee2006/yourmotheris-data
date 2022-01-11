@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T17:01:00.524454+00:00", 4734, "Your mother is", "floury", "Pronunciation: /\u02c8fla\u028ari/", "Definition: resembling flour in fine powdery texture", ""]}
+{"data": ["2022-01-11T18:01:50.149965+00:00", 4735, "Your mother is", "free-flying", "Similar to: aerial", "Definition: able to fly through the air (as a bird)", ""]}
