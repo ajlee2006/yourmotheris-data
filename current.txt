@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T05:02:28.145259+00:00", 4722, "Your mother is", "diploid", "Pronunciation: /\u02c8d\u026apl\u0254\u026ad/", "Definition: of a cell or organism having two sets of chromosomes or twice the haploid number", ""]}
+{"data": ["2022-01-11T06:01:21.168902+00:00", 4723, "Your mother is", "self-willed", "Pronunciation: /s\u025blf-w\u026ald/", "Definition: habitually disposed to disobedience and opposition", "Synonyms: froward, headstrong, wilful, willful"]}
