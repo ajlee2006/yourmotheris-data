@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T22:01:08.612376+00:00", 4739, "Your mother is", "improvised", "Pronunciation: /\u02c8\u026ampr\u0259\u02ccva\u026azd/", "Definition: done or made using whatever is available", "Synonyms: jury-rigged, makeshift"]}
+{"data": ["2022-01-11T23:00:44.445701+00:00", 4740, "Your mother is", "dyspeptic", "Pronunciation: /d\u026as\u02c8p\u025bpt\u026ak/", "Definition: irritable as if suffering from indigestion", "Synonyms: atrabilious, bilious, liverish"]}
