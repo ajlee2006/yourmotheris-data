@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T04:01:51.313618+00:00", 4721, "Your mother is", "coordinating", "Pronunciation: /ko\u028a\u02c8\u0254rd\u028c\u02ccne\u026at\u026a\u014b/", "Definition: serving to connect two grammatical constituents of identical construction", "Synonyms: coordinative"]}
+{"data": ["2022-01-11T05:02:28.145259+00:00", 4722, "Your mother is", "diploid", "Pronunciation: /\u02c8d\u026apl\u0254\u026ad/", "Definition: of a cell or organism having two sets of chromosomes or twice the haploid number", ""]}
