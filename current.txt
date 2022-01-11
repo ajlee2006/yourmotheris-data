@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T12:02:30.799276+00:00", 4729, "Your mother is", "unverbalized", "Similar to: implicit", "Definition: not made explicit", "Synonyms: unexpressed, unsaid, unspoken, unstated, unuttered, unverbalised, unvoiced"]}
+{"data": ["2022-01-11T13:02:22.845191+00:00", 4730, "Your mother is", "uneconomical", "Pronunciation: /\u028cn\u02cc\u025bk\u028c\u02c8n\u0251m\u026ak\u028cl/", "Definition: wasteful of resources", "Synonyms: uneconomic"]}
