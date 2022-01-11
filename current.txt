@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T10:02:39.410395+00:00", 4727, "Your mother is", "tired", "Pronunciation: /ta\u026a\u0259rd/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, trite, well-worn"]}
+{"data": ["2022-01-11T11:02:02.152130+00:00", 4728, "Your mother is", "spoken", "Pronunciation: /\u02c8spo\u028ak\u0259n/", "Definition: uttered through the medium of speech or characterized by speech; sometimes used in combination", ""]}
