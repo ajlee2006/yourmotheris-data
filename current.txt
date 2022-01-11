@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T20:00:59.276070+00:00", 4737, "Your mother is", "splattered", "Pronunciation: /\u02c8spl\u00e6t\u025drd/", "Definition: covered with bright patches (often used in combination)", "Synonyms: dabbled, spattered, splashed"]}
+{"data": ["2022-01-11T21:02:47.272893+00:00", 4738, "Your mother is", "sign-language", "Similar to: communicative", "Definition: used of the language of the deaf", "Synonyms: gestural, sign, signed"]}
