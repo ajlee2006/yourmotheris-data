@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T11:02:02.152130+00:00", 4728, "Your mother is", "spoken", "Pronunciation: /\u02c8spo\u028ak\u0259n/", "Definition: uttered through the medium of speech or characterized by speech; sometimes used in combination", ""]}
+{"data": ["2022-01-11T12:02:30.799276+00:00", 4729, "Your mother is", "unverbalized", "Similar to: implicit", "Definition: not made explicit", "Synonyms: unexpressed, unsaid, unspoken, unstated, unuttered, unverbalised, unvoiced"]}
