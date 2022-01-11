@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T15:02:10.022059+00:00", 4732, "Your mother is", "allopatric", "Pronunciation: /\u02cc\u00e6l\u0259\u02c8p\u00e6tr\u026ak/", "Definition: (of biological species or speciation) occurring in areas isolated geographically from one another", ""]}
+{"data": ["2022-01-11T16:02:06.509453+00:00", 4733, "Your mother is", "portuguese", "Pronunciation: /\u02ccpo\u028artj\u028a\u02c8\u0261iz/", "Definition: of or relating to or characteristic of Portugal or the people of Portugal or their language", "Synonyms: lusitanian"]}
