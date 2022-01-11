@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T14:02:20.164199+00:00", 4731, "Your mother is", "tended to", "Similar to: cared-for", "Definition: having a caretaker or other watcher", "Synonyms: attended"]}
+{"data": ["2022-01-11T15:02:10.022059+00:00", 4732, "Your mother is", "allopatric", "Pronunciation: /\u02cc\u00e6l\u0259\u02c8p\u00e6tr\u026ak/", "Definition: (of biological species or speciation) occurring in areas isolated geographically from one another", ""]}
