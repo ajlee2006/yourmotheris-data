@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T03:02:42.145761+00:00", 4720, "Your mother is", "en garde", "Similar to: defensive", "Definition: (fencing) in a defensive stance", ""]}
+{"data": ["2022-01-11T04:01:51.313618+00:00", 4721, "Your mother is", "coordinating", "Pronunciation: /ko\u028a\u02c8\u0254rd\u028c\u02ccne\u026at\u026a\u014b/", "Definition: serving to connect two grammatical constituents of identical construction", "Synonyms: coordinative"]}
