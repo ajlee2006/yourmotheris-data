@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T09:01:51.164569+00:00", 4726, "Your mother is", "odd-job", "Similar to: part-time", "Definition: not regular or skilled", ""]}
+{"data": ["2022-01-11T10:02:39.410395+00:00", 4727, "Your mother is", "tired", "Pronunciation: /ta\u026a\u0259rd/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, trite, well-worn"]}
