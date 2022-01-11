@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T13:02:22.845191+00:00", 4730, "Your mother is", "uneconomical", "Pronunciation: /\u028cn\u02cc\u025bk\u028c\u02c8n\u0251m\u026ak\u028cl/", "Definition: wasteful of resources", "Synonyms: uneconomic"]}
+{"data": ["2022-01-11T14:02:20.164199+00:00", 4731, "Your mother is", "tended to", "Similar to: cared-for", "Definition: having a caretaker or other watcher", "Synonyms: attended"]}
