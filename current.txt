@@ -1,1 +1,1 @@
-{"data": ["2022-01-11T19:00:55.111745+00:00", 4736, "Your mother is", "on your guard", "Similar to: wary", "Definition: vigilant", "Synonyms: on guard, on one's guard, upon one's guard"]}
+{"data": ["2022-01-11T20:00:59.276070+00:00", 4737, "Your mother is", "splattered", "Pronunciation: /\u02c8spl\u00e6t\u025drd/", "Definition: covered with bright patches (often used in combination)", "Synonyms: dabbled, spattered, splashed"]}
