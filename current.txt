@@ -1,1 +1,1 @@
-{"data": ["2022-01-12T18:01:37.390372+00:00", 4759, "Your mother is", "answering", "Pronunciation: /\u02c8\u00e6ns\u025dr\u026a\u014b/", "Definition: replying", "Synonyms: respondent"]}
+{"data": ["2022-01-12T19:01:36.074209+00:00", 4760, "Your mother is", "addressable", "Pronunciation: /\u028c\u02c8dr\u025bs\u028cb\u028cl/", "Definition: capable of being addressed", ""]}
