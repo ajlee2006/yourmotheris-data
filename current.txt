@@ -1,1 +1,1 @@
-{"data": ["2022-01-12T08:01:43.665697+00:00", 4749, "Your mother is", "revokable", "Similar to: rescindable", "Definition: capable of being revoked or annulled", "Synonyms: revocable"]}
+{"data": ["2022-01-12T09:02:38.396955+00:00", 4750, "Your mother is", "self-induced", "Pronunciation: /\u02c8s\u025blf\u026an\u02c8dust/", "Definition: brought about by yourself", ""]}
