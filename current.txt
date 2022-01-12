@@ -1,1 +1,1 @@
-{"data": ["2022-01-12T01:03:13.179812+00:00", 4742, "Your mother is", "inner", "Pronunciation: /\u02c8\u026an\u0259r/", "Definition: confined to an exclusive group", "Synonyms: inside, privileged"]}
+{"data": ["2022-01-12T02:00:41.596088+00:00", 4743, "Your mother is", "recovering", "Pronunciation: /r\u028c\u02c8k\u028cv\u025dr\u026a\u014b/", "Definition: returning to health after illness or debility", "Synonyms: convalescent"]}
