@@ -1,1 +1,1 @@
-{"data": ["2022-01-12T00:03:55.051991+00:00", 4741, "Your mother is", "thievish", "Pronunciation: /\u02c8\u03b8iv\u026a\u0283/", "Definition: given to thievery", "Synonyms: thieving"]}
+{"data": ["2022-01-12T01:03:13.179812+00:00", 4742, "Your mother is", "inner", "Pronunciation: /\u02c8\u026an\u0259r/", "Definition: confined to an exclusive group", "Synonyms: inside, privileged"]}
