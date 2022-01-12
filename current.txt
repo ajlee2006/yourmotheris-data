@@ -1,1 +1,1 @@
-{"data": ["2022-01-12T20:01:56.815847+00:00", 4761, "Your mother is", "enveloping", "Pronunciation: /\u026an\u02c8v\u025bl\u028cp\u026a\u014b/", "Definition: surrounding and closing in on or hemming in", ""]}
+{"data": ["2022-01-12T21:00:59.818334+00:00", 4762, "Your mother is", "au fait", "Pronunciation: /o\u028a-\u02c8f\u025b/", "Definition: being up to particular standard or level especially in being up to date in knowledge", "Synonyms: abreast, au courant, up on"]}
