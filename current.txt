@@ -1,1 +1,1 @@
-{"data": ["2022-01-12T04:02:47.552852+00:00", 4745, "Your mother is", "forty", "Pronunciation: /\u02c8f\u0254rti/", "Definition: being ten more than thirty", "Synonyms: 40, twoscore, xl"]}
+{"data": ["2022-01-12T05:02:04.282182+00:00", 4746, "Your mother is", "patented", "Pronunciation: /\u02c8p\u00e6t\u028cnt\u028cd/", "Definition: (of devices and processes) protected by patent", ""]}
