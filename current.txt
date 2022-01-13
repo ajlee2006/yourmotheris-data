@@ -1,1 +1,1 @@
-{"data": ["2022-01-13T01:01:15.585582+00:00", 4766, "Your mother is", "fatuous", "Pronunciation: /\u02c8f\u00e6\u02a7u\u0259s/", "Definition: extremely silly or stupid", "Synonyms: asinine, inane"]}
+{"data": ["2022-01-13T02:01:41.475569+00:00", 4767, "Your mother is", "5", "Similar to: cardinal", "Definition: being one more than four", "Synonyms: five, v"]}
