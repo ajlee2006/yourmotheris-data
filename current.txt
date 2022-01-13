@@ -1,1 +1,1 @@
-{"data": ["2022-01-13T16:02:20.401943+00:00", 4781, "Your mother is", "beady-eyed", "Pronunciation: /\u02c8bidi-a\u026ad/", "Definition: having eyes that gleam with malice", ""]}
+{"data": ["2022-01-13T17:01:09.091362+00:00", 4782, "Your mother is", "all-purpose", "Pronunciation: /\u0254l-\u02c8p\u025crp\u0259s/", "Definition: not limited in use or function", "Synonyms: general-purpose"]}
