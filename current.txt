@@ -1,1 +1,1 @@
-{"data": ["2022-01-13T11:01:49.796434+00:00", 4776, "Your mother is", "amorphous", "Pronunciation: /\u0259\u02c8m\u0254rf\u0259s/", "Definition: having no definite form or distinct shape", "Synonyms: formless, shapeless"]}
+{"data": ["2022-01-13T12:02:30.318765+00:00", 4777, "Your mother is", "diabolical", "Pronunciation: /\u02ccda\u026a\u028c\u02c8b\u0251l\u026ak\u028cl/", "Definition: showing the cunning or ingenuity or wickedness typical of a devil", "Synonyms: devilish, diabolic, mephistophelean, mephistophelian"]}
