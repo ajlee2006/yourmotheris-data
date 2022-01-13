@@ -1,1 +1,1 @@
-{"data": ["2022-01-13T15:01:28.022734+00:00", 4780, "Your mother is", "low-grade", "Pronunciation: /lo\u028a-gre\u026ad/", "Definition: of inferior quality", ""]}
+{"data": ["2022-01-13T16:02:20.401943+00:00", 4781, "Your mother is", "beady-eyed", "Pronunciation: /\u02c8bidi-a\u026ad/", "Definition: having eyes that gleam with malice", ""]}
