@@ -1,1 +1,1 @@
-{"data": ["2022-01-13T22:02:09.877671+00:00", 4787, "Your mother is", "mercantile", "Pronunciation: /\u02c8m\u025crk\u0259n\u02cctil/", "Definition: profit oriented", "Synonyms: mercenary, moneymaking"]}
+{"data": ["2022-01-13T23:00:25.478301+00:00", 4788, "Your mother is", "trivial", "Pronunciation: /\u02c8trivi\u0259l/", "Definition: of little substance or significance", "Synonyms: superficial"]}
