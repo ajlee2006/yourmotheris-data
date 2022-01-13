@@ -1,1 +1,1 @@
-{"data": ["2022-01-13T10:02:52.430673+00:00", 4775, "Your mother is", "dishonourable", "Pronunciation: /d\u026as\u02c8\u0251n\u0259r\u0259b\u0259l/", "Definition: lacking honor or integrity; deserving dishonor", "Synonyms: dishonorable"]}
+{"data": ["2022-01-13T11:01:49.796434+00:00", 4776, "Your mother is", "amorphous", "Pronunciation: /\u0259\u02c8m\u0254rf\u0259s/", "Definition: having no definite form or distinct shape", "Synonyms: formless, shapeless"]}
