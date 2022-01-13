@@ -1,1 +1,1 @@
-{"data": ["2022-01-13T17:01:09.091362+00:00", 4782, "Your mother is", "all-purpose", "Pronunciation: /\u0254l-\u02c8p\u025crp\u0259s/", "Definition: not limited in use or function", "Synonyms: general-purpose"]}
+{"data": ["2022-01-13T18:01:19.255982+00:00", 4783, "Your mother is", "brownish-black", "Similar to: achromatic", "Definition: of black tinged with brown", "Synonyms: brown-black"]}
