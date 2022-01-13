@@ -1,1 +1,1 @@
-{"data": ["2022-01-13T07:02:46.327697+00:00", 4772, "Your mother is", "half-dozen", "Pronunciation: /h\u00e6f-\u02c8d\u0259z\u0259n/", "Definition: denoting a quantity consisting of six items or units", "Synonyms: 6, half dozen, six, vi"]}
+{"data": ["2022-01-13T08:02:04.064484+00:00", 4773, "Your mother is", "embodied", "Pronunciation: /\u026am\u02c8b\u0251did/", "Definition: possessing or existing in bodily form", "Synonyms: bodied, corporal, corporate, incarnate"]}
