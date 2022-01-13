@@ -1,1 +1,1 @@
-{"data": ["2022-01-13T13:02:31.834527+00:00", 4778, "Your mother is", "scrimpy", "Pronunciation: /\u02c8skr\u026ampi/", "Definition: deficient in amount or quality or extent", "Synonyms: meager, meagerly, meagre, stingy"]}
+{"data": ["2022-01-13T14:01:48.279812+00:00", 4779, "Your mother is", "flat-footed", "Pronunciation: /fl\u00e6t-\u02c8f\u028at\u026ad/", "Definition: having broad flat feet that usually turn outward", "Synonyms: flatfooted"]}
