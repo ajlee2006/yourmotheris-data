@@ -1,1 +1,1 @@
-{"data": ["2022-01-13T09:01:56.167050+00:00", 4774, "Your mother is", "beatific", "Pronunciation: /\u02ccbi\u0259\u02c8t\u026af\u026ak/", "Definition: marked by utter benignity; resembling or befitting an angel or saint", "Synonyms: angelic, angelical, sainted, saintlike, saintly"]}
+{"data": ["2022-01-13T10:02:52.430673+00:00", 4775, "Your mother is", "dishonourable", "Pronunciation: /d\u026as\u02c8\u0251n\u0259r\u0259b\u0259l/", "Definition: lacking honor or integrity; deserving dishonor", "Synonyms: dishonorable"]}
