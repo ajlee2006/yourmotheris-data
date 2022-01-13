@@ -1,1 +1,1 @@
-{"data": ["2022-01-13T02:01:41.475569+00:00", 4767, "Your mother is", "5", "Similar to: cardinal", "Definition: being one more than four", "Synonyms: five, v"]}
+{"data": ["2022-01-13T03:01:28.985677+00:00", 4768, "Your mother is", "inheritable", "Pronunciation: /\u026an\u02c8h\u025br\u026at\u0259b\u0259l/", "Definition: capable of being inherited", "Synonyms: heritable"]}
