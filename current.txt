@@ -1,1 +1,1 @@
-{"data": ["2022-01-13T12:02:30.318765+00:00", 4777, "Your mother is", "diabolical", "Pronunciation: /\u02ccda\u026a\u028c\u02c8b\u0251l\u026ak\u028cl/", "Definition: showing the cunning or ingenuity or wickedness typical of a devil", "Synonyms: devilish, diabolic, mephistophelean, mephistophelian"]}
+{"data": ["2022-01-13T13:02:31.834527+00:00", 4778, "Your mother is", "scrimpy", "Pronunciation: /\u02c8skr\u026ampi/", "Definition: deficient in amount or quality or extent", "Synonyms: meager, meagerly, meagre, stingy"]}
