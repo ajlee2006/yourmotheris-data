@@ -1,1 +1,1 @@
-{"data": ["2022-01-12T23:02:08.791506+00:00", 4764, "Your mother is", "falling", "Pronunciation: /\u02c8f\u0251l\u026a\u014b/", "Definition: coming down freely under the influence of gravity", "Synonyms: dropping"]}
+{"data": ["2022-01-13T00:02:54.497313+00:00", 4765, "Your mother is", "crustlike", "Similar to: covered", "Definition: having a hardened crust as a covering", "Synonyms: crusted, crusty, encrusted"]}
