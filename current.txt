@@ -1,1 +1,1 @@
-{"data": ["2022-01-14T18:01:04.498317+00:00", 4807, "Your mother is", "afro-american", "Pronunciation: /\u02cc\u00e6fro\u028a\u0259\u02c8m\u025br\u026ak\u0259n/", "Definition: pertaining to or characteristic of Americans of African ancestry", "Synonyms: african-american"]}
+{"data": ["2022-01-14T19:02:38.363672+00:00", 4808, "Your mother is", "nonappointive", "Similar to: elected", "Definition: filled by popular election rather than by appointment", ""]}
