@@ -1,1 +1,1 @@
-{"data": ["2022-01-13T23:00:25.478301+00:00", 4788, "Your mother is", "trivial", "Pronunciation: /\u02c8trivi\u0259l/", "Definition: of little substance or significance", "Synonyms: superficial"]}
+{"data": ["2022-01-14T00:02:33.901283+00:00", 4789, "Your mother is", "set in stone", "Similar to: unchangeable", "Definition: no longer changeable", "Synonyms: carved in stone"]}
