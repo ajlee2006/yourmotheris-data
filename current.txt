@@ -1,1 +1,1 @@
-{"data": ["2022-01-14T10:02:45.168555+00:00", 4799, "Your mother is", "grade-appropriate", "Similar to: appropriate", "Definition: the quality of ability and work that is appropriate for students in a specified grade", ""]}
+{"data": ["2022-01-14T11:02:32.315970+00:00", 4800, "Your mother is", "plutocratical", "", "Definition: of or relating to or characteristic of a plutocrat", "Synonyms: plutocratic"]}
