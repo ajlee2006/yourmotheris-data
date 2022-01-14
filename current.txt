@@ -1,1 +1,1 @@
-{"data": ["2022-01-14T20:01:20.508773+00:00", 4809, "Your mother is", "oblique-angled", "Pronunciation: /\u0259\u02c8blik-\u02c8\u00e6\u014b\u0261\u0259ld/", "Definition: having oblique angles", ""]}
+{"data": ["2022-01-14T21:02:49.709063+00:00", 4810, "Your mother is", "predisposed", "Pronunciation: /\u02ccprid\u026a\u02c8spo\u028azd/", "Definition: made susceptible", ""]}
