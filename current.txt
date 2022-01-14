@@ -1,1 +1,1 @@
-{"data": ["2022-01-14T04:02:01.340492+00:00", 4793, "Your mother is", "29th", "Similar to: ordinal", "Definition: coming next after the twenty-eighth in position", "Synonyms: twenty-ninth"]}
+{"data": ["2022-01-14T05:01:33.979322+00:00", 4794, "Your mother is", "completing", "Pronunciation: /k\u028cm\u02c8plit\u026a\u014b/", "Definition: acting as or providing a complement (something that completes the whole)", "Synonyms: complemental, complementary"]}
