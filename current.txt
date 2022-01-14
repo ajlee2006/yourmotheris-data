@@ -1,1 +1,1 @@
-{"data": ["2022-01-14T08:01:19.322934+00:00", 4797, "Your mother is", "russian-speaking", "Similar to: communicative", "Definition: able to communicate in Russian", ""]}
+{"data": ["2022-01-14T09:02:16.233845+00:00", 4798, "Your mother is", "gilt-edged", "Pronunciation: /\u02c8\u0261\u026alt\u02c8\u025bd\u0292d/", "Definition: having gilded edges as the pages of a book", ""]}
