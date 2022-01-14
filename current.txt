@@ -1,1 +1,1 @@
-{"data": ["2022-01-14T01:01:52.069194+00:00", 4790, "Your mother is", "puppyish", "Similar to: immature", "Definition: characteristic of a puppy", "Synonyms: puppylike"]}
+{"data": ["2022-01-14T02:02:49.941258+00:00", 4791, "Your mother is", "teen", "Pronunciation: /tin/", "Definition: being of the age 13 through 19", "Synonyms: adolescent, teenage, teenaged"]}
