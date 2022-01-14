@@ -1,1 +1,1 @@
-{"data": ["2022-01-14T15:02:13.130396+00:00", 4804, "Your mother is", "trilobated", "Similar to: compound", "Definition: (of a leaf shape) divided into three lobes", "Synonyms: three-lobed, trilobate, trilobed"]}
+{"data": ["2022-01-14T16:02:29.557914+00:00", 4805, "Your mother is", "degraded", "Pronunciation: /d\u026a\u02c8gre\u026ad\u026ad/", "Definition: lowered in value", "Synonyms: debased, devalued"]}
