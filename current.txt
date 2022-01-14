@@ -1,1 +1,1 @@
-{"data": ["2022-01-14T07:02:46.930065+00:00", 4796, "Your mother is", "grave", "Pronunciation: /gre\u026av/", "Definition: of great gravity or crucial import; requiring serious thought", "Synonyms: grievous, heavy, weighty"]}
+{"data": ["2022-01-14T08:01:19.322934+00:00", 4797, "Your mother is", "russian-speaking", "Similar to: communicative", "Definition: able to communicate in Russian", ""]}
