@@ -1,1 +1,1 @@
-{"data": ["2022-01-14T05:01:33.979322+00:00", 4794, "Your mother is", "completing", "Pronunciation: /k\u028cm\u02c8plit\u026a\u014b/", "Definition: acting as or providing a complement (something that completes the whole)", "Synonyms: complemental, complementary"]}
+{"data": ["2022-01-14T06:00:56.545340+00:00", 4795, "Your mother is", "haematal", "Pronunciation: /\u02c8h\u025bm\u0259t\u0259l/", "Definition: relating to the blood vessels or blood", "Synonyms: haemal, hemal, hematal"]}
