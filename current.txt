@@ -1,1 +1,1 @@
-{"data": ["2022-01-14T12:01:04.099117+00:00", 4801, "Your mother is", "down-to-earth", "Pronunciation: /\u02c8da\u028antu-\u02c8\u025cr\u03b8/", "Definition: sensible and practical", "Synonyms: earthy"]}
+{"data": ["2022-01-14T13:02:32.865947+00:00", 4802, "Your mother is", "operose", "Pronunciation: /\u02c8\u0251p\u0259\u02ccro\u028as/", "Definition: characterized by effort to the point of exhaustion; especially physical effort", "Synonyms: arduous, backbreaking, grueling, gruelling, hard, heavy, laborious, punishing, toilsome"]}
