@@ -1,1 +1,1 @@
-{"data": ["2022-01-14T02:02:49.941258+00:00", 4791, "Your mother is", "teen", "Pronunciation: /tin/", "Definition: being of the age 13 through 19", "Synonyms: adolescent, teenage, teenaged"]}
+{"data": ["2022-01-14T03:02:03.522940+00:00", 4792, "Your mother is", "incandescent", "Pronunciation: /\u02cc\u026ank\u0259n\u02c8d\u025bs\u0259nt/", "Definition: emitting light as a result of being heated", "Synonyms: candent"]}
