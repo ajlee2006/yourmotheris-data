@@ -1,1 +1,1 @@
-{"data": ["2022-01-15T19:02:17.596119+00:00", 4832, "Your mother is", "roiling", "Pronunciation: /\u02c8r\u0254\u026al\u026a\u014b/", "Definition: (of a liquid) agitated vigorously; in a state of turbulence", "Synonyms: churning, roiled, roily, turbulent"]}
+{"data": ["2022-01-15T20:02:43.883758+00:00", 4833, "Your mother is", "nonstructural", "Similar to: nonfunctional", "Definition: not structural", ""]}
