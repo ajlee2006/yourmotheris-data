@@ -1,1 +1,1 @@
-{"data": ["2022-01-15T14:02:39.728620+00:00", 4827, "Your mother is", "blebbed", "Similar to: blemished", "Definition: (of glass or quartzite) marred by small bubbles or small particles of foreign material", "Synonyms: blebby"]}
+{"data": ["2022-01-15T15:00:33.842059+00:00", 4828, "Your mother is", "epizoan", "", "Definition: of or relating to epizoa", "Synonyms: ectozoan"]}
