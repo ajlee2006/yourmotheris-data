@@ -1,1 +1,1 @@
-{"data": ["2022-01-15T02:02:56.549653+00:00", 4815, "Your mother is", "biased", "Pronunciation: /\u02c8ba\u026a\u0259st/", "Definition: favoring one person or side over another", "Synonyms: colored, coloured, one-sided, slanted"]}
+{"data": ["2022-01-15T03:02:53.565612+00:00", 4816, "Your mother is", "starry-eyed", "Pronunciation: /\u02c8st\u0251ri-a\u026ad/", "Definition: unrealistically or naively optimistic", ""]}
