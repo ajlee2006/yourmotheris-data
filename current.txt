@@ -1,1 +1,1 @@
-{"data": ["2022-01-15T12:02:09.896937+00:00", 4825, "Your mother is", "easterly", "Pronunciation: /\u02c8ist\u0259rli/", "Definition: from the east; used especially of winds", "Synonyms: eastern"]}
+{"data": ["2022-01-15T13:00:58.585173+00:00", 4826, "Your mother is", "upper-lower-class", "Similar to: low-class", "Definition: occupying the upper part of the lower class", ""]}
