@@ -1,1 +1,1 @@
-{"data": ["2022-01-15T10:01:03.156542+00:00", 4823, "Your mother is", "visually impaired", "Similar to: blind", "Definition: having greatly reduced vision", "Synonyms: dim-sighted, near-blind, purblind, sand-blind, visually challenged"]}
+{"data": ["2022-01-15T11:00:51.219885+00:00", 4824, "Your mother is", "nonterritorial", "", "Definition: not displaying territoriality", ""]}
