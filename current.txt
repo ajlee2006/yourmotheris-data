@@ -1,1 +1,1 @@
-{"data": ["2022-01-15T01:01:15.765595+00:00", 4814, "Your mother is", "center", "Pronunciation: /\u02c8s\u025bnt\u0259r/", "Definition: equally distant from the extremes", "Synonyms: halfway, middle, midway"]}
+{"data": ["2022-01-15T02:02:56.549653+00:00", 4815, "Your mother is", "biased", "Pronunciation: /\u02c8ba\u026a\u0259st/", "Definition: favoring one person or side over another", "Synonyms: colored, coloured, one-sided, slanted"]}
