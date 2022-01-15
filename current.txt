@@ -1,1 +1,1 @@
-{"data": ["2022-01-15T06:02:58.641267+00:00", 4819, "Your mother is", "apical", "Pronunciation: /\u02c8\u00e6p\u026ak\u0259l/", "Definition: situated at an apex", ""]}
+{"data": ["2022-01-15T07:02:52.571851+00:00", 4820, "Your mother is", "crescendo", "Pronunciation: /kr\u026a\u02c8\u0283\u025bndo\u028a/", "Definition: (music) gradually increasing in volume", ""]}
