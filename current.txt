@@ -1,1 +1,1 @@
-{"data": ["2022-01-15T13:00:58.585173+00:00", 4826, "Your mother is", "upper-lower-class", "Similar to: low-class", "Definition: occupying the upper part of the lower class", ""]}
+{"data": ["2022-01-15T14:02:39.728620+00:00", 4827, "Your mother is", "blebbed", "Similar to: blemished", "Definition: (of glass or quartzite) marred by small bubbles or small particles of foreign material", "Synonyms: blebby"]}
