@@ -1,1 +1,1 @@
-{"data": ["2022-01-15T00:03:39.873098+00:00", 4813, "Your mother is", "arctic", "Pronunciation: /\u02c8\u0251rkt\u026ak/", "Definition: extremely cold", "Synonyms: frigid, gelid, glacial, icy, polar"]}
+{"data": ["2022-01-15T01:01:15.765595+00:00", 4814, "Your mother is", "center", "Pronunciation: /\u02c8s\u025bnt\u0259r/", "Definition: equally distant from the extremes", "Synonyms: halfway, middle, midway"]}
