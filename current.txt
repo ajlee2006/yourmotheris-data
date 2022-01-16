@@ -1,1 +1,1 @@
-{"data": ["2022-01-16T20:00:38.298483+00:00", 4857, "Your mother is", "justificative", "Pronunciation: /\u02c8d\u0292\u0259st\u0259f\u0259\u02ccke\u026at\u026av/", "Definition: providing justification", "Synonyms: justificatory, vindicatory"]}
+{"data": ["2022-01-16T21:00:49.664723+00:00", 4858, "Your mother is", "withdrawn", "Pronunciation: /w\u026a\u00f0\u02c8dr\u0254n/", "Definition: tending to reserve or introspection", "Synonyms: indrawn"]}
