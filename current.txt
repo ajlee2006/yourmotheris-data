@@ -1,1 +1,1 @@
-{"data": ["2022-01-16T03:00:57.945228+00:00", 4840, "Your mother is", "aspectual", "Pronunciation: /\u00e6\u02c8sp\u025bk\u02a7u\u0259l/", "Definition: of or belonging to an aspect (as an aspect of the verb)", ""]}
+{"data": ["2022-01-16T04:02:48.394120+00:00", 4841, "Your mother is", "overstrung", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8str\u0259\u014b/", "Definition: being in a tense state", "Synonyms: edgy, high-strung, highly strung, jittery, jumpy, nervy, restive, uptight"]}
