@@ -1,1 +1,1 @@
-{"data": ["2022-01-16T15:01:18.214987+00:00", 4852, "Your mother is", "idempotent", "Pronunciation: /\u02c8a\u026ad\u0259m\u02c8po\u028at\u0259nt/", "Definition: unchanged in value following multiplication by itself", ""]}
+{"data": ["2022-01-16T16:01:25.643115+00:00", 4853, "Your mother is", "dirt", "Pronunciation: /d\u025crt/", "Definition: (of roads) not leveled or drained; unsuitable for all year travel", "Synonyms: ungraded"]}
