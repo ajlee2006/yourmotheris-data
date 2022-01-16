@@ -1,1 +1,1 @@
-{"data": ["2022-01-16T05:02:36.507754+00:00", 4842, "Your mother is", "knocked out", "Similar to: unconscious", "Definition: knocked unconscious by a heavy blow", "Synonyms: kayoed, ko'd, out, stunned"]}
+{"data": ["2022-01-16T06:02:26.313157+00:00", 4843, "Your mother is", "churchgoing", "Pronunciation: /\u02c8t\u0283\u025drt\u0283\u02cc\u0261o\u028a\u026a\u014b/", "Definition: actively practicing a religion", ""]}
