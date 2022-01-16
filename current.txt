@@ -1,1 +1,1 @@
-{"data": ["2022-01-16T01:00:45.822895+00:00", 4838, "Your mother is", "reprehensible", "Pronunciation: /\u02ccr\u025bpr\u026a\u02c8h\u025bns\u0259b\u0259l/", "Definition: bringing or deserving severe rebuke or censure", "Synonyms: condemnable, criminal, deplorable, vicious"]}
+{"data": ["2022-01-16T02:02:01.206011+00:00", 4839, "Your mother is", "unsealed", "Pronunciation: /\u0259n\u02c8sild/", "Definition: not established or confirmed", "Synonyms: uncertain"]}
