@@ -1,1 +1,1 @@
-{"data": ["2022-01-16T14:01:00.418859+00:00", 4851, "Your mother is", "astylar", "Pronunciation: /e\u026a\u02c8sta\u026al\u0259r/", "Definition: lacking columns or pillars", ""]}
+{"data": ["2022-01-16T15:01:18.214987+00:00", 4852, "Your mother is", "idempotent", "Pronunciation: /\u02c8a\u026ad\u0259m\u02c8po\u028at\u0259nt/", "Definition: unchanged in value following multiplication by itself", ""]}
