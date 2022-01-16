@@ -1,1 +1,1 @@
-{"data": ["2022-01-15T23:01:13.789788+00:00", 4836, "Your mother is", "clothed", "Pronunciation: /klo\u028a\u00f0d/", "Definition: covered with or as if with clothes or a wrap or cloak", "Synonyms: cloaked, draped, mantled, wrapped"]}
+{"data": ["2022-01-16T00:03:47.186302+00:00", 4837, "Your mother is", "pilose", "Pronunciation: /\u02c8pa\u026alo\u028as/", "Definition: covered with hairs especially fine soft ones", "Synonyms: pilary, pilous"]}
