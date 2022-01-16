@@ -1,1 +1,1 @@
-{"data": ["2022-01-16T09:01:16.113576+00:00", 4846, "Your mother is", "tricentenary", "Pronunciation: /\u02cctra\u026as\u025bn\u02c8tin\u0259ri/", "Definition: of or relating to or completing a period of 300 years", "Synonyms: tricentennial"]}
+{"data": ["2022-01-16T10:00:57.470321+00:00", 4847, "Your mother is", "worried", "Pronunciation: /\u02c8w\u025crid/", "Definition: afflicted with or marked by anxious uneasiness or trouble or grief", "Synonyms: disquieted, distressed, disturbed, upset"]}
