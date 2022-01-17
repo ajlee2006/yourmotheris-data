@@ -1,1 +1,1 @@
-{"data": ["2022-01-17T02:01:25.205495+00:00", 4863, "Your mother is", "gouty", "Pronunciation: /\u02c8\u0261a\u028ati/", "Definition: suffering from gout", ""]}
+{"data": ["2022-01-17T03:02:42.933687+00:00", 4864, "Your mother is", "odorous", "Pronunciation: /\u02c8o\u028ad\u0259r\u0259s/", "Definition: emitting an odor", "Synonyms: odoriferous"]}
