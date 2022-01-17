@@ -1,1 +1,1 @@
-{"data": ["2022-01-17T16:02:39.245524+00:00", 4877, "Your mother is", "duplicatable", "Similar to: consistent", "Definition: capable of being duplicated", "Synonyms: duplicable"]}
+{"data": ["2022-01-17T17:01:33.882079+00:00", 4878, "Your mother is", "nine-sided", "Similar to: many-sided", "Definition: having nine sides", ""]}
