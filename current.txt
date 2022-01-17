@@ -1,1 +1,1 @@
-{"data": ["2022-01-17T05:01:06.647356+00:00", 4866, "Your mother is", "cut", "Pronunciation: /k\u0259t/", "Definition: made neat and tidy by trimming", "Synonyms: trimmed"]}
+{"data": ["2022-01-17T06:02:37.911393+00:00", 4867, "Your mother is", "analeptic", "Pronunciation: /\u02cc\u00e6n\u02c8\u0259l\u025bpt\u026ak/", "Definition: stimulating the central nervous system", ""]}
