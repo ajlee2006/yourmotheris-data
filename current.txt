@@ -1,1 +1,1 @@
-{"data": ["2022-01-17T03:02:42.933687+00:00", 4864, "Your mother is", "odorous", "Pronunciation: /\u02c8o\u028ad\u0259r\u0259s/", "Definition: emitting an odor", "Synonyms: odoriferous"]}
+{"data": ["2022-01-17T04:01:54.559027+00:00", 4865, "Your mother is", "blamable", "Pronunciation: /\u02c8ble\u026am\u0259b\u0259l/", "Definition: deserving blame or censure as being wrong or evil or injurious", "Synonyms: blameable, blameful, blameworthy, censurable, culpable"]}
