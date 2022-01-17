@@ -1,1 +1,1 @@
-{"data": ["2022-01-17T22:02:37.477195+00:00", 4883, "Your mother is", "water-washed", "Similar to: clean", "Definition: clean by virtue of having been washed in water", "Synonyms: washed"]}
+{"data": ["2022-01-17T23:00:40.870010+00:00", 4884, "Your mother is", "nonmotile", "Similar to: immobile", "Definition: (of spores or microorganisms) not capable of movement", "Synonyms: immotile"]}
