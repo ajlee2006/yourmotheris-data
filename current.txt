@@ -1,1 +1,1 @@
-{"data": ["2022-01-17T01:02:32.710226+00:00", 4862, "Your mother is", "unresistant", "Similar to: susceptible", "Definition: (often followed by `to') likely to be affected with", "Synonyms: liable, nonimmune, nonresistant"]}
+{"data": ["2022-01-17T02:01:25.205495+00:00", 4863, "Your mother is", "gouty", "Pronunciation: /\u02c8\u0261a\u028ati/", "Definition: suffering from gout", ""]}
