@@ -1,1 +1,1 @@
-{"data": ["2022-01-17T18:01:00.772415+00:00", 4879, "Your mother is", "undreamed", "Pronunciation: /\u0259n\u02c8drimd/", "Definition: not imagined even in a dream", "Synonyms: undreamed of, undreamt, undreamt of, unimagined"]}
+{"data": ["2022-01-17T19:02:27.716935+00:00", 4880, "Your mother is", "variolous", "", "Definition: relating to small pox", "Synonyms: variolar, variolic"]}
