@@ -1,1 +1,1 @@
-{"data": ["2022-01-17T08:00:36.645942+00:00", 4869, "Your mother is", "nativist", "Pronunciation: /\u02c8ne\u026at\u026a\u02ccv\u026ast/", "Definition: advocating the perpetuation of native societies", "Synonyms: nativistic"]}
+{"data": ["2022-01-17T09:01:10.224822+00:00", 4870, "Your mother is", "orbiculate", "Pronunciation: /\u0254r\u02c8b\u026akj\u0259l\u026at/", "Definition: circular or nearly circular", "Synonyms: orbicular"]}
