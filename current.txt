@@ -1,1 +1,1 @@
-{"data": ["2022-01-17T20:02:45.664160+00:00", 4881, "Your mother is", "coruscant", "Pronunciation: /k\u0259\u02c8r\u0259sk\u0259nt/", "Definition: having brief brilliant points or flashes of light", "Synonyms: aglitter, fulgid, glinting, glistering, glittering, glittery, scintillant, scintillating, sparkly"]}
+{"data": ["2022-01-17T21:01:20.204505+00:00", 4882, "Your mother is", "titillated", "Pronunciation: /\u02c8t\u026at\u028c\u02ccle\u026at\u026ad/", "Definition: feeling mild pleasurable excitement", "Synonyms: teased"]}
