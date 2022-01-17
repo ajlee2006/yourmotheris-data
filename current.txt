@@ -1,1 +1,1 @@
-{"data": ["2022-01-17T15:02:58.069334+00:00", 4876, "Your mother is", "fourteen", "Pronunciation: /\u02c8fo\u028ar\u02c8tin/", "Definition: being one more than thirteen", "Synonyms: 14, xiv"]}
+{"data": ["2022-01-17T16:02:39.245524+00:00", 4877, "Your mother is", "duplicatable", "Similar to: consistent", "Definition: capable of being duplicated", "Synonyms: duplicable"]}
