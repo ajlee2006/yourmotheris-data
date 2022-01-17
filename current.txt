@@ -1,1 +1,1 @@
-{"data": ["2022-01-17T04:01:54.559027+00:00", 4865, "Your mother is", "blamable", "Pronunciation: /\u02c8ble\u026am\u0259b\u0259l/", "Definition: deserving blame or censure as being wrong or evil or injurious", "Synonyms: blameable, blameful, blameworthy, censurable, culpable"]}
+{"data": ["2022-01-17T05:01:06.647356+00:00", 4866, "Your mother is", "cut", "Pronunciation: /k\u0259t/", "Definition: made neat and tidy by trimming", "Synonyms: trimmed"]}
