@@ -1,1 +1,1 @@
-{"data": ["2022-01-17T13:02:52.595027+00:00", 4874, "Your mother is", "ocher", "Pronunciation: /\u02c8o\u028ak\u0259r/", "Definition: of a moderate orange-yellow color", "Synonyms: ochre"]}
+{"data": ["2022-01-17T14:01:07.291425+00:00", 4875, "Your mother is", "chylific", "", "Definition: producing or converting into chyle", "Synonyms: chylifactive, chylifactory"]}
