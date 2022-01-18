@@ -1,1 +1,1 @@
-{"data": ["2022-01-18T17:01:46.842463+00:00", 4902, "Your mother is", "antipathetical", "Similar to: disinclined", "Definition: (usually followed by `to') strongly opposed", "Synonyms: antipathetic, averse, indisposed, loath, loth"]}
+{"data": ["2022-01-18T18:00:25.990562+00:00", 4903, "Your mother is", "90th", "Similar to: ordinal", "Definition: the ordinal number of ninety in counting order", "Synonyms: ninetieth"]}
