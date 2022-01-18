@@ -1,1 +1,1 @@
-{"data": ["2022-01-18T03:02:46.929432+00:00", 4888, "Your mother is", "excitatory", "Pronunciation: /\u026ak\u02c8sa\u026at\u0259\u02ccto\u028ari/", "Definition: (of drugs e.g.) able to excite or stimulate", "Synonyms: excitant, excitative"]}
+{"data": ["2022-01-18T04:02:38.178166+00:00", 4889, "Your mother is", "rattlebrained", "Pronunciation: /\u02c8r\u00e6t\u0259l\u02c8bre\u026and/", "Definition: lacking sense or discretion", "Synonyms: rattlepated, scatterbrained, scatty"]}
