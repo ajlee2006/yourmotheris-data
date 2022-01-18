@@ -1,1 +1,1 @@
-{"data": ["2022-01-18T16:02:05.843393+00:00", 4901, "Your mother is", "ignored", "Pronunciation: /\u026a\u0261\u02c8n\u0254rd/", "Definition: disregarded", "Synonyms: neglected, unheeded"]}
+{"data": ["2022-01-18T17:01:46.842463+00:00", 4902, "Your mother is", "antipathetical", "Similar to: disinclined", "Definition: (usually followed by `to') strongly opposed", "Synonyms: antipathetic, averse, indisposed, loath, loth"]}
