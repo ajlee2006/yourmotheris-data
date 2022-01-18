@@ -1,1 +1,1 @@
-{"data": ["2022-01-18T12:00:20.222629+00:00", 4897, "Your mother is", "procedural", "Pronunciation: /pr\u028c\u02c8sid\u0292\u025dr\u028cl/", "Definition: relating to court practice and procedure as opposed to the principles of law", "Synonyms: adjective"]}
+{"data": ["2022-01-18T13:03:04.558845+00:00", 4898, "Your mother is", "sanctionative", "Pronunciation: /\u02c8s\u00e6\u014bk\u0283\u0259\u02ccne\u026at\u026av/", "Definition: implying sanction or serving to sanction", "Synonyms: sanctioning"]}
