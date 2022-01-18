@@ -1,1 +1,1 @@
-{"data": ["2022-01-18T11:00:16.877916+00:00", 4896, "Your mother is", "obsequious", "Pronunciation: /\u0259b\u02c8sikwi\u0259s/", "Definition: attempting to win favor from influential people by flattery", "Synonyms: bootlicking, fawning, sycophantic, toadyish"]}
+{"data": ["2022-01-18T12:00:20.222629+00:00", 4897, "Your mother is", "procedural", "Pronunciation: /pr\u028c\u02c8sid\u0292\u025dr\u028cl/", "Definition: relating to court practice and procedure as opposed to the principles of law", "Synonyms: adjective"]}
