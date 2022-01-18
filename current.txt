@@ -1,1 +1,1 @@
-{"data": ["2022-01-18T05:01:19.729426+00:00", 4890, "Your mother is", "ill-humored", "Similar to: ill-natured", "Definition: brusque and surly and forbidding", "Synonyms: crusty, curmudgeonly, gruff, ill-humoured"]}
+{"data": ["2022-01-18T06:02:06.455141+00:00", 4891, "Your mother is", "consanguineal", "Similar to: related", "Definition: related by blood", "Synonyms: akin, blood-related, cognate, consanguine, consanguineous, kin"]}
