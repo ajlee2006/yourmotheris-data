@@ -1,1 +1,1 @@
-{"data": ["2022-01-18T01:00:23.925660+00:00", 4886, "Your mother is", "haploidic", "", "Definition: of a cell or organism having a single set of chromosomes", "Synonyms: haploid, monoploid"]}
+{"data": ["2022-01-18T02:01:49.172702+00:00", 4887, "Your mother is", "never-say-die", "Similar to: unconquerable", "Definition: impossible to subdue", "Synonyms: indomitable, unsubduable"]}
