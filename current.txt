@@ -1,1 +1,1 @@
-{"data": ["2022-01-18T15:02:30.147276+00:00", 4900, "Your mother is", "grief-stricken", "Pronunciation: /grif-\u02c8str\u026ak\u0259n/", "Definition: sorrowful through loss or deprivation", "Synonyms: bereaved, bereft, grieving, mourning, sorrowing"]}
+{"data": ["2022-01-18T16:02:05.843393+00:00", 4901, "Your mother is", "ignored", "Pronunciation: /\u026a\u0261\u02c8n\u0254rd/", "Definition: disregarded", "Synonyms: neglected, unheeded"]}
