@@ -1,1 +1,1 @@
-{"data": ["2022-01-18T14:02:50.421314+00:00", 4899, "Your mother is", "taken", "Pronunciation: /\u02c8te\u026ak\u0259n/", "Definition: understood in a certain way; made sense of", "Synonyms: interpreted"]}
+{"data": ["2022-01-18T15:02:30.147276+00:00", 4900, "Your mother is", "grief-stricken", "Pronunciation: /grif-\u02c8str\u026ak\u0259n/", "Definition: sorrowful through loss or deprivation", "Synonyms: bereaved, bereft, grieving, mourning, sorrowing"]}
