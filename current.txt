@@ -1,1 +1,1 @@
-{"data": ["2022-01-18T07:02:19.880834+00:00", 4892, "Your mother is", "empyrean", "Pronunciation: /\u02cc\u025bmp\u0259\u02c8ri\u0259n/", "Definition: inspiring awe", "Synonyms: empyreal, sublime"]}
+{"data": ["2022-01-18T08:01:19.252003+00:00", 4893, "Your mother is", "longed-for", "Similar to: wanted", "Definition: greatly desired", "Synonyms: wished-for, yearned-for"]}
