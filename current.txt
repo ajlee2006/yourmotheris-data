@@ -1,1 +1,1 @@
-{"data": ["2022-01-18T04:02:38.178166+00:00", 4889, "Your mother is", "rattlebrained", "Pronunciation: /\u02c8r\u00e6t\u0259l\u02c8bre\u026and/", "Definition: lacking sense or discretion", "Synonyms: rattlepated, scatterbrained, scatty"]}
+{"data": ["2022-01-18T05:01:19.729426+00:00", 4890, "Your mother is", "ill-humored", "Similar to: ill-natured", "Definition: brusque and surly and forbidding", "Synonyms: crusty, curmudgeonly, gruff, ill-humoured"]}
