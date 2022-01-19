@@ -1,1 +1,1 @@
-{"data": ["2022-01-19T07:02:25.902457+00:00", 4916, "Your mother is", "extroverted", "Pronunciation: /\u02c8\u025bkstr\u028c\u02ccv\u025drt\u026ad/", "Definition: not introspective; examining what is outside yourself", "Synonyms: extrospective"]}
+{"data": ["2022-01-19T08:03:02.363606+00:00", 4917, "Your mother is", "25", "Similar to: cardinal", "Definition: being five more than twenty", "Synonyms: twenty-five, xxv"]}
