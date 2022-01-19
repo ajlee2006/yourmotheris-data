@@ -1,1 +1,1 @@
-{"data": ["2022-01-19T16:03:08.266537+00:00", 4925, "Your mother is", "feeble", "Pronunciation: /\u02c8fib\u0259l/", "Definition: lacking strength or vigor", "Synonyms: faint"]}
+{"data": ["2022-01-19T17:02:10.823816+00:00", 4926, "Your mother is", "spermatic", "Pronunciation: /sp\u025cr\u02c8m\u00e6t\u026ak/", "Definition: consisting of or resembling spermatozoa", "Synonyms: spermous"]}
