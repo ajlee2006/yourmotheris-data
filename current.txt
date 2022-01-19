@@ -1,1 +1,1 @@
-{"data": ["2022-01-19T06:01:42.058945+00:00", 4915, "Your mother is", "introuvable", "Similar to: absent", "Definition: impossible to find", ""]}
+{"data": ["2022-01-19T07:02:25.902457+00:00", 4916, "Your mother is", "extroverted", "Pronunciation: /\u02c8\u025bkstr\u028c\u02ccv\u025drt\u026ad/", "Definition: not introspective; examining what is outside yourself", "Synonyms: extrospective"]}
