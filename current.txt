@@ -1,1 +1,1 @@
-{"data": ["2022-01-19T09:01:20.592051+00:00", 4918, "Your mother is", "alert", "Pronunciation: /\u0259\u02c8l\u025crt/", "Definition: engaged in or accustomed to close observation", "Synonyms: watchful"]}
+{"data": ["2022-01-19T10:02:11.666611+00:00", 4919, "Your mother is", "cut up", "Similar to: cut", "Definition: cut into pieces", ""]}
