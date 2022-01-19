@@ -1,1 +1,1 @@
-{"data": ["2022-01-19T17:02:10.823816+00:00", 4926, "Your mother is", "spermatic", "Pronunciation: /sp\u025cr\u02c8m\u00e6t\u026ak/", "Definition: consisting of or resembling spermatozoa", "Synonyms: spermous"]}
+{"data": ["2022-01-19T18:02:18.216851+00:00", 4927, "Your mother is", "campanular", "", "Definition: shaped like a bell or campana", "Synonyms: campanulate, campanulated"]}
