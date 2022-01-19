@@ -1,1 +1,1 @@
-{"data": ["2022-01-19T20:01:14.181167+00:00", 4929, "Your mother is", "suppressed", "Pronunciation: /s\u028c\u02c8pr\u025bst/", "Definition: held in check with difficulty", "Synonyms: smothered, stifled, strangled"]}
+{"data": ["2022-01-19T21:01:47.292534+00:00", 4930, "Your mother is", "twenty-two", "Pronunciation: /\u02c8tw\u025bnti-\u02c8tu/", "Definition: being two more than twenty", "Synonyms: 22, xxii"]}
