@@ -1,1 +1,1 @@
-{"data": ["2022-01-19T01:02:04.955187+00:00", 4910, "Your mother is", "world-weary", "Pronunciation: /w\u025crld-\u02c8wiri/", "Definition: tired of the world", "Synonyms: bored"]}
+{"data": ["2022-01-19T02:01:55.561635+00:00", 4911, "Your mother is", "rhythmical", "Pronunciation: /\u02c8r\u026a\u00f0m\u026ak\u0259l/", "Definition: recurring with measured regularity", "Synonyms: rhythmic"]}
