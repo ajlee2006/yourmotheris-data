@@ -1,1 +1,1 @@
-{"data": ["2022-01-19T00:03:46.161092+00:00", 4909, "Your mother is", "bothered", "Pronunciation: /\u02c8b\u0251\u00f0\u025drd/", "Definition: caused to show discomposure", "Synonyms: daunted, fazed"]}
+{"data": ["2022-01-19T01:02:04.955187+00:00", 4910, "Your mother is", "world-weary", "Pronunciation: /w\u025crld-\u02c8wiri/", "Definition: tired of the world", "Synonyms: bored"]}
