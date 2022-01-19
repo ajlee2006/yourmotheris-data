@@ -1,1 +1,1 @@
-{"data": ["2022-01-19T04:03:02.786322+00:00", 4913, "Your mother is", "unintimidated", "Similar to: fearless", "Definition: not shrinking from danger", "Synonyms: unblinking, unflinching, unshrinking"]}
+{"data": ["2022-01-19T05:00:32.562385+00:00", 4914, "Your mother is", "aeolotropic", "Pronunciation: /\u02cci\u0259lo\u028a\u02c8tr\u0251p\u026ak/", "Definition: having properties with different values along different axes", "Synonyms: eolotropic"]}
