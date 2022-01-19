@@ -1,1 +1,1 @@
-{"data": ["2022-01-19T18:02:18.216851+00:00", 4927, "Your mother is", "campanular", "", "Definition: shaped like a bell or campana", "Synonyms: campanulate, campanulated"]}
+{"data": ["2022-01-19T19:00:44.172300+00:00", 4928, "Your mother is", "biquadratic", "Pronunciation: /\u02ccba\u026akw\u0251\u02c8dr\u00e6t\u026ak/", "Definition: involving  the fourth and no higher power of a quantity or degree", ""]}
