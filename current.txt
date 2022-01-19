@@ -1,1 +1,1 @@
-{"data": ["2022-01-19T13:02:36.855892+00:00", 4922, "Your mother is", "anticlinal", "Pronunciation: /\u02cc\u00e6nt\u026a\u02c8kla\u026an\u0259l/", "Definition: sloping downward away from a common crest", ""]}
+{"data": ["2022-01-19T14:02:32.944273+00:00", 4923, "Your mother is", "cashable", "Similar to: convertible", "Definition: able to be converted into ready money or the equivalent", "Synonyms: redeemable"]}
