@@ -1,1 +1,1 @@
-{"data": ["2022-01-19T19:00:44.172300+00:00", 4928, "Your mother is", "biquadratic", "Pronunciation: /\u02ccba\u026akw\u0251\u02c8dr\u00e6t\u026ak/", "Definition: involving  the fourth and no higher power of a quantity or degree", ""]}
+{"data": ["2022-01-19T20:01:14.181167+00:00", 4929, "Your mother is", "suppressed", "Pronunciation: /s\u028c\u02c8pr\u025bst/", "Definition: held in check with difficulty", "Synonyms: smothered, stifled, strangled"]}
