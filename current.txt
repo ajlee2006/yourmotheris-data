@@ -1,1 +1,1 @@
-{"data": ["2022-01-19T21:01:47.292534+00:00", 4930, "Your mother is", "twenty-two", "Pronunciation: /\u02c8tw\u025bnti-\u02c8tu/", "Definition: being two more than twenty", "Synonyms: 22, xxii"]}
+{"data": ["2022-01-19T22:02:41.407485+00:00", 4931, "Your mother is", "uncomprehended", "Similar to: ununderstood", "Definition: not fully understood", ""]}
