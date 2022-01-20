@@ -1,1 +1,1 @@
-{"data": ["2022-01-20T16:01:23.368002+00:00", 4949, "Your mother is", "nurtural", "Similar to: nonheritable", "Definition: resulting from nurture", ""]}
+{"data": ["2022-01-20T17:02:23.696386+00:00", 4950, "Your mother is", "color", "Pronunciation: /\u02c8k\u0259l\u0259r/", "Definition: having or capable of producing colors", "Synonyms: colour"]}
