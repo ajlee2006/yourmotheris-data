@@ -1,1 +1,1 @@
-{"data": ["2022-01-20T06:02:01.748631+00:00", 4939, "Your mother is", "appropriate", "Pronunciation: /\u0259\u02c8pro\u028apri\u026at/", "Definition: suitable for a particular person or place or condition etc", ""]}
+{"data": ["2022-01-20T07:00:53.351133+00:00", 4940, "Your mother is", "case-by-case", "Similar to: independent", "Definition: separate and distinct from others of the same kind", "Synonyms: individual, item-by-item"]}
