@@ -1,1 +1,1 @@
-{"data": ["2022-01-20T00:03:30.556485+00:00", 4933, "Your mother is", "famed", "Pronunciation: /fe\u026amd/", "Definition: widely known and esteemed", "Synonyms: celebrated, famous, far-famed, illustrious, notable, noted, renowned"]}
+{"data": ["2022-01-20T01:02:22.263269+00:00", 4934, "Your mother is", "pitch-dark", "Pronunciation: /p\u026a\u02a7-d\u0251rk/", "Definition: extremely dark", "Synonyms: black, pitch-black"]}
