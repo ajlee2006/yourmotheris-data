@@ -1,1 +1,1 @@
-{"data": ["2022-01-20T02:03:06.055059+00:00", 4935, "Your mother is", "custom-made", "Pronunciation: /\u02c8k\u0259st\u0259m-\u02c8me\u026ad/", "Definition: made according to the specifications of an individual", "Synonyms: custom"]}
+{"data": ["2022-01-20T03:01:27.346923+00:00", 4936, "Your mother is", "reddish-striped", "Similar to: patterned", "Definition: having red stripes", "Synonyms: red-streaked, red-striped"]}
