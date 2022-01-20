@@ -1,1 +1,1 @@
-{"data": ["2022-01-20T15:03:04.281617+00:00", 4948, "Your mother is", "thin-bodied", "Similar to: bodied", "Definition: having a slim body", "Synonyms: slender-bodied, slim-bodied"]}
+{"data": ["2022-01-20T16:01:23.368002+00:00", 4949, "Your mother is", "nurtural", "Similar to: nonheritable", "Definition: resulting from nurture", ""]}
