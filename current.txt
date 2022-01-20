@@ -1,1 +1,1 @@
-{"data": ["2022-01-20T11:01:41.724976+00:00", 4944, "Your mother is", "precise", "Pronunciation: /pr\u026a\u02c8sa\u026as/", "Definition: (of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth; strictly correct", "Synonyms: accurate, exact"]}
+{"data": ["2022-01-20T12:01:16.460729+00:00", 4945, "Your mother is", "unbent", "Pronunciation: /\u0259n\u02c8b\u025bnt/", "Definition: erect in posture", "Synonyms: straight, unbowed"]}
