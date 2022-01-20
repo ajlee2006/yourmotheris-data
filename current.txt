@@ -1,1 +1,1 @@
-{"data": ["2022-01-20T10:01:54.850771+00:00", 4943, "Your mother is", "begrimed", "Similar to: dirty", "Definition: thickly covered with ingrained dirt or soot", "Synonyms: dingy, grimy, grubby, grungy, raunchy"]}
+{"data": ["2022-01-20T11:01:41.724976+00:00", 4944, "Your mother is", "precise", "Pronunciation: /pr\u026a\u02c8sa\u026as/", "Definition: (of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth; strictly correct", "Synonyms: accurate, exact"]}
