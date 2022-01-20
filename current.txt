@@ -1,1 +1,1 @@
-{"data": ["2022-01-20T17:02:23.696386+00:00", 4950, "Your mother is", "color", "Pronunciation: /\u02c8k\u0259l\u0259r/", "Definition: having or capable of producing colors", "Synonyms: colour"]}
+{"data": ["2022-01-20T18:01:34.334188+00:00", 4950, "Your mother is", "matter-of-course", "Similar to: expected", "Definition: expected or depended upon as a natural or logical outcome", ""]}
