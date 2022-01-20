@@ -1,1 +1,1 @@
-{"data": ["2022-01-20T01:02:22.263269+00:00", 4934, "Your mother is", "pitch-dark", "Pronunciation: /p\u026a\u02a7-d\u0251rk/", "Definition: extremely dark", "Synonyms: black, pitch-black"]}
+{"data": ["2022-01-20T02:03:06.055059+00:00", 4935, "Your mother is", "custom-made", "Pronunciation: /\u02c8k\u0259st\u0259m-\u02c8me\u026ad/", "Definition: made according to the specifications of an individual", "Synonyms: custom"]}
