@@ -1,1 +1,1 @@
-{"data": ["2022-01-21T03:02:23.612578+00:00", 4959, "Your mother is", "microbic", "", "Definition: of or involving or caused by or being microbes", "Synonyms: microbial"]}
+{"data": ["2022-01-21T04:02:37.159375+00:00", 4960, "Your mother is", "coruscant", "Pronunciation: /k\u0259\u02c8r\u0259sk\u0259nt/", "Definition: having brief brilliant points or flashes of light", "Synonyms: aglitter, fulgid, glinting, glistering, glittering, glittery, scintillant, scintillating, sparkly"]}
