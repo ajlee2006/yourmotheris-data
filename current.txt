@@ -1,1 +1,1 @@
-{"data": ["2022-01-21T01:03:04.889284+00:00", 4957, "Your mother is", "unclimbable", "Similar to: impassable", "Definition: incapable of being surmounted or climbed", "Synonyms: unsurmountable"]}
+{"data": ["2022-01-21T02:01:33.890928+00:00", 4958, "Your mother is", "unfamiliar", "Pronunciation: /\u02cc\u0259nf\u0259\u02c8m\u026alj\u0259r/", "Definition: not known or well known", ""]}
