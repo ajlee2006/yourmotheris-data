@@ -1,1 +1,1 @@
-{"data": ["2022-01-21T06:01:22.929963+00:00", 4962, "Your mother is", "gas-filled", "Similar to: full", "Definition: full of a gas", ""]}
+{"data": ["2022-01-21T07:00:38.662973+00:00", 4963, "Your mother is", "stabilized", "Pronunciation: /\u02c8ste\u026ab\u028c\u02ccla\u026azd/", "Definition: made stable or firm", "Synonyms: stabilised"]}
