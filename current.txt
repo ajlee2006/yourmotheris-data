@@ -1,1 +1,1 @@
-{"data": ["2022-01-21T02:01:33.890928+00:00", 4958, "Your mother is", "unfamiliar", "Pronunciation: /\u02cc\u0259nf\u0259\u02c8m\u026alj\u0259r/", "Definition: not known or well known", ""]}
+{"data": ["2022-01-21T03:02:23.612578+00:00", 4959, "Your mother is", "microbic", "", "Definition: of or involving or caused by or being microbes", "Synonyms: microbial"]}
