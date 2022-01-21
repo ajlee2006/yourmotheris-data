@@ -1,1 +1,1 @@
-{"data": ["2022-01-21T00:03:21.156720+00:00", 4956, "Your mother is", "untreated", "Pronunciation: /\u0259n\u02c8trit\u026ad/", "Definition: not subjected to chemical or physical treatment", ""]}
+{"data": ["2022-01-21T01:03:04.889284+00:00", 4957, "Your mother is", "unclimbable", "Similar to: impassable", "Definition: incapable of being surmounted or climbed", "Synonyms: unsurmountable"]}
