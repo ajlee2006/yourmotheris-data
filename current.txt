@@ -1,1 +1,1 @@
-{"data": ["2022-01-21T21:02:28.105483+00:00", 4977, "Your mother is", "botonee", "Pronunciation: /\u02c8b\u0251t\u02cc\u0259ne\u026a/", "Definition: (of a heraldic cross) having a cluster of three buttons or knobs at the end of each arm", "Synonyms: botonnee"]}
+{"data": ["2022-01-21T22:00:59.746976+00:00", 4978, "Your mother is", "envious", "Pronunciation: /\u02c8\u025bnvi\u0259s/", "Definition: showing extreme cupidity; painfully desirous of another's advantages", "Synonyms: covetous, jealous"]}
