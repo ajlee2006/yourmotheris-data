@@ -1,1 +1,1 @@
-{"data": ["2022-01-21T15:02:22.269239+00:00", 4971, "Your mother is", "frontmost", "Similar to: front", "Definition: preceding all others in spatial position", "Synonyms: foremost"]}
+{"data": ["2022-01-21T16:01:05.454584+00:00", 4972, "Your mother is", "agonizing", "Pronunciation: /\u02c8\u00e6\u0261\u0259\u02ccna\u026az\u026a\u014b/", "Definition: extremely painful", "Synonyms: agonising, excruciating, harrowing, torturesome, torturing, torturous"]}
