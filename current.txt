@@ -1,1 +1,1 @@
-{"data": ["2022-01-21T14:02:21.707435+00:00", 4970, "Your mother is", "86", "Similar to: cardinal", "Definition: being six more than eighty", "Synonyms: eighty-six, lxxxvi"]}
+{"data": ["2022-01-21T15:02:22.269239+00:00", 4971, "Your mother is", "frontmost", "Similar to: front", "Definition: preceding all others in spatial position", "Synonyms: foremost"]}
