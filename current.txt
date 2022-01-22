@@ -1,1 +1,1 @@
-{"data": ["2022-01-22T19:01:15.974488+00:00", 4999, "Your mother is", "gaudy", "Pronunciation: /\u02c8\u0261\u0254di/", "Definition: (used especially of clothes) marked by conspicuous display", "Synonyms: flashy, jazzy, showy, sporty"]}
+{"data": ["2022-01-22T20:00:48.094567+00:00", 5000, "Your mother is", "deadened", "Similar to: insensitive", "Definition: devoid of physical sensation; numb", "Synonyms: dead"]}
