@@ -1,1 +1,1 @@
-{"data": ["2022-01-22T09:01:02.218812+00:00", 4989, "Your mother is", "grandiloquent", "Pronunciation: /gr\u00e6n\u02c8d\u026al\u0259kw\u0259nt/", "Definition: puffed up with vanity", "Synonyms: overblown, pompous, pontifical, portentous"]}
+{"data": ["2022-01-22T10:01:01.259767+00:00", 4990, "Your mother is", "sprawly", "Similar to: extended", "Definition: extended out irregularly", ""]}
