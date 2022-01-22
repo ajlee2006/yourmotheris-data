@@ -1,1 +1,1 @@
-{"data": ["2022-01-22T13:01:07.341185+00:00", 4993, "Your mother is", "contained", "Pronunciation: /k\u0259n\u02c8te\u026and/", "Definition: gotten under control", ""]}
+{"data": ["2022-01-22T14:01:16.020148+00:00", 4994, "Your mother is", "spatial", "Pronunciation: /\u02c8spe\u026a\u0283\u0259l/", "Definition: pertaining to or involving or having the nature of space", "Synonyms: spacial"]}
