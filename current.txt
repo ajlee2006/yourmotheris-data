@@ -1,1 +1,1 @@
-{"data": ["2022-01-22T17:00:53.164721+00:00", 4997, "Your mother is", "extravagant", "Pronunciation: /\u026ak\u02c8str\u00e6v\u0259\u0261\u0259nt/", "Definition: unrestrained, especially with regard to feelings", "Synonyms: excessive, exuberant, overweening"]}
+{"data": ["2022-01-22T18:00:32.483141+00:00", 4998, "Your mother is", "indicative", "Pronunciation: /\u026an\u02c8d\u026ak\u0259t\u026av/", "Definition: (usually followed by `of') pointing out or revealing clearly", "Synonyms: indicatory, revelatory, significative, suggestive"]}
