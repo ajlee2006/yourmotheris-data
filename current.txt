@@ -1,1 +1,1 @@
-{"data": ["2022-01-22T18:00:32.483141+00:00", 4998, "Your mother is", "indicative", "Pronunciation: /\u026an\u02c8d\u026ak\u0259t\u026av/", "Definition: (usually followed by `of') pointing out or revealing clearly", "Synonyms: indicatory, revelatory, significative, suggestive"]}
+{"data": ["2022-01-22T19:01:15.974488+00:00", 4999, "Your mother is", "gaudy", "Pronunciation: /\u02c8\u0261\u0254di/", "Definition: (used especially of clothes) marked by conspicuous display", "Synonyms: flashy, jazzy, showy, sporty"]}
