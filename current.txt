@@ -1,1 +1,1 @@
-{"data": ["2022-01-22T00:02:46.685324+00:00", 4980, "Your mother is", "obligated", "Pronunciation: /\u02c8\u0251bl\u028c\u02cc\u0261e\u026at\u026ad/", "Definition: caused by law or conscience to follow a certain course", ""]}
+{"data": ["2022-01-22T01:01:38.388398+00:00", 4981, "Your mother is", "hearsay", "Pronunciation: /\u02c8hir\u02ccse\u026a/", "Definition: heard through another rather than directly", ""]}
