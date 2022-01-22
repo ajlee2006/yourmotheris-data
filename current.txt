@@ -1,1 +1,1 @@
-{"data": ["2022-01-22T07:01:15.845263+00:00", 4987, "Your mother is", "all-time", "Pronunciation: /\u0254l-ta\u026am/", "Definition: unsurpassed in some respect up to the present", ""]}
+{"data": ["2022-01-22T08:01:20.580168+00:00", 4988, "Your mother is", "high-tech", "Similar to: advanced", "Definition: resembling or making use of highly advanced technology or devices", "Synonyms: hi-tech"]}
