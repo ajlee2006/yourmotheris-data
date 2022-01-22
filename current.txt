@@ -1,1 +1,1 @@
-{"data": ["2022-01-22T15:01:10.599983+00:00", 4995, "Your mother is", "low-rise", "Similar to: walk-up", "Definition: used of buildings of one or only a few stories and usually no elevator; low", ""]}
+{"data": ["2022-01-22T16:01:09.220413+00:00", 4996, "Your mother is", "parched", "Pronunciation: /p\u0251rt\u0283t/", "Definition: dried out by heat or excessive exposure to sunlight", "Synonyms: adust, baked, scorched, sunbaked"]}
