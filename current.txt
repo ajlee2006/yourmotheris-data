@@ -1,1 +1,1 @@
-{"data": ["2022-01-22T20:00:48.094567+00:00", 5000, "Your mother is", "deadened", "Similar to: insensitive", "Definition: devoid of physical sensation; numb", "Synonyms: dead"]}
+{"data": ["2022-01-22T21:00:52.687013+00:00", 5001, "Your mother is", "anaclinal", "Pronunciation: /\u02cc\u00e6n\u0259\u02c8kla\u026an\u0259l/", "Definition: of valleys and rivers; progressing in a direction opposite to the dip in surrounding rock strata", ""]}
