@@ -1,1 +1,1 @@
-{"data": ["2022-01-22T01:01:38.388398+00:00", 4981, "Your mother is", "hearsay", "Pronunciation: /\u02c8hir\u02ccse\u026a/", "Definition: heard through another rather than directly", ""]}
+{"data": ["2022-01-22T02:00:39.176988+00:00", 4982, "Your mother is", "monogenic", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8d\u0292\u025bn\u026ak/", "Definition: of or relating to an inheritable character that is controlled by a single pair of genes", ""]}
