@@ -1,1 +1,1 @@
-{"data": ["2022-01-23T02:01:21.629312+00:00", 5006, "Your mother is", "unwonted", "Pronunciation: /\u0259n\u02c8wo\u028ant\u026ad/", "Definition: unaccustomed or unusual", ""]}
+{"data": ["2022-01-23T03:01:04.264681+00:00", 5007, "Your mother is", "ptolemaic", "Pronunciation: /\u02cct\u0251l\u0259\u02c8me\u026a\u026ak/", "Definition: of or relating to the geocentric Ptolemaic system", ""]}
