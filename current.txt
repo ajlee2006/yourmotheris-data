@@ -1,1 +1,1 @@
-{"data": ["2022-01-23T19:00:36.669033+00:00", 5023, "Your mother is", "shuddery", "Similar to: alarming", "Definition: provoking fear terror", "Synonyms: chilling, scary, shivery"]}
+{"data": ["2022-01-23T20:00:21.109491+00:00", 5024, "Your mother is", "affiliated", "Pronunciation: /\u028c\u02c8f\u026ali\u02cce\u026at\u028cd/", "Definition: being joined in close association", "Synonyms: attached, connected"]}
