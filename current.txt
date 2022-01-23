@@ -1,1 +1,1 @@
-{"data": ["2022-01-22T23:00:59.849713+00:00", 5003, "Your mother is", "glossy-coated", "Similar to: haired", "Definition: having glossy hair", "Synonyms: glossy-furred, glossy-haired"]}
+{"data": ["2022-01-23T00:05:23.138825+00:00", 5004, "Your mother is", "saudi", "Pronunciation: /\u02c8s\u0254di/", "Definition: of or relating to Saudi Arabia or its people", "Synonyms: saudi-arabian"]}
