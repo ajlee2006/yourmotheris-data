@@ -1,1 +1,1 @@
-{"data": ["2022-01-23T18:00:37.432129+00:00", 5022, "Your mother is", "meagerly", "Pronunciation: /\u02c8mi\u0261\u0259rli/", "Definition: deficient in amount or quality or extent", "Synonyms: meager, meagre, scrimpy, stingy"]}
+{"data": ["2022-01-23T19:00:36.669033+00:00", 5023, "Your mother is", "shuddery", "Similar to: alarming", "Definition: provoking fear terror", "Synonyms: chilling, scary, shivery"]}
