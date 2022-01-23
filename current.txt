@@ -1,1 +1,1 @@
-{"data": ["2022-01-23T22:01:03.174305+00:00", 5026, "Your mother is", "restricting", "Pronunciation: /ri\u02c8str\u026akt\u026a\u014b/", "Definition: restricting the scope or freedom of action", "Synonyms: confining, constraining, constrictive, limiting"]}
+{"data": ["2022-01-23T23:01:13.005948+00:00", 5027, "Your mother is", "round-faced", "Pronunciation: /\u02c8ra\u028and-\u02c8fe\u026ast/", "Definition: having a round face", "Synonyms: moon-faced"]}
