@@ -1,1 +1,1 @@
-{"data": ["2022-01-23T06:01:07.202366+00:00", 5010, "Your mother is", "boric", "Pronunciation: /\u02c8bo\u028ar\u026ak/", "Definition: of or relating to or derived from or containing boron", "Synonyms: boracic"]}
+{"data": ["2022-01-23T07:01:26.430188+00:00", 5011, "Your mother is", "argillaceous", "Pronunciation: /\u02cc\u0251rd\u0292\u0259\u02c8le\u026a\u0283\u0259s/", "Definition: resembling or containing clay", "Synonyms: clayey"]}
