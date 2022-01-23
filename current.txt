@@ -1,1 +1,1 @@
-{"data": ["2022-01-23T14:00:30.834019+00:00", 5018, "Your mother is", "raped", "Pronunciation: /re\u026apt/", "Definition: having been robbed and destroyed by force and violence", "Synonyms: despoiled, pillaged, ravaged, sacked"]}
+{"data": ["2022-01-23T15:01:13.463641+00:00", 5019, "Your mother is", "preoperative", "Pronunciation: /\u02c8pri\u02c8\u0251p(\u0259)r\u0259t\u026av/", "Definition: happening or done before and in preparation for a surgical operation", ""]}
