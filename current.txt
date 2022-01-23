@@ -1,1 +1,1 @@
-{"data": ["2022-01-23T20:00:21.109491+00:00", 5024, "Your mother is", "affiliated", "Pronunciation: /\u028c\u02c8f\u026ali\u02cce\u026at\u028cd/", "Definition: being joined in close association", "Synonyms: attached, connected"]}
+{"data": ["2022-01-23T21:00:47.231035+00:00", 5025, "Your mother is", "lay", "Pronunciation: /le\u026a/", "Definition: characteristic of those who are not members of the clergy", "Synonyms: laic, secular"]}
