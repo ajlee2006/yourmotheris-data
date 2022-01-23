@@ -1,1 +1,1 @@
-{"data": ["2022-01-23T15:01:13.463641+00:00", 5019, "Your mother is", "preoperative", "Pronunciation: /\u02c8pri\u02c8\u0251p(\u0259)r\u0259t\u026av/", "Definition: happening or done before and in preparation for a surgical operation", ""]}
+{"data": ["2022-01-23T16:01:00.747545+00:00", 5020, "Your mother is", "biliary", "Pronunciation: /\u02c8b\u026ali\u02cc\u025bri/", "Definition: relating to or containing bile", "Synonyms: bilious"]}
