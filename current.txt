@@ -1,1 +1,1 @@
-{"data": ["2022-01-23T03:01:04.264681+00:00", 5007, "Your mother is", "ptolemaic", "Pronunciation: /\u02cct\u0251l\u0259\u02c8me\u026a\u026ak/", "Definition: of or relating to the geocentric Ptolemaic system", ""]}
+{"data": ["2022-01-23T04:00:46.841274+00:00", 5008, "Your mother is", "shared out", "Similar to: distributed", "Definition: distributed in portions (often equal) on the basis of a plan or purpose", "Synonyms: divided, divided up, shared"]}
