@@ -1,1 +1,1 @@
-{"data": ["2022-01-24T14:01:37.622615+00:00", 5040, "Your mother is", "edematous", "Similar to: unhealthy", "Definition: swollen with an excessive accumulation of fluid", "Synonyms: dropsical"]}
+{"data": ["2022-01-24T15:00:45.281459+00:00", 5041, "Your mother is", "aluminiferous", "Pronunciation: /\u0259\u02cclum\u0259\u02c8n\u026af\u0259r\u0259s/", "Definition: containing alum or aluminum", ""]}
