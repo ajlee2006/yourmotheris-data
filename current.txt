@@ -1,1 +1,1 @@
-{"data": ["2022-01-23T23:01:13.005948+00:00", 5027, "Your mother is", "round-faced", "Pronunciation: /\u02c8ra\u028and-\u02c8fe\u026ast/", "Definition: having a round face", "Synonyms: moon-faced"]}
+{"data": ["2022-01-24T00:01:50.291504+00:00", 5028, "Your mother is", "knee-deep", "Pronunciation: /ni-dip/", "Definition: coming only to the ankle or knee", "Synonyms: ankle-deep"]}
