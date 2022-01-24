@@ -1,1 +1,1 @@
-{"data": ["2022-01-24T16:00:21.850201+00:00", 5042, "Your mother is", "vestigial", "Pronunciation: /v\u025b\u02c8st\u026ad\u0292i\u0259l/", "Definition: not fully developed in mature animals", "Synonyms: rudimentary"]}
+{"data": ["2022-01-24T17:01:03.397395+00:00", 5043, "Your mother is", "sniffly", "Similar to: tearful", "Definition: liable to sniffle", "Synonyms: snuffling, snuffly"]}
