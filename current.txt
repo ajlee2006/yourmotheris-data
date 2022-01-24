@@ -1,1 +1,1 @@
-{"data": ["2022-01-24T06:01:24.093993+00:00", 5033, "Your mother is", "square-tailed", "Similar to: caudate", "Definition: having a square tail", ""]}
+{"data": ["2022-01-24T08:01:18.613899+00:00", 5034, "Your mother is", "black-and-white", "Pronunciation: /\u02c8bl\u00e6k\u0259n\u02c8hwa\u026at/", "Definition: not having or not capable of producing colors", "Synonyms: black and white"]}
