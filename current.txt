@@ -1,1 +1,1 @@
-{"data": ["2022-01-24T20:00:36.886680+00:00", 5046, "Your mother is", "nonclassical", "Similar to: modern", "Definition: not classical", ""]}
+{"data": ["2022-01-24T21:00:18.091204+00:00", 5047, "Your mother is", "low-cal", "Similar to: fat-free", "Definition: having relatively few calories", "Synonyms: calorie-free, light, lite"]}
