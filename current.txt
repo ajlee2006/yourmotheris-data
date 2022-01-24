@@ -1,1 +1,1 @@
-{"data": ["2022-01-24T09:01:38.349862+00:00", 5035, "Your mother is", "uppermost", "Pronunciation: /\u02c8\u0259p\u0259r\u02ccmo\u028ast/", "Definition: at or nearest to the top", "Synonyms: topmost, upmost"]}
+{"data": ["2022-01-24T10:00:54.899067+00:00", 5036, "Your mother is", "nonastringent", "", "Definition: not astringent", ""]}
