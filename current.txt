@@ -1,1 +1,1 @@
-{"data": ["2022-01-24T01:01:09.582257+00:00", 5029, "Your mother is", "colorful", "Pronunciation: /\u02c8k\u0259l\u0259rf\u0259l/", "Definition: striking in variety and interest", "Synonyms: colourful"]}
+{"data": ["2022-01-24T02:01:29.956590+00:00", 5029, "Your mother is", "polysynthetic", "Pronunciation: /\u02ccp\u0251lis\u026an\u02c8\u03b8\u025bt\u026ak/", "Definition: forming derivative or compound words by putting together constituents each of which expresses a single definite meaning", "Synonyms: agglutinative"]}
