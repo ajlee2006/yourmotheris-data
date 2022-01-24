@@ -1,1 +1,1 @@
-{"data": ["2022-01-24T10:00:54.899067+00:00", 5036, "Your mother is", "nonastringent", "", "Definition: not astringent", ""]}
+{"data": ["2022-01-24T11:00:42.101928+00:00", 5037, "Your mother is", "fleshly", "Pronunciation: /fl\u025b\u0283li/", "Definition: marked by the appetites and passions of the body", "Synonyms: animal, carnal, sensual"]}
