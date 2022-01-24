@@ -1,1 +1,1 @@
-{"data": ["2022-01-24T15:00:45.281459+00:00", 5041, "Your mother is", "aluminiferous", "Pronunciation: /\u0259\u02cclum\u0259\u02c8n\u026af\u0259r\u0259s/", "Definition: containing alum or aluminum", ""]}
+{"data": ["2022-01-24T16:00:21.850201+00:00", 5042, "Your mother is", "vestigial", "Pronunciation: /v\u025b\u02c8st\u026ad\u0292i\u0259l/", "Definition: not fully developed in mature animals", "Synonyms: rudimentary"]}
