@@ -1,1 +1,1 @@
-{"data": ["2022-01-24T18:01:18.590136+00:00", 5044, "Your mother is", "indo-germanic", "Pronunciation: /\u02c8\u026ando\u028a-d\u0292\u0259r\u02c8m\u00e6n\u026ak/", "Definition: of or relating to the Indo-European language family", "Synonyms: indo-european"]}
+{"data": ["2022-01-24T19:01:13.718662+00:00", 5045, "Your mother is", "stereotypic", "Similar to: conventional", "Definition: lacking spontaneity or originality or individuality", "Synonyms: stereotyped, stereotypical, unimaginative"]}
