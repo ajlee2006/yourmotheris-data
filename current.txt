@@ -1,1 +1,1 @@
-{"data": ["2022-01-24T19:01:13.718662+00:00", 5045, "Your mother is", "stereotypic", "Similar to: conventional", "Definition: lacking spontaneity or originality or individuality", "Synonyms: stereotyped, stereotypical, unimaginative"]}
+{"data": ["2022-01-24T20:00:36.886680+00:00", 5046, "Your mother is", "nonclassical", "Similar to: modern", "Definition: not classical", ""]}
