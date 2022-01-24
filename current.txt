@@ -1,1 +1,1 @@
-{"data": ["2022-01-24T17:01:03.397395+00:00", 5043, "Your mother is", "sniffly", "Similar to: tearful", "Definition: liable to sniffle", "Synonyms: snuffling, snuffly"]}
+{"data": ["2022-01-24T18:01:18.590136+00:00", 5044, "Your mother is", "indo-germanic", "Pronunciation: /\u02c8\u026ando\u028a-d\u0292\u0259r\u02c8m\u00e6n\u026ak/", "Definition: of or relating to the Indo-European language family", "Synonyms: indo-european"]}
