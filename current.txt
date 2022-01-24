@@ -1,1 +1,1 @@
-{"data": ["2022-01-24T02:01:29.956590+00:00", 5029, "Your mother is", "polysynthetic", "Pronunciation: /\u02ccp\u0251lis\u026an\u02c8\u03b8\u025bt\u026ak/", "Definition: forming derivative or compound words by putting together constituents each of which expresses a single definite meaning", "Synonyms: agglutinative"]}
+{"data": ["2022-01-24T03:01:32.716310+00:00", 5030, "Your mother is", "off her guard", "Similar to: unready", "Definition: not prepared or vigilant", "Synonyms: napping, off-guard, off guard, off his guard, off one's guard, off your guard"]}
