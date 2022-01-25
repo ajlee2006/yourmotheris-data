@@ -1,1 +1,1 @@
-{"data": ["2022-01-25T02:01:39.963845+00:00", 5052, "Your mother is", "earsplitting", "Pronunciation: /\u02c8ir\u02ccspl\u026at\u026a\u014b/", "Definition: loud enough to cause (temporary) hearing loss", "Synonyms: deafening, thunderous, thundery"]}
+{"data": ["2022-01-25T03:01:22.547196+00:00", 5053, "Your mother is", "axenic", "Pronunciation: /e\u026a\u02c8z\u025bn\u026ak/", "Definition: (of experimental animals) raised under sterile conditions", ""]}
