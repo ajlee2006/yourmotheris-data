@@ -1,1 +1,1 @@
-{"data": ["2022-01-25T19:00:46.466555+00:00", 5069, "Your mother is", "spent", "Pronunciation: /sp\u025bnt/", "Definition: drained of energy or effectiveness; extremely tired; completely exhausted", "Synonyms: dog-tired, exhausted, fagged, fatigued, gone, played out, washed-out, worn-out, worn out"]}
+{"data": ["2022-01-25T20:00:52.876539+00:00", 5070, "Your mother is", "propellant", "Pronunciation: /pr\u0259\u02c8p\u025bl\u0259nt/", "Definition: tending to or capable of propelling", "Synonyms: propellent, propelling, propulsive"]}
