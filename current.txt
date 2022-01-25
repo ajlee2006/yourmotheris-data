@@ -1,1 +1,1 @@
-{"data": ["2022-01-25T10:00:59.513610+00:00", 5060, "Your mother is", "febrile", "Pronunciation: /\u02c8fibr\u0259l/", "Definition: of or relating to or characterized by fever", "Synonyms: feverish"]}
+{"data": ["2022-01-25T11:00:39.997059+00:00", 5061, "Your mother is", "somatic", "Pronunciation: /so\u028a\u02c8m\u00e6t\u026ak/", "Definition: affecting or characteristic of the body as opposed to the mind or spirit", "Synonyms: bodily, corporal, corporeal"]}
