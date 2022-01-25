@@ -1,1 +1,1 @@
-{"data": ["2022-01-25T08:00:44.113079+00:00", 5058, "Your mother is", "throwaway", "Pronunciation: /\u02c8\u03b8ro\u028a\u0259\u02ccwe\u026a/", "Definition: thrown away", "Synonyms: cast-off, discarded, thrown-away"]}
+{"data": ["2022-01-25T09:00:31.007267+00:00", 5059, "Your mother is", "aculeated", "", "Definition: having or resembling a stinger or barb", "Synonyms: aculeate"]}
