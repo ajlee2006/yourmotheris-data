@@ -1,1 +1,1 @@
-{"data": ["2022-01-25T03:01:22.547196+00:00", 5053, "Your mother is", "axenic", "Pronunciation: /e\u026a\u02c8z\u025bn\u026ak/", "Definition: (of experimental animals) raised under sterile conditions", ""]}
+{"data": ["2022-01-25T04:01:34.836300+00:00", 5054, "Your mother is", "uncorrectable", "Similar to: incorrigible", "Definition: incapable of being controlled or managed", "Synonyms: uncontrollable, unmanageable"]}
