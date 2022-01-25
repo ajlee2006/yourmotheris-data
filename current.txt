@@ -1,1 +1,1 @@
-{"data": ["2022-01-25T05:01:25.748150+00:00", 5055, "Your mother is", "scandent", "Pronunciation: /\u02c8sk\u00e6nd\u0259nt/", "Definition: used especially of plants; having a tendency to climb", ""]}
+{"data": ["2022-01-25T06:01:13.241017+00:00", 5056, "Your mother is", "woodsy", "Pronunciation: /\u02c8w\u028adzi/", "Definition: abounding in trees", "Synonyms: arboraceous, arboreous, woody"]}
