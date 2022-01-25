@@ -1,1 +1,1 @@
-{"data": ["2022-01-25T14:00:17.995638+00:00", 5064, "Your mother is", "unpressed", "Pronunciation: /\u0259n\u02c8pr\u025bst/", "Definition: (of clothing) not smoothed with heat", ""]}
+{"data": ["2022-01-25T15:01:13.298653+00:00", 5065, "Your mother is", "kaput", "Pronunciation: /k\u0251\u02c8p\u028at/", "Definition: destroyed or killed", "Synonyms: done for, gone"]}
