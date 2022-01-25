@@ -1,1 +1,1 @@
-{"data": ["2022-01-25T11:00:39.997059+00:00", 5061, "Your mother is", "somatic", "Pronunciation: /so\u028a\u02c8m\u00e6t\u026ak/", "Definition: affecting or characteristic of the body as opposed to the mind or spirit", "Synonyms: bodily, corporal, corporeal"]}
+{"data": ["2022-01-25T12:00:58.715113+00:00", 5062, "Your mother is", "consumptive", "Pronunciation: /k\u0259n\u02c8s\u0259mpt\u026av/", "Definition: afflicted with or associated with pulmonary tuberculosis", ""]}
