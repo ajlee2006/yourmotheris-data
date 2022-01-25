@@ -1,1 +1,1 @@
-{"data": ["2022-01-25T00:01:42.525021+00:00", 5050, "Your mother is", "antiblack", "Similar to: discriminatory", "Definition: discriminatory especially on the basis of race or religion", "Synonyms: anti-semite, racist"]}
+{"data": ["2022-01-25T01:00:25.432224+00:00", 5051, "Your mother is", "scottish", "Pronunciation: /\u02c8sk\u0251t\u026a\u0283/", "Definition: of or relating to or characteristic of Scotland or its people or culture or its English dialect or Gaelic language", "Synonyms: scotch, scots"]}
