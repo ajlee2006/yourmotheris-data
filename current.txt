@@ -1,1 +1,1 @@
-{"data": ["2022-01-25T07:00:57.114216+00:00", 5057, "Your mother is", "taliped", "Pronunciation: /\u02c8t\u00e6l\u0259\u02ccp\u025bd/", "Definition: having a deformed foot", "Synonyms: clubfooted"]}
+{"data": ["2022-01-25T08:00:44.113079+00:00", 5058, "Your mother is", "throwaway", "Pronunciation: /\u02c8\u03b8ro\u028a\u0259\u02ccwe\u026a/", "Definition: thrown away", "Synonyms: cast-off, discarded, thrown-away"]}
