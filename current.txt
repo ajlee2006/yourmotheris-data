@@ -1,1 +1,1 @@
-{"data": ["2022-01-25T06:01:13.241017+00:00", 5056, "Your mother is", "woodsy", "Pronunciation: /\u02c8w\u028adzi/", "Definition: abounding in trees", "Synonyms: arboraceous, arboreous, woody"]}
+{"data": ["2022-01-25T07:00:57.114216+00:00", 5057, "Your mother is", "taliped", "Pronunciation: /\u02c8t\u00e6l\u0259\u02ccp\u025bd/", "Definition: having a deformed foot", "Synonyms: clubfooted"]}
