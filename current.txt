@@ -1,1 +1,1 @@
-{"data": ["2022-01-25T01:00:25.432224+00:00", 5051, "Your mother is", "scottish", "Pronunciation: /\u02c8sk\u0251t\u026a\u0283/", "Definition: of or relating to or characteristic of Scotland or its people or culture or its English dialect or Gaelic language", "Synonyms: scotch, scots"]}
+{"data": ["2022-01-25T02:01:39.963845+00:00", 5052, "Your mother is", "earsplitting", "Pronunciation: /\u02c8ir\u02ccspl\u026at\u026a\u014b/", "Definition: loud enough to cause (temporary) hearing loss", "Synonyms: deafening, thunderous, thundery"]}
