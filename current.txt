@@ -1,1 +1,1 @@
-{"data": ["2022-01-26T05:00:44.384065+00:00", 5079, "Your mother is", "syncretic", "", "Definition: relating to a historical tendency for a language to reduce its use of inflections", "Synonyms: syncretical, syncretistic, syncretistical"]}
+{"data": ["2022-01-26T06:01:21.089311+00:00", 5080, "Your mother is", "signed", "Pronunciation: /sa\u026and/", "Definition: used of the language of the deaf", "Synonyms: gestural, sign, sign-language"]}
