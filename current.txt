@@ -1,1 +1,1 @@
-{"data": ["2022-01-26T06:01:21.089311+00:00", 5080, "Your mother is", "signed", "Pronunciation: /sa\u026and/", "Definition: used of the language of the deaf", "Synonyms: gestural, sign, sign-language"]}
+{"data": ["2022-01-26T07:01:28.548442+00:00", 5081, "Your mother is", "lateen", "Pronunciation: /l\u00e6\u02c8tin/", "Definition: rigged with a triangular (lateen) sail", "Synonyms: lateen-rigged"]}
