@@ -1,1 +1,1 @@
-{"data": ["2022-01-26T09:00:59.972607+00:00", 5083, "Your mother is", "topping", "Pronunciation: /\u02c8t\u0251p\u026a\u014b/", "Definition: excellent; best possible", "Synonyms: top-flight, top-hole"]}
+{"data": ["2022-01-26T10:00:43.209199+00:00", 5084, "Your mother is", "drug-addicted", "Pronunciation: /dr\u0259g-\u0259\u02c8d\u026akt\u026ad/", "Definition: addicted to a drug", "Synonyms: dependant, dependent, hooked, strung-out"]}
