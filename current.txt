@@ -1,1 +1,1 @@
-{"data": ["2022-01-26T17:00:29.502134+00:00", 5091, "Your mother is", "unburdened", "Pronunciation: /\u028cn\u02c8b\u025drd\u028cnd/", "Definition: not encumbered with a physical burden or load", "Synonyms: burdenless"]}
+{"data": ["2022-01-26T18:01:37.066585+00:00", 5092, "Your mother is", "credal", "Pronunciation: /\u02c8krid\u0259l/", "Definition: of or relating to a creed", "Synonyms: creedal"]}
