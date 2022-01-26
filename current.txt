@@ -1,1 +1,1 @@
-{"data": ["2022-01-26T22:01:31.521394+00:00", 5096, "Your mother is", "unwitting", "Pronunciation: /\u0259n\u02c8w\u026at\u026a\u014b/", "Definition: not done with purpose or intent", "Synonyms: unintentional, unplanned"]}
+{"data": ["2022-01-26T23:00:29.185838+00:00", 5097, "Your mother is", "diarrhetic", "Pronunciation: /\u02ccda\u026a\u0259\u02c8r\u025bt\u026ak/", "Definition: of or relating to diarrhea", "Synonyms: diarrheal, diarrheic, diarrhoeal, diarrhoeic, diarrhoetic"]}
