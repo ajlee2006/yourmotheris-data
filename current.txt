@@ -1,1 +1,1 @@
-{"data": ["2022-01-26T08:01:31.765795+00:00", 5082, "Your mother is", "unendowed", "Pronunciation: /\u02cc\u0259n\u026an\u02c8d\u00e6\u028ad/", "Definition: not equipped or provided", ""]}
+{"data": ["2022-01-26T09:00:59.972607+00:00", 5083, "Your mother is", "topping", "Pronunciation: /\u02c8t\u0251p\u026a\u014b/", "Definition: excellent; best possible", "Synonyms: top-flight, top-hole"]}
