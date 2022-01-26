@@ -1,1 +1,1 @@
-{"data": ["2022-01-26T00:02:00.908183+00:00", 5074, "Your mother is", "round-fruited", "Pronunciation: /ra\u028and-\u02c8frut\u026ad/", "Definition: bearing round fruit", ""]}
+{"data": ["2022-01-26T01:00:59.277067+00:00", 5075, "Your mother is", "palatable", "Pronunciation: /\u02c8p\u00e6l\u0259t\u0259b\u0259l/", "Definition: acceptable to the taste or mind", "Synonyms: toothsome"]}
