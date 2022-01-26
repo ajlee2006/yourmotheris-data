@@ -1,1 +1,1 @@
-{"data": ["2022-01-26T15:00:51.635792+00:00", 5089, "Your mother is", "dwindling", "Pronunciation: /\u02c8dw\u026and\u028cl\u026a\u014b/", "Definition: gradually decreasing until little remains", "Synonyms: tapering, tapering off"]}
+{"data": ["2022-01-26T16:00:38.766454+00:00", 5090, "Your mother is", "sanative", "Pronunciation: /\u02c8s\u00e6n\u0259t\u026av/", "Definition: tending to cure or restore to health", "Synonyms: alterative, curative, healing, remedial, therapeutic"]}
