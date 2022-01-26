@@ -1,1 +1,1 @@
-{"data": ["2022-01-26T20:00:52.826242+00:00", 5094, "Your mother is", "halfway", "Pronunciation: /\u02c8h\u00e6f\u02ccwe\u026a/", "Definition: equally distant from the extremes", "Synonyms: center, middle, midway"]}
+{"data": ["2022-01-26T21:01:02.431426+00:00", 5095, "Your mother is", "pectinate", "Pronunciation: /\u02c8p\u025bkt\u0259\u02ccne\u026at/", "Definition: like a comb", ""]}
