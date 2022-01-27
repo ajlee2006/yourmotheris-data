@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T17:00:18.724296+00:00", 5114, "Your mother is", "cosmogonic", "Pronunciation: /\u02cck\u0251zm\u0259\u02c8\u0261\u0251n\u026ak/", "Definition: pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe", "Synonyms: cosmogenic, cosmogonical, cosmologic, cosmological"]}
+{"data": ["2022-01-27T18:01:29.082442+00:00", 5114, "Your mother is", "counterproductive", "Pronunciation: /\u02c8ka\u028ant\u025drpr\u028c\u02ccd\u028ckt\u026av/", "Definition: tending to hinder the achievement of a goal", ""]}
