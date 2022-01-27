@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T06:00:36.847123+00:00", 5104, "Your mother is", "unattackable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u00e6k\u0259b\u0259l/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, inviolable, secure, strong, unassailable"]}
+{"data": ["2022-01-27T07:01:17.421095+00:00", 5105, "Your mother is", "unpersuasive", "Pronunciation: /\u02cc\u0259np\u0259\u02c8swe\u026as\u026av/", "Definition: not capable of persuading", ""]}
