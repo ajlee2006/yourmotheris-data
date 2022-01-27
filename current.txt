@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T04:00:49.959574+00:00", 5102, "Your mother is", "protanopic", "Pronunciation: /\u02ccpro\u028at\u02c8\u0259n\u0251p\u026ak/", "Definition: inability to see the color red or to distinguish red and bluish-green", "Synonyms: red-blind"]}
+{"data": ["2022-01-27T05:00:27.847987+00:00", 5103, "Your mother is", "muddleheaded", "Pronunciation: /\u02c8m\u0259d\u0259l\u02cch\u025bd\u026ad/", "Definition: stupid and confused", "Synonyms: addlebrained, addlepated, puddingheaded"]}
