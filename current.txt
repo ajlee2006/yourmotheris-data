@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T21:01:16.891837+00:00", 5114, "Your mother is", "erstwhile", "Pronunciation: /\u02c8\u025crst\u02cchwa\u026al/", "Definition: belonging to some prior time", "Synonyms: former, old, one-time, onetime, quondam, sometime"]}
+{"data": ["2022-01-27T22:01:03.344950+00:00", 5114, "Your mother is", "adulterous", "Pronunciation: /\u0259\u02c8d\u0259lt\u0259r\u0259s/", "Definition: characterized by adultery", "Synonyms: extracurricular, extramarital"]}
