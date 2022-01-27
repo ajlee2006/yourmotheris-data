@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T15:01:30.822030+00:00", 5113, "Your mother is", "riotous", "Pronunciation: /\u02c8ra\u026a\u0259t\u0259s/", "Definition: characterized by unrest or disorder or insubordination", "Synonyms: disruptive, troubled, tumultuous, turbulent"]}
+{"data": ["2022-01-27T16:01:40.117179+00:00", 5114, "Your mother is", "undersized", "Pronunciation: /\u02c8\u0259nd\u0259r\u02c8sa\u026azd/", "Definition: smaller than normal for its kind", "Synonyms: undersize"]}
