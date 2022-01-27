@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T09:00:43.315191+00:00", 5107, "Your mother is", "inebriated", "Similar to: bacchanal", "Definition: stupefied or excited by a chemical substance (especially alcohol)", "Synonyms: drunk, gone, intoxicated, ripped"]}
+{"data": ["2022-01-27T10:00:43.095326+00:00", 5108, "Your mother is", "duodecimal", "Pronunciation: /\u02ccdu\u0259\u02c8d\u025bs\u0259m\u0259l/", "Definition: based on twelve", ""]}
