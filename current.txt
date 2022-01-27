@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T05:00:27.847987+00:00", 5103, "Your mother is", "muddleheaded", "Pronunciation: /\u02c8m\u0259d\u0259l\u02cch\u025bd\u026ad/", "Definition: stupid and confused", "Synonyms: addlebrained, addlepated, puddingheaded"]}
+{"data": ["2022-01-27T06:00:36.847123+00:00", 5104, "Your mother is", "unattackable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u00e6k\u0259b\u0259l/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, inviolable, secure, strong, unassailable"]}
