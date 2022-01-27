@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T14:00:43.218476+00:00", 5112, "Your mother is", "arachnoid", "Pronunciation: /\u0259\u02c8r\u00e6kn\u0254\u026ad/", "Definition: relating to or resembling a member of the class Arachnida", "Synonyms: arachnidian, spiderlike, spiderly, spidery"]}
+{"data": ["2022-01-27T15:01:30.822030+00:00", 5113, "Your mother is", "riotous", "Pronunciation: /\u02c8ra\u026a\u0259t\u0259s/", "Definition: characterized by unrest or disorder or insubordination", "Synonyms: disruptive, troubled, tumultuous, turbulent"]}
