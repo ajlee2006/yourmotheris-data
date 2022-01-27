@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T10:00:43.095326+00:00", 5108, "Your mother is", "duodecimal", "Pronunciation: /\u02ccdu\u0259\u02c8d\u025bs\u0259m\u0259l/", "Definition: based on twelve", ""]}
+{"data": ["2022-01-27T11:00:49.414775+00:00", 5109, "Your mother is", "monied", "Pronunciation: /\u02c8m\u0259nid/", "Definition: based on or arising from the possession of money or wealth", "Synonyms: moneyed"]}
