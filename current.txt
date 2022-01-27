@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T22:01:03.344950+00:00", 5114, "Your mother is", "adulterous", "Pronunciation: /\u0259\u02c8d\u0259lt\u0259r\u0259s/", "Definition: characterized by adultery", "Synonyms: extracurricular, extramarital"]}
+{"data": ["2022-01-27T23:01:00.543927+00:00", 5114, "Your mother is", "delinquent", "Pronunciation: /d\u026a\u02c8l\u026a\u014bkw\u0259nt/", "Definition: failing in what duty requires", "Synonyms: derelict, neglectful, remiss"]}
