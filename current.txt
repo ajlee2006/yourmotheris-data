@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T00:02:07.719164+00:00", 5098, "Your mother is", "metaphysical", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8f\u026az\u026ak\u0259l/", "Definition: highly abstract and overly theoretical", ""]}
+{"data": ["2022-01-27T01:01:21.687948+00:00", 5099, "Your mother is", "pseudoperipteral", "Pronunciation: /\u02ccsudo\u028ap\u0259\u02c8r\u026apt\u0259r\u0259l/", "Definition: having columniation completely circling an area of the structure", "Synonyms: peristylar"]}
