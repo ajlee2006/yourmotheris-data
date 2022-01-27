@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T03:01:47.789017+00:00", 5101, "Your mother is", "shabby-genteel", "Pronunciation: /\u02c8\u0283\u00e6bi-d\u0292\u025bn\u02c8til/", "Definition: trying to maintain dignity and self respect despite shabbiness", ""]}
+{"data": ["2022-01-27T04:00:49.959574+00:00", 5102, "Your mother is", "protanopic", "Pronunciation: /\u02ccpro\u028at\u02c8\u0259n\u0251p\u026ak/", "Definition: inability to see the color red or to distinguish red and bluish-green", "Synonyms: red-blind"]}
