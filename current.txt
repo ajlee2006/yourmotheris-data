@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T11:00:49.414775+00:00", 5109, "Your mother is", "monied", "Pronunciation: /\u02c8m\u0259nid/", "Definition: based on or arising from the possession of money or wealth", "Synonyms: moneyed"]}
+{"data": ["2022-01-27T12:00:44.549068+00:00", 5110, "Your mother is", "indistinguishable", "Pronunciation: /\u02cc\u026and\u026a\u02c8st\u026a\u014bgw\u026a\u0283\u0259b\u0259l/", "Definition: exactly alike; incapable of being perceived as different", "Synonyms: identical"]}
