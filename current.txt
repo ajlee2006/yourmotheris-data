@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T01:01:21.687948+00:00", 5099, "Your mother is", "pseudoperipteral", "Pronunciation: /\u02ccsudo\u028ap\u0259\u02c8r\u026apt\u0259r\u0259l/", "Definition: having columniation completely circling an area of the structure", "Synonyms: peristylar"]}
+{"data": ["2022-01-27T02:00:50.546151+00:00", 5100, "Your mother is", "lurid", "Pronunciation: /\u02c8l\u028ar\u026ad/", "Definition: glaringly vivid and graphic; marked by sensationalism", "Synonyms: shocking"]}
