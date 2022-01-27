@@ -1,1 +1,1 @@
-{"data": ["2022-01-26T23:00:29.185838+00:00", 5097, "Your mother is", "diarrhetic", "Pronunciation: /\u02ccda\u026a\u0259\u02c8r\u025bt\u026ak/", "Definition: of or relating to diarrhea", "Synonyms: diarrheal, diarrheic, diarrhoeal, diarrhoeic, diarrhoetic"]}
+{"data": ["2022-01-27T00:02:07.719164+00:00", 5098, "Your mother is", "metaphysical", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8f\u026az\u026ak\u0259l/", "Definition: highly abstract and overly theoretical", ""]}
