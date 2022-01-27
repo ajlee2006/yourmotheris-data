@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T20:00:49.560878+00:00", 5114, "Your mother is", "inhibited", "Pronunciation: /\u026an\u02c8h\u026ab\u028ct\u026ad/", "Definition: held back or restrained or prevented", ""]}
+{"data": ["2022-01-27T21:01:16.891837+00:00", 5114, "Your mother is", "erstwhile", "Pronunciation: /\u02c8\u025crst\u02cchwa\u026al/", "Definition: belonging to some prior time", "Synonyms: former, old, one-time, onetime, quondam, sometime"]}
