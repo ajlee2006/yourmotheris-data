@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T16:01:40.117179+00:00", 5114, "Your mother is", "undersized", "Pronunciation: /\u02c8\u0259nd\u0259r\u02c8sa\u026azd/", "Definition: smaller than normal for its kind", "Synonyms: undersize"]}
+{"data": ["2022-01-27T17:00:18.724296+00:00", 5114, "Your mother is", "cosmogonic", "Pronunciation: /\u02cck\u0251zm\u0259\u02c8\u0261\u0251n\u026ak/", "Definition: pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe", "Synonyms: cosmogenic, cosmogonical, cosmologic, cosmological"]}
