@@ -1,1 +1,1 @@
-{"data": ["2022-01-28T16:00:18.264697+00:00", 5114, "Your mother is", "disqualified", "Pronunciation: /d\u026as\u02c8kw\u0251l\u028c\u02ccfa\u026ad/", "Definition: barred from competition for violation of rules", ""]}
+{"data": ["2022-01-28T17:00:40.915375+00:00", 5114, "Your mother is", "senior", "Pronunciation: /\u02c8sinj\u0259r/", "Definition: used of the fourth and final year in United States high school or college", "Synonyms: fourth-year"]}
