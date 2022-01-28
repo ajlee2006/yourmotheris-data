@@ -1,1 +1,1 @@
-{"data": ["2022-01-28T03:01:38.747390+00:00", 5114, "Your mother is", "purple-black", "Pronunciation: /\u02c8p\u025crp\u0259l-bl\u00e6k/", "Definition: of black tinged with purple", "Synonyms: purplish-black"]}
+{"data": ["2022-01-28T04:01:16.642174+00:00", 5114, "Your mother is", "calumnious", "Pronunciation: /k\u0259\u02c8l\u0259mni\u0259s/", "Definition: (used of statements) harmful and often untrue; tending to discredit or malign", "Synonyms: calumniatory, defamatory, denigrating, denigrative, denigratory, libellous, libelous, slanderous"]}
