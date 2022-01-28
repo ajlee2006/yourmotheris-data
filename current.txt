@@ -1,1 +1,1 @@
-{"data": ["2022-01-28T15:01:25.959292+00:00", 5114, "Your mother is", "unspecific", "Similar to: general", "Definition: not detailed or specific", "Synonyms: broad"]}
+{"data": ["2022-01-28T16:00:18.264697+00:00", 5114, "Your mother is", "disqualified", "Pronunciation: /d\u026as\u02c8kw\u0251l\u028c\u02ccfa\u026ad/", "Definition: barred from competition for violation of rules", ""]}
