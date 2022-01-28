@@ -1,1 +1,1 @@
-{"data": ["2022-01-28T09:01:01.835133+00:00", 5114, "Your mother is", "avestan", "Pronunciation: /\u0259\u02c8v\u025bst\u0259/", "Definition: of or pertaining to the Avesta (sacred text of Zoroastrianism)", ""]}
+{"data": ["2022-01-28T10:01:10.795258+00:00", 5114, "Your mother is", "unleaded", "Pronunciation: /\u0259n\u02c8l\u025bd\u026ad/", "Definition: not treated with lead", "Synonyms: leadless"]}
