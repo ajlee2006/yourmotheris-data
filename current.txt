@@ -1,1 +1,1 @@
-{"data": ["2022-01-28T20:01:06.665826+00:00", 5114, "Your mother is", "hectic", "Pronunciation: /\u02c8h\u025bkt\u026ak/", "Definition: marked by intense agitation or emotion", "Synonyms: feverish"]}
+{"data": ["2022-01-28T21:01:13.288388+00:00", 5114, "Your mother is", "spendthrift", "Pronunciation: /\u02c8sp\u025bnd\u02cc\u03b8r\u026aft/", "Definition: recklessly wasteful", "Synonyms: extravagant, prodigal, profligate"]}
