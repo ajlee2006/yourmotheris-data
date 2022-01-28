@@ -1,1 +1,1 @@
-{"data": ["2022-01-27T23:01:00.543927+00:00", 5114, "Your mother is", "delinquent", "Pronunciation: /d\u026a\u02c8l\u026a\u014bkw\u0259nt/", "Definition: failing in what duty requires", "Synonyms: derelict, neglectful, remiss"]}
+{"data": ["2022-01-28T00:01:54.688237+00:00", 5114, "Your mother is", "ireful", "Pronunciation: /\u02c8a\u026a\u0259rf\u0259l/", "Definition: feeling or showing extreme anger", "Synonyms: irate"]}
