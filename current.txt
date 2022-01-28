@@ -1,1 +1,1 @@
-{"data": ["2022-01-28T00:01:54.688237+00:00", 5114, "Your mother is", "ireful", "Pronunciation: /\u02c8a\u026a\u0259rf\u0259l/", "Definition: feeling or showing extreme anger", "Synonyms: irate"]}
+{"data": ["2022-01-28T01:01:19.360525+00:00", 5114, "Your mother is", "up on", "Similar to: informed", "Definition: being up to particular standard or level especially in being up to date in knowledge", "Synonyms: abreast, au courant, au fait"]}
