@@ -1,1 +1,1 @@
-{"data": ["2022-01-28T22:00:51.888797+00:00", 5114, "Your mother is", "christianly", "Pronunciation: /\u02c8kR\u026asti\u02cc\u0251nli/", "Definition: becoming to or like a Christian", ""]}
+{"data": ["2022-01-28T23:00:41.427497+00:00", 5114, "Your mother is", "nonhierarchical", "Similar to: ungraded", "Definition: not classified hierarchically", "Synonyms: nonhierarchic"]}
