@@ -1,1 +1,1 @@
-{"data": ["2022-01-28T10:01:10.795258+00:00", 5114, "Your mother is", "unleaded", "Pronunciation: /\u0259n\u02c8l\u025bd\u026ad/", "Definition: not treated with lead", "Synonyms: leadless"]}
+{"data": ["2022-01-28T11:01:04.328473+00:00", 5114, "Your mother is", "wont to", "Similar to: accustomed to", "Definition: in the habit of doing something", "Synonyms: used to"]}
