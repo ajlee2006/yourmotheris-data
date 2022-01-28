@@ -1,1 +1,1 @@
-{"data": ["2022-01-28T05:01:31.054718+00:00", 5114, "Your mother is", "tremulous", "Pronunciation: /\u02c8tr\u025bmj\u0259l\u0259s/", "Definition: (of the voice) quivering as from weakness or fear", "Synonyms: quavering"]}
+{"data": ["2022-01-28T06:01:33.543121+00:00", 5114, "Your mother is", "heterotrophic", "Pronunciation: /\u02cch\u025bt\u0259r\u0259\u02c8tr\u0251f\u026ak/", "Definition: requiring organic compounds of carbon and nitrogen for nourishment", ""]}
