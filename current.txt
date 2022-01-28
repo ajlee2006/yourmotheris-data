@@ -1,1 +1,1 @@
-{"data": ["2022-01-28T08:01:37.905361+00:00", 5114, "Your mother is", "christian", "Pronunciation: /\u02c8kR\u026asti\u02cc\u0251n/", "Definition: following the teachings or manifesting the qualities or spirit of Jesus Christ", ""]}
+{"data": ["2022-01-28T09:01:01.835133+00:00", 5114, "Your mother is", "avestan", "Pronunciation: /\u0259\u02c8v\u025bst\u0259/", "Definition: of or pertaining to the Avesta (sacred text of Zoroastrianism)", ""]}
