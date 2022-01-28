@@ -1,1 +1,1 @@
-{"data": ["2022-01-28T12:00:55.681325+00:00", 5114, "Your mother is", "paraphrastic", "Pronunciation: /\u02ccp\u00e6r\u0259\u02c8fr\u00e6st\u026ak/", "Definition: altered by paraphrasing", ""]}
+{"data": ["2022-01-28T13:00:27.349512+00:00", 5114, "Your mother is", "unintegrated", "Similar to: lily-white", "Definition: separated or isolated from others or a main group", "Synonyms: segregated"]}
