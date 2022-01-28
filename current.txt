@@ -1,1 +1,1 @@
-{"data": ["2022-01-28T02:00:56.642624+00:00", 5114, "Your mother is", "roguish", "Pronunciation: /\u02c8ro\u028a\u0261\u026a\u0283/", "Definition: lacking principles or scruples", "Synonyms: blackguardly, rascally, scoundrelly"]}
+{"data": ["2022-01-28T03:01:38.747390+00:00", 5114, "Your mother is", "purple-black", "Pronunciation: /\u02c8p\u025crp\u0259l-bl\u00e6k/", "Definition: of black tinged with purple", "Synonyms: purplish-black"]}
