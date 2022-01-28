@@ -1,1 +1,1 @@
-{"data": ["2022-01-28T14:00:45.474107+00:00", 5114, "Your mother is", "queen-sized", "Similar to: big", "Definition: (used especially of beds) not as large as king-size", "Synonyms: queen-size"]}
+{"data": ["2022-01-28T15:01:25.959292+00:00", 5114, "Your mother is", "unspecific", "Similar to: general", "Definition: not detailed or specific", "Synonyms: broad"]}
