@@ -1,1 +1,1 @@
-{"data": ["2022-01-29T07:01:19.309503+00:00", 5114, "Your mother is", "barky", "Pronunciation: /\u02c8b\u0251rki/", "Definition: resembling the rough bark of a tree", ""]}
+{"data": ["2022-01-29T08:01:28.966954+00:00", 5114, "Your mother is", "bemused", "Pronunciation: /b\u026a\u02c8mjuzd/", "Definition: deeply absorbed in thought", "Synonyms: lost, preoccupied"]}
