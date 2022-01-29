@@ -1,1 +1,1 @@
-{"data": ["2022-01-29T09:01:38.138808+00:00", 5114, "Your mother is", "unwished", "Pronunciation: /\u0259n\u02c8w\u026a\u0283t/", "Definition: not welcome", "Synonyms: unwelcome, unwished-for"]}
+{"data": ["2022-01-29T10:00:51.344631+00:00", 5114, "Your mother is", "shameless", "Pronunciation: /\u02c8\u0283e\u026aml\u026as/", "Definition: feeling no shame", "Synonyms: unblushing"]}
