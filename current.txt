@@ -1,1 +1,1 @@
-{"data": ["2022-01-29T04:01:25.541197+00:00", 5114, "Your mother is", "insouciant", "Pronunciation: /\u026an\u02c8susi\u0259nt/", "Definition: marked by blithe unconcern", "Synonyms: casual, nonchalant"]}
+{"data": ["2022-01-29T05:00:58.215094+00:00", 5114, "Your mother is", "stonelike", "Similar to: hard", "Definition: (of bone especially the temporal bone) resembling stone in hardness", "Synonyms: petrous"]}
