@@ -1,1 +1,1 @@
-{"data": ["2022-01-29T21:00:52.662373+00:00", 5114, "Your mother is", "unrivaled", "Pronunciation: /\u0259n\u02c8ra\u026av\u0259ld/", "Definition: eminent beyond or above comparison", "Synonyms: matchless, nonpareil, one, one and only, peerless, unmatchable, unmatched, unrivalled"]}
+{"data": ["2022-01-29T22:00:38.616482+00:00", 5114, "Your mother is", "single-seeded", "Similar to: seedy", "Definition: having a single seed", "Synonyms: one-seed, one-seeded"]}
