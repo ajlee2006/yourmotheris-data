@@ -1,1 +1,1 @@
-{"data": ["2022-01-29T17:00:26.104443+00:00", 5114, "Your mother is", "smooth-textured", "Similar to: smooth", "Definition: having a smooth, fine-grained structure", "Synonyms: fine-textured"]}
+{"data": ["2022-01-29T18:01:10.501344+00:00", 5114, "Your mother is", "fail-safe", "Pronunciation: /\u02c8fe\u026al\u02c8se\u026af/", "Definition: eliminating danger by compensating automatically for a failure or malfunction", ""]}
