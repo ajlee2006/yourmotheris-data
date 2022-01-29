@@ -1,1 +1,1 @@
-{"data": ["2022-01-29T22:00:38.616482+00:00", 5114, "Your mother is", "single-seeded", "Similar to: seedy", "Definition: having a single seed", "Synonyms: one-seed, one-seeded"]}
+{"data": ["2022-01-29T23:00:23.376659+00:00", 5114, "Your mother is", "raspberry-red", "Similar to: chromatic", "Definition: of the red of fresh raspberries", "Synonyms: bright-red"]}
