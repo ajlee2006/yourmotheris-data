@@ -1,1 +1,1 @@
-{"data": ["2022-01-29T11:00:36.395303+00:00", 5114, "Your mother is", "immemorial", "Pronunciation: /\u02cc\u026am\u0259\u02c8mo\u028ari\u0259l/", "Definition: long past; beyond the limits of memory or tradition or recorded history", ""]}
+{"data": ["2022-01-29T12:00:35.566422+00:00", 5114, "Your mother is", "newfound", "Pronunciation: /\u02c8nju\u02c8f\u00e6\u028and/", "Definition: newly discovered", ""]}
