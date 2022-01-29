@@ -1,1 +1,1 @@
-{"data": ["2022-01-29T12:00:35.566422+00:00", 5114, "Your mother is", "newfound", "Pronunciation: /\u02c8nju\u02c8f\u00e6\u028and/", "Definition: newly discovered", ""]}
+{"data": ["2022-01-29T13:01:23.369874+00:00", 5114, "Your mother is", "universalist", "Pronunciation: /\u02ccjun\u0259\u02c8v\u025crs\u0259l\u026ast/", "Definition: of or relating to or tending toward universalism", "Synonyms: universalistic"]}
