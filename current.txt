@@ -1,1 +1,1 @@
-{"data": ["2022-01-29T14:00:54.543083+00:00", 5114, "Your mother is", "saber-toothed", "Similar to: toothed", "Definition: having teeth that resemble sabers", "Synonyms: sabertoothed, sabre-toothed"]}
+{"data": ["2022-01-29T15:00:32.884941+00:00", 5114, "Your mother is", "raiding", "Pronunciation: /\u02c8re\u026ad\u026a\u014b/", "Definition: characterized by plundering or pillaging or marauding", "Synonyms: marauding, predatory"]}
