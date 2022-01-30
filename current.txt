@@ -1,1 +1,1 @@
-{"data": ["2022-01-30T02:01:10.761055+00:00", 5114, "Your mother is", "weather-bound", "Pronunciation: /\u02c8w\u025b\u00f0\u0259r-ba\u028and/", "Definition: delayed or shut in by bad weather", ""]}
+{"data": ["2022-01-30T03:01:22.062355+00:00", 5114, "Your mother is", "operational", "Pronunciation: /\u02cc\u0251p\u0259\u02c8re\u026a\u0283\u0259n\u0259l/", "Definition: being in effect or operation", "Synonyms: in operation, operating"]}
