@@ -1,1 +1,1 @@
-{"data": ["2022-01-30T01:00:48.662529+00:00", 5114, "Your mother is", "retral", "Pronunciation: /\u02c8ritr\u0259l/", "Definition: moving or directed or tending in a backward direction or contrary to a previous direction", "Synonyms: retrograde"]}
+{"data": ["2022-01-30T02:01:10.761055+00:00", 5114, "Your mother is", "weather-bound", "Pronunciation: /\u02c8w\u025b\u00f0\u0259r-ba\u028and/", "Definition: delayed or shut in by bad weather", ""]}
