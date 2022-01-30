@@ -1,1 +1,1 @@
-{"data": ["2022-01-30T20:01:03.828094+00:00", 5114, "Your mother is", "smooth-skinned", "Similar to: skinned", "Definition: having smooth skin", ""]}
+{"data": ["2022-01-30T21:01:07.325551+00:00", 5114, "Your mother is", "double-jointed", "Pronunciation: /\u02c8d\u0259b\u0259l-\u02c8d\u0292\u0254\u026ant\u026ad/", "Definition: having unusually flexible joints especially of the limbs or fingers", ""]}
