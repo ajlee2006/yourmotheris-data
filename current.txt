@@ -1,1 +1,1 @@
-{"data": ["2022-01-30T08:00:31.867577+00:00", 5114, "Your mother is", "air-dried", "Pronunciation: /\u025cr-dra\u026ad/", "Definition: made dry by contact with unheated air", ""]}
+{"data": ["2022-01-30T09:01:31.281394+00:00", 5114, "Your mother is", "slumberous", "Pronunciation: /\u02c8sl\u0259mb\u0259r\u0259s/", "Definition: quiet and tranquil", "Synonyms: slumbrous"]}
