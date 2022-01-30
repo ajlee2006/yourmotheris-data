@@ -1,1 +1,1 @@
-{"data": ["2022-01-30T18:01:01.366100+00:00", 5114, "Your mother is", "orthopaedic", "", "Definition: of or relating to orthopedics", "Synonyms: orthopedic, orthopedical"]}
+{"data": ["2022-01-30T19:00:33.677855+00:00", 5114, "Your mother is", "aurorean", "Pronunciation: /\u0254\u02c8ro\u028ari\u0259n/", "Definition: characteristic of the dawn", "Synonyms: auroral"]}
