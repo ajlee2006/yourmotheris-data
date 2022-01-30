@@ -1,1 +1,1 @@
-{"data": ["2022-01-30T12:00:50.517721+00:00", 5114, "Your mother is", "unpleasant", "Pronunciation: /\u0259n\u02c8pl\u025bz\u0259nt/", "Definition: offensive or disagreeable; causing discomfort or unhappiness", ""]}
+{"data": ["2022-01-30T13:00:30.122772+00:00", 5114, "Your mother is", "lilting", "Similar to: rhythmic", "Definition: characterized by a buoyant rhythm", "Synonyms: swinging, swingy, tripping"]}
