@@ -1,1 +1,1 @@
-{"data": ["2022-01-30T00:01:12.018577+00:00", 5114, "Your mother is", "sickening", "Pronunciation: /\u02c8s\u026ak\u0259n\u026a\u014b/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, noisome, offensive, queasy, vile"]}
+{"data": ["2022-01-30T01:00:48.662529+00:00", 5114, "Your mother is", "retral", "Pronunciation: /\u02c8ritr\u0259l/", "Definition: moving or directed or tending in a backward direction or contrary to a previous direction", "Synonyms: retrograde"]}
