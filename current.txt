@@ -1,1 +1,1 @@
-{"data": ["2022-01-30T05:01:04.458865+00:00", 5114, "Your mother is", "unlivable", "Pronunciation: /\u0259n\u02c8l\u026av\u0259b\u0259l/", "Definition: unfit or unsuitable to live in or with", "Synonyms: unliveable"]}
+{"data": ["2022-01-30T06:01:08.301793+00:00", 5114, "Your mother is", "unhoped", "Pronunciation: /\u0259n\u02c8ho\u028apt/", "Definition: so unexpected as to have not been imagined", "Synonyms: unhoped-for, unthought, unthought-of"]}
