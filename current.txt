@@ -1,1 +1,1 @@
-{"data": ["2022-01-30T06:01:08.301793+00:00", 5114, "Your mother is", "unhoped", "Pronunciation: /\u0259n\u02c8ho\u028apt/", "Definition: so unexpected as to have not been imagined", "Synonyms: unhoped-for, unthought, unthought-of"]}
+{"data": ["2022-01-30T07:01:03.121586+00:00", 5114, "Your mother is", "unaccompanied", "Pronunciation: /\u02cc\u0259n\u0259\u02c8k\u0259mp\u0259nid/", "Definition: being without an escort", ""]}
