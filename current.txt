@@ -1,1 +1,1 @@
-{"data": ["2022-01-30T22:00:52.157421+00:00", 5114, "Your mother is", "polynomial", "Pronunciation: /\u02ccp\u0251li\u02c8no\u028ami\u0259l/", "Definition: having the character of a polynomial", "Synonyms: multinomial"]}
+{"data": ["2022-01-30T23:00:21.725347+00:00", 5114, "Your mother is", "nonparallel", "Similar to: asynchronous", "Definition: of or relating to the sequential performance of multiple operations", "Synonyms: in series, serial"]}
