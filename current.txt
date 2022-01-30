@@ -1,1 +1,1 @@
-{"data": ["2022-01-30T07:01:03.121586+00:00", 5114, "Your mother is", "unaccompanied", "Pronunciation: /\u02cc\u0259n\u0259\u02c8k\u0259mp\u0259nid/", "Definition: being without an escort", ""]}
+{"data": ["2022-01-30T08:00:31.867577+00:00", 5114, "Your mother is", "air-dried", "Pronunciation: /\u025cr-dra\u026ad/", "Definition: made dry by contact with unheated air", ""]}
