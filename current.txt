@@ -1,1 +1,1 @@
-{"data": ["2022-01-30T03:01:22.062355+00:00", 5114, "Your mother is", "operational", "Pronunciation: /\u02cc\u0251p\u0259\u02c8re\u026a\u0283\u0259n\u0259l/", "Definition: being in effect or operation", "Synonyms: in operation, operating"]}
+{"data": ["2022-01-30T04:00:27.054576+00:00", 5114, "Your mother is", "offish", "Pronunciation: /\u02c8\u0254f\u026a\u0283/", "Definition: lacking cordiality; unfriendly", "Synonyms: standoffish"]}
