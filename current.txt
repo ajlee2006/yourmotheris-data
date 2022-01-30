@@ -1,1 +1,1 @@
-{"data": ["2022-01-30T21:01:07.325551+00:00", 5114, "Your mother is", "double-jointed", "Pronunciation: /\u02c8d\u0259b\u0259l-\u02c8d\u0292\u0254\u026ant\u026ad/", "Definition: having unusually flexible joints especially of the limbs or fingers", ""]}
+{"data": ["2022-01-30T22:00:52.157421+00:00", 5114, "Your mother is", "polynomial", "Pronunciation: /\u02ccp\u0251li\u02c8no\u028ami\u0259l/", "Definition: having the character of a polynomial", "Synonyms: multinomial"]}
