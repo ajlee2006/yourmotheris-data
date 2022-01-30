@@ -1,1 +1,1 @@
-{"data": ["2022-01-30T16:00:57.733330+00:00", 5114, "Your mother is", "umpteen", "Pronunciation: /\u02c8\u0259mp\u02c8tin/", "Definition: innumerable but many", "Synonyms: umteen"]}
+{"data": ["2022-01-30T17:01:20.370973+00:00", 5114, "Your mother is", "foul-smelling", "Similar to: ill-smelling", "Definition: offensively malodorous", "Synonyms: fetid, foetid, foul, funky, ill-scented, noisome, smelly, stinking"]}
