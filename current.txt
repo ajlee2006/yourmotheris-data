@@ -1,1 +1,1 @@
-{"data": ["2022-01-31T18:00:21.631692+00:00", 5114, "Your mother is", "cocksure", "Pronunciation: /\u02c8k\u0251k\u02c8\u0283\u028ar/", "Definition: marked by excessive confidence", "Synonyms: overconfident, positive"]}
+{"data": ["2022-01-31T19:00:42.553083+00:00", 5114, "Your mother is", "owner-occupied", "Similar to: inhabited", "Definition: lived in by the owner", ""]}
