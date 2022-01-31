@@ -1,1 +1,1 @@
-{"data": ["2022-01-31T17:00:19.018316+00:00", 5114, "Your mother is", "electronegative", "Pronunciation: /\u026a\u02ccl\u025bktro\u028a\u02c8n\u025b\u0261\u0259t\u026av/", "Definition: having a negative charge", "Synonyms: negative, negatively charged"]}
+{"data": ["2022-01-31T18:00:21.631692+00:00", 5114, "Your mother is", "cocksure", "Pronunciation: /\u02c8k\u0251k\u02c8\u0283\u028ar/", "Definition: marked by excessive confidence", "Synonyms: overconfident, positive"]}
