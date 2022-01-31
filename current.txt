@@ -1,1 +1,1 @@
-{"data": ["2022-01-31T04:01:12.353103+00:00", 5114, "Your mother is", "halcyon", "Pronunciation: /\u02c8h\u00e6lsi\u0259n/", "Definition: marked by peace and prosperity", "Synonyms: golden, prosperous"]}
+{"data": ["2022-01-31T05:00:44.888624+00:00", 5114, "Your mother is", "close-packed", "Similar to: compact", "Definition: packed especially tightly", ""]}
