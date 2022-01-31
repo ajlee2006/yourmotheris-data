@@ -1,1 +1,1 @@
-{"data": ["2022-01-31T22:00:25.580811+00:00", 5114, "Your mother is", "desensitizing", "Pronunciation: /d\u026a\u02c8s\u025bns\u028c\u02ccta\u026az\u026a\u014b/", "Definition: making less susceptible or sensitive to either physical or emotional stimuli", "Synonyms: desensitising"]}
+{"data": ["2022-01-31T23:00:32.621376+00:00", 5114, "Your mother is", "poisonous", "Pronunciation: /\u02c8p\u0254\u026az\u028cn\u028cs/", "Definition: having the qualities or effects of a poison", "Synonyms: toxicant"]}
