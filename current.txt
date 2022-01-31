@@ -1,1 +1,1 @@
-{"data": ["2022-01-31T15:00:15.966130+00:00", 5114, "Your mother is", "semiotic", "Pronunciation: /\u02ccsimi\u02c8\u0251t\u026ak/", "Definition: of or relating to semiotics", "Synonyms: semiotical"]}
+{"data": ["2022-01-31T16:00:27.755791+00:00", 5114, "Your mother is", "pitched", "Pronunciation: /p\u026at\u0283t/", "Definition: set at a slant", ""]}
