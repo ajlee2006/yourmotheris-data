@@ -1,1 +1,1 @@
-{"data": ["2022-01-31T16:00:27.755791+00:00", 5114, "Your mother is", "pitched", "Pronunciation: /p\u026at\u0283t/", "Definition: set at a slant", ""]}
+{"data": ["2022-01-31T17:00:19.018316+00:00", 5114, "Your mother is", "electronegative", "Pronunciation: /\u026a\u02ccl\u025bktro\u028a\u02c8n\u025b\u0261\u0259t\u026av/", "Definition: having a negative charge", "Synonyms: negative, negatively charged"]}
