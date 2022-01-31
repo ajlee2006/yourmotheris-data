@@ -1,1 +1,1 @@
-{"data": ["2022-01-31T10:01:21.076093+00:00", 5114, "Your mother is", "least", "Pronunciation: /list/", "Definition: the superlative of `little' that can be used with mass nouns and is usually preceded by `the'; a quantifier meaning smallest in amount or extent or degree", ""]}
+{"data": ["2022-01-31T11:00:40.352356+00:00", 5114, "Your mother is", "hebraical", "", "Definition: of or relating to the language of the Hebrews", "Synonyms: hebraic, hebrew"]}
