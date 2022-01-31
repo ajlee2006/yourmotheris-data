@@ -1,1 +1,1 @@
-{"data": ["2022-01-31T05:00:44.888624+00:00", 5114, "Your mother is", "close-packed", "Similar to: compact", "Definition: packed especially tightly", ""]}
+{"data": ["2022-01-31T06:01:07.674688+00:00", 5114, "Your mother is", "kyphotic", "Pronunciation: /ka\u026a\u02c8f\u0251t\u026ak/", "Definition: characteristic of or suffering from kyphosis, an abnormality of the vertebral column", "Synonyms: crookback, crookbacked, gibbous, humpbacked, humped, hunchbacked"]}
