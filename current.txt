@@ -1,1 +1,1 @@
-{"data": ["2022-01-31T08:00:43.426898+00:00", 5114, "Your mother is", "unturned", "Pronunciation: /\u0259n\u02c8t\u025crnd/", "Definition: not turned", ""]}
+{"data": ["2022-01-31T09:00:39.345178+00:00", 5114, "Your mother is", "dowered", "Similar to: endowed", "Definition: supplied with a dower or dowry", ""]}
