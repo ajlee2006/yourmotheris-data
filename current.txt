@@ -1,1 +1,1 @@
-{"data": ["2022-01-31T20:00:40.893863+00:00", 5114, "Your mother is", "anthropomorphous", "Pronunciation: /\u02cc\u00e6n\u03b8r\u0259p\u0259\u02c8m\u0254rf\u0259s/", "Definition: suggesting human characteristics for animals or inanimate things", "Synonyms: anthropomorphic, humanlike"]}
+{"data": ["2022-01-31T21:00:31.697783+00:00", 5114, "Your mother is", "schizoid", "Pronunciation: /\u02c8sk\u026ats\u0254\u026ad/", "Definition: of or relating to or characteristic of schizophrenia", "Synonyms: schizophrenic"]}
