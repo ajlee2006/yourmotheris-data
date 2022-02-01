@@ -1,1 +1,1 @@
-{"data": ["2022-02-01T10:01:12.092580+00:00", 5114, "Your mother is", "housebroken", "Pronunciation: /\u02c8ha\u028as\u02ccbro\u028ak\u0259n/", "Definition: (of pets) trained to urinate and defecate outside or in a special place", "Synonyms: house-trained"]}
+{"data": ["2022-02-01T11:00:42.140689+00:00", 5114, "Your mother is", "numinous", "Pronunciation: /\u02c8num\u0259n\u0259s/", "Definition: evincing the presence of a deity", ""]}
