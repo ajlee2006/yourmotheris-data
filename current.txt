@@ -1,1 +1,1 @@
-{"data": ["2022-02-01T22:01:18.936837+00:00", 5114, "Your mother is", "pudgy", "Pronunciation: /\u02c8p\u0259d\u0292i/", "Definition: short and plump", "Synonyms: dumpy, podgy, roly-poly, tubby"]}
+{"data": ["2022-02-01T23:01:36.264563+00:00", 5114, "Your mother is", "flesh-coloured", "Similar to: colored", "Definition: having a bright red or pinkish color", "Synonyms: flesh-colored"]}
