@@ -1,1 +1,1 @@
-{"data": ["2022-02-01T04:00:52.418315+00:00", 5114, "Your mother is", "of import", "Similar to: big", "Definition: of great significance or value", "Synonyms: important"]}
+{"data": ["2022-02-01T05:00:40.640634+00:00", 5114, "Your mother is", "positivist", "", "Definition: of or relating to positivism", "Synonyms: positive, positivistic"]}
