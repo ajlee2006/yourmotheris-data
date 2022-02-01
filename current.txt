@@ -1,1 +1,1 @@
-{"data": ["2022-02-01T15:01:37.316266+00:00", 5114, "Your mother is", "sanguine", "Pronunciation: /\u02c8s\u00e6\u014bw\u026an/", "Definition: confidently optimistic and cheerful", "Synonyms: sanguineous"]}
+{"data": ["2022-02-01T16:01:16.304070+00:00", 5114, "Your mother is", "botchy", "Pronunciation: /\u02c8b\u0251\u02a7i/", "Definition: poorly done", "Synonyms: butcherly, unskillful"]}
