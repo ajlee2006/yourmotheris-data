@@ -1,1 +1,1 @@
-{"data": ["2022-02-01T14:01:02.188647+00:00", 5114, "Your mother is", "subversive", "Pronunciation: /s\u0259b\u02c8v\u025crz\u026av/", "Definition: in opposition to a civil authority or government", "Synonyms: insurgent, seditious"]}
+{"data": ["2022-02-01T15:01:37.316266+00:00", 5114, "Your mother is", "sanguine", "Pronunciation: /\u02c8s\u00e6\u014bw\u026an/", "Definition: confidently optimistic and cheerful", "Synonyms: sanguineous"]}
