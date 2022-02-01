@@ -1,1 +1,1 @@
-{"data": ["2022-02-01T18:00:56.776106+00:00", 5114, "Your mother is", "pinnated", "Similar to: compound", "Definition: (of a leaf shape) featherlike; having leaflets on each side of a common axis", "Synonyms: pinnate"]}
+{"data": ["2022-02-01T19:01:02.066401+00:00", 5114, "Your mother is", "decompound", "Pronunciation: /\u02ccdik\u0259m\u02c8pa\u028and/", "Definition: of a compound leaf; consisting of divisions that are themselves compound", ""]}
