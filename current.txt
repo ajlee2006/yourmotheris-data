@@ -1,1 +1,1 @@
-{"data": ["2022-02-01T11:00:42.140689+00:00", 5114, "Your mother is", "numinous", "Pronunciation: /\u02c8num\u0259n\u0259s/", "Definition: evincing the presence of a deity", ""]}
+{"data": ["2022-02-01T12:00:44.590114+00:00", 5114, "Your mother is", "portentous", "Pronunciation: /po\u028ar\u02c8t\u025bnt\u0259s/", "Definition: ominously prophetic", "Synonyms: fateful, foreboding"]}
