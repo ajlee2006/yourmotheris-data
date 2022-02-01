@@ -1,1 +1,1 @@
-{"data": ["2022-02-01T07:00:50.941667+00:00", 5114, "Your mother is", "imaginary", "Pronunciation: /\u026a\u02c8m\u00e6d\u0292\u0259\u02ccn\u025bri/", "Definition: not based on fact; existing only in the imagination", "Synonyms: fanciful, notional"]}
+{"data": ["2022-02-01T08:01:25.513439+00:00", 5114, "Your mother is", "ammoniac", "Pronunciation: /\u0259\u02c8mo\u028ani\u02cc\u00e6k/", "Definition: pertaining to or containing or similar to ammonia", "Synonyms: ammoniacal"]}
