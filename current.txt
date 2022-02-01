@@ -1,1 +1,1 @@
-{"data": ["2022-02-01T08:01:25.513439+00:00", 5114, "Your mother is", "ammoniac", "Pronunciation: /\u0259\u02c8mo\u028ani\u02cc\u00e6k/", "Definition: pertaining to or containing or similar to ammonia", "Synonyms: ammoniacal"]}
+{"data": ["2022-02-01T09:01:35.580175+00:00", 5114, "Your mother is", "two hundred", "Pronunciation: /tu-\u02c8h\u0259ndr\u026ad/", "Definition: being ten more than one hundred ninety", "Synonyms: 200, cc"]}
