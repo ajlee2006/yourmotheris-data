@@ -1,1 +1,1 @@
-{"data": ["2022-02-01T19:01:02.066401+00:00", 5114, "Your mother is", "decompound", "Pronunciation: /\u02ccdik\u0259m\u02c8pa\u028and/", "Definition: of a compound leaf; consisting of divisions that are themselves compound", ""]}
+{"data": ["2022-02-01T20:01:36.083265+00:00", 5114, "Your mother is", "astounded", "Pronunciation: /\u028c\u02c8sta\u028and\u026ad/", "Definition: filled with the emotional impact of overwhelming surprise or shock", "Synonyms: amazed, astonied, astonished, stunned"]}
