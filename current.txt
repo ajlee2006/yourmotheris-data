@@ -1,1 +1,1 @@
-{"data": ["2022-02-01T16:01:16.304070+00:00", 5114, "Your mother is", "botchy", "Pronunciation: /\u02c8b\u0251\u02a7i/", "Definition: poorly done", "Synonyms: butcherly, unskillful"]}
+{"data": ["2022-02-01T17:01:26.026733+00:00", 5114, "Your mother is", "sun-drenched", "Similar to: covered", "Definition: covered with sunlight", ""]}
