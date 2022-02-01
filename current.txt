@@ -1,1 +1,1 @@
-{"data": ["2022-02-01T17:01:26.026733+00:00", 5114, "Your mother is", "sun-drenched", "Similar to: covered", "Definition: covered with sunlight", ""]}
+{"data": ["2022-02-01T18:00:56.776106+00:00", 5114, "Your mother is", "pinnated", "Similar to: compound", "Definition: (of a leaf shape) featherlike; having leaflets on each side of a common axis", "Synonyms: pinnate"]}
