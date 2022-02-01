@@ -1,1 +1,1 @@
-{"data": ["2022-01-31T23:00:32.621376+00:00", 5114, "Your mother is", "poisonous", "Pronunciation: /\u02c8p\u0254\u026az\u028cn\u028cs/", "Definition: having the qualities or effects of a poison", "Synonyms: toxicant"]}
+{"data": ["2022-02-01T00:01:45.509761+00:00", 5114, "Your mother is", "unvoluntary", "Similar to: goaded", "Definition: not subject to the control of the will", "Synonyms: involuntary, nonvoluntary"]}
