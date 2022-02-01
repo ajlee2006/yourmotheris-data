@@ -1,1 +1,1 @@
-{"data": ["2022-02-01T00:01:45.509761+00:00", 5114, "Your mother is", "unvoluntary", "Similar to: goaded", "Definition: not subject to the control of the will", "Synonyms: involuntary, nonvoluntary"]}
+{"data": ["2022-02-01T01:01:39.207550+00:00", 5114, "Your mother is", "satirical", "Pronunciation: /s\u0259\u02c8t\u026ar\u026ak\u0259l/", "Definition: exposing human folly to ridicule", "Synonyms: satiric"]}
