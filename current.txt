@@ -1,1 +1,1 @@
-{"data": ["2022-02-02T20:00:52.982000+00:00", 5114, "Your mother is", "snarled", "Pronunciation: /\u02c8sn\u0251r\u028cld/", "Definition: tangled in knots or snarls", "Synonyms: knotty, snarly"]}
+{"data": ["2022-02-02T21:01:18.597142+00:00", 5114, "Your mother is", "leased", "Pronunciation: /list/", "Definition: hired for the exclusive temporary use of a group of travelers", "Synonyms: chartered, hired"]}
