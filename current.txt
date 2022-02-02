@@ -1,1 +1,1 @@
-{"data": ["2022-02-02T16:01:13.693672+00:00", 5114, "Your mother is", "surreptitious", "Pronunciation: /\u02ccs\u025cr\u0259p\u02c8t\u026a\u0283\u0259s/", "Definition: conducted with or marked by hidden aims or methods", "Synonyms: clandestine, cloak-and-dagger, hole-and-corner, hugger-mugger, hush-hush, secret, undercover, underground"]}
+{"data": ["2022-02-02T17:00:45.655402+00:00", 5114, "Your mother is", "flipper-like", "Similar to: limbed", "Definition: having limbs that are used as flippers", ""]}
