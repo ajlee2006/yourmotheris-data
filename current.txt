@@ -1,1 +1,1 @@
-{"data": ["2022-02-02T19:01:02.427293+00:00", 5114, "Your mother is", "monarchal", "Pronunciation: /m\u0259\u02c8n\u0251rk\u0259l/", "Definition: having the characteristics of or befitting or worthy of a monarch", "Synonyms: monarchical"]}
+{"data": ["2022-02-02T20:00:52.982000+00:00", 5114, "Your mother is", "snarled", "Pronunciation: /\u02c8sn\u0251r\u028cld/", "Definition: tangled in knots or snarls", "Synonyms: knotty, snarly"]}
