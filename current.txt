@@ -1,1 +1,1 @@
-{"data": ["2022-02-02T10:01:20.109115+00:00", 5114, "Your mother is", "curving", "Pronunciation: /\u02c8k\u025drv\u026a\u014b/", "Definition: having or marked by a curve or smoothly rounded bend", "Synonyms: curved"]}
+{"data": ["2022-02-02T11:00:39.213196+00:00", 5114, "Your mother is", "desk-bound", "Similar to: inactive", "Definition: restricted to working in an office rather than in an active physical capacity", "Synonyms: deskbound"]}
