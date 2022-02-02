@@ -1,1 +1,1 @@
-{"data": ["2022-02-02T01:01:13.919981+00:00", 5114, "Your mother is", "made", "Pronunciation: /me\u026ad/", "Definition: produced by a manufacturing process", ""]}
+{"data": ["2022-02-02T02:01:16.289330+00:00", 5114, "Your mother is", "matched", "Pronunciation: /m\u00e6t\u0283t/", "Definition: going well together; possessing harmonizing qualities", ""]}
