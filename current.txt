@@ -1,1 +1,1 @@
-{"data": ["2022-02-02T05:01:13.346019+00:00", 5114, "Your mother is", "diligent", "Pronunciation: /\u02c8d\u026al\u026ad\u0292\u0259nt/", "Definition: quietly and steadily persevering especially in detail or exactness", "Synonyms: persevering"]}
+{"data": ["2022-02-02T06:01:05.228335+00:00", 5114, "Your mother is", "undercoated", "Similar to: rustless", "Definition: (of motor vehicles) having a coating of tar or other rustproof material applied to the underside", "Synonyms: undersealed"]}
