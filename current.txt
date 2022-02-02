@@ -1,1 +1,1 @@
-{"data": ["2022-02-02T08:01:35.464100+00:00", 5114, "Your mother is", "tolerable", "Pronunciation: /\u02c8t\u0251l\u0259r\u0259b\u0259l/", "Definition: about average; acceptable", "Synonyms: adequate, fair to middling, passable"]}
+{"data": ["2022-02-02T09:01:22.951766+00:00", 5114, "Your mother is", "mystifying", "Pronunciation: /\u02c8m\u026ast\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: of an obscure nature", "Synonyms: cryptic, cryptical, deep, inscrutable, mysterious"]}
