@@ -1,1 +1,1 @@
-{"data": ["2022-02-02T09:01:22.951766+00:00", 5114, "Your mother is", "mystifying", "Pronunciation: /\u02c8m\u026ast\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: of an obscure nature", "Synonyms: cryptic, cryptical, deep, inscrutable, mysterious"]}
+{"data": ["2022-02-02T10:01:20.109115+00:00", 5114, "Your mother is", "curving", "Pronunciation: /\u02c8k\u025drv\u026a\u014b/", "Definition: having or marked by a curve or smoothly rounded bend", "Synonyms: curved"]}
