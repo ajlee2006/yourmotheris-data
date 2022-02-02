@@ -1,1 +1,1 @@
-{"data": ["2022-02-02T04:01:09.432638+00:00", 5114, "Your mother is", "temporal", "Pronunciation: /\u02c8t\u025bmp\u0259r\u0259l/", "Definition: characteristic of or devoted to the temporal world as opposed to the spiritual world", "Synonyms: secular, worldly"]}
+{"data": ["2022-02-02T05:01:13.346019+00:00", 5114, "Your mother is", "diligent", "Pronunciation: /\u02c8d\u026al\u026ad\u0292\u0259nt/", "Definition: quietly and steadily persevering especially in detail or exactness", "Synonyms: persevering"]}
