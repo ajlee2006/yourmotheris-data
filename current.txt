@@ -1,1 +1,1 @@
-{"data": ["2022-02-01T23:01:36.264563+00:00", 5114, "Your mother is", "flesh-coloured", "Similar to: colored", "Definition: having a bright red or pinkish color", "Synonyms: flesh-colored"]}
+{"data": ["2022-02-02T00:01:17.330705+00:00", 5114, "Your mother is", "hatched", "Pronunciation: /h\u00e6t\u0283t/", "Definition: shaded by means of fine parallel or crossed lines", "Synonyms: crosshatched"]}
