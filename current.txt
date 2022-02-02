@@ -1,1 +1,1 @@
-{"data": ["2022-02-02T18:00:47.077602+00:00", 5114, "Your mother is", "vivacious", "Pronunciation: /v\u026a\u02c8ve\u026a\u0283\u0259s/", "Definition: vigorous and animated", "Synonyms: vibrant"]}
+{"data": ["2022-02-02T19:01:02.427293+00:00", 5114, "Your mother is", "monarchal", "Pronunciation: /m\u0259\u02c8n\u0251rk\u0259l/", "Definition: having the characteristics of or befitting or worthy of a monarch", "Synonyms: monarchical"]}
