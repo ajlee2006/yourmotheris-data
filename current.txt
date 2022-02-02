@@ -1,1 +1,1 @@
-{"data": ["2022-02-02T11:00:39.213196+00:00", 5114, "Your mother is", "desk-bound", "Similar to: inactive", "Definition: restricted to working in an office rather than in an active physical capacity", "Synonyms: deskbound"]}
+{"data": ["2022-02-02T12:01:12.528628+00:00", 5114, "Your mother is", "wolflike", "", "Definition: resembling or characteristic (or considered characteristic) of a wolf", "Synonyms: wolfish"]}
