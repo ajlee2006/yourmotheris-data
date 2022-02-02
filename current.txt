@@ -1,1 +1,1 @@
-{"data": ["2022-02-02T12:01:12.528628+00:00", 5114, "Your mother is", "wolflike", "", "Definition: resembling or characteristic (or considered characteristic) of a wolf", "Synonyms: wolfish"]}
+{"data": ["2022-02-02T13:33:13.243986+00:00", 5114, "Your mother is", "spartan", "Pronunciation: /\u02c8sp\u0251rt\u0259n/", "Definition: unsparing and uncompromising in discipline or judgment", "Synonyms: severe"]}
