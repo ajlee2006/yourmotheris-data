@@ -1,1 +1,1 @@
-{"data": ["2022-02-03T12:00:56.475637+00:00", 5114, "Your mother is", "toothsome", "Pronunciation: /\u02c8tu\u03b8s\u0259m/", "Definition: acceptable to the taste or mind", "Synonyms: palatable"]}
+{"data": ["2022-02-03T13:01:13.903550+00:00", 1, "Your mother is", "sure-footed", "Pronunciation: /\u0283\u028ar-\u02c8f\u028at\u026ad/", "Definition: not liable to stumble or fall", "Synonyms: footsure, surefooted"]}
