@@ -1,1 +1,1 @@
-{"data": ["2022-02-03T22:01:09.774764+00:00", 10, "Your mother is", "syllabic", "Pronunciation: /s\u026a\u02c8l\u00e6b\u026ak/", "Definition: consisting of a syllable or syllables", ""]}
+{"data": ["2022-02-03T23:01:02.433373+00:00", 11, "Your mother is", "far", "Pronunciation: /f\u0251r/", "Definition: being of a considerable distance or length", ""]}
