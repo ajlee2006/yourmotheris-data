@@ -1,1 +1,1 @@
-{"data": ["2022-02-03T06:00:42.322245+00:00", 5114, "Your mother is", "colossal", "Pronunciation: /k\u0259\u02c8l\u0251s\u0259l/", "Definition: so great in size or force or extent as to elicit awe", "Synonyms: prodigious, stupendous"]}
+{"data": ["2022-02-03T07:00:59.540440+00:00", 5114, "Your mother is", "manipulable", "Similar to: teachable", "Definition: easily managed (controlled or taught or molded)", "Synonyms: tractable"]}
