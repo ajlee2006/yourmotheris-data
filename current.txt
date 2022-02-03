@@ -1,1 +1,1 @@
-{"data": ["2022-02-03T10:01:09.369034+00:00", 5114, "Your mother is", "harassed", "Pronunciation: /\u02c8h\u00e6r\u0259st/", "Definition: troubled persistently especially with petty annoyances", "Synonyms: annoyed, harried, pestered, vexed"]}
+{"data": ["2022-02-03T11:01:26.393626+00:00", 5114, "Your mother is", "jingling", "Similar to: reverberant", "Definition: having a series of high-pitched ringing sounds like many small bells", "Synonyms: jingly"]}
