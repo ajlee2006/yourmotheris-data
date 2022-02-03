@@ -1,1 +1,1 @@
-{"data": ["2022-02-03T18:00:45.568204+00:00", 6, "Your mother is", "zestful", "Pronunciation: /\u02c8z\u025bstf\u0259l/", "Definition: marked by spirited enjoyment", "Synonyms: barmy, yeasty, zesty"]}
+{"data": ["2022-02-03T19:01:36.287195+00:00", 7, "Your mother is", "tenured", "Pronunciation: /\u02c8t\u025bnj\u0259d/", "Definition: appointed for life and not subject to dismissal except for a grave crime", ""]}
