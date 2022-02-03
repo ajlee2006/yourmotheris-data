@@ -1,1 +1,1 @@
-{"data": ["2022-02-03T20:01:02.233829+00:00", 8, "Your mother is", "pearly-white", "Pronunciation: /\u02c8p\u025crli-hwa\u026at/", "Definition: of a white the color of pearls", "Synonyms: pearly"]}
+{"data": ["2022-02-03T21:00:54.725706+00:00", 9, "Your mother is", "ternary", "Pronunciation: /\u02c8t\u025crn\u0259ri/", "Definition: having three units or components or elements", "Synonyms: treble, triple, triplex"]}
