@@ -1,1 +1,1 @@
-{"data": ["2022-02-03T15:01:14.136366+00:00", 3, "Your mother is", "degrading", "Pronunciation: /d\u026a\u02c8gre\u026ad\u026a\u014b/", "Definition: used of conduct; characterized by dishonor", "Synonyms: debasing"]}
+{"data": ["2022-02-03T16:00:19.447018+00:00", 4, "Your mother is", "fang-like", "Similar to: sharp", "Definition: resembling a fang", ""]}
