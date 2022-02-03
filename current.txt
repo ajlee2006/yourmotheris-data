@@ -1,1 +1,1 @@
-{"data": ["2022-02-03T19:01:36.287195+00:00", 7, "Your mother is", "tenured", "Pronunciation: /\u02c8t\u025bnj\u0259d/", "Definition: appointed for life and not subject to dismissal except for a grave crime", ""]}
+{"data": ["2022-02-03T20:01:02.233829+00:00", 8, "Your mother is", "pearly-white", "Pronunciation: /\u02c8p\u025crli-hwa\u026at/", "Definition: of a white the color of pearls", "Synonyms: pearly"]}
