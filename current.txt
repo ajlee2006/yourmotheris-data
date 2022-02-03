@@ -1,1 +1,1 @@
-{"data": ["2022-02-03T03:01:24.840199+00:00", 5114, "Your mother is", "pickled", "Pronunciation: /\u02c8p\u026ak\u0259ld/", "Definition: (used of foods) preserved in a pickling liquid", ""]}
+{"data": ["2022-02-03T04:00:42.764842+00:00", 5114, "Your mother is", "decalescent", "Similar to: endothermal", "Definition: absorbing heat without increase in temperature when heated beyond a certain point", ""]}
