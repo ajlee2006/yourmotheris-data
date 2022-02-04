@@ -1,1 +1,1 @@
-{"data": ["2022-02-04T01:01:18.273661+00:00", 13, "Your mother is", "union", "Pronunciation: /\u02c8junj\u0259n/", "Definition: being of or having to do with the northern United States and those loyal to the Union during the American Civil War", "Synonyms: federal"]}
+{"data": ["2022-02-04T02:01:04.705430+00:00", 14, "Your mother is", "unchecked", "Pronunciation: /\u0259n\u02c8t\u0283\u025bkt/", "Definition: not restrained or controlled", "Synonyms: unbridled, uncurbed, ungoverned"]}
