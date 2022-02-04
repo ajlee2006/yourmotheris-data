@@ -1,1 +1,1 @@
-{"data": ["2022-02-04T08:01:17.200075+00:00", 20, "Your mother is", "undeveloped", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8v\u025bl\u0259pt/", "Definition: not developed, improved, exploited or used", "Synonyms: unexploited"]}
+{"data": ["2022-02-04T09:00:41.203101+00:00", 21, "Your mother is", "xxv", "Similar to: cardinal", "Definition: being five more than twenty", "Synonyms: 25, twenty-five"]}
