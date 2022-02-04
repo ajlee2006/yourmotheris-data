@@ -1,1 +1,1 @@
-{"data": ["2022-02-04T10:00:19.545899+00:00", 22, "Your mother is", "ablative", "Pronunciation: /\u00e6b\u02c8le\u026at\u026av/", "Definition: relating to the ablative case", ""]}
+{"data": ["2022-02-04T11:00:56.740442+00:00", 23, "Your mother is", "consensual", "Pronunciation: /k\u0259n\u02c8s\u025bn\u0283u\u0259l/", "Definition: existing by consent", ""]}
