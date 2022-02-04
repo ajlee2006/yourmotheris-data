@@ -1,1 +1,1 @@
-{"data": ["2022-02-04T17:00:19.024050+00:00", 29, "Your mother is", "stuck", "Pronunciation: /st\u0259k/", "Definition: baffled", ""]}
+{"data": ["2022-02-04T18:01:08.566114+00:00", 30, "Your mother is", "casuistical", "", "Definition: of or relating to or practicing casuistry", "Synonyms: casuistic"]}
