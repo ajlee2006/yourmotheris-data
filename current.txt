@@ -1,1 +1,1 @@
-{"data": ["2022-02-04T16:01:36.317237+00:00", 28, "Your mother is", "cl", "Similar to: cardinal", "Definition: being ten more than one hundred forty", "Synonyms: 150, one hundred fifty"]}
+{"data": ["2022-02-04T17:00:19.024050+00:00", 29, "Your mother is", "stuck", "Pronunciation: /st\u0259k/", "Definition: baffled", ""]}
