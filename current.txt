@@ -1,1 +1,1 @@
-{"data": ["2022-02-04T22:00:57.346292+00:00", 34, "Your mother is", "boring", "Pronunciation: /\u02c8bo\u028ar\u026a\u014b/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: deadening, dull, ho-hum, irksome, slow, tedious, tiresome, wearisome"]}
+{"data": ["2022-02-04T23:01:07.332286+00:00", 35, "Your mother is", "ninety-fifth", "Pronunciation: /\u02c8na\u026anti-\u02c8f\u026af\u03b8/", "Definition: the ordinal number of ninety-five in counting order", "Synonyms: 95th"]}
