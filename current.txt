@@ -1,1 +1,1 @@
-{"data": ["2022-02-04T07:01:04.747299+00:00", 19, "Your mother is", "pancake-style", "Similar to: cooked", "Definition: cooked as pancakes are cooked", ""]}
+{"data": ["2022-02-04T08:01:17.200075+00:00", 20, "Your mother is", "undeveloped", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8v\u025bl\u0259pt/", "Definition: not developed, improved, exploited or used", "Synonyms: unexploited"]}
