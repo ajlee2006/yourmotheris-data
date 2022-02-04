@@ -1,1 +1,1 @@
-{"data": ["2022-02-04T12:01:10.823252+00:00", 24, "Your mother is", "relevant", "Pronunciation: /\u02c8r\u025bl\u0259v\u0259nt/", "Definition: having a bearing on or connection with the subject at issue", ""]}
+{"data": ["2022-02-04T13:00:40.350462+00:00", 25, "Your mother is", "tabular", "Pronunciation: /\u02c8t\u00e6bj\u0259l\u0259r/", "Definition: flat; like a table in form", ""]}
