@@ -1,1 +1,1 @@
-{"data": ["2022-02-04T09:00:41.203101+00:00", 21, "Your mother is", "xxv", "Similar to: cardinal", "Definition: being five more than twenty", "Synonyms: 25, twenty-five"]}
+{"data": ["2022-02-04T10:00:19.545899+00:00", 22, "Your mother is", "ablative", "Pronunciation: /\u00e6b\u02c8le\u026at\u026av/", "Definition: relating to the ablative case", ""]}
