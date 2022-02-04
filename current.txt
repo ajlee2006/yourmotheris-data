@@ -1,1 +1,1 @@
-{"data": ["2022-02-04T04:00:42.644266+00:00", 16, "Your mother is", "free", "Pronunciation: /fri/", "Definition: not taken up by scheduled activities", "Synonyms: spare"]}
+{"data": ["2022-02-04T05:00:37.689057+00:00", 17, "Your mother is", "preexistent", "Similar to: antecedent", "Definition: existing previously or before something", "Synonyms: pre-existent, pre-existing, preexisting"]}
