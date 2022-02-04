@@ -1,1 +1,1 @@
-{"data": ["2022-02-04T14:01:03.946102+00:00", 26, "Your mother is", "eventual", "Pronunciation: /\u026a\u02c8v\u025bn\u02a7u\u0259l/", "Definition: expected to follow in the indefinite future from causes already operating", ""]}
+{"data": ["2022-02-04T15:00:43.418964+00:00", 27, "Your mother is", "homely", "Pronunciation: /ho\u028amli/", "Definition: having a feeling of home; cozy and comfortable", "Synonyms: homelike, homey, homy"]}
