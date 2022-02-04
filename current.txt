@@ -1,1 +1,1 @@
-{"data": ["2022-02-04T02:01:04.705430+00:00", 14, "Your mother is", "unchecked", "Pronunciation: /\u0259n\u02c8t\u0283\u025bkt/", "Definition: not restrained or controlled", "Synonyms: unbridled, uncurbed, ungoverned"]}
+{"data": ["2022-02-04T03:01:21.462413+00:00", 15, "Your mother is", "craniometrical", "", "Definition: of or relating to craniometry", "Synonyms: craniometric"]}
