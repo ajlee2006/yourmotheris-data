@@ -1,1 +1,1 @@
-{"data": ["2022-02-04T06:00:48.535899+00:00", 18, "Your mother is", "conglomerate", "Pronunciation: /k\u0259n\u02c8gl\u0251m\u0259\u02ccre\u026at/", "Definition: composed of heterogeneous elements gathered into a mass", ""]}
+{"data": ["2022-02-04T07:01:04.747299+00:00", 19, "Your mother is", "pancake-style", "Similar to: cooked", "Definition: cooked as pancakes are cooked", ""]}
