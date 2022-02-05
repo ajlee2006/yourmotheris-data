@@ -1,1 +1,1 @@
-{"data": ["2022-02-05T19:01:13.541308+00:00", 55, "Your mother is", "unrelaxed", "Pronunciation: /\u02cc\u0259nri\u02c8l\u00e6kst/", "Definition: nor relaxed", ""]}
+{"data": ["2022-02-05T20:01:05.614651+00:00", 56, "Your mother is", "forte", "Pronunciation: /\u02c8f\u0254rte\u026a/", "Definition: (used chiefly as a direction or description in music) loud; with force", "Synonyms: loud"]}
