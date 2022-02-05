@@ -1,1 +1,1 @@
-{"data": ["2022-02-05T14:01:16.186936+00:00", 50, "Your mother is", "velvety-plumaged", "Similar to: feathered", "Definition: plumage resembling velvet", ""]}
+{"data": ["2022-02-05T15:00:26.264416+00:00", 51, "Your mother is", "disheveled", "Pronunciation: /d\u026a\u02c8\u0283\u025bv\u0259ld/", "Definition: in disarray; extremely disorderly", "Synonyms: dishevelled, frowzled, rumpled, tousled"]}
