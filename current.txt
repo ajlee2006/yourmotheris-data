@@ -1,1 +1,1 @@
-{"data": ["2022-02-05T15:00:26.264416+00:00", 51, "Your mother is", "disheveled", "Pronunciation: /d\u026a\u02c8\u0283\u025bv\u0259ld/", "Definition: in disarray; extremely disorderly", "Synonyms: dishevelled, frowzled, rumpled, tousled"]}
+{"data": ["2022-02-05T16:00:16.803235+00:00", 52, "Your mother is", "hatched", "Pronunciation: /h\u00e6t\u0283t/", "Definition: shaded by means of fine parallel or crossed lines", "Synonyms: crosshatched"]}
