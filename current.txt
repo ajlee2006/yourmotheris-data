@@ -1,1 +1,1 @@
-{"data": ["2022-02-05T05:00:34.191121+00:00", 41, "Your mother is", "three-wheel", "", "Definition: of or relating to vehicles having three wheels", "Synonyms: three-wheeled"]}
+{"data": ["2022-02-05T06:00:21.181686+00:00", 42, "Your mother is", "safe", "Pronunciation: /se\u026af/", "Definition: financially safe", "Synonyms: dependable, good, secure"]}
