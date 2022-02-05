@@ -1,1 +1,1 @@
-{"data": ["2022-02-05T04:00:33.539763+00:00", 40, "Your mother is", "truculent", "Pronunciation: /\u02c8tr\u0259kj\u0259l\u0259nt/", "Definition: defiantly aggressive", ""]}
+{"data": ["2022-02-05T05:00:34.191121+00:00", 41, "Your mother is", "three-wheel", "", "Definition: of or relating to vehicles having three wheels", "Synonyms: three-wheeled"]}
