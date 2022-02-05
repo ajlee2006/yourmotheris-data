@@ -1,1 +1,1 @@
-{"data": ["2022-02-05T07:01:29.567407+00:00", 43, "Your mother is", "unobvious", "Similar to: unapparent", "Definition: not immediately apparent", ""]}
+{"data": ["2022-02-05T08:01:34.007681+00:00", 44, "Your mother is", "unconnected", "Pronunciation: /\u02cc\u0259nk\u0259\u02c8n\u025bkt\u026ad/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, garbled, illogical, scattered"]}
