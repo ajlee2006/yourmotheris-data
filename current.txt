@@ -1,1 +1,1 @@
-{"data": ["2022-02-05T21:00:41.260363+00:00", 57, "Your mother is", "butcherly", "Pronunciation: /\u02c8b\u028a\u02a7\u0259rli/", "Definition: poorly done", "Synonyms: botchy, unskillful"]}
+{"data": ["2022-02-05T22:00:38.447349+00:00", 58, "Your mother is", "adolescent", "Pronunciation: /\u02cc\u00e6d\u02c8\u0259l\u025bs\u0259nt/", "Definition: displaying or suggesting a lack of maturity", "Synonyms: jejune, juvenile, puerile"]}
