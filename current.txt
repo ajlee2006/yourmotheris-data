@@ -1,1 +1,1 @@
-{"data": ["2022-02-05T12:00:38.221885+00:00", 48, "Your mother is", "flagitious", "Pronunciation: /fl\u0259\u02c8d\u0292\u026a\u0283\u0259s/", "Definition: shockingly brutal or cruel", "Synonyms: atrocious, grievous, monstrous"]}
+{"data": ["2022-02-05T13:00:24.747200+00:00", 49, "Your mother is", "harebrained", "Pronunciation: /\u02c8h\u025cr\u02ccbre\u026and/", "Definition: very foolish", "Synonyms: insane, mad"]}
