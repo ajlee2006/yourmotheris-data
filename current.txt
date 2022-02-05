@@ -1,1 +1,1 @@
-{"data": ["2022-02-05T01:01:13.586369+00:00", 37, "Your mother is", "enceinte", "Pronunciation: /\u025bn\u02c8se\u026ant/", "Definition: in an advanced stage of pregnancy", "Synonyms: big, expectant, gravid, great, heavy, large, with child"]}
+{"data": ["2022-02-05T02:01:23.662071+00:00", 38, "Your mother is", "psychogenic", "Pronunciation: /\u02ccsa\u026ako\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: of or relating to the psychological cause of a disorder", "Synonyms: psychogenetic"]}
