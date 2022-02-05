@@ -1,1 +1,1 @@
-{"data": ["2022-02-05T22:00:38.447349+00:00", 58, "Your mother is", "adolescent", "Pronunciation: /\u02cc\u00e6d\u02c8\u0259l\u025bs\u0259nt/", "Definition: displaying or suggesting a lack of maturity", "Synonyms: jejune, juvenile, puerile"]}
+{"data": ["2022-02-05T23:01:33.701875+00:00", 59, "Your mother is", "self-centered", "Pronunciation: /\u02c8s\u025blf\u02c8s\u025bnt\u0259rd/", "Definition: limited to or caring only about yourself and your own needs", "Synonyms: egocentric, egoistic, egoistical, self-centred"]}
