@@ -1,1 +1,1 @@
-{"data": ["2022-02-05T13:00:24.747200+00:00", 49, "Your mother is", "harebrained", "Pronunciation: /\u02c8h\u025cr\u02ccbre\u026and/", "Definition: very foolish", "Synonyms: insane, mad"]}
+{"data": ["2022-02-05T14:01:16.186936+00:00", 50, "Your mother is", "velvety-plumaged", "Similar to: feathered", "Definition: plumage resembling velvet", ""]}
