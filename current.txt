@@ -1,1 +1,1 @@
-{"data": ["2022-02-05T20:01:05.614651+00:00", 56, "Your mother is", "forte", "Pronunciation: /\u02c8f\u0254rte\u026a/", "Definition: (used chiefly as a direction or description in music) loud; with force", "Synonyms: loud"]}
+{"data": ["2022-02-05T21:00:41.260363+00:00", 57, "Your mother is", "butcherly", "Pronunciation: /\u02c8b\u028a\u02a7\u0259rli/", "Definition: poorly done", "Synonyms: botchy, unskillful"]}
