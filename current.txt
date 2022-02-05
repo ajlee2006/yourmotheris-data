@@ -1,1 +1,1 @@
-{"data": ["2022-02-05T06:00:21.181686+00:00", 42, "Your mother is", "safe", "Pronunciation: /se\u026af/", "Definition: financially safe", "Synonyms: dependable, good, secure"]}
+{"data": ["2022-02-05T07:01:29.567407+00:00", 43, "Your mother is", "unobvious", "Similar to: unapparent", "Definition: not immediately apparent", ""]}
