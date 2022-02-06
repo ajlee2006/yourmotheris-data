@@ -1,1 +1,1 @@
-{"data": ["2022-02-06T08:01:21.056284+00:00", 68, "Your mother is", "confirmed", "Pronunciation: /k\u0259n\u02c8f\u025crmd/", "Definition: having been established or made firm or received the rite of confirmation", ""]}
+{"data": ["2022-02-06T09:00:57.330283+00:00", 69, "Your mother is", "unpicturesque", "Pronunciation: /\u02cc\u0259np\u026akt\u0283\u0259\u02c8r\u025bsk/", "Definition: without beauty or charm", "Synonyms: unlovely"]}
