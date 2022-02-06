@@ -1,1 +1,1 @@
-{"data": ["2022-02-06T16:01:35.158361+00:00", 76, "Your mother is", "preventive", "Pronunciation: /pr\u026a\u02c8v\u025bnt\u026av/", "Definition: preventing or contributing to the prevention of disease", "Synonyms: preventative, prophylactic"]}
+{"data": ["2022-02-06T17:00:17.335748+00:00", 77, "Your mother is", "missed", "Pronunciation: /m\u026ast/", "Definition: not caught with the senses or the mind", "Synonyms: lost"]}
