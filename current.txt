@@ -1,1 +1,1 @@
-{"data": ["2022-02-06T22:00:37.094469+00:00", 82, "Your mother is", "hail-fellow", "Pronunciation: /he\u026al-\u02c8f\u025blo\u028a/", "Definition: heartily friendly and congenial", "Synonyms: comradely, hail-fellow-well-met"]}
+{"data": ["2022-02-06T23:01:01.271204+00:00", 83, "Your mother is", "unsensational", "Pronunciation: /\u02cc\u0259ns\u025bn\u02c8se\u026a\u0283\u0259n\u0259l/", "Definition: not of such character as to arouse intense interest, curiosity, or emotional reaction", ""]}
