@@ -1,1 +1,1 @@
-{"data": ["2022-02-06T04:01:00.892673+00:00", 64, "Your mother is", "imbecile", "Pronunciation: /\u02c8\u026amb\u026as\u026al/", "Definition: having a mental age of three to seven years", "Synonyms: idiotic, imbecilic"]}
+{"data": ["2022-02-06T05:01:09.001361+00:00", 65, "Your mother is", "veiled", "Pronunciation: /ve\u026ald/", "Definition: muted or unclear", ""]}
