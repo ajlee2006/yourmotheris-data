@@ -1,1 +1,1 @@
-{"data": ["2022-02-06T03:01:30.297781+00:00", 63, "Your mother is", "disheartened", "Pronunciation: /d\u026as\u02c8h\u0251rt\u028cnd/", "Definition: made less hopeful or enthusiastic", "Synonyms: demoralised, demoralized, discouraged"]}
+{"data": ["2022-02-06T04:01:00.892673+00:00", 64, "Your mother is", "imbecile", "Pronunciation: /\u02c8\u026amb\u026as\u026al/", "Definition: having a mental age of three to seven years", "Synonyms: idiotic, imbecilic"]}
