@@ -1,1 +1,1 @@
-{"data": ["2022-02-06T05:01:09.001361+00:00", 65, "Your mother is", "veiled", "Pronunciation: /ve\u026ald/", "Definition: muted or unclear", ""]}
+{"data": ["2022-02-06T06:00:26.532824+00:00", 66, "Your mother is", "convulsive", "Pronunciation: /k\u0259n\u02c8v\u0259ls\u026av/", "Definition: affected by involuntary jerky muscular contractions; resembling a spasm", "Synonyms: spasmodic, spastic"]}
