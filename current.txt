@@ -1,1 +1,1 @@
-{"data": ["2022-02-06T20:00:40.215361+00:00", 80, "Your mother is", "sapiential", "Pronunciation: /\u02ccse\u026api\u02c8\u025bn\u0283\u0259l/", "Definition: characterized by wisdom, especially the wisdom of God", ""]}
+{"data": ["2022-02-06T21:00:23.478099+00:00", 81, "Your mother is", "cross-grained", "Pronunciation: /kr\u0254s-gre\u026and/", "Definition: of timber; having fibers running irregularly rather than in parallel", "Synonyms: curly-grained, wavy-grained"]}
