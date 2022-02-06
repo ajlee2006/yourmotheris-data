@@ -1,1 +1,1 @@
-{"data": ["2022-02-06T21:00:23.478099+00:00", 81, "Your mother is", "cross-grained", "Pronunciation: /kr\u0254s-gre\u026and/", "Definition: of timber; having fibers running irregularly rather than in parallel", "Synonyms: curly-grained, wavy-grained"]}
+{"data": ["2022-02-06T22:00:37.094469+00:00", 82, "Your mother is", "hail-fellow", "Pronunciation: /he\u026al-\u02c8f\u025blo\u028a/", "Definition: heartily friendly and congenial", "Synonyms: comradely, hail-fellow-well-met"]}
