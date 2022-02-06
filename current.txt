@@ -1,1 +1,1 @@
-{"data": ["2022-02-06T19:01:00.308027+00:00", 79, "Your mother is", "piddling", "Pronunciation: /\u02c8p\u026adl\u026a\u014b/", "Definition: (informal) small and of little importance", "Synonyms: fiddling, footling, lilliputian, little, niggling, petty, picayune, piffling, trivial"]}
+{"data": ["2022-02-06T20:00:40.215361+00:00", 80, "Your mother is", "sapiential", "Pronunciation: /\u02ccse\u026api\u02c8\u025bn\u0283\u0259l/", "Definition: characterized by wisdom, especially the wisdom of God", ""]}
