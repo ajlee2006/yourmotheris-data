@@ -1,1 +1,1 @@
-{"data": ["2022-02-06T06:00:26.532824+00:00", 66, "Your mother is", "convulsive", "Pronunciation: /k\u0259n\u02c8v\u0259ls\u026av/", "Definition: affected by involuntary jerky muscular contractions; resembling a spasm", "Synonyms: spasmodic, spastic"]}
+{"data": ["2022-02-06T07:01:34.471770+00:00", 67, "Your mother is", "nautical", "Pronunciation: /\u02c8n\u0254t\u026ak\u0259l/", "Definition: relating to or involving ships or shipping or navigation or seamen", "Synonyms: marine, maritime"]}
