@@ -1,1 +1,1 @@
-{"data": ["2022-02-06T11:01:27.028310+00:00", 71, "Your mother is", "freestanding", "Pronunciation: /\u02c8fri\u02c8st\u00e6nd\u026a\u014b/", "Definition: standing apart; not attached to or supported by anything", "Synonyms: separate"]}
+{"data": ["2022-02-06T12:00:41.991923+00:00", 72, "Your mother is", "subcutaneous", "Pronunciation: /\u02ccs\u0259bkju\u02c8te\u026ani\u0259s/", "Definition: relating to or located below the epidermis", "Synonyms: hypodermic"]}
