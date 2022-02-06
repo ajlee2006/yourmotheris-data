@@ -1,1 +1,1 @@
-{"data": ["2022-02-06T15:01:26.565241+00:00", 75, "Your mother is", "contrarious", "Pronunciation: /k\u0259n\u02c8tr\u025cri\u0259s/", "Definition: difficult to deal with", "Synonyms: cross-grained"]}
+{"data": ["2022-02-06T16:01:35.158361+00:00", 76, "Your mother is", "preventive", "Pronunciation: /pr\u026a\u02c8v\u025bnt\u026av/", "Definition: preventing or contributing to the prevention of disease", "Synonyms: preventative, prophylactic"]}
