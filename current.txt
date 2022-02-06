@@ -1,1 +1,1 @@
-{"data": ["2022-02-06T07:01:34.471770+00:00", 67, "Your mother is", "nautical", "Pronunciation: /\u02c8n\u0254t\u026ak\u0259l/", "Definition: relating to or involving ships or shipping or navigation or seamen", "Synonyms: marine, maritime"]}
+{"data": ["2022-02-06T08:01:21.056284+00:00", 68, "Your mother is", "confirmed", "Pronunciation: /k\u0259n\u02c8f\u025crmd/", "Definition: having been established or made firm or received the rite of confirmation", ""]}
