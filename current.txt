@@ -1,1 +1,1 @@
-{"data": ["2022-02-06T09:00:57.330283+00:00", 69, "Your mother is", "unpicturesque", "Pronunciation: /\u02cc\u0259np\u026akt\u0283\u0259\u02c8r\u025bsk/", "Definition: without beauty or charm", "Synonyms: unlovely"]}
+{"data": ["2022-02-06T10:01:22.837346+00:00", 70, "Your mother is", "broadside", "Pronunciation: /\u02c8br\u0254d\u02ccsa\u026ad/", "Definition: toward a full side", ""]}
