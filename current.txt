@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T20:00:14.937877+00:00", 104, "Your mother is", "unimagined", "Pronunciation: /\u02cc\u028cn\u026a\u02c8m\u00e6d\u0292\u028cnd/", "Definition: not imagined even in a dream", "Synonyms: undreamed, undreamed of, undreamt, undreamt of"]}
+{"data": ["2022-02-07T21:00:45.486535+00:00", 105, "Your mother is", "northern", "Pronunciation: /\u02c8no\u028ar\u00f0\u0259n/", "Definition: situated in or oriented toward the north", "Synonyms: northerly"]}
