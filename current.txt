@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T13:00:22.417302+00:00", 97, "Your mother is", "nonagenarian", "Pronunciation: /\u02ccn\u0251n\u0259d\u0292\u0259\u02c8n\u025cri\u0259n/", "Definition: being from 90 to 99 years old", ""]}
+{"data": ["2022-02-07T14:01:04.643035+00:00", 98, "Your mother is", "aquiline", "Pronunciation: /\u02c8\u00e6kw\u0259\u02ccla\u026an/", "Definition: curved down like an eagle's beak", "Synonyms: hooked"]}
