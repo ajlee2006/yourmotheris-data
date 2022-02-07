@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T09:01:11.343164+00:00", 93, "Your mother is", "unaffixed", "", "Definition: not affixed", "Synonyms: loose"]}
+{"data": ["2022-02-07T10:01:03.315053+00:00", 94, "Your mother is", "realistic", "Pronunciation: /\u02ccri\u0259\u02c8l\u026ast\u026ak/", "Definition: representing what is real; not abstract or ideal", "Synonyms: naturalistic"]}
