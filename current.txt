@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T15:01:34.715229+00:00", 99, "Your mother is", "doped", "Pronunciation: /do\u028apt/", "Definition: under the influence of narcotics", "Synonyms: drugged, narcotised, narcotized"]}
+{"data": ["2022-02-07T16:01:04.588539+00:00", 100, "Your mother is", "volatilizable", "Similar to: volatile", "Definition: (used of substances) capable of being volatilized", "Synonyms: evaporable, vaporific, vaporizable, vapourific, vapourisable, volatilisable"]}
