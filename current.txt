@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T21:00:45.486535+00:00", 105, "Your mother is", "northern", "Pronunciation: /\u02c8no\u028ar\u00f0\u0259n/", "Definition: situated in or oriented toward the north", "Synonyms: northerly"]}
+{"data": ["2022-02-07T22:00:44.709231+00:00", 106, "Your mother is", "bellying", "Similar to: protrusive", "Definition: curving outward", "Synonyms: bellied, bulbous, bulging, bulgy, protuberant"]}
