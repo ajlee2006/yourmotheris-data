@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T06:00:32.697686+00:00", 90, "Your mother is", "finable", "Pronunciation: /\u02c8fa\u026an\u0259b\u0259l/", "Definition: liable to a fine", "Synonyms: fineable"]}
+{"data": ["2022-02-07T07:00:52.295212+00:00", 91, "Your mother is", "spiny", "Pronunciation: /\u02c8spa\u026ani/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristled, bristly, burred, burry, prickly, setaceous, setose, thorny"]}
