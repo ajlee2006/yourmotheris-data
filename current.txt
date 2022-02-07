@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T01:01:35.891045+00:00", 85, "Your mother is", "paradisal", "Pronunciation: /\u02c8p\u00e6r\u0259\u02ccda\u026as\u0259l/", "Definition: relating to or befitting Paradise", "Synonyms: paradisaic, paradisaical, paradisiac, paradisiacal"]}
+{"data": ["2022-02-07T02:00:43.426230+00:00", 86, "Your mother is", "trilingual", "Pronunciation: /tra\u026a\u02c8l\u026a\u014bgw\u0259l/", "Definition: using or knowing three languages", ""]}
