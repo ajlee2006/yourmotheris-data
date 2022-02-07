@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T18:01:02.680098+00:00", 102, "Your mother is", "nauseous", "Pronunciation: /\u02c8n\u0254\u0283\u0259s/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, noisome, offensive, queasy, sickening, vile"]}
+{"data": ["2022-02-07T19:00:24.804768+00:00", 103, "Your mother is", "snub-nosed", "Pronunciation: /\u02c8sn\u0259b\u02ccno\u028azd/", "Definition: having a blunt nose", "Synonyms: pug-nose, pug-nosed, short-nosed"]}
