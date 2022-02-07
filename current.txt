@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T14:01:04.643035+00:00", 98, "Your mother is", "aquiline", "Pronunciation: /\u02c8\u00e6kw\u0259\u02ccla\u026an/", "Definition: curved down like an eagle's beak", "Synonyms: hooked"]}
+{"data": ["2022-02-07T15:01:34.715229+00:00", 99, "Your mother is", "doped", "Pronunciation: /do\u028apt/", "Definition: under the influence of narcotics", "Synonyms: drugged, narcotised, narcotized"]}
