@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T19:00:24.804768+00:00", 103, "Your mother is", "snub-nosed", "Pronunciation: /\u02c8sn\u0259b\u02ccno\u028azd/", "Definition: having a blunt nose", "Synonyms: pug-nose, pug-nosed, short-nosed"]}
+{"data": ["2022-02-07T20:00:14.937877+00:00", 104, "Your mother is", "unimagined", "Pronunciation: /\u02cc\u028cn\u026a\u02c8m\u00e6d\u0292\u028cnd/", "Definition: not imagined even in a dream", "Synonyms: undreamed, undreamed of, undreamt, undreamt of"]}
