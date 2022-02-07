@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T16:01:04.588539+00:00", 100, "Your mother is", "volatilizable", "Similar to: volatile", "Definition: (used of substances) capable of being volatilized", "Synonyms: evaporable, vaporific, vaporizable, vapourific, vapourisable, volatilisable"]}
+{"data": ["2022-02-07T17:01:13.492352+00:00", 101, "Your mother is", "stand-up", "Pronunciation: /st\u00e6nd-\u0259p/", "Definition: requiring a standing position", ""]}
