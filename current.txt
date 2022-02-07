@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T11:01:24.855659+00:00", 95, "Your mother is", "two-lobed", "Pronunciation: /tu-lo\u028abd/", "Definition: having two lobes", ""]}
+{"data": ["2022-02-07T12:00:20.791810+00:00", 96, "Your mother is", "briefless", "Pronunciation: /\u02c8brifl\u026as/", "Definition: (of lawyers or barristers) lacking clients", ""]}
