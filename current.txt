@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T12:00:20.791810+00:00", 96, "Your mother is", "briefless", "Pronunciation: /\u02c8brifl\u026as/", "Definition: (of lawyers or barristers) lacking clients", ""]}
+{"data": ["2022-02-07T13:00:22.417302+00:00", 97, "Your mother is", "nonagenarian", "Pronunciation: /\u02ccn\u0251n\u0259d\u0292\u0259\u02c8n\u025cri\u0259n/", "Definition: being from 90 to 99 years old", ""]}
