@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T02:00:43.426230+00:00", 86, "Your mother is", "trilingual", "Pronunciation: /tra\u026a\u02c8l\u026a\u014bgw\u0259l/", "Definition: using or knowing three languages", ""]}
+{"data": ["2022-02-07T03:01:12.954975+00:00", 87, "Your mother is", "straight-billed", "Similar to: beaked", "Definition: having a straight beak", ""]}
