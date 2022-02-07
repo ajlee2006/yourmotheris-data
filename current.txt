@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T04:00:37.371276+00:00", 88, "Your mother is", "meshugge", "Similar to: impractical", "Definition: senseless; crazy", "Synonyms: meshuga, meshugga, meshuggeneh, meshuggener"]}
+{"data": ["2022-02-07T05:00:41.515589+00:00", 89, "Your mother is", "extractable", "Similar to: removable", "Definition: capable of being extracted", "Synonyms: extractible"]}
