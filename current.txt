@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T05:00:41.515589+00:00", 89, "Your mother is", "extractable", "Similar to: removable", "Definition: capable of being extracted", "Synonyms: extractible"]}
+{"data": ["2022-02-07T06:00:32.697686+00:00", 90, "Your mother is", "finable", "Pronunciation: /\u02c8fa\u026an\u0259b\u0259l/", "Definition: liable to a fine", "Synonyms: fineable"]}
