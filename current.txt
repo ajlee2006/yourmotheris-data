@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T22:00:44.709231+00:00", 106, "Your mother is", "bellying", "Similar to: protrusive", "Definition: curving outward", "Synonyms: bellied, bulbous, bulging, bulgy, protuberant"]}
+{"data": ["2022-02-07T23:01:16.631584+00:00", 107, "Your mother is", "coenobitic", "", "Definition: of or relating to or befitting cenobites or their practices of communal living", "Synonyms: cenobitic, cenobitical, coenobitical"]}
