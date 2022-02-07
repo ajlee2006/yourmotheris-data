@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T17:01:13.492352+00:00", 101, "Your mother is", "stand-up", "Pronunciation: /st\u00e6nd-\u0259p/", "Definition: requiring a standing position", ""]}
+{"data": ["2022-02-07T18:01:02.680098+00:00", 102, "Your mother is", "nauseous", "Pronunciation: /\u02c8n\u0254\u0283\u0259s/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, noisome, offensive, queasy, sickening, vile"]}
