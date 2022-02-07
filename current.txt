@@ -1,1 +1,1 @@
-{"data": ["2022-02-07T10:01:03.315053+00:00", 94, "Your mother is", "realistic", "Pronunciation: /\u02ccri\u0259\u02c8l\u026ast\u026ak/", "Definition: representing what is real; not abstract or ideal", "Synonyms: naturalistic"]}
+{"data": ["2022-02-07T11:01:24.855659+00:00", 95, "Your mother is", "two-lobed", "Pronunciation: /tu-lo\u028abd/", "Definition: having two lobes", ""]}
