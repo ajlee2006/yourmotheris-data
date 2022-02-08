@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T07:00:58.297855+00:00", 115, "Your mother is", "shock-headed", "Similar to: haired", "Definition: having a shock (or untidy mass) of hair", ""]}
+{"data": ["2022-02-08T08:01:32.073531+00:00", 116, "Your mother is", "unwarranted", "Pronunciation: /\u0259n\u02c8w\u0251r\u0259nt\u026ad/", "Definition: without a basis in reason or fact", "Synonyms: baseless, groundless, idle, unfounded, wild"]}
