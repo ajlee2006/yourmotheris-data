@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T09:01:05.923585+00:00", 117, "Your mother is", "granulated", "Similar to: coarse", "Definition: made grainy or formed into granules", ""]}
+{"data": ["2022-02-08T10:00:31.795930+00:00", 118, "Your mother is", "galilean", "Pronunciation: /\u02cc\u0261\u00e6l\u0259\u02c8li\u0259n/", "Definition: of or relating to Galilee or its inhabitants", "Synonyms: galilaean"]}
