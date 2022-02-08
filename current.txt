@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T13:00:39.288111+00:00", 121, "Your mother is", "hi-tech", "Similar to: advanced", "Definition: resembling or making use of highly advanced technology or devices", "Synonyms: high-tech"]}
+{"data": ["2022-02-08T14:01:11.361787+00:00", 122, "Your mother is", "cryptogamic", "", "Definition: of or relating to a cryptogam", "Synonyms: cryptogamous"]}
