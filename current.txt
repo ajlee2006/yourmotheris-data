@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T04:01:00.505791+00:00", 112, "Your mother is", "thoroughbred", "Pronunciation: /\u02c8\u03b8\u0259r\u0259\u02ccbr\u025bd/", "Definition: having a list of ancestors as proof of being a purebred animal", "Synonyms: pedigree, pedigreed, pureblood, pureblooded"]}
+{"data": ["2022-02-08T05:00:20.077803+00:00", 113, "Your mother is", "saprobic", "", "Definition: living in or being an environment rich in organic matter but lacking oxygen", ""]}
