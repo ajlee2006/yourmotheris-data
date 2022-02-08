@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T01:01:10.201788+00:00", 109, "Your mother is", "incapacitated", "Pronunciation: /\u026ank\u028c\u02c8p\u00e6s\u026a\u02ccte\u026at\u026ad/", "Definition: lacking in or deprived of strength or power", "Synonyms: helpless"]}
+{"data": ["2022-02-08T02:01:21.035516+00:00", 110, "Your mother is", "subscript", "Pronunciation: /\u02c8s\u0259bskr\u026apt/", "Definition: written or printed below and to one side of another character", "Synonyms: inferior"]}
