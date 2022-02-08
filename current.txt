@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T15:01:36.245444+00:00", 123, "Your mother is", "canescent", "Pronunciation: /k\u0259\u02c8n\u025bs\u0259nt/", "Definition: covered with fine whitish hairs or down", "Synonyms: hoary"]}
+{"data": ["2022-02-08T16:01:35.402403+00:00", 124, "Your mother is", "recriminative", "Similar to: inculpative", "Definition: countering one charge with another", "Synonyms: recriminatory"]}
