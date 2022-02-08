@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T00:01:19.417419+00:00", 108, "Your mother is", "lowering", "Pronunciation: /\u02c8la\u028a\u0259r\u026a\u014b/", "Definition: darkened by clouds", "Synonyms: heavy, sullen, threatening"]}
+{"data": ["2022-02-08T01:01:10.201788+00:00", 109, "Your mother is", "incapacitated", "Pronunciation: /\u026ank\u028c\u02c8p\u00e6s\u026a\u02ccte\u026at\u026ad/", "Definition: lacking in or deprived of strength or power", "Synonyms: helpless"]}
