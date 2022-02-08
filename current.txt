@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T10:00:31.795930+00:00", 118, "Your mother is", "galilean", "Pronunciation: /\u02cc\u0261\u00e6l\u0259\u02c8li\u0259n/", "Definition: of or relating to Galilee or its inhabitants", "Synonyms: galilaean"]}
+{"data": ["2022-02-08T11:01:32.562646+00:00", 119, "Your mother is", "topographic", "Pronunciation: /\u02cct\u0251p\u0259\u02c8gr\u00e6f\u026ak/", "Definition: concerned with topography", "Synonyms: topographical"]}
