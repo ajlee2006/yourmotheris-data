@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T06:01:24.110394+00:00", 114, "Your mother is", "flinty", "Pronunciation: /\u02c8fl\u026anti/", "Definition: showing unfeeling resistance to tender feelings", "Synonyms: flint, granitic, obdurate, stony"]}
+{"data": ["2022-02-08T07:00:58.297855+00:00", 115, "Your mother is", "shock-headed", "Similar to: haired", "Definition: having a shock (or untidy mass) of hair", ""]}
