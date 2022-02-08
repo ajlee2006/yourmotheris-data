@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T20:00:47.008577+00:00", 128, "Your mother is", "autochthonal", "Similar to: native", "Definition: originating where it is found", "Synonyms: autochthonic, autochthonous, endemic, indigenous"]}
+{"data": ["2022-02-08T21:01:18.985732+00:00", 129, "Your mother is", "shaken", "Pronunciation: /\u02c8\u0283e\u026ak\u0259n/", "Definition: disturbed psychologically as if by a physical jolt or shock", "Synonyms: jolted"]}
