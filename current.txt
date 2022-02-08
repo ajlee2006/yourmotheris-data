@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T11:01:32.562646+00:00", 119, "Your mother is", "topographic", "Pronunciation: /\u02cct\u0251p\u0259\u02c8gr\u00e6f\u026ak/", "Definition: concerned with topography", "Synonyms: topographical"]}
+{"data": ["2022-02-08T12:00:24.298308+00:00", 120, "Your mother is", "viable", "Pronunciation: /\u02c8va\u026a\u0259b\u0259l/", "Definition: capable of being done with means at hand and circumstances as they are", "Synonyms: executable, feasible, practicable, workable"]}
