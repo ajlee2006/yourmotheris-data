@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T17:00:59.845451+00:00", 125, "Your mother is", "balding", "Pronunciation: /\u02c8b\u0254ld\u026a\u014b/", "Definition: getting bald", ""]}
+{"data": ["2022-02-08T18:01:00.713832+00:00", 126, "Your mother is", "alligatored", "Similar to: rough", "Definition: of paint or varnish; having the appearance of alligator hide", "Synonyms: cracked"]}
