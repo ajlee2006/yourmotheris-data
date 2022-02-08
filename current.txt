@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T19:00:51.600634+00:00", 127, "Your mother is", "dry-eyed", "Pronunciation: /dra\u026a-a\u026ad/", "Definition: free from tears", "Synonyms: tearless"]}
+{"data": ["2022-02-08T20:00:47.008577+00:00", 128, "Your mother is", "autochthonal", "Similar to: native", "Definition: originating where it is found", "Synonyms: autochthonic, autochthonous, endemic, indigenous"]}
