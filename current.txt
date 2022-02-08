@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T08:01:32.073531+00:00", 116, "Your mother is", "unwarranted", "Pronunciation: /\u0259n\u02c8w\u0251r\u0259nt\u026ad/", "Definition: without a basis in reason or fact", "Synonyms: baseless, groundless, idle, unfounded, wild"]}
+{"data": ["2022-02-08T09:01:05.923585+00:00", 117, "Your mother is", "granulated", "Similar to: coarse", "Definition: made grainy or formed into granules", ""]}
