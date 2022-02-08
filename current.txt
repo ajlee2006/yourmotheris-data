@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T22:01:15.740696+00:00", 130, "Your mother is", "exhausting", "Pronunciation: /\u026a\u0261\u02c8z\u0254st\u026a\u014b/", "Definition: having a debilitating effect", "Synonyms: draining"]}
+{"data": ["2022-02-08T23:01:37.634551+00:00", 131, "Your mother is", "unvented", "Similar to: unventilated", "Definition: not provided with vents", ""]}
