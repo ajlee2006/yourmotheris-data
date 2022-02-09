@@ -1,1 +1,1 @@
-{"data": ["2022-02-09T09:00:44.914180+00:00", 141, "Your mother is", "nine", "Pronunciation: /na\u026an/", "Definition: denoting a quantity consisting of one more than eight and one less than ten", "Synonyms: 9, ix"]}
+{"data": ["2022-02-09T10:00:45.492003+00:00", 142, "Your mother is", "flatulent", "Pronunciation: /\u02c8fl\u00e6\u02a7\u0259l\u0259nt/", "Definition: suffering from excessive gas in the alimentary canal", "Synonyms: colicky, gassy"]}
