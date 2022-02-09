@@ -1,1 +1,1 @@
-{"data": ["2022-02-09T15:01:25.846514+00:00", 147, "Your mother is", "half", "Pronunciation: /h\u00e6f/", "Definition: consisting of one of two equivalent parts in value or quantity", ""]}
+{"data": ["2022-02-09T16:00:32.871323+00:00", 148, "Your mother is", "unmoved", "Pronunciation: /\u0259n\u02c8muvd/", "Definition: being in the original position; not having been moved", "Synonyms: in-situ, in situ"]}
