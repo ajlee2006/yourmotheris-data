@@ -1,1 +1,1 @@
-{"data": ["2022-02-08T23:01:37.634551+00:00", 131, "Your mother is", "unvented", "Similar to: unventilated", "Definition: not provided with vents", ""]}
+{"data": ["2022-02-09T00:01:46.884527+00:00", 132, "Your mother is", "pulverised", "Similar to: fine", "Definition: consisting of fine particles", "Synonyms: fine-grained, powdered, powdery, pulverized, small-grained"]}
