@@ -1,1 +1,1 @@
-{"data": ["2022-02-09T02:00:59.772065+00:00", 134, "Your mother is", "bunchy", "Pronunciation: /\u02c8b\u0259n\u02a7i/", "Definition: occurring close together in bunches or clusters", ""]}
+{"data": ["2022-02-09T03:01:28.546850+00:00", 135, "Your mother is", "down in the mouth", "Similar to: dejected", "Definition: filled with melancholy and despondency", "Synonyms: blue, depressed, dispirited, down, downcast, downhearted, gloomy, grim, low, low-spirited"]}
