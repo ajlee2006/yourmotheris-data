@@ -1,1 +1,1 @@
-{"data": ["2022-02-09T03:01:28.546850+00:00", 135, "Your mother is", "down in the mouth", "Similar to: dejected", "Definition: filled with melancholy and despondency", "Synonyms: blue, depressed, dispirited, down, downcast, downhearted, gloomy, grim, low, low-spirited"]}
+{"data": ["2022-02-09T04:00:26.499443+00:00", 136, "Your mother is", "spell-bound", "Similar to: enchanted", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spellbound, transfixed"]}
