@@ -1,1 +1,1 @@
-{"data": ["2022-02-09T13:01:00.943380+00:00", 145, "Your mother is", "executed", "Pronunciation: /\u02c8\u025bks\u028c\u02cckjut\u028cd/", "Definition: put to death as punishment", ""]}
+{"data": ["2022-02-09T14:00:55.537766+00:00", 146, "Your mother is", "infrangible", "Pronunciation: /\u026an\u02c8fr\u00e6nd\u0292\u0259b\u0259l/", "Definition: not capable of being violated or infringed", "Synonyms: absolute, inviolable"]}
