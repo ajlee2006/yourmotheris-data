@@ -1,1 +1,1 @@
-{"data": ["2022-02-09T16:00:32.871323+00:00", 148, "Your mother is", "unmoved", "Pronunciation: /\u0259n\u02c8muvd/", "Definition: being in the original position; not having been moved", "Synonyms: in-situ, in situ"]}
+{"data": ["2022-02-09T17:01:03.936469+00:00", 149, "Your mother is", "yeastlike", "", "Definition: of or resembling or containing yeast", "Synonyms: yeasty"]}
