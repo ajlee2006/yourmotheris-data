@@ -1,1 +1,1 @@
-{"data": ["2022-02-09T14:00:55.537766+00:00", 146, "Your mother is", "infrangible", "Pronunciation: /\u026an\u02c8fr\u00e6nd\u0292\u0259b\u0259l/", "Definition: not capable of being violated or infringed", "Synonyms: absolute, inviolable"]}
+{"data": ["2022-02-09T15:01:25.846514+00:00", 147, "Your mother is", "half", "Pronunciation: /h\u00e6f/", "Definition: consisting of one of two equivalent parts in value or quantity", ""]}
