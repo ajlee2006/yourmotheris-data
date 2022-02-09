@@ -1,1 +1,1 @@
-{"data": ["2022-02-09T04:00:26.499443+00:00", 136, "Your mother is", "spell-bound", "Similar to: enchanted", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spellbound, transfixed"]}
+{"data": ["2022-02-09T05:00:56.031727+00:00", 137, "Your mother is", "spendable", "Pronunciation: /\u02c8sp\u025bnd\u0259b\u0259l/", "Definition: (used of funds) remaining after taxes", "Synonyms: expendable"]}
