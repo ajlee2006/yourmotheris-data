@@ -1,1 +1,1 @@
-{"data": ["2022-02-09T08:00:52.853734+00:00", 140, "Your mother is", "coextensive", "Pronunciation: /\u02ccko\u028a\u026ak\u02c8st\u025bns\u026av/", "Definition: being of equal extent or scope or duration", "Synonyms: conterminous, coterminous"]}
+{"data": ["2022-02-09T09:00:44.914180+00:00", 141, "Your mother is", "nine", "Pronunciation: /na\u026an/", "Definition: denoting a quantity consisting of one more than eight and one less than ten", "Synonyms: 9, ix"]}
