@@ -1,1 +1,1 @@
-{"data": ["2022-02-10T03:00:58.211192+00:00", 159, "Your mother is", "brumous", "Pronunciation: /\u02c8brum\u0259s/", "Definition: filled or abounding with fog or mist", "Synonyms: foggy, hazy, misty"]}
+{"data": ["2022-02-10T04:00:24.889240+00:00", 160, "Your mother is", "lenticular", "Pronunciation: /l\u025bn\u02c8t\u026akj\u0259l\u0259r/", "Definition: convex on both sides; shaped like a lentil", "Synonyms: biconvex, convexo-convex, lentiform"]}
