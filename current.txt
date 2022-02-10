@@ -1,1 +1,1 @@
-{"data": ["2022-02-10T00:01:56.871688+00:00", 156, "Your mother is", "dentate", "Pronunciation: /\u02c8d\u025bnte\u026at/", "Definition: having toothlike projections in the margin", ""]}
+{"data": ["2022-02-10T01:01:10.371426+00:00", 157, "Your mother is", "thirty-two", "Pronunciation: /\u02c8\u03b8\u025crti-\u02c8tu/", "Definition: being two more than thirty", "Synonyms: 32, xxxii"]}
