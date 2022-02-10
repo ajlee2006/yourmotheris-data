@@ -1,1 +1,1 @@
-{"data": ["2022-02-10T08:01:13.985341+00:00", 164, "Your mother is", "hesperian", "Pronunciation: /h\u025b\u02c8spiri\u0259n/", "Definition: denoting or characteristic of countries of Europe and the western hemisphere", "Synonyms: occidental"]}
+{"data": ["2022-02-10T09:01:09.164865+00:00", 165, "Your mother is", "faltering", "Pronunciation: /\u02c8f\u0254lt\u025dr\u026a\u014b/", "Definition: unsteady in speech or action", ""]}
