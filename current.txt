@@ -1,1 +1,1 @@
-{"data": ["2022-02-10T09:01:09.164865+00:00", 165, "Your mother is", "faltering", "Pronunciation: /\u02c8f\u0254lt\u025dr\u026a\u014b/", "Definition: unsteady in speech or action", ""]}
+{"data": ["2022-02-10T10:01:18.434456+00:00", 166, "Your mother is", "epideictic", "Pronunciation: /\u02cc\u025bp\u026a\u02c8da\u026akt\u026ak/", "Definition: designed primarily for rhetorical display", "Synonyms: epideictical"]}
