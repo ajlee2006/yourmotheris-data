@@ -1,1 +1,1 @@
-{"data": ["2022-02-09T23:01:07.999101+00:00", 155, "Your mother is", "acuate", "Pronunciation: /\u02c8\u00e6kju\u026at/", "Definition: ending in a sharp point", "Synonyms: acute, needlelike, sharp"]}
+{"data": ["2022-02-10T00:01:56.871688+00:00", 156, "Your mother is", "dentate", "Pronunciation: /\u02c8d\u025bnte\u026at/", "Definition: having toothlike projections in the margin", ""]}
