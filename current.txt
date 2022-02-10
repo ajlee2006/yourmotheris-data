@@ -1,1 +1,1 @@
-{"data": ["2022-02-10T21:01:13.074524+00:00", 177, "Your mother is", "asymmetric", "Pronunciation: /\u02cce\u026as\u0259\u02c8m\u025btr\u026ak/", "Definition: characterized by asymmetry in the spatial arrangement or placement of parts or components", "Synonyms: asymmetrical"]}
+{"data": ["2022-02-10T22:00:49.134836+00:00", 178, "Your mother is", "two-pronged", "Similar to: divided", "Definition: having two prongs", ""]}
