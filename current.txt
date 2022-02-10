@@ -1,1 +1,1 @@
-{"data": ["2022-02-10T04:00:24.889240+00:00", 160, "Your mother is", "lenticular", "Pronunciation: /l\u025bn\u02c8t\u026akj\u0259l\u0259r/", "Definition: convex on both sides; shaped like a lentil", "Synonyms: biconvex, convexo-convex, lentiform"]}
+{"data": ["2022-02-10T05:00:53.839284+00:00", 161, "Your mother is", "free-flying", "Similar to: aerial", "Definition: able to fly through the air (as a bird)", ""]}
