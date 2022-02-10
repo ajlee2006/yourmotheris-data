@@ -1,1 +1,1 @@
-{"data": ["2022-02-10T12:00:47.235212+00:00", 168, "Your mother is", "three-way", "Pronunciation: /\u03b8ri-we\u026a/", "Definition: involving three parties or elements", "Synonyms: three-party, tripartite"]}
+{"data": ["2022-02-10T13:01:06.370497+00:00", 169, "Your mother is", "welsh", "Pronunciation: /w\u025bl\u0283/", "Definition: of or relating to or characteristic of Wales or its people or their language", "Synonyms: cambrian"]}
