@@ -1,1 +1,1 @@
-{"data": ["2022-02-10T17:01:26.593727+00:00", 173, "Your mother is", "emergent", "Pronunciation: /\u026a\u02c8m\u025crd\u0292\u0259nt/", "Definition: coming into existence", "Synonyms: emerging"]}
+{"data": ["2022-02-10T18:00:36.798567+00:00", 174, "Your mother is", "boorish", "Pronunciation: /\u02c8b\u028ar\u026a\u0283/", "Definition: ill-mannered and coarse and contemptible in behavior or appearance", "Synonyms: loutish, neandertal, neanderthal, oafish, swinish"]}
