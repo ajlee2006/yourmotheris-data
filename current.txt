@@ -1,1 +1,1 @@
-{"data": ["2022-02-10T11:01:25.048760+00:00", 167, "Your mother is", "gammy", "Pronunciation: /\u02c8\u0261\u00e6mi/", "Definition: (British informal) sore or lame", ""]}
+{"data": ["2022-02-10T12:00:47.235212+00:00", 168, "Your mother is", "three-way", "Pronunciation: /\u03b8ri-we\u026a/", "Definition: involving three parties or elements", "Synonyms: three-party, tripartite"]}
