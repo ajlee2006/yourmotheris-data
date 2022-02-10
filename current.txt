@@ -1,1 +1,1 @@
-{"data": ["2022-02-10T14:01:06.583078+00:00", 170, "Your mother is", "electrical", "Pronunciation: /\u026a\u02c8l\u025bktr\u026ak\u0259l/", "Definition: using or providing or producing or transmitting or operated by electricity", "Synonyms: electric"]}
+{"data": ["2022-02-10T15:00:54.805439+00:00", 171, "Your mother is", "defenceless", "Similar to: vulnerable", "Definition: lacking protection or support", "Synonyms: defenseless"]}
