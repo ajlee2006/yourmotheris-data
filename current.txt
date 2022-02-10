@@ -1,1 +1,1 @@
-{"data": ["2022-02-10T07:00:59.245741+00:00", 163, "Your mother is", "oncological", "", "Definition: of or relating to or practicing oncology", "Synonyms: oncologic"]}
+{"data": ["2022-02-10T08:01:13.985341+00:00", 164, "Your mother is", "hesperian", "Pronunciation: /h\u025b\u02c8spiri\u0259n/", "Definition: denoting or characteristic of countries of Europe and the western hemisphere", "Synonyms: occidental"]}
