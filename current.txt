@@ -1,1 +1,1 @@
-{"data": ["2022-02-11T16:01:02.476337+00:00", 196, "Your mother is", "two-handed", "Pronunciation: /tu-\u02c8h\u00e6nd\u026ad/", "Definition: equally skillful with each hand", "Synonyms: ambidextrous"]}
+{"data": ["2022-02-11T17:01:19.417586+00:00", 197, "Your mother is", "obvious", "Pronunciation: /\u02c8\u0251bvi\u0259s/", "Definition: easily perceived by the senses or grasped by the mind", ""]}
