@@ -1,1 +1,1 @@
-{"data": ["2022-02-11T20:01:25.085273+00:00", 200, "Your mother is", "dome-shaped", "Pronunciation: /do\u028am-\u0283e\u026apt/", "Definition: having the shape of a dome", ""]}
+{"data": ["2022-02-11T21:01:01.757817+00:00", 201, "Your mother is", "digressive", "Pronunciation: /d\u026a\u02c8gr\u025bs\u026av/", "Definition: of superficial relevance if any", "Synonyms: tangential"]}
