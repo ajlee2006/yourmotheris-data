@@ -1,1 +1,1 @@
-{"data": ["2022-02-11T12:01:22.801285+00:00", 192, "Your mother is", "scientific", "Pronunciation: /\u02ccsa\u026a\u0259n\u02c8t\u026af\u026ak/", "Definition: conforming with the principles or methods used in science", ""]}
+{"data": ["2022-02-11T13:01:00.931837+00:00", 193, "Your mother is", "mutilated", "Pronunciation: /\u02c8mjut\u028c\u02ccle\u026at\u028cd/", "Definition: having a part of the body crippled or disabled", "Synonyms: maimed"]}
