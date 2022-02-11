@@ -1,1 +1,1 @@
-{"data": ["2022-02-11T02:01:19.711909+00:00", 182, "Your mother is", "lymphoblast-like", "Similar to: cellular", "Definition: resembling a lymphoblast", ""]}
+{"data": ["2022-02-11T03:01:06.958770+00:00", 183, "Your mother is", "highbrow", "Pronunciation: /\u02c8ha\u026a\u02ccbra\u028a/", "Definition: highly cultured or educated", "Synonyms: highbrowed"]}
