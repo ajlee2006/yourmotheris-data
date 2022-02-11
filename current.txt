@@ -1,1 +1,1 @@
-{"data": ["2022-02-11T04:00:43.277708+00:00", 184, "Your mother is", "erratic", "Pronunciation: /\u026a\u02c8r\u00e6t\u026ak/", "Definition: liable to sudden unpredictable change", "Synonyms: fickle, mercurial, quicksilver"]}
+{"data": ["2022-02-11T05:00:43.351811+00:00", 185, "Your mother is", "amoeboid", "Pronunciation: /\u0259\u02c8mib\u0254\u026ad/", "Definition: like an amoeba (especially in having a variable irregular shape)", "Synonyms: ameboid"]}
