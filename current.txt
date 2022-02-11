@@ -1,1 +1,1 @@
-{"data": ["2022-02-11T07:00:40.245176+00:00", 187, "Your mother is", "unpurified", "Similar to: impure", "Definition: not made pure", ""]}
+{"data": ["2022-02-11T08:01:51.835189+00:00", 188, "Your mother is", "glassless", "", "Definition: not furnished with glass", "Synonyms: unglazed"]}
