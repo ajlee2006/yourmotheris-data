@@ -1,1 +1,1 @@
-{"data": ["2022-02-11T03:01:06.958770+00:00", 183, "Your mother is", "highbrow", "Pronunciation: /\u02c8ha\u026a\u02ccbra\u028a/", "Definition: highly cultured or educated", "Synonyms: highbrowed"]}
+{"data": ["2022-02-11T04:00:43.277708+00:00", 184, "Your mother is", "erratic", "Pronunciation: /\u026a\u02c8r\u00e6t\u026ak/", "Definition: liable to sudden unpredictable change", "Synonyms: fickle, mercurial, quicksilver"]}
