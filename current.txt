@@ -1,1 +1,1 @@
-{"data": ["2022-02-11T19:01:32.277563+00:00", 199, "Your mother is", "psychogenic", "Pronunciation: /\u02ccsa\u026ako\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: of or relating to the psychological cause of a disorder", "Synonyms: psychogenetic"]}
+{"data": ["2022-02-11T20:01:25.085273+00:00", 200, "Your mother is", "dome-shaped", "Pronunciation: /do\u028am-\u0283e\u026apt/", "Definition: having the shape of a dome", ""]}
