@@ -1,1 +1,1 @@
-{"data": ["2022-02-11T10:00:44.294331+00:00", 190, "Your mother is", "uncoerced", "Similar to: voluntary", "Definition: not brought about by coercion or force", "Synonyms: unforced, willing"]}
+{"data": ["2022-02-11T11:01:10.873807+00:00", 191, "Your mother is", "spade-shaped", "Pronunciation: /spe\u026ad-\u0283e\u026apt/", "Definition: shaped in the form of a spade", "Synonyms: spade-like"]}
