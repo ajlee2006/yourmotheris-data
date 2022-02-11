@@ -1,1 +1,1 @@
-{"data": ["2022-02-11T00:02:08.623603+00:00", 180, "Your mother is", "unmanly", "Pronunciation: /\u0259n\u02c8m\u00e6nli/", "Definition: not possessing qualities befitting a man", "Synonyms: unmanful, unmanlike"]}
+{"data": ["2022-02-11T01:01:21.809537+00:00", 181, "Your mother is", "untasted", "Pronunciation: /\u0259n\u02c8te\u026ast\u026ad/", "Definition: still full", "Synonyms: untouched"]}
