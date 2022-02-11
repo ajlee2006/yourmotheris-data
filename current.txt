@@ -1,1 +1,1 @@
-{"data": ["2022-02-11T13:01:00.931837+00:00", 193, "Your mother is", "mutilated", "Pronunciation: /\u02c8mjut\u028c\u02ccle\u026at\u028cd/", "Definition: having a part of the body crippled or disabled", "Synonyms: maimed"]}
+{"data": ["2022-02-11T14:01:16.843835+00:00", 194, "Your mother is", "equiangular", "Pronunciation: /\u02ccikwi\u02cc\u00e6\u014b\u0261j\u0259l\u0259r/", "Definition: having all angles equal", ""]}
