@@ -1,1 +1,1 @@
-{"data": ["2022-02-11T08:01:51.835189+00:00", 188, "Your mother is", "glassless", "", "Definition: not furnished with glass", "Synonyms: unglazed"]}
+{"data": ["2022-02-11T09:01:35.414333+00:00", 189, "Your mother is", "metallic-looking", "Similar to: metal", "Definition: resembling metal", "Synonyms: metal-looking, metallike"]}
