@@ -1,1 +1,1 @@
-{"data": ["2022-02-12T07:01:36.625579+00:00", 211, "Your mother is", "azotic", "Pronunciation: /\u0259\u02c8z\u0251t\u026ak/", "Definition: of or containing nitrogen", "Synonyms: nitric, nitrous"]}
+{"data": ["2022-02-12T08:01:15.301814+00:00", 212, "Your mother is", "inframaxillary", "", "Definition: relating to the lower jaw", "Synonyms: mandibular"]}
