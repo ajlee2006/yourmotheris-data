@@ -1,1 +1,1 @@
-{"data": ["2022-02-12T10:01:29.813584+00:00", 214, "Your mother is", "tetramerous", "Pronunciation: /t\u026a\u02c8tr\u00e6m\u0259r\u0259s/", "Definition: having or consisting of four similar parts; tetramerous flowers", ""]}
+{"data": ["2022-02-12T11:00:37.653795+00:00", 215, "Your mother is", "twiglike", "Similar to: lean", "Definition: thin as a twig", "Synonyms: twiggy"]}
