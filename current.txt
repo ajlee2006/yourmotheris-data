@@ -1,1 +1,1 @@
-{"data": ["2022-02-12T15:00:17.464020+00:00", 219, "Your mother is", "frowning", "Pronunciation: /\u02c8fra\u028an\u026a\u014b/", "Definition: showing displeasure or anger", ""]}
+{"data": ["2022-02-12T16:00:29.842785+00:00", 220, "Your mother is", "six-fold", "Similar to: multiple", "Definition: having six units or components", "Synonyms: sextuple, sixfold"]}
