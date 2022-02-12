@@ -1,1 +1,1 @@
-{"data": ["2022-02-12T18:01:29.005072+00:00", 222, "Your mother is", "sinister", "Pronunciation: /\u02c8s\u026an\u026ast\u0259r/", "Definition: stemming from evil characteristics or forces; wicked or dishonorable", "Synonyms: black, dark"]}
+{"data": ["2022-02-12T19:00:30.244052+00:00", 223, "Your mother is", "outraged", "Pronunciation: /\u02c8a\u028at\u02ccre\u026ad\u0292d/", "Definition: angered at something unjust or wrong", "Synonyms: incensed, indignant, umbrageous"]}
