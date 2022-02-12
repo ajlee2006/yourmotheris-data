@@ -1,1 +1,1 @@
-{"data": ["2022-02-12T00:01:54.098675+00:00", 204, "Your mother is", "fancy", "Pronunciation: /\u02c8f\u00e6nsi/", "Definition: not plain; decorative or ornamented", ""]}
+{"data": ["2022-02-12T01:01:25.289860+00:00", 205, "Your mother is", "cantankerous", "Pronunciation: /k\u00e6n\u02c8t\u00e6\u014bk\u0259r\u0259s/", "Definition: stubbornly obstructive and unwilling to cooperate", "Synonyms: bloody-minded"]}
