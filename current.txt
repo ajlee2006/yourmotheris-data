@@ -1,1 +1,1 @@
-{"data": ["2022-02-12T09:01:28.080614+00:00", 213, "Your mother is", "manipulative", "Pronunciation: /m\u0259\u02c8n\u026apj\u028al\u0259t\u026av/", "Definition: skillful in influencing or controlling others to your own advantage", ""]}
+{"data": ["2022-02-12T10:01:29.813584+00:00", 214, "Your mother is", "tetramerous", "Pronunciation: /t\u026a\u02c8tr\u00e6m\u0259r\u0259s/", "Definition: having or consisting of four similar parts; tetramerous flowers", ""]}
