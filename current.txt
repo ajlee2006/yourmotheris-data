@@ -1,1 +1,1 @@
-{"data": ["2022-02-12T22:01:29.183051+00:00", 226, "Your mother is", "fawn-colored", "Pronunciation: /f\u0254n-\u02c8k\u0259l\u0259rd/", "Definition: having the color of a fawn", "Synonyms: fawn-coloured"]}
+{"data": ["2022-02-12T23:01:10.776150+00:00", 227, "Your mother is", "brindle", "Pronunciation: /\u02c8br\u026and\u0259l/", "Definition: having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats", "Synonyms: brinded, brindled, tabby"]}
