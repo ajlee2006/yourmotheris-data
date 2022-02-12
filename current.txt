@@ -1,1 +1,1 @@
-{"data": ["2022-02-12T01:01:25.289860+00:00", 205, "Your mother is", "cantankerous", "Pronunciation: /k\u00e6n\u02c8t\u00e6\u014bk\u0259r\u0259s/", "Definition: stubbornly obstructive and unwilling to cooperate", "Synonyms: bloody-minded"]}
+{"data": ["2022-02-12T02:01:15.743789+00:00", 206, "Your mother is", "nonliterary", "Similar to: informal", "Definition: marked by lack of affectation or pedantry", "Synonyms: unliterary"]}
