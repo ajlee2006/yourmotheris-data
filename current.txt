@@ -1,1 +1,1 @@
-{"data": ["2022-02-12T12:00:47.029314+00:00", 216, "Your mother is", "subhuman", "Pronunciation: /s\u0259b\u02c8hjum\u0259n/", "Definition: less than human or not worthy of a human being", ""]}
+{"data": ["2022-02-12T13:01:27.091160+00:00", 217, "Your mother is", "cleft", "Pronunciation: /kl\u025bft/", "Definition: having one or more indentations reaching nearly to the midrib", "Synonyms: dissected"]}
