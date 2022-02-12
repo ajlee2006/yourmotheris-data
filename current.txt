@@ -1,1 +1,1 @@
-{"data": ["2022-02-12T04:01:00.569359+00:00", 208, "Your mother is", "one hundred fifty-five", "Similar to: cardinal", "Definition: being five more than one hundred fifty", "Synonyms: 155, clv"]}
+{"data": ["2022-02-12T05:00:24.195389+00:00", 209, "Your mother is", "pencilled", "", "Definition: drawn or written with a pencil", "Synonyms: penciled"]}
