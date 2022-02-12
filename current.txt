@@ -1,1 +1,1 @@
-{"data": ["2022-02-12T17:00:34.353190+00:00", 221, "Your mother is", "endomorphic", "Pronunciation: /\u02cc\u025bnd\u0259\u02c8m\u0254rf\u026ak/", "Definition: having a squat and fleshy build", "Synonyms: pyknic"]}
+{"data": ["2022-02-12T18:01:29.005072+00:00", 222, "Your mother is", "sinister", "Pronunciation: /\u02c8s\u026an\u026ast\u0259r/", "Definition: stemming from evil characteristics or forces; wicked or dishonorable", "Synonyms: black, dark"]}
