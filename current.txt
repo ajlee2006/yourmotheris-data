@@ -1,1 +1,1 @@
-{"data": ["2022-02-12T06:01:11.275166+00:00", 210, "Your mother is", "adaptive", "Pronunciation: /\u0259\u02c8d\u00e6pt\u026av/", "Definition: having a capacity for adaptation", "Synonyms: adaptative"]}
+{"data": ["2022-02-12T07:01:36.625579+00:00", 211, "Your mother is", "azotic", "Pronunciation: /\u0259\u02c8z\u0251t\u026ak/", "Definition: of or containing nitrogen", "Synonyms: nitric, nitrous"]}
