@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T03:00:41.654887+00:00", 231, "Your mother is", "fused", "Pronunciation: /fjuzd/", "Definition: joined together into a whole", "Synonyms: amalgamate, amalgamated, coalesced, consolidated"]}
+{"data": ["2022-02-13T04:01:07.765975+00:00", 232, "Your mother is", "endergonic", "Pronunciation: /\u02cc\u025bnd\u0259r\u02c8b\u0251n\u026ak/", "Definition: (biochemistry) of a process accompanied by or requiring the absorption of energy; the products of the process are of greater free energy than the reactants", ""]}
