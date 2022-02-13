@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T00:02:04.075999+00:00", 228, "Your mother is", "certifiable", "Pronunciation: /\u02c8s\u025crt\u0259\u02ccfa\u026a\u0259b\u0259l/", "Definition: fit to be certified as insane (and treated accordingly)", "Synonyms: certified"]}
+{"data": ["2022-02-13T01:00:44.290582+00:00", 229, "Your mother is", "thick-skinned", "Similar to: insensitive", "Definition: insensitive to criticism", "Synonyms: tough-skinned"]}
