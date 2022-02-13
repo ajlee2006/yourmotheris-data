@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T21:01:18.147020+00:00", 249, "Your mother is", "lenient", "Pronunciation: /\u02c8lini\u0259nt/", "Definition: tolerant or lenient", "Synonyms: indulgent, soft"]}
+{"data": ["2022-02-13T22:00:33.648290+00:00", 250, "Your mother is", "skirting", "Pronunciation: /\u02c8sk\u025crti\u014b/", "Definition: being all around the edges; enclosing", "Synonyms: encircling"]}
