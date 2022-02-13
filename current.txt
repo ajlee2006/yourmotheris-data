@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T14:01:06.603733+00:00", 242, "Your mother is", "cared-for", "Similar to: attended", "Definition: having needed care and attention", ""]}
+{"data": ["2022-02-13T15:00:33.168627+00:00", 243, "Your mother is", "nonfat", "Pronunciation: /\u02c8n\u0251n\u02c8f\u00e6t/", "Definition: without fat or fat solids", "Synonyms: fat-free, fatless"]}
