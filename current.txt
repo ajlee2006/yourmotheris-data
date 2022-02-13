@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T06:01:16.989578+00:00", 234, "Your mother is", "unfunctional", "Similar to: impractical", "Definition: not related to or suitable for everyday needs or activities", ""]}
+{"data": ["2022-02-13T07:01:27.717874+00:00", 235, "Your mother is", "endoergic", "Pronunciation: /\u02cc\u025bndo\u028a\u02c8\u025crd\u0292\u026ak/", "Definition: (of a nuclear reaction) occurring with absorption of energy", "Synonyms: energy-absorbing"]}
