@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T12:01:04.094859+00:00", 240, "Your mother is", "rolled", "Pronunciation: /ro\u028ald/", "Definition: rolled up and secured", "Synonyms: furled"]}
+{"data": ["2022-02-13T13:01:29.043678+00:00", 241, "Your mother is", "biovular", "", "Definition: (of twins) derived from two separate fertilized ova", "Synonyms: fraternal"]}
