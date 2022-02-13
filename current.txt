@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T04:01:07.765975+00:00", 232, "Your mother is", "endergonic", "Pronunciation: /\u02cc\u025bnd\u0259r\u02c8b\u0251n\u026ak/", "Definition: (biochemistry) of a process accompanied by or requiring the absorption of energy; the products of the process are of greater free energy than the reactants", ""]}
+{"data": ["2022-02-13T05:01:07.709131+00:00", 233, "Your mother is", "syntactic", "Pronunciation: /s\u026an\u02c8t\u00e6kt\u026ak/", "Definition: of or relating to or conforming to the rules of syntax", "Synonyms: syntactical"]}
