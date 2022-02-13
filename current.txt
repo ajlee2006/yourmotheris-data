@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T20:01:24.573816+00:00", 248, "Your mother is", "squabby", "Pronunciation: /\u02c8skw\u0251bi/", "Definition: short and fat", "Synonyms: squab"]}
+{"data": ["2022-02-13T21:01:18.147020+00:00", 249, "Your mother is", "lenient", "Pronunciation: /\u02c8lini\u0259nt/", "Definition: tolerant or lenient", "Synonyms: indulgent, soft"]}
