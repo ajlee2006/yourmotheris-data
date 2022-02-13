@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T22:00:33.648290+00:00", 250, "Your mother is", "skirting", "Pronunciation: /\u02c8sk\u025crti\u014b/", "Definition: being all around the edges; enclosing", "Synonyms: encircling"]}
+{"data": ["2022-02-13T23:01:25.721184+00:00", 251, "Your mother is", "sparse", "Pronunciation: /sp\u0251rs/", "Definition: not dense", "Synonyms: thin"]}
