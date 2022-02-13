@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T05:01:07.709131+00:00", 233, "Your mother is", "syntactic", "Pronunciation: /s\u026an\u02c8t\u00e6kt\u026ak/", "Definition: of or relating to or conforming to the rules of syntax", "Synonyms: syntactical"]}
+{"data": ["2022-02-13T06:01:16.989578+00:00", 234, "Your mother is", "unfunctional", "Similar to: impractical", "Definition: not related to or suitable for everyday needs or activities", ""]}
