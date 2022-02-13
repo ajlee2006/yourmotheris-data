@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T07:01:27.717874+00:00", 235, "Your mother is", "endoergic", "Pronunciation: /\u02cc\u025bndo\u028a\u02c8\u025crd\u0292\u026ak/", "Definition: (of a nuclear reaction) occurring with absorption of energy", "Synonyms: energy-absorbing"]}
+{"data": ["2022-02-13T08:01:04.419306+00:00", 236, "Your mother is", "splanchnic", "Pronunciation: /\u02c8spl\u00e6\u014bkn\u026ak/", "Definition: relating to or affecting the viscera", "Synonyms: visceral"]}
