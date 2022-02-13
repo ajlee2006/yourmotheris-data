@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T10:01:23.267240+00:00", 238, "Your mother is", "unassisted", "Pronunciation: /\u02cc\u0259n\u0259\u02c8s\u026ast\u026ad/", "Definition: unsupported by other people", "Synonyms: single-handed, unbacked"]}
+{"data": ["2022-02-13T11:00:20.900324+00:00", 239, "Your mother is", "bated", "Pronunciation: /\u02c8be\u026at\u026ad/", "Definition: diminished or moderated", ""]}
