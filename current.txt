@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T08:01:04.419306+00:00", 236, "Your mother is", "splanchnic", "Pronunciation: /\u02c8spl\u00e6\u014bkn\u026ak/", "Definition: relating to or affecting the viscera", "Synonyms: visceral"]}
+{"data": ["2022-02-13T09:01:18.194591+00:00", 237, "Your mother is", "99", "Similar to: cardinal", "Definition: being one less than one hundred and nine more than ninety", "Synonyms: ic, ninety-nine"]}
