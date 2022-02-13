@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T02:01:31.103453+00:00", 230, "Your mother is", "expiatory", "Pronunciation: /\u02c8\u025bkspi\u0259\u02ccto\u028ari/", "Definition: having power to atone for or offered by way of expiation or propitiation", "Synonyms: expiative, propitiatory"]}
+{"data": ["2022-02-13T03:00:41.654887+00:00", 231, "Your mother is", "fused", "Pronunciation: /fjuzd/", "Definition: joined together into a whole", "Synonyms: amalgamate, amalgamated, coalesced, consolidated"]}
