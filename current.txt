@@ -1,1 +1,1 @@
-{"data": ["2022-02-12T23:01:10.776150+00:00", 227, "Your mother is", "brindle", "Pronunciation: /\u02c8br\u026and\u0259l/", "Definition: having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats", "Synonyms: brinded, brindled, tabby"]}
+{"data": ["2022-02-13T00:02:04.075999+00:00", 228, "Your mother is", "certifiable", "Pronunciation: /\u02c8s\u025crt\u0259\u02ccfa\u026a\u0259b\u0259l/", "Definition: fit to be certified as insane (and treated accordingly)", "Synonyms: certified"]}
