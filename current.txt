@@ -1,1 +1,1 @@
-{"data": ["2022-02-14T01:00:29.920675+00:00", 253, "Your mother is", "non-zero", "Similar to: cardinal", "Definition: not involving zero", ""]}
+{"data": ["2022-02-14T02:01:16.453442+00:00", 254, "Your mother is", "sprawling", "Pronunciation: /\u02c8spr\u0254l\u026a\u014b/", "Definition: spreading out in different directions or distributed irregularly", "Synonyms: rambling, straggling, straggly"]}
