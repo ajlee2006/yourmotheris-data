@@ -1,1 +1,1 @@
-{"data": ["2022-02-14T06:01:16.074643+00:00", 258, "Your mother is", "susceptible", "Pronunciation: /s\u0259\u02c8s\u025bpt\u0259b\u0259l/", "Definition: easily impressed emotionally", ""]}
+{"data": ["2022-02-14T07:01:41.185893+00:00", 259, "Your mother is", "petitionary", "Pronunciation: /p\u0259\u02c8t\u026a\u0283\u0259\u02ccn\u025bri/", "Definition: of the nature of or expressing a petition", ""]}
