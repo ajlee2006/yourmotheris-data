@@ -1,1 +1,1 @@
-{"data": ["2022-02-14T03:01:26.623647+00:00", 255, "Your mother is", "indissoluble", "Pronunciation: /\u02cc\u026and\u026a\u02c8s\u0251lj\u0259b\u0259l/", "Definition: (of a substance) incapable of being dissolved", "Synonyms: insoluble"]}
+{"data": ["2022-02-14T04:01:32.479659+00:00", 256, "Your mother is", "rangy", "Pronunciation: /\u02c8re\u026and\u0292i/", "Definition: tall and thin and having long slender limbs", "Synonyms: gangling, gangly, lanky"]}
