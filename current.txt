@@ -1,1 +1,1 @@
-{"data": ["2022-02-14T07:01:41.185893+00:00", 259, "Your mother is", "petitionary", "Pronunciation: /p\u0259\u02c8t\u026a\u0283\u0259\u02ccn\u025bri/", "Definition: of the nature of or expressing a petition", ""]}
+{"data": ["2022-02-14T08:01:14.765800+00:00", 260, "Your mother is", "black-grey", "Similar to: achromatic", "Definition: of dark grey", "Synonyms: black-gray, blackish-gray, blackish-grey"]}
