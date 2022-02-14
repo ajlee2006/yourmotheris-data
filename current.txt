@@ -1,1 +1,1 @@
-{"data": ["2022-02-14T09:01:34.564731+00:00", 261, "Your mother is", "grassy-leaved", "Pronunciation: /\u02c8gr\u00e6si-livd/", "Definition: having leaves that resemble grass", "Synonyms: grassy-leafed"]}
+{"data": ["2022-02-14T10:00:24.430619+00:00", 262, "Your mother is", "melancholic", "Pronunciation: /\u02ccm\u025bl\u0259n\u02c8k\u0251l\u026ak/", "Definition: characterized by or causing or expressing sadness", "Synonyms: melancholy"]}
