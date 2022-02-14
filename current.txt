@@ -1,1 +1,1 @@
-{"data": ["2022-02-14T16:01:26.410083+00:00", 268, "Your mother is", "touched", "Pronunciation: /t\u0259\u02a7t/", "Definition: slightly insane", "Synonyms: fey"]}
+{"data": ["2022-02-14T17:00:58.754439+00:00", 269, "Your mother is", "prohibitive", "Pronunciation: /pro\u028a\u02c8h\u026ab\u026at\u026av/", "Definition: tending to discourage (especially of prices)", "Synonyms: prohibitory"]}
