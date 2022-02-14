@@ -1,1 +1,1 @@
-{"data": ["2022-02-14T18:01:32.897561+00:00", 270, "Your mother is", "younger", "Pronunciation: /\u02c8j\u0259\u014b\u0259r/", "Definition: used of the younger of two persons of the same name especially used to distinguish a son from his father", "Synonyms: jr."]}
+{"data": ["2022-02-14T19:00:36.398116+00:00", 271, "Your mother is", "saw-like", "Similar to: rough", "Definition: having rough edges that can be used for sawing", ""]}
