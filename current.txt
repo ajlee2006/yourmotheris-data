@@ -1,1 +1,1 @@
-{"data": ["2022-02-13T23:01:25.721184+00:00", 251, "Your mother is", "sparse", "Pronunciation: /sp\u0251rs/", "Definition: not dense", "Synonyms: thin"]}
+{"data": ["2022-02-14T00:02:09.018454+00:00", 252, "Your mother is", "combinative", "Pronunciation: /\u02c8k\u0251mb\u0259\u02ccne\u026at\u026av/", "Definition: relating to or involving combinations", "Synonyms: combinatorial, combinatory"]}
