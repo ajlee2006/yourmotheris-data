@@ -1,1 +1,1 @@
-{"data": ["2022-02-14T11:01:09.859353+00:00", 263, "Your mother is", "low-priced", "Similar to: cheap", "Definition: that you have the financial means for", "Synonyms: affordable, low-cost"]}
+{"data": ["2022-02-14T12:01:08.014887+00:00", 264, "Your mother is", "garbled", "Pronunciation: /\u02c8\u0261\u0251rb\u028cld/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, illogical, scattered, unconnected"]}
