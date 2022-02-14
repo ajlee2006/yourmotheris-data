@@ -1,1 +1,1 @@
-{"data": ["2022-02-14T08:01:14.765800+00:00", 260, "Your mother is", "black-grey", "Similar to: achromatic", "Definition: of dark grey", "Synonyms: black-gray, blackish-gray, blackish-grey"]}
+{"data": ["2022-02-14T09:01:34.564731+00:00", 261, "Your mother is", "grassy-leaved", "Pronunciation: /\u02c8gr\u00e6si-livd/", "Definition: having leaves that resemble grass", "Synonyms: grassy-leafed"]}
