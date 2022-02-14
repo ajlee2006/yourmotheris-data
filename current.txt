@@ -1,1 +1,1 @@
-{"data": ["2022-02-14T15:00:26.620675+00:00", 267, "Your mother is", "sorcerous", "Pronunciation: /\u02c8s\u0254rs\u0259r\u0259s/", "Definition: possessing or using or characteristic of or appropriate to supernatural powers", "Synonyms: charming, magic, magical, witching, wizard, wizardly"]}
+{"data": ["2022-02-14T16:01:26.410083+00:00", 268, "Your mother is", "touched", "Pronunciation: /t\u0259\u02a7t/", "Definition: slightly insane", "Synonyms: fey"]}
