@@ -1,1 +1,1 @@
-{"data": ["2022-02-14T10:00:24.430619+00:00", 262, "Your mother is", "melancholic", "Pronunciation: /\u02ccm\u025bl\u0259n\u02c8k\u0251l\u026ak/", "Definition: characterized by or causing or expressing sadness", "Synonyms: melancholy"]}
+{"data": ["2022-02-14T11:01:09.859353+00:00", 263, "Your mother is", "low-priced", "Similar to: cheap", "Definition: that you have the financial means for", "Synonyms: affordable, low-cost"]}
