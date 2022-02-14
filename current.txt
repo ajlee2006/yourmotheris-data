@@ -1,1 +1,1 @@
-{"data": ["2022-02-14T12:01:08.014887+00:00", 264, "Your mother is", "garbled", "Pronunciation: /\u02c8\u0261\u0251rb\u028cld/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, illogical, scattered, unconnected"]}
+{"data": ["2022-02-14T13:01:27.011725+00:00", 265, "Your mother is", "encased", "Pronunciation: /\u025bn\u02c8ke\u026ast/", "Definition: covered or protected with or as if with a case", "Synonyms: cased, incased"]}
