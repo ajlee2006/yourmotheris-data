@@ -1,1 +1,1 @@
-{"data": ["2022-02-14T02:01:16.453442+00:00", 254, "Your mother is", "sprawling", "Pronunciation: /\u02c8spr\u0254l\u026a\u014b/", "Definition: spreading out in different directions or distributed irregularly", "Synonyms: rambling, straggling, straggly"]}
+{"data": ["2022-02-14T03:01:26.623647+00:00", 255, "Your mother is", "indissoluble", "Pronunciation: /\u02cc\u026and\u026a\u02c8s\u0251lj\u0259b\u0259l/", "Definition: (of a substance) incapable of being dissolved", "Synonyms: insoluble"]}
