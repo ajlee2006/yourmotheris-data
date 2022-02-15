@@ -1,1 +1,1 @@
-{"data": ["2022-02-15T01:00:48.881175+00:00", 277, "Your mother is", "fogbound", "Pronunciation: /\u02c8f\u0251\u0261\u02ccba\u028and/", "Definition: enveloped in fog", ""]}
+{"data": ["2022-02-15T02:01:19.035410+00:00", 278, "Your mother is", "spinnable", "Similar to: flexible", "Definition: capable of being spun into fibres", "Synonyms: spinnbar"]}
