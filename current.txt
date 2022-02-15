@@ -1,1 +1,1 @@
-{"data": ["2022-02-15T18:00:56.970967+00:00", 294, "Your mother is", "delusory", "Pronunciation: /d\u026a\u02c8lus\u0259ri/", "Definition: causing one to believe what is not true or fail to believe what is true", "Synonyms: deceptive"]}
+{"data": ["2022-02-15T19:01:11.176242+00:00", 295, "Your mother is", "settled", "Pronunciation: /\u02c8s\u025bt\u028cld/", "Definition: inhabited by colonists", "Synonyms: colonised, colonized"]}
