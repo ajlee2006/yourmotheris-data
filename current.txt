@@ -1,1 +1,1 @@
-{"data": ["2022-02-15T06:01:05.289627+00:00", 282, "Your mother is", "lowered", "Pronunciation: /\u02c8lo\u028a\u025drd/", "Definition: below the surround or below the normal position", ""]}
+{"data": ["2022-02-15T07:01:03.454888+00:00", 283, "Your mother is", "putrefacient", "Similar to: infected", "Definition: causing or promoting bacterial putrefaction", "Synonyms: putrefactive"]}
