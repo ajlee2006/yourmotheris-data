@@ -1,1 +1,1 @@
-{"data": ["2022-02-15T07:01:03.454888+00:00", 283, "Your mother is", "putrefacient", "Similar to: infected", "Definition: causing or promoting bacterial putrefaction", "Synonyms: putrefactive"]}
+{"data": ["2022-02-15T08:01:30.671828+00:00", 284, "Your mother is", "ordinal", "Pronunciation: /\u02c8\u0254rd\u0259n\u0259l/", "Definition: being or denoting a numerical order in a series", ""]}
