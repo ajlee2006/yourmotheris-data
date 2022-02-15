@@ -1,1 +1,1 @@
-{"data": ["2022-02-15T11:01:38.317511+00:00", 287, "Your mother is", "infeasible", "Pronunciation: /\u026an\u02c8fiz\u0259b\u0259l/", "Definition: not capable of being carried out or put into practice", "Synonyms: impracticable, unfeasible, unworkable"]}
+{"data": ["2022-02-15T12:00:41.566209+00:00", 288, "Your mother is", "ludicrous", "Pronunciation: /\u02c8lud\u0259kr\u0259s/", "Definition: broadly or extravagantly humorous; resembling farce", "Synonyms: farcical, ridiculous"]}
