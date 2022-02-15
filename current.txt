@@ -1,1 +1,1 @@
-{"data": ["2022-02-15T10:01:23.897084+00:00", 286, "Your mother is", "liable", "Pronunciation: /\u02c8la\u026a\u0259b\u0259l/", "Definition: (often followed by `to') likely to be affected with", "Synonyms: nonimmune, nonresistant, unresistant"]}
+{"data": ["2022-02-15T11:01:38.317511+00:00", 287, "Your mother is", "infeasible", "Pronunciation: /\u026an\u02c8fiz\u0259b\u0259l/", "Definition: not capable of being carried out or put into practice", "Synonyms: impracticable, unfeasible, unworkable"]}
