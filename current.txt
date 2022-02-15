@@ -1,1 +1,1 @@
-{"data": ["2022-02-15T12:00:41.566209+00:00", 288, "Your mother is", "ludicrous", "Pronunciation: /\u02c8lud\u0259kr\u0259s/", "Definition: broadly or extravagantly humorous; resembling farce", "Synonyms: farcical, ridiculous"]}
+{"data": ["2022-02-15T13:01:25.535513+00:00", 289, "Your mother is", "three", "Pronunciation: /\u03b8ri/", "Definition: being one more than two", "Synonyms: 3, iii"]}
