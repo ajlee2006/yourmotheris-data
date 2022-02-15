@@ -1,1 +1,1 @@
-{"data": ["2022-02-15T08:01:30.671828+00:00", 284, "Your mother is", "ordinal", "Pronunciation: /\u02c8\u0254rd\u0259n\u0259l/", "Definition: being or denoting a numerical order in a series", ""]}
+{"data": ["2022-02-15T09:00:45.713485+00:00", 285, "Your mother is", "unrewarded", "Pronunciation: /\u02cc\u0259nri\u02c8wo\u028ard\u026ad/", "Definition: having acquired or gained nothing", "Synonyms: empty-handed"]}
