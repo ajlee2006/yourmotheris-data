@@ -1,1 +1,1 @@
-{"data": ["2022-02-15T00:05:18.218311+00:00", 276, "Your mother is", "choppy", "Pronunciation: /\u02c8\u02a7\u0251pi/", "Definition: marked by abrupt transitions", "Synonyms: jerky"]}
+{"data": ["2022-02-15T01:00:48.881175+00:00", 277, "Your mother is", "fogbound", "Pronunciation: /\u02c8f\u0251\u0261\u02ccba\u028and/", "Definition: enveloped in fog", ""]}
