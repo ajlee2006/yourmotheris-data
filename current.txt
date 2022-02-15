@@ -1,1 +1,1 @@
-{"data": ["2022-02-15T09:00:45.713485+00:00", 285, "Your mother is", "unrewarded", "Pronunciation: /\u02cc\u0259nri\u02c8wo\u028ard\u026ad/", "Definition: having acquired or gained nothing", "Synonyms: empty-handed"]}
+{"data": ["2022-02-15T10:01:23.897084+00:00", 286, "Your mother is", "liable", "Pronunciation: /\u02c8la\u026a\u0259b\u0259l/", "Definition: (often followed by `to') likely to be affected with", "Synonyms: nonimmune, nonresistant, unresistant"]}
