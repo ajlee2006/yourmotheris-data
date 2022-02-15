@@ -1,1 +1,1 @@
-{"data": ["2022-02-15T04:01:27.257851+00:00", 280, "Your mother is", "equitable", "Pronunciation: /\u02c8\u025bkw\u026at\u0259b\u0259l/", "Definition: fair to all parties as dictated by reason and conscience", "Synonyms: just"]}
+{"data": ["2022-02-15T05:01:20.183265+00:00", 281, "Your mother is", "heartrending", "Pronunciation: /\u02c8h\u0251rt\u02ccr\u025bnd\u026a\u014b/", "Definition: causing or marked by grief or anguish", "Synonyms: grievous, heartbreaking"]}
