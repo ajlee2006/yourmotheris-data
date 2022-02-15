@@ -1,1 +1,1 @@
-{"data": ["2022-02-15T16:00:59.979903+00:00", 292, "Your mother is", "scoured", "Pronunciation: /\u02c8ska\u028a\u025drd/", "Definition: worn away as by water or ice or wind", "Synonyms: eroded"]}
+{"data": ["2022-02-15T17:00:46.948403+00:00", 293, "Your mother is", "bound", "Pronunciation: /ba\u028and/", "Definition: bound by contract", "Synonyms: apprenticed, articled, indentured"]}
