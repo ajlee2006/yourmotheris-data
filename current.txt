@@ -1,1 +1,1 @@
-{"data": ["2022-02-15T20:01:08.590590+00:00", 296, "Your mother is", "self-acting", "Pronunciation: /s\u025blf-\u02c8\u00e6kt\u026a\u014b/", "Definition: designed to activate or move or regulate itself", "Synonyms: self-activating, self-moving, self-regulating"]}
+{"data": ["2022-02-15T21:00:37.949237+00:00", 297, "Your mother is", "disconfirming", "Similar to: unsupportive", "Definition: establishing as invalid or untrue", "Synonyms: invalidating"]}
