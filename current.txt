@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T21:01:15.517666+00:00", 321, "Your mother is", "whiny", "Pronunciation: /\u02c8hwa\u026ani/", "Definition: habitually complaining", "Synonyms: fretful, querulous, whiney"]}
+{"data": ["2022-02-16T22:00:36.924742+00:00", 322, "Your mother is", "conspirative", "", "Definition: relating to or characteristic of conspiracy or conspirators", "Synonyms: conspiratorial"]}
