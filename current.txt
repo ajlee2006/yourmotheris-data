@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T17:00:30.960392+00:00", 317, "Your mother is", "plausive", "Pronunciation: /\u02c8pl\u0254z\u026av/", "Definition: expressing or manifesting praise or approval", "Synonyms: affirmative, approbative, approbatory, approving"]}
+{"data": ["2022-02-16T18:00:17.895123+00:00", 318, "Your mother is", "tigerish", "Pronunciation: /\u02c8ta\u026a\u0261\u0259r\u026a\u0283/", "Definition: resembling a tiger in fierceness and lack of mercy", ""]}
