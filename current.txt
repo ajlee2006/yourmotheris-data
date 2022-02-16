@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T10:00:45.590925+00:00", 310, "Your mother is", "ellipsoid", "Pronunciation: /\u026a\u02c8l\u026aps\u0254\u026ad/", "Definition: having the nature or shape of an ellipsoid", "Synonyms: ellipsoidal, spheroidal"]}
+{"data": ["2022-02-16T11:00:21.426250+00:00", 311, "Your mother is", "bespoken", "Pronunciation: /b\u026aspo\u028ak\u0259n/", "Definition: (of clothing) custom-made", "Synonyms: bespoke, made-to-order, tailor-made, tailored"]}
