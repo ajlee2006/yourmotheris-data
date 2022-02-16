@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T11:00:21.426250+00:00", 311, "Your mother is", "bespoken", "Pronunciation: /b\u026aspo\u028ak\u0259n/", "Definition: (of clothing) custom-made", "Synonyms: bespoke, made-to-order, tailor-made, tailored"]}
+{"data": ["2022-02-16T12:01:18.607209+00:00", 312, "Your mother is", "unmovable", "Similar to: immobile", "Definition: not able or intended to be moved", "Synonyms: immovable, immoveable, stabile"]}
