@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T12:01:18.607209+00:00", 312, "Your mother is", "unmovable", "Similar to: immobile", "Definition: not able or intended to be moved", "Synonyms: immovable, immoveable, stabile"]}
+{"data": ["2022-02-16T13:00:59.894308+00:00", 313, "Your mother is", "bicyclic", "Pronunciation: /ba\u026a\u02c8sa\u026akl\u026ak/", "Definition: having molecules consisting of two fused rings", ""]}
