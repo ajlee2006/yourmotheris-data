@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T16:01:08.856016+00:00", 316, "Your mother is", "uniformed", "Pronunciation: /\u02c8jun\u0259\u02ccf\u0254rmd/", "Definition: dressed in a uniform", ""]}
+{"data": ["2022-02-16T17:00:30.960392+00:00", 317, "Your mother is", "plausive", "Pronunciation: /\u02c8pl\u0254z\u026av/", "Definition: expressing or manifesting praise or approval", "Synonyms: affirmative, approbative, approbatory, approving"]}
