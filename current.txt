@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T01:01:26.689566+00:00", 301, "Your mother is", "flaky", "Pronunciation: /\u02c8fle\u026aki/", "Definition: made of or resembling flakes", "Synonyms: flakey"]}
+{"data": ["2022-02-16T02:01:10.836664+00:00", 302, "Your mother is", "rock-inhabiting", "Similar to: inhabited", "Definition: of ferns and lichens that grow on rocks", ""]}
