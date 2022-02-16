@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T02:01:10.836664+00:00", 302, "Your mother is", "rock-inhabiting", "Similar to: inhabited", "Definition: of ferns and lichens that grow on rocks", ""]}
+{"data": ["2022-02-16T03:00:48.169056+00:00", 303, "Your mother is", "substantival", "Pronunciation: /\u02ccs\u0259bst\u0259n\u02c8ta\u026av\u0259l/", "Definition: of or relating to or having the nature or function of a substantive (i.e. a noun or noun equivalent)", ""]}
