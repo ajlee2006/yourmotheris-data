@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T19:00:56.351142+00:00", 319, "Your mother is", "acquired", "Pronunciation: /\u028c\u02c8kwa\u026a\u025drd/", "Definition: gotten through environmental forces", ""]}
+{"data": ["2022-02-16T20:01:09.285084+00:00", 320, "Your mother is", "pint-sized", "Pronunciation: /pa\u026ant-sa\u026azd/", "Definition: well below average height", "Synonyms: pint-size, runty, sawed-off, sawn-off"]}
