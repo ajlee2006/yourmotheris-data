@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T07:01:38.196415+00:00", 307, "Your mother is", "underactive", "Similar to: inactive", "Definition: abnormally inactive", "Synonyms: hypoactive"]}
+{"data": ["2022-02-16T08:01:14.819336+00:00", 308, "Your mother is", "disquieting", "Pronunciation: /d\u026as\u02c8kwa\u026a\u026at\u026a\u014b/", "Definition: causing mental discomfort", ""]}
