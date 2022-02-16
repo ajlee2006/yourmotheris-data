@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T04:01:11.832023+00:00", 304, "Your mother is", "bullet-headed", "Similar to: obstinate", "Definition: obstinate and stupid", "Synonyms: bullheaded, pigheaded"]}
+{"data": ["2022-02-16T05:00:37.479674+00:00", 305, "Your mother is", "chambered", "Pronunciation: /\u02c8t\u0283e\u026amb\u0259d/", "Definition: having compartmental chambers", ""]}
