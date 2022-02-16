@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T09:01:23.736482+00:00", 309, "Your mother is", "euphonous", "Similar to: golden", "Definition: having a pleasant sound", "Synonyms: euphonious"]}
+{"data": ["2022-02-16T10:00:45.590925+00:00", 310, "Your mother is", "ellipsoid", "Pronunciation: /\u026a\u02c8l\u026aps\u0254\u026ad/", "Definition: having the nature or shape of an ellipsoid", "Synonyms: ellipsoidal, spheroidal"]}
