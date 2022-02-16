@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T13:00:59.894308+00:00", 313, "Your mother is", "bicyclic", "Pronunciation: /ba\u026a\u02c8sa\u026akl\u026ak/", "Definition: having molecules consisting of two fused rings", ""]}
+{"data": ["2022-02-16T14:01:00.521122+00:00", 314, "Your mother is", "joyful", "Pronunciation: /\u02c8d\u0292\u0254\u026af\u0259l/", "Definition: full of high-spirited delight", "Synonyms: elated, gleeful, jubilant"]}
