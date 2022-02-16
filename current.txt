@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T14:01:00.521122+00:00", 314, "Your mother is", "joyful", "Pronunciation: /\u02c8d\u0292\u0254\u026af\u0259l/", "Definition: full of high-spirited delight", "Synonyms: elated, gleeful, jubilant"]}
+{"data": ["2022-02-16T15:01:12.248564+00:00", 315, "Your mother is", "semipolitical", "Pronunciation: /\u02ccs\u025bmip\u0259\u02c8l\u026at\u026ak\u0259l/", "Definition: political in some (but not all) aspects", ""]}
