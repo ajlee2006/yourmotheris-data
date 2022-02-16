@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T00:02:13.118085+00:00", 300, "Your mother is", "thrillful", "Similar to: excited", "Definition: full of excitement; thrilled", ""]}
+{"data": ["2022-02-16T01:01:26.689566+00:00", 301, "Your mother is", "flaky", "Pronunciation: /\u02c8fle\u026aki/", "Definition: made of or resembling flakes", "Synonyms: flakey"]}
