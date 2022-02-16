@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T05:00:37.479674+00:00", 305, "Your mother is", "chambered", "Pronunciation: /\u02c8t\u0283e\u026amb\u0259d/", "Definition: having compartmental chambers", ""]}
+{"data": ["2022-02-16T06:01:08.596234+00:00", 306, "Your mother is", "jolted", "Pronunciation: /\u02c8d\u0292o\u028alt\u026ad/", "Definition: disturbed psychologically as if by a physical jolt or shock", "Synonyms: shaken"]}
