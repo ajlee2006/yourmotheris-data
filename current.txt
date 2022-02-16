@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T18:00:17.895123+00:00", 318, "Your mother is", "tigerish", "Pronunciation: /\u02c8ta\u026a\u0261\u0259r\u026a\u0283/", "Definition: resembling a tiger in fierceness and lack of mercy", ""]}
+{"data": ["2022-02-16T19:00:56.351142+00:00", 319, "Your mother is", "acquired", "Pronunciation: /\u028c\u02c8kwa\u026a\u025drd/", "Definition: gotten through environmental forces", ""]}
