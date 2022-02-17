@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T04:01:35.607083+00:00", 328, "Your mother is", "quadrupedal", "Pronunciation: /kw\u0251\u02c8drup\u026ad\u0259l/", "Definition: having four feet", "Synonyms: four-footed, quadruped"]}
+{"data": ["2022-02-17T05:01:31.270203+00:00", 329, "Your mother is", "turbulent", "Pronunciation: /\u02c8t\u025crbj\u0259l\u0259nt/", "Definition: characterized by unrest or disorder or insubordination", "Synonyms: disruptive, riotous, troubled, tumultuous"]}
