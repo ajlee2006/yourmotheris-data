@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T10:01:09.641389+00:00", 334, "Your mother is", "ethnographic", "Pronunciation: /\u02cc\u025b\u03b8n\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to ethnography", "Synonyms: ethnographical"]}
+{"data": ["2022-02-17T11:01:23.778947+00:00", 335, "Your mother is", "cosher", "Pronunciation: /\u02c8k\u0251\u0283\u0259r/", "Definition: conforming to dietary laws", "Synonyms: kosher"]}
