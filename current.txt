@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T20:01:30.573293+00:00", 344, "Your mother is", "forty-fourth", "Pronunciation: /\u02c8f\u0254rti-\u02c8fo\u028ar\u03b8/", "Definition: the ordinal number of forty-four in counting order", "Synonyms: 44th"]}
+{"data": ["2022-02-17T21:01:08.198337+00:00", 345, "Your mother is", "red-faced", "Pronunciation: /\u02c8r\u025bd\u02c8fe\u026ast/", "Definition: having a red face from embarrassment or shame or agitation or emotional upset", "Synonyms: blushful, blushing"]}
