@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T11:01:23.778947+00:00", 335, "Your mother is", "cosher", "Pronunciation: /\u02c8k\u0251\u0283\u0259r/", "Definition: conforming to dietary laws", "Synonyms: kosher"]}
+{"data": ["2022-02-17T12:00:50.440281+00:00", 336, "Your mother is", "four", "Pronunciation: /fo\u028ar/", "Definition: being one more than three", "Synonyms: 4, iv"]}
