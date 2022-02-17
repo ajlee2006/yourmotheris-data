@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T17:01:00.669723+00:00", 341, "Your mother is", "hollow-eyed", "Pronunciation: /\u02c8h\u0251lo\u028a-a\u026ad/", "Definition: characteristic of the bony face of a cadaver", "Synonyms: deep-eyed, sunken-eyed"]}
+{"data": ["2022-02-17T18:00:34.713475+00:00", 342, "Your mother is", "drunken", "Pronunciation: /\u02c8dr\u0259\u014bk\u0259n/", "Definition: given to or marked by the consumption of alcohol", "Synonyms: bibulous, boozy, sottish"]}
