@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T13:00:58.343168+00:00", 337, "Your mother is", "rearmost", "Pronunciation: /\u02c8ri\u0259mo\u028ast/", "Definition: located farthest to the rear", "Synonyms: backmost, hindermost, hindmost"]}
+{"data": ["2022-02-17T14:01:28.346124+00:00", 338, "Your mother is", "interlineal", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8l\u026ani\u0259l/", "Definition: written between lines of text", "Synonyms: interlinear"]}
