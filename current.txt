@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T06:01:15.181814+00:00", 330, "Your mother is", "flowery", "Pronunciation: /\u02c8fla\u028a\u0259ri/", "Definition: marked by elaborate rhetoric and elaborated with decorative details", "Synonyms: ornate"]}
+{"data": ["2022-02-17T07:01:10.431175+00:00", 331, "Your mother is", "vulcanised", "Similar to: processed", "Definition: (used of rubber) treated by a chemical or physical process to improve its properties (hardness and strength and odor and elasticity)", "Synonyms: cured, vulcanized"]}
