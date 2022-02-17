@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T22:00:25.902801+00:00", 346, "Your mother is", "tenebrous", "Pronunciation: /\u02c8t\u025bn\u0259br\u0259s/", "Definition: dark and gloomy", "Synonyms: tenebrific, tenebrious"]}
+{"data": ["2022-02-17T23:00:50.992650+00:00", 347, "Your mother is", "best-known", "Pronunciation: /b\u025bst-no\u028an/", "Definition: most familiar or renowned", ""]}
