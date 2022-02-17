@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T03:01:43.355799+00:00", 327, "Your mother is", "prisonlike", "Similar to: unfree", "Definition: resembling a prison", ""]}
+{"data": ["2022-02-17T04:01:35.607083+00:00", 328, "Your mother is", "quadrupedal", "Pronunciation: /kw\u0251\u02c8drup\u026ad\u0259l/", "Definition: having four feet", "Synonyms: four-footed, quadruped"]}
