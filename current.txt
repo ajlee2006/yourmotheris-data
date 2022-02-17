@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T21:01:08.198337+00:00", 345, "Your mother is", "red-faced", "Pronunciation: /\u02c8r\u025bd\u02c8fe\u026ast/", "Definition: having a red face from embarrassment or shame or agitation or emotional upset", "Synonyms: blushful, blushing"]}
+{"data": ["2022-02-17T22:00:25.902801+00:00", 346, "Your mother is", "tenebrous", "Pronunciation: /\u02c8t\u025bn\u0259br\u0259s/", "Definition: dark and gloomy", "Synonyms: tenebrific, tenebrious"]}
