@@ -1,1 +1,1 @@
-{"data": ["2022-02-16T23:01:19.147372+00:00", 323, "Your mother is", "noncompetitive", "Pronunciation: /\u02ccn\u0251nk\u028cm\u02c8p\u025bt\u028ct\u026av/", "Definition: not involving competition or competitiveness", ""]}
+{"data": ["2022-02-17T00:01:49.731299+00:00", 324, "Your mother is", "proficient", "Pronunciation: /pr\u0259\u02c8f\u026a\u0283\u0259nt/", "Definition: of or relating to technique or proficiency in a practical skill", "Synonyms: technical"]}
