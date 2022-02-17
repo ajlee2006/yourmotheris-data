@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T18:00:34.713475+00:00", 342, "Your mother is", "drunken", "Pronunciation: /\u02c8dr\u0259\u014bk\u0259n/", "Definition: given to or marked by the consumption of alcohol", "Synonyms: bibulous, boozy, sottish"]}
+{"data": ["2022-02-17T19:00:54.739324+00:00", 343, "Your mother is", "unperformed", "Pronunciation: /\u02cc\u0259np\u0259\u02c8fo\u028armd/", "Definition: not performed", ""]}
