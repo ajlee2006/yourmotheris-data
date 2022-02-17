@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T12:00:50.440281+00:00", 336, "Your mother is", "four", "Pronunciation: /fo\u028ar/", "Definition: being one more than three", "Synonyms: 4, iv"]}
+{"data": ["2022-02-17T13:00:58.343168+00:00", 337, "Your mother is", "rearmost", "Pronunciation: /\u02c8ri\u0259mo\u028ast/", "Definition: located farthest to the rear", "Synonyms: backmost, hindermost, hindmost"]}
