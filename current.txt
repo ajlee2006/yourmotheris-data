@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T08:01:00.502677+00:00", 332, "Your mother is", "undisguised", "Pronunciation: /\u02cc\u0259nd\u026as\u02c8\u0261a\u026azd/", "Definition: plain to see", ""]}
+{"data": ["2022-02-17T09:00:45.365595+00:00", 333, "Your mother is", "phantasmagorical", "Similar to: unrealistic", "Definition: characterized by fantastic imagery and incongruous juxtapositions", "Synonyms: phantasmagoric, surreal, surrealistic"]}
