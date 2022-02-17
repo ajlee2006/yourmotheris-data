@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T01:00:50.360210+00:00", 325, "Your mother is", "hieroglyphic", "Pronunciation: /\u02ccha\u026a\u0259r\u0259\u02c8gl\u026af\u026ak/", "Definition: resembling hieroglyphic writing", "Synonyms: hieroglyphical"]}
+{"data": ["2022-02-17T02:01:23.504041+00:00", 326, "Your mother is", "incommensurable", "Pronunciation: /\u02cc\u026ank\u0259\u02c8m\u025bn\u0283\u0259r\u0259b\u0259l/", "Definition: impossible to measure or compare in value or size or excellence", ""]}
