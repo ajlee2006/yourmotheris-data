@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T14:01:28.346124+00:00", 338, "Your mother is", "interlineal", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8l\u026ani\u0259l/", "Definition: written between lines of text", "Synonyms: interlinear"]}
+{"data": ["2022-02-17T15:00:54.626495+00:00", 339, "Your mother is", "dismissible", "Similar to: removable", "Definition: subject to dismissal", ""]}
