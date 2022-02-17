@@ -1,1 +1,1 @@
-{"data": ["2022-02-17T00:01:49.731299+00:00", 324, "Your mother is", "proficient", "Pronunciation: /pr\u0259\u02c8f\u026a\u0283\u0259nt/", "Definition: of or relating to technique or proficiency in a practical skill", "Synonyms: technical"]}
+{"data": ["2022-02-17T01:00:50.360210+00:00", 325, "Your mother is", "hieroglyphic", "Pronunciation: /\u02ccha\u026a\u0259r\u0259\u02c8gl\u026af\u026ak/", "Definition: resembling hieroglyphic writing", "Synonyms: hieroglyphical"]}
