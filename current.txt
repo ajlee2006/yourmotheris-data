@@ -1,1 +1,1 @@
-{"data": ["2022-02-18T02:00:37.553001+00:00", 350, "Your mother is", "crazy", "Pronunciation: /\u02c8kre\u026azi/", "Definition: affected with madness or insanity", "Synonyms: brainsick, demented, disturbed, mad, sick, unbalanced, unhinged"]}
+{"data": ["2022-02-18T03:01:15.861822+00:00", 351, "Your mother is", "gradatory", "Similar to: gradual", "Definition: taking place by degrees", "Synonyms: gradational, graduated"]}
