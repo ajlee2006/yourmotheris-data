@@ -1,1 +1,1 @@
-{"data": ["2022-02-18T09:01:16.818851+00:00", 357, "Your mother is", "strategical", "Pronunciation: /str\u028c\u02c8tid\u0292\u026ak\u028cl/", "Definition: relating to or concerned with strategy", "Synonyms: strategic"]}
+{"data": ["2022-02-18T10:00:24.597187+00:00", 358, "Your mother is", "oversea", "Pronunciation: /\u02cco\u028av\u025dr\u02c8si/", "Definition: being or passing over or across the sea", "Synonyms: overseas"]}
