@@ -1,1 +1,1 @@
-{"data": ["2022-02-18T07:01:00.098372+00:00", 355, "Your mother is", "deadened", "Similar to: insensitive", "Definition: devoid of physical sensation; numb", "Synonyms: dead"]}
+{"data": ["2022-02-18T08:01:39.839326+00:00", 356, "Your mother is", "certified", "Pronunciation: /\u02c8s\u025crt\u0259\u02ccfa\u026ad/", "Definition: holding appropriate documentation and officially on record as qualified to perform a specified function or practice a specified skill", "Synonyms: qualified"]}
