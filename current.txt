@@ -1,1 +1,1 @@
-{"data": ["2022-02-18T04:00:15.830389+00:00", 352, "Your mother is", "semiprecious", "Pronunciation: /\u02ccs\u025bmi\u02c8pr\u025b\u0283\u0259s/", "Definition: used of gemstones having less commercial value than precious stones", ""]}
+{"data": ["2022-02-18T05:00:52.938157+00:00", 353, "Your mother is", "hourlong", "Pronunciation: /\u02c8a\u028ar\u02ccl\u0254\u014b/", "Definition: lasting for an hour", ""]}
