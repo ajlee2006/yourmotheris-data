@@ -1,1 +1,1 @@
-{"data": ["2022-02-18T10:00:24.597187+00:00", 358, "Your mother is", "oversea", "Pronunciation: /\u02cco\u028av\u025dr\u02c8si/", "Definition: being or passing over or across the sea", "Synonyms: overseas"]}
+{"data": ["2022-02-18T11:01:25.492111+00:00", 359, "Your mother is", "ill-fed", "Pronunciation: /\u026al-f\u025bd/", "Definition: not getting adequate food", "Synonyms: underfed, undernourished"]}
