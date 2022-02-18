@@ -1,1 +1,1 @@
-{"data": ["2022-02-18T06:01:32.203861+00:00", 354, "Your mother is", "115", "Similar to: cardinal", "Definition: being five more than one hundred ten", "Synonyms: cxv, one hundred fifteen"]}
+{"data": ["2022-02-18T07:01:00.098372+00:00", 355, "Your mother is", "deadened", "Similar to: insensitive", "Definition: devoid of physical sensation; numb", "Synonyms: dead"]}
