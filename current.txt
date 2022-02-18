@@ -1,1 +1,1 @@
-{"data": ["2022-02-18T20:00:41.499058+00:00", 368, "Your mother is", "differentiated", "Pronunciation: /\u02ccd\u026af\u025dr\u02c8\u025bnt\u0283i\u02cce\u026at\u026ad/", "Definition: exhibiting biological specialization; adapted during development to a specific function or environment", ""]}
+{"data": ["2022-02-18T21:01:15.202211+00:00", 369, "Your mother is", "symptomatic", "Pronunciation: /\u02ccs\u026ampt\u0259\u02c8m\u00e6t\u026ak/", "Definition: characteristic or indicative of a disease", "Synonyms: diagnostic"]}
