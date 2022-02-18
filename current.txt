@@ -1,1 +1,1 @@
-{"data": ["2022-02-18T15:01:07.034660+00:00", 363, "Your mother is", "aldermanic", "Pronunciation: /\u02cc\u0254ld\u0259r\u02c8m\u00e6n\u026ak/", "Definition: of or relating to or like an alderman", "Synonyms: aldermanly"]}
+{"data": ["2022-02-18T16:00:22.372526+00:00", 364, "Your mother is", "tenable", "Pronunciation: /\u02c8t\u025bn\u0259b\u0259l/", "Definition: based on sound reasoning or evidence", "Synonyms: well-founded"]}
