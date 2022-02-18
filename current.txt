@@ -1,1 +1,1 @@
-{"data": ["2022-02-18T11:01:25.492111+00:00", 359, "Your mother is", "ill-fed", "Pronunciation: /\u026al-f\u025bd/", "Definition: not getting adequate food", "Synonyms: underfed, undernourished"]}
+{"data": ["2022-02-18T12:01:29.271964+00:00", 360, "Your mother is", "obstructed", "Pronunciation: /\u028cb\u02c8str\u028ckt\u026ad/", "Definition: shut off to passage or view or hindered from action", ""]}
