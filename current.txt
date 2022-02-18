@@ -1,1 +1,1 @@
-{"data": ["2022-02-18T19:01:11.155625+00:00", 367, "Your mother is", "sententious", "Pronunciation: /s\u025bn\u02c8t\u025bn\u0283\u0259s/", "Definition: concise and full of meaning", "Synonyms: pithy"]}
+{"data": ["2022-02-18T20:00:41.499058+00:00", 368, "Your mother is", "differentiated", "Pronunciation: /\u02ccd\u026af\u025dr\u02c8\u025bnt\u0283i\u02cce\u026at\u026ad/", "Definition: exhibiting biological specialization; adapted during development to a specific function or environment", ""]}
