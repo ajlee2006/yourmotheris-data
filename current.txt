@@ -1,1 +1,1 @@
-{"data": ["2022-02-19T05:01:18.889752+00:00", 377, "Your mother is", "harmonic", "Pronunciation: /h\u0251r\u02c8m\u0251n\u026ak/", "Definition: involving or characterized by harmony", "Synonyms: consonant, harmonical, harmonised, harmonized"]}
+{"data": ["2022-02-19T06:01:31.003900+00:00", 378, "Your mother is", "unhinged", "Pronunciation: /\u028cn\u02c8h\u026and\u0292d/", "Definition: affected with madness or insanity", "Synonyms: brainsick, crazy, demented, disturbed, mad, sick, unbalanced"]}
