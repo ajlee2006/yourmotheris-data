@@ -1,1 +1,1 @@
-{"data": ["2022-02-19T06:01:31.003900+00:00", 378, "Your mother is", "unhinged", "Pronunciation: /\u028cn\u02c8h\u026and\u0292d/", "Definition: affected with madness or insanity", "Synonyms: brainsick, crazy, demented, disturbed, mad, sick, unbalanced"]}
+{"data": ["2022-02-19T07:01:03.116097+00:00", 379, "Your mother is", "clubby", "Pronunciation: /\u02c8kl\u0259bi/", "Definition: effusively sociable", "Synonyms: clubbish"]}
