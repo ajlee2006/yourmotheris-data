@@ -1,1 +1,1 @@
-{"data": ["2022-02-19T08:01:08.752849+00:00", 380, "Your mother is", "emerging", "Pronunciation: /\u026a\u02c8m\u025drd\u0292\u026a\u014b/", "Definition: coming into existence", "Synonyms: emergent"]}
+{"data": ["2022-02-19T09:00:54.002563+00:00", 381, "Your mother is", "harp-shaped", "Pronunciation: /h\u0251rp-\u0283e\u026apt/", "Definition: shaped in the form of a harp", ""]}
