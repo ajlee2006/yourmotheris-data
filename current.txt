@@ -1,1 +1,1 @@
-{"data": ["2022-02-19T03:01:20.617550+00:00", 375, "Your mother is", "unavoidable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8v\u0254\u026ad\u0259b\u0259l/", "Definition: impossible to avoid or evade", "Synonyms: ineluctable, inescapable"]}
+{"data": ["2022-02-19T04:00:55.873094+00:00", 376, "Your mother is", "unaccepted", "Similar to: nonstandard", "Definition: not conforming to standard usage", "Synonyms: unacceptable"]}
