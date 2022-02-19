@@ -1,1 +1,1 @@
-{"data": ["2022-02-19T19:00:49.185351+00:00", 391, "Your mother is", "cd", "Pronunciation: /\u02c8si\u02c8di/", "Definition: being one hundred more than three hundred", "Synonyms: 400, four hundred"]}
+{"data": ["2022-02-19T20:00:32.593029+00:00", 392, "Your mother is", "dictated", "Pronunciation: /d\u026ak\u02c8te\u026at\u028cd/", "Definition: determined or decided upon as by an authority", "Synonyms: determined, set"]}
