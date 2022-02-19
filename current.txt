@@ -1,1 +1,1 @@
-{"data": ["2022-02-19T18:01:00.002970+00:00", 390, "Your mother is", "tipsy", "Pronunciation: /\u02c8t\u026apsi/", "Definition: slightly intoxicated", "Synonyms: potty, tiddly"]}
+{"data": ["2022-02-19T19:00:49.185351+00:00", 391, "Your mother is", "cd", "Pronunciation: /\u02c8si\u02c8di/", "Definition: being one hundred more than three hundred", "Synonyms: 400, four hundred"]}
