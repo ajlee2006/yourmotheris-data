@@ -1,1 +1,1 @@
-{"data": ["2022-02-19T14:00:21.093237+00:00", 386, "Your mother is", "110th", "Similar to: ordinal", "Definition: the ordinal number of one hundred ten in counting order", "Synonyms: hundred-and-tenth"]}
+{"data": ["2022-02-19T15:01:28.532035+00:00", 387, "Your mother is", "close together", "Similar to: close", "Definition: located close together", "Synonyms: approximate"]}
