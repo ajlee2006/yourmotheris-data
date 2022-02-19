@@ -1,1 +1,1 @@
-{"data": ["2022-02-19T21:01:09.455894+00:00", 393, "Your mother is", "oblique-angled", "Pronunciation: /\u0259\u02c8blik-\u02c8\u00e6\u014b\u0261\u0259ld/", "Definition: having oblique angles", ""]}
+{"data": ["2022-02-19T22:01:06.896337+00:00", 394, "Your mother is", "recurved", "Pronunciation: /ri\u02c8k\u025crvd/", "Definition: curved backward or inward", "Synonyms: recurvate"]}
