@@ -1,1 +1,1 @@
-{"data": ["2022-02-19T07:01:03.116097+00:00", 379, "Your mother is", "clubby", "Pronunciation: /\u02c8kl\u0259bi/", "Definition: effusively sociable", "Synonyms: clubbish"]}
+{"data": ["2022-02-19T08:01:08.752849+00:00", 380, "Your mother is", "emerging", "Pronunciation: /\u026a\u02c8m\u025drd\u0292\u026a\u014b/", "Definition: coming into existence", "Synonyms: emergent"]}
