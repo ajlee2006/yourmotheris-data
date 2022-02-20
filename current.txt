@@ -1,1 +1,1 @@
-{"data": ["2022-02-20T16:01:06.813334+00:00", 412, "Your mother is", "cinnamon coloured", "Similar to: colored", "Definition: having the color of cinnamon", "Synonyms: cinnamon-colored, cinnamon-coloured, cinnamon colored"]}
+{"data": ["2022-02-20T17:01:03.107699+00:00", 413, "Your mother is", "open-air", "Pronunciation: /\u02c8o\u028ap\u0259n-\u025cr/", "Definition: in the open air", "Synonyms: alfresco"]}
