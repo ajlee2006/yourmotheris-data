@@ -1,1 +1,1 @@
-{"data": ["2022-02-19T23:00:18.139246+00:00", 395, "Your mother is", "brachydactylous", "Pronunciation: /\u02ccbr\u00e6ki\u02c8d\u00e6kt\u0259l\u0259s/", "Definition: having abnormally short finger or toes", "Synonyms: brachydactylic"]}
+{"data": ["2022-02-20T00:01:40.064287+00:00", 396, "Your mother is", "depletable", "Similar to: exhaustible", "Definition: capable of being depleted", ""]}
