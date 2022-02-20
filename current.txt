@@ -1,1 +1,1 @@
-{"data": ["2022-02-20T05:01:17.639519+00:00", 401, "Your mother is", "unimprisoned", "Similar to: free", "Definition: free from confinement or physical restraint", "Synonyms: unconfined"]}
+{"data": ["2022-02-20T06:01:31.212005+00:00", 402, "Your mother is", "crowned", "Pronunciation: /kra\u028and/", "Definition: crowned with or as if with laurel symbolizing victory", "Synonyms: laureled, laurelled"]}
