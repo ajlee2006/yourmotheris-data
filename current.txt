@@ -1,1 +1,1 @@
-{"data": ["2022-02-20T00:01:40.064287+00:00", 396, "Your mother is", "depletable", "Similar to: exhaustible", "Definition: capable of being depleted", ""]}
+{"data": ["2022-02-20T01:01:18.798655+00:00", 397, "Your mother is", "k", "Pronunciation: /ke\u026a/", "Definition: denoting a quantity consisting of 1,000 items or units", "Synonyms: 1000, m, one thousand, thousand"]}
