@@ -1,1 +1,1 @@
-{"data": ["2022-02-20T12:01:03.808606+00:00", 408, "Your mother is", "qualitative", "Pronunciation: /\u02c8kw\u0251l\u026a\u02ccte\u026at\u026av/", "Definition: involving distinctions based on qualities", ""]}
+{"data": ["2022-02-20T13:01:08.153050+00:00", 409, "Your mother is", "right smart", "Similar to: considerable", "Definition: (Southern or Midland) considerable", ""]}
