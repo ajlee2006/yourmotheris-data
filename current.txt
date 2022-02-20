@@ -1,1 +1,1 @@
-{"data": ["2022-02-20T19:00:44.832085+00:00", 415, "Your mother is", "coplanar", "Pronunciation: /ko\u028a\u02c8ple\u026an\u0259r/", "Definition: lying in the same plane", ""]}
+{"data": ["2022-02-20T20:00:55.863195+00:00", 416, "Your mother is", "heartbroken", "Pronunciation: /\u02c8h\u0251rt\u02ccbro\u028ak\u0259n/", "Definition: full of sorrow", "Synonyms: brokenhearted, heartsick"]}
