@@ -1,1 +1,1 @@
-{"data": ["2022-02-20T17:01:03.107699+00:00", 413, "Your mother is", "open-air", "Pronunciation: /\u02c8o\u028ap\u0259n-\u025cr/", "Definition: in the open air", "Synonyms: alfresco"]}
+{"data": ["2022-02-20T18:01:23.021135+00:00", 414, "Your mother is", "payable", "Pronunciation: /\u02c8pe\u026a\u0259bl/", "Definition: subject to or requiring payment especially as specified", "Synonyms: collectable, collectible"]}
