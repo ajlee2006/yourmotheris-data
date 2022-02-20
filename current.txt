@@ -1,1 +1,1 @@
-{"data": ["2022-02-20T18:01:23.021135+00:00", 414, "Your mother is", "payable", "Pronunciation: /\u02c8pe\u026a\u0259bl/", "Definition: subject to or requiring payment especially as specified", "Synonyms: collectable, collectible"]}
+{"data": ["2022-02-20T19:00:44.832085+00:00", 415, "Your mother is", "coplanar", "Pronunciation: /ko\u028a\u02c8ple\u026an\u0259r/", "Definition: lying in the same plane", ""]}
