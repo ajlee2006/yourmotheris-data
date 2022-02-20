@@ -1,1 +1,1 @@
-{"data": ["2022-02-20T02:01:38.651048+00:00", 398, "Your mother is", "one-time", "Pronunciation: /w\u0259n-ta\u026am/", "Definition: belonging to some prior time", "Synonyms: erstwhile, former, old, onetime, quondam, sometime"]}
+{"data": ["2022-02-20T03:00:20.714456+00:00", 399, "Your mother is", "female", "Pronunciation: /\u02c8fime\u026al/", "Definition: characteristic of or peculiar to a woman", "Synonyms: distaff"]}
