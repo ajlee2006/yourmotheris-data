@@ -1,1 +1,1 @@
-{"data": ["2022-02-20T07:01:13.707932+00:00", 403, "Your mother is", "unoriginal", "Pronunciation: /\u02cc\u0259n\u0259\u02c8rid\u0292\u026an\u0259l/", "Definition: not original; not being or productive of something fresh and unusual", ""]}
+{"data": ["2022-02-20T08:00:32.350874+00:00", 404, "Your mother is", "endogenetic", "Similar to: integrative", "Definition: of rocks formed or occurring beneath the surface of the earth", "Synonyms: endogenic"]}
