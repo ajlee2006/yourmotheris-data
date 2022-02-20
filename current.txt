@@ -1,1 +1,1 @@
-{"data": ["2022-02-20T10:01:03.187312+00:00", 406, "Your mother is", "jellied", "Pronunciation: /\u02c8d\u0292\u025blid/", "Definition: congealed into jelly; solidified by cooling", "Synonyms: congealed, jelled"]}
+{"data": ["2022-02-20T11:01:10.868292+00:00", 407, "Your mother is", "uninhabitable", "Pronunciation: /\u02cc\u0259n\u026an\u02c8h\u00e6b\u026at\u0259b\u0259l/", "Definition: not fit for habitation", ""]}
