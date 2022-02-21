@@ -1,1 +1,1 @@
-{"data": ["2022-02-21T18:00:19.109007+00:00", 438, "Your mother is", "twilit", "Pronunciation: /\u02c8twa\u026al\u026at/", "Definition: lighted by or as if by twilight", "Synonyms: dusky, twilight"]}
+{"data": ["2022-02-21T19:00:50.244842+00:00", 439, "Your mother is", "boxed in", "Similar to: enclosed", "Definition: enclosed in or as if in a box", "Synonyms: boxed, boxed-in"]}
