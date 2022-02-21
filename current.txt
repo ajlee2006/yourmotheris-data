@@ -1,1 +1,1 @@
-{"data": ["2022-02-21T06:01:17.167410+00:00", 426, "Your mother is", "kin", "Pronunciation: /k\u026an/", "Definition: related by blood", "Synonyms: akin, blood-related, cognate, consanguine, consanguineal, consanguineous"]}
+{"data": ["2022-02-21T07:01:19.032539+00:00", 427, "Your mother is", "unexcelled", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8s\u025bld/", "Definition: not capable of being improved on", "Synonyms: unexceeded, unsurpassed"]}
