@@ -1,1 +1,1 @@
-{"data": ["2022-02-21T04:00:58.993846+00:00", 424, "Your mother is", "exchanged", "Pronunciation: /\u026aks\u02c8t\u0283e\u026and\u0292d/", "Definition: changed for (replaced by) something different", ""]}
+{"data": ["2022-02-21T05:01:04.507733+00:00", 425, "Your mother is", "shamed", "Pronunciation: /\u0283e\u026amd/", "Definition: showing a sense of guilt", "Synonyms: guilty, hangdog, shamefaced"]}
