@@ -1,1 +1,1 @@
-{"data": ["2022-02-21T13:01:18.154449+00:00", 433, "Your mother is", "bumptious", "Pronunciation: /\u02c8b\u0259mp\u0283\u0259s/", "Definition: offensively self-assertive", "Synonyms: self-assertive"]}
+{"data": ["2022-02-21T14:01:32.014306+00:00", 434, "Your mother is", "astomatous", "Pronunciation: /e\u026a\u02c8st\u0251m\u0259t\u0259s/", "Definition: having no mouth or mouthlike opening", "Synonyms: mouthless"]}
