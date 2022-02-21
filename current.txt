@@ -1,1 +1,1 @@
-{"data": ["2022-02-21T05:01:04.507733+00:00", 425, "Your mother is", "shamed", "Pronunciation: /\u0283e\u026amd/", "Definition: showing a sense of guilt", "Synonyms: guilty, hangdog, shamefaced"]}
+{"data": ["2022-02-21T06:01:17.167410+00:00", 426, "Your mother is", "kin", "Pronunciation: /k\u026an/", "Definition: related by blood", "Synonyms: akin, blood-related, cognate, consanguine, consanguineal, consanguineous"]}
