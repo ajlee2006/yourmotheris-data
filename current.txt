@@ -1,1 +1,1 @@
-{"data": ["2022-02-21T08:01:14.461709+00:00", 428, "Your mother is", "ignited", "Pronunciation: /\u026a\u0261\u02c8na\u026at\u026ad/", "Definition: set afire", "Synonyms: enkindled, kindled"]}
+{"data": ["2022-02-21T09:01:32.123335+00:00", 429, "Your mother is", "ghanese", "", "Definition: of or relating to or characteristic of Ghana or its people or language", "Synonyms: ghanaian, ghanian"]}
