@@ -1,1 +1,1 @@
-{"data": ["2022-02-21T01:01:52.072295+00:00", 421, "Your mother is", "mischievous", "Pronunciation: /\u02c8m\u026as\u02a7\u0259v\u0259s/", "Definition: naughtily or annoyingly playful", "Synonyms: arch, impish, implike, pixilated, prankish, puckish, wicked"]}
+{"data": ["2022-02-21T02:00:57.957247+00:00", 422, "Your mother is", "duplicate", "Pronunciation: /\u02c8du\u02ccpl\u0259ke\u026at/", "Definition: being two identical", "Synonyms: matching, twin, twinned"]}
