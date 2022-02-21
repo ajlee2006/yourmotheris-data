@@ -1,1 +1,1 @@
-{"data": ["2022-02-21T21:01:19.837319+00:00", 441, "Your mother is", "boon", "Pronunciation: /bun/", "Definition: very close and convivial", ""]}
+{"data": ["2022-02-21T22:01:37.146375+00:00", 442, "Your mother is", "documentary", "Pronunciation: /\u02ccd\u0251kj\u0259\u02c8m\u025bnt\u0259ri/", "Definition: relating to or consisting of or derived from documents", "Synonyms: documental"]}
