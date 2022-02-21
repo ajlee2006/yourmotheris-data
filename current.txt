@@ -1,1 +1,1 @@
-{"data": ["2022-02-21T00:02:01.255504+00:00", 420, "Your mother is", "spiritual", "Pronunciation: /\u02c8sp\u026ar\u026a\u02a7u\u0259l/", "Definition: concerned with sacred matters or religion or the church", "Synonyms: religious"]}
+{"data": ["2022-02-21T01:01:52.072295+00:00", 421, "Your mother is", "mischievous", "Pronunciation: /\u02c8m\u026as\u02a7\u0259v\u0259s/", "Definition: naughtily or annoyingly playful", "Synonyms: arch, impish, implike, pixilated, prankish, puckish, wicked"]}
