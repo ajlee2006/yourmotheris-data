@@ -1,1 +1,1 @@
-{"data": ["2022-02-21T14:01:32.014306+00:00", 434, "Your mother is", "astomatous", "Pronunciation: /e\u026a\u02c8st\u0251m\u0259t\u0259s/", "Definition: having no mouth or mouthlike opening", "Synonyms: mouthless"]}
+{"data": ["2022-02-21T15:00:50.319982+00:00", 435, "Your mother is", "unventilated", "Pronunciation: /\u0259n\u02c8v\u025bnt\u026a\u02ccle\u026at\u026ad/", "Definition: not ventilated", ""]}
