@@ -1,1 +1,1 @@
-{"data": ["2022-02-21T17:00:17.705393+00:00", 437, "Your mother is", "satirical", "Pronunciation: /s\u0259\u02c8t\u026ar\u026ak\u0259l/", "Definition: exposing human folly to ridicule", "Synonyms: satiric"]}
+{"data": ["2022-02-21T18:00:19.109007+00:00", 438, "Your mother is", "twilit", "Pronunciation: /\u02c8twa\u026al\u026at/", "Definition: lighted by or as if by twilight", "Synonyms: dusky, twilight"]}
