@@ -1,1 +1,1 @@
-{"data": ["2022-02-21T12:01:18.905236+00:00", 432, "Your mother is", "matted", "Pronunciation: /\u02c8m\u00e6t\u026ad/", "Definition: not reflecting light; not glossy", "Synonyms: flat, mat, matt, matte"]}
+{"data": ["2022-02-21T13:01:18.154449+00:00", 433, "Your mother is", "bumptious", "Pronunciation: /\u02c8b\u0259mp\u0283\u0259s/", "Definition: offensively self-assertive", "Synonyms: self-assertive"]}
