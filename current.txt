@@ -1,1 +1,1 @@
-{"data": ["2022-02-21T02:00:57.957247+00:00", 422, "Your mother is", "duplicate", "Pronunciation: /\u02c8du\u02ccpl\u0259ke\u026at/", "Definition: being two identical", "Synonyms: matching, twin, twinned"]}
+{"data": ["2022-02-21T03:00:15.825850+00:00", 423, "Your mother is", "scintillating", "Similar to: lively", "Definition: marked by high spirits or excitement", "Synonyms: bubbling, effervescent, frothy, sparkly"]}
