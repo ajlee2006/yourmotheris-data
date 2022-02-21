@@ -1,1 +1,1 @@
-{"data": ["2022-02-20T23:01:00.781098+00:00", 419, "Your mother is", "unmixed", "Pronunciation: /\u0259n\u02c8m\u026akst/", "Definition: not mixed with extraneous elements", "Synonyms: plain, sheer, unmingled"]}
+{"data": ["2022-02-21T00:02:01.255504+00:00", 420, "Your mother is", "spiritual", "Pronunciation: /\u02c8sp\u026ar\u026a\u02a7u\u0259l/", "Definition: concerned with sacred matters or religion or the church", "Synonyms: religious"]}
