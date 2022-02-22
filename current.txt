@@ -1,1 +1,1 @@
-{"data": ["2022-02-22T05:00:14.679224+00:00", 449, "Your mother is", "robed", "Pronunciation: /ro\u028abd/", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: appareled, attired, dressed, garbed, garmented, habilimented"]}
+{"data": ["2022-02-22T06:00:53.731832+00:00", 450, "Your mother is", "mixed-up", "Similar to: perplexed", "Definition: perplexed by many conflicting situations or statements; filled with bewilderment", "Synonyms: at sea, baffled, befuddled, bemused, bewildered, confounded, confused, lost, mazed"]}
