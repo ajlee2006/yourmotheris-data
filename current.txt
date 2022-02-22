@@ -1,1 +1,1 @@
-{"data": ["2022-02-22T11:00:22.882125+00:00", 455, "Your mother is", "amoebic", "Pronunciation: /\u0259\u02c8mib\u026ak/", "Definition: pertaining to or resembling amoebae", "Synonyms: ameban, amebic, amebous, amoeban, amoebous"]}
+{"data": ["2022-02-22T12:01:07.786984+00:00", 456, "Your mother is", "powder blue", "Pronunciation: /\u02c8pa\u028ad\u0259r-blu/", "Definition: of a moderate to pale blue or purplish blue", "Synonyms: powdery-blue"]}
