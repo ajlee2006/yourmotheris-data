@@ -1,1 +1,1 @@
-{"data": ["2022-02-22T07:01:02.025227+00:00", 451, "Your mother is", "initiative", "Pronunciation: /\u026a\u02c8n\u026a\u0283i\u0259t\u026av/", "Definition: serving to set in motion", "Synonyms: first, inaugural, initiatory, maiden"]}
+{"data": ["2022-02-22T08:01:09.779429+00:00", 452, "Your mother is", "down pat", "Pronunciation: /da\u028an-p\u00e6t/", "Definition: understood perfectly", "Synonyms: down, mastered"]}
