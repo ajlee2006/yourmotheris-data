@@ -1,1 +1,1 @@
-{"data": ["2022-02-22T16:01:16.713833+00:00", 460, "Your mother is", "unbarrelled", "", "Definition: not in a barrel", "Synonyms: unbarreled"]}
+{"data": ["2022-02-22T17:00:38.456805+00:00", 461, "Your mother is", "thrombosed", "Similar to: obstructed", "Definition: affected with or obstructed by a clot of coagulated blood", ""]}
