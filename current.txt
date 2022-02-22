@@ -1,1 +1,1 @@
-{"data": ["2022-02-22T04:01:05.177451+00:00", 448, "Your mother is", "light-handed", "Pronunciation: /la\u026at-\u02c8h\u00e6nd\u026ad/", "Definition: having a metaphorically delicate touch", ""]}
+{"data": ["2022-02-22T05:00:14.679224+00:00", 449, "Your mother is", "robed", "Pronunciation: /ro\u028abd/", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: appareled, attired, dressed, garbed, garmented, habilimented"]}
