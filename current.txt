@@ -1,1 +1,1 @@
-{"data": ["2022-02-22T00:01:55.664041+00:00", 444, "Your mother is", "contrasting", "Pronunciation: /k\u028cn\u02c8tr\u00e6st\u026a\u014b/", "Definition: strikingly different; tending to contrast", "Synonyms: contrastive"]}
+{"data": ["2022-02-22T01:01:02.932557+00:00", 445, "Your mother is", "elocutionary", "Pronunciation: /\u02cc\u025bl\u0259\u02c8kju\u0283\u0259\u02ccn\u025bri/", "Definition: (used of style of speaking) overly embellished", ""]}
