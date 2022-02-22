@@ -1,1 +1,1 @@
-{"data": ["2022-02-22T17:00:38.456805+00:00", 461, "Your mother is", "thrombosed", "Similar to: obstructed", "Definition: affected with or obstructed by a clot of coagulated blood", ""]}
+{"data": ["2022-02-22T18:01:10.024033+00:00", 462, "Your mother is", "amphiprostyle", "Pronunciation: /\u00e6m\u02c8f\u026apr\u0259\u02ccsta\u026al/", "Definition: marked by columniation having free columns in porticoes either at both ends or at both sides of a structure", "Synonyms: amphiprostylar, amphistylar, porticoed"]}
