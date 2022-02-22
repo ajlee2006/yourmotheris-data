@@ -1,1 +1,1 @@
-{"data": ["2022-02-22T19:01:21.862323+00:00", 463, "Your mother is", "tenacious", "Pronunciation: /t\u0259\u02c8ne\u026a\u0283\u0259s/", "Definition: sticking together", "Synonyms: coherent"]}
+{"data": ["2022-02-22T20:01:09.279614+00:00", 464, "Your mother is", "ophthalmic", "Pronunciation: /\u0251f\u02c8\u03b8\u00e6lm\u026ak/", "Definition: of or relating to or resembling the eye", "Synonyms: ocular, optic, optical"]}
