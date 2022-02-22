@@ -1,1 +1,1 @@
-{"data": ["2022-02-22T08:01:09.779429+00:00", 452, "Your mother is", "down pat", "Pronunciation: /da\u028an-p\u00e6t/", "Definition: understood perfectly", "Synonyms: down, mastered"]}
+{"data": ["2022-02-22T09:01:31.580371+00:00", 453, "Your mother is", "cosmogonic", "Pronunciation: /\u02cck\u0251zm\u0259\u02c8\u0261\u0251n\u026ak/", "Definition: pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe", "Synonyms: cosmogenic, cosmogonical, cosmologic, cosmological"]}
