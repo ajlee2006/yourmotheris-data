@@ -1,1 +1,1 @@
-{"data": ["2022-02-22T02:01:18.465369+00:00", 446, "Your mother is", "blue-flowered", "Pronunciation: /blu-\u02c8fla\u028a\u0259rd/", "Definition: having blue flowers", ""]}
+{"data": ["2022-02-22T03:00:50.873975+00:00", 447, "Your mother is", "stray", "Pronunciation: /stre\u026a/", "Definition: not close together in time", "Synonyms: isolated"]}
