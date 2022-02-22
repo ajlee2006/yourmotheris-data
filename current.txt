@@ -1,1 +1,1 @@
-{"data": ["2022-02-22T18:01:10.024033+00:00", 462, "Your mother is", "amphiprostyle", "Pronunciation: /\u00e6m\u02c8f\u026apr\u0259\u02ccsta\u026al/", "Definition: marked by columniation having free columns in porticoes either at both ends or at both sides of a structure", "Synonyms: amphiprostylar, amphistylar, porticoed"]}
+{"data": ["2022-02-22T19:01:21.862323+00:00", 463, "Your mother is", "tenacious", "Pronunciation: /t\u0259\u02c8ne\u026a\u0283\u0259s/", "Definition: sticking together", "Synonyms: coherent"]}
