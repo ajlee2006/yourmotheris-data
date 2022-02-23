@@ -1,1 +1,1 @@
-{"data": ["2022-02-22T23:01:05.476088+00:00", 467, "Your mother is", "vocative", "Pronunciation: /\u02c8v\u0251k\u0259t\u026av/", "Definition: relating to a case used in some languages", ""]}
+{"data": ["2022-02-23T00:01:30.000210+00:00", 468, "Your mother is", "syncretic", "", "Definition: relating to a historical tendency for a language to reduce its use of inflections", "Synonyms: syncretical, syncretistic, syncretistical"]}
