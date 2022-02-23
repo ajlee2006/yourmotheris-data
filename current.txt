@@ -1,1 +1,1 @@
-{"data": ["2022-02-23T18:01:21.743760+00:00", 486, "Your mother is", "upfield", "Pronunciation: /\u02c8\u0259pfild/", "Definition: away from the defending teams' end of the playing field", ""]}
+{"data": ["2022-02-23T19:01:24.209120+00:00", 487, "Your mother is", "ferric", "Pronunciation: /\u02c8f\u025br\u026ak/", "Definition: of or relating to or containing iron", "Synonyms: ferrous"]}
