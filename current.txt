@@ -1,1 +1,1 @@
-{"data": ["2022-02-23T10:00:26.542193+00:00", 478, "Your mother is", "far-out", "Pronunciation: /f\u0251r-a\u028at/", "Definition: (informal) strikingly unconventional", "Synonyms: kinky, offbeat, quirky, way-out"]}
+{"data": ["2022-02-23T11:01:00.638971+00:00", 479, "Your mother is", "burundian", "", "Definition: of or relating to or characteristic of Burundi or its people", "Synonyms: burundi"]}
