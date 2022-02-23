@@ -1,1 +1,1 @@
-{"data": ["2022-02-23T05:00:24.526317+00:00", 473, "Your mother is", "unflappable", "Pronunciation: /\u0259n\u02c8fl\u00e6p\u0259b\u0259l/", "Definition: not easily perturbed or excited or upset; marked by extreme calm and composure", "Synonyms: imperturbable"]}
+{"data": ["2022-02-23T06:01:10.739435+00:00", 474, "Your mother is", "unsymmetrical", "Similar to: unequal", "Definition: having unsymmetrical parts or unequal dimensions or measurements", "Synonyms: anisometric"]}
