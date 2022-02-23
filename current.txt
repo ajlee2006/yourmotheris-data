@@ -1,1 +1,1 @@
-{"data": ["2022-02-23T15:00:25.717881+00:00", 483, "Your mother is", "expectable", "Similar to: expected", "Definition: to be expected", ""]}
+{"data": ["2022-02-23T16:00:58.470488+00:00", 484, "Your mother is", "motivating", "Pronunciation: /\u02c8mo\u028at\u028c\u02ccve\u026at\u026a\u014b/", "Definition: impelling to action", "Synonyms: motivative, motive"]}
