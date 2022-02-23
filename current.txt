@@ -1,1 +1,1 @@
-{"data": ["2022-02-23T19:01:24.209120+00:00", 487, "Your mother is", "ferric", "Pronunciation: /\u02c8f\u025br\u026ak/", "Definition: of or relating to or containing iron", "Synonyms: ferrous"]}
+{"data": ["2022-02-23T20:00:27.718767+00:00", 488, "Your mother is", "150th", "Similar to: ordinal", "Definition: the ordinal number of one hundred fifty in counting order", "Synonyms: hundred-and-fiftieth"]}
