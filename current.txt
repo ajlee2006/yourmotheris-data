@@ -1,1 +1,1 @@
-{"data": ["2022-02-23T02:01:05.915924+00:00", 470, "Your mother is", "quechuan", "Pronunciation: /\u02c8k\u025b\u02a7\u02ccw\u0259n/", "Definition: of or relating to the Quechua or their language", "Synonyms: kechuan"]}
+{"data": ["2022-02-23T03:01:40.225308+00:00", 471, "Your mother is", "hydroponic", "Pronunciation: /\u02ccha\u026adr\u028c\u02c8p\u0251n\u026ak/", "Definition: of or relating to aquiculture", "Synonyms: aquacultural, aquicultural"]}
