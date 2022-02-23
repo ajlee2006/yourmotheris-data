@@ -1,1 +1,1 @@
-{"data": ["2022-02-23T14:00:57.607684+00:00", 482, "Your mother is", "16", "Similar to: cardinal", "Definition: being one more than fifteen", "Synonyms: sixteen, xvi"]}
+{"data": ["2022-02-23T15:00:25.717881+00:00", 483, "Your mother is", "expectable", "Similar to: expected", "Definition: to be expected", ""]}
