@@ -1,1 +1,1 @@
-{"data": ["2022-02-23T22:01:24.213304+00:00", 490, "Your mother is", "segregated", "Pronunciation: /\u02c8s\u025b\u0261r\u028c\u02cc\u0261e\u026at\u026ad/", "Definition: separated or isolated from others or a main group", "Synonyms: unintegrated"]}
+{"data": ["2022-02-23T23:01:01.162400+00:00", 491, "Your mother is", "finicky", "Pronunciation: /\u02c8f\u026an\u0259ki/", "Definition: exacting especially about details", "Synonyms: finical, fussy, particular, picky"]}
