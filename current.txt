@@ -1,1 +1,1 @@
-{"data": ["2022-02-23T12:00:40.385716+00:00", 480, "Your mother is", "stretch", "Pronunciation: /str\u025b\u02a7/", "Definition: easily stretched", ""]}
+{"data": ["2022-02-23T13:00:59.595020+00:00", 481, "Your mother is", "bewhiskered", "Pronunciation: /b\u026a\u02c8hw\u026ask\u0259rd/", "Definition: having hair on the cheeks and chin", "Synonyms: barbate, bearded, whiskered, whiskery"]}
