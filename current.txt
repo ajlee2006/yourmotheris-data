@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T02:01:36.073521+00:00", 494, "Your mother is", "unchallengeable", "Pronunciation: /\u0259n\u02c8t\u0283\u00e6l\u026and\u0292\u0259b\u0259l/", "Definition: not open to challenge", ""]}
+{"data": ["2022-02-24T03:00:47.828668+00:00", 495, "Your mother is", "decrepit", "Pronunciation: /d\u026a\u02c8kr\u025bp\u026at/", "Definition: lacking bodily or muscular strength or vitality", "Synonyms: debile, feeble, infirm, rickety, sapless, weak, weakly"]}
