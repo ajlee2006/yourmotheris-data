@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T06:00:42.566389+00:00", 498, "Your mother is", "pound-foolish", "Pronunciation: /\u02c8pa\u028and\u02c8ful\u026a\u0283/", "Definition: unwise in dealing with large sums", ""]}
+{"data": ["2022-02-24T07:01:15.399300+00:00", 499, "Your mother is", "disgusted", "Pronunciation: /d\u026as\u02c8\u0261\u028cst\u028cd/", "Definition: having a strong distaste from surfeit", "Synonyms: fed up, sick, sick of, tired of"]}
