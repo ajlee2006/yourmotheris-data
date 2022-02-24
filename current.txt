@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T20:01:15.039061+00:00", 512, "Your mother is", "self-whispered", "Similar to: inward", "Definition: as if whispered to yourself", ""]}
+{"data": ["2022-02-24T21:01:26.050639+00:00", 513, "Your mother is", "ill-dressed", "Similar to: ungroomed", "Definition: not well dressed", ""]}
