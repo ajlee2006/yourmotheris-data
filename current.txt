@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T18:00:54.459832+00:00", 510, "Your mother is", "opportune", "Pronunciation: /\u02cc\u0251p\u0259r\u02c8tun/", "Definition: suitable or at a time that is suitable or advantageous especially for a particular purpose", ""]}
+{"data": ["2022-02-24T19:01:30.766557+00:00", 511, "Your mother is", "wasp-waisted", "Pronunciation: /w\u0251sp-\u02c8we\u026ast\u026ad/", "Definition: having a small waist", "Synonyms: slender-waisted, slim-waisted"]}
