@@ -1,1 +1,1 @@
-{"data": ["2022-02-23T23:01:01.162400+00:00", 491, "Your mother is", "finicky", "Pronunciation: /\u02c8f\u026an\u0259ki/", "Definition: exacting especially about details", "Synonyms: finical, fussy, particular, picky"]}
+{"data": ["2022-02-24T00:02:10.441836+00:00", 492, "Your mother is", "subscript", "Pronunciation: /\u02c8s\u0259bskr\u026apt/", "Definition: written or printed below and to one side of another character", "Synonyms: inferior"]}
