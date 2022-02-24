@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T16:01:41.467754+00:00", 508, "Your mother is", "rumanian", "Pronunciation: /ru\u02c8me\u026ani\u0259n/", "Definition: of or relating to or characteristic of the country of Romania or its people or languages", "Synonyms: romanian, roumanian"]}
+{"data": ["2022-02-24T17:01:51.488157+00:00", 509, "Your mother is", "marred", "Pronunciation: /m\u0251rd/", "Definition: blemished by injury or rough wear", "Synonyms: scarred"]}
