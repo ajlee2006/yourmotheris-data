@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T09:01:29.622955+00:00", 501, "Your mother is", "monandrous", "Similar to: monogamous", "Definition: having only one husband at a time", ""]}
+{"data": ["2022-02-24T10:00:33.998878+00:00", 502, "Your mother is", "testate", "Pronunciation: /\u02c8t\u025bste\u026at/", "Definition: having made a legally valid will before death", ""]}
