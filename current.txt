@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T19:01:30.766557+00:00", 511, "Your mother is", "wasp-waisted", "Pronunciation: /w\u0251sp-\u02c8we\u026ast\u026ad/", "Definition: having a small waist", "Synonyms: slender-waisted, slim-waisted"]}
+{"data": ["2022-02-24T20:01:15.039061+00:00", 512, "Your mother is", "self-whispered", "Similar to: inward", "Definition: as if whispered to yourself", ""]}
