@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T04:01:04.734643+00:00", 496, "Your mother is", "thundering", "Pronunciation: /\u02c8\u03b8\u0259nd\u0259r\u026a\u014b/", "Definition: extraordinarily big or impressive", ""]}
+{"data": ["2022-02-24T05:01:15.144272+00:00", 497, "Your mother is", "pleonastic", "Similar to: prolix", "Definition: repetition of same sense in different words", "Synonyms: redundant, tautologic, tautological"]}
