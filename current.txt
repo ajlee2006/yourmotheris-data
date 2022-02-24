@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T10:00:33.998878+00:00", 502, "Your mother is", "testate", "Pronunciation: /\u02c8t\u025bste\u026at/", "Definition: having made a legally valid will before death", ""]}
+{"data": ["2022-02-24T11:00:38.395922+00:00", 503, "Your mother is", "abranchial", "Pronunciation: /e\u026a\u02c8br\u00e6\u014bki\u0259l/", "Definition: having no gills", "Synonyms: abranchiate, abranchious, gill-less"]}
