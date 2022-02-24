@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T01:01:08.334518+00:00", 493, "Your mother is", "self-absorbed", "Pronunciation: /s\u025blf-\u00e6b\u02c8s\u0254rbd/", "Definition: absorbed in your own interests or thoughts etc", "Synonyms: self-involved"]}
+{"data": ["2022-02-24T02:01:36.073521+00:00", 494, "Your mother is", "unchallengeable", "Pronunciation: /\u0259n\u02c8t\u0283\u00e6l\u026and\u0292\u0259b\u0259l/", "Definition: not open to challenge", ""]}
