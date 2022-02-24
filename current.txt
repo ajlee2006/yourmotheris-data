@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T15:01:02.780114+00:00", 507, "Your mother is", "celibate", "Pronunciation: /\u02c8s\u025bl\u0259b\u026at/", "Definition: abstaining from sexual intercourse", "Synonyms: continent"]}
+{"data": ["2022-02-24T16:01:41.467754+00:00", 508, "Your mother is", "rumanian", "Pronunciation: /ru\u02c8me\u026ani\u0259n/", "Definition: of or relating to or characteristic of the country of Romania or its people or languages", "Synonyms: romanian, roumanian"]}
