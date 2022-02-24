@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T00:02:10.441836+00:00", 492, "Your mother is", "subscript", "Pronunciation: /\u02c8s\u0259bskr\u026apt/", "Definition: written or printed below and to one side of another character", "Synonyms: inferior"]}
+{"data": ["2022-02-24T01:01:08.334518+00:00", 493, "Your mother is", "self-absorbed", "Pronunciation: /s\u025blf-\u00e6b\u02c8s\u0254rbd/", "Definition: absorbed in your own interests or thoughts etc", "Synonyms: self-involved"]}
