@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T05:01:15.144272+00:00", 497, "Your mother is", "pleonastic", "Similar to: prolix", "Definition: repetition of same sense in different words", "Synonyms: redundant, tautologic, tautological"]}
+{"data": ["2022-02-24T06:00:42.566389+00:00", 498, "Your mother is", "pound-foolish", "Pronunciation: /\u02c8pa\u028and\u02c8ful\u026a\u0283/", "Definition: unwise in dealing with large sums", ""]}
