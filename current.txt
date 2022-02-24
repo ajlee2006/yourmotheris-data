@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T17:01:51.488157+00:00", 509, "Your mother is", "marred", "Pronunciation: /m\u0251rd/", "Definition: blemished by injury or rough wear", "Synonyms: scarred"]}
+{"data": ["2022-02-24T18:00:54.459832+00:00", 510, "Your mother is", "opportune", "Pronunciation: /\u02cc\u0251p\u0259r\u02c8tun/", "Definition: suitable or at a time that is suitable or advantageous especially for a particular purpose", ""]}
