@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T12:00:55.984132+00:00", 504, "Your mother is", "flagrant", "Pronunciation: /\u02c8fle\u026agr\u0259nt/", "Definition: conspicuously and outrageously bad or reprehensible", "Synonyms: crying, egregious, glaring, gross, rank"]}
+{"data": ["2022-02-24T13:01:24.674823+00:00", 505, "Your mother is", "idiotic", "Pronunciation: /\u02cc\u026adi\u02c8\u0251t\u026ak/", "Definition: insanely irresponsible", "Synonyms: crackbrained"]}
