@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T08:01:38.984607+00:00", 500, "Your mother is", "old", "Pronunciation: /o\u028ald/", "Definition: skilled through long experience", "Synonyms: older"]}
+{"data": ["2022-02-24T09:01:29.622955+00:00", 501, "Your mother is", "monandrous", "Similar to: monogamous", "Definition: having only one husband at a time", ""]}
