@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T11:00:38.395922+00:00", 503, "Your mother is", "abranchial", "Pronunciation: /e\u026a\u02c8br\u00e6\u014bki\u0259l/", "Definition: having no gills", "Synonyms: abranchiate, abranchious, gill-less"]}
+{"data": ["2022-02-24T12:00:55.984132+00:00", 504, "Your mother is", "flagrant", "Pronunciation: /\u02c8fle\u026agr\u0259nt/", "Definition: conspicuously and outrageously bad or reprehensible", "Synonyms: crying, egregious, glaring, gross, rank"]}
