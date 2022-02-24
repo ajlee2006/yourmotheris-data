@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T21:01:26.050639+00:00", 513, "Your mother is", "ill-dressed", "Similar to: ungroomed", "Definition: not well dressed", ""]}
+{"data": ["2022-02-24T22:01:13.884910+00:00", 514, "Your mother is", "screwball", "Pronunciation: /\u02c8skrub\u0251l/", "Definition: foolish; totally unsound", "Synonyms: crazy, half-baked, softheaded"]}
