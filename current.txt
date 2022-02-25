@@ -1,1 +1,1 @@
-{"data": ["2022-02-25T18:01:12.103791+00:00", 534, "Your mother is", "immunologic", "Pronunciation: /\u026a\u02ccmju\u02c8n\u0259l\u0251d\u0292\u026ak/", "Definition: of or relating to immunology", "Synonyms: immunological"]}
+{"data": ["2022-02-25T19:01:21.602909+00:00", 535, "Your mother is", "la-di-da", "Pronunciation: /\u02c8l\u0251di-\u02c8d\u0251/", "Definition: affectedly genteel", "Synonyms: grandiose, hifalutin, highfalutin, highfaluting, hoity-toity"]}
