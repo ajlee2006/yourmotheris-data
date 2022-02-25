@@ -1,1 +1,1 @@
-{"data": ["2022-02-25T15:00:47.605153+00:00", 531, "Your mother is", "dionysian", "Pronunciation: /\u02ccda\u026a\u0259\u02c8n\u026a\u0283\u0259n/", "Definition: of or relating to or worshipping Dionysus", ""]}
+{"data": ["2022-02-25T16:00:37.061066+00:00", 532, "Your mother is", "unrhythmical", "Similar to: arrhythmic", "Definition: not rhythmic; irregular in beat or accent", "Synonyms: unrhythmic"]}
