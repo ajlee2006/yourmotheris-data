@@ -1,1 +1,1 @@
-{"data": ["2022-02-25T06:01:21.790773+00:00", 522, "Your mother is", "leptorrhine", "Pronunciation: /\u02c8l\u025bpt\u0259\u02ccra\u026an/", "Definition: having a long narrow nose", "Synonyms: leptorhine, leptorrhinian, leptorrhinic"]}
+{"data": ["2022-02-25T07:00:46.632702+00:00", 523, "Your mother is", "long-lasting", "Pronunciation: /l\u0254\u014b-\u02c8l\u00e6st\u026a\u014b/", "Definition: existing for a long time", "Synonyms: durable, lasting, long-lived"]}
