@@ -1,1 +1,1 @@
-{"data": ["2022-02-25T20:00:52.044282+00:00", 536, "Your mother is", "straightaway", "Pronunciation: /\u02c8stre\u026at\u0259\u02ccwe\u026a/", "Definition: performed with little or no delay", "Synonyms: immediate, prompt, quick"]}
+{"data": ["2022-02-25T21:00:19.301025+00:00", 537, "Your mother is", "pilose", "Pronunciation: /\u02c8pa\u026alo\u028as/", "Definition: covered with hairs especially fine soft ones", "Synonyms: pilary, pilous"]}
