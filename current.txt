@@ -1,1 +1,1 @@
-{"data": ["2022-02-25T12:01:16.714926+00:00", 528, "Your mother is", "awestricken", "Pronunciation: /\u02c8\u0254\u02ccstr\u026ak\u0259n/", "Definition: having or showing a feeling of mixed reverence and respect and wonder and dread", "Synonyms: awed, awestruck"]}
+{"data": ["2022-02-25T13:00:47.087518+00:00", 529, "Your mother is", "ratable", "Pronunciation: /\u02c8re\u026at\u0259b\u0259l/", "Definition: liable to payment of locally assessed property taxes", "Synonyms: rateable"]}
