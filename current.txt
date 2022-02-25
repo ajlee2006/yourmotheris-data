@@ -1,1 +1,1 @@
-{"data": ["2022-02-25T19:01:21.602909+00:00", 535, "Your mother is", "la-di-da", "Pronunciation: /\u02c8l\u0251di-\u02c8d\u0251/", "Definition: affectedly genteel", "Synonyms: grandiose, hifalutin, highfalutin, highfaluting, hoity-toity"]}
+{"data": ["2022-02-25T20:00:52.044282+00:00", 536, "Your mother is", "straightaway", "Pronunciation: /\u02c8stre\u026at\u0259\u02ccwe\u026a/", "Definition: performed with little or no delay", "Synonyms: immediate, prompt, quick"]}
