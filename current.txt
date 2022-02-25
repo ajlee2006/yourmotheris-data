@@ -1,1 +1,1 @@
-{"data": ["2022-02-24T23:00:39.040374+00:00", 515, "Your mother is", "ruthless", "Pronunciation: /\u02c8ru\u03b8l\u026as/", "Definition: without mercy or pity", "Synonyms: pitiless, remorseless, unpitying"]}
+{"data": ["2022-02-25T00:01:15.290948+00:00", 516, "Your mother is", "unretentive", "", "Definition: (of memory) deficient in retentiveness or range", "Synonyms: forgetful, short"]}
