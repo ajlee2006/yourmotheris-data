@@ -1,1 +1,1 @@
-{"data": ["2022-02-26T17:00:56.644934+00:00", 557, "Your mother is", "quicksilver", "Pronunciation: /\u02c8kw\u026ak\u02ccs\u026alv\u0259r/", "Definition: liable to sudden unpredictable change", "Synonyms: erratic, fickle, mercurial"]}
+{"data": ["2022-02-26T18:00:34.100993+00:00", 558, "Your mother is", "water-soluble", "Pronunciation: /\u02c8w\u0254t\u0259r-\u02c8s\u0251lj\u0259b\u0259l/", "Definition: soluble in water", ""]}
