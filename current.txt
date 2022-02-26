@@ -1,1 +1,1 @@
-{"data": ["2022-02-26T02:00:59.033877+00:00", 542, "Your mother is", "mown", "Similar to: new-mown", "Definition: (used of grass or vegetation) cut down with a hand implement or machine", "Synonyms: cut"]}
+{"data": ["2022-02-26T03:00:46.882047+00:00", 543, "Your mother is", "olive-coloured", "Similar to: colored", "Definition: having the color of green olives", "Synonyms: olive-colored"]}
