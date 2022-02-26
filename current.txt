@@ -1,1 +1,1 @@
-{"data": ["2022-02-26T05:02:10.763011+00:00", 545, "Your mother is", "umbelliferous", "Pronunciation: /\u02cc\u0259mb\u0259\u02c8l\u026af\u0259r\u0259s/", "Definition: relating to or belonging to plants of the family Umbelliferae", ""]}
+{"data": ["2022-02-26T06:00:22.290504+00:00", 546, "Your mother is", "yellow-banded", "Pronunciation: /\u02c8j\u025blo\u028a-\u02c8b\u00e6nd\u026ad/", "Definition: having yellow bands", ""]}
