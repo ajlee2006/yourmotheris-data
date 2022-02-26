@@ -1,1 +1,1 @@
-{"data": ["2022-02-26T04:01:39.085546+00:00", 544, "Your mother is", "runny", "Pronunciation: /\u02c8r\u0259ni/", "Definition: characteristic of a fluid; capable of flowing and easily changing shape", "Synonyms: fluid"]}
+{"data": ["2022-02-26T05:02:10.763011+00:00", 545, "Your mother is", "umbelliferous", "Pronunciation: /\u02cc\u0259mb\u0259\u02c8l\u026af\u0259r\u0259s/", "Definition: relating to or belonging to plants of the family Umbelliferae", ""]}
