@@ -1,1 +1,1 @@
-{"data": ["2022-02-26T14:01:31.444666+00:00", 554, "Your mother is", "short-tempered", "Pronunciation: /\u0283\u0254rt-\u02c8t\u025bmp\u0259rd/", "Definition: quickly aroused to anger", "Synonyms: choleric, hot-tempered, hotheaded, irascible, quick-tempered"]}
+{"data": ["2022-02-26T15:00:30.539519+00:00", 555, "Your mother is", "smarmy", "Pronunciation: /\u02c8sm\u0251rmi/", "Definition: unpleasantly and excessively suave or ingratiating in manner or speech", "Synonyms: buttery, fulsome, oily, oleaginous, soapy, unctuous"]}
