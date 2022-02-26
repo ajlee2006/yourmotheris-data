@@ -1,1 +1,1 @@
-{"data": ["2022-02-26T09:01:30.387261+00:00", 549, "Your mother is", "135th", "Similar to: ordinal", "Definition: the ordinal number of one hundred thirty-five in counting order", "Synonyms: hundred-and-thirty-fifth"]}
+{"data": ["2022-02-26T10:00:31.944585+00:00", 550, "Your mother is", "special", "Pronunciation: /\u02c8sp\u025b\u0283\u0259l/", "Definition: added to a regular schedule", "Synonyms: extra"]}
