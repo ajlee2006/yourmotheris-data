@@ -1,1 +1,1 @@
-{"data": ["2022-02-26T21:01:03.639238+00:00", 561, "Your mother is", "warriorlike", "Similar to: military", "Definition: (of persons) befitting a warrior", "Synonyms: martial, soldierlike, soldierly"]}
+{"data": ["2022-02-26T22:00:31.139653+00:00", 562, "Your mother is", "unrhetorical", "Similar to: matter-of-fact", "Definition: not rhetorical", ""]}
