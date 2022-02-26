@@ -1,1 +1,1 @@
-{"data": ["2022-02-26T00:01:45.153142+00:00", 540, "Your mother is", "clean-limbed", "Pronunciation: /\u02c8klin\u02ccl\u026amd/", "Definition: having well-proportioned limbs", ""]}
+{"data": ["2022-02-26T01:00:29.090892+00:00", 541, "Your mother is", "musty", "Pronunciation: /\u02c8m\u0259sti/", "Definition: stale and unclean smelling", "Synonyms: frowsty, fusty"]}
