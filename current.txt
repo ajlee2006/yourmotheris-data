@@ -1,1 +1,1 @@
-{"data": ["2022-02-26T12:00:22.294946+00:00", 552, "Your mother is", "mathematical", "Pronunciation: /\u02ccm\u00e6\u03b8\u0259\u02c8m\u00e6t\u026ak\u0259l/", "Definition: relating to or having ability to think in or work with numbers", "Synonyms: numerical"]}
+{"data": ["2022-02-26T13:00:35.877775+00:00", 553, "Your mother is", "reniform", "Pronunciation: /\u02c8r\u025bn\u0259\u02ccf\u0254rm/", "Definition: (of a leaf or bean shape) resembling the shape of kidney", "Synonyms: kidney-shaped"]}
