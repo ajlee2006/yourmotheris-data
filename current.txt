@@ -1,1 +1,1 @@
-{"data": ["2022-02-26T06:00:22.290504+00:00", 546, "Your mother is", "yellow-banded", "Pronunciation: /\u02c8j\u025blo\u028a-\u02c8b\u00e6nd\u026ad/", "Definition: having yellow bands", ""]}
+{"data": ["2022-02-26T07:00:59.603698+00:00", 547, "Your mother is", "offshore", "Pronunciation: /\u02c8\u0254f\u02c8\u0283o\u028ar/", "Definition: (of winds) coming from the land", "Synonyms: seaward"]}
