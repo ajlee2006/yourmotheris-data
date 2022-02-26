@@ -1,1 +1,1 @@
-{"data": ["2022-02-26T15:00:30.539519+00:00", 555, "Your mother is", "smarmy", "Pronunciation: /\u02c8sm\u0251rmi/", "Definition: unpleasantly and excessively suave or ingratiating in manner or speech", "Synonyms: buttery, fulsome, oily, oleaginous, soapy, unctuous"]}
+{"data": ["2022-02-26T16:00:19.733940+00:00", 556, "Your mother is", "class-conscious", "Pronunciation: /kl\u00e6s-\u02c8k\u0251n\u0283\u0259s/", "Definition: (used of society) socially hierarchical", "Synonyms: stratified"]}
