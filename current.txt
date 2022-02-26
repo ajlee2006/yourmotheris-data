@@ -1,1 +1,1 @@
-{"data": ["2022-02-26T07:00:59.603698+00:00", 547, "Your mother is", "offshore", "Pronunciation: /\u02c8\u0254f\u02c8\u0283o\u028ar/", "Definition: (of winds) coming from the land", "Synonyms: seaward"]}
+{"data": ["2022-02-26T08:00:19.679488+00:00", 548, "Your mother is", "self-reliant", "Pronunciation: /s\u025blf-r\u026a\u02c8la\u026a\u0259nt/", "Definition: (of persons) free from external control and constraint in e.g. action and judgment", "Synonyms: autonomous, self-directed"]}
