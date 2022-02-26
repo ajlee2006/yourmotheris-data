@@ -1,1 +1,1 @@
-{"data": ["2022-02-26T01:00:29.090892+00:00", 541, "Your mother is", "musty", "Pronunciation: /\u02c8m\u0259sti/", "Definition: stale and unclean smelling", "Synonyms: frowsty, fusty"]}
+{"data": ["2022-02-26T02:00:59.033877+00:00", 542, "Your mother is", "mown", "Similar to: new-mown", "Definition: (used of grass or vegetation) cut down with a hand implement or machine", "Synonyms: cut"]}
