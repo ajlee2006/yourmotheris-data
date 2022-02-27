@@ -1,1 +1,1 @@
-{"data": ["2022-02-26T23:00:52.061288+00:00", 563, "Your mother is", "communal", "Pronunciation: /k\u0259\u02c8mjun\u0259l/", "Definition: for or by a group rather than individuals", ""]}
+{"data": ["2022-02-27T00:05:28.316873+00:00", 564, "Your mother is", "assonant", "Similar to: same", "Definition: having the same sound (especially the same vowel sound) occurring in successive stressed syllables", ""]}
