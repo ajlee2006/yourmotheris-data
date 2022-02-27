@@ -1,1 +1,1 @@
-{"data": ["2022-02-27T00:05:28.316873+00:00", 564, "Your mother is", "assonant", "Similar to: same", "Definition: having the same sound (especially the same vowel sound) occurring in successive stressed syllables", ""]}
+{"data": ["2022-02-27T01:01:05.190575+00:00", 565, "Your mother is", "curly-coated", "Pronunciation: /\u02c8k\u025crli-\u02c8ko\u028at\u026ad/", "Definition: covered with curly hair", "Synonyms: curly-haired"]}
