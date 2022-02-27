@@ -1,1 +1,1 @@
-{"data": ["2022-02-27T03:01:15.602373+00:00", 567, "Your mother is", "half-baked", "Pronunciation: /\u02c8h\u00e6f\u02c8be\u026akt/", "Definition: foolish; totally unsound", "Synonyms: crazy, screwball, softheaded"]}
+{"data": ["2022-02-27T04:01:05.853803+00:00", 568, "Your mother is", "dreamless", "Similar to: untroubled", "Definition: untroubled by dreams", ""]}
