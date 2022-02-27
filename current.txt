@@ -1,1 +1,1 @@
-{"data": ["2022-02-27T16:01:34.046868+00:00", 579, "Your mother is", "low-voltage", "Pronunciation: /lo\u028a-\u02c8vo\u028alt\u026ad\u0292/", "Definition: subjected to or capable of operating under relative low voltage", "Synonyms: low-tension"]}
+{"data": ["2022-02-27T17:01:05.166902+00:00", 580, "Your mother is", "brassbound", "Pronunciation: /\u02c8br\u00e6s\u02c8ba\u028and/", "Definition: inflexibly entrenched and unchangeable", "Synonyms: ironclad"]}
