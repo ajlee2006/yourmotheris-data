@@ -1,1 +1,1 @@
-{"data": ["2022-02-27T20:01:05.215526+00:00", 583, "Your mother is", "disquieting", "Pronunciation: /d\u026as\u02c8kwa\u026a\u026at\u026a\u014b/", "Definition: causing mental discomfort", ""]}
+{"data": ["2022-02-27T21:01:00.446436+00:00", 584, "Your mother is", "volute", "Pronunciation: /v\u0259\u02c8ljut/", "Definition: in the shape of a coil", "Synonyms: coiling, helical, spiral, spiraling, turbinate, voluted, whorled"]}
