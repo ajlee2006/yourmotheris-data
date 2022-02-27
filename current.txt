@@ -1,1 +1,1 @@
-{"data": ["2022-02-27T05:01:34.006577+00:00", 569, "Your mother is", "sulfuretted", "", "Definition: treated or impregnated with sulfur", "Synonyms: sulfurized, sulphuretted"]}
+{"data": ["2022-02-27T06:01:20.747795+00:00", 570, "Your mother is", "approved", "Pronunciation: /\u028c\u02c8pruvd/", "Definition: established by authority; given authoritative approval", "Synonyms: sanctioned"]}
