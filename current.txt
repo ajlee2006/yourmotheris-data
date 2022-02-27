@@ -1,1 +1,1 @@
-{"data": ["2022-02-27T19:01:23.594990+00:00", 582, "Your mother is", "ill-sorted", "Pronunciation: /\u02c8\u026al\u02c8s\u0254rt\u026ad/", "Definition: not easy to combine harmoniously", "Synonyms: incompatible, mismated, unsuited"]}
+{"data": ["2022-02-27T20:01:05.215526+00:00", 583, "Your mother is", "disquieting", "Pronunciation: /d\u026as\u02c8kwa\u026a\u026at\u026a\u014b/", "Definition: causing mental discomfort", ""]}
