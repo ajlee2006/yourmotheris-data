@@ -1,1 +1,1 @@
-{"data": ["2022-02-27T01:01:05.190575+00:00", 565, "Your mother is", "curly-coated", "Pronunciation: /\u02c8k\u025crli-\u02c8ko\u028at\u026ad/", "Definition: covered with curly hair", "Synonyms: curly-haired"]}
+{"data": ["2022-02-27T02:01:30.614550+00:00", 566, "Your mother is", "cultivated", "Pronunciation: /\u02c8k\u0259lt\u0259\u02ccve\u026at\u026ad/", "Definition: marked by refinement in taste and manners", "Synonyms: civilised, civilized, cultured, genteel, polite"]}
