@@ -1,1 +1,1 @@
-{"data": ["2022-02-27T10:01:02.598857+00:00", 574, "Your mother is", "agonizing", "Pronunciation: /\u02c8\u00e6\u0261\u0259\u02ccna\u026az\u026a\u014b/", "Definition: extremely painful", "Synonyms: agonising, excruciating, harrowing, torturesome, torturing, torturous"]}
+{"data": ["2022-02-27T12:01:22.770729+00:00", 575, "Your mother is", "bawdy", "Pronunciation: /\u02c8b\u0254di/", "Definition: humorously vulgar", "Synonyms: off-color, ribald"]}
