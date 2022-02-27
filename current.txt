@@ -1,1 +1,1 @@
-{"data": ["2022-02-27T15:00:24.282170+00:00", 578, "Your mother is", "omnipotent", "Pronunciation: /\u0251m\u02c8n\u026ap\u0259t\u0259nt/", "Definition: having unlimited power", "Synonyms: all-powerful, almighty"]}
+{"data": ["2022-02-27T16:01:34.046868+00:00", 579, "Your mother is", "low-voltage", "Pronunciation: /lo\u028a-\u02c8vo\u028alt\u026ad\u0292/", "Definition: subjected to or capable of operating under relative low voltage", "Synonyms: low-tension"]}
