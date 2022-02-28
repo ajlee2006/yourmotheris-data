@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T14:01:23.907381+00:00", 601, "Your mother is", "unrequited", "Pronunciation: /\u02cc\u0259nri\u02c8kwa\u026at\u026ad/", "Definition: not returned in kind", "Synonyms: unanswered, unreciprocated"]}
+{"data": ["2022-02-28T15:01:14.427453+00:00", 602, "Your mother is", "outward-bound", "Pronunciation: /\u02c8a\u028atw\u0259rd-ba\u028and/", "Definition: that is going out or leaving", "Synonyms: outbound, outward"]}
