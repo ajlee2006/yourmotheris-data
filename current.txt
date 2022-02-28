@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T04:00:47.752135+00:00", 591, "Your mother is", "gullible", "Pronunciation: /\u02c8\u0261\u0259l\u0259b\u0259l/", "Definition: naive and easily deceived or tricked", "Synonyms: fleeceable, green"]}
+{"data": ["2022-02-28T05:00:56.560710+00:00", 592, "Your mother is", "nontechnical", "Pronunciation: /n\u0251n\u02c8t\u025bkn\u026ak\u028cl/", "Definition: not characteristic of or skilled in applied arts and sciences", "Synonyms: untechnical"]}
