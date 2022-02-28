@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T03:00:42.044840+00:00", 590, "Your mother is", "araneidan", "", "Definition: relating to or resembling a spider", "Synonyms: araneidal"]}
+{"data": ["2022-02-28T04:00:47.752135+00:00", 591, "Your mother is", "gullible", "Pronunciation: /\u02c8\u0261\u0259l\u0259b\u0259l/", "Definition: naive and easily deceived or tricked", "Synonyms: fleeceable, green"]}
