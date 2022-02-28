@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T13:01:15.295379+00:00", 600, "Your mother is", "manlike", "Pronunciation: /\u02c8m\u00e6n\u02ccla\u026ak/", "Definition: possessing qualities befitting a man", "Synonyms: manful, manly"]}
+{"data": ["2022-02-28T14:01:23.907381+00:00", 601, "Your mother is", "unrequited", "Pronunciation: /\u02cc\u0259nri\u02c8kwa\u026at\u026ad/", "Definition: not returned in kind", "Synonyms: unanswered, unreciprocated"]}
