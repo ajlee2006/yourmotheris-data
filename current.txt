@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T19:01:34.786778+00:00", 606, "Your mother is", "perfervid", "Pronunciation: /p\u0259r\u02c8f\u025crv\u026ad/", "Definition: characterized by intense emotion", "Synonyms: ardent, fervent, fervid, fiery, impassioned, torrid"]}
+{"data": ["2022-02-28T20:01:02.127900+00:00", 607, "Your mother is", "atheistic", "Pronunciation: /\u02cce\u026a\u03b8i\u02c8\u026ast\u026ak/", "Definition: rejecting any belief in gods", "Synonyms: atheistical, unbelieving"]}
