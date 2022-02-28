@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T21:01:31.373404+00:00", 608, "Your mother is", "paired", "Pronunciation: /p\u025brd/", "Definition: occurring in pairs or as a pair", "Synonyms: mated"]}
+{"data": ["2022-02-28T22:01:12.523849+00:00", 609, "Your mother is", "combative", "Pronunciation: /k\u0259m\u02c8b\u00e6t\u026av/", "Definition: striving to overcome in argument", "Synonyms: agonistic, agonistical"]}
