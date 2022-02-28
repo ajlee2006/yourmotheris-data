@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T16:01:07.400835+00:00", 603, "Your mother is", "maroon", "Pronunciation: /m\u0259\u02c8run/", "Definition: of dark brownish to purplish red", "Synonyms: brownish-red"]}
+{"data": ["2022-02-28T17:01:18.676102+00:00", 604, "Your mother is", "fortissimo", "Pronunciation: /f\u0254r\u02c8t\u026as\u0259\u02ccmo\u028a/", "Definition: (chiefly a direction or description in music) very loud and strong", ""]}
