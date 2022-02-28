@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T20:01:02.127900+00:00", 607, "Your mother is", "atheistic", "Pronunciation: /\u02cce\u026a\u03b8i\u02c8\u026ast\u026ak/", "Definition: rejecting any belief in gods", "Synonyms: atheistical, unbelieving"]}
+{"data": ["2022-02-28T21:01:31.373404+00:00", 608, "Your mother is", "paired", "Pronunciation: /p\u025brd/", "Definition: occurring in pairs or as a pair", "Synonyms: mated"]}
