@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T07:01:34.562290+00:00", 594, "Your mother is", "antenuptial", "Pronunciation: /\u02cc\u00e6nti\u02c8n\u0259p\u0283\u0259l/", "Definition: relating to events before a marriage", "Synonyms: premarital, prenuptial"]}
+{"data": ["2022-02-28T08:00:50.333864+00:00", 595, "Your mother is", "clamant", "Pronunciation: /\u02c8kle\u026am\u0259nt/", "Definition: demanding attention", "Synonyms: crying, exigent, insistent, instant"]}
