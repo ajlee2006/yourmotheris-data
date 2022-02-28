@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T15:01:14.427453+00:00", 602, "Your mother is", "outward-bound", "Pronunciation: /\u02c8a\u028atw\u0259rd-ba\u028and/", "Definition: that is going out or leaving", "Synonyms: outbound, outward"]}
+{"data": ["2022-02-28T16:01:07.400835+00:00", 603, "Your mother is", "maroon", "Pronunciation: /m\u0259\u02c8run/", "Definition: of dark brownish to purplish red", "Synonyms: brownish-red"]}
