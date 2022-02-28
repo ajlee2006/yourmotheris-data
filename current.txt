@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T18:00:17.711925+00:00", 605, "Your mother is", "ameboid", "Pronunciation: /\u0259\u02c8mib\u0254\u026ad/", "Definition: like an amoeba (especially in having a variable irregular shape)", "Synonyms: amoeboid"]}
+{"data": ["2022-02-28T19:01:34.786778+00:00", 606, "Your mother is", "perfervid", "Pronunciation: /p\u0259r\u02c8f\u025crv\u026ad/", "Definition: characterized by intense emotion", "Synonyms: ardent, fervent, fervid, fiery, impassioned, torrid"]}
