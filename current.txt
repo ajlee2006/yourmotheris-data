@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T09:01:25.535428+00:00", 596, "Your mother is", "unattractive", "Pronunciation: /\u02cc\u0259n\u0259\u02c8tr\u00e6kt\u026av/", "Definition: not appealing to the senses", "Synonyms: untempting"]}
+{"data": ["2022-02-28T10:01:14.828220+00:00", 597, "Your mother is", "onomatopoetic", "Pronunciation: /\u02cc\u0251n\u0259\u02ccm\u00e6t\u0259p\u0254\u026a\u02c8\u025bt\u026ak/", "Definition: (of words) formed in imitation of a natural sound", "Synonyms: echoic, imitative, onomatopoeic, onomatopoeical"]}
