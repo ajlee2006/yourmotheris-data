@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T22:01:12.523849+00:00", 609, "Your mother is", "combative", "Pronunciation: /k\u0259m\u02c8b\u00e6t\u026av/", "Definition: striving to overcome in argument", "Synonyms: agonistic, agonistical"]}
+{"data": ["2022-02-28T23:00:58.764027+00:00", 610, "Your mother is", "concrete", "Pronunciation: /\u02c8k\u0251nkrit/", "Definition: capable of being perceived by the senses; not abstract or imaginary", ""]}
