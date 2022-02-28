@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T01:01:15.362840+00:00", 588, "Your mother is", "raucous", "Pronunciation: /\u02c8r\u0254k\u0259s/", "Definition: disturbing the public peace; loud and rough", "Synonyms: rowdy"]}
+{"data": ["2022-02-28T02:00:56.236655+00:00", 589, "Your mother is", "gonzo", "Pronunciation: /\u02c8\u0261\u0251nzo\u028a/", "Definition: conspicuously or grossly unconventional or unusual", "Synonyms: bizarre, eccentric, flakey, flaky, freakish, freaky, off-the-wall, outlandish, outre"]}
