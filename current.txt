@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T06:00:18.530649+00:00", 593, "Your mother is", "complemental", "Pronunciation: /\u02cck\u0251mpl\u0259\u02c8m\u025bnt\u0259l/", "Definition: acting as or providing a complement (something that completes the whole)", "Synonyms: complementary, completing"]}
+{"data": ["2022-02-28T07:01:34.562290+00:00", 594, "Your mother is", "antenuptial", "Pronunciation: /\u02cc\u00e6nti\u02c8n\u0259p\u0283\u0259l/", "Definition: relating to events before a marriage", "Synonyms: premarital, prenuptial"]}
