@@ -1,1 +1,1 @@
-{"data": ["2022-03-01T10:01:22.414582+00:00", 621, "Your mother is", "arboraceous", "Pronunciation: /\u02cc\u0251rb\u0259\u02c8re\u026a\u0283\u0259s/", "Definition: abounding in trees", "Synonyms: arboreous, woodsy, woody"]}
+{"data": ["2022-03-01T11:01:39.786844+00:00", 622, "Your mother is", "schizophrenic", "Pronunciation: /\u02ccsk\u026ats\u0259\u02c8fr\u025bn\u026ak/", "Definition: of or relating to or characteristic of schizophrenia", "Synonyms: schizoid"]}
