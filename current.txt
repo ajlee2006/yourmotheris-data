@@ -1,1 +1,1 @@
-{"data": ["2022-03-01T11:01:39.786844+00:00", 622, "Your mother is", "schizophrenic", "Pronunciation: /\u02ccsk\u026ats\u0259\u02c8fr\u025bn\u026ak/", "Definition: of or relating to or characteristic of schizophrenia", "Synonyms: schizoid"]}
+{"data": ["2022-03-01T12:01:01.664587+00:00", 623, "Your mother is", "scratchy", "Pronunciation: /\u02c8skr\u00e6\u02a7i/", "Definition: causing abrasion", "Synonyms: abrasive"]}
