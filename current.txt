@@ -1,1 +1,1 @@
-{"data": ["2022-03-01T07:00:59.744905+00:00", 618, "Your mother is", "ink-black", "Pronunciation: /\u026a\u014bk-bl\u00e6k/", "Definition: of the color of black ink", "Synonyms: inky, inky-black"]}
+{"data": ["2022-03-01T08:01:31.955234+00:00", 619, "Your mother is", "then", "Pronunciation: /\u00f0\u025bn/", "Definition: at a specific prior time", ""]}
