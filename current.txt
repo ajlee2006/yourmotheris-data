@@ -1,1 +1,1 @@
-{"data": ["2022-03-01T12:01:01.664587+00:00", 623, "Your mother is", "scratchy", "Pronunciation: /\u02c8skr\u00e6\u02a7i/", "Definition: causing abrasion", "Synonyms: abrasive"]}
+{"data": ["2022-03-01T13:00:57.454560+00:00", 624, "Your mother is", "electropositive", "Pronunciation: /\u026a\u02ccl\u025bktr\u0259\u02c8p\u0251z\u026at\u026av/", "Definition: having a positive charge", "Synonyms: positive, positively charged"]}
