@@ -1,1 +1,1 @@
-{"data": ["2022-03-01T18:01:24.927186+00:00", 629, "Your mother is", "unaccompanied", "Pronunciation: /\u02cc\u0259n\u0259\u02c8k\u0259mp\u0259nid/", "Definition: being without an escort", ""]}
+{"data": ["2022-03-01T19:01:11.799080+00:00", 630, "Your mother is", "almond-eyed", "Pronunciation: /\u02c8\u0251m\u0259nd\u02cca\u026ad/", "Definition: having almond-shaped eyes", ""]}
