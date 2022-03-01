@@ -1,1 +1,1 @@
-{"data": ["2022-03-01T19:01:11.799080+00:00", 630, "Your mother is", "almond-eyed", "Pronunciation: /\u02c8\u0251m\u0259nd\u02cca\u026ad/", "Definition: having almond-shaped eyes", ""]}
+{"data": ["2022-03-01T20:00:49.548178+00:00", 631, "Your mother is", "planless", "Similar to: purposeless", "Definition: aimlessly drifting", "Synonyms: adrift, afloat, aimless, directionless, rudderless, undirected"]}
