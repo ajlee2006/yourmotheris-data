@@ -1,1 +1,1 @@
-{"data": ["2022-03-01T14:01:16.663451+00:00", 625, "Your mother is", "incorporate", "Pronunciation: /\u026an\u02c8k\u0254rp\u0259r\u026at/", "Definition: formed or united into a whole", "Synonyms: incorporated, integrated, merged, unified"]}
+{"data": ["2022-03-01T15:01:15.579245+00:00", 626, "Your mother is", "mistrustful", "Pronunciation: /m\u026as\u02c8tr\u0259stf\u0259l/", "Definition: openly distrustful and unwilling to confide", "Synonyms: leery, suspicious, untrusting, wary"]}
