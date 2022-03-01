@@ -1,1 +1,1 @@
-{"data": ["2022-02-28T23:00:58.764027+00:00", 610, "Your mother is", "concrete", "Pronunciation: /\u02c8k\u0251nkrit/", "Definition: capable of being perceived by the senses; not abstract or imaginary", ""]}
+{"data": ["2022-03-01T00:02:08.272364+00:00", 611, "Your mother is", "neurotic", "Pronunciation: /n\u028a\u02c8r\u0251t\u026ak/", "Definition: affected with emotional disorder", "Synonyms: psychoneurotic"]}
