@@ -1,1 +1,1 @@
-{"data": ["2022-03-01T09:01:31.257295+00:00", 620, "Your mother is", "innumerous", "Similar to: incalculable", "Definition: too numerous to be counted", "Synonyms: countless, infinite, innumerable, multitudinous, myriad, numberless, uncounted, unnumberable, unnumbered, unnumerable"]}
+{"data": ["2022-03-01T10:01:22.414582+00:00", 621, "Your mother is", "arboraceous", "Pronunciation: /\u02cc\u0251rb\u0259\u02c8re\u026a\u0283\u0259s/", "Definition: abounding in trees", "Synonyms: arboreous, woodsy, woody"]}
