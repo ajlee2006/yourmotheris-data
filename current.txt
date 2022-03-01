@@ -1,1 +1,1 @@
-{"data": ["2022-03-01T15:01:15.579245+00:00", 626, "Your mother is", "mistrustful", "Pronunciation: /m\u026as\u02c8tr\u0259stf\u0259l/", "Definition: openly distrustful and unwilling to confide", "Synonyms: leery, suspicious, untrusting, wary"]}
+{"data": ["2022-03-01T16:01:03.197211+00:00", 627, "Your mother is", "posh", "Pronunciation: /p\u0251\u0283/", "Definition: elegant and fashionable", "Synonyms: classy, swish"]}
