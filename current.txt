@@ -1,1 +1,1 @@
-{"data": ["2022-03-01T16:01:03.197211+00:00", 627, "Your mother is", "posh", "Pronunciation: /p\u0251\u0283/", "Definition: elegant and fashionable", "Synonyms: classy, swish"]}
+{"data": ["2022-03-01T17:00:37.798568+00:00", 628, "Your mother is", "sudorific", "Pronunciation: /\u02ccsud\u0259\u02c8r\u026af\u026ak/", "Definition: inducing perspiration", "Synonyms: diaphoretic"]}
