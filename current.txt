@@ -1,1 +1,1 @@
-{"data": ["2022-03-01T13:00:57.454560+00:00", 624, "Your mother is", "electropositive", "Pronunciation: /\u026a\u02ccl\u025bktr\u0259\u02c8p\u0251z\u026at\u026av/", "Definition: having a positive charge", "Synonyms: positive, positively charged"]}
+{"data": ["2022-03-01T14:01:16.663451+00:00", 625, "Your mother is", "incorporate", "Pronunciation: /\u026an\u02c8k\u0254rp\u0259r\u026at/", "Definition: formed or united into a whole", "Synonyms: incorporated, integrated, merged, unified"]}
