@@ -1,1 +1,1 @@
-{"data": ["2022-03-01T03:01:35.247855+00:00", 614, "Your mother is", "cast-iron", "Pronunciation: /\u02c8k\u00e6st\u02c8a\u026a\u0259rn/", "Definition: extremely robust", "Synonyms: iron"]}
+{"data": ["2022-03-01T04:01:24.314743+00:00", 615, "Your mother is", "condemnatory", "Pronunciation: /k\u0259n\u02c8d\u025bmn\u0259\u02ccto\u028ari/", "Definition: containing or imposing condemnation or censure", "Synonyms: condemning"]}
