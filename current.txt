@@ -1,1 +1,1 @@
-{"data": ["2022-03-01T02:00:50.706275+00:00", 613, "Your mother is", "conjugate", "Pronunciation: /\u02c8k\u0251nd\u0292\u026a\u0261\u0259t/", "Definition: formed by the union of two compounds", "Synonyms: conjugated"]}
+{"data": ["2022-03-01T03:01:35.247855+00:00", 614, "Your mother is", "cast-iron", "Pronunciation: /\u02c8k\u00e6st\u02c8a\u026a\u0259rn/", "Definition: extremely robust", "Synonyms: iron"]}
