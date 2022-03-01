@@ -1,1 +1,1 @@
-{"data": ["2022-03-01T17:00:37.798568+00:00", 628, "Your mother is", "sudorific", "Pronunciation: /\u02ccsud\u0259\u02c8r\u026af\u026ak/", "Definition: inducing perspiration", "Synonyms: diaphoretic"]}
+{"data": ["2022-03-01T18:01:24.927186+00:00", 629, "Your mother is", "unaccompanied", "Pronunciation: /\u02cc\u0259n\u0259\u02c8k\u0259mp\u0259nid/", "Definition: being without an escort", ""]}
