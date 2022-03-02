@@ -1,1 +1,1 @@
-{"data": ["2022-03-02T17:01:32.839049+00:00", 652, "Your mother is", "soundproof", "Pronunciation: /\u02c8sa\u028and\u02ccpruf/", "Definition: impervious to, or not penetrable by, sound", ""]}
+{"data": ["2022-03-02T18:01:38.373134+00:00", 653, "Your mother is", "federate", "Pronunciation: /\u02c8f\u025bd\u0259r\u026at/", "Definition: united under a central government", "Synonyms: federated"]}
