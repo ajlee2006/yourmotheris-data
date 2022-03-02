@@ -1,1 +1,1 @@
-{"data": ["2022-03-02T00:02:02.789778+00:00", 635, "Your mother is", "put-upon", "Pronunciation: /\u02c8p\u028at\u0259\u02ccp\u0251n/", "Definition: (of persons) taken advantage of", "Synonyms: exploited, ill-used, used, victimised, victimized"]}
+{"data": ["2022-03-02T01:01:30.801975+00:00", 636, "Your mother is", "hazel", "Pronunciation: /\u02c8he\u026az\u0259l/", "Definition: of a light brown or yellowish brown color", ""]}
