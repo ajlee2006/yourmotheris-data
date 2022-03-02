@@ -1,1 +1,1 @@
-{"data": ["2022-03-02T04:00:53.095129+00:00", 639, "Your mother is", "without a stitch", "Similar to: unclothed", "Definition: without any clothing at all", ""]}
+{"data": ["2022-03-02T05:00:26.750542+00:00", 640, "Your mother is", "modal", "Pronunciation: /\u02c8mo\u028ad\u028cl/", "Definition: relating to or constituting the most frequent value in a distribution", "Synonyms: average"]}
