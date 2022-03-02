@@ -1,1 +1,1 @@
-{"data": ["2022-03-02T19:00:17.150530+00:00", 654, "Your mother is", "affinal", "Pronunciation: /\u00e6\u02c8fa\u026an\u0259l/", "Definition: (anthropology) related by marriage", "Synonyms: affine"]}
+{"data": ["2022-03-02T20:01:40.234479+00:00", 655, "Your mother is", "packaged", "Pronunciation: /\u02c8p\u00e6k\u026ad\u0292d/", "Definition: enclosed in a package or protective covering", ""]}
