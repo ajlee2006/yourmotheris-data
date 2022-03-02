@@ -1,1 +1,1 @@
-{"data": ["2022-03-02T05:00:26.750542+00:00", 640, "Your mother is", "modal", "Pronunciation: /\u02c8mo\u028ad\u028cl/", "Definition: relating to or constituting the most frequent value in a distribution", "Synonyms: average"]}
+{"data": ["2022-03-02T06:00:32.185870+00:00", 641, "Your mother is", "anglican", "Pronunciation: /\u02c8\u00e6\u014bgl\u0259k\u0259n/", "Definition: of or pertaining to or characteristic of the Anglican church", ""]}
