@@ -1,1 +1,1 @@
-{"data": ["2022-03-02T18:01:38.373134+00:00", 653, "Your mother is", "federate", "Pronunciation: /\u02c8f\u025bd\u0259r\u026at/", "Definition: united under a central government", "Synonyms: federated"]}
+{"data": ["2022-03-02T19:00:17.150530+00:00", 654, "Your mother is", "affinal", "Pronunciation: /\u00e6\u02c8fa\u026an\u0259l/", "Definition: (anthropology) related by marriage", "Synonyms: affine"]}
