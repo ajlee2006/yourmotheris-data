@@ -1,1 +1,1 @@
-{"data": ["2022-03-02T09:00:48.814891+00:00", 644, "Your mother is", "tenebrious", "Pronunciation: /t\u0259\u02c8n\u025bbri\u0259s/", "Definition: dark and gloomy", "Synonyms: tenebrific, tenebrous"]}
+{"data": ["2022-03-02T10:00:33.106884+00:00", 645, "Your mother is", "worldly", "Pronunciation: /\u02c8w\u025crldli/", "Definition: characteristic of or devoted to the temporal world as opposed to the spiritual world", "Synonyms: secular, temporal"]}
