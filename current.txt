@@ -1,1 +1,1 @@
-{"data": ["2022-03-02T02:00:45.492536+00:00", 637, "Your mother is", "unfounded", "Pronunciation: /\u0259n\u02c8fa\u028and\u026ad/", "Definition: without a basis in reason or fact", "Synonyms: baseless, groundless, idle, unwarranted, wild"]}
+{"data": ["2022-03-02T03:01:12.857889+00:00", 638, "Your mother is", "tasteful", "Pronunciation: /\u02c8te\u026astf\u0259l/", "Definition: having or showing or conforming to good taste", ""]}
