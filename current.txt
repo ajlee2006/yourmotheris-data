@@ -1,1 +1,1 @@
-{"data": ["2022-03-02T06:00:32.185870+00:00", 641, "Your mother is", "anglican", "Pronunciation: /\u02c8\u00e6\u014bgl\u0259k\u0259n/", "Definition: of or pertaining to or characteristic of the Anglican church", ""]}
+{"data": ["2022-03-02T07:01:02.456710+00:00", 642, "Your mother is", "cultivated", "Pronunciation: /\u02c8k\u0259lt\u0259\u02ccve\u026at\u026ad/", "Definition: marked by refinement in taste and manners", "Synonyms: civilised, civilized, cultured, genteel, polite"]}
