@@ -1,1 +1,1 @@
-{"data": ["2022-03-02T11:00:15.906498+00:00", 646, "Your mother is", "supple", "Pronunciation: /\u02c8s\u0259p\u0259l/", "Definition: (used of persons' bodies) capable of moving or bending freely", "Synonyms: limber"]}
+{"data": ["2022-03-02T12:01:24.286832+00:00", 647, "Your mother is", "autogenic", "Similar to: self-generated", "Definition: originating within the body", "Synonyms: autogenous"]}
