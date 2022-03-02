@@ -1,1 +1,1 @@
-{"data": ["2022-03-02T01:01:30.801975+00:00", 636, "Your mother is", "hazel", "Pronunciation: /\u02c8he\u026az\u0259l/", "Definition: of a light brown or yellowish brown color", ""]}
+{"data": ["2022-03-02T02:00:45.492536+00:00", 637, "Your mother is", "unfounded", "Pronunciation: /\u0259n\u02c8fa\u028and\u026ad/", "Definition: without a basis in reason or fact", "Synonyms: baseless, groundless, idle, unwarranted, wild"]}
