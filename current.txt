@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T22:01:11.695413+00:00", 681, "Your mother is", "demonstrated", "Pronunciation: /\u02c8d\u025bm\u028cn\u02ccstre\u026at\u028cd/", "Definition: having been demonstrated or verified beyond doubt", ""]}
+{"data": ["2022-03-03T23:00:39.206622+00:00", 682, "Your mother is", "nonfatal", "Pronunciation: /\u02c8n\u0251n\u02c8fe\u026at\u028cl/", "Definition: not bringing death", ""]}
