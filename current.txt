@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T10:01:23.400067+00:00", 669, "Your mother is", "undersealed", "Similar to: rustless", "Definition: (of motor vehicles) having a coating of tar or other rustproof material applied to the underside", "Synonyms: undercoated"]}
+{"data": ["2022-03-03T11:00:34.708716+00:00", 670, "Your mother is", "platitudinous", "Pronunciation: /\u02ccpl\u00e6t\u026a\u02c8tud\u0259n\u0259s/", "Definition: dull and tiresome but with pretensions of significance or originality", "Synonyms: bromidic, corny, platitudinal"]}
