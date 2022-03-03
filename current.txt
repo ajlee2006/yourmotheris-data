@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T08:00:41.786354+00:00", 667, "Your mother is", "developing", "Pronunciation: /d\u026a\u02c8v\u025bl\u0259p\u026a\u014b/", "Definition: relating to societies in which capital needed to industrialize is in short supply", "Synonyms: underdeveloped"]}
+{"data": ["2022-03-03T09:01:24.220083+00:00", 668, "Your mother is", "rust-colored", "Pronunciation: /r\u0259st-\u02c8k\u0259l\u0259rd/", "Definition: having the brown color of rust", ""]}
