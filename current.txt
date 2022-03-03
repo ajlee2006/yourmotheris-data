@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T06:01:22.679769+00:00", 665, "Your mother is", "unseemly", "Pronunciation: /\u0259n\u02c8simli/", "Definition: not in keeping with accepted standards of what is right or proper in polite society", "Synonyms: indecent, indecorous, unbecoming, uncomely, untoward"]}
+{"data": ["2022-03-03T07:01:19.670796+00:00", 666, "Your mother is", "perfervid", "Pronunciation: /p\u0259r\u02c8f\u025crv\u026ad/", "Definition: characterized by intense emotion", "Synonyms: ardent, fervent, fervid, fiery, impassioned, torrid"]}
