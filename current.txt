@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T09:01:24.220083+00:00", 668, "Your mother is", "rust-colored", "Pronunciation: /r\u0259st-\u02c8k\u0259l\u0259rd/", "Definition: having the brown color of rust", ""]}
+{"data": ["2022-03-03T10:01:23.400067+00:00", 669, "Your mother is", "undersealed", "Similar to: rustless", "Definition: (of motor vehicles) having a coating of tar or other rustproof material applied to the underside", "Synonyms: undercoated"]}
