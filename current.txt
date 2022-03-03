@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T15:00:48.503540+00:00", 674, "Your mother is", "electrical", "Pronunciation: /\u026a\u02c8l\u025bktr\u026ak\u0259l/", "Definition: using or providing or producing or transmitting or operated by electricity", "Synonyms: electric"]}
+{"data": ["2022-03-03T16:01:22.141923+00:00", 675, "Your mother is", "self-respecting", "Pronunciation: /s\u025blf-r\u026a\u02c8sp\u025bkt\u026a\u014b/", "Definition: having or showing self-esteem", "Synonyms: dignified, self-respectful"]}
