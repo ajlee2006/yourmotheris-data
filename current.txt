@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T01:01:29.010913+00:00", 660, "Your mother is", "rusted", "Pronunciation: /\u02c8r\u028cst\u028cd/", "Definition: having accumulated rust", ""]}
+{"data": ["2022-03-03T02:00:45.730430+00:00", 661, "Your mother is", "unwounded", "Pronunciation: /\u0259n\u02c8wund\u026ad/", "Definition: not wounded", ""]}
