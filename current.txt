@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T11:00:34.708716+00:00", 670, "Your mother is", "platitudinous", "Pronunciation: /\u02ccpl\u00e6t\u026a\u02c8tud\u0259n\u0259s/", "Definition: dull and tiresome but with pretensions of significance or originality", "Synonyms: bromidic, corny, platitudinal"]}
+{"data": ["2022-03-03T12:00:40.748479+00:00", 671, "Your mother is", "vacillating", "Pronunciation: /\u02c8v\u00e6s\u028c\u02ccle\u026at\u026a\u014b/", "Definition: uncertain in purpose or action", "Synonyms: vacillant, wavering"]}
