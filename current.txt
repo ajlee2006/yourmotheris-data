@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T05:01:29.670672+00:00", 664, "Your mother is", "gifted", "Pronunciation: /\u02c8\u0261\u026aft\u026ad/", "Definition: endowed with talent or talents", "Synonyms: talented"]}
+{"data": ["2022-03-03T06:01:22.679769+00:00", 665, "Your mother is", "unseemly", "Pronunciation: /\u0259n\u02c8simli/", "Definition: not in keeping with accepted standards of what is right or proper in polite society", "Synonyms: indecent, indecorous, unbecoming, uncomely, untoward"]}
