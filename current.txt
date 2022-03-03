@@ -1,1 +1,1 @@
-{"data": ["2022-03-02T23:01:13.277313+00:00", 658, "Your mother is", "unappetising", "", "Definition: not appetizing in appearance, aroma, or taste", "Synonyms: unappetizing"]}
+{"data": ["2022-03-03T00:02:01.483932+00:00", 659, "Your mother is", "tubelike", "Similar to: hollow", "Definition: constituting a tube; having hollow tubes (as for the passage of fluids)", "Synonyms: cannular, tube-shaped, tubular, vasiform"]}
