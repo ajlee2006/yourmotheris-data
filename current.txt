@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T16:01:22.141923+00:00", 675, "Your mother is", "self-respecting", "Pronunciation: /s\u025blf-r\u026a\u02c8sp\u025bkt\u026a\u014b/", "Definition: having or showing self-esteem", "Synonyms: dignified, self-respectful"]}
+{"data": ["2022-03-03T17:00:47.207385+00:00", 676, "Your mother is", "disqualified", "Pronunciation: /d\u026as\u02c8kw\u0251l\u028c\u02ccfa\u026ad/", "Definition: barred from competition for violation of rules", ""]}
