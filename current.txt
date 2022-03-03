@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T07:01:19.670796+00:00", 666, "Your mother is", "perfervid", "Pronunciation: /p\u0259r\u02c8f\u025crv\u026ad/", "Definition: characterized by intense emotion", "Synonyms: ardent, fervent, fervid, fiery, impassioned, torrid"]}
+{"data": ["2022-03-03T08:00:41.786354+00:00", 667, "Your mother is", "developing", "Pronunciation: /d\u026a\u02c8v\u025bl\u0259p\u026a\u014b/", "Definition: relating to societies in which capital needed to industrialize is in short supply", "Synonyms: underdeveloped"]}
