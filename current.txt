@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T17:00:47.207385+00:00", 676, "Your mother is", "disqualified", "Pronunciation: /d\u026as\u02c8kw\u0251l\u028c\u02ccfa\u026ad/", "Definition: barred from competition for violation of rules", ""]}
+{"data": ["2022-03-03T18:00:42.076755+00:00", 677, "Your mother is", "constipated", "Pronunciation: /\u02c8k\u0251nst\u028c\u02ccpe\u026at\u028cd/", "Definition: have difficult or incomplete or infrequent evacuation of the bowels", ""]}
