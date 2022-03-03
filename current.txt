@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T19:00:44.912350+00:00", 678, "Your mother is", "consuming", "Pronunciation: /k\u028cn\u02c8sum\u026a\u014b/", "Definition: very strong; urgently felt", "Synonyms: overwhelming"]}
+{"data": ["2022-03-03T20:01:01.682025+00:00", 679, "Your mother is", "rallentando", "Pronunciation: /\u02ccr\u0251l\u0259n\u02c8t\u0251ndo\u028a/", "Definition: (music) gradually decreasing in tempo", "Synonyms: rit., ritardando, ritenuto"]}
