@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T00:02:01.483932+00:00", 659, "Your mother is", "tubelike", "Similar to: hollow", "Definition: constituting a tube; having hollow tubes (as for the passage of fluids)", "Synonyms: cannular, tube-shaped, tubular, vasiform"]}
+{"data": ["2022-03-03T01:01:29.010913+00:00", 660, "Your mother is", "rusted", "Pronunciation: /\u02c8r\u028cst\u028cd/", "Definition: having accumulated rust", ""]}
