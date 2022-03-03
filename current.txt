@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T03:01:00.392691+00:00", 662, "Your mother is", "unbaptised", "", "Definition: not having undergone the Christian ritual of baptism", "Synonyms: unbaptized"]}
+{"data": ["2022-03-03T04:01:23.642511+00:00", 663, "Your mother is", "tiddly", "Similar to: drunk", "Definition: slightly intoxicated", "Synonyms: potty, tipsy"]}
