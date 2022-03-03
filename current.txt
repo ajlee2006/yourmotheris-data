@@ -1,1 +1,1 @@
-{"data": ["2022-03-03T20:01:01.682025+00:00", 679, "Your mother is", "rallentando", "Pronunciation: /\u02ccr\u0251l\u0259n\u02c8t\u0251ndo\u028a/", "Definition: (music) gradually decreasing in tempo", "Synonyms: rit., ritardando, ritenuto"]}
+{"data": ["2022-03-03T21:00:21.773993+00:00", 680, "Your mother is", "hematologic", "Pronunciation: /\u02cch\u025bm\u0259\u02c8t\u0259l\u0251d\u0292\u026ak/", "Definition: of or relating to or involved in hematology", "Synonyms: haematological, hematological"]}
