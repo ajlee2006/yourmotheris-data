@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T19:00:34.875227+00:00", 702, "Your mother is", "daedal", "Pronunciation: /\u02c8did\u0259l/", "Definition: complex and ingenious in design or function", ""]}
+{"data": ["2022-03-04T20:01:34.411024+00:00", 703, "Your mother is", "undetected", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8t\u025bkt\u026ad/", "Definition: not perceived or discerned", ""]}
