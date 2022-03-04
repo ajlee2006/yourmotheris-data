@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T04:00:30.677509+00:00", 687, "Your mother is", "unsmoothed", "Similar to: wrinkled", "Definition: not having been made smooth by having hands run over the surface", ""]}
+{"data": ["2022-03-04T05:01:26.251456+00:00", 688, "Your mother is", "supine", "Pronunciation: /su\u02c8pa\u026an/", "Definition: lying face upward", "Synonyms: resupine"]}
