@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T07:01:15.791454+00:00", 690, "Your mother is", "eastbound", "Pronunciation: /\u02c8ist\u02ccba\u028and/", "Definition: moving toward the east", "Synonyms: eastward"]}
+{"data": ["2022-03-04T08:00:26.344401+00:00", 691, "Your mother is", "austral", "Pronunciation: /\u02c8\u0254str\u0259l/", "Definition: of the south or coming from the south", ""]}
