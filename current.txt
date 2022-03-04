@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T09:01:08.830986+00:00", 692, "Your mother is", "benignant", "Pronunciation: /b\u026a\u02c8n\u026agn\u0259nt/", "Definition: characterized by kindness and warm courtesy especially of a king to his subjects", "Synonyms: gracious"]}
+{"data": ["2022-03-04T10:00:45.838449+00:00", 693, "Your mother is", "high-speed", "Pronunciation: /ha\u026a-spid/", "Definition: operating at high speed", "Synonyms: high-velocity"]}
