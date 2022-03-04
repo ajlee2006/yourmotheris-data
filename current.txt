@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T17:00:51.142181+00:00", 700, "Your mother is", "unsnarled", "Similar to: untangled", "Definition: straightened out", "Synonyms: disentangled, loosened"]}
+{"data": ["2022-03-04T18:01:13.565223+00:00", 701, "Your mother is", "fork-like", "Similar to: divided", "Definition: resembling a fork; divided or separated into two branches", "Synonyms: bifurcate, biramous, branched, forficate, forked, pronged, prongy"]}
