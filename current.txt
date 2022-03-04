@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T03:01:14.470797+00:00", 686, "Your mother is", "unsloped", "Similar to: perpendicular", "Definition: in a vertical position; not sloping", "Synonyms: upright"]}
+{"data": ["2022-03-04T04:00:30.677509+00:00", 687, "Your mother is", "unsmoothed", "Similar to: wrinkled", "Definition: not having been made smooth by having hands run over the surface", ""]}
