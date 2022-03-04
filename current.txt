@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T05:01:26.251456+00:00", 688, "Your mother is", "supine", "Pronunciation: /su\u02c8pa\u026an/", "Definition: lying face upward", "Synonyms: resupine"]}
+{"data": ["2022-03-04T06:00:43.510139+00:00", 689, "Your mother is", "corrupting", "Pronunciation: /k\u025dr\u02c8\u028cpt\u026a\u014b/", "Definition: that infects or taints", "Synonyms: contaminating"]}
