@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T21:00:51.152633+00:00", 704, "Your mother is", "meridian", "Pronunciation: /m\u0259\u02c8r\u026adi\u0259n/", "Definition: being at the best stage of development", "Synonyms: prime"]}
+{"data": ["2022-03-04T22:01:20.731764+00:00", 705, "Your mother is", "wrapped", "Pronunciation: /r\u00e6pt/", "Definition: giving or marked by complete attention to", "Synonyms: absorbed, captive, engrossed, enwrapped, intent"]}
