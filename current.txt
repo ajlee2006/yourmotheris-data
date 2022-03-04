@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T08:00:26.344401+00:00", 691, "Your mother is", "austral", "Pronunciation: /\u02c8\u0254str\u0259l/", "Definition: of the south or coming from the south", ""]}
+{"data": ["2022-03-04T09:01:08.830986+00:00", 692, "Your mother is", "benignant", "Pronunciation: /b\u026a\u02c8n\u026agn\u0259nt/", "Definition: characterized by kindness and warm courtesy especially of a king to his subjects", "Synonyms: gracious"]}
