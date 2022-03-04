@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T13:00:57.645633+00:00", 696, "Your mother is", "bohemian", "Pronunciation: /bo\u028a\u02c8himi\u0259n/", "Definition: unconventional in especially appearance and behavior", ""]}
+{"data": ["2022-03-04T14:01:01.798479+00:00", 697, "Your mother is", "incertain", "Similar to: ambivalent", "Definition: lacking or indicating lack of confidence or assurance", "Synonyms: uncertain, unsure"]}
