@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T14:01:01.798479+00:00", 697, "Your mother is", "incertain", "Similar to: ambivalent", "Definition: lacking or indicating lack of confidence or assurance", "Synonyms: uncertain, unsure"]}
+{"data": ["2022-03-04T15:00:21.352132+00:00", 698, "Your mother is", "introductory", "Pronunciation: /\u02cc\u026antr\u0259\u02c8d\u0259kt\u0259ri/", "Definition: serving as a base or starting point", "Synonyms: basic"]}
