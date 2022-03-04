@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T18:01:13.565223+00:00", 701, "Your mother is", "fork-like", "Similar to: divided", "Definition: resembling a fork; divided or separated into two branches", "Synonyms: bifurcate, biramous, branched, forficate, forked, pronged, prongy"]}
+{"data": ["2022-03-04T19:00:34.875227+00:00", 702, "Your mother is", "daedal", "Pronunciation: /\u02c8did\u0259l/", "Definition: complex and ingenious in design or function", ""]}
