@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T00:01:47.700625+00:00", 683, "Your mother is", "tailor-made", "Pronunciation: /\u02c8te\u026al\u0259r-me\u026ad/", "Definition: (of clothing) custom-made", "Synonyms: bespoke, bespoken, made-to-order, tailored"]}
+{"data": ["2022-03-04T01:02:14.230128+00:00", 684, "Your mother is", "bound", "Pronunciation: /ba\u028and/", "Definition: bound by contract", "Synonyms: apprenticed, articled, indentured"]}
