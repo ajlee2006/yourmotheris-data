@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T20:01:34.411024+00:00", 703, "Your mother is", "undetected", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8t\u025bkt\u026ad/", "Definition: not perceived or discerned", ""]}
+{"data": ["2022-03-04T21:00:51.152633+00:00", 704, "Your mother is", "meridian", "Pronunciation: /m\u0259\u02c8r\u026adi\u0259n/", "Definition: being at the best stage of development", "Synonyms: prime"]}
