@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T22:01:20.731764+00:00", 705, "Your mother is", "wrapped", "Pronunciation: /r\u00e6pt/", "Definition: giving or marked by complete attention to", "Synonyms: absorbed, captive, engrossed, enwrapped, intent"]}
+{"data": ["2022-03-04T23:00:52.495038+00:00", 706, "Your mother is", "jungly", "Pronunciation: /\u02c8d\u0292\u0259\u014bgli/", "Definition: overgrown with tropical vegetation", ""]}
