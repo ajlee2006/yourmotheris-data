@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T18:01:36.006633+00:00", 725, "Your mother is", "consultive", "Pronunciation: /k\u0259n\u02c8s\u0259lt\u026av/", "Definition: giving advice", "Synonyms: advisory, consultative, consultatory"]}
+{"data": ["2022-03-05T19:01:27.596734+00:00", 726, "Your mother is", "weepy", "Pronunciation: /\u02c8wipi/", "Definition: liable to weep easily", ""]}
