@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T08:01:29.536120+00:00", 715, "Your mother is", "intracellular", "Pronunciation: /\u02cc\u026antr\u0259\u02c8s\u025blj\u0259l\u0259r/", "Definition: located or occurring within a cell or cells", ""]}
+{"data": ["2022-03-05T09:01:28.054196+00:00", 716, "Your mother is", "overbearing", "Pronunciation: /\u02cco\u028av\u0259r\u02c8b\u025cr\u026a\u014b/", "Definition: having or showing arrogant superiority to and disdain of those one views as unworthy", "Synonyms: disdainful, haughty, imperious, lordly, prideful, sniffy, supercilious, swaggering"]}
