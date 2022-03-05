@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T16:00:59.286806+00:00", 723, "Your mother is", "unconquered", "Pronunciation: /\u0259n\u02c8k\u0251\u014bk\u0259d/", "Definition: not conquered", "Synonyms: unbeaten, unvanquished"]}
+{"data": ["2022-03-05T17:00:14.937230+00:00", 724, "Your mother is", "unusual", "Pronunciation: /\u0259n\u02c8ju\u0292u\u0259l/", "Definition: being definitely out of the ordinary and unexpected; slightly odd or even a bit weird", "Synonyms: strange"]}
