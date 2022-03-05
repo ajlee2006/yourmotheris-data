@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T13:01:18.794542+00:00", 720, "Your mother is", "long-snouted", "Similar to: long", "Definition: having a snout that is longer than average", ""]}
+{"data": ["2022-03-05T14:01:08.924995+00:00", 721, "Your mother is", "worried", "Pronunciation: /\u02c8w\u025crid/", "Definition: afflicted with or marked by anxious uneasiness or trouble or grief", "Synonyms: disquieted, distressed, disturbed, upset"]}
