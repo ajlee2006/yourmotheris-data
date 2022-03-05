@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T15:00:52.160213+00:00", 722, "Your mother is", "stabbing", "Pronunciation: /\u02c8st\u00e6b\u026a\u014b/", "Definition: causing physical or especially psychological injury", "Synonyms: wounding"]}
+{"data": ["2022-03-05T16:00:59.286806+00:00", 723, "Your mother is", "unconquered", "Pronunciation: /\u0259n\u02c8k\u0251\u014bk\u0259d/", "Definition: not conquered", "Synonyms: unbeaten, unvanquished"]}
