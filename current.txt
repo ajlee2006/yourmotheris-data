@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T09:01:28.054196+00:00", 716, "Your mother is", "overbearing", "Pronunciation: /\u02cco\u028av\u0259r\u02c8b\u025cr\u026a\u014b/", "Definition: having or showing arrogant superiority to and disdain of those one views as unworthy", "Synonyms: disdainful, haughty, imperious, lordly, prideful, sniffy, supercilious, swaggering"]}
+{"data": ["2022-03-05T10:00:37.980792+00:00", 717, "Your mother is", "smooth-shaven", "Pronunciation: /\u02c8smu\u00f0\u02c8\u0283e\u026av\u0259n/", "Definition: closely shaved recently", "Synonyms: clean-shaven, well-shaven"]}
