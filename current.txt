@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T03:00:52.741751+00:00", 710, "Your mother is", "chemosorptive", "Similar to: adsorbent", "Definition: having the capacity to adsorb by chemical as contrasted with physical forces", "Synonyms: chemisorptive"]}
+{"data": ["2022-03-05T04:01:25.405632+00:00", 711, "Your mother is", "ix", "Similar to: cardinal", "Definition: denoting a quantity consisting of one more than eight and one less than ten", "Synonyms: 9, nine"]}
