@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T01:01:36.887602+00:00", 708, "Your mother is", "gustative", "Pronunciation: /\u02c8\u0261\u0259st\u0259t\u026av/", "Definition: of or relating to gustation", "Synonyms: gustatorial, gustatory"]}
+{"data": ["2022-03-05T02:01:17.226808+00:00", 709, "Your mother is", "xii", "Similar to: cardinal", "Definition: denoting a quantity consisting of 12 items or units", "Synonyms: 12, dozen, twelve"]}
