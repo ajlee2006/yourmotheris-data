@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T07:00:40.023671+00:00", 714, "Your mother is", "celiac", "Pronunciation: /\u02c8sili\u02cc\u00e6k/", "Definition: of or in or belonging to the cavity of the abdomen", "Synonyms: coeliac"]}
+{"data": ["2022-03-05T08:01:29.536120+00:00", 715, "Your mother is", "intracellular", "Pronunciation: /\u02cc\u026antr\u0259\u02c8s\u025blj\u0259l\u0259r/", "Definition: located or occurring within a cell or cells", ""]}
