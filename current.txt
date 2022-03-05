@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T05:00:46.326717+00:00", 712, "Your mother is", "thrilling", "Pronunciation: /\u02c8\u03b8r\u026al\u026a\u014b/", "Definition: causing a surge of emotion or excitement", "Synonyms: electrifying"]}
+{"data": ["2022-03-05T06:01:26.306195+00:00", 713, "Your mother is", "magyar", "Pronunciation: /\u02c8m\u00e6\u0261j\u0251r/", "Definition: relating to or characteristic of Hungary", "Synonyms: hungarian"]}
