@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T02:01:17.226808+00:00", 709, "Your mother is", "xii", "Similar to: cardinal", "Definition: denoting a quantity consisting of 12 items or units", "Synonyms: 12, dozen, twelve"]}
+{"data": ["2022-03-05T03:00:52.741751+00:00", 710, "Your mother is", "chemosorptive", "Similar to: adsorbent", "Definition: having the capacity to adsorb by chemical as contrasted with physical forces", "Synonyms: chemisorptive"]}
