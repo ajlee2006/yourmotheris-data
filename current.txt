@@ -1,1 +1,1 @@
-{"data": ["2022-03-04T23:00:52.495038+00:00", 706, "Your mother is", "jungly", "Pronunciation: /\u02c8d\u0292\u0259\u014bgli/", "Definition: overgrown with tropical vegetation", ""]}
+{"data": ["2022-03-05T00:02:02.768363+00:00", 707, "Your mother is", "tempest-swept", "Similar to: troubled", "Definition: pounded or hit repeatedly by storms or adversities", "Synonyms: buffeted, storm-tossed, tempest-tossed, tempest-tost"]}
