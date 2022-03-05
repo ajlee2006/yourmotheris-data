@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T06:01:26.306195+00:00", 713, "Your mother is", "magyar", "Pronunciation: /\u02c8m\u00e6\u0261j\u0251r/", "Definition: relating to or characteristic of Hungary", "Synonyms: hungarian"]}
+{"data": ["2022-03-05T07:00:40.023671+00:00", 714, "Your mother is", "celiac", "Pronunciation: /\u02c8sili\u02cc\u00e6k/", "Definition: of or in or belonging to the cavity of the abdomen", "Synonyms: coeliac"]}
