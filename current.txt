@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T21:01:25.913512+00:00", 728, "Your mother is", "phonologic", "", "Definition: of or relating to phonology", "Synonyms: phonological"]}
+{"data": ["2022-03-05T22:01:21.278373+00:00", 729, "Your mother is", "unscathed", "Pronunciation: /\u0259n\u02c8ske\u026a\u00f0d/", "Definition: not injured or harmed", "Synonyms: unharmed, unhurt, whole"]}
