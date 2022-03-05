@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T10:00:37.980792+00:00", 717, "Your mother is", "smooth-shaven", "Pronunciation: /\u02c8smu\u00f0\u02c8\u0283e\u026av\u0259n/", "Definition: closely shaved recently", "Synonyms: clean-shaven, well-shaven"]}
+{"data": ["2022-03-05T11:01:33.555847+00:00", 718, "Your mother is", "hieratic", "Pronunciation: /\u02ccha\u026a\u0259\u02c8r\u00e6t\u026ak/", "Definition: associated with the priesthood or priests", "Synonyms: hieratical, priestly, sacerdotal"]}
