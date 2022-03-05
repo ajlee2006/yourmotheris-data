@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T20:01:18.433945+00:00", 727, "Your mother is", "unmodulated", "Pronunciation: /\u0259n\u02c8m\u0251dj\u028a\u02ccle\u026at\u026ad/", "Definition: characterized by lack of variation in pitch, tone, or volume", ""]}
+{"data": ["2022-03-05T21:01:25.913512+00:00", 728, "Your mother is", "phonologic", "", "Definition: of or relating to phonology", "Synonyms: phonological"]}
