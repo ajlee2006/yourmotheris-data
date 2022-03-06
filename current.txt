@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T18:01:32.098197+00:00", 749, "Your mother is", "light-blue", "Pronunciation: /la\u026at-blu/", "Definition: of a light shade of blue", "Synonyms: pale blue"]}
+{"data": ["2022-03-06T19:00:35.515624+00:00", 750, "Your mother is", "unindustrialized", "Similar to: nonindustrial", "Definition: not converted to industrialism", "Synonyms: unindustrialised"]}
