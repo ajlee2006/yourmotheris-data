@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T10:01:06.802389+00:00", 741, "Your mother is", "graven", "Pronunciation: /\u02c8gre\u026av\u0259n/", "Definition: cut into a desired shape", "Synonyms: sculpted, sculptured"]}
+{"data": ["2022-03-06T11:00:23.952696+00:00", 742, "Your mother is", "monochromic", "Similar to: colored", "Definition: having or appearing to have only one color", "Synonyms: monochromatic, monochrome, monochromous"]}
