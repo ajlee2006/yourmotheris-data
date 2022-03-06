@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T14:01:35.497425+00:00", 745, "Your mother is", "substantive", "Pronunciation: /\u02c8s\u0259bst\u0259nt\u026av/", "Definition: of or relating to the real nature or essential elements of something", "Synonyms: substantial"]}
+{"data": ["2022-03-06T15:00:32.666628+00:00", 746, "Your mother is", "brain dead", "Similar to: dead", "Definition: having irreversible loss of brain function as indicated by a persistent flat electroencephalogram", ""]}
