@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T03:00:42.967557+00:00", 734, "Your mother is", "utilizable", "Similar to: useful", "Definition: capable of being put to a profitable or practical use", ""]}
+{"data": ["2022-03-06T04:01:35.965554+00:00", 735, "Your mother is", "wood-burning", "Similar to: fueled", "Definition: fueled by wood", "Synonyms: wood-fired"]}
