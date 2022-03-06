@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T16:00:50.936248+00:00", 747, "Your mother is", "gritty", "Pronunciation: /\u02c8gr\u026ati/", "Definition: composed of or covered with particles resembling meal in texture or consistency", "Synonyms: coarse-grained, farinaceous, grainy, granular, granulose, mealy"]}
+{"data": ["2022-03-06T17:01:29.823843+00:00", 748, "Your mother is", "gerundial", "Pronunciation: /d\u0292\u0259\u02c8r\u0259ndi\u0259l/", "Definition: relating to or like a gerund", ""]}
