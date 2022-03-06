@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T04:01:35.965554+00:00", 735, "Your mother is", "wood-burning", "Similar to: fueled", "Definition: fueled by wood", "Synonyms: wood-fired"]}
+{"data": ["2022-03-06T05:01:19.868603+00:00", 736, "Your mother is", "overhand", "Pronunciation: /\u02c8o\u028av\u0259r\u02cch\u00e6nd/", "Definition: with hand brought forward and down from above shoulder level", "Synonyms: overarm, overhanded"]}
