@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T17:01:29.823843+00:00", 748, "Your mother is", "gerundial", "Pronunciation: /d\u0292\u0259\u02c8r\u0259ndi\u0259l/", "Definition: relating to or like a gerund", ""]}
+{"data": ["2022-03-06T18:01:32.098197+00:00", 749, "Your mother is", "light-blue", "Pronunciation: /la\u026at-blu/", "Definition: of a light shade of blue", "Synonyms: pale blue"]}
