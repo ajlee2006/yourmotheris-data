@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T22:01:04.738855+00:00", 753, "Your mother is", "glazed", "Pronunciation: /gle\u026azd/", "Definition: having a shiny surface or coating", "Synonyms: shiny"]}
+{"data": ["2022-03-06T23:00:48.589292+00:00", 754, "Your mother is", "marked", "Pronunciation: /m\u0251rkt/", "Definition: strongly marked; easily noticeable", "Synonyms: pronounced"]}
