@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T05:01:19.868603+00:00", 736, "Your mother is", "overhand", "Pronunciation: /\u02c8o\u028av\u0259r\u02cch\u00e6nd/", "Definition: with hand brought forward and down from above shoulder level", "Synonyms: overarm, overhanded"]}
+{"data": ["2022-03-06T06:00:29.530668+00:00", 737, "Your mother is", "9th", "Similar to: ordinal", "Definition: coming next after the eighth and just before the tenth in position", "Synonyms: ninth"]}
