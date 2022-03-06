@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T21:00:58.238094+00:00", 752, "Your mother is", "intercollegiate", "Pronunciation: /\u02cc\u026ant\u0259rk\u0259\u02c8lid\u0292\u026at/", "Definition: used of competition between colleges or universities", ""]}
+{"data": ["2022-03-06T22:01:04.738855+00:00", 753, "Your mother is", "glazed", "Pronunciation: /gle\u026azd/", "Definition: having a shiny surface or coating", "Synonyms: shiny"]}
