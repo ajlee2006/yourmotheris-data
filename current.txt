@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T01:00:28.066710+00:00", 732, "Your mother is", "floccose", "Pronunciation: /\u02c8fl\u0251ko\u028as/", "Definition: (of plants) having tufts of soft woolly hairs", ""]}
+{"data": ["2022-03-06T02:00:45.723844+00:00", 733, "Your mother is", "worked up", "Similar to: agitated", "Definition: (of persons) excessively affected by emotion", "Synonyms: aroused, emotional, excited"]}
