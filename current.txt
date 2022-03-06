@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T19:00:35.515624+00:00", 750, "Your mother is", "unindustrialized", "Similar to: nonindustrial", "Definition: not converted to industrialism", "Synonyms: unindustrialised"]}
+{"data": ["2022-03-06T20:01:19.387858+00:00", 751, "Your mother is", "ethnographic", "Pronunciation: /\u02cc\u025b\u03b8n\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to ethnography", "Synonyms: ethnographical"]}
