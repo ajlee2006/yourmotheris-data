@@ -1,1 +1,1 @@
-{"data": ["2022-03-05T23:00:24.971217+00:00", 730, "Your mother is", "dextral", "Pronunciation: /\u02c8d\u025bkstr\u0259l/", "Definition: of or on the right", ""]}
+{"data": ["2022-03-06T00:01:27.692641+00:00", 731, "Your mother is", "sixty-seven", "Pronunciation: /\u02c8s\u026aksti-\u02c8s\u025bv\u0259n/", "Definition: being seven more than sixty", "Synonyms: 67, lxvii"]}
