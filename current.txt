@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T13:00:39.493041+00:00", 744, "Your mother is", "dark-coated", "Similar to: haired", "Definition: covered with dark hair", "Synonyms: dark-haired"]}
+{"data": ["2022-03-06T14:01:35.497425+00:00", 745, "Your mother is", "substantive", "Pronunciation: /\u02c8s\u0259bst\u0259nt\u026av/", "Definition: of or relating to the real nature or essential elements of something", "Synonyms: substantial"]}
