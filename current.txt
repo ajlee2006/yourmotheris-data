@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T20:01:19.387858+00:00", 751, "Your mother is", "ethnographic", "Pronunciation: /\u02cc\u025b\u03b8n\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to ethnography", "Synonyms: ethnographical"]}
+{"data": ["2022-03-06T21:00:58.238094+00:00", 752, "Your mother is", "intercollegiate", "Pronunciation: /\u02cc\u026ant\u0259rk\u0259\u02c8lid\u0292\u026at/", "Definition: used of competition between colleges or universities", ""]}
