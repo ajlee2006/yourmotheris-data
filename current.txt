@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T08:01:29.498801+00:00", 739, "Your mother is", "alcohol-dependent", "Similar to: addicted", "Definition: addicted to alcohol", "Synonyms: alcoholic"]}
+{"data": ["2022-03-06T09:01:14.852565+00:00", 740, "Your mother is", "13", "Similar to: cardinal", "Definition: being one more than twelve", "Synonyms: thirteen, xiii"]}
