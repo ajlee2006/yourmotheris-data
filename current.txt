@@ -1,1 +1,1 @@
-{"data": ["2022-03-07T10:01:27.069521+00:00", 765, "Your mother is", "skint", "Pronunciation: /sk\u026ant/", "Definition: lacking funds", "Synonyms: broke, bust, stone-broke, stony-broke"]}
+{"data": ["2022-03-07T11:01:31.342893+00:00", 766, "Your mother is", "roast", "Pronunciation: /ro\u028ast/", "Definition: (meat) cooked by dry heat in an oven", "Synonyms: roasted"]}
