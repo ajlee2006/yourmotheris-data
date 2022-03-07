@@ -1,1 +1,1 @@
-{"data": ["2022-03-07T03:01:08.653609+00:00", 758, "Your mother is", "lap-straked", "", "Definition: having overlapping hull planks", "Synonyms: clincher-built, clinker-built, lap-strake, lap-streak, lap-streaked"]}
+{"data": ["2022-03-07T04:01:06.391725+00:00", 759, "Your mother is", "hypophysectomised", "", "Definition: having the pituitary gland removed by surgery", "Synonyms: hypophysectomized"]}
