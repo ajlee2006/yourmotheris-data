@@ -1,1 +1,1 @@
-{"data": ["2022-03-07T16:00:26.047931+00:00", 771, "Your mother is", "explanatory", "Pronunciation: /\u026ak\u02c8spl\u00e6n\u0259\u02ccto\u028ari/", "Definition: serving or intended to explain or make clear", ""]}
+{"data": ["2022-03-07T17:01:30.235094+00:00", 772, "Your mother is", "adaptational", "Similar to: adaptative", "Definition: of or relating to adaptation", ""]}
