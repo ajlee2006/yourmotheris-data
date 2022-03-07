@@ -1,1 +1,1 @@
-{"data": ["2022-03-07T14:01:25.922056+00:00", 769, "Your mother is", "stiff-branched", "Similar to: branchy", "Definition: having stiff branches", ""]}
+{"data": ["2022-03-07T15:00:17.009786+00:00", 770, "Your mother is", "larboard", "Pronunciation: /\u02c8l\u0251r\u02ccbo\u028ard/", "Definition: located on the left side of a ship or aircraft", "Synonyms: port"]}
