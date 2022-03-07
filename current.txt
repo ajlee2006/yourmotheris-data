@@ -1,1 +1,1 @@
-{"data": ["2022-03-07T09:00:49.724973+00:00", 764, "Your mother is", "betting", "Pronunciation: /\u02c8b\u025bt\u026a\u014b/", "Definition: preoccupied with the pursuit of pleasure and especially games of chance", "Synonyms: card-playing, dissipated, sporting"]}
+{"data": ["2022-03-07T10:01:27.069521+00:00", 765, "Your mother is", "skint", "Pronunciation: /sk\u026ant/", "Definition: lacking funds", "Synonyms: broke, bust, stone-broke, stony-broke"]}
