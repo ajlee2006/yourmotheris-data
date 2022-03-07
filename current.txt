@@ -1,1 +1,1 @@
-{"data": ["2022-03-07T11:01:31.342893+00:00", 766, "Your mother is", "roast", "Pronunciation: /ro\u028ast/", "Definition: (meat) cooked by dry heat in an oven", "Synonyms: roasted"]}
+{"data": ["2022-03-07T12:00:19.229632+00:00", 767, "Your mother is", "loth", "Pronunciation: /lo\u028a\u03b8/", "Definition: unwillingness to do something contrary to your custom", "Synonyms: loath, reluctant"]}
