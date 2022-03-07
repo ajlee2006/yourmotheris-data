@@ -1,1 +1,1 @@
-{"data": ["2022-03-07T00:01:46.356482+00:00", 755, "Your mother is", "ellipsoid", "Pronunciation: /\u026a\u02c8l\u026aps\u0254\u026ad/", "Definition: having the nature or shape of an ellipsoid", "Synonyms: ellipsoidal, spheroidal"]}
+{"data": ["2022-03-07T01:00:22.461987+00:00", 756, "Your mother is", "geosynchronous", "Similar to: fixed", "Definition: of or having an orbit with a fixed period of 24 hours (although the position in the orbit may not be fixed with respect to the earth)", ""]}
