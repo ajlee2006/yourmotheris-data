@@ -1,1 +1,1 @@
-{"data": ["2022-03-07T19:00:48.982358+00:00", 774, "Your mother is", "ready-cooked", "Similar to: cooked", "Definition: cooked in such a way as to be ready for sale", ""]}
+{"data": ["2022-03-07T20:01:07.911340+00:00", 775, "Your mother is", "cxx", "Similar to: cardinal", "Definition: being ten more than one hundred ten", "Synonyms: 120, one hundred twenty"]}
