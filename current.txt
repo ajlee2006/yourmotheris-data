@@ -1,1 +1,1 @@
-{"data": ["2022-03-07T15:00:17.009786+00:00", 770, "Your mother is", "larboard", "Pronunciation: /\u02c8l\u0251r\u02ccbo\u028ard/", "Definition: located on the left side of a ship or aircraft", "Synonyms: port"]}
+{"data": ["2022-03-07T16:00:26.047931+00:00", 771, "Your mother is", "explanatory", "Pronunciation: /\u026ak\u02c8spl\u00e6n\u0259\u02ccto\u028ari/", "Definition: serving or intended to explain or make clear", ""]}
