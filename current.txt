@@ -1,1 +1,1 @@
-{"data": ["2022-03-06T23:00:48.589292+00:00", 754, "Your mother is", "marked", "Pronunciation: /m\u0251rkt/", "Definition: strongly marked; easily noticeable", "Synonyms: pronounced"]}
+{"data": ["2022-03-07T00:01:46.356482+00:00", 755, "Your mother is", "ellipsoid", "Pronunciation: /\u026a\u02c8l\u026aps\u0254\u026ad/", "Definition: having the nature or shape of an ellipsoid", "Synonyms: ellipsoidal, spheroidal"]}
