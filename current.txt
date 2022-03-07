@@ -1,1 +1,1 @@
-{"data": ["2022-03-07T07:01:22.150381+00:00", 762, "Your mother is", "valiant", "Pronunciation: /\u02c8v\u00e6lj\u0259nt/", "Definition: having or showing valor", "Synonyms: valorous"]}
+{"data": ["2022-03-07T08:01:22.720183+00:00", 763, "Your mother is", "24th", "Similar to: ordinal", "Definition: coming next after the twenty-third in position", "Synonyms: twenty-fourth"]}
