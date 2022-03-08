@@ -1,1 +1,1 @@
-{"data": ["2022-03-08T13:01:16.650289+00:00", 792, "Your mother is", "apish", "Pronunciation: /\u02c8e\u026ap\u026a\u0283/", "Definition: being or given to servile imitation", "Synonyms: apelike"]}
+{"data": ["2022-03-08T14:00:41.774603+00:00", 793, "Your mother is", "omnivorous", "Pronunciation: /\u0251m\u02c8n\u026av\u0259r\u0259s/", "Definition: feeding on both plants and animals", ""]}
