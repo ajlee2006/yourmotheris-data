@@ -1,1 +1,1 @@
-{"data": ["2022-03-08T07:01:21.421665+00:00", 786, "Your mother is", "nonfissionable", "", "Definition: not capable of undergoing fission", ""]}
+{"data": ["2022-03-08T08:01:15.359150+00:00", 787, "Your mother is", "biface", "Similar to: bidirectional", "Definition: having two faces or fronts", "Synonyms: bifacial"]}
