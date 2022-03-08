@@ -1,1 +1,1 @@
-{"data": ["2022-03-08T06:01:25.035433+00:00", 785, "Your mother is", "diversified", "Pronunciation: /d\u026a\u02c8v\u025crs\u0259\u02ccfa\u026ad/", "Definition: having variety of character or form or components; or having increased variety", ""]}
+{"data": ["2022-03-08T07:01:21.421665+00:00", 786, "Your mother is", "nonfissionable", "", "Definition: not capable of undergoing fission", ""]}
