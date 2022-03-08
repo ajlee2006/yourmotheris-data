@@ -1,1 +1,1 @@
-{"data": ["2022-03-08T15:00:15.909953+00:00", 794, "Your mother is", "victorian", "Pronunciation: /v\u026ak\u02c8to\u028ari\u0259n/", "Definition: exaggeratedly proper", "Synonyms: priggish, prim, prissy, prudish, puritanical, square-toed, straight-laced, straightlaced, strait-laced, straitlaced, tight-laced"]}
+{"data": ["2022-03-08T16:01:10.139308+00:00", 795, "Your mother is", "unblended", "Similar to: unhomogenised", "Definition: not blended or mixed together", ""]}
