@@ -1,1 +1,1 @@
-{"data": ["2022-03-08T00:01:17.344660+00:00", 779, "Your mother is", "bibliographical", "", "Definition: relating to or dealing with bibliography", "Synonyms: bibliographic"]}
+{"data": ["2022-03-08T01:01:43.416684+00:00", 780, "Your mother is", "immeasurable", "Pronunciation: /\u026a\u02c8m\u025b\u0292\u0259r\u0259b\u0259l/", "Definition: impossible to measure", "Synonyms: immensurable, unmeasurable"]}
