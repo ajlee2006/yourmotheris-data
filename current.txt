@@ -1,1 +1,1 @@
-{"data": ["2022-03-08T01:01:43.416684+00:00", 780, "Your mother is", "immeasurable", "Pronunciation: /\u026a\u02c8m\u025b\u0292\u0259r\u0259b\u0259l/", "Definition: impossible to measure", "Synonyms: immensurable, unmeasurable"]}
+{"data": ["2022-03-08T02:01:03.385021+00:00", 781, "Your mother is", "nonobjective", "Pronunciation: /\u02ccn\u0251n\u0259b\u02c8d\u0292\u025bkt\u026av/", "Definition: not representing or imitating external reality or the objects of nature", "Synonyms: abstract, abstractionist, nonfigurative"]}
