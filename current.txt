@@ -1,1 +1,1 @@
-{"data": ["2022-03-08T04:01:22.383124+00:00", 783, "Your mother is", "bribable", "Similar to: corrupt", "Definition: capable of being corrupted", "Synonyms: corruptible, dishonest, purchasable, venal"]}
+{"data": ["2022-03-08T05:01:30.852397+00:00", 784, "Your mother is", "echoic", "Pronunciation: /\u025b\u02c8ko\u028a\u026ak/", "Definition: like or characteristic of an echo", "Synonyms: echolike"]}
