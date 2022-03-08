@@ -1,1 +1,1 @@
-{"data": ["2022-03-07T23:00:59.152185+00:00", 778, "Your mother is", "56", "Similar to: cardinal", "Definition: being six more than fifty", "Synonyms: fifty-six, lvi"]}
+{"data": ["2022-03-08T00:01:17.344660+00:00", 779, "Your mother is", "bibliographical", "", "Definition: relating to or dealing with bibliography", "Synonyms: bibliographic"]}
