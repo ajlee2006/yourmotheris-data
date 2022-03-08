@@ -1,1 +1,1 @@
-{"data": ["2022-03-08T20:01:27.372769+00:00", 799, "Your mother is", "splattered", "Pronunciation: /\u02c8spl\u00e6t\u025drd/", "Definition: covered with bright patches (often used in combination)", "Synonyms: dabbled, spattered, splashed"]}
+{"data": ["2022-03-08T21:01:18.031776+00:00", 800, "Your mother is", "jewish-orthodox", "", "Definition: of or pertaining to or characteristic of Judaism", "Synonyms: orthodox"]}
