@@ -1,1 +1,1 @@
-{"data": ["2022-03-08T18:01:29.266448+00:00", 797, "Your mother is", "homeothermic", "Similar to: warm-blooded", "Definition: of birds and mammals; having constant and relatively high body temperature", "Synonyms: homoiothermic, homothermic"]}
+{"data": ["2022-03-08T19:01:02.249374+00:00", 798, "Your mother is", "tractile", "Pronunciation: /\u02c8tr\u00e6kt\u026al/", "Definition: capable of being shaped or bent or drawn out", "Synonyms: ductile, malleable, pliable, pliant, tensile"]}
