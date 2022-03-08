@@ -1,1 +1,1 @@
-{"data": ["2022-03-08T21:01:18.031776+00:00", 800, "Your mother is", "jewish-orthodox", "", "Definition: of or pertaining to or characteristic of Judaism", "Synonyms: orthodox"]}
+{"data": ["2022-03-08T22:00:51.715620+00:00", 801, "Your mother is", "uncomplete", "Pronunciation: /\u02cc\u028cnk\u028cm\u02c8plit/", "Definition: not complete or total; not completed", "Synonyms: incomplete"]}
