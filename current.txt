@@ -1,1 +1,1 @@
-{"data": ["2022-03-08T11:00:48.131180+00:00", 790, "Your mother is", "bipinnatifid", "Similar to: compound", "Definition: pinnatifid with the segments also pinnatifid", ""]}
+{"data": ["2022-03-08T12:00:37.429463+00:00", 791, "Your mother is", "self-righteous", "Pronunciation: /s\u025blf-\u02c8ra\u026a\u02a7\u0259s/", "Definition: excessively or hypocritically pious", "Synonyms: holier-than-thou, pharisaic, pharisaical, pietistic, pietistical, sanctimonious"]}
