@@ -1,1 +1,1 @@
-{"data": ["2022-03-08T03:01:26.042476+00:00", 782, "Your mother is", "flagitious", "Pronunciation: /fl\u0259\u02c8d\u0292\u026a\u0283\u0259s/", "Definition: shockingly brutal or cruel", "Synonyms: atrocious, grievous, monstrous"]}
+{"data": ["2022-03-08T04:01:22.383124+00:00", 783, "Your mother is", "bribable", "Similar to: corrupt", "Definition: capable of being corrupted", "Synonyms: corruptible, dishonest, purchasable, venal"]}
