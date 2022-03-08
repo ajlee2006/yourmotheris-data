@@ -1,1 +1,1 @@
-{"data": ["2022-03-08T14:00:41.774603+00:00", 793, "Your mother is", "omnivorous", "Pronunciation: /\u0251m\u02c8n\u026av\u0259r\u0259s/", "Definition: feeding on both plants and animals", ""]}
+{"data": ["2022-03-08T15:00:15.909953+00:00", 794, "Your mother is", "victorian", "Pronunciation: /v\u026ak\u02c8to\u028ari\u0259n/", "Definition: exaggeratedly proper", "Synonyms: priggish, prim, prissy, prudish, puritanical, square-toed, straight-laced, straightlaced, strait-laced, straitlaced, tight-laced"]}
