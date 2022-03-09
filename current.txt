@@ -1,1 +1,1 @@
-{"data": ["2022-03-09T00:02:01.003721+00:00", 803, "Your mother is", "sexist", "Pronunciation: /\u02c8s\u025bks\u026ast/", "Definition: discriminatory on the basis of sex (usually said of men's attitude toward women)", ""]}
+{"data": ["2022-03-09T01:01:37.909404+00:00", 804, "Your mother is", "non-resinous", "Similar to: nonadhesive", "Definition: not having resin", "Synonyms: non-resiny, nonresinous, nonresiny"]}
