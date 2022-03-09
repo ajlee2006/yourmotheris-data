@@ -1,1 +1,1 @@
-{"data": ["2022-03-09T15:01:15.158731+00:00", 818, "Your mother is", "bespoken", "Pronunciation: /b\u026aspo\u028ak\u0259n/", "Definition: (of clothing) custom-made", "Synonyms: bespoke, made-to-order, tailor-made, tailored"]}
+{"data": ["2022-03-09T16:01:08.947417+00:00", 819, "Your mother is", "hindu", "Pronunciation: /\u02c8h\u026andu/", "Definition: of or relating to or supporting Hinduism", "Synonyms: hindi, hindoo"]}
