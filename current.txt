@@ -1,1 +1,1 @@
-{"data": ["2022-03-09T18:01:35.007596+00:00", 821, "Your mother is", "cinnamon-colored", "Similar to: colored", "Definition: having the color of cinnamon", "Synonyms: cinnamon-coloured, cinnamon colored, cinnamon coloured"]}
+{"data": ["2022-03-09T19:00:53.358626+00:00", 822, "Your mother is", "involute", "Pronunciation: /\u02c8\u026anv\u0259\u02cclut/", "Definition: especially of petals or leaves in bud; having margins rolled inward", "Synonyms: rolled"]}
