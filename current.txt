@@ -1,1 +1,1 @@
-{"data": ["2022-03-09T22:01:10.630527+00:00", 825, "Your mother is", "smashed", "Pronunciation: /sm\u00e6\u0283t/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
+{"data": ["2022-03-09T23:00:23.485330+00:00", 826, "Your mother is", "vasiform", "Similar to: hollow", "Definition: constituting a tube; having hollow tubes (as for the passage of fluids)", "Synonyms: cannular, tube-shaped, tubelike, tubular"]}
