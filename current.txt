@@ -1,1 +1,1 @@
-{"data": ["2022-03-09T12:01:08.898359+00:00", 815, "Your mother is", "organizational", "Pronunciation: /\u02cc\u0254r\u0261\u028cn\u028c\u02c8ze\u026a\u0283\u028cn\u028cl/", "Definition: of or relating to an organization", "Synonyms: organisational"]}
+{"data": ["2022-03-09T13:00:31.455964+00:00", 816, "Your mother is", "uncommercial", "Pronunciation: /\u02cc\u0259nk\u0259\u02c8m\u025cr\u0283\u0259l/", "Definition: not conducive to commercial success", ""]}
