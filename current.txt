@@ -1,1 +1,1 @@
-{"data": ["2022-03-09T21:00:13.647522+00:00", 824, "Your mother is", "eared", "Pronunciation: /ird/", "Definition: worn or shabby from overuse or (of pages) from having corners turned down", "Synonyms: dog-eared"]}
+{"data": ["2022-03-09T22:01:10.630527+00:00", 825, "Your mother is", "smashed", "Pronunciation: /sm\u00e6\u0283t/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
