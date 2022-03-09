@@ -1,1 +1,1 @@
-{"data": ["2022-03-09T09:01:18.449994+00:00", 812, "Your mother is", "word-perfect", "Similar to: correct", "Definition: correct to the last detail; especially being in or following the exact words", "Synonyms: letter-perfect"]}
+{"data": ["2022-03-09T10:00:43.156803+00:00", 813, "Your mother is", "well-defined", "Pronunciation: /\u02c8w\u025bl-d\u026a\u02c8fa\u026and/", "Definition: accurately stated or described", "Synonyms: clear"]}
