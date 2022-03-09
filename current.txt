@@ -1,1 +1,1 @@
-{"data": ["2022-03-09T11:01:11.576839+00:00", 814, "Your mother is", "nifty", "Pronunciation: /\u02c8n\u026afti/", "Definition: very good", "Synonyms: bang-up, bully, corking, cracking, dandy, great, groovy, keen, neat, not bad, old, peachy, slap-up, smashing, swell"]}
+{"data": ["2022-03-09T12:01:08.898359+00:00", 815, "Your mother is", "organizational", "Pronunciation: /\u02cc\u0254r\u0261\u028cn\u028c\u02c8ze\u026a\u0283\u028cn\u028cl/", "Definition: of or relating to an organization", "Synonyms: organisational"]}
