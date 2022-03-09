@@ -1,1 +1,1 @@
-{"data": ["2022-03-09T01:01:37.909404+00:00", 804, "Your mother is", "non-resinous", "Similar to: nonadhesive", "Definition: not having resin", "Synonyms: non-resiny, nonresinous, nonresiny"]}
+{"data": ["2022-03-09T02:01:29.769679+00:00", 805, "Your mother is", "sublimate", "Pronunciation: /\u02c8s\u0259bl\u0259me\u026at/", "Definition: made pure", ""]}
