@@ -1,1 +1,1 @@
-{"data": ["2022-03-09T03:01:04.692678+00:00", 806, "Your mother is", "overcurious", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8kj\u028ari\u0259s/", "Definition: showing excessive curiosity", ""]}
+{"data": ["2022-03-09T04:00:34.502510+00:00", 807, "Your mother is", "anthropoid", "Pronunciation: /\u02c8\u00e6n\u03b8r\u0259\u02ccp\u0254\u026ad/", "Definition: resembling apes", "Synonyms: anthropoidal, apelike"]}
