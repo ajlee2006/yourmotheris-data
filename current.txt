@@ -1,1 +1,1 @@
-{"data": ["2022-03-09T20:01:01.796637+00:00", 823, "Your mother is", "matronly", "Pronunciation: /\u02c8me\u026atr\u0259nli/", "Definition: befitting or characteristic of a fully mature woman", ""]}
+{"data": ["2022-03-09T21:00:13.647522+00:00", 824, "Your mother is", "eared", "Pronunciation: /ird/", "Definition: worn or shabby from overuse or (of pages) from having corners turned down", "Synonyms: dog-eared"]}
