@@ -1,1 +1,1 @@
-{"data": ["2022-03-09T13:00:31.455964+00:00", 816, "Your mother is", "uncommercial", "Pronunciation: /\u02cc\u0259nk\u0259\u02c8m\u025cr\u0283\u0259l/", "Definition: not conducive to commercial success", ""]}
+{"data": ["2022-03-09T14:01:03.065698+00:00", 817, "Your mother is", "liveborn", "Similar to: alive", "Definition: (of newborn infant) showing signs of life after birth; not stillborn", ""]}
