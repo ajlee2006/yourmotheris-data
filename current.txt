@@ -1,1 +1,1 @@
-{"data": ["2022-03-08T23:00:48.834258+00:00", 802, "Your mother is", "unfearing", "Similar to: bold", "Definition: invulnerable to fear or intimidation", "Synonyms: audacious, brave, dauntless, fearless, hardy, intrepid"]}
+{"data": ["2022-03-09T00:02:01.003721+00:00", 803, "Your mother is", "sexist", "Pronunciation: /\u02c8s\u025bks\u026ast/", "Definition: discriminatory on the basis of sex (usually said of men's attitude toward women)", ""]}
