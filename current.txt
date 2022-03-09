@@ -1,1 +1,1 @@
-{"data": ["2022-03-09T04:00:34.502510+00:00", 807, "Your mother is", "anthropoid", "Pronunciation: /\u02c8\u00e6n\u03b8r\u0259\u02ccp\u0254\u026ad/", "Definition: resembling apes", "Synonyms: anthropoidal, apelike"]}
+{"data": ["2022-03-09T05:01:10.970621+00:00", 808, "Your mother is", "abject", "Pronunciation: /\u02c8\u00e6bd\u0292\u025bkt/", "Definition: showing utter resignation or hopelessness", "Synonyms: unhopeful"]}
