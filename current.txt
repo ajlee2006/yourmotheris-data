@@ -1,1 +1,1 @@
-{"data": ["2022-03-09T08:01:35.028498+00:00", 811, "Your mother is", "ultra", "Pronunciation: /\u02c8\u0259ltr\u0259/", "Definition: (used of opinions and actions) far beyond the norm", "Synonyms: extremist, radical"]}
+{"data": ["2022-03-09T09:01:18.449994+00:00", 812, "Your mother is", "word-perfect", "Similar to: correct", "Definition: correct to the last detail; especially being in or following the exact words", "Synonyms: letter-perfect"]}
