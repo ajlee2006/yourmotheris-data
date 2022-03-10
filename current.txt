@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T08:00:42.939304+00:00", 835, "Your mother is", "jolted", "Pronunciation: /\u02c8d\u0292o\u028alt\u026ad/", "Definition: disturbed psychologically as if by a physical jolt or shock", "Synonyms: shaken"]}
+{"data": ["2022-03-10T09:01:01.935369+00:00", 836, "Your mother is", "wacky", "Pronunciation: /\u02c8w\u00e6ki/", "Definition: ludicrous, foolish", "Synonyms: goofy, silly, whacky, zany"]}
