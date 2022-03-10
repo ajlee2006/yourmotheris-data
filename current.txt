@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T15:00:58.609259+00:00", 842, "Your mother is", "transmittable", "Pronunciation: /tr\u00e6nz\u02c8m\u026at\u028cb\u028cl/", "Definition: (of disease) capable of being transmitted by infection", "Synonyms: catching, communicable, contagious, contractable, transmissible"]}
+{"data": ["2022-03-10T16:00:47.114295+00:00", 843, "Your mother is", "keyed", "Pronunciation: /kid/", "Definition: set to a key or tone", ""]}
