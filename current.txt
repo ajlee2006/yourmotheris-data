@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T03:00:39.950164+00:00", 830, "Your mother is", "fineable", "Pronunciation: /\u02c8fa\u026an\u0259b\u0259l/", "Definition: liable to a fine", "Synonyms: finable"]}
+{"data": ["2022-03-10T04:01:25.385506+00:00", 831, "Your mother is", "mephistophelean", "Pronunciation: /\u02ccm\u025bf\u026asto\u028a\u02c8fili\u0259n/", "Definition: showing the cunning or ingenuity or wickedness typical of a devil", "Synonyms: devilish, diabolic, diabolical, mephistophelian"]}
