@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T22:01:15.923188+00:00", 849, "Your mother is", "obliterated", "Pronunciation: /\u028c\u02c8bl\u026at\u025dr\u02cce\u026at\u026ad/", "Definition: reduced to nothingness", "Synonyms: blotted out, obliterate"]}
+{"data": ["2022-03-10T23:00:47.269240+00:00", 850, "Your mother is", "unclouded", "Pronunciation: /\u0259n\u02c8kl\u00e6\u028ad\u026ad/", "Definition: free from clouds", "Synonyms: cloudless"]}
