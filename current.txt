@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T19:00:53.671516+00:00", 846, "Your mother is", "accurst", "Similar to: cursed", "Definition: under a curse", "Synonyms: accursed, maledict"]}
+{"data": ["2022-03-10T20:01:27.418334+00:00", 847, "Your mother is", "reedy", "Pronunciation: /\u02c8ridi/", "Definition: having a tone of a reed instrument", "Synonyms: wheezy"]}
