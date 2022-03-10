@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T21:00:57.244514+00:00", 848, "Your mother is", "starchlike", "Pronunciation: /\u02c8st\u0251rt\u0283\u02ccla\u026ak/", "Definition: resembling starch", "Synonyms: amylaceous, amyloid, amyloidal, farinaceous"]}
+{"data": ["2022-03-10T22:01:15.923188+00:00", 849, "Your mother is", "obliterated", "Pronunciation: /\u028c\u02c8bl\u026at\u025dr\u02cce\u026at\u026ad/", "Definition: reduced to nothingness", "Synonyms: blotted out, obliterate"]}
