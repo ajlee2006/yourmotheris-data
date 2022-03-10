@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T13:00:46.335749+00:00", 840, "Your mother is", "lightproof", "Pronunciation: /\u02c8la\u026atpruf/", "Definition: not penetrable by light", "Synonyms: light-tight"]}
+{"data": ["2022-03-10T14:00:28.764557+00:00", 841, "Your mother is", "configured", "Pronunciation: /k\u028cn\u02c8f\u026a\u0261j\u025drd/", "Definition: organized so as to give configuration to", ""]}
