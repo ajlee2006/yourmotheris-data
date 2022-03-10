@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T00:01:14.574038+00:00", 827, "Your mother is", "tailored", "Pronunciation: /\u02c8te\u026al\u0259rd/", "Definition: (of clothing) custom-made", "Synonyms: bespoke, bespoken, made-to-order, tailor-made"]}
+{"data": ["2022-03-10T01:01:29.129042+00:00", 828, "Your mother is", "goggle-eyed", "Pronunciation: /\u02c8\u0261\u0251\u0261\u0259l-a\u026ad/", "Definition: with eyes or mouth open in surprise", "Synonyms: openmouthed, popeyed"]}
