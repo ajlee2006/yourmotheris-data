@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T06:00:44.096143+00:00", 833, "Your mother is", "stone-gray", "Similar to: achromatic", "Definition: of the color of slate or granite", "Synonyms: slate-gray, slate-grey, slatey, slaty, slaty-gray, slaty-grey, stone-grey"]}
+{"data": ["2022-03-10T07:00:24.463019+00:00", 834, "Your mother is", "self-effacing", "Pronunciation: /\u02ccs\u025blf\u026a\u02c8fe\u026asi\u014b/", "Definition: reluctant to draw attention to yourself", "Synonyms: reticent, retiring"]}
