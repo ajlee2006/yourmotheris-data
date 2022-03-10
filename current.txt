@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T04:01:25.385506+00:00", 831, "Your mother is", "mephistophelean", "Pronunciation: /\u02ccm\u025bf\u026asto\u028a\u02c8fili\u0259n/", "Definition: showing the cunning or ingenuity or wickedness typical of a devil", "Synonyms: devilish, diabolic, diabolical, mephistophelian"]}
+{"data": ["2022-03-10T05:00:51.270626+00:00", 832, "Your mother is", "uncordial", "Similar to: unfriendly", "Definition: lacking warmth or friendliness", ""]}
