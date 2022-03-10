@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T16:00:47.114295+00:00", 843, "Your mother is", "keyed", "Pronunciation: /kid/", "Definition: set to a key or tone", ""]}
+{"data": ["2022-03-10T17:00:36.320485+00:00", 844, "Your mother is", "recreational", "Pronunciation: /\u02ccr\u025bkri\u02c8e\u026a\u0283\u028cn\u028cl/", "Definition: engaged in as a pastime", "Synonyms: amateur, unpaid"]}
