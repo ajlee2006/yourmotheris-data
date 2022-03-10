@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T09:01:01.935369+00:00", 836, "Your mother is", "wacky", "Pronunciation: /\u02c8w\u00e6ki/", "Definition: ludicrous, foolish", "Synonyms: goofy, silly, whacky, zany"]}
+{"data": ["2022-03-10T10:01:25.020249+00:00", 837, "Your mother is", "acid-loving", "Similar to: acidophilic", "Definition: thriving in a relatively acidic environment (especially of plants requiring a pH well below 7)", ""]}
