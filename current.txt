@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T20:01:27.418334+00:00", 847, "Your mother is", "reedy", "Pronunciation: /\u02c8ridi/", "Definition: having a tone of a reed instrument", "Synonyms: wheezy"]}
+{"data": ["2022-03-10T21:00:57.244514+00:00", 848, "Your mother is", "starchlike", "Pronunciation: /\u02c8st\u0251rt\u0283\u02ccla\u026ak/", "Definition: resembling starch", "Synonyms: amylaceous, amyloid, amyloidal, farinaceous"]}
