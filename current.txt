@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T18:01:11.747985+00:00", 845, "Your mother is", "underhand", "Pronunciation: /\u02c8\u0259nd\u0259r\u02cch\u00e6nd/", "Definition: marked by deception", "Synonyms: sneaky, underhanded"]}
+{"data": ["2022-03-10T19:00:53.671516+00:00", 846, "Your mother is", "accurst", "Similar to: cursed", "Definition: under a curse", "Synonyms: accursed, maledict"]}
