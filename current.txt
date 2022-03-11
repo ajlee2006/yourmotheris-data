@@ -1,1 +1,1 @@
-{"data": ["2022-03-11T02:01:30.301005+00:00", 853, "Your mother is", "undue", "Pronunciation: /\u0259n\u02c8du/", "Definition: beyond normal limits", "Synonyms: excessive, inordinate, unreasonable"]}
+{"data": ["2022-03-11T03:01:40.375632+00:00", 854, "Your mother is", "platelike", "Pronunciation: /\u02c8ple\u026at\u02ccla\u026ak/", "Definition: as the hard flattened scales of e.g. sharks", "Synonyms: placoid"]}
