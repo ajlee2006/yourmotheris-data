@@ -1,1 +1,1 @@
-{"data": ["2022-03-11T13:00:42.850771+00:00", 864, "Your mother is", "unconnected", "Pronunciation: /\u02cc\u0259nk\u0259\u02c8n\u025bkt\u026ad/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, garbled, illogical, scattered"]}
+{"data": ["2022-03-11T14:00:45.890539+00:00", 865, "Your mother is", "auditory", "Pronunciation: /\u02c8\u0254d\u026a\u02ccto\u028ari/", "Definition: of or relating to the process of hearing", "Synonyms: audile, auditive"]}
