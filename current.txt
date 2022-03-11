@@ -1,1 +1,1 @@
-{"data": ["2022-03-11T14:00:45.890539+00:00", 865, "Your mother is", "auditory", "Pronunciation: /\u02c8\u0254d\u026a\u02ccto\u028ari/", "Definition: of or relating to the process of hearing", "Synonyms: audile, auditive"]}
+{"data": ["2022-03-11T15:01:06.844971+00:00", 866, "Your mother is", "centralizing", "Pronunciation: /\u02c8s\u025bntr\u028c\u02ccla\u026az\u026a\u014b/", "Definition: tending to draw to a central point", "Synonyms: centralising"]}
