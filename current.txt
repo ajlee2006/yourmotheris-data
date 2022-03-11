@@ -1,1 +1,1 @@
-{"data": ["2022-03-10T23:00:47.269240+00:00", 850, "Your mother is", "unclouded", "Pronunciation: /\u0259n\u02c8kl\u00e6\u028ad\u026ad/", "Definition: free from clouds", "Synonyms: cloudless"]}
+{"data": ["2022-03-11T00:01:25.664223+00:00", 851, "Your mother is", "autoicous", "Pronunciation: /\u0254\u02c8t\u0254\u026ak\u0259s/", "Definition: having male and female reproductive organs in separate clusters on the same plant", ""]}
