@@ -1,1 +1,1 @@
-{"data": ["2022-03-11T21:01:03.800662+00:00", 872, "Your mother is", "floating", "Pronunciation: /\u02c8flo\u028at\u026a\u014b/", "Definition: continually changing especially as from one abode or occupation to another", "Synonyms: aimless, drifting, vagabond, vagrant"]}
+{"data": ["2022-03-11T22:00:34.168264+00:00", 873, "Your mother is", "fiscal", "Pronunciation: /\u02c8f\u026ask\u0259l/", "Definition: involving financial matters", "Synonyms: financial"]}
