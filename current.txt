@@ -1,1 +1,1 @@
-{"data": ["2022-03-11T06:00:54.769016+00:00", 857, "Your mother is", "forbidden", "Pronunciation: /f\u0259r\u02c8b\u026ad\u0259n/", "Definition: excluded from use or mention", "Synonyms: out, prohibited, proscribed, taboo, tabu, verboten"]}
+{"data": ["2022-03-11T07:00:30.426346+00:00", 858, "Your mother is", "mordant", "Pronunciation: /\u02c8m\u0254rd\u0259nt/", "Definition: of a substance, especially a strong acid; capable of destroying or eating away by chemical action", "Synonyms: caustic, corrosive, erosive, vitriolic"]}
