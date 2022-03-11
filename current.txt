@@ -1,1 +1,1 @@
-{"data": ["2022-03-11T07:00:30.426346+00:00", 858, "Your mother is", "mordant", "Pronunciation: /\u02c8m\u0254rd\u0259nt/", "Definition: of a substance, especially a strong acid; capable of destroying or eating away by chemical action", "Synonyms: caustic, corrosive, erosive, vitriolic"]}
+{"data": ["2022-03-11T08:01:06.374444+00:00", 859, "Your mother is", "churning", "Pronunciation: /\u02c8\u02a7\u025crn\u026a\u014b/", "Definition: moving with or producing or produced by vigorous agitation", "Synonyms: churned-up"]}
