@@ -1,1 +1,1 @@
-{"data": ["2022-03-11T00:01:25.664223+00:00", 851, "Your mother is", "autoicous", "Pronunciation: /\u0254\u02c8t\u0254\u026ak\u0259s/", "Definition: having male and female reproductive organs in separate clusters on the same plant", ""]}
+{"data": ["2022-03-11T01:01:06.098873+00:00", 852, "Your mother is", "beforehand", "Pronunciation: /b\u026a\u02c8fo\u028ar\u02cch\u00e6nd/", "Definition: being ahead of time or need", "Synonyms: advance"]}
