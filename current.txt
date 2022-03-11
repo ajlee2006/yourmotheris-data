@@ -1,1 +1,1 @@
-{"data": ["2022-03-11T05:01:19.986396+00:00", 856, "Your mother is", "nitric", "Pronunciation: /\u02c8na\u026atrik/", "Definition: of or containing nitrogen", "Synonyms: azotic, nitrous"]}
+{"data": ["2022-03-11T06:00:54.769016+00:00", 857, "Your mother is", "forbidden", "Pronunciation: /f\u0259r\u02c8b\u026ad\u0259n/", "Definition: excluded from use or mention", "Synonyms: out, prohibited, proscribed, taboo, tabu, verboten"]}
