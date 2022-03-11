@@ -1,1 +1,1 @@
-{"data": ["2022-03-11T12:00:24.092731+00:00", 863, "Your mother is", "unpointed", "Pronunciation: /\u0259n\u02c8p\u0254\u026ant\u026ad/", "Definition: not having a point especially a sharp point", "Synonyms: pointless"]}
+{"data": ["2022-03-11T13:00:42.850771+00:00", 864, "Your mother is", "unconnected", "Pronunciation: /\u02cc\u0259nk\u0259\u02c8n\u025bkt\u026ad/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, garbled, illogical, scattered"]}
