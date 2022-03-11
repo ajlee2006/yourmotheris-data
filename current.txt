@@ -1,1 +1,1 @@
-{"data": ["2022-03-11T08:01:06.374444+00:00", 859, "Your mother is", "churning", "Pronunciation: /\u02c8\u02a7\u025crn\u026a\u014b/", "Definition: moving with or producing or produced by vigorous agitation", "Synonyms: churned-up"]}
+{"data": ["2022-03-11T09:01:11.920150+00:00", 860, "Your mother is", "surrogate", "Pronunciation: /\u02c8s\u025cr\u0259\u02cc\u0261e\u026at/", "Definition: providing or receiving nurture or parental care though not related by blood or legal ties", "Synonyms: foster"]}
