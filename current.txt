@@ -1,1 +1,1 @@
-{"data": ["2022-03-11T11:00:36.853252+00:00", 862, "Your mother is", "traveled", "Pronunciation: /\u02c8tr\u00e6v\u0259ld/", "Definition: familiar with many parts of the world", "Synonyms: travelled"]}
+{"data": ["2022-03-11T12:00:24.092731+00:00", 863, "Your mother is", "unpointed", "Pronunciation: /\u0259n\u02c8p\u0254\u026ant\u026ad/", "Definition: not having a point especially a sharp point", "Synonyms: pointless"]}
