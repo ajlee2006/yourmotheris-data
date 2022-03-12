@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T07:00:38.802071+00:00", 882, "Your mother is", "die-hard", "Pronunciation: /da\u026a-h\u0251rd/", "Definition: tradition-bound and obstinately opinionated", "Synonyms: rock-ribbed"]}
+{"data": ["2022-03-12T08:01:12.400794+00:00", 883, "Your mother is", "responsible", "Pronunciation: /r\u026a\u02c8sp\u0251ns\u0259b\u0259l/", "Definition: being the agent or cause", "Synonyms: responsible for"]}
