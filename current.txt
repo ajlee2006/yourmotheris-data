@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T03:01:38.293498+00:00", 878, "Your mother is", "supplemental", "Pronunciation: /\u02ccs\u0259pl\u0259\u02c8m\u025bnt\u0259l/", "Definition: functioning in a supporting capacity", "Synonyms: auxiliary, subsidiary, supplementary"]}
+{"data": ["2022-03-12T04:01:13.034770+00:00", 879, "Your mother is", "instinctive", "Pronunciation: /\u026an\u02c8st\u026a\u014bkt\u026av/", "Definition: unthinking; prompted by (or as if by) instinct", "Synonyms: natural"]}
