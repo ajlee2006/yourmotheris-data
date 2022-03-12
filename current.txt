@@ -1,1 +1,1 @@
-{"data": ["2022-03-11T23:01:29.808171+00:00", 874, "Your mother is", "cardboard", "Pronunciation: /\u02c8k\u0251rd\u02ccbo\u028ard/", "Definition: without substance", "Synonyms: unlifelike"]}
+{"data": ["2022-03-12T00:01:55.060859+00:00", 875, "Your mother is", "fricative", "Pronunciation: /\u02c8fr\u026ak\u0259t\u026av/", "Definition: of speech sounds produced by forcing air through a constricted passage (as `f', `s', `z', or `th' in both `thin' and `then')", "Synonyms: continuant, sibilant, spirant, strident"]}
