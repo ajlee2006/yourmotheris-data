@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T09:00:42.613973+00:00", 884, "Your mother is", "ghastly", "Pronunciation: /\u0261\u00e6stli/", "Definition: gruesomely indicative of death or the dead", "Synonyms: charnel, sepulchral"]}
+{"data": ["2022-03-12T10:00:18.097384+00:00", 885, "Your mother is", "substitutable", "Similar to: exchangeable", "Definition: capable of being exchanged for another or for something else that is equivalent", "Synonyms: commutable"]}
