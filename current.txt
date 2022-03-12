@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T21:00:40.498536+00:00", 896, "Your mother is", "rebellious", "Pronunciation: /r\u026a\u02c8b\u025blj\u0259s/", "Definition: discontented as toward authority", "Synonyms: disaffected, ill-affected, malcontent"]}
+{"data": ["2022-03-12T22:00:49.531167+00:00", 897, "Your mother is", "storm-beaten", "Similar to: damaged", "Definition: damaged by storm", ""]}
