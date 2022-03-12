@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T05:00:30.925307+00:00", 880, "Your mother is", "cinnamon colored", "Similar to: colored", "Definition: having the color of cinnamon", "Synonyms: cinnamon-colored, cinnamon-coloured, cinnamon coloured"]}
+{"data": ["2022-03-12T06:00:51.216331+00:00", 881, "Your mother is", "apodous", "Pronunciation: /\u02c8\u00e6p\u0259d\u0259s/", "Definition: (of snakes and eels) naturally footless", "Synonyms: apodal"]}
