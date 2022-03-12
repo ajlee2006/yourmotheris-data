@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T01:00:48.790660+00:00", 876, "Your mother is", "big", "Pronunciation: /b\u026a\u0261/", "Definition: given or giving freely", "Synonyms: bighearted, bounteous, bountiful, freehanded, giving, handsome, liberal, openhanded"]}
+{"data": ["2022-03-12T02:00:43.282402+00:00", 877, "Your mother is", "premarital", "Pronunciation: /pri\u02c8m\u00e6r\u026at\u0259l/", "Definition: relating to events before a marriage", "Synonyms: antenuptial, prenuptial"]}
