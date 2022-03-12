@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T13:00:49.179607+00:00", 888, "Your mother is", "injurious", "Pronunciation: /\u026an\u02c8d\u0292\u028ari\u0259s/", "Definition: harmful to living things", "Synonyms: deleterious, hurtful"]}
+{"data": ["2022-03-12T14:01:33.757515+00:00", 889, "Your mother is", "half-evergreen", "Pronunciation: /h\u00e6f-\u02c8\u025bv\u0259r\u02ccgrin/", "Definition: of a plant that is incompletely evergreen", "Synonyms: semi-evergreen"]}
