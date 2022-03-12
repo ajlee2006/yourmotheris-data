@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T14:01:33.757515+00:00", 889, "Your mother is", "half-evergreen", "Pronunciation: /h\u00e6f-\u02c8\u025bv\u0259r\u02ccgrin/", "Definition: of a plant that is incompletely evergreen", "Synonyms: semi-evergreen"]}
+{"data": ["2022-03-12T15:00:51.417342+00:00", 890, "Your mother is", "undying", "Pronunciation: /\u0259n\u02c8da\u026a\u026a\u014b/", "Definition: never dying", "Synonyms: deathless"]}
