@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T20:01:34.354258+00:00", 895, "Your mother is", "euphonious", "Pronunciation: /ju\u02c8fo\u028ani\u0259s/", "Definition: having a pleasant sound", "Synonyms: euphonous"]}
+{"data": ["2022-03-12T21:00:40.498536+00:00", 896, "Your mother is", "rebellious", "Pronunciation: /r\u026a\u02c8b\u025blj\u0259s/", "Definition: discontented as toward authority", "Synonyms: disaffected, ill-affected, malcontent"]}
