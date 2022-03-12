@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T12:01:25.582590+00:00", 887, "Your mother is", "two-lobed", "Pronunciation: /tu-lo\u028abd/", "Definition: having two lobes", ""]}
+{"data": ["2022-03-12T13:00:49.179607+00:00", 888, "Your mother is", "injurious", "Pronunciation: /\u026an\u02c8d\u0292\u028ari\u0259s/", "Definition: harmful to living things", "Synonyms: deleterious, hurtful"]}
