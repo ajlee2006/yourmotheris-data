@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T15:00:51.417342+00:00", 890, "Your mother is", "undying", "Pronunciation: /\u0259n\u02c8da\u026a\u026a\u014b/", "Definition: never dying", "Synonyms: deathless"]}
+{"data": ["2022-03-12T16:00:17.898915+00:00", 891, "Your mother is", "matchless", "Pronunciation: /\u02c8m\u00e6\u02a7l\u026as/", "Definition: eminent beyond or above comparison", "Synonyms: nonpareil, one, one and only, peerless, unmatchable, unmatched, unrivaled, unrivalled"]}
