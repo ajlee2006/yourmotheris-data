@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T17:01:14.003413+00:00", 892, "Your mother is", "homespun", "Pronunciation: /\u02c8ho\u028am\u02ccsp\u0259n/", "Definition: characteristic of country life", "Synonyms: cracker-barrel"]}
+{"data": ["2022-03-12T18:01:08.010806+00:00", 893, "Your mother is", "eighteenth", "Pronunciation: /\u02c8e\u026a\u02c8tin\u03b8/", "Definition: coming next after the seventeenth in position", "Synonyms: 18th"]}
