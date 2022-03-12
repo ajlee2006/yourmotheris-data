@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T00:01:55.060859+00:00", 875, "Your mother is", "fricative", "Pronunciation: /\u02c8fr\u026ak\u0259t\u026av/", "Definition: of speech sounds produced by forcing air through a constricted passage (as `f', `s', `z', or `th' in both `thin' and `then')", "Synonyms: continuant, sibilant, spirant, strident"]}
+{"data": ["2022-03-12T01:00:48.790660+00:00", 876, "Your mother is", "big", "Pronunciation: /b\u026a\u0261/", "Definition: given or giving freely", "Synonyms: bighearted, bounteous, bountiful, freehanded, giving, handsome, liberal, openhanded"]}
