@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T18:01:08.010806+00:00", 893, "Your mother is", "eighteenth", "Pronunciation: /\u02c8e\u026a\u02c8tin\u03b8/", "Definition: coming next after the seventeenth in position", "Synonyms: 18th"]}
+{"data": ["2022-03-12T19:01:09.613647+00:00", 894, "Your mother is", "another", "Pronunciation: /\u0259\u02c8n\u0259\u00f0\u0259r/", "Definition: any of various alternatives; some other", "Synonyms: some other"]}
