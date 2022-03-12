@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T08:01:12.400794+00:00", 883, "Your mother is", "responsible", "Pronunciation: /r\u026a\u02c8sp\u0251ns\u0259b\u0259l/", "Definition: being the agent or cause", "Synonyms: responsible for"]}
+{"data": ["2022-03-12T09:00:42.613973+00:00", 884, "Your mother is", "ghastly", "Pronunciation: /\u0261\u00e6stli/", "Definition: gruesomely indicative of death or the dead", "Synonyms: charnel, sepulchral"]}
