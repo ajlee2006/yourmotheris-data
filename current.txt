@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T22:00:49.531167+00:00", 897, "Your mother is", "storm-beaten", "Similar to: damaged", "Definition: damaged by storm", ""]}
+{"data": ["2022-03-12T23:00:53.413100+00:00", 898, "Your mother is", "half-breed", "Pronunciation: /h\u00e6f-brid/", "Definition: (of animals) having only one purebred parent", "Synonyms: half-blooded, half-bred"]}
