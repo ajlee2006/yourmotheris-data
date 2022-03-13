@@ -1,1 +1,1 @@
-{"data": ["2022-03-13T16:01:08.930267+00:00", 915, "Your mother is", "solitary", "Pronunciation: /\u02c8s\u0251l\u026a\u02cct\u025bri/", "Definition: of plants and animals; not growing or living in groups or colonies", "Synonyms: nongregarious, nonsocial"]}
+{"data": ["2022-03-13T17:01:02.587410+00:00", 916, "Your mother is", "windward", "Pronunciation: /\u02c8w\u026andw\u0259d/", "Definition: on the side exposed to the wind", ""]}
