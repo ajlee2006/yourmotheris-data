@@ -1,1 +1,1 @@
-{"data": ["2022-03-13T10:01:13.432036+00:00", 909, "Your mother is", "redux", "Similar to: revived", "Definition: brought back", ""]}
+{"data": ["2022-03-13T11:01:35.423185+00:00", 910, "Your mother is", "incommunicative", "Pronunciation: /\u02cc\u026ank\u0259\u02c8mjun\u0259\u02ccke\u026at\u026av/", "Definition: not inclined to talk or give information or express opinions", "Synonyms: uncommunicative"]}
