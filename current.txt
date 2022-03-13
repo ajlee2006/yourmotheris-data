@@ -1,1 +1,1 @@
-{"data": ["2022-03-13T19:00:35.670498+00:00", 918, "Your mother is", "nonviolent", "Pronunciation: /n\u0251n\u02c8va\u026a\u028cl\u028cnt/", "Definition: achieved without bloodshed", "Synonyms: unbloody"]}
+{"data": ["2022-03-13T20:00:29.771084+00:00", 919, "Your mother is", "viewable", "Pronunciation: /\u02c8vju\u0259b\u0259l/", "Definition: capable of being viewed", ""]}
