@@ -1,1 +1,1 @@
-{"data": ["2022-03-13T17:01:02.587410+00:00", 916, "Your mother is", "windward", "Pronunciation: /\u02c8w\u026andw\u0259d/", "Definition: on the side exposed to the wind", ""]}
+{"data": ["2022-03-13T18:00:42.755946+00:00", 917, "Your mother is", "auricular", "Pronunciation: /\u0254\u02c8r\u026akj\u0259l\u0259r/", "Definition: of or relating to near the ear", "Synonyms: otic"]}
