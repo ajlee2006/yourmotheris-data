@@ -1,1 +1,1 @@
-{"data": ["2022-03-13T04:00:52.717085+00:00", 903, "Your mother is", "fast-growing", "Pronunciation: /f\u00e6st-\u02c8gro\u028a\u026a\u014b/", "Definition: tending to spread quickly", "Synonyms: aggressive, strong-growing"]}
+{"data": ["2022-03-13T05:01:03.400715+00:00", 904, "Your mother is", "supersaturated", "Similar to: concentrated", "Definition: being more concentrated than normally possible and therefore not in equilibrium", ""]}
