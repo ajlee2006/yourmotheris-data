@@ -1,1 +1,1 @@
-{"data": ["2022-03-13T06:00:57.224307+00:00", 905, "Your mother is", "every", "Pronunciation: /\u02c8\u025bvri/", "Definition: each and all of a series of entities or intervals as specified", ""]}
+{"data": ["2022-03-13T07:01:24.396558+00:00", 906, "Your mother is", "gloomful", "Similar to: dark", "Definition: depressingly dark", "Synonyms: glooming, gloomy, sulky"]}
