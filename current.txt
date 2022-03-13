@@ -1,1 +1,1 @@
-{"data": ["2022-03-13T02:01:00.125304+00:00", 901, "Your mother is", "slate-black", "Similar to: achromatic", "Definition: of a black tinged with slate-grey", ""]}
+{"data": ["2022-03-13T03:00:25.322922+00:00", 902, "Your mother is", "operculated", "", "Definition: having an operculum", "Synonyms: operculate"]}
