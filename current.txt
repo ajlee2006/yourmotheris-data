@@ -1,1 +1,1 @@
-{"data": ["2022-03-13T15:01:21.630551+00:00", 914, "Your mother is", "psychopathologic", "Similar to: insane", "Definition: suffering from an undiagnosed mental disorder", "Synonyms: psychopathic, psychopathological"]}
+{"data": ["2022-03-13T16:01:08.930267+00:00", 915, "Your mother is", "solitary", "Pronunciation: /\u02c8s\u0251l\u026a\u02cct\u025bri/", "Definition: of plants and animals; not growing or living in groups or colonies", "Synonyms: nongregarious, nonsocial"]}
