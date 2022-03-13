@@ -1,1 +1,1 @@
-{"data": ["2022-03-13T20:00:29.771084+00:00", 919, "Your mother is", "viewable", "Pronunciation: /\u02c8vju\u0259b\u0259l/", "Definition: capable of being viewed", ""]}
+{"data": ["2022-03-13T21:00:39.271796+00:00", 920, "Your mother is", "festive", "Pronunciation: /\u02c8f\u025bst\u026av/", "Definition: offering fun and gaiety", "Synonyms: festal, gay, merry"]}
