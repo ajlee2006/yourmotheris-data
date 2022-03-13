@@ -1,1 +1,1 @@
-{"data": ["2022-03-12T23:00:53.413100+00:00", 898, "Your mother is", "half-breed", "Pronunciation: /h\u00e6f-brid/", "Definition: (of animals) having only one purebred parent", "Synonyms: half-blooded, half-bred"]}
+{"data": ["2022-03-13T00:05:36.610628+00:00", 899, "Your mother is", "disproportional", "Pronunciation: /\u02ccd\u026aspr\u0259\u02c8po\u028ar\u0283\u0259n\u0259l/", "Definition: out of proportion", "Synonyms: disproportionate"]}
