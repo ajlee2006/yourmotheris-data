@@ -1,1 +1,1 @@
-{"data": ["2022-03-13T00:05:36.610628+00:00", 899, "Your mother is", "disproportional", "Pronunciation: /\u02ccd\u026aspr\u0259\u02c8po\u028ar\u0283\u0259n\u0259l/", "Definition: out of proportion", "Synonyms: disproportionate"]}
+{"data": ["2022-03-13T01:01:34.038473+00:00", 900, "Your mother is", "accepted", "Pronunciation: /\u00e6k\u02c8s\u025bpt\u026ad/", "Definition: generally approved or compelling recognition", "Synonyms: recognised, recognized"]}
