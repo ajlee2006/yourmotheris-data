@@ -1,1 +1,1 @@
-{"data": ["2022-03-13T01:01:34.038473+00:00", 900, "Your mother is", "accepted", "Pronunciation: /\u00e6k\u02c8s\u025bpt\u026ad/", "Definition: generally approved or compelling recognition", "Synonyms: recognised, recognized"]}
+{"data": ["2022-03-13T02:01:00.125304+00:00", 901, "Your mother is", "slate-black", "Similar to: achromatic", "Definition: of a black tinged with slate-grey", ""]}
