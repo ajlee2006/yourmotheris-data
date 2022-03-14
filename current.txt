@@ -1,1 +1,1 @@
-{"data": ["2022-03-14T01:01:23.104059+00:00", 924, "Your mother is", "palsy-walsy", "Similar to: friendly", "Definition: (used colloquially) having the relationship of friends or pals", "Synonyms: chummy, matey, pally"]}
+{"data": ["2022-03-14T02:00:48.593770+00:00", 925, "Your mother is", "7th", "Similar to: ordinal", "Definition: coming next after the sixth and just before the eighth in position", "Synonyms: seventh"]}
