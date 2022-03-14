@@ -1,1 +1,1 @@
-{"data": ["2022-03-14T18:00:41.830731+00:00", 941, "Your mother is", "awless", "Pronunciation: /\u02c8\u0254l\u026as/", "Definition: neither feeling nor showing respect", "Synonyms: aweless, disrespectful"]}
+{"data": ["2022-03-14T19:00:55.215077+00:00", 942, "Your mother is", "scoreless", "Pronunciation: /\u02c8sk\u0254rl\u028cs/", "Definition: having no points scores", "Synonyms: goalless, hitless, pointless"]}
