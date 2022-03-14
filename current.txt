@@ -1,1 +1,1 @@
-{"data": ["2022-03-14T09:00:28.094723+00:00", 932, "Your mother is", "slippy", "Pronunciation: /\u02c8sl\u026api/", "Definition: causing or tending to cause things to slip or slide", "Synonyms: slippery"]}
+{"data": ["2022-03-14T10:00:47.370638+00:00", 933, "Your mother is", "foul-mouthed", "Similar to: dirty", "Definition: using foul or obscene language", "Synonyms: foul-spoken"]}
