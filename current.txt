@@ -1,1 +1,1 @@
-{"data": ["2022-03-14T00:01:30.610771+00:00", 923, "Your mother is", "philosophical", "Pronunciation: /\u02ccf\u026al\u0259\u02c8s\u0251f\u026ak\u0259l/", "Definition: characterized by the attitude of a philosopher; meeting trouble with level-headed detachment", "Synonyms: philosophic"]}
+{"data": ["2022-03-14T01:01:23.104059+00:00", 924, "Your mother is", "palsy-walsy", "Similar to: friendly", "Definition: (used colloquially) having the relationship of friends or pals", "Synonyms: chummy, matey, pally"]}
