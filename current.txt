@@ -1,1 +1,1 @@
-{"data": ["2022-03-14T07:01:08.684016+00:00", 930, "Your mother is", "demoniac", "Pronunciation: /d\u026a\u02c8mo\u028ani\u02cc\u00e6k/", "Definition: of, pertaining to, or like a demon or possession by a demon", "Synonyms: demoniacal, possessed"]}
+{"data": ["2022-03-14T08:00:59.681980+00:00", 931, "Your mother is", "decorous", "Pronunciation: /\u02c8d\u025bk\u0259r\u0259s/", "Definition: according with custom or propriety", "Synonyms: becoming, comely, comme il faut, seemly"]}
