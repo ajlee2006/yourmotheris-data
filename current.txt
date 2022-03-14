@@ -1,1 +1,1 @@
-{"data": ["2022-03-14T17:00:43.965596+00:00", 940, "Your mother is", "inflamed", "Pronunciation: /\u026an\u02c8fle\u026amd/", "Definition: lighted with red light as if with flames", "Synonyms: ablaze, reddened"]}
+{"data": ["2022-03-14T18:00:41.830731+00:00", 941, "Your mother is", "awless", "Pronunciation: /\u02c8\u0254l\u026as/", "Definition: neither feeling nor showing respect", "Synonyms: aweless, disrespectful"]}
