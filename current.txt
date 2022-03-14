@@ -1,1 +1,1 @@
-{"data": ["2022-03-14T08:00:59.681980+00:00", 931, "Your mother is", "decorous", "Pronunciation: /\u02c8d\u025bk\u0259r\u0259s/", "Definition: according with custom or propriety", "Synonyms: becoming, comely, comme il faut, seemly"]}
+{"data": ["2022-03-14T09:00:28.094723+00:00", 932, "Your mother is", "slippy", "Pronunciation: /\u02c8sl\u026api/", "Definition: causing or tending to cause things to slip or slide", "Synonyms: slippery"]}
