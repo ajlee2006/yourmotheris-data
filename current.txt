@@ -1,1 +1,1 @@
-{"data": ["2022-03-14T03:00:37.489630+00:00", 926, "Your mother is", "conical", "Pronunciation: /\u02c8k\u0251n\u026a\u0259l/", "Definition: relating to or resembling a cone", "Synonyms: cone-shaped, conelike, conic"]}
+{"data": ["2022-03-14T04:01:31.525249+00:00", 927, "Your mother is", "unthought", "Pronunciation: /\u0259n\u02c8\u03b8\u0254t/", "Definition: so unexpected as to have not been imagined", "Synonyms: unhoped, unhoped-for, unthought-of"]}
