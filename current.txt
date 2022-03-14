@@ -1,1 +1,1 @@
-{"data": ["2022-03-14T12:00:36.025521+00:00", 935, "Your mother is", "conforming", "Pronunciation: /k\u028cn\u02c8f\u0254rm\u026a\u014b/", "Definition: adhering to established customs or doctrines (especially in religion)", "Synonyms: conformist"]}
+{"data": ["2022-03-14T13:01:02.206641+00:00", 936, "Your mother is", "bespoke", "Pronunciation: /b\u026a\u02c8spo\u028ak/", "Definition: (of clothing) custom-made", "Synonyms: bespoken, made-to-order, tailor-made, tailored"]}
