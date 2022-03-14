@@ -1,1 +1,1 @@
-{"data": ["2022-03-14T22:01:01.088375+00:00", 945, "Your mother is", "uncoordinated", "Pronunciation: /\u02cc\u0259nko\u028a\u02c8o\u028ard\u026a\u02ccne\u026at\u026ad/", "Definition: lacking in cooperative planning and organization", ""]}
+{"data": ["2022-03-14T23:00:48.128393+00:00", 946, "Your mother is", "ear-shaped", "Similar to: rounded", "Definition: having a shape resembling an ear", "Synonyms: auriform, ear-like"]}
