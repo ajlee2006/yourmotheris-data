@@ -1,1 +1,1 @@
-{"data": ["2022-03-13T23:00:18.016213+00:00", 922, "Your mother is", "intolerable", "Pronunciation: /\u026an\u02c8t\u0251l\u0259r\u0259b\u0259l/", "Definition: incapable of being tolerated or endured", "Synonyms: unbearable, unendurable"]}
+{"data": ["2022-03-14T00:01:30.610771+00:00", 923, "Your mother is", "philosophical", "Pronunciation: /\u02ccf\u026al\u0259\u02c8s\u0251f\u026ak\u0259l/", "Definition: characterized by the attitude of a philosopher; meeting trouble with level-headed detachment", "Synonyms: philosophic"]}
