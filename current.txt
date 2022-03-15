@@ -1,1 +1,1 @@
-{"data": ["2022-03-15T03:01:13.712903+00:00", 950, "Your mother is", "prima facie", "Pronunciation: /\u02c8pra\u026am\u0259-\u02c8fe\u026a\u0283i\u02cci/", "Definition: as it seems at first sight", ""]}
+{"data": ["2022-03-15T04:00:43.772526+00:00", 951, "Your mother is", "water-cooled", "Similar to: cool", "Definition: kept cool or designed to be kept cool by means of water especially circulating water", ""]}
