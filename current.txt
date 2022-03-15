@@ -1,1 +1,1 @@
-{"data": ["2022-03-15T17:00:56.642140+00:00", 964, "Your mother is", "polite", "Pronunciation: /p\u0259\u02c8la\u026at/", "Definition: marked by refinement in taste and manners", "Synonyms: civilised, civilized, cultivated, cultured, genteel"]}
+{"data": ["2022-03-15T18:00:57.829785+00:00", 965, "Your mother is", "heterotrophic", "Pronunciation: /\u02cch\u025bt\u0259r\u0259\u02c8tr\u0251f\u026ak/", "Definition: requiring organic compounds of carbon and nitrogen for nourishment", ""]}
