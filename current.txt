@@ -1,1 +1,1 @@
-{"data": ["2022-03-15T01:01:09.953172+00:00", 948, "Your mother is", "evil", "Pronunciation: /\u02c8iv\u0259l/", "Definition: having the nature of vice", "Synonyms: vicious"]}
+{"data": ["2022-03-15T02:00:40.932594+00:00", 949, "Your mother is", "svelte", "Pronunciation: /sv\u025blt/", "Definition: being of delicate or slender build", "Synonyms: slender, slight, slim"]}
