@@ -1,1 +1,1 @@
-{"data": ["2022-03-15T15:00:46.057717+00:00", 962, "Your mother is", "sanative", "Pronunciation: /\u02c8s\u00e6n\u0259t\u026av/", "Definition: tending to cure or restore to health", "Synonyms: alterative, curative, healing, remedial, therapeutic"]}
+{"data": ["2022-03-15T16:01:23.580777+00:00", 963, "Your mother is", "immortal", "Pronunciation: /\u026a\u02c8m\u0254rt\u0259l/", "Definition: not subject to death", ""]}
