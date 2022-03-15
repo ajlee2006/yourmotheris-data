@@ -1,1 +1,1 @@
-{"data": ["2022-03-15T06:00:42.250096+00:00", 953, "Your mother is", "provisory", "Pronunciation: /pr\u0259\u02c8va\u026az\u0259ri/", "Definition: subject to a proviso", ""]}
+{"data": ["2022-03-15T07:01:13.360725+00:00", 954, "Your mother is", "collected", "Pronunciation: /k\u0259\u02c8l\u025bkt\u026ad/", "Definition: in full control of your faculties", "Synonyms: equanimous, poised, self-collected, self-contained, self-possessed"]}
