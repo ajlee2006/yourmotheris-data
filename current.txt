@@ -1,1 +1,1 @@
-{"data": ["2022-03-15T20:00:53.383656+00:00", 967, "Your mother is", "blowy", "Pronunciation: /\u02c8blo\u028ai/", "Definition: abounding in or exposed to the wind or breezes", "Synonyms: breezy, windy"]}
+{"data": ["2022-03-15T21:00:48.949541+00:00", 968, "Your mother is", "hunched", "Pronunciation: /h\u028cnt\u0283t/", "Definition: having the back and shoulders rounded; not erect", "Synonyms: crooked, round-backed, round-shouldered, stooped, stooping"]}
