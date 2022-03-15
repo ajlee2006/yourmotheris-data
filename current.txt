@@ -1,1 +1,1 @@
-{"data": ["2022-03-15T13:00:27.193094+00:00", 960, "Your mother is", "contestable", "Pronunciation: /k\u0259n\u02c8t\u025bst\u0259b\u0259l/", "Definition: capable of being contested", ""]}
+{"data": ["2022-03-15T14:00:27.696369+00:00", 961, "Your mother is", "chinless", "Pronunciation: /\u02c8t\u0283\u026anl\u025bs/", "Definition: having a receding chin", ""]}
