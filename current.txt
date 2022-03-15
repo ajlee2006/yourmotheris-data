@@ -1,1 +1,1 @@
-{"data": ["2022-03-15T19:00:48.785088+00:00", 966, "Your mother is", "inclement", "Pronunciation: /\u026an\u02c8kl\u025bm\u0259nt/", "Definition: (of weather or climate) severe", ""]}
+{"data": ["2022-03-15T20:00:53.383656+00:00", 967, "Your mother is", "blowy", "Pronunciation: /\u02c8blo\u028ai/", "Definition: abounding in or exposed to the wind or breezes", "Synonyms: breezy, windy"]}
