@@ -1,1 +1,1 @@
-{"data": ["2022-03-15T10:01:03.670402+00:00", 957, "Your mother is", "wooly-minded", "Similar to: confused", "Definition: confused and vague; used especially of thinking", "Synonyms: addled, befuddled, muddled, muzzy, woolly, woolly-headed, wooly"]}
+{"data": ["2022-03-15T11:00:38.563527+00:00", 958, "Your mother is", "tilled", "Similar to: ploughed", "Definition: turned or stirred by plowing or harrowing or hoeing", ""]}
