@@ -1,1 +1,1 @@
-{"data": ["2022-03-15T16:01:23.580777+00:00", 963, "Your mother is", "immortal", "Pronunciation: /\u026a\u02c8m\u0254rt\u0259l/", "Definition: not subject to death", ""]}
+{"data": ["2022-03-15T17:00:56.642140+00:00", 964, "Your mother is", "polite", "Pronunciation: /p\u0259\u02c8la\u026at/", "Definition: marked by refinement in taste and manners", "Synonyms: civilised, civilized, cultivated, cultured, genteel"]}
