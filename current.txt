@@ -1,1 +1,1 @@
-{"data": ["2022-03-15T02:00:40.932594+00:00", 949, "Your mother is", "svelte", "Pronunciation: /sv\u025blt/", "Definition: being of delicate or slender build", "Synonyms: slender, slight, slim"]}
+{"data": ["2022-03-15T03:01:13.712903+00:00", 950, "Your mother is", "prima facie", "Pronunciation: /\u02c8pra\u026am\u0259-\u02c8fe\u026a\u0283i\u02cci/", "Definition: as it seems at first sight", ""]}
