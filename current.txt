@@ -1,1 +1,1 @@
-{"data": ["2022-03-15T12:01:06.129569+00:00", 959, "Your mother is", "onomatopoeic", "", "Definition: (of words) formed in imitation of a natural sound", "Synonyms: echoic, imitative, onomatopoeical, onomatopoetic"]}
+{"data": ["2022-03-15T13:00:27.193094+00:00", 960, "Your mother is", "contestable", "Pronunciation: /k\u0259n\u02c8t\u025bst\u0259b\u0259l/", "Definition: capable of being contested", ""]}
