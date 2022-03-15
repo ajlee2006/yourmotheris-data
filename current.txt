@@ -1,1 +1,1 @@
-{"data": ["2022-03-15T11:00:38.563527+00:00", 958, "Your mother is", "tilled", "Similar to: ploughed", "Definition: turned or stirred by plowing or harrowing or hoeing", ""]}
+{"data": ["2022-03-15T12:01:06.129569+00:00", 959, "Your mother is", "onomatopoeic", "", "Definition: (of words) formed in imitation of a natural sound", "Synonyms: echoic, imitative, onomatopoeical, onomatopoetic"]}
