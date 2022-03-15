@@ -1,1 +1,1 @@
-{"data": ["2022-03-15T09:01:23.515206+00:00", 956, "Your mother is", "astronomical", "Pronunciation: /\u02cc\u00e6str\u0259\u02c8n\u0251m\u026ak\u0259l/", "Definition: inconceivably large", "Synonyms: astronomic, galactic"]}
+{"data": ["2022-03-15T10:01:03.670402+00:00", 957, "Your mother is", "wooly-minded", "Similar to: confused", "Definition: confused and vague; used especially of thinking", "Synonyms: addled, befuddled, muddled, muzzy, woolly, woolly-headed, wooly"]}
