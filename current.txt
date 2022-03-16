@@ -1,1 +1,1 @@
-{"data": ["2022-03-16T11:01:12.868237+00:00", 982, "Your mother is", "overfamiliar", "Pronunciation: /\u02cco\u028av\u0259f\u0259\u02c8m\u026ali\u0259r/", "Definition: taking undue liberties", ""]}
+{"data": ["2022-03-16T12:00:43.516405+00:00", 983, "Your mother is", "serried", "Pronunciation: /\u02c8s\u025brid/", "Definition: (especially of rows as of troops or mountains) pressed together", ""]}
