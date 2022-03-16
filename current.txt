@@ -1,1 +1,1 @@
-{"data": ["2022-03-16T21:01:10.446293+00:00", 992, "Your mother is", "reassured", "Pronunciation: /\u02ccri\u028c\u02c8\u0283\u028ard/", "Definition: having confidence restored; freed from anxiety", ""]}
+{"data": ["2022-03-16T22:00:49.029541+00:00", 993, "Your mother is", "magniloquent", "Pronunciation: /m\u00e6\u0261\u02c8n\u026al\u0259kw\u0259nt/", "Definition: lofty in style", "Synonyms: grandiloquent, tall"]}
