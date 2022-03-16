@@ -1,1 +1,1 @@
-{"data": ["2022-03-16T00:01:25.969536+00:00", 971, "Your mother is", "gainly", "Pronunciation: /\u02c8\u0261e\u026anli/", "Definition: graceful and pleasing", ""]}
+{"data": ["2022-03-16T01:01:38.180797+00:00", 972, "Your mother is", "cushioned", "Pronunciation: /\u02c8k\u028a\u0283\u028cnd/", "Definition: softened by the addition of cushions or padding", "Synonyms: cushiony, padded"]}
