@@ -1,1 +1,1 @@
-{"data": ["2022-03-16T03:00:56.626757+00:00", 974, "Your mother is", "stimulated", "Pronunciation: /\u02c8st\u026amj\u028c\u02ccle\u026at\u028cd/", "Definition: emotionally aroused", "Synonyms: aroused, stirred, stirred up"]}
+{"data": ["2022-03-16T04:01:05.665806+00:00", 975, "Your mother is", "accumbent", "Pronunciation: /\u0259\u02c8k\u0259mb\u0259nt/", "Definition: lying down; in a position of comfort or rest", "Synonyms: decumbent, recumbent"]}
