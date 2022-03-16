@@ -1,1 +1,1 @@
-{"data": ["2022-03-16T07:01:24.917801+00:00", 978, "Your mother is", "pantheistic", "Pronunciation: /\u02ccp\u00e6n\u03b8i\u02c8\u026ast\u026ak/", "Definition: of or relating to pantheism", "Synonyms: pantheist"]}
+{"data": ["2022-03-16T08:01:24.006741+00:00", 979, "Your mother is", "elaborate", "Pronunciation: /\u026a\u02c8l\u00e6b\u0259r\u026at/", "Definition: marked by complexity and richness of detail", "Synonyms: luxuriant"]}
