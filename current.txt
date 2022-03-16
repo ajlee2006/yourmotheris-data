@@ -1,1 +1,1 @@
-{"data": ["2022-03-16T09:00:50.328025+00:00", 980, "Your mother is", "prescient", "Pronunciation: /\u02c8pr\u025bsi\u0259nt/", "Definition: perceiving the significance of events before they occur", ""]}
+{"data": ["2022-03-16T10:01:03.313854+00:00", 981, "Your mother is", "untempting", "Similar to: uninviting", "Definition: not appealing to the senses", "Synonyms: unattractive"]}
