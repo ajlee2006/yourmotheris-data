@@ -1,1 +1,1 @@
-{"data": ["2022-03-16T15:00:52.299286+00:00", 986, "Your mother is", "dull", "Pronunciation: /d\u0259l/", "Definition: darkened with overcast", "Synonyms: leaden"]}
+{"data": ["2022-03-16T16:00:56.629232+00:00", 987, "Your mother is", "alleviatory", "Pronunciation: /\u0259\u02c8livi\u0259\u02ccto\u028ari/", "Definition: moderating pain or sorrow by making it easier to bear", "Synonyms: alleviative, lenitive, mitigative, mitigatory, palliative"]}
