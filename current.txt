@@ -1,1 +1,1 @@
-{"data": ["2022-03-16T22:00:49.029541+00:00", 993, "Your mother is", "magniloquent", "Pronunciation: /m\u00e6\u0261\u02c8n\u026al\u0259kw\u0259nt/", "Definition: lofty in style", "Synonyms: grandiloquent, tall"]}
+{"data": ["2022-03-16T23:00:22.018550+00:00", 994, "Your mother is", "circulative", "", "Definition: of or relating to circulation", "Synonyms: circulatory"]}
