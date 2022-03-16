@@ -1,1 +1,1 @@
-{"data": ["2022-03-16T08:01:24.006741+00:00", 979, "Your mother is", "elaborate", "Pronunciation: /\u026a\u02c8l\u00e6b\u0259r\u026at/", "Definition: marked by complexity and richness of detail", "Synonyms: luxuriant"]}
+{"data": ["2022-03-16T09:00:50.328025+00:00", 980, "Your mother is", "prescient", "Pronunciation: /\u02c8pr\u025bsi\u0259nt/", "Definition: perceiving the significance of events before they occur", ""]}
