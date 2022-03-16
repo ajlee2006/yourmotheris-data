@@ -1,1 +1,1 @@
-{"data": ["2022-03-16T20:00:53.279863+00:00", 991, "Your mother is", "meshuga", "Pronunciation: /m\u0259\u02c8\u0283\u028a\u0261\u0259/", "Definition: senseless; crazy", "Synonyms: meshugga, meshugge, meshuggeneh, meshuggener"]}
+{"data": ["2022-03-16T21:01:10.446293+00:00", 992, "Your mother is", "reassured", "Pronunciation: /\u02ccri\u028c\u02c8\u0283\u028ard/", "Definition: having confidence restored; freed from anxiety", ""]}
