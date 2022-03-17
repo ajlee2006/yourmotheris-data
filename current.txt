@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T00:01:56.988192+00:00", 995, "Your mother is", "morose", "Pronunciation: /m\u0259\u02c8ro\u028as/", "Definition: showing a brooding ill humor", "Synonyms: dark, dour, glowering, glum, moody, saturnine, sour, sullen"]}
+{"data": ["2022-03-17T01:01:00.221798+00:00", 996, "Your mother is", "in vogue", "Similar to: fashionable", "Definition: in the current fashion or style", "Synonyms: a la mode, in style, latest, modish"]}
