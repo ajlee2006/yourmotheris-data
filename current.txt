@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T07:00:45.489078+00:00", 1002, "Your mother is", "upper-lower-class", "Similar to: low-class", "Definition: occupying the upper part of the lower class", ""]}
+{"data": ["2022-03-17T08:01:38.108963+00:00", 1003, "Your mother is", "archaeologic", "", "Definition: related to or dealing with or devoted to archaeology", "Synonyms: archaeological, archeologic, archeological"]}
