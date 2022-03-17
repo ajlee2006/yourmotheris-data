@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T15:00:45.149878+00:00", 1009, "Your mother is", "valedictory", "Pronunciation: /\u02ccv\u00e6l\u026a\u02c8d\u026akt\u0259ri/", "Definition: of a speech expressing leave-taking", ""]}
+{"data": ["2022-03-17T16:00:57.476144+00:00", 1010, "Your mother is", "cinnamon-coloured", "Similar to: colored", "Definition: having the color of cinnamon", "Synonyms: cinnamon-colored, cinnamon colored, cinnamon coloured"]}
