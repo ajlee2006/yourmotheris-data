@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T18:00:29.165575+00:00", 1012, "Your mother is", "five-pointed", "Pronunciation: /fa\u026av-\u02c8p\u0254\u026ant\u026ad/", "Definition: having five points", ""]}
+{"data": ["2022-03-17T19:00:44.072596+00:00", 1013, "Your mother is", "silklike", "Similar to: bright", "Definition: having a smooth, gleaming surface reflecting light", "Synonyms: satiny, silken, silky, sleek, slick"]}
