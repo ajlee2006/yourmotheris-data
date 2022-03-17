@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T13:01:28.901862+00:00", 1008, "Your mother is", "feudatory", "Pronunciation: /\u02c8fjud\u0259\u02ccto\u028ari/", "Definition: owing feudal allegiance to or being subject to a sovereign", ""]}
+{"data": ["2022-03-17T14:01:24.604981+00:00", 1009, "Your mother is", "approachable", "Pronunciation: /\u0259\u02c8pro\u028a\u02a7\u0259b\u0259l/", "Definition: capable of being read with comprehension", "Synonyms: accessible"]}
