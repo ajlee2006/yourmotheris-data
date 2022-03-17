@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T05:01:14.299089+00:00", 1000, "Your mother is", "two-wheel", "", "Definition: of or relating to vehicles with two wheels", "Synonyms: two-wheeled"]}
+{"data": ["2022-03-17T06:01:21.156913+00:00", 1001, "Your mother is", "neoclassic", "Pronunciation: /\u02ccnio\u028a\u02c8kl\u00e6s\u026ak/", "Definition: characteristic of a revival of an earlier classical style", "Synonyms: neoclassical"]}
