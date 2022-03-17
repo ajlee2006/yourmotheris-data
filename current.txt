@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T17:01:23.316899+00:00", 1011, "Your mother is", "rock-loving", "Pronunciation: /r\u0251k-\u02c8l\u0259v\u026a\u014b/", "Definition: of plants that flourish in a rocky environment", ""]}
+{"data": ["2022-03-17T18:00:29.165575+00:00", 1012, "Your mother is", "five-pointed", "Pronunciation: /fa\u026av-\u02c8p\u0254\u026ant\u026ad/", "Definition: having five points", ""]}
