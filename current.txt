@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T01:01:00.221798+00:00", 996, "Your mother is", "in vogue", "Similar to: fashionable", "Definition: in the current fashion or style", "Synonyms: a la mode, in style, latest, modish"]}
+{"data": ["2022-03-17T02:00:31.934570+00:00", 997, "Your mother is", "doctrinaire", "Pronunciation: /\u02c8d\u0251ktr\u0259\u02c8n\u025cr/", "Definition: stubbornly insistent on theory without regard for practicality or suitability", ""]}
