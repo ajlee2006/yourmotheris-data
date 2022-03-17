@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T16:00:57.476144+00:00", 1010, "Your mother is", "cinnamon-coloured", "Similar to: colored", "Definition: having the color of cinnamon", "Synonyms: cinnamon-colored, cinnamon colored, cinnamon coloured"]}
+{"data": ["2022-03-17T17:01:23.316899+00:00", 1011, "Your mother is", "rock-loving", "Pronunciation: /r\u0251k-\u02c8l\u0259v\u026a\u014b/", "Definition: of plants that flourish in a rocky environment", ""]}
