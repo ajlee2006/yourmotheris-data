@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T12:01:01.074493+00:00", 1007, "Your mother is", "exonerative", "Similar to: exculpatory", "Definition: providing absolution", "Synonyms: absolvitory, forgiving"]}
+{"data": ["2022-03-17T13:01:28.901862+00:00", 1008, "Your mother is", "feudatory", "Pronunciation: /\u02c8fjud\u0259\u02ccto\u028ari/", "Definition: owing feudal allegiance to or being subject to a sovereign", ""]}
