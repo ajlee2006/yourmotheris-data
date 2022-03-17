@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T14:01:24.604981+00:00", 1009, "Your mother is", "approachable", "Pronunciation: /\u0259\u02c8pro\u028a\u02a7\u0259b\u0259l/", "Definition: capable of being read with comprehension", "Synonyms: accessible"]}
+{"data": ["2022-03-17T15:00:45.149878+00:00", 1009, "Your mother is", "valedictory", "Pronunciation: /\u02ccv\u00e6l\u026a\u02c8d\u026akt\u0259ri/", "Definition: of a speech expressing leave-taking", ""]}
