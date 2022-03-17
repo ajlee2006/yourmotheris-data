@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T11:01:08.346134+00:00", 1006, "Your mother is", "unspent", "Pronunciation: /\u0259n\u02c8sp\u025bnt/", "Definition: (of financial resources) not spent", "Synonyms: unexpended"]}
+{"data": ["2022-03-17T12:01:01.074493+00:00", 1007, "Your mother is", "exonerative", "Similar to: exculpatory", "Definition: providing absolution", "Synonyms: absolvitory, forgiving"]}
