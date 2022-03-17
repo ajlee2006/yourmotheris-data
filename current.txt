@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T22:01:31.567584+00:00", 1016, "Your mother is", "astonished", "Pronunciation: /\u028c\u02c8st\u0251n\u026a\u0283t/", "Definition: filled with the emotional impact of overwhelming surprise or shock", "Synonyms: amazed, astonied, astounded, stunned"]}
+{"data": ["2022-03-17T23:00:48.408597+00:00", 1017, "Your mother is", "trustful", "Pronunciation: /\u02c8tr\u0259stf\u028al/", "Definition: inclined to believe or confide readily; full of trust", "Synonyms: trusting"]}
