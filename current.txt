@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T20:01:37.120795+00:00", 1014, "Your mother is", "aforementioned", "Pronunciation: /\u0259\u02c8fo\u028ar\u02ccm\u025bn\u0283\u0259nd/", "Definition: being the one previously mentioned or spoken of", "Synonyms: aforesaid, said"]}
+{"data": ["2022-03-17T21:00:42.096608+00:00", 1015, "Your mother is", "antisatellite", "", "Definition: of or relating to a system to destroy satellites in orbit", "Synonyms: asat"]}
