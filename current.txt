@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T03:01:24.776465+00:00", 998, "Your mother is", "meagerly", "Pronunciation: /\u02c8mi\u0261\u0259rli/", "Definition: deficient in amount or quality or extent", "Synonyms: meager, meagre, scrimpy, stingy"]}
+{"data": ["2022-03-17T04:00:54.914217+00:00", 999, "Your mother is", "downward-sloping", "Similar to: descending", "Definition: sloping down rather steeply", "Synonyms: declivitous, downhill"]}
