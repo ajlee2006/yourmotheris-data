@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T10:01:01.522133+00:00", 1005, "Your mother is", "polychromic", "Similar to: colored", "Definition: having or exhibiting many colors", "Synonyms: polychromatic, polychrome"]}
+{"data": ["2022-03-17T11:01:08.346134+00:00", 1006, "Your mother is", "unspent", "Pronunciation: /\u0259n\u02c8sp\u025bnt/", "Definition: (of financial resources) not spent", "Synonyms: unexpended"]}
