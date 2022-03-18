@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T17:01:23.599486+00:00", 1035, "Your mother is", "tight", "Pronunciation: /ta\u026at/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, soused, sozzled, squiffy, stiff, wet"]}
+{"data": ["2022-03-18T18:00:54.695558+00:00", 1036, "Your mother is", "unpurified", "Similar to: impure", "Definition: not made pure", ""]}
