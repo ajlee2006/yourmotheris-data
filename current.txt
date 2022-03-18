@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T21:00:32.671938+00:00", 1039, "Your mother is", "industrialized", "Pronunciation: /\u026an\u02c8d\u028cstri\u028c\u02ccla\u026azd/", "Definition: made industrial; converted to industrialism", "Synonyms: industrialised"]}
+{"data": ["2022-03-18T22:00:26.688958+00:00", 1040, "Your mother is", "intrinsic", "Pronunciation: /\u026an\u02c8tr\u026ans\u026ak/", "Definition: belonging to a thing by its very nature", "Synonyms: intrinsical"]}
