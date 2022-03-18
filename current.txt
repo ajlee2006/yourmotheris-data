@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T01:00:44.865082+00:00", 1019, "Your mother is", "childly", "Pronunciation: /\u02c8\u02a7a\u026aldli/", "Definition: befitting a young child", "Synonyms: childlike"]}
+{"data": ["2022-03-18T02:00:13.810984+00:00", 1020, "Your mother is", "ingratiating", "Pronunciation: /\u026an\u02c8gre\u026a\u0283i\u02cce\u026at\u026a\u014b/", "Definition: calculated to please or gain favor", "Synonyms: ingratiatory, insinuating"]}
