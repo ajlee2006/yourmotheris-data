@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T10:00:59.612805+00:00", 1028, "Your mother is", "citywide", "Pronunciation: /\u02c8s\u026ati\u02ccwa\u026ad/", "Definition: occurring or extending throughout a city", ""]}
+{"data": ["2022-03-18T11:00:50.594056+00:00", 1029, "Your mother is", "boned", "Pronunciation: /bo\u028and/", "Definition: having had the bones removed", "Synonyms: deboned"]}
