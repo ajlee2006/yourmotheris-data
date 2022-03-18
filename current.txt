@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T14:01:32.302247+00:00", 1032, "Your mother is", "unsafe", "Pronunciation: /\u0259n\u02c8se\u026af/", "Definition: involving or causing danger or risk; liable to hurt or harm", "Synonyms: dangerous"]}
+{"data": ["2022-03-18T15:01:15.940820+00:00", 1033, "Your mother is", "large-minded", "Pronunciation: /\u02c8l\u0251rd\u0292\u02c8ma\u026and\u026ad/", "Definition: showing or characterized by broad-mindedness", "Synonyms: broad, liberal, tolerant"]}
