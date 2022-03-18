@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T06:01:32.413987+00:00", 1024, "Your mother is", "anguine", "Pronunciation: /\u02c8\u00e6\u014bgw\u026an/", "Definition: of or related to or resembling a snake", ""]}
+{"data": ["2022-03-18T07:01:23.858059+00:00", 1025, "Your mother is", "shaky", "Pronunciation: /\u02c8\u0283e\u026aki/", "Definition: not secure; beset with difficulties", "Synonyms: precarious"]}
