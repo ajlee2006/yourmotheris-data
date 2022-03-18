@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T11:00:50.594056+00:00", 1029, "Your mother is", "boned", "Pronunciation: /bo\u028and/", "Definition: having had the bones removed", "Synonyms: deboned"]}
+{"data": ["2022-03-18T12:00:57.857700+00:00", 1030, "Your mother is", "articulate", "Pronunciation: /\u0251r\u02c8t\u026akj\u0259\u02ccl\u026at/", "Definition: consisting of segments held together by joints", "Synonyms: articulated"]}
