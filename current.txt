@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T03:01:19.235396+00:00", 1021, "Your mother is", "vegetative", "Pronunciation: /\u02c8v\u025bd\u0292\u026a\u02ccte\u026at\u026av/", "Definition: of or relating to an activity that is passive and monotonous", "Synonyms: vegetive"]}
+{"data": ["2022-03-18T04:01:21.121784+00:00", 1022, "Your mother is", "tired", "Pronunciation: /ta\u026a\u0259rd/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, trite, well-worn"]}
