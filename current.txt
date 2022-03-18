@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T07:01:23.858059+00:00", 1025, "Your mother is", "shaky", "Pronunciation: /\u02c8\u0283e\u026aki/", "Definition: not secure; beset with difficulties", "Synonyms: precarious"]}
+{"data": ["2022-03-18T08:00:36.303613+00:00", 1026, "Your mother is", "nonslip", "Similar to: nonslippery", "Definition: designed to reduce or prevent slipping", ""]}
