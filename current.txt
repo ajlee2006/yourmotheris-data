@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T12:00:57.857700+00:00", 1030, "Your mother is", "articulate", "Pronunciation: /\u0251r\u02c8t\u026akj\u0259\u02ccl\u026at/", "Definition: consisting of segments held together by joints", "Synonyms: articulated"]}
+{"data": ["2022-03-18T13:00:54.731713+00:00", 1031, "Your mother is", "eellike", "Pronunciation: /\u02c8il\u02ccla\u026ak/", "Definition: resembling an eel in being long and thin and sinuous", ""]}
