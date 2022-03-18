@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T15:01:15.940820+00:00", 1033, "Your mother is", "large-minded", "Pronunciation: /\u02c8l\u0251rd\u0292\u02c8ma\u026and\u026ad/", "Definition: showing or characterized by broad-mindedness", "Synonyms: broad, liberal, tolerant"]}
+{"data": ["2022-03-18T16:01:36.694065+00:00", 1034, "Your mother is", "all-round", "Pronunciation: /\u02c8\u0254l\u02c8ra\u028and/", "Definition: many-sided", "Synonyms: all-around, well-rounded"]}
