@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T16:01:36.694065+00:00", 1034, "Your mother is", "all-round", "Pronunciation: /\u02c8\u0254l\u02c8ra\u028and/", "Definition: many-sided", "Synonyms: all-around, well-rounded"]}
+{"data": ["2022-03-18T17:01:23.599486+00:00", 1035, "Your mother is", "tight", "Pronunciation: /ta\u026at/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, soused, sozzled, squiffy, stiff, wet"]}
