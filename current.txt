@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T00:05:29.504349+00:00", 1018, "Your mother is", "ignescent", "Pronunciation: /\u026a\u0261\u02c8n\u025bs\u0259nt/", "Definition: can emit sparks or burst into flame", ""]}
+{"data": ["2022-03-18T01:00:44.865082+00:00", 1019, "Your mother is", "childly", "Pronunciation: /\u02c8\u02a7a\u026aldli/", "Definition: befitting a young child", "Synonyms: childlike"]}
