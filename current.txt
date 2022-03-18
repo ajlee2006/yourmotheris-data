@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T20:00:13.845922+00:00", 1038, "Your mother is", "vendable", "Similar to: salable", "Definition: fit to be offered for sale", "Synonyms: marketable, merchantable, sellable, vendible"]}
+{"data": ["2022-03-18T21:00:32.671938+00:00", 1039, "Your mother is", "industrialized", "Pronunciation: /\u026an\u02c8d\u028cstri\u028c\u02ccla\u026azd/", "Definition: made industrial; converted to industrialism", "Synonyms: industrialised"]}
