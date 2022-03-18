@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T04:01:21.121784+00:00", 1022, "Your mother is", "tired", "Pronunciation: /ta\u026a\u0259rd/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, trite, well-worn"]}
+{"data": ["2022-03-18T05:01:17.183288+00:00", 1023, "Your mother is", "brand-new", "Pronunciation: /\u02c8br\u00e6nd\u02c8nu/", "Definition: conspicuously new", "Synonyms: bran-new, spic-and-span, spick-and-span"]}
