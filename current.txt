@@ -1,1 +1,1 @@
-{"data": ["2022-03-17T23:00:48.408597+00:00", 1017, "Your mother is", "trustful", "Pronunciation: /\u02c8tr\u0259stf\u028al/", "Definition: inclined to believe or confide readily; full of trust", "Synonyms: trusting"]}
+{"data": ["2022-03-18T00:05:29.504349+00:00", 1018, "Your mother is", "ignescent", "Pronunciation: /\u026a\u0261\u02c8n\u025bs\u0259nt/", "Definition: can emit sparks or burst into flame", ""]}
