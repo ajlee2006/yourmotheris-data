@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T09:01:15.499696+00:00", 1027, "Your mother is", "heavy-footed", "Pronunciation: /\u02c8h\u025bvi-\u02c8f\u028at\u026ad/", "Definition: (of movement) lacking ease or lightness", ""]}
+{"data": ["2022-03-18T10:00:59.612805+00:00", 1028, "Your mother is", "citywide", "Pronunciation: /\u02c8s\u026ati\u02ccwa\u026ad/", "Definition: occurring or extending throughout a city", ""]}
