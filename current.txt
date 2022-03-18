@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T05:01:17.183288+00:00", 1023, "Your mother is", "brand-new", "Pronunciation: /\u02c8br\u00e6nd\u02c8nu/", "Definition: conspicuously new", "Synonyms: bran-new, spic-and-span, spick-and-span"]}
+{"data": ["2022-03-18T06:01:32.413987+00:00", 1024, "Your mother is", "anguine", "Pronunciation: /\u02c8\u00e6\u014bgw\u026an/", "Definition: of or related to or resembling a snake", ""]}
