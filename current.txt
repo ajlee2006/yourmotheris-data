@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T18:00:54.695558+00:00", 1036, "Your mother is", "unpurified", "Similar to: impure", "Definition: not made pure", ""]}
+{"data": ["2022-03-18T19:01:27.691388+00:00", 1037, "Your mother is", "resolvable", "Pronunciation: /r\u026a\u02c8z\u0251lv\u0259b\u0259l/", "Definition: capable of being solved", "Synonyms: solvable"]}
