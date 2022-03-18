@@ -1,1 +1,1 @@
-{"data": ["2022-03-18T22:00:26.688958+00:00", 1040, "Your mother is", "intrinsic", "Pronunciation: /\u026an\u02c8tr\u026ans\u026ak/", "Definition: belonging to a thing by its very nature", "Synonyms: intrinsical"]}
+{"data": ["2022-03-18T23:00:39.688069+00:00", 1041, "Your mother is", "hieroglyphical", "", "Definition: resembling hieroglyphic writing", "Synonyms: hieroglyphic"]}
