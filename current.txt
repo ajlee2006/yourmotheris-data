@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T18:01:24.878167+00:00", 1060, "Your mother is", "rimed", "Similar to: cold", "Definition: covered with frost", "Synonyms: frosty, rimy"]}
+{"data": ["2022-03-19T19:00:56.876027+00:00", 1061, "Your mother is", "manichee", "Pronunciation: /\u02c8m\u00e6n\u0259\u02ccki/", "Definition: of or relating to Manichaeism", "Synonyms: manichaean, manichean"]}
