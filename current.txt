@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T19:00:56.876027+00:00", 1061, "Your mother is", "manichee", "Pronunciation: /\u02c8m\u00e6n\u0259\u02ccki/", "Definition: of or relating to Manichaeism", "Synonyms: manichaean, manichean"]}
+{"data": ["2022-03-19T20:00:34.509292+00:00", 1062, "Your mother is", "homoecious", "", "Definition: of parasites especially rust fungi; completing the entire life cycle on a single host", "Synonyms: autoecious"]}
