@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T20:00:34.509292+00:00", 1062, "Your mother is", "homoecious", "", "Definition: of parasites especially rust fungi; completing the entire life cycle on a single host", "Synonyms: autoecious"]}
+{"data": ["2022-03-19T21:01:35.469892+00:00", 1063, "Your mother is", "endozoic", "", "Definition: living within a living animal usually as a parasite", "Synonyms: entozoan, entozoic"]}
