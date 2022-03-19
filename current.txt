@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T15:00:59.190439+00:00", 1057, "Your mother is", "feudal", "Pronunciation: /\u02c8fjud\u0259l/", "Definition: of or relating to or characteristic of feudalism", "Synonyms: feudalistic"]}
+{"data": ["2022-03-19T16:00:32.205434+00:00", 1058, "Your mother is", "vaned", "Similar to: feathered", "Definition: (of an arrow) equipped with feathers", "Synonyms: fledged"]}
