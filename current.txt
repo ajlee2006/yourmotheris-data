@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T10:00:55.073795+00:00", 1052, "Your mother is", "confidential", "Pronunciation: /\u02cck\u0251nf\u026a\u02c8d\u025bn\u0283\u0259l/", "Definition: (of information) given in confidence or in secret", "Synonyms: secret"]}
+{"data": ["2022-03-19T11:01:22.271795+00:00", 1053, "Your mother is", "turbinate", "Pronunciation: /\u02c8t\u025crb\u0259n\u026at/", "Definition: in the shape of a coil", "Synonyms: coiling, helical, spiral, spiraling, volute, voluted, whorled"]}
