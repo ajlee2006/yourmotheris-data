@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T22:01:16.630373+00:00", 1064, "Your mother is", "forty-second", "Pronunciation: /\u02c8f\u0254rti-\u02c8s\u025bk\u0259nd/", "Definition: the ordinal number of forty-two in counting order", "Synonyms: 42nd"]}
+{"data": ["2022-03-19T23:01:16.012638+00:00", 1065, "Your mother is", "half-and-half", "Pronunciation: /\u02c8h\u00e6f\u0259n-\u02c8h\u00e6f/", "Definition: in equal parts", ""]}
