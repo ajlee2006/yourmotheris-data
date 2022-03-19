@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T14:00:16.435668+00:00", 1056, "Your mother is", "rwandan", "Pronunciation: /r\u028cw\u02c8\u0251nd\u028cn/", "Definition: of or pertaining to Rwanda", "Synonyms: ruandan"]}
+{"data": ["2022-03-19T15:00:59.190439+00:00", 1057, "Your mother is", "feudal", "Pronunciation: /\u02c8fjud\u0259l/", "Definition: of or relating to or characteristic of feudalism", "Synonyms: feudalistic"]}
