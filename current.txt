@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T02:00:45.237565+00:00", 1044, "Your mother is", "unwearied", "Pronunciation: /\u0259n\u02c8wirid/", "Definition: with unreduced energy", "Synonyms: untired, unweary"]}
+{"data": ["2022-03-19T03:01:38.086246+00:00", 1045, "Your mother is", "carbolated", "Pronunciation: /\u02c8k\u0251rb\u0259\u02ccle\u026at\u026ad/", "Definition: containing or treated with carbolic acid", ""]}
