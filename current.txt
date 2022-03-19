@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T17:01:25.715793+00:00", 1059, "Your mother is", "sure-footed", "Pronunciation: /\u0283\u028ar-\u02c8f\u028at\u026ad/", "Definition: not liable to stumble or fall", "Synonyms: footsure, surefooted"]}
+{"data": ["2022-03-19T18:01:24.878167+00:00", 1060, "Your mother is", "rimed", "Similar to: cold", "Definition: covered with frost", "Synonyms: frosty, rimy"]}
