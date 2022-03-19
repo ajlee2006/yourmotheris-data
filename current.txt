@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T11:01:22.271795+00:00", 1053, "Your mother is", "turbinate", "Pronunciation: /\u02c8t\u025crb\u0259n\u026at/", "Definition: in the shape of a coil", "Synonyms: coiling, helical, spiral, spiraling, volute, voluted, whorled"]}
+{"data": ["2022-03-19T12:00:55.811082+00:00", 1054, "Your mother is", "robotic", "Pronunciation: /\u02ccro\u028a\u02c8b\u0251t\u026ak/", "Definition: resembling the unthinking functioning of a machine", "Synonyms: automatic, automatonlike, machinelike, robotlike"]}
