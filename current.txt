@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T00:05:30.385292+00:00", 1042, "Your mother is", "alloyed", "Similar to: blended", "Definition: (used of metals) blended to obtain a desired property", ""]}
+{"data": ["2022-03-19T01:01:19.351124+00:00", 1043, "Your mother is", "restive", "Pronunciation: /\u02c8r\u025bst\u026av/", "Definition: being in a tense state", "Synonyms: edgy, high-strung, highly strung, jittery, jumpy, nervy, overstrung, uptight"]}
