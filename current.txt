@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T12:00:55.811082+00:00", 1054, "Your mother is", "robotic", "Pronunciation: /\u02ccro\u028a\u02c8b\u0251t\u026ak/", "Definition: resembling the unthinking functioning of a machine", "Synonyms: automatic, automatonlike, machinelike, robotlike"]}
+{"data": ["2022-03-19T13:00:44.921413+00:00", 1055, "Your mother is", "paternalistic", "Pronunciation: /p\u028c\u02cct\u025drn\u028c\u02c8l\u026ast\u026ak/", "Definition: benevolent but sometimes intrusive", ""]}
