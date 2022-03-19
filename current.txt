@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T03:01:38.086246+00:00", 1045, "Your mother is", "carbolated", "Pronunciation: /\u02c8k\u0251rb\u0259\u02ccle\u026at\u026ad/", "Definition: containing or treated with carbolic acid", ""]}
+{"data": ["2022-03-19T04:01:18.307123+00:00", 1046, "Your mother is", "peccable", "Pronunciation: /\u02c8p\u025bk\u0259b\u0259l/", "Definition: liable to sin", "Synonyms: peccant"]}
