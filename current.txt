@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T09:01:22.184041+00:00", 1051, "Your mother is", "specular", "Pronunciation: /\u02c8sp\u025bkj\u0259l\u0259r/", "Definition: capable of reflecting light like a mirror", "Synonyms: mirrorlike"]}
+{"data": ["2022-03-19T10:00:55.073795+00:00", 1052, "Your mother is", "confidential", "Pronunciation: /\u02cck\u0251nf\u026a\u02c8d\u025bn\u0283\u0259l/", "Definition: (of information) given in confidence or in secret", "Synonyms: secret"]}
