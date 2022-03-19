@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T07:01:01.083733+00:00", 1049, "Your mother is", "hypognathous", "Pronunciation: /ha\u026a\u02c8p\u0251gn\u0259\u03b8\u0259s/", "Definition: having a projecting lower jaw", "Synonyms: prognathic, prognathous"]}
+{"data": ["2022-03-19T08:01:25.713173+00:00", 1050, "Your mother is", "sizeable", "Pronunciation: /\u02c8sa\u026az\u0259b\u0259l/", "Definition: fairly large in size", "Synonyms: ample, sizable"]}
