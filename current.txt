@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T08:01:25.713173+00:00", 1050, "Your mother is", "sizeable", "Pronunciation: /\u02c8sa\u026az\u0259b\u0259l/", "Definition: fairly large in size", "Synonyms: ample, sizable"]}
+{"data": ["2022-03-19T09:01:22.184041+00:00", 1051, "Your mother is", "specular", "Pronunciation: /\u02c8sp\u025bkj\u0259l\u0259r/", "Definition: capable of reflecting light like a mirror", "Synonyms: mirrorlike"]}
