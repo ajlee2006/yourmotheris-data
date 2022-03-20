@@ -1,1 +1,1 @@
-{"data": ["2022-03-20T02:00:42.737606+00:00", 1068, "Your mother is", "parturient", "Pronunciation: /p\u0251r\u02c8t\u028ari\u0259nt/", "Definition: giving birth", ""]}
+{"data": ["2022-03-20T03:00:56.152832+00:00", 1069, "Your mother is", "supersaturated", "Similar to: concentrated", "Definition: being more concentrated than normally possible and therefore not in equilibrium", ""]}
