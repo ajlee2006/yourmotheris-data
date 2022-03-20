@@ -1,1 +1,1 @@
-{"data": ["2022-03-20T01:01:37.900244+00:00", 1067, "Your mother is", "sixty-eight", "Pronunciation: /\u02c8s\u026aksti-\u02c8e\u026at/", "Definition: being eight more than sixty", "Synonyms: 68, lxviii"]}
+{"data": ["2022-03-20T02:00:42.737606+00:00", 1068, "Your mother is", "parturient", "Pronunciation: /p\u0251r\u02c8t\u028ari\u0259nt/", "Definition: giving birth", ""]}
