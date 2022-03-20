@@ -1,1 +1,1 @@
-{"data": ["2022-03-20T18:00:55.955008+00:00", 1084, "Your mother is", "delineated", "Pronunciation: /d\u026a\u02c8l\u026ani\u02cce\u026at\u026ad/", "Definition: represented accurately or precisely", "Synonyms: delineate, represented"]}
+{"data": ["2022-03-20T19:01:43.960076+00:00", 1085, "Your mother is", "jointed", "Pronunciation: /\u02c8d\u0292\u0254\u026ant\u026ad/", "Definition: having joints or jointed segments", ""]}
