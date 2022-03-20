@@ -1,1 +1,1 @@
-{"data": ["2022-03-20T11:01:02.296646+00:00", 1077, "Your mother is", "xerophytic", "Similar to: xeric", "Definition: adapted to a xeric (or dry) environment", ""]}
+{"data": ["2022-03-20T12:01:07.843778+00:00", 1078, "Your mother is", "plethoric", "Pronunciation: /pl\u025b\u02c8\u03b8\u0254r\u026ak/", "Definition: excessively abundant", "Synonyms: overabundant, rife"]}
