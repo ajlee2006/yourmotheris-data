@@ -1,1 +1,1 @@
-{"data": ["2022-03-20T08:00:21.388076+00:00", 1074, "Your mother is", "preferential", "Pronunciation: /\u02ccpr\u025bf\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: manifesting partiality", "Synonyms: discriminatory"]}
+{"data": ["2022-03-20T09:01:18.294297+00:00", 1075, "Your mother is", "ear-like", "Similar to: rounded", "Definition: having a shape resembling an ear", "Synonyms: auriform, ear-shaped"]}
