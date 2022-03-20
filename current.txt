@@ -1,1 +1,1 @@
-{"data": ["2022-03-20T14:01:25.554391+00:00", 1080, "Your mother is", "frizzly", "Pronunciation: /fr\u026azli/", "Definition: (of hair) in small tight curls", "Synonyms: crisp, frizzy, kinky, nappy"]}
+{"data": ["2022-03-20T15:00:52.712335+00:00", 1081, "Your mother is", "subsequent", "Pronunciation: /\u02c8s\u0259b\u02ccsikw\u0259nt/", "Definition: following in time or order", ""]}
