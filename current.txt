@@ -1,1 +1,1 @@
-{"data": ["2022-03-20T00:01:52.225222+00:00", 1066, "Your mother is", "unacceptable", "Pronunciation: /\u02cc\u028cn\u00e6k\u02c8s\u025bpt\u028cb\u028cl/", "Definition: not conforming to standard usage", "Synonyms: unaccepted"]}
+{"data": ["2022-03-20T01:01:37.900244+00:00", 1067, "Your mother is", "sixty-eight", "Pronunciation: /\u02c8s\u026aksti-\u02c8e\u026at/", "Definition: being eight more than sixty", "Synonyms: 68, lxviii"]}
