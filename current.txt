@@ -1,1 +1,1 @@
-{"data": ["2022-03-20T05:00:55.296455+00:00", 1071, "Your mother is", "brownish-purple", "Similar to: chromatic", "Definition: of dark purple tinted with brown", "Synonyms: brown-purple"]}
+{"data": ["2022-03-20T06:01:34.657880+00:00", 1072, "Your mother is", "postnatal", "Pronunciation: /po\u028ast\u02c8ne\u026at\u0259l/", "Definition: occurring immediately after birth", "Synonyms: postpartum"]}
