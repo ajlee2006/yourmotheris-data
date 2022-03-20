@@ -1,1 +1,1 @@
-{"data": ["2022-03-20T15:00:52.712335+00:00", 1081, "Your mother is", "subsequent", "Pronunciation: /\u02c8s\u0259b\u02ccsikw\u0259nt/", "Definition: following in time or order", ""]}
+{"data": ["2022-03-20T16:01:00.084900+00:00", 1082, "Your mother is", "uninspired", "Pronunciation: /\u02cc\u0259n\u026an\u02c8spa\u026a\u0259rd/", "Definition: deficient in originality or creativity; lacking powers of invention", "Synonyms: sterile, unimaginative, uninventive"]}
