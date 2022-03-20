@@ -1,1 +1,1 @@
-{"data": ["2022-03-20T10:01:14.816832+00:00", 1076, "Your mother is", "cognisable", "Pronunciation: /\u02c8k\u0251gn\u026az\u0259b\u0259l/", "Definition: capable of being known", "Synonyms: cognizable, cognoscible, knowable"]}
+{"data": ["2022-03-20T11:01:02.296646+00:00", 1077, "Your mother is", "xerophytic", "Similar to: xeric", "Definition: adapted to a xeric (or dry) environment", ""]}
