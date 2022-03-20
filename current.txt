@@ -1,1 +1,1 @@
-{"data": ["2022-03-20T19:01:43.960076+00:00", 1085, "Your mother is", "jointed", "Pronunciation: /\u02c8d\u0292\u0254\u026ant\u026ad/", "Definition: having joints or jointed segments", ""]}
+{"data": ["2022-03-20T20:00:29.190780+00:00", 1086, "Your mother is", "of sound mind", "Similar to: sane", "Definition: of sound mind, memory, and understanding; in law, competent to go to trial", "Synonyms: compos mentis"]}
