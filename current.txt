@@ -1,1 +1,1 @@
-{"data": ["2022-03-19T23:01:16.012638+00:00", 1065, "Your mother is", "half-and-half", "Pronunciation: /\u02c8h\u00e6f\u0259n-\u02c8h\u00e6f/", "Definition: in equal parts", ""]}
+{"data": ["2022-03-20T00:01:52.225222+00:00", 1066, "Your mother is", "unacceptable", "Pronunciation: /\u02cc\u028cn\u00e6k\u02c8s\u025bpt\u028cb\u028cl/", "Definition: not conforming to standard usage", "Synonyms: unaccepted"]}
