@@ -1,1 +1,1 @@
-{"data": ["2022-03-20T12:01:07.843778+00:00", 1078, "Your mother is", "plethoric", "Pronunciation: /pl\u025b\u02c8\u03b8\u0254r\u026ak/", "Definition: excessively abundant", "Synonyms: overabundant, rife"]}
+{"data": ["2022-03-20T13:01:06.321473+00:00", 1079, "Your mother is", "charcoal-gray", "Pronunciation: /\u02c8\u02a7\u0251r\u02ccko\u028al-gre\u026a/", "Definition: of a very dark grey", "Synonyms: charcoal, charcoal-grey"]}
