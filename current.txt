@@ -1,1 +1,1 @@
-{"data": ["2022-03-21T17:01:14.817619+00:00", 1107, "Your mother is", "weakened", "Pronunciation: /\u02c8wik\u028cnd/", "Definition: damaged; used of inanimate objects or their value", "Synonyms: hurt"]}
+{"data": ["2022-03-21T18:01:35.056344+00:00", 1108, "Your mother is", "unforgivable", "Pronunciation: /\u02cc\u0259nf\u0259\u02c8\u0261\u026av\u0259b\u0259l/", "Definition: not excusable", "Synonyms: inexcusable"]}
