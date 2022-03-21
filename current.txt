@@ -1,1 +1,1 @@
-{"data": ["2022-03-21T03:01:37.304780+00:00", 1093, "Your mother is", "confident", "Pronunciation: /\u02c8k\u0251nf\u026ad\u0259nt/", "Definition: persuaded of; very sure", "Synonyms: convinced, positive"]}
+{"data": ["2022-03-21T04:01:21.758767+00:00", 1094, "Your mother is", "truant", "Pronunciation: /\u02c8tru\u0259nt/", "Definition: absent without permission", "Synonyms: awol"]}
