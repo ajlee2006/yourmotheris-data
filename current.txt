@@ -1,1 +1,1 @@
-{"data": ["2022-03-21T15:00:42.807146+00:00", 1105, "Your mother is", "disillusioning", "Pronunciation: /\u02ccd\u026as\u026a\u02c8lu\u0292\u028cn\u026a\u014b/", "Definition: freeing from illusion or false belief", "Synonyms: disenchanting"]}
+{"data": ["2022-03-21T16:00:23.733712+00:00", 1106, "Your mother is", "syndetic", "Pronunciation: /s\u026an\u02c8d\u025bt\u026ak/", "Definition: connected by a conjunction", ""]}
