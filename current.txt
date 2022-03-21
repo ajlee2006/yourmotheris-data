@@ -1,1 +1,1 @@
-{"data": ["2022-03-21T01:00:46.867637+00:00", 1091, "Your mother is", "formative", "Pronunciation: /\u02c8f\u0254rm\u0259t\u026av/", "Definition: forming or capable of forming or molding or fashioning", "Synonyms: plastic, shaping"]}
+{"data": ["2022-03-21T02:00:42.259602+00:00", 1092, "Your mother is", "asserting", "Pronunciation: /\u028c\u02c8s\u025drt\u026a\u014b/", "Definition: relating to the use of or having the nature of a declaration", "Synonyms: declarative, declaratory"]}
