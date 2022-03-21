@@ -1,1 +1,1 @@
-{"data": ["2022-03-21T22:01:10.894905+00:00", 1112, "Your mother is", "reddish-brown", "Similar to: chromatic", "Definition: of brown tinged with red", "Synonyms: mahogany-red, red-brown"]}
+{"data": ["2022-03-21T23:01:00.318480+00:00", 1113, "Your mother is", "opposable", "Pronunciation: /\u0259\u02c8po\u028az\u0259b\u0259l/", "Definition: capable of being placed opposite to something", "Synonyms: apposable"]}
