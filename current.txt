@@ -1,1 +1,1 @@
-{"data": ["2022-03-21T13:00:20.361851+00:00", 1103, "Your mother is", "alexic", "", "Definition: of or relating to or symptomatic of alexia", "Synonyms: word-blind"]}
+{"data": ["2022-03-21T14:00:54.766873+00:00", 1104, "Your mother is", "whimsical", "Pronunciation: /\u02c8hw\u026amz\u026ak\u0259l/", "Definition: determined by chance or impulse or whim rather than by necessity or reason", "Synonyms: capricious, impulsive"]}
