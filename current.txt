@@ -1,1 +1,1 @@
-{"data": ["2022-03-21T04:01:21.758767+00:00", 1094, "Your mother is", "truant", "Pronunciation: /\u02c8tru\u0259nt/", "Definition: absent without permission", "Synonyms: awol"]}
+{"data": ["2022-03-21T05:00:57.496886+00:00", 1095, "Your mother is", "tranquilising", "Similar to: depressant", "Definition: tending to soothe or tranquilize", "Synonyms: ataractic, ataraxic, sedative, tranquilizing, tranquillising, tranquillizing"]}
