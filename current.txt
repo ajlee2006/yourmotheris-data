@@ -1,1 +1,1 @@
-{"data": ["2022-03-21T14:00:54.766873+00:00", 1104, "Your mother is", "whimsical", "Pronunciation: /\u02c8hw\u026amz\u026ak\u0259l/", "Definition: determined by chance or impulse or whim rather than by necessity or reason", "Synonyms: capricious, impulsive"]}
+{"data": ["2022-03-21T15:00:42.807146+00:00", 1105, "Your mother is", "disillusioning", "Pronunciation: /\u02ccd\u026as\u026a\u02c8lu\u0292\u028cn\u026a\u014b/", "Definition: freeing from illusion or false belief", "Synonyms: disenchanting"]}
