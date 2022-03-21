@@ -1,1 +1,1 @@
-{"data": ["2022-03-21T11:00:23.033746+00:00", 1101, "Your mother is", "suspicious", "Pronunciation: /s\u0259\u02c8sp\u026a\u0283\u0259s/", "Definition: not as expected", "Synonyms: fishy, funny, shady, suspect"]}
+{"data": ["2022-03-21T12:00:19.989010+00:00", 1102, "Your mother is", "worldwide", "Pronunciation: /\u02c8w\u025crldwa\u026ad/", "Definition: spanning or extending throughout the entire world", "Synonyms: world-wide"]}
