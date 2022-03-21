@@ -1,1 +1,1 @@
-{"data": ["2022-03-21T02:00:42.259602+00:00", 1092, "Your mother is", "asserting", "Pronunciation: /\u028c\u02c8s\u025drt\u026a\u014b/", "Definition: relating to the use of or having the nature of a declaration", "Synonyms: declarative, declaratory"]}
+{"data": ["2022-03-21T03:01:37.304780+00:00", 1093, "Your mother is", "confident", "Pronunciation: /\u02c8k\u0251nf\u026ad\u0259nt/", "Definition: persuaded of; very sure", "Synonyms: convinced, positive"]}
