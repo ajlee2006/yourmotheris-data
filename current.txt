@@ -1,1 +1,1 @@
-{"data": ["2022-03-21T21:00:44.144462+00:00", 1111, "Your mother is", "westside", "Pronunciation: /\u02c8w\u025bst\u02c8sa\u026ad/", "Definition: of the western part of a city", ""]}
+{"data": ["2022-03-21T22:01:10.894905+00:00", 1112, "Your mother is", "reddish-brown", "Similar to: chromatic", "Definition: of brown tinged with red", "Synonyms: mahogany-red, red-brown"]}
