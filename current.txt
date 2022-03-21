@@ -1,1 +1,1 @@
-{"data": ["2022-03-21T10:01:21.145460+00:00", 1100, "Your mother is", "aerobic", "Pronunciation: /\u025c\u02c8ro\u028ab\u026ak/", "Definition: depending on free oxygen or air", "Synonyms: aerophilic, aerophilous"]}
+{"data": ["2022-03-21T11:00:23.033746+00:00", 1101, "Your mother is", "suspicious", "Pronunciation: /s\u0259\u02c8sp\u026a\u0283\u0259s/", "Definition: not as expected", "Synonyms: fishy, funny, shady, suspect"]}
