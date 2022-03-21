@@ -1,1 +1,1 @@
-{"data": ["2022-03-21T12:00:19.989010+00:00", 1102, "Your mother is", "worldwide", "Pronunciation: /\u02c8w\u025crldwa\u026ad/", "Definition: spanning or extending throughout the entire world", "Synonyms: world-wide"]}
+{"data": ["2022-03-21T13:00:20.361851+00:00", 1103, "Your mother is", "alexic", "", "Definition: of or relating to or symptomatic of alexia", "Synonyms: word-blind"]}
