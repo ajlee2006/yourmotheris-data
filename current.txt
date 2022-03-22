@@ -1,1 +1,1 @@
-{"data": ["2022-03-22T20:01:29.670343+00:00", 1133, "Your mother is", "dantesque", "Pronunciation: /d\u00e6n\u02c8t\u025bsk/", "Definition: of or relating to Dante Alighieri or his writings", "Synonyms: dantean"]}
+{"data": ["2022-03-22T21:00:26.286702+00:00", 1134, "Your mother is", "uninebriated", "Similar to: sober", "Definition: not inebriated", "Synonyms: unintoxicated"]}
