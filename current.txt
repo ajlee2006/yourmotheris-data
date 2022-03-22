@@ -1,1 +1,1 @@
-{"data": ["2022-03-22T09:01:14.955952+00:00", 1123, "Your mother is", "sterilized", "Pronunciation: /\u02c8st\u025br\u028c\u02ccla\u026azd/", "Definition: made infertile", "Synonyms: sterilised"]}
+{"data": ["2022-03-22T10:00:49.640487+00:00", 1124, "Your mother is", "cyanogenic", "Pronunciation: /\u02ccsa\u026a\u0259no\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: capable of producing cyanide", "Synonyms: cyanogenetic"]}
