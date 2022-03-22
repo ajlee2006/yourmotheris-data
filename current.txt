@@ -1,1 +1,1 @@
-{"data": ["2022-03-22T19:00:30.464036+00:00", 1132, "Your mother is", "iron", "Pronunciation: /\u02c8a\u026a\u0259rn/", "Definition: extremely robust", "Synonyms: cast-iron"]}
+{"data": ["2022-03-22T20:01:29.670343+00:00", 1133, "Your mother is", "dantesque", "Pronunciation: /d\u00e6n\u02c8t\u025bsk/", "Definition: of or relating to Dante Alighieri or his writings", "Synonyms: dantean"]}
