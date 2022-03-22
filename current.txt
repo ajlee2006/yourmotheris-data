@@ -1,1 +1,1 @@
-{"data": ["2022-03-22T15:00:23.490762+00:00", 1129, "Your mother is", "face-to-face", "Pronunciation: /\u02c8fe\u026ast\u0259\u02c8fe\u026as/", "Definition: in each other's presence", ""]}
+{"data": ["2022-03-22T16:01:13.276959+00:00", 1130, "Your mother is", "trusting", "Pronunciation: /\u02c8tr\u0259st\u026a\u014b/", "Definition: inclined to believe or confide readily; full of trust", "Synonyms: trustful"]}
