@@ -1,1 +1,1 @@
-{"data": ["2022-03-22T06:01:37.172986+00:00", 1120, "Your mother is", "aculeate", "Pronunciation: /\u0259\u02c8kjuli\u026at/", "Definition: having or resembling a stinger or barb", "Synonyms: aculeated"]}
+{"data": ["2022-03-22T07:00:51.374758+00:00", 1121, "Your mother is", "greyed", "Similar to: colorless", "Definition: deprived of color", "Synonyms: dulled"]}
