@@ -1,1 +1,1 @@
-{"data": ["2022-03-22T17:01:10.814647+00:00", 1130, "Your mother is", "too-greedy", "Similar to: gluttonous", "Definition: excessively gluttonous", "Synonyms: overgreedy"]}
+{"data": ["2022-03-22T18:00:35.717423+00:00", 1131, "Your mother is", "fly-by-night", "Pronunciation: /\u02c8fla\u026aba\u026a\u02ccna\u026at/", "Definition: ephemeral", ""]}
