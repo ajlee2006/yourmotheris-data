@@ -1,1 +1,1 @@
-{"data": ["2022-03-22T05:00:56.446165+00:00", 1119, "Your mother is", "platelike", "Pronunciation: /\u02c8ple\u026at\u02ccla\u026ak/", "Definition: as the hard flattened scales of e.g. sharks", "Synonyms: placoid"]}
+{"data": ["2022-03-22T06:01:37.172986+00:00", 1120, "Your mother is", "aculeate", "Pronunciation: /\u0259\u02c8kjuli\u026at/", "Definition: having or resembling a stinger or barb", "Synonyms: aculeated"]}
