@@ -1,1 +1,1 @@
-{"data": ["2022-03-22T16:01:13.276959+00:00", 1130, "Your mother is", "trusting", "Pronunciation: /\u02c8tr\u0259st\u026a\u014b/", "Definition: inclined to believe or confide readily; full of trust", "Synonyms: trustful"]}
+{"data": ["2022-03-22T17:01:10.814647+00:00", 1130, "Your mother is", "too-greedy", "Similar to: gluttonous", "Definition: excessively gluttonous", "Synonyms: overgreedy"]}
