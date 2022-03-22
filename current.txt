@@ -1,1 +1,1 @@
-{"data": ["2022-03-22T00:01:42.588247+00:00", 1114, "Your mother is", "unexclusive", "Similar to: public", "Definition: not restricted or exclusive", "Synonyms: unrestricted"]}
+{"data": ["2022-03-22T01:00:30.048544+00:00", 1115, "Your mother is", "neanderthal", "Pronunciation: /ni\u02c8\u00e6nd\u0259r\u02cc\u03b8\u0254l/", "Definition: relating to or belonging to or resembling Neanderthal man", "Synonyms: neandertal, neanderthalian"]}
