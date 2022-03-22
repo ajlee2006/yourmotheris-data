@@ -1,1 +1,1 @@
-{"data": ["2022-03-21T23:01:00.318480+00:00", 1113, "Your mother is", "opposable", "Pronunciation: /\u0259\u02c8po\u028az\u0259b\u0259l/", "Definition: capable of being placed opposite to something", "Synonyms: apposable"]}
+{"data": ["2022-03-22T00:01:42.588247+00:00", 1114, "Your mother is", "unexclusive", "Similar to: public", "Definition: not restricted or exclusive", "Synonyms: unrestricted"]}
