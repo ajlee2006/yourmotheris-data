@@ -1,1 +1,1 @@
-{"data": ["2022-03-22T11:01:13.970900+00:00", 1125, "Your mother is", "unsatisfying", "Pronunciation: /\u0259n\u02c8s\u00e6t\u026as\u02ccfa\u026ai\u014b/", "Definition: not up to expectations", "Synonyms: disappointing, dissatisfactory"]}
+{"data": ["2022-03-22T12:01:19.120891+00:00", 1126, "Your mother is", "five-fold", "Similar to: multiple", "Definition: having five units or components", "Synonyms: fivefold, quintuple"]}
