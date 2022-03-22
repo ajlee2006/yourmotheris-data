@@ -1,1 +1,1 @@
-{"data": ["2022-03-22T13:00:33.080183+00:00", 1127, "Your mother is", "lesser", "Pronunciation: /\u02c8l\u025bs\u0259r/", "Definition: smaller in size or amount or value", ""]}
+{"data": ["2022-03-22T14:00:42.116043+00:00", 1128, "Your mother is", "unreserved", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8z\u025crvd/", "Definition: not cautious or reticent", ""]}
