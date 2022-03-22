@@ -1,1 +1,1 @@
-{"data": ["2022-03-22T10:00:49.640487+00:00", 1124, "Your mother is", "cyanogenic", "Pronunciation: /\u02ccsa\u026a\u0259no\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: capable of producing cyanide", "Synonyms: cyanogenetic"]}
+{"data": ["2022-03-22T11:01:13.970900+00:00", 1125, "Your mother is", "unsatisfying", "Pronunciation: /\u0259n\u02c8s\u00e6t\u026as\u02ccfa\u026ai\u014b/", "Definition: not up to expectations", "Synonyms: disappointing, dissatisfactory"]}
