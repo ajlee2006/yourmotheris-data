@@ -1,1 +1,1 @@
-{"data": ["2022-03-23T07:01:17.058247+00:00", 1144, "Your mother is", "enforced", "Pronunciation: /\u025bn\u02c8f\u0254rst/", "Definition: forced or compelled or put in force", "Synonyms: implemented"]}
+{"data": ["2022-03-23T08:01:32.551365+00:00", 1145, "Your mother is", "caroline", "Pronunciation: /\u02c8k\u00e6r\u0259l\u026an/", "Definition: of or relating to the life and times of kings Charles I or Charles II of England", "Synonyms: carolean"]}
