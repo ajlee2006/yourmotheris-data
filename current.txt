@@ -1,1 +1,1 @@
-{"data": ["2022-03-23T11:00:59.221878+00:00", 1148, "Your mother is", "streaming", "Pronunciation: /\u02c8strim\u026a\u014b/", "Definition: (computer science) using or relating to a form of continuous tape transport; used mainly to provide backup storage of unedited data", ""]}
+{"data": ["2022-03-23T12:00:59.763609+00:00", 1149, "Your mother is", "cheapjack", "Pronunciation: /\u02c8t\u0283ipd\u0292\u00e6k/", "Definition: made of inferior workmanship and materials", "Synonyms: shoddy, tawdry"]}
