@@ -1,1 +1,1 @@
-{"data": ["2022-03-23T22:01:21.664637+00:00", 1159, "Your mother is", "adulatory", "Pronunciation: /\u02c8\u00e6d\u0292\u0259l\u0259\u02ccto\u028ari/", "Definition: obsequiously complimentary", ""]}
+{"data": ["2022-03-23T23:01:17.631147+00:00", 1160, "Your mother is", "caramel", "Pronunciation: /\u02c8k\u00e6r\u0259m\u0259l/", "Definition: having the color of caramel; of a moderate yellow-brown", "Synonyms: caramel brown"]}
