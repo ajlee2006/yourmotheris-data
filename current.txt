@@ -1,1 +1,1 @@
-{"data": ["2022-03-23T00:02:05.854896+00:00", 1137, "Your mother is", "master", "Pronunciation: /\u02c8m\u00e6st\u0259r/", "Definition: most important element", "Synonyms: chief, main, primary, principal"]}
+{"data": ["2022-03-23T01:01:28.362338+00:00", 1138, "Your mother is", "obtuse", "Pronunciation: /\u0259b\u02c8tus/", "Definition: lacking in insight or discernment", "Synonyms: purblind"]}
