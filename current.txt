@@ -1,1 +1,1 @@
-{"data": ["2022-03-22T23:00:28.155815+00:00", 1136, "Your mother is", "tautologic", "Similar to: prolix", "Definition: repetition of same sense in different words", "Synonyms: pleonastic, redundant, tautological"]}
+{"data": ["2022-03-23T00:02:05.854896+00:00", 1137, "Your mother is", "master", "Pronunciation: /\u02c8m\u00e6st\u0259r/", "Definition: most important element", "Synonyms: chief, main, primary, principal"]}
