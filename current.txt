@@ -1,1 +1,1 @@
-{"data": ["2022-03-23T09:00:50.825141+00:00", 1146, "Your mother is", "hygienical", "Similar to: healthful", "Definition: tending to promote or preserve health", "Synonyms: hygienic"]}
+{"data": ["2022-03-23T10:01:38.822888+00:00", 1147, "Your mother is", "spice-scented", "Similar to: odorous", "Definition: smelling of spices", ""]}
