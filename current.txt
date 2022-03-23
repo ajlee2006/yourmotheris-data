@@ -1,1 +1,1 @@
-{"data": ["2022-03-23T16:01:10.485403+00:00", 1153, "Your mother is", "titular", "Pronunciation: /\u02c8t\u026a\u02a7\u0259l\u0259r/", "Definition: existing in name only", "Synonyms: nominal"]}
+{"data": ["2022-03-23T17:00:41.522521+00:00", 1154, "Your mother is", "ascertainable", "Similar to: determinable", "Definition: capable of being ascertained or found out", "Synonyms: discoverable"]}
