@@ -1,1 +1,1 @@
-{"data": ["2022-03-23T18:01:33.392258+00:00", 1155, "Your mother is", "unbelieving", "Pronunciation: /\u02cc\u0259nb\u026a\u02c8liv\u026a\u014b/", "Definition: rejecting any belief in gods", "Synonyms: atheistic, atheistical"]}
+{"data": ["2022-03-23T19:11:42.694725+00:00", 1156, "Your mother is", "javanese", "Pronunciation: /\u02ccd\u0292\u00e6v\u0259\u02c8niz/", "Definition: of or relating to or characteristic of Java or its inhabitants or its language", "Synonyms: javan"]}
