@@ -1,1 +1,1 @@
-{"data": ["2022-03-23T06:01:36.279913+00:00", 1143, "Your mother is", "painful", "Pronunciation: /\u02c8pe\u026anf\u0259l/", "Definition: causing physical discomfort", "Synonyms: irritating"]}
+{"data": ["2022-03-23T07:01:17.058247+00:00", 1144, "Your mother is", "enforced", "Pronunciation: /\u025bn\u02c8f\u0254rst/", "Definition: forced or compelled or put in force", "Synonyms: implemented"]}
