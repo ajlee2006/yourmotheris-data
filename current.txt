@@ -1,1 +1,1 @@
-{"data": ["2022-03-23T01:01:28.362338+00:00", 1138, "Your mother is", "obtuse", "Pronunciation: /\u0259b\u02c8tus/", "Definition: lacking in insight or discernment", "Synonyms: purblind"]}
+{"data": ["2022-03-23T02:01:17.913759+00:00", 1139, "Your mother is", "lxx", "Similar to: cardinal", "Definition: being ten more than sixty", "Synonyms: 70, seventy"]}
