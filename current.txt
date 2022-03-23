@@ -1,1 +1,1 @@
-{"data": ["2022-03-23T08:01:32.551365+00:00", 1145, "Your mother is", "caroline", "Pronunciation: /\u02c8k\u00e6r\u0259l\u026an/", "Definition: of or relating to the life and times of kings Charles I or Charles II of England", "Synonyms: carolean"]}
+{"data": ["2022-03-23T09:00:50.825141+00:00", 1146, "Your mother is", "hygienical", "Similar to: healthful", "Definition: tending to promote or preserve health", "Synonyms: hygienic"]}
