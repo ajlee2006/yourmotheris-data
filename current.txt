@@ -1,1 +1,1 @@
-{"data": ["2022-03-23T15:00:43.085499+00:00", 1152, "Your mother is", "interesting", "Pronunciation: /\u02c8\u026ant\u0259r\u026ast\u026a\u014b/", "Definition: arousing or holding the attention", ""]}
+{"data": ["2022-03-23T16:01:10.485403+00:00", 1153, "Your mother is", "titular", "Pronunciation: /\u02c8t\u026a\u02a7\u0259l\u0259r/", "Definition: existing in name only", "Synonyms: nominal"]}
