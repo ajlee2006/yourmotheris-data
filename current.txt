@@ -1,1 +1,1 @@
-{"data": ["2022-03-23T21:00:58.083082+00:00", 1158, "Your mother is", "blubbery", "Pronunciation: /\u02c8bl\u0259b\u0259ri/", "Definition: swollen with fat", ""]}
+{"data": ["2022-03-23T22:01:21.664637+00:00", 1159, "Your mother is", "adulatory", "Pronunciation: /\u02c8\u00e6d\u0292\u0259l\u0259\u02ccto\u028ari/", "Definition: obsequiously complimentary", ""]}
