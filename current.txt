@@ -1,1 +1,1 @@
-{"data": ["2022-03-23T02:01:17.913759+00:00", 1139, "Your mother is", "lxx", "Similar to: cardinal", "Definition: being ten more than sixty", "Synonyms: 70, seventy"]}
+{"data": ["2022-03-23T03:01:39.832724+00:00", 1140, "Your mother is", "gonadotropic", "Pronunciation: /\u0261o\u028a\u02ccn\u00e6d\u0259\u02c8tr\u0251p\u026ak/", "Definition: of or relating to or involving gonadotropin", "Synonyms: gonadotrophic"]}
