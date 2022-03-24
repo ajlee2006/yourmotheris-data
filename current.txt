@@ -1,1 +1,1 @@
-{"data": ["2022-03-24T04:01:09.665995+00:00", 1165, "Your mother is", "long-staple", "Pronunciation: /l\u0254\u014b-\u02c8ste\u026ap\u0259l/", "Definition: having relatively long fibers", ""]}
+{"data": ["2022-03-24T05:00:27.238531+00:00", 1166, "Your mother is", "fast asleep", "Pronunciation: /f\u00e6st-\u0259\u02c8slip/", "Definition: sleeping deeply", "Synonyms: sound asleep"]}
