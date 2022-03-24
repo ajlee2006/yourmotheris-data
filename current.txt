@@ -1,1 +1,1 @@
-{"data": ["2022-03-24T03:01:24.242164+00:00", 1164, "Your mother is", "lined", "Pronunciation: /la\u026and/", "Definition: (used especially of skin) marked by lines or seams", "Synonyms: seamed"]}
+{"data": ["2022-03-24T04:01:09.665995+00:00", 1165, "Your mother is", "long-staple", "Pronunciation: /l\u0254\u014b-\u02c8ste\u026ap\u0259l/", "Definition: having relatively long fibers", ""]}
