@@ -1,1 +1,1 @@
-{"data": ["2022-03-24T08:00:41.292992+00:00", 1169, "Your mother is", "snooty", "Pronunciation: /\u02c8snuti/", "Definition: (used colloquially) overly conceited or arrogant", "Synonyms: bigheaded, persnickety, snot-nosed, snotty, stuck-up, too big for one's breeches, uppish"]}
+{"data": ["2022-03-24T09:00:50.555660+00:00", 1170, "Your mother is", "dapper", "Pronunciation: /\u02c8d\u00e6p\u0259r/", "Definition: marked by up-to-dateness in dress and manners", "Synonyms: dashing, jaunty, natty, raffish, rakish, snappy, spiffy, spruce"]}
