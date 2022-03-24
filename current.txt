@@ -1,1 +1,1 @@
-{"data": ["2022-03-24T02:00:37.786727+00:00", 1163, "Your mother is", "mythic", "Pronunciation: /\u02c8m\u026a\u03b8\u026ak/", "Definition: based on or told of in traditional stories; lacking factual basis or historical validity", "Synonyms: fabulous, mythical, mythologic, mythological"]}
+{"data": ["2022-03-24T03:01:24.242164+00:00", 1164, "Your mother is", "lined", "Pronunciation: /la\u026and/", "Definition: (used especially of skin) marked by lines or seams", "Synonyms: seamed"]}
