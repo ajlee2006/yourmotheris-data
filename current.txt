@@ -1,1 +1,1 @@
-{"data": ["2022-03-24T22:00:53.386747+00:00", 1183, "Your mother is", "algonquian", "Pronunciation: /\u00e6l\u02c8\u0261\u0251\u014bki\u0259n/", "Definition: of or relating to an Algonquian tribe or its people or language", "Synonyms: algonkian, algonquin"]}
+{"data": ["2022-03-24T23:00:40.114540+00:00", 1184, "Your mother is", "violet-tinted", "Similar to: chromatic", "Definition: of something that is tinged with violet", "Synonyms: violet-tinged"]}
