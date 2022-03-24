@@ -1,1 +1,1 @@
-{"data": ["2022-03-24T18:01:14.327487+00:00", 1179, "Your mother is", "unaged", "Similar to: green", "Definition: not subjected to an aging process", ""]}
+{"data": ["2022-03-24T19:00:57.323354+00:00", 1180, "Your mother is", "ratable", "Pronunciation: /\u02c8re\u026at\u0259b\u0259l/", "Definition: liable to payment of locally assessed property taxes", "Synonyms: rateable"]}
