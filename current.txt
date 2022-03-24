@@ -1,1 +1,1 @@
-{"data": ["2022-03-24T20:00:18.608561+00:00", 1181, "Your mother is", "older", "Pronunciation: /\u02c8o\u028ald\u0259r/", "Definition: skilled through long experience", "Synonyms: old"]}
+{"data": ["2022-03-24T21:00:30.538063+00:00", 1182, "Your mother is", "crownless", "Similar to: quasi-royal", "Definition: not (especially not yet) provided with a crown", "Synonyms: uncrowned"]}
