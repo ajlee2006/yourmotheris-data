@@ -1,1 +1,1 @@
-{"data": ["2022-03-24T06:00:39.679781+00:00", 1167, "Your mother is", "spacy", "Similar to: unconventional", "Definition: stupefied by (or as if by) some narcotic drug", "Synonyms: spaced-out, spacey"]}
+{"data": ["2022-03-24T07:00:41.706074+00:00", 1168, "Your mother is", "well-situated", "Pronunciation: /w\u025bl-\u02c8s\u026a\u02a7u\u02cce\u026at\u026ad/", "Definition: in fortunate circumstances financially; moderately rich", "Synonyms: comfortable, easy, prosperous, well-fixed, well-heeled, well-off, well-to-do"]}
