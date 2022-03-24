@@ -1,1 +1,1 @@
-{"data": ["2022-03-24T09:00:50.555660+00:00", 1170, "Your mother is", "dapper", "Pronunciation: /\u02c8d\u00e6p\u0259r/", "Definition: marked by up-to-dateness in dress and manners", "Synonyms: dashing, jaunty, natty, raffish, rakish, snappy, spiffy, spruce"]}
+{"data": ["2022-03-24T10:00:50.408559+00:00", 1171, "Your mother is", "magnetized", "Pronunciation: /\u02c8m\u00e6\u0261n\u026a\u02ccta\u026azd/", "Definition: having the properties of a magnet; i.e. of attracting iron or steel", "Synonyms: magnetic, magnetised"]}
