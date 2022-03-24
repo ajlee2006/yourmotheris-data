@@ -1,1 +1,1 @@
-{"data": ["2022-03-24T05:00:27.238531+00:00", 1166, "Your mother is", "fast asleep", "Pronunciation: /f\u00e6st-\u0259\u02c8slip/", "Definition: sleeping deeply", "Synonyms: sound asleep"]}
+{"data": ["2022-03-24T06:00:39.679781+00:00", 1167, "Your mother is", "spacy", "Similar to: unconventional", "Definition: stupefied by (or as if by) some narcotic drug", "Synonyms: spaced-out, spacey"]}
