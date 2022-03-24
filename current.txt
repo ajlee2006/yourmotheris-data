@@ -1,1 +1,1 @@
-{"data": ["2022-03-24T00:01:27.649461+00:00", 1161, "Your mother is", "canorous", "Pronunciation: /k\u0259\u02c8no\u028ar\u0259s/", "Definition: richly melodious", "Synonyms: songful"]}
+{"data": ["2022-03-24T01:01:07.076269+00:00", 1162, "Your mother is", "yucky", "Pronunciation: /\u02c8j\u028cki/", "Definition: highly offensive; arousing aversion or disgust", "Synonyms: disgustful, disgusting, distasteful, foul, loathly, loathsome, repellant, repellent, repelling, revolting, skanky, wicked"]}
