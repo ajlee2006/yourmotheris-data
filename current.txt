@@ -1,1 +1,1 @@
-{"data": ["2022-03-24T10:00:50.408559+00:00", 1171, "Your mother is", "magnetized", "Pronunciation: /\u02c8m\u00e6\u0261n\u026a\u02ccta\u026azd/", "Definition: having the properties of a magnet; i.e. of attracting iron or steel", "Synonyms: magnetic, magnetised"]}
+{"data": ["2022-03-24T11:00:39.983227+00:00", 1172, "Your mother is", "intense", "Pronunciation: /\u026an\u02c8t\u025bns/", "Definition: extremely sharp or severe", "Synonyms: acute"]}
