@@ -1,1 +1,1 @@
-{"data": ["2022-03-23T23:01:17.631147+00:00", 1160, "Your mother is", "caramel", "Pronunciation: /\u02c8k\u00e6r\u0259m\u0259l/", "Definition: having the color of caramel; of a moderate yellow-brown", "Synonyms: caramel brown"]}
+{"data": ["2022-03-24T00:01:27.649461+00:00", 1161, "Your mother is", "canorous", "Pronunciation: /k\u0259\u02c8no\u028ar\u0259s/", "Definition: richly melodious", "Synonyms: songful"]}
