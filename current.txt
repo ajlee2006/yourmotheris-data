@@ -1,1 +1,1 @@
-{"data": ["2022-03-25T07:01:38.020482+00:00", 1192, "Your mother is", "censurable", "Pronunciation: /\u02c8s\u025bn\u0283\u0259r\u0259b\u0259l/", "Definition: deserving blame or censure as being wrong or evil or injurious", "Synonyms: blamable, blameable, blameful, blameworthy, culpable"]}
+{"data": ["2022-03-25T08:01:26.278301+00:00", 1193, "Your mother is", "unmechanized", "Similar to: nonmechanical", "Definition: not mechanized", "Synonyms: unmechanised"]}
