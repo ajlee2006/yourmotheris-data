@@ -1,1 +1,1 @@
-{"data": ["2022-03-25T04:00:55.821351+00:00", 1189, "Your mother is", "duncish", "Similar to: stupid", "Definition: (used informally) stupid", "Synonyms: blockheaded, boneheaded, duncical, fatheaded, loggerheaded, thick, thick-skulled, thickheaded, wooden-headed"]}
+{"data": ["2022-03-25T05:00:41.147460+00:00", 1190, "Your mother is", "catarrhinian", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8r\u026ani\u0259n/", "Definition: of or related to Old World monkeys that have nostrils together and opening downward", "Synonyms: catarrhine"]}
