@@ -1,1 +1,1 @@
-{"data": ["2022-03-25T20:00:13.917088+00:00", 1205, "Your mother is", "uncorrelated", "Similar to: unrelated", "Definition: not varying together", ""]}
+{"data": ["2022-03-25T21:00:23.176019+00:00", 1206, "Your mother is", "unmingled", "Similar to: pure", "Definition: not mixed with extraneous elements", "Synonyms: plain, sheer, unmixed"]}
