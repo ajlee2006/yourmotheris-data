@@ -1,1 +1,1 @@
-{"data": ["2022-03-25T08:01:26.278301+00:00", 1193, "Your mother is", "unmechanized", "Similar to: nonmechanical", "Definition: not mechanized", "Synonyms: unmechanised"]}
+{"data": ["2022-03-25T09:00:45.008662+00:00", 1194, "Your mother is", "derelict", "Pronunciation: /\u02c8d\u025br\u0259l\u026akt/", "Definition: failing in what duty requires", "Synonyms: delinquent, neglectful, remiss"]}
