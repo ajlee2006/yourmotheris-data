@@ -1,1 +1,1 @@
-{"data": ["2022-03-25T14:00:37.715734+00:00", 1199, "Your mother is", "individualistic", "Pronunciation: /\u02cc\u026and\u026a\u02ccv\u026ad\u0292u\u028c\u02c8l\u026ast\u026ak/", "Definition: marked by or expressing individuality", "Synonyms: individualist"]}
+{"data": ["2022-03-25T15:00:37.626169+00:00", 1200, "Your mother is", "rheological", "", "Definition: of or relating to rheology", "Synonyms: rheologic"]}
