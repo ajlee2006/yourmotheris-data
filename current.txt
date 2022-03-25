@@ -1,1 +1,1 @@
-{"data": ["2022-03-25T05:00:41.147460+00:00", 1190, "Your mother is", "catarrhinian", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8r\u026ani\u0259n/", "Definition: of or related to Old World monkeys that have nostrils together and opening downward", "Synonyms: catarrhine"]}
+{"data": ["2022-03-25T06:00:21.160225+00:00", 1191, "Your mother is", "sooty", "Pronunciation: /\u02c8s\u028ati/", "Definition: of the blackest black; similar to the color of jet or coal", "Synonyms: coal-black, jet, jet-black, pitchy"]}
