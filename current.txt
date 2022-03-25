@@ -1,1 +1,1 @@
-{"data": ["2022-03-25T06:00:21.160225+00:00", 1191, "Your mother is", "sooty", "Pronunciation: /\u02c8s\u028ati/", "Definition: of the blackest black; similar to the color of jet or coal", "Synonyms: coal-black, jet, jet-black, pitchy"]}
+{"data": ["2022-03-25T07:01:38.020482+00:00", 1192, "Your mother is", "censurable", "Pronunciation: /\u02c8s\u025bn\u0283\u0259r\u0259b\u0259l/", "Definition: deserving blame or censure as being wrong or evil or injurious", "Synonyms: blamable, blameable, blameful, blameworthy, culpable"]}
