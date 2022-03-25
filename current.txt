@@ -1,1 +1,1 @@
-{"data": ["2022-03-25T00:02:05.948305+00:00", 1185, "Your mother is", "ninety-seven", "Pronunciation: /\u02c8na\u026anti-\u02c8s\u025bv\u0259n/", "Definition: being seven more than ninety", "Synonyms: 97, xcvii"]}
+{"data": ["2022-03-25T01:01:47.500676+00:00", 1186, "Your mother is", "atactic", "", "Definition: lacking motor coordination; marked or caused by ataxia", "Synonyms: ataxic"]}
