@@ -1,1 +1,1 @@
-{"data": ["2022-03-25T09:00:45.008662+00:00", 1194, "Your mother is", "derelict", "Pronunciation: /\u02c8d\u025br\u0259l\u026akt/", "Definition: failing in what duty requires", "Synonyms: delinquent, neglectful, remiss"]}
+{"data": ["2022-03-25T10:01:29.724110+00:00", 1195, "Your mother is", "lawfully-begotten", "Similar to: legitimate", "Definition: born in wedlock; enjoying full filial rights", ""]}
