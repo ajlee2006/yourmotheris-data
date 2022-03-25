@@ -1,1 +1,1 @@
-{"data": ["2022-03-25T19:01:15.975697+00:00", 1204, "Your mother is", "statuesque", "Pronunciation: /\u02ccst\u00e6\u02a7u\u02c8\u025bsk/", "Definition: of size and dignity suggestive of a statue", "Synonyms: stately"]}
+{"data": ["2022-03-25T20:00:13.917088+00:00", 1205, "Your mother is", "uncorrelated", "Similar to: unrelated", "Definition: not varying together", ""]}
