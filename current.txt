@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T14:01:25.666637+00:00", 1223, "Your mother is", "demoralizing", "Pronunciation: /d\u026a\u02c8m\u0254r\u028c\u02ccla\u026az\u026a\u014b/", "Definition: destructive of morale and self-reliance", "Synonyms: demoralising, disheartening, dispiriting"]}
+{"data": ["2022-03-26T15:00:26.232106+00:00", 1224, "Your mother is", "graceless", "Pronunciation: /\u02c8gre\u026asl\u026as/", "Definition: lacking grace; clumsy", "Synonyms: ungraceful"]}
