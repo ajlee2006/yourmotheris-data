@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T09:01:07.400715+00:00", 1218, "Your mother is", "embryonic", "Pronunciation: /\u02cc\u025bmbri\u02c8\u0251n\u026ak/", "Definition: in an early stage of development", "Synonyms: embryotic"]}
+{"data": ["2022-03-26T10:01:03.924695+00:00", 1219, "Your mother is", "starlike", "Pronunciation: /\u02c8st\u0251r\u02ccla\u026ak/", "Definition: resembling a star", ""]}
