@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T06:01:24.655368+00:00", 1215, "Your mother is", "endomorphic", "Pronunciation: /\u02cc\u025bnd\u0259\u02c8m\u0254rf\u026ak/", "Definition: having a squat and fleshy build", "Synonyms: pyknic"]}
+{"data": ["2022-03-26T07:01:14.751728+00:00", 1216, "Your mother is", "demoralized", "Pronunciation: /d\u026a\u02c8m\u0254r\u028c\u02ccla\u026azd/", "Definition: made less hopeful or enthusiastic", "Synonyms: demoralised, discouraged, disheartened"]}
