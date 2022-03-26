@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T12:00:40.672496+00:00", 1221, "Your mother is", "antimonial", "Similar to: metal", "Definition: containing antimony", ""]}
+{"data": ["2022-03-26T13:00:53.271566+00:00", 1222, "Your mother is", "decentralized", "Pronunciation: /d\u026a\u02c8s\u025bntr\u028c\u02ccla\u026azd/", "Definition: withdrawn from a center or place of concentration; especially having power or function dispersed from a central to local authorities", "Synonyms: decentralised"]}
