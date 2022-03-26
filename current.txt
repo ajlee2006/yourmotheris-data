@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T00:01:16.668888+00:00", 1209, "Your mother is", "lipotropic", "Pronunciation: /\u02ccl\u026ap\u0259\u02c8tr\u0251p\u026ak/", "Definition: having an affinity for lipids", "Synonyms: lipophilic"]}
+{"data": ["2022-03-26T01:01:09.769743+00:00", 1210, "Your mother is", "seven", "Pronunciation: /\u02c8s\u025bv\u0259n/", "Definition: being one more than six", "Synonyms: 7, vii"]}
