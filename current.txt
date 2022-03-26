@@ -1,1 +1,1 @@
-{"data": ["2022-03-25T23:00:29.149869+00:00", 1208, "Your mother is", "purplish-white", "Similar to: achromatic", "Definition: of white tinged with purple", "Synonyms: purple-white"]}
+{"data": ["2022-03-26T00:01:16.668888+00:00", 1209, "Your mother is", "lipotropic", "Pronunciation: /\u02ccl\u026ap\u0259\u02c8tr\u0251p\u026ak/", "Definition: having an affinity for lipids", "Synonyms: lipophilic"]}
