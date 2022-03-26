@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T01:01:09.769743+00:00", 1210, "Your mother is", "seven", "Pronunciation: /\u02c8s\u025bv\u0259n/", "Definition: being one more than six", "Synonyms: 7, vii"]}
+{"data": ["2022-03-26T02:00:37.222676+00:00", 1211, "Your mother is", "suffusive", "Pronunciation: /s\u0259\u02c8fjus\u026av/", "Definition: spreading through", ""]}
