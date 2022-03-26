@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T04:00:53.906716+00:00", 1213, "Your mother is", "ineradicable", "Pronunciation: /\u02cc\u026an\u026a\u02c8r\u00e6d\u0259k\u0259b\u0259l/", "Definition: not able to be destroyed or rooted out", ""]}
+{"data": ["2022-03-26T05:01:37.509278+00:00", 1214, "Your mother is", "northwest", "Pronunciation: /\u02ccn\u0254r\u03b8\u02c8w\u025bst/", "Definition: coming from the northwest", "Synonyms: northwesterly"]}
