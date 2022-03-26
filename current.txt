@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T03:01:27.874894+00:00", 1212, "Your mother is", "ruffianly", "Similar to: violent", "Definition: violent and lawless", "Synonyms: tough"]}
+{"data": ["2022-03-26T04:00:53.906716+00:00", 1213, "Your mother is", "ineradicable", "Pronunciation: /\u02cc\u026an\u026a\u02c8r\u00e6d\u0259k\u0259b\u0259l/", "Definition: not able to be destroyed or rooted out", ""]}
