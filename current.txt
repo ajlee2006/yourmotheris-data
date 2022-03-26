@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T08:01:10.881348+00:00", 1217, "Your mother is", "metamorphous", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8m\u0254rf\u0259s/", "Definition: of or relating to metamorphosis (especially of rocks)", "Synonyms: metamorphic"]}
+{"data": ["2022-03-26T09:01:07.400715+00:00", 1218, "Your mother is", "embryonic", "Pronunciation: /\u02cc\u025bmbri\u02c8\u0251n\u026ak/", "Definition: in an early stage of development", "Synonyms: embryotic"]}
