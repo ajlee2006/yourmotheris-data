@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T21:00:48.222252+00:00", 1230, "Your mother is", "translatable", "Pronunciation: /tr\u00e6ns\u02c8le\u026at\u0259b\u0259l/", "Definition: capable of being changed in substance as if by alchemy", "Synonyms: convertible, transformable, transmutable"]}
+{"data": ["2022-03-26T22:00:52.540554+00:00", 1231, "Your mother is", "lowset", "Similar to: low", "Definition: lower than average", "Synonyms: low-set"]}
