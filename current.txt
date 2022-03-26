@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T20:01:05.774254+00:00", 1229, "Your mother is", "two-leaved", "Pronunciation: /tu-livd/", "Definition: having two leaves", "Synonyms: two-leafed"]}
+{"data": ["2022-03-26T21:00:48.222252+00:00", 1230, "Your mother is", "translatable", "Pronunciation: /tr\u00e6ns\u02c8le\u026at\u0259b\u0259l/", "Definition: capable of being changed in substance as if by alchemy", "Synonyms: convertible, transformable, transmutable"]}
