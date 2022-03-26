@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T05:01:37.509278+00:00", 1214, "Your mother is", "northwest", "Pronunciation: /\u02ccn\u0254r\u03b8\u02c8w\u025bst/", "Definition: coming from the northwest", "Synonyms: northwesterly"]}
+{"data": ["2022-03-26T06:01:24.655368+00:00", 1215, "Your mother is", "endomorphic", "Pronunciation: /\u02cc\u025bnd\u0259\u02c8m\u0254rf\u026ak/", "Definition: having a squat and fleshy build", "Synonyms: pyknic"]}
