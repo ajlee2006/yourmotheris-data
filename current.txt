@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T15:00:26.232106+00:00", 1224, "Your mother is", "graceless", "Pronunciation: /\u02c8gre\u026asl\u026as/", "Definition: lacking grace; clumsy", "Synonyms: ungraceful"]}
+{"data": ["2022-03-26T16:01:26.616855+00:00", 1225, "Your mother is", "hand-held", "", "Definition: small and light enough to be operated while you hold it in your hands", "Synonyms: handheld"]}
