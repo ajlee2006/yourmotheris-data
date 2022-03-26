@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T16:01:26.616855+00:00", 1225, "Your mother is", "hand-held", "", "Definition: small and light enough to be operated while you hold it in your hands", "Synonyms: handheld"]}
+{"data": ["2022-03-26T17:01:08.230134+00:00", 1226, "Your mother is", "raftered", "Similar to: ceilinged", "Definition: having the rafters especially having them visible", ""]}
