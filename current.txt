@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T07:01:14.685434+00:00", 1240, "Your mother is", "perpendicular", "Pronunciation: /\u02ccp\u025crp\u0259n\u02c8d\u026akj\u028al\u0259r/", "Definition: at right angles to the plane of the horizon or a base line", "Synonyms: vertical"]}
+{"data": ["2022-03-27T08:01:27.984101+00:00", 1241, "Your mother is", "untwisted", "Similar to: straight", "Definition: not twisted; formerly twisted but now straight", ""]}
