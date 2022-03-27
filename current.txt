@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T11:01:28.101831+00:00", 1244, "Your mother is", "thyroidal", "", "Definition: of or relating to the thyroid gland", "Synonyms: thyroid"]}
+{"data": ["2022-03-27T12:00:14.646366+00:00", 1245, "Your mother is", "part time", "Pronunciation: /p\u0251rt-ta\u026am/", "Definition: involving less than the standard or customary time for an activity", "Synonyms: part-time"]}
