@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T20:00:58.473524+00:00", 1253, "Your mother is", "tumble-down", "Pronunciation: /\u02c8t\u0259mb\u0259l-\u02ccda\u028an/", "Definition: in deplorable condition", "Synonyms: bedraggled, broken-down, derelict, dilapidated, ramshackle, tatterdemalion"]}
+{"data": ["2022-03-27T21:00:26.187329+00:00", 1254, "Your mother is", "cubelike", "Similar to: cubic", "Definition: shaped like a cube", "Synonyms: cube-shaped, cubical, cubiform, cuboid, cuboidal"]}
