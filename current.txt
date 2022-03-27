@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T04:01:19.408045+00:00", 1237, "Your mother is", "angulate", "Pronunciation: /\u02c8\u00e6\u014b\u0261j\u0259l\u026at/", "Definition: having angles or an angular shape", "Synonyms: angular"]}
+{"data": ["2022-03-27T05:00:15.637416+00:00", 1238, "Your mother is", "unnotched", "Similar to: smooth", "Definition: having no notches", "Synonyms: untoothed"]}
