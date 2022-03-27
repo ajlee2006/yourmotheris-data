@@ -1,1 +1,1 @@
-{"data": ["2022-03-26T23:00:33.322723+00:00", 1232, "Your mother is", "adonic", "Pronunciation: /\u0259\u02c8d\u0251n\u026ak/", "Definition: having a rhythm consisting of a dactyl followed by a spondee or a trochee", ""]}
+{"data": ["2022-03-27T00:01:30.153859+00:00", 1233, "Your mother is", "dark-grey", "Similar to: achromatic", "Definition: of a dark shade of grey", "Synonyms: dark-gray, oxford-gray, oxford-grey"]}
