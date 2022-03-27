@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T15:01:01.398962+00:00", 1248, "Your mother is", "tenanted", "Similar to: inhabited", "Definition: resided in; having tenants", "Synonyms: occupied"]}
+{"data": ["2022-03-27T16:00:42.125403+00:00", 1249, "Your mother is", "substantiative", "Similar to: supportive", "Definition: serving to support or corroborate", "Synonyms: collateral, confirmative, confirmatory, confirming, corroborative, corroboratory, substantiating, validating, validatory, verificatory, verifying"]}
