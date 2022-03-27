@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T13:00:34.833696+00:00", 1246, "Your mother is", "perspicuous", "Pronunciation: /p\u0259r\u02c8sp\u026akju\u0259s/", "Definition: (of language) transparently clear; easily understandable", "Synonyms: crystal clear, limpid, lucid, luculent, pellucid"]}
+{"data": ["2022-03-27T14:00:42.537253+00:00", 1247, "Your mother is", "idealistic", "Pronunciation: /a\u026a\u02ccdi\u0259\u02c8l\u026ast\u026ak/", "Definition: of or relating to the philosophical doctrine of the reality of ideas", "Synonyms: ideal"]}
