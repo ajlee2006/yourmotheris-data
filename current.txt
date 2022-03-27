@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T03:01:12.195188+00:00", 1236, "Your mother is", "revealing", "Pronunciation: /r\u026a\u02c8vil\u026a\u014b/", "Definition: disclosing unintentionally something concealed", "Synonyms: telling, telltale"]}
+{"data": ["2022-03-27T04:01:19.408045+00:00", 1237, "Your mother is", "angulate", "Pronunciation: /\u02c8\u00e6\u014b\u0261j\u0259l\u026at/", "Definition: having angles or an angular shape", "Synonyms: angular"]}
