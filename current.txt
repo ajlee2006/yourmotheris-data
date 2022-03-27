@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T16:00:42.125403+00:00", 1249, "Your mother is", "substantiative", "Similar to: supportive", "Definition: serving to support or corroborate", "Synonyms: collateral, confirmative, confirmatory, confirming, corroborative, corroboratory, substantiating, validating, validatory, verificatory, verifying"]}
+{"data": ["2022-03-27T17:00:19.197226+00:00", 1250, "Your mother is", "drum-shaped", "Pronunciation: /dr\u0259m-\u0283e\u026apt/", "Definition: shaped in a form resembling a drum", "Synonyms: drum-like"]}
