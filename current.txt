@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T22:00:16.205946+00:00", 1255, "Your mother is", "astringent", "Pronunciation: /\u0259\u02c8str\u026and\u0292\u0259nt/", "Definition: sour or bitter in taste", "Synonyms: acerb, acerbic"]}
+{"data": ["2022-03-27T23:01:02.913347+00:00", 1256, "Your mother is", "barefaced", "Pronunciation: /\u02c8b\u025cr\u02c8fe\u026ast/", "Definition: unrestrained by convention or propriety", "Synonyms: audacious, bald-faced, bodacious, brassy, brazen, brazen-faced, insolent"]}
