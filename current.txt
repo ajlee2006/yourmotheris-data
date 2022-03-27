@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T10:01:13.412124+00:00", 1243, "Your mother is", "enchanting", "Pronunciation: /\u025bn\u02c8\u02a7\u00e6nt\u026a\u014b/", "Definition: capturing interest as if by a spell", "Synonyms: bewitching, captivating, enthralling, entrancing, fascinating"]}
+{"data": ["2022-03-27T11:01:28.101831+00:00", 1244, "Your mother is", "thyroidal", "", "Definition: of or relating to the thyroid gland", "Synonyms: thyroid"]}
