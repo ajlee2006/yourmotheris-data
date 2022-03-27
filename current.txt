@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T12:00:14.646366+00:00", 1245, "Your mother is", "part time", "Pronunciation: /p\u0251rt-ta\u026am/", "Definition: involving less than the standard or customary time for an activity", "Synonyms: part-time"]}
+{"data": ["2022-03-27T13:00:34.833696+00:00", 1246, "Your mother is", "perspicuous", "Pronunciation: /p\u0259r\u02c8sp\u026akju\u0259s/", "Definition: (of language) transparently clear; easily understandable", "Synonyms: crystal clear, limpid, lucid, luculent, pellucid"]}
