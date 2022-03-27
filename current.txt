@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T17:00:19.197226+00:00", 1250, "Your mother is", "drum-shaped", "Pronunciation: /dr\u0259m-\u0283e\u026apt/", "Definition: shaped in a form resembling a drum", "Synonyms: drum-like"]}
+{"data": ["2022-03-27T18:01:29.590855+00:00", 1251, "Your mother is", "ascendible", "Similar to: scalable", "Definition: capable of being ascended", "Synonyms: ascendable, climbable"]}
