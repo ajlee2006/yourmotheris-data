@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T02:01:40.643181+00:00", 1235, "Your mother is", "glaciated", "Pronunciation: /\u02c8gle\u026as\u026a\u02cce\u026at\u026ad/", "Definition: covered with ice (as by a glacier) or affected by glacial action", ""]}
+{"data": ["2022-03-27T03:01:12.195188+00:00", 1236, "Your mother is", "revealing", "Pronunciation: /r\u026a\u02c8vil\u026a\u014b/", "Definition: disclosing unintentionally something concealed", "Synonyms: telling, telltale"]}
