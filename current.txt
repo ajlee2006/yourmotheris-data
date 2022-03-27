@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T21:00:26.187329+00:00", 1254, "Your mother is", "cubelike", "Similar to: cubic", "Definition: shaped like a cube", "Synonyms: cube-shaped, cubical, cubiform, cuboid, cuboidal"]}
+{"data": ["2022-03-27T22:00:16.205946+00:00", 1255, "Your mother is", "astringent", "Pronunciation: /\u0259\u02c8str\u026and\u0292\u0259nt/", "Definition: sour or bitter in taste", "Synonyms: acerb, acerbic"]}
