@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T09:01:05.313720+00:00", 1266, "Your mother is", "inextricable", "Pronunciation: /\u026an\u02c8\u025bkstr\u0259k\u0259b\u0259l/", "Definition: not permitting extrication; incapable of being disentangled or untied", ""]}
+{"data": ["2022-03-28T10:01:38.531674+00:00", 1267, "Your mother is", "despondent", "Pronunciation: /d\u026a\u02c8sp\u0251nd\u0259nt/", "Definition: without or almost without hope", "Synonyms: heartsick"]}
