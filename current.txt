@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T06:01:00.877194+00:00", 1263, "Your mother is", "outdoorsy", "Pronunciation: /\u02cca\u028at\u02c8do\u028arzi/", "Definition: characteristic of or suitable to outdoor life", ""]}
+{"data": ["2022-03-28T07:00:45.374188+00:00", 1264, "Your mother is", "sterile", "Pronunciation: /\u02c8st\u025bra\u026al/", "Definition: incapable of reproducing", "Synonyms: infertile, unfertile"]}
