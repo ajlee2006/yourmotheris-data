@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T20:01:08.937312+00:00", 1277, "Your mother is", "especial", "Pronunciation: /\u025b\u02c8sp\u025b\u0283\u0259l/", "Definition: surpassing what is common or usual or expected", "Synonyms: exceptional, particular, special"]}
+{"data": ["2022-03-28T21:00:16.340817+00:00", 1278, "Your mother is", "wizard", "Pronunciation: /\u02c8w\u026az\u0259rd/", "Definition: possessing or using or characteristic of or appropriate to supernatural powers", "Synonyms: charming, magic, magical, sorcerous, witching, wizardly"]}
