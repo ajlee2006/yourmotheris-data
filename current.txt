@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T12:01:15.133638+00:00", 1269, "Your mother is", "nonstick", "Pronunciation: /n\u0251n\u02c8st\u026ak/", "Definition: (of surfaces especially of cooking utensils) permitting easy removal of adherent food particles", ""]}
+{"data": ["2022-03-28T13:00:25.848919+00:00", 1270, "Your mother is", "port", "Pronunciation: /po\u028art/", "Definition: located on the left side of a ship or aircraft", "Synonyms: larboard"]}
