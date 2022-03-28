@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T21:00:16.340817+00:00", 1278, "Your mother is", "wizard", "Pronunciation: /\u02c8w\u026az\u0259rd/", "Definition: possessing or using or characteristic of or appropriate to supernatural powers", "Synonyms: charming, magic, magical, sorcerous, witching, wizardly"]}
+{"data": ["2022-03-28T22:00:45.936604+00:00", 1279, "Your mother is", "allotropic", "Pronunciation: /\u02cc\u00e6l\u0259\u02c8tr\u0251p\u026ak/", "Definition: of or related to or exhibiting allotropism", "Synonyms: allotropical"]}
