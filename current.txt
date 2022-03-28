@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T04:01:15.068030+00:00", 1261, "Your mother is", "crude", "Pronunciation: /krud/", "Definition: not carefully or expertly made", "Synonyms: rough"]}
+{"data": ["2022-03-28T05:01:02.637768+00:00", 1262, "Your mother is", "yellow-bellied", "Pronunciation: /\u02c8j\u025blo\u028a-\u02c8b\u025blid/", "Definition: easily frightened", "Synonyms: chicken, chickenhearted, lily-livered, white-livered, yellow"]}
