@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T19:00:48.601304+00:00", 1276, "Your mother is", "rabid", "Pronunciation: /\u02c8r\u00e6b\u026ad/", "Definition: marked by excessive enthusiasm for and intense devotion to a cause or idea", "Synonyms: fanatic, fanatical, overzealous"]}
+{"data": ["2022-03-28T20:01:08.937312+00:00", 1277, "Your mother is", "especial", "Pronunciation: /\u025b\u02c8sp\u025b\u0283\u0259l/", "Definition: surpassing what is common or usual or expected", "Synonyms: exceptional, particular, special"]}
