@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T08:00:56.462040+00:00", 1265, "Your mother is", "homophobic", "Pronunciation: /\u02ccho\u028am\u028c\u02c8fo\u028ab\u026ak/", "Definition: prejudiced against homosexual people", ""]}
+{"data": ["2022-03-28T09:01:05.313720+00:00", 1266, "Your mother is", "inextricable", "Pronunciation: /\u026an\u02c8\u025bkstr\u0259k\u0259b\u0259l/", "Definition: not permitting extrication; incapable of being disentangled or untied", ""]}
