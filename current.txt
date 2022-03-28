@@ -1,1 +1,1 @@
-{"data": ["2022-03-27T23:01:02.913347+00:00", 1256, "Your mother is", "barefaced", "Pronunciation: /\u02c8b\u025cr\u02c8fe\u026ast/", "Definition: unrestrained by convention or propriety", "Synonyms: audacious, bald-faced, bodacious, brassy, brazen, brazen-faced, insolent"]}
+{"data": ["2022-03-28T00:01:45.077403+00:00", 1257, "Your mother is", "flying", "Pronunciation: /\u02c8fla\u026a\u026a\u014b/", "Definition: moving swiftly", "Synonyms: fast-flying"]}
