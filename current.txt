@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T07:00:45.374188+00:00", 1264, "Your mother is", "sterile", "Pronunciation: /\u02c8st\u025bra\u026al/", "Definition: incapable of reproducing", "Synonyms: infertile, unfertile"]}
+{"data": ["2022-03-28T08:00:56.462040+00:00", 1265, "Your mother is", "homophobic", "Pronunciation: /\u02ccho\u028am\u028c\u02c8fo\u028ab\u026ak/", "Definition: prejudiced against homosexual people", ""]}
