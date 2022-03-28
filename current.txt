@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T05:01:02.637768+00:00", 1262, "Your mother is", "yellow-bellied", "Pronunciation: /\u02c8j\u025blo\u028a-\u02c8b\u025blid/", "Definition: easily frightened", "Synonyms: chicken, chickenhearted, lily-livered, white-livered, yellow"]}
+{"data": ["2022-03-28T06:01:00.877194+00:00", 1263, "Your mother is", "outdoorsy", "Pronunciation: /\u02cca\u028at\u02c8do\u028arzi/", "Definition: characteristic of or suitable to outdoor life", ""]}
