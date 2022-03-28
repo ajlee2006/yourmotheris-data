@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T10:01:38.531674+00:00", 1267, "Your mother is", "despondent", "Pronunciation: /d\u026a\u02c8sp\u0251nd\u0259nt/", "Definition: without or almost without hope", "Synonyms: heartsick"]}
+{"data": ["2022-03-28T11:01:17.262154+00:00", 1268, "Your mother is", "presentational", "Pronunciation: /\u02ccpr\u025bz\u0259n\u02c8te\u026a\u0283\u0259n\u0259l/", "Definition: of or relating to a presentation (especially in psychology or philosophy)", ""]}
