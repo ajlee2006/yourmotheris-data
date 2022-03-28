@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T03:01:15.804760+00:00", 1260, "Your mother is", "menstrual", "Pronunciation: /\u02c8m\u025bnstru\u0259l/", "Definition: of or relating to menstruation or the menses", "Synonyms: catamenial"]}
+{"data": ["2022-03-28T04:01:15.068030+00:00", 1261, "Your mother is", "crude", "Pronunciation: /krud/", "Definition: not carefully or expertly made", "Synonyms: rough"]}
