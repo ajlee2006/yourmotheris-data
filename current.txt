@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T11:01:17.262154+00:00", 1268, "Your mother is", "presentational", "Pronunciation: /\u02ccpr\u025bz\u0259n\u02c8te\u026a\u0283\u0259n\u0259l/", "Definition: of or relating to a presentation (especially in psychology or philosophy)", ""]}
+{"data": ["2022-03-28T12:01:15.133638+00:00", 1269, "Your mother is", "nonstick", "Pronunciation: /n\u0251n\u02c8st\u026ak/", "Definition: (of surfaces especially of cooking utensils) permitting easy removal of adherent food particles", ""]}
