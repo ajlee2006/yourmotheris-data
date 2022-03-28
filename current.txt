@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T02:01:32.942018+00:00", 1259, "Your mother is", "short-staffed", "Similar to: inadequate", "Definition: inadequate in number of workers or assistants etc.", "Synonyms: short-handed, undermanned, understaffed"]}
+{"data": ["2022-03-28T03:01:15.804760+00:00", 1260, "Your mother is", "menstrual", "Pronunciation: /\u02c8m\u025bnstru\u0259l/", "Definition: of or relating to menstruation or the menses", "Synonyms: catamenial"]}
