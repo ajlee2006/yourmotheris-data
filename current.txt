@@ -1,1 +1,1 @@
-{"data": ["2022-03-28T14:01:11.973864+00:00", 1271, "Your mother is", "black-haired", "Similar to: brunet", "Definition: having hair of a dark color", "Synonyms: brown-haired, dark-haired"]}
+{"data": ["2022-03-28T15:00:20.827214+00:00", 1272, "Your mother is", "acold", "Pronunciation: /\u0259\u02c8ko\u028ald/", "Definition: of persons; feeling cold", ""]}
