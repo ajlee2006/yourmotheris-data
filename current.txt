@@ -1,1 +1,1 @@
-{"data": ["2022-03-29T02:00:17.857918+00:00", 1283, "Your mother is", "uninteresting", "Pronunciation: /\u0259n\u02c8\u026antr\u0259sti\u014b/", "Definition: arousing no interest or attention or curiosity or excitement", ""]}
+{"data": ["2022-03-29T03:00:46.101981+00:00", 1284, "Your mother is", "braised", "Pronunciation: /bre\u026azd/", "Definition: cooked by browning in fat and then simmering in a closed container", ""]}
