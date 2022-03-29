@@ -1,1 +1,1 @@
-{"data": ["2022-03-29T21:01:22.205309+00:00", 1302, "Your mother is", "unsatisfactory", "Pronunciation: /\u02cc\u0259ns\u00e6t\u026as\u02c8f\u00e6kt\u0259ri/", "Definition: not giving satisfaction", ""]}
+{"data": ["2022-03-29T22:00:16.709540+00:00", 1303, "Your mother is", "gauche", "Pronunciation: /\u0261o\u028a\u0283/", "Definition: lacking social polish", "Synonyms: graceless, unpolished"]}
