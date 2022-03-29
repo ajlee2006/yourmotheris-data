@@ -1,1 +1,1 @@
-{"data": ["2022-03-29T00:01:29.973119+00:00", 1281, "Your mother is", "partible", "Pronunciation: /\u02c8p\u0251rt\u0259b\u0259l/", "Definition: (of e.g. property) capable of being parted or divided", ""]}
+{"data": ["2022-03-29T01:01:03.644535+00:00", 1282, "Your mother is", "dyspeptic", "Pronunciation: /d\u026as\u02c8p\u025bpt\u026ak/", "Definition: irritable as if suffering from indigestion", "Synonyms: atrabilious, bilious, liverish"]}
