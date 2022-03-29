@@ -1,1 +1,1 @@
-{"data": ["2022-03-29T05:00:46.416878+00:00", 1286, "Your mother is", "unreduced", "Similar to: unaltered", "Definition: not altered by reduction", ""]}
+{"data": ["2022-03-29T06:01:19.064044+00:00", 1287, "Your mother is", "pat", "Pronunciation: /p\u00e6t/", "Definition: having only superficial plausibility", "Synonyms: glib, slick"]}
