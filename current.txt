@@ -1,1 +1,1 @@
-{"data": ["2022-03-29T16:00:51.352179+00:00", 1297, "Your mother is", "hortatory", "Pronunciation: /\u02c8h\u0254rt\u0259\u02ccto\u028ari/", "Definition: giving strong encouragement", "Synonyms: exhortative, exhortatory, hortative"]}
+{"data": ["2022-03-29T17:00:49.399884+00:00", 1298, "Your mother is", "multilane", "Similar to: divided", "Definition: (of roads and highways) having two or more lanes for traffic", ""]}
