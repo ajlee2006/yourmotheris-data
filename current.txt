@@ -1,1 +1,1 @@
-{"data": ["2022-03-29T10:00:33.662128+00:00", 1291, "Your mother is", "vibratory", "Pronunciation: /\u02c8va\u026abr\u0259t\u0259ri/", "Definition: moving very rapidly to and fro or up and down", ""]}
+{"data": ["2022-03-29T11:00:45.220909+00:00", 1292, "Your mother is", "labyrinthian", "Pronunciation: /\u02ccl\u00e6b\u0259\u02c8r\u026an\u03b8i\u0259n/", "Definition: resembling a labyrinth in form or complexity", "Synonyms: labyrinthine, mazy"]}
