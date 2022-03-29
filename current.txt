@@ -1,1 +1,1 @@
-{"data": ["2022-03-29T06:01:19.064044+00:00", 1287, "Your mother is", "pat", "Pronunciation: /p\u00e6t/", "Definition: having only superficial plausibility", "Synonyms: glib, slick"]}
+{"data": ["2022-03-29T07:01:01.379263+00:00", 1288, "Your mother is", "ingenuous", "Pronunciation: /\u026an\u02c8d\u0292\u025bnju\u0259s/", "Definition: lacking in sophistication or worldliness", "Synonyms: innocent"]}
