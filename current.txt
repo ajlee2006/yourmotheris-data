@@ -1,1 +1,1 @@
-{"data": ["2022-03-29T12:01:33.971677+00:00", 1293, "Your mother is", "autoloading", "Similar to: automatic", "Definition: (of firearms) capable of automatic loading and firing continuously", "Synonyms: self-loading, semiautomatic"]}
+{"data": ["2022-03-29T13:01:27.717556+00:00", 1294, "Your mother is", "blemished", "Pronunciation: /\u02c8bl\u025bm\u026a\u0283t/", "Definition: having a blemish or flaw", "Synonyms: flawed"]}
