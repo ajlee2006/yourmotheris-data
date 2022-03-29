@@ -1,1 +1,1 @@
-{"data": ["2022-03-29T15:01:11.742255+00:00", 1296, "Your mother is", "athletic", "Pronunciation: /\u00e6\u03b8\u02c8l\u025bt\u026ak/", "Definition: vigorously active", "Synonyms: acrobatic, gymnastic"]}
+{"data": ["2022-03-29T16:00:51.352179+00:00", 1297, "Your mother is", "hortatory", "Pronunciation: /\u02c8h\u0254rt\u0259\u02ccto\u028ari/", "Definition: giving strong encouragement", "Synonyms: exhortative, exhortatory, hortative"]}
