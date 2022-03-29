@@ -1,1 +1,1 @@
-{"data": ["2022-03-29T07:01:01.379263+00:00", 1288, "Your mother is", "ingenuous", "Pronunciation: /\u026an\u02c8d\u0292\u025bnju\u0259s/", "Definition: lacking in sophistication or worldliness", "Synonyms: innocent"]}
+{"data": ["2022-03-29T08:01:19.245150+00:00", 1289, "Your mother is", "ill-famed", "Pronunciation: /\u026al-fe\u026amd/", "Definition: known widely and usually unfavorably", "Synonyms: infamous, notorious"]}
