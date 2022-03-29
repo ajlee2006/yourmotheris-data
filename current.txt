@@ -1,1 +1,1 @@
-{"data": ["2022-03-29T03:00:46.101981+00:00", 1284, "Your mother is", "braised", "Pronunciation: /bre\u026azd/", "Definition: cooked by browning in fat and then simmering in a closed container", ""]}
+{"data": ["2022-03-29T04:01:28.844984+00:00", 1285, "Your mother is", "pragmatic", "Pronunciation: /pr\u00e6\u0261\u02c8m\u00e6t\u026ak/", "Definition: concerned with practical matters", "Synonyms: matter-of-fact, pragmatical"]}
