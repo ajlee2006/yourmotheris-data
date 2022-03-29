@@ -1,1 +1,1 @@
-{"data": ["2022-03-29T11:00:45.220909+00:00", 1292, "Your mother is", "labyrinthian", "Pronunciation: /\u02ccl\u00e6b\u0259\u02c8r\u026an\u03b8i\u0259n/", "Definition: resembling a labyrinth in form or complexity", "Synonyms: labyrinthine, mazy"]}
+{"data": ["2022-03-29T12:01:33.971677+00:00", 1293, "Your mother is", "autoloading", "Similar to: automatic", "Definition: (of firearms) capable of automatic loading and firing continuously", "Synonyms: self-loading, semiautomatic"]}
