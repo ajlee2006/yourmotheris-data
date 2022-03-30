@@ -1,1 +1,1 @@
-{"data": ["2022-03-30T16:01:35.686354+00:00", 1321, "Your mother is", "aerobiotic", "Pronunciation: /\u02cc\u025cro\u028aba\u026a\u02c8\u0251t\u026ak/", "Definition: living or active only in the presence of oxygen", ""]}
+{"data": ["2022-03-30T17:00:52.577650+00:00", 1322, "Your mother is", "adumbrative", "Pronunciation: /\u00e6d\u02c8\u0259mbr\u0259t\u026av/", "Definition: indistinctly prophetic", "Synonyms: foreshadowing, prefigurative"]}
