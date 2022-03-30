@@ -1,1 +1,1 @@
-{"data": ["2022-03-30T19:00:21.923762+00:00", 1324, "Your mother is", "swelled", "Pronunciation: /sw\u025bld/", "Definition: feeling self-importance", "Synonyms: big, vainglorious"]}
+{"data": ["2022-03-30T20:00:46.271263+00:00", 1325, "Your mother is", "thirty-three", "Pronunciation: /\u02c8\u03b8\u025crti-\u02c8\u03b8ri/", "Definition: being three more than thirty", "Synonyms: 33, xxxiii"]}
