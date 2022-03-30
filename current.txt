@@ -1,1 +1,1 @@
-{"data": ["2022-03-30T13:01:02.219239+00:00", 1318, "Your mother is", "bicorned", "Similar to: horned", "Definition: having two horns or horn-shaped parts", "Synonyms: bicorn, bicornate, bicornuate, bicornuous"]}
+{"data": ["2022-03-30T14:01:11.967363+00:00", 1319, "Your mother is", "burred", "Pronunciation: /b\u025crd/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristled, bristly, burry, prickly, setaceous, setose, spiny, thorny"]}
