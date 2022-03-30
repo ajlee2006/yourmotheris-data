@@ -1,1 +1,1 @@
-{"data": ["2022-03-30T20:00:46.271263+00:00", 1325, "Your mother is", "thirty-three", "Pronunciation: /\u02c8\u03b8\u025crti-\u02c8\u03b8ri/", "Definition: being three more than thirty", "Synonyms: 33, xxxiii"]}
+{"data": ["2022-03-30T21:00:51.848055+00:00", 1326, "Your mother is", "ordained", "Pronunciation: /\u0254r\u02c8de\u026and/", "Definition: fixed or established especially by order or command", "Synonyms: appointed, decreed, prescribed"]}
