@@ -1,1 +1,1 @@
-{"data": ["2022-03-30T10:00:25.713848+00:00", 1315, "Your mother is", "bookable", "Similar to: reserved", "Definition: subject to being reserved or booked", ""]}
+{"data": ["2022-03-30T11:00:55.615314+00:00", 1316, "Your mother is", "discernible", "Pronunciation: /d\u026a\u02c8s\u025crn\u0259b\u0259l/", "Definition: capable of being seen or noticed", "Synonyms: evident, observable"]}
