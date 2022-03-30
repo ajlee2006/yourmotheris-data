@@ -1,1 +1,1 @@
-{"data": ["2022-03-30T02:01:14.702269+00:00", 1307, "Your mother is", "operable", "Pronunciation: /\u02c8\u0251p\u0259r\u0259b\u0259l/", "Definition: fit or ready for use or service", "Synonyms: functional, operational, usable, useable"]}
+{"data": ["2022-03-30T03:01:06.486182+00:00", 1308, "Your mother is", "unreachable", "Pronunciation: /\u0259n\u02c8rit\u0283\u0259b\u0259l/", "Definition: inaccessibly located or situated", "Synonyms: out of reach, unapproachable, unreached"]}
