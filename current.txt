@@ -1,1 +1,1 @@
-{"data": ["2022-03-30T21:00:51.848055+00:00", 1326, "Your mother is", "ordained", "Pronunciation: /\u0254r\u02c8de\u026and/", "Definition: fixed or established especially by order or command", "Synonyms: appointed, decreed, prescribed"]}
+{"data": ["2022-03-30T22:01:05.132591+00:00", 1327, "Your mother is", "evidentiary", "Pronunciation: /\u02cc\u025bv\u026a\u02c8d\u025bn\u0283\u0259ri/", "Definition: serving as or based on evidence", "Synonyms: evidential"]}
