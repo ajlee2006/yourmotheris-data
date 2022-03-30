@@ -1,1 +1,1 @@
-{"data": ["2022-03-30T22:01:05.132591+00:00", 1327, "Your mother is", "evidentiary", "Pronunciation: /\u02cc\u025bv\u026a\u02c8d\u025bn\u0283\u0259ri/", "Definition: serving as or based on evidence", "Synonyms: evidential"]}
+{"data": ["2022-03-30T23:00:28.409125+00:00", 1328, "Your mother is", "rust-red", "Pronunciation: /r\u0259st-r\u025bd/", "Definition: of a red color tinged with rust", "Synonyms: rusty-red"]}
