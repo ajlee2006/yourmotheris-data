@@ -1,1 +1,1 @@
-{"data": ["2022-03-30T01:00:53.371520+00:00", 1306, "Your mother is", "clogging", "Pronunciation: /\u02c8kl\u0251\u0261\u026a\u014b/", "Definition: preventing movement", "Synonyms: hindering, impeding, obstructive"]}
+{"data": ["2022-03-30T02:01:14.702269+00:00", 1307, "Your mother is", "operable", "Pronunciation: /\u02c8\u0251p\u0259r\u0259b\u0259l/", "Definition: fit or ready for use or service", "Synonyms: functional, operational, usable, useable"]}
