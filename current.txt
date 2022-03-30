@@ -1,1 +1,1 @@
-{"data": ["2022-03-30T06:01:16.984837+00:00", 1311, "Your mother is", "unflattering", "Pronunciation: /\u0259n\u02c8fl\u00e6t\u0259ri\u014b/", "Definition: showing or representing unfavorably", "Synonyms: uncomplimentary"]}
+{"data": ["2022-03-30T07:00:42.380535+00:00", 1312, "Your mother is", "uncanny", "Pronunciation: /\u0259n\u02c8k\u00e6ni/", "Definition: suggesting the operation of supernatural influences", "Synonyms: eldritch, unearthly, weird"]}
