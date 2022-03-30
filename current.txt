@@ -1,1 +1,1 @@
-{"data": ["2022-03-30T14:01:11.967363+00:00", 1319, "Your mother is", "burred", "Pronunciation: /b\u025crd/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristled, bristly, burry, prickly, setaceous, setose, spiny, thorny"]}
+{"data": ["2022-03-30T15:01:24.198414+00:00", 1320, "Your mother is", "apprehended", "Pronunciation: /\u02cc\u00e6pr\u026a\u02c8h\u025bnd\u028cd/", "Definition: fully understood or grasped", "Synonyms: appreciated, comprehended"]}
