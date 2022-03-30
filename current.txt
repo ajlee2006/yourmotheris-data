@@ -1,1 +1,1 @@
-{"data": ["2022-03-30T00:01:46.952290+00:00", 1305, "Your mother is", "epic", "Pronunciation: /\u02c8\u025bp\u026ak/", "Definition: constituting or having to do with or suggestive of a literary epic", "Synonyms: epical"]}
+{"data": ["2022-03-30T01:00:53.371520+00:00", 1306, "Your mother is", "clogging", "Pronunciation: /\u02c8kl\u0251\u0261\u026a\u014b/", "Definition: preventing movement", "Synonyms: hindering, impeding, obstructive"]}
