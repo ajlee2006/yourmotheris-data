@@ -1,1 +1,1 @@
-{"data": ["2022-03-30T09:01:20.518902+00:00", 1314, "Your mother is", "rock-bottom", "Pronunciation: /\u02c8r\u0251k\u02c8b\u0251t\u0259m/", "Definition: well below normal (especially in price)", "Synonyms: reduced"]}
+{"data": ["2022-03-30T10:00:25.713848+00:00", 1315, "Your mother is", "bookable", "Similar to: reserved", "Definition: subject to being reserved or booked", ""]}
