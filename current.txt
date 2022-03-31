@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T14:01:03.290114+00:00", 1343, "Your mother is", "instinct", "Pronunciation: /\u026an\u02c8st\u026a\u014bkt/", "Definition: (followed by `with') deeply filled or permeated", "Synonyms: replete"]}
+{"data": ["2022-03-31T15:01:30.723336+00:00", 1344, "Your mother is", "analgesic", "Pronunciation: /\u02cc\u00e6n\u0259l\u02c8d\u0292is\u026ak/", "Definition: capable of relieving pain", "Synonyms: analgetic, anodyne"]}
