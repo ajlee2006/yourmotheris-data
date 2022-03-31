@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T09:01:27.796037+00:00", 1338, "Your mother is", "neuronal", "", "Definition: of or relating to neurons", "Synonyms: neural, neuronic"]}
+{"data": ["2022-03-31T10:00:42.593534+00:00", 1339, "Your mother is", "yellow-orange", "Pronunciation: /\u02c8j\u025blo\u028a-\u02c8\u0254r\u026and\u0292/", "Definition: of orange tinged with yellow", "Synonyms: yellowish-orange"]}
