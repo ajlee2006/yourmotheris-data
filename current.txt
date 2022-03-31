@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T06:01:46.974194+00:00", 1335, "Your mother is", "toffee-nosed", "Pronunciation: /\u02c8t\u0254fi-\u02ccno\u028azd/", "Definition: snobbish; pretentiously superior", ""]}
+{"data": ["2022-03-31T07:01:13.394391+00:00", 1336, "Your mother is", "absentminded", "Pronunciation: /\u02cc\u00e6bs\u0259nt\u02c8ma\u026and\u0259d/", "Definition: lost in thought; showing preoccupation", "Synonyms: absent, abstracted, scatty"]}
