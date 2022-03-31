@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T00:05:27.030439+00:00", 1329, "Your mother is", "articulate", "Pronunciation: /\u0251r\u02c8t\u026akj\u0259\u02ccl\u026at/", "Definition: consisting of segments held together by joints", "Synonyms: articulated"]}
+{"data": ["2022-03-31T01:01:20.497270+00:00", 1330, "Your mother is", "chance", "Pronunciation: /t\u0283\u00e6ns/", "Definition: occurring or appearing or singled out by chance", "Synonyms: casual"]}
