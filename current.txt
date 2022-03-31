@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T07:01:13.394391+00:00", 1336, "Your mother is", "absentminded", "Pronunciation: /\u02cc\u00e6bs\u0259nt\u02c8ma\u026and\u0259d/", "Definition: lost in thought; showing preoccupation", "Synonyms: absent, abstracted, scatty"]}
+{"data": ["2022-03-31T08:01:52.800817+00:00", 1337, "Your mother is", "green-blind", "Pronunciation: /grin-bla\u026and/", "Definition: inability to see the color green or to distinguish green and purplish-red", "Synonyms: deuteranopic"]}
