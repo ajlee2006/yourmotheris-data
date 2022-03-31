@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T12:00:55.295355+00:00", 1341, "Your mother is", "coeliac", "Pronunciation: /\u02c8sili\u02cc\u00e6k/", "Definition: of or in or belonging to the cavity of the abdomen", "Synonyms: celiac"]}
+{"data": ["2022-03-31T13:01:09.164024+00:00", 1342, "Your mother is", "manly", "Pronunciation: /\u02c8m\u00e6nli/", "Definition: possessing qualities befitting a man", "Synonyms: manful, manlike"]}
