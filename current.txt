@@ -1,1 +1,1 @@
-{"data": ["2022-03-30T23:00:28.409125+00:00", 1328, "Your mother is", "rust-red", "Pronunciation: /r\u0259st-r\u025bd/", "Definition: of a red color tinged with rust", "Synonyms: rusty-red"]}
+{"data": ["2022-03-31T00:05:27.030439+00:00", 1329, "Your mother is", "articulate", "Pronunciation: /\u0251r\u02c8t\u026akj\u0259\u02ccl\u026at/", "Definition: consisting of segments held together by joints", "Synonyms: articulated"]}
