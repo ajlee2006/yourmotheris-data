@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T16:00:47.480385+00:00", 1345, "Your mother is", "doleful", "Pronunciation: /\u02c8do\u028alf\u0259l/", "Definition: filled with or evoking sadness", "Synonyms: mournful"]}
+{"data": ["2022-03-31T17:01:15.074484+00:00", 1346, "Your mother is", "sarcastic", "Pronunciation: /s\u0251r\u02c8k\u00e6st\u026ak/", "Definition: expressing or expressive of ridicule that wounds", ""]}
