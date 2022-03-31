@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T04:01:13.287547+00:00", 1333, "Your mother is", "antennary", "Pronunciation: /\u00e6n\u02c8t\u025bn\u0259ri/", "Definition: of or relating to antennae", "Synonyms: antennal"]}
+{"data": ["2022-03-31T05:01:27.204252+00:00", 1334, "Your mother is", "indo-european", "Pronunciation: /\u02c8\u026ando\u028a-\u02ccj\u028ar\u0259\u02c8pi\u0259n/", "Definition: of or relating to the former Indo-European people", "Synonyms: aryan, indo-aryan"]}
