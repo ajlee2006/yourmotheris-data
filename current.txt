@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T08:01:52.800817+00:00", 1337, "Your mother is", "green-blind", "Pronunciation: /grin-bla\u026and/", "Definition: inability to see the color green or to distinguish green and purplish-red", "Synonyms: deuteranopic"]}
+{"data": ["2022-03-31T09:01:27.796037+00:00", 1338, "Your mother is", "neuronal", "", "Definition: of or relating to neurons", "Synonyms: neural, neuronic"]}
