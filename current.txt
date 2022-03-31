@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T17:01:15.074484+00:00", 1346, "Your mother is", "sarcastic", "Pronunciation: /s\u0251r\u02c8k\u00e6st\u026ak/", "Definition: expressing or expressive of ridicule that wounds", ""]}
+{"data": ["2022-03-31T18:00:58.528019+00:00", 1347, "Your mother is", "maple-like", "Similar to: branchy", "Definition: resembling maple", "Synonyms: maplelike"]}
