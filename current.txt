@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T22:01:05.514034+00:00", 1351, "Your mother is", "rolling", "Pronunciation: /\u02c8ro\u028al\u026a\u014b/", "Definition: uttered with a trill", "Synonyms: rolled, trilled"]}
+{"data": ["2022-03-31T23:01:01.147200+00:00", 1352, "Your mother is", "deep-seated", "Pronunciation: /\u02c8dip\u02c8sit\u026ad/", "Definition: (used especially of ideas or principles) deeply rooted; firmly fixed or held", "Synonyms: deep-rooted, implanted, ingrained, planted"]}
