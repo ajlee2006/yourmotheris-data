@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T21:01:07.724341+00:00", 1350, "Your mother is", "aberrant", "Pronunciation: /\u0259\u02c8b\u025br\u0259nt/", "Definition: markedly different from an accepted norm", "Synonyms: deviant, deviate"]}
+{"data": ["2022-03-31T22:01:05.514034+00:00", 1351, "Your mother is", "rolling", "Pronunciation: /\u02c8ro\u028al\u026a\u014b/", "Definition: uttered with a trill", "Synonyms: rolled, trilled"]}
