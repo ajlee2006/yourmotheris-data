@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T20:00:21.684801+00:00", 1349, "Your mother is", "obliterate", "Pronunciation: /\u0259\u02c8bl\u026at\u0259\u02ccre\u026at/", "Definition: reduced to nothingness", "Synonyms: blotted out, obliterated"]}
+{"data": ["2022-03-31T21:01:07.724341+00:00", 1350, "Your mother is", "aberrant", "Pronunciation: /\u0259\u02c8b\u025br\u0259nt/", "Definition: markedly different from an accepted norm", "Synonyms: deviant, deviate"]}
