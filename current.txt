@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T01:01:20.497270+00:00", 1330, "Your mother is", "chance", "Pronunciation: /t\u0283\u00e6ns/", "Definition: occurring or appearing or singled out by chance", "Synonyms: casual"]}
+{"data": ["2022-03-31T02:01:01.324456+00:00", 1331, "Your mother is", "alloyed", "Similar to: blended", "Definition: (used of metals) blended to obtain a desired property", ""]}
