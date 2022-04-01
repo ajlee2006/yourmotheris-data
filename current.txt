@@ -1,1 +1,1 @@
-{"data": ["2022-04-01T21:01:00.663836+00:00", 1374, "Your mother is", "lenticular", "Pronunciation: /l\u025bn\u02c8t\u026akj\u0259l\u0259r/", "Definition: convex on both sides; shaped like a lentil", "Synonyms: biconvex, convexo-convex, lentiform"]}
+{"data": ["2022-04-01T22:01:27.730532+00:00", 1375, "Your mother is", "rancorous", "Pronunciation: /\u02c8r\u00e6\u014bk\u0259r\u0259s/", "Definition: showing deep-seated resentment", ""]}
