@@ -1,1 +1,1 @@
-{"data": ["2022-04-01T04:00:19.169794+00:00", 1357, "Your mother is", "braced", "Pronunciation: /bre\u026ast/", "Definition: held up by braces or buttresses", "Synonyms: buttressed"]}
+{"data": ["2022-04-01T05:01:28.581078+00:00", 1358, "Your mother is", "tasty", "Pronunciation: /\u02c8te\u026asti/", "Definition: pleasing to the sense of taste", ""]}
