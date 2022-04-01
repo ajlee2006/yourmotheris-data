@@ -1,1 +1,1 @@
-{"data": ["2022-04-01T12:01:24.783512+00:00", 1365, "Your mother is", "unremarked", "Pronunciation: /\u028cnr\u026a\u02c8m\u0251rkt/", "Definition: not perceived or commented on", "Synonyms: unperceived"]}
+{"data": ["2022-04-01T13:00:37.974680+00:00", 1366, "Your mother is", "mephitic", "Pronunciation: /m\u0259\u02c8f\u026at\u026ak/", "Definition: of noxious stench from atmospheric pollution", "Synonyms: miasmic"]}
