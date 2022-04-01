@@ -1,1 +1,1 @@
-{"data": ["2022-04-01T13:00:37.974680+00:00", 1366, "Your mother is", "mephitic", "Pronunciation: /m\u0259\u02c8f\u026at\u026ak/", "Definition: of noxious stench from atmospheric pollution", "Synonyms: miasmic"]}
+{"data": ["2022-04-01T14:00:18.026295+00:00", 1367, "Your mother is", "cardinal", "Pronunciation: /\u02c8k\u0251rd\u0259n\u0259l/", "Definition: serving as an essential component", "Synonyms: central, fundamental, key, primal"]}
