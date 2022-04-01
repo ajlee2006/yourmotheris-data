@@ -1,1 +1,1 @@
-{"data": ["2022-04-01T02:01:19.912337+00:00", 1355, "Your mother is", "boisterous", "Pronunciation: /\u02c8b\u0254\u026ast\u0259r\u0259s/", "Definition: violently agitated and turbulent", "Synonyms: fierce, rough"]}
+{"data": ["2022-04-01T03:01:20.121015+00:00", 1356, "Your mother is", "debauched", "Pronunciation: /d\u026a\u02c8b\u0254\u02a7t/", "Definition: unrestrained by convention or morality", "Synonyms: degenerate, degraded, dissipated, dissolute, fast, libertine, profligate, riotous"]}
