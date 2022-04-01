@@ -1,1 +1,1 @@
-{"data": ["2022-03-31T23:01:01.147200+00:00", 1352, "Your mother is", "deep-seated", "Pronunciation: /\u02c8dip\u02c8sit\u026ad/", "Definition: (used especially of ideas or principles) deeply rooted; firmly fixed or held", "Synonyms: deep-rooted, implanted, ingrained, planted"]}
+{"data": ["2022-04-01T00:01:40.949642+00:00", 1353, "Your mother is", "nitwitted", "Pronunciation: /\u02c8n\u026atw\u026at\u026ad/", "Definition: (of especially persons) lacking sense or understanding or judgment", "Synonyms: senseless, soft-witted, witless"]}
