@@ -1,1 +1,1 @@
-{"data": ["2022-04-01T08:00:55.021579+00:00", 1361, "Your mother is", "prefab", "Pronunciation: /\u02c8prif\u00e6b/", "Definition: manufactured in standard sizes to be shipped and assembled elsewhere", ""]}
+{"data": ["2022-04-01T09:01:36.114618+00:00", 1362, "Your mother is", "wearing", "Pronunciation: /\u02c8w\u025br\u026a\u014b/", "Definition: producing exhaustion", "Synonyms: exhausting, tiring, wearying"]}
