@@ -1,1 +1,1 @@
-{"data": ["2022-04-01T20:00:28.099462+00:00", 1373, "Your mother is", "one-winged", "Pronunciation: /w\u0259n-w\u026a\u014bd/", "Definition: having a single wing", ""]}
+{"data": ["2022-04-01T21:01:00.663836+00:00", 1374, "Your mother is", "lenticular", "Pronunciation: /l\u025bn\u02c8t\u026akj\u0259l\u0259r/", "Definition: convex on both sides; shaped like a lentil", "Synonyms: biconvex, convexo-convex, lentiform"]}
