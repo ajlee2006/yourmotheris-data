@@ -1,1 +1,1 @@
-{"data": ["2022-04-01T03:01:20.121015+00:00", 1356, "Your mother is", "debauched", "Pronunciation: /d\u026a\u02c8b\u0254\u02a7t/", "Definition: unrestrained by convention or morality", "Synonyms: degenerate, degraded, dissipated, dissolute, fast, libertine, profligate, riotous"]}
+{"data": ["2022-04-01T04:00:19.169794+00:00", 1357, "Your mother is", "braced", "Pronunciation: /bre\u026ast/", "Definition: held up by braces or buttresses", "Synonyms: buttressed"]}
