@@ -1,1 +1,1 @@
-{"data": ["2022-04-01T05:01:28.581078+00:00", 1358, "Your mother is", "tasty", "Pronunciation: /\u02c8te\u026asti/", "Definition: pleasing to the sense of taste", ""]}
+{"data": ["2022-04-01T06:02:07.310770+00:00", 1359, "Your mother is", "quick-witted", "Pronunciation: /kw\u026ak\u02c8w\u026at\u026ad/", "Definition: mentally nimble and resourceful", ""]}
