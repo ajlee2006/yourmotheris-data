@@ -1,1 +1,1 @@
-{"data": ["2022-04-01T10:01:21.238719+00:00", 1363, "Your mother is", "large", "Pronunciation: /l\u0251rd\u0292/", "Definition: in an advanced stage of pregnancy", "Synonyms: big, enceinte, expectant, gravid, great, heavy, with child"]}
+{"data": ["2022-04-01T11:01:14.806390+00:00", 1364, "Your mother is", "large-hearted", "Pronunciation: /l\u0251rd\u0292-\u02c8h\u0251rt\u026ad/", "Definition: showing or motivated by sympathy and understanding and generosity", "Synonyms: benevolent, charitable, good-hearted, kindly, openhearted, sympathetic"]}
