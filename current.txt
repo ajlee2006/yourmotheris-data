@@ -1,1 +1,1 @@
-{"data": ["2022-04-01T06:02:07.310770+00:00", 1359, "Your mother is", "quick-witted", "Pronunciation: /kw\u026ak\u02c8w\u026at\u026ad/", "Definition: mentally nimble and resourceful", ""]}
+{"data": ["2022-04-01T07:01:34.945446+00:00", 1360, "Your mother is", "unmixable", "Similar to: incompatible", "Definition: (chemistry, physics) incapable of mixing", "Synonyms: immiscible, non-miscible"]}
