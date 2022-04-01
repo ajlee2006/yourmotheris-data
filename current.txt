@@ -1,1 +1,1 @@
-{"data": ["2022-04-01T22:01:27.730532+00:00", 1375, "Your mother is", "rancorous", "Pronunciation: /\u02c8r\u00e6\u014bk\u0259r\u0259s/", "Definition: showing deep-seated resentment", ""]}
+{"data": ["2022-04-01T23:01:25.737300+00:00", 1376, "Your mother is", "dominating", "Pronunciation: /\u02c8d\u0251m\u028c\u02ccne\u026at\u026a\u014b/", "Definition: most powerful or important or influential", "Synonyms: ascendant, ascendent"]}
