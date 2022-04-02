@@ -1,1 +1,1 @@
-{"data": ["2022-04-02T02:01:39.214988+00:00", 1379, "Your mother is", "blocky", "Pronunciation: /\u02c8bl\u0251ki/", "Definition: resembling a block in shape", "Synonyms: blockish"]}
+{"data": ["2022-04-02T03:01:34.368555+00:00", 1380, "Your mother is", "self-possessed", "Pronunciation: /s\u025blf-p\u0259\u02c8z\u025bst/", "Definition: in full control of your faculties", "Synonyms: collected, equanimous, poised, self-collected, self-contained"]}
