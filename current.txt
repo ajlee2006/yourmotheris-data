@@ -1,1 +1,1 @@
-{"data": ["2022-04-02T12:01:36.673967+00:00", 1389, "Your mother is", "extreme", "Pronunciation: /\u026ak\u02c8strim/", "Definition: of the greatest possible degree or extent or intensity", "Synonyms: utmost, uttermost"]}
+{"data": ["2022-04-02T13:01:08.182521+00:00", 1390, "Your mother is", "top-heavy", "Pronunciation: /t\u0251p-\u02c8h\u025bvi/", "Definition: unstable by being overloaded at the top", ""]}
