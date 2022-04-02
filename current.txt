@@ -1,1 +1,1 @@
-{"data": ["2022-04-02T18:01:33.521136+00:00", 1395, "Your mother is", "three-way", "Pronunciation: /\u03b8ri-we\u026a/", "Definition: involving three parties or elements", "Synonyms: three-party, tripartite"]}
+{"data": ["2022-04-02T19:00:38.897177+00:00", 1396, "Your mother is", "hypothetical", "Pronunciation: /\u02ccha\u026ap\u0259\u02c8\u03b8\u025bt\u026ak\u0259l/", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetic, supposed, suppositional, suppositious, supposititious"]}
