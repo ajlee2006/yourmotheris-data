@@ -1,1 +1,1 @@
-{"data": ["2022-04-02T10:01:33.314024+00:00", 1387, "Your mother is", "mantic", "Pronunciation: /\u02c8m\u00e6nt\u026ak/", "Definition: resembling or characteristic of a prophet or prophecy", "Synonyms: divinatory, sibyllic, sibylline, vatic, vatical"]}
+{"data": ["2022-04-02T11:01:21.790257+00:00", 1388, "Your mother is", "unnecessary", "Pronunciation: /\u0259n\u02c8n\u025bs\u026a\u02ccs\u025bri/", "Definition: not necessary", "Synonyms: unneeded"]}
