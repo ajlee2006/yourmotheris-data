@@ -1,1 +1,1 @@
-{"data": ["2022-04-02T19:00:38.897177+00:00", 1396, "Your mother is", "hypothetical", "Pronunciation: /\u02ccha\u026ap\u0259\u02c8\u03b8\u025bt\u026ak\u0259l/", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetic, supposed, suppositional, suppositious, supposititious"]}
+{"data": ["2022-04-02T20:00:23.597396+00:00", 1397, "Your mother is", "candescent", "Pronunciation: /k\u00e6n\u02c8d\u025bs\u0259nt/", "Definition: glowing from great heat", ""]}
