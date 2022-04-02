@@ -1,1 +1,1 @@
-{"data": ["2022-04-02T05:01:28.311319+00:00", 1382, "Your mother is", "presumable", "Pronunciation: /pr\u026a\u02c8zum\u0259b\u0259l/", "Definition: capable of being inferred on slight grounds", "Synonyms: supposable, surmisable"]}
+{"data": ["2022-04-02T06:01:21.760239+00:00", 1383, "Your mother is", "rampant", "Pronunciation: /\u02c8r\u00e6mp\u0259nt/", "Definition: rearing on left hind leg with forelegs elevated and head usually in profile", "Synonyms: rearing"]}
