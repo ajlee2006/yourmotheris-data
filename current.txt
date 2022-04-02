@@ -1,1 +1,1 @@
-{"data": ["2022-04-02T03:01:34.368555+00:00", 1380, "Your mother is", "self-possessed", "Pronunciation: /s\u025blf-p\u0259\u02c8z\u025bst/", "Definition: in full control of your faculties", "Synonyms: collected, equanimous, poised, self-collected, self-contained"]}
+{"data": ["2022-04-02T04:01:13.310238+00:00", 1381, "Your mother is", "unmelodic", "", "Definition: lacking melody", "Synonyms: unmelodious, unmusical"]}
