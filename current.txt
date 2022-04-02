@@ -1,1 +1,1 @@
-{"data": ["2022-04-02T09:00:45.354079+00:00", 1386, "Your mother is", "unlucky", "Pronunciation: /\u0259n\u02c8l\u0259ki/", "Definition: marked by or promising bad fortune", "Synonyms: doomed, ill-fated, ill-omened, ill-starred"]}
+{"data": ["2022-04-02T10:01:33.314024+00:00", 1387, "Your mother is", "mantic", "Pronunciation: /\u02c8m\u00e6nt\u026ak/", "Definition: resembling or characteristic of a prophet or prophecy", "Synonyms: divinatory, sibyllic, sibylline, vatic, vatical"]}
