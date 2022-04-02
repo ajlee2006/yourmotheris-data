@@ -1,1 +1,1 @@
-{"data": ["2022-04-02T01:01:23.984870+00:00", 1378, "Your mother is", "jeweled", "Similar to: adorned", "Definition: covered with beads or jewels or sequins", "Synonyms: beady, gemmed, jewelled, sequined, spangled, spangly"]}
+{"data": ["2022-04-02T02:01:39.214988+00:00", 1379, "Your mother is", "blocky", "Pronunciation: /\u02c8bl\u0251ki/", "Definition: resembling a block in shape", "Synonyms: blockish"]}
