@@ -1,1 +1,1 @@
-{"data": ["2022-04-02T04:01:13.310238+00:00", 1381, "Your mother is", "unmelodic", "", "Definition: lacking melody", "Synonyms: unmelodious, unmusical"]}
+{"data": ["2022-04-02T05:01:28.311319+00:00", 1382, "Your mother is", "presumable", "Pronunciation: /pr\u026a\u02c8zum\u0259b\u0259l/", "Definition: capable of being inferred on slight grounds", "Synonyms: supposable, surmisable"]}
