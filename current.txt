@@ -1,1 +1,1 @@
-{"data": ["2022-04-02T06:01:21.760239+00:00", 1383, "Your mother is", "rampant", "Pronunciation: /\u02c8r\u00e6mp\u0259nt/", "Definition: rearing on left hind leg with forelegs elevated and head usually in profile", "Synonyms: rearing"]}
+{"data": ["2022-04-02T07:01:20.825793+00:00", 1384, "Your mother is", "en deshabille", "Pronunciation: /\u0251N-de\u026azAbi\u02c8je\u026a/", "Definition: partly dressed in a loose or careless manner", "Synonyms: in dishabille"]}
