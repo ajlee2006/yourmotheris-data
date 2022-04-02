@@ -1,1 +1,1 @@
-{"data": ["2022-04-02T11:01:21.790257+00:00", 1388, "Your mother is", "unnecessary", "Pronunciation: /\u0259n\u02c8n\u025bs\u026a\u02ccs\u025bri/", "Definition: not necessary", "Synonyms: unneeded"]}
+{"data": ["2022-04-02T12:01:36.673967+00:00", 1389, "Your mother is", "extreme", "Pronunciation: /\u026ak\u02c8strim/", "Definition: of the greatest possible degree or extent or intensity", "Synonyms: utmost, uttermost"]}
