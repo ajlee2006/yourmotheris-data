@@ -1,1 +1,1 @@
-{"data": ["2022-04-03T06:01:25.508166+00:00", 1407, "Your mother is", "nifty", "Pronunciation: /\u02c8n\u026afti/", "Definition: very good", "Synonyms: bang-up, bully, corking, cracking, dandy, great, groovy, keen, neat, not bad, old, peachy, slap-up, smashing, swell"]}
+{"data": ["2022-04-03T07:01:16.567435+00:00", 1408, "Your mother is", "underivative", "Similar to: original", "Definition: not derivative or imitative", ""]}
