@@ -1,1 +1,1 @@
-{"data": ["2022-04-03T10:01:27.070636+00:00", 1411, "Your mother is", "phyllodial", "", "Definition: having a phyllode", ""]}
+{"data": ["2022-04-03T11:00:43.915710+00:00", 1412, "Your mother is", "tended to", "Similar to: cared-for", "Definition: having a caretaker or other watcher", "Synonyms: attended"]}
