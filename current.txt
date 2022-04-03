@@ -1,1 +1,1 @@
-{"data": ["2022-04-03T13:00:45.894527+00:00", 1414, "Your mother is", "temporary", "Pronunciation: /\u02c8t\u025bmp\u0259\u02ccr\u025bri/", "Definition: lacking continuity or regularity", "Synonyms: irregular"]}
+{"data": ["2022-04-03T14:00:58.675185+00:00", 1415, "Your mother is", "unreconcilable", "Similar to: hostile", "Definition: impossible to reconcile", "Synonyms: irreconcilable"]}
