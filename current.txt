@@ -1,1 +1,1 @@
-{"data": ["2022-04-03T20:00:16.802844+00:00", 1421, "Your mother is", "vapourisable", "Similar to: volatile", "Definition: (used of substances) capable of being volatilized", "Synonyms: evaporable, vaporific, vaporizable, vapourific, volatilisable, volatilizable"]}
+{"data": ["2022-04-03T21:00:31.748048+00:00", 1422, "Your mother is", "custom-made", "Pronunciation: /\u02c8k\u0259st\u0259m-\u02c8me\u026ad/", "Definition: made according to the specifications of an individual", "Synonyms: custom"]}
