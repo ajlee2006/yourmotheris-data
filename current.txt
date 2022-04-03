@@ -1,1 +1,1 @@
-{"data": ["2022-04-03T21:00:31.748048+00:00", 1422, "Your mother is", "custom-made", "Pronunciation: /\u02c8k\u0259st\u0259m-\u02c8me\u026ad/", "Definition: made according to the specifications of an individual", "Synonyms: custom"]}
+{"data": ["2022-04-03T22:00:13.870797+00:00", 1423, "Your mother is", "unhampered", "Pronunciation: /\u0259n\u02c8h\u00e6mp\u0259d/", "Definition: not slowed or blocked or interfered with", "Synonyms: unhindered"]}
