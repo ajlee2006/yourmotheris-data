@@ -1,1 +1,1 @@
-{"data": ["2022-04-02T23:00:17.583862+00:00", 1400, "Your mother is", "ruminative", "Similar to: thoughtful", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, musing, pensive, pondering, reflective"]}
+{"data": ["2022-04-03T00:02:03.123741+00:00", 1401, "Your mother is", "alveolate", "Pronunciation: /\u00e6l\u02c8vi\u0259l\u026at/", "Definition: pitted with cell-like cavities (as a honeycomb)", "Synonyms: cavitied, faveolate, honeycombed, pitted"]}
