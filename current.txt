@@ -1,1 +1,1 @@
-{"data": ["2022-04-03T19:01:21.486459+00:00", 1420, "Your mother is", "undeniable", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8na\u026a\u0259b\u0259l/", "Definition: not possible to deny", ""]}
+{"data": ["2022-04-03T20:00:16.802844+00:00", 1421, "Your mother is", "vapourisable", "Similar to: volatile", "Definition: (used of substances) capable of being volatilized", "Synonyms: evaporable, vaporific, vaporizable, vapourific, volatilisable, volatilizable"]}
