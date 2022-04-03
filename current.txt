@@ -1,1 +1,1 @@
-{"data": ["2022-04-03T14:00:58.675185+00:00", 1415, "Your mother is", "unreconcilable", "Similar to: hostile", "Definition: impossible to reconcile", "Synonyms: irreconcilable"]}
+{"data": ["2022-04-03T15:01:07.897766+00:00", 1416, "Your mother is", "elderly", "Pronunciation: /\u02c8\u025bld\u0259rli/", "Definition: advanced in years; (`aged' is pronounced as two syllables)", "Synonyms: aged, older, senior"]}
