@@ -1,1 +1,1 @@
-{"data": ["2022-04-03T00:02:03.123741+00:00", 1401, "Your mother is", "alveolate", "Pronunciation: /\u00e6l\u02c8vi\u0259l\u026at/", "Definition: pitted with cell-like cavities (as a honeycomb)", "Synonyms: cavitied, faveolate, honeycombed, pitted"]}
+{"data": ["2022-04-03T01:01:09.818001+00:00", 1402, "Your mother is", "middle-of-the-road", "Similar to: center", "Definition: supporting or pursuing a course of action that is neither liberal nor conservative", "Synonyms: centrist"]}
