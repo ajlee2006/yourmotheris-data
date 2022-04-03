@@ -1,1 +1,1 @@
-{"data": ["2022-04-03T12:01:40.454167+00:00", 1413, "Your mother is", "responsible for", "Pronunciation: /r\u026a\u02c8sp\u0251ns\u0259b\u0259l-f\u0254r/", "Definition: being the agent or cause", "Synonyms: responsible"]}
+{"data": ["2022-04-03T13:00:45.894527+00:00", 1414, "Your mother is", "temporary", "Pronunciation: /\u02c8t\u025bmp\u0259\u02ccr\u025bri/", "Definition: lacking continuity or regularity", "Synonyms: irregular"]}
