@@ -1,1 +1,1 @@
-{"data": ["2022-04-03T03:01:38.857476+00:00", 1404, "Your mother is", "sunken-eyed", "Similar to: lean", "Definition: characteristic of the bony face of a cadaver", "Synonyms: deep-eyed, hollow-eyed"]}
+{"data": ["2022-04-03T04:01:33.482028+00:00", 1405, "Your mother is", "sad-faced", "Pronunciation: /\u02c8s\u00e6d\u02c8fe\u026ast/", "Definition: having a face with a sad expression", ""]}
