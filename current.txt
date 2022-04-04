@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T00:01:44.938193+00:00", 1425, "Your mother is", "out-of-bounds", "Similar to: restricted", "Definition: barred to a designated group", "Synonyms: off-limits"]}
+{"data": ["2022-04-04T01:01:35.741283+00:00", 1426, "Your mother is", "incipient", "Pronunciation: /\u026an\u02c8s\u026api\u0259nt/", "Definition: only partly in existence; imperfectly formed", "Synonyms: inchoate"]}
