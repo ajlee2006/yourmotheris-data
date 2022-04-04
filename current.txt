@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T12:01:23.315237+00:00", 1437, "Your mother is", "warm-blooded", "Pronunciation: /\u02c8w\u0254rm-\u02c8bl\u0259d\u026ad/", "Definition: having warm blood (in animals whose body temperature is internally regulated)", ""]}
+{"data": ["2022-04-04T13:00:58.712641+00:00", 1438, "Your mother is", "suitable", "Pronunciation: /\u02c8sut\u00e6b\u0259l/", "Definition: worthy of being chosen especially as a spouse", "Synonyms: desirable, worthy"]}
