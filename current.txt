@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T07:01:06.780581+00:00", 1432, "Your mother is", "prolonged", "Pronunciation: /pr\u028c\u02c8l\u0254\u014bd/", "Definition: relatively long in duration; tediously protracted", "Synonyms: drawn-out, extended, lengthy, protracted"]}
+{"data": ["2022-04-04T08:01:16.950054+00:00", 1433, "Your mother is", "exoergic", "Pronunciation: /\u02cc\u025bkso\u028a\u02c8\u025crd\u0292\u026ak/", "Definition: (of a nuclear reaction) occurring with evolution or releasing of energy", "Synonyms: energy-releasing"]}
