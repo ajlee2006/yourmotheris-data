@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T08:01:16.950054+00:00", 1433, "Your mother is", "exoergic", "Pronunciation: /\u02cc\u025bkso\u028a\u02c8\u025crd\u0292\u026ak/", "Definition: (of a nuclear reaction) occurring with evolution or releasing of energy", "Synonyms: energy-releasing"]}
+{"data": ["2022-04-04T09:01:08.380756+00:00", 1434, "Your mother is", "low-necked", "Pronunciation: /\u02c8lo\u028a\u02c8n\u025bkt/", "Definition: (of a garment) having a low-cut neckline", "Synonyms: decollete, low-cut"]}
