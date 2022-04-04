@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T06:01:20.280866+00:00", 1431, "Your mother is", "forty-eighth", "Pronunciation: /\u02c8f\u0254rti-e\u026at\u03b8/", "Definition: the ordinal number of forty-eight in counting order", "Synonyms: 48th"]}
+{"data": ["2022-04-04T07:01:06.780581+00:00", 1432, "Your mother is", "prolonged", "Pronunciation: /pr\u028c\u02c8l\u0254\u014bd/", "Definition: relatively long in duration; tediously protracted", "Synonyms: drawn-out, extended, lengthy, protracted"]}
