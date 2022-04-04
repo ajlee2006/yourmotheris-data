@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T05:01:36.933965+00:00", 1430, "Your mother is", "long-wool", "Similar to: long", "Definition: (of sheep) having relatively long wool", "Synonyms: long-wooled"]}
+{"data": ["2022-04-04T06:01:20.280866+00:00", 1431, "Your mother is", "forty-eighth", "Pronunciation: /\u02c8f\u0254rti-e\u026at\u03b8/", "Definition: the ordinal number of forty-eight in counting order", "Synonyms: 48th"]}
