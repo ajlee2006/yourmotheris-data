@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T04:01:25.759472+00:00", 1429, "Your mother is", "panic-stricken", "Pronunciation: /\u02c8p\u00e6n\u026ak-\u02ccstr\u026ak\u0259n/", "Definition: thrown into a state of intense fear or desperation", "Synonyms: frightened, panic-struck, panicked, panicky, terrified"]}
+{"data": ["2022-04-04T05:01:36.933965+00:00", 1430, "Your mother is", "long-wool", "Similar to: long", "Definition: (of sheep) having relatively long wool", "Synonyms: long-wooled"]}
