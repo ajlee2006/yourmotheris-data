@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T03:01:21.572255+00:00", 1428, "Your mother is", "heterosexual", "Pronunciation: /\u02cch\u025bt\u0259r\u0259\u02c8s\u025bk\u0283u\u0259l/", "Definition: sexually attracted to members of the opposite sex", ""]}
+{"data": ["2022-04-04T04:01:25.759472+00:00", 1429, "Your mother is", "panic-stricken", "Pronunciation: /\u02c8p\u00e6n\u026ak-\u02ccstr\u026ak\u0259n/", "Definition: thrown into a state of intense fear or desperation", "Synonyms: frightened, panic-struck, panicked, panicky, terrified"]}
