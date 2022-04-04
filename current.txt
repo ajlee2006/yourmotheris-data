@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T16:01:06.280742+00:00", 1441, "Your mother is", "coeliac", "Pronunciation: /\u02c8sili\u02cc\u00e6k/", "Definition: of or in or belonging to the cavity of the abdomen", "Synonyms: celiac"]}
+{"data": ["2022-04-04T17:01:10.941008+00:00", 1442, "Your mother is", "gettable", "Similar to: available", "Definition: capable of being obtained", "Synonyms: getable, obtainable, procurable"]}
