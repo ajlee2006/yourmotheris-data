@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T01:01:35.741283+00:00", 1426, "Your mother is", "incipient", "Pronunciation: /\u026an\u02c8s\u026api\u0259nt/", "Definition: only partly in existence; imperfectly formed", "Synonyms: inchoate"]}
+{"data": ["2022-04-04T02:01:38.649749+00:00", 1427, "Your mother is", "unconditioned", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8d\u026a\u0283\u0259nd/", "Definition: not conditional", "Synonyms: unconditional"]}
