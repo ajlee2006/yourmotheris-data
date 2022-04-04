@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T11:01:19.712025+00:00", 1436, "Your mother is", "native american", "", "Definition: of or pertaining to Native Americans or their culture or languages", "Synonyms: amerind, amerindic, indian"]}
+{"data": ["2022-04-04T12:01:23.315237+00:00", 1437, "Your mother is", "warm-blooded", "Pronunciation: /\u02c8w\u0254rm-\u02c8bl\u0259d\u026ad/", "Definition: having warm blood (in animals whose body temperature is internally regulated)", ""]}
