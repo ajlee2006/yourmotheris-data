@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T17:01:10.941008+00:00", 1442, "Your mother is", "gettable", "Similar to: available", "Definition: capable of being obtained", "Synonyms: getable, obtainable, procurable"]}
+{"data": ["2022-04-04T18:00:32.959478+00:00", 1443, "Your mother is", "hunted", "Pronunciation: /\u02c8h\u028cnt\u028cd/", "Definition: reflecting the fear or terror of one who is hunted", ""]}
