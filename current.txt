@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T18:00:32.959478+00:00", 1443, "Your mother is", "hunted", "Pronunciation: /\u02c8h\u028cnt\u028cd/", "Definition: reflecting the fear or terror of one who is hunted", ""]}
+{"data": ["2022-04-04T19:01:16.401651+00:00", 1444, "Your mother is", "discouraging", "Pronunciation: /d\u026a\u02c8sk\u025dr\u028cd\u0292\u026a\u014b/", "Definition: depriving of confidence or hope or enthusiasm and hence often deterring action", ""]}
