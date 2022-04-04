@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T13:00:58.712641+00:00", 1438, "Your mother is", "suitable", "Pronunciation: /\u02c8sut\u00e6b\u0259l/", "Definition: worthy of being chosen especially as a spouse", "Synonyms: desirable, worthy"]}
+{"data": ["2022-04-04T14:00:43.980615+00:00", 1439, "Your mother is", "trusting", "Pronunciation: /\u02c8tr\u0259st\u026a\u014b/", "Definition: inclined to believe or confide readily; full of trust", "Synonyms: trustful"]}
