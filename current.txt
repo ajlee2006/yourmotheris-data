@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T09:01:08.380756+00:00", 1434, "Your mother is", "low-necked", "Pronunciation: /\u02c8lo\u028a\u02c8n\u025bkt/", "Definition: (of a garment) having a low-cut neckline", "Synonyms: decollete, low-cut"]}
+{"data": ["2022-04-04T10:01:04.078989+00:00", 1435, "Your mother is", "allargando", "Pronunciation: /\u02cc\u0251l\u0251r\u02c8\u0261\u0251ndo\u028a/", "Definition: (music) gradually decreasing in tempo and broadening in manner", ""]}
