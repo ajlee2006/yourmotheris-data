@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T15:01:20.160986+00:00", 1440, "Your mother is", "prostate", "Pronunciation: /\u02c8pr\u0251ste\u026at/", "Definition: relating to the prostate gland", "Synonyms: prostatic"]}
+{"data": ["2022-04-04T16:01:06.280742+00:00", 1441, "Your mother is", "coeliac", "Pronunciation: /\u02c8sili\u02cc\u00e6k/", "Definition: of or in or belonging to the cavity of the abdomen", "Synonyms: celiac"]}
