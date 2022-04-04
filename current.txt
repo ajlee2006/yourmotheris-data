@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T14:00:43.980615+00:00", 1439, "Your mother is", "trusting", "Pronunciation: /\u02c8tr\u0259st\u026a\u014b/", "Definition: inclined to believe or confide readily; full of trust", "Synonyms: trustful"]}
+{"data": ["2022-04-04T15:01:20.160986+00:00", 1440, "Your mother is", "prostate", "Pronunciation: /\u02c8pr\u0251ste\u026at/", "Definition: relating to the prostate gland", "Synonyms: prostatic"]}
