@@ -1,1 +1,1 @@
-{"data": ["2022-04-04T23:01:31.369660+00:00", 1448, "Your mother is", "identified", "Pronunciation: /a\u026a\u02c8d\u025bnt\u028c\u02ccfa\u026ad/", "Definition: having the identity known or established", ""]}
+{"data": ["2022-04-05T00:01:33.634726+00:00", 1449, "Your mother is", "nonplused", "Similar to: perplexed", "Definition: filled with bewilderment", "Synonyms: at a loss, nonplussed, puzzled"]}
