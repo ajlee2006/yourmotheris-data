@@ -1,1 +1,1 @@
-{"data": ["2022-04-05T10:00:38.788353+00:00", 1459, "Your mother is", "servo", "Pronunciation: /\u02c8s\u025crvo\u028a/", "Definition: of or involving servomechanisms", "Synonyms: servomechanical"]}
+{"data": ["2022-04-05T11:00:24.973887+00:00", 1460, "Your mother is", "ocher", "Pronunciation: /\u02c8o\u028ak\u0259r/", "Definition: of a moderate orange-yellow color", "Synonyms: ochre"]}
