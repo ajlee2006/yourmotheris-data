@@ -1,1 +1,1 @@
-{"data": ["2022-04-05T14:00:16.698949+00:00", 1463, "Your mother is", "square-built", "Pronunciation: /skw\u025cr-b\u026alt/", "Definition: broad and solidly built", ""]}
+{"data": ["2022-04-05T15:01:15.980346+00:00", 1464, "Your mother is", "bareheaded", "Pronunciation: /\u02c8b\u025cr\u02cch\u025bd\u026ad/", "Definition: having the head uncovered", "Synonyms: bared"]}
