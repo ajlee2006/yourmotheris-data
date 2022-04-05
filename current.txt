@@ -1,1 +1,1 @@
-{"data": ["2022-04-05T11:00:24.973887+00:00", 1460, "Your mother is", "ocher", "Pronunciation: /\u02c8o\u028ak\u0259r/", "Definition: of a moderate orange-yellow color", "Synonyms: ochre"]}
+{"data": ["2022-04-05T12:01:10.674266+00:00", 1461, "Your mother is", "isosmotic", "", "Definition: (used of solutions) having the same or equal osmotic pressure", "Synonyms: isotonic"]}
