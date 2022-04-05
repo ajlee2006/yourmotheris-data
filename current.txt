@@ -1,1 +1,1 @@
-{"data": ["2022-04-05T15:01:15.980346+00:00", 1464, "Your mother is", "bareheaded", "Pronunciation: /\u02c8b\u025cr\u02cch\u025bd\u026ad/", "Definition: having the head uncovered", "Synonyms: bared"]}
+{"data": ["2022-04-05T16:01:25.453572+00:00", 1465, "Your mother is", "automatic", "Pronunciation: /\u02cc\u0254t\u0259\u02c8m\u00e6t\u026ak/", "Definition: resembling the unthinking functioning of a machine", "Synonyms: automatonlike, machinelike, robotic, robotlike"]}
