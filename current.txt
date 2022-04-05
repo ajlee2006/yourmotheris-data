@@ -1,1 +1,1 @@
-{"data": ["2022-04-05T03:01:28.884430+00:00", 1452, "Your mother is", "intricate", "Pronunciation: /\u02c8\u026antr\u0259k\u026at/", "Definition: having many complexly arranged elements; elaborate", ""]}
+{"data": ["2022-04-05T04:01:17.318520+00:00", 1453, "Your mother is", "self-sufficing", "Pronunciation: /\u02ccs\u025blfs\u0259\u02c8fa\u026as\u026a\u014b/", "Definition: able to provide for your own needs without help from others", "Synonyms: self-sufficient, self-sustaining"]}
