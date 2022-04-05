@@ -1,1 +1,1 @@
-{"data": ["2022-04-05T02:01:25.832162+00:00", 1451, "Your mother is", "disjunct", "Pronunciation: /d\u026as\u02c8d\u0292\u0259\u014bkt/", "Definition: marked by separation of or from usually contiguous elements", "Synonyms: isolated"]}
+{"data": ["2022-04-05T03:01:28.884430+00:00", 1452, "Your mother is", "intricate", "Pronunciation: /\u02c8\u026antr\u0259k\u026at/", "Definition: having many complexly arranged elements; elaborate", ""]}
