@@ -1,1 +1,1 @@
-{"data": ["2022-04-05T01:01:01.710863+00:00", 1450, "Your mother is", "thirty-three", "Pronunciation: /\u02c8\u03b8\u025crti-\u02c8\u03b8ri/", "Definition: being three more than thirty", "Synonyms: 33, xxxiii"]}
+{"data": ["2022-04-05T02:01:25.832162+00:00", 1451, "Your mother is", "disjunct", "Pronunciation: /d\u026as\u02c8d\u0292\u0259\u014bkt/", "Definition: marked by separation of or from usually contiguous elements", "Synonyms: isolated"]}
