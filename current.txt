@@ -1,1 +1,1 @@
-{"data": ["2022-04-05T17:01:20.782437+00:00", 1466, "Your mother is", "microbial", "Pronunciation: /ma\u026a\u02c8kro\u028abi\u028cl/", "Definition: of or involving or caused by or being microbes", "Synonyms: microbic"]}
+{"data": ["2022-04-05T18:01:16.520115+00:00", 1467, "Your mother is", "constrictive", "Pronunciation: /k\u0259n\u02c8str\u026akt\u026av/", "Definition: restricting the scope or freedom of action", "Synonyms: confining, constraining, limiting, restricting"]}
