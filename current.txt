@@ -1,1 +1,1 @@
-{"data": ["2022-04-05T09:01:36.722737+00:00", 1458, "Your mother is", "anecdotic", "Pronunciation: /\u02cc\u00e6n\u026ak\u02c8d\u0251t\u026ak/", "Definition: characterized by or given to telling anecdotes", "Synonyms: anecdotal, anecdotical"]}
+{"data": ["2022-04-05T10:00:38.788353+00:00", 1459, "Your mother is", "servo", "Pronunciation: /\u02c8s\u025crvo\u028a/", "Definition: of or involving servomechanisms", "Synonyms: servomechanical"]}
