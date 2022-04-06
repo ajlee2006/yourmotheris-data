@@ -1,1 +1,1 @@
-{"data": ["2022-04-06T19:00:40.060604+00:00", 1492, "Your mother is", "indistinguishable", "Pronunciation: /\u02cc\u026and\u026a\u02c8st\u026a\u014bgw\u026a\u0283\u0259b\u0259l/", "Definition: exactly alike; incapable of being perceived as different", "Synonyms: identical"]}
+{"data": ["2022-04-06T20:00:47.881114+00:00", 1493, "Your mother is", "obscure", "Pronunciation: /\u0259b\u02c8skj\u028ar/", "Definition: not drawing attention", "Synonyms: unnoticeable"]}
