@@ -1,1 +1,1 @@
-{"data": ["2022-04-06T20:00:47.881114+00:00", 1493, "Your mother is", "obscure", "Pronunciation: /\u0259b\u02c8skj\u028ar/", "Definition: not drawing attention", "Synonyms: unnoticeable"]}
+{"data": ["2022-04-06T21:00:25.286072+00:00", 1494, "Your mother is", "revolved", "Pronunciation: /ri\u02c8v\u0251lvd/", "Definition: turned in a circle around an axis", "Synonyms: rotated"]}
