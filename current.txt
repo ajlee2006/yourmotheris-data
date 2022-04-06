@@ -1,1 +1,1 @@
-{"data": ["2022-04-05T23:01:28.282931+00:00", 1472, "Your mother is", "versatile", "Pronunciation: /\u02c8v\u025crs\u0259t\u026al/", "Definition: having great diversity or variety", "Synonyms: various"]}
+{"data": ["2022-04-06T00:01:39.652065+00:00", 1473, "Your mother is", "predictable", "Pronunciation: /pri\u02c8d\u026akt\u0259b\u0259l/", "Definition: capable of being foretold", ""]}
