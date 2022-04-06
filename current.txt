@@ -1,1 +1,1 @@
-{"data": ["2022-04-06T11:01:23.587100+00:00", 1484, "Your mother is", "slender-bodied", "Similar to: bodied", "Definition: having a slim body", "Synonyms: slim-bodied, thin-bodied"]}
+{"data": ["2022-04-06T12:01:30.633883+00:00", 1485, "Your mother is", "canonic", "Pronunciation: /k\u0259\u02c8n\u0251n\u026ak/", "Definition: conforming to orthodox or recognized rules", "Synonyms: canonical, sanctioned"]}
