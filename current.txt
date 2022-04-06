@@ -1,1 +1,1 @@
-{"data": ["2022-04-06T05:01:35.326682+00:00", 1478, "Your mother is", "certified", "Pronunciation: /\u02c8s\u025crt\u0259\u02ccfa\u026ad/", "Definition: holding appropriate documentation and officially on record as qualified to perform a specified function or practice a specified skill", "Synonyms: qualified"]}
+{"data": ["2022-04-06T06:01:41.308450+00:00", 1479, "Your mother is", "minute", "Pronunciation: /\u02c8m\u026an\u026at/", "Definition: infinitely or immeasurably small", "Synonyms: infinitesimal"]}
