@@ -1,1 +1,1 @@
-{"data": ["2022-04-06T04:01:26.272242+00:00", 1477, "Your mother is", "intangible", "Pronunciation: /\u026an\u02c8t\u00e6nd\u0292\u0259b\u0259l/", "Definition: incapable of being perceived by the senses especially the sense of touch", "Synonyms: impalpable"]}
+{"data": ["2022-04-06T05:01:35.326682+00:00", 1478, "Your mother is", "certified", "Pronunciation: /\u02c8s\u025crt\u0259\u02ccfa\u026ad/", "Definition: holding appropriate documentation and officially on record as qualified to perform a specified function or practice a specified skill", "Synonyms: qualified"]}
