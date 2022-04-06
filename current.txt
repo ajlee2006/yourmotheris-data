@@ -1,1 +1,1 @@
-{"data": ["2022-04-06T17:01:20.147793+00:00", 1490, "Your mother is", "thundery", "Similar to: loud", "Definition: loud enough to cause (temporary) hearing loss", "Synonyms: deafening, earsplitting, thunderous"]}
+{"data": ["2022-04-06T18:00:18.065679+00:00", 1491, "Your mother is", "error-prone", "Pronunciation: /\u02c8\u025br\u0259r-pro\u028an/", "Definition: capable of making an error", "Synonyms: erring"]}
