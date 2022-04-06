@@ -1,1 +1,1 @@
-{"data": ["2022-04-06T18:00:18.065679+00:00", 1491, "Your mother is", "error-prone", "Pronunciation: /\u02c8\u025br\u0259r-pro\u028an/", "Definition: capable of making an error", "Synonyms: erring"]}
+{"data": ["2022-04-06T19:00:40.060604+00:00", 1492, "Your mother is", "indistinguishable", "Pronunciation: /\u02cc\u026and\u026a\u02c8st\u026a\u014bgw\u026a\u0283\u0259b\u0259l/", "Definition: exactly alike; incapable of being perceived as different", "Synonyms: identical"]}
