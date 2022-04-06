@@ -1,1 +1,1 @@
-{"data": ["2022-04-06T15:01:23.163453+00:00", 1488, "Your mother is", "maroon", "Pronunciation: /m\u0259\u02c8run/", "Definition: of dark brownish to purplish red", "Synonyms: brownish-red"]}
+{"data": ["2022-04-06T16:01:28.993279+00:00", 1489, "Your mother is", "endothermal", "Pronunciation: /\u02cc\u025bndo\u028a\u02c8\u03b8\u025crm\u0259l/", "Definition: (of a chemical reaction or compound) occurring or formed with absorption of heat", "Synonyms: endothermic, heat-absorbing"]}
