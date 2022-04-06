@@ -1,1 +1,1 @@
-{"data": ["2022-04-06T16:01:28.993279+00:00", 1489, "Your mother is", "endothermal", "Pronunciation: /\u02cc\u025bndo\u028a\u02c8\u03b8\u025crm\u0259l/", "Definition: (of a chemical reaction or compound) occurring or formed with absorption of heat", "Synonyms: endothermic, heat-absorbing"]}
+{"data": ["2022-04-06T17:01:20.147793+00:00", 1490, "Your mother is", "thundery", "Similar to: loud", "Definition: loud enough to cause (temporary) hearing loss", "Synonyms: deafening, earsplitting, thunderous"]}
