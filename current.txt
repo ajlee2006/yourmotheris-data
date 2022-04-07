@@ -1,1 +1,1 @@
-{"data": ["2022-04-07T05:01:10.685036+00:00", 1502, "Your mother is", "red-lavender", "Similar to: chromatic", "Definition: of something having a lavender color tinged with red", "Synonyms: reddish-lavender"]}
+{"data": ["2022-04-07T06:01:42.580118+00:00", 1503, "Your mother is", "subfusc", "Pronunciation: /\u02c8s\u0259bf\u0259sk/", "Definition: devoid of brightness or appeal", ""]}
