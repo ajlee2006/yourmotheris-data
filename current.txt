@@ -1,1 +1,1 @@
-{"data": ["2022-04-07T07:00:19.310304+00:00", 1504, "Your mother is", "oversolicitous", "Pronunciation: /\u02c8o\u028av\u0259rs\u0259\u02c8l\u026as\u026at\u0259s/", "Definition: excessively solicitous", ""]}
+{"data": ["2022-04-07T08:02:00.193255+00:00", 1505, "Your mother is", "low-cost", "Pronunciation: /lo\u028a-k\u0254st/", "Definition: that you have the financial means for", "Synonyms: affordable, low-priced"]}
