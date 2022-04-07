@@ -1,1 +1,1 @@
-{"data": ["2022-04-07T11:00:57.504549+00:00", 1508, "Your mother is", "dashing", "Pronunciation: /\u02c8d\u00e6\u0283\u026a\u014b/", "Definition: lively and spirited", "Synonyms: gallant"]}
+{"data": ["2022-04-07T12:01:13.642338+00:00", 1509, "Your mother is", "legible", "Pronunciation: /\u02c8l\u025bd\u0292\u0259b\u0259l/", "Definition: (of handwriting, print, etc.) capable of being read or deciphered", ""]}
