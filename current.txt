@@ -1,1 +1,1 @@
-{"data": ["2022-04-07T09:01:16.147665+00:00", 1506, "Your mother is", "unsuspected", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8sp\u025bkt\u026ad/", "Definition: not suspected or believed likely", ""]}
+{"data": ["2022-04-07T10:00:39.435325+00:00", 1507, "Your mother is", "surprised", "Pronunciation: /s\u025dr\u02c8pra\u026azd/", "Definition: taken unawares or suddenly and feeling wonder or astonishment", ""]}
