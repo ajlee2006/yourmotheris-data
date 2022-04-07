@@ -1,1 +1,1 @@
-{"data": ["2022-04-07T08:02:00.193255+00:00", 1505, "Your mother is", "low-cost", "Pronunciation: /lo\u028a-k\u0254st/", "Definition: that you have the financial means for", "Synonyms: affordable, low-priced"]}
+{"data": ["2022-04-07T09:01:16.147665+00:00", 1506, "Your mother is", "unsuspected", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8sp\u025bkt\u026ad/", "Definition: not suspected or believed likely", ""]}
