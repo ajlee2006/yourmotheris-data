@@ -1,1 +1,1 @@
-{"data": ["2022-04-06T23:01:37.358692+00:00", 1496, "Your mother is", "geological", "Pronunciation: /\u02ccd\u0292i\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to or based on geology", "Synonyms: geologic"]}
+{"data": ["2022-04-07T00:01:43.708105+00:00", 1497, "Your mother is", "abreast", "Pronunciation: /\u0259\u02c8br\u025bst/", "Definition: being up to particular standard or level especially in being up to date in knowledge", "Synonyms: au courant, au fait, up on"]}
