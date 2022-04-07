@@ -1,1 +1,1 @@
-{"data": ["2022-04-07T10:00:39.435325+00:00", 1507, "Your mother is", "surprised", "Pronunciation: /s\u025dr\u02c8pra\u026azd/", "Definition: taken unawares or suddenly and feeling wonder or astonishment", ""]}
+{"data": ["2022-04-07T11:00:57.504549+00:00", 1508, "Your mother is", "dashing", "Pronunciation: /\u02c8d\u00e6\u0283\u026a\u014b/", "Definition: lively and spirited", "Synonyms: gallant"]}
