@@ -1,1 +1,1 @@
-{"data": ["2022-04-07T20:00:51.164306+00:00", 1517, "Your mother is", "miscellaneous", "Pronunciation: /\u02ccm\u026as\u0259\u02c8le\u026ani\u0259s/", "Definition: having many aspects or qualities", "Synonyms: many-sided, multifaceted, multifarious"]}
+{"data": ["2022-04-07T21:01:04.579306+00:00", 1518, "Your mother is", "palmately-lobed", "Similar to: many-sided", "Definition: having lobes radiating from a central point", ""]}
