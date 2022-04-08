@@ -1,1 +1,1 @@
-{"data": ["2022-04-08T19:00:29.157562+00:00", 1540, "Your mother is", "womanly", "Pronunciation: /\u02c8w\u028am\u0259nli/", "Definition: befitting or characteristic of a woman especially a mature woman", "Synonyms: feminine"]}
+{"data": ["2022-04-08T20:01:15.584196+00:00", 1541, "Your mother is", "unsubmissive", "", "Definition: not servile or submissive", "Synonyms: unservile"]}
