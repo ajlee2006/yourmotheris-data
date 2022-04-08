@@ -1,1 +1,1 @@
-{"data": ["2022-04-08T05:01:28.994317+00:00", 1526, "Your mother is", "silver-leafed", "Similar to: leafy", "Definition: having silvery leaves", "Synonyms: silver-leaved, silvery-leafed, silvery-leaved"]}
+{"data": ["2022-04-08T06:01:26.010208+00:00", 1527, "Your mother is", "realizable", "Pronunciation: /\u02ccri\u028c\u02c8la\u026az\u028cb\u028cl/", "Definition: capable of existing or taking place or proving true; possible to do", "Synonyms: accomplishable, achievable, doable, manageable"]}
