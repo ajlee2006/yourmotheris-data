@@ -1,1 +1,1 @@
-{"data": ["2022-04-08T02:01:14.920584+00:00", 1523, "Your mother is", "physiologic", "Similar to: physical", "Definition: of or consistent with an organism's normal functioning", "Synonyms: physiological"]}
+{"data": ["2022-04-08T03:01:31.080086+00:00", 1524, "Your mother is", "estranged", "Pronunciation: /\u025b\u02c8stre\u026and\u0292d/", "Definition: caused to be unloved", "Synonyms: alienated"]}
