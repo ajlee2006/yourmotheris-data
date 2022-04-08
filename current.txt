@@ -1,1 +1,1 @@
-{"data": ["2022-04-08T06:01:26.010208+00:00", 1527, "Your mother is", "realizable", "Pronunciation: /\u02ccri\u028c\u02c8la\u026az\u028cb\u028cl/", "Definition: capable of existing or taking place or proving true; possible to do", "Synonyms: accomplishable, achievable, doable, manageable"]}
+{"data": ["2022-04-08T07:01:29.555321+00:00", 1528, "Your mother is", "thin", "Pronunciation: /\u03b8\u026an/", "Definition: lacking excess flesh", "Synonyms: lean"]}
