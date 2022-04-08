@@ -1,1 +1,1 @@
-{"data": ["2022-04-08T09:01:22.496255+00:00", 1530, "Your mother is", "nightmarish", "Pronunciation: /\u02c8na\u026at\u02ccm\u025cr\u026a\u0283/", "Definition: extremely alarming", "Synonyms: bloodcurdling, hair-raising"]}
+{"data": ["2022-04-08T10:01:12.706871+00:00", 1531, "Your mother is", "sodden", "Pronunciation: /\u02c8s\u0251d\u0259n/", "Definition: wet through and through; thoroughly wet", "Synonyms: soppy"]}
