@@ -1,1 +1,1 @@
-{"data": ["2022-04-08T18:01:21.816577+00:00", 1539, "Your mother is", "mellowed", "Pronunciation: /\u02c8m\u025blo\u028ad/", "Definition: softened through age or experience", "Synonyms: mellow"]}
+{"data": ["2022-04-08T19:00:29.157562+00:00", 1540, "Your mother is", "womanly", "Pronunciation: /\u02c8w\u028am\u0259nli/", "Definition: befitting or characteristic of a woman especially a mature woman", "Synonyms: feminine"]}
