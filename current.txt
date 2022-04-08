@@ -1,1 +1,1 @@
-{"data": ["2022-04-08T01:01:17.308921+00:00", 1522, "Your mother is", "tippy", "Pronunciation: /\u02c8t\u026api/", "Definition: (used of boats) inclined to heel over easily under sail", "Synonyms: crank, cranky, tender"]}
+{"data": ["2022-04-08T02:01:14.920584+00:00", 1523, "Your mother is", "physiologic", "Similar to: physical", "Definition: of or consistent with an organism's normal functioning", "Synonyms: physiological"]}
