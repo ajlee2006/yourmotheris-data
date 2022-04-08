@@ -1,1 +1,1 @@
-{"data": ["2022-04-08T03:01:31.080086+00:00", 1524, "Your mother is", "estranged", "Pronunciation: /\u025b\u02c8stre\u026and\u0292d/", "Definition: caused to be unloved", "Synonyms: alienated"]}
+{"data": ["2022-04-08T04:01:07.610327+00:00", 1525, "Your mother is", "unstructured", "Pronunciation: /\u0259n\u02c8str\u0259kt\u0283\u0259d/", "Definition: lacking the system or structure characteristic of living bodies", "Synonyms: amorphous"]}
