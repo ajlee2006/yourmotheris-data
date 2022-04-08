@@ -1,1 +1,1 @@
-{"data": ["2022-04-08T04:01:07.610327+00:00", 1525, "Your mother is", "unstructured", "Pronunciation: /\u0259n\u02c8str\u0259kt\u0283\u0259d/", "Definition: lacking the system or structure characteristic of living bodies", "Synonyms: amorphous"]}
+{"data": ["2022-04-08T05:01:28.994317+00:00", 1526, "Your mother is", "silver-leafed", "Similar to: leafy", "Definition: having silvery leaves", "Synonyms: silver-leaved, silvery-leafed, silvery-leaved"]}
