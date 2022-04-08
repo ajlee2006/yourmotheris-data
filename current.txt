@@ -1,1 +1,1 @@
-{"data": ["2022-04-08T17:00:47.652792+00:00", 1538, "Your mother is", "loco", "Pronunciation: /\u02c8lo\u028ako\u028a/", "Definition: informal or slang terms for mentally irregular", "Synonyms: around the bend, balmy, barmy, bats, batty, bonkers, buggy, cracked, crackers, daft, dotty, fruity, haywire, kookie, kooky, loony, loopy, nuts, nutty, round the bend, wacky, whacky"]}
+{"data": ["2022-04-08T18:01:21.816577+00:00", 1539, "Your mother is", "mellowed", "Pronunciation: /\u02c8m\u025blo\u028ad/", "Definition: softened through age or experience", "Synonyms: mellow"]}
