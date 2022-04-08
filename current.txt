@@ -1,1 +1,1 @@
-{"data": ["2022-04-08T12:01:20.186251+00:00", 1533, "Your mother is", "transient", "Pronunciation: /\u02c8tr\u00e6n\u0283\u0259nt/", "Definition: lasting a very short time", "Synonyms: ephemeral, fugacious, passing, short-lived, transitory"]}
+{"data": ["2022-04-08T13:00:54.878194+00:00", 1534, "Your mother is", "retained", "Pronunciation: /r\u026a\u02c8te\u026and/", "Definition: continued in your keeping or use or memory", "Synonyms: maintained"]}
