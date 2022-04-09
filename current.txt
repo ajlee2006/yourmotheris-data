@@ -1,1 +1,1 @@
-{"data": ["2022-04-09T06:01:32.293901+00:00", 1551, "Your mother is", "triclinic", "Pronunciation: /tra\u026a\u02c8kl\u026an\u026ak/", "Definition: having three unequal crystal axes intersecting at oblique angles", "Synonyms: anorthic"]}
+{"data": ["2022-04-09T07:00:49.592608+00:00", 1552, "Your mother is", "deprived", "Pronunciation: /d\u026a\u02c8pra\u026avd/", "Definition: marked by deprivation especially of the necessities of life or healthful environmental influences", "Synonyms: disadvantaged"]}
