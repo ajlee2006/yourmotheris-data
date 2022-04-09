@@ -1,1 +1,1 @@
-{"data": ["2022-04-09T02:01:23.677057+00:00", 1547, "Your mother is", "saudi", "Pronunciation: /\u02c8s\u0254di/", "Definition: of or relating to Saudi Arabia or its people", "Synonyms: saudi-arabian"]}
+{"data": ["2022-04-09T03:00:26.174168+00:00", 1548, "Your mother is", "anaesthetic", "Pronunciation: /\u02cc\u00e6n\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: characterized by insensibility", "Synonyms: anesthetic"]}
