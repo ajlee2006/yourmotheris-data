@@ -1,1 +1,1 @@
-{"data": ["2022-04-08T23:00:42.930198+00:00", 1544, "Your mother is", "tight-knit", "Pronunciation: /ta\u026at-n\u026at/", "Definition: closely and firmly integrated", "Synonyms: tightly knit"]}
+{"data": ["2022-04-09T00:01:48.333435+00:00", 1545, "Your mother is", "psychogenic", "Pronunciation: /\u02ccsa\u026ako\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: of or relating to the psychological cause of a disorder", "Synonyms: psychogenetic"]}
