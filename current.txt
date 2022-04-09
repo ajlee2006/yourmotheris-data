@@ -1,1 +1,1 @@
-{"data": ["2022-04-09T03:00:26.174168+00:00", 1548, "Your mother is", "anaesthetic", "Pronunciation: /\u02cc\u00e6n\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: characterized by insensibility", "Synonyms: anesthetic"]}
+{"data": ["2022-04-09T04:01:36.299940+00:00", 1549, "Your mother is", "burnished", "Pronunciation: /\u02c8b\u025drn\u026a\u0283t/", "Definition: made smooth and bright by or as if by rubbing; reflecting a sheen or glow", "Synonyms: bright, lustrous, shining, shiny"]}
