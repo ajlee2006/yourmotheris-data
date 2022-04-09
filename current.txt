@@ -1,1 +1,1 @@
-{"data": ["2022-04-09T04:01:36.299940+00:00", 1549, "Your mother is", "burnished", "Pronunciation: /\u02c8b\u025drn\u026a\u0283t/", "Definition: made smooth and bright by or as if by rubbing; reflecting a sheen or glow", "Synonyms: bright, lustrous, shining, shiny"]}
+{"data": ["2022-04-09T05:01:35.937745+00:00", 1550, "Your mother is", "limbed", "Pronunciation: /l\u026amd/", "Definition: having or as if having limbs, especially limbs of a specified kind (usually used in combination)", ""]}
