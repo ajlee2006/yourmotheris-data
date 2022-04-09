@@ -1,1 +1,1 @@
-{"data": ["2022-04-09T14:01:13.828852+00:00", 1559, "Your mother is", "nonmonotonic", "", "Definition: not monotonic", ""]}
+{"data": ["2022-04-09T15:01:00.823887+00:00", 1560, "Your mother is", "internal", "Pronunciation: /\u026an\u02c8t\u025crn\u0259l/", "Definition: inside the country", "Synonyms: home, interior, national"]}
