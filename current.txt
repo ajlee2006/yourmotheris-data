@@ -1,1 +1,1 @@
-{"data": ["2022-04-09T20:01:30.202586+00:00", 1565, "Your mother is", "dust-covered", "Pronunciation: /d\u0259st-\u02c8k\u0259v\u0259rd/", "Definition: covered with a layer of dust", "Synonyms: dusty"]}
+{"data": ["2022-04-09T21:00:21.130749+00:00", 1566, "Your mother is", "pushy", "Pronunciation: /\u02c8p\u028a\u0283i/", "Definition: marked by aggressive ambition and energy and initiative", "Synonyms: pushful"]}
