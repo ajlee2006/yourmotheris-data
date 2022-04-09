@@ -1,1 +1,1 @@
-{"data": ["2022-04-09T13:01:28.423018+00:00", 1558, "Your mother is", "libertine", "Pronunciation: /\u02c8l\u026ab\u0259r\u02cctin/", "Definition: unrestrained by convention or morality", "Synonyms: debauched, degenerate, degraded, dissipated, dissolute, fast, profligate, riotous"]}
+{"data": ["2022-04-09T14:01:13.828852+00:00", 1559, "Your mother is", "nonmonotonic", "", "Definition: not monotonic", ""]}
