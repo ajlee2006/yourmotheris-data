@@ -1,1 +1,1 @@
-{"data": ["2022-04-09T19:00:45.329632+00:00", 1564, "Your mother is", "involucrate", "Pronunciation: /\u02cc\u026anv\u0259\u02c8lukr\u026at/", "Definition: having an involucre", ""]}
+{"data": ["2022-04-09T20:01:30.202586+00:00", 1565, "Your mother is", "dust-covered", "Pronunciation: /d\u0259st-\u02c8k\u0259v\u0259rd/", "Definition: covered with a layer of dust", "Synonyms: dusty"]}
