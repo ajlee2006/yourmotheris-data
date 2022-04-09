@@ -1,1 +1,1 @@
-{"data": ["2022-04-09T05:01:35.937745+00:00", 1550, "Your mother is", "limbed", "Pronunciation: /l\u026amd/", "Definition: having or as if having limbs, especially limbs of a specified kind (usually used in combination)", ""]}
+{"data": ["2022-04-09T06:01:32.293901+00:00", 1551, "Your mother is", "triclinic", "Pronunciation: /tra\u026a\u02c8kl\u026an\u026ak/", "Definition: having three unequal crystal axes intersecting at oblique angles", "Synonyms: anorthic"]}
