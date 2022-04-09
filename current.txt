@@ -1,1 +1,1 @@
-{"data": ["2022-04-09T00:01:48.333435+00:00", 1545, "Your mother is", "psychogenic", "Pronunciation: /\u02ccsa\u026ako\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: of or relating to the psychological cause of a disorder", "Synonyms: psychogenetic"]}
+{"data": ["2022-04-09T01:01:13.713950+00:00", 1546, "Your mother is", "prodigal", "Pronunciation: /\u02c8pr\u0251d\u0259\u0261\u0259l/", "Definition: recklessly wasteful", "Synonyms: extravagant, profligate, spendthrift"]}
