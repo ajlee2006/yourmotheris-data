@@ -1,1 +1,1 @@
-{"data": ["2022-04-10T03:01:11.022544+00:00", 1572, "Your mother is", "springless", "Pronunciation: /\u02c8spr\u026a\u014bl\u026as/", "Definition: lacking in elasticity or vitality", ""]}
+{"data": ["2022-04-10T04:01:36.074837+00:00", 1573, "Your mother is", "consanguineous", "Pronunciation: /\u02cck\u0251ns\u00e6\u014b\u02c8gw\u026ani\u0259s/", "Definition: related by blood", "Synonyms: akin, blood-related, cognate, consanguine, consanguineal, kin"]}
