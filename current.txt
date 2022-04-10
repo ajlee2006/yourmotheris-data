@@ -1,1 +1,1 @@
-{"data": ["2022-04-10T12:01:31.050421+00:00", 1581, "Your mother is", "blameless", "Pronunciation: /\u02c8ble\u026aml\u026as/", "Definition: free of guilt; not subject to blame", "Synonyms: inculpable, irreproachable, unimpeachable"]}
+{"data": ["2022-04-10T13:01:33.910778+00:00", 1582, "Your mother is", "ampullar", "", "Definition: of or related to an ampulla", "Synonyms: ampullary"]}
