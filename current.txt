@@ -1,1 +1,1 @@
-{"data": ["2022-04-10T18:01:12.657113+00:00", 1587, "Your mother is", "brobdingnagian", "Pronunciation: /\u02ccbr\u0251bd\u026a\u014b\u02c8n\u00e6\u0261i\u0259n/", "Definition: unusually great in size or amount or degree or especially extent or scope", "Synonyms: huge, immense, vast"]}
+{"data": ["2022-04-10T19:00:20.605854+00:00", 1588, "Your mother is", "arithmetical", "", "Definition: relating to or involving arithmetic", "Synonyms: arithmetic"]}
