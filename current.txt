@@ -1,1 +1,1 @@
-{"data": ["2022-04-10T22:00:15.719737+00:00", 1591, "Your mother is", "human", "Pronunciation: /\u02c8hjum\u0259n/", "Definition: having human form or attributes as opposed to those of animals or divine beings", ""]}
+{"data": ["2022-04-10T23:01:20.878458+00:00", 1592, "Your mother is", "nonprognosticative", "Similar to: unprophetic", "Definition: not offering prognostications", ""]}
