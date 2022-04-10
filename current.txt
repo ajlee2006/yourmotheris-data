@@ -1,1 +1,1 @@
-{"data": ["2022-04-09T23:01:16.134798+00:00", 1568, "Your mother is", "tractable", "Pronunciation: /\u02c8tr\u00e6kt\u0259b\u0259l/", "Definition: responsive to suggestions and influences", "Synonyms: amenable"]}
+{"data": ["2022-04-10T00:01:18.804082+00:00", 1569, "Your mother is", "unmingled", "Similar to: pure", "Definition: not mixed with extraneous elements", "Synonyms: plain, sheer, unmixed"]}
