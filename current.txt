@@ -1,1 +1,1 @@
-{"data": ["2022-04-10T08:01:03.465844+00:00", 1577, "Your mother is", "commemorative", "Pronunciation: /k\u0259\u02c8m\u025bm\u0259\u02ccre\u026at\u026av/", "Definition: intended as a commemoration", "Synonyms: commemorating"]}
+{"data": ["2022-04-10T09:01:32.091089+00:00", 1578, "Your mother is", "on the go", "Similar to: active", "Definition: (of a person) very busy and active", ""]}
