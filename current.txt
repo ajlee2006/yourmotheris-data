@@ -1,1 +1,1 @@
-{"data": ["2022-04-10T04:01:36.074837+00:00", 1573, "Your mother is", "consanguineous", "Pronunciation: /\u02cck\u0251ns\u00e6\u014b\u02c8gw\u026ani\u0259s/", "Definition: related by blood", "Synonyms: akin, blood-related, cognate, consanguine, consanguineal, kin"]}
+{"data": ["2022-04-10T05:01:30.890628+00:00", 1574, "Your mother is", "accessory", "Pronunciation: /\u00e6k\u02c8s\u025bs\u0259ri/", "Definition: aiding and abetting in a crime", "Synonyms: accessary"]}
