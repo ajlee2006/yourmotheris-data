@@ -1,1 +1,1 @@
-{"data": ["2022-04-10T21:00:44.275080+00:00", 1590, "Your mother is", "aimless", "Pronunciation: /\u02c8e\u026aml\u026as/", "Definition: aimlessly drifting", "Synonyms: adrift, afloat, directionless, planless, rudderless, undirected"]}
+{"data": ["2022-04-10T22:00:15.719737+00:00", 1591, "Your mother is", "human", "Pronunciation: /\u02c8hjum\u0259n/", "Definition: having human form or attributes as opposed to those of animals or divine beings", ""]}
