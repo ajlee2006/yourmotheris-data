@@ -1,1 +1,1 @@
-{"data": ["2022-04-10T10:00:40.440083+00:00", 1579, "Your mother is", "at sea", "Similar to: perplexed", "Definition: perplexed by many conflicting situations or statements; filled with bewilderment", "Synonyms: baffled, befuddled, bemused, bewildered, confounded, confused, lost, mazed, mixed-up"]}
+{"data": ["2022-04-10T11:01:02.187696+00:00", 1580, "Your mother is", "eastward", "Pronunciation: /\u02c8istw\u0259rd/", "Definition: moving toward the east", "Synonyms: eastbound"]}
