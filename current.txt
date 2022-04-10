@@ -1,1 +1,1 @@
-{"data": ["2022-04-10T19:00:20.605854+00:00", 1588, "Your mother is", "arithmetical", "", "Definition: relating to or involving arithmetic", "Synonyms: arithmetic"]}
+{"data": ["2022-04-10T20:01:22.809981+00:00", 1589, "Your mother is", "unladylike", "Pronunciation: /\u0259n\u02c8le\u026ad\u026a\u02ccla\u026ak/", "Definition: lacking the behavior or manner or style considered proper for a lady", ""]}
