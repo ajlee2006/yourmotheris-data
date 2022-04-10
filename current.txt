@@ -1,1 +1,1 @@
-{"data": ["2022-04-10T15:01:24.891115+00:00", 1584, "Your mother is", "affectionate", "Pronunciation: /\u0259\u02c8f\u025bk\u0283\u0259n\u026at/", "Definition: having or displaying warmth or affection", "Synonyms: fond, lovesome, tender"]}
+{"data": ["2022-04-10T16:01:20.371755+00:00", 1585, "Your mother is", "beaten", "Pronunciation: /\u02c8bit\u0259n/", "Definition: much trodden and worn smooth or bare", ""]}
