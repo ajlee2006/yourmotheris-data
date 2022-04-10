@@ -1,1 +1,1 @@
-{"data": ["2022-04-10T05:01:30.890628+00:00", 1574, "Your mother is", "accessory", "Pronunciation: /\u00e6k\u02c8s\u025bs\u0259ri/", "Definition: aiding and abetting in a crime", "Synonyms: accessary"]}
+{"data": ["2022-04-10T06:01:40.625226+00:00", 1575, "Your mother is", "precast", "Pronunciation: /pri\u02c8k\u0251st/", "Definition: of structural members especially of concrete; cast into form before being transported to the site of installation", ""]}
