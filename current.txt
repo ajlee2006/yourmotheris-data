@@ -1,1 +1,1 @@
-{"data": ["2022-04-10T06:01:40.625226+00:00", 1575, "Your mother is", "precast", "Pronunciation: /pri\u02c8k\u0251st/", "Definition: of structural members especially of concrete; cast into form before being transported to the site of installation", ""]}
+{"data": ["2022-04-10T07:01:04.773957+00:00", 1576, "Your mother is", "stonelike", "Similar to: hard", "Definition: (of bone especially the temporal bone) resembling stone in hardness", "Synonyms: petrous"]}
