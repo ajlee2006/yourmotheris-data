@@ -1,1 +1,1 @@
-{"data": ["2022-04-10T14:01:26.906381+00:00", 1583, "Your mother is", "reinvigorated", "Pronunciation: /\u02ccri\u026an\u02c8v\u026a\u0261\u025dr\u02cce\u026at\u026ad/", "Definition: with restored energy", "Synonyms: fresh, invigorated, refreshed"]}
+{"data": ["2022-04-10T15:01:24.891115+00:00", 1584, "Your mother is", "affectionate", "Pronunciation: /\u0259\u02c8f\u025bk\u0283\u0259n\u026at/", "Definition: having or displaying warmth or affection", "Synonyms: fond, lovesome, tender"]}
