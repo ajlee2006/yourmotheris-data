@@ -1,1 +1,1 @@
-{"data": ["2022-04-11T16:00:58.317836+00:00", 1609, "Your mother is", "outmoded", "Pronunciation: /\u02cca\u028at\u02c8mo\u028ad\u026ad/", "Definition: out of fashion", "Synonyms: antique, demode, ex, old-fashioned, old-hat, passe, passee"]}
+{"data": ["2022-04-11T17:01:12.901555+00:00", 1610, "Your mother is", "algebraical", "Pronunciation: /\u02cc\u00e6ld\u0292\u026a\u02c8bre\u026a\u026ak\u0259l/", "Definition: of or relating to algebra", "Synonyms: algebraic"]}
