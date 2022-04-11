@@ -1,1 +1,1 @@
-{"data": ["2022-04-11T08:01:18.448971+00:00", 1601, "Your mother is", "well-shaven", "Pronunciation: /w\u025bl-\u02c8\u0283e\u026av\u0259n/", "Definition: closely shaved recently", "Synonyms: clean-shaven, smooth-shaven"]}
+{"data": ["2022-04-11T09:00:57.044755+00:00", 1602, "Your mother is", "unacknowledged", "Similar to: undeclared", "Definition: not openly acknowledged", ""]}
