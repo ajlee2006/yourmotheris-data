@@ -1,1 +1,1 @@
-{"data": ["2022-04-11T22:00:39.403985+00:00", 1615, "Your mother is", "conventual", "Pronunciation: /k\u0259n\u02c8v\u025bn\u02a7u\u0259l/", "Definition: of communal life sequestered from the world under religious vows", "Synonyms: cloistered, cloistral, monastic, monastical"]}
+{"data": ["2022-04-11T23:01:11.211293+00:00", 1616, "Your mother is", "autogenous", "Pronunciation: /\u0254\u02c8t\u0251d\u0292\u0259n\u0259s/", "Definition: originating within the body", "Synonyms: autogenic"]}
