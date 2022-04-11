@@ -1,1 +1,1 @@
-{"data": ["2022-04-11T01:00:47.662626+00:00", 1594, "Your mother is", "plenary", "Pronunciation: /\u02c8plin\u0259ri/", "Definition: full in all respects", ""]}
+{"data": ["2022-04-11T02:01:30.760749+00:00", 1595, "Your mother is", "leaved", "Pronunciation: /livd/", "Definition: having leaves or leaves as specified; often used in combination", "Synonyms: leafed"]}
