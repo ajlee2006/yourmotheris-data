@@ -1,1 +1,1 @@
-{"data": ["2022-04-11T04:01:02.759218+00:00", 1597, "Your mother is", "unappareled", "Similar to: unclothed", "Definition: having removed clothing", "Synonyms: unattired, unclad, undressed, ungarbed, ungarmented"]}
+{"data": ["2022-04-11T05:00:52.628016+00:00", 1598, "Your mother is", "redux", "Similar to: revived", "Definition: brought back", ""]}
