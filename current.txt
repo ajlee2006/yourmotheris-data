@@ -1,1 +1,1 @@
-{"data": ["2022-04-11T13:01:14.087945+00:00", 1606, "Your mother is", "unacquainted with", "Similar to: unfamiliar", "Definition: having little or no knowledge of", "Synonyms: unacquainted, unfamiliar with"]}
+{"data": ["2022-04-11T14:01:24.247829+00:00", 1607, "Your mother is", "circumlocutory", "Pronunciation: /\u02ccs\u025crk\u0259m\u02c8l\u0251kj\u0259\u02ccto\u028ari/", "Definition: roundabout and unnecessarily wordy", "Synonyms: ambagious, circumlocutious, periphrastic"]}
