@@ -1,1 +1,1 @@
-{"data": ["2022-04-11T11:01:20.919763+00:00", 1604, "Your mother is", "purple-spotted", "Pronunciation: /\u02c8p\u025crp\u0259l-\u02c8sp\u0251t\u026ad/", "Definition: having purple spots", ""]}
+{"data": ["2022-04-11T12:00:50.213569+00:00", 1605, "Your mother is", "not bad", "Pronunciation: /n\u0251t-b\u00e6d/", "Definition: very good", "Synonyms: bang-up, bully, corking, cracking, dandy, great, groovy, keen, neat, nifty, old, peachy, slap-up, smashing, swell"]}
