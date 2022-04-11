@@ -1,1 +1,1 @@
-{"data": ["2022-04-11T15:01:14.690668+00:00", 1608, "Your mother is", "telegraphic", "Pronunciation: /\u02cct\u025bl\u026a\u02c8gr\u00e6f\u026ak/", "Definition: having the style of a telegram with many short words left out", ""]}
+{"data": ["2022-04-11T16:00:58.317836+00:00", 1609, "Your mother is", "outmoded", "Pronunciation: /\u02cca\u028at\u02c8mo\u028ad\u026ad/", "Definition: out of fashion", "Synonyms: antique, demode, ex, old-fashioned, old-hat, passe, passee"]}
