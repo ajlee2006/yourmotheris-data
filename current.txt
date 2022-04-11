@@ -1,1 +1,1 @@
-{"data": ["2022-04-11T00:02:14.799228+00:00", 1593, "Your mother is", "accusatory", "Pronunciation: /\u0259\u02c8kjuz\u0259\u02ccto\u028ari/", "Definition: containing or expressing accusation", "Synonyms: accusative, accusing, accusive"]}
+{"data": ["2022-04-11T01:00:47.662626+00:00", 1594, "Your mother is", "plenary", "Pronunciation: /\u02c8plin\u0259ri/", "Definition: full in all respects", ""]}
