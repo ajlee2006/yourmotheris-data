@@ -1,1 +1,1 @@
-{"data": ["2022-04-11T06:00:44.460769+00:00", 1599, "Your mother is", "moral", "Pronunciation: /\u02c8m\u0254r\u0259l/", "Definition: concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles", ""]}
+{"data": ["2022-04-11T07:01:04.814396+00:00", 1600, "Your mother is", "tectonic", "Pronunciation: /t\u025bk\u02c8t\u0251n\u026ak/", "Definition: of or pertaining to construction or architecture", "Synonyms: architectonic"]}
