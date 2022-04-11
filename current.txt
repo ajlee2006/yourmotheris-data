@@ -1,1 +1,1 @@
-{"data": ["2022-04-11T10:01:01.928167+00:00", 1603, "Your mother is", "contrary to fact", "Similar to: conditional", "Definition: going counter to the facts (usually as a hypothesis)", "Synonyms: counterfactual"]}
+{"data": ["2022-04-11T11:01:20.919763+00:00", 1604, "Your mother is", "purple-spotted", "Pronunciation: /\u02c8p\u025crp\u0259l-\u02c8sp\u0251t\u026ad/", "Definition: having purple spots", ""]}
