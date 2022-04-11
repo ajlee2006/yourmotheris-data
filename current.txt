@@ -1,1 +1,1 @@
-{"data": ["2022-04-11T14:01:24.247829+00:00", 1607, "Your mother is", "circumlocutory", "Pronunciation: /\u02ccs\u025crk\u0259m\u02c8l\u0251kj\u0259\u02ccto\u028ari/", "Definition: roundabout and unnecessarily wordy", "Synonyms: ambagious, circumlocutious, periphrastic"]}
+{"data": ["2022-04-11T15:01:14.690668+00:00", 1608, "Your mother is", "telegraphic", "Pronunciation: /\u02cct\u025bl\u026a\u02c8gr\u00e6f\u026ak/", "Definition: having the style of a telegram with many short words left out", ""]}
