@@ -1,1 +1,1 @@
-{"data": ["2022-04-12T02:01:27.333821+00:00", 1619, "Your mother is", "esoteric", "Pronunciation: /\u02cc\u025bs\u0259\u02c8t\u025br\u026ak/", "Definition: confined to and understandable by only an enlightened inner circle", ""]}
+{"data": ["2022-04-12T03:01:42.142423+00:00", 1620, "Your mother is", "weather-beaten", "Pronunciation: /\u02c8w\u025b\u00f0\u0259r-\u02c8bit\u0259n/", "Definition: worn by exposure to the weather", "Synonyms: weathered, weatherworn"]}
