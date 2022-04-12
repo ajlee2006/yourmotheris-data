@@ -1,1 +1,1 @@
-{"data": ["2022-04-12T12:01:34.643421+00:00", 1629, "Your mother is", "toothy", "Pronunciation: /\u02c8tu\u03b8i/", "Definition: having or showing prominent teeth", ""]}
+{"data": ["2022-04-12T13:01:33.882469+00:00", 1630, "Your mother is", "sinhalese", "Pronunciation: /\u02ccs\u026anh\u0259\u02c8liz/", "Definition: of or relating to the Sinhalese people", "Synonyms: singhalese"]}
