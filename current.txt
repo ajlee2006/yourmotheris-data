@@ -1,1 +1,1 @@
-{"data": ["2022-04-12T14:01:26.306915+00:00", 1631, "Your mother is", "ultra vires", "", "Definition: beyond the legal power or authority of a person or official or body etc", ""]}
+{"data": ["2022-04-12T15:00:45.938386+00:00", 1632, "Your mother is", "inframaxillary", "", "Definition: relating to the lower jaw", "Synonyms: mandibular"]}
