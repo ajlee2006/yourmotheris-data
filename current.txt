@@ -1,1 +1,1 @@
-{"data": ["2022-04-12T07:01:15.965654+00:00", 1624, "Your mother is", "unspent", "Pronunciation: /\u0259n\u02c8sp\u025bnt/", "Definition: (of financial resources) not spent", "Synonyms: unexpended"]}
+{"data": ["2022-04-12T08:01:09.086898+00:00", 1625, "Your mother is", "closed-minded", "Similar to: narrow", "Definition: not ready to receive to new ideas", "Synonyms: close-minded"]}
