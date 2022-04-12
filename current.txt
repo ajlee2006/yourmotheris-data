@@ -1,1 +1,1 @@
-{"data": ["2022-04-12T01:01:05.734814+00:00", 1618, "Your mother is", "chubby", "Pronunciation: /\u02c8\u02a7\u0259bi/", "Definition: sufficiently fat so as to have a pleasing fullness of figure", "Synonyms: embonpoint, plump"]}
+{"data": ["2022-04-12T02:01:27.333821+00:00", 1619, "Your mother is", "esoteric", "Pronunciation: /\u02cc\u025bs\u0259\u02c8t\u025br\u026ak/", "Definition: confined to and understandable by only an enlightened inner circle", ""]}
