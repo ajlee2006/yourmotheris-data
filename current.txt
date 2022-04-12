@@ -1,1 +1,1 @@
-{"data": ["2022-04-12T20:00:23.741603+00:00", 1637, "Your mother is", "four-wheel", "Pronunciation: /\u02c8fo\u028ar\u02c8hwil/", "Definition: of or relating to vehicles with four wheels", "Synonyms: four-wheeled"]}
+{"data": ["2022-04-12T21:00:40.386489+00:00", 1638, "Your mother is", "long-playing", "Pronunciation: /\u02c8l\u0254\u014b\u02c8ple\u026a\u026a\u014b/", "Definition: (used of records) playing at a slower speed and for a longer time than earlier records", "Synonyms: long-play"]}
