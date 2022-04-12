@@ -1,1 +1,1 @@
-{"data": ["2022-04-11T23:01:11.211293+00:00", 1616, "Your mother is", "autogenous", "Pronunciation: /\u0254\u02c8t\u0251d\u0292\u0259n\u0259s/", "Definition: originating within the body", "Synonyms: autogenic"]}
+{"data": ["2022-04-12T00:01:18.999693+00:00", 1617, "Your mother is", "untrue", "Pronunciation: /\u0259n\u02c8tru/", "Definition: not accurately fitted; not level", "Synonyms: out of true"]}
