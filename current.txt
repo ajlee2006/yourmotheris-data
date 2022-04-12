@@ -1,1 +1,1 @@
-{"data": ["2022-04-12T19:01:26.944042+00:00", 1636, "Your mother is", "catercorner", "Pronunciation: /\u02cck\u00e6ti\u02c8k\u0254rn\u0259r/", "Definition: slanted across a polygon on a diagonal line", "Synonyms: cata-cornered, catacorner, cater-cornered, catty-corner, catty-cornered, kitty-corner, kitty-cornered"]}
+{"data": ["2022-04-12T20:00:23.741603+00:00", 1637, "Your mother is", "four-wheel", "Pronunciation: /\u02c8fo\u028ar\u02c8hwil/", "Definition: of or relating to vehicles with four wheels", "Synonyms: four-wheeled"]}
