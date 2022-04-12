@@ -1,1 +1,1 @@
-{"data": ["2022-04-12T03:01:42.142423+00:00", 1620, "Your mother is", "weather-beaten", "Pronunciation: /\u02c8w\u025b\u00f0\u0259r-\u02c8bit\u0259n/", "Definition: worn by exposure to the weather", "Synonyms: weathered, weatherworn"]}
+{"data": ["2022-04-12T04:01:05.722842+00:00", 1621, "Your mother is", "talebearing", "Similar to: communicative", "Definition: prone to communicate confidential information", "Synonyms: blabbermouthed, leaky, tattling"]}
