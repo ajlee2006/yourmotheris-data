@@ -1,1 +1,1 @@
-{"data": ["2022-04-12T00:01:18.999693+00:00", 1617, "Your mother is", "untrue", "Pronunciation: /\u0259n\u02c8tru/", "Definition: not accurately fitted; not level", "Synonyms: out of true"]}
+{"data": ["2022-04-12T01:01:05.734814+00:00", 1618, "Your mother is", "chubby", "Pronunciation: /\u02c8\u02a7\u0259bi/", "Definition: sufficiently fat so as to have a pleasing fullness of figure", "Synonyms: embonpoint, plump"]}
