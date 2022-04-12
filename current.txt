@@ -1,1 +1,1 @@
-{"data": ["2022-04-12T11:00:41.011346+00:00", 1628, "Your mother is", "senile", "Pronunciation: /\u02c8sina\u026al/", "Definition: mentally or physically infirm with age", "Synonyms: doddering, doddery, gaga"]}
+{"data": ["2022-04-12T12:01:34.643421+00:00", 1629, "Your mother is", "toothy", "Pronunciation: /\u02c8tu\u03b8i/", "Definition: having or showing prominent teeth", ""]}
