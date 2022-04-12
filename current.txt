@@ -1,1 +1,1 @@
-{"data": ["2022-04-12T06:01:16.302372+00:00", 1623, "Your mother is", "dark-brown", "Similar to: chromatic", "Definition: of a color similar to that of wood or earth", "Synonyms: brown, brownish, chocolate-brown"]}
+{"data": ["2022-04-12T07:01:15.965654+00:00", 1624, "Your mother is", "unspent", "Pronunciation: /\u0259n\u02c8sp\u025bnt/", "Definition: (of financial resources) not spent", "Synonyms: unexpended"]}
