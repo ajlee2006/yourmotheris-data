@@ -1,1 +1,1 @@
-{"data": ["2022-04-13T01:01:27.732854+00:00", 1642, "Your mother is", "biparous", "Pronunciation: /\u02c8b\u026ap\u0259r\u0259s/", "Definition: producing two offspring at a time", "Synonyms: twinning"]}
+{"data": ["2022-04-13T02:01:28.991837+00:00", 1643, "Your mother is", "adnate", "Pronunciation: /\u02c8\u00e6dne\u026at/", "Definition: of unlike parts or organs; growing closely attached", ""]}
