@@ -1,1 +1,1 @@
-{"data": ["2022-04-13T13:01:29.256011+00:00", 1654, "Your mother is", "homocercal", "Pronunciation: /\u02ccho\u028am\u0259\u02c8s\u025crk\u0259l/", "Definition: possessing a symmetrical tail that extends beyond the end of the vertebral column (as in most bony fishes)", ""]}
+{"data": ["2022-04-13T14:01:35.218913+00:00", 1655, "Your mother is", "bottom", "Pronunciation: /\u02c8b\u0251t\u0259m/", "Definition: situated at the bottom or lowest position", ""]}
