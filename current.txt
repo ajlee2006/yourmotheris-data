@@ -1,1 +1,1 @@
-{"data": ["2022-04-13T14:01:35.218913+00:00", 1655, "Your mother is", "bottom", "Pronunciation: /\u02c8b\u0251t\u0259m/", "Definition: situated at the bottom or lowest position", ""]}
+{"data": ["2022-04-13T15:01:12.740717+00:00", 1656, "Your mother is", "quantized", "", "Definition: of or relating to a quantum or capable of existing in only one of two states", "Synonyms: quantal"]}
