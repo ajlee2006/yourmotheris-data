@@ -1,1 +1,1 @@
-{"data": ["2022-04-13T15:01:12.740717+00:00", 1656, "Your mother is", "quantized", "", "Definition: of or relating to a quantum or capable of existing in only one of two states", "Synonyms: quantal"]}
+{"data": ["2022-04-13T16:01:45.003203+00:00", 1657, "Your mother is", "nonaligned", "Pronunciation: /\u02c8n\u0251n\u028c\u02ccla\u026and/", "Definition: not affiliated with any faction, party, or cause", ""]}
