@@ -1,1 +1,1 @@
-{"data": ["2022-04-13T16:01:45.003203+00:00", 1657, "Your mother is", "nonaligned", "Pronunciation: /\u02c8n\u0251n\u028c\u02ccla\u026and/", "Definition: not affiliated with any faction, party, or cause", ""]}
+{"data": ["2022-04-13T17:00:24.879716+00:00", 1658, "Your mother is", "unseamed", "Similar to: smooth", "Definition: smooth, especially of skin", "Synonyms: seamless, unlined"]}
