@@ -1,1 +1,1 @@
-{"data": ["2022-04-13T05:01:10.098266+00:00", 1646, "Your mother is", "well-situated", "Pronunciation: /w\u025bl-\u02c8s\u026a\u02a7u\u02cce\u026at\u026ad/", "Definition: in fortunate circumstances financially; moderately rich", "Synonyms: comfortable, easy, prosperous, well-fixed, well-heeled, well-off, well-to-do"]}
+{"data": ["2022-04-13T06:00:29.237157+00:00", 1647, "Your mother is", "raising", "Pronunciation: /\u02c8re\u026az\u026a\u014b/", "Definition: increasing in quantity or value", ""]}
