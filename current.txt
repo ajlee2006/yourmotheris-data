@@ -1,1 +1,1 @@
-{"data": ["2022-04-13T20:01:27.054642+00:00", 1661, "Your mother is", "bleary-eyed", "Pronunciation: /\u02c8bliri\u02cca\u026ad/", "Definition: tired to the point of exhaustion", "Synonyms: blear, blear-eyed, bleary"]}
+{"data": ["2022-04-13T21:01:19.724995+00:00", 1662, "Your mother is", "ceylonese", "Pronunciation: /\u02ccsil\u0259\u02c8niz/", "Definition: of or relating to Sri Lanka (formerly Ceylon) or its people or culture", "Synonyms: sri lankan"]}
