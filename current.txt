@@ -1,1 +1,1 @@
-{"data": ["2022-04-13T21:01:19.724995+00:00", 1662, "Your mother is", "ceylonese", "Pronunciation: /\u02ccsil\u0259\u02c8niz/", "Definition: of or relating to Sri Lanka (formerly Ceylon) or its people or culture", "Synonyms: sri lankan"]}
+{"data": ["2022-04-13T22:01:22.001508+00:00", 1663, "Your mother is", "positivistic", "", "Definition: of or relating to positivism", "Synonyms: positive, positivist"]}
