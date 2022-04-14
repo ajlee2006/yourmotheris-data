@@ -1,1 +1,1 @@
-{"data": ["2022-04-14T18:00:59.378454+00:00", 1683, "Your mother is", "needled", "Pronunciation: /\u02c8nid\u028cld/", "Definition: of trees whose leaves are acerate", ""]}
+{"data": ["2022-04-14T19:00:41.447921+00:00", 1684, "Your mother is", "limited", "Pronunciation: /\u02c8l\u026am\u026at\u026ad/", "Definition: subject to limits or subjected to limits", "Synonyms: circumscribed"]}
