@@ -1,1 +1,1 @@
-{"data": ["2022-04-14T22:01:26.467436+00:00", 1687, "Your mother is", "unsoldierly", "Pronunciation: /\u0259n\u02c8so\u028ald\u0292\u0259li/", "Definition: not conforming to military standards", ""]}
+{"data": ["2022-04-14T23:01:38.558652+00:00", 1688, "Your mother is", "overlying", "Pronunciation: /\u02cco\u028av\u0259r\u02c8la\u026a\u026a\u014b/", "Definition: placed on or over something else", "Synonyms: superimposed"]}
