@@ -1,1 +1,1 @@
-{"data": ["2022-04-14T13:01:01.003507+00:00", 1678, "Your mother is", "corticoefferent", "Similar to: efferent", "Definition: of a nerve fiber passing outward from the cerebral cortex", "Synonyms: corticifugal, corticofugal"]}
+{"data": ["2022-04-14T14:01:12.824069+00:00", 1679, "Your mother is", "in height", "Similar to: tall", "Definition: having a specified height", ""]}
