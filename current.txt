@@ -1,1 +1,1 @@
-{"data": ["2022-04-14T21:01:39.852567+00:00", 1686, "Your mother is", "transferrable", "Pronunciation: /\u02cctr\u00e6ns\u02c8f\u025dr\u028cb\u028cl/", "Definition: capable of being moved or conveyed from one place to another", "Synonyms: movable, moveable, transferable, transportable"]}
+{"data": ["2022-04-14T22:01:26.467436+00:00", 1687, "Your mother is", "unsoldierly", "Pronunciation: /\u0259n\u02c8so\u028ald\u0292\u0259li/", "Definition: not conforming to military standards", ""]}
