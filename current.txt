@@ -1,1 +1,1 @@
-{"data": ["2022-04-14T04:01:38.324697+00:00", 1669, "Your mother is", "enthralled", "Pronunciation: /\u025bn\u02c8\u03b8r\u0254ld/", "Definition: filled with wonder and delight", "Synonyms: beguiled, captivated, charmed, delighted, entranced"]}
+{"data": ["2022-04-14T05:01:32.158071+00:00", 1670, "Your mother is", "prehensile", "Pronunciation: /pr\u026a\u02c8h\u025bns\u026al/", "Definition: immoderately desirous of acquiring e.g. wealth", "Synonyms: avaricious, covetous, grabby, grasping, greedy"]}
