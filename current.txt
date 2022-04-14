@@ -1,1 +1,1 @@
-{"data": ["2022-04-14T20:01:23.719687+00:00", 1685, "Your mother is", "teeny", "Pronunciation: /\u02c8tini/", "Definition: (used informally) very small", "Synonyms: bittie, bitty, itsy-bitsy, itty-bitty, teensy, teensy-weensy, teentsy, teeny-weeny, wee, weensy, weeny"]}
+{"data": ["2022-04-14T21:01:39.852567+00:00", 1686, "Your mother is", "transferrable", "Pronunciation: /\u02cctr\u00e6ns\u02c8f\u025dr\u028cb\u028cl/", "Definition: capable of being moved or conveyed from one place to another", "Synonyms: movable, moveable, transferable, transportable"]}
