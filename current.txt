@@ -1,1 +1,1 @@
-{"data": ["2022-04-14T03:01:42.885137+00:00", 1668, "Your mother is", "second-string", "Similar to: secondary", "Definition: being a replacement or substitute for a regular member of a team", ""]}
+{"data": ["2022-04-14T04:01:38.324697+00:00", 1669, "Your mother is", "enthralled", "Pronunciation: /\u025bn\u02c8\u03b8r\u0254ld/", "Definition: filled with wonder and delight", "Synonyms: beguiled, captivated, charmed, delighted, entranced"]}
