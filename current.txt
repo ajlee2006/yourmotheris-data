@@ -1,1 +1,1 @@
-{"data": ["2022-04-14T02:01:56.843954+00:00", 1667, "Your mother is", "determinative", "Pronunciation: /d\u026a\u02c8t\u025crm\u0259\u02ccne\u026at\u026av/", "Definition: having the power or quality of deciding", "Synonyms: deciding, determinant, determining"]}
+{"data": ["2022-04-14T03:01:42.885137+00:00", 1668, "Your mother is", "second-string", "Similar to: secondary", "Definition: being a replacement or substitute for a regular member of a team", ""]}
