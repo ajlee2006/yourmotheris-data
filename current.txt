@@ -1,1 +1,1 @@
-{"data": ["2022-04-14T07:00:43.927524+00:00", 1672, "Your mother is", "haggard", "Pronunciation: /\u02c8h\u00e6\u0261\u0259rd/", "Definition: very thin especially from disease or hunger or cold", "Synonyms: cadaverous, emaciated, gaunt, pinched, skeletal, wasted"]}
+{"data": ["2022-04-14T08:01:42.902435+00:00", 1673, "Your mother is", "irresponsible", "Pronunciation: /\u02cc\u026ar\u026a\u02c8sp\u0251ns\u0259b\u0259l/", "Definition: showing lack of care for consequences", ""]}
