@@ -1,1 +1,1 @@
-{"data": ["2022-04-14T01:01:31.403179+00:00", 1666, "Your mother is", "teetotal", "Pronunciation: /ti\u02c8to\u028at\u0259l/", "Definition: practicing complete abstinence from alcoholic beverages", "Synonyms: dry"]}
+{"data": ["2022-04-14T02:01:56.843954+00:00", 1667, "Your mother is", "determinative", "Pronunciation: /d\u026a\u02c8t\u025crm\u0259\u02ccne\u026at\u026av/", "Definition: having the power or quality of deciding", "Synonyms: deciding, determinant, determining"]}
