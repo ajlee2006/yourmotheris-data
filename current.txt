@@ -1,1 +1,1 @@
-{"data": ["2022-04-15T16:01:26.769022+00:00", 1705, "Your mother is", "biform", "Pronunciation: /\u02c8ba\u026a\u02ccf\u0254rm/", "Definition: having or combining two forms", ""]}
+{"data": ["2022-04-15T17:00:25.366277+00:00", 1706, "Your mother is", "brotherlike", "", "Definition: like or characteristic of or befitting a brother", "Synonyms: brotherly, fraternal"]}
