@@ -1,1 +1,1 @@
-{"data": ["2022-04-15T21:00:19.778572+00:00", 1710, "Your mother is", "one-way", "Pronunciation: /w\u0259n-we\u026a/", "Definition: moving or permitting movement in one direction only", ""]}
+{"data": ["2022-04-15T22:01:33.524939+00:00", 1711, "Your mother is", "intermeshed", "Similar to: tangled", "Definition: caught as if in a mesh", "Synonyms: enmeshed"]}
