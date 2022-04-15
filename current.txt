@@ -1,1 +1,1 @@
-{"data": ["2022-04-15T08:01:06.582161+00:00", 1697, "Your mother is", "declamatory", "Pronunciation: /d\u026a\u02c8kl\u00e6m\u0259\u02ccto\u028ari/", "Definition: ostentatiously lofty in style", "Synonyms: bombastic, large, orotund, tumid, turgid"]}
+{"data": ["2022-04-15T09:01:33.496724+00:00", 1698, "Your mother is", "sideways", "Pronunciation: /\u02c8sa\u026ad\u02ccwe\u026az/", "Definition: (of movement) at an angle", "Synonyms: crabwise"]}
