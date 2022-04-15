@@ -1,1 +1,1 @@
-{"data": ["2022-04-15T02:01:09.177083+00:00", 1691, "Your mother is", "bloodstained", "Pronunciation: /\u02c8bl\u0259d\u02ccste\u026and/", "Definition: covered with blood", "Synonyms: gory"]}
+{"data": ["2022-04-15T03:01:04.364812+00:00", 1692, "Your mother is", "bigmouthed", "Similar to: indiscreet", "Definition: unwisely talking too much", "Synonyms: blabbermouthed, blabby, talkative"]}
