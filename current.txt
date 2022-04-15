@@ -1,1 +1,1 @@
-{"data": ["2022-04-15T11:01:07.418097+00:00", 1700, "Your mother is", "capricious", "Pronunciation: /k\u0259\u02c8pr\u026a\u0283\u0259s/", "Definition: determined by chance or impulse or whim rather than by necessity or reason", "Synonyms: impulsive, whimsical"]}
+{"data": ["2022-04-15T12:00:57.599335+00:00", 1701, "Your mother is", "unsubtle", "Pronunciation: /\u028cn\u02c8s\u028ct\u028cl/", "Definition: lacking subtlety; obvious", "Synonyms: broad"]}
