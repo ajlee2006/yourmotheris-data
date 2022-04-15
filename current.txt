@@ -1,1 +1,1 @@
-{"data": ["2022-04-15T09:01:33.496724+00:00", 1698, "Your mother is", "sideways", "Pronunciation: /\u02c8sa\u026ad\u02ccwe\u026az/", "Definition: (of movement) at an angle", "Synonyms: crabwise"]}
+{"data": ["2022-04-15T10:01:29.102826+00:00", 1699, "Your mother is", "nonglutinous", "Similar to: nonadhesive", "Definition: not resembling glue in texture", "Synonyms: nonviscid"]}
