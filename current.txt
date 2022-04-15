@@ -1,1 +1,1 @@
-{"data": ["2022-04-15T05:01:08.174367+00:00", 1694, "Your mother is", "outsized", "Pronunciation: /\u02c8a\u028at\u02ccsa\u026azd/", "Definition: larger than normal for its kind", "Synonyms: outsize, oversize, oversized"]}
+{"data": ["2022-04-15T06:01:11.702466+00:00", 1695, "Your mother is", "piggish", "Pronunciation: /\u02c8p\u026a\u0261\u026ash/", "Definition: resembling swine; coarsely gluttonous or greedy", "Synonyms: hoggish, piggy, porcine, swinish"]}
