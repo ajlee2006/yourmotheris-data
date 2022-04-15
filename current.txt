@@ -1,1 +1,1 @@
-{"data": ["2022-04-15T12:00:57.599335+00:00", 1701, "Your mother is", "unsubtle", "Pronunciation: /\u028cn\u02c8s\u028ct\u028cl/", "Definition: lacking subtlety; obvious", "Synonyms: broad"]}
+{"data": ["2022-04-15T13:01:13.599343+00:00", 1702, "Your mother is", "sliced", "Pronunciation: /sla\u026ast/", "Definition: prepared by cutting", "Synonyms: chopped, shredded"]}
