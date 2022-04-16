@@ -1,1 +1,1 @@
-{"data": ["2022-04-16T15:01:23.986973+00:00", 1727, "Your mother is", "self-sealing", "Pronunciation: /\u02ccs\u025blf\u02c8sil\u026a\u014b/", "Definition: capable of sealing itself as after being pierced", ""]}
+{"data": ["2022-04-16T16:00:37.484277+00:00", 1728, "Your mother is", "unheated", "Pronunciation: /\u0259n\u02c8hit\u026ad/", "Definition: not having been heated or warmed", "Synonyms: unwarmed"]}
