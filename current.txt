@@ -1,1 +1,1 @@
-{"data": ["2022-04-16T05:00:44.506484+00:00", 1718, "Your mother is", "appraising", "Pronunciation: /\u028c\u02c8pre\u026az\u026a\u014b/", "Definition: exercising or involving careful evaluations", "Synonyms: evaluative"]}
+{"data": ["2022-04-16T07:00:43.080629+00:00", 1719, "Your mother is", "neglected", "Pronunciation: /n\u028c\u02c8\u0261l\u025bkt\u028cd/", "Definition: lacking a caretaker", "Synonyms: unattended"]}
