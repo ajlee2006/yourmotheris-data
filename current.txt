@@ -1,1 +1,1 @@
-{"data": ["2022-04-16T22:01:33.455333+00:00", 1734, "Your mother is", "inextirpable", "Pronunciation: /\u02cc\u026an\u026ak\u02c8st\u025crp\u0259b\u0259l/", "Definition: incapable of extermination or extirpation", "Synonyms: inexterminable"]}
+{"data": ["2022-04-16T23:01:33.797295+00:00", 1735, "Your mother is", "inefficient", "Pronunciation: /\u02cc\u026an\u026a\u02c8f\u026a\u0283\u0259nt/", "Definition: lacking the ability or skill to perform effectively; inadequate", "Synonyms: ineffective"]}
