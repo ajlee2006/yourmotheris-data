@@ -1,1 +1,1 @@
-{"data": ["2022-04-16T16:00:37.484277+00:00", 1728, "Your mother is", "unheated", "Pronunciation: /\u0259n\u02c8hit\u026ad/", "Definition: not having been heated or warmed", "Synonyms: unwarmed"]}
+{"data": ["2022-04-16T17:01:00.138769+00:00", 1729, "Your mother is", "blistering", "Pronunciation: /\u02c8bl\u026ast\u025dr\u026a\u014b/", "Definition: hot enough to raise (or as if to raise) blisters", "Synonyms: blistery"]}
