@@ -1,1 +1,1 @@
-{"data": ["2022-04-16T21:01:03.906938+00:00", 1733, "Your mother is", "short-billed", "Similar to: beaked", "Definition: having a short beak", "Synonyms: short-beaked"]}
+{"data": ["2022-04-16T22:01:33.455333+00:00", 1734, "Your mother is", "inextirpable", "Pronunciation: /\u02cc\u026an\u026ak\u02c8st\u025crp\u0259b\u0259l/", "Definition: incapable of extermination or extirpation", "Synonyms: inexterminable"]}
