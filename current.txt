@@ -1,1 +1,1 @@
-{"data": ["2022-04-15T23:01:12.885613+00:00", 1712, "Your mother is", "apple-scented", "Similar to: odorous", "Definition: smelling of apples", ""]}
+{"data": ["2022-04-16T00:01:52.831913+00:00", 1713, "Your mother is", "symbiotic", "Pronunciation: /\u02ccs\u026amba\u026a\u02c8\u0251t\u026ak/", "Definition: used of organisms (especially of different species) living together but not necessarily in a relation beneficial to each", ""]}
