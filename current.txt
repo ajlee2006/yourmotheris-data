@@ -1,1 +1,1 @@
-{"data": ["2022-04-16T12:01:31.616473+00:00", 1724, "Your mother is", "grape-sized", "Pronunciation: /gre\u026ap-sa\u026azd/", "Definition: having the approximate size of a grape", ""]}
+{"data": ["2022-04-16T13:01:25.537631+00:00", 1725, "Your mother is", "palm-shaped", "Pronunciation: /p\u0251m-\u0283e\u026apt/", "Definition: of a leaf shape; having leaflets or lobes radiating from a common point", "Synonyms: palmate"]}
