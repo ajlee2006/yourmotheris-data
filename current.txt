@@ -1,1 +1,1 @@
-{"data": ["2022-04-16T19:01:00.669613+00:00", 1731, "Your mother is", "lidless", "Pronunciation: /\u02c8l\u026adl\u026as/", "Definition: always watchful", "Synonyms: sleepless"]}
+{"data": ["2022-04-16T20:01:32.624494+00:00", 1732, "Your mother is", "gluttonous", "Pronunciation: /\u02c8gl\u0259t\u0259n\u0259s/", "Definition: given to excess in consumption of especially food or drink", ""]}
