@@ -1,1 +1,1 @@
-{"data": ["2022-04-16T13:01:25.537631+00:00", 1725, "Your mother is", "palm-shaped", "Pronunciation: /p\u0251m-\u0283e\u026apt/", "Definition: of a leaf shape; having leaflets or lobes radiating from a common point", "Synonyms: palmate"]}
+{"data": ["2022-04-16T14:01:26.468103+00:00", 1726, "Your mother is", "scalelike", "Similar to: close", "Definition: reduced to a small appressed thing that resembles a scale", ""]}
