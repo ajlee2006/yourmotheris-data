@@ -1,1 +1,1 @@
-{"data": ["2022-04-16T00:01:52.831913+00:00", 1713, "Your mother is", "symbiotic", "Pronunciation: /\u02ccs\u026amba\u026a\u02c8\u0251t\u026ak/", "Definition: used of organisms (especially of different species) living together but not necessarily in a relation beneficial to each", ""]}
+{"data": ["2022-04-16T01:01:22.254182+00:00", 1714, "Your mother is", "demythologised", "Similar to: rational", "Definition: having mythical elements removed", "Synonyms: demythologized"]}
