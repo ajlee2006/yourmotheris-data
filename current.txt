@@ -1,1 +1,1 @@
-{"data": ["2022-04-16T20:01:32.624494+00:00", 1732, "Your mother is", "gluttonous", "Pronunciation: /\u02c8gl\u0259t\u0259n\u0259s/", "Definition: given to excess in consumption of especially food or drink", ""]}
+{"data": ["2022-04-16T21:01:03.906938+00:00", 1733, "Your mother is", "short-billed", "Similar to: beaked", "Definition: having a short beak", "Synonyms: short-beaked"]}
