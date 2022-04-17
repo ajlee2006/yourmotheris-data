@@ -1,1 +1,1 @@
-{"data": ["2022-04-17T02:00:47.884976+00:00", 1738, "Your mother is", "gold-bearing", "Pronunciation: /\u0261o\u028ald-\u02c8b\u025cr\u026a\u014b/", "Definition: containing gold", "Synonyms: auriferous"]}
+{"data": ["2022-04-17T03:01:37.703821+00:00", 1739, "Your mother is", "papistic", "Pronunciation: /p\u0259\u02c8p\u026ast\u026ak/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistical, popish, r.c., roman, roman catholic, romanist, romish"]}
