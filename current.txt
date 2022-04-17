@@ -1,1 +1,1 @@
-{"data": ["2022-04-16T23:01:33.797295+00:00", 1735, "Your mother is", "inefficient", "Pronunciation: /\u02cc\u026an\u026a\u02c8f\u026a\u0283\u0259nt/", "Definition: lacking the ability or skill to perform effectively; inadequate", "Synonyms: ineffective"]}
+{"data": ["2022-04-17T00:02:07.923801+00:00", 1736, "Your mother is", "opportunist", "Pronunciation: /\u02cc\u0251p\u025dr\u02c8tun\u026ast/", "Definition: taking immediate advantage, often unethically, of any circumstance of possible benefit", "Synonyms: opportunistic, timeserving"]}
