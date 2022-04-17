@@ -1,1 +1,1 @@
-{"data": ["2022-04-17T21:01:19.067580+00:00", 1757, "Your mother is", "rusty-red", "Pronunciation: /\u02c8r\u0259sti-r\u025bd/", "Definition: of a red color tinged with rust", "Synonyms: rust-red"]}
+{"data": ["2022-04-17T22:01:27.298664+00:00", 1758, "Your mother is", "singable", "Similar to: musical", "Definition: suitable for singing", ""]}
