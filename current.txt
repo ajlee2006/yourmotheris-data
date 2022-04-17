@@ -1,1 +1,1 @@
-{"data": ["2022-04-17T17:01:07.177700+00:00", 1753, "Your mother is", "roaring", "Pronunciation: /\u02c8ro\u028ar\u026a\u014b/", "Definition: very lively and profitable", "Synonyms: booming, flourishing, palmy, prospering, prosperous, thriving"]}
+{"data": ["2022-04-17T18:00:39.283736+00:00", 1754, "Your mother is", "desultory", "Pronunciation: /\u02c8d\u025bs\u0259l\u02ccto\u028ari/", "Definition: marked by lack of definite plan or regularity or purpose; jumping from one thing to another", ""]}
