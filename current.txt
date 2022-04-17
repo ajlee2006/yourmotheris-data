@@ -1,1 +1,1 @@
-{"data": ["2022-04-17T06:00:55.385134+00:00", 1742, "Your mother is", "austral", "Pronunciation: /\u02c8\u0254str\u0259l/", "Definition: of the south or coming from the south", ""]}
+{"data": ["2022-04-17T07:01:15.145754+00:00", 1743, "Your mother is", "disagreeable", "Pronunciation: /\u02ccd\u026as\u0259\u02c8gri\u0259b\u0259l/", "Definition: not agreeing with your tastes or expectations", "Synonyms: unsympathetic"]}
