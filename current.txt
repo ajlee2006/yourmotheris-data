@@ -1,1 +1,1 @@
-{"data": ["2022-04-17T09:01:11.450611+00:00", 1745, "Your mother is", "unmitigated", "Pronunciation: /\u0259n\u02c8m\u026at\u0259\u02cc\u0261e\u026at\u026ad/", "Definition: not diminished or moderated in intensity or severity; sometimes used as an intensifier", ""]}
+{"data": ["2022-04-17T10:01:06.644851+00:00", 1746, "Your mother is", "laid", "Pronunciation: /le\u026ad/", "Definition: set down according to a plan", "Synonyms: set"]}
