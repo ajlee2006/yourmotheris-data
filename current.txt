@@ -1,1 +1,1 @@
-{"data": ["2022-04-17T18:00:39.283736+00:00", 1754, "Your mother is", "desultory", "Pronunciation: /\u02c8d\u025bs\u0259l\u02ccto\u028ari/", "Definition: marked by lack of definite plan or regularity or purpose; jumping from one thing to another", ""]}
+{"data": ["2022-04-17T19:01:12.648739+00:00", 1755, "Your mother is", "can-do", "Similar to: dynamic", "Definition: marked by a willingness to tackle a job and get it done", ""]}
