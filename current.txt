@@ -1,1 +1,1 @@
-{"data": ["2022-04-17T10:01:06.644851+00:00", 1746, "Your mother is", "laid", "Pronunciation: /le\u026ad/", "Definition: set down according to a plan", "Synonyms: set"]}
+{"data": ["2022-04-17T11:01:32.097520+00:00", 1747, "Your mother is", "half-yearly", "Pronunciation: /h\u00e6f-\u02c8jirli/", "Definition: occurring or payable twice each year", "Synonyms: biannual, biyearly, semiannual"]}
