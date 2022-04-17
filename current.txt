@@ -1,1 +1,1 @@
-{"data": ["2022-04-17T07:01:15.145754+00:00", 1743, "Your mother is", "disagreeable", "Pronunciation: /\u02ccd\u026as\u0259\u02c8gri\u0259b\u0259l/", "Definition: not agreeing with your tastes or expectations", "Synonyms: unsympathetic"]}
+{"data": ["2022-04-17T08:01:34.521219+00:00", 1744, "Your mother is", "mithraic", "", "Definition: of or relating to Mithraism or its god", "Synonyms: mithraistic"]}
