@@ -1,1 +1,1 @@
-{"data": ["2022-04-18T21:00:42.075563+00:00", 1781, "Your mother is", "goal-directed", "Similar to: purposeful", "Definition: having a purpose", "Synonyms: purposive"]}
+{"data": ["2022-04-18T22:01:02.709871+00:00", 1782, "Your mother is", "synecdochical", "Similar to: figurative", "Definition: using the name of a part for that of the whole or the whole for the part; or the special for the general or the general for the special; or the material for the thing made of it", "Synonyms: synecdochic"]}
