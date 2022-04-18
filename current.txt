@@ -1,1 +1,1 @@
-{"data": ["2022-04-18T17:01:17.811580+00:00", 1777, "Your mother is", "acetose", "Pronunciation: /\u02c8\u00e6s\u026a\u02ccto\u028as/", "Definition: tasting or smelling like vinegar", "Synonyms: acetous, vinegarish, vinegary"]}
+{"data": ["2022-04-18T18:00:24.250420+00:00", 1778, "Your mother is", "43rd", "Similar to: ordinal", "Definition: the ordinal number of forty-three in counting order", "Synonyms: forty-third"]}
