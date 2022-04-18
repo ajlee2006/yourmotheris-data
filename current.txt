@@ -1,1 +1,1 @@
-{"data": ["2022-04-18T15:01:28.043394+00:00", 1775, "Your mother is", "patient", "Pronunciation: /\u02c8pe\u026a\u0283\u025bnt/", "Definition: enduring trying circumstances with even temper or characterized by such endurance", ""]}
+{"data": ["2022-04-18T16:00:15.241819+00:00", 1776, "Your mother is", "wed", "Pronunciation: /w\u025bd/", "Definition: having been taken in marriage", "Synonyms: wedded"]}
