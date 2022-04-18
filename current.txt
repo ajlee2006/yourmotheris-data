@@ -1,1 +1,1 @@
-{"data": ["2022-04-18T05:00:45.616774+00:00", 1765, "Your mother is", "able-bodied", "Pronunciation: /\u02c8e\u026ab\u0259l\u02c8b\u0251did/", "Definition: having a strong healthy body", "Synonyms: able"]}
+{"data": ["2022-04-18T06:01:21.558810+00:00", 1766, "Your mother is", "120th", "Similar to: ordinal", "Definition: the ordinal number of one hundred twenty in counting order", "Synonyms: hundred-and-twentieth"]}
