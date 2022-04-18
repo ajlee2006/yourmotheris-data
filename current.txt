@@ -1,1 +1,1 @@
-{"data": ["2022-04-18T19:01:02.148540+00:00", 1779, "Your mother is", "sugared", "Pronunciation: /\u02c8\u0283\u028a\u0261\u0259rd/", "Definition: with sweetening added", "Synonyms: sweet, sweet-flavored, sweetened"]}
+{"data": ["2022-04-18T20:01:18.673586+00:00", 1780, "Your mother is", "prodigious", "Pronunciation: /pr\u0259\u02c8d\u026ad\u0292\u0259s/", "Definition: far beyond what is usual in magnitude or degree", "Synonyms: exceeding, exceptional, olympian, surpassing"]}
