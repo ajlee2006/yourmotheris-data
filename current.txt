@@ -1,1 +1,1 @@
-{"data": ["2022-04-18T04:01:20.778102+00:00", 1764, "Your mother is", "nonaged", "", "Definition: not of legal age", "Synonyms: minor, underage"]}
+{"data": ["2022-04-18T05:00:45.616774+00:00", 1765, "Your mother is", "able-bodied", "Pronunciation: /\u02c8e\u026ab\u0259l\u02c8b\u0251did/", "Definition: having a strong healthy body", "Synonyms: able"]}
