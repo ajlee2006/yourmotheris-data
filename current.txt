@@ -1,1 +1,1 @@
-{"data": ["2022-04-17T23:01:15.186136+00:00", 1759, "Your mother is", "uninitiate", "Similar to: inexperienced", "Definition: not initiated; deficient in relevant experience", "Synonyms: naive, uninitiated"]}
+{"data": ["2022-04-18T00:01:32.506545+00:00", 1760, "Your mother is", "goddam", "Pronunciation: /\u02c8\u0261\u0251\u02ccdd\u00e6m/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blasted, blessed, damn, damned, darned, deuced, goddamn, goddamned, infernal"]}
