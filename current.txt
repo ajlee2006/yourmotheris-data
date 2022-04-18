@@ -1,1 +1,1 @@
-{"data": ["2022-04-18T12:00:57.313876+00:00", 1772, "Your mother is", "startled", "Pronunciation: /\u02c8st\u0251rt\u028cld/", "Definition: excited by sudden surprise or alarm and making a quick involuntary movement", ""]}
+{"data": ["2022-04-18T13:01:00.715367+00:00", 1773, "Your mother is", "purifying", "Pronunciation: /\u02c8pj\u028ar\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: acting like an antiseptic", "Synonyms: cleansing"]}
