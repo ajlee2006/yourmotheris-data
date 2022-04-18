@@ -1,1 +1,1 @@
-{"data": ["2022-04-18T11:00:48.762815+00:00", 1771, "Your mother is", "double-bedded", "Similar to: bedded", "Definition: having a double bed", ""]}
+{"data": ["2022-04-18T12:00:57.313876+00:00", 1772, "Your mother is", "startled", "Pronunciation: /\u02c8st\u0251rt\u028cld/", "Definition: excited by sudden surprise or alarm and making a quick involuntary movement", ""]}
