@@ -1,1 +1,1 @@
-{"data": ["2022-04-18T16:00:15.241819+00:00", 1776, "Your mother is", "wed", "Pronunciation: /w\u025bd/", "Definition: having been taken in marriage", "Synonyms: wedded"]}
+{"data": ["2022-04-18T17:01:17.811580+00:00", 1777, "Your mother is", "acetose", "Pronunciation: /\u02c8\u00e6s\u026a\u02ccto\u028as/", "Definition: tasting or smelling like vinegar", "Synonyms: acetous, vinegarish, vinegary"]}
