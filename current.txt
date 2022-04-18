@@ -1,1 +1,1 @@
-{"data": ["2022-04-18T01:01:25.794011+00:00", 1761, "Your mother is", "educative", "Pronunciation: /\u02c8\u025bd\u0292\u028a\u02ccke\u026at\u026av/", "Definition: resulting in education", ""]}
+{"data": ["2022-04-18T02:00:52.667944+00:00", 1762, "Your mother is", "maintained", "Pronunciation: /me\u026an\u02c8te\u026and/", "Definition: continued in your keeping or use or memory", "Synonyms: retained"]}
