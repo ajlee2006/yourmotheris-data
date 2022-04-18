@@ -1,1 +1,1 @@
-{"data": ["2022-04-18T22:01:02.709871+00:00", 1782, "Your mother is", "synecdochical", "Similar to: figurative", "Definition: using the name of a part for that of the whole or the whole for the part; or the special for the general or the general for the special; or the material for the thing made of it", "Synonyms: synecdochic"]}
+{"data": ["2022-04-18T23:01:14.026050+00:00", 1783, "Your mother is", "unwished-for", "Pronunciation: /\u0259n\u02c8w\u026a\u0283t-\u02ccf\u0254r/", "Definition: not welcome", "Synonyms: unwelcome, unwished"]}
