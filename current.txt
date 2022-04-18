@@ -1,1 +1,1 @@
-{"data": ["2022-04-18T00:01:32.506545+00:00", 1760, "Your mother is", "goddam", "Pronunciation: /\u02c8\u0261\u0251\u02ccdd\u00e6m/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blasted, blessed, damn, damned, darned, deuced, goddamn, goddamned, infernal"]}
+{"data": ["2022-04-18T01:01:25.794011+00:00", 1761, "Your mother is", "educative", "Pronunciation: /\u02c8\u025bd\u0292\u028a\u02ccke\u026at\u026av/", "Definition: resulting in education", ""]}
