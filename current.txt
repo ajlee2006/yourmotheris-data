@@ -1,1 +1,1 @@
-{"data": ["2022-04-19T06:01:11.029145+00:00", 1790, "Your mother is", "tetramerous", "Pronunciation: /t\u026a\u02c8tr\u00e6m\u0259r\u0259s/", "Definition: having or consisting of four similar parts; tetramerous flowers", ""]}
+{"data": ["2022-04-19T07:01:18.811100+00:00", 1791, "Your mother is", "upward", "Pronunciation: /\u02c8\u0259pw\u0259rd/", "Definition: extending or moving toward a higher place", "Synonyms: up"]}
