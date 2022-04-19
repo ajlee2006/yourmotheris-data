@@ -1,1 +1,1 @@
-{"data": ["2022-04-19T15:01:22.473680+00:00", 1799, "Your mother is", "full-page", "Pronunciation: /f\u028al-pe\u026ad\u0292/", "Definition: occupying an entire page in a book or paper", ""]}
+{"data": ["2022-04-19T16:00:53.824807+00:00", 1800, "Your mother is", "aided", "Pronunciation: /\u02c8e\u026ad\u028cd/", "Definition: having help; often used as a combining form", "Synonyms: assisted"]}
