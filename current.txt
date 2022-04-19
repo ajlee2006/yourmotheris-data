@@ -1,1 +1,1 @@
-{"data": ["2022-04-19T20:00:50.683223+00:00", 1804, "Your mother is", "dextral", "Pronunciation: /\u02c8d\u025bkstr\u0259l/", "Definition: of or on the right", ""]}
+{"data": ["2022-04-19T21:01:35.646594+00:00", 1805, "Your mother is", "haemic", "Pronunciation: /\u02c8him\u026ak/", "Definition: relating to or containing or affecting blood", "Synonyms: haematic, hematic, hemic"]}
