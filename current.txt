@@ -1,1 +1,1 @@
-{"data": ["2022-04-19T07:01:18.811100+00:00", 1791, "Your mother is", "upward", "Pronunciation: /\u02c8\u0259pw\u0259rd/", "Definition: extending or moving toward a higher place", "Synonyms: up"]}
+{"data": ["2022-04-19T08:01:20.939598+00:00", 1792, "Your mother is", "stereo", "Pronunciation: /\u02c8st\u025brio\u028a/", "Definition: designating the reproduction of sound using two or more independent audio channels", "Synonyms: stereophonic, two-channel"]}
