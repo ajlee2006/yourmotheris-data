@@ -1,1 +1,1 @@
-{"data": ["2022-04-19T19:01:03.027811+00:00", 1803, "Your mother is", "fore-and-aft", "Pronunciation: /\u02c8fo\u028ar\u0259nd\u02c8\u00e6ft/", "Definition: parallel with the keel of a boat or ship", ""]}
+{"data": ["2022-04-19T20:00:50.683223+00:00", 1804, "Your mother is", "dextral", "Pronunciation: /\u02c8d\u025bkstr\u0259l/", "Definition: of or on the right", ""]}
