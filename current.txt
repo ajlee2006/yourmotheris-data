@@ -1,1 +1,1 @@
-{"data": ["2022-04-19T16:00:53.824807+00:00", 1800, "Your mother is", "aided", "Pronunciation: /\u02c8e\u026ad\u028cd/", "Definition: having help; often used as a combining form", "Synonyms: assisted"]}
+{"data": ["2022-04-19T17:00:11.793395+00:00", 1801, "Your mother is", "otherworldly", "Pronunciation: /\u02c8\u0259\u00f0\u0259r\u02c8w\u025crldli/", "Definition: existing outside of or not in accordance with nature", "Synonyms: nonnatural, preternatural, transcendental"]}
