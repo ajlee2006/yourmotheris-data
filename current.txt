@@ -1,1 +1,1 @@
-{"data": ["2022-04-19T05:01:20.462546+00:00", 1789, "Your mother is", "buddy-buddy", "Pronunciation: /\u02c8b\u0259di-\u02c8b\u0259di/", "Definition: (used informally) associated on close terms", "Synonyms: chummy, thick"]}
+{"data": ["2022-04-19T06:01:11.029145+00:00", 1790, "Your mother is", "tetramerous", "Pronunciation: /t\u026a\u02c8tr\u00e6m\u0259r\u0259s/", "Definition: having or consisting of four similar parts; tetramerous flowers", ""]}
