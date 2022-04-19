@@ -1,1 +1,1 @@
-{"data": ["2022-04-18T23:01:14.026050+00:00", 1783, "Your mother is", "unwished-for", "Pronunciation: /\u0259n\u02c8w\u026a\u0283t-\u02ccf\u0254r/", "Definition: not welcome", "Synonyms: unwelcome, unwished"]}
+{"data": ["2022-04-19T00:01:33.224697+00:00", 1784, "Your mother is", "confiscate", "Pronunciation: /\u02c8k\u0251nf\u026a\u02ccske\u026at/", "Definition: surrendered as a penalty", "Synonyms: forfeit, forfeited"]}
