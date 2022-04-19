@@ -1,1 +1,1 @@
-{"data": ["2022-04-19T18:01:24.449229+00:00", 1802, "Your mother is", "dreadful", "Pronunciation: /\u02c8dr\u025bdf\u0259l/", "Definition: causing fear or dread or terror", "Synonyms: awful, dire, direful, dread, dreaded, fearful, fearsome, frightening, horrendous, horrific, terrible"]}
+{"data": ["2022-04-19T19:01:03.027811+00:00", 1803, "Your mother is", "fore-and-aft", "Pronunciation: /\u02c8fo\u028ar\u0259nd\u02c8\u00e6ft/", "Definition: parallel with the keel of a boat or ship", ""]}
