@@ -1,1 +1,1 @@
-{"data": ["2022-04-19T17:00:11.793395+00:00", 1801, "Your mother is", "otherworldly", "Pronunciation: /\u02c8\u0259\u00f0\u0259r\u02c8w\u025crldli/", "Definition: existing outside of or not in accordance with nature", "Synonyms: nonnatural, preternatural, transcendental"]}
+{"data": ["2022-04-19T18:01:24.449229+00:00", 1802, "Your mother is", "dreadful", "Pronunciation: /\u02c8dr\u025bdf\u0259l/", "Definition: causing fear or dread or terror", "Synonyms: awful, dire, direful, dread, dreaded, fearful, fearsome, frightening, horrendous, horrific, terrible"]}
