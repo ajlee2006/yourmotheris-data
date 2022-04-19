@@ -1,1 +1,1 @@
-{"data": ["2022-04-19T08:01:20.939598+00:00", 1792, "Your mother is", "stereo", "Pronunciation: /\u02c8st\u025brio\u028a/", "Definition: designating the reproduction of sound using two or more independent audio channels", "Synonyms: stereophonic, two-channel"]}
+{"data": ["2022-04-19T09:00:51.060592+00:00", 1793, "Your mother is", "cashed", "Pronunciation: /k\u00e6\u0283t/", "Definition: for which money has been paid", ""]}
