@@ -1,1 +1,1 @@
-{"data": ["2022-04-19T09:00:51.060592+00:00", 1793, "Your mother is", "cashed", "Pronunciation: /k\u00e6\u0283t/", "Definition: for which money has been paid", ""]}
+{"data": ["2022-04-19T10:00:51.838954+00:00", 1794, "Your mother is", "tramontane", "Pronunciation: /tr\u0259\u02c8m\u0251nte\u026an/", "Definition: on or coming from the other side of the mountains (from the speaker)", "Synonyms: transmontane"]}
