@@ -1,1 +1,1 @@
-{"data": ["2022-04-19T21:01:35.646594+00:00", 1805, "Your mother is", "haemic", "Pronunciation: /\u02c8him\u026ak/", "Definition: relating to or containing or affecting blood", "Synonyms: haematic, hematic, hemic"]}
+{"data": ["2022-04-19T22:00:24.497343+00:00", 1806, "Your mother is", "pietistic", "", "Definition: of or relating to Pietism", "Synonyms: pietistical"]}
