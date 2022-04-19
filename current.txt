@@ -1,1 +1,1 @@
-{"data": ["2022-04-19T01:01:31.176348+00:00", 1785, "Your mother is", "viricidal", "", "Definition: tending to destroy viruses", "Synonyms: virucidal"]}
+{"data": ["2022-04-19T02:00:46.617210+00:00", 1786, "Your mother is", "nasal", "Pronunciation: /\u02c8ne\u026az\u0259l/", "Definition: sounding as if the nose were pinched", "Synonyms: adenoidal, pinched"]}
