@@ -1,1 +1,1 @@
-{"data": ["2022-04-19T23:01:17.220392+00:00", 1807, "Your mother is", "red-flowered", "Pronunciation: /r\u025bd-\u02c8fla\u028a\u0259rd/", "Definition: having red flowers", ""]}
+{"data": ["2022-04-20T00:02:06.261308+00:00", 1808, "Your mother is", "pantropical", "Pronunciation: /p\u00e6n\u02c8tr\u0251p\u026ak\u0259l/", "Definition: distributed throughout the tropics", "Synonyms: pantropic"]}
