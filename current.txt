@@ -1,1 +1,1 @@
-{"data": ["2022-04-20T08:49:08.689222+00:00", 1816, "Your mother is", "adopted", "Pronunciation: /\u028c\u02c8d\u0251pt\u028cd/", "Definition: acquired as your own by free choice", "Synonyms: adoptive"]}
+{"data": ["2022-04-20T09:56:39.430913+00:00", 1817, "Your mother is", "microcrystalline", "Pronunciation: /\u02ccma\u026akro\u028a\u02c8kr\u026ast\u0259l\u026an/", "Definition: containing crystals that are visible only under a microscope", ""]}
