@@ -1,1 +1,1 @@
-{"data": ["2022-04-20T13:17:13.166136+00:00", 1820, "Your mother is", "investigatory", "Pronunciation: /\u026an\u02c8v\u025bst\u0259\u0261\u0259\u02ccto\u028ari/", "Definition: designed to find information or ascertain facts", "Synonyms: fact-finding, investigative"]}
+{"data": ["2022-04-20T14:24:29.809257+00:00", 1821, "Your mother is", "swarthy", "Pronunciation: /\u02c8sw\u0254r\u00f0i/", "Definition: naturally having skin of a dark color", "Synonyms: dark-skinned, dusky, swart"]}
