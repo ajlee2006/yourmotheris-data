@@ -1,1 +1,1 @@
-{"data": ["2022-04-20T07:44:36.607346+00:00", 1815, "Your mother is", "acerate", "Pronunciation: /\u02c8\u00e6s\u0259\u02c8re\u026at/", "Definition: narrow and long and pointed; as pine leaves", "Synonyms: acerose, acicular, needle-shaped"]}
+{"data": ["2022-04-20T08:49:08.689222+00:00", 1816, "Your mother is", "adopted", "Pronunciation: /\u028c\u02c8d\u0251pt\u028cd/", "Definition: acquired as your own by free choice", "Synonyms: adoptive"]}
