@@ -1,1 +1,1 @@
-{"data": ["2022-04-20T11:01:18.387398+00:00", 1818, "Your mother is", "adolescent", "Pronunciation: /\u02cc\u00e6d\u02c8\u0259l\u025bs\u0259nt/", "Definition: displaying or suggesting a lack of maturity", "Synonyms: jejune, juvenile, puerile"]}
+{"data": ["2022-04-20T12:09:38.405967+00:00", 1819, "Your mother is", "unplanted", "Pronunciation: /\u0259n\u02c8pl\u0251nt\u026ad/", "Definition: not planted", ""]}
