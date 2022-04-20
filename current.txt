@@ -1,1 +1,1 @@
-{"data": ["2022-04-20T19:48:30.740854+00:00", 1826, "Your mother is", "black", "Pronunciation: /bl\u00e6k/", "Definition: (used of conduct or character) deserving or bringing disgrace or shame", "Synonyms: disgraceful, ignominious, inglorious, opprobrious, shameful"]}
+{"data": ["2022-04-20T20:53:21.782601+00:00", 1827, "Your mother is", "trifid", "Pronunciation: /\u02c8tra\u026af\u026ad/", "Definition: divided into three lobes", ""]}
