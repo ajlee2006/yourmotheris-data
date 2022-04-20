@@ -1,1 +1,1 @@
-{"data": ["2022-04-20T12:09:38.405967+00:00", 1819, "Your mother is", "unplanted", "Pronunciation: /\u0259n\u02c8pl\u0251nt\u026ad/", "Definition: not planted", ""]}
+{"data": ["2022-04-20T13:17:13.166136+00:00", 1820, "Your mother is", "investigatory", "Pronunciation: /\u026an\u02c8v\u025bst\u0259\u0261\u0259\u02ccto\u028ari/", "Definition: designed to find information or ascertain facts", "Synonyms: fact-finding, investigative"]}
