@@ -1,1 +1,1 @@
-{"data": ["2022-04-20T01:09:43.381922+00:00", 1809, "Your mother is", "eighty", "Pronunciation: /\u02c8e\u026ati/", "Definition: being ten more than seventy", "Synonyms: 80, fourscore, lxxx"]}
+{"data": ["2022-04-20T02:16:40.104306+00:00", 1810, "Your mother is", "pretended", "Pronunciation: /pr\u026a\u02c8t\u025bnd\u026ad/", "Definition: adopted in order to deceive", "Synonyms: assumed, false, fictitious, fictive, put on, sham"]}
