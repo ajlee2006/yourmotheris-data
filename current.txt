@@ -1,1 +1,1 @@
-{"data": ["2022-04-20T05:32:57.880586+00:00", 1813, "Your mother is", "stratified", "Pronunciation: /\u02c8str\u00e6t\u028c\u02ccfa\u026ad/", "Definition: arranged in a sequence of grades or ranks", "Synonyms: graded, ranked"]}
+{"data": ["2022-04-20T06:37:02.280425+00:00", 1814, "Your mother is", "moneyless", "Pronunciation: /\u02c8m\u028cnil\u026as/", "Definition: having no money", ""]}
