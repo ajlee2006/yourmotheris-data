@@ -1,1 +1,1 @@
-{"data": ["2022-04-20T15:28:12.730885+00:00", 1822, "Your mother is", "tree-living", "Pronunciation: /tri-\u02c8l\u026av\u026a\u014b/", "Definition: inhabiting or frequenting trees", "Synonyms: arboreal, arboreous"]}
+{"data": ["2022-04-20T16:32:19.872342+00:00", 1823, "Your mother is", "open-ended", "Similar to: indeterminate", "Definition: allowing for a spontaneous response", ""]}
