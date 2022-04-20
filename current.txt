@@ -1,1 +1,1 @@
-{"data": ["2022-04-20T04:24:15.704273+00:00", 1812, "Your mother is", "official", "Pronunciation: /\u0259\u02c8f\u026a\u0283\u0259l/", "Definition: conforming to set usage, procedure, or discipline", "Synonyms: prescribed"]}
+{"data": ["2022-04-20T05:32:57.880586+00:00", 1813, "Your mother is", "stratified", "Pronunciation: /\u02c8str\u00e6t\u028c\u02ccfa\u026ad/", "Definition: arranged in a sequence of grades or ranks", "Synonyms: graded, ranked"]}
