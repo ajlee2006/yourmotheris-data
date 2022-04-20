@@ -1,1 +1,1 @@
-{"data": ["2022-04-20T14:24:29.809257+00:00", 1821, "Your mother is", "swarthy", "Pronunciation: /\u02c8sw\u0254r\u00f0i/", "Definition: naturally having skin of a dark color", "Synonyms: dark-skinned, dusky, swart"]}
+{"data": ["2022-04-20T15:28:12.730885+00:00", 1822, "Your mother is", "tree-living", "Pronunciation: /tri-\u02c8l\u026av\u026a\u014b/", "Definition: inhabiting or frequenting trees", "Synonyms: arboreal, arboreous"]}
