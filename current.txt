@@ -1,1 +1,1 @@
-{"data": ["2022-04-21T22:01:31.732961+00:00", 1852, "Your mother is", "xi", "Pronunciation: /za\u026a/", "Definition: being one more than ten", "Synonyms: 11, eleven"]}
+{"data": ["2022-04-21T23:02:18.461798+00:00", 1853, "Your mother is", "whimsical", "Pronunciation: /\u02c8hw\u026amz\u026ak\u0259l/", "Definition: determined by chance or impulse or whim rather than by necessity or reason", "Synonyms: capricious, impulsive"]}
