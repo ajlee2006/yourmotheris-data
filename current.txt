@@ -1,1 +1,1 @@
-{"data": ["2022-04-21T05:01:11.446745+00:00", 1835, "Your mother is", "penurious", "Pronunciation: /p\u026a\u02c8nj\u028a\u0259ri\u0259s/", "Definition: not having enough money to pay for necessities", "Synonyms: hard up, impecunious, in straitened circumstances, penniless, pinched"]}
+{"data": ["2022-04-21T06:02:07.308959+00:00", 1836, "Your mother is", "protanopic", "Pronunciation: /\u02ccpro\u028at\u02c8\u0259n\u0251p\u026ak/", "Definition: inability to see the color red or to distinguish red and bluish-green", "Synonyms: red-blind"]}
