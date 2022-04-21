@@ -1,1 +1,1 @@
-{"data": ["2022-04-21T02:02:06.901349+00:00", 1832, "Your mother is", "irrelevant", "Pronunciation: /\u026a\u02c8r\u025bl\u0259v\u0259nt/", "Definition: having no bearing on or connection with the subject at issue", ""]}
+{"data": ["2022-04-21T03:00:59.690974+00:00", 1833, "Your mother is", "circumboreal", "Similar to: northern", "Definition: comprising or throughout far northern regions", "Synonyms: boreal"]}
