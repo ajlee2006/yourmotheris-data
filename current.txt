@@ -1,1 +1,1 @@
-{"data": ["2022-04-21T19:00:34.325948+00:00", 1849, "Your mother is", "thermonuclear", "Pronunciation: /\u02cc\u03b8\u025crmo\u028a\u02c8nukli\u0259r/", "Definition: using nuclear weapons based on fusion as distinguished from fission", ""]}
+{"data": ["2022-04-21T20:01:04.343646+00:00", 1850, "Your mother is", "sub judice", "Pronunciation: /s\u0259b-\u02c8d\u0292ud\u026a\u02ccsi/", "Definition: before a judge or court of law; awaiting judicial determination", ""]}
