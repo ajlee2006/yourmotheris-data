@@ -1,1 +1,1 @@
-{"data": ["2022-04-21T18:00:57.742553+00:00", 1848, "Your mother is", "plangent", "Pronunciation: /\u02c8pl\u00e6nd\u0292\u0259nt/", "Definition: loud and resounding", ""]}
+{"data": ["2022-04-21T19:00:34.325948+00:00", 1849, "Your mother is", "thermonuclear", "Pronunciation: /\u02cc\u03b8\u025crmo\u028a\u02c8nukli\u0259r/", "Definition: using nuclear weapons based on fusion as distinguished from fission", ""]}
