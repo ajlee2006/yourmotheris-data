@@ -1,1 +1,1 @@
-{"data": ["2022-04-21T17:00:31.736427+00:00", 1847, "Your mother is", "overdelicate", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8d\u025bl\u0259k\u026at/", "Definition: extremely delicate", ""]}
+{"data": ["2022-04-21T18:00:57.742553+00:00", 1848, "Your mother is", "plangent", "Pronunciation: /\u02c8pl\u00e6nd\u0292\u0259nt/", "Definition: loud and resounding", ""]}
