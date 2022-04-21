@@ -1,1 +1,1 @@
-{"data": ["2022-04-21T20:01:04.343646+00:00", 1850, "Your mother is", "sub judice", "Pronunciation: /s\u0259b-\u02c8d\u0292ud\u026a\u02ccsi/", "Definition: before a judge or court of law; awaiting judicial determination", ""]}
+{"data": ["2022-04-21T21:01:18.714705+00:00", 1851, "Your mother is", "glassless", "", "Definition: not furnished with glass", "Synonyms: unglazed"]}
