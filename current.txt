@@ -1,1 +1,1 @@
-{"data": ["2022-04-21T15:01:08.710203+00:00", 1845, "Your mother is", "bandaged", "Pronunciation: /\u02c8b\u00e6nd\u028cd\u0292d/", "Definition: covered or wrapped with a bandage", "Synonyms: bound"]}
+{"data": ["2022-04-21T16:02:05.712435+00:00", 1846, "Your mother is", "four-dimensional", "Pronunciation: /\u02c8fo\u028ard\u026a\u02c8m\u025bn\u0283\u0259n\u0259l/", "Definition: involving or relating to the fourth dimension or time", "Synonyms: 4-dimensional"]}
