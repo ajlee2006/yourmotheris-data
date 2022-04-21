@@ -1,1 +1,1 @@
-{"data": ["2022-04-21T06:02:07.308959+00:00", 1836, "Your mother is", "protanopic", "Pronunciation: /\u02ccpro\u028at\u02c8\u0259n\u0251p\u026ak/", "Definition: inability to see the color red or to distinguish red and bluish-green", "Synonyms: red-blind"]}
+{"data": ["2022-04-21T07:00:47.766708+00:00", 1837, "Your mother is", "moss-grown", "Pronunciation: /m\u0254s-gro\u028an/", "Definition: (used pejoratively) out of fashion; old fashioned", "Synonyms: fogyish, mossy, stick-in-the-mud, stodgy"]}
