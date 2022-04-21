@@ -1,1 +1,1 @@
-{"data": ["2022-04-21T13:00:59.309837+00:00", 1843, "Your mother is", "unsaved", "Pronunciation: /\u0259n\u02c8se\u026avd/", "Definition: in danger of the eternal punishment of Hell", "Synonyms: cursed, damned, doomed, unredeemed"]}
+{"data": ["2022-04-21T14:00:36.475181+00:00", 1844, "Your mother is", "nonhierarchical", "Similar to: ungraded", "Definition: not classified hierarchically", "Synonyms: nonhierarchic"]}
