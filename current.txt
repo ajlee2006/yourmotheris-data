@@ -1,1 +1,1 @@
-{"data": ["2022-04-21T16:02:05.712435+00:00", 1846, "Your mother is", "four-dimensional", "Pronunciation: /\u02c8fo\u028ard\u026a\u02c8m\u025bn\u0283\u0259n\u0259l/", "Definition: involving or relating to the fourth dimension or time", "Synonyms: 4-dimensional"]}
+{"data": ["2022-04-21T17:00:31.736427+00:00", 1847, "Your mother is", "overdelicate", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8d\u025bl\u0259k\u026at/", "Definition: extremely delicate", ""]}
