@@ -1,1 +1,1 @@
-{"data": ["2022-04-21T10:00:36.063128+00:00", 1840, "Your mother is", "thriving", "Pronunciation: /\u02c8\u03b8ra\u026av\u026a\u014b/", "Definition: very lively and profitable", "Synonyms: booming, flourishing, palmy, prospering, prosperous, roaring"]}
+{"data": ["2022-04-21T11:00:56.787761+00:00", 1841, "Your mother is", "adrift", "Pronunciation: /\u0259\u02c8dr\u026aft/", "Definition: aimlessly drifting", "Synonyms: afloat, aimless, directionless, planless, rudderless, undirected"]}
