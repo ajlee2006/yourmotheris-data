@@ -1,1 +1,1 @@
-{"data": ["2022-04-21T14:00:36.475181+00:00", 1844, "Your mother is", "nonhierarchical", "Similar to: ungraded", "Definition: not classified hierarchically", "Synonyms: nonhierarchic"]}
+{"data": ["2022-04-21T15:01:08.710203+00:00", 1845, "Your mother is", "bandaged", "Pronunciation: /\u02c8b\u00e6nd\u028cd\u0292d/", "Definition: covered or wrapped with a bandage", "Synonyms: bound"]}
