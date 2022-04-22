@@ -1,1 +1,1 @@
-{"data": ["2022-04-22T10:00:16.205623+00:00", 1864, "Your mother is", "saccharine", "Pronunciation: /\u02c8s\u00e6k\u0259r\u026an/", "Definition: overly sweet", "Synonyms: cloying, syrupy, treacly"]}
+{"data": ["2022-04-22T11:00:29.352381+00:00", 1865, "Your mother is", "prior", "Pronunciation: /\u02c8pra\u026a\u0259r/", "Definition: earlier in time", "Synonyms: anterior"]}
