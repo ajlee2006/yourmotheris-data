@@ -1,1 +1,1 @@
-{"data": ["2022-04-22T09:00:39.272016+00:00", 1863, "Your mother is", "antitumor", "", "Definition: used in the treatment of cancer", "Synonyms: anticancer, antineoplastic, antitumour"]}
+{"data": ["2022-04-22T10:00:16.205623+00:00", 1864, "Your mother is", "saccharine", "Pronunciation: /\u02c8s\u00e6k\u0259r\u026an/", "Definition: overly sweet", "Synonyms: cloying, syrupy, treacly"]}
