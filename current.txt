@@ -1,1 +1,1 @@
-{"data": ["2022-04-22T18:01:15.010013+00:00", 1872, "Your mother is", "seaward", "Pronunciation: /\u02c8siw\u0259rd/", "Definition: (of winds) coming from the land", "Synonyms: offshore"]}
+{"data": ["2022-04-22T19:01:27.369496+00:00", 1873, "Your mother is", "150", "Similar to: cardinal", "Definition: being ten more than one hundred forty", "Synonyms: cl, one hundred fifty"]}
