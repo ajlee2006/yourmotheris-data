@@ -1,1 +1,1 @@
-{"data": ["2022-04-22T00:01:26.933194+00:00", 1854, "Your mother is", "notched", "Pronunciation: /n\u0251t\u0283t/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: erose, jagged, jaggy, toothed"]}
+{"data": ["2022-04-22T01:01:09.877738+00:00", 1855, "Your mother is", "tail-shaped", "Similar to: caudate", "Definition: shaped like the tail of an animal", ""]}
