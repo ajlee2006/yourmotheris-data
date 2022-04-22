@@ -1,1 +1,1 @@
-{"data": ["2022-04-22T06:00:51.756792+00:00", 1860, "Your mother is", "au fait", "Pronunciation: /o\u028a-\u02c8f\u025b/", "Definition: being up to particular standard or level especially in being up to date in knowledge", "Synonyms: abreast, au courant, up on"]}
+{"data": ["2022-04-22T07:01:03.551422+00:00", 1861, "Your mother is", "single-barrelled", "", "Definition: having one barrel", "Synonyms: single-barreled"]}
