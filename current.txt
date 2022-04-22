@@ -1,1 +1,1 @@
-{"data": ["2022-04-22T12:01:11.786174+00:00", 1866, "Your mother is", "wash-and-wear", "Similar to: washable", "Definition: treated so as to be easily or quickly washed and dried and requiring little or no ironing", "Synonyms: drip-dry"]}
+{"data": ["2022-04-22T13:01:11.751481+00:00", 1867, "Your mother is", "forceful", "Pronunciation: /\u02c8fo\u028arsf\u0259l/", "Definition: forceful and definite in expression or action", "Synonyms: emphatic"]}
