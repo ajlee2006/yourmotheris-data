@@ -1,1 +1,1 @@
-{"data": ["2022-04-22T07:01:03.551422+00:00", 1861, "Your mother is", "single-barrelled", "", "Definition: having one barrel", "Synonyms: single-barreled"]}
+{"data": ["2022-04-22T08:00:30.355745+00:00", 1862, "Your mother is", "ill-proportioned", "Pronunciation: /\u026al-pr\u0259\u02c8po\u028ar\u0283\u0259nd/", "Definition: lacking pleasing proportions", ""]}
