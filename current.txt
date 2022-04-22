@@ -1,1 +1,1 @@
-{"data": ["2022-04-22T13:01:11.751481+00:00", 1867, "Your mother is", "forceful", "Pronunciation: /\u02c8fo\u028arsf\u0259l/", "Definition: forceful and definite in expression or action", "Synonyms: emphatic"]}
+{"data": ["2022-04-22T14:00:44.255922+00:00", 1868, "Your mother is", "unpromising", "Pronunciation: /\u0259n\u02c8pr\u0251m\u026as\u026a\u014b/", "Definition: unlikely to bring about favorable results or enjoyment", ""]}
