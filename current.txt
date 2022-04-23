@@ -1,1 +1,1 @@
-{"data": ["2022-04-23T22:01:15.395829+00:00", 1897, "Your mother is", "unbraced", "Similar to: unsupported", "Definition: without braces or props", ""]}
+{"data": ["2022-04-23T23:00:51.387237+00:00", 1898, "Your mother is", "competitive", "Pronunciation: /k\u0259m\u02c8p\u025bt\u026at\u026av/", "Definition: involving competition or competitiveness", "Synonyms: competitory"]}
