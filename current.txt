@@ -1,1 +1,1 @@
-{"data": ["2022-04-23T11:00:27.601938+00:00", 1886, "Your mother is", "reverend", "Pronunciation: /\u02c8r\u025bv\u0259r\u0259nd/", "Definition: worthy of adoration or reverence", "Synonyms: sublime"]}
+{"data": ["2022-04-23T12:01:24.609006+00:00", 1887, "Your mother is", "veritable", "Pronunciation: /\u02c8v\u025br\u026at\u0259b\u0259l/", "Definition: often used as intensifiers", "Synonyms: regular"]}
