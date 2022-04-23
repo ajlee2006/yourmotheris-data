@@ -1,1 +1,1 @@
-{"data": ["2022-04-23T07:00:57.266646+00:00", 1882, "Your mother is", "mitigable", "Similar to: placable", "Definition: capable of being alleviated", ""]}
+{"data": ["2022-04-23T08:01:22.933517+00:00", 1883, "Your mother is", "single-handed", "Pronunciation: /\u02c8s\u026a\u014b\u0261\u0259l-\u02c8h\u00e6nd\u026ad/", "Definition: unsupported by other people", "Synonyms: unassisted, unbacked"]}
