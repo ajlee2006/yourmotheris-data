@@ -1,1 +1,1 @@
-{"data": ["2022-04-23T15:01:25.007422+00:00", 1890, "Your mother is", "refrigerated", "Pronunciation: /r\u026a\u02c8fr\u026ad\u0292\u025dr\u02cce\u026at\u026ad/", "Definition: made or kept cold by refrigeration", ""]}
+{"data": ["2022-04-23T16:01:30.574530+00:00", 1891, "Your mother is", "combinational", "Similar to: combinative", "Definition: able to or tending to combine", "Synonyms: combinable, combinatory"]}
