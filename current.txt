@@ -1,1 +1,1 @@
-{"data": ["2022-04-23T14:01:09.161995+00:00", 1889, "Your mother is", "ultimate", "Pronunciation: /\u02c8\u0259lt\u0259m\u026at/", "Definition: being the last or concluding element of a series", ""]}
+{"data": ["2022-04-23T15:01:25.007422+00:00", 1890, "Your mother is", "refrigerated", "Pronunciation: /r\u026a\u02c8fr\u026ad\u0292\u025dr\u02cce\u026at\u026ad/", "Definition: made or kept cold by refrigeration", ""]}
