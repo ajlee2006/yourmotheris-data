@@ -1,1 +1,1 @@
-{"data": ["2022-04-23T20:00:38.444701+00:00", 1895, "Your mother is", "cogitative", "Pronunciation: /\u02c8k\u0251d\u0292\u026a\u02ccte\u026at\u026av/", "Definition: given to cogitation", ""]}
+{"data": ["2022-04-23T21:00:26.030942+00:00", 1896, "Your mother is", "dark-spotted", "Similar to: patterned", "Definition: having dark spots", ""]}
