@@ -1,1 +1,1 @@
-{"data": ["2022-04-23T05:01:30.041439+00:00", 1880, "Your mother is", "in stock", "Similar to: available", "Definition: available for use or sale", ""]}
+{"data": ["2022-04-23T06:01:31.861653+00:00", 1881, "Your mother is", "52", "Similar to: cardinal", "Definition: being two more than fifty", "Synonyms: fifty-two, lii"]}
