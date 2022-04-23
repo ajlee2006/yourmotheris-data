@@ -1,1 +1,1 @@
-{"data": ["2022-04-22T22:01:36.360185+00:00", 1876, "Your mother is", "thirty", "Pronunciation: /\u02c8\u03b8\u025crti/", "Definition: being ten more than twenty", "Synonyms: 30, xxx"]}
+{"data": ["2022-04-23T01:00:44.905699+00:00", 1877, "Your mother is", "ebon", "Pronunciation: /\u02c8\u025bb\u0259n/", "Definition: of a very dark black", "Synonyms: ebony"]}
