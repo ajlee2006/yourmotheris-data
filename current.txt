@@ -1,1 +1,1 @@
-{"data": ["2022-04-23T12:01:24.609006+00:00", 1887, "Your mother is", "veritable", "Pronunciation: /\u02c8v\u025br\u026at\u0259b\u0259l/", "Definition: often used as intensifiers", "Synonyms: regular"]}
+{"data": ["2022-04-23T13:00:39.078525+00:00", 1888, "Your mother is", "smudgy", "Pronunciation: /\u02c8sm\u0259d\u0292i/", "Definition: smeared with something that soils or stains; these words are often used in combination", ""]}
