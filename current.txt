@@ -1,1 +1,1 @@
-{"data": ["2022-04-23T03:01:33.777360+00:00", 1878, "Your mother is", "carpetbag", "Pronunciation: /\u02c8k\u0251rp\u026at\u02ccb\u00e6\u0261/", "Definition: presumptuously seeking success or a position in a new locality", "Synonyms: carpetbagging"]}
+{"data": ["2022-04-23T04:01:33.025608+00:00", 1879, "Your mother is", "unmodernized", "Similar to: regressive", "Definition: not brought up to date", "Synonyms: unmodernised"]}
