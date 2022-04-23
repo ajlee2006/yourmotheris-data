@@ -1,1 +1,1 @@
-{"data": ["2022-04-23T10:01:03.398544+00:00", 1885, "Your mother is", "alterable", "Pronunciation: /\u02c8\u0254lt\u0259r\u0259b\u0259l/", "Definition: (of the punishment ordered by a court) capable of being changed to one less severe", ""]}
+{"data": ["2022-04-23T11:00:27.601938+00:00", 1886, "Your mother is", "reverend", "Pronunciation: /\u02c8r\u025bv\u0259r\u0259nd/", "Definition: worthy of adoration or reverence", "Synonyms: sublime"]}
