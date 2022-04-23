@@ -1,1 +1,1 @@
-{"data": ["2022-04-23T19:01:29.971018+00:00", 1894, "Your mother is", "bonkers", "Pronunciation: /\u02c8b\u0251\u014bk\u0259rz/", "Definition: informal or slang terms for mentally irregular", "Synonyms: around the bend, balmy, barmy, bats, batty, buggy, cracked, crackers, daft, dotty, fruity, haywire, kookie, kooky, loco, loony, loopy, nuts, nutty, round the bend, wacky, whacky"]}
+{"data": ["2022-04-23T20:00:38.444701+00:00", 1895, "Your mother is", "cogitative", "Pronunciation: /\u02c8k\u0251d\u0292\u026a\u02ccte\u026at\u026av/", "Definition: given to cogitation", ""]}
