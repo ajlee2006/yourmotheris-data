@@ -1,1 +1,1 @@
-{"data": ["2022-04-23T17:00:23.701902+00:00", 1892, "Your mother is", "mouldy", "Pronunciation: /\u02c8mo\u028aldi/", "Definition: covered with or smelling of mold", "Synonyms: moldy, musty"]}
+{"data": ["2022-04-23T18:00:49.541011+00:00", 1893, "Your mother is", "ghanian", "Pronunciation: /\u02c8\u0261\u0251ni\u0259n/", "Definition: of or relating to or characteristic of Ghana or its people or language", "Synonyms: ghanaian, ghanese"]}
