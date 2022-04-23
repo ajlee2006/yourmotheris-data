@@ -1,1 +1,1 @@
-{"data": ["2022-04-23T13:00:39.078525+00:00", 1888, "Your mother is", "smudgy", "Pronunciation: /\u02c8sm\u0259d\u0292i/", "Definition: smeared with something that soils or stains; these words are often used in combination", ""]}
+{"data": ["2022-04-23T14:01:09.161995+00:00", 1889, "Your mother is", "ultimate", "Pronunciation: /\u02c8\u0259lt\u0259m\u026at/", "Definition: being the last or concluding element of a series", ""]}
