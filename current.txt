@@ -1,1 +1,1 @@
-{"data": ["2022-04-24T19:01:24.235394+00:00", 1918, "Your mother is", "footloose", "Pronunciation: /\u02c8f\u028at\u02ccl\u028as/", "Definition: free to go or do as one pleases", ""]}
+{"data": ["2022-04-24T20:00:40.471609+00:00", 1919, "Your mother is", "non-buoyant", "Similar to: heavy", "Definition: tending to sink in a liquid or fall in air", ""]}
