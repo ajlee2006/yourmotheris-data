@@ -1,1 +1,1 @@
-{"data": ["2022-04-24T01:01:30.324739+00:00", 1900, "Your mother is", "unsolicited", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8l\u026as\u026at\u026ad/", "Definition: not requested or sought", "Synonyms: unasked-for"]}
+{"data": ["2022-04-24T02:01:28.971173+00:00", 1901, "Your mother is", "supernaturalist", "", "Definition: of or relating to supernaturalism", "Synonyms: supernaturalistic"]}
