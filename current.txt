@@ -1,1 +1,1 @@
-{"data": ["2022-04-24T08:01:31.461696+00:00", 1907, "Your mother is", "third-rate", "Pronunciation: /\u03b8\u025crd-re\u026at/", "Definition: of lesser quality than second-rate", ""]}
+{"data": ["2022-04-24T09:01:31.426051+00:00", 1908, "Your mother is", "savoury", "Pronunciation: /\u02c8se\u026av\u0259ri/", "Definition: pleasing to the sense of taste", "Synonyms: mouth-watering, savory"]}
