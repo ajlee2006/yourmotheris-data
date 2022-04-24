@@ -1,1 +1,1 @@
-{"data": ["2022-04-24T15:01:34.580141+00:00", 1914, "Your mother is", "jovial", "Pronunciation: /\u02c8d\u0292o\u028avi\u0259l/", "Definition: full of or showing high-spirited merriment", "Synonyms: gay, jocund, jolly, merry, mirthful"]}
+{"data": ["2022-04-24T16:01:31.519377+00:00", 1915, "Your mother is", "contemptible", "Pronunciation: /k\u0259n\u02c8t\u025bmpt\u0259b\u0259l/", "Definition: deserving of contempt or scorn", ""]}
