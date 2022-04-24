@@ -1,1 +1,1 @@
-{"data": ["2022-04-24T02:01:28.971173+00:00", 1901, "Your mother is", "supernaturalist", "", "Definition: of or relating to supernaturalism", "Synonyms: supernaturalistic"]}
+{"data": ["2022-04-24T03:00:18.329744+00:00", 1902, "Your mother is", "dreadful", "Pronunciation: /\u02c8dr\u025bdf\u0259l/", "Definition: causing fear or dread or terror", "Synonyms: awful, dire, direful, dread, dreaded, fearful, fearsome, frightening, horrendous, horrific, terrible"]}
