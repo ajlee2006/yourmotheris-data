@@ -1,1 +1,1 @@
-{"data": ["2022-04-24T13:01:32.631713+00:00", 1912, "Your mother is", "delphian", "Pronunciation: /\u02c8d\u025blfi\u0259n/", "Definition: of or relating to Delphi or to the oracles of Apollo at Delphi", "Synonyms: delphic"]}
+{"data": ["2022-04-24T14:00:42.578211+00:00", 1913, "Your mother is", "traumatic", "Pronunciation: /tr\u0259\u02c8m\u00e6t\u026ak/", "Definition: psychologically painful", ""]}
