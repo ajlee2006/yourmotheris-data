@@ -1,1 +1,1 @@
-{"data": ["2022-04-24T04:00:58.833375+00:00", 1903, "Your mother is", "lentissimo", "Pronunciation: /l\u025bn\u02c8t\u026as\u0259\u02ccmo\u028a/", "Definition: (of tempo) very slow", ""]}
+{"data": ["2022-04-24T05:00:15.830852+00:00", 1904, "Your mother is", "palmar", "Pronunciation: /\u02c8p\u00e6lm\u0259r/", "Definition: relating to the palm of the hand or the sole of the foot", "Synonyms: volar"]}
