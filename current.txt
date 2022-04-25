@@ -1,1 +1,1 @@
-{"data": ["2022-04-25T10:01:15.877000+00:00", 1933, "Your mother is", "strengthened", "Pronunciation: /\u02c8str\u025b\u014b\u03b8\u028cnd/", "Definition: given added strength or support", "Synonyms: reinforced"]}
+{"data": ["2022-04-25T11:00:17.305824+00:00", 1934, "Your mother is", "prognosticative", "Pronunciation: /\u02ccpr\u0251\u0261\u02c8n\u0251st\u028c\u02ccke\u026at\u026av/", "Definition: of or relating to prediction; having value for making predictions", "Synonyms: predictive, prognostic"]}
