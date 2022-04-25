@@ -1,1 +1,1 @@
-{"data": ["2022-04-25T02:01:23.024155+00:00", 1925, "Your mother is", "arcuate", "Pronunciation: /\u02c8\u0251rkju\u026at/", "Definition: forming or resembling an arch", "Synonyms: arced, arched, arching, arciform, bowed"]}
+{"data": ["2022-04-25T03:01:22.901913+00:00", 1926, "Your mother is", "equiprobable", "Pronunciation: /\u02ccikw\u0259\u02c8pr\u0251b\u0259b\u0259l/", "Definition: equally probable", ""]}
