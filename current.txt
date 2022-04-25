@@ -1,1 +1,1 @@
-{"data": ["2022-04-25T09:00:42.863947+00:00", 1932, "Your mother is", "bristly", "Pronunciation: /\u02c8brisli/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristled, burred, burry, prickly, setaceous, setose, spiny, thorny"]}
+{"data": ["2022-04-25T10:01:15.877000+00:00", 1933, "Your mother is", "strengthened", "Pronunciation: /\u02c8str\u025b\u014b\u03b8\u028cnd/", "Definition: given added strength or support", "Synonyms: reinforced"]}
