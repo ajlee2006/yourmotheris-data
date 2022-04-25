@@ -1,1 +1,1 @@
-{"data": ["2022-04-25T17:01:07.456620+00:00", 1940, "Your mother is", "fifty", "Pronunciation: /\u02c8f\u026afti/", "Definition: being ten more than forty", "Synonyms: 50, l"]}
+{"data": ["2022-04-25T18:01:25.742871+00:00", 1941, "Your mother is", "categoric", "", "Definition: relating to or included in a category or categories", "Synonyms: categorical"]}
