@@ -1,1 +1,1 @@
-{"data": ["2022-04-25T18:01:25.742871+00:00", 1941, "Your mother is", "categoric", "", "Definition: relating to or included in a category or categories", "Synonyms: categorical"]}
+{"data": ["2022-04-25T19:00:18.901180+00:00", 1942, "Your mother is", "unperceived", "Pronunciation: /\u02cc\u0259np\u0259\u02c8sivd/", "Definition: not perceived or commented on", "Synonyms: unremarked"]}
