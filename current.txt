@@ -1,1 +1,1 @@
-{"data": ["2022-04-25T06:00:46.535561+00:00", 1929, "Your mother is", "tangential", "Pronunciation: /t\u00e6n\u02c8d\u0292\u025bn\u0283\u0259l/", "Definition: of superficial relevance if any", "Synonyms: digressive"]}
+{"data": ["2022-04-25T07:00:56.809506+00:00", 1930, "Your mother is", "allochronic", "Similar to: asynchronous", "Definition: (of taxa) occurring in different geologic times", ""]}
