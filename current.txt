@@ -1,1 +1,1 @@
-{"data": ["2022-04-25T19:00:18.901180+00:00", 1942, "Your mother is", "unperceived", "Pronunciation: /\u02cc\u0259np\u0259\u02c8sivd/", "Definition: not perceived or commented on", "Synonyms: unremarked"]}
+{"data": ["2022-04-25T20:00:19.130741+00:00", 1943, "Your mother is", "reflected", "Pronunciation: /r\u028c\u02c8fl\u025bkt\u028cd/", "Definition: (especially of incident sound or light) bent or sent back", ""]}
