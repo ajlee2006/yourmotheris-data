@@ -1,1 +1,1 @@
-{"data": ["2022-04-25T12:01:00.467137+00:00", 1935, "Your mother is", "caulescent", "Pronunciation: /k\u0254\u02c8l\u025bs\u0259nt/", "Definition: (of plants) producing a well-developed stem above ground", "Synonyms: cauline, stemmed"]}
+{"data": ["2022-04-25T13:01:22.403118+00:00", 1936, "Your mother is", "cormous", "", "Definition: having or producing corms", "Synonyms: cormose"]}
