@@ -1,1 +1,1 @@
-{"data": ["2022-04-25T00:01:55.415539+00:00", 1923, "Your mother is", "aplanatic", "Pronunciation: /\u02cc\u00e6pl\u0259\u02c8n\u00e6t\u026ak/", "Definition: free from or corrected for spherical aberration", ""]}
+{"data": ["2022-04-25T01:00:53.527834+00:00", 1924, "Your mother is", "failing", "Pronunciation: /\u02c8fe\u026al\u026a\u014b/", "Definition: below acceptable in performance", ""]}
