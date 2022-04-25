@@ -1,1 +1,1 @@
-{"data": ["2022-04-25T08:00:51.273844+00:00", 1931, "Your mother is", "fastened", "Pronunciation: /\u02c8f\u00e6s\u028cnd/", "Definition: furnished or closed with buttons or something buttonlike", "Synonyms: buttoned"]}
+{"data": ["2022-04-25T09:00:42.863947+00:00", 1932, "Your mother is", "bristly", "Pronunciation: /\u02c8brisli/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristled, burred, burry, prickly, setaceous, setose, spiny, thorny"]}
