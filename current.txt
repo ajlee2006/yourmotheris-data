@@ -1,1 +1,1 @@
-{"data": ["2022-04-26T22:01:26.043694+00:00", 1966, "Your mother is", "unwashed", "Pronunciation: /\u0259n\u02c8w\u0251\u0283t/", "Definition: of or associated with the great masses of people", "Synonyms: common, plebeian, vulgar"]}
+{"data": ["2022-04-26T23:00:46.582751+00:00", 1967, "Your mother is", "provisory", "Pronunciation: /pr\u0259\u02c8va\u026az\u0259ri/", "Definition: subject to a proviso", ""]}
