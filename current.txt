@@ -1,1 +1,1 @@
-{"data": ["2022-04-26T20:01:19.375180+00:00", 1964, "Your mother is", "dog-sized", "Similar to: sized", "Definition: having the approximate size of an average dog", ""]}
+{"data": ["2022-04-26T21:00:17.219339+00:00", 1965, "Your mother is", "threefold", "Pronunciation: /\u02c8\u03b8ri\u02ccfo\u028ald/", "Definition: having more than one decidedly dissimilar aspects or qualities", "Synonyms: double, dual, three-fold, treble, two-fold, twofold"]}
