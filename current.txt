@@ -1,1 +1,1 @@
-{"data": ["2022-04-26T18:00:16.070350+00:00", 1962, "Your mother is", "12th", "Similar to: ordinal", "Definition: coming next after the eleventh and just before the thirteenth in position", "Synonyms: twelfth"]}
+{"data": ["2022-04-26T19:00:42.428469+00:00", 1963, "Your mother is", "binucleated", "", "Definition: having two nuclei", "Synonyms: binuclear, binucleate"]}
