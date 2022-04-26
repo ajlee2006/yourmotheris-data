@@ -1,1 +1,1 @@
-{"data": ["2022-04-25T23:01:32.196341+00:00", 1946, "Your mother is", "all-metal", "Pronunciation: /\u0254l-\u02c8m\u025bt\u0259l/", "Definition: consisting completely of metal", ""]}
+{"data": ["2022-04-26T00:02:12.689907+00:00", 1947, "Your mother is", "reflected", "Pronunciation: /r\u028c\u02c8fl\u025bkt\u028cd/", "Definition: (especially of incident sound or light) bent or sent back", ""]}
