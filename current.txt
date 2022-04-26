@@ -1,1 +1,1 @@
-{"data": ["2022-04-26T08:00:58.795981+00:00", 1952, "Your mother is", "magnificent", "Pronunciation: /m\u00e6\u0261\u02c8n\u026af\u026as\u0259nt/", "Definition: characterized by grandeur", "Synonyms: brilliant, glorious, splendid"]}
+{"data": ["2022-04-26T09:00:45.210825+00:00", 1953, "Your mother is", "formalised", "", "Definition: concerned with or characterized by rigorous adherence to recognized forms (especially in religion or art)", "Synonyms: formalistic, formalized"]}
