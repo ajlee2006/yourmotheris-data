@@ -1,1 +1,1 @@
-{"data": ["2022-04-26T15:00:53.122657+00:00", 1959, "Your mother is", "grammatical", "Pronunciation: /gr\u0259\u02c8m\u00e6t\u026ak\u0259l/", "Definition: of or pertaining to grammar", "Synonyms: grammatic"]}
+{"data": ["2022-04-26T16:00:53.411426+00:00", 1960, "Your mother is", "full-scale", "Pronunciation: /f\u028al-ske\u026al/", "Definition: using all available resources", "Synonyms: all-out"]}
