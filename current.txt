@@ -1,1 +1,1 @@
-{"data": ["2022-04-26T19:00:42.428469+00:00", 1963, "Your mother is", "binucleated", "", "Definition: having two nuclei", "Synonyms: binuclear, binucleate"]}
+{"data": ["2022-04-26T20:01:19.375180+00:00", 1964, "Your mother is", "dog-sized", "Similar to: sized", "Definition: having the approximate size of an average dog", ""]}
