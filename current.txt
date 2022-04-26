@@ -1,1 +1,1 @@
-{"data": ["2022-04-26T12:00:48.552188+00:00", 1956, "Your mother is", "matrimonial", "Pronunciation: /\u02ccm\u00e6tr\u0259\u02c8mo\u028ani\u0259l/", "Definition: of or relating to the state of marriage", "Synonyms: marital, married"]}
+{"data": ["2022-04-26T13:01:31.011943+00:00", 1957, "Your mother is", "facultative", "Pronunciation: /\u02c8f\u00e6k\u0259l\u02ccte\u026at\u026av/", "Definition: not compulsory", "Synonyms: elective"]}
