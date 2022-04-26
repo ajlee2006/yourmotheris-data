@@ -1,1 +1,1 @@
-{"data": ["2022-04-26T13:01:31.011943+00:00", 1957, "Your mother is", "facultative", "Pronunciation: /\u02c8f\u00e6k\u0259l\u02ccte\u026at\u026av/", "Definition: not compulsory", "Synonyms: elective"]}
+{"data": ["2022-04-26T14:00:41.950662+00:00", 1958, "Your mother is", "anodyne", "Pronunciation: /\u02c8\u00e6n\u0259\u02ccda\u026an/", "Definition: capable of relieving pain", "Synonyms: analgesic, analgetic"]}
