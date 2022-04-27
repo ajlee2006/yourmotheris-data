@@ -1,1 +1,1 @@
-{"data": ["2022-04-27T16:00:39.582252+00:00", 1984, "Your mother is", "phenotypic", "Pronunciation: /\u02ccfin\u0259\u02c8t\u026ap\u026ak/", "Definition: of or relating to or constituting a phenotype", "Synonyms: phenotypical"]}
+{"data": ["2022-04-27T17:01:05.813312+00:00", 1985, "Your mother is", "deceitful", "Pronunciation: /d\u026a\u02c8sitf\u0259l/", "Definition: intended to deceive", "Synonyms: fallacious, fraudulent"]}
