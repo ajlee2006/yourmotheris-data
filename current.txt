@@ -1,1 +1,1 @@
-{"data": ["2022-04-27T15:01:31.748898+00:00", 1983, "Your mother is", "rich", "Pronunciation: /r\u026a\u02a7/", "Definition: marked by richness and fullness of flavor", "Synonyms: full-bodied, racy, robust"]}
+{"data": ["2022-04-27T16:00:39.582252+00:00", 1984, "Your mother is", "phenotypic", "Pronunciation: /\u02ccfin\u0259\u02c8t\u026ap\u026ak/", "Definition: of or relating to or constituting a phenotype", "Synonyms: phenotypical"]}
