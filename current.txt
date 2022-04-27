@@ -1,1 +1,1 @@
-{"data": ["2022-04-27T01:01:19.618584+00:00", 1969, "Your mother is", "rust-free", "Similar to: rustless", "Definition: free of rust", ""]}
+{"data": ["2022-04-27T02:00:20.072086+00:00", 1970, "Your mother is", "wilted", "Pronunciation: /\u02c8w\u026alt\u026ad/", "Definition: without energy or will", "Synonyms: limp"]}
