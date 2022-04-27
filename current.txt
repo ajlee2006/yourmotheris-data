@@ -1,1 +1,1 @@
-{"data": ["2022-04-27T22:01:02.032484+00:00", 1990, "Your mother is", "prodigal", "Pronunciation: /\u02c8pr\u0251d\u0259\u0261\u0259l/", "Definition: recklessly wasteful", "Synonyms: extravagant, profligate, spendthrift"]}
+{"data": ["2022-04-27T23:01:32.681133+00:00", 1991, "Your mother is", "equipt", "Similar to: accoutered", "Definition: provided or fitted out with what is necessary or useful or appropriate", "Synonyms: equipped"]}
