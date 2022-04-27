@@ -1,1 +1,1 @@
-{"data": ["2022-04-27T11:01:08.235094+00:00", 1979, "Your mother is", "spring-blooming", "Pronunciation: /spr\u026a\u014b-\u02c8blum\u026a\u014b/", "Definition: of plants that bloom during the spring", "Synonyms: early-blooming, early-flowering, late-spring-blooming, spring-flowering"]}
+{"data": ["2022-04-27T12:00:40.721427+00:00", 1980, "Your mother is", "keeled", "", "Definition: having a ridge or shaped like a ridge or suggesting the keel of a ship", "Synonyms: carinate, carinated, ridged"]}
