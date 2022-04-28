@@ -1,1 +1,1 @@
-{"data": ["2022-04-28T05:01:00.481234+00:00", 1997, "Your mother is", "rascally", "Pronunciation: /\u02c8r\u00e6sk\u0259li/", "Definition: lacking principles or scruples", "Synonyms: blackguardly, roguish, scoundrelly"]}
+{"data": ["2022-04-28T06:01:36.185340+00:00", 1998, "Your mother is", "powerful", "Pronunciation: /\u02c8pa\u028a\u0259rf\u0259l/", "Definition: strong enough to knock down or overwhelm", "Synonyms: knock-down"]}
