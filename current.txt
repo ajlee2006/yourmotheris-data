@@ -1,1 +1,1 @@
-{"data": ["2022-04-28T19:01:17.925282+00:00", 2011, "Your mother is", "morphologic", "", "Definition: relating to or concerned with the formation of admissible words in a language", "Synonyms: morphological"]}
+{"data": ["2022-04-28T20:01:05.919140+00:00", 2012, "Your mother is", "lentiform", "Similar to: bulging", "Definition: convex on both sides; shaped like a lentil", "Synonyms: biconvex, convexo-convex, lenticular"]}
