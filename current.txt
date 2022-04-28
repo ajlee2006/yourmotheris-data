@@ -1,1 +1,1 @@
-{"data": ["2022-04-28T11:00:39.414195+00:00", 2003, "Your mother is", "cloisonne", "Pronunciation: /\u02cckl\u0254\u026az\u0259\u02c8ne\u026a/", "Definition: (for metals) having areas separated by metal and filled with colored enamel and fired", "Synonyms: champleve"]}
+{"data": ["2022-04-28T12:01:18.523390+00:00", 2004, "Your mother is", "cracker-barrel", "Pronunciation: /\u02c8kr\u00e6k\u0259r\u02ccb\u00e6r\u0259l/", "Definition: characteristic of country life", "Synonyms: homespun"]}
