@@ -1,1 +1,1 @@
-{"data": ["2022-04-28T17:00:51.122838+00:00", 2009, "Your mother is", "puckish", "Pronunciation: /\u02c8p\u028ck\u026a\u0283/", "Definition: naughtily or annoyingly playful", "Synonyms: arch, impish, implike, mischievous, pixilated, prankish, wicked"]}
+{"data": ["2022-04-28T18:00:40.864678+00:00", 2010, "Your mother is", "vocalic", "Pronunciation: /vo\u028a\u02c8k\u00e6l\u026ak/", "Definition: being or containing or characterized by vowels", ""]}
