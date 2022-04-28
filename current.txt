@@ -1,1 +1,1 @@
-{"data": ["2022-04-28T06:01:36.185340+00:00", 1998, "Your mother is", "powerful", "Pronunciation: /\u02c8pa\u028a\u0259rf\u0259l/", "Definition: strong enough to knock down or overwhelm", "Synonyms: knock-down"]}
+{"data": ["2022-04-28T07:00:45.158531+00:00", 1999, "Your mother is", "insuperable", "Pronunciation: /\u026an\u02c8sup\u0259r\u0259b\u0259l/", "Definition: incapable of being surmounted or excelled", "Synonyms: unconquerable"]}
