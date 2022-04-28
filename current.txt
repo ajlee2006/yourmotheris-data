@@ -1,1 +1,1 @@
-{"data": ["2022-04-28T02:01:05.870884+00:00", 1994, "Your mother is", "potable", "Pronunciation: /\u02c8po\u028at\u0259b\u0259l/", "Definition: suitable for drinking", "Synonyms: drinkable"]}
+{"data": ["2022-04-28T03:01:13.608433+00:00", 1995, "Your mother is", "bigger", "Pronunciation: /\u02c8b\u026a\u0261\u025dr/", "Definition: large or big relative to something else", "Synonyms: larger"]}
