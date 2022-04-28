@@ -1,1 +1,1 @@
-{"data": ["2022-04-28T14:00:25.638847+00:00", 2006, "Your mother is", "unprompted", "Pronunciation: /\u0259n\u02c8pr\u0251mpt\u026ad/", "Definition: proceeding from natural feeling or impulse without external stimulus", "Synonyms: impulsive"]}
+{"data": ["2022-04-28T15:01:28.631719+00:00", 2007, "Your mother is", "unrepresentative", "Pronunciation: /\u02cc\u0259nr\u025bpri\u02c8z\u025bnt\u0259t\u026av/", "Definition: not exemplifying a class", ""]}
