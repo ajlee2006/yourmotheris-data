@@ -1,1 +1,1 @@
-{"data": ["2022-04-28T13:01:15.085079+00:00", 2005, "Your mother is", "all-embracing", "Pronunciation: /\u02c8\u0254l\u025bm\u02c8bre\u026as\u026a\u014b/", "Definition: broad in scope or content", "Synonyms: across-the-board, all-encompassing, all-inclusive, blanket, broad, encompassing, extensive, panoptic, wide"]}
+{"data": ["2022-04-28T14:00:25.638847+00:00", 2006, "Your mother is", "unprompted", "Pronunciation: /\u0259n\u02c8pr\u0251mpt\u026ad/", "Definition: proceeding from natural feeling or impulse without external stimulus", "Synonyms: impulsive"]}
