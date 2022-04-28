@@ -1,1 +1,1 @@
-{"data": ["2022-04-28T04:01:15.076495+00:00", 1996, "Your mother is", "sprigged", "Pronunciation: /spr\u026a\u0261d/", "Definition: decorated with designs of sprigs", ""]}
+{"data": ["2022-04-28T05:01:00.481234+00:00", 1997, "Your mother is", "rascally", "Pronunciation: /\u02c8r\u00e6sk\u0259li/", "Definition: lacking principles or scruples", "Synonyms: blackguardly, roguish, scoundrelly"]}
