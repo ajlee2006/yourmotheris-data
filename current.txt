@@ -1,1 +1,1 @@
-{"data": ["2022-04-28T16:00:48.503517+00:00", 2008, "Your mother is", "moldable", "Pronunciation: /\u02c8mo\u028ald\u028cb\u028cl/", "Definition: capable of being molded or modeled (especially of earth or clay or other soft material)", "Synonyms: fictile, plastic"]}
+{"data": ["2022-04-28T17:00:51.122838+00:00", 2009, "Your mother is", "puckish", "Pronunciation: /\u02c8p\u028ck\u026a\u0283/", "Definition: naughtily or annoyingly playful", "Synonyms: arch, impish, implike, mischievous, pixilated, prankish, wicked"]}
