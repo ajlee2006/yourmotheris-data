@@ -1,1 +1,1 @@
-{"data": ["2022-04-28T12:01:18.523390+00:00", 2004, "Your mother is", "cracker-barrel", "Pronunciation: /\u02c8kr\u00e6k\u0259r\u02ccb\u00e6r\u0259l/", "Definition: characteristic of country life", "Synonyms: homespun"]}
+{"data": ["2022-04-28T13:01:15.085079+00:00", 2005, "Your mother is", "all-embracing", "Pronunciation: /\u02c8\u0254l\u025bm\u02c8bre\u026as\u026a\u014b/", "Definition: broad in scope or content", "Synonyms: across-the-board, all-encompassing, all-inclusive, blanket, broad, encompassing, extensive, panoptic, wide"]}
