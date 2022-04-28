@@ -1,1 +1,1 @@
-{"data": ["2022-04-28T01:01:34.447603+00:00", 1993, "Your mother is", "festal", "Pronunciation: /\u02c8f\u025bst\u0259l/", "Definition: offering fun and gaiety", "Synonyms: festive, gay, merry"]}
+{"data": ["2022-04-28T02:01:05.870884+00:00", 1994, "Your mother is", "potable", "Pronunciation: /\u02c8po\u028at\u0259b\u0259l/", "Definition: suitable for drinking", "Synonyms: drinkable"]}
