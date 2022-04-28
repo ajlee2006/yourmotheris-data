@@ -1,1 +1,1 @@
-{"data": ["2022-04-28T22:00:26.892752+00:00", 2014, "Your mother is", "indicatory", "Pronunciation: /\u026an\u02c8d\u026ak\u0259\u02ccto\u028ari/", "Definition: (usually followed by `of') pointing out or revealing clearly", "Synonyms: indicative, revelatory, significative, suggestive"]}
+{"data": ["2022-04-28T23:00:13.519521+00:00", 2015, "Your mother is", "disoriented", "Pronunciation: /d\u026as\u02c8\u0254ri\u02cc\u025bnt\u026ad/", "Definition: socially disoriented", "Synonyms: alienated, anomic"]}
