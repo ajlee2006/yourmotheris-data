@@ -1,1 +1,1 @@
-{"data": ["2022-04-29T13:01:14.192675+00:00", 2029, "Your mother is", "brumous", "Pronunciation: /\u02c8brum\u0259s/", "Definition: filled or abounding with fog or mist", "Synonyms: foggy, hazy, misty"]}
+{"data": ["2022-04-29T14:00:45.590745+00:00", 2030, "Your mother is", "gaga", "Pronunciation: /\u02c8\u0261\u0251\u02cc\u0261\u0251/", "Definition: intensely enthusiastic about or preoccupied with", "Synonyms: crazy, dotty, wild"]}
