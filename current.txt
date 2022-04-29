@@ -1,1 +1,1 @@
-{"data": ["2022-04-28T23:00:13.519521+00:00", 2015, "Your mother is", "disoriented", "Pronunciation: /d\u026as\u02c8\u0254ri\u02cc\u025bnt\u026ad/", "Definition: socially disoriented", "Synonyms: alienated, anomic"]}
+{"data": ["2022-04-29T00:01:52.790347+00:00", 2016, "Your mother is", "diaphyseal", "", "Definition: relating to the diaphysis of a bone", "Synonyms: diaphysial"]}
