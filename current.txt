@@ -1,1 +1,1 @@
-{"data": ["2022-04-29T10:00:47.732629+00:00", 2026, "Your mother is", "deductible", "Pronunciation: /d\u026a\u02c8d\u0259kt\u0259b\u0259l/", "Definition: acceptable as a deduction (especially as a tax deduction)", ""]}
+{"data": ["2022-04-29T11:01:09.134327+00:00", 2027, "Your mother is", "singular", "Pronunciation: /\u02c8s\u026a\u014b\u0261j\u0259l\u0259r/", "Definition: beyond or deviating from the usual or expected", "Synonyms: curious, funny, odd, peculiar, queer, rum, rummy"]}
