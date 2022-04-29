@@ -1,1 +1,1 @@
-{"data": ["2022-04-29T09:01:12.529743+00:00", 2025, "Your mother is", "appareled", "Similar to: clad", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: attired, dressed, garbed, garmented, habilimented, robed"]}
+{"data": ["2022-04-29T10:00:47.732629+00:00", 2026, "Your mother is", "deductible", "Pronunciation: /d\u026a\u02c8d\u0259kt\u0259b\u0259l/", "Definition: acceptable as a deduction (especially as a tax deduction)", ""]}
