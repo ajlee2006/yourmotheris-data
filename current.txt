@@ -1,1 +1,1 @@
-{"data": ["2022-04-29T12:01:16.695238+00:00", 2028, "Your mother is", "silk-lined", "Similar to: lined", "Definition: having a silk lining", ""]}
+{"data": ["2022-04-29T13:01:14.192675+00:00", 2029, "Your mother is", "brumous", "Pronunciation: /\u02c8brum\u0259s/", "Definition: filled or abounding with fog or mist", "Synonyms: foggy, hazy, misty"]}
