@@ -1,1 +1,1 @@
-{"data": ["2022-04-29T06:00:56.410022+00:00", 2022, "Your mother is", "west", "Pronunciation: /w\u025bst/", "Definition: situated in or facing or moving toward the west", ""]}
+{"data": ["2022-04-29T07:00:55.738889+00:00", 2023, "Your mother is", "quicksilver", "Pronunciation: /\u02c8kw\u026ak\u02ccs\u026alv\u0259r/", "Definition: liable to sudden unpredictable change", "Synonyms: erratic, fickle, mercurial"]}
