@@ -1,1 +1,1 @@
-{"data": ["2022-04-29T16:00:55.305726+00:00", 2032, "Your mother is", "musty", "Pronunciation: /\u02c8m\u0259sti/", "Definition: stale and unclean smelling", "Synonyms: frowsty, fusty"]}
+{"data": ["2022-04-29T17:00:50.528277+00:00", 2033, "Your mother is", "resistant", "Pronunciation: /r\u026a\u02c8z\u026ast\u028cnt/", "Definition: disposed to or engaged in defiance of established authority", "Synonyms: insubordinate, resistive"]}
