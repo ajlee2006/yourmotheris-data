@@ -1,1 +1,1 @@
-{"data": ["2022-04-29T03:01:26.499218+00:00", 2019, "Your mother is", "abstemious", "Pronunciation: /\u00e6b\u02c8stimi\u0259s/", "Definition: marked by temperance in indulgence", "Synonyms: light"]}
+{"data": ["2022-04-29T04:01:31.437517+00:00", 2020, "Your mother is", "derived", "Pronunciation: /d\u025dr\u02c8a\u026avd/", "Definition: formed or developed from something else; not original", ""]}
