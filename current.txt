@@ -1,1 +1,1 @@
-{"data": ["2022-04-29T01:01:41.485268+00:00", 2017, "Your mother is", "latticed", "Pronunciation: /\u02c8l\u00e6t\u026ast/", "Definition: having a pattern of fretwork or latticework", "Synonyms: fretted, interlaced, latticelike"]}
+{"data": ["2022-04-29T02:00:29.276248+00:00", 2018, "Your mother is", "chondritic", "Pronunciation: /k\u0251n\u02c8dr\u026at\u026ak/", "Definition: having a granular structure like that of chondrites", "Synonyms: granular"]}
