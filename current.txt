@@ -1,1 +1,1 @@
-{"data": ["2022-04-30T18:00:45.962482+00:00", 2058, "Your mother is", "trussed", "Pronunciation: /tr\u0259st/", "Definition: bound or secured closely", "Synonyms: tied"]}
+{"data": ["2022-04-30T19:00:31.407135+00:00", 2059, "Your mother is", "unstoppable", "Pronunciation: /\u0259n\u02c8st\u0251p\u0259b\u0259l/", "Definition: not capable of being stopped", ""]}
