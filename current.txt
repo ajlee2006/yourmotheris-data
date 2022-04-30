@@ -1,1 +1,1 @@
-{"data": ["2022-04-30T11:00:23.791991+00:00", 2051, "Your mother is", "proficient", "Pronunciation: /pr\u0259\u02c8f\u026a\u0283\u0259nt/", "Definition: of or relating to technique or proficiency in a practical skill", "Synonyms: technical"]}
+{"data": ["2022-04-30T12:01:17.082704+00:00", 2052, "Your mother is", "bounded", "Pronunciation: /\u02c8ba\u028and\u026ad/", "Definition: having the limits or boundaries established", "Synonyms: delimited"]}
