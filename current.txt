@@ -1,1 +1,1 @@
-{"data": ["2022-04-30T19:00:31.407135+00:00", 2059, "Your mother is", "unstoppable", "Pronunciation: /\u0259n\u02c8st\u0251p\u0259b\u0259l/", "Definition: not capable of being stopped", ""]}
+{"data": ["2022-04-30T20:00:42.450859+00:00", 2060, "Your mother is", "symptomless", "Pronunciation: /\u02c8s\u026ampt\u0259ml\u026as/", "Definition: having no symptoms of illness or disease", "Synonyms: asymptomatic"]}
