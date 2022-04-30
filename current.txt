@@ -1,1 +1,1 @@
-{"data": ["2022-04-30T04:01:30.292359+00:00", 2044, "Your mother is", "pinkish", "Pronunciation: /\u02c8p\u026a\u014bk\u026a\u0283/", "Definition: of a light shade of red", "Synonyms: pink"]}
+{"data": ["2022-04-30T05:01:34.120819+00:00", 2045, "Your mother is", "macrencephalous", "", "Definition: having a large brain case", "Synonyms: macrencephalic"]}
