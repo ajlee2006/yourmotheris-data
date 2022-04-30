@@ -1,1 +1,1 @@
-{"data": ["2022-04-30T20:00:42.450859+00:00", 2060, "Your mother is", "symptomless", "Pronunciation: /\u02c8s\u026ampt\u0259ml\u026as/", "Definition: having no symptoms of illness or disease", "Synonyms: asymptomatic"]}
+{"data": ["2022-04-30T21:01:01.226073+00:00", 2061, "Your mother is", "on the button", "Similar to: precise", "Definition: being precise with regard to a prescribed or specified criterion", "Synonyms: on the nose"]}
