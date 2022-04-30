@@ -1,1 +1,1 @@
-{"data": ["2022-04-30T01:01:07.172989+00:00", 2041, "Your mother is", "primo", "Pronunciation: /\u02c8primo\u028a/", "Definition: the best of its kind", ""]}
+{"data": ["2022-04-30T02:01:22.664866+00:00", 2042, "Your mother is", "boneheaded", "Similar to: stupid", "Definition: (used informally) stupid", "Synonyms: blockheaded, duncical, duncish, fatheaded, loggerheaded, thick, thick-skulled, thickheaded, wooden-headed"]}
