@@ -1,1 +1,1 @@
-{"data": ["2022-04-30T17:00:48.031504+00:00", 2057, "Your mother is", "tenor", "Pronunciation: /\u02c8t\u025bn\u0259r/", "Definition: (of a musical instrument) intermediate between alto and baritone or bass", ""]}
+{"data": ["2022-04-30T18:00:45.962482+00:00", 2058, "Your mother is", "trussed", "Pronunciation: /tr\u0259st/", "Definition: bound or secured closely", "Synonyms: tied"]}
