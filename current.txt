@@ -1,1 +1,1 @@
-{"data": ["2022-04-29T23:00:49.666068+00:00", 2039, "Your mother is", "frilly", "Pronunciation: /\u02c8frili/", "Definition: having decorative ruffles or frills", "Synonyms: frilled, ruffled"]}
+{"data": ["2022-04-30T00:01:41.368029+00:00", 2040, "Your mother is", "flecked", "Similar to: patterned", "Definition: having a pattern of dots", "Synonyms: dotted, specked, speckled, stippled"]}
