@@ -1,1 +1,1 @@
-{"data": ["2022-04-30T22:00:53.519110+00:00", 2062, "Your mother is", "down-to-earth", "Pronunciation: /\u02c8da\u028antu-\u02c8\u025cr\u03b8/", "Definition: sensible and practical", "Synonyms: earthy"]}
+{"data": ["2022-04-30T23:00:42.689505+00:00", 2063, "Your mother is", "ponderous", "Pronunciation: /\u02c8p\u0251nd\u0259r\u0259s/", "Definition: slow and laborious because of weight", "Synonyms: heavy, lumbering"]}
