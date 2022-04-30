@@ -1,1 +1,1 @@
-{"data": ["2022-04-30T03:01:33.273225+00:00", 2043, "Your mother is", "plant-eating", "Pronunciation: /pl\u00e6nt-\u02c8it\u026a\u014b/", "Definition: (of animals) feeding on plants", "Synonyms: phytophagic, phytophagous, phytophilous"]}
+{"data": ["2022-04-30T04:01:30.292359+00:00", 2044, "Your mother is", "pinkish", "Pronunciation: /\u02c8p\u026a\u014bk\u026a\u0283/", "Definition: of a light shade of red", "Synonyms: pink"]}
