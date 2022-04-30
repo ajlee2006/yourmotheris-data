@@ -1,1 +1,1 @@
-{"data": ["2022-04-30T16:01:34.295293+00:00", 2056, "Your mother is", "transparent", "Pronunciation: /tr\u00e6ns\u02c8p\u00e6r\u0259nt/", "Definition: transmitting light; able to be seen through with clarity", "Synonyms: crystal clear, crystalline, limpid, lucid, pellucid"]}
+{"data": ["2022-04-30T17:00:48.031504+00:00", 2057, "Your mother is", "tenor", "Pronunciation: /\u02c8t\u025bn\u0259r/", "Definition: (of a musical instrument) intermediate between alto and baritone or bass", ""]}
