@@ -1,1 +1,1 @@
-{"data": ["2022-04-30T08:00:50.001128+00:00", 2048, "Your mother is", "open-ended", "Similar to: indeterminate", "Definition: allowing for a spontaneous response", ""]}
+{"data": ["2022-04-30T09:00:55.899751+00:00", 2049, "Your mother is", "retaliatory", "Pronunciation: /r\u026a\u02c8t\u00e6li\u0259\u02ccto\u028ari/", "Definition: of or relating to or having the nature of retribution", "Synonyms: retaliative, retributive, retributory, vindicatory"]}
