@@ -1,1 +1,1 @@
-{"data": ["2022-04-30T07:00:43.658550+00:00", 2047, "Your mother is", "bonny", "Pronunciation: /\u02c8b\u0251ni/", "Definition: very pleasing to the eye", "Synonyms: bonnie, comely, fair, sightly"]}
+{"data": ["2022-04-30T08:00:50.001128+00:00", 2048, "Your mother is", "open-ended", "Similar to: indeterminate", "Definition: allowing for a spontaneous response", ""]}
