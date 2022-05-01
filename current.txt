@@ -1,1 +1,1 @@
-{"data": ["2022-05-01T00:01:26.707883+00:00", 2064, "Your mother is", "unquiet", "Pronunciation: /\u0259n\u02c8kwa\u026a\u026at/", "Definition: causing or fraught with or showing anxiety", "Synonyms: anxious, nervous, queasy, uneasy"]}
+{"data": ["2022-05-01T02:00:54.033138+00:00", 2065, "Your mother is", "elating", "Pronunciation: /\u026a\u02c8le\u026at\u026a\u014b/", "Definition: making lively and joyful", "Synonyms: exhilarating"]}
