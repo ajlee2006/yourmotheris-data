@@ -1,1 +1,1 @@
-{"data": ["2022-05-01T10:01:39.857078+00:00", 2073, "Your mother is", "unimpressive", "Pronunciation: /\u02cc\u028cn\u026am\u02c8pr\u025bs\u026av/", "Definition: not capable of impressing", ""]}
+{"data": ["2022-05-01T11:01:20.394698+00:00", 2074, "Your mother is", "amphiprotic", "", "Definition: having characteristics of both an acid and a base and capable of reacting as either", "Synonyms: amphoteric"]}
