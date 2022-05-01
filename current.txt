@@ -1,1 +1,1 @@
-{"data": ["2022-05-01T19:00:39.773533+00:00", 2082, "Your mother is", "upscale", "Pronunciation: /\u02c8\u0259pske\u026al/", "Definition: appropriate for people with good incomes", ""]}
+{"data": ["2022-05-01T20:00:55.526908+00:00", 2083, "Your mother is", "argus-eyed", "Pronunciation: /\u02c8\u0251rg\u0259s-a\u026ad/", "Definition: carefully observant or attentive; on the lookout for possible danger", "Synonyms: open-eyed, vigilant, wakeful"]}
