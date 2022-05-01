@@ -1,1 +1,1 @@
-{"data": ["2022-04-30T23:00:42.689505+00:00", 2063, "Your mother is", "ponderous", "Pronunciation: /\u02c8p\u0251nd\u0259r\u0259s/", "Definition: slow and laborious because of weight", "Synonyms: heavy, lumbering"]}
+{"data": ["2022-05-01T00:01:26.707883+00:00", 2064, "Your mother is", "unquiet", "Pronunciation: /\u0259n\u02c8kwa\u026a\u026at/", "Definition: causing or fraught with or showing anxiety", "Synonyms: anxious, nervous, queasy, uneasy"]}
