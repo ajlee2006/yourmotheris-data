@@ -1,1 +1,1 @@
-{"data": ["2022-05-01T06:00:58.232226+00:00", 2069, "Your mother is", "insanitary", "Pronunciation: /\u026an\u02c8s\u00e6n\u026a\u02cct\u025bri/", "Definition: not sanitary or healthful", "Synonyms: unhealthful, unsanitary"]}
+{"data": ["2022-05-01T07:00:33.173593+00:00", 2070, "Your mother is", "nethermost", "Pronunciation: /\u02c8n\u025b\u00f0\u0259r\u02ccmo\u028ast/", "Definition: farthest down", "Synonyms: bottommost, lowermost"]}
