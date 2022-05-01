@@ -1,1 +1,1 @@
-{"data": ["2022-05-01T07:00:33.173593+00:00", 2070, "Your mother is", "nethermost", "Pronunciation: /\u02c8n\u025b\u00f0\u0259r\u02ccmo\u028ast/", "Definition: farthest down", "Synonyms: bottommost, lowermost"]}
+{"data": ["2022-05-01T08:01:25.196529+00:00", 2071, "Your mother is", "dun", "Pronunciation: /d\u0259n/", "Definition: of a dull greyish brown to brownish grey color", ""]}
