@@ -1,1 +1,1 @@
-{"data": ["2022-05-01T15:00:48.175411+00:00", 2078, "Your mother is", "stylish", "Pronunciation: /\u02c8sta\u026al\u026a\u0283/", "Definition: being or in accordance with current social fashions", "Synonyms: fashionable"]}
+{"data": ["2022-05-01T16:01:29.908206+00:00", 2079, "Your mother is", "agone", "Pronunciation: /\u0259\u02c8\u0261\u0254n/", "Definition: gone by; or in the past", "Synonyms: ago"]}
