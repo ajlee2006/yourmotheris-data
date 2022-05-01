@@ -1,1 +1,1 @@
-{"data": ["2022-05-01T13:01:33.192587+00:00", 2076, "Your mother is", "eyelike", "Pronunciation: /\u02c8a\u026a\u02ccla\u026ak/", "Definition: suggesting an eye or eyes", ""]}
+{"data": ["2022-05-01T14:00:16.370761+00:00", 2077, "Your mother is", "receding", "Pronunciation: /r\u026a\u02c8sid\u026a\u014b/", "Definition: (of a hairline e.g.) moving slowly back", ""]}
