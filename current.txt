@@ -1,1 +1,1 @@
-{"data": ["2022-05-01T03:01:30.959023+00:00", 2066, "Your mother is", "silver-blue", "Similar to: chromatic", "Definition: of something having a color that is a light shiny blue", "Synonyms: silvery-blue"]}
+{"data": ["2022-05-01T04:01:28.933254+00:00", 2067, "Your mother is", "one and only", "Similar to: incomparable", "Definition: eminent beyond or above comparison", "Synonyms: matchless, nonpareil, one, peerless, unmatchable, unmatched, unrivaled, unrivalled"]}
