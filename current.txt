@@ -1,1 +1,1 @@
-{"data": ["2022-05-01T20:00:55.526908+00:00", 2083, "Your mother is", "argus-eyed", "Pronunciation: /\u02c8\u0251rg\u0259s-a\u026ad/", "Definition: carefully observant or attentive; on the lookout for possible danger", "Synonyms: open-eyed, vigilant, wakeful"]}
+{"data": ["2022-05-01T21:00:35.469328+00:00", 2084, "Your mother is", "possessed", "Pronunciation: /p\u0259\u02c8z\u025bst/", "Definition: influenced or controlled by a powerful force such as a strong emotion", "Synonyms: obsessed"]}
