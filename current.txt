@@ -1,1 +1,1 @@
-{"data": ["2022-05-01T17:01:01.783977+00:00", 2080, "Your mother is", "slanderous", "Pronunciation: /\u02c8sl\u00e6nd\u025dr\u028cs/", "Definition: (used of statements) harmful and often untrue; tending to discredit or malign", "Synonyms: calumniatory, calumnious, defamatory, denigrating, denigrative, denigratory, libellous, libelous"]}
+{"data": ["2022-05-01T18:01:33.324818+00:00", 2081, "Your mother is", "hand-operated", "Similar to: manual", "Definition: operated by hand", "Synonyms: non-automatic"]}
