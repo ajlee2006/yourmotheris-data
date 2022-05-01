@@ -1,1 +1,1 @@
-{"data": ["2022-05-01T08:01:25.196529+00:00", 2071, "Your mother is", "dun", "Pronunciation: /d\u0259n/", "Definition: of a dull greyish brown to brownish grey color", ""]}
+{"data": ["2022-05-01T09:00:46.037532+00:00", 2072, "Your mother is", "truthful", "Pronunciation: /\u02c8tru\u03b8f\u0259l/", "Definition: expressing or given to expressing the truth", "Synonyms: true"]}
