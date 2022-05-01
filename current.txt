@@ -1,1 +1,1 @@
-{"data": ["2022-05-01T09:00:46.037532+00:00", 2072, "Your mother is", "truthful", "Pronunciation: /\u02c8tru\u03b8f\u0259l/", "Definition: expressing or given to expressing the truth", "Synonyms: true"]}
+{"data": ["2022-05-01T10:01:39.857078+00:00", 2073, "Your mother is", "unimpressive", "Pronunciation: /\u02cc\u028cn\u026am\u02c8pr\u025bs\u026av/", "Definition: not capable of impressing", ""]}
