@@ -1,1 +1,1 @@
-{"data": ["2022-05-02T20:01:21.163640+00:00", 2107, "Your mother is", "besieged", "Pronunciation: /b\u026a\u02c8sid\u0292d/", "Definition: surrounded by hostile forces", ""]}
+{"data": ["2022-05-02T21:00:55.386995+00:00", 2108, "Your mother is", "adamantine", "Pronunciation: /\u02cc\u00e6d\u0259\u02c8m\u00e6nt\u026an/", "Definition: impervious to pleas, persuasion, requests, reason", "Synonyms: adamant, inexorable, intransigent"]}
