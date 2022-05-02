@@ -1,1 +1,1 @@
-{"data": ["2022-05-02T07:01:32.267290+00:00", 2094, "Your mother is", "undignified", "Pronunciation: /\u0259n\u02c8d\u026agn\u026a\u02ccfa\u026ad/", "Definition: lacking dignity", ""]}
+{"data": ["2022-05-02T08:00:40.830548+00:00", 2095, "Your mother is", "tardive", "Similar to: late", "Definition: late-occurring (especially with reference to symptoms of a disease)", ""]}
