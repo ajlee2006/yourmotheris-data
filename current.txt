@@ -1,1 +1,1 @@
-{"data": ["2022-05-02T12:01:29.678006+00:00", 2099, "Your mother is", "necessitous", "Pronunciation: /n\u0259\u02c8s\u025bs\u026at\u0259s/", "Definition: poor enough to need help from others", "Synonyms: destitute, impoverished, indigent, needy, poverty-stricken"]}
+{"data": ["2022-05-02T13:00:43.521833+00:00", 2100, "Your mother is", "deliberate", "Pronunciation: /d\u026a\u02c8l\u026ab\u0259r\u026at/", "Definition: characterized by conscious design or purpose", "Synonyms: intentional, knowing"]}
