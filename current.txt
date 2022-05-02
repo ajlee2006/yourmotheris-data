@@ -1,1 +1,1 @@
-{"data": ["2022-05-02T04:00:40.990595+00:00", 2091, "Your mother is", "dichromatic", "Pronunciation: /\u02ccda\u026akro\u028a\u02c8m\u00e6t\u026ak/", "Definition: having two colors", "Synonyms: bichrome, bicolor, bicolored, bicolour, bicoloured"]}
+{"data": ["2022-05-02T05:01:27.815164+00:00", 2092, "Your mother is", "105", "Similar to: cardinal", "Definition: being five more than one hundred", "Synonyms: cv, one hundred five"]}
