@@ -1,1 +1,1 @@
-{"data": ["2022-05-02T10:01:08.111067+00:00", 2097, "Your mother is", "unpretentious", "Pronunciation: /\u02cc\u0259npr\u026a\u02c8t\u025bn\u0283\u0259s/", "Definition: not ostentatious", "Synonyms: unostentatious, unpretending"]}
+{"data": ["2022-05-02T11:01:18.510351+00:00", 2098, "Your mother is", "injudicious", "Pronunciation: /\u02cc\u026and\u0292u\u02c8d\u026a\u0283\u0259s/", "Definition: lacking or showing lack of judgment or discretion; unwise", ""]}
