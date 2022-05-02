@@ -1,1 +1,1 @@
-{"data": ["2022-05-02T09:01:00.867260+00:00", 2096, "Your mother is", "quarrelsome", "Pronunciation: /\u02c8kw\u0251r\u0259ls\u0259m/", "Definition: given to quarreling", ""]}
+{"data": ["2022-05-02T10:01:08.111067+00:00", 2097, "Your mother is", "unpretentious", "Pronunciation: /\u02cc\u0259npr\u026a\u02c8t\u025bn\u0283\u0259s/", "Definition: not ostentatious", "Synonyms: unostentatious, unpretending"]}
