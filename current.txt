@@ -1,1 +1,1 @@
-{"data": ["2022-05-02T14:01:40.843815+00:00", 2101, "Your mother is", "tilted", "Pronunciation: /\u02c8t\u026alt\u028cd/", "Definition: departing or being caused to depart from the true vertical or horizontal", "Synonyms: atilt, canted, leaning, tipped"]}
+{"data": ["2022-05-02T15:01:28.801749+00:00", 2102, "Your mother is", "braced", "Pronunciation: /bre\u026ast/", "Definition: held up by braces or buttresses", "Synonyms: buttressed"]}
