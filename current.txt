@@ -1,1 +1,1 @@
-{"data": ["2022-05-02T11:01:18.510351+00:00", 2098, "Your mother is", "injudicious", "Pronunciation: /\u02cc\u026and\u0292u\u02c8d\u026a\u0283\u0259s/", "Definition: lacking or showing lack of judgment or discretion; unwise", ""]}
+{"data": ["2022-05-02T12:01:29.678006+00:00", 2099, "Your mother is", "necessitous", "Pronunciation: /n\u0259\u02c8s\u025bs\u026at\u0259s/", "Definition: poor enough to need help from others", "Synonyms: destitute, impoverished, indigent, needy, poverty-stricken"]}
