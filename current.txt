@@ -1,1 +1,1 @@
-{"data": ["2022-05-02T15:01:28.801749+00:00", 2102, "Your mother is", "braced", "Pronunciation: /bre\u026ast/", "Definition: held up by braces or buttresses", "Synonyms: buttressed"]}
+{"data": ["2022-05-02T16:01:55.930966+00:00", 2103, "Your mother is", "ensuant", "Similar to: subsequent", "Definition: occurring with or following as a consequence", "Synonyms: accompanying, attendant, collateral, concomitant, consequent, incidental, resultant, sequent"]}
