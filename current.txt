@@ -1,1 +1,1 @@
-{"data": ["2022-05-02T08:00:40.830548+00:00", 2095, "Your mother is", "tardive", "Similar to: late", "Definition: late-occurring (especially with reference to symptoms of a disease)", ""]}
+{"data": ["2022-05-02T09:01:00.867260+00:00", 2096, "Your mother is", "quarrelsome", "Pronunciation: /\u02c8kw\u0251r\u0259ls\u0259m/", "Definition: given to quarreling", ""]}
