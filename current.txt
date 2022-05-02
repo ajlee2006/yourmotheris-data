@@ -1,1 +1,1 @@
-{"data": ["2022-05-02T00:01:45.823412+00:00", 2087, "Your mother is", "smaller", "Pronunciation: /\u02c8sm\u0254l\u025dr/", "Definition: small or little relative to something else", "Synonyms: littler"]}
+{"data": ["2022-05-02T01:01:40.459202+00:00", 2088, "Your mother is", "breathless", "Pronunciation: /\u02c8br\u025b\u03b8l\u026as/", "Definition: not breathing or able to breathe except with difficulty", "Synonyms: dyspneal, dyspneic, dyspnoeal, dyspnoeic"]}
