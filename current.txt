@@ -1,1 +1,1 @@
-{"data": ["2022-05-01T23:01:37.475273+00:00", 2086, "Your mother is", "violet-pink", "Similar to: chromatic", "Definition: of pink tinged with lavender", "Synonyms: lavender-pink, lilac-pink"]}
+{"data": ["2022-05-02T00:01:45.823412+00:00", 2087, "Your mother is", "smaller", "Pronunciation: /\u02c8sm\u0254l\u025dr/", "Definition: small or little relative to something else", "Synonyms: littler"]}
