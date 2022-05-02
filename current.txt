@@ -1,1 +1,1 @@
-{"data": ["2022-05-02T02:01:09.224233+00:00", 2089, "Your mother is", "cruciate", "Pronunciation: /\u02c8kru\u0283i\u026at/", "Definition: shaped like a cross", "Synonyms: cruciform"]}
+{"data": ["2022-05-02T03:01:47.021992+00:00", 2090, "Your mother is", "refreshing", "Pronunciation: /r\u026a\u02c8fr\u025b\u0283\u026a\u014b/", "Definition: pleasantly new or different", "Synonyms: novel"]}
