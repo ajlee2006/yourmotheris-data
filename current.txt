@@ -1,1 +1,1 @@
-{"data": ["2022-05-03T10:00:22.544520+00:00", 2121, "Your mother is", "subjugated", "Pronunciation: /\u02c8s\u028cbd\u0292\u028c\u02cc\u0261e\u026at\u026ad/", "Definition: reduced to submission", ""]}
+{"data": ["2022-05-03T11:01:37.024259+00:00", 2122, "Your mother is", "dog-tired", "Pronunciation: /d\u0254g-ta\u026a\u0259rd/", "Definition: drained of energy or effectiveness; extremely tired; completely exhausted", "Synonyms: exhausted, fagged, fatigued, gone, played out, spent, washed-out, worn-out, worn out"]}
