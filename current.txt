@@ -1,1 +1,1 @@
-{"data": ["2022-05-03T14:01:41.318658+00:00", 2125, "Your mother is", "predestinate", "Pronunciation: /pr\u026a\u02c8d\u025bst\u0259n\u026at/", "Definition: established or prearranged unalterably", "Synonyms: foreordained, predestined"]}
+{"data": ["2022-05-03T15:00:27.108160+00:00", 2126, "Your mother is", "concrete", "Pronunciation: /\u02c8k\u0251nkrit/", "Definition: capable of being perceived by the senses; not abstract or imaginary", ""]}
