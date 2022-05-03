@@ -1,1 +1,1 @@
-{"data": ["2022-05-03T19:00:54.357194+00:00", 2130, "Your mother is", "braky", "Similar to: wooded", "Definition: covered with brambles and ferns and other undergrowth", "Synonyms: brambly"]}
+{"data": ["2022-05-03T20:00:28.239301+00:00", 2131, "Your mother is", "third", "Pronunciation: /\u03b8\u025crd/", "Definition: coming next after the second and just before the fourth in position", "Synonyms: 3rd, tertiary"]}
