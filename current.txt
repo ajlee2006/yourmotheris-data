@@ -1,1 +1,1 @@
-{"data": ["2022-05-03T17:01:25.488992+00:00", 2128, "Your mother is", "year-end", "Pronunciation: /jir-\u025bnd/", "Definition: taking place at the close of a fiscal year", ""]}
+{"data": ["2022-05-03T18:00:18.584112+00:00", 2129, "Your mother is", "impressionable", "Pronunciation: /\u026am\u02c8pr\u025b\u0283\u0259n\u0259b\u0259l/", "Definition: easily impressed or influenced", "Synonyms: impressible, waxy"]}
