@@ -1,1 +1,1 @@
-{"data": ["2022-05-03T04:01:14.436069+00:00", 2115, "Your mother is", "liver-colored", "Pronunciation: /\u02c8la\u026av\u0259r-\u02c8k\u0259l\u0259rd/", "Definition: having a reddish-brown color", "Synonyms: liver"]}
+{"data": ["2022-05-03T05:00:53.519423+00:00", 2116, "Your mother is", "phantasmal", "Pronunciation: /f\u00e6n\u02c8t\u00e6zm\u0259l/", "Definition: resembling or characteristic of a phantom", "Synonyms: apparitional, ghostlike, ghostly, spectral, spiritual"]}
