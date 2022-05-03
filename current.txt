@@ -1,1 +1,1 @@
-{"data": ["2022-05-03T20:00:28.239301+00:00", 2131, "Your mother is", "third", "Pronunciation: /\u03b8\u025crd/", "Definition: coming next after the second and just before the fourth in position", "Synonyms: 3rd, tertiary"]}
+{"data": ["2022-05-03T21:01:08.404467+00:00", 2132, "Your mother is", "millennial", "Pronunciation: /m\u026al\u02c8l\u025bni\u0259l/", "Definition: relating to a millennium or span of a thousand years", "Synonyms: millennian"]}
