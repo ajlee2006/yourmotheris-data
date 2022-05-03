@@ -1,1 +1,1 @@
-{"data": ["2022-05-03T07:01:13.640220+00:00", 2118, "Your mother is", "alike", "Pronunciation: /\u0259\u02c8la\u026ak/", "Definition: having the same or similar characteristics", "Synonyms: like, similar"]}
+{"data": ["2022-05-03T08:00:39.634025+00:00", 2119, "Your mother is", "axile", "Pronunciation: /\u02c8\u00e6ks\u026al/", "Definition: relating to or attached to the axis", "Synonyms: axial"]}
