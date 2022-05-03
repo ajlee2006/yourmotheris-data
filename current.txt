@@ -1,1 +1,1 @@
-{"data": ["2022-05-03T01:00:57.151726+00:00", 2112, "Your mother is", "bidentate", "Pronunciation: /ba\u026a\u02c8d\u025bnte\u026at/", "Definition: having toothlike projections that are themselves toothed", ""]}
+{"data": ["2022-05-03T02:01:31.100599+00:00", 2113, "Your mother is", "self-loving", "Pronunciation: /s\u025blf-\u02c8l\u0259v\u026a\u014b/", "Definition: characteristic of those having an inflated idea of their own importance", "Synonyms: egotistic, egotistical, narcissistic"]}
