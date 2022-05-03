@@ -1,1 +1,1 @@
-{"data": ["2022-05-03T05:00:53.519423+00:00", 2116, "Your mother is", "phantasmal", "Pronunciation: /f\u00e6n\u02c8t\u00e6zm\u0259l/", "Definition: resembling or characteristic of a phantom", "Synonyms: apparitional, ghostlike, ghostly, spectral, spiritual"]}
+{"data": ["2022-05-03T06:01:35.323304+00:00", 2117, "Your mother is", "even-textured", "Similar to: smooth", "Definition: having an even texture", ""]}
