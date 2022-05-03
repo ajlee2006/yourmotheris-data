@@ -1,1 +1,1 @@
-{"data": ["2022-05-03T13:01:03.160761+00:00", 2124, "Your mother is", "skint", "Pronunciation: /sk\u026ant/", "Definition: lacking funds", "Synonyms: broke, bust, stone-broke, stony-broke"]}
+{"data": ["2022-05-03T14:01:41.318658+00:00", 2125, "Your mother is", "predestinate", "Pronunciation: /pr\u026a\u02c8d\u025bst\u0259n\u026at/", "Definition: established or prearranged unalterably", "Synonyms: foreordained, predestined"]}
