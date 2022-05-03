@@ -1,1 +1,1 @@
-{"data": ["2022-05-03T11:01:37.024259+00:00", 2122, "Your mother is", "dog-tired", "Pronunciation: /d\u0254g-ta\u026a\u0259rd/", "Definition: drained of energy or effectiveness; extremely tired; completely exhausted", "Synonyms: exhausted, fagged, fatigued, gone, played out, spent, washed-out, worn-out, worn out"]}
+{"data": ["2022-05-03T12:01:21.542022+00:00", 2123, "Your mother is", "dynamical", "Similar to: changing", "Definition: characterized by action or forcefulness or force of personality", "Synonyms: dynamic"]}
