@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T12:01:14.133019+00:00", 2147, "Your mother is", "symbiotic", "Pronunciation: /\u02ccs\u026amba\u026a\u02c8\u0251t\u026ak/", "Definition: used of organisms (especially of different species) living together but not necessarily in a relation beneficial to each", ""]}
+{"data": ["2022-05-04T13:00:55.353962+00:00", 2148, "Your mother is", "desensitising", "Similar to: numbing", "Definition: making less susceptible or sensitive to either physical or emotional stimuli", "Synonyms: desensitizing"]}
