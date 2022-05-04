@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T16:01:33.199880+00:00", 2151, "Your mother is", "synonymous", "Pronunciation: /s\u026a\u02c8n\u0251n\u0259m\u0259s/", "Definition: (of words) meaning the same or nearly the same", ""]}
+{"data": ["2022-05-04T17:01:30.477272+00:00", 2152, "Your mother is", "hooved", "Similar to: solid-hoofed", "Definition: having or resembling hoofs", "Synonyms: hoofed, ungulate, ungulated"]}
