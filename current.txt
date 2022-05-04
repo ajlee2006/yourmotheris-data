@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T00:09:39.461649+00:00", 2135, "Your mother is", "tranquilising", "Similar to: depressant", "Definition: tending to soothe or tranquilize", "Synonyms: ataractic, ataraxic, sedative, tranquilizing, tranquillising, tranquillizing"]}
+{"data": ["2022-05-04T01:01:54.916077+00:00", 2136, "Your mother is", "aneurismal", "", "Definition: relating to or affected by an aneurysm", "Synonyms: aneurismatic, aneurysmal, aneurysmatic"]}
