@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T10:01:37.840822+00:00", 2145, "Your mother is", "leaky", "Pronunciation: /\u02c8liki/", "Definition: prone to communicate confidential information", "Synonyms: blabbermouthed, talebearing, tattling"]}
+{"data": ["2022-05-04T11:01:13.511277+00:00", 2146, "Your mother is", "decompositional", "Similar to: disintegrative", "Definition: causing organic decay", ""]}
