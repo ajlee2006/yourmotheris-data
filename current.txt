@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T08:00:52.685638+00:00", 2143, "Your mother is", "all-powerful", "Pronunciation: /\u02c8\u0254l\u02c8pa\u028a\u0259rf\u0259l/", "Definition: having unlimited power", "Synonyms: almighty, omnipotent"]}
+{"data": ["2022-05-04T09:01:27.836106+00:00", 2144, "Your mother is", "acapnial", "", "Definition: relating to or demonstrating acapnia", "Synonyms: acapnic, acapnotic"]}
