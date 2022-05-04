@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T17:01:30.477272+00:00", 2152, "Your mother is", "hooved", "Similar to: solid-hoofed", "Definition: having or resembling hoofs", "Synonyms: hoofed, ungulate, ungulated"]}
+{"data": ["2022-05-04T18:00:44.154771+00:00", 2153, "Your mother is", "flemish-speaking", "Similar to: communicative", "Definition: able to communicate in Flemish", ""]}
