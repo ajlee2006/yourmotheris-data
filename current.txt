@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T21:00:55.330679+00:00", 2156, "Your mother is", "inefficient", "Pronunciation: /\u02cc\u026an\u026a\u02c8f\u026a\u0283\u0259nt/", "Definition: lacking the ability or skill to perform effectively; inadequate", "Synonyms: ineffective"]}
+{"data": ["2022-05-04T22:00:35.899740+00:00", 2157, "Your mother is", "discretional", "Pronunciation: /d\u026a\u02c8skr\u025b\u0283\u0259n\u0259l/", "Definition: having or using the ability to act or decide according to your own discretion or judgment", "Synonyms: discretionary"]}
