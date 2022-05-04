@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T22:00:35.899740+00:00", 2157, "Your mother is", "discretional", "Pronunciation: /d\u026a\u02c8skr\u025b\u0283\u0259n\u0259l/", "Definition: having or using the ability to act or decide according to your own discretion or judgment", "Synonyms: discretionary"]}
+{"data": ["2022-05-04T23:01:06.624139+00:00", 2158, "Your mother is", "stopped-up", "Similar to: obstructed", "Definition: (of a nose) blocked", "Synonyms: stopped, stopped up"]}
