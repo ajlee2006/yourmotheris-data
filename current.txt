@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T07:00:59.962212+00:00", 2142, "Your mother is", "consultatory", "Pronunciation: /k\u0259n\u02c8s\u0259lt\u0259\u02ccto\u028ari/", "Definition: giving advice", "Synonyms: advisory, consultative, consultive"]}
+{"data": ["2022-05-04T08:00:52.685638+00:00", 2143, "Your mother is", "all-powerful", "Pronunciation: /\u02c8\u0254l\u02c8pa\u028a\u0259rf\u0259l/", "Definition: having unlimited power", "Synonyms: almighty, omnipotent"]}
