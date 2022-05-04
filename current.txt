@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T20:00:22.424631+00:00", 2155, "Your mother is", "appositive", "Pronunciation: /\u0259\u02c8p\u0251z\u026at\u026av/", "Definition: relating to or being in apposition", "Synonyms: appositional"]}
+{"data": ["2022-05-04T21:00:55.330679+00:00", 2156, "Your mother is", "inefficient", "Pronunciation: /\u02cc\u026an\u026a\u02c8f\u026a\u0283\u0259nt/", "Definition: lacking the ability or skill to perform effectively; inadequate", "Synonyms: ineffective"]}
