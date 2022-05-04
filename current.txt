@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T18:00:44.154771+00:00", 2153, "Your mother is", "flemish-speaking", "Similar to: communicative", "Definition: able to communicate in Flemish", ""]}
+{"data": ["2022-05-04T19:01:06.892287+00:00", 2154, "Your mother is", "subhuman", "Pronunciation: /s\u0259b\u02c8hjum\u0259n/", "Definition: less than human or not worthy of a human being", ""]}
