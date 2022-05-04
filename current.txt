@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T19:01:06.892287+00:00", 2154, "Your mother is", "subhuman", "Pronunciation: /s\u0259b\u02c8hjum\u0259n/", "Definition: less than human or not worthy of a human being", ""]}
+{"data": ["2022-05-04T20:00:22.424631+00:00", 2155, "Your mother is", "appositive", "Pronunciation: /\u0259\u02c8p\u0251z\u026at\u026av/", "Definition: relating to or being in apposition", "Synonyms: appositional"]}
