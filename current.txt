@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T15:01:48.715900+00:00", 2150, "Your mother is", "serological", "Pronunciation: /s\u025br\u028c\u02c8l\u0254d\u0292\u026ak\u028cl/", "Definition: of or relating to serology", "Synonyms: serologic"]}
+{"data": ["2022-05-04T16:01:33.199880+00:00", 2151, "Your mother is", "synonymous", "Pronunciation: /s\u026a\u02c8n\u0251n\u0259m\u0259s/", "Definition: (of words) meaning the same or nearly the same", ""]}
