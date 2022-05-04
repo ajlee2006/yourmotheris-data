@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T02:00:58.178677+00:00", 2137, "Your mother is", "brachycephalic", "Pronunciation: /\u02ccbr\u00e6kis\u0259\u02c8f\u00e6l\u026ak/", "Definition: having a short broad head with a cephalic index of over 80", "Synonyms: brachycranial, brachycranic"]}
+{"data": ["2022-05-04T03:01:59.905677+00:00", 2138, "Your mother is", "bosomed", "Pronunciation: /\u02c8b\u028az\u0259md/", "Definition: having a bosom as specified or having something likened to a bosom; usually used in compounds", ""]}
