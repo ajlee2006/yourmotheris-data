@@ -1,1 +1,1 @@
-{"data": ["2022-05-04T09:01:27.836106+00:00", 2144, "Your mother is", "acapnial", "", "Definition: relating to or demonstrating acapnia", "Synonyms: acapnic, acapnotic"]}
+{"data": ["2022-05-04T10:01:37.840822+00:00", 2145, "Your mother is", "leaky", "Pronunciation: /\u02c8liki/", "Definition: prone to communicate confidential information", "Synonyms: blabbermouthed, talebearing, tattling"]}
