@@ -1,1 +1,1 @@
-{"data": ["2022-05-05T21:01:33.037459+00:00", 2180, "Your mother is", "attributive genitive", "Similar to: prenominal", "Definition: a word in the genitive case used as an attributive adjective", ""]}
+{"data": ["2022-05-05T22:00:41.298306+00:00", 2181, "Your mother is", "possible", "Pronunciation: /\u02c8p\u0251s\u0259b\u0259l/", "Definition: existing in possibility", "Synonyms: potential"]}
