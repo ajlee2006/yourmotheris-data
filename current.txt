@@ -1,1 +1,1 @@
-{"data": ["2022-05-05T10:01:40.245775+00:00", 2169, "Your mother is", "pulverized", "Pronunciation: /\u02c8p\u028clv\u025dr\u02cca\u026azd/", "Definition: consisting of fine particles", "Synonyms: fine-grained, powdered, powdery, pulverised, small-grained"]}
+{"data": ["2022-05-05T11:01:20.002317+00:00", 2170, "Your mother is", "paradisal", "Pronunciation: /\u02c8p\u00e6r\u0259\u02ccda\u026as\u0259l/", "Definition: relating to or befitting Paradise", "Synonyms: paradisaic, paradisaical, paradisiac, paradisiacal"]}
