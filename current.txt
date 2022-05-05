@@ -1,1 +1,1 @@
-{"data": ["2022-05-05T22:00:41.298306+00:00", 2181, "Your mother is", "possible", "Pronunciation: /\u02c8p\u0251s\u0259b\u0259l/", "Definition: existing in possibility", "Synonyms: potential"]}
+{"data": ["2022-05-05T23:00:23.724947+00:00", 2182, "Your mother is", "chartreuse", "Pronunciation: /\u0283\u0251r\u02c8truz/", "Definition: of something having the yellowish green color of Chartreuse liqueur", ""]}
