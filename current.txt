@@ -1,1 +1,1 @@
-{"data": ["2022-05-05T00:09:38.184069+00:00", 2159, "Your mother is", "aftermost", "Pronunciation: /\u02c8\u00e6ft\u0259r\u02ccmo\u028ast/", "Definition: located closest to the stern or tail", ""]}
+{"data": ["2022-05-05T01:02:05.821692+00:00", 2160, "Your mother is", "gutless", "Pronunciation: /\u02c8\u0261\u0259tl\u026as/", "Definition: weak in willpower, courage or vitality", "Synonyms: namby-pamby, spineless, wishy-washy"]}
