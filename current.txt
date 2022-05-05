@@ -1,1 +1,1 @@
-{"data": ["2022-05-05T03:01:35.195042+00:00", 2162, "Your mother is", "thick-billed", "Similar to: beaked", "Definition: having a thick beak", ""]}
+{"data": ["2022-05-05T04:01:42.810995+00:00", 2163, "Your mother is", "alary", "Pronunciation: /\u02c8e\u026al\u0259ri/", "Definition: having or resembling wings", "Synonyms: alar, aliform, wing-shaped"]}
