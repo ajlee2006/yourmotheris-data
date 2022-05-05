@@ -1,1 +1,1 @@
-{"data": ["2022-05-05T07:01:15.975044+00:00", 2166, "Your mother is", "preservable", "Similar to: preserved", "Definition: capable of being preserved", ""]}
+{"data": ["2022-05-05T08:01:01.437822+00:00", 2167, "Your mother is", "bovid", "Pronunciation: /\u02c8bo\u028av\u026ad/", "Definition: of or relating to or belonging to the genus Bos (cattle)", "Synonyms: bovine"]}
