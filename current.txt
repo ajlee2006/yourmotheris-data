@@ -1,1 +1,1 @@
-{"data": ["2022-05-05T12:01:12.525904+00:00", 2171, "Your mother is", "extemporaneous", "Pronunciation: /\u026ak\u02ccst\u025bmp\u0259\u02c8re\u026ani\u0259s/", "Definition: with little or no preparation or forethought", "Synonyms: ad-lib, extemporary, extempore, impromptu, off-the-cuff, offhand, offhanded, unrehearsed"]}
+{"data": ["2022-05-05T13:00:22.158508+00:00", 2172, "Your mother is", "long-stalked", "Pronunciation: /l\u0254\u014b-st\u0254kt/", "Definition: of plants having relatively long stalks", "Synonyms: tall-stalked"]}
