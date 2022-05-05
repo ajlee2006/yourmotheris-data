@@ -1,1 +1,1 @@
-{"data": ["2022-05-05T16:01:39.265821+00:00", 2175, "Your mother is", "condemnatory", "Pronunciation: /k\u0259n\u02c8d\u025bmn\u0259\u02ccto\u028ari/", "Definition: containing or imposing condemnation or censure", "Synonyms: condemning"]}
+{"data": ["2022-05-05T17:01:17.902002+00:00", 2176, "Your mother is", "nonionic", "", "Definition: not ionic", "Synonyms: nonpolar"]}
