@@ -1,1 +1,1 @@
-{"data": ["2022-05-05T06:01:02.277460+00:00", 2165, "Your mother is", "wideband", "", "Definition: responding to or operating at a wide band of frequencies", "Synonyms: broadband"]}
+{"data": ["2022-05-05T07:01:15.975044+00:00", 2166, "Your mother is", "preservable", "Similar to: preserved", "Definition: capable of being preserved", ""]}
