@@ -1,1 +1,1 @@
-{"data": ["2022-05-05T13:00:22.158508+00:00", 2172, "Your mother is", "long-stalked", "Pronunciation: /l\u0254\u014b-st\u0254kt/", "Definition: of plants having relatively long stalks", "Synonyms: tall-stalked"]}
+{"data": ["2022-05-05T14:00:26.763768+00:00", 2173, "Your mother is", "tripinnated", "Similar to: compound", "Definition: (of a leaf shape) thrice pinnate", "Synonyms: tripinnate"]}
