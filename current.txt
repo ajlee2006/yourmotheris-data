@@ -1,1 +1,1 @@
-{"data": ["2022-05-05T08:01:01.437822+00:00", 2167, "Your mother is", "bovid", "Pronunciation: /\u02c8bo\u028av\u026ad/", "Definition: of or relating to or belonging to the genus Bos (cattle)", "Synonyms: bovine"]}
+{"data": ["2022-05-05T09:01:53.577219+00:00", 2168, "Your mother is", "identified", "Pronunciation: /a\u026a\u02c8d\u025bnt\u028c\u02ccfa\u026ad/", "Definition: having the identity known or established", ""]}
