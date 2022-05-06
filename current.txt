@@ -1,1 +1,1 @@
-{"data": ["2022-05-06T19:01:39.957246+00:00", 2202, "Your mother is", "uneconomical", "Pronunciation: /\u028cn\u02cc\u025bk\u028c\u02c8n\u0251m\u026ak\u028cl/", "Definition: wasteful of resources", "Synonyms: uneconomic"]}
+{"data": ["2022-05-06T20:01:44.487701+00:00", 2203, "Your mother is", "filmed", "Pronunciation: /f\u026almd/", "Definition: recorded on film; made into a movie", ""]}
