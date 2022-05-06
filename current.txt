@@ -1,1 +1,1 @@
-{"data": ["2022-05-06T18:02:04.033439+00:00", 2201, "Your mother is", "creditable", "Pronunciation: /\u02c8kr\u025bd\u026at\u0259b\u0259l/", "Definition: worthy of often limited commendation", ""]}
+{"data": ["2022-05-06T19:01:39.957246+00:00", 2202, "Your mother is", "uneconomical", "Pronunciation: /\u028cn\u02cc\u025bk\u028c\u02c8n\u0251m\u026ak\u028cl/", "Definition: wasteful of resources", "Synonyms: uneconomic"]}
