@@ -1,1 +1,1 @@
-{"data": ["2022-05-05T23:00:23.724947+00:00", 2182, "Your mother is", "chartreuse", "Pronunciation: /\u0283\u0251r\u02c8truz/", "Definition: of something having the yellowish green color of Chartreuse liqueur", ""]}
+{"data": ["2022-05-06T00:05:09.993994+00:00", 2183, "Your mother is", "easygoing", "Pronunciation: /\u02c8izi\u02c8\u0261o\u028a\u026a\u014b/", "Definition: not hurried or forced", "Synonyms: easy, leisurely"]}
