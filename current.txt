@@ -1,1 +1,1 @@
-{"data": ["2022-05-06T09:02:14.960333+00:00", 2192, "Your mother is", "one-dimensional", "Similar to: collinear", "Definition: of or in or along or relating to a line; involving or having a single dimension", "Synonyms: linear"]}
+{"data": ["2022-05-06T10:02:12.931413+00:00", 2193, "Your mother is", "hypodermic", "Pronunciation: /\u02ccha\u026ap\u0259\u02c8d\u025crm\u026ak/", "Definition: relating to or located below the epidermis", "Synonyms: subcutaneous"]}
