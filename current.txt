@@ -1,1 +1,1 @@
-{"data": ["2022-05-06T04:02:06.434373+00:00", 2187, "Your mother is", "ad hominem", "Pronunciation: /\u0251d-\u02c8ho\u028am\u026a\u02ccn\u025bm/", "Definition: appealing to personal considerations (rather than to fact or reason)", ""]}
+{"data": ["2022-05-06T05:01:42.622402+00:00", 2188, "Your mother is", "unstructured", "Pronunciation: /\u0259n\u02c8str\u0259kt\u0283\u0259d/", "Definition: lacking the system or structure characteristic of living bodies", "Synonyms: amorphous"]}
