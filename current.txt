@@ -1,1 +1,1 @@
-{"data": ["2022-05-06T12:00:41.139449+00:00", 2195, "Your mother is", "slap-up", "Pronunciation: /sl\u00e6p-\u0259p/", "Definition: very good", "Synonyms: bang-up, bully, corking, cracking, dandy, great, groovy, keen, neat, nifty, not bad, old, peachy, smashing, swell"]}
+{"data": ["2022-05-06T13:02:21.941062+00:00", 2196, "Your mother is", "haggard", "Pronunciation: /\u02c8h\u00e6\u0261\u0259rd/", "Definition: very thin especially from disease or hunger or cold", "Synonyms: cadaverous, emaciated, gaunt, pinched, skeletal, wasted"]}
