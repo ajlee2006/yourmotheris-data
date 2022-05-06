@@ -1,1 +1,1 @@
-{"data": ["2022-05-06T16:02:14.532822+00:00", 2199, "Your mother is", "granitelike", "Similar to: hard", "Definition: hard as granite", "Synonyms: granitic, rocklike, stony"]}
+{"data": ["2022-05-06T17:01:04.762457+00:00", 2200, "Your mother is", "city-like", "Similar to: urban", "Definition: resembling a city", ""]}
