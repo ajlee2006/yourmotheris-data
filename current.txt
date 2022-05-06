@@ -1,1 +1,1 @@
-{"data": ["2022-05-06T00:05:09.993994+00:00", 2183, "Your mother is", "easygoing", "Pronunciation: /\u02c8izi\u02c8\u0261o\u028a\u026a\u014b/", "Definition: not hurried or forced", "Synonyms: easy, leisurely"]}
+{"data": ["2022-05-06T01:01:11.702166+00:00", 2184, "Your mother is", "nonequivalent", "Similar to: unequal", "Definition: not equal or interchangeable in value, quantity, or significance", ""]}
