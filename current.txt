@@ -1,1 +1,1 @@
-{"data": ["2022-05-06T06:01:51.530307+00:00", 2189, "Your mother is", "beatified", "Similar to: holy", "Definition: Roman Catholic; proclaimed one of the blessed and thus worthy of veneration", "Synonyms: blessed"]}
+{"data": ["2022-05-06T07:01:28.513197+00:00", 2190, "Your mother is", "rotated", "Pronunciation: /\u02c8ro\u028a\u02ccte\u026at\u026ad/", "Definition: turned in a circle around an axis", "Synonyms: revolved"]}
