@@ -1,1 +1,1 @@
-{"data": ["2022-05-06T10:02:12.931413+00:00", 2193, "Your mother is", "hypodermic", "Pronunciation: /\u02ccha\u026ap\u0259\u02c8d\u025crm\u026ak/", "Definition: relating to or located below the epidermis", "Synonyms: subcutaneous"]}
+{"data": ["2022-05-06T11:01:03.183400+00:00", 2194, "Your mother is", "degenerate", "Pronunciation: /\u02c8d\u0292\u025bn\u025cr\u0259t/", "Definition: unrestrained by convention or morality", "Synonyms: debauched, degraded, dissipated, dissolute, fast, libertine, profligate, riotous"]}
