@@ -1,1 +1,1 @@
-{"data": ["2022-05-06T14:02:46.031108+00:00", 2197, "Your mother is", "all", "Pronunciation: /\u0254l/", "Definition: completely given to or absorbed by", ""]}
+{"data": ["2022-05-06T15:01:28.175820+00:00", 2198, "Your mother is", "nonconscious", "Similar to: unconscious", "Definition: concerning mental functioning that is not represented in consciousness", ""]}
