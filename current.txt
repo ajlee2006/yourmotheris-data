@@ -1,1 +1,1 @@
-{"data": ["2022-05-06T08:01:57.032550+00:00", 2191, "Your mother is", "muted", "Pronunciation: /\u02c8mjut\u026ad/", "Definition: being or made softer or less loud or clear", "Synonyms: dull, muffled, softened"]}
+{"data": ["2022-05-06T09:02:14.960333+00:00", 2192, "Your mother is", "one-dimensional", "Similar to: collinear", "Definition: of or in or along or relating to a line; involving or having a single dimension", "Synonyms: linear"]}
