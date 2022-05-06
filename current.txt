@@ -1,1 +1,1 @@
-{"data": ["2022-05-06T07:01:28.513197+00:00", 2190, "Your mother is", "rotated", "Pronunciation: /\u02c8ro\u028a\u02ccte\u026at\u026ad/", "Definition: turned in a circle around an axis", "Synonyms: revolved"]}
+{"data": ["2022-05-06T08:01:57.032550+00:00", 2191, "Your mother is", "muted", "Pronunciation: /\u02c8mjut\u026ad/", "Definition: being or made softer or less loud or clear", "Synonyms: dull, muffled, softened"]}
