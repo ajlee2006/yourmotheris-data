@@ -1,1 +1,1 @@
-{"data": ["2022-05-06T17:01:04.762457+00:00", 2200, "Your mother is", "city-like", "Similar to: urban", "Definition: resembling a city", ""]}
+{"data": ["2022-05-06T18:02:04.033439+00:00", 2201, "Your mother is", "creditable", "Pronunciation: /\u02c8kr\u025bd\u026at\u0259b\u0259l/", "Definition: worthy of often limited commendation", ""]}
