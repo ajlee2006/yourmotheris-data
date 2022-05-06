@@ -1,1 +1,1 @@
-{"data": ["2022-05-06T05:01:42.622402+00:00", 2188, "Your mother is", "unstructured", "Pronunciation: /\u0259n\u02c8str\u0259kt\u0283\u0259d/", "Definition: lacking the system or structure characteristic of living bodies", "Synonyms: amorphous"]}
+{"data": ["2022-05-06T06:01:51.530307+00:00", 2189, "Your mother is", "beatified", "Similar to: holy", "Definition: Roman Catholic; proclaimed one of the blessed and thus worthy of veneration", "Synonyms: blessed"]}
