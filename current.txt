@@ -1,1 +1,1 @@
-{"data": ["2022-05-07T06:01:20.401994+00:00", 2213, "Your mother is", "aristocratic", "Pronunciation: /\u0259\u02ccr\u026ast\u0259\u02c8kr\u00e6t\u026ak/", "Definition: belonging to or characteristic of the nobility or aristocracy", "Synonyms: aristocratical, blue, blue-blooded, gentle, patrician"]}
+{"data": ["2022-05-07T07:01:37.904598+00:00", 2214, "Your mother is", "in vogue", "Similar to: fashionable", "Definition: in the current fashion or style", "Synonyms: a la mode, in style, latest, modish"]}
