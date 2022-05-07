@@ -1,1 +1,1 @@
-{"data": ["2022-05-07T13:01:44.289231+00:00", 2220, "Your mother is", "inflated", "Pronunciation: /\u026an\u02c8fle\u026at\u026ad/", "Definition: enlarged beyond truth or reasonableness", "Synonyms: hyperbolic"]}
+{"data": ["2022-05-07T14:00:58.300935+00:00", 2221, "Your mother is", "syrupy", "Pronunciation: /\u02c8s\u026ar\u0259pi/", "Definition: having a relatively high resistance to flow", "Synonyms: viscous"]}
