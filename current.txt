@@ -1,1 +1,1 @@
-{"data": ["2022-05-07T19:00:34.836870+00:00", 2226, "Your mother is", "trusted", "Pronunciation: /\u02c8tr\u028cst\u026ad/", "Definition: (of persons) worthy of trust or confidence", "Synonyms: sure"]}
+{"data": ["2022-05-07T20:01:04.040585+00:00", 2227, "Your mother is", "curvilinear", "Pronunciation: /\u02cck\u025crv\u0259\u02c8l\u026ani\u0259r/", "Definition: characterized by or following a curved line", "Synonyms: curvilineal"]}
