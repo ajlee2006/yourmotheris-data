@@ -1,1 +1,1 @@
-{"data": ["2022-05-07T09:01:46.885239+00:00", 2216, "Your mother is", "costumed", "Pronunciation: /\u02c8k\u0254\u02ccstumd/", "Definition: dressed in clothing characteristic of a period, country, or class", ""]}
+{"data": ["2022-05-07T10:00:30.625482+00:00", 2217, "Your mother is", "turned", "Pronunciation: /t\u025drnd/", "Definition: in an unpalatable state", "Synonyms: off, sour"]}
