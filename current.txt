@@ -1,1 +1,1 @@
-{"data": ["2022-05-07T15:00:15.541272+00:00", 2222, "Your mother is", "consonant", "Pronunciation: /\u02c8k\u0251ns\u0259n\u0259nt/", "Definition: in keeping", "Synonyms: accordant, agreeable, concordant, conformable"]}
+{"data": ["2022-05-07T16:01:18.971737+00:00", 2223, "Your mother is", "acidic", "Pronunciation: /\u0259\u02c8s\u026ad\u026ak/", "Definition: being sour to the taste", "Synonyms: acid, acidulent, acidulous"]}
