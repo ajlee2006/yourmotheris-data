@@ -1,1 +1,1 @@
-{"data": ["2022-05-07T10:00:30.625482+00:00", 2217, "Your mother is", "turned", "Pronunciation: /t\u025drnd/", "Definition: in an unpalatable state", "Synonyms: off, sour"]}
+{"data": ["2022-05-07T11:00:56.772616+00:00", 2218, "Your mother is", "potty-trained", "Similar to: trained", "Definition: (of children) trained to use the toilet", "Synonyms: pot-trained, toilet-trained"]}
