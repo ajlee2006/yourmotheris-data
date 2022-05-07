@@ -1,1 +1,1 @@
-{"data": ["2022-05-07T22:01:22.401758+00:00", 2229, "Your mother is", "skeletal", "Pronunciation: /\u02c8sk\u025bl\u028ct\u028cl/", "Definition: very thin especially from disease or hunger or cold", "Synonyms: cadaverous, emaciated, gaunt, haggard, pinched, wasted"]}
+{"data": ["2022-05-07T23:00:56.242087+00:00", 2230, "Your mother is", "defenceless", "Similar to: vulnerable", "Definition: lacking protection or support", "Synonyms: defenseless"]}
