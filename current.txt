@@ -1,1 +1,1 @@
-{"data": ["2022-05-07T14:00:58.300935+00:00", 2221, "Your mother is", "syrupy", "Pronunciation: /\u02c8s\u026ar\u0259pi/", "Definition: having a relatively high resistance to flow", "Synonyms: viscous"]}
+{"data": ["2022-05-07T15:00:15.541272+00:00", 2222, "Your mother is", "consonant", "Pronunciation: /\u02c8k\u0251ns\u0259n\u0259nt/", "Definition: in keeping", "Synonyms: accordant, agreeable, concordant, conformable"]}
