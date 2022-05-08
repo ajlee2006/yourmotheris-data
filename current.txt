@@ -1,1 +1,1 @@
-{"data": ["2022-05-08T18:01:05.876239+00:00", 2249, "Your mother is", "nonintegrated", "", "Definition: not integrated; not taken into or made a part of a whole", "Synonyms: unintegrated"]}
+{"data": ["2022-05-08T19:01:31.770658+00:00", 2250, "Your mother is", "deathly", "Pronunciation: /\u02c8d\u025b\u03b8li/", "Definition: having the physical appearance of death", "Synonyms: deathlike"]}
