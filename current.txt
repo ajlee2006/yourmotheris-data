@@ -1,1 +1,1 @@
-{"data": ["2022-05-08T20:00:21.369245+00:00", 2251, "Your mother is", "rhetorical", "Pronunciation: /r\u026a\u02c8t\u0251rik\u0259l/", "Definition: given to rhetoric, emphasizing style at the expense of thought", ""]}
+{"data": ["2022-05-08T21:01:10.098674+00:00", 2252, "Your mother is", "unconfused", "Similar to: unperplexed", "Definition: not perplexed by conflicting situations or statements", "Synonyms: unbaffled"]}
