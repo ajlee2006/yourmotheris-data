@@ -1,1 +1,1 @@
-{"data": ["2022-05-08T06:01:20.242128+00:00", 2237, "Your mother is", "ill-scented", "Similar to: ill-smelling", "Definition: offensively malodorous", "Synonyms: fetid, foetid, foul, foul-smelling, funky, noisome, smelly, stinking"]}
+{"data": ["2022-05-08T07:00:47.929577+00:00", 2238, "Your mother is", "unreverberant", "Similar to: anechoic", "Definition: not reverberant; lacking a tendency to reverberate", "Synonyms: nonresonant"]}
