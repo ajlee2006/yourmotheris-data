@@ -1,1 +1,1 @@
-{"data": ["2022-05-08T13:00:34.890156+00:00", 2244, "Your mother is", "eudemonic", "Pronunciation: /\u02ccjud\u026a\u02c8m\u0251n\u026ak/", "Definition: producing happiness and well-being", "Synonyms: eudaemonic"]}
+{"data": ["2022-05-08T14:00:37.580331+00:00", 2245, "Your mother is", "loveless", "Pronunciation: /\u02c8l\u0259vl\u026as/", "Definition: receiving no love", ""]}
