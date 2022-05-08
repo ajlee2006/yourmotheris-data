@@ -1,1 +1,1 @@
-{"data": ["2022-05-08T03:01:34.624755+00:00", 2234, "Your mother is", "valedictory", "Pronunciation: /\u02ccv\u00e6l\u026a\u02c8d\u026akt\u0259ri/", "Definition: of a speech expressing leave-taking", ""]}
+{"data": ["2022-05-08T04:01:31.260114+00:00", 2235, "Your mother is", "eighty-nine", "Pronunciation: /\u02c8e\u026ati-na\u026an/", "Definition: being nine more than eighty", "Synonyms: 89, ixc"]}
