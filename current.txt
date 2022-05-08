@@ -1,1 +1,1 @@
-{"data": ["2022-05-08T02:01:50.018260+00:00", 2233, "Your mother is", "untravelled", "Pronunciation: /\u0259n\u02c8tr\u00e6v\u0259ld/", "Definition: not having traveled much, especially to foreign lands; not having gained experience by travel", "Synonyms: untraveled"]}
+{"data": ["2022-05-08T03:01:34.624755+00:00", 2234, "Your mother is", "valedictory", "Pronunciation: /\u02ccv\u00e6l\u026a\u02c8d\u026akt\u0259ri/", "Definition: of a speech expressing leave-taking", ""]}
