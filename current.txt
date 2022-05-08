@@ -1,1 +1,1 @@
-{"data": ["2022-05-08T10:00:41.015235+00:00", 2241, "Your mother is", "taxpaying", "Pronunciation: /\u02c8t\u00e6k\u02ccspe\u026a\u026a\u014b/", "Definition: not exempt from paying taxes", ""]}
+{"data": ["2022-05-08T11:01:11.824114+00:00", 2242, "Your mother is", "monodical", "Similar to: monophonic", "Definition: having a single vocal part", "Synonyms: monodic"]}
