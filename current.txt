@@ -1,1 +1,1 @@
-{"data": ["2022-05-08T00:01:37.531245+00:00", 2231, "Your mother is", "uncolored", "Similar to: natural", "Definition: not artificially colored or bleached", "Synonyms: unbleached, undyed"]}
+{"data": ["2022-05-08T01:01:53.662467+00:00", 2232, "Your mother is", "awesome", "Pronunciation: /\u02c8\u0254s\u0259m/", "Definition: inspiring awe or admiration or wonder", "Synonyms: amazing, awe-inspiring, awful, awing"]}
