@@ -1,1 +1,1 @@
-{"data": ["2022-05-08T01:01:53.662467+00:00", 2232, "Your mother is", "awesome", "Pronunciation: /\u02c8\u0254s\u0259m/", "Definition: inspiring awe or admiration or wonder", "Synonyms: amazing, awe-inspiring, awful, awing"]}
+{"data": ["2022-05-08T02:01:50.018260+00:00", 2233, "Your mother is", "untravelled", "Pronunciation: /\u0259n\u02c8tr\u00e6v\u0259ld/", "Definition: not having traveled much, especially to foreign lands; not having gained experience by travel", "Synonyms: untraveled"]}
