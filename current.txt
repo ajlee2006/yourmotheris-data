@@ -1,1 +1,1 @@
-{"data": ["2022-05-08T21:01:10.098674+00:00", 2252, "Your mother is", "unconfused", "Similar to: unperplexed", "Definition: not perplexed by conflicting situations or statements", "Synonyms: unbaffled"]}
+{"data": ["2022-05-08T22:00:46.893027+00:00", 2253, "Your mother is", "self-consistent", "Pronunciation: /s\u025blf-k\u0259n\u02c8s\u026ast\u0259nt/", "Definition: not self-contradictory", ""]}
