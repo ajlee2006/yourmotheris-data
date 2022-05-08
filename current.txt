@@ -1,1 +1,1 @@
-{"data": ["2022-05-08T12:00:42.298361+00:00", 2243, "Your mother is", "utility", "Pronunciation: /ju\u02c8t\u026al\u026ati/", "Definition: used of beef; usable but inferior", "Synonyms: utility-grade"]}
+{"data": ["2022-05-08T13:00:34.890156+00:00", 2244, "Your mother is", "eudemonic", "Pronunciation: /\u02ccjud\u026a\u02c8m\u0251n\u026ak/", "Definition: producing happiness and well-being", "Synonyms: eudaemonic"]}
