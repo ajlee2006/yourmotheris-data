@@ -1,1 +1,1 @@
-{"data": ["2022-05-09T16:01:58.002338+00:00", 2271, "Your mother is", "almighty", "Pronunciation: /\u0254l\u02c8ma\u026ati/", "Definition: having unlimited power", "Synonyms: all-powerful, omnipotent"]}
+{"data": ["2022-05-09T17:01:25.835039+00:00", 2272, "Your mother is", "jellied", "Pronunciation: /\u02c8d\u0292\u025blid/", "Definition: congealed into jelly; solidified by cooling", "Synonyms: congealed, jelled"]}
