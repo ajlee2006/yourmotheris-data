@@ -1,1 +1,1 @@
-{"data": ["2022-05-08T23:01:25.996290+00:00", 2254, "Your mother is", "beaten", "Pronunciation: /\u02c8bit\u0259n/", "Definition: much trodden and worn smooth or bare", ""]}
+{"data": ["2022-05-09T00:02:00.714620+00:00", 2255, "Your mother is", "forty-third", "Pronunciation: /\u02c8f\u0254rti-\u03b8\u025crd/", "Definition: the ordinal number of forty-three in counting order", "Synonyms: 43rd"]}
