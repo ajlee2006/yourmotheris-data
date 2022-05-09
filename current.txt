@@ -1,1 +1,1 @@
-{"data": ["2022-05-09T18:00:25.550754+00:00", 2273, "Your mother is", "unwell", "Pronunciation: /\u0259n\u02c8w\u025bl/", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, indisposed, peaked, poorly, seedy, sickly, under the weather"]}
+{"data": ["2022-05-09T19:01:53.561262+00:00", 2274, "Your mother is", "webby", "Pronunciation: /\u02c8w\u025bbi/", "Definition: having open interstices or resembling a web", "Synonyms: lacy, netlike, netted, webbed, weblike"]}
