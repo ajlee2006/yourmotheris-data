@@ -1,1 +1,1 @@
-{"data": ["2022-05-09T21:01:35.810557+00:00", 2276, "Your mother is", "inward", "Pronunciation: /\u02c8\u026anw\u0259rd/", "Definition: directed or moving inward or toward a center", "Synonyms: inbound"]}
+{"data": ["2022-05-09T22:00:51.088082+00:00", 2277, "Your mother is", "sanctioned", "Pronunciation: /\u02c8s\u00e6\u014bk\u0283\u028cnd/", "Definition: conforming to orthodox or recognized rules", "Synonyms: canonic, canonical"]}
