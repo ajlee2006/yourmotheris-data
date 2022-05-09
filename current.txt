@@ -1,1 +1,1 @@
-{"data": ["2022-05-09T19:01:53.561262+00:00", 2274, "Your mother is", "webby", "Pronunciation: /\u02c8w\u025bbi/", "Definition: having open interstices or resembling a web", "Synonyms: lacy, netlike, netted, webbed, weblike"]}
+{"data": ["2022-05-09T20:00:48.404259+00:00", 2275, "Your mother is", "ad hoc", "Pronunciation: /\u00e6d-\u02c8h\u0251k/", "Definition: for or concerned with one specific purpose", ""]}
