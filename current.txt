@@ -1,1 +1,1 @@
-{"data": ["2022-05-09T20:00:48.404259+00:00", 2275, "Your mother is", "ad hoc", "Pronunciation: /\u00e6d-\u02c8h\u0251k/", "Definition: for or concerned with one specific purpose", ""]}
+{"data": ["2022-05-09T21:01:35.810557+00:00", 2276, "Your mother is", "inward", "Pronunciation: /\u02c8\u026anw\u0259rd/", "Definition: directed or moving inward or toward a center", "Synonyms: inbound"]}
