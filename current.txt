@@ -1,1 +1,1 @@
-{"data": ["2022-05-09T13:01:55.619376+00:00", 2268, "Your mother is", "kiwi-sized", "Similar to: sized", "Definition: having the approximate size of a kiwi fruit", ""]}
+{"data": ["2022-05-09T14:00:44.270815+00:00", 2269, "Your mother is", "sesquipedalian", "Similar to: long", "Definition: (of words) long and ponderous; having many syllables", "Synonyms: polysyllabic"]}
