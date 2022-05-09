@@ -1,1 +1,1 @@
-{"data": ["2022-05-09T00:02:00.714620+00:00", 2255, "Your mother is", "forty-third", "Pronunciation: /\u02c8f\u0254rti-\u03b8\u025crd/", "Definition: the ordinal number of forty-three in counting order", "Synonyms: 43rd"]}
+{"data": ["2022-05-09T01:02:01.854697+00:00", 2256, "Your mother is", "low-beam", "Similar to: dim", "Definition: used of headlights", ""]}
