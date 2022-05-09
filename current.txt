@@ -1,1 +1,1 @@
-{"data": ["2022-05-09T01:02:01.854697+00:00", 2256, "Your mother is", "low-beam", "Similar to: dim", "Definition: used of headlights", ""]}
+{"data": ["2022-05-09T02:01:33.325925+00:00", 2257, "Your mother is", "revokable", "Similar to: rescindable", "Definition: capable of being revoked or annulled", "Synonyms: revocable"]}
