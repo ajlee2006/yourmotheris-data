@@ -1,1 +1,1 @@
-{"data": ["2022-05-09T11:00:37.346794+00:00", 2266, "Your mother is", "floodlighted", "Similar to: light", "Definition: illuminated by means of floodlights", "Synonyms: floodlit"]}
+{"data": ["2022-05-09T12:00:54.086243+00:00", 2267, "Your mother is", "in writing", "Similar to: written", "Definition: written or drawn or engraved", "Synonyms: graphic, graphical"]}
