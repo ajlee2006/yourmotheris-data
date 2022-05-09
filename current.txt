@@ -1,1 +1,1 @@
-{"data": ["2022-05-09T08:00:50.236657+00:00", 2263, "Your mother is", "ribald", "Pronunciation: /\u02c8r\u026ab\u0259ld/", "Definition: humorously vulgar", "Synonyms: bawdy, off-color"]}
+{"data": ["2022-05-09T09:01:42.553693+00:00", 2264, "Your mother is", "high-ceilinged", "Similar to: ceilinged", "Definition: having a higher than normal ceiling", ""]}
