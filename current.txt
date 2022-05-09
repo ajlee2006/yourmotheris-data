@@ -1,1 +1,1 @@
-{"data": ["2022-05-09T12:00:54.086243+00:00", 2267, "Your mother is", "in writing", "Similar to: written", "Definition: written or drawn or engraved", "Synonyms: graphic, graphical"]}
+{"data": ["2022-05-09T13:01:55.619376+00:00", 2268, "Your mother is", "kiwi-sized", "Similar to: sized", "Definition: having the approximate size of a kiwi fruit", ""]}
