@@ -1,1 +1,1 @@
-{"data": ["2022-05-09T15:01:08.514312+00:00", 2270, "Your mother is", "booming", "Pronunciation: /\u02c8bum\u026a\u014b/", "Definition: very lively and profitable", "Synonyms: flourishing, palmy, prospering, prosperous, roaring, thriving"]}
+{"data": ["2022-05-09T16:01:58.002338+00:00", 2271, "Your mother is", "almighty", "Pronunciation: /\u0254l\u02c8ma\u026ati/", "Definition: having unlimited power", "Synonyms: all-powerful, omnipotent"]}
