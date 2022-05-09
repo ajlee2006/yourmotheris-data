@@ -1,1 +1,1 @@
-{"data": ["2022-05-09T07:01:46.007766+00:00", 2262, "Your mother is", "skanky", "Similar to: offensive", "Definition: highly offensive; arousing aversion or disgust", "Synonyms: disgustful, disgusting, distasteful, foul, loathly, loathsome, repellant, repellent, repelling, revolting, wicked, yucky"]}
+{"data": ["2022-05-09T08:00:50.236657+00:00", 2263, "Your mother is", "ribald", "Pronunciation: /\u02c8r\u026ab\u0259ld/", "Definition: humorously vulgar", "Synonyms: bawdy, off-color"]}
