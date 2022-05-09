@@ -1,1 +1,1 @@
-{"data": ["2022-05-09T17:01:25.835039+00:00", 2272, "Your mother is", "jellied", "Pronunciation: /\u02c8d\u0292\u025blid/", "Definition: congealed into jelly; solidified by cooling", "Synonyms: congealed, jelled"]}
+{"data": ["2022-05-09T18:00:25.550754+00:00", 2273, "Your mother is", "unwell", "Pronunciation: /\u0259n\u02c8w\u025bl/", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, indisposed, peaked, poorly, seedy, sickly, under the weather"]}
