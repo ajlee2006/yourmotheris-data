@@ -1,1 +1,1 @@
-{"data": ["2022-05-10T08:01:21.217734+00:00", 2287, "Your mother is", "bunglesome", "Pronunciation: /\u02c8b\u0259\u014b\u0261\u0259ls\u0259m/", "Definition: difficult to handle or manage especially because of shape", "Synonyms: awkward, clumsy, ungainly"]}
+{"data": ["2022-05-10T09:01:14.744622+00:00", 2288, "Your mother is", "hydrophobic", "Pronunciation: /\u02ccha\u026adr\u0259\u02c8fo\u028ab\u026ak/", "Definition: abnormally afraid of water", "Synonyms: aquaphobic"]}
