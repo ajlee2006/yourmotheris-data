@@ -1,1 +1,1 @@
-{"data": ["2022-05-10T14:01:08.641343+00:00", 2293, "Your mother is", "pulpy", "Pronunciation: /\u02c8p\u0259lpi/", "Definition: like a pulp or overripe; not having stiffness", "Synonyms: squashy"]}
+{"data": ["2022-05-10T15:01:09.552080+00:00", 2294, "Your mother is", "perceived", "Pronunciation: /p\u025dr\u02c8sivd/", "Definition: detected by instinct or inference rather than by recognized perceptual cues", "Synonyms: sensed"]}
