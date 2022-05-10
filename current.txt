@@ -1,1 +1,1 @@
-{"data": ["2022-05-10T16:00:46.141101+00:00", 2295, "Your mother is", "sad", "Pronunciation: /s\u00e6d/", "Definition: bad; unfortunate", "Synonyms: deplorable, distressing, lamentable, pitiful, sorry"]}
+{"data": ["2022-05-10T17:00:58.683808+00:00", 2296, "Your mother is", "buff", "Pronunciation: /b\u0259f/", "Definition: of the yellowish-beige color of buff leather", ""]}
