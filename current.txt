@@ -1,1 +1,1 @@
-{"data": ["2022-05-10T02:00:46.579165+00:00", 2281, "Your mother is", "glutted", "Pronunciation: /\u02c8\u0261l\u028ct\u026ad/", "Definition: exceeding demand", "Synonyms: overfull"]}
+{"data": ["2022-05-10T03:01:38.852256+00:00", 2282, "Your mother is", "nonopening", "Similar to: closed", "Definition: not open; not opening", ""]}
