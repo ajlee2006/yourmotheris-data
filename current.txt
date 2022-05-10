@@ -1,1 +1,1 @@
-{"data": ["2022-05-10T05:01:52.775754+00:00", 2284, "Your mother is", "point-blank", "Pronunciation: /p\u0254\u026ant-bl\u00e6\u014bk/", "Definition: characterized by directness in manner or speech; without subtlety or evasion", "Synonyms: blunt, candid, forthright, frank, free-spoken, outspoken, plainspoken, straight-from-the-shoulder"]}
+{"data": ["2022-05-10T06:00:52.895533+00:00", 2285, "Your mother is", "conformable", "Pronunciation: /k\u0259n\u02c8f\u0254rm\u0259b\u0259l/", "Definition: disposed or willing to conform", "Synonyms: amenable"]}
