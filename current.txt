@@ -1,1 +1,1 @@
-{"data": ["2022-05-10T06:00:52.895533+00:00", 2285, "Your mother is", "conformable", "Pronunciation: /k\u0259n\u02c8f\u0254rm\u0259b\u0259l/", "Definition: disposed or willing to conform", "Synonyms: amenable"]}
+{"data": ["2022-05-10T07:01:42.598566+00:00", 2286, "Your mother is", "burned-out", "Pronunciation: /\u02c8b\u025crnd\u02c8a\u028at/", "Definition: destroyed or badly damaged by fire", "Synonyms: burned, burned-over, burnt, burnt-out"]}
