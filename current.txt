@@ -1,1 +1,1 @@
-{"data": ["2022-05-10T18:00:34.552461+00:00", 2297, "Your mother is", "misguided", "Pronunciation: /m\u026as\u02c8\u0261a\u026ad\u026ad/", "Definition: poorly conceived or thought out", "Synonyms: ill-conceived"]}
+{"data": ["2022-05-10T19:01:21.948610+00:00", 2298, "Your mother is", "private-enterprise", "Pronunciation: /\u02c8pra\u026av\u026at-\u02c8\u025bnt\u0259r\u02ccpra\u026az/", "Definition: subscribing to capitalistic competition", "Synonyms: competitive, free-enterprise"]}
