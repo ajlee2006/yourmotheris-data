@@ -1,1 +1,1 @@
-{"data": ["2022-05-10T01:01:10.791348+00:00", 2280, "Your mother is", "approximative", "Similar to: inexact", "Definition: not quite exact or correct", "Synonyms: approximate, rough"]}
+{"data": ["2022-05-10T02:00:46.579165+00:00", 2281, "Your mother is", "glutted", "Pronunciation: /\u02c8\u0261l\u028ct\u026ad/", "Definition: exceeding demand", "Synonyms: overfull"]}
