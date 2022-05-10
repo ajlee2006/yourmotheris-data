@@ -1,1 +1,1 @@
-{"data": ["2022-05-10T12:01:01.463387+00:00", 2291, "Your mother is", "sweeping", "Pronunciation: /\u02c8swip\u026a\u014b/", "Definition: ignoring distinctions", "Synonyms: wholesale"]}
+{"data": ["2022-05-10T13:01:14.919914+00:00", 2292, "Your mother is", "bone", "Pronunciation: /bo\u028an/", "Definition: consisting of or made up of bone", ""]}
