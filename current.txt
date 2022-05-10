@@ -1,1 +1,1 @@
-{"data": ["2022-05-10T03:01:38.852256+00:00", 2282, "Your mother is", "nonopening", "Similar to: closed", "Definition: not open; not opening", ""]}
+{"data": ["2022-05-10T04:01:24.361768+00:00", 2283, "Your mother is", "straight-laced", "Pronunciation: /\u02c8stre\u026at\u02c8le\u026ast/", "Definition: exaggeratedly proper", "Synonyms: priggish, prim, prissy, prudish, puritanical, square-toed, straightlaced, strait-laced, straitlaced, tight-laced, victorian"]}
