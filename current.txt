@@ -1,1 +1,1 @@
-{"data": ["2022-05-10T19:01:21.948610+00:00", 2298, "Your mother is", "private-enterprise", "Pronunciation: /\u02c8pra\u026av\u026at-\u02c8\u025bnt\u0259r\u02ccpra\u026az/", "Definition: subscribing to capitalistic competition", "Synonyms: competitive, free-enterprise"]}
+{"data": ["2022-05-10T20:01:22.324144+00:00", 2299, "Your mother is", "allegro", "Pronunciation: /\u0259\u02c8le\u026agro\u028a/", "Definition: (of tempo) fast", ""]}
