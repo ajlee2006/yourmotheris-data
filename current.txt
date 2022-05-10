@@ -1,1 +1,1 @@
-{"data": ["2022-05-10T11:00:45.733774+00:00", 2290, "Your mother is", "fattening", "Pronunciation: /\u02c8f\u00e6t\u028cn\u026a\u014b/", "Definition: subject to or used in the process of finishing or fattening up for slaughter", ""]}
+{"data": ["2022-05-10T12:01:01.463387+00:00", 2291, "Your mother is", "sweeping", "Pronunciation: /\u02c8swip\u026a\u014b/", "Definition: ignoring distinctions", "Synonyms: wholesale"]}
