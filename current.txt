@@ -1,1 +1,1 @@
-{"data": ["2022-05-10T07:01:42.598566+00:00", 2286, "Your mother is", "burned-out", "Pronunciation: /\u02c8b\u025crnd\u02c8a\u028at/", "Definition: destroyed or badly damaged by fire", "Synonyms: burned, burned-over, burnt, burnt-out"]}
+{"data": ["2022-05-10T08:01:21.217734+00:00", 2287, "Your mother is", "bunglesome", "Pronunciation: /\u02c8b\u0259\u014b\u0261\u0259ls\u0259m/", "Definition: difficult to handle or manage especially because of shape", "Synonyms: awkward, clumsy, ungainly"]}
