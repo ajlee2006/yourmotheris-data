@@ -1,1 +1,1 @@
-{"data": ["2022-05-10T22:00:27.082229+00:00", 2301, "Your mother is", "functioning", "Pronunciation: /\u02c8f\u028c\u014bk\u0283\u028cn\u026a\u014b/", "Definition: performing or able to perform its regular function", ""]}
+{"data": ["2022-05-10T23:00:40.871079+00:00", 2302, "Your mother is", "filter-tipped", "Similar to: tipped", "Definition: of a cigar or cigarette; having a tip designed to filter the smoke", ""]}
