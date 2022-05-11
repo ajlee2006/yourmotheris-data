@@ -1,1 +1,1 @@
-{"data": ["2022-05-11T16:01:31.806398+00:00", 2319, "Your mother is", "execrable", "Pronunciation: /\u02c8\u025bks\u0259kr\u0259b\u0259l/", "Definition: of very poor quality or condition", "Synonyms: deplorable, miserable, woeful, wretched"]}
+{"data": ["2022-05-11T17:00:58.208506+00:00", 2320, "Your mother is", "imperial", "Pronunciation: /\u026am\u02c8piri\u0259l/", "Definition: belonging to or befitting a supreme ruler", "Synonyms: majestic, purple, regal, royal"]}
