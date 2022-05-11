@@ -1,1 +1,1 @@
-{"data": ["2022-05-11T09:01:10.494033+00:00", 2312, "Your mother is", "clip-on", "Pronunciation: /kl\u026ap-\u0251n/", "Definition: attachable by a clip", ""]}
+{"data": ["2022-05-11T10:00:45.884338+00:00", 2313, "Your mother is", "untenable", "Pronunciation: /\u0259n\u02c8t\u025bn\u0259b\u0259l/", "Definition: (of theories etc) incapable of being defended or justified", "Synonyms: indefensible"]}
