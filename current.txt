@@ -1,1 +1,1 @@
-{"data": ["2022-05-11T11:00:48.083128+00:00", 2314, "Your mother is", "driving", "Pronunciation: /\u02c8dra\u026av\u026a\u014b/", "Definition: having the power of driving or impelling", "Synonyms: impulsive"]}
+{"data": ["2022-05-11T12:01:21.429864+00:00", 2315, "Your mother is", "liverish", "Pronunciation: /\u02c8l\u026av\u0259r\u026a\u0283/", "Definition: suffering from or suggesting a liver disorder or gastric distress", "Synonyms: bilious, livery"]}
