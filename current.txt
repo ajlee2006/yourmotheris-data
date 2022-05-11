@@ -1,1 +1,1 @@
-{"data": ["2022-05-11T08:01:19.505002+00:00", 2311, "Your mother is", "anodyne", "Pronunciation: /\u02c8\u00e6n\u0259\u02ccda\u026an/", "Definition: capable of relieving pain", "Synonyms: analgesic, analgetic"]}
+{"data": ["2022-05-11T09:01:10.494033+00:00", 2312, "Your mother is", "clip-on", "Pronunciation: /kl\u026ap-\u0251n/", "Definition: attachable by a clip", ""]}
