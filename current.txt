@@ -1,1 +1,1 @@
-{"data": ["2022-05-11T13:01:16.877564+00:00", 2316, "Your mother is", "armour-plated", "Similar to: armored", "Definition: covered with heavy steel", "Synonyms: armor-clad, armor-plated, armour-clad, steel-plated"]}
+{"data": ["2022-05-11T14:00:49.866796+00:00", 2317, "Your mother is", "free-thinking", "Similar to: broad-minded", "Definition: unwilling to accept authority or dogma (especially in religion)", "Synonyms: latitudinarian, undogmatic, undogmatical"]}
