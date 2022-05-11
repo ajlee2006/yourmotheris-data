@@ -1,1 +1,1 @@
-{"data": ["2022-05-11T00:01:22.177165+00:00", 2303, "Your mother is", "load-bearing", "Similar to: bearing", "Definition: capable of bearing a structural load", "Synonyms: supporting"]}
+{"data": ["2022-05-11T01:00:36.107612+00:00", 2304, "Your mother is", "evangelistic", "Pronunciation: /\u026a\u02ccv\u00e6nd\u0292\u0259\u02c8l\u026ast\u026ak/", "Definition: marked by ardent or zealous enthusiasm for a cause", "Synonyms: evangelical"]}
