@@ -1,1 +1,1 @@
-{"data": ["2022-05-11T15:00:17.051095+00:00", 2318, "Your mother is", "minatory", "Pronunciation: /\u02c8m\u026an\u0259\u02ccto\u028ari/", "Definition: threatening or foreshadowing evil or tragic developments", "Synonyms: baleful, forbidding, menacing, minacious, ominous, sinister, threatening"]}
+{"data": ["2022-05-11T16:01:31.806398+00:00", 2319, "Your mother is", "execrable", "Pronunciation: /\u02c8\u025bks\u0259kr\u0259b\u0259l/", "Definition: of very poor quality or condition", "Synonyms: deplorable, miserable, woeful, wretched"]}
