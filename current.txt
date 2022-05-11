@@ -1,1 +1,1 @@
-{"data": ["2022-05-11T19:00:31.561782+00:00", 2322, "Your mother is", "graduate", "Pronunciation: /\u02c8gr\u00e6d\u0292u\u02cce\u026at/", "Definition: of or relating to studies beyond a bachelor's degree", "Synonyms: postgraduate"]}
+{"data": ["2022-05-11T20:01:00.040966+00:00", 2323, "Your mother is", "sick", "Pronunciation: /s\u026ak/", "Definition: affected by an impairment of normal physical or mental function", "Synonyms: ill"]}
