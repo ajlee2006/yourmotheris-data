@@ -1,1 +1,1 @@
-{"data": ["2022-05-11T17:00:58.208506+00:00", 2320, "Your mother is", "imperial", "Pronunciation: /\u026am\u02c8piri\u0259l/", "Definition: belonging to or befitting a supreme ruler", "Synonyms: majestic, purple, regal, royal"]}
+{"data": ["2022-05-11T18:00:48.525272+00:00", 2321, "Your mother is", "vile", "Pronunciation: /va\u026al/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, noisome, offensive, queasy, sickening"]}
