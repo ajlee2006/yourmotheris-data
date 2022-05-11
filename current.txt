@@ -1,1 +1,1 @@
-{"data": ["2022-05-11T18:00:48.525272+00:00", 2321, "Your mother is", "vile", "Pronunciation: /va\u026al/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, noisome, offensive, queasy, sickening"]}
+{"data": ["2022-05-11T19:00:31.561782+00:00", 2322, "Your mother is", "graduate", "Pronunciation: /\u02c8gr\u00e6d\u0292u\u02cce\u026at/", "Definition: of or relating to studies beyond a bachelor's degree", "Synonyms: postgraduate"]}
