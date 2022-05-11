@@ -1,1 +1,1 @@
-{"data": ["2022-05-11T02:00:25.466286+00:00", 2305, "Your mother is", "especial", "Pronunciation: /\u025b\u02c8sp\u025b\u0283\u0259l/", "Definition: surpassing what is common or usual or expected", "Synonyms: exceptional, particular, special"]}
+{"data": ["2022-05-11T03:01:11.473676+00:00", 2306, "Your mother is", "ribbonlike", "Similar to: thin", "Definition: long and thin; resembling a ribbon", "Synonyms: ribbony"]}
