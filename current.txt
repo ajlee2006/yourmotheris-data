@@ -1,1 +1,1 @@
-{"data": ["2022-05-12T09:01:14.007400+00:00", 2336, "Your mother is", "intelligent", "Pronunciation: /\u026an\u02c8t\u025bl\u026ad\u0292\u0259nt/", "Definition: possessing sound knowledge", "Synonyms: well-informed"]}
+{"data": ["2022-05-12T10:00:14.300180+00:00", 2337, "Your mother is", "antepenultimate", "Pronunciation: /\u02cc\u00e6ntip\u026a\u02c8n\u0259lt\u0259m\u026at/", "Definition: third from last", ""]}
