@@ -1,1 +1,1 @@
-{"data": ["2022-05-12T13:00:17.786778+00:00", 2340, "Your mother is", "good-for-nothing", "Pronunciation: /\u02c8\u0261\u028adf\u0259r-\u02c8n\u0259\u03b8\u026a\u014b/", "Definition: without merit; of little or no value or use", "Synonyms: good-for-naught, meritless, no-account, no-count, no-good, sorry"]}
+{"data": ["2022-05-12T14:01:11.218544+00:00", 2341, "Your mother is", "barbarian", "Pronunciation: /b\u0251r\u02c8b\u025cri\u0259n/", "Definition: without civilizing influences", "Synonyms: barbaric, savage, uncivilised, uncivilized, wild"]}
