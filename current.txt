@@ -1,1 +1,1 @@
-{"data": ["2022-05-12T14:01:11.218544+00:00", 2341, "Your mother is", "barbarian", "Pronunciation: /b\u0251r\u02c8b\u025cri\u0259n/", "Definition: without civilizing influences", "Synonyms: barbaric, savage, uncivilised, uncivilized, wild"]}
+{"data": ["2022-05-12T15:00:41.371257+00:00", 2342, "Your mother is", "unbeatable", "Pronunciation: /\u0259n\u02c8bit\u0259b\u0259l/", "Definition: incapable of being overcome or subdued", "Synonyms: invincible, unvanquishable"]}
