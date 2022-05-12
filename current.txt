@@ -1,1 +1,1 @@
-{"data": ["2022-05-12T12:01:30.013082+00:00", 2339, "Your mother is", "unclassified", "Pronunciation: /\u0259n\u02c8kl\u00e6s\u0259\u02ccfa\u026ad/", "Definition: not arranged in any specific grouping", ""]}
+{"data": ["2022-05-12T13:00:17.786778+00:00", 2340, "Your mother is", "good-for-nothing", "Pronunciation: /\u02c8\u0261\u028adf\u0259r-\u02c8n\u0259\u03b8\u026a\u014b/", "Definition: without merit; of little or no value or use", "Synonyms: good-for-naught, meritless, no-account, no-count, no-good, sorry"]}
