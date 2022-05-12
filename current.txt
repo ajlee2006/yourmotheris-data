@@ -1,1 +1,1 @@
-{"data": ["2022-05-12T07:01:15.384042+00:00", 2334, "Your mother is", "unfailing", "Pronunciation: /\u0259n\u02c8fe\u026al\u026a\u014b/", "Definition: unceasing", "Synonyms: unflagging"]}
+{"data": ["2022-05-12T08:01:35.695832+00:00", 2335, "Your mother is", "dealt out", "Similar to: distributed", "Definition: given out in portions", "Synonyms: apportioned, doled out, meted out, parceled out"]}
