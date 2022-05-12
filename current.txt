@@ -1,1 +1,1 @@
-{"data": ["2022-05-12T00:01:38.685386+00:00", 2327, "Your mother is", "plastered", "Pronunciation: /\u02c8pl\u00e6st\u0259rd/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, slopped, sloshed, smashed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
+{"data": ["2022-05-12T01:00:49.000624+00:00", 2328, "Your mother is", "parhelic", "Pronunciation: /p\u0251r\u02c8hil\u026ak/", "Definition: relating to or resembling a parhelion", "Synonyms: parheliacal"]}
