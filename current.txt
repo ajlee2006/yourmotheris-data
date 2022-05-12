@@ -1,1 +1,1 @@
-{"data": ["2022-05-11T23:00:39.125419+00:00", 2326, "Your mother is", "trigonal", "Pronunciation: /\u02c8tr\u026a\u0261\u0259n\u0259l/", "Definition: having threefold symmetry", "Synonyms: rhombohedral"]}
+{"data": ["2022-05-12T00:01:38.685386+00:00", 2327, "Your mother is", "plastered", "Pronunciation: /\u02c8pl\u00e6st\u0259rd/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, slopped, sloshed, smashed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
