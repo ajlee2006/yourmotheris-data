@@ -1,1 +1,1 @@
-{"data": ["2022-05-12T18:01:10.671320+00:00", 2345, "Your mother is", "fluent", "Pronunciation: /\u02c8flu\u0259nt/", "Definition: expressing yourself readily, clearly, effectively", "Synonyms: eloquent, facile, silver, silver-tongued, smooth-spoken"]}
+{"data": ["2022-05-12T19:00:12.185094+00:00", 2346, "Your mother is", "thirteen", "Pronunciation: /\u03b8\u025cr-\u02c8tin/", "Definition: being one more than twelve", "Synonyms: 13, xiii"]}
