@@ -1,1 +1,1 @@
-{"data": ["2022-05-12T20:01:04.045698+00:00", 2347, "Your mother is", "knifelike", "Pronunciation: /\u02c8na\u026a\u02ccfla\u026ak/", "Definition: painful as if caused by a sharp instrument", "Synonyms: cutting, keen, lancinate, lancinating, piercing, stabbing"]}
+{"data": ["2022-05-12T21:00:18.218908+00:00", 2348, "Your mother is", "nonchristian", "Similar to: unchristian", "Definition: not believing in Christ", "Synonyms: christless"]}
