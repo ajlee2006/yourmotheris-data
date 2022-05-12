@@ -1,1 +1,1 @@
-{"data": ["2022-05-12T02:00:12.685744+00:00", 2329, "Your mother is", "allegro", "Pronunciation: /\u0259\u02c8le\u026agro\u028a/", "Definition: (of tempo) fast", ""]}
+{"data": ["2022-05-12T03:00:47.062119+00:00", 2330, "Your mother is", "unflawed", "Similar to: perfect", "Definition: without a flaw", "Synonyms: flawless"]}
