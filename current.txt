@@ -1,1 +1,1 @@
-{"data": ["2022-05-12T19:00:12.185094+00:00", 2346, "Your mother is", "thirteen", "Pronunciation: /\u03b8\u025cr-\u02c8tin/", "Definition: being one more than twelve", "Synonyms: 13, xiii"]}
+{"data": ["2022-05-12T20:01:04.045698+00:00", 2347, "Your mother is", "knifelike", "Pronunciation: /\u02c8na\u026a\u02ccfla\u026ak/", "Definition: painful as if caused by a sharp instrument", "Synonyms: cutting, keen, lancinate, lancinating, piercing, stabbing"]}
