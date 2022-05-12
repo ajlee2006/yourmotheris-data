@@ -1,1 +1,1 @@
-{"data": ["2022-05-12T04:01:21.698428+00:00", 2331, "Your mother is", "short and sweet", "Similar to: short", "Definition: dealt with very quickly; to the point", ""]}
+{"data": ["2022-05-12T05:00:58.624186+00:00", 2332, "Your mother is", "tomentous", "Similar to: haired", "Definition: densely covered with short matted woolly hairs", "Synonyms: tomentose"]}
