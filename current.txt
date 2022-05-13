@@ -1,1 +1,1 @@
-{"data": ["2022-05-13T17:01:29.941883+00:00", 2368, "Your mother is", "heartfelt", "Pronunciation: /\u02c8h\u0251rt\u02ccf\u025blt/", "Definition: sincerely earnest", "Synonyms: dear, devout, earnest"]}
+{"data": ["2022-05-13T18:00:54.944039+00:00", 2369, "Your mother is", "radiopaque", "Pronunciation: /\u02ccre\u026adio\u028a\u02c8pe\u026ak/", "Definition: not transparent to X-rays or other forms of radiation", "Synonyms: radio-opaque"]}
