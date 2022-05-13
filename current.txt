@@ -1,1 +1,1 @@
-{"data": ["2022-05-13T15:00:28.637854+00:00", 2366, "Your mother is", "antonymous", "Pronunciation: /\u00e6n\u02c8t\u0251n\u0259m\u0259s/", "Definition: of words: having opposite meanings", ""]}
+{"data": ["2022-05-13T16:00:41.795279+00:00", 2367, "Your mother is", "unpermissive", "", "Definition: not inclined to grant permission; severe in discipline", ""]}
