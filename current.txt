@@ -1,1 +1,1 @@
-{"data": ["2022-05-13T01:00:47.318964+00:00", 2352, "Your mother is", "orthopedic", "Pronunciation: /\u02cc\u0254r\u03b8\u0259\u02c8pid\u026ak/", "Definition: of or relating to orthopedics", "Synonyms: orthopaedic, orthopedical"]}
+{"data": ["2022-05-13T02:01:26.440004+00:00", 2353, "Your mother is", "open-collared", "Similar to: unbuttoned", "Definition: of a shirt; not buttoned at the neck", ""]}
