@@ -1,1 +1,1 @@
-{"data": ["2022-05-13T03:00:21.633136+00:00", 2354, "Your mother is", "top-secret", "Pronunciation: /t\u0251p-\u02c8sikr\u026at/", "Definition: the highest official level of classification of documents", ""]}
+{"data": ["2022-05-13T04:01:30.122273+00:00", 2355, "Your mother is", "exothermic", "Pronunciation: /\u02cc\u025bkso\u028a\u02c8\u03b8\u025crm\u026ak/", "Definition: (of a chemical reaction or compound) occurring or formed with the liberation of heat", "Synonyms: exothermal, heat-releasing"]}
