@@ -1,1 +1,1 @@
-{"data": ["2022-05-13T10:01:20.997208+00:00", 2361, "Your mother is", "lissome", "Pronunciation: /\u02c8l\u026as\u0259m/", "Definition: gracefully thin and bending and moving with ease", "Synonyms: lissom, lithe, lithesome, sinuous, supple"]}
+{"data": ["2022-05-13T11:00:56.651551+00:00", 2362, "Your mother is", "narcotic", "Pronunciation: /n\u0251r\u02c8k\u0259t\u026ac/", "Definition: inducing stupor or narcosis", "Synonyms: narcotising, narcotizing"]}
