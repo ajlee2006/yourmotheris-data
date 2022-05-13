@@ -1,1 +1,1 @@
-{"data": ["2022-05-13T21:00:37.948379+00:00", 2372, "Your mother is", "mediaeval", "Pronunciation: /\u02c8midi\u02c8iv\u0259l/", "Definition: relating to or belonging to the Middle Ages", "Synonyms: medieval"]}
+{"data": ["2022-05-13T22:00:47.163902+00:00", 2373, "Your mother is", "expressionless", "Pronunciation: /\u026ak\u02ccspr\u025b\u0283\u028cnl\u026as/", "Definition: deliberately impassive in manner", "Synonyms: deadpan, impassive, poker-faced, unexpressive"]}
