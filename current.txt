@@ -1,1 +1,1 @@
-{"data": ["2022-05-13T18:00:54.944039+00:00", 2369, "Your mother is", "radiopaque", "Pronunciation: /\u02ccre\u026adio\u028a\u02c8pe\u026ak/", "Definition: not transparent to X-rays or other forms of radiation", "Synonyms: radio-opaque"]}
+{"data": ["2022-05-13T19:01:12.934092+00:00", 2370, "Your mother is", "affected", "Pronunciation: /\u0259\u02c8f\u025bkt\u026ad/", "Definition: speaking or behaving in an artificial way to make an impression", "Synonyms: unnatural"]}
