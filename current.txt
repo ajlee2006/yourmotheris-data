@@ -1,1 +1,1 @@
-{"data": ["2022-05-14T16:01:10.131399+00:00", 2391, "Your mother is", "unrepeatable", "Pronunciation: /\u02cc\u0259nri\u02c8pit\u0259b\u0259l/", "Definition: not able or fit to be repeated or quoted", "Synonyms: unquotable"]}
+{"data": ["2022-05-14T17:01:02.886364+00:00", 2392, "Your mother is", "akin", "Pronunciation: /\u0259\u02c8k\u026an/", "Definition: similar in quality or character", "Synonyms: kindred"]}
