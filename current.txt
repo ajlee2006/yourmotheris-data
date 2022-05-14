@@ -1,1 +1,1 @@
-{"data": ["2022-05-14T11:00:43.216792+00:00", 2386, "Your mother is", "tilled", "Similar to: ploughed", "Definition: turned or stirred by plowing or harrowing or hoeing", ""]}
+{"data": ["2022-05-14T12:00:44.084614+00:00", 2387, "Your mother is", "bidentate", "Pronunciation: /ba\u026a\u02c8d\u025bnte\u026at/", "Definition: having toothlike projections that are themselves toothed", ""]}
