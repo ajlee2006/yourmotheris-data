@@ -1,1 +1,1 @@
-{"data": ["2022-05-14T08:01:40.389841+00:00", 2383, "Your mother is", "unassisted", "Pronunciation: /\u02cc\u0259n\u0259\u02c8s\u026ast\u026ad/", "Definition: unsupported by other people", "Synonyms: single-handed, unbacked"]}
+{"data": ["2022-05-14T09:01:01.217481+00:00", 2384, "Your mother is", "yellowish-white", "Pronunciation: /\u02c8j\u025blo\u028a\u026a\u0283-hwa\u026at/", "Definition: of a white tinged with yellow", "Synonyms: yellow-white"]}
