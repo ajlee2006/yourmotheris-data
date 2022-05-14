@@ -1,1 +1,1 @@
-{"data": ["2022-05-14T09:01:01.217481+00:00", 2384, "Your mother is", "yellowish-white", "Pronunciation: /\u02c8j\u025blo\u028a\u026a\u0283-hwa\u026at/", "Definition: of a white tinged with yellow", "Synonyms: yellow-white"]}
+{"data": ["2022-05-14T10:00:45.661978+00:00", 2385, "Your mother is", "unsealed", "Pronunciation: /\u0259n\u02c8sild/", "Definition: not established or confirmed", "Synonyms: uncertain"]}
