@@ -1,1 +1,1 @@
-{"data": ["2022-05-14T20:00:10.866467+00:00", 2395, "Your mother is", "conservative", "Pronunciation: /k\u0259n\u02c8s\u025crv\u0259t\u026av/", "Definition: conforming to the standards and conventions of the middle class", "Synonyms: bourgeois, materialistic"]}
+{"data": ["2022-05-14T21:00:40.812375+00:00", 2396, "Your mother is", "actinal", "Pronunciation: /\u02c8\u00e6kt\u0259n\u0259l/", "Definition: (of radiate organisms) located on the surface or end on which the mouth is situated", ""]}
