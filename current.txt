@@ -1,1 +1,1 @@
-{"data": ["2022-05-14T19:00:51.776574+00:00", 2394, "Your mother is", "radiosensitive", "Pronunciation: /\u02ccre\u026adio\u028a\u02c8s\u025bns\u026at\u026av/", "Definition: sensitive to radiation", ""]}
+{"data": ["2022-05-14T20:00:10.866467+00:00", 2395, "Your mother is", "conservative", "Pronunciation: /k\u0259n\u02c8s\u025crv\u0259t\u026av/", "Definition: conforming to the standards and conventions of the middle class", "Synonyms: bourgeois, materialistic"]}
