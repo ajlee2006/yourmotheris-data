@@ -1,1 +1,1 @@
-{"data": ["2022-05-14T18:00:30.691287+00:00", 2393, "Your mother is", "water-resistant", "Pronunciation: /\u02c8w\u0254t\u0259rr\u026a\u02ccz\u026ast\u0259nt/", "Definition: hindering the penetration of water", "Synonyms: water-repellent"]}
+{"data": ["2022-05-14T19:00:51.776574+00:00", 2394, "Your mother is", "radiosensitive", "Pronunciation: /\u02ccre\u026adio\u028a\u02c8s\u025bns\u026at\u026av/", "Definition: sensitive to radiation", ""]}
