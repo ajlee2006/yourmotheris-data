@@ -1,1 +1,1 @@
-{"data": ["2022-05-14T13:01:07.750882+00:00", 2388, "Your mother is", "farther", "Pronunciation: /\u02c8f\u0251r\u00f0\u0259r/", "Definition: more distant in especially degree", "Synonyms: further"]}
+{"data": ["2022-05-14T14:00:42.137769+00:00", 2389, "Your mother is", "unfrequented", "Pronunciation: /\u02cc\u0259nfri\u02c8kw\u025bnt\u026ad/", "Definition: devoid of creatures", "Synonyms: lonely, solitary"]}
