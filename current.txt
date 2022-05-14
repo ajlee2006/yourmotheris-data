@@ -1,1 +1,1 @@
-{"data": ["2022-05-14T21:00:40.812375+00:00", 2396, "Your mother is", "actinal", "Pronunciation: /\u02c8\u00e6kt\u0259n\u0259l/", "Definition: (of radiate organisms) located on the surface or end on which the mouth is situated", ""]}
+{"data": ["2022-05-14T22:00:52.834249+00:00", 2397, "Your mother is", "middling", "Pronunciation: /\u02c8m\u026adl\u026a\u014b/", "Definition: lacking exceptional quality or ability", "Synonyms: average, fair, mediocre"]}
