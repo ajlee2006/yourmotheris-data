@@ -1,1 +1,1 @@
-{"data": ["2022-05-14T05:00:43.562837+00:00", 2380, "Your mother is", "sure-fire", "Pronunciation: /\u0283\u028ar-fa\u026a\u0259r/", "Definition: certain to be successful", ""]}
+{"data": ["2022-05-14T06:00:46.148064+00:00", 2381, "Your mother is", "laid", "Pronunciation: /le\u026ad/", "Definition: set down according to a plan", "Synonyms: set"]}
