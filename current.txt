@@ -1,1 +1,1 @@
-{"data": ["2022-05-14T17:01:02.886364+00:00", 2392, "Your mother is", "akin", "Pronunciation: /\u0259\u02c8k\u026an/", "Definition: similar in quality or character", "Synonyms: kindred"]}
+{"data": ["2022-05-14T18:00:30.691287+00:00", 2393, "Your mother is", "water-resistant", "Pronunciation: /\u02c8w\u0254t\u0259rr\u026a\u02ccz\u026ast\u0259nt/", "Definition: hindering the penetration of water", "Synonyms: water-repellent"]}
