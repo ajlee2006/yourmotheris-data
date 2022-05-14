@@ -1,1 +1,1 @@
-{"data": ["2022-05-14T04:01:23.702954+00:00", 2379, "Your mother is", "about", "Pronunciation: /\u0259\u02c8ba\u028at/", "Definition: on the move", "Synonyms: astir"]}
+{"data": ["2022-05-14T05:00:43.562837+00:00", 2380, "Your mother is", "sure-fire", "Pronunciation: /\u0283\u028ar-fa\u026a\u0259r/", "Definition: certain to be successful", ""]}
