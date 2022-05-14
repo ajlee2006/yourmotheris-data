@@ -1,1 +1,1 @@
-{"data": ["2022-05-13T23:01:14.686667+00:00", 2374, "Your mother is", "berserk", "Pronunciation: /b\u0259r\u02c8s\u025crk/", "Definition: wildly frenzied and out of control", "Synonyms: amok, amuck"]}
+{"data": ["2022-05-14T00:01:52.190552+00:00", 2375, "Your mother is", "adsorbent", "Similar to: chemisorptive", "Definition: having capacity or tendency to adsorb or cause to accumulate on a surface", "Synonyms: adsorptive, surface-assimilative"]}
