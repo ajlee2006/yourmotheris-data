@@ -1,1 +1,1 @@
-{"data": ["2022-05-14T12:00:44.084614+00:00", 2387, "Your mother is", "bidentate", "Pronunciation: /ba\u026a\u02c8d\u025bnte\u026at/", "Definition: having toothlike projections that are themselves toothed", ""]}
+{"data": ["2022-05-14T13:01:07.750882+00:00", 2388, "Your mother is", "farther", "Pronunciation: /\u02c8f\u0251r\u00f0\u0259r/", "Definition: more distant in especially degree", "Synonyms: further"]}
