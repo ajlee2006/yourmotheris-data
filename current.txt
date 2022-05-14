@@ -1,1 +1,1 @@
-{"data": ["2022-05-14T14:00:42.137769+00:00", 2389, "Your mother is", "unfrequented", "Pronunciation: /\u02cc\u0259nfri\u02c8kw\u025bnt\u026ad/", "Definition: devoid of creatures", "Synonyms: lonely, solitary"]}
+{"data": ["2022-05-14T15:00:25.542130+00:00", 2390, "Your mother is", "conducive", "Pronunciation: /k\u0259n\u02c8dus\u026av/", "Definition: tending to bring about; being partly responsible for", "Synonyms: contributing, contributive, contributory, tributary"]}
