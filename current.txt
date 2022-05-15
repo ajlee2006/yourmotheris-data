@@ -1,1 +1,1 @@
-{"data": ["2022-05-15T17:01:01.828913+00:00", 2416, "Your mother is", "straitlaced", "Similar to: proper", "Definition: exaggeratedly proper", "Synonyms: priggish, prim, prissy, prudish, puritanical, square-toed, straight-laced, straightlaced, strait-laced, tight-laced, victorian"]}
+{"data": ["2022-05-15T18:00:51.451183+00:00", 2417, "Your mother is", "timid", "Pronunciation: /\u02c8t\u026am\u026ad/", "Definition: lacking conviction or boldness or courage", "Synonyms: faint, faint-hearted, fainthearted"]}
