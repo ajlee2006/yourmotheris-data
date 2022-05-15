@@ -1,1 +1,1 @@
-{"data": ["2022-05-15T06:01:46.591116+00:00", 2405, "Your mother is", "assistant", "Pronunciation: /\u0259\u02c8s\u026ast\u0259nt/", "Definition: of or relating to a person who is subordinate to another", "Synonyms: adjunct"]}
+{"data": ["2022-05-15T07:00:46.095332+00:00", 2406, "Your mother is", "loud-mouthed", "Pronunciation: /\u02c8la\u028ad\u02ccma\u028a\u00f0d/", "Definition: given to loud offensive talk", ""]}
