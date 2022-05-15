@@ -1,1 +1,1 @@
-{"data": ["2022-05-15T18:00:51.451183+00:00", 2417, "Your mother is", "timid", "Pronunciation: /\u02c8t\u026am\u026ad/", "Definition: lacking conviction or boldness or courage", "Synonyms: faint, faint-hearted, fainthearted"]}
+{"data": ["2022-05-15T19:00:50.921892+00:00", 2418, "Your mother is", "sealed", "Pronunciation: /sild/", "Definition: (of walls) covered with a coat of plaster", "Synonyms: plastered"]}
