@@ -1,1 +1,1 @@
-{"data": ["2022-05-15T13:00:59.334980+00:00", 2412, "Your mother is", "unsupported", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8po\u028art\u026ad/", "Definition: not held up or borne", ""]}
+{"data": ["2022-05-15T14:00:27.156592+00:00", 2413, "Your mother is", "vain", "Pronunciation: /ve\u026an/", "Definition: unproductive of success", "Synonyms: bootless, fruitless, futile, sleeveless"]}
