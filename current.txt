@@ -1,1 +1,1 @@
-{"data": ["2022-05-15T07:00:46.095332+00:00", 2406, "Your mother is", "loud-mouthed", "Pronunciation: /\u02c8la\u028ad\u02ccma\u028a\u00f0d/", "Definition: given to loud offensive talk", ""]}
+{"data": ["2022-05-15T08:00:54.045297+00:00", 2407, "Your mother is", "nonrestrictive", "Pronunciation: /\u02ccn\u0251nr\u026a\u02c8str\u026akt\u026av/", "Definition: not limiting the reference of a modified word or phrase", ""]}
