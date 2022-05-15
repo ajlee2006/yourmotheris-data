@@ -1,1 +1,1 @@
-{"data": ["2022-05-15T04:00:39.328394+00:00", 2403, "Your mother is", "shockable", "", "Definition: capable of being shocked", "Synonyms: narrow-minded"]}
+{"data": ["2022-05-15T05:01:22.377121+00:00", 2404, "Your mother is", "persuasible", "Similar to: susceptible", "Definition: being susceptible to persuasion", "Synonyms: convincible, persuadable, suasible"]}
