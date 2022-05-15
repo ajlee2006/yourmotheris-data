@@ -1,1 +1,1 @@
-{"data": ["2022-05-15T20:00:32.891073+00:00", 2419, "Your mother is", "constituted", "Pronunciation: /\u02c8k\u0251nst\u028c\u02cctut\u028cd/", "Definition: brought about or set up or accepted; especially long established", "Synonyms: established"]}
+{"data": ["2022-05-15T21:00:41.068104+00:00", 2420, "Your mother is", "alchemistical", "", "Definition: of or relating to alchemists", "Synonyms: alchemistic"]}
