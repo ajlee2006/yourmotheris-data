@@ -1,1 +1,1 @@
-{"data": ["2022-05-15T16:00:36.876155+00:00", 2415, "Your mother is", "breezy", "Pronunciation: /\u02c8brizi/", "Definition: abounding in or exposed to the wind or breezes", "Synonyms: blowy, windy"]}
+{"data": ["2022-05-15T17:01:01.828913+00:00", 2416, "Your mother is", "straitlaced", "Similar to: proper", "Definition: exaggeratedly proper", "Synonyms: priggish, prim, prissy, prudish, puritanical, square-toed, straight-laced, straightlaced, strait-laced, tight-laced, victorian"]}
