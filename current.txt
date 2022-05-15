@@ -1,1 +1,1 @@
-{"data": ["2022-05-15T03:00:47.825831+00:00", 2402, "Your mother is", "maladroit", "Pronunciation: /\u02ccm\u00e6l\u0259\u02c8dr\u0254\u026at/", "Definition: not adroit", ""]}
+{"data": ["2022-05-15T04:00:39.328394+00:00", 2403, "Your mother is", "shockable", "", "Definition: capable of being shocked", "Synonyms: narrow-minded"]}
