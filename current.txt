@@ -1,1 +1,1 @@
-{"data": ["2022-05-15T21:00:41.068104+00:00", 2420, "Your mother is", "alchemistical", "", "Definition: of or relating to alchemists", "Synonyms: alchemistic"]}
+{"data": ["2022-05-15T22:00:18.678972+00:00", 2421, "Your mother is", "consultive", "Pronunciation: /k\u0259n\u02c8s\u0259lt\u026av/", "Definition: giving advice", "Synonyms: advisory, consultative, consultatory"]}
