@@ -1,1 +1,1 @@
-{"data": ["2022-05-15T01:01:13.415668+00:00", 2400, "Your mother is", "scientific", "Pronunciation: /\u02ccsa\u026a\u0259n\u02c8t\u026af\u026ak/", "Definition: conforming with the principles or methods used in science", ""]}
+{"data": ["2022-05-15T02:00:55.364323+00:00", 2401, "Your mother is", "convex", "Pronunciation: /k\u0251n\u02c8v\u025bks/", "Definition: curving or bulging outward", "Synonyms: bulging"]}
