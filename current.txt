@@ -1,1 +1,1 @@
-{"data": ["2022-05-16T11:00:38.191310+00:00", 2434, "Your mother is", "many-lobed", "Pronunciation: /\u02c8m\u025bni-lo\u028abd/", "Definition: having many lobes", ""]}
+{"data": ["2022-05-16T12:00:21.489212+00:00", 2435, "Your mother is", "unsentimental", "Pronunciation: /\u02cc\u0259ns\u025bnt\u026a\u02c8m\u025bnt\u0259l/", "Definition: facing facts or difficulties realistically and with determination", "Synonyms: tough-minded"]}
