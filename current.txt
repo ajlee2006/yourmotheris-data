@@ -1,1 +1,1 @@
-{"data": ["2022-05-16T15:00:19.459534+00:00", 2438, "Your mother is", "2nd", "Similar to: ordinal", "Definition: coming next after the first in position in space or time or degree or magnitude", "Synonyms: 2d, second"]}
+{"data": ["2022-05-16T16:00:37.327431+00:00", 2439, "Your mother is", "smooth", "Pronunciation: /smu\u00f0/", "Definition: (music) without breaks between notes; smooth and connected", "Synonyms: legato"]}
