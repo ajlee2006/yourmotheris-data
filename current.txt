@@ -1,1 +1,1 @@
-{"data": ["2022-05-16T21:01:07.320534+00:00", 2444, "Your mother is", "blond", "Pronunciation: /bl\u0251nd/", "Definition: being or having light colored skin and hair and usually blue or grey eyes", "Synonyms: blonde, light-haired"]}
+{"data": ["2022-05-16T22:00:45.843183+00:00", 2445, "Your mother is", "flowery", "Pronunciation: /\u02c8fla\u028a\u0259ri/", "Definition: marked by elaborate rhetoric and elaborated with decorative details", "Synonyms: ornate"]}
