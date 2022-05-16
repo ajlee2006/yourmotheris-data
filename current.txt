@@ -1,1 +1,1 @@
-{"data": ["2022-05-16T12:00:21.489212+00:00", 2435, "Your mother is", "unsentimental", "Pronunciation: /\u02cc\u0259ns\u025bnt\u026a\u02c8m\u025bnt\u0259l/", "Definition: facing facts or difficulties realistically and with determination", "Synonyms: tough-minded"]}
+{"data": ["2022-05-16T13:01:03.434078+00:00", 2436, "Your mother is", "inert", "Pronunciation: /\u026an\u02c8\u025crt/", "Definition: slow and apathetic", "Synonyms: sluggish, soggy, torpid"]}
