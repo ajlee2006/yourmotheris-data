@@ -1,1 +1,1 @@
-{"data": ["2022-05-16T17:01:23.395031+00:00", 2440, "Your mother is", "potted", "Pronunciation: /\u02c8p\u0251t\u026ad/", "Definition: (British informal) summarized or abridged", ""]}
+{"data": ["2022-05-16T18:00:39.069405+00:00", 2441, "Your mother is", "catarrhinian", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8r\u026ani\u0259n/", "Definition: of or related to Old World monkeys that have nostrils together and opening downward", "Synonyms: catarrhine"]}
