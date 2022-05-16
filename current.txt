@@ -1,1 +1,1 @@
-{"data": ["2022-05-16T00:02:04.430695+00:00", 2423, "Your mother is", "ill-treated", "Similar to: battered", "Definition: subjected to cruel treatment", "Synonyms: abused, maltreated, mistreated"]}
+{"data": ["2022-05-16T01:01:37.654251+00:00", 2424, "Your mother is", "lucullan", "Pronunciation: /lu\u02c8k\u0259l\u0259n/", "Definition: characterized by extravagance and profusion", "Synonyms: lavish, plush, plushy"]}
