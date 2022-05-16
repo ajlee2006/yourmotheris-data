@@ -1,1 +1,1 @@
-{"data": ["2022-05-16T03:00:42.307617+00:00", 2426, "Your mother is", "gray-headed", "Pronunciation: /gre\u026a-\u02c8h\u025bd\u026ad/", "Definition: showing characteristics of age, especially having grey or white hair", "Synonyms: gray, gray-haired, grey, grey-haired, grey-headed, grizzly, hoar, hoary, white-haired"]}
+{"data": ["2022-05-16T04:01:20.791256+00:00", 2427, "Your mother is", "spindle-shaped", "Pronunciation: /\u02c8sp\u026and\u0259l-\u0283e\u026apt/", "Definition: tapering at each end", "Synonyms: cigar-shaped, fusiform"]}
