@@ -1,1 +1,1 @@
-{"data": ["2022-05-16T01:01:37.654251+00:00", 2424, "Your mother is", "lucullan", "Pronunciation: /lu\u02c8k\u0259l\u0259n/", "Definition: characterized by extravagance and profusion", "Synonyms: lavish, plush, plushy"]}
+{"data": ["2022-05-16T02:02:03.625993+00:00", 2425, "Your mother is", "unargumentative", "Similar to: noncontentious", "Definition: not given to or characterized by argument", ""]}
