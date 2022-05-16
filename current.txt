@@ -1,1 +1,1 @@
-{"data": ["2022-05-16T13:01:03.434078+00:00", 2436, "Your mother is", "inert", "Pronunciation: /\u026an\u02c8\u025crt/", "Definition: slow and apathetic", "Synonyms: sluggish, soggy, torpid"]}
+{"data": ["2022-05-16T14:00:35.568354+00:00", 2437, "Your mother is", "nitrogenous", "Pronunciation: /na\u026a\u02c8tr\u0251d\u0292\u0259n\u0259s/", "Definition: of or relating to or containing nitrogen", "Synonyms: nitrogen-bearing"]}
