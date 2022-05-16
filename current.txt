@@ -1,1 +1,1 @@
-{"data": ["2022-05-16T04:01:20.791256+00:00", 2427, "Your mother is", "spindle-shaped", "Pronunciation: /\u02c8sp\u026and\u0259l-\u0283e\u026apt/", "Definition: tapering at each end", "Synonyms: cigar-shaped, fusiform"]}
+{"data": ["2022-05-16T05:01:22.352412+00:00", 2428, "Your mother is", "determining", "Pronunciation: /d\u026a\u02c8t\u025drm\u028cn\u026a\u014b/", "Definition: having the power or quality of deciding", "Synonyms: deciding, determinant, determinative"]}
