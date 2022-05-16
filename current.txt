@@ -1,1 +1,1 @@
-{"data": ["2022-05-16T09:00:48.838396+00:00", 2432, "Your mother is", "impecunious", "Pronunciation: /\u02cc\u026amp\u026a\u02c8kjuni\u0259s/", "Definition: not having enough money to pay for necessities", "Synonyms: hard up, in straitened circumstances, penniless, penurious, pinched"]}
+{"data": ["2022-05-16T10:00:52.623788+00:00", 2433, "Your mother is", "fourteenth", "Pronunciation: /\u02c8fo\u028ar\u02c8tin\u03b8/", "Definition: coming next after the thirteenth in position", "Synonyms: 14th"]}
