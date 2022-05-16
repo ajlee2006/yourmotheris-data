@@ -1,1 +1,1 @@
-{"data": ["2022-05-16T02:02:03.625993+00:00", 2425, "Your mother is", "unargumentative", "Similar to: noncontentious", "Definition: not given to or characterized by argument", ""]}
+{"data": ["2022-05-16T03:00:42.307617+00:00", 2426, "Your mother is", "gray-headed", "Pronunciation: /gre\u026a-\u02c8h\u025bd\u026ad/", "Definition: showing characteristics of age, especially having grey or white hair", "Synonyms: gray, gray-haired, grey, grey-haired, grey-headed, grizzly, hoar, hoary, white-haired"]}
