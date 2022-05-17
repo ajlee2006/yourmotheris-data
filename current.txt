@@ -1,1 +1,1 @@
-{"data": ["2022-05-17T08:01:09.913226+00:00", 2455, "Your mother is", "pushy", "Pronunciation: /\u02c8p\u028a\u0283i/", "Definition: marked by aggressive ambition and energy and initiative", "Synonyms: pushful"]}
+{"data": ["2022-05-17T09:01:08.389263+00:00", 2456, "Your mother is", "psychoanalytic", "Pronunciation: /\u02ccsa\u026ako\u028a\u02cc\u00e6n\u02c8\u0259l\u026at\u026ak/", "Definition: of or relating to or incorporating the methods and theory of psychiatric treatment originated by Sigmund Freud", "Synonyms: psychoanalytical"]}
