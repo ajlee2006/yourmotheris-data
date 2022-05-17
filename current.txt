@@ -1,1 +1,1 @@
-{"data": ["2022-05-17T20:00:56.807648+00:00", 2467, "Your mother is", "finno-ugric-speaking", "Similar to: communicative", "Definition: able to communicate in a Finno-Ugric language", ""]}
+{"data": ["2022-05-17T21:00:15.579307+00:00", 2468, "Your mother is", "fineable", "Pronunciation: /\u02c8fa\u026an\u0259b\u0259l/", "Definition: liable to a fine", "Synonyms: finable"]}
