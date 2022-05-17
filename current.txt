@@ -1,1 +1,1 @@
-{"data": ["2022-05-17T04:01:20.899690+00:00", 2451, "Your mother is", "interpersonal", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8p\u025crs\u0259n\u0259l/", "Definition: occurring among or involving several people", ""]}
+{"data": ["2022-05-17T05:01:30.514334+00:00", 2452, "Your mother is", "disgraceful", "Pronunciation: /d\u026as\u02c8gre\u026asf\u0259l/", "Definition: (used of conduct or character) deserving or bringing disgrace or shame", "Synonyms: black, ignominious, inglorious, opprobrious, shameful"]}
