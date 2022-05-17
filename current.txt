@@ -1,1 +1,1 @@
-{"data": ["2022-05-17T10:01:01.151247+00:00", 2457, "Your mother is", "impalpable", "Pronunciation: /\u026am\u02c8p\u00e6lp\u0259b\u0259l/", "Definition: incapable of being perceived by the senses especially the sense of touch", "Synonyms: intangible"]}
+{"data": ["2022-05-17T11:00:21.315967+00:00", 2458, "Your mother is", "unreconciled", "Pronunciation: /\u0259n\u02c8r\u025bk\u0259n\u02ccsa\u026ald/", "Definition: not made consistent or compatible", ""]}
