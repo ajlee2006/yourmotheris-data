@@ -1,1 +1,1 @@
-{"data": ["2022-05-17T14:00:36.519616+00:00", 2461, "Your mother is", "burdened", "Pronunciation: /\u02c8b\u025crd\u0259nd/", "Definition: bearing a physically heavy weight or load", "Synonyms: heavy-laden, loaded down"]}
+{"data": ["2022-05-17T15:00:49.779740+00:00", 2462, "Your mother is", "closemouthed", "Pronunciation: /klo\u028as\u02c8m\u00e6\u028a\u00f0d/", "Definition: inclined to secrecy or reticence about divulging information", "Synonyms: close, closelipped, secretive, tightlipped"]}
