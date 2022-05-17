@@ -1,1 +1,1 @@
-{"data": ["2022-05-16T23:00:48.544296+00:00", 2446, "Your mother is", "air-to-ground", "Pronunciation: /\u02c8\u025crt\u0259\u02c8gra\u028and/", "Definition: operating from or designed to be fired from aircraft at targets on the ground", "Synonyms: air-to-surface"]}
+{"data": ["2022-05-17T00:01:54.742580+00:00", 2447, "Your mother is", "metrical", "Pronunciation: /\u02c8m\u025btrik\u0259l/", "Definition: the rhythmic arrangement of syllables", "Synonyms: measured, metric"]}
