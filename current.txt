@@ -1,1 +1,1 @@
-{"data": ["2022-05-17T13:00:50.063571+00:00", 2460, "Your mother is", "incongruous", "Pronunciation: /\u026an\u02c8k\u0251\u014bgru\u0259s/", "Definition: lacking in harmony or compatibility or appropriateness", ""]}
+{"data": ["2022-05-17T14:00:36.519616+00:00", 2461, "Your mother is", "burdened", "Pronunciation: /\u02c8b\u025crd\u0259nd/", "Definition: bearing a physically heavy weight or load", "Synonyms: heavy-laden, loaded down"]}
