@@ -1,1 +1,1 @@
-{"data": ["2022-05-18T09:01:32.408584+00:00", 2480, "Your mother is", "amphiprostyle", "Pronunciation: /\u00e6m\u02c8f\u026apr\u0259\u02ccsta\u026al/", "Definition: marked by columniation having free columns in porticoes either at both ends or at both sides of a structure", "Synonyms: amphiprostylar, amphistylar, porticoed"]}
+{"data": ["2022-05-18T10:01:09.622191+00:00", 2481, "Your mother is", "collaborative", "Pronunciation: /k\u0259\u02c8l\u00e6b\u0259\u02ccre\u026at\u026av/", "Definition: accomplished by collaboration", ""]}
