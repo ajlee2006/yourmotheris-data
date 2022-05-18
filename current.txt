@@ -1,1 +1,1 @@
-{"data": ["2022-05-18T07:00:13.558236+00:00", 2478, "Your mother is", "nett", "Pronunciation: /n\u025bt/", "Definition: remaining after all deductions", "Synonyms: net"]}
+{"data": ["2022-05-18T08:00:59.959172+00:00", 2479, "Your mother is", "prevalent", "Pronunciation: /\u02c8pr\u025bv\u0259l\u0259nt/", "Definition: most frequent or common", "Synonyms: dominant, predominant, prevailing, rife"]}
