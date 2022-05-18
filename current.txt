@@ -1,1 +1,1 @@
-{"data": ["2022-05-18T08:00:59.959172+00:00", 2479, "Your mother is", "prevalent", "Pronunciation: /\u02c8pr\u025bv\u0259l\u0259nt/", "Definition: most frequent or common", "Synonyms: dominant, predominant, prevailing, rife"]}
+{"data": ["2022-05-18T09:01:32.408584+00:00", 2480, "Your mother is", "amphiprostyle", "Pronunciation: /\u00e6m\u02c8f\u026apr\u0259\u02ccsta\u026al/", "Definition: marked by columniation having free columns in porticoes either at both ends or at both sides of a structure", "Synonyms: amphiprostylar, amphistylar, porticoed"]}
