@@ -1,1 +1,1 @@
-{"data": ["2022-05-18T04:01:18.927960+00:00", 2475, "Your mother is", "humongous", "Pronunciation: /hju\u02c8m\u0254\u014b\u0261\u028cs/", "Definition: (used informally) very large", "Synonyms: banging, thumping, walloping, whopping"]}
+{"data": ["2022-05-18T05:01:18.164548+00:00", 2476, "Your mother is", "unrested", "Pronunciation: /\u0259n\u02c8r\u025bst\u026ad/", "Definition: not rested or refreshed", "Synonyms: unrefreshed"]}
