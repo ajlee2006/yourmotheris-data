@@ -1,1 +1,1 @@
-{"data": ["2022-05-18T12:01:09.240190+00:00", 2483, "Your mother is", "venomous", "Pronunciation: /\u02c8v\u025bn\u0259m\u0259s/", "Definition: marked by deep ill will; deliberately harmful", "Synonyms: poisonous, vicious"]}
+{"data": ["2022-05-18T13:00:16.019666+00:00", 2484, "Your mother is", "recondite", "Pronunciation: /\u02c8r\u025bk\u0259n\u02ccda\u026at/", "Definition: difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge", "Synonyms: abstruse, deep"]}
