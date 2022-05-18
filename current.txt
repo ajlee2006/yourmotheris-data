@@ -1,1 +1,1 @@
-{"data": ["2022-05-18T19:01:24.651731+00:00", 2490, "Your mother is", "earsplitting", "Pronunciation: /\u02c8ir\u02ccspl\u026at\u026a\u014b/", "Definition: loud enough to cause (temporary) hearing loss", "Synonyms: deafening, thunderous, thundery"]}
+{"data": ["2022-05-18T20:00:48.031890+00:00", 2491, "Your mother is", "univalve", "Pronunciation: /\u02c8jun\u0259\u02ccv\u00e6lv/", "Definition: used of mollusks, especially gastropods, as snails etc.", ""]}
