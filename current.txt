@@ -1,1 +1,1 @@
-{"data": ["2022-05-18T18:00:50.951438+00:00", 2489, "Your mother is", "okay", "Pronunciation: /o\u028a\u02c8k\u0259/", "Definition: being satisfactory or in satisfactory condition", "Synonyms: all right, cool, fine, hunky-dory, o.k., ok"]}
+{"data": ["2022-05-18T19:01:24.651731+00:00", 2490, "Your mother is", "earsplitting", "Pronunciation: /\u02c8ir\u02ccspl\u026at\u026a\u014b/", "Definition: loud enough to cause (temporary) hearing loss", "Synonyms: deafening, thunderous, thundery"]}
