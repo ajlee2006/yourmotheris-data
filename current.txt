@@ -1,1 +1,1 @@
-{"data": ["2022-05-18T10:01:09.622191+00:00", 2481, "Your mother is", "collaborative", "Pronunciation: /k\u0259\u02c8l\u00e6b\u0259\u02ccre\u026at\u026av/", "Definition: accomplished by collaboration", ""]}
+{"data": ["2022-05-18T11:01:15.016130+00:00", 2482, "Your mother is", "unplanned", "Pronunciation: /\u0259n\u02c8pl\u00e6nd/", "Definition: not done with purpose or intent", "Synonyms: unintentional, unwitting"]}
