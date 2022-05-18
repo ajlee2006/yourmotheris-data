@@ -1,1 +1,1 @@
-{"data": ["2022-05-18T20:00:48.031890+00:00", 2491, "Your mother is", "univalve", "Pronunciation: /\u02c8jun\u0259\u02ccv\u00e6lv/", "Definition: used of mollusks, especially gastropods, as snails etc.", ""]}
+{"data": ["2022-05-18T21:01:41.595189+00:00", 2492, "Your mother is", "transmitted", "Pronunciation: /tr\u00e6ns\u02c8m\u026at\u026ad/", "Definition: occurring among members of a family usually by heredity", "Synonyms: familial, genetic, hereditary, inherited, transmissible"]}
