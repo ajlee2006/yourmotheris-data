@@ -1,1 +1,1 @@
-{"data": ["2022-05-18T06:01:10.442123+00:00", 2477, "Your mother is", "aboral", "Pronunciation: /\u00e6b\u02c8o\u028ar\u0259l/", "Definition: opposite to or away from the mouth", ""]}
+{"data": ["2022-05-18T07:00:13.558236+00:00", 2478, "Your mother is", "nett", "Pronunciation: /n\u025bt/", "Definition: remaining after all deductions", "Synonyms: net"]}
