@@ -1,1 +1,1 @@
-{"data": ["2022-05-18T05:01:18.164548+00:00", 2476, "Your mother is", "unrested", "Pronunciation: /\u0259n\u02c8r\u025bst\u026ad/", "Definition: not rested or refreshed", "Synonyms: unrefreshed"]}
+{"data": ["2022-05-18T06:01:10.442123+00:00", 2477, "Your mother is", "aboral", "Pronunciation: /\u00e6b\u02c8o\u028ar\u0259l/", "Definition: opposite to or away from the mouth", ""]}
