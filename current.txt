@@ -1,1 +1,1 @@
-{"data": ["2022-05-18T01:01:12.319259+00:00", 2472, "Your mother is", "single-shelled", "Similar to: univalve", "Definition: univalve", ""]}
+{"data": ["2022-05-18T02:00:57.143217+00:00", 2473, "Your mother is", "jewelled", "Similar to: adorned", "Definition: covered with beads or jewels or sequins", "Synonyms: beady, gemmed, jeweled, sequined, spangled, spangly"]}
