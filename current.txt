@@ -1,1 +1,1 @@
-{"data": ["2022-05-18T21:01:41.595189+00:00", 2492, "Your mother is", "transmitted", "Pronunciation: /tr\u00e6ns\u02c8m\u026at\u026ad/", "Definition: occurring among members of a family usually by heredity", "Synonyms: familial, genetic, hereditary, inherited, transmissible"]}
+{"data": ["2022-05-18T22:00:52.265506+00:00", 2493, "Your mother is", "fissionable", "Pronunciation: /\u02c8f\u026a\u0283\u0259n\u0259b\u0259l/", "Definition: capable of undergoing nuclear fission", "Synonyms: fissile"]}
