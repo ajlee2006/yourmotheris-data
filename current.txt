@@ -1,1 +1,1 @@
-{"data": ["2022-05-19T14:00:38.288542+00:00", 2509, "Your mother is", "one-time", "Pronunciation: /w\u0259n-ta\u026am/", "Definition: belonging to some prior time", "Synonyms: erstwhile, former, old, onetime, quondam, sometime"]}
+{"data": ["2022-05-19T15:00:48.580533+00:00", 2510, "Your mother is", "well-behaved", "Similar to: good", "Definition: (usually of children) someone who behaves in a manner that the speaker believes is correct", "Synonyms: well behaved"]}
