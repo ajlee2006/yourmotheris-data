@@ -1,1 +1,1 @@
-{"data": ["2022-05-19T02:01:23.599769+00:00", 2497, "Your mother is", "prohibitive", "Pronunciation: /pro\u028a\u02c8h\u026ab\u026at\u026av/", "Definition: tending to discourage (especially of prices)", "Synonyms: prohibitory"]}
+{"data": ["2022-05-19T03:00:39.217653+00:00", 2498, "Your mother is", "dulcet", "Pronunciation: /\u02c8d\u0259ls\u026at/", "Definition: pleasing to the ear", "Synonyms: honeyed, mellifluous, mellisonant, sweet"]}
