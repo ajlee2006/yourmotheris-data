@@ -1,1 +1,1 @@
-{"data": ["2022-05-19T16:00:50.686762+00:00", 2511, "Your mother is", "sexist", "Pronunciation: /\u02c8s\u025bks\u026ast/", "Definition: discriminatory on the basis of sex (usually said of men's attitude toward women)", ""]}
+{"data": ["2022-05-19T17:01:13.407682+00:00", 2512, "Your mother is", "saber-toothed", "Similar to: toothed", "Definition: having teeth that resemble sabers", "Synonyms: sabertoothed, sabre-toothed"]}
