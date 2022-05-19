@@ -1,1 +1,1 @@
-{"data": ["2022-05-19T20:01:27.396942+00:00", 2515, "Your mother is", "geodetic", "Pronunciation: /\u02ccd\u0292i\u0259\u02c8d\u025bt\u026ak/", "Definition: of or relating to or determined by geodesy", "Synonyms: geodesic, geodesical"]}
+{"data": ["2022-05-19T21:00:38.002359+00:00", 2516, "Your mother is", "candy-scented", "Similar to: odorous", "Definition: smelling of candy", ""]}
