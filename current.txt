@@ -1,1 +1,1 @@
-{"data": ["2022-05-18T23:01:13.540351+00:00", 2494, "Your mother is", "epigrammatic", "Pronunciation: /\u02cc\u025bp\u0259gr\u0259\u02c8m\u00e6t\u026ak/", "Definition: terse and witty and like a maxim", "Synonyms: aphoristic, apothegmatic"]}
+{"data": ["2022-05-19T00:02:13.493706+00:00", 2495, "Your mother is", "geomorphological", "Pronunciation: /\u02ccd\u0292i\u0259\u02ccm\u0254rph\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: pertaining to geological structure", "Synonyms: geomorphologic, morphologic, morphological, structural"]}
