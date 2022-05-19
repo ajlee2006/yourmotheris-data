@@ -1,1 +1,1 @@
-{"data": ["2022-05-19T07:00:43.159375+00:00", 2502, "Your mother is", "jazzy", "Pronunciation: /\u02c8d\u0292\u00e6zi/", "Definition: (used especially of clothes) marked by conspicuous display", "Synonyms: flashy, gaudy, showy, sporty"]}
+{"data": ["2022-05-19T08:00:52.524246+00:00", 2503, "Your mother is", "quenchless", "Pronunciation: /\u02c8kw\u025bn\u02a7l\u026as/", "Definition: impossible to quench", "Synonyms: unquenchable"]}
