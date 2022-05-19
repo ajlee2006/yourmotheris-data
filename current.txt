@@ -1,1 +1,1 @@
-{"data": ["2022-05-19T10:01:25.636100+00:00", 2505, "Your mother is", "acknowledgeable", "Pronunciation: /\u00e6k\u02c8n\u0251l\u026ad\u0292\u028cb\u028cl/", "Definition: capable of being acknowledged", ""]}
+{"data": ["2022-05-19T11:00:14.955258+00:00", 2506, "Your mother is", "autobiographical", "Pronunciation: /\u02cc\u0254t\u0259\u02ccba\u026a\u0259\u02c8gr\u00e6f\u026ak\u0259l/", "Definition: relating to or in the style of an autobiography", "Synonyms: autobiographic"]}
