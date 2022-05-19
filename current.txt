@@ -1,1 +1,1 @@
-{"data": ["2022-05-19T00:02:13.493706+00:00", 2495, "Your mother is", "geomorphological", "Pronunciation: /\u02ccd\u0292i\u0259\u02ccm\u0254rph\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: pertaining to geological structure", "Synonyms: geomorphologic, morphologic, morphological, structural"]}
+{"data": ["2022-05-19T01:01:03.636427+00:00", 2496, "Your mother is", "odd", "Pronunciation: /\u0251d/", "Definition: beyond or deviating from the usual or expected", "Synonyms: curious, funny, peculiar, queer, rum, rummy, singular"]}
