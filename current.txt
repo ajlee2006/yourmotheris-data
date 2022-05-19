@@ -1,1 +1,1 @@
-{"data": ["2022-05-19T05:00:50.420887+00:00", 2500, "Your mother is", "consistent", "Pronunciation: /k\u0259n\u02c8s\u026ast\u0259nt/", "Definition: the same throughout in structure or composition", "Synonyms: uniform"]}
+{"data": ["2022-05-19T06:00:50.541484+00:00", 2501, "Your mother is", "disklike", "Similar to: circular", "Definition: having a flat circular shape", "Synonyms: disc-shaped, disclike, discoid, discoidal, disk-shaped"]}
