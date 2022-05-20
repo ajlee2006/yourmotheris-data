@@ -1,1 +1,1 @@
-{"data": ["2022-05-20T00:01:41.322143+00:00", 2519, "Your mother is", "unblessed", "Pronunciation: /\u0259n\u02c8bl\u025bst/", "Definition: not provided with something desirable", ""]}
+{"data": ["2022-05-20T01:00:48.392972+00:00", 2520, "Your mother is", "geodesical", "", "Definition: of or relating to or determined by geodesy", "Synonyms: geodesic, geodetic"]}
