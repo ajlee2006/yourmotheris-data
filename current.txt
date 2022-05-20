@@ -1,1 +1,1 @@
-{"data": ["2022-05-20T07:01:23.567720+00:00", 2526, "Your mother is", "anginal", "Pronunciation: /\u00e6n\u02c8d\u0292a\u026an\u0259l/", "Definition: of or related to the pain of angina pectoris", "Synonyms: anginose, anginous"]}
+{"data": ["2022-05-20T08:00:59.760066+00:00", 2527, "Your mother is", "unshielded", "Pronunciation: /\u0259n\u02c8\u0283ild\u026ad/", "Definition: (used especially of machinery) not protected by a shield", ""]}
