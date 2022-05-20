@@ -1,1 +1,1 @@
-{"data": ["2022-05-20T21:00:23.052774+00:00", 2540, "Your mother is", "automotive", "Pronunciation: /\u02cc\u0254t\u0259\u02c8mo\u028at\u026av/", "Definition: containing within itself the means of propulsion or movement", "Synonyms: self-propelled, self-propelling"]}
+{"data": ["2022-05-20T22:00:45.682765+00:00", 2541, "Your mother is", "calendrical", "", "Definition: relating to or characteristic of or used in a calendar or time measurement", "Synonyms: calendric"]}
