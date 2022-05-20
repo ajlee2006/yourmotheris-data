@@ -1,1 +1,1 @@
-{"data": ["2022-05-20T15:00:49.276300+00:00", 2534, "Your mother is", "boric", "Pronunciation: /\u02c8bo\u028ar\u026ak/", "Definition: of or relating to or derived from or containing boron", "Synonyms: boracic"]}
+{"data": ["2022-05-20T16:01:11.780003+00:00", 2535, "Your mother is", "perfidious", "Pronunciation: /p\u0259r\u02c8f\u026adi\u0259s/", "Definition: tending to betray; especially having a treacherous character as attributed to the Carthaginians by the Romans", "Synonyms: punic, treacherous"]}
