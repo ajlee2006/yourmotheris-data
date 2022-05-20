@@ -1,1 +1,1 @@
-{"data": ["2022-05-20T01:00:48.392972+00:00", 2520, "Your mother is", "geodesical", "", "Definition: of or relating to or determined by geodesy", "Synonyms: geodesic, geodetic"]}
+{"data": ["2022-05-20T02:00:53.802020+00:00", 2521, "Your mother is", "cloven-footed", "Pronunciation: /\u02c8klo\u028av\u0259n-\u02c8f\u028at\u026ad/", "Definition: of or relating to the cloven feet of ruminants or swine", "Synonyms: cloven-hoofed"]}
