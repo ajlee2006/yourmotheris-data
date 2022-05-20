@@ -1,1 +1,1 @@
-{"data": ["2022-05-20T11:00:44.720429+00:00", 2530, "Your mother is", "rotted", "Pronunciation: /\u02c8r\u0251t\u026ad/", "Definition: damaged by decay; hence unsound and useless", "Synonyms: decayed, rotten"]}
+{"data": ["2022-05-20T12:00:57.769907+00:00", 2531, "Your mother is", "flowerless", "Pronunciation: /\u02c8fla\u028a\u0259rl\u026as/", "Definition: without flower or bloom and not producing seeds", "Synonyms: nonflowering"]}
