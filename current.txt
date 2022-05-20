@@ -1,1 +1,1 @@
-{"data": ["2022-05-20T14:01:11.530963+00:00", 2533, "Your mother is", "haematopoietic", "Pronunciation: /\u02cch\u025bm\u0259to\u028ap\u0254\u026a\u02c8\u025bt\u026ak/", "Definition: pertaining to the formation of blood or blood cells", "Synonyms: haematogenic, haemopoietic, hematogenic, hematopoietic, hemopoietic"]}
+{"data": ["2022-05-20T15:00:49.276300+00:00", 2534, "Your mother is", "boric", "Pronunciation: /\u02c8bo\u028ar\u026ak/", "Definition: of or relating to or derived from or containing boron", "Synonyms: boracic"]}
