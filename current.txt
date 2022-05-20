@@ -1,1 +1,1 @@
-{"data": ["2022-05-20T06:01:31.078573+00:00", 2525, "Your mother is", "logical", "Pronunciation: /\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: based on known statements or events or conditions", "Synonyms: legitimate"]}
+{"data": ["2022-05-20T07:01:23.567720+00:00", 2526, "Your mother is", "anginal", "Pronunciation: /\u00e6n\u02c8d\u0292a\u026an\u0259l/", "Definition: of or related to the pain of angina pectoris", "Synonyms: anginose, anginous"]}
