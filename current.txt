@@ -1,1 +1,1 @@
-{"data": ["2022-05-20T18:00:24.326922+00:00", 2537, "Your mother is", "tansy-smelling", "Similar to: odorous", "Definition: smelling of tansy", "Synonyms: tansy-scented"]}
+{"data": ["2022-05-20T19:00:09.318717+00:00", 2538, "Your mother is", "anthelminthic", "Similar to: healthful", "Definition: capable of expelling or destroying parasitic worms", "Synonyms: anthelmintic, helminthic, parasiticidal"]}
