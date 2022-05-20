@@ -1,1 +1,1 @@
-{"data": ["2022-05-20T16:01:11.780003+00:00", 2535, "Your mother is", "perfidious", "Pronunciation: /p\u0259r\u02c8f\u026adi\u0259s/", "Definition: tending to betray; especially having a treacherous character as attributed to the Carthaginians by the Romans", "Synonyms: punic, treacherous"]}
+{"data": ["2022-05-20T17:00:39.544336+00:00", 2536, "Your mother is", "nullified", "Pronunciation: /\u02c8n\u028cl\u028c\u02ccfa\u026ad/", "Definition: deprived of legal force", "Synonyms: invalidated"]}
