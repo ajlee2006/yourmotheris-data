@@ -1,1 +1,1 @@
-{"data": ["2022-05-19T23:00:39.055466+00:00", 2518, "Your mother is", "radiating", "Pronunciation: /\u02c8re\u026adi\u02cce\u026at\u026a\u014b/", "Definition: diverging from a common point", ""]}
+{"data": ["2022-05-20T00:01:41.322143+00:00", 2519, "Your mother is", "unblessed", "Pronunciation: /\u0259n\u02c8bl\u025bst/", "Definition: not provided with something desirable", ""]}
