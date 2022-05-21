@@ -1,1 +1,1 @@
-{"data": ["2022-05-21T16:01:28.244197+00:00", 2559, "Your mother is", "abkhazian", "Pronunciation: /\u00e6b\u02c8k\u00e6zi\u0259n/", "Definition: of or relating to Abkazia or its people or their language", "Synonyms: abkhaz"]}
+{"data": ["2022-05-21T17:00:58.936469+00:00", 2560, "Your mother is", "meaning", "Pronunciation: /\u02c8min\u026a\u014b/", "Definition: rich in significance or implication", "Synonyms: pregnant, significant"]}
