@@ -1,1 +1,1 @@
-{"data": ["2022-05-21T21:00:16.496177+00:00", 2564, "Your mother is", "ungrateful", "Pronunciation: /\u0259n\u02c8gre\u026atf\u0259l/", "Definition: not feeling or showing gratitude", "Synonyms: thankless, unthankful"]}
+{"data": ["2022-05-21T22:01:13.706186+00:00", 2565, "Your mother is", "lanate", "Pronunciation: /\u02c8le\u026ane\u026at/", "Definition: covered with dense cottony hairs or hairlike filaments", "Synonyms: woolly"]}
