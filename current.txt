@@ -1,1 +1,1 @@
-{"data": ["2022-05-21T01:01:18.171059+00:00", 2544, "Your mother is", "futureless", "Pronunciation: /\u02c8fju\u02a7\u0259rl\u026as/", "Definition: having no prospect or hope of a future", ""]}
+{"data": ["2022-05-21T02:01:29.402743+00:00", 2545, "Your mother is", "low-pitched", "Pronunciation: /\u02c8lo\u028a\u02c8p\u026a\u02a7t/", "Definition: used of sounds and voices; low in pitch or frequency", "Synonyms: low"]}
