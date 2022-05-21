@@ -1,1 +1,1 @@
-{"data": ["2022-05-21T12:01:27.334274+00:00", 2555, "Your mother is", "brasslike", "", "Definition: resembling the sound of a brass instrument", "Synonyms: brassy"]}
+{"data": ["2022-05-21T13:00:33.121498+00:00", 2556, "Your mother is", "agglomerated", "Similar to: collective", "Definition: clustered together but not coherent", "Synonyms: agglomerate, agglomerative, clustered"]}
