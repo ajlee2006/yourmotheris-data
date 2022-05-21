@@ -1,1 +1,1 @@
-{"data": ["2022-05-21T19:01:27.545328+00:00", 2562, "Your mother is", "unvaccinated", "Pronunciation: /\u0259n\u02c8v\u00e6ks\u026a\u02ccne\u026at\u026ad/", "Definition: not vaccinated", ""]}
+{"data": ["2022-05-21T20:01:31.763323+00:00", 2563, "Your mother is", "fiduciary", "Pronunciation: /f\u026a\u02c8du\u0283i\u02cc\u025bri/", "Definition: relating to or of the nature of a legal trust (i.e. the holding of something in trust for another)", "Synonyms: fiducial"]}
