@@ -1,1 +1,1 @@
-{"data": ["2022-05-21T10:00:13.006801+00:00", 2553, "Your mother is", "isoclinal", "Pronunciation: /\u02cca\u026as\u0259\u02c8kla\u026an\u0259l/", "Definition: having equal magnetic inclinations", "Synonyms: isoclinic"]}
+{"data": ["2022-05-21T11:01:30.292401+00:00", 2554, "Your mother is", "curly", "Pronunciation: /\u02c8k\u025crli/", "Definition: (of hair) having curls or waves", ""]}
