@@ -1,1 +1,1 @@
-{"data": ["2022-05-21T04:01:29.998119+00:00", 2547, "Your mother is", "dun-colored", "Pronunciation: /d\u0259n-\u02c8k\u0259l\u0259rd/", "Definition: having a dun color", "Synonyms: dun-coloured"]}
+{"data": ["2022-05-21T05:01:14.555423+00:00", 2548, "Your mother is", "onerous", "Pronunciation: /\u02c8\u0251n\u0259r\u0259s/", "Definition: not easily borne; wearing", "Synonyms: burdensome, taxing"]}
