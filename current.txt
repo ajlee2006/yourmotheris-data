@@ -1,1 +1,1 @@
-{"data": ["2022-05-21T20:01:31.763323+00:00", 2563, "Your mother is", "fiduciary", "Pronunciation: /f\u026a\u02c8du\u0283i\u02cc\u025bri/", "Definition: relating to or of the nature of a legal trust (i.e. the holding of something in trust for another)", "Synonyms: fiducial"]}
+{"data": ["2022-05-21T21:00:16.496177+00:00", 2564, "Your mother is", "ungrateful", "Pronunciation: /\u0259n\u02c8gre\u026atf\u0259l/", "Definition: not feeling or showing gratitude", "Synonyms: thankless, unthankful"]}
