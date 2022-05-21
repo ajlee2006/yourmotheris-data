@@ -1,1 +1,1 @@
-{"data": ["2022-05-21T17:00:58.936469+00:00", 2560, "Your mother is", "meaning", "Pronunciation: /\u02c8min\u026a\u014b/", "Definition: rich in significance or implication", "Synonyms: pregnant, significant"]}
+{"data": ["2022-05-21T18:01:28.193439+00:00", 2561, "Your mother is", "morbid", "Pronunciation: /\u02c8m\u0254rb\u026ad/", "Definition: suggesting the horror of death and decay", "Synonyms: ghoulish"]}
