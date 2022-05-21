@@ -1,1 +1,1 @@
-{"data": ["2022-05-21T07:00:49.206214+00:00", 2550, "Your mother is", "unbaptised", "", "Definition: not having undergone the Christian ritual of baptism", "Synonyms: unbaptized"]}
+{"data": ["2022-05-21T08:01:29.096390+00:00", 2551, "Your mother is", "exact", "Pronunciation: /\u026a\u0261\u02c8z\u00e6kt/", "Definition: (of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth; strictly correct", "Synonyms: accurate, precise"]}
