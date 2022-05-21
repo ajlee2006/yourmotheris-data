@@ -1,1 +1,1 @@
-{"data": ["2022-05-21T00:01:38.311851+00:00", 2543, "Your mother is", "two-eared", "Pronunciation: /tu-ird/", "Definition: having two ears", ""]}
+{"data": ["2022-05-21T01:01:18.171059+00:00", 2544, "Your mother is", "futureless", "Pronunciation: /\u02c8fju\u02a7\u0259rl\u026as/", "Definition: having no prospect or hope of a future", ""]}
