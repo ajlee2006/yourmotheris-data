@@ -1,1 +1,1 @@
-{"data": ["2022-05-20T23:00:48.073773+00:00", 2542, "Your mother is", "consecutive", "Pronunciation: /k\u0259n\u02c8s\u025bkj\u0259t\u026av/", "Definition: successive (without a break)", "Synonyms: straight"]}
+{"data": ["2022-05-21T00:01:38.311851+00:00", 2543, "Your mother is", "two-eared", "Pronunciation: /tu-ird/", "Definition: having two ears", ""]}
