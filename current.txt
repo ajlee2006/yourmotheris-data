@@ -1,1 +1,1 @@
-{"data": ["2022-05-21T15:01:18.558533+00:00", 2558, "Your mother is", "patriotic", "Pronunciation: /\u02c8pe\u026atri\u02cc\u0259t\u026ak/", "Definition: inspired by love for your country", "Synonyms: loyal"]}
+{"data": ["2022-05-21T16:01:28.244197+00:00", 2559, "Your mother is", "abkhazian", "Pronunciation: /\u00e6b\u02c8k\u00e6zi\u0259n/", "Definition: of or relating to Abkazia or its people or their language", "Synonyms: abkhaz"]}
