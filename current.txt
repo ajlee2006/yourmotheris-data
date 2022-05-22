@@ -1,1 +1,1 @@
-{"data": ["2022-05-22T10:01:29.437849+00:00", 2577, "Your mother is", "adynamic", "Pronunciation: /\u02cc\u00e6d\u02c8\u0259n\u00e6m\u026ak/", "Definition: characterized by an absence of force or forcefulness", "Synonyms: undynamic"]}
+{"data": ["2022-05-22T11:01:02.821633+00:00", 2578, "Your mother is", "obsolete", "Pronunciation: /\u02cc\u0251bs\u0259\u02c8lit/", "Definition: no longer in use", "Synonyms: disused"]}
