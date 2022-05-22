@@ -1,1 +1,1 @@
-{"data": ["2022-05-22T00:02:10.030166+00:00", 2567, "Your mother is", "unalike", "Pronunciation: /\u02cc\u0259n\u0259\u02c8la\u026ak/", "Definition: not alike or similar", "Synonyms: dissimilar"]}
+{"data": ["2022-05-22T01:01:08.556296+00:00", 2568, "Your mother is", "in demand", "Similar to: desirable", "Definition: greatly desired", "Synonyms: coveted, sought-after, sought after"]}
