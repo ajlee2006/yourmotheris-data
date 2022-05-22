@@ -1,1 +1,1 @@
-{"data": ["2022-05-22T20:00:16.294418+00:00", 2587, "Your mother is", "5-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with five members", "Synonyms: five-membered"]}
+{"data": ["2022-05-22T21:01:25.642664+00:00", 2588, "Your mother is", "unretentive", "", "Definition: (of memory) deficient in retentiveness or range", "Synonyms: forgetful, short"]}
