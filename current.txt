@@ -1,1 +1,1 @@
-{"data": ["2022-05-22T13:00:50.550662+00:00", 2580, "Your mother is", "olden", "Pronunciation: /\u02c8o\u028ald\u0259n/", "Definition: relating to time long past", ""]}
+{"data": ["2022-05-22T14:00:54.970567+00:00", 2581, "Your mother is", "wriggly", "Pronunciation: /\u02c8r\u026agli/", "Definition: moving in a twisting or snake-like or wormlike fashion", "Synonyms: wiggly, wriggling, writhing"]}
