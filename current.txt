@@ -1,1 +1,1 @@
-{"data": ["2022-05-22T15:01:26.324009+00:00", 2582, "Your mother is", "wingless", "Pronunciation: /\u02c8w\u026a\u014bl\u026as/", "Definition: lacking wings", ""]}
+{"data": ["2022-05-22T16:00:59.447951+00:00", 2583, "Your mother is", "remarkable", "Pronunciation: /ri\u02c8m\u0259rk\u0259b\u0259l/", "Definition: worthy of attention because interesting, significant, or unusual", "Synonyms: notable, noteworthy"]}
