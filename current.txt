@@ -1,1 +1,1 @@
-{"data": ["2022-05-22T22:00:51.680440+00:00", 2589, "Your mother is", "bean-shaped", "Pronunciation: /bin-\u0283e\u026apt/", "Definition: having a shape resembling a bean", ""]}
+{"data": ["2022-05-22T23:01:01.175268+00:00", 2590, "Your mother is", "antithetical", "Pronunciation: /\u02cc\u00e6nt\u026a\u02c8\u03b8\u025bt\u026ak\u0259l/", "Definition: sharply contrasted in character or purpose", "Synonyms: antithetic"]}
