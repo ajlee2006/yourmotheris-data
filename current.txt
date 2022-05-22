@@ -1,1 +1,1 @@
-{"data": ["2022-05-22T09:01:00.218758+00:00", 2576, "Your mother is", "bolshy", "Pronunciation: /\u02c8bo\u028al\u0283i/", "Definition: obstreperous", "Synonyms: stroppy"]}
+{"data": ["2022-05-22T10:01:29.437849+00:00", 2577, "Your mother is", "adynamic", "Pronunciation: /\u02cc\u00e6d\u02c8\u0259n\u00e6m\u026ak/", "Definition: characterized by an absence of force or forcefulness", "Synonyms: undynamic"]}
