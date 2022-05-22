@@ -1,1 +1,1 @@
-{"data": ["2022-05-22T14:00:54.970567+00:00", 2581, "Your mother is", "wriggly", "Pronunciation: /\u02c8r\u026agli/", "Definition: moving in a twisting or snake-like or wormlike fashion", "Synonyms: wiggly, wriggling, writhing"]}
+{"data": ["2022-05-22T15:01:26.324009+00:00", 2582, "Your mother is", "wingless", "Pronunciation: /\u02c8w\u026a\u014bl\u026as/", "Definition: lacking wings", ""]}
