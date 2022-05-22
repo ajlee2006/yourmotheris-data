@@ -1,1 +1,1 @@
-{"data": ["2022-05-22T19:00:21.407636+00:00", 2586, "Your mother is", "donnian", "", "Definition: of or relating to or in the manner of John Donne", "Synonyms: donnean"]}
+{"data": ["2022-05-22T20:00:16.294418+00:00", 2587, "Your mother is", "5-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with five members", "Synonyms: five-membered"]}
