@@ -1,1 +1,1 @@
-{"data": ["2022-05-22T12:01:35.401064+00:00", 2579, "Your mother is", "wakeful", "Pronunciation: /\u02c8we\u026akf\u0259l/", "Definition: carefully observant or attentive; on the lookout for possible danger", "Synonyms: argus-eyed, open-eyed, vigilant"]}
+{"data": ["2022-05-22T13:00:50.550662+00:00", 2580, "Your mother is", "olden", "Pronunciation: /\u02c8o\u028ald\u0259n/", "Definition: relating to time long past", ""]}
