@@ -1,1 +1,1 @@
-{"data": ["2022-05-22T06:00:41.633511+00:00", 2573, "Your mother is", "correspondent", "Pronunciation: /\u02cck\u0254r\u026a\u02c8sp\u0251nd\u0259nt/", "Definition: similar or equivalent in some respects though otherwise dissimilar", "Synonyms: analogous"]}
+{"data": ["2022-05-22T07:01:21.056149+00:00", 2574, "Your mother is", "eastward", "Pronunciation: /\u02c8istw\u0259rd/", "Definition: moving toward the east", "Synonyms: eastbound"]}
