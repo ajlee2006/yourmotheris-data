@@ -1,1 +1,1 @@
-{"data": ["2022-05-23T05:00:17.939521+00:00", 2596, "Your mother is", "owlish", "Pronunciation: /\u02c8a\u028al\u026a\u0283/", "Definition: resembling an owl; solemn and wise in appearance", ""]}
+{"data": ["2022-05-23T06:00:45.918545+00:00", 2597, "Your mother is", "advertised", "Pronunciation: /\u02c8\u00e6dv\u025dr\u02ccta\u026azd/", "Definition: called to public attention", ""]}
