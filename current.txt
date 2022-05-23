@@ -1,1 +1,1 @@
-{"data": ["2022-05-23T09:01:07.047874+00:00", 2600, "Your mother is", "crosswise", "Pronunciation: /\u02c8kr\u0254s\u02ccwa\u026az/", "Definition: in the shape of (a horizontal piece on) a cross", ""]}
+{"data": ["2022-05-23T10:00:55.632628+00:00", 2601, "Your mother is", "oval-fruited", "Similar to: fruitful", "Definition: bearing oval fruit", ""]}
