@@ -1,1 +1,1 @@
-{"data": ["2022-05-23T20:01:04.359659+00:00", 2611, "Your mother is", "vesicatory", "Pronunciation: /\u02c8v\u025bs\u0259k\u0259\u02ccto\u028ari/", "Definition: causing blisters", "Synonyms: vesicant"]}
+{"data": ["2022-05-23T21:00:36.874382+00:00", 2612, "Your mother is", "live", "Pronunciation: /la\u026av/", "Definition: actually being performed at the time of hearing or viewing", "Synonyms: unrecorded"]}
