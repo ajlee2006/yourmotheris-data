@@ -1,1 +1,1 @@
-{"data": ["2022-05-23T21:00:36.874382+00:00", 2612, "Your mother is", "live", "Pronunciation: /la\u026av/", "Definition: actually being performed at the time of hearing or viewing", "Synonyms: unrecorded"]}
+{"data": ["2022-05-23T22:01:29.286698+00:00", 2613, "Your mother is", "intermeshed", "Similar to: tangled", "Definition: caught as if in a mesh", "Synonyms: enmeshed"]}
