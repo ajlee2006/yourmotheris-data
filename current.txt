@@ -1,1 +1,1 @@
-{"data": ["2022-05-23T07:01:07.624420+00:00", 2598, "Your mother is", "rangy", "Pronunciation: /\u02c8re\u026and\u0292i/", "Definition: tall and thin and having long slender limbs", "Synonyms: gangling, gangly, lanky"]}
+{"data": ["2022-05-23T08:01:39.685385+00:00", 2599, "Your mother is", "disciplinary", "Pronunciation: /\u02c8d\u026as\u0259pl\u0259\u02ccn\u025bri/", "Definition: designed to promote discipline", "Synonyms: corrective, disciplinal"]}
