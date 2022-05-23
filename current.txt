@@ -1,1 +1,1 @@
-{"data": ["2022-05-23T01:01:34.659219+00:00", 2592, "Your mother is", "identifiable", "Pronunciation: /a\u026a\u02c8d\u025bnt\u028c\u02ccfa\u026a\u028cb\u028cl/", "Definition: capable of being identified", ""]}
+{"data": ["2022-05-23T02:01:20.908938+00:00", 2593, "Your mother is", "jelled", "Similar to: solid", "Definition: congealed into jelly; solidified by cooling", "Synonyms: congealed, jellied"]}
