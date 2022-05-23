@@ -1,1 +1,1 @@
-{"data": ["2022-05-23T08:01:39.685385+00:00", 2599, "Your mother is", "disciplinary", "Pronunciation: /\u02c8d\u026as\u0259pl\u0259\u02ccn\u025bri/", "Definition: designed to promote discipline", "Synonyms: corrective, disciplinal"]}
+{"data": ["2022-05-23T09:01:07.047874+00:00", 2600, "Your mother is", "crosswise", "Pronunciation: /\u02c8kr\u0254s\u02ccwa\u026az/", "Definition: in the shape of (a horizontal piece on) a cross", ""]}
