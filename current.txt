@@ -1,1 +1,1 @@
-{"data": ["2022-05-23T14:00:30.822542+00:00", 2605, "Your mother is", "velvet", "Pronunciation: /\u02c8v\u025blv\u026at/", "Definition: resembling velvet in having a smooth soft surface", "Synonyms: velvety"]}
+{"data": ["2022-05-23T15:00:47.223837+00:00", 2606, "Your mother is", "walk-in", "Pronunciation: /\u02c8w\u0254k-\u02cc\u026an/", "Definition: (of e.g. closets or refrigerators) extending very far enough back to allow a person to enter", ""]}
