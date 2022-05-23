@@ -1,1 +1,1 @@
-{"data": ["2022-05-23T12:00:18.061548+00:00", 2603, "Your mother is", "fanciful", "Pronunciation: /\u02c8f\u00e6ns\u026af\u0259l/", "Definition: indulging in or influenced by fancy", "Synonyms: notional"]}
+{"data": ["2022-05-23T13:01:29.362874+00:00", 2604, "Your mother is", "kinesthetic", "Pronunciation: /\u02cck\u026an\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: of or relating to kinesthesis", "Synonyms: kinaesthetic"]}
