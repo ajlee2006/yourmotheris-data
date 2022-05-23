@@ -1,1 +1,1 @@
-{"data": ["2022-05-23T00:01:34.641244+00:00", 2591, "Your mother is", "embossed", "Pronunciation: /\u026am\u02c8b\u0254st/", "Definition: embellished with a raised pattern created by pressure or embroidery", "Synonyms: brocaded, raised"]}
+{"data": ["2022-05-23T01:01:34.659219+00:00", 2592, "Your mother is", "identifiable", "Pronunciation: /a\u026a\u02c8d\u025bnt\u028c\u02ccfa\u026a\u028cb\u028cl/", "Definition: capable of being identified", ""]}
