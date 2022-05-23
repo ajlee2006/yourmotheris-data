@@ -1,1 +1,1 @@
-{"data": ["2022-05-23T13:01:29.362874+00:00", 2604, "Your mother is", "kinesthetic", "Pronunciation: /\u02cck\u026an\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: of or relating to kinesthesis", "Synonyms: kinaesthetic"]}
+{"data": ["2022-05-23T14:00:30.822542+00:00", 2605, "Your mother is", "velvet", "Pronunciation: /\u02c8v\u025blv\u026at/", "Definition: resembling velvet in having a smooth soft surface", "Synonyms: velvety"]}
