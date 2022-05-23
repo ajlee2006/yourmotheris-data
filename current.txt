@@ -1,1 +1,1 @@
-{"data": ["2022-05-23T03:01:01.019351+00:00", 2594, "Your mother is", "light-armed", "Pronunciation: /la\u026at-\u0251rmd/", "Definition: armed with light weapons", "Synonyms: lightly-armed"]}
+{"data": ["2022-05-23T04:01:29.399519+00:00", 2595, "Your mother is", "sunken-eyed", "Similar to: lean", "Definition: characteristic of the bony face of a cadaver", "Synonyms: deep-eyed, hollow-eyed"]}
