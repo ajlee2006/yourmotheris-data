@@ -1,1 +1,1 @@
-{"data": ["2022-05-24T07:01:52.593585+00:00", 2622, "Your mother is", "brainy", "Pronunciation: /\u02c8bre\u026ani/", "Definition: having or marked by unusual and impressive intelligence", "Synonyms: brilliant, smart as a whip"]}
+{"data": ["2022-05-24T08:01:06.557955+00:00", 2623, "Your mother is", "upmarket", "Pronunciation: /\u02c8\u028cp\u02ccm\u0251rk\u028ct/", "Definition: designed for consumers with high incomes", ""]}
