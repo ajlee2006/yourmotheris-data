@@ -1,1 +1,1 @@
-{"data": ["2022-05-24T22:01:34.462877+00:00", 2637, "Your mother is", "understaffed", "Pronunciation: /\u02cc\u0259nd\u0259r\u02c8st\u00e6ft/", "Definition: inadequate in number of workers or assistants etc.", "Synonyms: short-handed, short-staffed, undermanned"]}
+{"data": ["2022-05-24T23:00:11.792368+00:00", 2638, "Your mother is", "forty-four", "Pronunciation: /\u02c8f\u0254rti-\u02c8fo\u028ar/", "Definition: being four more than forty", "Synonyms: 44, xliv"]}
