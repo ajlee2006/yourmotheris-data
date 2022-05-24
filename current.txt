@@ -1,1 +1,1 @@
-{"data": ["2022-05-24T04:01:31.749759+00:00", 2619, "Your mother is", "picayune", "Pronunciation: /\u02ccp\u026aki\u02c8jun/", "Definition: (informal) small and of little importance", "Synonyms: fiddling, footling, lilliputian, little, niggling, petty, piddling, piffling, trivial"]}
+{"data": ["2022-05-24T05:01:35.256729+00:00", 2620, "Your mother is", "faraway", "Pronunciation: /\u02c8f\u0251r\u0259\u02c8we\u026a/", "Definition: very far away in space or time", "Synonyms: far-off"]}
