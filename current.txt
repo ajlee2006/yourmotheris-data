@@ -1,1 +1,1 @@
-{"data": ["2022-05-24T13:01:00.854333+00:00", 2628, "Your mother is", "discredited", "Pronunciation: /d\u026as\u02c8kr\u025bd\u026at\u026ad/", "Definition: suffering shame", "Synonyms: disgraced, dishonored, shamed"]}
+{"data": ["2022-05-24T14:00:45.679066+00:00", 2629, "Your mother is", "quondam", "Pronunciation: /\u02c8kw\u0251nd\u00e6m/", "Definition: belonging to some prior time", "Synonyms: erstwhile, former, old, one-time, onetime, sometime"]}
