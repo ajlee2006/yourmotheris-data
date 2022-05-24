@@ -1,1 +1,1 @@
-{"data": ["2022-05-24T15:01:13.847305+00:00", 2630, "Your mother is", "widespread", "Pronunciation: /\u02c8wa\u026ad\u02c8spr\u025bd/", "Definition: distributed over a considerable extent", "Synonyms: far-flung"]}
+{"data": ["2022-05-24T16:01:07.105965+00:00", 2631, "Your mother is", "canescent", "Pronunciation: /k\u0259\u02c8n\u025bs\u0259nt/", "Definition: covered with fine whitish hairs or down", "Synonyms: hoary"]}
