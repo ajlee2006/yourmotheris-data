@@ -1,1 +1,1 @@
-{"data": ["2022-05-24T03:00:55.108698+00:00", 2618, "Your mother is", "bobtail", "Pronunciation: /\u02c8b\u0251b\u02ccte\u026al/", "Definition: having a short or shortened tail", "Synonyms: bobtailed"]}
+{"data": ["2022-05-24T04:01:31.749759+00:00", 2619, "Your mother is", "picayune", "Pronunciation: /\u02ccp\u026aki\u02c8jun/", "Definition: (informal) small and of little importance", "Synonyms: fiddling, footling, lilliputian, little, niggling, petty, piddling, piffling, trivial"]}
