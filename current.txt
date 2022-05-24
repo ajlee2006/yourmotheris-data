@@ -1,1 +1,1 @@
-{"data": ["2022-05-24T08:01:06.557955+00:00", 2623, "Your mother is", "upmarket", "Pronunciation: /\u02c8\u028cp\u02ccm\u0251rk\u028ct/", "Definition: designed for consumers with high incomes", ""]}
+{"data": ["2022-05-24T09:00:30.626807+00:00", 2624, "Your mother is", "stimulant", "Pronunciation: /\u02c8st\u026amj\u0259l\u0259nt/", "Definition: that stimulates", "Synonyms: stimulating"]}
