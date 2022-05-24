@@ -1,1 +1,1 @@
-{"data": ["2022-05-24T14:00:45.679066+00:00", 2629, "Your mother is", "quondam", "Pronunciation: /\u02c8kw\u0251nd\u00e6m/", "Definition: belonging to some prior time", "Synonyms: erstwhile, former, old, one-time, onetime, sometime"]}
+{"data": ["2022-05-24T15:01:13.847305+00:00", 2630, "Your mother is", "widespread", "Pronunciation: /\u02c8wa\u026ad\u02c8spr\u025bd/", "Definition: distributed over a considerable extent", "Synonyms: far-flung"]}
