@@ -1,1 +1,1 @@
-{"data": ["2022-05-24T05:01:35.256729+00:00", 2620, "Your mother is", "faraway", "Pronunciation: /\u02c8f\u0251r\u0259\u02c8we\u026a/", "Definition: very far away in space or time", "Synonyms: far-off"]}
+{"data": ["2022-05-24T06:01:35.358156+00:00", 2621, "Your mother is", "mucous", "Pronunciation: /\u02c8mjuk\u0259s/", "Definition: of or secreting or covered with or resembling mucus", "Synonyms: mucose"]}
