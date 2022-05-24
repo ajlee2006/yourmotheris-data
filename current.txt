@@ -1,1 +1,1 @@
-{"data": ["2022-05-24T11:01:11.303846+00:00", 2626, "Your mother is", "clubby", "Pronunciation: /\u02c8kl\u0259bi/", "Definition: effusively sociable", "Synonyms: clubbish"]}
+{"data": ["2022-05-24T12:00:49.282775+00:00", 2627, "Your mother is", "under attack", "Pronunciation: /\u02c8\u0259nd\u0259r-\u0259\u02c8t\u00e6k/", "Definition: subjected to enemy attack or censure", "Synonyms: under fire"]}
