@@ -1,1 +1,1 @@
-{"data": ["2022-05-24T01:00:42.594818+00:00", 2616, "Your mother is", "undefeated", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8fit\u026ad/", "Definition: victorious", ""]}
+{"data": ["2022-05-24T02:00:55.239537+00:00", 2617, "Your mother is", "ex post facto", "Similar to: retrospective", "Definition: affecting things past", "Synonyms: retro, retroactive"]}
