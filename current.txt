@@ -1,1 +1,1 @@
-{"data": ["2022-05-23T23:01:05.329006+00:00", 2614, "Your mother is", "gaudy", "Pronunciation: /\u02c8\u0261\u0254di/", "Definition: (used especially of clothes) marked by conspicuous display", "Synonyms: flashy, jazzy, showy, sporty"]}
+{"data": ["2022-05-24T00:02:05.080407+00:00", 2615, "Your mother is", "unworldly", "Pronunciation: /\u0259n\u02c8w\u025crldli/", "Definition: not wise in the ways of the world", "Synonyms: unsophisticated"]}
