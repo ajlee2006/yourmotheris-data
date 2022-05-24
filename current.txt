@@ -1,1 +1,1 @@
-{"data": ["2022-05-24T20:01:16.781318+00:00", 2635, "Your mother is", "pricy", "Similar to: expensive", "Definition: having a high price", "Synonyms: costly, dear, high-priced, pricey"]}
+{"data": ["2022-05-24T21:00:31.203783+00:00", 2636, "Your mother is", "reeking", "Pronunciation: /\u02c8rik\u026a\u014b/", "Definition: wet with secreted or exuded moisture such as sweat or tears", "Synonyms: watery"]}
