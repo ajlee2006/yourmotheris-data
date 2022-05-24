@@ -1,1 +1,1 @@
-{"data": ["2022-05-24T12:00:49.282775+00:00", 2627, "Your mother is", "under attack", "Pronunciation: /\u02c8\u0259nd\u0259r-\u0259\u02c8t\u00e6k/", "Definition: subjected to enemy attack or censure", "Synonyms: under fire"]}
+{"data": ["2022-05-24T13:01:00.854333+00:00", 2628, "Your mother is", "discredited", "Pronunciation: /d\u026as\u02c8kr\u025bd\u026at\u026ad/", "Definition: suffering shame", "Synonyms: disgraced, dishonored, shamed"]}
