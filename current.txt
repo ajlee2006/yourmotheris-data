@@ -1,1 +1,1 @@
-{"data": ["2022-05-25T10:01:24.107461+00:00", 2649, "Your mother is", "banal", "Pronunciation: /\u02c8be\u026an\u0259l/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, tired, trite, well-worn"]}
+{"data": ["2022-05-25T11:01:16.314469+00:00", 2650, "Your mother is", "acinar", "", "Definition: pertaining to one of the small sacs (as in a compound gland)", "Synonyms: acinic, acinose, acinous"]}
