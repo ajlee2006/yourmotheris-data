@@ -1,1 +1,1 @@
-{"data": ["2022-05-25T18:00:18.218169+00:00", 2657, "Your mother is", "wondering", "Pronunciation: /\u02c8w\u0259nd\u0259r\u026a\u014b/", "Definition: showing curiosity", "Synonyms: inquisitive, questioning, speculative"]}
+{"data": ["2022-05-25T19:00:49.035536+00:00", 2658, "Your mother is", "semiautomatic", "Pronunciation: /\u02ccs\u025bmi\u02cc\u0254t\u0259\u02c8m\u00e6t\u026ak/", "Definition: (of firearms) capable of automatic loading and firing continuously", "Synonyms: autoloading, self-loading"]}
