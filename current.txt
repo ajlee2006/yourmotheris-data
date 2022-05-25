@@ -1,1 +1,1 @@
-{"data": ["2022-05-25T14:01:24.081110+00:00", 2653, "Your mother is", "subfusc", "Pronunciation: /\u02c8s\u0259bf\u0259sk/", "Definition: devoid of brightness or appeal", ""]}
+{"data": ["2022-05-25T15:01:28.890472+00:00", 2654, "Your mother is", "unassailable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8se\u026al\u0259b\u0259l/", "Definition: without flaws or loopholes", "Synonyms: bulletproof, unshakable, watertight"]}
