@@ -1,1 +1,1 @@
-{"data": ["2022-05-25T02:01:28.360321+00:00", 2641, "Your mother is", "epidural", "Pronunciation: /\u02cc\u025bp\u026a\u02c8dj\u028a\u0259r\u0259l/", "Definition: on or outside the dura mater", "Synonyms: extradural"]}
+{"data": ["2022-05-25T03:00:40.860846+00:00", 2642, "Your mother is", "beaked", "Pronunciation: /bikt/", "Definition: having or resembling a beak", ""]}
