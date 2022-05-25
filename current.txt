@@ -1,1 +1,1 @@
-{"data": ["2022-05-25T20:00:56.225337+00:00", 2659, "Your mother is", "coercive", "Pronunciation: /ko\u028a\u02c8\u025crs\u026av/", "Definition: serving or intended to coerce", ""]}
+{"data": ["2022-05-25T21:01:26.410925+00:00", 2660, "Your mother is", "administrable", "Similar to: manageable", "Definition: capable of being administered or managed", ""]}
