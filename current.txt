@@ -1,1 +1,1 @@
-{"data": ["2022-05-24T23:00:11.792368+00:00", 2638, "Your mother is", "forty-four", "Pronunciation: /\u02c8f\u0254rti-\u02c8fo\u028ar/", "Definition: being four more than forty", "Synonyms: 44, xliv"]}
+{"data": ["2022-05-25T00:01:23.772022+00:00", 2639, "Your mother is", "nominal", "Pronunciation: /\u02c8n\u0251m\u0259n\u0259l/", "Definition: existing in name only", "Synonyms: titular"]}
