@@ -1,1 +1,1 @@
-{"data": ["2022-05-25T13:01:10.764718+00:00", 2652, "Your mother is", "streaming", "Pronunciation: /\u02c8strim\u026a\u014b/", "Definition: (computer science) using or relating to a form of continuous tape transport; used mainly to provide backup storage of unedited data", ""]}
+{"data": ["2022-05-25T14:01:24.081110+00:00", 2653, "Your mother is", "subfusc", "Pronunciation: /\u02c8s\u0259bf\u0259sk/", "Definition: devoid of brightness or appeal", ""]}
