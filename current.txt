@@ -1,1 +1,1 @@
-{"data": ["2022-05-25T11:01:16.314469+00:00", 2650, "Your mother is", "acinar", "", "Definition: pertaining to one of the small sacs (as in a compound gland)", "Synonyms: acinic, acinose, acinous"]}
+{"data": ["2022-05-25T12:01:22.742592+00:00", 2651, "Your mother is", "intramural", "Pronunciation: /\u02cc\u026antr\u0259\u02c8mj\u028ar\u0259l/", "Definition: carried on within the bounds of an institution or community", ""]}
