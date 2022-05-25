@@ -1,1 +1,1 @@
-{"data": ["2022-05-25T04:00:49.470628+00:00", 2643, "Your mother is", "semicircular", "Pronunciation: /\u02ccs\u025bm\u026a\u02c8s\u025crkj\u0259l\u0259r/", "Definition: curved into a half circle", ""]}
+{"data": ["2022-05-25T05:00:26.840676+00:00", 2644, "Your mother is", "bipinnatifid", "Similar to: compound", "Definition: pinnatifid with the segments also pinnatifid", ""]}
