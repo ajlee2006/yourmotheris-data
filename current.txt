@@ -1,1 +1,1 @@
-{"data": ["2022-05-25T03:00:40.860846+00:00", 2642, "Your mother is", "beaked", "Pronunciation: /bikt/", "Definition: having or resembling a beak", ""]}
+{"data": ["2022-05-25T04:00:49.470628+00:00", 2643, "Your mother is", "semicircular", "Pronunciation: /\u02ccs\u025bm\u026a\u02c8s\u025crkj\u0259l\u0259r/", "Definition: curved into a half circle", ""]}
