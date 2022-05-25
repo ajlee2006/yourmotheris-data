@@ -1,1 +1,1 @@
-{"data": ["2022-05-25T05:00:26.840676+00:00", 2644, "Your mother is", "bipinnatifid", "Similar to: compound", "Definition: pinnatifid with the segments also pinnatifid", ""]}
+{"data": ["2022-05-25T06:00:27.770702+00:00", 2645, "Your mother is", "gallic", "Pronunciation: /\u02c8\u0261\u00e6l\u026ak/", "Definition: of or pertaining to France or the people of France", "Synonyms: french"]}
