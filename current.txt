@@ -1,1 +1,1 @@
-{"data": ["2022-05-25T09:00:31.828825+00:00", 2648, "Your mother is", "latent", "Pronunciation: /\u02c8le\u026at\u0259nt/", "Definition: (pathology) not presently active", ""]}
+{"data": ["2022-05-25T10:01:24.107461+00:00", 2649, "Your mother is", "banal", "Pronunciation: /\u02c8be\u026an\u0259l/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, tired, trite, well-worn"]}
