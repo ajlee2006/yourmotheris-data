@@ -1,1 +1,1 @@
-{"data": ["2022-05-25T16:00:29.297396+00:00", 2655, "Your mother is", "carbonated", "Pronunciation: /\u02c8k\u0251rb\u028c\u02ccne\u026at\u028cd/", "Definition: having carbonation (especially artificially carbonated)", ""]}
+{"data": ["2022-05-25T17:00:53.285318+00:00", 2656, "Your mother is", "jural", "Pronunciation: /\u02c8d\u0292\u028ar\u0259l/", "Definition: of or relating to law or to legal rights and obligations", "Synonyms: juristic"]}
