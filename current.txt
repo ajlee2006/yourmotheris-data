@@ -1,1 +1,1 @@
-{"data": ["2022-05-25T12:01:22.742592+00:00", 2651, "Your mother is", "intramural", "Pronunciation: /\u02cc\u026antr\u0259\u02c8mj\u028ar\u0259l/", "Definition: carried on within the bounds of an institution or community", ""]}
+{"data": ["2022-05-25T13:01:10.764718+00:00", 2652, "Your mother is", "streaming", "Pronunciation: /\u02c8strim\u026a\u014b/", "Definition: (computer science) using or relating to a form of continuous tape transport; used mainly to provide backup storage of unedited data", ""]}
