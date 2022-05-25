@@ -1,1 +1,1 @@
-{"data": ["2022-05-25T15:01:28.890472+00:00", 2654, "Your mother is", "unassailable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8se\u026al\u0259b\u0259l/", "Definition: without flaws or loopholes", "Synonyms: bulletproof, unshakable, watertight"]}
+{"data": ["2022-05-25T16:00:29.297396+00:00", 2655, "Your mother is", "carbonated", "Pronunciation: /\u02c8k\u0251rb\u028c\u02ccne\u026at\u028cd/", "Definition: having carbonation (especially artificially carbonated)", ""]}
