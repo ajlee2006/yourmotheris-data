@@ -1,1 +1,1 @@
-{"data": ["2022-05-26T15:01:26.676173+00:00", 2678, "Your mother is", "feeble", "Pronunciation: /\u02c8fib\u0259l/", "Definition: lacking strength or vigor", "Synonyms: faint"]}
+{"data": ["2022-05-26T16:01:28.372074+00:00", 2679, "Your mother is", "hard put", "Pronunciation: /h\u0251rd-p\u028at/", "Definition: facing or experiencing financial trouble or difficulty", "Synonyms: distressed, hard-pressed, in a bad way"]}
