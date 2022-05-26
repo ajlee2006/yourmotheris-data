@@ -1,1 +1,1 @@
-{"data": ["2022-05-26T19:01:34.068757+00:00", 2682, "Your mother is", "apoplectiform", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8pl\u025bkt\u0259\u02ccf\u0254rm/", "Definition: resembling apoplexy", "Synonyms: apoplectoid"]}
+{"data": ["2022-05-26T20:01:02.857329+00:00", 2683, "Your mother is", "human-centred", "Similar to: humane", "Definition: marked by humanistic values and devotion to human welfare", "Synonyms: human-centered, humanist, humanistic, humanitarian"]}
