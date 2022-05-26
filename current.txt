@@ -1,1 +1,1 @@
-{"data": ["2022-05-26T01:01:11.076662+00:00", 2664, "Your mother is", "bittersweet", "Pronunciation: /\u02c8b\u026at\u0259r\u02c8swit/", "Definition: having a taste that is a mixture of bitterness and sweetness", "Synonyms: semisweet"]}
+{"data": ["2022-05-26T02:01:21.198269+00:00", 2665, "Your mother is", "unisex", "Pronunciation: /\u02c8jun\u026a\u02ccs\u025bks/", "Definition: not distinguished on the basis of sex", ""]}
