@@ -1,1 +1,1 @@
-{"data": ["2022-05-26T12:01:15.014845+00:00", 2675, "Your mother is", "adroit", "Pronunciation: /\u0259\u02c8dr\u0254\u026at/", "Definition: quick or skillful or adept in action or thought", ""]}
+{"data": ["2022-05-26T13:00:59.812640+00:00", 2676, "Your mother is", "logical", "Pronunciation: /\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: based on known statements or events or conditions", "Synonyms: legitimate"]}
