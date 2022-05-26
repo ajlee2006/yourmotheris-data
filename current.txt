@@ -1,1 +1,1 @@
-{"data": ["2022-05-26T16:01:28.372074+00:00", 2679, "Your mother is", "hard put", "Pronunciation: /h\u0251rd-p\u028at/", "Definition: facing or experiencing financial trouble or difficulty", "Synonyms: distressed, hard-pressed, in a bad way"]}
+{"data": ["2022-05-26T17:01:07.934029+00:00", 2680, "Your mother is", "acrobatic", "Pronunciation: /\u02cc\u00e6kr\u0259\u02c8b\u00e6t\u026ak/", "Definition: vigorously active", "Synonyms: athletic, gymnastic"]}
