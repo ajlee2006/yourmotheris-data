@@ -1,1 +1,1 @@
-{"data": ["2022-05-26T18:01:32.406609+00:00", 2681, "Your mother is", "methodist", "Pronunciation: /\u02c8m\u025b\u03b8\u0259d\u026ast/", "Definition: of or pertaining to or characteristic of the branch of Protestantism adhering to the views of Wesley", "Synonyms: wesleyan"]}
+{"data": ["2022-05-26T19:01:34.068757+00:00", 2682, "Your mother is", "apoplectiform", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8pl\u025bkt\u0259\u02ccf\u0254rm/", "Definition: resembling apoplexy", "Synonyms: apoplectoid"]}
