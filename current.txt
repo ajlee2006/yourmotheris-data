@@ -1,1 +1,1 @@
-{"data": ["2022-05-26T04:00:43.706076+00:00", 2667, "Your mother is", "consummated", "Pronunciation: /\u02c8k\u0251ns\u028c\u02ccme\u026at\u028cd/", "Definition: brought to completion", ""]}
+{"data": ["2022-05-26T05:00:34.772261+00:00", 2668, "Your mother is", "80", "Similar to: cardinal", "Definition: being ten more than seventy", "Synonyms: eighty, fourscore, lxxx"]}
