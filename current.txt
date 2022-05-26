@@ -1,1 +1,1 @@
-{"data": ["2022-05-26T02:01:21.198269+00:00", 2665, "Your mother is", "unisex", "Pronunciation: /\u02c8jun\u026a\u02ccs\u025bks/", "Definition: not distinguished on the basis of sex", ""]}
+{"data": ["2022-05-26T03:01:34.105249+00:00", 2666, "Your mother is", "49th", "Similar to: ordinal", "Definition: the ordinal number of forty-nine in counting order", "Synonyms: forty-ninth"]}
