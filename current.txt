@@ -1,1 +1,1 @@
-{"data": ["2022-05-26T05:00:34.772261+00:00", 2668, "Your mother is", "80", "Similar to: cardinal", "Definition: being ten more than seventy", "Synonyms: eighty, fourscore, lxxx"]}
+{"data": ["2022-05-26T06:00:55.243342+00:00", 2669, "Your mother is", "sizable", "Pronunciation: /\u02c8sa\u026az\u0259b\u0259l/", "Definition: fairly large in size", "Synonyms: ample, sizeable"]}
