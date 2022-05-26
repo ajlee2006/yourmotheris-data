@@ -1,1 +1,1 @@
-{"data": ["2022-05-26T13:00:59.812640+00:00", 2676, "Your mother is", "logical", "Pronunciation: /\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: based on known statements or events or conditions", "Synonyms: legitimate"]}
+{"data": ["2022-05-26T14:01:01.867547+00:00", 2677, "Your mother is", "overland", "Pronunciation: /\u02c8o\u028av\u0259rl\u0259nd/", "Definition: traveling or passing over land", ""]}
