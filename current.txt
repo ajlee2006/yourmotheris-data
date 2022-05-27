@@ -1,1 +1,1 @@
-{"data": ["2022-05-27T00:01:48.476017+00:00", 2687, "Your mother is", "ametabolous", "Pronunciation: /\u02cce\u026am\u0259\u02c8t\u00e6b\u0259l\u0259s/", "Definition: undergoing slight or no metamorphosis", "Synonyms: ametabolic"]}
+{"data": ["2022-05-27T01:00:34.988708+00:00", 2688, "Your mother is", "hollow-horned", "Pronunciation: /\u02c8h\u0251lo\u028a-h\u0254rnd/", "Definition: having horns that are hollow", ""]}
