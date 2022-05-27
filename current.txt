@@ -1,1 +1,1 @@
-{"data": ["2022-05-26T23:00:57.690702+00:00", 2686, "Your mother is", "inexpensive", "Pronunciation: /\u02cc\u026an\u026ak\u02c8sp\u025bns\u026av/", "Definition: relatively low in price or charging low prices", "Synonyms: cheap"]}
+{"data": ["2022-05-27T00:01:48.476017+00:00", 2687, "Your mother is", "ametabolous", "Pronunciation: /\u02cce\u026am\u0259\u02c8t\u00e6b\u0259l\u0259s/", "Definition: undergoing slight or no metamorphosis", "Synonyms: ametabolic"]}
