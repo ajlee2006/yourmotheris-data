@@ -1,1 +1,1 @@
-{"data": ["2022-05-27T16:00:39.822278+00:00", 2703, "Your mother is", "16th", "Similar to: ordinal", "Definition: coming next after the fifteenth in position", "Synonyms: sixteenth"]}
+{"data": ["2022-05-27T17:00:35.509140+00:00", 2704, "Your mother is", "bracted", "", "Definition: having bracts", "Synonyms: bracteate"]}
