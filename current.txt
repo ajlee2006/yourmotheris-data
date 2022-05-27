@@ -1,1 +1,1 @@
-{"data": ["2022-05-27T10:01:21.791367+00:00", 2697, "Your mother is", "boney", "Pronunciation: /\u02c8bo\u028ani/", "Definition: having bones especially many or prominent bones", "Synonyms: bony"]}
+{"data": ["2022-05-27T11:00:14.768420+00:00", 2698, "Your mother is", "cecal", "", "Definition: of or like a cecum", "Synonyms: caecal"]}
