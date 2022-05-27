@@ -1,1 +1,1 @@
-{"data": ["2022-05-27T03:01:07.151096+00:00", 2690, "Your mother is", "undemonstrative", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8m\u0251nstr\u0259t\u026av/", "Definition: not given to open expression of emotion", ""]}
+{"data": ["2022-05-27T04:01:05.672065+00:00", 2691, "Your mother is", "endozoic", "", "Definition: living within a living animal usually as a parasite", "Synonyms: entozoan, entozoic"]}
