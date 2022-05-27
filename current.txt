@@ -1,1 +1,1 @@
-{"data": ["2022-05-27T19:01:15.538932+00:00", 2706, "Your mother is", "shaken", "Pronunciation: /\u02c8\u0283e\u026ak\u0259n/", "Definition: disturbed psychologically as if by a physical jolt or shock", "Synonyms: jolted"]}
+{"data": ["2022-05-27T20:00:38.909891+00:00", 2707, "Your mother is", "porose", "Similar to: poriferous", "Definition: forming a continuous series of pores", ""]}
