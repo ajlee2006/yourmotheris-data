@@ -1,1 +1,1 @@
-{"data": ["2022-05-27T20:00:38.909891+00:00", 2707, "Your mother is", "porose", "Similar to: poriferous", "Definition: forming a continuous series of pores", ""]}
+{"data": ["2022-05-27T21:01:27.148238+00:00", 2708, "Your mother is", "aerophilous", "Similar to: aerobiotic", "Definition: depending on free oxygen or air", "Synonyms: aerobic, aerophilic"]}
