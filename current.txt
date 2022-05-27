@@ -1,1 +1,1 @@
-{"data": ["2022-05-27T06:00:22.142545+00:00", 2693, "Your mother is", "bronze-red", "Similar to: chromatic", "Definition: of red tinged with bronze", ""]}
+{"data": ["2022-05-27T07:00:52.988902+00:00", 2694, "Your mother is", "street smart", "Similar to: smart", "Definition: having the shrewd resourcefulness needed to survive in an urban environment", "Synonyms: streetwise, with-it"]}
