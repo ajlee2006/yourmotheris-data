@@ -1,1 +1,1 @@
-{"data": ["2022-05-27T18:01:16.619565+00:00", 2705, "Your mother is", "recurvate", "Pronunciation: /r\u026a\u02c8k\u025crv\u026at/", "Definition: curved backward or inward", "Synonyms: recurved"]}
+{"data": ["2022-05-27T19:01:15.538932+00:00", 2706, "Your mother is", "shaken", "Pronunciation: /\u02c8\u0283e\u026ak\u0259n/", "Definition: disturbed psychologically as if by a physical jolt or shock", "Synonyms: jolted"]}
