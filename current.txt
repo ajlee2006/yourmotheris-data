@@ -1,1 +1,1 @@
-{"data": ["2022-05-28T12:01:29.797362+00:00", 2723, "Your mother is", "white-pink", "Similar to: chromatic", "Definition: of pink tinged with white; a light tint of pink", ""]}
+{"data": ["2022-05-28T13:00:27.034249+00:00", 2724, "Your mother is", "undocumented", "Pronunciation: /\u0259n\u02c8d\u0251kj\u028a\u02ccm\u025bnt\u026ad/", "Definition: lacking necessary documents (as for e.g. permission to live or work in a country)", ""]}
