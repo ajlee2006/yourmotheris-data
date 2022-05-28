@@ -1,1 +1,1 @@
-{"data": ["2022-05-28T07:00:23.188878+00:00", 2718, "Your mother is", "uninsurable", "Pronunciation: /\u02cc\u0259n\u026an\u02c8\u0283\u028a\u0259r\u0259b\u0259l/", "Definition: not capable of being insured or not eligible to be insured", ""]}
+{"data": ["2022-05-28T08:00:40.333688+00:00", 2719, "Your mother is", "cadaveric", "", "Definition: of or relating to a cadaver or corpse", "Synonyms: cadaverous"]}
