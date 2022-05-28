@@ -1,1 +1,1 @@
-{"data": ["2022-05-28T02:01:23.510608+00:00", 2713, "Your mother is", "metric", "Pronunciation: /\u02c8m\u025btr\u026ak/", "Definition: the rhythmic arrangement of syllables", "Synonyms: measured, metrical"]}
+{"data": ["2022-05-28T03:00:48.122767+00:00", 2714, "Your mother is", "gonadotrophic", "Pronunciation: /\u0261o\u028a\u02ccn\u00e6d\u0259\u02c8tr\u0251f\u026ak/", "Definition: of or relating to or involving gonadotropin", "Synonyms: gonadotropic"]}
