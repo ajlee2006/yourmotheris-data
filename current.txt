@@ -1,1 +1,1 @@
-{"data": ["2022-05-28T22:00:56.887638+00:00", 2733, "Your mother is", "seagirt", "Pronunciation: /\u02c8si\u02cc\u0261\u025crt/", "Definition: surrounded or enclosed by the sea", ""]}
+{"data": ["2022-05-28T23:01:22.716082+00:00", 2734, "Your mother is", "pale-colored", "Pronunciation: /pe\u026al-\u02c8k\u0259l\u0259rd/", "Definition: having a pale color", "Synonyms: pale-hued"]}
