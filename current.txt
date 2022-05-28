@@ -1,1 +1,1 @@
-{"data": ["2022-05-27T23:00:48.746140+00:00", 2710, "Your mother is", "glazed", "Pronunciation: /gle\u026azd/", "Definition: having a shiny surface or coating", "Synonyms: shiny"]}
+{"data": ["2022-05-28T00:01:25.245558+00:00", 2711, "Your mother is", "leafy-stemmed", "Similar to: caulescent", "Definition: having a leafy stem", ""]}
