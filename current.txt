@@ -1,1 +1,1 @@
-{"data": ["2022-05-28T01:01:33.279690+00:00", 2712, "Your mother is", "evil-looking", "Similar to: ugly", "Definition: having an evil appearance", ""]}
+{"data": ["2022-05-28T02:01:23.510608+00:00", 2713, "Your mother is", "metric", "Pronunciation: /\u02c8m\u025btr\u026ak/", "Definition: the rhythmic arrangement of syllables", "Synonyms: measured, metrical"]}
