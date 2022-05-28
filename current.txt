@@ -1,1 +1,1 @@
-{"data": ["2022-05-28T17:01:17.929657+00:00", 2728, "Your mother is", "immensurable", "Pronunciation: /\u026a\u02c8m\u025bn\u0283\u028ar\u0259b\u0259l/", "Definition: impossible to measure", "Synonyms: immeasurable, unmeasurable"]}
+{"data": ["2022-05-28T18:00:51.948569+00:00", 2729, "Your mother is", "three-sided", "Similar to: many-sided", "Definition: having three sides", "Synonyms: triangular, trilateral"]}
