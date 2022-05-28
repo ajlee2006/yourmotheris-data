@@ -1,1 +1,1 @@
-{"data": ["2022-05-28T15:00:16.590475+00:00", 2726, "Your mother is", "effluent", "Pronunciation: /\u02c8\u025bflu\u0259nt/", "Definition: that is flowing outward", "Synonyms: outflowing"]}
+{"data": ["2022-05-28T16:01:05.827533+00:00", 2727, "Your mother is", "relaxing", "Pronunciation: /r\u026a\u02c8l\u00e6ks\u026a\u014b/", "Definition: affording physical or mental rest", "Synonyms: reposeful, restful"]}
