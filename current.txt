@@ -1,1 +1,1 @@
-{"data": ["2022-05-28T10:01:00.051110+00:00", 2721, "Your mother is", "prescribed", "Pronunciation: /pri\u02c8skra\u026abd/", "Definition: conforming to set usage, procedure, or discipline", "Synonyms: official"]}
+{"data": ["2022-05-28T11:00:46.055168+00:00", 2722, "Your mother is", "appareled", "Similar to: clad", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: attired, dressed, garbed, garmented, habilimented, robed"]}
