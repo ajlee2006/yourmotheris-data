@@ -1,1 +1,1 @@
-{"data": ["2022-05-28T11:00:46.055168+00:00", 2722, "Your mother is", "appareled", "Similar to: clad", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: attired, dressed, garbed, garmented, habilimented, robed"]}
+{"data": ["2022-05-28T12:01:29.797362+00:00", 2723, "Your mother is", "white-pink", "Similar to: chromatic", "Definition: of pink tinged with white; a light tint of pink", ""]}
