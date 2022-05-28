@@ -1,1 +1,1 @@
-{"data": ["2022-05-28T05:01:05.240917+00:00", 2716, "Your mother is", "tripartite", "Pronunciation: /tra\u026a\u02c8p\u0251rta\u026at/", "Definition: involving three parties or elements", "Synonyms: three-party, three-way"]}
+{"data": ["2022-05-28T06:01:58.995816+00:00", 2717, "Your mother is", "responsible for", "Pronunciation: /r\u026a\u02c8sp\u0251ns\u0259b\u0259l-f\u0254r/", "Definition: being the agent or cause", "Synonyms: responsible"]}
