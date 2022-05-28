@@ -1,1 +1,1 @@
-{"data": ["2022-05-28T13:00:27.034249+00:00", 2724, "Your mother is", "undocumented", "Pronunciation: /\u0259n\u02c8d\u0251kj\u028a\u02ccm\u025bnt\u026ad/", "Definition: lacking necessary documents (as for e.g. permission to live or work in a country)", ""]}
+{"data": ["2022-05-28T14:00:49.323756+00:00", 2725, "Your mother is", "unsharpened", "Pronunciation: /\u028cn\u02c8\u0283\u0251rp\u028cnd/", "Definition: not sharpened", ""]}
