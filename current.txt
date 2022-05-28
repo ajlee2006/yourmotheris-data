@@ -1,1 +1,1 @@
-{"data": ["2022-05-28T06:01:58.995816+00:00", 2717, "Your mother is", "responsible for", "Pronunciation: /r\u026a\u02c8sp\u0251ns\u0259b\u0259l-f\u0254r/", "Definition: being the agent or cause", "Synonyms: responsible"]}
+{"data": ["2022-05-28T07:00:23.188878+00:00", 2718, "Your mother is", "uninsurable", "Pronunciation: /\u02cc\u0259n\u026an\u02c8\u0283\u028a\u0259r\u0259b\u0259l/", "Definition: not capable of being insured or not eligible to be insured", ""]}
