@@ -1,1 +1,1 @@
-{"data": ["2022-05-29T18:01:14.877514+00:00", 2753, "Your mother is", "multifarious", "Pronunciation: /\u02ccm\u0259lt\u0259\u02c8f\u025cri\u0259s/", "Definition: having many aspects or qualities", "Synonyms: many-sided, miscellaneous, multifaceted"]}
+{"data": ["2022-05-29T19:01:21.694023+00:00", 2754, "Your mother is", "full-blood", "Similar to: purebred", "Definition: of unmixed ancestry", "Synonyms: blooded, full-blooded"]}
