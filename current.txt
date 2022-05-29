@@ -1,1 +1,1 @@
-{"data": ["2022-05-29T09:00:42.565769+00:00", 2744, "Your mother is", "sixtieth", "Pronunciation: /\u02c8s\u026aksti\u026a\u03b8/", "Definition: the ordinal number of sixty in counting order", "Synonyms: 60th"]}
+{"data": ["2022-05-29T10:00:42.740155+00:00", 2745, "Your mother is", "hematic", "Pronunciation: /h\u0259\u02c8m\u00e6t\u026ak/", "Definition: relating to or containing or affecting blood", "Synonyms: haematic, haemic, hemic"]}
