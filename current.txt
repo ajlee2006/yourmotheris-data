@@ -1,1 +1,1 @@
-{"data": ["2022-05-29T07:01:32.341097+00:00", 2742, "Your mother is", "toothed", "Pronunciation: /tu\u03b8t/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: erose, jagged, jaggy, notched"]}
+{"data": ["2022-05-29T08:01:03.755074+00:00", 2743, "Your mother is", "tawny-brown", "Pronunciation: /\u02c8t\u0254ni-bra\u028an/", "Definition: of a light brown to brownish orange color; the color of tanned leather", "Synonyms: tawny"]}
