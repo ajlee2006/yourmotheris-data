@@ -1,1 +1,1 @@
-{"data": ["2022-05-29T00:02:17.205843+00:00", 2735, "Your mother is", "war-ridden", "Similar to: unpeaceful", "Definition: engaged in war", "Synonyms: belligerent, militant, warring"]}
+{"data": ["2022-05-29T01:00:54.794445+00:00", 2736, "Your mother is", "cold-blooded", "Pronunciation: /ko\u028ald-\u02c8bl\u0259d\u026ad/", "Definition: without compunction or human feeling", "Synonyms: cold, inhuman, insensate"]}
