@@ -1,1 +1,1 @@
-{"data": ["2022-05-29T10:00:42.740155+00:00", 2745, "Your mother is", "hematic", "Pronunciation: /h\u0259\u02c8m\u00e6t\u026ak/", "Definition: relating to or containing or affecting blood", "Synonyms: haematic, haemic, hemic"]}
+{"data": ["2022-05-29T11:01:04.147001+00:00", 2746, "Your mother is", "budding", "Pronunciation: /\u02c8b\u028cd\u026a\u014b/", "Definition: beginning to develop", ""]}
