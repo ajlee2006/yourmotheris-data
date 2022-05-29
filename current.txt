@@ -1,1 +1,1 @@
-{"data": ["2022-05-29T12:00:23.644820+00:00", 2747, "Your mother is", "torturesome", "Similar to: painful", "Definition: extremely painful", "Synonyms: agonising, agonizing, excruciating, harrowing, torturing, torturous"]}
+{"data": ["2022-05-29T13:00:33.929892+00:00", 2748, "Your mother is", "blotchy", "Pronunciation: /\u02c8bl\u0251\u02a7i/", "Definition: marked with irregularly shaped spots or blots", "Synonyms: blotched, splotched"]}
