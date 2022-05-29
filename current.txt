@@ -1,1 +1,1 @@
-{"data": ["2022-05-29T03:00:39.850026+00:00", 2738, "Your mother is", "woven", "Pronunciation: /\u02c8wo\u028av\u0259n/", "Definition: made or constructed by interlacing threads or strips of material or other elements into a whole", ""]}
+{"data": ["2022-05-29T04:00:55.412959+00:00", 2739, "Your mother is", "tattling", "Similar to: communicative", "Definition: prone to communicate confidential information", "Synonyms: blabbermouthed, leaky, talebearing"]}
