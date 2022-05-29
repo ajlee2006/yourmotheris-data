@@ -1,1 +1,1 @@
-{"data": ["2022-05-28T23:01:22.716082+00:00", 2734, "Your mother is", "pale-colored", "Pronunciation: /pe\u026al-\u02c8k\u0259l\u0259rd/", "Definition: having a pale color", "Synonyms: pale-hued"]}
+{"data": ["2022-05-29T00:02:17.205843+00:00", 2735, "Your mother is", "war-ridden", "Similar to: unpeaceful", "Definition: engaged in war", "Synonyms: belligerent, militant, warring"]}
