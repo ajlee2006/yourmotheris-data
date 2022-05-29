@@ -1,1 +1,1 @@
-{"data": ["2022-05-29T08:01:03.755074+00:00", 2743, "Your mother is", "tawny-brown", "Pronunciation: /\u02c8t\u0254ni-bra\u028an/", "Definition: of a light brown to brownish orange color; the color of tanned leather", "Synonyms: tawny"]}
+{"data": ["2022-05-29T09:00:42.565769+00:00", 2744, "Your mother is", "sixtieth", "Pronunciation: /\u02c8s\u026aksti\u026a\u03b8/", "Definition: the ordinal number of sixty in counting order", "Synonyms: 60th"]}
