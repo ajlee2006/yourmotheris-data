@@ -1,1 +1,1 @@
-{"data": ["2022-05-30T02:01:12.524361+00:00", 2761, "Your mother is", "masterful", "Pronunciation: /\u02c8m\u00e6st\u0259rf\u0259l/", "Definition: having or revealing supreme mastery or skill", "Synonyms: consummate, masterly, virtuoso"]}
+{"data": ["2022-05-30T03:00:52.635308+00:00", 2762, "Your mother is", "in small stages", "Similar to: gradual", "Definition: one thing at a time", "Synonyms: bit-by-bit, piecemeal, step-by-step, stepwise"]}
