@@ -1,1 +1,1 @@
-{"data": ["2022-05-30T01:00:46.942664+00:00", 2760, "Your mother is", "zippy", "Pronunciation: /\u02c8z\u026api/", "Definition: quick and energetic", "Synonyms: alert, brisk, lively, merry, rattling, snappy, spanking"]}
+{"data": ["2022-05-30T02:01:12.524361+00:00", 2761, "Your mother is", "masterful", "Pronunciation: /\u02c8m\u00e6st\u0259rf\u0259l/", "Definition: having or revealing supreme mastery or skill", "Synonyms: consummate, masterly, virtuoso"]}
