@@ -1,1 +1,1 @@
-{"data": ["2022-05-30T11:01:13.053831+00:00", 2770, "Your mother is", "two-fold", "Pronunciation: /tu-fo\u028ald/", "Definition: having more than one decidedly dissimilar aspects or qualities", "Synonyms: double, dual, three-fold, threefold, treble, twofold"]}
+{"data": ["2022-05-30T12:01:15.361970+00:00", 2771, "Your mother is", "rearward", "Pronunciation: /\u02c8rirw\u0259rd/", "Definition: located in or toward the back or rear", "Synonyms: rear"]}
