@@ -1,1 +1,1 @@
-{"data": ["2022-05-30T00:01:07.802779+00:00", 2759, "Your mother is", "extant", "Pronunciation: /\u02c8\u025bkst\u0259nt/", "Definition: still in existence; not extinct or destroyed or lost", ""]}
+{"data": ["2022-05-30T01:00:46.942664+00:00", 2760, "Your mother is", "zippy", "Pronunciation: /\u02c8z\u026api/", "Definition: quick and energetic", "Synonyms: alert, brisk, lively, merry, rattling, snappy, spanking"]}
