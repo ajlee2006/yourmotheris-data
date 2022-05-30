@@ -1,1 +1,1 @@
-{"data": ["2022-05-30T06:01:22.697026+00:00", 2765, "Your mother is", "undeniable", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8na\u026a\u0259b\u0259l/", "Definition: not possible to deny", ""]}
+{"data": ["2022-05-30T07:01:13.481242+00:00", 2766, "Your mother is", "extremist", "Pronunciation: /\u026ak\u02c8strim\u026ast/", "Definition: (used of opinions and actions) far beyond the norm", "Synonyms: radical, ultra"]}
