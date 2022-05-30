@@ -1,1 +1,1 @@
-{"data": ["2022-05-30T09:01:24.898128+00:00", 2768, "Your mother is", "effected", "Pronunciation: /\u026a\u02c8f\u025bkt\u028cd/", "Definition: settled securely and unconditionally", "Synonyms: accomplished, established"]}
+{"data": ["2022-05-30T10:01:04.093935+00:00", 2769, "Your mother is", "hourlong", "Pronunciation: /\u02c8a\u028ar\u02ccl\u0254\u014b/", "Definition: lasting for an hour", ""]}
