@@ -1,1 +1,1 @@
-{"data": ["2022-05-30T10:01:04.093935+00:00", 2769, "Your mother is", "hourlong", "Pronunciation: /\u02c8a\u028ar\u02ccl\u0254\u014b/", "Definition: lasting for an hour", ""]}
+{"data": ["2022-05-30T11:01:13.053831+00:00", 2770, "Your mother is", "two-fold", "Pronunciation: /tu-fo\u028ald/", "Definition: having more than one decidedly dissimilar aspects or qualities", "Synonyms: double, dual, three-fold, threefold, treble, twofold"]}
