@@ -1,1 +1,1 @@
-{"data": ["2022-05-31T07:01:12.671923+00:00", 2790, "Your mother is", "deterrent", "Pronunciation: /d\u026a\u02c8t\u025cr\u0259nt/", "Definition: tending to deter", ""]}
+{"data": ["2022-05-31T08:02:02.417008+00:00", 2791, "Your mother is", "unaccented", "Similar to: unstressed", "Definition: (used of vowels or syllables) pronounced with little or no stress", "Synonyms: light, weak"]}
