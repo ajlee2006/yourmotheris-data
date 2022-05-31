@@ -1,1 +1,1 @@
-{"data": ["2022-05-31T10:01:55.221487+00:00", 2793, "Your mother is", "unclassified", "Pronunciation: /\u0259n\u02c8kl\u00e6s\u0259\u02ccfa\u026ad/", "Definition: not arranged in any specific grouping", ""]}
+{"data": ["2022-05-31T11:01:30.840177+00:00", 2794, "Your mother is", "harmonious", "Pronunciation: /h\u0251r\u02c8mo\u028ani\u0259s/", "Definition: exhibiting equivalence or correspondence among constituents of an entity or between different entities", "Synonyms: proportionate, symmetrical"]}
