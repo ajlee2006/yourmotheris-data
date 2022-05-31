@@ -1,1 +1,1 @@
-{"data": ["2022-05-31T02:00:58.999924+00:00", 2785, "Your mother is", "dermatological", "Pronunciation: /\u02ccd\u025crm\u0259\u02c8t\u0259l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to or practicing dermatology", "Synonyms: dermatologic"]}
+{"data": ["2022-05-31T03:00:46.464424+00:00", 2786, "Your mother is", "synonymous", "Pronunciation: /s\u026a\u02c8n\u0251n\u0259m\u0259s/", "Definition: (of words) meaning the same or nearly the same", ""]}
