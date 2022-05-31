@@ -1,1 +1,1 @@
-{"data": ["2022-05-30T23:01:24.806579+00:00", 2782, "Your mother is", "uninsured", "Pronunciation: /\u02cc\u0259n\u026an\u02c8\u0283\u028a\u0259d/", "Definition: not covered by insurance", ""]}
+{"data": ["2022-05-31T00:01:10.845158+00:00", 2783, "Your mother is", "communist", "Pronunciation: /\u02c8k\u0251mj\u0259n\u026ast/", "Definition: relating to or marked by communism", "Synonyms: communistic"]}
