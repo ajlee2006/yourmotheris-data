@@ -1,1 +1,1 @@
-{"data": ["2022-05-31T22:00:51.399613+00:00", 2805, "Your mother is", "enormous", "Pronunciation: /\u026a\u02c8n\u0254rm\u0259s/", "Definition: extraordinarily large in size or extent or amount or power or degree", "Synonyms: tremendous"]}
+{"data": ["2022-05-31T23:01:01.533970+00:00", 2806, "Your mother is", "decrescendo", "Pronunciation: /dikr\u026a\u02c8\u0283\u025bndo\u028a/", "Definition: (music) gradually decreasing in volume", "Synonyms: diminuendo"]}
