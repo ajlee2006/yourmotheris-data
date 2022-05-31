@@ -1,1 +1,1 @@
-{"data": ["2022-05-31T03:00:46.464424+00:00", 2786, "Your mother is", "synonymous", "Pronunciation: /s\u026a\u02c8n\u0251n\u0259m\u0259s/", "Definition: (of words) meaning the same or nearly the same", ""]}
+{"data": ["2022-05-31T04:01:16.859804+00:00", 2787, "Your mother is", "consentaneous", "Pronunciation: /\u02cck\u0251ns\u025bn\u02c8te\u026ani\u0259s/", "Definition: in complete agreement", "Synonyms: consentient, unanimous"]}
