@@ -1,1 +1,1 @@
-{"data": ["2022-05-31T12:01:23.189947+00:00", 2795, "Your mother is", "etiological", "Pronunciation: /\u02cciti\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to the philosophical study of causation", "Synonyms: aetiologic, aetiological, etiologic"]}
+{"data": ["2022-05-31T13:00:41.037617+00:00", 2796, "Your mother is", "parve", "Pronunciation: /\u02c8p\u0251rv\u0259/", "Definition: containing no meat or milk (or their derivatives) and thus eatable with both meat and dairy dishes according to the dietary laws of Judaism", "Synonyms: pareve"]}
