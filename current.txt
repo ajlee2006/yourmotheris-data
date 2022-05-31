@@ -1,1 +1,1 @@
-{"data": ["2022-05-31T18:00:52.011047+00:00", 2801, "Your mother is", "rearward", "Pronunciation: /\u02c8rirw\u0259rd/", "Definition: located in or toward the back or rear", "Synonyms: rear"]}
+{"data": ["2022-05-31T19:01:14.314461+00:00", 2802, "Your mother is", "45th", "Similar to: ordinal", "Definition: the ordinal number of forty-five in counting order", "Synonyms: forty-fifth"]}
