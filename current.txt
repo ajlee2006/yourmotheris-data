@@ -1,1 +1,1 @@
-{"data": ["2022-05-31T11:01:30.840177+00:00", 2794, "Your mother is", "harmonious", "Pronunciation: /h\u0251r\u02c8mo\u028ani\u0259s/", "Definition: exhibiting equivalence or correspondence among constituents of an entity or between different entities", "Synonyms: proportionate, symmetrical"]}
+{"data": ["2022-05-31T12:01:23.189947+00:00", 2795, "Your mother is", "etiological", "Pronunciation: /\u02cciti\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to the philosophical study of causation", "Synonyms: aetiologic, aetiological, etiologic"]}
