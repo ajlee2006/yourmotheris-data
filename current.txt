@@ -1,1 +1,1 @@
-{"data": ["2022-05-31T05:01:29.124117+00:00", 2788, "Your mother is", "structural", "Pronunciation: /\u02c8str\u0259k\u02a7\u0259r\u0259l/", "Definition: pertaining to geological structure", "Synonyms: geomorphologic, geomorphological, morphologic, morphological"]}
+{"data": ["2022-05-31T06:01:32.121719+00:00", 2789, "Your mother is", "blackish-grey", "Similar to: achromatic", "Definition: of dark grey", "Synonyms: black-gray, black-grey, blackish-gray"]}
