@@ -1,1 +1,1 @@
-{"data": ["2022-05-31T13:00:41.037617+00:00", 2796, "Your mother is", "parve", "Pronunciation: /\u02c8p\u0251rv\u0259/", "Definition: containing no meat or milk (or their derivatives) and thus eatable with both meat and dairy dishes according to the dietary laws of Judaism", "Synonyms: pareve"]}
+{"data": ["2022-05-31T14:00:53.781827+00:00", 2797, "Your mother is", "active", "Pronunciation: /\u02c8\u00e6kt\u026av/", "Definition: engaged in or ready for military or naval operations", "Synonyms: combat-ready, fighting"]}
