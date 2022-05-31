@@ -1,1 +1,1 @@
-{"data": ["2022-05-31T04:01:16.859804+00:00", 2787, "Your mother is", "consentaneous", "Pronunciation: /\u02cck\u0251ns\u025bn\u02c8te\u026ani\u0259s/", "Definition: in complete agreement", "Synonyms: consentient, unanimous"]}
+{"data": ["2022-05-31T05:01:29.124117+00:00", 2788, "Your mother is", "structural", "Pronunciation: /\u02c8str\u0259k\u02a7\u0259r\u0259l/", "Definition: pertaining to geological structure", "Synonyms: geomorphologic, geomorphological, morphologic, morphological"]}
