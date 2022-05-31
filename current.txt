@@ -1,1 +1,1 @@
-{"data": ["2022-05-31T16:00:52.165981+00:00", 2799, "Your mother is", "ectopic", "Pronunciation: /\u025bk\u02c8t\u0251p\u026ak/", "Definition: exhibiting ectopia", ""]}
+{"data": ["2022-05-31T17:01:03.596216+00:00", 2800, "Your mother is", "lamblike", "Pronunciation: /\u02c8l\u00e6m\u02ccla\u026ak/", "Definition: like a lamb in meekness and gentleness", ""]}
