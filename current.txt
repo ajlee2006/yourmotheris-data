@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T07:01:16.323733+00:00", 2814, "Your mother is", "95th", "Similar to: ordinal", "Definition: the ordinal number of ninety-five in counting order", "Synonyms: ninety-fifth"]}
+{"data": ["2022-06-01T08:00:33.262055+00:00", 2815, "Your mother is", "revelatory", "Pronunciation: /r\u026a\u02c8v\u025bl\u0259\u02ccto\u028ari/", "Definition: (usually followed by `of') pointing out or revealing clearly", "Synonyms: indicative, indicatory, significative, suggestive"]}
