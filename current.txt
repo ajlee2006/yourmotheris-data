@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T09:00:46.100108+00:00", 2816, "Your mother is", "unequaled", "Pronunciation: /\u0259n\u02c8ikw\u0259ld/", "Definition: radically distinctive and without equal", "Synonyms: alone, unequalled, unique, unparalleled"]}
+{"data": ["2022-06-01T10:00:24.417400+00:00", 2817, "Your mother is", "clarion", "Pronunciation: /\u02c8kl\u00e6ri\u0259n/", "Definition: loud and clear", ""]}
