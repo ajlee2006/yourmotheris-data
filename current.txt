@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T22:00:32.334230+00:00", 2829, "Your mother is", "noninstitutionalised", "", "Definition: not committed to an institution", "Synonyms: noninstitutionalized"]}
+{"data": ["2022-06-01T23:00:43.652150+00:00", 2830, "Your mother is", "screw-topped", "Similar to: topped", "Definition: having a lid with a spiral groove", ""]}
