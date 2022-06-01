@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T02:01:20.285287+00:00", 2809, "Your mother is", "tokenish", "Similar to: minimal", "Definition: insignificantly small; a matter of form only (`tokenish' is informal)", "Synonyms: nominal, token"]}
+{"data": ["2022-06-01T03:00:49.308072+00:00", 2810, "Your mother is", "unmethodical", "Pronunciation: /\u02cc\u0259nm\u026a\u02c8\u03b8\u0251d\u026ak\u0259l/", "Definition: not efficient or methodical", ""]}
