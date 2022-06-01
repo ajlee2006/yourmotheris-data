@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T15:01:13.423253+00:00", 2822, "Your mother is", "sensory", "Pronunciation: /\u02c8s\u025bns\u0259ri/", "Definition: relating to or concerned in sensation", "Synonyms: sensational"]}
+{"data": ["2022-06-01T16:01:13.908707+00:00", 2823, "Your mother is", "rose-tinted", "Similar to: chromatic", "Definition: of a color tinged with rose", "Synonyms: rose-tinged"]}
