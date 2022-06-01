@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T10:00:24.417400+00:00", 2817, "Your mother is", "clarion", "Pronunciation: /\u02c8kl\u00e6ri\u0259n/", "Definition: loud and clear", ""]}
+{"data": ["2022-06-01T11:01:07.706016+00:00", 2818, "Your mother is", "azoic", "Pronunciation: /\u00e6\u02c8zo\u028a\u026ak/", "Definition: before the appearance of life", ""]}
