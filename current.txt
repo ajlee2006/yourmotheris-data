@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T12:00:25.297065+00:00", 2819, "Your mother is", "coextensive", "Pronunciation: /\u02ccko\u028a\u026ak\u02c8st\u025bns\u026av/", "Definition: being of equal extent or scope or duration", "Synonyms: conterminous, coterminous"]}
+{"data": ["2022-06-01T13:00:41.812632+00:00", 2820, "Your mother is", "commodious", "Pronunciation: /k\u0259\u02c8mo\u028adi\u0259s/", "Definition: large and roomy (`convenient' is archaic in this sense)", "Synonyms: convenient"]}
