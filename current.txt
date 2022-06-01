@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T00:01:13.705934+00:00", 2807, "Your mother is", "extrovert", "Pronunciation: /\u02c8\u025bkstro\u028a\u02ccv\u025crt/", "Definition: being concerned with the social and physical environment", "Synonyms: extravert, extraverted, extravertive, extroverted, extrovertive"]}
+{"data": ["2022-06-01T01:01:15.549518+00:00", 2808, "Your mother is", "moneyed", "Pronunciation: /\u02c8m\u0259nid/", "Definition: having an abundant supply of money or possessions of value", "Synonyms: affluent, flush, loaded, substantial, wealthy"]}
