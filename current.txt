@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T19:00:12.041400+00:00", 2826, "Your mother is", "lax", "Pronunciation: /l\u00e6ks/", "Definition: emptying easily or excessively", "Synonyms: loose"]}
+{"data": ["2022-06-01T20:00:28.183796+00:00", 2827, "Your mother is", "labeled", "Pronunciation: /\u02c8le\u026ab\u028cld/", "Definition: bearing or marked with a label or tag", "Synonyms: labelled, tagged"]}
