@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T04:01:36.505774+00:00", 2811, "Your mother is", "at large", "Similar to: free", "Definition: having escaped, especially from confinement", "Synonyms: escaped, loose, on the loose"]}
+{"data": ["2022-06-01T05:00:41.485497+00:00", 2812, "Your mother is", "kinetic", "Pronunciation: /k\u026a\u02c8n\u025bt\u026ak/", "Definition: supplying motive force", "Synonyms: energising, energizing"]}
