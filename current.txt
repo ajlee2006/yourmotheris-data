@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T06:00:59.931818+00:00", 2813, "Your mother is", "heterothermic", "Similar to: cold-blooded", "Definition: of animals except birds and mammals; having body temperature that varies with the environment", "Synonyms: ectothermic, poikilothermic, poikilothermous"]}
+{"data": ["2022-06-01T07:01:16.323733+00:00", 2814, "Your mother is", "95th", "Similar to: ordinal", "Definition: the ordinal number of ninety-five in counting order", "Synonyms: ninety-fifth"]}
