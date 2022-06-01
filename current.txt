@@ -1,1 +1,1 @@
-{"data": ["2022-05-31T23:01:01.533970+00:00", 2806, "Your mother is", "decrescendo", "Pronunciation: /dikr\u026a\u02c8\u0283\u025bndo\u028a/", "Definition: (music) gradually decreasing in volume", "Synonyms: diminuendo"]}
+{"data": ["2022-06-01T00:01:13.705934+00:00", 2807, "Your mother is", "extrovert", "Pronunciation: /\u02c8\u025bkstro\u028a\u02ccv\u025crt/", "Definition: being concerned with the social and physical environment", "Synonyms: extravert, extraverted, extravertive, extroverted, extrovertive"]}
