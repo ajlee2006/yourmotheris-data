@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T21:01:22.675723+00:00", 2828, "Your mother is", "subliterary", "Similar to: informal", "Definition: not written as or intended to be literature", ""]}
+{"data": ["2022-06-01T22:00:32.334230+00:00", 2829, "Your mother is", "noninstitutionalised", "", "Definition: not committed to an institution", "Synonyms: noninstitutionalized"]}
