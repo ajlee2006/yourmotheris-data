@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T05:00:41.485497+00:00", 2812, "Your mother is", "kinetic", "Pronunciation: /k\u026a\u02c8n\u025bt\u026ak/", "Definition: supplying motive force", "Synonyms: energising, energizing"]}
+{"data": ["2022-06-01T06:00:59.931818+00:00", 2813, "Your mother is", "heterothermic", "Similar to: cold-blooded", "Definition: of animals except birds and mammals; having body temperature that varies with the environment", "Synonyms: ectothermic, poikilothermic, poikilothermous"]}
