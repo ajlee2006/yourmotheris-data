@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T18:01:05.360315+00:00", 2825, "Your mother is", "verbose", "Pronunciation: /v\u0259r\u02c8bo\u028as/", "Definition: using or containing too many words", "Synonyms: long-winded, tedious, windy, wordy"]}
+{"data": ["2022-06-01T19:00:12.041400+00:00", 2826, "Your mother is", "lax", "Pronunciation: /l\u00e6ks/", "Definition: emptying easily or excessively", "Synonyms: loose"]}
