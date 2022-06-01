@@ -1,1 +1,1 @@
-{"data": ["2022-06-01T11:01:07.706016+00:00", 2818, "Your mother is", "azoic", "Pronunciation: /\u00e6\u02c8zo\u028a\u026ak/", "Definition: before the appearance of life", ""]}
+{"data": ["2022-06-01T12:00:25.297065+00:00", 2819, "Your mother is", "coextensive", "Pronunciation: /\u02ccko\u028a\u026ak\u02c8st\u025bns\u026av/", "Definition: being of equal extent or scope or duration", "Synonyms: conterminous, coterminous"]}
