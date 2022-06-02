@@ -1,1 +1,1 @@
-{"data": ["2022-06-02T03:01:23.256151+00:00", 2834, "Your mother is", "disguised", "Pronunciation: /d\u026as\u02c8\u0261a\u026azd/", "Definition: having its true character concealed with the intent of misleading", "Synonyms: cloaked, masked"]}
+{"data": ["2022-06-02T04:01:22.132513+00:00", 2835, "Your mother is", "communist", "Pronunciation: /\u02c8k\u0251mj\u0259n\u026ast/", "Definition: relating to or marked by communism", "Synonyms: communistic"]}
