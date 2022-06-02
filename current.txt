@@ -1,1 +1,1 @@
-{"data": ["2022-06-02T00:01:40.982081+00:00", 2831, "Your mother is", "painterly", "Pronunciation: /\u02c8pe\u026ant\u0259rli/", "Definition: having qualities unique to the art of painting", ""]}
+{"data": ["2022-06-02T01:00:30.964320+00:00", 2832, "Your mother is", "vulpecular", "Pronunciation: /v\u0259l\u02c8p\u025bkj\u0259l\u0259r/", "Definition: resembling or characteristic of a fox", "Synonyms: vulpine"]}
