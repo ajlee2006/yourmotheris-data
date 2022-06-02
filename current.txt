@@ -1,1 +1,1 @@
-{"data": ["2022-06-02T13:00:40.022583+00:00", 2844, "Your mother is", "uncrystallized", "Similar to: noncrystalline", "Definition: without real or apparent crystalline form", "Synonyms: amorphous, uncrystallised"]}
+{"data": ["2022-06-02T14:01:24.792207+00:00", 2845, "Your mother is", "chestnut", "Pronunciation: /\u02c8\u02a7\u025bs\u02ccn\u0259t/", "Definition: (of hair or feathers) of a golden brown to reddish brown color", ""]}
