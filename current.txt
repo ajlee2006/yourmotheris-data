@@ -1,1 +1,1 @@
-{"data": ["2022-06-02T07:00:59.459217+00:00", 2838, "Your mother is", "tenebrious", "Pronunciation: /t\u0259\u02c8n\u025bbri\u0259s/", "Definition: dark and gloomy", "Synonyms: tenebrific, tenebrous"]}
+{"data": ["2022-06-02T08:01:31.379778+00:00", 2839, "Your mother is", "angulate", "Pronunciation: /\u02c8\u00e6\u014b\u0261j\u0259l\u026at/", "Definition: having angles or an angular shape", "Synonyms: angular"]}
