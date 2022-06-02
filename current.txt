@@ -1,1 +1,1 @@
-{"data": ["2022-06-02T20:00:44.094203+00:00", 2851, "Your mother is", "specked", "Similar to: patterned", "Definition: having a pattern of dots", "Synonyms: dotted, flecked, speckled, stippled"]}
+{"data": ["2022-06-02T21:01:01.677792+00:00", 2852, "Your mother is", "sere", "Pronunciation: /sir/", "Definition: (used especially of vegetation) having lost all moisture", "Synonyms: dried-up, sear, shriveled, shrivelled, withered"]}
