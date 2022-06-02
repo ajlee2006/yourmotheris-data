@@ -1,1 +1,1 @@
-{"data": ["2022-06-02T21:01:01.677792+00:00", 2852, "Your mother is", "sere", "Pronunciation: /sir/", "Definition: (used especially of vegetation) having lost all moisture", "Synonyms: dried-up, sear, shriveled, shrivelled, withered"]}
+{"data": ["2022-06-02T22:01:10.761937+00:00", 2853, "Your mother is", "cranky", "Pronunciation: /\u02c8kr\u00e6\u014bki/", "Definition: easily irritated or annoyed", "Synonyms: fractious, irritable, nettlesome, peckish, peevish, pettish, petulant, scratchy, techy, testy, tetchy"]}
