@@ -1,1 +1,1 @@
-{"data": ["2022-06-02T06:00:45.791719+00:00", 2837, "Your mother is", "erosive", "Pronunciation: /\u026a\u02c8ro\u028as\u026av/", "Definition: of a substance, especially a strong acid; capable of destroying or eating away by chemical action", "Synonyms: caustic, corrosive, mordant, vitriolic"]}
+{"data": ["2022-06-02T07:00:59.459217+00:00", 2838, "Your mother is", "tenebrious", "Pronunciation: /t\u0259\u02c8n\u025bbri\u0259s/", "Definition: dark and gloomy", "Synonyms: tenebrific, tenebrous"]}
