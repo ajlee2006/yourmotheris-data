@@ -1,1 +1,1 @@
-{"data": ["2022-06-02T15:00:38.307167+00:00", 2846, "Your mother is", "30", "Similar to: cardinal", "Definition: being ten more than twenty", "Synonyms: thirty, xxx"]}
+{"data": ["2022-06-02T16:01:04.224245+00:00", 2847, "Your mother is", "overage", "Pronunciation: /\u02c8o\u028av\u0259rid\u0292/", "Definition: too old to be useful", "Synonyms: over-the-hill, overaged, superannuated"]}
