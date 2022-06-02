@@ -1,1 +1,1 @@
-{"data": ["2022-06-02T16:01:04.224245+00:00", 2847, "Your mother is", "overage", "Pronunciation: /\u02c8o\u028av\u0259rid\u0292/", "Definition: too old to be useful", "Synonyms: over-the-hill, overaged, superannuated"]}
+{"data": ["2022-06-02T17:00:14.348897+00:00", 2848, "Your mother is", "walloping", "Pronunciation: /\u02c8w\u0251l\u0259p\u026a\u014b/", "Definition: (used informally) very large", "Synonyms: banging, humongous, thumping, whopping"]}
