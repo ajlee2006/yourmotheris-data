@@ -1,1 +1,1 @@
-{"data": ["2022-06-02T18:00:46.441884+00:00", 2849, "Your mother is", "sixty-three", "Pronunciation: /\u02c8s\u026aksti-\u02c8\u03b8ri/", "Definition: being three more than sixty", "Synonyms: 63, lxiii"]}
+{"data": ["2022-06-02T19:01:12.026002+00:00", 2850, "Your mother is", "logistic", "Pronunciation: /lo\u028a\u02c8d\u0292\u026ast\u026ak/", "Definition: of or relating to logistics", "Synonyms: logistical"]}
