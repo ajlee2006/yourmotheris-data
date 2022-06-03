@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T05:01:10.499145+00:00", 2860, "Your mother is", "hatted", "Similar to: turbaned", "Definition: wearing a hat or a hat of a particular kind", ""]}
+{"data": ["2022-06-03T06:01:15.893039+00:00", 2861, "Your mother is", "anechoic", "Pronunciation: /\u02cc\u00e6n\u025b\u02c8ko\u028a\u026ak/", "Definition: not having or producing echoes; sound-absorbent", ""]}
