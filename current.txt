@@ -1,1 +1,1 @@
-{"data": ["2022-06-02T23:00:24.586550+00:00", 2854, "Your mother is", "v", "Pronunciation: /vi/", "Definition: being one more than four", "Synonyms: 5, five"]}
+{"data": ["2022-06-03T00:01:25.803014+00:00", 2855, "Your mother is", "weather-stripped", "Similar to: caulked", "Definition: having cracks blocked with weather stripping", ""]}
