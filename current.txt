@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T10:01:22.942517+00:00", 2865, "Your mother is", "spiny-leaved", "Pronunciation: /\u02c8spa\u026ani-livd/", "Definition: having spiny leaves", "Synonyms: spiny-leafed"]}
+{"data": ["2022-06-03T11:00:52.368877+00:00", 2866, "Your mother is", "metallic-looking", "Similar to: metal", "Definition: resembling metal", "Synonyms: metal-looking, metallike"]}
