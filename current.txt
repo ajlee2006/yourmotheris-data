@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T19:01:35.321585+00:00", 2874, "Your mother is", "reactionary", "Pronunciation: /ri\u02c8\u00e6k\u0283\u0259n\u0259ri/", "Definition: opposed to political or social liberalism or reform", "Synonyms: far-right, reactionist"]}
+{"data": ["2022-06-03T20:01:37.932456+00:00", 2875, "Your mother is", "unwarrantable", "Pronunciation: /\u0259n\u02c8w\u0251r\u0259nt\u0259b\u0259l/", "Definition: incapable of being justified or explained", "Synonyms: indefensible, insupportable, unjustifiable, unwarranted"]}
