@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T11:00:52.368877+00:00", 2866, "Your mother is", "metallic-looking", "Similar to: metal", "Definition: resembling metal", "Synonyms: metal-looking, metallike"]}
+{"data": ["2022-06-03T12:01:13.381840+00:00", 2867, "Your mother is", "pharmacologic", "", "Definition: of or relating to pharmacology", "Synonyms: pharmacological"]}
