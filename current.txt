@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T04:01:11.455952+00:00", 2859, "Your mother is", "cv", "Similar to: cardinal", "Definition: being five more than one hundred", "Synonyms: 105, one hundred five"]}
+{"data": ["2022-06-03T05:01:10.499145+00:00", 2860, "Your mother is", "hatted", "Similar to: turbaned", "Definition: wearing a hat or a hat of a particular kind", ""]}
