@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T17:00:50.465671+00:00", 2872, "Your mother is", "geologic", "Pronunciation: /\u02ccd\u0292i\u0259\u02c8l\u0251d\u0292\u026ak/", "Definition: of or relating to or based on geology", "Synonyms: geological"]}
+{"data": ["2022-06-03T18:00:20.594302+00:00", 2873, "Your mother is", "tenth", "Pronunciation: /t\u025bn\u03b8/", "Definition: coming next after the ninth and just before the eleventh in position", "Synonyms: 10th"]}
