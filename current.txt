@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T20:01:37.932456+00:00", 2875, "Your mother is", "unwarrantable", "Pronunciation: /\u0259n\u02c8w\u0251r\u0259nt\u0259b\u0259l/", "Definition: incapable of being justified or explained", "Synonyms: indefensible, insupportable, unjustifiable, unwarranted"]}
+{"data": ["2022-06-03T21:00:59.367193+00:00", 2876, "Your mother is", "graspable", "Similar to: comprehendible", "Definition: capable of being apprehended or understood", "Synonyms: apprehensible, intelligible, perceivable, understandable"]}
