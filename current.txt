@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T15:01:36.063193+00:00", 2870, "Your mother is", "taken with", "Pronunciation: /\u02c8te\u026ak\u0259n-w\u026a\u03b8/", "Definition: marked by foolish or unreasoning fondness", "Synonyms: enamored, in love, infatuated, potty, smitten, soft on"]}
+{"data": ["2022-06-03T16:01:27.654069+00:00", 2871, "Your mother is", "high-altitude", "Pronunciation: /ha\u026a-\u02c8\u00e6lt\u026a\u02cctud/", "Definition: occurring at or from a relative high altitude", "Synonyms: high-level"]}
