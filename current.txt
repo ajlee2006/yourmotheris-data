@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T01:01:18.790516+00:00", 2856, "Your mother is", "disingenuous", "Pronunciation: /\u02ccd\u026as\u026an\u02c8d\u0292\u025bnju\u0259s/", "Definition: not straightforward or candid; giving a false appearance of frankness", "Synonyms: artful"]}
+{"data": ["2022-06-03T02:01:29.313016+00:00", 2857, "Your mother is", "revised", "Pronunciation: /r\u026a\u02c8va\u026azd/", "Definition: altered or revised by rephrasing or by adding or deleting material", ""]}
