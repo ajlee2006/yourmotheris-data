@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T07:01:28.553688+00:00", 2862, "Your mother is", "stenotic", "Similar to: constricted", "Definition: abnormally constricted body canal or passage", "Synonyms: stenosed"]}
+{"data": ["2022-06-03T08:00:59.646081+00:00", 2863, "Your mother is", "bran-new", "Pronunciation: /\u02c8br\u00e6n\u02c8nu/", "Definition: conspicuously new", "Synonyms: brand-new, spic-and-span, spick-and-span"]}
