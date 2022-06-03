@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T21:00:59.367193+00:00", 2876, "Your mother is", "graspable", "Similar to: comprehendible", "Definition: capable of being apprehended or understood", "Synonyms: apprehensible, intelligible, perceivable, understandable"]}
+{"data": ["2022-06-03T22:00:49.261815+00:00", 2877, "Your mother is", "drinkable", "Pronunciation: /\u02c8dr\u026a\u014bk\u0259b\u0259l/", "Definition: suitable for drinking", "Synonyms: potable"]}
