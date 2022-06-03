@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T06:01:15.893039+00:00", 2861, "Your mother is", "anechoic", "Pronunciation: /\u02cc\u00e6n\u025b\u02c8ko\u028a\u026ak/", "Definition: not having or producing echoes; sound-absorbent", ""]}
+{"data": ["2022-06-03T07:01:28.553688+00:00", 2862, "Your mother is", "stenotic", "Similar to: constricted", "Definition: abnormally constricted body canal or passage", "Synonyms: stenosed"]}
