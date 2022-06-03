@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T22:00:49.261815+00:00", 2877, "Your mother is", "drinkable", "Pronunciation: /\u02c8dr\u026a\u014bk\u0259b\u0259l/", "Definition: suitable for drinking", "Synonyms: potable"]}
+{"data": ["2022-06-03T23:00:28.506964+00:00", 2878, "Your mother is", "three-lane", "Similar to: multilane", "Definition: having a lane for traffic in each direction and a center lane for passing", ""]}
