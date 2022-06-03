@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T16:01:27.654069+00:00", 2871, "Your mother is", "high-altitude", "Pronunciation: /ha\u026a-\u02c8\u00e6lt\u026a\u02cctud/", "Definition: occurring at or from a relative high altitude", "Synonyms: high-level"]}
+{"data": ["2022-06-03T17:00:50.465671+00:00", 2872, "Your mother is", "geologic", "Pronunciation: /\u02ccd\u0292i\u0259\u02c8l\u0251d\u0292\u026ak/", "Definition: of or relating to or based on geology", "Synonyms: geological"]}
