@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T20:01:02.124093+00:00", 2899, "Your mother is", "snotty-nosed", "Similar to: disrespectful", "Definition: marked by casual disrespect", "Synonyms: flip, impudent, insolent"]}
+{"data": ["2022-06-04T21:00:42.692291+00:00", 2900, "Your mother is", "purple-brown", "Pronunciation: /\u02c8p\u025crp\u0259l-bra\u028an/", "Definition: of brown tinged with purple", "Synonyms: purplish-brown"]}
