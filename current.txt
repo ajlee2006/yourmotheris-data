@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T15:01:29.771404+00:00", 2894, "Your mother is", "silent", "Pronunciation: /\u02c8sa\u026al\u0259nt/", "Definition: implied by or inferred from actions or statements", "Synonyms: tacit, understood"]}
+{"data": ["2022-06-04T16:01:13.865988+00:00", 2895, "Your mother is", "isotropic", "Pronunciation: /\u02cca\u026as\u0259\u02c8tr\u0251p\u026ak/", "Definition: invariant with respect to direction", "Synonyms: isotropous"]}
