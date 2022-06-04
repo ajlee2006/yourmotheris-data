@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T16:01:13.865988+00:00", 2895, "Your mother is", "isotropic", "Pronunciation: /\u02cca\u026as\u0259\u02c8tr\u0251p\u026ak/", "Definition: invariant with respect to direction", "Synonyms: isotropous"]}
+{"data": ["2022-06-04T17:00:50.751056+00:00", 2896, "Your mother is", "silty", "Pronunciation: /\u02c8s\u026alti/", "Definition: full of silt", ""]}
