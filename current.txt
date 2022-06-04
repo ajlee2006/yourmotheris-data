@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T19:01:09.160779+00:00", 2898, "Your mother is", "distensible", "Pronunciation: /d\u026a\u02c8st\u025bns\u0259b\u0259l/", "Definition: capable of being distended; able to stretch and expand", ""]}
+{"data": ["2022-06-04T20:01:02.124093+00:00", 2899, "Your mother is", "snotty-nosed", "Similar to: disrespectful", "Definition: marked by casual disrespect", "Synonyms: flip, impudent, insolent"]}
