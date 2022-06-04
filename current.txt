@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T09:00:13.191349+00:00", 2888, "Your mother is", "contractable", "Pronunciation: /k\u0259n\u02c8tr\u00e6kt\u0259b\u0259l/", "Definition: (of disease) capable of being transmitted by infection", "Synonyms: catching, communicable, contagious, transmissible, transmittable"]}
+{"data": ["2022-06-04T10:01:52.643909+00:00", 2889, "Your mother is", "henpecked", "Pronunciation: /\u02c8h\u025bn\u02ccp\u025bkt/", "Definition: harassed by persistent nagging", "Synonyms: dominated"]}
