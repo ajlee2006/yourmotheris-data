@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T04:00:29.825671+00:00", 2883, "Your mother is", "engrossing", "Pronunciation: /\u025bn\u02c8gro\u028as\u026a\u014b/", "Definition: capable of arousing and holding the attention", "Synonyms: absorbing, fascinating, gripping, riveting"]}
+{"data": ["2022-06-04T05:00:19.126288+00:00", 2884, "Your mother is", "semi-processed", "Similar to: processed", "Definition: having been subjected to partial processing", ""]}
