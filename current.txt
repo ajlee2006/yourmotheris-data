@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T06:01:49.648041+00:00", 2885, "Your mother is", "peripheral", "Pronunciation: /p\u0259\u02c8r\u026af\u0259r\u0259l/", "Definition: on or near an edge or constituting an outer boundary; the outer area", ""]}
+{"data": ["2022-06-04T07:00:36.864732+00:00", 2886, "Your mother is", "clinker-built", "Pronunciation: /\u02c8kl\u026a\u014bk\u0259r-b\u026alt/", "Definition: having overlapping hull planks", "Synonyms: clincher-built, lap-strake, lap-straked, lap-streak, lap-streaked"]}
