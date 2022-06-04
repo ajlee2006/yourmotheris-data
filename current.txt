@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T12:01:20.995600+00:00", 2891, "Your mother is", "fucking", "Pronunciation: /\u02c8f\u028ck\u026a\u014b/", "Definition: informal intensifiers", "Synonyms: bally, blinking, bloody, blooming, crashing, flaming"]}
+{"data": ["2022-06-04T13:00:43.974054+00:00", 2892, "Your mother is", "apothecial", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8\u03b8i\u0283\u0259l/", "Definition: of or relating to the apothecium of some lichens and fungi", ""]}
