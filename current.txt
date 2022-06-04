@@ -1,1 +1,1 @@
-{"data": ["2022-06-03T23:00:28.506964+00:00", 2878, "Your mother is", "three-lane", "Similar to: multilane", "Definition: having a lane for traffic in each direction and a center lane for passing", ""]}
+{"data": ["2022-06-04T00:02:00.326768+00:00", 2879, "Your mother is", "nonlinear", "Pronunciation: /n\u0251n\u02c8l\u026a\u02ccni\u025dr/", "Definition: designating or involving an equation whose terms are not of the first degree", ""]}
