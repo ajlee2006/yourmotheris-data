@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T07:00:36.864732+00:00", 2886, "Your mother is", "clinker-built", "Pronunciation: /\u02c8kl\u026a\u014bk\u0259r-b\u026alt/", "Definition: having overlapping hull planks", "Synonyms: clincher-built, lap-strake, lap-straked, lap-streak, lap-streaked"]}
+{"data": ["2022-06-04T08:01:27.798489+00:00", 2887, "Your mother is", "whopping", "Pronunciation: /\u02c8hw\u0251p\u026a\u014b/", "Definition: (used informally) very large", "Synonyms: banging, humongous, thumping, walloping"]}
