@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T10:01:52.643909+00:00", 2889, "Your mother is", "henpecked", "Pronunciation: /\u02c8h\u025bn\u02ccp\u025bkt/", "Definition: harassed by persistent nagging", "Synonyms: dominated"]}
+{"data": ["2022-06-04T11:00:29.951115+00:00", 2890, "Your mother is", "volumed", "Pronunciation: /\u02c8v\u0251ljumd/", "Definition: formed or rising in rounded masses", ""]}
