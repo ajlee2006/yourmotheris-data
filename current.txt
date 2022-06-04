@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T02:01:19.420877+00:00", 2881, "Your mother is", "rwandan", "Pronunciation: /r\u028cw\u02c8\u0251nd\u028cn/", "Definition: of or pertaining to Rwanda", "Synonyms: ruandan"]}
+{"data": ["2022-06-04T03:00:19.623090+00:00", 2882, "Your mother is", "extensile", "Pronunciation: /\u026ak\u02c8st\u025bns\u0259l/", "Definition: capable of being protruded or stretched or opened out", "Synonyms: extensible"]}
