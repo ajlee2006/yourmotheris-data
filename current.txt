@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T13:00:43.974054+00:00", 2892, "Your mother is", "apothecial", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8\u03b8i\u0283\u0259l/", "Definition: of or relating to the apothecium of some lichens and fungi", ""]}
+{"data": ["2022-06-04T14:00:49.223850+00:00", 2893, "Your mother is", "overhanded", "Similar to: round-arm", "Definition: with hand brought forward and down from above shoulder level", "Synonyms: overarm, overhand"]}
