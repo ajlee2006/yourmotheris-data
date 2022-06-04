@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T08:01:27.798489+00:00", 2887, "Your mother is", "whopping", "Pronunciation: /\u02c8hw\u0251p\u026a\u014b/", "Definition: (used informally) very large", "Synonyms: banging, humongous, thumping, walloping"]}
+{"data": ["2022-06-04T09:00:13.191349+00:00", 2888, "Your mother is", "contractable", "Pronunciation: /k\u0259n\u02c8tr\u00e6kt\u0259b\u0259l/", "Definition: (of disease) capable of being transmitted by infection", "Synonyms: catching, communicable, contagious, transmissible, transmittable"]}
