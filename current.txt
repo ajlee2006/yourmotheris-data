@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T00:02:00.326768+00:00", 2879, "Your mother is", "nonlinear", "Pronunciation: /n\u0251n\u02c8l\u026a\u02ccni\u025dr/", "Definition: designating or involving an equation whose terms are not of the first degree", ""]}
+{"data": ["2022-06-04T01:01:26.726238+00:00", 2880, "Your mother is", "thirty-six", "Pronunciation: /\u02c8\u03b8\u025crti-s\u026aks/", "Definition: being six more than thirty", "Synonyms: 36, xxxvi"]}
