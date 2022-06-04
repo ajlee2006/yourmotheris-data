@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T21:00:42.692291+00:00", 2900, "Your mother is", "purple-brown", "Pronunciation: /\u02c8p\u025crp\u0259l-bra\u028an/", "Definition: of brown tinged with purple", "Synonyms: purplish-brown"]}
+{"data": ["2022-06-04T22:00:44.421063+00:00", 2901, "Your mother is", "refreshed", "Pronunciation: /ri\u02c8fr\u025b\u0283t/", "Definition: with restored energy", "Synonyms: fresh, invigorated, reinvigorated"]}
