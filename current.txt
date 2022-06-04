@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T05:00:19.126288+00:00", 2884, "Your mother is", "semi-processed", "Similar to: processed", "Definition: having been subjected to partial processing", ""]}
+{"data": ["2022-06-04T06:01:49.648041+00:00", 2885, "Your mother is", "peripheral", "Pronunciation: /p\u0259\u02c8r\u026af\u0259r\u0259l/", "Definition: on or near an edge or constituting an outer boundary; the outer area", ""]}
