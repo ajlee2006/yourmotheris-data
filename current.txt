@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T01:01:26.726238+00:00", 2880, "Your mother is", "thirty-six", "Pronunciation: /\u02c8\u03b8\u025crti-s\u026aks/", "Definition: being six more than thirty", "Synonyms: 36, xxxvi"]}
+{"data": ["2022-06-04T02:01:19.420877+00:00", 2881, "Your mother is", "rwandan", "Pronunciation: /r\u028cw\u02c8\u0251nd\u028cn/", "Definition: of or pertaining to Rwanda", "Synonyms: ruandan"]}
