@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T20:01:17.530649+00:00", 2923, "Your mother is", "coinciding", "Pronunciation: /\u02ccko\u028a\u028cn\u02c8sa\u026ad\u026a\u014b/", "Definition: occurring or operating at the same time", "Synonyms: co-occurrent, coincident, coincidental, concurrent, cooccurring, simultaneous"]}
+{"data": ["2022-06-05T21:00:40.997501+00:00", 2924, "Your mother is", "buttony", "Pronunciation: /\u02c8b\u0259t\u0259ni/", "Definition: small and round and shiny like a shiny bead or button", "Synonyms: beadlike, beady, buttonlike"]}
