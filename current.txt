@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T02:01:19.808628+00:00", 2905, "Your mother is", "wine-red", "Similar to: chromatic", "Definition: of something having the dark red color of red wine", ""]}
+{"data": ["2022-06-05T03:00:52.995584+00:00", 2906, "Your mother is", "uncleared", "Similar to: unimproved", "Definition: not cleared; not rid of objects or obstructions", ""]}
