@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T12:00:51.941564+00:00", 2915, "Your mother is", "pocket-size", "Pronunciation: /\u02c8p\u0251k\u026at-sa\u026az/", "Definition: small enough to be carried in a garment pocket", "Synonyms: pocket-sized, pocketable"]}
+{"data": ["2022-06-05T13:00:46.026584+00:00", 2916, "Your mother is", "licit", "Pronunciation: /\u02c8l\u026as\u026at/", "Definition: authorized, sanctioned by, or in accordance with law", "Synonyms: lawful, legitimate"]}
