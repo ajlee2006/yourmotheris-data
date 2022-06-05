@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T13:00:46.026584+00:00", 2916, "Your mother is", "licit", "Pronunciation: /\u02c8l\u026as\u026at/", "Definition: authorized, sanctioned by, or in accordance with law", "Synonyms: lawful, legitimate"]}
+{"data": ["2022-06-05T14:01:30.221889+00:00", 2917, "Your mother is", "thenal", "", "Definition: of or relating to the palm of the hand or to the area at the base of the thumb", "Synonyms: thenar"]}
