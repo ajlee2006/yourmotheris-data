@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T11:00:35.090896+00:00", 2914, "Your mother is", "compartmented", "Similar to: compartmental", "Definition: divided up or separated into compartments or isolated units", ""]}
+{"data": ["2022-06-05T12:00:51.941564+00:00", 2915, "Your mother is", "pocket-size", "Pronunciation: /\u02c8p\u0251k\u026at-sa\u026az/", "Definition: small enough to be carried in a garment pocket", "Synonyms: pocket-sized, pocketable"]}
