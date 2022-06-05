@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T17:00:31.832523+00:00", 2920, "Your mother is", "tethered", "Pronunciation: /\u02c8t\u025b\u00f0\u025drd/", "Definition: confined or restricted with or as if with a rope or chain", ""]}
+{"data": ["2022-06-05T18:00:26.195169+00:00", 2921, "Your mother is", "rough-and-ready", "Pronunciation: /\u02c8r\u0259f-\u0259n-\u02c8r\u025bdi/", "Definition: crude but effective for the purpose at hand", ""]}
