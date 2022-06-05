@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T04:00:51.354659+00:00", 2907, "Your mother is", "operative", "Pronunciation: /\u02c8\u0251p\u0259\u02ccre\u026at\u026av/", "Definition: relating to or requiring or amenable to treatment by surgery especially as opposed to medicine", "Synonyms: surgical"]}
+{"data": ["2022-06-05T05:00:48.286246+00:00", 2908, "Your mother is", "gi", "Pronunciation: /\u02c8d\u0292i\u02c8a\u026a/", "Definition: of or relating to the stomach and intestines", "Synonyms: gastrointestinal"]}
