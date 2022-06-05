@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T21:00:40.997501+00:00", 2924, "Your mother is", "buttony", "Pronunciation: /\u02c8b\u0259t\u0259ni/", "Definition: small and round and shiny like a shiny bead or button", "Synonyms: beadlike, beady, buttonlike"]}
+{"data": ["2022-06-05T22:01:19.758659+00:00", 2925, "Your mother is", "top-heavy", "Pronunciation: /t\u0251p-\u02c8h\u025bvi/", "Definition: unstable by being overloaded at the top", ""]}
