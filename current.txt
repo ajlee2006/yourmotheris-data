@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T22:01:19.758659+00:00", 2925, "Your mother is", "top-heavy", "Pronunciation: /t\u0251p-\u02c8h\u025bvi/", "Definition: unstable by being overloaded at the top", ""]}
+{"data": ["2022-06-05T23:01:30.344624+00:00", 2926, "Your mother is", "aforementioned", "Pronunciation: /\u0259\u02c8fo\u028ar\u02ccm\u025bn\u0283\u0259nd/", "Definition: being the one previously mentioned or spoken of", "Synonyms: aforesaid, said"]}
