@@ -1,1 +1,1 @@
-{"data": ["2022-06-04T23:00:41.659995+00:00", 2902, "Your mother is", "complicated", "Pronunciation: /\u02c8k\u0251mpl\u0259\u02ccke\u026at\u026ad/", "Definition: difficult to analyze or understand", "Synonyms: complex"]}
+{"data": ["2022-06-05T00:01:19.114194+00:00", 2903, "Your mother is", "dry-eyed", "Pronunciation: /dra\u026a-a\u026ad/", "Definition: free from tears", "Synonyms: tearless"]}
