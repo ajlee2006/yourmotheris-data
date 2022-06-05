@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T18:00:26.195169+00:00", 2921, "Your mother is", "rough-and-ready", "Pronunciation: /\u02c8r\u0259f-\u0259n-\u02c8r\u025bdi/", "Definition: crude but effective for the purpose at hand", ""]}
+{"data": ["2022-06-05T19:00:36.803111+00:00", 2922, "Your mother is", "knackered", "Similar to: tired", "Definition: very tired", "Synonyms: drained"]}
