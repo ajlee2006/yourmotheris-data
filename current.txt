@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T10:00:50.153486+00:00", 2913, "Your mother is", "agrobiologic", "Pronunciation: /\u02cc\u00e6gro\u028a\u02ccba\u026a\u0259\u02c8l\u0251d\u0292\u026ak/", "Definition: of or pertaining to agrobiology", "Synonyms: agrobiological"]}
+{"data": ["2022-06-05T11:00:35.090896+00:00", 2914, "Your mother is", "compartmented", "Similar to: compartmental", "Definition: divided up or separated into compartments or isolated units", ""]}
