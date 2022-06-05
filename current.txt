@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T07:00:53.592359+00:00", 2910, "Your mother is", "souffle-like", "Similar to: cooked", "Definition: resembling a souffle", ""]}
+{"data": ["2022-06-05T08:00:42.559972+00:00", 2911, "Your mother is", "sudsy", "", "Definition: resembling lather or covered with lather", "Synonyms: lathery"]}
