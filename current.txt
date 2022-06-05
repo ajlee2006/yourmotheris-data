@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T09:01:13.243516+00:00", 2912, "Your mother is", "stout-stemmed", "Similar to: caulescent", "Definition: having a stout stem", ""]}
+{"data": ["2022-06-05T10:00:50.153486+00:00", 2913, "Your mother is", "agrobiologic", "Pronunciation: /\u02cc\u00e6gro\u028a\u02ccba\u026a\u0259\u02c8l\u0251d\u0292\u026ak/", "Definition: of or pertaining to agrobiology", "Synonyms: agrobiological"]}
