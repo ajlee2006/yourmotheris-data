@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T19:00:36.803111+00:00", 2922, "Your mother is", "knackered", "Similar to: tired", "Definition: very tired", "Synonyms: drained"]}
+{"data": ["2022-06-05T20:01:17.530649+00:00", 2923, "Your mother is", "coinciding", "Pronunciation: /\u02ccko\u028a\u028cn\u02c8sa\u026ad\u026a\u014b/", "Definition: occurring or operating at the same time", "Synonyms: co-occurrent, coincident, coincidental, concurrent, cooccurring, simultaneous"]}
