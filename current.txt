@@ -1,1 +1,1 @@
-{"data": ["2022-06-06T06:01:05.708164+00:00", 2933, "Your mother is", "conscientious", "Pronunciation: /\u02cck\u0251n\u0283i\u02c8\u025bn\u0283\u0259s/", "Definition: characterized by extreme care and great effort", "Synonyms: painstaking, scrupulous"]}
+{"data": ["2022-06-06T07:00:52.551442+00:00", 2934, "Your mother is", "common-law", "Pronunciation: /\u02c8k\u0251m\u0259n-l\u0254/", "Definition: based on common law", ""]}
