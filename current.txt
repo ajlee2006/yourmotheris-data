@@ -1,1 +1,1 @@
-{"data": ["2022-06-06T04:00:38.373237+00:00", 2931, "Your mother is", "cosmetic", "Pronunciation: /k\u0251z\u02c8m\u025bt\u026ak/", "Definition: serving an esthetic rather than a useful purpose", "Synonyms: decorative, ornamental"]}
+{"data": ["2022-06-06T05:00:59.628674+00:00", 2932, "Your mother is", "insufferable", "Pronunciation: /\u026an\u02c8s\u0259f\u0259r\u0259b\u0259l/", "Definition: too extreme to bear", "Synonyms: unsufferable"]}
