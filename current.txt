@@ -1,1 +1,1 @@
-{"data": ["2022-06-06T15:01:20.622008+00:00", 2942, "Your mother is", "shattering", "Pronunciation: /\u02c8\u0283\u00e6t\u025dr\u026a\u014b/", "Definition: seemingly loud enough to break something; violently rattling or clattering", ""]}
+{"data": ["2022-06-06T16:00:52.727014+00:00", 2943, "Your mother is", "makeshift", "Pronunciation: /\u02c8me\u026ak\u02cc\u0283\u026aft/", "Definition: done or made using whatever is available", "Synonyms: improvised, jury-rigged"]}
