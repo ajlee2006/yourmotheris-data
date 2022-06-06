@@ -1,1 +1,1 @@
-{"data": ["2022-06-05T23:01:30.344624+00:00", 2926, "Your mother is", "aforementioned", "Pronunciation: /\u0259\u02c8fo\u028ar\u02ccm\u025bn\u0283\u0259nd/", "Definition: being the one previously mentioned or spoken of", "Synonyms: aforesaid, said"]}
+{"data": ["2022-06-06T00:01:26.408163+00:00", 2927, "Your mother is", "15th", "Similar to: ordinal", "Definition: coming next after the fourteenth and just before the sixteenth in position", "Synonyms: fifteenth"]}
