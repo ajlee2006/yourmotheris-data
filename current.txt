@@ -1,1 +1,1 @@
-{"data": ["2022-06-06T20:01:12.987144+00:00", 2947, "Your mother is", "transalpine", "Pronunciation: /tr\u00e6ns\u02c8\u00e6lp\u026an/", "Definition: on or relating to or characteristic of the region or peoples beyond the Alps from Italy (or north of the Alps)", "Synonyms: ultramontane"]}
+{"data": ["2022-06-06T21:01:01.262131+00:00", 2948, "Your mother is", "fig-shaped", "Pronunciation: /f\u026ag-\u0283e\u026apt/", "Definition: shaped in the form of a fig", ""]}
