@@ -1,1 +1,1 @@
-{"data": ["2022-06-06T07:00:52.551442+00:00", 2934, "Your mother is", "common-law", "Pronunciation: /\u02c8k\u0251m\u0259n-l\u0254/", "Definition: based on common law", ""]}
+{"data": ["2022-06-06T08:01:17.622399+00:00", 2935, "Your mother is", "injectable", "Pronunciation: /\u026an\u02c8d\u0292\u025bkt\u028cb\u028cl/", "Definition: (used of drugs) capable of being injected", ""]}
