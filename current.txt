@@ -1,1 +1,1 @@
-{"data": ["2022-06-06T14:01:31.522776+00:00", 2941, "Your mother is", "pasteurized", "Pronunciation: /\u02c8p\u00e6st\u0283\u025dr\u02cca\u026azd/", "Definition: having been subjected to pasteurization in order to halt fermentation", "Synonyms: pasteurised"]}
+{"data": ["2022-06-06T15:01:20.622008+00:00", 2942, "Your mother is", "shattering", "Pronunciation: /\u02c8\u0283\u00e6t\u025dr\u026a\u014b/", "Definition: seemingly loud enough to break something; violently rattling or clattering", ""]}
