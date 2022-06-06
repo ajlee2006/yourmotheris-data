@@ -1,1 +1,1 @@
-{"data": ["2022-06-06T13:00:40.317797+00:00", 2940, "Your mother is", "22", "Similar to: cardinal", "Definition: being two more than twenty", "Synonyms: twenty-two, xxii"]}
+{"data": ["2022-06-06T14:01:31.522776+00:00", 2941, "Your mother is", "pasteurized", "Pronunciation: /\u02c8p\u00e6st\u0283\u025dr\u02cca\u026azd/", "Definition: having been subjected to pasteurization in order to halt fermentation", "Synonyms: pasteurised"]}
