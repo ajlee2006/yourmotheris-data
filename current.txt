@@ -1,1 +1,1 @@
-{"data": ["2022-06-06T03:00:48.094073+00:00", 2930, "Your mother is", "dishonored", "Pronunciation: /d\u026as\u02c8\u0251n\u025drd/", "Definition: suffering shame", "Synonyms: discredited, disgraced, shamed"]}
+{"data": ["2022-06-06T04:00:38.373237+00:00", 2931, "Your mother is", "cosmetic", "Pronunciation: /k\u0251z\u02c8m\u025bt\u026ak/", "Definition: serving an esthetic rather than a useful purpose", "Synonyms: decorative, ornamental"]}
