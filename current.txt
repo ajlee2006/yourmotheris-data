@@ -1,1 +1,1 @@
-{"data": ["2022-06-06T21:01:01.262131+00:00", 2948, "Your mother is", "fig-shaped", "Pronunciation: /f\u026ag-\u0283e\u026apt/", "Definition: shaped in the form of a fig", ""]}
+{"data": ["2022-06-06T22:00:15.883589+00:00", 2949, "Your mother is", "aculeated", "", "Definition: having or resembling a stinger or barb", "Synonyms: aculeate"]}
