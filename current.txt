@@ -1,1 +1,1 @@
-{"data": ["2022-06-06T18:01:27.783929+00:00", 2945, "Your mother is", "achlamydeous", "Pronunciation: /\u02cc\u00e6kl\u0259\u02c8m\u026adi\u0259s/", "Definition: not having a floral envelope or perianth", ""]}
+{"data": ["2022-06-06T19:00:46.154719+00:00", 2946, "Your mother is", "branchless", "Similar to: palmlike", "Definition: having no branches", ""]}
