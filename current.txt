@@ -1,1 +1,1 @@
-{"data": ["2022-06-06T00:01:26.408163+00:00", 2927, "Your mother is", "15th", "Similar to: ordinal", "Definition: coming next after the fourteenth and just before the sixteenth in position", "Synonyms: fifteenth"]}
+{"data": ["2022-06-06T01:01:15.081423+00:00", 2928, "Your mother is", "26", "Similar to: cardinal", "Definition: being six more than twenty", "Synonyms: twenty-six, xxvi"]}
