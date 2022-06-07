@@ -1,1 +1,1 @@
-{"data": ["2022-06-07T05:00:59.180285+00:00", 2956, "Your mother is", "half-blooded", "Pronunciation: /h\u00e6f-\u02c8bl\u0259d\u026ad/", "Definition: (of animals) having only one purebred parent", "Synonyms: half-bred, half-breed"]}
+{"data": ["2022-06-07T06:01:35.553900+00:00", 2957, "Your mother is", "slaveholding", "Similar to: unfree", "Definition: allowing slavery", ""]}
