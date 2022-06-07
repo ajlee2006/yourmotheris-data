@@ -1,1 +1,1 @@
-{"data": ["2022-06-07T20:00:41.417301+00:00", 2971, "Your mother is", "two-ply", "Pronunciation: /tu-pla\u026a/", "Definition: having a thickness made up of two layers or strands", ""]}
+{"data": ["2022-06-07T21:01:03.250406+00:00", 2972, "Your mother is", "rooted", "Pronunciation: /\u02c8rut\u028cd/", "Definition: absolutely still", "Synonyms: frozen, stock-still"]}
