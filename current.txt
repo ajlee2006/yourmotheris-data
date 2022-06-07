@@ -1,1 +1,1 @@
-{"data": ["2022-06-07T06:01:35.553900+00:00", 2957, "Your mother is", "slaveholding", "Similar to: unfree", "Definition: allowing slavery", ""]}
+{"data": ["2022-06-07T07:01:26.116645+00:00", 2958, "Your mother is", "noninheritable", "Similar to: acquired", "Definition: not inheritable", "Synonyms: nonheritable"]}
