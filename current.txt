@@ -1,1 +1,1 @@
-{"data": ["2022-06-07T04:01:07.298724+00:00", 2955, "Your mother is", "hundred-and-seventieth", "Similar to: ordinal", "Definition: the ordinal number of one hundred seventy in counting order", "Synonyms: 170th"]}
+{"data": ["2022-06-07T05:00:59.180285+00:00", 2956, "Your mother is", "half-blooded", "Pronunciation: /h\u00e6f-\u02c8bl\u0259d\u026ad/", "Definition: (of animals) having only one purebred parent", "Synonyms: half-bred, half-breed"]}
