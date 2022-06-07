@@ -1,1 +1,1 @@
-{"data": ["2022-06-07T00:01:48.933678+00:00", 2951, "Your mother is", "flat-footed", "Pronunciation: /fl\u00e6t-\u02c8f\u028at\u026ad/", "Definition: having broad flat feet that usually turn outward", "Synonyms: flatfooted"]}
+{"data": ["2022-06-07T01:01:30.891742+00:00", 2952, "Your mother is", "sprawling", "Pronunciation: /\u02c8spr\u0254l\u026a\u014b/", "Definition: spreading out in different directions or distributed irregularly", "Synonyms: rambling, straggling, straggly"]}
