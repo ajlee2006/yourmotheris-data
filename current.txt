@@ -1,1 +1,1 @@
-{"data": ["2022-06-07T14:00:13.426426+00:00", 2965, "Your mother is", "unoccupied", "Pronunciation: /\u0259n\u02c8\u0251kj\u0259\u02ccpa\u026ad/", "Definition: not leased to or occupied by a tenant", "Synonyms: untenanted"]}
+{"data": ["2022-06-07T15:00:37.837761+00:00", 2966, "Your mother is", "sericeous", "Pronunciation: /s\u026a\u02c8r\u026a\u0283\u0259s/", "Definition: covered with fine soft hairs or down", "Synonyms: downy, puberulent, pubescent"]}
