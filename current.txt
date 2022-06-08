@@ -1,1 +1,1 @@
-{"data": ["2022-06-08T01:01:09.399369+00:00", 2976, "Your mother is", "askant", "Pronunciation: /\u0259\u02c8sk\u00e6nt/", "Definition: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy", "Synonyms: askance, asquint, sidelong, squint, squint-eyed, squinty"]}
+{"data": ["2022-06-08T02:01:35.444432+00:00", 2977, "Your mother is", "gallic", "Pronunciation: /\u02c8\u0261\u00e6l\u026ak/", "Definition: of or pertaining to France or the people of France", "Synonyms: french"]}
