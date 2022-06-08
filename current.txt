@@ -1,1 +1,1 @@
-{"data": ["2022-06-08T04:01:00.638785+00:00", 2979, "Your mother is", "ischaemic", "Pronunciation: /\u026a\u02c8skim\u026ak/", "Definition: relating to or affected by ischemia", "Synonyms: ischemic"]}
+{"data": ["2022-06-08T05:01:11.757037+00:00", 2980, "Your mother is", "exegetic", "Pronunciation: /\u02cc\u025bks\u026a\u02c8d\u0292\u025bt\u026ak/", "Definition: relating to exegesis", "Synonyms: exegetical"]}
