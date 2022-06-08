@@ -1,1 +1,1 @@
-{"data": ["2022-06-08T08:01:00.223771+00:00", 2983, "Your mother is", "menial", "Pronunciation: /\u02c8mini\u0259l/", "Definition: used of unskilled work (especially domestic work)", "Synonyms: humble, lowly"]}
+{"data": ["2022-06-08T09:00:24.527378+00:00", 2984, "Your mother is", "thermodynamical", "", "Definition: of or concerned with thermodynamics", "Synonyms: thermodynamic"]}
