@@ -1,1 +1,1 @@
-{"data": ["2022-06-08T09:00:24.527378+00:00", 2984, "Your mother is", "thermodynamical", "", "Definition: of or concerned with thermodynamics", "Synonyms: thermodynamic"]}
+{"data": ["2022-06-08T10:00:30.253359+00:00", 2985, "Your mother is", "unsmiling", "Pronunciation: /\u028cn\u02c8sma\u026al\u026a\u014b/", "Definition: not smiling", ""]}
