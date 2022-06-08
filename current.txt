@@ -1,1 +1,1 @@
-{"data": ["2022-06-08T21:01:10.560303+00:00", 2996, "Your mother is", "unprotected", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8t\u025bkt\u026ad/", "Definition: lacking protection or defense", ""]}
+{"data": ["2022-06-08T22:00:24.975649+00:00", 2997, "Your mother is", "pustulate", "Pronunciation: /\u02c8p\u0259s\u02a7\u0259l\u026at/", "Definition: (of complexion) blemished by imperfections of the skin", "Synonyms: acned, pimpled, pimply"]}
