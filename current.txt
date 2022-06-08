@@ -1,1 +1,1 @@
-{"data": ["2022-06-08T02:01:35.444432+00:00", 2977, "Your mother is", "gallic", "Pronunciation: /\u02c8\u0261\u00e6l\u026ak/", "Definition: of or pertaining to France or the people of France", "Synonyms: french"]}
+{"data": ["2022-06-08T03:01:35.845644+00:00", 2978, "Your mother is", "androgenous", "", "Definition: of or related to androgenesis", "Synonyms: androgenetic"]}
