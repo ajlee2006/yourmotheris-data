@@ -1,1 +1,1 @@
-{"data": ["2022-06-08T07:00:36.707320+00:00", 2982, "Your mother is", "silvery", "Pronunciation: /\u02c8s\u026alv\u0259ri/", "Definition: resembling or reminiscent of silver", "Synonyms: silvern"]}
+{"data": ["2022-06-08T08:01:00.223771+00:00", 2983, "Your mother is", "menial", "Pronunciation: /\u02c8mini\u0259l/", "Definition: used of unskilled work (especially domestic work)", "Synonyms: humble, lowly"]}
