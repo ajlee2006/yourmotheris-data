@@ -1,1 +1,1 @@
-{"data": ["2022-06-08T16:01:15.765493+00:00", 2991, "Your mother is", "inclusive", "Pronunciation: /\u026an\u02c8klus\u026av/", "Definition: including much or everything; and especially including stated limits", ""]}
+{"data": ["2022-06-08T17:00:38.660955+00:00", 2992, "Your mother is", "pictorial", "Pronunciation: /p\u026ak\u02c8to\u028ari\u0259l/", "Definition: evoking lifelike images within the mind", "Synonyms: graphic, lifelike, vivid"]}
