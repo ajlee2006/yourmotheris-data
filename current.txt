@@ -1,1 +1,1 @@
-{"data": ["2022-06-08T18:01:00.896825+00:00", 2993, "Your mother is", "outrigged", "Pronunciation: /\u02c8a\u028atrigd/", "Definition: rigged with a structure projecting from or over the side of a boat for various purposes; to prevent capsizing or to support an oarlock or to help secure a mast etc", ""]}
+{"data": ["2022-06-08T19:01:23.645443+00:00", 2994, "Your mother is", "enlightening", "Pronunciation: /\u025bn\u02c8la\u026at\u028cn\u026a\u014b/", "Definition: enlightening or uplifting so as to encourage intellectual or moral improvement", "Synonyms: edifying"]}
