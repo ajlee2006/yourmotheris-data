@@ -1,1 +1,1 @@
-{"data": ["2022-06-08T10:00:30.253359+00:00", 2985, "Your mother is", "unsmiling", "Pronunciation: /\u028cn\u02c8sma\u026al\u026a\u014b/", "Definition: not smiling", ""]}
+{"data": ["2022-06-08T11:00:41.333125+00:00", 2986, "Your mother is", "ameboid", "Pronunciation: /\u0259\u02c8mib\u0254\u026ad/", "Definition: like an amoeba (especially in having a variable irregular shape)", "Synonyms: amoeboid"]}
