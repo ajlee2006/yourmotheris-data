@@ -1,1 +1,1 @@
-{"data": ["2022-06-09T08:01:42.429737+00:00", 3007, "Your mother is", "thirteen", "Pronunciation: /\u03b8\u025cr-\u02c8tin/", "Definition: being one more than twelve", "Synonyms: 13, xiii"]}
+{"data": ["2022-06-09T09:01:35.089344+00:00", 3008, "Your mother is", "hazel-brown", "Similar to: chromatic", "Definition: of brown tinged with hazel", ""]}
