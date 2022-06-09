@@ -1,1 +1,1 @@
-{"data": ["2022-06-09T06:00:18.706689+00:00", 3005, "Your mother is", "corded", "Pronunciation: /\u02c8k\u0254rd\u026ad/", "Definition: of textiles; having parallel raised lines", "Synonyms: twilled"]}
+{"data": ["2022-06-09T07:01:14.797544+00:00", 3006, "Your mother is", "unpleasant", "Pronunciation: /\u0259n\u02c8pl\u025bz\u0259nt/", "Definition: offensive or disagreeable; causing discomfort or unhappiness", ""]}
