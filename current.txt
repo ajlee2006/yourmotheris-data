@@ -1,1 +1,1 @@
-{"data": ["2022-06-09T22:01:01.856008+00:00", 3021, "Your mother is", "confutative", "Pronunciation: /k\u0259n\u02c8fjut\u0259t\u026av/", "Definition: able to be refuted", "Synonyms: confutable, questionable, refutable"]}
+{"data": ["2022-06-09T23:00:34.590571+00:00", 3022, "Your mother is", "mighty", "Pronunciation: /\u02c8ma\u026ati/", "Definition: having or showing great strength or force or intensity", ""]}
