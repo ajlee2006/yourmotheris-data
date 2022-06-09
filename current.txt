@@ -1,1 +1,1 @@
-{"data": ["2022-06-09T21:01:27.438523+00:00", 3020, "Your mother is", "gravelly", "Pronunciation: /\u02c8gr\u00e6v\u0259lli/", "Definition: abounding in small stones", "Synonyms: pebbly, shingly"]}
+{"data": ["2022-06-09T22:01:01.856008+00:00", 3021, "Your mother is", "confutative", "Pronunciation: /k\u0259n\u02c8fjut\u0259t\u026av/", "Definition: able to be refuted", "Synonyms: confutable, questionable, refutable"]}
