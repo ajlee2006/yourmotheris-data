@@ -1,1 +1,1 @@
-{"data": ["2022-06-09T19:01:19.827208+00:00", 3018, "Your mother is", "strong-scented", "Similar to: odorous", "Definition: having a strong odor", "Synonyms: strong-smelling"]}
+{"data": ["2022-06-09T20:01:17.046741+00:00", 3019, "Your mother is", "urbanised", "Similar to: urban", "Definition: made urban in nature; taking on urban characteristics", "Synonyms: urbanized"]}
