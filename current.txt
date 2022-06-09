@@ -1,1 +1,1 @@
-{"data": ["2022-06-09T02:01:40.842205+00:00", 3001, "Your mother is", "soft on", "Similar to: loving", "Definition: marked by foolish or unreasoning fondness", "Synonyms: enamored, in love, infatuated, potty, smitten, taken with"]}
+{"data": ["2022-06-09T03:01:22.773801+00:00", 3002, "Your mother is", "demon-ridden", "Similar to: passionate", "Definition: as if possessed by demons", ""]}
