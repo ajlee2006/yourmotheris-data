@@ -1,1 +1,1 @@
-{"data": ["2022-06-09T00:01:16.658133+00:00", 2999, "Your mother is", "airtight", "Pronunciation: /\u02c8\u025cr\u02ccta\u026at/", "Definition: having no weak points", "Synonyms: air-tight"]}
+{"data": ["2022-06-09T01:01:31.899892+00:00", 3000, "Your mother is", "composed", "Pronunciation: /k\u0259m\u02c8po\u028azd/", "Definition: serenely self-possessed and free from agitation especially in times of stress", ""]}
