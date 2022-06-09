@@ -1,1 +1,1 @@
-{"data": ["2022-06-09T12:00:55.661022+00:00", 3011, "Your mother is", "flagitious", "Pronunciation: /fl\u0259\u02c8d\u0292\u026a\u0283\u0259s/", "Definition: shockingly brutal or cruel", "Synonyms: atrocious, grievous, monstrous"]}
+{"data": ["2022-06-09T13:00:59.424708+00:00", 3012, "Your mother is", "algebraic", "Pronunciation: /\u02cc\u00e6ld\u0292\u0259\u02c8bre\u026a\u026ak/", "Definition: of or relating to algebra", "Synonyms: algebraical"]}
