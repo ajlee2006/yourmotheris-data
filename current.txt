@@ -1,1 +1,1 @@
-{"data": ["2022-06-09T15:01:21.805712+00:00", 3014, "Your mother is", "unauthorized", "Pronunciation: /\u028cn\u02c8\u0254\u03b8\u025dr\u02cca\u026azd/", "Definition: without official authorization", "Synonyms: unauthorised, wildcat"]}
+{"data": ["2022-06-09T16:00:59.180201+00:00", 3015, "Your mother is", "exterritorial", "Pronunciation: /\u02cc\u025bkst\u025br\u026a\u02c8to\u028ari\u0259l/", "Definition: outside territorial limits or jurisdiction", "Synonyms: extraterritorial"]}
