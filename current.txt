@@ -1,1 +1,1 @@
-{"data": ["2022-06-09T13:00:59.424708+00:00", 3012, "Your mother is", "algebraic", "Pronunciation: /\u02cc\u00e6ld\u0292\u0259\u02c8bre\u026a\u026ak/", "Definition: of or relating to algebra", "Synonyms: algebraical"]}
+{"data": ["2022-06-09T14:00:20.622340+00:00", 3013, "Your mother is", "counter", "Pronunciation: /\u02c8ka\u028ant\u0259r/", "Definition: indicating opposition or resistance", "Synonyms: antagonistic"]}
