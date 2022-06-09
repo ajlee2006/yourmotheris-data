@@ -1,1 +1,1 @@
-{"data": ["2022-06-09T04:01:15.340179+00:00", 3003, "Your mother is", "candy-scented", "Similar to: odorous", "Definition: smelling of candy", ""]}
+{"data": ["2022-06-09T05:00:59.424463+00:00", 3004, "Your mother is", "practical", "Pronunciation: /\u02c8pr\u00e6kt\u026ak\u0259l/", "Definition: guided by practical experience and observation rather than theory", "Synonyms: hard-nosed, hardheaded, pragmatic"]}
