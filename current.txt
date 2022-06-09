@@ -1,1 +1,1 @@
-{"data": ["2022-06-08T23:01:32.828366+00:00", 2998, "Your mother is", "meticulous", "Pronunciation: /m\u0259\u02c8t\u026akj\u0259l\u0259s/", "Definition: marked by precise accordance with details", "Synonyms: punctilious"]}
+{"data": ["2022-06-09T00:01:16.658133+00:00", 2999, "Your mother is", "airtight", "Pronunciation: /\u02c8\u025cr\u02ccta\u026at/", "Definition: having no weak points", "Synonyms: air-tight"]}
