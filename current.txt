@@ -1,1 +1,1 @@
-{"data": ["2022-06-10T06:00:56.915517+00:00", 3028, "Your mother is", "addled", "Pronunciation: /\u02c8\u00e6d\u0259ld/", "Definition: confused and vague; used especially of thinking", "Synonyms: befuddled, muddled, muzzy, woolly, woolly-headed, wooly, wooly-minded"]}
+{"data": ["2022-06-10T07:00:57.272972+00:00", 3029, "Your mother is", "effulgent", "Pronunciation: /\u026a\u02c8f\u0259ld\u0292\u0259nt/", "Definition: radiating or as if radiating light", "Synonyms: beaming, beamy, radiant, refulgent"]}
