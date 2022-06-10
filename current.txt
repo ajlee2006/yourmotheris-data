@@ -1,1 +1,1 @@
-{"data": ["2022-06-10T14:01:29.038568+00:00", 3036, "Your mother is", "imperfectible", "Pronunciation: /\u02cc\u026amp\u0259r\u02c8f\u025bkt\u0259b\u0259l/", "Definition: capable of being made imperfect", ""]}
+{"data": ["2022-06-10T15:00:17.889063+00:00", 3037, "Your mother is", "chained", "Pronunciation: /t\u0283e\u026and/", "Definition: bound with chains", "Synonyms: enchained"]}
