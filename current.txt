@@ -1,1 +1,1 @@
-{"data": ["2022-06-10T02:00:50.969121+00:00", 3025, "Your mother is", "jerky", "Pronunciation: /\u02c8d\u0292\u025crki/", "Definition: having or revealing stupidity", "Synonyms: anserine, dopey, dopy, foolish, gooselike, goosey, goosy"]}
+{"data": ["2022-06-10T03:18:34.406750+00:00", 3026, "Your mother is", "neglectful", "Pronunciation: /n\u026a\u02c8gl\u025bktf\u0259l/", "Definition: failing in what duty requires", "Synonyms: delinquent, derelict, remiss"]}
