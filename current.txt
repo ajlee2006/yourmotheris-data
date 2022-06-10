@@ -1,1 +1,1 @@
-{"data": ["2022-06-10T20:01:12.377369+00:00", 3042, "Your mother is", "bloodcurdling", "Pronunciation: /\u02c8bl\u0259d\u02cck\u025crdl\u026a\u014b/", "Definition: extremely alarming", "Synonyms: hair-raising, nightmarish"]}
+{"data": ["2022-06-10T21:00:32.636487+00:00", 3043, "Your mother is", "organismic", "Pronunciation: /\u02cc\u0254r\u0261\u028c\u02c8n\u026azm\u026ak/", "Definition: of or relating to or belonging to an organism (considered as a whole)", "Synonyms: organismal"]}
