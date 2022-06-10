@@ -1,1 +1,1 @@
-{"data": ["2022-06-10T21:00:32.636487+00:00", 3043, "Your mother is", "organismic", "Pronunciation: /\u02cc\u0254r\u0261\u028c\u02c8n\u026azm\u026ak/", "Definition: of or relating to or belonging to an organism (considered as a whole)", "Synonyms: organismal"]}
+{"data": ["2022-06-10T22:00:36.018327+00:00", 3044, "Your mother is", "mediated", "Pronunciation: /\u02c8midi\u02cce\u026at\u026ad/", "Definition: acting or brought about through an intervening agency", ""]}
