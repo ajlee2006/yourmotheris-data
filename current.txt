@@ -1,1 +1,1 @@
-{"data": ["2022-06-10T13:01:28.171499+00:00", 3035, "Your mother is", "gimcrack", "Pronunciation: /\u02c8d\u0292\u026am\u02cckr\u00e6k/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, loud, meretricious, tacky, tatty, tawdry, trashy"]}
+{"data": ["2022-06-10T14:01:29.038568+00:00", 3036, "Your mother is", "imperfectible", "Pronunciation: /\u02cc\u026amp\u0259r\u02c8f\u025bkt\u0259b\u0259l/", "Definition: capable of being made imperfect", ""]}
