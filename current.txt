@@ -1,1 +1,1 @@
-{"data": ["2022-06-10T18:00:33.960622+00:00", 3040, "Your mother is", "corned", "Pronunciation: /k\u0254rnd/", "Definition: (used especially of meat) cured in brine", "Synonyms: cured"]}
+{"data": ["2022-06-10T19:01:26.853199+00:00", 3041, "Your mother is", "connective", "Pronunciation: /k\u0259\u02c8n\u025bkt\u026av/", "Definition: connecting or tending to connect", ""]}
