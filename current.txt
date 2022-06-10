@@ -1,1 +1,1 @@
-{"data": ["2022-06-10T08:00:38.367342+00:00", 3030, "Your mother is", "amphiprotic", "", "Definition: having characteristics of both an acid and a base and capable of reacting as either", "Synonyms: amphoteric"]}
+{"data": ["2022-06-10T09:01:32.027116+00:00", 3031, "Your mother is", "nebulous", "Pronunciation: /\u02c8n\u025bbj\u0259l\u0259s/", "Definition: of or relating to or resembling a nebula", "Synonyms: nebular"]}
