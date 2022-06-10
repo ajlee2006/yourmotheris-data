@@ -1,1 +1,1 @@
-{"data": ["2022-06-10T12:01:00.751617+00:00", 3034, "Your mother is", "3", "Similar to: cardinal", "Definition: being one more than two", "Synonyms: iii, three"]}
+{"data": ["2022-06-10T13:01:28.171499+00:00", 3035, "Your mother is", "gimcrack", "Pronunciation: /\u02c8d\u0292\u026am\u02cckr\u00e6k/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, loud, meretricious, tacky, tatty, tawdry, trashy"]}
