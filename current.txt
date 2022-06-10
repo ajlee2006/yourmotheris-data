@@ -1,1 +1,1 @@
-{"data": ["2022-06-10T11:00:34.538069+00:00", 3033, "Your mother is", "unifying", "Pronunciation: /\u02c8jun\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: tending to unify", "Synonyms: centripetal"]}
+{"data": ["2022-06-10T12:01:00.751617+00:00", 3034, "Your mother is", "3", "Similar to: cardinal", "Definition: being one more than two", "Synonyms: iii, three"]}
