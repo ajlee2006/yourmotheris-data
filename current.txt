@@ -1,1 +1,1 @@
-{"data": ["2022-06-10T03:18:34.406750+00:00", 3026, "Your mother is", "neglectful", "Pronunciation: /n\u026a\u02c8gl\u025bktf\u0259l/", "Definition: failing in what duty requires", "Synonyms: delinquent, derelict, remiss"]}
+{"data": ["2022-06-10T05:01:35.423093+00:00", 3027, "Your mother is", "recognisable", "Similar to: identifiable", "Definition: capable of being recognized", "Synonyms: placeable, recognizable"]}
