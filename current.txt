@@ -1,1 +1,1 @@
-{"data": ["2022-06-10T00:01:20.909994+00:00", 3023, "Your mother is", "memorable", "Pronunciation: /\u02c8m\u025bm\u0259r\u0259b\u0259l/", "Definition: worth remembering", ""]}
+{"data": ["2022-06-10T01:01:12.446395+00:00", 3024, "Your mother is", "encircling", "Pronunciation: /\u025bn\u02c8s\u025drk\u028cl\u026a\u014b/", "Definition: being all around the edges; enclosing", "Synonyms: skirting"]}
