@@ -1,1 +1,1 @@
-{"data": ["2022-06-10T15:00:17.889063+00:00", 3037, "Your mother is", "chained", "Pronunciation: /t\u0283e\u026and/", "Definition: bound with chains", "Synonyms: enchained"]}
+{"data": ["2022-06-10T16:00:15.370934+00:00", 3038, "Your mother is", "mirthful", "Pronunciation: /\u02c8m\u025cr\u03b8f\u0259l/", "Definition: full of or showing high-spirited merriment", "Synonyms: gay, jocund, jolly, jovial, merry"]}
