@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T07:01:17.645830+00:00", 3053, "Your mother is", "bifurcate", "Pronunciation: /\u02c8ba\u026af\u0259\u02ccke\u026at/", "Definition: resembling a fork; divided or separated into two branches", "Synonyms: biramous, branched, forficate, fork-like, forked, pronged, prongy"]}
+{"data": ["2022-06-11T08:01:32.168433+00:00", 3054, "Your mother is", "darkling", "Pronunciation: /\u02c8d\u0251rkl\u026a\u014b/", "Definition: (poetic) occurring in the dark or night", ""]}
