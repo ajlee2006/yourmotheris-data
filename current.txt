@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T12:01:12.599759+00:00", 3058, "Your mother is", "tonic", "Pronunciation: /\u02c8t\u0251n\u026ak/", "Definition: employing variations in pitch to distinguish meanings of otherwise similar words", "Synonyms: tonal"]}
+{"data": ["2022-06-11T13:01:08.176741+00:00", 3059, "Your mother is", "vast", "Pronunciation: /v\u00e6st/", "Definition: unusually great in size or amount or degree or especially extent or scope", "Synonyms: brobdingnagian, huge, immense"]}
