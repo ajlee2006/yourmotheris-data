@@ -1,1 +1,1 @@
-{"data": ["2022-06-10T23:00:30.163761+00:00", 3045, "Your mother is", "twenty-four", "Pronunciation: /\u02c8tw\u025bnti-\u02c8fo\u028ar/", "Definition: being four more than twenty", "Synonyms: 24, xxiv"]}
+{"data": ["2022-06-11T00:01:39.051449+00:00", 3046, "Your mother is", "upper-middle-class", "Similar to: middle-class", "Definition: occupying the upper part of the middle socioeconomic range in a society", ""]}
