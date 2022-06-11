@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T14:01:22.397326+00:00", 3060, "Your mother is", "classified", "Pronunciation: /\u02c8kl\u00e6s\u0259\u02ccfa\u026ad/", "Definition: arranged into classes", ""]}
+{"data": ["2022-06-11T15:00:56.037841+00:00", 3061, "Your mother is", "discontent", "Pronunciation: /\u02ccd\u026ask\u0259n\u02c8t\u025bnt/", "Definition: showing or experiencing dissatisfaction or restless longing", "Synonyms: discontented"]}
