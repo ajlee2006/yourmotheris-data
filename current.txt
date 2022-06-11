@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T10:00:50.272799+00:00", 3056, "Your mother is", "garbed", "Pronunciation: /\u0261\u0251rbd/", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: appareled, attired, dressed, garmented, habilimented, robed"]}
+{"data": ["2022-06-11T11:01:27.397399+00:00", 3057, "Your mother is", "lingual", "Pronunciation: /\u02c8l\u026a\u014bgw\u0259l/", "Definition: consisting of or related to language", "Synonyms: linguistic"]}
