@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T11:01:27.397399+00:00", 3057, "Your mother is", "lingual", "Pronunciation: /\u02c8l\u026a\u014bgw\u0259l/", "Definition: consisting of or related to language", "Synonyms: linguistic"]}
+{"data": ["2022-06-11T12:01:12.599759+00:00", 3058, "Your mother is", "tonic", "Pronunciation: /\u02c8t\u0251n\u026ak/", "Definition: employing variations in pitch to distinguish meanings of otherwise similar words", "Synonyms: tonal"]}
