@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T02:00:28.837741+00:00", 3048, "Your mother is", "disregarded", "Pronunciation: /\u02ccd\u026asr\u026a\u02c8\u0261\u0251rd\u026ad/", "Definition: not noticed inadvertently", "Synonyms: forgotten"]}
+{"data": ["2022-06-11T03:01:30.575036+00:00", 3049, "Your mother is", "unscripted", "Pronunciation: /\u0259n\u02c8skript\u026ad/", "Definition: not furnished with or using a script", ""]}
