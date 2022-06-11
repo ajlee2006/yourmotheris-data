@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T09:00:13.419353+00:00", 3055, "Your mother is", "roly-poly", "Similar to: fat", "Definition: short and plump", "Synonyms: dumpy, podgy, pudgy, tubby"]}
+{"data": ["2022-06-11T10:00:50.272799+00:00", 3056, "Your mother is", "garbed", "Pronunciation: /\u0261\u0251rbd/", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: appareled, attired, dressed, garmented, habilimented, robed"]}
