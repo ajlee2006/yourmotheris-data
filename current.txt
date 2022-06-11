@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T04:00:49.873749+00:00", 3050, "Your mother is", "yucky", "Pronunciation: /\u02c8j\u028cki/", "Definition: highly offensive; arousing aversion or disgust", "Synonyms: disgustful, disgusting, distasteful, foul, loathly, loathsome, repellant, repellent, repelling, revolting, skanky, wicked"]}
+{"data": ["2022-06-11T05:01:02.214329+00:00", 3051, "Your mother is", "inchoative", "Pronunciation: /\u026an\u02c8ko\u028a\u0259t\u026av/", "Definition: initial", "Synonyms: inceptive"]}
