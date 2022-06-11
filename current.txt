@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T00:01:39.051449+00:00", 3046, "Your mother is", "upper-middle-class", "Similar to: middle-class", "Definition: occupying the upper part of the middle socioeconomic range in a society", ""]}
+{"data": ["2022-06-11T01:01:33.861778+00:00", 3047, "Your mother is", "regressive", "Pronunciation: /r\u026a\u02c8gr\u025bs\u026av/", "Definition: (of taxes) adjusted so that the rate decreases as the amount of income increases", ""]}
