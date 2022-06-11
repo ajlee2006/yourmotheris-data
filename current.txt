@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T18:01:14.436215+00:00", 3064, "Your mother is", "unsatisfactory", "Pronunciation: /\u02cc\u0259ns\u00e6t\u026as\u02c8f\u00e6kt\u0259ri/", "Definition: not giving satisfaction", ""]}
+{"data": ["2022-06-11T19:00:13.785285+00:00", 3065, "Your mother is", "stoppered", "Similar to: closed", "Definition: (of a container) having a stopper in the opening", ""]}
