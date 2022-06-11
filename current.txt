@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T13:01:08.176741+00:00", 3059, "Your mother is", "vast", "Pronunciation: /v\u00e6st/", "Definition: unusually great in size or amount or degree or especially extent or scope", "Synonyms: brobdingnagian, huge, immense"]}
+{"data": ["2022-06-11T14:01:22.397326+00:00", 3060, "Your mother is", "classified", "Pronunciation: /\u02c8kl\u00e6s\u0259\u02ccfa\u026ad/", "Definition: arranged into classes", ""]}
