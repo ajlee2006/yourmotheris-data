@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T05:01:02.214329+00:00", 3051, "Your mother is", "inchoative", "Pronunciation: /\u026an\u02c8ko\u028a\u0259t\u026av/", "Definition: initial", "Synonyms: inceptive"]}
+{"data": ["2022-06-11T06:00:41.697295+00:00", 3052, "Your mother is", "comprehended", "Pronunciation: /\u02cck\u0251mpr\u026a\u02c8h\u025bnd\u026ad/", "Definition: fully understood or grasped", "Synonyms: appreciated, apprehended"]}
