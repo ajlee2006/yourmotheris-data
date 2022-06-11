@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T22:00:29.894357+00:00", 3068, "Your mother is", "quick", "Pronunciation: /kw\u026ak/", "Definition: apprehending and responding with speed and sensitivity", "Synonyms: ready"]}
+{"data": ["2022-06-11T23:00:37.768536+00:00", 3069, "Your mother is", "prior", "Pronunciation: /\u02c8pra\u026a\u0259r/", "Definition: earlier in time", "Synonyms: anterior"]}
