@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T01:01:33.861778+00:00", 3047, "Your mother is", "regressive", "Pronunciation: /r\u026a\u02c8gr\u025bs\u026av/", "Definition: (of taxes) adjusted so that the rate decreases as the amount of income increases", ""]}
+{"data": ["2022-06-11T02:00:28.837741+00:00", 3048, "Your mother is", "disregarded", "Pronunciation: /\u02ccd\u026asr\u026a\u02c8\u0261\u0251rd\u026ad/", "Definition: not noticed inadvertently", "Synonyms: forgotten"]}
