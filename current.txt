@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T06:00:41.697295+00:00", 3052, "Your mother is", "comprehended", "Pronunciation: /\u02cck\u0251mpr\u026a\u02c8h\u025bnd\u026ad/", "Definition: fully understood or grasped", "Synonyms: appreciated, apprehended"]}
+{"data": ["2022-06-11T07:01:17.645830+00:00", 3053, "Your mother is", "bifurcate", "Pronunciation: /\u02c8ba\u026af\u0259\u02ccke\u026at/", "Definition: resembling a fork; divided or separated into two branches", "Synonyms: biramous, branched, forficate, fork-like, forked, pronged, prongy"]}
