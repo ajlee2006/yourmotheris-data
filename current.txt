@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T17:00:13.660194+00:00", 3063, "Your mother is", "xii", "Similar to: cardinal", "Definition: denoting a quantity consisting of 12 items or units", "Synonyms: 12, dozen, twelve"]}
+{"data": ["2022-06-11T18:01:14.436215+00:00", 3064, "Your mother is", "unsatisfactory", "Pronunciation: /\u02cc\u0259ns\u00e6t\u026as\u02c8f\u00e6kt\u0259ri/", "Definition: not giving satisfaction", ""]}
