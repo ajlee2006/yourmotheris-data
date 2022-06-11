@@ -1,1 +1,1 @@
-{"data": ["2022-06-11T16:00:37.502107+00:00", 3062, "Your mother is", "marshy", "Pronunciation: /\u02c8m\u0251r\u0283i/", "Definition: (of soil) soft and watery", "Synonyms: boggy, miry, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, swampy, waterlogged"]}
+{"data": ["2022-06-11T17:00:13.660194+00:00", 3063, "Your mother is", "xii", "Similar to: cardinal", "Definition: denoting a quantity consisting of 12 items or units", "Synonyms: 12, dozen, twelve"]}
