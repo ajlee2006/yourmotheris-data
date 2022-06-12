@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T17:01:31.634544+00:00", 3087, "Your mother is", "experiential", "Pronunciation: /\u026ak\u02ccspiri\u02c8\u025bn\u0283\u0259l/", "Definition: derived from experience or the experience of existence", "Synonyms: existential"]}
+{"data": ["2022-06-12T18:01:26.107045+00:00", 3088, "Your mother is", "entire", "Pronunciation: /\u025bn\u02c8ta\u026a\u0259r/", "Definition: constituting the full quantity or extent; complete", "Synonyms: full, total"]}
