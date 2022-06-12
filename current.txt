@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T09:01:10.418215+00:00", 3079, "Your mother is", "ampullar", "", "Definition: of or related to an ampulla", "Synonyms: ampullary"]}
+{"data": ["2022-06-12T10:00:27.741387+00:00", 3080, "Your mother is", "here", "Pronunciation: /hir/", "Definition: being here now", ""]}
