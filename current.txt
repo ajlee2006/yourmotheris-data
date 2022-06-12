@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T11:01:27.530185+00:00", 3081, "Your mother is", "diverting", "Pronunciation: /d\u026a\u02c8v\u025crt\u026a\u014b/", "Definition: providing enjoyment; pleasantly entertaining", "Synonyms: amusing, amusive"]}
+{"data": ["2022-06-12T12:01:16.811568+00:00", 3082, "Your mother is", "microcephalic", "", "Definition: having an abnormally small head and underdeveloped brain", "Synonyms: microcephalous, nanocephalic"]}
