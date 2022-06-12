@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T07:00:37.131604+00:00", 3077, "Your mother is", "glistening", "Pronunciation: /\u02c8\u0261l\u026as\u028cn\u026a\u014b/", "Definition: reflecting light", "Synonyms: glossy, lustrous, sheeny, shining, shiny"]}
+{"data": ["2022-06-12T08:00:47.255518+00:00", 3078, "Your mother is", "coaxal", "Pronunciation: /ko\u028a\u02c8\u00e6ks\u0259l/", "Definition: having a common axis", "Synonyms: coaxial"]}
