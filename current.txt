@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T22:00:50.138061+00:00", 3092, "Your mother is", "auriferous", "Pronunciation: /\u0254\u02c8r\u026af\u0259r\u0259s/", "Definition: containing gold", "Synonyms: gold-bearing"]}
+{"data": ["2022-06-12T23:00:55.429330+00:00", 3093, "Your mother is", "supernumerary", "Pronunciation: /\u02ccsup\u0259r\u02c8num\u0259\u02ccr\u025bri/", "Definition: more than is needed, desired, or required", "Synonyms: excess, extra, redundant, spare, supererogatory, superfluous, surplus"]}
