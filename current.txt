@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T21:01:16.726332+00:00", 3091, "Your mother is", "personalised", "Similar to: personal", "Definition: made for or directed or adjusted to a particular individual", "Synonyms: individualised, individualized, personalized"]}
+{"data": ["2022-06-12T22:00:50.138061+00:00", 3092, "Your mother is", "auriferous", "Pronunciation: /\u0254\u02c8r\u026af\u0259r\u0259s/", "Definition: containing gold", "Synonyms: gold-bearing"]}
