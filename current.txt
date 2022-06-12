@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T08:00:47.255518+00:00", 3078, "Your mother is", "coaxal", "Pronunciation: /ko\u028a\u02c8\u00e6ks\u0259l/", "Definition: having a common axis", "Synonyms: coaxial"]}
+{"data": ["2022-06-12T09:01:10.418215+00:00", 3079, "Your mother is", "ampullar", "", "Definition: of or related to an ampulla", "Synonyms: ampullary"]}
