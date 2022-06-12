@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T10:00:27.741387+00:00", 3080, "Your mother is", "here", "Pronunciation: /hir/", "Definition: being here now", ""]}
+{"data": ["2022-06-12T11:01:27.530185+00:00", 3081, "Your mother is", "diverting", "Pronunciation: /d\u026a\u02c8v\u025crt\u026a\u014b/", "Definition: providing enjoyment; pleasantly entertaining", "Synonyms: amusing, amusive"]}
