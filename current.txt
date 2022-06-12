@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T16:00:26.777719+00:00", 3086, "Your mother is", "impassable", "Pronunciation: /\u026am\u02c8p\u00e6s\u0259b\u0259l/", "Definition: incapable of being passed", "Synonyms: unpassable"]}
+{"data": ["2022-06-12T17:01:31.634544+00:00", 3087, "Your mother is", "experiential", "Pronunciation: /\u026ak\u02ccspiri\u02c8\u025bn\u0283\u0259l/", "Definition: derived from experience or the experience of existence", "Synonyms: existential"]}
