@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T03:01:33.296333+00:00", 3073, "Your mother is", "steely", "Pronunciation: /\u02c8stili/", "Definition: resembling steel as in hardness", ""]}
+{"data": ["2022-06-12T04:00:20.517262+00:00", 3074, "Your mother is", "traditional", "Pronunciation: /tr\u0259\u02c8d\u026a\u0283\u0259n\u0259l/", "Definition: consisting of or derived from tradition", ""]}
