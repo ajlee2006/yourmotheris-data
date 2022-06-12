@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T02:01:10.652242+00:00", 3072, "Your mother is", "myeloid", "Pronunciation: /\u02c8ma\u026a\u0259\u02ccl\u0254\u026ad/", "Definition: of or relating to the spinal cord", "Synonyms: myelic"]}
+{"data": ["2022-06-12T03:01:33.296333+00:00", 3073, "Your mother is", "steely", "Pronunciation: /\u02c8stili/", "Definition: resembling steel as in hardness", ""]}
