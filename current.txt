@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T01:00:57.581561+00:00", 3071, "Your mother is", "lipophilic", "Pronunciation: /\u02ccl\u026ap\u0259\u02c8f\u026al\u026ak/", "Definition: having an affinity for lipids", "Synonyms: lipotropic"]}
+{"data": ["2022-06-12T02:01:10.652242+00:00", 3072, "Your mother is", "myeloid", "Pronunciation: /\u02c8ma\u026a\u0259\u02ccl\u0254\u026ad/", "Definition: of or relating to the spinal cord", "Synonyms: myelic"]}
