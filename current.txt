@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T12:01:16.811568+00:00", 3082, "Your mother is", "microcephalic", "", "Definition: having an abnormally small head and underdeveloped brain", "Synonyms: microcephalous, nanocephalic"]}
+{"data": ["2022-06-12T13:00:37.520053+00:00", 3083, "Your mother is", "posterior", "Pronunciation: /p\u0251\u02c8stiri\u0259r/", "Definition: coming at a subsequent time or stage", "Synonyms: later, ulterior"]}
