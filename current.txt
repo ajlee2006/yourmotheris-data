@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T18:01:26.107045+00:00", 3088, "Your mother is", "entire", "Pronunciation: /\u025bn\u02c8ta\u026a\u0259r/", "Definition: constituting the full quantity or extent; complete", "Synonyms: full, total"]}
+{"data": ["2022-06-12T19:00:28.625518+00:00", 3089, "Your mother is", "parentless", "Similar to: fatherless", "Definition: having no parent or parents or not cared for by parent surrogates", "Synonyms: unparented"]}
