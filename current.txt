@@ -1,1 +1,1 @@
-{"data": ["2022-06-12T23:00:55.429330+00:00", 3093, "Your mother is", "supernumerary", "Pronunciation: /\u02ccsup\u0259r\u02c8num\u0259\u02ccr\u025bri/", "Definition: more than is needed, desired, or required", "Synonyms: excess, extra, redundant, spare, supererogatory, superfluous, surplus"]}
+{"data": ["2022-06-13T00:01:10.111753+00:00", 3094, "Your mother is", "zaftig", "Pronunciation: /\u02c8z\u00e6ft\u026a\u0261/", "Definition: (of a female body) healthily plump and vigorous", "Synonyms: buxom, zoftig"]}
