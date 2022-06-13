@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T00:01:10.111753+00:00", 3094, "Your mother is", "zaftig", "Pronunciation: /\u02c8z\u00e6ft\u026a\u0261/", "Definition: (of a female body) healthily plump and vigorous", "Synonyms: buxom, zoftig"]}
+{"data": ["2022-06-13T01:00:22.239650+00:00", 3095, "Your mother is", "spare", "Pronunciation: /sp\u025cr/", "Definition: not taken up by scheduled activities", "Synonyms: free"]}
