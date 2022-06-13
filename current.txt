@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T15:00:56.615065+00:00", 3109, "Your mother is", "embezzled", "Pronunciation: /\u026am\u02c8b\u025bz\u028cld/", "Definition: taken for your own use in violation of a trust", "Synonyms: misappropriated"]}
+{"data": ["2022-06-13T16:00:51.282207+00:00", 3110, "Your mother is", "vainglorious", "Pronunciation: /ve\u026an\u02c8glo\u028ari\u0259s/", "Definition: feeling self-importance", "Synonyms: big, swelled"]}
