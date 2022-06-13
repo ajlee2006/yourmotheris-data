@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T22:00:50.094738+00:00", 3116, "Your mother is", "nacreous", "Pronunciation: /\u02c8ne\u026akri\u0259s/", "Definition: having a play of lustrous rainbow colors", "Synonyms: iridescent, opalescent, opaline, pearlescent"]}
+{"data": ["2022-06-13T23:00:25.117677+00:00", 3117, "Your mother is", "acidulous", "Pronunciation: /\u0259\u02c8s\u026ad\u0292\u0259l\u0259s/", "Definition: being sour to the taste", "Synonyms: acid, acidic, acidulent"]}
