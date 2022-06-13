@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T02:01:15.090022+00:00", 3096, "Your mother is", "reflecting", "Pronunciation: /r\u028c\u02c8fl\u025bkt\u026a\u014b/", "Definition: causing reflection or having a device that reflects", ""]}
+{"data": ["2022-06-13T03:01:05.081849+00:00", 3097, "Your mother is", "canonical", "Pronunciation: /k\u0259\u02c8n\u0251n\u026ak\u0259l/", "Definition: conforming to orthodox or recognized rules", "Synonyms: canonic, sanctioned"]}
