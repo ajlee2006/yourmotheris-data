@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T09:00:23.238228+00:00", 3103, "Your mother is", "brassbound", "Pronunciation: /\u02c8br\u00e6s\u02c8ba\u028and/", "Definition: inflexibly entrenched and unchangeable", "Synonyms: ironclad"]}
+{"data": ["2022-06-13T10:00:47.304187+00:00", 3104, "Your mother is", "fusiform", "Pronunciation: /\u02c8fjuz\u0259\u02ccf\u0254rm/", "Definition: tapering at each end", "Synonyms: cigar-shaped, spindle-shaped"]}
