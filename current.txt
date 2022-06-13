@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T01:00:22.239650+00:00", 3095, "Your mother is", "spare", "Pronunciation: /sp\u025cr/", "Definition: not taken up by scheduled activities", "Synonyms: free"]}
+{"data": ["2022-06-13T02:01:15.090022+00:00", 3096, "Your mother is", "reflecting", "Pronunciation: /r\u028c\u02c8fl\u025bkt\u026a\u014b/", "Definition: causing reflection or having a device that reflects", ""]}
