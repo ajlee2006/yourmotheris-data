@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T11:00:21.649119+00:00", 3105, "Your mother is", "brummagem", "Pronunciation: /\u02c8br\u0259m\u0259d\u0292\u0259m/", "Definition: cheap and showy", ""]}
+{"data": ["2022-06-13T12:01:19.366795+00:00", 3106, "Your mother is", "chicken-breasted", "Similar to: unshapely", "Definition: having a chest deformity marked by a projecting breastbone caused by infantile rickets", "Synonyms: pigeon-breasted"]}
