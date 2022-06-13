@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T07:00:26.500042+00:00", 3101, "Your mother is", "immoral", "Pronunciation: /\u026a\u02c8m\u0254r\u0259l/", "Definition: not adhering to ethical or moral principles", "Synonyms: base"]}
+{"data": ["2022-06-13T08:00:48.010139+00:00", 3102, "Your mother is", "expeditious", "Pronunciation: /\u02cc\u025bksp\u026a\u02c8d\u026a\u0283\u0259s/", "Definition: marked by speed and efficiency", ""]}
