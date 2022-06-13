@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T17:00:11.996622+00:00", 3111, "Your mother is", "numeral", "Pronunciation: /\u02c8num\u0259r\u0259l/", "Definition: of or relating to or denoting numbers", "Synonyms: numeric, numerical"]}
+{"data": ["2022-06-13T18:00:41.050979+00:00", 3112, "Your mother is", "set", "Pronunciation: /s\u025bt/", "Definition: set down according to a plan", "Synonyms: laid"]}
