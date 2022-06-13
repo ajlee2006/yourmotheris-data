@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T10:00:47.304187+00:00", 3104, "Your mother is", "fusiform", "Pronunciation: /\u02c8fjuz\u0259\u02ccf\u0254rm/", "Definition: tapering at each end", "Synonyms: cigar-shaped, spindle-shaped"]}
+{"data": ["2022-06-13T11:00:21.649119+00:00", 3105, "Your mother is", "brummagem", "Pronunciation: /\u02c8br\u0259m\u0259d\u0292\u0259m/", "Definition: cheap and showy", ""]}
