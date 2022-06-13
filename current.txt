@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T06:01:22.988272+00:00", 3100, "Your mother is", "greyish-black", "Similar to: achromatic", "Definition: of black tinged with grey", "Synonyms: gray-black, grayish-black, grey-black"]}
+{"data": ["2022-06-13T07:00:26.500042+00:00", 3101, "Your mother is", "immoral", "Pronunciation: /\u026a\u02c8m\u0254r\u0259l/", "Definition: not adhering to ethical or moral principles", "Synonyms: base"]}
