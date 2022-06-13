@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T16:00:51.282207+00:00", 3110, "Your mother is", "vainglorious", "Pronunciation: /ve\u026an\u02c8glo\u028ari\u0259s/", "Definition: feeling self-importance", "Synonyms: big, swelled"]}
+{"data": ["2022-06-13T17:00:11.996622+00:00", 3111, "Your mother is", "numeral", "Pronunciation: /\u02c8num\u0259r\u0259l/", "Definition: of or relating to or denoting numbers", "Synonyms: numeric, numerical"]}
