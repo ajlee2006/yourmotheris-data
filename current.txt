@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T14:00:30.866873+00:00", 3108, "Your mother is", "undermanned", "Pronunciation: /\u02cc\u0259nd\u0259r\u02c8m\u00e6nd/", "Definition: inadequate in number of workers or assistants etc.", "Synonyms: short-handed, short-staffed, understaffed"]}
+{"data": ["2022-06-13T15:00:56.615065+00:00", 3109, "Your mother is", "embezzled", "Pronunciation: /\u026am\u02c8b\u025bz\u028cld/", "Definition: taken for your own use in violation of a trust", "Synonyms: misappropriated"]}
