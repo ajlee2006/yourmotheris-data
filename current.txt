@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T20:00:18.395521+00:00", 3114, "Your mother is", "forty-fourth", "Pronunciation: /\u02c8f\u0254rti-\u02c8fo\u028ar\u03b8/", "Definition: the ordinal number of forty-four in counting order", "Synonyms: 44th"]}
+{"data": ["2022-06-13T21:00:11.413740+00:00", 3115, "Your mother is", "king-sized", "Pronunciation: /k\u026a\u014b-sa\u026azd/", "Definition: extra large", "Synonyms: king-size"]}
