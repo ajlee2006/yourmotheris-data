@@ -1,1 +1,1 @@
-{"data": ["2022-06-14T07:01:23.370194+00:00", 3125, "Your mother is", "irremovable", "Pronunciation: /\u02cc\u026ar\u026a\u02c8muv\u0259b\u0259l/", "Definition: incapable of being removed or away or dismiss", ""]}
+{"data": ["2022-06-14T08:00:38.616406+00:00", 3126, "Your mother is", "wistful", "Pronunciation: /\u02c8w\u026astf\u0259l/", "Definition: showing pensive sadness", "Synonyms: pensive"]}
