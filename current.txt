@@ -1,1 +1,1 @@
-{"data": ["2022-06-14T01:00:30.103852+00:00", 3119, "Your mother is", "unobtrusive", "Pronunciation: /\u02cc\u0259n\u0259b\u02c8trus\u026av/", "Definition: not obtrusive or undesirably noticeable", ""]}
+{"data": ["2022-06-14T02:01:15.572557+00:00", 3120, "Your mother is", "aneurysmatic", "", "Definition: relating to or affected by an aneurysm", "Synonyms: aneurismal, aneurismatic, aneurysmal"]}
