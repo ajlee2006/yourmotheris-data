@@ -1,1 +1,1 @@
-{"data": ["2022-06-14T19:00:22.510961+00:00", 3137, "Your mother is", "five-pointed", "Pronunciation: /fa\u026av-\u02c8p\u0254\u026ant\u026ad/", "Definition: having five points", ""]}
+{"data": ["2022-06-14T20:00:32.422339+00:00", 3138, "Your mother is", "handless", "Pronunciation: /\u02c8h\u00e6ndl\u026as/", "Definition: lacking physical movement skills, especially with the hands", "Synonyms: bumbling, bungling, butterfingered, ham-fisted, ham-handed, heavy-handed, left-handed"]}
