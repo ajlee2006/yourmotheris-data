@@ -1,1 +1,1 @@
-{"data": ["2022-06-14T00:01:51.953216+00:00", 3118, "Your mother is", "rustic", "Pronunciation: /\u02c8r\u0259st\u0259k/", "Definition: awkwardly simple and provincial", "Synonyms: bumpkinly, hick, unsophisticated"]}
+{"data": ["2022-06-14T01:00:30.103852+00:00", 3119, "Your mother is", "unobtrusive", "Pronunciation: /\u02cc\u0259n\u0259b\u02c8trus\u026av/", "Definition: not obtrusive or undesirably noticeable", ""]}
