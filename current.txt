@@ -1,1 +1,1 @@
-{"data": ["2022-06-14T20:00:32.422339+00:00", 3138, "Your mother is", "handless", "Pronunciation: /\u02c8h\u00e6ndl\u026as/", "Definition: lacking physical movement skills, especially with the hands", "Synonyms: bumbling, bungling, butterfingered, ham-fisted, ham-handed, heavy-handed, left-handed"]}
+{"data": ["2022-06-14T21:00:50.017114+00:00", 3139, "Your mother is", "daredevil", "Pronunciation: /\u02c8d\u025cr\u02ccd\u025bv\u0259l/", "Definition: presumptuously daring", "Synonyms: temerarious"]}
