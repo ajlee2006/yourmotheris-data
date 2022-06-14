@@ -1,1 +1,1 @@
-{"data": ["2022-06-14T11:00:42.529776+00:00", 3129, "Your mother is", "large", "Pronunciation: /l\u0251rd\u0292/", "Definition: in an advanced stage of pregnancy", "Synonyms: big, enceinte, expectant, gravid, great, heavy, with child"]}
+{"data": ["2022-06-14T12:00:58.753493+00:00", 3130, "Your mother is", "screwy", "Pronunciation: /\u02c8skrui/", "Definition: not behaving normally", "Synonyms: screw-loose"]}
