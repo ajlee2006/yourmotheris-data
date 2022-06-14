@@ -1,1 +1,1 @@
-{"data": ["2022-06-14T08:00:38.616406+00:00", 3126, "Your mother is", "wistful", "Pronunciation: /\u02c8w\u026astf\u0259l/", "Definition: showing pensive sadness", "Synonyms: pensive"]}
+{"data": ["2022-06-14T09:00:37.514529+00:00", 3127, "Your mother is", "ghoulish", "Pronunciation: /\u02c8\u0261ul\u026a\u0283/", "Definition: suggesting the horror of death and decay", "Synonyms: morbid"]}
