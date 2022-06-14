@@ -1,1 +1,1 @@
-{"data": ["2022-06-14T04:00:37.560784+00:00", 3122, "Your mother is", "singsong", "Pronunciation: /\u02c8s\u026a\u014bs\u0251\u014b/", "Definition: uttered in a monotonous cadence or rhythm as in chanting", "Synonyms: chantlike, intoned"]}
+{"data": ["2022-06-14T05:00:39.264329+00:00", 3123, "Your mother is", "steady-going", "Pronunciation: /\u02c8st\u025bdi-\u02c8\u0261o\u028a\u026a\u014b/", "Definition: consistent in performance or behavior", "Synonyms: dependable, rock-steady"]}
