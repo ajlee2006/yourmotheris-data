@@ -1,1 +1,1 @@
-{"data": ["2022-06-13T23:00:25.117677+00:00", 3117, "Your mother is", "acidulous", "Pronunciation: /\u0259\u02c8s\u026ad\u0292\u0259l\u0259s/", "Definition: being sour to the taste", "Synonyms: acid, acidic, acidulent"]}
+{"data": ["2022-06-14T00:01:51.953216+00:00", 3118, "Your mother is", "rustic", "Pronunciation: /\u02c8r\u0259st\u0259k/", "Definition: awkwardly simple and provincial", "Synonyms: bumpkinly, hick, unsophisticated"]}
