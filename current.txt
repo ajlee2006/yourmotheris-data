@@ -1,1 +1,1 @@
-{"data": ["2022-06-14T09:00:37.514529+00:00", 3127, "Your mother is", "ghoulish", "Pronunciation: /\u02c8\u0261ul\u026a\u0283/", "Definition: suggesting the horror of death and decay", "Synonyms: morbid"]}
+{"data": ["2022-06-14T10:01:23.748770+00:00", 3128, "Your mother is", "stabilizing", "Pronunciation: /\u02c8ste\u026ab\u028c\u02ccla\u026az\u026a\u014b/", "Definition: causing to become stable", "Synonyms: stabilising"]}
