@@ -1,1 +1,1 @@
-{"data": ["2022-06-14T03:00:50.542872+00:00", 3121, "Your mother is", "incommutable", "Pronunciation: /\u02cc\u026ank\u0259\u02c8mjut\u0259b\u0259l/", "Definition: not interchangeable or able to substitute one for another", ""]}
+{"data": ["2022-06-14T04:00:37.560784+00:00", 3122, "Your mother is", "singsong", "Pronunciation: /\u02c8s\u026a\u014bs\u0251\u014b/", "Definition: uttered in a monotonous cadence or rhythm as in chanting", "Synonyms: chantlike, intoned"]}
