@@ -1,1 +1,1 @@
-{"data": ["2022-06-14T22:01:23.872575+00:00", 3140, "Your mother is", "riskless", "Pronunciation: /\u02c8r\u026askl\u028cs/", "Definition: thought to be devoid of risk", "Synonyms: risk-free, unhazardous"]}
+{"data": ["2022-06-14T23:00:51.452343+00:00", 3141, "Your mother is", "flexile", "Pronunciation: /\u02c8fl\u025bks\u026al/", "Definition: able to flex; able to bend easily", "Synonyms: flexible"]}
