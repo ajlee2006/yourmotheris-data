@@ -1,1 +1,1 @@
-{"data": ["2022-06-15T20:00:45.020714+00:00", 3162, "Your mother is", "restricting", "Pronunciation: /ri\u02c8str\u026akt\u026a\u014b/", "Definition: restricting the scope or freedom of action", "Synonyms: confining, constraining, constrictive, limiting"]}
+{"data": ["2022-06-15T21:01:01.309603+00:00", 3163, "Your mother is", "collateral", "Pronunciation: /k\u0259\u02c8l\u00e6t\u0259r\u0259l/", "Definition: occurring with or following as a consequence", "Synonyms: accompanying, attendant, concomitant, consequent, ensuant, incidental, resultant, sequent"]}
