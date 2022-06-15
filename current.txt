@@ -1,1 +1,1 @@
-{"data": ["2022-06-15T18:01:25.584345+00:00", 3160, "Your mother is", "educational", "Pronunciation: /\u02cc\u025bd\u0292\u028a\u02c8ke\u026a\u0283\u0259n\u0259l/", "Definition: providing knowledge", ""]}
+{"data": ["2022-06-15T19:00:48.729574+00:00", 3161, "Your mother is", "weakening", "Pronunciation: /\u02c8wik\u028cn\u026a\u014b/", "Definition: causing debilitation", "Synonyms: debilitative, enervating, enfeebling"]}
