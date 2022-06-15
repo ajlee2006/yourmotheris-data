@@ -1,1 +1,1 @@
-{"data": ["2022-06-14T23:00:51.452343+00:00", 3141, "Your mother is", "flexile", "Pronunciation: /\u02c8fl\u025bks\u026al/", "Definition: able to flex; able to bend easily", "Synonyms: flexible"]}
+{"data": ["2022-06-15T00:01:59.320233+00:00", 3142, "Your mother is", "slipper-shaped", "Pronunciation: /\u02c8sl\u026ap\u0259r-\u0283e\u026apt/", "Definition: shaped in the form of a slipper", ""]}
