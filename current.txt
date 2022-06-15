@@ -1,1 +1,1 @@
-{"data": ["2022-06-15T01:00:14.188332+00:00", 3143, "Your mother is", "dyspeptic", "Pronunciation: /d\u026as\u02c8p\u025bpt\u026ak/", "Definition: irritable as if suffering from indigestion", "Synonyms: atrabilious, bilious, liverish"]}
+{"data": ["2022-06-15T02:00:39.925176+00:00", 3144, "Your mother is", "intradermic", "", "Definition: relating to areas between the layers of the skin", "Synonyms: intracutaneous, intradermal"]}
