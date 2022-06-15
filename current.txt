@@ -1,1 +1,1 @@
-{"data": ["2022-06-15T12:01:04.190845+00:00", 3154, "Your mother is", "in style", "Similar to: fashionable", "Definition: in the current fashion or style", "Synonyms: a la mode, in vogue, latest, modish"]}
+{"data": ["2022-06-15T13:01:21.625632+00:00", 3155, "Your mother is", "neotenic", "Pronunciation: /\u02ccni\u028c\u02c8tin\u026ak/", "Definition: of or relating to or characterized by neoteny", "Synonyms: neotenous"]}
