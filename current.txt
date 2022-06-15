@@ -1,1 +1,1 @@
-{"data": ["2022-06-15T07:00:45.863993+00:00", 3149, "Your mother is", "insolvent", "Pronunciation: /\u026an\u02c8s\u0251lv\u0259nt/", "Definition: unable to meet or discharge financial obligations", ""]}
+{"data": ["2022-06-15T08:01:35.977870+00:00", 3150, "Your mother is", "kind", "Pronunciation: /ka\u026and/", "Definition: agreeable, conducive to comfort", "Synonyms: genial"]}
