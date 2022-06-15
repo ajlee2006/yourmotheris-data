@@ -1,1 +1,1 @@
-{"data": ["2022-06-15T03:00:56.119019+00:00", 3145, "Your mother is", "scoreless", "Pronunciation: /\u02c8sk\u0254rl\u028cs/", "Definition: having no points scores", "Synonyms: goalless, hitless, pointless"]}
+{"data": ["2022-06-15T04:01:03.782355+00:00", 3146, "Your mother is", "scots", "Pronunciation: /sk\u0251ts/", "Definition: of or relating to or characteristic of Scotland or its people or culture or its English dialect or Gaelic language", "Synonyms: scotch, scottish"]}
