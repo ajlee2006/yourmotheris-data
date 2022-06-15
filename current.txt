@@ -1,1 +1,1 @@
-{"data": ["2022-06-15T09:01:14.039988+00:00", 3151, "Your mother is", "cosmologic", "", "Definition: pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe", "Synonyms: cosmogenic, cosmogonic, cosmogonical, cosmological"]}
+{"data": ["2022-06-15T10:01:02.715437+00:00", 3152, "Your mother is", "gratifying", "Pronunciation: /\u02c8gr\u00e6t\u0259\u02ccfa\u026a\u026a\u014b/", "Definition: affording satisfaction or pleasure", "Synonyms: enjoyable, pleasurable"]}
