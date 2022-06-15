@@ -1,1 +1,1 @@
-{"data": ["2022-06-15T05:01:20.943217+00:00", 3147, "Your mother is", "boring", "Pronunciation: /\u02c8bo\u028ar\u026a\u014b/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: deadening, dull, ho-hum, irksome, slow, tedious, tiresome, wearisome"]}
+{"data": ["2022-06-15T06:00:42.656586+00:00", 3148, "Your mother is", "noncausal", "", "Definition: not causative", "Synonyms: noncausative"]}
