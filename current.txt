@@ -1,1 +1,1 @@
-{"data": ["2022-06-15T08:01:35.977870+00:00", 3150, "Your mother is", "kind", "Pronunciation: /ka\u026and/", "Definition: agreeable, conducive to comfort", "Synonyms: genial"]}
+{"data": ["2022-06-15T09:01:14.039988+00:00", 3151, "Your mother is", "cosmologic", "", "Definition: pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe", "Synonyms: cosmogenic, cosmogonic, cosmogonical, cosmological"]}
