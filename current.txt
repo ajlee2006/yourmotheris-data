@@ -1,1 +1,1 @@
-{"data": ["2022-06-15T22:00:12.150901+00:00", 3164, "Your mother is", "smoothbore", "Pronunciation: /\u02c8smu\u00f0\u02ccbo\u028ar/", "Definition: of a firearm; not having rifling or internal spiral grooves inside the barrel", "Synonyms: unrifled"]}
+{"data": ["2022-06-15T23:00:27.559297+00:00", 3165, "Your mother is", "eagle-eyed", "Pronunciation: /\u02c8i\u0261\u0259l-a\u026ad/", "Definition: capable of seeing to a great distance", "Synonyms: farseeing, keen-sighted, longsighted"]}
