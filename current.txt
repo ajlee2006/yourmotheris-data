@@ -1,1 +1,1 @@
-{"data": ["2022-06-15T19:00:48.729574+00:00", 3161, "Your mother is", "weakening", "Pronunciation: /\u02c8wik\u028cn\u026a\u014b/", "Definition: causing debilitation", "Synonyms: debilitative, enervating, enfeebling"]}
+{"data": ["2022-06-15T20:00:45.020714+00:00", 3162, "Your mother is", "restricting", "Pronunciation: /ri\u02c8str\u026akt\u026a\u014b/", "Definition: restricting the scope or freedom of action", "Synonyms: confining, constraining, constrictive, limiting"]}
