@@ -1,1 +1,1 @@
-{"data": ["2022-06-15T17:00:14.091887+00:00", 3159, "Your mother is", "piano", "Pronunciation: /pi\u02c8\u0251no\u028a/", "Definition: (used chiefly as a direction or description in music) soft; in a quiet, subdued tone", "Synonyms: soft"]}
+{"data": ["2022-06-15T18:01:25.584345+00:00", 3160, "Your mother is", "educational", "Pronunciation: /\u02cc\u025bd\u0292\u028a\u02c8ke\u026a\u0283\u0259n\u0259l/", "Definition: providing knowledge", ""]}
