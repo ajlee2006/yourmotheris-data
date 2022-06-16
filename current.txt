@@ -1,1 +1,1 @@
-{"data": ["2022-06-16T15:01:13.963742+00:00", 3179, "Your mother is", "bicoloured", "Similar to: colored", "Definition: having two colors", "Synonyms: bichrome, bicolor, bicolored, bicolour, dichromatic"]}
+{"data": ["2022-06-16T17:00:47.443766+00:00", 3180, "Your mother is", "nonaggressive", "Similar to: low-pressure", "Definition: not aggressive; not given to fighting or assertiveness", "Synonyms: unaggressive"]}
