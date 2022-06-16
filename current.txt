@@ -1,1 +1,1 @@
-{"data": ["2022-06-16T14:01:14.899115+00:00", 3178, "Your mother is", "hideous", "Pronunciation: /\u02c8h\u026adi\u0259s/", "Definition: so extremely ugly as to be terrifying", "Synonyms: repulsive"]}
+{"data": ["2022-06-16T15:01:13.963742+00:00", 3179, "Your mother is", "bicoloured", "Similar to: colored", "Definition: having two colors", "Synonyms: bichrome, bicolor, bicolored, bicolour, dichromatic"]}
