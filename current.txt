@@ -1,1 +1,1 @@
-{"data": ["2022-06-16T20:00:38.963146+00:00", 3183, "Your mother is", "chartreuse", "Pronunciation: /\u0283\u0251r\u02c8truz/", "Definition: of something having the yellowish green color of Chartreuse liqueur", ""]}
+{"data": ["2022-06-16T21:01:11.687005+00:00", 3184, "Your mother is", "orbicular", "Pronunciation: /\u0254r\u02c8b\u026akj\u0259l\u0259r/", "Definition: circular or nearly circular", "Synonyms: orbiculate"]}
