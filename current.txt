@@ -1,1 +1,1 @@
-{"data": ["2022-06-16T04:01:30.122448+00:00", 3170, "Your mother is", "adulterate", "Pronunciation: /\u0259\u02c8d\u0259lt\u0259r\u026at/", "Definition: mixed with impurities", "Synonyms: adulterated, debased"]}
+{"data": ["2022-06-16T05:00:30.466975+00:00", 3171, "Your mother is", "long-snouted", "Similar to: long", "Definition: having a snout that is longer than average", ""]}
