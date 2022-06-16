@@ -1,1 +1,1 @@
-{"data": ["2022-06-16T05:00:30.466975+00:00", 3171, "Your mother is", "long-snouted", "Similar to: long", "Definition: having a snout that is longer than average", ""]}
+{"data": ["2022-06-16T08:01:02.917671+00:00", 3172, "Your mother is", "diagnostic", "Pronunciation: /\u02ccda\u026a\u0259\u0261\u02c8n\u0251st\u026ak/", "Definition: characteristic or indicative of a disease", "Synonyms: symptomatic"]}
