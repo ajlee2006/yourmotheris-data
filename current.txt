@@ -1,1 +1,1 @@
-{"data": ["2022-06-16T12:00:23.722608+00:00", 3176, "Your mother is", "buffeted", "Pronunciation: /b\u028c\u02c8fe\u026ad/", "Definition: pounded or hit repeatedly by storms or adversities", "Synonyms: storm-tossed, tempest-swept, tempest-tossed, tempest-tost"]}
+{"data": ["2022-06-16T13:01:22.961708+00:00", 3177, "Your mother is", "ameboid", "Pronunciation: /\u0259\u02c8mib\u0254\u026ad/", "Definition: like an amoeba (especially in having a variable irregular shape)", "Synonyms: amoeboid"]}
