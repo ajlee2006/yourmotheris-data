@@ -1,1 +1,1 @@
-{"data": ["2022-06-16T19:01:22.370023+00:00", 3182, "Your mother is", "hectic", "Pronunciation: /\u02c8h\u025bkt\u026ak/", "Definition: marked by intense agitation or emotion", "Synonyms: feverish"]}
+{"data": ["2022-06-16T20:00:38.963146+00:00", 3183, "Your mother is", "chartreuse", "Pronunciation: /\u0283\u0251r\u02c8truz/", "Definition: of something having the yellowish green color of Chartreuse liqueur", ""]}
