@@ -1,1 +1,1 @@
-{"data": ["2022-06-15T23:00:27.559297+00:00", 3165, "Your mother is", "eagle-eyed", "Pronunciation: /\u02c8i\u0261\u0259l-a\u026ad/", "Definition: capable of seeing to a great distance", "Synonyms: farseeing, keen-sighted, longsighted"]}
+{"data": ["2022-06-16T00:01:18.558064+00:00", 3166, "Your mother is", "transversal", "Pronunciation: /tr\u00e6ns\u02c8v\u025crs\u0259l/", "Definition: extending or lying across; in a crosswise direction; at right angles to the long axis", "Synonyms: cross, thwartwise, transverse"]}
