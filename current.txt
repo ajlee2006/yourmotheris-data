@@ -1,1 +1,1 @@
-{"data": ["2022-06-16T10:00:36.039143+00:00", 3174, "Your mother is", "glabrescent", "Pronunciation: /gle\u026a\u02c8br\u025bs\u0259nt/", "Definition: lacking hair or a similar growth or tending to become hairless", ""]}
+{"data": ["2022-06-16T11:00:28.590699+00:00", 3175, "Your mother is", "drippy", "Pronunciation: /\u02c8dr\u026api/", "Definition: wet with light rain", "Synonyms: drizzly"]}
