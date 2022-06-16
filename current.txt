@@ -1,1 +1,1 @@
-{"data": ["2022-06-16T11:00:28.590699+00:00", 3175, "Your mother is", "drippy", "Pronunciation: /\u02c8dr\u026api/", "Definition: wet with light rain", "Synonyms: drizzly"]}
+{"data": ["2022-06-16T12:00:23.722608+00:00", 3176, "Your mother is", "buffeted", "Pronunciation: /b\u028c\u02c8fe\u026ad/", "Definition: pounded or hit repeatedly by storms or adversities", "Synonyms: storm-tossed, tempest-swept, tempest-tossed, tempest-tost"]}
