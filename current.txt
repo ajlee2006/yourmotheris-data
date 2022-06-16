@@ -1,1 +1,1 @@
-{"data": ["2022-06-16T09:01:06.552198+00:00", 3173, "Your mother is", "unsterilized", "Similar to: germy", "Definition: not sterilized", "Synonyms: unsterilised"]}
+{"data": ["2022-06-16T10:00:36.039143+00:00", 3174, "Your mother is", "glabrescent", "Pronunciation: /gle\u026a\u02c8br\u025bs\u0259nt/", "Definition: lacking hair or a similar growth or tending to become hairless", ""]}
