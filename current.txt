@@ -1,1 +1,1 @@
-{"data": ["2022-06-17T13:00:27.476386+00:00", 3200, "Your mother is", "associational", "", "Definition: of or relating to associations or associationism", ""]}
+{"data": ["2022-06-17T14:01:26.058906+00:00", 3201, "Your mother is", "precautional", "Similar to: preventative", "Definition: taken in advance to protect against possible danger or failure", "Synonyms: precautionary"]}
