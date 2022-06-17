@@ -1,1 +1,1 @@
-{"data": ["2022-06-17T07:01:47.444802+00:00", 3194, "Your mother is", "pianissimo", "Pronunciation: /\u02ccpi\u0259\u02c8n\u026as\u026a\u02ccmo\u028a/", "Definition: (chiefly a direction or description in music) very soft", ""]}
+{"data": ["2022-06-17T08:01:37.312790+00:00", 3195, "Your mother is", "free-range", "Similar to: unconfined", "Definition: of livestock and domestic poultry; permitted to graze or forage rather than being confined to a feedlot", ""]}
