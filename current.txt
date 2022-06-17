@@ -1,1 +1,1 @@
-{"data": ["2022-06-17T15:00:53.780434+00:00", 3202, "Your mother is", "antlered", "Pronunciation: /\u02c8\u00e6ntl\u0259rd/", "Definition: having antlers", ""]}
+{"data": ["2022-06-17T16:01:11.324353+00:00", 3203, "Your mother is", "perfectible", "Pronunciation: /p\u0259r\u02c8f\u025bkt\u0259b\u0259l/", "Definition: capable of becoming or being made perfect", ""]}
