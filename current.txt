@@ -1,1 +1,1 @@
-{"data": ["2022-06-17T09:01:39.536715+00:00", 3196, "Your mother is", "velvety-plumaged", "Similar to: feathered", "Definition: plumage resembling velvet", ""]}
+{"data": ["2022-06-17T10:00:44.303474+00:00", 3197, "Your mother is", "two-humped", "", "Definition: having two humps", "Synonyms: double-humped"]}
