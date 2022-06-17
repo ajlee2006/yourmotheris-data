@@ -1,1 +1,1 @@
-{"data": ["2022-06-17T20:01:03.621791+00:00", 3207, "Your mother is", "tabu", "Pronunciation: /t\u0259\u02c8bu/", "Definition: excluded from use or mention", "Synonyms: forbidden, out, prohibited, proscribed, taboo, verboten"]}
+{"data": ["2022-06-17T21:01:05.939872+00:00", 3208, "Your mother is", "nineteenth", "Pronunciation: /\u02c8na\u026an\u02c8tin\u03b8/", "Definition: coming next after the eighteenth in position", "Synonyms: 19th"]}
