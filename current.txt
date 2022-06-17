@@ -1,1 +1,1 @@
-{"data": ["2022-06-17T04:01:28.267302+00:00", 3191, "Your mother is", "tarred-and-feathered", "Similar to: punished", "Definition: smeared with tar and covered with feathers as a punishment", ""]}
+{"data": ["2022-06-17T05:00:40.419031+00:00", 3192, "Your mother is", "fistular", "Similar to: hollow", "Definition: hollow and tube-shaped like a reed", "Synonyms: fistulate, fistulous"]}
