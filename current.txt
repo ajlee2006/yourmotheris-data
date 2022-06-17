@@ -1,1 +1,1 @@
-{"data": ["2022-06-17T01:00:56.623031+00:00", 3188, "Your mother is", "noncontroversial", "Pronunciation: /n\u0251n\u02cck\u0251ntr\u028c\u02c8v\u025dr\u0283\u028cl/", "Definition: not likely to arouse controversy", "Synonyms: uncontroversial"]}
+{"data": ["2022-06-17T02:01:16.403122+00:00", 3189, "Your mother is", "clarifying", "Pronunciation: /\u02c8kl\u025br\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: that makes clear", "Synonyms: elucidative"]}
