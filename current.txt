@@ -1,1 +1,1 @@
-{"data": ["2022-06-17T06:00:43.142028+00:00", 3193, "Your mother is", "wrongheaded", "Pronunciation: /\u02c8r\u0254\u014b\u02cch\u025bd\u026ad/", "Definition: obstinately perverse in judgment or opinion", ""]}
+{"data": ["2022-06-17T07:01:47.444802+00:00", 3194, "Your mother is", "pianissimo", "Pronunciation: /\u02ccpi\u0259\u02c8n\u026as\u026a\u02ccmo\u028a/", "Definition: (chiefly a direction or description in music) very soft", ""]}
