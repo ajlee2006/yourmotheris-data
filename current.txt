@@ -1,1 +1,1 @@
-{"data": ["2022-06-17T12:00:52.287121+00:00", 3199, "Your mother is", "middlemost", "Pronunciation: /\u02c8m\u026ad\u0259l\u02ccmo\u028ast/", "Definition: being in the exact middle", "Synonyms: midmost"]}
+{"data": ["2022-06-17T13:00:27.476386+00:00", 3200, "Your mother is", "associational", "", "Definition: of or relating to associations or associationism", ""]}
