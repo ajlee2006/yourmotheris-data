@@ -1,1 +1,1 @@
-{"data": ["2022-06-18T12:00:55.051103+00:00", 3223, "Your mother is", "cutting", "Pronunciation: /\u02c8k\u0259t\u026a\u014b/", "Definition: (of speech) harsh or hurtful in tone or character", "Synonyms: edged, stinging"]}
+{"data": ["2022-06-18T13:01:00.839337+00:00", 3224, "Your mother is", "islamic", "Pronunciation: /\u026az\u02c8l\u00e6m\u026ak/", "Definition: of or relating to or supporting Islamism", "Synonyms: moslem, muslim"]}
