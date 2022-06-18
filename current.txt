@@ -1,1 +1,1 @@
-{"data": ["2022-06-18T08:01:30.077895+00:00", 3219, "Your mother is", "courageous", "Pronunciation: /k\u0259\u02c8re\u026ad\u0292\u0259s/", "Definition: possessing or displaying courage; able to face and deal with danger or fear without flinching", "Synonyms: brave"]}
+{"data": ["2022-06-18T09:00:31.577723+00:00", 3220, "Your mother is", "thin-bodied", "Similar to: bodied", "Definition: having a slim body", "Synonyms: slender-bodied, slim-bodied"]}
