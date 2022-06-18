@@ -1,1 +1,1 @@
-{"data": ["2022-06-18T18:00:48.365839+00:00", 3229, "Your mother is", "sweetened", "Pronunciation: /\u02c8swit\u028cnd/", "Definition: with sweetening added", "Synonyms: sugared, sweet, sweet-flavored"]}
+{"data": ["2022-06-18T19:01:05.715563+00:00", 3230, "Your mother is", "adherent", "Pronunciation: /\u00e6d\u02c8hir\u0259nt/", "Definition: sticking fast", ""]}
