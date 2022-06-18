@@ -1,1 +1,1 @@
-{"data": ["2022-06-18T19:01:05.715563+00:00", 3230, "Your mother is", "adherent", "Pronunciation: /\u00e6d\u02c8hir\u0259nt/", "Definition: sticking fast", ""]}
+{"data": ["2022-06-18T20:00:45.659671+00:00", 3231, "Your mother is", "self-confident", "Pronunciation: /s\u025blf-\u02c8k\u0251nf\u026ad\u0259nt/", "Definition: showing poise and confidence in your own worth", "Synonyms: self-assured"]}
