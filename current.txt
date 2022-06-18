@@ -1,1 +1,1 @@
-{"data": ["2022-06-18T11:00:59.464120+00:00", 3222, "Your mother is", "cislunar", "Pronunciation: /s\u026as\u02c8lun\u0259r/", "Definition: situated between the earth and the moon", "Synonyms: sublunar, sublunary"]}
+{"data": ["2022-06-18T12:00:55.051103+00:00", 3223, "Your mother is", "cutting", "Pronunciation: /\u02c8k\u0259t\u026a\u014b/", "Definition: (of speech) harsh or hurtful in tone or character", "Synonyms: edged, stinging"]}
