@@ -1,1 +1,1 @@
-{"data": ["2022-06-18T22:01:09.100541+00:00", 3233, "Your mother is", "balking", "Pronunciation: /\u02c8b\u0254k\u026a\u014b/", "Definition: stopping short and refusing to go on", "Synonyms: balky"]}
+{"data": ["2022-06-18T23:01:27.836404+00:00", 3234, "Your mother is", "admittable", "Similar to: admissible", "Definition: deserving to be allowed to enter", "Synonyms: admittible"]}
