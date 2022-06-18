@@ -1,1 +1,1 @@
-{"data": ["2022-06-18T00:01:24.243310+00:00", 3211, "Your mother is", "thickspread", "Similar to: covered", "Definition: covered thickly", ""]}
+{"data": ["2022-06-18T01:00:56.542050+00:00", 3212, "Your mother is", "bimetal", "Similar to: metal", "Definition: formed of two different metals or alloys; especially in sheets bonded together", "Synonyms: bimetallic"]}
