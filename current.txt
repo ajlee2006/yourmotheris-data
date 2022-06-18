@@ -1,1 +1,1 @@
-{"data": ["2022-06-18T21:01:13.110341+00:00", 3232, "Your mother is", "smart as a whip", "Similar to: intelligent", "Definition: having or marked by unusual and impressive intelligence", "Synonyms: brainy, brilliant"]}
+{"data": ["2022-06-18T22:01:09.100541+00:00", 3233, "Your mother is", "balking", "Pronunciation: /\u02c8b\u0254k\u026a\u014b/", "Definition: stopping short and refusing to go on", "Synonyms: balky"]}
