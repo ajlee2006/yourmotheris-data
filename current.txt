@@ -1,1 +1,1 @@
-{"data": ["2022-06-18T01:00:56.542050+00:00", 3212, "Your mother is", "bimetal", "Similar to: metal", "Definition: formed of two different metals or alloys; especially in sheets bonded together", "Synonyms: bimetallic"]}
+{"data": ["2022-06-18T02:01:30.404920+00:00", 3213, "Your mother is", "distressing", "Pronunciation: /d\u026a\u02c8str\u025bs\u026a\u014b/", "Definition: bad; unfortunate", "Synonyms: deplorable, lamentable, pitiful, sad, sorry"]}
