@@ -1,1 +1,1 @@
-{"data": ["2022-06-18T09:00:31.577723+00:00", 3220, "Your mother is", "thin-bodied", "Similar to: bodied", "Definition: having a slim body", "Synonyms: slender-bodied, slim-bodied"]}
+{"data": ["2022-06-18T10:00:25.173914+00:00", 3221, "Your mother is", "fully grown", "Similar to: mature", "Definition: (of animals) fully developed", "Synonyms: adult, big, full-grown, grown, grownup"]}
