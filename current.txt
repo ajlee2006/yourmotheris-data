@@ -1,1 +1,1 @@
-{"data": ["2022-06-18T07:00:50.549636+00:00", 3218, "Your mother is", "cheap", "Pronunciation: /t\u0283ip/", "Definition: tastelessly showy", "Synonyms: brassy, flash, flashy, garish, gaudy, gimcrack, loud, meretricious, tacky, tatty, tawdry, trashy"]}
+{"data": ["2022-06-18T08:01:30.077895+00:00", 3219, "Your mother is", "courageous", "Pronunciation: /k\u0259\u02c8re\u026ad\u0292\u0259s/", "Definition: possessing or displaying courage; able to face and deal with danger or fear without flinching", "Synonyms: brave"]}
