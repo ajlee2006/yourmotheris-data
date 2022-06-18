@@ -1,1 +1,1 @@
-{"data": ["2022-06-18T13:01:00.839337+00:00", 3224, "Your mother is", "islamic", "Pronunciation: /\u026az\u02c8l\u00e6m\u026ak/", "Definition: of or relating to or supporting Islamism", "Synonyms: moslem, muslim"]}
+{"data": ["2022-06-18T14:01:01.831360+00:00", 3225, "Your mother is", "monodic", "Pronunciation: /m\u0259\u02c8n\u0251d\u026ak/", "Definition: having a single vocal part", "Synonyms: monodical"]}
