@@ -1,1 +1,1 @@
-{"data": ["2022-06-19T00:02:02.958280+00:00", 3235, "Your mother is", "water-washed", "Similar to: clean", "Definition: clean by virtue of having been washed in water", "Synonyms: washed"]}
+{"data": ["2022-06-19T01:01:13.717752+00:00", 3236, "Your mother is", "egotistical", "Pronunciation: /\u02cci\u0261\u028c\u02c8t\u026ast\u026ak\u028cl/", "Definition: characteristic of false pride; having an exaggerated sense of self-importance", "Synonyms: conceited, egotistic, self-conceited, swollen, swollen-headed, vain"]}
