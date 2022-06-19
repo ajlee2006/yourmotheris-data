@@ -1,1 +1,1 @@
-{"data": ["2022-06-19T11:00:41.678360+00:00", 3246, "Your mother is", "deuteranopic", "Pronunciation: /\u02ccdut\u0259r\u0259\u02c8n\u0251p\u026ak/", "Definition: inability to see the color green or to distinguish green and purplish-red", "Synonyms: green-blind"]}
+{"data": ["2022-06-19T12:01:18.370030+00:00", 3247, "Your mother is", "day-to-day", "Pronunciation: /\u02c8de\u026at\u0259\u02c8de\u026a/", "Definition: of or belonging to or occurring every day", "Synonyms: daily, day-after-day, day-by-day"]}
