@@ -1,1 +1,1 @@
-{"data": ["2022-06-19T09:00:41.183083+00:00", 3244, "Your mother is", "newsworthy", "Pronunciation: /\u02c8nuz\u02ccw\u025cr\u00f0i/", "Definition: sufficiently interesting to be reported in a newspaper", ""]}
+{"data": ["2022-06-19T10:00:38.600006+00:00", 3245, "Your mother is", "raving mad", "Similar to: insane", "Definition: talking or behaving irrationally", "Synonyms: wild"]}
