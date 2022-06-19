@@ -1,1 +1,1 @@
-{"data": ["2022-06-19T15:00:38.308864+00:00", 3250, "Your mother is", "grapey", "Pronunciation: /\u02c8gre\u026api/", "Definition: having a taste like that of grapes", "Synonyms: grapy"]}
+{"data": ["2022-06-19T16:00:33.744208+00:00", 3251, "Your mother is", "vegetative", "Pronunciation: /\u02c8v\u025bd\u0292\u026a\u02ccte\u026at\u026av/", "Definition: of or relating to an activity that is passive and monotonous", "Synonyms: vegetive"]}
