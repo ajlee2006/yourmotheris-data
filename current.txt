@@ -1,1 +1,1 @@
-{"data": ["2022-06-19T05:01:25.556770+00:00", 3240, "Your mother is", "halfhearted", "Pronunciation: /\u02c8h\u00e6f\u02c8h\u0251rt\u026ad/", "Definition: feeling or showing little interest or enthusiasm", "Synonyms: half-hearted, lukewarm, tepid"]}
+{"data": ["2022-06-19T06:00:46.042556+00:00", 3241, "Your mother is", "milk-sick", "Similar to: ill", "Definition: affected with or related to milk sickness", ""]}
