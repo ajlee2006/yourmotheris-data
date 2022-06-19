@@ -1,1 +1,1 @@
-{"data": ["2022-06-19T21:01:22.793713+00:00", 3256, "Your mother is", "unforgivable", "Pronunciation: /\u02cc\u0259nf\u0259\u02c8\u0261\u026av\u0259b\u0259l/", "Definition: not excusable", "Synonyms: inexcusable"]}
+{"data": ["2022-06-19T22:01:22.033428+00:00", 3257, "Your mother is", "semitransparent", "Similar to: clear", "Definition: allowing light to pass through diffusely", "Synonyms: translucent"]}
