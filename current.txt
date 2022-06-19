@@ -1,1 +1,1 @@
-{"data": ["2022-06-19T10:00:38.600006+00:00", 3245, "Your mother is", "raving mad", "Similar to: insane", "Definition: talking or behaving irrationally", "Synonyms: wild"]}
+{"data": ["2022-06-19T11:00:41.678360+00:00", 3246, "Your mother is", "deuteranopic", "Pronunciation: /\u02ccdut\u0259r\u0259\u02c8n\u0251p\u026ak/", "Definition: inability to see the color green or to distinguish green and purplish-red", "Synonyms: green-blind"]}
