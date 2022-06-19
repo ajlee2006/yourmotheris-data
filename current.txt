@@ -1,1 +1,1 @@
-{"data": ["2022-06-19T12:01:18.370030+00:00", 3247, "Your mother is", "day-to-day", "Pronunciation: /\u02c8de\u026at\u0259\u02c8de\u026a/", "Definition: of or belonging to or occurring every day", "Synonyms: daily, day-after-day, day-by-day"]}
+{"data": ["2022-06-19T13:00:22.267280+00:00", 3248, "Your mother is", "gawky", "Pronunciation: /\u02c8\u0261\u0254ki/", "Definition: lacking grace in movement or posture", "Synonyms: clumsy, clunky, ungainly, unwieldy"]}
