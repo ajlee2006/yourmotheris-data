@@ -1,1 +1,1 @@
-{"data": ["2022-06-19T17:01:12.661017+00:00", 3252, "Your mother is", "unable", "Pronunciation: /\u0259n\u02c8e\u026ab\u0259l/", "Definition: lacking in power or forcefulness", "Synonyms: ineffective, ineffectual"]}
+{"data": ["2022-06-19T18:00:34.928393+00:00", 3253, "Your mother is", "darkling", "Pronunciation: /\u02c8d\u0251rkl\u026a\u014b/", "Definition: (poetic) occurring in the dark or night", ""]}
