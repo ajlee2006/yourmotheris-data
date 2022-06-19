@@ -1,1 +1,1 @@
-{"data": ["2022-06-19T19:00:36.712284+00:00", 3254, "Your mother is", "inheriting", "Pronunciation: /\u026an\u02c8h\u025br\u028ct\u026a\u014b/", "Definition: having the legal right to inherit", ""]}
+{"data": ["2022-06-19T20:00:25.929903+00:00", 3255, "Your mother is", "annexal", "", "Definition: of or pertaining to adnexa", "Synonyms: adnexal"]}
