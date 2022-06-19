@@ -1,1 +1,1 @@
-{"data": ["2022-06-19T08:01:13.312407+00:00", 3243, "Your mother is", "oversuspicious", "Similar to: distrustful", "Definition: unduly suspicious", ""]}
+{"data": ["2022-06-19T09:00:41.183083+00:00", 3244, "Your mother is", "newsworthy", "Pronunciation: /\u02c8nuz\u02ccw\u025cr\u00f0i/", "Definition: sufficiently interesting to be reported in a newspaper", ""]}
