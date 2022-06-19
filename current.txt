@@ -1,1 +1,1 @@
-{"data": ["2022-06-19T16:00:33.744208+00:00", 3251, "Your mother is", "vegetative", "Pronunciation: /\u02c8v\u025bd\u0292\u026a\u02ccte\u026at\u026av/", "Definition: of or relating to an activity that is passive and monotonous", "Synonyms: vegetive"]}
+{"data": ["2022-06-19T17:01:12.661017+00:00", 3252, "Your mother is", "unable", "Pronunciation: /\u0259n\u02c8e\u026ab\u0259l/", "Definition: lacking in power or forcefulness", "Synonyms: ineffective, ineffectual"]}
