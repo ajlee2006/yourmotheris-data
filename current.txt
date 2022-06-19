@@ -1,1 +1,1 @@
-{"data": ["2022-06-18T23:01:27.836404+00:00", 3234, "Your mother is", "admittable", "Similar to: admissible", "Definition: deserving to be allowed to enter", "Synonyms: admittible"]}
+{"data": ["2022-06-19T00:02:02.958280+00:00", 3235, "Your mother is", "water-washed", "Similar to: clean", "Definition: clean by virtue of having been washed in water", "Synonyms: washed"]}
