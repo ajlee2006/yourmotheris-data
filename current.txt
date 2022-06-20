@@ -1,1 +1,1 @@
-{"data": ["2022-06-20T15:00:45.390270+00:00", 3274, "Your mother is", "pondering", "Pronunciation: /\u02c8p\u0251nd\u025dr\u026a\u014b/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, musing, pensive, reflective, ruminative"]}
+{"data": ["2022-06-20T16:01:08.174321+00:00", 3275, "Your mother is", "globose", "Pronunciation: /\u02c8glo\u028abo\u028as/", "Definition: having the shape of a sphere or ball", "Synonyms: ball-shaped, global, globular, orbicular, spheric, spherical"]}
