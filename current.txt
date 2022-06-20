@@ -1,1 +1,1 @@
-{"data": ["2022-06-20T20:00:54.539065+00:00", 3279, "Your mother is", "longish", "Pronunciation: /\u02c8l\u0254\u014b\u026a\u0283/", "Definition: somewhat long", ""]}
+{"data": ["2022-06-20T21:01:00.189727+00:00", 3280, "Your mother is", "accumulative", "Pronunciation: /\u0259\u02c8kjumj\u0259\u02ccle\u026at\u026av/", "Definition: increasing by successive addition", "Synonyms: cumulative"]}
