@@ -1,1 +1,1 @@
-{"data": ["2022-06-20T16:01:08.174321+00:00", 3275, "Your mother is", "globose", "Pronunciation: /\u02c8glo\u028abo\u028as/", "Definition: having the shape of a sphere or ball", "Synonyms: ball-shaped, global, globular, orbicular, spheric, spherical"]}
+{"data": ["2022-06-20T17:00:38.642450+00:00", 3276, "Your mother is", "motor", "Pronunciation: /\u02c8mo\u028at\u0259r/", "Definition: conveying information to the muscles from the CNS", "Synonyms: centrifugal"]}
