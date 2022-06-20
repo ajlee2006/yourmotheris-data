@@ -1,1 +1,1 @@
-{"data": ["2022-06-19T23:00:17.753182+00:00", 3258, "Your mother is", "soaked", "Pronunciation: /so\u028akt/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soused, sozzled, squiffy, stiff, tight, wet"]}
+{"data": ["2022-06-20T00:01:05.768293+00:00", 3259, "Your mother is", "rescindable", "Similar to: revocable", "Definition: capable of being rescinded or voided", "Synonyms: voidable"]}
