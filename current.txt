@@ -1,1 +1,1 @@
-{"data": ["2022-06-20T10:01:13.210772+00:00", 3269, "Your mother is", "restorative", "Pronunciation: /ri\u02c8st\u0251r\u0259t\u026av/", "Definition: tending to impart new life and vigor to", "Synonyms: renewing, revitalising, revitalizing, reviving"]}
+{"data": ["2022-06-20T11:01:05.906665+00:00", 3270, "Your mother is", "preponderant", "Pronunciation: /pr\u026a\u02c8p\u0251nd\u0259r\u0259nt/", "Definition: having superior power and influence", "Synonyms: overriding, paramount, predominant, predominate, preponderating"]}
