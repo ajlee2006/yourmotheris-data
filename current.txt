@@ -1,1 +1,1 @@
-{"data": ["2022-06-20T03:01:28.787458+00:00", 3262, "Your mother is", "ungraded", "Similar to: unimproved", "Definition: (of roads) not leveled or drained; unsuitable for all year travel", "Synonyms: dirt"]}
+{"data": ["2022-06-20T04:00:47.877029+00:00", 3263, "Your mother is", "qabalistic", "Similar to: esoteric", "Definition: having a secret or hidden meaning", "Synonyms: cabalistic, cryptic, cryptical, kabbalistic, sibylline"]}
