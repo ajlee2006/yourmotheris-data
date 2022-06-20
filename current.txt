@@ -1,1 +1,1 @@
-{"data": ["2022-06-20T13:00:40.552982+00:00", 3272, "Your mother is", "non compos mentis", "Pronunciation: /\u02ccn\u0251n\u02cck\u0251mp\u0259s\u02c8m\u025bnt\u0259s/", "Definition: not of sound mind, memory, or understanding; in law, not competent to go to trial", "Synonyms: of unsound mind"]}
+{"data": ["2022-06-20T14:00:35.638254+00:00", 3273, "Your mother is", "buffeted", "Pronunciation: /b\u028c\u02c8fe\u026ad/", "Definition: pounded or hit repeatedly by storms or adversities", "Synonyms: storm-tossed, tempest-swept, tempest-tossed, tempest-tost"]}
