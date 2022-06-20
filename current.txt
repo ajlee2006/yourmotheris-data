@@ -1,1 +1,1 @@
-{"data": ["2022-06-20T19:00:35.253714+00:00", 3278, "Your mother is", "purposeless", "Pronunciation: /\u02c8p\u025crp\u0259sl\u025bs/", "Definition: serving no useful purpose; having no excuse for being", "Synonyms: otiose, pointless, senseless, superfluous, wasted"]}
+{"data": ["2022-06-20T20:00:54.539065+00:00", 3279, "Your mother is", "longish", "Pronunciation: /\u02c8l\u0254\u014b\u026a\u0283/", "Definition: somewhat long", ""]}
