@@ -1,1 +1,1 @@
-{"data": ["2022-06-20T12:01:42.013001+00:00", 3271, "Your mother is", "city-bred", "Pronunciation: /\u02c8s\u026ati-br\u025bd/", "Definition: being or having the customs or manners or dress of a city person", "Synonyms: citified, city-born, cityfied"]}
+{"data": ["2022-06-20T13:00:40.552982+00:00", 3272, "Your mother is", "non compos mentis", "Pronunciation: /\u02ccn\u0251n\u02cck\u0251mp\u0259s\u02c8m\u025bnt\u0259s/", "Definition: not of sound mind, memory, or understanding; in law, not competent to go to trial", "Synonyms: of unsound mind"]}
