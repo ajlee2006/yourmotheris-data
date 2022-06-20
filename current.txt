@@ -1,1 +1,1 @@
-{"data": ["2022-06-20T17:00:38.642450+00:00", 3276, "Your mother is", "motor", "Pronunciation: /\u02c8mo\u028at\u0259r/", "Definition: conveying information to the muscles from the CNS", "Synonyms: centrifugal"]}
+{"data": ["2022-06-20T18:01:00.287497+00:00", 3277, "Your mother is", "alphabetic", "Pronunciation: /\u02cc\u00e6lf\u0259\u02c8b\u025bt\u026ak/", "Definition: arranged in order according to the alphabet", "Synonyms: alphabetical"]}
