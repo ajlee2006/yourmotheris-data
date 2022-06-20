@@ -1,1 +1,1 @@
-{"data": ["2022-06-20T02:00:40.459677+00:00", 3261, "Your mother is", "eighty-four", "Pronunciation: /\u02c8e\u026ati-fo\u028ar/", "Definition: being four more than eighty", "Synonyms: 84, lxxxiv"]}
+{"data": ["2022-06-20T03:01:28.787458+00:00", 3262, "Your mother is", "ungraded", "Similar to: unimproved", "Definition: (of roads) not leveled or drained; unsuitable for all year travel", "Synonyms: dirt"]}
