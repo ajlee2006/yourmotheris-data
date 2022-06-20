@@ -1,1 +1,1 @@
-{"data": ["2022-06-20T11:01:05.906665+00:00", 3270, "Your mother is", "preponderant", "Pronunciation: /pr\u026a\u02c8p\u0251nd\u0259r\u0259nt/", "Definition: having superior power and influence", "Synonyms: overriding, paramount, predominant, predominate, preponderating"]}
+{"data": ["2022-06-20T12:01:42.013001+00:00", 3271, "Your mother is", "city-bred", "Pronunciation: /\u02c8s\u026ati-br\u025bd/", "Definition: being or having the customs or manners or dress of a city person", "Synonyms: citified, city-born, cityfied"]}
