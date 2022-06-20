@@ -1,1 +1,1 @@
-{"data": ["2022-06-20T21:01:00.189727+00:00", 3280, "Your mother is", "accumulative", "Pronunciation: /\u0259\u02c8kjumj\u0259\u02ccle\u026at\u026av/", "Definition: increasing by successive addition", "Synonyms: cumulative"]}
+{"data": ["2022-06-20T22:00:40.584967+00:00", 3281, "Your mother is", "vocal", "Pronunciation: /\u02c8vo\u028ak\u00e6l/", "Definition: given to expressing yourself freely or insistently", "Synonyms: outspoken"]}
