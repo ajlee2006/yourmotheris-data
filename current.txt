@@ -1,1 +1,1 @@
-{"data": ["2022-06-20T00:01:05.768293+00:00", 3259, "Your mother is", "rescindable", "Similar to: revocable", "Definition: capable of being rescinded or voided", "Synonyms: voidable"]}
+{"data": ["2022-06-20T01:01:42.322099+00:00", 3260, "Your mother is", "disbelieving", "Pronunciation: /d\u026asb\u028c\u02c8liv\u026a\u014b/", "Definition: denying or questioning the tenets of especially a religion", "Synonyms: sceptical, skeptical, unbelieving"]}
