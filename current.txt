@@ -1,1 +1,1 @@
-{"data": ["2022-06-21T10:00:32.766261+00:00", 3292, "Your mother is", "mordant", "Pronunciation: /\u02c8m\u0254rd\u0259nt/", "Definition: of a substance, especially a strong acid; capable of destroying or eating away by chemical action", "Synonyms: caustic, corrosive, erosive, vitriolic"]}
+{"data": ["2022-06-21T11:01:10.731561+00:00", 3293, "Your mother is", "well-chosen", "Pronunciation: /w\u025bl-\u02c8\u02a7o\u028az\u0259n/", "Definition: well expressed and to the point", "Synonyms: happy"]}
