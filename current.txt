@@ -1,1 +1,1 @@
-{"data": ["2022-06-21T12:00:23.483938+00:00", 3294, "Your mother is", "sapient", "Pronunciation: /\u02c8se\u026api\u0259nt/", "Definition: acutely insightful and wise", "Synonyms: perspicacious, sagacious"]}
+{"data": ["2022-06-21T13:00:36.656363+00:00", 3295, "Your mother is", "carbolated", "Pronunciation: /\u02c8k\u0251rb\u0259\u02ccle\u026at\u026ad/", "Definition: containing or treated with carbolic acid", ""]}
