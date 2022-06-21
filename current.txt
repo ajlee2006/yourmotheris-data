@@ -1,1 +1,1 @@
-{"data": ["2022-06-21T09:01:17.469937+00:00", 3291, "Your mother is", "yellow-striped", "Pronunciation: /\u02c8j\u025blo\u028a-stra\u026apt/", "Definition: having yellow stripes", ""]}
+{"data": ["2022-06-21T10:00:32.766261+00:00", 3292, "Your mother is", "mordant", "Pronunciation: /\u02c8m\u0254rd\u0259nt/", "Definition: of a substance, especially a strong acid; capable of destroying or eating away by chemical action", "Synonyms: caustic, corrosive, erosive, vitriolic"]}
