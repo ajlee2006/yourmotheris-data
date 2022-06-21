@@ -1,1 +1,1 @@
-{"data": ["2022-06-21T11:01:10.731561+00:00", 3293, "Your mother is", "well-chosen", "Pronunciation: /w\u025bl-\u02c8\u02a7o\u028az\u0259n/", "Definition: well expressed and to the point", "Synonyms: happy"]}
+{"data": ["2022-06-21T12:00:23.483938+00:00", 3294, "Your mother is", "sapient", "Pronunciation: /\u02c8se\u026api\u0259nt/", "Definition: acutely insightful and wise", "Synonyms: perspicacious, sagacious"]}
