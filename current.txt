@@ -1,1 +1,1 @@
-{"data": ["2022-06-21T22:00:50.672908+00:00", 3304, "Your mother is", "straying", "Pronunciation: /\u02c8stre\u026a\u026a\u014b/", "Definition: unable to find your way", ""]}
+{"data": ["2022-06-21T23:00:52.444126+00:00", 3305, "Your mother is", "slavish", "Pronunciation: /\u02c8sle\u026av\u026a\u0283/", "Definition: abjectly submissive; characteristic of a slave or servant", "Synonyms: submissive, subservient"]}
