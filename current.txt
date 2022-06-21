@@ -1,1 +1,1 @@
-{"data": ["2022-06-21T20:01:28.492103+00:00", 3302, "Your mother is", "glassy", "Pronunciation: /\u02c8gl\u00e6si/", "Definition: (of ceramics) having the surface made shiny and nonporous by fusing a vitreous solution to it", "Synonyms: vitreous, vitrified"]}
+{"data": ["2022-06-21T21:01:22.036045+00:00", 3303, "Your mother is", "misty-eyed", "Similar to: tearful", "Definition: having eyes blurred as with tears", ""]}
