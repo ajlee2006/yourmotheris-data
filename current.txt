@@ -1,1 +1,1 @@
-{"data": ["2022-06-21T04:00:20.576387+00:00", 3287, "Your mother is", "six-pointed", "Pronunciation: /s\u026aks-\u02c8p\u0254\u026ant\u026ad/", "Definition: having six points", ""]}
+{"data": ["2022-06-21T05:01:04.309259+00:00", 3288, "Your mother is", "treeless", "Pronunciation: /\u02c8tril\u028cs/", "Definition: not wooded", "Synonyms: unwooded"]}
