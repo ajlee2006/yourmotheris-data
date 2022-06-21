@@ -1,1 +1,1 @@
-{"data": ["2022-06-21T05:01:04.309259+00:00", 3288, "Your mother is", "treeless", "Pronunciation: /\u02c8tril\u028cs/", "Definition: not wooded", "Synonyms: unwooded"]}
+{"data": ["2022-06-21T06:00:47.719080+00:00", 3289, "Your mother is", "waxen", "Pronunciation: /\u02c8w\u00e6ks\u0259n/", "Definition: made of or covered with wax", "Synonyms: waxy"]}
