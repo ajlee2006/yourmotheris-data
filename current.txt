@@ -1,1 +1,1 @@
-{"data": ["2022-06-21T03:00:23.764381+00:00", 3286, "Your mother is", "bronchitic", "Pronunciation: /br\u0251\u014b\u02c8k\u026at\u026ak/", "Definition: suffering from or prone to bronchitis", ""]}
+{"data": ["2022-06-21T04:00:20.576387+00:00", 3287, "Your mother is", "six-pointed", "Pronunciation: /s\u026aks-\u02c8p\u0254\u026ant\u026ad/", "Definition: having six points", ""]}
