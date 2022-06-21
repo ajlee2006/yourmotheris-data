@@ -1,1 +1,1 @@
-{"data": ["2022-06-21T00:01:09.725728+00:00", 3283, "Your mother is", "popeyed", "Pronunciation: /\u02c8p\u0251p\u02cca\u026ad/", "Definition: with eyes or mouth open in surprise", "Synonyms: goggle-eyed, openmouthed"]}
+{"data": ["2022-06-21T01:01:36.083409+00:00", 3284, "Your mother is", "trackless", "Pronunciation: /\u02c8tr\u00e6kl\u026as/", "Definition: lacking pathways", "Synonyms: pathless, roadless, untracked, untrod, untrodden"]}
