@@ -1,1 +1,1 @@
-{"data": ["2022-06-21T18:01:14.906045+00:00", 3300, "Your mother is", "after-hours", "Similar to: late", "Definition: after closing time especially a legally established closing time", ""]}
+{"data": ["2022-06-21T19:01:02.172915+00:00", 3301, "Your mother is", "amyloid", "Pronunciation: /\u02c8\u00e6m\u0259\u02ccl\u0254\u026ad/", "Definition: resembling starch", "Synonyms: amylaceous, amyloidal, farinaceous, starchlike"]}
