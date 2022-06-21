@@ -1,1 +1,1 @@
-{"data": ["2022-06-21T17:00:14.634287+00:00", 3299, "Your mother is", "symphonious", "Pronunciation: /s\u026am\u02c8fo\u028ani\u0259s/", "Definition: harmonious in sound", "Synonyms: symphonic"]}
+{"data": ["2022-06-21T18:01:14.906045+00:00", 3300, "Your mother is", "after-hours", "Similar to: late", "Definition: after closing time especially a legally established closing time", ""]}
