@@ -1,1 +1,1 @@
-{"data": ["2022-06-20T23:00:39.946824+00:00", 3282, "Your mother is", "orthostatic", "Similar to: erect", "Definition: pertaining to an upright standing posture", ""]}
+{"data": ["2022-06-21T00:01:09.725728+00:00", 3283, "Your mother is", "popeyed", "Pronunciation: /\u02c8p\u0251p\u02cca\u026ad/", "Definition: with eyes or mouth open in surprise", "Synonyms: goggle-eyed, openmouthed"]}
