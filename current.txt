@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T12:00:43.493925+00:00", 3318, "Your mother is", "single-spaced", "Similar to: spaced", "Definition: (of type or print) not having a blank space between lines", ""]}
+{"data": ["2022-06-22T13:01:08.262024+00:00", 3319, "Your mother is", "bone-idle", "Pronunciation: /bo\u028an-\u02c8a\u026ad\u0259l/", "Definition: constitutionally lazy or idle", "Synonyms: bone-lazy"]}
