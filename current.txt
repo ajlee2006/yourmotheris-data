@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T19:01:33.604732+00:00", 3325, "Your mother is", "toffee-nosed", "Pronunciation: /\u02c8t\u0254fi-\u02ccno\u028azd/", "Definition: snobbish; pretentiously superior", ""]}
+{"data": ["2022-06-22T20:00:20.640761+00:00", 3326, "Your mother is", "societal", "Pronunciation: /s\u028c\u02c8sa\u026a\u026at\u028cl/", "Definition: relating to human society and its members", "Synonyms: social"]}
