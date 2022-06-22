@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T21:00:50.925357+00:00", 3327, "Your mother is", "short-term", "Pronunciation: /\u0283\u0254rt-t\u025crm/", "Definition: relating to or extending over a limited period", "Synonyms: short-run"]}
+{"data": ["2022-06-22T22:01:00.322042+00:00", 3328, "Your mother is", "lash-like", "", "Definition: having or resembling a lash or whip (as does a flagellum)", "Synonyms: flagellate, flagellated, whiplike"]}
