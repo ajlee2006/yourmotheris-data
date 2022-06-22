@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T06:01:39.414068+00:00", 3312, "Your mother is", "northwesterly", "Pronunciation: /\u02ccn\u0254r\u03b8\u02c8w\u025bst\u0259rli/", "Definition: coming from the northwest", "Synonyms: northwest"]}
+{"data": ["2022-06-22T07:00:44.140953+00:00", 3313, "Your mother is", "uncaring", "Pronunciation: /\u028cn\u02c8k\u025br\u026a\u014b/", "Definition: lacking affection or warm feeling", "Synonyms: detached, unaffectionate"]}
