@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T00:01:41.017365+00:00", 3306, "Your mother is", "heart-shaped", "Pronunciation: /h\u0251rt-\u0283e\u026apt/", "Definition: (of a leaf) shaped like a heart", "Synonyms: cordate, cordiform"]}
+{"data": ["2022-06-22T01:01:15.647800+00:00", 3307, "Your mother is", "vituperative", "Pronunciation: /\u02ccva\u026a\u02c8tup\u025dr\u028ct\u026av/", "Definition: marked by harshly abusive criticism", "Synonyms: scathing"]}
