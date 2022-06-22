@@ -1,1 +1,1 @@
-{"data": ["2022-06-21T23:00:52.444126+00:00", 3305, "Your mother is", "slavish", "Pronunciation: /\u02c8sle\u026av\u026a\u0283/", "Definition: abjectly submissive; characteristic of a slave or servant", "Synonyms: submissive, subservient"]}
+{"data": ["2022-06-22T00:01:41.017365+00:00", 3306, "Your mother is", "heart-shaped", "Pronunciation: /h\u0251rt-\u0283e\u026apt/", "Definition: (of a leaf) shaped like a heart", "Synonyms: cordate, cordiform"]}
