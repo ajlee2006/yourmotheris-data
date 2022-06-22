@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T05:00:48.799485+00:00", 3311, "Your mother is", "virgin", "Pronunciation: /\u02c8v\u025crd\u0292\u026an/", "Definition: in a state of sexual virginity", "Synonyms: pure, vestal, virginal, virtuous"]}
+{"data": ["2022-06-22T06:01:39.414068+00:00", 3312, "Your mother is", "northwesterly", "Pronunciation: /\u02ccn\u0254r\u03b8\u02c8w\u025bst\u0259rli/", "Definition: coming from the northwest", "Synonyms: northwest"]}
