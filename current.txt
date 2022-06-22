@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T07:00:44.140953+00:00", 3313, "Your mother is", "uncaring", "Pronunciation: /\u028cn\u02c8k\u025br\u026a\u014b/", "Definition: lacking affection or warm feeling", "Synonyms: detached, unaffectionate"]}
+{"data": ["2022-06-22T08:01:36.131761+00:00", 3314, "Your mother is", "neuronal", "", "Definition: of or relating to neurons", "Synonyms: neural, neuronic"]}
