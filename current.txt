@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T17:00:36.758223+00:00", 3323, "Your mother is", "unconquerable", "Pronunciation: /\u0259n\u02c8k\u0251\u014bk\u0259r\u0259b\u0259l/", "Definition: incapable of being surmounted or excelled", "Synonyms: insuperable"]}
+{"data": ["2022-06-22T18:01:02.447052+00:00", 3324, "Your mother is", "aslant", "Pronunciation: /\u0259\u02c8sl\u00e6nt/", "Definition: having an oblique or slanted direction", "Synonyms: aslope, diagonal, slanted, slanting, sloped, sloping"]}
