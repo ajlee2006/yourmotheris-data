@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T11:00:34.705640+00:00", 3317, "Your mother is", "self-aware", "Pronunciation: /s\u025blf-\u0259\u02c8w\u025cr/", "Definition: aware of yourself as an individual or of your own being and actions and thoughts", "Synonyms: self-conscious"]}
+{"data": ["2022-06-22T12:00:43.493925+00:00", 3318, "Your mother is", "single-spaced", "Similar to: spaced", "Definition: (of type or print) not having a blank space between lines", ""]}
