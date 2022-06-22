@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T20:00:20.640761+00:00", 3326, "Your mother is", "societal", "Pronunciation: /s\u028c\u02c8sa\u026a\u026at\u028cl/", "Definition: relating to human society and its members", "Synonyms: social"]}
+{"data": ["2022-06-22T21:00:50.925357+00:00", 3327, "Your mother is", "short-term", "Pronunciation: /\u0283\u0254rt-t\u025crm/", "Definition: relating to or extending over a limited period", "Synonyms: short-run"]}
