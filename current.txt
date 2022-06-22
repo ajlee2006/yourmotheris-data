@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T02:00:54.994401+00:00", 3308, "Your mother is", "glistering", "Similar to: bright", "Definition: having brief brilliant points or flashes of light", "Synonyms: aglitter, coruscant, fulgid, glinting, glittering, glittery, scintillant, scintillating, sparkly"]}
+{"data": ["2022-06-22T03:00:21.483532+00:00", 3309, "Your mother is", "lentissimo", "Pronunciation: /l\u025bn\u02c8t\u026as\u0259\u02ccmo\u028a/", "Definition: (of tempo) very slow", ""]}
