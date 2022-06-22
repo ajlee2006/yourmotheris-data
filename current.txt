@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T10:01:08.806363+00:00", 3316, "Your mother is", "gravimetric", "Pronunciation: /\u02ccgr\u00e6v\u0259\u02c8m\u025btr\u026ak/", "Definition: of or relating to hydrometry", "Synonyms: hydrometric"]}
+{"data": ["2022-06-22T11:00:34.705640+00:00", 3317, "Your mother is", "self-aware", "Pronunciation: /s\u025blf-\u0259\u02c8w\u025cr/", "Definition: aware of yourself as an individual or of your own being and actions and thoughts", "Synonyms: self-conscious"]}
