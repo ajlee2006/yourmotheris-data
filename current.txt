@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T09:00:44.863094+00:00", 3315, "Your mother is", "methodical", "Pronunciation: /m\u0259\u02c8\u03b8\u0251d\u026ak\u0259l/", "Definition: characterized by method and orderliness", ""]}
+{"data": ["2022-06-22T10:01:08.806363+00:00", 3316, "Your mother is", "gravimetric", "Pronunciation: /\u02ccgr\u00e6v\u0259\u02c8m\u025btr\u026ak/", "Definition: of or relating to hydrometry", "Synonyms: hydrometric"]}
