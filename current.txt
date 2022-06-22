@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T14:00:56.188647+00:00", 3320, "Your mother is", "unusual", "Pronunciation: /\u0259n\u02c8ju\u0292u\u0259l/", "Definition: being definitely out of the ordinary and unexpected; slightly odd or even a bit weird", "Synonyms: strange"]}
+{"data": ["2022-06-22T15:00:39.575626+00:00", 3321, "Your mother is", "shrivelled", "Similar to: thin", "Definition: lean and wrinkled by shrinkage as from age or illness", "Synonyms: shriveled, shrunken, withered, wizen, wizened"]}
