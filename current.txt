@@ -1,1 +1,1 @@
-{"data": ["2022-06-23T14:01:01.644751+00:00", 3344, "Your mother is", "cardiorespiratory", "", "Definition: of or pertaining to or affecting both the heart and the lungs and their functions", "Synonyms: cardiopulmonary"]}
+{"data": ["2022-06-23T15:00:17.957830+00:00", 3345, "Your mother is", "slippered", "Similar to: shod", "Definition: shod with slippers", ""]}
