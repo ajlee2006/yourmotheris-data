@@ -1,1 +1,1 @@
-{"data": ["2022-06-23T03:00:59.115137+00:00", 3333, "Your mother is", "apiculate", "Pronunciation: /\u0259\u02c8p\u026akj\u0259l\u026at/", "Definition: (of a leaf shape) having a short sharply pointed tip", ""]}
+{"data": ["2022-06-23T04:01:28.941409+00:00", 3334, "Your mother is", "cluttered", "Pronunciation: /\u02c8kl\u028ct\u025drd/", "Definition: filled or scattered with a disorderly accumulation of objects or rubbish", "Synonyms: littered"]}
