@@ -1,1 +1,1 @@
-{"data": ["2022-06-23T13:01:30.904741+00:00", 3343, "Your mother is", "homosexual", "Pronunciation: /\u02ccho\u028am\u0259\u02c8s\u025bk\u0283u\u0259l/", "Definition: sexually attracted to members of your own sex", ""]}
+{"data": ["2022-06-23T14:01:01.644751+00:00", 3344, "Your mother is", "cardiorespiratory", "", "Definition: of or pertaining to or affecting both the heart and the lungs and their functions", "Synonyms: cardiopulmonary"]}
