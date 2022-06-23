@@ -1,1 +1,1 @@
-{"data": ["2022-06-23T06:00:34.706321+00:00", 3336, "Your mother is", "collegiate", "Pronunciation: /k\u0259\u02c8lid\u0292\u026at/", "Definition: of or resembling or typical of a college or college students", "Synonyms: collegial"]}
+{"data": ["2022-06-23T07:01:01.643799+00:00", 3337, "Your mother is", "logistical", "Pronunciation: /l\u028c\u02c8d\u0292\u026ast\u026ak\u028cl/", "Definition: of or relating to logistics", "Synonyms: logistic"]}
