@@ -1,1 +1,1 @@
-{"data": ["2022-06-23T08:01:32.704132+00:00", 3338, "Your mother is", "champion", "Pronunciation: /\u02c8\u02a7\u00e6mpi\u0259n/", "Definition: holding first place in a contest", "Synonyms: prizewinning"]}
+{"data": ["2022-06-23T09:00:55.776543+00:00", 3339, "Your mother is", "good-humoured", "Pronunciation: /\u0261\u028ad\u02c8hjum\u0259d/", "Definition: disposed to please", "Synonyms: amiable, good-humored"]}
