@@ -1,1 +1,1 @@
-{"data": ["2022-06-22T23:00:16.217120+00:00", 3329, "Your mother is", "harsh", "Pronunciation: /h\u0251r\u0283/", "Definition: unpleasantly stern", "Synonyms: rough"]}
+{"data": ["2022-06-23T00:01:59.929372+00:00", 3330, "Your mother is", "equivalent", "Pronunciation: /\u026a\u02c8kw\u026av\u0259l\u0259nt/", "Definition: being essentially equal to something", "Synonyms: tantamount"]}
