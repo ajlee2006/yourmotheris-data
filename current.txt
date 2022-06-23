@@ -1,1 +1,1 @@
-{"data": ["2022-06-23T07:01:01.643799+00:00", 3337, "Your mother is", "logistical", "Pronunciation: /l\u028c\u02c8d\u0292\u026ast\u026ak\u028cl/", "Definition: of or relating to logistics", "Synonyms: logistic"]}
+{"data": ["2022-06-23T08:01:32.704132+00:00", 3338, "Your mother is", "champion", "Pronunciation: /\u02c8\u02a7\u00e6mpi\u0259n/", "Definition: holding first place in a contest", "Synonyms: prizewinning"]}
