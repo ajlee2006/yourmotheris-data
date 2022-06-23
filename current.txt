@@ -1,1 +1,1 @@
-{"data": ["2022-06-23T17:01:06.247718+00:00", 3347, "Your mother is", "short-nosed", "Similar to: nosed", "Definition: having a blunt nose", "Synonyms: pug-nose, pug-nosed, snub-nosed"]}
+{"data": ["2022-06-23T18:00:10.428056+00:00", 3348, "Your mother is", "sarcastic", "Pronunciation: /s\u0251r\u02c8k\u00e6st\u026ak/", "Definition: expressing or expressive of ridicule that wounds", ""]}
