@@ -1,1 +1,1 @@
-{"data": ["2022-06-23T20:00:50.474878+00:00", 3350, "Your mother is", "glib", "Pronunciation: /gl\u026ab/", "Definition: artfully persuasive in speech", "Synonyms: glib-tongued, smooth-tongued"]}
+{"data": ["2022-06-23T21:00:27.511773+00:00", 3351, "Your mother is", "serious-minded", "Similar to: serious", "Definition: acting with or showing thought and good sense", "Synonyms: thoughtful"]}
