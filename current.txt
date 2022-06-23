@@ -1,1 +1,1 @@
-{"data": ["2022-06-23T04:01:28.941409+00:00", 3334, "Your mother is", "cluttered", "Pronunciation: /\u02c8kl\u028ct\u025drd/", "Definition: filled or scattered with a disorderly accumulation of objects or rubbish", "Synonyms: littered"]}
+{"data": ["2022-06-23T05:00:24.986020+00:00", 3335, "Your mother is", "fried", "Pronunciation: /frid/", "Definition: cooked by frying in fat", "Synonyms: deep-fried"]}
