@@ -1,1 +1,1 @@
-{"data": ["2022-06-23T09:00:55.776543+00:00", 3339, "Your mother is", "good-humoured", "Pronunciation: /\u0261\u028ad\u02c8hjum\u0259d/", "Definition: disposed to please", "Synonyms: amiable, good-humored"]}
+{"data": ["2022-06-23T10:01:00.754713+00:00", 3340, "Your mother is", "underpopulated", "Pronunciation: /\u02cc\u0259nd\u0259\u02c8p\u0251pj\u028a\u02c8le\u026at\u026ad/", "Definition: having a lower population density than normal or desirable", ""]}
