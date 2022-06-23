@@ -1,1 +1,1 @@
-{"data": ["2022-06-23T01:00:34.738667+00:00", 3331, "Your mother is", "half-clothed", "Similar to: unclothed", "Definition: inadequately clothed", "Synonyms: scantily clad, underclothed"]}
+{"data": ["2022-06-23T02:00:44.768881+00:00", 3332, "Your mother is", "bantering", "Pronunciation: /\u02c8b\u00e6nt\u025dr\u026a\u014b/", "Definition: cleverly amusing in tone", "Synonyms: facetious, tongue-in-cheek"]}
