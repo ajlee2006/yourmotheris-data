@@ -1,1 +1,1 @@
-{"data": ["2022-06-23T10:01:00.754713+00:00", 3340, "Your mother is", "underpopulated", "Pronunciation: /\u02cc\u0259nd\u0259\u02c8p\u0251pj\u028a\u02c8le\u026at\u026ad/", "Definition: having a lower population density than normal or desirable", ""]}
+{"data": ["2022-06-23T11:01:32.019230+00:00", 3341, "Your mother is", "mind-blowing", "Pronunciation: /ma\u026and-\u02c8blo\u028a\u026a\u014b/", "Definition: intensely affecting the mind especially in producing hallucinations", "Synonyms: mind-bending"]}
