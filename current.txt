@@ -1,1 +1,1 @@
-{"data": ["2022-06-23T05:00:24.986020+00:00", 3335, "Your mother is", "fried", "Pronunciation: /frid/", "Definition: cooked by frying in fat", "Synonyms: deep-fried"]}
+{"data": ["2022-06-23T06:00:34.706321+00:00", 3336, "Your mother is", "collegiate", "Pronunciation: /k\u0259\u02c8lid\u0292\u026at/", "Definition: of or resembling or typical of a college or college students", "Synonyms: collegial"]}
