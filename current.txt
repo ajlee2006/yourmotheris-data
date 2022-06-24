@@ -1,1 +1,1 @@
-{"data": ["2022-06-24T17:00:29.861835+00:00", 3371, "Your mother is", "overheated", "Pronunciation: /\u02c8o\u028av\u025dr\u02cchit\u026ad/", "Definition: heated beyond a safe or desirable point", ""]}
+{"data": ["2022-06-24T18:00:24.723293+00:00", 3372, "Your mother is", "newborn", "Pronunciation: /\u02c8nub\u0254rn/", "Definition: having just or recently arisen or come into existence", "Synonyms: new-sprung"]}
