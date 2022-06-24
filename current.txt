@@ -1,1 +1,1 @@
-{"data": ["2022-06-24T19:00:46.905111+00:00", 3373, "Your mother is", "fan-shaped", "Pronunciation: /f\u00e6n-\u0283e\u026apt/", "Definition: shaped in the form of a fan", ""]}
+{"data": ["2022-06-24T20:00:35.887877+00:00", 3374, "Your mother is", "32nd", "Similar to: ordinal", "Definition: the ordinal number of thirty-two in counting order", "Synonyms: thirty-second"]}
