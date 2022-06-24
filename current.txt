@@ -1,1 +1,1 @@
-{"data": ["2022-06-24T03:01:41.201375+00:00", 3357, "Your mother is", "competitory", "Pronunciation: /k\u0259m\u02c8p\u025bt\u026a\u02ccto\u028ari/", "Definition: involving competition or competitiveness", "Synonyms: competitive"]}
+{"data": ["2022-06-24T04:00:51.185609+00:00", 3358, "Your mother is", "well-grounded", "Pronunciation: /\u02c8w\u025bl-\u02c8gra\u028and\u026ad/", "Definition: logically valid", "Synonyms: reasoned, sound"]}
