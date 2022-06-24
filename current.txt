@@ -1,1 +1,1 @@
-{"data": ["2022-06-24T13:01:13.073554+00:00", 3367, "Your mother is", "commonplace", "Pronunciation: /\u02c8k\u0251m\u0259n\u02ccple\u026as/", "Definition: not challenging; dull and lacking excitement", "Synonyms: humdrum, prosaic, unglamorous, unglamourous"]}
+{"data": ["2022-06-24T14:01:22.664273+00:00", 3368, "Your mother is", "house-trained", "Similar to: trained", "Definition: (of pets) trained to urinate and defecate outside or in a special place", "Synonyms: housebroken"]}
