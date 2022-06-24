@@ -1,1 +1,1 @@
-{"data": ["2022-06-24T15:01:15.815967+00:00", 3369, "Your mother is", "cattish", "Pronunciation: /\u02c8k\u00e6t\u026a\u0283/", "Definition: marked by or arising from malice", "Synonyms: bitchy, catty"]}
+{"data": ["2022-06-24T16:00:25.364489+00:00", 3370, "Your mother is", "sanctionative", "Pronunciation: /\u02c8s\u00e6\u014bk\u0283\u0259\u02ccne\u026at\u026av/", "Definition: implying sanction or serving to sanction", "Synonyms: sanctioning"]}
