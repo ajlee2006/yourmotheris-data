@@ -1,1 +1,1 @@
-{"data": ["2022-06-24T08:01:11.652968+00:00", 3362, "Your mother is", "downcast", "Pronunciation: /\u02c8da\u028an\u02cck\u00e6st/", "Definition: filled with melancholy and despondency", "Synonyms: blue, depressed, dispirited, down, down in the mouth, downhearted, gloomy, grim, low, low-spirited"]}
+{"data": ["2022-06-24T09:01:32.357467+00:00", 3363, "Your mother is", "fleecy", "Pronunciation: /\u02c8flisi/", "Definition: (of fabrics) having soft nap produced by brushing", "Synonyms: brushed, napped"]}
