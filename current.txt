@@ -1,1 +1,1 @@
-{"data": ["2022-06-24T00:01:41.374882+00:00", 3354, "Your mother is", "devil-may-care", "Pronunciation: /\u02c8d\u025bv\u0259l-me\u026a-\u02c8k\u025cr/", "Definition: cheerfully irresponsible", "Synonyms: carefree, freewheeling, happy-go-lucky, harum-scarum, slaphappy"]}
+{"data": ["2022-06-24T01:01:09.970187+00:00", 3355, "Your mother is", "preferable", "Pronunciation: /\u02c8pr\u025bf\u0259r\u0259b\u0259l/", "Definition: more desirable than another", "Synonyms: preferred"]}
