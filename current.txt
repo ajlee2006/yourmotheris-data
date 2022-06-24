@@ -1,1 +1,1 @@
-{"data": ["2022-06-24T02:01:15.991597+00:00", 3356, "Your mother is", "midwestern", "Pronunciation: /m\u026ad\u02c8w\u025bst\u025drn/", "Definition: of a region of the United States generally including Ohio; Indiana; Illinois; Iowa; Missouri; Kansas; Nebraska; and sometimes Michigan; Wisconsin; Minnesota", ""]}
+{"data": ["2022-06-24T03:01:41.201375+00:00", 3357, "Your mother is", "competitory", "Pronunciation: /k\u0259m\u02c8p\u025bt\u026a\u02ccto\u028ari/", "Definition: involving competition or competitiveness", "Synonyms: competitive"]}
