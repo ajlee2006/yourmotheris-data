@@ -1,1 +1,1 @@
-{"data": ["2022-06-24T16:00:25.364489+00:00", 3370, "Your mother is", "sanctionative", "Pronunciation: /\u02c8s\u00e6\u014bk\u0283\u0259\u02ccne\u026at\u026av/", "Definition: implying sanction or serving to sanction", "Synonyms: sanctioning"]}
+{"data": ["2022-06-24T17:00:29.861835+00:00", 3371, "Your mother is", "overheated", "Pronunciation: /\u02c8o\u028av\u025dr\u02cchit\u026ad/", "Definition: heated beyond a safe or desirable point", ""]}
