@@ -1,1 +1,1 @@
-{"data": ["2022-06-24T01:01:09.970187+00:00", 3355, "Your mother is", "preferable", "Pronunciation: /\u02c8pr\u025bf\u0259r\u0259b\u0259l/", "Definition: more desirable than another", "Synonyms: preferred"]}
+{"data": ["2022-06-24T02:01:15.991597+00:00", 3356, "Your mother is", "midwestern", "Pronunciation: /m\u026ad\u02c8w\u025bst\u025drn/", "Definition: of a region of the United States generally including Ohio; Indiana; Illinois; Iowa; Missouri; Kansas; Nebraska; and sometimes Michigan; Wisconsin; Minnesota", ""]}
