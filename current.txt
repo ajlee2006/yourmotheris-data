@@ -1,1 +1,1 @@
-{"data": ["2022-06-24T12:01:10.068051+00:00", 3366, "Your mother is", "slicked up", "Similar to: tidy", "Definition: having been made especially tidy", ""]}
+{"data": ["2022-06-24T13:01:13.073554+00:00", 3367, "Your mother is", "commonplace", "Pronunciation: /\u02c8k\u0251m\u0259n\u02ccple\u026as/", "Definition: not challenging; dull and lacking excitement", "Synonyms: humdrum, prosaic, unglamorous, unglamourous"]}
