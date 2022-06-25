@@ -1,1 +1,1 @@
-{"data": ["2022-06-25T15:00:37.694323+00:00", 3393, "Your mother is", "thirty-first", "Pronunciation: /\u02c8\u03b8\u025crti-f\u025crst/", "Definition: coming next after the thirtieth in position", "Synonyms: 31st"]}
+{"data": ["2022-06-25T16:00:58.562494+00:00", 3394, "Your mother is", "fungoid", "Pronunciation: /\u02c8f\u0259\u014b\u0261\u0254\u026ad/", "Definition: resembling fungi", "Synonyms: funguslike"]}
