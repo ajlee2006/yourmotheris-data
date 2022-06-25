@@ -1,1 +1,1 @@
-{"data": ["2022-06-25T04:01:16.924925+00:00", 3382, "Your mother is", "truncate", "Pronunciation: /\u02c8tr\u0259\u014b\u02ccke\u026at/", "Definition: terminating abruptly by having or as if having an end or point cut off", "Synonyms: truncated"]}
+{"data": ["2022-06-25T05:01:19.361902+00:00", 3383, "Your mother is", "baffled", "Pronunciation: /\u02c8b\u00e6f\u028cld/", "Definition: perplexed by many conflicting situations or statements; filled with bewilderment", "Synonyms: at sea, befuddled, bemused, bewildered, confounded, confused, lost, mazed, mixed-up"]}
