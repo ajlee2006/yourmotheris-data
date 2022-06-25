@@ -1,1 +1,1 @@
-{"data": ["2022-06-25T18:01:01.856391+00:00", 3396, "Your mother is", "organizational", "Pronunciation: /\u02cc\u0254r\u0261\u028cn\u028c\u02c8ze\u026a\u0283\u028cn\u028cl/", "Definition: of or relating to an organization", "Synonyms: organisational"]}
+{"data": ["2022-06-25T19:00:50.698433+00:00", 3397, "Your mother is", "cruel", "Pronunciation: /\u02c8kru\u0259l/", "Definition: (of persons or their actions) able or disposed to inflict pain or suffering", "Synonyms: barbarous, brutal, fell, roughshod, savage, vicious"]}
