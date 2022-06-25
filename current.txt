@@ -1,1 +1,1 @@
-{"data": ["2022-06-25T21:00:48.166132+00:00", 3399, "Your mother is", "invalidating", "Pronunciation: /\u026an\u02c8v\u00e6l\u028c\u02ccde\u026at\u026a\u014b/", "Definition: establishing as invalid or untrue", "Synonyms: disconfirming"]}
+{"data": ["2022-06-25T22:01:24.417985+00:00", 3400, "Your mother is", "soft-boiled", "Pronunciation: /\u02c8s\u0254ft\u02c8b\u0254\u026ald/", "Definition: easily moved to pity or sorrow", "Synonyms: softhearted"]}
