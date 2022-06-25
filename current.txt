@@ -1,1 +1,1 @@
-{"data": ["2022-06-25T08:00:47.777853+00:00", 3386, "Your mother is", "full-page", "Pronunciation: /f\u028al-pe\u026ad\u0292/", "Definition: occupying an entire page in a book or paper", ""]}
+{"data": ["2022-06-25T09:01:19.064087+00:00", 3387, "Your mother is", "subtropic", "", "Definition: of or relating to or characteristic of conditions in the subtropics", "Synonyms: semitropic, semitropical, subtropical"]}
