@@ -1,1 +1,1 @@
-{"data": ["2022-06-25T19:00:50.698433+00:00", 3397, "Your mother is", "cruel", "Pronunciation: /\u02c8kru\u0259l/", "Definition: (of persons or their actions) able or disposed to inflict pain or suffering", "Synonyms: barbarous, brutal, fell, roughshod, savage, vicious"]}
+{"data": ["2022-06-25T20:01:10.878286+00:00", 3398, "Your mother is", "ill-gotten", "Pronunciation: /\u026al-\u02c8\u0261\u0251t\u0259n/", "Definition: obtained illegally or by improper means", "Synonyms: dirty"]}
