@@ -1,1 +1,1 @@
-{"data": ["2022-06-25T05:01:19.361902+00:00", 3383, "Your mother is", "baffled", "Pronunciation: /\u02c8b\u00e6f\u028cld/", "Definition: perplexed by many conflicting situations or statements; filled with bewilderment", "Synonyms: at sea, befuddled, bemused, bewildered, confounded, confused, lost, mazed, mixed-up"]}
+{"data": ["2022-06-25T06:00:35.328369+00:00", 3384, "Your mother is", "dermatological", "Pronunciation: /\u02ccd\u025crm\u0259\u02c8t\u0259l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to or practicing dermatology", "Synonyms: dermatologic"]}
