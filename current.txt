@@ -1,1 +1,1 @@
-{"data": ["2022-06-25T07:01:31.984293+00:00", 3385, "Your mother is", "labour-intensive", "Similar to: effortful", "Definition: requiring a large expenditure of labor but not much capital", "Synonyms: labor-intensive"]}
+{"data": ["2022-06-25T08:00:47.777853+00:00", 3386, "Your mother is", "full-page", "Pronunciation: /f\u028al-pe\u026ad\u0292/", "Definition: occupying an entire page in a book or paper", ""]}
