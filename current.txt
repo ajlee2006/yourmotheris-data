@@ -1,1 +1,1 @@
-{"data": ["2022-06-25T01:00:31.638818+00:00", 3379, "Your mother is", "upscale", "Pronunciation: /\u02c8\u0259pske\u026al/", "Definition: appropriate for people with good incomes", ""]}
+{"data": ["2022-06-25T02:01:16.514606+00:00", 3380, "Your mother is", "moderate-sized", "Similar to: sized", "Definition: intermediate in size", "Synonyms: medium-size, medium-sized, moderate-size"]}
