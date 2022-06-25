@@ -1,1 +1,1 @@
-{"data": ["2022-06-25T03:01:55.143694+00:00", 3381, "Your mother is", "adducent", "Pronunciation: /\u0259\u02c8dus\u0259nt/", "Definition: especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part", "Synonyms: adducting, adductive"]}
+{"data": ["2022-06-25T04:01:16.924925+00:00", 3382, "Your mother is", "truncate", "Pronunciation: /\u02c8tr\u0259\u014b\u02ccke\u026at/", "Definition: terminating abruptly by having or as if having an end or point cut off", "Synonyms: truncated"]}
