@@ -1,1 +1,1 @@
-{"data": ["2022-06-25T20:01:10.878286+00:00", 3398, "Your mother is", "ill-gotten", "Pronunciation: /\u026al-\u02c8\u0261\u0251t\u0259n/", "Definition: obtained illegally or by improper means", "Synonyms: dirty"]}
+{"data": ["2022-06-25T21:00:48.166132+00:00", 3399, "Your mother is", "invalidating", "Pronunciation: /\u026an\u02c8v\u00e6l\u028c\u02ccde\u026at\u026a\u014b/", "Definition: establishing as invalid or untrue", "Synonyms: disconfirming"]}
