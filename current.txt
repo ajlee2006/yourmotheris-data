@@ -1,1 +1,1 @@
-{"data": ["2022-06-25T16:00:58.562494+00:00", 3394, "Your mother is", "fungoid", "Pronunciation: /\u02c8f\u0259\u014b\u0261\u0254\u026ad/", "Definition: resembling fungi", "Synonyms: funguslike"]}
+{"data": ["2022-06-25T17:00:26.545597+00:00", 3395, "Your mother is", "unshelled", "", "Definition: of animals or fruits that have no shell", "Synonyms: shell-less"]}
