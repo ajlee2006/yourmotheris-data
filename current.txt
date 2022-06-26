@@ -1,1 +1,1 @@
-{"data": ["2022-06-26T10:00:19.427406+00:00", 3412, "Your mother is", "unappealing", "Pronunciation: /\u02cc\u028cn\u028c\u02c8pil\u026a\u014b/", "Definition: (of characters in literature or drama) tending to evoke antipathetic feelings", "Synonyms: unlikable, unlikeable, unsympathetic"]}
+{"data": ["2022-06-26T11:00:17.420535+00:00", 3413, "Your mother is", "textured", "Pronunciation: /\u02c8t\u025bkst\u0283\u025drd/", "Definition: having surface roughness", "Synonyms: coarse-textured, rough-textured"]}
