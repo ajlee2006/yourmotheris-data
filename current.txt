@@ -1,1 +1,1 @@
-{"data": ["2022-06-26T04:00:38.172178+00:00", 3406, "Your mother is", "33rd", "Similar to: ordinal", "Definition: the ordinal number of thirty-three in counting order", "Synonyms: thirty-third"]}
+{"data": ["2022-06-26T05:01:08.672904+00:00", 3407, "Your mother is", "thermosetting", "Pronunciation: /\u02cc\u03b8\u025crmo\u028a\u02c8s\u025bt\u026a\u014b/", "Definition: having the property of becoming permanently hard and rigid when heated or cured", "Synonyms: thermoset"]}
