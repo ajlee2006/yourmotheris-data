@@ -1,1 +1,1 @@
-{"data": ["2022-06-26T00:01:42.956158+00:00", 3402, "Your mother is", "uninterrupted", "Pronunciation: /\u02cc\u0259n\u026ant\u0259\u02c8r\u0259pt\u026ad/", "Definition: continuing in time or space without interruption", "Synonyms: continuous"]}
+{"data": ["2022-06-26T01:00:59.658751+00:00", 3403, "Your mother is", "pound-foolish", "Pronunciation: /\u02c8pa\u028and\u02c8ful\u026a\u0283/", "Definition: unwise in dealing with large sums", ""]}
