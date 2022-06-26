@@ -1,1 +1,1 @@
-{"data": ["2022-06-26T16:00:40.124475+00:00", 3418, "Your mother is", "uncivilized", "Pronunciation: /\u0259n\u02c8s\u026av\u0259la\u026azd/", "Definition: without civilizing influences", "Synonyms: barbarian, barbaric, savage, uncivilised, wild"]}
+{"data": ["2022-06-26T17:00:45.063585+00:00", 3419, "Your mother is", "stay-at-home", "Pronunciation: /ste\u026a-\u00e6t-\u02c8ho\u028am/", "Definition: not given to travel", ""]}
