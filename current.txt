@@ -1,1 +1,1 @@
-{"data": ["2022-06-26T13:00:49.941456+00:00", 3415, "Your mother is", "barred", "Pronunciation: /b\u0251rd/", "Definition: preventing entry or exit or a course of action", "Synonyms: barricaded, blockaded"]}
+{"data": ["2022-06-26T14:01:02.350798+00:00", 3416, "Your mother is", "preternatural", "Pronunciation: /\u02ccprit\u0259r\u02c8n\u00e6\u02a7\u0259r\u0259l/", "Definition: surpassing the ordinary or normal", "Synonyms: uncanny"]}
