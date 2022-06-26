@@ -1,1 +1,1 @@
-{"data": ["2022-06-26T14:01:02.350798+00:00", 3416, "Your mother is", "preternatural", "Pronunciation: /\u02ccprit\u0259r\u02c8n\u00e6\u02a7\u0259r\u0259l/", "Definition: surpassing the ordinary or normal", "Synonyms: uncanny"]}
+{"data": ["2022-06-26T15:01:15.709253+00:00", 3417, "Your mother is", "overriding", "Pronunciation: /\u02cco\u028av\u0259r\u02c8ra\u026ad\u026a\u014b/", "Definition: having superior power and influence", "Synonyms: paramount, predominant, predominate, preponderant, preponderating"]}
