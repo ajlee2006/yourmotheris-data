@@ -1,1 +1,1 @@
-{"data": ["2022-06-25T23:00:14.725540+00:00", 3401, "Your mother is", "conventional", "Pronunciation: /k\u0259n\u02c8v\u025bn\u0283\u0259n\u0259l/", "Definition: represented in simplified or symbolic form", "Synonyms: formal, schematic"]}
+{"data": ["2022-06-26T00:01:42.956158+00:00", 3402, "Your mother is", "uninterrupted", "Pronunciation: /\u02cc\u0259n\u026ant\u0259\u02c8r\u0259pt\u026ad/", "Definition: continuing in time or space without interruption", "Synonyms: continuous"]}
