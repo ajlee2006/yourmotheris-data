@@ -1,1 +1,1 @@
-{"data": ["2022-06-26T17:00:45.063585+00:00", 3419, "Your mother is", "stay-at-home", "Pronunciation: /ste\u026a-\u00e6t-\u02c8ho\u028am/", "Definition: not given to travel", ""]}
+{"data": ["2022-06-26T18:00:40.049452+00:00", 3420, "Your mother is", "sparkling", "Pronunciation: /\u02c8sp\u0251rkl\u026a\u014b/", "Definition: used of wines and waters; charged naturally or artificially with carbon dioxide", "Synonyms: effervescent"]}
