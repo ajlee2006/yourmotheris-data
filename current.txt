@@ -1,1 +1,1 @@
-{"data": ["2022-06-26T20:00:39.421278+00:00", 3422, "Your mother is", "jingly", "Pronunciation: /\u02c8d\u0292\u026a\u014bgli/", "Definition: having a series of high-pitched ringing sounds like many small bells", "Synonyms: jingling"]}
+{"data": ["2022-06-26T21:01:27.255353+00:00", 3423, "Your mother is", "sedgy", "Pronunciation: /\u02c8s\u025bd\u0292i/", "Definition: covered with sedges (grasslike marsh plants)", ""]}
