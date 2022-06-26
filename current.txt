@@ -1,1 +1,1 @@
-{"data": ["2022-06-26T03:00:54.916162+00:00", 3405, "Your mother is", "veracious", "Pronunciation: /v\u0259\u02c8re\u026a\u0283\u0259s/", "Definition: precisely accurate", "Synonyms: right"]}
+{"data": ["2022-06-26T04:00:38.172178+00:00", 3406, "Your mother is", "33rd", "Similar to: ordinal", "Definition: the ordinal number of thirty-three in counting order", "Synonyms: thirty-third"]}
