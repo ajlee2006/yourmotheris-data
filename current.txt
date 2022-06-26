@@ -1,1 +1,1 @@
-{"data": ["2022-06-26T22:00:41.152255+00:00", 3424, "Your mother is", "unweathered", "Similar to: new", "Definition: not worn by exposure to the weather", ""]}
+{"data": ["2022-06-26T23:01:24.001646+00:00", 3425, "Your mother is", "lightly armoured", "Similar to: armored", "Definition: equipped with armor heavy enough to provide protection against fire from light arms", "Synonyms: lightly armored"]}
