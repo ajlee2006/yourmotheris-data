@@ -1,1 +1,1 @@
-{"data": ["2022-06-27T22:00:15.196619+00:00", 3448, "Your mother is", "intramural", "Pronunciation: /\u02cc\u026antr\u0259\u02c8mj\u028ar\u0259l/", "Definition: carried on within the bounds of an institution or community", ""]}
+{"data": ["2022-06-27T23:01:10.357408+00:00", 3449, "Your mother is", "seagirt", "Pronunciation: /\u02c8si\u02cc\u0261\u025crt/", "Definition: surrounded or enclosed by the sea", ""]}
