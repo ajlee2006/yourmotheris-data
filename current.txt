@@ -1,1 +1,1 @@
-{"data": ["2022-06-27T20:00:17.995914+00:00", 3446, "Your mother is", "bribable", "Similar to: corrupt", "Definition: capable of being corrupted", "Synonyms: corruptible, dishonest, purchasable, venal"]}
+{"data": ["2022-06-27T21:00:29.708336+00:00", 3447, "Your mother is", "antiknock", "Pronunciation: /\u02cc\u00e6nti\u02c8n\u0251k/", "Definition: suppressing or eliminating engine knock in combustion engines", "Synonyms: antiknocking"]}
