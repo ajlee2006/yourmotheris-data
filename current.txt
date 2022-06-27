@@ -1,1 +1,1 @@
-{"data": ["2022-06-27T14:00:55.910631+00:00", 3440, "Your mother is", "lordly", "Pronunciation: /\u02c8l\u0254rdli/", "Definition: having or showing arrogant superiority to and disdain of those one views as unworthy", "Synonyms: disdainful, haughty, imperious, overbearing, prideful, sniffy, supercilious, swaggering"]}
+{"data": ["2022-06-27T15:00:14.931754+00:00", 3441, "Your mother is", "foreign-born", "Pronunciation: /\u02c8f\u0254r\u026an-b\u0254rn/", "Definition: of persons born in another area or country than that lived in", "Synonyms: nonnative"]}
