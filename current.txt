@@ -1,1 +1,1 @@
-{"data": ["2022-06-27T17:00:46.780555+00:00", 3443, "Your mother is", "abaxial", "Pronunciation: /\u00e6b\u02c8\u00e6ksi\u0259l/", "Definition: facing away from the axis of an organ or organism", "Synonyms: dorsal"]}
+{"data": ["2022-06-27T18:01:10.219648+00:00", 3444, "Your mother is", "entranced", "Pronunciation: /\u026an\u02c8tr\u00e6nst/", "Definition: filled with wonder and delight", "Synonyms: beguiled, captivated, charmed, delighted, enthralled"]}
