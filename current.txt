@@ -1,1 +1,1 @@
-{"data": ["2022-06-26T23:01:24.001646+00:00", 3425, "Your mother is", "lightly armoured", "Similar to: armored", "Definition: equipped with armor heavy enough to provide protection against fire from light arms", "Synonyms: lightly armored"]}
+{"data": ["2022-06-27T00:01:36.060021+00:00", 3426, "Your mother is", "lawfully-begotten", "Similar to: legitimate", "Definition: born in wedlock; enjoying full filial rights", ""]}
