@@ -1,1 +1,1 @@
-{"data": ["2022-06-27T10:00:51.395358+00:00", 3436, "Your mother is", "corrupt", "Pronunciation: /k\u0259\u02c8r\u0259pt/", "Definition: containing errors or alterations", "Synonyms: corrupted"]}
+{"data": ["2022-06-27T11:00:21.271619+00:00", 3437, "Your mother is", "95", "Similar to: cardinal", "Definition: being five more than ninety", "Synonyms: ninety-five, xcv"]}
