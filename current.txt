@@ -1,1 +1,1 @@
-{"data": ["2022-06-27T09:00:44.744022+00:00", 3435, "Your mother is", "gaelic", "Pronunciation: /\u02c8\u0261e\u026al\u026ak/", "Definition: relating to or characteristic of the Celts", "Synonyms: celtic"]}
+{"data": ["2022-06-27T10:00:51.395358+00:00", 3436, "Your mother is", "corrupt", "Pronunciation: /k\u0259\u02c8r\u0259pt/", "Definition: containing errors or alterations", "Synonyms: corrupted"]}
