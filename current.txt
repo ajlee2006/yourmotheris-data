@@ -1,1 +1,1 @@
-{"data": ["2022-06-27T06:00:18.389060+00:00", 3432, "Your mother is", "temperamental", "Pronunciation: /\u02cct\u025bmpr\u0259\u02c8m\u025bnt\u0259l/", "Definition: likely to perform unpredictably", "Synonyms: erratic"]}
+{"data": ["2022-06-27T07:01:29.406295+00:00", 3433, "Your mother is", "embossed", "Pronunciation: /\u026am\u02c8b\u0254st/", "Definition: embellished with a raised pattern created by pressure or embroidery", "Synonyms: brocaded, raised"]}
