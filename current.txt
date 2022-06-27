@@ -1,1 +1,1 @@
-{"data": ["2022-06-27T00:01:36.060021+00:00", 3426, "Your mother is", "lawfully-begotten", "Similar to: legitimate", "Definition: born in wedlock; enjoying full filial rights", ""]}
+{"data": ["2022-06-27T01:01:11.066701+00:00", 3427, "Your mother is", "periwigged", "Similar to: wigged", "Definition: wearing a wig popular for men in the 17th and 18th centuries", "Synonyms: peruked"]}
