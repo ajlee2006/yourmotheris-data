@@ -1,1 +1,1 @@
-{"data": ["2022-06-27T16:01:19.741126+00:00", 3442, "Your mother is", "velvety-plumaged", "Similar to: feathered", "Definition: plumage resembling velvet", ""]}
+{"data": ["2022-06-27T17:00:46.780555+00:00", 3443, "Your mother is", "abaxial", "Pronunciation: /\u00e6b\u02c8\u00e6ksi\u0259l/", "Definition: facing away from the axis of an organ or organism", "Synonyms: dorsal"]}
