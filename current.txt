@@ -1,1 +1,1 @@
-{"data": ["2022-06-27T15:00:14.931754+00:00", 3441, "Your mother is", "foreign-born", "Pronunciation: /\u02c8f\u0254r\u026an-b\u0254rn/", "Definition: of persons born in another area or country than that lived in", "Synonyms: nonnative"]}
+{"data": ["2022-06-27T16:01:19.741126+00:00", 3442, "Your mother is", "velvety-plumaged", "Similar to: feathered", "Definition: plumage resembling velvet", ""]}
