@@ -1,1 +1,1 @@
-{"data": ["2022-06-27T08:01:21.659477+00:00", 3434, "Your mother is", "wrenching", "Pronunciation: /\u02c8r\u025bnt\u0283\u026a\u014b/", "Definition: causing great physical or mental suffering", "Synonyms: racking"]}
+{"data": ["2022-06-27T09:00:44.744022+00:00", 3435, "Your mother is", "gaelic", "Pronunciation: /\u02c8\u0261e\u026al\u026ak/", "Definition: relating to or characteristic of the Celts", "Synonyms: celtic"]}
