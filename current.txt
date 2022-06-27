@@ -1,1 +1,1 @@
-{"data": ["2022-06-27T05:00:37.037635+00:00", 3431, "Your mother is", "undocumented", "Pronunciation: /\u0259n\u02c8d\u0251kj\u028a\u02ccm\u025bnt\u026ad/", "Definition: lacking necessary documents (as for e.g. permission to live or work in a country)", ""]}
+{"data": ["2022-06-27T06:00:18.389060+00:00", 3432, "Your mother is", "temperamental", "Pronunciation: /\u02cct\u025bmpr\u0259\u02c8m\u025bnt\u0259l/", "Definition: likely to perform unpredictably", "Synonyms: erratic"]}
