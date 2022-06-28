@@ -1,1 +1,1 @@
-{"data": ["2022-06-28T15:00:35.653148+00:00", 3465, "Your mother is", "tightly fitting", "Similar to: tight", "Definition: fitting snugly", "Synonyms: skinny, tight-fitting, tight fitting, tightfitting"]}
+{"data": ["2022-06-28T16:00:35.774385+00:00", 3466, "Your mother is", "duck-billed", "Similar to: beaked", "Definition: having a beak resembling that of a duck", "Synonyms: duckbill"]}
