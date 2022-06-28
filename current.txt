@@ -1,1 +1,1 @@
-{"data": ["2022-06-28T08:01:51.685856+00:00", 3458, "Your mother is", "heuristic", "Pronunciation: /hj\u028a\u02c8r\u026ast\u026ak/", "Definition: of or relating to or using a general formulation that serves to guide investigation", ""]}
+{"data": ["2022-06-28T09:00:26.293764+00:00", 3459, "Your mother is", "collaborative", "Pronunciation: /k\u0259\u02c8l\u00e6b\u0259\u02ccre\u026at\u026av/", "Definition: accomplished by collaboration", ""]}
