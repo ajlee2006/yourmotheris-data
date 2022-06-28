@@ -1,1 +1,1 @@
-{"data": ["2022-06-28T17:01:06.879451+00:00", 3467, "Your mother is", "consolatory", "Pronunciation: /k\u0259n\u02c8s\u0251l\u0259\u02ccto\u028ari/", "Definition: affording comfort or solace", "Synonyms: comforting, consoling"]}
+{"data": ["2022-06-28T18:00:57.980347+00:00", 3468, "Your mother is", "unpolitical", "Pronunciation: /\u02cc\u0259np\u0259\u02c8l\u026at\u026ak\u0259l/", "Definition: politically neutral", "Synonyms: apolitical"]}
