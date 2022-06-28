@@ -1,1 +1,1 @@
-{"data": ["2022-06-28T07:00:54.944133+00:00", 3457, "Your mother is", "spiritualist", "Pronunciation: /\u02c8sp\u026ar\u026a\u02a7u\u0259l\u026ast/", "Definition: of or relating to or connected with spiritualism", "Synonyms: spiritualistic"]}
+{"data": ["2022-06-28T08:01:51.685856+00:00", 3458, "Your mother is", "heuristic", "Pronunciation: /hj\u028a\u02c8r\u026ast\u026ak/", "Definition: of or relating to or using a general formulation that serves to guide investigation", ""]}
