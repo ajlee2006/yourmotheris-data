@@ -1,1 +1,1 @@
-{"data": ["2022-06-27T23:01:10.357408+00:00", 3449, "Your mother is", "seagirt", "Pronunciation: /\u02c8si\u02cc\u0261\u025crt/", "Definition: surrounded or enclosed by the sea", ""]}
+{"data": ["2022-06-28T00:02:03.571184+00:00", 3450, "Your mother is", ".22-calibre", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures twenty-two hundredths of an inch in diameter", "Synonyms: .22-caliber, .22 caliber, .22 calibre"]}
