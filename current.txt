@@ -1,1 +1,1 @@
-{"data": ["2022-06-28T02:00:36.169242+00:00", 3452, "Your mother is", "150th", "Similar to: ordinal", "Definition: the ordinal number of one hundred fifty in counting order", "Synonyms: hundred-and-fiftieth"]}
+{"data": ["2022-06-28T03:00:58.431822+00:00", 3453, "Your mother is", "dissenting", "Pronunciation: /d\u026a\u02c8s\u025bnt\u026a\u014b/", "Definition: disagreeing, especially with a majority", "Synonyms: dissentient, dissident"]}
