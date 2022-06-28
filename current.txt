@@ -1,1 +1,1 @@
-{"data": ["2022-06-28T09:00:26.293764+00:00", 3459, "Your mother is", "collaborative", "Pronunciation: /k\u0259\u02c8l\u00e6b\u0259\u02ccre\u026at\u026av/", "Definition: accomplished by collaboration", ""]}
+{"data": ["2022-06-28T10:01:15.326160+00:00", 3460, "Your mother is", "fantastic", "Pronunciation: /f\u00e6n\u02c8t\u00e6st\u026ak/", "Definition: ludicrously odd", "Synonyms: antic, fantastical, grotesque"]}
