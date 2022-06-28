@@ -1,1 +1,1 @@
-{"data": ["2022-06-28T11:01:17.956741+00:00", 3461, "Your mother is", "mousy", "Pronunciation: /\u02c8ma\u028asi/", "Definition: of something having a drab pale brown color resembling a mouse", "Synonyms: mouse-colored, mouselike, mousey"]}
+{"data": ["2022-06-28T12:00:54.163011+00:00", 3462, "Your mother is", "abscessed", "Similar to: infected", "Definition: infected and filled with pus", ""]}
