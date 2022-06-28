@@ -1,1 +1,1 @@
-{"data": ["2022-06-28T12:00:54.163011+00:00", 3462, "Your mother is", "abscessed", "Similar to: infected", "Definition: infected and filled with pus", ""]}
+{"data": ["2022-06-28T13:00:39.047041+00:00", 3463, "Your mother is", "unpitying", "Pronunciation: /\u0259n\u02c8p\u026at\u026ai\u014b/", "Definition: without mercy or pity", "Synonyms: pitiless, remorseless, ruthless"]}
