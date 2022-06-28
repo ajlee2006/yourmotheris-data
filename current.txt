@@ -1,1 +1,1 @@
-{"data": ["2022-06-28T06:00:52.785521+00:00", 3456, "Your mother is", "biologic", "Pronunciation: /\u02ccba\u026a\u028c\u02c8l\u0251d\u0292\u026ak/", "Definition: pertaining to biology or to life and living things", "Synonyms: biological"]}
+{"data": ["2022-06-28T07:00:54.944133+00:00", 3457, "Your mother is", "spiritualist", "Pronunciation: /\u02c8sp\u026ar\u026a\u02a7u\u0259l\u026ast/", "Definition: of or relating to or connected with spiritualism", "Synonyms: spiritualistic"]}
