@@ -1,1 +1,1 @@
-{"data": ["2022-06-28T21:00:57.026578+00:00", 3471, "Your mother is", "cased", "Similar to: sheathed", "Definition: covered or protected with or as if with a case", "Synonyms: encased, incased"]}
+{"data": ["2022-06-28T22:01:26.355939+00:00", 3472, "Your mother is", "mnemotechnic", "", "Definition: of or relating to or involved the practice of aiding the memory", "Synonyms: mnemonic, mnemotechnical"]}
