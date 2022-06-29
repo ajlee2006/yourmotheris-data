@@ -1,1 +1,1 @@
-{"data": ["2022-06-29T19:00:41.572323+00:00", 3493, "Your mother is", "sharpened", "Pronunciation: /\u02c8\u0283\u0251rp\u028cnd/", "Definition: having the point made sharp", ""]}
+{"data": ["2022-06-29T20:01:04.574701+00:00", 3494, "Your mother is", "savage", "Pronunciation: /\u02c8s\u00e6v\u026ad\u0292/", "Definition: without civilizing influences", "Synonyms: barbarian, barbaric, uncivilised, uncivilized, wild"]}
