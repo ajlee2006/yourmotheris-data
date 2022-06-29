@@ -1,1 +1,1 @@
-{"data": ["2022-06-29T14:01:05.674165+00:00", 3488, "Your mother is", "unannounced", "Pronunciation: /\u02cc\u0259n\u0259\u02c8n\u00e6\u028anst/", "Definition: without warning or announcement", "Synonyms: unheralded, unpredicted"]}
+{"data": ["2022-06-29T15:00:37.097220+00:00", 3489, "Your mother is", "faultless", "Pronunciation: /\u02c8f\u0254ltl\u026as/", "Definition: without fault or error", "Synonyms: immaculate, impeccable, incorrupted"]}
