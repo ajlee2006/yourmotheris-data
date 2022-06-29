@@ -1,1 +1,1 @@
-{"data": ["2022-06-29T13:00:41.975064+00:00", 3487, "Your mother is", "ailing", "Pronunciation: /\u02c8e\u026al\u026a\u014b/", "Definition: somewhat ill or prone to illness", "Synonyms: indisposed, peaked, poorly, seedy, sickly, under the weather, unwell"]}
+{"data": ["2022-06-29T14:01:05.674165+00:00", 3488, "Your mother is", "unannounced", "Pronunciation: /\u02cc\u0259n\u0259\u02c8n\u00e6\u028anst/", "Definition: without warning or announcement", "Synonyms: unheralded, unpredicted"]}
