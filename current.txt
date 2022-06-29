@@ -1,1 +1,1 @@
-{"data": ["2022-06-29T11:01:28.261205+00:00", 3485, "Your mother is", "panegyric", "Pronunciation: /\u02ccp\u00e6n\u026a\u02c8d\u0292\u026ar\u026ak/", "Definition: formally expressing praise", "Synonyms: encomiastic, eulogistic, panegyrical"]}
+{"data": ["2022-06-29T12:00:52.435173+00:00", 3486, "Your mother is", "circumboreal", "Similar to: northern", "Definition: comprising or throughout far northern regions", "Synonyms: boreal"]}
