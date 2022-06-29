@@ -1,1 +1,1 @@
-{"data": ["2022-06-29T22:01:01.034886+00:00", 3496, "Your mother is", "untufted", "Similar to: unadorned", "Definition: not adorned with tufts", ""]}
+{"data": ["2022-06-29T23:00:39.759514+00:00", 3497, "Your mother is", "anthropomorphic", "Pronunciation: /\u02cc\u00e6n\u03b8r\u0259p\u0259\u02c8m\u0254rf\u026ak/", "Definition: suggesting human characteristics for animals or inanimate things", "Synonyms: anthropomorphous, humanlike"]}
