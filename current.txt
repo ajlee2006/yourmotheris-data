@@ -1,1 +1,1 @@
-{"data": ["2022-06-29T18:01:16.105573+00:00", 3492, "Your mother is", "fastigiate", "Pronunciation: /f\u00e6\u02c8st\u026ad\u0292i\u026at/", "Definition: having clusters of erect branches (often appearing to form a single column)", ""]}
+{"data": ["2022-06-29T19:00:41.572323+00:00", 3493, "Your mother is", "sharpened", "Pronunciation: /\u02c8\u0283\u0251rp\u028cnd/", "Definition: having the point made sharp", ""]}
