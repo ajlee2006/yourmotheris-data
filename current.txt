@@ -1,1 +1,1 @@
-{"data": ["2022-06-29T20:01:04.574701+00:00", 3494, "Your mother is", "savage", "Pronunciation: /\u02c8s\u00e6v\u026ad\u0292/", "Definition: without civilizing influences", "Synonyms: barbarian, barbaric, uncivilised, uncivilized, wild"]}
+{"data": ["2022-06-29T21:00:12.817501+00:00", 3495, "Your mother is", "telltale", "Pronunciation: /\u02c8t\u025bl\u02ccte\u026al/", "Definition: disclosing unintentionally something concealed", "Synonyms: revealing, telling"]}
