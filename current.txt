@@ -1,1 +1,1 @@
-{"data": ["2022-06-29T09:01:22.223075+00:00", 3483, "Your mother is", "well-meaning", "Pronunciation: /w\u025bl-\u02c8min\u026a\u014b/", "Definition: not unfriendly or threatening", "Synonyms: unthreatening"]}
+{"data": ["2022-06-29T10:00:27.143214+00:00", 3484, "Your mother is", "dumbfounded", "Pronunciation: /\u02c8d\u028cmfa\u028and\u026ad/", "Definition: as if struck dumb with astonishment and surprise", "Synonyms: dumbstricken, dumbstruck, dumfounded, flabbergasted, stupefied, thunderstruck"]}
