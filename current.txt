@@ -1,1 +1,1 @@
-{"data": ["2022-06-29T00:01:26.890934+00:00", 3474, "Your mother is", "anaglyptical", "", "Definition: related to anaglyphs or anaglyphy", "Synonyms: anaglyphic, anaglyphical, anaglyptic"]}
+{"data": ["2022-06-29T01:00:37.812064+00:00", 3475, "Your mother is", "mothproof", "Pronunciation: /\u02c8m\u0251\u03b8pruf/", "Definition: resistant to damage by moths", "Synonyms: moth-resistant"]}
