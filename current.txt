@@ -1,1 +1,1 @@
-{"data": ["2022-06-29T03:00:43.716657+00:00", 3477, "Your mother is", "puzzled", "Pronunciation: /\u02c8p\u028cz\u028cld/", "Definition: filled with bewilderment", "Synonyms: at a loss, nonplused, nonplussed"]}
+{"data": ["2022-06-29T04:00:41.666745+00:00", 3478, "Your mother is", "analyzable", "Pronunciation: /\u02c8\u00e6n\u028c\u02ccla\u026az\u028cb\u028cl/", "Definition: capable of being partitioned", "Synonyms: decomposable"]}
