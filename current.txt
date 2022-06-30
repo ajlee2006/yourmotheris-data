@@ -1,1 +1,1 @@
-{"data": ["2022-06-30T04:00:57.182444+00:00", 3502, "Your mother is", "enlivened", "Pronunciation: /\u025bn\u02c8la\u026av\u028cnd/", "Definition: made lively or spirited", "Synonyms: spirited"]}
+{"data": ["2022-06-30T05:00:56.123076+00:00", 3503, "Your mother is", "afeard", "Pronunciation: /\u0259\u02c8fird/", "Definition: a pronunciation of afraid", "Synonyms: afeared"]}
