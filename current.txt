@@ -1,1 +1,1 @@
-{"data": ["2022-06-30T16:01:01.531307+00:00", 3514, "Your mother is", "nonliterate", "Similar to: noncivilised", "Definition: used of a society that has not developed writing", "Synonyms: preliterate"]}
+{"data": ["2022-06-30T17:01:10.081964+00:00", 3515, "Your mother is", "nonelective", "Similar to: appointed", "Definition: filled by appointment rather than by election", "Synonyms: non-elective, nonelected"]}
