@@ -1,1 +1,1 @@
-{"data": ["2022-06-30T11:00:57.296844+00:00", 3509, "Your mother is", "burnished", "Pronunciation: /\u02c8b\u025drn\u026a\u0283t/", "Definition: made smooth and bright by or as if by rubbing; reflecting a sheen or glow", "Synonyms: bright, lustrous, shining, shiny"]}
+{"data": ["2022-06-30T12:00:59.603328+00:00", 3510, "Your mother is", "at variance", "Similar to: discordant", "Definition: not in accord", "Synonyms: discrepant, dissonant"]}
