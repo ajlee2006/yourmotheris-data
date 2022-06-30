@@ -1,1 +1,1 @@
-{"data": ["2022-06-29T23:00:39.759514+00:00", 3497, "Your mother is", "anthropomorphic", "Pronunciation: /\u02cc\u00e6n\u03b8r\u0259p\u0259\u02c8m\u0254rf\u026ak/", "Definition: suggesting human characteristics for animals or inanimate things", "Synonyms: anthropomorphous, humanlike"]}
+{"data": ["2022-06-30T00:10:39.064002+00:00", 3498, "Your mother is", "unified", "Pronunciation: /\u02c8jun\u028c\u02ccfa\u026ad/", "Definition: formed or united into a whole", "Synonyms: incorporate, incorporated, integrated, merged"]}
