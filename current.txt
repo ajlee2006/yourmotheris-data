@@ -1,1 +1,1 @@
-{"data": ["2022-06-30T07:01:32.461588+00:00", 3505, "Your mother is", "double-barreled", "Pronunciation: /\u02c8d\u0259b\u0259l-\u02c8b\u00e6r\u0259ld/", "Definition: having two purposes; twofold", "Synonyms: double-barrelled"]}
+{"data": ["2022-06-30T08:00:38.822961+00:00", 3506, "Your mother is", "high-velocity", "Similar to: fast", "Definition: operating at high speed", "Synonyms: high-speed"]}
