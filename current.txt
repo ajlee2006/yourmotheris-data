@@ -1,1 +1,1 @@
-{"data": ["2022-06-30T00:10:39.064002+00:00", 3498, "Your mother is", "unified", "Pronunciation: /\u02c8jun\u028c\u02ccfa\u026ad/", "Definition: formed or united into a whole", "Synonyms: incorporate, incorporated, integrated, merged"]}
+{"data": ["2022-06-30T01:01:45.621031+00:00", 3499, "Your mother is", "statesmanly", "", "Definition: marked by the qualities of or befitting a statesman", "Synonyms: statesmanlike"]}
