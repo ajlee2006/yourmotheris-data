@@ -1,1 +1,1 @@
-{"data": ["2022-06-30T14:00:42.291646+00:00", 3512, "Your mother is", "exclusive", "Pronunciation: /\u026ak\u02c8sklus\u026av/", "Definition: not divided or shared with others", "Synonyms: sole"]}
+{"data": ["2022-06-30T15:00:35.358831+00:00", 3513, "Your mother is", "overshot", "Pronunciation: /\u02c8o\u028av\u025dr\u02cc\u0283\u0251t/", "Definition: having an upper part projecting beyond the lower", ""]}
