@@ -1,1 +1,1 @@
-{"data": ["2022-06-30T06:01:00.695823+00:00", 3504, "Your mother is", "uncaring", "Pronunciation: /\u028cn\u02c8k\u025br\u026a\u014b/", "Definition: lacking affection or warm feeling", "Synonyms: detached, unaffectionate"]}
+{"data": ["2022-06-30T07:01:32.461588+00:00", 3505, "Your mother is", "double-barreled", "Pronunciation: /\u02c8d\u0259b\u0259l-\u02c8b\u00e6r\u0259ld/", "Definition: having two purposes; twofold", "Synonyms: double-barrelled"]}
