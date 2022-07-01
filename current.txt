@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T00:09:18.123063+00:00", 3522, "Your mother is", "emboldened", "Pronunciation: /\u025bm\u02c8bo\u028ald\u028cnd/", "Definition: made bold or courageous", ""]}
+{"data": ["2022-07-01T01:00:43.280817+00:00", 3523, "Your mother is", "bigoted", "Pronunciation: /\u02c8b\u026a\u0261\u0259t\u026ad/", "Definition: blindly and obstinately attached to some creed or opinion and intolerant toward others", ""]}
