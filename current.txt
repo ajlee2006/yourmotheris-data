@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T07:00:48.939995+00:00", 3529, "Your mother is", "unreleased", "Pronunciation: /\u028cnr\u026a\u02c8list/", "Definition: not (or not yet) made available for distribution or publication", ""]}
+{"data": ["2022-07-01T08:00:53.754821+00:00", 3530, "Your mother is", "recurvate", "Pronunciation: /r\u026a\u02c8k\u025crv\u026at/", "Definition: curved backward or inward", "Synonyms: recurved"]}
