@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T20:00:11.604029+00:00", 3542, "Your mother is", "irrepressible", "Pronunciation: /\u02cc\u026ar\u026a\u02c8pr\u025bs\u0259b\u0259l/", "Definition: impossible to repress or control", "Synonyms: uncontrollable"]}
+{"data": ["2022-07-01T21:00:49.681809+00:00", 3543, "Your mother is", "unsegmented", "Similar to: united", "Definition: having a body that is not divided into segments", "Synonyms: nonsegmental"]}
