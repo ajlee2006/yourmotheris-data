@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T14:01:11.007521+00:00", 3536, "Your mother is", "florid", "Pronunciation: /\u02c8fl\u0254r\u026ad/", "Definition: elaborately or excessively ornamented", "Synonyms: aureate, flamboyant"]}
+{"data": ["2022-07-01T15:00:27.859150+00:00", 3537, "Your mother is", "planar", "Pronunciation: /\u02c8ple\u026an\u0259r/", "Definition: involving or having two dimensions", "Synonyms: two-dimensional"]}
