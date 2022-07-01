@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T02:01:08.279114+00:00", 3524, "Your mother is", "leafless", "Pronunciation: /\u02c8lifl\u026as/", "Definition: having no leaves", ""]}
+{"data": ["2022-07-01T03:01:25.872999+00:00", 3525, "Your mother is", "probationary", "Pronunciation: /pro\u028a\u02c8be\u026a\u0283\u028cn\u02cc\u025bri/", "Definition: under terms not final or fully worked out or agreed upon", "Synonyms: provisional, provisionary, tentative"]}
