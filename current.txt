@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T01:00:43.280817+00:00", 3523, "Your mother is", "bigoted", "Pronunciation: /\u02c8b\u026a\u0261\u0259t\u026ad/", "Definition: blindly and obstinately attached to some creed or opinion and intolerant toward others", ""]}
+{"data": ["2022-07-01T02:01:08.279114+00:00", 3524, "Your mother is", "leafless", "Pronunciation: /\u02c8lifl\u026as/", "Definition: having no leaves", ""]}
