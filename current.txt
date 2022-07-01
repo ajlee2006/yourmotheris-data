@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T11:00:35.163333+00:00", 3533, "Your mother is", "clean-shaven", "Pronunciation: /\u02c8klin\u02c8\u0283e\u026av\u0259n/", "Definition: closely shaved recently", "Synonyms: smooth-shaven, well-shaven"]}
+{"data": ["2022-07-01T12:00:47.947812+00:00", 3534, "Your mother is", "apraxic", "Similar to: unfit", "Definition: having uncoordinated muscular movements, symptomatic of a CNS disorder", "Synonyms: apractic"]}
