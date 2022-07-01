@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T12:00:47.947812+00:00", 3534, "Your mother is", "apraxic", "Similar to: unfit", "Definition: having uncoordinated muscular movements, symptomatic of a CNS disorder", "Synonyms: apractic"]}
+{"data": ["2022-07-01T13:01:02.212135+00:00", 3535, "Your mother is", "turbulent", "Pronunciation: /\u02c8t\u025crbj\u0259l\u0259nt/", "Definition: characterized by unrest or disorder or insubordination", "Synonyms: disruptive, riotous, troubled, tumultuous"]}
