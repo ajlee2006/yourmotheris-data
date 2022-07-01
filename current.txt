@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T04:00:55.734398+00:00", 3526, "Your mother is", "accidental", "Pronunciation: /\u02cc\u00e6ks\u026a\u02c8d\u025bnt\u0259l/", "Definition: happening by chance or unexpectedly or unintentionally", "Synonyms: inadvertent"]}
+{"data": ["2022-07-01T05:00:43.760474+00:00", 3527, "Your mother is", "pseudohermaphrodite", "Pronunciation: /\u02ccsudo\u028ah\u025cr\u02c8m\u00e6fr\u0259\u02ccda\u026at/", "Definition: having internal reproductive organs of one sex and external sexual characteristics of the other sex", "Synonyms: pseudohermaphroditic"]}
