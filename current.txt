@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T09:00:21.612723+00:00", 3531, "Your mother is", "crimson", "Pronunciation: /\u02c8kr\u026amz\u0259n/", "Definition: characterized by violence or bloodshed", "Synonyms: red, violent"]}
+{"data": ["2022-07-01T10:00:35.233016+00:00", 3532, "Your mother is", "cooccurring", "Similar to: synchronal", "Definition: occurring or operating at the same time", "Synonyms: co-occurrent, coincident, coincidental, coinciding, concurrent, simultaneous"]}
