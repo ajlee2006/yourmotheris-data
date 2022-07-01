@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T03:01:25.872999+00:00", 3525, "Your mother is", "probationary", "Pronunciation: /pro\u028a\u02c8be\u026a\u0283\u028cn\u02cc\u025bri/", "Definition: under terms not final or fully worked out or agreed upon", "Synonyms: provisional, provisionary, tentative"]}
+{"data": ["2022-07-01T04:00:55.734398+00:00", 3526, "Your mother is", "accidental", "Pronunciation: /\u02cc\u00e6ks\u026a\u02c8d\u025bnt\u0259l/", "Definition: happening by chance or unexpectedly or unintentionally", "Synonyms: inadvertent"]}
