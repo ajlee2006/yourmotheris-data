@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T06:00:31.193408+00:00", 3528, "Your mother is", "broadleaf", "Pronunciation: /\u02c8br\u0254d\u02cclif/", "Definition: having relatively broad rather than needlelike or scalelike leaves", "Synonyms: broad-leafed, broad-leaved"]}
+{"data": ["2022-07-01T07:00:48.939995+00:00", 3529, "Your mother is", "unreleased", "Pronunciation: /\u028cnr\u026a\u02c8list/", "Definition: not (or not yet) made available for distribution or publication", ""]}
