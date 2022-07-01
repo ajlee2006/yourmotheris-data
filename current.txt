@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T19:00:50.667723+00:00", 3541, "Your mother is", "unsalted", "Pronunciation: /\u0259n\u02c8s\u0251lt\u026ad/", "Definition: without salt or seasoning", "Synonyms: unseasoned"]}
+{"data": ["2022-07-01T20:00:11.604029+00:00", 3542, "Your mother is", "irrepressible", "Pronunciation: /\u02cc\u026ar\u026a\u02c8pr\u025bs\u0259b\u0259l/", "Definition: impossible to repress or control", "Synonyms: uncontrollable"]}
