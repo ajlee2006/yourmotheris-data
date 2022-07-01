@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T18:01:03.848070+00:00", 3540, "Your mother is", "driven", "Pronunciation: /\u02c8dr\u026av\u0259n/", "Definition: urged or forced to action through moral pressure", "Synonyms: impelled"]}
+{"data": ["2022-07-01T19:00:50.667723+00:00", 3541, "Your mother is", "unsalted", "Pronunciation: /\u0259n\u02c8s\u0251lt\u026ad/", "Definition: without salt or seasoning", "Synonyms: unseasoned"]}
