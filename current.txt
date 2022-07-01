@@ -1,1 +1,1 @@
-{"data": ["2022-06-30T23:01:09.305711+00:00", 3521, "Your mother is", "deformed", "Pronunciation: /d\u026a\u02c8f\u0254rmd/", "Definition: so badly formed or out of shape as to be ugly", "Synonyms: distorted, ill-shapen, malformed, misshapen"]}
+{"data": ["2022-07-01T00:09:18.123063+00:00", 3522, "Your mother is", "emboldened", "Pronunciation: /\u025bm\u02c8bo\u028ald\u028cnd/", "Definition: made bold or courageous", ""]}
