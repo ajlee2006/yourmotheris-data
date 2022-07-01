@@ -1,1 +1,1 @@
-{"data": ["2022-07-01T10:00:35.233016+00:00", 3532, "Your mother is", "cooccurring", "Similar to: synchronal", "Definition: occurring or operating at the same time", "Synonyms: co-occurrent, coincident, coincidental, coinciding, concurrent, simultaneous"]}
+{"data": ["2022-07-01T11:00:35.163333+00:00", 3533, "Your mother is", "clean-shaven", "Pronunciation: /\u02c8klin\u02c8\u0283e\u026av\u0259n/", "Definition: closely shaved recently", "Synonyms: smooth-shaven, well-shaven"]}
