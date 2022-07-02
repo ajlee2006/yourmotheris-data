@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T05:00:57.819566+00:00", 3551, "Your mother is", "adherent", "Pronunciation: /\u00e6d\u02c8hir\u0259nt/", "Definition: sticking fast", ""]}
+{"data": ["2022-07-02T06:00:54.351009+00:00", 3552, "Your mother is", "undividable", "Similar to: indivisible", "Definition: cannot be divided without leaving a remainder", "Synonyms: indivisible by"]}
