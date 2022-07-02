@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T19:00:44.908530+00:00", 3565, "Your mother is", "raising", "Pronunciation: /\u02c8re\u026az\u026a\u014b/", "Definition: increasing in quantity or value", ""]}
+{"data": ["2022-07-02T20:01:14.964410+00:00", 3566, "Your mother is", "inefficient", "Pronunciation: /\u02cc\u026an\u026a\u02c8f\u026a\u0283\u0259nt/", "Definition: lacking the ability or skill to perform effectively; inadequate", "Synonyms: ineffective"]}
