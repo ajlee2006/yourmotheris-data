@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T08:00:32.462142+00:00", 3554, "Your mother is", "pearly-white", "Pronunciation: /\u02c8p\u025crli-hwa\u026at/", "Definition: of a white the color of pearls", "Synonyms: pearly"]}
+{"data": ["2022-07-02T09:01:32.970117+00:00", 3555, "Your mother is", "smooth-shelled", "Similar to: shelled", "Definition: having a smooth shell", ""]}
