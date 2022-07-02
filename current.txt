@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T18:00:50.853047+00:00", 3564, "Your mother is", "mechanistic", "Pronunciation: /\u02ccm\u025bk\u0259\u02c8n\u026ast\u026ak/", "Definition: explained in terms of physical forces", ""]}
+{"data": ["2022-07-02T19:00:44.908530+00:00", 3565, "Your mother is", "raising", "Pronunciation: /\u02c8re\u026az\u026a\u014b/", "Definition: increasing in quantity or value", ""]}
