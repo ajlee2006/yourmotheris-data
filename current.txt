@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T15:00:48.071206+00:00", 3561, "Your mother is", "unworried", "Pronunciation: /\u0259n\u02c8w\u0259rid/", "Definition: free of trouble and worry and care", "Synonyms: carefree"]}
+{"data": ["2022-07-02T16:00:38.347636+00:00", 3562, "Your mother is", "pictured", "Pronunciation: /\u02c8p\u026akt\u0283\u025drd/", "Definition: represented graphically by sketch or design or lines", "Synonyms: depicted, portrayed"]}
