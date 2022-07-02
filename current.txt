@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T14:00:16.332963+00:00", 3560, "Your mother is", "off-line", "Pronunciation: /\u0254f-la\u026an/", "Definition: not connected to a computer network", ""]}
+{"data": ["2022-07-02T15:00:48.071206+00:00", 3561, "Your mother is", "unworried", "Pronunciation: /\u0259n\u02c8w\u0259rid/", "Definition: free of trouble and worry and care", "Synonyms: carefree"]}
