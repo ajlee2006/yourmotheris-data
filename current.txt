@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T17:00:46.267546+00:00", 3563, "Your mother is", "unexampled", "Pronunciation: /\u02cc\u0259n\u026a\u0261\u02c8z\u0251mp\u0259ld/", "Definition: having no previous example or precedent or parallel", "Synonyms: new"]}
+{"data": ["2022-07-02T18:00:50.853047+00:00", 3564, "Your mother is", "mechanistic", "Pronunciation: /\u02ccm\u025bk\u0259\u02c8n\u026ast\u026ak/", "Definition: explained in terms of physical forces", ""]}
