@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T01:00:59.077786+00:00", 3547, "Your mother is", "sororal", "", "Definition: like or characteristic of or befitting a sister", "Synonyms: sisterlike, sisterly"]}
+{"data": ["2022-07-02T02:00:43.832552+00:00", 3548, "Your mother is", "genitive", "Pronunciation: /\u02c8d\u0292\u025bn\u026at\u026av/", "Definition: serving to express or indicate possession", "Synonyms: possessive"]}
