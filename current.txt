@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T10:00:44.732419+00:00", 3556, "Your mother is", "gimcrack", "Pronunciation: /\u02c8d\u0292\u026am\u02cckr\u00e6k/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, loud, meretricious, tacky, tatty, tawdry, trashy"]}
+{"data": ["2022-07-02T11:01:01.836781+00:00", 3557, "Your mother is", "popeyed", "Pronunciation: /\u02c8p\u0251p\u02cca\u026ad/", "Definition: with eyes or mouth open in surprise", "Synonyms: goggle-eyed, openmouthed"]}
