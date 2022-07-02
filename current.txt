@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T09:01:32.970117+00:00", 3555, "Your mother is", "smooth-shelled", "Similar to: shelled", "Definition: having a smooth shell", ""]}
+{"data": ["2022-07-02T10:00:44.732419+00:00", 3556, "Your mother is", "gimcrack", "Pronunciation: /\u02c8d\u0292\u026am\u02cckr\u00e6k/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, loud, meretricious, tacky, tatty, tawdry, trashy"]}
