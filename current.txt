@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T03:01:46.850137+00:00", 3549, "Your mother is", "rainy", "Pronunciation: /\u02c8re\u026ani/", "Definition: (of weather) wet by periods of rain", "Synonyms: showery"]}
+{"data": ["2022-07-02T04:01:12.439193+00:00", 3550, "Your mother is", "unfledged", "Pronunciation: /\u0259n\u02c8fl\u025bd\u0292d/", "Definition: (of birds) not yet having developed feathers", "Synonyms: immature"]}
