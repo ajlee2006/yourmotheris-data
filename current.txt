@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T02:00:43.832552+00:00", 3548, "Your mother is", "genitive", "Pronunciation: /\u02c8d\u0292\u025bn\u026at\u026av/", "Definition: serving to express or indicate possession", "Synonyms: possessive"]}
+{"data": ["2022-07-02T03:01:46.850137+00:00", 3549, "Your mother is", "rainy", "Pronunciation: /\u02c8re\u026ani/", "Definition: (of weather) wet by periods of rain", "Synonyms: showery"]}
