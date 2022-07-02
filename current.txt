@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T04:01:12.439193+00:00", 3550, "Your mother is", "unfledged", "Pronunciation: /\u0259n\u02c8fl\u025bd\u0292d/", "Definition: (of birds) not yet having developed feathers", "Synonyms: immature"]}
+{"data": ["2022-07-02T05:00:57.819566+00:00", 3551, "Your mother is", "adherent", "Pronunciation: /\u00e6d\u02c8hir\u0259nt/", "Definition: sticking fast", ""]}
