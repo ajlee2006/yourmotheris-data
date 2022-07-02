@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T13:00:34.966900+00:00", 3559, "Your mother is", "heightening", "Pronunciation: /\u02c8ha\u026at\u028cn\u026a\u014b/", "Definition: reaching a higher intensity", ""]}
+{"data": ["2022-07-02T14:00:16.332963+00:00", 3560, "Your mother is", "off-line", "Pronunciation: /\u0254f-la\u026an/", "Definition: not connected to a computer network", ""]}
