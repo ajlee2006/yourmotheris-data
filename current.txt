@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T04:01:03.037094+00:00", 3574, "Your mother is", "in use", "Similar to: occupied", "Definition: (of facilities such as telephones or lavatories) unavailable for use by anyone else or indicating unavailability; (`engaged' is a British term for a busy telephone line)", "Synonyms: busy, engaged"]}
+{"data": ["2022-07-03T05:00:31.024453+00:00", 3575, "Your mother is", "outside", "Pronunciation: /\u02c8a\u028atsa\u026ad/", "Definition: from or between other countries", "Synonyms: external, international"]}
