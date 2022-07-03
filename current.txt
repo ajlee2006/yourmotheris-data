@@ -1,1 +1,1 @@
-{"data": ["2022-07-02T23:01:00.671196+00:00", 3569, "Your mother is", "dissentient", "Pronunciation: /d\u026a\u02c8s\u025bn\u0283\u0259nt/", "Definition: disagreeing, especially with a majority", "Synonyms: dissenting, dissident"]}
+{"data": ["2022-07-03T00:05:52.515430+00:00", 3570, "Your mother is", "awninged", "Similar to: covered", "Definition: covered with an awning", ""]}
