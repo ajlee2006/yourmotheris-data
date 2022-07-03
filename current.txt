@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T08:00:59.545852+00:00", 3578, "Your mother is", "ungarmented", "Similar to: unclothed", "Definition: having removed clothing", "Synonyms: unappareled, unattired, unclad, undressed, ungarbed"]}
+{"data": ["2022-07-03T09:01:29.453033+00:00", 3579, "Your mother is", "mesonic", "", "Definition: of or pertaining to a meson", "Synonyms: mesic"]}
