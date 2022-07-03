@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T01:01:14.816014+00:00", 3571, "Your mother is", "windswept", "Pronunciation: /\u02c8w\u026andsw\u025bpt/", "Definition: open to or swept by wind", ""]}
+{"data": ["2022-07-03T02:01:01.300506+00:00", 3572, "Your mother is", "androgenetic", "", "Definition: of or related to androgenesis", "Synonyms: androgenous"]}
