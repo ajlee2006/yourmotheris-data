@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T05:00:31.024453+00:00", 3575, "Your mother is", "outside", "Pronunciation: /\u02c8a\u028atsa\u026ad/", "Definition: from or between other countries", "Synonyms: external, international"]}
+{"data": ["2022-07-03T06:01:29.451217+00:00", 3576, "Your mother is", "nugatory", "Pronunciation: /\u02c8nu\u0261\u0259\u02ccto\u028ari/", "Definition: of no real value", ""]}
