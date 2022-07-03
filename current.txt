@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T15:00:59.512122+00:00", 3585, "Your mother is", "touchy", "Pronunciation: /\u02c8t\u0259\u02a7i/", "Definition: difficult to handle; requiring great tact", "Synonyms: delicate, ticklish"]}
+{"data": ["2022-07-03T16:01:10.351492+00:00", 3586, "Your mother is", "mass-produced", "Similar to: factory-made", "Definition: produced in quantity often by assembly-line techniques", ""]}
