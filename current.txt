@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T19:01:03.557059+00:00", 3589, "Your mother is", "blotto", "Pronunciation: /\u02c8bl\u0251to\u028a/", "Definition: very drunk", "Synonyms: besotted, blind drunk, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
+{"data": ["2022-07-03T20:00:37.786227+00:00", 3590, "Your mother is", "inharmonic", "Pronunciation: /\u02cc\u026anh\u0251r\u02c8m\u0251n\u026ak/", "Definition: lacking in harmony", "Synonyms: discordant, disharmonious, dissonant"]}
