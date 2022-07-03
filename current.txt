@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T10:01:17.502608+00:00", 3580, "Your mother is", "legible", "Pronunciation: /\u02c8l\u025bd\u0292\u0259b\u0259l/", "Definition: (of handwriting, print, etc.) capable of being read or deciphered", ""]}
+{"data": ["2022-07-03T11:01:27.073304+00:00", 3581, "Your mother is", "one-to-one", "Pronunciation: /\u02c8w\u0259nt\u0259-\u02c8w\u0259n/", "Definition: used of relations such that each member of one set is associated with one member of a second set", ""]}
