@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T02:01:01.300506+00:00", 3572, "Your mother is", "androgenetic", "", "Definition: of or related to androgenesis", "Synonyms: androgenous"]}
+{"data": ["2022-07-03T03:01:33.008759+00:00", 3573, "Your mother is", "married", "Pronunciation: /\u02c8m\u00e6rid/", "Definition: of or relating to the state of marriage", "Synonyms: marital, matrimonial"]}
