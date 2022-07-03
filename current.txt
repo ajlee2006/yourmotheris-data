@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T00:05:52.515430+00:00", 3570, "Your mother is", "awninged", "Similar to: covered", "Definition: covered with an awning", ""]}
+{"data": ["2022-07-03T01:01:14.816014+00:00", 3571, "Your mother is", "windswept", "Pronunciation: /\u02c8w\u026andsw\u025bpt/", "Definition: open to or swept by wind", ""]}
