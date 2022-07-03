@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T12:01:16.531803+00:00", 3582, "Your mother is", "ungrateful", "Pronunciation: /\u0259n\u02c8gre\u026atf\u0259l/", "Definition: not feeling or showing gratitude", "Synonyms: thankless, unthankful"]}
+{"data": ["2022-07-03T13:00:45.802598+00:00", 3583, "Your mother is", "infeasible", "Pronunciation: /\u026an\u02c8fiz\u0259b\u0259l/", "Definition: not capable of being carried out or put into practice", "Synonyms: impracticable, unfeasible, unworkable"]}
