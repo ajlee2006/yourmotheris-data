@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T20:00:37.786227+00:00", 3590, "Your mother is", "inharmonic", "Pronunciation: /\u02cc\u026anh\u0251r\u02c8m\u0251n\u026ak/", "Definition: lacking in harmony", "Synonyms: discordant, disharmonious, dissonant"]}
+{"data": ["2022-07-03T21:00:40.446565+00:00", 3591, "Your mother is", "titillated", "Pronunciation: /\u02c8t\u026at\u028c\u02ccle\u026at\u026ad/", "Definition: feeling mild pleasurable excitement", "Synonyms: teased"]}
