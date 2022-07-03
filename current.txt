@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T14:01:23.026612+00:00", 3584, "Your mother is", "shod", "Pronunciation: /\u0283\u0251d/", "Definition: used of certain religious orders who wear shoes", "Synonyms: calced"]}
+{"data": ["2022-07-03T15:00:59.512122+00:00", 3585, "Your mother is", "touchy", "Pronunciation: /\u02c8t\u0259\u02a7i/", "Definition: difficult to handle; requiring great tact", "Synonyms: delicate, ticklish"]}
