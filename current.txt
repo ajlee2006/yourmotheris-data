@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T11:01:27.073304+00:00", 3581, "Your mother is", "one-to-one", "Pronunciation: /\u02c8w\u0259nt\u0259-\u02c8w\u0259n/", "Definition: used of relations such that each member of one set is associated with one member of a second set", ""]}
+{"data": ["2022-07-03T12:01:16.531803+00:00", 3582, "Your mother is", "ungrateful", "Pronunciation: /\u0259n\u02c8gre\u026atf\u0259l/", "Definition: not feeling or showing gratitude", "Synonyms: thankless, unthankful"]}
