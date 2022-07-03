@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T13:00:45.802598+00:00", 3583, "Your mother is", "infeasible", "Pronunciation: /\u026an\u02c8fiz\u0259b\u0259l/", "Definition: not capable of being carried out or put into practice", "Synonyms: impracticable, unfeasible, unworkable"]}
+{"data": ["2022-07-03T14:01:23.026612+00:00", 3584, "Your mother is", "shod", "Pronunciation: /\u0283\u0251d/", "Definition: used of certain religious orders who wear shoes", "Synonyms: calced"]}
