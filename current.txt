@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T03:00:32.732996+00:00", 3597, "Your mother is", "uncharted", "Pronunciation: /\u0259n\u02c8\u02a7\u0251rt\u026ad/", "Definition: (of unknown regions) not yet surveyed or investigated", "Synonyms: chartless, unmapped"]}
+{"data": ["2022-07-04T04:00:29.826828+00:00", 3598, "Your mother is", "tiring", "Pronunciation: /\u02c8ta\u026ar\u026a\u014b/", "Definition: producing exhaustion", "Synonyms: exhausting, wearing, wearying"]}
