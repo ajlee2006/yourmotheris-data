@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T08:01:26.518720+00:00", 3602, "Your mother is", "smooth-faced", "Pronunciation: /\u02c8smu\u00f0\u02c8fe\u026ast/", "Definition: lacking hair on the face", "Synonyms: beardless"]}
+{"data": ["2022-07-04T09:01:23.048798+00:00", 3603, "Your mother is", "deterrent", "Pronunciation: /d\u026a\u02c8t\u025cr\u0259nt/", "Definition: tending to deter", ""]}
