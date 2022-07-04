@@ -1,1 +1,1 @@
-{"data": ["2022-07-03T23:00:25.857643+00:00", 3593, "Your mother is", "crying", "Pronunciation: /\u02c8kra\u026a\u026a\u014b/", "Definition: demanding attention", "Synonyms: clamant, exigent, insistent, instant"]}
+{"data": ["2022-07-04T00:01:26.823910+00:00", 3594, "Your mother is", "chequered", "Pronunciation: /\u02c8\u02a7\u025bk\u0259rd/", "Definition: patterned with alternating squares of color", "Synonyms: checked, checkered"]}
