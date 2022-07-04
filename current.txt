@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T07:01:00.957064+00:00", 3601, "Your mother is", "large-cap", "", "Definition: of stocks of companies with a market capitalization of five billion dollars or more", "Synonyms: large-capitalisation, large-capitalization"]}
+{"data": ["2022-07-04T08:01:26.518720+00:00", 3602, "Your mother is", "smooth-faced", "Pronunciation: /\u02c8smu\u00f0\u02c8fe\u026ast/", "Definition: lacking hair on the face", "Synonyms: beardless"]}
