@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T09:01:23.048798+00:00", 3603, "Your mother is", "deterrent", "Pronunciation: /d\u026a\u02c8t\u025cr\u0259nt/", "Definition: tending to deter", ""]}
+{"data": ["2022-07-04T10:01:10.277238+00:00", 3604, "Your mother is", "living", "Pronunciation: /\u02c8l\u026av\u026a\u014b/", "Definition: still in existence", "Synonyms: surviving"]}
