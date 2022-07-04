@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T06:01:07.626206+00:00", 3600, "Your mother is", "well-dressed", "Pronunciation: /\u02c8w\u025bl-\u02c8dr\u025bst/", "Definition: having tasteful clothing and being scrupulously neat", "Synonyms: well-groomed"]}
+{"data": ["2022-07-04T07:01:00.957064+00:00", 3601, "Your mother is", "large-cap", "", "Definition: of stocks of companies with a market capitalization of five billion dollars or more", "Synonyms: large-capitalisation, large-capitalization"]}
