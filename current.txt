@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T21:01:25.815466+00:00", 3615, "Your mother is", "optimal", "Pronunciation: /\u02c8\u0251pt\u0259m\u0259l/", "Definition: most desirable possible under a restriction expressed or implied", "Synonyms: optimum"]}
+{"data": ["2022-07-04T22:00:54.159051+00:00", 3616, "Your mother is", "yankee", "Pronunciation: /\u02c8j\u00e6\u014bki/", "Definition: used by Southerners for an inhabitant of a northern state in the United States (especially a Union soldier)", ""]}
