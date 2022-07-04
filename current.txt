@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T12:01:12.691776+00:00", 3606, "Your mother is", "gratulatory", "Pronunciation: /\u02c8gr\u00e6tj\u028al\u0259t\u0259ri/", "Definition: expressive of sympathetic pleasure or joy on account of someone's success or good fortune", "Synonyms: congratulatory"]}
+{"data": ["2022-07-04T13:01:28.017351+00:00", 3607, "Your mother is", "untravelled", "Pronunciation: /\u0259n\u02c8tr\u00e6v\u0259ld/", "Definition: not having traveled much, especially to foreign lands; not having gained experience by travel", "Synonyms: untraveled"]}
