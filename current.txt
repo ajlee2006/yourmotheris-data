@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T22:00:54.159051+00:00", 3616, "Your mother is", "yankee", "Pronunciation: /\u02c8j\u00e6\u014bki/", "Definition: used by Southerners for an inhabitant of a northern state in the United States (especially a Union soldier)", ""]}
+{"data": ["2022-07-04T23:01:22.886738+00:00", 3617, "Your mother is", "east pakistani", "", "Definition: of or relating to or characteristic of Bangladesh or its people or language", "Synonyms: bangladeshi"]}
