@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T11:00:46.649009+00:00", 3605, "Your mother is", "procaryotic", "", "Definition: having cells that lack membrane-bound nuclei", "Synonyms: prokaryotic"]}
+{"data": ["2022-07-04T12:01:12.691776+00:00", 3606, "Your mother is", "gratulatory", "Pronunciation: /\u02c8gr\u00e6tj\u028al\u0259t\u0259ri/", "Definition: expressive of sympathetic pleasure or joy on account of someone's success or good fortune", "Synonyms: congratulatory"]}
