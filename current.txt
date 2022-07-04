@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T18:01:11.464554+00:00", 3612, "Your mother is", "highland", "Pronunciation: /\u02c8ha\u026al\u0259nd/", "Definition: used of high or hilly country", "Synonyms: upland"]}
+{"data": ["2022-07-04T19:00:30.814117+00:00", 3613, "Your mother is", "maternalistic", "Similar to: maternal", "Definition: showing maternal instincts", ""]}
