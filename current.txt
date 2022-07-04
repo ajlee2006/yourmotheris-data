@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T05:01:29.605902+00:00", 3599, "Your mother is", "noxious", "Pronunciation: /\u02c8n\u0251k\u0283\u0259s/", "Definition: injurious to physical or mental health", ""]}
+{"data": ["2022-07-04T06:01:07.626206+00:00", 3600, "Your mother is", "well-dressed", "Pronunciation: /\u02c8w\u025bl-\u02c8dr\u025bst/", "Definition: having tasteful clothing and being scrupulously neat", "Synonyms: well-groomed"]}
