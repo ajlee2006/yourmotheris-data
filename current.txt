@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T17:00:14.754482+00:00", 3611, "Your mother is", "stuffed", "Pronunciation: /st\u028cft/", "Definition: crammed with food", ""]}
+{"data": ["2022-07-04T18:01:11.464554+00:00", 3612, "Your mother is", "highland", "Pronunciation: /\u02c8ha\u026al\u0259nd/", "Definition: used of high or hilly country", "Synonyms: upland"]}
