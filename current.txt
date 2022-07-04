@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T10:01:10.277238+00:00", 3604, "Your mother is", "living", "Pronunciation: /\u02c8l\u026av\u026a\u014b/", "Definition: still in existence", "Synonyms: surviving"]}
+{"data": ["2022-07-04T11:00:46.649009+00:00", 3605, "Your mother is", "procaryotic", "", "Definition: having cells that lack membrane-bound nuclei", "Synonyms: prokaryotic"]}
