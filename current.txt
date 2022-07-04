@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T14:00:36.082398+00:00", 3608, "Your mother is", "penniless", "Pronunciation: /\u02c8p\u025bnil\u026as/", "Definition: not having enough money to pay for necessities", "Synonyms: hard up, impecunious, in straitened circumstances, penurious, pinched"]}
+{"data": ["2022-07-04T15:00:41.652036+00:00", 3609, "Your mother is", "ideational", "Pronunciation: /\u02cca\u026adi\u02c8e\u026a\u0283\u0259n\u0259l/", "Definition: being of the nature of a notion or concept", "Synonyms: conceptional, notional"]}
