@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T04:00:29.826828+00:00", 3598, "Your mother is", "tiring", "Pronunciation: /\u02c8ta\u026ar\u026a\u014b/", "Definition: producing exhaustion", "Synonyms: exhausting, wearing, wearying"]}
+{"data": ["2022-07-04T05:01:29.605902+00:00", 3599, "Your mother is", "noxious", "Pronunciation: /\u02c8n\u0251k\u0283\u0259s/", "Definition: injurious to physical or mental health", ""]}
