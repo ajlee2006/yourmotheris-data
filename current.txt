@@ -1,1 +1,1 @@
-{"data": ["2022-07-04T20:01:23.045058+00:00", 3614, "Your mother is", "undreamt of", "Similar to: incredible", "Definition: not imagined even in a dream", "Synonyms: undreamed, undreamed of, undreamt, unimagined"]}
+{"data": ["2022-07-04T21:01:25.815466+00:00", 3615, "Your mother is", "optimal", "Pronunciation: /\u02c8\u0251pt\u0259m\u0259l/", "Definition: most desirable possible under a restriction expressed or implied", "Synonyms: optimum"]}
