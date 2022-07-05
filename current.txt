@@ -1,1 +1,1 @@
-{"data": ["2022-07-05T15:00:13.804116+00:00", 3633, "Your mother is", "twenty-one", "Pronunciation: /\u02c8tw\u025bnti-\u02c8w\u0259n/", "Definition: being one more than twenty", "Synonyms: 21, xxi"]}
+{"data": ["2022-07-05T16:01:13.593494+00:00", 3634, "Your mother is", "nonmedicinal", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: unmedical, unmedicative, unmedicinal"]}
