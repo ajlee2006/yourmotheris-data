@@ -1,1 +1,1 @@
-{"data": ["2022-07-05T04:00:33.524439+00:00", 3622, "Your mother is", "curly-grained", "Similar to: uneven", "Definition: of timber; having fibers running irregularly rather than in parallel", "Synonyms: cross-grained, wavy-grained"]}
+{"data": ["2022-07-05T05:01:31.279518+00:00", 3623, "Your mother is", "dormie", "Pronunciation: /\u02c8d\u0254rmi/", "Definition: in match play a side that stands as many holes ahead as there are holes remaining to be played", "Synonyms: dormy"]}
