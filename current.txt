@@ -1,1 +1,1 @@
-{"data": ["2022-07-05T12:00:45.363918+00:00", 3630, "Your mother is", "ungarbed", "Similar to: unclothed", "Definition: having removed clothing", "Synonyms: unappareled, unattired, unclad, undressed, ungarmented"]}
+{"data": ["2022-07-05T13:00:40.562002+00:00", 3631, "Your mother is", "steamed", "Pronunciation: /stimd/", "Definition: aroused to impatience or anger", "Synonyms: annoyed, irritated, miffed, nettled, peeved, pissed, pissed off, riled, roiled, stung"]}
