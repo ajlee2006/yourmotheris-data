@@ -1,1 +1,1 @@
-{"data": ["2022-07-05T08:01:07.458499+00:00", 3626, "Your mother is", "genovese", "Pronunciation: /\u02ccd\u0292\u025bn\u0259\u02c8viz/", "Definition: of or relating to or characteristic of Genoa or its inhabitants", "Synonyms: genoese"]}
+{"data": ["2022-07-05T09:00:39.085975+00:00", 3627, "Your mother is", "panhellenic", "Pronunciation: /\u02ccp\u00e6nh\u0259\u02c8l\u025bn\u026ak/", "Definition: of or relating to all the Greeks", "Synonyms: pan-hellenic"]}
