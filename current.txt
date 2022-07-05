@@ -1,1 +1,1 @@
-{"data": ["2022-07-05T09:00:39.085975+00:00", 3627, "Your mother is", "panhellenic", "Pronunciation: /\u02ccp\u00e6nh\u0259\u02c8l\u025bn\u026ak/", "Definition: of or relating to all the Greeks", "Synonyms: pan-hellenic"]}
+{"data": ["2022-07-05T10:00:45.789578+00:00", 3628, "Your mother is", "carnassial", "Pronunciation: /k\u0251r\u02c8n\u00e6si\u0259l/", "Definition: (of a tooth) adapted for shearing flesh", ""]}
