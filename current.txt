@@ -1,1 +1,1 @@
-{"data": ["2022-07-05T16:01:13.593494+00:00", 3634, "Your mother is", "nonmedicinal", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: unmedical, unmedicative, unmedicinal"]}
+{"data": ["2022-07-05T17:01:23.724474+00:00", 3635, "Your mother is", ".45 calibre", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures forty-five hundredths of an inch in diameter", "Synonyms: .45-caliber, .45-calibre, .45 caliber"]}
