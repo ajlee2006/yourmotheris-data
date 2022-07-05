@@ -1,1 +1,1 @@
-{"data": ["2022-07-05T21:01:06.401943+00:00", 3639, "Your mother is", "addable", "Similar to: additive", "Definition: capable of being added or added to", "Synonyms: addible"]}
+{"data": ["2022-07-05T22:00:45.677414+00:00", 3640, "Your mother is", "rusted", "Pronunciation: /\u02c8r\u028cst\u028cd/", "Definition: having accumulated rust", ""]}
