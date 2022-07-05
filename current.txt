@@ -1,1 +1,1 @@
-{"data": ["2022-07-05T01:00:40.772964+00:00", 3619, "Your mother is", "five-pointed", "Pronunciation: /fa\u026av-\u02c8p\u0254\u026ant\u026ad/", "Definition: having five points", ""]}
+{"data": ["2022-07-05T02:01:03.351273+00:00", 3620, "Your mother is", "conscienceless", "Similar to: unconscientious", "Definition: lacking a conscience", "Synonyms: unconscionable"]}
