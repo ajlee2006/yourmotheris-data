@@ -1,1 +1,1 @@
-{"data": ["2022-07-05T20:00:55.973547+00:00", 3638, "Your mother is", "opponent", "Pronunciation: /\u0259\u02c8po\u028an\u0259nt/", "Definition: characterized by active hostility", "Synonyms: opposing"]}
+{"data": ["2022-07-05T21:01:06.401943+00:00", 3639, "Your mother is", "addable", "Similar to: additive", "Definition: capable of being added or added to", "Synonyms: addible"]}
