@@ -1,1 +1,1 @@
-{"data": ["2022-07-05T22:00:45.677414+00:00", 3640, "Your mother is", "rusted", "Pronunciation: /\u02c8r\u028cst\u028cd/", "Definition: having accumulated rust", ""]}
+{"data": ["2022-07-05T23:01:10.932415+00:00", 3641, "Your mother is", "topographic", "Pronunciation: /\u02cct\u0251p\u0259\u02c8gr\u00e6f\u026ak/", "Definition: concerned with topography", "Synonyms: topographical"]}
