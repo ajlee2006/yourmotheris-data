@@ -1,1 +1,1 @@
-{"data": ["2022-07-05T03:00:51.637849+00:00", 3621, "Your mother is", "counterfeit", "Pronunciation: /\u02c8ka\u028ant\u0259rf\u026at/", "Definition: not genuine; imitating something superior", "Synonyms: imitative"]}
+{"data": ["2022-07-05T04:00:33.524439+00:00", 3622, "Your mother is", "curly-grained", "Similar to: uneven", "Definition: of timber; having fibers running irregularly rather than in parallel", "Synonyms: cross-grained, wavy-grained"]}
