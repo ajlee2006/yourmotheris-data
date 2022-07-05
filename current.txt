@@ -1,1 +1,1 @@
-{"data": ["2022-07-05T07:01:29.475912+00:00", 3625, "Your mother is", "prone", "Pronunciation: /pro\u028an/", "Definition: lying face downward", "Synonyms: prostrate"]}
+{"data": ["2022-07-05T08:01:07.458499+00:00", 3626, "Your mother is", "genovese", "Pronunciation: /\u02ccd\u0292\u025bn\u0259\u02c8viz/", "Definition: of or relating to or characteristic of Genoa or its inhabitants", "Synonyms: genoese"]}
