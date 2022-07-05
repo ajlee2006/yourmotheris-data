@@ -1,1 +1,1 @@
-{"data": ["2022-07-05T17:01:23.724474+00:00", 3635, "Your mother is", ".45 calibre", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures forty-five hundredths of an inch in diameter", "Synonyms: .45-caliber, .45-calibre, .45 caliber"]}
+{"data": ["2022-07-05T18:00:37.148637+00:00", 3636, "Your mother is", "data-based", "Similar to: empiric", "Definition: relying on observation or experiment", "Synonyms: experimental, observational"]}
