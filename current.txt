@@ -1,1 +1,1 @@
-{"data": ["2022-07-06T08:00:48.656177+00:00", 3650, "Your mother is", "man-to-man", "Pronunciation: /\u02c8m\u00e6nt\u0259\u02c8m\u00e6n/", "Definition: being a system of play in which an individual defensive player guards an individual offensive player", "Synonyms: one-on-one"]}
+{"data": ["2022-07-06T09:01:01.931502+00:00", 3651, "Your mother is", "subsequent", "Pronunciation: /\u02c8s\u0259b\u02ccsikw\u0259nt/", "Definition: following in time or order", ""]}
