@@ -1,1 +1,1 @@
-{"data": ["2022-07-06T05:00:25.397374+00:00", 3647, "Your mother is", "soft-spoken", "Pronunciation: /\u02c8s\u0254ft\u02c8spo\u028ak\u0259n/", "Definition: having a speaking manner that is not loud or harsh", ""]}
+{"data": ["2022-07-06T06:00:42.506518+00:00", 3648, "Your mother is", "callipygous", "Pronunciation: /\u02cck\u00e6l\u0259\u02c8pa\u026a\u0261\u0259s/", "Definition: pertaining to or having finely developed buttocks", "Synonyms: callipygian"]}
