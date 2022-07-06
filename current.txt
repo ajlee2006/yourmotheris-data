@@ -1,1 +1,1 @@
-{"data": ["2022-07-06T12:01:00.164837+00:00", 3654, "Your mother is", "uneatable", "Pronunciation: /\u0259n\u02c8it\u0259b\u0259l/", "Definition: not suitable for food", "Synonyms: inedible"]}
+{"data": ["2022-07-06T13:01:33.180108+00:00", 3655, "Your mother is", "fiber-optic", "", "Definition: of or relating to fiber optics", "Synonyms: fiberoptic, fibre-optic, fibreoptic"]}
