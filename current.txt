@@ -1,1 +1,1 @@
-{"data": ["2022-07-06T02:00:39.186977+00:00", 3644, "Your mother is", "woozy", "Pronunciation: /\u02c8wuzi/", "Definition: having or causing a whirling sensation; liable to falling", "Synonyms: dizzy, giddy, vertiginous"]}
+{"data": ["2022-07-06T03:00:42.088525+00:00", 3645, "Your mother is", "captious", "Pronunciation: /\u02c8k\u00e6p\u0283\u0259s/", "Definition: tending to find and call attention to faults", "Synonyms: faultfinding"]}
