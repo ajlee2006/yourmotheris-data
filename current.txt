@@ -1,1 +1,1 @@
-{"data": ["2022-07-05T23:01:10.932415+00:00", 3641, "Your mother is", "topographic", "Pronunciation: /\u02cct\u0251p\u0259\u02c8gr\u00e6f\u026ak/", "Definition: concerned with topography", "Synonyms: topographical"]}
+{"data": ["2022-07-06T00:01:47.316661+00:00", 3642, "Your mother is", "straplike", "Similar to: narrow", "Definition: long and narrow like a strap", ""]}
