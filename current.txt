@@ -1,1 +1,1 @@
-{"data": ["2022-07-06T04:01:26.654016+00:00", 3646, "Your mother is", "quirky", "Pronunciation: /\u02c8kw\u025crki/", "Definition: (informal) strikingly unconventional", "Synonyms: far-out, kinky, offbeat, way-out"]}
+{"data": ["2022-07-06T05:00:25.397374+00:00", 3647, "Your mother is", "soft-spoken", "Pronunciation: /\u02c8s\u0254ft\u02c8spo\u028ak\u0259n/", "Definition: having a speaking manner that is not loud or harsh", ""]}
