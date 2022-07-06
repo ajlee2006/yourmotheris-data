@@ -1,1 +1,1 @@
-{"data": ["2022-07-06T10:01:34.088525+00:00", 3652, "Your mother is", "well-behaved", "Similar to: good", "Definition: (usually of children) someone who behaves in a manner that the speaker believes is correct", "Synonyms: well behaved"]}
+{"data": ["2022-07-06T11:01:14.010074+00:00", 3653, "Your mother is", "keen-sighted", "Similar to: sighted", "Definition: having very keen vision", "Synonyms: argus-eyed, hawk-eyed, lynx-eyed, quick-sighted, sharp-eyed, sharp-sighted"]}
