@@ -1,1 +1,1 @@
-{"data": ["2022-07-06T11:01:14.010074+00:00", 3653, "Your mother is", "keen-sighted", "Similar to: sighted", "Definition: having very keen vision", "Synonyms: argus-eyed, hawk-eyed, lynx-eyed, quick-sighted, sharp-eyed, sharp-sighted"]}
+{"data": ["2022-07-06T12:01:00.164837+00:00", 3654, "Your mother is", "uneatable", "Pronunciation: /\u0259n\u02c8it\u0259b\u0259l/", "Definition: not suitable for food", "Synonyms: inedible"]}
