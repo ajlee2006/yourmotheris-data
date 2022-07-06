@@ -1,1 +1,1 @@
-{"data": ["2022-07-06T17:01:02.968780+00:00", 3659, "Your mother is", "pureblood", "Similar to: purebred", "Definition: having a list of ancestors as proof of being a purebred animal", "Synonyms: pedigree, pedigreed, pureblooded, thoroughbred"]}
+{"data": ["2022-07-06T18:01:09.051168+00:00", 3660, "Your mother is", "fine-grained", "Pronunciation: /fin-gre\u026and/", "Definition: dense or compact in structure or texture, as a wood composed of small-diameter cells", "Synonyms: close-grained"]}
