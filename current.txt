@@ -1,1 +1,1 @@
-{"data": ["2022-07-06T09:01:01.931502+00:00", 3651, "Your mother is", "subsequent", "Pronunciation: /\u02c8s\u0259b\u02ccsikw\u0259nt/", "Definition: following in time or order", ""]}
+{"data": ["2022-07-06T10:01:34.088525+00:00", 3652, "Your mother is", "well-behaved", "Similar to: good", "Definition: (usually of children) someone who behaves in a manner that the speaker believes is correct", "Synonyms: well behaved"]}
