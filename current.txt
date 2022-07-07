@@ -1,1 +1,1 @@
-{"data": ["2022-07-07T03:00:40.864497+00:00", 3669, "Your mother is", "lateen", "Pronunciation: /l\u00e6\u02c8tin/", "Definition: rigged with a triangular (lateen) sail", "Synonyms: lateen-rigged"]}
+{"data": ["2022-07-07T04:00:25.840764+00:00", 3670, "Your mother is", "aphotic", "Pronunciation: /e\u026a\u02c8fo\u028at\u026ak/", "Definition: lacking light; especially not reached by sunlight", ""]}
