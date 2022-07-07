@@ -1,1 +1,1 @@
-{"data": ["2022-07-07T16:00:34.941188+00:00", 3682, "Your mother is", "indubitable", "Pronunciation: /\u026an\u02c8dub\u026at\u0259b\u0259l/", "Definition: too obvious to be doubted", "Synonyms: beyond doubt"]}
+{"data": ["2022-07-07T17:00:42.508489+00:00", 3683, "Your mother is", "padded", "Pronunciation: /\u02c8p\u00e6d\u028cd/", "Definition: softened by the addition of cushions or padding", "Synonyms: cushioned, cushiony"]}
