@@ -1,1 +1,1 @@
-{"data": ["2022-07-07T11:01:34.097060+00:00", 3677, "Your mother is", "bacilliform", "Pronunciation: /b\u0259\u02c8s\u026al\u026a\u02ccfo\u028arm/", "Definition: formed like a bacillus", "Synonyms: bacillar, bacillary, baculiform, rod-shaped"]}
+{"data": ["2022-07-07T12:01:25.298496+00:00", 3678, "Your mother is", "four-ply", "Pronunciation: /fo\u028ar-pla\u026a/", "Definition: having a thickness made up of four layers or strands", ""]}
