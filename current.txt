@@ -1,1 +1,1 @@
-{"data": ["2022-07-07T12:01:25.298496+00:00", 3678, "Your mother is", "four-ply", "Pronunciation: /fo\u028ar-pla\u026a/", "Definition: having a thickness made up of four layers or strands", ""]}
+{"data": ["2022-07-07T13:01:21.309825+00:00", 3679, "Your mother is", "exiguous", "Pronunciation: /\u026a\u0261\u02c8z\u026a\u0261ju\u0259s/", "Definition: extremely scanty", ""]}
