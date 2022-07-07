@@ -1,1 +1,1 @@
-{"data": ["2022-07-07T10:01:34.282718+00:00", 3676, "Your mother is", "over-the-counter", "Pronunciation: /\u02c8o\u028av\u0259r\u00f0\u0259\u02c8ka\u028ant\u0259r/", "Definition: (of securities) not traded on a stock exchange", "Synonyms: otc"]}
+{"data": ["2022-07-07T11:01:34.097060+00:00", 3677, "Your mother is", "bacilliform", "Pronunciation: /b\u0259\u02c8s\u026al\u026a\u02ccfo\u028arm/", "Definition: formed like a bacillus", "Synonyms: bacillar, bacillary, baculiform, rod-shaped"]}
