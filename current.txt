@@ -1,1 +1,1 @@
-{"data": ["2022-07-07T17:00:42.508489+00:00", 3683, "Your mother is", "padded", "Pronunciation: /\u02c8p\u00e6d\u028cd/", "Definition: softened by the addition of cushions or padding", "Synonyms: cushioned, cushiony"]}
+{"data": ["2022-07-07T18:00:27.434471+00:00", 3684, "Your mother is", "profit-maximizing", "Similar to: increasing", "Definition: making the profit as great as possible", "Synonyms: profit-maximising"]}
