@@ -1,1 +1,1 @@
-{"data": ["2022-07-07T04:00:25.840764+00:00", 3670, "Your mother is", "aphotic", "Pronunciation: /e\u026a\u02c8fo\u028at\u026ak/", "Definition: lacking light; especially not reached by sunlight", ""]}
+{"data": ["2022-07-07T05:01:35.408715+00:00", 3671, "Your mother is", "combatant", "Pronunciation: /k\u0259m\u02c8b\u00e6t\u0259nt/", "Definition: engaging in or ready for combat", ""]}
