@@ -1,1 +1,1 @@
-{"data": ["2022-07-07T14:01:12.214422+00:00", 3680, "Your mother is", "teeny", "Pronunciation: /\u02c8tini/", "Definition: (used informally) very small", "Synonyms: bittie, bitty, itsy-bitsy, itty-bitty, teensy, teensy-weensy, teentsy, teeny-weeny, wee, weensy, weeny"]}
+{"data": ["2022-07-07T15:01:20.695796+00:00", 3681, "Your mother is", "wholehearted", "Pronunciation: /\u02c8ho\u028al\u02c8h\u0251rt\u026ad/", "Definition: with unconditional and enthusiastic devotion", "Synonyms: heart-whole, whole-souled"]}
