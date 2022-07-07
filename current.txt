@@ -1,1 +1,1 @@
-{"data": ["2022-07-07T21:00:58.457410+00:00", 3687, "Your mother is", "arborary", "", "Definition: of or relating to or formed by trees", "Synonyms: arboreal, arborical, arborous"]}
+{"data": ["2022-07-07T22:01:17.325813+00:00", 3688, "Your mother is", "oral", "Pronunciation: /\u02c8o\u028ar\u0259l/", "Definition: using speech rather than writing", "Synonyms: unwritten"]}
