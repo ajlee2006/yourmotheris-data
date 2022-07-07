@@ -1,1 +1,1 @@
-{"data": ["2022-07-07T22:01:17.325813+00:00", 3688, "Your mother is", "oral", "Pronunciation: /\u02c8o\u028ar\u0259l/", "Definition: using speech rather than writing", "Synonyms: unwritten"]}
+{"data": ["2022-07-07T23:00:59.534020+00:00", 3689, "Your mother is", "collapsible", "Pronunciation: /k\u028c\u02c8l\u00e6ps\u028cb\u028cl/", "Definition: capable of collapsing or being collapsed", "Synonyms: collapsable"]}
