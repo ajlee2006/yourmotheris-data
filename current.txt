@@ -1,1 +1,1 @@
-{"data": ["2022-07-07T02:01:21.131167+00:00", 3668, "Your mother is", "weighted", "Pronunciation: /\u02c8we\u026at\u026ad/", "Definition: made heavy or weighted down with weariness", "Synonyms: leaden"]}
+{"data": ["2022-07-07T03:00:40.864497+00:00", 3669, "Your mother is", "lateen", "Pronunciation: /l\u00e6\u02c8tin/", "Definition: rigged with a triangular (lateen) sail", "Synonyms: lateen-rigged"]}
