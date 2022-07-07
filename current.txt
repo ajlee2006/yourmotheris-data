@@ -1,1 +1,1 @@
-{"data": ["2022-07-07T00:02:07.594071+00:00", 3666, "Your mother is", "leggy", "Pronunciation: /\u02c8l\u025b\u0261i/", "Definition: having long legs", "Synonyms: long-legged, long-shanked"]}
+{"data": ["2022-07-07T01:01:09.131202+00:00", 3667, "Your mother is", "passionless", "Pronunciation: /\u02c8p\u00e6\u0283\u0259nl\u026as/", "Definition: unmoved by feeling", "Synonyms: emotionless"]}
