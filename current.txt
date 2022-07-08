@@ -1,1 +1,1 @@
-{"data": ["2022-07-08T17:00:55.985157+00:00", 3707, "Your mother is", "neritic", "Pronunciation: /n\u0259\u02c8r\u026at\u026ak/", "Definition: relating to the region of shallow water adjoining the seacoast", ""]}
+{"data": ["2022-07-08T18:01:29.992537+00:00", 3708, "Your mother is", "heatless", "Similar to: cold", "Definition: without generating heat", ""]}
