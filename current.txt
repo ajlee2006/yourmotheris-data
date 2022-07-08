@@ -1,1 +1,1 @@
-{"data": ["2022-07-08T13:01:33.492714+00:00", 3703, "Your mother is", "flagrant", "Pronunciation: /\u02c8fle\u026agr\u0259nt/", "Definition: conspicuously and outrageously bad or reprehensible", "Synonyms: crying, egregious, glaring, gross, rank"]}
+{"data": ["2022-07-08T14:01:04.122904+00:00", 3704, "Your mother is", "fallible", "Pronunciation: /\u02c8f\u00e6l\u0259b\u0259l/", "Definition: wanting in moral strength, courage, or will; having the attributes of man as opposed to e.g. divine beings", "Synonyms: frail, imperfect, weak"]}
