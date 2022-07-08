@@ -1,1 +1,1 @@
-{"data": ["2022-07-08T00:01:27.027792+00:00", 3690, "Your mother is", "arthropodous", "Pronunciation: /\u0251r\u02c8\u03b8r\u0251p\u0259d\u0259s/", "Definition: of or relating to invertebrates of the phylum Arthropoda", "Synonyms: arthropodal, arthropodan"]}
+{"data": ["2022-07-08T01:01:29.737298+00:00", 3691, "Your mother is", "cylindric", "Similar to: rounded", "Definition: having the form of a cylinder", "Synonyms: cylindrical"]}
