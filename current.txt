@@ -1,1 +1,1 @@
-{"data": ["2022-07-08T12:01:00.143290+00:00", 3702, "Your mother is", "verboten", "Pronunciation: /f\u0259R\u02c8bo\u028at\u0259n/", "Definition: excluded from use or mention", "Synonyms: forbidden, out, prohibited, proscribed, taboo, tabu"]}
+{"data": ["2022-07-08T13:01:33.492714+00:00", 3703, "Your mother is", "flagrant", "Pronunciation: /\u02c8fle\u026agr\u0259nt/", "Definition: conspicuously and outrageously bad or reprehensible", "Synonyms: crying, egregious, glaring, gross, rank"]}
