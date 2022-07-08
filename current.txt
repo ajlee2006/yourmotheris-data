@@ -1,1 +1,1 @@
-{"data": ["2022-07-07T23:00:59.534020+00:00", 3689, "Your mother is", "collapsible", "Pronunciation: /k\u028c\u02c8l\u00e6ps\u028cb\u028cl/", "Definition: capable of collapsing or being collapsed", "Synonyms: collapsable"]}
+{"data": ["2022-07-08T00:01:27.027792+00:00", 3690, "Your mother is", "arthropodous", "Pronunciation: /\u0251r\u02c8\u03b8r\u0251p\u0259d\u0259s/", "Definition: of or relating to invertebrates of the phylum Arthropoda", "Synonyms: arthropodal, arthropodan"]}
