@@ -1,1 +1,1 @@
-{"data": ["2022-07-08T11:01:26.650803+00:00", 3701, "Your mother is", "diplomatic", "Pronunciation: /\u02ccd\u026apl\u0259\u02c8m\u00e6t\u026ak/", "Definition: using or marked by tact in dealing with sensitive matters or people", "Synonyms: diplomatical"]}
+{"data": ["2022-07-08T12:01:00.143290+00:00", 3702, "Your mother is", "verboten", "Pronunciation: /f\u0259R\u02c8bo\u028at\u0259n/", "Definition: excluded from use or mention", "Synonyms: forbidden, out, prohibited, proscribed, taboo, tabu"]}
