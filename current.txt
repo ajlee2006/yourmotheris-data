@@ -1,1 +1,1 @@
-{"data": ["2022-07-08T04:00:58.100120+00:00", 3694, "Your mother is", "barren", "Pronunciation: /\u02c8b\u00e6r\u0259n/", "Definition: providing no shelter or sustenance", "Synonyms: bare, bleak, desolate, stark"]}
+{"data": ["2022-07-08T05:01:15.147803+00:00", 3695, "Your mother is", "extraordinary", "Pronunciation: /\u026ak\u02c8str\u0254r\u02ccd\u0259n\u025bri/", "Definition: far more than usual or expected", "Synonyms: over-the-top, sinful"]}
