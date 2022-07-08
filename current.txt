@@ -1,1 +1,1 @@
-{"data": ["2022-07-08T20:00:21.133765+00:00", 3710, "Your mother is", "11th", "Similar to: ordinal", "Definition: coming next after the tenth and just before the twelfth in position", "Synonyms: eleventh"]}
+{"data": ["2022-07-08T21:01:30.526121+00:00", 3711, "Your mother is", "epoch-making", "Pronunciation: /\u02c8\u025bp\u0259k-\u02c8me\u026ak\u026a\u014b/", "Definition: highly significant or important especially bringing about or marking the beginning of a new development or era", "Synonyms: epochal"]}
