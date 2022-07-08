@@ -1,1 +1,1 @@
-{"data": ["2022-07-08T02:01:26.790149+00:00", 3692, "Your mother is", "spiny-leafed", "Similar to: leafy", "Definition: having spiny leaves", "Synonyms: spiny-leaved"]}
+{"data": ["2022-07-08T03:01:32.950629+00:00", 3693, "Your mother is", "high-class", "Pronunciation: /ha\u026a-kl\u00e6s/", "Definition: pretentiously elegant", "Synonyms: high-toned"]}
