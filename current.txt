@@ -1,1 +1,1 @@
-{"data": ["2022-07-08T08:00:27.141009+00:00", 3698, "Your mother is", "preponderant", "Pronunciation: /pr\u026a\u02c8p\u0251nd\u0259r\u0259nt/", "Definition: having superior power and influence", "Synonyms: overriding, paramount, predominant, predominate, preponderating"]}
+{"data": ["2022-07-08T09:01:11.225893+00:00", 3699, "Your mother is", "euphonical", "", "Definition: of or relating to or characterized by euphony", "Synonyms: euphonic"]}
