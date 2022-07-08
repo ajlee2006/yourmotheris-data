@@ -1,1 +1,1 @@
-{"data": ["2022-07-08T19:00:43.982305+00:00", 3709, "Your mother is", "quasi-royal", "Pronunciation: /\u02c8kw\u0251si-\u02c8r\u0254\u026a\u0259l/", "Definition: having the power but not the rank or title of a king", ""]}
+{"data": ["2022-07-08T20:00:21.133765+00:00", 3710, "Your mother is", "11th", "Similar to: ordinal", "Definition: coming next after the tenth and just before the twelfth in position", "Synonyms: eleventh"]}
