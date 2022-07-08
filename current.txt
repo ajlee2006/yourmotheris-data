@@ -1,1 +1,1 @@
-{"data": ["2022-07-08T03:01:32.950629+00:00", 3693, "Your mother is", "high-class", "Pronunciation: /ha\u026a-kl\u00e6s/", "Definition: pretentiously elegant", "Synonyms: high-toned"]}
+{"data": ["2022-07-08T04:00:58.100120+00:00", 3694, "Your mother is", "barren", "Pronunciation: /\u02c8b\u00e6r\u0259n/", "Definition: providing no shelter or sustenance", "Synonyms: bare, bleak, desolate, stark"]}
