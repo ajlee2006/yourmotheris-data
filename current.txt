@@ -1,1 +1,1 @@
-{"data": ["2022-07-08T06:00:58.599410+00:00", 3696, "Your mother is", "elicited", "Pronunciation: /\u026a\u02c8l\u026as\u026at\u026ad/", "Definition: called forth from a latent or potential state by stimulation", "Synonyms: evoked"]}
+{"data": ["2022-07-08T07:01:02.328675+00:00", 3697, "Your mother is", "aquiline", "Pronunciation: /\u02c8\u00e6kw\u0259\u02ccla\u026an/", "Definition: curved down like an eagle's beak", "Synonyms: hooked"]}
