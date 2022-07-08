@@ -1,1 +1,1 @@
-{"data": ["2022-07-08T01:01:29.737298+00:00", 3691, "Your mother is", "cylindric", "Similar to: rounded", "Definition: having the form of a cylinder", "Synonyms: cylindrical"]}
+{"data": ["2022-07-08T02:01:26.790149+00:00", 3692, "Your mother is", "spiny-leafed", "Similar to: leafy", "Definition: having spiny leaves", "Synonyms: spiny-leaved"]}
