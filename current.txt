@@ -1,1 +1,1 @@
-{"data": ["2022-07-08T14:01:04.122904+00:00", 3704, "Your mother is", "fallible", "Pronunciation: /\u02c8f\u00e6l\u0259b\u0259l/", "Definition: wanting in moral strength, courage, or will; having the attributes of man as opposed to e.g. divine beings", "Synonyms: frail, imperfect, weak"]}
+{"data": ["2022-07-08T15:00:49.159171+00:00", 3705, "Your mother is", "demure", "Pronunciation: /d\u026a\u02c8mj\u028ar/", "Definition: affectedly modest or shy especially in a playful or provocative way", "Synonyms: coy, overmodest"]}
