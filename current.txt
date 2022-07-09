@@ -1,1 +1,1 @@
-{"data": ["2022-07-09T04:00:14.153849+00:00", 3718, "Your mother is", "one-celled", "Similar to: acellular", "Definition: having a single cell (and thus not divided into cells)", "Synonyms: single-celled"]}
+{"data": ["2022-07-09T05:00:57.906882+00:00", 3719, "Your mother is", "exotic", "Pronunciation: /\u026a\u0261\u02c8z\u0251t\u026ak/", "Definition: being or from or characteristic of another place or part of the world", "Synonyms: alien"]}
