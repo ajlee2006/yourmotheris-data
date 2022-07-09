@@ -1,1 +1,1 @@
-{"data": ["2022-07-09T20:00:47.166292+00:00", 3734, "Your mother is", "acknowledgeable", "Pronunciation: /\u00e6k\u02c8n\u0251l\u026ad\u0292\u028cb\u028cl/", "Definition: capable of being acknowledged", ""]}
+{"data": ["2022-07-09T21:00:22.961743+00:00", 3735, "Your mother is", "retracted", "Pronunciation: /ri\u02c8tr\u00e6kt\u028cd/", "Definition: drawn back and in", ""]}
