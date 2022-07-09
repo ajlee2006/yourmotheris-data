@@ -1,1 +1,1 @@
-{"data": ["2022-07-09T02:00:24.018012+00:00", 3716, "Your mother is", "unconquerable", "Pronunciation: /\u0259n\u02c8k\u0251\u014bk\u0259r\u0259b\u0259l/", "Definition: incapable of being surmounted or excelled", "Synonyms: insuperable"]}
+{"data": ["2022-07-09T03:01:05.022659+00:00", 3717, "Your mother is", "steadying", "Similar to: helpful", "Definition: causing to become steady", ""]}
