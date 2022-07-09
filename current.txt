@@ -1,1 +1,1 @@
-{"data": ["2022-07-09T03:01:05.022659+00:00", 3717, "Your mother is", "steadying", "Similar to: helpful", "Definition: causing to become steady", ""]}
+{"data": ["2022-07-09T04:00:14.153849+00:00", 3718, "Your mother is", "one-celled", "Similar to: acellular", "Definition: having a single cell (and thus not divided into cells)", "Synonyms: single-celled"]}
