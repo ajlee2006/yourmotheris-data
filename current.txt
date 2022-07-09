@@ -1,1 +1,1 @@
-{"data": ["2022-07-09T11:00:47.660585+00:00", 3725, "Your mother is", "invulnerable", "Pronunciation: /\u026an\u02c8v\u0259ln\u0259r\u0259b\u0259l/", "Definition: immune to attack; impregnable", ""]}
+{"data": ["2022-07-09T12:00:38.359315+00:00", 3726, "Your mother is", "longitudinal", "Pronunciation: /\u02ccl\u0251nd\u0292\u026a\u02c8tud\u0259n\u0259l/", "Definition: over an extended time", ""]}
