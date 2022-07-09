@@ -1,1 +1,1 @@
-{"data": ["2022-07-09T21:00:22.961743+00:00", 3735, "Your mother is", "retracted", "Pronunciation: /ri\u02c8tr\u00e6kt\u028cd/", "Definition: drawn back and in", ""]}
+{"data": ["2022-07-09T22:00:35.529410+00:00", 3736, "Your mother is", "silver-leaved", "Similar to: leafy", "Definition: having silvery leaves", "Synonyms: silver-leafed, silvery-leafed, silvery-leaved"]}
