@@ -1,1 +1,1 @@
-{"data": ["2022-07-09T22:00:35.529410+00:00", 3736, "Your mother is", "silver-leaved", "Similar to: leafy", "Definition: having silvery leaves", "Synonyms: silver-leafed, silvery-leafed, silvery-leaved"]}
+{"data": ["2022-07-09T23:00:40.036698+00:00", 3737, "Your mother is", "insoluble", "Pronunciation: /\u026an\u02c8s\u0251lj\u0259b\u0259l/", "Definition: (of a substance) incapable of being dissolved", "Synonyms: indissoluble"]}
