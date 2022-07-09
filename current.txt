@@ -1,1 +1,1 @@
-{"data": ["2022-07-09T05:00:57.906882+00:00", 3719, "Your mother is", "exotic", "Pronunciation: /\u026a\u0261\u02c8z\u0251t\u026ak/", "Definition: being or from or characteristic of another place or part of the world", "Synonyms: alien"]}
+{"data": ["2022-07-09T06:01:43.943704+00:00", 3720, "Your mother is", "multivalent", "Pronunciation: /\u02ccm\u0259lt\u0259\u02c8ve\u026al\u0259nt/", "Definition: having many values, meanings, or appeals", "Synonyms: multi-valued"]}
