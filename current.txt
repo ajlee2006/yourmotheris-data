@@ -1,1 +1,1 @@
-{"data": ["2022-07-09T17:01:04.281402+00:00", 3731, "Your mother is", "sweet-scented", "Pronunciation: /\u02c8swit\u02ccs\u025bnt\u026ad/", "Definition: having a natural fragrance", "Synonyms: odoriferous, odorous, perfumed, scented, sweet, sweet-smelling"]}
+{"data": ["2022-07-09T18:01:29.890010+00:00", 3732, "Your mother is", "unpleasant-smelling", "Similar to: bilgy", "Definition: having an unpleasant smell", "Synonyms: ill-smelling, malodorous, malodourous, stinky"]}
