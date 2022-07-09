@@ -1,1 +1,1 @@
-{"data": ["2022-07-09T08:00:52.720599+00:00", 3722, "Your mother is", "in style", "Similar to: fashionable", "Definition: in the current fashion or style", "Synonyms: a la mode, in vogue, latest, modish"]}
+{"data": ["2022-07-09T09:00:41.967747+00:00", 3723, "Your mother is", "special", "Pronunciation: /\u02c8sp\u025b\u0283\u0259l/", "Definition: added to a regular schedule", "Synonyms: extra"]}
