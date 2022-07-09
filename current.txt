@@ -1,1 +1,1 @@
-{"data": ["2022-07-09T06:01:43.943704+00:00", 3720, "Your mother is", "multivalent", "Pronunciation: /\u02ccm\u0259lt\u0259\u02c8ve\u026al\u0259nt/", "Definition: having many values, meanings, or appeals", "Synonyms: multi-valued"]}
+{"data": ["2022-07-09T07:00:39.160316+00:00", 3721, "Your mother is", "hotheaded", "Pronunciation: /\u02c8h\u0251t\u02c8h\u025bd\u026ad/", "Definition: quickly aroused to anger", "Synonyms: choleric, hot-tempered, irascible, quick-tempered, short-tempered"]}
