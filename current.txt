@@ -1,1 +1,1 @@
-{"data": ["2022-07-09T12:00:38.359315+00:00", 3726, "Your mother is", "longitudinal", "Pronunciation: /\u02ccl\u0251nd\u0292\u026a\u02c8tud\u0259n\u0259l/", "Definition: over an extended time", ""]}
+{"data": ["2022-07-09T13:00:42.208863+00:00", 3727, "Your mother is", "captivated", "Pronunciation: /\u02c8k\u00e6pt\u026a\u02ccve\u026at\u026ad/", "Definition: strongly attracted", "Synonyms: charmed"]}
