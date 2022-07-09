@@ -1,1 +1,1 @@
-{"data": ["2022-07-09T16:00:37.250908+00:00", 3730, "Your mother is", "literate", "Pronunciation: /\u02c8l\u026at\u0259r\u026at/", "Definition: knowledgeable and educated in one or several fields", ""]}
+{"data": ["2022-07-09T17:01:04.281402+00:00", 3731, "Your mother is", "sweet-scented", "Pronunciation: /\u02c8swit\u02ccs\u025bnt\u026ad/", "Definition: having a natural fragrance", "Synonyms: odoriferous, odorous, perfumed, scented, sweet, sweet-smelling"]}
