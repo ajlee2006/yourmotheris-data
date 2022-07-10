@@ -1,1 +1,1 @@
-{"data": ["2022-07-10T11:00:54.131301+00:00", 3749, "Your mother is", "official", "Pronunciation: /\u0259\u02c8f\u026a\u0283\u0259l/", "Definition: conforming to set usage, procedure, or discipline", "Synonyms: prescribed"]}
+{"data": ["2022-07-10T12:01:10.994994+00:00", 3750, "Your mother is", "intersectant", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8s\u025bkt\u0259nt/", "Definition: crossed or intersected in the form of an X", "Synonyms: decussate, intersecting"]}
