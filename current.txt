@@ -1,1 +1,1 @@
-{"data": ["2022-07-10T04:00:49.694753+00:00", 3742, "Your mother is", "grievous", "Pronunciation: /\u02c8griv\u0259s/", "Definition: of great gravity or crucial import; requiring serious thought", "Synonyms: grave, heavy, weighty"]}
+{"data": ["2022-07-10T05:00:59.651586+00:00", 3743, "Your mother is", "sanctioned", "Pronunciation: /\u02c8s\u00e6\u014bk\u0283\u028cnd/", "Definition: conforming to orthodox or recognized rules", "Synonyms: canonic, canonical"]}
