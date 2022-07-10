@@ -1,1 +1,1 @@
-{"data": ["2022-07-10T15:01:05.052317+00:00", 3753, "Your mother is", "stone-blind", "Pronunciation: /sto\u028an-bla\u026and/", "Definition: completely blind", ""]}
+{"data": ["2022-07-10T16:00:52.024335+00:00", 3754, "Your mother is", "soulful", "Pronunciation: /\u02c8so\u028alf\u0259l/", "Definition: full of or expressing deep emotion", ""]}
