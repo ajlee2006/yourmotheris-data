@@ -1,1 +1,1 @@
-{"data": ["2022-07-10T08:01:15.846713+00:00", 3746, "Your mother is", "pinchbeck", "Pronunciation: /\u02c8p\u026an\u02a7\u02ccb\u025bk/", "Definition: serving as an imitation or substitute", ""]}
+{"data": ["2022-07-10T09:01:21.529053+00:00", 3747, "Your mother is", "dispirited", "Pronunciation: /d\u026a\u02c8sp\u026ar\u026at\u026ad/", "Definition: marked by low spirits; showing no enthusiasm", "Synonyms: listless"]}
