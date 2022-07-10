@@ -1,1 +1,1 @@
-{"data": ["2022-07-10T01:01:10.185124+00:00", 3739, "Your mother is", "diverted", "Pronunciation: /da\u026a\u02c8v\u025drt\u026ad/", "Definition: pleasantly occupied", "Synonyms: amused, entertained"]}
+{"data": ["2022-07-10T02:01:10.397997+00:00", 3740, "Your mother is", "grumbling", "Pronunciation: /\u02c8\u0261r\u028cmb\u028cl\u026a\u014b/", "Definition: continuous full and low-pitched throbbing sound", "Synonyms: rumbling"]}
