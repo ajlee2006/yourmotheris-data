@@ -1,1 +1,1 @@
-{"data": ["2022-07-10T14:00:23.516050+00:00", 3752, "Your mother is", "unreasoning", "Pronunciation: /\u0259n\u02c8riz\u0259n\u026a\u014b/", "Definition: not based on reason or evidence", "Synonyms: blind"]}
+{"data": ["2022-07-10T15:01:05.052317+00:00", 3753, "Your mother is", "stone-blind", "Pronunciation: /sto\u028an-bla\u026and/", "Definition: completely blind", ""]}
