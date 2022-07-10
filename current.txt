@@ -1,1 +1,1 @@
-{"data": ["2022-07-10T13:01:29.226752+00:00", 3751, "Your mother is", "continuant", "Pronunciation: /k\u0259n\u02c8t\u026anju\u0259nt/", "Definition: of speech sounds produced by forcing air through a constricted passage (as `f', `s', `z', or `th' in both `thin' and `then')", "Synonyms: fricative, sibilant, spirant, strident"]}
+{"data": ["2022-07-10T14:00:23.516050+00:00", 3752, "Your mother is", "unreasoning", "Pronunciation: /\u0259n\u02c8riz\u0259n\u026a\u014b/", "Definition: not based on reason or evidence", "Synonyms: blind"]}
