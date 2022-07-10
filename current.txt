@@ -1,1 +1,1 @@
-{"data": ["2022-07-10T16:00:52.024335+00:00", 3754, "Your mother is", "soulful", "Pronunciation: /\u02c8so\u028alf\u0259l/", "Definition: full of or expressing deep emotion", ""]}
+{"data": ["2022-07-10T17:01:02.030557+00:00", 3755, "Your mother is", "sought-after", "Pronunciation: /s\u0254t-\u02c8\u00e6ft\u0259r/", "Definition: greatly desired", "Synonyms: coveted, in demand, sought after"]}
