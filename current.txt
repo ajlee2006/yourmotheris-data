@@ -1,1 +1,1 @@
-{"data": ["2022-07-10T00:01:32.081826+00:00", 3738, "Your mother is", "well-formed", "", "Definition: conforming to the rules of grammar or usage accepted by native speakers", "Synonyms: grammatical"]}
+{"data": ["2022-07-10T01:01:10.185124+00:00", 3739, "Your mother is", "diverted", "Pronunciation: /da\u026a\u02c8v\u025drt\u026ad/", "Definition: pleasantly occupied", "Synonyms: amused, entertained"]}
