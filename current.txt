@@ -1,1 +1,1 @@
-{"data": ["2022-07-10T03:01:26.555727+00:00", 3741, "Your mother is", "unruly", "Pronunciation: /\u0259n\u02c8ruli/", "Definition: incapable of being controlled", "Synonyms: indocile, uncontrollable, ungovernable"]}
+{"data": ["2022-07-10T04:00:49.694753+00:00", 3742, "Your mother is", "grievous", "Pronunciation: /\u02c8griv\u0259s/", "Definition: of great gravity or crucial import; requiring serious thought", "Synonyms: grave, heavy, weighty"]}
