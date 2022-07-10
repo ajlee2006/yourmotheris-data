@@ -1,1 +1,1 @@
-{"data": ["2022-07-10T10:00:40.865582+00:00", 3748, "Your mother is", "hep", "Pronunciation: /h\u025bp/", "Definition: informed about the latest trends", "Synonyms: hip, hip to"]}
+{"data": ["2022-07-10T11:00:54.131301+00:00", 3749, "Your mother is", "official", "Pronunciation: /\u0259\u02c8f\u026a\u0283\u0259l/", "Definition: conforming to set usage, procedure, or discipline", "Synonyms: prescribed"]}
