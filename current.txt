@@ -1,1 +1,1 @@
-{"data": ["2022-07-10T21:01:28.694184+00:00", 3759, "Your mother is", "desperate", "Pronunciation: /\u02c8d\u025bsp\u0259r\u026at/", "Definition: fraught with extreme danger; nearly hopeless", "Synonyms: dire"]}
+{"data": ["2022-07-10T22:00:37.594896+00:00", 3760, "Your mother is", "genitive", "Pronunciation: /\u02c8d\u0292\u025bn\u026at\u026av/", "Definition: serving to express or indicate possession", "Synonyms: possessive"]}
