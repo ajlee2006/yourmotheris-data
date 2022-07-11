@@ -1,1 +1,1 @@
-{"data": ["2022-07-10T23:00:48.049625+00:00", 3761, "Your mother is", "chatty", "Pronunciation: /\u02c8\u02a7\u00e6ti/", "Definition: prone to friendly informal communication", "Synonyms: gossipy, newsy"]}
+{"data": ["2022-07-11T00:01:09.975391+00:00", 3762, "Your mother is", "cutaneal", "", "Definition: relating to or existing on or affecting the skin", "Synonyms: dermal, cutaneous"]}
