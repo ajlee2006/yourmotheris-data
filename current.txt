@@ -1,1 +1,1 @@
-{"data": ["2022-07-11T07:00:51.401024+00:00", 3769, "Your mother is", "euphoric", "Pronunciation: /ju\u02c8f\u0254r\u026ak/", "Definition: exaggerated feeling of well-being or elation", ""]}
+{"data": ["2022-07-11T08:00:38.589369+00:00", 3770, "Your mother is", "self-contained", "Pronunciation: /s\u025blf-k\u0259n\u02c8te\u026and/", "Definition: in full control of your faculties", "Synonyms: collected, equanimous, poised, self-collected, self-possessed"]}
