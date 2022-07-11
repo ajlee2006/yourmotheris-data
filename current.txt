@@ -1,1 +1,1 @@
-{"data": ["2022-07-11T21:01:32.362931+00:00", 3783, "Your mother is", "godlike", "Pronunciation: /\u02c8\u0261\u0251d\u02ccla\u026ak/", "Definition: appropriate to or befitting a god", "Synonyms: divine"]}
+{"data": ["2022-07-11T22:00:19.712658+00:00", 3784, "Your mother is", "norse", "Pronunciation: /n\u0254rs/", "Definition: of or relating to Norway or its people or culture or language", "Synonyms: norwegian"]}
