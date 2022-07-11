@@ -1,1 +1,1 @@
-{"data": ["2022-07-11T08:00:38.589369+00:00", 3770, "Your mother is", "self-contained", "Pronunciation: /s\u025blf-k\u0259n\u02c8te\u026and/", "Definition: in full control of your faculties", "Synonyms: collected, equanimous, poised, self-collected, self-possessed"]}
+{"data": ["2022-07-11T09:01:25.758624+00:00", 3771, "Your mother is", "well-mannered", "Pronunciation: /\u02c8w\u025bl-\u02c8m\u00e6n\u0259rd/", "Definition: socially correct in behavior", "Synonyms: mannerly"]}
