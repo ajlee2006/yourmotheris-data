@@ -1,1 +1,1 @@
-{"data": ["2022-07-11T02:00:16.782601+00:00", 3764, "Your mother is", "spacious", "Pronunciation: /\u02c8spe\u026a\u0283\u0259s/", "Definition: (of buildings and rooms) having ample space", "Synonyms: roomy"]}
+{"data": ["2022-07-11T03:00:41.541654+00:00", 3765, "Your mother is", "admonitory", "Pronunciation: /\u00e6d\u02c8m\u0251n\u026a\u02ccto\u028ari/", "Definition: expressing reproof or reproach especially as a corrective", "Synonyms: admonishing, reproachful, reproving"]}
