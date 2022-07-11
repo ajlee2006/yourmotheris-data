@@ -1,1 +1,1 @@
-{"data": ["2022-07-11T01:01:40.936902+00:00", 3763, "Your mother is", "secluded", "Pronunciation: /s\u026a\u02c8klud\u026ad/", "Definition: hidden from general view or use", "Synonyms: privy, secret"]}
+{"data": ["2022-07-11T02:00:16.782601+00:00", 3764, "Your mother is", "spacious", "Pronunciation: /\u02c8spe\u026a\u0283\u0259s/", "Definition: (of buildings and rooms) having ample space", "Synonyms: roomy"]}
