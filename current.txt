@@ -1,1 +1,1 @@
-{"data": ["2022-07-11T09:01:25.758624+00:00", 3771, "Your mother is", "well-mannered", "Pronunciation: /\u02c8w\u025bl-\u02c8m\u00e6n\u0259rd/", "Definition: socially correct in behavior", "Synonyms: mannerly"]}
+{"data": ["2022-07-11T10:01:05.112702+00:00", 3772, "Your mother is", "perfidious", "Pronunciation: /p\u0259r\u02c8f\u026adi\u0259s/", "Definition: tending to betray; especially having a treacherous character as attributed to the Carthaginians by the Romans", "Synonyms: punic, treacherous"]}
