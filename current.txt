@@ -1,1 +1,1 @@
-{"data": ["2022-07-11T00:01:09.975391+00:00", 3762, "Your mother is", "cutaneal", "", "Definition: relating to or existing on or affecting the skin", "Synonyms: dermal, cutaneous"]}
+{"data": ["2022-07-11T01:01:40.936902+00:00", 3763, "Your mother is", "secluded", "Pronunciation: /s\u026a\u02c8klud\u026ad/", "Definition: hidden from general view or use", "Synonyms: privy, secret"]}
