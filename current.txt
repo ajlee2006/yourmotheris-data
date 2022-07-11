@@ -1,1 +1,1 @@
-{"data": ["2022-07-11T14:00:58.227696+00:00", 3776, "Your mother is", "drear", "Pronunciation: /drir/", "Definition: causing dejection", "Synonyms: blue, dark, dingy, disconsolate, dismal, drab, dreary, gloomy, grim, sorry"]}
+{"data": ["2022-07-11T15:00:49.386154+00:00", 3777, "Your mother is", "dark-grey", "Similar to: achromatic", "Definition: of a dark shade of grey", "Synonyms: dark-gray, oxford-gray, oxford-grey"]}
