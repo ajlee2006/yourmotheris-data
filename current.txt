@@ -1,1 +1,1 @@
-{"data": ["2022-07-11T15:00:49.386154+00:00", 3777, "Your mother is", "dark-grey", "Similar to: achromatic", "Definition: of a dark shade of grey", "Synonyms: dark-gray, oxford-gray, oxford-grey"]}
+{"data": ["2022-07-11T16:00:51.092485+00:00", 3778, "Your mother is", "discriminating", "Pronunciation: /d\u026a\u02c8skr\u026am\u0259\u02ccne\u026at\u026a\u014b/", "Definition: having or demonstrating ability to recognize or draw fine distinctions", "Synonyms: acute, incisive, keen, knifelike, penetrating, penetrative, piercing, sharp"]}
