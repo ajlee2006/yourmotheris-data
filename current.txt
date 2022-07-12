@@ -1,1 +1,1 @@
-{"data": ["2022-07-12T14:00:57.424153+00:00", 3800, "Your mother is", "unfruitful", "Pronunciation: /\u0259n\u02c8frutf\u0259l/", "Definition: not fruitful; not conducive to abundant production", ""]}
+{"data": ["2022-07-12T15:01:26.863257+00:00", 3801, "Your mother is", "plumb", "Pronunciation: /pl\u0259m/", "Definition: exactly vertical", ""]}
