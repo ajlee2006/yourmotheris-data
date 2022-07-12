@@ -1,1 +1,1 @@
-{"data": ["2022-07-12T19:00:22.733283+00:00", 3805, "Your mother is", "off guard", "Pronunciation: /\u0254f-g\u0251rd/", "Definition: not prepared or vigilant", "Synonyms: napping, off-guard, off her guard, off his guard, off one's guard, off your guard"]}
+{"data": ["2022-07-12T20:00:40.755721+00:00", 3806, "Your mother is", "acanthoid", "Pronunciation: /\u0259\u02c8k\u00e6n\u03b8\u0254\u026ad/", "Definition: shaped like a spine or thorn", "Synonyms: acanthous, spinous"]}
