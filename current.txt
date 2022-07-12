@@ -1,1 +1,1 @@
-{"data": ["2022-07-12T18:00:14.955681+00:00", 3804, "Your mother is", "neurologic", "Pronunciation: /\u02ccn\u028ar\u028c\u02c8l\u0251d\u0292\u026ak/", "Definition: of or relating to or used in or practicing neurology", "Synonyms: neurological"]}
+{"data": ["2022-07-12T19:00:22.733283+00:00", 3805, "Your mother is", "off guard", "Pronunciation: /\u0254f-g\u0251rd/", "Definition: not prepared or vigilant", "Synonyms: napping, off-guard, off her guard, off his guard, off one's guard, off your guard"]}
