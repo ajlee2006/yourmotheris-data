@@ -1,1 +1,1 @@
-{"data": ["2022-07-12T12:00:56.969414+00:00", 3798, "Your mother is", "overanxious", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8\u00e6\u014bk\u0283\u0259s/", "Definition: anxious or nervous to an excessive degree", ""]}
+{"data": ["2022-07-12T13:01:12.463806+00:00", 3799, "Your mother is", "ardent", "Pronunciation: /\u02c8\u0251rd\u0259nt/", "Definition: characterized by intense emotion", "Synonyms: fervent, fervid, fiery, impassioned, perfervid, torrid"]}
