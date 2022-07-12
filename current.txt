@@ -1,1 +1,1 @@
-{"data": ["2022-07-12T00:01:29.657708+00:00", 3786, "Your mother is", "six-pointed", "Pronunciation: /s\u026aks-\u02c8p\u0254\u026ant\u026ad/", "Definition: having six points", ""]}
+{"data": ["2022-07-12T01:00:44.516284+00:00", 3787, "Your mother is", "tied", "Pronunciation: /ta\u026ad/", "Definition: closed with a lace", "Synonyms: laced"]}
