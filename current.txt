@@ -1,1 +1,1 @@
-{"data": ["2022-07-12T04:01:21.429628+00:00", 3790, "Your mother is", "quality", "Pronunciation: /\u02c8kw\u0251l\u026ati/", "Definition: of superior grade", "Synonyms: choice, prime, prize, select"]}
+{"data": ["2022-07-12T05:01:49.980178+00:00", 3791, "Your mother is", "westmost", "Similar to: west", "Definition: farthest to the west", "Synonyms: westernmost"]}
