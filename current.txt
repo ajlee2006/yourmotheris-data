@@ -1,1 +1,1 @@
-{"data": ["2022-07-12T06:01:09.459898+00:00", 3792, "Your mother is", "youngish", "Pronunciation: /\u02c8j\u0259\u014b\u026ash/", "Definition: somewhat young", ""]}
+{"data": ["2022-07-12T07:00:26.433212+00:00", 3793, "Your mother is", "chubby", "Pronunciation: /\u02c8\u02a7\u0259bi/", "Definition: sufficiently fat so as to have a pleasing fullness of figure", "Synonyms: embonpoint, plump"]}
