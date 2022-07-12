@@ -1,1 +1,1 @@
-{"data": ["2022-07-12T05:01:49.980178+00:00", 3791, "Your mother is", "westmost", "Similar to: west", "Definition: farthest to the west", "Synonyms: westernmost"]}
+{"data": ["2022-07-12T06:01:09.459898+00:00", 3792, "Your mother is", "youngish", "Pronunciation: /\u02c8j\u0259\u014b\u026ash/", "Definition: somewhat young", ""]}
