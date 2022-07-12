@@ -1,1 +1,1 @@
-{"data": ["2022-07-11T23:01:10.452521+00:00", 3785, "Your mother is", "dizygous", "", "Definition: derived from two separately fertilized eggs", "Synonyms: dizygotic"]}
+{"data": ["2022-07-12T00:01:29.657708+00:00", 3786, "Your mother is", "six-pointed", "Pronunciation: /s\u026aks-\u02c8p\u0254\u026ant\u026ad/", "Definition: having six points", ""]}
