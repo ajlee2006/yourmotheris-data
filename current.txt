@@ -1,1 +1,1 @@
-{"data": ["2022-07-12T08:01:36.620741+00:00", 3794, "Your mother is", "inland", "Pronunciation: /\u02c8\u026anl\u0259nd/", "Definition: situated away from an area's coast or border", ""]}
+{"data": ["2022-07-12T09:00:17.017544+00:00", 3795, "Your mother is", "overhand", "Pronunciation: /\u02c8o\u028av\u0259r\u02cch\u00e6nd/", "Definition: with hand brought forward and down from above shoulder level", "Synonyms: overarm, overhanded"]}
