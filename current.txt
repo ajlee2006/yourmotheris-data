@@ -1,1 +1,1 @@
-{"data": ["2022-07-12T17:01:33.804445+00:00", 3803, "Your mother is", "low-necked", "Pronunciation: /\u02c8lo\u028a\u02c8n\u025bkt/", "Definition: (of a garment) having a low-cut neckline", "Synonyms: decollete, low-cut"]}
+{"data": ["2022-07-12T18:00:14.955681+00:00", 3804, "Your mother is", "neurologic", "Pronunciation: /\u02ccn\u028ar\u028c\u02c8l\u0251d\u0292\u026ak/", "Definition: of or relating to or used in or practicing neurology", "Synonyms: neurological"]}
