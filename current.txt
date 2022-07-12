@@ -1,1 +1,1 @@
-{"data": ["2022-07-12T03:01:23.837254+00:00", 3789, "Your mother is", "indo-aryan", "Pronunciation: /\u02c8\u026ando\u028a-\u02c8\u025cri\u0259n/", "Definition: of or relating to the former Indo-European people", "Synonyms: aryan, indo-european"]}
+{"data": ["2022-07-12T04:01:21.429628+00:00", 3790, "Your mother is", "quality", "Pronunciation: /\u02c8kw\u0251l\u026ati/", "Definition: of superior grade", "Synonyms: choice, prime, prize, select"]}
