@@ -1,1 +1,1 @@
-{"data": ["2022-07-12T07:00:26.433212+00:00", 3793, "Your mother is", "chubby", "Pronunciation: /\u02c8\u02a7\u0259bi/", "Definition: sufficiently fat so as to have a pleasing fullness of figure", "Synonyms: embonpoint, plump"]}
+{"data": ["2022-07-12T08:01:36.620741+00:00", 3794, "Your mother is", "inland", "Pronunciation: /\u02c8\u026anl\u0259nd/", "Definition: situated away from an area's coast or border", ""]}
