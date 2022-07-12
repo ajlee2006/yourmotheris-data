@@ -1,1 +1,1 @@
-{"data": ["2022-07-12T09:00:17.017544+00:00", 3795, "Your mother is", "overhand", "Pronunciation: /\u02c8o\u028av\u0259r\u02cch\u00e6nd/", "Definition: with hand brought forward and down from above shoulder level", "Synonyms: overarm, overhanded"]}
+{"data": ["2022-07-12T10:01:05.152090+00:00", 3796, "Your mother is", "opportune", "Pronunciation: /\u02cc\u0251p\u0259r\u02c8tun/", "Definition: suitable or at a time that is suitable or advantageous especially for a particular purpose", ""]}
