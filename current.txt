@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T19:00:49.456527+00:00", 3829, "Your mother is", "vexed", "Pronunciation: /v\u025bkst/", "Definition: troubled persistently especially with petty annoyances", "Synonyms: annoyed, harassed, harried, pestered"]}
+{"data": ["2022-07-13T20:01:10.146876+00:00", 3830, "Your mother is", "uncool", "Pronunciation: /\u0259n\u02c8kul/", "Definition: (spoken slang) unfashionable and boring", ""]}
