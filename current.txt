@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T18:01:21.288904+00:00", 3828, "Your mother is", "nonelected", "Similar to: appointed", "Definition: filled by appointment rather than by election", "Synonyms: non-elective, nonelective"]}
+{"data": ["2022-07-13T19:00:49.456527+00:00", 3829, "Your mother is", "vexed", "Pronunciation: /v\u025bkst/", "Definition: troubled persistently especially with petty annoyances", "Synonyms: annoyed, harassed, harried, pestered"]}
