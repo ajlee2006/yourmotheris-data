@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T03:00:46.552071+00:00", 3813, "Your mother is", "adroit", "Pronunciation: /\u0259\u02c8dr\u0254\u026at/", "Definition: quick or skillful or adept in action or thought", ""]}
+{"data": ["2022-07-13T04:00:54.054555+00:00", 3814, "Your mother is", "shackled", "Pronunciation: /\u02c8\u0283\u00e6k\u028cld/", "Definition: bound by chains fastened around the ankles", "Synonyms: fettered"]}
