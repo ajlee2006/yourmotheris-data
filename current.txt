@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T09:01:22.566577+00:00", 3819, "Your mother is", "doped", "Pronunciation: /do\u028apt/", "Definition: under the influence of narcotics", "Synonyms: drugged, narcotised, narcotized"]}
+{"data": ["2022-07-13T10:01:20.242477+00:00", 3820, "Your mother is", "donnian", "", "Definition: of or relating to or in the manner of John Donne", "Synonyms: donnean"]}
