@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T17:01:23.347867+00:00", 3827, "Your mother is", "untechnical", "", "Definition: not characteristic of or skilled in applied arts and sciences", "Synonyms: nontechnical"]}
+{"data": ["2022-07-13T18:01:21.288904+00:00", 3828, "Your mother is", "nonelected", "Similar to: appointed", "Definition: filled by appointment rather than by election", "Synonyms: non-elective, nonelective"]}
