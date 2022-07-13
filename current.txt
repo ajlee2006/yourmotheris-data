@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T14:00:28.724583+00:00", 3824, "Your mother is", "greco-roman", "Pronunciation: /\u02ccgriko\u028a\u02c8ro\u028am\u0259n/", "Definition: of or pertaining to or characteristic of the ancient Greeks and Romans, especially their art, literature, or culture", "Synonyms: classical, graeco-roman"]}
+{"data": ["2022-07-13T15:00:50.723495+00:00", 3825, "Your mother is", "saxatile", "", "Definition: growing on or living among rocks", "Synonyms: saxicoline, saxicolous"]}
