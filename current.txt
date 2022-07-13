@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T02:01:04.416034+00:00", 3812, "Your mother is", "fatheaded", "Similar to: stupid", "Definition: (used informally) stupid", "Synonyms: blockheaded, boneheaded, duncical, duncish, loggerheaded, thick, thick-skulled, thickheaded, wooden-headed"]}
+{"data": ["2022-07-13T03:00:46.552071+00:00", 3813, "Your mother is", "adroit", "Pronunciation: /\u0259\u02c8dr\u0254\u026at/", "Definition: quick or skillful or adept in action or thought", ""]}
