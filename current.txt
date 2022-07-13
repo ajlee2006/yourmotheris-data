@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T13:01:07.938278+00:00", 3823, "Your mother is", "funky", "Pronunciation: /\u02c8f\u0259\u014bki/", "Definition: (of jazz) having the soulful feeling of early blues", "Synonyms: low-down"]}
+{"data": ["2022-07-13T14:00:28.724583+00:00", 3824, "Your mother is", "greco-roman", "Pronunciation: /\u02ccgriko\u028a\u02c8ro\u028am\u0259n/", "Definition: of or pertaining to or characteristic of the ancient Greeks and Romans, especially their art, literature, or culture", "Synonyms: classical, graeco-roman"]}
