@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T21:00:54.662467+00:00", 3831, "Your mother is", "residual", "Pronunciation: /r\u026a\u02c8z\u026ad\u0292u\u0259l/", "Definition: relating to or indicating a remainder", "Synonyms: residuary"]}
+{"data": ["2022-07-13T22:01:02.592269+00:00", 3832, "Your mother is", "inaccessible", "Pronunciation: /\u02cc\u026an\u0259k\u02c8s\u025bs\u0259b\u0259l/", "Definition: capable of being reached only with great difficulty or not at all", "Synonyms: unaccessible"]}
