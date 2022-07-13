@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T11:00:31.937259+00:00", 3821, "Your mother is", "1000th", "Similar to: ordinal", "Definition: the ordinal number of one thousand in counting order", "Synonyms: thousandth"]}
+{"data": ["2022-07-13T12:00:57.635876+00:00", 3822, "Your mother is", "cataclinal", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8kla\u026an\u0259l/", "Definition: of valleys and rivers; running in the direction of the dip in surrounding rock strata", ""]}
