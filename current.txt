@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T22:01:02.592269+00:00", 3832, "Your mother is", "inaccessible", "Pronunciation: /\u02cc\u026an\u0259k\u02c8s\u025bs\u0259b\u0259l/", "Definition: capable of being reached only with great difficulty or not at all", "Synonyms: unaccessible"]}
+{"data": ["2022-07-13T23:00:42.548915+00:00", 3833, "Your mother is", "abnormal", "Pronunciation: /\u00e6b\u02c8n\u0254rm\u0259l/", "Definition: not normal; not typical or usual or regular or conforming to a norm", "Synonyms: unnatural"]}
