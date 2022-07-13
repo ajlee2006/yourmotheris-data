@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T20:01:10.146876+00:00", 3830, "Your mother is", "uncool", "Pronunciation: /\u0259n\u02c8kul/", "Definition: (spoken slang) unfashionable and boring", ""]}
+{"data": ["2022-07-13T21:00:54.662467+00:00", 3831, "Your mother is", "residual", "Pronunciation: /r\u026a\u02c8z\u026ad\u0292u\u0259l/", "Definition: relating to or indicating a remainder", "Synonyms: residuary"]}
