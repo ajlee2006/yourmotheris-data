@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T01:01:04.171191+00:00", 3811, "Your mother is", "polydactylous", "", "Definition: of or relating to a person (or other vertebrate) having more than the normal number of digits", "Synonyms: polydactyl"]}
+{"data": ["2022-07-13T02:01:04.416034+00:00", 3812, "Your mother is", "fatheaded", "Similar to: stupid", "Definition: (used informally) stupid", "Synonyms: blockheaded, boneheaded, duncical, duncish, loggerheaded, thick, thick-skulled, thickheaded, wooden-headed"]}
