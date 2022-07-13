@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T04:00:54.054555+00:00", 3814, "Your mother is", "shackled", "Pronunciation: /\u02c8\u0283\u00e6k\u028cld/", "Definition: bound by chains fastened around the ankles", "Synonyms: fettered"]}
+{"data": ["2022-07-13T05:00:34.830277+00:00", 3815, "Your mother is", "inestimable", "Pronunciation: /\u026an\u02c8\u025bst\u0259m\u0259b\u0259l/", "Definition: beyond calculation or measure", "Synonyms: immeasurable, incomputable"]}
