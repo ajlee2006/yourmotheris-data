@@ -1,1 +1,1 @@
-{"data": ["2022-07-14T09:00:38.688446+00:00", 3843, "Your mother is", "pelecypodous", "Pronunciation: /\u02ccp\u025bl\u026a\u02c8s\u026ap\u0259d\u0259s/", "Definition: bivalve", "Synonyms: lamellibranch, pelecypod"]}
+{"data": ["2022-07-14T10:00:38.192710+00:00", 3844, "Your mother is", "middle atlantic", "Similar to: eastern", "Definition: of a region of the United States generally including Delaware; Maryland; Virginia; and usually New York; Pennsylvania; New Jersey", "Synonyms: mid-atlantic"]}
