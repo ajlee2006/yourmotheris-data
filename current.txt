@@ -1,1 +1,1 @@
-{"data": ["2022-07-14T06:00:44.986759+00:00", 3840, "Your mother is", "marooned", "Pronunciation: /m\u025dr\u02c8und/", "Definition: cut off or left behind", "Synonyms: isolated, stranded"]}
+{"data": ["2022-07-14T07:01:03.881567+00:00", 3841, "Your mother is", "perplexing", "Pronunciation: /p\u025dr\u02c8pl\u025bks\u026a\u014b/", "Definition: lacking clarity of meaning; causing confusion or perplexity", "Synonyms: confusing, puzzling"]}
