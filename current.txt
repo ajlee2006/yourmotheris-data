@@ -1,1 +1,1 @@
-{"data": ["2022-07-14T08:01:20.120539+00:00", 3842, "Your mother is", "unbolted", "Pronunciation: /\u0259n\u02c8bo\u028alt\u026ad/", "Definition: not firmly fastened or secured", "Synonyms: unbarred, unlatched, unlocked, unsecured"]}
+{"data": ["2022-07-14T09:00:38.688446+00:00", 3843, "Your mother is", "pelecypodous", "Pronunciation: /\u02ccp\u025bl\u026a\u02c8s\u026ap\u0259d\u0259s/", "Definition: bivalve", "Synonyms: lamellibranch, pelecypod"]}
