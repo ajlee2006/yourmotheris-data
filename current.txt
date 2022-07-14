@@ -1,1 +1,1 @@
-{"data": ["2022-07-14T03:00:42.348778+00:00", 3837, "Your mother is", "token", "Pronunciation: /\u02c8to\u028ak\u0259n/", "Definition: insignificantly small; a matter of form only (`tokenish' is informal)", "Synonyms: nominal, tokenish"]}
+{"data": ["2022-07-14T04:01:23.221792+00:00", 3838, "Your mother is", "world-shaking", "Pronunciation: /w\u025crld-\u02c8\u0283e\u026ak\u026a\u014b/", "Definition: sufficiently significant to affect the whole world", "Synonyms: earthshaking, world-shattering"]}
