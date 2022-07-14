@@ -1,1 +1,1 @@
-{"data": ["2022-07-14T10:00:38.192710+00:00", 3844, "Your mother is", "middle atlantic", "Similar to: eastern", "Definition: of a region of the United States generally including Delaware; Maryland; Virginia; and usually New York; Pennsylvania; New Jersey", "Synonyms: mid-atlantic"]}
+{"data": ["2022-07-14T11:00:30.897035+00:00", 3845, "Your mother is", "leafy-stemmed", "Similar to: caulescent", "Definition: having a leafy stem", ""]}
