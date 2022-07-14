@@ -1,1 +1,1 @@
-{"data": ["2022-07-14T00:01:45.782257+00:00", 3834, "Your mother is", "sunset", "Pronunciation: /\u02c8s\u0259n\u02ccs\u025bt/", "Definition: of a declining industry or technology", ""]}
+{"data": ["2022-07-14T01:01:44.501028+00:00", 3835, "Your mother is", "kosher", "Pronunciation: /\u02c8ko\u028a\u0283\u0259r/", "Definition: conforming to dietary laws", "Synonyms: cosher"]}
