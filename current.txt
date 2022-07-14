@@ -1,1 +1,1 @@
-{"data": ["2022-07-14T01:01:44.501028+00:00", 3835, "Your mother is", "kosher", "Pronunciation: /\u02c8ko\u028a\u0283\u0259r/", "Definition: conforming to dietary laws", "Synonyms: cosher"]}
+{"data": ["2022-07-14T02:00:34.863542+00:00", 3836, "Your mother is", "niminy-piminy", "Similar to: refined", "Definition: affectedly dainty or refined", "Synonyms: mincing, prim, twee"]}
