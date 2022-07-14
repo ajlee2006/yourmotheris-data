@@ -1,1 +1,1 @@
-{"data": ["2022-07-14T18:00:30.847427+00:00", 3852, "Your mother is", "acapnic", "", "Definition: relating to or demonstrating acapnia", "Synonyms: acapnial, acapnotic"]}
+{"data": ["2022-07-14T19:01:14.472068+00:00", 3853, "Your mother is", "nerveless", "Pronunciation: /\u02c8n\u025crvl\u026as/", "Definition: marked by calm self-control (especially in trying circumstances); unemotional", "Synonyms: cool, coolheaded"]}
