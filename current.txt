@@ -1,1 +1,1 @@
-{"data": ["2022-07-13T23:00:42.548915+00:00", 3833, "Your mother is", "abnormal", "Pronunciation: /\u00e6b\u02c8n\u0254rm\u0259l/", "Definition: not normal; not typical or usual or regular or conforming to a norm", "Synonyms: unnatural"]}
+{"data": ["2022-07-14T00:01:45.782257+00:00", 3834, "Your mother is", "sunset", "Pronunciation: /\u02c8s\u0259n\u02ccs\u025bt/", "Definition: of a declining industry or technology", ""]}
