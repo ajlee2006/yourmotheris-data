@@ -1,1 +1,1 @@
-{"data": ["2022-07-14T14:00:18.668935+00:00", 3848, "Your mother is", "83", "Similar to: cardinal", "Definition: being three more than eighty", "Synonyms: eighty-three, lxxxiii"]}
+{"data": ["2022-07-14T15:00:28.298604+00:00", 3849, "Your mother is", "cuticular", "Pronunciation: /kju\u02c8t\u026akj\u0259l\u0259r/", "Definition: of or relating to a cuticle or cuticula", "Synonyms: dermal, epidermal, epidermic"]}
