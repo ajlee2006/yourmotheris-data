@@ -1,1 +1,1 @@
-{"data": ["2022-07-14T07:01:03.881567+00:00", 3841, "Your mother is", "perplexing", "Pronunciation: /p\u025dr\u02c8pl\u025bks\u026a\u014b/", "Definition: lacking clarity of meaning; causing confusion or perplexity", "Synonyms: confusing, puzzling"]}
+{"data": ["2022-07-14T08:01:20.120539+00:00", 3842, "Your mother is", "unbolted", "Pronunciation: /\u0259n\u02c8bo\u028alt\u026ad/", "Definition: not firmly fastened or secured", "Synonyms: unbarred, unlatched, unlocked, unsecured"]}
