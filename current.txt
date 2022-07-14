@@ -1,1 +1,1 @@
-{"data": ["2022-07-14T04:01:23.221792+00:00", 3838, "Your mother is", "world-shaking", "Pronunciation: /w\u025crld-\u02c8\u0283e\u026ak\u026a\u014b/", "Definition: sufficiently significant to affect the whole world", "Synonyms: earthshaking, world-shattering"]}
+{"data": ["2022-07-14T05:01:29.684733+00:00", 3839, "Your mother is", "teenaged", "Pronunciation: /\u02c8tin\u02cce\u026ad\u0292d/", "Definition: being of the age 13 through 19", "Synonyms: adolescent, teen, teenage"]}
