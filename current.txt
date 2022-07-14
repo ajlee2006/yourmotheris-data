@@ -1,1 +1,1 @@
-{"data": ["2022-07-14T05:01:29.684733+00:00", 3839, "Your mother is", "teenaged", "Pronunciation: /\u02c8tin\u02cce\u026ad\u0292d/", "Definition: being of the age 13 through 19", "Synonyms: adolescent, teen, teenage"]}
+{"data": ["2022-07-14T06:00:44.986759+00:00", 3840, "Your mother is", "marooned", "Pronunciation: /m\u025dr\u02c8und/", "Definition: cut off or left behind", "Synonyms: isolated, stranded"]}
