@@ -1,1 +1,1 @@
-{"data": ["2022-07-15T19:01:06.867028+00:00", 3877, "Your mother is", "hand-to-mouth", "Pronunciation: /\u02c8h\u00e6ndt\u0259-\u02c8ma\u028a\u03b8/", "Definition: providing only bare essentials", ""]}
+{"data": ["2022-07-15T20:00:57.351416+00:00", 3878, "Your mother is", "lined", "Pronunciation: /la\u026and/", "Definition: (used especially of skin) marked by lines or seams", "Synonyms: seamed"]}
