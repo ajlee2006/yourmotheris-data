@@ -1,1 +1,1 @@
-{"data": ["2022-07-15T14:01:26.299328+00:00", 3872, "Your mother is", "squiffy", "Pronunciation: /\u02c8skw\u026afi/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, soused, sozzled, stiff, tight, wet"]}
+{"data": ["2022-07-15T15:00:44.240014+00:00", 3873, "Your mother is", "foliate", "Pronunciation: /\u02c8fo\u028ali\u026at/", "Definition: (especially of metamorphic rock) having thin leaflike layers or strata", "Synonyms: foliaceous, foliated"]}
