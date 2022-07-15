@@ -1,1 +1,1 @@
-{"data": ["2022-07-15T10:00:45.293469+00:00", 3868, "Your mother is", "debonair", "Pronunciation: /\u02ccd\u025bb\u0259\u02c8n\u025cr/", "Definition: having a sophisticated charm", "Synonyms: debonaire, debonnaire, suave"]}
+{"data": ["2022-07-15T11:01:05.353575+00:00", 3869, "Your mother is", "reticular", "Pronunciation: /r\u026a\u02c8t\u026akj\u0259l\u0259r/", "Definition: resembling or forming a network", "Synonyms: reticulate"]}
