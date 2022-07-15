@@ -1,1 +1,1 @@
-{"data": ["2022-07-15T16:01:07.312602+00:00", 3874, "Your mother is", "retarded", "Pronunciation: /r\u026a\u02c8t\u0251rd\u026ad/", "Definition: relatively slow in mental or emotional or physical development", ""]}
+{"data": ["2022-07-15T17:00:46.214387+00:00", 3875, "Your mother is", "unsynchronous", "Similar to: asynchronous", "Definition: not occurring together", "Synonyms: nonsynchronous, unsynchronised, unsynchronized"]}
