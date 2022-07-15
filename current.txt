@@ -1,1 +1,1 @@
-{"data": ["2022-07-15T03:00:56.681563+00:00", 3861, "Your mother is", "unsugared", "Pronunciation: /\u0259n\u02c8\u0283\u028a\u0261\u0259d/", "Definition: with no sugar added", ""]}
+{"data": ["2022-07-15T04:00:50.020913+00:00", 3862, "Your mother is", "energising", "Similar to: dynamic", "Definition: supplying motive force", "Synonyms: energizing, kinetic"]}
