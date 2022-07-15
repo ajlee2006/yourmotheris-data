@@ -1,1 +1,1 @@
-{"data": ["2022-07-14T23:01:06.889663+00:00", 3857, "Your mother is", "vowellike", "Similar to: vocalic", "Definition: having characteristics of a vowel sound", ""]}
+{"data": ["2022-07-15T00:01:32.557969+00:00", 3858, "Your mother is", "incorrigible", "Pronunciation: /\u026an\u02c8k\u0254r\u026ad\u0292\u0259b\u0259l/", "Definition: difficult or impossible to manage or control", ""]}
