@@ -1,1 +1,1 @@
-{"data": ["2022-07-15T06:01:33.256353+00:00", 3864, "Your mother is", "throaty", "Pronunciation: /\u02c8\u03b8ro\u028ati/", "Definition: sounding as if pronounced low in the throat", ""]}
+{"data": ["2022-07-15T07:01:14.227683+00:00", 3865, "Your mother is", "societal", "Pronunciation: /s\u028c\u02c8sa\u026a\u026at\u028cl/", "Definition: relating to human society and its members", "Synonyms: social"]}
