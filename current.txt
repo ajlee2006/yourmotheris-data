@@ -1,1 +1,1 @@
-{"data": ["2022-07-15T05:00:30.477115+00:00", 3863, "Your mother is", "co-ed", "Pronunciation: /\u02c8ko\u028a\u02cc\u025bd/", "Definition: attended by members of both sexes", "Synonyms: coeducational"]}
+{"data": ["2022-07-15T06:01:33.256353+00:00", 3864, "Your mother is", "throaty", "Pronunciation: /\u02c8\u03b8ro\u028ati/", "Definition: sounding as if pronounced low in the throat", ""]}
