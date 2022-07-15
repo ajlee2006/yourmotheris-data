@@ -1,1 +1,1 @@
-{"data": ["2022-07-15T00:01:32.557969+00:00", 3858, "Your mother is", "incorrigible", "Pronunciation: /\u026an\u02c8k\u0254r\u026ad\u0292\u0259b\u0259l/", "Definition: difficult or impossible to manage or control", ""]}
+{"data": ["2022-07-15T01:01:08.385217+00:00", 3859, "Your mother is", "coarse-furred", "Similar to: haired", "Definition: having coarse hair or fur", "Synonyms: coarse-haired"]}
