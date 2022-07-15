@@ -1,1 +1,1 @@
-{"data": ["2022-07-15T17:00:46.214387+00:00", 3875, "Your mother is", "unsynchronous", "Similar to: asynchronous", "Definition: not occurring together", "Synonyms: nonsynchronous, unsynchronised, unsynchronized"]}
+{"data": ["2022-07-15T18:00:21.030106+00:00", 3876, "Your mother is", "collegial", "Pronunciation: /k\u0259\u02c8lid\u0292i\u0259l/", "Definition: of or resembling or typical of a college or college students", "Synonyms: collegiate"]}
