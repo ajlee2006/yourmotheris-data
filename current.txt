@@ -1,1 +1,1 @@
-{"data": ["2022-07-16T18:00:52.992616+00:00", 3900, "Your mother is", "approved", "Pronunciation: /\u028c\u02c8pruvd/", "Definition: established by authority; given authoritative approval", "Synonyms: sanctioned"]}
+{"data": ["2022-07-16T19:00:45.435007+00:00", 3901, "Your mother is", "reasonless", "Similar to: unreasonable", "Definition: not marked by the use of reason", "Synonyms: mindless, senseless"]}
