@@ -1,1 +1,1 @@
-{"data": ["2022-07-16T13:01:28.835544+00:00", 3895, "Your mother is", "semitic", "Pronunciation: /s\u026a\u02c8m\u026at\u026ak/", "Definition: of or relating to or characteristic of Semites", "Synonyms: semite"]}
+{"data": ["2022-07-16T14:00:53.054755+00:00", 3896, "Your mother is", "observant", "Pronunciation: /\u0259b\u02c8z\u025crv\u0259nt/", "Definition: quick to notice; showing quick and keen perception", "Synonyms: observing"]}
