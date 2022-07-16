@@ -1,1 +1,1 @@
-{"data": ["2022-07-16T21:01:11.488404+00:00", 3903, "Your mother is", "unimpeded", "Pronunciation: /\u02cc\u028cn\u026am\u02c8pid\u026ad/", "Definition: not slowed or prevented", ""]}
+{"data": ["2022-07-16T22:00:58.273861+00:00", 3904, "Your mother is", "trilled", "Similar to: pronounceable", "Definition: uttered with a trill", "Synonyms: rolled, rolling"]}
