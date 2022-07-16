@@ -1,1 +1,1 @@
-{"data": ["2022-07-16T10:00:49.241628+00:00", 3892, "Your mother is", "indulgent", "Pronunciation: /\u026an\u02c8d\u0259ld\u0292\u0259nt/", "Definition: tolerant or lenient", "Synonyms: lenient, soft"]}
+{"data": ["2022-07-16T11:01:09.249175+00:00", 3893, "Your mother is", "uncomfortable", "Pronunciation: /\u0259n\u02c8k\u0259mft\u0259b\u0259l/", "Definition: conducive to or feeling mental discomfort", ""]}
