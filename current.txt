@@ -1,1 +1,1 @@
-{"data": ["2022-07-16T01:01:37.703162+00:00", 3883, "Your mother is", "shinto", "Pronunciation: /\u02c8\u0283\u026anto\u028a/", "Definition: relating to or characteristic of Shintoism", "Synonyms: shintoist, shintoistic"]}
+{"data": ["2022-07-16T02:01:23.882952+00:00", 3884, "Your mother is", "suppressive", "Similar to: restrictive", "Definition: tending to suppress", ""]}
