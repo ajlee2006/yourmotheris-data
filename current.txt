@@ -1,1 +1,1 @@
-{"data": ["2022-07-16T12:00:55.673391+00:00", 3894, "Your mother is", "lopsided", "Pronunciation: /\u02c8l\u0251p\u02c8sa\u026ad\u026ad/", "Definition: turned or twisted toward one side", "Synonyms: askew, awry, cockeyed, skew-whiff, wonky"]}
+{"data": ["2022-07-16T13:01:28.835544+00:00", 3895, "Your mother is", "semitic", "Pronunciation: /s\u026a\u02c8m\u026at\u026ak/", "Definition: of or relating to or characteristic of Semites", "Synonyms: semite"]}
