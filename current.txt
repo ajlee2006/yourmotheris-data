@@ -1,1 +1,1 @@
-{"data": ["2022-07-16T16:00:33.599168+00:00", 3898, "Your mother is", "ungraceful", "Pronunciation: /\u0259n\u02c8gre\u026asf\u0259l/", "Definition: lacking grace; clumsy", "Synonyms: graceless"]}
+{"data": ["2022-07-16T17:00:27.539659+00:00", 3899, "Your mother is", "agreed", "Pronunciation: /\u0259\u02c8grid/", "Definition: united by being of the same opinion", "Synonyms: in agreement"]}
