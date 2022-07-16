@@ -1,1 +1,1 @@
-{"data": ["2022-07-16T05:01:11.326831+00:00", 3887, "Your mother is", "unisex", "Pronunciation: /\u02c8jun\u026a\u02ccs\u025bks/", "Definition: not distinguished on the basis of sex", ""]}
+{"data": ["2022-07-16T06:01:34.048525+00:00", 3888, "Your mother is", "butch", "Pronunciation: /b\u028a\u02a7/", "Definition: used of men; markedly masculine in appearance or manner", "Synonyms: macho"]}
