@@ -1,1 +1,1 @@
-{"data": ["2022-07-16T02:01:23.882952+00:00", 3884, "Your mother is", "suppressive", "Similar to: restrictive", "Definition: tending to suppress", ""]}
+{"data": ["2022-07-16T03:01:22.901214+00:00", 3885, "Your mother is", "metabolic", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8b\u0251l\u026ak/", "Definition: undergoing metamorphosis", "Synonyms: metabolous"]}
