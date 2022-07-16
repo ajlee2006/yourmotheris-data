@@ -1,1 +1,1 @@
-{"data": ["2022-07-16T00:05:39.883632+00:00", 3882, "Your mother is", "monopolistic", "Pronunciation: /m\u028c\u02ccn\u0251p\u028c\u02c8l\u026ast\u026ak/", "Definition: having exclusive control over a commercial activity by possession or legal grant", ""]}
+{"data": ["2022-07-16T01:01:37.703162+00:00", 3883, "Your mother is", "shinto", "Pronunciation: /\u02c8\u0283\u026anto\u028a/", "Definition: relating to or characteristic of Shintoism", "Synonyms: shintoist, shintoistic"]}
