@@ -1,1 +1,1 @@
-{"data": ["2022-07-16T04:00:56.422926+00:00", 3886, "Your mother is", "riled", "Pronunciation: /ra\u026ald/", "Definition: aroused to impatience or anger", "Synonyms: annoyed, irritated, miffed, nettled, peeved, pissed, pissed off, roiled, steamed, stung"]}
+{"data": ["2022-07-16T05:01:11.326831+00:00", 3887, "Your mother is", "unisex", "Pronunciation: /\u02c8jun\u026a\u02ccs\u025bks/", "Definition: not distinguished on the basis of sex", ""]}
