@@ -1,1 +1,1 @@
-{"data": ["2022-07-16T14:00:53.054755+00:00", 3896, "Your mother is", "observant", "Pronunciation: /\u0259b\u02c8z\u025crv\u0259nt/", "Definition: quick to notice; showing quick and keen perception", "Synonyms: observing"]}
+{"data": ["2022-07-16T15:00:43.273796+00:00", 3897, "Your mother is", "volcanic", "Pronunciation: /v\u0251l\u02c8k\u00e6n\u026ak/", "Definition: explosively unstable", ""]}
