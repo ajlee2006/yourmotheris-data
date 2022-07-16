@@ -1,1 +1,1 @@
-{"data": ["2022-07-16T11:01:09.249175+00:00", 3893, "Your mother is", "uncomfortable", "Pronunciation: /\u0259n\u02c8k\u0259mft\u0259b\u0259l/", "Definition: conducive to or feeling mental discomfort", ""]}
+{"data": ["2022-07-16T12:00:55.673391+00:00", 3894, "Your mother is", "lopsided", "Pronunciation: /\u02c8l\u0251p\u02c8sa\u026ad\u026ad/", "Definition: turned or twisted toward one side", "Synonyms: askew, awry, cockeyed, skew-whiff, wonky"]}
