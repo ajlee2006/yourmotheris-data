@@ -1,1 +1,1 @@
-{"data": ["2022-07-16T03:01:22.901214+00:00", 3885, "Your mother is", "metabolic", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8b\u0251l\u026ak/", "Definition: undergoing metamorphosis", "Synonyms: metabolous"]}
+{"data": ["2022-07-16T04:00:56.422926+00:00", 3886, "Your mother is", "riled", "Pronunciation: /ra\u026ald/", "Definition: aroused to impatience or anger", "Synonyms: annoyed, irritated, miffed, nettled, peeved, pissed, pissed off, roiled, steamed, stung"]}
