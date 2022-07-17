@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T08:00:43.512610+00:00", 3914, "Your mother is", "worn out", "Similar to: tired", "Definition: drained of energy or effectiveness; extremely tired; completely exhausted", "Synonyms: dog-tired, exhausted, fagged, fatigued, gone, played out, spent, washed-out, worn-out"]}
+{"data": ["2022-07-17T09:01:33.605210+00:00", 3915, "Your mother is", "rectilineal", "Pronunciation: /\u02ccr\u025bkt\u026a\u02c8l\u026ani\u0259l/", "Definition: characterized by a straight line or lines", "Synonyms: rectilinear"]}
