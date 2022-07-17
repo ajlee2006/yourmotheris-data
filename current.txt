@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T21:00:55.528983+00:00", 3927, "Your mother is", "elaborate", "Pronunciation: /\u026a\u02c8l\u00e6b\u0259r\u026at/", "Definition: marked by complexity and richness of detail", "Synonyms: luxuriant"]}
+{"data": ["2022-07-17T22:00:29.072554+00:00", 3928, "Your mother is", "reposeful", "Pronunciation: /r\u026a\u02c8po\u028azf\u0259l/", "Definition: affording physical or mental rest", "Synonyms: relaxing, restful"]}
