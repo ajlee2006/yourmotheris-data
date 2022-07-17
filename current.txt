@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T12:01:01.953593+00:00", 3918, "Your mother is", "discalced", "Pronunciation: /d\u026as\u02c8k\u00e6lst/", "Definition: (used of certain religious orders) barefoot or wearing only sandals", "Synonyms: discalceate, unshod"]}
+{"data": ["2022-07-17T13:01:03.786889+00:00", 3919, "Your mother is", "middle", "Pronunciation: /\u02c8m\u026ad\u0259l/", "Definition: equally distant from the extremes", "Synonyms: center, halfway, midway"]}
