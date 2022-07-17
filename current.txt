@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T10:01:33.354972+00:00", 3916, "Your mother is", "basifixed", "Pronunciation: /\u02c8be\u026as\u0259\u02ccf\u026akst/", "Definition: attached by its base (as certain anthers to their filaments or stalks)", ""]}
+{"data": ["2022-07-17T11:01:32.454715+00:00", 3917, "Your mother is", "sufficient", "Pronunciation: /s\u0259\u02c8f\u026a\u0283\u0259nt/", "Definition: of a quantity that can fulfill a need or requirement but without being abundant", ""]}
