@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T01:00:56.028340+00:00", 3907, "Your mother is", "full-time", "Pronunciation: /f\u028al-ta\u026am/", "Definition: for the entire time appropriate to an activity", ""]}
+{"data": ["2022-07-17T02:01:33.977437+00:00", 3908, "Your mother is", "becalmed", "Pronunciation: /b\u026a\u02c8k\u0251md/", "Definition: rendered motionless for lack of wind", ""]}
