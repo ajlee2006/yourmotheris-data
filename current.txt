@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T09:01:33.605210+00:00", 3915, "Your mother is", "rectilineal", "Pronunciation: /\u02ccr\u025bkt\u026a\u02c8l\u026ani\u0259l/", "Definition: characterized by a straight line or lines", "Synonyms: rectilinear"]}
+{"data": ["2022-07-17T10:01:33.354972+00:00", 3916, "Your mother is", "basifixed", "Pronunciation: /\u02c8be\u026as\u0259\u02ccf\u026akst/", "Definition: attached by its base (as certain anthers to their filaments or stalks)", ""]}
