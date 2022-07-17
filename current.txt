@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T14:00:47.679372+00:00", 3920, "Your mother is", "multinomial", "Pronunciation: /\u02ccm\u0259lt\u026a\u02c8no\u028ami\u0259l/", "Definition: having the character of a polynomial", "Synonyms: polynomial"]}
+{"data": ["2022-07-17T15:00:49.282461+00:00", 3921, "Your mother is", "last-minute", "Pronunciation: /l\u00e6st-\u02c8m\u026an\u026at/", "Definition: just before a deadline; at the last minute", ""]}
