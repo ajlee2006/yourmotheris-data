@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T03:01:05.353229+00:00", 3909, "Your mother is", "uveal", "", "Definition: of or relating to the uvea of the eye", "Synonyms: uveous"]}
+{"data": ["2022-07-17T04:01:55.118508+00:00", 3910, "Your mother is", "supranational", "Pronunciation: /\u02ccsupr\u0259\u02c8n\u00e6\u0283\u0259n\u0259l/", "Definition: transcending established national boundaries or spheres of interest", ""]}
