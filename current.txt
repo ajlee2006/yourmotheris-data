@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T17:00:30.961926+00:00", 3923, "Your mother is", "explicit", "Pronunciation: /\u026ak\u02c8spl\u026as\u026at/", "Definition: precisely and clearly expressed or readily observable; leaving nothing to implication", "Synonyms: expressed"]}
+{"data": ["2022-07-17T18:00:58.061300+00:00", 3924, "Your mother is", "nonsynchronous", "Similar to: asynchronous", "Definition: not occurring together", "Synonyms: unsynchronised, unsynchronized, unsynchronous"]}
