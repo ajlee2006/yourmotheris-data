@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T04:01:55.118508+00:00", 3910, "Your mother is", "supranational", "Pronunciation: /\u02ccsupr\u0259\u02c8n\u00e6\u0283\u0259n\u0259l/", "Definition: transcending established national boundaries or spheres of interest", ""]}
+{"data": ["2022-07-17T05:00:57.036562+00:00", 3911, "Your mother is", "narrow-minded", "Pronunciation: /\u02ccn\u00e6ro\u028a\u02c8ma\u026and\u026ad/", "Definition: capable of being shocked", "Synonyms: shockable"]}
