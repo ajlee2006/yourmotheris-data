@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T11:01:32.454715+00:00", 3917, "Your mother is", "sufficient", "Pronunciation: /s\u0259\u02c8f\u026a\u0283\u0259nt/", "Definition: of a quantity that can fulfill a need or requirement but without being abundant", ""]}
+{"data": ["2022-07-17T12:01:01.953593+00:00", 3918, "Your mother is", "discalced", "Pronunciation: /d\u026as\u02c8k\u00e6lst/", "Definition: (used of certain religious orders) barefoot or wearing only sandals", "Synonyms: discalceate, unshod"]}
