@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T06:01:25.804591+00:00", 3912, "Your mother is", "clothesless", "Similar to: unclothed", "Definition: possessing no clothing", "Synonyms: garmentless, raimentless"]}
+{"data": ["2022-07-17T07:01:28.385939+00:00", 3913, "Your mother is", "saponaceous", "Pronunciation: /\u02ccs\u00e6p\u0259\u02c8ne\u026a\u0283\u0259s/", "Definition: resembling or having the qualities of soap", "Synonyms: soapy"]}
