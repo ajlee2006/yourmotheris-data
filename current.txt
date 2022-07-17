@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T20:01:08.857114+00:00", 3926, "Your mother is", "portentous", "Pronunciation: /po\u028ar\u02c8t\u025bnt\u0259s/", "Definition: ominously prophetic", "Synonyms: fateful, foreboding"]}
+{"data": ["2022-07-17T21:00:55.528983+00:00", 3927, "Your mother is", "elaborate", "Pronunciation: /\u026a\u02c8l\u00e6b\u0259r\u026at/", "Definition: marked by complexity and richness of detail", "Synonyms: luxuriant"]}
