@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T00:01:19.056082+00:00", 3906, "Your mother is", "disenchanted", "Pronunciation: /d\u026as\u026an\u02c8t\u0283\u00e6nt\u026ad/", "Definition: freed from enchantment", ""]}
+{"data": ["2022-07-17T01:00:56.028340+00:00", 3907, "Your mother is", "full-time", "Pronunciation: /f\u028al-ta\u026am/", "Definition: for the entire time appropriate to an activity", ""]}
