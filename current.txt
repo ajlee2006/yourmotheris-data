@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T02:01:33.977437+00:00", 3908, "Your mother is", "becalmed", "Pronunciation: /b\u026a\u02c8k\u0251md/", "Definition: rendered motionless for lack of wind", ""]}
+{"data": ["2022-07-17T03:01:05.353229+00:00", 3909, "Your mother is", "uveal", "", "Definition: of or relating to the uvea of the eye", "Synonyms: uveous"]}
