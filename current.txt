@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T18:00:58.061300+00:00", 3924, "Your mother is", "nonsynchronous", "Similar to: asynchronous", "Definition: not occurring together", "Synonyms: unsynchronised, unsynchronized, unsynchronous"]}
+{"data": ["2022-07-17T19:00:44.747944+00:00", 3925, "Your mother is", "overemotional", "Similar to: emotional", "Definition: excessively or abnormally emotional", "Synonyms: sloppy"]}
