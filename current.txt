@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T12:01:03.786304+00:00", 3942, "Your mother is", "roundabout", "Pronunciation: /\u02c8ra\u028and-\u0259\u02ccba\u028at/", "Definition: marked by obliqueness or indirection in speech or conduct", "Synonyms: circuitous"]}
+{"data": ["2022-07-18T13:01:16.708799+00:00", 3943, "Your mother is", "dispersive", "Pronunciation: /d\u026a\u02c8sp\u025crs\u026av/", "Definition: spreading by diffusion", "Synonyms: diffusing, diffusive, disseminative"]}
