@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T04:01:55.596764+00:00", 3934, "Your mother is", "pinnate", "Pronunciation: /\u02c8p\u026ane\u026at/", "Definition: (of a leaf shape) featherlike; having leaflets on each side of a common axis", "Synonyms: pinnated"]}
+{"data": ["2022-07-18T05:00:51.906453+00:00", 3935, "Your mother is", "uncalled-for", "Pronunciation: /\u02cc\u0259n\u02c8k\u0254ld\u02ccf\u0254r/", "Definition: unnecessary and unwarranted", "Synonyms: gratuitous, needless"]}
