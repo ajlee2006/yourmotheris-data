@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T15:01:25.004298+00:00", 3945, "Your mother is", "used", "Pronunciation: /juzd/", "Definition: (of persons) taken advantage of", "Synonyms: exploited, ill-used, put-upon, victimised, victimized"]}
+{"data": ["2022-07-18T16:01:14.297366+00:00", 3946, "Your mother is", "hostile", "Pronunciation: /\u02c8h\u0251st\u0259l/", "Definition: very unfavorable to life or growth", "Synonyms: uncongenial, unfriendly"]}
