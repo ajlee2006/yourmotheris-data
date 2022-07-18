@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T17:01:27.154210+00:00", 3947, "Your mother is", "papal", "Pronunciation: /\u02c8pe\u026ap\u0259l/", "Definition: proceeding from or ordered by or subject to a pope or the papacy regarded as the successor of the Apostles", "Synonyms: apostolic, apostolical, pontifical"]}
+{"data": ["2022-07-18T18:01:27.205359+00:00", 3948, "Your mother is", "open-air", "Pronunciation: /\u02c8o\u028ap\u0259n-\u025cr/", "Definition: in the open air", "Synonyms: alfresco"]}
