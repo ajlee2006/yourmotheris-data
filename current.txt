@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T03:00:54.703701+00:00", 3933, "Your mother is", "cod", "Pronunciation: /k\u0251d/", "Definition: payable by the recipient on delivery", "Synonyms: collect"]}
+{"data": ["2022-07-18T04:01:55.596764+00:00", 3934, "Your mother is", "pinnate", "Pronunciation: /\u02c8p\u026ane\u026at/", "Definition: (of a leaf shape) featherlike; having leaflets on each side of a common axis", "Synonyms: pinnated"]}
