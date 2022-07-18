@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T06:01:29.551112+00:00", 3936, "Your mother is", "unseen", "Pronunciation: /\u0259n\u02c8sin/", "Definition: not anticipated", "Synonyms: out of the blue, unanticipated, unforeseen, unlooked-for"]}
+{"data": ["2022-07-18T07:01:04.914356+00:00", 3937, "Your mother is", "refulgent", "Pronunciation: /r\u026a\u02c8f\u0259ld\u0292\u0259nt/", "Definition: radiating or as if radiating light", "Synonyms: beaming, beamy, effulgent, radiant"]}
