@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T09:01:24.444700+00:00", 3939, "Your mother is", "hook-shaped", "Pronunciation: /h\u028ak-\u0283e\u026apt/", "Definition: shaped in the form of a hook", ""]}
+{"data": ["2022-07-18T10:00:46.579299+00:00", 3940, "Your mother is", "allowable", "Pronunciation: /\u0259\u02c8la\u028a\u0259b\u0259l/", "Definition: that may be permitted especially as according to rule", "Synonyms: permissible"]}
