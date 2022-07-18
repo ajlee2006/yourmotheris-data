@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T19:00:47.854060+00:00", 3949, "Your mother is", "barred", "Pronunciation: /b\u0251rd/", "Definition: preventing entry or exit or a course of action", "Synonyms: barricaded, blockaded"]}
+{"data": ["2022-07-18T20:00:43.646130+00:00", 3950, "Your mother is", "narrative", "Pronunciation: /\u02c8n\u00e6r\u0259t\u026av/", "Definition: consisting of or characterized by the telling of a story", ""]}
