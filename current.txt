@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T05:00:51.906453+00:00", 3935, "Your mother is", "uncalled-for", "Pronunciation: /\u02cc\u0259n\u02c8k\u0254ld\u02ccf\u0254r/", "Definition: unnecessary and unwarranted", "Synonyms: gratuitous, needless"]}
+{"data": ["2022-07-18T06:01:29.551112+00:00", 3936, "Your mother is", "unseen", "Pronunciation: /\u0259n\u02c8sin/", "Definition: not anticipated", "Synonyms: out of the blue, unanticipated, unforeseen, unlooked-for"]}
