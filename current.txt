@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T21:01:26.924226+00:00", 3951, "Your mother is", "writhed", "Similar to: crooked", "Definition: twisted (especially as in pain or struggle)", "Synonyms: contorted, writhen"]}
+{"data": ["2022-07-18T22:00:45.462054+00:00", 3952, "Your mother is", "microcrystalline", "Pronunciation: /\u02ccma\u026akro\u028a\u02c8kr\u026ast\u0259l\u026an/", "Definition: containing crystals that are visible only under a microscope", ""]}
