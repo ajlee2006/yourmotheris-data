@@ -1,1 +1,1 @@
-{"data": ["2022-07-17T23:01:03.460505+00:00", 3929, "Your mother is", "diagrammatic", "Pronunciation: /\u02ccda\u026a\u0259gr\u0259\u02c8m\u00e6t\u026ak/", "Definition: shown or represented by diagrams", "Synonyms: diagrammatical"]}
+{"data": ["2022-07-18T00:01:14.382481+00:00", 3930, "Your mother is", "accoutred", "Similar to: equipped", "Definition: provided with necessary articles of equipment for a specialized purpose (especially military)", "Synonyms: accoutered"]}
