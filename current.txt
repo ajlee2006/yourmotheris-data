@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T20:00:43.646130+00:00", 3950, "Your mother is", "narrative", "Pronunciation: /\u02c8n\u00e6r\u0259t\u026av/", "Definition: consisting of or characterized by the telling of a story", ""]}
+{"data": ["2022-07-18T21:01:26.924226+00:00", 3951, "Your mother is", "writhed", "Similar to: crooked", "Definition: twisted (especially as in pain or struggle)", "Synonyms: contorted, writhen"]}
