@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T16:01:14.297366+00:00", 3946, "Your mother is", "hostile", "Pronunciation: /\u02c8h\u0251st\u0259l/", "Definition: very unfavorable to life or growth", "Synonyms: uncongenial, unfriendly"]}
+{"data": ["2022-07-18T17:01:27.154210+00:00", 3947, "Your mother is", "papal", "Pronunciation: /\u02c8pe\u026ap\u0259l/", "Definition: proceeding from or ordered by or subject to a pope or the papacy regarded as the successor of the Apostles", "Synonyms: apostolic, apostolical, pontifical"]}
