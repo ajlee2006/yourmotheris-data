@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T00:01:14.382481+00:00", 3930, "Your mother is", "accoutred", "Similar to: equipped", "Definition: provided with necessary articles of equipment for a specialized purpose (especially military)", "Synonyms: accoutered"]}
+{"data": ["2022-07-18T01:00:47.345676+00:00", 3931, "Your mother is", "limbless", "Pronunciation: /\u02c8l\u026aml\u028cs/", "Definition: having no limbs", ""]}
