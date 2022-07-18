@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T22:00:45.462054+00:00", 3952, "Your mother is", "microcrystalline", "Pronunciation: /\u02ccma\u026akro\u028a\u02c8kr\u026ast\u0259l\u026an/", "Definition: containing crystals that are visible only under a microscope", ""]}
+{"data": ["2022-07-18T23:00:57.034749+00:00", 3953, "Your mother is", "less", "Pronunciation: /l\u025bs/", "Definition: (comparative of `little' usually used with mass nouns) a quantifier meaning not as great in amount or degree", ""]}
