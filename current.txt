@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T14:01:14.981891+00:00", 3944, "Your mother is", "dissatisfied", "Pronunciation: /d\u026as\u02c8s\u00e6t\u026as\u02ccfa\u026ad/", "Definition: in a state of sulky dissatisfaction", "Synonyms: disgruntled"]}
+{"data": ["2022-07-18T15:01:25.004298+00:00", 3945, "Your mother is", "used", "Pronunciation: /juzd/", "Definition: (of persons) taken advantage of", "Synonyms: exploited, ill-used, put-upon, victimised, victimized"]}
