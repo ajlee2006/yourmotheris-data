@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T01:00:47.345676+00:00", 3931, "Your mother is", "limbless", "Pronunciation: /\u02c8l\u026aml\u028cs/", "Definition: having no limbs", ""]}
+{"data": ["2022-07-18T02:01:42.502591+00:00", 3932, "Your mother is", "entozoan", "", "Definition: of or relating to entozoa", "Synonyms: endozoan"]}
