@@ -1,1 +1,1 @@
-{"data": ["2022-07-19T14:00:55.091008+00:00", 3968, "Your mother is", "illicit", "Pronunciation: /\u026a\u02c8l\u026as\u026at/", "Definition: contrary to or forbidden by law", "Synonyms: illegitimate, outlaw, outlawed, unlawful"]}
+{"data": ["2022-07-19T15:01:10.898885+00:00", 3969, "Your mother is", "three", "Pronunciation: /\u03b8ri/", "Definition: being one more than two", "Synonyms: 3, iii"]}
