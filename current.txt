@@ -1,1 +1,1 @@
-{"data": ["2022-07-19T22:00:20.699397+00:00", 3976, "Your mother is", "surrounded", "Pronunciation: /s\u025dr\u02c8a\u028and\u028cd/", "Definition: confined on all sides", "Synonyms: encircled"]}
+{"data": ["2022-07-19T23:01:13.906725+00:00", 3977, "Your mother is", "monoclinous", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8kla\u026an\u0259s/", "Definition: having pistils and stamens in the same flower", ""]}
