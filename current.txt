@@ -1,1 +1,1 @@
-{"data": ["2022-07-19T06:00:52.785468+00:00", 3960, "Your mother is", "convexo-convex", "Pronunciation: /k\u0259n\u02c8v\u025bks\u0251k\u0251n\u02c8v\u025bks/", "Definition: convex on both sides; shaped like a lentil", "Synonyms: biconvex, lenticular, lentiform"]}
+{"data": ["2022-07-19T07:00:55.192920+00:00", 3961, "Your mother is", "caterpillar-tracked", "Similar to: tracked", "Definition: having caterpillar treads or tracks on the wheels", ""]}
