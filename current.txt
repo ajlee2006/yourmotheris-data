@@ -1,1 +1,1 @@
-{"data": ["2022-07-19T07:00:55.192920+00:00", 3961, "Your mother is", "caterpillar-tracked", "Similar to: tracked", "Definition: having caterpillar treads or tracks on the wheels", ""]}
+{"data": ["2022-07-19T08:01:05.218147+00:00", 3962, "Your mother is", "froward", "Pronunciation: /\u02c8fro\u028aw\u0259rd/", "Definition: habitually disposed to disobedience and opposition", "Synonyms: headstrong, self-willed, wilful, willful"]}
