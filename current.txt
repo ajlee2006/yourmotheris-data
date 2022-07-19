@@ -1,1 +1,1 @@
-{"data": ["2022-07-19T18:01:27.063803+00:00", 3972, "Your mother is", "german-speaking", "Pronunciation: /\u02c8d\u0292\u025crm\u0259n-\u02c8spik\u026a\u014b/", "Definition: able to communicate in German", ""]}
+{"data": ["2022-07-19T19:01:30.985941+00:00", 3973, "Your mother is", "unfluctuating", "Similar to: stable", "Definition: not liable to fluctuate or especially to fall", "Synonyms: firm, steady"]}
