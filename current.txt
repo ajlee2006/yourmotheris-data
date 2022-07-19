@@ -1,1 +1,1 @@
-{"data": ["2022-07-19T00:01:54.770709+00:00", 3954, "Your mother is", "supernumerary", "Pronunciation: /\u02ccsup\u0259r\u02c8num\u0259\u02ccr\u025bri/", "Definition: more than is needed, desired, or required", "Synonyms: excess, extra, redundant, spare, supererogatory, superfluous, surplus"]}
+{"data": ["2022-07-19T01:01:16.866191+00:00", 3955, "Your mother is", "excitative", "Pronunciation: /\u026ak\u02c8sa\u026at\u0259t\u026av/", "Definition: (of drugs e.g.) able to excite or stimulate", "Synonyms: excitant, excitatory"]}
