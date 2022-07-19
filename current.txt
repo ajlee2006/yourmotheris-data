@@ -1,1 +1,1 @@
-{"data": ["2022-07-19T16:00:47.623108+00:00", 3970, "Your mother is", "roughshod", "Pronunciation: /\u02c8r\u0259f\u0283\u0251d/", "Definition: unjustly domineering", "Synonyms: heavy-handed"]}
+{"data": ["2022-07-19T17:01:16.637697+00:00", 3971, "Your mother is", "fast-flying", "Similar to: moving", "Definition: moving swiftly", "Synonyms: flying"]}
