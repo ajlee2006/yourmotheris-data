@@ -1,1 +1,1 @@
-{"data": ["2022-07-19T20:01:30.621639+00:00", 3974, "Your mother is", "compartmentalized", "Pronunciation: /\u02cck\u0251mp\u0251rt\u02c8m\u025bnt\u028cla\u026azd/", "Definition: divided up into compartments or categories", "Synonyms: compartmental, compartmentalised"]}
+{"data": ["2022-07-19T21:01:06.542101+00:00", 3975, "Your mother is", "rabbinic", "", "Definition: of or relating to rabbis or their teachings", "Synonyms: rabbinical"]}
