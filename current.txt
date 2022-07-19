@@ -1,1 +1,1 @@
-{"data": ["2022-07-19T08:01:05.218147+00:00", 3962, "Your mother is", "froward", "Pronunciation: /\u02c8fro\u028aw\u0259rd/", "Definition: habitually disposed to disobedience and opposition", "Synonyms: headstrong, self-willed, wilful, willful"]}
+{"data": ["2022-07-19T09:00:40.598958+00:00", 3963, "Your mother is", "droll", "Pronunciation: /dro\u028al/", "Definition: comical in an odd or whimsical manner", ""]}
