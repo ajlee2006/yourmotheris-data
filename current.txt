@@ -1,1 +1,1 @@
-{"data": ["2022-07-18T23:00:57.034749+00:00", 3953, "Your mother is", "less", "Pronunciation: /l\u025bs/", "Definition: (comparative of `little' usually used with mass nouns) a quantifier meaning not as great in amount or degree", ""]}
+{"data": ["2022-07-19T00:01:54.770709+00:00", 3954, "Your mother is", "supernumerary", "Pronunciation: /\u02ccsup\u0259r\u02c8num\u0259\u02ccr\u025bri/", "Definition: more than is needed, desired, or required", "Synonyms: excess, extra, redundant, spare, supererogatory, superfluous, surplus"]}
