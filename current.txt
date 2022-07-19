@@ -1,1 +1,1 @@
-{"data": ["2022-07-19T03:01:24.066469+00:00", 3957, "Your mother is", "ill-fitting", "Pronunciation: /\u026al-\u02c8f\u026at\u026a\u014b/", "Definition: not the right size or shape", ""]}
+{"data": ["2022-07-19T04:01:07.318222+00:00", 3958, "Your mother is", "unconvertible", "Similar to: irredeemable", "Definition: used especially of currencies; incapable of being exchanged for or replaced by another currency of equal value", "Synonyms: inconvertible, unexchangeable"]}
