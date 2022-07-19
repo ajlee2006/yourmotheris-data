@@ -1,1 +1,1 @@
-{"data": ["2022-07-19T12:01:16.256461+00:00", 3966, "Your mother is", "sculptured", "Pronunciation: /\u02c8sk\u028clpt\u0283\u025drd/", "Definition: cut into a desired shape", "Synonyms: graven, sculpted"]}
+{"data": ["2022-07-19T13:00:42.811112+00:00", 3967, "Your mother is", "immunological", "Pronunciation: /\u02cc\u026amjun\u028c\u02c8l\u0251d\u0292\u026ak\u028cl/", "Definition: of or relating to immunology", "Synonyms: immunologic"]}
