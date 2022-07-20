@@ -1,1 +1,1 @@
-{"data": ["2022-07-20T05:01:07.814018+00:00", 3983, "Your mother is", "leather-leaved", "Similar to: leafy", "Definition: having leathery leaves", "Synonyms: leather-leafed"]}
+{"data": ["2022-07-20T06:01:17.793465+00:00", 3984, "Your mother is", "orange-hued", "Pronunciation: /\u02c8\u0254r\u026and\u0292-hjud/", "Definition: having the color of ripe oranges", "Synonyms: orange-colored, orange-coloured"]}
