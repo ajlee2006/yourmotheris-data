@@ -1,1 +1,1 @@
-{"data": ["2022-07-20T16:00:37.148505+00:00", 3994, "Your mother is", "uxorious", "Pronunciation: /\u0259k\u02ccso\u028ar\u0259i\u0259s/", "Definition: foolishly fond of or submissive to your wife", ""]}
+{"data": ["2022-07-20T17:00:45.185213+00:00", 3995, "Your mother is", "equipt", "Similar to: accoutered", "Definition: provided or fitted out with what is necessary or useful or appropriate", "Synonyms: equipped"]}
