@@ -1,1 +1,1 @@
-{"data": ["2022-07-20T03:01:21.972859+00:00", 3981, "Your mother is", "party-spirited", "Pronunciation: /\u02c8p\u0251rti-\u02c8sp\u026ar\u026at\u026ad/", "Definition: devoted to a political party", ""]}
+{"data": ["2022-07-20T04:01:17.565192+00:00", 3982, "Your mother is", "uncheerful", "Similar to: dingy", "Definition: causing sad feelings of gloom and inadequacy", "Synonyms: cheerless, depressing"]}
