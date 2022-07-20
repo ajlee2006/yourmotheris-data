@@ -1,1 +1,1 @@
-{"data": ["2022-07-20T09:01:30.932877+00:00", 3987, "Your mother is", "accompanied", "Pronunciation: /\u028c\u02c8k\u028cmp\u028cnid/", "Definition: playing or singing with instrumental or vocal accompaniment", "Synonyms: attended"]}
+{"data": ["2022-07-20T10:00:25.779761+00:00", 3988, "Your mother is", "trespassing", "Pronunciation: /\u02c8tr\u025bs\u02ccp\u00e6s\u026a\u014b/", "Definition: gradually intrusive without right or permission", "Synonyms: encroaching, invasive"]}
