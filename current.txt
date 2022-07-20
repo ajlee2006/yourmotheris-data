@@ -1,1 +1,1 @@
-{"data": ["2022-07-20T02:00:58.318602+00:00", 3980, "Your mother is", "syncretic", "", "Definition: relating to a historical tendency for a language to reduce its use of inflections", "Synonyms: syncretical, syncretistic, syncretistical"]}
+{"data": ["2022-07-20T03:01:21.972859+00:00", 3981, "Your mother is", "party-spirited", "Pronunciation: /\u02c8p\u0251rti-\u02c8sp\u026ar\u026at\u026ad/", "Definition: devoted to a political party", ""]}
