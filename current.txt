@@ -1,1 +1,1 @@
-{"data": ["2022-07-20T20:00:36.868642+00:00", 3998, "Your mother is", "rustproof", "Pronunciation: /\u02c8r\u0259stpruf/", "Definition: treated against rusting", "Synonyms: rustproofed"]}
+{"data": ["2022-07-20T21:01:11.668237+00:00", 3999, "Your mother is", "bulb-shaped", "Similar to: circular", "Definition: shaped like a bulb", "Synonyms: bulblike, bulbous"]}
