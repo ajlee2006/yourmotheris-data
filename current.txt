@@ -1,1 +1,1 @@
-{"data": ["2022-07-20T00:01:22.397281+00:00", 3978, "Your mother is", "apocarpous", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8k\u0251rp\u0259s/", "Definition: (of ovaries of flowering plants) consisting of carpels that are free from one another as in buttercups or roses", ""]}
+{"data": ["2022-07-20T01:01:34.681031+00:00", 3979, "Your mother is", "leathery", "Pronunciation: /\u02c8l\u025b\u00f0\u0259ri/", "Definition: resembling or made to resemble leather; tough but pliable", "Synonyms: coriaceous, leathered, leatherlike"]}
