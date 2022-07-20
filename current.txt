@@ -1,1 +1,1 @@
-{"data": ["2022-07-20T11:01:25.758344+00:00", 3989, "Your mother is", "stiff-necked", "Pronunciation: /\u02c8st\u026af\u02c8n\u025bkt/", "Definition: haughtily stubborn", ""]}
+{"data": ["2022-07-20T12:00:55.376219+00:00", 3990, "Your mother is", "duckbill", "Pronunciation: /\u02c8d\u0259k\u02ccb\u026al/", "Definition: having a beak resembling that of a duck", "Synonyms: duck-billed"]}
