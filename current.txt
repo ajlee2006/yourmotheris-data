@@ -1,1 +1,1 @@
-{"data": ["2022-07-20T22:01:26.091696+00:00", 4000, "Your mother is", "six", "Pronunciation: /s\u026aks/", "Definition: denoting a quantity consisting of six items or units", "Synonyms: 6, half-dozen, half dozen, vi"]}
+{"data": ["2022-07-20T23:00:12.625467+00:00", 4001, "Your mother is", "respective", "Pronunciation: /r\u026a\u02c8sp\u025bkt\u026av/", "Definition: considered individually", "Synonyms: several, various"]}
