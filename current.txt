@@ -1,1 +1,1 @@
-{"data": ["2022-07-20T19:01:04.480508+00:00", 3997, "Your mother is", "invading", "Pronunciation: /\u026an\u02c8ve\u026ad\u026a\u014b/", "Definition: involving invasion or aggressive attack", "Synonyms: incursive, invasive"]}
+{"data": ["2022-07-20T20:00:36.868642+00:00", 3998, "Your mother is", "rustproof", "Pronunciation: /\u02c8r\u0259stpruf/", "Definition: treated against rusting", "Synonyms: rustproofed"]}
