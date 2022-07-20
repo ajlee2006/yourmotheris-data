@@ -1,1 +1,1 @@
-{"data": ["2022-07-20T08:01:21.208313+00:00", 3986, "Your mother is", "grayish-blue", "Similar to: chromatic", "Definition: of blue tinged with grey", "Synonyms: gray-blue, grey-blue, greyish-blue"]}
+{"data": ["2022-07-20T09:01:30.932877+00:00", 3987, "Your mother is", "accompanied", "Pronunciation: /\u028c\u02c8k\u028cmp\u028cnid/", "Definition: playing or singing with instrumental or vocal accompaniment", "Synonyms: attended"]}
