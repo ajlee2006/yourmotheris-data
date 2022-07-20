@@ -1,1 +1,1 @@
-{"data": ["2022-07-20T21:01:11.668237+00:00", 3999, "Your mother is", "bulb-shaped", "Similar to: circular", "Definition: shaped like a bulb", "Synonyms: bulblike, bulbous"]}
+{"data": ["2022-07-20T22:01:26.091696+00:00", 4000, "Your mother is", "six", "Pronunciation: /s\u026aks/", "Definition: denoting a quantity consisting of six items or units", "Synonyms: 6, half-dozen, half dozen, vi"]}
