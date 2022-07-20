@@ -1,1 +1,1 @@
-{"data": ["2022-07-20T07:00:45.067082+00:00", 3985, "Your mother is", "labelled", "Pronunciation: /\u02c8le\u026ab\u028cld/", "Definition: bearing or marked with a label or tag", "Synonyms: labeled, tagged"]}
+{"data": ["2022-07-20T08:01:21.208313+00:00", 3986, "Your mother is", "grayish-blue", "Similar to: chromatic", "Definition: of blue tinged with grey", "Synonyms: gray-blue, grey-blue, greyish-blue"]}
