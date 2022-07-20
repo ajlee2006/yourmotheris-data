@@ -1,1 +1,1 @@
-{"data": ["2022-07-20T10:00:25.779761+00:00", 3988, "Your mother is", "trespassing", "Pronunciation: /\u02c8tr\u025bs\u02ccp\u00e6s\u026a\u014b/", "Definition: gradually intrusive without right or permission", "Synonyms: encroaching, invasive"]}
+{"data": ["2022-07-20T11:01:25.758344+00:00", 3989, "Your mother is", "stiff-necked", "Pronunciation: /\u02c8st\u026af\u02c8n\u025bkt/", "Definition: haughtily stubborn", ""]}
