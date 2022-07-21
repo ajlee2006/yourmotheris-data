@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T05:00:59.839182+00:00", 4007, "Your mother is", "slangy", "Pronunciation: /\u02c8sl\u00e6\u014bi/", "Definition: constituting or expressed in slang or given to the use of slang", ""]}
+{"data": ["2022-07-21T06:01:35.567518+00:00", 4008, "Your mother is", "temerarious", "Pronunciation: /\u02cct\u025bm\u0259\u02c8r\u025cri\u0259s/", "Definition: presumptuously daring", "Synonyms: daredevil"]}
