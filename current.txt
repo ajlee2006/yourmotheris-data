@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T00:01:47.754503+00:00", 4002, "Your mother is", "harmonizable", "Similar to: reconcilable", "Definition: capable of being made harmonious or consistent", ""]}
+{"data": ["2022-07-21T01:01:39.968565+00:00", 4003, "Your mother is", "epistemic", "Pronunciation: /\u02cc\u025bp\u026a\u02c8stim\u026ak/", "Definition: of or relating to epistemology", "Synonyms: epistemological"]}
