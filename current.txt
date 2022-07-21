@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T04:00:41.597829+00:00", 4006, "Your mother is", "blue-grey", "Similar to: achromatic", "Definition: of grey tinged with blue", "Synonyms: blue-gray, bluish-gray, bluish-grey"]}
+{"data": ["2022-07-21T05:00:59.839182+00:00", 4007, "Your mother is", "slangy", "Pronunciation: /\u02c8sl\u00e6\u014bi/", "Definition: constituting or expressed in slang or given to the use of slang", ""]}
