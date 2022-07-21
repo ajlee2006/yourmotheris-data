@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T15:01:02.044649+00:00", 4017, "Your mother is", "hook-nosed", "Pronunciation: /\u02c8h\u028ak\u02ccno\u028azd/", "Definition: having an aquiline nose", ""]}
+{"data": ["2022-07-21T16:00:40.363213+00:00", 4018, "Your mother is", "turbulent", "Pronunciation: /\u02c8t\u025crbj\u0259l\u0259nt/", "Definition: characterized by unrest or disorder or insubordination", "Synonyms: disruptive, riotous, troubled, tumultuous"]}
