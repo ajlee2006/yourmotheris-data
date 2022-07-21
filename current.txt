@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T07:01:16.532841+00:00", 4009, "Your mother is", "canaliculate", "Similar to: furrowed", "Definition: having thin parallel channels", ""]}
+{"data": ["2022-07-21T08:00:40.196868+00:00", 4010, "Your mother is", "nonadjacent", "Similar to: distant", "Definition: not adjacent; not next", ""]}
