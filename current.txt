@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T06:01:35.567518+00:00", 4008, "Your mother is", "temerarious", "Pronunciation: /\u02cct\u025bm\u0259\u02c8r\u025cri\u0259s/", "Definition: presumptuously daring", "Synonyms: daredevil"]}
+{"data": ["2022-07-21T07:01:16.532841+00:00", 4009, "Your mother is", "canaliculate", "Similar to: furrowed", "Definition: having thin parallel channels", ""]}
