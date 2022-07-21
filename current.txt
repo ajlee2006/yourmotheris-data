@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T18:01:17.434175+00:00", 4020, "Your mother is", "crookback", "Pronunciation: /\u02c8kr\u028ak\u02ccb\u00e6k/", "Definition: characteristic of or suffering from kyphosis, an abnormality of the vertebral column", "Synonyms: crookbacked, gibbous, humpbacked, humped, hunchbacked, kyphotic"]}
+{"data": ["2022-07-21T19:00:49.636502+00:00", 4021, "Your mother is", "rhapsodic", "Pronunciation: /r\u00e6p\u02c8s\u0251d\u026ak/", "Definition: feeling great rapture or delight", "Synonyms: ecstatic, enraptured, rapt, rapturous"]}
