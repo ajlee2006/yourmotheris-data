@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T01:01:39.968565+00:00", 4003, "Your mother is", "epistemic", "Pronunciation: /\u02cc\u025bp\u026a\u02c8stim\u026ak/", "Definition: of or relating to epistemology", "Synonyms: epistemological"]}
+{"data": ["2022-07-21T02:01:23.280698+00:00", 4004, "Your mother is", "recuperative", "Pronunciation: /r\u026a\u02c8kup\u0259\u02ccre\u026at\u026av/", "Definition: promoting recuperation", "Synonyms: restorative"]}
