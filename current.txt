@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T16:00:40.363213+00:00", 4018, "Your mother is", "turbulent", "Pronunciation: /\u02c8t\u025crbj\u0259l\u0259nt/", "Definition: characterized by unrest or disorder or insubordination", "Synonyms: disruptive, riotous, troubled, tumultuous"]}
+{"data": ["2022-07-21T17:01:17.997017+00:00", 4019, "Your mother is", "polished", "Pronunciation: /\u02c8p\u0251l\u026a\u0283t/", "Definition: (of grains especially rice) having the husk or outer layers removed", "Synonyms: milled"]}
