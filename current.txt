@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T14:00:56.342328+00:00", 4016, "Your mother is", "briery", "Similar to: armed", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, bristled, bristly, burred, burry, prickly, setaceous, setose, spiny, thorny"]}
+{"data": ["2022-07-21T15:01:02.044649+00:00", 4017, "Your mother is", "hook-nosed", "Pronunciation: /\u02c8h\u028ak\u02ccno\u028azd/", "Definition: having an aquiline nose", ""]}
