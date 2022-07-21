@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T19:00:49.636502+00:00", 4021, "Your mother is", "rhapsodic", "Pronunciation: /r\u00e6p\u02c8s\u0251d\u026ak/", "Definition: feeling great rapture or delight", "Synonyms: ecstatic, enraptured, rapt, rapturous"]}
+{"data": ["2022-07-21T20:00:48.749051+00:00", 4022, "Your mother is", "140th", "Similar to: ordinal", "Definition: the ordinal number of one hundred forty in counting order", "Synonyms: hundred-and-fortieth"]}
