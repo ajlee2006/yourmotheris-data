@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T03:01:20.287794+00:00", 4005, "Your mother is", "equidistant", "Pronunciation: /\u02ccikw\u026a\u02c8d\u026ast\u0259nt/", "Definition: the same distance apart at every point", ""]}
+{"data": ["2022-07-21T04:00:41.597829+00:00", 4006, "Your mother is", "blue-grey", "Similar to: achromatic", "Definition: of grey tinged with blue", "Synonyms: blue-gray, bluish-gray, bluish-grey"]}
