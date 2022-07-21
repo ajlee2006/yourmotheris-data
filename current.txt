@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T17:01:17.997017+00:00", 4019, "Your mother is", "polished", "Pronunciation: /\u02c8p\u0251l\u026a\u0283t/", "Definition: (of grains especially rice) having the husk or outer layers removed", "Synonyms: milled"]}
+{"data": ["2022-07-21T18:01:17.434175+00:00", 4020, "Your mother is", "crookback", "Pronunciation: /\u02c8kr\u028ak\u02ccb\u00e6k/", "Definition: characteristic of or suffering from kyphosis, an abnormality of the vertebral column", "Synonyms: crookbacked, gibbous, humpbacked, humped, hunchbacked, kyphotic"]}
