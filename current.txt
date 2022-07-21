@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T10:01:36.014582+00:00", 4012, "Your mother is", "unlaurelled", "", "Definition: not crowned with laurel; having no acclaim or reward", "Synonyms: unlaureled"]}
+{"data": ["2022-07-21T11:01:08.527604+00:00", 4013, "Your mother is", "triangular", "Pronunciation: /tra\u026a\u02c8\u00e6\u014b\u0261j\u0259l\u0259r/", "Definition: having three sides", "Synonyms: three-sided, trilateral"]}
