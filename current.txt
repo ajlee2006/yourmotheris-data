@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T21:01:20.049777+00:00", 4023, "Your mother is", "describable", "Pronunciation: /d\u026a\u02c8skra\u026ab\u028cb\u028cl/", "Definition: capable of being described", ""]}
+{"data": ["2022-07-21T22:01:28.390802+00:00", 4024, "Your mother is", "ungulated", "Similar to: solid-hoofed", "Definition: having or resembling hoofs", "Synonyms: hoofed, hooved, ungulate"]}
