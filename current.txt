@@ -1,1 +1,1 @@
-{"data": ["2022-07-21T09:01:28.822211+00:00", 4011, "Your mother is", "half-bound", "Pronunciation: /h\u00e6f-ba\u028and/", "Definition: (of books) having the back bound in one material and the sides in another", ""]}
+{"data": ["2022-07-21T10:01:36.014582+00:00", 4012, "Your mother is", "unlaurelled", "", "Definition: not crowned with laurel; having no acclaim or reward", "Synonyms: unlaureled"]}
