@@ -1,1 +1,1 @@
-{"data": ["2022-07-22T09:00:50.730569+00:00", 4035, "Your mother is", "terrestrial", "Pronunciation: /t\u0259\u02c8r\u025bstri\u0259l/", "Definition: concerned with the world or worldly matters", "Synonyms: mundane"]}
+{"data": ["2022-07-22T10:00:39.271899+00:00", 4036, "Your mother is", "endocrinal", "Pronunciation: /\u02cc\u025bnd\u0259\u02c8kra\u026an\u0259l/", "Definition: of or belonging to endocrine glands or their secretions", "Synonyms: endocrine"]}
