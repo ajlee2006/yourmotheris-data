@@ -1,1 +1,1 @@
-{"data": ["2022-07-22T19:00:41.348253+00:00", 4045, "Your mother is", "attached", "Pronunciation: /\u0259\u02c8t\u00e6\u02a7t/", "Definition: being joined in close association", "Synonyms: affiliated, connected"]}
+{"data": ["2022-07-22T20:00:20.608849+00:00", 4046, "Your mother is", "incorrupt", "Pronunciation: /\u02cc\u026ank\u0259\u02c8r\u0259pt/", "Definition: not decayed", "Synonyms: undecomposed"]}
