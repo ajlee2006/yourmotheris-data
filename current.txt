@@ -1,1 +1,1 @@
-{"data": ["2022-07-22T20:00:20.608849+00:00", 4046, "Your mother is", "incorrupt", "Pronunciation: /\u02cc\u026ank\u0259\u02c8r\u0259pt/", "Definition: not decayed", "Synonyms: undecomposed"]}
+{"data": ["2022-07-22T21:00:58.379860+00:00", 4047, "Your mother is", "denunciatory", "Pronunciation: /d\u026a\u02c8n\u0259nsi\u0259\u02ccto\u028ari/", "Definition: containing warning of punishment", "Synonyms: comminatory, denunciative"]}
