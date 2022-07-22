@@ -1,1 +1,1 @@
-{"data": ["2022-07-22T17:00:59.204636+00:00", 4043, "Your mother is", "confirmative", "Similar to: supportive", "Definition: serving to support or corroborate", "Synonyms: collateral, confirmatory, confirming, corroborative, corroboratory, substantiating, substantiative, validating, validatory, verificatory, verifying"]}
+{"data": ["2022-07-22T18:00:56.700212+00:00", 4044, "Your mother is", "uncured", "Pronunciation: /\u0259n\u02c8kj\u028a\u0259d/", "Definition: not seasoned", ""]}
