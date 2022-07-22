@@ -1,1 +1,1 @@
-{"data": ["2022-07-22T14:01:11.007503+00:00", 4040, "Your mother is", "oblique", "Pronunciation: /\u0259\u02c8blik/", "Definition: indirect in departing from the accepted or proper way; misleading", "Synonyms: devious"]}
+{"data": ["2022-07-22T15:00:30.602267+00:00", 4041, "Your mother is", "anti-semite", "Pronunciation: /\u02cc\u00e6nti\u02c8s\u025bma\u026at/", "Definition: discriminatory especially on the basis of race or religion", "Synonyms: antiblack, racist"]}
