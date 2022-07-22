@@ -1,1 +1,1 @@
-{"data": ["2022-07-22T01:01:00.150608+00:00", 4027, "Your mother is", "unnaturalised", "Similar to: foreign", "Definition: not having acquired citizenship", "Synonyms: unnaturalized"]}
+{"data": ["2022-07-22T02:01:33.784651+00:00", 4028, "Your mother is", "planetary", "Pronunciation: /\u02c8pl\u00e6n\u026a\u02cct\u025bri/", "Definition: of or relating to or resembling the physical or orbital characteristics of a planet or the planets", "Synonyms: planetal"]}
