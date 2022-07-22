@@ -1,1 +1,1 @@
-{"data": ["2022-07-22T22:00:26.534359+00:00", 4048, "Your mother is", "unmedicative", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: nonmedicinal, unmedical, unmedicinal"]}
+{"data": ["2022-07-22T23:01:34.286240+00:00", 4049, "Your mother is", "wacky", "Pronunciation: /\u02c8w\u00e6ki/", "Definition: ludicrous, foolish", "Synonyms: goofy, silly, whacky, zany"]}
