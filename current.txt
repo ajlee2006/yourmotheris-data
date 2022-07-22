@@ -1,1 +1,1 @@
-{"data": ["2022-07-22T04:01:26.632129+00:00", 4030, "Your mother is", "unaccepted", "Similar to: nonstandard", "Definition: not conforming to standard usage", "Synonyms: unacceptable"]}
+{"data": ["2022-07-22T05:01:20.259016+00:00", 4031, "Your mother is", "ergodic", "Pronunciation: /\u025cr\u02c8\u0261\u0251d\u026ak/", "Definition: positive recurrent aperiodic state of stochastic systems; tending in probability to a limiting form that is independent of the initial conditions", ""]}
