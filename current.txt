@@ -1,1 +1,1 @@
-{"data": ["2022-07-22T21:00:58.379860+00:00", 4047, "Your mother is", "denunciatory", "Pronunciation: /d\u026a\u02c8n\u0259nsi\u0259\u02ccto\u028ari/", "Definition: containing warning of punishment", "Synonyms: comminatory, denunciative"]}
+{"data": ["2022-07-22T22:00:26.534359+00:00", 4048, "Your mother is", "unmedicative", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: nonmedicinal, unmedical, unmedicinal"]}
