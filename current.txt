@@ -1,1 +1,1 @@
-{"data": ["2022-07-22T05:01:20.259016+00:00", 4031, "Your mother is", "ergodic", "Pronunciation: /\u025cr\u02c8\u0261\u0251d\u026ak/", "Definition: positive recurrent aperiodic state of stochastic systems; tending in probability to a limiting form that is independent of the initial conditions", ""]}
+{"data": ["2022-07-22T06:00:46.104529+00:00", 4032, "Your mother is", "deconsecrated", "Similar to: desecrated", "Definition: divested of consecration", ""]}
