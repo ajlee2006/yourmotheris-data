@@ -1,1 +1,1 @@
-{"data": ["2022-07-23T19:01:07.599385+00:00", 4069, "Your mother is", "jubilant", "Pronunciation: /\u02c8d\u0292ub\u0259l\u0259nt/", "Definition: full of high-spirited delight", "Synonyms: elated, gleeful, joyful"]}
+{"data": ["2022-07-23T20:01:07.068729+00:00", 4070, "Your mother is", "reprehensible", "Pronunciation: /\u02ccr\u025bpr\u026a\u02c8h\u025bns\u0259b\u0259l/", "Definition: bringing or deserving severe rebuke or censure", "Synonyms: condemnable, criminal, deplorable, vicious"]}
