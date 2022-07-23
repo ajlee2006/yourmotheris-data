@@ -1,1 +1,1 @@
-{"data": ["2022-07-23T01:00:45.569429+00:00", 4051, "Your mother is", "algorithmic", "Similar to: recursive", "Definition: of or relating to or having the characteristics of an algorithm", ""]}
+{"data": ["2022-07-23T02:00:36.217444+00:00", 4052, "Your mother is", "usable", "Pronunciation: /\u02c8juz\u0259b\u0259l/", "Definition: convenient for use or disposal", "Synonyms: available, useable"]}
