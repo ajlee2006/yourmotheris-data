@@ -1,1 +1,1 @@
-{"data": ["2022-07-23T15:01:26.066600+00:00", 4065, "Your mother is", "square-shouldered", "Pronunciation: /\u02c8skw\u025cr\u02c8\u0283o\u028ald\u0259rd/", "Definition: having broad shoulders", "Synonyms: big-shouldered, broad-shouldered"]}
+{"data": ["2022-07-23T16:01:08.324074+00:00", 4066, "Your mother is", "hieratical", "", "Definition: associated with the priesthood or priests", "Synonyms: hieratic, priestly, sacerdotal"]}
