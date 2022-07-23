@@ -1,1 +1,1 @@
-{"data": ["2022-07-23T07:01:27.617681+00:00", 4057, "Your mother is", "unfastened", "Pronunciation: /\u0259n\u02c8f\u0251s\u0259nd/", "Definition: not tied", "Synonyms: untied"]}
+{"data": ["2022-07-23T08:01:21.961287+00:00", 4058, "Your mother is", "articular", "Pronunciation: /\u0251r\u02c8t\u026akj\u0259l\u0259r/", "Definition: relating to or affecting the joints of the body", "Synonyms: articulary"]}
