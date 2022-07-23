@@ -1,1 +1,1 @@
-{"data": ["2022-07-23T14:01:27.630056+00:00", 4064, "Your mother is", "bloodthirsty", "Pronunciation: /\u02c8bl\u0259d\u02cc\u03b8\u025crsti/", "Definition: marked by eagerness to resort to violence and bloodshed", "Synonyms: bloody-minded, sanguinary"]}
+{"data": ["2022-07-23T15:01:26.066600+00:00", 4065, "Your mother is", "square-shouldered", "Pronunciation: /\u02c8skw\u025cr\u02c8\u0283o\u028ald\u0259rd/", "Definition: having broad shoulders", "Synonyms: big-shouldered, broad-shouldered"]}
