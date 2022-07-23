@@ -1,1 +1,1 @@
-{"data": ["2022-07-23T21:00:51.338321+00:00", 4071, "Your mother is", "unexpected", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8sp\u025bkt\u026ad/", "Definition: not expected or anticipated", ""]}
+{"data": ["2022-07-23T22:00:57.585889+00:00", 4072, "Your mother is", "beggarly", "Pronunciation: /\u02c8b\u025b\u0261\u0259rli/", "Definition: (used of sums of money) so small in amount as to deserve contempt", "Synonyms: mean"]}
