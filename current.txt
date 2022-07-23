@@ -1,1 +1,1 @@
-{"data": ["2022-07-23T05:00:28.524418+00:00", 4055, "Your mother is", "unshrinking", "Pronunciation: /\u0259n\u02c8\u0283ri\u014bki\u014b/", "Definition: not shrinking from danger", "Synonyms: unblinking, unflinching, unintimidated"]}
+{"data": ["2022-07-23T06:01:18.837930+00:00", 4056, "Your mother is", "discontinuous", "Pronunciation: /\u02ccd\u026ask\u0259n\u02c8t\u026anju\u0259s/", "Definition: not continuing without interruption in time or space", "Synonyms: noncontinuous"]}
