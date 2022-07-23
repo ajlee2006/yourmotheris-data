@@ -1,1 +1,1 @@
-{"data": ["2022-07-23T00:01:54.492506+00:00", 4050, "Your mother is", "forficate", "Pronunciation: /\u02c8f\u0254rf\u0259k\u026at/", "Definition: resembling a fork; divided or separated into two branches", "Synonyms: bifurcate, biramous, branched, fork-like, forked, pronged, prongy"]}
+{"data": ["2022-07-23T01:00:45.569429+00:00", 4051, "Your mother is", "algorithmic", "Similar to: recursive", "Definition: of or relating to or having the characteristics of an algorithm", ""]}
