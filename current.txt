@@ -1,1 +1,1 @@
-{"data": ["2022-07-23T06:01:18.837930+00:00", 4056, "Your mother is", "discontinuous", "Pronunciation: /\u02ccd\u026ask\u0259n\u02c8t\u026anju\u0259s/", "Definition: not continuing without interruption in time or space", "Synonyms: noncontinuous"]}
+{"data": ["2022-07-23T07:01:27.617681+00:00", 4057, "Your mother is", "unfastened", "Pronunciation: /\u0259n\u02c8f\u0251s\u0259nd/", "Definition: not tied", "Synonyms: untied"]}
