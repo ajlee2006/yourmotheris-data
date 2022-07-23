@@ -1,1 +1,1 @@
-{"data": ["2022-07-23T12:01:20.459959+00:00", 4062, "Your mother is", "man-portable", "Similar to: portable", "Definition: portable by one man", ""]}
+{"data": ["2022-07-23T13:00:35.763404+00:00", 4063, "Your mother is", "foliated", "Pronunciation: /\u02c8fo\u028ali\u02cce\u026at\u026ad/", "Definition: (especially of metamorphic rock) having thin leaflike layers or strata", "Synonyms: foliaceous, foliate"]}
