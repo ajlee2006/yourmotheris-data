@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T03:01:00.220692+00:00", 4077, "Your mother is", "shattered", "Pronunciation: /\u02c8\u0283\u00e6t\u025drd/", "Definition: ruined or disrupted", "Synonyms: tattered"]}
+{"data": ["2022-07-24T04:00:59.158334+00:00", 4078, "Your mother is", "appreciative", "Pronunciation: /\u0259\u02c8pri\u0283\u0259t\u026av/", "Definition: feeling or expressive of gratitude", ""]}
