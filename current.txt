@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T18:00:57.206761+00:00", 4092, "Your mother is", "scraggly", "Pronunciation: /\u02c8skr\u00e6gli/", "Definition: being very thin", "Synonyms: boney, bony, scraggy, scrawny, skinny, underweight, weedy"]}
+{"data": ["2022-07-24T19:00:42.537559+00:00", 4093, "Your mother is", "frustrated", "Pronunciation: /\u02c8fr\u0259stre\u026at\u026ad/", "Definition: disappointingly unsuccessful", "Synonyms: defeated, disappointed, discomfited, foiled, thwarted"]}
