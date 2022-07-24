@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T19:00:42.537559+00:00", 4093, "Your mother is", "frustrated", "Pronunciation: /\u02c8fr\u0259stre\u026at\u026ad/", "Definition: disappointingly unsuccessful", "Synonyms: defeated, disappointed, discomfited, foiled, thwarted"]}
+{"data": ["2022-07-24T20:01:20.700693+00:00", 4094, "Your mother is", "unhygienic", "Similar to: insanitary", "Definition: unclean and constituting a likely cause of disease", ""]}
