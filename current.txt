@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T10:01:30.436771+00:00", 4084, "Your mother is", "raspy", "Pronunciation: /\u02c8r\u00e6spi/", "Definition: unpleasantly harsh or grating in sound", "Synonyms: grating, gravelly, rasping, rough, scratchy"]}
+{"data": ["2022-07-24T11:01:08.559230+00:00", 4085, "Your mother is", "canted", "Similar to: inclined", "Definition: departing or being caused to depart from the true vertical or horizontal", "Synonyms: atilt, leaning, tilted, tipped"]}
