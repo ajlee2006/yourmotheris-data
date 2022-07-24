@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T02:01:05.731304+00:00", 4076, "Your mother is", "uninjured", "Pronunciation: /\u0259n\u02c8\u026and\u0292\u0259d/", "Definition: not injured physically or mentally", ""]}
+{"data": ["2022-07-24T03:01:00.220692+00:00", 4077, "Your mother is", "shattered", "Pronunciation: /\u02c8\u0283\u00e6t\u025drd/", "Definition: ruined or disrupted", "Synonyms: tattered"]}
