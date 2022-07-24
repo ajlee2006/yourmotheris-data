@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T15:01:23.735095+00:00", 4089, "Your mother is", "adagio", "Pronunciation: /\u0259\u02c8d\u0251d\u0292o\u028a/", "Definition: (of tempo) leisurely", ""]}
+{"data": ["2022-07-24T16:01:08.934671+00:00", 4090, "Your mother is", "alcohol-dependent", "Similar to: addicted", "Definition: addicted to alcohol", "Synonyms: alcoholic"]}
