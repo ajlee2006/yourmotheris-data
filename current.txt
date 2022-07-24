@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T20:01:20.700693+00:00", 4094, "Your mother is", "unhygienic", "Similar to: insanitary", "Definition: unclean and constituting a likely cause of disease", ""]}
+{"data": ["2022-07-24T21:01:10.548175+00:00", 4095, "Your mother is", "aflutter", "Pronunciation: /\u0259\u02c8fl\u0259t\u0259r/", "Definition: excited in anticipation", "Synonyms: nervous"]}
