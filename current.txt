@@ -1,1 +1,1 @@
-{"data": ["2022-07-23T23:00:34.713838+00:00", 4073, "Your mother is", "mud-beplastered", "Similar to: covered", "Definition: covered with or as if with mud", ""]}
+{"data": ["2022-07-24T00:01:10.471171+00:00", 4074, "Your mother is", "craven", "Pronunciation: /\u02c8kre\u026av\u0259n/", "Definition: lacking even the rudiments of courage; abjectly fearful", "Synonyms: recreant"]}
