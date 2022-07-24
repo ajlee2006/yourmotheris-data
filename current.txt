@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T07:01:29.436382+00:00", 4081, "Your mother is", "bladed", "Pronunciation: /\u02c8ble\u026ad\u026ad/", "Definition: composed of thin flat plates resembling a knife blade", ""]}
+{"data": ["2022-07-24T08:01:25.148613+00:00", 4082, "Your mother is", "unerect", "Similar to: accumbent", "Definition: not upright in position or posture", ""]}
