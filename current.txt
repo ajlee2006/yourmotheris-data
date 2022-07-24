@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T09:00:36.304498+00:00", 4083, "Your mother is", "unfair", "Pronunciation: /\u0259n\u02c8f\u025cr/", "Definition: not fair; marked by injustice or partiality or deception", "Synonyms: unjust"]}
+{"data": ["2022-07-24T10:01:30.436771+00:00", 4084, "Your mother is", "raspy", "Pronunciation: /\u02c8r\u00e6spi/", "Definition: unpleasantly harsh or grating in sound", "Synonyms: grating, gravelly, rasping, rough, scratchy"]}
