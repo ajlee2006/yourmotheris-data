@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T21:01:10.548175+00:00", 4095, "Your mother is", "aflutter", "Pronunciation: /\u0259\u02c8fl\u0259t\u0259r/", "Definition: excited in anticipation", "Synonyms: nervous"]}
+{"data": ["2022-07-24T22:01:30.213599+00:00", 4096, "Your mother is", "in one's birthday suit", "Similar to: unclothed", "Definition: as naked as at birth", "Synonyms: in your birthday suit, mother-naked, naked as the day one was born, naked as the day you were born"]}
