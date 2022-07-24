@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T04:00:59.158334+00:00", 4078, "Your mother is", "appreciative", "Pronunciation: /\u0259\u02c8pri\u0283\u0259t\u026av/", "Definition: feeling or expressive of gratitude", ""]}
+{"data": ["2022-07-24T05:01:09.398379+00:00", 4079, "Your mother is", "suited", "Pronunciation: /\u02c8sut\u026ad/", "Definition: meant or adapted for an occasion or use", "Synonyms: suitable"]}
