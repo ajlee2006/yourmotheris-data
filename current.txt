@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T00:01:10.471171+00:00", 4074, "Your mother is", "craven", "Pronunciation: /\u02c8kre\u026av\u0259n/", "Definition: lacking even the rudiments of courage; abjectly fearful", "Synonyms: recreant"]}
+{"data": ["2022-07-24T01:01:07.147013+00:00", 4075, "Your mother is", "dissolute", "Pronunciation: /\u02c8d\u026as\u0259\u02cclut/", "Definition: unrestrained by convention or morality", "Synonyms: debauched, degenerate, degraded, dissipated, fast, libertine, profligate, riotous"]}
