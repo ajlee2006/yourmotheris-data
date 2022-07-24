@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T05:01:09.398379+00:00", 4079, "Your mother is", "suited", "Pronunciation: /\u02c8sut\u026ad/", "Definition: meant or adapted for an occasion or use", "Synonyms: suitable"]}
+{"data": ["2022-07-24T06:00:40.139992+00:00", 4080, "Your mother is", "synchronous", "Pronunciation: /\u02c8s\u026a\u014bkr\u0259n\u0259s/", "Definition: occurring or existing at the same time or having the same period or phase", "Synonyms: synchronal, synchronic"]}
