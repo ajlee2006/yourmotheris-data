@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T17:00:36.510149+00:00", 4091, "Your mother is", "grumpy", "Pronunciation: /\u02c8gr\u0259mpi/", "Definition: annoyed and irritable", "Synonyms: bad-tempered, crabbed, crabby, cross, fussy, grouchy, ill-tempered"]}
+{"data": ["2022-07-24T18:00:57.206761+00:00", 4092, "Your mother is", "scraggly", "Pronunciation: /\u02c8skr\u00e6gli/", "Definition: being very thin", "Synonyms: boney, bony, scraggy, scrawny, skinny, underweight, weedy"]}
