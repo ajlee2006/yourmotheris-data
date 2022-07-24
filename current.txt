@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T16:01:08.934671+00:00", 4090, "Your mother is", "alcohol-dependent", "Similar to: addicted", "Definition: addicted to alcohol", "Synonyms: alcoholic"]}
+{"data": ["2022-07-24T17:00:36.510149+00:00", 4091, "Your mother is", "grumpy", "Pronunciation: /\u02c8gr\u0259mpi/", "Definition: annoyed and irritable", "Synonyms: bad-tempered, crabbed, crabby, cross, fussy, grouchy, ill-tempered"]}
