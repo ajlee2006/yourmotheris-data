@@ -1,1 +1,1 @@
-{"data": ["2022-07-24T01:01:07.147013+00:00", 4075, "Your mother is", "dissolute", "Pronunciation: /\u02c8d\u026as\u0259\u02cclut/", "Definition: unrestrained by convention or morality", "Synonyms: debauched, degenerate, degraded, dissipated, fast, libertine, profligate, riotous"]}
+{"data": ["2022-07-24T02:01:05.731304+00:00", 4076, "Your mother is", "uninjured", "Pronunciation: /\u0259n\u02c8\u026and\u0292\u0259d/", "Definition: not injured physically or mentally", ""]}
