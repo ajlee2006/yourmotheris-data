@@ -1,1 +1,1 @@
-{"data": ["2022-07-25T08:01:13.905155+00:00", 4106, "Your mother is", "perforate", "Pronunciation: /\u02c8p\u0259rf\u0259\u02ccre\u026at/", "Definition: having a hole cut through", "Synonyms: perforated, pierced, punctured"]}
+{"data": ["2022-07-25T09:00:24.859038+00:00", 4107, "Your mother is", "yellowish-white", "Pronunciation: /\u02c8j\u025blo\u028a\u026a\u0283-hwa\u026at/", "Definition: of a white tinged with yellow", "Synonyms: yellow-white"]}
