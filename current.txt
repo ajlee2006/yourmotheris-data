@@ -1,1 +1,1 @@
-{"data": ["2022-07-25T21:00:58.635482+00:00", 4119, "Your mother is", "servo", "Pronunciation: /\u02c8s\u025crvo\u028a/", "Definition: of or involving servomechanisms", "Synonyms: servomechanical"]}
+{"data": ["2022-07-25T22:00:40.955303+00:00", 4120, "Your mother is", "putrefactive", "Similar to: infected", "Definition: causing or promoting bacterial putrefaction", "Synonyms: putrefacient"]}
