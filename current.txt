@@ -1,1 +1,1 @@
-{"data": ["2022-07-25T18:00:42.789871+00:00", 4116, "Your mother is", "raiseable", "Similar to: mobile", "Definition: capable of being raised", "Synonyms: raisable"]}
+{"data": ["2022-07-25T19:01:24.942536+00:00", 4117, "Your mother is", "unclouded", "Pronunciation: /\u0259n\u02c8kl\u00e6\u028ad\u026ad/", "Definition: free from clouds", "Synonyms: cloudless"]}
