@@ -1,1 +1,1 @@
-{"data": ["2022-07-25T06:01:23.256360+00:00", 4104, "Your mother is", "brisk", "Pronunciation: /br\u026ask/", "Definition: quick and energetic", "Synonyms: alert, lively, merry, rattling, snappy, spanking, zippy"]}
+{"data": ["2022-07-25T07:01:03.134989+00:00", 4105, "Your mother is", "corporate", "Pronunciation: /\u02c8k\u0254rp\u0259r\u026at/", "Definition: done by or characteristic of individuals acting together", "Synonyms: collective"]}
