@@ -1,1 +1,1 @@
-{"data": ["2022-07-25T09:00:24.859038+00:00", 4107, "Your mother is", "yellowish-white", "Pronunciation: /\u02c8j\u025blo\u028a\u026a\u0283-hwa\u026at/", "Definition: of a white tinged with yellow", "Synonyms: yellow-white"]}
+{"data": ["2022-07-25T10:01:03.995262+00:00", 4108, "Your mother is", "mordacious", "Pronunciation: /mo\u028ar\u02c8de\u026a\u0283\u0259s/", "Definition: capable of wounding", "Synonyms: barbed, biting, nipping, pungent"]}
