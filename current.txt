@@ -1,1 +1,1 @@
-{"data": ["2022-07-25T11:01:18.644147+00:00", 4109, "Your mother is", "unbooked", "Similar to: unreserved", "Definition: not reserved in advance", ""]}
+{"data": ["2022-07-25T12:01:20.514498+00:00", 4110, "Your mother is", "scantily clad", "Similar to: unclothed", "Definition: inadequately clothed", "Synonyms: half-clothed, underclothed"]}
