@@ -1,1 +1,1 @@
-{"data": ["2022-07-25T04:01:04.414867+00:00", 4102, "Your mother is", "vacillating", "Pronunciation: /\u02c8v\u00e6s\u028c\u02ccle\u026at\u026a\u014b/", "Definition: uncertain in purpose or action", "Synonyms: vacillant, wavering"]}
+{"data": ["2022-07-25T05:01:02.965992+00:00", 4103, "Your mother is", "quick", "Pronunciation: /kw\u026ak/", "Definition: apprehending and responding with speed and sensitivity", "Synonyms: ready"]}
