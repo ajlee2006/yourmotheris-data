@@ -1,1 +1,1 @@
-{"data": ["2022-07-25T19:01:24.942536+00:00", 4117, "Your mother is", "unclouded", "Pronunciation: /\u0259n\u02c8kl\u00e6\u028ad\u026ad/", "Definition: free from clouds", "Synonyms: cloudless"]}
+{"data": ["2022-07-25T20:00:24.861962+00:00", 4118, "Your mother is", "dissociable", "Pronunciation: /d\u026a\u02c8so\u028a\u0283i\u0259b\u0259l/", "Definition: capable of being divided or dissociated", "Synonyms: separable, severable"]}
