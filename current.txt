@@ -1,1 +1,1 @@
-{"data": ["2022-07-25T14:01:20.738204+00:00", 4112, "Your mother is", "blindfolded", "Pronunciation: /\u02c8bla\u026and\u02ccfo\u028ald\u026ad/", "Definition: wearing a blindfold", "Synonyms: blindfold"]}
+{"data": ["2022-07-25T15:00:39.956052+00:00", 4113, "Your mother is", "neotenic", "Pronunciation: /\u02ccni\u028c\u02c8tin\u026ak/", "Definition: of or relating to or characterized by neoteny", "Synonyms: neotenous"]}
