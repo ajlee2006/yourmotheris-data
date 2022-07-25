@@ -1,1 +1,1 @@
-{"data": ["2022-07-25T12:01:20.514498+00:00", 4110, "Your mother is", "scantily clad", "Similar to: unclothed", "Definition: inadequately clothed", "Synonyms: half-clothed, underclothed"]}
+{"data": ["2022-07-25T13:00:58.160131+00:00", 4111, "Your mother is", "achromous", "Similar to: uncolored", "Definition: having no color", "Synonyms: achromic"]}
