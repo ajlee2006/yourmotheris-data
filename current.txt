@@ -1,1 +1,1 @@
-{"data": ["2022-07-25T02:01:36.502913+00:00", 4100, "Your mother is", "addressed", "Pronunciation: /\u028c\u02c8dr\u025bst/", "Definition: (of mail) marked with a destination", ""]}
+{"data": ["2022-07-25T03:01:02.576980+00:00", 4101, "Your mother is", "pitch-dark", "Pronunciation: /p\u026a\u02a7-d\u0251rk/", "Definition: extremely dark", "Synonyms: black, pitch-black"]}
