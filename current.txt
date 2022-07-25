@@ -1,1 +1,1 @@
-{"data": ["2022-07-25T07:01:03.134989+00:00", 4105, "Your mother is", "corporate", "Pronunciation: /\u02c8k\u0254rp\u0259r\u026at/", "Definition: done by or characteristic of individuals acting together", "Synonyms: collective"]}
+{"data": ["2022-07-25T08:01:13.905155+00:00", 4106, "Your mother is", "perforate", "Pronunciation: /\u02c8p\u0259rf\u0259\u02ccre\u026at/", "Definition: having a hole cut through", "Synonyms: perforated, pierced, punctured"]}
