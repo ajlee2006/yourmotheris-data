@@ -1,1 +1,1 @@
-{"data": ["2022-07-25T00:01:30.789430+00:00", 4098, "Your mother is", "grey-pink", "Similar to: chromatic", "Definition: of pink tinged with grey", "Synonyms: gray-pink, grayish-pink, greyish-pink"]}
+{"data": ["2022-07-25T01:00:55.560656+00:00", 4099, "Your mother is", "congregational", "Pronunciation: /\u02cck\u0251\u014bgr\u0259\u02c8\u0261e\u026a\u0283\u0259n\u0259l/", "Definition: of or pertaining to or characteristic of a Congregational church", "Synonyms: congregationalist"]}
