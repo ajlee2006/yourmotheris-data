@@ -1,1 +1,1 @@
-{"data": ["2022-07-26T22:01:03.030284+00:00", 4144, "Your mother is", "ataraxic", "Similar to: depressant", "Definition: tending to soothe or tranquilize", "Synonyms: ataractic, sedative, tranquilising, tranquilizing, tranquillising, tranquillizing"]}
+{"data": ["2022-07-26T23:01:06.252243+00:00", 4145, "Your mother is", "connubial", "Pronunciation: /k\u0259\u02c8nubi\u0259l/", "Definition: of or relating to marriage or to the relationship between a wife and husband", "Synonyms: conjugal"]}
