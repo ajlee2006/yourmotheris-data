@@ -1,1 +1,1 @@
-{"data": ["2022-07-26T00:02:02.429771+00:00", 4122, "Your mother is", "floating", "Pronunciation: /\u02c8flo\u028at\u026a\u014b/", "Definition: continually changing especially as from one abode or occupation to another", "Synonyms: aimless, drifting, vagabond, vagrant"]}
+{"data": ["2022-07-26T01:01:27.786593+00:00", 4123, "Your mother is", "nonprotractile", "", "Definition: not extensile", "Synonyms: inextensible, nonextensile"]}
