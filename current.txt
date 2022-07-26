@@ -1,1 +1,1 @@
-{"data": ["2022-07-26T02:01:13.031890+00:00", 4124, "Your mother is", "contingent upon", "Similar to: conditional", "Definition: being determined by conditions or circumstances that follow", "Synonyms: contingent, contingent on, dependant on, dependant upon, dependent on, dependent upon, depending on"]}
+{"data": ["2022-07-26T03:01:29.546195+00:00", 4125, "Your mother is", "crowded", "Pronunciation: /\u02c8kra\u028ad\u026ad/", "Definition: overfilled or compacted or concentrated", ""]}
