@@ -1,1 +1,1 @@
-{"data": ["2022-07-26T07:00:37.344192+00:00", 4129, "Your mother is", "castellated", "Pronunciation: /\u02c8k\u00e6s\u02cct\u0259le\u026at\u026ad/", "Definition: having or resembling repeated square indentations like those in a battlement", "Synonyms: battlemented, castled, embattled"]}
+{"data": ["2022-07-26T08:01:26.238542+00:00", 4130, "Your mother is", "compact", "Pronunciation: /\u02c8k\u0251mp\u00e6kt/", "Definition: briefly giving the gist of something", "Synonyms: compendious, succinct, summary"]}
