@@ -1,1 +1,1 @@
-{"data": ["2022-07-26T10:00:16.860576+00:00", 4132, "Your mother is", "underslung", "Pronunciation: /\u02c8\u0259nd\u0259r\u02c8sl\u0259\u014b/", "Definition: having a low center of gravity; built low to the ground", "Synonyms: squat"]}
+{"data": ["2022-07-26T11:01:13.800255+00:00", 4133, "Your mother is", "dermal", "Pronunciation: /\u02c8d\u025drm\u028cl/", "Definition: relating to or existing on or affecting the skin", "Synonyms: cutaneal, cutaneous"]}
