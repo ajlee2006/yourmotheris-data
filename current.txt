@@ -1,1 +1,1 @@
-{"data": ["2022-07-26T13:00:49.090929+00:00", 4135, "Your mother is", "cogent", "Pronunciation: /\u02c8ko\u028ad\u0292\u0259nt/", "Definition: powerfully persuasive", "Synonyms: telling, weighty"]}
+{"data": ["2022-07-26T14:00:35.851466+00:00", 4136, "Your mother is", "needled", "Pronunciation: /\u02c8nid\u028cld/", "Definition: of trees whose leaves are acerate", ""]}
