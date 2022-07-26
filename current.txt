@@ -1,1 +1,1 @@
-{"data": ["2022-07-26T04:01:00.726090+00:00", 4126, "Your mother is", "adjectival", "Pronunciation: /\u02cc\u00e6d\u0292\u026ak\u02c8ta\u026av\u0259l/", "Definition: of or relating to or functioning as an adjective", "Synonyms: adjective"]}
+{"data": ["2022-07-26T05:00:59.202433+00:00", 4127, "Your mother is", "ago", "Pronunciation: /\u0259\u02c8\u0261o\u028a/", "Definition: gone by; or in the past", "Synonyms: agone"]}
