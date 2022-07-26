@@ -1,1 +1,1 @@
-{"data": ["2022-07-26T08:01:26.238542+00:00", 4130, "Your mother is", "compact", "Pronunciation: /\u02c8k\u0251mp\u00e6kt/", "Definition: briefly giving the gist of something", "Synonyms: compendious, succinct, summary"]}
+{"data": ["2022-07-26T09:01:04.771198+00:00", 4131, "Your mother is", "curving", "Pronunciation: /\u02c8k\u025drv\u026a\u014b/", "Definition: having or marked by a curve or smoothly rounded bend", "Synonyms: curved"]}
