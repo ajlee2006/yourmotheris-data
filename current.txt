@@ -1,1 +1,1 @@
-{"data": ["2022-07-26T11:01:13.800255+00:00", 4133, "Your mother is", "dermal", "Pronunciation: /\u02c8d\u025drm\u028cl/", "Definition: relating to or existing on or affecting the skin", "Synonyms: cutaneal, cutaneous"]}
+{"data": ["2022-07-26T12:01:30.077508+00:00", 4134, "Your mother is", "lifesize", "Similar to: big", "Definition: being of the same size as an original", "Synonyms: full-size, life-size, life-sized"]}
