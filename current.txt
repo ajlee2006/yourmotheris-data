@@ -1,1 +1,1 @@
-{"data": ["2022-07-25T23:00:24.941829+00:00", 4121, "Your mother is", "pimpled", "Pronunciation: /\u02c8p\u026amp\u0259ld/", "Definition: (of complexion) blemished by imperfections of the skin", "Synonyms: acned, pimply, pustulate"]}
+{"data": ["2022-07-26T00:02:02.429771+00:00", 4122, "Your mother is", "floating", "Pronunciation: /\u02c8flo\u028at\u026a\u014b/", "Definition: continually changing especially as from one abode or occupation to another", "Synonyms: aimless, drifting, vagabond, vagrant"]}
