@@ -1,1 +1,1 @@
-{"data": ["2022-07-26T06:01:06.902598+00:00", 4128, "Your mother is", "self-respectful", "Pronunciation: /s\u025blf-r\u026a\u02c8sp\u025bktf\u0259l/", "Definition: having or showing self-esteem", "Synonyms: dignified, self-respecting"]}
+{"data": ["2022-07-26T07:00:37.344192+00:00", 4129, "Your mother is", "castellated", "Pronunciation: /\u02c8k\u00e6s\u02cct\u0259le\u026at\u026ad/", "Definition: having or resembling repeated square indentations like those in a battlement", "Synonyms: battlemented, castled, embattled"]}
