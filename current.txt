@@ -1,1 +1,1 @@
-{"data": ["2022-07-26T01:01:27.786593+00:00", 4123, "Your mother is", "nonprotractile", "", "Definition: not extensile", "Synonyms: inextensible, nonextensile"]}
+{"data": ["2022-07-26T02:01:13.031890+00:00", 4124, "Your mother is", "contingent upon", "Similar to: conditional", "Definition: being determined by conditions or circumstances that follow", "Synonyms: contingent, contingent on, dependant on, dependant upon, dependent on, dependent upon, depending on"]}
