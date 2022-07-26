@@ -1,1 +1,1 @@
-{"data": ["2022-07-26T14:00:35.851466+00:00", 4136, "Your mother is", "needled", "Pronunciation: /\u02c8nid\u028cld/", "Definition: of trees whose leaves are acerate", ""]}
+{"data": ["2022-07-26T15:00:50.965618+00:00", 4137, "Your mother is", "cytogenetic", "", "Definition: of or relating to cytogenetics", "Synonyms: cytogenetical"]}
