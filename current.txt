@@ -1,1 +1,1 @@
-{"data": ["2022-07-27T08:01:14.230472+00:00", 4154, "Your mother is", "religious", "Pronunciation: /r\u026a\u02c8l\u026ad\u0292\u0259s/", "Definition: concerned with sacred matters or religion or the church", "Synonyms: spiritual"]}
+{"data": ["2022-07-27T09:01:18.770496+00:00", 4155, "Your mother is", "eight-day", "Pronunciation: /e\u026at-de\u026a/", "Definition: lasting for eight days", ""]}
