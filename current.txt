@@ -1,1 +1,1 @@
-{"data": ["2022-07-27T20:00:43.651688+00:00", 4166, "Your mother is", "salt", "Pronunciation: /s\u0254lt/", "Definition: (of speech) painful or bitter", ""]}
+{"data": ["2022-07-27T21:00:55.528149+00:00", 4167, "Your mother is", "worrying", "Pronunciation: /\u02c8w\u025dri\u026a\u014b/", "Definition: causing distress or worry or anxiety", "Synonyms: distressful, distressing, disturbing, perturbing, troubling, worrisome"]}
