@@ -1,1 +1,1 @@
-{"data": ["2022-07-27T09:01:18.770496+00:00", 4155, "Your mother is", "eight-day", "Pronunciation: /e\u026at-de\u026a/", "Definition: lasting for eight days", ""]}
+{"data": ["2022-07-27T10:01:04.250105+00:00", 4156, "Your mother is", "patriotic", "Pronunciation: /\u02c8pe\u026atri\u02cc\u0259t\u026ak/", "Definition: inspired by love for your country", "Synonyms: loyal"]}
