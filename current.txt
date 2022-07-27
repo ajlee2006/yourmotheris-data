@@ -1,1 +1,1 @@
-{"data": ["2022-07-27T05:01:12.218456+00:00", 4151, "Your mother is", "xx", "Similar to: cardinal", "Definition: denoting a quantity consisting of 20 items or units", "Synonyms: 20, twenty"]}
+{"data": ["2022-07-27T06:01:20.030193+00:00", 4152, "Your mother is", "rollicking", "Pronunciation: /\u02c8r\u0251l\u026ak\u026a\u014b/", "Definition: given to merry frolicking", "Synonyms: coltish, frolicky, frolicsome, sportive"]}
