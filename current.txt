@@ -1,1 +1,1 @@
-{"data": ["2022-07-27T12:01:30.311959+00:00", 4158, "Your mother is", "skint", "Pronunciation: /sk\u026ant/", "Definition: lacking funds", "Synonyms: broke, bust, stone-broke, stony-broke"]}
+{"data": ["2022-07-27T13:01:15.818750+00:00", 4159, "Your mother is", "4th", "Similar to: ordinal", "Definition: coming next after the third and just before the fifth in position or time or degree or magnitude", "Synonyms: fourth, quaternary"]}
