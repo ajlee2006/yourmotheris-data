@@ -1,1 +1,1 @@
-{"data": ["2022-07-27T11:00:58.334884+00:00", 4157, "Your mother is", "chinless", "Pronunciation: /\u02c8t\u0283\u026anl\u025bs/", "Definition: having a receding chin", ""]}
+{"data": ["2022-07-27T12:01:30.311959+00:00", 4158, "Your mother is", "skint", "Pronunciation: /sk\u026ant/", "Definition: lacking funds", "Synonyms: broke, bust, stone-broke, stony-broke"]}
