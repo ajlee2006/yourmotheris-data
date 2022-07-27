@@ -1,1 +1,1 @@
-{"data": ["2022-07-27T21:00:55.528149+00:00", 4167, "Your mother is", "worrying", "Pronunciation: /\u02c8w\u025dri\u026a\u014b/", "Definition: causing distress or worry or anxiety", "Synonyms: distressful, distressing, disturbing, perturbing, troubling, worrisome"]}
+{"data": ["2022-07-27T22:00:59.056738+00:00", 4168, "Your mother is", "near", "Pronunciation: /nir/", "Definition: with or in a close or intimate relationship", "Synonyms: dear, good"]}
