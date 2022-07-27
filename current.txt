@@ -1,1 +1,1 @@
-{"data": ["2022-07-27T06:01:20.030193+00:00", 4152, "Your mother is", "rollicking", "Pronunciation: /\u02c8r\u0251l\u026ak\u026a\u014b/", "Definition: given to merry frolicking", "Synonyms: coltish, frolicky, frolicsome, sportive"]}
+{"data": ["2022-07-27T07:00:51.466548+00:00", 4153, "Your mother is", "lawful", "Pronunciation: /\u02c8l\u0254f\u0259l/", "Definition: authorized, sanctioned by, or in accordance with law", "Synonyms: legitimate, licit"]}
