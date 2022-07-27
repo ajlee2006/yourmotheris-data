@@ -1,1 +1,1 @@
-{"data": ["2022-07-27T16:01:16.597374+00:00", 4162, "Your mother is", "finable", "Pronunciation: /\u02c8fa\u026an\u0259b\u0259l/", "Definition: liable to a fine", "Synonyms: fineable"]}
+{"data": ["2022-07-27T17:00:29.089081+00:00", 4163, "Your mother is", "rustproofed", "Similar to: rustless", "Definition: treated against rusting", "Synonyms: rustproof"]}
