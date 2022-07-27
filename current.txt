@@ -1,1 +1,1 @@
-{"data": ["2022-07-27T22:00:59.056738+00:00", 4168, "Your mother is", "near", "Pronunciation: /nir/", "Definition: with or in a close or intimate relationship", "Synonyms: dear, good"]}
+{"data": ["2022-07-27T23:00:37.647454+00:00", 4169, "Your mother is", "prismatic", "Pronunciation: /pr\u026az\u02c8m\u00e6t\u026ak/", "Definition: exhibiting spectral colors formed by refraction of light through a prism", ""]}
