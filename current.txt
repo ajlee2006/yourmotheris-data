@@ -1,1 +1,1 @@
-{"data": ["2022-07-27T07:00:51.466548+00:00", 4153, "Your mother is", "lawful", "Pronunciation: /\u02c8l\u0254f\u0259l/", "Definition: authorized, sanctioned by, or in accordance with law", "Synonyms: legitimate, licit"]}
+{"data": ["2022-07-27T08:01:14.230472+00:00", 4154, "Your mother is", "religious", "Pronunciation: /r\u026a\u02c8l\u026ad\u0292\u0259s/", "Definition: concerned with sacred matters or religion or the church", "Synonyms: spiritual"]}
