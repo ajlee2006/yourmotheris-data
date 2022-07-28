@@ -1,1 +1,1 @@
-{"data": ["2022-07-28T05:01:16.054024+00:00", 4175, "Your mother is", "ham-fisted", "Pronunciation: /h\u00e6m\u02c8f\u026ast\u026ad/", "Definition: lacking physical movement skills, especially with the hands", "Synonyms: bumbling, bungling, butterfingered, ham-handed, handless, heavy-handed, left-handed"]}
+{"data": ["2022-07-28T06:01:13.314664+00:00", 4176, "Your mother is", "silent", "Pronunciation: /\u02c8sa\u026al\u0259nt/", "Definition: implied by or inferred from actions or statements", "Synonyms: tacit, understood"]}
