@@ -1,1 +1,1 @@
-{"data": ["2022-07-28T04:00:44.482544+00:00", 4174, "Your mother is", "mouthless", "Pronunciation: /\u02c8ma\u028a\u03b8l\u025bs/", "Definition: having no mouth or mouthlike opening", "Synonyms: astomatous"]}
+{"data": ["2022-07-28T05:01:16.054024+00:00", 4175, "Your mother is", "ham-fisted", "Pronunciation: /h\u00e6m\u02c8f\u026ast\u026ad/", "Definition: lacking physical movement skills, especially with the hands", "Synonyms: bumbling, bungling, butterfingered, ham-handed, handless, heavy-handed, left-handed"]}
