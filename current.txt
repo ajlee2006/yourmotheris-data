@@ -1,1 +1,1 @@
-{"data": ["2022-07-28T02:01:03.356307+00:00", 4172, "Your mother is", "hyperactive", "Pronunciation: /\u02ccha\u026ap\u0259r\u02c8\u00e6kt\u026av/", "Definition: more active than normal", "Synonyms: overactive"]}
+{"data": ["2022-07-28T03:00:58.431629+00:00", 4173, "Your mother is", "pathetic", "Pronunciation: /p\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: inspiring scornful pity", "Synonyms: ridiculous, silly"]}
