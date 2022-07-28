@@ -1,1 +1,1 @@
-{"data": ["2022-07-28T12:00:59.309704+00:00", 4182, "Your mother is", "unused to", "Similar to: unaccustomed to", "Definition: infrequently exposed to", ""]}
+{"data": ["2022-07-28T13:01:00.730168+00:00", 4183, "Your mother is", "bigeminal", "Similar to: multiple", "Definition: occurring in pairs", ""]}
