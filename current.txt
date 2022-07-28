@@ -1,1 +1,1 @@
-{"data": ["2022-07-28T06:01:13.314664+00:00", 4176, "Your mother is", "silent", "Pronunciation: /\u02c8sa\u026al\u0259nt/", "Definition: implied by or inferred from actions or statements", "Synonyms: tacit, understood"]}
+{"data": ["2022-07-28T07:00:58.154407+00:00", 4177, "Your mother is", "frustrated", "Pronunciation: /\u02c8fr\u0259stre\u026at\u026ad/", "Definition: disappointingly unsuccessful", "Synonyms: defeated, disappointed, discomfited, foiled, thwarted"]}
