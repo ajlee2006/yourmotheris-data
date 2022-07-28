@@ -1,1 +1,1 @@
-{"data": ["2022-07-28T17:01:02.360282+00:00", 4187, "Your mother is", "godforsaken", "Pronunciation: /\u02c8\u0261\u0251df\u0259r\u02ccse\u026ak\u0259n/", "Definition: located in a dismal or remote area; desolate", "Synonyms: waste, wild"]}
+{"data": ["2022-07-28T18:01:24.661768+00:00", 4188, "Your mother is", "corrugated", "Pronunciation: /\u02c8k\u0254r\u028c\u02cc\u0261e\u026at\u028cd/", "Definition: shaped into alternating parallel grooves and ridges", ""]}
