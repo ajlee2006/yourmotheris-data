@@ -1,1 +1,1 @@
-{"data": ["2022-07-28T07:00:58.154407+00:00", 4177, "Your mother is", "frustrated", "Pronunciation: /\u02c8fr\u0259stre\u026at\u026ad/", "Definition: disappointingly unsuccessful", "Synonyms: defeated, disappointed, discomfited, foiled, thwarted"]}
+{"data": ["2022-07-28T08:00:23.194819+00:00", 4178, "Your mother is", "brushed", "Pronunciation: /br\u028c\u0283t/", "Definition: (of fabrics) having soft nap produced by brushing", "Synonyms: fleecy, napped"]}
