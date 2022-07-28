@@ -1,1 +1,1 @@
-{"data": ["2022-07-28T13:01:00.730168+00:00", 4183, "Your mother is", "bigeminal", "Similar to: multiple", "Definition: occurring in pairs", ""]}
+{"data": ["2022-07-28T14:00:28.814926+00:00", 4184, "Your mother is", "canary-yellow", "Pronunciation: /k\u0259\u02c8n\u025cri-\u02c8j\u025blo\u028a/", "Definition: having the color of a canary; of a light to moderate yellow", "Synonyms: canary"]}
