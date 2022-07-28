@@ -1,1 +1,1 @@
-{"data": ["2022-07-28T16:00:43.328658+00:00", 4186, "Your mother is", "lingulate", "Pronunciation: /\u02c8l\u026a\u014b\u0261j\u0259\u02ccle\u026at/", "Definition: shaped like a tongue", "Synonyms: tongue-shaped"]}
+{"data": ["2022-07-28T17:01:02.360282+00:00", 4187, "Your mother is", "godforsaken", "Pronunciation: /\u02c8\u0261\u0251df\u0259r\u02ccse\u026ak\u0259n/", "Definition: located in a dismal or remote area; desolate", "Synonyms: waste, wild"]}
