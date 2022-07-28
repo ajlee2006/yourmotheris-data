@@ -1,1 +1,1 @@
-{"data": ["2022-07-28T14:00:28.814926+00:00", 4184, "Your mother is", "canary-yellow", "Pronunciation: /k\u0259\u02c8n\u025cri-\u02c8j\u025blo\u028a/", "Definition: having the color of a canary; of a light to moderate yellow", "Synonyms: canary"]}
+{"data": ["2022-07-28T15:00:53.508793+00:00", 4185, "Your mother is", "consenting", "Pronunciation: /k\u028cn\u02c8s\u025bnt\u026a\u014b/", "Definition: having given consent", ""]}
