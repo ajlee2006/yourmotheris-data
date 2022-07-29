@@ -1,1 +1,1 @@
-{"data": ["2022-07-29T07:00:50.727568+00:00", 4201, "Your mother is", "plagiarised", "Similar to: derived", "Definition: copied and passed off as your own", "Synonyms: plagiaristic, plagiarized"]}
+{"data": ["2022-07-29T08:00:36.600526+00:00", 4202, "Your mother is", "reclaimable", "Similar to: useful", "Definition: capable of being used again", "Synonyms: recyclable, reusable"]}
