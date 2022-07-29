@@ -1,1 +1,1 @@
-{"data": ["2022-07-29T11:00:36.384605+00:00", 4205, "Your mother is", "unpartitioned", "Similar to: united", "Definition: not divided by partitions", ""]}
+{"data": ["2022-07-29T12:01:23.276186+00:00", 4206, "Your mother is", "floral", "Pronunciation: /\u02c8flo\u028ar\u0259l/", "Definition: resembling or made of or suggestive of flowers", "Synonyms: flowered"]}
