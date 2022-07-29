@@ -1,1 +1,1 @@
-{"data": ["2022-07-29T09:01:42.670802+00:00", 4203, "Your mother is", "well-timed", "Pronunciation: /\u02c8w\u025bl-\u02c8ta\u026amd/", "Definition: done or happening at the appropriate or proper time", "Synonyms: seasonable, timely, well timed"]}
+{"data": ["2022-07-29T10:01:10.805470+00:00", 4204, "Your mother is", "in", "Pronunciation: /\u026an/", "Definition: currently fashionable", ""]}
