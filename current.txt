@@ -1,1 +1,1 @@
-{"data": ["2022-07-29T02:01:34.905794+00:00", 4196, "Your mother is", "nonsensitive", "Similar to: unclassified", "Definition: never having had security classification", "Synonyms: unrestricted"]}
+{"data": ["2022-07-29T03:01:33.223774+00:00", 4197, "Your mother is", "serpentine", "Pronunciation: /\u02c8s\u025crp\u0259n\u02cctin/", "Definition: resembling a serpent in form", "Synonyms: snakelike, snaky"]}
