@@ -1,1 +1,1 @@
-{"data": ["2022-07-29T10:01:10.805470+00:00", 4204, "Your mother is", "in", "Pronunciation: /\u026an/", "Definition: currently fashionable", ""]}
+{"data": ["2022-07-29T11:00:36.384605+00:00", 4205, "Your mother is", "unpartitioned", "Similar to: united", "Definition: not divided by partitions", ""]}
