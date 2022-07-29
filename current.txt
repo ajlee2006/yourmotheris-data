@@ -1,1 +1,1 @@
-{"data": ["2022-07-29T20:01:03.836936+00:00", 4214, "Your mother is", "inapt", "Pronunciation: /\u026an\u02c8\u00e6pt/", "Definition: not elegant or graceful in expression", "Synonyms: awkward, clumsy, cumbersome, ill-chosen, inept"]}
+{"data": ["2022-07-29T21:00:38.269545+00:00", 4215, "Your mother is", "face-saving", "Pronunciation: /\u02c8f\u00e6s\u02ccse\u026av\u026a\u014b/", "Definition: maintaining dignity or prestige", ""]}
