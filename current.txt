@@ -1,1 +1,1 @@
-{"data": ["2022-07-28T23:00:21.662656+00:00", 4193, "Your mother is", "radiating", "Pronunciation: /\u02c8re\u026adi\u02cce\u026at\u026a\u014b/", "Definition: diverging from a common point", ""]}
+{"data": ["2022-07-29T00:01:28.021760+00:00", 4194, "Your mother is", "abatic", "Pronunciation: /\u0259\u02c8b\u00e6t\u026ak/", "Definition: of or relating to abasia (inability to walk)", "Synonyms: abasic"]}
