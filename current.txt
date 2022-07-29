@@ -1,1 +1,1 @@
-{"data": ["2022-07-29T22:00:36.421964+00:00", 4216, "Your mother is", "droopy", "Pronunciation: /\u02c8drupi/", "Definition: hanging down (as from exhaustion or weakness)", "Synonyms: drooping, sagging"]}
+{"data": ["2022-07-29T23:00:43.720019+00:00", 4217, "Your mother is", "needless", "Pronunciation: /\u02c8nidl\u025bs/", "Definition: unnecessary and unwarranted", "Synonyms: gratuitous, uncalled-for"]}
