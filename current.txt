@@ -1,1 +1,1 @@
-{"data": ["2022-07-29T00:01:28.021760+00:00", 4194, "Your mother is", "abatic", "Pronunciation: /\u0259\u02c8b\u00e6t\u026ak/", "Definition: of or relating to abasia (inability to walk)", "Synonyms: abasic"]}
+{"data": ["2022-07-29T01:01:05.051257+00:00", 4195, "Your mother is", "orthogonal", "Pronunciation: /\u0254r\u02c8\u03b8\u0251\u0261\u0259n\u00e6l/", "Definition: having a set of mutually perpendicular axes; meeting at right angles", "Synonyms: rectangular"]}
