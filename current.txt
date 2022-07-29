@@ -1,1 +1,1 @@
-{"data": ["2022-07-29T18:00:23.091067+00:00", 4212, "Your mother is", "verbalized", "Similar to: spoken", "Definition: communicated in words", "Synonyms: expressed, uttered, verbalised"]}
+{"data": ["2022-07-29T19:01:30.837720+00:00", 4213, "Your mother is", "ultrasonic", "Pronunciation: /\u02cc\u0259ltr\u0259\u02c8s\u0251n\u026ak/", "Definition: having frequencies above those of audible sound", "Synonyms: supersonic"]}
