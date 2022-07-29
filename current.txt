@@ -1,1 +1,1 @@
-{"data": ["2022-07-29T03:01:33.223774+00:00", 4197, "Your mother is", "serpentine", "Pronunciation: /\u02c8s\u025crp\u0259n\u02cctin/", "Definition: resembling a serpent in form", "Synonyms: snakelike, snaky"]}
+{"data": ["2022-07-29T04:01:03.226742+00:00", 4198, "Your mother is", "preset", "Pronunciation: /pri\u02c8s\u025bt/", "Definition: set in advance", "Synonyms: predetermined"]}
