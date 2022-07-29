@@ -1,1 +1,1 @@
-{"data": ["2022-07-29T19:01:30.837720+00:00", 4213, "Your mother is", "ultrasonic", "Pronunciation: /\u02cc\u0259ltr\u0259\u02c8s\u0251n\u026ak/", "Definition: having frequencies above those of audible sound", "Synonyms: supersonic"]}
+{"data": ["2022-07-29T20:01:03.836936+00:00", 4214, "Your mother is", "inapt", "Pronunciation: /\u026an\u02c8\u00e6pt/", "Definition: not elegant or graceful in expression", "Synonyms: awkward, clumsy, cumbersome, ill-chosen, inept"]}
