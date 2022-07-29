@@ -1,1 +1,1 @@
-{"data": ["2022-07-29T12:01:23.276186+00:00", 4206, "Your mother is", "floral", "Pronunciation: /\u02c8flo\u028ar\u0259l/", "Definition: resembling or made of or suggestive of flowers", "Synonyms: flowered"]}
+{"data": ["2022-07-29T13:00:18.842698+00:00", 4207, "Your mother is", "bouncing", "Pronunciation: /\u02c8ba\u028ans\u026a\u014b/", "Definition: marked by lively action", "Synonyms: bouncy, peppy, spirited, zippy"]}
