@@ -1,1 +1,1 @@
-{"data": ["2022-07-30T18:01:00.095054+00:00", 4236, "Your mother is", "meat-eating", "Pronunciation: /mit-\u02c8it\u026a\u014b/", "Definition: (of animals) carnivorous", "Synonyms: flesh-eating, zoophagous"]}
+{"data": ["2022-07-30T19:01:00.757797+00:00", 4237, "Your mother is", "impolite", "Pronunciation: /\u02cc\u026amp\u0259\u02c8la\u026at/", "Definition: not polite", ""]}
