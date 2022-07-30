@@ -1,1 +1,1 @@
-{"data": ["2022-07-30T02:00:57.872949+00:00", 4220, "Your mother is", "unscrupulous", "Pronunciation: /\u0259n\u02c8skrupj\u0259l\u0259s/", "Definition: without scruples or principles", ""]}
+{"data": ["2022-07-30T03:01:02.096301+00:00", 4221, "Your mother is", "chylific", "", "Definition: producing or converting into chyle", "Synonyms: chylifactive, chylifactory"]}
