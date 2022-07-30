@@ -1,1 +1,1 @@
-{"data": ["2022-07-30T21:01:16.265586+00:00", 4239, "Your mother is", "capacious", "Pronunciation: /k\u0259\u02c8pe\u026a\u0283\u0259s/", "Definition: large in capacity", ""]}
+{"data": ["2022-07-30T22:01:05.907363+00:00", 4240, "Your mother is", "reflexed", "Pronunciation: /ri\u02c8fl\u025bkst/", "Definition: (of leaves) bent downward and outward more than 90 degrees", ""]}
