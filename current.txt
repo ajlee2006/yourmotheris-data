@@ -1,1 +1,1 @@
-{"data": ["2022-07-30T00:05:26.020518+00:00", 4218, "Your mother is", "blasted", "Pronunciation: /\u02c8bl\u00e6st\u026ad/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blessed, damn, damned, darned, deuced, goddam, goddamn, goddamned, infernal"]}
+{"data": ["2022-07-30T01:00:28.487947+00:00", 4219, "Your mother is", "chuck-full", "Pronunciation: /t\u0283\u0259k-f\u028al/", "Definition: packed full to capacity", "Synonyms: chock-full, chockablock, chockful, choke-full, cram full"]}
