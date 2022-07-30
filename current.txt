@@ -1,1 +1,1 @@
-{"data": ["2022-07-30T01:00:28.487947+00:00", 4219, "Your mother is", "chuck-full", "Pronunciation: /t\u0283\u0259k-f\u028al/", "Definition: packed full to capacity", "Synonyms: chock-full, chockablock, chockful, choke-full, cram full"]}
+{"data": ["2022-07-30T02:00:57.872949+00:00", 4220, "Your mother is", "unscrupulous", "Pronunciation: /\u0259n\u02c8skrupj\u0259l\u0259s/", "Definition: without scruples or principles", ""]}
