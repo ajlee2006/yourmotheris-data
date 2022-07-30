@@ -1,1 +1,1 @@
-{"data": ["2022-07-30T16:00:20.107507+00:00", 4234, "Your mother is", "shattered", "Pronunciation: /\u02c8\u0283\u00e6t\u025drd/", "Definition: ruined or disrupted", "Synonyms: tattered"]}
+{"data": ["2022-07-30T17:00:31.158510+00:00", 4235, "Your mother is", "rubicund", "Pronunciation: /\u02c8rub\u0259\u02cck\u0259nd/", "Definition: inclined to a healthy reddish color often associated with outdoor life", "Synonyms: florid, ruddy, sanguine"]}
