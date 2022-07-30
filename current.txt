@@ -1,1 +1,1 @@
-{"data": ["2022-07-30T17:00:31.158510+00:00", 4235, "Your mother is", "rubicund", "Pronunciation: /\u02c8rub\u0259\u02cck\u0259nd/", "Definition: inclined to a healthy reddish color often associated with outdoor life", "Synonyms: florid, ruddy, sanguine"]}
+{"data": ["2022-07-30T18:01:00.095054+00:00", 4236, "Your mother is", "meat-eating", "Pronunciation: /mit-\u02c8it\u026a\u014b/", "Definition: (of animals) carnivorous", "Synonyms: flesh-eating, zoophagous"]}
