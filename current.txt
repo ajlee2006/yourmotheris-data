@@ -1,1 +1,1 @@
-{"data": ["2022-07-30T19:01:00.757797+00:00", 4237, "Your mother is", "impolite", "Pronunciation: /\u02cc\u026amp\u0259\u02c8la\u026at/", "Definition: not polite", ""]}
+{"data": ["2022-07-30T20:01:02.506580+00:00", 4238, "Your mother is", "one hundred eighty", "Similar to: cardinal", "Definition: being ten more than one hundred seventy", "Synonyms: 180, clxxx"]}
