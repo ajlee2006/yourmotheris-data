@@ -1,1 +1,1 @@
-{"data": ["2022-07-30T06:01:18.344311+00:00", 4224, "Your mother is", "unrelieved", "Pronunciation: /\u02cc\u0259nri\u02c8livd/", "Definition: not lessened or diminished", "Synonyms: undiminished"]}
+{"data": ["2022-07-30T07:01:30.109187+00:00", 4225, "Your mother is", "brut", "Pronunciation: /brut/", "Definition: (of champagne) extremely dry", ""]}
