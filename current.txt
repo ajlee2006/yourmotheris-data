@@ -1,1 +1,1 @@
-{"data": ["2022-07-30T09:01:09.019089+00:00", 4227, "Your mother is", "braggy", "Similar to: proud", "Definition: exhibiting self-importance", "Synonyms: big, boastful, braggart, bragging, cock-a-hoop, crowing, self-aggrandising, self-aggrandizing"]}
+{"data": ["2022-07-30T10:01:16.547981+00:00", 4228, "Your mother is", "intelligible", "Pronunciation: /\u026an\u02c8t\u025bl\u026ad\u0292\u0259b\u0259l/", "Definition: capable of being apprehended or understood", "Synonyms: apprehensible, graspable, perceivable, understandable"]}
