@@ -1,1 +1,1 @@
-{"data": ["2022-07-30T15:00:43.900115+00:00", 4233, "Your mother is", "pendent", "Pronunciation: /\u02c8p\u025bnd\u0259nt/", "Definition: held from above and hanging down", "Synonyms: dependent, pendant"]}
+{"data": ["2022-07-30T16:00:20.107507+00:00", 4234, "Your mother is", "shattered", "Pronunciation: /\u02c8\u0283\u00e6t\u025drd/", "Definition: ruined or disrupted", "Synonyms: tattered"]}
