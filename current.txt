@@ -1,1 +1,1 @@
-{"data": ["2022-07-29T23:00:43.720019+00:00", 4217, "Your mother is", "needless", "Pronunciation: /\u02c8nidl\u025bs/", "Definition: unnecessary and unwarranted", "Synonyms: gratuitous, uncalled-for"]}
+{"data": ["2022-07-30T00:05:26.020518+00:00", 4218, "Your mother is", "blasted", "Pronunciation: /\u02c8bl\u00e6st\u026ad/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blessed, damn, damned, darned, deuced, goddam, goddamn, goddamned, infernal"]}
