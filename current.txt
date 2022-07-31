@@ -1,1 +1,1 @@
-{"data": ["2022-07-31T19:00:21.303393+00:00", 4261, "Your mother is", "orphaned", "Pronunciation: /\u02c8\u0254rf\u028cnd/", "Definition: deprived of parents by death or desertion", ""]}
+{"data": ["2022-07-31T20:01:08.156274+00:00", 4262, "Your mother is", "unbeknown", "Pronunciation: /\u02cc\u0259nb\u026a\u02c8no\u028an/", "Definition: (usually used with `to') occurring or existing without the knowledge of", "Synonyms: unbeknownst"]}
