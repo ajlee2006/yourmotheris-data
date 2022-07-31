@@ -1,1 +1,1 @@
-{"data": ["2022-07-31T10:00:56.093268+00:00", 4252, "Your mother is", "optative", "Pronunciation: /\u02c8\u0251pt\u0259t\u026av/", "Definition: relating to a mood of verbs in some languages", ""]}
+{"data": ["2022-07-31T11:01:26.817979+00:00", 4253, "Your mother is", "extra", "Pronunciation: /\u02c8\u025bkstr\u0259/", "Definition: added to a regular schedule", "Synonyms: special"]}
