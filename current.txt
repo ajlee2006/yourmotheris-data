@@ -1,1 +1,1 @@
-{"data": ["2022-07-31T14:00:15.436567+00:00", 4256, "Your mother is", "unmanageable", "Pronunciation: /\u0259n\u02c8m\u00e6n\u026ad\u0292\u0259b\u0259l/", "Definition: difficult to use or handle or manage because of size or weight or shape", "Synonyms: unwieldy"]}
+{"data": ["2022-07-31T15:00:50.944781+00:00", 4257, "Your mother is", "acronymic", "", "Definition: characterized by the use of acronyms", "Synonyms: acronymous"]}
