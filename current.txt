@@ -1,1 +1,1 @@
-{"data": ["2022-07-31T21:01:18.022147+00:00", 4263, "Your mother is", "obstetric", "Pronunciation: /\u0259b\u02c8st\u025btr\u026ak/", "Definition: of or relating to or used in or practicing obstetrics", "Synonyms: obstetrical"]}
+{"data": ["2022-07-31T22:01:11.580795+00:00", 4264, "Your mother is", "tyrannous", "Pronunciation: /\u02c8t\u026ar\u0259n\u0259s/", "Definition: marked by unjust severity or arbitrary behavior", "Synonyms: oppressive, tyrannical"]}
