@@ -1,1 +1,1 @@
-{"data": ["2022-07-31T03:00:57.526682+00:00", 4245, "Your mother is", "on the fence", "Similar to: indecisive", "Definition: characterized by indecision", "Synonyms: undecided"]}
+{"data": ["2022-07-31T04:00:30.438352+00:00", 4246, "Your mother is", "semipublic", "Pronunciation: /\u02ccs\u025bmi\u02c8p\u0259bl\u026ak/", "Definition: having some of the features of public institution", ""]}
