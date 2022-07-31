@@ -1,1 +1,1 @@
-{"data": ["2022-07-31T16:00:52.819383+00:00", 4258, "Your mother is", "influential", "Pronunciation: /\u02cc\u026anflu\u02c8\u025bn\u0283\u0259l/", "Definition: having or exercising influence or power", ""]}
+{"data": ["2022-07-31T17:00:35.384848+00:00", 4259, "Your mother is", "tortured", "Pronunciation: /\u02c8t\u0254rt\u0283\u025drd/", "Definition: experiencing intense pain especially mental pain", "Synonyms: anguished, tormented"]}
