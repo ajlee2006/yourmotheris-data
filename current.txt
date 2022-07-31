@@ -1,1 +1,1 @@
-{"data": ["2022-07-31T07:00:49.163432+00:00", 4249, "Your mother is", "quasi-royal", "Pronunciation: /\u02c8kw\u0251si-\u02c8r\u0254\u026a\u0259l/", "Definition: having the power but not the rank or title of a king", ""]}
+{"data": ["2022-07-31T08:01:10.071933+00:00", 4250, "Your mother is", "instantaneous", "Pronunciation: /\u02cc\u026anst\u0259n\u02c8te\u026ani\u0259s/", "Definition: occurring with no delay", "Synonyms: instant"]}
