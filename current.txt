@@ -1,1 +1,1 @@
-{"data": ["2022-07-31T20:01:08.156274+00:00", 4262, "Your mother is", "unbeknown", "Pronunciation: /\u02cc\u0259nb\u026a\u02c8no\u028an/", "Definition: (usually used with `to') occurring or existing without the knowledge of", "Synonyms: unbeknownst"]}
+{"data": ["2022-07-31T21:01:18.022147+00:00", 4263, "Your mother is", "obstetric", "Pronunciation: /\u0259b\u02c8st\u025btr\u026ak/", "Definition: of or relating to or used in or practicing obstetrics", "Synonyms: obstetrical"]}
