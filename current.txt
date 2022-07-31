@@ -1,1 +1,1 @@
-{"data": ["2022-07-31T02:00:39.128907+00:00", 4244, "Your mother is", "valetudinary", "Pronunciation: /\u02ccv\u00e6l\u026a\u02c8tud\u02cc\u0259n\u025bri/", "Definition: of or relating to or characteristic of a person who is a valetudinarian", "Synonyms: valetudinarian"]}
+{"data": ["2022-07-31T03:00:57.526682+00:00", 4245, "Your mother is", "on the fence", "Similar to: indecisive", "Definition: characterized by indecision", "Synonyms: undecided"]}
