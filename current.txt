@@ -1,1 +1,1 @@
-{"data": ["2022-07-31T04:00:30.438352+00:00", 4246, "Your mother is", "semipublic", "Pronunciation: /\u02ccs\u025bmi\u02c8p\u0259bl\u026ak/", "Definition: having some of the features of public institution", ""]}
+{"data": ["2022-07-31T05:01:24.183273+00:00", 4247, "Your mother is", "ersatz", "Pronunciation: /\u02c8\u025brz\u0251ts/", "Definition: artificial and inferior", "Synonyms: substitute"]}
