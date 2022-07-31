@@ -1,1 +1,1 @@
-{"data": ["2022-07-31T18:00:31.675383+00:00", 4260, "Your mother is", "anserine", "Pronunciation: /\u02c8\u00e6ns\u0259\u02ccra\u026an/", "Definition: having or revealing stupidity", "Synonyms: dopey, dopy, foolish, gooselike, goosey, goosy, jerky"]}
+{"data": ["2022-07-31T19:00:21.303393+00:00", 4261, "Your mother is", "orphaned", "Pronunciation: /\u02c8\u0254rf\u028cnd/", "Definition: deprived of parents by death or desertion", ""]}
