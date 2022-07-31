@@ -1,1 +1,1 @@
-{"data": ["2022-07-31T11:01:26.817979+00:00", 4253, "Your mother is", "extra", "Pronunciation: /\u02c8\u025bkstr\u0259/", "Definition: added to a regular schedule", "Synonyms: special"]}
+{"data": ["2022-07-31T12:01:28.192250+00:00", 4254, "Your mother is", "stenographical", "", "Definition: of or relating to or employing stenography", "Synonyms: stenographic"]}
