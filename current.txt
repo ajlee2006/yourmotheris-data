@@ -1,1 +1,1 @@
-{"data": ["2022-07-31T09:00:20.934937+00:00", 4251, "Your mother is", "innumerable", "Pronunciation: /\u026a\u02c8num\u0259r\u0259b\u0259l/", "Definition: too numerous to be counted", "Synonyms: countless, infinite, innumerous, multitudinous, myriad, numberless, uncounted, unnumberable, unnumbered, unnumerable"]}
+{"data": ["2022-07-31T10:00:56.093268+00:00", 4252, "Your mother is", "optative", "Pronunciation: /\u02c8\u0251pt\u0259t\u026av/", "Definition: relating to a mood of verbs in some languages", ""]}
