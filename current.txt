@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T05:01:20.068790+00:00", 4271, "Your mother is", "self-proclaimed", "Pronunciation: /\u02ccs\u025blfpr\u0259\u02c8kle\u026amd/", "Definition: proclaimed to be or described as such by oneself, without endorsement by others", ""]}
+{"data": ["2022-08-01T06:01:28.833186+00:00", 4272, "Your mother is", "homelike", "Pronunciation: /\u02c8ho\u028am\u02ccla\u026ak/", "Definition: having a feeling of home; cozy and comfortable", "Synonyms: homely, homey, homy"]}
