@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T14:00:39.672749+00:00", 4280, "Your mother is", "native-born", "Pronunciation: /\u02c8ne\u026at\u026av-b\u0254rn/", "Definition: belonging to a place by birth", ""]}
+{"data": ["2022-08-01T15:01:16.560446+00:00", 4281, "Your mother is", "leftmost", "Pronunciation: /\u02c8l\u025bftmo\u028ast/", "Definition: farthest to the left", ""]}
