@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T04:01:01.028902+00:00", 4270, "Your mother is", "consolidated", "Pronunciation: /k\u028cn\u02c8s\u0251l\u028c\u02ccde\u026at\u028cd/", "Definition: joined together into a whole", "Synonyms: amalgamate, amalgamated, coalesced, fused"]}
+{"data": ["2022-08-01T05:01:20.068790+00:00", 4271, "Your mother is", "self-proclaimed", "Pronunciation: /\u02ccs\u025blfpr\u0259\u02c8kle\u026amd/", "Definition: proclaimed to be or described as such by oneself, without endorsement by others", ""]}
