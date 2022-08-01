@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T03:01:36.532159+00:00", 4269, "Your mother is", "part-time", "Pronunciation: /p\u0251rt-ta\u026am/", "Definition: involving less than the standard or customary time for an activity", "Synonyms: part time"]}
+{"data": ["2022-08-01T04:01:01.028902+00:00", 4270, "Your mother is", "consolidated", "Pronunciation: /k\u028cn\u02c8s\u0251l\u028c\u02ccde\u026at\u028cd/", "Definition: joined together into a whole", "Synonyms: amalgamate, amalgamated, coalesced, fused"]}
