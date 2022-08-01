@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T15:01:16.560446+00:00", 4281, "Your mother is", "leftmost", "Pronunciation: /\u02c8l\u025bftmo\u028ast/", "Definition: farthest to the left", ""]}
+{"data": ["2022-08-01T16:00:45.955015+00:00", 4282, "Your mother is", "unfunny", "Pronunciation: /\u0259n\u02c8f\u0259ni/", "Definition: not funny; especially failing to achieve the intended humor", ""]}
