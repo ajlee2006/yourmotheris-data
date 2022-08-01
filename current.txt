@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T02:00:57.957619+00:00", 4268, "Your mother is", "transmontane", "Pronunciation: /tr\u00e6ns\u02c8m\u0251nte\u026an/", "Definition: on or coming from the other side of the mountains (from the speaker)", "Synonyms: tramontane"]}
+{"data": ["2022-08-01T03:01:36.532159+00:00", 4269, "Your mother is", "part-time", "Pronunciation: /p\u0251rt-ta\u026am/", "Definition: involving less than the standard or customary time for an activity", "Synonyms: part time"]}
