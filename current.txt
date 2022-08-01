@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T13:00:35.174088+00:00", 4279, "Your mother is", "cold-temperate", "Similar to: temperate", "Definition: the colder parts of temperate waters", ""]}
+{"data": ["2022-08-01T14:00:39.672749+00:00", 4280, "Your mother is", "native-born", "Pronunciation: /\u02c8ne\u026at\u026av-b\u0254rn/", "Definition: belonging to a place by birth", ""]}
