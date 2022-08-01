@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T17:01:13.068998+00:00", 4283, "Your mother is", "cress green", "Pronunciation: /kr\u025bs-grin/", "Definition: of a moderate yellow-green color that is greener and deeper than moss green and yellower and darker than pea green", "Synonyms: cresson, watercress"]}
+{"data": ["2022-08-01T18:00:31.179568+00:00", 4284, "Your mother is", "ill-fed", "Pronunciation: /\u026al-f\u025bd/", "Definition: not getting adequate food", "Synonyms: underfed, undernourished"]}
