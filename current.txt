@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T12:01:19.823971+00:00", 4278, "Your mother is", "tansy-scented", "Similar to: odorous", "Definition: smelling of tansy", "Synonyms: tansy-smelling"]}
+{"data": ["2022-08-01T13:00:35.174088+00:00", 4279, "Your mother is", "cold-temperate", "Similar to: temperate", "Definition: the colder parts of temperate waters", ""]}
