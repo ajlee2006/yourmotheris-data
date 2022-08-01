@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T06:01:28.833186+00:00", 4272, "Your mother is", "homelike", "Pronunciation: /\u02c8ho\u028am\u02ccla\u026ak/", "Definition: having a feeling of home; cozy and comfortable", "Synonyms: homely, homey, homy"]}
+{"data": ["2022-08-01T07:01:19.613294+00:00", 4273, "Your mother is", "mnemonic", "Pronunciation: /ni\u02c8m\u0251n\u026ak/", "Definition: of or relating to or involved the practice of aiding the memory", "Synonyms: mnemotechnic, mnemotechnical"]}
