@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T22:00:50.100544+00:00", 4288, "Your mother is", "mouse-colored", "Similar to: chromatic", "Definition: of something having a drab pale brown color resembling a mouse", "Synonyms: mouselike, mousey, mousy"]}
+{"data": ["2022-08-01T23:00:24.094446+00:00", 4289, "Your mother is", "drenched", "Pronunciation: /dr\u025bnt\u0283t/", "Definition: abundantly covered or supplied with; often used in combination", "Synonyms: drenched in"]}
