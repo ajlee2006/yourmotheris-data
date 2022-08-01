@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T11:00:17.704663+00:00", 4277, "Your mother is", "preservative", "Pronunciation: /pr\u026a\u02c8z\u025crv\u0259t\u026av/", "Definition: tending or having the power to preserve", ""]}
+{"data": ["2022-08-01T12:01:19.823971+00:00", 4278, "Your mother is", "tansy-scented", "Similar to: odorous", "Definition: smelling of tansy", "Synonyms: tansy-smelling"]}
