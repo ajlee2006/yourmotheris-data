@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T18:00:31.179568+00:00", 4284, "Your mother is", "ill-fed", "Pronunciation: /\u026al-f\u025bd/", "Definition: not getting adequate food", "Synonyms: underfed, undernourished"]}
+{"data": ["2022-08-01T19:01:23.153059+00:00", 4285, "Your mother is", "non-paying", "Similar to: unpaid", "Definition: paying nothing", ""]}
