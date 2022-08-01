@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T19:01:23.153059+00:00", 4285, "Your mother is", "non-paying", "Similar to: unpaid", "Definition: paying nothing", ""]}
+{"data": ["2022-08-01T20:00:23.196108+00:00", 4286, "Your mother is", "aslope", "Pronunciation: /\u0259\u02c8slo\u028ap/", "Definition: having an oblique or slanted direction", "Synonyms: aslant, diagonal, slanted, slanting, sloped, sloping"]}
