@@ -1,1 +1,1 @@
-{"data": ["2022-08-02T00:02:02.948006+00:00", 4290, "Your mother is", "unsuccessful", "Pronunciation: /\u02cc\u0259ns\u0259k\u02c8s\u025bsf\u0259l/", "Definition: failing to accomplish an intended result", "Synonyms: abortive, stillborn"]}
+{"data": ["2022-08-02T01:01:12.464413+00:00", 4291, "Your mother is", "autistic", "Pronunciation: /\u0254\u02c8t\u026ast\u026ak/", "Definition: characteristic of or affected with autism", ""]}
