@@ -1,1 +1,1 @@
-{"data": ["2022-08-02T09:01:16.613536+00:00", 4299, "Your mother is", "biform", "Pronunciation: /\u02c8ba\u026a\u02ccf\u0254rm/", "Definition: having or combining two forms", ""]}
+{"data": ["2022-08-02T10:00:51.836613+00:00", 4300, "Your mother is", "columniform", "Similar to: columned", "Definition: having the form of a column", "Synonyms: columnar, columnlike"]}
