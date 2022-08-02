@@ -1,1 +1,1 @@
-{"data": ["2022-08-02T13:01:04.226128+00:00", 4303, "Your mother is", "unconfessed", "Similar to: unacknowledged", "Definition: not admitted", ""]}
+{"data": ["2022-08-02T14:01:22.873647+00:00", 4304, "Your mother is", "snot-nosed", "Similar to: proud", "Definition: (used colloquially) overly conceited or arrogant", "Synonyms: bigheaded, persnickety, snooty, snotty, stuck-up, too big for one's breeches, uppish"]}
