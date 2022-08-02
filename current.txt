@@ -1,1 +1,1 @@
-{"data": ["2022-08-01T23:00:24.094446+00:00", 4289, "Your mother is", "drenched", "Pronunciation: /dr\u025bnt\u0283t/", "Definition: abundantly covered or supplied with; often used in combination", "Synonyms: drenched in"]}
+{"data": ["2022-08-02T00:02:02.948006+00:00", 4290, "Your mother is", "unsuccessful", "Pronunciation: /\u02cc\u0259ns\u0259k\u02c8s\u025bsf\u0259l/", "Definition: failing to accomplish an intended result", "Synonyms: abortive, stillborn"]}
