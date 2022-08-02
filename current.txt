@@ -1,1 +1,1 @@
-{"data": ["2022-08-02T11:01:07.710057+00:00", 4301, "Your mother is", "country-style", "Pronunciation: /\u02c8k\u0259ntri-sta\u026al/", "Definition: typical of the country", ""]}
+{"data": ["2022-08-02T12:01:18.020152+00:00", 4302, "Your mother is", "determinable", "Pronunciation: /d\u026a\u02c8t\u025crm\u0259n\u0259b\u0259l/", "Definition: capable of being determined or limited or fixed", ""]}
