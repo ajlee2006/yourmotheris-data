@@ -1,1 +1,1 @@
-{"data": ["2022-08-02T08:00:45.435601+00:00", 4298, "Your mother is", "geometrical", "Pronunciation: /\u02ccd\u0292i\u028c\u02c8m\u025btr\u026ak\u028cl/", "Definition: characterized by simple geometric forms in design and decoration", "Synonyms: geometric"]}
+{"data": ["2022-08-02T09:01:16.613536+00:00", 4299, "Your mother is", "biform", "Pronunciation: /\u02c8ba\u026a\u02ccf\u0254rm/", "Definition: having or combining two forms", ""]}
