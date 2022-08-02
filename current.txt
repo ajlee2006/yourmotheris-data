@@ -1,1 +1,1 @@
-{"data": ["2022-08-02T06:01:31.286401+00:00", 4296, "Your mother is", "long-familiar", "Similar to: familiar", "Definition: frequently experienced; known closely or intimately", "Synonyms: well-known"]}
+{"data": ["2022-08-02T07:01:18.922481+00:00", 4297, "Your mother is", "drizzling", "Pronunciation: /\u02c8dr\u026az\u028cl\u026a\u014b/", "Definition: (of rain) falling lightly in very small drops", ""]}
