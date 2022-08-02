@@ -1,1 +1,1 @@
-{"data": ["2022-08-02T20:01:08.753821+00:00", 4310, "Your mother is", "torn", "Pronunciation: /to\u028arn/", "Definition: having edges that are jagged from injury", "Synonyms: lacerate, lacerated, mangled"]}
+{"data": ["2022-08-02T21:00:33.798094+00:00", 4311, "Your mother is", "apterous", "Pronunciation: /\u02c8\u00e6pt\u0259r\u0259s/", "Definition: (of insects) without wings", "Synonyms: apteral"]}
