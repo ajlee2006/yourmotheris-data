@@ -1,1 +1,1 @@
-{"data": ["2022-08-02T12:01:18.020152+00:00", 4302, "Your mother is", "determinable", "Pronunciation: /d\u026a\u02c8t\u025crm\u0259n\u0259b\u0259l/", "Definition: capable of being determined or limited or fixed", ""]}
+{"data": ["2022-08-02T13:01:04.226128+00:00", 4303, "Your mother is", "unconfessed", "Similar to: unacknowledged", "Definition: not admitted", ""]}
