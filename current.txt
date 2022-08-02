@@ -1,1 +1,1 @@
-{"data": ["2022-08-02T01:01:12.464413+00:00", 4291, "Your mother is", "autistic", "Pronunciation: /\u0254\u02c8t\u026ast\u026ak/", "Definition: characteristic of or affected with autism", ""]}
+{"data": ["2022-08-02T02:00:45.319440+00:00", 4292, "Your mother is", "interspecific", "", "Definition: arising or occurring between species", "Synonyms: interspecies"]}
