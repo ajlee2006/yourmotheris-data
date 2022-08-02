@@ -1,1 +1,1 @@
-{"data": ["2022-08-02T02:00:45.319440+00:00", 4292, "Your mother is", "interspecific", "", "Definition: arising or occurring between species", "Synonyms: interspecies"]}
+{"data": ["2022-08-02T03:01:16.496352+00:00", 4293, "Your mother is", "skilful", "Pronunciation: /\u02c8sk\u026alf\u0259l/", "Definition: having or showing knowledge and skill and aptitude", "Synonyms: adept, expert, good, practiced, proficient, skillful"]}
