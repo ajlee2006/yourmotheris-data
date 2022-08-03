@@ -1,1 +1,1 @@
-{"data": ["2022-08-03T15:00:42.020644+00:00", 4329, "Your mother is", "bandaged", "Pronunciation: /\u02c8b\u00e6nd\u028cd\u0292d/", "Definition: covered or wrapped with a bandage", "Synonyms: bound"]}
+{"data": ["2022-08-03T16:01:33.899752+00:00", 4330, "Your mother is", "unvanquished", "Pronunciation: /\u0259n\u02c8v\u00e6\u014bkw\u026a\u0283t/", "Definition: not conquered", "Synonyms: unbeaten, unconquered"]}
