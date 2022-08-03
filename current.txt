@@ -1,1 +1,1 @@
-{"data": ["2022-08-03T13:00:38.230840+00:00", 4327, "Your mother is", "histrionic", "Pronunciation: /\u02cch\u026astri\u02c8\u0251n\u026ak/", "Definition: characteristic of acting or a stage performance; often affected", "Synonyms: melodramatic"]}
+{"data": ["2022-08-03T14:01:04.878629+00:00", 4328, "Your mother is", "factory-made", "Similar to: boughten", "Definition: produced in quantity at a factory", ""]}
