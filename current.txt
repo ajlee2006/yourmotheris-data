@@ -1,1 +1,1 @@
-{"data": ["2022-08-03T04:01:25.872645+00:00", 4318, "Your mother is", "basilary", "Pronunciation: /\u02c8b\u00e6s\u0259\u02ccl\u025bri/", "Definition: of or relating to or located at the base", "Synonyms: basilar"]}
+{"data": ["2022-08-03T05:01:00.732594+00:00", 4319, "Your mother is", "undershot", "Pronunciation: /\u02c8\u0259nd\u0259r\u02cc\u0283\u0251t/", "Definition: having a lower part projecting beyond the upper", "Synonyms: underhung, underslung"]}
