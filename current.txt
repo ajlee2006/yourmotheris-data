@@ -1,1 +1,1 @@
-{"data": ["2022-08-03T06:01:14.281894+00:00", 4320, "Your mother is", "agnostic", "Pronunciation: /\u00e6\u0261\u02c8n\u0251st\u026ak/", "Definition: uncertain of all claims to knowledge", "Synonyms: agnostical"]}
+{"data": ["2022-08-03T07:01:14.144080+00:00", 4321, "Your mother is", "country-style", "Pronunciation: /\u02c8k\u0259ntri-sta\u026al/", "Definition: typical of the country", ""]}
