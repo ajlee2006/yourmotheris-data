@@ -1,1 +1,1 @@
-{"data": ["2022-08-03T14:01:04.878629+00:00", 4328, "Your mother is", "factory-made", "Similar to: boughten", "Definition: produced in quantity at a factory", ""]}
+{"data": ["2022-08-03T15:00:42.020644+00:00", 4329, "Your mother is", "bandaged", "Pronunciation: /\u02c8b\u00e6nd\u028cd\u0292d/", "Definition: covered or wrapped with a bandage", "Synonyms: bound"]}
