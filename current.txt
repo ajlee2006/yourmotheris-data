@@ -1,1 +1,1 @@
-{"data": ["2022-08-02T23:01:13.983738+00:00", 4313, "Your mother is", "unrivalled", "Pronunciation: /\u0259n\u02c8ra\u026av\u0259ld/", "Definition: eminent beyond or above comparison", "Synonyms: matchless, nonpareil, one, one and only, peerless, unmatchable, unmatched, unrivaled"]}
+{"data": ["2022-08-03T00:09:40.382651+00:00", 4314, "Your mother is", "haemophilic", "Pronunciation: /\u02cchim\u0259\u02c8f\u026al\u026ak/", "Definition: relating to or having hemophilia", "Synonyms: hemophilic"]}
