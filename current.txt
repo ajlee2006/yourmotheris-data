@@ -1,1 +1,1 @@
-{"data": ["2022-08-03T07:01:14.144080+00:00", 4321, "Your mother is", "country-style", "Pronunciation: /\u02c8k\u0259ntri-sta\u026al/", "Definition: typical of the country", ""]}
+{"data": ["2022-08-03T08:01:25.284265+00:00", 4322, "Your mother is", "piscatorial", "Pronunciation: /\u02ccp\u026ask\u0259\u02c8to\u028ari\u0259l/", "Definition: relating to or characteristic of the activity of fishing", "Synonyms: piscatory"]}
