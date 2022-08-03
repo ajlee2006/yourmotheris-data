@@ -1,1 +1,1 @@
-{"data": ["2022-08-03T10:01:16.080972+00:00", 4324, "Your mother is", "reticular", "Pronunciation: /r\u026a\u02c8t\u026akj\u0259l\u0259r/", "Definition: resembling or forming a network", "Synonyms: reticulate"]}
+{"data": ["2022-08-03T11:01:23.821013+00:00", 4325, "Your mother is", "frail", "Pronunciation: /fre\u026al/", "Definition: easily broken or damaged or destroyed", "Synonyms: delicate, fragile"]}
