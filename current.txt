@@ -1,1 +1,1 @@
-{"data": ["2022-08-03T17:00:21.844036+00:00", 4331, "Your mother is", "frivolous", "Pronunciation: /\u02c8fr\u026av\u0259l\u0259s/", "Definition: not serious in content or attitude or behavior", ""]}
+{"data": ["2022-08-03T18:01:18.455764+00:00", 4332, "Your mother is", "expectable", "Similar to: expected", "Definition: to be expected", ""]}
