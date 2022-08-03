@@ -1,1 +1,1 @@
-{"data": ["2022-08-03T11:01:23.821013+00:00", 4325, "Your mother is", "frail", "Pronunciation: /fre\u026al/", "Definition: easily broken or damaged or destroyed", "Synonyms: delicate, fragile"]}
+{"data": ["2022-08-03T12:00:41.756403+00:00", 4326, "Your mother is", "mauritian", "", "Definition: of or related to the island or country of Mauritius or its inhabitants", "Synonyms: mauritanian"]}
