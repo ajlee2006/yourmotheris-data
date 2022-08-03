@@ -1,1 +1,1 @@
-{"data": ["2022-08-03T22:00:17.033370+00:00", 4336, "Your mother is", "unimodal", "", "Definition: having a single mode", ""]}
+{"data": ["2022-08-03T23:01:22.734332+00:00", 4337, "Your mother is", "savoury", "Pronunciation: /\u02c8se\u026av\u0259ri/", "Definition: pleasing to the sense of taste", "Synonyms: mouth-watering, savory"]}
