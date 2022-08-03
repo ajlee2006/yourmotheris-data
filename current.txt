@@ -1,1 +1,1 @@
-{"data": ["2022-08-03T12:00:41.756403+00:00", 4326, "Your mother is", "mauritian", "", "Definition: of or related to the island or country of Mauritius or its inhabitants", "Synonyms: mauritanian"]}
+{"data": ["2022-08-03T13:00:38.230840+00:00", 4327, "Your mother is", "histrionic", "Pronunciation: /\u02cch\u026astri\u02c8\u0251n\u026ak/", "Definition: characteristic of acting or a stage performance; often affected", "Synonyms: melodramatic"]}
