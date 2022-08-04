@@ -1,1 +1,1 @@
-{"data": ["2022-08-04T02:00:21.466066+00:00", 4340, "Your mother is", "percipient", "Pronunciation: /p\u0259r\u02c8s\u026api\u0259nt/", "Definition: characterized by ease and quickness in perceiving", "Synonyms: clear"]}
+{"data": ["2022-08-04T03:01:23.796228+00:00", 4341, "Your mother is", "tamed", "Pronunciation: /te\u026amd/", "Definition: brought from wildness into a domesticated state", "Synonyms: tame"]}
