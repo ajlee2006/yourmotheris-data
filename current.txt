@@ -1,1 +1,1 @@
-{"data": ["2022-08-04T20:01:24.373789+00:00", 4358, "Your mother is", "hidden", "Pronunciation: /\u02c8h\u026ad\u0259n/", "Definition: not accessible to view", "Synonyms: concealed, out of sight"]}
+{"data": ["2022-08-04T21:00:41.126378+00:00", 4359, "Your mother is", "penitential", "Pronunciation: /\u02ccp\u025bn\u026a\u02c8t\u025bn\u0283\u0259l/", "Definition: showing or constituting penance", "Synonyms: penitentiary"]}
