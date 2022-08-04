@@ -1,1 +1,1 @@
-{"data": ["2022-08-04T16:01:25.027349+00:00", 4354, "Your mother is", "175", "Similar to: cardinal", "Definition: being five more than one hundred seventy", "Synonyms: clxxv, one hundred seventy-five"]}
+{"data": ["2022-08-04T17:01:15.689934+00:00", 4355, "Your mother is", "equal", "Pronunciation: /\u02c8ikw\u0259l/", "Definition: having the requisite qualities or resources to meet a task", "Synonyms: adequate"]}
