@@ -1,1 +1,1 @@
-{"data": ["2022-08-04T19:00:42.601017+00:00", 4357, "Your mother is", "profane", "Pronunciation: /pr\u0259\u02c8fe\u026an/", "Definition: grossly irreverent toward what is held to be sacred", "Synonyms: blasphemous, sacrilegious"]}
+{"data": ["2022-08-04T20:01:24.373789+00:00", 4358, "Your mother is", "hidden", "Pronunciation: /\u02c8h\u026ad\u0259n/", "Definition: not accessible to view", "Synonyms: concealed, out of sight"]}
