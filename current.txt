@@ -1,1 +1,1 @@
-{"data": ["2022-08-04T14:01:35.737575+00:00", 4352, "Your mother is", "hematic", "Pronunciation: /h\u0259\u02c8m\u00e6t\u026ak/", "Definition: relating to or containing or affecting blood", "Synonyms: haematic, haemic, hemic"]}
+{"data": ["2022-08-04T15:01:07.921876+00:00", 4353, "Your mother is", "thirty-second", "Pronunciation: /\u02c8\u03b8\u025crti-\u02c8s\u025bk\u0259nd/", "Definition: the ordinal number of thirty-two in counting order", "Synonyms: 32nd"]}
