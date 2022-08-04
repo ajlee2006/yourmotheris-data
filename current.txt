@@ -1,1 +1,1 @@
-{"data": ["2022-08-04T15:01:07.921876+00:00", 4353, "Your mother is", "thirty-second", "Pronunciation: /\u02c8\u03b8\u025crti-\u02c8s\u025bk\u0259nd/", "Definition: the ordinal number of thirty-two in counting order", "Synonyms: 32nd"]}
+{"data": ["2022-08-04T16:01:25.027349+00:00", 4354, "Your mother is", "175", "Similar to: cardinal", "Definition: being five more than one hundred seventy", "Synonyms: clxxv, one hundred seventy-five"]}
