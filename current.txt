@@ -1,1 +1,1 @@
-{"data": ["2022-08-04T17:01:15.689934+00:00", 4355, "Your mother is", "equal", "Pronunciation: /\u02c8ikw\u0259l/", "Definition: having the requisite qualities or resources to meet a task", "Synonyms: adequate"]}
+{"data": ["2022-08-04T18:00:45.349014+00:00", 4356, "Your mother is", "vacillating", "Pronunciation: /\u02c8v\u00e6s\u028c\u02ccle\u026at\u026a\u014b/", "Definition: uncertain in purpose or action", "Synonyms: vacillant, wavering"]}
