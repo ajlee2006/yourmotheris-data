@@ -1,1 +1,1 @@
-{"data": ["2022-08-04T00:01:20.077207+00:00", 4338, "Your mother is", "boat-shaped", "Pronunciation: /bo\u028at-\u0283e\u026apt/", "Definition: having a concave shape like a boat", ""]}
+{"data": ["2022-08-04T01:01:16.771824+00:00", 4339, "Your mother is", "polyploid", "Pronunciation: /\u02c8p\u0251li\u02ccpl\u0254\u026ad/", "Definition: of a cell or organism having more than twice the haploid number of chromosomes", ""]}
