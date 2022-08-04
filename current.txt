@@ -1,1 +1,1 @@
-{"data": ["2022-08-04T05:00:34.487690+00:00", 4343, "Your mother is", "good", "Pronunciation: /\u0261\u028ad/", "Definition: with or in a close or intimate relationship", "Synonyms: dear, near"]}
+{"data": ["2022-08-04T06:01:23.693163+00:00", 4344, "Your mother is", "rambunctious", "Pronunciation: /r\u00e6m\u02c8b\u0259\u014bk\u0283\u0259s/", "Definition: noisy and lacking in restraint or discipline", "Synonyms: boisterous, robustious, rumbustious, unruly"]}
