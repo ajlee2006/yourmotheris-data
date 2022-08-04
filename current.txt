@@ -1,1 +1,1 @@
-{"data": ["2022-08-04T21:00:41.126378+00:00", 4359, "Your mother is", "penitential", "Pronunciation: /\u02ccp\u025bn\u026a\u02c8t\u025bn\u0283\u0259l/", "Definition: showing or constituting penance", "Synonyms: penitentiary"]}
+{"data": ["2022-08-04T22:00:35.721572+00:00", 4360, "Your mother is", "welcoming", "Pronunciation: /\u02c8w\u025blk\u028cm\u026a\u014b/", "Definition: very cordial", ""]}
