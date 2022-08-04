@@ -1,1 +1,1 @@
-{"data": ["2022-08-03T23:01:22.734332+00:00", 4337, "Your mother is", "savoury", "Pronunciation: /\u02c8se\u026av\u0259ri/", "Definition: pleasing to the sense of taste", "Synonyms: mouth-watering, savory"]}
+{"data": ["2022-08-04T00:01:20.077207+00:00", 4338, "Your mother is", "boat-shaped", "Pronunciation: /bo\u028at-\u0283e\u026apt/", "Definition: having a concave shape like a boat", ""]}
