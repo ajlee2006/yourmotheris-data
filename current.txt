@@ -1,1 +1,1 @@
-{"data": ["2022-08-04T03:01:23.796228+00:00", 4341, "Your mother is", "tamed", "Pronunciation: /te\u026amd/", "Definition: brought from wildness into a domesticated state", "Synonyms: tame"]}
+{"data": ["2022-08-04T04:01:30.980705+00:00", 4342, "Your mother is", "brindle", "Pronunciation: /\u02c8br\u026and\u0259l/", "Definition: having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats", "Synonyms: brinded, brindled, tabby"]}
