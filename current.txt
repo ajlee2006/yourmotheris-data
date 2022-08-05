@@ -1,1 +1,1 @@
-{"data": ["2022-08-05T04:00:20.825049+00:00", 4366, "Your mother is", "self-colored", "Pronunciation: /s\u025blf-\u02c8k\u0259l\u0259rd/", "Definition: of the same color throughout", "Synonyms: self-coloured, solid"]}
+{"data": ["2022-08-05T05:01:55.171068+00:00", 4367, "Your mother is", "noble-minded", "Pronunciation: /\u02c8no\u028ab\u0259l-\u02c8ma\u026and\u026ad/", "Definition: of high moral or intellectual value; elevated in nature or style", "Synonyms: elevated, exalted, grand, high-flown, high-minded, idealistic, lofty, rarefied, rarified, sublime"]}
