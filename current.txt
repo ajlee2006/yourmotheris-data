@@ -1,1 +1,1 @@
-{"data": ["2022-08-05T13:00:27.096688+00:00", 4375, "Your mother is", "compelling", "Pronunciation: /k\u0259m\u02c8p\u025bl\u026a\u014b/", "Definition: driving or forcing", ""]}
+{"data": ["2022-08-05T14:01:18.427490+00:00", 4376, "Your mother is", "esteemed", "Pronunciation: /\u026a\u02c8stimd/", "Definition: having an illustrious reputation; respected", "Synonyms: honored, prestigious"]}
