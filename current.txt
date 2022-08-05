@@ -1,1 +1,1 @@
-{"data": ["2022-08-05T08:00:59.811179+00:00", 4370, "Your mother is", "beneficial", "Pronunciation: /\u02ccb\u025bn\u0259\u02c8f\u026a\u0283\u0259l/", "Definition: promoting or enhancing well-being", "Synonyms: good"]}
+{"data": ["2022-08-05T09:01:50.931231+00:00", 4371, "Your mother is", "preventive", "Pronunciation: /pr\u026a\u02c8v\u025bnt\u026av/", "Definition: preventing or contributing to the prevention of disease", "Synonyms: preventative, prophylactic"]}
