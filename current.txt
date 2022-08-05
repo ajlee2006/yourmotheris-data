@@ -1,1 +1,1 @@
-{"data": ["2022-08-05T16:01:14.080565+00:00", 4378, "Your mother is", "inscrutable", "Pronunciation: /\u026an\u02c8skrut\u0259b\u0259l/", "Definition: of an obscure nature", "Synonyms: cryptic, cryptical, deep, mysterious, mystifying"]}
+{"data": ["2022-08-05T17:01:09.275143+00:00", 4379, "Your mother is", "concurring", "Pronunciation: /k\u028cn\u02c8k\u025dr\u026a\u014b/", "Definition: being of the same opinion", "Synonyms: concordant"]}
