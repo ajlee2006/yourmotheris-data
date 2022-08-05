@@ -1,1 +1,1 @@
-{"data": ["2022-08-05T00:01:23.076242+00:00", 4362, "Your mother is", "storm-tossed", "Similar to: troubled", "Definition: pounded or hit repeatedly by storms or adversities", "Synonyms: buffeted, tempest-swept, tempest-tossed, tempest-tost"]}
+{"data": ["2022-08-05T01:01:15.089588+00:00", 4363, "Your mother is", "prepositional", "", "Definition: of or relating to or formed with a preposition", ""]}
