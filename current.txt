@@ -1,1 +1,1 @@
-{"data": ["2022-08-05T03:00:27.866164+00:00", 4365, "Your mother is", "unwarmed", "Pronunciation: /\u0259n\u02c8wo\u028armd/", "Definition: not having been heated or warmed", "Synonyms: unheated"]}
+{"data": ["2022-08-05T04:00:20.825049+00:00", 4366, "Your mother is", "self-colored", "Pronunciation: /s\u025blf-\u02c8k\u0259l\u0259rd/", "Definition: of the same color throughout", "Synonyms: self-coloured, solid"]}
