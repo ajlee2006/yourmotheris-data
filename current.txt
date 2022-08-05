@@ -1,1 +1,1 @@
-{"data": ["2022-08-05T15:01:01.413840+00:00", 4377, "Your mother is", "inflammatory", "Pronunciation: /\u026an\u02c8fl\u00e6m\u0259\u02ccto\u028ari/", "Definition: arousing to action or rebellion", "Synonyms: incendiary, incitive, instigative, rabble-rousing, seditious"]}
+{"data": ["2022-08-05T16:01:14.080565+00:00", 4378, "Your mother is", "inscrutable", "Pronunciation: /\u026an\u02c8skrut\u0259b\u0259l/", "Definition: of an obscure nature", "Synonyms: cryptic, cryptical, deep, mysterious, mystifying"]}
