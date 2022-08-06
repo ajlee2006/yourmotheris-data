@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T04:01:23.747669+00:00", 4390, "Your mother is", "opulent", "Pronunciation: /\u02c8\u0251pj\u0259l\u0259nt/", "Definition: ostentatiously rich and superior in quality", "Synonyms: deluxe, gilded, grand, lush, luxurious, princely, sumptuous"]}
+{"data": ["2022-08-06T05:00:53.262791+00:00", 4391, "Your mother is", "right", "Pronunciation: /ra\u026at/", "Definition: correct in opinion or judgment", "Synonyms: correct"]}
