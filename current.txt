@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T21:00:19.592651+00:00", 4407, "Your mother is", "striped", "Pronunciation: /stra\u026apt/", "Definition: marked or decorated with stripes", "Synonyms: stripy"]}
+{"data": ["2022-08-06T22:00:32.637032+00:00", 4408, "Your mother is", "additional", "Pronunciation: /\u0259\u02c8d\u026a\u0283\u0259n\u0259l/", "Definition: further or added", "Synonyms: extra"]}
