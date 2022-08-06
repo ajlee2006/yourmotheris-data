@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T06:01:23.216162+00:00", 4392, "Your mother is", "unhelpful", "Pronunciation: /\u0259n\u02c8h\u025blpf\u028al/", "Definition: providing no assistance", ""]}
+{"data": ["2022-08-06T07:01:14.221845+00:00", 4393, "Your mother is", "three-petaled", "Similar to: petalous", "Definition: (of flowers) having three petals", "Synonyms: three-petalled"]}
