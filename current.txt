@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T19:00:40.337902+00:00", 4405, "Your mother is", "furthest", "Pronunciation: /\u02c8f\u025cr\u00f0\u026ast/", "Definition: (comparatives of `far') most remote in space or time or order", "Synonyms: farthermost, farthest, furthermost, utmost, uttermost"]}
+{"data": ["2022-08-06T20:01:16.134691+00:00", 4406, "Your mother is", "inexperient", "Similar to: new", "Definition: lacking practical experience or training", "Synonyms: inexperienced"]}
