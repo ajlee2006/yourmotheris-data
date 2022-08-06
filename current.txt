@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T00:01:11.177338+00:00", 4386, "Your mother is", "anuran", "Pronunciation: /\u0259\u02c8n\u028ar\u0259n/", "Definition: relating to frogs and toads", "Synonyms: batrachian, salientian"]}
+{"data": ["2022-08-06T01:01:37.182355+00:00", 4387, "Your mother is", "fond", "Pronunciation: /f\u0251nd/", "Definition: extravagantly or foolishly loving and indulgent", "Synonyms: adoring, doting"]}
