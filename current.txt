@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T14:00:14.181801+00:00", 4400, "Your mother is", "tiger-striped", "Pronunciation: /\u02c8ta\u026a\u0261\u0259r-stra\u026apt/", "Definition: having stripes resembling those of a tiger", ""]}
+{"data": ["2022-08-06T15:00:54.984180+00:00", 4401, "Your mother is", "interlacing", "Similar to: complex", "Definition: linked or locked closely together as by dovetailing", "Synonyms: interlinking, interlocking, interwoven"]}
