@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T18:00:44.376417+00:00", 4404, "Your mother is", "joint", "Pronunciation: /d\u0292\u0254\u026ant/", "Definition: affecting or involving two or more", ""]}
+{"data": ["2022-08-06T19:00:40.337902+00:00", 4405, "Your mother is", "furthest", "Pronunciation: /\u02c8f\u025cr\u00f0\u026ast/", "Definition: (comparatives of `far') most remote in space or time or order", "Synonyms: farthermost, farthest, furthermost, utmost, uttermost"]}
