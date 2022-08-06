@@ -1,1 +1,1 @@
-{"data": ["2022-08-05T23:00:35.849682+00:00", 4385, "Your mother is", "rueful", "Pronunciation: /\u02c8ruf\u028al/", "Definition: feeling or expressing pain or sorrow for sins or offenses", "Synonyms: contrite, remorseful, ruthful"]}
+{"data": ["2022-08-06T00:01:11.177338+00:00", 4386, "Your mother is", "anuran", "Pronunciation: /\u0259\u02c8n\u028ar\u0259n/", "Definition: relating to frogs and toads", "Synonyms: batrachian, salientian"]}
