@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T08:00:52.975827+00:00", 4394, "Your mother is", "jocose", "Pronunciation: /d\u0292o\u028a\u02c8ko\u028as/", "Definition: characterized by jokes and good humor", "Synonyms: jesting, jocular, joking"]}
+{"data": ["2022-08-06T09:00:49.309172+00:00", 4395, "Your mother is", "aguish", "Pronunciation: /\u02c8e\u026a\u0261ju\u026a\u0283/", "Definition: affected by ague", ""]}
