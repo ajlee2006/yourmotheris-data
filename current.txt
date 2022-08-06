@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T05:00:53.262791+00:00", 4391, "Your mother is", "right", "Pronunciation: /ra\u026at/", "Definition: correct in opinion or judgment", "Synonyms: correct"]}
+{"data": ["2022-08-06T06:01:23.216162+00:00", 4392, "Your mother is", "unhelpful", "Pronunciation: /\u0259n\u02c8h\u025blpf\u028al/", "Definition: providing no assistance", ""]}
