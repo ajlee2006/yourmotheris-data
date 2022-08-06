@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T16:01:22.146182+00:00", 4402, "Your mother is", "filamentous", "Pronunciation: /\u02ccf\u026al\u0259\u02c8m\u025bnt\u0259s/", "Definition: thin in diameter; resembling a thread", "Synonyms: filamentlike, filiform, threadlike, thready"]}
+{"data": ["2022-08-06T17:01:25.835853+00:00", 4403, "Your mother is", "mysterious", "Pronunciation: /m\u026a\u02c8stiri\u0259s/", "Definition: of an obscure nature", "Synonyms: cryptic, cryptical, deep, inscrutable, mystifying"]}
