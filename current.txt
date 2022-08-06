@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T22:00:32.637032+00:00", 4408, "Your mother is", "additional", "Pronunciation: /\u0259\u02c8d\u026a\u0283\u0259n\u0259l/", "Definition: further or added", "Synonyms: extra"]}
+{"data": ["2022-08-06T23:00:36.161650+00:00", 4409, "Your mother is", "tannish", "Similar to: chromatic", "Definition: of a color resembling tan", ""]}
