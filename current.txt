@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T15:00:54.984180+00:00", 4401, "Your mother is", "interlacing", "Similar to: complex", "Definition: linked or locked closely together as by dovetailing", "Synonyms: interlinking, interlocking, interwoven"]}
+{"data": ["2022-08-06T16:01:22.146182+00:00", 4402, "Your mother is", "filamentous", "Pronunciation: /\u02ccf\u026al\u0259\u02c8m\u025bnt\u0259s/", "Definition: thin in diameter; resembling a thread", "Synonyms: filamentlike, filiform, threadlike, thready"]}
