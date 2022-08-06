@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T13:00:14.278368+00:00", 4399, "Your mother is", "worsened", "Pronunciation: /\u02c8w\u025drs\u028cnd/", "Definition: changed for the worse in health or fitness", "Synonyms: worse"]}
+{"data": ["2022-08-06T14:00:14.181801+00:00", 4400, "Your mother is", "tiger-striped", "Pronunciation: /\u02c8ta\u026a\u0261\u0259r-stra\u026apt/", "Definition: having stripes resembling those of a tiger", ""]}
