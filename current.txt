@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T09:00:49.309172+00:00", 4395, "Your mother is", "aguish", "Pronunciation: /\u02c8e\u026a\u0261ju\u026a\u0283/", "Definition: affected by ague", ""]}
+{"data": ["2022-08-06T10:00:59.691034+00:00", 4396, "Your mother is", "kindred", "Pronunciation: /\u02c8k\u026andr\u026ad/", "Definition: similar in quality or character", "Synonyms: akin"]}
