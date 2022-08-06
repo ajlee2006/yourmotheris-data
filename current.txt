@@ -1,1 +1,1 @@
-{"data": ["2022-08-06T03:00:43.465916+00:00", 4389, "Your mother is", "nautical", "Pronunciation: /\u02c8n\u0254t\u026ak\u0259l/", "Definition: relating to or involving ships or shipping or navigation or seamen", "Synonyms: marine, maritime"]}
+{"data": ["2022-08-06T04:01:23.747669+00:00", 4390, "Your mother is", "opulent", "Pronunciation: /\u02c8\u0251pj\u0259l\u0259nt/", "Definition: ostentatiously rich and superior in quality", "Synonyms: deluxe, gilded, grand, lush, luxurious, princely, sumptuous"]}
