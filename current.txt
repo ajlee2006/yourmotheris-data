@@ -1,1 +1,1 @@
-{"data": ["2022-08-07T09:01:15.645243+00:00", 4419, "Your mother is", "low-density", "Similar to: distributed", "Definition: having low concentration", ""]}
+{"data": ["2022-08-07T10:00:55.278266+00:00", 4420, "Your mother is", "softhearted", "", "Definition: easily moved to pity or sorrow", "Synonyms: soft-boiled"]}
