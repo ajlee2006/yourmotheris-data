@@ -1,1 +1,1 @@
-{"data": ["2022-08-07T08:01:24.261341+00:00", 4418, "Your mother is", "worse", "Pronunciation: /w\u025crs/", "Definition: changed for the worse in health or fitness", "Synonyms: worsened"]}
+{"data": ["2022-08-07T09:01:15.645243+00:00", 4419, "Your mother is", "low-density", "Similar to: distributed", "Definition: having low concentration", ""]}
