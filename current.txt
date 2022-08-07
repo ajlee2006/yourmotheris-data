@@ -1,1 +1,1 @@
-{"data": ["2022-08-07T15:00:43.282179+00:00", 4425, "Your mother is", "brightly-coloured", "Similar to: colored", "Definition: having a bright color", "Synonyms: brightly-colored"]}
+{"data": ["2022-08-07T16:00:50.009044+00:00", 4426, "Your mother is", "obdurate", "Pronunciation: /\u02c8\u0251bd\u028ar\u026at/", "Definition: stubbornly persistent in wrongdoing", "Synonyms: cussed, obstinate, unrepentant"]}
