@@ -1,1 +1,1 @@
-{"data": ["2022-08-07T21:00:57.615935+00:00", 4431, "Your mother is", "expedient", "Pronunciation: /\u026ak\u02c8spidi\u0259nt/", "Definition: appropriate to a purpose; practical", ""]}
+{"data": ["2022-08-07T22:01:17.698459+00:00", 4432, "Your mother is", "skyward", "Pronunciation: /\u02c8ska\u026aw\u0259rd/", "Definition: directed toward heaven or the sky", "Synonyms: heavenward"]}
