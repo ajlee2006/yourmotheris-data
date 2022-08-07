@@ -1,1 +1,1 @@
-{"data": ["2022-08-07T05:00:53.116568+00:00", 4415, "Your mother is", "cheapjack", "Pronunciation: /\u02c8t\u0283ipd\u0292\u00e6k/", "Definition: made of inferior workmanship and materials", "Synonyms: shoddy, tawdry"]}
+{"data": ["2022-08-07T06:00:56.294554+00:00", 4416, "Your mother is", "collective", "Pronunciation: /k\u0259\u02c8l\u025bkt\u026av/", "Definition: done by or characteristic of individuals acting together", "Synonyms: corporate"]}
