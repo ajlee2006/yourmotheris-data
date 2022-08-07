@@ -1,1 +1,1 @@
-{"data": ["2022-08-07T06:00:56.294554+00:00", 4416, "Your mother is", "collective", "Pronunciation: /k\u0259\u02c8l\u025bkt\u026av/", "Definition: done by or characteristic of individuals acting together", "Synonyms: corporate"]}
+{"data": ["2022-08-07T07:00:56.821465+00:00", 4417, "Your mother is", "insatiable", "Pronunciation: /\u026an\u02c8se\u026a\u0283\u0259b\u0259l/", "Definition: impossible to satisfy", "Synonyms: insatiate, unsatiable"]}
