@@ -1,1 +1,1 @@
-{"data": ["2022-08-07T20:01:04.738047+00:00", 4430, "Your mother is", "unexacting", "Pronunciation: /\u02cc\u0259n\u026a\u0261\u02c8z\u00e6kt\u026a\u014b/", "Definition: not rigorous", ""]}
+{"data": ["2022-08-07T21:00:57.615935+00:00", 4431, "Your mother is", "expedient", "Pronunciation: /\u026ak\u02c8spidi\u0259nt/", "Definition: appropriate to a purpose; practical", ""]}
