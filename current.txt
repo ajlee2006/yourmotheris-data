@@ -1,1 +1,1 @@
-{"data": ["2022-08-08T08:00:27.216352+00:00", 4442, "Your mother is", "suave", "Pronunciation: /sw\u0251v/", "Definition: having a sophisticated charm", "Synonyms: debonair, debonaire, debonnaire"]}
+{"data": ["2022-08-08T09:00:44.177455+00:00", 4443, "Your mother is", "monarchical", "Pronunciation: /m\u0259\u02c8n\u0251rk\u026ak\u0259l/", "Definition: having the characteristics of or befitting or worthy of a monarch", "Synonyms: monarchal"]}
