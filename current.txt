@@ -1,1 +1,1 @@
-{"data": ["2022-08-08T00:09:32.328758+00:00", 4434, "Your mother is", "unlicenced", "Similar to: unauthorised", "Definition: lacking official approval", "Synonyms: unaccredited, unlicensed"]}
+{"data": ["2022-08-08T01:01:35.314980+00:00", 4435, "Your mother is", "preset", "Pronunciation: /pri\u02c8s\u025bt/", "Definition: set in advance", "Synonyms: predetermined"]}
