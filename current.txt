@@ -1,1 +1,1 @@
-{"data": ["2022-08-08T22:01:32.083850+00:00", 4456, "Your mother is", "poor-spirited", "Pronunciation: /p\u028ar-\u02c8sp\u026ar\u026at\u026ad/", "Definition: lacking in courage and manly strength and resolution; contemptibly fearful", "Synonyms: pusillanimous, unmanly"]}
+{"data": ["2022-08-08T23:00:38.234749+00:00", 4457, "Your mother is", "strong", "Pronunciation: /str\u0254\u014b/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, inviolable, secure, unassailable, unattackable"]}
