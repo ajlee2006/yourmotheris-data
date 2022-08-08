@@ -1,1 +1,1 @@
-{"data": ["2022-08-08T10:01:27.287630+00:00", 4444, "Your mother is", "cackly", "Similar to: cacophonic", "Definition: like the cackles or squawks a hen makes especially after laying an egg", "Synonyms: squawky"]}
+{"data": ["2022-08-08T11:00:42.327803+00:00", 4445, "Your mother is", "smoke-filled", "Similar to: smoky", "Definition: containing smoke", ""]}
