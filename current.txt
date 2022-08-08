@@ -1,1 +1,1 @@
-{"data": ["2022-08-08T05:00:56.892857+00:00", 4439, "Your mother is", "laughable", "Pronunciation: /\u02c8l\u00e6f\u0259b\u0259l/", "Definition: arousing or provoking laughter", "Synonyms: amusing, comic, comical, funny, mirthful, risible"]}
+{"data": ["2022-08-08T06:00:45.304933+00:00", 4440, "Your mother is", "well-groomed", "Pronunciation: /\u02c8w\u025bl-\u02c8grumd/", "Definition: having tasteful clothing and being scrupulously neat", "Synonyms: well-dressed"]}
