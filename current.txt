@@ -1,1 +1,1 @@
-{"data": ["2022-08-08T11:00:42.327803+00:00", 4445, "Your mother is", "smoke-filled", "Similar to: smoky", "Definition: containing smoke", ""]}
+{"data": ["2022-08-08T12:00:48.447566+00:00", 4446, "Your mother is", "improvident", "Pronunciation: /\u026am\u02c8pr\u0251v\u026ad\u0259nt/", "Definition: not given careful consideration", "Synonyms: ill-considered, ill-judged, shortsighted"]}
