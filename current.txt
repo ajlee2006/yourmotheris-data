@@ -1,1 +1,1 @@
-{"data": ["2022-08-08T15:01:05.024090+00:00", 4449, "Your mother is", "punitory", "Pronunciation: /\u02c8pjun\u026a\u02ccto\u028ari/", "Definition: inflicting punishment", "Synonyms: punitive"]}
+{"data": ["2022-08-08T16:00:26.751244+00:00", 4450, "Your mother is", "rustproof", "Pronunciation: /\u02c8r\u0259stpruf/", "Definition: treated against rusting", "Synonyms: rustproofed"]}
