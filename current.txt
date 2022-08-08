@@ -1,1 +1,1 @@
-{"data": ["2022-08-08T19:01:12.528569+00:00", 4453, "Your mother is", "squiffy", "Pronunciation: /\u02c8skw\u026afi/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, soused, sozzled, stiff, tight, wet"]}
+{"data": ["2022-08-08T20:00:53.548462+00:00", 4454, "Your mother is", "overflowing", "Pronunciation: /\u02c8o\u028av\u025dr\u02ccflo\u028a\u026a\u014b/", "Definition: covered with water", "Synonyms: afloat, awash, flooded, inundated"]}
