@@ -1,1 +1,1 @@
-{"data": ["2022-08-08T12:00:48.447566+00:00", 4446, "Your mother is", "improvident", "Pronunciation: /\u026am\u02c8pr\u0251v\u026ad\u0259nt/", "Definition: not given careful consideration", "Synonyms: ill-considered, ill-judged, shortsighted"]}
+{"data": ["2022-08-08T13:01:12.363554+00:00", 4447, "Your mother is", "clogged", "Pronunciation: /kl\u0254\u0261d/", "Definition: thickened or coalesced in soft thick lumps (such as clogs or clots)", "Synonyms: clotted"]}
