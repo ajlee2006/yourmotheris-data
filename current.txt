@@ -1,1 +1,1 @@
-{"data": ["2022-08-08T14:00:39.182042+00:00", 4448, "Your mother is", "hematal", "Pronunciation: /\u02c8h\u025bm\u0259t\u0259l/", "Definition: relating to the blood vessels or blood", "Synonyms: haemal, haematal, hemal"]}
+{"data": ["2022-08-08T15:01:05.024090+00:00", 4449, "Your mother is", "punitory", "Pronunciation: /\u02c8pjun\u026a\u02ccto\u028ari/", "Definition: inflicting punishment", "Synonyms: punitive"]}
