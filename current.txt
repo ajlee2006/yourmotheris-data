@@ -1,1 +1,1 @@
-{"data": ["2022-08-08T02:01:02.882896+00:00", 4436, "Your mother is", "zigzag", "Pronunciation: /\u02c8z\u026a\u0261\u02ccz\u00e6\u0261/", "Definition: having short sharp turns or angles", "Synonyms: zig-zag"]}
+{"data": ["2022-08-08T03:01:24.054428+00:00", 4437, "Your mother is", "maroc", "Pronunciation: /mA\u02c8R\u0254k/", "Definition: of or relating to or characteristic of Morocco or its people", "Synonyms: moroccan"]}
