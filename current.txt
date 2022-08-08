@@ -1,1 +1,1 @@
-{"data": ["2022-08-08T17:01:12.032949+00:00", 4451, "Your mother is", "hollow-eyed", "Pronunciation: /\u02c8h\u0251lo\u028a-a\u026ad/", "Definition: characteristic of the bony face of a cadaver", "Synonyms: deep-eyed, sunken-eyed"]}
+{"data": ["2022-08-08T18:00:45.774445+00:00", 4452, "Your mother is", "fibreoptic", "", "Definition: of or relating to fiber optics", "Synonyms: fiber-optic, fiberoptic, fibre-optic"]}
