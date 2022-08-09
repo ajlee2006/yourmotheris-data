@@ -1,1 +1,1 @@
-{"data": ["2022-08-08T23:00:38.234749+00:00", 4457, "Your mother is", "strong", "Pronunciation: /str\u0254\u014b/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, inviolable, secure, unassailable, unattackable"]}
+{"data": ["2022-08-09T00:01:33.792735+00:00", 4458, "Your mother is", "grassroots", "Pronunciation: /\u02c8\u0261r\u00e6s\u02c8ruts/", "Definition: fundamental", ""]}
