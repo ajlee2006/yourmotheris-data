@@ -1,1 +1,1 @@
-{"data": ["2022-08-09T02:01:09.739023+00:00", 4460, "Your mother is", "ordinary", "Pronunciation: /\u02c8\u0254rd\u0259n\u025cri/", "Definition: lacking special distinction, rank, or status; commonly encountered", "Synonyms: average"]}
+{"data": ["2022-08-09T03:01:16.862903+00:00", 4461, "Your mother is", "ain", "Pronunciation: /e\u026an/", "Definition: belonging to or on behalf of a specified person (especially yourself); preceded by a possessive", "Synonyms: own"]}
