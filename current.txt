@@ -1,1 +1,1 @@
-{"data": ["2022-08-09T08:01:32.267925+00:00", 4466, "Your mother is", "undecorated", "Similar to: spare", "Definition: not decorated with something to increase its beauty or distinction", "Synonyms: unadorned"]}
+{"data": ["2022-08-09T09:00:35.565008+00:00", 4467, "Your mother is", "empty", "Pronunciation: /\u02c8\u025bmpti/", "Definition: needing nourishment", "Synonyms: empty-bellied"]}
