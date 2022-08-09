@@ -1,1 +1,1 @@
-{"data": ["2022-08-09T13:00:50.785165+00:00", 4471, "Your mother is", "goalless", "Similar to: unsuccessful", "Definition: having no points scores", "Synonyms: hitless, pointless, scoreless"]}
+{"data": ["2022-08-09T14:01:32.685526+00:00", 4472, "Your mother is", "endoergic", "Pronunciation: /\u02cc\u025bndo\u028a\u02c8\u025crd\u0292\u026ak/", "Definition: (of a nuclear reaction) occurring with absorption of energy", "Synonyms: energy-absorbing"]}
