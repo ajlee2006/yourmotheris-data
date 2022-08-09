@@ -1,1 +1,1 @@
-{"data": ["2022-08-09T09:00:35.565008+00:00", 4467, "Your mother is", "empty", "Pronunciation: /\u02c8\u025bmpti/", "Definition: needing nourishment", "Synonyms: empty-bellied"]}
+{"data": ["2022-08-09T10:01:14.661709+00:00", 4468, "Your mother is", "unsupportive", "Similar to: confounding", "Definition: not furnishing support or assistance", ""]}
