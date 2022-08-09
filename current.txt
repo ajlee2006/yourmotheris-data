@@ -1,1 +1,1 @@
-{"data": ["2022-08-09T03:01:16.862903+00:00", 4461, "Your mother is", "ain", "Pronunciation: /e\u026an/", "Definition: belonging to or on behalf of a specified person (especially yourself); preceded by a possessive", "Synonyms: own"]}
+{"data": ["2022-08-09T04:01:28.279033+00:00", 4462, "Your mother is", "heart-to-heart", "Pronunciation: /\u02c8h\u0251rtt\u0259-\u02c8h\u0251rt/", "Definition: openly straightforward and direct without reserve or secretiveness", "Synonyms: candid, open"]}
