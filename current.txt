@@ -1,1 +1,1 @@
-{"data": ["2022-08-09T12:00:53.604613+00:00", 4470, "Your mother is", "facilitatory", "Similar to: helpful", "Definition: inducing or aiding in facilitating neural activity", ""]}
+{"data": ["2022-08-09T13:00:50.785165+00:00", 4471, "Your mother is", "goalless", "Similar to: unsuccessful", "Definition: having no points scores", "Synonyms: hitless, pointless, scoreless"]}
