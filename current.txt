@@ -1,1 +1,1 @@
-{"data": ["2022-08-09T01:01:28.374424+00:00", 4459, "Your mother is", "made-to-order", "Pronunciation: /\u02c8me\u026adtu\u02c8\u0254rd\u0259r/", "Definition: built for a particular individual", "Synonyms: custom-built"]}
+{"data": ["2022-08-09T02:01:09.739023+00:00", 4460, "Your mother is", "ordinary", "Pronunciation: /\u02c8\u0254rd\u0259n\u025cri/", "Definition: lacking special distinction, rank, or status; commonly encountered", "Synonyms: average"]}
