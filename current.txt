@@ -1,1 +1,1 @@
-{"data": ["2022-08-09T19:00:55.911269+00:00", 4477, "Your mother is", "combatant", "Pronunciation: /k\u0259m\u02c8b\u00e6t\u0259nt/", "Definition: engaging in or ready for combat", ""]}
+{"data": ["2022-08-09T20:01:21.849573+00:00", 4478, "Your mother is", "esoteric", "Pronunciation: /\u02cc\u025bs\u0259\u02c8t\u025br\u026ak/", "Definition: confined to and understandable by only an enlightened inner circle", ""]}
