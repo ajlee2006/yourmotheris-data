@@ -1,1 +1,1 @@
-{"data": ["2022-08-09T15:01:18.365220+00:00", 4473, "Your mother is", "futurist", "Pronunciation: /\u02c8fju\u02a7\u0259rist/", "Definition: of or relating to futurism", "Synonyms: futuristic"]}
+{"data": ["2022-08-09T16:01:16.270262+00:00", 4474, "Your mother is", "caruncular", "Pronunciation: /k\u0259\u02c8r\u0259\u014bkj\u0259l\u0259r/", "Definition: resembling a caruncle", "Synonyms: carunculous"]}
