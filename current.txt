@@ -1,1 +1,1 @@
-{"data": ["2022-08-09T11:00:49.824956+00:00", 4469, "Your mother is", "appreciated", "Pronunciation: /\u028c\u02c8pri\u0283i\u02cce\u026at\u026ad/", "Definition: fully understood or grasped", "Synonyms: apprehended, comprehended"]}
+{"data": ["2022-08-09T12:00:53.604613+00:00", 4470, "Your mother is", "facilitatory", "Similar to: helpful", "Definition: inducing or aiding in facilitating neural activity", ""]}
