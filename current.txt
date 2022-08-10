@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T03:01:29.254071+00:00", 4485, "Your mother is", "twopenny-halfpenny", "Pronunciation: /\u02c8t\u0259p\u0259ni-\u02c8he\u026ap\u0259ni/", "Definition: of trifling worth", "Synonyms: sixpenny, threepenny, tuppeny, two-a-penny, twopenny"]}
+{"data": ["2022-08-10T04:00:38.914434+00:00", 4486, "Your mother is", "five-hundredth", "Similar to: ordinal", "Definition: the ordinal number of five hundred in counting order", "Synonyms: 500th"]}
