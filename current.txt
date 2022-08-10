@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T22:00:32.683967+00:00", 4504, "Your mother is", "preferable", "Pronunciation: /\u02c8pr\u025bf\u0259r\u0259b\u0259l/", "Definition: more desirable than another", "Synonyms: preferred"]}
+{"data": ["2022-08-10T23:00:34.913256+00:00", 4505, "Your mother is", "word-of-mouth", "Pronunciation: /\u02c8w\u025crd-\u0259v-\u02c8ma\u028a\u03b8/", "Definition: expressed orally", "Synonyms: viva-voce"]}
