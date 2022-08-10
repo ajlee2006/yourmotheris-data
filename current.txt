@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T01:00:54.253481+00:00", 4483, "Your mother is", "stinking", "Pronunciation: /\u02c8st\u026a\u014bk\u026a\u014b/", "Definition: offensively malodorous", "Synonyms: fetid, foetid, foul, foul-smelling, funky, ill-scented, noisome, smelly"]}
+{"data": ["2022-08-10T02:01:16.176981+00:00", 4484, "Your mother is", "subordinate", "Pronunciation: /s\u0259b\u02c8o\u028ad\u0259n\u02cce\u026at/", "Definition: (of a clause) unable to stand alone syntactically as a complete sentence", "Synonyms: dependent"]}
