@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T02:01:16.176981+00:00", 4484, "Your mother is", "subordinate", "Pronunciation: /s\u0259b\u02c8o\u028ad\u0259n\u02cce\u026at/", "Definition: (of a clause) unable to stand alone syntactically as a complete sentence", "Synonyms: dependent"]}
+{"data": ["2022-08-10T03:01:29.254071+00:00", 4485, "Your mother is", "twopenny-halfpenny", "Pronunciation: /\u02c8t\u0259p\u0259ni-\u02c8he\u026ap\u0259ni/", "Definition: of trifling worth", "Synonyms: sixpenny, threepenny, tuppeny, two-a-penny, twopenny"]}
