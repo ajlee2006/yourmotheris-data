@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T12:01:21.483080+00:00", 4494, "Your mother is", "huffish", "Pronunciation: /\u02c8h\u0259f\u026a\u0283/", "Definition: sullen or moody", "Synonyms: sulky"]}
+{"data": ["2022-08-10T13:01:00.446242+00:00", 4495, "Your mother is", "resupine", "Pronunciation: /\u02ccrisu\u02c8pa\u026an/", "Definition: lying face upward", "Synonyms: supine"]}
