@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T06:01:36.404281+00:00", 4488, "Your mother is", "facilitatory", "Similar to: helpful", "Definition: inducing or aiding in facilitating neural activity", ""]}
+{"data": ["2022-08-10T07:01:15.758065+00:00", 4489, "Your mother is", "long-suffering", "Pronunciation: /\u02c8l\u0254\u014b\u02c8s\u0259f\u0259r\u026a\u014b/", "Definition: patiently bearing continual wrongs or trouble", "Synonyms: enduring"]}
