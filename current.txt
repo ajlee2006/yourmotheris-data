@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T20:00:54.500918+00:00", 4502, "Your mother is", "glassless", "", "Definition: not furnished with glass", "Synonyms: unglazed"]}
+{"data": ["2022-08-10T21:00:13.215782+00:00", 4503, "Your mother is", "enmeshed", "Pronunciation: /\u025bn\u02c8m\u025b\u0283t/", "Definition: caught as if in a mesh", "Synonyms: intermeshed"]}
