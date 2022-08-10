@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T18:00:36.390598+00:00", 4500, "Your mother is", "sundry", "Pronunciation: /\u02c8s\u0259ndri/", "Definition: consisting of a haphazard assortment of different kinds", "Synonyms: assorted, miscellaneous, mixed, motley"]}
+{"data": ["2022-08-10T19:01:20.082185+00:00", 4501, "Your mother is", "vinaceous", "Pronunciation: /va\u026a\u02c8ne\u026a\u0283\u0259s/", "Definition: of or relating to wine", "Synonyms: vinous"]}
