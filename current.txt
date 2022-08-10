@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T07:01:15.758065+00:00", 4489, "Your mother is", "long-suffering", "Pronunciation: /\u02c8l\u0254\u014b\u02c8s\u0259f\u0259r\u026a\u014b/", "Definition: patiently bearing continual wrongs or trouble", "Synonyms: enduring"]}
+{"data": ["2022-08-10T08:01:16.217350+00:00", 4490, "Your mother is", "exemplifying", "Pronunciation: /\u026a\u0261\u02c8z\u025bmpl\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: clarifying by use of examples", "Synonyms: illustrative"]}
