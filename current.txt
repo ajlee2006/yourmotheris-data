@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T08:01:16.217350+00:00", 4490, "Your mother is", "exemplifying", "Pronunciation: /\u026a\u0261\u02c8z\u025bmpl\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: clarifying by use of examples", "Synonyms: illustrative"]}
+{"data": ["2022-08-10T09:01:13.343005+00:00", 4491, "Your mother is", "indelible", "Pronunciation: /\u026an\u02c8d\u025bl\u0259b\u0259l/", "Definition: cannot be removed or erased", "Synonyms: unerasable"]}
