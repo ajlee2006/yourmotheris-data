@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T21:00:13.215782+00:00", 4503, "Your mother is", "enmeshed", "Pronunciation: /\u025bn\u02c8m\u025b\u0283t/", "Definition: caught as if in a mesh", "Synonyms: intermeshed"]}
+{"data": ["2022-08-10T22:00:32.683967+00:00", 4504, "Your mother is", "preferable", "Pronunciation: /\u02c8pr\u025bf\u0259r\u0259b\u0259l/", "Definition: more desirable than another", "Synonyms: preferred"]}
