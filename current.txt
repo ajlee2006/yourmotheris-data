@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T17:01:14.816198+00:00", 4499, "Your mother is", "beetle-browed", "Pronunciation: /\u02c8bit\u0259l\u02ccbra\u028ad/", "Definition: sullen or unfriendly in appearance", "Synonyms: scowling"]}
+{"data": ["2022-08-10T18:00:36.390598+00:00", 4500, "Your mother is", "sundry", "Pronunciation: /\u02c8s\u0259ndri/", "Definition: consisting of a haphazard assortment of different kinds", "Synonyms: assorted, miscellaneous, mixed, motley"]}
