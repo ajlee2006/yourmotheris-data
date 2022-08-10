@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T00:05:36.701494+00:00", 4482, "Your mother is", "christian", "Pronunciation: /\u02c8kR\u026asti\u02cc\u0251n/", "Definition: following the teachings or manifesting the qualities or spirit of Jesus Christ", ""]}
+{"data": ["2022-08-10T01:00:54.253481+00:00", 4483, "Your mother is", "stinking", "Pronunciation: /\u02c8st\u026a\u014bk\u026a\u014b/", "Definition: offensively malodorous", "Synonyms: fetid, foetid, foul, foul-smelling, funky, ill-scented, noisome, smelly"]}
