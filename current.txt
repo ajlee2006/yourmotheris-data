@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T14:01:15.815024+00:00", 4496, "Your mother is", "unascribable", "", "Definition: not attributable", "Synonyms: unattributable"]}
+{"data": ["2022-08-10T15:01:09.815214+00:00", 4497, "Your mother is", "ciliate", "Pronunciation: /\u02c8s\u026ali\u026at/", "Definition: having a margin or fringe of hairlike projections", "Synonyms: ciliated"]}
