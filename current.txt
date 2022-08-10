@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T09:01:13.343005+00:00", 4491, "Your mother is", "indelible", "Pronunciation: /\u026an\u02c8d\u025bl\u0259b\u0259l/", "Definition: cannot be removed or erased", "Synonyms: unerasable"]}
+{"data": ["2022-08-10T10:01:08.610760+00:00", 4492, "Your mother is", "adsorbate", "Pronunciation: /\u00e6d\u02c8s\u0254rbe\u026at/", "Definition: capable of being adsorbed or accumulated on a surface of a solid", "Synonyms: adsorbable"]}
