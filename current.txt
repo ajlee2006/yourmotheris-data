@@ -1,1 +1,1 @@
-{"data": ["2022-08-11T14:01:18.318482+00:00", 4520, "Your mother is", "concluded", "Pronunciation: /k\u028cn\u02c8klud\u028cd/", "Definition: having come or been brought to a conclusion", "Synonyms: all over, complete, ended, over, terminated"]}
+{"data": ["2022-08-11T15:01:08.912956+00:00", 4521, "Your mother is", "monochromous", "Similar to: colored", "Definition: having or appearing to have only one color", "Synonyms: monochromatic, monochrome, monochromic"]}
