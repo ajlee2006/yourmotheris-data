@@ -1,1 +1,1 @@
-{"data": ["2022-08-11T13:01:05.834330+00:00", 4519, "Your mother is", "crowing", "Pronunciation: /\u02c8kro\u028a\u026a\u014b/", "Definition: exhibiting self-importance", "Synonyms: big, boastful, braggart, bragging, braggy, cock-a-hoop, self-aggrandising, self-aggrandizing"]}
+{"data": ["2022-08-11T14:01:18.318482+00:00", 4520, "Your mother is", "concluded", "Pronunciation: /k\u028cn\u02c8klud\u028cd/", "Definition: having come or been brought to a conclusion", "Synonyms: all over, complete, ended, over, terminated"]}
