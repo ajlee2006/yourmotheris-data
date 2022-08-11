@@ -1,1 +1,1 @@
-{"data": ["2022-08-11T22:00:30.538018+00:00", 4528, "Your mother is", "deterrent", "Pronunciation: /d\u026a\u02c8t\u025cr\u0259nt/", "Definition: tending to deter", ""]}
+{"data": ["2022-08-11T23:00:37.687417+00:00", 4529, "Your mother is", "flattened", "Pronunciation: /\u02c8fl\u00e6t\u028cnd/", "Definition: having been flattened", "Synonyms: planate"]}
