@@ -1,1 +1,1 @@
-{"data": ["2022-08-11T12:01:01.633426+00:00", 4518, "Your mother is", "epizootic", "Pronunciation: /\u02cc\u025bp\u026azo\u028a\u02c8\u0251t\u026ak/", "Definition: (of animals) epidemic among animals of a single kind within a particular region", ""]}
+{"data": ["2022-08-11T13:01:05.834330+00:00", 4519, "Your mother is", "crowing", "Pronunciation: /\u02c8kro\u028a\u026a\u014b/", "Definition: exhibiting self-importance", "Synonyms: big, boastful, braggart, bragging, braggy, cock-a-hoop, self-aggrandising, self-aggrandizing"]}
