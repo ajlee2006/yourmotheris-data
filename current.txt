@@ -1,1 +1,1 @@
-{"data": ["2022-08-11T17:00:30.392115+00:00", 4523, "Your mother is", "vermilion", "Pronunciation: /v\u0259r\u02c8m\u026alj\u0259n/", "Definition: of a vivid red to reddish-orange color", "Synonyms: chinese-red, cinnabar, vermillion"]}
+{"data": ["2022-08-11T18:01:16.518783+00:00", 4524, "Your mother is", "stabbing", "Pronunciation: /\u02c8st\u00e6b\u026a\u014b/", "Definition: causing physical or especially psychological injury", "Synonyms: wounding"]}
