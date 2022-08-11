@@ -1,1 +1,1 @@
-{"data": ["2022-08-11T04:01:13.131623+00:00", 4510, "Your mother is", "quadrupedal", "Pronunciation: /kw\u0251\u02c8drup\u026ad\u0259l/", "Definition: having four feet", "Synonyms: four-footed, quadruped"]}
+{"data": ["2022-08-11T05:00:44.157499+00:00", 4511, "Your mother is", "homegrown", "Pronunciation: /ho\u028am\u02c8gro\u028an/", "Definition: grown or originating in a particular place", ""]}
