@@ -1,1 +1,1 @@
-{"data": ["2022-08-11T20:00:52.929396+00:00", 4526, "Your mother is", "privileged", "Pronunciation: /\u02c8pr\u026av\u0259l\u026ad\u0292d/", "Definition: confined to an exclusive group", "Synonyms: inner, inside"]}
+{"data": ["2022-08-11T21:01:23.966220+00:00", 4527, "Your mother is", "sitting", "Pronunciation: /\u02c8s\u026at\u026a\u014b/", "Definition: (of persons) having the torso erect and legs bent with the body supported on the buttocks", "Synonyms: seated"]}
