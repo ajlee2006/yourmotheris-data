@@ -1,1 +1,1 @@
-{"data": ["2022-08-10T23:00:34.913256+00:00", 4505, "Your mother is", "word-of-mouth", "Pronunciation: /\u02c8w\u025crd-\u0259v-\u02c8ma\u028a\u03b8/", "Definition: expressed orally", "Synonyms: viva-voce"]}
+{"data": ["2022-08-11T00:01:51.859697+00:00", 4506, "Your mother is", "nonreflective", "Similar to: echoless", "Definition: not capable of physical reflection", "Synonyms: nonreflecting"]}
