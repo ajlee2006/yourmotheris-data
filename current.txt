@@ -1,1 +1,1 @@
-{"data": ["2022-08-11T05:00:44.157499+00:00", 4511, "Your mother is", "homegrown", "Pronunciation: /ho\u028am\u02c8gro\u028an/", "Definition: grown or originating in a particular place", ""]}
+{"data": ["2022-08-11T06:00:50.232834+00:00", 4512, "Your mother is", "anaerobic", "Pronunciation: /\u02cc\u00e6n\u025c\u02c8ro\u028ab\u026ak/", "Definition: living or active in the absence of free oxygen", "Synonyms: anaerobiotic"]}
