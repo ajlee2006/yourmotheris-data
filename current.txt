@@ -1,1 +1,1 @@
-{"data": ["2022-08-11T06:00:50.232834+00:00", 4512, "Your mother is", "anaerobic", "Pronunciation: /\u02cc\u00e6n\u025c\u02c8ro\u028ab\u026ak/", "Definition: living or active in the absence of free oxygen", "Synonyms: anaerobiotic"]}
+{"data": ["2022-08-11T07:00:37.348213+00:00", 4513, "Your mother is", "one-man", "Pronunciation: /\u02c8w\u0259n\u02ccm\u00e6n/", "Definition: designed for or restricted to a single person", "Synonyms: one-person, one-woman"]}
