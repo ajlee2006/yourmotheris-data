@@ -1,1 +1,1 @@
-{"data": ["2022-08-11T10:01:28.744756+00:00", 4516, "Your mother is", "jejune", "Pronunciation: /d\u0292\u026a\u02c8d\u0292un/", "Definition: displaying or suggesting a lack of maturity", "Synonyms: adolescent, juvenile, puerile"]}
+{"data": ["2022-08-11T11:00:50.450403+00:00", 4517, "Your mother is", "chilblained", "Similar to: unhealthy", "Definition: having chilblains", ""]}
