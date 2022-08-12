@@ -1,1 +1,1 @@
-{"data": ["2022-08-12T07:00:27.256044+00:00", 4537, "Your mother is", "rambling", "Pronunciation: /\u02c8r\u00e6mbl\u026a\u014b/", "Definition: spreading out in different directions or distributed irregularly", "Synonyms: sprawling, straggling, straggly"]}
+{"data": ["2022-08-12T08:00:46.790445+00:00", 4538, "Your mother is", "thyroid", "Pronunciation: /\u02c8\u03b8a\u026ar\u0254\u026ad/", "Definition: of or relating to the thyroid gland", "Synonyms: thyroidal"]}
