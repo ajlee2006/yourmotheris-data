@@ -1,1 +1,1 @@
-{"data": ["2022-08-12T20:01:30.008496+00:00", 4550, "Your mother is", "muddy", "Pronunciation: /\u02c8m\u0259di/", "Definition: dirty and messy; covered with mud or muck", "Synonyms: mucky"]}
+{"data": ["2022-08-12T21:00:27.048284+00:00", 4551, "Your mother is", "hypognathous", "Pronunciation: /ha\u026a\u02c8p\u0251gn\u0259\u03b8\u0259s/", "Definition: having a projecting lower jaw", "Synonyms: prognathic, prognathous"]}
