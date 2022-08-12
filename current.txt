@@ -1,1 +1,1 @@
-{"data": ["2022-08-12T09:01:24.060845+00:00", 4539, "Your mother is", "dissolved", "Pronunciation: /d\u026a\u02c8z\u0251lvd/", "Definition: (of solid matter) reduced to a liquid form", ""]}
+{"data": ["2022-08-12T10:01:04.345372+00:00", 4540, "Your mother is", "self-addressed", "Pronunciation: /\u02c8s\u025blf\u0259\u02c8dr\u025bst/", "Definition: addressed to yourself", ""]}
