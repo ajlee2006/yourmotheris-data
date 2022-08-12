@@ -1,1 +1,1 @@
-{"data": ["2022-08-12T06:00:42.004568+00:00", 4536, "Your mother is", "endermic", "Pronunciation: /\u025bn\u02c8d\u025crm\u026ak/", "Definition: acting by absorption through the skin", "Synonyms: endermatic"]}
+{"data": ["2022-08-12T07:00:27.256044+00:00", 4537, "Your mother is", "rambling", "Pronunciation: /\u02c8r\u00e6mbl\u026a\u014b/", "Definition: spreading out in different directions or distributed irregularly", "Synonyms: sprawling, straggling, straggly"]}
