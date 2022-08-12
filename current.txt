@@ -1,1 +1,1 @@
-{"data": ["2022-08-11T23:00:37.687417+00:00", 4529, "Your mother is", "flattened", "Pronunciation: /\u02c8fl\u00e6t\u028cnd/", "Definition: having been flattened", "Synonyms: planate"]}
+{"data": ["2022-08-12T00:01:54.476813+00:00", 4530, "Your mother is", "strong-smelling", "Similar to: odorous", "Definition: having a strong odor", "Synonyms: strong-scented"]}
