@@ -1,1 +1,1 @@
-{"data": ["2022-08-12T12:01:29.361043+00:00", 4542, "Your mother is", "mimetic", "Pronunciation: /m\u026a\u02c8m\u025bt\u026ak/", "Definition: characterized by or of the nature of or using mimesis", ""]}
+{"data": ["2022-08-12T13:00:15.652503+00:00", 4543, "Your mother is", "eponymic", "", "Definition: being or relating to or bearing the name of an eponym", "Synonyms: eponymous"]}
