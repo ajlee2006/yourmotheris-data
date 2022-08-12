@@ -1,1 +1,1 @@
-{"data": ["2022-08-12T13:00:15.652503+00:00", 4543, "Your mother is", "eponymic", "", "Definition: being or relating to or bearing the name of an eponym", "Synonyms: eponymous"]}
+{"data": ["2022-08-12T14:01:27.259009+00:00", 4544, "Your mother is", "cut up", "Similar to: cut", "Definition: cut into pieces", ""]}
