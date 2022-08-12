@@ -1,1 +1,1 @@
-{"data": ["2022-08-12T21:00:27.048284+00:00", 4551, "Your mother is", "hypognathous", "Pronunciation: /ha\u026a\u02c8p\u0251gn\u0259\u03b8\u0259s/", "Definition: having a projecting lower jaw", "Synonyms: prognathic, prognathous"]}
+{"data": ["2022-08-12T22:01:06.039179+00:00", 4552, "Your mother is", "biogeographic", "Pronunciation: /\u02ccba\u026ao\u028a\u02cc\u0261i\u02c8\u0259gr\u00e6f\u026ak/", "Definition: of or relating to or involved with biogeography", "Synonyms: biogeographical"]}
