@@ -1,1 +1,1 @@
-{"data": ["2022-08-12T14:01:27.259009+00:00", 4544, "Your mother is", "cut up", "Similar to: cut", "Definition: cut into pieces", ""]}
+{"data": ["2022-08-12T15:01:15.649155+00:00", 4545, "Your mother is", "ignoble", "Pronunciation: /\u026a\u0261\u02c8no\u028ab\u0259l/", "Definition: not of the nobility", "Synonyms: ungentle, untitled"]}
