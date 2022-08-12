@@ -1,1 +1,1 @@
-{"data": ["2022-08-12T08:00:46.790445+00:00", 4538, "Your mother is", "thyroid", "Pronunciation: /\u02c8\u03b8a\u026ar\u0254\u026ad/", "Definition: of or relating to the thyroid gland", "Synonyms: thyroidal"]}
+{"data": ["2022-08-12T09:01:24.060845+00:00", 4539, "Your mother is", "dissolved", "Pronunciation: /d\u026a\u02c8z\u0251lvd/", "Definition: (of solid matter) reduced to a liquid form", ""]}
