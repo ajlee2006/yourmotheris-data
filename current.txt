@@ -1,1 +1,1 @@
-{"data": ["2022-08-12T05:00:43.226746+00:00", 4535, "Your mother is", "spartan", "Pronunciation: /\u02c8sp\u0251rt\u0259n/", "Definition: unsparing and uncompromising in discipline or judgment", "Synonyms: severe"]}
+{"data": ["2022-08-12T06:00:42.004568+00:00", 4536, "Your mother is", "endermic", "Pronunciation: /\u025bn\u02c8d\u025crm\u026ak/", "Definition: acting by absorption through the skin", "Synonyms: endermatic"]}
