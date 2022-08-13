@@ -1,1 +1,1 @@
-{"data": ["2022-08-13T13:01:24.972012+00:00", 4567, "Your mother is", "ghanaian", "Pronunciation: /\u0261\u0251\u02c8ne\u026a\u0259n/", "Definition: of or relating to or characteristic of Ghana or its people or language", "Synonyms: ghanese, ghanian"]}
+{"data": ["2022-08-13T14:00:29.533090+00:00", 4568, "Your mother is", "algometric", "Pronunciation: /\u02cc\u00e6lg\u0259\u02c8m\u025btr\u026ak/", "Definition: of or related to algometry", "Synonyms: algometrical"]}
