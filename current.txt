@@ -1,1 +1,1 @@
-{"data": ["2022-08-13T01:00:26.065966+00:00", 4555, "Your mother is", "hundredth", "Pronunciation: /\u02c8h\u0259ndr\u026ad\u03b8/", "Definition: the ordinal number of one hundred in counting order", "Synonyms: 100th, centesimal"]}
+{"data": ["2022-08-13T02:01:01.666376+00:00", 4556, "Your mother is", "afire", "Pronunciation: /\u0259\u02c8fa\u026a\u0259r/", "Definition: lighted up by or as by fire or flame", "Synonyms: ablaze, aflame, aflare, alight, on fire"]}
