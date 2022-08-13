@@ -1,1 +1,1 @@
-{"data": ["2022-08-13T00:01:51.424160+00:00", 4554, "Your mother is", "enfeebling", "Similar to: debilitating", "Definition: causing debilitation", "Synonyms: debilitative, enervating, weakening"]}
+{"data": ["2022-08-13T01:00:26.065966+00:00", 4555, "Your mother is", "hundredth", "Pronunciation: /\u02c8h\u0259ndr\u026ad\u03b8/", "Definition: the ordinal number of one hundred in counting order", "Synonyms: 100th, centesimal"]}
