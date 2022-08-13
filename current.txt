@@ -1,1 +1,1 @@
-{"data": ["2022-08-13T05:00:47.901093+00:00", 4559, "Your mother is", "groomed", "Pronunciation: /\u0261rumd/", "Definition: neat and smart in appearance; well cared for", ""]}
+{"data": ["2022-08-13T06:00:45.028958+00:00", 4560, "Your mother is", "undogmatical", "Similar to: broad-minded", "Definition: unwilling to accept authority or dogma (especially in religion)", "Synonyms: free-thinking, latitudinarian, undogmatic"]}
