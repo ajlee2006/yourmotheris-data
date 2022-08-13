@@ -1,1 +1,1 @@
-{"data": ["2022-08-13T15:01:05.126634+00:00", 4569, "Your mother is", "decompositional", "Similar to: disintegrative", "Definition: causing organic decay", ""]}
+{"data": ["2022-08-13T16:00:25.377225+00:00", 4570, "Your mother is", "concavo-convex", "Pronunciation: /k\u0251n\u02c8ke\u026avo\u028ak\u0251n\u02c8v\u025bks/", "Definition: concave on one side and convex on the other with the concavity being greater than the convexity", ""]}
