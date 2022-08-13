@@ -1,1 +1,1 @@
-{"data": ["2022-08-13T03:00:52.720831+00:00", 4557, "Your mother is", "unsorted", "Pronunciation: /\u0259n\u02c8so\u028art\u026ad/", "Definition: not categorized or sorted", "Synonyms: uncategorised, uncategorized"]}
+{"data": ["2022-08-13T04:01:20.091336+00:00", 4558, "Your mother is", "easy", "Pronunciation: /\u02c8izi/", "Definition: not hurried or forced", "Synonyms: easygoing, leisurely"]}
