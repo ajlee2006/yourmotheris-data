@@ -1,1 +1,1 @@
-{"data": ["2022-08-13T18:01:22.740748+00:00", 4572, "Your mother is", "long-acting", "Similar to: long", "Definition: active over a long period of time", ""]}
+{"data": ["2022-08-13T19:00:25.537845+00:00", 4573, "Your mother is", "differentiated", "Pronunciation: /\u02ccd\u026af\u025dr\u02c8\u025bnt\u0283i\u02cce\u026at\u026ad/", "Definition: exhibiting biological specialization; adapted during development to a specific function or environment", ""]}
