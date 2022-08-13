@@ -1,1 +1,1 @@
-{"data": ["2022-08-13T19:00:25.537845+00:00", 4573, "Your mother is", "differentiated", "Pronunciation: /\u02ccd\u026af\u025dr\u02c8\u025bnt\u0283i\u02cce\u026at\u026ad/", "Definition: exhibiting biological specialization; adapted during development to a specific function or environment", ""]}
+{"data": ["2022-08-13T20:00:36.825037+00:00", 4574, "Your mother is", "self-respecting", "Pronunciation: /s\u025blf-r\u026a\u02c8sp\u025bkt\u026a\u014b/", "Definition: having or showing self-esteem", "Synonyms: dignified, self-respectful"]}
