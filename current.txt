@@ -1,1 +1,1 @@
-{"data": ["2022-08-13T17:00:34.258128+00:00", 4571, "Your mother is", "pretty-pretty", "Pronunciation: /\u02c8pr\u026ati-\u02c8pr\u026ati/", "Definition: ostentatiously or inappropriately pretty", ""]}
+{"data": ["2022-08-13T18:01:22.740748+00:00", 4572, "Your mother is", "long-acting", "Similar to: long", "Definition: active over a long period of time", ""]}
