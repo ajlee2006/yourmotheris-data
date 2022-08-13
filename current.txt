@@ -1,1 +1,1 @@
-{"data": ["2022-08-13T22:00:29.891566+00:00", 4576, "Your mother is", "pelagic", "Pronunciation: /p\u0259\u02c8l\u00e6d\u0292\u026ak/", "Definition: relating to or occurring or living in or frequenting the open ocean", "Synonyms: oceanic"]}
+{"data": ["2022-08-13T23:01:13.657797+00:00", 4577, "Your mother is", "classy", "Pronunciation: /\u02c8kl\u00e6si/", "Definition: elegant and fashionable", "Synonyms: posh, swish"]}
