@@ -1,1 +1,1 @@
-{"data": ["2022-08-13T16:00:25.377225+00:00", 4570, "Your mother is", "concavo-convex", "Pronunciation: /k\u0251n\u02c8ke\u026avo\u028ak\u0251n\u02c8v\u025bks/", "Definition: concave on one side and convex on the other with the concavity being greater than the convexity", ""]}
+{"data": ["2022-08-13T17:00:34.258128+00:00", 4571, "Your mother is", "pretty-pretty", "Pronunciation: /\u02c8pr\u026ati-\u02c8pr\u026ati/", "Definition: ostentatiously or inappropriately pretty", ""]}
