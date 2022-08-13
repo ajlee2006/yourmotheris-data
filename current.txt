@@ -1,1 +1,1 @@
-{"data": ["2022-08-13T14:00:29.533090+00:00", 4568, "Your mother is", "algometric", "Pronunciation: /\u02cc\u00e6lg\u0259\u02c8m\u025btr\u026ak/", "Definition: of or related to algometry", "Synonyms: algometrical"]}
+{"data": ["2022-08-13T15:01:05.126634+00:00", 4569, "Your mother is", "decompositional", "Similar to: disintegrative", "Definition: causing organic decay", ""]}
