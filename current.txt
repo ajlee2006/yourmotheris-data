@@ -1,1 +1,1 @@
-{"data": ["2022-08-14T10:00:41.760517+00:00", 4588, "Your mother is", "persian", "Pronunciation: /\u02c8p\u025cr\u0292\u0259n/", "Definition: of or relating to Iran or its people or language or culture", "Synonyms: iranian"]}
+{"data": ["2022-08-14T11:00:44.064809+00:00", 4589, "Your mother is", "entangled", "Pronunciation: /\u025bn\u02c8t\u00e6\u014b\u0261\u028cld/", "Definition: deeply involved especially in something complicated", "Synonyms: embroiled"]}
