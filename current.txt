@@ -1,1 +1,1 @@
-{"data": ["2022-08-14T12:00:28.279555+00:00", 4590, "Your mother is", "archeological", "Pronunciation: /\u02cc\u0251rki\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: related to or dealing with or devoted to archaeology", "Synonyms: archaeologic, archaeological, archeologic"]}
+{"data": ["2022-08-14T13:00:46.793344+00:00", 4591, "Your mother is", "reechoing", "Similar to: reverberant", "Definition: (of sounds) repeating by reflection", "Synonyms: echoing"]}
