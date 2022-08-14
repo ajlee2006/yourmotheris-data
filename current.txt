@@ -1,1 +1,1 @@
-{"data": ["2022-08-14T01:01:31.884323+00:00", 4579, "Your mother is", "displeased", "Pronunciation: /d\u026as\u02c8plizd/", "Definition: not pleased; experiencing or manifesting displeasure", ""]}
+{"data": ["2022-08-14T02:01:24.739243+00:00", 4580, "Your mother is", "unsafe", "Pronunciation: /\u0259n\u02c8se\u026af/", "Definition: involving or causing danger or risk; liable to hurt or harm", "Synonyms: dangerous"]}
