@@ -1,1 +1,1 @@
-{"data": ["2022-08-14T07:01:22.387479+00:00", 4585, "Your mother is", "deaf-mute", "Pronunciation: /d\u025bf-mjut/", "Definition: lacking the sense of hearing and the ability to speak", "Synonyms: deaf-and-dumb"]}
+{"data": ["2022-08-14T08:01:10.232852+00:00", 4586, "Your mother is", "quicksilver", "Pronunciation: /\u02c8kw\u026ak\u02ccs\u026alv\u0259r/", "Definition: liable to sudden unpredictable change", "Synonyms: erratic, fickle, mercurial"]}
