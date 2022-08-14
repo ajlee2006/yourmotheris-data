@@ -1,1 +1,1 @@
-{"data": ["2022-08-14T14:01:04.200018+00:00", 4592, "Your mother is", "industrial", "Pronunciation: /\u026an\u02c8d\u0259stri\u0259l/", "Definition: employed in industry", ""]}
+{"data": ["2022-08-14T15:01:34.203961+00:00", 4593, "Your mother is", "pedagogical", "Pronunciation: /\u02ccp\u025bd\u028c\u02c8\u0261\u0251d\u0292\u026ak\u028cl/", "Definition: of or relating to pedagogy", "Synonyms: pedagogic"]}
