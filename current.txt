@@ -1,1 +1,1 @@
-{"data": ["2022-08-14T03:00:29.326258+00:00", 4581, "Your mother is", "pert", "Pronunciation: /p\u025crt/", "Definition: characterized by a lightly pert and exuberant quality", "Synonyms: impertinent, irreverent, saucy"]}
+{"data": ["2022-08-14T04:00:50.074809+00:00", 4582, "Your mother is", "sebaceous", "Pronunciation: /s\u026a\u02c8be\u026a\u0283\u0259s/", "Definition: containing an unusual amount of grease or oil", "Synonyms: greasy, oily, oleaginous"]}
