@@ -1,1 +1,1 @@
-{"data": ["2022-08-14T20:00:15.460857+00:00", 4598, "Your mother is", "bone", "Pronunciation: /bo\u028an/", "Definition: consisting of or made up of bone", ""]}
+{"data": ["2022-08-14T21:01:17.470118+00:00", 4599, "Your mother is", "grey-black", "Similar to: achromatic", "Definition: of black tinged with grey", "Synonyms: gray-black, grayish-black, greyish-black"]}
