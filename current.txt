@@ -1,1 +1,1 @@
-{"data": ["2022-08-14T16:00:38.316482+00:00", 4594, "Your mother is", "secure", "Pronunciation: /s\u026a\u02c8kj\u028ar/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, inviolable, strong, unassailable, unattackable"]}
+{"data": ["2022-08-14T17:01:08.924007+00:00", 4595, "Your mother is", "cultural", "Pronunciation: /\u02c8k\u0259l\u02a7\u0259r\u0259l/", "Definition: denoting or deriving from or distinctive of the ways of living built up by a group of people", "Synonyms: ethnic, ethnical"]}
