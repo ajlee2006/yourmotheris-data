@@ -1,1 +1,1 @@
-{"data": ["2022-08-14T06:01:22.350436+00:00", 4584, "Your mother is", "thoughtful", "Pronunciation: /\u02c8\u03b8\u0254tf\u0259l/", "Definition: acting with or showing thought and good sense", "Synonyms: serious-minded"]}
+{"data": ["2022-08-14T07:01:22.387479+00:00", 4585, "Your mother is", "deaf-mute", "Pronunciation: /d\u025bf-mjut/", "Definition: lacking the sense of hearing and the ability to speak", "Synonyms: deaf-and-dumb"]}
