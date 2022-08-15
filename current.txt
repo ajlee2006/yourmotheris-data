@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T06:00:24.402504+00:00", 4608, "Your mother is", "snub", "Pronunciation: /sn\u0259b/", "Definition: unusually short", ""]}
+{"data": ["2022-08-15T07:00:47.616267+00:00", 4609, "Your mother is", "hammy", "Pronunciation: /\u02c8h\u00e6mi/", "Definition: affectedly dramatic; overacted", ""]}
