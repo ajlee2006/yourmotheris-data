@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T03:01:31.240873+00:00", 4605, "Your mother is", "constricted", "Pronunciation: /k\u028cn\u02c8str\u026akt\u028cd/", "Definition: drawn together or squeezed physically or by extension psychologically", ""]}
+{"data": ["2022-08-15T04:01:37.203063+00:00", 4606, "Your mother is", "sequestered", "Pronunciation: /s\u026a\u02c8kw\u025bst\u0259rd/", "Definition: providing privacy or seclusion", "Synonyms: cloistered, reclusive, secluded"]}
