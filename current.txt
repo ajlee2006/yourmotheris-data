@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T20:00:58.613953+00:00", 4622, "Your mother is", "grabby", "Pronunciation: /\u02c8gr\u00e6bi/", "Definition: immoderately desirous of acquiring e.g. wealth", "Synonyms: avaricious, covetous, grasping, greedy, prehensile"]}
+{"data": ["2022-08-15T21:00:42.034907+00:00", 4623, "Your mother is", "precognitive", "Pronunciation: /pri\u02c8k\u0251gn\u026at\u026av/", "Definition: foreseeing the future", "Synonyms: clairvoyant, second-sighted"]}
