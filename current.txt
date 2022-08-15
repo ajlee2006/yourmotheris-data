@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T12:00:33.665615+00:00", 4614, "Your mother is", "vacillant", "Pronunciation: /\u02c8v\u00e6s\u0259l\u0259nt/", "Definition: uncertain in purpose or action", "Synonyms: vacillating, wavering"]}
+{"data": ["2022-08-15T13:00:53.605318+00:00", 4615, "Your mother is", "clogged", "Pronunciation: /kl\u0254\u0261d/", "Definition: thickened or coalesced in soft thick lumps (such as clogs or clots)", "Synonyms: clotted"]}
