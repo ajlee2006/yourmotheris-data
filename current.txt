@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T14:01:07.796675+00:00", 4616, "Your mother is", "offhand", "Pronunciation: /\u02c8\u0254f\u02c8h\u00e6nd/", "Definition: casually thoughtless or inconsiderate", "Synonyms: offhanded"]}
+{"data": ["2022-08-15T15:00:52.231279+00:00", 4617, "Your mother is", "nontransmissible", "Similar to: noninfectious", "Definition: (of disease) not capable of being passed on", "Synonyms: noncommunicable, noncontagious"]}
