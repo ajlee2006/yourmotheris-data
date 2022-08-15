@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T10:00:34.650562+00:00", 4612, "Your mother is", "purple-flowered", "Pronunciation: /\u02c8p\u025crp\u0259l-\u02c8fla\u028a\u0259rd/", "Definition: having purple flowers", ""]}
+{"data": ["2022-08-15T11:00:58.102612+00:00", 4613, "Your mother is", "right-hand", "Pronunciation: /ra\u026at-h\u00e6nd/", "Definition: intended for the right hand", "Synonyms: right"]}
