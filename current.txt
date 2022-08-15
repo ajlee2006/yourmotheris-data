@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T05:01:49.150078+00:00", 4607, "Your mother is", "russet", "Pronunciation: /\u02c8r\u0259s\u026at/", "Definition: of brown with a reddish tinge", ""]}
+{"data": ["2022-08-15T06:00:24.402504+00:00", 4608, "Your mother is", "snub", "Pronunciation: /sn\u0259b/", "Definition: unusually short", ""]}
