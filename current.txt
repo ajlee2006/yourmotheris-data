@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T22:01:12.528438+00:00", 4624, "Your mother is", "beholden", "Pronunciation: /b\u026a\u02c8ho\u028ald\u0259n/", "Definition: under a moral obligation to someone", ""]}
+{"data": ["2022-08-15T23:01:00.766067+00:00", 4625, "Your mother is", "case-hardened", "Pronunciation: /ke\u026as-\u02c8h\u0251rd\u0259nd/", "Definition: used of persons; emotionally hardened", "Synonyms: hard-boiled, hardened"]}
