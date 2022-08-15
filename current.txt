@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T08:00:51.153523+00:00", 4610, "Your mother is", "dwarfish", "Pronunciation: /\u02c8dw\u0254rf\u026a\u0283/", "Definition: atypically small", ""]}
+{"data": ["2022-08-15T09:00:49.571551+00:00", 4611, "Your mother is", "bare-knuckled", "Similar to: disorderly", "Definition: characterized by disorderly action and disregard for rules", "Synonyms: bare-knuckle, rough-and-tumble"]}
