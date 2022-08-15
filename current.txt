@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T11:00:58.102612+00:00", 4613, "Your mother is", "right-hand", "Pronunciation: /ra\u026at-h\u00e6nd/", "Definition: intended for the right hand", "Synonyms: right"]}
+{"data": ["2022-08-15T12:00:33.665615+00:00", 4614, "Your mother is", "vacillant", "Pronunciation: /\u02c8v\u00e6s\u0259l\u0259nt/", "Definition: uncertain in purpose or action", "Synonyms: vacillating, wavering"]}
