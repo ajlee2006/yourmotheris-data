@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T01:01:05.845199+00:00", 4603, "Your mother is", "petal-like", "Similar to: leafy", "Definition: resembling a petal", "Synonyms: petallike"]}
+{"data": ["2022-08-15T02:01:05.031369+00:00", 4604, "Your mother is", "surpassing", "Pronunciation: /s\u025dr\u02c8p\u00e6s\u026a\u014b/", "Definition: far beyond what is usual in magnitude or degree", "Synonyms: exceeding, exceptional, olympian, prodigious"]}
