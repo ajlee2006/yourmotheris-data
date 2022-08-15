@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T04:01:37.203063+00:00", 4606, "Your mother is", "sequestered", "Pronunciation: /s\u026a\u02c8kw\u025bst\u0259rd/", "Definition: providing privacy or seclusion", "Synonyms: cloistered, reclusive, secluded"]}
+{"data": ["2022-08-15T05:01:49.150078+00:00", 4607, "Your mother is", "russet", "Pronunciation: /\u02c8r\u0259s\u026at/", "Definition: of brown with a reddish tinge", ""]}
