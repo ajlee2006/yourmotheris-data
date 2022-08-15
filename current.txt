@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T18:00:58.760742+00:00", 4620, "Your mother is", "lively", "Pronunciation: /\u02c8la\u026avli/", "Definition: elastic; rebounds readily", "Synonyms: bouncy, live, resilient, springy"]}
+{"data": ["2022-08-15T19:01:06.676013+00:00", 4621, "Your mother is", "rumansh", "", "Definition: of or relating to the Romansh language", "Synonyms: romansh"]}
