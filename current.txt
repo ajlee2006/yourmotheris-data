@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T19:01:06.676013+00:00", 4621, "Your mother is", "rumansh", "", "Definition: of or relating to the Romansh language", "Synonyms: romansh"]}
+{"data": ["2022-08-15T20:00:58.613953+00:00", 4622, "Your mother is", "grabby", "Pronunciation: /\u02c8gr\u00e6bi/", "Definition: immoderately desirous of acquiring e.g. wealth", "Synonyms: avaricious, covetous, grasping, greedy, prehensile"]}
