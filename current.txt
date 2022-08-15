@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T00:01:59.054796+00:00", 4602, "Your mother is", "southern", "Pronunciation: /\u02c8s\u0259\u00f0\u0259rn/", "Definition: from the south; used especially of wind", "Synonyms: southerly"]}
+{"data": ["2022-08-15T01:01:05.845199+00:00", 4603, "Your mother is", "petal-like", "Similar to: leafy", "Definition: resembling a petal", "Synonyms: petallike"]}
