@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T02:01:05.031369+00:00", 4604, "Your mother is", "surpassing", "Pronunciation: /s\u025dr\u02c8p\u00e6s\u026a\u014b/", "Definition: far beyond what is usual in magnitude or degree", "Synonyms: exceeding, exceptional, olympian, prodigious"]}
+{"data": ["2022-08-15T03:01:31.240873+00:00", 4605, "Your mother is", "constricted", "Pronunciation: /k\u028cn\u02c8str\u026akt\u028cd/", "Definition: drawn together or squeezed physically or by extension psychologically", ""]}
