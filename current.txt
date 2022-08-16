@@ -1,1 +1,1 @@
-{"data": ["2022-08-16T05:00:57.620370+00:00", 4631, "Your mother is", "stately", "Pronunciation: /\u02c8ste\u026atli/", "Definition: impressive in appearance", "Synonyms: baronial, imposing, noble"]}
+{"data": ["2022-08-16T06:00:46.857043+00:00", 4632, "Your mother is", "three-way", "Pronunciation: /\u03b8ri-we\u026a/", "Definition: involving three parties or elements", "Synonyms: three-party, tripartite"]}
