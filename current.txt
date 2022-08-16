@@ -1,1 +1,1 @@
-{"data": ["2022-08-15T23:01:00.766067+00:00", 4625, "Your mother is", "case-hardened", "Pronunciation: /ke\u026as-\u02c8h\u0251rd\u0259nd/", "Definition: used of persons; emotionally hardened", "Synonyms: hard-boiled, hardened"]}
+{"data": ["2022-08-16T00:01:38.478710+00:00", 4626, "Your mother is", "humanistic", "Pronunciation: /\u02cchjum\u028c\u02c8n\u026ast\u026ak/", "Definition: of or pertaining to Renaissance humanism", "Synonyms: humanist"]}
