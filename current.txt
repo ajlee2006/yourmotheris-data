@@ -1,1 +1,1 @@
-{"data": ["2022-08-16T17:01:04.426875+00:00", 4643, "Your mother is", "intermittent", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8m\u026at\u0259nt/", "Definition: stopping and starting at irregular intervals", ""]}
+{"data": ["2022-08-16T18:00:47.544325+00:00", 4644, "Your mother is", "pernickety", "Pronunciation: /p\u0259r\u02c8n\u026ak\u026ati/", "Definition: characterized by excessive precision and attention to trivial details", "Synonyms: persnickety"]}
