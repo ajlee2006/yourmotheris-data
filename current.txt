@@ -1,1 +1,1 @@
-{"data": ["2022-08-16T16:01:14.803694+00:00", 4642, "Your mother is", "machine-driven", "Pronunciation: /m\u0259\u02c8\u0283in-\u02c8dr\u026av\u0259n/", "Definition: operated by automation", "Synonyms: automated, machine-controlled"]}
+{"data": ["2022-08-16T17:01:04.426875+00:00", 4643, "Your mother is", "intermittent", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8m\u026at\u0259nt/", "Definition: stopping and starting at irregular intervals", ""]}
