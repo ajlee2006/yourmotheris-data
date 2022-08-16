@@ -1,1 +1,1 @@
-{"data": ["2022-08-16T19:01:23.375749+00:00", 4645, "Your mother is", "home-cured", "Similar to: homemade", "Definition: cured at home", ""]}
+{"data": ["2022-08-16T20:00:58.783916+00:00", 4646, "Your mother is", "biaural", "Similar to: stereo", "Definition: relating to or having or hearing with two ears", "Synonyms: binaural"]}
