@@ -1,1 +1,1 @@
-{"data": ["2022-08-16T20:00:58.783916+00:00", 4646, "Your mother is", "biaural", "Similar to: stereo", "Definition: relating to or having or hearing with two ears", "Synonyms: binaural"]}
+{"data": ["2022-08-16T21:00:33.173269+00:00", 4647, "Your mother is", "labeled", "Pronunciation: /\u02c8le\u026ab\u028cld/", "Definition: bearing or marked with a label or tag", "Synonyms: labelled, tagged"]}
