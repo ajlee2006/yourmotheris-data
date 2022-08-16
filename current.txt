@@ -1,1 +1,1 @@
-{"data": ["2022-08-16T18:00:47.544325+00:00", 4644, "Your mother is", "pernickety", "Pronunciation: /p\u0259r\u02c8n\u026ak\u026ati/", "Definition: characterized by excessive precision and attention to trivial details", "Synonyms: persnickety"]}
+{"data": ["2022-08-16T19:01:23.375749+00:00", 4645, "Your mother is", "home-cured", "Similar to: homemade", "Definition: cured at home", ""]}
