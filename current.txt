@@ -1,1 +1,1 @@
-{"data": ["2022-08-16T03:01:11.120215+00:00", 4629, "Your mother is", "sulphurous", "Pronunciation: /\u02c8s\u0259lf\u0259r\u0259s/", "Definition: characterized by oppressive heat and humidity", "Synonyms: stifling, sulfurous, sultry"]}
+{"data": ["2022-08-16T04:00:54.361145+00:00", 4630, "Your mother is", "stodgy", "Pronunciation: /\u02c8st\u0251d\u0292i/", "Definition: (used pejoratively) out of fashion; old fashioned", "Synonyms: fogyish, moss-grown, mossy, stick-in-the-mud"]}
