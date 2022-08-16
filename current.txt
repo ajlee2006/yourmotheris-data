@@ -1,1 +1,1 @@
-{"data": ["2022-08-16T00:01:38.478710+00:00", 4626, "Your mother is", "humanistic", "Pronunciation: /\u02cchjum\u028c\u02c8n\u026ast\u026ak/", "Definition: of or pertaining to Renaissance humanism", "Synonyms: humanist"]}
+{"data": ["2022-08-16T01:01:43.034248+00:00", 4627, "Your mother is", "opponent", "Pronunciation: /\u0259\u02c8po\u028an\u0259nt/", "Definition: characterized by active hostility", "Synonyms: opposing"]}
