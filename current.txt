@@ -1,1 +1,1 @@
-{"data": ["2022-08-16T12:00:41.736902+00:00", 4638, "Your mother is", "autarchic", "", "Definition: of or relating to or characterized by autarchy", "Synonyms: autarchical, autarkical"]}
+{"data": ["2022-08-16T13:01:32.449676+00:00", 4639, "Your mother is", "brachycranic", "Pronunciation: /\u02ccbr\u00e6ki\u02c8kre\u026an\u026ak/", "Definition: having a short broad head with a cephalic index of over 80", "Synonyms: brachycephalic, brachycranial"]}
