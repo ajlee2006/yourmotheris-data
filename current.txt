@@ -1,1 +1,1 @@
-{"data": ["2022-08-17T05:01:08.610247+00:00", 4655, "Your mother is", "cross-shaped", "Pronunciation: /kr\u0254s-\u0283e\u026apt/", "Definition: shaped in the form of a cross", ""]}
+{"data": ["2022-08-17T06:00:24.952916+00:00", 4656, "Your mother is", "18", "Similar to: cardinal", "Definition: being one more than seventeen", "Synonyms: eighteen, xviii"]}
