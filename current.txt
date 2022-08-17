@@ -1,1 +1,1 @@
-{"data": ["2022-08-17T13:01:25.434766+00:00", 4663, "Your mother is", "scabrous", "Pronunciation: /\u02c8sk\u00e6br\u0259s/", "Definition: rough to the touch; covered with scales or scurf", "Synonyms: lepidote, leprose, scaly, scurfy"]}
+{"data": ["2022-08-17T14:00:50.335984+00:00", 4664, "Your mother is", "syncretic", "", "Definition: relating to a historical tendency for a language to reduce its use of inflections", "Synonyms: syncretical, syncretistic, syncretistical"]}
