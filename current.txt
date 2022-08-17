@@ -1,1 +1,1 @@
-{"data": ["2022-08-17T22:00:36.731386+00:00", 4672, "Your mother is", "fawn-colored", "Pronunciation: /f\u0254n-\u02c8k\u0259l\u0259rd/", "Definition: having the color of a fawn", "Synonyms: fawn-coloured"]}
+{"data": ["2022-08-17T23:00:47.144858+00:00", 4673, "Your mother is", "daylong", "Pronunciation: /\u02c8de\u026a\u02ccl\u0254\u014b/", "Definition: lasting through an entire day", ""]}
