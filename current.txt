@@ -1,1 +1,1 @@
-{"data": ["2022-08-17T02:01:10.009886+00:00", 4652, "Your mother is", "versatile", "Pronunciation: /\u02c8v\u025crs\u0259t\u026al/", "Definition: having great diversity or variety", "Synonyms: various"]}
+{"data": ["2022-08-17T03:00:32.847755+00:00", 4653, "Your mother is", "white-tie", "Similar to: formal", "Definition: requiring white ties and tailcoats for men", ""]}
