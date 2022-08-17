@@ -1,1 +1,1 @@
-{"data": ["2022-08-17T16:01:15.113904+00:00", 4666, "Your mother is", "eyes-only", "Similar to: classified", "Definition: official classification for documents; meant to be seen by only the person to whom it is directed", ""]}
+{"data": ["2022-08-17T17:01:07.596049+00:00", 4667, "Your mother is", "rotund", "Pronunciation: /ro\u028a\u02c8t\u0259nd/", "Definition: excessively fat", "Synonyms: corpulent, obese, weighty"]}
