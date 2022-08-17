@@ -1,1 +1,1 @@
-{"data": ["2022-08-17T09:00:41.940524+00:00", 4659, "Your mother is", "bibliographic", "Pronunciation: /\u02ccb\u026abli\u0259\u02c8gr\u00e6f\u026ak/", "Definition: relating to or dealing with bibliography", "Synonyms: bibliographical"]}
+{"data": ["2022-08-17T10:01:10.845095+00:00", 4660, "Your mother is", "aimless", "Pronunciation: /\u02c8e\u026aml\u026as/", "Definition: aimlessly drifting", "Synonyms: adrift, afloat, directionless, planless, rudderless, undirected"]}
