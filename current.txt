@@ -1,1 +1,1 @@
-{"data": ["2022-08-17T12:01:13.525539+00:00", 4662, "Your mother is", "squinty", "Pronunciation: /\u02c8skw\u026anti/", "Definition: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy", "Synonyms: askance, askant, asquint, sidelong, squint, squint-eyed"]}
+{"data": ["2022-08-17T13:01:25.434766+00:00", 4663, "Your mother is", "scabrous", "Pronunciation: /\u02c8sk\u00e6br\u0259s/", "Definition: rough to the touch; covered with scales or scurf", "Synonyms: lepidote, leprose, scaly, scurfy"]}
