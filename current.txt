@@ -1,1 +1,1 @@
-{"data": ["2022-08-16T23:01:07.488678+00:00", 4649, "Your mother is", "woolly-haired", "Similar to: haired", "Definition: covered with dense often matted or curly hairs", "Synonyms: woolly, wooly, wooly-haired"]}
+{"data": ["2022-08-17T00:01:58.622756+00:00", 4650, "Your mother is", "35th", "Similar to: ordinal", "Definition: the ordinal number of thirty-five in counting order", "Synonyms: thirty-fifth"]}
