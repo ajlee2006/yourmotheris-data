@@ -1,1 +1,1 @@
-{"data": ["2022-08-17T08:01:04.833635+00:00", 4658, "Your mother is", "acerate", "Pronunciation: /\u02c8\u00e6s\u0259\u02c8re\u026at/", "Definition: narrow and long and pointed; as pine leaves", "Synonyms: acerose, acicular, needle-shaped"]}
+{"data": ["2022-08-17T09:00:41.940524+00:00", 4659, "Your mother is", "bibliographic", "Pronunciation: /\u02ccb\u026abli\u0259\u02c8gr\u00e6f\u026ak/", "Definition: relating to or dealing with bibliography", "Synonyms: bibliographical"]}
