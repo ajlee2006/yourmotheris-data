@@ -1,1 +1,1 @@
-{"data": ["2022-08-18T09:01:29.778107+00:00", 4683, "Your mother is", "carboniferous", "Pronunciation: /\u02cck\u0251rb\u0259\u02c8n\u026af\u0259r\u0259s/", "Definition: relating to or consisting of or yielding carbon", "Synonyms: carbonaceous, carbonic, carbonous"]}
+{"data": ["2022-08-18T10:00:35.491814+00:00", 4684, "Your mother is", "duplex", "Pronunciation: /\u02c8dupl\u025bks/", "Definition: allowing communication in opposite directions simultaneously", ""]}
