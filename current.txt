@@ -1,1 +1,1 @@
-{"data": ["2022-08-18T11:00:45.747361+00:00", 4685, "Your mother is", "diaphoretic", "Pronunciation: /\u02ccda\u026a\u0259f\u0259\u02c8r\u025bt\u026ak/", "Definition: inducing perspiration", "Synonyms: sudorific"]}
+{"data": ["2022-08-18T12:01:29.776179+00:00", 4686, "Your mother is", "adventitious", "Pronunciation: /\u02cc\u00e6dv\u0259n\u02c8t\u026a\u0283\u0259s/", "Definition: associated by chance and not an integral part", ""]}
