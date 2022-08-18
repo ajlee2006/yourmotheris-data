@@ -1,1 +1,1 @@
-{"data": ["2022-08-18T05:00:22.755793+00:00", 4679, "Your mother is", "well-groomed", "Pronunciation: /\u02c8w\u025bl-\u02c8grumd/", "Definition: having tasteful clothing and being scrupulously neat", "Synonyms: well-dressed"]}
+{"data": ["2022-08-18T06:00:16.439129+00:00", 4680, "Your mother is", "deniable", "Pronunciation: /d\u026a\u02c8na\u026a\u0259b\u0259l/", "Definition: capable of being denied or contradicted", ""]}
