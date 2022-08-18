@@ -1,1 +1,1 @@
-{"data": ["2022-08-18T12:01:29.776179+00:00", 4686, "Your mother is", "adventitious", "Pronunciation: /\u02cc\u00e6dv\u0259n\u02c8t\u026a\u0283\u0259s/", "Definition: associated by chance and not an integral part", ""]}
+{"data": ["2022-08-18T13:00:52.383186+00:00", 4687, "Your mother is", "misty", "Pronunciation: /\u02c8m\u026asti/", "Definition: filled or abounding with fog or mist", "Synonyms: brumous, foggy, hazy"]}
