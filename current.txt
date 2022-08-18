@@ -1,1 +1,1 @@
-{"data": ["2022-08-17T23:00:47.144858+00:00", 4673, "Your mother is", "daylong", "Pronunciation: /\u02c8de\u026a\u02ccl\u0254\u014b/", "Definition: lasting through an entire day", ""]}
+{"data": ["2022-08-18T00:01:23.811861+00:00", 4674, "Your mother is", "dextrorsal", "Similar to: dextral", "Definition: spiraling upward from left to right", "Synonyms: dextrorse"]}
