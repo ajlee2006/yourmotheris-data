@@ -1,1 +1,1 @@
-{"data": ["2022-08-18T06:00:16.439129+00:00", 4680, "Your mother is", "deniable", "Pronunciation: /d\u026a\u02c8na\u026a\u0259b\u0259l/", "Definition: capable of being denied or contradicted", ""]}
+{"data": ["2022-08-18T07:00:18.028184+00:00", 4681, "Your mother is", "demoniac", "Pronunciation: /d\u026a\u02c8mo\u028ani\u02cc\u00e6k/", "Definition: of, pertaining to, or like a demon or possession by a demon", "Synonyms: demoniacal, possessed"]}
