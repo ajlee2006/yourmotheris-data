@@ -1,1 +1,1 @@
-{"data": ["2022-08-18T14:00:33.432327+00:00", 4688, "Your mother is", "vendible", "Pronunciation: /\u02c8v\u025bnd\u0259b\u0259l/", "Definition: fit to be offered for sale", "Synonyms: marketable, merchantable, sellable, vendable"]}
+{"data": ["2022-08-18T15:00:36.379549+00:00", 4689, "Your mother is", "embonpoint", "Pronunciation: /\u0251Nb\u0254\u014b\u02c8pw\u00e6\u014b/", "Definition: sufficiently fat so as to have a pleasing fullness of figure", "Synonyms: chubby, plump"]}
