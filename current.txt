@@ -1,1 +1,1 @@
-{"data": ["2022-08-18T04:00:50.143686+00:00", 4678, "Your mother is", "timed", "Pronunciation: /ta\u026amd/", "Definition: regularly spaced in time", ""]}
+{"data": ["2022-08-18T05:00:22.755793+00:00", 4679, "Your mother is", "well-groomed", "Pronunciation: /\u02c8w\u025bl-\u02c8grumd/", "Definition: having tasteful clothing and being scrupulously neat", "Synonyms: well-dressed"]}
