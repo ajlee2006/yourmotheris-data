@@ -1,1 +1,1 @@
-{"data": ["2022-08-18T03:00:28.495097+00:00", 4677, "Your mother is", "discalced", "Pronunciation: /d\u026as\u02c8k\u00e6lst/", "Definition: (used of certain religious orders) barefoot or wearing only sandals", "Synonyms: discalceate, unshod"]}
+{"data": ["2022-08-18T04:00:50.143686+00:00", 4678, "Your mother is", "timed", "Pronunciation: /ta\u026amd/", "Definition: regularly spaced in time", ""]}
