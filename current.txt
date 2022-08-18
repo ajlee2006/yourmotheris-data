@@ -1,1 +1,1 @@
-{"data": ["2022-08-18T01:01:21.596061+00:00", 4675, "Your mother is", "moderate-size", "Similar to: sized", "Definition: intermediate in size", "Synonyms: medium-size, medium-sized, moderate-sized"]}
+{"data": ["2022-08-18T02:00:29.794442+00:00", 4676, "Your mother is", "online", "Pronunciation: /\u02c8\u0254n\u02ccla\u026an/", "Definition: on a regular route of a railroad or bus or airline system", "Synonyms: on-line"]}
