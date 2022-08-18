@@ -1,1 +1,1 @@
-{"data": ["2022-08-18T21:00:35.509999+00:00", 4695, "Your mother is", "nutlike", "Similar to: tasty", "Definition: having the flavor of nuts", "Synonyms: nutty"]}
+{"data": ["2022-08-18T22:01:12.413575+00:00", 4696, "Your mother is", "thirty-third", "Pronunciation: /\u02c8\u03b8\u025crti-\u03b8\u025crd/", "Definition: the ordinal number of thirty-three in counting order", "Synonyms: 33rd"]}
