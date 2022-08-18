@@ -1,1 +1,1 @@
-{"data": ["2022-08-18T17:00:29.532683+00:00", 4691, "Your mother is", "axile", "Pronunciation: /\u02c8\u00e6ks\u026al/", "Definition: relating to or attached to the axis", "Synonyms: axial"]}
+{"data": ["2022-08-18T18:00:22.161008+00:00", 4692, "Your mother is", "crystallized", "Pronunciation: /\u02c8kr\u026ast\u028c\u02ccla\u026azd/", "Definition: having both internal structure and external form of a crystal", "Synonyms: crystalised"]}
