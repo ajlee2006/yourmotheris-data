@@ -1,1 +1,1 @@
-{"data": ["2022-08-18T22:01:12.413575+00:00", 4696, "Your mother is", "thirty-third", "Pronunciation: /\u02c8\u03b8\u025crti-\u03b8\u025crd/", "Definition: the ordinal number of thirty-three in counting order", "Synonyms: 33rd"]}
+{"data": ["2022-08-18T23:00:37.033450+00:00", 4697, "Your mother is", "impressionistic", "Pronunciation: /\u026am\u02ccpr\u025b\u0283\u0259\u02c8n\u026ast\u026ak/", "Definition: relating to or characteristic of Impressionism", "Synonyms: impressionist"]}
