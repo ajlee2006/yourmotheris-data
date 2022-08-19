@@ -1,1 +1,1 @@
-{"data": ["2022-08-19T09:01:29.199485+00:00", 4707, "Your mother is", "uppermost", "Pronunciation: /\u02c8\u0259p\u0259r\u02ccmo\u028ast/", "Definition: at or nearest to the top", "Synonyms: topmost, upmost"]}
+{"data": ["2022-08-19T10:01:04.845565+00:00", 4708, "Your mother is", "71", "Similar to: cardinal", "Definition: being one more than seventy", "Synonyms: lxxi, seventy-one"]}
