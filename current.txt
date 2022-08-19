@@ -1,1 +1,1 @@
-{"data": ["2022-08-19T00:02:04.066241+00:00", 4698, "Your mother is", "matrilineal", "Pronunciation: /\u02ccm\u00e6tri\u02c8l\u026ani\u0259l/", "Definition: based on or tracing descent through the female line", "Synonyms: matrilinear"]}
+{"data": ["2022-08-19T01:01:18.846122+00:00", 4699, "Your mother is", "scorching", "Pronunciation: /\u02c8sk\u0254rt\u0283\u026a\u014b/", "Definition: hot and dry enough to burn or parch a surface", ""]}
