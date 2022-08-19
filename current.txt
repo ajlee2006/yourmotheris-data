@@ -1,1 +1,1 @@
-{"data": ["2022-08-18T23:00:37.033450+00:00", 4697, "Your mother is", "impressionistic", "Pronunciation: /\u026am\u02ccpr\u025b\u0283\u0259\u02c8n\u026ast\u026ak/", "Definition: relating to or characteristic of Impressionism", "Synonyms: impressionist"]}
+{"data": ["2022-08-19T00:02:04.066241+00:00", 4698, "Your mother is", "matrilineal", "Pronunciation: /\u02ccm\u00e6tri\u02c8l\u026ani\u0259l/", "Definition: based on or tracing descent through the female line", "Synonyms: matrilinear"]}
