@@ -1,1 +1,1 @@
-{"data": ["2022-08-19T06:01:11.407066+00:00", 4704, "Your mother is", "assured", "Pronunciation: /\u0259\u02c8\u0283\u028ard/", "Definition: characterized by certainty or security", ""]}
+{"data": ["2022-08-19T07:01:01.371572+00:00", 4705, "Your mother is", "errant", "Pronunciation: /\u02c8\u025br\u0259nt/", "Definition: straying from the right course or from accepted standards", ""]}
