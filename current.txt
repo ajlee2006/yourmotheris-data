@@ -1,1 +1,1 @@
-{"data": ["2022-08-19T05:01:35.004049+00:00", 4703, "Your mother is", "tuneful", "Pronunciation: /\u02c8tunf\u0259l/", "Definition: having a musical sound; especially a pleasing tune", "Synonyms: melodious"]}
+{"data": ["2022-08-19T06:01:11.407066+00:00", 4704, "Your mother is", "assured", "Pronunciation: /\u0259\u02c8\u0283\u028ard/", "Definition: characterized by certainty or security", ""]}
