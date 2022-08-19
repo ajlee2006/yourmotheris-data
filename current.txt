@@ -1,1 +1,1 @@
-{"data": ["2022-08-19T04:00:42.477341+00:00", 4702, "Your mother is", "considerable", "Pronunciation: /k\u0259n\u02c8s\u026ad\u0259r\u0259b\u0259l/", "Definition: large or relatively large in number or amount or extent or degree", ""]}
+{"data": ["2022-08-19T05:01:35.004049+00:00", 4703, "Your mother is", "tuneful", "Pronunciation: /\u02c8tunf\u0259l/", "Definition: having a musical sound; especially a pleasing tune", "Synonyms: melodious"]}
