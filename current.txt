@@ -1,1 +1,1 @@
-{"data": ["2022-08-19T22:01:26.215940+00:00", 4720, "Your mother is", "stenotic", "Similar to: constricted", "Definition: abnormally constricted body canal or passage", "Synonyms: stenosed"]}
+{"data": ["2022-08-19T23:01:32.936953+00:00", 4721, "Your mother is", "defective", "Pronunciation: /d\u026a\u02c8f\u025bkt\u026av/", "Definition: having a defect", "Synonyms: faulty"]}
