@@ -1,1 +1,1 @@
-{"data": ["2022-08-19T12:01:22.316023+00:00", 4710, "Your mother is", "stiff-branched", "Similar to: branchy", "Definition: having stiff branches", ""]}
+{"data": ["2022-08-19T13:00:33.230244+00:00", 4711, "Your mother is", "bitchy", "Pronunciation: /\u02c8b\u026a\u02a7i/", "Definition: marked by or arising from malice", "Synonyms: cattish, catty"]}
