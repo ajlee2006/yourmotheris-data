@@ -1,1 +1,1 @@
-{"data": ["2022-08-19T08:01:11.796028+00:00", 4706, "Your mother is", "pug-nosed", "Similar to: nosed", "Definition: having a blunt nose", "Synonyms: pug-nose, short-nosed, snub-nosed"]}
+{"data": ["2022-08-19T09:01:29.199485+00:00", 4707, "Your mother is", "uppermost", "Pronunciation: /\u02c8\u0259p\u0259r\u02ccmo\u028ast/", "Definition: at or nearest to the top", "Synonyms: topmost, upmost"]}
