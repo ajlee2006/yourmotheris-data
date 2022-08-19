@@ -1,1 +1,1 @@
-{"data": ["2022-08-19T21:01:02.291597+00:00", 4719, "Your mother is", "ulcerated", "Similar to: unhealthy", "Definition: having an ulcer or canker", "Synonyms: cankerous, ulcerous"]}
+{"data": ["2022-08-19T22:01:26.215940+00:00", 4720, "Your mother is", "stenotic", "Similar to: constricted", "Definition: abnormally constricted body canal or passage", "Synonyms: stenosed"]}
