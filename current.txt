@@ -1,1 +1,1 @@
-{"data": ["2022-08-20T21:00:43.673904+00:00", 4743, "Your mother is", "reniform", "Pronunciation: /\u02c8r\u025bn\u0259\u02ccf\u0254rm/", "Definition: (of a leaf or bean shape) resembling the shape of kidney", "Synonyms: kidney-shaped"]}
+{"data": ["2022-08-20T22:01:19.395038+00:00", 4744, "Your mother is", "liplike", "Similar to: lipped", "Definition: having lips or parts that resemble lips", "Synonyms: labiate"]}
