@@ -1,1 +1,1 @@
-{"data": ["2022-08-20T08:01:28.766862+00:00", 4730, "Your mother is", "tagged", "Pronunciation: /t\u00e6\u0261d/", "Definition: bearing or marked with a label or tag", "Synonyms: labeled, labelled"]}
+{"data": ["2022-08-20T09:01:11.099216+00:00", 4731, "Your mother is", "uninvited", "Pronunciation: /\u02cc\u0259n\u026an\u02c8va\u026at\u026ad/", "Definition: (of a person) not having been invited", ""]}
