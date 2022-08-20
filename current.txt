@@ -1,1 +1,1 @@
-{"data": ["2022-08-20T14:01:07.953656+00:00", 4736, "Your mother is", "unincorporated", "Pronunciation: /\u02cc\u028cn\u026an\u02c8k\u0254rp\u025dr\u02cce\u026at\u026ad/", "Definition: not organized and maintained as a legal corporation", ""]}
+{"data": ["2022-08-20T15:00:49.215767+00:00", 4737, "Your mother is", "smooth-shelled", "Similar to: shelled", "Definition: having a smooth shell", ""]}
