@@ -1,1 +1,1 @@
-{"data": ["2022-08-20T01:00:42.681742+00:00", 4723, "Your mother is", "overnight", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8na\u026at/", "Definition: lasting, open, or operating through the whole night", "Synonyms: all-night, nightlong"]}
+{"data": ["2022-08-20T02:01:20.302116+00:00", 4724, "Your mother is", "hexagonal", "Pronunciation: /h\u025bk\u02c8s\u00e6\u0261\u0259n\u0259l/", "Definition: having six sides or divided into hexagons", "Synonyms: hexangular"]}
