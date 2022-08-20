@@ -1,1 +1,1 @@
-{"data": ["2022-08-20T04:01:35.274437+00:00", 4726, "Your mother is", "bladed", "Pronunciation: /\u02c8ble\u026ad\u026ad/", "Definition: composed of thin flat plates resembling a knife blade", ""]}
+{"data": ["2022-08-20T05:00:49.859250+00:00", 4727, "Your mother is", "unquestionable", "Pronunciation: /\u0259n\u02c8kw\u025bs\u02a7\u0259n\u0259b\u0259l/", "Definition: not counterfeit or copied", "Synonyms: authentic, bona fide, veritable"]}
