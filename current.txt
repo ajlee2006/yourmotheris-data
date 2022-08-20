@@ -1,1 +1,1 @@
-{"data": ["2022-08-20T03:01:18.322623+00:00", 4725, "Your mother is", "filamentous", "Pronunciation: /\u02ccf\u026al\u0259\u02c8m\u025bnt\u0259s/", "Definition: thin in diameter; resembling a thread", "Synonyms: filamentlike, filiform, threadlike, thready"]}
+{"data": ["2022-08-20T04:01:35.274437+00:00", 4726, "Your mother is", "bladed", "Pronunciation: /\u02c8ble\u026ad\u026ad/", "Definition: composed of thin flat plates resembling a knife blade", ""]}
