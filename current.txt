@@ -1,1 +1,1 @@
-{"data": ["2022-08-20T19:00:48.340333+00:00", 4741, "Your mother is", "unvaccinated", "Pronunciation: /\u0259n\u02c8v\u00e6ks\u026a\u02ccne\u026at\u026ad/", "Definition: not vaccinated", ""]}
+{"data": ["2022-08-20T20:00:45.668138+00:00", 4742, "Your mother is", "malodourous", "Similar to: bilgy", "Definition: having an unpleasant smell", "Synonyms: ill-smelling, malodorous, stinky, unpleasant-smelling"]}
