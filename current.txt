@@ -1,1 +1,1 @@
-{"data": ["2022-08-20T18:00:16.625791+00:00", 4740, "Your mother is", "seeing", "Pronunciation: /\u02c8sii\u014b/", "Definition: having vision, not blind", ""]}
+{"data": ["2022-08-20T19:00:48.340333+00:00", 4741, "Your mother is", "unvaccinated", "Pronunciation: /\u0259n\u02c8v\u00e6ks\u026a\u02ccne\u026at\u026ad/", "Definition: not vaccinated", ""]}
