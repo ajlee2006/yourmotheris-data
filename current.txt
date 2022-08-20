@@ -1,1 +1,1 @@
-{"data": ["2022-08-20T20:00:45.668138+00:00", 4742, "Your mother is", "malodourous", "Similar to: bilgy", "Definition: having an unpleasant smell", "Synonyms: ill-smelling, malodorous, stinky, unpleasant-smelling"]}
+{"data": ["2022-08-20T21:00:43.673904+00:00", 4743, "Your mother is", "reniform", "Pronunciation: /\u02c8r\u025bn\u0259\u02ccf\u0254rm/", "Definition: (of a leaf or bean shape) resembling the shape of kidney", "Synonyms: kidney-shaped"]}
