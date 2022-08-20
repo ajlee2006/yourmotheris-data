@@ -1,1 +1,1 @@
-{"data": ["2022-08-20T13:01:30.608710+00:00", 4735, "Your mother is", "fast-growing", "Pronunciation: /f\u00e6st-\u02c8gro\u028a\u026a\u014b/", "Definition: tending to spread quickly", "Synonyms: aggressive, strong-growing"]}
+{"data": ["2022-08-20T14:01:07.953656+00:00", 4736, "Your mother is", "unincorporated", "Pronunciation: /\u02cc\u028cn\u026an\u02c8k\u0254rp\u025dr\u02cce\u026at\u026ad/", "Definition: not organized and maintained as a legal corporation", ""]}
