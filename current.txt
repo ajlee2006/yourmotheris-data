@@ -1,1 +1,1 @@
-{"data": ["2022-08-20T11:00:31.287788+00:00", 4733, "Your mother is", "stalemated", "Pronunciation: /\u02c8ste\u026al\u02ccme\u026at\u026ad/", "Definition: at a complete standstill because of opposition of two unrelenting forces or factions", "Synonyms: deadlocked"]}
+{"data": ["2022-08-20T12:00:51.290514+00:00", 4734, "Your mother is", "semi-climbing", "Similar to: erect", "Definition: of plants that are semi-climbers", ""]}
