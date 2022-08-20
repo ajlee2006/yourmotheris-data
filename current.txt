@@ -1,1 +1,1 @@
-{"data": ["2022-08-20T00:01:15.123540+00:00", 4722, "Your mother is", "non-conducting", "", "Definition: not able to conduct heat or electricity or sound", "Synonyms: nonconducting, nonconductive"]}
+{"data": ["2022-08-20T01:00:42.681742+00:00", 4723, "Your mother is", "overnight", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8na\u026at/", "Definition: lasting, open, or operating through the whole night", "Synonyms: all-night, nightlong"]}
