@@ -1,1 +1,1 @@
-{"data": ["2022-08-20T02:01:20.302116+00:00", 4724, "Your mother is", "hexagonal", "Pronunciation: /h\u025bk\u02c8s\u00e6\u0261\u0259n\u0259l/", "Definition: having six sides or divided into hexagons", "Synonyms: hexangular"]}
+{"data": ["2022-08-20T03:01:18.322623+00:00", 4725, "Your mother is", "filamentous", "Pronunciation: /\u02ccf\u026al\u0259\u02c8m\u025bnt\u0259s/", "Definition: thin in diameter; resembling a thread", "Synonyms: filamentlike, filiform, threadlike, thready"]}
