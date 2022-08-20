@@ -1,1 +1,1 @@
-{"data": ["2022-08-20T17:01:24.747131+00:00", 4739, "Your mother is", "almond-shaped", "Pronunciation: /\u02c8\u0251m\u0259nd-\u0283e\u026apt/", "Definition: shaped like an almond", "Synonyms: amygdaliform, amygdaloid, amygdaloidal"]}
+{"data": ["2022-08-20T18:00:16.625791+00:00", 4740, "Your mother is", "seeing", "Pronunciation: /\u02c8sii\u014b/", "Definition: having vision, not blind", ""]}
