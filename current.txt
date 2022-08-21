@@ -1,1 +1,1 @@
-{"data": ["2022-08-21T18:00:42.295533+00:00", 4764, "Your mother is", "self-addressed", "Pronunciation: /\u02c8s\u025blf\u0259\u02c8dr\u025bst/", "Definition: addressed to yourself", ""]}
+{"data": ["2022-08-21T19:01:18.194061+00:00", 4765, "Your mother is", "disadvantaged", "Pronunciation: /\u02ccd\u026as\u0259d\u02c8v\u00e6nt\u026ad\u0292d/", "Definition: marked by deprivation especially of the necessities of life or healthful environmental influences", "Synonyms: deprived"]}
