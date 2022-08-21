@@ -1,1 +1,1 @@
-{"data": ["2022-08-21T04:01:09.792520+00:00", 4750, "Your mother is", "touched", "Pronunciation: /t\u0259\u02a7t/", "Definition: slightly insane", "Synonyms: fey"]}
+{"data": ["2022-08-21T05:01:32.466516+00:00", 4751, "Your mother is", "contrarious", "Pronunciation: /k\u0259n\u02c8tr\u025cri\u0259s/", "Definition: difficult to deal with", "Synonyms: cross-grained"]}
