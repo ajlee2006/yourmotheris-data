@@ -1,1 +1,1 @@
-{"data": ["2022-08-21T01:00:50.285417+00:00", 4747, "Your mother is", "plummy", "Pronunciation: /\u02c8pl\u0259mi/", "Definition: (of a voice) affectedly mellow and rich", ""]}
+{"data": ["2022-08-21T02:00:46.688949+00:00", 4748, "Your mother is", "minimum", "Pronunciation: /\u02c8m\u026an\u0259m\u0259m/", "Definition: the least possible", "Synonyms: minimal"]}
