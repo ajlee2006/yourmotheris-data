@@ -1,1 +1,1 @@
-{"data": ["2022-08-21T05:01:32.466516+00:00", 4751, "Your mother is", "contrarious", "Pronunciation: /k\u0259n\u02c8tr\u025cri\u0259s/", "Definition: difficult to deal with", "Synonyms: cross-grained"]}
+{"data": ["2022-08-21T06:01:35.627396+00:00", 4752, "Your mother is", "overcurious", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8kj\u028ari\u0259s/", "Definition: showing excessive curiosity", ""]}
