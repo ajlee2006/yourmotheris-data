@@ -1,1 +1,1 @@
-{"data": ["2022-08-21T12:00:54.487345+00:00", 4758, "Your mother is", "textbook", "Pronunciation: /\u02c8t\u025bkst\u02ccb\u028ak/", "Definition: according to or characteristic of a casebook or textbook; typical", "Synonyms: casebook"]}
+{"data": ["2022-08-21T13:00:22.034001+00:00", 4759, "Your mother is", "native", "Pronunciation: /\u02c8ne\u026at\u026av/", "Definition: characteristic of or relating to people inhabiting a region from the beginning", "Synonyms: aboriginal"]}
