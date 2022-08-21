@@ -1,1 +1,1 @@
-{"data": ["2022-08-21T09:01:20.495222+00:00", 4755, "Your mother is", "bluish-grey", "Similar to: achromatic", "Definition: of grey tinged with blue", "Synonyms: blue-gray, blue-grey, bluish-gray"]}
+{"data": ["2022-08-21T10:01:13.127123+00:00", 4756, "Your mother is", "clean-burning", "Similar to: fueled", "Definition: leaving little contamination while consuming fuel", ""]}
