@@ -1,1 +1,1 @@
-{"data": ["2022-08-21T07:01:12.647334+00:00", 4753, "Your mother is", "in vitro", "Pronunciation: /\u026an-\u02c8vitro\u028a/", "Definition: of a biological process occurring in an artificial environment outside the living organism", "Synonyms: ex vivo"]}
+{"data": ["2022-08-21T08:00:42.682071+00:00", 4754, "Your mother is", "imitative", "Pronunciation: /\u02c8\u026am\u026a\u02ccte\u026at\u026av/", "Definition: (of words) formed in imitation of a natural sound", "Synonyms: echoic, onomatopoeic, onomatopoeical, onomatopoetic"]}
