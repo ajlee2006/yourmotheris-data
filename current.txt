@@ -1,1 +1,1 @@
-{"data": ["2022-08-21T00:01:44.943286+00:00", 4746, "Your mother is", "il", "Pronunciation: /\u026al/", "Definition: being nine more than forty", "Synonyms: 49, forty-nine"]}
+{"data": ["2022-08-21T01:00:50.285417+00:00", 4747, "Your mother is", "plummy", "Pronunciation: /\u02c8pl\u0259mi/", "Definition: (of a voice) affectedly mellow and rich", ""]}
