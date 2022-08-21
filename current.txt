@@ -1,1 +1,1 @@
-{"data": ["2022-08-21T03:00:34.468215+00:00", 4749, "Your mother is", "hypothetic", "Similar to: theoretic", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetical, supposed, suppositional, suppositious, supposititious"]}
+{"data": ["2022-08-21T04:01:09.792520+00:00", 4750, "Your mother is", "touched", "Pronunciation: /t\u0259\u02a7t/", "Definition: slightly insane", "Synonyms: fey"]}
