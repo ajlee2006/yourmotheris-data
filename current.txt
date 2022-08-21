@@ -1,1 +1,1 @@
-{"data": ["2022-08-21T06:01:35.627396+00:00", 4752, "Your mother is", "overcurious", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8kj\u028ari\u0259s/", "Definition: showing excessive curiosity", ""]}
+{"data": ["2022-08-21T07:01:12.647334+00:00", 4753, "Your mother is", "in vitro", "Pronunciation: /\u026an-\u02c8vitro\u028a/", "Definition: of a biological process occurring in an artificial environment outside the living organism", "Synonyms: ex vivo"]}
