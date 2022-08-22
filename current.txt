@@ -1,1 +1,1 @@
-{"data": ["2022-08-22T11:00:54.258965+00:00", 4781, "Your mother is", "quarrelsome", "Pronunciation: /\u02c8kw\u0251r\u0259ls\u0259m/", "Definition: given to quarreling", ""]}
+{"data": ["2022-08-22T12:00:22.888024+00:00", 4782, "Your mother is", "umteen", "Pronunciation: /\u02c8\u0259m\u02c8tin/", "Definition: innumerable but many", "Synonyms: umpteen"]}
