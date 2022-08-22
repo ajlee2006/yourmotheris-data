@@ -1,1 +1,1 @@
-{"data": ["2022-08-22T17:01:14.083521+00:00", 4787, "Your mother is", "unindustrialised", "Similar to: nonindustrial", "Definition: not converted to industrialism", "Synonyms: unindustrialized"]}
+{"data": ["2022-08-22T18:00:17.596393+00:00", 4788, "Your mother is", "semihard", "Similar to: hard", "Definition: somewhat hard", ""]}
