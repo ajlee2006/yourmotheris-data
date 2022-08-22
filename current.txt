@@ -1,1 +1,1 @@
-{"data": ["2022-08-22T07:01:22.522404+00:00", 4777, "Your mother is", "indigestible", "Pronunciation: /\u02cc\u026and\u026a\u02c8d\u0292\u025bst\u0259b\u0259l/", "Definition: digested with difficulty", ""]}
+{"data": ["2022-08-22T08:00:52.374161+00:00", 4778, "Your mother is", "ambitious", "Pronunciation: /\u00e6m\u02c8b\u026a\u0283\u0259s/", "Definition: requiring full use of your abilities or resources", "Synonyms: challenging"]}
