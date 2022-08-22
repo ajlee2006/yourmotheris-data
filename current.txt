@@ -1,1 +1,1 @@
-{"data": ["2022-08-22T10:00:37.328718+00:00", 4780, "Your mother is", "surgical", "Pronunciation: /\u02c8s\u025crd\u0292\u026ak\u0259l/", "Definition: relating to or requiring or amenable to treatment by surgery especially as opposed to medicine", "Synonyms: operative"]}
+{"data": ["2022-08-22T11:00:54.258965+00:00", 4781, "Your mother is", "quarrelsome", "Pronunciation: /\u02c8kw\u0251r\u0259ls\u0259m/", "Definition: given to quarreling", ""]}
