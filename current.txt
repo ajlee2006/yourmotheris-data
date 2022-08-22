@@ -1,1 +1,1 @@
-{"data": ["2022-08-22T02:01:36.006765+00:00", 4772, "Your mother is", "gilt", "Pronunciation: /\u0261\u026alt/", "Definition: having the deep slightly brownish color of gold", "Synonyms: aureate, gilded, gold, golden"]}
+{"data": ["2022-08-22T03:01:32.590054+00:00", 4773, "Your mother is", "myelinated", "Pronunciation: /\u02c8ma\u026a\u0259l\u0259\u02ccne\u026at\u026ad/", "Definition: (of neurons) covered with a layer of myelin", "Synonyms: medullated"]}
