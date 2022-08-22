@@ -1,1 +1,1 @@
-{"data": ["2022-08-22T19:01:14.411970+00:00", 4789, "Your mother is", "nonpolitical", "Pronunciation: /\u02ccn\u0251np\u028c\u02c8l\u026at\u026ak\u028cl/", "Definition: not political", ""]}
+{"data": ["2022-08-22T20:00:23.959015+00:00", 4790, "Your mother is", "armour-clad", "Pronunciation: /\u02c8\u0251rm\u0259r-kl\u00e6d/", "Definition: covered with heavy steel", "Synonyms: armor-clad, armor-plated, armour-plated, steel-plated"]}
