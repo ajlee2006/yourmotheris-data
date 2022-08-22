@@ -1,1 +1,1 @@
-{"data": ["2022-08-22T16:00:19.086440+00:00", 4786, "Your mother is", "lash-like", "", "Definition: having or resembling a lash or whip (as does a flagellum)", "Synonyms: flagellate, flagellated, whiplike"]}
+{"data": ["2022-08-22T17:01:14.083521+00:00", 4787, "Your mother is", "unindustrialised", "Similar to: nonindustrial", "Definition: not converted to industrialism", "Synonyms: unindustrialized"]}
