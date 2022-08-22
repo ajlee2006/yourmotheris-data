@@ -1,1 +1,1 @@
-{"data": ["2022-08-22T09:01:05.136313+00:00", 4779, "Your mother is", "outboard", "Pronunciation: /\u02c8a\u028at\u02ccbo\u028ard/", "Definition: located away from the midline of a vessel or aircraft", ""]}
+{"data": ["2022-08-22T10:00:37.328718+00:00", 4780, "Your mother is", "surgical", "Pronunciation: /\u02c8s\u025crd\u0292\u026ak\u0259l/", "Definition: relating to or requiring or amenable to treatment by surgery especially as opposed to medicine", "Synonyms: operative"]}
