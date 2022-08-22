@@ -1,1 +1,1 @@
-{"data": ["2022-08-22T04:01:32.011148+00:00", 4774, "Your mother is", "snow-blind", "Pronunciation: /\u02c8sno\u028a\u02ccbla\u026and/", "Definition: temporarily blinded by exposure to light reflected from snow or ice", "Synonyms: snow-blinded"]}
+{"data": ["2022-08-22T05:01:49.837038+00:00", 4775, "Your mother is", "transdermal", "", "Definition: through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches)", "Synonyms: percutaneous, transcutaneous, transdermic"]}
