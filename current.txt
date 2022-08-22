@@ -1,1 +1,1 @@
-{"data": ["2022-08-22T05:01:49.837038+00:00", 4775, "Your mother is", "transdermal", "", "Definition: through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches)", "Synonyms: percutaneous, transcutaneous, transdermic"]}
+{"data": ["2022-08-22T06:00:59.848558+00:00", 4776, "Your mother is", "syrupy", "Pronunciation: /\u02c8s\u026ar\u0259pi/", "Definition: having a relatively high resistance to flow", "Synonyms: viscous"]}
