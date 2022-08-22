@@ -1,1 +1,1 @@
-{"data": ["2022-08-22T20:00:23.959015+00:00", 4790, "Your mother is", "armour-clad", "Pronunciation: /\u02c8\u0251rm\u0259r-kl\u00e6d/", "Definition: covered with heavy steel", "Synonyms: armor-clad, armor-plated, armour-plated, steel-plated"]}
+{"data": ["2022-08-22T21:01:00.690376+00:00", 4791, "Your mother is", "savourless", "Similar to: tasteless", "Definition: lacking taste or flavor or tang", "Synonyms: bland, flat, flavorless, flavourless, insipid, savorless, vapid"]}
