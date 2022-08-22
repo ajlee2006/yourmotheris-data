@@ -1,1 +1,1 @@
-{"data": ["2022-08-22T13:01:10.892450+00:00", 4783, "Your mother is", "psychic", "Pronunciation: /\u02c8sa\u026ak\u026ak/", "Definition: affecting or influenced by the human mind", "Synonyms: psychical"]}
+{"data": ["2022-08-22T14:00:47.805424+00:00", 4784, "Your mother is", "autoicous", "Pronunciation: /\u0254\u02c8t\u0254\u026ak\u0259s/", "Definition: having male and female reproductive organs in separate clusters on the same plant", ""]}
