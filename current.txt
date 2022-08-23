@@ -1,1 +1,1 @@
-{"data": ["2022-08-23T06:00:13.182655+00:00", 4800, "Your mother is", "interwoven", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8wo\u028av\u028cn/", "Definition: linked or locked closely together as by dovetailing", "Synonyms: interlacing, interlinking, interlocking"]}
+{"data": ["2022-08-23T07:01:08.887014+00:00", 4801, "Your mother is", "interrupted", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8\u028cpt\u026ad/", "Definition: intermittently stopping and starting", "Synonyms: fitful, off-and-on"]}
