@@ -1,1 +1,1 @@
-{"data": ["2022-08-23T22:01:24.181682+00:00", 4816, "Your mother is", "assumed", "Pronunciation: /\u0259\u02c8sumd/", "Definition: adopted in order to deceive", "Synonyms: false, fictitious, fictive, pretended, put on, sham"]}
+{"data": ["2022-08-23T23:01:07.751668+00:00", 4817, "Your mother is", "rit.", "Similar to: decreasing", "Definition: (music) gradually decreasing in tempo", "Synonyms: rallentando, ritardando, ritenuto"]}
