@@ -1,1 +1,1 @@
-{"data": ["2022-08-23T19:01:19.838329+00:00", 4813, "Your mother is", "sloshed", "Similar to: drunk", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, smashed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
+{"data": ["2022-08-23T20:00:50.631439+00:00", 4814, "Your mother is", "oligarchical", "", "Definition: of or relating to or supporting or characteristic of an oligarchy", "Synonyms: oligarchic"]}
