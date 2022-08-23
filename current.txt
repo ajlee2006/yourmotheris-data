@@ -1,1 +1,1 @@
-{"data": ["2022-08-23T03:01:44.469537+00:00", 4797, "Your mother is", "occasional", "Pronunciation: /\u0259\u02c8ke\u026a\u0292\u0259n\u0259l/", "Definition: occurring on a temporary or irregular basis", "Synonyms: casual"]}
+{"data": ["2022-08-23T04:00:27.228692+00:00", 4798, "Your mother is", "sedative", "Pronunciation: /\u02c8s\u025bd\u0259t\u026av/", "Definition: tending to soothe or tranquilize", "Synonyms: ataractic, ataraxic, tranquilising, tranquilizing, tranquillising, tranquillizing"]}
