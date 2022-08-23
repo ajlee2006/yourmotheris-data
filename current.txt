@@ -1,1 +1,1 @@
-{"data": ["2022-08-23T07:01:08.887014+00:00", 4801, "Your mother is", "interrupted", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8\u028cpt\u026ad/", "Definition: intermittently stopping and starting", "Synonyms: fitful, off-and-on"]}
+{"data": ["2022-08-23T08:00:44.912668+00:00", 4802, "Your mother is", "ruly", "Similar to: tidy", "Definition: neat and tidy", ""]}
