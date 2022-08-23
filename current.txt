@@ -1,1 +1,1 @@
-{"data": ["2022-08-23T00:05:43.907851+00:00", 4794, "Your mother is", "propagandist", "Pronunciation: /\u02ccpr\u0251p\u0259\u02c8\u0261\u00e6nd\u026ast/", "Definition: of or relating to or characterized by propaganda", "Synonyms: propagandistic"]}
+{"data": ["2022-08-23T01:00:41.145197+00:00", 4795, "Your mother is", "self-coloured", "Pronunciation: /s\u025blf\u02c8k\u0259l\u0259d/", "Definition: of the same color throughout", "Synonyms: self-colored, solid"]}
