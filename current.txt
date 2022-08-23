@@ -1,1 +1,1 @@
-{"data": ["2022-08-23T02:01:03.018631+00:00", 4796, "Your mother is", "zaftig", "Pronunciation: /\u02c8z\u00e6ft\u026a\u0261/", "Definition: (of a female body) healthily plump and vigorous", "Synonyms: buxom, zoftig"]}
+{"data": ["2022-08-23T03:01:44.469537+00:00", 4797, "Your mother is", "occasional", "Pronunciation: /\u0259\u02c8ke\u026a\u0292\u0259n\u0259l/", "Definition: occurring on a temporary or irregular basis", "Synonyms: casual"]}
