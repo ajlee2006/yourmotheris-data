@@ -1,1 +1,1 @@
-{"data": ["2022-08-23T08:00:44.912668+00:00", 4802, "Your mother is", "ruly", "Similar to: tidy", "Definition: neat and tidy", ""]}
+{"data": ["2022-08-23T09:00:43.593547+00:00", 4803, "Your mother is", "chalky", "Pronunciation: /\u02c8\u02a7\u0254ki/", "Definition: composed of or containing or resembling calcium carbonate or calcite or chalk", "Synonyms: calcareous"]}
