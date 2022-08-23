@@ -1,1 +1,1 @@
-{"data": ["2022-08-23T16:01:22.926025+00:00", 4810, "Your mother is", "eightpenny", "Pronunciation: /\u02c8e\u026at\u02ccp\u025bni/", "Definition: used of nail size; 2 1/2 in or 6.4 cm long", ""]}
+{"data": ["2022-08-23T17:00:39.805173+00:00", 4811, "Your mother is", "acceptant", "Pronunciation: /\u00e6k\u02c8s\u025bpt\u0259nt/", "Definition: accepting willingly", "Synonyms: acceptive"]}
