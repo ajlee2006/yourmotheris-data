@@ -1,1 +1,1 @@
-{"data": ["2022-08-23T12:01:29.434753+00:00", 4806, "Your mother is", "billed", "Pronunciation: /b\u026ald/", "Definition: having a beak or bill as specified", ""]}
+{"data": ["2022-08-23T13:01:21.786830+00:00", 4807, "Your mother is", "decimal", "Pronunciation: /\u02c8d\u025bs\u0259m\u0259l/", "Definition: numbered or proceeding by tens; based on ten", "Synonyms: denary"]}
