@@ -1,1 +1,1 @@
-{"data": ["2022-08-23T13:01:21.786830+00:00", 4807, "Your mother is", "decimal", "Pronunciation: /\u02c8d\u025bs\u0259m\u0259l/", "Definition: numbered or proceeding by tens; based on ten", "Synonyms: denary"]}
+{"data": ["2022-08-23T14:00:58.195002+00:00", 4808, "Your mother is", "catabatic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8b\u00e6t\u026ak/", "Definition: of an air current or wind; moving downward or down a slope because of cooling especially at night", "Synonyms: katabatic"]}
