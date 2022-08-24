@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T21:00:30.704911+00:00", 4839, "Your mother is", "periodical", "Pronunciation: /\u02ccpiri\u02c8\u0251d\u026ak\u0259l/", "Definition: happening or recurring at regular intervals", "Synonyms: periodic"]}
+{"data": ["2022-08-24T22:01:29.511959+00:00", 4840, "Your mother is", "three-dimensional", "Similar to: multidimensional", "Definition: involving or relating to three dimensions or aspects; giving the illusion of depth", "Synonyms: 3-dimensional, third-dimensional, three-d"]}
