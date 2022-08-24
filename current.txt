@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T19:00:45.115312+00:00", 4837, "Your mother is", "vincible", "Pronunciation: /\u02c8v\u026ans\u0259b\u0259l/", "Definition: susceptible to being defeated", "Synonyms: beatable, vanquishable"]}
+{"data": ["2022-08-24T20:00:30.578549+00:00", 4838, "Your mother is", "afloat", "Pronunciation: /\u0259\u02c8flo\u028at/", "Definition: aimlessly drifting", "Synonyms: adrift, aimless, directionless, planless, rudderless, undirected"]}
