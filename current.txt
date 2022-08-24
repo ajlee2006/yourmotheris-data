@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T17:00:59.531012+00:00", 4835, "Your mother is", "imaginary", "Pronunciation: /\u026a\u02c8m\u00e6d\u0292\u0259\u02ccn\u025bri/", "Definition: not based on fact; existing only in the imagination", "Synonyms: fanciful, notional"]}
+{"data": ["2022-08-24T18:00:14.022484+00:00", 4836, "Your mother is", "crestfallen", "Pronunciation: /\u02c8kr\u025bst\u02ccf\u0254l\u0259n/", "Definition: brought low in spirit", "Synonyms: chapfallen, chopfallen, deflated"]}
