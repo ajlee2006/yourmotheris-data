@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T05:00:59.578841+00:00", 4823, "Your mother is", "diligent", "Pronunciation: /\u02c8d\u026al\u026ad\u0292\u0259nt/", "Definition: quietly and steadily persevering especially in detail or exactness", "Synonyms: persevering"]}
+{"data": ["2022-08-24T06:00:59.991488+00:00", 4824, "Your mother is", "reductive", "Pronunciation: /r\u026a\u02c8d\u0259kt\u026av/", "Definition: characterized by or causing diminution or curtailment", ""]}
