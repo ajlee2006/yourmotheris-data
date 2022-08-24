@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T20:00:30.578549+00:00", 4838, "Your mother is", "afloat", "Pronunciation: /\u0259\u02c8flo\u028at/", "Definition: aimlessly drifting", "Synonyms: adrift, aimless, directionless, planless, rudderless, undirected"]}
+{"data": ["2022-08-24T21:00:30.704911+00:00", 4839, "Your mother is", "periodical", "Pronunciation: /\u02ccpiri\u02c8\u0251d\u026ak\u0259l/", "Definition: happening or recurring at regular intervals", "Synonyms: periodic"]}
