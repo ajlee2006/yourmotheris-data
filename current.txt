@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T08:01:32.783874+00:00", 4826, "Your mother is", "built", "Pronunciation: /b\u026alt/", "Definition: (used of soaps or cleaning agents) having a substance (an abrasive or filler) added to increase effectiveness", "Synonyms: reinforced"]}
+{"data": ["2022-08-24T09:00:33.329082+00:00", 4827, "Your mother is", "silken", "Pronunciation: /\u02c8s\u026alk\u0259n/", "Definition: having a smooth, gleaming surface reflecting light", "Synonyms: satiny, silklike, silky, sleek, slick"]}
