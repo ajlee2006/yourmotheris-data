@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T10:00:48.403758+00:00", 4828, "Your mother is", "dormy", "Pronunciation: /\u02c8do\u028armi/", "Definition: in match play a side that stands as many holes ahead as there are holes remaining to be played", "Synonyms: dormie"]}
+{"data": ["2022-08-24T11:00:40.290787+00:00", 4829, "Your mother is", "latino", "Pronunciation: /l\u00e6\u02c8tino\u028a/", "Definition: related to a Spanish-speaking people or culture", "Synonyms: hispanic"]}
