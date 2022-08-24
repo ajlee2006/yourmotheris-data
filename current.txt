@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T16:00:59.109090+00:00", 4834, "Your mother is", "lower-class", "Similar to: proletarian", "Definition: occupying the lowest socioeconomic position in a society", "Synonyms: low-class"]}
+{"data": ["2022-08-24T17:00:59.531012+00:00", 4835, "Your mother is", "imaginary", "Pronunciation: /\u026a\u02c8m\u00e6d\u0292\u0259\u02ccn\u025bri/", "Definition: not based on fact; existing only in the imagination", "Synonyms: fanciful, notional"]}
