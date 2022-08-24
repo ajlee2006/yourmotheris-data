@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T14:00:52.843591+00:00", 4832, "Your mother is", "speech-endowed", "Similar to: articulate", "Definition: capable of speech", ""]}
+{"data": ["2022-08-24T15:01:24.718584+00:00", 4833, "Your mother is", "right-eyed", "Pronunciation: /ra\u026at-a\u026ad/", "Definition: having only the right eye", ""]}
