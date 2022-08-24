@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T11:00:40.290787+00:00", 4829, "Your mother is", "latino", "Pronunciation: /l\u00e6\u02c8tino\u028a/", "Definition: related to a Spanish-speaking people or culture", "Synonyms: hispanic"]}
+{"data": ["2022-08-24T12:01:31.138169+00:00", 4830, "Your mother is", "insalubrious", "Pronunciation: /\u02cc\u026ans\u0259\u02c8lubri\u0259s/", "Definition: detrimental to health", "Synonyms: unhealthful, unhealthy"]}
