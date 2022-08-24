@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T13:01:25.083470+00:00", 4831, "Your mother is", "unencumbered", "Pronunciation: /\u02cc\u0259n\u026an\u02c8k\u0259mb\u0259d/", "Definition: free of encumbrance", ""]}
+{"data": ["2022-08-24T14:00:52.843591+00:00", 4832, "Your mother is", "speech-endowed", "Similar to: articulate", "Definition: capable of speech", ""]}
