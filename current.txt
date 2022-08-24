@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T18:00:14.022484+00:00", 4836, "Your mother is", "crestfallen", "Pronunciation: /\u02c8kr\u025bst\u02ccf\u0254l\u0259n/", "Definition: brought low in spirit", "Synonyms: chapfallen, chopfallen, deflated"]}
+{"data": ["2022-08-24T19:00:45.115312+00:00", 4837, "Your mother is", "vincible", "Pronunciation: /\u02c8v\u026ans\u0259b\u0259l/", "Definition: susceptible to being defeated", "Synonyms: beatable, vanquishable"]}
