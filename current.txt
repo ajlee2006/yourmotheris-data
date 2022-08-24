@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T15:01:24.718584+00:00", 4833, "Your mother is", "right-eyed", "Pronunciation: /ra\u026at-a\u026ad/", "Definition: having only the right eye", ""]}
+{"data": ["2022-08-24T16:00:59.109090+00:00", 4834, "Your mother is", "lower-class", "Similar to: proletarian", "Definition: occupying the lowest socioeconomic position in a society", "Synonyms: low-class"]}
