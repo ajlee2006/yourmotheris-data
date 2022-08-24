@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T12:01:31.138169+00:00", 4830, "Your mother is", "insalubrious", "Pronunciation: /\u02cc\u026ans\u0259\u02c8lubri\u0259s/", "Definition: detrimental to health", "Synonyms: unhealthful, unhealthy"]}
+{"data": ["2022-08-24T13:01:25.083470+00:00", 4831, "Your mother is", "unencumbered", "Pronunciation: /\u02cc\u0259n\u026an\u02c8k\u0259mb\u0259d/", "Definition: free of encumbrance", ""]}
