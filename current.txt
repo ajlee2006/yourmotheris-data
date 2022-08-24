@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T06:00:59.991488+00:00", 4824, "Your mother is", "reductive", "Pronunciation: /r\u026a\u02c8d\u0259kt\u026av/", "Definition: characterized by or causing diminution or curtailment", ""]}
+{"data": ["2022-08-24T07:00:12.940502+00:00", 4825, "Your mother is", "engaged", "Pronunciation: /\u025bn\u02c8\u0261e\u026ad\u0292d/", "Definition: (of facilities such as telephones or lavatories) unavailable for use by anyone else or indicating unavailability; (`engaged' is a British term for a busy telephone line)", "Synonyms: busy, in use"]}
