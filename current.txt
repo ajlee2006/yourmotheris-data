@@ -1,1 +1,1 @@
-{"data": ["2022-08-25T05:00:56.123469+00:00", 4847, "Your mother is", "crepuscular", "Pronunciation: /kr\u026a\u02c8p\u0259skj\u0259l\u0259r/", "Definition: like twilight; dim", ""]}
+{"data": ["2022-08-25T06:01:30.713463+00:00", 4848, "Your mother is", "umptieth", "Similar to: ordinal", "Definition: last in an indefinitely numerous series", "Synonyms: umpteenth, umteenth"]}
