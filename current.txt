@@ -1,1 +1,1 @@
-{"data": ["2022-08-25T03:00:30.114893+00:00", 4845, "Your mother is", "maledict", "Pronunciation: /\u02c8m\u00e6l\u026ad\u026akt/", "Definition: under a curse", "Synonyms: accursed, accurst"]}
+{"data": ["2022-08-25T04:00:15.426047+00:00", 4846, "Your mother is", "complacent", "Pronunciation: /k\u0259m\u02c8ple\u026as\u0259nt/", "Definition: contented to a fault with oneself or one's actions", "Synonyms: self-complacent, self-satisfied"]}
