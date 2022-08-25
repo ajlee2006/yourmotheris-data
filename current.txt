@@ -1,1 +1,1 @@
-{"data": ["2022-08-25T08:01:20.845730+00:00", 4850, "Your mother is", "queen-size", "Pronunciation: /kwin-sa\u026az/", "Definition: (used especially of beds) not as large as king-size", "Synonyms: queen-sized"]}
+{"data": ["2022-08-25T09:00:37.389503+00:00", 4851, "Your mother is", "immune", "Pronunciation: /\u026a\u02c8mjun/", "Definition: relating to or conferring immunity (to disease or infection)", "Synonyms: resistant"]}
