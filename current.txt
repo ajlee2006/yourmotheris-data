@@ -1,1 +1,1 @@
-{"data": ["2022-08-25T09:00:37.389503+00:00", 4851, "Your mother is", "immune", "Pronunciation: /\u026a\u02c8mjun/", "Definition: relating to or conferring immunity (to disease or infection)", "Synonyms: resistant"]}
+{"data": ["2022-08-25T10:00:38.240100+00:00", 4852, "Your mother is", "unregenerated", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8d\u0292\u025bn\u0259\u02ccre\u026at\u026ad/", "Definition: not reformed morally or spiritually", "Synonyms: unregenerate"]}
