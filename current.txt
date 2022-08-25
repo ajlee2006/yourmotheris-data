@@ -1,1 +1,1 @@
-{"data": ["2022-08-25T02:00:44.931839+00:00", 4844, "Your mother is", "sixty-four", "Pronunciation: /\u02c8s\u026aksti-\u02c8fo\u028ar/", "Definition: being four more than sixty", "Synonyms: 64, lxiv"]}
+{"data": ["2022-08-25T03:00:30.114893+00:00", 4845, "Your mother is", "maledict", "Pronunciation: /\u02c8m\u00e6l\u026ad\u026akt/", "Definition: under a curse", "Synonyms: accursed, accurst"]}
