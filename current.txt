@@ -1,1 +1,1 @@
-{"data": ["2022-08-25T04:00:15.426047+00:00", 4846, "Your mother is", "complacent", "Pronunciation: /k\u0259m\u02c8ple\u026as\u0259nt/", "Definition: contented to a fault with oneself or one's actions", "Synonyms: self-complacent, self-satisfied"]}
+{"data": ["2022-08-25T05:00:56.123469+00:00", 4847, "Your mother is", "crepuscular", "Pronunciation: /kr\u026a\u02c8p\u0259skj\u0259l\u0259r/", "Definition: like twilight; dim", ""]}
