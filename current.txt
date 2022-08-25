@@ -1,1 +1,1 @@
-{"data": ["2022-08-24T23:00:17.903080+00:00", 4841, "Your mother is", "burry", "Pronunciation: /\u02c8b\u025cri/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristled, bristly, burred, prickly, setaceous, setose, spiny, thorny"]}
+{"data": ["2022-08-25T00:01:17.483012+00:00", 4842, "Your mother is", "starred", "Pronunciation: /st\u0251rd/", "Definition: marked with an asterisk", "Synonyms: asterisked"]}
