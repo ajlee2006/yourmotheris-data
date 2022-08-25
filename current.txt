@@ -1,1 +1,1 @@
-{"data": ["2022-08-25T13:00:29.888343+00:00", 4855, "Your mother is", "parliamentary", "Pronunciation: /\u02ccp\u0251rl\u0259\u02c8m\u025bnt\u0259ri/", "Definition: having the supreme legislative power resting with a body of cabinet ministers chosen from and responsible to the legislature or parliament", ""]}
+{"data": ["2022-08-25T14:01:08.698964+00:00", 4856, "Your mother is", "potbound", "Similar to: planted", "Definition: (of a potted plant) grown too large for its container resulting in matting or tangling of the roots", "Synonyms: rootbound"]}
