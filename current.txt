@@ -1,1 +1,1 @@
-{"data": ["2022-08-25T17:00:42.716672+00:00", 4859, "Your mother is", "supernatant", "Pronunciation: /\u02ccsup\u0259r\u02c8ne\u026at\u0259nt/", "Definition: of a liquid; floating on the surface above a sediment or precipitate", ""]}
+{"data": ["2022-08-25T18:00:47.420456+00:00", 4860, "Your mother is", "mail-clad", "Similar to: armored", "Definition: wearing protective mail", "Synonyms: mailed"]}
