@@ -1,1 +1,1 @@
-{"data": ["2022-08-25T12:00:39.247315+00:00", 4854, "Your mother is", "one-dimensional", "Similar to: collinear", "Definition: of or in or along or relating to a line; involving or having a single dimension", "Synonyms: linear"]}
+{"data": ["2022-08-25T13:00:29.888343+00:00", 4855, "Your mother is", "parliamentary", "Pronunciation: /\u02ccp\u0251rl\u0259\u02c8m\u025bnt\u0259ri/", "Definition: having the supreme legislative power resting with a body of cabinet ministers chosen from and responsible to the legislature or parliament", ""]}
