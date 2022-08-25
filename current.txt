@@ -1,1 +1,1 @@
-{"data": ["2022-08-25T15:00:56.290510+00:00", 4857, "Your mother is", "greco-roman", "Pronunciation: /\u02ccgriko\u028a\u02c8ro\u028am\u0259n/", "Definition: of or pertaining to or characteristic of the ancient Greeks and Romans, especially their art, literature, or culture", "Synonyms: classical, graeco-roman"]}
+{"data": ["2022-08-25T16:00:28.234564+00:00", 4858, "Your mother is", "untangled", "Similar to: disentangled", "Definition: not tangled", ""]}
