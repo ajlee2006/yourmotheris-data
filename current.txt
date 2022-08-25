@@ -1,1 +1,1 @@
-{"data": ["2022-08-25T11:01:10.704814+00:00", 4853, "Your mother is", "brownish-yellow", "Similar to: chromatic", "Definition: of a medium to dark brownish yellow color", "Synonyms: amber, yellow-brown"]}
+{"data": ["2022-08-25T12:00:39.247315+00:00", 4854, "Your mother is", "one-dimensional", "Similar to: collinear", "Definition: of or in or along or relating to a line; involving or having a single dimension", "Synonyms: linear"]}
