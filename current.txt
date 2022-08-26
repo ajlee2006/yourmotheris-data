@@ -1,1 +1,1 @@
-{"data": ["2022-08-26T02:01:23.633506+00:00", 4868, "Your mother is", "coaxing", "Pronunciation: /\u02c8ko\u028aks\u026a\u014b/", "Definition: pleasingly persuasive or intended to persuade", "Synonyms: ingratiatory"]}
+{"data": ["2022-08-26T03:01:25.802929+00:00", 4869, "Your mother is", "plumbous", "Pronunciation: /\u02c8pl\u0259mb\u0259s/", "Definition: relating to or consisting of lead", "Synonyms: plumbic"]}
