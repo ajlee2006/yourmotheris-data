@@ -1,1 +1,1 @@
-{"data": ["2022-08-26T11:01:20.622753+00:00", 4877, "Your mother is", "enate", "Pronunciation: /ine\u026at/", "Definition: related on the mother's side", "Synonyms: enatic, maternal"]}
+{"data": ["2022-08-26T12:00:55.158758+00:00", 4878, "Your mother is", "cookie-cutter", "Similar to: same", "Definition: having the same appearance (as if mass-produced)", ""]}
