@@ -1,1 +1,1 @@
-{"data": ["2022-08-26T00:05:33.372115+00:00", 4866, "Your mother is", "hemorrhagic", "Pronunciation: /\u02cch\u025bm\u0259\u02c8r\u00e6d\u0292\u026ak/", "Definition: of or relating to a hemorrhage", "Synonyms: haemorrhagic"]}
+{"data": ["2022-08-26T01:00:25.765127+00:00", 4867, "Your mother is", "uncompensated", "Pronunciation: /\u0259n\u02c8k\u0251mp\u025bn\u02ccse\u026at\u026ad/", "Definition: not paying a salary", "Synonyms: unsalaried"]}
