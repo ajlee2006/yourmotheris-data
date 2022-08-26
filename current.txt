@@ -1,1 +1,1 @@
-{"data": ["2022-08-26T21:01:21.554902+00:00", 4887, "Your mother is", "nonrepresentational", "Pronunciation: /\u02ccn\u0251nr\u025bpr\u026az\u025bn\u02c8te\u026a\u0283\u0259n\u0259l/", "Definition: of or relating to a style of art in which objects do not resemble those known in physical nature", ""]}
+{"data": ["2022-08-26T22:00:58.392862+00:00", 4888, "Your mother is", "deliberate", "Pronunciation: /d\u026a\u02c8l\u026ab\u0259r\u026at/", "Definition: characterized by conscious design or purpose", "Synonyms: intentional, knowing"]}
