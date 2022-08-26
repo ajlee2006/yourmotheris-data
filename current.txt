@@ -1,1 +1,1 @@
-{"data": ["2022-08-26T10:01:41.862748+00:00", 4876, "Your mother is", "cloggy", "Pronunciation: /\u02c8kl\u0251\u0261i/", "Definition: (used of soil) compact and fine-grained", "Synonyms: clayey, heavy"]}
+{"data": ["2022-08-26T11:01:20.622753+00:00", 4877, "Your mother is", "enate", "Pronunciation: /ine\u026at/", "Definition: related on the mother's side", "Synonyms: enatic, maternal"]}
