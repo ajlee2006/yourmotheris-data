@@ -1,1 +1,1 @@
-{"data": ["2022-08-26T03:01:25.802929+00:00", 4869, "Your mother is", "plumbous", "Pronunciation: /\u02c8pl\u0259mb\u0259s/", "Definition: relating to or consisting of lead", "Synonyms: plumbic"]}
+{"data": ["2022-08-26T04:01:32.010793+00:00", 4870, "Your mother is", "motivated", "Pronunciation: /\u02c8mo\u028at\u028c\u02ccve\u026at\u028cd/", "Definition: provided with a motive or given incentive for action", ""]}
