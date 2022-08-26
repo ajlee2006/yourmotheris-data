@@ -1,1 +1,1 @@
-{"data": ["2022-08-26T04:01:32.010793+00:00", 4870, "Your mother is", "motivated", "Pronunciation: /\u02c8mo\u028at\u028c\u02ccve\u026at\u028cd/", "Definition: provided with a motive or given incentive for action", ""]}
+{"data": ["2022-08-26T05:00:46.394369+00:00", 4871, "Your mother is", "tigerish", "Pronunciation: /\u02c8ta\u026a\u0261\u0259r\u026a\u0283/", "Definition: resembling a tiger in fierceness and lack of mercy", ""]}
