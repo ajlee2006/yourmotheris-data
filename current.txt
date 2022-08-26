@@ -1,1 +1,1 @@
-{"data": ["2022-08-26T15:00:50.890424+00:00", 4881, "Your mother is", "geomorphological", "Pronunciation: /\u02ccd\u0292i\u0259\u02ccm\u0254rph\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: pertaining to geological structure", "Synonyms: geomorphologic, morphologic, morphological, structural"]}
+{"data": ["2022-08-26T16:01:21.150469+00:00", 4882, "Your mother is", "tense", "Pronunciation: /t\u025bns/", "Definition: in or of a state of physical or nervous tension", ""]}
