@@ -1,1 +1,1 @@
-{"data": ["2022-08-26T20:00:48.552293+00:00", 4886, "Your mother is", "exploited", "Pronunciation: /\u02c8\u025bk\u02ccspl\u0254\u026at\u028cd/", "Definition: (of persons) taken advantage of", "Synonyms: ill-used, put-upon, used, victimised, victimized"]}
+{"data": ["2022-08-26T21:01:21.554902+00:00", 4887, "Your mother is", "nonrepresentational", "Pronunciation: /\u02ccn\u0251nr\u025bpr\u026az\u025bn\u02c8te\u026a\u0283\u0259n\u0259l/", "Definition: of or relating to a style of art in which objects do not resemble those known in physical nature", ""]}
