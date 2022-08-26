@@ -1,1 +1,1 @@
-{"data": ["2022-08-26T09:01:08.476317+00:00", 4875, "Your mother is", "reprehensible", "Pronunciation: /\u02ccr\u025bpr\u026a\u02c8h\u025bns\u0259b\u0259l/", "Definition: bringing or deserving severe rebuke or censure", "Synonyms: condemnable, criminal, deplorable, vicious"]}
+{"data": ["2022-08-26T10:01:41.862748+00:00", 4876, "Your mother is", "cloggy", "Pronunciation: /\u02c8kl\u0251\u0261i/", "Definition: (used of soil) compact and fine-grained", "Synonyms: clayey, heavy"]}
