@@ -1,1 +1,1 @@
-{"data": ["2022-08-26T05:00:46.394369+00:00", 4871, "Your mother is", "tigerish", "Pronunciation: /\u02c8ta\u026a\u0261\u0259r\u026a\u0283/", "Definition: resembling a tiger in fierceness and lack of mercy", ""]}
+{"data": ["2022-08-26T06:01:42.703649+00:00", 4872, "Your mother is", "slate-black", "Similar to: achromatic", "Definition: of a black tinged with slate-grey", ""]}
