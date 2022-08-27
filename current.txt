@@ -1,1 +1,1 @@
-{"data": ["2022-08-27T21:00:46.012732+00:00", 4911, "Your mother is", "computer readable", "", "Definition: suitable for feeding directly into a computer", "Synonyms: machine readable"]}
+{"data": ["2022-08-27T22:01:10.873296+00:00", 4912, "Your mother is", "oscitant", "Pronunciation: /\u02c8\u0251s\u026at\u0259nt/", "Definition: showing lack of attention or boredom", "Synonyms: drowsy, yawning"]}
