@@ -1,1 +1,1 @@
-{"data": ["2022-08-27T20:00:59.909381+00:00", 4910, "Your mother is", "cohesive", "Pronunciation: /ko\u028a\u02c8his\u026av/", "Definition: causing cohesion", ""]}
+{"data": ["2022-08-27T21:00:46.012732+00:00", 4911, "Your mother is", "computer readable", "", "Definition: suitable for feeding directly into a computer", "Synonyms: machine readable"]}
