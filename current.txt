@@ -1,1 +1,1 @@
-{"data": ["2022-08-27T14:01:27.586844+00:00", 4904, "Your mother is", "steadfast", "Pronunciation: /\u02c8st\u025bdf\u00e6st/", "Definition: firm and dependable especially in loyalty", "Synonyms: staunch, unswerving"]}
+{"data": ["2022-08-27T15:01:07.544717+00:00", 4905, "Your mother is", "outermost", "Pronunciation: /\u02c8a\u028at\u0259r\u02ccmo\u028ast/", "Definition: situated at the farthest possible point from a center", "Synonyms: outmost"]}
