@@ -1,1 +1,1 @@
-{"data": ["2022-08-27T03:00:51.415013+00:00", 4893, "Your mother is", "low", "Pronunciation: /lo\u028a/", "Definition: no longer sufficient", "Synonyms: depleted"]}
+{"data": ["2022-08-27T04:00:39.759686+00:00", 4894, "Your mother is", "rimmed", "Pronunciation: /r\u026amd/", "Definition: having a rim or a rim of a specified kind", ""]}
