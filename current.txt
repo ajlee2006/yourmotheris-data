@@ -1,1 +1,1 @@
-{"data": ["2022-08-27T19:01:07.749293+00:00", 4909, "Your mother is", "detested", "Pronunciation: /d\u026a\u02c8t\u025bst\u026ad/", "Definition: treated with dislike or contempt", "Synonyms: despised, hated, scorned"]}
+{"data": ["2022-08-27T20:00:59.909381+00:00", 4910, "Your mother is", "cohesive", "Pronunciation: /ko\u028a\u02c8his\u026av/", "Definition: causing cohesion", ""]}
