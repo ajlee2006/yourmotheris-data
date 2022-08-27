@@ -1,1 +1,1 @@
-{"data": ["2022-08-27T16:00:39.942173+00:00", 4906, "Your mother is", "wintry", "Pronunciation: /\u02c8w\u026antri/", "Definition: devoid of warmth and cordiality; expressive of unfriendliness or disdain", "Synonyms: frigid, frosty, frozen, glacial, icy"]}
+{"data": ["2022-08-27T17:00:20.375635+00:00", 4907, "Your mother is", "bigamous", "Pronunciation: /\u02c8b\u026a\u0261\u0259m\u0259s/", "Definition: of illegal marriage to a second person while legally married to a first", ""]}
