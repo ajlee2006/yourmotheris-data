@@ -1,1 +1,1 @@
-{"data": ["2022-08-28T05:00:44.676568+00:00", 4919, "Your mother is", "usual", "Pronunciation: /\u02c8ju\u0292u\u0259l/", "Definition: commonly encountered", "Synonyms: common"]}
+{"data": ["2022-08-28T06:00:21.589833+00:00", 4920, "Your mother is", "two-sided", "Pronunciation: /\u02c8tu-\u02c8sa\u026ad\u026ad/", "Definition: capable of being reversed or used with either side out", "Synonyms: reversible"]}
