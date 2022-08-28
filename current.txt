@@ -1,1 +1,1 @@
-{"data": ["2022-08-28T20:00:34.421440+00:00", 4934, "Your mother is", "latino", "Pronunciation: /l\u00e6\u02c8tino\u028a/", "Definition: related to a Spanish-speaking people or culture", "Synonyms: hispanic"]}
+{"data": ["2022-08-28T21:00:20.245000+00:00", 4935, "Your mother is", "wheel-like", "Similar to: circular", "Definition: round like a wheel", ""]}
