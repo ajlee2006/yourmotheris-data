@@ -1,1 +1,1 @@
-{"data": ["2022-08-28T11:00:14.516835+00:00", 4925, "Your mother is", "synthetic", "Pronunciation: /s\u026an\u02c8\u03b8\u025bt\u026ak/", "Definition: not of natural origin; prepared or made artificially", "Synonyms: man-made, semisynthetic"]}
+{"data": ["2022-08-28T12:00:46.935954+00:00", 4926, "Your mother is", "cataclinal", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8kla\u026an\u0259l/", "Definition: of valleys and rivers; running in the direction of the dip in surrounding rock strata", ""]}
