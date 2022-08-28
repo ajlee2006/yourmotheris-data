@@ -1,1 +1,1 @@
-{"data": ["2022-08-28T22:00:34.859700+00:00", 4936, "Your mother is", "basidiomycetous", "Pronunciation: /b\u0259\u02ccs\u026adio\u028ama\u026a\u02c8sit\u0259s/", "Definition: pertaining to or characteristic of fungi of the class Basidiomycetes", ""]}
+{"data": ["2022-08-28T23:00:28.356042+00:00", 4937, "Your mother is", "laggard", "Pronunciation: /\u02c8l\u00e6\u0261\u0259rd/", "Definition: wasting time", "Synonyms: dilatory, pokey, poky"]}
