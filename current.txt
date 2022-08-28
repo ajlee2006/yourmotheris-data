@@ -1,1 +1,1 @@
-{"data": ["2022-08-28T18:00:31.990985+00:00", 4932, "Your mother is", "instinct", "Pronunciation: /\u026an\u02c8st\u026a\u014bkt/", "Definition: (followed by `with') deeply filled or permeated", "Synonyms: replete"]}
+{"data": ["2022-08-28T19:01:26.567483+00:00", 4933, "Your mother is", "psychopathic", "Pronunciation: /\u02ccsa\u026ak\u028c\u02c8p\u00e6\u03b8\u026ak/", "Definition: suffering from an undiagnosed mental disorder", "Synonyms: psychopathologic, psychopathological"]}
