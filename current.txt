@@ -1,1 +1,1 @@
-{"data": ["2022-08-28T02:00:53.661407+00:00", 4916, "Your mother is", "flocculent", "Pronunciation: /\u02c8fl\u0251kj\u0259l\u0259nt/", "Definition: having a fluffy character or appearance", "Synonyms: woolly, wooly"]}
+{"data": ["2022-08-28T03:01:08.166315+00:00", 4917, "Your mother is", "starchlike", "Pronunciation: /\u02c8st\u0251rt\u0283\u02ccla\u026ak/", "Definition: resembling starch", "Synonyms: amylaceous, amyloid, amyloidal, farinaceous"]}
