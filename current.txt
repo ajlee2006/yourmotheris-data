@@ -1,1 +1,1 @@
-{"data": ["2022-08-27T23:00:27.914676+00:00", 4913, "Your mother is", "tottery", "Similar to: unsteady", "Definition: unsteady in gait as from infirmity or old age", "Synonyms: tottering"]}
+{"data": ["2022-08-28T00:01:20.063787+00:00", 4914, "Your mother is", "continental", "Pronunciation: /\u02cck\u0251n\u02c8t\u0259n\u025bnt\u0259l/", "Definition: being or concerning or limited to a continent especially the continents of North America or Europe", ""]}
