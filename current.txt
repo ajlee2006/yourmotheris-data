@@ -1,1 +1,1 @@
-{"data": ["2022-08-28T15:01:10.090578+00:00", 4929, "Your mother is", "endogenous", "Pronunciation: /\u025bn\u02c8d\u0251d\u0292\u0259n\u0259s/", "Definition: derived or originating internally", "Synonyms: endogenic"]}
+{"data": ["2022-08-28T16:00:37.631864+00:00", 4930, "Your mother is", "curly-coated", "Pronunciation: /\u02c8k\u025crli-\u02c8ko\u028at\u026ad/", "Definition: covered with curly hair", "Synonyms: curly-haired"]}
