@@ -1,1 +1,1 @@
-{"data": ["2022-08-28T21:00:20.245000+00:00", 4935, "Your mother is", "wheel-like", "Similar to: circular", "Definition: round like a wheel", ""]}
+{"data": ["2022-08-28T22:00:34.859700+00:00", 4936, "Your mother is", "basidiomycetous", "Pronunciation: /b\u0259\u02ccs\u026adio\u028ama\u026a\u02c8sit\u0259s/", "Definition: pertaining to or characteristic of fungi of the class Basidiomycetes", ""]}
