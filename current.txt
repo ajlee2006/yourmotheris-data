@@ -1,1 +1,1 @@
-{"data": ["2022-08-28T14:00:36.368236+00:00", 4928, "Your mother is", "bad", "Pronunciation: /b\u00e6d/", "Definition: very intense", "Synonyms: big"]}
+{"data": ["2022-08-28T15:01:10.090578+00:00", 4929, "Your mother is", "endogenous", "Pronunciation: /\u025bn\u02c8d\u0251d\u0292\u0259n\u0259s/", "Definition: derived or originating internally", "Synonyms: endogenic"]}
