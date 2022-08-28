@@ -1,1 +1,1 @@
-{"data": ["2022-08-28T00:01:20.063787+00:00", 4914, "Your mother is", "continental", "Pronunciation: /\u02cck\u0251n\u02c8t\u0259n\u025bnt\u0259l/", "Definition: being or concerning or limited to a continent especially the continents of North America or Europe", ""]}
+{"data": ["2022-08-28T01:00:43.577742+00:00", 4915, "Your mother is", "do-or-die", "Pronunciation: /\u02c8du\u0259r\u02c8da\u026a/", "Definition: desperately determined", "Synonyms: desperate"]}
