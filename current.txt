@@ -1,1 +1,1 @@
-{"data": ["2022-08-28T04:01:10.773592+00:00", 4918, "Your mother is", "cleavable", "Pronunciation: /\u02c8kliv\u0259b\u0259l/", "Definition: capable of being cleaved", ""]}
+{"data": ["2022-08-28T05:00:44.676568+00:00", 4919, "Your mother is", "usual", "Pronunciation: /\u02c8ju\u0292u\u0259l/", "Definition: commonly encountered", "Synonyms: common"]}
