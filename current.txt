@@ -1,1 +1,1 @@
-{"data": ["2022-08-29T15:01:05.926506+00:00", 4953, "Your mother is", "moonlit", "Pronunciation: /\u02c8mun\u02ccl\u026at/", "Definition: lighted by moonlight", "Synonyms: moony"]}
+{"data": ["2022-08-29T16:00:35.062575+00:00", 4954, "Your mother is", "vegetal", "Pronunciation: /\u02c8v\u025bd\u0292\u026at\u0259l/", "Definition: (of reproduction) characterized by asexual processes", "Synonyms: vegetative"]}
