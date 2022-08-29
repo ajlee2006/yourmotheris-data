@@ -1,1 +1,1 @@
-{"data": ["2022-08-29T08:00:36.110014+00:00", 4946, "Your mother is", "weakened", "Pronunciation: /\u02c8wik\u028cnd/", "Definition: damaged; used of inanimate objects or their value", "Synonyms: hurt"]}
+{"data": ["2022-08-29T09:00:40.299669+00:00", 4947, "Your mother is", "flatfooted", "Pronunciation: /\u02c8fl\u00e6t\u02c8f\u028at\u026ad/", "Definition: having broad flat feet that usually turn outward", "Synonyms: flat-footed"]}
