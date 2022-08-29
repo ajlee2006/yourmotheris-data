@@ -1,1 +1,1 @@
-{"data": ["2022-08-29T14:00:19.193083+00:00", 4952, "Your mother is", "discouraging", "Pronunciation: /d\u026a\u02c8sk\u025dr\u028cd\u0292\u026a\u014b/", "Definition: depriving of confidence or hope or enthusiasm and hence often deterring action", ""]}
+{"data": ["2022-08-29T15:01:05.926506+00:00", 4953, "Your mother is", "moonlit", "Pronunciation: /\u02c8mun\u02ccl\u026at/", "Definition: lighted by moonlight", "Synonyms: moony"]}
