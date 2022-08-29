@@ -1,1 +1,1 @@
-{"data": ["2022-08-29T09:00:40.299669+00:00", 4947, "Your mother is", "flatfooted", "Pronunciation: /\u02c8fl\u00e6t\u02c8f\u028at\u026ad/", "Definition: having broad flat feet that usually turn outward", "Synonyms: flat-footed"]}
+{"data": ["2022-08-29T10:00:50.362092+00:00", 4948, "Your mother is", "spry", "Pronunciation: /spra\u026a/", "Definition: moving quickly and lightly", "Synonyms: agile, nimble, quick"]}
