@@ -1,1 +1,1 @@
-{"data": ["2022-08-29T22:00:19.336884+00:00", 4960, "Your mother is", "leaf-like", "Similar to: leafy", "Definition: resembling a leaf", "Synonyms: leaflike"]}
+{"data": ["2022-08-29T23:01:00.911320+00:00", 4961, "Your mother is", "motile", "Pronunciation: /\u02c8mo\u028at\u0259l/", "Definition: (of spores or microorganisms) capable of movement", ""]}
