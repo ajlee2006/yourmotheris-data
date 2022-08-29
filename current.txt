@@ -1,1 +1,1 @@
-{"data": ["2022-08-29T10:00:50.362092+00:00", 4948, "Your mother is", "spry", "Pronunciation: /spra\u026a/", "Definition: moving quickly and lightly", "Synonyms: agile, nimble, quick"]}
+{"data": ["2022-08-29T11:01:00.199718+00:00", 4949, "Your mother is", "headlike", "Similar to: headed", "Definition: having a protuberance that resembles a head", ""]}
