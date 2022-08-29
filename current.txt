@@ -1,1 +1,1 @@
-{"data": ["2022-08-29T00:01:27.701235+00:00", 4938, "Your mother is", "hallucinatory", "Pronunciation: /h\u0259\u02c8lus\u0259n\u0259\u02ccto\u028ari/", "Definition: characterized by or characteristic of hallucination", ""]}
+{"data": ["2022-08-29T01:00:51.152620+00:00", 4939, "Your mother is", "uveous", "", "Definition: of or relating to the uvea of the eye", "Synonyms: uveal"]}
