@@ -1,1 +1,1 @@
-{"data": ["2022-08-29T03:00:27.190592+00:00", 4941, "Your mother is", "mussy", "Pronunciation: /\u02c8m\u0259si/", "Definition: dirty and disorderly", "Synonyms: messy"]}
+{"data": ["2022-08-29T04:00:30.301795+00:00", 4942, "Your mother is", "macrencephalous", "", "Definition: having a large brain case", "Synonyms: macrencephalic"]}
