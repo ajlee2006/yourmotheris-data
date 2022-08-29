@@ -1,1 +1,1 @@
-{"data": ["2022-08-29T06:00:22.615667+00:00", 4944, "Your mother is", "palish", "Pronunciation: /\u02c8pe\u026al\u026a\u0283/", "Definition: slightly pale", ""]}
+{"data": ["2022-08-29T07:00:27.590978+00:00", 4945, "Your mother is", "tipsy", "Pronunciation: /\u02c8t\u026apsi/", "Definition: slightly intoxicated", "Synonyms: potty, tiddly"]}
