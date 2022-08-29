@@ -1,1 +1,1 @@
-{"data": ["2022-08-29T07:00:27.590978+00:00", 4945, "Your mother is", "tipsy", "Pronunciation: /\u02c8t\u026apsi/", "Definition: slightly intoxicated", "Synonyms: potty, tiddly"]}
+{"data": ["2022-08-29T08:00:36.110014+00:00", 4946, "Your mother is", "weakened", "Pronunciation: /\u02c8wik\u028cnd/", "Definition: damaged; used of inanimate objects or their value", "Synonyms: hurt"]}
