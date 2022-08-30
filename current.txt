@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T22:00:19.640786+00:00", 4984, "Your mother is", "narrowed", "Pronunciation: /\u02c8n\u025bro\u028ad/", "Definition: made narrow; limited in breadth", ""]}
+{"data": ["2022-08-30T23:01:14.859056+00:00", 4985, "Your mother is", "goal-directed", "Similar to: purposeful", "Definition: having a purpose", "Synonyms: purposive"]}
