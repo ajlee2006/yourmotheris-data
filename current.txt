@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T11:00:21.542596+00:00", 4973, "Your mother is", "mediaeval", "Pronunciation: /\u02c8midi\u02c8iv\u0259l/", "Definition: relating to or belonging to the Middle Ages", "Synonyms: medieval"]}
+{"data": ["2022-08-30T12:01:20.894420+00:00", 4974, "Your mother is", "energizing", "Pronunciation: /\u02c8\u025bn\u025dr\u02ccd\u0292a\u026az\u026a\u014b/", "Definition: supplying motive force", "Synonyms: energising, kinetic"]}
