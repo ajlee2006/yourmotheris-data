@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T12:01:20.894420+00:00", 4974, "Your mother is", "energizing", "Pronunciation: /\u02c8\u025bn\u025dr\u02ccd\u0292a\u026az\u026a\u014b/", "Definition: supplying motive force", "Synonyms: energising, kinetic"]}
+{"data": ["2022-08-30T13:01:38.705506+00:00", 4975, "Your mother is", "cattish", "Pronunciation: /\u02c8k\u00e6t\u026a\u0283/", "Definition: marked by or arising from malice", "Synonyms: bitchy, catty"]}
