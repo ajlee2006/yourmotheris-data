@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T14:01:21.000355+00:00", 4976, "Your mother is", "workmanlike", "Pronunciation: /\u02c8w\u025crkm\u0259n\u02ccla\u026ak/", "Definition: worthy of a good workman", ""]}
+{"data": ["2022-08-30T15:00:33.334409+00:00", 4977, "Your mother is", "glassless", "", "Definition: not furnished with glass", "Synonyms: unglazed"]}
