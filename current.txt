@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T01:01:05.409112+00:00", 4963, "Your mother is", "behavioral", "Pronunciation: /b\u026a\u02c8he\u026avj\u025dr\u028cl/", "Definition: of or relating to behavior", "Synonyms: behavioural"]}
+{"data": ["2022-08-30T02:01:30.405501+00:00", 4964, "Your mother is", "viii", "Similar to: cardinal", "Definition: being one more than seven", "Synonyms: 8, eight"]}
