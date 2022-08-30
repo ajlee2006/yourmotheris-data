@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T20:00:30.320869+00:00", 4982, "Your mother is", "cliched", "Pronunciation: /\u02c8kli\u0283e\u026ad/", "Definition: repeated regularly without thought or originality", "Synonyms: ready-made"]}
+{"data": ["2022-08-30T21:00:22.669033+00:00", 4983, "Your mother is", "shuddering", "Pronunciation: /\u02c8\u0283\u0259d\u0259r\u026a\u014b/", "Definition: shaking convulsively or violently", ""]}
