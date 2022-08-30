@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T19:00:34.857322+00:00", 4981, "Your mother is", "missionary", "Pronunciation: /\u02c8m\u026a\u0283\u0259\u02ccn\u025bri/", "Definition: relating to or connected to a religious mission", "Synonyms: missional"]}
+{"data": ["2022-08-30T20:00:30.320869+00:00", 4982, "Your mother is", "cliched", "Pronunciation: /\u02c8kli\u0283e\u026ad/", "Definition: repeated regularly without thought or originality", "Synonyms: ready-made"]}
