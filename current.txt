@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T09:02:02.570088+00:00", 4971, "Your mother is", "polygenic", "Similar to: heritable", "Definition: of or relating to an inheritable character that is controlled by several genes at once; of or related to or determined by polygenes", ""]}
+{"data": ["2022-08-30T10:01:27.245689+00:00", 4972, "Your mother is", "unsanded", "Similar to: unfinished", "Definition: used of wood and furniture", "Synonyms: raw"]}
