@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T07:01:46.604247+00:00", 4969, "Your mother is", "fewer", "Pronunciation: /\u02c8fju\u0259r/", "Definition: (comparative of `few' used with count nouns) quantifier meaning a smaller number of", ""]}
+{"data": ["2022-08-30T08:01:47.073240+00:00", 4970, "Your mother is", "meretricious", "Pronunciation: /\u02ccm\u025br\u026a\u02c8tri\u0283\u0259s/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, gimcrack, loud, tacky, tatty, tawdry, trashy"]}
