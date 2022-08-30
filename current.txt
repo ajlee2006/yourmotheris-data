@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T08:01:47.073240+00:00", 4970, "Your mother is", "meretricious", "Pronunciation: /\u02ccm\u025br\u026a\u02c8tri\u0283\u0259s/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, gimcrack, loud, tacky, tatty, tawdry, trashy"]}
+{"data": ["2022-08-30T09:02:02.570088+00:00", 4971, "Your mother is", "polygenic", "Similar to: heritable", "Definition: of or relating to an inheritable character that is controlled by several genes at once; of or related to or determined by polygenes", ""]}
