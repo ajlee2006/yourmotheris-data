@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T18:01:13.909628+00:00", 4980, "Your mother is", "prickly-leafed", "Similar to: leafy", "Definition: having prickly leaves", "Synonyms: prickly-leaved"]}
+{"data": ["2022-08-30T19:00:34.857322+00:00", 4981, "Your mother is", "missionary", "Pronunciation: /\u02c8m\u026a\u0283\u0259\u02ccn\u025bri/", "Definition: relating to or connected to a religious mission", "Synonyms: missional"]}
