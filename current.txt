@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T21:00:22.669033+00:00", 4983, "Your mother is", "shuddering", "Pronunciation: /\u02c8\u0283\u0259d\u0259r\u026a\u014b/", "Definition: shaking convulsively or violently", ""]}
+{"data": ["2022-08-30T22:00:19.640786+00:00", 4984, "Your mother is", "narrowed", "Pronunciation: /\u02c8n\u025bro\u028ad/", "Definition: made narrow; limited in breadth", ""]}
