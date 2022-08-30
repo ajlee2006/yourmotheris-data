@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T03:00:57.122629+00:00", 4965, "Your mother is", "genial", "Pronunciation: /\u02c8d\u0292inj\u0259l/", "Definition: agreeable, conducive to comfort", "Synonyms: kind"]}
+{"data": ["2022-08-30T04:01:11.481610+00:00", 4966, "Your mother is", "stubby", "Pronunciation: /\u02c8st\u0259bi/", "Definition: short and blunt", ""]}
