@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T06:02:01.491386+00:00", 4968, "Your mother is", "grovelling", "Similar to: submissive", "Definition: totally submissive", "Synonyms: cringing, groveling, wormlike, wormy"]}
+{"data": ["2022-08-30T07:01:46.604247+00:00", 4969, "Your mother is", "fewer", "Pronunciation: /\u02c8fju\u0259r/", "Definition: (comparative of `few' used with count nouns) quantifier meaning a smaller number of", ""]}
