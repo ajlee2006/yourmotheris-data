@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T14:00:21.750832+00:00", 5000, "Your mother is", "foliose", "Pronunciation: /\u02c8fo\u028ali\u02cco\u028as/", "Definition: bearing numerous leaves", "Synonyms: foliaceous, foliaged"]}
+{"data": ["2022-08-31T15:01:39.525849+00:00", 5001, "Your mother is", "aboral", "Pronunciation: /\u00e6b\u02c8o\u028ar\u0259l/", "Definition: opposite to or away from the mouth", ""]}
