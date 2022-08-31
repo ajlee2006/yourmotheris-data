@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T19:00:47.995698+00:00", 5005, "Your mother is", "specious", "Pronunciation: /\u02c8spi\u0283\u0259s/", "Definition: plausible but false", "Synonyms: spurious"]}
+{"data": ["2022-08-31T20:01:33.759798+00:00", 5006, "Your mother is", "seismological", "", "Definition: of or concerned with seismology", "Synonyms: seismologic"]}
