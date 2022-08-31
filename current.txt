@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T01:01:10.299086+00:00", 4987, "Your mother is", "embossed", "Pronunciation: /\u026am\u02c8b\u0254st/", "Definition: embellished with a raised pattern created by pressure or embroidery", "Synonyms: brocaded, raised"]}
+{"data": ["2022-08-31T02:00:50.790969+00:00", 4988, "Your mother is", "modernised", "Similar to: progressive", "Definition: brought up to date", "Synonyms: modernized"]}
