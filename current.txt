@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T22:01:36.325332+00:00", 5008, "Your mother is", "fast", "Pronunciation: /f\u00e6st/", "Definition: unwavering in devotion to friend or vow or cause", "Synonyms: firm, loyal, truehearted"]}
+{"data": ["2022-08-31T23:00:19.054555+00:00", 5009, "Your mother is", "knightly", "Pronunciation: /\u02c8na\u026atli/", "Definition: being attentive to women like an ideal knight", "Synonyms: chivalrous, gallant"]}
