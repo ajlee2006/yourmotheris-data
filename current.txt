@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T10:00:56.613660+00:00", 4996, "Your mother is", "preset", "Pronunciation: /pri\u02c8s\u025bt/", "Definition: set in advance", "Synonyms: predetermined"]}
+{"data": ["2022-08-31T11:00:19.431296+00:00", 4997, "Your mother is", "unmitigated", "Pronunciation: /\u0259n\u02c8m\u026at\u0259\u02cc\u0261e\u026at\u026ad/", "Definition: not diminished or moderated in intensity or severity; sometimes used as an intensifier", ""]}
