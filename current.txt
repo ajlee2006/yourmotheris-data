@@ -1,1 +1,1 @@
-{"data": ["2022-08-30T23:01:14.859056+00:00", 4985, "Your mother is", "goal-directed", "Similar to: purposeful", "Definition: having a purpose", "Synonyms: purposive"]}
+{"data": ["2022-08-31T00:01:44.400394+00:00", 4986, "Your mother is", "ambiguous", "Pronunciation: /\u00e6m\u02c8b\u026a\u0261ju\u0259s/", "Definition: open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead", "Synonyms: equivocal"]}
