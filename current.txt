@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T03:00:29.596353+00:00", 4989, "Your mother is", "noncommittal", "Pronunciation: /\u02ccn\u0251nk\u0259\u02c8m\u026at\u0259l/", "Definition: refusing to bind oneself to a particular course of action or view or the like", ""]}
+{"data": ["2022-08-31T04:00:17.482432+00:00", 4990, "Your mother is", "saving", "Pronunciation: /\u02c8se\u026avi\u014b/", "Definition: bringing about salvation or redemption from sin", "Synonyms: redeeming, redemptive"]}
