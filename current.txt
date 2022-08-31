@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T17:01:08.315532+00:00", 5003, "Your mother is", "loath", "Pronunciation: /lo\u028a\u03b8/", "Definition: unwillingness to do something contrary to your custom", "Synonyms: loth, reluctant"]}
+{"data": ["2022-08-31T18:01:45.256014+00:00", 5004, "Your mother is", "polymorphic", "Pronunciation: /\u02ccp\u0251li\u02c8m\u0254rf\u026ak/", "Definition: relating to the crystallization of a compound in two or more different forms", "Synonyms: polymorphous"]}
