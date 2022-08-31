@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T16:00:47.019124+00:00", 5002, "Your mother is", "revolting", "Pronunciation: /r\u026a\u02c8vo\u028alt\u026a\u014b/", "Definition: highly offensive; arousing aversion or disgust", "Synonyms: disgustful, disgusting, distasteful, foul, loathly, loathsome, repellant, repellent, repelling, skanky, wicked, yucky"]}
+{"data": ["2022-08-31T17:01:08.315532+00:00", 5003, "Your mother is", "loath", "Pronunciation: /lo\u028a\u03b8/", "Definition: unwillingness to do something contrary to your custom", "Synonyms: loth, reluctant"]}
