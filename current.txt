@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T07:00:24.132284+00:00", 4993, "Your mother is", "avowed", "Pronunciation: /\u0259\u02c8va\u028ad/", "Definition: openly declared as such", "Synonyms: professed"]}
+{"data": ["2022-08-31T08:01:15.204850+00:00", 4994, "Your mother is", "renal", "Pronunciation: /\u02c8rin\u0259l/", "Definition: of or relating to the kidneys", "Synonyms: nephritic"]}
