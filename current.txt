@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T08:01:15.204850+00:00", 4994, "Your mother is", "renal", "Pronunciation: /\u02c8rin\u0259l/", "Definition: of or relating to the kidneys", "Synonyms: nephritic"]}
+{"data": ["2022-08-31T09:01:38.564589+00:00", 4995, "Your mother is", "supplicatory", "Pronunciation: /\u02c8s\u0259pl\u0259k\u0259\u02ccto\u028ari/", "Definition: humbly entreating", "Synonyms: suppliant, supplicant"]}
