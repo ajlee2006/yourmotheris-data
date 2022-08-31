@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T21:01:42.214890+00:00", 5007, "Your mother is", "unmedical", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: nonmedicinal, unmedicative, unmedicinal"]}
+{"data": ["2022-08-31T22:01:36.325332+00:00", 5008, "Your mother is", "fast", "Pronunciation: /f\u00e6st/", "Definition: unwavering in devotion to friend or vow or cause", "Synonyms: firm, loyal, truehearted"]}
