@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T09:01:38.564589+00:00", 4995, "Your mother is", "supplicatory", "Pronunciation: /\u02c8s\u0259pl\u0259k\u0259\u02ccto\u028ari/", "Definition: humbly entreating", "Synonyms: suppliant, supplicant"]}
+{"data": ["2022-08-31T10:00:56.613660+00:00", 4996, "Your mother is", "preset", "Pronunciation: /pri\u02c8s\u025bt/", "Definition: set in advance", "Synonyms: predetermined"]}
