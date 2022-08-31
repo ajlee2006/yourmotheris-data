@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T15:01:39.525849+00:00", 5001, "Your mother is", "aboral", "Pronunciation: /\u00e6b\u02c8o\u028ar\u0259l/", "Definition: opposite to or away from the mouth", ""]}
+{"data": ["2022-08-31T16:00:47.019124+00:00", 5002, "Your mother is", "revolting", "Pronunciation: /r\u026a\u02c8vo\u028alt\u026a\u014b/", "Definition: highly offensive; arousing aversion or disgust", "Synonyms: disgustful, disgusting, distasteful, foul, loathly, loathsome, repellant, repellent, repelling, skanky, wicked, yucky"]}
