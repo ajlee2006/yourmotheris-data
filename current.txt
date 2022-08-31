@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T20:01:33.759798+00:00", 5006, "Your mother is", "seismological", "", "Definition: of or concerned with seismology", "Synonyms: seismologic"]}
+{"data": ["2022-08-31T21:01:42.214890+00:00", 5007, "Your mother is", "unmedical", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: nonmedicinal, unmedicative, unmedicinal"]}
