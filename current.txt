@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T18:01:45.256014+00:00", 5004, "Your mother is", "polymorphic", "Pronunciation: /\u02ccp\u0251li\u02c8m\u0254rf\u026ak/", "Definition: relating to the crystallization of a compound in two or more different forms", "Synonyms: polymorphous"]}
+{"data": ["2022-08-31T19:00:47.995698+00:00", 5005, "Your mother is", "specious", "Pronunciation: /\u02c8spi\u0283\u0259s/", "Definition: plausible but false", "Synonyms: spurious"]}
