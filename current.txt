@@ -1,1 +1,1 @@
-{"data": ["2022-08-31T13:01:00.548797+00:00", 4999, "Your mother is", "unprepossessing", "Pronunciation: /\u02cc\u0259nprip\u0259\u02c8z\u025bsi\u014b/", "Definition: creating an unfavorable or neutral first impression", "Synonyms: unpresentable"]}
+{"data": ["2022-08-31T14:00:21.750832+00:00", 5000, "Your mother is", "foliose", "Pronunciation: /\u02c8fo\u028ali\u02cco\u028as/", "Definition: bearing numerous leaves", "Synonyms: foliaceous, foliaged"]}
