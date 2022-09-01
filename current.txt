@@ -1,1 +1,1 @@
-{"data": ["2022-09-01T19:01:15.396942+00:00", 5029, "Your mother is", "thundering", "Pronunciation: /\u02c8\u03b8\u0259nd\u0259r\u026a\u014b/", "Definition: extraordinarily big or impressive", ""]}
+{"data": ["2022-09-01T20:01:04.355390+00:00", 5030, "Your mother is", "functionally illiterate", "Similar to: illiterate", "Definition: having reading and writing skills insufficient for ordinary practical needs", ""]}
