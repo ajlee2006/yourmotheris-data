@@ -1,1 +1,1 @@
-{"data": ["2022-09-01T22:01:49.010992+00:00", 5032, "Your mother is", "key", "Pronunciation: /ki/", "Definition: serving as an essential component", "Synonyms: cardinal, central, fundamental, primal"]}
+{"data": ["2022-09-01T23:00:27.177200+00:00", 5033, "Your mother is", "starry", "Pronunciation: /\u02c8st\u0251ri/", "Definition: abounding with or resembling stars", ""]}
