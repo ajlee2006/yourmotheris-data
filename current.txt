@@ -1,1 +1,1 @@
-{"data": ["2022-09-01T07:01:48.797074+00:00", 5017, "Your mother is", "ad hoc", "Pronunciation: /\u00e6d-\u02c8h\u0251k/", "Definition: for or concerned with one specific purpose", ""]}
+{"data": ["2022-09-01T08:01:11.223856+00:00", 5018, "Your mother is", "slapstick", "Pronunciation: /\u02c8sl\u00e6p\u02ccst\u026ak/", "Definition: characterized by horseplay and physical action", ""]}
