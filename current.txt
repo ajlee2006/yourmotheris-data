@@ -1,1 +1,1 @@
-{"data": ["2022-09-01T11:00:32.070049+00:00", 5021, "Your mother is", "optical", "Pronunciation: /\u02c8\u0251pt\u026ak\u0259l/", "Definition: relating to or using sight", "Synonyms: ocular, optic, visual"]}
+{"data": ["2022-09-01T12:01:27.179882+00:00", 5022, "Your mother is", "jazzy", "Pronunciation: /\u02c8d\u0292\u00e6zi/", "Definition: (used especially of clothes) marked by conspicuous display", "Synonyms: flashy, gaudy, showy, sporty"]}
