@@ -1,1 +1,1 @@
-{"data": ["2022-09-01T06:00:26.948799+00:00", 5016, "Your mother is", "mucoid", "Pronunciation: /\u02c8mjuk\u0254\u026ad/", "Definition: relating to or resembling mucus", "Synonyms: mucoidal"]}
+{"data": ["2022-09-01T07:01:48.797074+00:00", 5017, "Your mother is", "ad hoc", "Pronunciation: /\u00e6d-\u02c8h\u0251k/", "Definition: for or concerned with one specific purpose", ""]}
