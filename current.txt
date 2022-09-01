@@ -1,1 +1,1 @@
-{"data": ["2022-09-01T09:01:20.175063+00:00", 5019, "Your mother is", "asymmetric", "Pronunciation: /\u02cce\u026as\u0259\u02c8m\u025btr\u026ak/", "Definition: characterized by asymmetry in the spatial arrangement or placement of parts or components", "Synonyms: asymmetrical"]}
+{"data": ["2022-09-01T10:01:39.346624+00:00", 5020, "Your mother is", "psychopathological", "Pronunciation: /\u02ccsa\u026ako\u028a\u02ccp\u00e6\u03b8\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: suffering from an undiagnosed mental disorder", "Synonyms: psychopathic, psychopathologic"]}
