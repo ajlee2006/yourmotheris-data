@@ -1,1 +1,1 @@
-{"data": ["2022-09-01T10:01:39.346624+00:00", 5020, "Your mother is", "psychopathological", "Pronunciation: /\u02ccsa\u026ako\u028a\u02ccp\u00e6\u03b8\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: suffering from an undiagnosed mental disorder", "Synonyms: psychopathic, psychopathologic"]}
+{"data": ["2022-09-01T11:00:32.070049+00:00", 5021, "Your mother is", "optical", "Pronunciation: /\u02c8\u0251pt\u026ak\u0259l/", "Definition: relating to or using sight", "Synonyms: ocular, optic, visual"]}
