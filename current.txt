@@ -1,1 +1,1 @@
-{"data": ["2022-09-01T13:00:35.274413+00:00", 5023, "Your mother is", "marbled", "Pronunciation: /\u02c8m\u0251rb\u028cld/", "Definition: patterned with veins or streaks or color resembling marble", "Synonyms: marbleised, marbleized"]}
+{"data": ["2022-09-01T14:01:09.969082+00:00", 5024, "Your mother is", "open-source", "", "Definition: of or relating to or being computer software for which the source code is freely available", ""]}
