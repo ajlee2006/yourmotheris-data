@@ -1,1 +1,1 @@
-{"data": ["2022-09-01T20:01:04.355390+00:00", 5030, "Your mother is", "functionally illiterate", "Similar to: illiterate", "Definition: having reading and writing skills insufficient for ordinary practical needs", ""]}
+{"data": ["2022-09-01T21:01:13.869986+00:00", 5031, "Your mother is", "lucifugal", "", "Definition: light-avoiding", "Synonyms: lucifugous"]}
