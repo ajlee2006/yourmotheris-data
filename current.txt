@@ -1,1 +1,1 @@
-{"data": ["2022-09-01T14:01:09.969082+00:00", 5024, "Your mother is", "open-source", "", "Definition: of or relating to or being computer software for which the source code is freely available", ""]}
+{"data": ["2022-09-01T15:00:30.836865+00:00", 5025, "Your mother is", "pawky", "Pronunciation: /\u02c8p\u0251ki/", "Definition: cunning and sly", ""]}
