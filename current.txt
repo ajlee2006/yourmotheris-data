@@ -1,1 +1,1 @@
-{"data": ["2022-09-01T08:01:11.223856+00:00", 5018, "Your mother is", "slapstick", "Pronunciation: /\u02c8sl\u00e6p\u02ccst\u026ak/", "Definition: characterized by horseplay and physical action", ""]}
+{"data": ["2022-09-01T09:01:20.175063+00:00", 5019, "Your mother is", "asymmetric", "Pronunciation: /\u02cce\u026as\u0259\u02c8m\u025btr\u026ak/", "Definition: characterized by asymmetry in the spatial arrangement or placement of parts or components", "Synonyms: asymmetrical"]}
