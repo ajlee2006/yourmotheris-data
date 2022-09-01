@@ -1,1 +1,1 @@
-{"data": ["2022-09-01T00:01:25.958535+00:00", 5010, "Your mother is", "reorganised", "Similar to: organized", "Definition: organized again", "Synonyms: reorganized"]}
+{"data": ["2022-09-01T01:02:18.204441+00:00", 5011, "Your mother is", "anticlimactical", "", "Definition: of or relating to a sudden change from an impressive to a ludicrous style", "Synonyms: anticlimactic"]}
