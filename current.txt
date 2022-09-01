@@ -1,1 +1,1 @@
-{"data": ["2022-09-01T16:00:21.915029+00:00", 5026, "Your mother is", "unreciprocated", "Pronunciation: /\u02cc\u0259nri\u02c8s\u026apr\u0259\u02ccke\u026at\u026ad/", "Definition: not returned in kind", "Synonyms: unanswered, unrequited"]}
+{"data": ["2022-09-01T17:00:49.964419+00:00", 5027, "Your mother is", "waiting", "Pronunciation: /\u02c8we\u026ati\u014b/", "Definition: being and remaining ready and available for use", "Synonyms: ready and waiting"]}
