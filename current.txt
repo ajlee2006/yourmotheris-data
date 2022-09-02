@@ -1,1 +1,1 @@
-{"data": ["2022-09-02T06:01:33.566059+00:00", 5040, "Your mother is", "detersive", "Pronunciation: /d\u026a\u02c8t\u025crs\u026av/", "Definition: having cleansing power", "Synonyms: detergent"]}
+{"data": ["2022-09-02T07:01:30.144720+00:00", 5041, "Your mother is", "useless", "Pronunciation: /\u02c8jusl\u026as/", "Definition: having no beneficial use or incapable of functioning usefully", ""]}
