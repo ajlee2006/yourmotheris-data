@@ -1,1 +1,1 @@
-{"data": ["2022-09-02T02:01:33.243133+00:00", 5036, "Your mother is", "pantheistic", "Pronunciation: /\u02ccp\u00e6n\u03b8i\u02c8\u026ast\u026ak/", "Definition: of or relating to pantheism", "Synonyms: pantheist"]}
+{"data": ["2022-09-02T03:01:22.367325+00:00", 5037, "Your mother is", "tongue-tied", "Pronunciation: /\u02c8t\u0259\u014b\u02ccta\u026ad/", "Definition: unable to express yourself clearly or fluently", "Synonyms: incoherent"]}
