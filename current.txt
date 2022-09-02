@@ -1,1 +1,1 @@
-{"data": ["2022-09-02T00:02:18.220419+00:00", 5034, "Your mother is", "on tap", "Similar to: available", "Definition: available for immediate use", ""]}
+{"data": ["2022-09-02T01:01:05.023972+00:00", 5035, "Your mother is", "preclinical", "Pronunciation: /pri\u02c8kl\u026an\u026ak\u0259l/", "Definition: of or relating to the early phases of a disease when accurate diagnosis is not possible because symptoms of the disease have not yet appeared", "Synonyms: presymptomatic"]}
