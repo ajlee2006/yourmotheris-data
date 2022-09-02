@@ -1,1 +1,1 @@
-{"data": ["2022-09-02T17:01:38.931932+00:00", 5051, "Your mother is", "autoecious", "Pronunciation: /\u0254\u02c8ti\u0283\u0259s/", "Definition: of parasites especially rust fungi; completing the entire life cycle on a single host", "Synonyms: homoecious"]}
+{"data": ["2022-09-02T18:00:46.290934+00:00", 5052, "Your mother is", "propitious", "Pronunciation: /pr\u0259\u02c8p\u026a\u0283\u0259s/", "Definition: presenting favorable circumstances; likely to result in or show signs of success", ""]}
