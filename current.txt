@@ -1,1 +1,1 @@
-{"data": ["2022-09-02T15:01:23.093715+00:00", 5049, "Your mother is", "undersize", "Pronunciation: /\u02c8\u0259nd\u0259r\u02c8sa\u026az/", "Definition: smaller than normal for its kind", "Synonyms: undersized"]}
+{"data": ["2022-09-02T16:01:44.322670+00:00", 5050, "Your mother is", "omnifarious", "Pronunciation: /\u02cc\u0251mn\u026a\u02c8f\u025cri\u0259s/", "Definition: of all varieties or forms or kinds", ""]}
