@@ -1,1 +1,1 @@
-{"data": ["2022-09-02T11:01:04.870817+00:00", 5045, "Your mother is", "affecting", "Pronunciation: /\u0259\u02c8f\u025bkt\u026a\u014b/", "Definition: arousing affect", "Synonyms: poignant, touching"]}
+{"data": ["2022-09-02T12:01:35.167718+00:00", 5046, "Your mother is", "motherlike", "Similar to: maternal", "Definition: suggestive of or acting like a mother", ""]}
