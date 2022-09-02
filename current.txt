@@ -1,1 +1,1 @@
-{"data": ["2022-09-02T22:01:46.192519+00:00", 5056, "Your mother is", "haggard", "Pronunciation: /\u02c8h\u00e6\u0261\u0259rd/", "Definition: very thin especially from disease or hunger or cold", "Synonyms: cadaverous, emaciated, gaunt, pinched, skeletal, wasted"]}
+{"data": ["2022-09-02T23:00:12.889375+00:00", 5057, "Your mother is", "flighty", "Pronunciation: /\u02c8fla\u026ati/", "Definition: unpredictably excitable (especially of horses)", "Synonyms: nervous, skittish, spooky"]}
