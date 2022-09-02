@@ -1,1 +1,1 @@
-{"data": ["2022-09-02T05:01:01.298337+00:00", 5039, "Your mother is", "phantasmagoric", "Pronunciation: /f\u00e6n\u02cct\u00e6zm\u0259\u02c8\u0261\u0254r\u026ak/", "Definition: characterized by fantastic imagery and incongruous juxtapositions", "Synonyms: phantasmagorical, surreal, surrealistic"]}
+{"data": ["2022-09-02T06:01:33.566059+00:00", 5040, "Your mother is", "detersive", "Pronunciation: /d\u026a\u02c8t\u025crs\u026av/", "Definition: having cleansing power", "Synonyms: detergent"]}
