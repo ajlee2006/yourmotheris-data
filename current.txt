@@ -1,1 +1,1 @@
-{"data": ["2022-09-01T23:00:27.177200+00:00", 5033, "Your mother is", "starry", "Pronunciation: /\u02c8st\u0251ri/", "Definition: abounding with or resembling stars", ""]}
+{"data": ["2022-09-02T00:02:18.220419+00:00", 5034, "Your mother is", "on tap", "Similar to: available", "Definition: available for immediate use", ""]}
