@@ -1,1 +1,1 @@
-{"data": ["2022-09-02T16:01:44.322670+00:00", 5050, "Your mother is", "omnifarious", "Pronunciation: /\u02cc\u0251mn\u026a\u02c8f\u025cri\u0259s/", "Definition: of all varieties or forms or kinds", ""]}
+{"data": ["2022-09-02T17:01:38.931932+00:00", 5051, "Your mother is", "autoecious", "Pronunciation: /\u0254\u02c8ti\u0283\u0259s/", "Definition: of parasites especially rust fungi; completing the entire life cycle on a single host", "Synonyms: homoecious"]}
