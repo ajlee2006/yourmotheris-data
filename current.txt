@@ -1,1 +1,1 @@
-{"data": ["2022-09-02T01:01:05.023972+00:00", 5035, "Your mother is", "preclinical", "Pronunciation: /pri\u02c8kl\u026an\u026ak\u0259l/", "Definition: of or relating to the early phases of a disease when accurate diagnosis is not possible because symptoms of the disease have not yet appeared", "Synonyms: presymptomatic"]}
+{"data": ["2022-09-02T02:01:33.243133+00:00", 5036, "Your mother is", "pantheistic", "Pronunciation: /\u02ccp\u00e6n\u03b8i\u02c8\u026ast\u026ak/", "Definition: of or relating to pantheism", "Synonyms: pantheist"]}
