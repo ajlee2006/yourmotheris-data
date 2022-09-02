@@ -1,1 +1,1 @@
-{"data": ["2022-09-02T04:00:51.886094+00:00", 5038, "Your mother is", "king-size", "Pronunciation: /k\u026a\u014b-sa\u026az/", "Definition: extra large", "Synonyms: king-sized"]}
+{"data": ["2022-09-02T05:01:01.298337+00:00", 5039, "Your mother is", "phantasmagoric", "Pronunciation: /f\u00e6n\u02cct\u00e6zm\u0259\u02c8\u0261\u0254r\u026ak/", "Definition: characterized by fantastic imagery and incongruous juxtapositions", "Synonyms: phantasmagorical, surreal, surrealistic"]}
