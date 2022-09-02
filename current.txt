@@ -1,1 +1,1 @@
-{"data": ["2022-09-02T09:01:16.590086+00:00", 5043, "Your mother is", "collectible", "Pronunciation: /k\u0259\u02c8l\u025bkt\u026ab\u0259l/", "Definition: subject to or requiring payment especially as specified", "Synonyms: collectable, payable"]}
+{"data": ["2022-09-02T10:00:11.792690+00:00", 5044, "Your mother is", "fine-grained", "Pronunciation: /fin-gre\u026and/", "Definition: dense or compact in structure or texture, as a wood composed of small-diameter cells", "Synonyms: close-grained"]}
