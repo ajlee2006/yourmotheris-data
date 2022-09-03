@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T21:01:27.297757+00:00", 5079, "Your mother is", "misanthropic", "Pronunciation: /\u02ccm\u026as\u0259n\u02c8\u03b8r\u0251p\u026ak/", "Definition: believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others", "Synonyms: cynical, misanthropical"]}
+{"data": ["2022-09-03T22:01:39.637059+00:00", 5080, "Your mother is", "sheepish", "Pronunciation: /\u02c8\u0283ip\u026a\u0283/", "Definition: showing a sense of shame", "Synonyms: shamefaced"]}
