@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T08:01:22.987656+00:00", 5066, "Your mother is", "accusive", "Similar to: inculpative", "Definition: containing or expressing accusation", "Synonyms: accusative, accusatory, accusing"]}
+{"data": ["2022-09-03T09:01:07.600311+00:00", 5067, "Your mother is", "lingulate", "Pronunciation: /\u02c8l\u026a\u014b\u0261j\u0259\u02ccle\u026at/", "Definition: shaped like a tongue", "Synonyms: tongue-shaped"]}
