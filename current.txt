@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T19:01:04.653564+00:00", 5077, "Your mother is", "disciplined", "Pronunciation: /\u02c8d\u026as\u028cpl\u028cnd/", "Definition: obeying the rules", ""]}
+{"data": ["2022-09-03T20:00:42.863136+00:00", 5078, "Your mother is", "corporate", "Pronunciation: /\u02c8k\u0254rp\u0259r\u026at/", "Definition: done by or characteristic of individuals acting together", "Synonyms: collective"]}
