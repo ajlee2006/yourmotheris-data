@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T14:00:21.018103+00:00", 5072, "Your mother is", "bright-red", "Similar to: chromatic", "Definition: of the red of fresh raspberries", "Synonyms: raspberry-red"]}
+{"data": ["2022-09-03T15:01:02.628368+00:00", 5073, "Your mother is", "chemic", "Pronunciation: /\u02c8k\u025bm\u026ak/", "Definition: relating to or used in chemistry", "Synonyms: chemical"]}
