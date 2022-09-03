@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T07:00:59.533074+00:00", 5065, "Your mother is", "surgical", "Pronunciation: /\u02c8s\u025crd\u0292\u026ak\u0259l/", "Definition: relating to or requiring or amenable to treatment by surgery especially as opposed to medicine", "Synonyms: operative"]}
+{"data": ["2022-09-03T08:01:22.987656+00:00", 5066, "Your mother is", "accusive", "Similar to: inculpative", "Definition: containing or expressing accusation", "Synonyms: accusative, accusatory, accusing"]}
