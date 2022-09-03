@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T16:01:02.822013+00:00", 5074, "Your mother is", "twin", "Pronunciation: /tw\u026an/", "Definition: being two identical", "Synonyms: duplicate, matching, twinned"]}
+{"data": ["2022-09-03T17:01:12.412967+00:00", 5075, "Your mother is", "disqualifying", "Pronunciation: /d\u026as\u02c8kw\u0251l\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: depriving of legal right; rendering legally disqualified", "Synonyms: disabling"]}
