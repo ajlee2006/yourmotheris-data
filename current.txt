@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T05:01:00.799236+00:00", 5063, "Your mother is", "braggy", "Similar to: proud", "Definition: exhibiting self-importance", "Synonyms: big, boastful, braggart, bragging, cock-a-hoop, crowing, self-aggrandising, self-aggrandizing"]}
+{"data": ["2022-09-03T06:00:30.090055+00:00", 5064, "Your mother is", "isochronal", "Pronunciation: /a\u026a\u02c8s\u0251kr\u0259n\u0259l/", "Definition: equal in duration or interval", "Synonyms: isochronous"]}
