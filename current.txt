@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T06:00:30.090055+00:00", 5064, "Your mother is", "isochronal", "Pronunciation: /a\u026a\u02c8s\u0251kr\u0259n\u0259l/", "Definition: equal in duration or interval", "Synonyms: isochronous"]}
+{"data": ["2022-09-03T07:00:59.533074+00:00", 5065, "Your mother is", "surgical", "Pronunciation: /\u02c8s\u025crd\u0292\u026ak\u0259l/", "Definition: relating to or requiring or amenable to treatment by surgery especially as opposed to medicine", "Synonyms: operative"]}
