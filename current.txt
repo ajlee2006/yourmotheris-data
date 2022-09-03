@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T00:01:52.700380+00:00", 5058, "Your mother is", "monaural", "Pronunciation: /m\u0251\u02c8n\u0251r\u0259l/", "Definition: relating to or having or hearing with only one ear", ""]}
+{"data": ["2022-09-03T01:00:21.831948+00:00", 5059, "Your mother is", "intolerant", "Pronunciation: /\u026an\u02c8t\u0251l\u0259r\u0259nt/", "Definition: narrow-minded about cherished opinions", "Synonyms: illiberal"]}
