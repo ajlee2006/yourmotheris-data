@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T03:01:48.239234+00:00", 5061, "Your mother is", "gold-colored", "Pronunciation: /\u0261o\u028ald-\u02c8k\u0259l\u0259rd/", "Definition: having the color of gold", "Synonyms: gold-coloured"]}
+{"data": ["2022-09-03T04:00:46.642980+00:00", 5062, "Your mother is", "catty-cornered", "Pronunciation: /\u02c8k\u00e6ti-\u02c8k\u0254rn\u0259rd/", "Definition: slanted across a polygon on a diagonal line", "Synonyms: cata-cornered, catacorner, cater-cornered, catercorner, catty-corner, kitty-corner, kitty-cornered"]}
