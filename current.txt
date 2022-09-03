@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T11:01:01.139831+00:00", 5069, "Your mother is", "bicephalous", "Pronunciation: /ba\u026a\u02c8s\u025bf\u0259l\u0259s/", "Definition: having two heads", ""]}
+{"data": ["2022-09-03T12:00:33.079376+00:00", 5070, "Your mother is", "nitwitted", "Pronunciation: /\u02c8n\u026atw\u026at\u026ad/", "Definition: (of especially persons) lacking sense or understanding or judgment", "Synonyms: senseless, soft-witted, witless"]}
