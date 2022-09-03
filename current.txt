@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T20:00:42.863136+00:00", 5078, "Your mother is", "corporate", "Pronunciation: /\u02c8k\u0254rp\u0259r\u026at/", "Definition: done by or characteristic of individuals acting together", "Synonyms: collective"]}
+{"data": ["2022-09-03T21:01:27.297757+00:00", 5079, "Your mother is", "misanthropic", "Pronunciation: /\u02ccm\u026as\u0259n\u02c8\u03b8r\u0251p\u026ak/", "Definition: believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others", "Synonyms: cynical, misanthropical"]}
