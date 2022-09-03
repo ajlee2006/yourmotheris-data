@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T09:01:07.600311+00:00", 5067, "Your mother is", "lingulate", "Pronunciation: /\u02c8l\u026a\u014b\u0261j\u0259\u02ccle\u026at/", "Definition: shaped like a tongue", "Synonyms: tongue-shaped"]}
+{"data": ["2022-09-03T10:01:40.844380+00:00", 5068, "Your mother is", "eighty", "Pronunciation: /\u02c8e\u026ati/", "Definition: being ten more than seventy", "Synonyms: 80, fourscore, lxxx"]}
