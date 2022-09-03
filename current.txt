@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T10:01:40.844380+00:00", 5068, "Your mother is", "eighty", "Pronunciation: /\u02c8e\u026ati/", "Definition: being ten more than seventy", "Synonyms: 80, fourscore, lxxx"]}
+{"data": ["2022-09-03T11:01:01.139831+00:00", 5069, "Your mother is", "bicephalous", "Pronunciation: /ba\u026a\u02c8s\u025bf\u0259l\u0259s/", "Definition: having two heads", ""]}
