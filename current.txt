@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T04:00:46.642980+00:00", 5062, "Your mother is", "catty-cornered", "Pronunciation: /\u02c8k\u00e6ti-\u02c8k\u0254rn\u0259rd/", "Definition: slanted across a polygon on a diagonal line", "Synonyms: cata-cornered, catacorner, cater-cornered, catercorner, catty-corner, kitty-corner, kitty-cornered"]}
+{"data": ["2022-09-03T05:01:00.799236+00:00", 5063, "Your mother is", "braggy", "Similar to: proud", "Definition: exhibiting self-importance", "Synonyms: big, boastful, braggart, bragging, cock-a-hoop, crowing, self-aggrandising, self-aggrandizing"]}
