@@ -1,1 +1,1 @@
-{"data": ["2022-09-03T18:00:55.567695+00:00", 5076, "Your mother is", "metallic-colored", "Similar to: colored", "Definition: having a metallic color", "Synonyms: metal-colored, metal-coloured, metallic-coloured"]}
+{"data": ["2022-09-03T19:01:04.653564+00:00", 5077, "Your mother is", "disciplined", "Pronunciation: /\u02c8d\u026as\u028cpl\u028cnd/", "Definition: obeying the rules", ""]}
