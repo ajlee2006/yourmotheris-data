@@ -1,1 +1,1 @@
-{"data": ["2022-09-04T05:02:06.561657+00:00", 5087, "Your mother is", "slavonic", "Pronunciation: /sl\u0259\u02c8v\u0251n\u026ak/", "Definition: of or relating to Slavic languages", "Synonyms: slavic"]}
+{"data": ["2022-09-04T06:02:10.096611+00:00", 5088, "Your mother is", "secure", "Pronunciation: /s\u026a\u02c8kj\u028ar/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, inviolable, strong, unassailable, unattackable"]}
