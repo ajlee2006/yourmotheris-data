@@ -1,1 +1,1 @@
-{"data": ["2022-09-04T17:01:12.673702+00:00", 5099, "Your mother is", "chisel-like", "Similar to: sharp", "Definition: resembling a chisel", ""]}
+{"data": ["2022-09-04T18:01:31.981026+00:00", 5100, "Your mother is", "silky-leaved", "Pronunciation: /\u02c8s\u026alki-livd/", "Definition: having glossy leaves", "Synonyms: silky-leafed"]}
