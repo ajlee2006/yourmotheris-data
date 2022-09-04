@@ -1,1 +1,1 @@
-{"data": ["2022-09-04T04:02:03.626363+00:00", 5086, "Your mother is", "precognitive", "Pronunciation: /pri\u02c8k\u0251gn\u026at\u026av/", "Definition: foreseeing the future", "Synonyms: clairvoyant, second-sighted"]}
+{"data": ["2022-09-04T05:02:06.561657+00:00", 5087, "Your mother is", "slavonic", "Pronunciation: /sl\u0259\u02c8v\u0251n\u026ak/", "Definition: of or relating to Slavic languages", "Synonyms: slavic"]}
