@@ -1,1 +1,1 @@
-{"data": ["2022-09-04T15:01:03.829301+00:00", 5097, "Your mother is", "self-appointed", "Pronunciation: /s\u025blf-\u0259\u02c8p\u0254\u026ant\u026ad/", "Definition: designated or chosen by yourself", ""]}
+{"data": ["2022-09-04T16:01:25.398446+00:00", 5098, "Your mother is", "fidgety", "Pronunciation: /\u02c8f\u026ad\u0292\u026ati/", "Definition: nervous and unable to relax", "Synonyms: antsy, fretful, itchy"]}
