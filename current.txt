@@ -1,1 +1,1 @@
-{"data": ["2022-09-04T12:00:44.499580+00:00", 5094, "Your mother is", "manageable", "Pronunciation: /\u02c8m\u00e6n\u026ad\u0292\u0259b\u0259l/", "Definition: capable of existing or taking place or proving true; possible to do", "Synonyms: accomplishable, achievable, doable, realizable"]}
+{"data": ["2022-09-04T13:01:42.691784+00:00", 5095, "Your mother is", "triclinic", "Pronunciation: /tra\u026a\u02c8kl\u026an\u026ak/", "Definition: having three unequal crystal axes intersecting at oblique angles", "Synonyms: anorthic"]}
