@@ -1,1 +1,1 @@
-{"data": ["2022-09-04T11:01:08.370895+00:00", 5093, "Your mother is", "sheltered", "Pronunciation: /\u02c8\u0283\u025blt\u025drd/", "Definition: protected from danger or bad weather", ""]}
+{"data": ["2022-09-04T12:00:44.499580+00:00", 5094, "Your mother is", "manageable", "Pronunciation: /\u02c8m\u00e6n\u026ad\u0292\u0259b\u0259l/", "Definition: capable of existing or taking place or proving true; possible to do", "Synonyms: accomplishable, achievable, doable, realizable"]}
