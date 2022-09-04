@@ -1,1 +1,1 @@
-{"data": ["2022-09-04T03:01:17.350058+00:00", 5085, "Your mother is", "intracellular", "Pronunciation: /\u02cc\u026antr\u0259\u02c8s\u025blj\u0259l\u0259r/", "Definition: located or occurring within a cell or cells", ""]}
+{"data": ["2022-09-04T04:02:03.626363+00:00", 5086, "Your mother is", "precognitive", "Pronunciation: /pri\u02c8k\u0251gn\u026at\u026av/", "Definition: foreseeing the future", "Synonyms: clairvoyant, second-sighted"]}
