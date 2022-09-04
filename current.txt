@@ -1,1 +1,1 @@
-{"data": ["2022-09-04T19:00:15.579442+00:00", 5101, "Your mother is", "underway", "Pronunciation: /\u02cc\u028cnd\u025dr\u02c8we\u026a/", "Definition: currently in progress", "Synonyms: afoot"]}
+{"data": ["2022-09-04T20:01:10.822872+00:00", 5102, "Your mother is", "sissy", "Pronunciation: /\u02c8s\u026asi/", "Definition: having unsuitable feminine qualities", "Synonyms: cissy, effeminate, emasculate, epicene, sissified, sissyish"]}
