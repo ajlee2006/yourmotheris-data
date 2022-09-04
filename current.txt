@@ -1,1 +1,1 @@
-{"data": ["2022-09-04T21:01:06.914216+00:00", 5103, "Your mother is", "run-of-the-mill", "Pronunciation: /\u02c8r\u0259n\u0259v\u00f0\u0259\u02c8m\u026al/", "Definition: not special in any way; lacking distinction", "Synonyms: mine run, run-of-the-mine, undistinguished, unexceptional"]}
+{"data": ["2022-09-04T22:00:57.033584+00:00", 5104, "Your mother is", "right-handed", "Pronunciation: /\u02c8ra\u026at\u02c8h\u00e6ndd\u026ad/", "Definition: rotating to the right", "Synonyms: dextrorotary, dextrorotatory"]}
