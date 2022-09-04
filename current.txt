@@ -1,1 +1,1 @@
-{"data": ["2022-09-04T16:01:25.398446+00:00", 5098, "Your mother is", "fidgety", "Pronunciation: /\u02c8f\u026ad\u0292\u026ati/", "Definition: nervous and unable to relax", "Synonyms: antsy, fretful, itchy"]}
+{"data": ["2022-09-04T17:01:12.673702+00:00", 5099, "Your mother is", "chisel-like", "Similar to: sharp", "Definition: resembling a chisel", ""]}
