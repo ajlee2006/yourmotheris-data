@@ -1,1 +1,1 @@
-{"data": ["2022-09-04T08:00:29.021346+00:00", 5090, "Your mother is", "quaternate", "Pronunciation: /\u02c8kw\u0251t\u0259r\u02ccne\u026at/", "Definition: consisting of or especially arranged in sets of four", "Synonyms: quaternary"]}
+{"data": ["2022-09-04T09:00:20.932081+00:00", 5091, "Your mother is", "meaningless", "Pronunciation: /\u02c8min\u026a\u014bl\u026as/", "Definition: having no meaning or direction or purpose", "Synonyms: nonmeaningful"]}
