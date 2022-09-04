@@ -1,1 +1,1 @@
-{"data": ["2022-09-04T13:01:42.691784+00:00", 5095, "Your mother is", "triclinic", "Pronunciation: /tra\u026a\u02c8kl\u026an\u026ak/", "Definition: having three unequal crystal axes intersecting at oblique angles", "Synonyms: anorthic"]}
+{"data": ["2022-09-04T14:01:41.530413+00:00", 5096, "Your mother is", "gregarious", "Pronunciation: /gr\u026a\u02c8\u0261\u025cri\u0259s/", "Definition: instinctively or temperamentally seeking and enjoying the company of others", ""]}
