@@ -1,1 +1,1 @@
-{"data": ["2022-09-05T03:01:47.167183+00:00", 5109, "Your mother is", "narcotized", "Similar to: drunk", "Definition: under the influence of narcotics", "Synonyms: doped, drugged, narcotised"]}
+{"data": ["2022-09-05T04:01:47.786997+00:00", 5110, "Your mother is", "twenty-seventh", "Pronunciation: /\u02c8tw\u025bnti-\u02c8s\u025bv\u0259n\u03b8/", "Definition: coming next after the twenty-sixth in position", "Synonyms: 27th"]}
