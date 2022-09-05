@@ -1,1 +1,1 @@
-{"data": ["2022-09-05T10:01:33.270142+00:00", 5116, "Your mother is", "maddening", "Pronunciation: /\u02c8m\u00e6d\u028cn\u026a\u014b/", "Definition: extremely annoying or displeasing", "Synonyms: exasperating, infuriating, vexing"]}
+{"data": ["2022-09-05T11:00:41.717198+00:00", 5117, "Your mother is", "frumpish", "Pronunciation: /\u02c8fr\u0259mp\u026a\u0283/", "Definition: primly out of date", "Synonyms: dowdy, frumpy"]}
