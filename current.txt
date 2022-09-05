@@ -1,1 +1,1 @@
-{"data": ["2022-09-05T11:00:41.717198+00:00", 5117, "Your mother is", "frumpish", "Pronunciation: /\u02c8fr\u0259mp\u026a\u0283/", "Definition: primly out of date", "Synonyms: dowdy, frumpy"]}
+{"data": ["2022-09-05T12:01:26.474123+00:00", 5118, "Your mother is", "asclepiadaceous", "Pronunciation: /\u0259\u02ccsklipi\u0259\u02c8de\u026a\u0283\u0259s/", "Definition: of or relating to plants of the milkweed family", ""]}
