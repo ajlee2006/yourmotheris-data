@@ -1,1 +1,1 @@
-{"data": ["2022-09-05T01:01:31.860984+00:00", 5107, "Your mother is", "pentangular", "Pronunciation: /p\u025bn\u02c8t\u00e6\u014b\u0261j\u0259l\u0259r/", "Definition: of or relating to or shaped like a pentagon", "Synonyms: pentagonal"]}
+{"data": ["2022-09-05T02:01:12.480189+00:00", 5108, "Your mother is", "favorable", "Pronunciation: /\u02c8fe\u026av\u0259r\u0259b\u0259l/", "Definition: presaging or likely to bring good luck or a good outcome", "Synonyms: favourable, golden, lucky, prosperous"]}
