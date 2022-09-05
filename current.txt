@@ -1,1 +1,1 @@
-{"data": ["2022-09-05T20:00:42.122407+00:00", 5126, "Your mother is", "ravishing", "Pronunciation: /\u02c8r\u00e6v\u026a\u0283\u026a\u014b/", "Definition: stunningly beautiful", ""]}
+{"data": ["2022-09-05T21:01:28.714675+00:00", 5127, "Your mother is", "defoliate", "Pronunciation: /di\u02c8fo\u028ali\u026at/", "Definition: deprived of leaves", "Synonyms: defoliated"]}
