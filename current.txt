@@ -1,1 +1,1 @@
-{"data": ["2022-09-05T19:00:35.495838+00:00", 5125, "Your mother is", "florid", "Pronunciation: /\u02c8fl\u0254r\u026ad/", "Definition: elaborately or excessively ornamented", "Synonyms: aureate, flamboyant"]}
+{"data": ["2022-09-05T20:00:42.122407+00:00", 5126, "Your mother is", "ravishing", "Pronunciation: /\u02c8r\u00e6v\u026a\u0283\u026a\u014b/", "Definition: stunningly beautiful", ""]}
