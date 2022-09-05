@@ -1,1 +1,1 @@
-{"data": ["2022-09-05T12:01:26.474123+00:00", 5118, "Your mother is", "asclepiadaceous", "Pronunciation: /\u0259\u02ccsklipi\u0259\u02c8de\u026a\u0283\u0259s/", "Definition: of or relating to plants of the milkweed family", ""]}
+{"data": ["2022-09-05T13:01:12.731584+00:00", 5119, "Your mother is", "worldly-wise", "Pronunciation: /\u02c8w\u025crldli-\u02c8wa\u026az/", "Definition: experienced in and wise to the ways of the world", ""]}
