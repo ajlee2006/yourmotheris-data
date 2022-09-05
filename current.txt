@@ -1,1 +1,1 @@
-{"data": ["2022-09-05T00:01:46.391274+00:00", 5106, "Your mother is", "seismologic", "Pronunciation: /\u02ccsa\u026azm\u0259\u02c8l\u0251d\u0292\u026ak/", "Definition: of or concerned with seismology", "Synonyms: seismological"]}
+{"data": ["2022-09-05T01:01:31.860984+00:00", 5107, "Your mother is", "pentangular", "Pronunciation: /p\u025bn\u02c8t\u00e6\u014b\u0261j\u0259l\u0259r/", "Definition: of or relating to or shaped like a pentagon", "Synonyms: pentagonal"]}
