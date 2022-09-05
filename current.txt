@@ -1,1 +1,1 @@
-{"data": ["2022-09-04T23:00:34.101394+00:00", 5105, "Your mother is", "homoerotic", "Pronunciation: /\u02ccho\u028amo\u028a\u026a\u02c8r\u0251t\u026ak/", "Definition: of or concerning homosexual love", ""]}
+{"data": ["2022-09-05T00:01:46.391274+00:00", 5106, "Your mother is", "seismologic", "Pronunciation: /\u02ccsa\u026azm\u0259\u02c8l\u0251d\u0292\u026ak/", "Definition: of or concerned with seismology", "Synonyms: seismological"]}
