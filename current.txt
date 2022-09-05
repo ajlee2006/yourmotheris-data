@@ -1,1 +1,1 @@
-{"data": ["2022-09-05T07:01:34.864937+00:00", 5113, "Your mother is", "crisscross", "Pronunciation: /\u02c8kr\u026as\u02cckr\u0254s/", "Definition: marked with crossing lines", "Synonyms: crisscrossed"]}
+{"data": ["2022-09-05T08:00:16.491880+00:00", 5114, "Your mother is", "full-face", "Similar to: forward", "Definition: looking forward", "Synonyms: gardant, guardant"]}
