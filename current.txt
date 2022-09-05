@@ -1,1 +1,1 @@
-{"data": ["2022-09-05T16:01:17.070229+00:00", 5122, "Your mother is", "unpretending", "Pronunciation: /\u02cc\u0259npri\u02c8t\u025bndi\u014b/", "Definition: not ostentatious", "Synonyms: unostentatious, unpretentious"]}
+{"data": ["2022-09-05T17:00:25.447677+00:00", 5123, "Your mother is", "romanticistic", "", "Definition: belonging to or characteristic of Romanticism or the Romantic Movement in the arts", "Synonyms: romantic, romanticist"]}
