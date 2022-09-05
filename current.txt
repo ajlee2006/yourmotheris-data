@@ -1,1 +1,1 @@
-{"data": ["2022-09-05T18:00:33.341599+00:00", 5124, "Your mother is", "beat-up", "Pronunciation: /bit-\u0259p/", "Definition: damaged by blows or hard usage", "Synonyms: battered, beaten-up"]}
+{"data": ["2022-09-05T19:00:35.495838+00:00", 5125, "Your mother is", "florid", "Pronunciation: /\u02c8fl\u0254r\u026ad/", "Definition: elaborately or excessively ornamented", "Synonyms: aureate, flamboyant"]}
