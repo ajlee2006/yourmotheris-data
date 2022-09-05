@@ -1,1 +1,1 @@
-{"data": ["2022-09-05T22:00:34.568829+00:00", 5128, "Your mother is", "cranky", "Pronunciation: /\u02c8kr\u00e6\u014bki/", "Definition: easily irritated or annoyed", "Synonyms: fractious, irritable, nettlesome, peckish, peevish, pettish, petulant, scratchy, techy, testy, tetchy"]}
+{"data": ["2022-09-05T23:00:15.056433+00:00", 5129, "Your mother is", "taciturn", "Pronunciation: /\u02c8t\u00e6s\u026a\u02cct\u025crn/", "Definition: habitually reserved and uncommunicative", ""]}
