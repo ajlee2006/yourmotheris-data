@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T07:01:19.329704+00:00", 5137, "Your mother is", "blue-ribbon", "Pronunciation: /\u02c8blu\u02c8r\u026ab\u0259n/", "Definition: selected or chosen for special qualifications", "Synonyms: select"]}
+{"data": ["2022-09-06T08:01:35.887765+00:00", 5138, "Your mother is", "unexpurgated", "Pronunciation: /\u0259n\u02c8\u025bksp\u0259\u02cc\u0261e\u026at\u026ad/", "Definition: not having material deleted", ""]}
