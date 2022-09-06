@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T00:02:17.522767+00:00", 5130, "Your mother is", "unlit", "Pronunciation: /\u0259n\u02c8l\u026at/", "Definition: not set afire or burning", "Synonyms: unlighted"]}
+{"data": ["2022-09-06T01:01:10.926037+00:00", 5131, "Your mother is", "dented", "Pronunciation: /\u02c8d\u025bnt\u026ad/", "Definition: of metal e.g.", "Synonyms: bent, crumpled"]}
