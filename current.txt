@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T04:00:55.136697+00:00", 5134, "Your mother is", "assailable", "Similar to: vulnerable", "Definition: not defended or capable of being defended", "Synonyms: open, undefendable, undefended"]}
+{"data": ["2022-09-06T05:01:14.187987+00:00", 5135, "Your mother is", "short-stalked", "Pronunciation: /\u0283\u0254rt-st\u0254kt/", "Definition: of plants having relatively short stalks", ""]}
