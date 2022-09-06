@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T06:01:45.681702+00:00", 5136, "Your mother is", "infective", "Pronunciation: /\u026an\u02c8f\u025bkt\u026av/", "Definition: caused by infection or capable of causing infection", "Synonyms: infectious"]}
+{"data": ["2022-09-06T07:01:19.329704+00:00", 5137, "Your mother is", "blue-ribbon", "Pronunciation: /\u02c8blu\u02c8r\u026ab\u0259n/", "Definition: selected or chosen for special qualifications", "Synonyms: select"]}
