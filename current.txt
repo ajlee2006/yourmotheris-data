@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T05:01:14.187987+00:00", 5135, "Your mother is", "short-stalked", "Pronunciation: /\u0283\u0254rt-st\u0254kt/", "Definition: of plants having relatively short stalks", ""]}
+{"data": ["2022-09-06T06:01:45.681702+00:00", 5136, "Your mother is", "infective", "Pronunciation: /\u026an\u02c8f\u025bkt\u026av/", "Definition: caused by infection or capable of causing infection", "Synonyms: infectious"]}
