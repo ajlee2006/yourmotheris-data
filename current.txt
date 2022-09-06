@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T15:01:43.706009+00:00", 5145, "Your mother is", "so-called", "Pronunciation: /\u02c8so\u028a\u02c8k\u0254ld/", "Definition: doubtful or suspect", "Synonyms: alleged, supposed"]}
+{"data": ["2022-09-06T16:00:19.629649+00:00", 5146, "Your mother is", "ominous", "Pronunciation: /\u02c8\u0251m\u0259n\u0259s/", "Definition: presaging ill fortune", "Synonyms: ill, inauspicious"]}
