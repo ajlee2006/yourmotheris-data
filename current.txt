@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T19:01:22.020711+00:00", 5149, "Your mother is", "unlucky", "Pronunciation: /\u0259n\u02c8l\u0259ki/", "Definition: marked by or promising bad fortune", "Synonyms: doomed, ill-fated, ill-omened, ill-starred"]}
+{"data": ["2022-09-06T20:00:28.563654+00:00", 5150, "Your mother is", "hit-and-run", "Pronunciation: /\u02c8h\u026at\u0259n\u02c8r\u0259n/", "Definition: designed for or consisting of a brief attack followed by a quick escape", "Synonyms: tip-and-run"]}
