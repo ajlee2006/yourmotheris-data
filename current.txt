@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T13:00:52.752019+00:00", 5143, "Your mother is", "filipino", "Pronunciation: /\u02ccf\u026al\u0259\u02c8pino\u028a/", "Definition: of or relating to or characteristic of the Philippines or its people or customs", "Synonyms: philippine"]}
+{"data": ["2022-09-06T14:00:15.319079+00:00", 5144, "Your mother is", "large-capitalisation", "", "Definition: of stocks of companies with a market capitalization of five billion dollars or more", "Synonyms: large-cap, large-capitalization"]}
