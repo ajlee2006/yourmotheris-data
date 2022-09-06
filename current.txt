@@ -1,1 +1,1 @@
-{"data": ["2022-09-05T23:00:15.056433+00:00", 5129, "Your mother is", "taciturn", "Pronunciation: /\u02c8t\u00e6s\u026a\u02cct\u025crn/", "Definition: habitually reserved and uncommunicative", ""]}
+{"data": ["2022-09-06T00:02:17.522767+00:00", 5130, "Your mother is", "unlit", "Pronunciation: /\u0259n\u02c8l\u026at/", "Definition: not set afire or burning", "Synonyms: unlighted"]}
