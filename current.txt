@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T20:00:28.563654+00:00", 5150, "Your mother is", "hit-and-run", "Pronunciation: /\u02c8h\u026at\u0259n\u02c8r\u0259n/", "Definition: designed for or consisting of a brief attack followed by a quick escape", "Synonyms: tip-and-run"]}
+{"data": ["2022-09-06T21:00:15.845376+00:00", 5151, "Your mother is", "lobster-backed", "Similar to: clad", "Definition: used of British soldiers during the American Revolutionary War because of their red coats", "Synonyms: red-coated"]}
