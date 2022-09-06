@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T18:01:13.415059+00:00", 5148, "Your mother is", "aryan", "Pronunciation: /\u02c8\u025cri\u0259n/", "Definition: of or relating to the former Indo-European people", "Synonyms: indo-aryan, indo-european"]}
+{"data": ["2022-09-06T19:01:22.020711+00:00", 5149, "Your mother is", "unlucky", "Pronunciation: /\u0259n\u02c8l\u0259ki/", "Definition: marked by or promising bad fortune", "Synonyms: doomed, ill-fated, ill-omened, ill-starred"]}
