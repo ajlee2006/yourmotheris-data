@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T10:01:28.963860+00:00", 5140, "Your mother is", "misshapen", "Pronunciation: /m\u026as\u02c8\u0283e\u026ap\u0259n/", "Definition: so badly formed or out of shape as to be ugly", "Synonyms: deformed, distorted, ill-shapen, malformed"]}
+{"data": ["2022-09-06T11:01:39.243305+00:00", 5141, "Your mother is", "amatory", "Pronunciation: /\u02c8\u00e6m\u0259\u02ccto\u028ari/", "Definition: expressive of or exciting sexual love or romance", "Synonyms: amorous, romantic"]}
