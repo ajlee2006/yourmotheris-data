@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T09:01:21.451545+00:00", 5139, "Your mother is", "narcotising", "Similar to: depressant", "Definition: inducing stupor or narcosis", "Synonyms: narcotic, narcotizing"]}
+{"data": ["2022-09-06T10:01:28.963860+00:00", 5140, "Your mother is", "misshapen", "Pronunciation: /m\u026as\u02c8\u0283e\u026ap\u0259n/", "Definition: so badly formed or out of shape as to be ugly", "Synonyms: deformed, distorted, ill-shapen, malformed"]}
