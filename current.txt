@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T12:00:44.519173+00:00", 5142, "Your mother is", "clean-cut", "Pronunciation: /klin-k\u0259t/", "Definition: neat and smart in appearance", "Synonyms: trig, trim"]}
+{"data": ["2022-09-06T13:00:52.752019+00:00", 5143, "Your mother is", "filipino", "Pronunciation: /\u02ccf\u026al\u0259\u02c8pino\u028a/", "Definition: of or relating to or characteristic of the Philippines or its people or customs", "Synonyms: philippine"]}
