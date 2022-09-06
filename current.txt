@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T08:01:35.887765+00:00", 5138, "Your mother is", "unexpurgated", "Pronunciation: /\u0259n\u02c8\u025bksp\u0259\u02cc\u0261e\u026at\u026ad/", "Definition: not having material deleted", ""]}
+{"data": ["2022-09-06T09:01:21.451545+00:00", 5139, "Your mother is", "narcotising", "Similar to: depressant", "Definition: inducing stupor or narcosis", "Synonyms: narcotic, narcotizing"]}
