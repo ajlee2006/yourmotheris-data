@@ -1,1 +1,1 @@
-{"data": ["2022-09-07T22:00:27.671041+00:00", 5175, "Your mother is", "scabrous", "Pronunciation: /\u02c8sk\u00e6br\u0259s/", "Definition: rough to the touch; covered with scales or scurf", "Synonyms: lepidote, leprose, scaly, scurfy"]}
+{"data": ["2022-09-07T23:00:50.217041+00:00", 5176, "Your mother is", "eponymic", "", "Definition: being or relating to or bearing the name of an eponym", "Synonyms: eponymous"]}
