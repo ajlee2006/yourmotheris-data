@@ -1,1 +1,1 @@
-{"data": ["2022-09-07T13:00:55.618138+00:00", 5166, "Your mother is", "star-shaped", "Pronunciation: /st\u0251r-\u0283e\u026apt/", "Definition: shaped like a star", "Synonyms: asteroid"]}
+{"data": ["2022-09-07T14:01:00.470543+00:00", 5167, "Your mother is", "like-minded", "Pronunciation: /\u02c8la\u026ak\u02c8ma\u026and\u026ad/", "Definition: of the same turn of mind", ""]}
