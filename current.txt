@@ -1,1 +1,1 @@
-{"data": ["2022-09-07T07:01:00.727426+00:00", 5160, "Your mother is", "engrossing", "Pronunciation: /\u025bn\u02c8gro\u028as\u026a\u014b/", "Definition: capable of arousing and holding the attention", "Synonyms: absorbing, fascinating, gripping, riveting"]}
+{"data": ["2022-09-07T08:01:21.655254+00:00", 5161, "Your mother is", "like", "Pronunciation: /la\u026ak/", "Definition: resembling or similar; having the same or some of the same characteristics; often used in combination", "Synonyms: similar"]}
