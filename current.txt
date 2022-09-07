@@ -1,1 +1,1 @@
-{"data": ["2022-09-07T19:01:13.081467+00:00", 5172, "Your mother is", "ranking", "Pronunciation: /\u02c8r\u00e6\u014bki\u014b/", "Definition: having a higher rank", "Synonyms: higher-ranking, superior"]}
+{"data": ["2022-09-07T20:01:11.834563+00:00", 5173, "Your mother is", "outsized", "Pronunciation: /\u02c8a\u028at\u02ccsa\u026azd/", "Definition: larger than normal for its kind", "Synonyms: outsize, oversize, oversized"]}
