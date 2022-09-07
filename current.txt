@@ -1,1 +1,1 @@
-{"data": ["2022-09-07T20:01:11.834563+00:00", 5173, "Your mother is", "outsized", "Pronunciation: /\u02c8a\u028at\u02ccsa\u026azd/", "Definition: larger than normal for its kind", "Synonyms: outsize, oversize, oversized"]}
+{"data": ["2022-09-07T21:01:11.041588+00:00", 5174, "Your mother is", "detergent", "Pronunciation: /d\u026a\u02c8t\u025crd\u0292\u0259nt/", "Definition: having cleansing power", "Synonyms: detersive"]}
