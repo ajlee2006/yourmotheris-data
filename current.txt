@@ -1,1 +1,1 @@
-{"data": ["2022-09-07T21:01:11.041588+00:00", 5174, "Your mother is", "detergent", "Pronunciation: /d\u026a\u02c8t\u025crd\u0292\u0259nt/", "Definition: having cleansing power", "Synonyms: detersive"]}
+{"data": ["2022-09-07T22:00:27.671041+00:00", 5175, "Your mother is", "scabrous", "Pronunciation: /\u02c8sk\u00e6br\u0259s/", "Definition: rough to the touch; covered with scales or scurf", "Synonyms: lepidote, leprose, scaly, scurfy"]}
