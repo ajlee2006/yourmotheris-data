@@ -1,1 +1,1 @@
-{"data": ["2022-09-07T05:00:51.227136+00:00", 5158, "Your mother is", "psychotherapeutic", "Pronunciation: /\u02ccsa\u026ako\u028a\u02cc\u03b8\u025br\u028c\u02c8pjut\u026ak/", "Definition: emotionally purging", "Synonyms: cathartic"]}
+{"data": ["2022-09-07T06:01:16.731164+00:00", 5159, "Your mother is", "wheezy", "Pronunciation: /\u02c8hwizi/", "Definition: having a tone of a reed instrument", "Synonyms: reedy"]}
