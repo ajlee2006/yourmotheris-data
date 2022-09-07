@@ -1,1 +1,1 @@
-{"data": ["2022-09-07T08:01:21.655254+00:00", 5161, "Your mother is", "like", "Pronunciation: /la\u026ak/", "Definition: resembling or similar; having the same or some of the same characteristics; often used in combination", "Synonyms: similar"]}
+{"data": ["2022-09-07T09:01:39.874821+00:00", 5162, "Your mother is", "accessory", "Pronunciation: /\u00e6k\u02c8s\u025bs\u0259ri/", "Definition: aiding and abetting in a crime", "Synonyms: accessary"]}
