@@ -1,1 +1,1 @@
-{"data": ["2022-09-07T18:00:35.903575+00:00", 5171, "Your mother is", "gawky", "Pronunciation: /\u02c8\u0261\u0254ki/", "Definition: lacking grace in movement or posture", "Synonyms: clumsy, clunky, ungainly, unwieldy"]}
+{"data": ["2022-09-07T19:01:13.081467+00:00", 5172, "Your mother is", "ranking", "Pronunciation: /\u02c8r\u00e6\u014bki\u014b/", "Definition: having a higher rank", "Synonyms: higher-ranking, superior"]}
