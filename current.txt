@@ -1,1 +1,1 @@
-{"data": ["2022-09-07T02:00:46.528556+00:00", 5155, "Your mother is", "self-sustained", "Similar to: unfueled", "Definition: needing no outside support", ""]}
+{"data": ["2022-09-07T03:01:02.276916+00:00", 5156, "Your mother is", "geared", "Pronunciation: /\u0261\u026ard/", "Definition: equipped with or connected by gears or having gears engaged", ""]}
