@@ -1,1 +1,1 @@
-{"data": ["2022-09-07T17:00:19.682201+00:00", 5170, "Your mother is", "fungoid", "Pronunciation: /\u02c8f\u0259\u014b\u0261\u0254\u026ad/", "Definition: resembling fungi", "Synonyms: funguslike"]}
+{"data": ["2022-09-07T18:00:35.903575+00:00", 5171, "Your mother is", "gawky", "Pronunciation: /\u02c8\u0261\u0254ki/", "Definition: lacking grace in movement or posture", "Synonyms: clumsy, clunky, ungainly, unwieldy"]}
