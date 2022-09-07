@@ -1,1 +1,1 @@
-{"data": ["2022-09-06T23:00:17.277550+00:00", 5152, "Your mother is", "ungraceful", "Pronunciation: /\u0259n\u02c8gre\u026asf\u0259l/", "Definition: lacking grace; clumsy", "Synonyms: graceless"]}
+{"data": ["2022-09-07T00:02:19.278450+00:00", 5153, "Your mother is", "stopped-up", "Similar to: obstructed", "Definition: (of a nose) blocked", "Synonyms: stopped, stopped up"]}
