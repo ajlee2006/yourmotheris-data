@@ -1,1 +1,1 @@
-{"data": ["2022-09-08T06:01:50.178294+00:00", 5183, "Your mother is", "salientian", "Pronunciation: /\u02ccse\u026ali\u02c8\u025bn\u0283i\u0259n/", "Definition: relating to frogs and toads", "Synonyms: anuran, batrachian"]}
+{"data": ["2022-09-08T07:01:31.529050+00:00", 5184, "Your mother is", "spider-shaped", "Similar to: formed", "Definition: shaped in the form of a spider", ""]}
