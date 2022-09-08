@@ -1,1 +1,1 @@
-{"data": ["2022-09-08T03:01:36.927337+00:00", 5180, "Your mother is", "pancake-like", "Similar to: circular", "Definition: resembling a pancake in shape", ""]}
+{"data": ["2022-09-08T04:01:11.399716+00:00", 5181, "Your mother is", "unaccommodating", "Similar to: disobliging", "Definition: not accommodating", "Synonyms: unobliging"]}
