@@ -1,1 +1,1 @@
-{"data": ["2022-09-08T18:00:44.584712+00:00", 5195, "Your mother is", "devilish", "Pronunciation: /\u02c8d\u025bv\u0259l\u026a\u0283/", "Definition: showing the cunning or ingenuity or wickedness typical of a devil", "Synonyms: diabolic, diabolical, mephistophelean, mephistophelian"]}
+{"data": ["2022-09-08T19:01:29.387029+00:00", 5196, "Your mother is", "flushed", "Pronunciation: /fl\u028c\u0283t/", "Definition: having the pinkish flush of health", "Synonyms: rose-cheeked, rosy, rosy-cheeked"]}
