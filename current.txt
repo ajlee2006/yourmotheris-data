@@ -1,1 +1,1 @@
-{"data": ["2022-09-08T13:00:12.419586+00:00", 5190, "Your mother is", "intensified", "Pronunciation: /\u026an\u02c8t\u025bns\u028c\u02ccfa\u026ad/", "Definition: made more intense", ""]}
+{"data": ["2022-09-08T14:01:18.497455+00:00", 5191, "Your mother is", "amentaceous", "Pronunciation: /\u02cc\u00e6m\u0259n\u02c8te\u026a\u0283\u0259s/", "Definition: (of plants) bearing or characterized by aments or catkins", "Synonyms: amentiferous"]}
