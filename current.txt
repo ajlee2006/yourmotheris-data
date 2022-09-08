@@ -1,1 +1,1 @@
-{"data": ["2022-09-08T05:00:47.597021+00:00", 5182, "Your mother is", "purple-flowered", "Pronunciation: /\u02c8p\u025crp\u0259l-\u02c8fla\u028a\u0259rd/", "Definition: having purple flowers", ""]}
+{"data": ["2022-09-08T06:01:50.178294+00:00", 5183, "Your mother is", "salientian", "Pronunciation: /\u02ccse\u026ali\u02c8\u025bn\u0283i\u0259n/", "Definition: relating to frogs and toads", "Synonyms: anuran, batrachian"]}
