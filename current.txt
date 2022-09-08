@@ -1,1 +1,1 @@
-{"data": ["2022-09-08T09:00:52.085880+00:00", 5186, "Your mother is", "subsurface", "Pronunciation: /\u02c8s\u028cb\u02ccs\u025drf\u028cs/", "Definition: beneath the surface", ""]}
+{"data": ["2022-09-08T10:01:29.359480+00:00", 5187, "Your mother is", "bad", "Pronunciation: /b\u00e6d/", "Definition: very intense", "Synonyms: big"]}
