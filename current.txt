@@ -1,1 +1,1 @@
-{"data": ["2022-09-08T10:01:29.359480+00:00", 5187, "Your mother is", "bad", "Pronunciation: /b\u00e6d/", "Definition: very intense", "Synonyms: big"]}
+{"data": ["2022-09-08T11:00:25.198823+00:00", 5188, "Your mother is", "unuttered", "Pronunciation: /\u0259n\u02c8\u0259t\u0259d/", "Definition: not made explicit", "Synonyms: unexpressed, unsaid, unspoken, unstated, unverbalised, unverbalized, unvoiced"]}
