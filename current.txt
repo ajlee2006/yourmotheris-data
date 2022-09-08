@@ -1,1 +1,1 @@
-{"data": ["2022-09-08T20:01:27.393928+00:00", 5197, "Your mother is", "disadvantageous", "Pronunciation: /d\u026as\u02cc\u00e6dv\u0259n\u02c8te\u026ad\u0292\u0259s/", "Definition: involving or creating circumstances detrimental to success or effectiveness", "Synonyms: unfavorable, unfavourable"]}
+{"data": ["2022-09-08T21:01:04.212105+00:00", 5198, "Your mother is", "informatory", "Pronunciation: /\u026an\u02c8f\u0254rm\u0259\u02ccto\u028ari/", "Definition: providing or conveying information", "Synonyms: informative"]}
