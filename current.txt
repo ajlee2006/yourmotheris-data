@@ -1,1 +1,1 @@
-{"data": ["2022-09-07T23:00:50.217041+00:00", 5176, "Your mother is", "eponymic", "", "Definition: being or relating to or bearing the name of an eponym", "Synonyms: eponymous"]}
+{"data": ["2022-09-08T00:02:09.814766+00:00", 5177, "Your mother is", "hydroponic", "Pronunciation: /\u02ccha\u026adr\u028c\u02c8p\u0251n\u026ak/", "Definition: of or relating to aquiculture", "Synonyms: aquacultural, aquicultural"]}
