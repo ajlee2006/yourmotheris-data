@@ -1,1 +1,1 @@
-{"data": ["2022-09-08T15:01:35.542944+00:00", 5192, "Your mother is", "blackish-red", "Similar to: chromatic", "Definition: of red tinged with black", ""]}
+{"data": ["2022-09-08T16:01:37.626802+00:00", 5193, "Your mother is", "inhumed", "Similar to: belowground", "Definition: placed in a grave", "Synonyms: buried, interred"]}
