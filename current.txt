@@ -1,1 +1,1 @@
-{"data": ["2022-09-08T08:01:32.611560+00:00", 5185, "Your mother is", "suprasegmental", "Pronunciation: /\u02ccsupr\u0259s\u025b\u0261\u02c8m\u025bnt\u0259l/", "Definition: pertaining to a feature of speech that extends over more than a single speech sound", ""]}
+{"data": ["2022-09-08T09:00:52.085880+00:00", 5186, "Your mother is", "subsurface", "Pronunciation: /\u02c8s\u028cb\u02ccs\u025drf\u028cs/", "Definition: beneath the surface", ""]}
