@@ -1,1 +1,1 @@
-{"data": ["2022-09-08T16:01:37.626802+00:00", 5193, "Your mother is", "inhumed", "Similar to: belowground", "Definition: placed in a grave", "Synonyms: buried, interred"]}
+{"data": ["2022-09-08T17:01:45.703263+00:00", 5194, "Your mother is", "uncanny", "Pronunciation: /\u0259n\u02c8k\u00e6ni/", "Definition: suggesting the operation of supernatural influences", "Synonyms: eldritch, unearthly, weird"]}
