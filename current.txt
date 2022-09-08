@@ -1,1 +1,1 @@
-{"data": ["2022-09-08T17:01:45.703263+00:00", 5194, "Your mother is", "uncanny", "Pronunciation: /\u0259n\u02c8k\u00e6ni/", "Definition: suggesting the operation of supernatural influences", "Synonyms: eldritch, unearthly, weird"]}
+{"data": ["2022-09-08T18:00:44.584712+00:00", 5195, "Your mother is", "devilish", "Pronunciation: /\u02c8d\u025bv\u0259l\u026a\u0283/", "Definition: showing the cunning or ingenuity or wickedness typical of a devil", "Synonyms: diabolic, diabolical, mephistophelean, mephistophelian"]}
