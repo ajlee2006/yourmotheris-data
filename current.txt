@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T21:00:45.235897+00:00", 5221, "Your mother is", "better-known", "Pronunciation: /\u02c8b\u025bt\u0259r-no\u028an/", "Definition: more familiar or renowned than the other of two", ""]}
+{"data": ["2022-09-09T22:00:41.369796+00:00", 5222, "Your mother is", "free-swimming", "Pronunciation: /\u02c8fri\u02c8sw\u026am\u026a\u014b/", "Definition: (of animals) able to swim about; not attached", "Synonyms: unattached"]}
