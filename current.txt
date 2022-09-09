@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T07:01:38.895878+00:00", 5208, "Your mother is", "insusceptible", "Pronunciation: /\u02cc\u026ans\u0259\u02c8s\u025bpt\u0259b\u0259l/", "Definition: not susceptible to", "Synonyms: unsusceptible"]}
+{"data": ["2022-09-09T08:01:04.450619+00:00", 5209, "Your mother is", "marooned", "Pronunciation: /m\u025dr\u02c8und/", "Definition: cut off or left behind", "Synonyms: isolated, stranded"]}
