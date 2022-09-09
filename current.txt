@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T16:00:59.240427+00:00", 5217, "Your mother is", "coiling", "Similar to: coiled", "Definition: in the shape of a coil", "Synonyms: helical, spiral, spiraling, turbinate, volute, voluted, whorled"]}
+{"data": ["2022-09-09T17:00:58.256472+00:00", 5218, "Your mother is", "non-water-soluble", "Similar to: indissoluble", "Definition: not soluble in water", "Synonyms: water-insoluble"]}
