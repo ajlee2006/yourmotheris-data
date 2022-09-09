@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T06:01:02.528413+00:00", 5207, "Your mother is", "recovering", "Pronunciation: /r\u028c\u02c8k\u028cv\u025dr\u026a\u014b/", "Definition: returning to health after illness or debility", "Synonyms: convalescent"]}
+{"data": ["2022-09-09T07:01:38.895878+00:00", 5208, "Your mother is", "insusceptible", "Pronunciation: /\u02cc\u026ans\u0259\u02c8s\u025bpt\u0259b\u0259l/", "Definition: not susceptible to", "Synonyms: unsusceptible"]}
