@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T08:01:04.450619+00:00", 5209, "Your mother is", "marooned", "Pronunciation: /m\u025dr\u02c8und/", "Definition: cut off or left behind", "Synonyms: isolated, stranded"]}
+{"data": ["2022-09-09T09:01:43.131147+00:00", 5210, "Your mother is", "manichean", "Pronunciation: /\u02ccm\u00e6n\u0259\u02c8ki\u0259n/", "Definition: of or relating to Manichaeism", "Synonyms: manichaean, manichee"]}
