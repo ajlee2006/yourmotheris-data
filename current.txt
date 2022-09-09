@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T03:01:32.441332+00:00", 5204, "Your mother is", "baccivorous", "Pronunciation: /b\u00e6k\u02c8s\u026av\u0259r\u0259s/", "Definition: feeding on berries", ""]}
+{"data": ["2022-09-09T04:00:58.724986+00:00", 5205, "Your mother is", "snuff-brown", "Similar to: chromatic", "Definition: snuff colored; of a greyish to yellowish brown", "Synonyms: chukker-brown, mummy-brown, snuff"]}
