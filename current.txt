@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T05:01:35.257405+00:00", 5206, "Your mother is", "well-shaven", "Pronunciation: /w\u025bl-\u02c8\u0283e\u026av\u0259n/", "Definition: closely shaved recently", "Synonyms: clean-shaven, smooth-shaven"]}
+{"data": ["2022-09-09T06:01:02.528413+00:00", 5207, "Your mother is", "recovering", "Pronunciation: /r\u028c\u02c8k\u028cv\u025dr\u026a\u014b/", "Definition: returning to health after illness or debility", "Synonyms: convalescent"]}
