@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T10:01:44.173935+00:00", 5211, "Your mother is", "cheering", "Pronunciation: /\u02c8t\u0283\u026ar\u026a\u014b/", "Definition: providing freedom from worry", "Synonyms: comforting, satisfying"]}
+{"data": ["2022-09-09T11:00:58.298084+00:00", 5212, "Your mother is", "convincing", "Pronunciation: /k\u0259n\u02c8v\u026ansi\u014b/", "Definition: causing one to believe the truth of something", ""]}
