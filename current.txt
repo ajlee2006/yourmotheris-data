@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T22:00:41.369796+00:00", 5222, "Your mother is", "free-swimming", "Pronunciation: /\u02c8fri\u02c8sw\u026am\u026a\u014b/", "Definition: (of animals) able to swim about; not attached", "Synonyms: unattached"]}
+{"data": ["2022-09-09T23:00:24.746188+00:00", 5223, "Your mother is", "antimonious", "Pronunciation: /\u02cc\u00e6nt\u0259\u02c8mo\u028ani\u0259s/", "Definition: relating to or derived from antimony", "Synonyms: antimonic"]}
