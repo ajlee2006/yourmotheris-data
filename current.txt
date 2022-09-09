@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T13:01:39.407012+00:00", 5214, "Your mother is", "rabbit-sized", "Similar to: sized", "Definition: having the approximate size of a rabbit", ""]}
+{"data": ["2022-09-09T14:01:25.888555+00:00", 5215, "Your mother is", "arenaceous", "Pronunciation: /\u02cc\u00e6r\u0259\u02c8ne\u026a\u0283\u0259s/", "Definition: resembling or containing or abounding in sand; or growing in sandy areas", "Synonyms: sandlike, sandy"]}
