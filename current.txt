@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T20:01:18.121164+00:00", 5220, "Your mother is", "zoophagous", "Similar to: carnivorous", "Definition: (of animals) carnivorous", "Synonyms: flesh-eating, meat-eating"]}
+{"data": ["2022-09-09T21:00:45.235897+00:00", 5221, "Your mother is", "better-known", "Pronunciation: /\u02c8b\u025bt\u0259r-no\u028an/", "Definition: more familiar or renowned than the other of two", ""]}
