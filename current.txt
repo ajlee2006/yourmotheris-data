@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T11:00:58.298084+00:00", 5212, "Your mother is", "convincing", "Pronunciation: /k\u0259n\u02c8v\u026ansi\u014b/", "Definition: causing one to believe the truth of something", ""]}
+{"data": ["2022-09-09T12:00:59.410995+00:00", 5213, "Your mother is", "neurological", "Pronunciation: /\u02ccn\u028ar\u028c\u02c8l\u0251d\u0292\u026ak\u028cl/", "Definition: of or relating to or used in or practicing neurology", "Synonyms: neurologic"]}
