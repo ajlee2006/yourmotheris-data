@@ -1,1 +1,1 @@
-{"data": ["2022-09-08T23:00:53.995497+00:00", 5200, "Your mother is", "clear-cut", "Pronunciation: /klir-k\u0259t/", "Definition: clearly or sharply defined to the mind", "Synonyms: distinct, trenchant"]}
+{"data": ["2022-09-09T00:01:35.372936+00:00", 5201, "Your mother is", "bribable", "Similar to: corrupt", "Definition: capable of being corrupted", "Synonyms: corruptible, dishonest, purchasable, venal"]}
