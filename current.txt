@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T18:01:06.353714+00:00", 5218, "Your mother is", "coseismal", "Pronunciation: /ko\u028a\u02c8sa\u026asm\u0259l/", "Definition: being where earthquake waves arrive simultaneously", "Synonyms: coseismic"]}
+{"data": ["2022-09-09T19:00:53.440939+00:00", 5219, "Your mother is", "unexploded", "Pronunciation: /\u02cc\u028cn\u026ak\u02c8splo\u028ad\u026ad/", "Definition: still capable of exploding or being fired", "Synonyms: undischarged"]}
