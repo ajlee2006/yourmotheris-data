@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T19:00:53.440939+00:00", 5219, "Your mother is", "unexploded", "Pronunciation: /\u02cc\u028cn\u026ak\u02c8splo\u028ad\u026ad/", "Definition: still capable of exploding or being fired", "Synonyms: undischarged"]}
+{"data": ["2022-09-09T20:01:18.121164+00:00", 5220, "Your mother is", "zoophagous", "Similar to: carnivorous", "Definition: (of animals) carnivorous", "Synonyms: flesh-eating, meat-eating"]}
