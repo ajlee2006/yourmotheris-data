@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T15:00:50.179266+00:00", 5216, "Your mother is", "nonterritorial", "", "Definition: not displaying territoriality", ""]}
+{"data": ["2022-09-09T16:00:59.240427+00:00", 5217, "Your mother is", "coiling", "Similar to: coiled", "Definition: in the shape of a coil", "Synonyms: helical, spiral, spiraling, turbinate, volute, voluted, whorled"]}
