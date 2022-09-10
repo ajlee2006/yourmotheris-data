@@ -1,1 +1,1 @@
-{"data": ["2022-09-09T23:00:24.746188+00:00", 5223, "Your mother is", "antimonious", "Pronunciation: /\u02cc\u00e6nt\u0259\u02c8mo\u028ani\u0259s/", "Definition: relating to or derived from antimony", "Synonyms: antimonic"]}
+{"data": ["2022-09-10T00:02:11.342413+00:00", 5224, "Your mother is", "45", "Similar to: cardinal", "Definition: being five more than forty", "Synonyms: forty-five, xlv"]}
