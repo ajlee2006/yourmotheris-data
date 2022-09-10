@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T13:01:13.178409+00:00", 5237, "Your mother is", "recent", "Pronunciation: /\u02c8ric\u0259nt/", "Definition: of the immediate past or just previous to the present time", "Synonyms: late"]}
+{"data": ["2022-09-10T14:01:19.579438+00:00", 5238, "Your mother is", "saturnine", "Pronunciation: /\u02c8s\u00e6t\u0259r\u02ccna\u026an/", "Definition: showing a brooding ill humor", "Synonyms: dark, dour, glowering, glum, moody, morose, sour, sullen"]}
