@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T15:00:32.833672+00:00", 5239, "Your mother is", "aneurysmatic", "", "Definition: relating to or affected by an aneurysm", "Synonyms: aneurismal, aneurismatic, aneurysmal"]}
+{"data": ["2022-09-10T16:01:08.257847+00:00", 5240, "Your mother is", "supposed", "Pronunciation: /s\u0259\u02c8po\u028azd/", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetic, hypothetical, suppositional, suppositious, supposititious"]}
