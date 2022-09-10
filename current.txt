@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T03:01:35.590138+00:00", 5227, "Your mother is", "downbound", "Similar to: down", "Definition: heading in any direction that is conventionally down", ""]}
+{"data": ["2022-09-10T04:00:59.687923+00:00", 5228, "Your mother is", "prehensile", "Pronunciation: /pr\u026a\u02c8h\u025bns\u026al/", "Definition: immoderately desirous of acquiring e.g. wealth", "Synonyms: avaricious, covetous, grabby, grasping, greedy"]}
