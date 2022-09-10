@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T16:01:08.257847+00:00", 5240, "Your mother is", "supposed", "Pronunciation: /s\u0259\u02c8po\u028azd/", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetic, hypothetical, suppositional, suppositious, supposititious"]}
+{"data": ["2022-09-10T17:00:22.342890+00:00", 5241, "Your mother is", "pinnated", "Similar to: compound", "Definition: (of a leaf shape) featherlike; having leaflets on each side of a common axis", "Synonyms: pinnate"]}
