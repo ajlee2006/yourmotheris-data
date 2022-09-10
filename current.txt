@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T02:01:33.480713+00:00", 5226, "Your mother is", "war-torn", "Similar to: destroyed", "Definition: laid waste by war", "Synonyms: war-worn"]}
+{"data": ["2022-09-10T03:01:35.590138+00:00", 5227, "Your mother is", "downbound", "Similar to: down", "Definition: heading in any direction that is conventionally down", ""]}
