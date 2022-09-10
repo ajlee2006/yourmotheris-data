@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T01:01:38.000030+00:00", 5225, "Your mother is", "all in", "Similar to: tired", "Definition: very tired", "Synonyms: beat, bushed, dead"]}
+{"data": ["2022-09-10T02:01:33.480713+00:00", 5226, "Your mother is", "war-torn", "Similar to: destroyed", "Definition: laid waste by war", "Synonyms: war-worn"]}
