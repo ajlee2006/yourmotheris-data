@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T05:01:45.964134+00:00", 5229, "Your mother is", "unabridged", "Pronunciation: /\u02cc\u0259n\u0259\u02c8br\u026ad\u0292d/", "Definition: (used of texts) not shortened", ""]}
+{"data": ["2022-09-10T06:00:51.440579+00:00", 5230, "Your mother is", "substantive", "Pronunciation: /\u02c8s\u0259bst\u0259nt\u026av/", "Definition: of or relating to the real nature or essential elements of something", "Synonyms: substantial"]}
