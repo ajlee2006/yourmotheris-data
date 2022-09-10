@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T10:01:40.066417+00:00", 5234, "Your mother is", "enlightening", "Pronunciation: /\u025bn\u02c8la\u026at\u028cn\u026a\u014b/", "Definition: enlightening or uplifting so as to encourage intellectual or moral improvement", "Synonyms: edifying"]}
+{"data": ["2022-09-10T11:01:14.857687+00:00", 5235, "Your mother is", "perceivable", "Pronunciation: /p\u0259r\u02c8siv\u0259b\u0259l/", "Definition: capable of being apprehended or understood", "Synonyms: apprehensible, graspable, intelligible, understandable"]}
