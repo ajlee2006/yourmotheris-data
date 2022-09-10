@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T14:01:19.579438+00:00", 5238, "Your mother is", "saturnine", "Pronunciation: /\u02c8s\u00e6t\u0259r\u02ccna\u026an/", "Definition: showing a brooding ill humor", "Synonyms: dark, dour, glowering, glum, moody, morose, sour, sullen"]}
+{"data": ["2022-09-10T15:00:32.833672+00:00", 5239, "Your mother is", "aneurysmatic", "", "Definition: relating to or affected by an aneurysm", "Synonyms: aneurismal, aneurismatic, aneurysmal"]}
