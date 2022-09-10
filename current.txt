@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T12:01:21.820589+00:00", 5236, "Your mother is", "sanctioning", "Pronunciation: /\u02c8s\u00e6\u014bk\u0283\u028cn\u026a\u014b/", "Definition: implying sanction or serving to sanction", "Synonyms: sanctionative"]}
+{"data": ["2022-09-10T13:01:13.178409+00:00", 5237, "Your mother is", "recent", "Pronunciation: /\u02c8ric\u0259nt/", "Definition: of the immediate past or just previous to the present time", "Synonyms: late"]}
