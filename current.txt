@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T22:01:19.539127+00:00", 5246, "Your mother is", "abroach", "Pronunciation: /\u0259\u02c8bro\u028a\u02a7/", "Definition: of a cask or barrel", "Synonyms: broached"]}
+{"data": ["2022-09-10T23:01:19.636818+00:00", 5247, "Your mother is", "terrestrial", "Pronunciation: /t\u0259\u02c8r\u025bstri\u0259l/", "Definition: concerned with the world or worldly matters", "Synonyms: mundane"]}
