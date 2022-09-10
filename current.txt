@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T11:01:14.857687+00:00", 5235, "Your mother is", "perceivable", "Pronunciation: /p\u0259r\u02c8siv\u0259b\u0259l/", "Definition: capable of being apprehended or understood", "Synonyms: apprehensible, graspable, intelligible, understandable"]}
+{"data": ["2022-09-10T12:01:21.820589+00:00", 5236, "Your mother is", "sanctioning", "Pronunciation: /\u02c8s\u00e6\u014bk\u0283\u028cn\u026a\u014b/", "Definition: implying sanction or serving to sanction", "Synonyms: sanctionative"]}
