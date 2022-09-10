@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T19:00:22.418444+00:00", 5243, "Your mother is", "blinding", "Pronunciation: /\u02c8bla\u026and\u026a\u014b/", "Definition: shining intensely", "Synonyms: blazing, dazzling, fulgent, glaring, glary"]}
+{"data": ["2022-09-10T20:00:57.667141+00:00", 5244, "Your mother is", "perfoliate", "Pronunciation: /p\u0259r\u02c8fo\u028ali\u026at/", "Definition: (of a leaf) having the base united around (and apparently pierced by) the stem", ""]}
