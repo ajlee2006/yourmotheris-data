@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T00:02:11.342413+00:00", 5224, "Your mother is", "45", "Similar to: cardinal", "Definition: being five more than forty", "Synonyms: forty-five, xlv"]}
+{"data": ["2022-09-10T01:01:38.000030+00:00", 5225, "Your mother is", "all in", "Similar to: tired", "Definition: very tired", "Synonyms: beat, bushed, dead"]}
