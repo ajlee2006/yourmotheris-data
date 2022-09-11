@@ -1,1 +1,1 @@
-{"data": ["2022-09-11T10:01:05.242863+00:00", 5258, "Your mother is", "air-to-surface", "Pronunciation: /\u02c8\u025crt\u0259\u02c8s\u025crf\u0259s/", "Definition: operating from or designed to be fired from aircraft at targets on the ground", "Synonyms: air-to-ground"]}
+{"data": ["2022-09-11T11:01:30.478770+00:00", 5259, "Your mother is", "sapient", "Pronunciation: /\u02c8se\u026api\u0259nt/", "Definition: acutely insightful and wise", "Synonyms: perspicacious, sagacious"]}
