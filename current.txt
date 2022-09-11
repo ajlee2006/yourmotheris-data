@@ -1,1 +1,1 @@
-{"data": ["2022-09-11T09:01:11.567638+00:00", 5257, "Your mother is", "cut off", "Pronunciation: /k\u0259t-\u0254f/", "Definition: detached by cutting", "Synonyms: severed"]}
+{"data": ["2022-09-11T10:01:05.242863+00:00", 5258, "Your mother is", "air-to-surface", "Pronunciation: /\u02c8\u025crt\u0259\u02c8s\u025crf\u0259s/", "Definition: operating from or designed to be fired from aircraft at targets on the ground", "Synonyms: air-to-ground"]}
