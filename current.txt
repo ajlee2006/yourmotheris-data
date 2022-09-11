@@ -1,1 +1,1 @@
-{"data": ["2022-09-11T22:00:56.302181+00:00", 5270, "Your mother is", "unwed", "Pronunciation: /\u0259n\u02c8w\u025bd/", "Definition: of someone who has not been married", "Synonyms: unwedded"]}
+{"data": ["2022-09-11T23:01:05.503406+00:00", 5271, "Your mother is", "enate", "Pronunciation: /ine\u026at/", "Definition: related on the mother's side", "Synonyms: enatic, maternal"]}
