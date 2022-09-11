@@ -1,1 +1,1 @@
-{"data": ["2022-09-11T16:01:05.012432+00:00", 5264, "Your mother is", "geostationary", "Similar to: fixed", "Definition: of or having a geosynchronous orbit such that the position in such an orbit is fixed with respect to the earth", ""]}
+{"data": ["2022-09-11T17:01:42.240780+00:00", 5265, "Your mother is", "bottle-shaped", "Pronunciation: /\u02c8b\u0251t\u0259l-\u0283e\u026apt/", "Definition: shaped like a bottle", ""]}
