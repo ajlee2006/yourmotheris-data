@@ -1,1 +1,1 @@
-{"data": ["2022-09-11T19:00:56.288903+00:00", 5267, "Your mother is", "undamaged", "Pronunciation: /\u0259n\u02c8d\u00e6m\u026ad\u0292d/", "Definition: not harmed or spoiled; sound", ""]}
+{"data": ["2022-09-11T20:01:24.843388+00:00", 5268, "Your mother is", "romansh", "Pronunciation: /ro\u028a\u02c8m\u00e6n\u0283/", "Definition: of or relating to the Romansh language", "Synonyms: rumansh"]}
