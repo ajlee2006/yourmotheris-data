@@ -1,1 +1,1 @@
-{"data": ["2022-09-11T04:01:35.565582+00:00", 5252, "Your mother is", "bruising", "Pronunciation: /\u02c8bruz\u026a\u014b/", "Definition: brutally forceful and compelling", ""]}
+{"data": ["2022-09-11T05:01:07.822206+00:00", 5253, "Your mother is", "harassed", "Pronunciation: /\u02c8h\u00e6r\u0259st/", "Definition: troubled persistently especially with petty annoyances", "Synonyms: annoyed, harried, pestered, vexed"]}
