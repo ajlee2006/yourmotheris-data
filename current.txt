@@ -1,1 +1,1 @@
-{"data": ["2022-09-11T15:00:47.462880+00:00", 5263, "Your mother is", "obliterable", "Pronunciation: /\u0259\u02c8bl\u026at\u0259r\u0259b\u0259l/", "Definition: able to be obliterated completely", "Synonyms: removable"]}
+{"data": ["2022-09-11T16:01:05.012432+00:00", 5264, "Your mother is", "geostationary", "Similar to: fixed", "Definition: of or having a geosynchronous orbit such that the position in such an orbit is fixed with respect to the earth", ""]}
