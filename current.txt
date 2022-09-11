@@ -1,1 +1,1 @@
-{"data": ["2022-09-11T01:00:48.174229+00:00", 5249, "Your mother is", "geodesical", "", "Definition: of or relating to or determined by geodesy", "Synonyms: geodesic, geodetic"]}
+{"data": ["2022-09-11T02:00:46.416144+00:00", 5250, "Your mother is", "crabbed", "Pronunciation: /\u02c8kr\u00e6b\u026ad/", "Definition: annoyed and irritable", "Synonyms: bad-tempered, crabby, cross, fussy, grouchy, grumpy, ill-tempered"]}
