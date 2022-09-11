@@ -1,1 +1,1 @@
-{"data": ["2022-09-11T07:01:22.171032+00:00", 5255, "Your mother is", "trial-and-error", "Similar to: heuristic", "Definition: relating to solving problems by experience rather than theory", ""]}
+{"data": ["2022-09-11T08:01:31.306130+00:00", 5256, "Your mother is", "soldierlike", "Similar to: military", "Definition: (of persons) befitting a warrior", "Synonyms: martial, soldierly, warriorlike"]}
