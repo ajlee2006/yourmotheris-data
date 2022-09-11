@@ -1,1 +1,1 @@
-{"data": ["2022-09-11T06:01:32.406005+00:00", 5254, "Your mother is", "auroral", "Pronunciation: /\u0254\u02c8ro\u028ar\u0259l/", "Definition: characteristic of the dawn", "Synonyms: aurorean"]}
+{"data": ["2022-09-11T07:01:22.171032+00:00", 5255, "Your mother is", "trial-and-error", "Similar to: heuristic", "Definition: relating to solving problems by experience rather than theory", ""]}
