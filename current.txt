@@ -1,1 +1,1 @@
-{"data": ["2022-09-11T03:00:26.015625+00:00", 5251, "Your mother is", "yellowish-grey", "Similar to: achromatic", "Definition: of grey tinged with yellow", "Synonyms: yellow-gray, yellow-grey, yellowish-gray"]}
+{"data": ["2022-09-11T04:01:35.565582+00:00", 5252, "Your mother is", "bruising", "Pronunciation: /\u02c8bruz\u026a\u014b/", "Definition: brutally forceful and compelling", ""]}
