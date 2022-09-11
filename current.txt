@@ -1,1 +1,1 @@
-{"data": ["2022-09-11T13:01:42.779366+00:00", 5261, "Your mother is", "brief", "Pronunciation: /brif/", "Definition: (of clothing) very short", "Synonyms: abbreviated"]}
+{"data": ["2022-09-11T14:00:51.056761+00:00", 5262, "Your mother is", "omnibus", "Pronunciation: /\u02c8\u0251mn\u0259\u02ccb\u0259s/", "Definition: providing for many things at once", ""]}
