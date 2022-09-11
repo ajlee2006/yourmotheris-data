@@ -1,1 +1,1 @@
-{"data": ["2022-09-10T23:01:19.636818+00:00", 5247, "Your mother is", "terrestrial", "Pronunciation: /t\u0259\u02c8r\u025bstri\u0259l/", "Definition: concerned with the world or worldly matters", "Synonyms: mundane"]}
+{"data": ["2022-09-11T00:02:08.401963+00:00", 5248, "Your mother is", "benthal", "", "Definition: of or relating to or happening on the bottom under a body of water", "Synonyms: benthic, benthonic"]}
