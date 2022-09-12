@@ -1,1 +1,1 @@
-{"data": ["2022-09-12T03:00:57.721071+00:00", 5275, "Your mother is", "unmerchantable", "Pronunciation: /\u0259n\u02c8m\u025crt\u0283\u0259nt\u0259b\u0259l/", "Definition: not fit for sale", "Synonyms: unmarketable, unvendible"]}
+{"data": ["2022-09-12T04:01:29.818889+00:00", 5276, "Your mother is", "gynaecological", "", "Definition: of or relating to or practicing gynecology", "Synonyms: gynecologic, gynecological"]}
