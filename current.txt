@@ -1,1 +1,1 @@
-{"data": ["2022-09-12T04:01:29.818889+00:00", 5276, "Your mother is", "gynaecological", "", "Definition: of or relating to or practicing gynecology", "Synonyms: gynecologic, gynecological"]}
+{"data": ["2022-09-12T05:01:51.891618+00:00", 5277, "Your mother is", "ramshackle", "Pronunciation: /\u02c8r\u00e6m\u02cc\u0283\u00e6k\u0259l/", "Definition: in deplorable condition", "Synonyms: bedraggled, broken-down, derelict, dilapidated, tatterdemalion, tumble-down"]}
