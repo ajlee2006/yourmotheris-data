@@ -1,1 +1,1 @@
-{"data": ["2022-09-12T09:01:55.634230+00:00", 5281, "Your mother is", "leaf-like", "Similar to: leafy", "Definition: resembling a leaf", "Synonyms: leaflike"]}
+{"data": ["2022-09-12T10:01:02.542690+00:00", 5282, "Your mother is", "askant", "Pronunciation: /\u0259\u02c8sk\u00e6nt/", "Definition: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy", "Synonyms: askance, asquint, sidelong, squint, squint-eyed, squinty"]}
