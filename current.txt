@@ -1,1 +1,1 @@
-{"data": ["2022-09-12T19:01:17.214866+00:00", 5291, "Your mother is", "indubitable", "Pronunciation: /\u026an\u02c8dub\u026at\u0259b\u0259l/", "Definition: too obvious to be doubted", "Synonyms: beyond doubt"]}
+{"data": ["2022-09-12T20:01:28.555599+00:00", 5292, "Your mother is", "burdensome", "Pronunciation: /\u02c8b\u025crd\u0259ns\u0259m/", "Definition: not easily borne; wearing", "Synonyms: onerous, taxing"]}
