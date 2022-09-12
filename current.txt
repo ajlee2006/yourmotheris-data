@@ -1,1 +1,1 @@
-{"data": ["2022-09-12T20:01:28.555599+00:00", 5292, "Your mother is", "burdensome", "Pronunciation: /\u02c8b\u025crd\u0259ns\u0259m/", "Definition: not easily borne; wearing", "Synonyms: onerous, taxing"]}
+{"data": ["2022-09-12T21:01:32.839013+00:00", 5293, "Your mother is", "hematogenic", "", "Definition: pertaining to the formation of blood or blood cells", "Synonyms: haematogenic, haematopoietic, haemopoietic, hematopoietic, hemopoietic"]}
