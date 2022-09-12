@@ -1,1 +1,1 @@
-{"data": ["2022-09-12T12:01:24.758633+00:00", 5284, "Your mother is", "cryptanalytic", "", "Definition: of or relating to cryptanalysis", "Synonyms: cryptographic, cryptographical, cryptologic, cryptological"]}
+{"data": ["2022-09-12T13:01:12.683129+00:00", 5285, "Your mother is", "unplayful", "", "Definition: completely lacking in playfulness", "Synonyms: serious, sober"]}
