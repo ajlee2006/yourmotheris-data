@@ -1,1 +1,1 @@
-{"data": ["2022-09-12T01:02:10.816686+00:00", 5273, "Your mother is", "nitric", "Pronunciation: /\u02c8na\u026atrik/", "Definition: of or containing nitrogen", "Synonyms: azotic, nitrous"]}
+{"data": ["2022-09-12T02:01:04.422210+00:00", 5274, "Your mother is", "in writing", "Similar to: written", "Definition: written or drawn or engraved", "Synonyms: graphic, graphical"]}
