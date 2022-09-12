@@ -1,1 +1,1 @@
-{"data": ["2022-09-12T07:01:32.047076+00:00", 5279, "Your mother is", "black-marked", "Similar to: patterned", "Definition: having black marks", ""]}
+{"data": ["2022-09-12T08:01:07.244404+00:00", 5280, "Your mother is", "pyroelectrical", "", "Definition: relating to or exhibiting pyroelectricity", "Synonyms: pyroelectric"]}
