@@ -1,1 +1,1 @@
-{"data": ["2022-09-12T05:01:51.891618+00:00", 5277, "Your mother is", "ramshackle", "Pronunciation: /\u02c8r\u00e6m\u02cc\u0283\u00e6k\u0259l/", "Definition: in deplorable condition", "Synonyms: bedraggled, broken-down, derelict, dilapidated, tatterdemalion, tumble-down"]}
+{"data": ["2022-09-12T06:00:49.288451+00:00", 5278, "Your mother is", "unsteady", "Pronunciation: /\u0259n\u02c8st\u025bdi/", "Definition: not firmly or solidly positioned", "Synonyms: unfirm"]}
