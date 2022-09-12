@@ -1,1 +1,1 @@
-{"data": ["2022-09-12T08:01:07.244404+00:00", 5280, "Your mother is", "pyroelectrical", "", "Definition: relating to or exhibiting pyroelectricity", "Synonyms: pyroelectric"]}
+{"data": ["2022-09-12T09:01:55.634230+00:00", 5281, "Your mother is", "leaf-like", "Similar to: leafy", "Definition: resembling a leaf", "Synonyms: leaflike"]}
