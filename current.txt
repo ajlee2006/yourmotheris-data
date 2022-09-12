@@ -1,1 +1,1 @@
-{"data": ["2022-09-12T14:00:28.137453+00:00", 5286, "Your mother is", "legendary", "Pronunciation: /\u02c8l\u025bd\u0292\u0259n\u02ccd\u025bri/", "Definition: celebrated in fable or legend", "Synonyms: fabled"]}
+{"data": ["2022-09-12T15:00:50.141678+00:00", 5287, "Your mother is", "semisweet", "Pronunciation: /\u02ccs\u025bmi\u02c8swit/", "Definition: having a taste that is a mixture of bitterness and sweetness", "Synonyms: bittersweet"]}
