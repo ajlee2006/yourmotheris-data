@@ -1,1 +1,1 @@
-{"data": ["2022-09-12T06:00:49.288451+00:00", 5278, "Your mother is", "unsteady", "Pronunciation: /\u0259n\u02c8st\u025bdi/", "Definition: not firmly or solidly positioned", "Synonyms: unfirm"]}
+{"data": ["2022-09-12T07:01:32.047076+00:00", 5279, "Your mother is", "black-marked", "Similar to: patterned", "Definition: having black marks", ""]}
