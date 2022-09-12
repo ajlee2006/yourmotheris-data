@@ -1,1 +1,1 @@
-{"data": ["2022-09-12T11:01:03.385730+00:00", 5283, "Your mother is", "fire-retardant", "Similar to: incombustible", "Definition: difficult to burn", "Synonyms: fire-resistant, fire-resisting, fire-resistive"]}
+{"data": ["2022-09-12T12:01:24.758633+00:00", 5284, "Your mother is", "cryptanalytic", "", "Definition: of or relating to cryptanalysis", "Synonyms: cryptographic, cryptographical, cryptologic, cryptological"]}
