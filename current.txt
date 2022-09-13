@@ -1,1 +1,1 @@
-{"data": ["2022-09-13T22:01:46.002319+00:00", 5318, "Your mother is", "meditative", "Pronunciation: /\u02c8m\u025bd\u026at\u0259t\u026av/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, musing, pensive, pondering, reflective, ruminative"]}
+{"data": ["2022-09-13T23:01:43.919394+00:00", 5319, "Your mother is", "castled", "Pronunciation: /\u02c8k\u00e6s\u0259ld/", "Definition: having or resembling repeated square indentations like those in a battlement", "Synonyms: battlemented, castellated, embattled"]}
