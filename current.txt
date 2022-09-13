@@ -1,1 +1,1 @@
-{"data": ["2022-09-13T10:01:28.779989+00:00", 5306, "Your mother is", "obligated", "Pronunciation: /\u02c8\u0251bl\u028c\u02cc\u0261e\u026at\u026ad/", "Definition: caused by law or conscience to follow a certain course", ""]}
+{"data": ["2022-09-13T11:00:32.725143+00:00", 5307, "Your mother is", "impassioned", "Pronunciation: /\u026am\u02c8p\u00e6\u0283\u0259nd/", "Definition: characterized by intense emotion", "Synonyms: ardent, fervent, fervid, fiery, perfervid, torrid"]}
