@@ -1,1 +1,1 @@
-{"data": ["2022-09-13T02:01:40.331980+00:00", 5298, "Your mother is", "brunette", "Pronunciation: /bru\u02c8n\u025bt/", "Definition: marked by dark or relatively dark pigmentation of hair or skin or eyes", "Synonyms: brunet"]}
+{"data": ["2022-09-13T03:00:59.499247+00:00", 5299, "Your mother is", "anglican", "Pronunciation: /\u02c8\u00e6\u014bgl\u0259k\u0259n/", "Definition: of or pertaining to or characteristic of the Anglican church", ""]}
