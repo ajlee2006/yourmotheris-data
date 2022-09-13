@@ -1,1 +1,1 @@
-{"data": ["2022-09-13T21:00:59.547127+00:00", 5317, "Your mother is", "argent", "Pronunciation: /\u02c8\u0251rd\u0292\u0259nt/", "Definition: of lustrous grey; covered with or tinged with the color of silver", "Synonyms: silver, silverish, silvery"]}
+{"data": ["2022-09-13T22:01:46.002319+00:00", 5318, "Your mother is", "meditative", "Pronunciation: /\u02c8m\u025bd\u026at\u0259t\u026av/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, musing, pensive, pondering, reflective, ruminative"]}
