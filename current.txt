@@ -1,1 +1,1 @@
-{"data": ["2022-09-13T20:01:21.589689+00:00", 5316, "Your mother is", "tousled", "Similar to: untidy", "Definition: in disarray; extremely disorderly", "Synonyms: disheveled, dishevelled, frowzled, rumpled"]}
+{"data": ["2022-09-13T21:00:59.547127+00:00", 5317, "Your mother is", "argent", "Pronunciation: /\u02c8\u0251rd\u0292\u0259nt/", "Definition: of lustrous grey; covered with or tinged with the color of silver", "Synonyms: silver, silverish, silvery"]}
