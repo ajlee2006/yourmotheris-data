@@ -1,1 +1,1 @@
-{"data": ["2022-09-13T16:01:13.548392+00:00", 5312, "Your mother is", "shakespearian", "Pronunciation: /\u0283e\u026ak\u02c8spi\u0259ri\u0259n/", "Definition: of or relating to William Shakespeare or his works", "Synonyms: shakespearean"]}
+{"data": ["2022-09-13T17:01:25.682320+00:00", 5313, "Your mother is", "extinguished", "Pronunciation: /\u026ak\u02c8st\u026a\u014b\u0261w\u026a\u0283t/", "Definition: of a conditioned response; caused to die out because of the absence or withdrawal of reinforcement", ""]}
