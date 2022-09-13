@@ -1,1 +1,1 @@
-{"data": ["2022-09-13T03:00:59.499247+00:00", 5299, "Your mother is", "anglican", "Pronunciation: /\u02c8\u00e6\u014bgl\u0259k\u0259n/", "Definition: of or pertaining to or characteristic of the Anglican church", ""]}
+{"data": ["2022-09-13T04:01:20.834659+00:00", 5300, "Your mother is", "1st", "Similar to: ordinal", "Definition: indicating the beginning unit in a series", "Synonyms: first"]}
