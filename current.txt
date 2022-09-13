@@ -1,1 +1,1 @@
-{"data": ["2022-09-13T01:00:50.425877+00:00", 5297, "Your mother is", "extraverted", "Similar to: extraversive", "Definition: being concerned with the social and physical environment", "Synonyms: extravert, extravertive, extrovert, extroverted, extrovertive"]}
+{"data": ["2022-09-13T02:01:40.331980+00:00", 5298, "Your mother is", "brunette", "Pronunciation: /bru\u02c8n\u025bt/", "Definition: marked by dark or relatively dark pigmentation of hair or skin or eyes", "Synonyms: brunet"]}
