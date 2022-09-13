@@ -1,1 +1,1 @@
-{"data": ["2022-09-13T04:01:20.834659+00:00", 5300, "Your mother is", "1st", "Similar to: ordinal", "Definition: indicating the beginning unit in a series", "Synonyms: first"]}
+{"data": ["2022-09-13T05:00:50.659501+00:00", 5301, "Your mother is", "deviate", "Pronunciation: /\u02c8div\u026a\u02cce\u026at/", "Definition: markedly different from an accepted norm", "Synonyms: aberrant, deviant"]}
