@@ -1,1 +1,1 @@
-{"data": ["2022-09-13T19:01:01.273332+00:00", 5315, "Your mother is", "glib", "Pronunciation: /gl\u026ab/", "Definition: artfully persuasive in speech", "Synonyms: glib-tongued, smooth-tongued"]}
+{"data": ["2022-09-13T20:01:21.589689+00:00", 5316, "Your mother is", "tousled", "Similar to: untidy", "Definition: in disarray; extremely disorderly", "Synonyms: disheveled, dishevelled, frowzled, rumpled"]}
