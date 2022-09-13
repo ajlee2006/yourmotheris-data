@@ -1,1 +1,1 @@
-{"data": ["2022-09-13T12:02:05.978675+00:00", 5308, "Your mother is", "miry", "Pronunciation: /\u02c8ma\u026a\u0259ri/", "Definition: (of soil) soft and watery", "Synonyms: boggy, marshy, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, swampy, waterlogged"]}
+{"data": ["2022-09-13T13:00:53.463250+00:00", 5309, "Your mother is", "rheological", "", "Definition: of or relating to rheology", "Synonyms: rheologic"]}
