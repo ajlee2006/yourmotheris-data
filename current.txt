@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T17:01:19.739326+00:00", 5337, "Your mother is", "in style", "Similar to: fashionable", "Definition: in the current fashion or style", "Synonyms: a la mode, in vogue, latest, modish"]}
+{"data": ["2022-09-14T18:01:22.675300+00:00", 5338, "Your mother is", "unsmooth", "Similar to: chapped", "Definition: having or caused by an irregular surface", "Synonyms: rough"]}
