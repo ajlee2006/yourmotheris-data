@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T04:01:08.468756+00:00", 5324, "Your mother is", "free-range", "Similar to: unconfined", "Definition: of livestock and domestic poultry; permitted to graze or forage rather than being confined to a feedlot", ""]}
+{"data": ["2022-09-14T05:01:31.585000+00:00", 5325, "Your mother is", "famous", "Pronunciation: /\u02c8fe\u026am\u0259s/", "Definition: widely known and esteemed", "Synonyms: celebrated, famed, far-famed, illustrious, notable, noted, renowned"]}
