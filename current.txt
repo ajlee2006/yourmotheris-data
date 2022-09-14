@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T07:01:09.584882+00:00", 5327, "Your mother is", "twoscore", "Similar to: cardinal", "Definition: being ten more than thirty", "Synonyms: 40, forty, xl"]}
+{"data": ["2022-09-14T08:01:37.187249+00:00", 5328, "Your mother is", "spoiled", "Pronunciation: /\u02c8sp\u0254\u026ald/", "Definition: having the character or disposition harmed by pampering or oversolicitous attention", "Synonyms: spoilt"]}
