@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T09:02:03.597902+00:00", 5329, "Your mother is", "lumpish", "Pronunciation: /\u02c8l\u0259mp\u026a\u0283/", "Definition: mentally sluggish", "Synonyms: lumpen, unthinking"]}
+{"data": ["2022-09-14T10:01:07.742861+00:00", 5330, "Your mother is", "inebriated", "Similar to: bacchanal", "Definition: stupefied or excited by a chemical substance (especially alcohol)", "Synonyms: drunk, gone, intoxicated, ripped"]}
