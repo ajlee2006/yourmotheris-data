@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T12:01:39.896480+00:00", 5332, "Your mother is", "apperceptive", "Similar to: perceptive", "Definition: able to relate new percepts to past experience", ""]}
+{"data": ["2022-09-14T13:00:53.478420+00:00", 5333, "Your mother is", "cautious", "Pronunciation: /\u02c8k\u0254\u0283\u0259s/", "Definition: avoiding excess", "Synonyms: conservative"]}
