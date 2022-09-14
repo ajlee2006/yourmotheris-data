@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T01:01:48.206861+00:00", 5321, "Your mother is", "long-haired", "Similar to: haired", "Definition: with long hair", ""]}
+{"data": ["2022-09-14T02:01:48.933678+00:00", 5322, "Your mother is", "spooky", "Pronunciation: /\u02c8spuki/", "Definition: unpredictably excitable (especially of horses)", "Synonyms: flighty, nervous, skittish"]}
