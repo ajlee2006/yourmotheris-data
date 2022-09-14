@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T03:01:41.493144+00:00", 5323, "Your mother is", "sweetened", "Pronunciation: /\u02c8swit\u028cnd/", "Definition: with sweetening added", "Synonyms: sugared, sweet, sweet-flavored"]}
+{"data": ["2022-09-14T04:01:08.468756+00:00", 5324, "Your mother is", "free-range", "Similar to: unconfined", "Definition: of livestock and domestic poultry; permitted to graze or forage rather than being confined to a feedlot", ""]}
