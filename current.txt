@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T10:01:07.742861+00:00", 5330, "Your mother is", "inebriated", "Similar to: bacchanal", "Definition: stupefied or excited by a chemical substance (especially alcohol)", "Synonyms: drunk, gone, intoxicated, ripped"]}
+{"data": ["2022-09-14T11:01:21.993607+00:00", 5331, "Your mother is", "cryptographical", "", "Definition: of or relating to cryptanalysis", "Synonyms: cryptanalytic, cryptographic, cryptologic, cryptological"]}
