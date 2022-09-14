@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T13:00:53.478420+00:00", 5333, "Your mother is", "cautious", "Pronunciation: /\u02c8k\u0254\u0283\u0259s/", "Definition: avoiding excess", "Synonyms: conservative"]}
+{"data": ["2022-09-14T14:01:37.044500+00:00", 5334, "Your mother is", "architectonic", "Pronunciation: /\u02cc\u0251rk\u026at\u025bk\u02c8t\u0251n\u026ak/", "Definition: of or pertaining to construction or architecture", "Synonyms: tectonic"]}
