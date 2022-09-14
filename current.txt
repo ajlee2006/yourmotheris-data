@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T21:00:47.300335+00:00", 5341, "Your mother is", "azido", "Pronunciation: /\u02c8\u00e6z\u026a\u02ccdo\u028a/", "Definition: relating to or containing the azido group N3", ""]}
+{"data": ["2022-09-14T22:00:52.706201+00:00", 5342, "Your mother is", "hemostatic", "Pronunciation: /\u02cchim\u0259\u02c8st\u00e6t\u026ak/", "Definition: tending to check bleeding by contracting the tissues or blood vessels", "Synonyms: styptic"]}
