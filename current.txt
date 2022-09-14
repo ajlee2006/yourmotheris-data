@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T22:00:52.706201+00:00", 5342, "Your mother is", "hemostatic", "Pronunciation: /\u02cchim\u0259\u02c8st\u00e6t\u026ak/", "Definition: tending to check bleeding by contracting the tissues or blood vessels", "Synonyms: styptic"]}
+{"data": ["2022-09-14T23:00:38.082164+00:00", 5343, "Your mother is", "disheveled", "Pronunciation: /d\u026a\u02c8\u0283\u025bv\u0259ld/", "Definition: in disarray; extremely disorderly", "Synonyms: dishevelled, frowzled, rumpled, tousled"]}
