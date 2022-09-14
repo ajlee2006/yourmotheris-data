@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T05:01:31.585000+00:00", 5325, "Your mother is", "famous", "Pronunciation: /\u02c8fe\u026am\u0259s/", "Definition: widely known and esteemed", "Synonyms: celebrated, famed, far-famed, illustrious, notable, noted, renowned"]}
+{"data": ["2022-09-14T06:00:53.589254+00:00", 5326, "Your mother is", "all-mains", "Similar to: adaptable", "Definition: used of a radio receiver that is adaptable to all voltages", ""]}
