@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T16:01:32.132645+00:00", 5336, "Your mother is", "cinnamon coloured", "Similar to: colored", "Definition: having the color of cinnamon", "Synonyms: cinnamon-colored, cinnamon-coloured, cinnamon colored"]}
+{"data": ["2022-09-14T17:01:19.739326+00:00", 5337, "Your mother is", "in style", "Similar to: fashionable", "Definition: in the current fashion or style", "Synonyms: a la mode, in vogue, latest, modish"]}
