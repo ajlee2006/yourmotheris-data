@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T19:01:01.950772+00:00", 5339, "Your mother is", "disorienting", "Pronunciation: /d\u026as\u02c8\u0254ri\u02cc\u025bnt\u026a\u014b/", "Definition: causing loss of physical or intellectual bearings", ""]}
+{"data": ["2022-09-14T20:01:22.729119+00:00", 5340, "Your mother is", "flourishing", "Pronunciation: /\u02c8fl\u025cr\u026a\u0283\u026a\u014b/", "Definition: very lively and profitable", "Synonyms: booming, palmy, prospering, prosperous, roaring, thriving"]}
