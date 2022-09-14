@@ -1,1 +1,1 @@
-{"data": ["2022-09-13T23:01:43.919394+00:00", 5319, "Your mother is", "castled", "Pronunciation: /\u02c8k\u00e6s\u0259ld/", "Definition: having or resembling repeated square indentations like those in a battlement", "Synonyms: battlemented, castellated, embattled"]}
+{"data": ["2022-09-14T00:02:00.215782+00:00", 5320, "Your mother is", "able", "Pronunciation: /\u02c8e\u026ab\u0259l/", "Definition: having a strong healthy body", "Synonyms: able-bodied"]}
