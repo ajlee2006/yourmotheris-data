@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T11:01:21.993607+00:00", 5331, "Your mother is", "cryptographical", "", "Definition: of or relating to cryptanalysis", "Synonyms: cryptanalytic, cryptographic, cryptologic, cryptological"]}
+{"data": ["2022-09-14T12:01:39.896480+00:00", 5332, "Your mother is", "apperceptive", "Similar to: perceptive", "Definition: able to relate new percepts to past experience", ""]}
