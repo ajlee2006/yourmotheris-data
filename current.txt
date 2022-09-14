@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T14:01:37.044500+00:00", 5334, "Your mother is", "architectonic", "Pronunciation: /\u02cc\u0251rk\u026at\u025bk\u02c8t\u0251n\u026ak/", "Definition: of or pertaining to construction or architecture", "Synonyms: tectonic"]}
+{"data": ["2022-09-14T15:01:37.674929+00:00", 5335, "Your mother is", "drilled", "Pronunciation: /dr\u026ald/", "Definition: trained in a skill by repetitious practice", ""]}
