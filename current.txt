@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T06:00:53.589254+00:00", 5326, "Your mother is", "all-mains", "Similar to: adaptable", "Definition: used of a radio receiver that is adaptable to all voltages", ""]}
+{"data": ["2022-09-14T07:01:09.584882+00:00", 5327, "Your mother is", "twoscore", "Similar to: cardinal", "Definition: being ten more than thirty", "Synonyms: 40, forty, xl"]}
