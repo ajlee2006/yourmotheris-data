@@ -1,1 +1,1 @@
-{"data": ["2022-09-15T06:01:27.543768+00:00", 5350, "Your mother is", "volatilized", "Similar to: gaseous", "Definition: converted into a gas or vapor", "Synonyms: gasified, vaporized, vapourised, volatilised"]}
+{"data": ["2022-09-15T07:01:55.195961+00:00", 5351, "Your mother is", "ammoniac", "Pronunciation: /\u0259\u02c8mo\u028ani\u02cc\u00e6k/", "Definition: pertaining to or containing or similar to ammonia", "Synonyms: ammoniacal"]}
