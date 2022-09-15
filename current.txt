@@ -1,1 +1,1 @@
-{"data": ["2022-09-15T03:01:16.943641+00:00", 5347, "Your mother is", "randomized", "Pronunciation: /\u02c8r\u00e6nd\u028c\u02ccma\u026azd/", "Definition: set up or distributed in a deliberately random way", "Synonyms: randomised"]}
+{"data": ["2022-09-15T04:00:49.264968+00:00", 5348, "Your mother is", "four-petalled", "Similar to: petalous", "Definition: (of flowers) having four petals", "Synonyms: four-petaled"]}
