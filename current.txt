@@ -1,1 +1,1 @@
-{"data": ["2022-09-15T14:00:49.565240+00:00", 5358, "Your mother is", "defending", "Pronunciation: /d\u026a\u02c8f\u025bnd\u026a\u014b/", "Definition: attempting to or designed to prevent an opponent from winning or scoring", ""]}
+{"data": ["2022-09-15T15:01:29.925723+00:00", 5359, "Your mother is", "batwing", "Pronunciation: /\u02c8b\u00e6t\u02ccw\u026a\u014b/", "Definition: formed or shaped like a bat's wing", ""]}
