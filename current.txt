@@ -1,1 +1,1 @@
-{"data": ["2022-09-15T19:01:12.035341+00:00", 5363, "Your mother is", "marketable", "Pronunciation: /\u02c8m\u0251rk\u026at\u0259b\u0259l/", "Definition: fit to be offered for sale", "Synonyms: merchantable, sellable, vendable, vendible"]}
+{"data": ["2022-09-15T20:00:39.311672+00:00", 5364, "Your mother is", "untrimmed", "Pronunciation: /\u0259n\u02c8tr\u026amd/", "Definition: not trimmed", "Synonyms: uncut"]}
