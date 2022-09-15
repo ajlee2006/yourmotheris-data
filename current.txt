@@ -1,1 +1,1 @@
-{"data": ["2022-09-15T15:01:29.925723+00:00", 5359, "Your mother is", "batwing", "Pronunciation: /\u02c8b\u00e6t\u02ccw\u026a\u014b/", "Definition: formed or shaped like a bat's wing", ""]}
+{"data": ["2022-09-15T16:00:53.502953+00:00", 5360, "Your mother is", "curvilinear", "Pronunciation: /\u02cck\u025crv\u0259\u02c8l\u026ani\u0259r/", "Definition: characterized by or following a curved line", "Synonyms: curvilineal"]}
