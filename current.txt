@@ -1,1 +1,1 @@
-{"data": ["2022-09-15T18:01:38.505731+00:00", 5362, "Your mother is", ".45 caliber", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures forty-five hundredths of an inch in diameter", "Synonyms: .45-caliber, .45-calibre, .45 calibre"]}
+{"data": ["2022-09-15T19:01:12.035341+00:00", 5363, "Your mother is", "marketable", "Pronunciation: /\u02c8m\u0251rk\u026at\u0259b\u0259l/", "Definition: fit to be offered for sale", "Synonyms: merchantable, sellable, vendable, vendible"]}
