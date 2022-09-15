@@ -1,1 +1,1 @@
-{"data": ["2022-09-15T09:01:11.039032+00:00", 5353, "Your mother is", "registered", "Pronunciation: /\u02c8r\u025bd\u0292\u026ast\u0259rd/", "Definition: listed or recorded officially", ""]}
+{"data": ["2022-09-15T10:01:02.557315+00:00", 5354, "Your mother is", "malposed", "Similar to: crooked", "Definition: characterized by malposition", ""]}
