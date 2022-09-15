@@ -1,1 +1,1 @@
-{"data": ["2022-09-15T11:00:56.397482+00:00", 5355, "Your mother is", "surface", "Pronunciation: /\u02c8s\u025crf\u026as/", "Definition: on the surface", ""]}
+{"data": ["2022-09-15T12:01:15.869358+00:00", 5356, "Your mother is", "outmost", "Pronunciation: /\u02c8a\u028at\u02ccmo\u028ast/", "Definition: situated at the farthest possible point from a center", "Synonyms: outermost"]}
