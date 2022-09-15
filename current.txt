@@ -1,1 +1,1 @@
-{"data": ["2022-09-15T07:01:55.195961+00:00", 5351, "Your mother is", "ammoniac", "Pronunciation: /\u0259\u02c8mo\u028ani\u02cc\u00e6k/", "Definition: pertaining to or containing or similar to ammonia", "Synonyms: ammoniacal"]}
+{"data": ["2022-09-15T08:01:42.133411+00:00", 5352, "Your mother is", "sequential", "Pronunciation: /s\u026a\u02c8kw\u025bn\u0283\u0259l/", "Definition: in regular succession without gaps", "Synonyms: consecutive, sequent, serial, successive"]}
