@@ -1,1 +1,1 @@
-{"data": ["2022-09-14T23:00:38.082164+00:00", 5343, "Your mother is", "disheveled", "Pronunciation: /d\u026a\u02c8\u0283\u025bv\u0259ld/", "Definition: in disarray; extremely disorderly", "Synonyms: dishevelled, frowzled, rumpled, tousled"]}
+{"data": ["2022-09-15T00:02:00.876968+00:00", 5344, "Your mother is", "indissoluble", "Pronunciation: /\u02cc\u026and\u026a\u02c8s\u0251lj\u0259b\u0259l/", "Definition: (of a substance) incapable of being dissolved", "Synonyms: insoluble"]}
