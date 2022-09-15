@@ -1,1 +1,1 @@
-{"data": ["2022-09-15T16:00:53.502953+00:00", 5360, "Your mother is", "curvilinear", "Pronunciation: /\u02cck\u025crv\u0259\u02c8l\u026ani\u0259r/", "Definition: characterized by or following a curved line", "Synonyms: curvilineal"]}
+{"data": ["2022-09-15T17:00:41.792840+00:00", 5361, "Your mother is", "soft", "Pronunciation: /s\u0254ft/", "Definition: not brilliant or glaring", "Synonyms: subdued"]}
