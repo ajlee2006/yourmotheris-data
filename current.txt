@@ -1,1 +1,1 @@
-{"data": ["2022-09-15T08:01:42.133411+00:00", 5352, "Your mother is", "sequential", "Pronunciation: /s\u026a\u02c8kw\u025bn\u0283\u0259l/", "Definition: in regular succession without gaps", "Synonyms: consecutive, sequent, serial, successive"]}
+{"data": ["2022-09-15T09:01:11.039032+00:00", 5353, "Your mother is", "registered", "Pronunciation: /\u02c8r\u025bd\u0292\u026ast\u0259rd/", "Definition: listed or recorded officially", ""]}
