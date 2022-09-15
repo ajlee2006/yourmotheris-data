@@ -1,1 +1,1 @@
-{"data": ["2022-09-15T00:02:00.876968+00:00", 5344, "Your mother is", "indissoluble", "Pronunciation: /\u02cc\u026and\u026a\u02c8s\u0251lj\u0259b\u0259l/", "Definition: (of a substance) incapable of being dissolved", "Synonyms: insoluble"]}
+{"data": ["2022-09-15T01:01:09.351181+00:00", 5345, "Your mother is", "paddle-shaped", "Pronunciation: /\u02c8p\u00e6d\u0259l-\u0283e\u026apt/", "Definition: shaped in the form of a paddle", ""]}
