@@ -1,1 +1,1 @@
-{"data": ["2022-09-16T13:01:10.805933+00:00", 5381, "Your mother is", "apple-shaped", "Pronunciation: /\u02c8\u00e6p\u0259l-\u0283e\u026apt/", "Definition: having the general shape of an apple", ""]}
+{"data": ["2022-09-16T14:01:46.822947+00:00", 5382, "Your mother is", "fractional", "Pronunciation: /\u02c8fr\u00e6k\u0283\u0259n\u0259l/", "Definition: constituting or comprising a part or fraction of a possible whole or entirety", ""]}
