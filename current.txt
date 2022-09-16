@@ -1,1 +1,1 @@
-{"data": ["2022-09-16T12:01:01.935669+00:00", 5380, "Your mother is", "non-finite", "", "Definition: (of verbs) not having tense, person, or number (as a participle or gerund or infinitive)", "Synonyms: infinite, nonfinite"]}
+{"data": ["2022-09-16T13:01:10.805933+00:00", 5381, "Your mother is", "apple-shaped", "Pronunciation: /\u02c8\u00e6p\u0259l-\u0283e\u026apt/", "Definition: having the general shape of an apple", ""]}
