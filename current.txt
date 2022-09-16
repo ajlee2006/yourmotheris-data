@@ -1,1 +1,1 @@
-{"data": ["2022-09-16T06:01:38.098938+00:00", 5374, "Your mother is", "tensile", "Pronunciation: /\u02c8t\u025bns\u0259l/", "Definition: capable of being shaped or bent or drawn out", "Synonyms: ductile, malleable, pliable, pliant, tractile"]}
+{"data": ["2022-09-16T07:01:13.505515+00:00", 5375, "Your mother is", "carsick", "Pronunciation: /\u02c8k\u0251r\u02ccs\u026ak/", "Definition: experiencing motion sickness", "Synonyms: air sick, airsick, seasick"]}
