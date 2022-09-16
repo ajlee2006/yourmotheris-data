@@ -1,1 +1,1 @@
-{"data": ["2022-09-16T17:00:31.839475+00:00", 5385, "Your mother is", "glossy-furred", "Similar to: haired", "Definition: having glossy hair", "Synonyms: glossy-coated, glossy-haired"]}
+{"data": ["2022-09-16T18:01:03.126440+00:00", 5386, "Your mother is", "mint", "Pronunciation: /m\u026ant/", "Definition: as if new", ""]}
