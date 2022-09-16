@@ -1,1 +1,1 @@
-{"data": ["2022-09-16T18:01:03.126440+00:00", 5386, "Your mother is", "mint", "Pronunciation: /m\u026ant/", "Definition: as if new", ""]}
+{"data": ["2022-09-16T19:01:06.624638+00:00", 5387, "Your mother is", "funnel-shaped", "Pronunciation: /\u02c8f\u0259n\u0259l-\u0283e\u026apt/", "Definition: shaped in the form of a funnel", ""]}
