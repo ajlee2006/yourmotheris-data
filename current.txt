@@ -1,1 +1,1 @@
-{"data": ["2022-09-16T16:01:24.444615+00:00", 5384, "Your mother is", "plastered", "Pronunciation: /\u02c8pl\u00e6st\u0259rd/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, slopped, sloshed, smashed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
+{"data": ["2022-09-16T17:00:31.839475+00:00", 5385, "Your mother is", "glossy-furred", "Similar to: haired", "Definition: having glossy hair", "Synonyms: glossy-coated, glossy-haired"]}
