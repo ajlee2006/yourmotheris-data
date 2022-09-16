@@ -1,1 +1,1 @@
-{"data": ["2022-09-16T03:01:13.830929+00:00", 5371, "Your mother is", "genitourinary", "Pronunciation: /\u02ccd\u0292\u025bn\u026ato\u028a\u02c8j\u028ar\u0259\u02ccn\u025bri/", "Definition: of or related to the genital and urinary organs or their functions", "Synonyms: gu"]}
+{"data": ["2022-09-16T04:01:29.399488+00:00", 5372, "Your mother is", "futurist", "Pronunciation: /\u02c8fju\u02a7\u0259rist/", "Definition: of or relating to futurism", "Synonyms: futuristic"]}
