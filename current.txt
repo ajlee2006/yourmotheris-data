@@ -1,1 +1,1 @@
-{"data": ["2022-09-16T02:01:44.978909+00:00", 5370, "Your mother is", "albinic", "", "Definition: of or pertaining to or affected by albinism", "Synonyms: albinal, albinistic, albinotic"]}
+{"data": ["2022-09-16T03:01:13.830929+00:00", 5371, "Your mother is", "genitourinary", "Pronunciation: /\u02ccd\u0292\u025bn\u026ato\u028a\u02c8j\u028ar\u0259\u02ccn\u025bri/", "Definition: of or related to the genital and urinary organs or their functions", "Synonyms: gu"]}
