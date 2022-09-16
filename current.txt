@@ -1,1 +1,1 @@
-{"data": ["2022-09-16T01:01:31.969240+00:00", 5369, "Your mother is", "alimentary", "Pronunciation: /\u02cc\u00e6l\u0259\u02c8m\u025bnt\u0259ri/", "Definition: of or providing nourishment", "Synonyms: alimental, nourishing, nutrient, nutritious, nutritive"]}
+{"data": ["2022-09-16T02:01:44.978909+00:00", 5370, "Your mother is", "albinic", "", "Definition: of or pertaining to or affected by albinism", "Synonyms: albinal, albinistic, albinotic"]}
