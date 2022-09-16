@@ -1,1 +1,1 @@
-{"data": ["2022-09-16T08:01:37.904497+00:00", 5376, "Your mother is", "aurous", "Pronunciation: /\u02c8\u0254r\u0259s/", "Definition: of or relating to or containing or derived from gold", "Synonyms: auric"]}
+{"data": ["2022-09-16T09:01:21.147178+00:00", 5377, "Your mother is", "cataphoretic", "Pronunciation: /\u02cck\u00e6t\u0259f\u0259\u02c8r\u025bt\u026ak/", "Definition: of or relating to electrophoresis", "Synonyms: electrophoretic"]}
