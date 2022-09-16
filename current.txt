@@ -1,1 +1,1 @@
-{"data": ["2022-09-16T00:01:54.059701+00:00", 5368, "Your mother is", "lonely", "Pronunciation: /\u02c8lo\u028anli/", "Definition: lacking companions or companionship", "Synonyms: alone, lone, solitary"]}
+{"data": ["2022-09-16T01:01:31.969240+00:00", 5369, "Your mother is", "alimentary", "Pronunciation: /\u02cc\u00e6l\u0259\u02c8m\u025bnt\u0259ri/", "Definition: of or providing nourishment", "Synonyms: alimental, nourishing, nutrient, nutritious, nutritive"]}
