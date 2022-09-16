@@ -1,1 +1,1 @@
-{"data": ["2022-09-16T07:01:13.505515+00:00", 5375, "Your mother is", "carsick", "Pronunciation: /\u02c8k\u0251r\u02ccs\u026ak/", "Definition: experiencing motion sickness", "Synonyms: air sick, airsick, seasick"]}
+{"data": ["2022-09-16T08:01:37.904497+00:00", 5376, "Your mother is", "aurous", "Pronunciation: /\u02c8\u0254r\u0259s/", "Definition: of or relating to or containing or derived from gold", "Synonyms: auric"]}
