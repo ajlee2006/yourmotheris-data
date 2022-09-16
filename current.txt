@@ -1,1 +1,1 @@
-{"data": ["2022-09-16T14:01:46.822947+00:00", 5382, "Your mother is", "fractional", "Pronunciation: /\u02c8fr\u00e6k\u0283\u0259n\u0259l/", "Definition: constituting or comprising a part or fraction of a possible whole or entirety", ""]}
+{"data": ["2022-09-16T15:01:15.424423+00:00", 5383, "Your mother is", "fully grown", "Similar to: mature", "Definition: (of animals) fully developed", "Synonyms: adult, big, full-grown, grown, grownup"]}
