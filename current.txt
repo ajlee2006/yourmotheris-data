@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T16:00:58.969531+00:00", 5408, "Your mother is", "unbounded", "Pronunciation: /\u0259n\u02c8ba\u028and\u026ad/", "Definition: seemingly boundless in amount, number, degree, or especially extent", "Synonyms: boundless, limitless"]}
+{"data": ["2022-09-17T17:00:48.080762+00:00", 5409, "Your mother is", "open-minded", "Pronunciation: /\u02c8o\u028ap\u0259n-\u02c8ma\u026and\u026ad/", "Definition: ready to entertain new ideas", ""]}
