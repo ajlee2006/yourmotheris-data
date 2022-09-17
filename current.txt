@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T11:00:46.038917+00:00", 5403, "Your mother is", "untraditional", "Pronunciation: /\u02cc\u028cntr\u028c\u02c8d\u026a\u0283\u028cn\u028cl/", "Definition: not conforming to or in accord with tradition", "Synonyms: nontraditional"]}
+{"data": ["2022-09-17T12:01:15.310135+00:00", 5404, "Your mother is", "octuple", "Pronunciation: /\u02c8\u0251kt\u028ap\u0259l/", "Definition: having eight units or components", "Synonyms: eight-fold, eightfold"]}
