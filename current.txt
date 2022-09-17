@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T01:01:02.420283+00:00", 5393, "Your mother is", "clustered", "Pronunciation: /\u02c8kl\u0259st\u0259rd/", "Definition: clustered together but not coherent", "Synonyms: agglomerate, agglomerated, agglomerative"]}
+{"data": ["2022-09-17T02:01:36.395377+00:00", 5394, "Your mother is", "late-flowering", "Pronunciation: /le\u026at-\u02c8fla\u028a\u0259r\u026a\u014b/", "Definition: of plants that bloom during the autumn", "Synonyms: autumn-blooming, autumn-flowering, fall-blooming, fall-flowering, late-blooming"]}
