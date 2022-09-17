@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T21:01:07.549467+00:00", 5413, "Your mother is", "flippant", "Pronunciation: /\u02c8fl\u026ap\u0259nt/", "Definition: showing inappropriate levity", "Synonyms: light-minded"]}
+{"data": ["2022-09-17T22:01:32.369787+00:00", 5414, "Your mother is", "appeasing", "Pronunciation: /\u028c\u02c8piz\u026a\u014b/", "Definition: intended to pacify by acceding to demands or granting concessions", "Synonyms: placating, placative, placatory"]}
