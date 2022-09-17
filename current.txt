@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T00:02:07.213526+00:00", 5392, "Your mother is", "heatable", "Similar to: hot", "Definition: capable of becoming hot", ""]}
+{"data": ["2022-09-17T01:01:02.420283+00:00", 5393, "Your mother is", "clustered", "Pronunciation: /\u02c8kl\u0259st\u0259rd/", "Definition: clustered together but not coherent", "Synonyms: agglomerate, agglomerated, agglomerative"]}
