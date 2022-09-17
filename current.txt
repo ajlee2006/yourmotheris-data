@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T22:01:32.369787+00:00", 5414, "Your mother is", "appeasing", "Pronunciation: /\u028c\u02c8piz\u026a\u014b/", "Definition: intended to pacify by acceding to demands or granting concessions", "Synonyms: placating, placative, placatory"]}
+{"data": ["2022-09-17T23:01:23.831662+00:00", 5415, "Your mother is", "sticky", "Pronunciation: /\u02c8st\u026aki/", "Definition: hot or warm and humid", "Synonyms: muggy, steamy"]}
