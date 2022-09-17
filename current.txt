@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T10:01:16.030343+00:00", 5402, "Your mother is", "five-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with five members", "Synonyms: 5-membered"]}
+{"data": ["2022-09-17T11:00:46.038917+00:00", 5403, "Your mother is", "untraditional", "Pronunciation: /\u02cc\u028cntr\u028c\u02c8d\u026a\u0283\u028cn\u028cl/", "Definition: not conforming to or in accord with tradition", "Synonyms: nontraditional"]}
