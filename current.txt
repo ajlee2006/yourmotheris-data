@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T15:01:14.227812+00:00", 5407, "Your mother is", "patient of", "Similar to: patient", "Definition: showing the capacity for endurance", "Synonyms: tolerant"]}
+{"data": ["2022-09-17T16:00:58.969531+00:00", 5408, "Your mother is", "unbounded", "Pronunciation: /\u0259n\u02c8ba\u028and\u026ad/", "Definition: seemingly boundless in amount, number, degree, or especially extent", "Synonyms: boundless, limitless"]}
