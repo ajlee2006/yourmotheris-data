@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T06:00:55.835507+00:00", 5398, "Your mother is", "unreconciled", "Pronunciation: /\u0259n\u02c8r\u025bk\u0259n\u02ccsa\u026ald/", "Definition: not made consistent or compatible", ""]}
+{"data": ["2022-09-17T07:01:10.808975+00:00", 5399, "Your mother is", "synoptic", "Pronunciation: /s\u026a\u02c8n\u0251pt\u026ak/", "Definition: presenting or taking the same point of view; used especially with regard to the first three gospels of the New Testament", "Synonyms: synoptical"]}
