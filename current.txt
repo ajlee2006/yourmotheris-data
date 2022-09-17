@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T14:00:50.239732+00:00", 5406, "Your mother is", "starry", "Pronunciation: /\u02c8st\u0251ri/", "Definition: abounding with or resembling stars", ""]}
+{"data": ["2022-09-17T15:01:14.227812+00:00", 5407, "Your mother is", "patient of", "Similar to: patient", "Definition: showing the capacity for endurance", "Synonyms: tolerant"]}
