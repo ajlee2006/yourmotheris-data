@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T09:01:05.808866+00:00", 5401, "Your mother is", "nativist", "Pronunciation: /\u02c8ne\u026at\u026a\u02ccv\u026ast/", "Definition: advocating the perpetuation of native societies", "Synonyms: nativistic"]}
+{"data": ["2022-09-17T10:01:16.030343+00:00", 5402, "Your mother is", "five-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with five members", "Synonyms: 5-membered"]}
