@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T03:00:51.502486+00:00", 5395, "Your mother is", "designate", "Pronunciation: /\u02c8d\u025bz\u026agn\u026at/", "Definition: appointed but not yet installed in office", ""]}
+{"data": ["2022-09-17T04:01:02.744489+00:00", 5396, "Your mother is", "150", "Similar to: cardinal", "Definition: being ten more than one hundred forty", "Synonyms: cl, one hundred fifty"]}
