@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T13:00:22.124145+00:00", 5405, "Your mother is", "apelike", "Pronunciation: /\u02c8e\u026a\u02ccpla\u026ak/", "Definition: resembling apes", "Synonyms: anthropoid, anthropoidal"]}
+{"data": ["2022-09-17T14:00:50.239732+00:00", 5406, "Your mother is", "starry", "Pronunciation: /\u02c8st\u0251ri/", "Definition: abounding with or resembling stars", ""]}
