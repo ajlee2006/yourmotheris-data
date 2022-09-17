@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T18:00:47.046264+00:00", 5410, "Your mother is", "crippling", "Pronunciation: /\u02c8kr\u026ap\u028cl\u026a\u014b/", "Definition: that cripples or disables or incapacitates", "Synonyms: disabling, incapacitating"]}
+{"data": ["2022-09-17T19:00:23.355656+00:00", 5411, "Your mother is", "stratified", "Pronunciation: /\u02c8str\u00e6t\u028c\u02ccfa\u026ad/", "Definition: arranged in a sequence of grades or ranks", "Synonyms: graded, ranked"]}
