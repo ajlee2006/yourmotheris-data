@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T17:00:48.080762+00:00", 5409, "Your mother is", "open-minded", "Pronunciation: /\u02c8o\u028ap\u0259n-\u02c8ma\u026and\u026ad/", "Definition: ready to entertain new ideas", ""]}
+{"data": ["2022-09-17T18:00:47.046264+00:00", 5410, "Your mother is", "crippling", "Pronunciation: /\u02c8kr\u026ap\u028cl\u026a\u014b/", "Definition: that cripples or disables or incapacitates", "Synonyms: disabling, incapacitating"]}
