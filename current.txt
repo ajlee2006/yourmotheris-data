@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T12:01:15.310135+00:00", 5404, "Your mother is", "octuple", "Pronunciation: /\u02c8\u0251kt\u028ap\u0259l/", "Definition: having eight units or components", "Synonyms: eight-fold, eightfold"]}
+{"data": ["2022-09-17T13:00:22.124145+00:00", 5405, "Your mother is", "apelike", "Pronunciation: /\u02c8e\u026a\u02ccpla\u026ak/", "Definition: resembling apes", "Synonyms: anthropoid, anthropoidal"]}
