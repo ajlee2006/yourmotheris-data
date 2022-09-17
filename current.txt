@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T20:00:42.978725+00:00", 5412, "Your mother is", "pinnate", "Pronunciation: /\u02c8p\u026ane\u026at/", "Definition: (of a leaf shape) featherlike; having leaflets on each side of a common axis", "Synonyms: pinnated"]}
+{"data": ["2022-09-17T21:01:07.549467+00:00", 5413, "Your mother is", "flippant", "Pronunciation: /\u02c8fl\u026ap\u0259nt/", "Definition: showing inappropriate levity", "Synonyms: light-minded"]}
