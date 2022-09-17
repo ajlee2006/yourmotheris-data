@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T08:01:44.219349+00:00", 5400, "Your mother is", "wafer-thin", "Pronunciation: /\u02c8we\u026af\u0259r-\u02c8\u03b8\u026an/", "Definition: very thin", ""]}
+{"data": ["2022-09-17T09:01:05.808866+00:00", 5401, "Your mother is", "nativist", "Pronunciation: /\u02c8ne\u026at\u026a\u02ccv\u026ast/", "Definition: advocating the perpetuation of native societies", "Synonyms: nativistic"]}
