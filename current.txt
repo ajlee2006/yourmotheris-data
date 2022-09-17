@@ -1,1 +1,1 @@
-{"data": ["2022-09-17T02:01:36.395377+00:00", 5394, "Your mother is", "late-flowering", "Pronunciation: /le\u026at-\u02c8fla\u028a\u0259r\u026a\u014b/", "Definition: of plants that bloom during the autumn", "Synonyms: autumn-blooming, autumn-flowering, fall-blooming, fall-flowering, late-blooming"]}
+{"data": ["2022-09-17T03:00:51.502486+00:00", 5395, "Your mother is", "designate", "Pronunciation: /\u02c8d\u025bz\u026agn\u026at/", "Definition: appointed but not yet installed in office", ""]}
