@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T09:00:56.673712+00:00", 5425, "Your mother is", "lighter-than-air", "Pronunciation: /\u02c8la\u026at\u0259r-\u00f0\u0259n-\u02c8\u025cr/", "Definition: relating to a balloon or other aircraft that flies because it weighs less than the air it displaces", ""]}
+{"data": ["2022-09-18T10:01:22.819186+00:00", 5426, "Your mother is", "nary", "Pronunciation: /\u02c8n\u025bri/", "Definition: (used with singular count nouns) colloquial for `not a' or `not one' or `never a'", ""]}
