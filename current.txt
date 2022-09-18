@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T03:00:37.025318+00:00", 5419, "Your mother is", "fifty-two", "Pronunciation: /\u02c8f\u026afti-tu/", "Definition: being two more than fifty", "Synonyms: 52, lii"]}
+{"data": ["2022-09-18T04:00:51.155008+00:00", 5420, "Your mother is", "nonaligned", "Pronunciation: /\u02c8n\u0251n\u028c\u02ccla\u026and/", "Definition: not affiliated with any faction, party, or cause", ""]}
