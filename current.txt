@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T11:00:57.524957+00:00", 5427, "Your mother is", "auctorial", "Pronunciation: /\u0254k\u02c8to\u028ari\u0259l/", "Definition: of or by or typical of an author", "Synonyms: authorial"]}
+{"data": ["2022-09-18T12:01:44.739355+00:00", 5428, "Your mother is", "cleistogamous", "", "Definition: exhibiting or relating to cleistogamy", "Synonyms: cleistogamic"]}
