@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T10:01:22.819186+00:00", 5426, "Your mother is", "nary", "Pronunciation: /\u02c8n\u025bri/", "Definition: (used with singular count nouns) colloquial for `not a' or `not one' or `never a'", ""]}
+{"data": ["2022-09-18T11:00:57.524957+00:00", 5427, "Your mother is", "auctorial", "Pronunciation: /\u0254k\u02c8to\u028ari\u0259l/", "Definition: of or by or typical of an author", "Synonyms: authorial"]}
