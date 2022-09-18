@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T00:01:52.757529+00:00", 5416, "Your mother is", "dated", "Pronunciation: /\u02c8de\u026at\u026ad/", "Definition: marked by features of the immediate and usually discounted past", ""]}
+{"data": ["2022-09-18T01:01:49.142025+00:00", 5417, "Your mother is", "blistering", "Pronunciation: /\u02c8bl\u026ast\u025dr\u026a\u014b/", "Definition: hot enough to raise (or as if to raise) blisters", "Synonyms: blistery"]}
