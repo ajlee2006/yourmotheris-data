@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T17:01:32.863377+00:00", 5433, "Your mother is", "mirky", "Pronunciation: /\u02c8m\u025crki/", "Definition: dark or gloomy", "Synonyms: murky"]}
+{"data": ["2022-09-18T18:01:41.653587+00:00", 5434, "Your mother is", "pink-red", "Similar to: chromatic", "Definition: of red tinged with pink", ""]}
