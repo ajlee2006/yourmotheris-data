@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T16:00:54.117420+00:00", 5432, "Your mother is", "expedient", "Pronunciation: /\u026ak\u02c8spidi\u0259nt/", "Definition: appropriate to a purpose; practical", ""]}
+{"data": ["2022-09-18T17:01:32.863377+00:00", 5433, "Your mother is", "mirky", "Pronunciation: /\u02c8m\u025crki/", "Definition: dark or gloomy", "Synonyms: murky"]}
