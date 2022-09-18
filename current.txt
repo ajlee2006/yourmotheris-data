@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T01:01:49.142025+00:00", 5417, "Your mother is", "blistering", "Pronunciation: /\u02c8bl\u026ast\u025dr\u026a\u014b/", "Definition: hot enough to raise (or as if to raise) blisters", "Synonyms: blistery"]}
+{"data": ["2022-09-18T02:01:22.341354+00:00", 5418, "Your mother is", "umbelliferous", "Pronunciation: /\u02cc\u0259mb\u0259\u02c8l\u026af\u0259r\u0259s/", "Definition: relating to or belonging to plants of the family Umbelliferae", ""]}
