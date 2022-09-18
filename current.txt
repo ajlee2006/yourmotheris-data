@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T22:01:41.870373+00:00", 5438, "Your mother is", "quadrate", "Pronunciation: /\u02c8kw\u0251dre\u026at/", "Definition: having four sides and four angles", ""]}
+{"data": ["2022-09-18T23:01:02.836534+00:00", 5439, "Your mother is", "cypriot", "Pronunciation: /\u02c8s\u026apri\u0259t/", "Definition: of or relating to Cyprus or its people or culture", "Synonyms: cyprian, cypriote"]}
