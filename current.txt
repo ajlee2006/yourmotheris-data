@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T07:01:32.079872+00:00", 5423, "Your mother is", "slanderous", "Pronunciation: /\u02c8sl\u00e6nd\u025dr\u028cs/", "Definition: (used of statements) harmful and often untrue; tending to discredit or malign", "Synonyms: calumniatory, calumnious, defamatory, denigrating, denigrative, denigratory, libellous, libelous"]}
+{"data": ["2022-09-18T08:00:55.775614+00:00", 5424, "Your mother is", "springlike", "Similar to: elastic", "Definition: resembling a spring or the action of a spring", ""]}
