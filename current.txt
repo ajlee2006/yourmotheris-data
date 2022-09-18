@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T13:01:07.282678+00:00", 5429, "Your mother is", "vigorous", "Pronunciation: /\u02c8v\u026a\u0261\u0259r\u0259s/", "Definition: characterized by forceful and energetic action or activity", ""]}
+{"data": ["2022-09-18T14:01:22.705122+00:00", 5430, "Your mother is", "profane", "Pronunciation: /pr\u0259\u02c8fe\u026an/", "Definition: grossly irreverent toward what is held to be sacred", "Synonyms: blasphemous, sacrilegious"]}
