@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T21:01:34.961383+00:00", 5437, "Your mother is", "fifty-six", "Pronunciation: /\u02c8f\u026afti-s\u026aks/", "Definition: being six more than fifty", "Synonyms: 56, lvi"]}
+{"data": ["2022-09-18T22:01:41.870373+00:00", 5438, "Your mother is", "quadrate", "Pronunciation: /\u02c8kw\u0251dre\u026at/", "Definition: having four sides and four angles", ""]}
