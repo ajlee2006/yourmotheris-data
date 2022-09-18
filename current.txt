@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T20:01:40.152451+00:00", 5436, "Your mother is", "unresolvable", "Pronunciation: /\u02cc\u0259nri\u02c8z\u0251lv\u0259b\u0259l/", "Definition: not easily solved", "Synonyms: insolvable, unsoluble, unsolvable"]}
+{"data": ["2022-09-18T21:01:34.961383+00:00", 5437, "Your mother is", "fifty-six", "Pronunciation: /\u02c8f\u026afti-s\u026aks/", "Definition: being six more than fifty", "Synonyms: 56, lvi"]}
