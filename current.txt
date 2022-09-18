@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T05:00:54.226612+00:00", 5421, "Your mother is", "silty", "Pronunciation: /\u02c8s\u026alti/", "Definition: full of silt", ""]}
+{"data": ["2022-09-18T06:00:57.337135+00:00", 5422, "Your mother is", "technical", "Pronunciation: /\u02c8t\u025bkn\u026ak\u0259l/", "Definition: of or relating to a practical subject that is organized according to scientific principles", "Synonyms: technological"]}
