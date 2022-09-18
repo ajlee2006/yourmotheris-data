@@ -1,1 +1,1 @@
-{"data": ["2022-09-18T19:00:24.731258+00:00", 5435, "Your mother is", "thickspread", "Similar to: covered", "Definition: covered thickly", ""]}
+{"data": ["2022-09-18T20:01:40.152451+00:00", 5436, "Your mother is", "unresolvable", "Pronunciation: /\u02cc\u0259nri\u02c8z\u0251lv\u0259b\u0259l/", "Definition: not easily solved", "Synonyms: insolvable, unsoluble, unsolvable"]}
