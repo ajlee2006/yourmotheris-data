@@ -1,1 +1,1 @@
-{"data": ["2022-09-19T14:01:28.158392+00:00", 5454, "Your mother is", "identified", "Pronunciation: /a\u026a\u02c8d\u025bnt\u028c\u02ccfa\u026ad/", "Definition: having the identity known or established", ""]}
+{"data": ["2022-09-19T15:01:23.737081+00:00", 5455, "Your mother is", "unintended", "Pronunciation: /\u02cc\u0259n\u026an\u02c8t\u025bnd\u026ad/", "Definition: not deliberate", ""]}
