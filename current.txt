@@ -1,1 +1,1 @@
-{"data": ["2022-09-19T09:01:10.603971+00:00", 5449, "Your mother is", "pantalooned", "Similar to: clad", "Definition: dressed in trousers", "Synonyms: breeched, trousered"]}
+{"data": ["2022-09-19T10:01:30.868887+00:00", 5450, "Your mother is", "gray-white", "Pronunciation: /gre\u026a-hwa\u026at/", "Definition: of white tinged with grey", "Synonyms: grayish-white, grey-white, greyish-white"]}
