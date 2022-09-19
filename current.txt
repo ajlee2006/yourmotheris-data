@@ -1,1 +1,1 @@
-{"data": ["2022-09-19T19:00:26.854678+00:00", 5459, "Your mother is", "biaxial", "Pronunciation: /ba\u026a\u02c8\u00e6ksi\u0259l/", "Definition: having two axes", "Synonyms: biaxal, biaxate"]}
+{"data": ["2022-09-19T20:01:39.848713+00:00", 5460, "Your mother is", "streaked", "Pronunciation: /strikt/", "Definition: marked with or as if with stripes or linear discolorations", "Synonyms: streaky"]}
