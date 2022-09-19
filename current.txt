@@ -1,1 +1,1 @@
-{"data": ["2022-09-19T00:02:12.181729+00:00", 5440, "Your mother is", "ignited", "Pronunciation: /\u026a\u0261\u02c8na\u026at\u026ad/", "Definition: set afire", "Synonyms: enkindled, kindled"]}
+{"data": ["2022-09-19T01:01:45.107224+00:00", 5441, "Your mother is", "uppermost", "Pronunciation: /\u02c8\u0259p\u0259r\u02ccmo\u028ast/", "Definition: at or nearest to the top", "Synonyms: topmost, upmost"]}
