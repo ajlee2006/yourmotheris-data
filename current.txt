@@ -1,1 +1,1 @@
-{"data": ["2022-09-19T15:01:23.737081+00:00", 5455, "Your mother is", "unintended", "Pronunciation: /\u02cc\u0259n\u026an\u02c8t\u025bnd\u026ad/", "Definition: not deliberate", ""]}
+{"data": ["2022-09-19T16:01:28.902135+00:00", 5456, "Your mother is", "cinnamon-colored", "Similar to: colored", "Definition: having the color of cinnamon", "Synonyms: cinnamon-coloured, cinnamon colored, cinnamon coloured"]}
