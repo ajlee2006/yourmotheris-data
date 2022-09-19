@@ -1,1 +1,1 @@
-{"data": ["2022-09-19T05:01:30.357210+00:00", 5445, "Your mother is", "unkindled", "Similar to: unlighted", "Definition: not set afire", ""]}
+{"data": ["2022-09-19T06:01:39.407873+00:00", 5446, "Your mother is", "rose-tinged", "Similar to: chromatic", "Definition: of a color tinged with rose", "Synonyms: rose-tinted"]}
