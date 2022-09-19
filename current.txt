@@ -1,1 +1,1 @@
-{"data": ["2022-09-19T21:01:42.144806+00:00", 5461, "Your mother is", "shaped", "Pronunciation: /\u0283e\u026apt/", "Definition: shaped to fit by or as if by altering the contours of a pliable mass (as by work or effort)", "Synonyms: molded, wrought"]}
+{"data": ["2022-09-19T22:01:26.546947+00:00", 5462, "Your mother is", "praetorial", "", "Definition: of or relating to a Roman praetor", "Synonyms: praetorian, pretorial, pretorian"]}
