@@ -1,1 +1,1 @@
-{"data": ["2022-09-19T02:00:59.310463+00:00", 5442, "Your mother is", "slain", "Pronunciation: /sle\u026an/", "Definition: killed; `slain' is formal or literary as in", ""]}
+{"data": ["2022-09-19T03:01:29.406018+00:00", 5443, "Your mother is", "all-time", "Pronunciation: /\u0254l-ta\u026am/", "Definition: unsurpassed in some respect up to the present", ""]}
