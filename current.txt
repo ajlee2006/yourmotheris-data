@@ -1,1 +1,1 @@
-{"data": ["2022-09-19T16:01:28.902135+00:00", 5456, "Your mother is", "cinnamon-colored", "Similar to: colored", "Definition: having the color of cinnamon", "Synonyms: cinnamon-coloured, cinnamon colored, cinnamon coloured"]}
+{"data": ["2022-09-19T17:01:27.562695+00:00", 5457, "Your mother is", "godly", "Pronunciation: /\u02c8\u0261\u0251dli/", "Definition: emanating from God", "Synonyms: divine"]}
