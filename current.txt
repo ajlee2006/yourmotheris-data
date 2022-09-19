@@ -1,1 +1,1 @@
-{"data": ["2022-09-19T01:01:45.107224+00:00", 5441, "Your mother is", "uppermost", "Pronunciation: /\u02c8\u0259p\u0259r\u02ccmo\u028ast/", "Definition: at or nearest to the top", "Synonyms: topmost, upmost"]}
+{"data": ["2022-09-19T02:00:59.310463+00:00", 5442, "Your mother is", "slain", "Pronunciation: /sle\u026an/", "Definition: killed; `slain' is formal or literary as in", ""]}
