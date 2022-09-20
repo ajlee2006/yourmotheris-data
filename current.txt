@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T16:01:42.426670+00:00", 5480, "Your mother is", "penitentiary", "Pronunciation: /\u02ccp\u025bn\u026a\u02c8t\u025bn\u0283\u0259ri/", "Definition: showing or constituting penance", "Synonyms: penitential"]}
+{"data": ["2022-09-20T17:01:22.851459+00:00", 5481, "Your mother is", "solemn", "Pronunciation: /\u02c8s\u0251l\u0259m/", "Definition: characterized by a firm and humorless belief in the validity of your opinions", "Synonyms: earnest, sincere"]}
