@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T19:01:00.777350+00:00", 5483, "Your mother is", "soggy", "Pronunciation: /\u02c8s\u0251\u0261i/", "Definition: slow and apathetic", "Synonyms: inert, sluggish, torpid"]}
+{"data": ["2022-09-20T20:01:17.825588+00:00", 5484, "Your mother is", "graecophile", "", "Definition: characterized by a love of Greece and Grecian things", "Synonyms: graecophilic, philhellene, philhellenic"]}
