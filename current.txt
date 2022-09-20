@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T04:00:58.049353+00:00", 5468, "Your mother is", "solo", "Pronunciation: /\u02c8so\u028alo\u028a/", "Definition: composed or performed by a single voice or instrument", ""]}
+{"data": ["2022-09-20T05:01:30.780887+00:00", 5469, "Your mother is", "unshared", "Pronunciation: /\u0259n\u02c8\u0283\u025cd/", "Definition: not shared", ""]}
