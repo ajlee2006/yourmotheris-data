@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T02:01:22.918893+00:00", 5466, "Your mother is", "putrefactive", "Similar to: infected", "Definition: causing or promoting bacterial putrefaction", "Synonyms: putrefacient"]}
+{"data": ["2022-09-20T03:01:45.822995+00:00", 5467, "Your mother is", "wage-earning", "Similar to: blue-collar", "Definition: working for hourly wages rather than fixed (e.g. annual) salaries", "Synonyms: working-class"]}
