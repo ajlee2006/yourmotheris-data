@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T17:01:22.851459+00:00", 5481, "Your mother is", "solemn", "Pronunciation: /\u02c8s\u0251l\u0259m/", "Definition: characterized by a firm and humorless belief in the validity of your opinions", "Synonyms: earnest, sincere"]}
+{"data": ["2022-09-20T18:00:22.466621+00:00", 5482, "Your mother is", "inductive", "Pronunciation: /\u026an\u02c8d\u0259kt\u026av/", "Definition: inducing or influencing; leading on", "Synonyms: inducive"]}
