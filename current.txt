@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T00:10:00.250193+00:00", 5464, "Your mother is", "unkindled", "Similar to: unlighted", "Definition: not set afire", ""]}
+{"data": ["2022-09-20T01:01:44.603079+00:00", 5465, "Your mother is", "double-humped", "", "Definition: having two humps", "Synonyms: two-humped"]}
