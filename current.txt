@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T08:01:20.880802+00:00", 5472, "Your mother is", "stalked", "Pronunciation: /st\u0254kt/", "Definition: having or growing on or from a peduncle or stalk", "Synonyms: pedunculate"]}
+{"data": ["2022-09-20T09:01:29.138282+00:00", 5473, "Your mother is", "mercurous", "Pronunciation: /m\u0259r\u02c8kj\u028ar\u0259s/", "Definition: of or containing mercury", "Synonyms: mercuric"]}
