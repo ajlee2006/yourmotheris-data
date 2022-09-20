@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T20:01:17.825588+00:00", 5484, "Your mother is", "graecophile", "", "Definition: characterized by a love of Greece and Grecian things", "Synonyms: graecophilic, philhellene, philhellenic"]}
+{"data": ["2022-09-20T21:01:36.598291+00:00", 5485, "Your mother is", "country-style", "Pronunciation: /\u02c8k\u0259ntri-sta\u026al/", "Definition: typical of the country", ""]}
