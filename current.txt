@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T22:01:16.808407+00:00", 5486, "Your mother is", "limpid", "Pronunciation: /\u02c8l\u026amp\u026ad/", "Definition: clear and bright", "Synonyms: liquid"]}
+{"data": ["2022-09-20T23:01:38.876054+00:00", 5487, "Your mother is", "burled", "Similar to: patterned", "Definition: (of wood) have a pattern from the grain of a tree burl", ""]}
