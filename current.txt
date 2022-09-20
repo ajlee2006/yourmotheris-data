@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T11:00:49.803466+00:00", 5475, "Your mother is", "harsh-voiced", "Pronunciation: /h\u0251r\u0283-v\u0254\u026ast/", "Definition: having an unusually harsh sound", ""]}
+{"data": ["2022-09-20T12:01:30.642218+00:00", 5476, "Your mother is", "clamant", "Pronunciation: /\u02c8kle\u026am\u0259nt/", "Definition: demanding attention", "Synonyms: crying, exigent, insistent, instant"]}
