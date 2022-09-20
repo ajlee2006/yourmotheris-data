@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T01:01:44.603079+00:00", 5465, "Your mother is", "double-humped", "", "Definition: having two humps", "Synonyms: two-humped"]}
+{"data": ["2022-09-20T02:01:22.918893+00:00", 5466, "Your mother is", "putrefactive", "Similar to: infected", "Definition: causing or promoting bacterial putrefaction", "Synonyms: putrefacient"]}
