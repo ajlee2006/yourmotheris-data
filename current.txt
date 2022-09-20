@@ -1,1 +1,1 @@
-{"data": ["2022-09-19T23:01:44.474451+00:00", 5463, "Your mother is", "midi", "Pronunciation: /mi\u02c8di/", "Definition: used of women's clothing having a hemline at mid-calf", ""]}
+{"data": ["2022-09-20T00:10:00.250193+00:00", 5464, "Your mother is", "unkindled", "Similar to: unlighted", "Definition: not set afire", ""]}
