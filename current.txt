@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T18:00:22.466621+00:00", 5482, "Your mother is", "inductive", "Pronunciation: /\u026an\u02c8d\u0259kt\u026av/", "Definition: inducing or influencing; leading on", "Synonyms: inducive"]}
+{"data": ["2022-09-20T19:01:00.777350+00:00", 5483, "Your mother is", "soggy", "Pronunciation: /\u02c8s\u0251\u0261i/", "Definition: slow and apathetic", "Synonyms: inert, sluggish, torpid"]}
