@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T12:01:30.642218+00:00", 5476, "Your mother is", "clamant", "Pronunciation: /\u02c8kle\u026am\u0259nt/", "Definition: demanding attention", "Synonyms: crying, exigent, insistent, instant"]}
+{"data": ["2022-09-20T13:00:37.353598+00:00", 5477, "Your mother is", "foursquare", "Pronunciation: /\u02c8fo\u028ar\u02c8skw\u025cr/", "Definition: characterized by firm and unwavering conviction", ""]}
