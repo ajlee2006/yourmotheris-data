@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T14:01:28.143794+00:00", 5478, "Your mother is", "toothed", "Pronunciation: /tu\u03b8t/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: erose, jagged, jaggy, notched"]}
+{"data": ["2022-09-20T15:00:48.183699+00:00", 5479, "Your mother is", "discorporate", "Similar to: immaterial", "Definition: not having a material body", "Synonyms: bodiless, disembodied, unbodied, unembodied"]}
