@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T13:00:37.353598+00:00", 5477, "Your mother is", "foursquare", "Pronunciation: /\u02c8fo\u028ar\u02c8skw\u025cr/", "Definition: characterized by firm and unwavering conviction", ""]}
+{"data": ["2022-09-20T14:01:28.143794+00:00", 5478, "Your mother is", "toothed", "Pronunciation: /tu\u03b8t/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: erose, jagged, jaggy, notched"]}
