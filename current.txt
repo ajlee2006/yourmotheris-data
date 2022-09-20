@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T21:01:36.598291+00:00", 5485, "Your mother is", "country-style", "Pronunciation: /\u02c8k\u0259ntri-sta\u026al/", "Definition: typical of the country", ""]}
+{"data": ["2022-09-20T22:01:16.808407+00:00", 5486, "Your mother is", "limpid", "Pronunciation: /\u02c8l\u026amp\u026ad/", "Definition: clear and bright", "Synonyms: liquid"]}
