@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T05:01:30.780887+00:00", 5469, "Your mother is", "unshared", "Pronunciation: /\u0259n\u02c8\u0283\u025cd/", "Definition: not shared", ""]}
+{"data": ["2022-09-20T06:01:05.214235+00:00", 5470, "Your mother is", "hand-to-hand", "Pronunciation: /\u02c8h\u00e6ndt\u0259-\u02c8h\u00e6nd/", "Definition: being at close quarters", ""]}
