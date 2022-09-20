@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T06:01:05.214235+00:00", 5470, "Your mother is", "hand-to-hand", "Pronunciation: /\u02c8h\u00e6ndt\u0259-\u02c8h\u00e6nd/", "Definition: being at close quarters", ""]}
+{"data": ["2022-09-20T07:02:10.431621+00:00", 5471, "Your mother is", "yellow-gray", "Similar to: achromatic", "Definition: of grey tinged with yellow", "Synonyms: yellow-grey, yellowish-gray, yellowish-grey"]}
