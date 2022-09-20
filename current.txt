@@ -1,1 +1,1 @@
-{"data": ["2022-09-20T10:01:17.106018+00:00", 5474, "Your mother is", "maledict", "Pronunciation: /\u02c8m\u00e6l\u026ad\u026akt/", "Definition: under a curse", "Synonyms: accursed, accurst"]}
+{"data": ["2022-09-20T11:00:49.803466+00:00", 5475, "Your mother is", "harsh-voiced", "Pronunciation: /h\u0251r\u0283-v\u0254\u026ast/", "Definition: having an unusually harsh sound", ""]}
