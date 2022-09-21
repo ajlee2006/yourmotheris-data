@@ -1,1 +1,1 @@
-{"data": ["2022-09-21T03:02:09.974217+00:00", 5491, "Your mother is", "botryoid", "", "Definition: resembling a cluster of grapes in form", "Synonyms: botryoidal, boytrose"]}
+{"data": ["2022-09-21T04:01:09.417035+00:00", 5492, "Your mother is", "heavyhearted", "Similar to: sad", "Definition: depressed", ""]}
