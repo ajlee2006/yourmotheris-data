@@ -1,1 +1,1 @@
-{"data": ["2022-09-21T21:00:22.412052+00:00", 5509, "Your mother is", "unargumentative", "Similar to: noncontentious", "Definition: not given to or characterized by argument", ""]}
+{"data": ["2022-09-21T22:00:28.893653+00:00", 5510, "Your mother is", "adjunct", "Pronunciation: /\u02c8\u00e6d\u0292\u0259\u014bkt/", "Definition: furnishing added support", "Synonyms: accessory, adjuvant, ancillary, appurtenant, auxiliary"]}
