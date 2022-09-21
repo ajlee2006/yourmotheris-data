@@ -1,1 +1,1 @@
-{"data": ["2022-09-21T04:01:09.417035+00:00", 5492, "Your mother is", "heavyhearted", "Similar to: sad", "Definition: depressed", ""]}
+{"data": ["2022-09-21T05:01:45.896558+00:00", 5493, "Your mother is", "nodular", "Pronunciation: /\u02c8n\u0251d\u0292\u0259l\u0259r/", "Definition: having nodules or occurring in the form of nodules", "Synonyms: nodulated, noduled"]}
