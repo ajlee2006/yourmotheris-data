@@ -1,1 +1,1 @@
-{"data": ["2022-09-21T16:00:32.897423+00:00", 5504, "Your mother is", "violative", "Pronunciation: /\u02c8va\u026a\u0259\u02ccle\u026at\u026av/", "Definition: violating or tending to violate or offend against", "Synonyms: offensive"]}
+{"data": ["2022-09-21T17:01:44.000921+00:00", 5505, "Your mother is", "heated", "Pronunciation: /\u02c8hit\u026ad/", "Definition: made warm or hot (`het' is a dialectal variant of `heated')", "Synonyms: heated up, het, het up"]}
