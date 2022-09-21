@@ -1,1 +1,1 @@
-{"data": ["2022-09-21T07:00:56.055863+00:00", 5495, "Your mother is", "backmost", "Pronunciation: /\u02c8b\u00e6kmo\u028ast/", "Definition: located farthest to the rear", "Synonyms: hindermost, hindmost, rearmost"]}
+{"data": ["2022-09-21T08:01:31.877028+00:00", 5496, "Your mother is", "radio", "Pronunciation: /\u02c8re\u026adi\u02cco\u028a/", "Definition: indicating radiation or radioactivity", ""]}
