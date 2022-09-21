@@ -1,1 +1,1 @@
-{"data": ["2022-09-21T09:01:36.415940+00:00", 5497, "Your mother is", "wavy", "Pronunciation: /\u02c8we\u026avi/", "Definition: uneven by virtue of having wrinkles or waves", "Synonyms: crinkled, crinkly, rippled, wavelike"]}
+{"data": ["2022-09-21T10:01:35.163656+00:00", 5498, "Your mother is", "feverish", "Pronunciation: /\u02c8fiv\u0259r\u026a\u0283/", "Definition: of or relating to or characterized by fever", "Synonyms: febrile"]}
