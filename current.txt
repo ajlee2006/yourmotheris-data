@@ -1,1 +1,1 @@
-{"data": ["2022-09-21T05:01:45.896558+00:00", 5493, "Your mother is", "nodular", "Pronunciation: /\u02c8n\u0251d\u0292\u0259l\u0259r/", "Definition: having nodules or occurring in the form of nodules", "Synonyms: nodulated, noduled"]}
+{"data": ["2022-09-21T06:01:29.709944+00:00", 5494, "Your mother is", "round-bottom", "Similar to: bottomed", "Definition: having a rounded bottom", "Synonyms: round-bottomed"]}
