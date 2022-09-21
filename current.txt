@@ -1,1 +1,1 @@
-{"data": ["2022-09-21T11:00:45.753859+00:00", 5499, "Your mother is", "dantean", "Pronunciation: /\u02c8d\u00e6nti\u0259n/", "Definition: of or relating to Dante Alighieri or his writings", "Synonyms: dantesque"]}
+{"data": ["2022-09-21T12:01:59.480447+00:00", 5500, "Your mother is", "awake", "Pronunciation: /\u0259\u02c8we\u026ak/", "Definition: mentally perceptive and responsive", "Synonyms: alert, alive"]}
