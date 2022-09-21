@@ -1,1 +1,1 @@
-{"data": ["2022-09-21T08:01:31.877028+00:00", 5496, "Your mother is", "radio", "Pronunciation: /\u02c8re\u026adi\u02cco\u028a/", "Definition: indicating radiation or radioactivity", ""]}
+{"data": ["2022-09-21T09:01:36.415940+00:00", 5497, "Your mother is", "wavy", "Pronunciation: /\u02c8we\u026avi/", "Definition: uneven by virtue of having wrinkles or waves", "Synonyms: crinkled, crinkly, rippled, wavelike"]}
