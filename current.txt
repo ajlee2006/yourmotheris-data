@@ -1,1 +1,1 @@
-{"data": ["2022-09-21T12:01:59.480447+00:00", 5500, "Your mother is", "awake", "Pronunciation: /\u0259\u02c8we\u026ak/", "Definition: mentally perceptive and responsive", "Synonyms: alert, alive"]}
+{"data": ["2022-09-21T13:00:42.789641+00:00", 5501, "Your mother is", "treated", "Pronunciation: /\u02c8trit\u028cd/", "Definition: made hard or flexible or resilient especially by heat treatment", "Synonyms: hardened, tempered, toughened"]}
