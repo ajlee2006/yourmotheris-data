@@ -1,1 +1,1 @@
-{"data": ["2022-09-21T14:00:23.827837+00:00", 5502, "Your mother is", "afrikaner", "Pronunciation: /\u02cc\u00e6fr\u0259\u02c8k\u0251n\u0259r/", "Definition: belonging or relating to white people of South Africa whose ancestors were Dutch or to their language", "Synonyms: afrikaans"]}
+{"data": ["2022-09-21T15:00:24.530869+00:00", 5503, "Your mother is", "flakey", "", "Definition: made of or resembling flakes", "Synonyms: flaky"]}
