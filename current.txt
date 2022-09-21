@@ -1,1 +1,1 @@
-{"data": ["2022-09-21T17:01:44.000921+00:00", 5505, "Your mother is", "heated", "Pronunciation: /\u02c8hit\u026ad/", "Definition: made warm or hot (`het' is a dialectal variant of `heated')", "Synonyms: heated up, het, het up"]}
+{"data": ["2022-09-21T18:01:15.598701+00:00", 5506, "Your mother is", "behavioristic", "", "Definition: of or relating to behaviorism", "Synonyms: behaviorist, behaviourist, behaviouristic"]}
