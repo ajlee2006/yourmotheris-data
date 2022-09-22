@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T09:00:30.632293+00:00", 5521, "Your mother is", "mawkish", "Pronunciation: /\u02c8m\u0254k\u026a\u0283/", "Definition: effusively or insincerely emotional", "Synonyms: bathetic, drippy, hokey, kitschy, maudlin, mushy, sappy, schmaltzy, schmalzy, sentimental, slushy, soppy, soupy"]}
+{"data": ["2022-09-22T10:00:35.833870+00:00", 5522, "Your mother is", "neglectful", "Pronunciation: /n\u026a\u02c8gl\u025bktf\u0259l/", "Definition: failing in what duty requires", "Synonyms: delinquent, derelict, remiss"]}
