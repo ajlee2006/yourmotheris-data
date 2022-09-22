@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T14:01:34.622576+00:00", 5526, "Your mother is", "sensible", "Pronunciation: /\u02c8s\u025bns\u0259b\u0259l/", "Definition: able to feel or perceive", "Synonyms: sensitive"]}
+{"data": ["2022-09-22T15:00:57.764085+00:00", 5527, "Your mother is", "petrifying", "Similar to: alarming", "Definition: paralyzing with terror", ""]}
