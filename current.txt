@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T07:01:00.788828+00:00", 5519, "Your mother is", "extravert", "Pronunciation: /\u02c8\u025bkstr\u0259\u02ccv\u025crt/", "Definition: being concerned with the social and physical environment", "Synonyms: extraverted, extravertive, extrovert, extroverted, extrovertive"]}
+{"data": ["2022-09-22T08:01:40.542923+00:00", 5520, "Your mother is", "oppositive", "Pronunciation: /\u0259\u02c8p\u0251z\u026at\u026av/", "Definition: expressing antithesis or opposition", "Synonyms: adversative"]}
