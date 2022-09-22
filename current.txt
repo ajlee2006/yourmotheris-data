@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T16:00:47.559058+00:00", 5528, "Your mother is", "bookable", "Similar to: reserved", "Definition: subject to being reserved or booked", ""]}
+{"data": ["2022-09-22T17:01:09.152649+00:00", 5529, "Your mother is", "apostolic", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8st\u0251l\u026ak/", "Definition: proceeding from or ordered by or subject to a pope or the papacy regarded as the successor of the Apostles", "Synonyms: apostolical, papal, pontifical"]}
