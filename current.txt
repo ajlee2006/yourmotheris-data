@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T04:01:27.035543+00:00", 5516, "Your mother is", "slanting", "Pronunciation: /\u02c8sl\u00e6nt\u026a\u014b/", "Definition: having an oblique or slanted direction", "Synonyms: aslant, aslope, diagonal, slanted, sloped, sloping"]}
+{"data": ["2022-09-22T05:01:21.209509+00:00", 5517, "Your mother is", "knockdown-dragout", "Similar to: violent", "Definition: extremely violent", "Synonyms: knock-down-and-drag-out"]}
