@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T11:00:21.801778+00:00", 5523, "Your mother is", "unimpregnated", "Similar to: infertile", "Definition: not having been fertilized", "Synonyms: unfertilised, unfertilized"]}
+{"data": ["2022-09-22T12:00:48.955874+00:00", 5524, "Your mother is", "thermosetting", "Pronunciation: /\u02cc\u03b8\u025crmo\u028a\u02c8s\u025bt\u026a\u014b/", "Definition: having the property of becoming permanently hard and rigid when heated or cured", "Synonyms: thermoset"]}
