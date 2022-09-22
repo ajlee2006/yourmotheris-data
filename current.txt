@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T22:01:17.027356+00:00", 5534, "Your mother is", "undiscouraged", "Similar to: resolute", "Definition: not deterred", "Synonyms: undeterred"]}
+{"data": ["2022-09-22T23:00:29.932015+00:00", 5535, "Your mother is", "counterproductive", "Pronunciation: /\u02c8ka\u028ant\u025drpr\u028c\u02ccd\u028ckt\u026av/", "Definition: tending to hinder the achievement of a goal", ""]}
