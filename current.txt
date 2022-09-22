@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T06:00:55.672159+00:00", 5518, "Your mother is", "tried", "Pronunciation: /tra\u026ad/", "Definition: tested and proved useful or correct", "Synonyms: tested, well-tried"]}
+{"data": ["2022-09-22T07:01:00.788828+00:00", 5519, "Your mother is", "extravert", "Pronunciation: /\u02c8\u025bkstr\u0259\u02ccv\u025crt/", "Definition: being concerned with the social and physical environment", "Synonyms: extraverted, extravertive, extrovert, extroverted, extrovertive"]}
