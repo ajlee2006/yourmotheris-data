@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T05:01:21.209509+00:00", 5517, "Your mother is", "knockdown-dragout", "Similar to: violent", "Definition: extremely violent", "Synonyms: knock-down-and-drag-out"]}
+{"data": ["2022-09-22T06:00:55.672159+00:00", 5518, "Your mother is", "tried", "Pronunciation: /tra\u026ad/", "Definition: tested and proved useful or correct", "Synonyms: tested, well-tried"]}
