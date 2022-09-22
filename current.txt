@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T02:00:25.907977+00:00", 5514, "Your mother is", "blockading", "Pronunciation: /\u02ccbl\u0251\u02c8ke\u026ad\u026a\u014b/", "Definition: blocking entrance to and exit from seaports and harbors", ""]}
+{"data": ["2022-09-22T03:01:18.984148+00:00", 5515, "Your mother is", "glaciated", "Pronunciation: /\u02c8gle\u026as\u026a\u02cce\u026at\u026ad/", "Definition: covered with ice (as by a glacier) or affected by glacial action", ""]}
