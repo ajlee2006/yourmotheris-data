@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T03:01:18.984148+00:00", 5515, "Your mother is", "glaciated", "Pronunciation: /\u02c8gle\u026as\u026a\u02cce\u026at\u026ad/", "Definition: covered with ice (as by a glacier) or affected by glacial action", ""]}
+{"data": ["2022-09-22T04:01:27.035543+00:00", 5516, "Your mother is", "slanting", "Pronunciation: /\u02c8sl\u00e6nt\u026a\u014b/", "Definition: having an oblique or slanted direction", "Synonyms: aslant, aslope, diagonal, slanted, sloped, sloping"]}
