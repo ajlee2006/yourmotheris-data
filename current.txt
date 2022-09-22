@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T00:05:28.871364+00:00", 5512, "Your mother is", "red-letter", "Pronunciation: /r\u025bd-\u02c8l\u025bt\u0259r/", "Definition: memorable for being a special occasion", ""]}
+{"data": ["2022-09-22T01:01:39.974472+00:00", 5513, "Your mother is", "inviting", "Pronunciation: /\u026an\u02c8va\u026at\u026a\u014b/", "Definition: attractive and tempting", ""]}
