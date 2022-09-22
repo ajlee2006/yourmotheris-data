@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T12:00:48.955874+00:00", 5524, "Your mother is", "thermosetting", "Pronunciation: /\u02cc\u03b8\u025crmo\u028a\u02c8s\u025bt\u026a\u014b/", "Definition: having the property of becoming permanently hard and rigid when heated or cured", "Synonyms: thermoset"]}
+{"data": ["2022-09-22T13:00:33.858801+00:00", 5525, "Your mother is", "bipartizan", "Similar to: nonpartisan", "Definition: supported by both sides", "Synonyms: bipartisan, two-party, two-way"]}
