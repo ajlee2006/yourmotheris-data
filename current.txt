@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T20:00:53.933915+00:00", 5532, "Your mother is", "biquadratic", "Pronunciation: /\u02ccba\u026akw\u0251\u02c8dr\u00e6t\u026ak/", "Definition: involving  the fourth and no higher power of a quantity or degree", ""]}
+{"data": ["2022-09-22T21:00:31.189597+00:00", 5533, "Your mother is", "such", "Pronunciation: /s\u0259\u02a7/", "Definition: of so extreme a degree or extent", ""]}
