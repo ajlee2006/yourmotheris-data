@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T01:01:39.974472+00:00", 5513, "Your mother is", "inviting", "Pronunciation: /\u026an\u02c8va\u026at\u026a\u014b/", "Definition: attractive and tempting", ""]}
+{"data": ["2022-09-22T02:00:25.907977+00:00", 5514, "Your mother is", "blockading", "Pronunciation: /\u02ccbl\u0251\u02c8ke\u026ad\u026a\u014b/", "Definition: blocking entrance to and exit from seaports and harbors", ""]}
