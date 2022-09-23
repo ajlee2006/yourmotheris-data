@@ -1,1 +1,1 @@
-{"data": ["2022-09-23T10:01:06.849861+00:00", 5546, "Your mother is", "boughten", "Pronunciation: /\u02c8b\u0254t\u0259n/", "Definition: purchased; not homemade", "Synonyms: store-bought"]}
+{"data": ["2022-09-23T11:00:21.576497+00:00", 5547, "Your mother is", "flesh-colored", "Pronunciation: /fl\u025b\u0283-\u02c8k\u0259l\u0259rd/", "Definition: having a bright red or pinkish color", "Synonyms: flesh-coloured"]}
