@@ -1,1 +1,1 @@
-{"data": ["2022-09-23T09:01:39.232843+00:00", 5545, "Your mother is", "unpitying", "Pronunciation: /\u0259n\u02c8p\u026at\u026ai\u014b/", "Definition: without mercy or pity", "Synonyms: pitiless, remorseless, ruthless"]}
+{"data": ["2022-09-23T10:01:06.849861+00:00", 5546, "Your mother is", "boughten", "Pronunciation: /\u02c8b\u0254t\u0259n/", "Definition: purchased; not homemade", "Synonyms: store-bought"]}
