@@ -1,1 +1,1 @@
-{"data": ["2022-09-23T19:01:40.818826+00:00", 5555, "Your mother is", "dodgy", "Pronunciation: /\u02c8d\u0251d\u0292i/", "Definition: of uncertain outcome; especially fraught with risk", "Synonyms: chanceful, chancy, dicey"]}
+{"data": ["2022-09-23T20:00:51.610143+00:00", 5556, "Your mother is", "ovoviviparous", "Pronunciation: /\u02cco\u028avo\u028ava\u026a\u02c8v\u026ap\u0259r\u0259s/", "Definition: producing living young from eggs that hatch within the body", ""]}
