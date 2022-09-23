@@ -1,1 +1,1 @@
-{"data": ["2022-09-23T08:01:03.894030+00:00", 5544, "Your mother is", "unestablished", "Similar to: unrecognised", "Definition: not established", ""]}
+{"data": ["2022-09-23T09:01:39.232843+00:00", 5545, "Your mother is", "unpitying", "Pronunciation: /\u0259n\u02c8p\u026at\u026ai\u014b/", "Definition: without mercy or pity", "Synonyms: pitiless, remorseless, ruthless"]}
