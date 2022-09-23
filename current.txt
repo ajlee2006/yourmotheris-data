@@ -1,1 +1,1 @@
-{"data": ["2022-09-23T06:01:30.564979+00:00", 5542, "Your mother is", "knotted", "Pronunciation: /\u02c8n\u0251t\u026ad/", "Definition: used of old persons or old trees; covered with knobs or knots", "Synonyms: gnarled, gnarly, knobbed, knotty"]}
+{"data": ["2022-09-23T07:00:41.862209+00:00", 5543, "Your mother is", "ineradicable", "Pronunciation: /\u02cc\u026an\u026a\u02c8r\u00e6d\u0259k\u0259b\u0259l/", "Definition: not able to be destroyed or rooted out", ""]}
