@@ -1,1 +1,1 @@
-{"data": ["2022-09-22T23:00:29.932015+00:00", 5535, "Your mother is", "counterproductive", "Pronunciation: /\u02c8ka\u028ant\u025drpr\u028c\u02ccd\u028ckt\u026av/", "Definition: tending to hinder the achievement of a goal", ""]}
+{"data": ["2022-09-23T00:01:41.622762+00:00", 5536, "Your mother is", "untried", "Pronunciation: /\u0259n\u02c8tra\u026ad/", "Definition: not tried or tested by experience", "Synonyms: unseasoned, untested, young"]}
