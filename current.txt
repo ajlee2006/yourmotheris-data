@@ -1,1 +1,1 @@
-{"data": ["2022-09-23T22:00:26.630065+00:00", 5558, "Your mother is", "vesicatory", "Pronunciation: /\u02c8v\u025bs\u0259k\u0259\u02ccto\u028ari/", "Definition: causing blisters", "Synonyms: vesicant"]}
+{"data": ["2022-09-23T23:00:51.623920+00:00", 5559, "Your mother is", "stalkless", "Pronunciation: /\u02c8st\u0254kl\u026as/", "Definition: attached directly by the base; not having an intervening stalk", "Synonyms: sessile"]}
