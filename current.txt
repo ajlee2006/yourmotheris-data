@@ -1,1 +1,1 @@
-{"data": ["2022-09-23T14:01:40.981408+00:00", 5550, "Your mother is", "ferny", "Pronunciation: /\u02c8f\u025crni/", "Definition: abounding in or covered with ferns", "Synonyms: ferned"]}
+{"data": ["2022-09-23T15:01:10.163730+00:00", 5551, "Your mother is", "disposed", "Pronunciation: /d\u026a\u02c8spo\u028azd/", "Definition: (usually followed by `to') naturally disposed toward", "Synonyms: apt, given, minded, tending"]}
