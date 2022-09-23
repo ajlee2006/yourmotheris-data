@@ -1,1 +1,1 @@
-{"data": ["2022-09-23T04:01:31.211904+00:00", 5540, "Your mother is", "elective", "Pronunciation: /\u026a\u02c8l\u025bkt\u026av/", "Definition: not compulsory", "Synonyms: facultative"]}
+{"data": ["2022-09-23T05:01:36.803950+00:00", 5541, "Your mother is", "unbranched", "Similar to: branchless", "Definition: without branches", "Synonyms: unbranching"]}
