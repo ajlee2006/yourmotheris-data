@@ -1,1 +1,1 @@
-{"data": ["2022-09-23T02:00:45.932255+00:00", 5538, "Your mother is", "perplexed", "Pronunciation: /p\u0259r\u02c8pl\u025bkst/", "Definition: full of difficulty or confusion or bewilderment", ""]}
+{"data": ["2022-09-23T03:00:35.290066+00:00", 5539, "Your mother is", "nonvoluntary", "Similar to: goaded", "Definition: not subject to the control of the will", "Synonyms: involuntary, unvoluntary"]}
