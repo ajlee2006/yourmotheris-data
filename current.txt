@@ -1,1 +1,1 @@
-{"data": ["2022-09-23T03:00:35.290066+00:00", 5539, "Your mother is", "nonvoluntary", "Similar to: goaded", "Definition: not subject to the control of the will", "Synonyms: involuntary, unvoluntary"]}
+{"data": ["2022-09-23T04:01:31.211904+00:00", 5540, "Your mother is", "elective", "Pronunciation: /\u026a\u02c8l\u025bkt\u026av/", "Definition: not compulsory", "Synonyms: facultative"]}
