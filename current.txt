@@ -1,1 +1,1 @@
-{"data": ["2022-09-23T12:00:37.943096+00:00", 5548, "Your mother is", "12th", "Similar to: ordinal", "Definition: coming next after the eleventh and just before the thirteenth in position", "Synonyms: twelfth"]}
+{"data": ["2022-09-23T13:01:05.426565+00:00", 5549, "Your mother is", "unstuck", "Pronunciation: /\u028cn\u02c8st\u028ck/", "Definition: thrown into a state of disorganization or incoherence", "Synonyms: undone"]}
