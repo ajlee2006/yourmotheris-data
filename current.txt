@@ -1,1 +1,1 @@
-{"data": ["2022-09-23T20:00:51.610143+00:00", 5556, "Your mother is", "ovoviviparous", "Pronunciation: /\u02cco\u028avo\u028ava\u026a\u02c8v\u026ap\u0259r\u0259s/", "Definition: producing living young from eggs that hatch within the body", ""]}
+{"data": ["2022-09-23T21:00:28.642380+00:00", 5557, "Your mother is", "technical-grade", "Similar to: impure", "Definition: containing small amounts of other chemicals, hence slightly impure", "Synonyms: technical grade"]}
