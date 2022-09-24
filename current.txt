@@ -1,1 +1,1 @@
-{"data": ["2022-09-24T18:00:29.318037+00:00", 5578, "Your mother is", "discrete", "Pronunciation: /d\u026a\u02c8skrit/", "Definition: constituting a separate entity or part", "Synonyms: distinct"]}
+{"data": ["2022-09-24T19:01:18.667871+00:00", 5579, "Your mother is", "immanent", "Pronunciation: /\u02c8\u026am\u0259n\u0259nt/", "Definition: of a mental act performed entirely within the mind", "Synonyms: subjective"]}
