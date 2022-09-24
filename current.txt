@@ -1,1 +1,1 @@
-{"data": ["2022-09-24T21:00:38.325959+00:00", 5581, "Your mother is", "la-di-da", "Pronunciation: /\u02c8l\u0251di-\u02c8d\u0251/", "Definition: affectedly genteel", "Synonyms: grandiose, hifalutin, highfalutin, highfaluting, hoity-toity"]}
+{"data": ["2022-09-24T22:01:10.349922+00:00", 5582, "Your mother is", "plumbable", "", "Definition: (of depth) capable of being sounded or measured for depth", "Synonyms: fathomable, soundable"]}
