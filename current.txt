@@ -1,1 +1,1 @@
-{"data": ["2022-09-24T15:00:58.445879+00:00", 5575, "Your mother is", "two-year", "Pronunciation: /tu-jir/", "Definition: having a life cycle lasting two seasons", "Synonyms: biennial"]}
+{"data": ["2022-09-24T16:00:54.415899+00:00", 5576, "Your mother is", "moral", "Pronunciation: /\u02c8m\u0254r\u0259l/", "Definition: concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles", ""]}
