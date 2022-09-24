@@ -1,1 +1,1 @@
-{"data": ["2022-09-24T17:01:20.621063+00:00", 5577, "Your mother is", "canonical", "Pronunciation: /k\u0259\u02c8n\u0251n\u026ak\u0259l/", "Definition: conforming to orthodox or recognized rules", "Synonyms: canonic, sanctioned"]}
+{"data": ["2022-09-24T18:00:29.318037+00:00", 5578, "Your mother is", "discrete", "Pronunciation: /d\u026a\u02c8skrit/", "Definition: constituting a separate entity or part", "Synonyms: distinct"]}
