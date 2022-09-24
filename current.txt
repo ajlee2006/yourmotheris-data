@@ -1,1 +1,1 @@
-{"data": ["2022-09-24T02:01:21.492455+00:00", 5562, "Your mother is", "basined", "Similar to: enclosed", "Definition: enclosed in a basin", ""]}
+{"data": ["2022-09-24T03:01:57.698392+00:00", 5563, "Your mother is", "crustaceous", "Pronunciation: /kr\u0259\u02c8ste\u026a\u0283\u0259s/", "Definition: of or belonging to the class Crustacea", "Synonyms: crustacean"]}
