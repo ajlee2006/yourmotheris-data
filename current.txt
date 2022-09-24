@@ -1,1 +1,1 @@
-{"data": ["2022-09-24T16:00:54.415899+00:00", 5576, "Your mother is", "moral", "Pronunciation: /\u02c8m\u0254r\u0259l/", "Definition: concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles", ""]}
+{"data": ["2022-09-24T17:01:20.621063+00:00", 5577, "Your mother is", "canonical", "Pronunciation: /k\u0259\u02c8n\u0251n\u026ak\u0259l/", "Definition: conforming to orthodox or recognized rules", "Synonyms: canonic, sanctioned"]}
