@@ -1,1 +1,1 @@
-{"data": ["2022-09-24T05:00:59.997623+00:00", 5565, "Your mother is", "holier-than-thou", "Pronunciation: /\u02c8ho\u028ali\u0259r-\u00f0\u0259n-\u02c8\u00f0a\u028a/", "Definition: excessively or hypocritically pious", "Synonyms: pharisaic, pharisaical, pietistic, pietistical, sanctimonious, self-righteous"]}
+{"data": ["2022-09-24T06:01:24.066340+00:00", 5566, "Your mother is", "odoriferous", "Pronunciation: /\u02cco\u028ad\u0259\u02c8r\u026af\u0259r\u0259s/", "Definition: emitting an odor", "Synonyms: odorous"]}
