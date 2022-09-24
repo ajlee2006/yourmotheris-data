@@ -1,1 +1,1 @@
-{"data": ["2022-09-24T00:01:25.478463+00:00", 5560, "Your mother is", "neuroanatomic", "", "Definition: of or relating to neural tissue or the nervous system", "Synonyms: neuroanatomical"]}
+{"data": ["2022-09-24T01:00:55.707459+00:00", 5561, "Your mother is", "dolabriform", "Pronunciation: /do\u028a\u02c8l\u00e6br\u0259\u02ccf\u0254rm/", "Definition: having the shape of the head of an ax or cleaver", "Synonyms: dolabrate"]}
