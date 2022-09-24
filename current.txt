@@ -1,1 +1,1 @@
-{"data": ["2022-09-24T03:01:57.698392+00:00", 5563, "Your mother is", "crustaceous", "Pronunciation: /kr\u0259\u02c8ste\u026a\u0283\u0259s/", "Definition: of or belonging to the class Crustacea", "Synonyms: crustacean"]}
+{"data": ["2022-09-24T04:01:20.202849+00:00", 5564, "Your mother is", "palatal", "Pronunciation: /\u02c8p\u00e6l\u0259t\u0259l/", "Definition: relating to or lying near the palate", "Synonyms: palatine"]}
