@@ -1,1 +1,1 @@
-{"data": ["2022-09-23T23:00:51.623920+00:00", 5559, "Your mother is", "stalkless", "Pronunciation: /\u02c8st\u0254kl\u026as/", "Definition: attached directly by the base; not having an intervening stalk", "Synonyms: sessile"]}
+{"data": ["2022-09-24T00:01:25.478463+00:00", 5560, "Your mother is", "neuroanatomic", "", "Definition: of or relating to neural tissue or the nervous system", "Synonyms: neuroanatomical"]}
