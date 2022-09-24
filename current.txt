@@ -1,1 +1,1 @@
-{"data": ["2022-09-24T10:01:23.713916+00:00", 5570, "Your mother is", "weatherly", "Pronunciation: /\u02c8w\u025b\u00f0\u0259rli/", "Definition: (of a sailing vessel) making very little leeway when close-hauled", ""]}
+{"data": ["2022-09-24T11:01:26.683307+00:00", 5571, "Your mother is", "unanswerable", "Pronunciation: /\u0259n\u02c8\u00e6ns\u0259r\u0259b\u0259l/", "Definition: impossible to answer", ""]}
