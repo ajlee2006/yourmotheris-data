@@ -1,1 +1,1 @@
-{"data": ["2022-09-24T12:00:46.234917+00:00", 5572, "Your mother is", "speaking", "Pronunciation: /\u02c8spik\u026a\u014b/", "Definition: capable of or involving speech or speaking", ""]}
+{"data": ["2022-09-24T13:00:53.055760+00:00", 5573, "Your mother is", "ineradicable", "Pronunciation: /\u02cc\u026an\u026a\u02c8r\u00e6d\u0259k\u0259b\u0259l/", "Definition: not able to be destroyed or rooted out", ""]}
