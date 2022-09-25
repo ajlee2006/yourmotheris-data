@@ -1,1 +1,1 @@
-{"data": ["2022-09-25T03:01:44.794723+00:00", 5587, "Your mother is", "palm-shaped", "Pronunciation: /p\u0251m-\u0283e\u026apt/", "Definition: of a leaf shape; having leaflets or lobes radiating from a common point", "Synonyms: palmate"]}
+{"data": ["2022-09-25T04:01:45.330022+00:00", 5588, "Your mother is", "loveless", "Pronunciation: /\u02c8l\u0259vl\u026as/", "Definition: receiving no love", ""]}
