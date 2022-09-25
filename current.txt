@@ -1,1 +1,1 @@
-{"data": ["2022-09-25T15:01:10.203177+00:00", 5599, "Your mother is", "lonesome", "Pronunciation: /\u02c8lo\u028ans\u0259m/", "Definition: marked by dejection from being alone", "Synonyms: lonely"]}
+{"data": ["2022-09-25T16:01:39.978923+00:00", 5600, "Your mother is", "inorganic", "Pronunciation: /\u02cc\u026an\u0254r\u02c8\u0261\u00e6n\u026ak/", "Definition: lacking the properties characteristic of living organisms", ""]}
