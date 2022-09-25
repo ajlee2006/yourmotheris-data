@@ -1,1 +1,1 @@
-{"data": ["2022-09-25T08:00:18.866902+00:00", 5592, "Your mother is", "gruelling", "Pronunciation: /\u02c8gru\u0259li\u014b/", "Definition: characterized by effort to the point of exhaustion; especially physical effort", "Synonyms: arduous, backbreaking, grueling, hard, heavy, laborious, operose, punishing, toilsome"]}
+{"data": ["2022-09-25T09:01:31.113961+00:00", 5593, "Your mother is", "remote-controlled", "Similar to: pilotless", "Definition: lacking a crew", "Synonyms: unmanned"]}
