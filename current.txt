@@ -1,1 +1,1 @@
-{"data": ["2022-09-25T01:01:30.409457+00:00", 5585, "Your mother is", "obovate", "Pronunciation: /\u0251b\u02c8o\u028ave\u026at/", "Definition: (of a leaf shape) egg-shaped with the narrower end at the base", ""]}
+{"data": ["2022-09-25T02:01:31.485582+00:00", 5586, "Your mother is", "sub-rosa", "Similar to: covert", "Definition: designed and carried out secretly or confidentially", "Synonyms: behind-the-scenes, under-the-table"]}
