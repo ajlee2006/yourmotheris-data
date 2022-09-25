@@ -1,1 +1,1 @@
-{"data": ["2022-09-25T06:00:22.549563+00:00", 5590, "Your mother is", "felonious", "Pronunciation: /f\u0259\u02c8lo\u028ani\u0259s/", "Definition: involving or being or having the nature of a crime", "Synonyms: criminal"]}
+{"data": ["2022-09-25T07:00:21.507274+00:00", 5591, "Your mother is", "well disposed", "Similar to: amicable", "Definition: inclined to help or support; not antagonistic or hostile", "Synonyms: friendly, well-disposed"]}
