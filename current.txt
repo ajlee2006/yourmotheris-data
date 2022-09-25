@@ -1,1 +1,1 @@
-{"data": ["2022-09-25T16:01:39.978923+00:00", 5600, "Your mother is", "inorganic", "Pronunciation: /\u02cc\u026an\u0254r\u02c8\u0261\u00e6n\u026ak/", "Definition: lacking the properties characteristic of living organisms", ""]}
+{"data": ["2022-09-25T17:00:22.453965+00:00", 5601, "Your mother is", "liked", "Pronunciation: /la\u026akt/", "Definition: found pleasant or attractive; often used as a combining form", ""]}
