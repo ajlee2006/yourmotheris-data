@@ -1,1 +1,1 @@
-{"data": ["2022-09-25T09:01:31.113961+00:00", 5593, "Your mother is", "remote-controlled", "Similar to: pilotless", "Definition: lacking a crew", "Synonyms: unmanned"]}
+{"data": ["2022-09-25T10:00:49.657959+00:00", 5594, "Your mother is", "haploidic", "", "Definition: of a cell or organism having a single set of chromosomes", "Synonyms: haploid, monoploid"]}
