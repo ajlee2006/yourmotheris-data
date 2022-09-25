@@ -1,1 +1,1 @@
-{"data": ["2022-09-25T19:01:31.658160+00:00", 5603, "Your mother is", "queasy", "Pronunciation: /\u02c8kwizi/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, noisome, offensive, sickening, vile"]}
+{"data": ["2022-09-25T20:01:46.731643+00:00", 5604, "Your mother is", "old-fashioned", "Pronunciation: /\u02c8o\u028ald\u02c8f\u00e6\u0283\u0259nd/", "Definition: out of fashion", "Synonyms: antique, demode, ex, old-hat, outmoded, passe, passee"]}
