@@ -1,1 +1,1 @@
-{"data": ["2022-09-25T04:01:45.330022+00:00", 5588, "Your mother is", "loveless", "Pronunciation: /\u02c8l\u0259vl\u026as/", "Definition: receiving no love", ""]}
+{"data": ["2022-09-25T05:01:27.002632+00:00", 5589, "Your mother is", "previous", "Pronunciation: /\u02c8privi\u0259s/", "Definition: just preceding something else in time or order", "Synonyms: old"]}
