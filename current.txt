@@ -1,1 +1,1 @@
-{"data": ["2022-09-25T12:01:16.905533+00:00", 5596, "Your mother is", "sequestered", "Pronunciation: /s\u026a\u02c8kw\u025bst\u0259rd/", "Definition: providing privacy or seclusion", "Synonyms: cloistered, reclusive, secluded"]}
+{"data": ["2022-09-25T13:00:39.729275+00:00", 5597, "Your mother is", "attacking", "Pronunciation: /\u028c\u02c8t\u00e6k\u026a\u014b/", "Definition: disposed to attack", "Synonyms: assaultive"]}
