@@ -1,1 +1,1 @@
-{"data": ["2022-09-25T11:00:20.604212+00:00", 5595, "Your mother is", "visionary", "Pronunciation: /\u02c8v\u026a\u0292\u0259\u02ccn\u025bri/", "Definition: not practical or realizable; speculative", "Synonyms: airy, impractical, laputan, windy"]}
+{"data": ["2022-09-25T12:01:16.905533+00:00", 5596, "Your mother is", "sequestered", "Pronunciation: /s\u026a\u02c8kw\u025bst\u0259rd/", "Definition: providing privacy or seclusion", "Synonyms: cloistered, reclusive, secluded"]}
