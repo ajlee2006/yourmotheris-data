@@ -1,1 +1,1 @@
-{"data": ["2022-09-25T17:00:22.453965+00:00", 5601, "Your mother is", "liked", "Pronunciation: /la\u026akt/", "Definition: found pleasant or attractive; often used as a combining form", ""]}
+{"data": ["2022-09-25T18:00:26.550340+00:00", 5602, "Your mother is", "unsegmented", "Similar to: united", "Definition: having a body that is not divided into segments", "Synonyms: nonsegmental"]}
