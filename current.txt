@@ -1,1 +1,1 @@
-{"data": ["2022-09-24T23:00:44.197787+00:00", 5583, "Your mother is", "daughterly", "Pronunciation: /\u02c8d\u0254t\u0259rli/", "Definition: befitting a daughter", ""]}
+{"data": ["2022-09-25T00:02:14.251421+00:00", 5584, "Your mother is", "undramatic", "Similar to: unspectacular", "Definition: lacking dramatic force and quality", ""]}
