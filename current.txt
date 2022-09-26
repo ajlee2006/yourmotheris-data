@@ -1,1 +1,1 @@
-{"data": ["2022-09-26T08:00:41.752837+00:00", 5616, "Your mother is", "quick-frozen", "Similar to: preserved", "Definition: (used of foods) preserved by freezing sufficiently rapidly to retain flavor and nutritional value", "Synonyms: flash-frozen, frozen"]}
+{"data": ["2022-09-26T09:02:04.193661+00:00", 5617, "Your mother is", "syncarpous", "Pronunciation: /s\u026an\u02c8k\u0251rp\u0259s/", "Definition: (of ovaries of flowering plants) consisting of united carpels", ""]}
