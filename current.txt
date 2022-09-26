@@ -1,1 +1,1 @@
-{"data": ["2022-09-26T00:02:12.460273+00:00", 5608, "Your mother is", "gilt", "Pronunciation: /\u0261\u026alt/", "Definition: having the deep slightly brownish color of gold", "Synonyms: aureate, gilded, gold, golden"]}
+{"data": ["2022-09-26T01:00:59.726075+00:00", 5609, "Your mother is", "confirmative", "Similar to: supportive", "Definition: serving to support or corroborate", "Synonyms: collateral, confirmatory, confirming, corroborative, corroboratory, substantiating, substantiative, validating, validatory, verificatory, verifying"]}
