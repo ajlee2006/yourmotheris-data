@@ -1,1 +1,1 @@
-{"data": ["2022-09-26T04:00:19.907772+00:00", 5612, "Your mother is", "ok", "Pronunciation: /o\u028a\u02c8ke\u026a/", "Definition: being satisfactory or in satisfactory condition", "Synonyms: all right, cool, fine, hunky-dory, o.k., okay"]}
+{"data": ["2022-09-26T05:00:50.646636+00:00", 5613, "Your mother is", "gloomy", "Pronunciation: /\u02c8glumi/", "Definition: depressingly dark", "Synonyms: gloomful, glooming, sulky"]}
