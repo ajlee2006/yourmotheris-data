@@ -1,1 +1,1 @@
-{"data": ["2022-09-26T01:00:59.726075+00:00", 5609, "Your mother is", "confirmative", "Similar to: supportive", "Definition: serving to support or corroborate", "Synonyms: collateral, confirmatory, confirming, corroborative, corroboratory, substantiating, substantiative, validating, validatory, verificatory, verifying"]}
+{"data": ["2022-09-26T02:01:50.761027+00:00", 5610, "Your mother is", "antifertility", "Similar to: protective", "Definition: capable of preventing conception or impregnation", "Synonyms: contraceptive, prophylactic"]}
