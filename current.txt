@@ -1,1 +1,1 @@
-{"data": ["2022-09-26T10:00:20.372748+00:00", 5618, "Your mother is", "roaring", "Pronunciation: /\u02c8ro\u028ar\u026a\u014b/", "Definition: very lively and profitable", "Synonyms: booming, flourishing, palmy, prospering, prosperous, thriving"]}
+{"data": ["2022-09-26T11:01:35.363058+00:00", 5619, "Your mother is", "brazen", "Pronunciation: /\u02c8bre\u026az\u0259n/", "Definition: unrestrained by convention or propriety", "Synonyms: audacious, bald-faced, barefaced, bodacious, brassy, brazen-faced, insolent"]}
