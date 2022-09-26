@@ -1,1 +1,1 @@
-{"data": ["2022-09-26T06:01:04.094977+00:00", 5614, "Your mother is", "dimmed", "Pronunciation: /d\u026amd/", "Definition: made dim or less bright", "Synonyms: dim"]}
+{"data": ["2022-09-26T07:00:45.135009+00:00", 5615, "Your mother is", "difficult", "Pronunciation: /\u02c8d\u026af\u0259\u02cck\u0259lt/", "Definition: hard to control", "Synonyms: unmanageable"]}
