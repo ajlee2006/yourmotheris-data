@@ -1,1 +1,1 @@
-{"data": ["2022-09-26T14:01:10.844341+00:00", 5622, "Your mother is", "honorific", "Pronunciation: /\u02cc\u0251n\u0259\u02c8r\u026af\u026ak/", "Definition: conferring or showing honor or respect", ""]}
+{"data": ["2022-09-26T15:01:23.352947+00:00", 5623, "Your mother is", "slimed", "Similar to: slippery", "Definition: covered with or resembling slime", "Synonyms: slimy"]}
