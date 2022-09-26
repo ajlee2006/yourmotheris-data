@@ -1,1 +1,1 @@
-{"data": ["2022-09-26T12:01:07.098462+00:00", 5620, "Your mother is", "inappropriate", "Pronunciation: /\u02cc\u026an\u0259\u02c8pro\u028apri\u026at/", "Definition: not in keeping with what is correct or proper", "Synonyms: incompatible, out or keeping, unfitting"]}
+{"data": ["2022-09-26T13:00:22.199875+00:00", 5621, "Your mother is", "sexist", "Pronunciation: /\u02c8s\u025bks\u026ast/", "Definition: discriminatory on the basis of sex (usually said of men's attitude toward women)", ""]}
