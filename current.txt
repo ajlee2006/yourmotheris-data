@@ -1,1 +1,1 @@
-{"data": ["2022-09-26T18:01:23.876740+00:00", 5626, "Your mother is", "aeriform", "Pronunciation: /\u02c8\u025cr\u0259\u02ccf\u0254rm/", "Definition: resembling air or having the form of air", "Synonyms: airlike"]}
+{"data": ["2022-09-26T19:01:14.973671+00:00", 5627, "Your mother is", "cryptogamous", "Pronunciation: /kr\u026ap\u02c8t\u0251\u0261\u0259m\u0259s/", "Definition: of or relating to a cryptogam", "Synonyms: cryptogamic"]}
