@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T17:00:56.721095+00:00", 5649, "Your mother is", "homebound", "Pronunciation: /\u02c8ho\u028am\u02c8ba\u028and/", "Definition: confined usually by illness", "Synonyms: housebound, shut-in"]}
+{"data": ["2022-09-27T18:01:29.834458+00:00", 5650, "Your mother is", "impending", "Pronunciation: /\u026am\u02c8p\u025bnd\u026a\u014b/", "Definition: close in time; about to occur", "Synonyms: at hand, close at hand, imminent, impendent"]}
