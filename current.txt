@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T08:01:02.733733+00:00", 5640, "Your mother is", "shameful", "Pronunciation: /\u02c8\u0283e\u026amf\u028al/", "Definition: (used of conduct or character) deserving or bringing disgrace or shame", "Synonyms: black, disgraceful, ignominious, inglorious, opprobrious"]}
+{"data": ["2022-09-27T09:01:46.711520+00:00", 5641, "Your mother is", "cambodian", "Pronunciation: /k\u00e6m\u02c8bo\u028adi\u0259n/", "Definition: of or relating to or characteristic of Cambodia or its people or language", "Synonyms: kampuchean"]}
