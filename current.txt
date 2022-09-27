@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T12:00:48.674242+00:00", 5644, "Your mother is", "affixal", "", "Definition: of or pertaining to a linguistic affix", "Synonyms: affixial"]}
+{"data": ["2022-09-27T13:01:04.484287+00:00", 5645, "Your mother is", "croaky", "Pronunciation: /\u02c8kro\u028aki/", "Definition: like the sounds of frogs and crows", "Synonyms: guttural"]}
