@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T18:01:29.834458+00:00", 5650, "Your mother is", "impending", "Pronunciation: /\u026am\u02c8p\u025bnd\u026a\u014b/", "Definition: close in time; about to occur", "Synonyms: at hand, close at hand, imminent, impendent"]}
+{"data": ["2022-09-27T19:01:43.093836+00:00", 5651, "Your mother is", "pantropical", "Pronunciation: /p\u00e6n\u02c8tr\u0251p\u026ak\u0259l/", "Definition: distributed throughout the tropics", "Synonyms: pantropic"]}
