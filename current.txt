@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T06:01:43.454647+00:00", 5638, "Your mother is", "ex-directory", "Similar to: unlisted", "Definition: (of telephone numbers) not listed in the telephone directory", ""]}
+{"data": ["2022-09-27T07:01:27.833420+00:00", 5639, "Your mother is", "clerical", "Pronunciation: /\u02c8kl\u025br\u026ak\u0259l/", "Definition: appropriate for or engaged in office work", ""]}
