@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T13:01:04.484287+00:00", 5645, "Your mother is", "croaky", "Pronunciation: /\u02c8kro\u028aki/", "Definition: like the sounds of frogs and crows", "Synonyms: guttural"]}
+{"data": ["2022-09-27T14:01:45.905441+00:00", 5646, "Your mother is", "unharmonious", "Pronunciation: /\u02cc\u0259nh\u0251r\u02c8mo\u028ani\u0259s/", "Definition: not in harmony", "Synonyms: inharmonious"]}
