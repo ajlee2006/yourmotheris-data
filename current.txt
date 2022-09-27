@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T15:01:12.609054+00:00", 5647, "Your mother is", "unpersuasive", "Pronunciation: /\u02cc\u0259np\u0259\u02c8swe\u026as\u026av/", "Definition: not capable of persuading", ""]}
+{"data": ["2022-09-27T16:00:39.775960+00:00", 5648, "Your mother is", "fecund", "Pronunciation: /\u02c8fik\u0259nd/", "Definition: intellectually productive", "Synonyms: fertile, prolific"]}
