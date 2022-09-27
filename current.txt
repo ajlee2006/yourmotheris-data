@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T02:01:13.511362+00:00", 5634, "Your mother is", "apprenticed", "Pronunciation: /\u028c\u02c8pr\u025bnt\u028cst/", "Definition: bound by contract", "Synonyms: articled, bound, indentured"]}
+{"data": ["2022-09-27T03:01:35.133319+00:00", 5635, "Your mother is", "interpretative", "Pronunciation: /\u026an\u02c8t\u025crpr\u026a\u02ccte\u026at\u026av/", "Definition: that provides interpretation", "Synonyms: interpretive"]}
