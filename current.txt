@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T01:01:10.509932+00:00", 5633, "Your mother is", "squiffy", "Pronunciation: /\u02c8skw\u026afi/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, soused, sozzled, stiff, tight, wet"]}
+{"data": ["2022-09-27T02:01:13.511362+00:00", 5634, "Your mother is", "apprenticed", "Pronunciation: /\u028c\u02c8pr\u025bnt\u028cst/", "Definition: bound by contract", "Synonyms: articled, bound, indentured"]}
