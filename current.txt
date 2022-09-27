@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T11:00:39.981512+00:00", 5643, "Your mother is", "uncut", "Pronunciation: /\u0259n\u02c8k\u0259t/", "Definition: complete", "Synonyms: full-length"]}
+{"data": ["2022-09-27T12:00:48.674242+00:00", 5644, "Your mother is", "affixal", "", "Definition: of or pertaining to a linguistic affix", "Synonyms: affixial"]}
