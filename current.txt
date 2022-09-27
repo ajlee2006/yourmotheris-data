@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T09:01:46.711520+00:00", 5641, "Your mother is", "cambodian", "Pronunciation: /k\u00e6m\u02c8bo\u028adi\u0259n/", "Definition: of or relating to or characteristic of Cambodia or its people or language", "Synonyms: kampuchean"]}
+{"data": ["2022-09-27T10:01:30.800840+00:00", 5642, "Your mother is", "congenerical", "", "Definition: belonging to the same genus", "Synonyms: congeneric, congenerous"]}
