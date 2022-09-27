@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T21:01:15.581656+00:00", 5653, "Your mother is", "d", "Pronunciation: /di/", "Definition: denoting a quantity consisting of 500 items or units", "Synonyms: 500, five hundred"]}
+{"data": ["2022-09-27T22:01:25.531731+00:00", 5654, "Your mother is", "nonreciprocal", "Similar to: nonreciprocating", "Definition: not reciprocal", ""]}
