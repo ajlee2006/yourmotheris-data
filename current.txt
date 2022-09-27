@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T20:01:40.354326+00:00", 5652, "Your mother is", "revengeful", "Pronunciation: /r\u026a\u02c8v\u025bnd\u0292f\u0259l/", "Definition: disposed to seek revenge or intended for revenge", "Synonyms: vengeful, vindictive"]}
+{"data": ["2022-09-27T21:01:15.581656+00:00", 5653, "Your mother is", "d", "Pronunciation: /di/", "Definition: denoting a quantity consisting of 500 items or units", "Synonyms: 500, five hundred"]}
