@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T14:01:45.905441+00:00", 5646, "Your mother is", "unharmonious", "Pronunciation: /\u02cc\u0259nh\u0251r\u02c8mo\u028ani\u0259s/", "Definition: not in harmony", "Synonyms: inharmonious"]}
+{"data": ["2022-09-27T15:01:12.609054+00:00", 5647, "Your mother is", "unpersuasive", "Pronunciation: /\u02cc\u0259np\u0259\u02c8swe\u026as\u026av/", "Definition: not capable of persuading", ""]}
