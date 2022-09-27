@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T04:01:40.743094+00:00", 5636, "Your mother is", "hiemal", "Pronunciation: /\u02c8ha\u026a\u0259m\u0259l/", "Definition: characteristic of or relating to winter", "Synonyms: brumal, hibernal"]}
+{"data": ["2022-09-27T05:00:25.981827+00:00", 5637, "Your mother is", "stagey", "Pronunciation: /\u02c8ste\u026ad\u0292i/", "Definition: having characteristics of the stage especially an artificial and mannered quality", "Synonyms: stagy"]}
