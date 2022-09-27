@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T16:00:39.775960+00:00", 5648, "Your mother is", "fecund", "Pronunciation: /\u02c8fik\u0259nd/", "Definition: intellectually productive", "Synonyms: fertile, prolific"]}
+{"data": ["2022-09-27T17:00:56.721095+00:00", 5649, "Your mother is", "homebound", "Pronunciation: /\u02c8ho\u028am\u02c8ba\u028and/", "Definition: confined usually by illness", "Synonyms: housebound, shut-in"]}
