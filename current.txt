@@ -1,1 +1,1 @@
-{"data": ["2022-09-27T07:01:27.833420+00:00", 5639, "Your mother is", "clerical", "Pronunciation: /\u02c8kl\u025br\u026ak\u0259l/", "Definition: appropriate for or engaged in office work", ""]}
+{"data": ["2022-09-27T08:01:02.733733+00:00", 5640, "Your mother is", "shameful", "Pronunciation: /\u02c8\u0283e\u026amf\u028al/", "Definition: (used of conduct or character) deserving or bringing disgrace or shame", "Synonyms: black, disgraceful, ignominious, inglorious, opprobrious"]}
