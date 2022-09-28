@@ -1,1 +1,1 @@
-{"data": ["2022-09-28T18:01:46.698583+00:00", 5674, "Your mother is", "unascribable", "", "Definition: not attributable", "Synonyms: unattributable"]}
+{"data": ["2022-09-28T19:00:33.355714+00:00", 5675, "Your mother is", "pessimum", "Similar to: worst", "Definition: of an organism's environment; least favorable for survival", "Synonyms: pessimal"]}
