@@ -1,1 +1,1 @@
-{"data": ["2022-09-28T02:01:07.140712+00:00", 5658, "Your mother is", "perfervid", "Pronunciation: /p\u0259r\u02c8f\u025crv\u026ad/", "Definition: characterized by intense emotion", "Synonyms: ardent, fervent, fervid, fiery, impassioned, torrid"]}
+{"data": ["2022-09-28T03:00:52.516365+00:00", 5659, "Your mother is", "four-sided", "Similar to: many-sided", "Definition: having four sides", "Synonyms: quadrilateral"]}
