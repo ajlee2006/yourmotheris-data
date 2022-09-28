@@ -1,1 +1,1 @@
-{"data": ["2022-09-28T20:00:52.767000+00:00", 5676, "Your mother is", "decent", "Pronunciation: /\u02c8dis\u0259nt/", "Definition: in harmony with the spirit of particular persons or occasion", "Synonyms: fitting"]}
+{"data": ["2022-09-28T21:00:36.252899+00:00", 5677, "Your mother is", "benzylic", "", "Definition: relating to benzyl", ""]}
