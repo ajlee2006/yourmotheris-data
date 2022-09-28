@@ -1,1 +1,1 @@
-{"data": ["2022-09-28T06:00:50.411318+00:00", 5662, "Your mother is", "myeloid", "Pronunciation: /\u02c8ma\u026a\u0259\u02ccl\u0254\u026ad/", "Definition: of or relating to the spinal cord", "Synonyms: myelic"]}
+{"data": ["2022-09-28T07:01:10.143086+00:00", 5663, "Your mother is", "fastidious", "Pronunciation: /f\u00e6\u02c8st\u026adi\u0259s/", "Definition: having complicated nutritional requirements; especially growing only in special artificial cultures", "Synonyms: exacting"]}
