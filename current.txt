@@ -1,1 +1,1 @@
-{"data": ["2022-09-28T07:01:10.143086+00:00", 5663, "Your mother is", "fastidious", "Pronunciation: /f\u00e6\u02c8st\u026adi\u0259s/", "Definition: having complicated nutritional requirements; especially growing only in special artificial cultures", "Synonyms: exacting"]}
+{"data": ["2022-09-28T08:01:45.983780+00:00", 5664, "Your mother is", "cordate", "Pronunciation: /\u02c8k\u0254rde\u026at/", "Definition: (of a leaf) shaped like a heart", "Synonyms: cordiform, heart-shaped"]}
