@@ -1,1 +1,1 @@
-{"data": ["2022-09-28T15:01:16.007394+00:00", 5671, "Your mother is", "long-dated", "Pronunciation: /l\u0254\u014b-\u02c8de\u026at\u026ad/", "Definition: of a gilt-edged security; having more than 15 years to run before redemption", ""]}
+{"data": ["2022-09-28T16:01:38.857211+00:00", 5672, "Your mother is", "craniometrical", "", "Definition: of or relating to craniometry", "Synonyms: craniometric"]}
