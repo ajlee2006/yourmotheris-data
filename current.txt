@@ -1,1 +1,1 @@
-{"data": ["2022-09-28T01:00:19.402572+00:00", 5657, "Your mother is", "liable", "Pronunciation: /\u02c8la\u026a\u0259b\u0259l/", "Definition: (often followed by `to') likely to be affected with", "Synonyms: nonimmune, nonresistant, unresistant"]}
+{"data": ["2022-09-28T02:01:07.140712+00:00", 5658, "Your mother is", "perfervid", "Pronunciation: /p\u0259r\u02c8f\u025crv\u026ad/", "Definition: characterized by intense emotion", "Synonyms: ardent, fervent, fervid, fiery, impassioned, torrid"]}
