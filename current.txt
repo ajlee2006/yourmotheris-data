@@ -1,1 +1,1 @@
-{"data": ["2022-09-28T05:01:56.328435+00:00", 5661, "Your mother is", "elongate", "Pronunciation: /\u026a\u02c8l\u0254\u014b\u0261e\u026at/", "Definition: having notably more length than width; being long and slender", "Synonyms: elongated"]}
+{"data": ["2022-09-28T06:00:50.411318+00:00", 5662, "Your mother is", "myeloid", "Pronunciation: /\u02c8ma\u026a\u0259\u02ccl\u0254\u026ad/", "Definition: of or relating to the spinal cord", "Synonyms: myelic"]}
