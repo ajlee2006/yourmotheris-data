@@ -1,1 +1,1 @@
-{"data": ["2022-09-28T08:01:45.983780+00:00", 5664, "Your mother is", "cordate", "Pronunciation: /\u02c8k\u0254rde\u026at/", "Definition: (of a leaf) shaped like a heart", "Synonyms: cordiform, heart-shaped"]}
+{"data": ["2022-09-28T09:00:13.622186+00:00", 5665, "Your mother is", "pebble-grained", "Similar to: uneven", "Definition: (of leather) having a rough surface as the result of being treated with a patterned roller", ""]}
