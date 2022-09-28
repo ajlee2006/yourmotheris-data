@@ -1,1 +1,1 @@
-{"data": ["2022-09-28T22:01:16.960124+00:00", 5678, "Your mother is", "worthy", "Pronunciation: /\u02c8w\u025cr\u03b8i/", "Definition: worthy of being chosen especially as a spouse", "Synonyms: desirable, suitable"]}
+{"data": ["2022-09-28T23:00:48.366998+00:00", 5679, "Your mother is", "71", "Similar to: cardinal", "Definition: being one more than seventy", "Synonyms: lxxi, seventy-one"]}
