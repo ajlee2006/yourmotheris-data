@@ -1,1 +1,1 @@
-{"data": ["2022-09-29T08:02:09.014482+00:00", 5688, "Your mother is", "compulsory", "Pronunciation: /k\u0259m\u02c8p\u0259ls\u0259ri/", "Definition: required by rule", "Synonyms: mandatory, required"]}
+{"data": ["2022-09-29T09:01:12.660099+00:00", 5689, "Your mother is", "futurist", "Pronunciation: /\u02c8fju\u02a7\u0259rist/", "Definition: of or relating to futurism", "Synonyms: futuristic"]}
