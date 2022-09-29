@@ -1,1 +1,1 @@
-{"data": ["2022-09-29T00:02:23.018024+00:00", 5680, "Your mother is", "preexisting", "Pronunciation: /\u02c8pri\u026a\u0261\u02c8z\u026ast\u026a\u014b/", "Definition: existing previously or before something", "Synonyms: pre-existent, pre-existing, preexistent"]}
+{"data": ["2022-09-29T01:01:06.655945+00:00", 5681, "Your mother is", "wide-eyed", "Pronunciation: /wa\u026ad-a\u026ad/", "Definition: (used of eyes) fully open or extended", "Synonyms: wide"]}
