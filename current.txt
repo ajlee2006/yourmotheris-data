@@ -1,1 +1,1 @@
-{"data": ["2022-09-29T16:00:59.775568+00:00", 5696, "Your mother is", "enthralled", "Pronunciation: /\u025bn\u02c8\u03b8r\u0254ld/", "Definition: filled with wonder and delight", "Synonyms: beguiled, captivated, charmed, delighted, entranced"]}
+{"data": ["2022-09-29T17:00:31.296964+00:00", 5697, "Your mother is", "gimcrack", "Pronunciation: /\u02c8d\u0292\u026am\u02cckr\u00e6k/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, loud, meretricious, tacky, tatty, tawdry, trashy"]}
