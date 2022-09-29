@@ -1,1 +1,1 @@
-{"data": ["2022-09-29T20:01:01.893659+00:00", 5700, "Your mother is", "pocked", "Pronunciation: /p\u0251kt/", "Definition: marked by or as if by smallpox or acne or other eruptive skin disease", "Synonyms: pockmarked"]}
+{"data": ["2022-09-29T21:00:47.654029+00:00", 5701, "Your mother is", "done", "Pronunciation: /d\u0259n/", "Definition: having finished or arrived at completion", "Synonyms: through, through with"]}
