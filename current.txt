@@ -1,1 +1,1 @@
-{"data": ["2022-09-29T03:01:27.325351+00:00", 5683, "Your mother is", "frustrating", "Pronunciation: /\u02c8fr\u028c\u02ccstre\u026at\u026a\u014b/", "Definition: preventing realization or attainment of a desire", "Synonyms: frustrative, thwarting"]}
+{"data": ["2022-09-29T04:01:20.379687+00:00", 5684, "Your mother is", "unsolved", "Pronunciation: /\u0259n\u02c8s\u0251lvd/", "Definition: not solved", "Synonyms: unresolved"]}
