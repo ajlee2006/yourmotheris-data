@@ -1,1 +1,1 @@
-{"data": ["2022-09-29T10:01:05.008712+00:00", 5690, "Your mother is", "pinnatisect", "Pronunciation: /p\u026a\u02c8n\u00e6t\u026a\u02ccs\u025bkt/", "Definition: (of a leaf shape) cleft nearly to the midrib in narrow divisions not separated into distinct leaflets", ""]}
+{"data": ["2022-09-29T11:00:51.868219+00:00", 5691, "Your mother is", "marbleized", "Similar to: patterned", "Definition: patterned with veins or streaks or color resembling marble", "Synonyms: marbled, marbleised"]}
