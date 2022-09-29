@@ -1,1 +1,1 @@
-{"data": ["2022-09-29T17:00:31.296964+00:00", 5697, "Your mother is", "gimcrack", "Pronunciation: /\u02c8d\u0292\u026am\u02cckr\u00e6k/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, loud, meretricious, tacky, tatty, tawdry, trashy"]}
+{"data": ["2022-09-29T18:00:16.777244+00:00", 5698, "Your mother is", "disk-shaped", "Pronunciation: /d\u026ask-\u0283e\u026apt/", "Definition: having a flat circular shape", "Synonyms: disc-shaped, disclike, discoid, discoidal, disklike"]}
