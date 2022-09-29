@@ -1,1 +1,1 @@
-{"data": ["2022-09-29T21:00:47.654029+00:00", 5701, "Your mother is", "done", "Pronunciation: /d\u0259n/", "Definition: having finished or arrived at completion", "Synonyms: through, through with"]}
+{"data": ["2022-09-29T22:01:29.818926+00:00", 5702, "Your mother is", "incident", "Pronunciation: /\u02c8\u026ans\u026ad\u0259nt/", "Definition: (sometimes followed by `to') minor or casual or subordinate in significance or nature or occurring as a chance concomitant or consequence", "Synonyms: incidental"]}
