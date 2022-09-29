@@ -1,1 +1,1 @@
-{"data": ["2022-09-29T04:01:20.379687+00:00", 5684, "Your mother is", "unsolved", "Pronunciation: /\u0259n\u02c8s\u0251lvd/", "Definition: not solved", "Synonyms: unresolved"]}
+{"data": ["2022-09-29T05:01:08.613401+00:00", 5685, "Your mother is", "unprompted", "Pronunciation: /\u0259n\u02c8pr\u0251mpt\u026ad/", "Definition: proceeding from natural feeling or impulse without external stimulus", "Synonyms: impulsive"]}
