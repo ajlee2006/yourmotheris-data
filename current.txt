@@ -1,1 +1,1 @@
-{"data": ["2022-09-29T22:01:29.818926+00:00", 5702, "Your mother is", "incident", "Pronunciation: /\u02c8\u026ans\u026ad\u0259nt/", "Definition: (sometimes followed by `to') minor or casual or subordinate in significance or nature or occurring as a chance concomitant or consequence", "Synonyms: incidental"]}
+{"data": ["2022-09-29T23:01:00.114118+00:00", 5703, "Your mother is", "panoptical", "Similar to: seeable", "Definition: including everything visible in one view", "Synonyms: panoptic"]}
