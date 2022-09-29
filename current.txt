@@ -1,1 +1,1 @@
-{"data": ["2022-09-29T19:00:48.544335+00:00", 5699, "Your mother is", "gentle", "Pronunciation: /\u02c8d\u0292\u025bnt\u0259l/", "Definition: marked by moderate steepness", "Synonyms: easy"]}
+{"data": ["2022-09-29T20:01:01.893659+00:00", 5700, "Your mother is", "pocked", "Pronunciation: /p\u0251kt/", "Definition: marked by or as if by smallpox or acne or other eruptive skin disease", "Synonyms: pockmarked"]}
