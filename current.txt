@@ -1,1 +1,1 @@
-{"data": ["2022-09-30T12:00:41.105596+00:00", 5715, "Your mother is", "slimy", "Pronunciation: /\u02c8sla\u026ami/", "Definition: morally reprehensible", "Synonyms: despicable, ugly, unworthy, vile, worthless, wretched"]}
+{"data": ["2022-09-30T13:01:39.474154+00:00", 5716, "Your mother is", "nonconducting", "", "Definition: not able to conduct heat or electricity or sound", "Synonyms: non-conducting, nonconductive"]}
