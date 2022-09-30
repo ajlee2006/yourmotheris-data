@@ -1,1 +1,1 @@
-{"data": ["2022-09-30T07:01:34.068588+00:00", 5710, "Your mother is", "smothering", "Pronunciation: /\u02c8sm\u028c\u00f0\u025dr\u026a\u014b/", "Definition: causing difficulty in breathing especially through lack of fresh air and presence of heat", "Synonyms: suffocating, suffocative"]}
+{"data": ["2022-09-30T08:01:33.509940+00:00", 5711, "Your mother is", "directed", "Pronunciation: /d\u026a\u02c8r\u025bkt\u026ad/", "Definition: manageable by a supervising agent", ""]}
