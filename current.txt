@@ -1,1 +1,1 @@
-{"data": ["2022-09-30T06:00:51.106759+00:00", 5709, "Your mother is", "humbled", "Pronunciation: /\u02c8h\u028cmb\u028cld/", "Definition: subdued or brought low in condition or status", "Synonyms: broken, crushed, humiliated, low"]}
+{"data": ["2022-09-30T07:01:34.068588+00:00", 5710, "Your mother is", "smothering", "Pronunciation: /\u02c8sm\u028c\u00f0\u025dr\u026a\u014b/", "Definition: causing difficulty in breathing especially through lack of fresh air and presence of heat", "Synonyms: suffocating, suffocative"]}
