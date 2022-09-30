@@ -1,1 +1,1 @@
-{"data": ["2022-09-30T02:01:52.169570+00:00", 5705, "Your mother is", "phlegmatic", "Pronunciation: /fl\u025b\u0261\u02c8m\u00e6t\u026ak/", "Definition: showing little emotion", "Synonyms: phlegmatical"]}
+{"data": ["2022-09-30T03:00:57.195065+00:00", 5706, "Your mother is", "apocalyptical", "Similar to: prophetic", "Definition: prophetic of devastation or ultimate doom", "Synonyms: apocalyptic, revelatory"]}
