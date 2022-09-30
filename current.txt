@@ -1,1 +1,1 @@
-{"data": ["2022-09-30T04:01:28.529246+00:00", 5707, "Your mother is", "two-wheeled", "Pronunciation: /tu-hwild/", "Definition: of or relating to vehicles with two wheels", "Synonyms: two-wheel"]}
+{"data": ["2022-09-30T05:00:50.062802+00:00", 5708, "Your mother is", "twenty-sixth", "Pronunciation: /\u02c8tw\u025bnti-\u02c8s\u026aks\u03b8/", "Definition: coming next after the twenty-fifth in position", "Synonyms: 26th"]}
