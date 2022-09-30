@@ -1,1 +1,1 @@
-{"data": ["2022-09-30T17:01:01.756031+00:00", 5720, "Your mother is", "jolting", "Pronunciation: /\u02c8d\u0292o\u028alt\u026a\u014b/", "Definition: causing or characterized by jolts and irregular movements", "Synonyms: bumpy, jolty, jumpy, rocky, rough"]}
+{"data": ["2022-09-30T18:01:22.997934+00:00", 5721, "Your mother is", "bronze-red", "Similar to: chromatic", "Definition: of red tinged with bronze", ""]}
