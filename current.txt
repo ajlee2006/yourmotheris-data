@@ -1,1 +1,1 @@
-{"data": ["2022-09-30T10:00:35.173392+00:00", 5713, "Your mother is", "aggravating", "Pronunciation: /\u02c8\u00e6\u0261r\u028c\u02ccve\u026at\u026a\u014b/", "Definition: making worse", "Synonyms: exacerbating, exasperating"]}
+{"data": ["2022-09-30T11:01:13.682076+00:00", 5714, "Your mother is", "pain-free", "Pronunciation: /pe\u026an-fri/", "Definition: not accompanied by pain sensations", "Synonyms: unpainful"]}
