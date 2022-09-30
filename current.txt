@@ -1,1 +1,1 @@
-{"data": ["2022-09-30T14:00:19.034537+00:00", 5717, "Your mother is", "transitive", "Pronunciation: /\u02c8tr\u00e6ns\u026at\u026av/", "Definition: designating a verb that requires a direct object to complete the meaning", ""]}
+{"data": ["2022-09-30T15:00:54.391010+00:00", 5718, "Your mother is", "addlepated", "Pronunciation: /\u02c8\u00e6d\u0259l\u02ccpe\u026at\u026ad/", "Definition: stupid and confused", "Synonyms: addlebrained, muddleheaded, puddingheaded"]}
