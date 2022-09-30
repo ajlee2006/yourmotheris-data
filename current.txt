@@ -1,1 +1,1 @@
-{"data": ["2022-09-30T15:00:54.391010+00:00", 5718, "Your mother is", "addlepated", "Pronunciation: /\u02c8\u00e6d\u0259l\u02ccpe\u026at\u026ad/", "Definition: stupid and confused", "Synonyms: addlebrained, muddleheaded, puddingheaded"]}
+{"data": ["2022-09-30T16:00:35.337856+00:00", 5719, "Your mother is", "bottle-shaped", "Pronunciation: /\u02c8b\u0251t\u0259l-\u0283e\u026apt/", "Definition: shaped like a bottle", ""]}
