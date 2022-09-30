@@ -1,1 +1,1 @@
-{"data": ["2022-09-30T22:00:56.198583+00:00", 5725, "Your mother is", "indoor", "Pronunciation: /\u02c8\u026an\u02ccdo\u028ar/", "Definition: located, suited for, or taking place within a building", ""]}
+{"data": ["2022-09-30T23:01:00.033966+00:00", 5726, "Your mother is", "fungicidal", "", "Definition: capable of destroying fungi", "Synonyms: antifungal"]}
