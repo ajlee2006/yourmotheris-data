@@ -1,1 +1,1 @@
-{"data": ["2022-09-30T05:00:50.062802+00:00", 5708, "Your mother is", "twenty-sixth", "Pronunciation: /\u02c8tw\u025bnti-\u02c8s\u026aks\u03b8/", "Definition: coming next after the twenty-fifth in position", "Synonyms: 26th"]}
+{"data": ["2022-09-30T06:00:51.106759+00:00", 5709, "Your mother is", "humbled", "Pronunciation: /\u02c8h\u028cmb\u028cld/", "Definition: subdued or brought low in condition or status", "Synonyms: broken, crushed, humiliated, low"]}
