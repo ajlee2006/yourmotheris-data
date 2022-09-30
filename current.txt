@@ -1,1 +1,1 @@
-{"data": ["2022-09-30T08:01:33.509940+00:00", 5711, "Your mother is", "directed", "Pronunciation: /d\u026a\u02c8r\u025bkt\u026ad/", "Definition: manageable by a supervising agent", ""]}
+{"data": ["2022-09-30T09:01:06.837858+00:00", 5712, "Your mother is", "known", "Pronunciation: /no\u028an/", "Definition: apprehended with certainty", ""]}
