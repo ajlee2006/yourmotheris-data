@@ -1,1 +1,1 @@
-{"data": ["2022-09-30T09:01:06.837858+00:00", 5712, "Your mother is", "known", "Pronunciation: /no\u028an/", "Definition: apprehended with certainty", ""]}
+{"data": ["2022-09-30T10:00:35.173392+00:00", 5713, "Your mother is", "aggravating", "Pronunciation: /\u02c8\u00e6\u0261r\u028c\u02ccve\u026at\u026a\u014b/", "Definition: making worse", "Synonyms: exacerbating, exasperating"]}
