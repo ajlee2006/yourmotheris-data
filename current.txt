@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T05:01:43.731486+00:00", 5732, "Your mother is", "crimson-yellow", "Similar to: chromatic", "Definition: yellow tinged with crimson", ""]}
+{"data": ["2022-10-01T06:01:31.046764+00:00", 5733, "Your mother is", "southeasterly", "Pronunciation: /\u02ccsa\u028a\u03b8\u02c8ist\u0259rli/", "Definition: situated in or oriented toward the southeast", "Synonyms: southeast, southeastern"]}
