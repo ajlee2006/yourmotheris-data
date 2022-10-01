@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T22:00:47.368714+00:00", 5749, "Your mother is", "caudate", "Pronunciation: /\u02c8k\u0254de\u026at/", "Definition: having a tail or taillike appendage", "Synonyms: caudated"]}
+{"data": ["2022-10-01T23:00:44.050992+00:00", 5750, "Your mother is", "gaudy", "Pronunciation: /\u02c8\u0261\u0254di/", "Definition: (used especially of clothes) marked by conspicuous display", "Synonyms: flashy, jazzy, showy, sporty"]}
