@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T02:01:51.159717+00:00", 5729, "Your mother is", "cartilaginous", "Pronunciation: /\u02cck\u0251r\u02c8t\u0259l\u00e6d\u0292\u0259n\u0259s/", "Definition: difficult to chew", "Synonyms: gristly, rubbery"]}
+{"data": ["2022-10-01T03:01:33.675979+00:00", 5730, "Your mother is", "ignored", "Pronunciation: /\u026a\u0261\u02c8n\u0254rd/", "Definition: disregarded", "Synonyms: neglected, unheeded"]}
