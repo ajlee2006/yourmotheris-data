@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T19:01:35.002989+00:00", 5746, "Your mother is", "bacchic", "Pronunciation: /\u02c8b\u00e6k\u026ak/", "Definition: used of riotously drunken merrymaking", "Synonyms: bacchanal, bacchanalian, carousing, orgiastic"]}
+{"data": ["2022-10-01T20:00:52.799556+00:00", 5747, "Your mother is", "goody-goody", "Pronunciation: /\u02c8\u0261\u028adi-\u02c8\u0261\u028adi/", "Definition: affectedly or smugly good or self-righteous", ""]}
