@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T10:00:41.121879+00:00", 5737, "Your mother is", "conic", "Pronunciation: /\u02c8k\u0251n\u026ak/", "Definition: relating to or resembling a cone", "Synonyms: cone-shaped, conelike, conical"]}
+{"data": ["2022-10-01T11:00:32.840404+00:00", 5738, "Your mother is", "gesticulating", "Similar to: communicative", "Definition: making gestures while speaking", ""]}
