@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T04:00:17.379643+00:00", 5731, "Your mother is", "innermost", "Pronunciation: /\u02c8\u026an\u0259r\u02ccmo\u028ast/", "Definition: situated or occurring farthest within", "Synonyms: inmost"]}
+{"data": ["2022-10-01T05:01:43.731486+00:00", 5732, "Your mother is", "crimson-yellow", "Similar to: chromatic", "Definition: yellow tinged with crimson", ""]}
