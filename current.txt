@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T09:00:38.992730+00:00", 5736, "Your mother is", "miserable", "Pronunciation: /\u02c8m\u026az\u0259r\u0259b\u0259l/", "Definition: of very poor quality or condition", "Synonyms: deplorable, execrable, woeful, wretched"]}
+{"data": ["2022-10-01T10:00:41.121879+00:00", 5737, "Your mother is", "conic", "Pronunciation: /\u02c8k\u0251n\u026ak/", "Definition: relating to or resembling a cone", "Synonyms: cone-shaped, conelike, conical"]}
