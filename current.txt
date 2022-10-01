@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T17:00:59.689315+00:00", 5744, "Your mother is", "relaxant", "Pronunciation: /ri\u02c8l\u00e6ks\u0259nt/", "Definition: tending to relax or relieve muscular or nervous tension", ""]}
+{"data": ["2022-10-01T18:01:31.892008+00:00", 5745, "Your mother is", "kindhearted", "Pronunciation: /\u02c8ka\u026and\u02c8h\u0251rt\u026ad/", "Definition: having or proceeding from an innately kind disposition", "Synonyms: kind-hearted"]}
