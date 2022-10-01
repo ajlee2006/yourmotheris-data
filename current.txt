@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T16:01:47.039042+00:00", 5743, "Your mother is", "crested", "Pronunciation: /\u02c8kr\u025bst\u028cd/", "Definition: (of a knight's helmet) having a decorative plume", "Synonyms: plumed"]}
+{"data": ["2022-10-01T17:00:59.689315+00:00", 5744, "Your mother is", "relaxant", "Pronunciation: /ri\u02c8l\u00e6ks\u0259nt/", "Definition: tending to relax or relieve muscular or nervous tension", ""]}
