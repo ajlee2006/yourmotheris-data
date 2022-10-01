@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T01:00:44.774973+00:00", 5728, "Your mother is", "vicarious", "Pronunciation: /va\u026a\u02c8k\u025cri\u0259s/", "Definition: experienced at secondhand", ""]}
+{"data": ["2022-10-01T02:01:51.159717+00:00", 5729, "Your mother is", "cartilaginous", "Pronunciation: /\u02cck\u0251r\u02c8t\u0259l\u00e6d\u0292\u0259n\u0259s/", "Definition: difficult to chew", "Synonyms: gristly, rubbery"]}
