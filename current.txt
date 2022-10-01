@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T03:01:33.675979+00:00", 5730, "Your mother is", "ignored", "Pronunciation: /\u026a\u0261\u02c8n\u0254rd/", "Definition: disregarded", "Synonyms: neglected, unheeded"]}
+{"data": ["2022-10-01T04:00:17.379643+00:00", 5731, "Your mother is", "innermost", "Pronunciation: /\u02c8\u026an\u0259r\u02ccmo\u028ast/", "Definition: situated or occurring farthest within", "Synonyms: inmost"]}
