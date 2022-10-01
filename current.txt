@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T15:00:53.043346+00:00", 5742, "Your mother is", "demotic", "Pronunciation: /d\u026a\u02c8m\u0251t\u026ak/", "Definition: of or for the common people", ""]}
+{"data": ["2022-10-01T16:01:47.039042+00:00", 5743, "Your mother is", "crested", "Pronunciation: /\u02c8kr\u025bst\u028cd/", "Definition: (of a knight's helmet) having a decorative plume", "Synonyms: plumed"]}
