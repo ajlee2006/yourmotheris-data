@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T21:00:46.575257+00:00", 5748, "Your mother is", "compatible", "Pronunciation: /k\u0259m\u02c8p\u00e6t\u0259b\u0259l/", "Definition: able to exist and perform in harmonious or agreeable combination", ""]}
+{"data": ["2022-10-01T22:00:47.368714+00:00", 5749, "Your mother is", "caudate", "Pronunciation: /\u02c8k\u0254de\u026at/", "Definition: having a tail or taillike appendage", "Synonyms: caudated"]}
