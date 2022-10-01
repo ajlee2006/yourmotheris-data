@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T08:01:13.833178+00:00", 5735, "Your mother is", "handsewn", "Pronunciation: /\u02c8h\u00e6nd\u02c8so\u028an/", "Definition: sewn by hand rather than machine", "Synonyms: handstitched"]}
+{"data": ["2022-10-01T09:00:38.992730+00:00", 5736, "Your mother is", "miserable", "Pronunciation: /\u02c8m\u026az\u0259r\u0259b\u0259l/", "Definition: of very poor quality or condition", "Synonyms: deplorable, execrable, woeful, wretched"]}
