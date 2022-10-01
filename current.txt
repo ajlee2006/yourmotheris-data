@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T11:00:32.840404+00:00", 5738, "Your mother is", "gesticulating", "Similar to: communicative", "Definition: making gestures while speaking", ""]}
+{"data": ["2022-10-01T12:01:22.464933+00:00", 5739, "Your mother is", "empty-bellied", "Pronunciation: /\u02c8\u025bmpti-\u02c8b\u025blid/", "Definition: needing nourishment", "Synonyms: empty"]}
