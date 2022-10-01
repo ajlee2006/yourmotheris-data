@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T20:00:52.799556+00:00", 5747, "Your mother is", "goody-goody", "Pronunciation: /\u02c8\u0261\u028adi-\u02c8\u0261\u028adi/", "Definition: affectedly or smugly good or self-righteous", ""]}
+{"data": ["2022-10-01T21:00:46.575257+00:00", 5748, "Your mother is", "compatible", "Pronunciation: /k\u0259m\u02c8p\u00e6t\u0259b\u0259l/", "Definition: able to exist and perform in harmonious or agreeable combination", ""]}
