@@ -1,1 +1,1 @@
-{"data": ["2022-10-02T11:00:31.888307+00:00", 5762, "Your mother is", "latter-day", "Pronunciation: /\u02c8l\u00e6t\u0259r-\u02c8de\u026a/", "Definition: belonging to the present or recent times", ""]}
+{"data": ["2022-10-02T12:01:13.880344+00:00", 5763, "Your mother is", "conciliatory", "Pronunciation: /k\u0259n\u02c8s\u026ali\u0259\u02ccto\u028ari/", "Definition: intended to placate", "Synonyms: conciliative"]}
