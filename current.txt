@@ -1,1 +1,1 @@
-{"data": ["2022-10-02T15:00:54.298306+00:00", 5766, "Your mother is", "jaunty", "Pronunciation: /\u02c8d\u0292\u0254nti/", "Definition: having a cheerful, lively, and self-confident air", "Synonyms: chipper, debonair, debonaire"]}
+{"data": ["2022-10-02T16:00:45.365103+00:00", 5767, "Your mother is", "unripe", "Pronunciation: /\u0259n\u02c8ra\u026ap/", "Definition: not fully developed or mature; not ripe", "Synonyms: green, immature, unripened"]}
