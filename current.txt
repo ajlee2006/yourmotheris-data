@@ -1,1 +1,1 @@
-{"data": ["2022-10-02T21:00:48.686264+00:00", 5772, "Your mother is", "unclassifiable", "Pronunciation: /\u0259n\u02c8kl\u00e6s\u026a\u02ccfa\u026a\u0259b\u0259l/", "Definition: not possible to classify", ""]}
+{"data": ["2022-10-02T22:00:59.375753+00:00", 5773, "Your mother is", "motivated", "Pronunciation: /\u02c8mo\u028at\u028c\u02ccve\u026at\u028cd/", "Definition: provided with a motive or given incentive for action", ""]}
