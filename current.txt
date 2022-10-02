@@ -1,1 +1,1 @@
-{"data": ["2022-10-02T05:01:30.059403+00:00", 5756, "Your mother is", "topsy-turvy", "Pronunciation: /\u02c8t\u0251psi-\u02c8t\u025crvi/", "Definition: in utter disorder", "Synonyms: disorderly, higgledy-piggledy, hugger-mugger, jumbled"]}
+{"data": ["2022-10-02T06:01:12.406945+00:00", 5757, "Your mother is", "outraged", "Pronunciation: /\u02c8a\u028at\u02ccre\u026ad\u0292d/", "Definition: angered at something unjust or wrong", "Synonyms: incensed, indignant, umbrageous"]}
