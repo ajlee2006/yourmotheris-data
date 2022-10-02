@@ -1,1 +1,1 @@
-{"data": ["2022-10-02T02:00:57.620788+00:00", 5753, "Your mother is", "calligraphic", "Pronunciation: /\u02cck\u00e6l\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to or expressed in calligraphy", "Synonyms: calligraphical"]}
+{"data": ["2022-10-02T03:01:08.685521+00:00", 5754, "Your mother is", "provoked", "Pronunciation: /pr\u028c\u02c8vo\u028akt/", "Definition: incited, especially deliberately, to anger", "Synonyms: aggravated"]}
