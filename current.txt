@@ -1,1 +1,1 @@
-{"data": ["2022-10-01T23:00:44.050992+00:00", 5750, "Your mother is", "gaudy", "Pronunciation: /\u02c8\u0261\u0254di/", "Definition: (used especially of clothes) marked by conspicuous display", "Synonyms: flashy, jazzy, showy, sporty"]}
+{"data": ["2022-10-02T00:02:09.476003+00:00", 5751, "Your mother is", "reflexed", "Pronunciation: /ri\u02c8fl\u025bkst/", "Definition: (of leaves) bent downward and outward more than 90 degrees", ""]}
