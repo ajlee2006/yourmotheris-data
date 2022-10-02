@@ -1,1 +1,1 @@
-{"data": ["2022-10-02T22:00:59.375753+00:00", 5773, "Your mother is", "motivated", "Pronunciation: /\u02c8mo\u028at\u028c\u02ccve\u026at\u028cd/", "Definition: provided with a motive or given incentive for action", ""]}
+{"data": ["2022-10-02T23:00:43.924552+00:00", 5774, "Your mother is", "demoralising", "Similar to: discouraging", "Definition: destructive of morale and self-reliance", "Synonyms: demoralizing, disheartening, dispiriting"]}
