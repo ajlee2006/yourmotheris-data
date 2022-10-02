@@ -1,1 +1,1 @@
-{"data": ["2022-10-02T00:02:09.476003+00:00", 5751, "Your mother is", "reflexed", "Pronunciation: /ri\u02c8fl\u025bkst/", "Definition: (of leaves) bent downward and outward more than 90 degrees", ""]}
+{"data": ["2022-10-02T01:01:29.948518+00:00", 5752, "Your mother is", "vesicatory", "Pronunciation: /\u02c8v\u025bs\u0259k\u0259\u02ccto\u028ari/", "Definition: causing blisters", "Synonyms: vesicant"]}
