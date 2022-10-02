@@ -1,1 +1,1 @@
-{"data": ["2022-10-02T10:00:22.095068+00:00", 5761, "Your mother is", "hypognathous", "Pronunciation: /ha\u026a\u02c8p\u0251gn\u0259\u03b8\u0259s/", "Definition: having a projecting lower jaw", "Synonyms: prognathic, prognathous"]}
+{"data": ["2022-10-02T11:00:31.888307+00:00", 5762, "Your mother is", "latter-day", "Pronunciation: /\u02c8l\u00e6t\u0259r-\u02c8de\u026a/", "Definition: belonging to the present or recent times", ""]}
