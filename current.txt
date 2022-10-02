@@ -1,1 +1,1 @@
-{"data": ["2022-10-02T12:01:13.880344+00:00", 5763, "Your mother is", "conciliatory", "Pronunciation: /k\u0259n\u02c8s\u026ali\u0259\u02ccto\u028ari/", "Definition: intended to placate", "Synonyms: conciliative"]}
+{"data": ["2022-10-02T13:00:54.210200+00:00", 5764, "Your mother is", "abducting", "Pronunciation: /\u00e6b\u02c8d\u028ckt\u026a\u014b/", "Definition: especially of muscles; drawing away from the midline of the body or from an adjacent part", "Synonyms: abducent"]}
