@@ -1,1 +1,1 @@
-{"data": ["2022-10-02T04:01:27.525159+00:00", 5755, "Your mother is", "monecious", "Pronunciation: /m\u0259\u02c8ni\u0283\u0259s/", "Definition: having male and female reproductive organs in the same plant or animal", "Synonyms: monoecious, monoicous"]}
+{"data": ["2022-10-02T05:01:30.059403+00:00", 5756, "Your mother is", "topsy-turvy", "Pronunciation: /\u02c8t\u0251psi-\u02c8t\u025crvi/", "Definition: in utter disorder", "Synonyms: disorderly, higgledy-piggledy, hugger-mugger, jumbled"]}
