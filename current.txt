@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T03:01:24.558909+00:00", 5778, "Your mother is", "unpleasing", "Pronunciation: /\u0259n\u02c8plizi\u014b/", "Definition: unpleasant or disagreeable to the senses", ""]}
+{"data": ["2022-10-03T04:00:27.504270+00:00", 5779, "Your mother is", "thirty-four", "Pronunciation: /\u02c8\u03b8\u025crti-fo\u028ar/", "Definition: being four more than thirty", "Synonyms: 34, xxxiv"]}
