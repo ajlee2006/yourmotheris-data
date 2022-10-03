@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T04:00:27.504270+00:00", 5779, "Your mother is", "thirty-four", "Pronunciation: /\u02c8\u03b8\u025crti-fo\u028ar/", "Definition: being four more than thirty", "Synonyms: 34, xxxiv"]}
+{"data": ["2022-10-03T05:00:47.625808+00:00", 5780, "Your mother is", "squelched", "Pronunciation: /skw\u025blt\u0283t/", "Definition: subdued or overcome", "Synonyms: quelled, quenched"]}
