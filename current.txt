@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T05:00:47.625808+00:00", 5780, "Your mother is", "squelched", "Pronunciation: /skw\u025blt\u0283t/", "Definition: subdued or overcome", "Synonyms: quelled, quenched"]}
+{"data": ["2022-10-03T06:01:50.586363+00:00", 5781, "Your mother is", "underage", "Pronunciation: /\u02c8\u0259nd\u0259r\u026ad\u0292/", "Definition: not of legal age", "Synonyms: minor, nonaged"]}
