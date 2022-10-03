@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T07:00:49.915976+00:00", 5782, "Your mother is", "curly-coated", "Pronunciation: /\u02c8k\u025crli-\u02c8ko\u028at\u026ad/", "Definition: covered with curly hair", "Synonyms: curly-haired"]}
+{"data": ["2022-10-03T08:00:43.910426+00:00", 5783, "Your mother is", "unairworthy", "", "Definition: not fit to fly", ""]}
