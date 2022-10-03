@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T08:00:43.910426+00:00", 5783, "Your mother is", "unairworthy", "", "Definition: not fit to fly", ""]}
+{"data": ["2022-10-03T09:01:50.457711+00:00", 5784, "Your mother is", "sweltering", "Pronunciation: /\u02c8sw\u025blt\u0259r\u026a\u014b/", "Definition: excessively hot and humid or marked by sweating and faintness", "Synonyms: sweltry"]}
