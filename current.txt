@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T21:00:24.753000+00:00", 5795, "Your mother is", "cuspated", "Similar to: angular", "Definition: having cusps or points", "Synonyms: cuspate, cusped, cuspidal, cuspidate, cuspidated"]}
+{"data": ["2022-10-03T22:00:18.575430+00:00", 5796, "Your mother is", "overladen", "Pronunciation: /\u02cco\u028av\u0259\u02c8le\u026ad\u0259n/", "Definition: loaded past capacity", "Synonyms: overloaded"]}
