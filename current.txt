@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T11:00:39.321238+00:00", 5786, "Your mother is", "scheduled", "Pronunciation: /\u02c8sk\u025bd\u0292\u028ald/", "Definition: planned or scheduled for some certain time or times", ""]}
+{"data": ["2022-10-03T12:01:04.018968+00:00", 5787, "Your mother is", "forgettable", "Pronunciation: /f\u0254r\u02c8\u0261\u025bt\u028cb\u028cl/", "Definition: easily forgotten", ""]}
