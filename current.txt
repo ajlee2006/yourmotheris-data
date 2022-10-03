@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T15:01:54.066922+00:00", 5789, "Your mother is", "rust-free", "Similar to: rustless", "Definition: free of rust", ""]}
+{"data": ["2022-10-03T16:01:08.743186+00:00", 5790, "Your mother is", "sixty", "Pronunciation: /\u02c8s\u026aksti/", "Definition: being ten more than fifty", "Synonyms: 60, lx, threescore"]}
