@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T16:01:08.743186+00:00", 5790, "Your mother is", "sixty", "Pronunciation: /\u02c8s\u026aksti/", "Definition: being ten more than fifty", "Synonyms: 60, lx, threescore"]}
+{"data": ["2022-10-03T17:00:32.522380+00:00", 5791, "Your mother is", "en deshabille", "Pronunciation: /\u0251N-de\u026azAbi\u02c8je\u026a/", "Definition: partly dressed in a loose or careless manner", "Synonyms: in dishabille"]}
