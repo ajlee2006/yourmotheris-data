@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T12:01:04.018968+00:00", 5787, "Your mother is", "forgettable", "Pronunciation: /f\u0254r\u02c8\u0261\u025bt\u028cb\u028cl/", "Definition: easily forgotten", ""]}
+{"data": ["2022-10-03T14:01:13.594219+00:00", 5788, "Your mother is", "cxxv", "Similar to: cardinal", "Definition: being five more than one hundred twenty", "Synonyms: 125, one hundred twenty-five"]}
