@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T06:01:50.586363+00:00", 5781, "Your mother is", "underage", "Pronunciation: /\u02c8\u0259nd\u0259r\u026ad\u0292/", "Definition: not of legal age", "Synonyms: minor, nonaged"]}
+{"data": ["2022-10-03T07:00:49.915976+00:00", 5782, "Your mother is", "curly-coated", "Pronunciation: /\u02c8k\u025crli-\u02c8ko\u028at\u026ad/", "Definition: covered with curly hair", "Synonyms: curly-haired"]}
