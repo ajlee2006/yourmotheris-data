@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T20:01:22.775234+00:00", 5794, "Your mother is", "protestant", "Pronunciation: /\u02c8pr\u0251t\u026ast\u0259nt/", "Definition: of or relating to Protestants or Protestantism", ""]}
+{"data": ["2022-10-03T21:00:24.753000+00:00", 5795, "Your mother is", "cuspated", "Similar to: angular", "Definition: having cusps or points", "Synonyms: cuspate, cusped, cuspidal, cuspidate, cuspidated"]}
