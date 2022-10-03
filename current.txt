@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T14:01:13.594219+00:00", 5788, "Your mother is", "cxxv", "Similar to: cardinal", "Definition: being five more than one hundred twenty", "Synonyms: 125, one hundred twenty-five"]}
+{"data": ["2022-10-03T15:01:54.066922+00:00", 5789, "Your mother is", "rust-free", "Similar to: rustless", "Definition: free of rust", ""]}
