@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T10:01:37.536929+00:00", 5785, "Your mother is", "psychopathologic", "Similar to: insane", "Definition: suffering from an undiagnosed mental disorder", "Synonyms: psychopathic, psychopathological"]}
+{"data": ["2022-10-03T11:00:39.321238+00:00", 5786, "Your mother is", "scheduled", "Pronunciation: /\u02c8sk\u025bd\u0292\u028ald/", "Definition: planned or scheduled for some certain time or times", ""]}
