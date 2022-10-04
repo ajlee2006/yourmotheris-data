@@ -1,1 +1,1 @@
-{"data": ["2022-10-04T04:01:35.286251+00:00", 5802, "Your mother is", "stopped-up", "Similar to: obstructed", "Definition: (of a nose) blocked", "Synonyms: stopped, stopped up"]}
+{"data": ["2022-10-04T05:02:12.541994+00:00", 5803, "Your mother is", "lowland", "Pronunciation: /\u02c8lo\u028al\u0259nd/", "Definition: of relatively low or level country", ""]}
