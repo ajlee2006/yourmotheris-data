@@ -1,1 +1,1 @@
-{"data": ["2022-10-04T00:02:43.225884+00:00", 5798, "Your mother is", "beholden", "Pronunciation: /b\u026a\u02c8ho\u028ald\u0259n/", "Definition: under a moral obligation to someone", ""]}
+{"data": ["2022-10-04T01:01:24.027648+00:00", 5799, "Your mother is", "spirituous", "Pronunciation: /\u02c8sp\u026ar\u026a\u02a7u\u0259s/", "Definition: containing or of the nature of alcohol", "Synonyms: spiritous"]}
