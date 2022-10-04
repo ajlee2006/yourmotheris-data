@@ -1,1 +1,1 @@
-{"data": ["2022-10-04T02:01:33.541425+00:00", 5800, "Your mother is", "untagged", "", "Definition: lacking a label or tag", "Synonyms: unlabeled, unlabelled"]}
+{"data": ["2022-10-04T03:01:51.346147+00:00", 5801, "Your mother is", "crashing", "Pronunciation: /\u02c8kr\u00e6\u0283\u026a\u014b/", "Definition: informal intensifiers", "Synonyms: bally, blinking, bloody, blooming, flaming, fucking"]}
