@@ -1,1 +1,1 @@
-{"data": ["2022-10-04T10:01:02.551729+00:00", 5808, "Your mother is", "bugged", "Pronunciation: /b\u028c\u0261d/", "Definition: having hidden electronic eavesdropping devices", ""]}
+{"data": ["2022-10-04T11:01:43.529981+00:00", 5809, "Your mother is", "non-miscible", "Similar to: incompatible", "Definition: (chemistry, physics) incapable of mixing", "Synonyms: immiscible, unmixable"]}
