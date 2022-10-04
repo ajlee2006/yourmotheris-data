@@ -1,1 +1,1 @@
-{"data": ["2022-10-04T01:01:24.027648+00:00", 5799, "Your mother is", "spirituous", "Pronunciation: /\u02c8sp\u026ar\u026a\u02a7u\u0259s/", "Definition: containing or of the nature of alcohol", "Synonyms: spiritous"]}
+{"data": ["2022-10-04T02:01:33.541425+00:00", 5800, "Your mother is", "untagged", "", "Definition: lacking a label or tag", "Synonyms: unlabeled, unlabelled"]}
