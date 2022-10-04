@@ -1,1 +1,1 @@
-{"data": ["2022-10-03T23:00:44.767524+00:00", 5797, "Your mother is", "extendable", "Pronunciation: /\u02cc\u025bk\u02c8st\u025bnd\u028cb\u028cl/", "Definition: capable of being lengthened", "Synonyms: extendible"]}
+{"data": ["2022-10-04T00:02:43.225884+00:00", 5798, "Your mother is", "beholden", "Pronunciation: /b\u026a\u02c8ho\u028ald\u0259n/", "Definition: under a moral obligation to someone", ""]}
