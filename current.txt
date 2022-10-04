@@ -1,1 +1,1 @@
-{"data": ["2022-10-04T11:01:43.529981+00:00", 5809, "Your mother is", "non-miscible", "Similar to: incompatible", "Definition: (chemistry, physics) incapable of mixing", "Synonyms: immiscible, unmixable"]}
+{"data": ["2022-10-04T12:00:45.952262+00:00", 5810, "Your mother is", "dimmed", "Pronunciation: /d\u026amd/", "Definition: made dim or less bright", "Synonyms: dim"]}
