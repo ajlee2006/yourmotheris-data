@@ -1,1 +1,1 @@
-{"data": ["2022-10-04T18:01:05.690569+00:00", 5816, "Your mother is", "bregmatic", "", "Definition: of or relating to the bregma of the skull", ""]}
+{"data": ["2022-10-04T19:01:52.558402+00:00", 5817, "Your mother is", "unilateral", "Pronunciation: /\u02ccjun\u026a\u02c8l\u00e6t\u0259r\u0259l/", "Definition: involving only one part or side", "Synonyms: one-sided"]}
