@@ -1,1 +1,1 @@
-{"data": ["2022-10-04T12:00:45.952262+00:00", 5810, "Your mother is", "dimmed", "Pronunciation: /d\u026amd/", "Definition: made dim or less bright", "Synonyms: dim"]}
+{"data": ["2022-10-04T13:01:19.344311+00:00", 5811, "Your mother is", "one-woman", "Similar to: single", "Definition: designed for or restricted to a single person", "Synonyms: one-man, one-person"]}
