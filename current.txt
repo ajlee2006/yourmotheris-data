@@ -1,1 +1,1 @@
-{"data": ["2022-10-04T19:01:52.558402+00:00", 5817, "Your mother is", "unilateral", "Pronunciation: /\u02ccjun\u026a\u02c8l\u00e6t\u0259r\u0259l/", "Definition: involving only one part or side", "Synonyms: one-sided"]}
+{"data": ["2022-10-04T20:01:39.940079+00:00", 5818, "Your mother is", "open-plan", "Similar to: unrestricted", "Definition: (of rooms or buildings) having large rooms with few dividing partitions", ""]}
