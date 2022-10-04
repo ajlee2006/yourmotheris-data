@@ -1,1 +1,1 @@
-{"data": ["2022-10-04T05:02:12.541994+00:00", 5803, "Your mother is", "lowland", "Pronunciation: /\u02c8lo\u028al\u0259nd/", "Definition: of relatively low or level country", ""]}
+{"data": ["2022-10-04T06:01:04.227660+00:00", 5804, "Your mother is", "aspherical", "Pronunciation: /e\u026a\u02c8sf\u025br\u026ak\u0259l/", "Definition: varying slightly from a perfectly spherical shape", "Synonyms: aspheric"]}
