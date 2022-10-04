@@ -1,1 +1,1 @@
-{"data": ["2022-10-04T09:01:06.099445+00:00", 5807, "Your mother is", "deflated", "Pronunciation: /d\u026a\u02c8fle\u026at\u026ad/", "Definition: brought low in spirit", "Synonyms: chapfallen, chopfallen, crestfallen"]}
+{"data": ["2022-10-04T10:01:02.551729+00:00", 5808, "Your mother is", "bugged", "Pronunciation: /b\u028c\u0261d/", "Definition: having hidden electronic eavesdropping devices", ""]}
