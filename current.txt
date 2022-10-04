@@ -1,1 +1,1 @@
-{"data": ["2022-10-04T06:01:04.227660+00:00", 5804, "Your mother is", "aspherical", "Pronunciation: /e\u026a\u02c8sf\u025br\u026ak\u0259l/", "Definition: varying slightly from a perfectly spherical shape", "Synonyms: aspheric"]}
+{"data": ["2022-10-04T07:01:53.241228+00:00", 5805, "Your mother is", "yonder", "Pronunciation: /\u02c8j\u0251nd\u0259r/", "Definition: distant but within sight (`yon' is dialectal)", "Synonyms: yon"]}
