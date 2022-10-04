@@ -1,1 +1,1 @@
-{"data": ["2022-10-04T15:01:39.890927+00:00", 5813, "Your mother is", "draped", "Pronunciation: /dre\u026apt/", "Definition: covered with or as if with clothes or a wrap or cloak", "Synonyms: cloaked, clothed, mantled, wrapped"]}
+{"data": ["2022-10-04T16:00:19.577596+00:00", 5814, "Your mother is", "motivating", "Pronunciation: /\u02c8mo\u028at\u028c\u02ccve\u026at\u026a\u014b/", "Definition: impelling to action", "Synonyms: motivative, motive"]}
