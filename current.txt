@@ -1,1 +1,1 @@
-{"data": ["2022-10-05T21:00:11.621920+00:00", 5842, "Your mother is", "fused", "Pronunciation: /fjuzd/", "Definition: joined together into a whole", "Synonyms: amalgamate, amalgamated, coalesced, consolidated"]}
+{"data": ["2022-10-05T22:01:29.090007+00:00", 5843, "Your mother is", "mythologic", "Similar to: unreal", "Definition: based on or told of in traditional stories; lacking factual basis or historical validity", "Synonyms: fabulous, mythic, mythical, mythological"]}
