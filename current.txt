@@ -1,1 +1,1 @@
-{"data": ["2022-10-04T23:01:47.192629+00:00", 5821, "Your mother is", "discriminate", "Pronunciation: /d\u026a\u02c8skr\u026am\u0259n\u026at/", "Definition: marked by the ability to see or make fine distinctions", ""]}
+{"data": ["2022-10-05T00:02:37.278955+00:00", 5822, "Your mother is", "burked", "Similar to: suppressed", "Definition: suppressed quietly or indirectly", ""]}
