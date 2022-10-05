@@ -1,1 +1,1 @@
-{"data": ["2022-10-05T11:01:16.260178+00:00", 5833, "Your mother is", "impetuous", "Pronunciation: /\u026am\u02c8p\u025b\u02a7u\u0259s/", "Definition: characterized by undue haste and lack of thought or deliberation", "Synonyms: brainish, hotheaded, impulsive, madcap, tearaway"]}
+{"data": ["2022-10-05T12:00:40.959635+00:00", 5834, "Your mother is", "brash", "Pronunciation: /br\u00e6\u0283/", "Definition: offensively bold", "Synonyms: cheeky, nervy"]}
