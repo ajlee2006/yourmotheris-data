@@ -1,1 +1,1 @@
-{"data": ["2022-10-05T09:00:43.435525+00:00", 5831, "Your mother is", "piscivorous", "Pronunciation: /p\u026a\u02c8s\u026av\u0259r\u0259s/", "Definition: feeding on fishes", ""]}
+{"data": ["2022-10-05T10:00:18.710236+00:00", 5832, "Your mother is", "percipient", "Pronunciation: /p\u0259r\u02c8s\u026api\u0259nt/", "Definition: characterized by ease and quickness in perceiving", "Synonyms: clear"]}
