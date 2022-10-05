@@ -1,1 +1,1 @@
-{"data": ["2022-10-05T13:00:49.916600+00:00", 5835, "Your mother is", "emarginate", "Pronunciation: /\u026a\u02c8m\u0251rd\u0292\u0259\u02ccne\u026at/", "Definition: having a notched tip", ""]}
+{"data": ["2022-10-05T14:01:16.943638+00:00", 5835, "Your mother is", "handmade", "Pronunciation: /\u02c8h\u00e6nd\u02c8me\u026ad/", "Definition: made by hand or a hand process", "Synonyms: hand-crafted"]}
