@@ -1,1 +1,1 @@
-{"data": ["2022-10-05T17:01:19.674603+00:00", 5838, "Your mother is", "anaesthetic", "Pronunciation: /\u02cc\u00e6n\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: characterized by insensibility", "Synonyms: anesthetic"]}
+{"data": ["2022-10-05T18:00:51.053894+00:00", 5839, "Your mother is", "clotted", "Pronunciation: /\u02c8kl\u0251t\u028cd/", "Definition: thickened or coalesced in soft thick lumps (such as clogs or clots)", "Synonyms: clogged"]}
