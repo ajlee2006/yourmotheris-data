@@ -1,1 +1,1 @@
-{"data": ["2022-10-05T03:01:07.697692+00:00", 5825, "Your mother is", "despiteful", "Pronunciation: /d\u026a\u02c8spa\u026atf\u0259l/", "Definition: showing malicious ill will and a desire to hurt; motivated by spite", "Synonyms: spiteful, vindictive"]}
+{"data": ["2022-10-05T04:01:03.739118+00:00", 5826, "Your mother is", "large-cap", "", "Definition: of stocks of companies with a market capitalization of five billion dollars or more", "Synonyms: large-capitalisation, large-capitalization"]}
