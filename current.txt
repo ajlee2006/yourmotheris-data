@@ -1,1 +1,1 @@
-{"data": ["2022-10-05T12:00:40.959635+00:00", 5834, "Your mother is", "brash", "Pronunciation: /br\u00e6\u0283/", "Definition: offensively bold", "Synonyms: cheeky, nervy"]}
+{"data": ["2022-10-05T13:00:49.916600+00:00", 5835, "Your mother is", "emarginate", "Pronunciation: /\u026a\u02c8m\u0251rd\u0292\u0259\u02ccne\u026at/", "Definition: having a notched tip", ""]}
