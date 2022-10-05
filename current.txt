@@ -1,1 +1,1 @@
-{"data": ["2022-10-05T16:00:16.464814+00:00", 5837, "Your mother is", "unblended", "Similar to: unhomogenised", "Definition: not blended or mixed together", ""]}
+{"data": ["2022-10-05T17:01:19.674603+00:00", 5838, "Your mother is", "anaesthetic", "Pronunciation: /\u02cc\u00e6n\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: characterized by insensibility", "Synonyms: anesthetic"]}
