@@ -1,1 +1,1 @@
-{"data": ["2022-10-05T08:00:44.599576+00:00", 5830, "Your mother is", "progressive", "Pronunciation: /pr\u0259\u02c8gr\u025bs\u026av/", "Definition: favoring or promoting reform (often by government action)", "Synonyms: reform-minded, reformist"]}
+{"data": ["2022-10-05T09:00:43.435525+00:00", 5831, "Your mother is", "piscivorous", "Pronunciation: /p\u026a\u02c8s\u026av\u0259r\u0259s/", "Definition: feeding on fishes", ""]}
