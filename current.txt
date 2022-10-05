@@ -1,1 +1,1 @@
-{"data": ["2022-10-05T01:01:21.465278+00:00", 5823, "Your mother is", "aweless", "Pronunciation: /\u02c8\u0254l\u026as/", "Definition: neither feeling nor showing respect", "Synonyms: awless, disrespectful"]}
+{"data": ["2022-10-05T02:01:21.229658+00:00", 5824, "Your mother is", "fang-like", "Similar to: sharp", "Definition: resembling a fang", ""]}
