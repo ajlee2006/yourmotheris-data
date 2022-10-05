@@ -1,1 +1,1 @@
-{"data": ["2022-10-05T10:00:18.710236+00:00", 5832, "Your mother is", "percipient", "Pronunciation: /p\u0259r\u02c8s\u026api\u0259nt/", "Definition: characterized by ease and quickness in perceiving", "Synonyms: clear"]}
+{"data": ["2022-10-05T11:01:16.260178+00:00", 5833, "Your mother is", "impetuous", "Pronunciation: /\u026am\u02c8p\u025b\u02a7u\u0259s/", "Definition: characterized by undue haste and lack of thought or deliberation", "Synonyms: brainish, hotheaded, impulsive, madcap, tearaway"]}
