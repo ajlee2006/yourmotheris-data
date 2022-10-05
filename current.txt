@@ -1,1 +1,1 @@
-{"data": ["2022-10-05T05:00:59.349682+00:00", 5827, "Your mother is", "disparate", "Pronunciation: /\u02c8d\u026asp\u0259r\u026at/", "Definition: fundamentally different or distinct in quality or kind", ""]}
+{"data": ["2022-10-05T06:01:19.920876+00:00", 5828, "Your mother is", "unfitting", "Pronunciation: /\u0259n\u02c8f\u026ati\u014b/", "Definition: not in keeping with what is correct or proper", "Synonyms: inappropriate, incompatible, out or keeping"]}
