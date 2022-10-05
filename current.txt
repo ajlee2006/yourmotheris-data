@@ -1,1 +1,1 @@
-{"data": ["2022-10-05T06:01:19.920876+00:00", 5828, "Your mother is", "unfitting", "Pronunciation: /\u0259n\u02c8f\u026ati\u014b/", "Definition: not in keeping with what is correct or proper", "Synonyms: inappropriate, incompatible, out or keeping"]}
+{"data": ["2022-10-05T07:00:37.517199+00:00", 5829, "Your mother is", "tannish", "Similar to: chromatic", "Definition: of a color resembling tan", ""]}
