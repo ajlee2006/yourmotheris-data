@@ -1,1 +1,1 @@
-{"data": ["2022-10-06T15:00:20.034254+00:00", 5860, "Your mother is", "odds-on", "Pronunciation: /\u02c8\u0251dz\u02c8\u0251n/", "Definition: having a better than even chance of success", ""]}
+{"data": ["2022-10-06T16:00:20.713909+00:00", 5861, "Your mother is", "unlittered", "Similar to: tidy", "Definition: having nothing extraneous", "Synonyms: uncluttered"]}
