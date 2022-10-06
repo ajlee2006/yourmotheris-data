@@ -1,1 +1,1 @@
-{"data": ["2022-10-06T10:00:45.572502+00:00", 5855, "Your mother is", "unsoldierly", "Pronunciation: /\u0259n\u02c8so\u028ald\u0292\u0259li/", "Definition: not conforming to military standards", ""]}
+{"data": ["2022-10-06T11:00:31.855418+00:00", 5856, "Your mother is", "casual", "Pronunciation: /\u02c8k\u00e6\u0292u\u0259l/", "Definition: hasty and without attention to detail; not thorough", "Synonyms: cursory, passing, perfunctory, superficial"]}
