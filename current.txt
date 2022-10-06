@@ -1,1 +1,1 @@
-{"data": ["2022-10-06T11:00:31.855418+00:00", 5856, "Your mother is", "casual", "Pronunciation: /\u02c8k\u00e6\u0292u\u0259l/", "Definition: hasty and without attention to detail; not thorough", "Synonyms: cursory, passing, perfunctory, superficial"]}
+{"data": ["2022-10-06T12:00:53.100641+00:00", 5857, "Your mother is", "sesquipedalian", "Similar to: long", "Definition: (of words) long and ponderous; having many syllables", "Synonyms: polysyllabic"]}
