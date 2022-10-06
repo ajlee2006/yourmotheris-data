@@ -1,1 +1,1 @@
-{"data": ["2022-10-05T23:00:47.157494+00:00", 5844, "Your mother is", "propellent", "Pronunciation: /pr\u0259\u02c8p\u025bl\u0259nt/", "Definition: tending to or capable of propelling", "Synonyms: propellant, propelling, propulsive"]}
+{"data": ["2022-10-06T00:02:23.331090+00:00", 5845, "Your mother is", "bulky", "Pronunciation: /\u02c8b\u0259lki/", "Definition: of large size for its weight", ""]}
