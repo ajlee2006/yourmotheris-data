@@ -1,1 +1,1 @@
-{"data": ["2022-10-06T03:00:45.102994+00:00", 5848, "Your mother is", "sober", "Pronunciation: /\u02c8so\u028ab\u0259r/", "Definition: lacking brightness or color; dull", "Synonyms: drab, somber, sombre"]}
+{"data": ["2022-10-06T04:00:32.964822+00:00", 5849, "Your mother is", "ampullary", "Pronunciation: /\u00e6m\u02c8p\u0259l\u0259ri/", "Definition: of or related to an ampulla", "Synonyms: ampullar"]}
