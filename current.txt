@@ -1,1 +1,1 @@
-{"data": ["2022-10-06T02:01:06.395523+00:00", 5847, "Your mother is", "avoidable", "Pronunciation: /\u028c\u02c8v\u0254\u026ad\u028cb\u028cl/", "Definition: capable of being avoided or warded off", "Synonyms: avertable, avertible, evitable"]}
+{"data": ["2022-10-06T03:00:45.102994+00:00", 5848, "Your mother is", "sober", "Pronunciation: /\u02c8so\u028ab\u0259r/", "Definition: lacking brightness or color; dull", "Synonyms: drab, somber, sombre"]}
