@@ -1,1 +1,1 @@
-{"data": ["2022-10-06T04:00:32.964822+00:00", 5849, "Your mother is", "ampullary", "Pronunciation: /\u00e6m\u02c8p\u0259l\u0259ri/", "Definition: of or related to an ampulla", "Synonyms: ampullar"]}
+{"data": ["2022-10-06T05:00:54.541444+00:00", 5850, "Your mother is", "stooped", "Pronunciation: /stupt/", "Definition: having the back and shoulders rounded; not erect", "Synonyms: crooked, hunched, round-backed, round-shouldered, stooping"]}
