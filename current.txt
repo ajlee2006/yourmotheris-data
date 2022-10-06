@@ -1,1 +1,1 @@
-{"data": ["2022-10-06T08:01:27.195174+00:00", 5853, "Your mother is", "dislocated", "Pronunciation: /\u02c8d\u026aslo\u028ake\u026at\u026ad/", "Definition: separated at the joint", "Synonyms: disjointed, separated"]}
+{"data": ["2022-10-06T09:00:27.710153+00:00", 5854, "Your mother is", "devalued", "Pronunciation: /d\u026a\u02c8v\u00e6l\u02ccjud/", "Definition: lowered in value", "Synonyms: debased, degraded"]}
