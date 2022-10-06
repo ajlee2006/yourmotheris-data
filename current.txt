@@ -1,1 +1,1 @@
-{"data": ["2022-10-06T00:02:23.331090+00:00", 5845, "Your mother is", "bulky", "Pronunciation: /\u02c8b\u0259lki/", "Definition: of large size for its weight", ""]}
+{"data": ["2022-10-06T01:00:47.453129+00:00", 5846, "Your mother is", "adsorbable", "", "Definition: capable of being adsorbed or accumulated on a surface of a solid", "Synonyms: adsorbate"]}
