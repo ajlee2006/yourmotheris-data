@@ -1,1 +1,1 @@
-{"data": ["2022-10-06T17:00:17.423280+00:00", 5862, "Your mother is", "forked", "Pronunciation: /f\u0254rkt/", "Definition: resembling a fork; divided or separated into two branches", "Synonyms: bifurcate, biramous, branched, forficate, fork-like, pronged, prongy"]}
+{"data": ["2022-10-06T18:01:45.204218+00:00", 5863, "Your mother is", "enkindled", "Similar to: lighted", "Definition: set afire", "Synonyms: ignited, kindled"]}
