@@ -1,1 +1,1 @@
-{"data": ["2022-10-06T18:01:45.204218+00:00", 5863, "Your mother is", "enkindled", "Similar to: lighted", "Definition: set afire", "Synonyms: ignited, kindled"]}
+{"data": ["2022-10-06T19:01:38.237273+00:00", 5864, "Your mother is", "43rd", "Similar to: ordinal", "Definition: the ordinal number of forty-three in counting order", "Synonyms: forty-third"]}
