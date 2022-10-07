@@ -1,1 +1,1 @@
-{"data": ["2022-10-07T04:00:38.021992+00:00", 5873, "Your mother is", "minacious", "Pronunciation: /m\u026a\u02c8ne\u026a\u0283\u0259s/", "Definition: threatening or foreshadowing evil or tragic developments", "Synonyms: baleful, forbidding, menacing, minatory, ominous, sinister, threatening"]}
+{"data": ["2022-10-07T05:01:39.763572+00:00", 5874, "Your mother is", "yellow-tinged", "Similar to: chromatic", "Definition: of a color tinged with yellow", ""]}
