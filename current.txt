@@ -1,1 +1,1 @@
-{"data": ["2022-10-07T15:01:35.449429+00:00", 5883, "Your mother is", "probatory", "Pronunciation: /\u02c8pro\u028ab\u0259\u02ccto\u028ari/", "Definition: tending to prove a particular proposition or to persuade you of the truth of an allegation", "Synonyms: probative"]}
+{"data": ["2022-10-07T16:01:12.788324+00:00", 5884, "Your mother is", "low-pressure", "Pronunciation: /\u02c8lo\u028a\u02c8pr\u025b\u0283\u0259r/", "Definition: not forceful", ""]}
