@@ -1,1 +1,1 @@
-{"data": ["2022-10-07T17:00:33.394860+00:00", 5885, "Your mother is", "medicinal", "Pronunciation: /m\u026a\u02c8d\u026as\u026an\u0259l/", "Definition: having the properties of medicine", "Synonyms: medicative"]}
+{"data": ["2022-10-07T18:01:08.726071+00:00", 5886, "Your mother is", "involute", "Pronunciation: /\u02c8\u026anv\u0259\u02cclut/", "Definition: especially of petals or leaves in bud; having margins rolled inward", "Synonyms: rolled"]}
