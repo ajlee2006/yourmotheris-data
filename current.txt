@@ -1,1 +1,1 @@
-{"data": ["2022-10-07T22:00:47.087993+00:00", 5890, "Your mother is", "self-acting", "Pronunciation: /s\u025blf-\u02c8\u00e6kt\u026a\u014b/", "Definition: designed to activate or move or regulate itself", "Synonyms: self-activating, self-moving, self-regulating"]}
+{"data": ["2022-10-07T23:00:46.947290+00:00", 5891, "Your mother is", "doddery", "Pronunciation: /\u02c8d\u0251d\u0259ri/", "Definition: mentally or physically infirm with age", "Synonyms: doddering, gaga, senile"]}
