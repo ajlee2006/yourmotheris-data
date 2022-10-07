@@ -1,1 +1,1 @@
-{"data": ["2022-10-07T19:01:43.445072+00:00", 5887, "Your mother is", "barred", "Pronunciation: /b\u0251rd/", "Definition: preventing entry or exit or a course of action", "Synonyms: barricaded, blockaded"]}
+{"data": ["2022-10-07T20:00:54.133185+00:00", 5888, "Your mother is", "extrovert", "Pronunciation: /\u02c8\u025bkstro\u028a\u02ccv\u025crt/", "Definition: being concerned with the social and physical environment", "Synonyms: extravert, extraverted, extravertive, extroverted, extrovertive"]}
