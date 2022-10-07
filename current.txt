@@ -1,1 +1,1 @@
-{"data": ["2022-10-07T00:01:24.293661+00:00", 5869, "Your mother is", "static", "Pronunciation: /\u02c8st\u00e6t\u026ak/", "Definition: showing little if any change", "Synonyms: stable, unchanging"]}
+{"data": ["2022-10-07T01:01:35.559647+00:00", 5870, "Your mother is", "uncouth", "Pronunciation: /\u0259n\u02c8ku\u03b8/", "Definition: lacking refinement or cultivation or taste", "Synonyms: coarse, common, rough-cut, vulgar"]}
