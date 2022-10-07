@@ -1,1 +1,1 @@
-{"data": ["2022-10-07T12:01:41.703798+00:00", 5880, "Your mother is", "redheaded", "Pronunciation: /\u02c8r\u025bd\u02cch\u025bd\u026ad/", "Definition: having red hair and usually fair skin", ""]}
+{"data": ["2022-10-07T13:00:43.893183+00:00", 5881, "Your mother is", "satyric", "Pronunciation: /s\u0259\u02c8t\u026ar\u026ak/", "Definition: of or relating to or having the characteristics of a satyr", "Synonyms: satyrical"]}
