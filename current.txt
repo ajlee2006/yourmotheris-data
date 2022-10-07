@@ -1,1 +1,1 @@
-{"data": ["2022-10-07T03:00:16.552181+00:00", 5872, "Your mother is", "nisi", "Pronunciation: /\u02c8na\u026asa\u026a/", "Definition: not final or absolute", ""]}
+{"data": ["2022-10-07T04:00:38.021992+00:00", 5873, "Your mother is", "minacious", "Pronunciation: /m\u026a\u02c8ne\u026a\u0283\u0259s/", "Definition: threatening or foreshadowing evil or tragic developments", "Synonyms: baleful, forbidding, menacing, minatory, ominous, sinister, threatening"]}
