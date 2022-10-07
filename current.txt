@@ -1,1 +1,1 @@
-{"data": ["2022-10-07T01:01:35.559647+00:00", 5870, "Your mother is", "uncouth", "Pronunciation: /\u0259n\u02c8ku\u03b8/", "Definition: lacking refinement or cultivation or taste", "Synonyms: coarse, common, rough-cut, vulgar"]}
+{"data": ["2022-10-07T02:01:28.997368+00:00", 5871, "Your mother is", "penciled", "Pronunciation: /\u02c8p\u025bns\u028cld/", "Definition: drawn or written with a pencil", "Synonyms: pencilled"]}
