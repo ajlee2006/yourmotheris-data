@@ -1,1 +1,1 @@
-{"data": ["2022-10-07T16:01:12.788324+00:00", 5884, "Your mother is", "low-pressure", "Pronunciation: /\u02c8lo\u028a\u02c8pr\u025b\u0283\u0259r/", "Definition: not forceful", ""]}
+{"data": ["2022-10-07T17:00:33.394860+00:00", 5885, "Your mother is", "medicinal", "Pronunciation: /m\u026a\u02c8d\u026as\u026an\u0259l/", "Definition: having the properties of medicine", "Synonyms: medicative"]}
