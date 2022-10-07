@@ -1,1 +1,1 @@
-{"data": ["2022-10-07T20:00:54.133185+00:00", 5888, "Your mother is", "extrovert", "Pronunciation: /\u02c8\u025bkstro\u028a\u02ccv\u025crt/", "Definition: being concerned with the social and physical environment", "Synonyms: extravert, extraverted, extravertive, extroverted, extrovertive"]}
+{"data": ["2022-10-07T21:01:39.312666+00:00", 5889, "Your mother is", "looted", "Pronunciation: /\u02c8lut\u028cd/", "Definition: wrongfully emptied or stripped of anything of value", "Synonyms: pillaged, plundered, ransacked"]}
