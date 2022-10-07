@@ -1,1 +1,1 @@
-{"data": ["2022-10-07T05:01:39.763572+00:00", 5874, "Your mother is", "yellow-tinged", "Similar to: chromatic", "Definition: of a color tinged with yellow", ""]}
+{"data": ["2022-10-07T06:00:53.836814+00:00", 5875, "Your mother is", "enlarged", "Pronunciation: /\u025bn\u02c8l\u0251rd\u0292d/", "Definition: (of an organ or body part) excessively enlarged as a result of increased size in the constituent cells", "Synonyms: hypertrophied"]}
