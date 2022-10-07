@@ -1,1 +1,1 @@
-{"data": ["2022-10-07T06:00:53.836814+00:00", 5875, "Your mother is", "enlarged", "Pronunciation: /\u025bn\u02c8l\u0251rd\u0292d/", "Definition: (of an organ or body part) excessively enlarged as a result of increased size in the constituent cells", "Synonyms: hypertrophied"]}
+{"data": ["2022-10-07T08:01:41.440150+00:00", 5876, "Your mother is", "winking", "Pronunciation: /\u02c8w\u026a\u014bk\u026a\u014b/", "Definition: closing the eyes intermittently and rapidly", "Synonyms: blinking"]}
