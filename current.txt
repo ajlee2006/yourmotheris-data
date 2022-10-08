@@ -1,1 +1,1 @@
-{"data": ["2022-10-08T15:01:44.893228+00:00", 5907, "Your mother is", "plane", "Pronunciation: /ple\u026an/", "Definition: having a surface without slope, tilt in which no part is higher or lower than another", "Synonyms: flat, level"]}
+{"data": ["2022-10-08T16:01:05.042828+00:00", 5908, "Your mother is", "dramaturgic", "", "Definition: relating to the technical aspects of drama", "Synonyms: dramaturgical"]}
