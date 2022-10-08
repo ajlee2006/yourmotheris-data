@@ -1,1 +1,1 @@
-{"data": ["2022-10-08T17:00:11.166203+00:00", 5909, "Your mother is", "persistent", "Pronunciation: /p\u0259r\u02c8s\u026ast\u0259nt/", "Definition: continually recurring to the mind", "Synonyms: haunting"]}
+{"data": ["2022-10-08T18:00:47.335737+00:00", 5910, "Your mother is", "forbearing", "Similar to: patient", "Definition: showing patient and unruffled self-control and restraint under adversity; slow to retaliate or express resentment", "Synonyms: longanimous"]}
