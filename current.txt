@@ -1,1 +1,1 @@
-{"data": ["2022-10-08T04:01:10.198359+00:00", 5896, "Your mother is", "woebegone", "Pronunciation: /\u02c8wo\u028ab\u026a\u02cc\u0261\u0254n/", "Definition: affected by or full of grief or woe", "Synonyms: woeful"]}
+{"data": ["2022-10-08T05:00:15.350002+00:00", 5897, "Your mother is", "afghanistani", "", "Definition: of or relating to or characteristic of Afghanistan or its people", "Synonyms: afghan, afghani"]}
