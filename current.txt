@@ -1,1 +1,1 @@
-{"data": ["2022-10-08T10:01:35.273721+00:00", 5902, "Your mother is", "intermittent", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8m\u026at\u0259nt/", "Definition: stopping and starting at irregular intervals", ""]}
+{"data": ["2022-10-08T11:00:45.621012+00:00", 5903, "Your mother is", "tax-exempt", "Pronunciation: /t\u00e6ks-\u026a\u0261\u02c8z\u025bmpt/", "Definition: (of goods or funds) not taxed", "Synonyms: tax-free, untaxed"]}
