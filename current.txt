@@ -1,1 +1,1 @@
-{"data": ["2022-10-08T09:00:24.347965+00:00", 5901, "Your mother is", "grayish-black", "Similar to: achromatic", "Definition: of black tinged with grey", "Synonyms: gray-black, grey-black, greyish-black"]}
+{"data": ["2022-10-08T10:01:35.273721+00:00", 5902, "Your mother is", "intermittent", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8m\u026at\u0259nt/", "Definition: stopping and starting at irregular intervals", ""]}
