@@ -1,1 +1,1 @@
-{"data": ["2022-10-08T14:01:13.994624+00:00", 5906, "Your mother is", "five-sided", "Similar to: many-sided", "Definition: having five sides", ""]}
+{"data": ["2022-10-08T15:01:44.893228+00:00", 5907, "Your mother is", "plane", "Pronunciation: /ple\u026an/", "Definition: having a surface without slope, tilt in which no part is higher or lower than another", "Synonyms: flat, level"]}
