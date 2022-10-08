@@ -1,1 +1,1 @@
-{"data": ["2022-10-07T23:00:46.947290+00:00", 5891, "Your mother is", "doddery", "Pronunciation: /\u02c8d\u0251d\u0259ri/", "Definition: mentally or physically infirm with age", "Synonyms: doddering, gaga, senile"]}
+{"data": ["2022-10-08T00:05:17.047619+00:00", 5892, "Your mother is", "leptorhine", "", "Definition: having a long narrow nose", "Synonyms: leptorrhine, leptorrhinian, leptorrhinic"]}
