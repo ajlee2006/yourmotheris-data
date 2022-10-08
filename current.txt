@@ -1,1 +1,1 @@
-{"data": ["2022-10-08T08:00:29.815166+00:00", 5900, "Your mother is", "steep-sided", "Similar to: steep", "Definition: having very steep sides", ""]}
+{"data": ["2022-10-08T09:00:24.347965+00:00", 5901, "Your mother is", "grayish-black", "Similar to: achromatic", "Definition: of black tinged with grey", "Synonyms: gray-black, grey-black, greyish-black"]}
