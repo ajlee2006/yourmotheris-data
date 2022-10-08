@@ -1,1 +1,1 @@
-{"data": ["2022-10-08T22:00:17.320219+00:00", 5914, "Your mother is", "dismissive", "Pronunciation: /d\u026as\u02c8m\u026as\u026av/", "Definition: showing indifference or disregard", ""]}
+{"data": ["2022-10-08T23:00:36.006870+00:00", 5915, "Your mother is", "tape-recorded", "Similar to: recorded", "Definition: recorded on tape", "Synonyms: taped"]}
