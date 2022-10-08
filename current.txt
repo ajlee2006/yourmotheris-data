@@ -1,1 +1,1 @@
-{"data": ["2022-10-08T11:00:45.621012+00:00", 5903, "Your mother is", "tax-exempt", "Pronunciation: /t\u00e6ks-\u026a\u0261\u02c8z\u025bmpt/", "Definition: (of goods or funds) not taxed", "Synonyms: tax-free, untaxed"]}
+{"data": ["2022-10-08T12:01:04.153787+00:00", 5904, "Your mother is", "unorganised", "Similar to: nonunion", "Definition: not affiliated in a trade union", "Synonyms: nonunionised, nonunionized, unorganized"]}
