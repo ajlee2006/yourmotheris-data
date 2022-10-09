@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T12:01:15.974593+00:00", 5928, "Your mother is", "mined", "Pronunciation: /ma\u026and/", "Definition: extracted from a source of supply as of minerals from the earth", ""]}
+{"data": ["2022-10-09T13:01:33.707035+00:00", 5929, "Your mother is", "dressed", "Pronunciation: /dr\u025bst/", "Definition: (of lumber or stone) to trim and smooth", "Synonyms: polished"]}
