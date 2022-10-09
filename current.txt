@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T05:01:46.919101+00:00", 5921, "Your mother is", "nonadjacent", "Similar to: distant", "Definition: not adjacent; not next", ""]}
+{"data": ["2022-10-09T06:01:05.783842+00:00", 5922, "Your mother is", "subscribed", "Pronunciation: /s\u028cb\u02c8skra\u026abd/", "Definition: (of a contract or will or other document) having a signature written at the end", ""]}
