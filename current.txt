@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T15:00:22.338879+00:00", 5931, "Your mother is", "biquadratic", "Pronunciation: /\u02ccba\u026akw\u0251\u02c8dr\u00e6t\u026ak/", "Definition: involving  the fourth and no higher power of a quantity or degree", ""]}
+{"data": ["2022-10-09T16:01:05.346873+00:00", 5932, "Your mother is", "shitty", "Pronunciation: /\u02c8\u0283\u026ati/", "Definition: very bad", "Synonyms: crappy, icky, lousy, rotten, stinking, stinky"]}
