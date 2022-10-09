@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T14:01:43.127293+00:00", 5930, "Your mother is", "moonstruck", "Pronunciation: /\u02c8munstr\u0259k/", "Definition: insane and believed to be affected by the phases of the moon", "Synonyms: lunatic"]}
+{"data": ["2022-10-09T15:00:22.338879+00:00", 5931, "Your mother is", "biquadratic", "Pronunciation: /\u02ccba\u026akw\u0251\u02c8dr\u00e6t\u026ak/", "Definition: involving  the fourth and no higher power of a quantity or degree", ""]}
