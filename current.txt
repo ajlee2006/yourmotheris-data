@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T22:01:02.711039+00:00", 5938, "Your mother is", "gnarly", "Pronunciation: /n\u0251rli/", "Definition: used of old persons or old trees; covered with knobs or knots", "Synonyms: gnarled, knobbed, knotted, knotty"]}
+{"data": ["2022-10-09T23:01:41.790077+00:00", 5939, "Your mother is", "oil-fired", "Similar to: fueled", "Definition: fueled by burning oil", ""]}
