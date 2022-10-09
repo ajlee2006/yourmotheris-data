@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T16:01:05.346873+00:00", 5932, "Your mother is", "shitty", "Pronunciation: /\u02c8\u0283\u026ati/", "Definition: very bad", "Synonyms: crappy, icky, lousy, rotten, stinking, stinky"]}
+{"data": ["2022-10-09T17:01:35.146491+00:00", 5933, "Your mother is", "protrusible", "Pronunciation: /pro\u028a\u02c8trus\u0259b\u0259l/", "Definition: capable of being thrust forward, as the tongue", "Synonyms: protrusile"]}
