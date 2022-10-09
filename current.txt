@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T04:01:08.387884+00:00", 5920, "Your mother is", "chock-full", "Pronunciation: /t\u0283\u0251k-f\u028al/", "Definition: packed full to capacity", "Synonyms: chockablock, chockful, choke-full, chuck-full, cram full"]}
+{"data": ["2022-10-09T05:01:46.919101+00:00", 5921, "Your mother is", "nonadjacent", "Similar to: distant", "Definition: not adjacent; not next", ""]}
