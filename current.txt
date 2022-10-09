@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T06:01:05.783842+00:00", 5922, "Your mother is", "subscribed", "Pronunciation: /s\u028cb\u02c8skra\u026abd/", "Definition: (of a contract or will or other document) having a signature written at the end", ""]}
+{"data": ["2022-10-09T07:01:07.127678+00:00", 5923, "Your mother is", "anapaestic", "", "Definition: (of a metric foot) characterized by two short syllables followed by a long one", "Synonyms: anapestic"]}
