@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T09:00:46.559121+00:00", 5925, "Your mother is", "unflavoured", "Pronunciation: /\u0259n\u02c8fle\u026av\u0259d/", "Definition: without flavoring added", "Synonyms: nonflavored, nonflavoured, unflavored"]}
+{"data": ["2022-10-09T10:01:10.916763+00:00", 5926, "Your mother is", "unreciprocated", "Pronunciation: /\u02cc\u0259nri\u02c8s\u026apr\u0259\u02ccke\u026at\u026ad/", "Definition: not returned in kind", "Synonyms: unanswered, unrequited"]}
