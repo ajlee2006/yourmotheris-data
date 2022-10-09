@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T08:01:28.843095+00:00", 5924, "Your mother is", "galilean", "Pronunciation: /\u02cc\u0261\u00e6l\u0259\u02c8li\u0259n/", "Definition: of or relating to Galilee or its inhabitants", "Synonyms: galilaean"]}
+{"data": ["2022-10-09T09:00:46.559121+00:00", 5925, "Your mother is", "unflavoured", "Pronunciation: /\u0259n\u02c8fle\u026av\u0259d/", "Definition: without flavoring added", "Synonyms: nonflavored, nonflavoured, unflavored"]}
