@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T07:01:07.127678+00:00", 5923, "Your mother is", "anapaestic", "", "Definition: (of a metric foot) characterized by two short syllables followed by a long one", "Synonyms: anapestic"]}
+{"data": ["2022-10-09T08:01:28.843095+00:00", 5924, "Your mother is", "galilean", "Pronunciation: /\u02cc\u0261\u00e6l\u0259\u02c8li\u0259n/", "Definition: of or relating to Galilee or its inhabitants", "Synonyms: galilaean"]}
