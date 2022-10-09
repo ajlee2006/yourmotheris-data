@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T17:01:35.146491+00:00", 5933, "Your mother is", "protrusible", "Pronunciation: /pro\u028a\u02c8trus\u0259b\u0259l/", "Definition: capable of being thrust forward, as the tongue", "Synonyms: protrusile"]}
+{"data": ["2022-10-09T18:00:14.399645+00:00", 5934, "Your mother is", "slow-moving", "Pronunciation: /slo\u028a-\u02c8muv\u026a\u014b/", "Definition: moving slowly", ""]}
