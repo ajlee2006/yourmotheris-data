@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T01:01:24.677151+00:00", 5917, "Your mother is", "unclaimed", "Pronunciation: /\u0259n\u02c8kle\u026amd/", "Definition: not claimed or called for by an owner or assignee", ""]}
+{"data": ["2022-10-09T02:00:32.898377+00:00", 5918, "Your mother is", "dorsal", "Pronunciation: /\u02c8d\u0254rs\u0259l/", "Definition: facing away from the axis of an organ or organism", "Synonyms: abaxial"]}
