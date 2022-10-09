@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T00:02:09.808406+00:00", 5916, "Your mother is", "solid-colored", "Pronunciation: /\u02c8s\u0251l\u026ad-\u02c8k\u0259l\u0259rd/", "Definition: having the same color all over", "Synonyms: solid-coloured"]}
+{"data": ["2022-10-09T01:01:24.677151+00:00", 5917, "Your mother is", "unclaimed", "Pronunciation: /\u0259n\u02c8kle\u026amd/", "Definition: not claimed or called for by an owner or assignee", ""]}
