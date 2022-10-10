@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T14:01:03.704755+00:00", 5954, "Your mother is", "lengthwise", "Pronunciation: /\u02c8l\u025b\u014bk\u03b8\u02ccwa\u026az/", "Definition: running or extending in the direction of the length of a thing", "Synonyms: lengthways"]}
+{"data": ["2022-10-10T15:01:20.924513+00:00", 5955, "Your mother is", "ciliate", "Pronunciation: /\u02c8s\u026ali\u026at/", "Definition: having a margin or fringe of hairlike projections", "Synonyms: ciliated"]}
