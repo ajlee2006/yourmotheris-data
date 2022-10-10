@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T19:01:08.783078+00:00", 5959, "Your mother is", "liveable", "Pronunciation: /\u02c8l\u026av\u0259b\u0259l/", "Definition: fit or suitable to live in or with", "Synonyms: livable"]}
+{"data": ["2022-10-10T20:01:14.029375+00:00", 5960, "Your mother is", "independent", "Pronunciation: /\u02cc\u026and\u026a\u02c8p\u025bnd\u0259nt/", "Definition: (of a clause) capable of standing syntactically alone as a complete sentence", "Synonyms: main"]}
