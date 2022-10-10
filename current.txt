@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T22:01:06.770651+00:00", 5962, "Your mother is", "strapping", "Pronunciation: /\u02c8str\u00e6p\u026a\u014b/", "Definition: muscular and heavily built", "Synonyms: beefy, buirdly, burly, husky"]}
+{"data": ["2022-10-10T23:00:20.349770+00:00", 5963, "Your mother is", "nullified", "Pronunciation: /\u02c8n\u028cl\u028c\u02ccfa\u026ad/", "Definition: deprived of legal force", "Synonyms: invalidated"]}
