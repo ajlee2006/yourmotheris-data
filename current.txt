@@ -1,1 +1,1 @@
-{"data": ["2022-10-09T23:01:41.790077+00:00", 5939, "Your mother is", "oil-fired", "Similar to: fueled", "Definition: fueled by burning oil", ""]}
+{"data": ["2022-10-10T00:02:14.379608+00:00", 5940, "Your mother is", "windless", "Similar to: calm", "Definition: without or almost without wind", ""]}
