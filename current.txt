@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T16:00:47.172883+00:00", 5956, "Your mother is", "buck-toothed", "Similar to: toothed", "Definition: having protruding upper front teeth", ""]}
+{"data": ["2022-10-10T17:01:33.559142+00:00", 5957, "Your mother is", "hypophysectomized", "", "Definition: having the pituitary gland removed by surgery", "Synonyms: hypophysectomised"]}
