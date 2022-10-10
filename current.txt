@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T17:01:33.559142+00:00", 5957, "Your mother is", "hypophysectomized", "", "Definition: having the pituitary gland removed by surgery", "Synonyms: hypophysectomised"]}
+{"data": ["2022-10-10T18:00:45.081643+00:00", 5958, "Your mother is", "mud-beplastered", "Similar to: covered", "Definition: covered with or as if with mud", ""]}
