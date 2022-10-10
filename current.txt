@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T04:01:25.545207+00:00", 5944, "Your mother is", "acid-tasting", "Similar to: tasty", "Definition: having a sour acidic taste", "Synonyms: sour-tasting"]}
+{"data": ["2022-10-10T05:00:42.487063+00:00", 5945, "Your mother is", "xlvi", "Similar to: cardinal", "Definition: being six more than forty", "Synonyms: 46, forty-six"]}
