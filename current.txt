@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T08:00:35.413508+00:00", 5948, "Your mother is", "hungry", "Pronunciation: /\u02c8h\u0259\u014bgri/", "Definition: (usually followed by `for') extremely desirous", "Synonyms: athirst, thirsty"]}
+{"data": ["2022-10-10T09:01:28.698407+00:00", 5949, "Your mother is", "acuminate", "Pronunciation: /\u0259\u02c8kjum\u0259n\u026at/", "Definition: (of a leaf shape) narrowing to a slender point", ""]}
