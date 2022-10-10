@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T12:01:02.818443+00:00", 5952, "Your mother is", "stemmed", "Pronunciation: /st\u025bmd/", "Definition: (of plants) producing a well-developed stem above ground", "Synonyms: caulescent, cauline"]}
+{"data": ["2022-10-10T13:01:33.185249+00:00", 5953, "Your mother is", "white-collar", "Pronunciation: /hwa\u026at-\u02c8k\u0251l\u0259r/", "Definition: of or designating salaried professional or clerical work or workers", ""]}
