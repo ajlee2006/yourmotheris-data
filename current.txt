@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T09:01:28.698407+00:00", 5949, "Your mother is", "acuminate", "Pronunciation: /\u0259\u02c8kjum\u0259n\u026at/", "Definition: (of a leaf shape) narrowing to a slender point", ""]}
+{"data": ["2022-10-10T10:01:34.415401+00:00", 5950, "Your mother is", "ritardando", "Pronunciation: /\u02ccrit\u0251r\u02c8d\u0251ndo\u028a/", "Definition: (music) gradually decreasing in tempo", "Synonyms: rallentando, rit., ritenuto"]}
