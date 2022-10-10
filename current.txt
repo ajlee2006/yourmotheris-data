@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T18:00:45.081643+00:00", 5958, "Your mother is", "mud-beplastered", "Similar to: covered", "Definition: covered with or as if with mud", ""]}
+{"data": ["2022-10-10T19:01:08.783078+00:00", 5959, "Your mother is", "liveable", "Pronunciation: /\u02c8l\u026av\u0259b\u0259l/", "Definition: fit or suitable to live in or with", "Synonyms: livable"]}
