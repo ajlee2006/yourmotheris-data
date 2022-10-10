@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T20:01:14.029375+00:00", 5960, "Your mother is", "independent", "Pronunciation: /\u02cc\u026and\u026a\u02c8p\u025bnd\u0259nt/", "Definition: (of a clause) capable of standing syntactically alone as a complete sentence", "Synonyms: main"]}
+{"data": ["2022-10-10T21:00:57.989537+00:00", 5961, "Your mother is", "postoperative", "Pronunciation: /po\u028ast\u02c8\u0251p\u0259r\u0259t\u026av/", "Definition: happening or done after a surgical operation", ""]}
