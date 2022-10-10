@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T05:00:42.487063+00:00", 5945, "Your mother is", "xlvi", "Similar to: cardinal", "Definition: being six more than forty", "Synonyms: 46, forty-six"]}
+{"data": ["2022-10-10T06:01:17.324320+00:00", 5946, "Your mother is", "stoneless", "Similar to: seedless", "Definition: (of fruits having stones) having the stone removed", ""]}
