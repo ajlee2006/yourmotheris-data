@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T21:00:57.989537+00:00", 5961, "Your mother is", "postoperative", "Pronunciation: /po\u028ast\u02c8\u0251p\u0259r\u0259t\u026av/", "Definition: happening or done after a surgical operation", ""]}
+{"data": ["2022-10-10T22:01:06.770651+00:00", 5962, "Your mother is", "strapping", "Pronunciation: /\u02c8str\u00e6p\u026a\u014b/", "Definition: muscular and heavily built", "Synonyms: beefy, buirdly, burly, husky"]}
