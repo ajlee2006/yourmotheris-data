@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T01:01:24.913075+00:00", 5941, "Your mother is", "neoclassical", "Pronunciation: /\u02ccnio\u028a\u02c8kl\u00e6s\u026ak\u0259l/", "Definition: characteristic of a revival of an earlier classical style", "Synonyms: neoclassic"]}
+{"data": ["2022-10-10T02:01:44.235636+00:00", 5942, "Your mother is", "trapped", "Pronunciation: /tr\u00e6pt/", "Definition: forced to turn and face attackers", "Synonyms: at bay, cornered, treed"]}
