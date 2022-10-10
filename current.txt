@@ -1,1 +1,1 @@
-{"data": ["2022-10-10T13:01:33.185249+00:00", 5953, "Your mother is", "white-collar", "Pronunciation: /hwa\u026at-\u02c8k\u0251l\u0259r/", "Definition: of or designating salaried professional or clerical work or workers", ""]}
+{"data": ["2022-10-10T14:01:03.704755+00:00", 5954, "Your mother is", "lengthwise", "Pronunciation: /\u02c8l\u025b\u014bk\u03b8\u02ccwa\u026az/", "Definition: running or extending in the direction of the length of a thing", "Synonyms: lengthways"]}
