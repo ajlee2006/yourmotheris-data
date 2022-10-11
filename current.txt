@@ -1,1 +1,1 @@
-{"data": ["2022-10-11T02:01:08.426633+00:00", 5966, "Your mother is", "utopian", "Pronunciation: /ju\u02c8to\u028api\u0259n/", "Definition: characterized by or aspiring to impracticable perfection", ""]}
+{"data": ["2022-10-11T03:00:40.782245+00:00", 5967, "Your mother is", "antepartum", "", "Definition: occurring or existing before birth", "Synonyms: antenatal, prenatal"]}
