@@ -1,1 +1,1 @@
-{"data": ["2022-10-11T10:00:43.357324+00:00", 5974, "Your mother is", "acidulous", "Pronunciation: /\u0259\u02c8s\u026ad\u0292\u0259l\u0259s/", "Definition: being sour to the taste", "Synonyms: acid, acidic, acidulent"]}
+{"data": ["2022-10-11T11:00:39.200083+00:00", 5975, "Your mother is", "stinting", "Similar to: thrifty", "Definition: avoiding waste", "Synonyms: economical, frugal, scotch, sparing"]}
