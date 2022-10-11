@@ -1,1 +1,1 @@
-{"data": ["2022-10-11T05:01:40.905409+00:00", 5969, "Your mother is", "elated", "Pronunciation: /\u026a\u02c8le\u026at\u026ad/", "Definition: full of high-spirited delight", "Synonyms: gleeful, joyful, jubilant"]}
+{"data": ["2022-10-11T06:00:34.535762+00:00", 5970, "Your mother is", "surface-assimilative", "Similar to: chemisorptive", "Definition: having capacity or tendency to adsorb or cause to accumulate on a surface", "Synonyms: adsorbent, adsorptive"]}
