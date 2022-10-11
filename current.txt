@@ -1,1 +1,1 @@
-{"data": ["2022-10-11T17:01:44.191156+00:00", 5981, "Your mother is", "outspoken", "Pronunciation: /a\u028at\u02c8spo\u028ak\u0259n/", "Definition: given to expressing yourself freely or insistently", "Synonyms: vocal"]}
+{"data": ["2022-10-11T18:00:43.184453+00:00", 5982, "Your mother is", "stupid", "Pronunciation: /\u02c8stup\u026ad/", "Definition: lacking intelligence", "Synonyms: unintelligent"]}
