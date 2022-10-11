@@ -1,1 +1,1 @@
-{"data": ["2022-10-11T15:00:53.918436+00:00", 5979, "Your mother is", "alterative", "Pronunciation: /\u02c8\u0254lt\u0259\u02ccre\u026at\u026av/", "Definition: tending to cure or restore to health", "Synonyms: curative, healing, remedial, sanative, therapeutic"]}
+{"data": ["2022-10-11T16:01:20.606798+00:00", 5980, "Your mother is", "enabling", "Pronunciation: /\u025bn\u02c8e\u026abl\u026a\u014b/", "Definition: providing legal power or sanction", ""]}
