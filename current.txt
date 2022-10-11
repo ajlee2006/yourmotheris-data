@@ -1,1 +1,1 @@
-{"data": ["2022-10-11T00:01:31.144110+00:00", 5964, "Your mother is", "stable", "Pronunciation: /\u02c8ste\u026ab\u0259l/", "Definition: showing little if any change", "Synonyms: static, unchanging"]}
+{"data": ["2022-10-11T01:00:45.757481+00:00", 5965, "Your mother is", "milklike", "Similar to: opaque", "Definition: resembling milk in color; not clear", "Synonyms: milky, whitish"]}
