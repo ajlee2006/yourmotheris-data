@@ -1,1 +1,1 @@
-{"data": ["2022-10-11T20:01:05.374631+00:00", 5984, "Your mother is", "mail-cheeked", "Pronunciation: /\u02c8me\u026al\u02cc\u02a7ikt/", "Definition: having bony plates on the sides of the head", ""]}
+{"data": ["2022-10-11T21:00:17.797053+00:00", 5985, "Your mother is", "nine", "Pronunciation: /na\u026an/", "Definition: denoting a quantity consisting of one more than eight and one less than ten", "Synonyms: 9, ix"]}
