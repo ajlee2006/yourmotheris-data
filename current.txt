@@ -1,1 +1,1 @@
-{"data": ["2022-10-11T12:01:05.594144+00:00", 5976, "Your mother is", "hewn", "Pronunciation: /hjun/", "Definition: cut or shaped with hard blows of a heavy cutting instrument like an ax or chisel", "Synonyms: hand-hewn"]}
+{"data": ["2022-10-11T13:00:22.440380+00:00", 5977, "Your mother is", "timorous", "Pronunciation: /\u02c8t\u026am\u0259r\u0259s/", "Definition: timid by nature or revealing timidity", "Synonyms: fearful, trepid"]}
