@@ -1,1 +1,1 @@
-{"data": ["2022-10-12T14:01:19.982882+00:00", 6002, "Your mother is", "scaleless", "Pronunciation: /\u02c8ske\u026all\u025bs/", "Definition: destitute of scales", ""]}
+{"data": ["2022-10-12T15:01:00.760561+00:00", 6003, "Your mother is", "bistered", "", "Definition: colored with or as if with bister", "Synonyms: bistred"]}
