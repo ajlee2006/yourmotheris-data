@@ -1,1 +1,1 @@
-{"data": ["2022-10-12T20:01:42.962261+00:00", 6008, "Your mother is", "revokable", "Similar to: rescindable", "Definition: capable of being revoked or annulled", "Synonyms: revocable"]}
+{"data": ["2022-10-12T21:00:27.543935+00:00", 6009, "Your mother is", "smoldering", "Pronunciation: /\u02c8smo\u028ald\u025dr\u026a\u014b/", "Definition: showing scarcely suppressed anger", "Synonyms: smouldering"]}
