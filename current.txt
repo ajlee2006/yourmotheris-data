@@ -1,1 +1,1 @@
-{"data": ["2022-10-12T22:01:08.751135+00:00", 6010, "Your mother is", "mum", "Pronunciation: /m\u0259m/", "Definition: failing to speak or communicate etc when expected to", "Synonyms: silent"]}
+{"data": ["2022-10-12T23:01:41.711832+00:00", 6011, "Your mother is", "polyphonous", "", "Definition: of or relating to or characterized by polyphony", "Synonyms: polyphonic"]}
