@@ -1,1 +1,1 @@
-{"data": ["2022-10-12T06:00:37.157867+00:00", 5994, "Your mother is", "verboten", "Pronunciation: /f\u0259R\u02c8bo\u028at\u0259n/", "Definition: excluded from use or mention", "Synonyms: forbidden, out, prohibited, proscribed, taboo, tabu"]}
+{"data": ["2022-10-12T07:01:10.752221+00:00", 5995, "Your mother is", "blinding", "Pronunciation: /\u02c8bla\u026and\u026a\u014b/", "Definition: shining intensely", "Synonyms: blazing, dazzling, fulgent, glaring, glary"]}
