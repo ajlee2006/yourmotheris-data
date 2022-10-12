@@ -1,1 +1,1 @@
-{"data": ["2022-10-12T08:02:03.638554+00:00", 5996, "Your mother is", "stormy", "Pronunciation: /\u02c8st\u0254rmi/", "Definition: characterized by violent emotions or behavior", "Synonyms: tempestuous"]}
+{"data": ["2022-10-12T09:01:16.131416+00:00", 5997, "Your mother is", "ruandan", "", "Definition: of or pertaining to Rwanda", "Synonyms: rwandan"]}
