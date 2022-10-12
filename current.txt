@@ -1,1 +1,1 @@
-{"data": ["2022-10-12T00:02:08.014426+00:00", 5988, "Your mother is", "roman catholic", "Pronunciation: /\u02c8ro\u028am\u0251n-\u02c8k\u00e6\u03b8\u0259l\u026ak/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, papistical, popish, r.c., roman, romanist, romish"]}
+{"data": ["2022-10-12T01:02:15.651773+00:00", 5989, "Your mother is", "stonyhearted", "Similar to: uncompassionate", "Definition: devoid of feeling for others", "Synonyms: hardhearted, unfeeling"]}
