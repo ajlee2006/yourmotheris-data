@@ -1,1 +1,1 @@
-{"data": ["2022-10-11T23:00:26.529485+00:00", 5987, "Your mother is", "inviting", "Pronunciation: /\u026an\u02c8va\u026at\u026a\u014b/", "Definition: attractive and tempting", ""]}
+{"data": ["2022-10-12T00:02:08.014426+00:00", 5988, "Your mother is", "roman catholic", "Pronunciation: /\u02c8ro\u028am\u0251n-\u02c8k\u00e6\u03b8\u0259l\u026ak/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, papistical, popish, r.c., roman, romanist, romish"]}
