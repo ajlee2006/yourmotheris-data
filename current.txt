@@ -1,1 +1,1 @@
-{"data": ["2022-10-12T17:00:46.126017+00:00", 6005, "Your mother is", "unconditional", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8d\u026a\u0283\u0259n\u0259l/", "Definition: not conditional", "Synonyms: unconditioned"]}
+{"data": ["2022-10-12T18:01:37.191954+00:00", 6006, "Your mother is", "good enough", "Pronunciation: /\u0261\u028ad-\u026a\u02c8n\u0259f/", "Definition: adequately good for the circumstances", ""]}
