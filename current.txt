@@ -1,1 +1,1 @@
-{"data": ["2022-10-13T22:00:20.401812+00:00", 6034, "Your mother is", "neutral", "Pronunciation: /\u02c8nutr\u0259l/", "Definition: having no personal preference", "Synonyms: impersonal"]}
+{"data": ["2022-10-13T23:01:07.945531+00:00", 6035, "Your mother is", "brooding", "Pronunciation: /\u02c8brud\u026a\u014b/", "Definition: deeply or seriously thoughtful", "Synonyms: broody, contemplative, meditative, musing, pensive, pondering, reflective, ruminative"]}
