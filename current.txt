@@ -1,1 +1,1 @@
-{"data": ["2022-10-13T16:01:34.855910+00:00", 6028, "Your mother is", "felicitous", "Pronunciation: /f\u026a\u02c8l\u026as\u026at\u0259s/", "Definition: marked by good fortune", "Synonyms: happy"]}
+{"data": ["2022-10-13T17:00:45.278088+00:00", 6029, "Your mother is", "unmourned", "Pronunciation: /\u0259n\u02c8mo\u028arnd/", "Definition: not grieved for; causing no mourning", "Synonyms: unlamented"]}
