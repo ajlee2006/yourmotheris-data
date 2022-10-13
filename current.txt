@@ -1,1 +1,1 @@
-{"data": ["2022-10-13T00:02:24.536211+00:00", 6012, "Your mother is", "nutlike", "Similar to: tasty", "Definition: having the flavor of nuts", "Synonyms: nutty"]}
+{"data": ["2022-10-13T01:01:04.227206+00:00", 6013, "Your mother is", "octogenarian", "Pronunciation: /\u02cc\u0251kto\u028ad\u0292\u026a\u02c8n\u025cri\u0259n/", "Definition: being from 80 to 89 years old", ""]}
