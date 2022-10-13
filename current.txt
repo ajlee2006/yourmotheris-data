@@ -1,1 +1,1 @@
-{"data": ["2022-10-13T03:00:46.051951+00:00", 6015, "Your mother is", "sparkly", "Pronunciation: /\u02c8sp\u0251rkli/", "Definition: marked by high spirits or excitement", "Synonyms: bubbling, effervescent, frothy, scintillating"]}
+{"data": ["2022-10-13T04:01:47.438363+00:00", 6016, "Your mother is", "catechismal", "", "Definition: of or relating to a catechism summarizing the principles of Christianity", ""]}
