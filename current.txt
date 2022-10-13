@@ -1,1 +1,1 @@
-{"data": ["2022-10-13T08:00:57.007089+00:00", 6020, "Your mother is", "brattish", "Similar to: impolite", "Definition: (used of an ill-mannered child) impolitely unruly", "Synonyms: bratty"]}
+{"data": ["2022-10-13T09:00:57.751268+00:00", 6021, "Your mother is", "particular", "Pronunciation: /p\u0259r\u02c8t\u026akj\u0259l\u0259r/", "Definition: exacting especially about details", "Synonyms: finical, finicky, fussy, picky"]}
