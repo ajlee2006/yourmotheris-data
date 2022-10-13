@@ -1,1 +1,1 @@
-{"data": ["2022-10-13T02:01:21.643727+00:00", 6014, "Your mother is", "stirred", "Pronunciation: /st\u025drd/", "Definition: being excited or provoked to the expression of an emotion", "Synonyms: affected, moved, touched"]}
+{"data": ["2022-10-13T03:00:46.051951+00:00", 6015, "Your mother is", "sparkly", "Pronunciation: /\u02c8sp\u0251rkli/", "Definition: marked by high spirits or excitement", "Synonyms: bubbling, effervescent, frothy, scintillating"]}
