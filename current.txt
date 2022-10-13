@@ -1,1 +1,1 @@
-{"data": ["2022-10-13T17:00:45.278088+00:00", 6029, "Your mother is", "unmourned", "Pronunciation: /\u0259n\u02c8mo\u028arnd/", "Definition: not grieved for; causing no mourning", "Synonyms: unlamented"]}
+{"data": ["2022-10-13T18:01:35.306399+00:00", 6030, "Your mother is", "arthrosporous", "", "Definition: of or relating to arthrospores", "Synonyms: arthrosporic"]}
