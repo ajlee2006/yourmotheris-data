@@ -1,1 +1,1 @@
-{"data": ["2022-10-13T21:01:08.216813+00:00", 6033, "Your mother is", "loony", "Pronunciation: /\u02c8luni/", "Definition: informal or slang terms for mentally irregular", "Synonyms: around the bend, balmy, barmy, bats, batty, bonkers, buggy, cracked, crackers, daft, dotty, fruity, haywire, kookie, kooky, loco, loopy, nuts, nutty, round the bend, wacky, whacky"]}
+{"data": ["2022-10-13T22:00:20.401812+00:00", 6034, "Your mother is", "neutral", "Pronunciation: /\u02c8nutr\u0259l/", "Definition: having no personal preference", "Synonyms: impersonal"]}
