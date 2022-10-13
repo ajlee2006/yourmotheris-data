@@ -1,1 +1,1 @@
-{"data": ["2022-10-13T10:00:58.338180+00:00", 6022, "Your mother is", "supernatant", "Pronunciation: /\u02ccsup\u0259r\u02c8ne\u026at\u0259nt/", "Definition: of a liquid; floating on the surface above a sediment or precipitate", ""]}
+{"data": ["2022-10-13T11:01:48.453141+00:00", 6023, "Your mother is", "unpillared", "Similar to: noncolumned", "Definition: lacking pillars", ""]}
