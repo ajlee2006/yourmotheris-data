@@ -1,1 +1,1 @@
-{"data": ["2022-10-13T14:01:41.867319+00:00", 6026, "Your mother is", "torrential", "Pronunciation: /t\u0254\u02c8r\u025bn\u0283\u0259l/", "Definition: pouring in abundance", ""]}
+{"data": ["2022-10-13T15:01:16.320242+00:00", 6027, "Your mother is", "photometrical", "", "Definition: of or relating to photometry", "Synonyms: photometric"]}
