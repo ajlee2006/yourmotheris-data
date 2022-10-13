@@ -1,1 +1,1 @@
-{"data": ["2022-10-13T19:00:45.255023+00:00", 6031, "Your mother is", "veritable", "Pronunciation: /\u02c8v\u025br\u026at\u0259b\u0259l/", "Definition: often used as intensifiers", "Synonyms: regular"]}
+{"data": ["2022-10-13T20:00:44.716664+00:00", 6032, "Your mother is", "openmouthed", "Similar to: surprised", "Definition: with eyes or mouth open in surprise", "Synonyms: goggle-eyed, popeyed"]}
