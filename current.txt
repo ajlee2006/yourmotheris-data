@@ -1,1 +1,1 @@
-{"data": ["2022-10-13T12:00:52.647613+00:00", 6024, "Your mother is", "clean-cut", "Pronunciation: /klin-k\u0259t/", "Definition: neat and smart in appearance", "Synonyms: trig, trim"]}
+{"data": ["2022-10-13T13:00:53.279559+00:00", 6025, "Your mother is", "travel-stained", "Similar to: dirty", "Definition: soiled from travel", "Synonyms: travel-soiled"]}
