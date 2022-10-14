@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T21:01:02.622031+00:00", 6057, "Your mother is", "het up", "Similar to: hot", "Definition: made warm or hot (`het' is a dialectal variant of `heated')", "Synonyms: heated, heated up, het"]}
+{"data": ["2022-10-14T22:01:05.231887+00:00", 6058, "Your mother is", "mercury-contaminated", "Similar to: contaminated", "Definition: contaminated by mercury", ""]}
