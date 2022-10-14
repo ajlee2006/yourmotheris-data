@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T16:00:50.231536+00:00", 6052, "Your mother is", "schoolwide", "Similar to: comprehensive", "Definition: occurring or extending throughout a school", ""]}
+{"data": ["2022-10-14T17:00:32.209318+00:00", 6053, "Your mother is", "lyric", "Pronunciation: /\u02c8l\u026ar\u026ak/", "Definition: expressing deep emotion", "Synonyms: lyrical"]}
