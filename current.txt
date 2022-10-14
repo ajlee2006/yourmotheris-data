@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T02:01:04.859763+00:00", 6038, "Your mother is", "self-styled", "Pronunciation: /\u02c8s\u025blf\u02c8sta\u026ald/", "Definition: as claimed by and for yourself often without justification", "Synonyms: soi-disant"]}
+{"data": ["2022-10-14T03:01:38.971851+00:00", 6039, "Your mother is", "stumpy", "Pronunciation: /\u02c8st\u0259mpi/", "Definition: short and thick; as e.g. having short legs and heavy musculature", "Synonyms: chunky, dumpy, low-set, squat, squatty"]}
