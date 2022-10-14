@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T19:00:58.931473+00:00", 6055, "Your mother is", "uncontrollable", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8tro\u028al\u0259b\u0259l/", "Definition: incapable of being controlled", "Synonyms: indocile, ungovernable, unruly"]}
+{"data": ["2022-10-14T20:01:25.053076+00:00", 6056, "Your mother is", "froward", "Pronunciation: /\u02c8fro\u028aw\u0259rd/", "Definition: habitually disposed to disobedience and opposition", "Synonyms: headstrong, self-willed, wilful, willful"]}
