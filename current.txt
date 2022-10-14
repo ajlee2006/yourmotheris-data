@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T04:00:18.596448+00:00", 6040, "Your mother is", "unfenced", "Pronunciation: /\u0259n\u02c8f\u025bnst/", "Definition: not enclosed by a fence", ""]}
+{"data": ["2022-10-14T05:00:27.734857+00:00", 6041, "Your mother is", "laurelled", "", "Definition: crowned with or as if with laurel symbolizing victory", "Synonyms: crowned, laureled"]}
