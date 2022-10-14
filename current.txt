@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T13:01:35.835592+00:00", 6049, "Your mother is", "unadjusted", "Pronunciation: /\u02cc\u028cn\u028c\u02c8d\u0292\u028cst\u026ad/", "Definition: not having adapted to new conditions", "Synonyms: unadapted"]}
+{"data": ["2022-10-14T14:01:45.349027+00:00", 6050, "Your mother is", "cryptological", "", "Definition: of or relating to cryptanalysis", "Synonyms: cryptanalytic, cryptographic, cryptographical, cryptologic"]}
