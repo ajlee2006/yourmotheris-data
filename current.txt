@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T15:01:34.236064+00:00", 6051, "Your mother is", "sectional", "Pronunciation: /\u02c8s\u025bk\u0283\u0259n\u0259l/", "Definition: consisting of or divided into sections", "Synonyms: sectioned"]}
+{"data": ["2022-10-14T16:00:50.231536+00:00", 6052, "Your mother is", "schoolwide", "Similar to: comprehensive", "Definition: occurring or extending throughout a school", ""]}
