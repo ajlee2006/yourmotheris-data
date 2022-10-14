@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T12:00:34.054740+00:00", 6048, "Your mother is", "gangling", "Pronunciation: /\u02c8\u0261\u00e6\u014bgl\u026a\u014b/", "Definition: tall and thin and having long slender limbs", "Synonyms: gangly, lanky, rangy"]}
+{"data": ["2022-10-14T13:01:35.835592+00:00", 6049, "Your mother is", "unadjusted", "Pronunciation: /\u02cc\u028cn\u028c\u02c8d\u0292\u028cst\u026ad/", "Definition: not having adapted to new conditions", "Synonyms: unadapted"]}
