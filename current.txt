@@ -1,1 +1,1 @@
-{"data": ["2022-10-13T23:01:07.945531+00:00", 6035, "Your mother is", "brooding", "Pronunciation: /\u02c8brud\u026a\u014b/", "Definition: deeply or seriously thoughtful", "Synonyms: broody, contemplative, meditative, musing, pensive, pondering, reflective, ruminative"]}
+{"data": ["2022-10-14T00:01:55.490293+00:00", 6036, "Your mother is", "thirty-nine", "Pronunciation: /\u02c8\u03b8\u025crti-\u02c8na\u026an/", "Definition: being nine more than thirty", "Synonyms: 39, ixl"]}
