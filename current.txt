@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T07:00:53.481525+00:00", 6043, "Your mother is", "scrivened", "Similar to: written", "Definition: copied in handwriting", ""]}
+{"data": ["2022-10-14T08:01:09.911834+00:00", 6044, "Your mother is", "uncompensated", "Pronunciation: /\u0259n\u02c8k\u0251mp\u025bn\u02ccse\u026at\u026ad/", "Definition: not paying a salary", "Synonyms: unsalaried"]}
