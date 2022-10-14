@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T09:01:18.719057+00:00", 6045, "Your mother is", "dim-witted", "Pronunciation: /d\u026am-\u02c8w\u026at\u026ad/", "Definition: lacking mental capacity and subtlety", "Synonyms: simple, simple-minded"]}
+{"data": ["2022-10-14T10:01:12.860578+00:00", 6046, "Your mother is", "unaware", "Pronunciation: /\u02cc\u0259n\u0259\u02c8w\u025cr/", "Definition: (often followed by `of') not aware", "Synonyms: incognizant"]}
