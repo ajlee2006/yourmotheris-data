@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T05:00:27.734857+00:00", 6041, "Your mother is", "laurelled", "", "Definition: crowned with or as if with laurel symbolizing victory", "Synonyms: crowned, laureled"]}
+{"data": ["2022-10-14T06:01:46.451426+00:00", 6042, "Your mother is", "iterative", "Pronunciation: /\u02c8\u026at\u0259\u02ccre\u026at\u026av/", "Definition: marked by iteration", "Synonyms: reiterative"]}
