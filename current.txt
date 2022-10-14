@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T08:01:09.911834+00:00", 6044, "Your mother is", "uncompensated", "Pronunciation: /\u0259n\u02c8k\u0251mp\u025bn\u02ccse\u026at\u026ad/", "Definition: not paying a salary", "Synonyms: unsalaried"]}
+{"data": ["2022-10-14T09:01:18.719057+00:00", 6045, "Your mother is", "dim-witted", "Pronunciation: /d\u026am-\u02c8w\u026at\u026ad/", "Definition: lacking mental capacity and subtlety", "Synonyms: simple, simple-minded"]}
