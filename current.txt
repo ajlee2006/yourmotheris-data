@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T18:01:03.620258+00:00", 6054, "Your mother is", "polymorphous", "Pronunciation: /\u02ccp\u0251li\u02c8m\u0254rf\u0259s/", "Definition: relating to the crystallization of a compound in two or more different forms", "Synonyms: polymorphic"]}
+{"data": ["2022-10-14T19:00:58.931473+00:00", 6055, "Your mother is", "uncontrollable", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8tro\u028al\u0259b\u0259l/", "Definition: incapable of being controlled", "Synonyms: indocile, ungovernable, unruly"]}
