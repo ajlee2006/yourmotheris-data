@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T03:01:38.971851+00:00", 6039, "Your mother is", "stumpy", "Pronunciation: /\u02c8st\u0259mpi/", "Definition: short and thick; as e.g. having short legs and heavy musculature", "Synonyms: chunky, dumpy, low-set, squat, squatty"]}
+{"data": ["2022-10-14T04:00:18.596448+00:00", 6040, "Your mother is", "unfenced", "Pronunciation: /\u0259n\u02c8f\u025bnst/", "Definition: not enclosed by a fence", ""]}
