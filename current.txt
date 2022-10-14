@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T22:01:05.231887+00:00", 6058, "Your mother is", "mercury-contaminated", "Similar to: contaminated", "Definition: contaminated by mercury", ""]}
+{"data": ["2022-10-14T23:01:13.195592+00:00", 6059, "Your mother is", "aciduric", "Pronunciation: /\u02cc\u00e6s\u026a\u02c8d\u028ar\u026ak/", "Definition: especially of some bacteria; growing well in an acid medium", "Synonyms: acidophilic, acidophilous"]}
