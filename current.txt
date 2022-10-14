@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T14:01:45.349027+00:00", 6050, "Your mother is", "cryptological", "", "Definition: of or relating to cryptanalysis", "Synonyms: cryptanalytic, cryptographic, cryptographical, cryptologic"]}
+{"data": ["2022-10-14T15:01:34.236064+00:00", 6051, "Your mother is", "sectional", "Pronunciation: /\u02c8s\u025bk\u0283\u0259n\u0259l/", "Definition: consisting of or divided into sections", "Synonyms: sectioned"]}
