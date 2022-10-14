@@ -1,1 +1,1 @@
-{"data": ["2022-10-14T17:00:32.209318+00:00", 6053, "Your mother is", "lyric", "Pronunciation: /\u02c8l\u026ar\u026ak/", "Definition: expressing deep emotion", "Synonyms: lyrical"]}
+{"data": ["2022-10-14T18:01:03.620258+00:00", 6054, "Your mother is", "polymorphous", "Pronunciation: /\u02ccp\u0251li\u02c8m\u0254rf\u0259s/", "Definition: relating to the crystallization of a compound in two or more different forms", "Synonyms: polymorphic"]}
