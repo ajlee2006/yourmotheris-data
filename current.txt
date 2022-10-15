@@ -1,1 +1,1 @@
-{"data": ["2022-10-15T12:01:26.946236+00:00", 6072, "Your mother is", "undirected", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8r\u025bkt\u026ad/", "Definition: aimlessly drifting", "Synonyms: adrift, afloat, aimless, directionless, planless, rudderless"]}
+{"data": ["2022-10-15T13:01:36.639588+00:00", 6073, "Your mother is", "mechanistic", "Pronunciation: /\u02ccm\u025bk\u0259\u02c8n\u026ast\u026ak/", "Definition: explained in terms of physical forces", ""]}
