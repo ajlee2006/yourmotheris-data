@@ -1,1 +1,1 @@
-{"data": ["2022-10-15T19:01:38.666360+00:00", 6079, "Your mother is", "cutting", "Pronunciation: /\u02c8k\u0259t\u026a\u014b/", "Definition: (of speech) harsh or hurtful in tone or character", "Synonyms: edged, stinging"]}
+{"data": ["2022-10-15T20:00:48.403185+00:00", 6080, "Your mother is", "medicinal", "Pronunciation: /m\u026a\u02c8d\u026as\u026an\u0259l/", "Definition: having the properties of medicine", "Synonyms: medicative"]}
