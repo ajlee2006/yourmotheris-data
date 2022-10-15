@@ -1,1 +1,1 @@
-{"data": ["2022-10-15T08:00:45.357892+00:00", 6068, "Your mother is", "tortuous", "Pronunciation: /\u02c8t\u0254r\u02a7u\u0259s/", "Definition: highly complex or intricate and occasionally devious", "Synonyms: byzantine, convoluted, involved, knotty, tangled"]}
+{"data": ["2022-10-15T09:00:15.683228+00:00", 6069, "Your mother is", "smoothbore", "Pronunciation: /\u02c8smu\u00f0\u02ccbo\u028ar/", "Definition: of a firearm; not having rifling or internal spiral grooves inside the barrel", "Synonyms: unrifled"]}
