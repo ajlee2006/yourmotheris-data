@@ -1,1 +1,1 @@
-{"data": ["2022-10-15T05:00:24.277824+00:00", 6065, "Your mother is", "compulsive", "Pronunciation: /k\u0259m\u02c8p\u0259ls\u026av/", "Definition: strongly motivated to succeed", "Synonyms: determined, driven"]}
+{"data": ["2022-10-15T06:01:11.576828+00:00", 6066, "Your mother is", "antithetic", "Pronunciation: /\u02cc\u00e6nt\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: sharply contrasted in character or purpose", "Synonyms: antithetical"]}
