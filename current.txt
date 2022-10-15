@@ -1,1 +1,1 @@
-{"data": ["2022-10-15T15:00:49.332043+00:00", 6075, "Your mother is", "pound-foolish", "Pronunciation: /\u02c8pa\u028and\u02c8ful\u026a\u0283/", "Definition: unwise in dealing with large sums", ""]}
+{"data": ["2022-10-15T16:01:27.270242+00:00", 6076, "Your mother is", "empathic", "Pronunciation: /\u025bm\u02c8p\u00e6\u03b8\u026ak/", "Definition: showing empathy or ready comprehension of others' states", "Synonyms: empathetic"]}
