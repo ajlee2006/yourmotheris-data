@@ -1,1 +1,1 @@
-{"data": ["2022-10-15T14:00:42.862288+00:00", 6074, "Your mother is", "booted", "Pronunciation: /\u02c8but\u026ad/", "Definition: wearing boots", ""]}
+{"data": ["2022-10-15T15:00:49.332043+00:00", 6075, "Your mother is", "pound-foolish", "Pronunciation: /\u02c8pa\u028and\u02c8ful\u026a\u0283/", "Definition: unwise in dealing with large sums", ""]}
