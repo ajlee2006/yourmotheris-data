@@ -1,1 +1,1 @@
-{"data": ["2022-10-15T09:00:15.683228+00:00", 6069, "Your mother is", "smoothbore", "Pronunciation: /\u02c8smu\u00f0\u02ccbo\u028ar/", "Definition: of a firearm; not having rifling or internal spiral grooves inside the barrel", "Synonyms: unrifled"]}
+{"data": ["2022-10-15T10:00:27.884764+00:00", 6070, "Your mother is", "inauthentic", "Similar to: counterfeit", "Definition: false or fake; not what it appears to be", "Synonyms: spurious, unauthentic"]}
