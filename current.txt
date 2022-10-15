@@ -1,1 +1,1 @@
-{"data": ["2022-10-15T13:01:36.639588+00:00", 6073, "Your mother is", "mechanistic", "Pronunciation: /\u02ccm\u025bk\u0259\u02c8n\u026ast\u026ak/", "Definition: explained in terms of physical forces", ""]}
+{"data": ["2022-10-15T14:00:42.862288+00:00", 6074, "Your mother is", "booted", "Pronunciation: /\u02c8but\u026ad/", "Definition: wearing boots", ""]}
