@@ -1,1 +1,1 @@
-{"data": ["2022-10-15T01:01:34.891572+00:00", 6061, "Your mother is", "dual-use", "Similar to: multiple", "Definition: designed for or serving two purposes", "Synonyms: dual-purpose"]}
+{"data": ["2022-10-15T02:01:42.246228+00:00", 6062, "Your mother is", "posterior", "Pronunciation: /p\u0251\u02c8stiri\u0259r/", "Definition: coming at a subsequent time or stage", "Synonyms: later, ulterior"]}
