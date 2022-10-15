@@ -1,1 +1,1 @@
-{"data": ["2022-10-15T07:00:43.437380+00:00", 6067, "Your mother is", "nonintegrated", "", "Definition: not integrated; not taken into or made a part of a whole", "Synonyms: unintegrated"]}
+{"data": ["2022-10-15T08:00:45.357892+00:00", 6068, "Your mother is", "tortuous", "Pronunciation: /\u02c8t\u0254r\u02a7u\u0259s/", "Definition: highly complex or intricate and occasionally devious", "Synonyms: byzantine, convoluted, involved, knotty, tangled"]}
