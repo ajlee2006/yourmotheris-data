@@ -1,1 +1,1 @@
-{"data": ["2022-10-15T20:00:48.403185+00:00", 6080, "Your mother is", "medicinal", "Pronunciation: /m\u026a\u02c8d\u026as\u026an\u0259l/", "Definition: having the properties of medicine", "Synonyms: medicative"]}
+{"data": ["2022-10-15T21:00:53.854823+00:00", 6081, "Your mother is", "autochthonal", "Similar to: native", "Definition: originating where it is found", "Synonyms: autochthonic, autochthonous, endemic, indigenous"]}
