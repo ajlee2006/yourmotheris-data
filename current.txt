@@ -1,1 +1,1 @@
-{"data": ["2022-10-15T10:00:27.884764+00:00", 6070, "Your mother is", "inauthentic", "Similar to: counterfeit", "Definition: false or fake; not what it appears to be", "Synonyms: spurious, unauthentic"]}
+{"data": ["2022-10-15T11:01:19.793684+00:00", 6071, "Your mother is", "silver-scaled", "Similar to: armored", "Definition: having the body covered or partially covered with silver-colored scales", ""]}
