@@ -1,1 +1,1 @@
-{"data": ["2022-10-15T06:01:11.576828+00:00", 6066, "Your mother is", "antithetic", "Pronunciation: /\u02cc\u00e6nt\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: sharply contrasted in character or purpose", "Synonyms: antithetical"]}
+{"data": ["2022-10-15T07:00:43.437380+00:00", 6067, "Your mother is", "nonintegrated", "", "Definition: not integrated; not taken into or made a part of a whole", "Synonyms: unintegrated"]}
