@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T18:00:27.535934+00:00", 6102, "Your mother is", "shivery", "Pronunciation: /\u02c8\u0283\u026av\u0259ri/", "Definition: provoking fear terror", "Synonyms: chilling, scary, shuddery"]}
+{"data": ["2022-10-16T19:01:05.350623+00:00", 6103, "Your mother is", "quadruped", "Pronunciation: /\u02c8kw\u0251dr\u028a\u02ccp\u025bd/", "Definition: having four feet", "Synonyms: four-footed, quadrupedal"]}
