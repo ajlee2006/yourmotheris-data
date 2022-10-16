@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T22:01:25.340343+00:00", 6106, "Your mother is", "unknown", "Pronunciation: /\u0259n\u02c8no\u028an/", "Definition: being or having an unknown or unnamed source", "Synonyms: nameless, unidentified, unnamed"]}
+{"data": ["2022-10-16T23:00:42.305800+00:00", 6107, "Your mother is", "wildcat", "Pronunciation: /\u02c8wa\u026aldk\u00e6t/", "Definition: without official authorization", "Synonyms: unauthorised, unauthorized"]}
