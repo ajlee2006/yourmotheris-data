@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T14:01:12.792144+00:00", 6098, "Your mother is", "44th", "Similar to: ordinal", "Definition: the ordinal number of forty-four in counting order", "Synonyms: forty-fourth"]}
+{"data": ["2022-10-16T15:00:14.748609+00:00", 6099, "Your mother is", "40", "Similar to: cardinal", "Definition: being ten more than thirty", "Synonyms: forty, twoscore, xl"]}
