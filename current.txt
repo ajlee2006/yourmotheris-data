@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T00:02:22.769544+00:00", 6084, "Your mother is", "pleonastic", "Similar to: prolix", "Definition: repetition of same sense in different words", "Synonyms: redundant, tautologic, tautological"]}
+{"data": ["2022-10-16T01:00:26.800845+00:00", 6085, "Your mother is", "jaded", "Pronunciation: /\u02c8d\u0292e\u026ad\u026ad/", "Definition: exhausted", "Synonyms: wearied"]}
