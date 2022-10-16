@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T10:01:22.967695+00:00", 6094, "Your mother is", "no-hit", "Pronunciation: /no\u028a-h\u026at/", "Definition: of a game (or the pitching) in which a pitcher allows the opponent no hits", ""]}
+{"data": ["2022-10-16T11:01:23.082657+00:00", 6095, "Your mother is", "stenotic", "Similar to: constricted", "Definition: abnormally constricted body canal or passage", "Synonyms: stenosed"]}
