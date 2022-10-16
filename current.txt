@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T11:01:23.082657+00:00", 6095, "Your mother is", "stenotic", "Similar to: constricted", "Definition: abnormally constricted body canal or passage", "Synonyms: stenosed"]}
+{"data": ["2022-10-16T12:01:44.401622+00:00", 6096, "Your mother is", "quirky", "Pronunciation: /\u02c8kw\u025crki/", "Definition: (informal) strikingly unconventional", "Synonyms: far-out, kinky, offbeat, way-out"]}
