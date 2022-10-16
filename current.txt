@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T07:01:42.410572+00:00", 6091, "Your mother is", "cumulative", "Pronunciation: /\u02c8kjumj\u0259\u02ccle\u026at\u026av/", "Definition: increasing by successive addition", "Synonyms: accumulative"]}
+{"data": ["2022-10-16T08:01:24.935928+00:00", 6092, "Your mother is", "multipurpose", "Pronunciation: /\u02ccm\u0259lt\u026a\u02c8p\u025crp\u0259s/", "Definition: having multiple uses", ""]}
