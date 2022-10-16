@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T16:01:39.185525+00:00", 6100, "Your mother is", "precocious", "Pronunciation: /pr\u026a\u02c8ko\u028a\u0283\u0259s/", "Definition: appearing or developing early", ""]}
+{"data": ["2022-10-16T17:00:57.773279+00:00", 6101, "Your mother is", "unenlightening", "", "Definition: not edifying", "Synonyms: unedifying"]}
