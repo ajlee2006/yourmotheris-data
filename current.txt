@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T13:01:06.540479+00:00", 6097, "Your mother is", "wandering", "Pronunciation: /\u02c8w\u0251nd\u0259r\u026a\u014b/", "Definition: migratory", "Synonyms: mobile, nomadic, peregrine, roving"]}
+{"data": ["2022-10-16T14:01:12.792144+00:00", 6098, "Your mother is", "44th", "Similar to: ordinal", "Definition: the ordinal number of forty-four in counting order", "Synonyms: forty-fourth"]}
