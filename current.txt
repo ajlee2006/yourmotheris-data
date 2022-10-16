@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T03:00:34.914627+00:00", 6087, "Your mother is", "refractive", "Pronunciation: /r\u026a\u02c8fr\u00e6kt\u026av/", "Definition: of or relating to or capable of refraction", "Synonyms: refractile"]}
+{"data": ["2022-10-16T04:01:02.584453+00:00", 6088, "Your mother is", "emphasized", "Pronunciation: /\u02c8\u025bmf\u028c\u02ccsa\u026azd/", "Definition: spoken with emphasis", "Synonyms: emphasised, emphatic"]}
