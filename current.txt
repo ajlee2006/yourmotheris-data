@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T01:00:26.800845+00:00", 6085, "Your mother is", "jaded", "Pronunciation: /\u02c8d\u0292e\u026ad\u026ad/", "Definition: exhausted", "Synonyms: wearied"]}
+{"data": ["2022-10-16T02:01:14.151131+00:00", 6086, "Your mother is", "dirty-faced", "Pronunciation: /\u02c8d\u025crti\u02ccfe\u026ast/", "Definition: having a dirty face", ""]}
