@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T20:01:37.764941+00:00", 6104, "Your mother is", "first-year", "Similar to: first", "Definition: used of a person in the first year of an experience (especially in United States high school or college)", "Synonyms: freshman"]}
+{"data": ["2022-10-16T21:00:41.768324+00:00", 6105, "Your mother is", "ingratiating", "Pronunciation: /\u026an\u02c8gre\u026a\u0283i\u02cce\u026at\u026a\u014b/", "Definition: calculated to please or gain favor", "Synonyms: ingratiatory, insinuating"]}
