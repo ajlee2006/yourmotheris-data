@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T21:00:41.768324+00:00", 6105, "Your mother is", "ingratiating", "Pronunciation: /\u026an\u02c8gre\u026a\u0283i\u02cce\u026at\u026a\u014b/", "Definition: calculated to please or gain favor", "Synonyms: ingratiatory, insinuating"]}
+{"data": ["2022-10-16T22:01:25.340343+00:00", 6106, "Your mother is", "unknown", "Pronunciation: /\u0259n\u02c8no\u028an/", "Definition: being or having an unknown or unnamed source", "Synonyms: nameless, unidentified, unnamed"]}
