@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T19:01:05.350623+00:00", 6103, "Your mother is", "quadruped", "Pronunciation: /\u02c8kw\u0251dr\u028a\u02ccp\u025bd/", "Definition: having four feet", "Synonyms: four-footed, quadrupedal"]}
+{"data": ["2022-10-16T20:01:37.764941+00:00", 6104, "Your mother is", "first-year", "Similar to: first", "Definition: used of a person in the first year of an experience (especially in United States high school or college)", "Synonyms: freshman"]}
