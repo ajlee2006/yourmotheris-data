@@ -1,1 +1,1 @@
-{"data": ["2022-10-17T21:01:03.760873+00:00", 6129, "Your mother is", "bust", "Pronunciation: /b\u0259st/", "Definition: lacking funds", "Synonyms: broke, skint, stone-broke, stony-broke"]}
+{"data": ["2022-10-17T22:00:19.495069+00:00", 6130, "Your mother is", "conjunct", "Pronunciation: /k\u0259n\u02c8d\u0292\u0259\u014bkt/", "Definition: involving the joint activity of two or more", "Synonyms: concerted, conjunctive, cooperative"]}
