@@ -1,1 +1,1 @@
-{"data": ["2022-10-17T00:01:28.185552+00:00", 6108, "Your mother is", "c", "Pronunciation: /si/", "Definition: being ten more than ninety", "Synonyms: 100, hundred, one hundred"]}
+{"data": ["2022-10-17T01:01:50.441511+00:00", 6109, "Your mother is", "adjusted", "Pronunciation: /\u028c\u02c8d\u0292\u028cst\u028cd/", "Definition: having achieved a comfortable relation with your environment", "Synonyms: familiarised, familiarized"]}
