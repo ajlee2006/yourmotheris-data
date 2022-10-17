@@ -1,1 +1,1 @@
-{"data": ["2022-10-17T01:01:50.441511+00:00", 6109, "Your mother is", "adjusted", "Pronunciation: /\u028c\u02c8d\u0292\u028cst\u028cd/", "Definition: having achieved a comfortable relation with your environment", "Synonyms: familiarised, familiarized"]}
+{"data": ["2022-10-17T02:01:35.400670+00:00", 6110, "Your mother is", "tagged", "Pronunciation: /t\u00e6\u0261d/", "Definition: bearing or marked with a label or tag", "Synonyms: labeled, labelled"]}
