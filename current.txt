@@ -1,1 +1,1 @@
-{"data": ["2022-10-17T12:00:48.984194+00:00", 6120, "Your mother is", "undecipherable", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8sa\u026af\u0259r\u0259b\u0259l/", "Definition: not easily deciphered", "Synonyms: indecipherable, unclear, unreadable"]}
+{"data": ["2022-10-17T13:01:00.058128+00:00", 6121, "Your mother is", "bladdery", "", "Definition: resembling a bladder", "Synonyms: bladderlike"]}
