@@ -1,1 +1,1 @@
-{"data": ["2022-10-16T23:00:42.305800+00:00", 6107, "Your mother is", "wildcat", "Pronunciation: /\u02c8wa\u026aldk\u00e6t/", "Definition: without official authorization", "Synonyms: unauthorised, unauthorized"]}
+{"data": ["2022-10-17T00:01:28.185552+00:00", 6108, "Your mother is", "c", "Pronunciation: /si/", "Definition: being ten more than ninety", "Synonyms: 100, hundred, one hundred"]}
