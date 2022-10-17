@@ -1,1 +1,1 @@
-{"data": ["2022-10-17T08:00:52.698477+00:00", 6116, "Your mother is", "puissant", "Pronunciation: /\u02c8pju\u026as\u0259nt/", "Definition: powerful", ""]}
+{"data": ["2022-10-17T09:01:37.780973+00:00", 6117, "Your mother is", "feckless", "Pronunciation: /\u02c8f\u025bkl\u026as/", "Definition: generally incompetent and ineffectual", "Synonyms: inept"]}
