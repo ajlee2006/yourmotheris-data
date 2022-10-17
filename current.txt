@@ -1,1 +1,1 @@
-{"data": ["2022-10-17T04:00:44.785294+00:00", 6112, "Your mother is", "irate", "Pronunciation: /\u02c8a\u026are\u026at/", "Definition: feeling or showing extreme anger", "Synonyms: ireful"]}
+{"data": ["2022-10-17T05:00:55.033469+00:00", 6113, "Your mother is", "regimented", "Pronunciation: /\u02c8r\u025bd\u0292\u028c\u02ccm\u025bnt\u026ad/", "Definition: strictly controlled", ""]}
