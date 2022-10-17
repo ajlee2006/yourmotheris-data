@@ -1,1 +1,1 @@
-{"data": ["2022-10-17T14:01:49.282929+00:00", 6122, "Your mother is", "treeless", "Pronunciation: /\u02c8tril\u028cs/", "Definition: not wooded", "Synonyms: unwooded"]}
+{"data": ["2022-10-17T15:00:17.272870+00:00", 6123, "Your mother is", "microscopic", "Pronunciation: /\u02ccma\u026akr\u0259\u02c8sk\u0251p\u026ak/", "Definition: of or relating to or used in microscopy", "Synonyms: microscopical"]}
