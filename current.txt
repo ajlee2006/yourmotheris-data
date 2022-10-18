@@ -1,1 +1,1 @@
-{"data": ["2022-10-18T09:01:49.892413+00:00", 6141, "Your mother is", "movable", "Pronunciation: /\u02c8muv\u0259b\u0259l/", "Definition: capable of being moved or conveyed from one place to another", "Synonyms: moveable, transferable, transferrable, transportable"]}
+{"data": ["2022-10-18T10:01:25.746881+00:00", 6142, "Your mother is", "coal-black", "Pronunciation: /ko\u028al-bl\u00e6k/", "Definition: of the blackest black; similar to the color of jet or coal", "Synonyms: jet, jet-black, pitchy, sooty"]}
