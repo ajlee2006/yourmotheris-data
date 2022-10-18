@@ -1,1 +1,1 @@
-{"data": ["2022-10-18T10:01:25.746881+00:00", 6142, "Your mother is", "coal-black", "Pronunciation: /ko\u028al-bl\u00e6k/", "Definition: of the blackest black; similar to the color of jet or coal", "Synonyms: jet, jet-black, pitchy, sooty"]}
+{"data": ["2022-10-18T11:01:29.528645+00:00", 6143, "Your mother is", "undersize", "Pronunciation: /\u02c8\u0259nd\u0259r\u02c8sa\u026az/", "Definition: smaller than normal for its kind", "Synonyms: undersized"]}
