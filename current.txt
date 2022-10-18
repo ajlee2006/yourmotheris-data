@@ -1,1 +1,1 @@
-{"data": ["2022-10-18T04:01:00.012709+00:00", 6136, "Your mother is", "factious", "Pronunciation: /\u02c8f\u00e6k\u0283\u0259s/", "Definition: dissenting (especially dissenting with the majority opinion)", "Synonyms: dissentious, divisive"]}
+{"data": ["2022-10-18T05:01:38.189979+00:00", 6137, "Your mother is", "unsterilised", "Similar to: germy", "Definition: not sterilized", "Synonyms: unsterilized"]}
