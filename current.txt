@@ -1,1 +1,1 @@
-{"data": ["2022-10-18T20:01:44.374821+00:00", 6152, "Your mother is", "opisthognathous", "Pronunciation: /\u02cc\u0251p\u026as\u02c8\u03b8\u0251gn\u0259\u03b8\u0259s/", "Definition: having receding jaws", ""]}
+{"data": ["2022-10-18T21:00:34.688872+00:00", 6153, "Your mother is", "satisfiable", "Similar to: satiate", "Definition: capable of being sated", "Synonyms: satiable"]}
