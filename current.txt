@@ -1,1 +1,1 @@
-{"data": ["2022-10-18T17:00:28.601118+00:00", 6149, "Your mother is", "purging", "Pronunciation: /\u02c8p\u025drd\u0292\u026a\u014b/", "Definition: serving to purge or rid of sin", "Synonyms: purgatorial, purifying"]}
+{"data": ["2022-10-18T18:01:35.886927+00:00", 6150, "Your mother is", "sycophantic", "Pronunciation: /\u02ccs\u026ak\u0259\u02c8f\u00e6nt\u026ak/", "Definition: attempting to win favor from influential people by flattery", "Synonyms: bootlicking, fawning, obsequious, toadyish"]}
