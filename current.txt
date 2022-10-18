@@ -1,1 +1,1 @@
-{"data": ["2022-10-18T06:02:08.143252+00:00", 6138, "Your mother is", "thumping", "Pronunciation: /\u02c8\u03b8\u0259mpi\u014b/", "Definition: (used informally) very large", "Synonyms: banging, humongous, walloping, whopping"]}
+{"data": ["2022-10-18T07:00:59.486049+00:00", 6139, "Your mother is", "phonologic", "", "Definition: of or relating to phonology", "Synonyms: phonological"]}
