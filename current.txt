@@ -1,1 +1,1 @@
-{"data": ["2022-10-18T11:01:29.528645+00:00", 6143, "Your mother is", "undersize", "Pronunciation: /\u02c8\u0259nd\u0259r\u02c8sa\u026az/", "Definition: smaller than normal for its kind", "Synonyms: undersized"]}
+{"data": ["2022-10-18T12:01:05.568127+00:00", 6144, "Your mother is", "asquint", "Pronunciation: /\u0259\u02c8skw\u026ant/", "Definition: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy", "Synonyms: askance, askant, sidelong, squint, squint-eyed, squinty"]}
