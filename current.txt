@@ -1,1 +1,1 @@
-{"data": ["2022-10-17T23:01:23.087514+00:00", 6131, "Your mother is", "flame-colored", "Pronunciation: /fle\u026am-\u02c8k\u0259l\u0259rd/", "Definition: having the brilliant orange-red color of flames", "Synonyms: flame-coloured"]}
+{"data": ["2022-10-18T00:02:22.355866+00:00", 6132, "Your mother is", "unbelievable", "Pronunciation: /\u02cc\u0259nb\u026a\u02c8liv\u0259b\u0259l/", "Definition: having a probability too low to inspire belief", "Synonyms: improbable, unconvincing, unlikely"]}
