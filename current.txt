@@ -1,1 +1,1 @@
-{"data": ["2022-10-18T12:01:05.568127+00:00", 6144, "Your mother is", "asquint", "Pronunciation: /\u0259\u02c8skw\u026ant/", "Definition: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy", "Synonyms: askance, askant, sidelong, squint, squint-eyed, squinty"]}
+{"data": ["2022-10-18T13:01:43.782493+00:00", 6145, "Your mother is", "splenetic", "Pronunciation: /spl\u026a\u02c8n\u025bt\u026ak/", "Definition: very irritable", "Synonyms: bristly, prickly, waspish"]}
