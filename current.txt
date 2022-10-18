@@ -1,1 +1,1 @@
-{"data": ["2022-10-18T19:01:10.726503+00:00", 6151, "Your mother is", "bacilliform", "Pronunciation: /b\u0259\u02c8s\u026al\u026a\u02ccfo\u028arm/", "Definition: formed like a bacillus", "Synonyms: bacillar, bacillary, baculiform, rod-shaped"]}
+{"data": ["2022-10-18T20:01:44.374821+00:00", 6152, "Your mother is", "opisthognathous", "Pronunciation: /\u02cc\u0251p\u026as\u02c8\u03b8\u0251gn\u0259\u03b8\u0259s/", "Definition: having receding jaws", ""]}
