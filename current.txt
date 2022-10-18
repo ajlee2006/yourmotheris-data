@@ -1,1 +1,1 @@
-{"data": ["2022-10-18T01:00:45.578135+00:00", 6133, "Your mother is", "clandestine", "Pronunciation: /kl\u00e6n\u02c8d\u025bst\u026an/", "Definition: conducted with or marked by hidden aims or methods", "Synonyms: cloak-and-dagger, hole-and-corner, hugger-mugger, hush-hush, secret, surreptitious, undercover, underground"]}
+{"data": ["2022-10-18T02:01:45.558505+00:00", 6134, "Your mother is", "haematological", "", "Definition: of or relating to or involved in hematology", "Synonyms: hematologic, hematological"]}
