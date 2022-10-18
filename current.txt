@@ -1,1 +1,1 @@
-{"data": ["2022-10-18T15:00:42.371687+00:00", 6147, "Your mother is", "thermal", "Pronunciation: /\u02c8\u03b8\u025crm\u00e6l/", "Definition: relating to or associated with heat", "Synonyms: caloric, thermic"]}
+{"data": ["2022-10-18T16:00:47.108818+00:00", 6148, "Your mother is", "springlike", "Similar to: elastic", "Definition: resembling a spring or the action of a spring", ""]}
