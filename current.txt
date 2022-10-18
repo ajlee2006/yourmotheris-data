@@ -1,1 +1,1 @@
-{"data": ["2022-10-18T18:01:35.886927+00:00", 6150, "Your mother is", "sycophantic", "Pronunciation: /\u02ccs\u026ak\u0259\u02c8f\u00e6nt\u026ak/", "Definition: attempting to win favor from influential people by flattery", "Synonyms: bootlicking, fawning, obsequious, toadyish"]}
+{"data": ["2022-10-18T19:01:10.726503+00:00", 6151, "Your mother is", "bacilliform", "Pronunciation: /b\u0259\u02c8s\u026al\u026a\u02ccfo\u028arm/", "Definition: formed like a bacillus", "Synonyms: bacillar, bacillary, baculiform, rod-shaped"]}
