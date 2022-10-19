@@ -1,1 +1,1 @@
-{"data": ["2022-10-18T23:01:23.831056+00:00", 6155, "Your mother is", "enthralled", "Pronunciation: /\u025bn\u02c8\u03b8r\u0254ld/", "Definition: filled with wonder and delight", "Synonyms: beguiled, captivated, charmed, delighted, entranced"]}
+{"data": ["2022-10-19T00:02:10.045227+00:00", 6156, "Your mother is", "waterproof", "Pronunciation: /\u02c8w\u0254t\u0259r\u02ccpruf/", "Definition: not permitting the passage of water", "Synonyms: rainproof, waterproofed"]}
