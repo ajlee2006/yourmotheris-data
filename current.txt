@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T02:01:10.058367+00:00", 6158, "Your mother is", "double-barreled", "Pronunciation: /\u02c8d\u0259b\u0259l-\u02c8b\u00e6r\u0259ld/", "Definition: having two purposes; twofold", "Synonyms: double-barrelled"]}
+{"data": ["2022-10-19T03:02:06.500611+00:00", 6159, "Your mother is", "spontaneous", "Pronunciation: /sp\u0251n\u02c8te\u026ani\u0259s/", "Definition: happening or arising without apparent external cause", "Synonyms: self-generated"]}
