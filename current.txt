@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T12:01:33.765522+00:00", 6168, "Your mother is", "puppyish", "Similar to: immature", "Definition: characteristic of a puppy", "Synonyms: puppylike"]}
+{"data": ["2022-10-19T13:01:09.642065+00:00", 6169, "Your mother is", "cyclonic", "Pronunciation: /sa\u026a\u02c8kl\u0251n\u026ak/", "Definition: of or relating to or characteristic of the atmosphere around a low pressure center", "Synonyms: cyclonal, cyclonical"]}
