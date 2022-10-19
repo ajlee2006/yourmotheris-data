@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T18:01:37.777891+00:00", 6174, "Your mother is", "loved", "Pronunciation: /l\u028cvd/", "Definition: held dear", ""]}
+{"data": ["2022-10-19T19:00:57.221789+00:00", 6175, "Your mother is", "unlocated", "Similar to: unsettled", "Definition: lacking a particular location", ""]}
