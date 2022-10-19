@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T05:01:51.653450+00:00", 6161, "Your mother is", "pivotal", "Pronunciation: /\u02c8p\u026av\u0259t\u0259l/", "Definition: being of crucial importance", "Synonyms: polar"]}
+{"data": ["2022-10-19T06:01:15.223476+00:00", 6162, "Your mother is", "short-winged", "Pronunciation: /\u0283\u0254rt-w\u026a\u014bd/", "Definition: (especially of certain insects) having very short or rudimentary wings", "Synonyms: brachypterous"]}
