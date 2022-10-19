@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T01:01:11.295867+00:00", 6157, "Your mother is", "pedagogic", "Pronunciation: /\u02ccp\u025bd\u0259\u02c8\u0261\u0251d\u0292\u026ak/", "Definition: of or relating to pedagogy", "Synonyms: pedagogical"]}
+{"data": ["2022-10-19T02:01:10.058367+00:00", 6158, "Your mother is", "double-barreled", "Pronunciation: /\u02c8d\u0259b\u0259l-\u02c8b\u00e6r\u0259ld/", "Definition: having two purposes; twofold", "Synonyms: double-barrelled"]}
