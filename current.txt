@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T08:01:10.958494+00:00", 6164, "Your mother is", "sincere", "Pronunciation: /s\u026an\u02c8sir/", "Definition: characterized by a firm and humorless belief in the validity of your opinions", "Synonyms: earnest, solemn"]}
+{"data": ["2022-10-19T09:00:46.181288+00:00", 6165, "Your mother is", "feminine", "Pronunciation: /\u02c8f\u025bm\u0259n\u026an/", "Definition: befitting or characteristic of a woman especially a mature woman", "Synonyms: womanly"]}
