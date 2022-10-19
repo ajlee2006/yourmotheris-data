@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T19:00:57.221789+00:00", 6175, "Your mother is", "unlocated", "Similar to: unsettled", "Definition: lacking a particular location", ""]}
+{"data": ["2022-10-19T20:01:02.516984+00:00", 6176, "Your mother is", "biographical", "Pronunciation: /\u02ccba\u026a\u0259\u02c8gr\u00e6f\u026ak\u0259l/", "Definition: of or relating to or being biography", "Synonyms: biographic"]}
