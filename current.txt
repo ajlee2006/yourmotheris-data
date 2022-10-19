@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T11:01:27.256398+00:00", 6167, "Your mother is", "boxy", "Pronunciation: /\u02c8b\u0251ksi/", "Definition: resembling a box in rectangularity", "Synonyms: box-shaped, boxlike"]}
+{"data": ["2022-10-19T12:01:33.765522+00:00", 6168, "Your mother is", "puppyish", "Similar to: immature", "Definition: characteristic of a puppy", "Synonyms: puppylike"]}
