@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T04:01:07.591132+00:00", 6160, "Your mother is", "soulless", "Pronunciation: /\u02c8so\u028all\u025bs/", "Definition: lacking sensitivity or the capacity for deep feeling", ""]}
+{"data": ["2022-10-19T05:01:51.653450+00:00", 6161, "Your mother is", "pivotal", "Pronunciation: /\u02c8p\u026av\u0259t\u0259l/", "Definition: being of crucial importance", "Synonyms: polar"]}
