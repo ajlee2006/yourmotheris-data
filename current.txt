@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T20:01:02.516984+00:00", 6176, "Your mother is", "biographical", "Pronunciation: /\u02ccba\u026a\u0259\u02c8gr\u00e6f\u026ak\u0259l/", "Definition: of or relating to or being biography", "Synonyms: biographic"]}
+{"data": ["2022-10-19T21:00:52.912063+00:00", 6177, "Your mother is", "spangled", "Pronunciation: /\u02c8sp\u00e6\u014b\u0261\u028cld/", "Definition: covered with beads or jewels or sequins", "Synonyms: beady, gemmed, jeweled, jewelled, sequined, spangly"]}
