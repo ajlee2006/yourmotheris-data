@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T00:02:10.045227+00:00", 6156, "Your mother is", "waterproof", "Pronunciation: /\u02c8w\u0254t\u0259r\u02ccpruf/", "Definition: not permitting the passage of water", "Synonyms: rainproof, waterproofed"]}
+{"data": ["2022-10-19T01:01:11.295867+00:00", 6157, "Your mother is", "pedagogic", "Pronunciation: /\u02ccp\u025bd\u0259\u02c8\u0261\u0251d\u0292\u026ak/", "Definition: of or relating to pedagogy", "Synonyms: pedagogical"]}
