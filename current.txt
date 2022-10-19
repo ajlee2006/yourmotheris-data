@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T06:01:15.223476+00:00", 6162, "Your mother is", "short-winged", "Pronunciation: /\u0283\u0254rt-w\u026a\u014bd/", "Definition: (especially of certain insects) having very short or rudimentary wings", "Synonyms: brachypterous"]}
+{"data": ["2022-10-19T07:01:51.979570+00:00", 6163, "Your mother is", "capped", "Pronunciation: /k\u00e6pt/", "Definition: covered as if with a cap or crown especially of a specified kind", ""]}
