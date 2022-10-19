@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T21:00:52.912063+00:00", 6177, "Your mother is", "spangled", "Pronunciation: /\u02c8sp\u00e6\u014b\u0261\u028cld/", "Definition: covered with beads or jewels or sequins", "Synonyms: beady, gemmed, jeweled, jewelled, sequined, spangly"]}
+{"data": ["2022-10-19T22:01:25.911210+00:00", 6178, "Your mother is", "ossified", "Pronunciation: /\u02c8\u0251s\u0259\u02ccfa\u026ad/", "Definition: set in a rigidly conventional pattern of behavior, habits, or beliefs", "Synonyms: fossilised, fossilized"]}
