@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T03:02:06.500611+00:00", 6159, "Your mother is", "spontaneous", "Pronunciation: /sp\u0251n\u02c8te\u026ani\u0259s/", "Definition: happening or arising without apparent external cause", "Synonyms: self-generated"]}
+{"data": ["2022-10-19T04:01:07.591132+00:00", 6160, "Your mother is", "soulless", "Pronunciation: /\u02c8so\u028all\u025bs/", "Definition: lacking sensitivity or the capacity for deep feeling", ""]}
