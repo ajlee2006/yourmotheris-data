@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T09:00:46.181288+00:00", 6165, "Your mother is", "feminine", "Pronunciation: /\u02c8f\u025bm\u0259n\u026an/", "Definition: befitting or characteristic of a woman especially a mature woman", "Synonyms: womanly"]}
+{"data": ["2022-10-19T10:01:00.193805+00:00", 6166, "Your mother is", "nonracist", "Similar to: impartial", "Definition: unprejudiced about race", "Synonyms: color-blind, colour-blind"]}
