@@ -1,1 +1,1 @@
-{"data": ["2022-10-20T21:00:46.661110+00:00", 6201, "Your mother is", "aciduric", "Pronunciation: /\u02cc\u00e6s\u026a\u02c8d\u028ar\u026ak/", "Definition: especially of some bacteria; growing well in an acid medium", "Synonyms: acidophilic, acidophilous"]}
+{"data": ["2022-10-20T22:00:43.439437+00:00", 6202, "Your mother is", "allelomorphic", "", "Definition: of or relating to alleles", "Synonyms: allelic"]}
