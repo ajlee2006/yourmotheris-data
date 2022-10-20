@@ -1,1 +1,1 @@
-{"data": ["2022-10-20T03:00:36.450921+00:00", 6183, "Your mother is", "entertaining", "Pronunciation: /\u02cc\u025bnt\u0259r\u02c8te\u026an\u026a\u014b/", "Definition: agreeably diverting", ""]}
+{"data": ["2022-10-20T04:01:40.678870+00:00", 6184, "Your mother is", "fallacious", "Pronunciation: /f\u0259\u02c8le\u026a\u0283\u0259s/", "Definition: intended to deceive", "Synonyms: deceitful, fraudulent"]}
