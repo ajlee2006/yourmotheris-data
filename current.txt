@@ -1,1 +1,1 @@
-{"data": ["2022-10-20T07:00:45.194133+00:00", 6187, "Your mother is", "explainable", "Pronunciation: /\u026ak\u02c8sple\u026an\u028cb\u028cl/", "Definition: capable of being understood", "Synonyms: interpretable"]}
+{"data": ["2022-10-20T08:01:06.515762+00:00", 6188, "Your mother is", "unearned", "Pronunciation: /\u0259n\u02c8\u025crnd/", "Definition: not gained by merit or labor or service", ""]}
