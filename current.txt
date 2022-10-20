@@ -1,1 +1,1 @@
-{"data": ["2022-10-20T04:01:40.678870+00:00", 6184, "Your mother is", "fallacious", "Pronunciation: /f\u0259\u02c8le\u026a\u0283\u0259s/", "Definition: intended to deceive", "Synonyms: deceitful, fraudulent"]}
+{"data": ["2022-10-20T05:01:46.860494+00:00", 6185, "Your mother is", "perspicuous", "Pronunciation: /p\u0259r\u02c8sp\u026akju\u0259s/", "Definition: (of language) transparently clear; easily understandable", "Synonyms: crystal clear, limpid, lucid, luculent, pellucid"]}
