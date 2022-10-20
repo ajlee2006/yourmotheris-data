@@ -1,1 +1,1 @@
-{"data": ["2022-10-20T05:01:46.860494+00:00", 6185, "Your mother is", "perspicuous", "Pronunciation: /p\u0259r\u02c8sp\u026akju\u0259s/", "Definition: (of language) transparently clear; easily understandable", "Synonyms: crystal clear, limpid, lucid, luculent, pellucid"]}
+{"data": ["2022-10-20T06:00:52.771173+00:00", 6186, "Your mother is", "inflowing", "Similar to: incoming", "Definition: flowing inward", "Synonyms: influent"]}
