@@ -1,1 +1,1 @@
-{"data": ["2022-10-20T20:00:56.729901+00:00", 6200, "Your mother is", "incognizant", "Pronunciation: /\u026an\u02c8k\u0251gn\u026az\u0259nt/", "Definition: (often followed by `of') not aware", "Synonyms: unaware"]}
+{"data": ["2022-10-20T21:00:46.661110+00:00", 6201, "Your mother is", "aciduric", "Pronunciation: /\u02cc\u00e6s\u026a\u02c8d\u028ar\u026ak/", "Definition: especially of some bacteria; growing well in an acid medium", "Synonyms: acidophilic, acidophilous"]}
