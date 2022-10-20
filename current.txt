@@ -1,1 +1,1 @@
-{"data": ["2022-10-20T18:01:01.603928+00:00", 6198, "Your mother is", "malapropos", "Pronunciation: /\u02ccm\u00e6l\u00e6pr\u0259\u02c8po\u028a/", "Definition: of an inappropriate or incorrectly applied nature", ""]}
+{"data": ["2022-10-20T19:00:49.290689+00:00", 6199, "Your mother is", "deist", "Pronunciation: /\u02c8di\u026ast/", "Definition: of or relating to deism", "Synonyms: deistic"]}
