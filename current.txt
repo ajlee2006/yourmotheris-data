@@ -1,1 +1,1 @@
-{"data": ["2022-10-20T00:02:39.171370+00:00", 6180, "Your mother is", "presumable", "Pronunciation: /pr\u026a\u02c8zum\u0259b\u0259l/", "Definition: capable of being inferred on slight grounds", "Synonyms: supposable, surmisable"]}
+{"data": ["2022-10-20T01:01:40.691284+00:00", 6181, "Your mother is", "indisposed", "Pronunciation: /\u02cc\u026and\u026a\u02c8spo\u028azd/", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, peaked, poorly, seedy, sickly, under the weather, unwell"]}
