@@ -1,1 +1,1 @@
-{"data": ["2022-10-20T22:00:43.439437+00:00", 6202, "Your mother is", "allelomorphic", "", "Definition: of or relating to alleles", "Synonyms: allelic"]}
+{"data": ["2022-10-20T23:00:28.767193+00:00", 6203, "Your mother is", "130", "Similar to: cardinal", "Definition: being ten more than one hundred twenty", "Synonyms: cxxx, one hundred thirty"]}
