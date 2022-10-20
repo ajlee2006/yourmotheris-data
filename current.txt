@@ -1,1 +1,1 @@
-{"data": ["2022-10-19T23:01:08.257269+00:00", 6179, "Your mother is", "unruffled", "Pronunciation: /\u0259n\u02c8r\u0259f\u0259ld/", "Definition: (of a body of water) free from disturbance by heavy waves", "Synonyms: placid, quiet, smooth, still, tranquil"]}
+{"data": ["2022-10-20T00:02:39.171370+00:00", 6180, "Your mother is", "presumable", "Pronunciation: /pr\u026a\u02c8zum\u0259b\u0259l/", "Definition: capable of being inferred on slight grounds", "Synonyms: supposable, surmisable"]}
