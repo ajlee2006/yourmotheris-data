@@ -1,1 +1,1 @@
-{"data": ["2022-10-20T09:00:30.594639+00:00", 6189, "Your mother is", "yeastlike", "", "Definition: of or resembling or containing yeast", "Synonyms: yeasty"]}
+{"data": ["2022-10-20T10:00:29.927329+00:00", 6190, "Your mother is", "ctenoid", "Pronunciation: /\u02c8tin\u0254\u026ad/", "Definition: resembling a comb; having projections like the teeth of a comb", "Synonyms: comb-like"]}
