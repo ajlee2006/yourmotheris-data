@@ -1,1 +1,1 @@
-{"data": ["2022-10-20T08:01:06.515762+00:00", 6188, "Your mother is", "unearned", "Pronunciation: /\u0259n\u02c8\u025crnd/", "Definition: not gained by merit or labor or service", ""]}
+{"data": ["2022-10-20T09:00:30.594639+00:00", 6189, "Your mother is", "yeastlike", "", "Definition: of or resembling or containing yeast", "Synonyms: yeasty"]}
