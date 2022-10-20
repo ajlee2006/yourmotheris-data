@@ -1,1 +1,1 @@
-{"data": ["2022-10-20T11:01:02.250066+00:00", 6191, "Your mother is", "three-wheel", "", "Definition: of or relating to vehicles having three wheels", "Synonyms: three-wheeled"]}
+{"data": ["2022-10-20T12:01:45.131012+00:00", 6192, "Your mother is", "unpolitical", "Pronunciation: /\u02cc\u0259np\u0259\u02c8l\u026at\u026ak\u0259l/", "Definition: politically neutral", "Synonyms: apolitical"]}
