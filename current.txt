@@ -1,1 +1,1 @@
-{"data": ["2022-10-21T22:00:47.693452+00:00", 6226, "Your mother is", "leprose", "Pronunciation: /\u02c8l\u025bpro\u028as/", "Definition: rough to the touch; covered with scales or scurf", "Synonyms: lepidote, scabrous, scaly, scurfy"]}
+{"data": ["2022-10-21T23:01:37.364436+00:00", 6227, "Your mother is", "russet", "Pronunciation: /\u02c8r\u0259s\u026at/", "Definition: of brown with a reddish tinge", ""]}
