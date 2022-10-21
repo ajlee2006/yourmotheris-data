@@ -1,1 +1,1 @@
-{"data": ["2022-10-21T04:00:43.142862+00:00", 6208, "Your mother is", "retral", "Pronunciation: /\u02c8ritr\u0259l/", "Definition: moving or directed or tending in a backward direction or contrary to a previous direction", "Synonyms: retrograde"]}
+{"data": ["2022-10-21T05:00:48.886624+00:00", 6209, "Your mother is", "grape-sized", "Pronunciation: /gre\u026ap-sa\u026azd/", "Definition: having the approximate size of a grape", ""]}
