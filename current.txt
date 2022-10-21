@@ -1,1 +1,1 @@
-{"data": ["2022-10-21T02:01:42.439074+00:00", 6206, "Your mother is", "unsuited", "Pronunciation: /\u0259n\u02c8sut\u026ad/", "Definition: not easy to combine harmoniously", "Synonyms: ill-sorted, incompatible, mismated"]}
+{"data": ["2022-10-21T03:01:15.531284+00:00", 6207, "Your mother is", "snorty", "Similar to: ill-natured", "Definition: (British informal) ill-tempered or annoyed", "Synonyms: shirty"]}
