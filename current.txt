@@ -1,1 +1,1 @@
-{"data": ["2022-10-21T00:02:38.930922+00:00", 6204, "Your mother is", "unworkable", "Pronunciation: /\u0259n\u02c8w\u025crk\u0259b\u0259l/", "Definition: not capable of being carried out or put into practice", "Synonyms: impracticable, infeasible, unfeasible"]}
+{"data": ["2022-10-21T01:01:24.624750+00:00", 6205, "Your mother is", "telescoped", "Similar to: short", "Definition: shortened by or as if by means of parts that slide one within another or are crushed one into another", "Synonyms: shortened"]}
