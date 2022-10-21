@@ -1,1 +1,1 @@
-{"data": ["2022-10-21T12:01:52.031509+00:00", 6216, "Your mother is", "clandestine", "Pronunciation: /kl\u00e6n\u02c8d\u025bst\u026an/", "Definition: conducted with or marked by hidden aims or methods", "Synonyms: cloak-and-dagger, hole-and-corner, hugger-mugger, hush-hush, secret, surreptitious, undercover, underground"]}
+{"data": ["2022-10-21T13:00:47.482828+00:00", 6217, "Your mother is", "interlinear", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8l\u026ani\u0259r/", "Definition: written between lines of text", "Synonyms: interlineal"]}
