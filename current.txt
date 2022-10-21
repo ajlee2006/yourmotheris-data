@@ -1,1 +1,1 @@
-{"data": ["2022-10-21T05:00:48.886624+00:00", 6209, "Your mother is", "grape-sized", "Pronunciation: /gre\u026ap-sa\u026azd/", "Definition: having the approximate size of a grape", ""]}
+{"data": ["2022-10-21T06:00:44.766029+00:00", 6210, "Your mother is", "clayey", "Pronunciation: /\u02c8kle\u026ai/", "Definition: resembling or containing clay", "Synonyms: argillaceous"]}
