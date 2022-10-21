@@ -1,1 +1,1 @@
-{"data": ["2022-10-21T07:00:55.126053+00:00", 6211, "Your mother is", "brisk", "Pronunciation: /br\u026ask/", "Definition: quick and energetic", "Synonyms: alert, lively, merry, rattling, snappy, spanking, zippy"]}
+{"data": ["2022-10-21T08:01:45.049826+00:00", 6212, "Your mother is", "ill-treated", "Similar to: battered", "Definition: subjected to cruel treatment", "Synonyms: abused, maltreated, mistreated"]}
