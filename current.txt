@@ -1,1 +1,1 @@
-{"data": ["2022-10-22T09:00:57.491759+00:00", 6237, "Your mother is", "snarky", "Similar to: sarcastic", "Definition: disdainfully or ironically humorous; scornful and mocking", "Synonyms: sardonic"]}
+{"data": ["2022-10-22T10:01:21.548133+00:00", 6238, "Your mother is", "sourish", "Similar to: sour", "Definition: tasting sour like a lemon", "Synonyms: lemonlike, lemony, tangy, tart"]}
