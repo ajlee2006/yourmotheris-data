@@ -1,1 +1,1 @@
-{"data": ["2022-10-22T04:01:55.978937+00:00", 6232, "Your mother is", "one hundred fifteen", "Similar to: cardinal", "Definition: being five more than one hundred ten", "Synonyms: 115, cxv"]}
+{"data": ["2022-10-22T05:01:35.577097+00:00", 6233, "Your mother is", "twoscore", "Similar to: cardinal", "Definition: being ten more than thirty", "Synonyms: 40, forty, xl"]}
