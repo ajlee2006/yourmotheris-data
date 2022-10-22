@@ -1,1 +1,1 @@
-{"data": ["2022-10-22T05:01:35.577097+00:00", 6233, "Your mother is", "twoscore", "Similar to: cardinal", "Definition: being ten more than thirty", "Synonyms: 40, forty, xl"]}
+{"data": ["2022-10-22T06:01:33.987486+00:00", 6234, "Your mother is", "terminable", "Pronunciation: /\u02c8t\u025crm\u0259n\u0259b\u0259l/", "Definition: capable of being terminated after a designated time", ""]}
