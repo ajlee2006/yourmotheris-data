@@ -1,1 +1,1 @@
-{"data": ["2022-10-22T22:00:44.460730+00:00", 6250, "Your mother is", "61", "Similar to: cardinal", "Definition: being one more than sixty", "Synonyms: lxi, sixty-one"]}
+{"data": ["2022-10-22T23:00:43.352226+00:00", 6251, "Your mother is", "fussy", "Pronunciation: /\u02c8f\u0259si/", "Definition: exacting especially about details", "Synonyms: finical, finicky, particular, picky"]}
