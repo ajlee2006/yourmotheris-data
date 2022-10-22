@@ -1,1 +1,1 @@
-{"data": ["2022-10-22T02:01:26.633504+00:00", 6230, "Your mother is", "evenhanded", "Pronunciation: /\u02c8iv\u028cn\u02c8h\u00e6nd\u026ad/", "Definition: without partiality", ""]}
+{"data": ["2022-10-22T03:01:15.329562+00:00", 6231, "Your mother is", "caesarian", "", "Definition: of or relating to or in the manner of Julius Caesar", "Synonyms: caesarean"]}
