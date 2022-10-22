@@ -1,1 +1,1 @@
-{"data": ["2022-10-22T14:01:18.535171+00:00", 6242, "Your mother is", "supposititious", "Pronunciation: /s\u0259\u02ccp\u0251z\u026a\u02c8t\u026a\u0283\u0259s/", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetic, hypothetical, supposed, suppositional, suppositious"]}
+{"data": ["2022-10-22T15:00:48.335149+00:00", 6243, "Your mother is", "good for you", "Similar to: wholesome", "Definition: promoting health; healthful", "Synonyms: healthy, salubrious"]}
