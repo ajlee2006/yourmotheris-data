@@ -1,1 +1,1 @@
-{"data": ["2022-10-22T18:01:16.471795+00:00", 6246, "Your mother is", "unrested", "Pronunciation: /\u0259n\u02c8r\u025bst\u026ad/", "Definition: not rested or refreshed", "Synonyms: unrefreshed"]}
+{"data": ["2022-10-22T19:01:33.473365+00:00", 6247, "Your mother is", "blinding", "Pronunciation: /\u02c8bla\u026and\u026a\u014b/", "Definition: shining intensely", "Synonyms: blazing, dazzling, fulgent, glaring, glary"]}
