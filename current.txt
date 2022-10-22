@@ -1,1 +1,1 @@
-{"data": ["2022-10-21T23:01:37.364436+00:00", 6227, "Your mother is", "russet", "Pronunciation: /\u02c8r\u0259s\u026at/", "Definition: of brown with a reddish tinge", ""]}
+{"data": ["2022-10-22T00:01:51.972193+00:00", 6228, "Your mother is", "knock-down", "Pronunciation: /n\u0251k-da\u028an/", "Definition: strong enough to knock down or overwhelm", "Synonyms: powerful"]}
