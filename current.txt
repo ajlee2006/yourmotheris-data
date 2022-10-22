@@ -1,1 +1,1 @@
-{"data": ["2022-10-22T17:01:22.399307+00:00", 6245, "Your mother is", "snide", "Pronunciation: /sna\u026ad/", "Definition: expressive of contempt", "Synonyms: sneering, supercilious"]}
+{"data": ["2022-10-22T18:01:16.471795+00:00", 6246, "Your mother is", "unrested", "Pronunciation: /\u0259n\u02c8r\u025bst\u026ad/", "Definition: not rested or refreshed", "Synonyms: unrefreshed"]}
