@@ -1,1 +1,1 @@
-{"data": ["2022-10-22T16:00:54.918831+00:00", 6244, "Your mother is", "light-blue", "Pronunciation: /la\u026at-blu/", "Definition: of a light shade of blue", "Synonyms: pale blue"]}
+{"data": ["2022-10-22T17:01:22.399307+00:00", 6245, "Your mother is", "snide", "Pronunciation: /sna\u026ad/", "Definition: expressive of contempt", "Synonyms: sneering, supercilious"]}
