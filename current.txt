@@ -1,1 +1,1 @@
-{"data": ["2022-10-22T06:01:33.987486+00:00", 6234, "Your mother is", "terminable", "Pronunciation: /\u02c8t\u025crm\u0259n\u0259b\u0259l/", "Definition: capable of being terminated after a designated time", ""]}
+{"data": ["2022-10-22T07:01:20.167791+00:00", 6235, "Your mother is", "cogitable", "Pronunciation: /\u02c8k\u0251d\u0292\u026at\u0259b\u0259l/", "Definition: capable of being thought about", "Synonyms: ponderable"]}
