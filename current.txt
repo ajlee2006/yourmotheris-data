@@ -1,1 +1,1 @@
-{"data": ["2022-10-22T00:01:51.972193+00:00", 6228, "Your mother is", "knock-down", "Pronunciation: /n\u0251k-da\u028an/", "Definition: strong enough to knock down or overwhelm", "Synonyms: powerful"]}
+{"data": ["2022-10-22T01:01:56.483576+00:00", 6229, "Your mother is", "supernaturalist", "", "Definition: of or relating to supernaturalism", "Synonyms: supernaturalistic"]}
