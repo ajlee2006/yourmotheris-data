@@ -1,1 +1,1 @@
-{"data": ["2022-10-22T07:01:20.167791+00:00", 6235, "Your mother is", "cogitable", "Pronunciation: /\u02c8k\u0251d\u0292\u026at\u0259b\u0259l/", "Definition: capable of being thought about", "Synonyms: ponderable"]}
+{"data": ["2022-10-22T08:01:29.155078+00:00", 6236, "Your mother is", "maledict", "Pronunciation: /\u02c8m\u00e6l\u026ad\u026akt/", "Definition: under a curse", "Synonyms: accursed, accurst"]}
