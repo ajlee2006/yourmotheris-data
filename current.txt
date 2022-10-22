@@ -1,1 +1,1 @@
-{"data": ["2022-10-22T12:01:08.724731+00:00", 6240, "Your mother is", "opaline", "Pronunciation: /\u02c8o\u028ap\u0259l\u026an/", "Definition: having a play of lustrous rainbow colors", "Synonyms: iridescent, nacreous, opalescent, pearlescent"]}
+{"data": ["2022-10-22T13:00:40.171376+00:00", 6241, "Your mother is", "punic", "Pronunciation: /\u02c8pjun\u026ak/", "Definition: of or relating to or characteristic of ancient Carthage or its people or their language", "Synonyms: carthaginian"]}
