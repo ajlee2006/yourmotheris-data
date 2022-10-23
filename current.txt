@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T00:01:32.206920+00:00", 6252, "Your mother is", "xviii", "Similar to: cardinal", "Definition: being one more than seventeen", "Synonyms: 18, eighteen"]}
+{"data": ["2022-10-23T01:01:13.332037+00:00", 6253, "Your mother is", "square-shouldered", "Pronunciation: /\u02c8skw\u025cr\u02c8\u0283o\u028ald\u0259rd/", "Definition: having broad shoulders", "Synonyms: big-shouldered, broad-shouldered"]}
