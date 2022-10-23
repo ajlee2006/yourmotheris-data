@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T12:01:41.177311+00:00", 6264, "Your mother is", "acrogenous", "Pronunciation: /\u0259\u02c8kr\u0251d\u0292\u0259n\u0259s/", "Definition: pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem", "Synonyms: acrogenic"]}
+{"data": ["2022-10-23T13:01:23.808905+00:00", 6265, "Your mother is", "unchallengeable", "Pronunciation: /\u0259n\u02c8t\u0283\u00e6l\u026and\u0292\u0259b\u0259l/", "Definition: not open to challenge", ""]}
