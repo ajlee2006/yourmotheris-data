@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T21:00:25.403487+00:00", 6273, "Your mother is", "fulgent", "Pronunciation: /\u02c8f\u0259ld\u0292\u0259nt/", "Definition: shining intensely", "Synonyms: blazing, blinding, dazzling, glaring, glary"]}
+{"data": ["2022-10-23T22:01:29.904149+00:00", 6274, "Your mother is", "hydrophobic", "Pronunciation: /\u02ccha\u026adr\u0259\u02c8fo\u028ab\u026ak/", "Definition: abnormally afraid of water", "Synonyms: aquaphobic"]}
