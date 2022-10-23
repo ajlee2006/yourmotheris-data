@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T19:00:49.717450+00:00", 6271, "Your mother is", "inanimate", "Pronunciation: /\u026an\u02c8\u00e6n\u0259m\u026at/", "Definition: appearing dead; not breathing or having no perceptible pulse", "Synonyms: breathless, pulseless"]}
+{"data": ["2022-10-23T20:01:39.618040+00:00", 6272, "Your mother is", "five-hundredth", "Similar to: ordinal", "Definition: the ordinal number of five hundred in counting order", "Synonyms: 500th"]}
