@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T05:01:15.296046+00:00", 6257, "Your mother is", "skeptical", "Pronunciation: /\u02c8sk\u025bpt\u026ak\u0259l/", "Definition: marked by or given to doubt", "Synonyms: doubting, questioning, sceptical"]}
+{"data": ["2022-10-23T06:01:13.352305+00:00", 6258, "Your mother is", "home", "Pronunciation: /ho\u028am/", "Definition: inside the country", "Synonyms: interior, internal, national"]}
