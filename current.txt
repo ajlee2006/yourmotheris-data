@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T18:01:21.675949+00:00", 6270, "Your mother is", "snow-blind", "Pronunciation: /\u02c8sno\u028a\u02ccbla\u026and/", "Definition: temporarily blinded by exposure to light reflected from snow or ice", "Synonyms: snow-blinded"]}
+{"data": ["2022-10-23T19:00:49.717450+00:00", 6271, "Your mother is", "inanimate", "Pronunciation: /\u026an\u02c8\u00e6n\u0259m\u026at/", "Definition: appearing dead; not breathing or having no perceptible pulse", "Synonyms: breathless, pulseless"]}
