@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T01:01:13.332037+00:00", 6253, "Your mother is", "square-shouldered", "Pronunciation: /\u02c8skw\u025cr\u02c8\u0283o\u028ald\u0259rd/", "Definition: having broad shoulders", "Synonyms: big-shouldered, broad-shouldered"]}
+{"data": ["2022-10-23T02:00:43.831865+00:00", 6254, "Your mother is", "summary", "Pronunciation: /\u02c8s\u0259m\u0259ri/", "Definition: briefly giving the gist of something", "Synonyms: compact, compendious, succinct"]}
