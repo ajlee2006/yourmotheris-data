@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T13:01:23.808905+00:00", 6265, "Your mother is", "unchallengeable", "Pronunciation: /\u0259n\u02c8t\u0283\u00e6l\u026and\u0292\u0259b\u0259l/", "Definition: not open to challenge", ""]}
+{"data": ["2022-10-23T14:00:42.155995+00:00", 6266, "Your mother is", "paired", "Pronunciation: /p\u025brd/", "Definition: occurring in pairs or as a pair", "Synonyms: mated"]}
