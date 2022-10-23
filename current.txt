@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T03:01:08.777087+00:00", 6255, "Your mother is", "dull-purple", "Similar to: chromatic", "Definition: of a dull shade of purple", ""]}
+{"data": ["2022-10-23T04:01:48.084431+00:00", 6256, "Your mother is", "flushed", "Pronunciation: /fl\u028c\u0283t/", "Definition: having the pinkish flush of health", "Synonyms: rose-cheeked, rosy, rosy-cheeked"]}
