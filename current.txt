@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T22:01:29.904149+00:00", 6274, "Your mother is", "hydrophobic", "Pronunciation: /\u02ccha\u026adr\u0259\u02c8fo\u028ab\u026ak/", "Definition: abnormally afraid of water", "Synonyms: aquaphobic"]}
+{"data": ["2022-10-23T23:00:51.225134+00:00", 6275, "Your mother is", "cool", "Pronunciation: /kul/", "Definition: marked by calm self-control (especially in trying circumstances); unemotional", "Synonyms: coolheaded, nerveless"]}
