@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T14:00:42.155995+00:00", 6266, "Your mother is", "paired", "Pronunciation: /p\u025brd/", "Definition: occurring in pairs or as a pair", "Synonyms: mated"]}
+{"data": ["2022-10-23T15:01:34.104326+00:00", 6267, "Your mother is", "free-soil", "Pronunciation: /fri-s\u0254\u026al/", "Definition: where slavery was prohibited", "Synonyms: non-slave, slaveless"]}
