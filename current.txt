@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T20:01:39.618040+00:00", 6272, "Your mother is", "five-hundredth", "Similar to: ordinal", "Definition: the ordinal number of five hundred in counting order", "Synonyms: 500th"]}
+{"data": ["2022-10-23T21:00:25.403487+00:00", 6273, "Your mother is", "fulgent", "Pronunciation: /\u02c8f\u0259ld\u0292\u0259nt/", "Definition: shining intensely", "Synonyms: blazing, blinding, dazzling, glaring, glary"]}
