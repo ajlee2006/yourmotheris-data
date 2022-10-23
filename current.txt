@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T17:01:02.494708+00:00", 6269, "Your mother is", "hot and bothered", "Similar to: discomposed", "Definition: thrown into a state of agitated confusion; (`rattled' is an informal term)", "Synonyms: flustered, perturbed, rattled"]}
+{"data": ["2022-10-23T18:01:21.675949+00:00", 6270, "Your mother is", "snow-blind", "Pronunciation: /\u02c8sno\u028a\u02ccbla\u026and/", "Definition: temporarily blinded by exposure to light reflected from snow or ice", "Synonyms: snow-blinded"]}
