@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T11:01:26.075534+00:00", 6263, "Your mother is", "lxxxii", "Similar to: cardinal", "Definition: being two more than eighty", "Synonyms: 82, eighty-two"]}
+{"data": ["2022-10-23T12:01:41.177311+00:00", 6264, "Your mother is", "acrogenous", "Pronunciation: /\u0259\u02c8kr\u0251d\u0292\u0259n\u0259s/", "Definition: pertaining to flowerless plants (ferns or mosses) in which growth occurs only at the tip of the main stem", "Synonyms: acrogenic"]}
