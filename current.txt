@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T09:00:59.286439+00:00", 6261, "Your mother is", "listless", "Pronunciation: /\u02c8l\u026astl\u026as/", "Definition: marked by low spirits; showing no enthusiasm", "Synonyms: dispirited"]}
+{"data": ["2022-10-23T10:00:52.171644+00:00", 6262, "Your mother is", "wizen", "Pronunciation: /\u02c8w\u026az\u0259n/", "Definition: lean and wrinkled by shrinkage as from age or illness", "Synonyms: shriveled, shrivelled, shrunken, withered, wizened"]}
