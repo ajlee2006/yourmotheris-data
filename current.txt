@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T08:00:53.220927+00:00", 6260, "Your mother is", "pseudonymous", "Pronunciation: /su\u02c8d\u0251n\u0259m\u0259s/", "Definition: bearing or identified by an assumed (often pen) name", ""]}
+{"data": ["2022-10-23T09:00:59.286439+00:00", 6261, "Your mother is", "listless", "Pronunciation: /\u02c8l\u026astl\u026as/", "Definition: marked by low spirits; showing no enthusiasm", "Synonyms: dispirited"]}
