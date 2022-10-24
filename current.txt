@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T06:00:56.169846+00:00", 6282, "Your mother is", "ungracious", "Pronunciation: /\u0259n\u02c8gre\u026a\u0283\u0259s/", "Definition: lacking social graces", "Synonyms: discourteous"]}
+{"data": ["2022-10-24T07:01:45.796989+00:00", 6283, "Your mother is", "offending", "Pronunciation: /\u028c\u02c8f\u025bnd\u026a\u014b/", "Definition: offending against or breaking a law or rule", ""]}
