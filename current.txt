@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T21:01:30.645457+00:00", 6297, "Your mother is", "terrified", "Pronunciation: /\u02c8t\u025br\u028c\u02ccfa\u026ad/", "Definition: thrown into a state of intense fear or desperation", "Synonyms: frightened, panic-stricken, panic-struck, panicked, panicky"]}
+{"data": ["2022-10-24T22:01:12.998160+00:00", 6298, "Your mother is", "permanent", "Pronunciation: /\u02c8p\u025crm\u0259n\u0259nt/", "Definition: continuing or enduring without marked change in status or condition or place", "Synonyms: lasting"]}
