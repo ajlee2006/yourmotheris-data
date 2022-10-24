@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T18:01:18.352573+00:00", 6294, "Your mother is", "uppish", "Pronunciation: /\u02c8\u0259p\u026a\u0283/", "Definition: (used colloquially) overly conceited or arrogant", "Synonyms: bigheaded, persnickety, snooty, snot-nosed, snotty, stuck-up, too big for one's breeches"]}
+{"data": ["2022-10-24T19:01:05.597675+00:00", 6295, "Your mother is", "stabilised", "Similar to: stable", "Definition: made stable or firm", "Synonyms: stabilized"]}
