@@ -1,1 +1,1 @@
-{"data": ["2022-10-23T23:00:51.225134+00:00", 6275, "Your mother is", "cool", "Pronunciation: /kul/", "Definition: marked by calm self-control (especially in trying circumstances); unemotional", "Synonyms: coolheaded, nerveless"]}
+{"data": ["2022-10-24T00:02:26.728474+00:00", 6276, "Your mother is", "effaceable", "Similar to: eradicable", "Definition: capable of being effaced", "Synonyms: erasable"]}
