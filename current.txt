@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T11:00:16.141262+00:00", 6287, "Your mother is", "stormbound", "Pronunciation: /\u02c8sto\u028armb\u00e6\u028and/", "Definition: delayed or confined or cut off by a storm", ""]}
+{"data": ["2022-10-24T12:01:11.284952+00:00", 6288, "Your mother is", "farsighted", "Pronunciation: /\u02c8f\u0251r\u02c8sa\u026at\u026ad/", "Definition: able to see distant objects clearly", "Synonyms: presbyopic"]}
