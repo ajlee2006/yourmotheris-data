@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T13:00:50.126800+00:00", 6289, "Your mother is", "stomatous", "Pronunciation: /\u02c8st\u0251m\u0259t\u0259s/", "Definition: relating to or constituting plant stomata", "Synonyms: stomatal"]}
+{"data": ["2022-10-24T14:01:04.309986+00:00", 6290, "Your mother is", "unexplored", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8splo\u028ard/", "Definition: not yet discovered", "Synonyms: undiscovered"]}
