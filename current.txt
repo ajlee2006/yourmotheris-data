@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T04:01:33.552324+00:00", 6280, "Your mother is", "heterocercal", "Pronunciation: /\u02cch\u025bt\u0259r\u0259\u02c8s\u025crk\u0259l/", "Definition: possessing a tail with the upper lobe larger than the lower and with the vertebral column prolonged into the upper lobe", ""]}
+{"data": ["2022-10-24T05:01:37.000289+00:00", 6281, "Your mother is", "gimpy", "Pronunciation: /\u02c8\u0261\u026ampi/", "Definition: disabled in the feet or legs", "Synonyms: crippled, game, halt, halting, lame"]}
