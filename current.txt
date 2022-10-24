@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T05:01:37.000289+00:00", 6281, "Your mother is", "gimpy", "Pronunciation: /\u02c8\u0261\u026ampi/", "Definition: disabled in the feet or legs", "Synonyms: crippled, game, halt, halting, lame"]}
+{"data": ["2022-10-24T06:00:56.169846+00:00", 6282, "Your mother is", "ungracious", "Pronunciation: /\u0259n\u02c8gre\u026a\u0283\u0259s/", "Definition: lacking social graces", "Synonyms: discourteous"]}
