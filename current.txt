@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T03:00:58.160013+00:00", 6279, "Your mother is", "unrighteous", "Pronunciation: /\u0259n\u02c8ra\u026a\u02a7\u0259s/", "Definition: not righteous", ""]}
+{"data": ["2022-10-24T04:01:33.552324+00:00", 6280, "Your mother is", "heterocercal", "Pronunciation: /\u02cch\u025bt\u0259r\u0259\u02c8s\u025crk\u0259l/", "Definition: possessing a tail with the upper lobe larger than the lower and with the vertebral column prolonged into the upper lobe", ""]}
