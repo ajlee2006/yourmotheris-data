@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T14:01:04.309986+00:00", 6290, "Your mother is", "unexplored", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8splo\u028ard/", "Definition: not yet discovered", "Synonyms: undiscovered"]}
+{"data": ["2022-10-24T15:00:38.455566+00:00", 6291, "Your mother is", "xvii", "Similar to: cardinal", "Definition: being one more than sixteen", "Synonyms: 17, seventeen"]}
