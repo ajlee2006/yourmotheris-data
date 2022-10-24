@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T02:01:19.940519+00:00", 6278, "Your mother is", "prototypic", "Similar to: first", "Definition: representing or constituting an original type after which other similar things are patterned", "Synonyms: archetypal, archetypical, prototypal, prototypical"]}
+{"data": ["2022-10-24T03:00:58.160013+00:00", 6279, "Your mother is", "unrighteous", "Pronunciation: /\u0259n\u02c8ra\u026a\u02a7\u0259s/", "Definition: not righteous", ""]}
