@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T10:01:31.146614+00:00", 6286, "Your mother is", "treacherous", "Pronunciation: /\u02c8tr\u025b\u02a7\u0259r\u0259s/", "Definition: tending to betray; especially having a treacherous character as attributed to the Carthaginians by the Romans", "Synonyms: perfidious, punic"]}
+{"data": ["2022-10-24T11:00:16.141262+00:00", 6287, "Your mother is", "stormbound", "Pronunciation: /\u02c8sto\u028armb\u00e6\u028and/", "Definition: delayed or confined or cut off by a storm", ""]}
