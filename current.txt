@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T22:01:12.998160+00:00", 6298, "Your mother is", "permanent", "Pronunciation: /\u02c8p\u025crm\u0259n\u0259nt/", "Definition: continuing or enduring without marked change in status or condition or place", "Synonyms: lasting"]}
+{"data": ["2022-10-24T23:00:51.244059+00:00", 6299, "Your mother is", "spirituous", "Pronunciation: /\u02c8sp\u026ar\u026a\u02a7u\u0259s/", "Definition: containing or of the nature of alcohol", "Synonyms: spiritous"]}
