@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T08:01:50.095989+00:00", 6284, "Your mother is", "littler", "Pronunciation: /\u02c8l\u026at\u028cl\u025dr/", "Definition: small or little relative to something else", "Synonyms: smaller"]}
+{"data": ["2022-10-24T09:01:33.131208+00:00", 6285, "Your mother is", "hydrated", "Pronunciation: /\u02c8ha\u026adre\u026at\u026ad/", "Definition: containing combined water (especially water of crystallization as in a hydrate)", "Synonyms: hydrous"]}
