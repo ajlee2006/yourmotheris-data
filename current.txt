@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T07:01:45.796989+00:00", 6283, "Your mother is", "offending", "Pronunciation: /\u028c\u02c8f\u025bnd\u026a\u014b/", "Definition: offending against or breaking a law or rule", ""]}
+{"data": ["2022-10-24T08:01:50.095989+00:00", 6284, "Your mother is", "littler", "Pronunciation: /\u02c8l\u026at\u028cl\u025dr/", "Definition: small or little relative to something else", "Synonyms: smaller"]}
