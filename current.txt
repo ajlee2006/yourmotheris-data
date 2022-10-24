@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T01:01:25.972863+00:00", 6277, "Your mother is", "light-green", "Pronunciation: /la\u026at-grin/", "Definition: of the color between blue and yellow in the color spectrum; similar to the color of fresh grass", "Synonyms: dark-green, green, greenish"]}
+{"data": ["2022-10-24T02:01:19.940519+00:00", 6278, "Your mother is", "prototypic", "Similar to: first", "Definition: representing or constituting an original type after which other similar things are patterned", "Synonyms: archetypal, archetypical, prototypal, prototypical"]}
