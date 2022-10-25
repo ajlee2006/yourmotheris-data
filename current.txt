@@ -1,1 +1,1 @@
-{"data": ["2022-10-24T23:00:51.244059+00:00", 6299, "Your mother is", "spirituous", "Pronunciation: /\u02c8sp\u026ar\u026a\u02a7u\u0259s/", "Definition: containing or of the nature of alcohol", "Synonyms: spiritous"]}
+{"data": ["2022-10-25T00:01:53.558952+00:00", 6300, "Your mother is", "long-suffering", "Pronunciation: /\u02c8l\u0254\u014b\u02c8s\u0259f\u0259r\u026a\u014b/", "Definition: patiently bearing continual wrongs or trouble", "Synonyms: enduring"]}
