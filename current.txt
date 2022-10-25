@@ -1,1 +1,1 @@
-{"data": ["2022-10-25T08:01:11.390980+00:00", 6308, "Your mother is", "adrift", "Pronunciation: /\u0259\u02c8dr\u026aft/", "Definition: aimlessly drifting", "Synonyms: afloat, aimless, directionless, planless, rudderless, undirected"]}
+{"data": ["2022-10-25T09:01:49.302170+00:00", 6309, "Your mother is", "homely", "Pronunciation: /ho\u028amli/", "Definition: having a feeling of home; cozy and comfortable", "Synonyms: homelike, homey, homy"]}
