@@ -1,1 +1,1 @@
-{"data": ["2022-10-25T09:01:49.302170+00:00", 6309, "Your mother is", "homely", "Pronunciation: /ho\u028amli/", "Definition: having a feeling of home; cozy and comfortable", "Synonyms: homelike, homey, homy"]}
+{"data": ["2022-10-25T10:01:18.354399+00:00", 6310, "Your mother is", "reechoing", "Similar to: reverberant", "Definition: (of sounds) repeating by reflection", "Synonyms: echoing"]}
