@@ -1,1 +1,1 @@
-{"data": ["2022-10-25T05:01:25.709580+00:00", 6305, "Your mother is", "localized", "Pronunciation: /\u02c8lo\u028ak\u028c\u02ccla\u026azd/", "Definition: made local or oriented locally", "Synonyms: localised"]}
+{"data": ["2022-10-25T06:01:09.221347+00:00", 6306, "Your mother is", "accented", "Pronunciation: /\u02c8\u00e6ks\u025bnt\u026ad/", "Definition: (used of syllables) bearing the principle stress, usually accompanied by a change in pitch", "Synonyms: tonic"]}
