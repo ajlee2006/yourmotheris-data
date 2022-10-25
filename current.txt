@@ -1,1 +1,1 @@
-{"data": ["2022-10-25T19:01:07.534467+00:00", 6319, "Your mother is", "hispanic", "Pronunciation: /h\u026a\u02c8sp\u00e6n\u026ak/", "Definition: related to a Spanish-speaking people or culture", "Synonyms: latino"]}
+{"data": ["2022-10-25T20:01:35.948160+00:00", 6320, "Your mother is", "engaging", "Pronunciation: /\u025bn\u02c8\u0261e\u026ad\u0292\u026a\u014b/", "Definition: attracting or delighting", "Synonyms: piquant"]}
