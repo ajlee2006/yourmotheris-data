@@ -1,1 +1,1 @@
-{"data": ["2022-10-25T07:00:44.330746+00:00", 6307, "Your mother is", "royal", "Pronunciation: /\u02c8r\u0254\u026a\u0259l/", "Definition: belonging to or befitting a supreme ruler", "Synonyms: imperial, majestic, purple, regal"]}
+{"data": ["2022-10-25T08:01:11.390980+00:00", 6308, "Your mother is", "adrift", "Pronunciation: /\u0259\u02c8dr\u026aft/", "Definition: aimlessly drifting", "Synonyms: afloat, aimless, directionless, planless, rudderless, undirected"]}
