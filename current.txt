@@ -1,1 +1,1 @@
-{"data": ["2022-10-25T02:01:19.743879+00:00", 6302, "Your mother is", "jellylike", "Similar to: thick", "Definition: thick like gelatin", "Synonyms: gelatinlike, gelatinous"]}
+{"data": ["2022-10-25T03:00:49.746467+00:00", 6303, "Your mother is", "arthrosporous", "", "Definition: of or relating to arthrospores", "Synonyms: arthrosporic"]}
