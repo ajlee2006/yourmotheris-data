@@ -1,1 +1,1 @@
-{"data": ["2022-10-25T21:00:23.826649+00:00", 6321, "Your mother is", "impaired", "Pronunciation: /\u026am\u02c8p\u025brd/", "Definition: mentally or physically unfit", "Synonyms: afflicted"]}
+{"data": ["2022-10-25T22:00:45.441159+00:00", 6322, "Your mother is", "dioestrous", "Similar to: anestrous", "Definition: (of animals that have several estrous cycles in one breeding season) in a period of sexual inactivity", "Synonyms: diestrous, diestrual, dioestrual"]}
