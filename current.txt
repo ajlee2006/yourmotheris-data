@@ -1,1 +1,1 @@
-{"data": ["2022-10-25T00:01:53.558952+00:00", 6300, "Your mother is", "long-suffering", "Pronunciation: /\u02c8l\u0254\u014b\u02c8s\u0259f\u0259r\u026a\u014b/", "Definition: patiently bearing continual wrongs or trouble", "Synonyms: enduring"]}
+{"data": ["2022-10-25T01:01:33.077032+00:00", 6301, "Your mother is", "shamanistic", "", "Definition: of or relating to shamanism", "Synonyms: shamanist"]}
