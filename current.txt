@@ -1,1 +1,1 @@
-{"data": ["2022-10-26T20:00:47.850287+00:00", 6344, "Your mother is", "mown", "Similar to: new-mown", "Definition: (used of grass or vegetation) cut down with a hand implement or machine", "Synonyms: cut"]}
+{"data": ["2022-10-26T21:01:44.005282+00:00", 6345, "Your mother is", "monandrous", "Similar to: monogamous", "Definition: having only one husband at a time", ""]}
