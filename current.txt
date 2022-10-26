@@ -1,1 +1,1 @@
-{"data": ["2022-10-26T17:01:38.493792+00:00", 6341, "Your mother is", "specular", "Pronunciation: /\u02c8sp\u025bkj\u0259l\u0259r/", "Definition: capable of reflecting light like a mirror", "Synonyms: mirrorlike"]}
+{"data": ["2022-10-26T18:01:26.287799+00:00", 6342, "Your mother is", "agrobiological", "", "Definition: of or pertaining to agrobiology", "Synonyms: agrobiologic"]}
