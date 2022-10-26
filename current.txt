@@ -1,1 +1,1 @@
-{"data": ["2022-10-26T10:01:26.150836+00:00", 6334, "Your mother is", "round-backed", "Pronunciation: /ra\u028and-b\u00e6kt/", "Definition: having the back and shoulders rounded; not erect", "Synonyms: crooked, hunched, round-shouldered, stooped, stooping"]}
+{"data": ["2022-10-26T11:00:36.734144+00:00", 6335, "Your mother is", "elaborated", "Pronunciation: /\u026a\u02c8l\u00e6b\u025dre\u026at\u028cd/", "Definition: developed or executed with care and in minute detail", "Synonyms: detailed, elaborate"]}
