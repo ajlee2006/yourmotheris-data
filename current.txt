@@ -1,1 +1,1 @@
-{"data": ["2022-10-26T16:00:49.056721+00:00", 6340, "Your mother is", "knocked-out", "Similar to: damaged", "Definition: damaged", ""]}
+{"data": ["2022-10-26T17:01:38.493792+00:00", 6341, "Your mother is", "specular", "Pronunciation: /\u02c8sp\u025bkj\u0259l\u0259r/", "Definition: capable of reflecting light like a mirror", "Synonyms: mirrorlike"]}
