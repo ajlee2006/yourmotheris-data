@@ -1,1 +1,1 @@
-{"data": ["2022-10-26T13:00:57.674687+00:00", 6337, "Your mother is", "blue-sky", "Pronunciation: /blu-ska\u026a/", "Definition: without immediate commercial value", ""]}
+{"data": ["2022-10-26T14:01:29.474263+00:00", 6338, "Your mother is", "patrilineal", "Pronunciation: /\u02ccp\u00e6tri\u02c8l\u026ani\u0259l/", "Definition: based on or tracing descent through the male line", "Synonyms: patrilinear"]}
