@@ -1,1 +1,1 @@
-{"data": ["2022-10-26T14:01:29.474263+00:00", 6338, "Your mother is", "patrilineal", "Pronunciation: /\u02ccp\u00e6tri\u02c8l\u026ani\u0259l/", "Definition: based on or tracing descent through the male line", "Synonyms: patrilinear"]}
+{"data": ["2022-10-26T15:01:23.355895+00:00", 6339, "Your mother is", "eightieth", "Pronunciation: /\u02c8e\u026ati\u026a\u03b8/", "Definition: the ordinal number of eighty in counting order", "Synonyms: 80th"]}
