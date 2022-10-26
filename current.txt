@@ -1,1 +1,1 @@
-{"data": ["2022-10-26T11:00:36.734144+00:00", 6335, "Your mother is", "elaborated", "Pronunciation: /\u026a\u02c8l\u00e6b\u025dre\u026at\u028cd/", "Definition: developed or executed with care and in minute detail", "Synonyms: detailed, elaborate"]}
+{"data": ["2022-10-26T12:01:28.196878+00:00", 6336, "Your mother is", "calorifacient", "Pronunciation: /k\u0259\u02ccl\u0254r\u0259\u02c8fe\u026a\u0283\u0259nt/", "Definition: producing heat; usually used of foods", ""]}
