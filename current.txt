@@ -1,1 +1,1 @@
-{"data": ["2022-10-25T23:01:30.365411+00:00", 6323, "Your mother is", "unrepresentative", "Pronunciation: /\u02cc\u0259nr\u025bpri\u02c8z\u025bnt\u0259t\u026av/", "Definition: not exemplifying a class", ""]}
+{"data": ["2022-10-26T00:02:08.970348+00:00", 6324, "Your mother is", "time-tested", "Similar to: dependable", "Definition: tested and proved to be reliable", "Synonyms: tested, tried, tried and true"]}
