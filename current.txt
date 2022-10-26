@@ -1,1 +1,1 @@
-{"data": ["2022-10-26T01:01:41.069891+00:00", 6325, "Your mother is", "ubiquitous", "Pronunciation: /ju\u02c8b\u026akw\u026at\u0259s/", "Definition: being present everywhere at once", "Synonyms: omnipresent"]}
+{"data": ["2022-10-26T02:01:24.308632+00:00", 6326, "Your mother is", "heterometabolic", "Similar to: metamorphic", "Definition: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage", "Synonyms: heterometabolous"]}
