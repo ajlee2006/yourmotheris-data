@@ -1,1 +1,1 @@
-{"data": ["2022-10-26T02:01:24.308632+00:00", 6326, "Your mother is", "heterometabolic", "Similar to: metamorphic", "Definition: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage", "Synonyms: heterometabolous"]}
+{"data": ["2022-10-26T03:01:41.861875+00:00", 6327, "Your mother is", "xvi", "Similar to: cardinal", "Definition: being one more than fifteen", "Synonyms: 16, sixteen"]}
