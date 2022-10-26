@@ -1,1 +1,1 @@
-{"data": ["2022-10-26T15:01:23.355895+00:00", 6339, "Your mother is", "eightieth", "Pronunciation: /\u02c8e\u026ati\u026a\u03b8/", "Definition: the ordinal number of eighty in counting order", "Synonyms: 80th"]}
+{"data": ["2022-10-26T16:00:49.056721+00:00", 6340, "Your mother is", "knocked-out", "Similar to: damaged", "Definition: damaged", ""]}
