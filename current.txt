@@ -1,1 +1,1 @@
-{"data": ["2022-10-27T04:00:27.384598+00:00", 6352, "Your mother is", "aureate", "Pronunciation: /\u02c8\u0254ri\u026at/", "Definition: elaborately or excessively ornamented", "Synonyms: flamboyant, florid"]}
+{"data": ["2022-10-27T05:01:03.418957+00:00", 6353, "Your mother is", "female", "Pronunciation: /\u02c8fime\u026al/", "Definition: characteristic of or peculiar to a woman", "Synonyms: distaff"]}
