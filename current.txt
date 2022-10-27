@@ -1,1 +1,1 @@
-{"data": ["2022-10-27T13:00:44.788530+00:00", 6361, "Your mother is", "sidesplitting", "Pronunciation: /\u02c8sa\u026ad\u02ccspl\u026at\u026a\u014b/", "Definition: very funny", "Synonyms: killing"]}
+{"data": ["2022-10-27T14:00:31.511192+00:00", 6362, "Your mother is", "undershot", "Pronunciation: /\u02c8\u0259nd\u0259r\u02cc\u0283\u0251t/", "Definition: having a lower part projecting beyond the upper", "Synonyms: underhung, underslung"]}
