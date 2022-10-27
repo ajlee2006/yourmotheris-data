@@ -1,1 +1,1 @@
-{"data": ["2022-10-27T06:02:14.488455+00:00", 6354, "Your mother is", "demented", "Pronunciation: /d\u026a\u02c8m\u025bnt\u026ad/", "Definition: affected with madness or insanity", "Synonyms: brainsick, crazy, disturbed, mad, sick, unbalanced, unhinged"]}
+{"data": ["2022-10-27T07:00:44.306893+00:00", 6355, "Your mother is", "pomaded", "Similar to: groomed", "Definition: (of hair) groomed with pomade", ""]}
