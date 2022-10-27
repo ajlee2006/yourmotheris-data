@@ -1,1 +1,1 @@
-{"data": ["2022-10-27T22:01:21.103885+00:00", 6370, "Your mother is", "sensed", "Pronunciation: /s\u025bnst/", "Definition: detected by instinct or inference rather than by recognized perceptual cues", "Synonyms: perceived"]}
+{"data": ["2022-10-27T23:00:54.253589+00:00", 6371, "Your mother is", "broadleaf", "Pronunciation: /\u02c8br\u0254d\u02cclif/", "Definition: having relatively broad rather than needlelike or scalelike leaves", "Synonyms: broad-leafed, broad-leaved"]}
