@@ -1,1 +1,1 @@
-{"data": ["2022-10-27T08:01:23.419607+00:00", 6356, "Your mother is", "chockablock", "Similar to: full", "Definition: packed full to capacity", "Synonyms: chock-full, chockful, choke-full, chuck-full, cram full"]}
+{"data": ["2022-10-27T09:01:38.566809+00:00", 6357, "Your mother is", "courteous", "Pronunciation: /\u02c8k\u025crti\u0259s/", "Definition: exhibiting courtesy and politeness", "Synonyms: gracious, nice"]}
