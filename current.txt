@@ -1,1 +1,1 @@
-{"data": ["2022-10-27T14:00:31.511192+00:00", 6362, "Your mother is", "undershot", "Pronunciation: /\u02c8\u0259nd\u0259r\u02cc\u0283\u0251t/", "Definition: having a lower part projecting beyond the upper", "Synonyms: underhung, underslung"]}
+{"data": ["2022-10-27T15:00:57.781010+00:00", 6363, "Your mother is", "wound", "Pronunciation: /wund/", "Definition: put in a coil", ""]}
