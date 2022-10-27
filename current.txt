@@ -1,1 +1,1 @@
-{"data": ["2022-10-27T11:01:46.634788+00:00", 6359, "Your mother is", "mystical", "Pronunciation: /\u02c8m\u026ast\u026ak\u0259l/", "Definition: relating to or characteristic of mysticism", "Synonyms: mystic"]}
+{"data": ["2022-10-27T12:00:47.459574+00:00", 6360, "Your mother is", "ago", "Pronunciation: /\u0259\u02c8\u0261o\u028a/", "Definition: gone by; or in the past", "Synonyms: agone"]}
