@@ -1,1 +1,1 @@
-{"data": ["2022-10-27T21:00:56.015909+00:00", 6369, "Your mother is", "endozoan", "", "Definition: of or relating to entozoa", "Synonyms: entozoan"]}
+{"data": ["2022-10-27T22:01:21.103885+00:00", 6370, "Your mother is", "sensed", "Pronunciation: /s\u025bnst/", "Definition: detected by instinct or inference rather than by recognized perceptual cues", "Synonyms: perceived"]}
