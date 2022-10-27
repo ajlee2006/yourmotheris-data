@@ -1,1 +1,1 @@
-{"data": ["2022-10-27T18:00:42.542021+00:00", 6366, "Your mother is", "silvery-gray", "Similar to: achromatic", "Definition: of grey resembling silver", "Synonyms: silver-gray, silver-grey, silvery-grey"]}
+{"data": ["2022-10-27T19:01:30.482066+00:00", 6367, "Your mother is", "angry", "Pronunciation: /\u02c8\u00e6\u014bgri/", "Definition: (of the elements) as if showing violent anger", "Synonyms: furious, raging, tempestuous, wild"]}
