@@ -1,1 +1,1 @@
-{"data": ["2022-10-27T19:01:30.482066+00:00", 6367, "Your mother is", "angry", "Pronunciation: /\u02c8\u00e6\u014bgri/", "Definition: (of the elements) as if showing violent anger", "Synonyms: furious, raging, tempestuous, wild"]}
+{"data": ["2022-10-27T20:01:06.858962+00:00", 6368, "Your mother is", "euphonious", "Pronunciation: /ju\u02c8fo\u028ani\u0259s/", "Definition: having a pleasant sound", "Synonyms: euphonous"]}
