@@ -1,1 +1,1 @@
-{"data": ["2022-10-27T20:01:06.858962+00:00", 6368, "Your mother is", "euphonious", "Pronunciation: /ju\u02c8fo\u028ani\u0259s/", "Definition: having a pleasant sound", "Synonyms: euphonous"]}
+{"data": ["2022-10-27T21:00:56.015909+00:00", 6369, "Your mother is", "endozoan", "", "Definition: of or relating to entozoa", "Synonyms: entozoan"]}
