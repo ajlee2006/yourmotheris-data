@@ -1,1 +1,1 @@
-{"data": ["2022-10-27T15:00:57.781010+00:00", 6363, "Your mother is", "wound", "Pronunciation: /wund/", "Definition: put in a coil", ""]}
+{"data": ["2022-10-27T16:00:37.841480+00:00", 6364, "Your mother is", "hemimetamorphic", "Similar to: metamorphic", "Definition: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult", "Synonyms: hemimetabolic, hemimetabolous, hemimetamorphous"]}
