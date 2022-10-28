@@ -1,1 +1,1 @@
-{"data": ["2022-10-28T14:01:30.495471+00:00", 6386, "Your mother is", "cushy", "Pronunciation: /\u02c8k\u028a\u0283i/", "Definition: not burdensome or demanding; borne or done easily and without hardship", "Synonyms: easygoing, soft"]}
+{"data": ["2022-10-28T15:01:06.912868+00:00", 6387, "Your mother is", "selfsame", "Pronunciation: /\u02c8s\u025blf\u02ccse\u026am/", "Definition: being the exact same one; not any other:", "Synonyms: identical, very"]}
