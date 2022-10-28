@@ -1,1 +1,1 @@
-{"data": ["2022-10-28T03:00:59.476744+00:00", 6375, "Your mother is", "hooked", "Pronunciation: /h\u028akt/", "Definition: curved down like an eagle's beak", "Synonyms: aquiline"]}
+{"data": ["2022-10-28T04:00:44.124141+00:00", 6376, "Your mother is", "corruptible", "Pronunciation: /k\u0259\u02c8r\u0259pt\u0259b\u0259l/", "Definition: capable of being corrupted", "Synonyms: bribable, dishonest, purchasable, venal"]}
