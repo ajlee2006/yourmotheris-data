@@ -1,1 +1,1 @@
-{"data": ["2022-10-28T12:00:45.205818+00:00", 6384, "Your mother is", "potty", "Pronunciation: /\u02c8p\u0251ti/", "Definition: slightly intoxicated", "Synonyms: tiddly, tipsy"]}
+{"data": ["2022-10-28T13:01:21.863436+00:00", 6385, "Your mother is", "trumpet-like", "Similar to: loud", "Definition: resembling the sound of a trumpet", ""]}
