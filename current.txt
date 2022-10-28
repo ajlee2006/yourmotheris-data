@@ -1,1 +1,1 @@
-{"data": ["2022-10-28T22:00:39.909874+00:00", 6394, "Your mother is", "rowdy", "Pronunciation: /\u02c8ra\u028adi/", "Definition: disturbing the public peace; loud and rough", "Synonyms: raucous"]}
+{"data": ["2022-10-28T23:00:35.712594+00:00", 6395, "Your mother is", "asteroid", "Pronunciation: /\u02c8\u00e6st\u0259\u02ccr\u0254\u026ad/", "Definition: shaped like a star", "Synonyms: star-shaped"]}
