@@ -1,1 +1,1 @@
-{"data": ["2022-10-28T02:01:23.497525+00:00", 6374, "Your mother is", "agamous", "Pronunciation: /\u02c8\u00e6\u0261\u0259m\u0259s/", "Definition: (of reproduction) not involving the fusion of male and female gametes in reproduction", "Synonyms: agamic, agamogenetic, apomictic, parthenogenetic"]}
+{"data": ["2022-10-28T03:00:59.476744+00:00", 6375, "Your mother is", "hooked", "Pronunciation: /h\u028akt/", "Definition: curved down like an eagle's beak", "Synonyms: aquiline"]}
