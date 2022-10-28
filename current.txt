@@ -1,1 +1,1 @@
-{"data": ["2022-10-28T17:01:10.918041+00:00", 6389, "Your mother is", "parturient", "Pronunciation: /p\u0251r\u02c8t\u028ari\u0259nt/", "Definition: giving birth", ""]}
+{"data": ["2022-10-28T18:00:55.475842+00:00", 6390, "Your mother is", "alright", "Pronunciation: /\u0254l\u02c8ra\u026at/", "Definition: nonstandard usage", ""]}
