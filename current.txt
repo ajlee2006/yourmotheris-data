@@ -1,1 +1,1 @@
-{"data": ["2022-10-28T10:00:45.327000+00:00", 6382, "Your mother is", "brachiopod", "Pronunciation: /\u02c8bre\u026aki\u0259\u02ccp\u0251d/", "Definition: of or belonging to the phylum Brachiopoda", "Synonyms: brachiopodous"]}
+{"data": ["2022-10-28T11:01:24.787083+00:00", 6383, "Your mother is", "sanguine", "Pronunciation: /\u02c8s\u00e6\u014bw\u026an/", "Definition: confidently optimistic and cheerful", "Synonyms: sanguineous"]}
