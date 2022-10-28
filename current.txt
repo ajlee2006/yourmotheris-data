@@ -1,1 +1,1 @@
-{"data": ["2022-10-28T20:01:24.915277+00:00", 6392, "Your mother is", "heart-shaped", "Pronunciation: /h\u0251rt-\u0283e\u026apt/", "Definition: (of a leaf) shaped like a heart", "Synonyms: cordate, cordiform"]}
+{"data": ["2022-10-28T21:00:53.619276+00:00", 6393, "Your mother is", "washed", "Pronunciation: /w\u0251\u0283t/", "Definition: clean by virtue of having been washed in water", "Synonyms: water-washed"]}
