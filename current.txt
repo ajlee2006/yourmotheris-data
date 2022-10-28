@@ -1,1 +1,1 @@
-{"data": ["2022-10-28T09:01:18.446136+00:00", 6381, "Your mother is", "crookback", "Pronunciation: /\u02c8kr\u028ak\u02ccb\u00e6k/", "Definition: characteristic of or suffering from kyphosis, an abnormality of the vertebral column", "Synonyms: crookbacked, gibbous, humpbacked, humped, hunchbacked, kyphotic"]}
+{"data": ["2022-10-28T10:00:45.327000+00:00", 6382, "Your mother is", "brachiopod", "Pronunciation: /\u02c8bre\u026aki\u0259\u02ccp\u0251d/", "Definition: of or belonging to the phylum Brachiopoda", "Synonyms: brachiopodous"]}
