@@ -1,1 +1,1 @@
-{"data": ["2022-10-28T06:00:13.013324+00:00", 6378, "Your mother is", "sure as shooting", "Similar to: certain", "Definition: absolutely certain", ""]}
+{"data": ["2022-10-28T07:01:07.208904+00:00", 6379, "Your mother is", "majuscular", "Pronunciation: /m\u0259\u02c8d\u0292\u0259skj\u028al\u0259r/", "Definition: of the nature of a majuscule or written in majuscules", ""]}
