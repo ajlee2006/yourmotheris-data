@@ -1,1 +1,1 @@
-{"data": ["2022-10-28T00:01:59.861807+00:00", 6372, "Your mother is", "xxxii", "Similar to: cardinal", "Definition: being two more than thirty", "Synonyms: 32, thirty-two"]}
+{"data": ["2022-10-28T01:01:28.830015+00:00", 6373, "Your mother is", "undeclared", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8kl\u025cd/", "Definition: not announced or openly acknowledged", ""]}
