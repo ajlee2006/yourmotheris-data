@@ -1,1 +1,1 @@
-{"data": ["2022-10-28T16:01:14.187507+00:00", 6388, "Your mother is", "oversize", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8sa\u026az/", "Definition: larger than normal for its kind", "Synonyms: outsize, outsized, oversized"]}
+{"data": ["2022-10-28T17:01:10.918041+00:00", 6389, "Your mother is", "parturient", "Pronunciation: /p\u0251r\u02c8t\u028ari\u0259nt/", "Definition: giving birth", ""]}
