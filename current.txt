@@ -1,1 +1,1 @@
-{"data": ["2022-10-29T00:02:13.945149+00:00", 6396, "Your mother is", "bastard", "Pronunciation: /\u02c8b\u00e6st\u0259rd/", "Definition: fraudulent; having a misleading appearance", "Synonyms: bogus, fake, phoney, phony"]}
+{"data": ["2022-10-29T01:01:47.773628+00:00", 6397, "Your mother is", "guttural", "Pronunciation: /\u02c8\u0261\u0259t\u0259r\u0259l/", "Definition: like the sounds of frogs and crows", "Synonyms: croaky"]}
