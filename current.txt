@@ -1,1 +1,1 @@
-{"data": ["2022-10-29T10:00:54.769486+00:00", 6406, "Your mother is", "overhasty", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8he\u026asti/", "Definition: done with very great haste and without due deliberation", "Synonyms: hasty, precipitant, precipitate, precipitous"]}
+{"data": ["2022-10-29T11:01:01.681335+00:00", 6407, "Your mother is", "winter-blooming", "Similar to: wintery", "Definition: of plants that bloom during the winter", "Synonyms: winter-flowering"]}
