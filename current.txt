@@ -1,1 +1,1 @@
-{"data": ["2022-10-29T16:00:56.004095+00:00", 6412, "Your mother is", "amyloid", "Pronunciation: /\u02c8\u00e6m\u0259\u02ccl\u0254\u026ad/", "Definition: resembling starch", "Synonyms: amylaceous, amyloidal, farinaceous, starchlike"]}
+{"data": ["2022-10-29T17:00:55.836326+00:00", 6413, "Your mother is", "sneaky", "Pronunciation: /\u02c8sniki/", "Definition: marked by deception", "Synonyms: underhand, underhanded"]}
