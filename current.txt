@@ -1,1 +1,1 @@
-{"data": ["2022-10-29T12:01:29.716253+00:00", 6408, "Your mother is", "antiphlogistic", "Pronunciation: /\u02cc\u00e6ntiflo\u028a\u02c8d\u0292\u026ast\u026ak/", "Definition: counteracting inflammation", ""]}
+{"data": ["2022-10-29T13:01:02.455035+00:00", 6409, "Your mother is", "meanspirited", "Pronunciation: /\u02c8min\u02c8sp\u026ar\u026at\u026ad/", "Definition: lacking in magnanimity", "Synonyms: ungenerous"]}
