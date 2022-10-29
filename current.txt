@@ -1,1 +1,1 @@
-{"data": ["2022-10-29T01:01:47.773628+00:00", 6397, "Your mother is", "guttural", "Pronunciation: /\u02c8\u0261\u0259t\u0259r\u0259l/", "Definition: like the sounds of frogs and crows", "Synonyms: croaky"]}
+{"data": ["2022-10-29T02:01:44.066761+00:00", 6398, "Your mother is", "obtainable", "Pronunciation: /\u028cb\u02c8te\u026an\u028cb\u028cl/", "Definition: capable of being obtained", "Synonyms: getable, gettable, procurable"]}
