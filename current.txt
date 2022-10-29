@@ -1,1 +1,1 @@
-{"data": ["2022-10-29T03:00:49.739761+00:00", 6399, "Your mother is", "cantankerous", "Pronunciation: /k\u00e6n\u02c8t\u00e6\u014bk\u0259r\u0259s/", "Definition: stubbornly obstructive and unwilling to cooperate", "Synonyms: bloody-minded"]}
+{"data": ["2022-10-29T04:00:50.103676+00:00", 6400, "Your mother is", "preferent", "Similar to: loved", "Definition: preferred above all others and treated with partiality", "Synonyms: best-loved, favored, favorite, favourite, pet, preferred"]}
