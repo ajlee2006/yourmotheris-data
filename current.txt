@@ -1,1 +1,1 @@
-{"data": ["2022-10-29T02:01:44.066761+00:00", 6398, "Your mother is", "obtainable", "Pronunciation: /\u028cb\u02c8te\u026an\u028cb\u028cl/", "Definition: capable of being obtained", "Synonyms: getable, gettable, procurable"]}
+{"data": ["2022-10-29T03:00:49.739761+00:00", 6399, "Your mother is", "cantankerous", "Pronunciation: /k\u00e6n\u02c8t\u00e6\u014bk\u0259r\u0259s/", "Definition: stubbornly obstructive and unwilling to cooperate", "Synonyms: bloody-minded"]}
