@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T09:00:47.082756+00:00", 6429, "Your mother is", "anechoic", "Pronunciation: /\u02cc\u00e6n\u025b\u02c8ko\u028a\u026ak/", "Definition: not having or producing echoes; sound-absorbent", ""]}
+{"data": ["2022-10-30T10:01:11.128339+00:00", 6430, "Your mother is", "adolescent", "Pronunciation: /\u02cc\u00e6d\u02c8\u0259l\u025bs\u0259nt/", "Definition: displaying or suggesting a lack of maturity", "Synonyms: jejune, juvenile, puerile"]}
