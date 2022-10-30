@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T08:01:24.317955+00:00", 6428, "Your mother is", "actinomycetal", "", "Definition: of or belonging to the actinomycetes", "Synonyms: actinomycetous"]}
+{"data": ["2022-10-30T09:00:47.082756+00:00", 6429, "Your mother is", "anechoic", "Pronunciation: /\u02cc\u00e6n\u025b\u02c8ko\u028a\u026ak/", "Definition: not having or producing echoes; sound-absorbent", ""]}
