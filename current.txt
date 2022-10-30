@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T19:00:28.412580+00:00", 6439, "Your mother is", "distributed", "Pronunciation: /d\u026as\u02c8tr\u026abj\u028ct\u028cd/", "Definition: spread out or scattered about or divided up", ""]}
+{"data": ["2022-10-30T20:01:06.902334+00:00", 6440, "Your mother is", "proscribed", "Pronunciation: /pro\u028a\u02c8skra\u026abd/", "Definition: excluded from use or mention", "Synonyms: forbidden, out, prohibited, taboo, tabu, verboten"]}
