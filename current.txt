@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T02:01:47.505357+00:00", 6422, "Your mother is", "needle-shaped", "Pronunciation: /\u02c8nid\u0259l-\u0283e\u026apt/", "Definition: narrow and long and pointed; as pine leaves", "Synonyms: acerate, acerose, acicular"]}
+{"data": ["2022-10-30T03:01:06.195106+00:00", 6423, "Your mother is", "two-toe", "Similar to: toed", "Definition: having two toes", "Synonyms: two-toed"]}
