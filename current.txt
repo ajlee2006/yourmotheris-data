@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T13:00:46.306569+00:00", 6433, "Your mother is", "raw", "Pronunciation: /r\u0254/", "Definition: hurting", "Synonyms: sensitive, sore, tender"]}
+{"data": ["2022-10-30T14:01:36.093416+00:00", 6434, "Your mother is", "cuddly", "Pronunciation: /\u02c8k\u0259dli/", "Definition: inviting cuddling or hugging", "Synonyms: cuddlesome"]}
