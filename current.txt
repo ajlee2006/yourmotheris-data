@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T17:00:46.579941+00:00", 6437, "Your mother is", "clipped", "Pronunciation: /kl\u026apt/", "Definition: cut or trimmed by clipping", ""]}
+{"data": ["2022-10-30T18:01:12.636476+00:00", 6438, "Your mother is", "punch-drunk", "Pronunciation: /p\u0259n\u02a7-dr\u0259\u014bk/", "Definition: dazed from or as if from repeated blows", "Synonyms: silly, slaphappy"]}
