@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T05:00:41.397580+00:00", 6425, "Your mother is", "eastside", "Pronunciation: /\u02c8ist\u02c8sa\u026ad/", "Definition: of the eastern part of a city e.g. Manhattan", ""]}
+{"data": ["2022-10-30T06:00:57.998261+00:00", 6426, "Your mother is", "piscatorial", "Pronunciation: /\u02ccp\u026ask\u0259\u02c8to\u028ari\u0259l/", "Definition: relating to or characteristic of the activity of fishing", "Synonyms: piscatory"]}
