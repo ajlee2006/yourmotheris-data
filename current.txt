@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T10:01:11.128339+00:00", 6430, "Your mother is", "adolescent", "Pronunciation: /\u02cc\u00e6d\u02c8\u0259l\u025bs\u0259nt/", "Definition: displaying or suggesting a lack of maturity", "Synonyms: jejune, juvenile, puerile"]}
+{"data": ["2022-10-30T11:01:28.699895+00:00", 6431, "Your mother is", "crimson-magenta", "Similar to: chromatic", "Definition: magenta tinged with crimson", ""]}
