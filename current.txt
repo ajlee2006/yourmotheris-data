@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T04:01:23.149668+00:00", 6424, "Your mother is", "windless", "Similar to: calm", "Definition: without or almost without wind", ""]}
+{"data": ["2022-10-30T05:00:41.397580+00:00", 6425, "Your mother is", "eastside", "Pronunciation: /\u02c8ist\u02c8sa\u026ad/", "Definition: of the eastern part of a city e.g. Manhattan", ""]}
