@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T18:01:12.636476+00:00", 6438, "Your mother is", "punch-drunk", "Pronunciation: /p\u0259n\u02a7-dr\u0259\u014bk/", "Definition: dazed from or as if from repeated blows", "Synonyms: silly, slaphappy"]}
+{"data": ["2022-10-30T19:00:28.412580+00:00", 6439, "Your mother is", "distributed", "Pronunciation: /d\u026as\u02c8tr\u026abj\u028ct\u028cd/", "Definition: spread out or scattered about or divided up", ""]}
