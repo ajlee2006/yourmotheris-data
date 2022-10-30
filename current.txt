@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T01:01:16.280930+00:00", 6421, "Your mother is", "unused", "Pronunciation: /\u0259n\u02c8juzd/", "Definition: not in active use", "Synonyms: idle"]}
+{"data": ["2022-10-30T02:01:47.505357+00:00", 6422, "Your mother is", "needle-shaped", "Pronunciation: /\u02c8nid\u0259l-\u0283e\u026apt/", "Definition: narrow and long and pointed; as pine leaves", "Synonyms: acerate, acerose, acicular"]}
