@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T11:01:28.699895+00:00", 6431, "Your mother is", "crimson-magenta", "Similar to: chromatic", "Definition: magenta tinged with crimson", ""]}
+{"data": ["2022-10-30T12:01:44.934387+00:00", 6432, "Your mother is", "500th", "Similar to: ordinal", "Definition: the ordinal number of five hundred in counting order", "Synonyms: five-hundredth"]}
