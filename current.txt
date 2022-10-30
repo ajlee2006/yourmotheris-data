@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T00:01:31.994077+00:00", 6420, "Your mother is", "unmechanized", "Similar to: nonmechanical", "Definition: not mechanized", "Synonyms: unmechanised"]}
+{"data": ["2022-10-30T01:01:16.280930+00:00", 6421, "Your mother is", "unused", "Pronunciation: /\u0259n\u02c8juzd/", "Definition: not in active use", "Synonyms: idle"]}
