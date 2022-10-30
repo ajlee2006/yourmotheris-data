@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T22:00:18.487464+00:00", 6442, "Your mother is", "pediatric", "Pronunciation: /\u02ccpidi\u02c8\u00e6tr\u026ak/", "Definition: of or relating to the medical care of children", "Synonyms: paediatric"]}
+{"data": ["2022-10-30T23:01:13.201316+00:00", 6443, "Your mother is", "potholed", "Pronunciation: /\u02c8p\u0251t\u02ccho\u028ald/", "Definition: used of paved surfaces having holes or pits", "Synonyms: pocked, pockmarked"]}
