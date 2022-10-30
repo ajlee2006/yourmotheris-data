@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T07:00:58.788027+00:00", 6427, "Your mother is", "indoor", "Pronunciation: /\u02c8\u026an\u02ccdo\u028ar/", "Definition: located, suited for, or taking place within a building", ""]}
+{"data": ["2022-10-30T08:01:24.317955+00:00", 6428, "Your mother is", "actinomycetal", "", "Definition: of or belonging to the actinomycetes", "Synonyms: actinomycetous"]}
