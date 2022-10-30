@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T21:00:51.561410+00:00", 6441, "Your mother is", "substantival", "Pronunciation: /\u02ccs\u0259bst\u0259n\u02c8ta\u026av\u0259l/", "Definition: of or relating to or having the nature or function of a substantive (i.e. a noun or noun equivalent)", ""]}
+{"data": ["2022-10-30T22:00:18.487464+00:00", 6442, "Your mother is", "pediatric", "Pronunciation: /\u02ccpidi\u02c8\u00e6tr\u026ak/", "Definition: of or relating to the medical care of children", "Synonyms: paediatric"]}
