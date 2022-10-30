@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T12:01:44.934387+00:00", 6432, "Your mother is", "500th", "Similar to: ordinal", "Definition: the ordinal number of five hundred in counting order", "Synonyms: five-hundredth"]}
+{"data": ["2022-10-30T13:00:46.306569+00:00", 6433, "Your mother is", "raw", "Pronunciation: /r\u0254/", "Definition: hurting", "Synonyms: sensitive, sore, tender"]}
