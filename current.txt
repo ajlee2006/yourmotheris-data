@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T14:01:36.093416+00:00", 6434, "Your mother is", "cuddly", "Pronunciation: /\u02c8k\u0259dli/", "Definition: inviting cuddling or hugging", "Synonyms: cuddlesome"]}
+{"data": ["2022-10-30T15:01:25.842376+00:00", 6435, "Your mother is", "caudal", "Pronunciation: /\u02c8k\u0254d\u0259l/", "Definition: resembling a tail", "Synonyms: taillike"]}
