@@ -1,1 +1,1 @@
-{"data": ["2022-10-31T04:01:41.818126+00:00", 6448, "Your mother is", "leprose", "Pronunciation: /\u02c8l\u025bpro\u028as/", "Definition: rough to the touch; covered with scales or scurf", "Synonyms: lepidote, scabrous, scaly, scurfy"]}
+{"data": ["2022-10-31T05:00:42.601027+00:00", 6449, "Your mother is", "executable", "Similar to: possible", "Definition: capable of being done with means at hand and circumstances as they are", "Synonyms: feasible, practicable, viable, workable"]}
