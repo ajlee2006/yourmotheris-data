@@ -1,1 +1,1 @@
-{"data": ["2022-10-31T14:00:47.028220+00:00", 6458, "Your mother is", "fortissimo", "Pronunciation: /f\u0254r\u02c8t\u026as\u0259\u02ccmo\u028a/", "Definition: (chiefly a direction or description in music) very loud and strong", ""]}
+{"data": ["2022-10-31T15:00:29.482461+00:00", 6459, "Your mother is", "unexpendable", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8sp\u025bnd\u0259b\u0259l/", "Definition: not suitable to be expended", ""]}
