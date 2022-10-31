@@ -1,1 +1,1 @@
-{"data": ["2022-10-31T12:00:47.515939+00:00", 6456, "Your mother is", "sloppy", "Pronunciation: /\u02c8sl\u0251pi/", "Definition: not fitting closely; hanging loosely", "Synonyms: baggy, loose-fitting"]}
+{"data": ["2022-10-31T13:01:46.230699+00:00", 6457, "Your mother is", "sharp-angled", "Pronunciation: /\u0283\u0251rp-\u02c8\u00e6\u014b\u0261\u0259ld/", "Definition: having sharp corners", "Synonyms: sharp-cornered"]}
