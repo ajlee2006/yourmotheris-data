@@ -1,1 +1,1 @@
-{"data": ["2022-10-31T15:00:29.482461+00:00", 6459, "Your mother is", "unexpendable", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8sp\u025bnd\u0259b\u0259l/", "Definition: not suitable to be expended", ""]}
+{"data": ["2022-10-31T16:01:33.768628+00:00", 6460, "Your mother is", "igneous", "Pronunciation: /\u02c8\u026agni\u0259s/", "Definition: produced under conditions involving intense heat", "Synonyms: pyrogenic, pyrogenous"]}
