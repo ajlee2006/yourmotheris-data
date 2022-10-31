@@ -1,1 +1,1 @@
-{"data": ["2022-10-31T06:00:43.767818+00:00", 6450, "Your mother is", "cosmetic", "Pronunciation: /k\u0251z\u02c8m\u025bt\u026ak/", "Definition: serving an esthetic rather than a useful purpose", "Synonyms: decorative, ornamental"]}
+{"data": ["2022-10-31T07:01:22.165608+00:00", 6451, "Your mother is", "undenominational", "Similar to: nonsectarian", "Definition: not bound or devoted to the promotion of a particular denomination", ""]}
