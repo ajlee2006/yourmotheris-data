@@ -1,1 +1,1 @@
-{"data": ["2022-10-31T01:01:10.092196+00:00", 6445, "Your mother is", "unpaved", "Pronunciation: /\u0259n\u02c8pe\u026avd/", "Definition: not having a paved surface", ""]}
+{"data": ["2022-10-31T02:01:31.671745+00:00", 6446, "Your mother is", "unperceptive", "Pronunciation: /\u02cc\u0259np\u0259\u02c8s\u025bpt\u026av/", "Definition: lacking perception", "Synonyms: unperceiving"]}
