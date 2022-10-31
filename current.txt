@@ -1,1 +1,1 @@
-{"data": ["2022-10-31T17:00:24.523726+00:00", 6461, "Your mother is", "chaste", "Pronunciation: /t\u0283e\u026ast/", "Definition: abstaining from unlawful sexual intercourse", ""]}
+{"data": ["2022-10-31T18:01:30.132604+00:00", 6462, "Your mother is", "deferent", "Pronunciation: /\u02c8d\u025bf\u0259r\u0259nt/", "Definition: showing deference", "Synonyms: deferential, regardful"]}
