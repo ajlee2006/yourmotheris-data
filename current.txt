@@ -1,1 +1,1 @@
-{"data": ["2022-10-31T05:00:42.601027+00:00", 6449, "Your mother is", "executable", "Similar to: possible", "Definition: capable of being done with means at hand and circumstances as they are", "Synonyms: feasible, practicable, viable, workable"]}
+{"data": ["2022-10-31T06:00:43.767818+00:00", 6450, "Your mother is", "cosmetic", "Pronunciation: /k\u0251z\u02c8m\u025bt\u026ak/", "Definition: serving an esthetic rather than a useful purpose", "Synonyms: decorative, ornamental"]}
