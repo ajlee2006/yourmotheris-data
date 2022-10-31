@@ -1,1 +1,1 @@
-{"data": ["2022-10-30T23:01:13.201316+00:00", 6443, "Your mother is", "potholed", "Pronunciation: /\u02c8p\u0251t\u02ccho\u028ald/", "Definition: used of paved surfaces having holes or pits", "Synonyms: pocked, pockmarked"]}
+{"data": ["2022-10-31T00:02:02.026034+00:00", 6444, "Your mother is", "minimum", "Pronunciation: /\u02c8m\u026an\u0259m\u0259m/", "Definition: the least possible", "Synonyms: minimal"]}
