@@ -1,1 +1,1 @@
-{"data": ["2022-10-31T02:01:31.671745+00:00", 6446, "Your mother is", "unperceptive", "Pronunciation: /\u02cc\u0259np\u0259\u02c8s\u025bpt\u026av/", "Definition: lacking perception", "Synonyms: unperceiving"]}
+{"data": ["2022-10-31T03:01:34.129894+00:00", 6447, "Your mother is", "collectivistic", "Similar to: socialist", "Definition: subscribing to the socialistic doctrine of ownership by the people collectively", "Synonyms: collectivised, collectivist, collectivized, state-controlled"]}
