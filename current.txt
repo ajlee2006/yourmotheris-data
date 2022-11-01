@@ -1,1 +1,1 @@
-{"data": ["2022-11-01T16:00:33.709817+00:00", 6484, "Your mother is", "felted", "Similar to: unwoven", "Definition: made by combining fibers with a binder using heat and pressure", ""]}
+{"data": ["2022-11-01T17:00:51.102467+00:00", 6485, "Your mother is", "36", "Similar to: cardinal", "Definition: being six more than thirty", "Synonyms: thirty-six, xxxvi"]}
