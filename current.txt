@@ -1,1 +1,1 @@
-{"data": ["2022-11-01T09:01:15.413895+00:00", 6477, "Your mother is", "unserviceable", "Pronunciation: /\u0259n\u02c8s\u025crv\u026as\u0259b\u0259l/", "Definition: not capable of being used", "Synonyms: unusable, unuseable"]}
+{"data": ["2022-11-01T10:00:57.839508+00:00", 6478, "Your mother is", "leadless", "Similar to: lead-free", "Definition: not treated with lead", "Synonyms: unleaded"]}
