@@ -1,1 +1,1 @@
-{"data": ["2022-11-01T00:02:04.835448+00:00", 6468, "Your mother is", "playful", "Pronunciation: /\u02c8ple\u026af\u0259l/", "Definition: full of fun and high spirits", ""]}
+{"data": ["2022-11-01T01:01:17.871856+00:00", 6469, "Your mother is", "33rd", "Similar to: ordinal", "Definition: the ordinal number of thirty-three in counting order", "Synonyms: thirty-third"]}
