@@ -1,1 +1,1 @@
-{"data": ["2022-11-01T01:01:17.871856+00:00", 6469, "Your mother is", "33rd", "Similar to: ordinal", "Definition: the ordinal number of thirty-three in counting order", "Synonyms: thirty-third"]}
+{"data": ["2022-11-01T02:01:28.236401+00:00", 6470, "Your mother is", "weeklong", "Pronunciation: /\u02c8wikl\u0251\u014b/", "Definition: lasting through a week", "Synonyms: seven-day"]}
