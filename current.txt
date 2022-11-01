@@ -1,1 +1,1 @@
-{"data": ["2022-11-01T19:00:30.791298+00:00", 6487, "Your mother is", "semitic-speaking", "Similar to: communicative", "Definition: able to communicate in a Semitic language", ""]}
+{"data": ["2022-11-01T20:00:31.505061+00:00", 6488, "Your mother is", "sobersided", "Pronunciation: /\u02c8so\u028ab\u0259r\u02ccsa\u026ad\u026ad/", "Definition: completely lacking in humor or lightness of touch", ""]}
