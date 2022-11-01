@@ -1,1 +1,1 @@
-{"data": ["2022-11-01T13:00:30.932973+00:00", 6481, "Your mother is", "contracted", "Pronunciation: /k\u0259n\u02c8tr\u00e6kt\u026ad/", "Definition: reduced in size or pulled together", ""]}
+{"data": ["2022-11-01T14:00:26.759910+00:00", 6482, "Your mother is", "treated", "Pronunciation: /\u02c8trit\u028cd/", "Definition: made hard or flexible or resilient especially by heat treatment", "Synonyms: hardened, tempered, toughened"]}
