@@ -1,1 +1,1 @@
-{"data": ["2022-11-01T06:01:45.883805+00:00", 6474, "Your mother is", "sorcerous", "Pronunciation: /\u02c8s\u0254rs\u0259r\u0259s/", "Definition: possessing or using or characteristic of or appropriate to supernatural powers", "Synonyms: charming, magic, magical, witching, wizard, wizardly"]}
+{"data": ["2022-11-01T07:00:53.619148+00:00", 6475, "Your mother is", "stirrup-shaped", "Similar to: formed", "Definition: shaped in the form of a stirrup", ""]}
