@@ -1,1 +1,1 @@
-{"data": ["2022-10-31T23:00:50.899362+00:00", 6467, "Your mother is", "nondescript", "Pronunciation: /\u02ccn\u0251nd\u026a\u02c8skr\u026apt/", "Definition: lacking distinct or individual characteristics; dull and uninteresting", "Synonyms: characterless"]}
+{"data": ["2022-11-01T00:02:04.835448+00:00", 6468, "Your mother is", "playful", "Pronunciation: /\u02c8ple\u026af\u0259l/", "Definition: full of fun and high spirits", ""]}
