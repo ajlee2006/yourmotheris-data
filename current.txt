@@ -1,1 +1,1 @@
-{"data": ["2022-11-01T08:00:50.992971+00:00", 6476, "Your mother is", "unsullied", "Pronunciation: /\u0259n\u02c8s\u0259l\u026ad/", "Definition: (of reputation) free from blemishes", "Synonyms: stainless, unstained, untainted, untarnished"]}
+{"data": ["2022-11-01T09:01:15.413895+00:00", 6477, "Your mother is", "unserviceable", "Pronunciation: /\u0259n\u02c8s\u025crv\u026as\u0259b\u0259l/", "Definition: not capable of being used", "Synonyms: unusable, unuseable"]}
