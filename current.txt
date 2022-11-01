@@ -1,1 +1,1 @@
-{"data": ["2022-11-01T17:00:51.102467+00:00", 6485, "Your mother is", "36", "Similar to: cardinal", "Definition: being six more than thirty", "Synonyms: thirty-six, xxxvi"]}
+{"data": ["2022-11-01T18:00:20.077105+00:00", 6486, "Your mother is", "special", "Pronunciation: /\u02c8sp\u025b\u0283\u0259l/", "Definition: added to a regular schedule", "Synonyms: extra"]}
