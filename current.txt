@@ -1,1 +1,1 @@
-{"data": ["2022-11-01T22:01:44.774770+00:00", 6490, "Your mother is", "dolichocephalic", "Pronunciation: /\u02ccd\u0251l\u0259ko\u028as\u0259\u02c8f\u00e6l\u026ak/", "Definition: having a relatively long head with a cephalic index of under 75", "Synonyms: dolichocranial, dolichocranic"]}
+{"data": ["2022-11-01T23:01:30.048437+00:00", 6491, "Your mother is", "carbonic", "Pronunciation: /k\u0251r\u02c8b\u0251n\u026ak/", "Definition: relating to or consisting of or yielding carbon", "Synonyms: carbonaceous, carboniferous, carbonous"]}
