@@ -1,1 +1,1 @@
-{"data": ["2022-11-01T10:00:57.839508+00:00", 6478, "Your mother is", "leadless", "Similar to: lead-free", "Definition: not treated with lead", "Synonyms: unleaded"]}
+{"data": ["2022-11-01T11:01:27.684808+00:00", 6479, "Your mother is", "restricted", "Pronunciation: /r\u026a\u02c8str\u026akt\u026ad/", "Definition: restricted in meaning; (as e.g. `man' in `a tall man')", "Synonyms: qualified"]}
