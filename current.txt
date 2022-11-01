@@ -1,1 +1,1 @@
-{"data": ["2022-11-01T02:01:28.236401+00:00", 6470, "Your mother is", "weeklong", "Pronunciation: /\u02c8wikl\u0251\u014b/", "Definition: lasting through a week", "Synonyms: seven-day"]}
+{"data": ["2022-11-01T03:00:56.751595+00:00", 6471, "Your mother is", "lead-coloured", "Similar to: colored", "Definition: having the color of lead", "Synonyms: lead-colored"]}
