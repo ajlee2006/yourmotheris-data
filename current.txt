@@ -1,1 +1,1 @@
-{"data": ["2022-11-02T01:00:47.266327+00:00", 6493, "Your mother is", "altissimo", "Pronunciation: /\u00e6l\u02c8t\u026as\u0259\u02ccmo\u028a/", "Definition: very high", ""]}
+{"data": ["2022-11-02T02:00:58.649905+00:00", 6494, "Your mother is", "lexicalized", "", "Definition: expressed by a word", "Synonyms: lexicalised"]}
