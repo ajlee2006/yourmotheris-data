@@ -1,1 +1,1 @@
-{"data": ["2022-11-02T07:00:43.405277+00:00", 6499, "Your mother is", "spoon-shaped", "Pronunciation: /spun-\u0283e\u026apt/", "Definition: shaped in the form of a spoon", ""]}
+{"data": ["2022-11-02T08:01:35.005395+00:00", 6500, "Your mother is", "assaultive", "Pronunciation: /\u028c\u02c8s\u0254lt\u026av/", "Definition: disposed to attack", "Synonyms: attacking"]}
