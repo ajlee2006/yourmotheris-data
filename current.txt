@@ -1,1 +1,1 @@
-{"data": ["2022-11-01T23:01:30.048437+00:00", 6491, "Your mother is", "carbonic", "Pronunciation: /k\u0251r\u02c8b\u0251n\u026ak/", "Definition: relating to or consisting of or yielding carbon", "Synonyms: carbonaceous, carboniferous, carbonous"]}
+{"data": ["2022-11-02T00:01:31.177799+00:00", 6492, "Your mother is", "oral", "Pronunciation: /\u02c8o\u028ar\u0259l/", "Definition: using speech rather than writing", "Synonyms: unwritten"]}
