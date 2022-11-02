@@ -1,1 +1,1 @@
-{"data": ["2022-11-02T15:01:23.884748+00:00", 6507, "Your mother is", "untrained", "Pronunciation: /\u0259n\u02c8tre\u026and/", "Definition: not disciplined or conditioned or made adept by training", ""]}
+{"data": ["2022-11-02T16:00:18.755157+00:00", 6508, "Your mother is", "non-elective", "Similar to: appointed", "Definition: filled by appointment rather than by election", "Synonyms: nonelected, nonelective"]}
