@@ -1,1 +1,1 @@
-{"data": ["2022-11-02T11:00:29.904945+00:00", 6503, "Your mother is", "condemnable", "Similar to: wrong", "Definition: bringing or deserving severe rebuke or censure", "Synonyms: criminal, deplorable, reprehensible, vicious"]}
+{"data": ["2022-11-02T12:01:23.175833+00:00", 6504, "Your mother is", "adsorbable", "", "Definition: capable of being adsorbed or accumulated on a surface of a solid", "Synonyms: adsorbate"]}
