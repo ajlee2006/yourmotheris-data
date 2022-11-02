@@ -1,1 +1,1 @@
-{"data": ["2022-11-02T12:01:23.175833+00:00", 6504, "Your mother is", "adsorbable", "", "Definition: capable of being adsorbed or accumulated on a surface of a solid", "Synonyms: adsorbate"]}
+{"data": ["2022-11-02T13:01:13.978481+00:00", 6505, "Your mother is", "unbraced", "Similar to: unsupported", "Definition: without braces or props", ""]}
