@@ -1,1 +1,1 @@
-{"data": ["2022-11-02T04:01:20.001380+00:00", 6496, "Your mother is", "whiplike", "", "Definition: having or resembling a lash or whip (as does a flagellum)", "Synonyms: flagellate, flagellated, lash-like"]}
+{"data": ["2022-11-02T05:01:41.698966+00:00", 6497, "Your mother is", "unverbalised", "Similar to: implicit", "Definition: not made explicit", "Synonyms: unexpressed, unsaid, unspoken, unstated, unuttered, unverbalized, unvoiced"]}
