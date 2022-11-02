@@ -1,1 +1,1 @@
-{"data": ["2022-11-02T05:01:41.698966+00:00", 6497, "Your mother is", "unverbalised", "Similar to: implicit", "Definition: not made explicit", "Synonyms: unexpressed, unsaid, unspoken, unstated, unuttered, unverbalized, unvoiced"]}
+{"data": ["2022-11-02T06:01:25.689640+00:00", 6498, "Your mother is", "regimented", "Pronunciation: /\u02c8r\u025bd\u0292\u028c\u02ccm\u025bnt\u026ad/", "Definition: strictly controlled", ""]}
