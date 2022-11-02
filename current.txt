@@ -1,1 +1,1 @@
-{"data": ["2022-11-02T03:01:27.653708+00:00", 6495, "Your mother is", "unadjustable", "Similar to: fixed", "Definition: not adjustable", ""]}
+{"data": ["2022-11-02T04:01:20.001380+00:00", 6496, "Your mother is", "whiplike", "", "Definition: having or resembling a lash or whip (as does a flagellum)", "Synonyms: flagellate, flagellated, lash-like"]}
