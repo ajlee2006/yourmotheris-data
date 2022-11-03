@@ -1,1 +1,1 @@
-{"data": ["2022-11-03T14:00:55.337374+00:00", 6530, "Your mother is", "well timed", "Similar to: opportune", "Definition: done or happening at the appropriate or proper time", "Synonyms: seasonable, timely, well-timed"]}
+{"data": ["2022-11-03T15:01:26.528749+00:00", 6531, "Your mother is", "jacobinic", "", "Definition: of or relating to the Jacobins of the French Revolution", "Synonyms: jacobinical"]}
