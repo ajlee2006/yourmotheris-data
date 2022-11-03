@@ -1,1 +1,1 @@
-{"data": ["2022-11-03T21:00:27.034432+00:00", 6537, "Your mother is", "rococo", "Pronunciation: /r\u0259\u02c8ko\u028ako\u028a/", "Definition: having excessive asymmetrical ornamentation", ""]}
+{"data": ["2022-11-03T22:00:12.043534+00:00", 6538, "Your mother is", "outside", "Pronunciation: /\u02c8a\u028atsa\u026ad/", "Definition: from or between other countries", "Synonyms: external, international"]}
