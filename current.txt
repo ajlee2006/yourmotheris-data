@@ -1,1 +1,1 @@
-{"data": ["2022-11-03T06:01:04.257490+00:00", 6522, "Your mother is", "jeering", "Pronunciation: /\u02c8d\u0292ir\u026a\u014b/", "Definition: abusing vocally; expressing contempt or ridicule", "Synonyms: derisive, gibelike, mocking, taunting"]}
+{"data": ["2022-11-03T07:01:34.691013+00:00", 6523, "Your mother is", "yelled", "Pronunciation: /j\u025bld/", "Definition: in a vehement outcry", "Synonyms: shouted"]}
