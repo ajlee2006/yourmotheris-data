@@ -1,1 +1,1 @@
-{"data": ["2022-11-03T05:00:59.245639+00:00", 6521, "Your mother is", "three", "Pronunciation: /\u03b8ri/", "Definition: being one more than two", "Synonyms: 3, iii"]}
+{"data": ["2022-11-03T06:01:04.257490+00:00", 6522, "Your mother is", "jeering", "Pronunciation: /\u02c8d\u0292ir\u026a\u014b/", "Definition: abusing vocally; expressing contempt or ridicule", "Synonyms: derisive, gibelike, mocking, taunting"]}
