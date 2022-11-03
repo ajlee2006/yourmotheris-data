@@ -1,1 +1,1 @@
-{"data": ["2022-11-03T19:01:43.335708+00:00", 6535, "Your mother is", "votive", "Pronunciation: /\u02c8vo\u028at\u026av/", "Definition: dedicated in fulfillment of a vow", ""]}
+{"data": ["2022-11-03T20:01:20.946519+00:00", 6536, "Your mother is", "liquefied", "Pronunciation: /\u02c8l\u026akw\u028c\u02ccfa\u026ad/", "Definition: reduced to liquid form by heating", "Synonyms: liquified, molten"]}
