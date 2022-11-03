@@ -1,1 +1,1 @@
-{"data": ["2022-11-03T17:00:54.755790+00:00", 6533, "Your mother is", "semiofficial", "Pronunciation: /\u02ccs\u025bmi\u0259\u02c8f\u026a\u0283\u0259l/", "Definition: having some official authority or sanction", ""]}
+{"data": ["2022-11-03T18:01:22.681948+00:00", 6534, "Your mother is", "built-up", "Pronunciation: /b\u026alt-\u0259p/", "Definition: peopled with settlers", ""]}
