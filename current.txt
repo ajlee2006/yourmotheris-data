@@ -1,1 +1,1 @@
-{"data": ["2022-11-03T04:01:36.596066+00:00", 6520, "Your mother is", "commissioned", "Pronunciation: /k\u028c\u02c8m\u026a\u0283\u028cnd/", "Definition: given official approval to act", "Synonyms: accredited, licenced, licensed"]}
+{"data": ["2022-11-03T05:00:59.245639+00:00", 6521, "Your mother is", "three", "Pronunciation: /\u03b8ri/", "Definition: being one more than two", "Synonyms: 3, iii"]}
