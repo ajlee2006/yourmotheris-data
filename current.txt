@@ -1,1 +1,1 @@
-{"data": ["2022-11-03T09:01:24.365062+00:00", 6525, "Your mother is", "foot-shaped", "Similar to: formed", "Definition: shaped in the form of a foot", ""]}
+{"data": ["2022-11-03T10:01:10.301005+00:00", 6526, "Your mother is", "dusty", "Pronunciation: /\u02c8d\u0259sti/", "Definition: covered with a layer of dust", "Synonyms: dust-covered"]}
