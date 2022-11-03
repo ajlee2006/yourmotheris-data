@@ -1,1 +1,1 @@
-{"data": ["2022-11-03T12:01:31.338010+00:00", 6528, "Your mother is", "simplex", "Pronunciation: /\u02c8s\u026ampl\u025bks/", "Definition: allowing communication in only one direction at a time, or in telegraphy allowing only one message over a line at a time", ""]}
+{"data": ["2022-11-03T13:01:18.012616+00:00", 6529, "Your mother is", "marauding", "Pronunciation: /m\u0259\u02c8r\u0254d\u026a\u014b/", "Definition: characterized by plundering or pillaging or marauding", "Synonyms: predatory, raiding"]}
