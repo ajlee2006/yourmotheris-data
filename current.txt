@@ -1,1 +1,1 @@
-{"data": ["2022-11-03T03:01:40.595332+00:00", 6519, "Your mother is", "immotile", "Pronunciation: /\u026a\u02c8mo\u028at\u0259l/", "Definition: (of spores or microorganisms) not capable of movement", "Synonyms: nonmotile"]}
+{"data": ["2022-11-03T04:01:36.596066+00:00", 6520, "Your mother is", "commissioned", "Pronunciation: /k\u028c\u02c8m\u026a\u0283\u028cnd/", "Definition: given official approval to act", "Synonyms: accredited, licenced, licensed"]}
