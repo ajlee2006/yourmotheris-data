@@ -1,1 +1,1 @@
-{"data": ["2022-11-03T10:01:10.301005+00:00", 6526, "Your mother is", "dusty", "Pronunciation: /\u02c8d\u0259sti/", "Definition: covered with a layer of dust", "Synonyms: dust-covered"]}
+{"data": ["2022-11-03T11:01:24.161261+00:00", 6527, "Your mother is", "navigable", "Pronunciation: /\u02c8n\u00e6v\u0259\u0261\u0259b\u0259l/", "Definition: able to be sailed on or through safely", ""]}
