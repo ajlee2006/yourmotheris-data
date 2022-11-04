@@ -1,1 +1,1 @@
-{"data": ["2022-11-04T12:00:52.736587+00:00", 6552, "Your mother is", "modular", "Pronunciation: /\u02c8m\u0251d\u0292\u0259l\u0259r/", "Definition: constructed with standardized units or dimensions allowing flexibility and variety in use", ""]}
+{"data": ["2022-11-04T13:00:50.125555+00:00", 6553, "Your mother is", "short-winded", "Pronunciation: /\u02c8\u0283\u0254rt-\u02c8w\u026and\u026ad/", "Definition: breathing laboriously or convulsively", "Synonyms: blown, pursy, winded"]}
