@@ -1,1 +1,1 @@
-{"data": ["2022-11-04T03:00:45.044510+00:00", 6543, "Your mother is", "naturally occurring", "Similar to: present", "Definition: existing by nature and without artificial aid", ""]}
+{"data": ["2022-11-04T04:01:17.375619+00:00", 6544, "Your mother is", "xliii", "Similar to: cardinal", "Definition: being three more than forty", "Synonyms: 43, forty-three"]}
