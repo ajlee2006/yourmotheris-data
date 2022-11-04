@@ -1,1 +1,1 @@
-{"data": ["2022-11-04T07:00:50.669522+00:00", 6547, "Your mother is", "self-sufficing", "Pronunciation: /\u02ccs\u025blfs\u0259\u02c8fa\u026as\u026a\u014b/", "Definition: able to provide for your own needs without help from others", "Synonyms: self-sufficient, self-sustaining"]}
+{"data": ["2022-11-04T08:00:41.606513+00:00", 6548, "Your mother is", "infrasonic", "Pronunciation: /\u02cc\u026anfr\u0259\u02c8s\u0251n\u026ak/", "Definition: having frequencies below those of audible sound", ""]}
