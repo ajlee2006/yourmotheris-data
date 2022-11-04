@@ -1,1 +1,1 @@
-{"data": ["2022-11-04T17:00:45.438875+00:00", 6557, "Your mother is", "manifold", "Pronunciation: /\u02c8m\u00e6n\u0259\u02ccfo\u028ald/", "Definition: many and varied; having many features or forms", "Synonyms: multiplex"]}
+{"data": ["2022-11-04T18:01:01.375977+00:00", 6558, "Your mother is", "soluble", "Pronunciation: /\u02c8s\u0251lj\u0259b\u0259l/", "Definition: (of a substance) capable of being dissolved in some solvent (usually water)", ""]}
