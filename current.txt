@@ -1,1 +1,1 @@
-{"data": ["2022-11-04T11:01:38.440751+00:00", 6551, "Your mother is", "pink-red", "Similar to: chromatic", "Definition: of red tinged with pink", ""]}
+{"data": ["2022-11-04T12:00:52.736587+00:00", 6552, "Your mother is", "modular", "Pronunciation: /\u02c8m\u0251d\u0292\u0259l\u0259r/", "Definition: constructed with standardized units or dimensions allowing flexibility and variety in use", ""]}
