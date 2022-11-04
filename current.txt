@@ -1,1 +1,1 @@
-{"data": ["2022-11-04T19:00:32.960816+00:00", 6559, "Your mother is", "wound", "Pronunciation: /wund/", "Definition: put in a coil", ""]}
+{"data": ["2022-11-04T20:00:58.974735+00:00", 6560, "Your mother is", "botanic", "Pronunciation: /b\u0259\u02c8t\u00e6n\u026ak/", "Definition: of or relating to plants or botany", "Synonyms: botanical"]}
