@@ -1,1 +1,1 @@
-{"data": ["2022-11-04T06:01:09.298492+00:00", 6546, "Your mother is", "prostrate", "Pronunciation: /\u02c8pr\u0251stre\u026at/", "Definition: lying face downward", "Synonyms: prone"]}
+{"data": ["2022-11-04T07:00:50.669522+00:00", 6547, "Your mother is", "self-sufficing", "Pronunciation: /\u02ccs\u025blfs\u0259\u02c8fa\u026as\u026a\u014b/", "Definition: able to provide for your own needs without help from others", "Synonyms: self-sufficient, self-sustaining"]}
