@@ -1,1 +1,1 @@
-{"data": ["2022-11-04T01:01:20.528824+00:00", 6541, "Your mother is", "lynx-eyed", "Pronunciation: /\u02c8l\u026a\u014bks\u02cca\u026ad/", "Definition: having very keen vision", "Synonyms: argus-eyed, hawk-eyed, keen-sighted, quick-sighted, sharp-eyed, sharp-sighted"]}
+{"data": ["2022-11-04T02:01:34.312882+00:00", 6542, "Your mother is", "east", "Pronunciation: /ist/", "Definition: situated in or facing or moving toward the east", ""]}
