@@ -1,1 +1,1 @@
-{"data": ["2022-11-04T18:01:01.375977+00:00", 6558, "Your mother is", "soluble", "Pronunciation: /\u02c8s\u0251lj\u0259b\u0259l/", "Definition: (of a substance) capable of being dissolved in some solvent (usually water)", ""]}
+{"data": ["2022-11-04T19:00:32.960816+00:00", 6559, "Your mother is", "wound", "Pronunciation: /wund/", "Definition: put in a coil", ""]}
