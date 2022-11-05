@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T20:00:18.851817+00:00", 6584, "Your mother is", "sunburned", "Pronunciation: /\u02c8s\u028cn\u02ccb\u025drnd/", "Definition: suffering from overexposure to direct sunlight", "Synonyms: sunburnt"]}
+{"data": ["2022-11-05T21:01:05.929931+00:00", 6585, "Your mother is", "mastered", "Pronunciation: /\u02c8m\u00e6st\u025drd/", "Definition: understood perfectly", "Synonyms: down, down pat"]}
