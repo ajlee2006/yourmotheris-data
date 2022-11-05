@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T14:01:20.730049+00:00", 6578, "Your mother is", "high-and-mighty", "Pronunciation: /ha\u026a\u0259n\u02c8ma\u026ati/", "Definition: offensively self-assured or given to exercising usually unwarranted power", "Synonyms: autocratic, bossy, dominating, magisterial, peremptory"]}
+{"data": ["2022-11-05T15:01:06.250188+00:00", 6579, "Your mother is", "self-seeded", "Similar to: planted", "Definition: growing from seed dispersed by natural agency such as wind or birds", "Synonyms: self-sowed, self-sown"]}
