@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T16:00:55.590786+00:00", 6580, "Your mother is", "wigged", "Similar to: periwigged", "Definition: wearing a wig", ""]}
+{"data": ["2022-11-05T17:00:38.097670+00:00", 6581, "Your mother is", "unhoped-for", "Pronunciation: /\u0259n\u02c8ho\u028apt-\u02ccf\u0254r/", "Definition: so unexpected as to have not been imagined", "Synonyms: unhoped, unthought, unthought-of"]}
