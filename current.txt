@@ -1,1 +1,1 @@
-{"data": ["2022-11-04T23:00:42.404222+00:00", 6563, "Your mother is", "considered", "Pronunciation: /k\u0259n\u02c8s\u026ad\u0259rd/", "Definition: carefully weighed", ""]}
+{"data": ["2022-11-05T00:01:42.888197+00:00", 6564, "Your mother is", "garbled", "Pronunciation: /\u02c8\u0261\u0251rb\u028cld/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, illogical, scattered, unconnected"]}
