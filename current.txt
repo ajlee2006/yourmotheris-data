@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T19:01:13.189471+00:00", 6583, "Your mother is", "sobering", "Pronunciation: /\u02c8so\u028ab\u025dr\u026a\u014b/", "Definition: tending to make sober or more serious", ""]}
+{"data": ["2022-11-05T20:00:18.851817+00:00", 6584, "Your mother is", "sunburned", "Pronunciation: /\u02c8s\u028cn\u02ccb\u025drnd/", "Definition: suffering from overexposure to direct sunlight", "Synonyms: sunburnt"]}
