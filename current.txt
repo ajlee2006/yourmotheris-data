@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T13:00:31.181176+00:00", 6577, "Your mother is", "comfortless", "Pronunciation: /\u02c8k\u0259mf\u0259tl\u025bs/", "Definition: without comfort", ""]}
+{"data": ["2022-11-05T14:01:20.730049+00:00", 6578, "Your mother is", "high-and-mighty", "Pronunciation: /ha\u026a\u0259n\u02c8ma\u026ati/", "Definition: offensively self-assured or given to exercising usually unwarranted power", "Synonyms: autocratic, bossy, dominating, magisterial, peremptory"]}
