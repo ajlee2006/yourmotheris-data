@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T09:01:13.123603+00:00", 6573, "Your mother is", "adulterated", "Pronunciation: /\u028c\u02c8d\u028clt\u025dr\u02cce\u026at\u026ad/", "Definition: mixed with impurities", "Synonyms: adulterate, debased"]}
+{"data": ["2022-11-05T10:00:48.853825+00:00", 6574, "Your mother is", "fine-grained", "Pronunciation: /fin-gre\u026and/", "Definition: dense or compact in structure or texture, as a wood composed of small-diameter cells", "Synonyms: close-grained"]}
