@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T01:01:10.264024+00:00", 6565, "Your mother is", "smothering", "Pronunciation: /\u02c8sm\u028c\u00f0\u025dr\u026a\u014b/", "Definition: causing difficulty in breathing especially through lack of fresh air and presence of heat", "Synonyms: suffocating, suffocative"]}
+{"data": ["2022-11-05T02:00:46.594171+00:00", 6566, "Your mother is", "cleft", "Pronunciation: /kl\u025bft/", "Definition: having one or more indentations reaching nearly to the midrib", "Synonyms: dissected"]}
