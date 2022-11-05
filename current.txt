@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T21:01:05.929931+00:00", 6585, "Your mother is", "mastered", "Pronunciation: /\u02c8m\u00e6st\u025drd/", "Definition: understood perfectly", "Synonyms: down, down pat"]}
+{"data": ["2022-11-05T22:01:27.494366+00:00", 6586, "Your mother is", "lukewarm", "Pronunciation: /\u02c8luk\u02c8w\u0254rm/", "Definition: moderately warm", "Synonyms: tepid"]}
