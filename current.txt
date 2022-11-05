@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T10:00:48.853825+00:00", 6574, "Your mother is", "fine-grained", "Pronunciation: /fin-gre\u026and/", "Definition: dense or compact in structure or texture, as a wood composed of small-diameter cells", "Synonyms: close-grained"]}
+{"data": ["2022-11-05T11:01:48.004479+00:00", 6575, "Your mother is", "autarchical", "", "Definition: of or relating to or characterized by autarchy", "Synonyms: autarchic, autarkical"]}
