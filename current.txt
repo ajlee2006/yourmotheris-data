@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T18:01:11.291345+00:00", 6582, "Your mother is", "user-friendly", "Similar to: easy", "Definition: easy to use", ""]}
+{"data": ["2022-11-05T19:01:13.189471+00:00", 6583, "Your mother is", "sobering", "Pronunciation: /\u02c8so\u028ab\u025dr\u026a\u014b/", "Definition: tending to make sober or more serious", ""]}
