@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T02:00:46.594171+00:00", 6566, "Your mother is", "cleft", "Pronunciation: /kl\u025bft/", "Definition: having one or more indentations reaching nearly to the midrib", "Synonyms: dissected"]}
+{"data": ["2022-11-05T03:00:18.898504+00:00", 6567, "Your mother is", "determining", "Pronunciation: /d\u026a\u02c8t\u025drm\u028cn\u026a\u014b/", "Definition: having the power or quality of deciding", "Synonyms: deciding, determinant, determinative"]}
