@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T17:00:38.097670+00:00", 6581, "Your mother is", "unhoped-for", "Pronunciation: /\u0259n\u02c8ho\u028apt-\u02ccf\u0254r/", "Definition: so unexpected as to have not been imagined", "Synonyms: unhoped, unthought, unthought-of"]}
+{"data": ["2022-11-05T18:01:11.291345+00:00", 6582, "Your mother is", "user-friendly", "Similar to: easy", "Definition: easy to use", ""]}
