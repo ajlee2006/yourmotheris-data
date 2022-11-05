@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T12:01:20.592740+00:00", 6576, "Your mother is", "other", "Pronunciation: /\u02c8\u0259\u00f0\u0259r/", "Definition: belonging to the distant past", "Synonyms: early, former"]}
+{"data": ["2022-11-05T13:00:31.181176+00:00", 6577, "Your mother is", "comfortless", "Pronunciation: /\u02c8k\u0259mf\u0259tl\u025bs/", "Definition: without comfort", ""]}
