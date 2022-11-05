@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T07:01:01.413678+00:00", 6571, "Your mother is", "blockheaded", "Similar to: stupid", "Definition: (used informally) stupid", "Synonyms: boneheaded, duncical, duncish, fatheaded, loggerheaded, thick, thick-skulled, thickheaded, wooden-headed"]}
+{"data": ["2022-11-05T08:02:14.869795+00:00", 6572, "Your mother is", "18", "Similar to: cardinal", "Definition: being one more than seventeen", "Synonyms: eighteen, xviii"]}
