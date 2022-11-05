@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T22:01:27.494366+00:00", 6586, "Your mother is", "lukewarm", "Pronunciation: /\u02c8luk\u02c8w\u0254rm/", "Definition: moderately warm", "Synonyms: tepid"]}
+{"data": ["2022-11-05T23:01:45.447818+00:00", 6587, "Your mother is", "interbred", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8br\u025bd/", "Definition: bred of closely related parents", ""]}
