@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T15:01:06.250188+00:00", 6579, "Your mother is", "self-seeded", "Similar to: planted", "Definition: growing from seed dispersed by natural agency such as wind or birds", "Synonyms: self-sowed, self-sown"]}
+{"data": ["2022-11-05T16:00:55.590786+00:00", 6580, "Your mother is", "wigged", "Similar to: periwigged", "Definition: wearing a wig", ""]}
