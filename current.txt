@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T08:02:14.869795+00:00", 6572, "Your mother is", "18", "Similar to: cardinal", "Definition: being one more than seventeen", "Synonyms: eighteen, xviii"]}
+{"data": ["2022-11-05T09:01:13.123603+00:00", 6573, "Your mother is", "adulterated", "Pronunciation: /\u028c\u02c8d\u028clt\u025dr\u02cce\u026at\u026ad/", "Definition: mixed with impurities", "Synonyms: adulterate, debased"]}
