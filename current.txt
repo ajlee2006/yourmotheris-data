@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T04:01:02.144261+00:00", 6568, "Your mother is", "unsuspecting", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8sp\u025bkti\u014b/", "Definition: not suspicious", "Synonyms: unsuspicious"]}
+{"data": ["2022-11-05T05:01:18.238459+00:00", 6569, "Your mother is", "misunderstood", "Pronunciation: /\u02ccm\u026as\u0259nd\u0259r\u02c8st\u028ad/", "Definition: wrongly understood", ""]}
