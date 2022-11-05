@@ -1,1 +1,1 @@
-{"data": ["2022-11-05T00:01:42.888197+00:00", 6564, "Your mother is", "garbled", "Pronunciation: /\u02c8\u0261\u0251rb\u028cld/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, illogical, scattered, unconnected"]}
+{"data": ["2022-11-05T01:01:10.264024+00:00", 6565, "Your mother is", "smothering", "Pronunciation: /\u02c8sm\u028c\u00f0\u025dr\u026a\u014b/", "Definition: causing difficulty in breathing especially through lack of fresh air and presence of heat", "Synonyms: suffocating, suffocative"]}
