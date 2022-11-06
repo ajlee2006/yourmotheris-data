@@ -1,1 +1,1 @@
-{"data": ["2022-11-06T15:00:42.633795+00:00", 6603, "Your mother is", "flat", "Pronunciation: /fl\u00e6t/", "Definition: lacking the expected range or depth; not designed to give an illusion or depth", "Synonyms: 2-dimensional, two-dimensional"]}
+{"data": ["2022-11-06T16:01:07.870687+00:00", 6604, "Your mother is", "goddamned", "Pronunciation: /\u02c8\u0261\u0251d\u02c8d\u00e6md/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blasted, blessed, damn, damned, darned, deuced, goddam, goddamn, infernal"]}
