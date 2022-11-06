@@ -1,1 +1,1 @@
-{"data": ["2022-11-06T12:01:40.891459+00:00", 6600, "Your mother is", "hieroglyphic", "Pronunciation: /\u02ccha\u026a\u0259r\u0259\u02c8gl\u026af\u026ak/", "Definition: resembling hieroglyphic writing", "Synonyms: hieroglyphical"]}
+{"data": ["2022-11-06T13:01:03.733945+00:00", 6601, "Your mother is", "offsides", "", "Definition: illegally beyond a prescribed line or area or ahead of the ball or puck", "Synonyms: offside"]}
