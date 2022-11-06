@@ -1,1 +1,1 @@
-{"data": ["2022-11-06T16:01:07.870687+00:00", 6604, "Your mother is", "goddamned", "Pronunciation: /\u02c8\u0261\u0251d\u02c8d\u00e6md/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blasted, blessed, damn, damned, darned, deuced, goddam, goddamn, infernal"]}
+{"data": ["2022-11-06T17:01:18.479185+00:00", 6605, "Your mother is", "unshaven", "Pronunciation: /\u0259n\u02c8\u0283e\u026av\u0259n/", "Definition: not shaved", "Synonyms: unshaved"]}
