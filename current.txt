@@ -1,1 +1,1 @@
-{"data": ["2022-11-06T00:02:28.924124+00:00", 6588, "Your mother is", "distinguishable", "Pronunciation: /d\u026a\u02c8st\u026a\u014b\u0261w\u026a\u0283\u028cb\u028cl/", "Definition: (often followed by `from') not alike; different in nature or quality", "Synonyms: distinct"]}
+{"data": ["2022-11-06T01:00:47.090946+00:00", 6589, "Your mother is", "frosted", "Pronunciation: /\u02c8fr\u0254st\u026ad/", "Definition: (of glass) having a roughened coating resembling frost", ""]}
