@@ -1,1 +1,1 @@
-{"data": ["2022-11-06T06:00:54.783893+00:00", 6594, "Your mother is", "basal", "Pronunciation: /\u02c8be\u026as\u0259l/", "Definition: especially of leaves; located at the base of a plant or stem; especially arising directly from the root or rootstock or a root-like stem", "Synonyms: radical"]}
+{"data": ["2022-11-06T07:00:50.003504+00:00", 6595, "Your mother is", "iterative", "Pronunciation: /\u02c8\u026at\u0259\u02ccre\u026at\u026av/", "Definition: marked by iteration", "Synonyms: reiterative"]}
