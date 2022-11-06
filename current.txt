@@ -1,1 +1,1 @@
-{"data": ["2022-11-06T14:01:06.979158+00:00", 6602, "Your mother is", "insurrectional", "", "Definition: of or relating to or given to insurrection", "Synonyms: insurrectionary"]}
+{"data": ["2022-11-06T15:00:42.633795+00:00", 6603, "Your mother is", "flat", "Pronunciation: /fl\u00e6t/", "Definition: lacking the expected range or depth; not designed to give an illusion or depth", "Synonyms: 2-dimensional, two-dimensional"]}
