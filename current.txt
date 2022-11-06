@@ -1,1 +1,1 @@
-{"data": ["2022-11-06T17:01:18.479185+00:00", 6605, "Your mother is", "unshaven", "Pronunciation: /\u0259n\u02c8\u0283e\u026av\u0259n/", "Definition: not shaved", "Synonyms: unshaved"]}
+{"data": ["2022-11-06T18:01:34.686237+00:00", 6606, "Your mother is", "accommodating", "Pronunciation: /\u0259\u02c8k\u0251m\u0259\u02ccde\u026at\u026a\u014b/", "Definition: helpful in bringing about a harmonious adaptation", "Synonyms: accommodative"]}
