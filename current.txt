@@ -1,1 +1,1 @@
-{"data": ["2022-11-06T07:00:50.003504+00:00", 6595, "Your mother is", "iterative", "Pronunciation: /\u02c8\u026at\u0259\u02ccre\u026at\u026av/", "Definition: marked by iteration", "Synonyms: reiterative"]}
+{"data": ["2022-11-06T08:00:44.231422+00:00", 6596, "Your mother is", "scummy", "Pronunciation: /\u02c8sk\u0259mi/", "Definition: of the most contemptible kind", "Synonyms: abject, low, low-down, miserable, scurvy"]}
