@@ -1,1 +1,1 @@
-{"data": ["2022-11-06T10:00:23.932312+00:00", 6598, "Your mother is", "two-party", "Pronunciation: /tu-\u02c8p\u0251rti/", "Definition: supported by both sides", "Synonyms: bipartisan, bipartizan, two-way"]}
+{"data": ["2022-11-06T11:01:19.469482+00:00", 6599, "Your mother is", "lawfully-begotten", "Similar to: legitimate", "Definition: born in wedlock; enjoying full filial rights", ""]}
