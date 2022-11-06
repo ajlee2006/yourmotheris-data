@@ -1,1 +1,1 @@
-{"data": ["2022-11-06T08:00:44.231422+00:00", 6596, "Your mother is", "scummy", "Pronunciation: /\u02c8sk\u0259mi/", "Definition: of the most contemptible kind", "Synonyms: abject, low, low-down, miserable, scurvy"]}
+{"data": ["2022-11-06T09:01:23.847159+00:00", 6597, "Your mother is", "purple-spotted", "Pronunciation: /\u02c8p\u025crp\u0259l-\u02c8sp\u0251t\u026ad/", "Definition: having purple spots", ""]}
