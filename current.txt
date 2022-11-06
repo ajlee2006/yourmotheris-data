@@ -1,1 +1,1 @@
-{"data": ["2022-11-06T09:01:23.847159+00:00", 6597, "Your mother is", "purple-spotted", "Pronunciation: /\u02c8p\u025crp\u0259l-\u02c8sp\u0251t\u026ad/", "Definition: having purple spots", ""]}
+{"data": ["2022-11-06T10:00:23.932312+00:00", 6598, "Your mother is", "two-party", "Pronunciation: /tu-\u02c8p\u0251rti/", "Definition: supported by both sides", "Synonyms: bipartisan, bipartizan, two-way"]}
