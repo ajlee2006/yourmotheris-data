@@ -1,1 +1,1 @@
-{"data": ["2022-11-06T04:01:11.972401+00:00", 6592, "Your mother is", "unexpired", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8spa\u026a\u0259d/", "Definition: not having come to an end or been terminated by passage of time", ""]}
+{"data": ["2022-11-06T05:02:03.956366+00:00", 6593, "Your mother is", "life-and-death", "Pronunciation: /\u02c8la\u026af\u0259n-\u02c8d\u025b\u03b8/", "Definition: vitally important", "Synonyms: life-or-death"]}
