@@ -1,1 +1,1 @@
-{"data": ["2022-11-07T04:01:49.623162+00:00", 6616, "Your mother is", "graceless", "Pronunciation: /\u02c8gre\u026asl\u026as/", "Definition: lacking grace; clumsy", "Synonyms: ungraceful"]}
+{"data": ["2022-11-07T05:00:55.677159+00:00", 6617, "Your mother is", "sensory", "Pronunciation: /\u02c8s\u025bns\u0259ri/", "Definition: relating to or concerned in sensation", "Synonyms: sensational"]}
