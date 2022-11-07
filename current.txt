@@ -1,1 +1,1 @@
-{"data": ["2022-11-07T11:00:14.477662+00:00", 6623, "Your mother is", "sardonic", "Pronunciation: /s\u0251r\u02c8d\u0251n\u026ak/", "Definition: disdainfully or ironically humorous; scornful and mocking", "Synonyms: snarky"]}
+{"data": ["2022-11-07T12:01:08.286512+00:00", 6624, "Your mother is", "genitourinary", "Pronunciation: /\u02ccd\u0292\u025bn\u026ato\u028a\u02c8j\u028ar\u0259\u02ccn\u025bri/", "Definition: of or related to the genital and urinary organs or their functions", "Synonyms: gu"]}
