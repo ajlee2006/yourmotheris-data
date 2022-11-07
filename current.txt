@@ -1,1 +1,1 @@
-{"data": ["2022-11-07T03:00:48.005908+00:00", 6615, "Your mother is", "roly-poly", "Similar to: fat", "Definition: short and plump", "Synonyms: dumpy, podgy, pudgy, tubby"]}
+{"data": ["2022-11-07T04:01:49.623162+00:00", 6616, "Your mother is", "graceless", "Pronunciation: /\u02c8gre\u026asl\u026as/", "Definition: lacking grace; clumsy", "Synonyms: ungraceful"]}
