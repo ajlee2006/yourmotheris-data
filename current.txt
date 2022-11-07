@@ -1,1 +1,1 @@
-{"data": ["2022-11-07T17:00:37.465663+00:00", 6629, "Your mother is", "kitty-corner", "Pronunciation: /\u02c8k\u026ati-\u02c8k\u0254rn\u0259r/", "Definition: slanted across a polygon on a diagonal line", "Synonyms: cata-cornered, catacorner, cater-cornered, catercorner, catty-corner, catty-cornered, kitty-cornered"]}
+{"data": ["2022-11-07T18:01:06.104183+00:00", 6630, "Your mother is", "nonextant", "Similar to: dead", "Definition: no longer in existence; lost or especially having died out leaving no living representatives", "Synonyms: extinct"]}
