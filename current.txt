@@ -1,1 +1,1 @@
-{"data": ["2022-11-06T23:00:49.351555+00:00", 6611, "Your mother is", "unexpected", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8sp\u025bkt\u026ad/", "Definition: not expected or anticipated", ""]}
+{"data": ["2022-11-07T00:01:43.797838+00:00", 6612, "Your mother is", "discourteous", "Pronunciation: /d\u026as\u02c8k\u025crti\u0259s/", "Definition: lacking social graces", "Synonyms: ungracious"]}
