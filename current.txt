@@ -1,1 +1,1 @@
-{"data": ["2022-11-07T21:00:32.927824+00:00", 6633, "Your mother is", "cheery", "Pronunciation: /\u02c8\u02a7iri/", "Definition: bright and pleasant; promoting a feeling of cheer", "Synonyms: gay, sunny"]}
+{"data": ["2022-11-07T22:01:40.748900+00:00", 6634, "Your mother is", "focused", "Pronunciation: /\u02c8fo\u028ak\u028cst/", "Definition: being in focus or brought into focus", "Synonyms: focussed"]}
