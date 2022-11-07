@@ -1,1 +1,1 @@
-{"data": ["2022-11-07T20:00:16.011439+00:00", 6632, "Your mother is", "starting", "Pronunciation: /\u02c8st\u0251rti\u014b/", "Definition: appropriate to the beginning or start of an event", ""]}
+{"data": ["2022-11-07T21:00:32.927824+00:00", 6633, "Your mother is", "cheery", "Pronunciation: /\u02c8\u02a7iri/", "Definition: bright and pleasant; promoting a feeling of cheer", "Synonyms: gay, sunny"]}
