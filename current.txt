@@ -1,1 +1,1 @@
-{"data": ["2022-11-07T06:01:50.980861+00:00", 6618, "Your mother is", "lowermost", "Pronunciation: /\u02c8lo\u028a\u0259r\u02ccmo\u028ast/", "Definition: farthest down", "Synonyms: bottommost, nethermost"]}
+{"data": ["2022-11-07T07:00:46.141149+00:00", 6619, "Your mother is", "lite", "Pronunciation: /la\u026at/", "Definition: having relatively few calories", "Synonyms: calorie-free, light, low-cal"]}
