@@ -1,1 +1,1 @@
-{"data": ["2022-11-07T18:01:06.104183+00:00", 6630, "Your mother is", "nonextant", "Similar to: dead", "Definition: no longer in existence; lost or especially having died out leaving no living representatives", "Synonyms: extinct"]}
+{"data": ["2022-11-07T19:00:45.936847+00:00", 6631, "Your mother is", "defunct", "Pronunciation: /d\u026a\u02c8f\u0259\u014bkt/", "Definition: having ceased to exist or live", ""]}
