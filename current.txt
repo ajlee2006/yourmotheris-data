@@ -1,1 +1,1 @@
-{"data": ["2022-11-07T15:01:49.211215+00:00", 6627, "Your mother is", "dextrorotatory", "Pronunciation: /\u02ccd\u025bkstro\u028a\u02c8ro\u028a\u02cct\u0259to\u028ari/", "Definition: rotating to the right", "Synonyms: dextrorotary, right-handed"]}
+{"data": ["2022-11-07T16:01:18.791239+00:00", 6628, "Your mother is", "penurious", "Pronunciation: /p\u026a\u02c8nj\u028a\u0259ri\u0259s/", "Definition: not having enough money to pay for necessities", "Synonyms: hard up, impecunious, in straitened circumstances, penniless, pinched"]}
