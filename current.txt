@@ -1,1 +1,1 @@
-{"data": ["2022-11-07T10:01:20.879163+00:00", 6622, "Your mother is", "amentaceous", "Pronunciation: /\u02cc\u00e6m\u0259n\u02c8te\u026a\u0283\u0259s/", "Definition: (of plants) bearing or characterized by aments or catkins", "Synonyms: amentiferous"]}
+{"data": ["2022-11-07T11:00:14.477662+00:00", 6623, "Your mother is", "sardonic", "Pronunciation: /s\u0251r\u02c8d\u0251n\u026ak/", "Definition: disdainfully or ironically humorous; scornful and mocking", "Synonyms: snarky"]}
