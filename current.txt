@@ -1,1 +1,1 @@
-{"data": ["2022-11-07T22:01:40.748900+00:00", 6634, "Your mother is", "focused", "Pronunciation: /\u02c8fo\u028ak\u028cst/", "Definition: being in focus or brought into focus", "Synonyms: focussed"]}
+{"data": ["2022-11-07T23:00:59.062056+00:00", 6635, "Your mother is", "coaxal", "Pronunciation: /ko\u028a\u02c8\u00e6ks\u0259l/", "Definition: having a common axis", "Synonyms: coaxial"]}
