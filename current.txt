@@ -1,1 +1,1 @@
-{"data": ["2022-11-07T19:00:45.936847+00:00", 6631, "Your mother is", "defunct", "Pronunciation: /d\u026a\u02c8f\u0259\u014bkt/", "Definition: having ceased to exist or live", ""]}
+{"data": ["2022-11-07T20:00:16.011439+00:00", 6632, "Your mother is", "starting", "Pronunciation: /\u02c8st\u0251rti\u014b/", "Definition: appropriate to the beginning or start of an event", ""]}
