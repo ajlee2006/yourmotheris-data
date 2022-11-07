@@ -1,1 +1,1 @@
-{"data": ["2022-11-07T14:01:46.564748+00:00", 6626, "Your mother is", "silver-scaled", "Similar to: armored", "Definition: having the body covered or partially covered with silver-colored scales", ""]}
+{"data": ["2022-11-07T15:01:49.211215+00:00", 6627, "Your mother is", "dextrorotatory", "Pronunciation: /\u02ccd\u025bkstro\u028a\u02c8ro\u028a\u02cct\u0259to\u028ari/", "Definition: rotating to the right", "Synonyms: dextrorotary, right-handed"]}
