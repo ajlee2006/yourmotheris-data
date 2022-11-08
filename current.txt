@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T04:00:59.606802+00:00", 6640, "Your mother is", "raspberry-red", "Similar to: chromatic", "Definition: of the red of fresh raspberries", "Synonyms: bright-red"]}
+{"data": ["2022-11-08T05:00:50.735554+00:00", 6641, "Your mother is", "fat-free", "Pronunciation: /f\u00e6t-fri/", "Definition: without fat or fat solids", "Synonyms: fatless, nonfat"]}
