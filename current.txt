@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T09:01:44.043594+00:00", 6645, "Your mother is", "malapropos", "Pronunciation: /\u02ccm\u00e6l\u00e6pr\u0259\u02c8po\u028a/", "Definition: of an inappropriate or incorrectly applied nature", ""]}
+{"data": ["2022-11-08T10:00:41.088332+00:00", 6646, "Your mother is", "bran-new", "Pronunciation: /\u02c8br\u00e6n\u02c8nu/", "Definition: conspicuously new", "Synonyms: brand-new, spic-and-span, spick-and-span"]}
