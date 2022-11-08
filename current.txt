@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T01:01:28.271783+00:00", 6637, "Your mother is", "tiddly", "Similar to: drunk", "Definition: slightly intoxicated", "Synonyms: potty, tipsy"]}
+{"data": ["2022-11-08T02:01:08.346402+00:00", 6638, "Your mother is", "black-and-tan", "Pronunciation: /\u02c8bl\u00e6k\u0259n\u02c8t\u00e6n/", "Definition: having a pattern of black and tan", ""]}
