@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T07:00:49.350531+00:00", 6643, "Your mother is", "confirmed", "Pronunciation: /k\u0259n\u02c8f\u025crmd/", "Definition: having been established or made firm or received the rite of confirmation", ""]}
+{"data": ["2022-11-08T08:02:02.596934+00:00", 6644, "Your mother is", "subliminal", "Pronunciation: /s\u0259b\u02c8l\u026am\u0259n\u0259l/", "Definition: below the threshold of conscious perception", ""]}
