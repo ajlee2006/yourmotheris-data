@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T17:01:34.587254+00:00", 6653, "Your mother is", "linear", "Pronunciation: /\u02c8l\u026ani\u0259r/", "Definition: designating or involving an equation whose terms are of the first degree", "Synonyms: additive"]}
+{"data": ["2022-11-08T18:01:13.429371+00:00", 6654, "Your mother is", "alienating", "Pronunciation: /\u02c8e\u026ali\u028c\u02ccne\u026at\u026a\u014b/", "Definition: causing hostility or loss of friendliness", ""]}
