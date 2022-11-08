@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T18:01:13.429371+00:00", 6654, "Your mother is", "alienating", "Pronunciation: /\u02c8e\u026ali\u028c\u02ccne\u026at\u026a\u014b/", "Definition: causing hostility or loss of friendliness", ""]}
+{"data": ["2022-11-08T19:00:44.938615+00:00", 6655, "Your mother is", "pederastic", "", "Definition: of homosexuality between a man and a boy", "Synonyms: paederastic"]}
