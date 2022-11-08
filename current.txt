@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T11:01:02.654094+00:00", 6647, "Your mother is", "monolithic", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8l\u026a\u03b8\u026ak/", "Definition: imposing in size or bulk or solidity", "Synonyms: massive, monumental"]}
+{"data": ["2022-11-08T12:01:12.494929+00:00", 6648, "Your mother is", "broad-brimmed", "Similar to: broad", "Definition: (of hats) having a broad brim", ""]}
