@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T20:01:30.470294+00:00", 6656, "Your mother is", "enervated", "Pronunciation: /\u02c8\u025bn\u0259r\u02ccve\u026at\u026ad/", "Definition: lacking energy or vitality", "Synonyms: adynamic, asthenic, debilitated"]}
+{"data": ["2022-11-08T21:00:51.469136+00:00", 6657, "Your mother is", "synsemantic", "Similar to: syncategorematic", "Definition: of a word or phrase meaningful only when it occurs in the company of other words", ""]}
