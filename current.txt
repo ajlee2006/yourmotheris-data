@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T12:01:12.494929+00:00", 6648, "Your mother is", "broad-brimmed", "Similar to: broad", "Definition: (of hats) having a broad brim", ""]}
+{"data": ["2022-11-08T13:00:50.720873+00:00", 6649, "Your mother is", "belly-up", "Similar to: insolvent", "Definition: financially ruined", "Synonyms: bankrupt"]}
