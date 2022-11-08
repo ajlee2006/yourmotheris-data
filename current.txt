@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T21:00:51.469136+00:00", 6657, "Your mother is", "synsemantic", "Similar to: syncategorematic", "Definition: of a word or phrase meaningful only when it occurs in the company of other words", ""]}
+{"data": ["2022-11-08T22:01:10.299641+00:00", 6658, "Your mother is", "wooly-minded", "Similar to: confused", "Definition: confused and vague; used especially of thinking", "Synonyms: addled, befuddled, muddled, muzzy, woolly, woolly-headed, wooly"]}
