@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T06:01:45.229448+00:00", 6642, "Your mother is", "best-selling", "Pronunciation: /b\u025bst-\u02c8s\u025bl\u026a\u014b/", "Definition: selling in great numbers", ""]}
+{"data": ["2022-11-08T07:00:49.350531+00:00", 6643, "Your mother is", "confirmed", "Pronunciation: /k\u0259n\u02c8f\u025crmd/", "Definition: having been established or made firm or received the rite of confirmation", ""]}
