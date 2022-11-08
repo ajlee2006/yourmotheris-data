@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T15:00:51.585533+00:00", 6651, "Your mother is", "banal", "Pronunciation: /\u02c8be\u026an\u0259l/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, tired, trite, well-worn"]}
+{"data": ["2022-11-08T16:01:35.172396+00:00", 6652, "Your mother is", "chiliastic", "", "Definition: relating to or believing in the millennium of peace and happiness", "Synonyms: millenarian"]}
