@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T08:02:02.596934+00:00", 6644, "Your mother is", "subliminal", "Pronunciation: /s\u0259b\u02c8l\u026am\u0259n\u0259l/", "Definition: below the threshold of conscious perception", ""]}
+{"data": ["2022-11-08T09:01:44.043594+00:00", 6645, "Your mother is", "malapropos", "Pronunciation: /\u02ccm\u00e6l\u00e6pr\u0259\u02c8po\u028a/", "Definition: of an inappropriate or incorrectly applied nature", ""]}
