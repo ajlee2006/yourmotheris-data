@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T02:01:08.346402+00:00", 6638, "Your mother is", "black-and-tan", "Pronunciation: /\u02c8bl\u00e6k\u0259n\u02c8t\u00e6n/", "Definition: having a pattern of black and tan", ""]}
+{"data": ["2022-11-08T03:01:13.154833+00:00", 6639, "Your mother is", "trussed", "Pronunciation: /tr\u0259st/", "Definition: bound or secured closely", "Synonyms: tied"]}
