@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T10:00:41.088332+00:00", 6646, "Your mother is", "bran-new", "Pronunciation: /\u02c8br\u00e6n\u02c8nu/", "Definition: conspicuously new", "Synonyms: brand-new, spic-and-span, spick-and-span"]}
+{"data": ["2022-11-08T11:01:02.654094+00:00", 6647, "Your mother is", "monolithic", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8l\u026a\u03b8\u026ak/", "Definition: imposing in size or bulk or solidity", "Synonyms: massive, monumental"]}
