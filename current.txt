@@ -1,1 +1,1 @@
-{"data": ["2022-11-08T05:00:50.735554+00:00", 6641, "Your mother is", "fat-free", "Pronunciation: /f\u00e6t-fri/", "Definition: without fat or fat solids", "Synonyms: fatless, nonfat"]}
+{"data": ["2022-11-08T06:01:45.229448+00:00", 6642, "Your mother is", "best-selling", "Pronunciation: /b\u025bst-\u02c8s\u025bl\u026a\u014b/", "Definition: selling in great numbers", ""]}
