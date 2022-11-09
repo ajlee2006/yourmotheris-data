@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T01:01:17.360878+00:00", 6661, "Your mother is", "calumnious", "Pronunciation: /k\u0259\u02c8l\u0259mni\u0259s/", "Definition: (used of statements) harmful and often untrue; tending to discredit or malign", "Synonyms: calumniatory, defamatory, denigrating, denigrative, denigratory, libellous, libelous, slanderous"]}
+{"data": ["2022-11-09T02:01:51.167370+00:00", 6662, "Your mother is", "tragicomic", "Pronunciation: /\u02cctr\u00e6d\u0292\u026a\u02c8k\u0251m\u026ak/", "Definition: manifesting both tragic and comic aspects", "Synonyms: tragicomical"]}
