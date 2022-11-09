@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T08:01:45.836710+00:00", 6668, "Your mother is", "drum-like", "Similar to: formed", "Definition: shaped in a form resembling a drum", "Synonyms: drum-shaped"]}
+{"data": ["2022-11-09T09:02:17.322687+00:00", 6669, "Your mother is", "centenarian", "Pronunciation: /\u02ccs\u025bn\u02c8t\u0259n\u025cri\u0259n/", "Definition: being at least 100 years old", ""]}
