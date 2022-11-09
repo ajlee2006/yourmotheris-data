@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T13:01:13.932906+00:00", 6673, "Your mother is", "throaty", "Pronunciation: /\u02c8\u03b8ro\u028ati/", "Definition: sounding as if pronounced low in the throat", ""]}
+{"data": ["2022-11-09T14:00:47.865547+00:00", 6674, "Your mother is", "east", "Pronunciation: /ist/", "Definition: situated in or facing or moving toward the east", ""]}
