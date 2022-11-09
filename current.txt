@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T17:00:53.109448+00:00", 6677, "Your mother is", "ceremonious", "Pronunciation: /\u02ccs\u025br\u0259\u02c8mo\u028ani\u0259s/", "Definition: rigidly formal or bound by convention", "Synonyms: conventional"]}
+{"data": ["2022-11-09T18:00:43.521192+00:00", 6678, "Your mother is", "comprehendible", "Pronunciation: /\u02cck\u0251mpr\u026a\u02c8h\u025bnd\u0259b\u0259l/", "Definition: capable of being comprehended or understood", "Synonyms: comprehensible"]}
