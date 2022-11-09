@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T14:00:47.865547+00:00", 6674, "Your mother is", "east", "Pronunciation: /ist/", "Definition: situated in or facing or moving toward the east", ""]}
+{"data": ["2022-11-09T15:01:14.375807+00:00", 6675, "Your mother is", "recognisable", "Similar to: identifiable", "Definition: capable of being recognized", "Synonyms: placeable, recognizable"]}
