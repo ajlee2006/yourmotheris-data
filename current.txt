@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T21:01:09.116864+00:00", 6681, "Your mother is", "slurred", "Pronunciation: /sl\u025drd/", "Definition: spoken as if with a thick tongue", "Synonyms: thick"]}
+{"data": ["2022-11-09T22:00:58.248133+00:00", 6682, "Your mother is", "briefless", "Pronunciation: /\u02c8brifl\u026as/", "Definition: (of lawyers or barristers) lacking clients", ""]}
