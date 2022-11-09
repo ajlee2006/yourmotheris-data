@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T10:01:44.310488+00:00", 6670, "Your mother is", "slate-black", "Similar to: achromatic", "Definition: of a black tinged with slate-grey", ""]}
+{"data": ["2022-11-09T11:00:53.741846+00:00", 6671, "Your mother is", "cutaneal", "", "Definition: relating to or existing on or affecting the skin", "Synonyms: dermal, cutaneous"]}
