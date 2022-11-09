@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T22:00:58.248133+00:00", 6682, "Your mother is", "briefless", "Pronunciation: /\u02c8brifl\u026as/", "Definition: (of lawyers or barristers) lacking clients", ""]}
+{"data": ["2022-11-09T23:01:40.093670+00:00", 6683, "Your mother is", "modified", "Pronunciation: /\u02c8m\u0251d\u028c\u02ccfa\u026ad/", "Definition: mediocre", "Synonyms: limited"]}
