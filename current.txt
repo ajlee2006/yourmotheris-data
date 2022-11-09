@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T03:01:12.247530+00:00", 6663, "Your mother is", "hatched", "Pronunciation: /h\u00e6t\u0283t/", "Definition: shaded by means of fine parallel or crossed lines", "Synonyms: crosshatched"]}
+{"data": ["2022-11-09T04:01:36.518289+00:00", 6664, "Your mother is", "denunciatory", "Pronunciation: /d\u026a\u02c8n\u0259nsi\u0259\u02ccto\u028ari/", "Definition: containing warning of punishment", "Synonyms: comminatory, denunciative"]}
