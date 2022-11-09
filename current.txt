@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T20:00:44.456722+00:00", 6680, "Your mother is", "dry-shod", "Pronunciation: /dra\u026a-\u0283\u0251d/", "Definition: having or keeping the feet or shoes dry", ""]}
+{"data": ["2022-11-09T21:01:09.116864+00:00", 6681, "Your mother is", "slurred", "Pronunciation: /sl\u025drd/", "Definition: spoken as if with a thick tongue", "Synonyms: thick"]}
