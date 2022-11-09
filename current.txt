@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T05:01:04.108841+00:00", 6665, "Your mother is", "frumpish", "Pronunciation: /\u02c8fr\u0259mp\u026a\u0283/", "Definition: primly out of date", "Synonyms: dowdy, frumpy"]}
+{"data": ["2022-11-09T06:00:52.540873+00:00", 6666, "Your mother is", "sizable", "Pronunciation: /\u02c8sa\u026az\u0259b\u0259l/", "Definition: fairly large in size", "Synonyms: ample, sizeable"]}
