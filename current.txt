@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T16:00:52.801305+00:00", 6676, "Your mother is", "unhatched", "Pronunciation: /\u0259n\u02c8h\u00e6t\u0283t/", "Definition: not yet emerged from an egg", ""]}
+{"data": ["2022-11-09T17:00:53.109448+00:00", 6677, "Your mother is", "ceremonious", "Pronunciation: /\u02ccs\u025br\u0259\u02c8mo\u028ani\u0259s/", "Definition: rigidly formal or bound by convention", "Synonyms: conventional"]}
