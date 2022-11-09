@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T11:00:53.741846+00:00", 6671, "Your mother is", "cutaneal", "", "Definition: relating to or existing on or affecting the skin", "Synonyms: dermal, cutaneous"]}
+{"data": ["2022-11-09T12:00:16.510844+00:00", 6672, "Your mother is", "corticifugal", "Similar to: efferent", "Definition: of a nerve fiber passing outward from the cerebral cortex", "Synonyms: corticoefferent, corticofugal"]}
