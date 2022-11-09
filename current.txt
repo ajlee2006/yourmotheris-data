@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T07:01:29.034446+00:00", 6667, "Your mother is", "spirited", "Pronunciation: /\u02c8sp\u026ar\u026at\u026ad/", "Definition: made lively or spirited", "Synonyms: enlivened"]}
+{"data": ["2022-11-09T08:01:45.836710+00:00", 6668, "Your mother is", "drum-like", "Similar to: formed", "Definition: shaped in a form resembling a drum", "Synonyms: drum-shaped"]}
