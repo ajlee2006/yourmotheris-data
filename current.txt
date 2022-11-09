@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T18:00:43.521192+00:00", 6678, "Your mother is", "comprehendible", "Pronunciation: /\u02cck\u0251mpr\u026a\u02c8h\u025bnd\u0259b\u0259l/", "Definition: capable of being comprehended or understood", "Synonyms: comprehensible"]}
+{"data": ["2022-11-09T19:01:34.639163+00:00", 6679, "Your mother is", "well-wishing", "Similar to: felicitous", "Definition: extending good wishes for success", ""]}
