@@ -1,1 +1,1 @@
-{"data": ["2022-11-10T06:00:38.175167+00:00", 6690, "Your mother is", "paranoid", "Pronunciation: /\u02c8p\u00e6r\u0259n\u0254\u026ad/", "Definition: suffering from paranoia", ""]}
+{"data": ["2022-11-10T07:00:43.735956+00:00", 6691, "Your mother is", "gangrenous", "Pronunciation: /\u02c8\u0261\u00e6\u014bgr\u0259n\u0259s/", "Definition: suffering from tissue death", "Synonyms: mortified"]}
