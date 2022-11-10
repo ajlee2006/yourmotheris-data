@@ -1,1 +1,1 @@
-{"data": ["2022-11-10T11:01:22.184375+00:00", 6695, "Your mother is", "servo", "Pronunciation: /\u02c8s\u025crvo\u028a/", "Definition: of or involving servomechanisms", "Synonyms: servomechanical"]}
+{"data": ["2022-11-10T12:01:47.863625+00:00", 6696, "Your mother is", "socialist", "Pronunciation: /\u02c8so\u028a\u0283\u028cl\u028cst/", "Definition: advocating or following the socialist principles", "Synonyms: socialistic"]}
