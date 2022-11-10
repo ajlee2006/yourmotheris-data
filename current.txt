@@ -1,1 +1,1 @@
-{"data": ["2022-11-10T10:00:28.866074+00:00", 6694, "Your mother is", "membered", "Pronunciation: /\u02c8m\u025bmb\u025drd/", "Definition: having members; normally used in chemistry in combination with a number", ""]}
+{"data": ["2022-11-10T11:01:22.184375+00:00", 6695, "Your mother is", "servo", "Pronunciation: /\u02c8s\u025crvo\u028a/", "Definition: of or involving servomechanisms", "Synonyms: servomechanical"]}
