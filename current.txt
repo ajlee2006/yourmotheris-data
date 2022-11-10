@@ -1,1 +1,1 @@
-{"data": ["2022-11-10T03:02:03.777447+00:00", 6687, "Your mother is", "lapsed", "Pronunciation: /l\u00e6pst/", "Definition: no longer active or practicing", "Synonyms: nonchurchgoing"]}
+{"data": ["2022-11-10T04:00:42.234409+00:00", 6688, "Your mother is", "pint-sized", "Pronunciation: /pa\u026ant-sa\u026azd/", "Definition: well below average height", "Synonyms: pint-size, runty, sawed-off, sawn-off"]}
