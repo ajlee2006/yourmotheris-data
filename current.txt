@@ -1,1 +1,1 @@
-{"data": ["2022-11-10T05:01:27.129847+00:00", 6689, "Your mother is", "chestnut-colored", "Pronunciation: /\u02c8\u02a7\u025bs\u02ccn\u0259t-\u02c8k\u0259l\u0259rd/", "Definition: having the brown color of chestnuts", "Synonyms: chestnut-coloured"]}
+{"data": ["2022-11-10T06:00:38.175167+00:00", 6690, "Your mother is", "paranoid", "Pronunciation: /\u02c8p\u00e6r\u0259n\u0254\u026ad/", "Definition: suffering from paranoia", ""]}
