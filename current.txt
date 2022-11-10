@@ -1,1 +1,1 @@
-{"data": ["2022-11-10T09:01:34.507098+00:00", 6693, "Your mother is", "limpid", "Pronunciation: /\u02c8l\u026amp\u026ad/", "Definition: clear and bright", "Synonyms: liquid"]}
+{"data": ["2022-11-10T10:00:28.866074+00:00", 6694, "Your mother is", "membered", "Pronunciation: /\u02c8m\u025bmb\u025drd/", "Definition: having members; normally used in chemistry in combination with a number", ""]}
