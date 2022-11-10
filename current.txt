@@ -1,1 +1,1 @@
-{"data": ["2022-11-10T04:00:42.234409+00:00", 6688, "Your mother is", "pint-sized", "Pronunciation: /pa\u026ant-sa\u026azd/", "Definition: well below average height", "Synonyms: pint-size, runty, sawed-off, sawn-off"]}
+{"data": ["2022-11-10T05:01:27.129847+00:00", 6689, "Your mother is", "chestnut-colored", "Pronunciation: /\u02c8\u02a7\u025bs\u02ccn\u0259t-\u02c8k\u0259l\u0259rd/", "Definition: having the brown color of chestnuts", "Synonyms: chestnut-coloured"]}
