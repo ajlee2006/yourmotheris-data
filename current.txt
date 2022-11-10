@@ -1,1 +1,1 @@
-{"data": ["2022-11-10T17:01:15.424742+00:00", 6701, "Your mother is", "scurvy", "Pronunciation: /\u02c8sk\u025crvi/", "Definition: of the most contemptible kind", "Synonyms: abject, low, low-down, miserable, scummy"]}
+{"data": ["2022-11-10T18:01:21.255327+00:00", 6702, "Your mother is", "forlorn", "Pronunciation: /f\u0254r\u02c8l\u0254rn/", "Definition: marked by or showing hopelessness", ""]}
