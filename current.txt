@@ -1,1 +1,1 @@
-{"data": ["2022-11-10T07:00:43.735956+00:00", 6691, "Your mother is", "gangrenous", "Pronunciation: /\u02c8\u0261\u00e6\u014bgr\u0259n\u0259s/", "Definition: suffering from tissue death", "Synonyms: mortified"]}
+{"data": ["2022-11-10T08:01:23.870803+00:00", 6692, "Your mother is", "unharmonious", "Pronunciation: /\u02cc\u0259nh\u0251r\u02c8mo\u028ani\u0259s/", "Definition: not in harmony", "Synonyms: inharmonious"]}
