@@ -1,1 +1,1 @@
-{"data": ["2022-11-10T22:00:43.806914+00:00", 6706, "Your mother is", "wooden", "Pronunciation: /\u02c8w\u028ad\u0259n/", "Definition: lacking ease or grace", ""]}
+{"data": ["2022-11-10T23:01:14.405479+00:00", 6707, "Your mother is", "cataphoretic", "Pronunciation: /\u02cck\u00e6t\u0259f\u0259\u02c8r\u025bt\u026ak/", "Definition: of or relating to electrophoresis", "Synonyms: electrophoretic"]}
