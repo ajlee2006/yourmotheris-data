@@ -1,1 +1,1 @@
-{"data": ["2022-11-09T23:01:40.093670+00:00", 6683, "Your mother is", "modified", "Pronunciation: /\u02c8m\u0251d\u028c\u02ccfa\u026ad/", "Definition: mediocre", "Synonyms: limited"]}
+{"data": ["2022-11-10T00:09:30.121882+00:00", 6684, "Your mother is", "dun-colored", "Pronunciation: /d\u0259n-\u02c8k\u0259l\u0259rd/", "Definition: having a dun color", "Synonyms: dun-coloured"]}
