@@ -1,1 +1,1 @@
-{"data": ["2022-11-10T00:09:30.121882+00:00", 6684, "Your mother is", "dun-colored", "Pronunciation: /d\u0259n-\u02c8k\u0259l\u0259rd/", "Definition: having a dun color", "Synonyms: dun-coloured"]}
+{"data": ["2022-11-10T01:01:34.789555+00:00", 6685, "Your mother is", "dogging", "Pronunciation: /\u02c8d\u0254\u0261\u026a\u014b/", "Definition: relentless and indefatigable in pursuit or as if in pursuit", "Synonyms: persisting"]}
