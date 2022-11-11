@@ -1,1 +1,1 @@
-{"data": ["2022-11-11T09:00:49.286289+00:00", 6717, "Your mother is", "tiny", "Pronunciation: /\u02c8ta\u026ani/", "Definition: very small", "Synonyms: bantam, diminutive, flyspeck, lilliputian, midget, petite"]}
+{"data": ["2022-11-11T10:00:47.095577+00:00", 6718, "Your mother is", "casebook", "Pronunciation: /\u02c8ke\u026as\u02ccb\u028ak/", "Definition: according to or characteristic of a casebook or textbook; typical", "Synonyms: textbook"]}
