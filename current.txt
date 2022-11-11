@@ -1,1 +1,1 @@
-{"data": ["2022-11-11T18:01:09.464401+00:00", 6726, "Your mother is", "extendible", "Pronunciation: /\u02cc\u025bk\u02c8st\u025bnd\u026ab\u028cl/", "Definition: capable of being lengthened", "Synonyms: extendable"]}
+{"data": ["2022-11-11T19:00:17.430386+00:00", 6727, "Your mother is", "resupine", "Pronunciation: /\u02ccrisu\u02c8pa\u026an/", "Definition: lying face upward", "Synonyms: supine"]}
