@@ -1,1 +1,1 @@
-{"data": ["2022-11-11T13:00:43.981434+00:00", 6721, "Your mother is", "semiskilled", "Similar to: unskilled", "Definition: possessing or requiring limited skills", ""]}
+{"data": ["2022-11-11T14:00:24.378605+00:00", 6722, "Your mother is", "absurd", "Pronunciation: /\u00e6b\u02c8s\u025crd/", "Definition: so unreasonable as to invite derision", "Synonyms: cockeyed, derisory, idiotic, laughable, ludicrous, nonsensical, preposterous, ridiculous"]}
