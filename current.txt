@@ -1,1 +1,1 @@
-{"data": ["2022-11-11T17:01:07.101326+00:00", 6725, "Your mother is", "screwball", "Pronunciation: /\u02c8skrub\u0251l/", "Definition: foolish; totally unsound", "Synonyms: crazy, half-baked, softheaded"]}
+{"data": ["2022-11-11T18:01:09.464401+00:00", 6726, "Your mother is", "extendible", "Pronunciation: /\u02cc\u025bk\u02c8st\u025bnd\u026ab\u028cl/", "Definition: capable of being lengthened", "Synonyms: extendable"]}
