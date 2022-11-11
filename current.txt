@@ -1,1 +1,1 @@
-{"data": ["2022-11-11T00:01:50.434364+00:00", 6708, "Your mother is", "autophytic", "Pronunciation: /\u02cc\u0254t\u0259\u02c8f\u026at\u026ak/", "Definition: of or relating to organisms (as green plants) that can make complex organic nutritive compounds from simple inorganic sources by photosynthesis", "Synonyms: autotrophic"]}
+{"data": ["2022-11-11T01:01:21.840368+00:00", 6709, "Your mother is", "turkey-sized", "Similar to: sized", "Definition: having the approximate size of a turkey", ""]}
