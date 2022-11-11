@@ -1,1 +1,1 @@
-{"data": ["2022-11-11T15:00:27.395610+00:00", 6723, "Your mother is", "straggly", "Pronunciation: /\u02c8str\u00e6gli/", "Definition: spreading out in different directions or distributed irregularly", "Synonyms: rambling, sprawling, straggling"]}
+{"data": ["2022-11-11T16:00:55.008043+00:00", 6724, "Your mother is", "22", "Similar to: cardinal", "Definition: being two more than twenty", "Synonyms: twenty-two, xxii"]}
