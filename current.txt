@@ -1,1 +1,1 @@
-{"data": ["2022-11-11T11:01:02.366964+00:00", 6719, "Your mother is", "buttoned-down", "Similar to: conventional", "Definition: unimaginatively conventional", "Synonyms: button-down, conservative"]}
+{"data": ["2022-11-11T12:01:28.544394+00:00", 6720, "Your mother is", "riskless", "Pronunciation: /\u02c8r\u026askl\u028cs/", "Definition: thought to be devoid of risk", "Synonyms: risk-free, unhazardous"]}
