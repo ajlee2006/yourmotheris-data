@@ -1,1 +1,1 @@
-{"data": ["2022-11-11T12:01:28.544394+00:00", 6720, "Your mother is", "riskless", "Pronunciation: /\u02c8r\u026askl\u028cs/", "Definition: thought to be devoid of risk", "Synonyms: risk-free, unhazardous"]}
+{"data": ["2022-11-11T13:00:43.981434+00:00", 6721, "Your mother is", "semiskilled", "Similar to: unskilled", "Definition: possessing or requiring limited skills", ""]}
