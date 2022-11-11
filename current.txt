@@ -1,1 +1,1 @@
-{"data": ["2022-11-11T01:01:21.840368+00:00", 6709, "Your mother is", "turkey-sized", "Similar to: sized", "Definition: having the approximate size of a turkey", ""]}
+{"data": ["2022-11-11T02:01:46.974597+00:00", 6710, "Your mother is", "opisthognathous", "Pronunciation: /\u02cc\u0251p\u026as\u02c8\u03b8\u0251gn\u0259\u03b8\u0259s/", "Definition: having receding jaws", ""]}
