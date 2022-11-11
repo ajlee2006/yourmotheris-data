@@ -1,1 +1,1 @@
-{"data": ["2022-11-10T23:01:14.405479+00:00", 6707, "Your mother is", "cataphoretic", "Pronunciation: /\u02cck\u00e6t\u0259f\u0259\u02c8r\u025bt\u026ak/", "Definition: of or relating to electrophoresis", "Synonyms: electrophoretic"]}
+{"data": ["2022-11-11T00:01:50.434364+00:00", 6708, "Your mother is", "autophytic", "Pronunciation: /\u02cc\u0254t\u0259\u02c8f\u026at\u026ak/", "Definition: of or relating to organisms (as green plants) that can make complex organic nutritive compounds from simple inorganic sources by photosynthesis", "Synonyms: autotrophic"]}
