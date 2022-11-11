@@ -1,1 +1,1 @@
-{"data": ["2022-11-11T05:01:46.080198+00:00", 6713, "Your mother is", "left-eyed", "Pronunciation: /l\u025bft-a\u026ad/", "Definition: having only the left eye", ""]}
+{"data": ["2022-11-11T06:01:03.554605+00:00", 6714, "Your mother is", "quincentennial", "", "Definition: of or relating to a 500th anniversary", "Synonyms: quincentenary"]}
