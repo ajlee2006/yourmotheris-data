@@ -1,1 +1,1 @@
-{"data": ["2022-11-11T10:00:47.095577+00:00", 6718, "Your mother is", "casebook", "Pronunciation: /\u02c8ke\u026as\u02ccb\u028ak/", "Definition: according to or characteristic of a casebook or textbook; typical", "Synonyms: textbook"]}
+{"data": ["2022-11-11T11:01:02.366964+00:00", 6719, "Your mother is", "buttoned-down", "Similar to: conventional", "Definition: unimaginatively conventional", "Synonyms: button-down, conservative"]}
