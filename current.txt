@@ -1,1 +1,1 @@
-{"data": ["2022-11-12T19:00:29.504881+00:00", 6751, "Your mother is", "sun-dried", "Pronunciation: /\u02c8s\u0259n\u02ccdra\u026ad/", "Definition: dried naturally by the sun", "Synonyms: sundried"]}
+{"data": ["2022-11-12T20:00:32.140685+00:00", 6752, "Your mother is", "macabre", "Pronunciation: /m\u0259\u02c8k\u00e6br\u0259/", "Definition: shockingly repellent; inspiring horror", "Synonyms: ghastly, grim, grisly, gruesome, sick"]}
