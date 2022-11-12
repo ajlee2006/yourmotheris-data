@@ -1,1 +1,1 @@
-{"data": ["2022-11-12T02:01:32.938069+00:00", 6734, "Your mother is", "epenthetic", "Pronunciation: /\u02cc\u025bp\u0259n\u02c8\u03b8\u025bt\u026ak/", "Definition: of or pertaining to epenthesis", "Synonyms: parasitic"]}
+{"data": ["2022-11-12T03:01:38.616014+00:00", 6735, "Your mother is", "saponaceous", "Pronunciation: /\u02ccs\u00e6p\u0259\u02c8ne\u026a\u0283\u0259s/", "Definition: resembling or having the qualities of soap", "Synonyms: soapy"]}
