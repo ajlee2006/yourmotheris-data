@@ -1,1 +1,1 @@
-{"data": ["2022-11-12T18:00:14.205476+00:00", 6750, "Your mother is", "closed-captioned", "", "Definition: broadcast with captions that are seen only on receivers having special equipment; can be provided for hard-of-hearing viewers", ""]}
+{"data": ["2022-11-12T19:00:29.504881+00:00", 6751, "Your mother is", "sun-dried", "Pronunciation: /\u02c8s\u0259n\u02ccdra\u026ad/", "Definition: dried naturally by the sun", "Synonyms: sundried"]}
