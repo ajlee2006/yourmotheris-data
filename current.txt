@@ -1,1 +1,1 @@
-{"data": ["2022-11-12T05:00:57.180161+00:00", 6737, "Your mother is", "albinic", "", "Definition: of or pertaining to or affected by albinism", "Synonyms: albinal, albinistic, albinotic"]}
+{"data": ["2022-11-12T06:01:27.566811+00:00", 6738, "Your mother is", "labeled", "Pronunciation: /\u02c8le\u026ab\u028cld/", "Definition: bearing or marked with a label or tag", "Synonyms: labelled, tagged"]}
