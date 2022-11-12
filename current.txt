@@ -1,1 +1,1 @@
-{"data": ["2022-11-12T13:00:57.918851+00:00", 6745, "Your mother is", "brinded", "Pronunciation: /\u02c8br\u026and\u026ad/", "Definition: having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats", "Synonyms: brindle, brindled, tabby"]}
+{"data": ["2022-11-12T14:01:03.964041+00:00", 6746, "Your mother is", "retroflexed", "Similar to: backward", "Definition: bent or curved backward", "Synonyms: retroflex"]}
