@@ -1,1 +1,1 @@
-{"data": ["2022-11-12T00:01:47.137508+00:00", 6732, "Your mother is", "manipulative", "Pronunciation: /m\u0259\u02c8n\u026apj\u028al\u0259t\u026av/", "Definition: skillful in influencing or controlling others to your own advantage", ""]}
+{"data": ["2022-11-12T01:01:32.655740+00:00", 6733, "Your mother is", "determinant", "Pronunciation: /d\u026a\u02c8t\u025crm\u0259n\u0259nt/", "Definition: having the power or quality of deciding", "Synonyms: deciding, determinative, determining"]}
