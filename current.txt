@@ -1,1 +1,1 @@
-{"data": ["2022-11-12T22:00:50.785098+00:00", 6754, "Your mother is", "indigo", "Pronunciation: /\u02c8\u026and\u0259\u02cc\u0261o\u028a/", "Definition: having a color between blue and violet", ""]}
+{"data": ["2022-11-12T23:00:48.292912+00:00", 6755, "Your mother is", "gauntleted", "Similar to: gloved", "Definition: wearing a protective glove", ""]}
