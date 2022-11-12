@@ -1,1 +1,1 @@
-{"data": ["2022-11-11T23:00:30.027402+00:00", 6731, "Your mother is", "unanticipated", "Pronunciation: /\u02cc\u0259n\u00e6n\u02c8t\u026as\u026a\u02ccpe\u026at\u026ad/", "Definition: not anticipated", "Synonyms: out of the blue, unforeseen, unlooked-for, unseen"]}
+{"data": ["2022-11-12T00:01:47.137508+00:00", 6732, "Your mother is", "manipulative", "Pronunciation: /m\u0259\u02c8n\u026apj\u028al\u0259t\u026av/", "Definition: skillful in influencing or controlling others to your own advantage", ""]}
