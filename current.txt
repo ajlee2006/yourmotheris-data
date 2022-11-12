@@ -1,1 +1,1 @@
-{"data": ["2022-11-12T11:00:14.275090+00:00", 6743, "Your mother is", "popular", "Pronunciation: /\u02c8p\u0251pj\u0259l\u0259r/", "Definition: representing or appealing to or adapted for the benefit of the people at large", "Synonyms: democratic"]}
+{"data": ["2022-11-12T12:00:33.736115+00:00", 6744, "Your mother is", "pyaemic", "", "Definition: of or relating to pyemia", "Synonyms: pyemic"]}
