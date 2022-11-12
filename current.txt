@@ -1,1 +1,1 @@
-{"data": ["2022-11-12T08:01:23.413391+00:00", 6740, "Your mother is", "wanton", "Pronunciation: /\u02c8w\u0251nt\u0259n/", "Definition: occurring without motivation or provocation", "Synonyms: motiveless, unprovoked"]}
+{"data": ["2022-11-12T09:00:36.985798+00:00", 6741, "Your mother is", "intra vires", "Pronunciation: /\u02c8\u026antr\u0259-\u02c8va\u026ariz/", "Definition: within the legal power or authority or a person or official or body etc", ""]}
