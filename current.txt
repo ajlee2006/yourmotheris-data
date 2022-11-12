@@ -1,1 +1,1 @@
-{"data": ["2022-11-12T17:00:41.103680+00:00", 6749, "Your mother is", "inexplicable", "Pronunciation: /\u026an\u02c8\u025bkspl\u0259k\u0259b\u0259l/", "Definition: incapable of being explained or accounted for", "Synonyms: incomprehensible"]}
+{"data": ["2022-11-12T18:00:14.205476+00:00", 6750, "Your mother is", "closed-captioned", "", "Definition: broadcast with captions that are seen only on receivers having special equipment; can be provided for hard-of-hearing viewers", ""]}
