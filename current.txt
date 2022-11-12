@@ -1,1 +1,1 @@
-{"data": ["2022-11-12T15:01:43.079808+00:00", 6747, "Your mother is", "trial-and-error", "Similar to: heuristic", "Definition: relating to solving problems by experience rather than theory", ""]}
+{"data": ["2022-11-12T16:01:39.218136+00:00", 6748, "Your mother is", "semiprecious", "Pronunciation: /\u02ccs\u025bmi\u02c8pr\u025b\u0283\u0259s/", "Definition: used of gemstones having less commercial value than precious stones", ""]}
