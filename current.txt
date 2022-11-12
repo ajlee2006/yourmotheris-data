@@ -1,1 +1,1 @@
-{"data": ["2022-11-12T01:01:32.655740+00:00", 6733, "Your mother is", "determinant", "Pronunciation: /d\u026a\u02c8t\u025crm\u0259n\u0259nt/", "Definition: having the power or quality of deciding", "Synonyms: deciding, determinative, determining"]}
+{"data": ["2022-11-12T02:01:32.938069+00:00", 6734, "Your mother is", "epenthetic", "Pronunciation: /\u02cc\u025bp\u0259n\u02c8\u03b8\u025bt\u026ak/", "Definition: of or pertaining to epenthesis", "Synonyms: parasitic"]}
