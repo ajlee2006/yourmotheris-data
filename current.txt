@@ -1,1 +1,1 @@
-{"data": ["2022-11-13T05:00:58.021149+00:00", 6761, "Your mother is", "rationed", "Pronunciation: /\u02c8r\u00e6\u0283\u028cnd/", "Definition: distributed equitably in limited individual portions", ""]}
+{"data": ["2022-11-13T06:01:43.645307+00:00", 6762, "Your mother is", "anechoic", "Pronunciation: /\u02cc\u00e6n\u025b\u02c8ko\u028a\u026ak/", "Definition: not having or producing echoes; sound-absorbent", ""]}
