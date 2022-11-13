@@ -1,1 +1,1 @@
-{"data": ["2022-11-13T19:00:35.566243+00:00", 6775, "Your mother is", "shopworn", "Pronunciation: /\u02c8\u0283\u0251p\u02ccwo\u028arn/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, stock, threadbare, timeworn, tired, trite, well-worn"]}
+{"data": ["2022-11-13T20:00:49.299457+00:00", 6776, "Your mother is", "phenotypic", "Pronunciation: /\u02ccfin\u0259\u02c8t\u026ap\u026ak/", "Definition: of or relating to or constituting a phenotype", "Synonyms: phenotypical"]}
