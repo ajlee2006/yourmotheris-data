@@ -1,1 +1,1 @@
-{"data": ["2022-11-13T01:01:17.452113+00:00", 6757, "Your mother is", "undischarged", "Pronunciation: /\u02cc\u0259nd\u026as\u02c8t\u0283\u0251rd\u0292d/", "Definition: still capable of exploding or being fired", "Synonyms: unexploded"]}
+{"data": ["2022-11-13T02:01:50.257777+00:00", 6758, "Your mother is", "treasonable", "Pronunciation: /\u02c8triz\u0259n\u0259b\u0259l/", "Definition: having the character of, or characteristic of, a traitor", "Synonyms: faithless, traitorous, treasonous, unfaithful"]}
