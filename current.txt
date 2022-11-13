@@ -1,1 +1,1 @@
-{"data": ["2022-11-13T07:01:13.518970+00:00", 6763, "Your mother is", "meteorologic", "", "Definition: of or pertaining to atmospheric phenomena, especially weather and weather conditions", "Synonyms: meteoric, meteorological"]}
+{"data": ["2022-11-13T08:00:56.620809+00:00", 6764, "Your mother is", "polluted", "Pronunciation: /p\u0259\u02c8lut\u026ad/", "Definition: rendered unwholesome by contaminants and pollution", "Synonyms: contaminated"]}
