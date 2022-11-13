@@ -1,1 +1,1 @@
-{"data": ["2022-11-13T15:01:31.522739+00:00", 6771, "Your mother is", "iraqi", "Pronunciation: /\u026a\u02c8r\u00e6ki/", "Definition: of or relating to Iraq or its people or culture", "Synonyms: iraki"]}
+{"data": ["2022-11-13T16:00:30.957734+00:00", 6772, "Your mother is", "admissive", "Pronunciation: /\u00e6d\u02c8m\u026as\u026av/", "Definition: characterized by or allowing admission", ""]}
