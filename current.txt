@@ -1,1 +1,1 @@
-{"data": ["2022-11-13T17:00:13.743954+00:00", 6773, "Your mother is", "overcautious", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8k\u0254\u0283\u0259s/", "Definition: unnecessarily cautious", ""]}
+{"data": ["2022-11-13T18:01:33.701864+00:00", 6774, "Your mother is", "nonsubmergible", "", "Definition: not submersible or submergible", "Synonyms: nonsubmersible"]}
