@@ -1,1 +1,1 @@
-{"data": ["2022-11-13T14:01:03.284295+00:00", 6770, "Your mother is", "liege", "Pronunciation: /lid\u0292/", "Definition: owing or owed feudal allegiance and service", ""]}
+{"data": ["2022-11-13T15:01:31.522739+00:00", 6771, "Your mother is", "iraqi", "Pronunciation: /\u026a\u02c8r\u00e6ki/", "Definition: of or relating to Iraq or its people or culture", "Synonyms: iraki"]}
