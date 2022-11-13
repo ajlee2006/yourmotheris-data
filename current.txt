@@ -1,1 +1,1 @@
-{"data": ["2022-11-13T08:00:56.620809+00:00", 6764, "Your mother is", "polluted", "Pronunciation: /p\u0259\u02c8lut\u026ad/", "Definition: rendered unwholesome by contaminants and pollution", "Synonyms: contaminated"]}
+{"data": ["2022-11-13T09:01:15.523304+00:00", 6765, "Your mother is", "reclusive", "Pronunciation: /r\u026a\u02c8klus\u026av/", "Definition: withdrawn from society; seeking solitude", "Synonyms: recluse, withdrawn"]}
