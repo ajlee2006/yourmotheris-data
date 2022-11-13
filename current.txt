@@ -1,1 +1,1 @@
-{"data": ["2022-11-13T12:01:11.499446+00:00", 6768, "Your mother is", "indicatory", "Pronunciation: /\u026an\u02c8d\u026ak\u0259\u02ccto\u028ari/", "Definition: (usually followed by `of') pointing out or revealing clearly", "Synonyms: indicative, revelatory, significative, suggestive"]}
+{"data": ["2022-11-13T13:00:16.598745+00:00", 6769, "Your mother is", "ill-favored", "Pronunciation: /\u026al-\u02c8fe\u026av\u0259rd/", "Definition: usually used of a face", "Synonyms: ill-favoured"]}
