@@ -1,1 +1,1 @@
-{"data": ["2022-11-13T04:00:22.471600+00:00", 6760, "Your mother is", "grassy", "Pronunciation: /\u02c8gr\u00e6si/", "Definition: abounding in grass", ""]}
+{"data": ["2022-11-13T05:00:58.021149+00:00", 6761, "Your mother is", "rationed", "Pronunciation: /\u02c8r\u00e6\u0283\u028cnd/", "Definition: distributed equitably in limited individual portions", ""]}
