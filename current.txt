@@ -1,1 +1,1 @@
-{"data": ["2022-11-12T23:00:48.292912+00:00", 6755, "Your mother is", "gauntleted", "Similar to: gloved", "Definition: wearing a protective glove", ""]}
+{"data": ["2022-11-13T00:02:19.473150+00:00", 6756, "Your mother is", "blinded", "Pronunciation: /\u02c8bla\u026and\u026ad/", "Definition: deprived of sight", ""]}
