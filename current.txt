@@ -1,1 +1,1 @@
-{"data": ["2022-11-13T13:00:16.598745+00:00", 6769, "Your mother is", "ill-favored", "Pronunciation: /\u026al-\u02c8fe\u026av\u0259rd/", "Definition: usually used of a face", "Synonyms: ill-favoured"]}
+{"data": ["2022-11-13T14:01:03.284295+00:00", 6770, "Your mother is", "liege", "Pronunciation: /lid\u0292/", "Definition: owing or owed feudal allegiance and service", ""]}
