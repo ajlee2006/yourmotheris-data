@@ -1,1 +1,1 @@
-{"data": ["2022-11-13T20:00:49.299457+00:00", 6776, "Your mother is", "phenotypic", "Pronunciation: /\u02ccfin\u0259\u02c8t\u026ap\u026ak/", "Definition: of or relating to or constituting a phenotype", "Synonyms: phenotypical"]}
+{"data": ["2022-11-13T21:00:30.399589+00:00", 6777, "Your mother is", "ventricous", "Similar to: protrusive", "Definition: having a swelling on one side", "Synonyms: ventricose"]}
