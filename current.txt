@@ -1,1 +1,1 @@
-{"data": ["2022-11-13T09:01:15.523304+00:00", 6765, "Your mother is", "reclusive", "Pronunciation: /r\u026a\u02c8klus\u026av/", "Definition: withdrawn from society; seeking solitude", "Synonyms: recluse, withdrawn"]}
+{"data": ["2022-11-13T10:01:45.572834+00:00", 6766, "Your mother is", "chewable", "Similar to: tender", "Definition: able to be chewed or cut", "Synonyms: cuttable"]}
