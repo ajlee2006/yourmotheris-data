@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T10:01:24.105038+00:00", 6789, "Your mother is", "cruel", "Pronunciation: /\u02c8kru\u0259l/", "Definition: (of persons or their actions) able or disposed to inflict pain or suffering", "Synonyms: barbarous, brutal, fell, roughshod, savage, vicious"]}
+{"data": ["2022-11-14T11:00:52.271064+00:00", 6790, "Your mother is", "unbelievable", "Pronunciation: /\u02cc\u0259nb\u026a\u02c8liv\u0259b\u0259l/", "Definition: having a probability too low to inspire belief", "Synonyms: improbable, unconvincing, unlikely"]}
