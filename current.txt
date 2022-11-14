@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T08:01:32.609313+00:00", 6787, "Your mother is", "violative", "Pronunciation: /\u02c8va\u026a\u0259\u02ccle\u026at\u026av/", "Definition: violating or tending to violate or offend against", "Synonyms: offensive"]}
+{"data": ["2022-11-14T09:01:03.748542+00:00", 6788, "Your mother is", "silky-leaved", "Pronunciation: /\u02c8s\u026alki-livd/", "Definition: having glossy leaves", "Synonyms: silky-leafed"]}
