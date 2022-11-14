@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T21:01:30.353695+00:00", 6800, "Your mother is", "occasional", "Pronunciation: /\u0259\u02c8ke\u026a\u0292\u0259n\u0259l/", "Definition: occurring on a temporary or irregular basis", "Synonyms: casual"]}
+{"data": ["2022-11-14T22:01:15.713151+00:00", 6801, "Your mother is", "poor", "Pronunciation: /p\u028ar/", "Definition: of insufficient quantity to meet a need", "Synonyms: inadequate, jejune, short"]}
