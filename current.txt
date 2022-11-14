@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T07:00:38.351714+00:00", 6786, "Your mother is", "aforethought", "Pronunciation: /\u0259\u02c8fo\u028ar\u02cc\u03b8\u0254t/", "Definition: with planning and intention", "Synonyms: planned, plotted"]}
+{"data": ["2022-11-14T08:01:32.609313+00:00", 6787, "Your mother is", "violative", "Pronunciation: /\u02c8va\u026a\u0259\u02ccle\u026at\u026av/", "Definition: violating or tending to violate or offend against", "Synonyms: offensive"]}
