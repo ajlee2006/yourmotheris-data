@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T02:00:12.254352+00:00", 6781, "Your mother is", "crabwise", "Pronunciation: /\u02c8kr\u00e6bwa\u026az/", "Definition: (of movement) at an angle", "Synonyms: sideways"]}
+{"data": ["2022-11-14T03:00:29.266688+00:00", 6782, "Your mother is", "unrecognizable", "Pronunciation: /\u0259n\u02c8r\u025bk\u0259\u0261\u02ccna\u026az\u0259b\u0259l/", "Definition: defying recognition as e.g. because of damage or alteration", "Synonyms: unrecognisable"]}
