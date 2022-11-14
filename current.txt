@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T16:00:49.246312+00:00", 6795, "Your mother is", "particular", "Pronunciation: /p\u0259r\u02c8t\u026akj\u0259l\u0259r/", "Definition: exacting especially about details", "Synonyms: finical, finicky, fussy, picky"]}
+{"data": ["2022-11-14T17:01:37.064159+00:00", 6796, "Your mother is", "stateless", "Pronunciation: /\u02c8ste\u026atl\u025bs/", "Definition: without nationality or citizenship", "Synonyms: homeless"]}
