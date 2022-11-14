@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T00:02:11.977530+00:00", 6779, "Your mother is", "nicene", "Pronunciation: /na\u026a\u02c8sin/", "Definition: of or relating to the ancient city of Nicaea in Asia Minor", "Synonyms: nicaean"]}
+{"data": ["2022-11-14T01:00:21.811137+00:00", 6780, "Your mother is", "passionless", "Pronunciation: /\u02c8p\u00e6\u0283\u0259nl\u026as/", "Definition: unmoved by feeling", "Synonyms: emotionless"]}
