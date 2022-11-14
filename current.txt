@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T13:00:45.048094+00:00", 6792, "Your mother is", "large-leaved", "Pronunciation: /l\u0251rd\u0292-livd/", "Definition: having relatively large leaves", "Synonyms: large-leafed"]}
+{"data": ["2022-11-14T14:01:02.786442+00:00", 6793, "Your mother is", "spectroscopical", "", "Definition: of or relating to or involving spectroscopy", "Synonyms: spectroscopic"]}
