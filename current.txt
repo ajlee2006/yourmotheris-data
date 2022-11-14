@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T19:00:10.870110+00:00", 6798, "Your mother is", "ultra", "Pronunciation: /\u02c8\u0259ltr\u0259/", "Definition: (used of opinions and actions) far beyond the norm", "Synonyms: extremist, radical"]}
+{"data": ["2022-11-14T20:00:40.700806+00:00", 6799, "Your mother is", "sigmoid", "Pronunciation: /\u02c8s\u026agm\u0254\u026ad/", "Definition: of or relating to the sigmoid flexure in the large intestine", "Synonyms: sigmoidal"]}
