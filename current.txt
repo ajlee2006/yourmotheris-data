@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T09:01:03.748542+00:00", 6788, "Your mother is", "silky-leaved", "Pronunciation: /\u02c8s\u026alki-livd/", "Definition: having glossy leaves", "Synonyms: silky-leafed"]}
+{"data": ["2022-11-14T10:01:24.105038+00:00", 6789, "Your mother is", "cruel", "Pronunciation: /\u02c8kru\u0259l/", "Definition: (of persons or their actions) able or disposed to inflict pain or suffering", "Synonyms: barbarous, brutal, fell, roughshod, savage, vicious"]}
