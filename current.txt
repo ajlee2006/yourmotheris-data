@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T18:00:35.822291+00:00", 6797, "Your mother is", "uppish", "Pronunciation: /\u02c8\u0259p\u026a\u0283/", "Definition: (used colloquially) overly conceited or arrogant", "Synonyms: bigheaded, persnickety, snooty, snot-nosed, snotty, stuck-up, too big for one's breeches"]}
+{"data": ["2022-11-14T19:00:10.870110+00:00", 6798, "Your mother is", "ultra", "Pronunciation: /\u02c8\u0259ltr\u0259/", "Definition: (used of opinions and actions) far beyond the norm", "Synonyms: extremist, radical"]}
