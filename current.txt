@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T01:00:21.811137+00:00", 6780, "Your mother is", "passionless", "Pronunciation: /\u02c8p\u00e6\u0283\u0259nl\u026as/", "Definition: unmoved by feeling", "Synonyms: emotionless"]}
+{"data": ["2022-11-14T02:00:12.254352+00:00", 6781, "Your mother is", "crabwise", "Pronunciation: /\u02c8kr\u00e6bwa\u026az/", "Definition: (of movement) at an angle", "Synonyms: sideways"]}
