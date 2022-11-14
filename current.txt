@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T14:01:02.786442+00:00", 6793, "Your mother is", "spectroscopical", "", "Definition: of or relating to or involving spectroscopy", "Synonyms: spectroscopic"]}
+{"data": ["2022-11-14T15:01:14.099442+00:00", 6794, "Your mother is", "closed-captioned", "", "Definition: broadcast with captions that are seen only on receivers having special equipment; can be provided for hard-of-hearing viewers", ""]}
