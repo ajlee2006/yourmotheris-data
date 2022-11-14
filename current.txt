@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T22:01:15.713151+00:00", 6801, "Your mother is", "poor", "Pronunciation: /p\u028ar/", "Definition: of insufficient quantity to meet a need", "Synonyms: inadequate, jejune, short"]}
+{"data": ["2022-11-14T23:01:06.202254+00:00", 6802, "Your mother is", "positioning", "Pronunciation: /p\u028c\u02c8z\u026a\u0283\u028cn\u026a\u014b/", "Definition: causing to fall into line or into position", "Synonyms: aligning"]}
