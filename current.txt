@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T03:00:29.266688+00:00", 6782, "Your mother is", "unrecognizable", "Pronunciation: /\u0259n\u02c8r\u025bk\u0259\u0261\u02ccna\u026az\u0259b\u0259l/", "Definition: defying recognition as e.g. because of damage or alteration", "Synonyms: unrecognisable"]}
+{"data": ["2022-11-14T04:01:34.848641+00:00", 6783, "Your mother is", "clawlike", "Similar to: unguiculate", "Definition: resembling a claw", ""]}
