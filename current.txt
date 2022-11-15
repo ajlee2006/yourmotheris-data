@@ -1,1 +1,1 @@
-{"data": ["2022-11-15T21:01:46.560542+00:00", 6824, "Your mother is", "poached", "Pronunciation: /po\u028at\u0283t/", "Definition: cooked in hot water", "Synonyms: boiled, stewed"]}
+{"data": ["2022-11-15T23:01:38.991976+00:00", 6825, "Your mother is", "decayable", "Similar to: perishable", "Definition: liable to decay or spoil or become putrid", "Synonyms: putrefiable, putrescible, spoilable"]}
