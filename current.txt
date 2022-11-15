@@ -1,1 +1,1 @@
-{"data": ["2022-11-14T23:01:06.202254+00:00", 6802, "Your mother is", "positioning", "Pronunciation: /p\u028c\u02c8z\u026a\u0283\u028cn\u026a\u014b/", "Definition: causing to fall into line or into position", "Synonyms: aligning"]}
+{"data": ["2022-11-15T00:01:28.177950+00:00", 6803, "Your mother is", "couchant", "Pronunciation: /\u02c8ka\u028a\u02a7\u0259nt/", "Definition: lying on the stomach with head raised with legs pointed forward", ""]}
