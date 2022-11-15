@@ -1,1 +1,1 @@
-{"data": ["2022-11-15T03:01:24.604554+00:00", 6806, "Your mother is", "agitated", "Pronunciation: /\u02c8\u00e6d\u0292\u028c\u02ccte\u026at\u028cd/", "Definition: physically disturbed or set in motion", ""]}
+{"data": ["2022-11-15T04:01:12.688837+00:00", 6807, "Your mother is", "acherontic", "Similar to: dark", "Definition: dark and dismal as of the rivers Acheron and Styx in Hades", "Synonyms: acheronian, stygian"]}
