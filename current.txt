@@ -1,1 +1,1 @@
-{"data": ["2022-11-15T08:01:29.868699+00:00", 6811, "Your mother is", "enormous", "Pronunciation: /\u026a\u02c8n\u0254rm\u0259s/", "Definition: extraordinarily large in size or extent or amount or power or degree", "Synonyms: tremendous"]}
+{"data": ["2022-11-15T09:01:12.188253+00:00", 6812, "Your mother is", "isoclinal", "Pronunciation: /\u02cca\u026as\u0259\u02c8kla\u026an\u0259l/", "Definition: having equal magnetic inclinations", "Synonyms: isoclinic"]}
