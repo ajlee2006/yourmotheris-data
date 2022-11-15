@@ -1,1 +1,1 @@
-{"data": ["2022-11-15T02:01:41.530139+00:00", 6805, "Your mother is", "formulated", "Pronunciation: /\u02c8f\u0254rmj\u028c\u02ccle\u026at\u028cd/", "Definition: devised; developed according to an orderly plan", ""]}
+{"data": ["2022-11-15T03:01:24.604554+00:00", 6806, "Your mother is", "agitated", "Pronunciation: /\u02c8\u00e6d\u0292\u028c\u02ccte\u026at\u028cd/", "Definition: physically disturbed or set in motion", ""]}
