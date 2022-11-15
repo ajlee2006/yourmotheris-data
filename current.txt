@@ -1,1 +1,1 @@
-{"data": ["2022-11-15T01:01:29.325789+00:00", 6804, "Your mother is", "fatherly", "Pronunciation: /\u02c8f\u0251\u00f0\u0259rli/", "Definition: like or befitting a father or fatherhood; kind and protective", "Synonyms: fatherlike"]}
+{"data": ["2022-11-15T02:01:41.530139+00:00", 6805, "Your mother is", "formulated", "Pronunciation: /\u02c8f\u0254rmj\u028c\u02ccle\u026at\u028cd/", "Definition: devised; developed according to an orderly plan", ""]}
