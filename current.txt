@@ -1,1 +1,1 @@
-{"data": ["2022-11-15T07:00:39.259132+00:00", 6810, "Your mother is", "unspecialised", "Similar to: generalised", "Definition: not specialized or modified for a particular purpose or function", "Synonyms: unspecialized"]}
+{"data": ["2022-11-15T08:01:29.868699+00:00", 6811, "Your mother is", "enormous", "Pronunciation: /\u026a\u02c8n\u0254rm\u0259s/", "Definition: extraordinarily large in size or extent or amount or power or degree", "Synonyms: tremendous"]}
