@@ -1,1 +1,1 @@
-{"data": ["2022-11-15T04:01:12.688837+00:00", 6807, "Your mother is", "acherontic", "Similar to: dark", "Definition: dark and dismal as of the rivers Acheron and Styx in Hades", "Synonyms: acheronian, stygian"]}
+{"data": ["2022-11-15T05:00:49.272543+00:00", 6808, "Your mother is", "anthelminthic", "Similar to: healthful", "Definition: capable of expelling or destroying parasitic worms", "Synonyms: anthelmintic, helminthic, parasiticidal"]}
