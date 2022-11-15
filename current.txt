@@ -1,1 +1,1 @@
-{"data": ["2022-11-15T18:00:42.271871+00:00", 6821, "Your mother is", "apparent", "Pronunciation: /\u0259\u02c8p\u00e6r\u0259nt/", "Definition: clearly revealed to the mind or the senses or judgment", "Synonyms: evident, manifest, palpable, patent, plain, unmistakable"]}
+{"data": ["2022-11-15T19:00:50.448621+00:00", 6822, "Your mother is", "discalced", "Pronunciation: /d\u026as\u02c8k\u00e6lst/", "Definition: (used of certain religious orders) barefoot or wearing only sandals", "Synonyms: discalceate, unshod"]}
