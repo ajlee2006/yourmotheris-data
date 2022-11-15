@@ -1,1 +1,1 @@
-{"data": ["2022-11-15T20:01:11.717737+00:00", 6823, "Your mother is", "sodding", "Similar to: unmitigated", "Definition: without qualification; used informally as (often pejorative) intensifiers", "Synonyms: arrant, complete, consummate, double-dyed, everlasting, gross, perfect, pure, staring, stark, thorough, thoroughgoing, unadulterated, utter"]}
+{"data": ["2022-11-15T21:01:46.560542+00:00", 6824, "Your mother is", "poached", "Pronunciation: /po\u028at\u0283t/", "Definition: cooked in hot water", "Synonyms: boiled, stewed"]}
