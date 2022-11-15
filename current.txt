@@ -1,1 +1,1 @@
-{"data": ["2022-11-15T06:01:38.144309+00:00", 6809, "Your mother is", "reddish-brown", "Similar to: chromatic", "Definition: of brown tinged with red", "Synonyms: mahogany-red, red-brown"]}
+{"data": ["2022-11-15T07:00:39.259132+00:00", 6810, "Your mother is", "unspecialised", "Similar to: generalised", "Definition: not specialized or modified for a particular purpose or function", "Synonyms: unspecialized"]}
