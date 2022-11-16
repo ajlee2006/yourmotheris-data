@@ -1,1 +1,1 @@
-{"data": ["2022-11-16T09:00:38.224196+00:00", 6835, "Your mother is", "smutty", "Pronunciation: /\u02c8sm\u0259ti/", "Definition: soiled with dirt or soot", "Synonyms: black"]}
+{"data": ["2022-11-16T10:00:59.667123+00:00", 6836, "Your mother is", "unsavoury", "Pronunciation: /\u0259n\u02c8se\u026av\u0259ri/", "Definition: not pleasing in odor or taste", "Synonyms: distasteful, unsavory"]}
