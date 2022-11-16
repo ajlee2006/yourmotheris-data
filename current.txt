@@ -1,1 +1,1 @@
-{"data": ["2022-11-16T12:01:18.049139+00:00", 6838, "Your mother is", "auctorial", "Pronunciation: /\u0254k\u02c8to\u028ari\u0259l/", "Definition: of or by or typical of an author", "Synonyms: authorial"]}
+{"data": ["2022-11-16T13:00:23.064583+00:00", 6839, "Your mother is", "arable", "Pronunciation: /\u02c8\u00e6r\u0259b\u0259l/", "Definition: (of farmland) capable of being farmed productively", "Synonyms: cultivable, cultivatable, tillable"]}
