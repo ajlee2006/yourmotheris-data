@@ -1,1 +1,1 @@
-{"data": ["2022-11-16T05:00:52.194058+00:00", 6831, "Your mother is", "bacchanalian", "Similar to: drunk", "Definition: used of riotously drunken merrymaking", "Synonyms: bacchanal, bacchic, carousing, orgiastic"]}
+{"data": ["2022-11-16T06:01:50.601559+00:00", 6832, "Your mother is", "livonian-speaking", "Similar to: communicative", "Definition: able to communicate in Livonian", ""]}
