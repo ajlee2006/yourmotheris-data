@@ -1,1 +1,1 @@
-{"data": ["2022-11-16T11:00:39.182594+00:00", 6837, "Your mother is", "unshadowed", "Pronunciation: /\u0259n\u02c8\u0283\u00e6do\u028ad/", "Definition: not darkened or obscured by shadow", ""]}
+{"data": ["2022-11-16T12:01:18.049139+00:00", 6838, "Your mother is", "auctorial", "Pronunciation: /\u0254k\u02c8to\u028ari\u0259l/", "Definition: of or by or typical of an author", "Synonyms: authorial"]}
