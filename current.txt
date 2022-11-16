@@ -1,1 +1,1 @@
-{"data": ["2022-11-16T03:00:59.397541+00:00", 6829, "Your mother is", "laboured", "Pronunciation: /\u02c8le\u026ab\u0259rd/", "Definition: lacking natural ease", "Synonyms: labored, strained"]}
+{"data": ["2022-11-16T04:01:29.856171+00:00", 6830, "Your mother is", "thoughtful", "Pronunciation: /\u02c8\u03b8\u0254tf\u0259l/", "Definition: acting with or showing thought and good sense", "Synonyms: serious-minded"]}
