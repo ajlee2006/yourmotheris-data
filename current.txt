@@ -1,1 +1,1 @@
-{"data": ["2022-11-16T10:00:59.667123+00:00", 6836, "Your mother is", "unsavoury", "Pronunciation: /\u0259n\u02c8se\u026av\u0259ri/", "Definition: not pleasing in odor or taste", "Synonyms: distasteful, unsavory"]}
+{"data": ["2022-11-16T11:00:39.182594+00:00", 6837, "Your mother is", "unshadowed", "Pronunciation: /\u0259n\u02c8\u0283\u00e6do\u028ad/", "Definition: not darkened or obscured by shadow", ""]}
