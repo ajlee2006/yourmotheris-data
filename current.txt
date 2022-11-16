@@ -1,1 +1,1 @@
-{"data": ["2022-11-16T14:01:47.879859+00:00", 6840, "Your mother is", "crocked", "Pronunciation: /kr\u0251kt/", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, soused, sozzled, squiffy, stiff, tight, wet"]}
+{"data": ["2022-11-16T16:01:24.625251+00:00", 6841, "Your mother is", "nonprescription", "Pronunciation: /\u02ccn\u0251npr\u028c\u02c8skr\u026ap\u0283\u028cn/", "Definition: purchasable without a doctor's prescription", "Synonyms: over-the-counter"]}
