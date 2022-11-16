@@ -1,1 +1,1 @@
-{"data": ["2022-11-16T19:00:53.460111+00:00", 6844, "Your mother is", "outdoor", "Pronunciation: /\u02c8a\u028at\u02ccdo\u028ar/", "Definition: located, suited for, or taking place in the open air", "Synonyms: out-of-door, outside"]}
+{"data": ["2022-11-16T20:00:24.112775+00:00", 6845, "Your mother is", "built-in", "Pronunciation: /b\u026alt-\u026an/", "Definition: existing as an essential constituent or characteristic", "Synonyms: constitutional, inbuilt, inherent, integral"]}
