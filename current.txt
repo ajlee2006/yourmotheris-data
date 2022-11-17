@@ -1,1 +1,1 @@
-{"data": ["2022-11-17T05:00:51.024810+00:00", 6854, "Your mother is", "thirty-eighth", "Pronunciation: /\u02c8\u03b8\u025crti-e\u026at\u03b8/", "Definition: the ordinal number of thirty-eight in counting order", "Synonyms: 38th"]}
+{"data": ["2022-11-17T06:00:41.233560+00:00", 6855, "Your mother is", "prickly-leaved", "Similar to: leafy", "Definition: having prickly leaves", "Synonyms: prickly-leafed"]}
