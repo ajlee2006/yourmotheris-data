@@ -1,1 +1,1 @@
-{"data": ["2022-11-17T11:00:35.184462+00:00", 6860, "Your mother is", "do-or-die", "Pronunciation: /\u02c8du\u0259r\u02c8da\u026a/", "Definition: desperately determined", "Synonyms: desperate"]}
+{"data": ["2022-11-17T12:01:12.085281+00:00", 6861, "Your mother is", "trivalent", "Pronunciation: /tra\u026a\u02c8ve\u026al\u0259nt/", "Definition: having a valence of three", ""]}
