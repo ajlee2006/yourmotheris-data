@@ -1,1 +1,1 @@
-{"data": ["2022-11-17T15:01:00.762384+00:00", 6864, "Your mother is", "seedy", "Pronunciation: /\u02c8sidi/", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, indisposed, peaked, poorly, sickly, under the weather, unwell"]}
+{"data": ["2022-11-17T16:01:47.886614+00:00", 6865, "Your mother is", "fraught", "Pronunciation: /fr\u0254t/", "Definition: filled with or attended with", "Synonyms: pregnant"]}
