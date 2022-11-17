@@ -1,1 +1,1 @@
-{"data": ["2022-11-17T12:01:12.085281+00:00", 6861, "Your mother is", "trivalent", "Pronunciation: /tra\u026a\u02c8ve\u026al\u0259nt/", "Definition: having a valence of three", ""]}
+{"data": ["2022-11-17T13:00:21.646108+00:00", 6862, "Your mother is", "oceanic", "Pronunciation: /\u02cco\u028a\u0283i\u02c8\u00e6n\u026ak/", "Definition: relating to or occurring or living in or frequenting the open ocean", "Synonyms: pelagic"]}
