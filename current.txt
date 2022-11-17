@@ -1,1 +1,1 @@
-{"data": ["2022-11-17T20:00:38.912285+00:00", 6869, "Your mother is", "astronautical", "Pronunciation: /\u02cc\u00e6str\u0259\u02c8n\u0251t\u026ak\u0259l/", "Definition: of or belonging to astronauts or the science of astronautics", "Synonyms: astronautic"]}
+{"data": ["2022-11-17T21:01:26.156450+00:00", 6870, "Your mother is", "overflowing", "Pronunciation: /\u02c8o\u028av\u025dr\u02ccflo\u028a\u026a\u014b/", "Definition: covered with water", "Synonyms: afloat, awash, flooded, inundated"]}
