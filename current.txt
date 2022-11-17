@@ -1,1 +1,1 @@
-{"data": ["2022-11-17T18:01:07.543317+00:00", 6867, "Your mother is", "clove-scented", "Similar to: odorous", "Definition: smelling of clove", ""]}
+{"data": ["2022-11-17T19:01:31.858735+00:00", 6868, "Your mother is", "pestiferous", "Pronunciation: /p\u025b\u02c8st\u026af\u0259r\u0259s/", "Definition: tending to corrupt or pervert", "Synonyms: corruptive, perversive"]}
