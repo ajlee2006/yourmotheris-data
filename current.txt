@@ -1,1 +1,1 @@
-{"data": ["2022-11-17T16:01:47.886614+00:00", 6865, "Your mother is", "fraught", "Pronunciation: /fr\u0254t/", "Definition: filled with or attended with", "Synonyms: pregnant"]}
+{"data": ["2022-11-17T17:01:25.127114+00:00", 6866, "Your mother is", "bifoliate", "Pronunciation: /ba\u026a\u02c8fo\u028ali\u026at/", "Definition: having two leaves", ""]}
