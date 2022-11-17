@@ -1,1 +1,1 @@
-{"data": ["2022-11-17T04:00:37.613225+00:00", 6853, "Your mother is", "spooky", "Pronunciation: /\u02c8spuki/", "Definition: unpredictably excitable (especially of horses)", "Synonyms: flighty, nervous, skittish"]}
+{"data": ["2022-11-17T05:00:51.024810+00:00", 6854, "Your mother is", "thirty-eighth", "Pronunciation: /\u02c8\u03b8\u025crti-e\u026at\u03b8/", "Definition: the ordinal number of thirty-eight in counting order", "Synonyms: 38th"]}
