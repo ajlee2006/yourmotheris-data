@@ -1,1 +1,1 @@
-{"data": ["2022-11-17T17:01:25.127114+00:00", 6866, "Your mother is", "bifoliate", "Pronunciation: /ba\u026a\u02c8fo\u028ali\u026at/", "Definition: having two leaves", ""]}
+{"data": ["2022-11-17T18:01:07.543317+00:00", 6867, "Your mother is", "clove-scented", "Similar to: odorous", "Definition: smelling of clove", ""]}
