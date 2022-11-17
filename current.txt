@@ -1,1 +1,1 @@
-{"data": ["2022-11-17T06:00:41.233560+00:00", 6855, "Your mother is", "prickly-leaved", "Similar to: leafy", "Definition: having prickly leaves", "Synonyms: prickly-leafed"]}
+{"data": ["2022-11-17T07:01:03.068840+00:00", 6856, "Your mother is", "unfeeling", "Pronunciation: /\u0259n\u02c8fil\u026a\u014b/", "Definition: devoid of feeling for others", "Synonyms: hardhearted, stonyhearted"]}
