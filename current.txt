@@ -1,1 +1,1 @@
-{"data": ["2022-11-17T13:00:21.646108+00:00", 6862, "Your mother is", "oceanic", "Pronunciation: /\u02cco\u028a\u0283i\u02c8\u00e6n\u026ak/", "Definition: relating to or occurring or living in or frequenting the open ocean", "Synonyms: pelagic"]}
+{"data": ["2022-11-17T14:00:31.385975+00:00", 6863, "Your mother is", "appellant", "Pronunciation: /\u0259\u02c8p\u025bl\u0259nt/", "Definition: of or relating to or taking account of appeals (usually legal appeals)", "Synonyms: appellate"]}
