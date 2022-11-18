@@ -1,1 +1,1 @@
-{"data": ["2022-11-18T01:01:44.699326+00:00", 6874, "Your mother is", "tube-nosed", "Similar to: nosed", "Definition: having a tubular nose", ""]}
+{"data": ["2022-11-18T02:01:29.939180+00:00", 6875, "Your mother is", "measly", "Pronunciation: /\u02c8mizli/", "Definition: contemptibly small in amount", "Synonyms: miserable, paltry"]}
