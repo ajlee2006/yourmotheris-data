@@ -1,1 +1,1 @@
-{"data": ["2022-11-18T00:01:40.026573+00:00", 6873, "Your mother is", "storm-beaten", "Similar to: damaged", "Definition: damaged by storm", ""]}
+{"data": ["2022-11-18T01:01:44.699326+00:00", 6874, "Your mother is", "tube-nosed", "Similar to: nosed", "Definition: having a tubular nose", ""]}
