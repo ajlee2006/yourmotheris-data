@@ -1,1 +1,1 @@
-{"data": ["2022-11-18T06:00:45.753836+00:00", 6879, "Your mother is", "dictatorial", "Pronunciation: /\u02ccd\u026akt\u0259\u02c8to\u028ari\u0259l/", "Definition: characteristic of an absolute ruler or absolute rule; having absolute sovereignty", "Synonyms: authoritarian, autocratic, despotic, tyrannic, tyrannical"]}
+{"data": ["2022-11-18T07:00:31.639505+00:00", 6880, "Your mother is", "unstirred", "Pronunciation: /\u0259n\u02c8st\u025crd/", "Definition: not agitated by stirring", ""]}
