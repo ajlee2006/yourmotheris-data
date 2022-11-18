@@ -1,1 +1,1 @@
-{"data": ["2022-11-18T12:02:09.444780+00:00", 6885, "Your mother is", "unconsolidated", "Pronunciation: /\u028cnk\u028cn\u02c8s\u0251l\u028c\u02ccde\u026at\u026ad/", "Definition: loose and unstratified", ""]}
+{"data": ["2022-11-18T13:00:46.424985+00:00", 6886, "Your mother is", "re-entrant", "", "Definition: (of angles) pointing inward", "Synonyms: reentrant"]}
