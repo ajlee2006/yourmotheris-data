@@ -1,1 +1,1 @@
-{"data": ["2022-11-18T22:00:48.016687+00:00", 6895, "Your mother is", "unappealing", "Pronunciation: /\u02cc\u028cn\u028c\u02c8pil\u026a\u014b/", "Definition: (of characters in literature or drama) tending to evoke antipathetic feelings", "Synonyms: unlikable, unlikeable, unsympathetic"]}
+{"data": ["2022-11-18T23:00:30.157892+00:00", 6896, "Your mother is", "shinto", "Pronunciation: /\u02c8\u0283\u026anto\u028a/", "Definition: relating to or characteristic of Shintoism", "Synonyms: shintoist, shintoistic"]}
