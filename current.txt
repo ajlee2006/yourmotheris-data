@@ -1,1 +1,1 @@
-{"data": ["2022-11-18T14:01:05.476186+00:00", 6887, "Your mother is", "real-time", "", "Definition: of or relating to computer systems that update information at the same rate they receive information", ""]}
+{"data": ["2022-11-18T15:00:19.657122+00:00", 6888, "Your mother is", "diurnal", "Pronunciation: /da\u026a\u02c8\u025crn\u0259l/", "Definition: having a daily cycle or occurring every day", ""]}
