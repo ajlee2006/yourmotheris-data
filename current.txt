@@ -1,1 +1,1 @@
-{"data": ["2022-11-18T02:01:29.939180+00:00", 6875, "Your mother is", "measly", "Pronunciation: /\u02c8mizli/", "Definition: contemptibly small in amount", "Synonyms: miserable, paltry"]}
+{"data": ["2022-11-18T03:01:13.258908+00:00", 6876, "Your mother is", "gruff", "Pronunciation: /gr\u0259f/", "Definition: deep and harsh sounding as if from shouting or illness or emotion", "Synonyms: hoarse, husky"]}
