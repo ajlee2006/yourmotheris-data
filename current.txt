@@ -1,1 +1,1 @@
-{"data": ["2022-11-18T03:01:13.258908+00:00", 6876, "Your mother is", "gruff", "Pronunciation: /gr\u0259f/", "Definition: deep and harsh sounding as if from shouting or illness or emotion", "Synonyms: hoarse, husky"]}
+{"data": ["2022-11-18T04:01:26.408660+00:00", 6877, "Your mother is", "obscure", "Pronunciation: /\u0259b\u02c8skj\u028ar/", "Definition: not drawing attention", "Synonyms: unnoticeable"]}
