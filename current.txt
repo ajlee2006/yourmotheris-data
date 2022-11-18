@@ -1,1 +1,1 @@
-{"data": ["2022-11-18T05:00:34.625609+00:00", 6878, "Your mother is", "vapourish", "Pronunciation: /\u02c8ve\u026ap\u0259r\u026a\u0283/", "Definition: resembling or characteristic of vapor", "Synonyms: vaporific, vaporish, vaporous, vapourific, vapourous"]}
+{"data": ["2022-11-18T06:00:45.753836+00:00", 6879, "Your mother is", "dictatorial", "Pronunciation: /\u02ccd\u026akt\u0259\u02c8to\u028ari\u0259l/", "Definition: characteristic of an absolute ruler or absolute rule; having absolute sovereignty", "Synonyms: authoritarian, autocratic, despotic, tyrannic, tyrannical"]}
