@@ -1,1 +1,1 @@
-{"data": ["2022-11-18T13:00:46.424985+00:00", 6886, "Your mother is", "re-entrant", "", "Definition: (of angles) pointing inward", "Synonyms: reentrant"]}
+{"data": ["2022-11-18T14:01:05.476186+00:00", 6887, "Your mother is", "real-time", "", "Definition: of or relating to computer systems that update information at the same rate they receive information", ""]}
