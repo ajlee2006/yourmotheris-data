@@ -1,1 +1,1 @@
-{"data": ["2022-11-18T07:00:31.639505+00:00", 6880, "Your mother is", "unstirred", "Pronunciation: /\u0259n\u02c8st\u025crd/", "Definition: not agitated by stirring", ""]}
+{"data": ["2022-11-18T08:01:00.792529+00:00", 6881, "Your mother is", "amiable", "Pronunciation: /\u02c8e\u026ami\u0259b\u0259l/", "Definition: disposed to please", "Synonyms: good-humored, good-humoured"]}
