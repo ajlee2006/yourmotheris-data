@@ -1,1 +1,1 @@
-{"data": ["2022-11-18T17:01:27.817362+00:00", 6890, "Your mother is", "realized", "Pronunciation: /\u02c8ri\u02ccla\u026azd/", "Definition: successfully completed or brought to an end", "Synonyms: accomplished, completed, realised"]}
+{"data": ["2022-11-18T18:00:28.798083+00:00", 6891, "Your mother is", "corny", "Pronunciation: /\u02c8k\u0254rni/", "Definition: dull and tiresome but with pretensions of significance or originality", "Synonyms: bromidic, platitudinal, platitudinous"]}
