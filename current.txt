@@ -1,1 +1,1 @@
-{"data": ["2022-11-18T11:00:41.158288+00:00", 6884, "Your mother is", "dumb", "Pronunciation: /d\u0259m/", "Definition: unable to speak because of hereditary deafness", "Synonyms: mute, silent"]}
+{"data": ["2022-11-18T12:02:09.444780+00:00", 6885, "Your mother is", "unconsolidated", "Pronunciation: /\u028cnk\u028cn\u02c8s\u0251l\u028c\u02ccde\u026at\u026ad/", "Definition: loose and unstratified", ""]}
