@@ -1,1 +1,1 @@
-{"data": ["2022-11-19T10:00:48.067696+00:00", 6907, "Your mother is", "wheezy", "Pronunciation: /\u02c8hwizi/", "Definition: having a tone of a reed instrument", "Synonyms: reedy"]}
+{"data": ["2022-11-19T11:00:45.007182+00:00", 6908, "Your mother is", "mesomorphic", "Pronunciation: /\u02ccm\u025bz\u0259\u02c8m\u0254rf\u026ak/", "Definition: having a robust muscular body-build characterized by predominance of structures (bone and muscle and connective tissue) developed from the embryonic mesodermal layer", "Synonyms: muscular"]}
