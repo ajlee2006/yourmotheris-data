@@ -1,1 +1,1 @@
-{"data": ["2022-11-19T21:01:40.166039+00:00", 6918, "Your mother is", "trim", "Pronunciation: /tr\u026am/", "Definition: thin and fit", "Synonyms: spare"]}
+{"data": ["2022-11-19T22:01:40.473738+00:00", 6919, "Your mother is", "slapdash", "Pronunciation: /\u02c8sl\u00e6p\u02ccd\u00e6\u0283/", "Definition: marked by great carelessness", "Synonyms: haphazard, slipshod, sloppy"]}
