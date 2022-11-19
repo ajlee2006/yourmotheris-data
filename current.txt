@@ -1,1 +1,1 @@
-{"data": ["2022-11-19T04:01:32.169439+00:00", 6901, "Your mother is", "blue-blooded", "Pronunciation: /blu-\u02c8bl\u0259d\u026ad/", "Definition: belonging to or characteristic of the nobility or aristocracy", "Synonyms: aristocratic, aristocratical, blue, gentle, patrician"]}
+{"data": ["2022-11-19T05:01:09.040818+00:00", 6902, "Your mother is", "unisex", "Pronunciation: /\u02c8jun\u026a\u02ccs\u025bks/", "Definition: not distinguished on the basis of sex", ""]}
