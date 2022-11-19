@@ -1,1 +1,1 @@
-{"data": ["2022-11-19T15:00:39.590856+00:00", 6912, "Your mother is", "untrue", "Pronunciation: /\u0259n\u02c8tru/", "Definition: not accurately fitted; not level", "Synonyms: out of true"]}
+{"data": ["2022-11-19T16:01:11.959555+00:00", 6913, "Your mother is", "fanciful", "Pronunciation: /\u02c8f\u00e6ns\u026af\u0259l/", "Definition: indulging in or influenced by fancy", "Synonyms: notional"]}
