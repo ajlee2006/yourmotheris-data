@@ -1,1 +1,1 @@
-{"data": ["2022-11-19T18:00:22.671238+00:00", 6915, "Your mother is", "megascopic", "Pronunciation: /\u02ccm\u025b\u0261\u0259\u02c8sk\u0251p\u026ak/", "Definition: visible to the naked eye (especially of rocks and anatomical features)", "Synonyms: gross"]}
+{"data": ["2022-11-19T19:00:11.863427+00:00", 6916, "Your mother is", "unglamorous", "Pronunciation: /\u028cn\u02c8\u0261l\u00e6m\u025dr\u028cs/", "Definition: not challenging; dull and lacking excitement", "Synonyms: commonplace, humdrum, prosaic, unglamourous"]}
