@@ -1,1 +1,1 @@
-{"data": ["2022-11-19T14:01:18.538719+00:00", 6911, "Your mother is", "categorized", "Pronunciation: /\u02c8k\u00e6t\u028c\u0261\u025dr\u02cca\u026azd/", "Definition: arranged into categories", "Synonyms: categorised"]}
+{"data": ["2022-11-19T15:00:39.590856+00:00", 6912, "Your mother is", "untrue", "Pronunciation: /\u0259n\u02c8tru/", "Definition: not accurately fitted; not level", "Synonyms: out of true"]}
