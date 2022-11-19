@@ -1,1 +1,1 @@
-{"data": ["2022-11-18T23:00:30.157892+00:00", 6896, "Your mother is", "shinto", "Pronunciation: /\u02c8\u0283\u026anto\u028a/", "Definition: relating to or characteristic of Shintoism", "Synonyms: shintoist, shintoistic"]}
+{"data": ["2022-11-19T00:01:34.302487+00:00", 6897, "Your mother is", "disqualified", "Pronunciation: /d\u026as\u02c8kw\u0251l\u028c\u02ccfa\u026ad/", "Definition: barred from competition for violation of rules", ""]}
