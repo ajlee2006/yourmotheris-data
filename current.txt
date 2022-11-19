@@ -1,1 +1,1 @@
-{"data": ["2022-11-19T05:01:09.040818+00:00", 6902, "Your mother is", "unisex", "Pronunciation: /\u02c8jun\u026a\u02ccs\u025bks/", "Definition: not distinguished on the basis of sex", ""]}
+{"data": ["2022-11-19T06:00:43.747071+00:00", 6903, "Your mother is", "unexpurgated", "Pronunciation: /\u0259n\u02c8\u025bksp\u0259\u02cc\u0261e\u026at\u026ad/", "Definition: not having material deleted", ""]}
