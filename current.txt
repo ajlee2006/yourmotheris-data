@@ -1,1 +1,1 @@
-{"data": ["2022-11-19T06:00:43.747071+00:00", 6903, "Your mother is", "unexpurgated", "Pronunciation: /\u0259n\u02c8\u025bksp\u0259\u02cc\u0261e\u026at\u026ad/", "Definition: not having material deleted", ""]}
+{"data": ["2022-11-19T07:01:45.041095+00:00", 6904, "Your mother is", "bionomic", "", "Definition: of or relating to the science of ecology", "Synonyms: bionomical, ecologic, ecological"]}
