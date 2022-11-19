@@ -1,1 +1,1 @@
-{"data": ["2022-11-19T11:00:45.007182+00:00", 6908, "Your mother is", "mesomorphic", "Pronunciation: /\u02ccm\u025bz\u0259\u02c8m\u0254rf\u026ak/", "Definition: having a robust muscular body-build characterized by predominance of structures (bone and muscle and connective tissue) developed from the embryonic mesodermal layer", "Synonyms: muscular"]}
+{"data": ["2022-11-19T12:00:47.759725+00:00", 6909, "Your mother is", "aphotic", "Pronunciation: /e\u026a\u02c8fo\u028at\u026ak/", "Definition: lacking light; especially not reached by sunlight", ""]}
