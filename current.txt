@@ -1,1 +1,1 @@
-{"data": ["2022-11-19T00:01:34.302487+00:00", 6897, "Your mother is", "disqualified", "Pronunciation: /d\u026as\u02c8kw\u0251l\u028c\u02ccfa\u026ad/", "Definition: barred from competition for violation of rules", ""]}
+{"data": ["2022-11-19T01:00:38.464664+00:00", 6898, "Your mother is", "beadlike", "Similar to: bright", "Definition: small and round and shiny like a shiny bead or button", "Synonyms: beady, buttonlike, buttony"]}
