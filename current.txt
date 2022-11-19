@@ -1,1 +1,1 @@
-{"data": ["2022-11-19T22:01:40.473738+00:00", 6919, "Your mother is", "slapdash", "Pronunciation: /\u02c8sl\u00e6p\u02ccd\u00e6\u0283/", "Definition: marked by great carelessness", "Synonyms: haphazard, slipshod, sloppy"]}
+{"data": ["2022-11-19T23:00:45.582032+00:00", 6920, "Your mother is", "nonaligned", "Pronunciation: /\u02c8n\u0251n\u028c\u02ccla\u026and/", "Definition: not affiliated with any faction, party, or cause", ""]}
