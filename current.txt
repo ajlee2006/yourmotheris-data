@@ -1,1 +1,1 @@
-{"data": ["2022-11-20T21:00:43.903224+00:00", 6942, "Your mother is", "greco-roman", "Pronunciation: /\u02ccgriko\u028a\u02c8ro\u028am\u0259n/", "Definition: of or pertaining to or characteristic of the ancient Greeks and Romans, especially their art, literature, or culture", "Synonyms: classical, graeco-roman"]}
+{"data": ["2022-11-20T22:00:58.589202+00:00", 6943, "Your mother is", "wolfish", "Pronunciation: /\u02c8w\u028alf\u026a\u0283/", "Definition: devouring or craving food in great quantities", "Synonyms: edacious, esurient, rapacious, ravening, ravenous, voracious"]}
