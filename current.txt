@@ -1,1 +1,1 @@
-{"data": ["2022-11-20T07:00:43.468415+00:00", 6928, "Your mother is", "self-constituted", "Pronunciation: /s\u025blf\u02c8k\u0251nst\u026a\u02cctjut\u026ad/", "Definition: constituted by or established by itself", "Synonyms: self-established"]}
+{"data": ["2022-11-20T08:01:13.004264+00:00", 6929, "Your mother is", "monophysite", "Pronunciation: /m\u0259\u02c8n\u0251f\u026a\u02ccsa\u026at/", "Definition: of or relating to Monophysitism", "Synonyms: monophysitic"]}
