@@ -1,1 +1,1 @@
-{"data": ["2022-11-19T23:00:45.582032+00:00", 6920, "Your mother is", "nonaligned", "Pronunciation: /\u02c8n\u0251n\u028c\u02ccla\u026and/", "Definition: not affiliated with any faction, party, or cause", ""]}
+{"data": ["2022-11-20T00:01:48.240779+00:00", 6921, "Your mother is", "slanting", "Pronunciation: /\u02c8sl\u00e6nt\u026a\u014b/", "Definition: having an oblique or slanted direction", "Synonyms: aslant, aslope, diagonal, slanted, sloped, sloping"]}
