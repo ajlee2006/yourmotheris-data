@@ -1,1 +1,1 @@
-{"data": ["2022-11-20T05:01:12.101590+00:00", 6926, "Your mother is", "univocal", "Pronunciation: /j\u028a\u02c8n\u026av\u0259k\u0259l/", "Definition: admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion", "Synonyms: unambiguous, unequivocal"]}
+{"data": ["2022-11-20T06:00:49.744140+00:00", 6927, "Your mother is", "amber", "Pronunciation: /\u02c8\u00e6mb\u0259r/", "Definition: of a medium to dark brownish yellow color", "Synonyms: brownish-yellow, yellow-brown"]}
