@@ -1,1 +1,1 @@
-{"data": ["2022-11-20T14:00:53.493955+00:00", 6935, "Your mother is", "coexisting", "Pronunciation: /\u02ccko\u028a\u026a\u0261\u02c8z\u026ast\u026a\u014b/", "Definition: existing at the same time", "Synonyms: coexistent"]}
+{"data": ["2022-11-20T15:00:53.349632+00:00", 6936, "Your mother is", "untutored", "Pronunciation: /\u0259n\u02c8tut\u0259rd/", "Definition: lacking in schooling", "Synonyms: unschooled, untaught"]}
