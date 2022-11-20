@@ -1,1 +1,1 @@
-{"data": ["2022-11-20T09:00:42.493711+00:00", 6930, "Your mother is", "noncomprehensive", "Similar to: limited", "Definition: not comprehensive", "Synonyms: incomprehensive"]}
+{"data": ["2022-11-20T10:01:26.640689+00:00", 6931, "Your mother is", "continent-wide", "Pronunciation: /\u02c8k\u0251nt\u0259n\u0259nt-wa\u026ad/", "Definition: involving the entire continent", ""]}
