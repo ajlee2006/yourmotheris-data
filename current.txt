@@ -1,1 +1,1 @@
-{"data": ["2022-11-20T13:01:20.310426+00:00", 6934, "Your mother is", "humorless", "Pronunciation: /\u02c8hjum\u025drl\u028cs/", "Definition: lacking humor", "Synonyms: humourless, unhumorous"]}
+{"data": ["2022-11-20T14:00:53.493955+00:00", 6935, "Your mother is", "coexisting", "Pronunciation: /\u02ccko\u028a\u026a\u0261\u02c8z\u026ast\u026a\u014b/", "Definition: existing at the same time", "Synonyms: coexistent"]}
