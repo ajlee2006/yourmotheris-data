@@ -1,1 +1,1 @@
-{"data": ["2022-11-20T03:01:39.629812+00:00", 6924, "Your mother is", "unsaturated", "Pronunciation: /\u0259n\u02c8s\u00e6t\u0283\u0259\u02ccre\u026at\u026ad/", "Definition: (of color) not chromatically pure; diluted", ""]}
+{"data": ["2022-11-20T04:01:21.210405+00:00", 6925, "Your mother is", "sclerotic", "Pronunciation: /skl\u026a\u02c8r\u0251t\u026ak/", "Definition: relating to or having sclerosis; hardened", "Synonyms: sclerosed"]}
