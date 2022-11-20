@@ -1,1 +1,1 @@
-{"data": ["2022-11-20T16:01:17.381795+00:00", 6937, "Your mother is", "pupal", "Similar to: immature", "Definition: of the insects in the chrysalis (cocoon) or post larval stage", ""]}
+{"data": ["2022-11-20T17:01:35.682051+00:00", 6938, "Your mother is", "intraspecies", "", "Definition: arising or occurring within a species; involving the members of one species", "Synonyms: intraspecific"]}
