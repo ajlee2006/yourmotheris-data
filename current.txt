@@ -1,1 +1,1 @@
-{"data": ["2022-11-20T00:01:48.240779+00:00", 6921, "Your mother is", "slanting", "Pronunciation: /\u02c8sl\u00e6nt\u026a\u014b/", "Definition: having an oblique or slanted direction", "Synonyms: aslant, aslope, diagonal, slanted, sloped, sloping"]}
+{"data": ["2022-11-20T01:01:03.491533+00:00", 6922, "Your mother is", "shortened", "Pronunciation: /\u02c8\u0283\u0254rt\u028cnd/", "Definition: cut short in duration", "Synonyms: abbreviated, truncated"]}
