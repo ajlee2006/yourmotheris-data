@@ -1,1 +1,1 @@
-{"data": ["2022-11-20T15:00:53.349632+00:00", 6936, "Your mother is", "untutored", "Pronunciation: /\u0259n\u02c8tut\u0259rd/", "Definition: lacking in schooling", "Synonyms: unschooled, untaught"]}
+{"data": ["2022-11-20T16:01:17.381795+00:00", 6937, "Your mother is", "pupal", "Similar to: immature", "Definition: of the insects in the chrysalis (cocoon) or post larval stage", ""]}
