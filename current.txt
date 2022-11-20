@@ -1,1 +1,1 @@
-{"data": ["2022-11-20T06:00:49.744140+00:00", 6927, "Your mother is", "amber", "Pronunciation: /\u02c8\u00e6mb\u0259r/", "Definition: of a medium to dark brownish yellow color", "Synonyms: brownish-yellow, yellow-brown"]}
+{"data": ["2022-11-20T07:00:43.468415+00:00", 6928, "Your mother is", "self-constituted", "Pronunciation: /s\u025blf\u02c8k\u0251nst\u026a\u02cctjut\u026ad/", "Definition: constituted by or established by itself", "Synonyms: self-established"]}
