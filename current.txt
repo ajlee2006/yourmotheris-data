@@ -1,1 +1,1 @@
-{"data": ["2022-11-20T10:01:26.640689+00:00", 6931, "Your mother is", "continent-wide", "Pronunciation: /\u02c8k\u0251nt\u0259n\u0259nt-wa\u026ad/", "Definition: involving the entire continent", ""]}
+{"data": ["2022-11-20T11:00:17.490622+00:00", 6932, "Your mother is", "loco", "Pronunciation: /\u02c8lo\u028ako\u028a/", "Definition: informal or slang terms for mentally irregular", "Synonyms: around the bend, balmy, barmy, bats, batty, bonkers, buggy, cracked, crackers, daft, dotty, fruity, haywire, kookie, kooky, loony, loopy, nuts, nutty, round the bend, wacky, whacky"]}
