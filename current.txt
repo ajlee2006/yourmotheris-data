@@ -1,1 +1,1 @@
-{"data": ["2022-11-21T18:00:30.729120+00:00", 6963, "Your mother is", "teal", "Pronunciation: /til/", "Definition: of a bluish shade of green", "Synonyms: blue-green, bluish green, cyan"]}
+{"data": ["2022-11-21T19:00:53.765565+00:00", 6964, "Your mother is", "cozy", "Pronunciation: /\u02c8ko\u028azi/", "Definition: having or fostering a warm or friendly and informal atmosphere", "Synonyms: informal, intimate"]}
