@@ -1,1 +1,1 @@
-{"data": ["2022-11-20T23:00:57.388046+00:00", 6944, "Your mother is", "unblinking", "Pronunciation: /\u0259n\u02c8bl\u026a\u014bk\u026a\u014b/", "Definition: not shrinking from danger", "Synonyms: unflinching, unintimidated, unshrinking"]}
+{"data": ["2022-11-21T00:01:46.251546+00:00", 6945, "Your mother is", "scalable", "Pronunciation: /\u02c8ske\u026al\u0259b\u0259l/", "Definition: capable of being scaled; possible to scale", ""]}
