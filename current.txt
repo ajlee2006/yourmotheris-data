@@ -1,1 +1,1 @@
-{"data": ["2022-11-21T03:00:55.588590+00:00", 6948, "Your mother is", "bronzed", "Pronunciation: /br\u0251nzd/", "Definition: (of skin) having a tan color from exposure to the sun", "Synonyms: suntanned, tanned"]}
+{"data": ["2022-11-21T04:01:13.772321+00:00", 6949, "Your mother is", "rancid", "Pronunciation: /\u02c8r\u00e6ns\u026ad/", "Definition: smelling of fermentation or staleness", "Synonyms: sour"]}
