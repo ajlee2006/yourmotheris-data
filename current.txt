@@ -1,1 +1,1 @@
-{"data": ["2022-11-21T17:00:41.561694+00:00", 6962, "Your mother is", "m", "Pronunciation: /\u025bm/", "Definition: denoting a quantity consisting of 1,000 items or units", "Synonyms: 1000, k, one thousand, thousand"]}
+{"data": ["2022-11-21T18:00:30.729120+00:00", 6963, "Your mother is", "teal", "Pronunciation: /til/", "Definition: of a bluish shade of green", "Synonyms: blue-green, bluish green, cyan"]}
