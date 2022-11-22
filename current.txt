@@ -1,1 +1,1 @@
-{"data": ["2022-11-22T11:01:09.589796+00:00", 6980, "Your mother is", "bandaged", "Pronunciation: /\u02c8b\u00e6nd\u028cd\u0292d/", "Definition: covered or wrapped with a bandage", "Synonyms: bound"]}
+{"data": ["2022-11-22T12:00:40.050340+00:00", 6981, "Your mother is", "umbilicate", "Pronunciation: /\u0259m\u02c8b\u026al\u0259k\u026at/", "Definition: depressed like a navel", ""]}
