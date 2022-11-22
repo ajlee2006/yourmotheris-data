@@ -1,1 +1,1 @@
-{"data": ["2022-11-22T09:01:17.176690+00:00", 6978, "Your mother is", "lit", "Pronunciation: /l\u026at/", "Definition: set afire or burning", "Synonyms: lighted"]}
+{"data": ["2022-11-22T10:00:32.712308+00:00", 6979, "Your mother is", "close-packed", "Similar to: compact", "Definition: packed especially tightly", ""]}
