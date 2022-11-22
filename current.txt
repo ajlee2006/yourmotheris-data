@@ -1,1 +1,1 @@
-{"data": ["2022-11-22T02:01:26.539096+00:00", 6971, "Your mother is", "branching", "Pronunciation: /\u02c8br\u00e6nt\u0283\u026a\u014b/", "Definition: having branches", "Synonyms: branched, ramate, ramose, ramous"]}
+{"data": ["2022-11-22T03:00:51.625273+00:00", 6972, "Your mother is", "wavelike", "Similar to: uneven", "Definition: uneven by virtue of having wrinkles or waves", "Synonyms: crinkled, crinkly, rippled, wavy"]}
