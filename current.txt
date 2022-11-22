@@ -1,1 +1,1 @@
-{"data": ["2022-11-22T13:01:07.039361+00:00", 6982, "Your mother is", "well-defined", "Pronunciation: /\u02c8w\u025bl-d\u026a\u02c8fa\u026and/", "Definition: accurately stated or described", "Synonyms: clear"]}
+{"data": ["2022-11-22T14:00:55.965657+00:00", 6983, "Your mother is", "punitive", "Pronunciation: /\u02c8pjun\u026at\u026av/", "Definition: inflicting punishment", "Synonyms: punitory"]}
