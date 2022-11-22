@@ -1,1 +1,1 @@
-{"data": ["2022-11-22T15:01:00.675867+00:00", 6984, "Your mother is", "irreligious", "Pronunciation: /\u02cc\u026ar\u026a\u02c8l\u026ad\u0292\u0259s/", "Definition: hostile or indifferent to religion", ""]}
+{"data": ["2022-11-22T16:01:30.919412+00:00", 6985, "Your mother is", "parheliacal", "Pronunciation: /\u02ccp\u0251rh\u026a\u02c8la\u026a\u0259k\u0259l/", "Definition: relating to or resembling a parhelion", "Synonyms: parhelic"]}
