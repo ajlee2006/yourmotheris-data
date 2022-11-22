@@ -1,1 +1,1 @@
-{"data": ["2022-11-22T07:00:47.324820+00:00", 6976, "Your mother is", "cursive", "Pronunciation: /\u02c8k\u025crs\u026av/", "Definition: having successive letter joined together", ""]}
+{"data": ["2022-11-22T08:01:03.109015+00:00", 6977, "Your mother is", "jerking", "Pronunciation: /\u02c8d\u0292\u025drk\u026a\u014b/", "Definition: lacking a steady rhythm", "Synonyms: arrhythmic, jerky"]}
