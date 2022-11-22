@@ -1,1 +1,1 @@
-{"data": ["2022-11-22T19:00:40.899625+00:00", 6988, "Your mother is", "sprigged", "Pronunciation: /spr\u026a\u0261d/", "Definition: decorated with designs of sprigs", ""]}
+{"data": ["2022-11-22T20:01:06.375131+00:00", 6989, "Your mother is", "assumed", "Pronunciation: /\u0259\u02c8sumd/", "Definition: adopted in order to deceive", "Synonyms: false, fictitious, fictive, pretended, put on, sham"]}
