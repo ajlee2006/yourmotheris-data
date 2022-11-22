@@ -1,1 +1,1 @@
-{"data": ["2022-11-22T04:01:47.637841+00:00", 6973, "Your mother is", "burr-headed", "Similar to: headed", "Definition: having a head of straight hair cut very short (hence bristly)", ""]}
+{"data": ["2022-11-22T05:00:59.161749+00:00", 6974, "Your mother is", "published", "Pronunciation: /\u02c8p\u028cbl\u026a\u0283t/", "Definition: formally made public", "Synonyms: promulgated"]}
