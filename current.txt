@@ -1,1 +1,1 @@
-{"data": ["2022-11-21T23:01:27.755727+00:00", 6968, "Your mother is", "glowing", "Pronunciation: /\u02c8glo\u028a\u026a\u014b/", "Definition: highly enthusiastic", ""]}
+{"data": ["2022-11-22T00:02:24.493086+00:00", 6969, "Your mother is", "drunk", "Pronunciation: /dr\u0259\u014bk/", "Definition: stupefied or excited by a chemical substance (especially alcohol)", "Synonyms: gone, inebriated, intoxicated, ripped"]}
