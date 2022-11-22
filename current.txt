@@ -1,1 +1,1 @@
-{"data": ["2022-11-22T20:01:06.375131+00:00", 6989, "Your mother is", "assumed", "Pronunciation: /\u0259\u02c8sumd/", "Definition: adopted in order to deceive", "Synonyms: false, fictitious, fictive, pretended, put on, sham"]}
+{"data": ["2022-11-22T21:00:21.889604+00:00", 6990, "Your mother is", "imprudent", "Pronunciation: /\u026am\u02c8prud\u0259nt/", "Definition: lacking wise self-restraint", ""]}
