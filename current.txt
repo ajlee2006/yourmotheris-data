@@ -1,1 +1,1 @@
-{"data": ["2022-11-22T21:00:21.889604+00:00", 6990, "Your mother is", "imprudent", "Pronunciation: /\u026am\u02c8prud\u0259nt/", "Definition: lacking wise self-restraint", ""]}
+{"data": ["2022-11-22T22:00:42.727326+00:00", 6991, "Your mother is", "garbed", "Pronunciation: /\u0261\u0251rbd/", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: appareled, attired, dressed, garmented, habilimented, robed"]}
