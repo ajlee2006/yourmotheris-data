@@ -1,1 +1,1 @@
-{"data": ["2022-11-22T10:00:32.712308+00:00", 6979, "Your mother is", "close-packed", "Similar to: compact", "Definition: packed especially tightly", ""]}
+{"data": ["2022-11-22T11:01:09.589796+00:00", 6980, "Your mother is", "bandaged", "Pronunciation: /\u02c8b\u00e6nd\u028cd\u0292d/", "Definition: covered or wrapped with a bandage", "Synonyms: bound"]}
