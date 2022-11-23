@@ -1,1 +1,1 @@
-{"data": ["2022-11-23T14:01:46.109624+00:00", 7006, "Your mother is", "offside", "Pronunciation: /\u02c8\u0254f\u02c8sa\u026ad/", "Definition: illegally beyond a prescribed line or area or ahead of the ball or puck", "Synonyms: offsides"]}
+{"data": ["2022-11-23T15:01:13.045047+00:00", 7007, "Your mother is", "blear", "Pronunciation: /blir/", "Definition: tired to the point of exhaustion", "Synonyms: blear-eyed, bleary, bleary-eyed"]}
