@@ -1,1 +1,1 @@
-{"data": ["2022-11-23T04:00:42.904118+00:00", 6997, "Your mother is", "unwavering", "Pronunciation: /\u0259n\u02c8we\u026av\u0259ri\u014b/", "Definition: marked by firm determination or resolution; not shakable", "Synonyms: firm, steadfast, steady, stiff, unbendable, unfaltering, unshakable"]}
+{"data": ["2022-11-23T05:01:52.074868+00:00", 6998, "Your mother is", "monarchical", "Pronunciation: /m\u0259\u02c8n\u0251rk\u026ak\u0259l/", "Definition: having the characteristics of or befitting or worthy of a monarch", "Synonyms: monarchal"]}
