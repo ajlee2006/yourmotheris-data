@@ -1,1 +1,1 @@
-{"data": ["2022-11-23T03:01:45.354432+00:00", 6996, "Your mother is", "wonder-struck", "Pronunciation: /\u02c8w\u0259nd\u0259r-str\u0259k/", "Definition: affected by or overcome with wonder", ""]}
+{"data": ["2022-11-23T04:00:42.904118+00:00", 6997, "Your mother is", "unwavering", "Pronunciation: /\u0259n\u02c8we\u026av\u0259ri\u014b/", "Definition: marked by firm determination or resolution; not shakable", "Synonyms: firm, steadfast, steady, stiff, unbendable, unfaltering, unshakable"]}
