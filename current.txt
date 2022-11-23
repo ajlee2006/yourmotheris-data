@@ -1,1 +1,1 @@
-{"data": ["2022-11-23T13:00:40.933480+00:00", 7005, "Your mother is", "sanctioning", "Pronunciation: /\u02c8s\u00e6\u014bk\u0283\u028cn\u026a\u014b/", "Definition: implying sanction or serving to sanction", "Synonyms: sanctionative"]}
+{"data": ["2022-11-23T14:01:46.109624+00:00", 7006, "Your mother is", "offside", "Pronunciation: /\u02c8\u0254f\u02c8sa\u026ad/", "Definition: illegally beyond a prescribed line or area or ahead of the ball or puck", "Synonyms: offsides"]}
