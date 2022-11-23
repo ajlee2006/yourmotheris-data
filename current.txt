@@ -1,1 +1,1 @@
-{"data": ["2022-11-23T20:01:23.757504+00:00", 7012, "Your mother is", "obliging", "Pronunciation: /\u0259\u02c8bla\u026ad\u0292\u026a\u014b/", "Definition: showing a cheerful willingness to do favors for others", "Synonyms: complaisant"]}
+{"data": ["2022-11-23T21:01:31.924625+00:00", 7013, "Your mother is", "mephistophelean", "Pronunciation: /\u02ccm\u025bf\u026asto\u028a\u02c8fili\u0259n/", "Definition: showing the cunning or ingenuity or wickedness typical of a devil", "Synonyms: devilish, diabolic, diabolical, mephistophelian"]}
