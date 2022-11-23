@@ -1,1 +1,1 @@
-{"data": ["2022-11-22T23:01:26.516983+00:00", 6992, "Your mother is", "geomorphologic", "", "Definition: pertaining to geological structure", "Synonyms: geomorphological, morphologic, morphological, structural"]}
+{"data": ["2022-11-23T00:01:24.811232+00:00", 6993, "Your mother is", "silenced", "Pronunciation: /\u02c8sa\u026al\u028cnst/", "Definition: reduced to silence", ""]}
