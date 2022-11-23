@@ -1,1 +1,1 @@
-{"data": ["2022-11-23T12:00:37.918660+00:00", 7004, "Your mother is", "kid-glove", "Pronunciation: /k\u026ad-gl\u0259v/", "Definition: showing skill and sensitivity in dealing with people", "Synonyms: tactful"]}
+{"data": ["2022-11-23T13:00:40.933480+00:00", 7005, "Your mother is", "sanctioning", "Pronunciation: /\u02c8s\u00e6\u014bk\u0283\u028cn\u026a\u014b/", "Definition: implying sanction or serving to sanction", "Synonyms: sanctionative"]}
