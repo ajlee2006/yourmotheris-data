@@ -1,1 +1,1 @@
-{"data": ["2022-11-23T15:01:13.045047+00:00", 7007, "Your mother is", "blear", "Pronunciation: /blir/", "Definition: tired to the point of exhaustion", "Synonyms: blear-eyed, bleary, bleary-eyed"]}
+{"data": ["2022-11-23T16:00:23.590140+00:00", 7008, "Your mother is", "wrecked", "Pronunciation: /r\u025bkt/", "Definition: destroyed in an accident", ""]}
