@@ -1,1 +1,1 @@
-{"data": ["2022-11-23T00:01:24.811232+00:00", 6993, "Your mother is", "silenced", "Pronunciation: /\u02c8sa\u026al\u028cnst/", "Definition: reduced to silence", ""]}
+{"data": ["2022-11-23T01:02:07.608086+00:00", 6994, "Your mother is", "ignited", "Pronunciation: /\u026a\u0261\u02c8na\u026at\u026ad/", "Definition: set afire", "Synonyms: enkindled, kindled"]}
