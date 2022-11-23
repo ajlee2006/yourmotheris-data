@@ -1,1 +1,1 @@
-{"data": ["2022-11-23T09:01:16.421300+00:00", 7001, "Your mother is", "medium-dry", "Similar to: dry", "Definition: of a wine that is dry but not extremely dry", ""]}
+{"data": ["2022-11-23T10:01:07.390122+00:00", 7002, "Your mother is", "with-it", "Similar to: fashionable", "Definition: in accord with the most fashionable ideas or style", "Synonyms: cutting-edge, up-to-date, up to date"]}
