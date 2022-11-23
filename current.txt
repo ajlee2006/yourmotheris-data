@@ -1,1 +1,1 @@
-{"data": ["2022-11-23T10:01:07.390122+00:00", 7002, "Your mother is", "with-it", "Similar to: fashionable", "Definition: in accord with the most fashionable ideas or style", "Synonyms: cutting-edge, up-to-date, up to date"]}
+{"data": ["2022-11-23T11:01:05.493204+00:00", 7003, "Your mother is", "japanese-speaking", "Similar to: communicative", "Definition: able to communicate in Japanese", ""]}
