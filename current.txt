@@ -1,1 +1,1 @@
-{"data": ["2022-11-23T07:01:16.986626+00:00", 7000, "Your mother is", "autocratic", "Pronunciation: /\u02cc\u0254t\u0259\u02c8kr\u00e6t\u026ak/", "Definition: characteristic of an absolute ruler or absolute rule; having absolute sovereignty", "Synonyms: authoritarian, despotic, dictatorial, tyrannic, tyrannical"]}
+{"data": ["2022-11-23T09:01:16.421300+00:00", 7001, "Your mother is", "medium-dry", "Similar to: dry", "Definition: of a wine that is dry but not extremely dry", ""]}
