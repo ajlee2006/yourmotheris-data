@@ -1,1 +1,1 @@
-{"data": ["2022-11-23T01:02:07.608086+00:00", 6994, "Your mother is", "ignited", "Pronunciation: /\u026a\u0261\u02c8na\u026at\u026ad/", "Definition: set afire", "Synonyms: enkindled, kindled"]}
+{"data": ["2022-11-23T02:01:19.097062+00:00", 6995, "Your mother is", "heterocercal", "Pronunciation: /\u02cch\u025bt\u0259r\u0259\u02c8s\u025crk\u0259l/", "Definition: possessing a tail with the upper lobe larger than the lower and with the vertebral column prolonged into the upper lobe", ""]}
