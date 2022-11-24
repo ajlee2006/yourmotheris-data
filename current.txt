@@ -1,1 +1,1 @@
-{"data": ["2022-11-24T06:01:36.078596+00:00", 7022, "Your mother is", "interlineal", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8l\u026ani\u0259l/", "Definition: written between lines of text", "Synonyms: interlinear"]}
+{"data": ["2022-11-24T07:01:26.247548+00:00", 7023, "Your mother is", "chichi", "Pronunciation: /\u02c8\u0283i\u02c8\u0283i/", "Definition: affectedly trendy and fashionable", ""]}
