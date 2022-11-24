@@ -1,1 +1,1 @@
-{"data": ["2022-11-24T22:00:54.926016+00:00", 7038, "Your mother is", "compassionate", "Pronunciation: /k\u0259m\u02c8p\u00e6\u0283\u0259n\u026at/", "Definition: showing or having compassion", ""]}
+{"data": ["2022-11-24T23:00:19.246355+00:00", 7039, "Your mother is", "azotic", "Pronunciation: /\u0259\u02c8z\u0251t\u026ak/", "Definition: of or containing nitrogen", "Synonyms: nitric, nitrous"]}
