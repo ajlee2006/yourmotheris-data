@@ -1,1 +1,1 @@
-{"data": ["2022-11-24T18:01:22.445200+00:00", 7034, "Your mother is", "downtrodden", "Pronunciation: /\u02c8da\u028an\u02cctr\u0251d\u0259n/", "Definition: abused or oppressed by people in power", ""]}
+{"data": ["2022-11-24T19:01:08.042297+00:00", 7035, "Your mother is", "aggravating", "Pronunciation: /\u02c8\u00e6\u0261r\u028c\u02ccve\u026at\u026a\u014b/", "Definition: making worse", "Synonyms: exacerbating, exasperating"]}
