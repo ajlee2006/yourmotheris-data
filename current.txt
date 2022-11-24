@@ -1,1 +1,1 @@
-{"data": ["2022-11-24T08:01:37.562223+00:00", 7024, "Your mother is", "quasi", "Pronunciation: /\u02c8kw\u0251si/", "Definition: having some resemblance", ""]}
+{"data": ["2022-11-24T09:00:21.178917+00:00", 7025, "Your mother is", "located", "Pronunciation: /\u02c8lo\u028a\u02ccke\u026at\u028cd/", "Definition: situated in a particular spot or position", "Synonyms: placed, set, situated"]}
