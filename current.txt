@@ -1,1 +1,1 @@
-{"data": ["2022-11-24T19:01:08.042297+00:00", 7035, "Your mother is", "aggravating", "Pronunciation: /\u02c8\u00e6\u0261r\u028c\u02ccve\u026at\u026a\u014b/", "Definition: making worse", "Synonyms: exacerbating, exasperating"]}
+{"data": ["2022-11-24T20:00:18.858278+00:00", 7036, "Your mother is", "aphaeretic", "Pronunciation: /\u02cc\u00e6f\u0259\u02c8r\u025bt\u026ak/", "Definition: relating to or formed by or consisting of aphaeresis", "Synonyms: apheretic"]}
