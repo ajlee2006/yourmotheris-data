@@ -1,1 +1,1 @@
-{"data": ["2022-11-24T05:00:36.173589+00:00", 7021, "Your mother is", "plagiarized", "Pronunciation: /\u02c8ple\u026ad\u0292\u025dr\u02cca\u026azd/", "Definition: copied and passed off as your own", "Synonyms: plagiarised, plagiaristic"]}
+{"data": ["2022-11-24T06:01:36.078596+00:00", 7022, "Your mother is", "interlineal", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8l\u026ani\u0259l/", "Definition: written between lines of text", "Synonyms: interlinear"]}
