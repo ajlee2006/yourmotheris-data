@@ -1,1 +1,1 @@
-{"data": ["2022-11-24T20:00:18.858278+00:00", 7036, "Your mother is", "aphaeretic", "Pronunciation: /\u02cc\u00e6f\u0259\u02c8r\u025bt\u026ak/", "Definition: relating to or formed by or consisting of aphaeresis", "Synonyms: apheretic"]}
+{"data": ["2022-11-24T21:01:20.528213+00:00", 7037, "Your mother is", "fissiparous", "Pronunciation: /f\u026a\u02c8s\u026ap\u0259r\u0259s/", "Definition: having separated or advocating separation from another entity or policy or attitude", "Synonyms: breakaway, separatist"]}
