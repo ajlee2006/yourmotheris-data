@@ -1,1 +1,1 @@
-{"data": ["2022-11-23T23:00:21.362324+00:00", 7015, "Your mother is", "outbound", "Pronunciation: /\u02c8a\u028atb\u00e6\u028and/", "Definition: that is going out or leaving", "Synonyms: outward, outward-bound"]}
+{"data": ["2022-11-24T00:01:59.817101+00:00", 7016, "Your mother is", "unpierced", "Similar to: uncut", "Definition: not pierced", ""]}
