@@ -1,1 +1,1 @@
-{"data": ["2022-11-24T11:00:21.999668+00:00", 7027, "Your mother is", "nongranular", "Similar to: fine", "Definition: not having granules", ""]}
+{"data": ["2022-11-24T12:00:19.822770+00:00", 7028, "Your mother is", "slender-waisted", "Similar to: lean", "Definition: having a small waist", "Synonyms: slim-waisted, wasp-waisted"]}
