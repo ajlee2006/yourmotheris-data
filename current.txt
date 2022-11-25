@@ -1,1 +1,1 @@
-{"data": ["2022-11-25T20:00:09.879153+00:00", 7060, "Your mother is", "self-aggrandizing", "Pronunciation: /\u02c8s\u025blf\u0259\u02c8gr\u00e6nda\u026az\u026a\u014b/", "Definition: of or relating to or characteristic of self-aggrandizement", "Synonyms: self-aggrandising"]}
+{"data": ["2022-11-25T21:00:55.312959+00:00", 7061, "Your mother is", "endermatic", "", "Definition: acting by absorption through the skin", "Synonyms: endermic"]}
