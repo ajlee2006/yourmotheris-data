@@ -1,1 +1,1 @@
-{"data": ["2022-11-25T10:01:08.435290+00:00", 7050, "Your mother is", "1st", "Similar to: ordinal", "Definition: indicating the beginning unit in a series", "Synonyms: first"]}
+{"data": ["2022-11-25T11:00:44.447006+00:00", 7051, "Your mother is", "untenable", "Pronunciation: /\u0259n\u02c8t\u025bn\u0259b\u0259l/", "Definition: (of theories etc) incapable of being defended or justified", "Synonyms: indefensible"]}
