@@ -1,1 +1,1 @@
-{"data": ["2022-11-25T03:00:59.269818+00:00", 7043, "Your mother is", "bicornuous", "Similar to: horned", "Definition: having two horns or horn-shaped parts", "Synonyms: bicorn, bicornate, bicorned, bicornuate"]}
+{"data": ["2022-11-25T04:01:31.453861+00:00", 7044, "Your mother is", "autotrophic", "Pronunciation: /\u02cc\u0254t\u0259\u02c8tr\u0251f\u026ak/", "Definition: of or relating to organisms (as green plants) that can make complex organic nutritive compounds from simple inorganic sources by photosynthesis", "Synonyms: autophytic"]}
