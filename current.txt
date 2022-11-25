@@ -1,1 +1,1 @@
-{"data": ["2022-11-25T18:01:42.911522+00:00", 7058, "Your mother is", "nuptial", "Pronunciation: /\u02c8n\u0259p\u0283\u0259l/", "Definition: of or relating to a wedding", "Synonyms: bridal, spousal"]}
+{"data": ["2022-11-25T19:01:16.838527+00:00", 7059, "Your mother is", "azotemic", "", "Definition: of or involving excess nitrogenous waste products in the urine (usually due to kidney insufficiency)", "Synonyms: uraemic, uremic"]}
