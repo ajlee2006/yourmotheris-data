@@ -1,1 +1,1 @@
-{"data": ["2022-11-25T01:01:11.937222+00:00", 7041, "Your mother is", "circular", "Pronunciation: /\u02c8s\u025crkj\u0259l\u0259r/", "Definition: having the shape or form of a circle", "Synonyms: round"]}
+{"data": ["2022-11-25T02:01:45.744089+00:00", 7042, "Your mother is", "nominative", "Pronunciation: /\u02c8n\u0251m\u026an\u0259t\u026av/", "Definition: appointed by nomination", "Synonyms: nominated"]}
