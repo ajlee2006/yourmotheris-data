@@ -1,1 +1,1 @@
-{"data": ["2022-11-25T02:01:45.744089+00:00", 7042, "Your mother is", "nominative", "Pronunciation: /\u02c8n\u0251m\u026an\u0259t\u026av/", "Definition: appointed by nomination", "Synonyms: nominated"]}
+{"data": ["2022-11-25T03:00:59.269818+00:00", 7043, "Your mother is", "bicornuous", "Similar to: horned", "Definition: having two horns or horn-shaped parts", "Synonyms: bicorn, bicornate, bicorned, bicornuate"]}
