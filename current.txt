@@ -1,1 +1,1 @@
-{"data": ["2022-11-25T15:01:47.992152+00:00", 7055, "Your mother is", "pernicious", "Pronunciation: /p\u0259r\u02c8n\u026a\u0283\u0259s/", "Definition: working or spreading in a hidden and usually injurious way", "Synonyms: insidious, subtle"]}
+{"data": ["2022-11-25T16:01:14.730440+00:00", 7056, "Your mother is", "interspecies", "", "Definition: arising or occurring between species", "Synonyms: interspecific"]}
