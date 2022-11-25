@@ -1,1 +1,1 @@
-{"data": ["2022-11-25T16:01:14.730440+00:00", 7056, "Your mother is", "interspecies", "", "Definition: arising or occurring between species", "Synonyms: interspecific"]}
+{"data": ["2022-11-25T17:01:02.962883+00:00", 7057, "Your mother is", "mannish", "Pronunciation: /\u02c8m\u00e6n\u026a\u0283/", "Definition: characteristic of a man as distinguished from a woman", ""]}
