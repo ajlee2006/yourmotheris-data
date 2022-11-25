@@ -1,1 +1,1 @@
-{"data": ["2022-11-25T09:01:20.375529+00:00", 7049, "Your mother is", "175th", "Similar to: ordinal", "Definition: the ordinal number of one hundred seventy-five in counting order", "Synonyms: hundred-and-seventy-fifth"]}
+{"data": ["2022-11-25T10:01:08.435290+00:00", 7050, "Your mother is", "1st", "Similar to: ordinal", "Definition: indicating the beginning unit in a series", "Synonyms: first"]}
