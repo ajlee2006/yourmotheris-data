@@ -1,1 +1,1 @@
-{"data": ["2022-11-26T20:00:22.891058+00:00", 7084, "Your mother is", "disordered", "Pronunciation: /d\u026as\u02c8\u0254rd\u0259rd/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, garbled, illogical, scattered, unconnected"]}
+{"data": ["2022-11-26T21:00:28.187495+00:00", 7085, "Your mother is", "unengaged", "Pronunciation: /\u02cc\u0259n\u026an\u02c8\u0261e\u026ad\u0292d/", "Definition: not promised in marriage", "Synonyms: unpledged, unpromised"]}
