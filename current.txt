@@ -1,1 +1,1 @@
-{"data": ["2022-11-26T09:00:17.185223+00:00", 7073, "Your mother is", "curly-leaved", "Similar to: leafy", "Definition: having curly leaves", "Synonyms: curly-leafed"]}
+{"data": ["2022-11-26T10:00:35.156571+00:00", 7074, "Your mother is", "stupefied", "Similar to: confused", "Definition: in a state of mental numbness especially as resulting from shock", "Synonyms: dazed, stunned, stupid"]}
