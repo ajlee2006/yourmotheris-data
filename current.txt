@@ -1,1 +1,1 @@
-{"data": ["2022-11-26T21:00:28.187495+00:00", 7085, "Your mother is", "unengaged", "Pronunciation: /\u02cc\u0259n\u026an\u02c8\u0261e\u026ad\u0292d/", "Definition: not promised in marriage", "Synonyms: unpledged, unpromised"]}
+{"data": ["2022-11-26T22:01:04.685639+00:00", 7086, "Your mother is", "uninhabitable", "Pronunciation: /\u02cc\u0259n\u026an\u02c8h\u00e6b\u026at\u0259b\u0259l/", "Definition: not fit for habitation", ""]}
