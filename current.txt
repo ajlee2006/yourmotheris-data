@@ -1,1 +1,1 @@
-{"data": ["2022-11-26T12:01:04.135346+00:00", 7076, "Your mother is", "psychotropic", "Pronunciation: /\u02ccsa\u026ako\u028a\u02c8tr\u0251p\u026ak/", "Definition: affecting the mind or mood or other mental processes", "Synonyms: psychoactive"]}
+{"data": ["2022-11-26T13:01:07.315070+00:00", 7077, "Your mother is", "ossified", "Pronunciation: /\u02c8\u0251s\u0259\u02ccfa\u026ad/", "Definition: set in a rigidly conventional pattern of behavior, habits, or beliefs", "Synonyms: fossilised, fossilized"]}
