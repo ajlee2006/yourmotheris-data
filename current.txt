@@ -1,1 +1,1 @@
-{"data": ["2022-11-26T01:01:49.123898+00:00", 7065, "Your mother is", "sumptuary", "Pronunciation: /\u02c8s\u0259mptj\u028a\u0259ri/", "Definition: regulating or controlling expenditure or personal behavior", ""]}
+{"data": ["2022-11-26T02:01:30.735126+00:00", 7066, "Your mother is", "net", "Pronunciation: /n\u025bt/", "Definition: conclusive in a process or progression", "Synonyms: final, last"]}
