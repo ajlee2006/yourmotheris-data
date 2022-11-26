@@ -1,1 +1,1 @@
-{"data": ["2022-11-26T15:00:40.357648+00:00", 7079, "Your mother is", "dextral", "Pronunciation: /\u02c8d\u025bkstr\u0259l/", "Definition: of or on the right", ""]}
+{"data": ["2022-11-26T16:00:53.746044+00:00", 7080, "Your mother is", "echoing", "Pronunciation: /\u02c8\u025bko\u028a\u026a\u014b/", "Definition: (of sounds) repeating by reflection", "Synonyms: reechoing"]}
