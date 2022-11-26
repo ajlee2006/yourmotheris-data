@@ -1,1 +1,1 @@
-{"data": ["2022-11-26T06:01:04.497082+00:00", 7070, "Your mother is", "arthritic", "Pronunciation: /\u0251r\u02c8\u03b8r\u026at\u026ak/", "Definition: of or pertaining to arthritis", "Synonyms: creaky, rheumatic, rheumatoid, rheumy"]}
+{"data": ["2022-11-26T07:00:47.267211+00:00", 7071, "Your mother is", "predigested", "Similar to: digestible", "Definition: artificially partially digested as by enzymatic action", ""]}
