@@ -1,1 +1,1 @@
-{"data": ["2022-11-26T04:00:43.703431+00:00", 7068, "Your mother is", "chlorophyllous", "Pronunciation: /\u02ccklo\u028ar\u0259\u02c8f\u026al\u0259s/", "Definition: relating to or being or containing chlorophyll", "Synonyms: chlorophyllose"]}
+{"data": ["2022-11-26T05:02:12.201203+00:00", 7069, "Your mother is", "factor analytic", "", "Definition: of or relating to or the product of factor analysis", "Synonyms: factor analytical"]}
