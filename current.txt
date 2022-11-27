@@ -1,1 +1,1 @@
-{"data": ["2022-11-27T06:01:49.255506+00:00", 7094, "Your mother is", "bothersome", "Pronunciation: /\u02c8b\u0251\u00f0\u0259rs\u0259m/", "Definition: causing irritation or annoyance", "Synonyms: annoying, galling, irritating, nettlesome, pesky, pestering, pestiferous, plaguey, plaguy, teasing, vexatious, vexing"]}
+{"data": ["2022-11-27T07:00:39.922330+00:00", 7095, "Your mother is", "scurfy", "Similar to: rough", "Definition: rough to the touch; covered with scales or scurf", "Synonyms: lepidote, leprose, scabrous, scaly"]}
