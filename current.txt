@@ -1,1 +1,1 @@
-{"data": ["2022-11-27T19:00:14.682053+00:00", 7107, "Your mother is", "long-dated", "Pronunciation: /l\u0254\u014b-\u02c8de\u026at\u026ad/", "Definition: of a gilt-edged security; having more than 15 years to run before redemption", ""]}
+{"data": ["2022-11-27T20:00:21.775837+00:00", 7108, "Your mother is", "arthropodous", "Pronunciation: /\u0251r\u02c8\u03b8r\u0251p\u0259d\u0259s/", "Definition: of or relating to invertebrates of the phylum Arthropoda", "Synonyms: arthropodal, arthropodan"]}
