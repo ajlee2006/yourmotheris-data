@@ -1,1 +1,1 @@
-{"data": ["2022-11-27T14:00:24.670719+00:00", 7102, "Your mother is", "implemental", "Similar to: helpful", "Definition: serving or acting as a means or aid", "Synonyms: instrumental, subservient"]}
+{"data": ["2022-11-27T15:00:38.381987+00:00", 7103, "Your mother is", "dichotomous", "Pronunciation: /d\u026a\u02c8k\u0251t\u0259m\u0259s/", "Definition: divided or dividing into two sharply distinguished parts or classifications", ""]}
