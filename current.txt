@@ -1,1 +1,1 @@
-{"data": ["2022-11-27T21:01:12.554791+00:00", 7109, "Your mother is", "in style", "Similar to: fashionable", "Definition: in the current fashion or style", "Synonyms: a la mode, in vogue, latest, modish"]}
+{"data": ["2022-11-27T22:00:56.476265+00:00", 7110, "Your mother is", "37", "Similar to: cardinal", "Definition: being seven more than thirty", "Synonyms: thirty-seven, xxxvii"]}
