@@ -1,1 +1,1 @@
-{"data": ["2022-11-27T03:01:01.560395+00:00", 7091, "Your mother is", "appointed", "Pronunciation: /\u0259\u02c8p\u0254\u026ant\u026ad/", "Definition: fixed or established especially by order or command", "Synonyms: decreed, ordained, prescribed"]}
+{"data": ["2022-11-27T04:01:42.564714+00:00", 7092, "Your mother is", "terror-struck", "Pronunciation: /\u02c8t\u025br\u0259r-str\u0259k/", "Definition: struck or filled with terror", "Synonyms: terror-stricken"]}
