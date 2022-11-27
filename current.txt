@@ -1,1 +1,1 @@
-{"data": ["2022-11-27T15:00:38.381987+00:00", 7103, "Your mother is", "dichotomous", "Pronunciation: /d\u026a\u02c8k\u0251t\u0259m\u0259s/", "Definition: divided or dividing into two sharply distinguished parts or classifications", ""]}
+{"data": ["2022-11-27T16:01:39.436872+00:00", 7104, "Your mother is", "glorified", "Pronunciation: /\u02c8\u0261l\u0254r\u028c\u02ccfa\u026ad/", "Definition: accorded sacrosanct or authoritative standing", "Synonyms: canonised, canonized"]}
