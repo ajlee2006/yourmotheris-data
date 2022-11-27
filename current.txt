@@ -1,1 +1,1 @@
-{"data": ["2022-11-27T18:00:20.026756+00:00", 7106, "Your mother is", "leal", "Pronunciation: /lil/", "Definition: faithful and true", ""]}
+{"data": ["2022-11-27T19:00:14.682053+00:00", 7107, "Your mother is", "long-dated", "Pronunciation: /l\u0254\u014b-\u02c8de\u026at\u026ad/", "Definition: of a gilt-edged security; having more than 15 years to run before redemption", ""]}
