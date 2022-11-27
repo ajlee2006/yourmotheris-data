@@ -1,1 +1,1 @@
-{"data": ["2022-11-27T02:00:44.972991+00:00", 7090, "Your mother is", "aramean", "Pronunciation: /\u02cc\u00e6r\u0259\u02c8mi\u0259n/", "Definition: of or relating to Aram or to its inhabitants or their culture or their language", "Synonyms: aramaean"]}
+{"data": ["2022-11-27T03:01:01.560395+00:00", 7091, "Your mother is", "appointed", "Pronunciation: /\u0259\u02c8p\u0254\u026ant\u026ad/", "Definition: fixed or established especially by order or command", "Synonyms: decreed, ordained, prescribed"]}
