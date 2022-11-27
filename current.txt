@@ -1,1 +1,1 @@
-{"data": ["2022-11-27T22:00:56.476265+00:00", 7110, "Your mother is", "37", "Similar to: cardinal", "Definition: being seven more than thirty", "Synonyms: thirty-seven, xxxvii"]}
+{"data": ["2022-11-27T23:01:11.946104+00:00", 7111, "Your mother is", "rickety", "Pronunciation: /\u02c8r\u026ak\u026ati/", "Definition: affected with, suffering from, or characteristic of rickets", "Synonyms: rachitic"]}
