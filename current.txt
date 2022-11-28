@@ -1,1 +1,1 @@
-{"data": ["2022-11-27T23:01:11.946104+00:00", 7111, "Your mother is", "rickety", "Pronunciation: /\u02c8r\u026ak\u026ati/", "Definition: affected with, suffering from, or characteristic of rickets", "Synonyms: rachitic"]}
+{"data": ["2022-11-28T00:01:48.195361+00:00", 7112, "Your mother is", "extreme", "Pronunciation: /\u026ak\u02c8strim/", "Definition: of the greatest possible degree or extent or intensity", "Synonyms: utmost, uttermost"]}
