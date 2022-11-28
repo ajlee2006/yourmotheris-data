@@ -1,1 +1,1 @@
-{"data": ["2022-11-28T11:00:19.893319+00:00", 7123, "Your mother is", "hurrying", "Pronunciation: /\u02c8h\u025dri\u026a\u014b/", "Definition: moving with great haste", "Synonyms: scurrying"]}
+{"data": ["2022-11-28T12:01:17.251519+00:00", 7124, "Your mother is", "clean-limbed", "Pronunciation: /\u02c8klin\u02ccl\u026amd/", "Definition: having well-proportioned limbs", ""]}
