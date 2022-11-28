@@ -1,1 +1,1 @@
-{"data": ["2022-11-28T00:01:48.195361+00:00", 7112, "Your mother is", "extreme", "Pronunciation: /\u026ak\u02c8strim/", "Definition: of the greatest possible degree or extent or intensity", "Synonyms: utmost, uttermost"]}
+{"data": ["2022-11-28T01:00:18.938403+00:00", 7113, "Your mother is", "candescent", "Pronunciation: /k\u00e6n\u02c8d\u025bs\u0259nt/", "Definition: glowing from great heat", ""]}
