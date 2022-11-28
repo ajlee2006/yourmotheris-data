@@ -1,1 +1,1 @@
-{"data": ["2022-11-28T15:01:43.897169+00:00", 7127, "Your mother is", "balsam-scented", "Similar to: odorous", "Definition: smelling of balsam resin", ""]}
+{"data": ["2022-11-28T16:00:31.472927+00:00", 7128, "Your mother is", "consolatory", "Pronunciation: /k\u0259n\u02c8s\u0251l\u0259\u02ccto\u028ari/", "Definition: affording comfort or solace", "Synonyms: comforting, consoling"]}
