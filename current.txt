@@ -1,1 +1,1 @@
-{"data": ["2022-11-28T16:00:31.472927+00:00", 7128, "Your mother is", "consolatory", "Pronunciation: /k\u0259n\u02c8s\u0251l\u0259\u02ccto\u028ari/", "Definition: affording comfort or solace", "Synonyms: comforting, consoling"]}
+{"data": ["2022-11-28T17:01:09.232968+00:00", 7129, "Your mother is", "two-humped", "", "Definition: having two humps", "Synonyms: double-humped"]}
