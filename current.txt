@@ -1,1 +1,1 @@
-{"data": ["2022-11-28T06:00:53.588962+00:00", 7118, "Your mother is", "stretch", "Pronunciation: /str\u025b\u02a7/", "Definition: easily stretched", ""]}
+{"data": ["2022-11-28T07:00:19.269559+00:00", 7119, "Your mother is", "pastelike", "Similar to: colorless", "Definition: resembling paste in color; pallid", "Synonyms: pasty"]}
