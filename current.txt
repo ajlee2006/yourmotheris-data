@@ -1,1 +1,1 @@
-{"data": ["2022-11-28T21:00:13.619612+00:00", 7133, "Your mother is", "affixed", "Pronunciation: /\u028c\u02c8f\u026akst/", "Definition: firmly attached", ""]}
+{"data": ["2022-11-28T22:01:23.033288+00:00", 7134, "Your mother is", "tiny", "Pronunciation: /\u02c8ta\u026ani/", "Definition: very small", "Synonyms: bantam, diminutive, flyspeck, lilliputian, midget, petite"]}
