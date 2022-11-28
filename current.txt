@@ -1,1 +1,1 @@
-{"data": ["2022-11-28T02:00:53.207580+00:00", 7114, "Your mother is", "unexpendable", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8sp\u025bnd\u0259b\u0259l/", "Definition: not suitable to be expended", ""]}
+{"data": ["2022-11-28T03:01:35.660397+00:00", 7115, "Your mother is", "passe", "Pronunciation: /p\u00e6\u02c8se\u026a/", "Definition: out of fashion", "Synonyms: antique, demode, ex, old-fashioned, old-hat, outmoded, passee"]}
