@@ -1,1 +1,1 @@
-{"data": ["2022-11-28T08:00:32.609262+00:00", 7120, "Your mother is", "recursive", "Pronunciation: /r\u026a\u02c8k\u025crs\u026av/", "Definition: of or relating to a recursion", ""]}
+{"data": ["2022-11-28T09:01:12.532890+00:00", 7121, "Your mother is", "sagittal", "Pronunciation: /\u02c8s\u00e6d\u0292\u026at\u0259l/", "Definition: located in a plane that is parallel to the central plane of the sagittal suture", ""]}
