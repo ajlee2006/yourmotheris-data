@@ -1,1 +1,1 @@
-{"data": ["2022-11-28T12:01:17.251519+00:00", 7124, "Your mother is", "clean-limbed", "Pronunciation: /\u02c8klin\u02ccl\u026amd/", "Definition: having well-proportioned limbs", ""]}
+{"data": ["2022-11-28T13:00:46.248136+00:00", 7125, "Your mother is", "bipartizan", "Similar to: nonpartisan", "Definition: supported by both sides", "Synonyms: bipartisan, two-party, two-way"]}
