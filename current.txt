@@ -1,1 +1,1 @@
-{"data": ["2022-11-28T20:00:22.440196+00:00", 7132, "Your mother is", "titanic", "Pronunciation: /ta\u026a\u02c8t\u00e6n\u026ak/", "Definition: of great force or power", ""]}
+{"data": ["2022-11-28T21:00:13.619612+00:00", 7133, "Your mother is", "affixed", "Pronunciation: /\u028c\u02c8f\u026akst/", "Definition: firmly attached", ""]}
