@@ -1,1 +1,1 @@
-{"data": ["2022-11-28T09:01:12.532890+00:00", 7121, "Your mother is", "sagittal", "Pronunciation: /\u02c8s\u00e6d\u0292\u026at\u0259l/", "Definition: located in a plane that is parallel to the central plane of the sagittal suture", ""]}
+{"data": ["2022-11-28T10:01:25.389338+00:00", 7122, "Your mother is", "vulpecular", "Pronunciation: /v\u0259l\u02c8p\u025bkj\u0259l\u0259r/", "Definition: resembling or characteristic of a fox", "Synonyms: vulpine"]}
