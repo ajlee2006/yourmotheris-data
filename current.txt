@@ -1,1 +1,1 @@
-{"data": ["2022-11-28T10:01:25.389338+00:00", 7122, "Your mother is", "vulpecular", "Pronunciation: /v\u0259l\u02c8p\u025bkj\u0259l\u0259r/", "Definition: resembling or characteristic of a fox", "Synonyms: vulpine"]}
+{"data": ["2022-11-28T11:00:19.893319+00:00", 7123, "Your mother is", "hurrying", "Pronunciation: /\u02c8h\u025dri\u026a\u014b/", "Definition: moving with great haste", "Synonyms: scurrying"]}
