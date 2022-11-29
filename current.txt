@@ -1,1 +1,1 @@
-{"data": ["2022-11-29T12:00:26.118367+00:00", 7148, "Your mother is", "soapy", "Pronunciation: /\u02c8so\u028api/", "Definition: unpleasantly and excessively suave or ingratiating in manner or speech", "Synonyms: buttery, fulsome, oily, oleaginous, smarmy, unctuous"]}
+{"data": ["2022-11-29T13:00:51.921620+00:00", 7149, "Your mother is", "navicular", "Pronunciation: /n\u0259\u02c8v\u026akj\u028al\u0259r/", "Definition: shaped like a boat", "Synonyms: scaphoid"]}
