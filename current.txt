@@ -1,1 +1,1 @@
-{"data": ["2022-11-28T23:01:06.434113+00:00", 7135, "Your mother is", "inner", "Pronunciation: /\u02c8\u026an\u0259r/", "Definition: confined to an exclusive group", "Synonyms: inside, privileged"]}
+{"data": ["2022-11-29T00:02:08.683507+00:00", 7136, "Your mother is", "factor analytical", "", "Definition: of or relating to or the product of factor analysis", "Synonyms: factor analytic"]}
