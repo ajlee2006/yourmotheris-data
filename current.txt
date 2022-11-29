@@ -1,1 +1,1 @@
-{"data": ["2022-11-29T22:02:18.619025+00:00", 7158, "Your mother is", "competitory", "Pronunciation: /k\u0259m\u02c8p\u025bt\u026a\u02ccto\u028ari/", "Definition: involving competition or competitiveness", "Synonyms: competitive"]}
+{"data": ["2022-11-29T23:01:39.051184+00:00", 7159, "Your mother is", "101", "Similar to: cardinal", "Definition: being one more than one hundred", "Synonyms: ci, hundred and one, one hundred one"]}
