@@ -1,1 +1,1 @@
-{"data": ["2022-11-29T21:01:57.692888+00:00", 7157, "Your mother is", "broken-down", "Pronunciation: /\u02c8bro\u028ak\u0259n-da\u028an/", "Definition: in deplorable condition", "Synonyms: bedraggled, derelict, dilapidated, ramshackle, tatterdemalion, tumble-down"]}
+{"data": ["2022-11-29T22:02:18.619025+00:00", 7158, "Your mother is", "competitory", "Pronunciation: /k\u0259m\u02c8p\u025bt\u026a\u02ccto\u028ari/", "Definition: involving competition or competitiveness", "Synonyms: competitive"]}
