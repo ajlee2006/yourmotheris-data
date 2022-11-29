@@ -1,1 +1,1 @@
-{"data": ["2022-11-29T07:00:31.319019+00:00", 7143, "Your mother is", "dexter", "Pronunciation: /\u02c8d\u025bkst\u0259r/", "Definition: on or starting from the wearer's right", ""]}
+{"data": ["2022-11-29T08:00:41.425958+00:00", 7144, "Your mother is", "theatrical", "Pronunciation: /\u03b8i\u02c8\u00e6tr\u026ak\u0259l/", "Definition: suited to or characteristic of the stage or theater", ""]}
