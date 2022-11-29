@@ -1,1 +1,1 @@
-{"data": ["2022-11-29T08:00:41.425958+00:00", 7144, "Your mother is", "theatrical", "Pronunciation: /\u03b8i\u02c8\u00e6tr\u026ak\u0259l/", "Definition: suited to or characteristic of the stage or theater", ""]}
+{"data": ["2022-11-29T09:01:48.107729+00:00", 7145, "Your mother is", "humanitarian", "Pronunciation: /hju\u02ccm\u00e6n\u026a\u02c8t\u025cri\u0259n/", "Definition: marked by humanistic values and devotion to human welfare", "Synonyms: human-centered, human-centred, humanist, humanistic"]}
