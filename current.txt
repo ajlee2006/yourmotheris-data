@@ -1,1 +1,1 @@
-{"data": ["2022-11-29T10:00:54.971471+00:00", 7146, "Your mother is", "foliated", "Pronunciation: /\u02c8fo\u028ali\u02cce\u026at\u026ad/", "Definition: (especially of metamorphic rock) having thin leaflike layers or strata", "Synonyms: foliaceous, foliate"]}
+{"data": ["2022-11-29T11:01:52.420270+00:00", 7147, "Your mother is", "transistorised", "Similar to: equipped", "Definition: (of an electronic device) equipped with transistors", "Synonyms: transistorized"]}
