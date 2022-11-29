@@ -1,1 +1,1 @@
-{"data": ["2022-11-29T04:01:49.810866+00:00", 7140, "Your mother is", "spooky", "Pronunciation: /\u02c8spuki/", "Definition: unpredictably excitable (especially of horses)", "Synonyms: flighty, nervous, skittish"]}
+{"data": ["2022-11-29T05:01:05.443474+00:00", 7141, "Your mother is", "overturned", "Pronunciation: /\u02c8o\u028av\u025dr\u02cct\u025drnd/", "Definition: having been turned so that the bottom is no longer the bottom", "Synonyms: upset, upturned"]}
