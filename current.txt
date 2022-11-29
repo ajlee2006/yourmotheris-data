@@ -1,1 +1,1 @@
-{"data": ["2022-11-29T01:00:47.014897+00:00", 7137, "Your mother is", "cut-price", "Similar to: cheap", "Definition: costing less than standard price", "Synonyms: bargain-priced, cut-rate"]}
+{"data": ["2022-11-29T02:01:09.967402+00:00", 7138, "Your mother is", "unexhausted", "Pronunciation: /\u02cc\u0259n\u026a\u0261\u02c8z\u0251st\u026ad/", "Definition: not used up completely", ""]}
