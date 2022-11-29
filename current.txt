@@ -1,1 +1,1 @@
-{"data": ["2022-11-29T16:01:00.956994+00:00", 7152, "Your mother is", "inflexible", "Pronunciation: /\u026an\u02c8fl\u025bks\u0259b\u0259l/", "Definition: incapable of adapting or changing to meet circumstances", "Synonyms: rigid, unbending"]}
+{"data": ["2022-11-29T17:00:11.570370+00:00", 7153, "Your mother is", "compos mentis", "Pronunciation: /\u02c8ko\u028ampo\u028as-\u02c8m\u025bnt\u026as/", "Definition: of sound mind, memory, and understanding; in law, competent to go to trial", "Synonyms: of sound mind"]}
