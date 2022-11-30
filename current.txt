@@ -1,1 +1,1 @@
-{"data": ["2022-11-30T16:00:47.901873+00:00", 7176, "Your mother is", "autosemantic", "Similar to: categorematic", "Definition: of a word or phrase meaningful in isolation, independent of context", ""]}
+{"data": ["2022-11-30T17:00:39.273212+00:00", 7177, "Your mother is", "highly strung", "Similar to: tense", "Definition: being in a tense state", "Synonyms: edgy, high-strung, jittery, jumpy, nervy, overstrung, restive, uptight"]}
