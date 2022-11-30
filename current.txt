@@ -1,1 +1,1 @@
-{"data": ["2022-11-30T14:00:39.040876+00:00", 7174, "Your mother is", "button-shaped", "Pronunciation: /\u02c8b\u0259t\u0259n-\u0283e\u026apt/", "Definition: shaped like a button", ""]}
+{"data": ["2022-11-30T15:01:04.597101+00:00", 7175, "Your mother is", "branched", "Pronunciation: /br\u00e6nt\u0283t/", "Definition: having branches", "Synonyms: branching, ramate, ramose, ramous"]}
