@@ -1,1 +1,1 @@
-{"data": ["2022-11-30T04:01:29.431087+00:00", 7164, "Your mother is", "autoecious", "Pronunciation: /\u0254\u02c8ti\u0283\u0259s/", "Definition: of parasites especially rust fungi; completing the entire life cycle on a single host", "Synonyms: homoecious"]}
+{"data": ["2022-11-30T05:00:52.892345+00:00", 7165, "Your mother is", "enteric", "Pronunciation: /\u025bn\u02c8t\u025br\u026ak/", "Definition: of or relating to or inside the intestines", "Synonyms: enteral, intestinal"]}
