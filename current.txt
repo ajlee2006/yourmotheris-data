@@ -1,1 +1,1 @@
-{"data": ["2022-11-30T12:01:10.903816+00:00", 7172, "Your mother is", "sunset", "Pronunciation: /\u02c8s\u0259n\u02ccs\u025bt/", "Definition: of a declining industry or technology", ""]}
+{"data": ["2022-11-30T13:01:02.444121+00:00", 7173, "Your mother is", "90th", "Similar to: ordinal", "Definition: the ordinal number of ninety in counting order", "Synonyms: ninetieth"]}
