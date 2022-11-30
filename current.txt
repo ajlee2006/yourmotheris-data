@@ -1,1 +1,1 @@
-{"data": ["2022-11-30T05:00:52.892345+00:00", 7165, "Your mother is", "enteric", "Pronunciation: /\u025bn\u02c8t\u025br\u026ak/", "Definition: of or relating to or inside the intestines", "Synonyms: enteral, intestinal"]}
+{"data": ["2022-11-30T06:00:32.474864+00:00", 7166, "Your mother is", "uncooked", "Pronunciation: /\u0259n\u02c8k\u028akt/", "Definition: not cooked", ""]}
