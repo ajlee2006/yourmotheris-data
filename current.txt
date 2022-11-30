@@ -1,1 +1,1 @@
-{"data": ["2022-11-30T15:01:04.597101+00:00", 7175, "Your mother is", "branched", "Pronunciation: /br\u00e6nt\u0283t/", "Definition: having branches", "Synonyms: branching, ramate, ramose, ramous"]}
+{"data": ["2022-11-30T16:00:47.901873+00:00", 7176, "Your mother is", "autosemantic", "Similar to: categorematic", "Definition: of a word or phrase meaningful in isolation, independent of context", ""]}
