@@ -1,1 +1,1 @@
-{"data": ["2022-11-30T08:02:07.291855+00:00", 7168, "Your mother is", "monkish", "Similar to: nonindulgent", "Definition: befitting a monk; inclined to self-denial", ""]}
+{"data": ["2022-11-30T09:02:34.457110+00:00", 7169, "Your mother is", "substitutable", "Similar to: exchangeable", "Definition: capable of being exchanged for another or for something else that is equivalent", "Synonyms: commutable"]}
