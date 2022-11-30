@@ -1,1 +1,1 @@
-{"data": ["2022-11-30T19:00:57.903637+00:00", 7179, "Your mother is", "licit", "Pronunciation: /\u02c8l\u026as\u026at/", "Definition: authorized, sanctioned by, or in accordance with law", "Synonyms: lawful, legitimate"]}
+{"data": ["2022-11-30T20:00:34.761741+00:00", 7180, "Your mother is", "ultraconservative", "Pronunciation: /\u02cc\u028cltr\u028ck\u028cn\u02c8s\u025drv\u028ct\u026av/", "Definition: extremely conservative", ""]}
