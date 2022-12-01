@@ -1,1 +1,1 @@
-{"data": ["2022-12-01T14:01:01.367442+00:00", 7198, "Your mother is", "rational", "Pronunciation: /\u02c8r\u00e6\u0283\u0259n\u0259l/", "Definition: of or associated with or requiring the use of the mind", "Synonyms: intellectual, noetic"]}
+{"data": ["2022-12-01T15:01:22.766606+00:00", 7199, "Your mother is", "mediocre", "Pronunciation: /\u02ccmidi\u02c8o\u028akr/", "Definition: moderate to inferior in quality", "Synonyms: second-rate"]}
