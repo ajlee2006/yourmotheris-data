@@ -1,1 +1,1 @@
-{"data": ["2022-12-01T07:00:57.365707+00:00", 7191, "Your mother is", "peachy-colored", "Similar to: chromatic", "Definition: of something resembling a peach in color", "Synonyms: peachy, peachy-coloured"]}
+{"data": ["2022-12-01T08:01:14.115652+00:00", 7192, "Your mother is", "near-blind", "Similar to: blind", "Definition: having greatly reduced vision", "Synonyms: dim-sighted, purblind, sand-blind, visually challenged, visually impaired"]}
