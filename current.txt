@@ -1,1 +1,1 @@
-{"data": ["2022-12-01T16:01:10.301843+00:00", 7200, "Your mother is", "impulsive", "Pronunciation: /\u026am\u02c8p\u0259ls\u026av/", "Definition: determined by chance or impulse or whim rather than by necessity or reason", "Synonyms: capricious, whimsical"]}
+{"data": ["2022-12-01T17:00:32.698466+00:00", 7201, "Your mother is", "fat", "Pronunciation: /f\u00e6t/", "Definition: lucrative", "Synonyms: juicy"]}
