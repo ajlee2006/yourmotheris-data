@@ -1,1 +1,1 @@
-{"data": ["2022-12-01T09:01:01.050401+00:00", 7193, "Your mother is", "consequent", "Pronunciation: /\u02c8k\u0251ns\u0259\u02cckw\u025bnt/", "Definition: occurring with or following as a consequence", "Synonyms: accompanying, attendant, collateral, concomitant, ensuant, incidental, resultant, sequent"]}
+{"data": ["2022-12-01T10:01:15.804023+00:00", 7194, "Your mother is", "bibulous", "Pronunciation: /\u02c8b\u026abj\u0259l\u0259s/", "Definition: given to or marked by the consumption of alcohol", "Synonyms: boozy, drunken, sottish"]}
