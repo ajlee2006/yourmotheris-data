@@ -1,1 +1,1 @@
-{"data": ["2022-12-01T12:01:07.507086+00:00", 7196, "Your mother is", "redheaded", "Pronunciation: /\u02c8r\u025bd\u02cch\u025bd\u026ad/", "Definition: having red hair and usually fair skin", ""]}
+{"data": ["2022-12-01T13:01:01.055287+00:00", 7197, "Your mother is", "katari", "", "Definition: of or concerning Qatar or its inhabitants", "Synonyms: qatari"]}
