@@ -1,1 +1,1 @@
-{"data": ["2022-12-01T19:00:59.911806+00:00", 7203, "Your mother is", "impressionist", "Pronunciation: /\u026am\u02c8pr\u025b\u0283\u0259n\u026ast/", "Definition: relating to or characteristic of Impressionism", "Synonyms: impressionistic"]}
+{"data": ["2022-12-01T20:01:01.020731+00:00", 7204, "Your mother is", "half-hardy", "Pronunciation: /h\u00e6f-\u02c8h\u0251rdi/", "Definition: (of plants) requiring protection from frost", ""]}
