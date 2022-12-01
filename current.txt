@@ -1,1 +1,1 @@
-{"data": ["2022-12-01T18:00:55.254451+00:00", 7202, "Your mother is", "tinpot", "Pronunciation: /\u02c8t\u026anp\u0251t/", "Definition: inferior (especially of a country's leadership)", ""]}
+{"data": ["2022-12-01T19:00:59.911806+00:00", 7203, "Your mother is", "impressionist", "Pronunciation: /\u026am\u02c8pr\u025b\u0283\u0259n\u026ast/", "Definition: relating to or characteristic of Impressionism", "Synonyms: impressionistic"]}
