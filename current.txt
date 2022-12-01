@@ -1,1 +1,1 @@
-{"data": ["2022-12-01T13:01:01.055287+00:00", 7197, "Your mother is", "katari", "", "Definition: of or concerning Qatar or its inhabitants", "Synonyms: qatari"]}
+{"data": ["2022-12-01T14:01:01.367442+00:00", 7198, "Your mother is", "rational", "Pronunciation: /\u02c8r\u00e6\u0283\u0259n\u0259l/", "Definition: of or associated with or requiring the use of the mind", "Synonyms: intellectual, noetic"]}
