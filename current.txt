@@ -1,1 +1,1 @@
-{"data": ["2022-12-01T15:01:22.766606+00:00", 7199, "Your mother is", "mediocre", "Pronunciation: /\u02ccmidi\u02c8o\u028akr/", "Definition: moderate to inferior in quality", "Synonyms: second-rate"]}
+{"data": ["2022-12-01T16:01:10.301843+00:00", 7200, "Your mother is", "impulsive", "Pronunciation: /\u026am\u02c8p\u0259ls\u026av/", "Definition: determined by chance or impulse or whim rather than by necessity or reason", "Synonyms: capricious, whimsical"]}
