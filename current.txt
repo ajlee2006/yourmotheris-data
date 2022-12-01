@@ -1,1 +1,1 @@
-{"data": ["2022-12-01T20:01:01.020731+00:00", 7204, "Your mother is", "half-hardy", "Pronunciation: /h\u00e6f-\u02c8h\u0251rdi/", "Definition: (of plants) requiring protection from frost", ""]}
+{"data": ["2022-12-01T21:00:36.863957+00:00", 7205, "Your mother is", "bromidic", "Pronunciation: /bro\u028a\u02c8m\u026ad\u026ak/", "Definition: dull and tiresome but with pretensions of significance or originality", "Synonyms: corny, platitudinal, platitudinous"]}
