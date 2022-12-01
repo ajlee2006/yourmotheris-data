@@ -1,1 +1,1 @@
-{"data": ["2022-12-01T08:01:14.115652+00:00", 7192, "Your mother is", "near-blind", "Similar to: blind", "Definition: having greatly reduced vision", "Synonyms: dim-sighted, purblind, sand-blind, visually challenged, visually impaired"]}
+{"data": ["2022-12-01T09:01:01.050401+00:00", 7193, "Your mother is", "consequent", "Pronunciation: /\u02c8k\u0251ns\u0259\u02cckw\u025bnt/", "Definition: occurring with or following as a consequence", "Synonyms: accompanying, attendant, collateral, concomitant, ensuant, incidental, resultant, sequent"]}
