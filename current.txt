@@ -1,1 +1,1 @@
-{"data": ["2022-12-02T14:01:03.325371+00:00", 7222, "Your mother is", "bimotored", "Pronunciation: /ba\u026a\u02c8mo\u028at\u0259rd/", "Definition: having two motors", ""]}
+{"data": ["2022-12-02T15:00:59.711205+00:00", 7223, "Your mother is", "comforting", "Pronunciation: /\u02c8k\u028cmf\u025drt\u026a\u014b/", "Definition: providing freedom from worry", "Synonyms: cheering, satisfying"]}
