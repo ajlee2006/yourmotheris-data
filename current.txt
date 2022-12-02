@@ -1,1 +1,1 @@
-{"data": ["2022-12-02T13:01:17.405596+00:00", 7221, "Your mother is", "low-cut", "Pronunciation: /lo\u028a-k\u0259t/", "Definition: (of a garment) having a low-cut neckline", "Synonyms: decollete, low-necked"]}
+{"data": ["2022-12-02T14:01:03.325371+00:00", 7222, "Your mother is", "bimotored", "Pronunciation: /ba\u026a\u02c8mo\u028at\u0259rd/", "Definition: having two motors", ""]}
