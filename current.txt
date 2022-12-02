@@ -1,1 +1,1 @@
-{"data": ["2022-12-02T17:01:00.538958+00:00", 7225, "Your mother is", "neural", "Pronunciation: /\u02c8nj\u028a\u0259r\u0259l/", "Definition: of or relating to the nervous system", "Synonyms: nervous"]}
+{"data": ["2022-12-02T18:01:04.396612+00:00", 7226, "Your mother is", "dyspneal", "Similar to: blown", "Definition: not breathing or able to breathe except with difficulty", "Synonyms: breathless, dyspneic, dyspnoeal, dyspnoeic"]}
