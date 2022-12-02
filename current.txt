@@ -1,1 +1,1 @@
-{"data": ["2022-12-02T20:01:12.638397+00:00", 7228, "Your mother is", "sorted", "Pronunciation: /\u02c8s\u0254rt\u026ad/", "Definition: arranged into groups", "Synonyms: grouped"]}
+{"data": ["2022-12-02T21:01:11.996369+00:00", 7229, "Your mother is", "gnomish", "Similar to: little", "Definition: used of small deformed creatures", ""]}
