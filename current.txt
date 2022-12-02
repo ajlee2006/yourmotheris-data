@@ -1,1 +1,1 @@
-{"data": ["2022-12-02T16:01:06.101335+00:00", 7224, "Your mother is", "facetious", "Pronunciation: /f\u0259\u02c8si\u0283\u0259s/", "Definition: cleverly amusing in tone", "Synonyms: bantering, tongue-in-cheek"]}
+{"data": ["2022-12-02T17:01:00.538958+00:00", 7225, "Your mother is", "neural", "Pronunciation: /\u02c8nj\u028a\u0259r\u0259l/", "Definition: of or relating to the nervous system", "Synonyms: nervous"]}
