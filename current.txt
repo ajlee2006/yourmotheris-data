@@ -1,1 +1,1 @@
-{"data": ["2022-12-02T04:01:04.911054+00:00", 7212, "Your mother is", "imbalanced", "Similar to: labile", "Definition: being or thrown out of equilibrium", "Synonyms: unbalanced"]}
+{"data": ["2022-12-02T05:01:14.261922+00:00", 7213, "Your mother is", "harmonizable", "Similar to: reconcilable", "Definition: capable of being made harmonious or consistent", ""]}
