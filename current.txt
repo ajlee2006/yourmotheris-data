@@ -1,1 +1,1 @@
-{"data": ["2022-12-02T08:01:08.963514+00:00", 7216, "Your mother is", "non-water-soluble", "Similar to: indissoluble", "Definition: not soluble in water", "Synonyms: water-insoluble"]}
+{"data": ["2022-12-02T09:01:15.126993+00:00", 7217, "Your mother is", "arch", "Pronunciation: /\u0251r\u02a7/", "Definition: (used of behavior or attitude) characteristic of those who treat others with condescension", "Synonyms: condescending, patronising, patronizing"]}
