@@ -1,1 +1,1 @@
-{"data": ["2022-12-02T19:00:40.696995+00:00", 7227, "Your mother is", "appraising", "Pronunciation: /\u028c\u02c8pre\u026az\u026a\u014b/", "Definition: exercising or involving careful evaluations", "Synonyms: evaluative"]}
+{"data": ["2022-12-02T20:01:12.638397+00:00", 7228, "Your mother is", "sorted", "Pronunciation: /\u02c8s\u0254rt\u026ad/", "Definition: arranged into groups", "Synonyms: grouped"]}
