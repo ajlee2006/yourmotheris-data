@@ -1,1 +1,1 @@
-{"data": ["2022-12-02T21:01:11.996369+00:00", 7229, "Your mother is", "gnomish", "Similar to: little", "Definition: used of small deformed creatures", ""]}
+{"data": ["2022-12-02T22:01:09.960206+00:00", 7230, "Your mother is", "counterpoised", "Similar to: balanced", "Definition: brought into equipoise by means of a weight or force that offsets another", "Synonyms: counterbalanced"]}
