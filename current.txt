@@ -1,1 +1,1 @@
-{"data": ["2022-12-02T01:01:07.593770+00:00", 7209, "Your mother is", "curly", "Pronunciation: /\u02c8k\u025crli/", "Definition: (of hair) having curls or waves", ""]}
+{"data": ["2022-12-02T02:01:24.880647+00:00", 7210, "Your mother is", "propitiative", "Similar to: conciliative", "Definition: intended to reconcile or appease", "Synonyms: propitiatory"]}
