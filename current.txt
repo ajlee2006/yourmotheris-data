@@ -1,1 +1,1 @@
-{"data": ["2022-12-02T12:01:21.673894+00:00", 7220, "Your mother is", "votive", "Pronunciation: /\u02c8vo\u028at\u026av/", "Definition: dedicated in fulfillment of a vow", ""]}
+{"data": ["2022-12-02T13:01:17.405596+00:00", 7221, "Your mother is", "low-cut", "Pronunciation: /lo\u028a-k\u0259t/", "Definition: (of a garment) having a low-cut neckline", "Synonyms: decollete, low-necked"]}
