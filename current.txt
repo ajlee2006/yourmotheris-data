@@ -1,1 +1,1 @@
-{"data": ["2022-12-02T03:01:13.094636+00:00", 7211, "Your mother is", "discontinued", "Pronunciation: /d\u026ask\u028cn\u02c8t\u026anjud/", "Definition: stopped permanently or temporarily", ""]}
+{"data": ["2022-12-02T04:01:04.911054+00:00", 7212, "Your mother is", "imbalanced", "Similar to: labile", "Definition: being or thrown out of equilibrium", "Synonyms: unbalanced"]}
