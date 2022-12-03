@@ -1,1 +1,1 @@
-{"data": ["2022-12-03T14:00:55.436688+00:00", 7246, "Your mother is", "unwished-for", "Pronunciation: /\u0259n\u02c8w\u026a\u0283t-\u02ccf\u0254r/", "Definition: not welcome", "Synonyms: unwelcome, unwished"]}
+{"data": ["2022-12-03T15:01:11.487362+00:00", 7247, "Your mother is", "sought-after", "Pronunciation: /s\u0254t-\u02c8\u00e6ft\u0259r/", "Definition: greatly desired", "Synonyms: coveted, in demand, sought after"]}
