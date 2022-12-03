@@ -1,1 +1,1 @@
-{"data": ["2022-12-03T19:00:32.922063+00:00", 7251, "Your mother is", "dark-grey", "Similar to: achromatic", "Definition: of a dark shade of grey", "Synonyms: dark-gray, oxford-gray, oxford-grey"]}
+{"data": ["2022-12-03T20:01:07.269031+00:00", 7252, "Your mother is", "unrealistic", "Pronunciation: /\u02cc\u0259nri\u0259\u02c8l\u026ast\u026ak/", "Definition: not realistic", ""]}
