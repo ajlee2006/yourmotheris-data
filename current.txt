@@ -1,1 +1,1 @@
-{"data": ["2022-12-03T07:00:55.065832+00:00", 7239, "Your mother is", "unstoppable", "Pronunciation: /\u0259n\u02c8st\u0251p\u0259b\u0259l/", "Definition: not capable of being stopped", ""]}
+{"data": ["2022-12-03T08:00:51.785336+00:00", 7240, "Your mother is", "future", "Pronunciation: /\u02c8fju\u02a7\u0259r/", "Definition: (of elected officers) elected but not yet serving", "Synonyms: next, succeeding"]}
