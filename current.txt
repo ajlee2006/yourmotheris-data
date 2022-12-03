@@ -1,1 +1,1 @@
-{"data": ["2022-12-03T09:01:06.958715+00:00", 7241, "Your mother is", "160", "Similar to: cardinal", "Definition: being ten more than one hundred fifty", "Synonyms: clx, one hundred sixty"]}
+{"data": ["2022-12-03T10:01:09.706108+00:00", 7242, "Your mother is", "outclassed", "Similar to: inferior", "Definition: decisively surpassed by something else so as to appear to be of a lower class", ""]}
