@@ -1,1 +1,1 @@
-{"data": ["2022-12-03T20:01:07.269031+00:00", 7252, "Your mother is", "unrealistic", "Pronunciation: /\u02cc\u0259nri\u0259\u02c8l\u026ast\u026ak/", "Definition: not realistic", ""]}
+{"data": ["2022-12-03T21:01:08.260155+00:00", 7253, "Your mother is", "originative", "Pronunciation: /\u0259\u02c8r\u026ad\u0292\u0259\u02ccne\u026at\u026av/", "Definition: having the ability or power to create", "Synonyms: creative"]}
