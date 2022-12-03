@@ -1,1 +1,1 @@
-{"data": ["2022-12-03T01:01:04.454849+00:00", 7233, "Your mother is", "broken in", "Similar to: tame", "Definition: tamed or trained to obey", "Synonyms: broken"]}
+{"data": ["2022-12-03T02:01:10.622044+00:00", 7234, "Your mother is", "bottom", "Pronunciation: /\u02c8b\u0251t\u0259m/", "Definition: situated at the bottom or lowest position", ""]}
