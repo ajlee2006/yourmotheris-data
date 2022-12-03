@@ -1,1 +1,1 @@
-{"data": ["2022-12-03T06:01:13.115294+00:00", 7238, "Your mother is", "unartistic", "Pronunciation: /\u02cc\u0259n\u0251r\u02c8t\u026ast\u026ak/", "Definition: lacking aesthetic sensibility", "Synonyms: inartistic"]}
+{"data": ["2022-12-03T07:00:55.065832+00:00", 7239, "Your mother is", "unstoppable", "Pronunciation: /\u0259n\u02c8st\u0251p\u0259b\u0259l/", "Definition: not capable of being stopped", ""]}
