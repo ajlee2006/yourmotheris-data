@@ -1,1 +1,1 @@
-{"data": ["2022-12-03T11:01:05.258512+00:00", 7243, "Your mother is", "dozy", "Pronunciation: /\u02c8do\u028azi/", "Definition: half asleep", "Synonyms: drowsing, drowsy"]}
+{"data": ["2022-12-03T12:01:08.547728+00:00", 7244, "Your mother is", "pale-faced", "Similar to: faced", "Definition: having a pale face", ""]}
