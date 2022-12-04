@@ -1,1 +1,1 @@
-{"data": ["2022-12-04T16:01:09.720939+00:00", 7272, "Your mother is", "decorous", "Pronunciation: /\u02c8d\u025bk\u0259r\u0259s/", "Definition: according with custom or propriety", "Synonyms: becoming, comely, comme il faut, seemly"]}
+{"data": ["2022-12-04T17:01:08.709398+00:00", 7273, "Your mother is", "metamorphous", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8m\u0254rf\u0259s/", "Definition: of or relating to metamorphosis (especially of rocks)", "Synonyms: metamorphic"]}
