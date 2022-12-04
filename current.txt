@@ -1,1 +1,1 @@
-{"data": ["2022-12-04T18:01:01.646763+00:00", 7274, "Your mother is", "beaded", "Pronunciation: /\u02c8bid\u026ad/", "Definition: covered with beads of liquid", ""]}
+{"data": ["2022-12-04T19:01:11.271497+00:00", 7275, "Your mother is", "institutional", "Pronunciation: /\u02cc\u026anst\u026a\u02c8tu\u0283\u0259n\u0259l/", "Definition: organized as or forming an institution", ""]}
