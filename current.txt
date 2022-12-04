@@ -1,1 +1,1 @@
-{"data": ["2022-12-04T03:01:06.803373+00:00", 7259, "Your mother is", "moot", "Pronunciation: /mut/", "Definition: open to argument or debate", "Synonyms: arguable, debatable, disputable"]}
+{"data": ["2022-12-04T04:01:08.405189+00:00", 7260, "Your mother is", "cynical", "Pronunciation: /\u02c8s\u026an\u026ak\u0259l/", "Definition: believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others", "Synonyms: misanthropic, misanthropical"]}
