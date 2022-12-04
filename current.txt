@@ -1,1 +1,1 @@
-{"data": ["2022-12-04T08:01:04.147691+00:00", 7264, "Your mother is", "hydrographical", "", "Definition: of or relating to the science of hydrography", "Synonyms: hydrographic"]}
+{"data": ["2022-12-04T09:01:00.444058+00:00", 7265, "Your mother is", "brown-speckled", "Similar to: patterned", "Definition: having brown speckles", "Synonyms: brownish-speckled"]}
