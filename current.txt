@@ -1,1 +1,1 @@
-{"data": ["2022-12-04T14:00:56.270986+00:00", 7270, "Your mother is", "gray-haired", "Similar to: old", "Definition: showing characteristics of age, especially having grey or white hair", "Synonyms: gray, gray-headed, grey, grey-haired, grey-headed, grizzly, hoar, hoary, white-haired"]}
+{"data": ["2022-12-04T15:01:11.077159+00:00", 7271, "Your mother is", "reverberative", "Similar to: reverberant", "Definition: characterized by resonance", "Synonyms: resonant, resonating, resounding, reverberating"]}
