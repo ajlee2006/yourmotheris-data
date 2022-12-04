@@ -1,1 +1,1 @@
-{"data": ["2022-12-04T12:00:53.281242+00:00", 7268, "Your mother is", "positioning", "Pronunciation: /p\u028c\u02c8z\u026a\u0283\u028cn\u026a\u014b/", "Definition: causing to fall into line or into position", "Synonyms: aligning"]}
+{"data": ["2022-12-04T13:01:07.251831+00:00", 7269, "Your mother is", "53", "Similar to: cardinal", "Definition: being three more than fifty", "Synonyms: fifty-three, liii"]}
