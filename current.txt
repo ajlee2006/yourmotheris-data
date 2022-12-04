@@ -1,1 +1,1 @@
-{"data": ["2022-12-04T09:01:00.444058+00:00", 7265, "Your mother is", "brown-speckled", "Similar to: patterned", "Definition: having brown speckles", "Synonyms: brownish-speckled"]}
+{"data": ["2022-12-04T10:01:02.233376+00:00", 7266, "Your mother is", "anthropometrical", "", "Definition: of or relating to anthropometry", "Synonyms: anthropometric"]}
