@@ -1,1 +1,1 @@
-{"data": ["2022-12-04T19:01:11.271497+00:00", 7275, "Your mother is", "institutional", "Pronunciation: /\u02cc\u026anst\u026a\u02c8tu\u0283\u0259n\u0259l/", "Definition: organized as or forming an institution", ""]}
+{"data": ["2022-12-04T20:01:09.238483+00:00", 7276, "Your mother is", "nonfissionable", "", "Definition: not capable of undergoing fission", ""]}
