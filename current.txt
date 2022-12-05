@@ -1,1 +1,1 @@
-{"data": ["2022-12-05T09:01:14.035342+00:00", 7288, "Your mother is", "black-and-tan", "Pronunciation: /\u02c8bl\u00e6k\u0259n\u02c8t\u00e6n/", "Definition: having a pattern of black and tan", ""]}
+{"data": ["2022-12-05T10:01:14.937085+00:00", 7289, "Your mother is", "differential", "Pronunciation: /\u02ccd\u026af\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: involving or containing one or more derivatives", ""]}
