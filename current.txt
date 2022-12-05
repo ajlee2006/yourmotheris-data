@@ -1,1 +1,1 @@
-{"data": ["2022-12-05T07:00:55.728402+00:00", 7286, "Your mother is", "mixed-up", "Similar to: perplexed", "Definition: perplexed by many conflicting situations or statements; filled with bewilderment", "Synonyms: at sea, baffled, befuddled, bemused, bewildered, confounded, confused, lost, mazed"]}
+{"data": ["2022-12-05T08:00:54.236810+00:00", 7287, "Your mother is", "endoergic", "Pronunciation: /\u02cc\u025bndo\u028a\u02c8\u025crd\u0292\u026ak/", "Definition: (of a nuclear reaction) occurring with absorption of energy", "Synonyms: energy-absorbing"]}
