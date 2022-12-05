@@ -1,1 +1,1 @@
-{"data": ["2022-12-05T08:00:54.236810+00:00", 7287, "Your mother is", "endoergic", "Pronunciation: /\u02cc\u025bndo\u028a\u02c8\u025crd\u0292\u026ak/", "Definition: (of a nuclear reaction) occurring with absorption of energy", "Synonyms: energy-absorbing"]}
+{"data": ["2022-12-05T09:01:14.035342+00:00", 7288, "Your mother is", "black-and-tan", "Pronunciation: /\u02c8bl\u00e6k\u0259n\u02c8t\u00e6n/", "Definition: having a pattern of black and tan", ""]}
