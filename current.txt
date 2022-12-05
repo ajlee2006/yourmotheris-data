@@ -1,1 +1,1 @@
-{"data": ["2022-12-05T21:01:02.307741+00:00", 7300, "Your mother is", "chaetognathan", "Pronunciation: /ki\u02c8t\u0251gn\u0259\u03b8\u0259n/", "Definition: of or relating to arrowworms", "Synonyms: chaetognathous"]}
+{"data": ["2022-12-05T22:00:59.918939+00:00", 7301, "Your mother is", "creedal", "", "Definition: of or relating to a creed", "Synonyms: credal"]}
