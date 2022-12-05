@@ -1,1 +1,1 @@
-{"data": ["2022-12-05T19:01:11.527150+00:00", 7298, "Your mother is", "industrious", "Pronunciation: /\u026an\u02c8d\u0259stri\u0259s/", "Definition: characterized by hard work and perseverance", "Synonyms: hardworking, tireless, untiring"]}
+{"data": ["2022-12-05T20:01:18.864537+00:00", 7299, "Your mother is", "sought", "Pronunciation: /s\u0254t/", "Definition: being searched for", "Synonyms: sought-after"]}
