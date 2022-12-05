@@ -1,1 +1,1 @@
-{"data": ["2022-12-05T18:00:58.691798+00:00", 7297, "Your mother is", "enormous", "Pronunciation: /\u026a\u02c8n\u0254rm\u0259s/", "Definition: extraordinarily large in size or extent or amount or power or degree", "Synonyms: tremendous"]}
+{"data": ["2022-12-05T19:01:11.527150+00:00", 7298, "Your mother is", "industrious", "Pronunciation: /\u026an\u02c8d\u0259stri\u0259s/", "Definition: characterized by hard work and perseverance", "Synonyms: hardworking, tireless, untiring"]}
