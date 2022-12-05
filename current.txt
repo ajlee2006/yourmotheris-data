@@ -1,1 +1,1 @@
-{"data": ["2022-12-05T20:01:18.864537+00:00", 7299, "Your mother is", "sought", "Pronunciation: /s\u0254t/", "Definition: being searched for", "Synonyms: sought-after"]}
+{"data": ["2022-12-05T21:01:02.307741+00:00", 7300, "Your mother is", "chaetognathan", "Pronunciation: /ki\u02c8t\u0251gn\u0259\u03b8\u0259n/", "Definition: of or relating to arrowworms", "Synonyms: chaetognathous"]}
