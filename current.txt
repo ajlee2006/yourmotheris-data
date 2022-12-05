@@ -1,1 +1,1 @@
-{"data": ["2022-12-05T12:01:01.063827+00:00", 7291, "Your mother is", "twilight", "Pronunciation: /\u02c8twa\u026a\u02ccla\u026at/", "Definition: lighted by or as if by twilight", "Synonyms: dusky, twilit"]}
+{"data": ["2022-12-05T13:01:05.338933+00:00", 7292, "Your mother is", "caudal", "Pronunciation: /\u02c8k\u0254d\u0259l/", "Definition: resembling a tail", "Synonyms: taillike"]}
