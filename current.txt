@@ -1,1 +1,1 @@
-{"data": ["2022-12-05T11:01:06.398788+00:00", 7290, "Your mother is", "susurrous", "Pronunciation: /s\u028a\u02c8s\u025cr\u0259s/", "Definition: characterized by soft sounds", "Synonyms: murmurous, rustling, soughing"]}
+{"data": ["2022-12-05T12:01:01.063827+00:00", 7291, "Your mother is", "twilight", "Pronunciation: /\u02c8twa\u026a\u02ccla\u026at/", "Definition: lighted by or as if by twilight", "Synonyms: dusky, twilit"]}
