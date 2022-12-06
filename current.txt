@@ -1,1 +1,1 @@
-{"data": ["2022-12-06T07:00:57.362100+00:00", 7310, "Your mother is", "mauve-blue", "Similar to: chromatic", "Definition: of blue tinged with mauve", ""]}
+{"data": ["2022-12-06T08:01:06.940012+00:00", 7311, "Your mother is", "stone-blind", "Pronunciation: /sto\u028an-bla\u026and/", "Definition: completely blind", ""]}
