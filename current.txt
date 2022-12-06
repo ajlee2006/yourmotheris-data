@@ -1,1 +1,1 @@
-{"data": ["2022-12-06T12:01:12.084792+00:00", 7315, "Your mother is", "better-known", "Pronunciation: /\u02c8b\u025bt\u0259r-no\u028an/", "Definition: more familiar or renowned than the other of two", ""]}
+{"data": ["2022-12-06T13:00:49.153920+00:00", 7316, "Your mother is", "apoplectiform", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8pl\u025bkt\u0259\u02ccf\u0254rm/", "Definition: resembling apoplexy", "Synonyms: apoplectoid"]}
