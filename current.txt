@@ -1,1 +1,1 @@
-{"data": ["2022-12-06T22:01:04.176882+00:00", 7325, "Your mother is", "multiform", "Pronunciation: /\u02c8m\u0259lt\u0259\u02ccf\u0254rm/", "Definition: occurring in or having many forms or shapes or appearances", ""]}
+{"data": ["2022-12-06T23:01:10.163972+00:00", 7326, "Your mother is", "goblet-shaped", "Similar to: circular", "Definition: resembling the shape of a goblet", ""]}
