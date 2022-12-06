@@ -1,1 +1,1 @@
-{"data": ["2022-12-06T05:00:57.665923+00:00", 7308, "Your mother is", "calumnious", "Pronunciation: /k\u0259\u02c8l\u0259mni\u0259s/", "Definition: (used of statements) harmful and often untrue; tending to discredit or malign", "Synonyms: calumniatory, defamatory, denigrating, denigrative, denigratory, libellous, libelous, slanderous"]}
+{"data": ["2022-12-06T06:01:21.316953+00:00", 7309, "Your mother is", "stand-up", "Pronunciation: /st\u00e6nd-\u0259p/", "Definition: requiring a standing position", ""]}
