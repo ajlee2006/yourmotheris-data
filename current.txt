@@ -1,1 +1,1 @@
-{"data": ["2022-12-06T19:01:05.907705+00:00", 7322, "Your mother is", "demonstrated", "Pronunciation: /\u02c8d\u025bm\u028cn\u02ccstre\u026at\u028cd/", "Definition: having been demonstrated or verified beyond doubt", ""]}
+{"data": ["2022-12-06T20:01:15.882494+00:00", 7323, "Your mother is", "24", "Similar to: cardinal", "Definition: being four more than twenty", "Synonyms: twenty-four, xxiv"]}
