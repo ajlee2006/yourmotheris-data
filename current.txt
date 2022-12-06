@@ -1,1 +1,1 @@
-{"data": ["2022-12-06T06:01:21.316953+00:00", 7309, "Your mother is", "stand-up", "Pronunciation: /st\u00e6nd-\u0259p/", "Definition: requiring a standing position", ""]}
+{"data": ["2022-12-06T07:00:57.362100+00:00", 7310, "Your mother is", "mauve-blue", "Similar to: chromatic", "Definition: of blue tinged with mauve", ""]}
