@@ -1,1 +1,1 @@
-{"data": ["2022-12-06T11:01:04.303367+00:00", 7314, "Your mother is", "principled", "Pronunciation: /\u02c8pr\u026ans\u0259p\u0259ld/", "Definition: based on or manifesting objectively defined standards of rightness or morality", ""]}
+{"data": ["2022-12-06T12:01:12.084792+00:00", 7315, "Your mother is", "better-known", "Pronunciation: /\u02c8b\u025bt\u0259r-no\u028an/", "Definition: more familiar or renowned than the other of two", ""]}
