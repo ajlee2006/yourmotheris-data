@@ -1,1 +1,1 @@
-{"data": ["2022-12-06T18:01:12.797108+00:00", 7321, "Your mother is", "ramose", "Pronunciation: /\u02c8re\u026amo\u028as/", "Definition: having branches", "Synonyms: branched, branching, ramate, ramous"]}
+{"data": ["2022-12-06T19:01:05.907705+00:00", 7322, "Your mother is", "demonstrated", "Pronunciation: /\u02c8d\u025bm\u028cn\u02ccstre\u026at\u028cd/", "Definition: having been demonstrated or verified beyond doubt", ""]}
