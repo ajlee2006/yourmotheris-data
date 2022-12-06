@@ -1,1 +1,1 @@
-{"data": ["2022-12-06T08:01:06.940012+00:00", 7311, "Your mother is", "stone-blind", "Pronunciation: /sto\u028an-bla\u026and/", "Definition: completely blind", ""]}
+{"data": ["2022-12-06T09:00:54.231311+00:00", 7312, "Your mother is", "dashing", "Pronunciation: /\u02c8d\u00e6\u0283\u026a\u014b/", "Definition: lively and spirited", "Synonyms: gallant"]}
