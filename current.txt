@@ -1,1 +1,1 @@
-{"data": ["2022-12-06T21:00:53.699628+00:00", 7324, "Your mother is", "wafer-thin", "Pronunciation: /\u02c8we\u026af\u0259r-\u02c8\u03b8\u026an/", "Definition: very thin", ""]}
+{"data": ["2022-12-06T22:01:04.176882+00:00", 7325, "Your mother is", "multiform", "Pronunciation: /\u02c8m\u0259lt\u0259\u02ccf\u0254rm/", "Definition: occurring in or having many forms or shapes or appearances", ""]}
