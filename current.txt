@@ -1,1 +1,1 @@
-{"data": ["2022-12-06T17:01:05.906324+00:00", 7320, "Your mother is", "sunny-side up", "Pronunciation: /\u02c8s\u0259ni-\u02ccsa\u026ad/", "Definition: (eggs) fried on only one side", ""]}
+{"data": ["2022-12-06T18:01:12.797108+00:00", 7321, "Your mother is", "ramose", "Pronunciation: /\u02c8re\u026amo\u028as/", "Definition: having branches", "Synonyms: branched, branching, ramate, ramous"]}
