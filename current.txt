@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T15:01:10.464470+00:00", 7342, "Your mother is", "episcopalian", "Pronunciation: /\u026a\u02ccp\u026ask\u0259\u02c8pe\u026alj\u0259n/", "Definition: of or pertaining to or characteristic of the Episcopal church", "Synonyms: episcopal"]}
+{"data": ["2022-12-07T16:00:59.145184+00:00", 7343, "Your mother is", "berrylike", "Pronunciation: /\u02c8b\u025bri\u02ccla\u026ak/", "Definition: resembling a berry", "Synonyms: baccate"]}
