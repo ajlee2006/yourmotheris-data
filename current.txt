@@ -1,1 +1,1 @@
-{"data": ["2022-12-06T23:01:10.163972+00:00", 7326, "Your mother is", "goblet-shaped", "Similar to: circular", "Definition: resembling the shape of a goblet", ""]}
+{"data": ["2022-12-07T00:08:30.611375+00:00", 7327, "Your mother is", "thawed", "Pronunciation: /\u03b8\u0254d/", "Definition: no longer frozen", ""]}
