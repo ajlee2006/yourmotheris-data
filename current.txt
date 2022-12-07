@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T19:01:01.348809+00:00", 7346, "Your mother is", "fan-shaped", "Pronunciation: /f\u00e6n-\u0283e\u026apt/", "Definition: shaped in the form of a fan", ""]}
+{"data": ["2022-12-07T20:01:15.326116+00:00", 7347, "Your mother is", "consecrate", "Pronunciation: /\u02c8k\u0251ns\u0259\u02cckre\u026at/", "Definition: solemnly dedicated to or set apart for a high or sacred purpose", "Synonyms: consecrated, dedicated"]}
