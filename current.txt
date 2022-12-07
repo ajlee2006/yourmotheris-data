@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T06:01:05.939408+00:00", 7333, "Your mother is", "confluent", "Pronunciation: /\u02c8k\u0251nflu\u0259nt/", "Definition: flowing together", "Synonyms: merging"]}
+{"data": ["2022-12-07T07:01:16.288336+00:00", 7334, "Your mother is", "imperishable", "Pronunciation: /\u026am\u02c8p\u025br\u026a\u0283\u0259b\u0259l/", "Definition: lasting a long time", "Synonyms: abiding, enduring"]}
