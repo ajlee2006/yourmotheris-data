@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T22:01:04.416430+00:00", 7349, "Your mother is", "ascosporous", "Pronunciation: /\u00e6s\u02c8k\u0251sp\u0259r\u0259s/", "Definition: of or relating to ascospores", "Synonyms: ascosporic"]}
+{"data": ["2022-12-07T23:01:04.735750+00:00", 7350, "Your mother is", "rupicolous", "", "Definition: composed of or inscribed on rock", "Synonyms: rupestral"]}
