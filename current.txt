@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T08:01:10.278629+00:00", 7335, "Your mother is", "tangled", "Pronunciation: /\u02c8t\u00e6\u014b\u0261\u0259ld/", "Definition: highly complex or intricate and occasionally devious", "Synonyms: byzantine, convoluted, involved, knotty, tortuous"]}
+{"data": ["2022-12-07T09:01:02.782798+00:00", 7336, "Your mother is", "pettish", "Pronunciation: /\u02c8p\u025bt\u026a\u0283/", "Definition: easily irritated or annoyed", "Synonyms: cranky, fractious, irritable, nettlesome, peckish, peevish, petulant, scratchy, techy, testy, tetchy"]}
