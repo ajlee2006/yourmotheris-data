@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T04:01:19.318002+00:00", 7331, "Your mother is", "consolatory", "Pronunciation: /k\u0259n\u02c8s\u0251l\u0259\u02ccto\u028ari/", "Definition: affording comfort or solace", "Synonyms: comforting, consoling"]}
+{"data": ["2022-12-07T05:01:14.593482+00:00", 7332, "Your mother is", "immaterial", "Pronunciation: /\u02cc\u026am\u02c8\u0259tiri\u0259l/", "Definition: without material form or substance", "Synonyms: incorporeal"]}
