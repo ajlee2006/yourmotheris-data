@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T12:01:14.982220+00:00", 7339, "Your mother is", "finished", "Pronunciation: /\u02c8f\u026an\u026a\u0283t/", "Definition: brought to ruin", "Synonyms: ruined"]}
+{"data": ["2022-12-07T13:01:15.810370+00:00", 7340, "Your mother is", "brown-black", "Similar to: achromatic", "Definition: of black tinged with brown", "Synonyms: brownish-black"]}
