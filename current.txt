@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T02:01:19.145717+00:00", 7329, "Your mother is", "astonished", "Pronunciation: /\u028c\u02c8st\u0251n\u026a\u0283t/", "Definition: filled with the emotional impact of overwhelming surprise or shock", "Synonyms: amazed, astonied, astounded, stunned"]}
+{"data": ["2022-12-07T03:01:25.440961+00:00", 7330, "Your mother is", "nouveau-riche", "Similar to: pretentious", "Definition: characteristic of someone who has risen economically or socially but lacks the social skills appropriate for this new position", "Synonyms: parvenu, parvenue, upstart"]}
