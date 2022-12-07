@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T05:01:14.593482+00:00", 7332, "Your mother is", "immaterial", "Pronunciation: /\u02cc\u026am\u02c8\u0259tiri\u0259l/", "Definition: without material form or substance", "Synonyms: incorporeal"]}
+{"data": ["2022-12-07T06:01:05.939408+00:00", 7333, "Your mother is", "confluent", "Pronunciation: /\u02c8k\u0251nflu\u0259nt/", "Definition: flowing together", "Synonyms: merging"]}
