@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T00:08:30.611375+00:00", 7327, "Your mother is", "thawed", "Pronunciation: /\u03b8\u0254d/", "Definition: no longer frozen", ""]}
+{"data": ["2022-12-07T01:01:13.701597+00:00", 7328, "Your mother is", "unpainful", "Similar to: painless", "Definition: not accompanied by pain sensations", "Synonyms: pain-free"]}
