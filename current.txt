@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T20:01:15.326116+00:00", 7347, "Your mother is", "consecrate", "Pronunciation: /\u02c8k\u0251ns\u0259\u02cckre\u026at/", "Definition: solemnly dedicated to or set apart for a high or sacred purpose", "Synonyms: consecrated, dedicated"]}
+{"data": ["2022-12-07T21:01:15.662937+00:00", 7348, "Your mother is", "disembodied", "Pronunciation: /d\u026as\u026a\u02c8b\u0251did/", "Definition: not having a material body", "Synonyms: bodiless, discorporate, unbodied, unembodied"]}
