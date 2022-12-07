@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T14:01:28.760051+00:00", 7341, "Your mother is", "wordy", "Pronunciation: /\u02c8w\u025crdi/", "Definition: using or containing too many words", "Synonyms: long-winded, tedious, verbose, windy"]}
+{"data": ["2022-12-07T15:01:10.464470+00:00", 7342, "Your mother is", "episcopalian", "Pronunciation: /\u026a\u02ccp\u026ask\u0259\u02c8pe\u026alj\u0259n/", "Definition: of or pertaining to or characteristic of the Episcopal church", "Synonyms: episcopal"]}
