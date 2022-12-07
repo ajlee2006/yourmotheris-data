@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T21:01:15.662937+00:00", 7348, "Your mother is", "disembodied", "Pronunciation: /d\u026as\u026a\u02c8b\u0251did/", "Definition: not having a material body", "Synonyms: bodiless, discorporate, unbodied, unembodied"]}
+{"data": ["2022-12-07T22:01:04.416430+00:00", 7349, "Your mother is", "ascosporous", "Pronunciation: /\u00e6s\u02c8k\u0251sp\u0259r\u0259s/", "Definition: of or relating to ascospores", "Synonyms: ascosporic"]}
