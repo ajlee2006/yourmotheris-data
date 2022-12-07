@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T11:01:20.239494+00:00", 7338, "Your mother is", "sharp-nosed", "Pronunciation: /\u02c8\u0283\u0251rp\u02c8no\u028azd/", "Definition: having a sharply pointed nose", ""]}
+{"data": ["2022-12-07T12:01:14.982220+00:00", 7339, "Your mother is", "finished", "Pronunciation: /\u02c8f\u026an\u026a\u0283t/", "Definition: brought to ruin", "Synonyms: ruined"]}
