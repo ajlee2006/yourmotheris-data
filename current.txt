@@ -1,1 +1,1 @@
-{"data": ["2022-12-07T16:00:59.145184+00:00", 7343, "Your mother is", "berrylike", "Pronunciation: /\u02c8b\u025bri\u02ccla\u026ak/", "Definition: resembling a berry", "Synonyms: baccate"]}
+{"data": ["2022-12-07T17:01:16.309363+00:00", 7344, "Your mother is", "flecked", "Similar to: patterned", "Definition: having a pattern of dots", "Synonyms: dotted, specked, speckled, stippled"]}
