@@ -1,1 +1,1 @@
-{"data": ["2022-12-08T13:01:05.352935+00:00", 7364, "Your mother is", "sloped", "Similar to: inclined", "Definition: having an oblique or slanted direction", "Synonyms: aslant, aslope, diagonal, slanted, slanting, sloping"]}
+{"data": ["2022-12-08T14:01:16.413868+00:00", 7365, "Your mother is", "housebroken", "Pronunciation: /\u02c8ha\u028as\u02ccbro\u028ak\u0259n/", "Definition: (of pets) trained to urinate and defecate outside or in a special place", "Synonyms: house-trained"]}
