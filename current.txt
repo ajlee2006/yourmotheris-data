@@ -1,1 +1,1 @@
-{"data": ["2022-12-08T08:01:14.375125+00:00", 7359, "Your mother is", "ash-grey", "Similar to: achromatic", "Definition: of a light grey", "Synonyms: ash-gray, ashy"]}
+{"data": ["2022-12-08T09:01:06.527631+00:00", 7360, "Your mother is", "level", "Pronunciation: /\u02c8l\u025bv\u0259l/", "Definition: of the score in a contest", "Synonyms: even, tied"]}
