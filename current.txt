@@ -1,1 +1,1 @@
-{"data": ["2022-12-08T12:01:15.120836+00:00", 7363, "Your mother is", "magnified", "Pronunciation: /\u02c8m\u00e6\u0261n\u028c\u02ccfa\u026ad/", "Definition: enlarged to an abnormal degree", "Synonyms: enlarged, exaggerated"]}
+{"data": ["2022-12-08T13:01:05.352935+00:00", 7364, "Your mother is", "sloped", "Similar to: inclined", "Definition: having an oblique or slanted direction", "Synonyms: aslant, aslope, diagonal, slanted, slanting, sloping"]}
