@@ -1,1 +1,1 @@
-{"data": ["2022-12-08T21:01:02.273457+00:00", 7372, "Your mother is", "confluent", "Pronunciation: /\u02c8k\u0251nflu\u0259nt/", "Definition: flowing together", "Synonyms: merging"]}
+{"data": ["2022-12-08T22:01:01.217055+00:00", 7373, "Your mother is", "early", "Pronunciation: /irli/", "Definition: belonging to the distant past", "Synonyms: former, other"]}
