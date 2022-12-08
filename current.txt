@@ -1,1 +1,1 @@
-{"data": ["2022-12-08T19:01:13.002584+00:00", 7370, "Your mother is", "charcoal", "Pronunciation: /\u02c8\u02a7\u0251r\u02ccko\u028al/", "Definition: of a very dark grey", "Synonyms: charcoal-gray, charcoal-grey"]}
+{"data": ["2022-12-08T20:01:20.591184+00:00", 7371, "Your mother is", "self-propelling", "Similar to: moving", "Definition: containing within itself the means of propulsion or movement", "Synonyms: automotive, self-propelled"]}
