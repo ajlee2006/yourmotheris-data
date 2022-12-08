@@ -1,1 +1,1 @@
-{"data": ["2022-12-08T17:01:00.078530+00:00", 7368, "Your mother is", "untamed", "Pronunciation: /\u0259n\u02c8te\u026amd/", "Definition: in a natural state; not tamed or domesticated or cultivated", "Synonyms: wild"]}
+{"data": ["2022-12-08T18:01:13.461569+00:00", 7369, "Your mother is", "enlarged", "Pronunciation: /\u025bn\u02c8l\u0251rd\u0292d/", "Definition: (of an organ or body part) excessively enlarged as a result of increased size in the constituent cells", "Synonyms: hypertrophied"]}
