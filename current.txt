@@ -1,1 +1,1 @@
-{"data": ["2022-12-08T22:01:01.217055+00:00", 7373, "Your mother is", "early", "Pronunciation: /irli/", "Definition: belonging to the distant past", "Synonyms: former, other"]}
+{"data": ["2022-12-08T23:00:59.134073+00:00", 7374, "Your mother is", "lengthened", "Pronunciation: /\u02c8l\u025b\u014b\u03b8\u028cnd/", "Definition: drawn out or made longer spatially", "Synonyms: elongated, extended, prolonged"]}
