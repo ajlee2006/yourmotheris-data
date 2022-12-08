@@ -1,1 +1,1 @@
-{"data": ["2022-12-08T20:01:20.591184+00:00", 7371, "Your mother is", "self-propelling", "Similar to: moving", "Definition: containing within itself the means of propulsion or movement", "Synonyms: automotive, self-propelled"]}
+{"data": ["2022-12-08T21:01:02.273457+00:00", 7372, "Your mother is", "confluent", "Pronunciation: /\u02c8k\u0251nflu\u0259nt/", "Definition: flowing together", "Synonyms: merging"]}
