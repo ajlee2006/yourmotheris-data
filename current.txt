@@ -1,1 +1,1 @@
-{"data": ["2022-12-08T15:01:02.056535+00:00", 7366, "Your mother is", "hard put", "Pronunciation: /h\u0251rd-p\u028at/", "Definition: facing or experiencing financial trouble or difficulty", "Synonyms: distressed, hard-pressed, in a bad way"]}
+{"data": ["2022-12-08T16:01:12.654867+00:00", 7367, "Your mother is", "trilobed", "Pronunciation: /\u02c8tra\u026a\u02cclo\u028abd/", "Definition: (of a leaf shape) divided into three lobes", "Synonyms: three-lobed, trilobate, trilobated"]}
