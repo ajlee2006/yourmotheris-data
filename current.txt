@@ -1,1 +1,1 @@
-{"data": ["2022-12-08T02:00:57.875045+00:00", 7353, "Your mother is", "ordained", "Pronunciation: /\u0254r\u02c8de\u026and/", "Definition: fixed or established especially by order or command", "Synonyms: appointed, decreed, prescribed"]}
+{"data": ["2022-12-08T03:01:27.114324+00:00", 7354, "Your mother is", "unconverted", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8v\u025crt\u026ad/", "Definition: not converted", "Synonyms: unpersuaded"]}
