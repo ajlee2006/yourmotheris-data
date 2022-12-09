@@ -1,1 +1,1 @@
-{"data": ["2022-12-09T07:01:00.826833+00:00", 7382, "Your mother is", "dressed to the nines", "Similar to: clad", "Definition: dressed in fancy or formal clothing", "Synonyms: dolled up, dressed, dressed-up, dressed to kill, spiffed up, spruced up, togged up"]}
+{"data": ["2022-12-09T08:01:15.722325+00:00", 7383, "Your mother is", "vacuolated", "", "Definition: formed into or containing one or more vacuoles or small membrane-bound cavities within a cell", "Synonyms: vacuolate"]}
