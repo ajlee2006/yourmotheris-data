@@ -1,1 +1,1 @@
-{"data": ["2022-12-09T10:00:38.474719+00:00", 7385, "Your mother is", "unbooked", "Similar to: unreserved", "Definition: not reserved in advance", ""]}
+{"data": ["2022-12-09T11:00:30.246943+00:00", 7386, "Your mother is", "serene", "Pronunciation: /s\u0259\u02c8rin/", "Definition: not agitated; without losing self-possession", "Synonyms: calm, tranquil, unagitated"]}
