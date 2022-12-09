@@ -1,1 +1,1 @@
-{"data": ["2022-12-09T13:00:23.112366+00:00", 7388, "Your mother is", "well-informed", "Similar to: sophisticated", "Definition: possessing sound knowledge", "Synonyms: intelligent"]}
+{"data": ["2022-12-09T14:00:31.587069+00:00", 7389, "Your mother is", "noetic", "Pronunciation: /no\u028a\u02c8\u025bt\u026ak/", "Definition: of or associated with or requiring the use of the mind", "Synonyms: intellectual, rational"]}
