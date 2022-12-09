@@ -1,1 +1,1 @@
-{"data": ["2022-12-09T02:01:15.396238+00:00", 7377, "Your mother is", "ocher", "Pronunciation: /\u02c8o\u028ak\u0259r/", "Definition: of a moderate orange-yellow color", "Synonyms: ochre"]}
+{"data": ["2022-12-09T03:01:03.487434+00:00", 7378, "Your mother is", "cosmic", "Pronunciation: /\u02c8k\u0251zm\u026ak/", "Definition: inconceivably extended in space or time", ""]}
