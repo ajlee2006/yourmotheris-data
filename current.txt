@@ -1,1 +1,1 @@
-{"data": ["2022-12-09T12:00:42.786975+00:00", 7387, "Your mother is", "corrigible", "Pronunciation: /\u02c8k\u0254r\u026ad\u0292\u0259b\u0259l/", "Definition: capable of being corrected or set right", ""]}
+{"data": ["2022-12-09T13:00:23.112366+00:00", 7388, "Your mother is", "well-informed", "Similar to: sophisticated", "Definition: possessing sound knowledge", "Synonyms: intelligent"]}
