@@ -1,1 +1,1 @@
-{"data": ["2022-12-09T08:01:15.722325+00:00", 7383, "Your mother is", "vacuolated", "", "Definition: formed into or containing one or more vacuoles or small membrane-bound cavities within a cell", "Synonyms: vacuolate"]}
+{"data": ["2022-12-09T09:00:43.747360+00:00", 7384, "Your mother is", "grouped", "Pronunciation: /\u0261rupt/", "Definition: arranged into groups", "Synonyms: sorted"]}
