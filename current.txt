@@ -1,1 +1,1 @@
-{"data": ["2022-12-09T04:01:00.580796+00:00", 7379, "Your mother is", "amenable", "Pronunciation: /\u0259\u02c8min\u0259b\u0259l/", "Definition: responsive to suggestions and influences", "Synonyms: tractable"]}
+{"data": ["2022-12-09T05:01:06.430673+00:00", 7380, "Your mother is", "deep-chested", "Pronunciation: /\u02c8dip\u02c8\u02a7\u025bst\u026ad/", "Definition: thick in the chest", ""]}
