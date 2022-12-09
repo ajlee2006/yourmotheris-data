@@ -1,1 +1,1 @@
-{"data": ["2022-12-09T17:00:30.844119+00:00", 7392, "Your mother is", "bilabiate", "Pronunciation: /ba\u026a\u02c8le\u026abi\u02cce\u026at/", "Definition: having two lips", "Synonyms: two-lipped"]}
+{"data": ["2022-12-09T18:00:31.539987+00:00", 7393, "Your mother is", "hermetic", "Pronunciation: /h\u025cr\u02c8m\u025bt\u026ak/", "Definition: completely sealed; completely airtight", ""]}
