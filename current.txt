@@ -1,1 +1,1 @@
-{"data": ["2022-12-09T01:01:14.643082+00:00", 7376, "Your mother is", "decollete", "Pronunciation: /\u02ccde\u026ak\u0251l\u02c8te\u026a/", "Definition: (of a garment) having a low-cut neckline", "Synonyms: low-cut, low-necked"]}
+{"data": ["2022-12-09T02:01:15.396238+00:00", 7377, "Your mother is", "ocher", "Pronunciation: /\u02c8o\u028ak\u0259r/", "Definition: of a moderate orange-yellow color", "Synonyms: ochre"]}
