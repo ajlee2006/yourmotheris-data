@@ -1,1 +1,1 @@
-{"data": ["2022-12-09T03:01:03.487434+00:00", 7378, "Your mother is", "cosmic", "Pronunciation: /\u02c8k\u0251zm\u026ak/", "Definition: inconceivably extended in space or time", ""]}
+{"data": ["2022-12-09T04:01:00.580796+00:00", 7379, "Your mother is", "amenable", "Pronunciation: /\u0259\u02c8min\u0259b\u0259l/", "Definition: responsive to suggestions and influences", "Synonyms: tractable"]}
