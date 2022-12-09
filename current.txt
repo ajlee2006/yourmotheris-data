@@ -1,1 +1,1 @@
-{"data": ["2022-12-09T11:00:30.246943+00:00", 7386, "Your mother is", "serene", "Pronunciation: /s\u0259\u02c8rin/", "Definition: not agitated; without losing self-possession", "Synonyms: calm, tranquil, unagitated"]}
+{"data": ["2022-12-09T12:00:42.786975+00:00", 7387, "Your mother is", "corrigible", "Pronunciation: /\u02c8k\u0254r\u026ad\u0292\u0259b\u0259l/", "Definition: capable of being corrected or set right", ""]}
