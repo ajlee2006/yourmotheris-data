@@ -1,1 +1,1 @@
-{"data": ["2022-12-10T01:00:57.007233+00:00", 7400, "Your mother is", "unthinkable", "Pronunciation: /\u0259n\u02c8\u03b8\u026a\u014bk\u0259b\u0259l/", "Definition: incapable of being conceived or considered", ""]}
+{"data": ["2022-12-10T02:00:19.088922+00:00", 7401, "Your mother is", "interminable", "Pronunciation: /\u026an\u02c8t\u025crm\u0259n\u0259b\u0259l/", "Definition: tiresomely long; seemingly without end", "Synonyms: endless, eternal"]}
