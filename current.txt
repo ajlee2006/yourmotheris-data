@@ -1,1 +1,1 @@
-{"data": ["2022-12-10T10:00:31.105114+00:00", 7409, "Your mother is", "potent", "Pronunciation: /\u02c8po\u028at\u0259nt/", "Definition: having great influence", "Synonyms: powerful"]}
+{"data": ["2022-12-10T11:00:34.839201+00:00", 7410, "Your mother is", "curly", "Pronunciation: /\u02c8k\u025crli/", "Definition: (of hair) having curls or waves", ""]}
