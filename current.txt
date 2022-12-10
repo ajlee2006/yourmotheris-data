@@ -1,1 +1,1 @@
-{"data": ["2022-12-10T20:00:35.548230+00:00", 7419, "Your mother is", "representational", "Pronunciation: /\u02ccr\u025bpriz\u025bn\u02c8te\u026a\u0283\u0259n\u0259l/", "Definition: (used especially of art) depicting objects, figures,or scenes as seen", ""]}
+{"data": ["2022-12-10T21:00:37.586821+00:00", 7420, "Your mother is", "unsaleable", "Pronunciation: /\u0259n\u02c8se\u026al\u0259b\u0259l/", "Definition: impossible to sell", "Synonyms: unsalable"]}
