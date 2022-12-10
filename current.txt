@@ -1,1 +1,1 @@
-{"data": ["2022-12-10T11:00:34.839201+00:00", 7410, "Your mother is", "curly", "Pronunciation: /\u02c8k\u025crli/", "Definition: (of hair) having curls or waves", ""]}
+{"data": ["2022-12-10T12:00:35.667410+00:00", 7411, "Your mother is", "autarkical", "Similar to: independent", "Definition: of countries; not relying on imports", "Synonyms: autarkic"]}
