@@ -1,1 +1,1 @@
-{"data": ["2022-12-10T13:00:43.187104+00:00", 7412, "Your mother is", "nuclear", "Pronunciation: /\u02c8nukli\u0259r/", "Definition: (weapons) deriving destructive energy from the release of atomic energy", "Synonyms: atomic"]}
+{"data": ["2022-12-10T14:00:43.828376+00:00", 7413, "Your mother is", "unversed", "Pronunciation: /\u0259n\u02c8v\u025crst/", "Definition: not having had extensive practice", "Synonyms: unpracticed, unpractised"]}
