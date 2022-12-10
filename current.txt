@@ -1,1 +1,1 @@
-{"data": ["2022-12-10T07:00:33.639600+00:00", 7406, "Your mother is", "lengthy", "Pronunciation: /\u02c8l\u025b\u014bk\u03b8i/", "Definition: relatively long in duration; tediously protracted", "Synonyms: drawn-out, extended, prolonged, protracted"]}
+{"data": ["2022-12-10T08:00:46.719869+00:00", 7407, "Your mother is", "appetent", "Similar to: desirous", "Definition: marked by eager desire", ""]}
