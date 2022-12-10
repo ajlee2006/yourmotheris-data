@@ -1,1 +1,1 @@
-{"data": ["2022-12-10T14:00:43.828376+00:00", 7413, "Your mother is", "unversed", "Pronunciation: /\u0259n\u02c8v\u025crst/", "Definition: not having had extensive practice", "Synonyms: unpracticed, unpractised"]}
+{"data": ["2022-12-10T15:01:05.795676+00:00", 7414, "Your mother is", "indigenous", "Pronunciation: /\u026an\u02c8d\u026ad\u0292\u0259n\u0259s/", "Definition: originating where it is found", "Synonyms: autochthonal, autochthonic, autochthonous, endemic"]}
