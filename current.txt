@@ -1,1 +1,1 @@
-{"data": ["2022-12-10T02:00:19.088922+00:00", 7401, "Your mother is", "interminable", "Pronunciation: /\u026an\u02c8t\u025crm\u0259n\u0259b\u0259l/", "Definition: tiresomely long; seemingly without end", "Synonyms: endless, eternal"]}
+{"data": ["2022-12-10T03:00:42.863436+00:00", 7402, "Your mother is", "life-sustaining", "Similar to: essential", "Definition: performing an essential function in the living body", "Synonyms: vital"]}
