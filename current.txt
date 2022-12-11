@@ -1,1 +1,1 @@
-{"data": ["2022-12-11T02:00:50.592315+00:00", 7425, "Your mother is", "alto", "Pronunciation: /\u02c8\u00e6lto\u028a/", "Definition: of or being the lowest female voice", "Synonyms: contralto"]}
+{"data": ["2022-12-11T03:00:43.778073+00:00", 7426, "Your mother is", "representative", "Pronunciation: /\u02ccr\u025bpr\u026a\u02c8z\u025bnt\u0259t\u026av/", "Definition: being or characteristic of government by representation in which citizens exercise power through elected officers and representatives", ""]}
