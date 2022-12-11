@@ -1,1 +1,1 @@
-{"data": ["2022-12-11T13:00:35.847308+00:00", 7436, "Your mother is", "multiparous", "Pronunciation: /m\u0259l\u02c8t\u026ap\u0259r\u0259s/", "Definition: producing more than one offspring at a time", ""]}
+{"data": ["2022-12-11T14:00:55.111109+00:00", 7437, "Your mother is", "impure", "Pronunciation: /\u026am\u02c8pj\u028ar/", "Definition: having a physical or moral blemish so as to make impure according to dietary or ceremonial laws", "Synonyms: unclean"]}
