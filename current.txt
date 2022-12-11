@@ -1,1 +1,1 @@
-{"data": ["2022-12-11T07:00:37.343238+00:00", 7430, "Your mother is", "unnamed", "Pronunciation: /\u0259n\u02c8ne\u026amd/", "Definition: being or having an unknown or unnamed source", "Synonyms: nameless, unidentified, unknown"]}
+{"data": ["2022-12-11T08:00:47.837270+00:00", 7431, "Your mother is", "shed", "Pronunciation: /\u0283\u025bd/", "Definition: shed at an early stage of development", "Synonyms: caducous"]}
