@@ -1,1 +1,1 @@
-{"data": ["2022-12-11T11:00:31.400722+00:00", 7434, "Your mother is", "damaged", "Pronunciation: /\u02c8d\u00e6m\u028cd\u0292d/", "Definition: being unjustly brought into disrepute", "Synonyms: discredited"]}
+{"data": ["2022-12-11T12:00:41.593563+00:00", 7435, "Your mother is", "cost-efficient", "Similar to: efficient", "Definition: productive relative to the cost", "Synonyms: cost-effective"]}
