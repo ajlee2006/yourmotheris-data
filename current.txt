@@ -1,1 +1,1 @@
-{"data": ["2022-12-11T15:00:37.223739+00:00", 7438, "Your mother is", "defensible", "Pronunciation: /d\u026a\u02c8f\u025bns\u0259b\u0259l/", "Definition: capable of being defended", "Synonyms: defendable"]}
+{"data": ["2022-12-11T16:00:40.274008+00:00", 7439, "Your mother is", "grieving", "Pronunciation: /\u02c8\u0261riv\u026a\u014b/", "Definition: sorrowful through loss or deprivation", "Synonyms: bereaved, bereft, grief-stricken, mourning, sorrowing"]}
