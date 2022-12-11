@@ -1,1 +1,1 @@
-{"data": ["2022-12-11T21:00:48.422806+00:00", 7444, "Your mother is", "on guard", "Similar to: wary", "Definition: vigilant", "Synonyms: on one's guard, on your guard, upon one's guard"]}
+{"data": ["2022-12-11T22:00:44.415769+00:00", 7445, "Your mother is", "off-and-on", "Similar to: broken", "Definition: intermittently stopping and starting", "Synonyms: fitful, interrupted"]}
