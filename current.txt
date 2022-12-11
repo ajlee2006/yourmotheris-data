@@ -1,1 +1,1 @@
-{"data": ["2022-12-11T20:00:54.062441+00:00", 7443, "Your mother is", "motivated", "Pronunciation: /\u02c8mo\u028at\u028c\u02ccve\u026at\u028cd/", "Definition: provided with a motive or given incentive for action", ""]}
+{"data": ["2022-12-11T21:00:48.422806+00:00", 7444, "Your mother is", "on guard", "Similar to: wary", "Definition: vigilant", "Synonyms: on one's guard, on your guard, upon one's guard"]}
