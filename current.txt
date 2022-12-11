@@ -1,1 +1,1 @@
-{"data": ["2022-12-11T08:00:47.837270+00:00", 7431, "Your mother is", "shed", "Pronunciation: /\u0283\u025bd/", "Definition: shed at an early stage of development", "Synonyms: caducous"]}
+{"data": ["2022-12-11T09:00:51.796966+00:00", 7432, "Your mother is", "antebellum", "Pronunciation: /\u02cc\u00e6nt\u026a\u02c8b\u025bl\u0259m/", "Definition: belonging to a period before a war especially the American Civil War", ""]}
