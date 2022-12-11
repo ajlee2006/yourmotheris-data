@@ -1,1 +1,1 @@
-{"data": ["2022-12-11T18:00:44.056378+00:00", 7441, "Your mother is", "awe-inspiring", "Similar to: impressive", "Definition: inspiring awe or admiration or wonder", "Synonyms: amazing, awesome, awful, awing"]}
+{"data": ["2022-12-11T19:00:38.638429+00:00", 7442, "Your mother is", "anuran", "Pronunciation: /\u0259\u02c8n\u028ar\u0259n/", "Definition: relating to frogs and toads", "Synonyms: batrachian, salientian"]}
