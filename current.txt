@@ -1,1 +1,1 @@
-{"data": ["2022-12-10T23:00:52.965898+00:00", 7422, "Your mother is", "photoelectric", "Pronunciation: /\u02ccfo\u028ato\u028a\u026a\u02c8l\u025bktr\u026ak/", "Definition: of or pertaining to photoelectricity", "Synonyms: photoelectrical"]}
+{"data": ["2022-12-11T00:01:10.172424+00:00", 7423, "Your mother is", "algometrical", "", "Definition: of or related to algometry", "Synonyms: algometric"]}
