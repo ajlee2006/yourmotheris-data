@@ -1,1 +1,1 @@
-{"data": ["2022-12-11T19:00:38.638429+00:00", 7442, "Your mother is", "anuran", "Pronunciation: /\u0259\u02c8n\u028ar\u0259n/", "Definition: relating to frogs and toads", "Synonyms: batrachian, salientian"]}
+{"data": ["2022-12-11T20:00:54.062441+00:00", 7443, "Your mother is", "motivated", "Pronunciation: /\u02c8mo\u028at\u028c\u02ccve\u026at\u028cd/", "Definition: provided with a motive or given incentive for action", ""]}
