@@ -1,1 +1,1 @@
-{"data": ["2022-12-12T14:00:55.856840+00:00", 7461, "Your mother is", "knavish", "Pronunciation: /\u02c8ne\u026av\u026a\u0283/", "Definition: marked by skill in deception", "Synonyms: crafty, cunning, dodgy, foxy, guileful, slick, sly, tricksy, tricky, wily"]}
+{"data": ["2022-12-12T15:00:36.929059+00:00", 7462, "Your mother is", "uncontaminating", "", "Definition: not spreading pollution or contamination; especially radioactive contamination", "Synonyms: clean"]}
