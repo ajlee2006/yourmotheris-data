@@ -1,1 +1,1 @@
-{"data": ["2022-12-12T08:00:50.106818+00:00", 7455, "Your mother is", "cephalopod", "Pronunciation: /\u02c8s\u025bf\u0259l\u0259\u02ccp\u0251d/", "Definition: relating or belonging to the class Cephalopoda", "Synonyms: cephalopodan"]}
+{"data": ["2022-12-12T09:00:33.521502+00:00", 7456, "Your mother is", "tightfisted", "Pronunciation: /\u02c8ta\u026at\u02c8f\u026ast\u0259d/", "Definition: unwilling to part with money", "Synonyms: closefisted, hardfisted"]}
