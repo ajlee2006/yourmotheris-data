@@ -1,1 +1,1 @@
-{"data": ["2022-12-12T05:00:42.389745+00:00", 7452, "Your mother is", "brown-haired", "Similar to: brunet", "Definition: having hair of a dark color", "Synonyms: black-haired, dark-haired"]}
+{"data": ["2022-12-12T06:00:38.151257+00:00", 7453, "Your mother is", "aggressive", "Pronunciation: /\u0259\u02c8gr\u025bs\u026av/", "Definition: characteristic of an enemy or one eager to fight", "Synonyms: belligerent"]}
