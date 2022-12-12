@@ -1,1 +1,1 @@
-{"data": ["2022-12-12T03:00:53.006295+00:00", 7450, "Your mother is", "interpreted", "Pronunciation: /\u026an\u02c8t\u025drpr\u028ct\u028cd/", "Definition: understood in a certain way; made sense of", "Synonyms: taken"]}
+{"data": ["2022-12-12T04:00:38.318449+00:00", 7451, "Your mother is", "husbandly", "Similar to: domestic", "Definition: related to or suited to a husband", ""]}
