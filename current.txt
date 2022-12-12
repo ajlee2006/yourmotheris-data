@@ -1,1 +1,1 @@
-{"data": ["2022-12-12T18:00:37.229399+00:00", 7465, "Your mother is", "unlobed", "Similar to: simple", "Definition: without lobes", ""]}
+{"data": ["2022-12-12T19:00:35.408786+00:00", 7466, "Your mother is", "proportionate", "Pronunciation: /pr\u0259\u02c8po\u028ar\u0283\u0259n\u026at/", "Definition: exhibiting equivalence or correspondence among constituents of an entity or between different entities", "Synonyms: harmonious, symmetrical"]}
