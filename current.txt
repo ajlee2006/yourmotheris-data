@@ -1,1 +1,1 @@
-{"data": ["2022-12-12T07:00:45.552825+00:00", 7454, "Your mother is", "unarticulate", "Similar to: dumb", "Definition: without or deprived of the use of speech or words", "Synonyms: inarticulate"]}
+{"data": ["2022-12-12T08:00:50.106818+00:00", 7455, "Your mother is", "cephalopod", "Pronunciation: /\u02c8s\u025bf\u0259l\u0259\u02ccp\u0251d/", "Definition: relating or belonging to the class Cephalopoda", "Synonyms: cephalopodan"]}
