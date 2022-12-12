@@ -1,1 +1,1 @@
-{"data": ["2022-12-12T20:00:49.369516+00:00", 7467, "Your mother is", "inherited", "Pronunciation: /\u026an\u02c8h\u025br\u026at\u026ad/", "Definition: occurring among members of a family usually by heredity", "Synonyms: familial, genetic, hereditary, transmissible, transmitted"]}
+{"data": ["2022-12-12T21:00:47.629943+00:00", 7468, "Your mother is", "brickle", "Pronunciation: /\u02c8br\u026ak\u0259l/", "Definition: having little elasticity; hence easily cracked or fractured or snapped", "Synonyms: brickly, brittle"]}
