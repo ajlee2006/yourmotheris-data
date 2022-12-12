@@ -1,1 +1,1 @@
-{"data": ["2022-12-12T06:00:38.151257+00:00", 7453, "Your mother is", "aggressive", "Pronunciation: /\u0259\u02c8gr\u025bs\u026av/", "Definition: characteristic of an enemy or one eager to fight", "Synonyms: belligerent"]}
+{"data": ["2022-12-12T07:00:45.552825+00:00", 7454, "Your mother is", "unarticulate", "Similar to: dumb", "Definition: without or deprived of the use of speech or words", "Synonyms: inarticulate"]}
