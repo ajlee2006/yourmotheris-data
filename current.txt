@@ -1,1 +1,1 @@
-{"data": ["2022-12-12T22:00:52.723585+00:00", 7469, "Your mother is", "unverified", "Pronunciation: /\u0259n\u02c8v\u025bri\u02ccfa\u026ad/", "Definition: lacking proof or substantiation", ""]}
+{"data": ["2022-12-12T23:00:40.017267+00:00", 7470, "Your mother is", "mesophytic", "Pronunciation: /\u02ccm\u025bz\u0259\u02c8f\u026at\u026ak/", "Definition: being or growing in or adapted to a moderately moist environment", ""]}
