@@ -1,1 +1,1 @@
-{"data": ["2022-12-13T14:00:47.762808+00:00", 7485, "Your mother is", "lighting-up", "Similar to: light", "Definition: turning lights on", ""]}
+{"data": ["2022-12-13T15:00:44.059843+00:00", 7486, "Your mother is", "adynamic", "Pronunciation: /\u02cc\u00e6d\u02c8\u0259n\u00e6m\u026ak/", "Definition: characterized by an absence of force or forcefulness", "Synonyms: undynamic"]}
