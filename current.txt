@@ -1,1 +1,1 @@
-{"data": ["2022-12-13T06:00:58.036435+00:00", 7477, "Your mother is", "fatherly", "Pronunciation: /\u02c8f\u0251\u00f0\u0259rli/", "Definition: like or befitting a father or fatherhood; kind and protective", "Synonyms: fatherlike"]}
+{"data": ["2022-12-13T07:00:48.554075+00:00", 7478, "Your mother is", "aortal", "", "Definition: of or relating to the aorta", "Synonyms: aortic"]}
