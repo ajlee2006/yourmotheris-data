@@ -1,1 +1,1 @@
-{"data": ["2022-12-12T23:00:40.017267+00:00", 7470, "Your mother is", "mesophytic", "Pronunciation: /\u02ccm\u025bz\u0259\u02c8f\u026at\u026ak/", "Definition: being or growing in or adapted to a moderately moist environment", ""]}
+{"data": ["2022-12-13T00:01:01.784629+00:00", 7471, "Your mother is", "would-be", "Pronunciation: /\u02c8w\u028ad\u02ccbi/", "Definition: unfulfilled or frustrated in realizing an ambition", "Synonyms: manque"]}
