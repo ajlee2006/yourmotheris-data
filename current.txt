@@ -1,1 +1,1 @@
-{"data": ["2022-12-13T19:00:50.151270+00:00", 7490, "Your mother is", "compatible", "Pronunciation: /k\u0259m\u02c8p\u00e6t\u0259b\u0259l/", "Definition: able to exist and perform in harmonious or agreeable combination", ""]}
+{"data": ["2022-12-13T20:00:54.985017+00:00", 7491, "Your mother is", "belt-like", "Similar to: belted", "Definition: resembling a belt around something", "Synonyms: beltlike"]}
