@@ -1,1 +1,1 @@
-{"data": ["2022-12-13T00:01:01.784629+00:00", 7471, "Your mother is", "would-be", "Pronunciation: /\u02c8w\u028ad\u02ccbi/", "Definition: unfulfilled or frustrated in realizing an ambition", "Synonyms: manque"]}
+{"data": ["2022-12-13T01:00:55.923975+00:00", 7472, "Your mother is", "post meridiem", "Pronunciation: /\u02ccpo\u028ast-m\u0259\u02c8r\u026adi\u0259m/", "Definition: after noon", "Synonyms: p.m."]}
