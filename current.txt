@@ -1,1 +1,1 @@
-{"data": ["2022-12-13T01:00:55.923975+00:00", 7472, "Your mother is", "post meridiem", "Pronunciation: /\u02ccpo\u028ast-m\u0259\u02c8r\u026adi\u0259m/", "Definition: after noon", "Synonyms: p.m."]}
+{"data": ["2022-12-13T02:00:47.363868+00:00", 7473, "Your mother is", "officious", "Pronunciation: /\u0259\u02c8f\u026a\u0283\u0259s/", "Definition: intrusive in a meddling or offensive manner", "Synonyms: busy, busybodied, interfering, meddlesome, meddling"]}
