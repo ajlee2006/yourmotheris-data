@@ -1,1 +1,1 @@
-{"data": ["2022-12-13T20:00:54.985017+00:00", 7491, "Your mother is", "belt-like", "Similar to: belted", "Definition: resembling a belt around something", "Synonyms: beltlike"]}
+{"data": ["2022-12-13T21:00:55.064059+00:00", 7492, "Your mother is", "automatic", "Pronunciation: /\u02cc\u0254t\u0259\u02c8m\u00e6t\u026ak/", "Definition: resembling the unthinking functioning of a machine", "Synonyms: automatonlike, machinelike, robotic, robotlike"]}
