@@ -1,1 +1,1 @@
-{"data": ["2022-12-13T12:00:36.849628+00:00", 7483, "Your mother is", "nonsensitive", "Similar to: unclassified", "Definition: never having had security classification", "Synonyms: unrestricted"]}
+{"data": ["2022-12-13T13:00:55.441440+00:00", 7484, "Your mother is", "prodromic", "Pronunciation: /pr\u0259\u02c8dr\u0251m\u026ak/", "Definition: symptomatic of the onset of an attack or a disease", "Synonyms: prodromal"]}
