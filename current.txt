@@ -1,1 +1,1 @@
-{"data": ["2022-12-13T05:00:51.519880+00:00", 7476, "Your mother is", "allantoid", "Pronunciation: /\u0259\u02c8l\u00e6nt\u0254\u026ad/", "Definition: shaped like a sausage", "Synonyms: sausage-shaped"]}
+{"data": ["2022-12-13T06:00:58.036435+00:00", 7477, "Your mother is", "fatherly", "Pronunciation: /\u02c8f\u0251\u00f0\u0259rli/", "Definition: like or befitting a father or fatherhood; kind and protective", "Synonyms: fatherlike"]}
