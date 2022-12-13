@@ -1,1 +1,1 @@
-{"data": ["2022-12-13T13:00:55.441440+00:00", 7484, "Your mother is", "prodromic", "Pronunciation: /pr\u0259\u02c8dr\u0251m\u026ak/", "Definition: symptomatic of the onset of an attack or a disease", "Synonyms: prodromal"]}
+{"data": ["2022-12-13T14:00:47.762808+00:00", 7485, "Your mother is", "lighting-up", "Similar to: light", "Definition: turning lights on", ""]}
