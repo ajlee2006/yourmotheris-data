@@ -1,1 +1,1 @@
-{"data": ["2022-12-13T15:00:44.059843+00:00", 7486, "Your mother is", "adynamic", "Pronunciation: /\u02cc\u00e6d\u02c8\u0259n\u00e6m\u026ak/", "Definition: characterized by an absence of force or forcefulness", "Synonyms: undynamic"]}
+{"data": ["2022-12-13T16:00:54.795231+00:00", 7487, "Your mother is", "recessionary", "Pronunciation: /ri\u02c8s\u025b\u0283\u028cn\u02cc\u025bri/", "Definition: of or pertaining to a recession", "Synonyms: recessive"]}
