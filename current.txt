@@ -1,1 +1,1 @@
-{"data": ["2022-12-13T18:00:48.213673+00:00", 7489, "Your mother is", "orange-red", "Pronunciation: /\u02c8\u0254r\u026and\u0292-r\u025bd/", "Definition: of red tinged with orange", "Synonyms: orangish-red"]}
+{"data": ["2022-12-13T19:00:50.151270+00:00", 7490, "Your mother is", "compatible", "Pronunciation: /k\u0259m\u02c8p\u00e6t\u0259b\u0259l/", "Definition: able to exist and perform in harmonious or agreeable combination", ""]}
