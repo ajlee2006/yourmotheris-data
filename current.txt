@@ -1,1 +1,1 @@
-{"data": ["2022-12-13T21:00:55.064059+00:00", 7492, "Your mother is", "automatic", "Pronunciation: /\u02cc\u0254t\u0259\u02c8m\u00e6t\u026ak/", "Definition: resembling the unthinking functioning of a machine", "Synonyms: automatonlike, machinelike, robotic, robotlike"]}
+{"data": ["2022-12-13T22:00:55.875976+00:00", 7493, "Your mother is", "pyrogenetic", "", "Definition: produced by or producing fever", "Synonyms: pyrogenic, pyrogenous"]}
