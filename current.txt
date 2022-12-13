@@ -1,1 +1,1 @@
-{"data": ["2022-12-13T09:00:51.465368+00:00", 7480, "Your mother is", "plucky", "Pronunciation: /\u02c8pl\u0259ki/", "Definition: marked by courage and determination in the face of difficulties or danger; robust and uninhibited", "Synonyms: gutsy"]}
+{"data": ["2022-12-13T10:00:37.116711+00:00", 7481, "Your mother is", "effeminate", "Pronunciation: /\u026a\u02c8f\u025bm\u0259n\u026at/", "Definition: having unsuitable feminine qualities", "Synonyms: cissy, emasculate, epicene, sissified, sissy, sissyish"]}
