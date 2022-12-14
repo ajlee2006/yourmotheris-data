@@ -1,1 +1,1 @@
-{"data": ["2022-12-14T09:00:39.547348+00:00", 7504, "Your mother is", "day-old", "Similar to: stale", "Definition: not fresh today", ""]}
+{"data": ["2022-12-14T10:00:36.699348+00:00", 7505, "Your mother is", "shoddy", "Pronunciation: /\u02c8\u0283\u0251di/", "Definition: unethical or dishonest", "Synonyms: dirty, sordid"]}
