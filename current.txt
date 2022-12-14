@@ -1,1 +1,1 @@
-{"data": ["2022-12-14T05:00:51.481101+00:00", 7500, "Your mother is", "nonlegal", "Pronunciation: /n\u0251n\u02c8li\u0261\u0259l/", "Definition: not regulated or sanctioned by law", "Synonyms: extralegal"]}
+{"data": ["2022-12-14T06:00:43.915172+00:00", 7501, "Your mother is", "inexpugnable", "Pronunciation: /\u02cc\u026an\u026ak\u02c8sp\u0259gn\u0259b\u0259l/", "Definition: incapable of being overcome, challenged or refuted", "Synonyms: impregnable"]}
