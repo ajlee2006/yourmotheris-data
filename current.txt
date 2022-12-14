@@ -1,1 +1,1 @@
-{"data": ["2022-12-14T21:00:23.182657+00:00", 7515, "Your mother is", "idiotic", "Pronunciation: /\u02cc\u026adi\u02c8\u0251t\u026ak/", "Definition: insanely irresponsible", "Synonyms: crackbrained"]}
+{"data": ["2022-12-14T22:00:37.629824+00:00", 7516, "Your mother is", "at work", "Similar to: busy", "Definition: on the job", ""]}
