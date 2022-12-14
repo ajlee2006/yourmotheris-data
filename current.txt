@@ -1,1 +1,1 @@
-{"data": ["2022-12-14T06:00:43.915172+00:00", 7501, "Your mother is", "inexpugnable", "Pronunciation: /\u02cc\u026an\u026ak\u02c8sp\u0259gn\u0259b\u0259l/", "Definition: incapable of being overcome, challenged or refuted", "Synonyms: impregnable"]}
+{"data": ["2022-12-14T07:00:44.157877+00:00", 7502, "Your mother is", "nonterritorial", "", "Definition: not displaying territoriality", ""]}
