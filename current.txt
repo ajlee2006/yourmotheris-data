@@ -1,1 +1,1 @@
-{"data": ["2022-12-14T22:00:37.629824+00:00", 7516, "Your mother is", "at work", "Similar to: busy", "Definition: on the job", ""]}
+{"data": ["2022-12-14T23:00:18.012651+00:00", 7517, "Your mother is", "unrested", "Pronunciation: /\u0259n\u02c8r\u025bst\u026ad/", "Definition: not rested or refreshed", "Synonyms: unrefreshed"]}
