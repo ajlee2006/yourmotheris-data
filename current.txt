@@ -1,1 +1,1 @@
-{"data": ["2022-12-14T08:00:49.772286+00:00", 7503, "Your mother is", "dolled up", "Similar to: clad", "Definition: dressed in fancy or formal clothing", "Synonyms: dressed, dressed-up, dressed to kill, dressed to the nines, spiffed up, spruced up, togged up"]}
+{"data": ["2022-12-14T09:00:39.547348+00:00", 7504, "Your mother is", "day-old", "Similar to: stale", "Definition: not fresh today", ""]}
