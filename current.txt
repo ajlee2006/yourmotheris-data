@@ -1,1 +1,1 @@
-{"data": ["2022-12-14T00:01:10.578936+00:00", 7495, "Your mother is", "tied", "Pronunciation: /ta\u026ad/", "Definition: closed with a lace", "Synonyms: laced"]}
+{"data": ["2022-12-14T01:00:51.591159+00:00", 7496, "Your mother is", "fourfold", "Pronunciation: /\u02c8fo\u028ar\u02ccfo\u028ald/", "Definition: four times as great or many", "Synonyms: four-fold, quadruple"]}
