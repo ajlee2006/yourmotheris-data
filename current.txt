@@ -1,1 +1,1 @@
-{"data": ["2022-12-14T01:00:51.591159+00:00", 7496, "Your mother is", "fourfold", "Pronunciation: /\u02c8fo\u028ar\u02ccfo\u028ald/", "Definition: four times as great or many", "Synonyms: four-fold, quadruple"]}
+{"data": ["2022-12-14T02:00:42.382200+00:00", 7497, "Your mother is", "astounded", "Pronunciation: /\u028c\u02c8sta\u028and\u026ad/", "Definition: filled with the emotional impact of overwhelming surprise or shock", "Synonyms: amazed, astonied, astonished, stunned"]}
