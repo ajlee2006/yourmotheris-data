@@ -1,1 +1,1 @@
-{"data": ["2022-12-14T03:00:45.891222+00:00", 7498, "Your mother is", "fancied", "Pronunciation: /\u02c8f\u00e6nsid/", "Definition: formed or conceived by the imagination", "Synonyms: fabricated, fictional, fictitious"]}
+{"data": ["2022-12-14T04:00:38.447923+00:00", 7499, "Your mother is", "self-sufficient", "Pronunciation: /s\u025blf-s\u0259\u02c8f\u026a\u0283\u0259nt/", "Definition: able to provide for your own needs without help from others", "Synonyms: self-sufficing, self-sustaining"]}
