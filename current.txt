@@ -1,1 +1,1 @@
-{"data": ["2022-12-14T13:00:56.972628+00:00", 7507, "Your mother is", "parallel", "Pronunciation: /\u02c8p\u00e6r\u0259\u02ccl\u025bl/", "Definition: being everywhere equidistant and not intersecting", ""]}
+{"data": ["2022-12-14T14:00:36.320126+00:00", 7508, "Your mother is", "cloud-covered", "Pronunciation: /kla\u028ad-\u02c8k\u0259v\u0259rd/", "Definition: filled or abounding with clouds", "Synonyms: clouded, overcast, sunless"]}
