@@ -1,1 +1,1 @@
-{"data": ["2022-12-14T12:00:35.326767+00:00", 7506, "Your mother is", "silky-leafed", "Similar to: leafy", "Definition: having glossy leaves", "Synonyms: silky-leaved"]}
+{"data": ["2022-12-14T13:00:56.972628+00:00", 7507, "Your mother is", "parallel", "Pronunciation: /\u02c8p\u00e6r\u0259\u02ccl\u025bl/", "Definition: being everywhere equidistant and not intersecting", ""]}
