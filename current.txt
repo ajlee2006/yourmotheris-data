@@ -1,1 +1,1 @@
-{"data": ["2022-12-14T19:00:22.295330+00:00", 7513, "Your mother is", "sketchy", "Pronunciation: /\u02c8sk\u025bt\u0283i/", "Definition: giving only major points; lacking completeness", "Synonyms: unelaborated"]}
+{"data": ["2022-12-14T20:00:29.975090+00:00", 7514, "Your mother is", "bemused", "Pronunciation: /b\u026a\u02c8mjuzd/", "Definition: deeply absorbed in thought", "Synonyms: lost, preoccupied"]}
