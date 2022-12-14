@@ -1,1 +1,1 @@
-{"data": ["2022-12-14T04:00:38.447923+00:00", 7499, "Your mother is", "self-sufficient", "Pronunciation: /s\u025blf-s\u0259\u02c8f\u026a\u0283\u0259nt/", "Definition: able to provide for your own needs without help from others", "Synonyms: self-sufficing, self-sustaining"]}
+{"data": ["2022-12-14T05:00:51.481101+00:00", 7500, "Your mother is", "nonlegal", "Pronunciation: /n\u0251n\u02c8li\u0261\u0259l/", "Definition: not regulated or sanctioned by law", "Synonyms: extralegal"]}
