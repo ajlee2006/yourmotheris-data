@@ -1,1 +1,1 @@
-{"data": ["2022-12-15T22:00:33.879214+00:00", 7540, "Your mother is", "moroccan", "Pronunciation: /m\u0259\u02c8r\u0251k\u0259n/", "Definition: of or relating to or characteristic of Morocco or its people", "Synonyms: maroc"]}
+{"data": ["2022-12-15T23:00:18.276161+00:00", 7541, "Your mother is", "syncretic", "", "Definition: relating to a historical tendency for a language to reduce its use of inflections", "Synonyms: syncretical, syncretistic, syncretistical"]}
