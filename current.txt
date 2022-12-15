@@ -1,1 +1,1 @@
-{"data": ["2022-12-15T10:00:49.056589+00:00", 7528, "Your mother is", "russian orthodox", "", "Definition: of or relating to or characteristic of the Eastern Orthodox Church", "Synonyms: eastern orthodox, greek orthodox, orthodox"]}
+{"data": ["2022-12-15T11:00:33.045961+00:00", 7529, "Your mother is", "five", "Pronunciation: /fa\u026av/", "Definition: being one more than four", "Synonyms: 5, v"]}
