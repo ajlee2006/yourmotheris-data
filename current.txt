@@ -1,1 +1,1 @@
-{"data": ["2022-12-15T00:01:05.778946+00:00", 7518, "Your mother is", "natural", "Pronunciation: /\u02c8n\u00e6\u02a7\u0259r\u0259l/", "Definition: (of a parent or child) related by blood; genetically related", "Synonyms: biological"]}
+{"data": ["2022-12-15T01:00:47.910591+00:00", 7519, "Your mother is", "copesetic", "Pronunciation: /\u02ccko\u028ap\u0259\u02c8s\u025bt\u026ak/", "Definition: completely satisfactory", "Synonyms: copacetic, copasetic, copesettic"]}
