@@ -1,1 +1,1 @@
-{"data": ["2022-12-15T05:00:35.800273+00:00", 7523, "Your mother is", "sexed", "Pronunciation: /s\u025bkst/", "Definition: characterized by sexuality", ""]}
+{"data": ["2022-12-15T06:00:50.510180+00:00", 7524, "Your mother is", "sunk", "Pronunciation: /s\u0259\u014bk/", "Definition: doomed to extinction", "Synonyms: done for, ruined, undone, washed-up"]}
