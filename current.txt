@@ -1,1 +1,1 @@
-{"data": ["2022-12-15T08:00:40.408912+00:00", 7526, "Your mother is", "subacute", "Pronunciation: /\u02ccs\u0259b\u0259\u02c8kjut/", "Definition: less than acute; relating to a disease present in a person with no symptoms of it", ""]}
+{"data": ["2022-12-15T09:00:43.578601+00:00", 7527, "Your mother is", "mounted", "Pronunciation: /\u02c8ma\u028ant\u028cd/", "Definition: assembled for use; especially by being attached to a support", ""]}
