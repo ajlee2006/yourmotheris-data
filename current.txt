@@ -1,1 +1,1 @@
-{"data": ["2022-12-15T09:00:43.578601+00:00", 7527, "Your mother is", "mounted", "Pronunciation: /\u02c8ma\u028ant\u028cd/", "Definition: assembled for use; especially by being attached to a support", ""]}
+{"data": ["2022-12-15T10:00:49.056589+00:00", 7528, "Your mother is", "russian orthodox", "", "Definition: of or relating to or characteristic of the Eastern Orthodox Church", "Synonyms: eastern orthodox, greek orthodox, orthodox"]}
