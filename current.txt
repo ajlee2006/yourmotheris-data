@@ -1,1 +1,1 @@
-{"data": ["2022-12-15T07:00:50.367038+00:00", 7525, "Your mother is", "welcome", "Pronunciation: /\u02c8w\u025blk\u0259m/", "Definition: giving pleasure or satisfaction or received with pleasure or freely granted", ""]}
+{"data": ["2022-12-15T08:00:40.408912+00:00", 7526, "Your mother is", "subacute", "Pronunciation: /\u02ccs\u0259b\u0259\u02c8kjut/", "Definition: less than acute; relating to a disease present in a person with no symptoms of it", ""]}
