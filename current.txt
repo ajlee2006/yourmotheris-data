@@ -1,1 +1,1 @@
-{"data": ["2022-12-15T21:00:36.257708+00:00", 7539, "Your mother is", "self-regulating", "Pronunciation: /\u02ccs\u025blf\u02c8r\u025b\u0261j\u0259\u02ccle\u026at\u026a\u014b/", "Definition: designed to activate or move or regulate itself", "Synonyms: self-acting, self-activating, self-moving"]}
+{"data": ["2022-12-15T22:00:33.879214+00:00", 7540, "Your mother is", "moroccan", "Pronunciation: /m\u0259\u02c8r\u0251k\u0259n/", "Definition: of or relating to or characteristic of Morocco or its people", "Synonyms: maroc"]}
