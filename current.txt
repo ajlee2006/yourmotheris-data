@@ -1,1 +1,1 @@
-{"data": ["2022-12-15T12:00:35.915880+00:00", 7530, "Your mother is", "sharp-eyed", "Pronunciation: /\u0283\u0251rp-a\u026ad/", "Definition: having keen eyesight", "Synonyms: keen-eyed"]}
+{"data": ["2022-12-15T13:00:35.184546+00:00", 7531, "Your mother is", "reasoning", "Pronunciation: /\u02c8riz\u0259n\u026a\u014b/", "Definition: endowed with the capacity to reason", "Synonyms: intelligent, thinking"]}
