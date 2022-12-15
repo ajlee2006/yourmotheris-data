@@ -1,1 +1,1 @@
-{"data": ["2022-12-15T11:00:33.045961+00:00", 7529, "Your mother is", "five", "Pronunciation: /fa\u026av/", "Definition: being one more than four", "Synonyms: 5, v"]}
+{"data": ["2022-12-15T12:00:35.915880+00:00", 7530, "Your mother is", "sharp-eyed", "Pronunciation: /\u0283\u0251rp-a\u026ad/", "Definition: having keen eyesight", "Synonyms: keen-eyed"]}
