@@ -1,1 +1,1 @@
-{"data": ["2022-12-15T06:00:50.510180+00:00", 7524, "Your mother is", "sunk", "Pronunciation: /s\u0259\u014bk/", "Definition: doomed to extinction", "Synonyms: done for, ruined, undone, washed-up"]}
+{"data": ["2022-12-15T07:00:50.367038+00:00", 7525, "Your mother is", "welcome", "Pronunciation: /\u02c8w\u025blk\u0259m/", "Definition: giving pleasure or satisfaction or received with pleasure or freely granted", ""]}
