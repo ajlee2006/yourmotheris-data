@@ -1,1 +1,1 @@
-{"data": ["2022-12-15T14:00:45.370033+00:00", 7532, "Your mother is", "all-weather", "Pronunciation: /\u02c8\u0254l\u02ccw\u025b\u00f0\u0259r/", "Definition: usable or operative or practiced in all kinds of weather", ""]}
+{"data": ["2022-12-15T15:00:53.738801+00:00", 7533, "Your mother is", "inharmonic", "Pronunciation: /\u02cc\u026anh\u0251r\u02c8m\u0251n\u026ak/", "Definition: lacking in harmony", "Synonyms: discordant, disharmonious, dissonant"]}
