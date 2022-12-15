@@ -1,1 +1,1 @@
-{"data": ["2022-12-15T13:00:35.184546+00:00", 7531, "Your mother is", "reasoning", "Pronunciation: /\u02c8riz\u0259n\u026a\u014b/", "Definition: endowed with the capacity to reason", "Synonyms: intelligent, thinking"]}
+{"data": ["2022-12-15T14:00:45.370033+00:00", 7532, "Your mother is", "all-weather", "Pronunciation: /\u02c8\u0254l\u02ccw\u025b\u00f0\u0259r/", "Definition: usable or operative or practiced in all kinds of weather", ""]}
