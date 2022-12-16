@@ -1,1 +1,1 @@
-{"data": ["2022-12-16T17:00:18.001433+00:00", 7559, "Your mother is", "in height", "Similar to: tall", "Definition: having a specified height", ""]}
+{"data": ["2022-12-16T18:00:43.410547+00:00", 7560, "Your mother is", "altissimo", "Pronunciation: /\u00e6l\u02c8t\u026as\u0259\u02ccmo\u028a/", "Definition: very high", ""]}
