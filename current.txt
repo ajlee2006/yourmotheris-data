@@ -1,1 +1,1 @@
-{"data": ["2022-12-16T03:00:38.755425+00:00", 7545, "Your mother is", "extraterritorial", "Pronunciation: /\u02c8\u025bkstr\u0259\u02cct\u025br\u026a\u02c8to\u028ari\u0259l/", "Definition: outside territorial limits or jurisdiction", "Synonyms: exterritorial"]}
+{"data": ["2022-12-16T04:00:40.648742+00:00", 7546, "Your mother is", "nonrational", "Similar to: illogical", "Definition: obtained through intuition rather than from reasoning or observation", "Synonyms: intuitive, visceral"]}
