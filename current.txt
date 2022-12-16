@@ -1,1 +1,1 @@
-{"data": ["2022-12-16T19:00:19.073952+00:00", 7561, "Your mother is", "knitted", "Pronunciation: /\u02c8n\u026at\u026ad/", "Definition: made by intertwining threads in a series of connected loops rather than by weaving", ""]}
+{"data": ["2022-12-16T20:00:31.160068+00:00", 7562, "Your mother is", "acinar", "", "Definition: pertaining to one of the small sacs (as in a compound gland)", "Synonyms: acinic, acinose, acinous"]}
