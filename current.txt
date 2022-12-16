@@ -1,1 +1,1 @@
-{"data": ["2022-12-16T00:00:55.124125+00:00", 7542, "Your mother is", "sharp-tasting", "Similar to: tasty", "Definition: somewhat bitter", "Synonyms: bitterish"]}
+{"data": ["2022-12-16T01:00:45.612760+00:00", 7543, "Your mother is", "autoloading", "Similar to: automatic", "Definition: (of firearms) capable of automatic loading and firing continuously", "Synonyms: self-loading, semiautomatic"]}
