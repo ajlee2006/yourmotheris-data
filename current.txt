@@ -1,1 +1,1 @@
-{"data": ["2022-12-16T15:00:55.122900+00:00", 7557, "Your mother is", "gradable", "Similar to: hierarchal", "Definition: capable of being graded (for quality or rank or size etc.)", ""]}
+{"data": ["2022-12-16T16:00:52.324118+00:00", 7558, "Your mother is", "grayish-green", "Similar to: chromatic", "Definition: of green tinged with grey", "Synonyms: gray-green, grey-green, greyish-green"]}
