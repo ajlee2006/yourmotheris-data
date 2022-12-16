@@ -1,1 +1,1 @@
-{"data": ["2022-12-16T05:00:44.597047+00:00", 7547, "Your mother is", "short-dated", "Pronunciation: /\u0283\u0254rt-\u02c8de\u026at\u026ad/", "Definition: of a gilt-edged security; having less than 5 years to run before redemption", ""]}
+{"data": ["2022-12-16T06:00:47.276715+00:00", 7548, "Your mother is", "phytophagous", "Pronunciation: /fa\u026a\u02c8t\u0251f\u0259\u0261\u0259s/", "Definition: (of animals) feeding on plants", "Synonyms: phytophagic, phytophilous, plant-eating"]}
