@@ -1,1 +1,1 @@
-{"data": ["2022-12-16T18:00:43.410547+00:00", 7560, "Your mother is", "altissimo", "Pronunciation: /\u00e6l\u02c8t\u026as\u0259\u02ccmo\u028a/", "Definition: very high", ""]}
+{"data": ["2022-12-16T19:00:19.073952+00:00", 7561, "Your mother is", "knitted", "Pronunciation: /\u02c8n\u026at\u026ad/", "Definition: made by intertwining threads in a series of connected loops rather than by weaving", ""]}
