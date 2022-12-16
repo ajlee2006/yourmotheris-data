@@ -1,1 +1,1 @@
-{"data": ["2022-12-16T14:00:40.109551+00:00", 7556, "Your mother is", "selfsame", "Pronunciation: /\u02c8s\u025blf\u02ccse\u026am/", "Definition: being the exact same one; not any other:", "Synonyms: identical, very"]}
+{"data": ["2022-12-16T15:00:55.122900+00:00", 7557, "Your mother is", "gradable", "Similar to: hierarchal", "Definition: capable of being graded (for quality or rank or size etc.)", ""]}
