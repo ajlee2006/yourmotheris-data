@@ -1,1 +1,1 @@
-{"data": ["2022-12-16T22:00:14.431708+00:00", 7564, "Your mother is", "averse", "Pronunciation: /\u0259\u02c8v\u025crs/", "Definition: (usually followed by `to') strongly opposed", "Synonyms: antipathetic, antipathetical, indisposed, loath, loth"]}
+{"data": ["2022-12-16T23:00:26.112041+00:00", 7565, "Your mother is", "pachydermal", "", "Definition: of or relating to or characteristic of pachyderms", "Synonyms: pachydermatous, pachydermic, pachydermous"]}
