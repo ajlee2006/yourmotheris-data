@@ -1,1 +1,1 @@
-{"data": ["2022-12-16T08:00:49.302420+00:00", 7550, "Your mother is", "basophilic", "Pronunciation: /\u02ccbe\u026as\u0259\u02c8f\u026al\u026ak/", "Definition: staining readily with basic dyes", ""]}
+{"data": ["2022-12-16T09:00:41.349953+00:00", 7551, "Your mother is", "off your guard", "Similar to: unready", "Definition: not prepared or vigilant", "Synonyms: napping, off-guard, off guard, off her guard, off his guard, off one's guard"]}
