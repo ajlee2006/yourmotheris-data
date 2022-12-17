@@ -1,1 +1,1 @@
-{"data": ["2022-12-17T18:00:18.072744+00:00", 7583, "Your mother is", "uncleanly", "Pronunciation: /\u0259n\u02c8kl\u025bnli/", "Definition: habitually unclean", ""]}
+{"data": ["2022-12-17T19:00:11.808547+00:00", 7584, "Your mother is", "prophylactic", "Pronunciation: /\u02ccpro\u028af\u0259\u02c8l\u00e6kt\u026ak/", "Definition: capable of preventing conception or impregnation", "Synonyms: antifertility, contraceptive"]}
