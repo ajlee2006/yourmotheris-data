@@ -1,1 +1,1 @@
-{"data": ["2022-12-17T17:00:26.381057+00:00", 7582, "Your mother is", "erratic", "Pronunciation: /\u026a\u02c8r\u00e6t\u026ak/", "Definition: liable to sudden unpredictable change", "Synonyms: fickle, mercurial, quicksilver"]}
+{"data": ["2022-12-17T18:00:18.072744+00:00", 7583, "Your mother is", "uncleanly", "Pronunciation: /\u0259n\u02c8kl\u025bnli/", "Definition: habitually unclean", ""]}
