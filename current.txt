@@ -1,1 +1,1 @@
-{"data": ["2022-12-17T01:00:39.631573+00:00", 7567, "Your mother is", "getable", "Similar to: available", "Definition: capable of being obtained", "Synonyms: gettable, obtainable, procurable"]}
+{"data": ["2022-12-17T02:00:43.415785+00:00", 7568, "Your mother is", "covetous", "Pronunciation: /\u02c8k\u0259v\u026at\u0259s/", "Definition: showing extreme cupidity; painfully desirous of another's advantages", "Synonyms: envious, jealous"]}
