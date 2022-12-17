@@ -1,1 +1,1 @@
-{"data": ["2022-12-17T06:00:42.819452+00:00", 7572, "Your mother is", "angry", "Pronunciation: /\u02c8\u00e6\u014bgri/", "Definition: (of the elements) as if showing violent anger", "Synonyms: furious, raging, tempestuous, wild"]}
+{"data": ["2022-12-17T07:00:53.763122+00:00", 7573, "Your mother is", "dagger-like", "Similar to: sharp", "Definition: resembling a dagger", ""]}
