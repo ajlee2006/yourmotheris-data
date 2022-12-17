@@ -1,1 +1,1 @@
-{"data": ["2022-12-17T00:01:10.399243+00:00", 7566, "Your mother is", "turgid", "Pronunciation: /\u02c8t\u025crd\u0292\u026ad/", "Definition: abnormally distended especially by fluids or gas", "Synonyms: intumescent, puffy, tumescent, tumid"]}
+{"data": ["2022-12-17T01:00:39.631573+00:00", 7567, "Your mother is", "getable", "Similar to: available", "Definition: capable of being obtained", "Synonyms: gettable, obtainable, procurable"]}
