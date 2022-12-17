@@ -1,1 +1,1 @@
-{"data": ["2022-12-17T03:00:43.600473+00:00", 7569, "Your mother is", "epimorphic", "Similar to: metamorphic", "Definition: characterized by incomplete metamorphosis; having the same number of body segments in successive stages", ""]}
+{"data": ["2022-12-17T04:00:35.877099+00:00", 7570, "Your mother is", "unusable", "Pronunciation: /\u0259n\u02c8juz\u0259b\u0259l/", "Definition: not capable of being used", "Synonyms: unserviceable, unuseable"]}
