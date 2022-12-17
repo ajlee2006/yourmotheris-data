@@ -1,1 +1,1 @@
-{"data": ["2022-12-17T14:00:12.946090+00:00", 7579, "Your mother is", "shattering", "Pronunciation: /\u02c8\u0283\u00e6t\u025dr\u026a\u014b/", "Definition: seemingly loud enough to break something; violently rattling or clattering", ""]}
+{"data": ["2022-12-17T15:00:31.091642+00:00", 7580, "Your mother is", "trilobed", "Pronunciation: /\u02c8tra\u026a\u02cclo\u028abd/", "Definition: (of a leaf shape) divided into three lobes", "Synonyms: three-lobed, trilobate, trilobated"]}
