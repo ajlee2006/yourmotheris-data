@@ -1,1 +1,1 @@
-{"data": ["2022-12-17T02:00:43.415785+00:00", 7568, "Your mother is", "covetous", "Pronunciation: /\u02c8k\u0259v\u026at\u0259s/", "Definition: showing extreme cupidity; painfully desirous of another's advantages", "Synonyms: envious, jealous"]}
+{"data": ["2022-12-17T03:00:43.600473+00:00", 7569, "Your mother is", "epimorphic", "Similar to: metamorphic", "Definition: characterized by incomplete metamorphosis; having the same number of body segments in successive stages", ""]}
