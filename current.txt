@@ -1,1 +1,1 @@
-{"data": ["2022-12-16T23:00:26.112041+00:00", 7565, "Your mother is", "pachydermal", "", "Definition: of or relating to or characteristic of pachyderms", "Synonyms: pachydermatous, pachydermic, pachydermous"]}
+{"data": ["2022-12-17T00:01:10.399243+00:00", 7566, "Your mother is", "turgid", "Pronunciation: /\u02c8t\u025crd\u0292\u026ad/", "Definition: abnormally distended especially by fluids or gas", "Synonyms: intumescent, puffy, tumescent, tumid"]}
