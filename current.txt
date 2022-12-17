@@ -1,1 +1,1 @@
-{"data": ["2022-12-17T19:00:11.808547+00:00", 7584, "Your mother is", "prophylactic", "Pronunciation: /\u02ccpro\u028af\u0259\u02c8l\u00e6kt\u026ak/", "Definition: capable of preventing conception or impregnation", "Synonyms: antifertility, contraceptive"]}
+{"data": ["2022-12-17T20:00:28.394316+00:00", 7585, "Your mother is", "nonviolent", "Pronunciation: /n\u0251n\u02c8va\u026a\u028cl\u028cnt/", "Definition: achieved without bloodshed", "Synonyms: unbloody"]}
