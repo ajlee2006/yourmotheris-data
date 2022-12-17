@@ -1,1 +1,1 @@
-{"data": ["2022-12-17T16:00:29.906521+00:00", 7581, "Your mother is", "heraldist", "Pronunciation: /\u02c8h\u025br\u0259ld\u026ast/", "Definition: of or relating to heraldry", "Synonyms: heraldic"]}
+{"data": ["2022-12-17T17:00:26.381057+00:00", 7582, "Your mother is", "erratic", "Pronunciation: /\u026a\u02c8r\u00e6t\u026ak/", "Definition: liable to sudden unpredictable change", "Synonyms: fickle, mercurial, quicksilver"]}
