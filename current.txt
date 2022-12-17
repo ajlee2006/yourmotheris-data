@@ -1,1 +1,1 @@
-{"data": ["2022-12-17T15:00:31.091642+00:00", 7580, "Your mother is", "trilobed", "Pronunciation: /\u02c8tra\u026a\u02cclo\u028abd/", "Definition: (of a leaf shape) divided into three lobes", "Synonyms: three-lobed, trilobate, trilobated"]}
+{"data": ["2022-12-17T16:00:29.906521+00:00", 7581, "Your mother is", "heraldist", "Pronunciation: /\u02c8h\u025br\u0259ld\u026ast/", "Definition: of or relating to heraldry", "Synonyms: heraldic"]}
