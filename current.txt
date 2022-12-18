@@ -1,1 +1,1 @@
-{"data": ["2022-12-18T06:00:43.887681+00:00", 7595, "Your mother is", "superlative", "Pronunciation: /s\u0259\u02c8p\u025crl\u0259t\u026av/", "Definition: highest in quality", "Synonyms: greatest, sterling"]}
+{"data": ["2022-12-18T07:00:45.650515+00:00", 7596, "Your mother is", "free-range", "Similar to: unconfined", "Definition: of livestock and domestic poultry; permitted to graze or forage rather than being confined to a feedlot", ""]}
