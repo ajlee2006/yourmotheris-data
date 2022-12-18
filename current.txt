@@ -1,1 +1,1 @@
-{"data": ["2022-12-18T13:00:21.849563+00:00", 7602, "Your mother is", "rustproof", "Pronunciation: /\u02c8r\u0259stpruf/", "Definition: treated against rusting", "Synonyms: rustproofed"]}
+{"data": ["2022-12-18T14:00:22.005283+00:00", 7603, "Your mother is", "revitalising", "Similar to: invigorating", "Definition: tending to impart new life and vigor to", "Synonyms: renewing, restorative, revitalizing, reviving"]}
