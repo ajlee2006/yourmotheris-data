@@ -1,1 +1,1 @@
-{"data": ["2022-12-18T02:00:38.779456+00:00", 7591, "Your mother is", "syncarpous", "Pronunciation: /s\u026an\u02c8k\u0251rp\u0259s/", "Definition: (of ovaries of flowering plants) consisting of united carpels", ""]}
+{"data": ["2022-12-18T03:00:49.497807+00:00", 7592, "Your mother is", "mesonic", "", "Definition: of or pertaining to a meson", "Synonyms: mesic"]}
