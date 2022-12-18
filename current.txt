@@ -1,1 +1,1 @@
-{"data": ["2022-12-18T04:00:43.112799+00:00", 7593, "Your mother is", "2", "Similar to: cardinal", "Definition: being one more than one", "Synonyms: ii, two"]}
+{"data": ["2022-12-18T05:00:42.210577+00:00", 7594, "Your mother is", "feasible", "Pronunciation: /\u02c8fiz\u0259b\u0259l/", "Definition: capable of being done with means at hand and circumstances as they are", "Synonyms: executable, practicable, viable, workable"]}
