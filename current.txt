@@ -1,1 +1,1 @@
-{"data": ["2022-12-18T00:01:00.499588+00:00", 7589, "Your mother is", "chirpy", "Pronunciation: /\u02c8\u02a7\u025crpi/", "Definition: characterized by liveliness and lightheartedness", "Synonyms: buoyant, perky"]}
+{"data": ["2022-12-18T01:00:51.765425+00:00", 7590, "Your mother is", "tax-exempt", "Pronunciation: /t\u00e6ks-\u026a\u0261\u02c8z\u025bmpt/", "Definition: (of goods or funds) not taxed", "Synonyms: tax-free, untaxed"]}
