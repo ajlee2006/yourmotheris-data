@@ -1,1 +1,1 @@
-{"data": ["2022-12-18T16:00:18.762047+00:00", 7605, "Your mother is", "longhand", "Pronunciation: /\u02c8l\u0254\u014b\u02cch\u00e6nd/", "Definition: having words written out in full by hand", ""]}
+{"data": ["2022-12-18T17:00:16.406229+00:00", 7606, "Your mother is", "sapid", "Pronunciation: /\u02c8s\u00e6p\u026ad/", "Definition: full of flavor", "Synonyms: flavorful, flavorous, flavorsome, flavourful, flavourous, flavoursome, saporous"]}
