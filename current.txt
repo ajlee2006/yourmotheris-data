@@ -1,1 +1,1 @@
-{"data": ["2022-12-18T15:00:23.009507+00:00", 7604, "Your mother is", "second-string", "Similar to: secondary", "Definition: being a replacement or substitute for a regular member of a team", ""]}
+{"data": ["2022-12-18T16:00:18.762047+00:00", 7605, "Your mother is", "longhand", "Pronunciation: /\u02c8l\u0254\u014b\u02cch\u00e6nd/", "Definition: having words written out in full by hand", ""]}
