@@ -1,1 +1,1 @@
-{"data": ["2022-12-17T23:00:09.102309+00:00", 7588, "Your mother is", "sorrowful", "Pronunciation: /\u02c8s\u0251ro\u028a\u02ccf\u028al/", "Definition: experiencing or marked by or expressing sorrow especially that associated with irreparable loss", ""]}
+{"data": ["2022-12-18T00:01:00.499588+00:00", 7589, "Your mother is", "chirpy", "Pronunciation: /\u02c8\u02a7\u025crpi/", "Definition: characterized by liveliness and lightheartedness", "Synonyms: buoyant, perky"]}
