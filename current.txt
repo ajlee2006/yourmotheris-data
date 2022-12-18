@@ -1,1 +1,1 @@
-{"data": ["2022-12-18T01:00:51.765425+00:00", 7590, "Your mother is", "tax-exempt", "Pronunciation: /t\u00e6ks-\u026a\u0261\u02c8z\u025bmpt/", "Definition: (of goods or funds) not taxed", "Synonyms: tax-free, untaxed"]}
+{"data": ["2022-12-18T02:00:38.779456+00:00", 7591, "Your mother is", "syncarpous", "Pronunciation: /s\u026an\u02c8k\u0251rp\u0259s/", "Definition: (of ovaries of flowering plants) consisting of united carpels", ""]}
