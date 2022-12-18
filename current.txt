@@ -1,1 +1,1 @@
-{"data": ["2022-12-18T08:00:37.523200+00:00", 7597, "Your mother is", "drenched", "Pronunciation: /dr\u025bnt\u0283t/", "Definition: abundantly covered or supplied with; often used in combination", "Synonyms: drenched in"]}
+{"data": ["2022-12-18T09:00:42.173034+00:00", 7598, "Your mother is", "destroyed", "Pronunciation: /d\u026a\u02c8str\u0254\u026ad/", "Definition: destroyed physically or morally", "Synonyms: ruined"]}
