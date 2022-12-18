@@ -1,1 +1,1 @@
-{"data": ["2022-12-18T05:00:42.210577+00:00", 7594, "Your mother is", "feasible", "Pronunciation: /\u02c8fiz\u0259b\u0259l/", "Definition: capable of being done with means at hand and circumstances as they are", "Synonyms: executable, practicable, viable, workable"]}
+{"data": ["2022-12-18T06:00:43.887681+00:00", 7595, "Your mother is", "superlative", "Pronunciation: /s\u0259\u02c8p\u025crl\u0259t\u026av/", "Definition: highest in quality", "Synonyms: greatest, sterling"]}
