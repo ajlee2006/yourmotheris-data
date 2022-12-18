@@ -1,1 +1,1 @@
-{"data": ["2022-12-18T18:00:19.913160+00:00", 7607, "Your mother is", "encompassing", "Pronunciation: /\u025bn\u02c8k\u028cmp\u028cs\u026a\u014b/", "Definition: closely encircling", "Synonyms: circumferent, surrounding"]}
+{"data": ["2022-12-18T19:00:18.942305+00:00", 7608, "Your mother is", "main", "Pronunciation: /me\u026an/", "Definition: (of a clause) capable of standing syntactically alone as a complete sentence", "Synonyms: independent"]}
