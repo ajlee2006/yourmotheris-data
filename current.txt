@@ -1,1 +1,1 @@
-{"data": ["2022-12-18T09:00:42.173034+00:00", 7598, "Your mother is", "destroyed", "Pronunciation: /d\u026a\u02c8str\u0254\u026ad/", "Definition: destroyed physically or morally", "Synonyms: ruined"]}
+{"data": ["2022-12-18T10:00:43.132101+00:00", 7599, "Your mother is", "cupric", "Pronunciation: /\u02c8kjupr\u026ak/", "Definition: of or containing divalent copper", "Synonyms: cuprous"]}
