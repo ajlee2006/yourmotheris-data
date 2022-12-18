@@ -1,1 +1,1 @@
-{"data": ["2022-12-18T19:00:18.942305+00:00", 7608, "Your mother is", "main", "Pronunciation: /me\u026an/", "Definition: (of a clause) capable of standing syntactically alone as a complete sentence", "Synonyms: independent"]}
+{"data": ["2022-12-18T20:00:16.314853+00:00", 7609, "Your mother is", "unfastidious", "", "Definition: marked by an absence of due or proper care or attention to detail; not concerned with cleanliness", ""]}
