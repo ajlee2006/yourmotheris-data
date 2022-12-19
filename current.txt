@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T11:00:30.423229+00:00", 7624, "Your mother is", "black-gray", "Similar to: achromatic", "Definition: of dark grey", "Synonyms: black-grey, blackish-gray, blackish-grey"]}
+{"data": ["2022-12-19T12:00:44.666961+00:00", 7625, "Your mother is", "showy", "Pronunciation: /\u02c8\u0283o\u028ai/", "Definition: (used especially of clothes) marked by conspicuous display", "Synonyms: flashy, gaudy, jazzy, sporty"]}
