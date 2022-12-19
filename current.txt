@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T06:00:50.983906+00:00", 7619, "Your mother is", "packaged", "Pronunciation: /\u02c8p\u00e6k\u026ad\u0292d/", "Definition: enclosed in a package or protective covering", ""]}
+{"data": ["2022-12-19T07:00:42.006506+00:00", 7620, "Your mother is", "spiteful", "Pronunciation: /\u02c8spa\u026atf\u0259l/", "Definition: showing malicious ill will and a desire to hurt; motivated by spite", "Synonyms: despiteful, vindictive"]}
