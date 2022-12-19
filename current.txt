@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T20:00:23.985737+00:00", 7633, "Your mother is", "benthonic", "Pronunciation: /b\u025bn\u02c8\u03b8\u0251n\u026ak/", "Definition: of or relating to or happening on the bottom under a body of water", "Synonyms: benthal, benthic"]}
+{"data": ["2022-12-19T21:00:26.801924+00:00", 7634, "Your mother is", "least", "Pronunciation: /list/", "Definition: the superlative of `little' that can be used with mass nouns and is usually preceded by `the'; a quantifier meaning smallest in amount or extent or degree", ""]}
