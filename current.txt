@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T19:00:23.459620+00:00", 7632, "Your mother is", "fistulous", "Pronunciation: /\u02c8f\u026as\u02a7\u028al\u0259s/", "Definition: hollow and tube-shaped like a reed", "Synonyms: fistular, fistulate"]}
+{"data": ["2022-12-19T20:00:23.985737+00:00", 7633, "Your mother is", "benthonic", "Pronunciation: /b\u025bn\u02c8\u03b8\u0251n\u026ak/", "Definition: of or relating to or happening on the bottom under a body of water", "Synonyms: benthal, benthic"]}
