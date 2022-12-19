@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T12:00:44.666961+00:00", 7625, "Your mother is", "showy", "Pronunciation: /\u02c8\u0283o\u028ai/", "Definition: (used especially of clothes) marked by conspicuous display", "Synonyms: flashy, gaudy, jazzy, sporty"]}
+{"data": ["2022-12-19T13:00:22.736127+00:00", 7626, "Your mother is", "unartistic", "Pronunciation: /\u02cc\u0259n\u0251r\u02c8t\u026ast\u026ak/", "Definition: lacking aesthetic sensibility", "Synonyms: inartistic"]}
