@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T22:00:24.699477+00:00", 7635, "Your mother is", "sodden", "Pronunciation: /\u02c8s\u0251d\u0259n/", "Definition: wet through and through; thoroughly wet", "Synonyms: soppy"]}
+{"data": ["2022-12-19T23:00:10.973461+00:00", 7636, "Your mother is", "tended to", "Similar to: cared-for", "Definition: having a caretaker or other watcher", "Synonyms: attended"]}
