@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T18:00:25.898454+00:00", 7631, "Your mother is", "manlike", "Pronunciation: /\u02c8m\u00e6n\u02ccla\u026ak/", "Definition: possessing qualities befitting a man", "Synonyms: manful, manly"]}
+{"data": ["2022-12-19T19:00:23.459620+00:00", 7632, "Your mother is", "fistulous", "Pronunciation: /\u02c8f\u026as\u02a7\u028al\u0259s/", "Definition: hollow and tube-shaped like a reed", "Synonyms: fistular, fistulate"]}
