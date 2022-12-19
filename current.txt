@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T15:00:18.991510+00:00", 7628, "Your mother is", "positive", "Pronunciation: /\u02c8p\u0251z\u026at\u026av/", "Definition: involving advantage or good", "Synonyms: plus"]}
+{"data": ["2022-12-19T16:00:19.838892+00:00", 7629, "Your mother is", "coruscant", "Pronunciation: /k\u0259\u02c8r\u0259sk\u0259nt/", "Definition: having brief brilliant points or flashes of light", "Synonyms: aglitter, fulgid, glinting, glistering, glittering, glittery, scintillant, scintillating, sparkly"]}
