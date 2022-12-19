@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T13:00:22.736127+00:00", 7626, "Your mother is", "unartistic", "Pronunciation: /\u02cc\u0259n\u0251r\u02c8t\u026ast\u026ak/", "Definition: lacking aesthetic sensibility", "Synonyms: inartistic"]}
+{"data": ["2022-12-19T14:00:13.381532+00:00", 7627, "Your mother is", "chinese", "Pronunciation: /t\u0283a\u026a\u02c8niz/", "Definition: of or relating to or characteristic of the island republic on Taiwan or its residents or their language", "Synonyms: formosan, taiwanese"]}
