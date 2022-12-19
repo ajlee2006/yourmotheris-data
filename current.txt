@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T21:00:26.801924+00:00", 7634, "Your mother is", "least", "Pronunciation: /list/", "Definition: the superlative of `little' that can be used with mass nouns and is usually preceded by `the'; a quantifier meaning smallest in amount or extent or degree", ""]}
+{"data": ["2022-12-19T22:00:24.699477+00:00", 7635, "Your mother is", "sodden", "Pronunciation: /\u02c8s\u0251d\u0259n/", "Definition: wet through and through; thoroughly wet", "Synonyms: soppy"]}
