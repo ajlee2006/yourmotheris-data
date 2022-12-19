@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T02:00:43.939398+00:00", 7615, "Your mother is", "scattered", "Pronunciation: /\u02c8sk\u00e6t\u025drd/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, disordered, garbled, illogical, unconnected"]}
+{"data": ["2022-12-19T03:00:41.219969+00:00", 7616, "Your mother is", "descending", "Pronunciation: /d\u026a\u02c8s\u025bnd\u026a\u014b/", "Definition: coming down or downward", ""]}
