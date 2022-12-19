@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T14:00:13.381532+00:00", 7627, "Your mother is", "chinese", "Pronunciation: /t\u0283a\u026a\u02c8niz/", "Definition: of or relating to or characteristic of the island republic on Taiwan or its residents or their language", "Synonyms: formosan, taiwanese"]}
+{"data": ["2022-12-19T15:00:18.991510+00:00", 7628, "Your mother is", "positive", "Pronunciation: /\u02c8p\u0251z\u026at\u026av/", "Definition: involving advantage or good", "Synonyms: plus"]}
