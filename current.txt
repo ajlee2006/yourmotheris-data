@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T00:01:19.383558+00:00", 7613, "Your mother is", "validated", "Pronunciation: /\u02c8v\u00e6l\u028cde\u026at\u028cd/", "Definition: declared or made legally valid", ""]}
+{"data": ["2022-12-19T01:00:45.802017+00:00", 7614, "Your mother is", "high-topped", "Similar to: high", "Definition: (of shoes or boots) having relatively high uppers", "Synonyms: high-top"]}
