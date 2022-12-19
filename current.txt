@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T16:00:19.838892+00:00", 7629, "Your mother is", "coruscant", "Pronunciation: /k\u0259\u02c8r\u0259sk\u0259nt/", "Definition: having brief brilliant points or flashes of light", "Synonyms: aglitter, fulgid, glinting, glistering, glittering, glittery, scintillant, scintillating, sparkly"]}
+{"data": ["2022-12-19T17:00:18.494396+00:00", 7630, "Your mother is", "100", "Similar to: cardinal", "Definition: being ten more than ninety", "Synonyms: c, hundred, one hundred"]}
