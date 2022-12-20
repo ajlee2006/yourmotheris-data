@@ -1,1 +1,1 @@
-{"data": ["2022-12-20T05:00:41.657743+00:00", 7642, "Your mother is", "propertied", "Pronunciation: /\u02c8pr\u0251p\u0259rtid/", "Definition: owning land or securities as a principal source of revenue", "Synonyms: property-owning"]}
+{"data": ["2022-12-20T06:01:01.416401+00:00", 7643, "Your mother is", "grassroots", "Pronunciation: /\u02c8\u0261r\u00e6s\u02c8ruts/", "Definition: fundamental", ""]}
