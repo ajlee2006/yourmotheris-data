@@ -1,1 +1,1 @@
-{"data": ["2022-12-20T02:00:39.560041+00:00", 7639, "Your mother is", "blusterous", "Similar to: stormy", "Definition: blowing in violent and abrupt bursts", "Synonyms: blustering, blustery"]}
+{"data": ["2022-12-20T03:00:45.924148+00:00", 7640, "Your mother is", "seasick", "Pronunciation: /\u02c8sis\u026ak/", "Definition: experiencing motion sickness", "Synonyms: air sick, airsick, carsick"]}
