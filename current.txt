@@ -1,1 +1,1 @@
-{"data": ["2022-12-20T03:00:45.924148+00:00", 7640, "Your mother is", "seasick", "Pronunciation: /\u02c8sis\u026ak/", "Definition: experiencing motion sickness", "Synonyms: air sick, airsick, carsick"]}
+{"data": ["2022-12-20T04:00:56.552971+00:00", 7641, "Your mother is", "stellar", "Pronunciation: /\u02c8st\u025bl\u0259r/", "Definition: indicating the most important performer or role", "Synonyms: leading, prima, star, starring"]}
