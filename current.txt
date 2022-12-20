@@ -1,1 +1,1 @@
-{"data": ["2022-12-20T20:00:15.727640+00:00", 7657, "Your mother is", "digital", "Pronunciation: /\u02c8d\u026ad\u0292\u026at\u0259l/", "Definition: of a circuit or device that represents magnitudes in digits", ""]}
+{"data": ["2022-12-20T21:00:15.130777+00:00", 7658, "Your mother is", "moony", "Pronunciation: /\u02c8muni/", "Definition: lighted by moonlight", "Synonyms: moonlit"]}
