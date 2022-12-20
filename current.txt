@@ -1,1 +1,1 @@
-{"data": ["2022-12-19T23:00:10.973461+00:00", 7636, "Your mother is", "tended to", "Similar to: cared-for", "Definition: having a caretaker or other watcher", "Synonyms: attended"]}
+{"data": ["2022-12-20T00:01:07.324647+00:00", 7637, "Your mother is", "overproud", "Similar to: proud", "Definition: excessively proud", ""]}
