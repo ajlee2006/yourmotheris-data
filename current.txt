@@ -1,1 +1,1 @@
-{"data": ["2022-12-20T21:00:15.130777+00:00", 7658, "Your mother is", "moony", "Pronunciation: /\u02c8muni/", "Definition: lighted by moonlight", "Synonyms: moonlit"]}
+{"data": ["2022-12-20T22:00:35.494078+00:00", 7659, "Your mother is", "homonymous", "Pronunciation: /h\u0259\u02c8m\u0251n\u0259m\u0259s/", "Definition: of or related to or being homonyms", "Synonyms: homonymic"]}
