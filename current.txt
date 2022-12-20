@@ -1,1 +1,1 @@
-{"data": ["2022-12-20T19:00:15.295227+00:00", 7656, "Your mother is", "lonesome", "Pronunciation: /\u02c8lo\u028ans\u0259m/", "Definition: marked by dejection from being alone", "Synonyms: lonely"]}
+{"data": ["2022-12-20T20:00:15.727640+00:00", 7657, "Your mother is", "digital", "Pronunciation: /\u02c8d\u026ad\u0292\u026at\u0259l/", "Definition: of a circuit or device that represents magnitudes in digits", ""]}
