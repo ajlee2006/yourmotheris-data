@@ -1,1 +1,1 @@
-{"data": ["2022-12-20T06:01:01.416401+00:00", 7643, "Your mother is", "grassroots", "Pronunciation: /\u02c8\u0261r\u00e6s\u02c8ruts/", "Definition: fundamental", ""]}
+{"data": ["2022-12-20T07:00:36.366270+00:00", 7644, "Your mother is", "upscale", "Pronunciation: /\u02c8\u0259pske\u026al/", "Definition: appropriate for people with good incomes", ""]}
