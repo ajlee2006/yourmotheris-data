@@ -1,1 +1,1 @@
-{"data": ["2022-12-21T10:00:46.525189+00:00", 7671, "Your mother is", "corporate", "Pronunciation: /\u02c8k\u0254rp\u0259r\u026at/", "Definition: done by or characteristic of individuals acting together", "Synonyms: collective"]}
+{"data": ["2022-12-21T11:00:30.845158+00:00", 7672, "Your mother is", "flyblown", "Pronunciation: /\u02c8fla\u026a\u02ccblo\u028an/", "Definition: spoiled and covered with eggs and larvae of flies", "Synonyms: maggoty"]}
