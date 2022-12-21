@@ -1,1 +1,1 @@
-{"data": ["2022-12-21T05:00:31.161691+00:00", 7666, "Your mother is", "teetotal", "Pronunciation: /ti\u02c8to\u028at\u0259l/", "Definition: practicing complete abstinence from alcoholic beverages", "Synonyms: dry"]}
+{"data": ["2022-12-21T06:00:44.404095+00:00", 7667, "Your mother is", "tenanted", "Similar to: inhabited", "Definition: resided in; having tenants", "Synonyms: occupied"]}
