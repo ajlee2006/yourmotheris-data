@@ -1,1 +1,1 @@
-{"data": ["2022-12-21T14:00:16.784001+00:00", 7675, "Your mother is", "entertained", "Pronunciation: /\u02cc\u025bnt\u025dr\u02c8te\u026and/", "Definition: pleasantly occupied", "Synonyms: amused, diverted"]}
+{"data": ["2022-12-21T15:00:18.206090+00:00", 7676, "Your mother is", "coarse-textured", "Similar to: rough", "Definition: having surface roughness", "Synonyms: rough-textured, textured"]}
