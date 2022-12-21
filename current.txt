@@ -1,1 +1,1 @@
-{"data": ["2022-12-21T11:00:30.845158+00:00", 7672, "Your mother is", "flyblown", "Pronunciation: /\u02c8fla\u026a\u02ccblo\u028an/", "Definition: spoiled and covered with eggs and larvae of flies", "Synonyms: maggoty"]}
+{"data": ["2022-12-21T12:00:52.483550+00:00", 7673, "Your mother is", "unaided", "Pronunciation: /\u028cn\u02c8e\u026ad\u026ad/", "Definition: carried out without aid or assistance", ""]}
