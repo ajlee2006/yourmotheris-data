@@ -1,1 +1,1 @@
-{"data": ["2022-12-20T23:00:16.558343+00:00", 7660, "Your mother is", "pasteurized", "Pronunciation: /\u02c8p\u00e6st\u0283\u025dr\u02cca\u026azd/", "Definition: having been subjected to pasteurization in order to halt fermentation", "Synonyms: pasteurised"]}
+{"data": ["2022-12-21T00:01:02.943215+00:00", 7661, "Your mother is", "greyed", "Similar to: colorless", "Definition: deprived of color", "Synonyms: dulled"]}
