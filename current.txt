@@ -1,1 +1,1 @@
-{"data": ["2022-12-21T20:00:26.085460+00:00", 7681, "Your mother is", "seafaring", "Pronunciation: /\u02c8si\u02ccf\u025cr\u026a\u014b/", "Definition: used on the high seas", "Synonyms: oceangoing, seagoing"]}
+{"data": ["2022-12-21T21:00:12.949939+00:00", 7682, "Your mother is", "exiguous", "Pronunciation: /\u026a\u0261\u02c8z\u026a\u0261ju\u0259s/", "Definition: extremely scanty", ""]}
