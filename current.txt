@@ -1,1 +1,1 @@
-{"data": ["2022-12-21T12:00:52.483550+00:00", 7673, "Your mother is", "unaided", "Pronunciation: /\u028cn\u02c8e\u026ad\u026ad/", "Definition: carried out without aid or assistance", ""]}
+{"data": ["2022-12-21T13:00:13.015791+00:00", 7674, "Your mother is", "bloodless", "Pronunciation: /\u02c8bl\u0259dl\u026as/", "Definition: destitute of blood or apparently so", "Synonyms: exsanguine, exsanguinous"]}
