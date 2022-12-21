@@ -1,1 +1,1 @@
-{"data": ["2022-12-21T08:00:48.956681+00:00", 7669, "Your mother is", "inexperient", "Similar to: new", "Definition: lacking practical experience or training", "Synonyms: inexperienced"]}
+{"data": ["2022-12-21T09:00:39.628474+00:00", 7670, "Your mother is", "addicted", "Pronunciation: /\u0259\u02c8d\u026akt\u026ad/", "Definition: compulsively or physiologically dependent on something habit-forming", ""]}
