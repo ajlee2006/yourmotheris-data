@@ -1,1 +1,1 @@
-{"data": ["2022-12-21T18:00:22.225064+00:00", 7679, "Your mother is", "repand", "Pronunciation: /r\u026a\u02c8p\u00e6nd/", "Definition: having a slightly undulating margin", ""]}
+{"data": ["2022-12-21T19:00:19.694225+00:00", 7680, "Your mother is", "dogmatic", "Pronunciation: /d\u0254\u0261\u02c8m\u00e6t\u026ak/", "Definition: characterized by assertion of unproved or unprovable principles", "Synonyms: dogmatical"]}
