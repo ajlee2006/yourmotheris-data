@@ -1,1 +1,1 @@
-{"data": ["2022-12-21T15:00:18.206090+00:00", 7676, "Your mother is", "coarse-textured", "Similar to: rough", "Definition: having surface roughness", "Synonyms: rough-textured, textured"]}
+{"data": ["2022-12-21T16:00:18.680575+00:00", 7677, "Your mother is", "botanic", "Pronunciation: /b\u0259\u02c8t\u00e6n\u026ak/", "Definition: of or relating to plants or botany", "Synonyms: botanical"]}
