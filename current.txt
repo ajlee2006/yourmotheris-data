@@ -1,1 +1,1 @@
-{"data": ["2022-12-22T13:00:26.913339+00:00", 7697, "Your mother is", "trial-and-error", "Similar to: heuristic", "Definition: relating to solving problems by experience rather than theory", ""]}
+{"data": ["2022-12-22T14:00:27.357566+00:00", 7698, "Your mother is", "straightaway", "Pronunciation: /\u02c8stre\u026at\u0259\u02ccwe\u026a/", "Definition: performed with little or no delay", "Synonyms: immediate, prompt, quick"]}
