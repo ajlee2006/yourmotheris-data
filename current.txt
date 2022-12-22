@@ -1,1 +1,1 @@
-{"data": ["2022-12-22T00:00:53.270387+00:00", 7685, "Your mother is", "costly", "Pronunciation: /\u02c8k\u0254stli/", "Definition: entailing great loss or sacrifice", "Synonyms: dearly-won"]}
+{"data": ["2022-12-22T01:00:33.727293+00:00", 7686, "Your mother is", "monovalent", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8ve\u026al\u0259nt/", "Definition: having a valence of 1", "Synonyms: univalent"]}
