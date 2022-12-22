@@ -1,1 +1,1 @@
-{"data": ["2022-12-22T22:00:23.506666+00:00", 7706, "Your mother is", "legged", "Pronunciation: /l\u025bgd/", "Definition: having legs of a specified kind or number", ""]}
+{"data": ["2022-12-22T23:00:18.285986+00:00", 7707, "Your mother is", "agitated", "Pronunciation: /\u02c8\u00e6d\u0292\u028c\u02ccte\u026at\u028cd/", "Definition: physically disturbed or set in motion", ""]}
