@@ -1,1 +1,1 @@
-{"data": ["2022-12-22T12:00:42.057327+00:00", 7696, "Your mother is", "bounteous", "Pronunciation: /\u02c8ba\u028anti\u0259s/", "Definition: given or giving freely", "Synonyms: big, bighearted, bountiful, freehanded, giving, handsome, liberal, openhanded"]}
+{"data": ["2022-12-22T13:00:26.913339+00:00", 7697, "Your mother is", "trial-and-error", "Similar to: heuristic", "Definition: relating to solving problems by experience rather than theory", ""]}
