@@ -1,1 +1,1 @@
-{"data": ["2022-12-22T20:00:29.273087+00:00", 7704, "Your mother is", "unsleeping", "Similar to: awake", "Definition: fully awake", "Synonyms: wide-awake"]}
+{"data": ["2022-12-22T21:00:30.926726+00:00", 7705, "Your mother is", "innumerate", "Pronunciation: /\u026a\u02c8njum\u0259r\u0259t/", "Definition: lacking knowledge and understanding of mathematical concepts and methods", ""]}
