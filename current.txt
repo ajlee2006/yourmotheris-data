@@ -1,1 +1,1 @@
-{"data": ["2022-12-22T06:00:42.974975+00:00", 7690, "Your mother is", "minimal", "Pronunciation: /\u02c8m\u026an\u0259m\u0259l/", "Definition: the least possible", "Synonyms: minimum"]}
+{"data": ["2022-12-22T07:00:32.301125+00:00", 7691, "Your mother is", "out-of-date", "Pronunciation: /\u02c8a\u028at\u0259v\u02c8de\u026at/", "Definition: old; no longer valid or fashionable", "Synonyms: outdated, superannuated"]}
