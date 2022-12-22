@@ -1,1 +1,1 @@
-{"data": ["2022-12-21T23:00:23.276752+00:00", 7684, "Your mother is", "deadly", "Pronunciation: /\u02c8d\u025bdli/", "Definition: causing or capable of causing death", "Synonyms: deathly, mortal"]}
+{"data": ["2022-12-22T00:00:53.270387+00:00", 7685, "Your mother is", "costly", "Pronunciation: /\u02c8k\u0254stli/", "Definition: entailing great loss or sacrifice", "Synonyms: dearly-won"]}
