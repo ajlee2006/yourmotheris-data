@@ -1,1 +1,1 @@
-{"data": ["2022-12-22T19:00:20.654910+00:00", 7703, "Your mother is", "infrequent", "Pronunciation: /\u026an\u02c8frikw\u0259nt/", "Definition: not frequent; not occurring regularly or at short intervals", ""]}
+{"data": ["2022-12-22T20:00:29.273087+00:00", 7704, "Your mother is", "unsleeping", "Similar to: awake", "Definition: fully awake", "Synonyms: wide-awake"]}
