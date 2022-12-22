@@ -1,1 +1,1 @@
-{"data": ["2022-12-22T15:00:18.249180+00:00", 7699, "Your mother is", "bare-knuckled", "Similar to: disorderly", "Definition: characterized by disorderly action and disregard for rules", "Synonyms: bare-knuckle, rough-and-tumble"]}
+{"data": ["2022-12-22T16:00:23.681875+00:00", 7700, "Your mother is", "undrawn", "Similar to: undelineated", "Definition: not represented in a drawing", ""]}
