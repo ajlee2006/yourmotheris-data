@@ -1,1 +1,1 @@
-{"data": ["2022-12-22T05:00:45.520093+00:00", 7690, "Your mother is", "dark-blue", "Pronunciation: /d\u0251rk-blu/", "Definition: of a dark shade of blue", ""]}
+{"data": ["2022-12-22T06:00:42.974975+00:00", 7690, "Your mother is", "minimal", "Pronunciation: /\u02c8m\u026an\u0259m\u0259l/", "Definition: the least possible", "Synonyms: minimum"]}
