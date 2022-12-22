@@ -1,1 +1,1 @@
-{"data": ["2022-12-22T10:00:36.927143+00:00", 7694, "Your mother is", "assertive", "Pronunciation: /\u0259\u02c8s\u025crt\u026av/", "Definition: aggressively self-assured", "Synonyms: self-asserting, self-assertive"]}
+{"data": ["2022-12-22T11:00:24.381735+00:00", 7695, "Your mother is", "trabeculate", "Pronunciation: /tr\u0259\u02c8b\u025bkj\u0259l\u026at/", "Definition: of or relating to trabeculae", "Synonyms: trabecular"]}
