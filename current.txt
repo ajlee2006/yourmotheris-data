@@ -1,1 +1,1 @@
-{"data": ["2022-12-22T21:00:30.926726+00:00", 7705, "Your mother is", "innumerate", "Pronunciation: /\u026a\u02c8njum\u0259r\u0259t/", "Definition: lacking knowledge and understanding of mathematical concepts and methods", ""]}
+{"data": ["2022-12-22T22:00:23.506666+00:00", 7706, "Your mother is", "legged", "Pronunciation: /l\u025bgd/", "Definition: having legs of a specified kind or number", ""]}
