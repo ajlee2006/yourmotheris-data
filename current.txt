@@ -1,1 +1,1 @@
-{"data": ["2022-12-22T01:00:33.727293+00:00", 7686, "Your mother is", "monovalent", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8ve\u026al\u0259nt/", "Definition: having a valence of 1", "Synonyms: univalent"]}
+{"data": ["2022-12-22T02:00:44.905906+00:00", 7687, "Your mother is", "vaulted", "Pronunciation: /\u02c8v\u0254lt\u026ad/", "Definition: having a hemispherical vault or dome", "Synonyms: domed"]}
