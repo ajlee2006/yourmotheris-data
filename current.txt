@@ -1,1 +1,1 @@
-{"data": ["2022-12-22T17:00:28.196619+00:00", 7701, "Your mother is", "volatilisable", "Similar to: volatile", "Definition: (used of substances) capable of being volatilized", "Synonyms: evaporable, vaporific, vaporizable, vapourific, vapourisable, volatilizable"]}
+{"data": ["2022-12-22T18:00:23.631974+00:00", 7702, "Your mother is", "bluish-purple", "Similar to: chromatic", "Definition: of purple tinged with blue", "Synonyms: blue-purple"]}
