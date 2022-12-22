@@ -1,1 +1,1 @@
-{"data": ["2022-12-22T03:00:34.807823+00:00", 7688, "Your mother is", "homogenous", "Pronunciation: /h\u0259\u02c8m\u0251d\u0292\u0259n\u0259s/", "Definition: all of the same or similar kind or nature", "Synonyms: homogeneous"]}
+{"data": ["2022-12-22T04:00:41.077668+00:00", 7689, "Your mother is", "interlineal", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8l\u026ani\u0259l/", "Definition: written between lines of text", "Synonyms: interlinear"]}
