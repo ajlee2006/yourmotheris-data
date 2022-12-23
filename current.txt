@@ -1,1 +1,1 @@
-{"data": ["2022-12-23T00:01:06.939052+00:00", 7708, "Your mother is", "tref", "Pronunciation: /tre\u026af/", "Definition: not conforming to dietary laws", "Synonyms: nonkosher, terefah"]}
+{"data": ["2022-12-23T01:00:40.318910+00:00", 7709, "Your mother is", "loverlike", "Similar to: loving", "Definition: like or in the manner of a lover", "Synonyms: loverly"]}
