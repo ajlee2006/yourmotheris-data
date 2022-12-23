@@ -1,1 +1,1 @@
-{"data": ["2022-12-23T03:00:36.176608+00:00", 7711, "Your mother is", "troubling", "Pronunciation: /\u02c8tr\u028cb\u028cl\u026a\u014b/", "Definition: causing distress or worry or anxiety", "Synonyms: distressful, distressing, disturbing, perturbing, worrisome, worrying"]}
+{"data": ["2022-12-23T04:00:54.508885+00:00", 7712, "Your mother is", "wakeless", "Pronunciation: /\u02c8we\u026akl\u026as/", "Definition: (of sleep) deep and complete", "Synonyms: heavy, profound, sound"]}
