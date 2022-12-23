@@ -1,1 +1,1 @@
-{"data": ["2022-12-23T21:00:15.853700+00:00", 7729, "Your mother is", "liquid-fueled", "Similar to: fueled", "Definition: fueled by a liquid fuel", ""]}
+{"data": ["2022-12-23T22:00:30.433782+00:00", 7730, "Your mother is", "chiasmatic", "", "Definition: of or relating to a chiasm", "Synonyms: chiasmal, chiasmic"]}
