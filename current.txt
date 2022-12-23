@@ -1,1 +1,1 @@
-{"data": ["2022-12-23T08:00:47.459557+00:00", 7716, "Your mother is", "brackish", "Pronunciation: /\u02c8br\u00e6k\u026a\u0283/", "Definition: slightly salty (especially from containing a mixture of seawater and fresh water)", "Synonyms: briny"]}
+{"data": ["2022-12-23T09:00:49.260994+00:00", 7717, "Your mother is", "cavalier", "Pronunciation: /\u02cck\u00e6v\u0259\u02c8lir/", "Definition: given to haughty disregard of others", "Synonyms: high-handed"]}
