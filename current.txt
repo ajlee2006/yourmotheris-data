@@ -1,1 +1,1 @@
-{"data": ["2022-12-23T04:00:54.508885+00:00", 7712, "Your mother is", "wakeless", "Pronunciation: /\u02c8we\u026akl\u026as/", "Definition: (of sleep) deep and complete", "Synonyms: heavy, profound, sound"]}
+{"data": ["2022-12-23T05:00:53.007655+00:00", 7713, "Your mother is", "one thousand", "Similar to: cardinal", "Definition: denoting a quantity consisting of 1,000 items or units", "Synonyms: 1000, k, m, thousand"]}
