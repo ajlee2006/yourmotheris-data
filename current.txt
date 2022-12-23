@@ -1,1 +1,1 @@
-{"data": ["2022-12-23T09:00:49.260994+00:00", 7717, "Your mother is", "cavalier", "Pronunciation: /\u02cck\u00e6v\u0259\u02c8lir/", "Definition: given to haughty disregard of others", "Synonyms: high-handed"]}
+{"data": ["2022-12-23T10:00:43.061262+00:00", 7718, "Your mother is", "inconvertible", "Pronunciation: /\u02cc\u026ank\u0259n\u02c8v\u025crt\u0259b\u0259l/", "Definition: used especially of currencies; incapable of being exchanged for or replaced by another currency of equal value", "Synonyms: unconvertible, unexchangeable"]}
