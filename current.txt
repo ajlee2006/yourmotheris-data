@@ -1,1 +1,1 @@
-{"data": ["2022-12-23T18:00:27.895655+00:00", 7726, "Your mother is", "wondrous", "Pronunciation: /\u02c8w\u0259ndr\u0259s/", "Definition: extraordinarily good or great; used especially as intensifiers", "Synonyms: fantastic, grand, howling, marvellous, marvelous, rattling, terrific, tremendous, wonderful"]}
+{"data": ["2022-12-23T19:00:19.008810+00:00", 7727, "Your mother is", "deterrent", "Pronunciation: /d\u026a\u02c8t\u025cr\u0259nt/", "Definition: tending to deter", ""]}
