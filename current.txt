@@ -1,1 +1,1 @@
-{"data": ["2022-12-23T12:00:29.542082+00:00", 7720, "Your mother is", "breakaway", "Pronunciation: /\u02c8bre\u026ak\u0259\u02ccwe\u026a/", "Definition: having separated or advocating separation from another entity or policy or attitude", "Synonyms: fissiparous, separatist"]}
+{"data": ["2022-12-23T13:00:25.896237+00:00", 7721, "Your mother is", "cloistered", "Pronunciation: /\u02c8kl\u0254\u026ast\u0259rd/", "Definition: of communal life sequestered from the world under religious vows", "Synonyms: cloistral, conventual, monastic, monastical"]}
