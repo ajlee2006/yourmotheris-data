@@ -1,1 +1,1 @@
-{"data": ["2022-12-23T13:00:25.896237+00:00", 7721, "Your mother is", "cloistered", "Pronunciation: /\u02c8kl\u0254\u026ast\u0259rd/", "Definition: of communal life sequestered from the world under religious vows", "Synonyms: cloistral, conventual, monastic, monastical"]}
+{"data": ["2022-12-23T14:00:26.694054+00:00", 7722, "Your mother is", "unpartitioned", "Similar to: united", "Definition: not divided by partitions", ""]}
