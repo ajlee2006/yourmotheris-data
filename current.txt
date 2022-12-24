@@ -1,1 +1,1 @@
-{"data": ["2022-12-24T13:00:29.275560+00:00", 7745, "Your mother is", "maverick", "Pronunciation: /\u02c8m\u00e6v\u0259r\u026ak/", "Definition: independent in behavior or thought", "Synonyms: irregular, unorthodox"]}
+{"data": ["2022-12-24T14:00:21.294657+00:00", 7746, "Your mother is", "square-built", "Pronunciation: /skw\u025cr-b\u026alt/", "Definition: broad and solidly built", ""]}
