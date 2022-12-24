@@ -1,1 +1,1 @@
-{"data": ["2022-12-24T03:00:37.304770+00:00", 7735, "Your mother is", "squalid", "Pronunciation: /\u02c8skw\u0251l\u026ad/", "Definition: foul and run-down and repulsive", "Synonyms: flyblown, sordid"]}
+{"data": ["2022-12-24T04:00:51.953622+00:00", 7736, "Your mother is", "intricate", "Pronunciation: /\u02c8\u026antr\u0259k\u026at/", "Definition: having many complexly arranged elements; elaborate", ""]}
