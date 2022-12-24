@@ -1,1 +1,1 @@
-{"data": ["2022-12-24T08:00:47.573137+00:00", 7740, "Your mother is", "monarchic", "Pronunciation: /m\u0259\u02c8n\u0259rk\u026ak/", "Definition: ruled by or having the supreme power resting with a monarch", "Synonyms: monarchal, monarchical"]}
+{"data": ["2022-12-24T09:00:31.741104+00:00", 7741, "Your mother is", "nonexempt", "Similar to: dutiable", "Definition: (of goods or funds) subject to taxation", "Synonyms: taxable"]}
