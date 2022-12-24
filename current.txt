@@ -1,1 +1,1 @@
-{"data": ["2022-12-24T04:00:51.953622+00:00", 7736, "Your mother is", "intricate", "Pronunciation: /\u02c8\u026antr\u0259k\u026at/", "Definition: having many complexly arranged elements; elaborate", ""]}
+{"data": ["2022-12-24T05:00:46.478836+00:00", 7737, "Your mother is", "blue", "Pronunciation: /blu/", "Definition: of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky", "Synonyms: blueish, bluish"]}
