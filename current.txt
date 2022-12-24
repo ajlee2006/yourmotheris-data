@@ -1,1 +1,1 @@
-{"data": ["2022-12-24T16:00:30.004272+00:00", 7748, "Your mother is", "offshore", "Pronunciation: /\u02c8\u0254f\u02c8\u0283o\u028ar/", "Definition: (of winds) coming from the land", "Synonyms: seaward"]}
+{"data": ["2022-12-24T17:00:20.116179+00:00", 7749, "Your mother is", "denuded", "Pronunciation: /d\u026a\u02c8nud\u026ad/", "Definition: without the natural or usual covering", "Synonyms: bald, denudate"]}
