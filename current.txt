@@ -1,1 +1,1 @@
-{"data": ["2022-12-24T00:00:54.457074+00:00", 7732, "Your mother is", "slushy", "Pronunciation: /\u02c8sl\u0259\u0283i/", "Definition: effusively or insincerely emotional", "Synonyms: bathetic, drippy, hokey, kitschy, maudlin, mawkish, mushy, sappy, schmaltzy, schmalzy, sentimental, soppy, soupy"]}
+{"data": ["2022-12-24T01:00:44.722844+00:00", 7733, "Your mother is", "newfound", "Pronunciation: /\u02c8nju\u02c8f\u00e6\u028and/", "Definition: newly discovered", ""]}
