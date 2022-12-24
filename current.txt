@@ -1,1 +1,1 @@
-{"data": ["2022-12-24T20:00:30.681717+00:00", 7752, "Your mother is", "oblate", "Pronunciation: /\u02c8\u0251ble\u026at/", "Definition: having the equatorial diameter greater than the polar diameter; being flattened at the poles", "Synonyms: pumpkin-shaped"]}
+{"data": ["2022-12-24T21:00:33.905635+00:00", 7753, "Your mother is", "fake", "Pronunciation: /fe\u026ak/", "Definition: not genuine or real; being an imitation of the genuine article", "Synonyms: false, faux, imitation, simulated"]}
