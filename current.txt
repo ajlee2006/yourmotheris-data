@@ -1,1 +1,1 @@
-{"data": ["2022-12-24T05:00:46.478836+00:00", 7737, "Your mother is", "blue", "Pronunciation: /blu/", "Definition: of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky", "Synonyms: blueish, bluish"]}
+{"data": ["2022-12-24T06:00:36.655126+00:00", 7738, "Your mother is", "astylar", "Pronunciation: /e\u026a\u02c8sta\u026al\u0259r/", "Definition: lacking columns or pillars", ""]}
