@@ -1,1 +1,1 @@
-{"data": ["2022-12-24T15:00:21.851504+00:00", 7747, "Your mother is", "spiteful", "Pronunciation: /\u02c8spa\u026atf\u0259l/", "Definition: showing malicious ill will and a desire to hurt; motivated by spite", "Synonyms: despiteful, vindictive"]}
+{"data": ["2022-12-24T16:00:30.004272+00:00", 7748, "Your mother is", "offshore", "Pronunciation: /\u02c8\u0254f\u02c8\u0283o\u028ar/", "Definition: (of winds) coming from the land", "Synonyms: seaward"]}
