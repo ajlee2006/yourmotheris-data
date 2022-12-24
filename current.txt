@@ -1,1 +1,1 @@
-{"data": ["2022-12-24T01:00:44.722844+00:00", 7733, "Your mother is", "newfound", "Pronunciation: /\u02c8nju\u02c8f\u00e6\u028and/", "Definition: newly discovered", ""]}
+{"data": ["2022-12-24T02:00:46.633138+00:00", 7734, "Your mother is", "sympathetic", "Pronunciation: /\u02ccs\u026amp\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: (of characters in literature or drama) evoking empathic or sympathetic feelings", "Synonyms: appealing, likable, likeable"]}
