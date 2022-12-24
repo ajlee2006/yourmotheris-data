@@ -1,1 +1,1 @@
-{"data": ["2022-12-24T12:00:59.041525+00:00", 7744, "Your mother is", "perdurable", "Pronunciation: /p\u0259r\u02c8d\u028ar\u0259b\u0259l/", "Definition: very long lasting", "Synonyms: durable, indestructible, undestroyable"]}
+{"data": ["2022-12-24T13:00:29.275560+00:00", 7745, "Your mother is", "maverick", "Pronunciation: /\u02c8m\u00e6v\u0259r\u026ak/", "Definition: independent in behavior or thought", "Synonyms: irregular, unorthodox"]}
