@@ -1,1 +1,1 @@
-{"data": ["2022-12-25T10:00:44.522865+00:00", 7766, "Your mother is", "non-zero", "Similar to: cardinal", "Definition: not involving zero", ""]}
+{"data": ["2022-12-25T11:00:28.324735+00:00", 7767, "Your mother is", "paltry", "Pronunciation: /\u02c8p\u0254ltri/", "Definition: contemptibly small in amount", "Synonyms: measly, miserable"]}
