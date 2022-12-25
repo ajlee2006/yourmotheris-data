@@ -1,1 +1,1 @@
-{"data": ["2022-12-25T01:00:46.269184+00:00", 7757, "Your mother is", "furred", "Pronunciation: /f\u025crd/", "Definition: covered with a dense coat of fine silky hairs", "Synonyms: furry"]}
+{"data": ["2022-12-25T02:00:38.441243+00:00", 7758, "Your mother is", "tumultuous", "Pronunciation: /tu\u02c8m\u0259l\u02a7u\u0259s/", "Definition: characterized by unrest or disorder or insubordination", "Synonyms: disruptive, riotous, troubled, turbulent"]}
