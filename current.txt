@@ -1,1 +1,1 @@
-{"data": ["2022-12-25T21:00:23.661849+00:00", 7777, "Your mother is", "abridged", "Pronunciation: /\u028c\u02c8br\u026ad\u0292d/", "Definition: (used of texts) shortened by condensing or rewriting", ""]}
+{"data": ["2022-12-25T22:00:24.614899+00:00", 7778, "Your mother is", "wooly-minded", "Similar to: confused", "Definition: confused and vague; used especially of thinking", "Synonyms: addled, befuddled, muddled, muzzy, woolly, woolly-headed, wooly"]}
