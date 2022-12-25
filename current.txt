@@ -1,1 +1,1 @@
-{"data": ["2022-12-25T17:00:26.927318+00:00", 7773, "Your mother is", "flint", "Pronunciation: /fl\u026ant/", "Definition: showing unfeeling resistance to tender feelings", "Synonyms: flinty, granitic, obdurate, stony"]}
+{"data": ["2022-12-25T18:00:16.426407+00:00", 7774, "Your mother is", "transdermic", "", "Definition: through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches)", "Synonyms: percutaneous, transcutaneous, transdermal"]}
