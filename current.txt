@@ -1,1 +1,1 @@
-{"data": ["2022-12-25T16:00:20.250944+00:00", 7772, "Your mother is", "sugary", "Pronunciation: /\u02c8\u0283\u028a\u0261\u0259ri/", "Definition: containing sugar", ""]}
+{"data": ["2022-12-25T17:00:26.927318+00:00", 7773, "Your mother is", "flint", "Pronunciation: /fl\u026ant/", "Definition: showing unfeeling resistance to tender feelings", "Synonyms: flinty, granitic, obdurate, stony"]}
