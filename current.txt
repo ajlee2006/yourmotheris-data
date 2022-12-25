@@ -1,1 +1,1 @@
-{"data": ["2022-12-25T18:00:16.426407+00:00", 7774, "Your mother is", "transdermic", "", "Definition: through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches)", "Synonyms: percutaneous, transcutaneous, transdermal"]}
+{"data": ["2022-12-25T19:00:29.505330+00:00", 7775, "Your mother is", "intersexual", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8s\u025bk\u0283u\u0259l/", "Definition: existing or occurring between the sexes", ""]}
