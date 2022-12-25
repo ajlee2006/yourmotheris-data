@@ -1,1 +1,1 @@
-{"data": ["2022-12-25T13:00:12.582904+00:00", 7769, "Your mother is", "perplexing", "Pronunciation: /p\u025dr\u02c8pl\u025bks\u026a\u014b/", "Definition: lacking clarity of meaning; causing confusion or perplexity", "Synonyms: confusing, puzzling"]}
+{"data": ["2022-12-25T14:00:28.769416+00:00", 7770, "Your mother is", "0", "Similar to: cardinal", "Definition: indicating the absence of any or all units under consideration", "Synonyms: zero"]}
