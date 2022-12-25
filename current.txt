@@ -1,1 +1,1 @@
-{"data": ["2022-12-24T23:00:14.864139+00:00", 7755, "Your mother is", "small-winged", "Similar to: winged", "Definition: having small wings", ""]}
+{"data": ["2022-12-25T00:01:00.234419+00:00", 7756, "Your mother is", "calcareous", "Pronunciation: /k\u00e6l\u02c8k\u025cri\u0259s/", "Definition: composed of or containing or resembling calcium carbonate or calcite or chalk", "Synonyms: chalky"]}
