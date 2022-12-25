@@ -1,1 +1,1 @@
-{"data": ["2022-12-25T00:01:00.234419+00:00", 7756, "Your mother is", "calcareous", "Pronunciation: /k\u00e6l\u02c8k\u025cri\u0259s/", "Definition: composed of or containing or resembling calcium carbonate or calcite or chalk", "Synonyms: chalky"]}
+{"data": ["2022-12-25T01:00:46.269184+00:00", 7757, "Your mother is", "furred", "Pronunciation: /f\u025crd/", "Definition: covered with a dense coat of fine silky hairs", "Synonyms: furry"]}
