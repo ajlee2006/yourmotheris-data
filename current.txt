@@ -1,1 +1,1 @@
-{"data": ["2022-12-26T03:00:44.361124+00:00", 7783, "Your mother is", "dastardly", "Pronunciation: /\u02c8d\u00e6st\u0259rdli/", "Definition: despicably cowardly", "Synonyms: dastard"]}
+{"data": ["2022-12-26T04:00:51.109344+00:00", 7784, "Your mother is", "alcohol-dependent", "Similar to: addicted", "Definition: addicted to alcohol", "Synonyms: alcoholic"]}
