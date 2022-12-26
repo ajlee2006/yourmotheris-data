@@ -1,1 +1,1 @@
-{"data": ["2022-12-26T00:01:03.885662+00:00", 7780, "Your mother is", "silly", "Pronunciation: /\u02c8s\u026ali/", "Definition: inspiring scornful pity", "Synonyms: pathetic, ridiculous"]}
+{"data": ["2022-12-26T01:00:50.921691+00:00", 7781, "Your mother is", "anal retentive", "", "Definition: a stage in psychosexual development when the child's interest is concentrated on the anal region; fixation at this stage is said to result in orderliness, meanness, stubbornness, compulsiveness, etc.", "Synonyms: anal"]}
