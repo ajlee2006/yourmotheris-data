@@ -1,1 +1,1 @@
-{"data": ["2022-12-26T22:00:15.449006+00:00", 7802, "Your mother is", "incomprehensive", "Pronunciation: /\u02cc\u026ank\u0251mpr\u026a\u02c8h\u025bns\u026av/", "Definition: not comprehensive", "Synonyms: noncomprehensive"]}
+{"data": ["2022-12-26T23:00:24.091705+00:00", 7803, "Your mother is", "hand-me-down", "Pronunciation: /\u02c8h\u00e6ndmi\u02ccda\u028an/", "Definition: passed on from one person to another", "Synonyms: hand-down"]}
