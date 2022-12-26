@@ -1,1 +1,1 @@
-{"data": ["2022-12-26T14:00:20.925657+00:00", 7794, "Your mother is", "deterministic", "Pronunciation: /d\u026a\u02cct\u025drm\u028c\u02c8n\u026ast\u026ak/", "Definition: an inevitable consequence of antecedent sufficient causes", ""]}
+{"data": ["2022-12-26T15:00:26.805095+00:00", 7795, "Your mother is", "blastoporic", "", "Definition: of or relating to a blastopore", "Synonyms: blastoporal"]}
