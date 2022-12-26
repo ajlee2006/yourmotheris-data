@@ -1,1 +1,1 @@
-{"data": ["2022-12-26T17:00:29.708191+00:00", 7797, "Your mother is", "midweekly", "Pronunciation: /\u02ccm\u026ad\u02c8wikli/", "Definition: occurring during the middle of the week", ""]}
+{"data": ["2022-12-26T18:00:23.870374+00:00", 7798, "Your mother is", "contumacious", "Pronunciation: /\u02cck\u0251nt\u028a\u02c8me\u026a\u0283\u0259s/", "Definition: wilfully obstinate; stubbornly disobedient", ""]}
