@@ -1,1 +1,1 @@
-{"data": ["2022-12-26T19:00:22.186986+00:00", 7799, "Your mother is", "lacrimatory", "Pronunciation: /\u02c8l\u00e6kr\u0259m\u0259\u02ccto\u028ari/", "Definition: relating to or prompting tears", "Synonyms: lachrymatory"]}
+{"data": ["2022-12-26T20:00:15.664270+00:00", 7800, "Your mother is", "crisscross", "Pronunciation: /\u02c8kr\u026as\u02cckr\u0254s/", "Definition: marked with crossing lines", "Synonyms: crisscrossed"]}
