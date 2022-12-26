@@ -1,1 +1,1 @@
-{"data": ["2022-12-26T16:00:30.661696+00:00", 7796, "Your mother is", "describable", "Pronunciation: /d\u026a\u02c8skra\u026ab\u028cb\u028cl/", "Definition: capable of being described", ""]}
+{"data": ["2022-12-26T17:00:29.708191+00:00", 7797, "Your mother is", "midweekly", "Pronunciation: /\u02ccm\u026ad\u02c8wikli/", "Definition: occurring during the middle of the week", ""]}
