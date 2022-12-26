@@ -1,1 +1,1 @@
-{"data": ["2022-12-26T11:00:21.748200+00:00", 7791, "Your mother is", "poetic", "Pronunciation: /po\u028a\u02c8\u025bt\u026ak/", "Definition: of or relating to poetry", "Synonyms: poetical"]}
+{"data": ["2022-12-26T12:00:35.575355+00:00", 7792, "Your mother is", "northbound", "Pronunciation: /\u02c8n\u0254r\u03b8\u02ccba\u028and/", "Definition: moving toward the north", "Synonyms: northward"]}
