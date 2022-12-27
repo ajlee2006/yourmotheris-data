@@ -1,1 +1,1 @@
-{"data": ["2022-12-27T02:00:19.051040+00:00", 7806, "Your mother is", "equatorial", "Pronunciation: /\u02ccikw\u0259\u02c8to\u028ari\u0259l/", "Definition: of or existing at or near the geographic equator", ""]}
+{"data": ["2022-12-27T03:00:46.257855+00:00", 7807, "Your mother is", "bushwhacking", "Similar to: concealed", "Definition: lying in ambush", ""]}
