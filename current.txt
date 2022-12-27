@@ -1,1 +1,1 @@
-{"data": ["2022-12-27T00:01:10.966001+00:00", 7804, "Your mother is", "triple", "Pronunciation: /\u02c8tr\u026ap\u0259l/", "Definition: having three units or components or elements", "Synonyms: ternary, treble, triplex"]}
+{"data": ["2022-12-27T01:00:36.266473+00:00", 7805, "Your mother is", "ancillary", "Pronunciation: /\u02c8\u00e6ns\u0259\u02ccl\u025bri/", "Definition: furnishing added support", "Synonyms: accessory, adjunct, adjuvant, appurtenant, auxiliary"]}
