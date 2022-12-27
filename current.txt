@@ -1,1 +1,1 @@
-{"data": ["2022-12-27T19:00:33.450702+00:00", 7823, "Your mother is", "thimble-shaped", "Pronunciation: /\u02c8\u03b8\u026amb\u0259l-\u0283e\u026apt/", "Definition: shaped in the form of a thimble", ""]}
+{"data": ["2022-12-27T20:00:21.486874+00:00", 7824, "Your mother is", "unfaithful", "Pronunciation: /\u0259n\u02c8fe\u026a\u03b8f\u0259l/", "Definition: having the character of, or characteristic of, a traitor", "Synonyms: faithless, traitorous, treasonable, treasonous"]}
