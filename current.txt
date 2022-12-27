@@ -1,1 +1,1 @@
-{"data": ["2022-12-27T12:00:32.312334+00:00", 7816, "Your mother is", "suffusive", "Pronunciation: /s\u0259\u02c8fjus\u026av/", "Definition: spreading through", ""]}
+{"data": ["2022-12-27T13:00:14.244475+00:00", 7817, "Your mother is", "nonobligatory", "Similar to: optional", "Definition: not required by rule or law", "Synonyms: nonmandatory"]}
