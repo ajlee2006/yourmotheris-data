@@ -1,1 +1,1 @@
-{"data": ["2022-12-27T09:00:46.191556+00:00", 7813, "Your mother is", "probable", "Pronunciation: /\u02c8pr\u0251b\u0259b\u0259l/", "Definition: likely but not certain to be or become true or real", "Synonyms: likely"]}
+{"data": ["2022-12-27T10:00:26.869178+00:00", 7814, "Your mother is", "inheriting", "Pronunciation: /\u026an\u02c8h\u025br\u028ct\u026a\u014b/", "Definition: having the legal right to inherit", ""]}
