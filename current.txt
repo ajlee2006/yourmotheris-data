@@ -1,1 +1,1 @@
-{"data": ["2022-12-27T01:00:36.266473+00:00", 7805, "Your mother is", "ancillary", "Pronunciation: /\u02c8\u00e6ns\u0259\u02ccl\u025bri/", "Definition: furnishing added support", "Synonyms: accessory, adjunct, adjuvant, appurtenant, auxiliary"]}
+{"data": ["2022-12-27T02:00:19.051040+00:00", 7806, "Your mother is", "equatorial", "Pronunciation: /\u02ccikw\u0259\u02c8to\u028ari\u0259l/", "Definition: of or existing at or near the geographic equator", ""]}
