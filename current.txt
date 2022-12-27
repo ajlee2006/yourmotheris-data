@@ -1,1 +1,1 @@
-{"data": ["2022-12-27T06:00:43.584668+00:00", 7810, "Your mother is", "incongruent", "Pronunciation: /\u026an\u02c8k\u0251\u014bgru\u0259nt/", "Definition: not congruent", ""]}
+{"data": ["2022-12-27T07:00:47.342411+00:00", 7811, "Your mother is", "22nd", "Similar to: ordinal", "Definition: coming next after the twenty-first in position", "Synonyms: twenty-second"]}
