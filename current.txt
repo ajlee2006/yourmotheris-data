@@ -1,1 +1,1 @@
-{"data": ["2022-12-27T17:00:14.983966+00:00", 7821, "Your mother is", "panicky", "Pronunciation: /\u02c8p\u00e6n\u026aki/", "Definition: thrown into a state of intense fear or desperation", "Synonyms: frightened, panic-stricken, panic-struck, panicked, terrified"]}
+{"data": ["2022-12-27T18:00:28.380170+00:00", 7822, "Your mother is", "binucleated", "", "Definition: having two nuclei", "Synonyms: binuclear, binucleate"]}
