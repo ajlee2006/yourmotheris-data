@@ -1,1 +1,1 @@
-{"data": ["2022-12-27T08:00:35.312942+00:00", 7812, "Your mother is", "unveiled", "Pronunciation: /\u028cn\u02c8ve\u026ald/", "Definition: revealed; especially by having a veil removed", ""]}
+{"data": ["2022-12-27T09:00:46.191556+00:00", 7813, "Your mother is", "probable", "Pronunciation: /\u02c8pr\u0251b\u0259b\u0259l/", "Definition: likely but not certain to be or become true or real", "Synonyms: likely"]}
