@@ -1,1 +1,1 @@
-{"data": ["2022-12-26T23:00:24.091705+00:00", 7803, "Your mother is", "hand-me-down", "Pronunciation: /\u02c8h\u00e6ndmi\u02ccda\u028an/", "Definition: passed on from one person to another", "Synonyms: hand-down"]}
+{"data": ["2022-12-27T00:01:10.966001+00:00", 7804, "Your mother is", "triple", "Pronunciation: /\u02c8tr\u026ap\u0259l/", "Definition: having three units or components or elements", "Synonyms: ternary, treble, triplex"]}
