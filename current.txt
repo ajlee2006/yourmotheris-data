@@ -1,1 +1,1 @@
-{"data": ["2022-12-27T22:00:21.938501+00:00", 7826, "Your mother is", "ungathered", "", "Definition: not brought together in one place", "Synonyms: uncollected"]}
+{"data": ["2022-12-27T23:00:21.945217+00:00", 7827, "Your mother is", "blockading", "Pronunciation: /\u02ccbl\u0251\u02c8ke\u026ad\u026a\u014b/", "Definition: blocking entrance to and exit from seaports and harbors", ""]}
