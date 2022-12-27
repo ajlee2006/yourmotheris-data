@@ -1,1 +1,1 @@
-{"data": ["2022-12-27T20:00:21.486874+00:00", 7824, "Your mother is", "unfaithful", "Pronunciation: /\u0259n\u02c8fe\u026a\u03b8f\u0259l/", "Definition: having the character of, or characteristic of, a traitor", "Synonyms: faithless, traitorous, treasonable, treasonous"]}
+{"data": ["2022-12-27T21:00:30.951893+00:00", 7825, "Your mother is", "sarcoid", "Pronunciation: /\u02c8s\u0251rk\u0254\u026ad/", "Definition: of or relating to or resembling flesh", "Synonyms: fleshy"]}
