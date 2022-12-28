@@ -1,1 +1,1 @@
-{"data": ["2022-12-28T20:00:16.297941+00:00", 7848, "Your mother is", "molar", "Pronunciation: /\u02c8mo\u028al\u0259r/", "Definition: pertaining to large units of behavior", ""]}
+{"data": ["2022-12-28T21:00:30.750125+00:00", 7849, "Your mother is", "greenish-gray", "Similar to: achromatic", "Definition: of grey tinged with green", "Synonyms: greenish-grey"]}
