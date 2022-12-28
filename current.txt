@@ -1,1 +1,1 @@
-{"data": ["2022-12-28T06:00:39.717463+00:00", 7834, "Your mother is", "unthought", "Pronunciation: /\u0259n\u02c8\u03b8\u0254t/", "Definition: so unexpected as to have not been imagined", "Synonyms: unhoped, unhoped-for, unthought-of"]}
+{"data": ["2022-12-28T07:00:44.567844+00:00", 7835, "Your mother is", "monoecious", "Pronunciation: /m\u0259\u02c8ni\u0283\u0259s/", "Definition: having male and female reproductive organs in the same plant or animal", "Synonyms: monecious, monoicous"]}
