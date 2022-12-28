@@ -1,1 +1,1 @@
-{"data": ["2022-12-28T11:00:22.327535+00:00", 7839, "Your mother is", "concordant", "Pronunciation: /k\u0251n\u02c8k\u0254rd\u0259nt/", "Definition: in keeping", "Synonyms: accordant, agreeable, conformable, consonant"]}
+{"data": ["2022-12-28T12:00:47.956975+00:00", 7840, "Your mother is", "cackly", "Similar to: cacophonic", "Definition: like the cackles or squawks a hen makes especially after laying an egg", "Synonyms: squawky"]}
