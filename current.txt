@@ -1,1 +1,1 @@
-{"data": ["2022-12-28T00:01:01.968433+00:00", 7828, "Your mother is", "ghostly", "Pronunciation: /\u0261o\u028astli/", "Definition: resembling or characteristic of a phantom", "Synonyms: apparitional, ghostlike, phantasmal, spectral, spiritual"]}
+{"data": ["2022-12-28T01:00:37.198798+00:00", 7829, "Your mother is", "weak", "Pronunciation: /wik/", "Definition: deficient in magnitude; barely perceptible; lacking clarity or brightness or loudness etc", "Synonyms: faint"]}
