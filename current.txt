@@ -1,1 +1,1 @@
-{"data": ["2022-12-28T15:00:18.013222+00:00", 7843, "Your mother is", "manipulative", "Pronunciation: /m\u0259\u02c8n\u026apj\u028al\u0259t\u026av/", "Definition: skillful in influencing or controlling others to your own advantage", ""]}
+{"data": ["2022-12-28T16:00:22.244635+00:00", 7844, "Your mother is", "rotated", "Pronunciation: /\u02c8ro\u028a\u02ccte\u026at\u026ad/", "Definition: turned in a circle around an axis", "Synonyms: revolved"]}
