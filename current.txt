@@ -1,1 +1,1 @@
-{"data": ["2022-12-28T13:00:20.231528+00:00", 7841, "Your mother is", "stone-gray", "Similar to: achromatic", "Definition: of the color of slate or granite", "Synonyms: slate-gray, slate-grey, slatey, slaty, slaty-gray, slaty-grey, stone-grey"]}
+{"data": ["2022-12-28T14:00:25.138994+00:00", 7842, "Your mother is", "eolotropic", "Similar to: anisotropic", "Definition: having properties with different values along different axes", "Synonyms: aeolotropic"]}
