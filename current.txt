@@ -1,1 +1,1 @@
-{"data": ["2022-12-28T16:00:22.244635+00:00", 7844, "Your mother is", "rotated", "Pronunciation: /\u02c8ro\u028a\u02ccte\u026at\u026ad/", "Definition: turned in a circle around an axis", "Synonyms: revolved"]}
+{"data": ["2022-12-28T17:00:24.474742+00:00", 7845, "Your mother is", "fine-toothed", "Similar to: toothed", "Definition: having fine teeth set close together", "Synonyms: fine-tooth"]}
