@@ -1,1 +1,1 @@
-{"data": ["2022-12-27T23:00:21.945217+00:00", 7827, "Your mother is", "blockading", "Pronunciation: /\u02ccbl\u0251\u02c8ke\u026ad\u026a\u014b/", "Definition: blocking entrance to and exit from seaports and harbors", ""]}
+{"data": ["2022-12-28T00:01:01.968433+00:00", 7828, "Your mother is", "ghostly", "Pronunciation: /\u0261o\u028astli/", "Definition: resembling or characteristic of a phantom", "Synonyms: apparitional, ghostlike, phantasmal, spectral, spiritual"]}
