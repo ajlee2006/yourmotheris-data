@@ -1,1 +1,1 @@
-{"data": ["2022-12-28T10:00:19.885598+00:00", 7838, "Your mother is", "costly", "Pronunciation: /\u02c8k\u0254stli/", "Definition: entailing great loss or sacrifice", "Synonyms: dearly-won"]}
+{"data": ["2022-12-28T11:00:22.327535+00:00", 7839, "Your mother is", "concordant", "Pronunciation: /k\u0251n\u02c8k\u0254rd\u0259nt/", "Definition: in keeping", "Synonyms: accordant, agreeable, conformable, consonant"]}
