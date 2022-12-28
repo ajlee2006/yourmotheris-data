@@ -1,1 +1,1 @@
-{"data": ["2022-12-28T05:00:31.771573+00:00", 7833, "Your mother is", "well", "Pronunciation: /w\u025bl/", "Definition: resulting favorably", "Synonyms: good"]}
+{"data": ["2022-12-28T06:00:39.717463+00:00", 7834, "Your mother is", "unthought", "Pronunciation: /\u0259n\u02c8\u03b8\u0254t/", "Definition: so unexpected as to have not been imagined", "Synonyms: unhoped, unhoped-for, unthought-of"]}
