@@ -1,1 +1,1 @@
-{"data": ["2022-12-28T09:00:38.559142+00:00", 7837, "Your mother is", "semipublic", "Pronunciation: /\u02ccs\u025bmi\u02c8p\u0259bl\u026ak/", "Definition: having some of the features of public institution", ""]}
+{"data": ["2022-12-28T10:00:19.885598+00:00", 7838, "Your mother is", "costly", "Pronunciation: /\u02c8k\u0254stli/", "Definition: entailing great loss or sacrifice", "Synonyms: dearly-won"]}
