@@ -1,1 +1,1 @@
-{"data": ["2022-12-28T18:00:18.229489+00:00", 7846, "Your mother is", "storm-tossed", "Similar to: troubled", "Definition: pounded or hit repeatedly by storms or adversities", "Synonyms: buffeted, tempest-swept, tempest-tossed, tempest-tost"]}
+{"data": ["2022-12-28T19:00:30.642395+00:00", 7847, "Your mother is", "surrounded", "Pronunciation: /s\u025dr\u02c8a\u028and\u028cd/", "Definition: confined on all sides", "Synonyms: encircled"]}
