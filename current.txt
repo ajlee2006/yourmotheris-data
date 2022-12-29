@@ -1,1 +1,1 @@
-{"data": ["2022-12-29T01:00:48.802639+00:00", 7853, "Your mother is", "beginning", "Pronunciation: /b\u026a\u02c8\u0261\u026an\u026a\u014b/", "Definition: serving to begin", "Synonyms: first"]}
+{"data": ["2022-12-29T02:00:27.173369+00:00", 7854, "Your mother is", "transcendental", "Pronunciation: /\u02cctr\u00e6ns\u025bn\u02c8d\u025bnt\u0259l/", "Definition: existing outside of or not in accordance with nature", "Synonyms: nonnatural, otherworldly, preternatural"]}
