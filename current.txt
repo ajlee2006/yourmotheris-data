@@ -1,1 +1,1 @@
-{"data": ["2022-12-29T16:00:26.313768+00:00", 7868, "Your mother is", "unsympathetic", "Pronunciation: /\u028cn\u02ccs\u026amp\u028c\u02c8\u03b8\u025bt\u026ak/", "Definition: lacking in sympathy and kindness", "Synonyms: unkindly"]}
+{"data": ["2022-12-29T17:00:24.460457+00:00", 7869, "Your mother is", "agelong", "Pronunciation: /\u02c8e\u026ad\u0292\u02ccl\u0254\u014b/", "Definition: lasting through all time", ""]}
