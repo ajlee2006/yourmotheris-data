@@ -1,1 +1,1 @@
-{"data": ["2022-12-29T00:01:01.697599+00:00", 7852, "Your mother is", "achlamydeous", "Pronunciation: /\u02cc\u00e6kl\u0259\u02c8m\u026adi\u0259s/", "Definition: not having a floral envelope or perianth", ""]}
+{"data": ["2022-12-29T01:00:48.802639+00:00", 7853, "Your mother is", "beginning", "Pronunciation: /b\u026a\u02c8\u0261\u026an\u026a\u014b/", "Definition: serving to begin", "Synonyms: first"]}
