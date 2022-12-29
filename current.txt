@@ -1,1 +1,1 @@
-{"data": ["2022-12-29T07:00:38.247011+00:00", 7859, "Your mother is", "nominal", "Pronunciation: /\u02c8n\u0251m\u0259n\u0259l/", "Definition: existing in name only", "Synonyms: titular"]}
+{"data": ["2022-12-29T08:00:35.475651+00:00", 7860, "Your mother is", "cleft", "Pronunciation: /kl\u025bft/", "Definition: having one or more indentations reaching nearly to the midrib", "Synonyms: dissected"]}
