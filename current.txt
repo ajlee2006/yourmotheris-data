@@ -1,1 +1,1 @@
-{"data": ["2022-12-29T14:00:19.470659+00:00", 7866, "Your mother is", "unscripted", "Pronunciation: /\u0259n\u02c8skript\u026ad/", "Definition: not furnished with or using a script", ""]}
+{"data": ["2022-12-29T15:00:11.500112+00:00", 7867, "Your mother is", "typic", "Similar to: typical", "Definition: being or serving as an illustration of a type", "Synonyms: emblematic, exemplary"]}
