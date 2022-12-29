@@ -1,1 +1,1 @@
-{"data": ["2022-12-29T09:00:51.188964+00:00", 7861, "Your mother is", "suspicious", "Pronunciation: /s\u0259\u02c8sp\u026a\u0283\u0259s/", "Definition: not as expected", "Synonyms: fishy, funny, shady, suspect"]}
+{"data": ["2022-12-29T10:00:27.597998+00:00", 7862, "Your mother is", "grass-eating", "Pronunciation: /gr\u00e6s-\u02c8it\u026a\u014b/", "Definition: feeding on grasses", ""]}
