@@ -1,1 +1,1 @@
-{"data": ["2022-12-29T10:00:27.597998+00:00", 7862, "Your mother is", "grass-eating", "Pronunciation: /gr\u00e6s-\u02c8it\u026a\u014b/", "Definition: feeding on grasses", ""]}
+{"data": ["2022-12-29T11:00:24.858216+00:00", 7863, "Your mother is", "peristylar", "Similar to: peripteral", "Definition: having columniation completely circling an area of the structure", "Synonyms: pseudoperipteral"]}
