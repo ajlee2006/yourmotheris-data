@@ -1,1 +1,1 @@
-{"data": ["2022-12-30T13:00:21.795036+00:00", 7889, "Your mother is", "unprompted", "Pronunciation: /\u0259n\u02c8pr\u0251mpt\u026ad/", "Definition: proceeding from natural feeling or impulse without external stimulus", "Synonyms: impulsive"]}
+{"data": ["2022-12-30T14:00:12.432494+00:00", 7890, "Your mother is", "aquaphobic", "Similar to: afraid", "Definition: abnormally afraid of water", "Synonyms: hydrophobic"]}
