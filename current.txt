@@ -1,1 +1,1 @@
-{"data": ["2022-12-30T04:00:35.873424+00:00", 7880, "Your mother is", "long-snouted", "Similar to: long", "Definition: having a snout that is longer than average", ""]}
+{"data": ["2022-12-30T05:00:50.974010+00:00", 7881, "Your mother is", "27th", "Similar to: ordinal", "Definition: coming next after the twenty-sixth in position", "Synonyms: twenty-seventh"]}
