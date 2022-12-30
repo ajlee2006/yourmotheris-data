@@ -1,1 +1,1 @@
-{"data": ["2022-12-30T10:00:24.654509+00:00", 7886, "Your mother is", "unshackled", "Pronunciation: /\u028cn\u02c8\u0283\u00e6k\u028cld/", "Definition: not bound by shackles and chains", "Synonyms: unchained, unfettered, untied"]}
+{"data": ["2022-12-30T11:00:24.081258+00:00", 7887, "Your mother is", "civilian", "Pronunciation: /s\u026a\u02c8v\u026alj\u0259n/", "Definition: associated with civil life or performed by persons who are not active members of the military", ""]}
