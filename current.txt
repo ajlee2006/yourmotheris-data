@@ -1,1 +1,1 @@
-{"data": ["2022-12-30T06:00:45.611395+00:00", 7882, "Your mother is", "schematic", "Pronunciation: /ski\u02c8m\u00e6t\u026ak/", "Definition: represented in simplified or symbolic form", "Synonyms: conventional, formal"]}
+{"data": ["2022-12-30T07:00:47.221084+00:00", 7883, "Your mother is", "48", "Similar to: cardinal", "Definition: being eight more than forty", "Synonyms: forty-eight, xlviii"]}
