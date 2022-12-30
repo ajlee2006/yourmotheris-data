@@ -1,1 +1,1 @@
-{"data": ["2022-12-30T11:00:24.081258+00:00", 7887, "Your mother is", "civilian", "Pronunciation: /s\u026a\u02c8v\u026alj\u0259n/", "Definition: associated with civil life or performed by persons who are not active members of the military", ""]}
+{"data": ["2022-12-30T12:00:25.132609+00:00", 7888, "Your mother is", "unintentional", "Pronunciation: /\u02cc\u0259n\u026an\u02c8t\u025bn\u0283\u0259n\u0259l/", "Definition: done or made or performed with purpose and intent", "Synonyms: designed, intentional"]}
