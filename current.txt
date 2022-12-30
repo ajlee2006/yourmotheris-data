@@ -1,1 +1,1 @@
-{"data": ["2022-12-30T20:00:27.187142+00:00", 7896, "Your mother is", "beetle", "Pronunciation: /\u02c8bit\u0259l/", "Definition: jutting or overhanging", "Synonyms: beetling"]}
+{"data": ["2022-12-30T21:00:24.951933+00:00", 7897, "Your mother is", "inferior", "Pronunciation: /\u026an\u02c8firi\u0259r/", "Definition: written or printed below and to one side of another character", "Synonyms: subscript"]}
