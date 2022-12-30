@@ -1,1 +1,1 @@
-{"data": ["2022-12-30T08:00:15.107559+00:00", 7884, "Your mother is", "magnanimous", "Pronunciation: /m\u00e6\u0261\u02c8n\u00e6n\u0259m\u0259s/", "Definition: generous and understanding and tolerant", "Synonyms: big, large"]}
+{"data": ["2022-12-30T09:00:33.282719+00:00", 7885, "Your mother is", "noncausative", "", "Definition: not causative", "Synonyms: noncausal"]}
