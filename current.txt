@@ -1,1 +1,1 @@
-{"data": ["2022-12-30T00:01:11.267589+00:00", 7876, "Your mother is", "reported", "Pronunciation: /\u02ccri\u02c8p\u0254rt\u028cd/", "Definition: made known or told about; especially presented in a formal account", ""]}
+{"data": ["2022-12-30T01:00:43.533702+00:00", 7877, "Your mother is", "batrachian", "Pronunciation: /b\u0259\u02c8tre\u026aki\u0259n/", "Definition: relating to frogs and toads", "Synonyms: anuran, salientian"]}
