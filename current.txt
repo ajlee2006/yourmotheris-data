@@ -1,1 +1,1 @@
-{"data": ["2022-12-30T12:00:25.132609+00:00", 7888, "Your mother is", "unintentional", "Pronunciation: /\u02cc\u0259n\u026an\u02c8t\u025bn\u0283\u0259n\u0259l/", "Definition: done or made or performed with purpose and intent", "Synonyms: designed, intentional"]}
+{"data": ["2022-12-30T13:00:21.795036+00:00", 7889, "Your mother is", "unprompted", "Pronunciation: /\u0259n\u02c8pr\u0251mpt\u026ad/", "Definition: proceeding from natural feeling or impulse without external stimulus", "Synonyms: impulsive"]}
