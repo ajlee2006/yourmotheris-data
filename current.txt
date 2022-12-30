@@ -1,1 +1,1 @@
-{"data": ["2022-12-30T09:00:33.282719+00:00", 7885, "Your mother is", "noncausative", "", "Definition: not causative", "Synonyms: noncausal"]}
+{"data": ["2022-12-30T10:00:24.654509+00:00", 7886, "Your mother is", "unshackled", "Pronunciation: /\u028cn\u02c8\u0283\u00e6k\u028cld/", "Definition: not bound by shackles and chains", "Synonyms: unchained, unfettered, untied"]}
