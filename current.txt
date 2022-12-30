@@ -1,1 +1,1 @@
-{"data": ["2022-12-29T23:00:21.820058+00:00", 7875, "Your mother is", "gray-green", "Pronunciation: /gre\u026a-grin/", "Definition: of green tinged with grey", "Synonyms: grayish-green, grey-green, greyish-green"]}
+{"data": ["2022-12-30T00:01:11.267589+00:00", 7876, "Your mother is", "reported", "Pronunciation: /\u02ccri\u02c8p\u0254rt\u028cd/", "Definition: made known or told about; especially presented in a formal account", ""]}
