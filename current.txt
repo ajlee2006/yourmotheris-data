@@ -1,1 +1,1 @@
-{"data": ["2022-12-30T14:00:12.432494+00:00", 7890, "Your mother is", "aquaphobic", "Similar to: afraid", "Definition: abnormally afraid of water", "Synonyms: hydrophobic"]}
+{"data": ["2022-12-30T15:00:35.397425+00:00", 7891, "Your mother is", "4-dimensional", "Similar to: multidimensional", "Definition: involving or relating to the fourth dimension or time", "Synonyms: four-dimensional"]}
