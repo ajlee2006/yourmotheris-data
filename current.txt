@@ -1,1 +1,1 @@
-{"data": ["2022-12-31T22:00:20.513374+00:00", 7922, "Your mother is", "consolidated", "Pronunciation: /k\u028cn\u02c8s\u0251l\u028c\u02ccde\u026at\u028cd/", "Definition: joined together into a whole", "Synonyms: amalgamate, amalgamated, coalesced, fused"]}
+{"data": ["2022-12-31T23:00:24.272583+00:00", 7923, "Your mother is", "unshapen", "Pronunciation: /\u0259n\u02c8\u0283e\u026ap\u0259n/", "Definition: incompletely or imperfectly shaped", "Synonyms: unshaped"]}
