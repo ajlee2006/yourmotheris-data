@@ -1,1 +1,1 @@
-{"data": ["2022-12-31T10:00:29.420004+00:00", 7910, "Your mother is", "terete", "Pronunciation: /t\u0259\u02c8rit/", "Definition: especially of plant parts; cylindrical and tapering", ""]}
+{"data": ["2022-12-31T11:00:29.216074+00:00", 7911, "Your mother is", "midget", "Pronunciation: /\u02c8m\u026ad\u0292\u026at/", "Definition: very small", "Synonyms: bantam, diminutive, flyspeck, lilliputian, petite, tiny"]}
