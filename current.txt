@@ -1,1 +1,1 @@
-{"data": ["2022-12-31T12:00:19.140781+00:00", 7912, "Your mother is", "tortured", "Pronunciation: /\u02c8t\u0254rt\u0283\u025drd/", "Definition: experiencing intense pain especially mental pain", "Synonyms: anguished, tormented"]}
+{"data": ["2022-12-31T13:00:23.448666+00:00", 7913, "Your mother is", "stumpy", "Pronunciation: /\u02c8st\u0259mpi/", "Definition: short and thick; as e.g. having short legs and heavy musculature", "Synonyms: chunky, dumpy, low-set, squat, squatty"]}
