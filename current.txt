@@ -1,1 +1,1 @@
-{"data": ["2022-12-31T01:00:35.947925+00:00", 7901, "Your mother is", "aspherical", "Pronunciation: /e\u026a\u02c8sf\u025br\u026ak\u0259l/", "Definition: varying slightly from a perfectly spherical shape", "Synonyms: aspheric"]}
+{"data": ["2022-12-31T02:00:21.678612+00:00", 7902, "Your mother is", "ringlike", "Similar to: circular", "Definition: having the shape of a ring", ""]}
