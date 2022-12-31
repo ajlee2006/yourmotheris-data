@@ -1,1 +1,1 @@
-{"data": ["2022-12-31T14:00:11.534994+00:00", 7914, "Your mother is", "faddy", "Pronunciation: /\u02c8f\u00e6di/", "Definition: intensely fashionable for a short time", "Synonyms: faddish"]}
+{"data": ["2022-12-31T15:00:31.903258+00:00", 7915, "Your mother is", "bacteroid", "Pronunciation: /\u02c8b\u00e6kt\u0259\u02ccr\u0254\u026ad/", "Definition: resembling bacteria", "Synonyms: bacterioid, bacterioidal, bacteroidal"]}
