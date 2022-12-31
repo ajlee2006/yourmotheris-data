@@ -1,1 +1,1 @@
-{"data": ["2022-12-31T08:00:13.488354+00:00", 7908, "Your mother is", "day-after-day", "Similar to: periodic", "Definition: of or belonging to or occurring every day", "Synonyms: daily, day-by-day, day-to-day"]}
+{"data": ["2022-12-31T09:00:09.503957+00:00", 7909, "Your mother is", "stoppered", "Similar to: closed", "Definition: (of a container) having a stopper in the opening", ""]}
