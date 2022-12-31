@@ -1,1 +1,1 @@
-{"data": ["2022-12-31T00:01:12.600572+00:00", 7900, "Your mother is", "outre", "Pronunciation: /u\u02c8tRe\u026a/", "Definition: conspicuously or grossly unconventional or unusual", "Synonyms: bizarre, eccentric, flakey, flaky, freakish, freaky, gonzo, off-the-wall, outlandish"]}
+{"data": ["2022-12-31T01:00:35.947925+00:00", 7901, "Your mother is", "aspherical", "Pronunciation: /e\u026a\u02c8sf\u025br\u026ak\u0259l/", "Definition: varying slightly from a perfectly spherical shape", "Synonyms: aspheric"]}
