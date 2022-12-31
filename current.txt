@@ -1,1 +1,1 @@
-{"data": ["2022-12-31T05:00:26.613251+00:00", 7905, "Your mother is", "southward", "Pronunciation: /\u02c8sa\u028a\u03b8\u02ccw\u0259rd/", "Definition: moving toward the south", "Synonyms: southbound"]}
+{"data": ["2022-12-31T06:00:19.630700+00:00", 7906, "Your mother is", "communist", "Pronunciation: /\u02c8k\u0251mj\u0259n\u026ast/", "Definition: relating to or marked by communism", "Synonyms: communistic"]}
