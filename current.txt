@@ -1,1 +1,1 @@
-{"data": ["2022-12-31T06:00:19.630700+00:00", 7906, "Your mother is", "communist", "Pronunciation: /\u02c8k\u0251mj\u0259n\u026ast/", "Definition: relating to or marked by communism", "Synonyms: communistic"]}
+{"data": ["2022-12-31T07:00:27.666167+00:00", 7907, "Your mother is", "lacrimal", "Pronunciation: /\u02c8l\u00e6kr\u0259m\u0259l/", "Definition: of or relating to tears", "Synonyms: lachrymal"]}
