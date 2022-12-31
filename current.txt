@@ -1,1 +1,1 @@
-{"data": ["2022-12-31T15:00:31.903258+00:00", 7915, "Your mother is", "bacteroid", "Pronunciation: /\u02c8b\u00e6kt\u0259\u02ccr\u0254\u026ad/", "Definition: resembling bacteria", "Synonyms: bacterioid, bacterioidal, bacteroidal"]}
+{"data": ["2022-12-31T16:00:28.408748+00:00", 7916, "Your mother is", "revelatory", "Pronunciation: /r\u026a\u02c8v\u025bl\u0259\u02ccto\u028ari/", "Definition: (usually followed by `of') pointing out or revealing clearly", "Synonyms: indicative, indicatory, significative, suggestive"]}
