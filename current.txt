@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T06:00:21.324203+00:00", 7930, "Your mother is", "rock-steady", "Pronunciation: /r\u0251k-\u02c8st\u025bdi/", "Definition: consistent in performance or behavior", "Synonyms: dependable, steady-going"]}
+{"data": ["2023-01-01T07:00:21.063652+00:00", 7931, "Your mother is", "impacted", "Pronunciation: /\u026am\u02c8p\u00e6kt\u026ad/", "Definition: wedged or packed in together", "Synonyms: wedged"]}
