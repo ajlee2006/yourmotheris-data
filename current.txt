@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T09:00:27.771809+00:00", 7933, "Your mother is", "power-driven", "Pronunciation: /\u02c8pa\u028a\u0259r-\u02c8dr\u026av\u0259n/", "Definition: powered by a motor", ""]}
+{"data": ["2023-01-01T10:00:26.277926+00:00", 7934, "Your mother is", "gnarled", "Pronunciation: /n\u0251rld/", "Definition: used of old persons or old trees; covered with knobs or knots", "Synonyms: gnarly, knobbed, knotted, knotty"]}
