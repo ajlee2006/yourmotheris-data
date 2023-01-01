@@ -1,1 +1,1 @@
-{"data": ["2022-12-31T23:00:24.272583+00:00", 7923, "Your mother is", "unshapen", "Pronunciation: /\u0259n\u02c8\u0283e\u026ap\u0259n/", "Definition: incompletely or imperfectly shaped", "Synonyms: unshaped"]}
+{"data": ["2023-01-01T00:01:00.297044+00:00", 7924, "Your mother is", "christly", "Pronunciation: /\u02c8kra\u026astli/", "Definition: resembling or showing the spirit of Christ", "Synonyms: christlike"]}
