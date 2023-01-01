@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T21:00:31.288426+00:00", 7945, "Your mother is", "queasy", "Pronunciation: /\u02c8kwizi/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, noisome, offensive, sickening, vile"]}
+{"data": ["2023-01-01T22:00:29.605179+00:00", 7946, "Your mother is", "attachable", "Similar to: bindable", "Definition: capable of being fastened or added to something else", ""]}
