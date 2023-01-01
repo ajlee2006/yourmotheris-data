@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T12:00:20.213037+00:00", 7936, "Your mother is", "cyclical", "Pronunciation: /\u02c8sa\u026akl\u026ak\u0259l/", "Definition: recurring in cycles", "Synonyms: cyclic"]}
+{"data": ["2023-01-01T13:00:27.635748+00:00", 7937, "Your mother is", "introductory", "Pronunciation: /\u02cc\u026antr\u0259\u02c8d\u0259kt\u0259ri/", "Definition: serving as a base or starting point", "Synonyms: basic"]}
