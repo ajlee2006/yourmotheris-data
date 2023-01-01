@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T11:00:23.731727+00:00", 7935, "Your mother is", "tasselled", "Similar to: adorned", "Definition: fringed or adorned with tassels", "Synonyms: tasseled"]}
+{"data": ["2023-01-01T12:00:20.213037+00:00", 7936, "Your mother is", "cyclical", "Pronunciation: /\u02c8sa\u026akl\u026ak\u0259l/", "Definition: recurring in cycles", "Synonyms: cyclic"]}
