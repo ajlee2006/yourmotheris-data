@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T15:00:15.250085+00:00", 7939, "Your mother is", "riveting", "Pronunciation: /\u02c8r\u026av\u028ct\u026a\u014b/", "Definition: capable of arousing and holding the attention", "Synonyms: absorbing, engrossing, fascinating, gripping"]}
+{"data": ["2023-01-01T16:00:24.889282+00:00", 7940, "Your mother is", "healthful", "Pronunciation: /\u02c8h\u025bl\u03b8f\u0259l/", "Definition: free from filth and pathogens", "Synonyms: sanitary"]}
