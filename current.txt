@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T16:00:24.889282+00:00", 7940, "Your mother is", "healthful", "Pronunciation: /\u02c8h\u025bl\u03b8f\u0259l/", "Definition: free from filth and pathogens", "Synonyms: sanitary"]}
+{"data": ["2023-01-01T17:00:12.113134+00:00", 7941, "Your mother is", "filmy", "Pronunciation: /\u02c8f\u026almi/", "Definition: so thin as to transmit light", "Synonyms: cobwebby, diaphanous, gauze-like, gauzy, gossamer, see-through, sheer, transparent, vaporous, vapourous"]}
