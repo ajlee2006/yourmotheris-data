@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T19:00:23.156294+00:00", 7943, "Your mother is", "sparrow-sized", "Similar to: sized", "Definition: having the approximate size of a sparrow", ""]}
+{"data": ["2023-01-01T20:00:17.986800+00:00", 7944, "Your mother is", "transfixed", "Pronunciation: /tr\u00e6ns\u02c8f\u026akst/", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spell-bound, spellbound"]}
