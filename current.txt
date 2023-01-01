@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T05:00:17.088670+00:00", 7929, "Your mother is", "breeding", "Pronunciation: /\u02c8brid\u026a\u014b/", "Definition: producing offspring or set aside especially for producing offspring", ""]}
+{"data": ["2023-01-01T06:00:21.324203+00:00", 7930, "Your mother is", "rock-steady", "Pronunciation: /r\u0251k-\u02c8st\u025bdi/", "Definition: consistent in performance or behavior", "Synonyms: dependable, steady-going"]}
