@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T04:00:31.481317+00:00", 7928, "Your mother is", "unshaved", "Pronunciation: /\u0259n\u02c8\u0283e\u026avd/", "Definition: not shaved", "Synonyms: unshaven"]}
+{"data": ["2023-01-01T05:00:17.088670+00:00", 7929, "Your mother is", "breeding", "Pronunciation: /\u02c8brid\u026a\u014b/", "Definition: producing offspring or set aside especially for producing offspring", ""]}
