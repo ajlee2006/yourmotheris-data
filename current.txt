@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T20:00:17.986800+00:00", 7944, "Your mother is", "transfixed", "Pronunciation: /tr\u00e6ns\u02c8f\u026akst/", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotised, hypnotized, mesmerised, mesmerized, spell-bound, spellbound"]}
+{"data": ["2023-01-01T21:00:31.288426+00:00", 7945, "Your mother is", "queasy", "Pronunciation: /\u02c8kwizi/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, noisome, offensive, sickening, vile"]}
