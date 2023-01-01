@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T07:00:21.063652+00:00", 7931, "Your mother is", "impacted", "Pronunciation: /\u026am\u02c8p\u00e6kt\u026ad/", "Definition: wedged or packed in together", "Synonyms: wedged"]}
+{"data": ["2023-01-01T08:00:21.000167+00:00", 7932, "Your mother is", "built-up", "Pronunciation: /b\u026alt-\u0259p/", "Definition: peopled with settlers", ""]}
