@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T00:01:00.297044+00:00", 7924, "Your mother is", "christly", "Pronunciation: /\u02c8kra\u026astli/", "Definition: resembling or showing the spirit of Christ", "Synonyms: christlike"]}
+{"data": ["2023-01-01T01:00:35.669640+00:00", 7925, "Your mother is", "stuffed", "Pronunciation: /st\u028cft/", "Definition: crammed with food", ""]}
