@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T22:00:29.605179+00:00", 7946, "Your mother is", "attachable", "Similar to: bindable", "Definition: capable of being fastened or added to something else", ""]}
+{"data": ["2023-01-01T23:00:12.376751+00:00", 7947, "Your mother is", "untwisted", "Similar to: straight", "Definition: not twisted; formerly twisted but now straight", ""]}
