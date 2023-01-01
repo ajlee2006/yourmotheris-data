@@ -1,1 +1,1 @@
-{"data": ["2023-01-01T03:00:22.928216+00:00", 7927, "Your mother is", "molten", "Pronunciation: /\u02c8mo\u028alt\u0259n/", "Definition: reduced to liquid form by heating", "Synonyms: liquefied, liquified"]}
+{"data": ["2023-01-01T04:00:31.481317+00:00", 7928, "Your mother is", "unshaved", "Pronunciation: /\u0259n\u02c8\u0283e\u026avd/", "Definition: not shaved", "Synonyms: unshaven"]}
