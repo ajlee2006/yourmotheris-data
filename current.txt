@@ -1,1 +1,1 @@
-{"data": ["2023-01-02T04:00:15.269576+00:00", 7952, "Your mother is", "left-slanting", "Similar to: written", "Definition: (of handwriting) having the letters slanting backward", "Synonyms: backhand"]}
+{"data": ["2023-01-02T05:00:28.542607+00:00", 7953, "Your mother is", "azygos", "Similar to: single", "Definition: occurring singly; not one of a pair", "Synonyms: azygous"]}
