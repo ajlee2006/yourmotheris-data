@@ -1,1 +1,1 @@
-{"data": ["2023-01-02T14:00:13.361745+00:00", 7962, "Your mother is", "meager", "Pronunciation: /\u02c8mi\u0261\u0259r/", "Definition: deficient in amount or quality or extent", "Synonyms: meagerly, meagre, scrimpy, stingy"]}
+{"data": ["2023-01-02T15:00:28.372638+00:00", 7963, "Your mother is", "aimless", "Pronunciation: /\u02c8e\u026aml\u026as/", "Definition: aimlessly drifting", "Synonyms: adrift, afloat, directionless, planless, rudderless, undirected"]}
