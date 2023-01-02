@@ -1,1 +1,1 @@
-{"data": ["2023-01-02T07:00:30.319306+00:00", 7955, "Your mother is", "bladed", "Pronunciation: /\u02c8ble\u026ad\u026ad/", "Definition: composed of thin flat plates resembling a knife blade", ""]}
+{"data": ["2023-01-02T08:00:30.191584+00:00", 7956, "Your mother is", "4", "Similar to: cardinal", "Definition: being one more than three", "Synonyms: four, iv"]}
