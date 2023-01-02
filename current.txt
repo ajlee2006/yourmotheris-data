@@ -1,1 +1,1 @@
-{"data": ["2023-01-02T12:00:24.833543+00:00", 7960, "Your mother is", "sounding", "Pronunciation: /\u02c8sa\u028and\u026a\u014b/", "Definition: appearing to be as specified; usually used as combining forms", "Synonyms: looking"]}
+{"data": ["2023-01-02T13:00:26.303997+00:00", 7961, "Your mother is", "continent-wide", "Pronunciation: /\u02c8k\u0251nt\u0259n\u0259nt-wa\u026ad/", "Definition: involving the entire continent", ""]}
