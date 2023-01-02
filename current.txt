@@ -1,1 +1,1 @@
-{"data": ["2023-01-02T18:00:14.050577+00:00", 7966, "Your mother is", "every", "Pronunciation: /\u02c8\u025bvri/", "Definition: each and all of a series of entities or intervals as specified", ""]}
+{"data": ["2023-01-02T19:00:16.730507+00:00", 7967, "Your mother is", "handheld", "Pronunciation: /\u02c8h\u00e6nd\u02c8h\u025bld/", "Definition: small and light enough to be operated while you hold it in your hands", "Synonyms: hand-held"]}
