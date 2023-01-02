@@ -1,1 +1,1 @@
-{"data": ["2023-01-02T05:00:28.542607+00:00", 7953, "Your mother is", "azygos", "Similar to: single", "Definition: occurring singly; not one of a pair", "Synonyms: azygous"]}
+{"data": ["2023-01-02T06:00:25.450914+00:00", 7954, "Your mother is", "inward-developing", "Similar to: centripetal", "Definition: toward an axis, as in a sunflower; the oldest flowers are near the edge, the youngest in the center", ""]}
