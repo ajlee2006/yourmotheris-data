@@ -1,1 +1,1 @@
-{"data": ["2023-01-02T01:00:17.200514+00:00", 7949, "Your mother is", "adagio", "Pronunciation: /\u0259\u02c8d\u0251d\u0292o\u028a/", "Definition: (of tempo) leisurely", ""]}
+{"data": ["2023-01-02T02:00:16.257487+00:00", 7950, "Your mother is", "uneconomical", "Pronunciation: /\u028cn\u02cc\u025bk\u028c\u02c8n\u0251m\u026ak\u028cl/", "Definition: wasteful of resources", "Synonyms: uneconomic"]}
