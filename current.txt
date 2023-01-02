@@ -1,1 +1,1 @@
-{"data": ["2023-01-02T03:00:29.609960+00:00", 7951, "Your mother is", "unrested", "Pronunciation: /\u0259n\u02c8r\u025bst\u026ad/", "Definition: not rested or refreshed", "Synonyms: unrefreshed"]}
+{"data": ["2023-01-02T04:00:15.269576+00:00", 7952, "Your mother is", "left-slanting", "Similar to: written", "Definition: (of handwriting) having the letters slanting backward", "Synonyms: backhand"]}
