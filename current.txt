@@ -1,1 +1,1 @@
-{"data": ["2023-01-02T10:00:33.289781+00:00", 7958, "Your mother is", "coleridgian", "", "Definition: of or relating to Samuel Taylor Coleridge or his writings", "Synonyms: coleridgean"]}
+{"data": ["2023-01-02T11:00:17.309196+00:00", 7959, "Your mother is", "ablated", "Similar to: decreased", "Definition: made smaller or less by melting or erosion or vaporization", ""]}
