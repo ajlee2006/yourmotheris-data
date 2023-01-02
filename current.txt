@@ -1,1 +1,1 @@
-{"data": ["2023-01-02T13:00:26.303997+00:00", 7961, "Your mother is", "continent-wide", "Pronunciation: /\u02c8k\u0251nt\u0259n\u0259nt-wa\u026ad/", "Definition: involving the entire continent", ""]}
+{"data": ["2023-01-02T14:00:13.361745+00:00", 7962, "Your mother is", "meager", "Pronunciation: /\u02c8mi\u0261\u0259r/", "Definition: deficient in amount or quality or extent", "Synonyms: meagerly, meagre, scrimpy, stingy"]}
