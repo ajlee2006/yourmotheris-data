@@ -1,1 +1,1 @@
-{"data": ["2023-01-02T00:01:03.788134+00:00", 7948, "Your mother is", "brownish-speckled", "Similar to: patterned", "Definition: having brown speckles", "Synonyms: brown-speckled"]}
+{"data": ["2023-01-02T01:00:17.200514+00:00", 7949, "Your mother is", "adagio", "Pronunciation: /\u0259\u02c8d\u0251d\u0292o\u028a/", "Definition: (of tempo) leisurely", ""]}
