@@ -1,1 +1,1 @@
-{"data": ["2023-01-02T08:00:30.191584+00:00", 7956, "Your mother is", "4", "Similar to: cardinal", "Definition: being one more than three", "Synonyms: four, iv"]}
+{"data": ["2023-01-02T09:00:21.468088+00:00", 7957, "Your mother is", "elvish", "Pronunciation: /\u02c8\u025blv\u026a\u0283/", "Definition: usually good-naturedly mischievous", "Synonyms: elfin, elfish"]}
