@@ -1,1 +1,1 @@
-{"data": ["2023-01-02T17:00:19.017833+00:00", 7965, "Your mother is", "wild-eyed", "Pronunciation: /wa\u026ald-a\u026ad/", "Definition: not sensible about practical matters; idealistic and unrealistic", "Synonyms: quixotic, romantic"]}
+{"data": ["2023-01-02T18:00:14.050577+00:00", 7966, "Your mother is", "every", "Pronunciation: /\u02c8\u025bvri/", "Definition: each and all of a series of entities or intervals as specified", ""]}
