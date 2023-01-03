@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T21:00:26.476891+00:00", 7993, "Your mother is", "lexicalised", "", "Definition: expressed by a word", "Synonyms: lexicalized"]}
+{"data": ["2023-01-03T22:00:15.456598+00:00", 7994, "Your mother is", "cursive", "Pronunciation: /\u02c8k\u025crs\u026av/", "Definition: having successive letter joined together", ""]}
