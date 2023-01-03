@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T00:01:11.115381+00:00", 7972, "Your mother is", "credentialled", "Similar to: certified", "Definition: certified as professional by evidence or testimonials", ""]}
+{"data": ["2023-01-03T01:00:33.843284+00:00", 7973, "Your mother is", "topologic", "Pronunciation: /\u02cct\u0251p\u0259\u02c8l\u0251d\u0292\u026ak/", "Definition: of or relating to topology", "Synonyms: topological"]}
