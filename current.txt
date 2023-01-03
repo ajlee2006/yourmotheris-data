@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T05:00:25.067632+00:00", 7977, "Your mother is", "tetravalent", "Pronunciation: /\u02cct\u025btr\u0259\u02c8ve\u026al\u0259nt/", "Definition: haveing a valence of four", ""]}
+{"data": ["2023-01-03T06:00:29.683140+00:00", 7978, "Your mother is", "zoophagous", "Similar to: carnivorous", "Definition: (of animals) carnivorous", "Synonyms: flesh-eating, meat-eating"]}
