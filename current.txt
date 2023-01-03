@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T07:00:16.134415+00:00", 7979, "Your mother is", "nutritionary", "", "Definition: of or relating to or providing nutrition", "Synonyms: nutritional"]}
+{"data": ["2023-01-03T08:00:18.480800+00:00", 7980, "Your mother is", "applicable", "Pronunciation: /\u02c8\u00e6pl\u0259k\u0259b\u0259l/", "Definition: capable of being applied; having relevance", ""]}
