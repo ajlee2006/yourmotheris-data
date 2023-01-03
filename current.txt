@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T09:00:24.900871+00:00", 7981, "Your mother is", "nonrational", "Similar to: illogical", "Definition: obtained through intuition rather than from reasoning or observation", "Synonyms: intuitive, visceral"]}
+{"data": ["2023-01-03T10:00:27.149159+00:00", 7982, "Your mother is", "in her right mind", "Similar to: sane", "Definition: behaving responsibly", "Synonyms: in his right mind, in their right minds"]}
