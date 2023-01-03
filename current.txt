@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T14:00:29.348237+00:00", 7986, "Your mother is", "sedentary", "Pronunciation: /\u02c8s\u025bd\u0259n\u02cct\u025bri/", "Definition: requiring sitting or little activity", ""]}
+{"data": ["2023-01-03T15:00:24.567665+00:00", 7987, "Your mother is", "unglamorous", "Pronunciation: /\u028cn\u02c8\u0261l\u00e6m\u025dr\u028cs/", "Definition: not challenging; dull and lacking excitement", "Synonyms: commonplace, humdrum, prosaic, unglamourous"]}
