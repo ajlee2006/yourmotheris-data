@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T12:00:31.922978+00:00", 7984, "Your mother is", "rank-smelling", "Similar to: ill-smelling", "Definition: having an offensive rancid odor", ""]}
+{"data": ["2023-01-03T13:00:26.213247+00:00", 7985, "Your mother is", "jewelled", "Similar to: adorned", "Definition: covered with beads or jewels or sequins", "Synonyms: beady, gemmed, jeweled, sequined, spangled, spangly"]}
