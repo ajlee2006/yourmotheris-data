@@ -1,1 +1,1 @@
-{"data": ["2023-01-02T23:00:17.053898+00:00", 7971, "Your mother is", "in fashion", "Similar to: popular", "Definition: popular and considered appealing or fashionable at the time", "Synonyms: fashionable"]}
+{"data": ["2023-01-03T00:01:11.115381+00:00", 7972, "Your mother is", "credentialled", "Similar to: certified", "Definition: certified as professional by evidence or testimonials", ""]}
