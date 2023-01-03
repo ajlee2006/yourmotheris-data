@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T13:00:26.213247+00:00", 7985, "Your mother is", "jewelled", "Similar to: adorned", "Definition: covered with beads or jewels or sequins", "Synonyms: beady, gemmed, jeweled, sequined, spangled, spangly"]}
+{"data": ["2023-01-03T14:00:29.348237+00:00", 7986, "Your mother is", "sedentary", "Pronunciation: /\u02c8s\u025bd\u0259n\u02cct\u025bri/", "Definition: requiring sitting or little activity", ""]}
