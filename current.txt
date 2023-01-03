@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T17:00:27.989327+00:00", 7989, "Your mother is", "pulpy", "Pronunciation: /\u02c8p\u0259lpi/", "Definition: like a pulp or overripe; not having stiffness", "Synonyms: squashy"]}
+{"data": ["2023-01-03T18:00:13.474211+00:00", 7990, "Your mother is", "unoxygenated", "Similar to: unventilated", "Definition: (used of blood) not supplied with oxygen", "Synonyms: unaerated"]}
