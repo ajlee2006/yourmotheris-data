@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T11:00:26.722733+00:00", 7983, "Your mother is", "spotted", "Pronunciation: /\u02c8sp\u0251t\u026ad/", "Definition: having spots or patches (small areas of contrasting color or texture)", "Synonyms: patched, spotty"]}
+{"data": ["2023-01-03T12:00:31.922978+00:00", 7984, "Your mother is", "rank-smelling", "Similar to: ill-smelling", "Definition: having an offensive rancid odor", ""]}
