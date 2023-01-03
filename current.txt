@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T15:00:24.567665+00:00", 7987, "Your mother is", "unglamorous", "Pronunciation: /\u028cn\u02c8\u0261l\u00e6m\u025dr\u028cs/", "Definition: not challenging; dull and lacking excitement", "Synonyms: commonplace, humdrum, prosaic, unglamourous"]}
+{"data": ["2023-01-03T16:00:25.097640+00:00", 7988, "Your mother is", "finite", "Pronunciation: /\u02c8fa\u026ana\u026at/", "Definition: bounded or limited in magnitude or spatial or temporal extent", ""]}
