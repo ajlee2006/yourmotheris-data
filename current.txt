@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T20:00:31.882771+00:00", 7992, "Your mother is", "socialist", "Pronunciation: /\u02c8so\u028a\u0283\u028cl\u028cst/", "Definition: advocating or following the socialist principles", "Synonyms: socialistic"]}
+{"data": ["2023-01-03T21:00:26.476891+00:00", 7993, "Your mother is", "lexicalised", "", "Definition: expressed by a word", "Synonyms: lexicalized"]}
