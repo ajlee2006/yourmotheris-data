@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T08:00:18.480800+00:00", 7980, "Your mother is", "applicable", "Pronunciation: /\u02c8\u00e6pl\u0259k\u0259b\u0259l/", "Definition: capable of being applied; having relevance", ""]}
+{"data": ["2023-01-03T09:00:24.900871+00:00", 7981, "Your mother is", "nonrational", "Similar to: illogical", "Definition: obtained through intuition rather than from reasoning or observation", "Synonyms: intuitive, visceral"]}
