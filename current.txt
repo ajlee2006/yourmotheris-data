@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T04:00:12.960206+00:00", 7976, "Your mother is", "amino", "Pronunciation: /\u0259\u02c8mino\u028a/", "Definition: pertaining to or containing any of a group of organic compounds of nitrogen derived from ammonia", "Synonyms: aminic"]}
+{"data": ["2023-01-03T05:00:25.067632+00:00", 7977, "Your mother is", "tetravalent", "Pronunciation: /\u02cct\u025btr\u0259\u02c8ve\u026al\u0259nt/", "Definition: haveing a valence of four", ""]}
