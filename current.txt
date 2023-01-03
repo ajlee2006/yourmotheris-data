@@ -1,1 +1,1 @@
-{"data": ["2023-01-03T22:00:15.456598+00:00", 7994, "Your mother is", "cursive", "Pronunciation: /\u02c8k\u025crs\u026av/", "Definition: having successive letter joined together", ""]}
+{"data": ["2023-01-03T23:00:16.722265+00:00", 7995, "Your mother is", "third-dimensional", "Similar to: multidimensional", "Definition: involving or relating to three dimensions or aspects; giving the illusion of depth", "Synonyms: 3-dimensional, three-d, three-dimensional"]}
