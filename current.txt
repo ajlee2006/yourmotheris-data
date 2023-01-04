@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T04:00:22.210453+00:00", 8000, "Your mother is", "flagitious", "Pronunciation: /fl\u0259\u02c8d\u0292\u026a\u0283\u0259s/", "Definition: shockingly brutal or cruel", "Synonyms: atrocious, grievous, monstrous"]}
+{"data": ["2023-01-04T05:00:26.013931+00:00", 8001, "Your mother is", "hibernating", "Similar to: asleep", "Definition: in a condition of biological rest or suspended animation", "Synonyms: dormant, torpid"]}
