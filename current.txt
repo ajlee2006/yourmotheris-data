@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T18:00:28.447439+00:00", 8014, "Your mother is", "mirthful", "Pronunciation: /\u02c8m\u025cr\u03b8f\u0259l/", "Definition: full of or showing high-spirited merriment", "Synonyms: gay, jocund, jolly, jovial, merry"]}
+{"data": ["2023-01-04T19:00:20.861736+00:00", 8015, "Your mother is", "thick", "Pronunciation: /\u03b8\u026ak/", "Definition: hard to pass through because of dense growth", "Synonyms: dense"]}
