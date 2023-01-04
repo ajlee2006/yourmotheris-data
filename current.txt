@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T20:00:30.334962+00:00", 8016, "Your mother is", "acceleratory", "Pronunciation: /\u00e6k\u02c8s\u025bl\u0259r\u0259\u02ccto\u028ari/", "Definition: tending to increase velocity", "Synonyms: accelerative"]}
+{"data": ["2023-01-04T21:00:18.107182+00:00", 8017, "Your mother is", "slushy", "Pronunciation: /\u02c8sl\u0259\u0283i/", "Definition: effusively or insincerely emotional", "Synonyms: bathetic, drippy, hokey, kitschy, maudlin, mawkish, mushy, sappy, schmaltzy, schmalzy, sentimental, soppy, soupy"]}
