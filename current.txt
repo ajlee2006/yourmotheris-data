@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T09:00:18.487757+00:00", 8005, "Your mother is", "reeking", "Pronunciation: /\u02c8rik\u026a\u014b/", "Definition: wet with secreted or exuded moisture such as sweat or tears", "Synonyms: watery"]}
+{"data": ["2023-01-04T10:00:30.151498+00:00", 8006, "Your mother is", "swingy", "Pronunciation: /\u02c8sw\u026a\u014bi/", "Definition: characterized by a buoyant rhythm", "Synonyms: lilting, swinging, tripping"]}
