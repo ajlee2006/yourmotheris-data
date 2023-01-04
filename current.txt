@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T10:00:30.151498+00:00", 8006, "Your mother is", "swingy", "Pronunciation: /\u02c8sw\u026a\u014bi/", "Definition: characterized by a buoyant rhythm", "Synonyms: lilting, swinging, tripping"]}
+{"data": ["2023-01-04T11:00:18.876168+00:00", 8007, "Your mother is", "disinterested", "Pronunciation: /d\u026as\u02c8\u026ant\u0259\u02ccr\u025bst\u026ad/", "Definition: unaffected by self-interest", ""]}
