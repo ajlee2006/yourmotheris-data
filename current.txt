@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T05:00:26.013931+00:00", 8001, "Your mother is", "hibernating", "Similar to: asleep", "Definition: in a condition of biological rest or suspended animation", "Synonyms: dormant, torpid"]}
+{"data": ["2023-01-04T06:00:22.891351+00:00", 8002, "Your mother is", "hopped-up", "Pronunciation: /\u02c8h\u0251pt-\u02c8\u0259p/", "Definition: under the influence of narcotics", "Synonyms: stoned"]}
