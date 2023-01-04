@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T07:00:20.564068+00:00", 8003, "Your mother is", "admonitory", "Pronunciation: /\u00e6d\u02c8m\u0251n\u026a\u02ccto\u028ari/", "Definition: expressing reproof or reproach especially as a corrective", "Synonyms: admonishing, reproachful, reproving"]}
+{"data": ["2023-01-04T08:00:25.648482+00:00", 8004, "Your mother is", "depressing", "Pronunciation: /d\u026a\u02c8pr\u025bs\u026a\u014b/", "Definition: causing sad feelings of gloom and inadequacy", "Synonyms: cheerless, uncheerful"]}
