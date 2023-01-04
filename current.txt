@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T19:00:20.861736+00:00", 8015, "Your mother is", "thick", "Pronunciation: /\u03b8\u026ak/", "Definition: hard to pass through because of dense growth", "Synonyms: dense"]}
+{"data": ["2023-01-04T20:00:30.334962+00:00", 8016, "Your mother is", "acceleratory", "Pronunciation: /\u00e6k\u02c8s\u025bl\u0259r\u0259\u02ccto\u028ari/", "Definition: tending to increase velocity", "Synonyms: accelerative"]}
