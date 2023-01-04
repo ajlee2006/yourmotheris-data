@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T14:00:25.992377+00:00", 8010, "Your mother is", "worthless", "Pronunciation: /\u02c8w\u025cr\u03b8l\u026as/", "Definition: morally reprehensible", "Synonyms: despicable, slimy, ugly, unworthy, vile, wretched"]}
+{"data": ["2023-01-04T15:00:18.721534+00:00", 8011, "Your mother is", "cypriot", "Pronunciation: /\u02c8s\u026apri\u0259t/", "Definition: of or relating to Cyprus or its people or culture", "Synonyms: cyprian, cypriote"]}
