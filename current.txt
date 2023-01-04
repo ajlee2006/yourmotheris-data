@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T21:00:18.107182+00:00", 8017, "Your mother is", "slushy", "Pronunciation: /\u02c8sl\u0259\u0283i/", "Definition: effusively or insincerely emotional", "Synonyms: bathetic, drippy, hokey, kitschy, maudlin, mawkish, mushy, sappy, schmaltzy, schmalzy, sentimental, soppy, soupy"]}
+{"data": ["2023-01-04T22:00:23.398586+00:00", 8018, "Your mother is", "embonpoint", "Pronunciation: /\u0251Nb\u0254\u014b\u02c8pw\u00e6\u014b/", "Definition: sufficiently fat so as to have a pleasing fullness of figure", "Synonyms: chubby, plump"]}
