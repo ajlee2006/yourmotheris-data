@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T06:00:22.891351+00:00", 8002, "Your mother is", "hopped-up", "Pronunciation: /\u02c8h\u0251pt-\u02c8\u0259p/", "Definition: under the influence of narcotics", "Synonyms: stoned"]}
+{"data": ["2023-01-04T07:00:20.564068+00:00", 8003, "Your mother is", "admonitory", "Pronunciation: /\u00e6d\u02c8m\u0251n\u026a\u02ccto\u028ari/", "Definition: expressing reproof or reproach especially as a corrective", "Synonyms: admonishing, reproachful, reproving"]}
