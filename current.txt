@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T08:00:25.648482+00:00", 8004, "Your mother is", "depressing", "Pronunciation: /d\u026a\u02c8pr\u025bs\u026a\u014b/", "Definition: causing sad feelings of gloom and inadequacy", "Synonyms: cheerless, uncheerful"]}
+{"data": ["2023-01-04T09:00:18.487757+00:00", 8005, "Your mother is", "reeking", "Pronunciation: /\u02c8rik\u026a\u014b/", "Definition: wet with secreted or exuded moisture such as sweat or tears", "Synonyms: watery"]}
