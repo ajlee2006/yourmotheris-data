@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T22:00:23.398586+00:00", 8018, "Your mother is", "embonpoint", "Pronunciation: /\u0251Nb\u0254\u014b\u02c8pw\u00e6\u014b/", "Definition: sufficiently fat so as to have a pleasing fullness of figure", "Synonyms: chubby, plump"]}
+{"data": ["2023-01-04T23:00:23.220501+00:00", 8019, "Your mother is", "azotemic", "", "Definition: of or involving excess nitrogenous waste products in the urine (usually due to kidney insufficiency)", "Synonyms: uraemic, uremic"]}
