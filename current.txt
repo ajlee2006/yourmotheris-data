@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T16:00:27.587493+00:00", 8012, "Your mother is", "eristic", "Pronunciation: /\u025b\u02c8r\u026ast\u026ak/", "Definition: given to disputation for its own sake and often employing specious arguments", "Synonyms: eristical"]}
+{"data": ["2023-01-04T17:00:23.434723+00:00", 8013, "Your mother is", "hallowed", "Pronunciation: /\u02c8h\u00e6lo\u028ad/", "Definition: worthy of religious veneration", "Synonyms: sacred"]}
