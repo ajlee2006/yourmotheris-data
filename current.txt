@@ -1,1 +1,1 @@
-{"data": ["2023-01-04T23:00:23.220501+00:00", 8019, "Your mother is", "azotemic", "", "Definition: of or involving excess nitrogenous waste products in the urine (usually due to kidney insufficiency)", "Synonyms: uraemic, uremic"]}
+{"data": ["2023-01-05T00:01:14.999435+00:00", 8020, "Your mother is", "unadvisable", "", "Definition: not prudent or wise; not recommended", "Synonyms: inadvisable"]}
