@@ -1,1 +1,1 @@
-{"data": ["2023-01-05T14:00:31.468276+00:00", 8034, "Your mother is", "semiannual", "Pronunciation: /\u02ccs\u025bmi\u02c8\u00e6nju\u0259l/", "Definition: occurring or payable twice each year", "Synonyms: biannual, biyearly, half-yearly"]}
+{"data": ["2023-01-05T15:00:27.096841+00:00", 8035, "Your mother is", "unpaved", "Pronunciation: /\u0259n\u02c8pe\u026avd/", "Definition: not having a paved surface", ""]}
