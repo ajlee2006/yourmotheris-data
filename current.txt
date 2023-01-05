@@ -1,1 +1,1 @@
-{"data": ["2023-01-05T12:00:28.367684+00:00", 8032, "Your mother is", "gold-coloured", "Similar to: colored", "Definition: having the color of gold", "Synonyms: gold-colored"]}
+{"data": ["2023-01-05T13:00:27.891325+00:00", 8033, "Your mother is", "regimented", "Pronunciation: /\u02c8r\u025bd\u0292\u028c\u02ccm\u025bnt\u026ad/", "Definition: strictly controlled", ""]}
