@@ -1,1 +1,1 @@
-{"data": ["2023-01-05T18:00:26.351561+00:00", 8038, "Your mother is", "refrigerant", "Pronunciation: /r\u026a\u02c8frid\u0292\u0259r\u0259nt/", "Definition: causing cooling or freezing", "Synonyms: refrigerating"]}
+{"data": ["2023-01-05T19:00:28.497105+00:00", 8039, "Your mother is", "anagogic", "Pronunciation: /\u02cc\u00e6n\u0259\u02c8\u0261\u0251d\u0292\u026ak/", "Definition: based on or exemplifying anagoge", "Synonyms: anagogical"]}
