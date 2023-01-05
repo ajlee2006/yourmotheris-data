@@ -1,1 +1,1 @@
-{"data": ["2023-01-05T06:00:30.304499+00:00", 8026, "Your mother is", "ultranationalistic", "Similar to: loyal", "Definition: fanatically patriotic", "Synonyms: chauvinistic, flag-waving, jingoistic, nationalistic, superpatriotic"]}
+{"data": ["2023-01-05T07:00:19.077100+00:00", 8027, "Your mother is", "dimensioning", "Similar to: orientating", "Definition: indicating or determining size and position in space", ""]}
