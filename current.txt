@@ -1,1 +1,1 @@
-{"data": ["2023-01-05T05:00:20.523300+00:00", 8025, "Your mother is", "suppressive", "Similar to: restrictive", "Definition: tending to suppress", ""]}
+{"data": ["2023-01-05T06:00:30.304499+00:00", 8026, "Your mother is", "ultranationalistic", "Similar to: loyal", "Definition: fanatically patriotic", "Synonyms: chauvinistic, flag-waving, jingoistic, nationalistic, superpatriotic"]}
