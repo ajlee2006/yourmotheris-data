@@ -1,1 +1,1 @@
-{"data": ["2023-01-05T16:00:22.448745+00:00", 8036, "Your mother is", "blusterous", "Similar to: stormy", "Definition: blowing in violent and abrupt bursts", "Synonyms: blustering, blustery"]}
+{"data": ["2023-01-05T17:00:25.123016+00:00", 8037, "Your mother is", "well-timed", "Pronunciation: /\u02c8w\u025bl-\u02c8ta\u026amd/", "Definition: done or happening at the appropriate or proper time", "Synonyms: seasonable, timely, well timed"]}
