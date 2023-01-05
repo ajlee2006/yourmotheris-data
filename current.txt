@@ -1,1 +1,1 @@
-{"data": ["2023-01-05T17:00:25.123016+00:00", 8037, "Your mother is", "well-timed", "Pronunciation: /\u02c8w\u025bl-\u02c8ta\u026amd/", "Definition: done or happening at the appropriate or proper time", "Synonyms: seasonable, timely, well timed"]}
+{"data": ["2023-01-05T18:00:26.351561+00:00", 8038, "Your mother is", "refrigerant", "Pronunciation: /r\u026a\u02c8frid\u0292\u0259r\u0259nt/", "Definition: causing cooling or freezing", "Synonyms: refrigerating"]}
