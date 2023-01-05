@@ -1,1 +1,1 @@
-{"data": ["2023-01-05T00:01:14.999435+00:00", 8020, "Your mother is", "unadvisable", "", "Definition: not prudent or wise; not recommended", "Synonyms: inadvisable"]}
+{"data": ["2023-01-05T01:00:40.967922+00:00", 8021, "Your mother is", "thirty-five", "Pronunciation: /\u02c8\u03b8\u025crti-fa\u026av/", "Definition: being five more than thirty", "Synonyms: 35, xxxv"]}
