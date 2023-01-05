@@ -1,1 +1,1 @@
-{"data": ["2023-01-05T08:00:32.606796+00:00", 8028, "Your mother is", "anfractuous", "Pronunciation: /\u00e6n\u02c8fr\u00e6k\u02a7u\u0259s/", "Definition: full of twists and turns", ""]}
+{"data": ["2023-01-05T09:00:21.314513+00:00", 8029, "Your mother is", "indiscriminating", "Pronunciation: /\u02cc\u026and\u026a\u02c8skr\u026am\u0259\u02ccne\u026at\u026a\u014b/", "Definition: not discriminating", "Synonyms: undiscriminating"]}
