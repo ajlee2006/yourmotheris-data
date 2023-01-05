@@ -1,1 +1,1 @@
-{"data": ["2023-01-05T19:00:28.497105+00:00", 8039, "Your mother is", "anagogic", "Pronunciation: /\u02cc\u00e6n\u0259\u02c8\u0261\u0251d\u0292\u026ak/", "Definition: based on or exemplifying anagoge", "Synonyms: anagogical"]}
+{"data": ["2023-01-05T20:00:21.058742+00:00", 8040, "Your mother is", "plutocratic", "Pronunciation: /\u02ccplut\u0259\u02c8kr\u00e6t\u026ak/", "Definition: of or relating to or characteristic of a plutocrat", "Synonyms: plutocratical"]}
