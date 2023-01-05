@@ -1,1 +1,1 @@
-{"data": ["2023-01-05T04:00:32.304788+00:00", 8024, "Your mother is", "sunstruck", "Similar to: light", "Definition: lighted by sunlight", "Synonyms: sunlit"]}
+{"data": ["2023-01-05T05:00:20.523300+00:00", 8025, "Your mother is", "suppressive", "Similar to: restrictive", "Definition: tending to suppress", ""]}
