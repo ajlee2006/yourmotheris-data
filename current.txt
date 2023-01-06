@@ -1,1 +1,1 @@
-{"data": ["2023-01-06T01:00:24.148582+00:00", 8045, "Your mother is", "pizzicato", "Pronunciation: /\u02ccp\u026ats\u026a\u02c8k\u0251to\u028a/", "Definition: (of instruments in the violin family) to be plucked with the finger", ""]}
+{"data": ["2023-01-06T02:00:23.114802+00:00", 8046, "Your mother is", "elementary", "Pronunciation: /\u02cc\u025bl\u0259\u02c8m\u025bnt\u0259ri/", "Definition: of or being the essential or basic part", "Synonyms: basal, elemental, primary"]}
