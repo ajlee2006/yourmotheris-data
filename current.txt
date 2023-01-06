@@ -1,1 +1,1 @@
-{"data": ["2023-01-06T10:00:16.811956+00:00", 8054, "Your mother is", "reliant", "Pronunciation: /r\u026a\u02c8la\u026a\u0259nt/", "Definition: relying on another for support", ""]}
+{"data": ["2023-01-06T11:00:22.728282+00:00", 8055, "Your mother is", "lazy", "Pronunciation: /\u02c8le\u026azi/", "Definition: disinclined to work or exertion", "Synonyms: faineant, indolent, otiose, slothful, work-shy"]}
