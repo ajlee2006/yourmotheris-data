@@ -1,1 +1,1 @@
-{"data": ["2023-01-06T11:00:22.728282+00:00", 8055, "Your mother is", "lazy", "Pronunciation: /\u02c8le\u026azi/", "Definition: disinclined to work or exertion", "Synonyms: faineant, indolent, otiose, slothful, work-shy"]}
+{"data": ["2023-01-06T12:00:16.295814+00:00", 8056, "Your mother is", "derivative", "Pronunciation: /d\u026a\u02c8r\u026av\u0259t\u026av/", "Definition: resulting from or employing derivation", ""]}
