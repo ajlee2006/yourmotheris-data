@@ -1,1 +1,1 @@
-{"data": ["2023-01-06T05:00:16.297522+00:00", 8049, "Your mother is", "sought", "Pronunciation: /s\u0254t/", "Definition: being searched for", "Synonyms: sought-after"]}
+{"data": ["2023-01-06T06:00:32.107784+00:00", 8050, "Your mother is", "semisynthetic", "Pronunciation: /\u02ccs\u025bmis\u026an\u02c8\u03b8\u025bt\u026ak/", "Definition: not of natural origin; prepared or made artificially", "Synonyms: man-made, synthetic"]}
