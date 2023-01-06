@@ -1,1 +1,1 @@
-{"data": ["2023-01-06T00:01:11.824829+00:00", 8044, "Your mother is", "lovesick", "Pronunciation: /\u02c8l\u0259v\u02ccs\u026ak/", "Definition: languishing because of love", ""]}
+{"data": ["2023-01-06T01:00:24.148582+00:00", 8045, "Your mother is", "pizzicato", "Pronunciation: /\u02ccp\u026ats\u026a\u02c8k\u0251to\u028a/", "Definition: (of instruments in the violin family) to be plucked with the finger", ""]}
