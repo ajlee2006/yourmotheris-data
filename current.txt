@@ -1,1 +1,1 @@
-{"data": ["2023-01-06T13:00:20.356656+00:00", 8057, "Your mother is", "cragged", "Pronunciation: /\u02c8kr\u00e6\u0261\u026ad/", "Definition: having hills and crags", "Synonyms: craggy, hilly, mountainous"]}
+{"data": ["2023-01-06T14:00:16.149782+00:00", 8058, "Your mother is", "fertilizable", "Similar to: fertile", "Definition: capable of being fertilized", ""]}
