@@ -1,1 +1,1 @@
-{"data": ["2023-01-06T15:00:27.889556+00:00", 8059, "Your mother is", "interchurch", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8\u02a7\u025cr\u02a7/", "Definition: occurring between or among or common to different churches or denominations", "Synonyms: interdenominational"]}
+{"data": ["2023-01-06T16:00:25.892264+00:00", 8060, "Your mother is", "fungicidal", "", "Definition: capable of destroying fungi", "Synonyms: antifungal"]}
