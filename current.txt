@@ -1,1 +1,1 @@
-{"data": ["2023-01-06T02:00:23.114802+00:00", 8046, "Your mother is", "elementary", "Pronunciation: /\u02cc\u025bl\u0259\u02c8m\u025bnt\u0259ri/", "Definition: of or being the essential or basic part", "Synonyms: basal, elemental, primary"]}
+{"data": ["2023-01-06T03:00:19.949235+00:00", 8047, "Your mother is", "corroded", "Pronunciation: /k\u025dr\u02c8o\u028ad\u026ad/", "Definition: eaten away as by acid or oxidation", ""]}
