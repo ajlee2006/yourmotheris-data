@@ -1,1 +1,1 @@
-{"data": ["2023-01-05T23:00:32.798039+00:00", 8043, "Your mother is", "carmine", "Pronunciation: /\u02c8k\u0251rm\u026an/", "Definition: of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies", "Synonyms: blood-red, cerise, cherry, cherry-red, crimson, red, reddish, ruby, ruby-red, ruddy, scarlet"]}
+{"data": ["2023-01-06T00:01:11.824829+00:00", 8044, "Your mother is", "lovesick", "Pronunciation: /\u02c8l\u0259v\u02ccs\u026ak/", "Definition: languishing because of love", ""]}
