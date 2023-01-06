@@ -1,1 +1,1 @@
-{"data": ["2023-01-06T12:00:16.295814+00:00", 8056, "Your mother is", "derivative", "Pronunciation: /d\u026a\u02c8r\u026av\u0259t\u026av/", "Definition: resulting from or employing derivation", ""]}
+{"data": ["2023-01-06T13:00:20.356656+00:00", 8057, "Your mother is", "cragged", "Pronunciation: /\u02c8kr\u00e6\u0261\u026ad/", "Definition: having hills and crags", "Synonyms: craggy, hilly, mountainous"]}
