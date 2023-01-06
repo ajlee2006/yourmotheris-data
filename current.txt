@@ -1,1 +1,1 @@
-{"data": ["2023-01-06T03:00:19.949235+00:00", 8047, "Your mother is", "corroded", "Pronunciation: /k\u025dr\u02c8o\u028ad\u026ad/", "Definition: eaten away as by acid or oxidation", ""]}
+{"data": ["2023-01-06T04:00:17.505559+00:00", 8048, "Your mother is", "outward-moving", "Similar to: centrifugal", "Definition: moving or directed away from center, especially when spinning or traveling in a curve", ""]}
