@@ -1,1 +1,1 @@
-{"data": ["2023-01-06T18:00:15.511374+00:00", 8062, "Your mother is", "handheld", "Pronunciation: /\u02c8h\u00e6nd\u02c8h\u025bld/", "Definition: small and light enough to be operated while you hold it in your hands", "Synonyms: hand-held"]}
+{"data": ["2023-01-06T19:00:11.575472+00:00", 8063, "Your mother is", "inelastic", "Pronunciation: /\u02cc\u026an\u026a\u02c8l\u00e6st\u026ak/", "Definition: not elastic", ""]}
