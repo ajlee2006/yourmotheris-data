@@ -1,1 +1,1 @@
-{"data": ["2023-01-06T21:00:20.342500+00:00", 8065, "Your mother is", "haemic", "Pronunciation: /\u02c8him\u026ak/", "Definition: relating to or containing or affecting blood", "Synonyms: haematic, hematic, hemic"]}
+{"data": ["2023-01-06T22:00:17.675671+00:00", 8066, "Your mother is", "large-capitalisation", "", "Definition: of stocks of companies with a market capitalization of five billion dollars or more", "Synonyms: large-cap, large-capitalization"]}
