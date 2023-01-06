@@ -1,1 +1,1 @@
-{"data": ["2023-01-06T04:00:17.505559+00:00", 8048, "Your mother is", "outward-moving", "Similar to: centrifugal", "Definition: moving or directed away from center, especially when spinning or traveling in a curve", ""]}
+{"data": ["2023-01-06T05:00:16.297522+00:00", 8049, "Your mother is", "sought", "Pronunciation: /s\u0254t/", "Definition: being searched for", "Synonyms: sought-after"]}
