@@ -1,1 +1,1 @@
-{"data": ["2023-01-07T19:00:30.595882+00:00", 8087, "Your mother is", "enchanted", "Pronunciation: /\u025bn\u02c8t\u0283\u00e6nt\u026ad/", "Definition: influenced as by charms or incantations", ""]}
+{"data": ["2023-01-07T20:00:17.456460+00:00", 8088, "Your mother is", "homocentric", "Pronunciation: /\u02ccho\u028am\u0259\u02c8s\u025bntr\u026ak/", "Definition: having a common center", "Synonyms: concentric, concentrical"]}
