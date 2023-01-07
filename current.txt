@@ -1,1 +1,1 @@
-{"data": ["2023-01-07T06:00:26.026514+00:00", 8074, "Your mother is", "empurpled", "Similar to: rhetorical", "Definition: excessively elaborate or showily expressed", "Synonyms: over-embellished, purple"]}
+{"data": ["2023-01-07T07:00:16.144621+00:00", 8075, "Your mother is", "stylized", "Pronunciation: /\u02c8sta\u026a\u02ccla\u026azd/", "Definition: using artistic forms and conventions to create effects; not natural or spontaneous", "Synonyms: conventionalised, conventionalized, stylised"]}
