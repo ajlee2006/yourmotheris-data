@@ -1,1 +1,1 @@
-{"data": ["2023-01-07T08:00:13.311604+00:00", 8076, "Your mother is", "conspicuous", "Pronunciation: /k\u0259n\u02c8sp\u026akju\u0259s/", "Definition: without any attempt at concealment; completely obvious", "Synonyms: blatant, blazing"]}
+{"data": ["2023-01-07T09:00:24.160234+00:00", 8077, "Your mother is", "glittering", "Pronunciation: /\u02c8\u0261l\u026at\u025dr\u026a\u014b/", "Definition: having brief brilliant points or flashes of light", "Synonyms: aglitter, coruscant, fulgid, glinting, glistering, glittery, scintillant, scintillating, sparkly"]}
