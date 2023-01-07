@@ -1,1 +1,1 @@
-{"data": ["2023-01-07T03:00:21.471184+00:00", 8071, "Your mother is", "motionless", "Pronunciation: /\u02c8mo\u028a\u0283\u0259nl\u026as/", "Definition: not in physical motion", "Synonyms: inactive, static, still"]}
+{"data": ["2023-01-07T04:00:21.626849+00:00", 8072, "Your mother is", "solidified", "Pronunciation: /s\u028c\u02c8l\u026ad\u028c\u02ccfa\u026ad/", "Definition: changed into a solid mass", "Synonyms: coagulated"]}
