@@ -1,1 +1,1 @@
-{"data": ["2023-01-07T18:00:26.667418+00:00", 8086, "Your mother is", "pelagic", "Pronunciation: /p\u0259\u02c8l\u00e6d\u0292\u026ak/", "Definition: relating to or occurring or living in or frequenting the open ocean", "Synonyms: oceanic"]}
+{"data": ["2023-01-07T19:00:30.595882+00:00", 8087, "Your mother is", "enchanted", "Pronunciation: /\u025bn\u02c8t\u0283\u00e6nt\u026ad/", "Definition: influenced as by charms or incantations", ""]}
