@@ -1,1 +1,1 @@
-{"data": ["2023-01-07T20:00:17.456460+00:00", 8088, "Your mother is", "homocentric", "Pronunciation: /\u02ccho\u028am\u0259\u02c8s\u025bntr\u026ak/", "Definition: having a common center", "Synonyms: concentric, concentrical"]}
+{"data": ["2023-01-07T21:00:10.847514+00:00", 8089, "Your mother is", "thirty-eight", "Pronunciation: /\u02c8\u03b8\u025crti-e\u026at/", "Definition: being eight more than thirty", "Synonyms: 38, xxxviii"]}
