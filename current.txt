@@ -1,1 +1,1 @@
-{"data": ["2023-01-07T16:00:19.510452+00:00", 8084, "Your mother is", "andantino", "Pronunciation: /\u02cc\u00e6nd\u00e6n\u02c8tino\u028a/", "Definition: (of tempo) moderately fast", ""]}
+{"data": ["2023-01-07T17:00:21.297787+00:00", 8085, "Your mother is", "springlike", "Similar to: elastic", "Definition: resembling a spring or the action of a spring", ""]}
