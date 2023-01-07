@@ -1,1 +1,1 @@
-{"data": ["2023-01-07T22:00:20.205557+00:00", 8090, "Your mother is", "star-struck", "Similar to: enchanted", "Definition: fascinated by a famous person", ""]}
+{"data": ["2023-01-07T23:00:13.644123+00:00", 8091, "Your mother is", "tomentous", "Similar to: haired", "Definition: densely covered with short matted woolly hairs", "Synonyms: tomentose"]}
