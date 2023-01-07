@@ -1,1 +1,1 @@
-{"data": ["2023-01-07T21:00:10.847514+00:00", 8089, "Your mother is", "thirty-eight", "Pronunciation: /\u02c8\u03b8\u025crti-e\u026at/", "Definition: being eight more than thirty", "Synonyms: 38, xxxviii"]}
+{"data": ["2023-01-07T22:00:20.205557+00:00", 8090, "Your mother is", "star-struck", "Similar to: enchanted", "Definition: fascinated by a famous person", ""]}
