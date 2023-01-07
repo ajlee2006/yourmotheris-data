@@ -1,1 +1,1 @@
-{"data": ["2023-01-07T01:00:16.640515+00:00", 8069, "Your mother is", "left-wing", "Pronunciation: /l\u025bft-w\u026a\u014b/", "Definition: believing in or supporting tenets of the political left", "Synonyms: left-of-center, leftist"]}
+{"data": ["2023-01-07T02:00:19.213727+00:00", 8070, "Your mother is", "weatherproof", "Pronunciation: /\u02c8w\u025b\u00f0\u0259\u02ccpruf/", "Definition: able to withstand exposure to weather without damage", ""]}
