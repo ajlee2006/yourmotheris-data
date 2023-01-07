@@ -1,1 +1,1 @@
-{"data": ["2023-01-07T17:00:21.297787+00:00", 8085, "Your mother is", "springlike", "Similar to: elastic", "Definition: resembling a spring or the action of a spring", ""]}
+{"data": ["2023-01-07T18:00:26.667418+00:00", 8086, "Your mother is", "pelagic", "Pronunciation: /p\u0259\u02c8l\u00e6d\u0292\u026ak/", "Definition: relating to or occurring or living in or frequenting the open ocean", "Synonyms: oceanic"]}
