@@ -1,1 +1,1 @@
-{"data": ["2023-01-07T13:00:21.869870+00:00", 8081, "Your mother is", "rainproof", "Pronunciation: /\u02c8re\u026anpruf/", "Definition: not permitting the passage of water", "Synonyms: waterproof, waterproofed"]}
+{"data": ["2023-01-07T14:00:16.039099+00:00", 8082, "Your mother is", "unimpassioned", "Pronunciation: /\u02cc\u0259n\u026am\u02c8p\u00e6\u0283\u0259nd/", "Definition: free from emotional appeal; marked by reasonableness", ""]}
