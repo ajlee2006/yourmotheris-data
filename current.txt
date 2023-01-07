@@ -1,1 +1,1 @@
-{"data": ["2023-01-06T23:00:22.145841+00:00", 8067, "Your mother is", "violet-streaked", "Similar to: patterned", "Definition: having streaks of violet color", ""]}
+{"data": ["2023-01-07T00:01:05.758436+00:00", 8068, "Your mother is", "trilled", "Similar to: pronounceable", "Definition: uttered with a trill", "Synonyms: rolled, rolling"]}
