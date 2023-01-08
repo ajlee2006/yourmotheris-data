@@ -1,1 +1,1 @@
-{"data": ["2023-01-08T04:00:21.151385+00:00", 8096, "Your mother is", "uncrystallized", "Similar to: noncrystalline", "Definition: without real or apparent crystalline form", "Synonyms: amorphous, uncrystallised"]}
+{"data": ["2023-01-08T05:00:21.775456+00:00", 8097, "Your mother is", "unobserved", "Pronunciation: /\u02cc\u0259n\u0259b\u02c8z\u025crvd/", "Definition: not seen or observed", "Synonyms: unseen"]}
