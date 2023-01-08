@@ -1,1 +1,1 @@
-{"data": ["2023-01-08T12:00:33.324165+00:00", 8104, "Your mother is", "incredible", "Pronunciation: /\u026an\u02c8kr\u025bd\u0259b\u0259l/", "Definition: beyond belief or understanding", "Synonyms: unbelievable"]}
+{"data": ["2023-01-08T13:00:21.765737+00:00", 8105, "Your mother is", "nourished", "Pronunciation: /\u02c8n\u025dr\u026a\u0283t/", "Definition: being provided with adequate nourishment", ""]}
