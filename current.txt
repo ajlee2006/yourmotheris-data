@@ -1,1 +1,1 @@
-{"data": ["2023-01-08T16:00:25.529490+00:00", 8108, "Your mother is", "tetchy", "Pronunciation: /\u02c8t\u025b\u02a7i/", "Definition: easily irritated or annoyed", "Synonyms: cranky, fractious, irritable, nettlesome, peckish, peevish, pettish, petulant, scratchy, techy, testy"]}
+{"data": ["2023-01-08T17:00:24.344827+00:00", 8109, "Your mother is", "curving", "Pronunciation: /\u02c8k\u025drv\u026a\u014b/", "Definition: having or marked by a curve or smoothly rounded bend", "Synonyms: curved"]}
