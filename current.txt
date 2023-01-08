@@ -1,1 +1,1 @@
-{"data": ["2023-01-08T21:00:20.853902+00:00", 8113, "Your mother is", "acquiescent", "Pronunciation: /\u02cc\u00e6kwi\u02c8\u025bs\u0259nt/", "Definition: willing to carry out the orders or wishes of another without protest", "Synonyms: biddable"]}
+{"data": ["2023-01-08T22:00:14.549169+00:00", 8114, "Your mother is", "standardised", "Similar to: standard", "Definition: brought into conformity with a standard", "Synonyms: standardized"]}
