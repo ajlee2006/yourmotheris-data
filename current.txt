@@ -1,1 +1,1 @@
-{"data": ["2023-01-08T08:00:24.897303+00:00", 8100, "Your mother is", "cognizable", "Pronunciation: /\u02c8k\u0251gn\u026az\u0259b\u0259l/", "Definition: capable of being known", "Synonyms: cognisable, cognoscible, knowable"]}
+{"data": ["2023-01-08T09:00:20.883188+00:00", 8101, "Your mother is", "stuffed", "Pronunciation: /st\u028cft/", "Definition: crammed with food", ""]}
