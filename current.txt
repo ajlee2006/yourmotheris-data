@@ -1,1 +1,1 @@
-{"data": ["2023-01-08T15:00:12.282584+00:00", 8107, "Your mother is", "small-scale", "Pronunciation: /sm\u0254l-ske\u026al/", "Definition: relatively moderate, limited, or small", "Synonyms: minor, modest, pocket-size, pocket-sized, small"]}
+{"data": ["2023-01-08T16:00:25.529490+00:00", 8108, "Your mother is", "tetchy", "Pronunciation: /\u02c8t\u025b\u02a7i/", "Definition: easily irritated or annoyed", "Synonyms: cranky, fractious, irritable, nettlesome, peckish, peevish, pettish, petulant, scratchy, techy, testy"]}
