@@ -1,1 +1,1 @@
-{"data": ["2023-01-08T00:01:07.869452+00:00", 8092, "Your mother is", "everyday", "Pronunciation: /\u02c8\u025bvri\u02ccde\u026a/", "Definition: appropriate for ordinary or routine occasions", "Synonyms: casual, daily"]}
+{"data": ["2023-01-08T01:00:32.200686+00:00", 8093, "Your mother is", "proved", "Pronunciation: /pruvd/", "Definition: established beyond doubt", "Synonyms: proven"]}
