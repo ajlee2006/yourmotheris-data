@@ -1,1 +1,1 @@
-{"data": ["2023-01-08T19:00:16.489707+00:00", 8111, "Your mother is", "rough-and-ready", "Pronunciation: /\u02c8r\u0259f-\u0259n-\u02c8r\u025bdi/", "Definition: crude but effective for the purpose at hand", ""]}
+{"data": ["2023-01-08T20:00:19.823307+00:00", 8112, "Your mother is", "shut", "Pronunciation: /\u0283\u0259t/", "Definition: used especially of mouth or eyes", "Synonyms: closed"]}
