@@ -1,1 +1,1 @@
-{"data": ["2023-01-09T09:00:12.824708+00:00", 8125, "Your mother is", "ineffectual", "Pronunciation: /\u02cc\u026an\u026a\u02c8f\u025bk\u02a7u\u0259l/", "Definition: not producing an intended effect", "Synonyms: ineffective, uneffective"]}
+{"data": ["2023-01-09T10:00:14.365840+00:00", 8126, "Your mother is", "enervating", "Similar to: debilitating", "Definition: causing debilitation", "Synonyms: debilitative, enfeebling, weakening"]}
