@@ -1,1 +1,1 @@
-{"data": ["2023-01-09T17:00:29.567789+00:00", 8133, "Your mother is", "meaty", "Pronunciation: /\u02c8miti/", "Definition: being on topic and prompting thought", "Synonyms: substantive"]}
+{"data": ["2023-01-09T18:00:28.367566+00:00", 8134, "Your mother is", "fine-tooth", "Pronunciation: /fin-tu\u03b8/", "Definition: having fine teeth set close together", "Synonyms: fine-toothed"]}
