@@ -1,1 +1,1 @@
-{"data": ["2023-01-09T04:00:29.247933+00:00", 8120, "Your mother is", "determinant", "Pronunciation: /d\u026a\u02c8t\u025crm\u0259n\u0259nt/", "Definition: having the power or quality of deciding", "Synonyms: deciding, determinative, determining"]}
+{"data": ["2023-01-09T05:00:16.036321+00:00", 8121, "Your mother is", "common", "Pronunciation: /\u02c8k\u0251m\u0259n/", "Definition: common to or shared by two or more parties", "Synonyms: mutual"]}
