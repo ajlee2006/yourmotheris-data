@@ -1,1 +1,1 @@
-{"data": ["2023-01-09T16:00:34.106443+00:00", 8132, "Your mother is", "brain dead", "Similar to: dead", "Definition: having irreversible loss of brain function as indicated by a persistent flat electroencephalogram", ""]}
+{"data": ["2023-01-09T17:00:29.567789+00:00", 8133, "Your mother is", "meaty", "Pronunciation: /\u02c8miti/", "Definition: being on topic and prompting thought", "Synonyms: substantive"]}
