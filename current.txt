@@ -1,1 +1,1 @@
-{"data": ["2023-01-08T23:00:14.454223+00:00", 8115, "Your mother is", "hopeless", "Pronunciation: /\u02c8ho\u028apl\u026as/", "Definition: certain to fail", ""]}
+{"data": ["2023-01-09T00:01:13.009620+00:00", 8116, "Your mother is", "fitful", "Pronunciation: /\u02c8f\u026atf\u0259l/", "Definition: intermittently stopping and starting", "Synonyms: interrupted, off-and-on"]}
