@@ -1,1 +1,1 @@
-{"data": ["2023-01-09T11:00:20.526481+00:00", 8127, "Your mother is", "unsalted", "Pronunciation: /\u0259n\u02c8s\u0251lt\u026ad/", "Definition: without salt or seasoning", "Synonyms: unseasoned"]}
+{"data": ["2023-01-09T12:00:22.642487+00:00", 8128, "Your mother is", "purplish-blue", "Similar to: chromatic", "Definition: of blue tinged with purple", "Synonyms: purple-blue"]}
