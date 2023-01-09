@@ -1,1 +1,1 @@
-{"data": ["2023-01-09T01:00:31.451023+00:00", 8117, "Your mother is", "titular", "Pronunciation: /\u02c8t\u026a\u02a7\u0259l\u0259r/", "Definition: existing in name only", "Synonyms: nominal"]}
+{"data": ["2023-01-09T02:00:19.346590+00:00", 8118, "Your mother is", "amphitropous", "Pronunciation: /\u00e6m\u02c8f\u026atr\u0259p\u0259s/", "Definition: (of a plant ovule) partly inverted; turned back 90 degrees on its stalk", ""]}
