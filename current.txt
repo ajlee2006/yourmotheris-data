@@ -1,1 +1,1 @@
-{"data": ["2023-01-09T08:00:20.564417+00:00", 8124, "Your mother is", "courageous", "Pronunciation: /k\u0259\u02c8re\u026ad\u0292\u0259s/", "Definition: possessing or displaying courage; able to face and deal with danger or fear without flinching", "Synonyms: brave"]}
+{"data": ["2023-01-09T09:00:12.824708+00:00", 8125, "Your mother is", "ineffectual", "Pronunciation: /\u02cc\u026an\u026a\u02c8f\u025bk\u02a7u\u0259l/", "Definition: not producing an intended effect", "Synonyms: ineffective, uneffective"]}
