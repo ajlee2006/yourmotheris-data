@@ -1,1 +1,1 @@
-{"data": ["2023-01-09T22:00:16.047610+00:00", 8138, "Your mother is", "candy-like", "Similar to: cooked", "Definition: resembling candy", ""]}
+{"data": ["2023-01-09T23:00:16.170129+00:00", 8139, "Your mother is", "parentless", "Similar to: fatherless", "Definition: having no parent or parents or not cared for by parent surrogates", "Synonyms: unparented"]}
