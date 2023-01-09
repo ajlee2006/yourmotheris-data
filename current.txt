@@ -1,1 +1,1 @@
-{"data": ["2023-01-09T06:00:14.128527+00:00", 8122, "Your mother is", "exhaustible", "Similar to: depletable", "Definition: capable of being used up", ""]}
+{"data": ["2023-01-09T07:00:24.835909+00:00", 8123, "Your mother is", "rimy", "Pronunciation: /\u02c8ra\u026ami/", "Definition: covered with frost", "Synonyms: frosty, rimed"]}
