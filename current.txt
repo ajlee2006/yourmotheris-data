@@ -1,1 +1,1 @@
-{"data": ["2023-01-09T05:00:16.036321+00:00", 8121, "Your mother is", "common", "Pronunciation: /\u02c8k\u0251m\u0259n/", "Definition: common to or shared by two or more parties", "Synonyms: mutual"]}
+{"data": ["2023-01-09T06:00:14.128527+00:00", 8122, "Your mother is", "exhaustible", "Similar to: depletable", "Definition: capable of being used up", ""]}
