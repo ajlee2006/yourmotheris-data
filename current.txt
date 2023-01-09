@@ -1,1 +1,1 @@
-{"data": ["2023-01-09T14:00:26.854186+00:00", 8130, "Your mother is", "matt", "Pronunciation: /m\u00e6t/", "Definition: not reflecting light; not glossy", "Synonyms: flat, mat, matte, matted"]}
+{"data": ["2023-01-09T15:00:29.265810+00:00", 8131, "Your mother is", "ameboid", "Pronunciation: /\u0259\u02c8mib\u0254\u026ad/", "Definition: like an amoeba (especially in having a variable irregular shape)", "Synonyms: amoeboid"]}
