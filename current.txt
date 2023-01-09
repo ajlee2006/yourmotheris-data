@@ -1,1 +1,1 @@
-{"data": ["2023-01-09T03:00:17.191207+00:00", 8119, "Your mother is", "unromantic", "Pronunciation: /\u02cc\u0259nr\u0259\u02c8m\u00e6nt\u026ak/", "Definition: neither expressive of nor exciting sexual love or romance", ""]}
+{"data": ["2023-01-09T04:00:29.247933+00:00", 8120, "Your mother is", "determinant", "Pronunciation: /d\u026a\u02c8t\u025crm\u0259n\u0259nt/", "Definition: having the power or quality of deciding", "Synonyms: deciding, determinative, determining"]}
