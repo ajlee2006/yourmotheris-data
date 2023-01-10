@@ -1,1 +1,1 @@
-{"data": ["2023-01-10T08:00:27.806699+00:00", 8148, "Your mother is", "stertorous", "Pronunciation: /\u02c8st\u025crt\u0259r\u0259s/", "Definition: of breathing having a heavy snoring sound", ""]}
+{"data": ["2023-01-10T09:00:31.575725+00:00", 8149, "Your mother is", "uncrowned", "Pronunciation: /\u0259n\u02c8kra\u028and/", "Definition: not (especially not yet) provided with a crown", "Synonyms: crownless"]}
