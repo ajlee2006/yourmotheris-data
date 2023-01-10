@@ -1,1 +1,1 @@
-{"data": ["2023-01-10T07:00:21.997413+00:00", 8147, "Your mother is", "kindly", "Pronunciation: /\u02c8ka\u026andli/", "Definition: showing or motivated by sympathy and understanding and generosity", "Synonyms: benevolent, charitable, good-hearted, large-hearted, openhearted, sympathetic"]}
+{"data": ["2023-01-10T08:00:27.806699+00:00", 8148, "Your mother is", "stertorous", "Pronunciation: /\u02c8st\u025crt\u0259r\u0259s/", "Definition: of breathing having a heavy snoring sound", ""]}
