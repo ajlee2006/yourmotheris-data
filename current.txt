@@ -1,1 +1,1 @@
-{"data": ["2023-01-10T05:00:26.674417+00:00", 8145, "Your mother is", "empty-headed", "Pronunciation: /\u02c8\u025bmpti-\u02c8h\u025bd\u026ad/", "Definition: lacking seriousness; given to frivolity", "Synonyms: airheaded, dizzy, featherbrained, giddy, light-headed, lightheaded, silly"]}
+{"data": ["2023-01-10T06:00:26.592046+00:00", 8146, "Your mother is", "uncategorised", "Similar to: unclassified", "Definition: not categorized or sorted", "Synonyms: uncategorized, unsorted"]}
