@@ -1,1 +1,1 @@
-{"data": ["2023-01-10T09:00:31.575725+00:00", 8149, "Your mother is", "uncrowned", "Pronunciation: /\u0259n\u02c8kra\u028and/", "Definition: not (especially not yet) provided with a crown", "Synonyms: crownless"]}
+{"data": ["2023-01-10T10:00:20.360410+00:00", 8150, "Your mother is", "smutty", "Pronunciation: /\u02c8sm\u0259ti/", "Definition: soiled with dirt or soot", "Synonyms: black"]}
