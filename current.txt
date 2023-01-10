@@ -1,1 +1,1 @@
-{"data": ["2023-01-10T03:00:15.818396+00:00", 8143, "Your mother is", "browned", "Pronunciation: /bra\u028and/", "Definition: (of skin) deeply suntanned", "Synonyms: brown"]}
+{"data": ["2023-01-10T04:00:29.551267+00:00", 8144, "Your mother is", "anestric", "", "Definition: of or relating to anestrus", "Synonyms: anestrous, anoestrous"]}
