@@ -1,1 +1,1 @@
-{"data": ["2023-01-10T06:00:26.592046+00:00", 8146, "Your mother is", "uncategorised", "Similar to: unclassified", "Definition: not categorized or sorted", "Synonyms: uncategorized, unsorted"]}
+{"data": ["2023-01-10T07:00:21.997413+00:00", 8147, "Your mother is", "kindly", "Pronunciation: /\u02c8ka\u026andli/", "Definition: showing or motivated by sympathy and understanding and generosity", "Synonyms: benevolent, charitable, good-hearted, large-hearted, openhearted, sympathetic"]}
