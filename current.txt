@@ -1,1 +1,1 @@
-{"data": ["2023-01-10T01:00:17.068490+00:00", 8141, "Your mother is", "operose", "Pronunciation: /\u02c8\u0251p\u0259\u02ccro\u028as/", "Definition: characterized by effort to the point of exhaustion; especially physical effort", "Synonyms: arduous, backbreaking, grueling, gruelling, hard, heavy, laborious, punishing, toilsome"]}
+{"data": ["2023-01-10T02:00:25.364365+00:00", 8142, "Your mother is", "ungathered", "", "Definition: not brought together in one place", "Synonyms: uncollected"]}
