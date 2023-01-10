@@ -1,1 +1,1 @@
-{"data": ["2023-01-10T13:00:18.743575+00:00", 8153, "Your mother is", "vapourific", "Pronunciation: /\u02ccve\u026ap\u0259\u02c8r\u026af\u026ak/", "Definition: resembling or characteristic of vapor", "Synonyms: vaporific, vaporish, vaporous, vapourish, vapourous"]}
+{"data": ["2023-01-10T14:00:29.292656+00:00", 8154, "Your mother is", "barefooted", "Pronunciation: /\u02c8b\u025cr\u02ccf\u028at\u026ad/", "Definition: without shoes", "Synonyms: barefoot, shoeless"]}
