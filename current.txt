@@ -1,1 +1,1 @@
-{"data": ["2023-01-11T07:00:27.891976+00:00", 8171, "Your mother is", "unrequited", "Pronunciation: /\u02cc\u0259nri\u02c8kwa\u026at\u026ad/", "Definition: not returned in kind", "Synonyms: unanswered, unreciprocated"]}
+{"data": ["2023-01-11T08:00:27.595209+00:00", 8172, "Your mother is", "dowdy", "Pronunciation: /\u02c8da\u028adi/", "Definition: primly out of date", "Synonyms: frumpish, frumpy"]}
