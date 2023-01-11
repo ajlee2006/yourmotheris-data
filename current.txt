@@ -1,1 +1,1 @@
-{"data": ["2023-01-11T19:00:18.769385+00:00", 8183, "Your mother is", "lesser", "Pronunciation: /\u02c8l\u025bs\u0259r/", "Definition: smaller in size or amount or value", ""]}
+{"data": ["2023-01-11T20:00:24.807611+00:00", 8184, "Your mother is", "sacculated", "", "Definition: formed with or having saclike expansions", "Synonyms: sacculate"]}
