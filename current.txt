@@ -1,1 +1,1 @@
-{"data": ["2023-01-11T09:00:16.902084+00:00", 8173, "Your mother is", "graduate", "Pronunciation: /\u02c8gr\u00e6d\u0292u\u02cce\u026at/", "Definition: of or relating to studies beyond a bachelor's degree", "Synonyms: postgraduate"]}
+{"data": ["2023-01-11T10:00:27.150264+00:00", 8174, "Your mother is", "antic", "Pronunciation: /\u02c8\u00e6nt\u026ak/", "Definition: ludicrously odd", "Synonyms: fantastic, fantastical, grotesque"]}
