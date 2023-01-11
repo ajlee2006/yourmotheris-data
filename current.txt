@@ -1,1 +1,1 @@
-{"data": ["2023-01-11T16:00:25.377650+00:00", 8180, "Your mother is", "upscale", "Pronunciation: /\u02c8\u0259pske\u026al/", "Definition: appropriate for people with good incomes", ""]}
+{"data": ["2023-01-11T17:00:27.602389+00:00", 8181, "Your mother is", "biovular", "", "Definition: (of twins) derived from two separate fertilized ova", "Synonyms: fraternal"]}
