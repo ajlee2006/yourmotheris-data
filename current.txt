@@ -1,1 +1,1 @@
-{"data": ["2023-01-11T08:00:27.595209+00:00", 8172, "Your mother is", "dowdy", "Pronunciation: /\u02c8da\u028adi/", "Definition: primly out of date", "Synonyms: frumpish, frumpy"]}
+{"data": ["2023-01-11T09:00:16.902084+00:00", 8173, "Your mother is", "graduate", "Pronunciation: /\u02c8gr\u00e6d\u0292u\u02cce\u026at/", "Definition: of or relating to studies beyond a bachelor's degree", "Synonyms: postgraduate"]}
