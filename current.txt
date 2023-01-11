@@ -1,1 +1,1 @@
-{"data": ["2023-01-11T02:00:19.833866+00:00", 8166, "Your mother is", "seeping", "Pronunciation: /\u02c8sip\u026a\u014b/", "Definition: leaking out slowly", "Synonyms: oozing, oozy"]}
+{"data": ["2023-01-11T03:00:24.062614+00:00", 8167, "Your mother is", "metric", "Pronunciation: /\u02c8m\u025btr\u026ak/", "Definition: the rhythmic arrangement of syllables", "Synonyms: measured, metrical"]}
