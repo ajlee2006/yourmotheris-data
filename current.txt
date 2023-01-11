@@ -1,1 +1,1 @@
-{"data": ["2023-01-11T14:00:22.915270+00:00", 8178, "Your mother is", "a posteriori", "Pronunciation: /\u02cce\u026a-p\u0251\u02ccstiri\u02c8o\u028ari/", "Definition: involving reasoning from facts or particulars to general principles or from effects to causes", ""]}
+{"data": ["2023-01-11T15:00:31.216829+00:00", 8179, "Your mother is", "brutish", "Pronunciation: /\u02c8brut\u026a\u0283/", "Definition: resembling a beast; showing lack of human sensibility", "Synonyms: beastly, bestial, brutal, brute"]}
