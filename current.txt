@@ -1,1 +1,1 @@
-{"data": ["2023-01-11T12:00:21.556274+00:00", 8176, "Your mother is", "branching", "Pronunciation: /\u02c8br\u00e6nt\u0283\u026a\u014b/", "Definition: having branches", "Synonyms: branched, ramate, ramose, ramous"]}
+{"data": ["2023-01-11T13:00:19.832035+00:00", 8177, "Your mother is", "derelict", "Pronunciation: /\u02c8d\u025br\u0259l\u026akt/", "Definition: failing in what duty requires", "Synonyms: delinquent, neglectful, remiss"]}
