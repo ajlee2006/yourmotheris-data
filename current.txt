@@ -1,1 +1,1 @@
-{"data": ["2023-01-11T03:00:24.062614+00:00", 8167, "Your mother is", "metric", "Pronunciation: /\u02c8m\u025btr\u026ak/", "Definition: the rhythmic arrangement of syllables", "Synonyms: measured, metrical"]}
+{"data": ["2023-01-11T04:00:21.560746+00:00", 8168, "Your mother is", "hardline", "Pronunciation: /\u02c8h\u0251rd\u02ccla\u026an/", "Definition: firm and uncompromising", "Synonyms: hard-line"]}
