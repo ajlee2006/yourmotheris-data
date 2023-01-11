@@ -1,1 +1,1 @@
-{"data": ["2023-01-11T01:00:23.503589+00:00", 8165, "Your mother is", "unexceptionable", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8s\u025bp\u0283\u0259n\u0259b\u0259l/", "Definition: completely acceptable; not open to exception or reproach", "Synonyms: unimpeachable"]}
+{"data": ["2023-01-11T02:00:19.833866+00:00", 8166, "Your mother is", "seeping", "Pronunciation: /\u02c8sip\u026a\u014b/", "Definition: leaking out slowly", "Synonyms: oozing, oozy"]}
