@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T06:00:27.460494+00:00", 8194, "Your mother is", "four-footed", "Pronunciation: /\u02c8fo\u028ar\u02c8f\u028at\u026ad/", "Definition: having four feet", "Synonyms: quadruped, quadrupedal"]}
+{"data": ["2023-01-12T07:00:23.014617+00:00", 8195, "Your mother is", "bathetic", "Pronunciation: /b\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: effusively or insincerely emotional", "Synonyms: drippy, hokey, kitschy, maudlin, mawkish, mushy, sappy, schmaltzy, schmalzy, sentimental, slushy, soppy, soupy"]}
