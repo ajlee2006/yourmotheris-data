@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T04:00:14.354625+00:00", 8192, "Your mother is", "green", "Pronunciation: /grin/", "Definition: of the color between blue and yellow in the color spectrum; similar to the color of fresh grass", "Synonyms: dark-green, greenish, light-green"]}
+{"data": ["2023-01-12T05:00:26.509935+00:00", 8193, "Your mother is", "orthodox", "Pronunciation: /\u02c8\u0254r\u03b8\u0259\u02ccd\u0251ks/", "Definition: of or pertaining to or characteristic of Judaism", "Synonyms: jewish-orthodox"]}
