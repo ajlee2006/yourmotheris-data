@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T11:00:29.446185+00:00", 8199, "Your mother is", "sharp-limbed", "Similar to: limbed", "Definition: having sharp limbs", ""]}
+{"data": ["2023-01-12T12:00:16.444017+00:00", 8200, "Your mother is", "apologetic", "Pronunciation: /\u0259\u02ccp\u0251l\u0259\u02c8d\u0292\u025bt\u026ak/", "Definition: offering or expressing apology", "Synonyms: excusatory"]}
