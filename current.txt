@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T10:00:19.519024+00:00", 8198, "Your mother is", "slow-moving", "Pronunciation: /slo\u028a-\u02c8muv\u026a\u014b/", "Definition: moving slowly", ""]}
+{"data": ["2023-01-12T11:00:29.446185+00:00", 8199, "Your mother is", "sharp-limbed", "Similar to: limbed", "Definition: having sharp limbs", ""]}
