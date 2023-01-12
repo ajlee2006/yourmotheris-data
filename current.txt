@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T00:01:00.537214+00:00", 8188, "Your mother is", "soothing", "Pronunciation: /\u02c8su\u00f0\u026a\u014b/", "Definition: freeing from fear and anxiety", "Synonyms: assuasive"]}
+{"data": ["2023-01-12T01:00:30.385514+00:00", 8189, "Your mother is", "unmitigated", "Pronunciation: /\u0259n\u02c8m\u026at\u0259\u02cc\u0261e\u026at\u026ad/", "Definition: not diminished or moderated in intensity or severity; sometimes used as an intensifier", ""]}
