@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T12:00:16.444017+00:00", 8200, "Your mother is", "apologetic", "Pronunciation: /\u0259\u02ccp\u0251l\u0259\u02c8d\u0292\u025bt\u026ak/", "Definition: offering or expressing apology", "Synonyms: excusatory"]}
+{"data": ["2023-01-12T13:00:21.523069+00:00", 8201, "Your mother is", "semi-processed", "Similar to: processed", "Definition: having been subjected to partial processing", ""]}
