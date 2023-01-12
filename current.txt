@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T03:00:18.445545+00:00", 8191, "Your mother is", "in stock", "Similar to: available", "Definition: available for use or sale", ""]}
+{"data": ["2023-01-12T04:00:14.354625+00:00", 8192, "Your mother is", "green", "Pronunciation: /grin/", "Definition: of the color between blue and yellow in the color spectrum; similar to the color of fresh grass", "Synonyms: dark-green, greenish, light-green"]}
