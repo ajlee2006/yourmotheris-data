@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T13:00:21.523069+00:00", 8201, "Your mother is", "semi-processed", "Similar to: processed", "Definition: having been subjected to partial processing", ""]}
+{"data": ["2023-01-12T14:00:16.585831+00:00", 8202, "Your mother is", "haematological", "", "Definition: of or relating to or involved in hematology", "Synonyms: hematologic, hematological"]}
