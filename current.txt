@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T15:00:15.900030+00:00", 8203, "Your mother is", "authorized", "Pronunciation: /\u02c8\u0254\u03b8\u0259\u02ccra\u026azd/", "Definition: endowed with authority", "Synonyms: authorised"]}
+{"data": ["2023-01-12T16:00:24.303346+00:00", 8204, "Your mother is", "trinuclear", "", "Definition: having three nuclei", "Synonyms: trinucleate, trinucleated"]}
