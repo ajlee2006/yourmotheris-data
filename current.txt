@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T22:00:28.645622+00:00", 8210, "Your mother is", "collateral", "Pronunciation: /k\u0259\u02c8l\u00e6t\u0259r\u0259l/", "Definition: occurring with or following as a consequence", "Synonyms: accompanying, attendant, concomitant, consequent, ensuant, incidental, resultant, sequent"]}
+{"data": ["2023-01-12T23:00:23.232699+00:00", 8211, "Your mother is", "nefarious", "Pronunciation: /n\u026a\u02c8f\u025cri\u0259s/", "Definition: extremely wicked", "Synonyms: villainous"]}
