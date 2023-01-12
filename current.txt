@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T19:00:24.807049+00:00", 8207, "Your mother is", "well-found", "Pronunciation: /w\u025bl-fa\u028and/", "Definition: having a full array of suitable equipment or furnishings", "Synonyms: well-appointed"]}
+{"data": ["2023-01-12T20:00:11.704260+00:00", 8208, "Your mother is", "pretorian", "Similar to: corrupt", "Definition: characteristic of or similar to the corruptible soldiers in the Praetorian Guard with respect to corruption or political venality", "Synonyms: praetorian"]}
