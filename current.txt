@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T08:00:27.813832+00:00", 8196, "Your mother is", "two-lipped", "Pronunciation: /tu-l\u026apt/", "Definition: having two lips", "Synonyms: bilabiate"]}
+{"data": ["2023-01-12T09:00:25.876829+00:00", 8197, "Your mother is", "susurrant", "Pronunciation: /s\u028a\u02c8s\u025cr\u0259nt/", "Definition: making a low continuous indistinct sound", "Synonyms: murmuring, whispering"]}
