@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T14:00:16.585831+00:00", 8202, "Your mother is", "haematological", "", "Definition: of or relating to or involved in hematology", "Synonyms: hematologic, hematological"]}
+{"data": ["2023-01-12T15:00:15.900030+00:00", 8203, "Your mother is", "authorized", "Pronunciation: /\u02c8\u0254\u03b8\u0259\u02ccra\u026azd/", "Definition: endowed with authority", "Synonyms: authorised"]}
