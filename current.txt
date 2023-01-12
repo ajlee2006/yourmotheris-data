@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T09:00:25.876829+00:00", 8197, "Your mother is", "susurrant", "Pronunciation: /s\u028a\u02c8s\u025cr\u0259nt/", "Definition: making a low continuous indistinct sound", "Synonyms: murmuring, whispering"]}
+{"data": ["2023-01-12T10:00:19.519024+00:00", 8198, "Your mother is", "slow-moving", "Pronunciation: /slo\u028a-\u02c8muv\u026a\u014b/", "Definition: moving slowly", ""]}
