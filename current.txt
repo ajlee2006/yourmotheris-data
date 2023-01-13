@@ -1,1 +1,1 @@
-{"data": ["2023-01-13T20:00:19.617551+00:00", 8232, "Your mother is", "rum", "Pronunciation: /r\u0259m/", "Definition: beyond or deviating from the usual or expected", "Synonyms: curious, funny, odd, peculiar, queer, rummy, singular"]}
+{"data": ["2023-01-13T21:00:30.342772+00:00", 8233, "Your mother is", "contemporary", "Pronunciation: /k\u0259n\u02c8t\u025bmp\u0259\u02ccr\u025bri/", "Definition: occurring in the same period of time", "Synonyms: contemporaneous"]}
