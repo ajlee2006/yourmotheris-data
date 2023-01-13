@@ -1,1 +1,1 @@
-{"data": ["2023-01-13T19:00:20.088560+00:00", 8231, "Your mother is", "consecrated", "Pronunciation: /\u02c8k\u0251ns\u028c\u02cckre\u026at\u028cd/", "Definition: made or declared or believed to be holy; devoted to a deity or some religious ceremony or use", "Synonyms: sacred, sanctified"]}
+{"data": ["2023-01-13T20:00:19.617551+00:00", 8232, "Your mother is", "rum", "Pronunciation: /r\u0259m/", "Definition: beyond or deviating from the usual or expected", "Synonyms: curious, funny, odd, peculiar, queer, rummy, singular"]}
