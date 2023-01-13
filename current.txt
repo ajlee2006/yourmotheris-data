@@ -1,1 +1,1 @@
-{"data": ["2023-01-13T21:00:30.342772+00:00", 8233, "Your mother is", "contemporary", "Pronunciation: /k\u0259n\u02c8t\u025bmp\u0259\u02ccr\u025bri/", "Definition: occurring in the same period of time", "Synonyms: contemporaneous"]}
+{"data": ["2023-01-13T22:00:21.178711+00:00", 8234, "Your mother is", "unfrozen", "Pronunciation: /\u028cn\u02c8fro\u028az\u026an/", "Definition: not frozen", ""]}
