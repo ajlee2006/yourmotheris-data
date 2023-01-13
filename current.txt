@@ -1,1 +1,1 @@
-{"data": ["2023-01-13T16:00:28.381605+00:00", 8228, "Your mother is", "self-generated", "Pronunciation: /\u02ccs\u025blf\u02c8d\u0292\u025bn\u0259\u02ccre\u026at\u026ad/", "Definition: originating from the self", "Synonyms: self-produced"]}
+{"data": ["2023-01-13T17:00:22.690320+00:00", 8229, "Your mother is", "hag-ridden", "Pronunciation: /h\u00e6g-\u02c8r\u026ad\u0259n/", "Definition: tormented or harassed by nightmares or unreasonable fears", "Synonyms: hagridden, tormented"]}
