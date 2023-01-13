@@ -1,1 +1,1 @@
-{"data": ["2023-01-13T15:00:23.657390+00:00", 8227, "Your mother is", "excursive", "Pronunciation: /\u026ak\u02c8sk\u025crs\u026av/", "Definition: (of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects", "Synonyms: digressive, discursive, rambling"]}
+{"data": ["2023-01-13T16:00:28.381605+00:00", 8228, "Your mother is", "self-generated", "Pronunciation: /\u02ccs\u025blf\u02c8d\u0292\u025bn\u0259\u02ccre\u026at\u026ad/", "Definition: originating from the self", "Synonyms: self-produced"]}
