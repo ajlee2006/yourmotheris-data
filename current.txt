@@ -1,1 +1,1 @@
-{"data": ["2023-01-13T07:00:28.850138+00:00", 8219, "Your mother is", "unfamiliar", "Pronunciation: /\u02cc\u0259nf\u0259\u02c8m\u026alj\u0259r/", "Definition: not known or well known", ""]}
+{"data": ["2023-01-13T08:00:32.290560+00:00", 8220, "Your mother is", "oozing", "Pronunciation: /\u02c8uz\u026a\u014b/", "Definition: leaking out slowly", "Synonyms: oozy, seeping"]}
