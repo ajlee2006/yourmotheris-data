@@ -1,1 +1,1 @@
-{"data": ["2023-01-13T17:00:22.690320+00:00", 8229, "Your mother is", "hag-ridden", "Pronunciation: /h\u00e6g-\u02c8r\u026ad\u0259n/", "Definition: tormented or harassed by nightmares or unreasonable fears", "Synonyms: hagridden, tormented"]}
+{"data": ["2023-01-13T18:00:31.355534+00:00", 8230, "Your mother is", "without a stitch", "Similar to: unclothed", "Definition: without any clothing at all", ""]}
