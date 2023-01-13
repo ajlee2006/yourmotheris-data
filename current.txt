@@ -1,1 +1,1 @@
-{"data": ["2023-01-13T12:00:23.533115+00:00", 8224, "Your mother is", "merged", "Pronunciation: /m\u025drd\u0292d/", "Definition: formed or united into a whole", "Synonyms: incorporate, incorporated, integrated, unified"]}
+{"data": ["2023-01-13T13:00:38.759309+00:00", 8225, "Your mother is", "homological", "Pronunciation: /\u02ccho\u028am\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: similar in evolutionary origin but not in function", "Synonyms: homologic"]}
