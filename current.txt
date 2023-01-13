@@ -1,1 +1,1 @@
-{"data": ["2023-01-13T10:00:28.153682+00:00", 8222, "Your mother is", "well-to-do", "Pronunciation: /w\u025bl-t\u0259\u02c8du/", "Definition: in fortunate circumstances financially; moderately rich", "Synonyms: comfortable, easy, prosperous, well-fixed, well-heeled, well-off, well-situated"]}
+{"data": ["2023-01-13T11:00:20.620451+00:00", 8223, "Your mother is", "trained", "Pronunciation: /tre\u026and/", "Definition: shaped or conditioned or disciplined by training; often used as a combining form", ""]}
