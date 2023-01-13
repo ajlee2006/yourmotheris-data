@@ -1,1 +1,1 @@
-{"data": ["2023-01-12T23:00:23.232699+00:00", 8211, "Your mother is", "nefarious", "Pronunciation: /n\u026a\u02c8f\u025cri\u0259s/", "Definition: extremely wicked", "Synonyms: villainous"]}
+{"data": ["2023-01-13T00:00:58.462881+00:00", 8212, "Your mother is", "acarpellous", "", "Definition: having no carpels", "Synonyms: acarpelous"]}
