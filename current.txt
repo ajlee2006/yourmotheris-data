@@ -1,1 +1,1 @@
-{"data": ["2023-01-14T22:00:23.705771+00:00", 8258, "Your mother is", "unjustified", "Pronunciation: /\u0259n\u02c8d\u0292\u0259st\u026a\u02ccfa\u026ad/", "Definition: lacking justification or authorization", "Synonyms: undue, unwarranted"]}
+{"data": ["2023-01-14T23:00:29.419810+00:00", 8259, "Your mother is", "round-the-clock", "Pronunciation: /\u02c8ra\u028and-\u00f0\u0259-\u02c8kl\u0251k/", "Definition: at all times", "Synonyms: around-the-clock, day-and-night, nonstop"]}
