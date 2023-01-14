@@ -1,1 +1,1 @@
-{"data": ["2023-01-14T18:00:19.177997+00:00", 8254, "Your mother is", "buttery", "Pronunciation: /\u02c8b\u0259t\u0259ri/", "Definition: unpleasantly and excessively suave or ingratiating in manner or speech", "Synonyms: fulsome, oily, oleaginous, smarmy, soapy, unctuous"]}
+{"data": ["2023-01-14T19:00:20.969410+00:00", 8255, "Your mother is", "paying", "Pronunciation: /\u02c8pe\u026a\u026a\u014b/", "Definition: yielding a fair profit", "Synonyms: gainful, paid"]}
