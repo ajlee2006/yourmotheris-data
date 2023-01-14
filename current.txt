@@ -1,1 +1,1 @@
-{"data": ["2023-01-14T00:01:00.695502+00:00", 8236, "Your mother is", "jaded", "Pronunciation: /\u02c8d\u0292e\u026ad\u026ad/", "Definition: exhausted", "Synonyms: wearied"]}
+{"data": ["2023-01-14T01:00:17.465512+00:00", 8237, "Your mother is", "hellish", "Pronunciation: /\u02c8h\u025bl\u026a\u0283/", "Definition: extremely evil or cruel; expressive of cruelty or befitting hell", "Synonyms: demonic, diabolic, diabolical, fiendish, infernal, satanic, unholy"]}
