@@ -1,1 +1,1 @@
-{"data": ["2023-01-14T06:00:15.996700+00:00", 8242, "Your mother is", "hedged", "Pronunciation: /h\u025bd\u0292d/", "Definition: evasively worded in order to avoid an unqualified statement", "Synonyms: weasel-worded"]}
+{"data": ["2023-01-14T07:00:13.331172+00:00", 8243, "Your mother is", "bit-by-bit", "Similar to: gradual", "Definition: one thing at a time", "Synonyms: in small stages, piecemeal, step-by-step, stepwise"]}
