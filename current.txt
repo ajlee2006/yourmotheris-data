@@ -1,1 +1,1 @@
-{"data": ["2023-01-14T21:00:12.933751+00:00", 8257, "Your mother is", "shingly", "Pronunciation: /\u02c8\u0283\u026a\u014bgli/", "Definition: abounding in small stones", "Synonyms: gravelly, pebbly"]}
+{"data": ["2023-01-14T22:00:23.705771+00:00", 8258, "Your mother is", "unjustified", "Pronunciation: /\u0259n\u02c8d\u0292\u0259st\u026a\u02ccfa\u026ad/", "Definition: lacking justification or authorization", "Synonyms: undue, unwarranted"]}
