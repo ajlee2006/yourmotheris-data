@@ -1,1 +1,1 @@
-{"data": ["2023-01-14T02:00:14.285745+00:00", 8238, "Your mother is", "accurate", "Pronunciation: /\u02c8\u00e6kj\u0259r\u026at/", "Definition: (of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth; strictly correct", "Synonyms: exact, precise"]}
+{"data": ["2023-01-14T03:00:32.546637+00:00", 8239, "Your mother is", "unpleasing", "Pronunciation: /\u0259n\u02c8plizi\u014b/", "Definition: unpleasant or disagreeable to the senses", ""]}
