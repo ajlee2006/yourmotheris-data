@@ -1,1 +1,1 @@
-{"data": ["2023-01-14T13:00:19.198601+00:00", 8249, "Your mother is", "patient of", "Similar to: patient", "Definition: showing the capacity for endurance", "Synonyms: tolerant"]}
+{"data": ["2023-01-14T14:00:19.130594+00:00", 8250, "Your mother is", "synchronous", "Pronunciation: /\u02c8s\u026a\u014bkr\u0259n\u0259s/", "Definition: occurring or existing at the same time or having the same period or phase", "Synonyms: synchronal, synchronic"]}
