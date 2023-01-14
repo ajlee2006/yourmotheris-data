@@ -1,1 +1,1 @@
-{"data": ["2023-01-14T14:00:19.130594+00:00", 8250, "Your mother is", "synchronous", "Pronunciation: /\u02c8s\u026a\u014bkr\u0259n\u0259s/", "Definition: occurring or existing at the same time or having the same period or phase", "Synonyms: synchronal, synchronic"]}
+{"data": ["2023-01-14T15:00:24.977043+00:00", 8251, "Your mother is", "haemopoietic", "", "Definition: pertaining to the formation of blood or blood cells", "Synonyms: haematogenic, haematopoietic, hematogenic, hematopoietic, hemopoietic"]}
