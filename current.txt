@@ -1,1 +1,1 @@
-{"data": ["2023-01-14T11:00:16.504880+00:00", 8247, "Your mother is", "incapacitating", "Pronunciation: /\u026ank\u028c\u02c8p\u00e6s\u026a\u02ccte\u026at\u026a\u014b/", "Definition: that cripples or disables or incapacitates", "Synonyms: crippling, disabling"]}
+{"data": ["2023-01-14T12:00:28.478416+00:00", 8248, "Your mother is", "high-speed", "Pronunciation: /ha\u026a-spid/", "Definition: operating at high speed", "Synonyms: high-velocity"]}
