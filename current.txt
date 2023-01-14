@@ -1,1 +1,1 @@
-{"data": ["2023-01-14T05:00:19.307151+00:00", 8241, "Your mother is", "white-flowered", "Pronunciation: /hwa\u026at-\u02c8fla\u028a\u0259rd/", "Definition: (of plants) having white flowers", ""]}
+{"data": ["2023-01-14T06:00:15.996700+00:00", 8242, "Your mother is", "hedged", "Pronunciation: /h\u025bd\u0292d/", "Definition: evasively worded in order to avoid an unqualified statement", "Synonyms: weasel-worded"]}
