@@ -1,1 +1,1 @@
-{"data": ["2023-01-14T09:00:26.831107+00:00", 8245, "Your mother is", "crusted", "Pronunciation: /\u02c8kr\u0259st\u026ad/", "Definition: having a hardened crust as a covering", "Synonyms: crustlike, crusty, encrusted"]}
+{"data": ["2023-01-14T10:00:25.129887+00:00", 8246, "Your mother is", "hairless", "Pronunciation: /\u02c8h\u025crl\u026as/", "Definition: having no hair or fur", ""]}
