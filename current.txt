@@ -1,1 +1,1 @@
-{"data": ["2023-01-15T05:00:19.748301+00:00", 8265, "Your mother is", "germane", "Pronunciation: /d\u0292\u0259r\u02c8me\u026an/", "Definition: relevant and appropriate", ""]}
+{"data": ["2023-01-15T06:00:21.219257+00:00", 8266, "Your mother is", "lanate", "Pronunciation: /\u02c8le\u026ane\u026at/", "Definition: covered with dense cottony hairs or hairlike filaments", "Synonyms: woolly"]}
