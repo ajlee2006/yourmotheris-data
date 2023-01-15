@@ -1,1 +1,1 @@
-{"data": ["2023-01-15T00:00:47.386804+00:00", 8260, "Your mother is", "retro", "Pronunciation: /\u02c8r\u025btro\u028a/", "Definition: affecting things past", "Synonyms: ex post facto, retroactive"]}
+{"data": ["2023-01-15T01:00:16.950962+00:00", 8261, "Your mother is", "out-of-date", "Pronunciation: /\u02c8a\u028at\u0259v\u02c8de\u026at/", "Definition: old; no longer valid or fashionable", "Synonyms: outdated, superannuated"]}
