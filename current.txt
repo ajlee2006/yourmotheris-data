@@ -1,1 +1,1 @@
-{"data": ["2023-01-15T17:00:17.898963+00:00", 8277, "Your mother is", "legato", "Pronunciation: /l\u0259\u02c8\u0261\u0251to\u028a/", "Definition: (music) without breaks between notes; smooth and connected", "Synonyms: smooth"]}
+{"data": ["2023-01-15T18:00:27.567426+00:00", 8278, "Your mother is", "batholitic", "Pronunciation: /\u02ccb\u00e6\u03b8\u0259\u02c8l\u026at\u026ak/", "Definition: of or relating to a batholith", "Synonyms: batholithic"]}
