@@ -1,1 +1,1 @@
-{"data": ["2023-01-15T08:00:21.251653+00:00", 8268, "Your mother is", "eighty", "Pronunciation: /\u02c8e\u026ati/", "Definition: being ten more than seventy", "Synonyms: 80, fourscore, lxxx"]}
+{"data": ["2023-01-15T09:00:24.590119+00:00", 8269, "Your mother is", "treeless", "Pronunciation: /\u02c8tril\u028cs/", "Definition: not wooded", "Synonyms: unwooded"]}
