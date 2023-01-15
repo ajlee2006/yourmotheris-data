@@ -1,1 +1,1 @@
-{"data": ["2023-01-15T19:00:25.687242+00:00", 8279, "Your mother is", "spheric", "Pronunciation: /\u02c8sfi\u0259rik/", "Definition: having the shape of a sphere or ball", "Synonyms: ball-shaped, global, globose, globular, orbicular, spherical"]}
+{"data": ["2023-01-15T20:00:10.501806+00:00", 8280, "Your mother is", "diverse", "Pronunciation: /d\u026a\u02c8v\u025crs/", "Definition: distinctly dissimilar or unlike", "Synonyms: various"]}
