@@ -1,1 +1,1 @@
-{"data": ["2023-01-15T16:00:25.292089+00:00", 8276, "Your mother is", "repetitive", "Pronunciation: /r\u026a\u02c8p\u025bt\u026at\u026av/", "Definition: repetitive and persistent", "Synonyms: insistent"]}
+{"data": ["2023-01-15T17:00:17.898963+00:00", 8277, "Your mother is", "legato", "Pronunciation: /l\u0259\u02c8\u0261\u0251to\u028a/", "Definition: (music) without breaks between notes; smooth and connected", "Synonyms: smooth"]}
