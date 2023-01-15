@@ -1,1 +1,1 @@
-{"data": ["2023-01-15T10:00:17.211543+00:00", 8270, "Your mother is", "hit-or-miss", "Pronunciation: /\u02c8h\u026at\u0259r\u02c8m\u026as/", "Definition: dependent upon or characterized by chance", "Synonyms: haphazard"]}
+{"data": ["2023-01-15T11:00:35.396812+00:00", 8271, "Your mother is", "assiduous", "Pronunciation: /\u0259\u02c8s\u026ad\u0292u\u0259s/", "Definition: marked by care and persistent effort", "Synonyms: sedulous"]}
