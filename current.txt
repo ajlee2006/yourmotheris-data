@@ -1,1 +1,1 @@
-{"data": ["2023-01-15T14:00:25.439941+00:00", 8274, "Your mother is", "low-pitched", "Pronunciation: /\u02c8lo\u028a\u02c8p\u026a\u02a7t/", "Definition: used of sounds and voices; low in pitch or frequency", "Synonyms: low"]}
+{"data": ["2023-01-15T15:00:24.336678+00:00", 8275, "Your mother is", "linnean", "Pronunciation: /l\u026a\u02c8ni\u0259n/", "Definition: of or relating to Linnaeus or to the system of taxonomic classification that Linnaeus proposed", "Synonyms: linnaean"]}
