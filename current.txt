@@ -1,1 +1,1 @@
-{"data": ["2023-01-15T09:00:24.590119+00:00", 8269, "Your mother is", "treeless", "Pronunciation: /\u02c8tril\u028cs/", "Definition: not wooded", "Synonyms: unwooded"]}
+{"data": ["2023-01-15T10:00:17.211543+00:00", 8270, "Your mother is", "hit-or-miss", "Pronunciation: /\u02c8h\u026at\u0259r\u02c8m\u026as/", "Definition: dependent upon or characterized by chance", "Synonyms: haphazard"]}
