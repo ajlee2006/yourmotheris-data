@@ -1,1 +1,1 @@
-{"data": ["2023-01-15T18:00:27.567426+00:00", 8278, "Your mother is", "batholitic", "Pronunciation: /\u02ccb\u00e6\u03b8\u0259\u02c8l\u026at\u026ak/", "Definition: of or relating to a batholith", "Synonyms: batholithic"]}
+{"data": ["2023-01-15T19:00:25.687242+00:00", 8279, "Your mother is", "spheric", "Pronunciation: /\u02c8sfi\u0259rik/", "Definition: having the shape of a sphere or ball", "Synonyms: ball-shaped, global, globose, globular, orbicular, spherical"]}
