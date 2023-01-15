@@ -1,1 +1,1 @@
-{"data": ["2023-01-14T23:00:29.419810+00:00", 8259, "Your mother is", "round-the-clock", "Pronunciation: /\u02c8ra\u028and-\u00f0\u0259-\u02c8kl\u0251k/", "Definition: at all times", "Synonyms: around-the-clock, day-and-night, nonstop"]}
+{"data": ["2023-01-15T00:00:47.386804+00:00", 8260, "Your mother is", "retro", "Pronunciation: /\u02c8r\u025btro\u028a/", "Definition: affecting things past", "Synonyms: ex post facto, retroactive"]}
