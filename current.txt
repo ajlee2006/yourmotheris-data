@@ -1,1 +1,1 @@
-{"data": ["2023-01-15T20:00:10.501806+00:00", 8280, "Your mother is", "diverse", "Pronunciation: /d\u026a\u02c8v\u025crs/", "Definition: distinctly dissimilar or unlike", "Synonyms: various"]}
+{"data": ["2023-01-15T21:00:16.014724+00:00", 8281, "Your mother is", "remindful", "Pronunciation: /ri\u02c8ma\u026andf\u028al/", "Definition: serving to bring to mind", "Synonyms: evocative, redolent, reminiscent, resonant"]}
