@@ -1,1 +1,1 @@
-{"data": ["2023-01-15T22:00:18.777458+00:00", 8282, "Your mother is", "unconquered", "Pronunciation: /\u0259n\u02c8k\u0251\u014bk\u0259d/", "Definition: not conquered", "Synonyms: unbeaten, unvanquished"]}
+{"data": ["2023-01-15T23:00:20.444757+00:00", 8283, "Your mother is", "proactive", "Pronunciation: /pro\u028a\u02c8\u00e6kt\u026av/", "Definition: descriptive of any event or stimulus or process that has an effect on events or stimuli or processes that occur subsequently", ""]}
