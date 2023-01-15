@@ -1,1 +1,1 @@
-{"data": ["2023-01-15T01:00:16.950962+00:00", 8261, "Your mother is", "out-of-date", "Pronunciation: /\u02c8a\u028at\u0259v\u02c8de\u026at/", "Definition: old; no longer valid or fashionable", "Synonyms: outdated, superannuated"]}
+{"data": ["2023-01-15T02:00:23.886576+00:00", 8262, "Your mother is", "palmy", "Pronunciation: /\u02c8p\u0251mi/", "Definition: very lively and profitable", "Synonyms: booming, flourishing, prospering, prosperous, roaring, thriving"]}
