@@ -1,1 +1,1 @@
-{"data": ["2023-01-16T08:00:21.575069+00:00", 8292, "Your mother is", "brownish-striped", "Similar to: patterned", "Definition: having brown stripes", "Synonyms: brown-striped"]}
+{"data": ["2023-01-16T09:00:12.739179+00:00", 8293, "Your mother is", "perfoliate", "Pronunciation: /p\u0259r\u02c8fo\u028ali\u026at/", "Definition: (of a leaf) having the base united around (and apparently pierced by) the stem", ""]}
