@@ -1,1 +1,1 @@
-{"data": ["2023-01-15T23:00:20.444757+00:00", 8283, "Your mother is", "proactive", "Pronunciation: /pro\u028a\u02c8\u00e6kt\u026av/", "Definition: descriptive of any event or stimulus or process that has an effect on events or stimuli or processes that occur subsequently", ""]}
+{"data": ["2023-01-16T00:01:05.994274+00:00", 8284, "Your mother is", "arcuate", "Pronunciation: /\u02c8\u0251rkju\u026at/", "Definition: forming or resembling an arch", "Synonyms: arced, arched, arching, arciform, bowed"]}
