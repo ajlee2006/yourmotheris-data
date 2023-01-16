@@ -1,1 +1,1 @@
-{"data": ["2023-01-16T17:00:18.003893+00:00", 8301, "Your mother is", "brachiate", "Pronunciation: /\u02c8bre\u026aki\u026at/", "Definition: having arms or armlike appendages", ""]}
+{"data": ["2023-01-16T18:00:19.064158+00:00", 8302, "Your mother is", "untasted", "Pronunciation: /\u0259n\u02c8te\u026ast\u026ad/", "Definition: still full", "Synonyms: untouched"]}
