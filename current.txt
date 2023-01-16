@@ -1,1 +1,1 @@
-{"data": ["2023-01-16T13:00:19.409236+00:00", 8297, "Your mother is", "south-central", "Similar to: southern", "Definition: being in or of a region of the United States including the states of the lower Mississippi valley and east of the Rio Grande", ""]}
+{"data": ["2023-01-16T14:00:17.524978+00:00", 8298, "Your mother is", "dolourous", "Similar to: sorrowful", "Definition: showing sorrow", "Synonyms: dolorous, lachrymose, tearful, weeping"]}
