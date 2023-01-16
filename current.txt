@@ -1,1 +1,1 @@
-{"data": ["2023-01-16T14:00:17.524978+00:00", 8298, "Your mother is", "dolourous", "Similar to: sorrowful", "Definition: showing sorrow", "Synonyms: dolorous, lachrymose, tearful, weeping"]}
+{"data": ["2023-01-16T15:00:28.882954+00:00", 8299, "Your mother is", "displeased", "Pronunciation: /d\u026as\u02c8plizd/", "Definition: not pleased; experiencing or manifesting displeasure", ""]}
