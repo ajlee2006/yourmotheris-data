@@ -1,1 +1,1 @@
-{"data": ["2023-01-16T22:00:50.529224+00:00", 8306, "Your mother is", "accusive", "Similar to: inculpative", "Definition: containing or expressing accusation", "Synonyms: accusative, accusatory, accusing"]}
+{"data": ["2023-01-16T23:00:23.996642+00:00", 8307, "Your mother is", "improbable", "Pronunciation: /\u026am\u02c8pr\u0251b\u0259b\u0259l/", "Definition: not likely to be true or to occur or to have occurred", "Synonyms: unlikely"]}
