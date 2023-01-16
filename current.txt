@@ -1,1 +1,1 @@
-{"data": ["2023-01-16T18:00:19.064158+00:00", 8302, "Your mother is", "untasted", "Pronunciation: /\u0259n\u02c8te\u026ast\u026ad/", "Definition: still full", "Synonyms: untouched"]}
+{"data": ["2023-01-16T19:00:42.796707+00:00", 8303, "Your mother is", "two-chambered", "Similar to: divided", "Definition: consisting of two chambers", "Synonyms: bicameral"]}
