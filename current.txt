@@ -1,1 +1,1 @@
-{"data": ["2023-01-16T00:01:05.994274+00:00", 8284, "Your mother is", "arcuate", "Pronunciation: /\u02c8\u0251rkju\u026at/", "Definition: forming or resembling an arch", "Synonyms: arced, arched, arching, arciform, bowed"]}
+{"data": ["2023-01-16T01:00:22.600589+00:00", 8285, "Your mother is", "astonishing", "Pronunciation: /\u0259\u02c8st\u0251n\u026a\u0283\u026a\u014b/", "Definition: so surprisingly impressive as to stun or overwhelm", "Synonyms: astounding, staggering, stupefying"]}
