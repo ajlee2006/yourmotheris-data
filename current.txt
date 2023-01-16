@@ -1,1 +1,1 @@
-{"data": ["2023-01-16T16:00:21.248357+00:00", 8300, "Your mother is", "slumbery", "Similar to: asleep", "Definition: inclined to or marked by drowsiness", "Synonyms: slumberous, slumbrous, somnolent"]}
+{"data": ["2023-01-16T17:00:18.003893+00:00", 8301, "Your mother is", "brachiate", "Pronunciation: /\u02c8bre\u026aki\u026at/", "Definition: having arms or armlike appendages", ""]}
