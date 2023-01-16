@@ -1,1 +1,1 @@
-{"data": ["2023-01-16T05:00:36.523257+00:00", 8289, "Your mother is", "defoliate", "Pronunciation: /di\u02c8fo\u028ali\u026at/", "Definition: deprived of leaves", "Synonyms: defoliated"]}
+{"data": ["2023-01-16T06:00:21.265549+00:00", 8290, "Your mother is", "liver-colored", "Pronunciation: /\u02c8la\u026av\u0259r-\u02c8k\u0259l\u0259rd/", "Definition: having a reddish-brown color", "Synonyms: liver"]}
