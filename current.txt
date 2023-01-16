@@ -1,1 +1,1 @@
-{"data": ["2023-01-16T11:00:19.184617+00:00", 8295, "Your mother is", "snowy", "Pronunciation: /\u02c8sno\u028ai/", "Definition: of the white color of snow", "Synonyms: snow-white"]}
+{"data": ["2023-01-16T12:00:29.211068+00:00", 8296, "Your mother is", "rupicolous", "", "Definition: composed of or inscribed on rock", "Synonyms: rupestral"]}
