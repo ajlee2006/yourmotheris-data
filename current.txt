@@ -1,1 +1,1 @@
-{"data": ["2023-01-16T10:00:18.564126+00:00", 8294, "Your mother is", "thrown", "Pronunciation: /\u03b8ro\u028an/", "Definition: twisted together; as of filaments spun into a thread", "Synonyms: thrown and twisted"]}
+{"data": ["2023-01-16T11:00:19.184617+00:00", 8295, "Your mother is", "snowy", "Pronunciation: /\u02c8sno\u028ai/", "Definition: of the white color of snow", "Synonyms: snow-white"]}
