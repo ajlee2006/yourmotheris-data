@@ -1,1 +1,1 @@
-{"data": ["2023-01-16T19:00:42.796707+00:00", 8303, "Your mother is", "two-chambered", "Similar to: divided", "Definition: consisting of two chambers", "Synonyms: bicameral"]}
+{"data": ["2023-01-16T20:00:42.519718+00:00", 8304, "Your mother is", ".38-calibre", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures thirty-eight hundredths of an inch in diameter", "Synonyms: .38-caliber, .38 caliber, .38 calibre"]}
