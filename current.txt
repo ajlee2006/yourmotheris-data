@@ -1,1 +1,1 @@
-{"data": ["2023-01-17T00:01:22.237497+00:00", 8308, "Your mother is", "ornery", "Pronunciation: /\u02c8o\u028arn\u0259ri/", "Definition: having a difficult and contrary disposition", "Synonyms: cantankerous, crotchety"]}
+{"data": ["2023-01-17T01:00:25.292696+00:00", 8309, "Your mother is", "socialized", "Pronunciation: /\u02c8so\u028a\u0283\u028c\u02ccla\u026azd/", "Definition: under group or government control", "Synonyms: socialised"]}
