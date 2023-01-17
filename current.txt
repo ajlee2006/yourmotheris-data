@@ -1,1 +1,1 @@
-{"data": ["2023-01-17T12:00:31.336295+00:00", 8320, "Your mother is", "octogenarian", "Pronunciation: /\u02cc\u0251kto\u028ad\u0292\u026a\u02c8n\u025cri\u0259n/", "Definition: being from 80 to 89 years old", ""]}
+{"data": ["2023-01-17T13:00:29.772271+00:00", 8321, "Your mother is", "thistlelike", "Similar to: armed", "Definition: resembling a thistle", ""]}
