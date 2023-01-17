@@ -1,1 +1,1 @@
-{"data": ["2023-01-17T10:00:27.096169+00:00", 8318, "Your mother is", "nubbly", "Pronunciation: /\u02c8n\u0259bli/", "Definition: of textiles; having a rough surface", "Synonyms: homespun, nubby, slubbed, tweedy"]}
+{"data": ["2023-01-17T11:00:20.484236+00:00", 8319, "Your mother is", "introductory", "Pronunciation: /\u02cc\u026antr\u0259\u02c8d\u0259kt\u0259ri/", "Definition: serving as a base or starting point", "Synonyms: basic"]}
