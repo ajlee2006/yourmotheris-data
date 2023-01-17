@@ -1,1 +1,1 @@
-{"data": ["2023-01-17T09:00:25.248551+00:00", 8317, "Your mother is", "famished", "Pronunciation: /\u02c8f\u00e6m\u026a\u0283t/", "Definition: extremely hungry", "Synonyms: esurient, ravenous, sharp-set, starved"]}
+{"data": ["2023-01-17T10:00:27.096169+00:00", 8318, "Your mother is", "nubbly", "Pronunciation: /\u02c8n\u0259bli/", "Definition: of textiles; having a rough surface", "Synonyms: homespun, nubby, slubbed, tweedy"]}
