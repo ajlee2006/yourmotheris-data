@@ -1,1 +1,1 @@
-{"data": ["2023-01-17T14:00:14.006318+00:00", 8322, "Your mother is", "weighty", "Pronunciation: /\u02c8we\u026ati/", "Definition: excessively fat", "Synonyms: corpulent, obese, rotund"]}
+{"data": ["2023-01-17T15:00:31.742439+00:00", 8323, "Your mother is", "well-fixed", "Pronunciation: /\u02c8w\u025bl-\u02c8f\u026akst/", "Definition: in fortunate circumstances financially; moderately rich", "Synonyms: comfortable, easy, prosperous, well-heeled, well-off, well-situated, well-to-do"]}
