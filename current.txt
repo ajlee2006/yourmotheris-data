@@ -1,1 +1,1 @@
-{"data": ["2023-01-17T03:00:29.870891+00:00", 8311, "Your mother is", "midget", "Pronunciation: /\u02c8m\u026ad\u0292\u026at/", "Definition: very small", "Synonyms: bantam, diminutive, flyspeck, lilliputian, petite, tiny"]}
+{"data": ["2023-01-17T04:00:21.866277+00:00", 8312, "Your mother is", "auriculate", "Pronunciation: /\u0254\u02c8r\u026akj\u0259l\u026at/", "Definition: having auricles", "Synonyms: auriculated"]}
