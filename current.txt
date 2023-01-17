@@ -1,1 +1,1 @@
-{"data": ["2023-01-17T17:00:25.783155+00:00", 8325, "Your mother is", "wailful", "Pronunciation: /\u02c8we\u026alf\u0259l/", "Definition: vocally expressing grief or sorrow or resembling such expression", "Synonyms: lamenting, wailing"]}
+{"data": ["2023-01-17T18:00:27.282327+00:00", 8326, "Your mother is", "curdled", "Similar to: thick", "Definition: transformed from a liquid into a soft semisolid or solid mass", "Synonyms: coagulate, coagulated, grumose, grumous"]}
