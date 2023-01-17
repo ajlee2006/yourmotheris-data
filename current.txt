@@ -1,1 +1,1 @@
-{"data": ["2023-01-16T23:00:23.996642+00:00", 8307, "Your mother is", "improbable", "Pronunciation: /\u026am\u02c8pr\u0251b\u0259b\u0259l/", "Definition: not likely to be true or to occur or to have occurred", "Synonyms: unlikely"]}
+{"data": ["2023-01-17T00:01:22.237497+00:00", 8308, "Your mother is", "ornery", "Pronunciation: /\u02c8o\u028arn\u0259ri/", "Definition: having a difficult and contrary disposition", "Synonyms: cantankerous, crotchety"]}
