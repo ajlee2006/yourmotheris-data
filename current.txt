@@ -1,1 +1,1 @@
-{"data": ["2023-01-17T08:00:27.097165+00:00", 8316, "Your mother is", "rotund", "Pronunciation: /ro\u028a\u02c8t\u0259nd/", "Definition: excessively fat", "Synonyms: corpulent, obese, weighty"]}
+{"data": ["2023-01-17T09:00:25.248551+00:00", 8317, "Your mother is", "famished", "Pronunciation: /\u02c8f\u00e6m\u026a\u0283t/", "Definition: extremely hungry", "Synonyms: esurient, ravenous, sharp-set, starved"]}
