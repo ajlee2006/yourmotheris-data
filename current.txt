@@ -1,1 +1,1 @@
-{"data": ["2023-01-17T01:00:25.292696+00:00", 8309, "Your mother is", "socialized", "Pronunciation: /\u02c8so\u028a\u0283\u028c\u02ccla\u026azd/", "Definition: under group or government control", "Synonyms: socialised"]}
+{"data": ["2023-01-17T02:00:19.124047+00:00", 8310, "Your mother is", "substantiative", "Similar to: supportive", "Definition: serving to support or corroborate", "Synonyms: collateral, confirmative, confirmatory, confirming, corroborative, corroboratory, substantiating, validating, validatory, verificatory, verifying"]}
