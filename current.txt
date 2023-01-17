@@ -1,1 +1,1 @@
-{"data": ["2023-01-17T22:00:23.166862+00:00", 8330, "Your mother is", "unleaded", "Pronunciation: /\u0259n\u02c8l\u025bd\u026ad/", "Definition: not treated with lead", "Synonyms: leadless"]}
+{"data": ["2023-01-17T23:00:26.279615+00:00", 8331, "Your mother is", "three-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with three members", "Synonyms: 3-membered"]}
