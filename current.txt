@@ -1,1 +1,1 @@
-{"data": ["2023-01-17T21:00:17.124086+00:00", 8329, "Your mother is", "reddish-striped", "Similar to: patterned", "Definition: having red stripes", "Synonyms: red-streaked, red-striped"]}
+{"data": ["2023-01-17T22:00:23.166862+00:00", 8330, "Your mother is", "unleaded", "Pronunciation: /\u0259n\u02c8l\u025bd\u026ad/", "Definition: not treated with lead", "Synonyms: leadless"]}
