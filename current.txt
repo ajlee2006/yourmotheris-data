@@ -1,1 +1,1 @@
-{"data": ["2023-01-17T07:00:24.216915+00:00", 8315, "Your mother is", "closed-chain", "Similar to: cyclic", "Definition: having atoms linked by bonds represented in circular or triangular form", "Synonyms: closed-ring"]}
+{"data": ["2023-01-17T08:00:27.097165+00:00", 8316, "Your mother is", "rotund", "Pronunciation: /ro\u028a\u02c8t\u0259nd/", "Definition: excessively fat", "Synonyms: corpulent, obese, weighty"]}
