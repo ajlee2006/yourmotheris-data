@@ -1,1 +1,1 @@
-{"data": ["2023-01-17T18:00:27.282327+00:00", 8326, "Your mother is", "curdled", "Similar to: thick", "Definition: transformed from a liquid into a soft semisolid or solid mass", "Synonyms: coagulate, coagulated, grumose, grumous"]}
+{"data": ["2023-01-17T19:00:24.366828+00:00", 8327, "Your mother is", "collapsible", "Pronunciation: /k\u028c\u02c8l\u00e6ps\u028cb\u028cl/", "Definition: capable of collapsing or being collapsed", "Synonyms: collapsable"]}
