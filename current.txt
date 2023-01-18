@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T20:00:23.268655+00:00", 8352, "Your mother is", "laughable", "Pronunciation: /\u02c8l\u00e6f\u0259b\u0259l/", "Definition: arousing or provoking laughter", "Synonyms: amusing, comic, comical, funny, mirthful, risible"]}
+{"data": ["2023-01-18T21:00:20.591489+00:00", 8353, "Your mother is", "nonfatal", "Pronunciation: /\u02c8n\u0251n\u02c8fe\u026at\u028cl/", "Definition: not bringing death", ""]}
