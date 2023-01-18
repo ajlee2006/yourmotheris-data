@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T01:00:28.415547+00:00", 8333, "Your mother is", "two-lobed", "Pronunciation: /tu-lo\u028abd/", "Definition: having two lobes", ""]}
+{"data": ["2023-01-18T02:00:31.121505+00:00", 8334, "Your mother is", "almighty", "Pronunciation: /\u0254l\u02c8ma\u026ati/", "Definition: having unlimited power", "Synonyms: all-powerful, omnipotent"]}
