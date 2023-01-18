@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T19:00:23.499161+00:00", 8351, "Your mother is", "monotone", "Pronunciation: /\u02c8m\u0251n\u0259\u02ccto\u028an/", "Definition: of a sequence or function; consistently increasing and never decreasing or consistently decreasing and never increasing in value", "Synonyms: monotonic"]}
+{"data": ["2023-01-18T20:00:23.268655+00:00", 8352, "Your mother is", "laughable", "Pronunciation: /\u02c8l\u00e6f\u0259b\u0259l/", "Definition: arousing or provoking laughter", "Synonyms: amusing, comic, comical, funny, mirthful, risible"]}
