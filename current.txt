@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T00:01:04.682828+00:00", 8332, "Your mother is", "decreasing monotonic", "Similar to: monotone", "Definition: consistently decreasing", ""]}
+{"data": ["2023-01-18T01:00:28.415547+00:00", 8333, "Your mother is", "two-lobed", "Pronunciation: /tu-lo\u028abd/", "Definition: having two lobes", ""]}
