@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T17:00:24.711136+00:00", 8349, "Your mother is", "self-abnegating", "Similar to: nonindulgent", "Definition: used especially of behavior", "Synonyms: renunciant, renunciative, self-denying"]}
+{"data": ["2023-01-18T18:00:24.326089+00:00", 8350, "Your mother is", "conservative", "Pronunciation: /k\u0259n\u02c8s\u025crv\u0259t\u026av/", "Definition: conforming to the standards and conventions of the middle class", "Synonyms: bourgeois, materialistic"]}
