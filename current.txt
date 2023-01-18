@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T02:00:31.121505+00:00", 8334, "Your mother is", "almighty", "Pronunciation: /\u0254l\u02c8ma\u026ati/", "Definition: having unlimited power", "Synonyms: all-powerful, omnipotent"]}
+{"data": ["2023-01-18T03:00:25.039959+00:00", 8335, "Your mother is", "dissentious", "Pronunciation: /d\u026a\u02c8s\u025bn\u0283\u0259s/", "Definition: dissenting (especially dissenting with the majority opinion)", "Synonyms: divisive, factious"]}
