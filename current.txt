@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T09:00:23.941998+00:00", 8341, "Your mother is", "pensive", "Pronunciation: /\u02c8p\u025bns\u026av/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, musing, pondering, reflective, ruminative"]}
+{"data": ["2023-01-18T10:00:21.346825+00:00", 8342, "Your mother is", "roiling", "Pronunciation: /\u02c8r\u0254\u026al\u026a\u014b/", "Definition: (of a liquid) agitated vigorously; in a state of turbulence", "Synonyms: churning, roiled, roily, turbulent"]}
