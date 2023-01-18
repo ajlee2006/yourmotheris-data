@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T22:00:29.536729+00:00", 8354, "Your mother is", "spring-flowering", "Pronunciation: /spr\u026a\u014b-\u02c8fla\u028a\u0259r\u026a\u014b/", "Definition: of plants that bloom during the spring", "Synonyms: early-blooming, early-flowering, late-spring-blooming, spring-blooming"]}
+{"data": ["2023-01-18T23:00:23.964616+00:00", 8355, "Your mother is", "teeming", "Pronunciation: /\u02c8tim\u026a\u014b/", "Definition: abundantly filled with especially living things", ""]}
