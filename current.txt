@@ -1,1 +1,1 @@
-{"data": ["2023-01-17T23:00:26.279615+00:00", 8331, "Your mother is", "three-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with three members", "Synonyms: 3-membered"]}
+{"data": ["2023-01-18T00:01:04.682828+00:00", 8332, "Your mother is", "decreasing monotonic", "Similar to: monotone", "Definition: consistently decreasing", ""]}
