@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T04:00:28.100181+00:00", 8336, "Your mother is", "multilateral", "Pronunciation: /\u02ccm\u0259lt\u026a\u02c8l\u00e6t\u0259r\u0259l/", "Definition: having many parts or sides", "Synonyms: many-sided"]}
+{"data": ["2023-01-18T05:00:27.789282+00:00", 8337, "Your mother is", "18th", "Similar to: ordinal", "Definition: coming next after the seventeenth in position", "Synonyms: eighteenth"]}
