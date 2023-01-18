@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T08:00:19.479424+00:00", 8340, "Your mother is", "violet-tinted", "Similar to: chromatic", "Definition: of something that is tinged with violet", "Synonyms: violet-tinged"]}
+{"data": ["2023-01-18T09:00:23.941998+00:00", 8341, "Your mother is", "pensive", "Pronunciation: /\u02c8p\u025bns\u026av/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, musing, pondering, reflective, ruminative"]}
