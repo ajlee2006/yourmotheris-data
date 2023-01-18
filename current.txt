@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T05:00:27.789282+00:00", 8337, "Your mother is", "18th", "Similar to: ordinal", "Definition: coming next after the seventeenth in position", "Synonyms: eighteenth"]}
+{"data": ["2023-01-18T06:00:25.751883+00:00", 8338, "Your mother is", "nonmigratory", "", "Definition: used of animals that do not migrate", "Synonyms: resident"]}
