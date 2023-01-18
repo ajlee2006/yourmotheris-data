@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T07:00:28.804576+00:00", 8339, "Your mother is", "plumbous", "Pronunciation: /\u02c8pl\u0259mb\u0259s/", "Definition: relating to or consisting of lead", "Synonyms: plumbic"]}
+{"data": ["2023-01-18T08:00:19.479424+00:00", 8340, "Your mother is", "violet-tinted", "Similar to: chromatic", "Definition: of something that is tinged with violet", "Synonyms: violet-tinged"]}
