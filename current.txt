@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T18:00:24.326089+00:00", 8350, "Your mother is", "conservative", "Pronunciation: /k\u0259n\u02c8s\u025crv\u0259t\u026av/", "Definition: conforming to the standards and conventions of the middle class", "Synonyms: bourgeois, materialistic"]}
+{"data": ["2023-01-18T19:00:23.499161+00:00", 8351, "Your mother is", "monotone", "Pronunciation: /\u02c8m\u0251n\u0259\u02ccto\u028an/", "Definition: of a sequence or function; consistently increasing and never decreasing or consistently decreasing and never increasing in value", "Synonyms: monotonic"]}
