@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T14:00:23.746595+00:00", 8346, "Your mother is", "unattackable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u00e6k\u0259b\u0259l/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, inviolable, secure, strong, unassailable"]}
+{"data": ["2023-01-18T15:00:16.498585+00:00", 8347, "Your mother is", "winding", "Pronunciation: /\u02c8wa\u026and\u026a\u014b/", "Definition: of a path e.g.", "Synonyms: meandering, rambling, wandering"]}
