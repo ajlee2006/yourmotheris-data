@@ -1,1 +1,1 @@
-{"data": ["2023-01-18T15:00:16.498585+00:00", 8347, "Your mother is", "winding", "Pronunciation: /\u02c8wa\u026and\u026a\u014b/", "Definition: of a path e.g.", "Synonyms: meandering, rambling, wandering"]}
+{"data": ["2023-01-18T16:00:19.169279+00:00", 8348, "Your mother is", "incommodious", "Pronunciation: /\u02cc\u026ank\u0259\u02c8mo\u028adi\u0259s/", "Definition: uncomfortably or inconveniently small", ""]}
