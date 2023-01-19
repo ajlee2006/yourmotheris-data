@@ -1,1 +1,1 @@
-{"data": ["2023-01-19T10:00:17.397962+00:00", 8366, "Your mother is", "bad-tempered", "Pronunciation: /b\u00e6d-\u02c8t\u025bmp\u0259rd/", "Definition: annoyed and irritable", "Synonyms: crabbed, crabby, cross, fussy, grouchy, grumpy, ill-tempered"]}
+{"data": ["2023-01-19T11:00:26.926943+00:00", 8367, "Your mother is", "addlebrained", "Pronunciation: /\u02c8\u00e6d\u0259l\u02ccbre\u026and/", "Definition: stupid and confused", "Synonyms: addlepated, muddleheaded, puddingheaded"]}
