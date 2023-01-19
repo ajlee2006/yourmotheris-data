@@ -1,1 +1,1 @@
-{"data": ["2023-01-19T18:00:22.516874+00:00", 8373, "Your mother is", "edited", "Pronunciation: /\u02c8\u025bd\u028ct\u028cd/", "Definition: improved or corrected by critical editing", "Synonyms: emended"]}
+{"data": ["2023-01-19T19:00:25.299303+00:00", 8374, "Your mother is", "fecal", "Pronunciation: /\u02c8fik\u0259l/", "Definition: of or relating to feces", "Synonyms: faecal"]}
