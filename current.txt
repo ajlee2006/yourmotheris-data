@@ -1,1 +1,1 @@
-{"data": ["2023-01-19T13:00:27.787886+00:00", 8369, "Your mother is", "perirhinal", "", "Definition: near the nose", "Synonyms: perinasal"]}
+{"data": ["2023-01-19T14:00:12.073959+00:00", 8370, "Your mother is", "vatic", "Pronunciation: /\u02c8v\u00e6t\u026ak/", "Definition: resembling or characteristic of a prophet or prophecy", "Synonyms: divinatory, mantic, sibyllic, sibylline, vatical"]}
