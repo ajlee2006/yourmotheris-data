@@ -1,1 +1,1 @@
-{"data": ["2023-01-19T11:00:26.926943+00:00", 8367, "Your mother is", "addlebrained", "Pronunciation: /\u02c8\u00e6d\u0259l\u02ccbre\u026and/", "Definition: stupid and confused", "Synonyms: addlepated, muddleheaded, puddingheaded"]}
+{"data": ["2023-01-19T12:00:21.644484+00:00", 8368, "Your mother is", "afrikaans", "Pronunciation: /\u02cc\u00e6fr\u026a\u02c8k\u0251ns/", "Definition: belonging or relating to white people of South Africa whose ancestors were Dutch or to their language", "Synonyms: afrikaner"]}
