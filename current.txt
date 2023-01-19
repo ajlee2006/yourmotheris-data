@@ -1,1 +1,1 @@
-{"data": ["2023-01-19T12:00:21.644484+00:00", 8368, "Your mother is", "afrikaans", "Pronunciation: /\u02cc\u00e6fr\u026a\u02c8k\u0251ns/", "Definition: belonging or relating to white people of South Africa whose ancestors were Dutch or to their language", "Synonyms: afrikaner"]}
+{"data": ["2023-01-19T13:00:27.787886+00:00", 8369, "Your mother is", "perirhinal", "", "Definition: near the nose", "Synonyms: perinasal"]}
