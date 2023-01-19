@@ -1,1 +1,1 @@
-{"data": ["2023-01-19T01:00:30.687340+00:00", 8357, "Your mother is", "washable", "Pronunciation: /\u02c8w\u0251\u0283\u0259b\u0259l/", "Definition: capable of being washed without injury", ""]}
+{"data": ["2023-01-19T02:00:49.049492+00:00", 8358, "Your mother is", "apnoeic", "", "Definition: of or relating to apnea", "Synonyms: apneic"]}
