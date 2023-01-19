@@ -1,1 +1,1 @@
-{"data": ["2023-01-19T00:01:04.010677+00:00", 8356, "Your mother is", "veiled", "Pronunciation: /ve\u026ald/", "Definition: muted or unclear", ""]}
+{"data": ["2023-01-19T01:00:30.687340+00:00", 8357, "Your mother is", "washable", "Pronunciation: /\u02c8w\u0251\u0283\u0259b\u0259l/", "Definition: capable of being washed without injury", ""]}
