@@ -1,1 +1,1 @@
-{"data": ["2023-01-19T22:00:26.501101+00:00", 8377, "Your mother is", "said", "Pronunciation: /\u02c8s\u0251\u026ad/", "Definition: being the one previously mentioned or spoken of", "Synonyms: aforementioned, aforesaid"]}
+{"data": ["2023-01-19T23:00:18.569160+00:00", 8378, "Your mother is", "synesthetic", "Pronunciation: /\u02ccs\u026an\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: relating to or experiencing synesthesia; involving more than one sense", "Synonyms: synaesthetic"]}
