@@ -1,1 +1,1 @@
-{"data": ["2023-01-19T09:00:15.853678+00:00", 8365, "Your mother is", "turbid", "Pronunciation: /\u02c8t\u025crb\u026ad/", "Definition: (of liquids) clouded as with sediment", "Synonyms: cloudy, mirky, muddy, murky"]}
+{"data": ["2023-01-19T10:00:17.397962+00:00", 8366, "Your mother is", "bad-tempered", "Pronunciation: /b\u00e6d-\u02c8t\u025bmp\u0259rd/", "Definition: annoyed and irritable", "Synonyms: crabbed, crabby, cross, fussy, grouchy, grumpy, ill-tempered"]}
