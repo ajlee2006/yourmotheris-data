@@ -1,1 +1,1 @@
-{"data": ["2023-01-19T21:00:22.456890+00:00", 8376, "Your mother is", "half-clothed", "Similar to: unclothed", "Definition: inadequately clothed", "Synonyms: scantily clad, underclothed"]}
+{"data": ["2023-01-19T22:00:26.501101+00:00", 8377, "Your mother is", "said", "Pronunciation: /\u02c8s\u0251\u026ad/", "Definition: being the one previously mentioned or spoken of", "Synonyms: aforementioned, aforesaid"]}
