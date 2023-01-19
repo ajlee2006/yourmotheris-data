@@ -1,1 +1,1 @@
-{"data": ["2023-01-19T16:00:30.355053+00:00", 8371, "Your mother is", "categorematic", "Similar to: autosemantic", "Definition: of a term or phrase capable of standing as the subject or (especially) the predicate of a proposition", ""]}
+{"data": ["2023-01-19T17:00:30.470239+00:00", 8372, "Your mother is", "polyphonous", "", "Definition: of or relating to or characterized by polyphony", "Synonyms: polyphonic"]}
