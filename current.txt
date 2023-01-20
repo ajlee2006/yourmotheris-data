@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T07:00:30.975287+00:00", 8386, "Your mother is", "semitic", "Pronunciation: /s\u026a\u02c8m\u026at\u026ak/", "Definition: of or relating to or characteristic of Semites", "Synonyms: semite"]}
+{"data": ["2023-01-20T08:00:20.740462+00:00", 8387, "Your mother is", "done", "Pronunciation: /d\u0259n/", "Definition: having finished or arrived at completion", "Synonyms: through, through with"]}
