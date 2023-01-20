@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T14:00:26.605069+00:00", 8393, "Your mother is", "pure", "Pronunciation: /pj\u028ar/", "Definition: without qualification; used informally as (often pejorative) intensifiers", "Synonyms: arrant, complete, consummate, double-dyed, everlasting, gross, perfect, sodding, staring, stark, thorough, thoroughgoing, unadulterated, utter"]}
+{"data": ["2023-01-20T15:00:29.868921+00:00", 8394, "Your mother is", "maximizing", "Pronunciation: /\u02c8m\u00e6ks\u028c\u02ccma\u026az\u026a\u014b/", "Definition: making as great as possible", "Synonyms: maximising"]}
