@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T17:00:28.217926+00:00", 8396, "Your mother is", "globular", "Pronunciation: /\u02c8gl\u0251bj\u0259l\u0259r/", "Definition: having the shape of a sphere or ball", "Synonyms: ball-shaped, global, globose, orbicular, spheric, spherical"]}
+{"data": ["2023-01-20T18:00:22.308202+00:00", 8397, "Your mother is", "lxvi", "Similar to: cardinal", "Definition: being six more than sixty", "Synonyms: 66, sixty-six"]}
