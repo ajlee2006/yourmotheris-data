@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T02:00:18.661512+00:00", 8381, "Your mother is", "epistemological", "Pronunciation: /\u026a\u02ccp\u026ast\u0259m\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to epistemology", "Synonyms: epistemic"]}
+{"data": ["2023-01-20T03:00:29.675124+00:00", 8382, "Your mother is", "typographical", "Pronunciation: /\u02ccta\u026ap\u028c\u02c8\u0261r\u00e6f\u026ak\u028cl/", "Definition: relating to or occurring or used in typography", "Synonyms: typographic"]}
