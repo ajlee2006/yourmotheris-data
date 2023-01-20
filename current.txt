@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T22:00:19.311589+00:00", 8401, "Your mother is", "bad-tempered", "Pronunciation: /b\u00e6d-\u02c8t\u025bmp\u0259rd/", "Definition: annoyed and irritable", "Synonyms: crabbed, crabby, cross, fussy, grouchy, grumpy, ill-tempered"]}
+{"data": ["2023-01-20T23:00:15.235338+00:00", 8402, "Your mother is", "greatest", "Pronunciation: /\u02c8\u0261re\u026at\u028cst/", "Definition: highest in quality", "Synonyms: sterling, superlative"]}
