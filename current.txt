@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T05:00:15.072389+00:00", 8384, "Your mother is", "lemon-scented", "Similar to: odorous", "Definition: smelling of lemons", ""]}
+{"data": ["2023-01-20T06:00:21.778352+00:00", 8385, "Your mother is", "blessed", "Pronunciation: /\u02c8bl\u025bs\u026ad/", "Definition: Roman Catholic; proclaimed one of the blessed and thus worthy of veneration", "Synonyms: beatified"]}
