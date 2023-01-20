@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T10:00:21.324194+00:00", 8389, "Your mother is", "splayfoot", "Similar to: flat-footed", "Definition: having feet that turn outward", "Synonyms: splayfooted"]}
+{"data": ["2023-01-20T11:00:23.676339+00:00", 8390, "Your mother is", "abstractionist", "Pronunciation: /\u00e6b\u02c8str\u00e6k\u0283\u0259n\u026ast/", "Definition: not representing or imitating external reality or the objects of nature", "Synonyms: abstract, nonfigurative, nonobjective"]}
