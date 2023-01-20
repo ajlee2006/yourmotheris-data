@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T00:01:03.342158+00:00", 8379, "Your mother is", "uncorrectable", "Similar to: incorrigible", "Definition: incapable of being controlled or managed", "Synonyms: uncontrollable, unmanageable"]}
+{"data": ["2023-01-20T01:00:22.870008+00:00", 8380, "Your mother is", "restricting", "Pronunciation: /ri\u02c8str\u026akt\u026a\u014b/", "Definition: restricting the scope or freedom of action", "Synonyms: confining, constraining, constrictive, limiting"]}
