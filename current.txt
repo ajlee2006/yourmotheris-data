@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T15:00:29.868921+00:00", 8394, "Your mother is", "maximizing", "Pronunciation: /\u02c8m\u00e6ks\u028c\u02ccma\u026az\u026a\u014b/", "Definition: making as great as possible", "Synonyms: maximising"]}
+{"data": ["2023-01-20T16:00:27.462820+00:00", 8395, "Your mother is", "acrobatic", "Pronunciation: /\u02cc\u00e6kr\u0259\u02c8b\u00e6t\u026ak/", "Definition: vigorously active", "Synonyms: athletic, gymnastic"]}
