@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T08:00:20.740462+00:00", 8387, "Your mother is", "done", "Pronunciation: /d\u0259n/", "Definition: having finished or arrived at completion", "Synonyms: through, through with"]}
+{"data": ["2023-01-20T09:00:15.103273+00:00", 8388, "Your mother is", "impulsive", "Pronunciation: /\u026am\u02c8p\u0259ls\u026av/", "Definition: determined by chance or impulse or whim rather than by necessity or reason", "Synonyms: capricious, whimsical"]}
