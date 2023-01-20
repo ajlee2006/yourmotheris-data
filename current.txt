@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T06:00:21.778352+00:00", 8385, "Your mother is", "blessed", "Pronunciation: /\u02c8bl\u025bs\u026ad/", "Definition: Roman Catholic; proclaimed one of the blessed and thus worthy of veneration", "Synonyms: beatified"]}
+{"data": ["2023-01-20T07:00:30.975287+00:00", 8386, "Your mother is", "semitic", "Pronunciation: /s\u026a\u02c8m\u026at\u026ak/", "Definition: of or relating to or characteristic of Semites", "Synonyms: semite"]}
