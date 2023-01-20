@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T20:00:26.241350+00:00", 8399, "Your mother is", "danceable", "Pronunciation: /\u02c8d\u00e6ns\u0259b\u0259l/", "Definition: suitable for dancing", ""]}
+{"data": ["2023-01-20T21:00:16.403279+00:00", 8400, "Your mother is", "unreserved", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8z\u025crvd/", "Definition: not cautious or reticent", ""]}
