@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T21:00:16.403279+00:00", 8400, "Your mother is", "unreserved", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8z\u025crvd/", "Definition: not cautious or reticent", ""]}
+{"data": ["2023-01-20T22:00:19.311589+00:00", 8401, "Your mother is", "bad-tempered", "Pronunciation: /b\u00e6d-\u02c8t\u025bmp\u0259rd/", "Definition: annoyed and irritable", "Synonyms: crabbed, crabby, cross, fussy, grouchy, grumpy, ill-tempered"]}
