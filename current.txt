@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T09:00:15.103273+00:00", 8388, "Your mother is", "impulsive", "Pronunciation: /\u026am\u02c8p\u0259ls\u026av/", "Definition: determined by chance or impulse or whim rather than by necessity or reason", "Synonyms: capricious, whimsical"]}
+{"data": ["2023-01-20T10:00:21.324194+00:00", 8389, "Your mother is", "splayfoot", "Similar to: flat-footed", "Definition: having feet that turn outward", "Synonyms: splayfooted"]}
