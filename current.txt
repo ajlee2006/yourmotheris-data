@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T12:00:20.317350+00:00", 8391, "Your mother is", "foppish", "Pronunciation: /\u02c8f\u0251p\u026a\u0283/", "Definition: affecting extreme elegance in dress and manner", "Synonyms: dandified, dandyish"]}
+{"data": ["2023-01-20T13:00:21.671093+00:00", 8392, "Your mother is", "affixial", "Pronunciation: /\u00e6\u02c8f\u026aksi\u0259l/", "Definition: of or pertaining to a linguistic affix", "Synonyms: affixal"]}
