@@ -1,1 +1,1 @@
-{"data": ["2023-01-21T06:00:19.108822+00:00", 8409, "Your mother is", "amiable", "Pronunciation: /\u02c8e\u026ami\u0259b\u0259l/", "Definition: disposed to please", "Synonyms: good-humored, good-humoured"]}
+{"data": ["2023-01-21T07:00:32.058228+00:00", 8410, "Your mother is", "unannealed", "Similar to: unhardened", "Definition: (of metal or glass) not annealed and consequently easily cracked or fractured", "Synonyms: brittle"]}
