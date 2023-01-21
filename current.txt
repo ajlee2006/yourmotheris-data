@@ -1,1 +1,1 @@
-{"data": ["2023-01-21T09:00:28.497582+00:00", 8412, "Your mother is", "nail-biting", "Pronunciation: /\u02c8ne\u026al\u02ccba\u026at\u026a\u014b/", "Definition: (of a situation) characterized by or causing suspense", "Synonyms: cliff-hanging, suspenseful, suspensive"]}
+{"data": ["2023-01-21T10:00:29.008277+00:00", 8413, "Your mother is", "abulic", "Similar to: neurotic", "Definition: suffering from abulia; showing abnormal inability to act or make decisions", "Synonyms: aboulic"]}
