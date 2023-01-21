@@ -1,1 +1,1 @@
-{"data": ["2023-01-21T16:00:18.034866+00:00", 8419, "Your mother is", "frigid", "Pronunciation: /\u02c8fr\u026ad\u0292\u026ad/", "Definition: devoid of warmth and cordiality; expressive of unfriendliness or disdain", "Synonyms: frosty, frozen, glacial, icy, wintry"]}
+{"data": ["2023-01-21T17:00:14.571128+00:00", 8420, "Your mother is", "concerned", "Pronunciation: /k\u0259n\u02c8s\u025crnd/", "Definition: involved in or affected by or having a claim to or share in", "Synonyms: interested"]}
