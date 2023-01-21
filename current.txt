@@ -1,1 +1,1 @@
-{"data": ["2023-01-21T08:00:15.457344+00:00", 8411, "Your mother is", "categorized", "Pronunciation: /\u02c8k\u00e6t\u028c\u0261\u025dr\u02cca\u026azd/", "Definition: arranged into categories", "Synonyms: categorised"]}
+{"data": ["2023-01-21T09:00:28.497582+00:00", 8412, "Your mother is", "nail-biting", "Pronunciation: /\u02c8ne\u026al\u02ccba\u026at\u026a\u014b/", "Definition: (of a situation) characterized by or causing suspense", "Synonyms: cliff-hanging, suspenseful, suspensive"]}
