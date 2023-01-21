@@ -1,1 +1,1 @@
-{"data": ["2023-01-21T00:00:59.812970+00:00", 8403, "Your mother is", "noncompetitive", "Pronunciation: /\u02ccn\u0251nk\u028cm\u02c8p\u025bt\u028ct\u026av/", "Definition: not involving competition or competitiveness", ""]}
+{"data": ["2023-01-21T01:00:31.893187+00:00", 8404, "Your mother is", "unobstructed", "Pronunciation: /\u02cc\u0259n\u0259b\u02c8str\u0259kt\u026ad/", "Definition: free from impediment or obstruction or hindrance", ""]}
