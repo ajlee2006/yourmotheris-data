@@ -1,1 +1,1 @@
-{"data": ["2023-01-21T22:00:27.125810+00:00", 8425, "Your mother is", "smooth-shelled", "Similar to: shelled", "Definition: having a smooth shell", ""]}
+{"data": ["2023-01-21T23:00:27.579056+00:00", 8426, "Your mother is", "quenched", "Similar to: suppressed", "Definition: subdued or overcome", "Synonyms: quelled, squelched"]}
