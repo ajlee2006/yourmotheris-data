@@ -1,1 +1,1 @@
-{"data": ["2023-01-21T04:00:21.992438+00:00", 8407, "Your mother is", "two-a-penny", "Similar to: cheap", "Definition: of trifling worth", "Synonyms: sixpenny, threepenny, tuppeny, twopenny, twopenny-halfpenny"]}
+{"data": ["2023-01-21T05:00:25.599472+00:00", 8408, "Your mother is", "baptised", "", "Definition: having undergone the Christian ritual of baptism", "Synonyms: baptized"]}
