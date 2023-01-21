@@ -1,1 +1,1 @@
-{"data": ["2023-01-21T15:00:27.288975+00:00", 8418, "Your mother is", "improvable", "Pronunciation: /\u026am\u02c8pruv\u0259b\u0259l/", "Definition: susceptible of improvement", ""]}
+{"data": ["2023-01-21T16:00:18.034866+00:00", 8419, "Your mother is", "frigid", "Pronunciation: /\u02c8fr\u026ad\u0292\u026ad/", "Definition: devoid of warmth and cordiality; expressive of unfriendliness or disdain", "Synonyms: frosty, frozen, glacial, icy, wintry"]}
