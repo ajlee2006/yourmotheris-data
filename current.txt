@@ -1,1 +1,1 @@
-{"data": ["2023-01-20T23:00:15.235338+00:00", 8402, "Your mother is", "greatest", "Pronunciation: /\u02c8\u0261re\u026at\u028cst/", "Definition: highest in quality", "Synonyms: sterling, superlative"]}
+{"data": ["2023-01-21T00:00:59.812970+00:00", 8403, "Your mother is", "noncompetitive", "Pronunciation: /\u02ccn\u0251nk\u028cm\u02c8p\u025bt\u028ct\u026av/", "Definition: not involving competition or competitiveness", ""]}
