@@ -1,1 +1,1 @@
-{"data": ["2023-01-21T13:00:27.787177+00:00", 8416, "Your mother is", "higgledy-piggledy", "Pronunciation: /\u02c8h\u026a\u0261\u0259ldi\u02c8p\u026a\u0261\u0259ldi/", "Definition: in utter disorder", "Synonyms: disorderly, hugger-mugger, jumbled, topsy-turvy"]}
+{"data": ["2023-01-21T14:00:17.708373+00:00", 8417, "Your mother is", "vexed", "Pronunciation: /v\u025bkst/", "Definition: troubled persistently especially with petty annoyances", "Synonyms: annoyed, harassed, harried, pestered"]}
