@@ -1,1 +1,1 @@
-{"data": ["2023-01-21T18:00:27.014849+00:00", 8421, "Your mother is", "spick", "Pronunciation: /sp\u026ak/", "Definition: completely neat and clean", "Synonyms: immaculate, speckless, spic, spic-and-span, spick-and-span, spotless"]}
+{"data": ["2023-01-21T19:00:12.368478+00:00", 8422, "Your mother is", "web-toed", "Pronunciation: /\u02c8w\u025bb-\u02c8to\u028ad/", "Definition: having feet with webbed toes", "Synonyms: web-footed"]}
