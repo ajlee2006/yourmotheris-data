@@ -1,1 +1,1 @@
-{"data": ["2023-01-21T05:00:25.599472+00:00", 8408, "Your mother is", "baptised", "", "Definition: having undergone the Christian ritual of baptism", "Synonyms: baptized"]}
+{"data": ["2023-01-21T06:00:19.108822+00:00", 8409, "Your mother is", "amiable", "Pronunciation: /\u02c8e\u026ami\u0259b\u0259l/", "Definition: disposed to please", "Synonyms: good-humored, good-humoured"]}
