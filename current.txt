@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T12:00:24.442627+00:00", 8439, "Your mother is", "caramel", "Pronunciation: /\u02c8k\u00e6r\u0259m\u0259l/", "Definition: having the color of caramel; of a moderate yellow-brown", "Synonyms: caramel brown"]}
+{"data": ["2023-01-22T13:00:13.869809+00:00", 8440, "Your mother is", "earsplitting", "Pronunciation: /\u02c8ir\u02ccspl\u026at\u026a\u014b/", "Definition: loud enough to cause (temporary) hearing loss", "Synonyms: deafening, thunderous, thundery"]}
