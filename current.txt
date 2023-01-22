@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T18:00:09.342714+00:00", 8445, "Your mother is", "low-level", "Pronunciation: /lo\u028a-\u02c8l\u025bv\u0259l/", "Definition: occurring at a relatively low altitude", "Synonyms: low-altitude"]}
+{"data": ["2023-01-22T19:00:21.911665+00:00", 8446, "Your mother is", "dragging", "Pronunciation: /\u02c8dr\u00e6\u0261\u026a\u014b/", "Definition: marked by a painfully slow and effortful manner", ""]}
