@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T07:00:26.086517+00:00", 8434, "Your mother is", "flushed", "Pronunciation: /fl\u028c\u0283t/", "Definition: having the pinkish flush of health", "Synonyms: rose-cheeked, rosy, rosy-cheeked"]}
+{"data": ["2023-01-22T08:00:17.984921+00:00", 8435, "Your mother is", "propellent", "Pronunciation: /pr\u0259\u02c8p\u025bl\u0259nt/", "Definition: tending to or capable of propelling", "Synonyms: propellant, propelling, propulsive"]}
