@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T13:00:13.869809+00:00", 8440, "Your mother is", "earsplitting", "Pronunciation: /\u02c8ir\u02ccspl\u026at\u026a\u014b/", "Definition: loud enough to cause (temporary) hearing loss", "Synonyms: deafening, thunderous, thundery"]}
+{"data": ["2023-01-22T14:00:16.626003+00:00", 8441, "Your mother is", "minus", "Pronunciation: /\u02c8ma\u026an\u0259s/", "Definition: involving disadvantage or harm", "Synonyms: negative"]}
