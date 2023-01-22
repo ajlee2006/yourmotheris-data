@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T21:00:12.584478+00:00", 8448, "Your mother is", "unspectacular", "Pronunciation: /\u02cc\u0259nsp\u025bk\u02c8t\u00e6kj\u028al\u0259r/", "Definition: not spectacular", ""]}
+{"data": ["2023-01-22T22:00:18.948582+00:00", 8449, "Your mother is", "ratified", "Pronunciation: /\u02c8r\u00e6t\u028c\u02ccfa\u026ad/", "Definition: formally approved and invested with legal authority", "Synonyms: sanctioned"]}
