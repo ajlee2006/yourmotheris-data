@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T17:00:25.687729+00:00", 8444, "Your mother is", "myopic", "Pronunciation: /ma\u026a\u02c8\u0251p\u026ak/", "Definition: unable to see distant objects clearly", "Synonyms: nearsighted, shortsighted"]}
+{"data": ["2023-01-22T18:00:09.342714+00:00", 8445, "Your mother is", "low-level", "Pronunciation: /lo\u028a-\u02c8l\u025bv\u0259l/", "Definition: occurring at a relatively low altitude", "Synonyms: low-altitude"]}
