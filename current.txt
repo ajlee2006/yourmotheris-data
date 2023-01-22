@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T19:00:21.911665+00:00", 8446, "Your mother is", "dragging", "Pronunciation: /\u02c8dr\u00e6\u0261\u026a\u014b/", "Definition: marked by a painfully slow and effortful manner", ""]}
+{"data": ["2023-01-22T20:00:10.465435+00:00", 8447, "Your mother is", "would-be", "Pronunciation: /\u02c8w\u028ad\u02ccbi/", "Definition: unfulfilled or frustrated in realizing an ambition", "Synonyms: manque"]}
