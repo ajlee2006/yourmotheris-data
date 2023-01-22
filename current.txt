@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T05:00:26.512668+00:00", 8432, "Your mother is", "put-upon", "Pronunciation: /\u02c8p\u028at\u0259\u02ccp\u0251n/", "Definition: (of persons) taken advantage of", "Synonyms: exploited, ill-used, used, victimised, victimized"]}
+{"data": ["2023-01-22T06:00:21.450123+00:00", 8433, "Your mother is", "forbearing", "Similar to: patient", "Definition: showing patient and unruffled self-control and restraint under adversity; slow to retaliate or express resentment", "Synonyms: longanimous"]}
