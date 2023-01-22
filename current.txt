@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T00:00:48.058163+00:00", 8427, "Your mother is", "overhasty", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8he\u026asti/", "Definition: done with very great haste and without due deliberation", "Synonyms: hasty, precipitant, precipitate, precipitous"]}
+{"data": ["2023-01-22T01:00:28.124848+00:00", 8428, "Your mother is", "bugged", "Pronunciation: /b\u028c\u0261d/", "Definition: having hidden electronic eavesdropping devices", ""]}
