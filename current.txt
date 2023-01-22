@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T16:00:17.986417+00:00", 8443, "Your mother is", "contraband", "Pronunciation: /\u02c8k\u0251ntr\u0259\u02ccb\u00e6nd/", "Definition: distributed or sold illicitly", "Synonyms: black, black-market, bootleg, smuggled"]}
+{"data": ["2023-01-22T17:00:25.687729+00:00", 8444, "Your mother is", "myopic", "Pronunciation: /ma\u026a\u02c8\u0251p\u026ak/", "Definition: unable to see distant objects clearly", "Synonyms: nearsighted, shortsighted"]}
