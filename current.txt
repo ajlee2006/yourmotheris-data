@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T02:00:20.835493+00:00", 8429, "Your mother is", "adept", "Pronunciation: /\u0259\u02c8d\u025bpt/", "Definition: having or showing knowledge and skill and aptitude", "Synonyms: expert, good, practiced, proficient, skilful, skillful"]}
+{"data": ["2023-01-22T03:00:28.150054+00:00", 8430, "Your mother is", "ungracious", "Pronunciation: /\u0259n\u02c8gre\u026a\u0283\u0259s/", "Definition: lacking social graces", "Synonyms: discourteous"]}
