@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T14:00:16.626003+00:00", 8441, "Your mother is", "minus", "Pronunciation: /\u02c8ma\u026an\u0259s/", "Definition: involving disadvantage or harm", "Synonyms: negative"]}
+{"data": ["2023-01-22T15:00:18.487400+00:00", 8442, "Your mother is", "latitudinarian", "Pronunciation: /\u02ccl\u00e6t\u026a\u02cctud\u02c8\u0259n\u025cr\u0259\u0259n/", "Definition: unwilling to accept authority or dogma (especially in religion)", "Synonyms: free-thinking, undogmatic, undogmatical"]}
