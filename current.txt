@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T22:00:18.948582+00:00", 8449, "Your mother is", "ratified", "Pronunciation: /\u02c8r\u00e6t\u028c\u02ccfa\u026ad/", "Definition: formally approved and invested with legal authority", "Synonyms: sanctioned"]}
+{"data": ["2023-01-22T23:00:27.664782+00:00", 8450, "Your mother is", "evaluative", "Similar to: critical", "Definition: exercising or involving careful evaluations", "Synonyms: appraising"]}
