@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T04:00:30.604368+00:00", 8431, "Your mother is", "headed", "Pronunciation: /\u02c8h\u025bd\u026ad/", "Definition: having a heading or course in a certain direction", ""]}
+{"data": ["2023-01-22T05:00:26.512668+00:00", 8432, "Your mother is", "put-upon", "Pronunciation: /\u02c8p\u028at\u0259\u02ccp\u0251n/", "Definition: (of persons) taken advantage of", "Synonyms: exploited, ill-used, used, victimised, victimized"]}
