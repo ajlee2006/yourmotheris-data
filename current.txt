@@ -1,1 +1,1 @@
-{"data": ["2023-01-23T11:00:16.510156+00:00", 8462, "Your mother is", "brinded", "Pronunciation: /\u02c8br\u026and\u026ad/", "Definition: having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats", "Synonyms: brindle, brindled, tabby"]}
+{"data": ["2023-01-23T12:00:30.226381+00:00", 8463, "Your mother is", "inscrutable", "Pronunciation: /\u026an\u02c8skrut\u0259b\u0259l/", "Definition: of an obscure nature", "Synonyms: cryptic, cryptical, deep, mysterious, mystifying"]}
