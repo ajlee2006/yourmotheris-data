@@ -1,1 +1,1 @@
-{"data": ["2023-01-22T23:00:27.664782+00:00", 8450, "Your mother is", "evaluative", "Similar to: critical", "Definition: exercising or involving careful evaluations", "Synonyms: appraising"]}
+{"data": ["2023-01-23T00:00:56.088412+00:00", 8451, "Your mother is", "revitalized", "Pronunciation: /ri\u02c8va\u026at\u028c\u02ccla\u026azd/", "Definition: restored to new life and vigor", "Synonyms: reborn, revitalised"]}
