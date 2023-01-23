@@ -1,1 +1,1 @@
-{"data": ["2023-01-23T22:00:13.447928+00:00", 8473, "Your mother is", "nonplused", "Similar to: perplexed", "Definition: filled with bewilderment", "Synonyms: at a loss, nonplussed, puzzled"]}
+{"data": ["2023-01-23T23:00:18.531494+00:00", 8474, "Your mother is", "unregretting", "", "Definition: feeling no regret", "Synonyms: unregretful"]}
