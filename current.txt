@@ -1,1 +1,1 @@
-{"data": ["2023-01-23T13:00:22.217903+00:00", 8464, "Your mother is", "workable", "Pronunciation: /\u02c8w\u025crk\u0259b\u0259l/", "Definition: capable of being done with means at hand and circumstances as they are", "Synonyms: executable, feasible, practicable, viable"]}
+{"data": ["2023-01-23T14:00:25.745362+00:00", 8465, "Your mother is", "eighteen", "Pronunciation: /\u02c8e\u026a\u02c8tin/", "Definition: being one more than seventeen", "Synonyms: 18, xviii"]}
