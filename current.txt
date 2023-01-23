@@ -1,1 +1,1 @@
-{"data": ["2023-01-23T00:00:56.088412+00:00", 8451, "Your mother is", "revitalized", "Pronunciation: /ri\u02c8va\u026at\u028c\u02ccla\u026azd/", "Definition: restored to new life and vigor", "Synonyms: reborn, revitalised"]}
+{"data": ["2023-01-23T01:00:25.110473+00:00", 8452, "Your mother is", "sign-language", "Similar to: communicative", "Definition: used of the language of the deaf", "Synonyms: gestural, sign, signed"]}
