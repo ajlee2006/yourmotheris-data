@@ -1,1 +1,1 @@
-{"data": ["2023-01-23T20:00:23.034024+00:00", 8471, "Your mother is", "cluttered", "Pronunciation: /\u02c8kl\u028ct\u025drd/", "Definition: filled or scattered with a disorderly accumulation of objects or rubbish", "Synonyms: littered"]}
+{"data": ["2023-01-23T21:00:19.319744+00:00", 8472, "Your mother is", "sainted", "Pronunciation: /\u02c8se\u026ant\u026ad/", "Definition: marked by utter benignity; resembling or befitting an angel or saint", "Synonyms: angelic, angelical, beatific, saintlike, saintly"]}
