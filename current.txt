@@ -1,1 +1,1 @@
-{"data": ["2023-01-23T04:00:19.970396+00:00", 8455, "Your mother is", "on-the-scene", "Similar to: on-site", "Definition: at the scene of action", "Synonyms: on-the-spot"]}
+{"data": ["2023-01-23T05:00:31.101247+00:00", 8456, "Your mother is", "dressed", "Pronunciation: /dr\u025bst/", "Definition: (of lumber or stone) to trim and smooth", "Synonyms: polished"]}
