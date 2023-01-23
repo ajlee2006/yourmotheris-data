@@ -1,1 +1,1 @@
-{"data": ["2023-01-23T14:00:25.745362+00:00", 8465, "Your mother is", "eighteen", "Pronunciation: /\u02c8e\u026a\u02c8tin/", "Definition: being one more than seventeen", "Synonyms: 18, xviii"]}
+{"data": ["2023-01-23T15:00:22.497692+00:00", 8466, "Your mother is", "multilateral", "Pronunciation: /\u02ccm\u0259lt\u026a\u02c8l\u00e6t\u0259r\u0259l/", "Definition: having many parts or sides", "Synonyms: many-sided"]}
