@@ -1,1 +1,1 @@
-{"data": ["2023-01-23T16:00:30.817779+00:00", 8467, "Your mother is", "unexpendable", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8sp\u025bnd\u0259b\u0259l/", "Definition: not suitable to be expended", ""]}
+{"data": ["2023-01-23T17:00:17.804172+00:00", 8468, "Your mother is", "ix", "Similar to: cardinal", "Definition: denoting a quantity consisting of one more than eight and one less than ten", "Synonyms: 9, nine"]}
