@@ -1,1 +1,1 @@
-{"data": ["2023-01-23T15:00:22.497692+00:00", 8466, "Your mother is", "multilateral", "Pronunciation: /\u02ccm\u0259lt\u026a\u02c8l\u00e6t\u0259r\u0259l/", "Definition: having many parts or sides", "Synonyms: many-sided"]}
+{"data": ["2023-01-23T16:00:30.817779+00:00", 8467, "Your mother is", "unexpendable", "Pronunciation: /\u02cc\u0259n\u026ak\u02c8sp\u025bnd\u0259b\u0259l/", "Definition: not suitable to be expended", ""]}
