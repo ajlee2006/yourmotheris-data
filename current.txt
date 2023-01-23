@@ -1,1 +1,1 @@
-{"data": ["2023-01-23T09:00:27.017391+00:00", 8460, "Your mother is", "exoergic", "Pronunciation: /\u02cc\u025bkso\u028a\u02c8\u025crd\u0292\u026ak/", "Definition: (of a nuclear reaction) occurring with evolution or releasing of energy", "Synonyms: energy-releasing"]}
+{"data": ["2023-01-23T10:00:17.102524+00:00", 8461, "Your mother is", "uncastrated", "Similar to: entire", "Definition: not castrated", ""]}
