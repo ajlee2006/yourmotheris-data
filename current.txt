@@ -1,1 +1,1 @@
-{"data": ["2023-01-23T03:00:18.534499+00:00", 8454, "Your mother is", "paranormal", "Pronunciation: /\u02ccp\u00e6r\u0259\u02c8no\u028arm\u0259l/", "Definition: seemingly outside normal sensory channels", "Synonyms: extrasensory"]}
+{"data": ["2023-01-23T04:00:19.970396+00:00", 8455, "Your mother is", "on-the-scene", "Similar to: on-site", "Definition: at the scene of action", "Synonyms: on-the-spot"]}
