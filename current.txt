@@ -1,1 +1,1 @@
-{"data": ["2023-01-23T07:00:17.655148+00:00", 8458, "Your mother is", "plant-eating", "Pronunciation: /pl\u00e6nt-\u02c8it\u026a\u014b/", "Definition: (of animals) feeding on plants", "Synonyms: phytophagic, phytophagous, phytophilous"]}
+{"data": ["2023-01-23T08:00:11.782289+00:00", 8459, "Your mother is", "incorrupt", "Pronunciation: /\u02cc\u026ank\u0259\u02c8r\u0259pt/", "Definition: not decayed", "Synonyms: undecomposed"]}
