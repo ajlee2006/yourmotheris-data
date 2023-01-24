@@ -1,1 +1,1 @@
-{"data": ["2023-01-24T13:00:17.718908+00:00", 8488, "Your mother is", "trial-and-error", "Similar to: heuristic", "Definition: relating to solving problems by experience rather than theory", ""]}
+{"data": ["2023-01-24T14:00:33.003705+00:00", 8489, "Your mother is", "untalented", "Pronunciation: /\u0259n\u02c8t\u00e6l\u0259nt\u026ad/", "Definition: devoid of talent; not gifted", "Synonyms: talentless"]}
