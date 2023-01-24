@@ -1,1 +1,1 @@
-{"data": ["2023-01-24T05:00:29.107830+00:00", 8480, "Your mother is", "tenebrious", "Pronunciation: /t\u0259\u02c8n\u025bbri\u0259s/", "Definition: dark and gloomy", "Synonyms: tenebrific, tenebrous"]}
+{"data": ["2023-01-24T06:00:15.939138+00:00", 8481, "Your mother is", "hypersensitized", "Similar to: susceptible", "Definition: having an allergy or peculiar or excessive susceptibility (especially to a specific factor)", "Synonyms: allergic, hypersensitised, hypersensitive, sensitised, sensitized, supersensitised, supersensitive, supersensitized"]}
