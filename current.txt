@@ -1,1 +1,1 @@
-{"data": ["2023-01-24T15:00:30.874032+00:00", 8490, "Your mother is", "botanic", "Pronunciation: /b\u0259\u02c8t\u00e6n\u026ak/", "Definition: of or relating to plants or botany", "Synonyms: botanical"]}
+{"data": ["2023-01-24T16:00:27.717726+00:00", 8491, "Your mother is", "dianoetic", "Pronunciation: /\u02ccda\u026a\u0259no\u028a\u02c8\u025bt\u026ak/", "Definition: proceeding to a conclusion by reason or argument rather than intuition", "Synonyms: discursive"]}
