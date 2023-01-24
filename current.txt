@@ -1,1 +1,1 @@
-{"data": ["2023-01-23T23:00:18.531494+00:00", 8474, "Your mother is", "unregretting", "", "Definition: feeling no regret", "Synonyms: unregretful"]}
+{"data": ["2023-01-24T00:01:01.076010+00:00", 8475, "Your mother is", "afrikaner", "Pronunciation: /\u02cc\u00e6fr\u0259\u02c8k\u0251n\u0259r/", "Definition: belonging or relating to white people of South Africa whose ancestors were Dutch or to their language", "Synonyms: afrikaans"]}
