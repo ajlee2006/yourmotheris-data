@@ -1,1 +1,1 @@
-{"data": ["2023-01-24T14:00:33.003705+00:00", 8489, "Your mother is", "untalented", "Pronunciation: /\u0259n\u02c8t\u00e6l\u0259nt\u026ad/", "Definition: devoid of talent; not gifted", "Synonyms: talentless"]}
+{"data": ["2023-01-24T15:00:30.874032+00:00", 8490, "Your mother is", "botanic", "Pronunciation: /b\u0259\u02c8t\u00e6n\u026ak/", "Definition: of or relating to plants or botany", "Synonyms: botanical"]}
