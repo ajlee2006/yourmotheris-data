@@ -1,1 +1,1 @@
-{"data": ["2023-01-24T19:00:14.512259+00:00", 8494, "Your mother is", "87", "Similar to: cardinal", "Definition: being seven more than eighty", "Synonyms: eighty-seven, lxxxvii"]}
+{"data": ["2023-01-24T20:00:12.914978+00:00", 8495, "Your mother is", "well-worn", "Pronunciation: /w\u025bl-wo\u028arn/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, tired, trite"]}
