@@ -1,1 +1,1 @@
-{"data": ["2023-01-24T08:00:27.375230+00:00", 8483, "Your mother is", "square-jawed", "Similar to: jawed", "Definition: having a relatively square jaw", ""]}
+{"data": ["2023-01-24T09:00:22.812809+00:00", 8484, "Your mother is", "mongol", "Pronunciation: /\u02c8m\u0251\u014b\u0261\u0259l/", "Definition: of or relating to the region of Mongolia or its people or their languages or cultures", "Synonyms: mongolian"]}
