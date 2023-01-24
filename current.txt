@@ -1,1 +1,1 @@
-{"data": ["2023-01-24T22:00:23.690132+00:00", 8497, "Your mother is", "baronial", "Pronunciation: /b\u0259\u02c8ro\u028ani\u0259l/", "Definition: impressive in appearance", "Synonyms: imposing, noble, stately"]}
+{"data": ["2023-01-24T23:00:27.963787+00:00", 8498, "Your mother is", "foreboding", "Pronunciation: /fo\u028ar\u02c8bo\u028ad\u026a\u014b/", "Definition: ominously prophetic", "Synonyms: fateful, portentous"]}
