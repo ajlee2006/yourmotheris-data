@@ -1,1 +1,1 @@
-{"data": ["2023-01-24T06:00:15.939138+00:00", 8481, "Your mother is", "hypersensitized", "Similar to: susceptible", "Definition: having an allergy or peculiar or excessive susceptibility (especially to a specific factor)", "Synonyms: allergic, hypersensitised, hypersensitive, sensitised, sensitized, supersensitised, supersensitive, supersensitized"]}
+{"data": ["2023-01-24T07:00:28.737724+00:00", 8482, "Your mother is", "full-blood", "Similar to: purebred", "Definition: of unmixed ancestry", "Synonyms: blooded, full-blooded"]}
