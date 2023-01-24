@@ -1,1 +1,1 @@
-{"data": ["2023-01-24T17:00:20.796861+00:00", 8492, "Your mother is", "scabby", "Pronunciation: /\u02c8sk\u00e6bi/", "Definition: covered with scabs", ""]}
+{"data": ["2023-01-24T18:00:17.423057+00:00", 8493, "Your mother is", "unattached", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u00e6\u02a7t/", "Definition: not associated in an exclusive sexual relationship", "Synonyms: uncommitted"]}
