@@ -1,1 +1,1 @@
-{"data": ["2023-01-24T09:00:22.812809+00:00", 8484, "Your mother is", "mongol", "Pronunciation: /\u02c8m\u0251\u014b\u0261\u0259l/", "Definition: of or relating to the region of Mongolia or its people or their languages or cultures", "Synonyms: mongolian"]}
+{"data": ["2023-01-24T10:00:23.443372+00:00", 8485, "Your mother is", "fitted out", "Pronunciation: /\u02c8f\u026at\u026ad-a\u028at/", "Definition: furnished with essential equipment for a particular occupation or undertaking occupation", "Synonyms: outfitted"]}
