@@ -1,1 +1,1 @@
-{"data": ["2023-01-24T00:01:01.076010+00:00", 8475, "Your mother is", "afrikaner", "Pronunciation: /\u02cc\u00e6fr\u0259\u02c8k\u0251n\u0259r/", "Definition: belonging or relating to white people of South Africa whose ancestors were Dutch or to their language", "Synonyms: afrikaans"]}
+{"data": ["2023-01-24T01:00:27.342012+00:00", 8476, "Your mother is", "five-needled", "Similar to: simple", "Definition: (of conifers) having five needles", ""]}
