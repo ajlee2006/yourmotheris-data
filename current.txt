@@ -1,1 +1,1 @@
-{"data": ["2023-01-24T20:00:12.914978+00:00", 8495, "Your mother is", "well-worn", "Pronunciation: /w\u025bl-wo\u028arn/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, tired, trite"]}
+{"data": ["2023-01-24T21:00:17.229576+00:00", 8496, "Your mother is", "giddy", "Pronunciation: /\u02c8\u0261\u026adi/", "Definition: lacking seriousness; given to frivolity", "Synonyms: airheaded, dizzy, empty-headed, featherbrained, light-headed, lightheaded, silly"]}
