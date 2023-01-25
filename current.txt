@@ -1,1 +1,1 @@
-{"data": ["2023-01-25T02:00:31.990146+00:00", 8501, "Your mother is", "fagged", "Similar to: tired", "Definition: drained of energy or effectiveness; extremely tired; completely exhausted", "Synonyms: dog-tired, exhausted, fatigued, gone, played out, spent, washed-out, worn-out, worn out"]}
+{"data": ["2023-01-25T03:00:14.998945+00:00", 8502, "Your mother is", "avaricious", "Pronunciation: /\u02cc\u00e6v\u0259\u02c8r\u026a\u0283\u0259s/", "Definition: immoderately desirous of acquiring e.g. wealth", "Synonyms: covetous, grabby, grasping, greedy, prehensile"]}
