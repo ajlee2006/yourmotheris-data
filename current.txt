@@ -1,1 +1,1 @@
-{"data": ["2023-01-25T18:00:24.050842+00:00", 8517, "Your mother is", "lesbian", "Pronunciation: /\u02c8l\u025bzbi\u0259n/", "Definition: of or relating to or characterized by homosexual relations between woman", "Synonyms: sapphic"]}
+{"data": ["2023-01-25T19:00:21.985327+00:00", 8518, "Your mother is", "fiber-optic", "", "Definition: of or relating to fiber optics", "Synonyms: fiberoptic, fibre-optic, fibreoptic"]}
