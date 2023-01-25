@@ -1,1 +1,1 @@
-{"data": ["2023-01-25T16:00:20.027433+00:00", 8515, "Your mother is", "heartwarming", "Pronunciation: /\u02c8h\u0251rt\u02ccw\u0254rm\u026a\u014b/", "Definition: causing gladness and pleasure", ""]}
+{"data": ["2023-01-25T17:00:23.751509+00:00", 8516, "Your mother is", "withdrawn", "Pronunciation: /w\u026a\u00f0\u02c8dr\u0254n/", "Definition: tending to reserve or introspection", "Synonyms: indrawn"]}
