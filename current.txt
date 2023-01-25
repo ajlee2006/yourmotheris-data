@@ -1,1 +1,1 @@
-{"data": ["2023-01-25T22:00:23.166972+00:00", 8521, "Your mother is", "herbaceous", "Pronunciation: /h\u025cr\u02c8be\u026a\u0283\u0259s/", "Definition: characteristic of a nonwoody herb or plant part", ""]}
+{"data": ["2023-01-25T23:00:35.839759+00:00", 8522, "Your mother is", "kayoed", "Similar to: unconscious", "Definition: knocked unconscious by a heavy blow", "Synonyms: knocked out, ko'd, out, stunned"]}
