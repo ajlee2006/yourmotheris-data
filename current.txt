@@ -1,1 +1,1 @@
-{"data": ["2023-01-24T23:00:27.963787+00:00", 8498, "Your mother is", "foreboding", "Pronunciation: /fo\u028ar\u02c8bo\u028ad\u026a\u014b/", "Definition: ominously prophetic", "Synonyms: fateful, portentous"]}
+{"data": ["2023-01-25T00:01:03.859367+00:00", 8499, "Your mother is", "jainist", "", "Definition: relating to or characteristic of Jainism", "Synonyms: jain"]}
