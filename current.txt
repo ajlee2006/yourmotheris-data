@@ -1,1 +1,1 @@
-{"data": ["2023-01-25T05:00:33.282992+00:00", 8504, "Your mother is", "undismayed", "Pronunciation: /\u02cc\u0259nd\u026as\u02c8me\u026ad/", "Definition: unshaken in purpose", "Synonyms: undaunted, unshaken"]}
+{"data": ["2023-01-25T06:00:17.927920+00:00", 8505, "Your mother is", "perilous", "Pronunciation: /\u02c8p\u025bril\u0259s/", "Definition: fraught with danger", "Synonyms: parlous, precarious, touch-and-go"]}
