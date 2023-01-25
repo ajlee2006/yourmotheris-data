@@ -1,1 +1,1 @@
-{"data": ["2023-01-25T21:00:12.273466+00:00", 8520, "Your mother is", "superordinate", "Pronunciation: /\u02ccsup\u0259r\u02c8\u0254r\u02ccd\u0259ne\u026at/", "Definition: of higher rank or status or value", ""]}
+{"data": ["2023-01-25T22:00:23.166972+00:00", 8521, "Your mother is", "herbaceous", "Pronunciation: /h\u025cr\u02c8be\u026a\u0283\u0259s/", "Definition: characteristic of a nonwoody herb or plant part", ""]}
