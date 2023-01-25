@@ -1,1 +1,1 @@
-{"data": ["2023-01-25T19:00:21.985327+00:00", 8518, "Your mother is", "fiber-optic", "", "Definition: of or relating to fiber optics", "Synonyms: fiberoptic, fibre-optic, fibreoptic"]}
+{"data": ["2023-01-25T20:00:23.244662+00:00", 8519, "Your mother is", "entertaining", "Pronunciation: /\u02cc\u025bnt\u0259r\u02c8te\u026an\u026a\u014b/", "Definition: agreeably diverting", ""]}
