@@ -1,1 +1,1 @@
-{"data": ["2023-01-25T03:00:14.998945+00:00", 8502, "Your mother is", "avaricious", "Pronunciation: /\u02cc\u00e6v\u0259\u02c8r\u026a\u0283\u0259s/", "Definition: immoderately desirous of acquiring e.g. wealth", "Synonyms: covetous, grabby, grasping, greedy, prehensile"]}
+{"data": ["2023-01-25T04:00:18.899219+00:00", 8503, "Your mother is", "greenish-gray", "Similar to: achromatic", "Definition: of grey tinged with green", "Synonyms: greenish-grey"]}
