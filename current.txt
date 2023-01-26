@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T06:00:19.599447+00:00", 8529, "Your mother is", "livid", "Pronunciation: /\u02c8l\u026av\u026ad/", "Definition: discolored by coagulation of blood beneath the skin", "Synonyms: black-and-blue"]}
+{"data": ["2023-01-26T07:00:17.563956+00:00", 8530, "Your mother is", "unappetizing", "Pronunciation: /\u02cc\u028cn\u02c8\u00e6p\u028c\u02ccta\u026az\u026a\u014b/", "Definition: not appetizing in appearance, aroma, or taste", "Synonyms: unappetising"]}
