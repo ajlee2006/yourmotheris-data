@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T00:00:49.998784+00:00", 8523, "Your mother is", "untimely", "Pronunciation: /\u0259n\u02c8ta\u026amli/", "Definition: badly timed", "Synonyms: ill-timed, unseasonable, wrong"]}
+{"data": ["2023-01-26T01:00:23.889960+00:00", 8524, "Your mother is", "aerobiotic", "Pronunciation: /\u02cc\u025cro\u028aba\u026a\u02c8\u0251t\u026ak/", "Definition: living or active only in the presence of oxygen", ""]}
