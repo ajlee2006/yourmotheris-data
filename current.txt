@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T01:00:23.889960+00:00", 8524, "Your mother is", "aerobiotic", "Pronunciation: /\u02cc\u025cro\u028aba\u026a\u02c8\u0251t\u026ak/", "Definition: living or active only in the presence of oxygen", ""]}
+{"data": ["2023-01-26T02:00:14.183286+00:00", 8525, "Your mother is", "gray-brown", "Pronunciation: /gre\u026a-bra\u028an/", "Definition: of brown tinged with grey", "Synonyms: grayish-brown, grey-brown, greyish-brown"]}
