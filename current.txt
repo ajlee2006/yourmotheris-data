@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T02:00:14.183286+00:00", 8525, "Your mother is", "gray-brown", "Pronunciation: /gre\u026a-bra\u028an/", "Definition: of brown tinged with grey", "Synonyms: grayish-brown, grey-brown, greyish-brown"]}
+{"data": ["2023-01-26T03:00:40.168115+00:00", 8526, "Your mother is", "daylong", "Pronunciation: /\u02c8de\u026a\u02ccl\u0254\u014b/", "Definition: lasting through an entire day", ""]}
