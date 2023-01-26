@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T10:00:17.487175+00:00", 8533, "Your mother is", "declared", "Pronunciation: /d\u026a\u02c8kl\u025crd/", "Definition: declared as fact; explicitly stated", "Synonyms: stated"]}
+{"data": ["2023-01-26T11:00:20.040776+00:00", 8534, "Your mother is", "myriad", "Pronunciation: /\u02c8m\u026ari\u0259d/", "Definition: too numerous to be counted", "Synonyms: countless, infinite, innumerable, innumerous, multitudinous, numberless, uncounted, unnumberable, unnumbered, unnumerable"]}
