@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T19:00:28.507137+00:00", 8542, "Your mother is", "faithful", "Pronunciation: /\u02c8fe\u026a\u03b8f\u0259l/", "Definition: marked by fidelity to an original", "Synonyms: close"]}
+{"data": ["2023-01-26T20:00:40.296720+00:00", 8543, "Your mother is", "smoothened", "Similar to: ironed", "Definition: made smooth by ironing", "Synonyms: smoothed"]}
