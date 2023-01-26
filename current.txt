@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T12:00:18.256548+00:00", 8535, "Your mother is", "longish", "Pronunciation: /\u02c8l\u0254\u014b\u026a\u0283/", "Definition: somewhat long", ""]}
+{"data": ["2023-01-26T13:00:10.093142+00:00", 8536, "Your mother is", "negligible", "Pronunciation: /\u02c8n\u025bgl\u026ad\u0292\u0259b\u0259l/", "Definition: not worth considering", "Synonyms: paltry, trifling"]}
