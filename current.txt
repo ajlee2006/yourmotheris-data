@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T04:00:18.335981+00:00", 8527, "Your mother is", "prodromic", "Pronunciation: /pr\u0259\u02c8dr\u0251m\u026ak/", "Definition: symptomatic of the onset of an attack or a disease", "Synonyms: prodromal"]}
+{"data": ["2023-01-26T05:00:13.957075+00:00", 8528, "Your mother is", "winter-blooming", "Similar to: wintery", "Definition: of plants that bloom during the winter", "Synonyms: winter-flowering"]}
