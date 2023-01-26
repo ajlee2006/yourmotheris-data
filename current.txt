@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T18:00:21.845289+00:00", 8541, "Your mother is", "ready-made", "Pronunciation: /\u02c8r\u025bdi-\u02c8me\u026ad/", "Definition: repeated regularly without thought or originality", "Synonyms: cliched"]}
+{"data": ["2023-01-26T19:00:28.507137+00:00", 8542, "Your mother is", "faithful", "Pronunciation: /\u02c8fe\u026a\u03b8f\u0259l/", "Definition: marked by fidelity to an original", "Synonyms: close"]}
