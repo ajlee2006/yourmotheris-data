@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T09:00:23.136294+00:00", 8532, "Your mother is", "affecting", "Pronunciation: /\u0259\u02c8f\u025bkt\u026a\u014b/", "Definition: arousing affect", "Synonyms: poignant, touching"]}
+{"data": ["2023-01-26T10:00:17.487175+00:00", 8533, "Your mother is", "declared", "Pronunciation: /d\u026a\u02c8kl\u025crd/", "Definition: declared as fact; explicitly stated", "Synonyms: stated"]}
