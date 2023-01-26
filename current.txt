@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T11:00:20.040776+00:00", 8534, "Your mother is", "myriad", "Pronunciation: /\u02c8m\u026ari\u0259d/", "Definition: too numerous to be counted", "Synonyms: countless, infinite, innumerable, innumerous, multitudinous, numberless, uncounted, unnumberable, unnumbered, unnumerable"]}
+{"data": ["2023-01-26T12:00:18.256548+00:00", 8535, "Your mother is", "longish", "Pronunciation: /\u02c8l\u0254\u014b\u026a\u0283/", "Definition: somewhat long", ""]}
