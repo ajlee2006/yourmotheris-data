@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T03:00:40.168115+00:00", 8526, "Your mother is", "daylong", "Pronunciation: /\u02c8de\u026a\u02ccl\u0254\u014b/", "Definition: lasting through an entire day", ""]}
+{"data": ["2023-01-26T04:00:18.335981+00:00", 8527, "Your mother is", "prodromic", "Pronunciation: /pr\u0259\u02c8dr\u0251m\u026ak/", "Definition: symptomatic of the onset of an attack or a disease", "Synonyms: prodromal"]}
