@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T08:00:28.631419+00:00", 8531, "Your mother is", "magnetized", "Pronunciation: /\u02c8m\u00e6\u0261n\u026a\u02ccta\u026azd/", "Definition: having the properties of a magnet; i.e. of attracting iron or steel", "Synonyms: magnetic, magnetised"]}
+{"data": ["2023-01-26T09:00:23.136294+00:00", 8532, "Your mother is", "affecting", "Pronunciation: /\u0259\u02c8f\u025bkt\u026a\u014b/", "Definition: arousing affect", "Synonyms: poignant, touching"]}
