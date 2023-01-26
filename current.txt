@@ -1,1 +1,1 @@
-{"data": ["2023-01-25T23:00:35.839759+00:00", 8522, "Your mother is", "kayoed", "Similar to: unconscious", "Definition: knocked unconscious by a heavy blow", "Synonyms: knocked out, ko'd, out, stunned"]}
+{"data": ["2023-01-26T00:00:49.998784+00:00", 8523, "Your mother is", "untimely", "Pronunciation: /\u0259n\u02c8ta\u026amli/", "Definition: badly timed", "Synonyms: ill-timed, unseasonable, wrong"]}
