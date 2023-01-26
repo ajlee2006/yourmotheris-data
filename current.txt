@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T13:00:10.093142+00:00", 8536, "Your mother is", "negligible", "Pronunciation: /\u02c8n\u025bgl\u026ad\u0292\u0259b\u0259l/", "Definition: not worth considering", "Synonyms: paltry, trifling"]}
+{"data": ["2023-01-26T14:00:16.836247+00:00", 8537, "Your mother is", "pukka", "Pronunciation: /\u02c8p\u0259k\u0259/", "Definition: absolutely first class and genuine", "Synonyms: pucka"]}
