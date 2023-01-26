@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T07:00:17.563956+00:00", 8530, "Your mother is", "unappetizing", "Pronunciation: /\u02cc\u028cn\u02c8\u00e6p\u028c\u02ccta\u026az\u026a\u014b/", "Definition: not appetizing in appearance, aroma, or taste", "Synonyms: unappetising"]}
+{"data": ["2023-01-26T08:00:28.631419+00:00", 8531, "Your mother is", "magnetized", "Pronunciation: /\u02c8m\u00e6\u0261n\u026a\u02ccta\u026azd/", "Definition: having the properties of a magnet; i.e. of attracting iron or steel", "Synonyms: magnetic, magnetised"]}
