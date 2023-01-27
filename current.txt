@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T03:00:19.997514+00:00", 8550, "Your mother is", "epidermic", "", "Definition: of or relating to a cuticle or cuticula", "Synonyms: cuticular, dermal, epidermal"]}
+{"data": ["2023-01-27T04:00:13.253263+00:00", 8551, "Your mother is", "dextrorse", "Pronunciation: /\u02c8d\u025bkstr\u0254rs/", "Definition: spiraling upward from left to right", "Synonyms: dextrorsal"]}
