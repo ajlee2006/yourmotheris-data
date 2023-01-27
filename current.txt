@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T01:00:52.504167+00:00", 8548, "Your mother is", "zany", "Pronunciation: /\u02c8ze\u026ani/", "Definition: ludicrous, foolish", "Synonyms: goofy, silly, wacky, whacky"]}
+{"data": ["2023-01-27T02:00:38.384858+00:00", 8549, "Your mother is", "supportive", "Pronunciation: /s\u0259\u02c8po\u028art\u026av/", "Definition: furnishing support or assistance", ""]}
