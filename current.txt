@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T22:00:43.624576+00:00", 8569, "Your mother is", "unsavory", "Pronunciation: /\u0259n\u02c8se\u026av\u0259ri/", "Definition: not pleasing in odor or taste", "Synonyms: distasteful, unsavoury"]}
+{"data": ["2023-01-27T23:00:26.894381+00:00", 8570, "Your mother is", "betrothed", "Pronunciation: /b\u026a\u02c8tro\u028a\u00f0d/", "Definition: pledged to be married", "Synonyms: bespoken"]}
