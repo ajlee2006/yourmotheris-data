@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T15:00:21.326337+00:00", 8562, "Your mother is", "well-known", "Pronunciation: /w\u025bl-no\u028an/", "Definition: frequently experienced; known closely or intimately", "Synonyms: long-familiar"]}
+{"data": ["2023-01-27T16:00:57.826215+00:00", 8563, "Your mother is", "sclerosed", "Pronunciation: /skl\u026a\u02c8ro\u028ast/", "Definition: relating to or having sclerosis; hardened", "Synonyms: sclerotic"]}
