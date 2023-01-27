@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T16:00:57.826215+00:00", 8563, "Your mother is", "sclerosed", "Pronunciation: /skl\u026a\u02c8ro\u028ast/", "Definition: relating to or having sclerosis; hardened", "Synonyms: sclerotic"]}
+{"data": ["2023-01-27T17:00:28.742693+00:00", 8564, "Your mother is", "philharmonic", "Pronunciation: /\u02ccf\u026alh\u0251r\u02c8m\u0251n\u026ak/", "Definition: devoted to or appreciative of music", ""]}
