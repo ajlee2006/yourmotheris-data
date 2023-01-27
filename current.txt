@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T14:00:37.241586+00:00", 8561, "Your mother is", "open-plan", "Similar to: unrestricted", "Definition: (of rooms or buildings) having large rooms with few dividing partitions", ""]}
+{"data": ["2023-01-27T15:00:21.326337+00:00", 8562, "Your mother is", "well-known", "Pronunciation: /w\u025bl-no\u028an/", "Definition: frequently experienced; known closely or intimately", "Synonyms: long-familiar"]}
