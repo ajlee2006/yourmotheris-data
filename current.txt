@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T09:00:29.334162+00:00", 8556, "Your mother is", "final", "Pronunciation: /\u02c8fa\u026an\u0259l/", "Definition: not to be altered or undone", "Synonyms: last"]}
+{"data": ["2023-01-27T10:00:38.882631+00:00", 8557, "Your mother is", "frore", "Pronunciation: /fro\u028ar/", "Definition: very cold", ""]}
