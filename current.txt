@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T06:00:38.024369+00:00", 8553, "Your mother is", "lucifugous", "Pronunciation: /lu\u02c8s\u026afj\u028a\u0261\u0259s/", "Definition: light-avoiding", "Synonyms: lucifugal"]}
+{"data": ["2023-01-27T07:00:22.472096+00:00", 8554, "Your mother is", "alliterative", "Pronunciation: /\u0259\u02c8l\u026at\u0259\u02ccre\u026at\u026av/", "Definition: having the same consonant at the beginning of each stressed syllable", ""]}
