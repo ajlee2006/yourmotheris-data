@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T12:00:26.968722+00:00", 8559, "Your mother is", "unperceived", "Pronunciation: /\u02cc\u0259np\u0259\u02c8sivd/", "Definition: not perceived or commented on", "Synonyms: unremarked"]}
+{"data": ["2023-01-27T13:00:39.478143+00:00", 8560, "Your mother is", "glad", "Pronunciation: /gl\u00e6d/", "Definition: eagerly disposed to act or to be of service", "Synonyms: happy"]}
