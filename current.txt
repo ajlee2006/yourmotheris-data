@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T04:00:13.253263+00:00", 8551, "Your mother is", "dextrorse", "Pronunciation: /\u02c8d\u025bkstr\u0254rs/", "Definition: spiraling upward from left to right", "Synonyms: dextrorsal"]}
+{"data": ["2023-01-27T05:00:36.903420+00:00", 8552, "Your mother is", "unloved", "Pronunciation: /\u0259n\u02c8l\u0259vd/", "Definition: not loved", ""]}
