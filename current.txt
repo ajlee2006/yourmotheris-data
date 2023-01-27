@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T10:00:38.882631+00:00", 8557, "Your mother is", "frore", "Pronunciation: /fro\u028ar/", "Definition: very cold", ""]}
+{"data": ["2023-01-27T11:00:24.593076+00:00", 8558, "Your mother is", "accessary", "Pronunciation: /\u00e6k\u02c8s\u025bs\u0259ri/", "Definition: aiding and abetting in a crime", "Synonyms: accessory"]}
