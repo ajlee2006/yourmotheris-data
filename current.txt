@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T19:00:40.127598+00:00", 8566, "Your mother is", "disorienting", "Pronunciation: /d\u026as\u02c8\u0254ri\u02cc\u025bnt\u026a\u014b/", "Definition: causing loss of physical or intellectual bearings", ""]}
+{"data": ["2023-01-27T20:00:51.146940+00:00", 8567, "Your mother is", "unstinting", "Pronunciation: /\u0259n\u02c8st\u026anti\u014b/", "Definition: very generous", "Synonyms: lavish, munificent, overgenerous, too-generous, unsparing, unstinted"]}
