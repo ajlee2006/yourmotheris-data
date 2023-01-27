@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T07:00:22.472096+00:00", 8554, "Your mother is", "alliterative", "Pronunciation: /\u0259\u02c8l\u026at\u0259\u02ccre\u026at\u026av/", "Definition: having the same consonant at the beginning of each stressed syllable", ""]}
+{"data": ["2023-01-27T08:00:43.887627+00:00", 8555, "Your mother is", "scrivened", "Similar to: written", "Definition: copied in handwriting", ""]}
