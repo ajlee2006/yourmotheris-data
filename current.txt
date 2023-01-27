@@ -1,1 +1,1 @@
-{"data": ["2023-01-26T23:00:31.250758+00:00", 8546, "Your mother is", "dished", "Pronunciation: /d\u026a\u0283t/", "Definition: shaped like a dish or pan", "Synonyms: dish-shaped, patelliform"]}
+{"data": ["2023-01-27T00:01:57.044458+00:00", 8547, "Your mother is", "imparipinnate", "Pronunciation: /\u026am\u02ccp\u00e6r\u0259\u02c8p\u026ane\u026at/", "Definition: (a leaf shape) pinnate with a single leaflet at the apex", "Synonyms: odd-pinnate"]}
