@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T13:00:39.478143+00:00", 8560, "Your mother is", "glad", "Pronunciation: /gl\u00e6d/", "Definition: eagerly disposed to act or to be of service", "Synonyms: happy"]}
+{"data": ["2023-01-27T14:00:37.241586+00:00", 8561, "Your mother is", "open-plan", "Similar to: unrestricted", "Definition: (of rooms or buildings) having large rooms with few dividing partitions", ""]}
