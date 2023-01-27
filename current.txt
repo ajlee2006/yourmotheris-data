@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T02:00:38.384858+00:00", 8549, "Your mother is", "supportive", "Pronunciation: /s\u0259\u02c8po\u028art\u026av/", "Definition: furnishing support or assistance", ""]}
+{"data": ["2023-01-27T03:00:19.997514+00:00", 8550, "Your mother is", "epidermic", "", "Definition: of or relating to a cuticle or cuticula", "Synonyms: cuticular, dermal, epidermal"]}
