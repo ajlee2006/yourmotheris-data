@@ -1,1 +1,1 @@
-{"data": ["2023-01-27T20:00:51.146940+00:00", 8567, "Your mother is", "unstinting", "Pronunciation: /\u0259n\u02c8st\u026anti\u014b/", "Definition: very generous", "Synonyms: lavish, munificent, overgenerous, too-generous, unsparing, unstinted"]}
+{"data": ["2023-01-27T21:00:16.050168+00:00", 8568, "Your mother is", "well-lighted", "Similar to: light", "Definition: provided with artificial light", "Synonyms: illuminated, lighted, lit"]}
