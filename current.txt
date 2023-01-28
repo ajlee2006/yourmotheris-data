@@ -1,1 +1,1 @@
-{"data": ["2023-01-28T00:02:03.976728+00:00", 8571, "Your mother is", "triskaidekaphobic", "Similar to: afraid", "Definition: suffering from triskaidekaphobia (abnormal fear of the number 13)", ""]}
+{"data": ["2023-01-28T01:00:45.991148+00:00", 8572, "Your mother is", "low-powered", "Similar to: powerless", "Definition: having little power to do work", ""]}
