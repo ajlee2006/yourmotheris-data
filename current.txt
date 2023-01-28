@@ -1,1 +1,1 @@
-{"data": ["2023-01-28T19:00:33.674442+00:00", 8590, "Your mother is", "autacoidal", "", "Definition: of or relating to an autacoid", ""]}
+{"data": ["2023-01-28T20:00:55.791774+00:00", 8591, "Your mother is", "amoebous", "", "Definition: pertaining to or resembling amoebae", "Synonyms: ameban, amebic, amebous, amoeban, amoebic"]}
