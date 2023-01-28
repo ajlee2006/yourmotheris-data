@@ -1,1 +1,1 @@
-{"data": ["2023-01-28T03:00:21.154925+00:00", 8574, "Your mother is", "puzzling", "Pronunciation: /\u02c8p\u028cz\u028cl\u026a\u014b/", "Definition: not clear to the understanding", "Synonyms: enigmatic, enigmatical"]}
+{"data": ["2023-01-28T04:00:41.251003+00:00", 8575, "Your mother is", "licit", "Pronunciation: /\u02c8l\u026as\u026at/", "Definition: authorized, sanctioned by, or in accordance with law", "Synonyms: lawful, legitimate"]}
