@@ -1,1 +1,1 @@
-{"data": ["2023-01-28T02:00:20.887645+00:00", 8573, "Your mother is", "bar-shaped", "Similar to: formed", "Definition: shaped like a rigid strip of metal or wood", ""]}
+{"data": ["2023-01-28T03:00:21.154925+00:00", 8574, "Your mother is", "puzzling", "Pronunciation: /\u02c8p\u028cz\u028cl\u026a\u014b/", "Definition: not clear to the understanding", "Synonyms: enigmatic, enigmatical"]}
