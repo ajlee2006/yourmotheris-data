@@ -1,1 +1,1 @@
-{"data": ["2023-01-28T12:01:00.290771+00:00", 8583, "Your mother is", "yellowish-gray", "Pronunciation: /\u02c8j\u025blo\u028a\u026a\u0283-gre\u026a/", "Definition: of grey tinged with yellow", "Synonyms: yellow-gray, yellow-grey, yellowish-grey"]}
+{"data": ["2023-01-28T13:00:44.303770+00:00", 8584, "Your mother is", "first-year", "Similar to: first", "Definition: used of a person in the first year of an experience (especially in United States high school or college)", "Synonyms: freshman"]}
