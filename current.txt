@@ -1,1 +1,1 @@
-{"data": ["2023-01-28T13:00:44.303770+00:00", 8584, "Your mother is", "first-year", "Similar to: first", "Definition: used of a person in the first year of an experience (especially in United States high school or college)", "Synonyms: freshman"]}
+{"data": ["2023-01-28T14:00:31.138510+00:00", 8585, "Your mother is", "undoable", "Similar to: impossible", "Definition: impossible to achieve", "Synonyms: unachievable, unattainable, unrealizable"]}
