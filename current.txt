@@ -1,1 +1,1 @@
-{"data": ["2023-01-28T11:00:52.846922+00:00", 8582, "Your mother is", "plainspoken", "Similar to: direct", "Definition: characterized by directness in manner or speech; without subtlety or evasion", "Synonyms: blunt, candid, forthright, frank, free-spoken, outspoken, point-blank, straight-from-the-shoulder"]}
+{"data": ["2023-01-28T12:01:00.290771+00:00", 8583, "Your mother is", "yellowish-gray", "Pronunciation: /\u02c8j\u025blo\u028a\u026a\u0283-gre\u026a/", "Definition: of grey tinged with yellow", "Synonyms: yellow-gray, yellow-grey, yellowish-grey"]}
