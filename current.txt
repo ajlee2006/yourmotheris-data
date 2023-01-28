@@ -1,1 +1,1 @@
-{"data": ["2023-01-28T20:00:55.791774+00:00", 8591, "Your mother is", "amoebous", "", "Definition: pertaining to or resembling amoebae", "Synonyms: ameban, amebic, amebous, amoeban, amoebic"]}
+{"data": ["2023-01-28T21:00:49.157736+00:00", 8592, "Your mother is", "phosphoric", "Pronunciation: /f\u0251s\u02c8f\u0254r\u026ak/", "Definition: containing or characteristic of phosphorus", "Synonyms: phosphorous"]}
