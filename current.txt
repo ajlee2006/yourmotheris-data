@@ -1,1 +1,1 @@
-{"data": ["2023-01-29T11:00:56.225967+00:00", 8606, "Your mother is", "canonic", "Pronunciation: /k\u0259\u02c8n\u0251n\u026ak/", "Definition: conforming to orthodox or recognized rules", "Synonyms: canonical, sanctioned"]}
+{"data": ["2023-01-29T12:00:47.405066+00:00", 8607, "Your mother is", "surmisable", "Similar to: thinkable", "Definition: capable of being inferred on slight grounds", "Synonyms: presumable, supposable"]}
