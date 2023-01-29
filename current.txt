@@ -1,1 +1,1 @@
-{"data": ["2023-01-29T10:00:34.848069+00:00", 8605, "Your mother is", "beefy", "Pronunciation: /\u02c8bifi/", "Definition: muscular and heavily built", "Synonyms: buirdly, burly, husky, strapping"]}
+{"data": ["2023-01-29T11:00:56.225967+00:00", 8606, "Your mother is", "canonic", "Pronunciation: /k\u0259\u02c8n\u0251n\u026ak/", "Definition: conforming to orthodox or recognized rules", "Synonyms: canonical, sanctioned"]}
