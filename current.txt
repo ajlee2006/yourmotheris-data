@@ -1,1 +1,1 @@
-{"data": ["2023-01-29T05:00:13.431463+00:00", 8600, "Your mother is", "stertorous", "Pronunciation: /\u02c8st\u025crt\u0259r\u0259s/", "Definition: of breathing having a heavy snoring sound", ""]}
+{"data": ["2023-01-29T06:00:55.038612+00:00", 8601, "Your mother is", "aeronautic", "Pronunciation: /\u02cc\u025cr\u0259\u02c8n\u0254t\u026ak/", "Definition: of or pertaining to aeronautics", "Synonyms: aeronautical"]}
