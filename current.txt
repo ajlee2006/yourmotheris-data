@@ -1,1 +1,1 @@
-{"data": ["2023-01-29T14:00:43.609458+00:00", 8609, "Your mother is", "seasonable", "Pronunciation: /\u02c8siz\u0259n\u0259b\u0259l/", "Definition: done or happening at the appropriate or proper time", "Synonyms: timely, well-timed, well timed"]}
+{"data": ["2023-01-29T15:00:21.630243+00:00", 8610, "Your mother is", "nonrandom", "Similar to: purposive", "Definition: not random", ""]}
