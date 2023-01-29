@@ -1,1 +1,1 @@
-{"data": ["2023-01-29T06:00:55.038612+00:00", 8601, "Your mother is", "aeronautic", "Pronunciation: /\u02cc\u025cr\u0259\u02c8n\u0254t\u026ak/", "Definition: of or pertaining to aeronautics", "Synonyms: aeronautical"]}
+{"data": ["2023-01-29T07:00:39.617458+00:00", 8602, "Your mother is", "native-born", "Pronunciation: /\u02c8ne\u026at\u026av-b\u0254rn/", "Definition: belonging to a place by birth", ""]}
