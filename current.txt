@@ -1,1 +1,1 @@
-{"data": ["2023-01-29T18:00:37.565014+00:00", 8613, "Your mother is", "surprising", "Pronunciation: /s\u025dr\u02c8pra\u026az\u026a\u014b/", "Definition: causing surprise or wonder or amazement", ""]}
+{"data": ["2023-01-29T19:00:34.540959+00:00", 8614, "Your mother is", "correlate", "Pronunciation: /\u02c8k\u0254r\u0259\u02ccle\u026at/", "Definition: mutually related", "Synonyms: correlated, correlative"]}
