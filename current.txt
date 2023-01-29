@@ -1,1 +1,1 @@
-{"data": ["2023-01-29T04:00:21.851150+00:00", 8599, "Your mother is", "snooty", "Pronunciation: /\u02c8snuti/", "Definition: (used colloquially) overly conceited or arrogant", "Synonyms: bigheaded, persnickety, snot-nosed, snotty, stuck-up, too big for one's breeches, uppish"]}
+{"data": ["2023-01-29T05:00:13.431463+00:00", 8600, "Your mother is", "stertorous", "Pronunciation: /\u02c8st\u025crt\u0259r\u0259s/", "Definition: of breathing having a heavy snoring sound", ""]}
