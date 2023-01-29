@@ -1,1 +1,1 @@
-{"data": ["2023-01-29T07:00:39.617458+00:00", 8602, "Your mother is", "native-born", "Pronunciation: /\u02c8ne\u026at\u026av-b\u0254rn/", "Definition: belonging to a place by birth", ""]}
+{"data": ["2023-01-29T08:00:30.578983+00:00", 8603, "Your mother is", "enate", "Pronunciation: /ine\u026at/", "Definition: related on the mother's side", "Synonyms: enatic, maternal"]}
