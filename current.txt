@@ -1,1 +1,1 @@
-{"data": ["2023-01-29T12:00:47.405066+00:00", 8607, "Your mother is", "surmisable", "Similar to: thinkable", "Definition: capable of being inferred on slight grounds", "Synonyms: presumable, supposable"]}
+{"data": ["2023-01-29T13:00:17.977830+00:00", 8608, "Your mother is", "imaginable", "Pronunciation: /\u026a\u02c8m\u00e6d\u0292\u0259n\u0259b\u0259l/", "Definition: capable of being imagined", "Synonyms: conceivable"]}
