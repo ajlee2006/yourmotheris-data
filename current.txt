@@ -1,1 +1,1 @@
-{"data": ["2023-01-29T19:00:34.540959+00:00", 8614, "Your mother is", "correlate", "Pronunciation: /\u02c8k\u0254r\u0259\u02ccle\u026at/", "Definition: mutually related", "Synonyms: correlated, correlative"]}
+{"data": ["2023-01-29T20:00:37.635951+00:00", 8615, "Your mother is", "vi", "Pronunciation: /va\u026a/", "Definition: denoting a quantity consisting of six items or units", "Synonyms: 6, half-dozen, half dozen, six"]}
