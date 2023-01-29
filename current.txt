@@ -1,1 +1,1 @@
-{"data": ["2023-01-28T23:00:54.945669+00:00", 8594, "Your mother is", "classifiable", "Pronunciation: /\u02c8kl\u00e6s\u028c\u02ccfa\u026a\u028cb\u028cl/", "Definition: capable of being classified", "Synonyms: distinctive"]}
+{"data": ["2023-01-29T00:02:01.492216+00:00", 8595, "Your mother is", "tyrannic", "Similar to: undemocratic", "Definition: characteristic of an absolute ruler or absolute rule; having absolute sovereignty", "Synonyms: authoritarian, autocratic, despotic, dictatorial, tyrannical"]}
