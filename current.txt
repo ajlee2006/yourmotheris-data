@@ -1,1 +1,1 @@
-{"data": ["2023-01-29T08:00:30.578983+00:00", 8603, "Your mother is", "enate", "Pronunciation: /ine\u026at/", "Definition: related on the mother's side", "Synonyms: enatic, maternal"]}
+{"data": ["2023-01-29T09:00:32.481224+00:00", 8604, "Your mother is", "draggled", "Similar to: dirty", "Definition: limp and soiled as if dragged in the mud", "Synonyms: bedraggled"]}
