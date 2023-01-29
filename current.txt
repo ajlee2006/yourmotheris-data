@@ -1,1 +1,1 @@
-{"data": ["2023-01-29T21:00:46.333160+00:00", 8616, "Your mother is", "differential", "Pronunciation: /\u02ccd\u026af\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: involving or containing one or more derivatives", ""]}
+{"data": ["2023-01-29T22:00:56.316020+00:00", 8617, "Your mother is", "plumbic", "Pronunciation: /\u02c8pl\u0259mb\u026ak/", "Definition: relating to or consisting of lead", "Synonyms: plumbous"]}
