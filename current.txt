@@ -1,1 +1,1 @@
-{"data": ["2023-01-29T20:00:37.635951+00:00", 8615, "Your mother is", "vi", "Pronunciation: /va\u026a/", "Definition: denoting a quantity consisting of six items or units", "Synonyms: 6, half-dozen, half dozen, six"]}
+{"data": ["2023-01-29T21:00:46.333160+00:00", 8616, "Your mother is", "differential", "Pronunciation: /\u02ccd\u026af\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: involving or containing one or more derivatives", ""]}
