@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T06:00:56.230145+00:00", 8624, "Your mother is", "denominational", "Pronunciation: /d\u026a\u02ccn\u0251m\u0259\u02c8ne\u026a\u0283\u0259n\u0259l/", "Definition: adhering or confined to a particular sect or denomination", ""]}
+{"data": ["2023-01-30T07:00:56.748157+00:00", 8625, "Your mother is", "up-to-the-minute", "Pronunciation: /\u02c8\u0259p-t\u0259\u00f0\u0259\u02c8m\u026an\u026at/", "Definition: up to the immediate present; most recent or most up-to-date", "Synonyms: latest"]}
