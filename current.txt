@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T04:00:49.600069+00:00", 8622, "Your mother is", "unforbearing", "Similar to: impatient", "Definition: unwilling to endure", ""]}
+{"data": ["2023-01-30T05:00:56.034840+00:00", 8623, "Your mother is", "freeborn", "Pronunciation: /\u02c8fri\u02ccb\u0254rn/", "Definition: born free of free parents", ""]}
