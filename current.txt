@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T10:00:46.933489+00:00", 8628, "Your mother is", "unnerving", "Pronunciation: /\u028cn\u02c8\u025drv\u026a\u014b/", "Definition: inspiring fear", "Synonyms: formidable, redoubtable"]}
+{"data": ["2023-01-30T11:00:38.230821+00:00", 8629, "Your mother is", "metonymical", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8n\u026am\u026ak\u0259l/", "Definition: using the name of one thing for that of another with which it is closely associated", "Synonyms: metonymic"]}
