@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T12:01:01.979247+00:00", 8630, "Your mother is", "gaunt", "Pronunciation: /\u0261\u0254nt/", "Definition: very thin especially from disease or hunger or cold", "Synonyms: cadaverous, emaciated, haggard, pinched, skeletal, wasted"]}
+{"data": ["2023-01-30T13:00:30.058275+00:00", 8631, "Your mother is", "brotherly", "Pronunciation: /\u02c8br\u0259\u00f0\u0259rli/", "Definition: like or characteristic of or befitting a brother", "Synonyms: brotherlike, fraternal"]}
