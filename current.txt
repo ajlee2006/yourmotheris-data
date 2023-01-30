@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T22:00:47.748535+00:00", 8640, "Your mother is", "jaded", "Pronunciation: /\u02c8d\u0292e\u026ad\u026ad/", "Definition: exhausted", "Synonyms: wearied"]}
+{"data": ["2023-01-30T23:00:42.407128+00:00", 8641, "Your mother is", "chapfallen", "Pronunciation: /\u02c8\u02a7\u0251p\u02ccf\u0254l\u0259n/", "Definition: brought low in spirit", "Synonyms: chopfallen, crestfallen, deflated"]}
