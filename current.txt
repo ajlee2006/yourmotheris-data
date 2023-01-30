@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T19:00:46.117485+00:00", 8637, "Your mother is", "indecorous", "Pronunciation: /\u026an\u02c8d\u025bk\u0259r\u0259s/", "Definition: not in keeping with accepted standards of what is right or proper in polite society", "Synonyms: indecent, unbecoming, uncomely, unseemly, untoward"]}
+{"data": ["2023-01-30T20:00:58.628259+00:00", 8638, "Your mother is", "astomatous", "Pronunciation: /e\u026a\u02c8st\u0251m\u0259t\u0259s/", "Definition: having no mouth or mouthlike opening", "Synonyms: mouthless"]}
