@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T08:00:55.828251+00:00", 8626, "Your mother is", "first-class", "Pronunciation: /\u02c8f\u025crst\u02c8kl\u00e6s/", "Definition: very good; of the highest quality", "Synonyms: excellent, fantabulous, ripping, splendid"]}
+{"data": ["2023-01-30T09:00:31.349913+00:00", 8627, "Your mother is", "vii", "Similar to: cardinal", "Definition: being one more than six", "Synonyms: 7, seven"]}
