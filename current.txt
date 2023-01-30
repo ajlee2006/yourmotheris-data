@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T01:00:30.643031+00:00", 8619, "Your mother is", "onymous", "Pronunciation: /\u02c8\u0251n\u026am\u0259s/", "Definition: bearing a name", ""]}
+{"data": ["2023-01-30T02:00:19.585921+00:00", 8620, "Your mother is", "linelike", "Similar to: linear", "Definition: resembling a line", ""]}
