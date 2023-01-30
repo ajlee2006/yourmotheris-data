@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T07:00:56.748157+00:00", 8625, "Your mother is", "up-to-the-minute", "Pronunciation: /\u02c8\u0259p-t\u0259\u00f0\u0259\u02c8m\u026an\u026at/", "Definition: up to the immediate present; most recent or most up-to-date", "Synonyms: latest"]}
+{"data": ["2023-01-30T08:00:55.828251+00:00", 8626, "Your mother is", "first-class", "Pronunciation: /\u02c8f\u025crst\u02c8kl\u00e6s/", "Definition: very good; of the highest quality", "Synonyms: excellent, fantabulous, ripping, splendid"]}
