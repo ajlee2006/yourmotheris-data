@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T14:00:54.106812+00:00", 8632, "Your mother is", "hunchbacked", "Pronunciation: /\u02c8h\u0259n\u02a7\u02ccb\u00e6kt/", "Definition: characteristic of or suffering from kyphosis, an abnormality of the vertebral column", "Synonyms: crookback, crookbacked, gibbous, humpbacked, humped, kyphotic"]}
+{"data": ["2023-01-30T15:00:22.956685+00:00", 8633, "Your mother is", "gallant", "Pronunciation: /\u02c8\u0261\u00e6l\u0259nt/", "Definition: lively and spirited", "Synonyms: dashing"]}
