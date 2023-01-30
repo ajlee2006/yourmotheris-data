@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T17:00:23.345222+00:00", 8635, "Your mother is", "warning", "Pronunciation: /\u02c8w\u0254rn\u026a\u014b/", "Definition: serving to warn", "Synonyms: admonitory, cautionary, exemplary, monitory"]}
+{"data": ["2023-01-30T18:00:24.413693+00:00", 8636, "Your mother is", "innovative", "Pronunciation: /\u02c8\u026an\u028c\u02ccve\u026at\u026av/", "Definition: being or producing something like nothing done or experienced or created before", "Synonyms: groundbreaking, innovational"]}
