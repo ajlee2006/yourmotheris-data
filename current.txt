@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T11:00:38.230821+00:00", 8629, "Your mother is", "metonymical", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8n\u026am\u026ak\u0259l/", "Definition: using the name of one thing for that of another with which it is closely associated", "Synonyms: metonymic"]}
+{"data": ["2023-01-30T12:01:01.979247+00:00", 8630, "Your mother is", "gaunt", "Pronunciation: /\u0261\u0254nt/", "Definition: very thin especially from disease or hunger or cold", "Synonyms: cadaverous, emaciated, haggard, pinched, skeletal, wasted"]}
