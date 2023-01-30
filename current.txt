@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T15:00:22.956685+00:00", 8633, "Your mother is", "gallant", "Pronunciation: /\u02c8\u0261\u00e6l\u0259nt/", "Definition: lively and spirited", "Synonyms: dashing"]}
+{"data": ["2023-01-30T16:00:33.261087+00:00", 8634, "Your mother is", "archaeozoic", "Pronunciation: /\u02cc\u0251rki\u0259\u02c8zo\u028a\u026ak/", "Definition: of or belonging to earlier of two divisions of the Precambrian era", "Synonyms: archeozoic"]}
