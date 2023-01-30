@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T05:00:56.034840+00:00", 8623, "Your mother is", "freeborn", "Pronunciation: /\u02c8fri\u02ccb\u0254rn/", "Definition: born free of free parents", ""]}
+{"data": ["2023-01-30T06:00:56.230145+00:00", 8624, "Your mother is", "denominational", "Pronunciation: /d\u026a\u02ccn\u0251m\u0259\u02c8ne\u026a\u0283\u0259n\u0259l/", "Definition: adhering or confined to a particular sect or denomination", ""]}
