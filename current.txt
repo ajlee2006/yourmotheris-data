@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T17:00:28.736079+00:00", 8659, "Your mother is", "protanopic", "Pronunciation: /\u02ccpro\u028at\u02c8\u0259n\u0251p\u026ak/", "Definition: inability to see the color red or to distinguish red and bluish-green", "Synonyms: red-blind"]}
+{"data": ["2023-01-31T18:00:52.731675+00:00", 8660, "Your mother is", "cornered", "Pronunciation: /\u02c8k\u0254rn\u0259rd/", "Definition: forced to turn and face attackers", "Synonyms: at bay, trapped, treed"]}
