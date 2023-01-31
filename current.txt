@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T18:00:52.731675+00:00", 8660, "Your mother is", "cornered", "Pronunciation: /\u02c8k\u0254rn\u0259rd/", "Definition: forced to turn and face attackers", "Synonyms: at bay, trapped, treed"]}
+{"data": ["2023-01-31T19:00:23.254585+00:00", 8661, "Your mother is", "flash-frozen", "Similar to: preserved", "Definition: (used of foods) preserved by freezing sufficiently rapidly to retain flavor and nutritional value", "Synonyms: frozen, quick-frozen"]}
