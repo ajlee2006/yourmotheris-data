@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T06:00:47.014457+00:00", 8648, "Your mother is", "nonmodern", "Similar to: horse-and-buggy", "Definition: not modern; of or characteristic of an earlier time", ""]}
+{"data": ["2023-01-31T07:00:37.293292+00:00", 8649, "Your mother is", "echoic", "Pronunciation: /\u025b\u02c8ko\u028a\u026ak/", "Definition: like or characteristic of an echo", "Synonyms: echolike"]}
