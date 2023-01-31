@@ -1,1 +1,1 @@
-{"data": ["2023-01-30T23:00:42.407128+00:00", 8641, "Your mother is", "chapfallen", "Pronunciation: /\u02c8\u02a7\u0251p\u02ccf\u0254l\u0259n/", "Definition: brought low in spirit", "Synonyms: chopfallen, crestfallen, deflated"]}
+{"data": ["2023-01-31T00:02:28.771715+00:00", 8642, "Your mother is", "drinkable", "Pronunciation: /\u02c8dr\u026a\u014bk\u0259b\u0259l/", "Definition: suitable for drinking", "Synonyms: potable"]}
