@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T14:00:29.125444+00:00", 8656, "Your mother is", "radioactive", "Pronunciation: /\u02ccre\u026adio\u028a\u02c8\u00e6kt\u026av/", "Definition: exhibiting or caused by radioactivity", ""]}
+{"data": ["2023-01-31T15:00:23.556242+00:00", 8657, "Your mother is", "semipolitical", "Pronunciation: /\u02ccs\u025bmip\u0259\u02c8l\u026at\u026ak\u0259l/", "Definition: political in some (but not all) aspects", ""]}
