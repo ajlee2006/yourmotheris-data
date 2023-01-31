@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T22:00:30.173050+00:00", 8664, "Your mother is", "agamic", "Pronunciation: /\u0259\u02c8\u0261\u00e6m\u026ak/", "Definition: (of reproduction) not involving the fusion of male and female gametes in reproduction", "Synonyms: agamogenetic, agamous, apomictic, parthenogenetic"]}
+{"data": ["2023-01-31T23:00:47.419631+00:00", 8665, "Your mother is", "closed-door", "Pronunciation: /\u02c8klo\u028azd\u02c8do\u028ar/", "Definition: not open to the public", ""]}
