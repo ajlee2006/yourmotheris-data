@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T04:00:51.340685+00:00", 8646, "Your mother is", "ebullient", "Pronunciation: /\u026a\u02c8b\u0259lj\u0259nt/", "Definition: joyously unrestrained", "Synonyms: exuberant, high-spirited"]}
+{"data": ["2023-01-31T05:00:26.662717+00:00", 8647, "Your mother is", "subocular", "Pronunciation: /s\u0259b\u02c8\u0251kj\u028al\u0259r/", "Definition: situated on or below the floor of the eye socket", "Synonyms: suborbital"]}
