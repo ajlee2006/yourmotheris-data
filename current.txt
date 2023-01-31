@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T19:00:23.254585+00:00", 8661, "Your mother is", "flash-frozen", "Similar to: preserved", "Definition: (used of foods) preserved by freezing sufficiently rapidly to retain flavor and nutritional value", "Synonyms: frozen, quick-frozen"]}
+{"data": ["2023-01-31T20:00:21.549472+00:00", 8662, "Your mother is", "ectopic", "Pronunciation: /\u025bk\u02c8t\u0251p\u026ak/", "Definition: exhibiting ectopia", ""]}
