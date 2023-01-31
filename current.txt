@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T10:00:31.686904+00:00", 8652, "Your mother is", "clean-cut", "Pronunciation: /klin-k\u0259t/", "Definition: neat and smart in appearance", "Synonyms: trig, trim"]}
+{"data": ["2023-01-31T11:00:30.962928+00:00", 8653, "Your mother is", "apoplectiform", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8pl\u025bkt\u0259\u02ccf\u0254rm/", "Definition: resembling apoplexy", "Synonyms: apoplectoid"]}
