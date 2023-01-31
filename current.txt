@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T08:00:16.799354+00:00", 8650, "Your mother is", "epicyclic", "Pronunciation: /\u02cc\u025bp\u026a\u02c8sa\u026akl\u026ak/", "Definition: of or relating to an epicycle", "Synonyms: epicyclical"]}
+{"data": ["2023-01-31T09:00:55.183417+00:00", 8651, "Your mother is", "binary", "Pronunciation: /\u02c8ba\u026an\u0259ri/", "Definition: consisting of two (units or components or elements or terms)", ""]}
