@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T15:00:23.556242+00:00", 8657, "Your mother is", "semipolitical", "Pronunciation: /\u02ccs\u025bmip\u0259\u02c8l\u026at\u026ak\u0259l/", "Definition: political in some (but not all) aspects", ""]}
+{"data": ["2023-01-31T16:00:13.735206+00:00", 8658, "Your mother is", "credentialled", "Similar to: certified", "Definition: certified as professional by evidence or testimonials", ""]}
