@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T11:00:30.962928+00:00", 8653, "Your mother is", "apoplectiform", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8pl\u025bkt\u0259\u02ccf\u0254rm/", "Definition: resembling apoplexy", "Synonyms: apoplectoid"]}
+{"data": ["2023-01-31T12:00:42.481658+00:00", 8654, "Your mother is", "contractile", "Pronunciation: /k\u0259n\u02c8tr\u00e6kt\u0259l/", "Definition: capable of contracting or being contracted", ""]}
