@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T01:00:23.831479+00:00", 8643, "Your mother is", "casteless", "Similar to: unwanted", "Definition: not belonging to or having been expelled from a caste and thus having no place or status in society", "Synonyms: outcaste"]}
+{"data": ["2023-01-31T02:00:40.371973+00:00", 8644, "Your mother is", "inactive", "Pronunciation: /\u026an\u02c8\u00e6kt\u026av/", "Definition: lacking in energy or will", "Synonyms: passive"]}
