@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T09:00:55.183417+00:00", 8651, "Your mother is", "binary", "Pronunciation: /\u02c8ba\u026an\u0259ri/", "Definition: consisting of two (units or components or elements or terms)", ""]}
+{"data": ["2023-01-31T10:00:31.686904+00:00", 8652, "Your mother is", "clean-cut", "Pronunciation: /klin-k\u0259t/", "Definition: neat and smart in appearance", "Synonyms: trig, trim"]}
