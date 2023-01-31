@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T05:00:26.662717+00:00", 8647, "Your mother is", "subocular", "Pronunciation: /s\u0259b\u02c8\u0251kj\u028al\u0259r/", "Definition: situated on or below the floor of the eye socket", "Synonyms: suborbital"]}
+{"data": ["2023-01-31T06:00:47.014457+00:00", 8648, "Your mother is", "nonmodern", "Similar to: horse-and-buggy", "Definition: not modern; of or characteristic of an earlier time", ""]}
