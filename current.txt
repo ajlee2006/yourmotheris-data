@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T12:00:42.481658+00:00", 8654, "Your mother is", "contractile", "Pronunciation: /k\u0259n\u02c8tr\u00e6kt\u0259l/", "Definition: capable of contracting or being contracted", ""]}
+{"data": ["2023-01-31T13:00:53.034785+00:00", 8655, "Your mother is", "forward", "Pronunciation: /\u02c8f\u0254rw\u0259rd/", "Definition: moving forward", "Synonyms: advancing, forward-moving"]}
