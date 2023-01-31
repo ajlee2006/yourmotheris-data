@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T02:00:40.371973+00:00", 8644, "Your mother is", "inactive", "Pronunciation: /\u026an\u02c8\u00e6kt\u026av/", "Definition: lacking in energy or will", "Synonyms: passive"]}
+{"data": ["2023-01-31T03:00:39.300234+00:00", 8645, "Your mother is", "extended", "Pronunciation: /\u026ak\u02c8st\u025bnd\u026ad/", "Definition: relatively long in duration; tediously protracted", "Synonyms: drawn-out, lengthy, prolonged, protracted"]}
