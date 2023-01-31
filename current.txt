@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T00:02:28.771715+00:00", 8642, "Your mother is", "drinkable", "Pronunciation: /\u02c8dr\u026a\u014bk\u0259b\u0259l/", "Definition: suitable for drinking", "Synonyms: potable"]}
+{"data": ["2023-01-31T01:00:23.831479+00:00", 8643, "Your mother is", "casteless", "Similar to: unwanted", "Definition: not belonging to or having been expelled from a caste and thus having no place or status in society", "Synonyms: outcaste"]}
