@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T19:00:47.568567+00:00", 8685, "Your mother is", "blue-green", "Pronunciation: /blu-grin/", "Definition: of a bluish shade of green", "Synonyms: bluish green, cyan, teal"]}
+{"data": ["2023-02-01T20:00:26.030527+00:00", 8686, "Your mother is", "recessive", "Pronunciation: /r\u026a\u02c8s\u025bs\u026av/", "Definition: of or pertaining to a recession", "Synonyms: recessionary"]}
