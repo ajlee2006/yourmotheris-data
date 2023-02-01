@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T17:00:35.904669+00:00", 8683, "Your mother is", "exanimate", "Pronunciation: /\u026a\u0261\u02c8z\u00e6n\u0259m\u026at/", "Definition: deprived of life; no longer living", "Synonyms: lifeless"]}
+{"data": ["2023-02-01T18:00:39.642000+00:00", 8684, "Your mother is", "congested", "Pronunciation: /k\u028cn\u02c8d\u0292\u025bst\u028cd/", "Definition: overfull as with blood", "Synonyms: engorged"]}
