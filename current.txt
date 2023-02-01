@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T16:00:44.533343+00:00", 8682, "Your mother is", "unkind", "Pronunciation: /\u0259n\u02c8ka\u026and/", "Definition: deficient in humane and kindly feelings", "Synonyms: pitiless"]}
+{"data": ["2023-02-01T17:00:35.904669+00:00", 8683, "Your mother is", "exanimate", "Pronunciation: /\u026a\u0261\u02c8z\u00e6n\u0259m\u026at/", "Definition: deprived of life; no longer living", "Synonyms: lifeless"]}
