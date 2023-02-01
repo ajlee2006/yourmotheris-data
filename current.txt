@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T14:00:54.383988+00:00", 8680, "Your mother is", "cagey", "Pronunciation: /\u02c8ke\u026ad\u0292i/", "Definition: showing self-interest and shrewdness in dealing with others", "Synonyms: cagy, canny, clever"]}
+{"data": ["2023-02-01T15:00:20.902540+00:00", 8681, "Your mother is", "bald-headed", "Pronunciation: /b\u0254ld-\u02c8h\u025bd\u026ad/", "Definition: lacking hair on all or most of the scalp", "Synonyms: bald, bald-pated"]}
