@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T06:00:36.376165+00:00", 8672, "Your mother is", "aperiodic", "Pronunciation: /\u02cce\u026apiri\u02c8\u0251d\u026ak/", "Definition: not recurring at regular intervals", "Synonyms: nonperiodic"]}
+{"data": ["2023-02-01T07:00:54.095621+00:00", 8673, "Your mother is", "ischemic", "", "Definition: relating to or affected by ischemia", "Synonyms: ischaemic"]}
