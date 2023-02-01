@@ -1,1 +1,1 @@
-{"data": ["2023-01-31T23:00:47.419631+00:00", 8665, "Your mother is", "closed-door", "Pronunciation: /\u02c8klo\u028azd\u02c8do\u028ar/", "Definition: not open to the public", ""]}
+{"data": ["2023-02-01T00:01:27.449406+00:00", 8666, "Your mother is", "overzealous", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8z\u025bl\u0259s/", "Definition: marked by excessive enthusiasm for and intense devotion to a cause or idea", "Synonyms: fanatic, fanatical, rabid"]}
