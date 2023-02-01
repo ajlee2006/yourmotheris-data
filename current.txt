@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T15:00:20.902540+00:00", 8681, "Your mother is", "bald-headed", "Pronunciation: /b\u0254ld-\u02c8h\u025bd\u026ad/", "Definition: lacking hair on all or most of the scalp", "Synonyms: bald, bald-pated"]}
+{"data": ["2023-02-01T16:00:44.533343+00:00", 8682, "Your mother is", "unkind", "Pronunciation: /\u0259n\u02c8ka\u026and/", "Definition: deficient in humane and kindly feelings", "Synonyms: pitiless"]}
