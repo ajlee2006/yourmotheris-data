@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T07:00:54.095621+00:00", 8673, "Your mother is", "ischemic", "", "Definition: relating to or affected by ischemia", "Synonyms: ischaemic"]}
+{"data": ["2023-02-01T08:00:52.521365+00:00", 8674, "Your mother is", "heliocentric", "Pronunciation: /\u02cchilio\u028a\u02c8s\u025bntr\u026ak/", "Definition: having the sun as the center", ""]}
