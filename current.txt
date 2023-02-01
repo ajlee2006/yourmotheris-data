@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T09:00:39.837077+00:00", 8675, "Your mother is", "porcine", "Pronunciation: /\u02c8p\u0254rs\u026an/", "Definition: repellently fat", "Synonyms: gross"]}
+{"data": ["2023-02-01T10:00:37.604325+00:00", 8676, "Your mother is", "misguided", "Pronunciation: /m\u026as\u02c8\u0261a\u026ad\u026ad/", "Definition: poorly conceived or thought out", "Synonyms: ill-conceived"]}
