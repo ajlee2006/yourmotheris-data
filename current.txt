@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T00:01:27.449406+00:00", 8666, "Your mother is", "overzealous", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8z\u025bl\u0259s/", "Definition: marked by excessive enthusiasm for and intense devotion to a cause or idea", "Synonyms: fanatic, fanatical, rabid"]}
+{"data": ["2023-02-01T01:00:42.334450+00:00", 8667, "Your mother is", "portable", "Pronunciation: /\u02c8po\u028art\u0259b\u0259l/", "Definition: easily or conveniently transported", ""]}
