@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T03:00:22.281348+00:00", 8669, "Your mother is", "opencast", "Pronunciation: /\u02c8o\u028ap\u0259n\u02cck\u0251st/", "Definition: (of mines and mining) worked from the exposed surface", "Synonyms: opencut"]}
+{"data": ["2023-02-01T04:00:22.158640+00:00", 8670, "Your mother is", "smooth-tongued", "Similar to: persuasive", "Definition: artfully persuasive in speech", "Synonyms: glib, glib-tongued"]}
