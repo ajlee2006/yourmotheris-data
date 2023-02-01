@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T11:00:19.318389+00:00", 8677, "Your mother is", "pink-lavender", "Similar to: chromatic", "Definition: of lavender tinged with pink", "Synonyms: pinkish-lavender"]}
+{"data": ["2023-02-01T12:00:35.346236+00:00", 8678, "Your mother is", "purplish-red", "Similar to: chromatic", "Definition: of red tinged with purple", "Synonyms: purple-red"]}
