@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T20:00:26.030527+00:00", 8686, "Your mother is", "recessive", "Pronunciation: /r\u026a\u02c8s\u025bs\u026av/", "Definition: of or pertaining to a recession", "Synonyms: recessionary"]}
+{"data": ["2023-02-01T21:00:46.880299+00:00", 8687, "Your mother is", "self-collected", "Pronunciation: /s\u025blf-k\u0259\u02c8l\u025bkt\u026ad/", "Definition: in full control of your faculties", "Synonyms: collected, equanimous, poised, self-contained, self-possessed"]}
