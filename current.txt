@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T08:00:52.521365+00:00", 8674, "Your mother is", "heliocentric", "Pronunciation: /\u02cchilio\u028a\u02c8s\u025bntr\u026ak/", "Definition: having the sun as the center", ""]}
+{"data": ["2023-02-01T09:00:39.837077+00:00", 8675, "Your mother is", "porcine", "Pronunciation: /\u02c8p\u0254rs\u026an/", "Definition: repellently fat", "Synonyms: gross"]}
