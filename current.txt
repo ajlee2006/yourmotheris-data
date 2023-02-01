@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T18:00:39.642000+00:00", 8684, "Your mother is", "congested", "Pronunciation: /k\u028cn\u02c8d\u0292\u025bst\u028cd/", "Definition: overfull as with blood", "Synonyms: engorged"]}
+{"data": ["2023-02-01T19:00:47.568567+00:00", 8685, "Your mother is", "blue-green", "Pronunciation: /blu-grin/", "Definition: of a bluish shade of green", "Synonyms: bluish green, cyan, teal"]}
