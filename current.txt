@@ -1,1 +1,1 @@
-{"data": ["2023-02-02T11:00:48.486135+00:00", 8701, "Your mother is", "meshuga", "Pronunciation: /m\u0259\u02c8\u0283\u028a\u0261\u0259/", "Definition: senseless; crazy", "Synonyms: meshugga, meshugge, meshuggeneh, meshuggener"]}
+{"data": ["2023-02-02T12:00:35.300438+00:00", 8702, "Your mother is", "multilingual", "Pronunciation: /\u02ccm\u0259lt\u026a\u02c8l\u026a\u014bgw\u0259l/", "Definition: using or knowing more than one language", ""]}
