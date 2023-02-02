@@ -1,1 +1,1 @@
-{"data": ["2023-02-02T21:00:41.322333+00:00", 8711, "Your mother is", "gluttonous", "Pronunciation: /\u02c8gl\u0259t\u0259n\u0259s/", "Definition: given to excess in consumption of especially food or drink", ""]}
+{"data": ["2023-02-02T22:00:52.955103+00:00", 8712, "Your mother is", "stepwise", "Pronunciation: /\u02c8st\u025bpwa\u026as/", "Definition: one thing at a time", "Synonyms: bit-by-bit, in small stages, piecemeal, step-by-step"]}
