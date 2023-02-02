@@ -1,1 +1,1 @@
-{"data": ["2023-02-02T20:00:40.912816+00:00", 8710, "Your mother is", "batter-fried", "Similar to: cooked", "Definition: fried in batter", ""]}
+{"data": ["2023-02-02T21:00:41.322333+00:00", 8711, "Your mother is", "gluttonous", "Pronunciation: /\u02c8gl\u0259t\u0259n\u0259s/", "Definition: given to excess in consumption of especially food or drink", ""]}
