@@ -1,1 +1,1 @@
-{"data": ["2023-02-02T14:00:54.005587+00:00", 8704, "Your mother is", "headlong", "Pronunciation: /\u02c8h\u025bd\u02ccl\u0254\u014b/", "Definition: with the head foremost", "Synonyms: headfirst"]}
+{"data": ["2023-02-02T15:00:54.426524+00:00", 8705, "Your mother is", "adsorptive", "Similar to: chemisorptive", "Definition: having capacity or tendency to adsorb or cause to accumulate on a surface", "Synonyms: adsorbent, surface-assimilative"]}
