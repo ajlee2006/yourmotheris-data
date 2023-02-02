@@ -1,1 +1,1 @@
-{"data": ["2023-02-02T12:00:35.300438+00:00", 8702, "Your mother is", "multilingual", "Pronunciation: /\u02ccm\u0259lt\u026a\u02c8l\u026a\u014bgw\u0259l/", "Definition: using or knowing more than one language", ""]}
+{"data": ["2023-02-02T13:00:53.902540+00:00", 8703, "Your mother is", "purplish-white", "Similar to: achromatic", "Definition: of white tinged with purple", "Synonyms: purple-white"]}
