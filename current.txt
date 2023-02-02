@@ -1,1 +1,1 @@
-{"data": ["2023-02-02T04:00:13.730566+00:00", 8694, "Your mother is", "accepted", "Pronunciation: /\u00e6k\u02c8s\u025bpt\u026ad/", "Definition: generally approved or compelling recognition", "Synonyms: recognised, recognized"]}
+{"data": ["2023-02-02T05:00:53.194581+00:00", 8695, "Your mother is", "stonyhearted", "Similar to: uncompassionate", "Definition: devoid of feeling for others", "Synonyms: hardhearted, unfeeling"]}
