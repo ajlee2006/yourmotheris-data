@@ -1,1 +1,1 @@
-{"data": ["2023-02-02T22:00:52.955103+00:00", 8712, "Your mother is", "stepwise", "Pronunciation: /\u02c8st\u025bpwa\u026as/", "Definition: one thing at a time", "Synonyms: bit-by-bit, in small stages, piecemeal, step-by-step"]}
+{"data": ["2023-02-02T23:00:52.197634+00:00", 8713, "Your mother is", "unproblematic", "Pronunciation: /\u02cc\u0259npr\u0251bl\u0259\u02c8m\u00e6t\u026ak/", "Definition: easy and not involved or complicated", "Synonyms: elementary, simple, uncomplicated"]}
