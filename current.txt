@@ -1,1 +1,1 @@
-{"data": ["2023-02-01T23:00:22.012685+00:00", 8689, "Your mother is", "near", "Pronunciation: /nir/", "Definition: with or in a close or intimate relationship", "Synonyms: dear, good"]}
+{"data": ["2023-02-02T00:01:43.710004+00:00", 8690, "Your mother is", "halt", "Pronunciation: /h\u0254lt/", "Definition: disabled in the feet or legs", "Synonyms: crippled, game, gimpy, halting, lame"]}
