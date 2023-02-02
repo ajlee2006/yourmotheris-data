@@ -1,1 +1,1 @@
-{"data": ["2023-02-02T13:00:53.902540+00:00", 8703, "Your mother is", "purplish-white", "Similar to: achromatic", "Definition: of white tinged with purple", "Synonyms: purple-white"]}
+{"data": ["2023-02-02T14:00:54.005587+00:00", 8704, "Your mother is", "headlong", "Pronunciation: /\u02c8h\u025bd\u02ccl\u0254\u014b/", "Definition: with the head foremost", "Synonyms: headfirst"]}
