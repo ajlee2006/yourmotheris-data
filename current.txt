@@ -1,1 +1,1 @@
-{"data": ["2023-02-02T15:00:54.426524+00:00", 8705, "Your mother is", "adsorptive", "Similar to: chemisorptive", "Definition: having capacity or tendency to adsorb or cause to accumulate on a surface", "Synonyms: adsorbent, surface-assimilative"]}
+{"data": ["2023-02-02T16:00:17.013624+00:00", 8706, "Your mother is", "milk-white", "Pronunciation: /\u02c8m\u026alk\u02c8hwa\u026at/", "Definition: of a white the color of fresh milk", ""]}
