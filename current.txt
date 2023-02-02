@@ -1,1 +1,1 @@
-{"data": ["2023-02-02T02:00:43.138082+00:00", 8692, "Your mother is", "increasing", "Pronunciation: /\u026an\u02c8kris\u026a\u014b/", "Definition: becoming greater or larger", ""]}
+{"data": ["2023-02-02T03:00:46.661462+00:00", 8693, "Your mother is", "flush-seamed", "Similar to: carvel-built", "Definition: laid edge to edge (not overlapping)", ""]}
