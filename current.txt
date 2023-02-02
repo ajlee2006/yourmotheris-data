@@ -1,1 +1,1 @@
-{"data": ["2023-02-02T16:00:17.013624+00:00", 8706, "Your mother is", "milk-white", "Pronunciation: /\u02c8m\u026alk\u02c8hwa\u026at/", "Definition: of a white the color of fresh milk", ""]}
+{"data": ["2023-02-02T17:00:54.656875+00:00", 8707, "Your mother is", "hole-and-corner", "Pronunciation: /\u02c8ho\u028al\u0259n-\u02c8k\u0254rn\u0259r/", "Definition: relating to the peripheral and unimportant aspects of life", "Synonyms: hole-in-corner"]}
