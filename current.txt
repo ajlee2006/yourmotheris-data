@@ -1,1 +1,1 @@
-{"data": ["2023-02-03T07:00:47.562010+00:00", 8721, "Your mother is", "isoclinic", "Pronunciation: /\u02cca\u026as\u0259\u02c8kl\u026an\u026ak/", "Definition: having equal magnetic inclinations", "Synonyms: isoclinal"]}
+{"data": ["2023-02-03T08:00:41.433703+00:00", 8722, "Your mother is", "rushy", "Pronunciation: /\u02c8r\u0259\u0283i/", "Definition: abounding in rushes", ""]}
