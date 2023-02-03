@@ -1,1 +1,1 @@
-{"data": ["2023-02-03T08:00:41.433703+00:00", 8722, "Your mother is", "rushy", "Pronunciation: /\u02c8r\u0259\u0283i/", "Definition: abounding in rushes", ""]}
+{"data": ["2023-02-03T09:00:22.247248+00:00", 8723, "Your mother is", "85", "Similar to: cardinal", "Definition: being five more than eighty", "Synonyms: eighty-five, lxxxv"]}
