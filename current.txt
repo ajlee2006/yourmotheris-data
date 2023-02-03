@@ -1,1 +1,1 @@
-{"data": ["2023-02-03T09:00:22.247248+00:00", 8723, "Your mother is", "85", "Similar to: cardinal", "Definition: being five more than eighty", "Synonyms: eighty-five, lxxxv"]}
+{"data": ["2023-02-03T10:00:26.669706+00:00", 8724, "Your mother is", "nonreciprocal", "Similar to: nonreciprocating", "Definition: not reciprocal", ""]}
