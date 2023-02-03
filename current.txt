@@ -1,1 +1,1 @@
-{"data": ["2023-02-03T17:00:37.138839+00:00", 8731, "Your mother is", "unpronounceable", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8n\u00e6\u028ans\u0259b\u0259l/", "Definition: very difficult to pronounce correctly", "Synonyms: unutterable"]}
+{"data": ["2023-02-03T18:00:12.171183+00:00", 8732, "Your mother is", "clashing", "Pronunciation: /\u02c8kl\u00e6\u0283\u026a\u014b/", "Definition: sharply and harshly discordant", ""]}
