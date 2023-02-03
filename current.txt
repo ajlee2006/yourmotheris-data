@@ -1,1 +1,1 @@
-{"data": ["2023-02-03T20:00:54.122928+00:00", 8734, "Your mother is", "blocky", "Pronunciation: /\u02c8bl\u0251ki/", "Definition: resembling a block in shape", "Synonyms: blockish"]}
+{"data": ["2023-02-03T21:00:43.379474+00:00", 8735, "Your mother is", "clear-eyed", "Pronunciation: /klir-a\u026ad/", "Definition: mentally acute or penetratingly discerning", "Synonyms: clear-sighted, perspicacious"]}
