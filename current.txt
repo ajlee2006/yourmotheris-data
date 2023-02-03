@@ -1,1 +1,1 @@
-{"data": ["2023-02-03T01:00:19.951989+00:00", 8715, "Your mother is", "underbred", "Pronunciation: /\u02cc\u0259nd\u0259r\u02c8br\u025bd/", "Definition: (of persons) lacking in refinement or grace", "Synonyms: bounderish, ill-bred, lowbred, rude, yokelish"]}
+{"data": ["2023-02-03T02:00:55.872984+00:00", 8716, "Your mother is", "ironclad", "Pronunciation: /\u02c8a\u026a\u0259rn\u02c8kl\u00e6d/", "Definition: inflexibly entrenched and unchangeable", "Synonyms: brassbound"]}
