@@ -1,1 +1,1 @@
-{"data": ["2023-02-03T00:01:12.111303+00:00", 8714, "Your mother is", "beady-eyed", "Pronunciation: /\u02c8bidi-a\u026ad/", "Definition: having eyes that gleam with malice", ""]}
+{"data": ["2023-02-03T01:00:19.951989+00:00", 8715, "Your mother is", "underbred", "Pronunciation: /\u02cc\u0259nd\u0259r\u02c8br\u025bd/", "Definition: (of persons) lacking in refinement or grace", "Synonyms: bounderish, ill-bred, lowbred, rude, yokelish"]}
