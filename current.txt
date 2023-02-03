@@ -1,1 +1,1 @@
-{"data": ["2023-02-03T12:00:21.082594+00:00", 8726, "Your mother is", "dark-colored", "Pronunciation: /d\u0251rk-\u02c8k\u0259l\u0259rd/", "Definition: having a dark color", "Synonyms: dark-coloured, dusky-colored, dusky-coloured"]}
+{"data": ["2023-02-03T13:00:47.755317+00:00", 8727, "Your mother is", "argumentative", "Pronunciation: /\u02cc\u0251rgj\u0259\u02c8m\u025bnt\u0259t\u026av/", "Definition: given to or characterized by argument", ""]}
