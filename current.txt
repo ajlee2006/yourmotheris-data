@@ -1,1 +1,1 @@
-{"data": ["2023-02-03T13:00:47.755317+00:00", 8727, "Your mother is", "argumentative", "Pronunciation: /\u02cc\u0251rgj\u0259\u02c8m\u025bnt\u0259t\u026av/", "Definition: given to or characterized by argument", ""]}
+{"data": ["2023-02-03T14:00:54.957946+00:00", 8728, "Your mother is", "exact", "Pronunciation: /\u026a\u0261\u02c8z\u00e6kt/", "Definition: (of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth; strictly correct", "Synonyms: accurate, precise"]}
