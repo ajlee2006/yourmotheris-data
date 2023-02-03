@@ -1,1 +1,1 @@
-{"data": ["2023-02-03T03:00:20.987830+00:00", 8717, "Your mother is", "overland", "Pronunciation: /\u02c8o\u028av\u0259rl\u0259nd/", "Definition: traveling or passing over land", ""]}
+{"data": ["2023-02-03T04:00:42.895374+00:00", 8718, "Your mother is", "immense", "Pronunciation: /\u026a\u02c8m\u025bns/", "Definition: unusually great in size or amount or degree or especially extent or scope", "Synonyms: brobdingnagian, huge, vast"]}
