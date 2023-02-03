@@ -1,1 +1,1 @@
-{"data": ["2023-02-03T11:00:32.134407+00:00", 8725, "Your mother is", "claustrophobic", "Pronunciation: /\u02cckl\u0254str\u0259\u02c8fo\u028ab\u026ak/", "Definition: suffering from claustrophobia; abnormally afraid of closed-in places", ""]}
+{"data": ["2023-02-03T12:00:21.082594+00:00", 8726, "Your mother is", "dark-colored", "Pronunciation: /d\u0251rk-\u02c8k\u0259l\u0259rd/", "Definition: having a dark color", "Synonyms: dark-coloured, dusky-colored, dusky-coloured"]}
