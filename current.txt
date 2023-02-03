@@ -1,1 +1,1 @@
-{"data": ["2023-02-03T02:00:55.872984+00:00", 8716, "Your mother is", "ironclad", "Pronunciation: /\u02c8a\u026a\u0259rn\u02c8kl\u00e6d/", "Definition: inflexibly entrenched and unchangeable", "Synonyms: brassbound"]}
+{"data": ["2023-02-03T03:00:20.987830+00:00", 8717, "Your mother is", "overland", "Pronunciation: /\u02c8o\u028av\u0259rl\u0259nd/", "Definition: traveling or passing over land", ""]}
