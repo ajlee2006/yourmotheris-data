@@ -1,1 +1,1 @@
-{"data": ["2023-02-03T18:00:12.171183+00:00", 8732, "Your mother is", "clashing", "Pronunciation: /\u02c8kl\u00e6\u0283\u026a\u014b/", "Definition: sharply and harshly discordant", ""]}
+{"data": ["2023-02-03T19:00:21.766177+00:00", 8733, "Your mother is", "exalted", "Pronunciation: /\u026a\u0261\u02c8z\u0254lt\u026ad/", "Definition: of high moral or intellectual value; elevated in nature or style", "Synonyms: elevated, grand, high-flown, high-minded, idealistic, lofty, noble-minded, rarefied, rarified, sublime"]}
