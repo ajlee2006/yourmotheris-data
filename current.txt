@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T08:00:32.197971+00:00", 8746, "Your mother is", "sleepyheaded", "Similar to: asleep", "Definition: ready to fall asleep", "Synonyms: sleepy, sleepy-eyed"]}
+{"data": ["2023-02-04T09:00:32.013194+00:00", 8747, "Your mother is", "enjoyable", "Pronunciation: /\u025bn\u02c8d\u0292\u0254\u026a\u0259b\u0259l/", "Definition: affording satisfaction or pleasure", "Synonyms: gratifying, pleasurable"]}
