@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T02:00:54.509182+00:00", 8740, "Your mother is", "unearned", "Pronunciation: /\u0259n\u02c8\u025crnd/", "Definition: not gained by merit or labor or service", ""]}
+{"data": ["2023-02-04T03:00:28.486993+00:00", 8741, "Your mother is", "stockinged", "Similar to: unshod", "Definition: wearing stockings", ""]}
