@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T10:00:28.317816+00:00", 8748, "Your mother is", "proscribed", "Pronunciation: /pro\u028a\u02c8skra\u026abd/", "Definition: excluded from use or mention", "Synonyms: forbidden, out, prohibited, taboo, tabu, verboten"]}
+{"data": ["2023-02-04T11:00:24.603389+00:00", 8749, "Your mother is", "sporty", "Pronunciation: /\u02c8spo\u028arti/", "Definition: exhibiting or calling for sportsmanship or fair play", "Synonyms: clean, sporting, sportsmanlike"]}
