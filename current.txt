@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T15:00:49.204804+00:00", 8753, "Your mother is", "clove-scented", "Similar to: odorous", "Definition: smelling of clove", ""]}
+{"data": ["2023-02-04T16:00:48.465896+00:00", 8754, "Your mother is", "reclaimable", "Similar to: useful", "Definition: capable of being used again", "Synonyms: recyclable, reusable"]}
