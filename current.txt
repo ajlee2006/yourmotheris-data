@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T12:00:46.007318+00:00", 8750, "Your mother is", "radio-controlled", "Pronunciation: /\u02ccre\u026ad\u026ao\u028ak\u0259n\u02c8tro\u028ald/", "Definition: operated and guided by radio", ""]}
+{"data": ["2023-02-04T13:00:52.111631+00:00", 8751, "Your mother is", "glistening", "Pronunciation: /\u02c8\u0261l\u026as\u028cn\u026a\u014b/", "Definition: reflecting light", "Synonyms: glossy, lustrous, sheeny, shining, shiny"]}
