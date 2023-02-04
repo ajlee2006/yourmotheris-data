@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T19:00:48.619810+00:00", 8757, "Your mother is", "unshapely", "Pronunciation: /\u0259n\u02c8\u0283e\u026apli/", "Definition: not well-proportioned and pleasing in shape", ""]}
+{"data": ["2023-02-04T20:00:13.159445+00:00", 8758, "Your mother is", "unwell", "Pronunciation: /\u0259n\u02c8w\u025bl/", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, indisposed, peaked, poorly, seedy, sickly, under the weather"]}
