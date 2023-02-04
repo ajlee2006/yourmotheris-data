@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T22:00:57.129367+00:00", 8760, "Your mother is", "empty-headed", "Pronunciation: /\u02c8\u025bmpti-\u02c8h\u025bd\u026ad/", "Definition: lacking seriousness; given to frivolity", "Synonyms: airheaded, dizzy, featherbrained, giddy, light-headed, lightheaded, silly"]}
+{"data": ["2023-02-04T23:00:59.949914+00:00", 8761, "Your mother is", "intrusive", "Pronunciation: /\u026an\u02c8trus\u026av/", "Definition: of rock material; forced while molten into cracks between layers of other rock", ""]}
