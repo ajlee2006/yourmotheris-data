@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T14:00:54.762640+00:00", 8752, "Your mother is", "emollient", "Pronunciation: /\u026a\u02c8m\u0251lj\u0259nt/", "Definition: having a softening or soothing effect especially to the skin", "Synonyms: demulcent, salving, softening"]}
+{"data": ["2023-02-04T15:00:49.204804+00:00", 8753, "Your mother is", "clove-scented", "Similar to: odorous", "Definition: smelling of clove", ""]}
