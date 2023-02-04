@@ -1,1 +1,1 @@
-{"data": ["2023-02-03T23:00:20.639542+00:00", 8737, "Your mother is", "straying", "Pronunciation: /\u02c8stre\u026a\u026a\u014b/", "Definition: unable to find your way", ""]}
+{"data": ["2023-02-04T00:01:29.068043+00:00", 8738, "Your mother is", "fuzzy", "Pronunciation: /\u02c8f\u0259zi/", "Definition: covering with fine light hairs", "Synonyms: fuzzed"]}
