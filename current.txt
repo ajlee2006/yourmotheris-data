@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T00:01:29.068043+00:00", 8738, "Your mother is", "fuzzy", "Pronunciation: /\u02c8f\u0259zi/", "Definition: covering with fine light hairs", "Synonyms: fuzzed"]}
+{"data": ["2023-02-04T01:00:12.329963+00:00", 8739, "Your mother is", "smooth-bodied", "Similar to: bodied", "Definition: having a smooth body", ""]}
