@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T11:00:24.603389+00:00", 8749, "Your mother is", "sporty", "Pronunciation: /\u02c8spo\u028arti/", "Definition: exhibiting or calling for sportsmanship or fair play", "Synonyms: clean, sporting, sportsmanlike"]}
+{"data": ["2023-02-04T12:00:46.007318+00:00", 8750, "Your mother is", "radio-controlled", "Pronunciation: /\u02ccre\u026ad\u026ao\u028ak\u0259n\u02c8tro\u028ald/", "Definition: operated and guided by radio", ""]}
