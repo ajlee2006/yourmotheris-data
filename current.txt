@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T13:00:52.111631+00:00", 8751, "Your mother is", "glistening", "Pronunciation: /\u02c8\u0261l\u026as\u028cn\u026a\u014b/", "Definition: reflecting light", "Synonyms: glossy, lustrous, sheeny, shining, shiny"]}
+{"data": ["2023-02-04T14:00:54.762640+00:00", 8752, "Your mother is", "emollient", "Pronunciation: /\u026a\u02c8m\u0251lj\u0259nt/", "Definition: having a softening or soothing effect especially to the skin", "Synonyms: demulcent, salving, softening"]}
