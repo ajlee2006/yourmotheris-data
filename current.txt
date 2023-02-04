@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T21:00:19.999524+00:00", 8759, "Your mother is", "xx", "Similar to: cardinal", "Definition: denoting a quantity consisting of 20 items or units", "Synonyms: 20, twenty"]}
+{"data": ["2023-02-04T22:00:57.129367+00:00", 8760, "Your mother is", "empty-headed", "Pronunciation: /\u02c8\u025bmpti-\u02c8h\u025bd\u026ad/", "Definition: lacking seriousness; given to frivolity", "Synonyms: airheaded, dizzy, featherbrained, giddy, light-headed, lightheaded, silly"]}
