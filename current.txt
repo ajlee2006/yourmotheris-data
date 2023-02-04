@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T05:00:50.467371+00:00", 8743, "Your mother is", "nimble-fingered", "Pronunciation: /\u02c8n\u026amb\u0259l-\u02c8f\u026a\u014b\u0261\u0259rd/", "Definition: having nimble fingers literally or figuratively; especially for stealing or picking pockets", "Synonyms: light-fingered"]}
+{"data": ["2023-02-04T06:00:46.271777+00:00", 8744, "Your mother is", "monied", "Pronunciation: /\u02c8m\u0259nid/", "Definition: based on or arising from the possession of money or wealth", "Synonyms: moneyed"]}
