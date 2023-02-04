@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T20:00:13.159445+00:00", 8758, "Your mother is", "unwell", "Pronunciation: /\u0259n\u02c8w\u025bl/", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, indisposed, peaked, poorly, seedy, sickly, under the weather"]}
+{"data": ["2023-02-04T21:00:19.999524+00:00", 8759, "Your mother is", "xx", "Similar to: cardinal", "Definition: denoting a quantity consisting of 20 items or units", "Synonyms: 20, twenty"]}
