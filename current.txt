@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T07:00:52.924906+00:00", 8745, "Your mother is", "omniscient", "Pronunciation: /\u0251m\u02c8n\u026a\u0283\u0259nt/", "Definition: infinitely wise", "Synonyms: all-knowing"]}
+{"data": ["2023-02-04T08:00:32.197971+00:00", 8746, "Your mother is", "sleepyheaded", "Similar to: asleep", "Definition: ready to fall asleep", "Synonyms: sleepy, sleepy-eyed"]}
