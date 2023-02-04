@@ -1,1 +1,1 @@
-{"data": ["2023-02-04T04:00:15.835564+00:00", 8742, "Your mother is", "communicative", "Pronunciation: /k\u0259\u02c8mjun\u0259\u02ccke\u026at\u026av/", "Definition: able or tending to communicate", "Synonyms: communicatory"]}
+{"data": ["2023-02-04T05:00:50.467371+00:00", 8743, "Your mother is", "nimble-fingered", "Pronunciation: /\u02c8n\u026amb\u0259l-\u02c8f\u026a\u014b\u0261\u0259rd/", "Definition: having nimble fingers literally or figuratively; especially for stealing or picking pockets", "Synonyms: light-fingered"]}
