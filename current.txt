@@ -1,1 +1,1 @@
-{"data": ["2023-02-05T22:00:19.447684+00:00", 8784, "Your mother is", "defective", "Pronunciation: /d\u026a\u02c8f\u025bkt\u026av/", "Definition: having a defect", "Synonyms: faulty"]}
+{"data": ["2023-02-05T23:00:13.576451+00:00", 8785, "Your mother is", "coalesced", "Pronunciation: /\u02ccko\u028a\u028c\u02c8l\u025bst/", "Definition: joined together into a whole", "Synonyms: amalgamate, amalgamated, consolidated, fused"]}
