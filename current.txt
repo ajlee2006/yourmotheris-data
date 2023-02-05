@@ -1,1 +1,1 @@
-{"data": ["2023-02-05T15:00:52.146495+00:00", 8777, "Your mother is", "sophomore", "Pronunciation: /\u02c8s\u0251f\u0259\u02ccmo\u028ar/", "Definition: used of the second year in United States high school or college", "Synonyms: second-year"]}
+{"data": ["2023-02-05T16:00:29.720253+00:00", 8778, "Your mother is", "micro", "Pronunciation: /\u02c8ma\u026akro\u028a/", "Definition: extremely small in scale or scope or capability", ""]}
