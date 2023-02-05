@@ -1,1 +1,1 @@
-{"data": ["2023-02-05T13:00:27.313090+00:00", 8775, "Your mother is", "tantric", "Pronunciation: /\u02c8t\u00e6ntr\u026ak/", "Definition: of or relating to Tantrism", "Synonyms: tantrik"]}
+{"data": ["2023-02-05T14:00:52.716773+00:00", 8776, "Your mother is", "anthropic", "", "Definition: relating to mankind or the period of mankind's existence", "Synonyms: anthropical"]}
