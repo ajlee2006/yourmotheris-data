@@ -1,1 +1,1 @@
-{"data": ["2023-02-05T17:00:35.357368+00:00", 8779, "Your mother is", "unstudied", "Pronunciation: /\u0259n\u02c8st\u0259d\u026ad/", "Definition: not by design or artifice; unforced and impromptu", "Synonyms: uncontrived"]}
+{"data": ["2023-02-05T18:00:24.770700+00:00", 8780, "Your mother is", "hurrying", "Pronunciation: /\u02c8h\u025dri\u026a\u014b/", "Definition: moving with great haste", "Synonyms: scurrying"]}
