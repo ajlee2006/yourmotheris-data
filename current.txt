@@ -1,1 +1,1 @@
-{"data": ["2023-02-05T11:00:57.234970+00:00", 8773, "Your mother is", "placeable", "Similar to: identifiable", "Definition: capable of being recognized", "Synonyms: recognisable, recognizable"]}
+{"data": ["2023-02-05T12:00:56.866568+00:00", 8774, "Your mother is", "applaudable", "Similar to: worthy", "Definition: worthy of high praise", "Synonyms: commendable, laudable, praiseworthy"]}
