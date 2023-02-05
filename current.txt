@@ -1,1 +1,1 @@
-{"data": ["2023-02-05T07:00:38.464634+00:00", 8769, "Your mother is", "salutary", "Pronunciation: /\u02c8s\u00e6lj\u0259\u02ccte\u026ari/", "Definition: tending to promote physical well-being; beneficial to health", "Synonyms: good"]}
+{"data": ["2023-02-05T08:00:29.321929+00:00", 8770, "Your mother is", "overpriced", "Pronunciation: /\u02c8o\u028av\u025dr\u02ccpra\u026ast/", "Definition: too costly for the value", ""]}
