@@ -1,1 +1,1 @@
-{"data": ["2023-02-05T01:00:40.779717+00:00", 8763, "Your mother is", "anarchic", "Pronunciation: /\u00e6n\u02c8\u0251rk\u026ak/", "Definition: without law or control", "Synonyms: anarchical, lawless"]}
+{"data": ["2023-02-05T02:00:56.102830+00:00", 8764, "Your mother is", "entrenched", "Pronunciation: /\u025bn\u02c8tr\u025bnt\u0283t/", "Definition: dug in", ""]}
