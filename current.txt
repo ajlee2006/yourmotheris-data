@@ -1,1 +1,1 @@
-{"data": ["2023-02-05T03:00:30.401310+00:00", 8765, "Your mother is", "quadruple", "Pronunciation: /kw\u0251\u02c8drup\u0259l/", "Definition: four times as great or many", "Synonyms: four-fold, fourfold"]}
+{"data": ["2023-02-05T04:00:23.787744+00:00", 8766, "Your mother is", "manual", "Pronunciation: /\u02c8m\u00e6nju\u0259l/", "Definition: doing or requiring physical work", ""]}
