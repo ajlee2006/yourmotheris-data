@@ -1,1 +1,1 @@
-{"data": ["2023-02-05T19:00:47.396720+00:00", 8781, "Your mother is", "muddled", "Pronunciation: /\u02c8m\u028cd\u028cld/", "Definition: confused and vague; used especially of thinking", "Synonyms: addled, befuddled, muzzy, woolly, woolly-headed, wooly, wooly-minded"]}
+{"data": ["2023-02-05T20:00:27.549995+00:00", 8782, "Your mother is", "untasted", "Pronunciation: /\u0259n\u02c8te\u026ast\u026ad/", "Definition: still full", "Synonyms: untouched"]}
