@@ -1,1 +1,1 @@
-{"data": ["2023-02-05T02:00:56.102830+00:00", 8764, "Your mother is", "entrenched", "Pronunciation: /\u025bn\u02c8tr\u025bnt\u0283t/", "Definition: dug in", ""]}
+{"data": ["2023-02-05T03:00:30.401310+00:00", 8765, "Your mother is", "quadruple", "Pronunciation: /kw\u0251\u02c8drup\u0259l/", "Definition: four times as great or many", "Synonyms: four-fold, fourfold"]}
