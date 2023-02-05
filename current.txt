@@ -1,1 +1,1 @@
-{"data": ["2023-02-05T20:00:27.549995+00:00", 8782, "Your mother is", "untasted", "Pronunciation: /\u0259n\u02c8te\u026ast\u026ad/", "Definition: still full", "Synonyms: untouched"]}
+{"data": ["2023-02-05T21:00:54.446628+00:00", 8783, "Your mother is", "emulous", "Pronunciation: /\u02c8\u025bmj\u0259l\u0259s/", "Definition: eager to surpass others", "Synonyms: rivalrous"]}
