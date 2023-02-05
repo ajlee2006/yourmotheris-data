@@ -1,1 +1,1 @@
-{"data": ["2023-02-05T16:00:29.720253+00:00", 8778, "Your mother is", "micro", "Pronunciation: /\u02c8ma\u026akro\u028a/", "Definition: extremely small in scale or scope or capability", ""]}
+{"data": ["2023-02-05T17:00:35.357368+00:00", 8779, "Your mother is", "unstudied", "Pronunciation: /\u0259n\u02c8st\u0259d\u026ad/", "Definition: not by design or artifice; unforced and impromptu", "Synonyms: uncontrived"]}
