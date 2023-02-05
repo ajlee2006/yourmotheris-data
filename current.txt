@@ -1,1 +1,1 @@
-{"data": ["2023-02-05T08:00:29.321929+00:00", 8770, "Your mother is", "overpriced", "Pronunciation: /\u02c8o\u028av\u025dr\u02ccpra\u026ast/", "Definition: too costly for the value", ""]}
+{"data": ["2023-02-05T09:00:46.527507+00:00", 8771, "Your mother is", "antenuptial", "Pronunciation: /\u02cc\u00e6nti\u02c8n\u0259p\u0283\u0259l/", "Definition: relating to events before a marriage", "Synonyms: premarital, prenuptial"]}
