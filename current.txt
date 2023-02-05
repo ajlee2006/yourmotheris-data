@@ -1,1 +1,1 @@
-{"data": ["2023-02-05T18:00:24.770700+00:00", 8780, "Your mother is", "hurrying", "Pronunciation: /\u02c8h\u025dri\u026a\u014b/", "Definition: moving with great haste", "Synonyms: scurrying"]}
+{"data": ["2023-02-05T19:00:47.396720+00:00", 8781, "Your mother is", "muddled", "Pronunciation: /\u02c8m\u028cd\u028cld/", "Definition: confused and vague; used especially of thinking", "Synonyms: addled, befuddled, muzzy, woolly, woolly-headed, wooly, wooly-minded"]}
