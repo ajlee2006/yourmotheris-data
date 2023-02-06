@@ -1,1 +1,1 @@
-{"data": ["2023-02-06T02:00:13.939204+00:00", 8788, "Your mother is", "papillose", "Pronunciation: /\u02c8p\u00e6p\u0259\u02cclo\u028as/", "Definition: of or relating to or resembling papilla", "Synonyms: papillary"]}
+{"data": ["2023-02-06T03:00:44.526033+00:00", 8789, "Your mother is", "unanticipated", "Pronunciation: /\u02cc\u0259n\u00e6n\u02c8t\u026as\u026a\u02ccpe\u026at\u026ad/", "Definition: not anticipated", "Synonyms: out of the blue, unforeseen, unlooked-for, unseen"]}
