@@ -1,1 +1,1 @@
-{"data": ["2023-02-06T07:00:34.755512+00:00", 8793, "Your mother is", "mismatched", "Pronunciation: /m\u026as\u02c8m\u00e6t\u0283t/", "Definition: (of a contest or contestants) not fairly matched as opponents", "Synonyms: uneven"]}
+{"data": ["2023-02-06T08:00:40.838101+00:00", 8794, "Your mother is", "serrate", "Pronunciation: /\u02c8s\u025br\u026at/", "Definition: notched like a saw with teeth pointing toward the apex", "Synonyms: notched, saw-toothed, serrated, toothed"]}
