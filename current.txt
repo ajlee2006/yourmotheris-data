@@ -1,1 +1,1 @@
-{"data": ["2023-02-06T12:00:22.061026+00:00", 8798, "Your mother is", "sunk", "Pronunciation: /s\u0259\u014bk/", "Definition: doomed to extinction", "Synonyms: done for, ruined, undone, washed-up"]}
+{"data": ["2023-02-06T13:00:21.234883+00:00", 8799, "Your mother is", "duty-bound", "Pronunciation: /\u02c8duti-ba\u028and/", "Definition: under a moral obligation to do something", "Synonyms: obliged"]}
