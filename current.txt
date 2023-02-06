@@ -1,1 +1,1 @@
-{"data": ["2023-02-06T05:00:39.172794+00:00", 8791, "Your mother is", "vaporizable", "Similar to: volatile", "Definition: (used of substances) capable of being volatilized", "Synonyms: evaporable, vaporific, vapourific, vapourisable, volatilisable, volatilizable"]}
+{"data": ["2023-02-06T06:00:32.023248+00:00", 8792, "Your mother is", "famous", "Pronunciation: /\u02c8fe\u026am\u0259s/", "Definition: widely known and esteemed", "Synonyms: celebrated, famed, far-famed, illustrious, notable, noted, renowned"]}
