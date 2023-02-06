@@ -1,1 +1,1 @@
-{"data": ["2023-02-06T13:00:21.234883+00:00", 8799, "Your mother is", "duty-bound", "Pronunciation: /\u02c8duti-ba\u028and/", "Definition: under a moral obligation to do something", "Synonyms: obliged"]}
+{"data": ["2023-02-06T14:00:58.081418+00:00", 8800, "Your mother is", "achievable", "Pronunciation: /\u028c\u02c8t\u0283iv\u028cb\u028cl/", "Definition: capable of existing or taking place or proving true; possible to do", "Synonyms: accomplishable, doable, manageable, realizable"]}
