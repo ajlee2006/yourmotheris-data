@@ -1,1 +1,1 @@
-{"data": ["2023-02-06T00:01:50.217250+00:00", 8786, "Your mother is", "sinuous", "Pronunciation: /\u02c8s\u026anju\u0259s/", "Definition: curved or curving in and out", "Synonyms: sinuate, wiggly"]}
+{"data": ["2023-02-06T01:00:34.536492+00:00", 8787, "Your mother is", "satyric", "Pronunciation: /s\u0259\u02c8t\u026ar\u026ak/", "Definition: of or relating to or having the characteristics of a satyr", "Synonyms: satyrical"]}
