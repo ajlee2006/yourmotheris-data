@@ -1,1 +1,1 @@
-{"data": ["2023-02-06T08:00:40.838101+00:00", 8794, "Your mother is", "serrate", "Pronunciation: /\u02c8s\u025br\u026at/", "Definition: notched like a saw with teeth pointing toward the apex", "Synonyms: notched, saw-toothed, serrated, toothed"]}
+{"data": ["2023-02-06T09:00:40.505559+00:00", 8795, "Your mother is", "misanthropic", "Pronunciation: /\u02ccm\u026as\u0259n\u02c8\u03b8r\u0251p\u026ak/", "Definition: believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others", "Synonyms: cynical, misanthropical"]}
