@@ -1,1 +1,1 @@
-{"data": ["2023-02-06T01:00:34.536492+00:00", 8787, "Your mother is", "satyric", "Pronunciation: /s\u0259\u02c8t\u026ar\u026ak/", "Definition: of or relating to or having the characteristics of a satyr", "Synonyms: satyrical"]}
+{"data": ["2023-02-06T02:00:13.939204+00:00", 8788, "Your mother is", "papillose", "Pronunciation: /\u02c8p\u00e6p\u0259\u02cclo\u028as/", "Definition: of or relating to or resembling papilla", "Synonyms: papillary"]}
