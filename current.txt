@@ -1,1 +1,1 @@
-{"data": ["2023-02-06T04:00:42.771650+00:00", 8790, "Your mother is", "greyish-brown", "Similar to: chromatic", "Definition: of brown tinged with grey", "Synonyms: gray-brown, grayish-brown, grey-brown"]}
+{"data": ["2023-02-06T05:00:39.172794+00:00", 8791, "Your mother is", "vaporizable", "Similar to: volatile", "Definition: (used of substances) capable of being volatilized", "Synonyms: evaporable, vaporific, vapourific, vapourisable, volatilisable, volatilizable"]}
