@@ -1,1 +1,1 @@
-{"data": ["2023-02-06T09:00:40.505559+00:00", 8795, "Your mother is", "misanthropic", "Pronunciation: /\u02ccm\u026as\u0259n\u02c8\u03b8r\u0251p\u026ak/", "Definition: believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others", "Synonyms: cynical, misanthropical"]}
+{"data": ["2023-02-06T10:00:52.636936+00:00", 8796, "Your mother is", "frilly", "Pronunciation: /\u02c8frili/", "Definition: having decorative ruffles or frills", "Synonyms: frilled, ruffled"]}
