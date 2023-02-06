@@ -1,1 +1,1 @@
-{"data": ["2023-02-06T03:00:44.526033+00:00", 8789, "Your mother is", "unanticipated", "Pronunciation: /\u02cc\u0259n\u00e6n\u02c8t\u026as\u026a\u02ccpe\u026at\u026ad/", "Definition: not anticipated", "Synonyms: out of the blue, unforeseen, unlooked-for, unseen"]}
+{"data": ["2023-02-06T04:00:42.771650+00:00", 8790, "Your mother is", "greyish-brown", "Similar to: chromatic", "Definition: of brown tinged with grey", "Synonyms: gray-brown, grayish-brown, grey-brown"]}
