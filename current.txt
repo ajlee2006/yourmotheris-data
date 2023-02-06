@@ -1,1 +1,1 @@
-{"data": ["2023-02-06T18:00:42.038031+00:00", 8804, "Your mother is", "ruffianly", "Similar to: violent", "Definition: violent and lawless", "Synonyms: tough"]}
+{"data": ["2023-02-06T19:00:35.478253+00:00", 8805, "Your mother is", "oriented", "Pronunciation: /\u02c8\u0254ri\u02cc\u025bnt\u028cd/", "Definition: adjusted or located in relation to surroundings or circumstances; sometimes used in combination", "Synonyms: orientated"]}
