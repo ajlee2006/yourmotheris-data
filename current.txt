@@ -1,1 +1,1 @@
-{"data": ["2023-02-06T06:00:32.023248+00:00", 8792, "Your mother is", "famous", "Pronunciation: /\u02c8fe\u026am\u0259s/", "Definition: widely known and esteemed", "Synonyms: celebrated, famed, far-famed, illustrious, notable, noted, renowned"]}
+{"data": ["2023-02-06T07:00:34.755512+00:00", 8793, "Your mother is", "mismatched", "Pronunciation: /m\u026as\u02c8m\u00e6t\u0283t/", "Definition: (of a contest or contestants) not fairly matched as opponents", "Synonyms: uneven"]}
