@@ -1,1 +1,1 @@
-{"data": ["2023-02-07T04:00:47.249165+00:00", 8814, "Your mother is", "chlamydeous", "Pronunciation: /kl\u0259\u02c8m\u026adi\u00e6s/", "Definition: having a floral envelope or perianth consisting of a calyx and/or corolla", ""]}
+{"data": ["2023-02-07T05:00:52.499729+00:00", 8815, "Your mother is", "neurologic", "Pronunciation: /\u02ccn\u028ar\u028c\u02c8l\u0251d\u0292\u026ak/", "Definition: of or relating to or used in or practicing neurology", "Synonyms: neurological"]}
