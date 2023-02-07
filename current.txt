@@ -1,1 +1,1 @@
-{"data": ["2023-02-07T19:00:19.520608+00:00", 8828, "Your mother is", "confirmatory", "Pronunciation: /k\u0259n\u02c8f\u025crm\u0259\u02ccto\u028ari/", "Definition: serving to support or corroborate", "Synonyms: collateral, confirmative, confirming, corroborative, corroboratory, substantiating, substantiative, validating, validatory, verificatory, verifying"]}
+{"data": ["2023-02-07T20:00:43.654526+00:00", 8829, "Your mother is", "hundred", "Pronunciation: /\u02c8h\u0259ndr\u026ad/", "Definition: being ten more than ninety", "Synonyms: 100, c, one hundred"]}
