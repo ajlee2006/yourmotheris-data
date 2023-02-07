@@ -1,1 +1,1 @@
-{"data": ["2023-02-07T06:00:42.077080+00:00", 8816, "Your mother is", "good-looking", "Similar to: beautiful", "Definition: pleasing in appearance especially by reason of conformity to ideals of form and proportion", "Synonyms: better-looking, fine-looking, handsome, well-favored, well-favoured"]}
+{"data": ["2023-02-07T07:00:23.573365+00:00", 8817, "Your mother is", "vernacular", "Pronunciation: /v\u0259r\u02c8n\u00e6kj\u0259l\u0259r/", "Definition: being or characteristic of or appropriate to everyday language", "Synonyms: common, vulgar"]}
