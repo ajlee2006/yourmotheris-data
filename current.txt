@@ -1,1 +1,1 @@
-{"data": ["2023-02-07T05:00:52.499729+00:00", 8815, "Your mother is", "neurologic", "Pronunciation: /\u02ccn\u028ar\u028c\u02c8l\u0251d\u0292\u026ak/", "Definition: of or relating to or used in or practicing neurology", "Synonyms: neurological"]}
+{"data": ["2023-02-07T06:00:42.077080+00:00", 8816, "Your mother is", "good-looking", "Similar to: beautiful", "Definition: pleasing in appearance especially by reason of conformity to ideals of form and proportion", "Synonyms: better-looking, fine-looking, handsome, well-favored, well-favoured"]}
