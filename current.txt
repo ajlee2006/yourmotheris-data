@@ -1,1 +1,1 @@
-{"data": ["2023-02-07T01:00:43.194586+00:00", 8811, "Your mother is", "norwegian", "Pronunciation: /n\u0254r\u02c8wid\u0292\u0259n/", "Definition: of or relating to Norway or its people or culture or language", "Synonyms: norse"]}
+{"data": ["2023-02-07T02:00:49.027428+00:00", 8812, "Your mother is", "ill-considered", "Pronunciation: /\u026al-k\u0259n\u02c8s\u026ad\u0259rd/", "Definition: not given careful consideration", "Synonyms: ill-judged, improvident, shortsighted"]}
