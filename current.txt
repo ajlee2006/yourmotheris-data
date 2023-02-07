@@ -1,1 +1,1 @@
-{"data": ["2023-02-07T02:00:49.027428+00:00", 8812, "Your mother is", "ill-considered", "Pronunciation: /\u026al-k\u0259n\u02c8s\u026ad\u0259rd/", "Definition: not given careful consideration", "Synonyms: ill-judged, improvident, shortsighted"]}
+{"data": ["2023-02-07T03:00:52.944019+00:00", 8813, "Your mother is", "black-market", "Pronunciation: /\u02c8bl\u00e6k\u02c8m\u0251rk\u026at/", "Definition: distributed or sold illicitly", "Synonyms: black, bootleg, contraband, smuggled"]}
