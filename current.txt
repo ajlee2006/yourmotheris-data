@@ -1,1 +1,1 @@
-{"data": ["2023-02-07T12:00:38.192809+00:00", 8822, "Your mother is", "friendless", "Similar to: unwanted", "Definition: excluded from a society", "Synonyms: outcast"]}
+{"data": ["2023-02-07T13:01:09.014232+00:00", 8823, "Your mother is", "ungarmented", "Similar to: unclothed", "Definition: having removed clothing", "Synonyms: unappareled, unattired, unclad, undressed, ungarbed"]}
