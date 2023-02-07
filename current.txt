@@ -1,1 +1,1 @@
-{"data": ["2023-02-07T16:00:26.016899+00:00", 8825, "Your mother is", "razed", "Pronunciation: /re\u026azd/", "Definition: torn down and broken up", "Synonyms: demolished, dismantled"]}
+{"data": ["2023-02-07T17:00:12.315107+00:00", 8826, "Your mother is", "murderous", "Pronunciation: /\u02c8m\u025crd\u0259r\u0259s/", "Definition: characteristic of or capable of or having a tendency toward killing another human being", "Synonyms: homicidal"]}
