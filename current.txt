@@ -1,1 +1,1 @@
-{"data": ["2023-02-07T07:00:23.573365+00:00", 8817, "Your mother is", "vernacular", "Pronunciation: /v\u0259r\u02c8n\u00e6kj\u0259l\u0259r/", "Definition: being or characteristic of or appropriate to everyday language", "Synonyms: common, vulgar"]}
+{"data": ["2023-02-07T08:00:45.317999+00:00", 8818, "Your mother is", "provoking", "Pronunciation: /pr\u028c\u02c8vo\u028ak\u026a\u014b/", "Definition: causing or tending to cause anger or resentment", "Synonyms: agitating, agitative"]}
