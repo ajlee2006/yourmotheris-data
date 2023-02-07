@@ -1,1 +1,1 @@
-{"data": ["2023-02-07T20:00:43.654526+00:00", 8829, "Your mother is", "hundred", "Pronunciation: /\u02c8h\u0259ndr\u026ad/", "Definition: being ten more than ninety", "Synonyms: 100, c, one hundred"]}
+{"data": ["2023-02-07T21:00:11.462843+00:00", 8830, "Your mother is", "anthropomorphic", "Pronunciation: /\u02cc\u00e6n\u03b8r\u0259p\u0259\u02c8m\u0254rf\u026ak/", "Definition: suggesting human characteristics for animals or inanimate things", "Synonyms: anthropomorphous, humanlike"]}
