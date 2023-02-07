@@ -1,1 +1,1 @@
-{"data": ["2023-02-07T21:00:11.462843+00:00", 8830, "Your mother is", "anthropomorphic", "Pronunciation: /\u02cc\u00e6n\u03b8r\u0259p\u0259\u02c8m\u0254rf\u026ak/", "Definition: suggesting human characteristics for animals or inanimate things", "Synonyms: anthropomorphous, humanlike"]}
+{"data": ["2023-02-07T23:00:54.317972+00:00", 8831, "Your mother is", "retired", "Pronunciation: /ri\u02c8ta\u026a\u0259d/", "Definition: no longer active in your work or profession", ""]}
