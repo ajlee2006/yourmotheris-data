@@ -1,1 +1,1 @@
-{"data": ["2023-02-07T03:00:52.944019+00:00", 8813, "Your mother is", "black-market", "Pronunciation: /\u02c8bl\u00e6k\u02c8m\u0251rk\u026at/", "Definition: distributed or sold illicitly", "Synonyms: black, bootleg, contraband, smuggled"]}
+{"data": ["2023-02-07T04:00:47.249165+00:00", 8814, "Your mother is", "chlamydeous", "Pronunciation: /kl\u0259\u02c8m\u026adi\u00e6s/", "Definition: having a floral envelope or perianth consisting of a calyx and/or corolla", ""]}
