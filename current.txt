@@ -1,1 +1,1 @@
-{"data": ["2023-02-07T00:01:31.172484+00:00", 8810, "Your mother is", "exchanged", "Pronunciation: /\u026aks\u02c8t\u0283e\u026and\u0292d/", "Definition: changed for (replaced by) something different", ""]}
+{"data": ["2023-02-07T01:00:43.194586+00:00", 8811, "Your mother is", "norwegian", "Pronunciation: /n\u0254r\u02c8wid\u0292\u0259n/", "Definition: of or relating to Norway or its people or culture or language", "Synonyms: norse"]}
