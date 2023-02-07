@@ -1,1 +1,1 @@
-{"data": ["2023-02-07T09:00:51.322930+00:00", 8819, "Your mother is", "mated", "Pronunciation: /\u02c8me\u026at\u026ad/", "Definition: occurring in pairs or as a pair", "Synonyms: paired"]}
+{"data": ["2023-02-07T10:00:52.133656+00:00", 8820, "Your mother is", "postmodern", "Pronunciation: /po\u028ast\u02c8m\u0251d\u025drn/", "Definition: of or relating to postmodernism", "Synonyms: postmodernist"]}
