@@ -1,1 +1,1 @@
-{"data": ["2023-02-08T14:00:37.710343+00:00", 8846, "Your mother is", "tzarist", "Pronunciation: /\u02c8z\u0251r\u026ast/", "Definition: of or relating to or characteristic of a czar", "Synonyms: czarist, czaristic, tsarist, tsaristic"]}
+{"data": ["2023-02-08T15:00:44.153127+00:00", 8847, "Your mother is", "protozoal", "Pronunciation: /\u02ccpro\u028at\u0259\u02c8zo\u028a\u0259l/", "Definition: of or relating to the Protozoa", "Synonyms: protozoan, protozoic"]}
