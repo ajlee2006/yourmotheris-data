@@ -1,1 +1,1 @@
-{"data": ["2023-02-08T03:00:35.019944+00:00", 8835, "Your mother is", "athletic", "Pronunciation: /\u00e6\u03b8\u02c8l\u025bt\u026ak/", "Definition: vigorously active", "Synonyms: acrobatic, gymnastic"]}
+{"data": ["2023-02-08T04:00:52.265058+00:00", 8836, "Your mother is", "wingless", "Pronunciation: /\u02c8w\u026a\u014bl\u026as/", "Definition: lacking wings", ""]}
