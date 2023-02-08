@@ -1,1 +1,1 @@
-{"data": ["2023-02-08T13:00:45.183062+00:00", 8845, "Your mother is", "turbaned", "Similar to: hatted", "Definition: wearing a turban", ""]}
+{"data": ["2023-02-08T14:00:37.710343+00:00", 8846, "Your mother is", "tzarist", "Pronunciation: /\u02c8z\u0251r\u026ast/", "Definition: of or relating to or characteristic of a czar", "Synonyms: czarist, czaristic, tsarist, tsaristic"]}
