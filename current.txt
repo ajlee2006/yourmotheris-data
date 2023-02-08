@@ -1,1 +1,1 @@
-{"data": ["2023-02-08T10:00:22.505327+00:00", 8842, "Your mother is", "declaratory", "Pronunciation: /d\u026a\u02c8kl\u00e6r\u0259\u02ccto\u028ari/", "Definition: relating to the use of or having the nature of a declaration", "Synonyms: asserting, declarative"]}
+{"data": ["2023-02-08T11:00:15.989886+00:00", 8843, "Your mother is", "dumbfounding", "Similar to: incredible", "Definition: bewildering or striking dumb with wonder", "Synonyms: astounding, dumfounding"]}
