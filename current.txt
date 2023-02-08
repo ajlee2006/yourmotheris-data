@@ -1,1 +1,1 @@
-{"data": ["2023-02-08T12:00:40.991286+00:00", 8844, "Your mother is", "ireful", "Pronunciation: /\u02c8a\u026a\u0259rf\u0259l/", "Definition: feeling or showing extreme anger", "Synonyms: irate"]}
+{"data": ["2023-02-08T13:00:45.183062+00:00", 8845, "Your mother is", "turbaned", "Similar to: hatted", "Definition: wearing a turban", ""]}
