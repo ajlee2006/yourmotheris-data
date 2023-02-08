@@ -1,1 +1,1 @@
-{"data": ["2023-02-08T22:00:43.573329+00:00", 8854, "Your mother is", "tasseled", "Pronunciation: /\u02c8t\u00e6s\u028cld/", "Definition: fringed or adorned with tassels", "Synonyms: tasselled"]}
+{"data": ["2023-02-08T23:00:50.036449+00:00", 8855, "Your mother is", "single", "Pronunciation: /\u02c8s\u026a\u014b\u0261\u0259l/", "Definition: characteristic of or meant for a single person or thing", "Synonyms: individual"]}
