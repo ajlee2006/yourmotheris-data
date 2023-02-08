@@ -1,1 +1,1 @@
-{"data": ["2023-02-08T09:00:24.674414+00:00", 8841, "Your mother is", "secluded", "Pronunciation: /s\u026a\u02c8klud\u026ad/", "Definition: hidden from general view or use", "Synonyms: privy, secret"]}
+{"data": ["2023-02-08T10:00:22.505327+00:00", 8842, "Your mother is", "declaratory", "Pronunciation: /d\u026a\u02c8kl\u00e6r\u0259\u02ccto\u028ari/", "Definition: relating to the use of or having the nature of a declaration", "Synonyms: asserting, declarative"]}
