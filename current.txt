@@ -1,1 +1,1 @@
-{"data": ["2023-02-08T07:00:51.875483+00:00", 8839, "Your mother is", "ebony", "Pronunciation: /\u02c8\u025bb\u0259ni/", "Definition: of a very dark black", "Synonyms: ebon"]}
+{"data": ["2023-02-08T08:00:48.901773+00:00", 8840, "Your mother is", "low-cut", "Pronunciation: /lo\u028a-k\u0259t/", "Definition: (of a garment) having a low-cut neckline", "Synonyms: decollete, low-necked"]}
