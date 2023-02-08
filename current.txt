@@ -1,1 +1,1 @@
-{"data": ["2023-02-08T19:00:42.823664+00:00", 8851, "Your mother is", "encircling", "Pronunciation: /\u025bn\u02c8s\u025drk\u028cl\u026a\u014b/", "Definition: being all around the edges; enclosing", "Synonyms: skirting"]}
+{"data": ["2023-02-08T20:00:52.220562+00:00", 8852, "Your mother is", "remaining", "Pronunciation: /r\u026a\u02c8me\u026an\u026a\u014b/", "Definition: not used up", "Synonyms: left, left over, leftover, odd, unexpended"]}
