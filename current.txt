@@ -1,1 +1,1 @@
-{"data": ["2023-02-08T08:00:48.901773+00:00", 8840, "Your mother is", "low-cut", "Pronunciation: /lo\u028a-k\u0259t/", "Definition: (of a garment) having a low-cut neckline", "Synonyms: decollete, low-necked"]}
+{"data": ["2023-02-08T09:00:24.674414+00:00", 8841, "Your mother is", "secluded", "Pronunciation: /s\u026a\u02c8klud\u026ad/", "Definition: hidden from general view or use", "Synonyms: privy, secret"]}
