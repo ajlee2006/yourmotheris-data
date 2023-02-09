@@ -1,1 +1,1 @@
-{"data": ["2023-02-09T15:00:38.083389+00:00", 8871, "Your mother is", "inconvenient", "Pronunciation: /\u02cc\u026ank\u0259n\u02c8vinj\u0259nt/", "Definition: not conveniently timed", ""]}
+{"data": ["2023-02-09T16:00:36.538482+00:00", 8872, "Your mother is", "maneuverable", "Pronunciation: /m\u028c\u02c8nuv\u025dr\u028cb\u028cl/", "Definition: capable of maneuvering or changing position", "Synonyms: manoeuvrable"]}
