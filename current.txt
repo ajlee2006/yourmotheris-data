@@ -1,1 +1,1 @@
-{"data": ["2023-02-09T05:00:44.295081+00:00", 8861, "Your mother is", "extinguished", "Pronunciation: /\u026ak\u02c8st\u026a\u014b\u0261w\u026a\u0283t/", "Definition: of a conditioned response; caused to die out because of the absence or withdrawal of reinforcement", ""]}
+{"data": ["2023-02-09T06:00:29.205124+00:00", 8862, "Your mother is", "miasmic", "Similar to: ill-smelling", "Definition: of noxious stench from atmospheric pollution", "Synonyms: mephitic"]}
