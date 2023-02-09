@@ -1,1 +1,1 @@
-{"data": ["2023-02-09T04:00:32.997222+00:00", 8860, "Your mother is", "playful", "Pronunciation: /\u02c8ple\u026af\u0259l/", "Definition: full of fun and high spirits", ""]}
+{"data": ["2023-02-09T05:00:44.295081+00:00", 8861, "Your mother is", "extinguished", "Pronunciation: /\u026ak\u02c8st\u026a\u014b\u0261w\u026a\u0283t/", "Definition: of a conditioned response; caused to die out because of the absence or withdrawal of reinforcement", ""]}
