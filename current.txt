@@ -1,1 +1,1 @@
-{"data": ["2023-02-09T21:00:26.772170+00:00", 8877, "Your mother is", "caramel", "Pronunciation: /\u02c8k\u00e6r\u0259m\u0259l/", "Definition: having the color of caramel; of a moderate yellow-brown", "Synonyms: caramel brown"]}
+{"data": ["2023-02-09T22:00:40.501337+00:00", 8878, "Your mother is", "chartreuse", "Pronunciation: /\u0283\u0251r\u02c8truz/", "Definition: of something having the yellowish green color of Chartreuse liqueur", ""]}
