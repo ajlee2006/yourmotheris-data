@@ -1,1 +1,1 @@
-{"data": ["2023-02-09T06:00:29.205124+00:00", 8862, "Your mother is", "miasmic", "Similar to: ill-smelling", "Definition: of noxious stench from atmospheric pollution", "Synonyms: mephitic"]}
+{"data": ["2023-02-09T07:00:34.655541+00:00", 8863, "Your mother is", "corticoefferent", "Similar to: efferent", "Definition: of a nerve fiber passing outward from the cerebral cortex", "Synonyms: corticifugal, corticofugal"]}
