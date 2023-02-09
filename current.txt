@@ -1,1 +1,1 @@
-{"data": ["2023-02-09T19:00:43.569080+00:00", 8875, "Your mother is", "twenty-seventh", "Pronunciation: /\u02c8tw\u025bnti-\u02c8s\u025bv\u0259n\u03b8/", "Definition: coming next after the twenty-sixth in position", "Synonyms: 27th"]}
+{"data": ["2023-02-09T20:00:25.484850+00:00", 8876, "Your mother is", "thriftless", "Pronunciation: /\u02c8\u03b8r\u026aftl\u026as/", "Definition: careless of the future", ""]}
