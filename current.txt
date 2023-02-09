@@ -1,1 +1,1 @@
-{"data": ["2023-02-08T23:00:50.036449+00:00", 8855, "Your mother is", "single", "Pronunciation: /\u02c8s\u026a\u014b\u0261\u0259l/", "Definition: characteristic of or meant for a single person or thing", "Synonyms: individual"]}
+{"data": ["2023-02-09T00:01:07.515726+00:00", 8856, "Your mother is", "xliv", "Similar to: cardinal", "Definition: being four more than forty", "Synonyms: 44, forty-four"]}
