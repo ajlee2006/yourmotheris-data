@@ -1,1 +1,1 @@
-{"data": ["2023-02-09T22:00:40.501337+00:00", 8878, "Your mother is", "chartreuse", "Pronunciation: /\u0283\u0251r\u02c8truz/", "Definition: of something having the yellowish green color of Chartreuse liqueur", ""]}
+{"data": ["2023-02-09T23:00:29.094244+00:00", 8879, "Your mother is", "relaxing", "Pronunciation: /r\u026a\u02c8l\u00e6ks\u026a\u014b/", "Definition: affording physical or mental rest", "Synonyms: reposeful, restful"]}
