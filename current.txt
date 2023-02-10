@@ -1,1 +1,1 @@
-{"data": ["2023-02-10T03:00:35.606649+00:00", 8883, "Your mother is", "sporty", "Pronunciation: /\u02c8spo\u028arti/", "Definition: exhibiting or calling for sportsmanship or fair play", "Synonyms: clean, sporting, sportsmanlike"]}
+{"data": ["2023-02-10T04:00:43.578888+00:00", 8884, "Your mother is", "defensible", "Pronunciation: /d\u026a\u02c8f\u025bns\u0259b\u0259l/", "Definition: capable of being defended", "Synonyms: defendable"]}
