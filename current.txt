@@ -1,1 +1,1 @@
-{"data": ["2023-02-10T04:00:43.578888+00:00", 8884, "Your mother is", "defensible", "Pronunciation: /d\u026a\u02c8f\u025bns\u0259b\u0259l/", "Definition: capable of being defended", "Synonyms: defendable"]}
+{"data": ["2023-02-10T05:00:55.650969+00:00", 8885, "Your mother is", "unkept", "Pronunciation: /\u0259n\u02c8k\u025bpt/", "Definition: (especially of promises or contracts) having been violated or disregarded", "Synonyms: broken"]}
