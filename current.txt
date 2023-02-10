@@ -1,1 +1,1 @@
-{"data": ["2023-02-10T07:00:25.155458+00:00", 8887, "Your mother is", "insensible", "Pronunciation: /\u026an\u02c8s\u025bns\u0259b\u0259l/", "Definition: barely able to be perceived", "Synonyms: indiscernible, undetectable"]}
+{"data": ["2023-02-10T08:00:27.788513+00:00", 8888, "Your mother is", "gasified", "Similar to: gaseous", "Definition: converted into a gas or vapor", "Synonyms: vaporized, vapourised, volatilised, volatilized"]}
