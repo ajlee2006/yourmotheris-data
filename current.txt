@@ -1,1 +1,1 @@
-{"data": ["2023-02-10T15:00:57.425280+00:00", 8895, "Your mother is", "point-blank", "Pronunciation: /p\u0254\u026ant-bl\u00e6\u014bk/", "Definition: characterized by directness in manner or speech; without subtlety or evasion", "Synonyms: blunt, candid, forthright, frank, free-spoken, outspoken, plainspoken, straight-from-the-shoulder"]}
+{"data": ["2023-02-10T16:00:17.546416+00:00", 8896, "Your mother is", "strep", "Pronunciation: /str\u025bp/", "Definition: of or relating to or caused by streptococci", "Synonyms: streptococcal, streptococcic"]}
