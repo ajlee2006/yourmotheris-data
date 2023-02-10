@@ -1,1 +1,1 @@
-{"data": ["2023-02-10T22:00:34.342509+00:00", 8902, "Your mother is", "worsened", "Pronunciation: /\u02c8w\u025drs\u028cnd/", "Definition: changed for the worse in health or fitness", "Synonyms: worse"]}
+{"data": ["2023-02-10T23:00:40.244629+00:00", 8903, "Your mother is", "left-slanting", "Similar to: written", "Definition: (of handwriting) having the letters slanting backward", "Synonyms: backhand"]}
