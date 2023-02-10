@@ -1,1 +1,1 @@
-{"data": ["2023-02-10T20:00:19.057140+00:00", 8900, "Your mother is", "informal", "Pronunciation: /\u026an\u02c8f\u0254rm\u0259l/", "Definition: having or fostering a warm or friendly and informal atmosphere", "Synonyms: cozy, intimate"]}
+{"data": ["2023-02-10T21:00:16.630439+00:00", 8901, "Your mother is", "cubelike", "Similar to: cubic", "Definition: shaped like a cube", "Synonyms: cube-shaped, cubical, cubiform, cuboid, cuboidal"]}
