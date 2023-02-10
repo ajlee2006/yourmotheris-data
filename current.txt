@@ -1,1 +1,1 @@
-{"data": ["2023-02-10T16:00:17.546416+00:00", 8896, "Your mother is", "strep", "Pronunciation: /str\u025bp/", "Definition: of or relating to or caused by streptococci", "Synonyms: streptococcal, streptococcic"]}
+{"data": ["2023-02-10T17:00:55.224063+00:00", 8897, "Your mother is", "lead-colored", "Pronunciation: /lid-\u02c8k\u0259l\u0259rd/", "Definition: having the color of lead", "Synonyms: lead-coloured"]}
