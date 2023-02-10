@@ -1,1 +1,1 @@
-{"data": ["2023-02-10T05:00:55.650969+00:00", 8885, "Your mother is", "unkept", "Pronunciation: /\u0259n\u02c8k\u025bpt/", "Definition: (especially of promises or contracts) having been violated or disregarded", "Synonyms: broken"]}
+{"data": ["2023-02-10T06:00:42.576542+00:00", 8886, "Your mother is", "rubber", "Pronunciation: /\u02c8r\u0259b\u0259r/", "Definition: returned for lack of funds", "Synonyms: no-good"]}
