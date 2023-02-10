@@ -1,1 +1,1 @@
-{"data": ["2023-02-10T06:00:42.576542+00:00", 8886, "Your mother is", "rubber", "Pronunciation: /\u02c8r\u0259b\u0259r/", "Definition: returned for lack of funds", "Synonyms: no-good"]}
+{"data": ["2023-02-10T07:00:25.155458+00:00", 8887, "Your mother is", "insensible", "Pronunciation: /\u026an\u02c8s\u025bns\u0259b\u0259l/", "Definition: barely able to be perceived", "Synonyms: indiscernible, undetectable"]}
