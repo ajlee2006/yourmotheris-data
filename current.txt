@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T14:00:53.529183+00:00", 8918, "Your mother is", "bimanual", "Pronunciation: /ba\u026a\u02c8m\u00e6nju\u0259l/", "Definition: requiring two hands or designed for two people", "Synonyms: two-handed"]}
+{"data": ["2023-02-11T15:00:44.203540+00:00", 8919, "Your mother is", "secret", "Pronunciation: /\u02c8sikr\u026at/", "Definition: not openly made known", "Synonyms: unavowed"]}
