@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T15:00:44.203540+00:00", 8919, "Your mother is", "secret", "Pronunciation: /\u02c8sikr\u026at/", "Definition: not openly made known", "Synonyms: unavowed"]}
+{"data": ["2023-02-11T16:00:55.554652+00:00", 8920, "Your mother is", "understated", "Pronunciation: /\u02c8\u028cnd\u025dr\u02ccste\u026at\u026ad/", "Definition: exhibiting restrained good taste", "Synonyms: unostentatious, unpretentious"]}
