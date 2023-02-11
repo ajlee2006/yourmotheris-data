@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T21:00:34.959067+00:00", 8925, "Your mother is", "semicentenary", "Pronunciation: /\u02ccs\u025bmi\u02c8s\u025bn\u02cct\u0259n\u025bri/", "Definition: of or relating to or marking the 50th anniversary", "Synonyms: semicentennial"]}
+{"data": ["2023-02-11T22:00:34.708606+00:00", 8926, "Your mother is", "robotic", "Pronunciation: /\u02ccro\u028a\u02c8b\u0251t\u026ak/", "Definition: resembling the unthinking functioning of a machine", "Synonyms: automatic, automatonlike, machinelike, robotlike"]}
