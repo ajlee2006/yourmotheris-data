@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T07:00:39.315389+00:00", 8911, "Your mother is", "foul-smelling", "Similar to: ill-smelling", "Definition: offensively malodorous", "Synonyms: fetid, foetid, foul, funky, ill-scented, noisome, smelly, stinking"]}
+{"data": ["2023-02-11T08:00:22.134923+00:00", 8912, "Your mother is", "black-barred", "Similar to: patterned", "Definition: having a pattern consisting of black bars", ""]}
