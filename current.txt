@@ -1,1 +1,1 @@
-{"data": ["2023-02-10T23:00:40.244629+00:00", 8903, "Your mother is", "left-slanting", "Similar to: written", "Definition: (of handwriting) having the letters slanting backward", "Synonyms: backhand"]}
+{"data": ["2023-02-11T00:01:42.003808+00:00", 8904, "Your mother is", "overage", "Pronunciation: /\u02c8o\u028av\u0259rid\u0292/", "Definition: too old to be useful", "Synonyms: over-the-hill, overaged, superannuated"]}
