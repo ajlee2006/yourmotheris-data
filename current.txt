@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T02:00:42.777529+00:00", 8906, "Your mother is", "hundred", "Pronunciation: /\u02c8h\u0259ndr\u026ad/", "Definition: being ten more than ninety", "Synonyms: 100, c, one hundred"]}
+{"data": ["2023-02-11T03:00:55.651182+00:00", 8907, "Your mother is", "returnable", "Pronunciation: /r\u026a\u02c8t\u025crn\u0259b\u0259l/", "Definition: that may be returned", ""]}
