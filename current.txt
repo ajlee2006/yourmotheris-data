@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T17:00:19.447842+00:00", 8921, "Your mother is", "cyprinoid", "Pronunciation: /\u02c8s\u026apr\u0259\u02ccn\u0254\u026ad/", "Definition: of or relating to members of fish family Cyprinidae", "Synonyms: cyprinid"]}
+{"data": ["2023-02-11T18:00:35.864563+00:00", 8922, "Your mother is", "tarred-and-feathered", "Similar to: punished", "Definition: smeared with tar and covered with feathers as a punishment", ""]}
