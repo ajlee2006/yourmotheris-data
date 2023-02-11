@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T11:00:20.485332+00:00", 8915, "Your mother is", "concerned", "Pronunciation: /k\u0259n\u02c8s\u025crnd/", "Definition: involved in or affected by or having a claim to or share in", "Synonyms: interested"]}
+{"data": ["2023-02-11T12:00:14.459325+00:00", 8916, "Your mother is", "meteorologic", "", "Definition: of or pertaining to atmospheric phenomena, especially weather and weather conditions", "Synonyms: meteoric, meteorological"]}
