@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T12:00:14.459325+00:00", 8916, "Your mother is", "meteorologic", "", "Definition: of or pertaining to atmospheric phenomena, especially weather and weather conditions", "Synonyms: meteoric, meteorological"]}
+{"data": ["2023-02-11T13:00:16.290308+00:00", 8917, "Your mother is", "cut-and-dry", "Similar to: ordinary", "Definition: according to ordinary expectations", "Synonyms: cut-and-dried"]}
