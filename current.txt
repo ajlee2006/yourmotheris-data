@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T00:01:42.003808+00:00", 8904, "Your mother is", "overage", "Pronunciation: /\u02c8o\u028av\u0259rid\u0292/", "Definition: too old to be useful", "Synonyms: over-the-hill, overaged, superannuated"]}
+{"data": ["2023-02-11T01:00:30.000197+00:00", 8905, "Your mother is", "warning", "Pronunciation: /\u02c8w\u0254rn\u026a\u014b/", "Definition: serving to warn", "Synonyms: admonitory, cautionary, exemplary, monitory"]}
