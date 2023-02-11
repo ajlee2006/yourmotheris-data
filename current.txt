@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T19:00:47.735268+00:00", 8923, "Your mother is", "unprogressive", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8gr\u025bs\u026av/", "Definition: old-fashioned and out of date", "Synonyms: fusty, nonprogressive, standpat"]}
+{"data": ["2023-02-11T20:00:31.803597+00:00", 8924, "Your mother is", "autarkic", "Similar to: independent", "Definition: of countries; not relying on imports", "Synonyms: autarkical"]}
