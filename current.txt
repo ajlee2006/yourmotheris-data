@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T03:00:55.651182+00:00", 8907, "Your mother is", "returnable", "Pronunciation: /r\u026a\u02c8t\u025crn\u0259b\u0259l/", "Definition: that may be returned", ""]}
+{"data": ["2023-02-11T04:00:22.983736+00:00", 8908, "Your mother is", "velvety-plumaged", "Similar to: feathered", "Definition: plumage resembling velvet", ""]}
