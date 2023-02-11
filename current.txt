@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T01:00:30.000197+00:00", 8905, "Your mother is", "warning", "Pronunciation: /\u02c8w\u0254rn\u026a\u014b/", "Definition: serving to warn", "Synonyms: admonitory, cautionary, exemplary, monitory"]}
+{"data": ["2023-02-11T02:00:42.777529+00:00", 8906, "Your mother is", "hundred", "Pronunciation: /\u02c8h\u0259ndr\u026ad/", "Definition: being ten more than ninety", "Synonyms: 100, c, one hundred"]}
