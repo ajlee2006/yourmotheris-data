@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T06:00:24.082022+00:00", 8910, "Your mother is", "chisel-like", "Similar to: sharp", "Definition: resembling a chisel", ""]}
+{"data": ["2023-02-11T07:00:39.315389+00:00", 8911, "Your mother is", "foul-smelling", "Similar to: ill-smelling", "Definition: offensively malodorous", "Synonyms: fetid, foetid, foul, funky, ill-scented, noisome, smelly, stinking"]}
