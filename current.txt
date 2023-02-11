@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T16:00:55.554652+00:00", 8920, "Your mother is", "understated", "Pronunciation: /\u02c8\u028cnd\u025dr\u02ccste\u026at\u026ad/", "Definition: exhibiting restrained good taste", "Synonyms: unostentatious, unpretentious"]}
+{"data": ["2023-02-11T17:00:19.447842+00:00", 8921, "Your mother is", "cyprinoid", "Pronunciation: /\u02c8s\u026apr\u0259\u02ccn\u0254\u026ad/", "Definition: of or relating to members of fish family Cyprinidae", "Synonyms: cyprinid"]}
