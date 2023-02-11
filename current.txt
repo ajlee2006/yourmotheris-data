@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T10:00:52.084109+00:00", 8914, "Your mother is", "conclusive", "Pronunciation: /k\u0259n\u02c8klus\u026av/", "Definition: forming an end or termination; especially putting an end to doubt or question", ""]}
+{"data": ["2023-02-11T11:00:20.485332+00:00", 8915, "Your mother is", "concerned", "Pronunciation: /k\u0259n\u02c8s\u025crnd/", "Definition: involved in or affected by or having a claim to or share in", "Synonyms: interested"]}
