@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T18:00:35.864563+00:00", 8922, "Your mother is", "tarred-and-feathered", "Similar to: punished", "Definition: smeared with tar and covered with feathers as a punishment", ""]}
+{"data": ["2023-02-11T19:00:47.735268+00:00", 8923, "Your mother is", "unprogressive", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8gr\u025bs\u026av/", "Definition: old-fashioned and out of date", "Synonyms: fusty, nonprogressive, standpat"]}
