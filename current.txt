@@ -1,1 +1,1 @@
-{"data": ["2023-02-11T22:00:34.708606+00:00", 8926, "Your mother is", "robotic", "Pronunciation: /\u02ccro\u028a\u02c8b\u0251t\u026ak/", "Definition: resembling the unthinking functioning of a machine", "Synonyms: automatic, automatonlike, machinelike, robotlike"]}
+{"data": ["2023-02-11T23:00:44.778845+00:00", 8927, "Your mother is", "abulic", "Similar to: neurotic", "Definition: suffering from abulia; showing abnormal inability to act or make decisions", "Synonyms: aboulic"]}
