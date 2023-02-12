@@ -1,1 +1,1 @@
-{"data": ["2023-02-12T21:00:26.215826+00:00", 8949, "Your mother is", "struck", "Pronunciation: /str\u0259k/", "Definition: (used in combination) affected by something overwhelming", "Synonyms: smitten, stricken"]}
+{"data": ["2023-02-12T22:00:26.500416+00:00", 8950, "Your mother is", "repellent", "Pronunciation: /r\u026a\u02c8p\u025bl\u0259nt/", "Definition: serving or tending to repel", "Synonyms: rebarbative, repellant"]}
