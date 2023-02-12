@@ -1,1 +1,1 @@
-{"data": ["2023-02-12T04:00:23.661653+00:00", 8932, "Your mother is", "haphazard", "Pronunciation: /h\u00e6p\u02c8h\u00e6z\u0259d/", "Definition: marked by great carelessness", "Synonyms: slapdash, slipshod, sloppy"]}
+{"data": ["2023-02-12T05:00:34.276817+00:00", 8933, "Your mother is", "undisguised", "Pronunciation: /\u02cc\u0259nd\u026as\u02c8\u0261a\u026azd/", "Definition: plain to see", ""]}
