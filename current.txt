@@ -1,1 +1,1 @@
-{"data": ["2023-02-12T17:00:28.408726+00:00", 8945, "Your mother is", "clockwise", "Pronunciation: /\u02c8kl\u0251k\u02ccwa\u026az/", "Definition: in the same direction as the rotating hands of a clock", ""]}
+{"data": ["2023-02-12T18:00:28.414506+00:00", 8946, "Your mother is", "low-grade", "Pronunciation: /lo\u028a-gre\u026ad/", "Definition: of inferior quality", ""]}
