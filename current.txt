@@ -1,1 +1,1 @@
-{"data": ["2023-02-12T12:00:30.077198+00:00", 8940, "Your mother is", "impermissible", "Pronunciation: /\u02cc\u026amp\u0259r\u02c8m\u026as\u0259b\u0259l/", "Definition: not allowable", ""]}
+{"data": ["2023-02-12T13:00:13.972530+00:00", 8941, "Your mother is", "gluttonous", "Pronunciation: /\u02c8gl\u0259t\u0259n\u0259s/", "Definition: given to excess in consumption of especially food or drink", ""]}
