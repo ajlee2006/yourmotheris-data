@@ -1,1 +1,1 @@
-{"data": ["2023-02-12T07:00:21.067739+00:00", 8935, "Your mother is", "phytophagic", "Similar to: herbivorous", "Definition: (of animals) feeding on plants", "Synonyms: phytophagous, phytophilous, plant-eating"]}
+{"data": ["2023-02-12T08:00:22.900346+00:00", 8936, "Your mother is", "squealing", "Pronunciation: /\u02c8skwil\u026a\u014b/", "Definition: having or making a high-pitched sound such as that made by a mouse or a rusty hinge", "Synonyms: screaky, screechy, squeaking, squeaky"]}
