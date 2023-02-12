@@ -1,1 +1,1 @@
-{"data": ["2023-02-12T02:00:46.151281+00:00", 8930, "Your mother is", "appositive", "Pronunciation: /\u0259\u02c8p\u0251z\u026at\u026av/", "Definition: relating to or being in apposition", "Synonyms: appositional"]}
+{"data": ["2023-02-12T03:00:55.766868+00:00", 8931, "Your mother is", "up", "Pronunciation: /ju\u02c8pi/", "Definition: getting higher or more vigorous", "Synonyms: improving"]}
