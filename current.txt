@@ -1,1 +1,1 @@
-{"data": ["2023-02-12T16:00:51.876484+00:00", 8944, "Your mother is", "teetotal", "Pronunciation: /ti\u02c8to\u028at\u0259l/", "Definition: practicing complete abstinence from alcoholic beverages", "Synonyms: dry"]}
+{"data": ["2023-02-12T17:00:28.408726+00:00", 8945, "Your mother is", "clockwise", "Pronunciation: /\u02c8kl\u0251k\u02ccwa\u026az/", "Definition: in the same direction as the rotating hands of a clock", ""]}
