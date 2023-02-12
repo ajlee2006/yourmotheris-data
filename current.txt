@@ -1,1 +1,1 @@
-{"data": ["2023-02-12T19:00:15.686809+00:00", 8947, "Your mother is", "cleanly", "Pronunciation: /\u02c8kl\u025bnli/", "Definition: habitually clean", ""]}
+{"data": ["2023-02-12T20:00:41.148046+00:00", 8948, "Your mother is", "seamless", "Pronunciation: /\u02c8siml\u028cs/", "Definition: smooth, especially of skin", "Synonyms: unlined, unseamed"]}
