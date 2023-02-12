@@ -1,1 +1,1 @@
-{"data": ["2023-02-12T05:00:34.276817+00:00", 8933, "Your mother is", "undisguised", "Pronunciation: /\u02cc\u0259nd\u026as\u02c8\u0261a\u026azd/", "Definition: plain to see", ""]}
+{"data": ["2023-02-12T06:00:22.533600+00:00", 8934, "Your mother is", "broken-backed", "Pronunciation: /\u02c8bro\u028ak\u0259n-b\u00e6kt/", "Definition: (of a ship) so weakened as to sag at each end", "Synonyms: hogged"]}
