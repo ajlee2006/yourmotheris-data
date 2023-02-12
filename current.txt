@@ -1,1 +1,1 @@
-{"data": ["2023-02-12T22:00:26.500416+00:00", 8950, "Your mother is", "repellent", "Pronunciation: /r\u026a\u02c8p\u025bl\u0259nt/", "Definition: serving or tending to repel", "Synonyms: rebarbative, repellant"]}
+{"data": ["2023-02-12T23:00:12.429480+00:00", 8951, "Your mother is", "supranational", "Pronunciation: /\u02ccsupr\u0259\u02c8n\u00e6\u0283\u0259n\u0259l/", "Definition: transcending established national boundaries or spheres of interest", ""]}
