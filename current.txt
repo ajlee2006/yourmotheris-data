@@ -1,1 +1,1 @@
-{"data": ["2023-02-12T06:00:22.533600+00:00", 8934, "Your mother is", "broken-backed", "Pronunciation: /\u02c8bro\u028ak\u0259n-b\u00e6kt/", "Definition: (of a ship) so weakened as to sag at each end", "Synonyms: hogged"]}
+{"data": ["2023-02-12T07:00:21.067739+00:00", 8935, "Your mother is", "phytophagic", "Similar to: herbivorous", "Definition: (of animals) feeding on plants", "Synonyms: phytophagous, phytophilous, plant-eating"]}
