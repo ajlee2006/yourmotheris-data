@@ -1,1 +1,1 @@
-{"data": ["2023-02-12T03:00:55.766868+00:00", 8931, "Your mother is", "up", "Pronunciation: /ju\u02c8pi/", "Definition: getting higher or more vigorous", "Synonyms: improving"]}
+{"data": ["2023-02-12T04:00:23.661653+00:00", 8932, "Your mother is", "haphazard", "Pronunciation: /h\u00e6p\u02c8h\u00e6z\u0259d/", "Definition: marked by great carelessness", "Synonyms: slapdash, slipshod, sloppy"]}
