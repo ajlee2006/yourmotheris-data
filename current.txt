@@ -1,1 +1,1 @@
-{"data": ["2023-02-13T05:00:14.456718+00:00", 8957, "Your mother is", "disbelieving", "Pronunciation: /d\u026asb\u028c\u02c8liv\u026a\u014b/", "Definition: denying or questioning the tenets of especially a religion", "Synonyms: sceptical, skeptical, unbelieving"]}
+{"data": ["2023-02-13T06:00:54.228890+00:00", 8958, "Your mother is", "avifaunistic", "", "Definition: of or relating to birds of a particular region or period", "Synonyms: avifaunal"]}
