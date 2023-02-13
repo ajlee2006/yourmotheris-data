@@ -1,1 +1,1 @@
-{"data": ["2023-02-13T09:00:40.288398+00:00", 8961, "Your mother is", "uncorrected", "Pronunciation: /\u02cc\u028cnk\u025dr\u02c8\u025bkt\u026ad/", "Definition: not subjected to correction or discipline", "Synonyms: undisciplined"]}
+{"data": ["2023-02-13T10:00:21.005879+00:00", 8962, "Your mother is", "condolent", "Pronunciation: /k\u0259n\u02c8do\u028al\u0259nt/", "Definition: expressing sympathy with a person who experienced the death of a loved one", ""]}
