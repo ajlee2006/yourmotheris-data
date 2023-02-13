@@ -1,1 +1,1 @@
-{"data": ["2023-02-13T04:00:31.256788+00:00", 8956, "Your mother is", "prim", "Pronunciation: /pr\u026am/", "Definition: affectedly dainty or refined", "Synonyms: mincing, niminy-piminy, twee"]}
+{"data": ["2023-02-13T05:00:14.456718+00:00", 8957, "Your mother is", "disbelieving", "Pronunciation: /d\u026asb\u028c\u02c8liv\u026a\u014b/", "Definition: denying or questioning the tenets of especially a religion", "Synonyms: sceptical, skeptical, unbelieving"]}
