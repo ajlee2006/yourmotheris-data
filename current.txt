@@ -1,1 +1,1 @@
-{"data": ["2023-02-13T18:00:42.351590+00:00", 8970, "Your mother is", "falsifiable", "Similar to: empiric", "Definition: capable of being tested (verified or falsified) by experiment or observation", "Synonyms: confirmable, verifiable"]}
+{"data": ["2023-02-13T19:00:41.570742+00:00", 8971, "Your mother is", "adducting", "", "Definition: especially of muscles; bringing together or drawing toward the midline of the body or toward an adjacent part", "Synonyms: adducent, adductive"]}
