@@ -1,1 +1,1 @@
-{"data": ["2023-02-13T13:00:27.507942+00:00", 8965, "Your mother is", "childlike", "Pronunciation: /\u02c8\u02a7a\u026ald\u02ccla\u026ak/", "Definition: exhibiting childlike simplicity and credulity", "Synonyms: dewy-eyed, round-eyed, simple, wide-eyed"]}
+{"data": ["2023-02-13T14:00:50.343932+00:00", 8966, "Your mother is", "geomorphological", "Pronunciation: /\u02ccd\u0292i\u0259\u02ccm\u0254rph\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: pertaining to geological structure", "Synonyms: geomorphologic, morphologic, morphological, structural"]}
