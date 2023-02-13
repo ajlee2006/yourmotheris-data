@@ -1,1 +1,1 @@
-{"data": ["2023-02-13T10:00:21.005879+00:00", 8962, "Your mother is", "condolent", "Pronunciation: /k\u0259n\u02c8do\u028al\u0259nt/", "Definition: expressing sympathy with a person who experienced the death of a loved one", ""]}
+{"data": ["2023-02-13T11:00:35.860580+00:00", 8963, "Your mother is", "saturated", "Pronunciation: /\u02c8s\u00e6\u02a7\u0259\u02ccre\u026at\u026ad/", "Definition: being the most concentrated solution possible at a given temperature; unable to dissolve still more of a substance", "Synonyms: concentrated"]}
