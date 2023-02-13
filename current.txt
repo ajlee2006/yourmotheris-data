@@ -1,1 +1,1 @@
-{"data": ["2023-02-13T03:00:51.943950+00:00", 8955, "Your mother is", "gray-headed", "Pronunciation: /gre\u026a-\u02c8h\u025bd\u026ad/", "Definition: showing characteristics of age, especially having grey or white hair", "Synonyms: gray, gray-haired, grey, grey-haired, grey-headed, grizzly, hoar, hoary, white-haired"]}
+{"data": ["2023-02-13T04:00:31.256788+00:00", 8956, "Your mother is", "prim", "Pronunciation: /pr\u026am/", "Definition: affectedly dainty or refined", "Synonyms: mincing, niminy-piminy, twee"]}
