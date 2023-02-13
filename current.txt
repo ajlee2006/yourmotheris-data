@@ -1,1 +1,1 @@
-{"data": ["2023-02-12T23:00:12.429480+00:00", 8951, "Your mother is", "supranational", "Pronunciation: /\u02ccsupr\u0259\u02c8n\u00e6\u0283\u0259n\u0259l/", "Definition: transcending established national boundaries or spheres of interest", ""]}
+{"data": ["2023-02-13T00:01:23.078763+00:00", 8952, "Your mother is", "spineless", "Pronunciation: /\u02c8spa\u026anl\u026as/", "Definition: weak in willpower, courage or vitality", "Synonyms: gutless, namby-pamby, wishy-washy"]}
