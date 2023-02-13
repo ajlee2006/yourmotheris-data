@@ -1,1 +1,1 @@
-{"data": ["2023-02-13T17:00:20.036734+00:00", 8969, "Your mother is", "tyrannical", "Pronunciation: /t\u026a\u02c8r\u00e6n\u026ak\u0259l/", "Definition: characteristic of an absolute ruler or absolute rule; having absolute sovereignty", "Synonyms: authoritarian, autocratic, despotic, dictatorial, tyrannic"]}
+{"data": ["2023-02-13T18:00:42.351590+00:00", 8970, "Your mother is", "falsifiable", "Similar to: empiric", "Definition: capable of being tested (verified or falsified) by experiment or observation", "Synonyms: confirmable, verifiable"]}
