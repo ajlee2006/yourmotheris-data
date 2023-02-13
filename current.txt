@@ -1,1 +1,1 @@
-{"data": ["2023-02-13T00:01:23.078763+00:00", 8952, "Your mother is", "spineless", "Pronunciation: /\u02c8spa\u026anl\u026as/", "Definition: weak in willpower, courage or vitality", "Synonyms: gutless, namby-pamby, wishy-washy"]}
+{"data": ["2023-02-13T01:00:32.792593+00:00", 8953, "Your mother is", "decayed", "Pronunciation: /d\u028c\u02c8ke\u026ad/", "Definition: damaged by decay; hence unsound and useless", "Synonyms: rotted, rotten"]}
