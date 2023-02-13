@@ -1,1 +1,1 @@
-{"data": ["2023-02-13T16:00:33.319514+00:00", 8968, "Your mother is", "matured", "Pronunciation: /m\u028c\u02c8tj\u028ard/", "Definition: fully considered and perfected", "Synonyms: mature"]}
+{"data": ["2023-02-13T17:00:20.036734+00:00", 8969, "Your mother is", "tyrannical", "Pronunciation: /t\u026a\u02c8r\u00e6n\u026ak\u0259l/", "Definition: characteristic of an absolute ruler or absolute rule; having absolute sovereignty", "Synonyms: authoritarian, autocratic, despotic, dictatorial, tyrannic"]}
