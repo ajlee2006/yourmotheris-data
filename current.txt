@@ -1,1 +1,1 @@
-{"data": ["2023-02-14T21:00:48.655100+00:00", 8997, "Your mother is", "haired", "Pronunciation: /h\u025brd/", "Definition: having or covered with hair", "Synonyms: hairy, hirsute"]}
+{"data": ["2023-02-14T22:00:16.899341+00:00", 8998, "Your mother is", "dextrorsal", "Similar to: dextral", "Definition: spiraling upward from left to right", "Synonyms: dextrorse"]}
