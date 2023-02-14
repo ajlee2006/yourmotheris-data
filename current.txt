@@ -1,1 +1,1 @@
-{"data": ["2023-02-14T18:00:54.283209+00:00", 8994, "Your mother is", "slatey", "Similar to: achromatic", "Definition: of the color of slate or granite", "Synonyms: slate-gray, slate-grey, slaty, slaty-gray, slaty-grey, stone-gray, stone-grey"]}
+{"data": ["2023-02-14T19:00:52.064556+00:00", 8995, "Your mother is", "undisturbed", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8st\u025crbd/", "Definition: untroubled by interference or disturbance", ""]}
