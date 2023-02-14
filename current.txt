@@ -1,1 +1,1 @@
-{"data": ["2023-02-14T14:00:38.557013+00:00", 8990, "Your mother is", "cellular", "Pronunciation: /\u02c8s\u025blj\u0259l\u0259r/", "Definition: characterized by or divided into or containing cells or compartments (the smallest organizational or structural unit of an organism or organization)", ""]}
+{"data": ["2023-02-14T15:00:17.803523+00:00", 8991, "Your mother is", "street smart", "Similar to: smart", "Definition: having the shrewd resourcefulness needed to survive in an urban environment", "Synonyms: streetwise, with-it"]}
