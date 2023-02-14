@@ -1,1 +1,1 @@
-{"data": ["2023-02-13T23:00:14.143268+00:00", 8975, "Your mother is", "equidistant", "Pronunciation: /\u02ccikw\u026a\u02c8d\u026ast\u0259nt/", "Definition: the same distance apart at every point", ""]}
+{"data": ["2023-02-14T00:01:26.969509+00:00", 8976, "Your mother is", "exhausted", "Pronunciation: /\u026a\u0261\u02c8z\u0254st\u028cd/", "Definition: drained of energy or effectiveness; extremely tired; completely exhausted", "Synonyms: dog-tired, fagged, fatigued, gone, played out, spent, washed-out, worn-out, worn out"]}
