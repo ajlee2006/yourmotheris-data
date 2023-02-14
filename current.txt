@@ -1,1 +1,1 @@
-{"data": ["2023-02-14T16:00:24.008966+00:00", 8992, "Your mother is", "worrying", "Pronunciation: /\u02c8w\u025dri\u026a\u014b/", "Definition: causing distress or worry or anxiety", "Synonyms: distressful, distressing, disturbing, perturbing, troubling, worrisome"]}
+{"data": ["2023-02-14T17:00:51.077364+00:00", 8993, "Your mother is", "thin-shelled", "Similar to: shelled", "Definition: of animals or plants that have a thin shell", ""]}
