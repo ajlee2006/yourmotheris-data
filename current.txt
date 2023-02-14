@@ -1,1 +1,1 @@
-{"data": ["2023-02-14T17:00:51.077364+00:00", 8993, "Your mother is", "thin-shelled", "Similar to: shelled", "Definition: of animals or plants that have a thin shell", ""]}
+{"data": ["2023-02-14T18:00:54.283209+00:00", 8994, "Your mother is", "slatey", "Similar to: achromatic", "Definition: of the color of slate or granite", "Synonyms: slate-gray, slate-grey, slaty, slaty-gray, slaty-grey, stone-gray, stone-grey"]}
