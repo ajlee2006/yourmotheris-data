@@ -1,1 +1,1 @@
-{"data": ["2023-02-14T12:00:11.532989+00:00", 8988, "Your mother is", "eight-sided", "Similar to: many-sided", "Definition: having eight sides", ""]}
+{"data": ["2023-02-14T13:00:37.952391+00:00", 8989, "Your mother is", "lachrymal", "Pronunciation: /\u02c8l\u00e6kr\u0259m\u0259l/", "Definition: of or relating to tears", "Synonyms: lacrimal"]}
