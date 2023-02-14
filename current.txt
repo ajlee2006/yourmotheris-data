@@ -1,1 +1,1 @@
-{"data": ["2023-02-14T03:00:34.710914+00:00", 8979, "Your mother is", "overindulgent", "Similar to: indulgent", "Definition: excessively indulgent", ""]}
+{"data": ["2023-02-14T04:00:49.817783+00:00", 8980, "Your mother is", "pennate", "Pronunciation: /\u02c8p\u025bne\u026at/", "Definition: having feathered wings", ""]}
