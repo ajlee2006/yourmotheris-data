@@ -1,1 +1,1 @@
-{"data": ["2023-02-14T00:01:26.969509+00:00", 8976, "Your mother is", "exhausted", "Pronunciation: /\u026a\u0261\u02c8z\u0254st\u028cd/", "Definition: drained of energy or effectiveness; extremely tired; completely exhausted", "Synonyms: dog-tired, fagged, fatigued, gone, played out, spent, washed-out, worn-out, worn out"]}
+{"data": ["2023-02-14T01:00:45.935254+00:00", 8977, "Your mother is", "finer", "Pronunciation: /\u02c8fa\u026an\u0259r/", "Definition: (comparative of `fine') greater in quality or excellence", ""]}
