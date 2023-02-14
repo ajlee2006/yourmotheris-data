@@ -1,1 +1,1 @@
-{"data": ["2023-02-14T04:00:49.817783+00:00", 8980, "Your mother is", "pennate", "Pronunciation: /\u02c8p\u025bne\u026at/", "Definition: having feathered wings", ""]}
+{"data": ["2023-02-14T05:00:38.263207+00:00", 8981, "Your mother is", "unconvinced", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8v\u026anst/", "Definition: lacking conviction", ""]}
