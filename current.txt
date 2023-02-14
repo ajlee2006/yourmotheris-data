@@ -1,1 +1,1 @@
-{"data": ["2023-02-14T15:00:17.803523+00:00", 8991, "Your mother is", "street smart", "Similar to: smart", "Definition: having the shrewd resourcefulness needed to survive in an urban environment", "Synonyms: streetwise, with-it"]}
+{"data": ["2023-02-14T16:00:24.008966+00:00", 8992, "Your mother is", "worrying", "Pronunciation: /\u02c8w\u025dri\u026a\u014b/", "Definition: causing distress or worry or anxiety", "Synonyms: distressful, distressing, disturbing, perturbing, troubling, worrisome"]}
