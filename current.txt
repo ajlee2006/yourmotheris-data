@@ -1,1 +1,1 @@
-{"data": ["2023-02-15T21:01:36.545351+00:00", 9021, "Your mother is", "ninety-five", "Pronunciation: /\u02c8na\u026anti-fa\u026av/", "Definition: being five more than ninety", "Synonyms: 95, xcv"]}
+{"data": ["2023-02-15T22:01:20.787206+00:00", 9022, "Your mother is", "nasal", "Pronunciation: /\u02c8ne\u026az\u0259l/", "Definition: sounding as if the nose were pinched", "Synonyms: adenoidal, pinched"]}
