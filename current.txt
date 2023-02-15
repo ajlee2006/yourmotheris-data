@@ -1,1 +1,1 @@
-{"data": ["2023-02-15T22:01:20.787206+00:00", 9022, "Your mother is", "nasal", "Pronunciation: /\u02c8ne\u026az\u0259l/", "Definition: sounding as if the nose were pinched", "Synonyms: adenoidal, pinched"]}
+{"data": ["2023-02-15T23:01:20.175842+00:00", 9023, "Your mother is", "acidophilic", "Pronunciation: /\u02cc\u00e6s\u026ado\u028a\u02c8f\u026al\u026ak/", "Definition: especially of some bacteria; growing well in an acid medium", "Synonyms: acidophilous, aciduric"]}
