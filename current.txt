@@ -1,1 +1,1 @@
-{"data": ["2023-02-15T10:00:58.336408+00:00", 9010, "Your mother is", "violet-flowered", "Pronunciation: /\u02c8va\u026a\u0259l\u026at-\u02c8fla\u028a\u0259rd/", "Definition: having a violet color", "Synonyms: violet-colored, violet-coloured"]}
+{"data": ["2023-02-15T11:01:08.775278+00:00", 9011, "Your mother is", "softheaded", "Similar to: impractical", "Definition: foolish; totally unsound", "Synonyms: crazy, half-baked, screwball"]}
