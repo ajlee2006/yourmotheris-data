@@ -1,1 +1,1 @@
-{"data": ["2023-02-15T16:01:40.633765+00:00", 9016, "Your mother is", "spondaic", "Pronunciation: /sp\u0251n\u02c8de\u026a\u026ak/", "Definition: of or consisting of spondees", ""]}
+{"data": ["2023-02-15T17:01:23.583121+00:00", 9017, "Your mother is", "cathectic", "Pronunciation: /k\u0259\u02c8\u03b8\u025bkt\u026ak/", "Definition: of or relating to cathexis", ""]}
