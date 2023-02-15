@@ -1,1 +1,1 @@
-{"data": ["2023-02-15T13:01:23.333600+00:00", 9013, "Your mother is", "enthusiastic", "Pronunciation: /\u025bn\u02cc\u03b8uzi\u02c8\u00e6st\u026ak/", "Definition: having or showing great excitement and interest", ""]}
+{"data": ["2023-02-15T14:01:19.441264+00:00", 9014, "Your mother is", "logy", "Pronunciation: /\u02c8lo\u028a\u0261i/", "Definition: stunned or confused and slow to react (as from blows or drunkenness or exhaustion)", "Synonyms: dazed, foggy, groggy, stuporous"]}
