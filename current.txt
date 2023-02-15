@@ -1,1 +1,1 @@
-{"data": ["2023-02-15T14:01:19.441264+00:00", 9014, "Your mother is", "logy", "Pronunciation: /\u02c8lo\u028a\u0261i/", "Definition: stunned or confused and slow to react (as from blows or drunkenness or exhaustion)", "Synonyms: dazed, foggy, groggy, stuporous"]}
+{"data": ["2023-02-15T15:01:35.543452+00:00", 9015, "Your mother is", "antiheretical", "Similar to: orthodox", "Definition: opposed to heresy", ""]}
