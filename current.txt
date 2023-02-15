@@ -1,1 +1,1 @@
-{"data": ["2023-02-15T19:01:32.390442+00:00", 9019, "Your mother is", "candy-scented", "Similar to: odorous", "Definition: smelling of candy", ""]}
+{"data": ["2023-02-15T20:01:35.558402+00:00", 9020, "Your mother is", "lunate", "Pronunciation: /\u02c8lune\u026at/", "Definition: resembling the new moon in shape", "Synonyms: crescent, crescent-shaped, semilunar"]}
