@@ -1,1 +1,1 @@
-{"data": ["2023-02-15T00:01:43.542267+00:00", 9000, "Your mother is", "circumboreal", "Similar to: northern", "Definition: comprising or throughout far northern regions", "Synonyms: boreal"]}
+{"data": ["2023-02-15T01:00:44.603406+00:00", 9001, "Your mother is", "achromic", "Pronunciation: /e\u026a\u02c8kro\u028am\u026ak/", "Definition: having no color", "Synonyms: achromous"]}
