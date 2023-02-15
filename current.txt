@@ -1,1 +1,1 @@
-{"data": ["2023-02-15T12:01:00.779022+00:00", 9012, "Your mother is", "organismic", "Pronunciation: /\u02cc\u0254r\u0261\u028c\u02c8n\u026azm\u026ak/", "Definition: of or relating to or belonging to an organism (considered as a whole)", "Synonyms: organismal"]}
+{"data": ["2023-02-15T13:01:23.333600+00:00", 9013, "Your mother is", "enthusiastic", "Pronunciation: /\u025bn\u02cc\u03b8uzi\u02c8\u00e6st\u026ak/", "Definition: having or showing great excitement and interest", ""]}
