@@ -1,1 +1,1 @@
-{"data": ["2023-02-15T04:00:55.098962+00:00", 9004, "Your mother is", "frilly", "Pronunciation: /\u02c8frili/", "Definition: having decorative ruffles or frills", "Synonyms: frilled, ruffled"]}
+{"data": ["2023-02-15T05:00:22.542117+00:00", 9005, "Your mother is", "rhythmic", "Pronunciation: /\u02c8r\u026a\u00f0m\u026ak/", "Definition: recurring with measured regularity", "Synonyms: rhythmical"]}
