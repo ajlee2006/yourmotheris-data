@@ -1,1 +1,1 @@
-{"data": ["2023-02-15T09:00:41.367481+00:00", 9009, "Your mother is", "lofty", "Pronunciation: /\u02c8l\u0254fti/", "Definition: of high moral or intellectual value; elevated in nature or style", "Synonyms: elevated, exalted, grand, high-flown, high-minded, idealistic, noble-minded, rarefied, rarified, sublime"]}
+{"data": ["2023-02-15T10:00:58.336408+00:00", 9010, "Your mother is", "violet-flowered", "Pronunciation: /\u02c8va\u026a\u0259l\u026at-\u02c8fla\u028a\u0259rd/", "Definition: having a violet color", "Synonyms: violet-colored, violet-coloured"]}
