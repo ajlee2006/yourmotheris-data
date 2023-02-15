@@ -1,1 +1,1 @@
-{"data": ["2023-02-15T11:01:08.775278+00:00", 9011, "Your mother is", "softheaded", "Similar to: impractical", "Definition: foolish; totally unsound", "Synonyms: crazy, half-baked, screwball"]}
+{"data": ["2023-02-15T12:01:00.779022+00:00", 9012, "Your mother is", "organismic", "Pronunciation: /\u02cc\u0254r\u0261\u028c\u02c8n\u026azm\u026ak/", "Definition: of or relating to or belonging to an organism (considered as a whole)", "Synonyms: organismal"]}
