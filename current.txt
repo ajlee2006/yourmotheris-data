@@ -1,1 +1,1 @@
-{"data": ["2023-02-15T01:00:44.603406+00:00", 9001, "Your mother is", "achromic", "Pronunciation: /e\u026a\u02c8kro\u028am\u026ak/", "Definition: having no color", "Synonyms: achromous"]}
+{"data": ["2023-02-15T02:00:29.449409+00:00", 9002, "Your mother is", "mortified", "Pronunciation: /\u02c8m\u0254rt\u028c\u02ccfa\u026ad/", "Definition: made to feel uncomfortable because of shame or wounded pride", "Synonyms: embarrassed, humiliated"]}
