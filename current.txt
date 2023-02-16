@@ -1,1 +1,1 @@
-{"data": ["2023-02-16T18:01:15.097467+00:00", 9042, "Your mother is", "horary", "Pronunciation: /\u02c8ho\u028ar\u0259ri/", "Definition: relating to the hours", ""]}
+{"data": ["2023-02-16T19:01:43.530110+00:00", 9043, "Your mother is", "74", "Similar to: cardinal", "Definition: being four more than seventy", "Synonyms: lxxiv, seventy-four"]}
