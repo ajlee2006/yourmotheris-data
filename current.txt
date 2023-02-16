@@ -1,1 +1,1 @@
-{"data": ["2023-02-16T12:01:11.830513+00:00", 9036, "Your mother is", "supplemental", "Pronunciation: /\u02ccs\u0259pl\u0259\u02c8m\u025bnt\u0259l/", "Definition: functioning in a supporting capacity", "Synonyms: auxiliary, subsidiary, supplementary"]}
+{"data": ["2023-02-16T13:00:58.240244+00:00", 9037, "Your mother is", "fusty", "Pronunciation: /\u02c8f\u0259sti/", "Definition: stale and unclean smelling", "Synonyms: frowsty, musty"]}
