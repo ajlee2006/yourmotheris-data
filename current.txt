@@ -1,1 +1,1 @@
-{"data": ["2023-02-16T15:01:02.366326+00:00", 9039, "Your mother is", "overfull", "Pronunciation: /\u02cco\u028av\u0259\u02c8f\u028al/", "Definition: exceeding demand", "Synonyms: glutted"]}
+{"data": ["2023-02-16T16:01:25.808248+00:00", 9040, "Your mother is", "benighted", "Pronunciation: /b\u026a\u02c8na\u026at\u026ad/", "Definition: overtaken by night or darkness", "Synonyms: nighted"]}
