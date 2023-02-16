@@ -1,1 +1,1 @@
-{"data": ["2023-02-16T00:02:16.176623+00:00", 9024, "Your mother is", "self-regulating", "Pronunciation: /\u02ccs\u025blf\u02c8r\u025b\u0261j\u0259\u02ccle\u026at\u026a\u014b/", "Definition: designed to activate or move or regulate itself", "Synonyms: self-acting, self-activating, self-moving"]}
+{"data": ["2023-02-16T01:01:29.863654+00:00", 9025, "Your mother is", "perforate", "Pronunciation: /\u02c8p\u0259rf\u0259\u02ccre\u026at/", "Definition: having a hole cut through", "Synonyms: perforated, pierced, punctured"]}
