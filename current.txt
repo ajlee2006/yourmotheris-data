@@ -1,1 +1,1 @@
-{"data": ["2023-02-15T23:01:20.175842+00:00", 9023, "Your mother is", "acidophilic", "Pronunciation: /\u02cc\u00e6s\u026ado\u028a\u02c8f\u026al\u026ak/", "Definition: especially of some bacteria; growing well in an acid medium", "Synonyms: acidophilous, aciduric"]}
+{"data": ["2023-02-16T00:02:16.176623+00:00", 9024, "Your mother is", "self-regulating", "Pronunciation: /\u02ccs\u025blf\u02c8r\u025b\u0261j\u0259\u02ccle\u026at\u026a\u014b/", "Definition: designed to activate or move or regulate itself", "Synonyms: self-acting, self-activating, self-moving"]}
