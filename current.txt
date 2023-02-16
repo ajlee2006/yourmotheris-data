@@ -1,1 +1,1 @@
-{"data": ["2023-02-16T21:01:27.282124+00:00", 9045, "Your mother is", "square-built", "Pronunciation: /skw\u025cr-b\u026alt/", "Definition: broad and solidly built", ""]}
+{"data": ["2023-02-16T22:01:26.973173+00:00", 9046, "Your mother is", "eightieth", "Pronunciation: /\u02c8e\u026ati\u026a\u03b8/", "Definition: the ordinal number of eighty in counting order", "Synonyms: 80th"]}
