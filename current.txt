@@ -1,1 +1,1 @@
-{"data": ["2023-02-16T08:01:29.746001+00:00", 9032, "Your mother is", "attired", "Pronunciation: /\u0259\u02c8ta\u026a\u0259rd/", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: appareled, dressed, garbed, garmented, habilimented, robed"]}
+{"data": ["2023-02-16T09:00:59.933833+00:00", 9033, "Your mother is", "perpendicular", "Pronunciation: /\u02ccp\u025crp\u0259n\u02c8d\u026akj\u028al\u0259r/", "Definition: at right angles to the plane of the horizon or a base line", "Synonyms: vertical"]}
