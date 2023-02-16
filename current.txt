@@ -1,1 +1,1 @@
-{"data": ["2023-02-16T07:01:20.522694+00:00", 9031, "Your mother is", "inculpable", "Pronunciation: /\u026an\u02c8k\u0259lp\u0259b\u0259l/", "Definition: free of guilt; not subject to blame", "Synonyms: blameless, irreproachable, unimpeachable"]}
+{"data": ["2023-02-16T08:01:29.746001+00:00", 9032, "Your mother is", "attired", "Pronunciation: /\u0259\u02c8ta\u026a\u0259rd/", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: appareled, dressed, garbed, garmented, habilimented, robed"]}
