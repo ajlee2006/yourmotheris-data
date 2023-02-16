@@ -1,1 +1,1 @@
-{"data": ["2023-02-16T22:01:26.973173+00:00", 9046, "Your mother is", "eightieth", "Pronunciation: /\u02c8e\u026ati\u026a\u03b8/", "Definition: the ordinal number of eighty in counting order", "Synonyms: 80th"]}
+{"data": ["2023-02-16T23:01:10.108395+00:00", 9047, "Your mother is", "bicolor", "Pronunciation: /\u02c8ba\u026a\u02cck\u0259l\u0259r/", "Definition: having two colors", "Synonyms: bichrome, bicolored, bicolour, bicoloured, dichromatic"]}
