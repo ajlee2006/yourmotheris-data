@@ -1,1 +1,1 @@
-{"data": ["2023-02-16T16:01:25.808248+00:00", 9040, "Your mother is", "benighted", "Pronunciation: /b\u026a\u02c8na\u026at\u026ad/", "Definition: overtaken by night or darkness", "Synonyms: nighted"]}
+{"data": ["2023-02-16T17:01:21.723432+00:00", 9041, "Your mother is", "mealy", "Pronunciation: /\u02c8mili/", "Definition: composed of or covered with particles resembling meal in texture or consistency", "Synonyms: coarse-grained, farinaceous, grainy, granular, granulose, gritty"]}
