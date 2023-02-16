@@ -1,1 +1,1 @@
-{"data": ["2023-02-16T20:01:42.307036+00:00", 9044, "Your mother is", "svelte", "Pronunciation: /sv\u025blt/", "Definition: being of delicate or slender build", "Synonyms: slender, slight, slim"]}
+{"data": ["2023-02-16T21:01:27.282124+00:00", 9045, "Your mother is", "square-built", "Pronunciation: /skw\u025cr-b\u026alt/", "Definition: broad and solidly built", ""]}
