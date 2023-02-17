@@ -1,1 +1,1 @@
-{"data": ["2023-02-17T01:01:36.424953+00:00", 9049, "Your mother is", "hebdomadal", "Pronunciation: /h\u025bb\u02c8d\u0251m\u0259d\u0259l/", "Definition: of or occurring every seven days", "Synonyms: hebdomadary, weekly"]}
+{"data": ["2023-02-17T02:01:32.809100+00:00", 9050, "Your mother is", "clandestine", "Pronunciation: /kl\u00e6n\u02c8d\u025bst\u026an/", "Definition: conducted with or marked by hidden aims or methods", "Synonyms: cloak-and-dagger, hole-and-corner, hugger-mugger, hush-hush, secret, surreptitious, undercover, underground"]}
