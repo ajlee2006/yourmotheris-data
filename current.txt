@@ -1,1 +1,1 @@
-{"data": ["2023-02-17T09:01:37.054141+00:00", 9057, "Your mother is", "retroflex", "Pronunciation: /\u02c8r\u025btr\u0259\u02ccfl\u025bks/", "Definition: pronounced with the tip of the tongue turned back toward the hard palate", "Synonyms: cacuminal"]}
+{"data": ["2023-02-17T10:01:30.024762+00:00", 9058, "Your mother is", "unfree", "Similar to: at bay", "Definition: hampered and not free; not able to act at will", ""]}
