@@ -1,1 +1,1 @@
-{"data": ["2023-02-17T12:01:26.709739+00:00", 9060, "Your mother is", "sheepish", "Pronunciation: /\u02c8\u0283ip\u026a\u0283/", "Definition: showing a sense of shame", "Synonyms: shamefaced"]}
+{"data": ["2023-02-17T13:01:23.276686+00:00", 9061, "Your mother is", "spinous", "Pronunciation: /\u02c8spa\u026an\u0259s/", "Definition: having spines", "Synonyms: spiny"]}
