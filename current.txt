@@ -1,1 +1,1 @@
-{"data": ["2023-02-17T00:02:03.960615+00:00", 9048, "Your mother is", "unhurt", "Pronunciation: /\u028cn\u02c8h\u025drt/", "Definition: free from danger or injury", "Synonyms: safe and sound"]}
+{"data": ["2023-02-17T01:01:36.424953+00:00", 9049, "Your mother is", "hebdomadal", "Pronunciation: /h\u025bb\u02c8d\u0251m\u0259d\u0259l/", "Definition: of or occurring every seven days", "Synonyms: hebdomadary, weekly"]}
