@@ -1,1 +1,1 @@
-{"data": ["2023-02-17T14:00:57.762251+00:00", 9062, "Your mother is", "lowbred", "Pronunciation: /\u02c8lo\u028a\u02c8br\u025bd/", "Definition: (of persons) lacking in refinement or grace", "Synonyms: bounderish, ill-bred, rude, underbred, yokelish"]}
+{"data": ["2023-02-17T15:01:06.799886+00:00", 9063, "Your mother is", "77", "Similar to: cardinal", "Definition: being seven more than seventy", "Synonyms: lxxvii, seventy-seven"]}
