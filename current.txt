@@ -1,1 +1,1 @@
-{"data": ["2023-02-17T18:01:34.843257+00:00", 9066, "Your mother is", "declamatory", "Pronunciation: /d\u026a\u02c8kl\u00e6m\u0259\u02ccto\u028ari/", "Definition: ostentatiously lofty in style", "Synonyms: bombastic, large, orotund, tumid, turgid"]}
+{"data": ["2023-02-17T19:01:20.302622+00:00", 9067, "Your mother is", "contemplative", "Pronunciation: /k\u0259n\u02c8t\u025bmpl\u0259t\u026av/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, meditative, musing, pensive, pondering, reflective, ruminative"]}
