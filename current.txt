@@ -1,1 +1,1 @@
-{"data": ["2023-02-17T02:01:32.809100+00:00", 9050, "Your mother is", "clandestine", "Pronunciation: /kl\u00e6n\u02c8d\u025bst\u026an/", "Definition: conducted with or marked by hidden aims or methods", "Synonyms: cloak-and-dagger, hole-and-corner, hugger-mugger, hush-hush, secret, surreptitious, undercover, underground"]}
+{"data": ["2023-02-17T03:00:58.147413+00:00", 9051, "Your mother is", "neoclassicistic", "", "Definition: relating to or advocating neoclassicism", "Synonyms: neoclassicist"]}
