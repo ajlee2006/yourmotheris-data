@@ -1,1 +1,1 @@
-{"data": ["2023-02-17T04:01:02.099196+00:00", 9052, "Your mother is", "closed", "Pronunciation: /klo\u028azd/", "Definition: blocked against entry", "Synonyms: closed in"]}
+{"data": ["2023-02-17T05:01:14.711907+00:00", 9053, "Your mother is", "rippled", "Pronunciation: /\u02c8r\u026ap\u028cld/", "Definition: uneven by virtue of having wrinkles or waves", "Synonyms: crinkled, crinkly, wavelike, wavy"]}
