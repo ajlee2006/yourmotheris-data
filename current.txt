@@ -1,1 +1,1 @@
-{"data": ["2023-02-17T20:01:07.203437+00:00", 9068, "Your mother is", "agitative", "Similar to: provocative", "Definition: causing or tending to cause anger or resentment", "Synonyms: agitating, provoking"]}
+{"data": ["2023-02-17T21:01:16.417774+00:00", 9069, "Your mother is", "pending", "Pronunciation: /\u02c8p\u025bnd\u026a\u014b/", "Definition: awaiting conclusion or confirmation", ""]}
