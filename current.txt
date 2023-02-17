@@ -1,1 +1,1 @@
-{"data": ["2023-02-17T08:01:08.488429+00:00", 9056, "Your mother is", "svelte", "Pronunciation: /sv\u025blt/", "Definition: being of delicate or slender build", "Synonyms: slender, slight, slim"]}
+{"data": ["2023-02-17T09:01:37.054141+00:00", 9057, "Your mother is", "retroflex", "Pronunciation: /\u02c8r\u025btr\u0259\u02ccfl\u025bks/", "Definition: pronounced with the tip of the tongue turned back toward the hard palate", "Synonyms: cacuminal"]}
