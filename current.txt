@@ -1,1 +1,1 @@
-{"data": ["2023-02-17T10:01:30.024762+00:00", 9058, "Your mother is", "unfree", "Similar to: at bay", "Definition: hampered and not free; not able to act at will", ""]}
+{"data": ["2023-02-17T11:01:28.397482+00:00", 9059, "Your mother is", "clinched", "Pronunciation: /kl\u026ant\u0283t/", "Definition: closed or squeezed together tightly", "Synonyms: clenched"]}
