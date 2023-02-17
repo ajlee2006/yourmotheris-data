@@ -1,1 +1,1 @@
-{"data": ["2023-02-17T19:01:20.302622+00:00", 9067, "Your mother is", "contemplative", "Pronunciation: /k\u0259n\u02c8t\u025bmpl\u0259t\u026av/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, meditative, musing, pensive, pondering, reflective, ruminative"]}
+{"data": ["2023-02-17T20:01:07.203437+00:00", 9068, "Your mother is", "agitative", "Similar to: provocative", "Definition: causing or tending to cause anger or resentment", "Synonyms: agitating, provoking"]}
