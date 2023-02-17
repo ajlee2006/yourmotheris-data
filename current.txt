@@ -1,1 +1,1 @@
-{"data": ["2023-02-17T11:01:28.397482+00:00", 9059, "Your mother is", "clinched", "Pronunciation: /kl\u026ant\u0283t/", "Definition: closed or squeezed together tightly", "Synonyms: clenched"]}
+{"data": ["2023-02-17T12:01:26.709739+00:00", 9060, "Your mother is", "sheepish", "Pronunciation: /\u02c8\u0283ip\u026a\u0283/", "Definition: showing a sense of shame", "Synonyms: shamefaced"]}
