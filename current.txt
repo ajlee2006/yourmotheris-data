@@ -1,1 +1,1 @@
-{"data": ["2023-02-18T18:01:10.470230+00:00", 9090, "Your mother is", "manoeuvrable", "Similar to: mobile", "Definition: capable of maneuvering or changing position", "Synonyms: maneuverable"]}
+{"data": ["2023-02-18T19:01:17.040197+00:00", 9091, "Your mother is", "too bad", "Pronunciation: /tu-b\u00e6d/", "Definition: deserving regret", "Synonyms: regrettable"]}
