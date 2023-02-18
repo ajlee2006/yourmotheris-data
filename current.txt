@@ -1,1 +1,1 @@
-{"data": ["2023-02-18T17:01:40.514440+00:00", 9089, "Your mother is", "principal", "Pronunciation: /\u02c8pr\u026ans\u0259p\u0259l/", "Definition: most important element", "Synonyms: chief, main, master, primary"]}
+{"data": ["2023-02-18T18:01:10.470230+00:00", 9090, "Your mother is", "manoeuvrable", "Similar to: mobile", "Definition: capable of maneuvering or changing position", "Synonyms: maneuverable"]}
