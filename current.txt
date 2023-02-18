@@ -1,1 +1,1 @@
-{"data": ["2023-02-18T16:01:00.870225+00:00", 9088, "Your mother is", "open-ended", "Similar to: indeterminate", "Definition: allowing for a spontaneous response", ""]}
+{"data": ["2023-02-18T17:01:40.514440+00:00", 9089, "Your mother is", "principal", "Pronunciation: /\u02c8pr\u026ans\u0259p\u0259l/", "Definition: most important element", "Synonyms: chief, main, master, primary"]}
