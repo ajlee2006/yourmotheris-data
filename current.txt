@@ -1,1 +1,1 @@
-{"data": ["2023-02-18T02:01:29.590913+00:00", 9074, "Your mother is", "slow-moving", "Pronunciation: /slo\u028a-\u02c8muv\u026a\u014b/", "Definition: moving slowly", ""]}
+{"data": ["2023-02-18T03:01:27.147215+00:00", 9075, "Your mother is", "bracing", "Pronunciation: /\u02c8bre\u026as\u026a\u014b/", "Definition: imparting vitality and energy", "Synonyms: brisk, fresh, refreshful, refreshing, tonic"]}
