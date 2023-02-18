@@ -1,1 +1,1 @@
-{"data": ["2023-02-18T22:01:22.075304+00:00", 9094, "Your mother is", "marred", "Pronunciation: /m\u0251rd/", "Definition: blemished by injury or rough wear", "Synonyms: scarred"]}
+{"data": ["2023-02-18T23:01:25.693468+00:00", 9095, "Your mother is", "migrant", "Pronunciation: /\u02c8ma\u026agr\u0259nt/", "Definition: habitually moving from place to place especially in search of seasonal work", "Synonyms: migratory"]}
