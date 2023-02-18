@@ -1,1 +1,1 @@
-{"data": ["2023-02-18T03:01:27.147215+00:00", 9075, "Your mother is", "bracing", "Pronunciation: /\u02c8bre\u026as\u026a\u014b/", "Definition: imparting vitality and energy", "Synonyms: brisk, fresh, refreshful, refreshing, tonic"]}
+{"data": ["2023-02-18T04:01:37.910510+00:00", 9076, "Your mother is", "out of place", "Similar to: malapropos", "Definition: of an inappropriate or misapplied nature", "Synonyms: inapposite"]}
