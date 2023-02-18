@@ -1,1 +1,1 @@
-{"data": ["2023-02-18T08:00:57.721547+00:00", 9080, "Your mother is", "batwing", "Pronunciation: /\u02c8b\u00e6t\u02ccw\u026a\u014b/", "Definition: formed or shaped like a bat's wing", ""]}
+{"data": ["2023-02-18T09:01:21.182919+00:00", 9081, "Your mother is", "strategic", "Pronunciation: /str\u0259\u02c8tid\u0292\u026ak/", "Definition: relating to or concerned with strategy", "Synonyms: strategical"]}
