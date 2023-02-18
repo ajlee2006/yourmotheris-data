@@ -1,1 +1,1 @@
-{"data": ["2023-02-18T15:01:13.942314+00:00", 9087, "Your mother is", "utterable", "Similar to: expressible", "Definition: capable of being uttered in words or sentences", "Synonyms: speakable"]}
+{"data": ["2023-02-18T16:01:00.870225+00:00", 9088, "Your mother is", "open-ended", "Similar to: indeterminate", "Definition: allowing for a spontaneous response", ""]}
