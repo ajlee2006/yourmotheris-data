@@ -1,1 +1,1 @@
-{"data": ["2023-02-18T00:02:18.620580+00:00", 9072, "Your mother is", "dominated", "Pronunciation: /\u02c8d\u0251m\u028c\u02ccne\u026at\u028cd/", "Definition: harassed by persistent nagging", "Synonyms: henpecked"]}
+{"data": ["2023-02-18T01:01:22.078262+00:00", 9073, "Your mother is", "labor-intensive", "Similar to: effortful", "Definition: requiring a large expenditure of labor but not much capital", "Synonyms: labour-intensive"]}
