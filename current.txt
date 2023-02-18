@@ -1,1 +1,1 @@
-{"data": ["2023-02-18T20:01:11.828034+00:00", 9092, "Your mother is", "unlikely", "Pronunciation: /\u0259n\u02c8la\u026akli/", "Definition: not likely to be true or to occur or to have occurred", "Synonyms: improbable"]}
+{"data": ["2023-02-18T21:01:14.455564+00:00", 9093, "Your mother is", "calefactive", "Similar to: hot", "Definition: serving to heat", "Synonyms: calefactory"]}
