@@ -1,1 +1,1 @@
-{"data": ["2023-02-18T01:01:22.078262+00:00", 9073, "Your mother is", "labor-intensive", "Similar to: effortful", "Definition: requiring a large expenditure of labor but not much capital", "Synonyms: labour-intensive"]}
+{"data": ["2023-02-18T02:01:29.590913+00:00", 9074, "Your mother is", "slow-moving", "Pronunciation: /slo\u028a-\u02c8muv\u026a\u014b/", "Definition: moving slowly", ""]}
