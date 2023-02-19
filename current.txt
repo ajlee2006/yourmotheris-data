@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T00:02:28.604249+00:00", 9096, "Your mother is", "deprived", "Pronunciation: /d\u026a\u02c8pra\u026avd/", "Definition: marked by deprivation especially of the necessities of life or healthful environmental influences", "Synonyms: disadvantaged"]}
+{"data": ["2023-02-19T01:01:28.812361+00:00", 9097, "Your mother is", "autoecious", "Pronunciation: /\u0254\u02c8ti\u0283\u0259s/", "Definition: of parasites especially rust fungi; completing the entire life cycle on a single host", "Synonyms: homoecious"]}
