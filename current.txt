@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T05:01:16.243983+00:00", 9101, "Your mother is", "untainted", "Pronunciation: /\u0259n\u02c8te\u026ant\u026ad/", "Definition: (of reputation) free from blemishes", "Synonyms: stainless, unstained, unsullied, untarnished"]}
+{"data": ["2023-02-19T06:01:22.559247+00:00", 9102, "Your mother is", "exploded", "Pronunciation: /\u026ak\u02c8splo\u028ad\u028cd/", "Definition: showing the parts of something separated but in positions that show their correct relation to one another", ""]}
