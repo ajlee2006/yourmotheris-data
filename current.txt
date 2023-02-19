@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T20:01:30.314231+00:00", 9116, "Your mother is", "assuring", "Pronunciation: /\u028c\u02c8\u0283\u028ar\u026a\u014b/", "Definition: giving confidence", ""]}
+{"data": ["2023-02-19T21:01:09.370314+00:00", 9117, "Your mother is", "merited", "Pronunciation: /\u02c8m\u025br\u026at\u026ad/", "Definition: properly deserved", "Synonyms: deserved"]}
