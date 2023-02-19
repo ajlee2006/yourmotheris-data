@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T17:01:35.978285+00:00", 9113, "Your mother is", "intoned", "Pronunciation: /\u026an\u02c8to\u028and/", "Definition: uttered in a monotonous cadence or rhythm as in chanting", "Synonyms: chantlike, singsong"]}
+{"data": ["2023-02-19T18:01:33.696827+00:00", 9114, "Your mother is", "heterodyne", "Pronunciation: /\u02c8h\u025bt\u0259r\u0259\u02ccda\u026an/", "Definition: of or relating to the beat produced by heterodyning two oscillations", ""]}
