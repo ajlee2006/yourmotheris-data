@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T21:01:09.370314+00:00", 9117, "Your mother is", "merited", "Pronunciation: /\u02c8m\u025br\u026at\u026ad/", "Definition: properly deserved", "Synonyms: deserved"]}
+{"data": ["2023-02-19T22:01:40.141602+00:00", 9118, "Your mother is", "appurtenant", "Pronunciation: /\u0259\u02c8p\u025crt\u0259n\u0259nt/", "Definition: furnishing added support", "Synonyms: accessory, adjunct, adjuvant, ancillary, auxiliary"]}
