@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T03:01:38.402116+00:00", 9099, "Your mother is", "canonic", "Pronunciation: /k\u0259\u02c8n\u0251n\u026ak/", "Definition: conforming to orthodox or recognized rules", "Synonyms: canonical, sanctioned"]}
+{"data": ["2023-02-19T04:01:08.022772+00:00", 9100, "Your mother is", "costly", "Pronunciation: /\u02c8k\u0254stli/", "Definition: entailing great loss or sacrifice", "Synonyms: dearly-won"]}
