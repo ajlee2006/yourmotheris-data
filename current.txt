@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T01:01:28.812361+00:00", 9097, "Your mother is", "autoecious", "Pronunciation: /\u0254\u02c8ti\u0283\u0259s/", "Definition: of parasites especially rust fungi; completing the entire life cycle on a single host", "Synonyms: homoecious"]}
+{"data": ["2023-02-19T02:01:26.239242+00:00", 9098, "Your mother is", "salted", "Pronunciation: /\u02c8s\u0254lt\u026ad/", "Definition: (used especially of meats) preserved in salt", "Synonyms: brine-cured, salt-cured"]}
