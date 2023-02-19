@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T11:00:59.432246+00:00", 9107, "Your mother is", "blue-ribbon", "Pronunciation: /\u02c8blu\u02c8r\u026ab\u0259n/", "Definition: selected or chosen for special qualifications", "Synonyms: select"]}
+{"data": ["2023-02-19T12:01:09.845535+00:00", 9108, "Your mother is", "ceremonial", "Pronunciation: /\u02ccs\u025br\u0259\u02c8mo\u028ani\u0259l/", "Definition: marked by pomp or ceremony or formality", ""]}
