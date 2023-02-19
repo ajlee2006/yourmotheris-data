@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T12:01:09.845535+00:00", 9108, "Your mother is", "ceremonial", "Pronunciation: /\u02ccs\u025br\u0259\u02c8mo\u028ani\u0259l/", "Definition: marked by pomp or ceremony or formality", ""]}
+{"data": ["2023-02-19T13:01:39.582659+00:00", 9109, "Your mother is", "entangled", "Pronunciation: /\u025bn\u02c8t\u00e6\u014b\u0261\u028cld/", "Definition: deeply involved especially in something complicated", "Synonyms: embroiled"]}
