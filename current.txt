@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T22:01:40.141602+00:00", 9118, "Your mother is", "appurtenant", "Pronunciation: /\u0259\u02c8p\u025crt\u0259n\u0259nt/", "Definition: furnishing added support", "Synonyms: accessory, adjunct, adjuvant, ancillary, auxiliary"]}
+{"data": ["2023-02-19T23:01:18.003414+00:00", 9119, "Your mother is", "pentasyllabic", "Pronunciation: /\u02ccp\u025bnt\u0259s\u026a\u02c8l\u00e6b\u026ak/", "Definition: having or characterized by or consisting of five syllables", ""]}
