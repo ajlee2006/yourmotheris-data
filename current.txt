@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T07:01:23.584467+00:00", 9103, "Your mother is", "saintlike", "Similar to: good", "Definition: marked by utter benignity; resembling or befitting an angel or saint", "Synonyms: angelic, angelical, beatific, sainted, saintly"]}
+{"data": ["2023-02-19T08:01:26.727965+00:00", 9104, "Your mother is", "pink-tinged", "Similar to: chromatic", "Definition: of a color tinged with pink", ""]}
