@@ -1,1 +1,1 @@
-{"data": ["2023-02-18T23:01:25.693468+00:00", 9095, "Your mother is", "migrant", "Pronunciation: /\u02c8ma\u026agr\u0259nt/", "Definition: habitually moving from place to place especially in search of seasonal work", "Synonyms: migratory"]}
+{"data": ["2023-02-19T00:02:28.604249+00:00", 9096, "Your mother is", "deprived", "Pronunciation: /d\u026a\u02c8pra\u026avd/", "Definition: marked by deprivation especially of the necessities of life or healthful environmental influences", "Synonyms: disadvantaged"]}
