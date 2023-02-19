@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T04:01:08.022772+00:00", 9100, "Your mother is", "costly", "Pronunciation: /\u02c8k\u0254stli/", "Definition: entailing great loss or sacrifice", "Synonyms: dearly-won"]}
+{"data": ["2023-02-19T05:01:16.243983+00:00", 9101, "Your mother is", "untainted", "Pronunciation: /\u0259n\u02c8te\u026ant\u026ad/", "Definition: (of reputation) free from blemishes", "Synonyms: stainless, unstained, unsullied, untarnished"]}
