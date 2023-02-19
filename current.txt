@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T06:01:22.559247+00:00", 9102, "Your mother is", "exploded", "Pronunciation: /\u026ak\u02c8splo\u028ad\u028cd/", "Definition: showing the parts of something separated but in positions that show their correct relation to one another", ""]}
+{"data": ["2023-02-19T07:01:23.584467+00:00", 9103, "Your mother is", "saintlike", "Similar to: good", "Definition: marked by utter benignity; resembling or befitting an angel or saint", "Synonyms: angelic, angelical, beatific, sainted, saintly"]}
