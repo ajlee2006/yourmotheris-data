@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T08:01:26.727965+00:00", 9104, "Your mother is", "pink-tinged", "Similar to: chromatic", "Definition: of a color tinged with pink", ""]}
+{"data": ["2023-02-19T09:00:55.659636+00:00", 9105, "Your mother is", "bias", "Pronunciation: /\u02c8ba\u026a\u0259s/", "Definition: slanting diagonally across the grain of a fabric", ""]}
