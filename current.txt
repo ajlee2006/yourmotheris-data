@@ -1,1 +1,1 @@
-{"data": ["2023-02-20T21:01:37.742659+00:00", 9141, "Your mother is", "misfortunate", "Similar to: unfortunate", "Definition: deserving or inciting pity", "Synonyms: hapless, miserable, pathetic, piteous, pitiable, pitiful, poor, wretched"]}
+{"data": ["2023-02-20T22:01:09.719788+00:00", 9142, "Your mother is", "dying", "Pronunciation: /\u02c8da\u026a\u026a\u014b/", "Definition: eagerly desirous", "Synonyms: anxious"]}
