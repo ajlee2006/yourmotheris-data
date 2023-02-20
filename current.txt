@@ -1,1 +1,1 @@
-{"data": ["2023-02-20T01:01:35.246948+00:00", 9121, "Your mother is", "washable", "Pronunciation: /\u02c8w\u0251\u0283\u0259b\u0259l/", "Definition: capable of being washed without injury", ""]}
+{"data": ["2023-02-20T02:00:58.235868+00:00", 9122, "Your mother is", "iodinated", "", "Definition: treated with iodine", "Synonyms: iodised, iodized"]}
