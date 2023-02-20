@@ -1,1 +1,1 @@
-{"data": ["2023-02-20T04:01:22.623272+00:00", 9124, "Your mother is", "foamy", "Pronunciation: /\u02c8fo\u028ami/", "Definition: emitting or filled with bubbles as from carbonation or fermentation", "Synonyms: bubbling, bubbly, effervescing, foaming, frothy, spumy"]}
+{"data": ["2023-02-20T05:01:08.876369+00:00", 9125, "Your mother is", "uninitiate", "Similar to: inexperienced", "Definition: not initiated; deficient in relevant experience", "Synonyms: naive, uninitiated"]}
