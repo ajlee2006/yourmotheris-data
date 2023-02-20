@@ -1,1 +1,1 @@
-{"data": ["2023-02-20T22:01:09.719788+00:00", 9142, "Your mother is", "dying", "Pronunciation: /\u02c8da\u026a\u026a\u014b/", "Definition: eagerly desirous", "Synonyms: anxious"]}
+{"data": ["2023-02-20T23:01:35.486227+00:00", 9143, "Your mother is", "irrelevant", "Pronunciation: /\u026a\u02c8r\u025bl\u0259v\u0259nt/", "Definition: having no bearing on or connection with the subject at issue", ""]}
