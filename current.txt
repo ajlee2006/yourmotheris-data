@@ -1,1 +1,1 @@
-{"data": ["2023-02-20T09:01:11.479367+00:00", 9129, "Your mother is", "rwandan", "Pronunciation: /r\u028cw\u02c8\u0251nd\u028cn/", "Definition: of or pertaining to Rwanda", "Synonyms: ruandan"]}
+{"data": ["2023-02-20T10:01:26.245296+00:00", 9130, "Your mother is", "purpose-made", "Similar to: purposeful", "Definition: designed and constructed to serve a particular purpose", "Synonyms: purpose-built"]}
