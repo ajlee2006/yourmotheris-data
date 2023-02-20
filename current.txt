@@ -1,1 +1,1 @@
-{"data": ["2023-02-20T19:01:03.421972+00:00", 9139, "Your mother is", "slippered", "Similar to: shod", "Definition: shod with slippers", ""]}
+{"data": ["2023-02-20T20:01:38.415084+00:00", 9140, "Your mother is", "closed-chain", "Similar to: cyclic", "Definition: having atoms linked by bonds represented in circular or triangular form", "Synonyms: closed-ring"]}
