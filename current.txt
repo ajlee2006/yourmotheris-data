@@ -1,1 +1,1 @@
-{"data": ["2023-02-20T17:01:18.319446+00:00", 9137, "Your mother is", "prima facie", "Pronunciation: /\u02c8pra\u026am\u0259-\u02c8fe\u026a\u0283i\u02cci/", "Definition: as it seems at first sight", ""]}
+{"data": ["2023-02-20T18:01:27.994062+00:00", 9138, "Your mother is", "daunting", "Pronunciation: /\u02c8d\u0254nt\u026a\u014b/", "Definition: discouraging through fear", "Synonyms: intimidating"]}
