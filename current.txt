@@ -1,1 +1,1 @@
-{"data": ["2023-02-19T23:01:18.003414+00:00", 9119, "Your mother is", "pentasyllabic", "Pronunciation: /\u02ccp\u025bnt\u0259s\u026a\u02c8l\u00e6b\u026ak/", "Definition: having or characterized by or consisting of five syllables", ""]}
+{"data": ["2023-02-20T00:02:29.318815+00:00", 9120, "Your mother is", "club-shaped", "Pronunciation: /kl\u0259b-\u0283e\u026apt/", "Definition: shaped in the form of a club that is larger at one end", ""]}
