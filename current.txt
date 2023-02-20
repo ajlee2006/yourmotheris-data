@@ -1,1 +1,1 @@
-{"data": ["2023-02-20T03:01:07.253340+00:00", 9123, "Your mother is", "plumbous", "Pronunciation: /\u02c8pl\u0259mb\u0259s/", "Definition: relating to or consisting of lead", "Synonyms: plumbic"]}
+{"data": ["2023-02-20T04:01:22.623272+00:00", 9124, "Your mother is", "foamy", "Pronunciation: /\u02c8fo\u028ami/", "Definition: emitting or filled with bubbles as from carbonation or fermentation", "Synonyms: bubbling, bubbly, effervescing, foaming, frothy, spumy"]}
