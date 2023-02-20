@@ -1,1 +1,1 @@
-{"data": ["2023-02-20T00:02:29.318815+00:00", 9120, "Your mother is", "club-shaped", "Pronunciation: /kl\u0259b-\u0283e\u026apt/", "Definition: shaped in the form of a club that is larger at one end", ""]}
+{"data": ["2023-02-20T01:01:35.246948+00:00", 9121, "Your mother is", "washable", "Pronunciation: /\u02c8w\u0251\u0283\u0259b\u0259l/", "Definition: capable of being washed without injury", ""]}
