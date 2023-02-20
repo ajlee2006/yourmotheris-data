@@ -1,1 +1,1 @@
-{"data": ["2023-02-20T15:01:30.853317+00:00", 9135, "Your mother is", "academic", "Pronunciation: /\u02cc\u00e6k\u0259\u02c8d\u025bm\u026ak/", "Definition: marked by a narrow focus on or display of learning especially its trivial aspects", "Synonyms: donnish, pedantic"]}
+{"data": ["2023-02-20T16:01:08.573520+00:00", 9136, "Your mother is", "agonised", "Similar to: painful", "Definition: expressing pain or agony", "Synonyms: agonized"]}
