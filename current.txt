@@ -1,1 +1,1 @@
-{"data": ["2023-02-20T08:00:54.238531+00:00", 9128, "Your mother is", "silvery-grey", "Similar to: achromatic", "Definition: of grey resembling silver", "Synonyms: silver-gray, silver-grey, silvery-gray"]}
+{"data": ["2023-02-20T09:01:11.479367+00:00", 9129, "Your mother is", "rwandan", "Pronunciation: /r\u028cw\u02c8\u0251nd\u028cn/", "Definition: of or pertaining to Rwanda", "Synonyms: ruandan"]}
