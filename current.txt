@@ -1,1 +1,1 @@
-{"data": ["2023-02-20T18:01:27.994062+00:00", 9138, "Your mother is", "daunting", "Pronunciation: /\u02c8d\u0254nt\u026a\u014b/", "Definition: discouraging through fear", "Synonyms: intimidating"]}
+{"data": ["2023-02-20T19:01:03.421972+00:00", 9139, "Your mother is", "slippered", "Similar to: shod", "Definition: shod with slippers", ""]}
