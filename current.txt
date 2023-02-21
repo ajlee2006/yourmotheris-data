@@ -1,1 +1,1 @@
-{"data": ["2023-02-21T14:01:40.219366+00:00", 9158, "Your mother is", "antlered", "Pronunciation: /\u02c8\u00e6ntl\u0259rd/", "Definition: having antlers", ""]}
+{"data": ["2023-02-21T15:01:11.554503+00:00", 9159, "Your mother is", "dislocated", "Pronunciation: /\u02c8d\u026aslo\u028ake\u026at\u026ad/", "Definition: separated at the joint", "Synonyms: disjointed, separated"]}
