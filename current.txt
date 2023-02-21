@@ -1,1 +1,1 @@
-{"data": ["2023-02-21T03:01:21.806304+00:00", 9147, "Your mother is", "lentic", "Pronunciation: /\u02c8l\u025bnt\u026ak/", "Definition: of or relating to or living in still waters (as lakes or ponds)", ""]}
+{"data": ["2023-02-21T04:01:32.679513+00:00", 9148, "Your mother is", "three-d", "Similar to: multidimensional", "Definition: involving or relating to three dimensions or aspects; giving the illusion of depth", "Synonyms: 3-dimensional, third-dimensional, three-dimensional"]}
