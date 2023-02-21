@@ -1,1 +1,1 @@
-{"data": ["2023-02-21T11:01:15.728617+00:00", 9155, "Your mother is", "unauthentic", "Pronunciation: /\u02cc\u028cn\u0254\u02c8\u03b8\u025bnt\u026ak/", "Definition: false or fake; not what it appears to be", "Synonyms: inauthentic, spurious"]}
+{"data": ["2023-02-21T12:01:09.198655+00:00", 9156, "Your mother is", "heliacal", "Pronunciation: /h\u026a\u02c8la\u026a\u0259k\u0259l/", "Definition: pertaining to or near the sun; especially the first rising of a star after and last setting before its invisibility owing to its conjunction with the sun", "Synonyms: heliac"]}
