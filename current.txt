@@ -1,1 +1,1 @@
-{"data": ["2023-02-21T21:01:14.660900+00:00", 9165, "Your mother is", "gathered", "Pronunciation: /\u02c8\u0261\u00e6\u00f0\u025drd/", "Definition: brought together in one place", "Synonyms: collected"]}
+{"data": ["2023-02-21T22:01:09.358142+00:00", 9166, "Your mother is", "abstruse", "Pronunciation: /\u00e6b\u02c8strus/", "Definition: difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge", "Synonyms: deep, recondite"]}
