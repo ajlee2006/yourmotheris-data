@@ -1,1 +1,1 @@
-{"data": ["2023-02-21T06:01:38.254371+00:00", 9150, "Your mother is", "tufted", "Pronunciation: /\u02c8t\u0259ft\u026ad/", "Definition: (of a bird or animal) having a usually ornamental tuft or process on the head; often used in combination", "Synonyms: crested, topknotted"]}
+{"data": ["2023-02-21T07:01:27.400439+00:00", 9151, "Your mother is", "leechlike", "Similar to: dependent", "Definition: of plants or persons; having the nature or habits of a parasite or leech; living off another", "Synonyms: bloodsucking, parasitic, parasitical"]}
