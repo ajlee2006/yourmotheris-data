@@ -1,1 +1,1 @@
-{"data": ["2023-02-21T09:01:12.109827+00:00", 9153, "Your mother is", "dread", "Pronunciation: /dr\u025bd/", "Definition: causing fear or dread or terror", "Synonyms: awful, dire, direful, dreaded, dreadful, fearful, fearsome, frightening, horrendous, horrific, terrible"]}
+{"data": ["2023-02-21T10:01:32.084463+00:00", 9154, "Your mother is", "represented", "Pronunciation: /\u02ccr\u025bpr\u028c\u02c8z\u025bnt\u028cd/", "Definition: represented accurately or precisely", "Synonyms: delineate, delineated"]}
