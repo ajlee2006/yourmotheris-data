@@ -1,1 +1,1 @@
-{"data": ["2023-02-21T16:01:29.774802+00:00", 9160, "Your mother is", "up-to-date", "Pronunciation: /\u02c8\u0259p-t\u0259\u02c8de\u026at/", "Definition: in accord with the most fashionable ideas or style", "Synonyms: cutting-edge, up to date, with-it"]}
+{"data": ["2023-02-21T17:01:26.805320+00:00", 9161, "Your mother is", "changeful", "Pronunciation: /\u02c8\u02a7e\u026and\u0292f\u0259l/", "Definition: such that alteration is possible; having a marked tendency to change", "Synonyms: changeable"]}
