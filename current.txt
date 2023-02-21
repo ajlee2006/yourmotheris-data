@@ -1,1 +1,1 @@
-{"data": ["2023-02-21T02:01:02.653275+00:00", 9146, "Your mother is", "premarital", "Pronunciation: /pri\u02c8m\u00e6r\u026at\u0259l/", "Definition: relating to events before a marriage", "Synonyms: antenuptial, prenuptial"]}
+{"data": ["2023-02-21T03:01:21.806304+00:00", 9147, "Your mother is", "lentic", "Pronunciation: /\u02c8l\u025bnt\u026ak/", "Definition: of or relating to or living in still waters (as lakes or ponds)", ""]}
