@@ -1,1 +1,1 @@
-{"data": ["2023-02-21T22:01:09.358142+00:00", 9166, "Your mother is", "abstruse", "Pronunciation: /\u00e6b\u02c8strus/", "Definition: difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge", "Synonyms: deep, recondite"]}
+{"data": ["2023-02-21T23:01:05.495421+00:00", 9167, "Your mother is", "grown", "Pronunciation: /gro\u028an/", "Definition: (of animals) fully developed", "Synonyms: adult, big, full-grown, fully grown, grownup"]}
