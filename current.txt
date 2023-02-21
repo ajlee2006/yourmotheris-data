@@ -1,1 +1,1 @@
-{"data": ["2023-02-20T23:01:35.486227+00:00", 9143, "Your mother is", "irrelevant", "Pronunciation: /\u026a\u02c8r\u025bl\u0259v\u0259nt/", "Definition: having no bearing on or connection with the subject at issue", ""]}
+{"data": ["2023-02-21T00:02:10.111818+00:00", 9144, "Your mother is", "javan", "Pronunciation: /d\u0292\u028c\u02c8v\u0251n/", "Definition: of or relating to or characteristic of Java or its inhabitants or its language", "Synonyms: javanese"]}
