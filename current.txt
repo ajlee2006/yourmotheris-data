@@ -1,1 +1,1 @@
-{"data": ["2023-02-21T05:01:24.705495+00:00", 9149, "Your mother is", "two-needled", "Similar to: simple", "Definition: (of conifers) having two needles", ""]}
+{"data": ["2023-02-21T06:01:38.254371+00:00", 9150, "Your mother is", "tufted", "Pronunciation: /\u02c8t\u0259ft\u026ad/", "Definition: (of a bird or animal) having a usually ornamental tuft or process on the head; often used in combination", "Synonyms: crested, topknotted"]}
