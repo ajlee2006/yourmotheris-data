@@ -1,1 +1,1 @@
-{"data": ["2023-02-21T19:01:10.363058+00:00", 9163, "Your mother is", "accepting", "Pronunciation: /\u00e6k\u02c8s\u025bpt\u026a\u014b/", "Definition: tolerating without protest", ""]}
+{"data": ["2023-02-21T20:01:01.247026+00:00", 9164, "Your mother is", "attention-getting", "Pronunciation: /\u0259\u02c8t\u025bn\u0283\u0259n-\u02cc\u0261\u025bt\u026a\u014b/", "Definition: seizing the attention", "Synonyms: eye-catching"]}
