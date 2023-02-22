@@ -1,1 +1,1 @@
-{"data": ["2023-02-22T19:01:31.365143+00:00", 9187, "Your mother is", "offish", "Pronunciation: /\u02c8\u0254f\u026a\u0283/", "Definition: lacking cordiality; unfriendly", "Synonyms: standoffish"]}
+{"data": ["2023-02-22T20:01:16.265295+00:00", 9188, "Your mother is", "nonmetallic", "Pronunciation: /\u02ccn\u0251nm\u0259\u02c8t\u00e6l\u026ak/", "Definition: not containing or resembling or characteristic of a metal", "Synonyms: nonmetal"]}
