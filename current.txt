@@ -1,1 +1,1 @@
-{"data": ["2023-02-22T18:01:15.063229+00:00", 9186, "Your mother is", "understanding", "Pronunciation: /\u02cc\u0259nd\u0259r\u02c8st\u00e6nd\u026a\u014b/", "Definition: characterized by understanding based on comprehension and discernment and empathy", ""]}
+{"data": ["2023-02-22T19:01:31.365143+00:00", 9187, "Your mother is", "offish", "Pronunciation: /\u02c8\u0254f\u026a\u0283/", "Definition: lacking cordiality; unfriendly", "Synonyms: standoffish"]}
