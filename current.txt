@@ -1,1 +1,1 @@
-{"data": ["2023-02-22T00:02:00.018407+00:00", 9168, "Your mother is", "avestan", "Pronunciation: /\u0259\u02c8v\u025bst\u0259/", "Definition: of or pertaining to the Avesta (sacred text of Zoroastrianism)", ""]}
+{"data": ["2023-02-22T01:01:39.330701+00:00", 9169, "Your mother is", "human-sized", "Similar to: sized", "Definition: having the approximate size of a human being", ""]}
