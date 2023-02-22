@@ -1,1 +1,1 @@
-{"data": ["2023-02-22T21:01:07.952752+00:00", 9189, "Your mother is", "lovesome", "Pronunciation: /\u02c8l\u0259vs\u0259m/", "Definition: having or displaying warmth or affection", "Synonyms: affectionate, fond, tender"]}
+{"data": ["2023-02-22T22:01:13.879000+00:00", 9190, "Your mother is", "milkless", "Similar to: dry", "Definition: having no milk", ""]}
