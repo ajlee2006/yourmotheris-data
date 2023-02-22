@@ -1,1 +1,1 @@
-{"data": ["2023-02-22T08:01:23.436389+00:00", 9176, "Your mother is", "gingery", "Pronunciation: /\u02c8d\u0292\u026and\u0292\u0259ri/", "Definition: (used especially of hair or fur) having a bright orange-brown color", "Synonyms: ginger"]}
+{"data": ["2023-02-22T09:01:06.240532+00:00", 9177, "Your mother is", "self-sown", "Pronunciation: /\u02c8s\u025blf\u02c8so\u028an/", "Definition: growing from seed dispersed by natural agency such as wind or birds", "Synonyms: self-seeded, self-sowed"]}
