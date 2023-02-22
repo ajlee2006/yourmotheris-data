@@ -1,1 +1,1 @@
-{"data": ["2023-02-22T03:01:30.662089+00:00", 9171, "Your mother is", "separate", "Pronunciation: /s\u025bp\u025cr\u0259t/", "Definition: have the connection undone; having become separate", "Synonyms: disjoined"]}
+{"data": ["2023-02-22T04:01:02.004105+00:00", 9172, "Your mother is", "stock", "Pronunciation: /st\u0251k/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, threadbare, timeworn, tired, trite, well-worn"]}
