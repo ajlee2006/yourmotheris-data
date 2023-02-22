@@ -1,1 +1,1 @@
-{"data": ["2023-02-22T02:01:00.075666+00:00", 9170, "Your mother is", "disconnected", "Pronunciation: /\u02ccd\u026ask\u0259\u02c8n\u025bkt\u026ad/", "Definition: having been divided; having the unity destroyed", "Synonyms: disunited, fragmented, split"]}
+{"data": ["2023-02-22T03:01:30.662089+00:00", 9171, "Your mother is", "separate", "Pronunciation: /s\u025bp\u025cr\u0259t/", "Definition: have the connection undone; having become separate", "Synonyms: disjoined"]}
