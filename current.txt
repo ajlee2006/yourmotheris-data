@@ -1,1 +1,1 @@
-{"data": ["2023-02-21T23:01:05.495421+00:00", 9167, "Your mother is", "grown", "Pronunciation: /gro\u028an/", "Definition: (of animals) fully developed", "Synonyms: adult, big, full-grown, fully grown, grownup"]}
+{"data": ["2023-02-22T00:02:00.018407+00:00", 9168, "Your mother is", "avestan", "Pronunciation: /\u0259\u02c8v\u025bst\u0259/", "Definition: of or pertaining to the Avesta (sacred text of Zoroastrianism)", ""]}
