@@ -1,1 +1,1 @@
-{"data": ["2023-02-22T01:01:39.330701+00:00", 9169, "Your mother is", "human-sized", "Similar to: sized", "Definition: having the approximate size of a human being", ""]}
+{"data": ["2023-02-22T02:01:00.075666+00:00", 9170, "Your mother is", "disconnected", "Pronunciation: /\u02ccd\u026ask\u0259\u02c8n\u025bkt\u026ad/", "Definition: having been divided; having the unity destroyed", "Synonyms: disunited, fragmented, split"]}
