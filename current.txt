@@ -1,1 +1,1 @@
-{"data": ["2023-02-22T04:01:02.004105+00:00", 9172, "Your mother is", "stock", "Pronunciation: /st\u0251k/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, threadbare, timeworn, tired, trite, well-worn"]}
+{"data": ["2023-02-22T05:01:15.439174+00:00", 9173, "Your mother is", "sewed", "Pronunciation: /so\u028ad/", "Definition: fastened with stitches", "Synonyms: sewn, stitched"]}
