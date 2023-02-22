@@ -1,1 +1,1 @@
-{"data": ["2023-02-22T11:01:29.066211+00:00", 9179, "Your mother is", "passing", "Pronunciation: /\u02c8p\u00e6s\u026a\u014b/", "Definition: lasting a very short time", "Synonyms: ephemeral, fugacious, short-lived, transient, transitory"]}
+{"data": ["2023-02-22T12:01:36.939003+00:00", 9180, "Your mother is", "affixed", "Pronunciation: /\u028c\u02c8f\u026akst/", "Definition: firmly attached", ""]}
