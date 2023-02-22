@@ -1,1 +1,1 @@
-{"data": ["2023-02-22T20:01:16.265295+00:00", 9188, "Your mother is", "nonmetallic", "Pronunciation: /\u02ccn\u0251nm\u0259\u02c8t\u00e6l\u026ak/", "Definition: not containing or resembling or characteristic of a metal", "Synonyms: nonmetal"]}
+{"data": ["2023-02-22T21:01:07.952752+00:00", 9189, "Your mother is", "lovesome", "Pronunciation: /\u02c8l\u0259vs\u0259m/", "Definition: having or displaying warmth or affection", "Synonyms: affectionate, fond, tender"]}
