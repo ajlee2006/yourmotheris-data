@@ -1,1 +1,1 @@
-{"data": ["2023-02-22T14:01:33.941027+00:00", 9182, "Your mother is", "lapsed", "Pronunciation: /l\u00e6pst/", "Definition: no longer active or practicing", "Synonyms: nonchurchgoing"]}
+{"data": ["2023-02-22T15:01:39.709471+00:00", 9183, "Your mother is", "univocal", "Pronunciation: /j\u028a\u02c8n\u026av\u0259k\u0259l/", "Definition: admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion", "Synonyms: unambiguous, unequivocal"]}
