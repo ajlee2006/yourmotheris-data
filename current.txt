@@ -1,1 +1,1 @@
-{"data": ["2023-02-23T03:01:08.241677+00:00", 9195, "Your mother is", "inopportune", "Pronunciation: /\u026an\u02cc\u0251p\u0259r\u02c8tun/", "Definition: not opportune", ""]}
+{"data": ["2023-02-23T04:00:59.761721+00:00", 9196, "Your mother is", "plutocratic", "Pronunciation: /\u02ccplut\u0259\u02c8kr\u00e6t\u026ak/", "Definition: of or relating to or characteristic of a plutocrat", "Synonyms: plutocratical"]}
