@@ -1,1 +1,1 @@
-{"data": ["2023-02-23T16:01:18.702429+00:00", 9208, "Your mother is", "competitory", "Pronunciation: /k\u0259m\u02c8p\u025bt\u026a\u02ccto\u028ari/", "Definition: involving competition or competitiveness", "Synonyms: competitive"]}
+{"data": ["2023-02-23T17:01:10.583945+00:00", 9209, "Your mother is", "fricative", "Pronunciation: /\u02c8fr\u026ak\u0259t\u026av/", "Definition: of speech sounds produced by forcing air through a constricted passage (as `f', `s', `z', or `th' in both `thin' and `then')", "Synonyms: continuant, sibilant, spirant, strident"]}
