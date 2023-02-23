@@ -1,1 +1,1 @@
-{"data": ["2023-02-23T00:01:57.015029+00:00", 9192, "Your mother is", "incompetent", "Pronunciation: /\u026an\u02c8k\u0251mp\u026at\u0259nt/", "Definition: legally not qualified or sufficient", "Synonyms: unqualified"]}
+{"data": ["2023-02-23T01:01:27.722241+00:00", 9193, "Your mother is", "bushy", "Pronunciation: /\u02c8b\u028a\u0283i/", "Definition: used of hair; thick and poorly groomed", "Synonyms: shaggy, shaggy-coated, shaggy-haired"]}
