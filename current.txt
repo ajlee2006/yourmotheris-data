@@ -1,1 +1,1 @@
-{"data": ["2023-02-23T01:01:27.722241+00:00", 9193, "Your mother is", "bushy", "Pronunciation: /\u02c8b\u028a\u0283i/", "Definition: used of hair; thick and poorly groomed", "Synonyms: shaggy, shaggy-coated, shaggy-haired"]}
+{"data": ["2023-02-23T02:01:21.098109+00:00", 9194, "Your mother is", "archesporial", "", "Definition: of or relating to the cells in a sporangium that give rise to spores", ""]}
