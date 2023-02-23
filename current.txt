@@ -1,1 +1,1 @@
-{"data": ["2023-02-23T18:01:37.747207+00:00", 9210, "Your mother is", "quarrelsome", "Pronunciation: /\u02c8kw\u0251r\u0259ls\u0259m/", "Definition: given to quarreling", ""]}
+{"data": ["2023-02-23T19:01:36.191103+00:00", 9211, "Your mother is", "spinnbar", "Similar to: flexible", "Definition: capable of being spun into fibres", "Synonyms: spinnable"]}
