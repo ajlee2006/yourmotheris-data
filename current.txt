@@ -1,1 +1,1 @@
-{"data": ["2023-02-23T09:01:02.274481+00:00", 9201, "Your mother is", "baking", "Pronunciation: /\u02c8be\u026ak\u026a\u014b/", "Definition: as hot as if in an oven", "Synonyms: baking hot"]}
+{"data": ["2023-02-23T10:01:37.578477+00:00", 9202, "Your mother is", "incommensurate", "Pronunciation: /\u02cc\u026ank\u0259\u02c8m\u025bn\u0283\u0259r\u026at/", "Definition: not corresponding in size or degree or extent", ""]}
