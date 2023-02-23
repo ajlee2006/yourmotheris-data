@@ -1,1 +1,1 @@
-{"data": ["2023-02-23T08:01:16.224287+00:00", 9200, "Your mother is", "well-intentioned", "Pronunciation: /\u02c8w\u025bl-\u026an\u02c8t\u025bn\u0283\u0259nd/", "Definition: marked by good intentions though often producing unfortunate results", "Synonyms: well-meaning, well-meant"]}
+{"data": ["2023-02-23T09:01:02.274481+00:00", 9201, "Your mother is", "baking", "Pronunciation: /\u02c8be\u026ak\u026a\u014b/", "Definition: as hot as if in an oven", "Synonyms: baking hot"]}
