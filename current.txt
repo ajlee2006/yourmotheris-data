@@ -1,1 +1,1 @@
-{"data": ["2023-02-23T17:01:10.583945+00:00", 9209, "Your mother is", "fricative", "Pronunciation: /\u02c8fr\u026ak\u0259t\u026av/", "Definition: of speech sounds produced by forcing air through a constricted passage (as `f', `s', `z', or `th' in both `thin' and `then')", "Synonyms: continuant, sibilant, spirant, strident"]}
+{"data": ["2023-02-23T18:01:37.747207+00:00", 9210, "Your mother is", "quarrelsome", "Pronunciation: /\u02c8kw\u0251r\u0259ls\u0259m/", "Definition: given to quarreling", ""]}
