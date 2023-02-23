@@ -1,1 +1,1 @@
-{"data": ["2023-02-23T20:01:18.953165+00:00", 9212, "Your mother is", "injured", "Pronunciation: /\u02c8\u026and\u0292\u0259rd/", "Definition: emotionally hurt or upset or annoyed", "Synonyms: offended, pained"]}
+{"data": ["2023-02-23T21:01:36.913824+00:00", 9213, "Your mother is", "psychic", "Pronunciation: /\u02c8sa\u026ak\u026ak/", "Definition: affecting or influenced by the human mind", "Synonyms: psychical"]}
