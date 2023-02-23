@@ -1,1 +1,1 @@
-{"data": ["2023-02-23T10:01:37.578477+00:00", 9202, "Your mother is", "incommensurate", "Pronunciation: /\u02cc\u026ank\u0259\u02c8m\u025bn\u0283\u0259r\u026at/", "Definition: not corresponding in size or degree or extent", ""]}
+{"data": ["2023-02-23T11:01:23.016490+00:00", 9203, "Your mother is", "heedless", "Pronunciation: /\u02c8hidl\u026as/", "Definition: characterized by careless unconcern", "Synonyms: reckless"]}
