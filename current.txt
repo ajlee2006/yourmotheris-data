@@ -1,1 +1,1 @@
-{"data": ["2023-02-24T14:01:15.169246+00:00", 9230, "Your mother is", "unaccompanied", "Pronunciation: /\u02cc\u0259n\u0259\u02c8k\u0259mp\u0259nid/", "Definition: being without an escort", ""]}
+{"data": ["2023-02-24T15:01:12.086511+00:00", 9231, "Your mother is", "campy", "Pronunciation: /\u02c8k\u00e6mpi/", "Definition: providing sophisticated amusement by virtue of having artificially (and vulgarly) mannered or banal or sentimental qualities", "Synonyms: camp"]}
