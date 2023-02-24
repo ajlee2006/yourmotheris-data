@@ -1,1 +1,1 @@
-{"data": ["2023-02-24T16:01:24.370821+00:00", 9232, "Your mother is", "arithmetic", "Pronunciation: /\u02cc\u00e6r\u026a\u03b8\u02c8m\u025bt\u026ak/", "Definition: relating to or involving arithmetic", "Synonyms: arithmetical"]}
+{"data": ["2023-02-24T17:01:38.931060+00:00", 9233, "Your mother is", "forthright", "Pronunciation: /\u02c8fo\u028ar\u03b8\u02ccra\u026at/", "Definition: characterized by directness in manner or speech; without subtlety or evasion", "Synonyms: blunt, candid, frank, free-spoken, outspoken, plainspoken, point-blank, straight-from-the-shoulder"]}
