@@ -1,1 +1,1 @@
-{"data": ["2023-02-24T03:01:38.904451+00:00", 9219, "Your mother is", "disloyal", "Pronunciation: /d\u026as\u02c8l\u0254\u026a\u0259l/", "Definition: showing lack of love for your country", "Synonyms: unpatriotic"]}
+{"data": ["2023-02-24T04:01:21.355430+00:00", 9220, "Your mother is", "gold-colored", "Pronunciation: /\u0261o\u028ald-\u02c8k\u0259l\u0259rd/", "Definition: having the color of gold", "Synonyms: gold-coloured"]}
