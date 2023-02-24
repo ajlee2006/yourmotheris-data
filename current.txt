@@ -1,1 +1,1 @@
-{"data": ["2023-02-24T05:01:02.282890+00:00", 9221, "Your mother is", "extinguished", "Pronunciation: /\u026ak\u02c8st\u026a\u014b\u0261w\u026a\u0283t/", "Definition: of a conditioned response; caused to die out because of the absence or withdrawal of reinforcement", ""]}
+{"data": ["2023-02-24T06:01:40.206039+00:00", 9222, "Your mother is", "seven", "Pronunciation: /\u02c8s\u025bv\u0259n/", "Definition: being one more than six", "Synonyms: 7, vii"]}
