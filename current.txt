@@ -1,1 +1,1 @@
-{"data": ["2023-02-24T08:01:22.399538+00:00", 9224, "Your mother is", "shingly", "Pronunciation: /\u02c8\u0283\u026a\u014bgli/", "Definition: abounding in small stones", "Synonyms: gravelly, pebbly"]}
+{"data": ["2023-02-24T09:01:39.371065+00:00", 9225, "Your mother is", "pseudoprostyle", "Pronunciation: /\u02ccsudo\u028a\u02c8pro\u028asta\u026al/", "Definition: marked by columniation having free columns in a portico only across the opening to the structure", "Synonyms: prostyle"]}
