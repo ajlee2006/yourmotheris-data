@@ -1,1 +1,1 @@
-{"data": ["2023-02-24T12:01:40.002100+00:00", 9228, "Your mother is", "swift-footed", "Pronunciation: /\u02c8sw\u026aft\u02c8f\u028at\u026ad/", "Definition: having rapidly moving feet", "Synonyms: fast-footed"]}
+{"data": ["2023-02-24T13:01:39.639525+00:00", 9229, "Your mother is", "verminous", "Similar to: offensive", "Definition: of the nature of vermin; very offensive or repulsive", ""]}
