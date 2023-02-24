@@ -1,1 +1,1 @@
-{"data": ["2023-02-24T10:01:35.775165+00:00", 9226, "Your mother is", "blue-ribbon", "Pronunciation: /\u02c8blu\u02c8r\u026ab\u0259n/", "Definition: selected or chosen for special qualifications", "Synonyms: select"]}
+{"data": ["2023-02-24T11:01:34.442662+00:00", 9227, "Your mother is", "shoeless", "Similar to: unshod", "Definition: without shoes", "Synonyms: barefoot, barefooted"]}
