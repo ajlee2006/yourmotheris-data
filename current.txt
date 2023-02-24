@@ -1,1 +1,1 @@
-{"data": ["2023-02-24T04:01:21.355430+00:00", 9220, "Your mother is", "gold-colored", "Pronunciation: /\u0261o\u028ald-\u02c8k\u0259l\u0259rd/", "Definition: having the color of gold", "Synonyms: gold-coloured"]}
+{"data": ["2023-02-24T05:01:02.282890+00:00", 9221, "Your mother is", "extinguished", "Pronunciation: /\u026ak\u02c8st\u026a\u014b\u0261w\u026a\u0283t/", "Definition: of a conditioned response; caused to die out because of the absence or withdrawal of reinforcement", ""]}
