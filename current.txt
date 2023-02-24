@@ -1,1 +1,1 @@
-{"data": ["2023-02-24T20:01:05.201351+00:00", 9236, "Your mother is", "romanist", "Pronunciation: /\u02c8ro\u028am\u0259n\u026ast/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, papistical, popish, r.c., roman, roman catholic, romish"]}
+{"data": ["2023-02-24T21:01:00.170403+00:00", 9237, "Your mother is", "twenty", "Pronunciation: /\u02c8tw\u025bnti/", "Definition: denoting a quantity consisting of 20 items or units", "Synonyms: 20, xx"]}
