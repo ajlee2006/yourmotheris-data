@@ -1,1 +1,1 @@
-{"data": ["2023-02-24T09:01:39.371065+00:00", 9225, "Your mother is", "pseudoprostyle", "Pronunciation: /\u02ccsudo\u028a\u02c8pro\u028asta\u026al/", "Definition: marked by columniation having free columns in a portico only across the opening to the structure", "Synonyms: prostyle"]}
+{"data": ["2023-02-24T10:01:35.775165+00:00", 9226, "Your mother is", "blue-ribbon", "Pronunciation: /\u02c8blu\u02c8r\u026ab\u0259n/", "Definition: selected or chosen for special qualifications", "Synonyms: select"]}
