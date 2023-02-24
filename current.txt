@@ -1,1 +1,1 @@
-{"data": ["2023-02-24T11:01:34.442662+00:00", 9227, "Your mother is", "shoeless", "Similar to: unshod", "Definition: without shoes", "Synonyms: barefoot, barefooted"]}
+{"data": ["2023-02-24T12:01:40.002100+00:00", 9228, "Your mother is", "swift-footed", "Pronunciation: /\u02c8sw\u026aft\u02c8f\u028at\u026ad/", "Definition: having rapidly moving feet", "Synonyms: fast-footed"]}
