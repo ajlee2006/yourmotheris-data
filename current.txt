@@ -1,1 +1,1 @@
-{"data": ["2023-02-24T19:01:36.587646+00:00", 9235, "Your mother is", "mild", "Pronunciation: /ma\u026ald/", "Definition: mild and pleasant", "Synonyms: balmy, soft"]}
+{"data": ["2023-02-24T20:01:05.201351+00:00", 9236, "Your mother is", "romanist", "Pronunciation: /\u02c8ro\u028am\u0259n\u026ast/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, papistical, popish, r.c., roman, roman catholic, romish"]}
