@@ -1,1 +1,1 @@
-{"data": ["2023-02-24T02:01:35.381699+00:00", 9218, "Your mother is", "discarded", "Pronunciation: /d\u026as\u02c8k\u0251rd\u026ad/", "Definition: thrown away", "Synonyms: cast-off, throwaway, thrown-away"]}
+{"data": ["2023-02-24T03:01:38.904451+00:00", 9219, "Your mother is", "disloyal", "Pronunciation: /d\u026as\u02c8l\u0254\u026a\u0259l/", "Definition: showing lack of love for your country", "Synonyms: unpatriotic"]}
