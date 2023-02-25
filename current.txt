@@ -1,1 +1,1 @@
-{"data": ["2023-02-25T03:00:59.211694+00:00", 9243, "Your mother is", "differential", "Pronunciation: /\u02ccd\u026af\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: involving or containing one or more derivatives", ""]}
+{"data": ["2023-02-25T04:01:27.966355+00:00", 9244, "Your mother is", "resolute", "Pronunciation: /\u02c8r\u025bz\u0259\u02cclut/", "Definition: characterized by quickness and firmness", "Synonyms: unhesitating"]}
