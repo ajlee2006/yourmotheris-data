@@ -1,1 +1,1 @@
-{"data": ["2023-02-25T14:01:28.271509+00:00", 9254, "Your mother is", "clear-eyed", "Pronunciation: /klir-a\u026ad/", "Definition: mentally acute or penetratingly discerning", "Synonyms: clear-sighted, perspicacious"]}
+{"data": ["2023-02-25T15:01:38.061825+00:00", 9255, "Your mother is", "shrewd", "Pronunciation: /\u0283rud/", "Definition: acting with a specific goal", "Synonyms: calculating, calculative, conniving, scheming"]}
