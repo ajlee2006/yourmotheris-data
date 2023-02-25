@@ -1,1 +1,1 @@
-{"data": ["2023-02-25T15:01:38.061825+00:00", 9255, "Your mother is", "shrewd", "Pronunciation: /\u0283rud/", "Definition: acting with a specific goal", "Synonyms: calculating, calculative, conniving, scheming"]}
+{"data": ["2023-02-25T16:01:16.050215+00:00", 9256, "Your mother is", "comely", "Pronunciation: /k\u0259mli/", "Definition: according with custom or propriety", "Synonyms: becoming, comme il faut, decorous, seemly"]}
