@@ -1,1 +1,1 @@
-{"data": ["2023-02-25T20:00:55.907841+00:00", 9260, "Your mother is", "metabolic", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8b\u0251l\u026ak/", "Definition: undergoing metamorphosis", "Synonyms: metabolous"]}
+{"data": ["2023-02-25T21:01:39.417849+00:00", 9261, "Your mother is", "ratified", "Pronunciation: /\u02c8r\u00e6t\u028c\u02ccfa\u026ad/", "Definition: formally approved and invested with legal authority", "Synonyms: sanctioned"]}
