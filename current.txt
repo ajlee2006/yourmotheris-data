@@ -1,1 +1,1 @@
-{"data": ["2023-02-25T08:01:43.551170+00:00", 9248, "Your mother is", "old-time", "Pronunciation: /o\u028ald-ta\u026am/", "Definition: attractively old-fashioned (but not necessarily authentic)", "Synonyms: olde worlde, quaint"]}
+{"data": ["2023-02-25T09:00:59.699235+00:00", 9249, "Your mother is", "different", "Pronunciation: /\u02c8d\u026af\u0259r\u0259nt/", "Definition: differing from all others; not ordinary", ""]}
