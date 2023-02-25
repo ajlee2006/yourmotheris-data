@@ -1,1 +1,1 @@
-{"data": ["2023-02-25T04:01:27.966355+00:00", 9244, "Your mother is", "resolute", "Pronunciation: /\u02c8r\u025bz\u0259\u02cclut/", "Definition: characterized by quickness and firmness", "Synonyms: unhesitating"]}
+{"data": ["2023-02-25T05:00:59.235256+00:00", 9245, "Your mother is", "bifurcate", "Pronunciation: /\u02c8ba\u026af\u0259\u02ccke\u026at/", "Definition: resembling a fork; divided or separated into two branches", "Synonyms: biramous, branched, forficate, fork-like, forked, pronged, prongy"]}
