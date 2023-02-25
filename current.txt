@@ -1,1 +1,1 @@
-{"data": ["2023-02-25T13:01:00.512634+00:00", 9253, "Your mother is", "psychoactive", "Pronunciation: /\u02ccsa\u026ako\u028a\u02c8\u00e6kt\u026av/", "Definition: affecting the mind or mood or other mental processes", "Synonyms: psychotropic"]}
+{"data": ["2023-02-25T14:01:28.271509+00:00", 9254, "Your mother is", "clear-eyed", "Pronunciation: /klir-a\u026ad/", "Definition: mentally acute or penetratingly discerning", "Synonyms: clear-sighted, perspicacious"]}
