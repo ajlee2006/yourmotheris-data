@@ -1,1 +1,1 @@
-{"data": ["2023-02-25T10:01:07.375511+00:00", 9250, "Your mother is", "fragile", "Pronunciation: /\u02c8fr\u00e6d\u0292\u0259l/", "Definition: lacking substance or significance", "Synonyms: flimsy, slight, tenuous, thin"]}
+{"data": ["2023-02-25T11:01:02.662798+00:00", 9251, "Your mother is", "positioning", "Pronunciation: /p\u028c\u02c8z\u026a\u0283\u028cn\u026a\u014b/", "Definition: causing to fall into line or into position", "Synonyms: aligning"]}
