@@ -1,1 +1,1 @@
-{"data": ["2023-02-25T11:01:02.662798+00:00", 9251, "Your mother is", "positioning", "Pronunciation: /p\u028c\u02c8z\u026a\u0283\u028cn\u026a\u014b/", "Definition: causing to fall into line or into position", "Synonyms: aligning"]}
+{"data": ["2023-02-25T12:01:25.684434+00:00", 9252, "Your mother is", "hypercritical", "Pronunciation: /\u02ccha\u026ap\u0259r\u02c8kr\u026at\u026ak\u0259l/", "Definition: inclined to judge too severely", "Synonyms: overcritical"]}
