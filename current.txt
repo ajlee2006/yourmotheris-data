@@ -1,1 +1,1 @@
-{"data": ["2023-02-25T05:00:59.235256+00:00", 9245, "Your mother is", "bifurcate", "Pronunciation: /\u02c8ba\u026af\u0259\u02ccke\u026at/", "Definition: resembling a fork; divided or separated into two branches", "Synonyms: biramous, branched, forficate, fork-like, forked, pronged, prongy"]}
+{"data": ["2023-02-25T06:01:36.786374+00:00", 9246, "Your mother is", "longhand", "Pronunciation: /\u02c8l\u0254\u014b\u02cch\u00e6nd/", "Definition: having words written out in full by hand", ""]}
