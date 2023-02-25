@@ -1,1 +1,1 @@
-{"data": ["2023-02-25T16:01:16.050215+00:00", 9256, "Your mother is", "comely", "Pronunciation: /k\u0259mli/", "Definition: according with custom or propriety", "Synonyms: becoming, comme il faut, decorous, seemly"]}
+{"data": ["2023-02-25T17:01:00.243353+00:00", 9257, "Your mother is", "enjoyable", "Pronunciation: /\u025bn\u02c8d\u0292\u0254\u026a\u0259b\u0259l/", "Definition: affording satisfaction or pleasure", "Synonyms: gratifying, pleasurable"]}
