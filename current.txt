@@ -1,1 +1,1 @@
-{"data": ["2023-02-25T09:00:59.699235+00:00", 9249, "Your mother is", "different", "Pronunciation: /\u02c8d\u026af\u0259r\u0259nt/", "Definition: differing from all others; not ordinary", ""]}
+{"data": ["2023-02-25T10:01:07.375511+00:00", 9250, "Your mother is", "fragile", "Pronunciation: /\u02c8fr\u00e6d\u0292\u0259l/", "Definition: lacking substance or significance", "Synonyms: flimsy, slight, tenuous, thin"]}
