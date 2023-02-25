@@ -1,1 +1,1 @@
-{"data": ["2023-02-24T23:01:24.659569+00:00", 9239, "Your mother is", "unsuitable", "Pronunciation: /\u0259n\u02c8sut\u0259b\u0259l/", "Definition: not capable of being applied", "Synonyms: inapplicable"]}
+{"data": ["2023-02-25T00:02:06.321415+00:00", 9240, "Your mother is", "nonconforming", "Similar to: unorthodox", "Definition: not conforming to established customs or doctrines especially in religion", "Synonyms: nonconformist"]}
