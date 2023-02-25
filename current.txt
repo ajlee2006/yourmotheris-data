@@ -1,1 +1,1 @@
-{"data": ["2023-02-25T06:01:36.786374+00:00", 9246, "Your mother is", "longhand", "Pronunciation: /\u02c8l\u0254\u014b\u02cch\u00e6nd/", "Definition: having words written out in full by hand", ""]}
+{"data": ["2023-02-25T07:01:22.035103+00:00", 9247, "Your mother is", "biloculate", "Pronunciation: /ba\u026a\u02c8l\u0251kj\u0259l\u026at/", "Definition: divided into or containing two cells or chambers", "Synonyms: bilocular"]}
