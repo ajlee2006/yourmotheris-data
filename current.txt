@@ -1,1 +1,1 @@
-{"data": ["2023-02-26T12:01:02.010272+00:00", 9276, "Your mother is", "unsettled", "Pronunciation: /\u0259n\u02c8s\u025bt\u0259ld/", "Definition: subject to change", "Synonyms: changeable, uncertain"]}
+{"data": ["2023-02-26T13:01:13.741099+00:00", 9277, "Your mother is", "disputatious", "Pronunciation: /\u02ccd\u026aspj\u028a\u02c8te\u026a\u0283\u0259s/", "Definition: inclined or showing an inclination to dispute or disagree, even to engage in law suits", "Synonyms: combative, contentious, disputative, litigious"]}
