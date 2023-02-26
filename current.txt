@@ -1,1 +1,1 @@
-{"data": ["2023-02-26T01:00:56.794437+00:00", 9265, "Your mother is", "nightlong", "Pronunciation: /\u02c8na\u026at\u02ccl\u0254\u014b/", "Definition: lasting, open, or operating through the whole night", "Synonyms: all-night, overnight"]}
+{"data": ["2023-02-26T02:01:04.999130+00:00", 9266, "Your mother is", "indisposed", "Pronunciation: /\u02cc\u026and\u026a\u02c8spo\u028azd/", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, peaked, poorly, seedy, sickly, under the weather, unwell"]}
