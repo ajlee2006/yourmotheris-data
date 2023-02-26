@@ -1,1 +1,1 @@
-{"data": ["2023-02-26T02:01:04.999130+00:00", 9266, "Your mother is", "indisposed", "Pronunciation: /\u02cc\u026and\u026a\u02c8spo\u028azd/", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, peaked, poorly, seedy, sickly, under the weather, unwell"]}
+{"data": ["2023-02-26T03:01:14.728479+00:00", 9267, "Your mother is", "sisterlike", "", "Definition: like or characteristic of or befitting a sister", "Synonyms: sisterly, sororal"]}
