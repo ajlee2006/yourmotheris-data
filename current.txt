@@ -1,1 +1,1 @@
-{"data": ["2023-02-26T14:01:09.116781+00:00", 9278, "Your mother is", "unbrushed", "Similar to: ungroomed", "Definition: (of hair or clothing) not brushed", ""]}
+{"data": ["2023-02-26T15:01:23.630258+00:00", 9279, "Your mother is", "chemisorptive", "Similar to: adsorbent", "Definition: having the capacity to adsorb by chemical as contrasted with physical forces", "Synonyms: chemosorptive"]}
