@@ -1,1 +1,1 @@
-{"data": ["2023-02-26T11:01:37.059030+00:00", 9275, "Your mother is", "disciplined", "Pronunciation: /\u02c8d\u026as\u028cpl\u028cnd/", "Definition: obeying the rules", ""]}
+{"data": ["2023-02-26T12:01:02.010272+00:00", 9276, "Your mother is", "unsettled", "Pronunciation: /\u0259n\u02c8s\u025bt\u0259ld/", "Definition: subject to change", "Synonyms: changeable, uncertain"]}
