@@ -1,1 +1,1 @@
-{"data": ["2023-02-26T00:02:17.460645+00:00", 9264, "Your mother is", "unsmiling", "Pronunciation: /\u028cn\u02c8sma\u026al\u026a\u014b/", "Definition: not smiling", ""]}
+{"data": ["2023-02-26T01:00:56.794437+00:00", 9265, "Your mother is", "nightlong", "Pronunciation: /\u02c8na\u026at\u02ccl\u0254\u014b/", "Definition: lasting, open, or operating through the whole night", "Synonyms: all-night, overnight"]}
