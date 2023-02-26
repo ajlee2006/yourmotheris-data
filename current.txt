@@ -1,1 +1,1 @@
-{"data": ["2023-02-26T08:01:27.505116+00:00", 9272, "Your mother is", "cannular", "Pronunciation: /\u02c8k\u00e6nj\u0259l\u0259r/", "Definition: constituting a tube; having hollow tubes (as for the passage of fluids)", "Synonyms: tube-shaped, tubelike, tubular, vasiform"]}
+{"data": ["2023-02-26T09:01:37.679625+00:00", 9273, "Your mother is", "yogistic", "", "Definition: of or relating to yoga", "Synonyms: yogic"]}
