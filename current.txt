@@ -1,1 +1,1 @@
-{"data": ["2023-02-26T06:01:07.304415+00:00", 9270, "Your mother is", "tangential", "Pronunciation: /t\u00e6n\u02c8d\u0292\u025bn\u0283\u0259l/", "Definition: of superficial relevance if any", "Synonyms: digressive"]}
+{"data": ["2023-02-26T07:01:39.234075+00:00", 9271, "Your mother is", "caulked", "Similar to: chinked", "Definition: having cracks and crevices stopped up with a filler", ""]}
