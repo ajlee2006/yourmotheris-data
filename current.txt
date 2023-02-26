@@ -1,1 +1,1 @@
-{"data": ["2023-02-26T04:01:33.610593+00:00", 9268, "Your mother is", "ringlike", "Similar to: circular", "Definition: having the shape of a ring", ""]}
+{"data": ["2023-02-26T05:01:36.556647+00:00", 9269, "Your mother is", "hundred-and-fortieth", "Similar to: ordinal", "Definition: the ordinal number of one hundred forty in counting order", "Synonyms: 140th"]}
