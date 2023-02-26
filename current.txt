@@ -1,1 +1,1 @@
-{"data": ["2023-02-26T21:01:35.211116+00:00", 9285, "Your mother is", "bored", "Pronunciation: /b\u0254rd/", "Definition: tired of the world", "Synonyms: world-weary"]}
+{"data": ["2023-02-26T22:01:14.118515+00:00", 9286, "Your mother is", "alterable", "Pronunciation: /\u02c8\u0254lt\u0259r\u0259b\u0259l/", "Definition: (of the punishment ordered by a court) capable of being changed to one less severe", ""]}
