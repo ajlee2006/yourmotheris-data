@@ -1,1 +1,1 @@
-{"data": ["2023-02-27T08:01:22.481337+00:00", 9296, "Your mother is", "unprompted", "Pronunciation: /\u0259n\u02c8pr\u0251mpt\u026ad/", "Definition: proceeding from natural feeling or impulse without external stimulus", "Synonyms: impulsive"]}
+{"data": ["2023-02-27T09:01:23.632032+00:00", 9297, "Your mother is", "unhoped", "Pronunciation: /\u0259n\u02c8ho\u028apt/", "Definition: so unexpected as to have not been imagined", "Synonyms: unhoped-for, unthought, unthought-of"]}
