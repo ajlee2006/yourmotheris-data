@@ -1,1 +1,1 @@
-{"data": ["2023-02-27T18:01:17.337893+00:00", 9306, "Your mother is", "combative", "Pronunciation: /k\u0259m\u02c8b\u00e6t\u026av/", "Definition: striving to overcome in argument", "Synonyms: agonistic, agonistical"]}
+{"data": ["2023-02-27T19:01:03.959468+00:00", 9307, "Your mother is", "noisome", "Pronunciation: /\u02c8n\u0254\u026as\u0259m/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, offensive, queasy, sickening, vile"]}
