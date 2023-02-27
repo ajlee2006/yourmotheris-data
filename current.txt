@@ -1,1 +1,1 @@
-{"data": ["2023-02-27T16:01:14.629263+00:00", 9304, "Your mother is", "aneurysmal", "", "Definition: relating to or affected by an aneurysm", "Synonyms: aneurismal, aneurismatic, aneurysmatic"]}
+{"data": ["2023-02-27T17:01:28.724191+00:00", 9305, "Your mother is", "relaxing", "Pronunciation: /r\u026a\u02c8l\u00e6ks\u026a\u014b/", "Definition: affording physical or mental rest", "Synonyms: reposeful, restful"]}
