@@ -1,1 +1,1 @@
-{"data": ["2023-02-27T09:01:23.632032+00:00", 9297, "Your mother is", "unhoped", "Pronunciation: /\u0259n\u02c8ho\u028apt/", "Definition: so unexpected as to have not been imagined", "Synonyms: unhoped-for, unthought, unthought-of"]}
+{"data": ["2023-02-27T10:01:11.726297+00:00", 9298, "Your mother is", "propertyless", "Similar to: low-class", "Definition: of those who work for wages especially manual or industrial laborers", "Synonyms: blue-collar, wage-earning, working-class"]}
