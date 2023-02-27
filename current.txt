@@ -1,1 +1,1 @@
-{"data": ["2023-02-27T22:03:53.347119+00:00", 9310, "Your mother is", "cylindrical", "Pronunciation: /s\u026a\u02c8l\u026andr\u026ak\u0259l/", "Definition: having the form of a cylinder", "Synonyms: cylindric"]}
+{"data": ["2023-02-27T23:03:22.669462+00:00", 9311, "Your mother is", "takeout", "Pronunciation: /\u02c8te\u026ak\u02cca\u028at/", "Definition: of or involving food to be taken and eaten off the premises", "Synonyms: take-away"]}
