@@ -1,1 +1,1 @@
-{"data": ["2023-02-26T23:01:33.233230+00:00", 9287, "Your mother is", "home-brewed", "Similar to: homemade", "Definition: brewed at home", ""]}
+{"data": ["2023-02-27T00:02:14.498105+00:00", 9288, "Your mother is", "23", "Similar to: cardinal", "Definition: being three more than twenty", "Synonyms: twenty-three, xxiii"]}
