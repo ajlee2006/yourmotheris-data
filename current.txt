@@ -1,1 +1,1 @@
-{"data": ["2023-02-27T21:03:32.451969+00:00", 9309, "Your mother is", "low-grade", "Pronunciation: /lo\u028a-gre\u026ad/", "Definition: of inferior quality", ""]}
+{"data": ["2023-02-27T22:03:53.347119+00:00", 9310, "Your mother is", "cylindrical", "Pronunciation: /s\u026a\u02c8l\u026andr\u026ak\u0259l/", "Definition: having the form of a cylinder", "Synonyms: cylindric"]}
