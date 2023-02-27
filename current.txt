@@ -1,1 +1,1 @@
-{"data": ["2023-02-27T15:01:02.179897+00:00", 9303, "Your mother is", "discourteous", "Pronunciation: /d\u026as\u02c8k\u025crti\u0259s/", "Definition: lacking social graces", "Synonyms: ungracious"]}
+{"data": ["2023-02-27T16:01:14.629263+00:00", 9304, "Your mother is", "aneurysmal", "", "Definition: relating to or affected by an aneurysm", "Synonyms: aneurismal, aneurismatic, aneurysmatic"]}
