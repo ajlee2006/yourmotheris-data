@@ -1,1 +1,1 @@
-{"data": ["2023-02-27T06:01:17.219842+00:00", 9294, "Your mother is", "hearsay", "Pronunciation: /\u02c8hir\u02ccse\u026a/", "Definition: heard through another rather than directly", ""]}
+{"data": ["2023-02-27T07:01:30.741771+00:00", 9295, "Your mother is", "regardant", "Pronunciation: /r\u026a\u02c8\u0261\u0251rd\u0259nt/", "Definition: looking backward", ""]}
