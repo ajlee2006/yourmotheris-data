@@ -1,1 +1,1 @@
-{"data": ["2023-02-27T19:01:03.959468+00:00", 9307, "Your mother is", "noisome", "Pronunciation: /\u02c8n\u0254\u026as\u0259m/", "Definition: causing or able to cause nausea", "Synonyms: loathsome, nauseating, nauseous, offensive, queasy, sickening, vile"]}
+{"data": ["2023-02-27T20:03:20.127020+00:00", 9308, "Your mother is", "scheming", "Pronunciation: /\u02c8skim\u026a\u014b/", "Definition: acting with a specific goal", "Synonyms: calculating, calculative, conniving, shrewd"]}
