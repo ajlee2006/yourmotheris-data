@@ -1,1 +1,1 @@
-{"data": ["2023-02-27T13:01:02.690654+00:00", 9301, "Your mother is", "dehiscent", "Pronunciation: /d\u026a\u02c8h\u026as\u0259nt/", "Definition: (of e.g. fruits and anthers) opening spontaneously at maturity to release seeds", ""]}
+{"data": ["2023-02-27T14:01:10.506578+00:00", 9302, "Your mother is", "vegetal", "Pronunciation: /\u02c8v\u025bd\u0292\u026at\u0259l/", "Definition: (of reproduction) characterized by asexual processes", "Synonyms: vegetative"]}
