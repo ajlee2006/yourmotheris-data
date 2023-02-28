@@ -1,1 +1,1 @@
-{"data": ["2023-02-28T08:05:21.973702+00:00", 9320, "Your mother is", "thin", "Pronunciation: /\u03b8\u026an/", "Definition: lacking excess flesh", "Synonyms: lean"]}
+{"data": ["2023-02-28T09:03:37.904850+00:00", 9321, "Your mother is", "fiber-optic", "", "Definition: of or relating to fiber optics", "Synonyms: fiberoptic, fibre-optic, fibreoptic"]}
