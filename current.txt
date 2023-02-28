@@ -1,1 +1,1 @@
-{"data": ["2023-02-28T11:04:05.158328+00:00", 9323, "Your mother is", "pulseless", "Similar to: dead", "Definition: appearing dead; not breathing or having no perceptible pulse", "Synonyms: breathless, inanimate"]}
+{"data": ["2023-02-28T12:03:54.234542+00:00", 9324, "Your mother is", "nominative", "Pronunciation: /\u02c8n\u0251m\u026an\u0259t\u026av/", "Definition: appointed by nomination", "Synonyms: nominated"]}
