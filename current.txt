@@ -1,1 +1,1 @@
-{"data": ["2023-02-28T22:03:53.471639+00:00", 9334, "Your mother is", "well-meant", "Pronunciation: /w\u025bl-m\u025bnt/", "Definition: marked by good intentions though often producing unfortunate results", "Synonyms: well-intentioned, well-meaning"]}
+{"data": ["2023-02-28T23:04:32.841912+00:00", 9335, "Your mother is", "mournful", "Pronunciation: /\u02c8mo\u028arnf\u028al/", "Definition: filled with or evoking sadness", "Synonyms: doleful"]}
