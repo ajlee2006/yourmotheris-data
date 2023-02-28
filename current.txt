@@ -1,1 +1,1 @@
-{"data": ["2023-02-28T00:06:04.234825+00:00", 9312, "Your mother is", "niggardly", "Pronunciation: /\u02c8n\u026a\u0261\u0259rdli/", "Definition: petty or reluctant in giving or spending", "Synonyms: grudging, scrimy"]}
+{"data": ["2023-02-28T01:04:52.406084+00:00", 9313, "Your mother is", "mercurial", "Pronunciation: /m\u0259r\u02c8kj\u028ari\u0259l/", "Definition: liable to sudden unpredictable change", "Synonyms: erratic, fickle, quicksilver"]}
