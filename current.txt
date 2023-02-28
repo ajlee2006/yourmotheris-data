@@ -1,1 +1,1 @@
-{"data": ["2023-02-28T12:03:54.234542+00:00", 9324, "Your mother is", "nominative", "Pronunciation: /\u02c8n\u0251m\u026an\u0259t\u026av/", "Definition: appointed by nomination", "Synonyms: nominated"]}
+{"data": ["2023-02-28T13:04:01.280869+00:00", 9325, "Your mother is", "pantropical", "Pronunciation: /p\u00e6n\u02c8tr\u0251p\u026ak\u0259l/", "Definition: distributed throughout the tropics", "Synonyms: pantropic"]}
