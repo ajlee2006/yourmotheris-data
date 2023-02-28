@@ -1,1 +1,1 @@
-{"data": ["2023-02-28T14:04:04.833139+00:00", 9326, "Your mother is", "cloven-footed", "Pronunciation: /\u02c8klo\u028av\u0259n-\u02c8f\u028at\u026ad/", "Definition: of or relating to the cloven feet of ruminants or swine", "Synonyms: cloven-hoofed"]}
+{"data": ["2023-02-28T15:04:24.574191+00:00", 9327, "Your mother is", "poorly", "Pronunciation: /\u02c8p\u028arli/", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, indisposed, peaked, seedy, sickly, under the weather, unwell"]}
