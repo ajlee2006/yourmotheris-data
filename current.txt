@@ -1,1 +1,1 @@
-{"data": ["2023-02-28T21:04:19.686901+00:00", 9333, "Your mother is", "packaged", "Pronunciation: /\u02c8p\u00e6k\u026ad\u0292d/", "Definition: enclosed in a package or protective covering", ""]}
+{"data": ["2023-02-28T22:03:53.471639+00:00", 9334, "Your mother is", "well-meant", "Pronunciation: /w\u025bl-m\u025bnt/", "Definition: marked by good intentions though often producing unfortunate results", "Synonyms: well-intentioned, well-meaning"]}
