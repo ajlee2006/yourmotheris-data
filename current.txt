@@ -1,1 +1,1 @@
-{"data": ["2023-02-28T01:04:52.406084+00:00", 9313, "Your mother is", "mercurial", "Pronunciation: /m\u0259r\u02c8kj\u028ari\u0259l/", "Definition: liable to sudden unpredictable change", "Synonyms: erratic, fickle, quicksilver"]}
+{"data": ["2023-02-28T02:04:29.451572+00:00", 9314, "Your mother is", "dashing", "Pronunciation: /\u02c8d\u00e6\u0283\u026a\u014b/", "Definition: lively and spirited", "Synonyms: gallant"]}
