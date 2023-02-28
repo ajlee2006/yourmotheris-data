@@ -1,1 +1,1 @@
-{"data": ["2023-02-28T15:04:24.574191+00:00", 9327, "Your mother is", "poorly", "Pronunciation: /\u02c8p\u028arli/", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, indisposed, peaked, seedy, sickly, under the weather, unwell"]}
+{"data": ["2023-02-28T16:03:44.572914+00:00", 9328, "Your mother is", "sensitive", "Pronunciation: /\u02c8s\u025bns\u026at\u026av/", "Definition: hurting", "Synonyms: raw, sore, tender"]}
