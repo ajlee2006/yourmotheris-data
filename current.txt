@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T10:04:06.925970+00:00", 9346, "Your mother is", "biaural", "Similar to: stereo", "Definition: relating to or having or hearing with two ears", "Synonyms: binaural"]}
+{"data": ["2023-03-01T11:04:02.946255+00:00", 9347, "Your mother is", "twin", "Pronunciation: /tw\u026an/", "Definition: being two identical", "Synonyms: duplicate, matching, twinned"]}
