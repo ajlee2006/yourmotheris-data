@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T15:04:20.261880+00:00", 9351, "Your mother is", "predestinate", "Pronunciation: /pr\u026a\u02c8d\u025bst\u0259n\u026at/", "Definition: established or prearranged unalterably", "Synonyms: foreordained, predestined"]}
+{"data": ["2023-03-01T16:04:38.843543+00:00", 9352, "Your mother is", "superposable", "Similar to: congruent", "Definition: coinciding exactly when superimposed", "Synonyms: identical"]}
