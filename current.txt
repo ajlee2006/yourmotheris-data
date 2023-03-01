@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T09:05:21.971496+00:00", 9345, "Your mother is", "synsemantic", "Similar to: syncategorematic", "Definition: of a word or phrase meaningful only when it occurs in the company of other words", ""]}
+{"data": ["2023-03-01T10:04:06.925970+00:00", 9346, "Your mother is", "biaural", "Similar to: stereo", "Definition: relating to or having or hearing with two ears", "Synonyms: binaural"]}
