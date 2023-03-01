@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T21:03:31.913487+00:00", 9357, "Your mother is", "hot under the collar", "Similar to: angry", "Definition: very angry", ""]}
+{"data": ["2023-03-01T22:04:22.931099+00:00", 9358, "Your mother is", "half-and-half", "Pronunciation: /\u02c8h\u00e6f\u0259n-\u02c8h\u00e6f/", "Definition: in equal parts", ""]}
