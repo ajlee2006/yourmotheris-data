@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T01:05:07.398143+00:00", 9337, "Your mother is", "polluted", "Pronunciation: /p\u0259\u02c8lut\u026ad/", "Definition: rendered unwholesome by contaminants and pollution", "Synonyms: contaminated"]}
+{"data": ["2023-03-01T02:04:28.578028+00:00", 9338, "Your mother is", "neuroanatomic", "", "Definition: of or relating to neural tissue or the nervous system", "Synonyms: neuroanatomical"]}
