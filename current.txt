@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T19:04:03.845654+00:00", 9355, "Your mother is", "11", "Similar to: cardinal", "Definition: being one more than ten", "Synonyms: eleven, xi"]}
+{"data": ["2023-03-01T20:03:48.838508+00:00", 9356, "Your mother is", "doubting", "Pronunciation: /\u02c8da\u028at\u026a\u014b/", "Definition: marked by or given to doubt", "Synonyms: questioning, sceptical, skeptical"]}
