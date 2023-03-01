@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T13:04:07.817996+00:00", 9349, "Your mother is", "corroborant", "Pronunciation: /k\u0259\u02c8r\u0251b\u0259r\u0259nt/", "Definition: used of a medicine that is strengthening", ""]}
+{"data": ["2023-03-01T14:03:49.507804+00:00", 9350, "Your mother is", "credal", "Pronunciation: /\u02c8krid\u0259l/", "Definition: of or relating to a creed", "Synonyms: creedal"]}
