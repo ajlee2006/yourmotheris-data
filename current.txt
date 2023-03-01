@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T14:03:49.507804+00:00", 9350, "Your mother is", "credal", "Pronunciation: /\u02c8krid\u0259l/", "Definition: of or relating to a creed", "Synonyms: creedal"]}
+{"data": ["2023-03-01T15:04:20.261880+00:00", 9351, "Your mother is", "predestinate", "Pronunciation: /pr\u026a\u02c8d\u025bst\u0259n\u026at/", "Definition: established or prearranged unalterably", "Synonyms: foreordained, predestined"]}
