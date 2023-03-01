@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T17:04:11.294448+00:00", 9353, "Your mother is", "verifying", "Pronunciation: /\u02c8v\u025br\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: serving to support or corroborate", "Synonyms: collateral, confirmative, confirmatory, confirming, corroborative, corroboratory, substantiating, substantiative, validating, validatory, verificatory"]}
+{"data": ["2023-03-01T18:04:08.111680+00:00", 9354, "Your mother is", "low-grade", "Pronunciation: /lo\u028a-gre\u026ad/", "Definition: of inferior quality", ""]}
