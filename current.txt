@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T18:04:08.111680+00:00", 9354, "Your mother is", "low-grade", "Pronunciation: /lo\u028a-gre\u026ad/", "Definition: of inferior quality", ""]}
+{"data": ["2023-03-01T19:04:03.845654+00:00", 9355, "Your mother is", "11", "Similar to: cardinal", "Definition: being one more than ten", "Synonyms: eleven, xi"]}
