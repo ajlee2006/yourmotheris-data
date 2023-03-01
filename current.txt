@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T11:04:02.946255+00:00", 9347, "Your mother is", "twin", "Pronunciation: /tw\u026an/", "Definition: being two identical", "Synonyms: duplicate, matching, twinned"]}
+{"data": ["2023-03-01T12:03:55.551216+00:00", 9348, "Your mother is", "select", "Pronunciation: /s\u026a\u02c8l\u025bkt/", "Definition: selected or chosen for special qualifications", "Synonyms: blue-ribbon"]}
