@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T03:03:56.453108+00:00", 9339, "Your mother is", "rent-free", "Pronunciation: /r\u025bnt-fri/", "Definition: complimentary; without payment of rent", ""]}
+{"data": ["2023-03-01T04:04:51.468046+00:00", 9340, "Your mother is", "graceless", "Pronunciation: /\u02c8gre\u026asl\u026as/", "Definition: lacking grace; clumsy", "Synonyms: ungraceful"]}
