@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T00:06:12.320755+00:00", 9336, "Your mother is", "gaseous", "Pronunciation: /\u02c8\u0261\u00e6si\u0259s/", "Definition: existing as or having characteristics of a gas", ""]}
+{"data": ["2023-03-01T01:05:07.398143+00:00", 9337, "Your mother is", "polluted", "Pronunciation: /p\u0259\u02c8lut\u026ad/", "Definition: rendered unwholesome by contaminants and pollution", "Synonyms: contaminated"]}
