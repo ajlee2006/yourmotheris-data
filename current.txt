@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T20:03:48.838508+00:00", 9356, "Your mother is", "doubting", "Pronunciation: /\u02c8da\u028at\u026a\u014b/", "Definition: marked by or given to doubt", "Synonyms: questioning, sceptical, skeptical"]}
+{"data": ["2023-03-01T21:03:31.913487+00:00", 9357, "Your mother is", "hot under the collar", "Similar to: angry", "Definition: very angry", ""]}
