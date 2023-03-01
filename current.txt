@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T06:05:27.813791+00:00", 9342, "Your mother is", "bay", "Pronunciation: /be\u026a/", "Definition: (used of animals especially a horse) of a moderate reddish-brown color", ""]}
+{"data": ["2023-03-01T07:04:42.122330+00:00", 9343, "Your mother is", "flat-top", "Pronunciation: /fl\u00e6t-t\u0251p/", "Definition: having a flat or flattened upper surface", "Synonyms: flat-topped"]}
