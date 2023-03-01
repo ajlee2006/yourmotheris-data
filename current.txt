@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T12:03:55.551216+00:00", 9348, "Your mother is", "select", "Pronunciation: /s\u026a\u02c8l\u025bkt/", "Definition: selected or chosen for special qualifications", "Synonyms: blue-ribbon"]}
+{"data": ["2023-03-01T13:04:07.817996+00:00", 9349, "Your mother is", "corroborant", "Pronunciation: /k\u0259\u02c8r\u0251b\u0259r\u0259nt/", "Definition: used of a medicine that is strengthening", ""]}
