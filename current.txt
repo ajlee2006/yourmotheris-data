@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T08:04:41.616976+00:00", 9368, "Your mother is", "multivariate", "Pronunciation: /\u02ccm\u0259lt\u0259\u02c8v\u025cri\u026at/", "Definition: pertaining to any procedure involving two or more variables", ""]}
+{"data": ["2023-03-02T09:05:03.805087+00:00", 9369, "Your mother is", "instinctive", "Pronunciation: /\u026an\u02c8st\u026a\u014bkt\u026av/", "Definition: unthinking; prompted by (or as if by) instinct", "Synonyms: natural"]}
