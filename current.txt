@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T10:03:39.863553+00:00", 9370, "Your mother is", "finished", "Pronunciation: /\u02c8f\u026an\u026a\u0283t/", "Definition: brought to ruin", "Synonyms: ruined"]}
+{"data": ["2023-03-02T11:04:32.718817+00:00", 9371, "Your mother is", "tetramerous", "Pronunciation: /t\u026a\u02c8tr\u00e6m\u0259r\u0259s/", "Definition: having or consisting of four similar parts; tetramerous flowers", ""]}
