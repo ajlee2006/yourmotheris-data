@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T07:05:19.705861+00:00", 9367, "Your mother is", "sympathetic", "Pronunciation: /\u02ccs\u026amp\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: (of characters in literature or drama) evoking empathic or sympathetic feelings", "Synonyms: appealing, likable, likeable"]}
+{"data": ["2023-03-02T08:04:41.616976+00:00", 9368, "Your mother is", "multivariate", "Pronunciation: /\u02ccm\u0259lt\u0259\u02c8v\u025cri\u026at/", "Definition: pertaining to any procedure involving two or more variables", ""]}
