@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T22:03:49.984080+00:00", 9382, "Your mother is", "prevailing", "Pronunciation: /pr\u026a\u02c8ve\u026al\u026a\u014b/", "Definition: most frequent or common", "Synonyms: dominant, predominant, prevalent, rife"]}
+{"data": ["2023-03-02T23:03:34.187733+00:00", 9383, "Your mother is", "amino", "Pronunciation: /\u0259\u02c8mino\u028a/", "Definition: pertaining to or containing any of a group of organic compounds of nitrogen derived from ammonia", "Synonyms: aminic"]}
