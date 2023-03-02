@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T16:04:19.926573+00:00", 9376, "Your mother is", "nonconvergent", "Similar to: parallel", "Definition: (of lines, planes, or surfaces) never meeting or crossing", "Synonyms: nonintersecting"]}
+{"data": ["2023-03-02T17:04:10.281277+00:00", 9377, "Your mother is", "prim", "Pronunciation: /pr\u026am/", "Definition: affectedly dainty or refined", "Synonyms: mincing, niminy-piminy, twee"]}
