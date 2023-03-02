@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T11:04:32.718817+00:00", 9371, "Your mother is", "tetramerous", "Pronunciation: /t\u026a\u02c8tr\u00e6m\u0259r\u0259s/", "Definition: having or consisting of four similar parts; tetramerous flowers", ""]}
+{"data": ["2023-03-02T12:04:57.018608+00:00", 9372, "Your mother is", "radiophonic", "Pronunciation: /\u02ccre\u026ad\u026ao\u028a\u02c8f\u0251n\u026ak/", "Definition: relating to or by means of radiotelephony", "Synonyms: radiotelephonic"]}
