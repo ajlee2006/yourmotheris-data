@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T15:04:16.142157+00:00", 9375, "Your mother is", "two-toed", "Similar to: toed", "Definition: having two toes", "Synonyms: two-toe"]}
+{"data": ["2023-03-02T16:04:19.926573+00:00", 9376, "Your mother is", "nonconvergent", "Similar to: parallel", "Definition: (of lines, planes, or surfaces) never meeting or crossing", "Synonyms: nonintersecting"]}
