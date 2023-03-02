@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T05:05:28.717493+00:00", 9365, "Your mother is", "alveolate", "Pronunciation: /\u00e6l\u02c8vi\u0259l\u026at/", "Definition: pitted with cell-like cavities (as a honeycomb)", "Synonyms: cavitied, faveolate, honeycombed, pitted"]}
+{"data": ["2023-03-02T06:05:26.088691+00:00", 9366, "Your mother is", "inflamed", "Pronunciation: /\u026an\u02c8fle\u026amd/", "Definition: lighted with red light as if with flames", "Synonyms: ablaze, reddened"]}
