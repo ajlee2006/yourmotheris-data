@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T12:04:57.018608+00:00", 9372, "Your mother is", "radiophonic", "Pronunciation: /\u02ccre\u026ad\u026ao\u028a\u02c8f\u0251n\u026ak/", "Definition: relating to or by means of radiotelephony", "Synonyms: radiotelephonic"]}
+{"data": ["2023-03-02T13:03:54.939003+00:00", 9373, "Your mother is", "amok", "Pronunciation: /\u0259\u02c8m\u0259k/", "Definition: wildly frenzied and out of control", "Synonyms: amuck, berserk"]}
