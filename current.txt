@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T00:05:59.622404+00:00", 9360, "Your mother is", "catatonic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8t\u0251n\u026ak/", "Definition: characterized by catatonia especially either rigidity or extreme laxness of limbs", ""]}
+{"data": ["2023-03-02T01:05:05.596331+00:00", 9361, "Your mother is", "unranked", "Similar to: nonhierarchic", "Definition: not arranged in order hierarchically", "Synonyms: ungraded, unordered"]}
