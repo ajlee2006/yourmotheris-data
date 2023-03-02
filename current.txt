@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T17:04:10.281277+00:00", 9377, "Your mother is", "prim", "Pronunciation: /pr\u026am/", "Definition: affectedly dainty or refined", "Synonyms: mincing, niminy-piminy, twee"]}
+{"data": ["2023-03-02T18:03:53.920822+00:00", 9378, "Your mother is", "antagonistic", "Pronunciation: /\u00e6n\u02cct\u00e6\u0261\u0259\u02c8n\u026ast\u026ak/", "Definition: used especially of drugs or muscles that counteract or neutralize each other's effect", "Synonyms: incompatible"]}
