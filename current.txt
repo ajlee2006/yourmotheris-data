@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T20:04:28.078489+00:00", 9380, "Your mother is", "overaged", "Similar to: old", "Definition: too old to be useful", "Synonyms: over-the-hill, overage, superannuated"]}
+{"data": ["2023-03-02T21:03:39.893870+00:00", 9381, "Your mother is", "undeterred", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8t\u025crd/", "Definition: not deterred", "Synonyms: undiscouraged"]}
