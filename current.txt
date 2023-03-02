@@ -1,1 +1,1 @@
-{"data": ["2023-03-01T23:03:50.727110+00:00", 9359, "Your mother is", "unshaven", "Pronunciation: /\u0259n\u02c8\u0283e\u026av\u0259n/", "Definition: not shaved", "Synonyms: unshaved"]}
+{"data": ["2023-03-02T00:05:59.622404+00:00", 9360, "Your mother is", "catatonic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8t\u0251n\u026ak/", "Definition: characterized by catatonia especially either rigidity or extreme laxness of limbs", ""]}
