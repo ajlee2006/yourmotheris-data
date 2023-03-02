@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T04:04:43.150584+00:00", 9364, "Your mother is", "plumlike", "Similar to: rounded", "Definition: resembling a plum fruit", ""]}
+{"data": ["2023-03-02T05:05:28.717493+00:00", 9365, "Your mother is", "alveolate", "Pronunciation: /\u00e6l\u02c8vi\u0259l\u026at/", "Definition: pitted with cell-like cavities (as a honeycomb)", "Synonyms: cavitied, faveolate, honeycombed, pitted"]}
