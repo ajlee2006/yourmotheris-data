@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T18:03:53.920822+00:00", 9378, "Your mother is", "antagonistic", "Pronunciation: /\u00e6n\u02cct\u00e6\u0261\u0259\u02c8n\u026ast\u026ak/", "Definition: used especially of drugs or muscles that counteract or neutralize each other's effect", "Synonyms: incompatible"]}
+{"data": ["2023-03-02T19:03:57.206615+00:00", 9379, "Your mother is", "prolific", "Pronunciation: /pro\u028a\u02c8l\u026af\u026ak/", "Definition: bearing in abundance especially offspring", "Synonyms: fertile"]}
