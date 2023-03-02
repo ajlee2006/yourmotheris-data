@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T19:03:57.206615+00:00", 9379, "Your mother is", "prolific", "Pronunciation: /pro\u028a\u02c8l\u026af\u026ak/", "Definition: bearing in abundance especially offspring", "Synonyms: fertile"]}
+{"data": ["2023-03-02T20:04:28.078489+00:00", 9380, "Your mother is", "overaged", "Similar to: old", "Definition: too old to be useful", "Synonyms: over-the-hill, overage, superannuated"]}
