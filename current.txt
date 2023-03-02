@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T01:05:05.596331+00:00", 9361, "Your mother is", "unranked", "Similar to: nonhierarchic", "Definition: not arranged in order hierarchically", "Synonyms: ungraded, unordered"]}
+{"data": ["2023-03-02T02:04:30.573808+00:00", 9362, "Your mother is", "bacillar", "Pronunciation: /b\u0259\u02c8s\u026al\u0259r/", "Definition: relating to or produced by or containing bacilli", "Synonyms: bacillary"]}
