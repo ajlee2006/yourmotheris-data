@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T02:04:45.285387+00:00", 9386, "Your mother is", "epidemiological", "Pronunciation: /\u02cc\u025bp\u026a\u02ccdimi\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to epidemiology", "Synonyms: epidemiologic"]}
+{"data": ["2023-03-03T03:05:19.689055+00:00", 9387, "Your mother is", "outmoded", "Pronunciation: /\u02cca\u028at\u02c8mo\u028ad\u026ad/", "Definition: out of fashion", "Synonyms: antique, demode, ex, old-fashioned, old-hat, passe, passee"]}
