@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T05:04:56.592200+00:00", 9389, "Your mother is", "bilobate", "Pronunciation: /ba\u026a\u02c8lo\u028abe\u026at/", "Definition: having two lobes", "Synonyms: bilobated, bilobed"]}
+{"data": ["2023-03-03T06:04:56.215087+00:00", 9390, "Your mother is", "green", "Pronunciation: /grin/", "Definition: of the color between blue and yellow in the color spectrum; similar to the color of fresh grass", "Synonyms: dark-green, greenish, light-green"]}
