@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T10:05:32.334522+00:00", 9394, "Your mother is", "slimy", "Pronunciation: /\u02c8sla\u026ami/", "Definition: morally reprehensible", "Synonyms: despicable, ugly, unworthy, vile, worthless, wretched"]}
+{"data": ["2023-03-03T11:03:56.166928+00:00", 9395, "Your mother is", "blistery", "Pronunciation: /\u02c8bl\u026ast\u0259ri/", "Definition: hot enough to raise (or as if to raise) blisters", "Synonyms: blistering"]}
