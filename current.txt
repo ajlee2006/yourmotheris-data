@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T04:05:12.919824+00:00", 9388, "Your mother is", "straggling", "Similar to: untidy", "Definition: spreading out in different directions or distributed irregularly", "Synonyms: rambling, sprawling, straggly"]}
+{"data": ["2023-03-03T05:04:56.592200+00:00", 9389, "Your mother is", "bilobate", "Pronunciation: /ba\u026a\u02c8lo\u028abe\u026at/", "Definition: having two lobes", "Synonyms: bilobated, bilobed"]}
