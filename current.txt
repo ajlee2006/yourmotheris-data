@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T19:04:20.220455+00:00", 9403, "Your mother is", "unprophetic", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8f\u025bt\u026ak/", "Definition: not prophetic; not foreseeing correctly", ""]}
+{"data": ["2023-03-03T20:04:21.808709+00:00", 9404, "Your mother is", "entangled", "Pronunciation: /\u025bn\u02c8t\u00e6\u014b\u0261\u028cld/", "Definition: deeply involved especially in something complicated", "Synonyms: embroiled"]}
