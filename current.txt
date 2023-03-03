@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T01:05:10.656498+00:00", 9385, "Your mother is", "heedless", "Pronunciation: /\u02c8hidl\u026as/", "Definition: characterized by careless unconcern", "Synonyms: reckless"]}
+{"data": ["2023-03-03T02:04:45.285387+00:00", 9386, "Your mother is", "epidemiological", "Pronunciation: /\u02cc\u025bp\u026a\u02ccdimi\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to epidemiology", "Synonyms: epidemiologic"]}
