@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T06:04:56.215087+00:00", 9390, "Your mother is", "green", "Pronunciation: /grin/", "Definition: of the color between blue and yellow in the color spectrum; similar to the color of fresh grass", "Synonyms: dark-green, greenish, light-green"]}
+{"data": ["2023-03-03T07:04:33.795970+00:00", 9391, "Your mother is", "extramural", "Pronunciation: /\u02cc\u025bkstr\u0259\u02c8mj\u028ar\u0259l/", "Definition: carried on outside the bounds of an institution or community", ""]}
