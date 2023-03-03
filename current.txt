@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T12:05:13.055635+00:00", 9396, "Your mother is", "dolorous", "Pronunciation: /\u02c8d\u0251l\u0259r\u0259s/", "Definition: showing sorrow", "Synonyms: dolourous, lachrymose, tearful, weeping"]}
+{"data": ["2023-03-03T13:04:25.364045+00:00", 9397, "Your mother is", "unfertilised", "Similar to: infertile", "Definition: not having been fertilized", "Synonyms: unfertilized, unimpregnated"]}
