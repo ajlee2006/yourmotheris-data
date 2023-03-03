@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T03:05:19.689055+00:00", 9387, "Your mother is", "outmoded", "Pronunciation: /\u02cca\u028at\u02c8mo\u028ad\u026ad/", "Definition: out of fashion", "Synonyms: antique, demode, ex, old-fashioned, old-hat, passe, passee"]}
+{"data": ["2023-03-03T04:05:12.919824+00:00", 9388, "Your mother is", "straggling", "Similar to: untidy", "Definition: spreading out in different directions or distributed irregularly", "Synonyms: rambling, sprawling, straggly"]}
