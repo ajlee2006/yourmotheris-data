@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T08:04:40.863728+00:00", 9392, "Your mother is", "brackish", "Pronunciation: /\u02c8br\u00e6k\u026a\u0283/", "Definition: slightly salty (especially from containing a mixture of seawater and fresh water)", "Synonyms: briny"]}
+{"data": ["2023-03-03T09:05:02.518333+00:00", 9393, "Your mother is", "iodinating", "", "Definition: combining or causing to combine with iodine", ""]}
