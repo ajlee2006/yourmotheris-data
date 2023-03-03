@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T00:06:33.640562+00:00", 9384, "Your mother is", "notorious", "Pronunciation: /no\u028a\u02c8to\u028ari\u0259s/", "Definition: known widely and usually unfavorably", "Synonyms: ill-famed, infamous"]}
+{"data": ["2023-03-03T01:05:10.656498+00:00", 9385, "Your mother is", "heedless", "Pronunciation: /\u02c8hidl\u026as/", "Definition: characterized by careless unconcern", "Synonyms: reckless"]}
