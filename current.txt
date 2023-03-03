@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T07:04:33.795970+00:00", 9391, "Your mother is", "extramural", "Pronunciation: /\u02cc\u025bkstr\u0259\u02c8mj\u028ar\u0259l/", "Definition: carried on outside the bounds of an institution or community", ""]}
+{"data": ["2023-03-03T08:04:40.863728+00:00", 9392, "Your mother is", "brackish", "Pronunciation: /\u02c8br\u00e6k\u026a\u0283/", "Definition: slightly salty (especially from containing a mixture of seawater and fresh water)", "Synonyms: briny"]}
