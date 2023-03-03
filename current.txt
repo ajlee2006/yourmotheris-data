@@ -1,1 +1,1 @@
-{"data": ["2023-03-02T23:03:34.187733+00:00", 9383, "Your mother is", "amino", "Pronunciation: /\u0259\u02c8mino\u028a/", "Definition: pertaining to or containing any of a group of organic compounds of nitrogen derived from ammonia", "Synonyms: aminic"]}
+{"data": ["2023-03-03T00:06:33.640562+00:00", 9384, "Your mother is", "notorious", "Pronunciation: /no\u028a\u02c8to\u028ari\u0259s/", "Definition: known widely and usually unfavorably", "Synonyms: ill-famed, infamous"]}
