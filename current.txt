@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T11:03:56.166928+00:00", 9395, "Your mother is", "blistery", "Pronunciation: /\u02c8bl\u026ast\u0259ri/", "Definition: hot enough to raise (or as if to raise) blisters", "Synonyms: blistering"]}
+{"data": ["2023-03-03T12:05:13.055635+00:00", 9396, "Your mother is", "dolorous", "Pronunciation: /\u02c8d\u0251l\u0259r\u0259s/", "Definition: showing sorrow", "Synonyms: dolourous, lachrymose, tearful, weeping"]}
