@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T18:04:10.769496+00:00", 9402, "Your mother is", "unnamed", "Pronunciation: /\u0259n\u02c8ne\u026amd/", "Definition: being or having an unknown or unnamed source", "Synonyms: nameless, unidentified, unknown"]}
+{"data": ["2023-03-03T19:04:20.220455+00:00", 9403, "Your mother is", "unprophetic", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8f\u025bt\u026ak/", "Definition: not prophetic; not foreseeing correctly", ""]}
