@@ -1,1 +1,1 @@
-{"data": ["2023-03-04T08:05:25.518508+00:00", 9416, "Your mother is", "spendthrift", "Pronunciation: /\u02c8sp\u025bnd\u02cc\u03b8r\u026aft/", "Definition: recklessly wasteful", "Synonyms: extravagant, prodigal, profligate"]}
+{"data": ["2023-03-04T09:05:30.007430+00:00", 9417, "Your mother is", "horrific", "Pronunciation: /h\u0254\u02c8r\u026af\u026ak/", "Definition: causing fear or dread or terror", "Synonyms: awful, dire, direful, dread, dreaded, dreadful, fearful, fearsome, frightening, horrendous, terrible"]}
