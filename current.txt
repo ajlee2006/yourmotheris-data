@@ -1,1 +1,1 @@
-{"data": ["2023-03-04T11:04:13.612934+00:00", 9419, "Your mother is", "rebellious", "Pronunciation: /r\u026a\u02c8b\u025blj\u0259s/", "Definition: discontented as toward authority", "Synonyms: disaffected, ill-affected, malcontent"]}
+{"data": ["2023-03-04T12:05:26.803550+00:00", 9420, "Your mother is", "arbitral", "Pronunciation: /\u02c8\u0251rb\u026atr\u0259l/", "Definition: relating to or resulting from arbitration", "Synonyms: arbitrational"]}
