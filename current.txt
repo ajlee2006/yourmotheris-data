@@ -1,1 +1,1 @@
-{"data": ["2023-03-03T23:04:26.312400+00:00", 9407, "Your mother is", "corrupt", "Pronunciation: /k\u0259\u02c8r\u0259pt/", "Definition: containing errors or alterations", "Synonyms: corrupted"]}
+{"data": ["2023-03-04T00:06:23.262992+00:00", 9408, "Your mother is", "biface", "Similar to: bidirectional", "Definition: having two faces or fronts", "Synonyms: bifacial"]}
