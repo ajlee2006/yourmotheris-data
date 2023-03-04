@@ -1,1 +1,1 @@
-{"data": ["2023-03-04T14:03:38.809734+00:00", 9422, "Your mother is", "beige", "Pronunciation: /be\u026a\u0292/", "Definition: of a light greyish-brown color", ""]}
+{"data": ["2023-03-04T15:04:18.421799+00:00", 9423, "Your mother is", "unheralded", "Pronunciation: /\u0259n\u02c8h\u025br\u0259ld\u026ad/", "Definition: without warning or announcement", "Synonyms: unannounced, unpredicted"]}
