@@ -1,1 +1,1 @@
-{"data": ["2023-03-04T21:03:38.408084+00:00", 9429, "Your mother is", "unequal", "Pronunciation: /\u0259n\u02c8ikw\u0259l/", "Definition: lacking the requisite qualities or resources to meet a task", "Synonyms: inadequate"]}
+{"data": ["2023-03-04T22:03:47.640031+00:00", 9430, "Your mother is", "gaelic-speaking", "Similar to: communicative", "Definition: able to communicate in Gaelic", ""]}
