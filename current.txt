@@ -1,1 +1,1 @@
-{"data": ["2023-03-04T12:05:26.803550+00:00", 9420, "Your mother is", "arbitral", "Pronunciation: /\u02c8\u0251rb\u026atr\u0259l/", "Definition: relating to or resulting from arbitration", "Synonyms: arbitrational"]}
+{"data": ["2023-03-04T13:04:12.829892+00:00", 9421, "Your mother is", "moony", "Pronunciation: /\u02c8muni/", "Definition: lighted by moonlight", "Synonyms: moonlit"]}
