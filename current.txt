@@ -1,1 +1,1 @@
-{"data": ["2023-03-04T17:03:55.353221+00:00", 9425, "Your mother is", "singhalese", "Pronunciation: /\u02ccs\u026a\u014b\u0261\u0259\u02c8liz/", "Definition: of or relating to the Sinhalese people", "Synonyms: sinhalese"]}
+{"data": ["2023-03-04T18:04:05.780581+00:00", 9426, "Your mother is", "unprecedented", "Pronunciation: /\u0259n\u02c8pr\u025bs\u026a\u02ccd\u025bnt\u026ad/", "Definition: having no precedent; novel", ""]}
