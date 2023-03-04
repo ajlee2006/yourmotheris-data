@@ -1,1 +1,1 @@
-{"data": ["2023-03-04T07:04:44.190980+00:00", 9415, "Your mother is", "cognisant", "Pronunciation: /\u02c8k\u0251gn\u026az\u0259nt/", "Definition: (sometimes followed by `of') having or showing knowledge or understanding or realization or perception", "Synonyms: aware, cognizant"]}
+{"data": ["2023-03-04T08:05:25.518508+00:00", 9416, "Your mother is", "spendthrift", "Pronunciation: /\u02c8sp\u025bnd\u02cc\u03b8r\u026aft/", "Definition: recklessly wasteful", "Synonyms: extravagant, prodigal, profligate"]}
