@@ -1,1 +1,1 @@
-{"data": ["2023-03-04T06:05:20.740226+00:00", 9414, "Your mother is", "fatherless", "Pronunciation: /\u02c8f\u0251\u00f0\u0259rl\u026as/", "Definition: having no living father", ""]}
+{"data": ["2023-03-04T07:04:44.190980+00:00", 9415, "Your mother is", "cognisant", "Pronunciation: /\u02c8k\u0251gn\u026az\u0259nt/", "Definition: (sometimes followed by `of') having or showing knowledge or understanding or realization or perception", "Synonyms: aware, cognizant"]}
