@@ -1,1 +1,1 @@
-{"data": ["2023-03-04T04:05:29.886131+00:00", 9412, "Your mother is", "unmanned", "Pronunciation: /\u0259n\u02c8m\u00e6nd/", "Definition: lacking a crew", "Synonyms: remote-controlled"]}
+{"data": ["2023-03-04T05:05:06.427228+00:00", 9413, "Your mother is", "national socialist", "", "Definition: relating to a form of socialism", "Synonyms: nazi"]}
