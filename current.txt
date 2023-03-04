@@ -1,1 +1,1 @@
-{"data": ["2023-03-04T01:05:27.168224+00:00", 9409, "Your mother is", "avellane", "", "Definition: pertaining to filberts or hazelnuts", "Synonyms: avellan"]}
+{"data": ["2023-03-04T02:04:47.862222+00:00", 9410, "Your mother is", "anisogamous", "Pronunciation: /\u02cc\u00e6na\u026a\u02c8s\u0251\u0261\u0259m\u0259s/", "Definition: relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape)", "Synonyms: anisogamic"]}
