@@ -1,1 +1,1 @@
-{"data": ["2023-03-04T03:04:40.090316+00:00", 9411, "Your mother is", "ectozoan", "", "Definition: of or relating to epizoa", "Synonyms: epizoan"]}
+{"data": ["2023-03-04T04:05:29.886131+00:00", 9412, "Your mother is", "unmanned", "Pronunciation: /\u0259n\u02c8m\u00e6nd/", "Definition: lacking a crew", "Synonyms: remote-controlled"]}
