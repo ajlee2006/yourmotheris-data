@@ -1,1 +1,1 @@
-{"data": ["2023-03-04T18:04:05.780581+00:00", 9426, "Your mother is", "unprecedented", "Pronunciation: /\u0259n\u02c8pr\u025bs\u026a\u02ccd\u025bnt\u026ad/", "Definition: having no precedent; novel", ""]}
+{"data": ["2023-03-04T19:03:43.819155+00:00", 9427, "Your mother is", "legitimate", "Pronunciation: /l\u026a\u02c8d\u0292\u026at\u0259\u02ccme\u026at/", "Definition: authorized, sanctioned by, or in accordance with law", "Synonyms: lawful, licit"]}
