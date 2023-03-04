@@ -1,1 +1,1 @@
-{"data": ["2023-03-04T00:06:23.262992+00:00", 9408, "Your mother is", "biface", "Similar to: bidirectional", "Definition: having two faces or fronts", "Synonyms: bifacial"]}
+{"data": ["2023-03-04T01:05:27.168224+00:00", 9409, "Your mother is", "avellane", "", "Definition: pertaining to filberts or hazelnuts", "Synonyms: avellan"]}
