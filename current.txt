@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T07:04:32.947936+00:00", 9439, "Your mother is", "wage-earning", "Similar to: blue-collar", "Definition: working for hourly wages rather than fixed (e.g. annual) salaries", "Synonyms: working-class"]}
+{"data": ["2023-03-05T08:04:16.647747+00:00", 9440, "Your mother is", "permeant", "Pronunciation: /\u02c8p\u025crmi\u0259nt/", "Definition: spreading or spread throughout", "Synonyms: permeating, permeative, pervasive"]}
