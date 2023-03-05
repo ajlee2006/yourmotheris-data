@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T01:03:40.341687+00:00", 9433, "Your mother is", "resinous", "Pronunciation: /\u02c8r\u025bz\u0259n\u0259s/", "Definition: having the characteristics of pitch or tar", "Synonyms: pitchy, resiny, tarry"]}
+{"data": ["2023-03-05T02:04:32.528001+00:00", 9434, "Your mother is", "unprocessed", "Pronunciation: /\u028cn\u02c8pr\u0254\u02ccs\u025bst/", "Definition: not refined or processed", "Synonyms: crude, unrefined"]}
