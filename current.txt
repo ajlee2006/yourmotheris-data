@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T10:04:37.695503+00:00", 9442, "Your mother is", "reddisn-purple", "Similar to: chromatic", "Definition: of purple tinged with red", "Synonyms: red-purple"]}
+{"data": ["2023-03-05T11:02:56.819807+00:00", 9443, "Your mother is", "settled", "Pronunciation: /\u02c8s\u025bt\u028cld/", "Definition: inhabited by colonists", "Synonyms: colonised, colonized"]}
