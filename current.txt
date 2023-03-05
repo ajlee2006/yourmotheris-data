@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T06:04:24.983293+00:00", 9438, "Your mother is", "unliterary", "Similar to: informal", "Definition: marked by lack of affectation or pedantry", "Synonyms: nonliterary"]}
+{"data": ["2023-03-05T07:04:32.947936+00:00", 9439, "Your mother is", "wage-earning", "Similar to: blue-collar", "Definition: working for hourly wages rather than fixed (e.g. annual) salaries", "Synonyms: working-class"]}
