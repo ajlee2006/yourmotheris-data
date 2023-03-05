@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T20:02:46.949638+00:00", 9452, "Your mother is", "s-shaped", "Pronunciation: /\u025bs-\u0283e\u026apt/", "Definition: shaped in the form of the letter S", ""]}
+{"data": ["2023-03-05T21:02:59.298719+00:00", 9453, "Your mother is", "unrepeatable", "Pronunciation: /\u02cc\u0259nri\u02c8pit\u0259b\u0259l/", "Definition: not able or fit to be repeated or quoted", "Synonyms: unquotable"]}
