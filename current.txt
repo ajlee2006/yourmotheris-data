@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T00:05:11.668270+00:00", 9432, "Your mother is", "scratchy", "Pronunciation: /\u02c8skr\u00e6\u02a7i/", "Definition: causing abrasion", "Synonyms: abrasive"]}
+{"data": ["2023-03-05T01:03:40.341687+00:00", 9433, "Your mother is", "resinous", "Pronunciation: /\u02c8r\u025bz\u0259n\u0259s/", "Definition: having the characteristics of pitch or tar", "Synonyms: pitchy, resiny, tarry"]}
