@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T08:04:16.647747+00:00", 9440, "Your mother is", "permeant", "Pronunciation: /\u02c8p\u025crmi\u0259nt/", "Definition: spreading or spread throughout", "Synonyms: permeating, permeative, pervasive"]}
+{"data": ["2023-03-05T09:04:33.646480+00:00", 9441, "Your mother is", "harsh-voiced", "Pronunciation: /h\u0251r\u0283-v\u0254\u026ast/", "Definition: having an unusually harsh sound", ""]}
