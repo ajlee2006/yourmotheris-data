@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T21:02:59.298719+00:00", 9453, "Your mother is", "unrepeatable", "Pronunciation: /\u02cc\u0259nri\u02c8pit\u0259b\u0259l/", "Definition: not able or fit to be repeated or quoted", "Synonyms: unquotable"]}
+{"data": ["2023-03-05T22:03:18.044751+00:00", 9454, "Your mother is", "fortissimo", "Pronunciation: /f\u0254r\u02c8t\u026as\u0259\u02ccmo\u028a/", "Definition: (chiefly a direction or description in music) very loud and strong", ""]}
