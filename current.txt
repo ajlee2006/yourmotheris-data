@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T04:04:32.600063+00:00", 9436, "Your mother is", "broiled", "Pronunciation: /br\u0254\u026ald/", "Definition: cooked by radiant heat (as over a grill)", "Synonyms: grilled"]}
+{"data": ["2023-03-05T05:04:02.818203+00:00", 9437, "Your mother is", "coalesced", "Pronunciation: /\u02ccko\u028a\u028c\u02c8l\u025bst/", "Definition: joined together into a whole", "Synonyms: amalgamate, amalgamated, consolidated, fused"]}
