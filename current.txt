@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T19:02:54.394972+00:00", 9451, "Your mother is", "wavy-grained", "Pronunciation: /\u02c8we\u026avi-gre\u026and/", "Definition: of timber; having fibers running irregularly rather than in parallel", "Synonyms: cross-grained, curly-grained"]}
+{"data": ["2023-03-05T20:02:46.949638+00:00", 9452, "Your mother is", "s-shaped", "Pronunciation: /\u025bs-\u0283e\u026apt/", "Definition: shaped in the form of the letter S", ""]}
