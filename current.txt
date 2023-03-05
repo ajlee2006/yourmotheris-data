@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T16:03:27.801394+00:00", 9448, "Your mother is", "unseasoned", "Pronunciation: /\u0259n\u02c8siz\u0259nd/", "Definition: without salt or seasoning", "Synonyms: unsalted"]}
+{"data": ["2023-03-05T17:03:29.877865+00:00", 9449, "Your mother is", "turned out", "Similar to: clad", "Definition: dressed well or smartly", ""]}
