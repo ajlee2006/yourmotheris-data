@@ -1,1 +1,1 @@
-{"data": ["2023-03-04T23:03:58.274898+00:00", 9431, "Your mother is", "impertinent", "Pronunciation: /\u026am\u02c8p\u025crt\u0259n\u0259nt/", "Definition: improperly forward or bold", "Synonyms: fresh, impudent, overbold, sassy, saucy, smart, wise"]}
+{"data": ["2023-03-05T00:05:11.668270+00:00", 9432, "Your mother is", "scratchy", "Pronunciation: /\u02c8skr\u00e6\u02a7i/", "Definition: causing abrasion", "Synonyms: abrasive"]}
