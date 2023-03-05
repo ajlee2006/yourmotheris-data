@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T18:02:45.944688+00:00", 9450, "Your mother is", "bacilliform", "Pronunciation: /b\u0259\u02c8s\u026al\u026a\u02ccfo\u028arm/", "Definition: formed like a bacillus", "Synonyms: bacillar, bacillary, baculiform, rod-shaped"]}
+{"data": ["2023-03-05T19:02:54.394972+00:00", 9451, "Your mother is", "wavy-grained", "Pronunciation: /\u02c8we\u026avi-gre\u026and/", "Definition: of timber; having fibers running irregularly rather than in parallel", "Synonyms: cross-grained, curly-grained"]}
