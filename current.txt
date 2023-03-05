@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T09:04:33.646480+00:00", 9441, "Your mother is", "harsh-voiced", "Pronunciation: /h\u0251r\u0283-v\u0254\u026ast/", "Definition: having an unusually harsh sound", ""]}
+{"data": ["2023-03-05T10:04:37.695503+00:00", 9442, "Your mother is", "reddisn-purple", "Similar to: chromatic", "Definition: of purple tinged with red", "Synonyms: red-purple"]}
