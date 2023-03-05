@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T03:04:01.950198+00:00", 9435, "Your mother is", "inarguable", "Pronunciation: /\u026an\u02c8\u0251rgju\u0259b\u0259l/", "Definition: against which no argument can be made", "Synonyms: unarguable"]}
+{"data": ["2023-03-05T04:04:32.600063+00:00", 9436, "Your mother is", "broiled", "Pronunciation: /br\u0254\u026ald/", "Definition: cooked by radiant heat (as over a grill)", "Synonyms: grilled"]}
