@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T22:02:58.087161+00:00", 9478, "Your mother is", "unambiguous", "Pronunciation: /\u02cc\u028cn\u00e6m\u02c8b\u026a\u0261j\u028cw\u028cs/", "Definition: admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion", "Synonyms: unequivocal, univocal"]}
+{"data": ["2023-03-06T23:03:07.033291+00:00", 9479, "Your mother is", "amalgamate", "Pronunciation: /\u0259\u02c8m\u00e6lg\u0259\u02ccme\u026at/", "Definition: joined together into a whole", "Synonyms: amalgamated, coalesced, consolidated, fused"]}
