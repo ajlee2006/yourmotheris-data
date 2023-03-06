@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T10:04:10.630604+00:00", 9466, "Your mother is", "commiserative", "Similar to: sympathetic", "Definition: feeling or expressing sympathy", ""]}
+{"data": ["2023-03-06T11:04:08.655862+00:00", 9467, "Your mother is", "weather", "Pronunciation: /\u02c8w\u025b\u00f0\u0259r/", "Definition: towards the side exposed to wind", "Synonyms: upwind"]}
