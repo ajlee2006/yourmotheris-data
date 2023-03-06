@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T00:05:14.932852+00:00", 9456, "Your mother is", "earliest", "Pronunciation: /\u02c8\u025drli\u028cst/", "Definition: (comparative and superlative of `early') more early than; most early", "Synonyms: earlier"]}
+{"data": ["2023-03-06T01:03:04.148043+00:00", 9457, "Your mother is", "nonplused", "Similar to: perplexed", "Definition: filled with bewilderment", "Synonyms: at a loss, nonplussed, puzzled"]}
