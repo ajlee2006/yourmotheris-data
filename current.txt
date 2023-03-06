@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T06:02:54.337968+00:00", 9462, "Your mother is", "heavy-limbed", "Pronunciation: /\u02c8h\u025bvi-l\u026amd/", "Definition: having heavy limbs", ""]}
+{"data": ["2023-03-06T07:03:21.278448+00:00", 9463, "Your mother is", "stylised", "Similar to: artificial", "Definition: using artistic forms and conventions to create effects; not natural or spontaneous", "Synonyms: conventionalised, conventionalized, stylized"]}
