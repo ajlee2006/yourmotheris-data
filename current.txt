@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T08:04:28.303034+00:00", 9464, "Your mother is", "doglike", "Pronunciation: /\u02c8d\u0254\u0261\u02ccla\u026ak/", "Definition: resembling a dog; especially in devotion", ""]}
+{"data": ["2023-03-06T09:04:33.641795+00:00", 9465, "Your mother is", "autarkic", "Similar to: independent", "Definition: of countries; not relying on imports", "Synonyms: autarkical"]}
