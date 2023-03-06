@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T02:02:55.792210+00:00", 9458, "Your mother is", "peachy-coloured", "Similar to: chromatic", "Definition: of something resembling a peach in color", "Synonyms: peachy, peachy-colored"]}
+{"data": ["2023-03-06T03:02:48.162512+00:00", 9459, "Your mother is", "thousandth", "Pronunciation: /\u02c8\u03b8a\u028az\u0259nd\u03b8/", "Definition: the ordinal number of one thousand in counting order", "Synonyms: 1000th"]}
