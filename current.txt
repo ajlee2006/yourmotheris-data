@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T20:03:23.752238+00:00", 9476, "Your mother is", "approbatory", "Pronunciation: /\u0259\u02c8pro\u028ab\u0259\u02ccto\u028ari/", "Definition: expressing or manifesting praise or approval", "Synonyms: affirmative, approbative, approving, plausive"]}
+{"data": ["2023-03-06T21:03:26.224765+00:00", 9477, "Your mother is", "xl", "Similar to: cardinal", "Definition: being ten more than thirty", "Synonyms: 40, forty, twoscore"]}
