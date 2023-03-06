@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T16:04:00.227663+00:00", 9472, "Your mother is", "comfortless", "Pronunciation: /\u02c8k\u0259mf\u0259tl\u025bs/", "Definition: without comfort", ""]}
+{"data": ["2023-03-06T17:03:56.691516+00:00", 9473, "Your mother is", "tranquilising", "Similar to: depressant", "Definition: tending to soothe or tranquilize", "Synonyms: ataractic, ataraxic, sedative, tranquilizing, tranquillising, tranquillizing"]}
