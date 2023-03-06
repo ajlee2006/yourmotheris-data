@@ -1,1 +1,1 @@
-{"data": ["2023-03-05T23:03:29.831129+00:00", 9455, "Your mother is", "sixtieth", "Pronunciation: /\u02c8s\u026aksti\u026a\u03b8/", "Definition: the ordinal number of sixty in counting order", "Synonyms: 60th"]}
+{"data": ["2023-03-06T00:05:14.932852+00:00", 9456, "Your mother is", "earliest", "Pronunciation: /\u02c8\u025drli\u028cst/", "Definition: (comparative and superlative of `early') more early than; most early", "Synonyms: earlier"]}
