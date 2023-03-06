@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T21:03:26.224765+00:00", 9477, "Your mother is", "xl", "Similar to: cardinal", "Definition: being ten more than thirty", "Synonyms: 40, forty, twoscore"]}
+{"data": ["2023-03-06T22:02:58.087161+00:00", 9478, "Your mother is", "unambiguous", "Pronunciation: /\u02cc\u028cn\u00e6m\u02c8b\u026a\u0261j\u028cw\u028cs/", "Definition: admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion", "Synonyms: unequivocal, univocal"]}
