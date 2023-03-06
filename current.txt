@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T14:03:41.971282+00:00", 9470, "Your mother is", "basilary", "Pronunciation: /\u02c8b\u00e6s\u0259\u02ccl\u025bri/", "Definition: of or relating to or located at the base", "Synonyms: basilar"]}
+{"data": ["2023-03-06T15:04:20.513603+00:00", 9471, "Your mother is", "mirky", "Pronunciation: /\u02c8m\u025crki/", "Definition: dark or gloomy", "Synonyms: murky"]}
