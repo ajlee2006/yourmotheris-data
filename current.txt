@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T13:03:55.358807+00:00", 9469, "Your mother is", "discoverable", "Pronunciation: /d\u026a\u02c8sk\u028cv\u025dr\u028cb\u028cl/", "Definition: capable of being ascertained or found out", "Synonyms: ascertainable"]}
+{"data": ["2023-03-06T14:03:41.971282+00:00", 9470, "Your mother is", "basilary", "Pronunciation: /\u02c8b\u00e6s\u0259\u02ccl\u025bri/", "Definition: of or relating to or located at the base", "Synonyms: basilar"]}
