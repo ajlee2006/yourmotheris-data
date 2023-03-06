@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T05:03:22.316298+00:00", 9461, "Your mother is", "gouty", "Pronunciation: /\u02c8\u0261a\u028ati/", "Definition: suffering from gout", ""]}
+{"data": ["2023-03-06T06:02:54.337968+00:00", 9462, "Your mother is", "heavy-limbed", "Pronunciation: /\u02c8h\u025bvi-l\u026amd/", "Definition: having heavy limbs", ""]}
