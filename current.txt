@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T17:03:56.691516+00:00", 9473, "Your mother is", "tranquilising", "Similar to: depressant", "Definition: tending to soothe or tranquilize", "Synonyms: ataractic, ataraxic, sedative, tranquilizing, tranquillising, tranquillizing"]}
+{"data": ["2023-03-06T18:04:20.891492+00:00", 9474, "Your mother is", "pyrolignic", "", "Definition: of a substance produced by the effect of heat on wood, especially by destructive distillation", "Synonyms: pyroligneous"]}
