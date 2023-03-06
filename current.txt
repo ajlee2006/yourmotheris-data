@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T03:02:48.162512+00:00", 9459, "Your mother is", "thousandth", "Pronunciation: /\u02c8\u03b8a\u028az\u0259nd\u03b8/", "Definition: the ordinal number of one thousand in counting order", "Synonyms: 1000th"]}
+{"data": ["2023-03-06T04:03:08.458616+00:00", 9460, "Your mother is", "nonvolatilizable", "", "Definition: not volatilizing readily", "Synonyms: nonvolatile, nonvolatilisable"]}
