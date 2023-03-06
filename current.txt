@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T15:04:20.513603+00:00", 9471, "Your mother is", "mirky", "Pronunciation: /\u02c8m\u025crki/", "Definition: dark or gloomy", "Synonyms: murky"]}
+{"data": ["2023-03-06T16:04:00.227663+00:00", 9472, "Your mother is", "comfortless", "Pronunciation: /\u02c8k\u0259mf\u0259tl\u025bs/", "Definition: without comfort", ""]}
