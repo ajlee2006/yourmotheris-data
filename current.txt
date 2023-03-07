@@ -1,1 +1,1 @@
-{"data": ["2023-03-07T05:03:51.088137+00:00", 9485, "Your mother is", "red-streaked", "Similar to: patterned", "Definition: having red stripes", "Synonyms: red-striped, reddish-striped"]}
+{"data": ["2023-03-07T06:03:59.726529+00:00", 9486, "Your mother is", "last-place", "Similar to: worst", "Definition: lowest in rank or importance", "Synonyms: last, lowest"]}
