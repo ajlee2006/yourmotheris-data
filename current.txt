@@ -1,1 +1,1 @@
-{"data": ["2023-03-07T11:04:21.045351+00:00", 9491, "Your mother is", "caducous", "Pronunciation: /k\u0259\u02c8duk\u0259s/", "Definition: shed at an early stage of development", "Synonyms: shed"]}
+{"data": ["2023-03-07T12:03:47.527097+00:00", 9492, "Your mother is", "10-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with ten members", "Synonyms: ten-membered"]}
