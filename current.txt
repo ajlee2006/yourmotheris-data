@@ -1,1 +1,1 @@
-{"data": ["2023-03-07T02:04:16.298958+00:00", 9482, "Your mother is", "forged", "Pronunciation: /f\u0254rd\u0292d/", "Definition: reproduced fraudulently", "Synonyms: bad"]}
+{"data": ["2023-03-07T03:03:55.721163+00:00", 9483, "Your mother is", "acinous", "Pronunciation: /\u02c8\u00e6s\u0259n\u0259s/", "Definition: pertaining to one of the small sacs (as in a compound gland)", "Synonyms: acinar, acinic, acinose"]}
