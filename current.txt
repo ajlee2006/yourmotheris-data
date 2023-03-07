@@ -1,1 +1,1 @@
-{"data": ["2023-03-07T14:03:25.235420+00:00", 9494, "Your mother is", "skyward", "Pronunciation: /\u02c8ska\u026aw\u0259rd/", "Definition: directed toward heaven or the sky", "Synonyms: heavenward"]}
+{"data": ["2023-03-07T15:04:06.309719+00:00", 9495, "Your mother is", "ninetieth", "Pronunciation: /na\u026a/", "Definition: the ordinal number of ninety in counting order", "Synonyms: 90th"]}
