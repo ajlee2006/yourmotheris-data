@@ -1,1 +1,1 @@
-{"data": ["2023-03-07T16:04:31.513865+00:00", 9496, "Your mother is", "deferent", "Pronunciation: /\u02c8d\u025bf\u0259r\u0259nt/", "Definition: showing deference", "Synonyms: deferential, regardful"]}
+{"data": ["2023-03-07T17:03:10.146173+00:00", 9497, "Your mother is", "recuperative", "Pronunciation: /r\u026a\u02c8kup\u0259\u02ccre\u026at\u026av/", "Definition: promoting recuperation", "Synonyms: restorative"]}
