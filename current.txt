@@ -1,1 +1,1 @@
-{"data": ["2023-03-07T21:03:07.033953+00:00", 9501, "Your mother is", "parenthetical", "Similar to: incident", "Definition: qualifying or explaining; placed or as if placed in parentheses", "Synonyms: parenthetic"]}
+{"data": ["2023-03-07T22:03:25.552731+00:00", 9502, "Your mother is", "obovate", "Pronunciation: /\u0251b\u02c8o\u028ave\u026at/", "Definition: (of a leaf shape) egg-shaped with the narrower end at the base", ""]}
