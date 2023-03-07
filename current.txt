@@ -1,1 +1,1 @@
-{"data": ["2023-03-07T12:03:47.527097+00:00", 9492, "Your mother is", "10-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with ten members", "Synonyms: ten-membered"]}
+{"data": ["2023-03-07T13:04:24.131032+00:00", 9493, "Your mother is", "relativistic", "Pronunciation: /\u02ccr\u025bl\u0259t\u026a\u02c8v\u026ast\u026ak/", "Definition: relating or subject to the special or the general theory of relativity", ""]}
