@@ -1,1 +1,1 @@
-{"data": ["2023-03-07T08:04:15.601056+00:00", 9488, "Your mother is", "unsexed", "Pronunciation: /\u0259n\u02c8s\u025bkst/", "Definition: deprived of sexual capacity or sexual attributes", "Synonyms: castrated"]}
+{"data": ["2023-03-07T09:04:04.541359+00:00", 9489, "Your mother is", "barbate", "Pronunciation: /\u02c8b\u0251rbe\u026at/", "Definition: having hair on the cheeks and chin", "Synonyms: bearded, bewhiskered, whiskered, whiskery"]}
