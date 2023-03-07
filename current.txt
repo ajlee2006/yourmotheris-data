@@ -1,1 +1,1 @@
-{"data": ["2023-03-07T18:02:40.177519+00:00", 9498, "Your mother is", "multipartite", "Pronunciation: /\u02ccm\u0259lt\u026a\u02c8p\u0251rta\u026at/", "Definition: involving more than two parties", ""]}
+{"data": ["2023-03-07T19:03:31.232141+00:00", 9499, "Your mother is", "circumscribed", "Pronunciation: /\u02ccs\u025drk\u028cm\u02c8skra\u026abd/", "Definition: subject to limits or subjected to limits", "Synonyms: limited"]}
