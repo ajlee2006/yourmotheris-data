@@ -1,1 +1,1 @@
-{"data": ["2023-03-06T23:03:07.033291+00:00", 9479, "Your mother is", "amalgamate", "Pronunciation: /\u0259\u02c8m\u00e6lg\u0259\u02ccme\u026at/", "Definition: joined together into a whole", "Synonyms: amalgamated, coalesced, consolidated, fused"]}
+{"data": ["2023-03-07T00:05:27.164956+00:00", 9480, "Your mother is", "planoconvex", "Pronunciation: /\u02ccple\u026ano\u028a\u02c8k\u0251nv\u025bks/", "Definition: flat on one side and convex on the other", ""]}
