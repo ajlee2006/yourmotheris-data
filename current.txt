@@ -1,1 +1,1 @@
-{"data": ["2023-03-07T10:04:31.439492+00:00", 9490, "Your mother is", "desiccate", "Pronunciation: /\u02c8d\u025bs\u0259\u02ccke\u026at/", "Definition: lacking vitality or spirit; lifeless", "Synonyms: arid, desiccated"]}
+{"data": ["2023-03-07T11:04:21.045351+00:00", 9491, "Your mother is", "caducous", "Pronunciation: /k\u0259\u02c8duk\u0259s/", "Definition: shed at an early stage of development", "Synonyms: shed"]}
