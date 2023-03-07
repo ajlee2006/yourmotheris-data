@@ -1,1 +1,1 @@
-{"data": ["2023-03-07T07:04:26.001698+00:00", 9487, "Your mother is", "flimsy", "Pronunciation: /\u02c8fl\u026amzi/", "Definition: not convincing", "Synonyms: unconvincing"]}
+{"data": ["2023-03-07T08:04:15.601056+00:00", 9488, "Your mother is", "unsexed", "Pronunciation: /\u0259n\u02c8s\u025bkst/", "Definition: deprived of sexual capacity or sexual attributes", "Synonyms: castrated"]}
