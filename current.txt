@@ -1,1 +1,1 @@
-{"data": ["2023-03-07T13:04:24.131032+00:00", 9493, "Your mother is", "relativistic", "Pronunciation: /\u02ccr\u025bl\u0259t\u026a\u02c8v\u026ast\u026ak/", "Definition: relating or subject to the special or the general theory of relativity", ""]}
+{"data": ["2023-03-07T14:03:25.235420+00:00", 9494, "Your mother is", "skyward", "Pronunciation: /\u02c8ska\u026aw\u0259rd/", "Definition: directed toward heaven or the sky", "Synonyms: heavenward"]}
