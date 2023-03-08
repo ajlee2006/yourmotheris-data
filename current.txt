@@ -1,1 +1,1 @@
-{"data": ["2023-03-08T03:04:21.290656+00:00", 9507, "Your mother is", "incapacitating", "Pronunciation: /\u026ank\u028c\u02c8p\u00e6s\u026a\u02ccte\u026at\u026a\u014b/", "Definition: that cripples or disables or incapacitates", "Synonyms: crippling, disabling"]}
+{"data": ["2023-03-08T04:04:36.232712+00:00", 9508, "Your mother is", "labiate", "Pronunciation: /\u02c8le\u026abi\u02cce\u026at/", "Definition: having lips or parts that resemble lips", "Synonyms: liplike"]}
