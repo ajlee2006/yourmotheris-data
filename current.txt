@@ -1,1 +1,1 @@
-{"data": ["2023-03-08T00:05:00.106625+00:00", 9504, "Your mother is", "agreed", "Pronunciation: /\u0259\u02c8grid/", "Definition: united by being of the same opinion", "Synonyms: in agreement"]}
+{"data": ["2023-03-08T01:03:50.323178+00:00", 9505, "Your mother is", "top-heavy", "Pronunciation: /t\u0251p-\u02c8h\u025bvi/", "Definition: unstable by being overloaded at the top", ""]}
