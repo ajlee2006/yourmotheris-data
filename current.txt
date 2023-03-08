@@ -1,1 +1,1 @@
-{"data": ["2023-03-08T18:03:11.886589+00:00", 9522, "Your mother is", "self-aggrandizing", "Pronunciation: /\u02c8s\u025blf\u0259\u02c8gr\u00e6nda\u026az\u026a\u014b/", "Definition: of or relating to or characteristic of self-aggrandizement", "Synonyms: self-aggrandising"]}
+{"data": ["2023-03-08T19:02:58.574860+00:00", 9523, "Your mother is", "calibrated", "Pronunciation: /\u02c8k\u00e6l\u028c\u02ccbre\u026at\u028cd/", "Definition: marked with or divided into degrees", "Synonyms: graduated"]}
