@@ -1,1 +1,1 @@
-{"data": ["2023-03-08T20:03:11.352998+00:00", 9524, "Your mother is", "oppressive", "Pronunciation: /\u0259\u02c8pr\u025bs\u026av/", "Definition: marked by unjust severity or arbitrary behavior", "Synonyms: tyrannical, tyrannous"]}
+{"data": ["2023-03-08T21:02:58.307502+00:00", 9525, "Your mother is", "attended", "Pronunciation: /\u028c\u02c8t\u025bnd\u028cd/", "Definition: having a caretaker or other watcher", "Synonyms: tended to"]}
