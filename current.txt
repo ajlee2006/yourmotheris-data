@@ -1,1 +1,1 @@
-{"data": ["2023-03-08T15:02:39.053548+00:00", 9519, "Your mother is", "fifty-nine", "Pronunciation: /\u02c8f\u026afti-na\u026an/", "Definition: being nine more than fifty", "Synonyms: 59, ilx"]}
+{"data": ["2023-03-08T16:03:03.125934+00:00", 9520, "Your mother is", "kind", "Pronunciation: /ka\u026and/", "Definition: agreeable, conducive to comfort", "Synonyms: genial"]}
