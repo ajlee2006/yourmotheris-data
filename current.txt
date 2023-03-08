@@ -1,1 +1,1 @@
-{"data": ["2023-03-08T06:03:51.576972+00:00", 9510, "Your mother is", "antipathetical", "Similar to: disinclined", "Definition: (usually followed by `to') strongly opposed", "Synonyms: antipathetic, averse, indisposed, loath, loth"]}
+{"data": ["2023-03-08T07:03:21.566194+00:00", 9511, "Your mother is", "irrevokable", "Similar to: sealed", "Definition: incapable of being retracted or revoked", "Synonyms: irrevocable"]}
