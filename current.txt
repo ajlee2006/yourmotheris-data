@@ -1,1 +1,1 @@
-{"data": ["2023-03-08T08:04:13.252949+00:00", 9512, "Your mother is", "polyphonic", "Pronunciation: /\u02ccp\u0251li\u02c8f\u0251n\u026ak/", "Definition: of or relating to or characterized by polyphony", "Synonyms: polyphonous"]}
+{"data": ["2023-03-08T09:03:06.354996+00:00", 9513, "Your mother is", "insusceptible", "Pronunciation: /\u02cc\u026ans\u0259\u02c8s\u025bpt\u0259b\u0259l/", "Definition: not susceptible to", "Synonyms: unsusceptible"]}
