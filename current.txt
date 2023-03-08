@@ -1,1 +1,1 @@
-{"data": ["2023-03-08T21:02:58.307502+00:00", 9525, "Your mother is", "attended", "Pronunciation: /\u028c\u02c8t\u025bnd\u028cd/", "Definition: having a caretaker or other watcher", "Synonyms: tended to"]}
+{"data": ["2023-03-08T22:03:05.626724+00:00", 9526, "Your mother is", "moorish", "Pronunciation: /\u02c8m\u028ar\u026a\u0283/", "Definition: relating to or characteristic of the Moors", "Synonyms: moresque"]}
