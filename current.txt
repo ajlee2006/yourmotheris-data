@@ -1,1 +1,1 @@
-{"data": ["2023-03-09T06:03:18.688240+00:00", 9534, "Your mother is", "punitive", "Pronunciation: /\u02c8pjun\u026at\u026av/", "Definition: inflicting punishment", "Synonyms: punitory"]}
+{"data": ["2023-03-09T07:02:59.372131+00:00", 9535, "Your mother is", "unconscientious", "Similar to: conscienceless", "Definition: not conscientious", ""]}
