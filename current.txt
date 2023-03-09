@@ -1,1 +1,1 @@
-{"data": ["2023-03-09T02:03:34.781193+00:00", 9530, "Your mother is", "rosy-colored", "Similar to: colored", "Definition: having a rose color", "Synonyms: rose-colored"]}
+{"data": ["2023-03-09T03:03:28.908425+00:00", 9531, "Your mother is", "unbent", "Pronunciation: /\u0259n\u02c8b\u025bnt/", "Definition: erect in posture", "Synonyms: straight, unbowed"]}
