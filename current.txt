@@ -1,1 +1,1 @@
-{"data": ["2023-03-09T14:03:20.610394+00:00", 9542, "Your mother is", "frontmost", "Similar to: front", "Definition: preceding all others in spatial position", "Synonyms: foremost"]}
+{"data": ["2023-03-09T15:03:23.126002+00:00", 9543, "Your mother is", "purifying", "Pronunciation: /\u02c8pj\u028ar\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: acting like an antiseptic", "Synonyms: cleansing"]}
