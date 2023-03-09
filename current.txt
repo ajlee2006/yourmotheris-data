@@ -1,1 +1,1 @@
-{"data": ["2023-03-09T22:02:56.054096+00:00", 9550, "Your mother is", "on fire", "Similar to: lighted", "Definition: lighted up by or as by fire or flame", "Synonyms: ablaze, afire, aflame, aflare, alight"]}
+{"data": ["2023-03-09T23:02:46.701249+00:00", 9551, "Your mother is", "purple-white", "Similar to: achromatic", "Definition: of white tinged with purple", "Synonyms: purplish-white"]}
