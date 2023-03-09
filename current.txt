@@ -1,1 +1,1 @@
-{"data": ["2023-03-09T19:03:35.752094+00:00", 9547, "Your mother is", "lacklustre", "Pronunciation: /\u02c8l\u00e6k\u02ccl\u0259st\u0259r/", "Definition: lacking brilliance or vitality", "Synonyms: lackluster, lusterless, lustreless"]}
+{"data": ["2023-03-09T20:02:33.835547+00:00", 9548, "Your mother is", "archegoniate", "Pronunciation: /\u02cc\u0251rk\u0259\u02c8\u0261o\u028ani\u026at/", "Definition: of or relating to an archegonium", "Synonyms: archegonial"]}
