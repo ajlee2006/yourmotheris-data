@@ -1,1 +1,1 @@
-{"data": ["2023-03-09T20:02:33.835547+00:00", 9548, "Your mother is", "archegoniate", "Pronunciation: /\u02cc\u0251rk\u0259\u02c8\u0261o\u028ani\u026at/", "Definition: of or relating to an archegonium", "Synonyms: archegonial"]}
+{"data": ["2023-03-09T21:02:50.426364+00:00", 9549, "Your mother is", "pernickety", "Pronunciation: /p\u0259r\u02c8n\u026ak\u026ati/", "Definition: characterized by excessive precision and attention to trivial details", "Synonyms: persnickety"]}
