@@ -1,1 +1,1 @@
-{"data": ["2023-03-09T16:03:19.880792+00:00", 9544, "Your mother is", "saddled", "Pronunciation: /\u02c8s\u00e6d\u028cld/", "Definition: subject to an imposed burden", ""]}
+{"data": ["2023-03-09T17:02:48.803935+00:00", 9545, "Your mother is", "suicidal", "Pronunciation: /\u02ccsu\u026a\u02c8sa\u026ad\u0259l/", "Definition: dangerous to yourself or your interests", "Synonyms: self-destructive"]}
