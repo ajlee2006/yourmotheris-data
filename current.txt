@@ -1,1 +1,1 @@
-{"data": ["2023-03-09T21:02:50.426364+00:00", 9549, "Your mother is", "pernickety", "Pronunciation: /p\u0259r\u02c8n\u026ak\u026ati/", "Definition: characterized by excessive precision and attention to trivial details", "Synonyms: persnickety"]}
+{"data": ["2023-03-09T22:02:56.054096+00:00", 9550, "Your mother is", "on fire", "Similar to: lighted", "Definition: lighted up by or as by fire or flame", "Synonyms: ablaze, afire, aflame, aflare, alight"]}
