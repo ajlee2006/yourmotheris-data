@@ -1,1 +1,1 @@
-{"data": ["2023-03-09T13:03:27.223498+00:00", 9541, "Your mother is", "eased", "Pronunciation: /izd/", "Definition: (of pain or sorrow) made easier to bear", "Synonyms: alleviated, relieved"]}
+{"data": ["2023-03-09T14:03:20.610394+00:00", 9542, "Your mother is", "frontmost", "Similar to: front", "Definition: preceding all others in spatial position", "Synonyms: foremost"]}
