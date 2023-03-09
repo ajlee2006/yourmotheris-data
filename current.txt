@@ -1,1 +1,1 @@
-{"data": ["2023-03-09T12:03:33.627167+00:00", 9540, "Your mother is", "laudable", "Pronunciation: /\u02c8l\u0254d\u0259b\u0259l/", "Definition: worthy of high praise", "Synonyms: applaudable, commendable, praiseworthy"]}
+{"data": ["2023-03-09T13:03:27.223498+00:00", 9541, "Your mother is", "eased", "Pronunciation: /izd/", "Definition: (of pain or sorrow) made easier to bear", "Synonyms: alleviated, relieved"]}
