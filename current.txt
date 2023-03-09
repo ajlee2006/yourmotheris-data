@@ -1,1 +1,1 @@
-{"data": ["2023-03-09T17:02:48.803935+00:00", 9545, "Your mother is", "suicidal", "Pronunciation: /\u02ccsu\u026a\u02c8sa\u026ad\u0259l/", "Definition: dangerous to yourself or your interests", "Synonyms: self-destructive"]}
+{"data": ["2023-03-09T18:03:32.644783+00:00", 9546, "Your mother is", "diplomatical", "Similar to: kid-glove", "Definition: using or marked by tact in dealing with sensitive matters or people", "Synonyms: diplomatic"]}
