@@ -1,1 +1,1 @@
-{"data": ["2023-03-10T02:02:41.704824+00:00", 9554, "Your mother is", "bright-red", "Similar to: chromatic", "Definition: of the red of fresh raspberries", "Synonyms: raspberry-red"]}
+{"data": ["2023-03-10T03:03:01.988931+00:00", 9555, "Your mother is", "flavorous", "Pronunciation: /\u02c8fle\u026av\u0259r\u0259s/", "Definition: full of flavor", "Synonyms: flavorful, flavorsome, flavourful, flavourous, flavoursome, sapid, saporous"]}
