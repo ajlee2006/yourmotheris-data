@@ -1,1 +1,1 @@
-{"data": ["2023-03-10T12:04:11.123403+00:00", 9564, "Your mother is", "awake", "Pronunciation: /\u0259\u02c8we\u026ak/", "Definition: mentally perceptive and responsive", "Synonyms: alert, alive"]}
+{"data": ["2023-03-10T13:04:11.611893+00:00", 9565, "Your mother is", "endangered", "Pronunciation: /\u025bn\u02c8de\u026and\u0292\u025drd/", "Definition: (of flora or fauna) in imminent danger of extinction", ""]}
