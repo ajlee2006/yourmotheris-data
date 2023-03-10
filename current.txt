@@ -1,1 +1,1 @@
-{"data": ["2023-03-10T17:04:38.040166+00:00", 9569, "Your mother is", "biogenic", "Pronunciation: /\u02ccba\u026ao\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: essential for maintaining the fundamental life processes", ""]}
+{"data": ["2023-03-10T18:04:38.636425+00:00", 9570, "Your mother is", "compressible", "Pronunciation: /k\u0259m\u02c8pr\u025bs\u026ab\u0259l/", "Definition: capable of being easily compressed", "Synonyms: squeezable"]}
