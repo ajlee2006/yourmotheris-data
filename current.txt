@@ -1,1 +1,1 @@
-{"data": ["2023-03-10T22:03:42.003431+00:00", 9574, "Your mother is", "homeless", "Pronunciation: /\u02c8ho\u028aml\u026as/", "Definition: physically or spiritually homeless or deprived of security", "Synonyms: dispossessed, roofless"]}
+{"data": ["2023-03-10T23:02:47.749487+00:00", 9575, "Your mother is", "tanned", "Pronunciation: /t\u00e6nd/", "Definition: (of skin) having a tan color from exposure to the sun", "Synonyms: bronzed, suntanned"]}
