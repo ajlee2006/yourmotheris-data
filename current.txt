@@ -1,1 +1,1 @@
-{"data": ["2023-03-10T08:03:59.831207+00:00", 9560, "Your mother is", "wormy", "Pronunciation: /\u02c8w\u025crmi/", "Definition: infested with or damaged (as if eaten) by worms", "Synonyms: vermiculate, worm-eaten"]}
+{"data": ["2023-03-10T09:04:20.190181+00:00", 9561, "Your mother is", "sympathetic", "Pronunciation: /\u02ccs\u026amp\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: (of characters in literature or drama) evoking empathic or sympathetic feelings", "Synonyms: appealing, likable, likeable"]}
