@@ -1,1 +1,1 @@
-{"data": ["2023-03-10T07:04:27.061759+00:00", 9559, "Your mother is", "cumulous", "Pronunciation: /\u02c8kjumj\u0259l\u0259s/", "Definition: thrown together in a pile", ""]}
+{"data": ["2023-03-10T08:03:59.831207+00:00", 9560, "Your mother is", "wormy", "Pronunciation: /\u02c8w\u025crmi/", "Definition: infested with or damaged (as if eaten) by worms", "Synonyms: vermiculate, worm-eaten"]}
