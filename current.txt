@@ -1,1 +1,1 @@
-{"data": ["2023-03-10T14:03:38.934395+00:00", 9566, "Your mother is", "right-side-out", "Similar to: unturned", "Definition: of fabric or clothing", ""]}
+{"data": ["2023-03-10T15:04:09.507544+00:00", 9567, "Your mother is", "diaphoretic", "Pronunciation: /\u02ccda\u026a\u0259f\u0259\u02c8r\u025bt\u026ak/", "Definition: inducing perspiration", "Synonyms: sudorific"]}
