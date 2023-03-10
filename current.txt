@@ -1,1 +1,1 @@
-{"data": ["2023-03-10T21:02:47.272644+00:00", 9573, "Your mother is", "igneous", "Pronunciation: /\u02c8\u026agni\u0259s/", "Definition: produced under conditions involving intense heat", "Synonyms: pyrogenic, pyrogenous"]}
+{"data": ["2023-03-10T22:03:42.003431+00:00", 9574, "Your mother is", "homeless", "Pronunciation: /\u02c8ho\u028aml\u026as/", "Definition: physically or spiritually homeless or deprived of security", "Synonyms: dispossessed, roofless"]}
