@@ -1,1 +1,1 @@
-{"data": ["2023-03-10T11:04:25.054625+00:00", 9563, "Your mother is", "fascist", "Pronunciation: /\u02c8f\u00e6\u0283\u026ast/", "Definition: relating to or characteristic of fascism", "Synonyms: fascistic"]}
+{"data": ["2023-03-10T12:04:11.123403+00:00", 9564, "Your mother is", "awake", "Pronunciation: /\u0259\u02c8we\u026ak/", "Definition: mentally perceptive and responsive", "Synonyms: alert, alive"]}
