@@ -1,1 +1,1 @@
-{"data": ["2023-03-10T05:03:00.407664+00:00", 9557, "Your mother is", "jointed", "Pronunciation: /\u02c8d\u0292\u0254\u026ant\u026ad/", "Definition: having joints or jointed segments", ""]}
+{"data": ["2023-03-10T06:02:39.085129+00:00", 9558, "Your mother is", "liveborn", "Similar to: alive", "Definition: (of newborn infant) showing signs of life after birth; not stillborn", ""]}
