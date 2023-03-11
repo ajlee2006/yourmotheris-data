@@ -1,1 +1,1 @@
-{"data": ["2023-03-11T20:03:12.980872+00:00", 9596, "Your mother is", "dead-on", "Similar to: accurate", "Definition: accurate and to the point", ""]}
+{"data": ["2023-03-11T21:02:58.903037+00:00", 9597, "Your mother is", "fine-grained", "Pronunciation: /fin-gre\u026and/", "Definition: dense or compact in structure or texture, as a wood composed of small-diameter cells", "Synonyms: close-grained"]}
