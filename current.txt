@@ -1,1 +1,1 @@
-{"data": ["2023-03-11T05:03:44.408746+00:00", 9581, "Your mother is", "merging", "Pronunciation: /\u02c8m\u025drd\u0292\u026a\u014b/", "Definition: flowing together", "Synonyms: confluent"]}
+{"data": ["2023-03-11T06:04:02.727696+00:00", 9582, "Your mother is", "owlish", "Pronunciation: /\u02c8a\u028al\u026a\u0283/", "Definition: resembling an owl; solemn and wise in appearance", ""]}
