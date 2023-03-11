@@ -1,1 +1,1 @@
-{"data": ["2023-03-11T22:03:04.210599+00:00", 9598, "Your mother is", "informative", "Pronunciation: /\u026an\u02c8f\u0254rm\u0259t\u026av/", "Definition: serving to instruct or enlighten or inform", "Synonyms: instructive"]}
+{"data": ["2023-03-11T23:02:36.366383+00:00", 9599, "Your mother is", "indivisible by", "Similar to: indivisible", "Definition: cannot be divided without leaving a remainder", "Synonyms: undividable"]}
