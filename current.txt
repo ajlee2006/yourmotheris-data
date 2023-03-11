@@ -1,1 +1,1 @@
-{"data": ["2023-03-11T09:04:21.029989+00:00", 9585, "Your mother is", "palaeontological", "", "Definition: of or relating to paleontology", "Synonyms: paleontological"]}
+{"data": ["2023-03-11T10:04:15.126370+00:00", 9586, "Your mother is", "greenish-grey", "Similar to: achromatic", "Definition: of grey tinged with green", "Synonyms: greenish-gray"]}
