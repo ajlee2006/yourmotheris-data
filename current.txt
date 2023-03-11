@@ -1,1 +1,1 @@
-{"data": ["2023-03-10T23:02:47.749487+00:00", 9575, "Your mother is", "tanned", "Pronunciation: /t\u00e6nd/", "Definition: (of skin) having a tan color from exposure to the sun", "Synonyms: bronzed, suntanned"]}
+{"data": ["2023-03-11T00:04:59.299072+00:00", 9576, "Your mother is", "oscitant", "Pronunciation: /\u02c8\u0251s\u026at\u0259nt/", "Definition: showing lack of attention or boredom", "Synonyms: drowsy, yawning"]}
