@@ -1,1 +1,1 @@
-{"data": ["2023-03-11T07:03:35.888650+00:00", 9583, "Your mother is", "waiting", "Pronunciation: /\u02c8we\u026ati\u014b/", "Definition: being and remaining ready and available for use", "Synonyms: ready and waiting"]}
+{"data": ["2023-03-11T08:03:42.006570+00:00", 9584, "Your mother is", "axiomatic", "Pronunciation: /\u02cc\u00e6ksi\u0259\u02c8m\u00e6t\u026ak/", "Definition: evident without proof or argument", "Synonyms: self-evident, taken for granted"]}
