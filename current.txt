@@ -1,1 +1,1 @@
-{"data": ["2023-03-11T19:03:15.985169+00:00", 9595, "Your mother is", "unaccredited", "Pronunciation: /\u02cc\u028cn\u028c\u02c8kr\u025b\u02ccd\u026at\u026ad/", "Definition: lacking official approval", "Synonyms: unlicenced, unlicensed"]}
+{"data": ["2023-03-11T20:03:12.980872+00:00", 9596, "Your mother is", "dead-on", "Similar to: accurate", "Definition: accurate and to the point", ""]}
