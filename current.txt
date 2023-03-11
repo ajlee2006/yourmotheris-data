@@ -1,1 +1,1 @@
-{"data": ["2023-03-11T14:04:02.745920+00:00", 9590, "Your mother is", "oligarchic", "Pronunciation: /\u02cc\u0251l\u0259\u02c8\u0261\u0251rk\u026ak/", "Definition: of or relating to or supporting or characteristic of an oligarchy", "Synonyms: oligarchical"]}
+{"data": ["2023-03-11T15:04:21.392538+00:00", 9591, "Your mother is", "un-american", "Pronunciation: /\u02cc\u0259n\u0259\u02c8m\u025br\u026ak\u0259n/", "Definition: considered contrary to the best interests of the United States", ""]}
