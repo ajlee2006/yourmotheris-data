@@ -1,1 +1,1 @@
-{"data": ["2023-03-11T00:04:59.299072+00:00", 9576, "Your mother is", "oscitant", "Pronunciation: /\u02c8\u0251s\u026at\u0259nt/", "Definition: showing lack of attention or boredom", "Synonyms: drowsy, yawning"]}
+{"data": ["2023-03-11T01:04:13.281126+00:00", 9577, "Your mother is", "fiftieth", "Pronunciation: /\u02c8f\u026afti\u026a\u03b8/", "Definition: the ordinal number of fifty in counting order", "Synonyms: 50th"]}
