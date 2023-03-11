@@ -1,1 +1,1 @@
-{"data": ["2023-03-11T04:04:21.266912+00:00", 9580, "Your mother is", "nonnegative", "Pronunciation: /n\u0251n\u02c8n\u025b\u0261\u0259t\u026av/", "Definition: either positive or zero", ""]}
+{"data": ["2023-03-11T05:03:44.408746+00:00", 9581, "Your mother is", "merging", "Pronunciation: /\u02c8m\u025drd\u0292\u026a\u014b/", "Definition: flowing together", "Synonyms: confluent"]}
