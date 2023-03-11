@@ -1,1 +1,1 @@
-{"data": ["2023-03-11T18:03:40.745697+00:00", 9594, "Your mother is", "unsymmetric", "Similar to: asymmetric", "Definition: lacking symmetry", "Synonyms: unsymmetrical"]}
+{"data": ["2023-03-11T19:03:15.985169+00:00", 9595, "Your mother is", "unaccredited", "Pronunciation: /\u02cc\u028cn\u028c\u02c8kr\u025b\u02ccd\u026at\u026ad/", "Definition: lacking official approval", "Synonyms: unlicenced, unlicensed"]}
