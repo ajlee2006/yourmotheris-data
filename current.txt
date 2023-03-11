@@ -1,1 +1,1 @@
-{"data": ["2023-03-11T03:03:54.166036+00:00", 9579, "Your mother is", "molar", "Pronunciation: /\u02c8mo\u028al\u0259r/", "Definition: pertaining to large units of behavior", ""]}
+{"data": ["2023-03-11T04:04:21.266912+00:00", 9580, "Your mother is", "nonnegative", "Pronunciation: /n\u0251n\u02c8n\u025b\u0261\u0259t\u026av/", "Definition: either positive or zero", ""]}
