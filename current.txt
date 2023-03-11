@@ -1,1 +1,1 @@
-{"data": ["2023-03-11T06:04:02.727696+00:00", 9582, "Your mother is", "owlish", "Pronunciation: /\u02c8a\u028al\u026a\u0283/", "Definition: resembling an owl; solemn and wise in appearance", ""]}
+{"data": ["2023-03-11T07:03:35.888650+00:00", 9583, "Your mother is", "waiting", "Pronunciation: /\u02c8we\u026ati\u014b/", "Definition: being and remaining ready and available for use", "Synonyms: ready and waiting"]}
