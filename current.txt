@@ -1,1 +1,1 @@
-{"data": ["2023-03-11T16:03:54.862978+00:00", 9592, "Your mother is", "mythic", "Pronunciation: /\u02c8m\u026a\u03b8\u026ak/", "Definition: based on or told of in traditional stories; lacking factual basis or historical validity", "Synonyms: fabulous, mythical, mythologic, mythological"]}
+{"data": ["2023-03-11T17:04:03.174257+00:00", 9593, "Your mother is", "behaviouristic", "", "Definition: of or relating to behaviorism", "Synonyms: behaviorist, behavioristic, behaviourist"]}
