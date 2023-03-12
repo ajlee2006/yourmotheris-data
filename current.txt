@@ -1,1 +1,1 @@
-{"data": ["2023-03-12T01:03:51.904813+00:00", 9601, "Your mother is", "damascene", "Pronunciation: /\u02c8d\u00e6m\u0259\u02ccsin/", "Definition: (of metals) decorated or inlaid with a wavy pattern of different (especially precious) metals", ""]}
+{"data": ["2023-03-12T02:03:50.124030+00:00", 9602, "Your mother is", "amort", "Pronunciation: /\u0259\u02c8m\u0254rt/", "Definition: utterly cast down", ""]}
