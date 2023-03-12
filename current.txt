@@ -1,1 +1,1 @@
-{"data": ["2023-03-12T04:04:29.231520+00:00", 9604, "Your mother is", "purple", "Pronunciation: /\u02c8p\u025crp\u0259l/", "Definition: of a color intermediate between red and blue", "Synonyms: purplish, violet"]}
+{"data": ["2023-03-12T05:03:59.066404+00:00", 9605, "Your mother is", "rose-tinted", "Similar to: chromatic", "Definition: of a color tinged with rose", "Synonyms: rose-tinged"]}
