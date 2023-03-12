@@ -1,1 +1,1 @@
-{"data": ["2023-03-12T12:04:10.926937+00:00", 9612, "Your mother is", "cisalpine", "Pronunciation: /s\u026as\u02c8\u00e6lpa\u026an/", "Definition: on the Italian or Roman side of the Alps", "Synonyms: ultramontane"]}
+{"data": ["2023-03-12T13:03:50.962868+00:00", 9613, "Your mother is", "bipedal", "Pronunciation: /\u02c8ba\u026a\u02ccp\u025bd\u0259l/", "Definition: having two feet", "Synonyms: biped, two-footed"]}
