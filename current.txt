@@ -1,1 +1,1 @@
-{"data": ["2023-03-12T18:03:45.468726+00:00", 9618, "Your mother is", "fugacious", "Pronunciation: /fju\u02c8\u0261e\u026a\u0283\u0259s/", "Definition: lasting a very short time", "Synonyms: ephemeral, passing, short-lived, transient, transitory"]}
+{"data": ["2023-03-12T19:03:09.028506+00:00", 9619, "Your mother is", "foreordained", "Similar to: certain", "Definition: established or prearranged unalterably", "Synonyms: predestinate, predestined"]}
