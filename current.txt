@@ -1,1 +1,1 @@
-{"data": ["2023-03-12T05:03:59.066404+00:00", 9605, "Your mother is", "rose-tinted", "Similar to: chromatic", "Definition: of a color tinged with rose", "Synonyms: rose-tinged"]}
+{"data": ["2023-03-12T06:03:31.746402+00:00", 9606, "Your mother is", "sympatric", "", "Definition: (of biological species or speciation) occurring in the same or overlapping geographical areas", ""]}
