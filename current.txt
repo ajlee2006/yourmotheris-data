@@ -1,1 +1,1 @@
-{"data": ["2023-03-12T16:03:50.377326+00:00", 9616, "Your mother is", "prodromal", "Pronunciation: /\u02c8pr\u0251dr\u0259m\u0259l/", "Definition: symptomatic of the onset of an attack or a disease", "Synonyms: prodromic"]}
+{"data": ["2023-03-12T17:03:40.980705+00:00", 9617, "Your mother is", "unfirm", "Similar to: loose", "Definition: (of soil) unstable", "Synonyms: shifting"]}
