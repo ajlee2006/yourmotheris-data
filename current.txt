@@ -1,1 +1,1 @@
-{"data": ["2023-03-12T14:04:06.312729+00:00", 9614, "Your mother is", "optical", "Pronunciation: /\u02c8\u0251pt\u026ak\u0259l/", "Definition: relating to or using sight", "Synonyms: ocular, optic, visual"]}
+{"data": ["2023-03-12T15:03:36.831605+00:00", 9615, "Your mother is", "seagirt", "Pronunciation: /\u02c8si\u02cc\u0261\u025crt/", "Definition: surrounded or enclosed by the sea", ""]}
