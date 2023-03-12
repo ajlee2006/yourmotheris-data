@@ -1,1 +1,1 @@
-{"data": ["2023-03-12T07:03:51.317440+00:00", 9607, "Your mother is", "awless", "Pronunciation: /\u02c8\u0254l\u026as/", "Definition: neither feeling nor showing respect", "Synonyms: aweless, disrespectful"]}
+{"data": ["2023-03-12T08:03:43.666681+00:00", 9608, "Your mother is", "seismological", "", "Definition: of or concerned with seismology", "Synonyms: seismologic"]}
