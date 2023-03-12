@@ -1,1 +1,1 @@
-{"data": ["2023-03-12T06:03:31.746402+00:00", 9606, "Your mother is", "sympatric", "", "Definition: (of biological species or speciation) occurring in the same or overlapping geographical areas", ""]}
+{"data": ["2023-03-12T07:03:51.317440+00:00", 9607, "Your mother is", "awless", "Pronunciation: /\u02c8\u0254l\u026as/", "Definition: neither feeling nor showing respect", "Synonyms: aweless, disrespectful"]}
