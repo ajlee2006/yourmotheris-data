@@ -1,1 +1,1 @@
-{"data": ["2023-03-12T11:03:43.188299+00:00", 9611, "Your mother is", "accumulative", "Pronunciation: /\u0259\u02c8kjumj\u0259\u02ccle\u026at\u026av/", "Definition: increasing by successive addition", "Synonyms: cumulative"]}
+{"data": ["2023-03-12T12:04:10.926937+00:00", 9612, "Your mother is", "cisalpine", "Pronunciation: /s\u026as\u02c8\u00e6lpa\u026an/", "Definition: on the Italian or Roman side of the Alps", "Synonyms: ultramontane"]}
