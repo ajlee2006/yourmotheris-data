@@ -1,1 +1,1 @@
-{"data": ["2023-03-12T15:03:36.831605+00:00", 9615, "Your mother is", "seagirt", "Pronunciation: /\u02c8si\u02cc\u0261\u025crt/", "Definition: surrounded or enclosed by the sea", ""]}
+{"data": ["2023-03-12T16:03:50.377326+00:00", 9616, "Your mother is", "prodromal", "Pronunciation: /\u02c8pr\u0251dr\u0259m\u0259l/", "Definition: symptomatic of the onset of an attack or a disease", "Synonyms: prodromic"]}
