@@ -1,1 +1,1 @@
-{"data": ["2023-03-12T02:03:50.124030+00:00", 9602, "Your mother is", "amort", "Pronunciation: /\u0259\u02c8m\u0254rt/", "Definition: utterly cast down", ""]}
+{"data": ["2023-03-12T03:03:40.471729+00:00", 9603, "Your mother is", "clean-shaven", "Pronunciation: /\u02c8klin\u02c8\u0283e\u026av\u0259n/", "Definition: closely shaved recently", "Synonyms: smooth-shaven, well-shaven"]}
