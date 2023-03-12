@@ -1,1 +1,1 @@
-{"data": ["2023-03-12T09:04:02.570831+00:00", 9609, "Your mother is", "azygos", "Similar to: single", "Definition: occurring singly; not one of a pair", "Synonyms: azygous"]}
+{"data": ["2023-03-12T10:04:02.391222+00:00", 9610, "Your mother is", "judicial", "Pronunciation: /d\u0292u\u02c8d\u026a\u0283\u0259l/", "Definition: relating to the administration of justice or the function of a judge", "Synonyms: juridic, juridical"]}
