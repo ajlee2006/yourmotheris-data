@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T10:03:50.205475+00:00", 9634, "Your mother is", "fibreoptic", "", "Definition: of or relating to fiber optics", "Synonyms: fiber-optic, fiberoptic, fibre-optic"]}
+{"data": ["2023-03-13T11:04:28.737300+00:00", 9635, "Your mother is", "6th", "Similar to: ordinal", "Definition: coming next after the fifth and just before the seventh in position", "Synonyms: sixth"]}
