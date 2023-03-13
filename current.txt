@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T05:04:27.858810+00:00", 9629, "Your mother is", "abrupt", "Pronunciation: /\u0259\u02c8br\u0259pt/", "Definition: marked by sudden changes in subject and sharp transitions", "Synonyms: disconnected"]}
+{"data": ["2023-03-13T06:03:41.138135+00:00", 9630, "Your mother is", "bolshevistic", "Pronunciation: /\u02ccbo\u028al\u0283\u0259\u02c8v\u026ast\u026ak/", "Definition: of or relating to Bolshevism", "Synonyms: bolshevik, bolshevist"]}
