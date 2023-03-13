@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T06:03:41.138135+00:00", 9630, "Your mother is", "bolshevistic", "Pronunciation: /\u02ccbo\u028al\u0283\u0259\u02c8v\u026ast\u026ak/", "Definition: of or relating to Bolshevism", "Synonyms: bolshevik, bolshevist"]}
+{"data": ["2023-03-13T07:04:31.805556+00:00", 9631, "Your mother is", "haemal", "Pronunciation: /\u02c8him\u0259l/", "Definition: relating to the blood vessels or blood", "Synonyms: haematal, hemal, hematal"]}
