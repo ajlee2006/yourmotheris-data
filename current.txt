@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T03:03:40.314389+00:00", 9627, "Your mother is", "tiresome", "Pronunciation: /\u02c8ta\u026a\u0259rs\u0259m/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: boring, deadening, dull, ho-hum, irksome, slow, tedious, wearisome"]}
+{"data": ["2023-03-13T04:04:06.501152+00:00", 9628, "Your mother is", "conditioned", "Pronunciation: /k\u0259n\u02c8d\u026a\u0283\u0259nd/", "Definition: physically fit", "Synonyms: in condition"]}
