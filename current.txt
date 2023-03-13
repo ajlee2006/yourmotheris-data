@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T14:04:22.953836+00:00", 9638, "Your mother is", "destructive", "Pronunciation: /d\u026a\u02c8str\u0259kt\u026av/", "Definition: causing destruction or much damage", ""]}
+{"data": ["2023-03-13T15:04:19.077277+00:00", 9639, "Your mother is", "beguiled", "Pronunciation: /b\u026a\u02c8\u0261a\u026ald/", "Definition: filled with wonder and delight", "Synonyms: captivated, charmed, delighted, enthralled, entranced"]}
