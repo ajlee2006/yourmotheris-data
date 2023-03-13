@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T00:05:00.607836+00:00", 9624, "Your mother is", "lentic", "Pronunciation: /\u02c8l\u025bnt\u026ak/", "Definition: of or relating to or living in still waters (as lakes or ponds)", ""]}
+{"data": ["2023-03-13T01:04:24.694340+00:00", 9625, "Your mother is", "nonhereditary", "Similar to: nonheritable", "Definition: not acquirable by inheritance", "Synonyms: nontransmissible"]}
