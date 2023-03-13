@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T13:04:05.062858+00:00", 9637, "Your mother is", "dubitable", "Pronunciation: /\u02c8dub\u026at\u0259b\u0259l/", "Definition: open to doubt or suspicion", "Synonyms: doubtful, dubious, in question"]}
+{"data": ["2023-03-13T14:04:22.953836+00:00", 9638, "Your mother is", "destructive", "Pronunciation: /d\u026a\u02c8str\u0259kt\u026av/", "Definition: causing destruction or much damage", ""]}
