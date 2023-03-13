@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T01:04:24.694340+00:00", 9625, "Your mother is", "nonhereditary", "Similar to: nonheritable", "Definition: not acquirable by inheritance", "Synonyms: nontransmissible"]}
+{"data": ["2023-03-13T02:04:21.966077+00:00", 9626, "Your mother is", "dappled", "Pronunciation: /\u02c8d\u00e6p\u0259ld/", "Definition: having spots or patches of color", "Synonyms: mottled"]}
