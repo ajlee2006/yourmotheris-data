@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T08:04:10.383141+00:00", 9632, "Your mother is", "authorised", "Pronunciation: /\u02c8\u0254\u03b8\u0259\u02ccra\u026azd/", "Definition: endowed with authority", "Synonyms: authorized"]}
+{"data": ["2023-03-13T09:04:35.882799+00:00", 9633, "Your mother is", "magna cum laude", "Similar to: worthy", "Definition: with high honor; with high academic distinction", ""]}
