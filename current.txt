@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T02:04:21.966077+00:00", 9626, "Your mother is", "dappled", "Pronunciation: /\u02c8d\u00e6p\u0259ld/", "Definition: having spots or patches of color", "Synonyms: mottled"]}
+{"data": ["2023-03-13T03:03:40.314389+00:00", 9627, "Your mother is", "tiresome", "Pronunciation: /\u02c8ta\u026a\u0259rs\u0259m/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: boring, deadening, dull, ho-hum, irksome, slow, tedious, wearisome"]}
