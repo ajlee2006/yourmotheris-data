@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T09:04:35.882799+00:00", 9633, "Your mother is", "magna cum laude", "Similar to: worthy", "Definition: with high honor; with high academic distinction", ""]}
+{"data": ["2023-03-13T10:03:50.205475+00:00", 9634, "Your mother is", "fibreoptic", "", "Definition: of or relating to fiber optics", "Synonyms: fiber-optic, fiberoptic, fibre-optic"]}
