@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T18:03:32.007360+00:00", 9642, "Your mother is", "illicit", "Pronunciation: /\u026a\u02c8l\u026as\u026at/", "Definition: contrary to or forbidden by law", "Synonyms: illegitimate, outlaw, outlawed, unlawful"]}
+{"data": ["2023-03-13T19:02:38.045977+00:00", 9643, "Your mother is", "deliquescent", "Similar to: hydrophilic", "Definition: (especially of certain salts) becoming liquid by absorbing moisture from the air", ""]}
