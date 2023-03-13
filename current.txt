@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T16:03:35.181388+00:00", 9640, "Your mother is", "flamboyant", "Pronunciation: /fl\u00e6m\u02c8b\u0254\u026a\u0259nt/", "Definition: elaborately or excessively ornamented", "Synonyms: aureate, florid"]}
+{"data": ["2023-03-13T17:04:39.329740+00:00", 9641, "Your mother is", "enchanting", "Pronunciation: /\u025bn\u02c8\u02a7\u00e6nt\u026a\u014b/", "Definition: capturing interest as if by a spell", "Synonyms: bewitching, captivating, enthralling, entrancing, fascinating"]}
