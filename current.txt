@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T20:02:56.150895+00:00", 9644, "Your mother is", "high-level", "Pronunciation: /\u02c8ha\u026a\u02c8l\u025bv\u0259l/", "Definition: occurring at or from a relative high altitude", "Synonyms: high-altitude"]}
+{"data": ["2023-03-13T21:03:27.814493+00:00", 9645, "Your mother is", "human-centred", "Similar to: humane", "Definition: marked by humanistic values and devotion to human welfare", "Synonyms: human-centered, humanist, humanistic, humanitarian"]}
