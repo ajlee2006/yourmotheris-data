@@ -1,1 +1,1 @@
-{"data": ["2023-03-13T07:04:31.805556+00:00", 9631, "Your mother is", "haemal", "Pronunciation: /\u02c8him\u0259l/", "Definition: relating to the blood vessels or blood", "Synonyms: haematal, hemal, hematal"]}
+{"data": ["2023-03-13T08:04:10.383141+00:00", 9632, "Your mother is", "authorised", "Pronunciation: /\u02c8\u0254\u03b8\u0259\u02ccra\u026azd/", "Definition: endowed with authority", "Synonyms: authorized"]}
