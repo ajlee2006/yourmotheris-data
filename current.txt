@@ -1,1 +1,1 @@
-{"data": ["2023-03-14T08:03:42.654008+00:00", 9656, "Your mother is", "mottled", "Pronunciation: /\u02c8m\u0251t\u0259ld/", "Definition: having spots or patches of color", "Synonyms: dappled"]}
+{"data": ["2023-03-14T09:04:34.498299+00:00", 9657, "Your mother is", "risen", "Pronunciation: /\u02c8r\u026az\u0259n/", "Definition: (of e.g. celestial bodies) above the horizon", ""]}
