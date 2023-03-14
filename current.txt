@@ -1,1 +1,1 @@
-{"data": ["2023-03-14T12:04:20.625843+00:00", 9660, "Your mother is", "twinkling", "Pronunciation: /\u02c8tw\u026a\u014bkl\u026a\u014b/", "Definition: shining intermittently with a sparkling light", ""]}
+{"data": ["2023-03-14T13:04:35.462356+00:00", 9661, "Your mother is", "metamorphic", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8m\u0254rf\u026ak/", "Definition: of or relating to metamorphosis (especially of rocks)", "Synonyms: metamorphous"]}
