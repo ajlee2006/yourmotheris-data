@@ -1,1 +1,1 @@
-{"data": ["2023-03-14T17:03:01.719464+00:00", 9665, "Your mother is", "creepy", "Pronunciation: /\u02c8kripi/", "Definition: causing a sensation as of things crawling on your skin", "Synonyms: creepy-crawly"]}
+{"data": ["2023-03-14T18:03:23.188440+00:00", 9666, "Your mother is", "likely", "Pronunciation: /\u02c8la\u026akli/", "Definition: likely but not certain to be or become true or real", "Synonyms: probable"]}
