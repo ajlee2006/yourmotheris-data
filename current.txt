@@ -1,1 +1,1 @@
-{"data": ["2023-03-14T07:04:00.188646+00:00", 9655, "Your mother is", "rejoicing", "Pronunciation: /r\u026a\u02c8d\u0292\u0254\u026as\u026a\u014b/", "Definition: joyful and proud especially because of triumph or success", "Synonyms: exultant, exulting, jubilant, prideful, triumphal, triumphant"]}
+{"data": ["2023-03-14T08:03:42.654008+00:00", 9656, "Your mother is", "mottled", "Pronunciation: /\u02c8m\u0251t\u0259ld/", "Definition: having spots or patches of color", "Synonyms: dappled"]}
