@@ -1,1 +1,1 @@
-{"data": ["2023-03-14T02:04:00.314714+00:00", 9650, "Your mother is", "aliquot", "Pronunciation: /\u02c8\u00e6l\u0259kw\u0259t/", "Definition: signifying an exact divisor or factor of a quantity", ""]}
+{"data": ["2023-03-14T03:03:59.409905+00:00", 9651, "Your mother is", "xxviii", "Similar to: cardinal", "Definition: being eight more than twenty", "Synonyms: 28, twenty-eight"]}
