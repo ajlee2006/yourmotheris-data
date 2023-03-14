@@ -1,1 +1,1 @@
-{"data": ["2023-03-14T16:04:04.503783+00:00", 9664, "Your mother is", "clanking", "Pronunciation: /\u02c8kl\u00e6\u014bk\u026a\u014b/", "Definition: having a hard nonresonant metallic sound", ""]}
+{"data": ["2023-03-14T17:03:01.719464+00:00", 9665, "Your mother is", "creepy", "Pronunciation: /\u02c8kripi/", "Definition: causing a sensation as of things crawling on your skin", "Synonyms: creepy-crawly"]}
