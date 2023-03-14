@@ -1,1 +1,1 @@
-{"data": ["2023-03-14T18:03:23.188440+00:00", 9666, "Your mother is", "likely", "Pronunciation: /\u02c8la\u026akli/", "Definition: likely but not certain to be or become true or real", "Synonyms: probable"]}
+{"data": ["2023-03-14T19:02:56.354113+00:00", 9667, "Your mother is", "unsatiated", "Similar to: insatiable", "Definition: not having been satisfied", "Synonyms: unsated, unsatisfied"]}
