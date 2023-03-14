@@ -1,1 +1,1 @@
-{"data": ["2023-03-14T22:03:25.632377+00:00", 9670, "Your mother is", "jesting", "Pronunciation: /\u02c8d\u0292\u025bst\u026a\u014b/", "Definition: characterized by jokes and good humor", "Synonyms: jocose, jocular, joking"]}
+{"data": ["2023-03-14T23:03:29.682547+00:00", 9671, "Your mother is", "incommensurate", "Pronunciation: /\u02cc\u026ank\u0259\u02c8m\u025bn\u0283\u0259r\u026at/", "Definition: not corresponding in size or degree or extent", ""]}
