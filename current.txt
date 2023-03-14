@@ -1,1 +1,1 @@
-{"data": ["2023-03-14T00:04:44.034688+00:00", 9648, "Your mother is", "high-altitude", "Pronunciation: /ha\u026a-\u02c8\u00e6lt\u026a\u02cctud/", "Definition: occurring at or from a relative high altitude", "Synonyms: high-level"]}
+{"data": ["2023-03-14T01:03:49.189577+00:00", 9649, "Your mother is", "transalpine", "Pronunciation: /tr\u00e6ns\u02c8\u00e6lp\u026an/", "Definition: on or relating to or characteristic of the region or peoples beyond the Alps from Italy (or north of the Alps)", "Synonyms: ultramontane"]}
