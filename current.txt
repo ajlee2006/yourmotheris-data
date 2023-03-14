@@ -1,1 +1,1 @@
-{"data": ["2023-03-14T05:03:43.671865+00:00", 9653, "Your mother is", "continuous", "Pronunciation: /k\u0259n\u02c8t\u026anju\u0259s/", "Definition: continuing in time or space without interruption", "Synonyms: uninterrupted"]}
+{"data": ["2023-03-14T06:04:24.233628+00:00", 9654, "Your mother is", "unexpurgated", "Pronunciation: /\u0259n\u02c8\u025bksp\u0259\u02cc\u0261e\u026at\u026ad/", "Definition: not having material deleted", ""]}
