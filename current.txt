@@ -1,1 +1,1 @@
-{"data": ["2023-03-14T11:03:37.672294+00:00", 9659, "Your mother is", "shuddering", "Pronunciation: /\u02c8\u0283\u0259d\u0259r\u026a\u014b/", "Definition: shaking convulsively or violently", ""]}
+{"data": ["2023-03-14T12:04:20.625843+00:00", 9660, "Your mother is", "twinkling", "Pronunciation: /\u02c8tw\u026a\u014bkl\u026a\u014b/", "Definition: shining intermittently with a sparkling light", ""]}
