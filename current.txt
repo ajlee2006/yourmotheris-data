@@ -1,1 +1,1 @@
-{"data": ["2023-03-14T06:04:24.233628+00:00", 9654, "Your mother is", "unexpurgated", "Pronunciation: /\u0259n\u02c8\u025bksp\u0259\u02cc\u0261e\u026at\u026ad/", "Definition: not having material deleted", ""]}
+{"data": ["2023-03-14T07:04:00.188646+00:00", 9655, "Your mother is", "rejoicing", "Pronunciation: /r\u026a\u02c8d\u0292\u0254\u026as\u026a\u014b/", "Definition: joyful and proud especially because of triumph or success", "Synonyms: exultant, exulting, jubilant, prideful, triumphal, triumphant"]}
