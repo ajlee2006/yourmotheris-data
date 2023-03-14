@@ -1,1 +1,1 @@
-{"data": ["2023-03-14T01:03:49.189577+00:00", 9649, "Your mother is", "transalpine", "Pronunciation: /tr\u00e6ns\u02c8\u00e6lp\u026an/", "Definition: on or relating to or characteristic of the region or peoples beyond the Alps from Italy (or north of the Alps)", "Synonyms: ultramontane"]}
+{"data": ["2023-03-14T02:04:00.314714+00:00", 9650, "Your mother is", "aliquot", "Pronunciation: /\u02c8\u00e6l\u0259kw\u0259t/", "Definition: signifying an exact divisor or factor of a quantity", ""]}
