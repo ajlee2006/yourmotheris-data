@@ -1,1 +1,1 @@
-{"data": ["2023-03-15T11:04:17.521102+00:00", 9683, "Your mother is", "iambic", "Pronunciation: /a\u026a\u02c8\u00e6mb\u026ak/", "Definition: of or consisting of iambs", ""]}
+{"data": ["2023-03-15T12:03:45.524491+00:00", 9684, "Your mother is", "actinometrical", "", "Definition: of or related to actinometry", "Synonyms: actinometric"]}
