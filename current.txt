@@ -1,1 +1,1 @@
-{"data": ["2023-03-15T19:03:21.930185+00:00", 9691, "Your mother is", "brushy", "Pronunciation: /\u02c8br\u028c\u0283i/", "Definition: covered with or consisting of bushes or thickets", "Synonyms: bosky"]}
+{"data": ["2023-03-15T20:02:56.520904+00:00", 9692, "Your mother is", "peachy-colored", "Similar to: chromatic", "Definition: of something resembling a peach in color", "Synonyms: peachy, peachy-coloured"]}
