@@ -1,1 +1,1 @@
-{"data": ["2023-03-15T07:03:40.090801+00:00", 9679, "Your mother is", "no-account", "Pronunciation: /no\u028a-\u0259\u02c8ka\u028ant/", "Definition: without merit; of little or no value or use", "Synonyms: good-for-naught, good-for-nothing, meritless, no-count, no-good, sorry"]}
+{"data": ["2023-03-15T08:04:11.074472+00:00", 9680, "Your mother is", "wide-open", "Pronunciation: /wa\u026ad-\u02c8o\u028ap\u0259n/", "Definition: lax in enforcing laws", "Synonyms: lawless"]}
