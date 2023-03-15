@@ -1,1 +1,1 @@
-{"data": ["2023-03-15T18:03:08.069872+00:00", 9690, "Your mother is", "stooped", "Pronunciation: /stupt/", "Definition: having the back and shoulders rounded; not erect", "Synonyms: crooked, hunched, round-backed, round-shouldered, stooping"]}
+{"data": ["2023-03-15T19:03:21.930185+00:00", 9691, "Your mother is", "brushy", "Pronunciation: /\u02c8br\u028c\u0283i/", "Definition: covered with or consisting of bushes or thickets", "Synonyms: bosky"]}
