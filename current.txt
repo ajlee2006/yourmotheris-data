@@ -1,1 +1,1 @@
-{"data": ["2023-03-15T10:04:21.748488+00:00", 9682, "Your mother is", "unpardonable", "Pronunciation: /\u0259n\u02c8p\u0251rd\u0259n\u0259b\u0259l/", "Definition: not admitting of pardon", ""]}
+{"data": ["2023-03-15T11:04:17.521102+00:00", 9683, "Your mother is", "iambic", "Pronunciation: /a\u026a\u02c8\u00e6mb\u026ak/", "Definition: of or consisting of iambs", ""]}
