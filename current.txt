@@ -1,1 +1,1 @@
-{"data": ["2023-03-15T04:03:47.987432+00:00", 9676, "Your mother is", "willowy", "Pronunciation: /\u02c8w\u026alo\u028ai/", "Definition: slender and graceful", "Synonyms: gracile"]}
+{"data": ["2023-03-15T05:03:38.911861+00:00", 9677, "Your mother is", "intraspecies", "", "Definition: arising or occurring within a species; involving the members of one species", "Synonyms: intraspecific"]}
