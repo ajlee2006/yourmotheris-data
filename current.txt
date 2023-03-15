@@ -1,1 +1,1 @@
-{"data": ["2023-03-15T16:04:19.808430+00:00", 9688, "Your mother is", "awheel", "Similar to: moving", "Definition: traveling by wheeled vehicle such as bicycle or automobile e.g.", ""]}
+{"data": ["2023-03-15T17:03:10.629044+00:00", 9689, "Your mother is", "enterprising", "Pronunciation: /\u02c8\u025bnt\u0259r\u02ccpra\u026az\u026a\u014b/", "Definition: marked by imagination, initiative, and readiness to undertake new projects", ""]}
