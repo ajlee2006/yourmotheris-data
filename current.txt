@@ -1,1 +1,1 @@
-{"data": ["2023-03-15T00:04:55.076843+00:00", 9672, "Your mother is", "ix", "Similar to: cardinal", "Definition: denoting a quantity consisting of one more than eight and one less than ten", "Synonyms: 9, nine"]}
+{"data": ["2023-03-15T01:04:38.073874+00:00", 9673, "Your mother is", "white-blotched", "Similar to: patterned", "Definition: having blotches of white", ""]}
