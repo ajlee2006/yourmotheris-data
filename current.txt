@@ -1,1 +1,1 @@
-{"data": ["2023-03-15T12:03:45.524491+00:00", 9684, "Your mother is", "actinometrical", "", "Definition: of or related to actinometry", "Synonyms: actinometric"]}
+{"data": ["2023-03-15T13:03:39.874744+00:00", 9685, "Your mother is", "one thousand", "Similar to: cardinal", "Definition: denoting a quantity consisting of 1,000 items or units", "Synonyms: 1000, k, m, thousand"]}
