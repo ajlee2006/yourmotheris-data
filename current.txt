@@ -1,1 +1,1 @@
-{"data": ["2023-03-15T21:02:39.737545+00:00", 9693, "Your mother is", "unrealized", "Pronunciation: /\u0259n\u02c8ri\u0259la\u026azd/", "Definition: of persons; marked by failure to realize full potentialities", "Synonyms: unfulfilled, unrealised"]}
+{"data": ["2023-03-15T22:04:13.384942+00:00", 9694, "Your mother is", "creedal", "", "Definition: of or relating to a creed", "Synonyms: credal"]}
