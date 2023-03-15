@@ -1,1 +1,1 @@
-{"data": ["2023-03-15T17:03:10.629044+00:00", 9689, "Your mother is", "enterprising", "Pronunciation: /\u02c8\u025bnt\u0259r\u02ccpra\u026az\u026a\u014b/", "Definition: marked by imagination, initiative, and readiness to undertake new projects", ""]}
+{"data": ["2023-03-15T18:03:08.069872+00:00", 9690, "Your mother is", "stooped", "Pronunciation: /stupt/", "Definition: having the back and shoulders rounded; not erect", "Synonyms: crooked, hunched, round-backed, round-shouldered, stooping"]}
