@@ -1,1 +1,1 @@
-{"data": ["2023-03-15T01:04:38.073874+00:00", 9673, "Your mother is", "white-blotched", "Similar to: patterned", "Definition: having blotches of white", ""]}
+{"data": ["2023-03-15T02:04:23.426047+00:00", 9674, "Your mother is", "bipartisan", "Pronunciation: /ba\u026a\u02c8p\u0251rt\u026az\u0259n/", "Definition: supported by both sides", "Synonyms: bipartizan, two-party, two-way"]}
