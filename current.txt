@@ -1,1 +1,1 @@
-{"data": ["2023-03-16T11:03:36.532104+00:00", 9707, "Your mother is", "valueless", "Pronunciation: /\u02c8v\u00e6ljul\u026as/", "Definition: of no value", ""]}
+{"data": ["2023-03-16T12:03:30.101657+00:00", 9708, "Your mother is", "insolvable", "Pronunciation: /\u026an\u02c8s\u0251lv\u0259b\u0259l/", "Definition: not easily solved", "Synonyms: unresolvable, unsoluble, unsolvable"]}
