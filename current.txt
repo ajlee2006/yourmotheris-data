@@ -1,1 +1,1 @@
-{"data": ["2023-03-16T17:03:52.443395+00:00", 9713, "Your mother is", "humanlike", "Similar to: human", "Definition: suggesting human characteristics for animals or inanimate things", "Synonyms: anthropomorphic, anthropomorphous"]}
+{"data": ["2023-03-16T18:04:24.867647+00:00", 9714, "Your mother is", "hands-off", "Pronunciation: /\u02c8h\u00e6ndz\u02c8\u0254f/", "Definition: not involving participation or intervention", ""]}
