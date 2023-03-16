@@ -1,1 +1,1 @@
-{"data": ["2023-03-16T16:03:58.743018+00:00", 9712, "Your mother is", "twenty-nine", "Pronunciation: /\u02c8tw\u025bnti-\u02c8na\u026an/", "Definition: being nine more than twenty", "Synonyms: 29, xxix"]}
+{"data": ["2023-03-16T17:03:52.443395+00:00", 9713, "Your mother is", "humanlike", "Similar to: human", "Definition: suggesting human characteristics for animals or inanimate things", "Synonyms: anthropomorphic, anthropomorphous"]}
