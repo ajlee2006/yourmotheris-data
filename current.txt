@@ -1,1 +1,1 @@
-{"data": ["2023-03-16T03:04:06.736366+00:00", 9699, "Your mother is", "unnamed", "Pronunciation: /\u0259n\u02c8ne\u026amd/", "Definition: being or having an unknown or unnamed source", "Synonyms: nameless, unidentified, unknown"]}
+{"data": ["2023-03-16T04:03:50.329120+00:00", 9700, "Your mother is", "nonviable", "Similar to: dead", "Definition: not capable of living or developing successfully", ""]}
