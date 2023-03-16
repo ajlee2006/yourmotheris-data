@@ -1,1 +1,1 @@
-{"data": ["2023-03-16T01:04:40.764927+00:00", 9697, "Your mother is", "lavender", "Pronunciation: /\u02c8l\u00e6v\u0259nd\u0259r/", "Definition: of a pale purple color", "Synonyms: lilac, lilac-colored"]}
+{"data": ["2023-03-16T02:04:06.712878+00:00", 9698, "Your mother is", "vasiform", "Similar to: hollow", "Definition: constituting a tube; having hollow tubes (as for the passage of fluids)", "Synonyms: cannular, tube-shaped, tubelike, tubular"]}
