@@ -1,1 +1,1 @@
-{"data": ["2023-03-16T20:04:14.848392+00:00", 9716, "Your mother is", "aerodynamic", "Pronunciation: /\u02cc\u025bro\u028ada\u026a\u02c8n\u00e6m\u026ak/", "Definition: designed or arranged to offer the least resistant to fluid flow", "Synonyms: flowing, sleek, streamlined"]}
+{"data": ["2023-03-16T21:04:08.367382+00:00", 9717, "Your mother is", "purple-tinged", "Similar to: chromatic", "Definition: of a color tinged with purple", "Synonyms: purple-tinted"]}
