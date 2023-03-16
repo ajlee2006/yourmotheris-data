@@ -1,1 +1,1 @@
-{"data": ["2023-03-16T18:04:24.867647+00:00", 9714, "Your mother is", "hands-off", "Pronunciation: /\u02c8h\u00e6ndz\u02c8\u0254f/", "Definition: not involving participation or intervention", ""]}
+{"data": ["2023-03-16T19:03:55.419755+00:00", 9715, "Your mother is", "homespun", "Pronunciation: /\u02c8ho\u028am\u02ccsp\u0259n/", "Definition: characteristic of country life", "Synonyms: cracker-barrel"]}
