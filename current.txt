@@ -1,1 +1,1 @@
-{"data": ["2023-03-16T08:04:01.590676+00:00", 9704, "Your mother is", "homostylous", "", "Definition: (botany) having styles all of the same length", "Synonyms: homostyled, homostylic"]}
+{"data": ["2023-03-16T09:03:59.388800+00:00", 9705, "Your mother is", "miasmic", "Similar to: ill-smelling", "Definition: of noxious stench from atmospheric pollution", "Synonyms: mephitic"]}
