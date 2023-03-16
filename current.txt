@@ -1,1 +1,1 @@
-{"data": ["2023-03-16T14:03:55.396718+00:00", 9710, "Your mother is", "lovesome", "Pronunciation: /\u02c8l\u0259vs\u0259m/", "Definition: having or displaying warmth or affection", "Synonyms: affectionate, fond, tender"]}
+{"data": ["2023-03-16T15:04:03.239059+00:00", 9711, "Your mother is", "glued", "Pronunciation: /\u0261lud/", "Definition: affixed or as if affixed with glue or paste", "Synonyms: pasted"]}
