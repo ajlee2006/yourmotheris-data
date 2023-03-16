@@ -1,1 +1,1 @@
-{"data": ["2023-03-16T07:03:23.397236+00:00", 9703, "Your mother is", "malodorous", "Pronunciation: /m\u00e6l\u02c8o\u028ad\u0259r\u0259s/", "Definition: having an unpleasant smell", "Synonyms: ill-smelling, malodourous, stinky, unpleasant-smelling"]}
+{"data": ["2023-03-16T08:04:01.590676+00:00", 9704, "Your mother is", "homostylous", "", "Definition: (botany) having styles all of the same length", "Synonyms: homostyled, homostylic"]}
