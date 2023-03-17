@@ -1,1 +1,1 @@
-{"data": ["2023-03-17T13:04:15.385764+00:00", 9729, "Your mother is", "bionomical", "", "Definition: of or relating to the science of ecology", "Synonyms: bionomic, ecologic, ecological"]}
+{"data": ["2023-03-17T14:04:11.296164+00:00", 9730, "Your mother is", "water-soluble", "Pronunciation: /\u02c8w\u0254t\u0259r-\u02c8s\u0251lj\u0259b\u0259l/", "Definition: soluble in water", ""]}
