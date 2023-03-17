@@ -1,1 +1,1 @@
-{"data": ["2023-03-17T22:03:37.862314+00:00", 9738, "Your mother is", "grassy-leafed", "Similar to: leafy", "Definition: having leaves that resemble grass", "Synonyms: grassy-leaved"]}
+{"data": ["2023-03-17T23:04:29.106277+00:00", 9739, "Your mother is", "satiric", "Pronunciation: /s\u0259\u02c8t\u026arik/", "Definition: exposing human folly to ridicule", "Synonyms: satirical"]}
