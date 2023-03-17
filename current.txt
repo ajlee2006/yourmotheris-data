@@ -1,1 +1,1 @@
-{"data": ["2023-03-17T02:35:25.331968+00:00", 9718, "Your mother is", "adjunct", "Pronunciation: /\u02c8\u00e6d\u0292\u0259\u014bkt/", "Definition: furnishing added support", "Synonyms: accessory, adjuvant, ancillary, appurtenant, auxiliary"]}
+{"data": ["2023-03-17T03:04:15.383367+00:00", 9719, "Your mother is", "univalent", "Pronunciation: /\u02ccjun\u0259\u02c8ve\u026al\u0259nt/", "Definition: having a valence of 1", "Synonyms: monovalent"]}
