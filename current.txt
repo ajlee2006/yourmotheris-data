@@ -1,1 +1,1 @@
-{"data": ["2023-03-17T10:03:44.225885+00:00", 9726, "Your mother is", "associative", "Pronunciation: /\u0259\u02c8so\u028a\u0283i\u02cce\u026at\u026av/", "Definition: characterized by or causing or resulting from the process of bringing ideas or events together in memory or imagination", "Synonyms: associatory"]}
+{"data": ["2023-03-17T11:03:56.484037+00:00", 9727, "Your mother is", "sought-after", "Pronunciation: /s\u0254t-\u02c8\u00e6ft\u0259r/", "Definition: greatly desired", "Synonyms: coveted, in demand, sought after"]}
