@@ -1,1 +1,1 @@
-{"data": ["2023-03-17T08:04:03.145319+00:00", 9724, "Your mother is", "pressor", "Pronunciation: /\u02c8pr\u025bs\u0259r/", "Definition: increasing (or tending to increase) blood pressure", ""]}
+{"data": ["2023-03-17T09:03:33.406272+00:00", 9725, "Your mother is", "atactic", "", "Definition: lacking motor coordination; marked or caused by ataxia", "Synonyms: ataxic"]}
