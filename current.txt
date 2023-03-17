@@ -1,1 +1,1 @@
-{"data": ["2023-03-17T03:04:15.383367+00:00", 9719, "Your mother is", "univalent", "Pronunciation: /\u02ccjun\u0259\u02c8ve\u026al\u0259nt/", "Definition: having a valence of 1", "Synonyms: monovalent"]}
+{"data": ["2023-03-17T04:04:08.444418+00:00", 9720, "Your mother is", "fire-resistant", "Pronunciation: /\u02c8fa\u026a\u0259rr\u026a\u02ccz\u026ast\u0259nt/", "Definition: difficult to burn", "Synonyms: fire-resisting, fire-resistive, fire-retardant"]}
