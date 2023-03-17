@@ -1,1 +1,1 @@
-{"data": ["2023-03-17T09:03:33.406272+00:00", 9725, "Your mother is", "atactic", "", "Definition: lacking motor coordination; marked or caused by ataxia", "Synonyms: ataxic"]}
+{"data": ["2023-03-17T10:03:44.225885+00:00", 9726, "Your mother is", "associative", "Pronunciation: /\u0259\u02c8so\u028a\u0283i\u02cce\u026at\u026av/", "Definition: characterized by or causing or resulting from the process of bringing ideas or events together in memory or imagination", "Synonyms: associatory"]}
