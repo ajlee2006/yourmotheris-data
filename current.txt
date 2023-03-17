@@ -1,1 +1,1 @@
-{"data": ["2023-03-17T20:04:03.121892+00:00", 9736, "Your mother is", "appreciable", "Pronunciation: /\u0259\u02c8pri\u0283i\u0259b\u0259l/", "Definition: enough to be estimated or measured", ""]}
+{"data": ["2023-03-17T21:03:38.322645+00:00", 9737, "Your mother is", "manual", "Pronunciation: /\u02c8m\u00e6nju\u0259l/", "Definition: doing or requiring physical work", ""]}
