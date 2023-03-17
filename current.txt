@@ -1,1 +1,1 @@
-{"data": ["2023-03-17T07:04:24.779608+00:00", 9723, "Your mother is", "unrigged", "", "Definition: stripped of rigging", ""]}
+{"data": ["2023-03-17T08:04:03.145319+00:00", 9724, "Your mother is", "pressor", "Pronunciation: /\u02c8pr\u025bs\u0259r/", "Definition: increasing (or tending to increase) blood pressure", ""]}
