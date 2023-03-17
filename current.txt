@@ -1,1 +1,1 @@
-{"data": ["2023-03-17T14:04:11.296164+00:00", 9730, "Your mother is", "water-soluble", "Pronunciation: /\u02c8w\u0254t\u0259r-\u02c8s\u0251lj\u0259b\u0259l/", "Definition: soluble in water", ""]}
+{"data": ["2023-03-17T15:03:26.112663+00:00", 9731, "Your mother is", "commonsensical", "Pronunciation: /\u02cck\u0251m\u0259n\u02c8s\u025bns\u026ak\u0259l/", "Definition: exhibiting native good judgment", "Synonyms: commonsense, commonsensible"]}
