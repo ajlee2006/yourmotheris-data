@@ -1,1 +1,1 @@
-{"data": ["2023-03-18T14:02:14.773251+00:00", 9754, "Your mother is", "amphibian", "Pronunciation: /\u00e6m\u02c8f\u026abi\u0259n/", "Definition: relating to or characteristic of animals of the class Amphibia", "Synonyms: amphibious"]}
+{"data": ["2023-03-18T15:02:22.230573+00:00", 9755, "Your mother is", "cyclonic", "Pronunciation: /sa\u026a\u02c8kl\u0251n\u026ak/", "Definition: of or relating to or characteristic of the atmosphere around a low pressure center", "Synonyms: cyclonal, cyclonical"]}
