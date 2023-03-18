@@ -1,1 +1,1 @@
-{"data": ["2023-03-18T07:03:10.956332+00:00", 9747, "Your mother is", "organismal", "", "Definition: of or relating to or belonging to an organism (considered as a whole)", "Synonyms: organismic"]}
+{"data": ["2023-03-18T08:03:51.311224+00:00", 9748, "Your mother is", "in store", "Similar to: future", "Definition: in readiness; awaiting", ""]}
