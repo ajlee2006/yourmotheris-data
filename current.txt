@@ -1,1 +1,1 @@
-{"data": ["2023-03-18T06:03:52.286953+00:00", 9746, "Your mother is", "matriarchal", "Pronunciation: /\u02ccme\u026atri\u02c8\u0251rk\u028cl/", "Definition: characteristic of a matriarchy", ""]}
+{"data": ["2023-03-18T07:03:10.956332+00:00", 9747, "Your mother is", "organismal", "", "Definition: of or relating to or belonging to an organism (considered as a whole)", "Synonyms: organismic"]}
