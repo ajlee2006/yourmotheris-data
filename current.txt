@@ -1,1 +1,1 @@
-{"data": ["2023-03-18T02:03:41.275302+00:00", 9742, "Your mother is", "appreciated", "Pronunciation: /\u028c\u02c8pri\u0283i\u02cce\u026at\u026ad/", "Definition: fully understood or grasped", "Synonyms: apprehended, comprehended"]}
+{"data": ["2023-03-18T03:03:13.935691+00:00", 9743, "Your mother is", "forgettable", "Pronunciation: /f\u0254r\u02c8\u0261\u025bt\u028cb\u028cl/", "Definition: easily forgotten", ""]}
