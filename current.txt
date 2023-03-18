@@ -1,1 +1,1 @@
-{"data": ["2023-03-18T22:02:36.494315+00:00", 9762, "Your mother is", "indoor", "Pronunciation: /\u02c8\u026an\u02ccdo\u028ar/", "Definition: located, suited for, or taking place within a building", ""]}
+{"data": ["2023-03-18T23:03:19.172103+00:00", 9763, "Your mother is", "sickly", "Pronunciation: /\u02c8s\u026akli/", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, indisposed, peaked, poorly, seedy, under the weather, unwell"]}
