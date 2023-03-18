@@ -1,1 +1,1 @@
-{"data": ["2023-03-18T11:02:13.796859+00:00", 9751, "Your mother is", "oversea", "Pronunciation: /\u02cco\u028av\u025dr\u02c8si/", "Definition: being or passing over or across the sea", "Synonyms: overseas"]}
+{"data": ["2023-03-18T12:03:13.804555+00:00", 9752, "Your mother is", "creditable", "Pronunciation: /\u02c8kr\u025bd\u026at\u0259b\u0259l/", "Definition: worthy of often limited commendation", ""]}
