@@ -1,1 +1,1 @@
-{"data": ["2023-03-18T19:03:11.807911+00:00", 9759, "Your mother is", "cacuminal", "Pronunciation: /k\u0259\u02c8kjum\u0259n\u0259l/", "Definition: pronounced with the tip of the tongue turned back toward the hard palate", "Synonyms: retroflex"]}
+{"data": ["2023-03-18T20:03:19.894212+00:00", 9760, "Your mother is", "openmouthed", "Similar to: surprised", "Definition: with eyes or mouth open in surprise", "Synonyms: goggle-eyed, popeyed"]}
