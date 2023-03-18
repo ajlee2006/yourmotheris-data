@@ -1,1 +1,1 @@
-{"data": ["2023-03-18T01:05:30.574407+00:00", 9741, "Your mother is", "brachiopod", "Pronunciation: /\u02c8bre\u026aki\u0259\u02ccp\u0251d/", "Definition: of or belonging to the phylum Brachiopoda", "Synonyms: brachiopodous"]}
+{"data": ["2023-03-18T02:03:41.275302+00:00", 9742, "Your mother is", "appreciated", "Pronunciation: /\u028c\u02c8pri\u0283i\u02cce\u026at\u026ad/", "Definition: fully understood or grasped", "Synonyms: apprehended, comprehended"]}
