@@ -1,1 +1,1 @@
-{"data": ["2023-03-18T12:03:13.804555+00:00", 9752, "Your mother is", "creditable", "Pronunciation: /\u02c8kr\u025bd\u026at\u0259b\u0259l/", "Definition: worthy of often limited commendation", ""]}
+{"data": ["2023-03-18T13:03:02.575989+00:00", 9753, "Your mother is", "frothy", "Pronunciation: /\u02c8fr\u0254\u03b8i/", "Definition: marked by high spirits or excitement", "Synonyms: bubbling, effervescent, scintillating, sparkly"]}
