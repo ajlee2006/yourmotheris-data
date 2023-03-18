@@ -1,1 +1,1 @@
-{"data": ["2023-03-18T18:02:55.894488+00:00", 9758, "Your mother is", "italian-speaking", "Similar to: communicative", "Definition: able to communicate in Italian", ""]}
+{"data": ["2023-03-18T19:03:11.807911+00:00", 9759, "Your mother is", "cacuminal", "Pronunciation: /k\u0259\u02c8kjum\u0259n\u0259l/", "Definition: pronounced with the tip of the tongue turned back toward the hard palate", "Synonyms: retroflex"]}
