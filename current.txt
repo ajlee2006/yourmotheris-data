@@ -1,1 +1,1 @@
-{"data": ["2023-03-18T10:03:16.293949+00:00", 9750, "Your mother is", "exploitative", "Pronunciation: /\u026ak\u02c8spl\u0254\u026at\u0259t\u026av/", "Definition: tending to exploit or make use of", "Synonyms: exploitatory, exploitive"]}
+{"data": ["2023-03-18T11:02:13.796859+00:00", 9751, "Your mother is", "oversea", "Pronunciation: /\u02cco\u028av\u025dr\u02c8si/", "Definition: being or passing over or across the sea", "Synonyms: overseas"]}
