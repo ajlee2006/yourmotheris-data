@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T00:04:57.158709+00:00", 9764, "Your mother is", "vengeful", "Pronunciation: /\u02c8v\u025bnd\u0292f\u0259l/", "Definition: disposed to seek revenge or intended for revenge", "Synonyms: revengeful, vindictive"]}
+{"data": ["2023-03-19T01:04:31.226349+00:00", 9765, "Your mother is", "unkind", "Pronunciation: /\u0259n\u02c8ka\u026and/", "Definition: deficient in humane and kindly feelings", "Synonyms: pitiless"]}
