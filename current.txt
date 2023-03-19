@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T05:02:19.109123+00:00", 9769, "Your mother is", "broad-leaved", "Pronunciation: /\u02c8br\u0254d\u02cclivd/", "Definition: having relatively broad rather than needlelike or scalelike leaves", "Synonyms: broad-leafed, broadleaf"]}
+{"data": ["2023-03-19T06:04:01.930878+00:00", 9770, "Your mother is", "alternating", "Pronunciation: /\u02c8\u0254lt\u025dr\u02ccne\u026at\u026a\u014b/", "Definition: occurring by turns; first one and then the other", "Synonyms: alternate"]}
