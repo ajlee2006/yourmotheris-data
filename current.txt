@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T22:03:22.953304+00:00", 9786, "Your mother is", "preventative", "Pronunciation: /pri\u02c8v\u025bnt\u0259t\u026av/", "Definition: preventing or contributing to the prevention of disease", "Synonyms: preventive, prophylactic"]}
+{"data": ["2023-03-19T23:03:12.579658+00:00", 9787, "Your mother is", "nonglutinous", "Similar to: nonadhesive", "Definition: not resembling glue in texture", "Synonyms: nonviscid"]}
