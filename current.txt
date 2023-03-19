@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T09:02:50.574632+00:00", 9773, "Your mother is", "half-time", "Pronunciation: /h\u00e6f-ta\u026am/", "Definition: involving half the standard or customary time for an activity", ""]}
+{"data": ["2023-03-19T10:02:34.123932+00:00", 9774, "Your mother is", "outward", "Pronunciation: /\u02c8a\u028atw\u0259rd/", "Definition: that is going out or leaving", "Synonyms: outbound, outward-bound"]}
