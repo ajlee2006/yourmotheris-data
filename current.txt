@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T12:03:03.828193+00:00", 9776, "Your mother is", "jaunty", "Pronunciation: /\u02c8d\u0292\u0254nti/", "Definition: having a cheerful, lively, and self-confident air", "Synonyms: chipper, debonair, debonaire"]}
+{"data": ["2023-03-19T13:03:19.210643+00:00", 9777, "Your mother is", "cool", "Pronunciation: /kul/", "Definition: marked by calm self-control (especially in trying circumstances); unemotional", "Synonyms: coolheaded, nerveless"]}
