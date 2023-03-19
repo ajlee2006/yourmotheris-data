@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T17:02:53.002008+00:00", 9781, "Your mother is", "hallucinogenic", "Pronunciation: /h\u0259\u02cclus\u0259no\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: capable of producing hallucinations", ""]}
+{"data": ["2023-03-19T18:03:14.532378+00:00", 9782, "Your mother is", "saxicolous", "Pronunciation: /s\u00e6k\u02c8s\u026ak\u0259l\u0259s/", "Definition: growing on or living among rocks", "Synonyms: saxatile, saxicoline"]}
