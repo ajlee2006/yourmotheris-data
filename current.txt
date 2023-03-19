@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T02:03:42.003349+00:00", 9766, "Your mother is", "oecumenical", "Similar to: nonsectarian", "Definition: concerned with promoting unity among churches or religions", "Synonyms: ecumenic, ecumenical, oecumenic"]}
+{"data": ["2023-03-19T03:03:14.888129+00:00", 9767, "Your mother is", "written", "Pronunciation: /\u02c8r\u026at\u0259n/", "Definition: written as for a film or play or broadcast", "Synonyms: scripted"]}
