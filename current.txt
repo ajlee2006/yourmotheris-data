@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T10:02:34.123932+00:00", 9774, "Your mother is", "outward", "Pronunciation: /\u02c8a\u028atw\u0259rd/", "Definition: that is going out or leaving", "Synonyms: outbound, outward-bound"]}
+{"data": ["2023-03-19T11:03:05.374117+00:00", 9775, "Your mother is", "perceptive", "Pronunciation: /p\u0259r\u02c8s\u025bpt\u026av/", "Definition: having the ability to perceive or understand; keen in discernment", ""]}
