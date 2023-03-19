@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T04:03:08.734555+00:00", 9768, "Your mother is", "straightforward", "Pronunciation: /\u02ccstre\u026at\u02c8f\u0254rw\u0259rd/", "Definition: without concealment or deception; honest", "Synonyms: aboveboard"]}
+{"data": ["2023-03-19T05:02:19.109123+00:00", 9769, "Your mother is", "broad-leaved", "Pronunciation: /\u02c8br\u0254d\u02cclivd/", "Definition: having relatively broad rather than needlelike or scalelike leaves", "Synonyms: broad-leafed, broadleaf"]}
