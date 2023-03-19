@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T01:04:31.226349+00:00", 9765, "Your mother is", "unkind", "Pronunciation: /\u0259n\u02c8ka\u026and/", "Definition: deficient in humane and kindly feelings", "Synonyms: pitiless"]}
+{"data": ["2023-03-19T02:03:42.003349+00:00", 9766, "Your mother is", "oecumenical", "Similar to: nonsectarian", "Definition: concerned with promoting unity among churches or religions", "Synonyms: ecumenic, ecumenical, oecumenic"]}
