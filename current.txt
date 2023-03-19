@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T11:03:05.374117+00:00", 9775, "Your mother is", "perceptive", "Pronunciation: /p\u0259r\u02c8s\u025bpt\u026av/", "Definition: having the ability to perceive or understand; keen in discernment", ""]}
+{"data": ["2023-03-19T12:03:03.828193+00:00", 9776, "Your mother is", "jaunty", "Pronunciation: /\u02c8d\u0292\u0254nti/", "Definition: having a cheerful, lively, and self-confident air", "Synonyms: chipper, debonair, debonaire"]}
