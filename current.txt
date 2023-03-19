@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T06:04:01.930878+00:00", 9770, "Your mother is", "alternating", "Pronunciation: /\u02c8\u0254lt\u025dr\u02ccne\u026at\u026a\u014b/", "Definition: occurring by turns; first one and then the other", "Synonyms: alternate"]}
+{"data": ["2023-03-19T07:02:54.010495+00:00", 9771, "Your mother is", "expert", "Pronunciation: /\u026ak\u02c8sp\u025crt/", "Definition: having or showing knowledge and skill and aptitude", "Synonyms: adept, good, practiced, proficient, skilful, skillful"]}
