@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T21:02:50.679869+00:00", 9785, "Your mother is", "commemorating", "Pronunciation: /k\u028c\u02c8m\u025bm\u025dr\u02cce\u026at\u026a\u014b/", "Definition: intended as a commemoration", "Synonyms: commemorative"]}
+{"data": ["2023-03-19T22:03:22.953304+00:00", 9786, "Your mother is", "preventative", "Pronunciation: /pri\u02c8v\u025bnt\u0259t\u026av/", "Definition: preventing or contributing to the prevention of disease", "Synonyms: preventive, prophylactic"]}
