@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T19:02:39.755209+00:00", 9783, "Your mother is", "undeserved", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8z\u025crvd/", "Definition: not deserved or earned", ""]}
+{"data": ["2023-03-19T20:03:16.725643+00:00", 9784, "Your mother is", "soundable", "", "Definition: (of depth) capable of being sounded or measured for depth", "Synonyms: fathomable, plumbable"]}
