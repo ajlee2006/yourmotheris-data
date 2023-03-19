@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T18:03:14.532378+00:00", 9782, "Your mother is", "saxicolous", "Pronunciation: /s\u00e6k\u02c8s\u026ak\u0259l\u0259s/", "Definition: growing on or living among rocks", "Synonyms: saxatile, saxicoline"]}
+{"data": ["2023-03-19T19:02:39.755209+00:00", 9783, "Your mother is", "undeserved", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8z\u025crvd/", "Definition: not deserved or earned", ""]}
