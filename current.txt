@@ -1,1 +1,1 @@
-{"data": ["2023-03-19T07:02:54.010495+00:00", 9771, "Your mother is", "expert", "Pronunciation: /\u026ak\u02c8sp\u025crt/", "Definition: having or showing knowledge and skill and aptitude", "Synonyms: adept, good, practiced, proficient, skilful, skillful"]}
+{"data": ["2023-03-19T08:04:28.309999+00:00", 9772, "Your mother is", "noncyclic", "", "Definition: not cyclic", "Synonyms: noncyclical"]}
