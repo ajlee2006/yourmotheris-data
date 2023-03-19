@@ -1,1 +1,1 @@
-{"data": ["2023-03-18T23:03:19.172103+00:00", 9763, "Your mother is", "sickly", "Pronunciation: /\u02c8s\u026akli/", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, indisposed, peaked, poorly, seedy, under the weather, unwell"]}
+{"data": ["2023-03-19T00:04:57.158709+00:00", 9764, "Your mother is", "vengeful", "Pronunciation: /\u02c8v\u025bnd\u0292f\u0259l/", "Definition: disposed to seek revenge or intended for revenge", "Synonyms: revengeful, vindictive"]}
