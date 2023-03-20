@@ -1,1 +1,1 @@
-{"data": ["2023-03-20T14:03:10.121738+00:00", 9802, "Your mother is", "unpredictable", "Pronunciation: /\u02cc\u0259npri\u02c8d\u026akt\u0259b\u0259l/", "Definition: not occurring at a regular rate or fixed intervals", "Synonyms: irregular"]}
+{"data": ["2023-03-20T15:03:27.032623+00:00", 9803, "Your mother is", "exemplary", "Pronunciation: /\u026a\u0261\u02c8z\u025bmpl\u0259ri/", "Definition: being or serving as an illustration of a type", "Synonyms: emblematic, typic"]}
