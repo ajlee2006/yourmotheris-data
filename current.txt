@@ -1,1 +1,1 @@
-{"data": ["2023-03-20T18:03:26.855685+00:00", 9806, "Your mother is", "decalescent", "Similar to: endothermal", "Definition: absorbing heat without increase in temperature when heated beyond a certain point", ""]}
+{"data": ["2023-03-20T19:03:18.249452+00:00", 9807, "Your mother is", "closed", "Pronunciation: /klo\u028azd/", "Definition: blocked against entry", "Synonyms: closed in"]}
