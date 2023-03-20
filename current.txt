@@ -1,1 +1,1 @@
-{"data": ["2023-03-20T22:03:17.111965+00:00", 9810, "Your mother is", "wriggly", "Pronunciation: /\u02c8r\u026agli/", "Definition: moving in a twisting or snake-like or wormlike fashion", "Synonyms: wiggly, wriggling, writhing"]}
+{"data": ["2023-03-20T23:03:31.574543+00:00", 9811, "Your mother is", "dyspeptic", "Pronunciation: /d\u026as\u02c8p\u025bpt\u026ak/", "Definition: irritable as if suffering from indigestion", "Synonyms: atrabilious, bilious, liverish"]}
