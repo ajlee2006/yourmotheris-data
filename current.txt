@@ -1,1 +1,1 @@
-{"data": ["2023-03-20T15:03:27.032623+00:00", 9803, "Your mother is", "exemplary", "Pronunciation: /\u026a\u0261\u02c8z\u025bmpl\u0259ri/", "Definition: being or serving as an illustration of a type", "Synonyms: emblematic, typic"]}
+{"data": ["2023-03-20T16:02:48.255997+00:00", 9804, "Your mother is", "monumental", "Pronunciation: /\u02ccm\u0251nj\u0259\u02c8m\u025bnt\u0259l/", "Definition: imposing in size or bulk or solidity", "Synonyms: massive, monolithic"]}
