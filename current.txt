@@ -1,1 +1,1 @@
-{"data": ["2023-03-20T19:03:18.249452+00:00", 9807, "Your mother is", "closed", "Pronunciation: /klo\u028azd/", "Definition: blocked against entry", "Synonyms: closed in"]}
+{"data": ["2023-03-20T20:03:39.073218+00:00", 9808, "Your mother is", "rolled into one", "Similar to: combined", "Definition: made up of several components combined into a single entity", ""]}
