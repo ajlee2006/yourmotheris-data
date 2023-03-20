@@ -1,1 +1,1 @@
-{"data": ["2023-03-20T06:04:20.546361+00:00", 9794, "Your mother is", "muddleheaded", "Pronunciation: /\u02c8m\u0259d\u0259l\u02cch\u025bd\u026ad/", "Definition: stupid and confused", "Synonyms: addlebrained, addlepated, puddingheaded"]}
+{"data": ["2023-03-20T07:02:17.604724+00:00", 9795, "Your mother is", "inadvisable", "Pronunciation: /\u02cc\u026an\u0259d\u02c8va\u026az\u0259b\u0259l/", "Definition: not prudent or wise; not recommended", "Synonyms: unadvisable"]}
