@@ -1,1 +1,1 @@
-{"data": ["2023-03-20T07:02:17.604724+00:00", 9795, "Your mother is", "inadvisable", "Pronunciation: /\u02cc\u026an\u0259d\u02c8va\u026az\u0259b\u0259l/", "Definition: not prudent or wise; not recommended", "Synonyms: unadvisable"]}
+{"data": ["2023-03-20T08:04:04.014628+00:00", 9796, "Your mother is", "participial", "Pronunciation: /\u02ccp\u0251rt\u026a\u02c8s\u026api\u0259l/", "Definition: of or relating to or consisting of participles", ""]}
