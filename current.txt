@@ -1,1 +1,1 @@
-{"data": ["2023-03-20T09:02:42.342142+00:00", 9797, "Your mother is", "columnar", "Pronunciation: /k\u0259\u02c8l\u0259mn\u0259r/", "Definition: having the form of a column", "Synonyms: columniform, columnlike"]}
+{"data": ["2023-03-20T10:03:02.700997+00:00", 9798, "Your mother is", "unsubdivided", "Similar to: acuminate", "Definition: (botany) of leaf shapes; of leaves having no divisions or subdivisions", "Synonyms: simple"]}
