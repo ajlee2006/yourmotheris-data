@@ -1,1 +1,1 @@
-{"data": ["2023-03-20T13:02:21.546178+00:00", 9801, "Your mother is", "tangy", "Pronunciation: /\u02c8t\u00e6\u014bi/", "Definition: tasting sour like a lemon", "Synonyms: lemonlike, lemony, sourish, tart"]}
+{"data": ["2023-03-20T14:03:10.121738+00:00", 9802, "Your mother is", "unpredictable", "Pronunciation: /\u02cc\u0259npri\u02c8d\u026akt\u0259b\u0259l/", "Definition: not occurring at a regular rate or fixed intervals", "Synonyms: irregular"]}
