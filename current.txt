@@ -1,1 +1,1 @@
-{"data": ["2023-03-20T05:04:05.667237+00:00", 9793, "Your mother is", "unmerited", "Pronunciation: /\u0259n\u02c8m\u025brit\u026ad/", "Definition: not merited", ""]}
+{"data": ["2023-03-20T06:04:20.546361+00:00", 9794, "Your mother is", "muddleheaded", "Pronunciation: /\u02c8m\u0259d\u0259l\u02cch\u025bd\u026ad/", "Definition: stupid and confused", "Synonyms: addlebrained, addlepated, puddingheaded"]}
