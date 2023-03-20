@@ -1,1 +1,1 @@
-{"data": ["2023-03-20T17:02:49.293827+00:00", 9805, "Your mother is", "stiff-tailed", "Similar to: caudate", "Definition: having a stiff tail", ""]}
+{"data": ["2023-03-20T18:03:26.855685+00:00", 9806, "Your mother is", "decalescent", "Similar to: endothermal", "Definition: absorbing heat without increase in temperature when heated beyond a certain point", ""]}
