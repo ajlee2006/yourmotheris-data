@@ -1,1 +1,1 @@
-{"data": ["2023-03-21T19:02:45.814591+00:00", 9830, "Your mother is", "personalized", "Pronunciation: /\u02c8p\u025drs\u028cn\u028c\u02ccla\u026azd/", "Definition: made for or directed or adjusted to a particular individual", "Synonyms: individualised, individualized, personalised"]}
+{"data": ["2023-03-21T20:03:23.304378+00:00", 9831, "Your mother is", "squared", "Pronunciation: /skw\u025brd/", "Definition: having been made square", ""]}
