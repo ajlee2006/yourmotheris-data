@@ -1,1 +1,1 @@
-{"data": ["2023-03-21T12:03:11.959742+00:00", 9824, "Your mother is", "gangrenous", "Pronunciation: /\u02c8\u0261\u00e6\u014bgr\u0259n\u0259s/", "Definition: suffering from tissue death", "Synonyms: mortified"]}
+{"data": ["2023-03-21T13:03:30.329522+00:00", 9825, "Your mother is", "bilaterally symmetrical", "", "Definition: capable of division into symmetrical halves by only one longitudinal plane passing through the axis", "Synonyms: zygomorphic, zygomorphous"]}
