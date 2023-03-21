@@ -1,1 +1,1 @@
-{"data": ["2023-03-21T04:03:06.792372+00:00", 9816, "Your mother is", "eel-shaped", "Pronunciation: /il-\u0283e\u026apt/", "Definition: shaped in the form of an eel", ""]}
+{"data": ["2023-03-21T05:04:16.800578+00:00", 9817, "Your mother is", "acerose", "Pronunciation: /\u02c8\u00e6s\u0259\u02ccro\u028as/", "Definition: narrow and long and pointed; as pine leaves", "Synonyms: acerate, acicular, needle-shaped"]}
