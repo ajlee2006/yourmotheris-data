@@ -1,1 +1,1 @@
-{"data": ["2023-03-21T01:04:55.641461+00:00", 9813, "Your mother is", "too-greedy", "Similar to: gluttonous", "Definition: excessively gluttonous", "Synonyms: overgreedy"]}
+{"data": ["2023-03-21T02:03:33.965659+00:00", 9814, "Your mother is", ".22-caliber", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures twenty-two hundredths of an inch in diameter", "Synonyms: .22-calibre, .22 caliber, .22 calibre"]}
