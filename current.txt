@@ -1,1 +1,1 @@
-{"data": ["2023-03-21T05:04:16.800578+00:00", 9817, "Your mother is", "acerose", "Pronunciation: /\u02c8\u00e6s\u0259\u02ccro\u028as/", "Definition: narrow and long and pointed; as pine leaves", "Synonyms: acerate, acicular, needle-shaped"]}
+{"data": ["2023-03-21T06:03:58.688124+00:00", 9818, "Your mother is", "hundred-and-fifth", "Similar to: ordinal", "Definition: the ordinal number of one hundred five in counting order", "Synonyms: 105th"]}
