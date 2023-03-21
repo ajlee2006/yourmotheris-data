@@ -1,1 +1,1 @@
-{"data": ["2023-03-21T07:03:04.649654+00:00", 9819, "Your mother is", "apetalous", "Pronunciation: /e\u026a\u02c8p\u025bt\u0259l\u0259s/", "Definition: (of flowers) having no petals", "Synonyms: petalless"]}
+{"data": ["2023-03-21T08:04:18.612115+00:00", 9820, "Your mother is", "unwanted", "Pronunciation: /\u0259n\u02c8w\u0251nt\u026ad/", "Definition: not wanted", "Synonyms: undesirable"]}
