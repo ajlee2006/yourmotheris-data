@@ -1,1 +1,1 @@
-{"data": ["2023-03-21T13:03:30.329522+00:00", 9825, "Your mother is", "bilaterally symmetrical", "", "Definition: capable of division into symmetrical halves by only one longitudinal plane passing through the axis", "Synonyms: zygomorphic, zygomorphous"]}
+{"data": ["2023-03-21T14:02:20.093192+00:00", 9826, "Your mother is", "upright", "Pronunciation: /\u02c8\u0259p\u02ccra\u026at/", "Definition: in a vertical position; not sloping", "Synonyms: unsloped"]}
