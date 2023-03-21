@@ -1,1 +1,1 @@
-{"data": ["2023-03-21T08:04:18.612115+00:00", 9820, "Your mother is", "unwanted", "Pronunciation: /\u0259n\u02c8w\u0251nt\u026ad/", "Definition: not wanted", "Synonyms: undesirable"]}
+{"data": ["2023-03-21T09:03:15.547029+00:00", 9821, "Your mother is", "take-away", "Similar to: portable", "Definition: of or involving food to be taken and eaten off the premises", "Synonyms: takeout"]}
