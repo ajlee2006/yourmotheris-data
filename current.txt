@@ -1,1 +1,1 @@
-{"data": ["2023-03-21T20:03:23.304378+00:00", 9831, "Your mother is", "squared", "Pronunciation: /skw\u025brd/", "Definition: having been made square", ""]}
+{"data": ["2023-03-21T21:02:30.917976+00:00", 9832, "Your mother is", "awny", "Similar to: bearded", "Definition: having awns i.e. bristlelike or hairlike appendages on the flowering parts of some cereals and grasses", "Synonyms: awned"]}
