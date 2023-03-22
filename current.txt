@@ -1,1 +1,1 @@
-{"data": ["2023-03-22T15:03:05.203981+00:00", 9850, "Your mother is", "buckram", "Pronunciation: /\u02c8b\u0259kr\u0259m/", "Definition: rigidly formal", "Synonyms: starchy, stiff"]}
+{"data": ["2023-03-22T16:02:32.343314+00:00", 9851, "Your mother is", "phytophilous", "Similar to: herbivorous", "Definition: (of animals) feeding on plants", "Synonyms: phytophagic, phytophagous, plant-eating"]}
