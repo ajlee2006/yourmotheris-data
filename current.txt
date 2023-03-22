@@ -1,1 +1,1 @@
-{"data": ["2023-03-22T13:02:50.496046+00:00", 9848, "Your mother is", "centenarian", "Pronunciation: /\u02ccs\u025bn\u02c8t\u0259n\u025cri\u0259n/", "Definition: being at least 100 years old", ""]}
+{"data": ["2023-03-22T14:02:41.578783+00:00", 9849, "Your mother is", "pasteurized", "Pronunciation: /\u02c8p\u00e6st\u0283\u025dr\u02cca\u026azd/", "Definition: having been subjected to pasteurization in order to halt fermentation", "Synonyms: pasteurised"]}
