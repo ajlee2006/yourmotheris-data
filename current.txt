@@ -1,1 +1,1 @@
-{"data": ["2023-03-22T08:04:11.839900+00:00", 9843, "Your mother is", "stormproof", "Similar to: protected", "Definition: protected against or able to withstand storms", ""]}
+{"data": ["2023-03-22T09:03:14.449257+00:00", 9844, "Your mother is", "humble", "Pronunciation: /\u02c8h\u0259mb\u0259l/", "Definition: of low birth or station (`base' is archaic in this sense)", "Synonyms: base, baseborn, lowly"]}
