@@ -1,1 +1,1 @@
-{"data": ["2023-03-22T09:03:14.449257+00:00", 9844, "Your mother is", "humble", "Pronunciation: /\u02c8h\u0259mb\u0259l/", "Definition: of low birth or station (`base' is archaic in this sense)", "Synonyms: base, baseborn, lowly"]}
+{"data": ["2023-03-22T10:03:08.989028+00:00", 9845, "Your mother is", "lucent", "Pronunciation: /\u02c8lus\u0259nt/", "Definition: softly bright or radiant", "Synonyms: aglow, lambent, luminous"]}
