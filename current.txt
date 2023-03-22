@@ -1,1 +1,1 @@
-{"data": ["2023-03-22T12:02:33.057681+00:00", 9847, "Your mother is", "labyrinthine", "Pronunciation: /\u02ccl\u00e6b\u02c8\u0259r\u026an\u03b8\u026an/", "Definition: resembling a labyrinth in form or complexity", "Synonyms: labyrinthian, mazy"]}
+{"data": ["2023-03-22T13:02:50.496046+00:00", 9848, "Your mother is", "centenarian", "Pronunciation: /\u02ccs\u025bn\u02c8t\u0259n\u025cri\u0259n/", "Definition: being at least 100 years old", ""]}
