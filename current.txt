@@ -1,1 +1,1 @@
-{"data": ["2023-03-22T22:02:50.412512+00:00", 9857, "Your mother is", "undeterminable", "Similar to: unpredictable", "Definition: not capable of being definitely decided or ascertained", "Synonyms: indeterminable"]}
+{"data": ["2023-03-22T23:02:43.344335+00:00", 9858, "Your mother is", "overstated", "Pronunciation: /\u02c8o\u028av\u025dr\u02ccste\u026at\u026ad/", "Definition: represented as greater than is true or reasonable", "Synonyms: exaggerated, overdone"]}
