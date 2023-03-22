@@ -1,1 +1,1 @@
-{"data": ["2023-03-22T14:02:41.578783+00:00", 9849, "Your mother is", "pasteurized", "Pronunciation: /\u02c8p\u00e6st\u0283\u025dr\u02cca\u026azd/", "Definition: having been subjected to pasteurization in order to halt fermentation", "Synonyms: pasteurised"]}
+{"data": ["2023-03-22T15:03:05.203981+00:00", 9850, "Your mother is", "buckram", "Pronunciation: /\u02c8b\u0259kr\u0259m/", "Definition: rigidly formal", "Synonyms: starchy, stiff"]}
