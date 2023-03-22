@@ -1,1 +1,1 @@
-{"data": ["2023-03-22T02:03:08.070500+00:00", 9837, "Your mother is", "dustlike", "Similar to: fine", "Definition: as fine and powdery as dust", ""]}
+{"data": ["2023-03-22T03:02:53.858571+00:00", 9838, "Your mother is", "chromatographic", "Pronunciation: /\u02cckro\u028am\u0259t\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to chromatography", "Synonyms: chromatographical"]}
