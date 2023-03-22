@@ -1,1 +1,1 @@
-{"data": ["2023-03-22T07:02:12.661028+00:00", 9842, "Your mother is", "condemnable", "Similar to: wrong", "Definition: bringing or deserving severe rebuke or censure", "Synonyms: criminal, deplorable, reprehensible, vicious"]}
+{"data": ["2023-03-22T08:04:11.839900+00:00", 9843, "Your mother is", "stormproof", "Similar to: protected", "Definition: protected against or able to withstand storms", ""]}
