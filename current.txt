@@ -1,1 +1,1 @@
-{"data": ["2023-03-22T03:02:53.858571+00:00", 9838, "Your mother is", "chromatographic", "Pronunciation: /\u02cckro\u028am\u0259t\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to chromatography", "Synonyms: chromatographical"]}
+{"data": ["2023-03-22T04:02:40.430999+00:00", 9839, "Your mother is", "hydrous", "Pronunciation: /\u02c8ha\u026adr\u0259s/", "Definition: containing combined water (especially water of crystallization as in a hydrate)", "Synonyms: hydrated"]}
