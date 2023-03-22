@@ -1,1 +1,1 @@
-{"data": ["2023-03-22T21:02:44.730858+00:00", 9856, "Your mother is", "mum", "Pronunciation: /m\u0259m/", "Definition: failing to speak or communicate etc when expected to", "Synonyms: silent"]}
+{"data": ["2023-03-22T22:02:50.412512+00:00", 9857, "Your mother is", "undeterminable", "Similar to: unpredictable", "Definition: not capable of being definitely decided or ascertained", "Synonyms: indeterminable"]}
