@@ -1,1 +1,1 @@
-{"data": ["2023-03-22T10:03:08.989028+00:00", 9845, "Your mother is", "lucent", "Pronunciation: /\u02c8lus\u0259nt/", "Definition: softly bright or radiant", "Synonyms: aglow, lambent, luminous"]}
+{"data": ["2023-03-22T11:03:11.798565+00:00", 9846, "Your mother is", "74", "Similar to: cardinal", "Definition: being four more than seventy", "Synonyms: lxxiv, seventy-four"]}
