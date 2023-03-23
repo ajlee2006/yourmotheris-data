@@ -1,1 +1,1 @@
-{"data": ["2023-03-23T09:02:22.069857+00:00", 9868, "Your mother is", "subjunctive", "Pronunciation: /s\u0259b\u02c8d\u0292\u0259\u014bkt\u026av/", "Definition: relating to a mood of verbs", ""]}
+{"data": ["2023-03-23T10:03:06.145062+00:00", 9869, "Your mother is", "drug-free", "Similar to: sober", "Definition: characteristic of a person not taking illegal drugs or of a place where no illegal drugs are used", ""]}
