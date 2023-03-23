@@ -1,1 +1,1 @@
-{"data": ["2023-03-23T11:03:24.802331+00:00", 9870, "Your mother is", "faraway", "Pronunciation: /\u02c8f\u0251r\u0259\u02c8we\u026a/", "Definition: very far away in space or time", "Synonyms: far-off"]}
+{"data": ["2023-03-23T12:02:37.124985+00:00", 9871, "Your mother is", "straightforward", "Pronunciation: /\u02ccstre\u026at\u02c8f\u0254rw\u0259rd/", "Definition: without concealment or deception; honest", "Synonyms: aboveboard"]}
