@@ -1,1 +1,1 @@
-{"data": ["2023-03-23T13:03:25.494540+00:00", 9872, "Your mother is", "catty-cornered", "Pronunciation: /\u02c8k\u00e6ti-\u02c8k\u0254rn\u0259rd/", "Definition: slanted across a polygon on a diagonal line", "Synonyms: cata-cornered, catacorner, cater-cornered, catercorner, catty-corner, kitty-corner, kitty-cornered"]}
+{"data": ["2023-03-23T14:03:25.831256+00:00", 9873, "Your mother is", "heterogenous", "Pronunciation: /\u02cch\u025bt\u0259\u02c8r\u0251d\u0292\u0259n\u0259s/", "Definition: originating outside the body", "Synonyms: heterogeneous"]}
