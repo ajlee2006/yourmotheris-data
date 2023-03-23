@@ -1,1 +1,1 @@
-{"data": ["2023-03-23T03:03:05.656879+00:00", 9862, "Your mother is", "prudential", "Pronunciation: /pru\u02c8d\u025bn\u0283\u0259l/", "Definition: arising from or characterized by prudence especially in business matters", ""]}
+{"data": ["2023-03-23T04:03:03.415395+00:00", 9863, "Your mother is", "vibrant", "Pronunciation: /\u02c8va\u026abr\u0259nt/", "Definition: vigorous and animated", "Synonyms: vivacious"]}
