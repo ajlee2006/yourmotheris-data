@@ -1,1 +1,1 @@
-{"data": ["2023-03-23T01:04:41.614215+00:00", 9860, "Your mother is", "putdownable", "Similar to: uninteresting", "Definition: (of a book) poorly written and not entertaining", ""]}
+{"data": ["2023-03-23T02:02:54.864754+00:00", 9861, "Your mother is", "spellbinding", "Pronunciation: /\u02c8sp\u025bl\u02ccba\u026and\u026a\u014b/", "Definition: attracting and holding interest as if by a spell", "Synonyms: hypnotic, mesmeric, mesmerizing"]}
