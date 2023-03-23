@@ -1,1 +1,1 @@
-{"data": ["2023-03-23T22:03:26.683623+00:00", 9881, "Your mother is", "nonparallel", "Similar to: asynchronous", "Definition: of or relating to the sequential performance of multiple operations", "Synonyms: in series, serial"]}
+{"data": ["2023-03-23T23:02:48.635121+00:00", 9882, "Your mother is", "disclike", "Similar to: circular", "Definition: having a flat circular shape", "Synonyms: disc-shaped, discoid, discoidal, disk-shaped, disklike"]}
