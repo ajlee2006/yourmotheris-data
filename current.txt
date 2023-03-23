@@ -1,1 +1,1 @@
-{"data": ["2023-03-23T12:02:37.124985+00:00", 9871, "Your mother is", "straightforward", "Pronunciation: /\u02ccstre\u026at\u02c8f\u0254rw\u0259rd/", "Definition: without concealment or deception; honest", "Synonyms: aboveboard"]}
+{"data": ["2023-03-23T13:03:25.494540+00:00", 9872, "Your mother is", "catty-cornered", "Pronunciation: /\u02c8k\u00e6ti-\u02c8k\u0254rn\u0259rd/", "Definition: slanted across a polygon on a diagonal line", "Synonyms: cata-cornered, catacorner, cater-cornered, catercorner, catty-corner, kitty-corner, kitty-cornered"]}
