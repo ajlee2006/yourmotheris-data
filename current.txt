@@ -1,1 +1,1 @@
-{"data": ["2023-03-23T08:03:42.775922+00:00", 9867, "Your mother is", "coal-black", "Pronunciation: /ko\u028al-bl\u00e6k/", "Definition: of the blackest black; similar to the color of jet or coal", "Synonyms: jet, jet-black, pitchy, sooty"]}
+{"data": ["2023-03-23T09:02:22.069857+00:00", 9868, "Your mother is", "subjunctive", "Pronunciation: /s\u0259b\u02c8d\u0292\u0259\u014bkt\u026av/", "Definition: relating to a mood of verbs", ""]}
