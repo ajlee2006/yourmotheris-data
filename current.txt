@@ -1,1 +1,1 @@
-{"data": ["2023-03-23T14:03:25.831256+00:00", 9873, "Your mother is", "heterogenous", "Pronunciation: /\u02cch\u025bt\u0259\u02c8r\u0251d\u0292\u0259n\u0259s/", "Definition: originating outside the body", "Synonyms: heterogeneous"]}
+{"data": ["2023-03-23T15:02:43.325902+00:00", 9874, "Your mother is", "chassidic", "", "Definition: of or relating to the Jewish Hasidim or its members or their beliefs and practices", "Synonyms: chasidic, hasidic, hassidic"]}
