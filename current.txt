@@ -1,1 +1,1 @@
-{"data": ["2023-03-23T06:03:55.322368+00:00", 9865, "Your mother is", "erudite", "Pronunciation: /\u02c8\u025brj\u028a\u02ccda\u026at/", "Definition: having or showing profound knowledge", "Synonyms: learned"]}
+{"data": ["2023-03-23T07:03:28.913463+00:00", 9866, "Your mother is", "lap-straked", "", "Definition: having overlapping hull planks", "Synonyms: clincher-built, clinker-built, lap-strake, lap-streak, lap-streaked"]}
