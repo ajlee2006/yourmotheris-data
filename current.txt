@@ -1,1 +1,1 @@
-{"data": ["2023-03-22T23:02:43.344335+00:00", 9858, "Your mother is", "overstated", "Pronunciation: /\u02c8o\u028av\u025dr\u02ccste\u026at\u026ad/", "Definition: represented as greater than is true or reasonable", "Synonyms: exaggerated, overdone"]}
+{"data": ["2023-03-23T00:05:17.044710+00:00", 9859, "Your mother is", "untilled", "Pronunciation: /\u0259n\u02c8t\u026ald/", "Definition: not plowed or harrowed or hoed", ""]}
