@@ -1,1 +1,1 @@
-{"data": ["2023-03-23T00:05:17.044710+00:00", 9859, "Your mother is", "untilled", "Pronunciation: /\u0259n\u02c8t\u026ald/", "Definition: not plowed or harrowed or hoed", ""]}
+{"data": ["2023-03-23T01:04:41.614215+00:00", 9860, "Your mother is", "putdownable", "Similar to: uninteresting", "Definition: (of a book) poorly written and not entertaining", ""]}
