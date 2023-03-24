@@ -1,1 +1,1 @@
-{"data": ["2023-03-24T05:03:42.901600+00:00", 9888, "Your mother is", "forty-seven", "Pronunciation: /\u02c8f\u0254rti-\u02c8s\u025bv\u0259n/", "Definition: being seven more than forty", "Synonyms: 47, xlvii"]}
+{"data": ["2023-03-24T06:04:06.303347+00:00", 9889, "Your mother is", "ravaged", "Pronunciation: /\u02c8r\u00e6v\u026ad\u0292d/", "Definition: having been robbed and destroyed by force and violence", "Synonyms: despoiled, pillaged, raped, sacked"]}
