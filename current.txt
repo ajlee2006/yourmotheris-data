@@ -1,1 +1,1 @@
-{"data": ["2023-03-24T20:03:10.047851+00:00", 9903, "Your mother is", "scrabbly", "Similar to: wooded", "Definition: sparsely covered with stunted trees or vegetation and underbrush", "Synonyms: scrubby"]}
+{"data": ["2023-03-24T22:02:47.773158+00:00", 9904, "Your mother is", "sandalled", "Similar to: shod", "Definition: shod with sandals", "Synonyms: sandaled"]}
