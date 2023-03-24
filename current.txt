@@ -1,1 +1,1 @@
-{"data": ["2023-03-24T10:02:21.729476+00:00", 9893, "Your mother is", "priggish", "Pronunciation: /\u02c8pr\u026a\u0261\u026a\u0283/", "Definition: exaggeratedly proper", "Synonyms: prim, prissy, prudish, puritanical, square-toed, straight-laced, straightlaced, strait-laced, straitlaced, tight-laced, victorian"]}
+{"data": ["2023-03-24T11:02:24.826191+00:00", 9894, "Your mother is", "upfront", "Pronunciation: /\u0259p\u02c8fr\u0259nt/", "Definition: frank and honest", ""]}
