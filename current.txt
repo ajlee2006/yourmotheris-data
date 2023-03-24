@@ -1,1 +1,1 @@
-{"data": ["2023-03-24T04:03:33.592581+00:00", 9887, "Your mother is", "star-struck", "Similar to: enchanted", "Definition: fascinated by a famous person", ""]}
+{"data": ["2023-03-24T05:03:42.901600+00:00", 9888, "Your mother is", "forty-seven", "Pronunciation: /\u02c8f\u0254rti-\u02c8s\u025bv\u0259n/", "Definition: being seven more than forty", "Synonyms: 47, xlvii"]}
