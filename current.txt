@@ -1,1 +1,1 @@
-{"data": ["2023-03-24T08:03:54.010862+00:00", 9891, "Your mother is", "misbranded", "Similar to: illegal", "Definition: branded or labeled falsely and in violation of statutory requirements", "Synonyms: mislabeled"]}
+{"data": ["2023-03-24T09:03:36.347329+00:00", 9892, "Your mother is", "nonpartisan", "Pronunciation: /\u02c8n\u0251n\u02c8p\u0251rt\u0259z\u0259n/", "Definition: free from party affiliation or bias", "Synonyms: nonpartizan"]}
