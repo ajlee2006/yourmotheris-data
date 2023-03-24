@@ -1,1 +1,1 @@
-{"data": ["2023-03-24T22:02:47.773158+00:00", 9904, "Your mother is", "sandalled", "Similar to: shod", "Definition: shod with sandals", "Synonyms: sandaled"]}
+{"data": ["2023-03-24T23:02:58.363772+00:00", 9905, "Your mother is", "electric", "Pronunciation: /\u026a\u02c8l\u025bktr\u026ak/", "Definition: using or providing or producing or transmitting or operated by electricity", "Synonyms: electrical"]}
