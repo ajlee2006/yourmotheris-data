@@ -1,1 +1,1 @@
-{"data": ["2023-03-24T19:02:13.739511+00:00", 9902, "Your mother is", "sticking out", "Similar to: protrusive", "Definition: extending out above or beyond a surface or boundary", "Synonyms: jutting, projected, projecting, protruding, relieved, sticking"]}
+{"data": ["2023-03-24T20:03:10.047851+00:00", 9903, "Your mother is", "scrabbly", "Similar to: wooded", "Definition: sparsely covered with stunted trees or vegetation and underbrush", "Synonyms: scrubby"]}
