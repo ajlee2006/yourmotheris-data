@@ -1,1 +1,1 @@
-{"data": ["2023-03-24T14:02:24.022309+00:00", 9897, "Your mother is", "steamy", "Pronunciation: /\u02c8stimi/", "Definition: filled with steam or emitting moisture in the form of vapor or mist", "Synonyms: steaming"]}
+{"data": ["2023-03-24T15:02:30.526518+00:00", 9898, "Your mother is", "glabrous", "Pronunciation: /\u02c8gle\u026abr\u0259s/", "Definition: having no hair or similar growth; smooth", ""]}
