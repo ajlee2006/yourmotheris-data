@@ -1,1 +1,1 @@
-{"data": ["2023-03-24T18:03:06.685231+00:00", 9901, "Your mother is", "street smart", "Similar to: smart", "Definition: having the shrewd resourcefulness needed to survive in an urban environment", "Synonyms: streetwise, with-it"]}
+{"data": ["2023-03-24T19:02:13.739511+00:00", 9902, "Your mother is", "sticking out", "Similar to: protrusive", "Definition: extending out above or beyond a surface or boundary", "Synonyms: jutting, projected, projecting, protruding, relieved, sticking"]}
