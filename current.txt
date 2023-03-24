@@ -1,1 +1,1 @@
-{"data": ["2023-03-24T06:04:06.303347+00:00", 9889, "Your mother is", "ravaged", "Pronunciation: /\u02c8r\u00e6v\u026ad\u0292d/", "Definition: having been robbed and destroyed by force and violence", "Synonyms: despoiled, pillaged, raped, sacked"]}
+{"data": ["2023-03-24T07:03:32.415431+00:00", 9890, "Your mother is", "chaetognathan", "Pronunciation: /ki\u02c8t\u0251gn\u0259\u03b8\u0259n/", "Definition: of or relating to arrowworms", "Synonyms: chaetognathous"]}
