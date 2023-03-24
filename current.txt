@@ -1,1 +1,1 @@
-{"data": ["2023-03-24T02:03:20.407708+00:00", 9885, "Your mother is", "venturous", "Pronunciation: /\u02c8v\u025bn\u02a7\u0259r\u0259s/", "Definition: disposed to venture or take risks", "Synonyms: audacious, daring, venturesome"]}
+{"data": ["2023-03-24T03:02:38.748900+00:00", 9886, "Your mother is", "pumped", "Pronunciation: /p\u028cmpt/", "Definition: tense with excitement and enthusiasm as from a rush of adrenaline", "Synonyms: pumped-up, pumped up, wired"]}
