@@ -1,1 +1,1 @@
-{"data": ["2023-03-25T21:03:06.912589+00:00", 9927, "Your mother is", "starboard", "Pronunciation: /\u02c8st\u0251rb\u0259d/", "Definition: located on the right side of a ship or aircraft", ""]}
+{"data": ["2023-03-25T22:02:23.274108+00:00", 9928, "Your mother is", "scented", "Pronunciation: /\u02c8s\u025bnt\u026ad/", "Definition: filled or impregnated with perfume", "Synonyms: perfumed"]}
