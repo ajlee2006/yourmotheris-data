@@ -1,1 +1,1 @@
-{"data": ["2023-03-25T11:03:25.958152+00:00", 9917, "Your mother is", "look-alike", "Pronunciation: /l\u028ak-\u0259\u02c8la\u026ak/", "Definition: resembling closely", ""]}
+{"data": ["2023-03-25T12:04:18.846388+00:00", 9918, "Your mother is", "dizzy", "Pronunciation: /\u02c8d\u026azi/", "Definition: lacking seriousness; given to frivolity", "Synonyms: airheaded, empty-headed, featherbrained, giddy, light-headed, lightheaded, silly"]}
