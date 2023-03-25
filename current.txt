@@ -1,1 +1,1 @@
-{"data": ["2023-03-25T19:03:08.311629+00:00", 9925, "Your mother is", "parentless", "Similar to: fatherless", "Definition: having no parent or parents or not cared for by parent surrogates", "Synonyms: unparented"]}
+{"data": ["2023-03-25T20:03:27.796181+00:00", 9926, "Your mother is", "transnational", "Pronunciation: /tr\u00e6ns\u02c8n\u00e6\u0283\u0259n\u0259l/", "Definition: involving or operating in several nations or nationalities", "Synonyms: multinational"]}
