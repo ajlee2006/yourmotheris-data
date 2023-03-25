@@ -1,1 +1,1 @@
-{"data": ["2023-03-25T01:04:17.795727+00:00", 9907, "Your mother is", "validated", "Pronunciation: /\u02c8v\u00e6l\u028cde\u026at\u028cd/", "Definition: declared or made legally valid", ""]}
+{"data": ["2023-03-25T02:02:36.930544+00:00", 9908, "Your mother is", "86", "Similar to: cardinal", "Definition: being six more than eighty", "Synonyms: eighty-six, lxxxvi"]}
