@@ -1,1 +1,1 @@
-{"data": ["2023-03-25T09:04:18.903231+00:00", 9915, "Your mother is", "embryonic", "Pronunciation: /\u02cc\u025bmbri\u02c8\u0251n\u026ak/", "Definition: in an early stage of development", "Synonyms: embryotic"]}
+{"data": ["2023-03-25T10:03:34.785653+00:00", 9916, "Your mother is", "whatsoever", "Pronunciation: /\u02cchw\u0259tso\u028a\u02c8\u025bv\u0259r/", "Definition: one or some or every or all without specification", "Synonyms: any, whatever"]}
