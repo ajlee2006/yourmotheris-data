@@ -1,1 +1,1 @@
-{"data": ["2023-03-25T13:02:35.827040+00:00", 9919, "Your mother is", "intractable", "Pronunciation: /\u026an\u02c8tr\u00e6kt\u0259b\u0259l/", "Definition: not tractable; difficult to manage or mold", ""]}
+{"data": ["2023-03-25T14:02:40.803129+00:00", 9920, "Your mother is", "surmountable", "Similar to: passable", "Definition: capable of being surmounted", "Synonyms: climbable"]}
