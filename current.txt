@@ -1,1 +1,1 @@
-{"data": ["2023-03-25T00:05:02.692460+00:00", 9906, "Your mother is", "fulgurant", "Pronunciation: /\u02c8f\u0259lgj\u0259r\u0259nt/", "Definition: amazingly impressive; suggestive of the flashing of lightning", "Synonyms: dazzling, eye-popping, fulgurous"]}
+{"data": ["2023-03-25T01:04:17.795727+00:00", 9907, "Your mother is", "validated", "Pronunciation: /\u02c8v\u00e6l\u028cde\u026at\u028cd/", "Definition: declared or made legally valid", ""]}
