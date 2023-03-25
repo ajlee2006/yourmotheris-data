@@ -1,1 +1,1 @@
-{"data": ["2023-03-25T02:02:36.930544+00:00", 9908, "Your mother is", "86", "Similar to: cardinal", "Definition: being six more than eighty", "Synonyms: eighty-six, lxxxvi"]}
+{"data": ["2023-03-25T03:03:27.588643+00:00", 9909, "Your mother is", "curvilineal", "Similar to: curved", "Definition: characterized by or following a curved line", "Synonyms: curvilinear"]}
