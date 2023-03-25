@@ -1,1 +1,1 @@
-{"data": ["2023-03-25T18:03:30.849164+00:00", 9924, "Your mother is", "acinic", "Pronunciation: /\u0259\u02c8s\u026an\u026ak/", "Definition: pertaining to one of the small sacs (as in a compound gland)", "Synonyms: acinar, acinose, acinous"]}
+{"data": ["2023-03-25T19:03:08.311629+00:00", 9925, "Your mother is", "parentless", "Similar to: fatherless", "Definition: having no parent or parents or not cared for by parent surrogates", "Synonyms: unparented"]}
