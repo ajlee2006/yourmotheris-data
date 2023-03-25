@@ -1,1 +1,1 @@
-{"data": ["2023-03-24T23:02:58.363772+00:00", 9905, "Your mother is", "electric", "Pronunciation: /\u026a\u02c8l\u025bktr\u026ak/", "Definition: using or providing or producing or transmitting or operated by electricity", "Synonyms: electrical"]}
+{"data": ["2023-03-25T00:05:02.692460+00:00", 9906, "Your mother is", "fulgurant", "Pronunciation: /\u02c8f\u0259lgj\u0259r\u0259nt/", "Definition: amazingly impressive; suggestive of the flashing of lightning", "Synonyms: dazzling, eye-popping, fulgurous"]}
