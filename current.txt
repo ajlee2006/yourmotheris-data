@@ -1,1 +1,1 @@
-{"data": ["2023-03-25T20:03:27.796181+00:00", 9926, "Your mother is", "transnational", "Pronunciation: /tr\u00e6ns\u02c8n\u00e6\u0283\u0259n\u0259l/", "Definition: involving or operating in several nations or nationalities", "Synonyms: multinational"]}
+{"data": ["2023-03-25T21:03:06.912589+00:00", 9927, "Your mother is", "starboard", "Pronunciation: /\u02c8st\u0251rb\u0259d/", "Definition: located on the right side of a ship or aircraft", ""]}
