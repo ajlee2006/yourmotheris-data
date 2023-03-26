@@ -1,1 +1,1 @@
-{"data": ["2023-03-26T04:01:45.800352+00:00", 9934, "Your mother is", "uncomplete", "Pronunciation: /\u02cc\u028cnk\u028cm\u02c8plit/", "Definition: not complete or total; not completed", "Synonyms: incomplete"]}
+{"data": ["2023-03-26T05:01:40.312491+00:00", 9935, "Your mother is", "enured", "Similar to: tough", "Definition: made tough by habitual exposure", "Synonyms: hardened, inured"]}
