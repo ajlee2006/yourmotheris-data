@@ -1,1 +1,1 @@
-{"data": ["2023-03-26T08:03:20.072902+00:00", 9938, "Your mother is", "binary", "Pronunciation: /\u02c8ba\u026an\u0259ri/", "Definition: consisting of two (units or components or elements or terms)", ""]}
+{"data": ["2023-03-26T09:02:44.247853+00:00", 9939, "Your mother is", "nonexploratory", "", "Definition: not exploratory", "Synonyms: nonexplorative, unexplorative, unexploratory"]}
