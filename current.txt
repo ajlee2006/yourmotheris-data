@@ -1,1 +1,1 @@
-{"data": ["2023-03-26T13:02:57.890045+00:00", 9943, "Your mother is", "spinous", "Pronunciation: /\u02c8spa\u026an\u0259s/", "Definition: having spines", "Synonyms: spiny"]}
+{"data": ["2023-03-26T14:03:19.315369+00:00", 9944, "Your mother is", "puzzled", "Pronunciation: /\u02c8p\u028cz\u028cld/", "Definition: filled with bewilderment", "Synonyms: at a loss, nonplused, nonplussed"]}
