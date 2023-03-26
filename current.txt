@@ -1,1 +1,1 @@
-{"data": ["2023-03-26T19:03:02.289252+00:00", 9949, "Your mother is", "brattish", "Similar to: impolite", "Definition: (used of an ill-mannered child) impolitely unruly", "Synonyms: bratty"]}
+{"data": ["2023-03-26T20:03:00.482740+00:00", 9950, "Your mother is", "hebraic", "Pronunciation: /h\u026a\u02c8bre\u026a\u026ak/", "Definition: of or relating to the language of the Hebrews", "Synonyms: hebraical, hebrew"]}
