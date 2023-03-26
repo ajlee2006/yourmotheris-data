@@ -1,1 +1,1 @@
-{"data": ["2023-03-26T11:02:39.673908+00:00", 9941, "Your mother is", "pretty", "Pronunciation: /\u02c8pr\u026ati/", "Definition: pleasing by delicacy or grace; not imposing", ""]}
+{"data": ["2023-03-26T12:02:37.134440+00:00", 9942, "Your mother is", "complaintive", "Similar to: fretful", "Definition: expressing pain or dissatisfaction of resentment", "Synonyms: complaining"]}
