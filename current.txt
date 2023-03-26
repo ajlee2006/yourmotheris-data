@@ -1,1 +1,1 @@
-{"data": ["2023-03-26T21:02:58.821485+00:00", 9951, "Your mother is", "feigned", "Pronunciation: /fe\u026and/", "Definition: not genuine", ""]}
+{"data": ["2023-03-26T22:02:23.750928+00:00", 9952, "Your mother is", "triangular", "Pronunciation: /tra\u026a\u02c8\u00e6\u014b\u0261j\u0259l\u0259r/", "Definition: having three sides", "Synonyms: three-sided, trilateral"]}
