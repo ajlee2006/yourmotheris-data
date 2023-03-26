@@ -1,1 +1,1 @@
-{"data": ["2023-03-26T18:03:25.666986+00:00", 9948, "Your mother is", "discriminable", "Similar to: distinguishable", "Definition: capable of being discriminated", ""]}
+{"data": ["2023-03-26T19:03:02.289252+00:00", 9949, "Your mother is", "brattish", "Similar to: impolite", "Definition: (used of an ill-mannered child) impolitely unruly", "Synonyms: bratty"]}
