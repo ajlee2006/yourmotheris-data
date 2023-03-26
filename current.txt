@@ -1,1 +1,1 @@
-{"data": ["2023-03-26T01:02:50.568272+00:00", 9931, "Your mother is", "expendable", "Pronunciation: /\u026ak\u02c8sp\u025bnd\u0259b\u0259l/", "Definition: (used of funds) remaining after taxes", "Synonyms: spendable"]}
+{"data": ["2023-03-26T02:02:18.350704+00:00", 9932, "Your mother is", "ascribable", "Similar to: attributable", "Definition: capable of being assigned or credited to", "Synonyms: due, imputable, referable"]}
