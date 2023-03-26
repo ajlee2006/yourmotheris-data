@@ -1,1 +1,1 @@
-{"data": ["2023-03-26T15:02:43.064154+00:00", 9945, "Your mother is", "bossy", "Pronunciation: /\u02c8b\u0251si/", "Definition: offensively self-assured or given to exercising usually unwarranted power", "Synonyms: autocratic, dominating, high-and-mighty, magisterial, peremptory"]}
+{"data": ["2023-03-26T16:02:36.109306+00:00", 9946, "Your mother is", "monopolistic", "Pronunciation: /m\u028c\u02ccn\u0251p\u028c\u02c8l\u026ast\u026ak/", "Definition: having exclusive control over a commercial activity by possession or legal grant", ""]}
