@@ -1,1 +1,1 @@
-{"data": ["2023-03-26T02:02:18.350704+00:00", 9932, "Your mother is", "ascribable", "Similar to: attributable", "Definition: capable of being assigned or credited to", "Synonyms: due, imputable, referable"]}
+{"data": ["2023-03-26T03:01:31.840012+00:00", 9933, "Your mother is", "muddied", "Pronunciation: /\u02c8m\u028cdid/", "Definition: (of color) discolored by impurities; not bright and clear", "Synonyms: dingy, dirty, muddy"]}
