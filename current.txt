@@ -1,1 +1,1 @@
-{"data": ["2023-03-27T15:03:22.233961+00:00", 9968, "Your mother is", "pink-red", "Similar to: chromatic", "Definition: of red tinged with pink", ""]}
+{"data": ["2023-03-27T16:03:21.906468+00:00", 9969, "Your mother is", "mithraic", "", "Definition: of or relating to Mithraism or its god", "Synonyms: mithraistic"]}
