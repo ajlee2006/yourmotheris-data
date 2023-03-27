@@ -1,1 +1,1 @@
-{"data": ["2023-03-27T16:03:21.906468+00:00", 9969, "Your mother is", "mithraic", "", "Definition: of or relating to Mithraism or its god", "Synonyms: mithraistic"]}
+{"data": ["2023-03-27T17:03:00.294263+00:00", 9970, "Your mother is", "elemental", "Pronunciation: /\u02cc\u025bl\u0259\u02c8m\u025bnt\u0259l/", "Definition: of or being the essential or basic part", "Synonyms: basal, elementary, primary"]}
