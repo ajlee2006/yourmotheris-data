@@ -1,1 +1,1 @@
-{"data": ["2023-03-27T21:01:27.766092+00:00", 9974, "Your mother is", "inconceivable", "Pronunciation: /\u02cc\u026ank\u0259n\u02c8siv\u0259b\u0259l/", "Definition: totally unlikely", "Synonyms: impossible, out of the question, unimaginable"]}
+{"data": ["2023-03-27T22:02:25.001979+00:00", 9975, "Your mother is", "reparable", "Pronunciation: /\u02c8r\u025bp\u0259r\u0259b\u0259l/", "Definition: capable of being repaired or rectified", "Synonyms: rectifiable"]}
