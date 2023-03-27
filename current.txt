@@ -1,1 +1,1 @@
-{"data": ["2023-03-27T14:03:00.962203+00:00", 9967, "Your mother is", "light-colored", "Pronunciation: /la\u026at-\u02c8k\u0259l\u0259rd/", "Definition: (used of color) having a relatively small amount of coloring agent", "Synonyms: light"]}
+{"data": ["2023-03-27T15:03:22.233961+00:00", 9968, "Your mother is", "pink-red", "Similar to: chromatic", "Definition: of red tinged with pink", ""]}
