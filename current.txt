@@ -1,1 +1,1 @@
-{"data": ["2023-03-27T11:02:32.602589+00:00", 9965, "Your mother is", "reticent", "Pronunciation: /\u02c8r\u025bt\u026as\u0259nt/", "Definition: temperamentally disinclined to talk", "Synonyms: untalkative"]}
+{"data": ["2023-03-27T12:02:51.742713+00:00", 9966, "Your mother is", "stubby", "Pronunciation: /\u02c8st\u0259bi/", "Definition: short and blunt", ""]}
