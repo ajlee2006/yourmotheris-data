@@ -1,1 +1,1 @@
-{"data": ["2023-03-27T22:02:25.001979+00:00", 9975, "Your mother is", "reparable", "Pronunciation: /\u02c8r\u025bp\u0259r\u0259b\u0259l/", "Definition: capable of being repaired or rectified", "Synonyms: rectifiable"]}
+{"data": ["2023-03-27T23:02:06.197837+00:00", 9976, "Your mother is", "lapsed", "Pronunciation: /l\u00e6pst/", "Definition: no longer active or practicing", "Synonyms: nonchurchgoing"]}
