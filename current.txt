@@ -1,1 +1,1 @@
-{"data": ["2023-03-27T04:03:14.037620+00:00", 9958, "Your mother is", "hush-hush", "Pronunciation: /\u02c8h\u0259\u0283\u02cch\u0259\u0283/", "Definition: conducted with or marked by hidden aims or methods", "Synonyms: clandestine, cloak-and-dagger, hole-and-corner, hugger-mugger, secret, surreptitious, undercover, underground"]}
+{"data": ["2023-03-27T05:03:13.438192+00:00", 9959, "Your mother is", "wedded", "Pronunciation: /\u02c8w\u025bd\u026ad/", "Definition: having been taken in marriage", "Synonyms: wed"]}
