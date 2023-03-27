@@ -1,1 +1,1 @@
-{"data": ["2023-03-27T09:04:04.472830+00:00", 9963, "Your mother is", "formulaic", "Pronunciation: /\u02ccf\u0254rmj\u0259\u02c8le\u026a\u026ak/", "Definition: characterized by or in accordance with some formula", ""]}
+{"data": ["2023-03-27T10:02:54.354154+00:00", 9964, "Your mother is", "chiasmic", "", "Definition: of or relating to a chiasm", "Synonyms: chiasmal, chiasmatic"]}
