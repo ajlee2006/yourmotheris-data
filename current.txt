@@ -1,1 +1,1 @@
-{"data": ["2023-03-27T02:03:06.668279+00:00", 9956, "Your mother is", "beginning", "Pronunciation: /b\u026a\u02c8\u0261\u026an\u026a\u014b/", "Definition: serving to begin", "Synonyms: first"]}
+{"data": ["2023-03-27T03:02:54.261154+00:00", 9957, "Your mother is", "washable", "Pronunciation: /\u02c8w\u0251\u0283\u0259b\u0259l/", "Definition: capable of being washed without injury", ""]}
