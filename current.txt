@@ -1,1 +1,1 @@
-{"data": ["2023-03-27T06:02:40.453763+00:00", 9960, "Your mother is", "galilean", "Pronunciation: /\u02cc\u0261\u00e6l\u0259\u02c8li\u0259n/", "Definition: of or relating to Galilee or its inhabitants", "Synonyms: galilaean"]}
+{"data": ["2023-03-27T07:02:29.938271+00:00", 9961, "Your mother is", "liver-colored", "Pronunciation: /\u02c8la\u026av\u0259r-\u02c8k\u0259l\u0259rd/", "Definition: having a reddish-brown color", "Synonyms: liver"]}
