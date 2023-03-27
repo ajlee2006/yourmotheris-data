@@ -1,1 +1,1 @@
-{"data": ["2023-03-27T07:02:29.938271+00:00", 9961, "Your mother is", "liver-colored", "Pronunciation: /\u02c8la\u026av\u0259r-\u02c8k\u0259l\u0259rd/", "Definition: having a reddish-brown color", "Synonyms: liver"]}
+{"data": ["2023-03-27T08:03:22.164404+00:00", 9962, "Your mother is", "untilled", "Pronunciation: /\u0259n\u02c8t\u026ald/", "Definition: not plowed or harrowed or hoed", ""]}
