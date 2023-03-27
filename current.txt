@@ -1,1 +1,1 @@
-{"data": ["2023-03-27T10:02:54.354154+00:00", 9964, "Your mother is", "chiasmic", "", "Definition: of or relating to a chiasm", "Synonyms: chiasmal, chiasmatic"]}
+{"data": ["2023-03-27T11:02:32.602589+00:00", 9965, "Your mother is", "reticent", "Pronunciation: /\u02c8r\u025bt\u026as\u0259nt/", "Definition: temperamentally disinclined to talk", "Synonyms: untalkative"]}
