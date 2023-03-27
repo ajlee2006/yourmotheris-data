@@ -1,1 +1,1 @@
-{"data": ["2023-03-27T05:03:13.438192+00:00", 9959, "Your mother is", "wedded", "Pronunciation: /\u02c8w\u025bd\u026ad/", "Definition: having been taken in marriage", "Synonyms: wed"]}
+{"data": ["2023-03-27T06:02:40.453763+00:00", 9960, "Your mother is", "galilean", "Pronunciation: /\u02cc\u0261\u00e6l\u0259\u02c8li\u0259n/", "Definition: of or relating to Galilee or its inhabitants", "Synonyms: galilaean"]}
