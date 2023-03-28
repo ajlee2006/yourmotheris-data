@@ -1,1 +1,1 @@
-{"data": ["2023-03-28T16:02:48.950769+00:00", 9993, "Your mother is", "racking", "Pronunciation: /\u02c8r\u00e6k\u026a\u014b/", "Definition: causing great physical or mental suffering", "Synonyms: wrenching"]}
+{"data": ["2023-03-28T17:03:06.545104+00:00", 9994, "Your mother is", "fanned", "Pronunciation: /f\u00e6nd/", "Definition: especially spread in a fan shape", "Synonyms: spread-out"]}
