@@ -1,1 +1,1 @@
-{"data": ["2023-03-28T10:03:11.560007+00:00", 9987, "Your mother is", "trite", "Pronunciation: /tra\u026at/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, tired, well-worn"]}
+{"data": ["2023-03-28T11:02:41.553781+00:00", 9988, "Your mother is", "crystalised", "Similar to: crystalline", "Definition: having both internal structure and external form of a crystal", "Synonyms: crystallized"]}
