@@ -1,1 +1,1 @@
-{"data": ["2023-03-28T20:03:27.573749+00:00", 9997, "Your mother is", "liv", "Pronunciation: /l\u026av/", "Definition: being four more than fifty", "Synonyms: 54, fifty-four"]}
+{"data": ["2023-03-28T21:02:34.037729+00:00", 9998, "Your mother is", "hundred-and-sixty-fifth", "Similar to: ordinal", "Definition: the ordinal number of one hundred sixty-five in counting order", "Synonyms: 165th"]}
