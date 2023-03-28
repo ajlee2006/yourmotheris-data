@@ -1,1 +1,1 @@
-{"data": ["2023-03-28T01:03:27.977145+00:00", 9978, "Your mother is", "emaciated", "Pronunciation: /\u026a\u02c8me\u026a\u0283i\u02cce\u026at\u026ad/", "Definition: very thin especially from disease or hunger or cold", "Synonyms: cadaverous, gaunt, haggard, pinched, skeletal, wasted"]}
+{"data": ["2023-03-28T02:03:37.293370+00:00", 9979, "Your mother is", "observing", "Pronunciation: /\u028cb\u02c8z\u025drv\u026a\u014b/", "Definition: quick to notice; showing quick and keen perception", "Synonyms: observant"]}
