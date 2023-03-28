@@ -1,1 +1,1 @@
-{"data": ["2023-03-28T13:02:51.806581+00:00", 9990, "Your mother is", "twenty-seventh", "Pronunciation: /\u02c8tw\u025bnti-\u02c8s\u025bv\u0259n\u03b8/", "Definition: coming next after the twenty-sixth in position", "Synonyms: 27th"]}
+{"data": ["2023-03-28T14:02:36.287331+00:00", 9991, "Your mother is", "inviolable", "Pronunciation: /\u026an\u02c8va\u026a\u0259l\u0259b\u0259l/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, secure, strong, unassailable, unattackable"]}
