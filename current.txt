@@ -1,1 +1,1 @@
-{"data": ["2023-03-28T22:02:42.568961+00:00", 9999, "Your mother is", "authorized", "Pronunciation: /\u02c8\u0254\u03b8\u0259\u02ccra\u026azd/", "Definition: endowed with authority", "Synonyms: authorised"]}
+{"data": ["2023-03-28T23:03:24.091271+00:00", 10000, "Your mother is", "stalemated", "Pronunciation: /\u02c8ste\u026al\u02ccme\u026at\u026ad/", "Definition: at a complete standstill because of opposition of two unrelenting forces or factions", "Synonyms: deadlocked"]}
