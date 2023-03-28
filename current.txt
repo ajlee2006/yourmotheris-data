@@ -1,1 +1,1 @@
-{"data": ["2023-03-27T23:02:06.197837+00:00", 9976, "Your mother is", "lapsed", "Pronunciation: /l\u00e6pst/", "Definition: no longer active or practicing", "Synonyms: nonchurchgoing"]}
+{"data": ["2023-03-28T00:03:52.349015+00:00", 9977, "Your mother is", "injudicious", "Pronunciation: /\u02cc\u026and\u0292u\u02c8d\u026a\u0283\u0259s/", "Definition: lacking or showing lack of judgment or discretion; unwise", ""]}
