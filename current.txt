@@ -1,1 +1,1 @@
-{"data": ["2023-03-28T03:03:01.471176+00:00", 9980, "Your mother is", "must", "Pronunciation: /m\u0259st/", "Definition: highly recommended", ""]}
+{"data": ["2023-03-28T04:03:10.384735+00:00", 9981, "Your mother is", "picaresque", "Pronunciation: /\u02ccp\u026ak\u0259\u02c8r\u025bsk/", "Definition: involving clever rogues or adventurers especially as in a type of fiction", ""]}
