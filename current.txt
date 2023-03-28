@@ -1,1 +1,1 @@
-{"data": ["2023-03-28T07:02:57.110706+00:00", 9984, "Your mother is", "sheltered", "Pronunciation: /\u02c8\u0283\u025blt\u025drd/", "Definition: protected from danger or bad weather", ""]}
+{"data": ["2023-03-28T08:02:46.342719+00:00", 9985, "Your mother is", "indentured", "Pronunciation: /\u026an\u02c8d\u025bnt\u0283\u025drd/", "Definition: bound by contract", "Synonyms: apprenticed, articled, bound"]}
