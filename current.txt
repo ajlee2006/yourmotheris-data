@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T10:02:28.717098+00:00", 10011, "Your mother is", "insomniac", "Pronunciation: /\u026an\u02c8s\u0251mni\u02cc\u00e6k/", "Definition: experiencing or accompanied by sleeplessness", "Synonyms: sleepless, watchful"]}
+{"data": ["2023-03-29T11:03:18.892654+00:00", 10012, "Your mother is", "overreaching", "Pronunciation: /\u02c8o\u028av\u025dr\u02ccrit\u0283\u026a\u014b/", "Definition: revealing excessive self-confidence; reaching for the heights", "Synonyms: vaulting"]}
