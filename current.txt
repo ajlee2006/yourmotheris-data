@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T02:03:10.618275+00:00", 10003, "Your mother is", "somatogenetic", "Pronunciation: /\u02ccso\u028am\u0259t\u0259d\u0292\u0259\u02c8n\u025bt\u026ak/", "Definition: of or arising from physiological causes rather than being psychogenic in origin", "Synonyms: somatogenic"]}
+{"data": ["2023-03-29T03:02:34.226684+00:00", 10004, "Your mother is", "fecal", "Pronunciation: /\u02c8fik\u0259l/", "Definition: of or relating to feces", "Synonyms: faecal"]}
