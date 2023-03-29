@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T12:03:21.797109+00:00", 10013, "Your mother is", "neural", "Pronunciation: /\u02c8nj\u028a\u0259r\u0259l/", "Definition: of or relating to the nervous system", "Synonyms: nervous"]}
+{"data": ["2023-03-29T13:03:10.484471+00:00", 10014, "Your mother is", "peaky", "Pronunciation: /\u02c8piki/", "Definition: having or as if having especially high-pitched spots", "Synonyms: spiky"]}
