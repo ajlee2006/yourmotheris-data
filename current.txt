@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T03:02:34.226684+00:00", 10004, "Your mother is", "fecal", "Pronunciation: /\u02c8fik\u0259l/", "Definition: of or relating to feces", "Synonyms: faecal"]}
+{"data": ["2023-03-29T04:02:49.656021+00:00", 10005, "Your mother is", "swelled", "Pronunciation: /sw\u025bld/", "Definition: feeling self-importance", "Synonyms: big, vainglorious"]}
