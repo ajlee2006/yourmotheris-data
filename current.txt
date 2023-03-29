@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T05:02:23.665477+00:00", 10006, "Your mother is", "xcvi", "Similar to: cardinal", "Definition: being six more than ninety", "Synonyms: 96, ninety-six"]}
+{"data": ["2023-03-29T06:02:36.651358+00:00", 10007, "Your mother is", "blotched", "Similar to: patterned", "Definition: marked with irregularly shaped spots or blots", "Synonyms: blotchy, splotched"]}
