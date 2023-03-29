@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T00:03:52.154375+00:00", 10001, "Your mother is", "flawed", "Pronunciation: /fl\u0254d/", "Definition: having a blemish or flaw", "Synonyms: blemished"]}
+{"data": ["2023-03-29T01:03:49.243363+00:00", 10002, "Your mother is", "patristical", "", "Definition: of or relating to the writings of the early church fathers", "Synonyms: patristic"]}
