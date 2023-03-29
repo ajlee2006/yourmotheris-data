@@ -1,1 +1,1 @@
-{"data": ["2023-03-28T23:03:24.091271+00:00", 10000, "Your mother is", "stalemated", "Pronunciation: /\u02c8ste\u026al\u02ccme\u026at\u026ad/", "Definition: at a complete standstill because of opposition of two unrelenting forces or factions", "Synonyms: deadlocked"]}
+{"data": ["2023-03-29T00:03:52.154375+00:00", 10001, "Your mother is", "flawed", "Pronunciation: /fl\u0254d/", "Definition: having a blemish or flaw", "Synonyms: blemished"]}
