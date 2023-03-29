@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T14:02:42.996522+00:00", 10015, "Your mother is", "coordinated", "Pronunciation: /ko\u028a\u02c8\u0254rd\u028cne\u026at\u026ad/", "Definition: being dexterous in the use of more than one set of muscle movements", "Synonyms: co-ordinated"]}
+{"data": ["2023-03-29T15:03:17.214101+00:00", 10016, "Your mother is", "tortured", "Pronunciation: /\u02c8t\u0254rt\u0283\u025drd/", "Definition: experiencing intense pain especially mental pain", "Synonyms: anguished, tormented"]}
