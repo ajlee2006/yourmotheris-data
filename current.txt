@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T01:03:49.243363+00:00", 10002, "Your mother is", "patristical", "", "Definition: of or relating to the writings of the early church fathers", "Synonyms: patristic"]}
+{"data": ["2023-03-29T02:03:10.618275+00:00", 10003, "Your mother is", "somatogenetic", "Pronunciation: /\u02ccso\u028am\u0259t\u0259d\u0292\u0259\u02c8n\u025bt\u026ak/", "Definition: of or arising from physiological causes rather than being psychogenic in origin", "Synonyms: somatogenic"]}
