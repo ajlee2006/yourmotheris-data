@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T09:02:25.056297+00:00", 10010, "Your mother is", "multi-ethnic", "Similar to: social", "Definition: involving several ethnic groups", "Synonyms: multiethnic"]}
+{"data": ["2023-03-29T10:02:28.717098+00:00", 10011, "Your mother is", "insomniac", "Pronunciation: /\u026an\u02c8s\u0251mni\u02cc\u00e6k/", "Definition: experiencing or accompanied by sleeplessness", "Synonyms: sleepless, watchful"]}
