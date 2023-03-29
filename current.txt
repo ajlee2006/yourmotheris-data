@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T15:03:17.214101+00:00", 10016, "Your mother is", "tortured", "Pronunciation: /\u02c8t\u0254rt\u0283\u025drd/", "Definition: experiencing intense pain especially mental pain", "Synonyms: anguished, tormented"]}
+{"data": ["2023-03-29T16:02:54.321189+00:00", 10017, "Your mother is", "clean-limbed", "Pronunciation: /\u02c8klin\u02ccl\u026amd/", "Definition: having well-proportioned limbs", ""]}
