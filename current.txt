@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T16:02:54.321189+00:00", 10017, "Your mother is", "clean-limbed", "Pronunciation: /\u02c8klin\u02ccl\u026amd/", "Definition: having well-proportioned limbs", ""]}
+{"data": ["2023-03-29T17:02:51.208402+00:00", 10018, "Your mother is", "crapulent", "Pronunciation: /\u02c8kr\u00e6pj\u028al\u0259nt/", "Definition: suffering from excessive eating or drinking", "Synonyms: crapulous"]}
