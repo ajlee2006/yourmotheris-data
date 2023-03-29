@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T22:02:32.299038+00:00", 10023, "Your mother is", "day-after-day", "Similar to: periodic", "Definition: of or belonging to or occurring every day", "Synonyms: daily, day-by-day, day-to-day"]}
+{"data": ["2023-03-29T23:03:15.970540+00:00", 10024, "Your mother is", "allargando", "Pronunciation: /\u02cc\u0251l\u0251r\u02c8\u0261\u0251ndo\u028a/", "Definition: (music) gradually decreasing in tempo and broadening in manner", ""]}
