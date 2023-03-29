@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T08:02:35.046260+00:00", 10009, "Your mother is", "well-bound", "Pronunciation: /w\u025bl-ba\u028and/", "Definition: (of books) having a sturdy and attractive binding", ""]}
+{"data": ["2023-03-29T09:02:25.056297+00:00", 10010, "Your mother is", "multi-ethnic", "Similar to: social", "Definition: involving several ethnic groups", "Synonyms: multiethnic"]}
