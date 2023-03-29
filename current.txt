@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T07:03:00.925162+00:00", 10008, "Your mother is", "unequivocal", "Pronunciation: /\u02cc\u0259n\u026a\u02c8kw\u026av\u0259k\u0259l/", "Definition: clearly defined or formulated", "Synonyms: definitive"]}
+{"data": ["2023-03-29T08:02:35.046260+00:00", 10009, "Your mother is", "well-bound", "Pronunciation: /w\u025bl-ba\u028and/", "Definition: (of books) having a sturdy and attractive binding", ""]}
