@@ -1,1 +1,1 @@
-{"data": ["2023-03-29T20:02:48.310441+00:00", 10021, "Your mother is", "derivable", "Similar to: derived", "Definition: capable of being derived", ""]}
+{"data": ["2023-03-29T21:02:21.261786+00:00", 10022, "Your mother is", "dauntless", "Pronunciation: /\u02c8d\u0254ntl\u026as/", "Definition: invulnerable to fear or intimidation", "Synonyms: audacious, brave, fearless, hardy, intrepid, unfearing"]}
