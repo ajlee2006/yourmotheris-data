@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T02:03:10.935993+00:00", 10027, "Your mother is", "fancied", "Pronunciation: /\u02c8f\u00e6nsid/", "Definition: formed or conceived by the imagination", "Synonyms: fabricated, fictional, fictitious"]}
+{"data": ["2023-03-30T03:02:24.977028+00:00", 10028, "Your mother is", "forty-six", "Pronunciation: /\u02c8f\u0254rti-\u02c8s\u026aks/", "Definition: being six more than forty", "Synonyms: 46, xlvi"]}
