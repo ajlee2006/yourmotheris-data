@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T14:03:17.531545+00:00", 10039, "Your mother is", "risque", "Pronunciation: /\u02c8riske\u026a/", "Definition: suggestive of sexual impropriety", "Synonyms: blue, gamey, gamy, juicy, naughty, racy, spicy"]}
+{"data": ["2023-03-30T15:03:02.729225+00:00", 10040, "Your mother is", "insufficient", "Pronunciation: /\u02cc\u026ans\u0259\u02c8f\u026a\u0283\u0259nt/", "Definition: of a quantity not able to fulfill a need or requirement", "Synonyms: deficient"]}
