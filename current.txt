@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T05:02:25.640020+00:00", 10030, "Your mother is", "floodlighted", "Similar to: light", "Definition: illuminated by means of floodlights", "Synonyms: floodlit"]}
+{"data": ["2023-03-30T06:02:11.478249+00:00", 10031, "Your mother is", "spirituous", "Pronunciation: /\u02c8sp\u026ar\u026a\u02a7u\u0259s/", "Definition: containing or of the nature of alcohol", "Synonyms: spiritous"]}
