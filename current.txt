@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T11:02:54.252406+00:00", 10036, "Your mother is", "accelerative", "Pronunciation: /\u00e6k\u02c8s\u025bl\u0259\u02ccre\u026at\u026av/", "Definition: tending to increase velocity", "Synonyms: acceleratory"]}
+{"data": ["2023-03-30T12:02:21.779304+00:00", 10037, "Your mother is", "disordered", "Pronunciation: /d\u026as\u02c8\u0254rd\u0259rd/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, garbled, illogical, scattered, unconnected"]}
