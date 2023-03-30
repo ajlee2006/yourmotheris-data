@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T13:02:14.433326+00:00", 10038, "Your mother is", "available", "Pronunciation: /\u0259\u02c8ve\u026al\u0259b\u0259l/", "Definition: convenient for use or disposal", "Synonyms: usable, useable"]}
+{"data": ["2023-03-30T14:03:17.531545+00:00", 10039, "Your mother is", "risque", "Pronunciation: /\u02c8riske\u026a/", "Definition: suggestive of sexual impropriety", "Synonyms: blue, gamey, gamy, juicy, naughty, racy, spicy"]}
