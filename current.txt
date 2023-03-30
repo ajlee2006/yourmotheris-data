@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T17:03:03.647132+00:00", 10042, "Your mother is", "corrugated", "Pronunciation: /\u02c8k\u0254r\u028c\u02cc\u0261e\u026at\u028cd/", "Definition: shaped into alternating parallel grooves and ridges", ""]}
+{"data": ["2023-03-30T18:02:21.673612+00:00", 10043, "Your mother is", "nonchurchgoing", "Similar to: irreligious", "Definition: no longer active or practicing", "Synonyms: lapsed"]}
