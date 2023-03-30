@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T19:02:54.366201+00:00", 10044, "Your mother is", "dizzy", "Pronunciation: /\u02c8d\u026azi/", "Definition: lacking seriousness; given to frivolity", "Synonyms: airheaded, empty-headed, featherbrained, giddy, light-headed, lightheaded, silly"]}
+{"data": ["2023-03-30T20:02:39.403702+00:00", 10045, "Your mother is", "null", "Pronunciation: /n\u0259l/", "Definition: lacking any legal or binding force", "Synonyms: void"]}
