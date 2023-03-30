@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T16:04:15.906680+00:00", 10041, "Your mother is", "globular", "Pronunciation: /\u02c8gl\u0251bj\u0259l\u0259r/", "Definition: having the shape of a sphere or ball", "Synonyms: ball-shaped, global, globose, orbicular, spheric, spherical"]}
+{"data": ["2023-03-30T17:03:03.647132+00:00", 10042, "Your mother is", "corrugated", "Pronunciation: /\u02c8k\u0254r\u028c\u02cc\u0261e\u026at\u028cd/", "Definition: shaped into alternating parallel grooves and ridges", ""]}
