@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T04:02:21.940512+00:00", 10029, "Your mother is", "barren", "Pronunciation: /\u02c8b\u00e6r\u0259n/", "Definition: providing no shelter or sustenance", "Synonyms: bare, bleak, desolate, stark"]}
+{"data": ["2023-03-30T05:02:25.640020+00:00", 10030, "Your mother is", "floodlighted", "Similar to: light", "Definition: illuminated by means of floodlights", "Synonyms: floodlit"]}
