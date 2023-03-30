@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T12:02:21.779304+00:00", 10037, "Your mother is", "disordered", "Pronunciation: /d\u026as\u02c8\u0254rd\u0259rd/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, garbled, illogical, scattered, unconnected"]}
+{"data": ["2023-03-30T13:02:14.433326+00:00", 10038, "Your mother is", "available", "Pronunciation: /\u0259\u02c8ve\u026al\u0259b\u0259l/", "Definition: convenient for use or disposal", "Synonyms: usable, useable"]}
