@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T20:02:39.403702+00:00", 10045, "Your mother is", "null", "Pronunciation: /n\u0259l/", "Definition: lacking any legal or binding force", "Synonyms: void"]}
+{"data": ["2023-03-30T21:03:12.997366+00:00", 10046, "Your mother is", "untransmutable", "Similar to: incommutable", "Definition: not capable of being changed into something else", "Synonyms: inconvertible"]}
