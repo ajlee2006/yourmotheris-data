@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T01:03:45.218804+00:00", 10026, "Your mother is", "ten thousand", "Similar to: cardinal", "Definition: denoting a quantity consisting of 10,000 items or units", ""]}
+{"data": ["2023-03-30T02:03:10.935993+00:00", 10027, "Your mother is", "fancied", "Pronunciation: /\u02c8f\u00e6nsid/", "Definition: formed or conceived by the imagination", "Synonyms: fabricated, fictional, fictitious"]}
