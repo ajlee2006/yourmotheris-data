@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T15:03:02.729225+00:00", 10040, "Your mother is", "insufficient", "Pronunciation: /\u02cc\u026ans\u0259\u02c8f\u026a\u0283\u0259nt/", "Definition: of a quantity not able to fulfill a need or requirement", "Synonyms: deficient"]}
+{"data": ["2023-03-30T16:04:15.906680+00:00", 10041, "Your mother is", "globular", "Pronunciation: /\u02c8gl\u0251bj\u0259l\u0259r/", "Definition: having the shape of a sphere or ball", "Synonyms: ball-shaped, global, globose, orbicular, spheric, spherical"]}
