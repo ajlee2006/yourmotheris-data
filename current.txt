@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T09:02:38.774795+00:00", 10034, "Your mother is", "black-and-blue", "Pronunciation: /\u02c8bl\u00e6k\u0259n\u02c8blu/", "Definition: discolored by coagulation of blood beneath the skin", "Synonyms: livid"]}
+{"data": ["2023-03-30T10:03:09.032134+00:00", 10035, "Your mother is", "bionomic", "", "Definition: of or relating to the science of ecology", "Synonyms: bionomical, ecologic, ecological"]}
