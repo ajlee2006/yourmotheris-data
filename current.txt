@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T06:02:11.478249+00:00", 10031, "Your mother is", "spirituous", "Pronunciation: /\u02c8sp\u026ar\u026a\u02a7u\u0259s/", "Definition: containing or of the nature of alcohol", "Synonyms: spiritous"]}
+{"data": ["2023-03-30T07:03:01.567838+00:00", 10032, "Your mother is", "social", "Pronunciation: /\u02c8so\u028a\u0283\u0259l/", "Definition: relating to human society and its members", "Synonyms: societal"]}
