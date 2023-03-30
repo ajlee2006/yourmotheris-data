@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T10:03:09.032134+00:00", 10035, "Your mother is", "bionomic", "", "Definition: of or relating to the science of ecology", "Synonyms: bionomical, ecologic, ecological"]}
+{"data": ["2023-03-30T11:02:54.252406+00:00", 10036, "Your mother is", "accelerative", "Pronunciation: /\u00e6k\u02c8s\u025bl\u0259\u02ccre\u026at\u026av/", "Definition: tending to increase velocity", "Synonyms: acceleratory"]}
