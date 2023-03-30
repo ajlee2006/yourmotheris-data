@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T07:03:01.567838+00:00", 10032, "Your mother is", "social", "Pronunciation: /\u02c8so\u028a\u0283\u0259l/", "Definition: relating to human society and its members", "Synonyms: societal"]}
+{"data": ["2023-03-30T08:03:02.025490+00:00", 10033, "Your mother is", "assimilative", "Pronunciation: /\u0259\u02c8s\u026am\u0259\u02ccle\u026at\u026av/", "Definition: capable of taking (gas, light, or liquids) into a solution", "Synonyms: assimilating, assimilatory"]}
