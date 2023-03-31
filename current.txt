@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T22:03:11.873716+00:00", 10071, "Your mother is", "silver-scaled", "Similar to: armored", "Definition: having the body covered or partially covered with silver-colored scales", ""]}
+{"data": ["2023-03-31T23:03:18.520618+00:00", 10072, "Your mother is", "nonplussed", "Pronunciation: /n\u0251n\u02c8pl\u028cst/", "Definition: filled with bewilderment", "Synonyms: at a loss, nonplused, puzzled"]}
