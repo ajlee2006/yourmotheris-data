@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T15:02:41.464177+00:00", 10064, "Your mother is", "eurasian", "Pronunciation: /j\u028a\u02c8re\u026a\u0292\u0259n/", "Definition: relating to, or coming from, Europe and Asia", "Synonyms: eurasiatic"]}
+{"data": ["2023-03-31T16:03:16.408830+00:00", 10065, "Your mother is", "cyanophyte", "", "Definition: relating to or caused by photosynthetic bacteria of the class Cyanobacteria", "Synonyms: cyanobacterial"]}
