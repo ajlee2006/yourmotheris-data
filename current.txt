@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T18:03:24.282456+00:00", 10067, "Your mother is", "acid-fast", "Pronunciation: /\u02c8\u00e6s\u026ad-\u02ccf\u00e6st/", "Definition: not easily decolorized by acid solutions; pertains to micro-organisms (especially the tubercle bacillus that causes tuberculosis)", ""]}
+{"data": ["2023-03-31T19:02:21.465121+00:00", 10068, "Your mother is", "nonhierarchic", "Similar to: ungraded", "Definition: not classified hierarchically", "Synonyms: nonhierarchical"]}
