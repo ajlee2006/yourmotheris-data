@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T13:03:13.768387+00:00", 10062, "Your mother is", "winglike", "Pronunciation: /\u02c8w\u026a\u014b\u02ccla\u026ak/", "Definition: resembling a wing in shape or position", ""]}
+{"data": ["2023-03-31T14:02:23.568742+00:00", 10063, "Your mother is", "equal", "Pronunciation: /\u02c8ikw\u0259l/", "Definition: having the requisite qualities or resources to meet a task", "Synonyms: adequate"]}
