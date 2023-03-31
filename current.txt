@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T01:03:18.544824+00:00", 10050, "Your mother is", "lightheaded", "Pronunciation: /\u02ccla\u026at\u02c8h\u025bd\u028cd/", "Definition: weak and likely to lose consciousness", "Synonyms: faint, light, light-headed, swooning"]}
+{"data": ["2023-03-31T02:03:27.281203+00:00", 10051, "Your mother is", "mousey", "Pronunciation: /\u02c8ma\u028asi/", "Definition: of something having a drab pale brown color resembling a mouse", "Synonyms: mouse-colored, mouselike, mousy"]}
