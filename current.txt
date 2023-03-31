@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T04:02:16.338991+00:00", 10053, "Your mother is", "blue-eyed", "Pronunciation: /blu-a\u026ad/", "Definition: favorite", "Synonyms: fair-haired, white-haired"]}
+{"data": ["2023-03-31T05:02:38.880148+00:00", 10054, "Your mother is", "untiring", "Pronunciation: /\u0259n\u02c8ta\u026a\u0259ri\u014b/", "Definition: characterized by hard work and perseverance", "Synonyms: hardworking, industrious, tireless"]}
