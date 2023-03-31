@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T02:03:27.281203+00:00", 10051, "Your mother is", "mousey", "Pronunciation: /\u02c8ma\u028asi/", "Definition: of something having a drab pale brown color resembling a mouse", "Synonyms: mouse-colored, mouselike, mousy"]}
+{"data": ["2023-03-31T03:02:31.821537+00:00", 10052, "Your mother is", "unsatisfiable", "Similar to: insatiable", "Definition: not capable of being satisfied", ""]}
