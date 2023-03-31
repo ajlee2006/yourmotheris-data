@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T00:03:58.903950+00:00", 10049, "Your mother is", "modified", "Pronunciation: /\u02c8m\u0251d\u028c\u02ccfa\u026ad/", "Definition: mediocre", "Synonyms: limited"]}
+{"data": ["2023-03-31T01:03:18.544824+00:00", 10050, "Your mother is", "lightheaded", "Pronunciation: /\u02ccla\u026at\u02c8h\u025bd\u028cd/", "Definition: weak and likely to lose consciousness", "Synonyms: faint, light, light-headed, swooning"]}
