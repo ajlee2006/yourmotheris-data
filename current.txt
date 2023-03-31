@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T14:02:23.568742+00:00", 10063, "Your mother is", "equal", "Pronunciation: /\u02c8ikw\u0259l/", "Definition: having the requisite qualities or resources to meet a task", "Synonyms: adequate"]}
+{"data": ["2023-03-31T15:02:41.464177+00:00", 10064, "Your mother is", "eurasian", "Pronunciation: /j\u028a\u02c8re\u026a\u0292\u0259n/", "Definition: relating to, or coming from, Europe and Asia", "Synonyms: eurasiatic"]}
