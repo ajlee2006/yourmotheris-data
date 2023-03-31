@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T19:02:21.465121+00:00", 10068, "Your mother is", "nonhierarchic", "Similar to: ungraded", "Definition: not classified hierarchically", "Synonyms: nonhierarchical"]}
+{"data": ["2023-03-31T20:02:38.088151+00:00", 10069, "Your mother is", "psychotherapeutic", "Pronunciation: /\u02ccsa\u026ako\u028a\u02cc\u03b8\u025br\u028c\u02c8pjut\u026ak/", "Definition: emotionally purging", "Synonyms: cathartic"]}
