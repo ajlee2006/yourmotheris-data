@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T05:02:38.880148+00:00", 10054, "Your mother is", "untiring", "Pronunciation: /\u0259n\u02c8ta\u026a\u0259ri\u014b/", "Definition: characterized by hard work and perseverance", "Synonyms: hardworking, industrious, tireless"]}
+{"data": ["2023-03-31T06:02:25.670374+00:00", 10055, "Your mother is", "amalgamate", "Pronunciation: /\u0259\u02c8m\u00e6lg\u0259\u02ccme\u026at/", "Definition: joined together into a whole", "Synonyms: amalgamated, coalesced, consolidated, fused"]}
