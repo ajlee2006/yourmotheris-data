@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T10:03:01.787645+00:00", 10059, "Your mother is", "principal", "Pronunciation: /\u02c8pr\u026ans\u0259p\u0259l/", "Definition: most important element", "Synonyms: chief, main, master, primary"]}
+{"data": ["2023-03-31T11:03:06.112410+00:00", 10060, "Your mother is", "prolate", "Pronunciation: /\u02c8pro\u028ale\u026at/", "Definition: having the polar diameter greater than the equatorial diameter", "Synonyms: watermelon-shaped"]}
