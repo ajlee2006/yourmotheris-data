@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T09:02:20.810082+00:00", 10058, "Your mother is", "chlorophyllous", "Pronunciation: /\u02ccklo\u028ar\u0259\u02c8f\u026al\u0259s/", "Definition: relating to or being or containing chlorophyll", "Synonyms: chlorophyllose"]}
+{"data": ["2023-03-31T10:03:01.787645+00:00", 10059, "Your mother is", "principal", "Pronunciation: /\u02c8pr\u026ans\u0259p\u0259l/", "Definition: most important element", "Synonyms: chief, main, master, primary"]}
