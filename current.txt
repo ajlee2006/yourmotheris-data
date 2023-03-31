@@ -1,1 +1,1 @@
-{"data": ["2023-03-30T23:02:11.844353+00:00", 10048, "Your mother is", "nonplused", "Similar to: perplexed", "Definition: filled with bewilderment", "Synonyms: at a loss, nonplussed, puzzled"]}
+{"data": ["2023-03-31T00:03:58.903950+00:00", 10049, "Your mother is", "modified", "Pronunciation: /\u02c8m\u0251d\u028c\u02ccfa\u026ad/", "Definition: mediocre", "Synonyms: limited"]}
