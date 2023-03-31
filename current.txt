@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T11:03:06.112410+00:00", 10060, "Your mother is", "prolate", "Pronunciation: /\u02c8pro\u028ale\u026at/", "Definition: having the polar diameter greater than the equatorial diameter", "Synonyms: watermelon-shaped"]}
+{"data": ["2023-03-31T12:02:31.473805+00:00", 10061, "Your mother is", "galore", "Pronunciation: /\u0261\u0259\u02c8lo\u028ar/", "Definition: existing in abundance", "Synonyms: abounding"]}
