@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T17:02:14.955415+00:00", 10066, "Your mother is", "in line", "Similar to: eligible", "Definition: awaiting something; especially something due", ""]}
+{"data": ["2023-03-31T18:03:24.282456+00:00", 10067, "Your mother is", "acid-fast", "Pronunciation: /\u02c8\u00e6s\u026ad-\u02ccf\u00e6st/", "Definition: not easily decolorized by acid solutions; pertains to micro-organisms (especially the tubercle bacillus that causes tuberculosis)", ""]}
