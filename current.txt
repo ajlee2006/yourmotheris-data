@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T05:02:33.199507+00:00", 10078, "Your mother is", "cymose", "Pronunciation: /\u02c8sa\u026amo\u028as/", "Definition: having a usually flat-topped flower cluster in which the main and branch stems each end in a flower that opens before those below it or to its side", ""]}
+{"data": ["2023-04-01T06:02:35.647831+00:00", 10079, "Your mother is", "comminatory", "Pronunciation: /k\u0259\u02c8m\u026an\u0259\u02ccto\u028ari/", "Definition: containing warning of punishment", "Synonyms: denunciative, denunciatory"]}
