@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T17:02:33.909417+00:00", 10090, "Your mother is", "curvy", "Pronunciation: /\u02c8k\u025crvi/", "Definition: having curves", "Synonyms: curvey"]}
+{"data": ["2023-04-01T18:02:37.531968+00:00", 10091, "Your mother is", "orange-colored", "Pronunciation: /\u02c8\u0254r\u026and\u0292-\u02c8k\u0259l\u0259rd/", "Definition: having the color of ripe oranges", "Synonyms: orange-coloured, orange-hued"]}
