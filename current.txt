@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T03:02:48.088007+00:00", 10076, "Your mother is", "addled", "Pronunciation: /\u02c8\u00e6d\u0259ld/", "Definition: confused and vague; used especially of thinking", "Synonyms: befuddled, muddled, muzzy, woolly, woolly-headed, wooly, wooly-minded"]}
+{"data": ["2023-04-01T04:02:29.962295+00:00", 10077, "Your mother is", "bigamous", "Pronunciation: /\u02c8b\u026a\u0261\u0259m\u0259s/", "Definition: of illegal marriage to a second person while legally married to a first", ""]}
