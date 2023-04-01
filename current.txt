@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T06:02:35.647831+00:00", 10079, "Your mother is", "comminatory", "Pronunciation: /k\u0259\u02c8m\u026an\u0259\u02ccto\u028ari/", "Definition: containing warning of punishment", "Synonyms: denunciative, denunciatory"]}
+{"data": ["2023-04-01T07:03:02.126856+00:00", 10080, "Your mother is", "polysyllabic", "Pronunciation: /\u02ccp\u0251lis\u026a\u02c8l\u00e6b\u026ak/", "Definition: (of words) long and ponderous; having many syllables", "Synonyms: sesquipedalian"]}
