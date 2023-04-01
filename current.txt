@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T11:02:43.841890+00:00", 10084, "Your mother is", "quincentenary", "Pronunciation: /\u02cckw\u026ans\u025bn\u02c8tin\u0259ri/", "Definition: of or relating to a 500th anniversary", "Synonyms: quincentennial"]}
+{"data": ["2023-04-01T12:02:42.010292+00:00", 10085, "Your mother is", "ahead", "Pronunciation: /\u0259\u02c8h\u025bd/", "Definition: having the leading position or higher score in a contest", "Synonyms: in the lead, leading"]}
