@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T10:02:30.304563+00:00", 10083, "Your mother is", "pinnated", "Similar to: compound", "Definition: (of a leaf shape) featherlike; having leaflets on each side of a common axis", "Synonyms: pinnate"]}
+{"data": ["2023-04-01T11:02:43.841890+00:00", 10084, "Your mother is", "quincentenary", "Pronunciation: /\u02cckw\u026ans\u025bn\u02c8tin\u0259ri/", "Definition: of or relating to a 500th anniversary", "Synonyms: quincentennial"]}
