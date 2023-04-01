@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T09:02:55.006366+00:00", 10082, "Your mother is", "cannibalic", "Similar to: inhumane", "Definition: marked by barbarity suggestive of a cannibal; rapaciously savage", ""]}
+{"data": ["2023-04-01T10:02:30.304563+00:00", 10083, "Your mother is", "pinnated", "Similar to: compound", "Definition: (of a leaf shape) featherlike; having leaflets on each side of a common axis", "Synonyms: pinnate"]}
