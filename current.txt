@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T18:02:37.531968+00:00", 10091, "Your mother is", "orange-colored", "Pronunciation: /\u02c8\u0254r\u026and\u0292-\u02c8k\u0259l\u0259rd/", "Definition: having the color of ripe oranges", "Synonyms: orange-coloured, orange-hued"]}
+{"data": ["2023-04-01T19:03:28.734687+00:00", 10092, "Your mother is", "unrecoverable", "Similar to: irretrievable", "Definition: incapable of being recovered or regained", "Synonyms: irrecoverable"]}
