@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T15:03:14.027316+00:00", 10088, "Your mother is", "cetaceous", "", "Definition: of or relating to whales and dolphins etc", "Synonyms: cetacean"]}
+{"data": ["2023-04-01T16:02:22.574251+00:00", 10089, "Your mother is", "unexploded", "Pronunciation: /\u02cc\u028cn\u026ak\u02c8splo\u028ad\u026ad/", "Definition: still capable of exploding or being fired", "Synonyms: undischarged"]}
