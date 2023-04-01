@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T08:02:37.891413+00:00", 10081, "Your mother is", "chinese-red", "Similar to: chromatic", "Definition: of a vivid red to reddish-orange color", "Synonyms: cinnabar, vermilion, vermillion"]}
+{"data": ["2023-04-01T09:02:55.006366+00:00", 10082, "Your mother is", "cannibalic", "Similar to: inhumane", "Definition: marked by barbarity suggestive of a cannibal; rapaciously savage", ""]}
