@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T21:03:01.313126+00:00", 10094, "Your mother is", "hearable", "Similar to: clunky", "Definition: heard or perceptible by the ear", "Synonyms: audible"]}
+{"data": ["2023-04-01T22:03:26.804265+00:00", 10095, "Your mother is", "prefatory", "Pronunciation: /\u02c8pr\u025bf\u0259\u02ccto\u028ari/", "Definition: serving as an introduction or preface", "Synonyms: introductory, prefatorial"]}
