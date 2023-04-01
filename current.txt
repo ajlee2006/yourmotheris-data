@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T20:02:36.493786+00:00", 10093, "Your mother is", "confounded", "Pronunciation: /k\u0251n\u02c8fa\u028and\u026ad/", "Definition: perplexed by many conflicting situations or statements; filled with bewilderment", "Synonyms: at sea, baffled, befuddled, bemused, bewildered, confused, lost, mazed, mixed-up"]}
+{"data": ["2023-04-01T21:03:01.313126+00:00", 10094, "Your mother is", "hearable", "Similar to: clunky", "Definition: heard or perceptible by the ear", "Synonyms: audible"]}
