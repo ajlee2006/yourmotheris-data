@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T13:03:00.037330+00:00", 10086, "Your mother is", "nourished", "Pronunciation: /\u02c8n\u025dr\u026a\u0283t/", "Definition: being provided with adequate nourishment", ""]}
+{"data": ["2023-04-01T14:03:22.953304+00:00", 10087, "Your mother is", "burned-out", "Pronunciation: /\u02c8b\u025crnd\u02c8a\u028at/", "Definition: destroyed or badly damaged by fire", "Synonyms: burned, burned-over, burnt, burnt-out"]}
