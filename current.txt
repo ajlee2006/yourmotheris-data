@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T07:03:02.126856+00:00", 10080, "Your mother is", "polysyllabic", "Pronunciation: /\u02ccp\u0251lis\u026a\u02c8l\u00e6b\u026ak/", "Definition: (of words) long and ponderous; having many syllables", "Synonyms: sesquipedalian"]}
+{"data": ["2023-04-01T08:02:37.891413+00:00", 10081, "Your mother is", "chinese-red", "Similar to: chromatic", "Definition: of a vivid red to reddish-orange color", "Synonyms: cinnabar, vermilion, vermillion"]}
