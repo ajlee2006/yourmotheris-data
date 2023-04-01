@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T01:03:32.680065+00:00", 10074, "Your mother is", "biramous", "Pronunciation: /ba\u026a\u02c8re\u026am\u0259s/", "Definition: resembling a fork; divided or separated into two branches", "Synonyms: bifurcate, branched, forficate, fork-like, forked, pronged, prongy"]}
+{"data": ["2023-04-01T02:03:31.935707+00:00", 10075, "Your mother is", "unbolted", "Pronunciation: /\u0259n\u02c8bo\u028alt\u026ad/", "Definition: not firmly fastened or secured", "Synonyms: unbarred, unlatched, unlocked, unsecured"]}
