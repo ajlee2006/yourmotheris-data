@@ -1,1 +1,1 @@
-{"data": ["2023-03-31T23:03:18.520618+00:00", 10072, "Your mother is", "nonplussed", "Pronunciation: /n\u0251n\u02c8pl\u028cst/", "Definition: filled with bewilderment", "Synonyms: at a loss, nonplused, puzzled"]}
+{"data": ["2023-04-01T00:03:35.265337+00:00", 10073, "Your mother is", "hugger-mugger", "Pronunciation: /\u02c8h\u0259\u0261\u0259r-\u02ccm\u0259\u0261\u0259r/", "Definition: conducted with or marked by hidden aims or methods", "Synonyms: clandestine, cloak-and-dagger, hole-and-corner, hush-hush, secret, surreptitious, undercover, underground"]}
