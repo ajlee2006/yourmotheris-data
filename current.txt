@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T04:02:29.962295+00:00", 10077, "Your mother is", "bigamous", "Pronunciation: /\u02c8b\u026a\u0261\u0259m\u0259s/", "Definition: of illegal marriage to a second person while legally married to a first", ""]}
+{"data": ["2023-04-01T05:02:33.199507+00:00", 10078, "Your mother is", "cymose", "Pronunciation: /\u02c8sa\u026amo\u028as/", "Definition: having a usually flat-topped flower cluster in which the main and branch stems each end in a flower that opens before those below it or to its side", ""]}
