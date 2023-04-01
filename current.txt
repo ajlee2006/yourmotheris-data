@@ -1,1 +1,1 @@
-{"data": ["2023-04-01T14:03:22.953304+00:00", 10087, "Your mother is", "burned-out", "Pronunciation: /\u02c8b\u025crnd\u02c8a\u028at/", "Definition: destroyed or badly damaged by fire", "Synonyms: burned, burned-over, burnt, burnt-out"]}
+{"data": ["2023-04-01T15:03:14.027316+00:00", 10088, "Your mother is", "cetaceous", "", "Definition: of or relating to whales and dolphins etc", "Synonyms: cetacean"]}
