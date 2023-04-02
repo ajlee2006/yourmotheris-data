@@ -1,1 +1,1 @@
-{"data": ["2023-04-02T20:02:45.636203+00:00", 10117, "Your mother is", "sepulchral", "Pronunciation: /s\u0259\u02c8p\u0259lkr\u0259l/", "Definition: suited to or suggestive of a grave or burial", "Synonyms: funereal"]}
+{"data": ["2023-04-02T21:03:29.871199+00:00", 10118, "Your mother is", "sunless", "Pronunciation: /\u02c8s\u0259nl\u026as/", "Definition: filled or abounding with clouds", "Synonyms: cloud-covered, clouded, overcast"]}
