@@ -1,1 +1,1 @@
-{"data": ["2023-04-02T21:03:29.871199+00:00", 10118, "Your mother is", "sunless", "Pronunciation: /\u02c8s\u0259nl\u026as/", "Definition: filled or abounding with clouds", "Synonyms: cloud-covered, clouded, overcast"]}
+{"data": ["2023-04-02T22:02:42.709201+00:00", 10119, "Your mother is", "lusty", "Pronunciation: /\u02c8l\u0259sti/", "Definition: endowed with or exhibiting great bodily or mental health", "Synonyms: full-blooded, hearty, red-blooded"]}
