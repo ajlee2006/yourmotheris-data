@@ -1,1 +1,1 @@
-{"data": ["2023-04-02T11:02:46.061256+00:00", 10108, "Your mother is", "regular", "Pronunciation: /\u02c8r\u025b\u0261j\u0259l\u0259r/", "Definition: often used as intensifiers", "Synonyms: veritable"]}
+{"data": ["2023-04-02T12:02:54.843906+00:00", 10109, "Your mother is", "double-spaced", "Similar to: spaced", "Definition: (of type or print) having a blank line between lines of type", ""]}
