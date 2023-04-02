@@ -1,1 +1,1 @@
-{"data": ["2023-04-02T05:02:38.385195+00:00", 10102, "Your mother is", "advancing", "Pronunciation: /\u028cd\u02c8v\u00e6ns\u026a\u014b/", "Definition: moving forward", "Synonyms: forward, forward-moving"]}
+{"data": ["2023-04-02T06:02:30.341537+00:00", 10103, "Your mother is", ".38-caliber", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures thirty-eight hundredths of an inch in diameter", "Synonyms: .38-calibre, .38 caliber, .38 calibre"]}
