@@ -1,1 +1,1 @@
-{"data": ["2023-04-02T01:02:53.559218+00:00", 10098, "Your mother is", "impenitent", "Pronunciation: /\u026am\u02c8p\u025bn\u026at\u0259nt/", "Definition: not penitent or remorseful", "Synonyms: unremorseful, unrepentant"]}
+{"data": ["2023-04-02T02:02:54.847465+00:00", 10099, "Your mother is", "unflustered", "Similar to: composed", "Definition: free from emotional agitation or nervous tension", "Synonyms: unflurried, unperturbed, unruffled"]}
