@@ -1,1 +1,1 @@
-{"data": ["2023-04-02T09:02:55.522890+00:00", 10106, "Your mother is", "unformed", "Pronunciation: /\u0259n\u02c8fo\u028armd/", "Definition: not formed or organized", ""]}
+{"data": ["2023-04-02T10:03:07.757348+00:00", 10107, "Your mother is", "aneurysmal", "", "Definition: relating to or affected by an aneurysm", "Synonyms: aneurismal, aneurismatic, aneurysmatic"]}
