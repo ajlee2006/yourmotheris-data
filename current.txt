@@ -1,1 +1,1 @@
-{"data": ["2023-04-02T04:02:35.450487+00:00", 10101, "Your mother is", "potable", "Pronunciation: /\u02c8po\u028at\u0259b\u0259l/", "Definition: suitable for drinking", "Synonyms: drinkable"]}
+{"data": ["2023-04-02T05:02:38.385195+00:00", 10102, "Your mother is", "advancing", "Pronunciation: /\u028cd\u02c8v\u00e6ns\u026a\u014b/", "Definition: moving forward", "Synonyms: forward, forward-moving"]}
