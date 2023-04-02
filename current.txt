@@ -1,1 +1,1 @@
-{"data": ["2023-04-02T12:02:54.843906+00:00", 10109, "Your mother is", "double-spaced", "Similar to: spaced", "Definition: (of type or print) having a blank line between lines of type", ""]}
+{"data": ["2023-04-02T13:02:54.430558+00:00", 10110, "Your mother is", "vaulting", "Pronunciation: /\u02c8v\u0254lt\u026a\u014b/", "Definition: revealing excessive self-confidence; reaching for the heights", "Synonyms: overreaching"]}
