@@ -1,1 +1,1 @@
-{"data": ["2023-04-02T19:02:57.158046+00:00", 10116, "Your mother is", "manufactured", "Pronunciation: /\u02ccm\u00e6nj\u028c\u02c8f\u00e6kt\u0283\u025drd/", "Definition: produced in a large-scale industrial operation", ""]}
+{"data": ["2023-04-02T20:02:45.636203+00:00", 10117, "Your mother is", "sepulchral", "Pronunciation: /s\u0259\u02c8p\u0259lkr\u0259l/", "Definition: suited to or suggestive of a grave or burial", "Synonyms: funereal"]}
