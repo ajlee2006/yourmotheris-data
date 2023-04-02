@@ -1,1 +1,1 @@
-{"data": ["2023-04-02T17:03:06.448030+00:00", 10114, "Your mother is", "upbeat", "Pronunciation: /\u02c8\u0259p\u02ccbit/", "Definition: pleasantly (even unrealistically) optimistic", "Synonyms: cheerful, pollyannaish"]}
+{"data": ["2023-04-02T18:02:38.566757+00:00", 10115, "Your mother is", "prejudicious", "", "Definition: tending to favor preconceived ideas", "Synonyms: prejudicial"]}
