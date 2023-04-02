@@ -1,1 +1,1 @@
-{"data": ["2023-04-02T13:02:54.430558+00:00", 10110, "Your mother is", "vaulting", "Pronunciation: /\u02c8v\u0254lt\u026a\u014b/", "Definition: revealing excessive self-confidence; reaching for the heights", "Synonyms: overreaching"]}
+{"data": ["2023-04-02T14:02:27.455851+00:00", 10111, "Your mother is", "opposing", "Pronunciation: /\u028c\u02c8po\u028az\u026a\u014b/", "Definition: characterized by active hostility", "Synonyms: opponent"]}
