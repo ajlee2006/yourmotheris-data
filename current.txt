@@ -1,1 +1,1 @@
-{"data": ["2023-04-02T18:02:38.566757+00:00", 10115, "Your mother is", "prejudicious", "", "Definition: tending to favor preconceived ideas", "Synonyms: prejudicial"]}
+{"data": ["2023-04-02T19:02:57.158046+00:00", 10116, "Your mother is", "manufactured", "Pronunciation: /\u02ccm\u00e6nj\u028c\u02c8f\u00e6kt\u0283\u025drd/", "Definition: produced in a large-scale industrial operation", ""]}
