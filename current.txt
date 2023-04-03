@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T16:02:41.617190+00:00", 10137, "Your mother is", "depicted", "Pronunciation: /d\u026a\u02c8p\u026akt\u028cd/", "Definition: represented graphically by sketch or design or lines", "Synonyms: pictured, portrayed"]}
+{"data": ["2023-04-03T17:02:32.214183+00:00", 10138, "Your mother is", "multifactorial", "Similar to: complex", "Definition: involving or depending on several factors or causes (especially pertaining to a condition or disease resulting from the interaction of many genes)", ""]}
