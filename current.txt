@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T03:02:31.510081+00:00", 10124, "Your mother is", "postpaid", "Pronunciation: /\u02c8po\u028ast\u02c8pe\u026ad/", "Definition: used especially of mail; paid in advance", "Synonyms: prepaid"]}
+{"data": ["2023-04-03T04:02:49.950500+00:00", 10125, "Your mother is", "detached", "Pronunciation: /d\u026a\u02c8t\u00e6\u02a7t/", "Definition: not fixed in position", "Synonyms: free"]}
