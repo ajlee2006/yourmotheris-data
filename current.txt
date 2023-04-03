@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T08:02:37.786482+00:00", 10129, "Your mother is", "easygoing", "Pronunciation: /\u02c8izi\u02c8\u0261o\u028a\u026a\u014b/", "Definition: not hurried or forced", "Synonyms: easy, leisurely"]}
+{"data": ["2023-04-03T09:02:26.069113+00:00", 10130, "Your mother is", "kindred", "Pronunciation: /\u02c8k\u026andr\u026ad/", "Definition: similar in quality or character", "Synonyms: akin"]}
