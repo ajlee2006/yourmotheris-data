@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T19:02:22.897045+00:00", 10140, "Your mother is", "instructive", "Pronunciation: /\u026an\u02c8str\u0259kt\u026av/", "Definition: serving to instruct or enlighten or inform", "Synonyms: informative"]}
+{"data": ["2023-04-03T20:02:49.887802+00:00", 10141, "Your mother is", "crusty", "Pronunciation: /\u02c8kr\u0259sti/", "Definition: having a hardened crust as a covering", "Synonyms: crusted, crustlike, encrusted"]}
