@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T09:02:26.069113+00:00", 10130, "Your mother is", "kindred", "Pronunciation: /\u02c8k\u026andr\u026ad/", "Definition: similar in quality or character", "Synonyms: akin"]}
+{"data": ["2023-04-03T10:02:23.079289+00:00", 10131, "Your mother is", "straight-grained", "Pronunciation: /stre\u026at-gre\u026and/", "Definition: of timber; having fibers that run in parallel", ""]}
