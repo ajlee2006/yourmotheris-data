@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T01:02:44.851372+00:00", 10122, "Your mother is", "isobilateral", "Similar to: symmetric", "Definition: having identical parts on each side of an axis", "Synonyms: bilateral, bilaterally symmetric, bilaterally symmetrical"]}
+{"data": ["2023-04-03T02:03:01.319993+00:00", 10123, "Your mother is", "monotypic", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8t\u026ap\u026ak/", "Definition: consisting of only one type", ""]}
