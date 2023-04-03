@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T20:02:49.887802+00:00", 10141, "Your mother is", "crusty", "Pronunciation: /\u02c8kr\u0259sti/", "Definition: having a hardened crust as a covering", "Synonyms: crusted, crustlike, encrusted"]}
+{"data": ["2023-04-03T21:03:17.944664+00:00", 10142, "Your mother is", "cataclysmic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8kl\u026azm\u026ak/", "Definition: severely destructive", "Synonyms: cataclysmal"]}
