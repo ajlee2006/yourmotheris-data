@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T17:02:32.214183+00:00", 10138, "Your mother is", "multifactorial", "Similar to: complex", "Definition: involving or depending on several factors or causes (especially pertaining to a condition or disease resulting from the interaction of many genes)", ""]}
+{"data": ["2023-04-03T18:02:26.168640+00:00", 10139, "Your mother is", "xcii", "Similar to: cardinal", "Definition: being two more than ninety", "Synonyms: 92, ninety-two"]}
