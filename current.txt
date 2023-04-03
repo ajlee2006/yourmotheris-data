@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T12:02:38.295668+00:00", 10133, "Your mother is", "photometric", "Pronunciation: /\u02ccfo\u028ato\u028a\u02c8m\u025btrik/", "Definition: of or relating to photometry", "Synonyms: photometrical"]}
+{"data": ["2023-04-03T13:02:32.725298+00:00", 10134, "Your mother is", "clamorous", "Pronunciation: /\u02c8kl\u00e6m\u0259r\u0259s/", "Definition: conspicuously and offensively loud; given to vehement outcry", "Synonyms: blatant, clamant, strident, vociferous"]}
