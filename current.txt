@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T14:02:58.581971+00:00", 10135, "Your mother is", "ratable", "Pronunciation: /\u02c8re\u026at\u0259b\u0259l/", "Definition: liable to payment of locally assessed property taxes", "Synonyms: rateable"]}
+{"data": ["2023-04-03T15:03:07.780403+00:00", 10136, "Your mother is", "ill-humoured", "Similar to: ill-natured", "Definition: brusque and surly and forbidding", "Synonyms: crusty, curmudgeonly, gruff, ill-humored"]}
