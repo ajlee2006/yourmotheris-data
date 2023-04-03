@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T04:02:49.950500+00:00", 10125, "Your mother is", "detached", "Pronunciation: /d\u026a\u02c8t\u00e6\u02a7t/", "Definition: not fixed in position", "Synonyms: free"]}
+{"data": ["2023-04-03T05:02:38.155870+00:00", 10126, "Your mother is", "unproven", "Pronunciation: /\u028cn\u02c8pruv\u028cn/", "Definition: not proved", "Synonyms: unproved"]}
