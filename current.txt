@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T11:02:24.854898+00:00", 10132, "Your mother is", "nubby", "Similar to: rough", "Definition: of textiles; having a rough surface", "Synonyms: homespun, nubbly, slubbed, tweedy"]}
+{"data": ["2023-04-03T12:02:38.295668+00:00", 10133, "Your mother is", "photometric", "Pronunciation: /\u02ccfo\u028ato\u028a\u02c8m\u025btrik/", "Definition: of or relating to photometry", "Synonyms: photometrical"]}
