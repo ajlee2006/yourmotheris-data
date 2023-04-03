@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T02:03:01.319993+00:00", 10123, "Your mother is", "monotypic", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8t\u026ap\u026ak/", "Definition: consisting of only one type", ""]}
+{"data": ["2023-04-03T03:02:31.510081+00:00", 10124, "Your mother is", "postpaid", "Pronunciation: /\u02c8po\u028ast\u02c8pe\u026ad/", "Definition: used especially of mail; paid in advance", "Synonyms: prepaid"]}
