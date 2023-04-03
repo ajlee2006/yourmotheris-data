@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T10:02:23.079289+00:00", 10131, "Your mother is", "straight-grained", "Pronunciation: /stre\u026at-gre\u026and/", "Definition: of timber; having fibers that run in parallel", ""]}
+{"data": ["2023-04-03T11:02:24.854898+00:00", 10132, "Your mother is", "nubby", "Similar to: rough", "Definition: of textiles; having a rough surface", "Synonyms: homespun, nubbly, slubbed, tweedy"]}
