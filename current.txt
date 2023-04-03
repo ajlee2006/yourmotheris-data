@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T13:02:32.725298+00:00", 10134, "Your mother is", "clamorous", "Pronunciation: /\u02c8kl\u00e6m\u0259r\u0259s/", "Definition: conspicuously and offensively loud; given to vehement outcry", "Synonyms: blatant, clamant, strident, vociferous"]}
+{"data": ["2023-04-03T14:02:58.581971+00:00", 10135, "Your mother is", "ratable", "Pronunciation: /\u02c8re\u026at\u0259b\u0259l/", "Definition: liable to payment of locally assessed property taxes", "Synonyms: rateable"]}
