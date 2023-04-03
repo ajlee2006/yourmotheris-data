@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T15:03:07.780403+00:00", 10136, "Your mother is", "ill-humoured", "Similar to: ill-natured", "Definition: brusque and surly and forbidding", "Synonyms: crusty, curmudgeonly, gruff, ill-humored"]}
+{"data": ["2023-04-03T16:02:41.617190+00:00", 10137, "Your mother is", "depicted", "Pronunciation: /d\u026a\u02c8p\u026akt\u028cd/", "Definition: represented graphically by sketch or design or lines", "Synonyms: pictured, portrayed"]}
