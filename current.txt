@@ -1,1 +1,1 @@
-{"data": ["2023-04-04T02:02:59.026495+00:00", 10147, "Your mother is", "african-american", "Similar to: black", "Definition: pertaining to or characteristic of Americans of African ancestry", "Synonyms: afro-american"]}
+{"data": ["2023-04-04T03:02:35.222662+00:00", 10148, "Your mother is", "overprotective", "Pronunciation: /\u02cco\u028av\u025drpr\u028c\u02c8t\u025bkt\u028cv/", "Definition: overly protective", ""]}
