@@ -1,1 +1,1 @@
-{"data": ["2023-04-04T22:02:29.552734+00:00", 10167, "Your mother is", "ablaze", "Pronunciation: /\u0259\u02c8ble\u026az/", "Definition: lighted up by or as by fire or flame", "Synonyms: afire, aflame, aflare, alight, on fire"]}
+{"data": ["2023-04-04T23:02:50.766880+00:00", 10168, "Your mother is", "metameric", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8m\u025brik/", "Definition: having the body divided into successive metameres or segments, as in earthworms or lobsters", "Synonyms: segmental, segmented"]}
