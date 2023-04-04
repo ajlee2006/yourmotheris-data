@@ -1,1 +1,1 @@
-{"data": ["2023-04-04T05:02:38.469582+00:00", 10150, "Your mother is", "backswept", "Pronunciation: /\u02c8b\u00e6k\u02ccsw\u025bpt/", "Definition: used of hair", "Synonyms: sweptback"]}
+{"data": ["2023-04-04T06:03:12.835350+00:00", 10151, "Your mother is", "strangled", "Pronunciation: /\u02c8str\u00e6\u014b\u0261\u028cld/", "Definition: held in check with difficulty", "Synonyms: smothered, stifled, suppressed"]}
