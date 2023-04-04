@@ -1,1 +1,1 @@
-{"data": ["2023-04-04T15:02:32.433287+00:00", 10160, "Your mother is", "horizontal", "Pronunciation: /\u02cch\u0254r\u026a\u02c8z\u0251nt\u0259l/", "Definition: parallel to or in the plane of the horizon or a base line", ""]}
+{"data": ["2023-04-04T16:02:46.592590+00:00", 10161, "Your mother is", "penetrating", "Pronunciation: /\u02c8p\u025bn\u026a\u02cctre\u026at\u026a\u014b/", "Definition: tending to penetrate; having the power of entering or piercing", "Synonyms: penetrative"]}
