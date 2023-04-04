@@ -1,1 +1,1 @@
-{"data": ["2023-04-04T03:02:35.222662+00:00", 10148, "Your mother is", "overprotective", "Pronunciation: /\u02cco\u028av\u025drpr\u028c\u02c8t\u025bkt\u028cv/", "Definition: overly protective", ""]}
+{"data": ["2023-04-04T04:02:56.623580+00:00", 10149, "Your mother is", "monaural", "Pronunciation: /m\u0251\u02c8n\u0251r\u0259l/", "Definition: relating to or having or hearing with only one ear", ""]}
