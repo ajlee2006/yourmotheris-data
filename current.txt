@@ -1,1 +1,1 @@
-{"data": ["2023-04-04T18:03:14.216467+00:00", 10163, "Your mother is", "prolate", "Pronunciation: /\u02c8pro\u028ale\u026at/", "Definition: having the polar diameter greater than the equatorial diameter", "Synonyms: watermelon-shaped"]}
+{"data": ["2023-04-04T19:03:06.801392+00:00", 10164, "Your mother is", "overfull", "Pronunciation: /\u02cco\u028av\u0259\u02c8f\u028al/", "Definition: exceeding demand", "Synonyms: glutted"]}
