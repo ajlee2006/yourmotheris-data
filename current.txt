@@ -1,1 +1,1 @@
-{"data": ["2023-04-04T10:02:41.925934+00:00", 10155, "Your mother is", "invigorating", "Pronunciation: /\u026an\u02c8v\u026a\u0261\u025dr\u02cce\u026at\u026a\u014b/", "Definition: imparting strength and vitality", ""]}
+{"data": ["2023-04-04T11:03:04.624021+00:00", 10156, "Your mother is", "tempestuous", "Pronunciation: /t\u025bm\u02c8p\u025bs\u02a7u\u0259s/", "Definition: characterized by violent emotions or behavior", "Synonyms: stormy"]}
