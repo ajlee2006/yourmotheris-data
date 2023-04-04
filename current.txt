@@ -1,1 +1,1 @@
-{"data": ["2023-04-04T04:02:56.623580+00:00", 10149, "Your mother is", "monaural", "Pronunciation: /m\u0251\u02c8n\u0251r\u0259l/", "Definition: relating to or having or hearing with only one ear", ""]}
+{"data": ["2023-04-04T05:02:38.469582+00:00", 10150, "Your mother is", "backswept", "Pronunciation: /\u02c8b\u00e6k\u02ccsw\u025bpt/", "Definition: used of hair", "Synonyms: sweptback"]}
