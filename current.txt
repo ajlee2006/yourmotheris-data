@@ -1,1 +1,1 @@
-{"data": ["2023-04-04T19:03:06.801392+00:00", 10164, "Your mother is", "overfull", "Pronunciation: /\u02cco\u028av\u0259\u02c8f\u028al/", "Definition: exceeding demand", "Synonyms: glutted"]}
+{"data": ["2023-04-04T20:02:40.897804+00:00", 10165, "Your mother is", "augean", "Pronunciation: /\u0254\u02c8d\u0292i\u0259n/", "Definition: extremely filthy from long neglect", ""]}
