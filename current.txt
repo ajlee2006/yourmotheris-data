@@ -1,1 +1,1 @@
-{"data": ["2023-04-04T17:02:38.648555+00:00", 10162, "Your mother is", "anthropogenetic", "Pronunciation: /\u02cc\u00e6n\u03b8r\u0259po\u028ad\u0292\u0259\u02c8n\u025bt\u026ak/", "Definition: of or relating to the study of the origins and development of human beings", "Synonyms: anthropogenic"]}
+{"data": ["2023-04-04T18:03:14.216467+00:00", 10163, "Your mother is", "prolate", "Pronunciation: /\u02c8pro\u028ale\u026at/", "Definition: having the polar diameter greater than the equatorial diameter", "Synonyms: watermelon-shaped"]}
