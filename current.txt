@@ -1,1 +1,1 @@
-{"data": ["2023-04-04T09:02:35.884676+00:00", 10154, "Your mother is", "direful", "Pronunciation: /\u02c8da\u026a\u0259rf\u0259l/", "Definition: causing fear or dread or terror", "Synonyms: awful, dire, dread, dreaded, dreadful, fearful, fearsome, frightening, horrendous, horrific, terrible"]}
+{"data": ["2023-04-04T10:02:41.925934+00:00", 10155, "Your mother is", "invigorating", "Pronunciation: /\u026an\u02c8v\u026a\u0261\u025dr\u02cce\u026at\u026a\u014b/", "Definition: imparting strength and vitality", ""]}
