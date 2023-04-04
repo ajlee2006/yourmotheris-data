@@ -1,1 +1,1 @@
-{"data": ["2023-04-03T23:02:23.795065+00:00", 10144, "Your mother is", "deific", "Pronunciation: /di\u02c8\u026af\u026ak/", "Definition: characterized by divine or godlike nature", ""]}
+{"data": ["2023-04-04T00:03:55.856948+00:00", 10145, "Your mother is", "muddied", "Pronunciation: /\u02c8m\u028cdid/", "Definition: (of color) discolored by impurities; not bright and clear", "Synonyms: dingy, dirty, muddy"]}
