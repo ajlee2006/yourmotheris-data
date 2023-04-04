@@ -1,1 +1,1 @@
-{"data": ["2023-04-04T13:02:52.799000+00:00", 10158, "Your mother is", "resupine", "Pronunciation: /\u02ccrisu\u02c8pa\u026an/", "Definition: lying face upward", "Synonyms: supine"]}
+{"data": ["2023-04-04T14:02:58.138614+00:00", 10159, "Your mother is", "territorial", "Pronunciation: /\u02cct\u025br\u026a\u02c8to\u028ari\u0259l/", "Definition: belonging to the territory of any state or ruler", ""]}
