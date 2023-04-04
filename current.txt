@@ -1,1 +1,1 @@
-{"data": ["2023-04-04T06:03:12.835350+00:00", 10151, "Your mother is", "strangled", "Pronunciation: /\u02c8str\u00e6\u014b\u0261\u028cld/", "Definition: held in check with difficulty", "Synonyms: smothered, stifled, suppressed"]}
+{"data": ["2023-04-04T07:03:05.291740+00:00", 10152, "Your mother is", "declared", "Pronunciation: /d\u026a\u02c8kl\u025crd/", "Definition: declared as fact; explicitly stated", "Synonyms: stated"]}
