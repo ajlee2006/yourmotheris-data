@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T02:03:18.262285+00:00", 10171, "Your mother is", "discrepant", "Pronunciation: /d\u026a\u02c8skr\u025bp\u0259nt/", "Definition: not in accord", "Synonyms: at variance, dissonant"]}
+{"data": ["2023-04-05T03:02:55.053634+00:00", 10172, "Your mother is", "aldermanly", "", "Definition: of or relating to or like an alderman", "Synonyms: aldermanic"]}
