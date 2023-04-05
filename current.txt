@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T12:02:51.393177+00:00", 10181, "Your mother is", "scornful", "Pronunciation: /\u02c8sk\u0254rnf\u0259l/", "Definition: expressing extreme contempt", "Synonyms: contemptuous, disdainful, insulting"]}
+{"data": ["2023-04-05T13:02:43.350379+00:00", 10182, "Your mother is", "hostile", "Pronunciation: /\u02c8h\u0251st\u0259l/", "Definition: very unfavorable to life or growth", "Synonyms: uncongenial, unfriendly"]}
