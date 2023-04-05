@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T21:02:55.915747+00:00", 10190, "Your mother is", "hygienical", "Similar to: healthful", "Definition: tending to promote or preserve health", "Synonyms: hygienic"]}
+{"data": ["2023-04-05T22:02:59.810181+00:00", 10191, "Your mother is", "outcaste", "Pronunciation: /\u02c8a\u028at\u02cck\u00e6st/", "Definition: not belonging to or having been expelled from a caste and thus having no place or status in society", "Synonyms: casteless"]}
