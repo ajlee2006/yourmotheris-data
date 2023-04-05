@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T16:02:57.429690+00:00", 10185, "Your mother is", "verboten", "Pronunciation: /f\u0259R\u02c8bo\u028at\u0259n/", "Definition: excluded from use or mention", "Synonyms: forbidden, out, prohibited, proscribed, taboo, tabu"]}
+{"data": ["2023-04-05T17:02:21.807823+00:00", 10186, "Your mother is", "curious", "Pronunciation: /\u02c8kj\u028ari\u0259s/", "Definition: beyond or deviating from the usual or expected", "Synonyms: funny, odd, peculiar, queer, rum, rummy, singular"]}
