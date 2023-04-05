@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T11:03:07.031707+00:00", 10180, "Your mother is", "gummed", "Pronunciation: /\u0261\u0259md/", "Definition: covered with adhesive gum", "Synonyms: gummy"]}
+{"data": ["2023-04-05T12:02:51.393177+00:00", 10181, "Your mother is", "scornful", "Pronunciation: /\u02c8sk\u0254rnf\u0259l/", "Definition: expressing extreme contempt", "Synonyms: contemptuous, disdainful, insulting"]}
