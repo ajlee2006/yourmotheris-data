@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T19:02:03.795375+00:00", 10188, "Your mother is", "univocal", "Pronunciation: /j\u028a\u02c8n\u026av\u0259k\u0259l/", "Definition: admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion", "Synonyms: unambiguous, unequivocal"]}
+{"data": ["2023-04-05T20:03:14.364085+00:00", 10189, "Your mother is", "veridical", "Pronunciation: /v\u0259\u02c8r\u026ad\u026ak\u0259l/", "Definition: coinciding with reality", "Synonyms: real"]}
