@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T18:02:27.712843+00:00", 10187, "Your mother is", "made", "Pronunciation: /me\u026ad/", "Definition: produced by a manufacturing process", ""]}
+{"data": ["2023-04-05T19:02:03.795375+00:00", 10188, "Your mother is", "univocal", "Pronunciation: /j\u028a\u02c8n\u026av\u0259k\u0259l/", "Definition: admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion", "Synonyms: unambiguous, unequivocal"]}
