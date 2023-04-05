@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T20:03:14.364085+00:00", 10189, "Your mother is", "veridical", "Pronunciation: /v\u0259\u02c8r\u026ad\u026ak\u0259l/", "Definition: coinciding with reality", "Synonyms: real"]}
+{"data": ["2023-04-05T21:02:55.915747+00:00", 10190, "Your mother is", "hygienical", "Similar to: healthful", "Definition: tending to promote or preserve health", "Synonyms: hygienic"]}
