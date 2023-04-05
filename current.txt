@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T00:03:52.034163+00:00", 10169, "Your mother is", "city-born", "Pronunciation: /\u02c8s\u026ati-b\u0254rn/", "Definition: being or having the customs or manners or dress of a city person", "Synonyms: citified, city-bred, cityfied"]}
+{"data": ["2023-04-05T01:03:25.932636+00:00", 10170, "Your mother is", "xi", "Pronunciation: /za\u026a/", "Definition: being one more than ten", "Synonyms: 11, eleven"]}
