@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T06:02:37.005662+00:00", 10175, "Your mother is", "adverse", "Pronunciation: /\u00e6d\u02c8v\u025crs/", "Definition: in an opposing direction", "Synonyms: contrary"]}
+{"data": ["2023-04-05T07:02:18.273341+00:00", 10176, "Your mother is", "monegasque", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8\u0261\u00e6sk/", "Definition: of or relating to or characteristic of Monaco or its people", "Synonyms: monacan"]}
