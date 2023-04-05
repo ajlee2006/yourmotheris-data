@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T03:02:55.053634+00:00", 10172, "Your mother is", "aldermanly", "", "Definition: of or relating to or like an alderman", "Synonyms: aldermanic"]}
+{"data": ["2023-04-05T04:02:36.701524+00:00", 10173, "Your mother is", "three-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with three members", "Synonyms: 3-membered"]}
