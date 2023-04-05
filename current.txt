@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T09:02:57.399216+00:00", 10178, "Your mother is", "untoothed", "Similar to: smooth", "Definition: having no notches", "Synonyms: unnotched"]}
+{"data": ["2023-04-05T10:02:27.587267+00:00", 10179, "Your mother is", "meddlesome", "Pronunciation: /\u02c8m\u025bd\u0259ls\u0259m/", "Definition: intrusive in a meddling or offensive manner", "Synonyms: busy, busybodied, interfering, meddling, officious"]}
