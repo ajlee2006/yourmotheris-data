@@ -1,1 +1,1 @@
-{"data": ["2023-04-04T23:02:50.766880+00:00", 10168, "Your mother is", "metameric", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8m\u025brik/", "Definition: having the body divided into successive metameres or segments, as in earthworms or lobsters", "Synonyms: segmental, segmented"]}
+{"data": ["2023-04-05T00:03:52.034163+00:00", 10169, "Your mother is", "city-born", "Pronunciation: /\u02c8s\u026ati-b\u0254rn/", "Definition: being or having the customs or manners or dress of a city person", "Synonyms: citified, city-bred, cityfied"]}
