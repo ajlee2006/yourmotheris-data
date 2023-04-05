@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T10:02:27.587267+00:00", 10179, "Your mother is", "meddlesome", "Pronunciation: /\u02c8m\u025bd\u0259ls\u0259m/", "Definition: intrusive in a meddling or offensive manner", "Synonyms: busy, busybodied, interfering, meddling, officious"]}
+{"data": ["2023-04-05T11:03:07.031707+00:00", 10180, "Your mother is", "gummed", "Pronunciation: /\u0261\u0259md/", "Definition: covered with adhesive gum", "Synonyms: gummy"]}
