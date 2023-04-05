@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T05:02:55.654647+00:00", 10174, "Your mother is", "unpointed", "Pronunciation: /\u0259n\u02c8p\u0254\u026ant\u026ad/", "Definition: not having a point especially a sharp point", "Synonyms: pointless"]}
+{"data": ["2023-04-05T06:02:37.005662+00:00", 10175, "Your mother is", "adverse", "Pronunciation: /\u00e6d\u02c8v\u025crs/", "Definition: in an opposing direction", "Synonyms: contrary"]}
