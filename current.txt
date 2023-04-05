@@ -1,1 +1,1 @@
-{"data": ["2023-04-05T07:02:18.273341+00:00", 10176, "Your mother is", "monegasque", "Pronunciation: /\u02ccm\u0251n\u0259\u02c8\u0261\u00e6sk/", "Definition: of or relating to or characteristic of Monaco or its people", "Synonyms: monacan"]}
+{"data": ["2023-04-05T08:02:32.407784+00:00", 10177, "Your mother is", "wilted", "Pronunciation: /\u02c8w\u026alt\u026ad/", "Definition: without energy or will", "Synonyms: limp"]}
