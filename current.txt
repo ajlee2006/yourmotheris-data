@@ -1,1 +1,1 @@
-{"data": ["2023-04-06T14:02:57.661730+00:00", 10206, "Your mother is", "battle-scarred", "Pronunciation: /\u02c8b\u00e6t\u0259l\u02ccsk\u0251rd/", "Definition: scarred by battle", ""]}
+{"data": ["2023-04-06T15:02:41.392724+00:00", 10207, "Your mother is", "sable", "Pronunciation: /\u02c8se\u026ab\u0259l/", "Definition: of a dark somewhat brownish black", ""]}
