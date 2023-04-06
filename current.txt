@@ -1,1 +1,1 @@
-{"data": ["2023-04-06T15:02:41.392724+00:00", 10207, "Your mother is", "sable", "Pronunciation: /\u02c8se\u026ab\u0259l/", "Definition: of a dark somewhat brownish black", ""]}
+{"data": ["2023-04-06T16:02:37.421333+00:00", 10208, "Your mother is", "p.m.", "Pronunciation: /\u02c8pi\u02c8\u025bm/", "Definition: after noon", "Synonyms: post meridiem"]}
