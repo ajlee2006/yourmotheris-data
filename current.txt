@@ -1,1 +1,1 @@
-{"data": ["2023-04-06T12:02:37.780237+00:00", 10204, "Your mother is", "syntactic", "Pronunciation: /s\u026an\u02c8t\u00e6kt\u026ak/", "Definition: of or relating to or conforming to the rules of syntax", "Synonyms: syntactical"]}
+{"data": ["2023-04-06T13:03:01.653972+00:00", 10205, "Your mother is", "wed", "Pronunciation: /w\u025bd/", "Definition: having been taken in marriage", "Synonyms: wedded"]}
