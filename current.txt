@@ -1,1 +1,1 @@
-{"data": ["2023-04-06T01:02:55.463895+00:00", 10194, "Your mother is", "nonaged", "", "Definition: not of legal age", "Synonyms: minor, underage"]}
+{"data": ["2023-04-06T02:02:45.572944+00:00", 10195, "Your mother is", "cytological", "", "Definition: of or relating to the science of cytology", "Synonyms: cytologic"]}
