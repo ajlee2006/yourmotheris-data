@@ -1,1 +1,1 @@
-{"data": ["2023-04-06T00:03:19.876151+00:00", 10193, "Your mother is", "maxi", "Pronunciation: /\u02c8m\u00e6ksi/", "Definition: used of women's clothing having a hemline at the ankle", ""]}
+{"data": ["2023-04-06T01:02:55.463895+00:00", 10194, "Your mother is", "nonaged", "", "Definition: not of legal age", "Synonyms: minor, underage"]}
