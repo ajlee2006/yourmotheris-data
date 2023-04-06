@@ -1,1 +1,1 @@
-{"data": ["2023-04-06T06:02:52.933394+00:00", 10198, "Your mother is", "lancinating", "Pronunciation: /\u02c8l\u0251ns\u026a\u02ccne\u026ati\u014b/", "Definition: painful as if caused by a sharp instrument", "Synonyms: cutting, keen, knifelike, lancinate, piercing, stabbing"]}
+{"data": ["2023-04-06T07:02:15.300783+00:00", 10199, "Your mother is", "stockinged", "Similar to: unshod", "Definition: wearing stockings", ""]}
