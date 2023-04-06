@@ -1,1 +1,1 @@
-{"data": ["2023-04-06T13:03:01.653972+00:00", 10205, "Your mother is", "wed", "Pronunciation: /w\u025bd/", "Definition: having been taken in marriage", "Synonyms: wedded"]}
+{"data": ["2023-04-06T14:02:57.661730+00:00", 10206, "Your mother is", "battle-scarred", "Pronunciation: /\u02c8b\u00e6t\u0259l\u02ccsk\u0251rd/", "Definition: scarred by battle", ""]}
