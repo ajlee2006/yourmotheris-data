@@ -1,1 +1,1 @@
-{"data": ["2023-04-06T09:02:55.960553+00:00", 10201, "Your mother is", "inflexible", "Pronunciation: /\u026an\u02c8fl\u025bks\u0259b\u0259l/", "Definition: incapable of adapting or changing to meet circumstances", "Synonyms: rigid, unbending"]}
+{"data": ["2023-04-06T10:02:18.883354+00:00", 10202, "Your mother is", "teasing", "Pronunciation: /\u02c8tiz\u026a\u014b/", "Definition: playfully vexing (especially by ridicule)", "Synonyms: mocking, quizzical"]}
