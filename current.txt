@@ -1,1 +1,1 @@
-{"data": ["2023-04-06T05:02:53.483223+00:00", 10197, "Your mother is", "aspirant", "Pronunciation: /\u0259\u02c8spa\u026a\u0259r\u0259nt/", "Definition: desiring or striving for recognition or advancement", "Synonyms: aspiring, wishful"]}
+{"data": ["2023-04-06T06:02:52.933394+00:00", 10198, "Your mother is", "lancinating", "Pronunciation: /\u02c8l\u0251ns\u026a\u02ccne\u026ati\u014b/", "Definition: painful as if caused by a sharp instrument", "Synonyms: cutting, keen, knifelike, lancinate, piercing, stabbing"]}
