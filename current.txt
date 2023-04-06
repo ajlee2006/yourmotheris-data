@@ -1,1 +1,1 @@
-{"data": ["2023-04-06T16:02:37.421333+00:00", 10208, "Your mother is", "p.m.", "Pronunciation: /\u02c8pi\u02c8\u025bm/", "Definition: after noon", "Synonyms: post meridiem"]}
+{"data": ["2023-04-06T17:02:59.342264+00:00", 10209, "Your mother is", "daylong", "Pronunciation: /\u02c8de\u026a\u02ccl\u0254\u014b/", "Definition: lasting through an entire day", ""]}
