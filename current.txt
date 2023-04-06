@@ -1,1 +1,1 @@
-{"data": ["2023-04-06T11:03:03.385252+00:00", 10203, "Your mother is", "numb", "Pronunciation: /n\u0259m/", "Definition: (followed by `to') not showing human feeling or sensitivity; unresponsive", "Synonyms: dead"]}
+{"data": ["2023-04-06T12:02:37.780237+00:00", 10204, "Your mother is", "syntactic", "Pronunciation: /s\u026an\u02c8t\u00e6kt\u026ak/", "Definition: of or relating to or conforming to the rules of syntax", "Synonyms: syntactical"]}
