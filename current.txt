@@ -1,1 +1,1 @@
-{"data": ["2023-04-06T10:02:18.883354+00:00", 10202, "Your mother is", "teasing", "Pronunciation: /\u02c8tiz\u026a\u014b/", "Definition: playfully vexing (especially by ridicule)", "Synonyms: mocking, quizzical"]}
+{"data": ["2023-04-06T11:03:03.385252+00:00", 10203, "Your mother is", "numb", "Pronunciation: /n\u0259m/", "Definition: (followed by `to') not showing human feeling or sensitivity; unresponsive", "Synonyms: dead"]}
