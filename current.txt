@@ -1,1 +1,1 @@
-{"data": ["2023-04-06T21:03:15.496315+00:00", 10213, "Your mother is", "latter-day", "Pronunciation: /\u02c8l\u00e6t\u0259r-\u02c8de\u026a/", "Definition: belonging to the present or recent times", ""]}
+{"data": ["2023-04-06T23:02:23.726864+00:00", 10214, "Your mother is", "aslope", "Pronunciation: /\u0259\u02c8slo\u028ap/", "Definition: having an oblique or slanted direction", "Synonyms: aslant, diagonal, slanted, slanting, sloped, sloping"]}
