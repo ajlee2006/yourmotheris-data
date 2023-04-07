@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T00:03:27.602191+00:00", 10215, "Your mother is", "scots", "Pronunciation: /sk\u0251ts/", "Definition: of or relating to or characteristic of Scotland or its people or culture or its English dialect or Gaelic language", "Synonyms: scotch, scottish"]}
+{"data": ["2023-04-07T01:03:03.479920+00:00", 10216, "Your mother is", "bacillar", "Pronunciation: /b\u0259\u02c8s\u026al\u0259r/", "Definition: relating to or produced by or containing bacilli", "Synonyms: bacillary"]}
