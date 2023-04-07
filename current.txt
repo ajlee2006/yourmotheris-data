@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T09:01:33.111850+00:00", 10224, "Your mother is", "trilobated", "Similar to: compound", "Definition: (of a leaf shape) divided into three lobes", "Synonyms: three-lobed, trilobate, trilobed"]}
+{"data": ["2023-04-07T10:02:02.291542+00:00", 10225, "Your mother is", "cephalopodan", "", "Definition: relating or belonging to the class Cephalopoda", "Synonyms: cephalopod"]}
