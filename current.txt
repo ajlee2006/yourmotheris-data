@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T08:03:08.420626+00:00", 10223, "Your mother is", "weeklong", "Pronunciation: /\u02c8wikl\u0251\u014b/", "Definition: lasting through a week", "Synonyms: seven-day"]}
+{"data": ["2023-04-07T09:01:33.111850+00:00", 10224, "Your mother is", "trilobated", "Similar to: compound", "Definition: (of a leaf shape) divided into three lobes", "Synonyms: three-lobed, trilobate, trilobed"]}
