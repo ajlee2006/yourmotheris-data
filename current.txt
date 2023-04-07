@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T21:01:52.049203+00:00", 10236, "Your mother is", "hemorrhagic", "Pronunciation: /\u02cch\u025bm\u0259\u02c8r\u00e6d\u0292\u026ak/", "Definition: of or relating to a hemorrhage", "Synonyms: haemorrhagic"]}
+{"data": ["2023-04-07T22:02:16.306876+00:00", 10237, "Your mother is", "somnific", "Pronunciation: /s\u0251m\u02c8n\u026af\u026ak/", "Definition: sleep inducing", "Synonyms: hypnagogic, hypnogogic, somniferous, soporiferous, soporific"]}
