@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T07:01:26.910785+00:00", 10222, "Your mother is", "prokaryotic", "", "Definition: having cells that lack membrane-bound nuclei", "Synonyms: procaryotic"]}
+{"data": ["2023-04-07T08:03:08.420626+00:00", 10223, "Your mother is", "weeklong", "Pronunciation: /\u02c8wikl\u0251\u014b/", "Definition: lasting through a week", "Synonyms: seven-day"]}
