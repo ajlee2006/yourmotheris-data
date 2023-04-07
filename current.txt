@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T10:02:02.291542+00:00", 10225, "Your mother is", "cephalopodan", "", "Definition: relating or belonging to the class Cephalopoda", "Synonyms: cephalopod"]}
+{"data": ["2023-04-07T11:01:26.557242+00:00", 10226, "Your mother is", "muffled", "Pronunciation: /\u02c8m\u028cf\u028cld/", "Definition: being or made softer or less loud or clear", "Synonyms: dull, muted, softened"]}
