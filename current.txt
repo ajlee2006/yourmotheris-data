@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T19:01:57.507815+00:00", 10234, "Your mother is", "semi-evergreen", "Similar to: evergreen", "Definition: of a plant that is incompletely evergreen", "Synonyms: half-evergreen"]}
+{"data": ["2023-04-07T20:02:03.196967+00:00", 10235, "Your mother is", "decorated", "Pronunciation: /\u02c8d\u025bk\u0259\u02ccre\u026at\u026ad/", "Definition: provided with something intended to increase its beauty or distinction", "Synonyms: adorned"]}
