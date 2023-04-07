@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T01:03:03.479920+00:00", 10216, "Your mother is", "bacillar", "Pronunciation: /b\u0259\u02c8s\u026al\u0259r/", "Definition: relating to or produced by or containing bacilli", "Synonyms: bacillary"]}
+{"data": ["2023-04-07T02:03:09.767281+00:00", 10217, "Your mother is", "molded", "Pronunciation: /\u02c8mo\u028ald\u028cd/", "Definition: shaped to fit by or as if by altering the contours of a pliable mass (as by work or effort)", "Synonyms: shaped, wrought"]}
