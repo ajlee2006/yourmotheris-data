@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T22:02:16.306876+00:00", 10237, "Your mother is", "somnific", "Pronunciation: /s\u0251m\u02c8n\u026af\u026ak/", "Definition: sleep inducing", "Synonyms: hypnagogic, hypnogogic, somniferous, soporiferous, soporific"]}
+{"data": ["2023-04-07T23:01:43.789744+00:00", 10238, "Your mother is", "diametrical", "Pronunciation: /\u02ccda\u026a\u0259\u02c8m\u025btr\u026ak\u0259l/", "Definition: related to or along a diameter", "Synonyms: diametral, diametric"]}
