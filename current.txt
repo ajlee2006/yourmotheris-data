@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T18:02:39.352644+00:00", 10233, "Your mother is", "valueless", "Pronunciation: /\u02c8v\u00e6ljul\u026as/", "Definition: of no value", ""]}
+{"data": ["2023-04-07T19:01:57.507815+00:00", 10234, "Your mother is", "semi-evergreen", "Similar to: evergreen", "Definition: of a plant that is incompletely evergreen", "Synonyms: half-evergreen"]}
