@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T20:02:03.196967+00:00", 10235, "Your mother is", "decorated", "Pronunciation: /\u02c8d\u025bk\u0259\u02ccre\u026at\u026ad/", "Definition: provided with something intended to increase its beauty or distinction", "Synonyms: adorned"]}
+{"data": ["2023-04-07T21:01:52.049203+00:00", 10236, "Your mother is", "hemorrhagic", "Pronunciation: /\u02cch\u025bm\u0259\u02c8r\u00e6d\u0292\u026ak/", "Definition: of or relating to a hemorrhage", "Synonyms: haemorrhagic"]}
