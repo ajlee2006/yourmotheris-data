@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T15:01:55.501116+00:00", 10230, "Your mother is", "multistorey", "Similar to: high-rise", "Definition: having more than one story", "Synonyms: multistoried, multistory"]}
+{"data": ["2023-04-07T16:01:25.196819+00:00", 10231, "Your mother is", "jilted", "Pronunciation: /\u02c8d\u0292\u026alt\u026ad/", "Definition: rebuffed (by a lover) without warning", "Synonyms: rejected, spurned"]}
