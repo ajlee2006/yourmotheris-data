@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T11:01:26.557242+00:00", 10226, "Your mother is", "muffled", "Pronunciation: /\u02c8m\u028cf\u028cld/", "Definition: being or made softer or less loud or clear", "Synonyms: dull, muted, softened"]}
+{"data": ["2023-04-07T12:02:20.133955+00:00", 10227, "Your mother is", "fore", "Pronunciation: /fo\u028ar/", "Definition: situated at or toward the bow of a vessel", ""]}
