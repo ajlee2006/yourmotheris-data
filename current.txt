@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T14:01:40.979179+00:00", 10229, "Your mother is", "fiery", "Pronunciation: /\u02c8fa\u026a\u0259ri/", "Definition: very intense", "Synonyms: flaming"]}
+{"data": ["2023-04-07T15:01:55.501116+00:00", 10230, "Your mother is", "multistorey", "Similar to: high-rise", "Definition: having more than one story", "Synonyms: multistoried, multistory"]}
