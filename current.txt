@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T06:02:06.917143+00:00", 10245, "Your mother is", "haemic", "Pronunciation: /\u02c8him\u026ak/", "Definition: relating to or containing or affecting blood", "Synonyms: haematic, hematic, hemic"]}
+{"data": ["2023-04-08T07:01:36.121263+00:00", 10246, "Your mother is", "inapposite", "Pronunciation: /\u026an\u02c8\u00e6p\u0259z\u026at/", "Definition: of an inappropriate or misapplied nature", "Synonyms: out of place"]}
