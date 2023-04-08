@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T08:02:07.729019+00:00", 10247, "Your mother is", "springy", "Pronunciation: /\u02c8spr\u026a\u014bi/", "Definition: elastic; rebounds readily", "Synonyms: bouncy, live, lively, resilient"]}
+{"data": ["2023-04-08T09:01:39.462801+00:00", 10248, "Your mother is", "catapultic", "", "Definition: of or like a catapult", "Synonyms: catapultian"]}
