@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T18:01:54.973335+00:00", 10257, "Your mother is", "laudable", "Pronunciation: /\u02c8l\u0254d\u0259b\u0259l/", "Definition: worthy of high praise", "Synonyms: applaudable, commendable, praiseworthy"]}
+{"data": ["2023-04-08T19:01:24.756704+00:00", 10258, "Your mother is", "slipper-shaped", "Pronunciation: /\u02c8sl\u026ap\u0259r-\u0283e\u026apt/", "Definition: shaped in the form of a slipper", ""]}
