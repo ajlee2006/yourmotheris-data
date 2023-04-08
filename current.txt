@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T02:02:20.019430+00:00", 10241, "Your mother is", "macrencephalic", "", "Definition: having a large brain case", "Synonyms: macrencephalous"]}
+{"data": ["2023-04-08T03:01:43.337993+00:00", 10242, "Your mother is", "nonionic", "", "Definition: not ionic", "Synonyms: nonpolar"]}
