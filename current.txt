@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T21:02:11.770892+00:00", 10260, "Your mother is", "unattributable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8tribj\u028at\u0259b\u0259l/", "Definition: not attributable", "Synonyms: unascribable"]}
+{"data": ["2023-04-08T22:02:14.361613+00:00", 10261, "Your mother is", "imaginable", "Pronunciation: /\u026a\u02c8m\u00e6d\u0292\u0259n\u0259b\u0259l/", "Definition: capable of being imagined", "Synonyms: conceivable"]}
