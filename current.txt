@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T07:01:36.121263+00:00", 10246, "Your mother is", "inapposite", "Pronunciation: /\u026an\u02c8\u00e6p\u0259z\u026at/", "Definition: of an inappropriate or misapplied nature", "Synonyms: out of place"]}
+{"data": ["2023-04-08T08:02:07.729019+00:00", 10247, "Your mother is", "springy", "Pronunciation: /\u02c8spr\u026a\u014bi/", "Definition: elastic; rebounds readily", "Synonyms: bouncy, live, lively, resilient"]}
