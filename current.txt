@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T14:01:32.948098+00:00", 10253, "Your mother is", "select", "Pronunciation: /s\u026a\u02c8l\u025bkt/", "Definition: selected or chosen for special qualifications", "Synonyms: blue-ribbon"]}
+{"data": ["2023-04-08T15:02:14.811246+00:00", 10254, "Your mother is", "boxed-in", "Similar to: enclosed", "Definition: enclosed in or as if in a box", "Synonyms: boxed, boxed in"]}
