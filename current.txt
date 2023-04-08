@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T04:02:09.760131+00:00", 10243, "Your mother is", "multiparous", "Pronunciation: /m\u0259l\u02c8t\u026ap\u0259r\u0259s/", "Definition: producing more than one offspring at a time", ""]}
+{"data": ["2023-04-08T05:01:56.718519+00:00", 10244, "Your mother is", "goalless", "Similar to: unsuccessful", "Definition: having no points scores", "Synonyms: hitless, pointless, scoreless"]}
