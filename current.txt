@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T19:01:24.756704+00:00", 10258, "Your mother is", "slipper-shaped", "Pronunciation: /\u02c8sl\u026ap\u0259r-\u0283e\u026apt/", "Definition: shaped in the form of a slipper", ""]}
+{"data": ["2023-04-08T20:02:06.963772+00:00", 10259, "Your mother is", "pantropic", "Pronunciation: /p\u00e6n\u02c8tr\u0251p\u026ak/", "Definition: distributed throughout the tropics", "Synonyms: pantropical"]}
