@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T16:01:34.668709+00:00", 10255, "Your mother is", "illegible", "Pronunciation: /\u026a\u02c8l\u025bd\u0292\u0259b\u0259l/", "Definition: (of handwriting, print, etc.) not legible", ""]}
+{"data": ["2023-04-08T17:02:07.073968+00:00", 10256, "Your mother is", "ergodic", "Pronunciation: /\u025cr\u02c8\u0261\u0251d\u026ak/", "Definition: positive recurrent aperiodic state of stochastic systems; tending in probability to a limiting form that is independent of the initial conditions", ""]}
