@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T01:03:13.672061+00:00", 10240, "Your mother is", "destructive", "Pronunciation: /d\u026a\u02c8str\u0259kt\u026av/", "Definition: causing destruction or much damage", ""]}
+{"data": ["2023-04-08T02:02:20.019430+00:00", 10241, "Your mother is", "macrencephalic", "", "Definition: having a large brain case", "Synonyms: macrencephalous"]}
