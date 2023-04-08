@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T11:02:19.256209+00:00", 10250, "Your mother is", "veracious", "Pronunciation: /v\u0259\u02c8re\u026a\u0283\u0259s/", "Definition: precisely accurate", "Synonyms: right"]}
+{"data": ["2023-04-08T12:01:45.420843+00:00", 10251, "Your mother is", "overdone", "Pronunciation: /\u02cco\u028av\u0259r\u02c8d\u0259n/", "Definition: represented as greater than is true or reasonable", "Synonyms: exaggerated, overstated"]}
