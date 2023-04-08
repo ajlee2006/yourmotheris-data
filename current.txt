@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T12:01:45.420843+00:00", 10251, "Your mother is", "overdone", "Pronunciation: /\u02cco\u028av\u0259r\u02c8d\u0259n/", "Definition: represented as greater than is true or reasonable", "Synonyms: exaggerated, overstated"]}
+{"data": ["2023-04-08T13:01:46.008045+00:00", 10252, "Your mother is", "uniform", "Pronunciation: /\u02c8jun\u0259f\u0254rm/", "Definition: always the same; showing a single form or character in all occurrences", "Synonyms: unvarying"]}
