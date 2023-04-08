@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T17:02:07.073968+00:00", 10256, "Your mother is", "ergodic", "Pronunciation: /\u025cr\u02c8\u0261\u0251d\u026ak/", "Definition: positive recurrent aperiodic state of stochastic systems; tending in probability to a limiting form that is independent of the initial conditions", ""]}
+{"data": ["2023-04-08T18:01:54.973335+00:00", 10257, "Your mother is", "laudable", "Pronunciation: /\u02c8l\u0254d\u0259b\u0259l/", "Definition: worthy of high praise", "Synonyms: applaudable, commendable, praiseworthy"]}
