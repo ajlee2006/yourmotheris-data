@@ -1,1 +1,1 @@
-{"data": ["2023-04-07T23:01:43.789744+00:00", 10238, "Your mother is", "diametrical", "Pronunciation: /\u02ccda\u026a\u0259\u02c8m\u025btr\u026ak\u0259l/", "Definition: related to or along a diameter", "Synonyms: diametral, diametric"]}
+{"data": ["2023-04-08T00:03:28.378595+00:00", 10239, "Your mother is", "air-dry", "Pronunciation: /\u025cr-dra\u026a/", "Definition: not giving off moisture on exposure to the air", ""]}
