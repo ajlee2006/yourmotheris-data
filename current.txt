@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T10:02:26.445939+00:00", 10249, "Your mother is", "splitting", "Pronunciation: /\u02c8spl\u026at\u026a\u014b/", "Definition: resembling a sound of violent tearing as of something ripped apart or lightning splitting a tree", "Synonyms: rending, ripping"]}
+{"data": ["2023-04-08T11:02:19.256209+00:00", 10250, "Your mother is", "veracious", "Pronunciation: /v\u0259\u02c8re\u026a\u0283\u0259s/", "Definition: precisely accurate", "Synonyms: right"]}
