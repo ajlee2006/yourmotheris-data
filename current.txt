@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T20:02:06.963772+00:00", 10259, "Your mother is", "pantropic", "Pronunciation: /p\u00e6n\u02c8tr\u0251p\u026ak/", "Definition: distributed throughout the tropics", "Synonyms: pantropical"]}
+{"data": ["2023-04-08T21:02:11.770892+00:00", 10260, "Your mother is", "unattributable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8tribj\u028at\u0259b\u0259l/", "Definition: not attributable", "Synonyms: unascribable"]}
