@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T13:01:46.434547+00:00", 10276, "Your mother is", "heinous", "Pronunciation: /\u02c8he\u026an\u0259s/", "Definition: extremely wicked, deeply criminal", "Synonyms: flagitious"]}
+{"data": ["2023-04-09T14:01:51.170445+00:00", 10277, "Your mother is", "brindled", "Pronunciation: /\u02c8br\u026and\u0259ld/", "Definition: having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats", "Synonyms: brinded, brindle, tabby"]}
