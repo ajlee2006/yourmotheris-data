@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T19:02:04.294115+00:00", 10282, "Your mother is", "clumsy", "Pronunciation: /\u02c8kl\u0259mzi/", "Definition: showing lack of skill or aptitude", "Synonyms: bungling, fumbling, incompetent"]}
+{"data": ["2023-04-09T20:02:13.834726+00:00", 10283, "Your mother is", "imprecise", "Pronunciation: /\u02cc\u026ampr\u026a\u02c8sa\u026as/", "Definition: not precise", ""]}
