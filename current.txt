@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T17:01:28.079750+00:00", 10280, "Your mother is", "portly", "Pronunciation: /\u02c8po\u028artli/", "Definition: euphemisms for `fat'", "Synonyms: stout"]}
+{"data": ["2023-04-09T18:02:19.550303+00:00", 10281, "Your mother is", "hundred-and-fifteenth", "Similar to: ordinal", "Definition: the ordinal number of one hundred fifteen in counting order", "Synonyms: 115th"]}
