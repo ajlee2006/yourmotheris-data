@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T04:01:57.922261+00:00", 10267, "Your mother is", "nip and tuck", "Pronunciation: /\u02ccn\u026ap\u0259n\u02c8t\u0259k/", "Definition: inconclusive as to outcome; close or just even in a race or comparison or competition", "Synonyms: head-to-head, neck and neck"]}
+{"data": ["2023-04-09T05:02:36.541353+00:00", 10268, "Your mother is", "germy", "Similar to: unsterilised", "Definition: full of germs or pathological microorganisms", ""]}
