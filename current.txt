@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T00:03:37.552329+00:00", 10263, "Your mother is", "inhabitable", "Similar to: livable", "Definition: fit for habitation", "Synonyms: habitable"]}
+{"data": ["2023-04-09T01:02:58.449778+00:00", 10264, "Your mother is", "supplementary", "Pronunciation: /\u02ccs\u0259pl\u0259\u02c8m\u025bnt\u0259ri/", "Definition: functioning in a supporting capacity", "Synonyms: auxiliary, subsidiary, supplemental"]}
