@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T02:01:46.855757+00:00", 10265, "Your mother is", "semiliterate", "Pronunciation: /\u02ccs\u025bmi\u02c8l\u026at\u0259r\u026at/", "Definition: able to read but not to write", ""]}
+{"data": ["2023-04-09T03:02:20.658851+00:00", 10266, "Your mother is", "fang-like", "Similar to: sharp", "Definition: resembling a fang", ""]}
