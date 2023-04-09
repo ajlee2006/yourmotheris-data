@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T22:01:30.859630+00:00", 10285, "Your mother is", "manichee", "Pronunciation: /\u02c8m\u00e6n\u0259\u02ccki/", "Definition: of or relating to Manichaeism", "Synonyms: manichaean, manichean"]}
+{"data": ["2023-04-09T23:02:15.684997+00:00", 10286, "Your mother is", "old-fashioned", "Pronunciation: /\u02c8o\u028ald\u02c8f\u00e6\u0283\u0259nd/", "Definition: out of fashion", "Synonyms: antique, demode, ex, old-hat, outmoded, passe, passee"]}
