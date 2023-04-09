@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T20:02:13.834726+00:00", 10283, "Your mother is", "imprecise", "Pronunciation: /\u02cc\u026ampr\u026a\u02c8sa\u026as/", "Definition: not precise", ""]}
+{"data": ["2023-04-09T21:02:01.272291+00:00", 10284, "Your mother is", "risen", "Pronunciation: /\u02c8r\u026az\u0259n/", "Definition: (of e.g. celestial bodies) above the horizon", ""]}
