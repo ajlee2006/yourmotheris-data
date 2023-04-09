@@ -1,1 +1,1 @@
-{"data": ["2023-04-08T23:01:57.002210+00:00", 10262, "Your mother is", "unfashionable", "Pronunciation: /\u0259n\u02c8f\u00e6\u0283\u0259n\u0259b\u0259l/", "Definition: not in accord with or not following current fashion", "Synonyms: unstylish"]}
+{"data": ["2023-04-09T00:03:37.552329+00:00", 10263, "Your mother is", "inhabitable", "Similar to: livable", "Definition: fit for habitation", "Synonyms: habitable"]}
