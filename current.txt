@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T18:02:19.550303+00:00", 10281, "Your mother is", "hundred-and-fifteenth", "Similar to: ordinal", "Definition: the ordinal number of one hundred fifteen in counting order", "Synonyms: 115th"]}
+{"data": ["2023-04-09T19:02:04.294115+00:00", 10282, "Your mother is", "clumsy", "Pronunciation: /\u02c8kl\u0259mzi/", "Definition: showing lack of skill or aptitude", "Synonyms: bungling, fumbling, incompetent"]}
