@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T07:01:50.847312+00:00", 10270, "Your mother is", "infuriating", "Pronunciation: /\u026an\u02c8fj\u028ari\u02cce\u026at\u026a\u014b/", "Definition: extremely annoying or displeasing", "Synonyms: exasperating, maddening, vexing"]}
+{"data": ["2023-04-09T08:02:54.184103+00:00", 10271, "Your mother is", "negligent", "Pronunciation: /\u02c8n\u025bgl\u026ad\u0292\u0259nt/", "Definition: characterized by neglect and undue lack of concern", ""]}
