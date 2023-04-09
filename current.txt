@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T11:01:40.577403+00:00", 10274, "Your mother is", "superfluous", "Pronunciation: /s\u028a\u02c8p\u025crflu\u0259s/", "Definition: serving no useful purpose; having no excuse for being", "Synonyms: otiose, pointless, purposeless, senseless, wasted"]}
+{"data": ["2023-04-09T12:02:31.822675+00:00", 10275, "Your mother is", "unhewn", "Similar to: unfinished", "Definition: (of stone especially) not given a finished form by or as if by hewing", ""]}
