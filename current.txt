@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T21:02:01.272291+00:00", 10284, "Your mother is", "risen", "Pronunciation: /\u02c8r\u026az\u0259n/", "Definition: (of e.g. celestial bodies) above the horizon", ""]}
+{"data": ["2023-04-09T22:01:30.859630+00:00", 10285, "Your mother is", "manichee", "Pronunciation: /\u02c8m\u00e6n\u0259\u02ccki/", "Definition: of or relating to Manichaeism", "Synonyms: manichaean, manichean"]}
