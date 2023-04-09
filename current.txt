@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T06:01:53.577459+00:00", 10269, "Your mother is", "peripheral", "Pronunciation: /p\u0259\u02c8r\u026af\u0259r\u0259l/", "Definition: on or near an edge or constituting an outer boundary; the outer area", ""]}
+{"data": ["2023-04-09T07:01:50.847312+00:00", 10270, "Your mother is", "infuriating", "Pronunciation: /\u026an\u02c8fj\u028ari\u02cce\u026at\u026a\u014b/", "Definition: extremely annoying or displeasing", "Synonyms: exasperating, maddening, vexing"]}
