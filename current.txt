@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T14:01:51.170445+00:00", 10277, "Your mother is", "brindled", "Pronunciation: /\u02c8br\u026and\u0259ld/", "Definition: having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats", "Synonyms: brinded, brindle, tabby"]}
+{"data": ["2023-04-09T15:01:47.630026+00:00", 10278, "Your mother is", "wartlike", "Similar to: rough", "Definition: (of skin) covered with warts or projections that resemble warts", "Synonyms: verrucose, warty"]}
