@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T08:02:54.184103+00:00", 10271, "Your mother is", "negligent", "Pronunciation: /\u02c8n\u025bgl\u026ad\u0292\u0259nt/", "Definition: characterized by neglect and undue lack of concern", ""]}
+{"data": ["2023-04-09T09:01:57.391874+00:00", 10272, "Your mother is", "tumid", "Pronunciation: /\u02c8tjum\u026ad/", "Definition: abnormally distended especially by fluids or gas", "Synonyms: intumescent, puffy, tumescent, turgid"]}
