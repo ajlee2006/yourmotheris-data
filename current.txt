@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T10:02:20.410147+00:00", 10273, "Your mother is", "yarn-spinning", "Pronunciation: /j\u0251rn-\u02c8sp\u026an\u026a\u014b/", "Definition: inclined to tell long and involved stories (often of incredible happenings)", ""]}
+{"data": ["2023-04-09T11:01:40.577403+00:00", 10274, "Your mother is", "superfluous", "Pronunciation: /s\u028a\u02c8p\u025crflu\u0259s/", "Definition: serving no useful purpose; having no excuse for being", "Synonyms: otiose, pointless, purposeless, senseless, wasted"]}
