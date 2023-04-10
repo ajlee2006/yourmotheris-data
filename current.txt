@@ -1,1 +1,1 @@
-{"data": ["2023-04-10T04:01:39.499237+00:00", 10291, "Your mother is", "seasoned", "Pronunciation: /\u02c8siz\u028cnd/", "Definition: rendered competent through trial and experience", "Synonyms: veteran"]}
+{"data": ["2023-04-10T05:03:15.858246+00:00", 10292, "Your mother is", "cluttered", "Pronunciation: /\u02c8kl\u028ct\u025drd/", "Definition: filled or scattered with a disorderly accumulation of objects or rubbish", "Synonyms: littered"]}
