@@ -1,1 +1,1 @@
-{"data": ["2023-04-10T10:01:51.718031+00:00", 10297, "Your mother is", "rachitic", "Pronunciation: /r\u0259\u02c8k\u026at\u026ak/", "Definition: affected with, suffering from, or characteristic of rickets", "Synonyms: rickety"]}
+{"data": ["2023-04-10T11:01:24.286278+00:00", 10298, "Your mother is", "adient", "Pronunciation: /\u02cc\u00e6di\u0259nt/", "Definition: characterized by acceptance or approach", ""]}
