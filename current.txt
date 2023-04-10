@@ -1,1 +1,1 @@
-{"data": ["2023-04-10T16:01:30.617422+00:00", 10303, "Your mother is", "setose", "Pronunciation: /\u02c8sito\u028as/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristled, bristly, burred, burry, prickly, setaceous, spiny, thorny"]}
+{"data": ["2023-04-10T17:02:15.333862+00:00", 10304, "Your mother is", "unrestricted", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8strikt\u026ad/", "Definition: not restricted or exclusive", "Synonyms: unexclusive"]}
