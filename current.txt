@@ -1,1 +1,1 @@
-{"data": ["2023-04-10T20:01:58.309637+00:00", 10307, "Your mother is", "apodeictic", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8da\u026akt\u026ak/", "Definition: of a proposition; necessarily true or logically certain", "Synonyms: apodictic"]}
+{"data": ["2023-04-10T21:02:12.706065+00:00", 10308, "Your mother is", "andantino", "Pronunciation: /\u02cc\u00e6nd\u00e6n\u02c8tino\u028a/", "Definition: (of tempo) moderately fast", ""]}
