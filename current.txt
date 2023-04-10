@@ -1,1 +1,1 @@
-{"data": ["2023-04-10T05:03:15.858246+00:00", 10292, "Your mother is", "cluttered", "Pronunciation: /\u02c8kl\u028ct\u025drd/", "Definition: filled or scattered with a disorderly accumulation of objects or rubbish", "Synonyms: littered"]}
+{"data": ["2023-04-10T06:01:58.750217+00:00", 10293, "Your mother is", "self-forgetful", "Pronunciation: /s\u025blf-f\u0259r\u02c8\u0261\u025btf\u0259l/", "Definition: showing lack of self-interest", ""]}
