@@ -1,1 +1,1 @@
-{"data": ["2023-04-10T12:01:49.761893+00:00", 10299, "Your mother is", "calando", "Pronunciation: /k\u00e6\u02c8l\u00e6ndo\u028a/", "Definition: (music) gradually decreasing in tempo and volume", ""]}
+{"data": ["2023-04-10T13:01:29.500017+00:00", 10300, "Your mother is", "self-collected", "Pronunciation: /s\u025blf-k\u0259\u02c8l\u025bkt\u026ad/", "Definition: in full control of your faculties", "Synonyms: collected, equanimous, poised, self-contained, self-possessed"]}
