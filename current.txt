@@ -1,1 +1,1 @@
-{"data": ["2023-04-09T23:02:15.684997+00:00", 10286, "Your mother is", "old-fashioned", "Pronunciation: /\u02c8o\u028ald\u02c8f\u00e6\u0283\u0259nd/", "Definition: out of fashion", "Synonyms: antique, demode, ex, old-hat, outmoded, passe, passee"]}
+{"data": ["2023-04-10T00:04:05.452205+00:00", 10287, "Your mother is", "fallen", "Pronunciation: /\u02c8f\u0254l\u0259n/", "Definition: having dropped by the force of gravity", ""]}
