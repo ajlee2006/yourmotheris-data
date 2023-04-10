@@ -1,1 +1,1 @@
-{"data": ["2023-04-10T08:02:30.046501+00:00", 10295, "Your mother is", "tasselled", "Similar to: adorned", "Definition: fringed or adorned with tassels", "Synonyms: tasseled"]}
+{"data": ["2023-04-10T09:01:29.831873+00:00", 10296, "Your mother is", "instinct", "Pronunciation: /\u026an\u02c8st\u026a\u014bkt/", "Definition: (followed by `with') deeply filled or permeated", "Synonyms: replete"]}
