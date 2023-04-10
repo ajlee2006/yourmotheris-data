@@ -1,1 +1,1 @@
-{"data": ["2023-04-10T19:01:54.687533+00:00", 10306, "Your mother is", "inappreciable", "Pronunciation: /\u02cc\u026an\u0259\u02c8pri\u0283i\u0259b\u0259l/", "Definition: too small to make a significant difference", ""]}
+{"data": ["2023-04-10T20:01:58.309637+00:00", 10307, "Your mother is", "apodeictic", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8da\u026akt\u026ak/", "Definition: of a proposition; necessarily true or logically certain", "Synonyms: apodictic"]}
