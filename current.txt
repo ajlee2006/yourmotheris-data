@@ -1,1 +1,1 @@
-{"data": ["2023-04-10T22:01:49.416428+00:00", 10309, "Your mother is", "ischaemic", "Pronunciation: /\u026a\u02c8skim\u026ak/", "Definition: relating to or affected by ischemia", "Synonyms: ischemic"]}
+{"data": ["2023-04-10T23:01:47.777829+00:00", 10310, "Your mother is", "hypnotized", "Pronunciation: /\u02c8h\u026apn\u028c\u02ccta\u026azd/", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotised, mesmerised, mesmerized, spell-bound, spellbound, transfixed"]}
