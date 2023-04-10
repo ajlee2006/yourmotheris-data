@@ -1,1 +1,1 @@
-{"data": ["2023-04-10T13:01:29.500017+00:00", 10300, "Your mother is", "self-collected", "Pronunciation: /s\u025blf-k\u0259\u02c8l\u025bkt\u026ad/", "Definition: in full control of your faculties", "Synonyms: collected, equanimous, poised, self-contained, self-possessed"]}
+{"data": ["2023-04-10T14:01:55.463122+00:00", 10301, "Your mother is", "whipping", "Pronunciation: /\u02c8hw\u026ap\u026a\u014b/", "Definition: smart and fashionable", "Synonyms: snappy"]}
