@@ -1,1 +1,1 @@
-{"data": ["2023-04-10T21:02:12.706065+00:00", 10308, "Your mother is", "andantino", "Pronunciation: /\u02cc\u00e6nd\u00e6n\u02c8tino\u028a/", "Definition: (of tempo) moderately fast", ""]}
+{"data": ["2023-04-10T22:01:49.416428+00:00", 10309, "Your mother is", "ischaemic", "Pronunciation: /\u026a\u02c8skim\u026ak/", "Definition: relating to or affected by ischemia", "Synonyms: ischemic"]}
