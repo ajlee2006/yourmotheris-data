@@ -1,1 +1,1 @@
-{"data": ["2023-04-10T01:03:09.531170+00:00", 10288, "Your mother is", "geographic", "Pronunciation: /\u02ccd\u0292i\u028c\u02c8\u0261r\u00e6f\u026ak/", "Definition: determined by geography", "Synonyms: geographical"]}
+{"data": ["2023-04-10T02:02:15.589712+00:00", 10289, "Your mother is", "deceitful", "Pronunciation: /d\u026a\u02c8sitf\u0259l/", "Definition: intended to deceive", "Synonyms: fallacious, fraudulent"]}
