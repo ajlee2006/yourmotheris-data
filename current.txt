@@ -1,1 +1,1 @@
-{"data": ["2023-04-11T15:02:23.802923+00:00", 10326, "Your mother is", "flexuous", "Pronunciation: /\u02c8fl\u025bk\u0283u\u0259s/", "Definition: having turns or windings", ""]}
+{"data": ["2023-04-11T16:01:36.651802+00:00", 10327, "Your mother is", "wash-and-wear", "Similar to: washable", "Definition: treated so as to be easily or quickly washed and dried and requiring little or no ironing", "Synonyms: drip-dry"]}
