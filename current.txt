@@ -1,1 +1,1 @@
-{"data": ["2023-04-11T01:03:56.443082+00:00", 10312, "Your mother is", "hypnotized", "Pronunciation: /\u02c8h\u026apn\u028c\u02ccta\u026azd/", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotised, mesmerised, mesmerized, spell-bound, spellbound, transfixed"]}
+{"data": ["2023-04-11T02:02:09.350761+00:00", 10313, "Your mother is", "encompassing", "Pronunciation: /\u025bn\u02c8k\u028cmp\u028cs\u026a\u014b/", "Definition: closely encircling", "Synonyms: circumferent, surrounding"]}
