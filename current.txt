@@ -1,1 +1,1 @@
-{"data": ["2023-04-11T21:01:51.728474+00:00", 10332, "Your mother is", "forty-second", "Pronunciation: /\u02c8f\u0254rti-\u02c8s\u025bk\u0259nd/", "Definition: the ordinal number of forty-two in counting order", "Synonyms: 42nd"]}
+{"data": ["2023-04-11T22:01:54.985415+00:00", 10333, "Your mother is", "worthwhile", "Pronunciation: /\u02c8w\u025cr\u03b8\u02c8hwa\u026al/", "Definition: sufficiently valuable to justify the investment of time or interest", ""]}
