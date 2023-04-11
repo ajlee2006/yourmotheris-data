@@ -1,1 +1,1 @@
-{"data": ["2023-04-11T06:01:57.390007+00:00", 10317, "Your mother is", "low-priced", "Similar to: cheap", "Definition: that you have the financial means for", "Synonyms: affordable, low-cost"]}
+{"data": ["2023-04-11T07:01:58.748450+00:00", 10318, "Your mother is", "characterless", "Similar to: ordinary", "Definition: lacking distinct or individual characteristics; dull and uninteresting", "Synonyms: nondescript"]}
