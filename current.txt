@@ -1,1 +1,1 @@
-{"data": ["2023-04-11T20:02:10.100765+00:00", 10331, "Your mother is", "tiptop", "Pronunciation: /\u02c8t\u026ap\u02cct\u0251p/", "Definition: of the highest quality", "Synonyms: a-one, ace, crack, first-rate, super, top-notch, topnotch, tops"]}
+{"data": ["2023-04-11T21:01:51.728474+00:00", 10332, "Your mother is", "forty-second", "Pronunciation: /\u02c8f\u0254rti-\u02c8s\u025bk\u0259nd/", "Definition: the ordinal number of forty-two in counting order", "Synonyms: 42nd"]}
