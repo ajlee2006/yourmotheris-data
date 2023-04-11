@@ -1,1 +1,1 @@
-{"data": ["2023-04-11T13:01:56.350747+00:00", 10324, "Your mother is", "above-mentioned", "Similar to: preceding", "Definition: mentioned or named earlier in the same text", "Synonyms: above-named"]}
+{"data": ["2023-04-11T14:02:15.438663+00:00", 10325, "Your mother is", "svelte", "Pronunciation: /sv\u025blt/", "Definition: being of delicate or slender build", "Synonyms: slender, slight, slim"]}
