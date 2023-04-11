@@ -1,1 +1,1 @@
-{"data": ["2023-04-11T16:01:36.651802+00:00", 10327, "Your mother is", "wash-and-wear", "Similar to: washable", "Definition: treated so as to be easily or quickly washed and dried and requiring little or no ironing", "Synonyms: drip-dry"]}
+{"data": ["2023-04-11T17:02:08.542080+00:00", 10328, "Your mother is", "gram-negative", "Pronunciation: /gr\u00e6m-\u02c8n\u025b\u0261\u0259t\u026av/", "Definition: (of bacteria) being of or relating to a bacterium that does not retain the violet stain used in Gram's method", ""]}
