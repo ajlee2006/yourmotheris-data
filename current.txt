@@ -1,1 +1,1 @@
-{"data": ["2023-04-11T17:02:08.542080+00:00", 10328, "Your mother is", "gram-negative", "Pronunciation: /gr\u00e6m-\u02c8n\u025b\u0261\u0259t\u026av/", "Definition: (of bacteria) being of or relating to a bacterium that does not retain the violet stain used in Gram's method", ""]}
+{"data": ["2023-04-11T18:01:31.639639+00:00", 10329, "Your mother is", "eventual", "Pronunciation: /\u026a\u02c8v\u025bn\u02a7u\u0259l/", "Definition: expected to follow in the indefinite future from causes already operating", ""]}
