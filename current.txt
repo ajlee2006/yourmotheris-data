@@ -1,1 +1,1 @@
-{"data": ["2023-04-11T03:01:29.145113+00:00", 10314, "Your mother is", "ninety-five", "Pronunciation: /\u02c8na\u026anti-fa\u026av/", "Definition: being five more than ninety", "Synonyms: 95, xcv"]}
+{"data": ["2023-04-11T04:01:36.267903+00:00", 10315, "Your mother is", "batholitic", "Pronunciation: /\u02ccb\u00e6\u03b8\u0259\u02c8l\u026at\u026ak/", "Definition: of or relating to a batholith", "Synonyms: batholithic"]}
