@@ -1,1 +1,1 @@
-{"data": ["2023-04-11T07:01:58.748450+00:00", 10318, "Your mother is", "characterless", "Similar to: ordinary", "Definition: lacking distinct or individual characteristics; dull and uninteresting", "Synonyms: nondescript"]}
+{"data": ["2023-04-11T08:02:30.732903+00:00", 10319, "Your mother is", "intersecting", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8s\u025bkt\u026a\u014b/", "Definition: crossed or intersected in the form of an X", "Synonyms: decussate, intersectant"]}
