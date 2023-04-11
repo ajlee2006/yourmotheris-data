@@ -1,1 +1,1 @@
-{"data": ["2023-04-11T08:02:30.732903+00:00", 10319, "Your mother is", "intersecting", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8s\u025bkt\u026a\u014b/", "Definition: crossed or intersected in the form of an X", "Synonyms: decussate, intersectant"]}
+{"data": ["2023-04-11T09:02:04.433795+00:00", 10320, "Your mother is", "deep-water", "Pronunciation: /dip-\u02c8w\u0254t\u0259r/", "Definition: of or carried on in waters of great depth", ""]}
