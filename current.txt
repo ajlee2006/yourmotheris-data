@@ -1,1 +1,1 @@
-{"data": ["2023-04-11T10:02:12.254705+00:00", 10321, "Your mother is", "uncommercialized", "Similar to: noncommercial", "Definition: not having been commercialized", "Synonyms: uncommercialised"]}
+{"data": ["2023-04-11T11:01:52.297667+00:00", 10322, "Your mother is", "vegetational", "", "Definition: composed of vegetation or plants", "Synonyms: vegetal, vegetative"]}
