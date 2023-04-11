@@ -1,1 +1,1 @@
-{"data": ["2023-04-11T00:04:11.574834+00:00", 10311, "Your mother is", "stone-grey", "Similar to: achromatic", "Definition: of the color of slate or granite", "Synonyms: slate-gray, slate-grey, slatey, slaty, slaty-gray, slaty-grey, stone-gray"]}
+{"data": ["2023-04-11T01:03:56.443082+00:00", 10312, "Your mother is", "hypnotized", "Pronunciation: /\u02c8h\u026apn\u028c\u02ccta\u026azd/", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotised, mesmerised, mesmerized, spell-bound, spellbound, transfixed"]}
