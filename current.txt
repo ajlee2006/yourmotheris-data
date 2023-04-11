@@ -1,1 +1,1 @@
-{"data": ["2023-04-11T18:01:31.639639+00:00", 10329, "Your mother is", "eventual", "Pronunciation: /\u026a\u02c8v\u025bn\u02a7u\u0259l/", "Definition: expected to follow in the indefinite future from causes already operating", ""]}
+{"data": ["2023-04-11T19:02:06.549774+00:00", 10330, "Your mother is", "indiscriminating", "Pronunciation: /\u02cc\u026and\u026a\u02c8skr\u026am\u0259\u02ccne\u026at\u026a\u014b/", "Definition: not discriminating", "Synonyms: undiscriminating"]}
