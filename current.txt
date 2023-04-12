@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T22:02:04.434140+00:00", 10357, "Your mother is", "87", "Similar to: cardinal", "Definition: being seven more than eighty", "Synonyms: eighty-seven, lxxxvii"]}
+{"data": ["2023-04-12T23:01:26.566999+00:00", 10358, "Your mother is", "intransitive", "Pronunciation: /\u026an\u02c8tr\u00e6ns\u026at\u026av/", "Definition: designating a verb that does not require or cannot take a direct object", ""]}
