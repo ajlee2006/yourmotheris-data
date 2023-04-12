@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T09:01:58.789904+00:00", 10344, "Your mother is", "tolerant", "Pronunciation: /\u02c8t\u0251l\u0259r\u0259nt/", "Definition: showing or characterized by broad-mindedness", "Synonyms: broad, large-minded, liberal"]}
+{"data": ["2023-04-12T10:01:52.841615+00:00", 10345, "Your mother is", "seamless", "Pronunciation: /\u02c8siml\u028cs/", "Definition: smooth, especially of skin", "Synonyms: unlined, unseamed"]}
