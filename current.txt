@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T21:01:35.852620+00:00", 10356, "Your mother is", "pianissimo", "Pronunciation: /\u02ccpi\u0259\u02c8n\u026as\u026a\u02ccmo\u028a/", "Definition: (chiefly a direction or description in music) very soft", ""]}
+{"data": ["2023-04-12T22:02:04.434140+00:00", 10357, "Your mother is", "87", "Similar to: cardinal", "Definition: being seven more than eighty", "Synonyms: eighty-seven, lxxxvii"]}
