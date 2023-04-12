@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T12:01:58.643730+00:00", 10347, "Your mother is", "commercial-grade", "Similar to: inferior", "Definition: of the kind or quality used in commerce; average or inferior", "Synonyms: commercial"]}
+{"data": ["2023-04-12T13:02:14.144523+00:00", 10348, "Your mother is", "twenty-third", "Pronunciation: /\u02c8tw\u025bnti-\u02c8\u03b8\u025crd/", "Definition: coming next after the twenty-second in position", "Synonyms: 23rd"]}
