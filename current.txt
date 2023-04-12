@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T08:03:10.604979+00:00", 10343, "Your mother is", "masked", "Pronunciation: /m\u00e6skt/", "Definition: having its true character concealed with the intent of misleading", "Synonyms: cloaked, disguised"]}
+{"data": ["2023-04-12T09:01:58.789904+00:00", 10344, "Your mother is", "tolerant", "Pronunciation: /\u02c8t\u0251l\u0259r\u0259nt/", "Definition: showing or characterized by broad-mindedness", "Synonyms: broad, large-minded, liberal"]}
