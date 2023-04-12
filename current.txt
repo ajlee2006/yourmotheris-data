@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T13:02:14.144523+00:00", 10348, "Your mother is", "twenty-third", "Pronunciation: /\u02c8tw\u025bnti-\u02c8\u03b8\u025crd/", "Definition: coming next after the twenty-second in position", "Synonyms: 23rd"]}
+{"data": ["2023-04-12T14:01:53.883744+00:00", 10349, "Your mother is", "inexpungeable", "Similar to: ineradicable", "Definition: not capable of being expunged", "Synonyms: inexpungible"]}
