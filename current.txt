@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T16:02:07.893685+00:00", 10351, "Your mother is", "baccivorous", "Pronunciation: /b\u00e6k\u02c8s\u026av\u0259r\u0259s/", "Definition: feeding on berries", ""]}
+{"data": ["2023-04-12T17:02:16.861343+00:00", 10352, "Your mother is", "cooperative", "Pronunciation: /ko\u028a\u02c8\u0251p\u0259\u02ccre\u026at\u026av/", "Definition: involving the joint activity of two or more", "Synonyms: concerted, conjunct, conjunctive"]}
