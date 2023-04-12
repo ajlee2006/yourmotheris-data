@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T17:02:16.861343+00:00", 10352, "Your mother is", "cooperative", "Pronunciation: /ko\u028a\u02c8\u0251p\u0259\u02ccre\u026at\u026av/", "Definition: involving the joint activity of two or more", "Synonyms: concerted, conjunct, conjunctive"]}
+{"data": ["2023-04-12T18:01:46.514934+00:00", 10353, "Your mother is", "microscopic", "Pronunciation: /\u02ccma\u026akr\u0259\u02c8sk\u0251p\u026ak/", "Definition: of or relating to or used in microscopy", "Synonyms: microscopical"]}
