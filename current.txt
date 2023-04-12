@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T15:02:05.221702+00:00", 10350, "Your mother is", "bullying", "Pronunciation: /\u02c8b\u028ali\u026a\u014b/", "Definition: noisily domineering; tending to browbeat others", "Synonyms: blustery"]}
+{"data": ["2023-04-12T16:02:07.893685+00:00", 10351, "Your mother is", "baccivorous", "Pronunciation: /b\u00e6k\u02c8s\u026av\u0259r\u0259s/", "Definition: feeding on berries", ""]}
