@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T05:01:41.070000+00:00", 10340, "Your mother is", "tube-shaped", "Pronunciation: /tub-\u0283e\u026apt/", "Definition: constituting a tube; having hollow tubes (as for the passage of fluids)", "Synonyms: cannular, tubelike, tubular, vasiform"]}
+{"data": ["2023-04-12T06:03:19.732894+00:00", 10341, "Your mother is", "emended", "Similar to: altered", "Definition: improved or corrected by critical editing", "Synonyms: edited"]}
