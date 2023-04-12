@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T11:02:10.639237+00:00", 10346, "Your mother is", "despiteful", "Pronunciation: /d\u026a\u02c8spa\u026atf\u0259l/", "Definition: showing malicious ill will and a desire to hurt; motivated by spite", "Synonyms: spiteful, vindictive"]}
+{"data": ["2023-04-12T12:01:58.643730+00:00", 10347, "Your mother is", "commercial-grade", "Similar to: inferior", "Definition: of the kind or quality used in commerce; average or inferior", "Synonyms: commercial"]}
