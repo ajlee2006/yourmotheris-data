@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T02:02:11.552787+00:00", 10337, "Your mother is", "agonised", "Similar to: painful", "Definition: expressing pain or agony", "Synonyms: agonized"]}
+{"data": ["2023-04-12T03:01:37.375831+00:00", 10338, "Your mother is", "uninspired", "Pronunciation: /\u02cc\u0259n\u026an\u02c8spa\u026a\u0259rd/", "Definition: deficient in originality or creativity; lacking powers of invention", "Synonyms: sterile, unimaginative, uninventive"]}
