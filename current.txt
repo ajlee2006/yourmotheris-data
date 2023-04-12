@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T07:01:49.956084+00:00", 10342, "Your mother is", "finical", "Pronunciation: /\u02c8f\u026an\u026ak\u0259l/", "Definition: exacting especially about details", "Synonyms: finicky, fussy, particular, picky"]}
+{"data": ["2023-04-12T08:03:10.604979+00:00", 10343, "Your mother is", "masked", "Pronunciation: /m\u00e6skt/", "Definition: having its true character concealed with the intent of misleading", "Synonyms: cloaked, disguised"]}
