@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T03:01:37.375831+00:00", 10338, "Your mother is", "uninspired", "Pronunciation: /\u02cc\u0259n\u026an\u02c8spa\u026a\u0259rd/", "Definition: deficient in originality or creativity; lacking powers of invention", "Synonyms: sterile, unimaginative, uninventive"]}
+{"data": ["2023-04-12T04:02:14.642197+00:00", 10339, "Your mother is", "sudorific", "Pronunciation: /\u02ccsud\u0259\u02c8r\u026af\u026ak/", "Definition: inducing perspiration", "Synonyms: diaphoretic"]}
