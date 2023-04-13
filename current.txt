@@ -1,1 +1,1 @@
-{"data": ["2023-04-13T22:01:50.171556+00:00", 10381, "Your mother is", "widespread", "Pronunciation: /\u02c8wa\u026ad\u02c8spr\u025bd/", "Definition: distributed over a considerable extent", "Synonyms: far-flung"]}
+{"data": ["2023-04-13T23:01:42.234706+00:00", 10382, "Your mother is", "pasty", "Pronunciation: /\u02c8pe\u026asti/", "Definition: resembling paste in color; pallid", "Synonyms: pastelike"]}
