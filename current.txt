@@ -1,1 +1,1 @@
-{"data": ["2023-04-13T03:01:40.096270+00:00", 10362, "Your mother is", "ruthful", "Pronunciation: /\u02c8ru\u03b8f\u0259l/", "Definition: feeling or expressing pain or sorrow for sins or offenses", "Synonyms: contrite, remorseful, rueful"]}
+{"data": ["2023-04-13T04:01:20.953586+00:00", 10363, "Your mother is", "apolitical", "Pronunciation: /\u02cce\u026ap\u0259\u02c8l\u026at\u026ak\u0259l/", "Definition: politically neutral", "Synonyms: unpolitical"]}
