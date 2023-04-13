@@ -1,1 +1,1 @@
-{"data": ["2023-04-13T06:03:13.943513+00:00", 10365, "Your mother is", "left-wing", "Pronunciation: /l\u025bft-w\u026a\u014b/", "Definition: believing in or supporting tenets of the political left", "Synonyms: left-of-center, leftist"]}
+{"data": ["2023-04-13T07:02:11.326214+00:00", 10366, "Your mother is", "uncaused", "Pronunciation: /\u0259n\u02c8k\u0254zd/", "Definition: having no cause or apparent cause", "Synonyms: causeless, fortuitous"]}
