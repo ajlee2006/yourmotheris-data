@@ -1,1 +1,1 @@
-{"data": ["2023-04-13T12:01:58.243026+00:00", 10371, "Your mother is", "secular", "Pronunciation: /\u02c8s\u025bkj\u0259l\u0259r/", "Definition: characteristic of or devoted to the temporal world as opposed to the spiritual world", "Synonyms: temporal, worldly"]}
+{"data": ["2023-04-13T13:02:16.011065+00:00", 10372, "Your mother is", "premedical", "Pronunciation: /pri\u02c8m\u025bd\u026ak\u0259l/", "Definition: preceding and preparing for the study of medicine", ""]}
