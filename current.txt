@@ -1,1 +1,1 @@
-{"data": ["2023-04-13T04:01:20.953586+00:00", 10363, "Your mother is", "apolitical", "Pronunciation: /\u02cce\u026ap\u0259\u02c8l\u026at\u026ak\u0259l/", "Definition: politically neutral", "Synonyms: unpolitical"]}
+{"data": ["2023-04-13T05:01:57.134765+00:00", 10364, "Your mother is", "ordained", "Pronunciation: /\u0254r\u02c8de\u026and/", "Definition: fixed or established especially by order or command", "Synonyms: appointed, decreed, prescribed"]}
