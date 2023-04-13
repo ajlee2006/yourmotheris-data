@@ -1,1 +1,1 @@
-{"data": ["2023-04-13T19:01:40.539642+00:00", 10378, "Your mother is", "undeserving", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8z\u025crvi\u014b/", "Definition: not deserving", "Synonyms: unworthy"]}
+{"data": ["2023-04-13T20:01:27.197171+00:00", 10379, "Your mother is", "ireful", "Pronunciation: /\u02c8a\u026a\u0259rf\u0259l/", "Definition: feeling or showing extreme anger", "Synonyms: irate"]}
