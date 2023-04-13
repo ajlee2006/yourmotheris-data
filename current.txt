@@ -1,1 +1,1 @@
-{"data": ["2023-04-13T08:03:00.602016+00:00", 10367, "Your mother is", "garnet-colored", "Pronunciation: /\u02c8\u0261\u0251rn\u026at-\u02c8k\u0259l\u0259rd/", "Definition: having the color of garnet", "Synonyms: garnet-coloured"]}
+{"data": ["2023-04-13T09:01:24.022531+00:00", 10368, "Your mother is", "mutually exclusive", "Similar to: incompatible", "Definition: unable for both to exist or be true at the same time", "Synonyms: contradictory"]}
