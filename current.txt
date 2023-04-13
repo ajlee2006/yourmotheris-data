@@ -1,1 +1,1 @@
-{"data": ["2023-04-13T07:02:11.326214+00:00", 10366, "Your mother is", "uncaused", "Pronunciation: /\u0259n\u02c8k\u0254zd/", "Definition: having no cause or apparent cause", "Synonyms: causeless, fortuitous"]}
+{"data": ["2023-04-13T08:03:00.602016+00:00", 10367, "Your mother is", "garnet-colored", "Pronunciation: /\u02c8\u0261\u0251rn\u026at-\u02c8k\u0259l\u0259rd/", "Definition: having the color of garnet", "Synonyms: garnet-coloured"]}
