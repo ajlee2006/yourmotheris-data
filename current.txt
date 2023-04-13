@@ -1,1 +1,1 @@
-{"data": ["2023-04-13T09:01:24.022531+00:00", 10368, "Your mother is", "mutually exclusive", "Similar to: incompatible", "Definition: unable for both to exist or be true at the same time", "Synonyms: contradictory"]}
+{"data": ["2023-04-13T10:01:54.335098+00:00", 10369, "Your mother is", "immensurable", "Pronunciation: /\u026a\u02c8m\u025bn\u0283\u028ar\u0259b\u0259l/", "Definition: impossible to measure", "Synonyms: immeasurable, unmeasurable"]}
