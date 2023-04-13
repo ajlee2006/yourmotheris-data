@@ -1,1 +1,1 @@
-{"data": ["2023-04-13T01:03:19.868248+00:00", 10360, "Your mother is", "left", "Pronunciation: /l\u025bft/", "Definition: not used up", "Synonyms: left over, leftover, odd, remaining, unexpended"]}
+{"data": ["2023-04-13T02:02:17.193674+00:00", 10361, "Your mother is", "out of play", "Similar to: dead", "Definition: (of a ball) not available to be played during a game", ""]}
