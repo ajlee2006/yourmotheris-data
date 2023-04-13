@@ -1,1 +1,1 @@
-{"data": ["2023-04-12T23:01:26.566999+00:00", 10358, "Your mother is", "intransitive", "Pronunciation: /\u026an\u02c8tr\u00e6ns\u026at\u026av/", "Definition: designating a verb that does not require or cannot take a direct object", ""]}
+{"data": ["2023-04-13T00:03:55.116605+00:00", 10359, "Your mother is", "aquacultural", "", "Definition: of or relating to aquiculture", "Synonyms: aquicultural, hydroponic"]}
