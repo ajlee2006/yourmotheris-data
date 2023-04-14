@@ -1,1 +1,1 @@
-{"data": ["2023-04-14T04:02:03.284560+00:00", 10387, "Your mother is", "pan-hellenic", "", "Definition: of or relating to all the Greeks", "Synonyms: panhellenic"]}
+{"data": ["2023-04-14T05:01:48.287530+00:00", 10388, "Your mother is", "0", "Similar to: cardinal", "Definition: indicating the absence of any or all units under consideration", "Synonyms: zero"]}
