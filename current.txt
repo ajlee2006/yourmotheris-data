@@ -1,1 +1,1 @@
-{"data": ["2023-04-14T20:02:16.418090+00:00", 10402, "Your mother is", "pug-nose", "Similar to: nosed", "Definition: having a blunt nose", "Synonyms: pug-nosed, short-nosed, snub-nosed"]}
+{"data": ["2023-04-14T21:02:03.458024+00:00", 10403, "Your mother is", "climatical", "", "Definition: of or relating to a climate", "Synonyms: climatic"]}
