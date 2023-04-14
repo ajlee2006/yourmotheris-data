@@ -1,1 +1,1 @@
-{"data": ["2023-04-14T00:03:39.552614+00:00", 10383, "Your mother is", "perfunctory", "Pronunciation: /p\u0259r\u02c8f\u0259\u014bkt\u0259ri/", "Definition: hasty and without attention to detail; not thorough", "Synonyms: casual, cursory, passing, superficial"]}
+{"data": ["2023-04-14T01:02:25.623742+00:00", 10384, "Your mother is", "irksome", "Pronunciation: /\u02c8\u025crks\u0259m/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: boring, deadening, dull, ho-hum, slow, tedious, tiresome, wearisome"]}
