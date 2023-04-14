@@ -1,1 +1,1 @@
-{"data": ["2023-04-14T12:01:45.053352+00:00", 10394, "Your mother is", "soured", "Pronunciation: /\u02c8sa\u028a\u025drd/", "Definition: having turned bad", ""]}
+{"data": ["2023-04-14T13:01:44.090400+00:00", 10395, "Your mother is", "off-key", "Pronunciation: /\u0254f-ki/", "Definition: inaccurate in pitch", "Synonyms: false, sour"]}
