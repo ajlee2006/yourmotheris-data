@@ -1,1 +1,1 @@
-{"data": ["2023-04-14T15:01:33.397091+00:00", 10397, "Your mother is", "well-fixed", "Pronunciation: /\u02c8w\u025bl-\u02c8f\u026akst/", "Definition: in fortunate circumstances financially; moderately rich", "Synonyms: comfortable, easy, prosperous, well-heeled, well-off, well-situated, well-to-do"]}
+{"data": ["2023-04-14T16:01:30.853404+00:00", 10398, "Your mother is", "circulating", "Pronunciation: /\u02c8s\u025drkj\u028c\u02ccle\u026at\u026a\u014b/", "Definition: passing from one to another", ""]}
