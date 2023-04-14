@@ -1,1 +1,1 @@
-{"data": ["2023-04-14T17:01:45.023628+00:00", 10399, "Your mother is", "mere", "Pronunciation: /mir/", "Definition: apart from anything else; without additions or modifications", "Synonyms: bare, simple"]}
+{"data": ["2023-04-14T18:01:17.411136+00:00", 10400, "Your mother is", "practicable", "Pronunciation: /\u02c8pr\u00e6kt\u0259k\u0259b\u0259l/", "Definition: usable for a specific purpose", "Synonyms: operable"]}
