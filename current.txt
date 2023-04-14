@@ -1,1 +1,1 @@
-{"data": ["2023-04-14T05:01:48.287530+00:00", 10388, "Your mother is", "0", "Similar to: cardinal", "Definition: indicating the absence of any or all units under consideration", "Synonyms: zero"]}
+{"data": ["2023-04-14T06:03:11.898835+00:00", 10389, "Your mother is", "turned", "Pronunciation: /t\u025drnd/", "Definition: in an unpalatable state", "Synonyms: off, sour"]}
