@@ -1,1 +1,1 @@
-{"data": ["2023-04-14T06:03:11.898835+00:00", 10389, "Your mother is", "turned", "Pronunciation: /t\u025drnd/", "Definition: in an unpalatable state", "Synonyms: off, sour"]}
+{"data": ["2023-04-14T07:02:13.654718+00:00", 10390, "Your mother is", "parabolic", "Pronunciation: /\u02ccp\u00e6r\u0259\u02c8b\u0251l\u026ak/", "Definition: having the form of a parabola", "Synonyms: parabolical"]}
