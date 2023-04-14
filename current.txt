@@ -1,1 +1,1 @@
-{"data": ["2023-04-14T19:01:53.389061+00:00", 10401, "Your mother is", "brachiate", "Pronunciation: /\u02c8bre\u026aki\u026at/", "Definition: having arms or armlike appendages", ""]}
+{"data": ["2023-04-14T20:02:16.418090+00:00", 10402, "Your mother is", "pug-nose", "Similar to: nosed", "Definition: having a blunt nose", "Synonyms: pug-nosed, short-nosed, snub-nosed"]}
