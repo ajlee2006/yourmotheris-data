@@ -1,1 +1,1 @@
-{"data": ["2023-04-15T10:01:29.655155+00:00", 10416, "Your mother is", "domineering", "Pronunciation: /\u02ccd\u0251m\u0259\u02c8nir\u026a\u014b/", "Definition: tending to domineer", ""]}
+{"data": ["2023-04-15T11:01:49.355721+00:00", 10417, "Your mother is", "devoid", "Pronunciation: /d\u026a\u02c8v\u0254\u026ad/", "Definition: completely wanting or lacking", "Synonyms: barren, destitute, free, innocent"]}
