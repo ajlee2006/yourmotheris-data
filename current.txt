@@ -1,1 +1,1 @@
-{"data": ["2023-04-14T23:02:13.508684+00:00", 10405, "Your mother is", "unmanly", "Pronunciation: /\u0259n\u02c8m\u00e6nli/", "Definition: not possessing qualities befitting a man", "Synonyms: unmanful, unmanlike"]}
+{"data": ["2023-04-15T00:03:31.477060+00:00", 10406, "Your mother is", "thinkable", "Pronunciation: /\u02c8\u03b8\u026a\u014bk\u0259b\u0259l/", "Definition: capable of being conceived or imagined or considered", ""]}
