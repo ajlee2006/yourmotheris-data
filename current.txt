@@ -1,1 +1,1 @@
-{"data": ["2023-04-15T14:02:03.307449+00:00", 10420, "Your mother is", "rounded", "Pronunciation: /\u02c8ra\u028and\u026ad/", "Definition: curving and somewhat round in shape rather than jagged", ""]}
+{"data": ["2023-04-15T15:02:05.735032+00:00", 10421, "Your mother is", "unilluminated", "Pronunciation: /\u02cc\u0259n\u026a\u02c8lum\u026a\u02ccne\u026at\u026ad/", "Definition: without illumination", "Synonyms: lightless, unlighted, unlit"]}
