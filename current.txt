@@ -1,1 +1,1 @@
-{"data": ["2023-04-15T21:02:07.554731+00:00", 10427, "Your mother is", "leaved", "Pronunciation: /livd/", "Definition: having leaves or leaves as specified; often used in combination", "Synonyms: leafed"]}
+{"data": ["2023-04-15T22:01:29.050631+00:00", 10428, "Your mother is", "aquaphobic", "Similar to: afraid", "Definition: abnormally afraid of water", "Synonyms: hydrophobic"]}
