@@ -1,1 +1,1 @@
-{"data": ["2023-04-15T04:02:01.263377+00:00", 10410, "Your mother is", "unindustrialized", "Similar to: nonindustrial", "Definition: not converted to industrialism", "Synonyms: unindustrialised"]}
+{"data": ["2023-04-15T05:02:07.300358+00:00", 10411, "Your mother is", "old-time", "Pronunciation: /o\u028ald-ta\u026am/", "Definition: attractively old-fashioned (but not necessarily authentic)", "Synonyms: olde worlde, quaint"]}
