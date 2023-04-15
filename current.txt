@@ -1,1 +1,1 @@
-{"data": ["2023-04-15T13:02:21.443410+00:00", 10419, "Your mother is", "caudal", "Pronunciation: /\u02c8k\u0254d\u0259l/", "Definition: resembling a tail", "Synonyms: taillike"]}
+{"data": ["2023-04-15T14:02:03.307449+00:00", 10420, "Your mother is", "rounded", "Pronunciation: /\u02c8ra\u028and\u026ad/", "Definition: curving and somewhat round in shape rather than jagged", ""]}
