@@ -1,1 +1,1 @@
-{"data": ["2023-04-15T09:01:56.394383+00:00", 10415, "Your mother is", "bimetal", "Similar to: metal", "Definition: formed of two different metals or alloys; especially in sheets bonded together", "Synonyms: bimetallic"]}
+{"data": ["2023-04-15T10:01:29.655155+00:00", 10416, "Your mother is", "domineering", "Pronunciation: /\u02ccd\u0251m\u0259\u02c8nir\u026a\u014b/", "Definition: tending to domineer", ""]}
