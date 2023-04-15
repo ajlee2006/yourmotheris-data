@@ -1,1 +1,1 @@
-{"data": ["2023-04-15T17:01:44.129261+00:00", 10423, "Your mother is", "ignited", "Pronunciation: /\u026a\u0261\u02c8na\u026at\u026ad/", "Definition: set afire", "Synonyms: enkindled, kindled"]}
+{"data": ["2023-04-15T18:01:56.002195+00:00", 10424, "Your mother is", "maddening", "Pronunciation: /\u02c8m\u00e6d\u028cn\u026a\u014b/", "Definition: extremely annoying or displeasing", "Synonyms: exasperating, infuriating, vexing"]}
