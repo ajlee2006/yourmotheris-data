@@ -1,1 +1,1 @@
-{"data": ["2023-04-15T15:02:05.735032+00:00", 10421, "Your mother is", "unilluminated", "Pronunciation: /\u02cc\u0259n\u026a\u02c8lum\u026a\u02ccne\u026at\u026ad/", "Definition: without illumination", "Synonyms: lightless, unlighted, unlit"]}
+{"data": ["2023-04-15T16:02:26.804540+00:00", 10422, "Your mother is", "naked-muzzled", "Similar to: hairless", "Definition: having a muzzle that is hairless", ""]}
