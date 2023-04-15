@@ -1,1 +1,1 @@
-{"data": ["2023-04-15T07:01:41.577649+00:00", 10413, "Your mother is", "analphabetic", "Pronunciation: /\u02cc\u00e6n\u00e6lf\u0259\u02c8b\u025bt\u026ak/", "Definition: having little acquaintance with writing", "Synonyms: unlettered"]}
+{"data": ["2023-04-15T08:01:33.981218+00:00", 10414, "Your mother is", "discreet", "Pronunciation: /d\u026a\u02c8skrit/", "Definition: heedful of potential consequences", "Synonyms: circumspect"]}
