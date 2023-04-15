@@ -1,1 +1,1 @@
-{"data": ["2023-04-15T18:01:56.002195+00:00", 10424, "Your mother is", "maddening", "Pronunciation: /\u02c8m\u00e6d\u028cn\u026a\u014b/", "Definition: extremely annoying or displeasing", "Synonyms: exasperating, infuriating, vexing"]}
+{"data": ["2023-04-15T19:01:30.424871+00:00", 10425, "Your mother is", "megalomanic", "Similar to: neurotic", "Definition: suffering from megalomania", "Synonyms: megalomaniacal"]}
