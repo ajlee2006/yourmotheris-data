@@ -1,1 +1,1 @@
-{"data": ["2023-04-15T12:02:27.395446+00:00", 10418, "Your mother is", "shipshape", "Pronunciation: /\u02c8\u0283\u026ap\u02cc\u0283e\u026ap/", "Definition: of places; characterized by order and neatness; free from disorder", "Synonyms: trim, well-kept"]}
+{"data": ["2023-04-15T13:02:21.443410+00:00", 10419, "Your mother is", "caudal", "Pronunciation: /\u02c8k\u0254d\u0259l/", "Definition: resembling a tail", "Synonyms: taillike"]}
