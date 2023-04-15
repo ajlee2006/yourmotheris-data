@@ -1,1 +1,1 @@
-{"data": ["2023-04-15T06:02:59.756814+00:00", 10412, "Your mother is", "closed in", "Similar to: enclosed", "Definition: blocked against entry", "Synonyms: closed"]}
+{"data": ["2023-04-15T07:01:41.577649+00:00", 10413, "Your mother is", "analphabetic", "Pronunciation: /\u02cc\u00e6n\u00e6lf\u0259\u02c8b\u025bt\u026ak/", "Definition: having little acquaintance with writing", "Synonyms: unlettered"]}
