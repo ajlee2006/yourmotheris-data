@@ -1,1 +1,1 @@
-{"data": ["2023-04-15T08:01:33.981218+00:00", 10414, "Your mother is", "discreet", "Pronunciation: /d\u026a\u02c8skrit/", "Definition: heedful of potential consequences", "Synonyms: circumspect"]}
+{"data": ["2023-04-15T09:01:56.394383+00:00", 10415, "Your mother is", "bimetal", "Similar to: metal", "Definition: formed of two different metals or alloys; especially in sheets bonded together", "Synonyms: bimetallic"]}
