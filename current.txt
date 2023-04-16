@@ -1,1 +1,1 @@
-{"data": ["2023-04-16T03:01:28.369547+00:00", 10433, "Your mother is", "state-of-the-art", "Similar to: progressive", "Definition: the highest level of development at a particular time (especially the present time)", ""]}
+{"data": ["2023-04-16T04:01:52.024883+00:00", 10434, "Your mother is", "jellylike", "Similar to: thick", "Definition: thick like gelatin", "Synonyms: gelatinlike, gelatinous"]}
