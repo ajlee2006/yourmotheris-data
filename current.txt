@@ -1,1 +1,1 @@
-{"data": ["2023-04-16T13:02:15.225544+00:00", 10443, "Your mother is", "unavailing", "Pronunciation: /\u02cc\u0259n\u0259\u02c8ve\u026ali\u014b/", "Definition: producing no result or effect", "Synonyms: futile, ineffectual, meaningless, otiose"]}
+{"data": ["2023-04-16T14:01:50.457320+00:00", 10444, "Your mother is", "giddy", "Pronunciation: /\u02c8\u0261\u026adi/", "Definition: lacking seriousness; given to frivolity", "Synonyms: airheaded, dizzy, empty-headed, featherbrained, light-headed, lightheaded, silly"]}
