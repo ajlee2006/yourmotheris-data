@@ -1,1 +1,1 @@
-{"data": ["2023-04-16T19:01:38.339446+00:00", 10449, "Your mother is", "ambidextrous", "Pronunciation: /\u02cc\u00e6mb\u026a\u02c8d\u025bkstr\u0259s/", "Definition: equally skillful with each hand", "Synonyms: two-handed"]}
+{"data": ["2023-04-16T20:02:12.317439+00:00", 10450, "Your mother is", "petrous", "Pronunciation: /\u02c8p\u025btr\u0259s/", "Definition: (of bone especially the temporal bone) resembling stone in hardness", "Synonyms: stonelike"]}
