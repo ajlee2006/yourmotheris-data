@@ -1,1 +1,1 @@
-{"data": ["2023-04-16T02:01:24.632445+00:00", 10432, "Your mother is", "forehand", "Pronunciation: /\u02c8fo\u028ar\u02cch\u00e6nd/", "Definition: (of racket strokes) made with palm facing direction of stroke", "Synonyms: forehanded"]}
+{"data": ["2023-04-16T03:01:28.369547+00:00", 10433, "Your mother is", "state-of-the-art", "Similar to: progressive", "Definition: the highest level of development at a particular time (especially the present time)", ""]}
