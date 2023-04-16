@@ -1,1 +1,1 @@
-{"data": ["2023-04-16T05:01:38.973533+00:00", 10435, "Your mother is", "preconditioned", "Similar to: prepared", "Definition: having already been put into a suitable condition", ""]}
+{"data": ["2023-04-16T06:02:37.713830+00:00", 10436, "Your mother is", "titulary", "Pronunciation: /\u02c8t\u026a\u02a7\u0259\u02ccl\u025bri/", "Definition: of or relating to a legal title to something", "Synonyms: titular"]}
