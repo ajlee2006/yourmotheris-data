@@ -1,1 +1,1 @@
-{"data": ["2023-04-16T21:01:43.509069+00:00", 10451, "Your mother is", "fainthearted", "Pronunciation: /\u02c8fe\u026ant\u02c8h\u0251rt\u026ad/", "Definition: lacking conviction or boldness or courage", "Synonyms: faint, faint-hearted, timid"]}
+{"data": ["2023-04-16T22:01:32.856277+00:00", 10452, "Your mother is", "amyloid", "Pronunciation: /\u02c8\u00e6m\u0259\u02ccl\u0254\u026ad/", "Definition: resembling starch", "Synonyms: amylaceous, amyloidal, farinaceous, starchlike"]}
