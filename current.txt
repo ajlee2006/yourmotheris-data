@@ -1,1 +1,1 @@
-{"data": ["2023-04-16T22:01:32.856277+00:00", 10452, "Your mother is", "amyloid", "Pronunciation: /\u02c8\u00e6m\u0259\u02ccl\u0254\u026ad/", "Definition: resembling starch", "Synonyms: amylaceous, amyloidal, farinaceous, starchlike"]}
+{"data": ["2023-04-16T23:01:46.069060+00:00", 10453, "Your mother is", "smallish", "Pronunciation: /\u02c8sm\u0254l\u026a\u0283/", "Definition: rather small", ""]}
