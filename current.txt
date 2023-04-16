@@ -1,1 +1,1 @@
-{"data": ["2023-04-16T14:01:50.457320+00:00", 10444, "Your mother is", "giddy", "Pronunciation: /\u02c8\u0261\u026adi/", "Definition: lacking seriousness; given to frivolity", "Synonyms: airheaded, dizzy, empty-headed, featherbrained, light-headed, lightheaded, silly"]}
+{"data": ["2023-04-16T15:02:13.867989+00:00", 10445, "Your mother is", "exhilarating", "Pronunciation: /\u026a\u0261\u02c8z\u026al\u025dr\u02cce\u026at\u026a\u014b/", "Definition: making lively and joyful", "Synonyms: elating"]}
