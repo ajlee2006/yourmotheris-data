@@ -1,1 +1,1 @@
-{"data": ["2023-04-16T01:01:39.930906+00:00", 10431, "Your mother is", "angered", "Pronunciation: /\u02c8\u00e6\u014b\u0261\u025drd/", "Definition: marked by extreme anger", "Synonyms: enraged, furious, infuriated, maddened"]}
+{"data": ["2023-04-16T02:01:24.632445+00:00", 10432, "Your mother is", "forehand", "Pronunciation: /\u02c8fo\u028ar\u02cch\u00e6nd/", "Definition: (of racket strokes) made with palm facing direction of stroke", "Synonyms: forehanded"]}
