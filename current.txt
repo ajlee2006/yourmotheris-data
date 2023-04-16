@@ -1,1 +1,1 @@
-{"data": ["2023-04-16T18:01:34.924749+00:00", 10448, "Your mother is", "cordiform", "Pronunciation: /\u02c8k\u0254rd\u0259\u02ccf\u0254rm/", "Definition: (of a leaf) shaped like a heart", "Synonyms: cordate, heart-shaped"]}
+{"data": ["2023-04-16T19:01:38.339446+00:00", 10449, "Your mother is", "ambidextrous", "Pronunciation: /\u02cc\u00e6mb\u026a\u02c8d\u025bkstr\u0259s/", "Definition: equally skillful with each hand", "Synonyms: two-handed"]}
