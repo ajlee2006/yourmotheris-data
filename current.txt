@@ -1,1 +1,1 @@
-{"data": ["2023-04-16T17:02:03.992799+00:00", 10447, "Your mother is", "five-petaled", "Similar to: petalous", "Definition: (of flowers) having five petals", "Synonyms: five-petalled"]}
+{"data": ["2023-04-16T18:01:34.924749+00:00", 10448, "Your mother is", "cordiform", "Pronunciation: /\u02c8k\u0254rd\u0259\u02ccf\u0254rm/", "Definition: (of a leaf) shaped like a heart", "Synonyms: cordate, heart-shaped"]}
