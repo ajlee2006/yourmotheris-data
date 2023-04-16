@@ -1,1 +1,1 @@
-{"data": ["2023-04-16T09:01:21.464508+00:00", 10439, "Your mother is", "rehabilitative", "Pronunciation: /\u02ccrih\u028c\u02c8b\u026al\u028c\u02ccte\u026at\u026av/", "Definition: helping to restore to good condition", "Synonyms: reconstructive"]}
+{"data": ["2023-04-16T10:01:42.444477+00:00", 10440, "Your mother is", "cyclonic", "Pronunciation: /sa\u026a\u02c8kl\u0251n\u026ak/", "Definition: of or relating to or characteristic of the atmosphere around a low pressure center", "Synonyms: cyclonal, cyclonical"]}
