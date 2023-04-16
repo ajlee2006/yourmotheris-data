@@ -1,1 +1,1 @@
-{"data": ["2023-04-16T00:03:26.560364+00:00", 10430, "Your mother is", "dextrous", "Pronunciation: /\u02c8d\u025bkstr\u0259s/", "Definition: skillful in physical movements; especially of the hands", "Synonyms: deft, dexterous"]}
+{"data": ["2023-04-16T01:01:39.930906+00:00", 10431, "Your mother is", "angered", "Pronunciation: /\u02c8\u00e6\u014b\u0261\u025drd/", "Definition: marked by extreme anger", "Synonyms: enraged, furious, infuriated, maddened"]}
