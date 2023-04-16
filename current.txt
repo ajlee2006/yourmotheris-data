@@ -1,1 +1,1 @@
-{"data": ["2023-04-15T23:01:46.429283+00:00", 10429, "Your mother is", "small-minded", "Pronunciation: /\u02c8sm\u0254l\u02c8ma\u026and\u026ad/", "Definition: contemptibly narrow in outlook", "Synonyms: petty"]}
+{"data": ["2023-04-16T00:03:26.560364+00:00", 10430, "Your mother is", "dextrous", "Pronunciation: /\u02c8d\u025bkstr\u0259s/", "Definition: skillful in physical movements; especially of the hands", "Synonyms: deft, dexterous"]}
