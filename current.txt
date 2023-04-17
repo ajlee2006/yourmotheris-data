@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T15:01:33.474527+00:00", 10469, "Your mother is", "semidark", "Similar to: dark", "Definition: partially devoid of light or brightness", ""]}
+{"data": ["2023-04-17T16:02:10.794733+00:00", 10470, "Your mother is", "intercontinental", "Pronunciation: /\u02cc\u026ant\u0259r\u02cck\u0251n\u02c8t\u0259n\u025bnt\u0259l/", "Definition: extending or taking place between or among continents", ""]}
