@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T22:02:00.071789+00:00", 10476, "Your mother is", "breathtaking", "Pronunciation: /\u02c8br\u025b\u03b8\u02ccte\u026aki\u014b/", "Definition: tending to cause suspension of regular breathing", "Synonyms: breathless"]}
+{"data": ["2023-04-17T23:01:30.972179+00:00", 10477, "Your mother is", "empty-bellied", "Pronunciation: /\u02c8\u025bmpti-\u02c8b\u025blid/", "Definition: needing nourishment", "Synonyms: empty"]}
