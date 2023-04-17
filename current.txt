@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T05:01:59.585000+00:00", 10459, "Your mother is", "full-strength", "Pronunciation: /f\u028al-str\u025b\u014bk\u03b8/", "Definition: (of an alcoholic drink) without water", "Synonyms: neat, straight"]}
+{"data": ["2023-04-17T06:03:01.858944+00:00", 10460, "Your mother is", "unaffiliated", "Pronunciation: /\u028cn\u028c\u02c8f\u026ali\u02cce\u026at\u026ad/", "Definition: not affiliated", ""]}
