@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T19:02:04.727127+00:00", 10473, "Your mother is", "unremarkable", "Pronunciation: /\u02cc\u0259nri\u02c8m\u0259rk\u0259b\u0259l/", "Definition: found in the ordinary course of events", "Synonyms: everyday, mundane, quotidian, routine, workaday"]}
+{"data": ["2023-04-17T20:02:19.620324+00:00", 10474, "Your mother is", "authenticated", "Pronunciation: /\u0254\u02c8\u03b8\u025bnt\u028c\u02ccke\u026at\u028cd/", "Definition: established as genuine", "Synonyms: attested, documented"]}
