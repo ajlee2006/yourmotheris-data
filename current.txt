@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T00:03:46.281670+00:00", 10454, "Your mother is", "sinuous", "Pronunciation: /\u02c8s\u026anju\u0259s/", "Definition: curved or curving in and out", "Synonyms: sinuate, wiggly"]}
+{"data": ["2023-04-17T01:02:32.184369+00:00", 10455, "Your mother is", "elfin", "Pronunciation: /\u02c8\u025blf\u026an/", "Definition: suggestive of an elf in strangeness and otherworldliness", "Synonyms: fey"]}
