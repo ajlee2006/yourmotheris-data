@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T16:02:10.794733+00:00", 10470, "Your mother is", "intercontinental", "Pronunciation: /\u02cc\u026ant\u0259r\u02cck\u0251n\u02c8t\u0259n\u025bnt\u0259l/", "Definition: extending or taking place between or among continents", ""]}
+{"data": ["2023-04-17T17:02:18.161774+00:00", 10471, "Your mother is", "cambrian", "Pronunciation: /\u02c8k\u00e6mbri\u0259n/", "Definition: of or relating to or characteristic of Wales or its people or their language", "Synonyms: welsh"]}
