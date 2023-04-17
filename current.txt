@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T14:01:45.923726+00:00", 10468, "Your mother is", "nonprofessional", "Pronunciation: /\u02ccn\u0251npr\u0259\u02c8f\u025b\u0283\u0259n\u0259l/", "Definition: not professional; not engaged in a profession or engaging in as a profession or for gain", ""]}
+{"data": ["2023-04-17T15:01:33.474527+00:00", 10469, "Your mother is", "semidark", "Similar to: dark", "Definition: partially devoid of light or brightness", ""]}
