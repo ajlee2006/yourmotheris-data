@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T17:02:18.161774+00:00", 10471, "Your mother is", "cambrian", "Pronunciation: /\u02c8k\u00e6mbri\u0259n/", "Definition: of or relating to or characteristic of Wales or its people or their language", "Synonyms: welsh"]}
+{"data": ["2023-04-17T18:02:05.165896+00:00", 10472, "Your mother is", "adsorbent", "Similar to: chemisorptive", "Definition: having capacity or tendency to adsorb or cause to accumulate on a surface", "Synonyms: adsorptive, surface-assimilative"]}
