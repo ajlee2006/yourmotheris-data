@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T03:01:49.550231+00:00", 10457, "Your mother is", "walking", "Pronunciation: /\u02c8w\u0254k\u026a\u014b/", "Definition: close enough to be walked to", "Synonyms: walk-to"]}
+{"data": ["2023-04-17T04:01:43.281345+00:00", 10458, "Your mother is", "variolous", "", "Definition: relating to small pox", "Synonyms: variolar, variolic"]}
