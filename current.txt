@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T20:02:19.620324+00:00", 10474, "Your mother is", "authenticated", "Pronunciation: /\u0254\u02c8\u03b8\u025bnt\u028c\u02ccke\u026at\u028cd/", "Definition: established as genuine", "Synonyms: attested, documented"]}
+{"data": ["2023-04-17T21:02:25.460792+00:00", 10475, "Your mother is", "standoffish", "Pronunciation: /st\u00e6nd\u02c8\u0251f\u026a\u0283/", "Definition: lacking cordiality; unfriendly", "Synonyms: offish"]}
