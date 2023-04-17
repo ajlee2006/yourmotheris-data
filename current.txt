@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T06:03:01.858944+00:00", 10460, "Your mother is", "unaffiliated", "Pronunciation: /\u028cn\u028c\u02c8f\u026ali\u02cce\u026at\u026ad/", "Definition: not affiliated", ""]}
+{"data": ["2023-04-17T07:01:47.461128+00:00", 10461, "Your mother is", "oppressed", "Pronunciation: /\u028c\u02c8pr\u025bst/", "Definition: burdened psychologically or mentally", "Synonyms: laden"]}
