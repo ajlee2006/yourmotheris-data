@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T01:02:32.184369+00:00", 10455, "Your mother is", "elfin", "Pronunciation: /\u02c8\u025blf\u026an/", "Definition: suggestive of an elf in strangeness and otherworldliness", "Synonyms: fey"]}
+{"data": ["2023-04-17T02:01:47.713521+00:00", 10456, "Your mother is", "hogged", "Similar to: bulging", "Definition: (of a ship) so weakened as to sag at each end", "Synonyms: broken-backed"]}
