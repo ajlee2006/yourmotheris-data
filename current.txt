@@ -1,1 +1,1 @@
-{"data": ["2023-04-16T23:01:46.069060+00:00", 10453, "Your mother is", "smallish", "Pronunciation: /\u02c8sm\u0254l\u026a\u0283/", "Definition: rather small", ""]}
+{"data": ["2023-04-17T00:03:46.281670+00:00", 10454, "Your mother is", "sinuous", "Pronunciation: /\u02c8s\u026anju\u0259s/", "Definition: curved or curving in and out", "Synonyms: sinuate, wiggly"]}
