@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T11:02:11.073581+00:00", 10465, "Your mother is", "rhyming", "Pronunciation: /\u02c8ra\u026am\u026a\u014b/", "Definition: having corresponding sounds especially terminal sounds", "Synonyms: rhymed, riming"]}
+{"data": ["2023-04-17T12:01:32.352438+00:00", 10466, "Your mother is", "retrospective", "Pronunciation: /\u02ccr\u025btr\u0259\u02c8sp\u025bkt\u026av/", "Definition: concerned with or related to the past", ""]}
