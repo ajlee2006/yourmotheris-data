@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T21:02:25.460792+00:00", 10475, "Your mother is", "standoffish", "Pronunciation: /st\u00e6nd\u02c8\u0251f\u026a\u0283/", "Definition: lacking cordiality; unfriendly", "Synonyms: offish"]}
+{"data": ["2023-04-17T22:02:00.071789+00:00", 10476, "Your mother is", "breathtaking", "Pronunciation: /\u02c8br\u025b\u03b8\u02ccte\u026aki\u014b/", "Definition: tending to cause suspension of regular breathing", "Synonyms: breathless"]}
