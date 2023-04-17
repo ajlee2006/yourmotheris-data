@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T18:02:05.165896+00:00", 10472, "Your mother is", "adsorbent", "Similar to: chemisorptive", "Definition: having capacity or tendency to adsorb or cause to accumulate on a surface", "Synonyms: adsorptive, surface-assimilative"]}
+{"data": ["2023-04-17T19:02:04.727127+00:00", 10473, "Your mother is", "unremarkable", "Pronunciation: /\u02cc\u0259nri\u02c8m\u0259rk\u0259b\u0259l/", "Definition: found in the ordinary course of events", "Synonyms: everyday, mundane, quotidian, routine, workaday"]}
