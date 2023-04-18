@@ -1,1 +1,1 @@
-{"data": ["2023-04-18T00:03:34.455384+00:00", 10478, "Your mother is", "gangling", "Pronunciation: /\u02c8\u0261\u00e6\u014bgl\u026a\u014b/", "Definition: tall and thin and having long slender limbs", "Synonyms: gangly, lanky, rangy"]}
+{"data": ["2023-04-18T01:02:00.882370+00:00", 10479, "Your mother is", "mouth-watering", "Pronunciation: /\u02c8ma\u028a\u03b8\u02ccw\u0254t\u0259r\u026a\u014b/", "Definition: pleasing to the sense of taste", "Synonyms: savory, savoury"]}
