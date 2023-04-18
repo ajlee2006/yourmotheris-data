@@ -1,1 +1,1 @@
-{"data": ["2023-04-18T14:01:57.572506+00:00", 10492, "Your mother is", "slurred", "Pronunciation: /sl\u025drd/", "Definition: spoken as if with a thick tongue", "Synonyms: thick"]}
+{"data": ["2023-04-18T15:01:45.725856+00:00", 10493, "Your mother is", "putrescible", "Pronunciation: /pju\u02c8tr\u025bs\u0259b\u0259l/", "Definition: liable to decay or spoil or become putrid", "Synonyms: decayable, putrefiable, spoilable"]}
