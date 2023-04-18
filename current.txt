@@ -1,1 +1,1 @@
-{"data": ["2023-04-17T23:01:30.972179+00:00", 10477, "Your mother is", "empty-bellied", "Pronunciation: /\u02c8\u025bmpti-\u02c8b\u025blid/", "Definition: needing nourishment", "Synonyms: empty"]}
+{"data": ["2023-04-18T00:03:34.455384+00:00", 10478, "Your mother is", "gangling", "Pronunciation: /\u02c8\u0261\u00e6\u014bgl\u026a\u014b/", "Definition: tall and thin and having long slender limbs", "Synonyms: gangly, lanky, rangy"]}
