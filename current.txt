@@ -1,1 +1,1 @@
-{"data": ["2023-04-18T17:01:59.469762+00:00", 10495, "Your mother is", "stipendiary", "Pronunciation: /sta\u026a\u02c8p\u025bndi\u02cc\u025bri/", "Definition: receiving or eligible for compensation", "Synonyms: compensated, remunerated, salaried"]}
+{"data": ["2023-04-18T18:02:13.766142+00:00", 10496, "Your mother is", "joined", "Pronunciation: /d\u0292\u0254\u026and/", "Definition: of or relating to two people who are married to each other", "Synonyms: united"]}
