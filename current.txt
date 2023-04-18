@@ -1,1 +1,1 @@
-{"data": ["2023-04-18T15:01:45.725856+00:00", 10493, "Your mother is", "putrescible", "Pronunciation: /pju\u02c8tr\u025bs\u0259b\u0259l/", "Definition: liable to decay or spoil or become putrid", "Synonyms: decayable, putrefiable, spoilable"]}
+{"data": ["2023-04-18T16:01:49.342246+00:00", 10494, "Your mother is", "decomposable", "Similar to: complex", "Definition: capable of being partitioned", "Synonyms: analyzable"]}
