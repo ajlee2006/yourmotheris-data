@@ -1,1 +1,1 @@
-{"data": ["2023-04-18T13:02:10.424217+00:00", 10491, "Your mother is", "stabilised", "Similar to: stable", "Definition: made stable or firm", "Synonyms: stabilized"]}
+{"data": ["2023-04-18T14:01:57.572506+00:00", 10492, "Your mother is", "slurred", "Pronunciation: /sl\u025drd/", "Definition: spoken as if with a thick tongue", "Synonyms: thick"]}
