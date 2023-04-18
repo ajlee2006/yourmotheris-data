@@ -1,1 +1,1 @@
-{"data": ["2023-04-18T03:01:44.620244+00:00", 10481, "Your mother is", "reactionary", "Pronunciation: /ri\u02c8\u00e6k\u0283\u0259n\u0259ri/", "Definition: opposed to political or social liberalism or reform", "Synonyms: far-right, reactionist"]}
+{"data": ["2023-04-18T04:01:46.704390+00:00", 10482, "Your mother is", "echoic", "Pronunciation: /\u025b\u02c8ko\u028a\u026ak/", "Definition: like or characteristic of an echo", "Synonyms: echolike"]}
