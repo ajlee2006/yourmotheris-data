@@ -1,1 +1,1 @@
-{"data": ["2023-04-18T22:01:40.976974+00:00", 10500, "Your mother is", "cavitied", "Similar to: cellular", "Definition: pitted with cell-like cavities (as a honeycomb)", "Synonyms: alveolate, faveolate, honeycombed, pitted"]}
+{"data": ["2023-04-18T23:01:36.675212+00:00", 10501, "Your mother is", "singing", "Pronunciation: /\u02c8s\u026a\u014b\u026a\u014b/", "Definition: smooth and flowing", "Synonyms: cantabile"]}
