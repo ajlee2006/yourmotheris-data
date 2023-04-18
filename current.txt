@@ -1,1 +1,1 @@
-{"data": ["2023-04-18T18:02:13.766142+00:00", 10496, "Your mother is", "joined", "Pronunciation: /d\u0292\u0254\u026and/", "Definition: of or relating to two people who are married to each other", "Synonyms: united"]}
+{"data": ["2023-04-18T19:01:55.448848+00:00", 10497, "Your mother is", "distal", "Pronunciation: /\u02c8d\u026ast\u0259l/", "Definition: directed away from the midline or mesial plane of the body", ""]}
