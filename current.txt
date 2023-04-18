@@ -1,1 +1,1 @@
-{"data": ["2023-04-18T08:01:39.460767+00:00", 10486, "Your mother is", "dear", "Pronunciation: /dir/", "Definition: with or in a close or intimate relationship", "Synonyms: good, near"]}
+{"data": ["2023-04-18T09:01:49.300262+00:00", 10487, "Your mother is", "thyroidal", "", "Definition: of or relating to the thyroid gland", "Synonyms: thyroid"]}
