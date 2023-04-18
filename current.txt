@@ -1,1 +1,1 @@
-{"data": ["2023-04-18T06:02:51.420629+00:00", 10484, "Your mother is", "shouted", "Pronunciation: /\u02c8\u0283a\u028at\u028cd/", "Definition: in a vehement outcry", "Synonyms: yelled"]}
+{"data": ["2023-04-18T07:01:48.048045+00:00", 10485, "Your mother is", "catoptrical", "", "Definition: of or relating to catoptrics; produced by or based on mirrors", "Synonyms: catoptric"]}
