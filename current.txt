@@ -1,1 +1,1 @@
-{"data": ["2023-04-18T19:01:55.448848+00:00", 10497, "Your mother is", "distal", "Pronunciation: /\u02c8d\u026ast\u0259l/", "Definition: directed away from the midline or mesial plane of the body", ""]}
+{"data": ["2023-04-18T20:01:30.101054+00:00", 10498, "Your mother is", "self-sustained", "Similar to: unfueled", "Definition: needing no outside support", ""]}
