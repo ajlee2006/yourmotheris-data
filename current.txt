@@ -1,1 +1,1 @@
-{"data": ["2023-04-18T20:01:30.101054+00:00", 10498, "Your mother is", "self-sustained", "Similar to: unfueled", "Definition: needing no outside support", ""]}
+{"data": ["2023-04-18T21:01:32.072993+00:00", 10499, "Your mother is", "energising", "Similar to: dynamic", "Definition: supplying motive force", "Synonyms: energizing, kinetic"]}
