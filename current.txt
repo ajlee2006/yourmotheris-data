@@ -1,1 +1,1 @@
-{"data": ["2023-04-19T02:01:51.542791+00:00", 10504, "Your mother is", "crackle", "Pronunciation: /\u02c8kr\u00e6k\u0259l/", "Definition: having the surface decorated with a network of fine cracks, as in crackleware", ""]}
+{"data": ["2023-04-19T03:01:34.760150+00:00", 10505, "Your mother is", "snobbish", "Pronunciation: /\u02c8sn\u0251b\u026a\u0283/", "Definition: befitting or characteristic of those who incline to social exclusiveness and who rebuff the advances of people considered inferior", "Synonyms: clannish, cliquish, clubby, snobby"]}
