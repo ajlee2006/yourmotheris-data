@@ -1,1 +1,1 @@
-{"data": ["2023-04-19T21:01:54.114397+00:00", 10523, "Your mother is", "canary", "Pronunciation: /k\u0259\u02c8n\u025cri/", "Definition: having the color of a canary; of a light to moderate yellow", "Synonyms: canary-yellow"]}
+{"data": ["2023-04-19T22:02:00.692450+00:00", 10524, "Your mother is", "filariid", "Pronunciation: /f\u026a\u02c8l\u025cri\u026ad/", "Definition: of or relating to or belonging to the family Filariidae", ""]}
