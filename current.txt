@@ -1,1 +1,1 @@
-{"data": ["2023-04-19T12:02:18.597766+00:00", 10514, "Your mother is", "granitic", "Pronunciation: /gr\u0259\u02c8n\u026at\u026ak/", "Definition: hard as granite", "Synonyms: granitelike, rocklike, stony"]}
+{"data": ["2023-04-19T13:02:12.237285+00:00", 10515, "Your mother is", "ravaging", "Pronunciation: /\u02c8r\u00e6v\u026ad\u0292\u026a\u014b/", "Definition: ruinously destructive and wasting", ""]}
