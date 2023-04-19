@@ -1,1 +1,1 @@
-{"data": ["2023-04-19T08:01:48.837831+00:00", 10510, "Your mother is", "concurring", "Pronunciation: /k\u028cn\u02c8k\u025dr\u026a\u014b/", "Definition: being of the same opinion", "Synonyms: concordant"]}
+{"data": ["2023-04-19T09:02:00.487172+00:00", 10511, "Your mother is", "surpliced", "Similar to: clad", "Definition: wearing a surplice", ""]}
