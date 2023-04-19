@@ -1,1 +1,1 @@
-{"data": ["2023-04-19T14:01:57.746080+00:00", 10516, "Your mother is", "noncontinuous", "Similar to: disjunct", "Definition: not continuing without interruption in time or space", "Synonyms: discontinuous"]}
+{"data": ["2023-04-19T15:01:32.319970+00:00", 10517, "Your mother is", "coenobitical", "", "Definition: of or relating to or befitting cenobites or their practices of communal living", "Synonyms: cenobitic, cenobitical, coenobitic"]}
