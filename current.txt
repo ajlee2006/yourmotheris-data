@@ -1,1 +1,1 @@
-{"data": ["2023-04-19T22:02:00.692450+00:00", 10524, "Your mother is", "filariid", "Pronunciation: /f\u026a\u02c8l\u025cri\u026ad/", "Definition: of or relating to or belonging to the family Filariidae", ""]}
+{"data": ["2023-04-19T23:02:13.948182+00:00", 10525, "Your mother is", "quiescent", "Pronunciation: /kw\u026a\u02c8\u025bs\u0259nt/", "Definition: being quiet or still or inactive", ""]}
