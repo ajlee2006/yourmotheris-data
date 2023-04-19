@@ -1,1 +1,1 @@
-{"data": ["2023-04-19T04:01:26.402944+00:00", 10506, "Your mother is", "clogging", "Pronunciation: /\u02c8kl\u0251\u0261\u026a\u014b/", "Definition: preventing movement", "Synonyms: hindering, impeding, obstructive"]}
+{"data": ["2023-04-19T05:01:26.508289+00:00", 10507, "Your mother is", "endermic", "Pronunciation: /\u025bn\u02c8d\u025crm\u026ak/", "Definition: acting by absorption through the skin", "Synonyms: endermatic"]}
