@@ -1,1 +1,1 @@
-{"data": ["2023-04-19T07:02:37.367997+00:00", 10509, "Your mother is", "verbal", "Pronunciation: /\u02c8v\u025crb\u0259l/", "Definition: communicated in the form of words", ""]}
+{"data": ["2023-04-19T08:01:48.837831+00:00", 10510, "Your mother is", "concurring", "Pronunciation: /k\u028cn\u02c8k\u025dr\u026a\u014b/", "Definition: being of the same opinion", "Synonyms: concordant"]}
