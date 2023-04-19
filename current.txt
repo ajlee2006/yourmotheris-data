@@ -1,1 +1,1 @@
-{"data": ["2023-04-19T01:02:21.053730+00:00", 10503, "Your mother is", "sapphic", "Pronunciation: /\u02c8s\u00e6f\u026ak/", "Definition: of or relating to or characterized by homosexual relations between woman", "Synonyms: lesbian"]}
+{"data": ["2023-04-19T02:01:51.542791+00:00", 10504, "Your mother is", "crackle", "Pronunciation: /\u02c8kr\u00e6k\u0259l/", "Definition: having the surface decorated with a network of fine cracks, as in crackleware", ""]}
