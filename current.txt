@@ -1,1 +1,1 @@
-{"data": ["2023-04-19T06:03:03.157558+00:00", 10508, "Your mother is", "inexpressible", "Pronunciation: /\u02cc\u026an\u026ak\u02c8spr\u025bs\u0259b\u0259l/", "Definition: defying expression", "Synonyms: unexpressible"]}
+{"data": ["2023-04-19T07:02:37.367997+00:00", 10509, "Your mother is", "verbal", "Pronunciation: /\u02c8v\u025crb\u0259l/", "Definition: communicated in the form of words", ""]}
