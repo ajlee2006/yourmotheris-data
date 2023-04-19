@@ -1,1 +1,1 @@
-{"data": ["2023-04-19T19:01:40.381022+00:00", 10521, "Your mother is", "untried", "Pronunciation: /\u0259n\u02c8tra\u026ad/", "Definition: not tried or tested by experience", "Synonyms: unseasoned, untested, young"]}
+{"data": ["2023-04-19T20:01:33.171043+00:00", 10522, "Your mother is", "cancellous", "Pronunciation: /\u02c8k\u00e6ns\u026al\u0259s/", "Definition: having an open or latticed or porous structure", "Synonyms: cancellate, cancellated"]}
