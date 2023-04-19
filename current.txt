@@ -1,1 +1,1 @@
-{"data": ["2023-04-19T10:02:01.661635+00:00", 10512, "Your mother is", "infirm", "Pronunciation: /\u026an\u02c8f\u025crm/", "Definition: lacking bodily or muscular strength or vitality", "Synonyms: debile, decrepit, feeble, rickety, sapless, weak, weakly"]}
+{"data": ["2023-04-19T11:01:47.949792+00:00", 10513, "Your mother is", "crustaceous", "Pronunciation: /kr\u0259\u02c8ste\u026a\u0283\u0259s/", "Definition: of or belonging to the class Crustacea", "Synonyms: crustacean"]}
