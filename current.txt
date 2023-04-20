@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T05:01:31.963782+00:00", 10531, "Your mother is", "thyroid", "Pronunciation: /\u02c8\u03b8a\u026ar\u0254\u026ad/", "Definition: of or relating to the thyroid gland", "Synonyms: thyroidal"]}
+{"data": ["2023-04-20T06:02:42.112441+00:00", 10532, "Your mother is", "short-winged", "Pronunciation: /\u0283\u0254rt-w\u026a\u014bd/", "Definition: (especially of certain insects) having very short or rudimentary wings", "Synonyms: brachypterous"]}
