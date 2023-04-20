@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T01:01:40.578651+00:00", 10527, "Your mother is", "thwarting", "Pronunciation: /\u02c8\u03b8w\u0254rt\u026a\u014b/", "Definition: preventing realization or attainment of a desire", "Synonyms: frustrating, frustrative"]}
+{"data": ["2023-04-20T02:01:45.082215+00:00", 10528, "Your mother is", "extrovertive", "Similar to: extraversive", "Definition: being concerned with the social and physical environment", "Synonyms: extravert, extraverted, extravertive, extrovert, extroverted"]}
