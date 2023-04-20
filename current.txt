@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T15:02:10.028587+00:00", 10541, "Your mother is", "recognizable", "Pronunciation: /\u02c8r\u025bk\u0259\u0261\u02ccna\u026az\u0259b\u0259l/", "Definition: capable of being recognized", "Synonyms: placeable, recognisable"]}
+{"data": ["2023-04-20T16:01:57.601801+00:00", 10542, "Your mother is", "vague", "Pronunciation: /ve\u026a\u0261/", "Definition: not clearly expressed or understood", "Synonyms: obscure"]}
