@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T18:01:25.149459+00:00", 10544, "Your mother is", "underweight", "Pronunciation: /\u02c8\u0259nd\u0259r\u02c8we\u026at/", "Definition: being very thin", "Synonyms: boney, bony, scraggly, scraggy, scrawny, skinny, weedy"]}
+{"data": ["2023-04-20T19:02:08.068265+00:00", 10545, "Your mother is", "older", "Pronunciation: /\u02c8o\u028ald\u0259r/", "Definition: skilled through long experience", "Synonyms: old"]}
