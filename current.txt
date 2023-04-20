@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T09:01:44.506935+00:00", 10535, "Your mother is", "meshuga", "Pronunciation: /m\u0259\u02c8\u0283\u028a\u0261\u0259/", "Definition: senseless; crazy", "Synonyms: meshugga, meshugge, meshuggeneh, meshuggener"]}
+{"data": ["2023-04-20T10:01:39.935782+00:00", 10536, "Your mother is", "risky", "Pronunciation: /\u02c8r\u026aski/", "Definition: involving risk or danger", "Synonyms: hazardous, wild"]}
