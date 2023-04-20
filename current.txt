@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T22:02:23.627020+00:00", 10548, "Your mother is", "defamatory", "Pronunciation: /d\u026a\u02c8f\u00e6m\u0259\u02ccto\u028ari/", "Definition: (used of statements) harmful and often untrue; tending to discredit or malign", "Synonyms: calumniatory, calumnious, denigrating, denigrative, denigratory, libellous, libelous, slanderous"]}
+{"data": ["2023-04-20T23:01:57.806574+00:00", 10549, "Your mother is", "solidified", "Pronunciation: /s\u028c\u02c8l\u026ad\u028c\u02ccfa\u026ad/", "Definition: changed into a solid mass", "Synonyms: coagulated"]}
