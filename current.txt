@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T06:02:42.112441+00:00", 10532, "Your mother is", "short-winged", "Pronunciation: /\u0283\u0254rt-w\u026a\u014bd/", "Definition: (especially of certain insects) having very short or rudimentary wings", "Synonyms: brachypterous"]}
+{"data": ["2023-04-20T07:02:19.352101+00:00", 10533, "Your mother is", "unsalted", "Pronunciation: /\u0259n\u02c8s\u0251lt\u026ad/", "Definition: without salt or seasoning", "Synonyms: unseasoned"]}
