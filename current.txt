@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T16:01:57.601801+00:00", 10542, "Your mother is", "vague", "Pronunciation: /ve\u026a\u0261/", "Definition: not clearly expressed or understood", "Synonyms: obscure"]}
+{"data": ["2023-04-20T17:01:35.509578+00:00", 10543, "Your mother is", "bloodcurdling", "Pronunciation: /\u02c8bl\u0259d\u02cck\u025crdl\u026a\u014b/", "Definition: extremely alarming", "Synonyms: hair-raising, nightmarish"]}
