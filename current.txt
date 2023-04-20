@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T10:01:39.935782+00:00", 10536, "Your mother is", "risky", "Pronunciation: /\u02c8r\u026aski/", "Definition: involving risk or danger", "Synonyms: hazardous, wild"]}
+{"data": ["2023-04-20T11:01:53.392023+00:00", 10537, "Your mother is", "straight-from-the-shoulder", "Pronunciation: /\u02c8stre\u026atfr\u0259m-\u00f0\u0259-\u02c8\u0283o\u028ald\u0259r/", "Definition: characterized by directness in manner or speech; without subtlety or evasion", "Synonyms: blunt, candid, forthright, frank, free-spoken, outspoken, plainspoken, point-blank"]}
