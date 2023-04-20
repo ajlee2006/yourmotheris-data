@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T02:01:45.082215+00:00", 10528, "Your mother is", "extrovertive", "Similar to: extraversive", "Definition: being concerned with the social and physical environment", "Synonyms: extravert, extraverted, extravertive, extrovert, extroverted"]}
+{"data": ["2023-04-20T03:01:38.587440+00:00", 10529, "Your mother is", "dermic", "", "Definition: of or relating to or located in the dermis", "Synonyms: dermal"]}
