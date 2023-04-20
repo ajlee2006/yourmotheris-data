@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T07:02:19.352101+00:00", 10533, "Your mother is", "unsalted", "Pronunciation: /\u0259n\u02c8s\u0251lt\u026ad/", "Definition: without salt or seasoning", "Synonyms: unseasoned"]}
+{"data": ["2023-04-20T08:02:00.980992+00:00", 10534, "Your mother is", "seedy", "Pronunciation: /\u02c8sidi/", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, indisposed, peaked, poorly, sickly, under the weather, unwell"]}
