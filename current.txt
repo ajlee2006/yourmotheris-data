@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T14:02:12.912889+00:00", 10540, "Your mother is", "homologous", "Pronunciation: /h\u0259\u02c8m\u0251l\u0259\u0261\u0259s/", "Definition: having the same evolutionary origin but not necessarily the same function", ""]}
+{"data": ["2023-04-20T15:02:10.028587+00:00", 10541, "Your mother is", "recognizable", "Pronunciation: /\u02c8r\u025bk\u0259\u0261\u02ccna\u026az\u0259b\u0259l/", "Definition: capable of being recognized", "Synonyms: placeable, recognisable"]}
