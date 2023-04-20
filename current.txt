@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T03:01:38.587440+00:00", 10529, "Your mother is", "dermic", "", "Definition: of or relating to or located in the dermis", "Synonyms: dermal"]}
+{"data": ["2023-04-20T04:01:37.765101+00:00", 10530, "Your mother is", "totalitarian", "Pronunciation: /to\u028a\u02cct\u00e6l\u026a\u02c8t\u025cri\u0259n/", "Definition: of or relating to the principles of totalitarianism according to which the state regulates every realm of life", "Synonyms: totalistic"]}
