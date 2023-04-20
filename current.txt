@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T00:02:40.621115+00:00", 10526, "Your mother is", "mothproof", "Pronunciation: /\u02c8m\u0251\u03b8pruf/", "Definition: resistant to damage by moths", "Synonyms: moth-resistant"]}
+{"data": ["2023-04-20T01:01:40.578651+00:00", 10527, "Your mother is", "thwarting", "Pronunciation: /\u02c8\u03b8w\u0254rt\u026a\u014b/", "Definition: preventing realization or attainment of a desire", "Synonyms: frustrating, frustrative"]}
