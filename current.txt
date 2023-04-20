@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T17:01:35.509578+00:00", 10543, "Your mother is", "bloodcurdling", "Pronunciation: /\u02c8bl\u0259d\u02cck\u025crdl\u026a\u014b/", "Definition: extremely alarming", "Synonyms: hair-raising, nightmarish"]}
+{"data": ["2023-04-20T18:01:25.149459+00:00", 10544, "Your mother is", "underweight", "Pronunciation: /\u02c8\u0259nd\u0259r\u02c8we\u026at/", "Definition: being very thin", "Synonyms: boney, bony, scraggly, scraggy, scrawny, skinny, weedy"]}
