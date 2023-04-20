@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T13:02:00.152710+00:00", 10539, "Your mother is", "overweight", "Pronunciation: /\u02cco\u028av\u025dr\u02c8we\u026at/", "Definition: usually describes a large person who is fat but has a large frame to carry it", "Synonyms: fleshy, heavy"]}
+{"data": ["2023-04-20T14:02:12.912889+00:00", 10540, "Your mother is", "homologous", "Pronunciation: /h\u0259\u02c8m\u0251l\u0259\u0261\u0259s/", "Definition: having the same evolutionary origin but not necessarily the same function", ""]}
