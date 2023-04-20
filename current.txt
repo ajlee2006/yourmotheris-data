@@ -1,1 +1,1 @@
-{"data": ["2023-04-19T23:02:13.948182+00:00", 10525, "Your mother is", "quiescent", "Pronunciation: /kw\u026a\u02c8\u025bs\u0259nt/", "Definition: being quiet or still or inactive", ""]}
+{"data": ["2023-04-20T00:02:40.621115+00:00", 10526, "Your mother is", "mothproof", "Pronunciation: /\u02c8m\u0251\u03b8pruf/", "Definition: resistant to damage by moths", "Synonyms: moth-resistant"]}
