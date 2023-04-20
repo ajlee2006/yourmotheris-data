@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T20:01:38.331336+00:00", 10546, "Your mother is", "xxvii", "Similar to: cardinal", "Definition: being seven more than twenty", "Synonyms: 27, twenty-seven"]}
+{"data": ["2023-04-20T21:01:40.330581+00:00", 10547, "Your mother is", "autochthonous", "Pronunciation: /\u0254\u02c8t\u0251k\u03b8\u0259n\u0259s/", "Definition: originating where it is found", "Synonyms: autochthonal, autochthonic, endemic, indigenous"]}
