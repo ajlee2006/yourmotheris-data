@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T04:01:37.765101+00:00", 10530, "Your mother is", "totalitarian", "Pronunciation: /to\u028a\u02cct\u00e6l\u026a\u02c8t\u025cri\u0259n/", "Definition: of or relating to the principles of totalitarianism according to which the state regulates every realm of life", "Synonyms: totalistic"]}
+{"data": ["2023-04-20T05:01:31.963782+00:00", 10531, "Your mother is", "thyroid", "Pronunciation: /\u02c8\u03b8a\u026ar\u0254\u026ad/", "Definition: of or relating to the thyroid gland", "Synonyms: thyroidal"]}
