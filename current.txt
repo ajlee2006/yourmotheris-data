@@ -1,1 +1,1 @@
-{"data": ["2023-04-20T12:02:25.555974+00:00", 10538, "Your mother is", "unconsecrated", "Pronunciation: /\u0259n\u02c8k\u0251ns\u026a\u02cckre\u026at\u026ad/", "Definition: not holy because unconsecrated or impure or defiled", "Synonyms: profane, unsanctified"]}
+{"data": ["2023-04-20T13:02:00.152710+00:00", 10539, "Your mother is", "overweight", "Pronunciation: /\u02cco\u028av\u025dr\u02c8we\u026at/", "Definition: usually describes a large person who is fat but has a large frame to carry it", "Synonyms: fleshy, heavy"]}
