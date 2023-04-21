@@ -1,1 +1,1 @@
-{"data": ["2023-04-21T16:02:54.030505+00:00", 10566, "Your mother is", "preset", "Pronunciation: /pri\u02c8s\u025bt/", "Definition: set in advance", "Synonyms: predetermined"]}
+{"data": ["2023-04-21T17:03:17.224428+00:00", 10567, "Your mother is", "habilimented", "Similar to: clad", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: appareled, attired, dressed, garbed, garmented, robed"]}
