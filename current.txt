@@ -1,1 +1,1 @@
-{"data": ["2023-04-21T01:01:43.009879+00:00", 10551, "Your mother is", "tagged", "Pronunciation: /t\u00e6\u0261d/", "Definition: bearing or marked with a label or tag", "Synonyms: labeled, labelled"]}
+{"data": ["2023-04-21T02:01:39.773498+00:00", 10552, "Your mother is", "mischievous", "Pronunciation: /\u02c8m\u026as\u02a7\u0259v\u0259s/", "Definition: naughtily or annoyingly playful", "Synonyms: arch, impish, implike, pixilated, prankish, puckish, wicked"]}
