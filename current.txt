@@ -1,1 +1,1 @@
-{"data": ["2023-04-21T22:02:46.559020+00:00", 10572, "Your mother is", "slow", "Pronunciation: /slo\u028a/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: boring, deadening, dull, ho-hum, irksome, tedious, tiresome, wearisome"]}
+{"data": ["2023-04-21T23:03:19.030503+00:00", 10573, "Your mother is", "visualized", "Pronunciation: /\u02c8v\u026a\u0292w\u028c\u02ccla\u026azd/", "Definition: seen in the mind as a mental image", "Synonyms: envisioned, pictured, visualised"]}
