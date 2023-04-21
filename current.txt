@@ -1,1 +1,1 @@
-{"data": ["2023-04-21T03:01:51.354716+00:00", 10553, "Your mother is", "fall-blooming", "Similar to: autumnal", "Definition: of plants that bloom during the autumn", "Synonyms: autumn-blooming, autumn-flowering, fall-flowering, late-blooming, late-flowering"]}
+{"data": ["2023-04-21T04:02:00.271608+00:00", 10554, "Your mother is", "snow-clad", "Pronunciation: /sno\u028a-kl\u00e6d/", "Definition: covered with snow", "Synonyms: snow-covered, snowy"]}
