@@ -1,1 +1,1 @@
-{"data": ["2023-04-21T14:01:45.845270+00:00", 10564, "Your mother is", "pharmacologic", "", "Definition: of or relating to pharmacology", "Synonyms: pharmacological"]}
+{"data": ["2023-04-21T15:03:05.599155+00:00", 10565, "Your mother is", "aching", "Pronunciation: /\u02c8e\u026ak\u026a\u014b/", "Definition: causing a dull and steady pain", "Synonyms: achy"]}
