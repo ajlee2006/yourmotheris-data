@@ -1,1 +1,1 @@
-{"data": ["2023-04-21T18:02:43.249304+00:00", 10568, "Your mother is", "autumn-flowering", "Similar to: autumnal", "Definition: of plants that bloom during the autumn", "Synonyms: autumn-blooming, fall-blooming, fall-flowering, late-blooming, late-flowering"]}
+{"data": ["2023-04-21T19:02:47.195603+00:00", 10569, "Your mother is", "photoelectric", "Pronunciation: /\u02ccfo\u028ato\u028a\u026a\u02c8l\u025bktr\u026ak/", "Definition: of or pertaining to photoelectricity", "Synonyms: photoelectrical"]}
