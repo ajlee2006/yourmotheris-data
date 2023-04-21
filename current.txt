@@ -1,1 +1,1 @@
-{"data": ["2023-04-21T11:02:08.141726+00:00", 10561, "Your mother is", "skimmed", "Pronunciation: /sk\u026amd/", "Definition: used of milk and milk products from which the cream has been removed", "Synonyms: skim"]}
+{"data": ["2023-04-21T12:01:56.741008+00:00", 10562, "Your mother is", "addressed", "Pronunciation: /\u028c\u02c8dr\u025bst/", "Definition: (of mail) marked with a destination", ""]}
