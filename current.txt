@@ -1,1 +1,1 @@
-{"data": ["2023-04-21T08:02:04.587435+00:00", 10558, "Your mother is", "seventy-fifth", "Pronunciation: /\u02c8s\u025bv\u0259nti\u02c8f\u026af\u03b8/", "Definition: the ordinal number of seventy-five in counting order", "Synonyms: 75th"]}
+{"data": ["2023-04-21T09:01:38.561877+00:00", 10559, "Your mother is", "sixty-one", "Pronunciation: /\u02c8s\u026aksti-w\u0259n/", "Definition: being one more than sixty", "Synonyms: 61, lxi"]}
