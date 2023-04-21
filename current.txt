@@ -1,1 +1,1 @@
-{"data": ["2023-04-21T21:02:21.396752+00:00", 10571, "Your mother is", "snazzy", "Pronunciation: /\u02c8sn\u00e6zi/", "Definition: flashily stylish", ""]}
+{"data": ["2023-04-21T22:02:46.559020+00:00", 10572, "Your mother is", "slow", "Pronunciation: /slo\u028a/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: boring, deadening, dull, ho-hum, irksome, tedious, tiresome, wearisome"]}
