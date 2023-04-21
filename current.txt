@@ -1,1 +1,1 @@
-{"data": ["2023-04-21T04:02:00.271608+00:00", 10554, "Your mother is", "snow-clad", "Pronunciation: /sno\u028a-kl\u00e6d/", "Definition: covered with snow", "Synonyms: snow-covered, snowy"]}
+{"data": ["2023-04-21T05:01:59.318956+00:00", 10555, "Your mother is", "unpaid", "Pronunciation: /\u0259n\u02c8pe\u026ad/", "Definition: without payment", "Synonyms: volunteer"]}
