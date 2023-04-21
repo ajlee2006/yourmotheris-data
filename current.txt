@@ -1,1 +1,1 @@
-{"data": ["2023-04-21T12:01:56.741008+00:00", 10562, "Your mother is", "addressed", "Pronunciation: /\u028c\u02c8dr\u025bst/", "Definition: (of mail) marked with a destination", ""]}
+{"data": ["2023-04-21T13:01:54.343716+00:00", 10563, "Your mother is", "totalitarian", "Pronunciation: /to\u028a\u02cct\u00e6l\u026a\u02c8t\u025cri\u0259n/", "Definition: of or relating to the principles of totalitarianism according to which the state regulates every realm of life", "Synonyms: totalistic"]}
