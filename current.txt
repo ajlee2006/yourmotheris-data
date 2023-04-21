@@ -1,1 +1,1 @@
-{"data": ["2023-04-21T05:01:59.318956+00:00", 10555, "Your mother is", "unpaid", "Pronunciation: /\u0259n\u02c8pe\u026ad/", "Definition: without payment", "Synonyms: volunteer"]}
+{"data": ["2023-04-21T06:02:28.842298+00:00", 10556, "Your mother is", "unregenerate", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8d\u0292\u025bn\u0259r\u026at/", "Definition: unrepentant and incapable of being reformed", "Synonyms: unreformable"]}
