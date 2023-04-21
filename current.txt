@@ -1,1 +1,1 @@
-{"data": ["2023-04-21T10:01:41.697502+00:00", 10560, "Your mother is", "wailful", "Pronunciation: /\u02c8we\u026alf\u0259l/", "Definition: vocally expressing grief or sorrow or resembling such expression", "Synonyms: lamenting, wailing"]}
+{"data": ["2023-04-21T11:02:08.141726+00:00", 10561, "Your mother is", "skimmed", "Pronunciation: /sk\u026amd/", "Definition: used of milk and milk products from which the cream has been removed", "Synonyms: skim"]}
