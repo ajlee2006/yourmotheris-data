@@ -1,1 +1,1 @@
-{"data": ["2023-04-21T15:03:05.599155+00:00", 10565, "Your mother is", "aching", "Pronunciation: /\u02c8e\u026ak\u026a\u014b/", "Definition: causing a dull and steady pain", "Synonyms: achy"]}
+{"data": ["2023-04-21T16:02:54.030505+00:00", 10566, "Your mother is", "preset", "Pronunciation: /pri\u02c8s\u025bt/", "Definition: set in advance", "Synonyms: predetermined"]}
