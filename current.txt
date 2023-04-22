@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T01:03:02.442308+00:00", 10575, "Your mother is", "arid", "Pronunciation: /\u02c8\u00e6rid/", "Definition: lacking vitality or spirit; lifeless", "Synonyms: desiccate, desiccated"]}
+{"data": ["2023-04-22T02:02:51.104829+00:00", 10576, "Your mother is", "nonmetallic", "Pronunciation: /\u02ccn\u0251nm\u0259\u02c8t\u00e6l\u026ak/", "Definition: not containing or resembling or characteristic of a metal", "Synonyms: nonmetal"]}
