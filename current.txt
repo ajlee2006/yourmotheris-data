@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T17:03:30.205525+00:00", 10591, "Your mother is", "tree-living", "Pronunciation: /tri-\u02c8l\u026av\u026a\u014b/", "Definition: inhabiting or frequenting trees", "Synonyms: arboreal, arboreous"]}
+{"data": ["2023-04-22T18:03:26.609331+00:00", 10592, "Your mother is", "cubistic", "", "Definition: relating to or characteristic of cubism", "Synonyms: cubist"]}
