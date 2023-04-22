@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T05:03:01.759775+00:00", 10579, "Your mother is", "tonal", "Pronunciation: /\u02c8to\u028an\u0259l/", "Definition: employing variations in pitch to distinguish meanings of otherwise similar words", "Synonyms: tonic"]}
+{"data": ["2023-04-22T06:02:46.007234+00:00", 10580, "Your mother is", "heinous", "Pronunciation: /\u02c8he\u026an\u0259s/", "Definition: extremely wicked, deeply criminal", "Synonyms: flagitious"]}
