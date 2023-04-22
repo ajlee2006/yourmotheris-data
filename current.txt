@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T20:03:33.106110+00:00", 10594, "Your mother is", "streptococcic", "Pronunciation: /\u02ccstr\u025bpt\u0259\u02c8k\u0251ks\u026ak/", "Definition: of or relating to or caused by streptococci", "Synonyms: strep, streptococcal"]}
+{"data": ["2023-04-22T21:02:02.455155+00:00", 10595, "Your mother is", "determinate", "Pronunciation: /d\u026a\u02c8t\u025crm\u0259n\u026at/", "Definition: supplying or being a final or conclusive settlement", "Synonyms: definitive"]}
