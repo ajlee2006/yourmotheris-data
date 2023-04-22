@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T15:03:09.097123+00:00", 10589, "Your mother is", "unmodulated", "Pronunciation: /\u0259n\u02c8m\u0251dj\u028a\u02ccle\u026at\u026ad/", "Definition: characterized by lack of variation in pitch, tone, or volume", ""]}
+{"data": ["2023-04-22T16:03:25.358978+00:00", 10590, "Your mother is", "ok", "Pronunciation: /o\u028a\u02c8ke\u026a/", "Definition: being satisfactory or in satisfactory condition", "Synonyms: all right, cool, fine, hunky-dory, o.k., okay"]}
