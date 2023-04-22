@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T06:02:46.007234+00:00", 10580, "Your mother is", "heinous", "Pronunciation: /\u02c8he\u026an\u0259s/", "Definition: extremely wicked, deeply criminal", "Synonyms: flagitious"]}
+{"data": ["2023-04-22T07:03:22.791434+00:00", 10581, "Your mother is", "epoch-making", "Pronunciation: /\u02c8\u025bp\u0259k-\u02c8me\u026ak\u026a\u014b/", "Definition: highly significant or important especially bringing about or marking the beginning of a new development or era", "Synonyms: epochal"]}
