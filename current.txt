@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T00:03:00.741787+00:00", 10574, "Your mother is", "roguish", "Pronunciation: /\u02c8ro\u028a\u0261\u026a\u0283/", "Definition: lacking principles or scruples", "Synonyms: blackguardly, rascally, scoundrelly"]}
+{"data": ["2023-04-22T01:03:02.442308+00:00", 10575, "Your mother is", "arid", "Pronunciation: /\u02c8\u00e6rid/", "Definition: lacking vitality or spirit; lifeless", "Synonyms: desiccate, desiccated"]}
