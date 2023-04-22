@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T22:02:18.596321+00:00", 10596, "Your mother is", "unpitying", "Pronunciation: /\u0259n\u02c8p\u026at\u026ai\u014b/", "Definition: without mercy or pity", "Synonyms: pitiless, remorseless, ruthless"]}
+{"data": ["2023-04-22T23:02:20.484822+00:00", 10597, "Your mother is", "rhomboid", "Pronunciation: /\u02c8r\u0251mb\u0254\u026ad/", "Definition: shaped like a rhombus or rhomboid", "Synonyms: rhomboidal"]}
