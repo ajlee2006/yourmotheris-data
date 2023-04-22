@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T09:02:38.009444+00:00", 10583, "Your mother is", "looted", "Pronunciation: /\u02c8lut\u028cd/", "Definition: wrongfully emptied or stripped of anything of value", "Synonyms: pillaged, plundered, ransacked"]}
+{"data": ["2023-04-22T10:03:02.345306+00:00", 10584, "Your mother is", "lanceolate", "Pronunciation: /\u02c8l\u00e6nsi\u0259\u02ccle\u026at/", "Definition: (of a leaf shape) shaped like a lance head; narrow and tapering to a pointed apex", "Synonyms: lancelike"]}
