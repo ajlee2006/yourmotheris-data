@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T16:03:25.358978+00:00", 10590, "Your mother is", "ok", "Pronunciation: /o\u028a\u02c8ke\u026a/", "Definition: being satisfactory or in satisfactory condition", "Synonyms: all right, cool, fine, hunky-dory, o.k., okay"]}
+{"data": ["2023-04-22T17:03:30.205525+00:00", 10591, "Your mother is", "tree-living", "Pronunciation: /tri-\u02c8l\u026av\u026a\u014b/", "Definition: inhabiting or frequenting trees", "Synonyms: arboreal, arboreous"]}
