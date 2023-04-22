@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T14:02:52.848623+00:00", 10588, "Your mother is", "exanimate", "Pronunciation: /\u026a\u0261\u02c8z\u00e6n\u0259m\u026at/", "Definition: deprived of life; no longer living", "Synonyms: lifeless"]}
+{"data": ["2023-04-22T15:03:09.097123+00:00", 10589, "Your mother is", "unmodulated", "Pronunciation: /\u0259n\u02c8m\u0251dj\u028a\u02ccle\u026at\u026ad/", "Definition: characterized by lack of variation in pitch, tone, or volume", ""]}
