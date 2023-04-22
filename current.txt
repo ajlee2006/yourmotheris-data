@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T21:02:02.455155+00:00", 10595, "Your mother is", "determinate", "Pronunciation: /d\u026a\u02c8t\u025crm\u0259n\u026at/", "Definition: supplying or being a final or conclusive settlement", "Synonyms: definitive"]}
+{"data": ["2023-04-22T22:02:18.596321+00:00", 10596, "Your mother is", "unpitying", "Pronunciation: /\u0259n\u02c8p\u026at\u026ai\u014b/", "Definition: without mercy or pity", "Synonyms: pitiless, remorseless, ruthless"]}
