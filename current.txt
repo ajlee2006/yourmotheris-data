@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T10:03:02.345306+00:00", 10584, "Your mother is", "lanceolate", "Pronunciation: /\u02c8l\u00e6nsi\u0259\u02ccle\u026at/", "Definition: (of a leaf shape) shaped like a lance head; narrow and tapering to a pointed apex", "Synonyms: lancelike"]}
+{"data": ["2023-04-22T11:03:09.046590+00:00", 10585, "Your mother is", "clubable", "Similar to: sociable", "Definition: inclined to club together", "Synonyms: clubbable"]}
