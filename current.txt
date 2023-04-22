@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T02:02:51.104829+00:00", 10576, "Your mother is", "nonmetallic", "Pronunciation: /\u02ccn\u0251nm\u0259\u02c8t\u00e6l\u026ak/", "Definition: not containing or resembling or characteristic of a metal", "Synonyms: nonmetal"]}
+{"data": ["2023-04-22T03:02:42.867758+00:00", 10577, "Your mother is", "swell", "Pronunciation: /sw\u025bl/", "Definition: very good", "Synonyms: bang-up, bully, corking, cracking, dandy, great, groovy, keen, neat, nifty, not bad, old, peachy, slap-up, smashing"]}
