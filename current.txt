@@ -1,1 +1,1 @@
-{"data": ["2023-04-22T03:02:42.867758+00:00", 10577, "Your mother is", "swell", "Pronunciation: /sw\u025bl/", "Definition: very good", "Synonyms: bang-up, bully, corking, cracking, dandy, great, groovy, keen, neat, nifty, not bad, old, peachy, slap-up, smashing"]}
+{"data": ["2023-04-22T04:03:12.506213+00:00", 10578, "Your mother is", "fishy", "Pronunciation: /\u02c8f\u026a\u0283i/", "Definition: not as expected", "Synonyms: funny, shady, suspect, suspicious"]}
