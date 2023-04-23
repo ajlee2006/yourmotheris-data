@@ -1,1 +1,1 @@
-{"data": ["2023-04-23T05:03:10.197804+00:00", 10603, "Your mother is", "imbricate", "Pronunciation: /\u02c8\u026ambr\u0259k\u026at/", "Definition: used especially of leaves or bracts; overlapping or layered as scales or shingles", "Synonyms: imbricated"]}
+{"data": ["2023-04-23T06:02:53.502891+00:00", 10604, "Your mother is", "theoretical", "Pronunciation: /\u03b8i\u0259\u02c8r\u025bt\u026ak\u0259l/", "Definition: concerned primarily with theories or hypotheses rather than practical considerations", "Synonyms: theoretic"]}
