@@ -1,1 +1,1 @@
-{"data": ["2023-04-23T22:02:42.716041+00:00", 10620, "Your mother is", "portable", "Pronunciation: /\u02c8po\u028art\u0259b\u0259l/", "Definition: easily or conveniently transported", ""]}
+{"data": ["2023-04-23T23:03:30.509306+00:00", 10621, "Your mother is", "noncivilized", "Similar to: barbaric", "Definition: not having a high state of culture and social development", "Synonyms: noncivilised"]}
