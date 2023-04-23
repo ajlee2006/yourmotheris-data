@@ -1,1 +1,1 @@
-{"data": ["2023-04-23T13:02:43.070898+00:00", 10611, "Your mother is", "late-blooming", "Pronunciation: /le\u026at-\u02c8blum\u026a\u014b/", "Definition: of plants that bloom during the autumn", "Synonyms: autumn-blooming, autumn-flowering, fall-blooming, fall-flowering, late-flowering"]}
+{"data": ["2023-04-23T14:02:15.942720+00:00", 10612, "Your mother is", "gaunt", "Pronunciation: /\u0261\u0254nt/", "Definition: very thin especially from disease or hunger or cold", "Synonyms: cadaverous, emaciated, haggard, pinched, skeletal, wasted"]}
