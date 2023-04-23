@@ -1,1 +1,1 @@
-{"data": ["2023-04-23T07:02:33.483169+00:00", 10605, "Your mother is", "asymmetrical", "Pronunciation: /\u02cce\u026as\u028c\u02c8m\u025btr\u026ak\u028cl/", "Definition: irregular in shape or outline", "Synonyms: crooked"]}
+{"data": ["2023-04-23T08:02:58.445966+00:00", 10606, "Your mother is", "hermitical", "Similar to: unworldly", "Definition: characterized by ascetic solitude", "Synonyms: anchoritic, eremitic, eremitical, hermitic"]}
