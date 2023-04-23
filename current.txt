@@ -1,1 +1,1 @@
-{"data": ["2023-04-23T01:03:02.200182+00:00", 10599, "Your mother is", "benign", "Pronunciation: /b\u026a\u02c8na\u026an/", "Definition: pleasant and beneficial in nature or influence", "Synonyms: benignant"]}
+{"data": ["2023-04-23T02:03:10.231281+00:00", 10600, "Your mother is", "slighting", "Pronunciation: /\u02c8sla\u026at\u026a\u014b/", "Definition: tending to diminish or disparage", "Synonyms: belittling, deprecating, deprecative, deprecatory, depreciative, depreciatory"]}
