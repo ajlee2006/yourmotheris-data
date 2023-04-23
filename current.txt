@@ -1,1 +1,1 @@
-{"data": ["2023-04-23T10:03:10.717644+00:00", 10608, "Your mother is", "inviolate", "Pronunciation: /\u026an\u02c8va\u026a\u0259l\u026at/", "Definition: must be kept sacred", "Synonyms: inviolable, sacrosanct"]}
+{"data": ["2023-04-23T11:02:46.504008+00:00", 10609, "Your mother is", "mastoidal", "", "Definition: relating to or resembling a nipple", "Synonyms: mastoid"]}
