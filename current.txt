@@ -1,1 +1,1 @@
-{"data": ["2023-04-23T14:02:15.942720+00:00", 10612, "Your mother is", "gaunt", "Pronunciation: /\u0261\u0254nt/", "Definition: very thin especially from disease or hunger or cold", "Synonyms: cadaverous, emaciated, haggard, pinched, skeletal, wasted"]}
+{"data": ["2023-04-23T15:02:37.499961+00:00", 10613, "Your mother is", "antimicrobic", "Similar to: healthful", "Definition: capable of destroying or inhibiting the growth of disease-causing microorganisms", "Synonyms: antimicrobial"]}
