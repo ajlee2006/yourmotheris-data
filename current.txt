@@ -1,1 +1,1 @@
-{"data": ["2023-04-23T02:03:10.231281+00:00", 10600, "Your mother is", "slighting", "Pronunciation: /\u02c8sla\u026at\u026a\u014b/", "Definition: tending to diminish or disparage", "Synonyms: belittling, deprecating, deprecative, deprecatory, depreciative, depreciatory"]}
+{"data": ["2023-04-23T03:02:42.536655+00:00", 10601, "Your mother is", "bankrupt", "Pronunciation: /\u02c8b\u00e6\u014bkr\u0259pt/", "Definition: financially ruined", "Synonyms: belly-up"]}
