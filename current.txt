@@ -1,1 +1,1 @@
-{"data": ["2023-04-23T19:03:04.846978+00:00", 10617, "Your mother is", "floral", "Pronunciation: /\u02c8flo\u028ar\u0259l/", "Definition: resembling or made of or suggestive of flowers", "Synonyms: flowered"]}
+{"data": ["2023-04-23T20:02:27.230302+00:00", 10618, "Your mother is", "sighted", "Pronunciation: /\u02c8sa\u026at\u026ad/", "Definition: able to see", ""]}
