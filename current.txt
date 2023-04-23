@@ -1,1 +1,1 @@
-{"data": ["2023-04-23T03:02:42.536655+00:00", 10601, "Your mother is", "bankrupt", "Pronunciation: /\u02c8b\u00e6\u014bkr\u0259pt/", "Definition: financially ruined", "Synonyms: belly-up"]}
+{"data": ["2023-04-23T04:02:53.719079+00:00", 10602, "Your mother is", "gloomy", "Pronunciation: /\u02c8glumi/", "Definition: depressingly dark", "Synonyms: gloomful, glooming, sulky"]}
