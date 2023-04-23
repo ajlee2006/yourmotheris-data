@@ -1,1 +1,1 @@
-{"data": ["2023-04-23T06:02:53.502891+00:00", 10604, "Your mother is", "theoretical", "Pronunciation: /\u03b8i\u0259\u02c8r\u025bt\u026ak\u0259l/", "Definition: concerned primarily with theories or hypotheses rather than practical considerations", "Synonyms: theoretic"]}
+{"data": ["2023-04-23T07:02:33.483169+00:00", 10605, "Your mother is", "asymmetrical", "Pronunciation: /\u02cce\u026as\u028c\u02c8m\u025btr\u026ak\u028cl/", "Definition: irregular in shape or outline", "Synonyms: crooked"]}
