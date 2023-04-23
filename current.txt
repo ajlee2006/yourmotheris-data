@@ -1,1 +1,1 @@
-{"data": ["2023-04-23T17:03:11.366594+00:00", 10615, "Your mother is", "renewable", "Pronunciation: /ri\u02c8nu\u028cb\u028cl/", "Definition: capable of being renewed; replaceable", ""]}
+{"data": ["2023-04-23T18:03:19.346310+00:00", 10616, "Your mother is", "agitated", "Pronunciation: /\u02c8\u00e6d\u0292\u028c\u02ccte\u026at\u028cd/", "Definition: physically disturbed or set in motion", ""]}
