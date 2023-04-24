@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T16:03:09.187052+00:00", 10638, "Your mother is", "all-around", "Pronunciation: /\u0254l-\u0259\u02c8ra\u028and/", "Definition: many-sided", "Synonyms: all-round, well-rounded"]}
+{"data": ["2023-04-24T17:03:06.664880+00:00", 10639, "Your mother is", "semiliterate", "Pronunciation: /\u02ccs\u025bmi\u02c8l\u026at\u0259r\u026at/", "Definition: able to read but not to write", ""]}
