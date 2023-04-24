@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T01:03:16.030545+00:00", 10623, "Your mother is", "nervy", "Pronunciation: /\u02c8n\u025crvi/", "Definition: offensively bold", "Synonyms: brash, cheeky"]}
+{"data": ["2023-04-24T02:03:29.255805+00:00", 10624, "Your mother is", "caesarean", "Pronunciation: /s\u026a\u02c8z\u025cri\u0259n/", "Definition: of or relating to or in the manner of Julius Caesar", "Synonyms: caesarian"]}
