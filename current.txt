@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T21:02:34.297404+00:00", 10643, "Your mother is", "mystified", "Pronunciation: /\u02c8m\u026ast\u028c\u02ccfa\u026ad/", "Definition: totally perplexed and mixed up", "Synonyms: metagrabolised, metagrabolized, metagrobolised, metagrobolized"]}
+{"data": ["2023-04-24T22:04:15.281873+00:00", 10644, "Your mother is", "pithy", "Pronunciation: /\u02c8p\u026a\u03b8i/", "Definition: concise and full of meaning", "Synonyms: sententious"]}
