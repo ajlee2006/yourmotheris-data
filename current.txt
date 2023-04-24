@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T17:03:06.664880+00:00", 10639, "Your mother is", "semiliterate", "Pronunciation: /\u02ccs\u025bmi\u02c8l\u026at\u0259r\u026at/", "Definition: able to read but not to write", ""]}
+{"data": ["2023-04-24T18:03:20.925686+00:00", 10640, "Your mother is", "macroscopical", "Similar to: seeable", "Definition: visible to the naked eye; using the naked eye", "Synonyms: macroscopic"]}
