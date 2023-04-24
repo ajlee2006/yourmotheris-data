@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T06:03:22.960316+00:00", 10628, "Your mother is", "shocked", "Pronunciation: /\u0283\u0251kt/", "Definition: struck with fear, dread, or consternation", "Synonyms: aghast, appalled, dismayed"]}
+{"data": ["2023-04-24T07:03:03.033838+00:00", 10629, "Your mother is", "scandent", "Pronunciation: /\u02c8sk\u00e6nd\u0259nt/", "Definition: used especially of plants; having a tendency to climb", ""]}
