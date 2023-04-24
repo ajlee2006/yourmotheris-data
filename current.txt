@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T11:02:47.674025+00:00", 10633, "Your mother is", "single-minded", "Pronunciation: /\u02c8s\u026a\u014b\u0261\u0259l-\u02c8ma\u026and\u026ad/", "Definition: determined", "Synonyms: resolved"]}
+{"data": ["2023-04-24T12:02:51.188832+00:00", 10634, "Your mother is", "palatine", "Pronunciation: /\u02c8p\u00e6l\u0259\u02ccta\u026an/", "Definition: relating to or lying near the palate", "Synonyms: palatal"]}
