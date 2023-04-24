@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T04:02:31.010184+00:00", 10626, "Your mother is", "straight-out", "Pronunciation: /stre\u026at-a\u028at/", "Definition: without reservation or exception", "Synonyms: outright, unlimited"]}
+{"data": ["2023-04-24T05:02:49.604518+00:00", 10627, "Your mother is", "uncommercialized", "Similar to: noncommercial", "Definition: not having been commercialized", "Synonyms: uncommercialised"]}
