@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T13:03:22.218307+00:00", 10635, "Your mother is", "cinnamon-red", "Similar to: colored", "Definition: red tinged with cinnamon", ""]}
+{"data": ["2023-04-24T14:02:50.969174+00:00", 10636, "Your mother is", "30th", "Similar to: ordinal", "Definition: coming next after the twenty-ninth in position", "Synonyms: thirtieth"]}
