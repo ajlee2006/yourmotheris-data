@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T02:03:29.255805+00:00", 10624, "Your mother is", "caesarean", "Pronunciation: /s\u026a\u02c8z\u025cri\u0259n/", "Definition: of or relating to or in the manner of Julius Caesar", "Synonyms: caesarian"]}
+{"data": ["2023-04-24T03:03:17.068388+00:00", 10625, "Your mother is", "rallying", "Pronunciation: /\u02c8r\u00e6li\u026a\u014b/", "Definition: rousing or recalling to unity and renewed effort", ""]}
