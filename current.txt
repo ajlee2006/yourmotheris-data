@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T00:03:23.321893+00:00", 10622, "Your mother is", "for sure", "Pronunciation: /f\u0254r-\u0283\u028ar/", "Definition: not open to doubt", ""]}
+{"data": ["2023-04-24T01:03:16.030545+00:00", 10623, "Your mother is", "nervy", "Pronunciation: /\u02c8n\u025crvi/", "Definition: offensively bold", "Synonyms: brash, cheeky"]}
