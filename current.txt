@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T19:03:12.887180+00:00", 10641, "Your mother is", "exemplifying", "Pronunciation: /\u026a\u0261\u02c8z\u025bmpl\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: clarifying by use of examples", "Synonyms: illustrative"]}
+{"data": ["2023-04-24T20:03:15.346355+00:00", 10642, "Your mother is", "investigative", "Pronunciation: /\u026an\u02c8v\u025bst\u026a\u0261\u0259t\u026av/", "Definition: designed to find information or ascertain facts", "Synonyms: fact-finding, investigatory"]}
