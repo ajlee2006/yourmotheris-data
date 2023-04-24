@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T18:03:20.925686+00:00", 10640, "Your mother is", "macroscopical", "Similar to: seeable", "Definition: visible to the naked eye; using the naked eye", "Synonyms: macroscopic"]}
+{"data": ["2023-04-24T19:03:12.887180+00:00", 10641, "Your mother is", "exemplifying", "Pronunciation: /\u026a\u0261\u02c8z\u025bmpl\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: clarifying by use of examples", "Synonyms: illustrative"]}
