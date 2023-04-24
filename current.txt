@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T07:03:03.033838+00:00", 10629, "Your mother is", "scandent", "Pronunciation: /\u02c8sk\u00e6nd\u0259nt/", "Definition: used especially of plants; having a tendency to climb", ""]}
+{"data": ["2023-04-24T08:02:50.853825+00:00", 10630, "Your mother is", "abulic", "Similar to: neurotic", "Definition: suffering from abulia; showing abnormal inability to act or make decisions", "Synonyms: aboulic"]}
