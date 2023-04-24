@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T14:02:50.969174+00:00", 10636, "Your mother is", "30th", "Similar to: ordinal", "Definition: coming next after the twenty-ninth in position", "Synonyms: thirtieth"]}
+{"data": ["2023-04-24T15:02:47.268574+00:00", 10637, "Your mother is", "39th", "Similar to: ordinal", "Definition: the ordinal number of thirty-nine in counting order", "Synonyms: thirty-ninth"]}
