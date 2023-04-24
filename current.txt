@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T10:02:25.751413+00:00", 10632, "Your mother is", "particularized", "Similar to: specific", "Definition: directed toward a specific object", "Synonyms: particularised"]}
+{"data": ["2023-04-24T11:02:47.674025+00:00", 10633, "Your mother is", "single-minded", "Pronunciation: /\u02c8s\u026a\u014b\u0261\u0259l-\u02c8ma\u026and\u026ad/", "Definition: determined", "Synonyms: resolved"]}
