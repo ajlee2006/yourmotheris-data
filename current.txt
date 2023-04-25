@@ -1,1 +1,1 @@
-{"data": ["2023-04-25T06:03:05.394290+00:00", 10652, "Your mother is", "blamed", "Pronunciation: /ble\u026amd/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blasted, blessed, damn, damned, darned, deuced, goddam, goddamn, goddamned, infernal"]}
+{"data": ["2023-04-25T07:03:14.874387+00:00", 10653, "Your mother is", "decentralising", "Similar to: centrifugal", "Definition: tending away from a central point", "Synonyms: decentralizing"]}
