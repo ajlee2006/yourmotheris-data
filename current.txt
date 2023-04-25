@@ -1,1 +1,1 @@
-{"data": ["2023-04-25T03:02:42.554407+00:00", 10649, "Your mother is", "wispy", "Pronunciation: /\u02c8w\u026aspi/", "Definition: thin and weak", "Synonyms: wisplike"]}
+{"data": ["2023-04-25T04:03:03.847759+00:00", 10650, "Your mother is", "frizzly", "Pronunciation: /fr\u026azli/", "Definition: (of hair) in small tight curls", "Synonyms: crisp, frizzy, kinky, nappy"]}
