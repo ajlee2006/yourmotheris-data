@@ -1,1 +1,1 @@
-{"data": ["2023-04-25T16:02:50.027821+00:00", 10662, "Your mother is", "orthogonal", "Pronunciation: /\u0254r\u02c8\u03b8\u0251\u0261\u0259n\u00e6l/", "Definition: having a set of mutually perpendicular axes; meeting at right angles", "Synonyms: rectangular"]}
+{"data": ["2023-04-25T17:02:48.331474+00:00", 10663, "Your mother is", "unnatural", "Pronunciation: /\u0259n\u02c8n\u00e6\u02a7\u0259r\u0259l/", "Definition: speaking or behaving in an artificial way to make an impression", "Synonyms: affected"]}
