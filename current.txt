@@ -1,1 +1,1 @@
-{"data": ["2023-04-25T02:02:43.765486+00:00", 10648, "Your mother is", "bidirectional", "Pronunciation: /\u02ccba\u026ad\u026a\u02c8r\u025bk\u0283\u0259n\u0259l/", "Definition: reactive or functioning or allowing movement in two usually opposite directions", ""]}
+{"data": ["2023-04-25T03:02:42.554407+00:00", 10649, "Your mother is", "wispy", "Pronunciation: /\u02c8w\u026aspi/", "Definition: thin and weak", "Synonyms: wisplike"]}
