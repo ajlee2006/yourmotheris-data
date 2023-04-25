@@ -1,1 +1,1 @@
-{"data": ["2023-04-25T01:02:35.547783+00:00", 10647, "Your mother is", "airless", "Pronunciation: /\u02c8\u025crl\u026as/", "Definition: lacking fresh air", "Synonyms: close, stuffy, unaired"]}
+{"data": ["2023-04-25T02:02:43.765486+00:00", 10648, "Your mother is", "bidirectional", "Pronunciation: /\u02ccba\u026ad\u026a\u02c8r\u025bk\u0283\u0259n\u0259l/", "Definition: reactive or functioning or allowing movement in two usually opposite directions", ""]}
