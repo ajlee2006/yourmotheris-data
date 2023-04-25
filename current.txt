@@ -1,1 +1,1 @@
-{"data": ["2023-04-24T23:02:50.453608+00:00", 10645, "Your mother is", "unified", "Pronunciation: /\u02c8jun\u028c\u02ccfa\u026ad/", "Definition: formed or united into a whole", "Synonyms: incorporate, incorporated, integrated, merged"]}
+{"data": ["2023-04-25T00:03:51.289809+00:00", 10646, "Your mother is", "musical", "Pronunciation: /\u02c8mjuz\u026ak\u0259l/", "Definition: containing or constituting or characterized by pleasing melody", "Synonyms: melodic, melodious"]}
