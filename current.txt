@@ -1,1 +1,1 @@
-{"data": ["2023-04-25T00:03:51.289809+00:00", 10646, "Your mother is", "musical", "Pronunciation: /\u02c8mjuz\u026ak\u0259l/", "Definition: containing or constituting or characterized by pleasing melody", "Synonyms: melodic, melodious"]}
+{"data": ["2023-04-25T01:02:35.547783+00:00", 10647, "Your mother is", "airless", "Pronunciation: /\u02c8\u025crl\u026as/", "Definition: lacking fresh air", "Synonyms: close, stuffy, unaired"]}
