@@ -1,1 +1,1 @@
-{"data": ["2023-04-25T04:03:03.847759+00:00", 10650, "Your mother is", "frizzly", "Pronunciation: /fr\u026azli/", "Definition: (of hair) in small tight curls", "Synonyms: crisp, frizzy, kinky, nappy"]}
+{"data": ["2023-04-25T05:03:26.892033+00:00", 10651, "Your mother is", "orientating", "Similar to: familiarising", "Definition: positioning with respect to a reference system or determining your bearings physically or intellectually", "Synonyms: orienting"]}
