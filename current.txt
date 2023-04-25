@@ -1,1 +1,1 @@
-{"data": ["2023-04-25T09:03:27.555392+00:00", 10655, "Your mother is", "queer", "Pronunciation: /kwir/", "Definition: beyond or deviating from the usual or expected", "Synonyms: curious, funny, odd, peculiar, rum, rummy, singular"]}
+{"data": ["2023-04-25T10:03:19.380905+00:00", 10656, "Your mother is", "used", "Pronunciation: /juzd/", "Definition: (of persons) taken advantage of", "Synonyms: exploited, ill-used, put-upon, victimised, victimized"]}
