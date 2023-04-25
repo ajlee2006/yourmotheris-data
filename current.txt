@@ -1,1 +1,1 @@
-{"data": ["2023-04-25T19:03:00.866769+00:00", 10665, "Your mother is", "sinistral", "Pronunciation: /\u02c8s\u026an\u026astr\u0259l/", "Definition: of or on the left", ""]}
+{"data": ["2023-04-25T20:03:15.698950+00:00", 10666, "Your mother is", "inexperient", "Similar to: new", "Definition: lacking practical experience or training", "Synonyms: inexperienced"]}
