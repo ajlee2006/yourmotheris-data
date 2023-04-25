@@ -1,1 +1,1 @@
-{"data": ["2023-04-25T10:03:19.380905+00:00", 10656, "Your mother is", "used", "Pronunciation: /juzd/", "Definition: (of persons) taken advantage of", "Synonyms: exploited, ill-used, put-upon, victimised, victimized"]}
+{"data": ["2023-04-25T11:02:57.444961+00:00", 10657, "Your mother is", "ain", "Pronunciation: /e\u026an/", "Definition: belonging to or on behalf of a specified person (especially yourself); preceded by a possessive", "Synonyms: own"]}
