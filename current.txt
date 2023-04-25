@@ -1,1 +1,1 @@
-{"data": ["2023-04-25T11:02:57.444961+00:00", 10657, "Your mother is", "ain", "Pronunciation: /e\u026an/", "Definition: belonging to or on behalf of a specified person (especially yourself); preceded by a possessive", "Synonyms: own"]}
+{"data": ["2023-04-25T12:03:14.504890+00:00", 10658, "Your mother is", "gastric", "Pronunciation: /\u02c8\u0261\u00e6str\u026ak/", "Definition: relating to or involving the stomach", "Synonyms: stomachal, stomachic"]}
