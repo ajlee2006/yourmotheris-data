@@ -1,1 +1,1 @@
-{"data": ["2023-04-25T18:03:15.844193+00:00", 10664, "Your mother is", "monochromic", "Similar to: colored", "Definition: having or appearing to have only one color", "Synonyms: monochromatic, monochrome, monochromous"]}
+{"data": ["2023-04-25T19:03:00.866769+00:00", 10665, "Your mother is", "sinistral", "Pronunciation: /\u02c8s\u026an\u026astr\u0259l/", "Definition: of or on the left", ""]}
