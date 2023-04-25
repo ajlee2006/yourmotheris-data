@@ -1,1 +1,1 @@
-{"data": ["2023-04-25T15:03:17.404264+00:00", 10661, "Your mother is", "triplex", "Pronunciation: /\u02c8tr\u026apl\u025bks/", "Definition: having three units or components or elements", "Synonyms: ternary, treble, triple"]}
+{"data": ["2023-04-25T16:02:50.027821+00:00", 10662, "Your mother is", "orthogonal", "Pronunciation: /\u0254r\u02c8\u03b8\u0251\u0261\u0259n\u00e6l/", "Definition: having a set of mutually perpendicular axes; meeting at right angles", "Synonyms: rectangular"]}
