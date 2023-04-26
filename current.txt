@@ -1,1 +1,1 @@
-{"data": ["2023-04-26T00:04:16.653215+00:00", 10670, "Your mother is", "unavoidable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8v\u0254\u026ad\u0259b\u0259l/", "Definition: impossible to avoid or evade", "Synonyms: ineluctable, inescapable"]}
+{"data": ["2023-04-26T01:02:39.350099+00:00", 10671, "Your mother is", "lash-like", "", "Definition: having or resembling a lash or whip (as does a flagellum)", "Synonyms: flagellate, flagellated, whiplike"]}
