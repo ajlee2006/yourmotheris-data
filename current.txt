@@ -1,1 +1,1 @@
-{"data": ["2023-04-26T12:02:42.949932+00:00", 10682, "Your mother is", "inconclusive", "Pronunciation: /\u02cc\u026ank\u0259n\u02c8klus\u026av/", "Definition: not conclusive; not putting an end to doubt or question", ""]}
+{"data": ["2023-04-26T13:02:40.682385+00:00", 10683, "Your mother is", "adulterated", "Pronunciation: /\u028c\u02c8d\u028clt\u025dr\u02cce\u026at\u026ad/", "Definition: mixed with impurities", "Synonyms: adulterate, debased"]}
