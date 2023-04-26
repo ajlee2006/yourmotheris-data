@@ -1,1 +1,1 @@
-{"data": ["2023-04-25T23:02:59.289440+00:00", 10669, "Your mother is", "biped", "Pronunciation: /\u02c8ba\u026ap\u025bd/", "Definition: having two feet", "Synonyms: bipedal, two-footed"]}
+{"data": ["2023-04-26T00:04:16.653215+00:00", 10670, "Your mother is", "unavoidable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8v\u0254\u026ad\u0259b\u0259l/", "Definition: impossible to avoid or evade", "Synonyms: ineluctable, inescapable"]}
