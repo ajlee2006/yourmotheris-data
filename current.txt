@@ -1,1 +1,1 @@
-{"data": ["2023-04-26T18:03:21.945846+00:00", 10688, "Your mother is", "anuran", "Pronunciation: /\u0259\u02c8n\u028ar\u0259n/", "Definition: relating to frogs and toads", "Synonyms: batrachian, salientian"]}
+{"data": ["2023-04-26T19:02:24.083256+00:00", 10689, "Your mother is", "self-consistent", "Pronunciation: /s\u025blf-k\u0259n\u02c8s\u026ast\u0259nt/", "Definition: not self-contradictory", ""]}
