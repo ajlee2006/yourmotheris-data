@@ -1,1 +1,1 @@
-{"data": ["2023-04-26T15:02:58.844218+00:00", 10685, "Your mother is", "hole-in-corner", "Pronunciation: /\u02c8ho\u028al\u026an\u02c8k\u0254rn\u0259r/", "Definition: relating to the peripheral and unimportant aspects of life", "Synonyms: hole-and-corner"]}
+{"data": ["2023-04-26T16:02:34.402672+00:00", 10686, "Your mother is", "carbonaceous", "Pronunciation: /\u02cck\u0251rb\u0259\u02c8ne\u026a\u0283\u0259s/", "Definition: relating to or consisting of or yielding carbon", "Synonyms: carbonic, carboniferous, carbonous"]}
