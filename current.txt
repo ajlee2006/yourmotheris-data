@@ -1,1 +1,1 @@
-{"data": ["2023-04-26T14:02:26.421319+00:00", 10684, "Your mother is", "tortuous", "Pronunciation: /\u02c8t\u0254r\u02a7u\u0259s/", "Definition: highly complex or intricate and occasionally devious", "Synonyms: byzantine, convoluted, involved, knotty, tangled"]}
+{"data": ["2023-04-26T15:02:58.844218+00:00", 10685, "Your mother is", "hole-in-corner", "Pronunciation: /\u02c8ho\u028al\u026an\u02c8k\u0254rn\u0259r/", "Definition: relating to the peripheral and unimportant aspects of life", "Synonyms: hole-and-corner"]}
