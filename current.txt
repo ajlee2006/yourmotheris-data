@@ -1,1 +1,1 @@
-{"data": ["2023-04-26T07:03:16.876681+00:00", 10677, "Your mother is", "illegible", "Pronunciation: /\u026a\u02c8l\u025bd\u0292\u0259b\u0259l/", "Definition: (of handwriting, print, etc.) not legible", ""]}
+{"data": ["2023-04-26T08:03:14.278613+00:00", 10678, "Your mother is", "localised", "Similar to: decentralised", "Definition: made local or oriented locally", "Synonyms: localized"]}
