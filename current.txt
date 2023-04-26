@@ -1,1 +1,1 @@
-{"data": ["2023-04-26T03:02:42.206156+00:00", 10673, "Your mother is", "blasted", "Pronunciation: /\u02c8bl\u00e6st\u026ad/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blessed, damn, damned, darned, deuced, goddam, goddamn, goddamned, infernal"]}
+{"data": ["2023-04-26T04:02:56.976694+00:00", 10674, "Your mother is", "prejudicial", "Pronunciation: /\u02ccpr\u025bd\u0292\u028a\u02c8d\u026a\u0283\u0259l/", "Definition: tending to favor preconceived ideas", "Synonyms: prejudicious"]}
