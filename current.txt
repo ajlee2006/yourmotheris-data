@@ -1,1 +1,1 @@
-{"data": ["2023-04-26T17:03:20.401610+00:00", 10687, "Your mother is", "78", "Similar to: cardinal", "Definition: being eight more than seventy", "Synonyms: lxxviii, seventy-eight"]}
+{"data": ["2023-04-26T18:03:21.945846+00:00", 10688, "Your mother is", "anuran", "Pronunciation: /\u0259\u02c8n\u028ar\u0259n/", "Definition: relating to frogs and toads", "Synonyms: batrachian, salientian"]}
