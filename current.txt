@@ -1,1 +1,1 @@
-{"data": ["2023-04-26T11:03:02.491764+00:00", 10681, "Your mother is", ".38 calibre", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures thirty-eight hundredths of an inch in diameter", "Synonyms: .38-caliber, .38-calibre, .38 caliber"]}
+{"data": ["2023-04-26T12:02:42.949932+00:00", 10682, "Your mother is", "inconclusive", "Pronunciation: /\u02cc\u026ank\u0259n\u02c8klus\u026av/", "Definition: not conclusive; not putting an end to doubt or question", ""]}
