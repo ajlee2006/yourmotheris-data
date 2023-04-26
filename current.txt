@@ -1,1 +1,1 @@
-{"data": ["2023-04-26T05:03:02.335050+00:00", 10675, "Your mother is", "28", "Similar to: cardinal", "Definition: being eight more than twenty", "Synonyms: twenty-eight, xxviii"]}
+{"data": ["2023-04-26T06:03:25.528629+00:00", 10676, "Your mother is", "branchiopod", "Pronunciation: /\u02c8br\u00e6\u014bki\u0259\u02ccp\u0251d/", "Definition: of or relating to or characteristic of the subclass Branchiopoda", "Synonyms: branchiopodan, branchiopodous"]}
