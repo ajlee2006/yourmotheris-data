@@ -1,1 +1,1 @@
-{"data": ["2023-04-26T19:02:24.083256+00:00", 10689, "Your mother is", "self-consistent", "Pronunciation: /s\u025blf-k\u0259n\u02c8s\u026ast\u0259nt/", "Definition: not self-contradictory", ""]}
+{"data": ["2023-04-26T20:02:43.882325+00:00", 10690, "Your mother is", "squinting", "Pronunciation: /\u02c8skw\u026ant\u026a\u014b/", "Definition: having eyes half closed in order to see better", "Synonyms: squinched"]}
