@@ -1,1 +1,1 @@
-{"data": ["2023-04-27T03:02:22.902327+00:00", 10697, "Your mother is", "disinclined", "Pronunciation: /\u02ccd\u026as\u026an\u02c8kla\u026and/", "Definition: unwilling because of mild dislike or disapproval", ""]}
+{"data": ["2023-04-27T04:02:51.404391+00:00", 10698, "Your mother is", "downhearted", "Pronunciation: /\u02c8da\u028an\u02c8h\u0251rt\u026ad/", "Definition: filled with melancholy and despondency", "Synonyms: blue, depressed, dispirited, down, down in the mouth, downcast, gloomy, grim, low, low-spirited"]}
