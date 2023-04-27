@@ -1,1 +1,1 @@
-{"data": ["2023-04-27T02:02:49.141305+00:00", 10696, "Your mother is", "peachy-colored", "Similar to: chromatic", "Definition: of something resembling a peach in color", "Synonyms: peachy, peachy-coloured"]}
+{"data": ["2023-04-27T03:02:22.902327+00:00", 10697, "Your mother is", "disinclined", "Pronunciation: /\u02ccd\u026as\u026an\u02c8kla\u026and/", "Definition: unwilling because of mild dislike or disapproval", ""]}
