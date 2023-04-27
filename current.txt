@@ -1,1 +1,1 @@
-{"data": ["2023-04-27T07:03:11.026545+00:00", 10701, "Your mother is", "alimentary", "Pronunciation: /\u02cc\u00e6l\u0259\u02c8m\u025bnt\u0259ri/", "Definition: of or providing nourishment", "Synonyms: alimental, nourishing, nutrient, nutritious, nutritive"]}
+{"data": ["2023-04-27T08:03:02.817239+00:00", 10702, "Your mother is", "innovative", "Pronunciation: /\u02c8\u026an\u028c\u02ccve\u026at\u026av/", "Definition: being or producing something like nothing done or experienced or created before", "Synonyms: groundbreaking, innovational"]}
