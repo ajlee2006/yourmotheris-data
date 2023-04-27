@@ -1,1 +1,1 @@
-{"data": ["2023-04-27T19:03:22.783158+00:00", 10713, "Your mother is", "brummagem", "Pronunciation: /\u02c8br\u0259m\u0259d\u0292\u0259m/", "Definition: cheap and showy", ""]}
+{"data": ["2023-04-27T20:02:54.647449+00:00", 10714, "Your mother is", "weekly", "Pronunciation: /\u02c8wikli/", "Definition: of or occurring every seven days", "Synonyms: hebdomadal, hebdomadary"]}
