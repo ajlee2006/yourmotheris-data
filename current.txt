@@ -1,1 +1,1 @@
-{"data": ["2023-04-26T23:02:44.490393+00:00", 10693, "Your mother is", "skeptical", "Pronunciation: /\u02c8sk\u025bpt\u026ak\u0259l/", "Definition: marked by or given to doubt", "Synonyms: doubting, questioning, sceptical"]}
+{"data": ["2023-04-27T00:04:02.222375+00:00", 10694, "Your mother is", "well-branched", "Similar to: branchy", "Definition: having good branches", ""]}
