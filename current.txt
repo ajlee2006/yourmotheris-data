@@ -1,1 +1,1 @@
-{"data": ["2023-04-27T18:03:20.620361+00:00", 10712, "Your mother is", "trumpet-shaped", "Pronunciation: /\u02c8tr\u0259mp\u026at-\u0283e\u026apt/", "Definition: shaped in the form of a trumpet", ""]}
+{"data": ["2023-04-27T19:03:22.783158+00:00", 10713, "Your mother is", "brummagem", "Pronunciation: /\u02c8br\u0259m\u0259d\u0292\u0259m/", "Definition: cheap and showy", ""]}
