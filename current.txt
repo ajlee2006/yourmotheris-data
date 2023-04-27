@@ -1,1 +1,1 @@
-{"data": ["2023-04-27T06:02:49.425967+00:00", 10700, "Your mother is", "exploitatory", "Pronunciation: /\u026ak\u02c8spl\u0254\u026at\u0259\u02ccto\u028ari/", "Definition: tending to exploit or make use of", "Synonyms: exploitative, exploitive"]}
+{"data": ["2023-04-27T07:03:11.026545+00:00", 10701, "Your mother is", "alimentary", "Pronunciation: /\u02cc\u00e6l\u0259\u02c8m\u025bnt\u0259ri/", "Definition: of or providing nourishment", "Synonyms: alimental, nourishing, nutrient, nutritious, nutritive"]}
