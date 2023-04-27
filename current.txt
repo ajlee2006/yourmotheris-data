@@ -1,1 +1,1 @@
-{"data": ["2023-04-27T00:04:02.222375+00:00", 10694, "Your mother is", "well-branched", "Similar to: branchy", "Definition: having good branches", ""]}
+{"data": ["2023-04-27T01:03:04.779764+00:00", 10695, "Your mother is", "unhazardous", "Similar to: safe", "Definition: thought to be devoid of risk", "Synonyms: risk-free, riskless"]}
