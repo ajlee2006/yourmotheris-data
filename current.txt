@@ -1,1 +1,1 @@
-{"data": ["2023-04-27T15:02:38.782616+00:00", 10709, "Your mother is", "carboniferous", "Pronunciation: /\u02cck\u0251rb\u0259\u02c8n\u026af\u0259r\u0259s/", "Definition: relating to or consisting of or yielding carbon", "Synonyms: carbonaceous, carbonic, carbonous"]}
+{"data": ["2023-04-27T16:02:51.969436+00:00", 10710, "Your mother is", "conelike", "", "Definition: relating to or resembling a cone", "Synonyms: cone-shaped, conic, conical"]}
