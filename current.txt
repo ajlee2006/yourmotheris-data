@@ -1,1 +1,1 @@
-{"data": ["2023-04-27T20:02:54.647449+00:00", 10714, "Your mother is", "weekly", "Pronunciation: /\u02c8wikli/", "Definition: of or occurring every seven days", "Synonyms: hebdomadal, hebdomadary"]}
+{"data": ["2023-04-27T21:02:33.506660+00:00", 10715, "Your mother is", "blastular", "", "Definition: of or relating to a blastula", "Synonyms: blastospheric"]}
