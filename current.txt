@@ -1,1 +1,1 @@
-{"data": ["2023-04-27T04:02:51.404391+00:00", 10698, "Your mother is", "downhearted", "Pronunciation: /\u02c8da\u028an\u02c8h\u0251rt\u026ad/", "Definition: filled with melancholy and despondency", "Synonyms: blue, depressed, dispirited, down, down in the mouth, downcast, gloomy, grim, low, low-spirited"]}
+{"data": ["2023-04-27T05:02:42.973810+00:00", 10699, "Your mother is", "unburnished", "Similar to: unpolished", "Definition: of metals e.g.; not made shiny and smooth by friction", ""]}
