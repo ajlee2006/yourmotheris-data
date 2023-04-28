@@ -1,1 +1,1 @@
-{"data": ["2023-04-28T11:02:30.054082+00:00", 10729, "Your mother is", "fruit-eating", "Pronunciation: /frut-\u02c8it\u026a\u014b/", "Definition: feeding on fruit", "Synonyms: carpophagous"]}
+{"data": ["2023-04-28T12:03:20.359711+00:00", 10730, "Your mother is", "unsynchronized", "Similar to: asynchronous", "Definition: not occurring together", "Synonyms: nonsynchronous, unsynchronised, unsynchronous"]}
