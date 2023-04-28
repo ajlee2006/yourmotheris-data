@@ -1,1 +1,1 @@
-{"data": ["2023-04-28T13:03:18.099420+00:00", 10731, "Your mother is", "cursed", "Pronunciation: /\u02c8k\u025crs\u026ad/", "Definition: deserving a curse; sometimes used as an intensifier", "Synonyms: curst"]}
+{"data": ["2023-04-28T14:02:28.896644+00:00", 10732, "Your mother is", "wispy", "Pronunciation: /\u02c8w\u026aspi/", "Definition: thin and weak", "Synonyms: wisplike"]}
