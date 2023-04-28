@@ -1,1 +1,1 @@
-{"data": ["2023-04-28T15:03:12.300407+00:00", 10733, "Your mother is", "semi-formal", "Similar to: formal", "Definition: moderately formal; requiring a dinner jacket", "Synonyms: black-tie, semiformal"]}
+{"data": ["2023-04-28T16:03:11.648096+00:00", 10734, "Your mother is", "apologetic", "Pronunciation: /\u0259\u02ccp\u0251l\u0259\u02c8d\u0292\u025bt\u026ak/", "Definition: offering or expressing apology", "Synonyms: excusatory"]}
