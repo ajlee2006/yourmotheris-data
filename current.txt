@@ -1,1 +1,1 @@
-{"data": ["2023-04-28T20:03:14.376687+00:00", 10738, "Your mother is", "oracular", "Pronunciation: /o\u028a\u02c8r\u00e6kj\u0259l\u0259r/", "Definition: resembling an oracle in obscurity of thought", "Synonyms: enigmatic"]}
+{"data": ["2023-04-28T21:03:08.885655+00:00", 10739, "Your mother is", "esthetical", "Pronunciation: /\u025bs\u02c8\u03b8\u025bt\u026ak\u0259l/", "Definition: concerning or characterized by an appreciation of beauty or good taste", "Synonyms: aesthetic, aesthetical, esthetic"]}
