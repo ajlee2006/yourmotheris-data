@@ -1,1 +1,1 @@
-{"data": ["2023-04-28T03:03:11.065862+00:00", 10721, "Your mother is", "upright", "Pronunciation: /\u02c8\u0259p\u02ccra\u026at/", "Definition: in a vertical position; not sloping", "Synonyms: unsloped"]}
+{"data": ["2023-04-28T04:02:38.106281+00:00", 10722, "Your mother is", "setaceous", "Pronunciation: /s\u026a\u02c8te\u026a\u0283\u0259s/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristled, bristly, burred, burry, prickly, setose, spiny, thorny"]}
