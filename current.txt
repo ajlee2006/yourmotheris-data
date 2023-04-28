@@ -1,1 +1,1 @@
-{"data": ["2023-04-28T16:03:11.648096+00:00", 10734, "Your mother is", "apologetic", "Pronunciation: /\u0259\u02ccp\u0251l\u0259\u02c8d\u0292\u025bt\u026ak/", "Definition: offering or expressing apology", "Synonyms: excusatory"]}
+{"data": ["2023-04-28T17:03:26.588533+00:00", 10735, "Your mother is", "saprobic", "", "Definition: living in or being an environment rich in organic matter but lacking oxygen", ""]}
