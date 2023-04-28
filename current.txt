@@ -1,1 +1,1 @@
-{"data": ["2023-04-28T09:02:32.175210+00:00", 10727, "Your mother is", "zany", "Pronunciation: /\u02c8ze\u026ani/", "Definition: ludicrous, foolish", "Synonyms: goofy, silly, wacky, whacky"]}
+{"data": ["2023-04-28T10:02:50.367088+00:00", 10728, "Your mother is", "broody", "Pronunciation: /\u02c8brudi/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, contemplative, meditative, musing, pensive, pondering, reflective, ruminative"]}
