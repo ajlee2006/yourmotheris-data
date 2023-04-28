@@ -1,1 +1,1 @@
-{"data": ["2023-04-28T10:02:50.367088+00:00", 10728, "Your mother is", "broody", "Pronunciation: /\u02c8brudi/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, contemplative, meditative, musing, pensive, pondering, reflective, ruminative"]}
+{"data": ["2023-04-28T11:02:30.054082+00:00", 10729, "Your mother is", "fruit-eating", "Pronunciation: /frut-\u02c8it\u026a\u014b/", "Definition: feeding on fruit", "Synonyms: carpophagous"]}
