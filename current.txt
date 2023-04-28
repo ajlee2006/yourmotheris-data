@@ -1,1 +1,1 @@
-{"data": ["2023-04-28T12:03:20.359711+00:00", 10730, "Your mother is", "unsynchronized", "Similar to: asynchronous", "Definition: not occurring together", "Synonyms: nonsynchronous, unsynchronised, unsynchronous"]}
+{"data": ["2023-04-28T13:03:18.099420+00:00", 10731, "Your mother is", "cursed", "Pronunciation: /\u02c8k\u025crs\u026ad/", "Definition: deserving a curse; sometimes used as an intensifier", "Synonyms: curst"]}
