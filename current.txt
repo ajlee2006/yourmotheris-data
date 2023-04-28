@@ -1,1 +1,1 @@
-{"data": ["2023-04-28T04:02:38.106281+00:00", 10722, "Your mother is", "setaceous", "Pronunciation: /s\u026a\u02c8te\u026a\u0283\u0259s/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, barbellate, briary, briery, bristled, bristly, burred, burry, prickly, setose, spiny, thorny"]}
+{"data": ["2023-04-28T05:03:00.506920+00:00", 10723, "Your mother is", "trim", "Pronunciation: /tr\u026am/", "Definition: thin and fit", "Synonyms: spare"]}
