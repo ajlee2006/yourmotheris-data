@@ -1,1 +1,1 @@
-{"data": ["2023-04-28T22:02:56.715852+00:00", 10740, "Your mother is", "brute", "Pronunciation: /brut/", "Definition: resembling a beast; showing lack of human sensibility", "Synonyms: beastly, bestial, brutal, brutish"]}
+{"data": ["2023-04-28T23:03:03.753597+00:00", 10741, "Your mother is", "master", "Pronunciation: /\u02c8m\u00e6st\u0259r/", "Definition: most important element", "Synonyms: chief, main, primary, principal"]}
