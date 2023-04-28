@@ -1,1 +1,1 @@
-{"data": ["2023-04-28T00:03:44.014446+00:00", 10718, "Your mother is", "inconclusive", "Pronunciation: /\u02cc\u026ank\u0259n\u02c8klus\u026av/", "Definition: not conclusive; not putting an end to doubt or question", ""]}
+{"data": ["2023-04-28T01:02:39.709883+00:00", 10719, "Your mother is", "sensitising", "", "Definition: making susceptible or sensitive to either physical or emotional stimuli", "Synonyms: sensitizing"]}
