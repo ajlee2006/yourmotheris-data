@@ -1,1 +1,1 @@
-{"data": ["2023-04-28T14:02:28.896644+00:00", 10732, "Your mother is", "wispy", "Pronunciation: /\u02c8w\u026aspi/", "Definition: thin and weak", "Synonyms: wisplike"]}
+{"data": ["2023-04-28T15:03:12.300407+00:00", 10733, "Your mother is", "semi-formal", "Similar to: formal", "Definition: moderately formal; requiring a dinner jacket", "Synonyms: black-tie, semiformal"]}
