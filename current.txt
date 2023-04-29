@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T19:02:49.518673+00:00", 10761, "Your mother is", "precious", "Pronunciation: /\u02c8pr\u025b\u0283\u0259s/", "Definition: obviously contrived to charm", "Synonyms: cute"]}
+{"data": ["2023-04-29T20:03:29.102336+00:00", 10762, "Your mother is", "unadorned", "Pronunciation: /\u02cc\u028cn\u028c\u02c8d\u0254rnd/", "Definition: not decorated with something to increase its beauty or distinction", "Synonyms: undecorated"]}
