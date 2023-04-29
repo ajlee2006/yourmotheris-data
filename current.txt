@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T18:03:02.044532+00:00", 10760, "Your mother is", "anfractuous", "Pronunciation: /\u00e6n\u02c8fr\u00e6k\u02a7u\u0259s/", "Definition: full of twists and turns", ""]}
+{"data": ["2023-04-29T19:02:49.518673+00:00", 10761, "Your mother is", "precious", "Pronunciation: /\u02c8pr\u025b\u0283\u0259s/", "Definition: obviously contrived to charm", "Synonyms: cute"]}
