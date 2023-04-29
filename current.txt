@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T20:03:29.102336+00:00", 10762, "Your mother is", "unadorned", "Pronunciation: /\u02cc\u028cn\u028c\u02c8d\u0254rnd/", "Definition: not decorated with something to increase its beauty or distinction", "Synonyms: undecorated"]}
+{"data": ["2023-04-29T21:03:16.298364+00:00", 10763, "Your mother is", "long-playing", "Pronunciation: /\u02c8l\u0254\u014b\u02c8ple\u026a\u026a\u014b/", "Definition: (used of records) playing at a slower speed and for a longer time than earlier records", "Synonyms: long-play"]}
