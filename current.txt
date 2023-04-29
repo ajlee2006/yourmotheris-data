@@ -1,1 +1,1 @@
-{"data": ["2023-04-28T23:03:03.753597+00:00", 10741, "Your mother is", "master", "Pronunciation: /\u02c8m\u00e6st\u0259r/", "Definition: most important element", "Synonyms: chief, main, primary, principal"]}
+{"data": ["2023-04-29T00:03:45.717049+00:00", 10742, "Your mother is", "anorthic", "Pronunciation: /\u00e6n\u02c8\u0254r\u03b8\u026ak/", "Definition: having three unequal crystal axes intersecting at oblique angles", "Synonyms: triclinic"]}
