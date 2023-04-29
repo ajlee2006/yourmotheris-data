@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T16:03:21.018826+00:00", 10758, "Your mother is", "synthetical", "", "Definition: involving or of the nature of synthesis (combining separate elements to form a coherent whole) as opposed to analysis", "Synonyms: synthetic"]}
+{"data": ["2023-04-29T17:02:55.667700+00:00", 10759, "Your mother is", "scalloped", "Pronunciation: /\u02c8sk\u0251l\u028cpt/", "Definition: having a margin with rounded scallops", "Synonyms: crenate, crenated"]}
