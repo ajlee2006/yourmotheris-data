@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T15:02:35.016219+00:00", 10757, "Your mother is", "sharp-set", "Pronunciation: /\u0283\u0251rp-s\u025bt/", "Definition: extremely hungry", "Synonyms: esurient, famished, ravenous, starved"]}
+{"data": ["2023-04-29T16:03:21.018826+00:00", 10758, "Your mother is", "synthetical", "", "Definition: involving or of the nature of synthesis (combining separate elements to form a coherent whole) as opposed to analysis", "Synonyms: synthetic"]}
