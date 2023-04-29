@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T21:03:16.298364+00:00", 10763, "Your mother is", "long-playing", "Pronunciation: /\u02c8l\u0254\u014b\u02c8ple\u026a\u026a\u014b/", "Definition: (used of records) playing at a slower speed and for a longer time than earlier records", "Synonyms: long-play"]}
+{"data": ["2023-04-29T22:03:13.020944+00:00", 10764, "Your mother is", "unharmonious", "Pronunciation: /\u02cc\u0259nh\u0251r\u02c8mo\u028ani\u0259s/", "Definition: not in harmony", "Synonyms: inharmonious"]}
