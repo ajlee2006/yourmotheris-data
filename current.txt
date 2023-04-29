@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T11:02:30.518059+00:00", 10753, "Your mother is", "101st", "Similar to: ordinal", "Definition: the ordinal number of one hundred one in counting order", "Synonyms: hundred-and-first"]}
+{"data": ["2023-04-29T12:02:51.175341+00:00", 10754, "Your mother is", "inbound", "Pronunciation: /\u02c8\u026an\u02c8ba\u028and/", "Definition: directed or moving inward or toward a center", "Synonyms: inward"]}
