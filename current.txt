@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T14:02:22.308812+00:00", 10756, "Your mother is", "cloudy", "Pronunciation: /\u02c8kla\u028adi/", "Definition: lacking definite form or limits", "Synonyms: nebulose, nebulous"]}
+{"data": ["2023-04-29T15:02:35.016219+00:00", 10757, "Your mother is", "sharp-set", "Pronunciation: /\u0283\u0251rp-s\u025bt/", "Definition: extremely hungry", "Synonyms: esurient, famished, ravenous, starved"]}
