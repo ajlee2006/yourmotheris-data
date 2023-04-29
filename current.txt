@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T01:02:24.016981+00:00", 10743, "Your mother is", "sharp-eared", "Pronunciation: /\u0283\u0251rp-ird/", "Definition: having keen hearing", "Synonyms: quick-eared"]}
+{"data": ["2023-04-29T02:02:24.750445+00:00", 10744, "Your mother is", "pink-slipped", "Similar to: unemployed", "Definition: having lost your job", "Synonyms: discharged, dismissed, fired, laid-off"]}
