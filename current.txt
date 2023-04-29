@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T05:02:41.807369+00:00", 10747, "Your mother is", "self-sown", "Pronunciation: /\u02c8s\u025blf\u02c8so\u028an/", "Definition: growing from seed dispersed by natural agency such as wind or birds", "Synonyms: self-seeded, self-sowed"]}
+{"data": ["2023-04-29T06:03:19.783688+00:00", 10748, "Your mother is", "frustrative", "Pronunciation: /\u02c8fr\u0259stre\u026at\u026av/", "Definition: preventing realization or attainment of a desire", "Synonyms: frustrating, thwarting"]}
