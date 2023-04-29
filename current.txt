@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T22:03:13.020944+00:00", 10764, "Your mother is", "unharmonious", "Pronunciation: /\u02cc\u0259nh\u0251r\u02c8mo\u028ani\u0259s/", "Definition: not in harmony", "Synonyms: inharmonious"]}
+{"data": ["2023-04-29T23:03:01.404313+00:00", 10765, "Your mother is", "hifalutin", "Pronunciation: /\u02ccha\u026af\u0259\u02c8lut\u0259n/", "Definition: affectedly genteel", "Synonyms: grandiose, highfalutin, highfaluting, hoity-toity, la-di-da"]}
