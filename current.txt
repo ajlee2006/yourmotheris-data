@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T07:03:04.279535+00:00", 10749, "Your mother is", "encouraging", "Pronunciation: /\u025bn\u02c8k\u025dr\u026ad\u0292\u026a\u014b/", "Definition: furnishing support and encouragement", "Synonyms: supporting"]}
+{"data": ["2023-04-29T08:03:20.593852+00:00", 10750, "Your mother is", "gammy", "Pronunciation: /\u02c8\u0261\u00e6mi/", "Definition: (British informal) sore or lame", ""]}
