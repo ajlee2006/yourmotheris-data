@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T12:02:51.175341+00:00", 10754, "Your mother is", "inbound", "Pronunciation: /\u02c8\u026an\u02c8ba\u028and/", "Definition: directed or moving inward or toward a center", "Synonyms: inward"]}
+{"data": ["2023-04-29T13:02:50.088976+00:00", 10755, "Your mother is", "irruptive", "Pronunciation: /\u026a\u02c8r\u0259pt\u026av/", "Definition: of igneous rock that has solidified beneath the earth's surface; granite or diorite or gabbro", "Synonyms: plutonic"]}
