@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T17:02:55.667700+00:00", 10759, "Your mother is", "scalloped", "Pronunciation: /\u02c8sk\u0251l\u028cpt/", "Definition: having a margin with rounded scallops", "Synonyms: crenate, crenated"]}
+{"data": ["2023-04-29T18:03:02.044532+00:00", 10760, "Your mother is", "anfractuous", "Pronunciation: /\u00e6n\u02c8fr\u00e6k\u02a7u\u0259s/", "Definition: full of twists and turns", ""]}
