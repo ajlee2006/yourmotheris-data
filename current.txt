@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T02:02:24.750445+00:00", 10744, "Your mother is", "pink-slipped", "Similar to: unemployed", "Definition: having lost your job", "Synonyms: discharged, dismissed, fired, laid-off"]}
+{"data": ["2023-04-29T03:02:36.238255+00:00", 10745, "Your mother is", "wavy", "Pronunciation: /\u02c8we\u026avi/", "Definition: uneven by virtue of having wrinkles or waves", "Synonyms: crinkled, crinkly, rippled, wavelike"]}
