@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T13:02:50.088976+00:00", 10755, "Your mother is", "irruptive", "Pronunciation: /\u026a\u02c8r\u0259pt\u026av/", "Definition: of igneous rock that has solidified beneath the earth's surface; granite or diorite or gabbro", "Synonyms: plutonic"]}
+{"data": ["2023-04-29T14:02:22.308812+00:00", 10756, "Your mother is", "cloudy", "Pronunciation: /\u02c8kla\u028adi/", "Definition: lacking definite form or limits", "Synonyms: nebulose, nebulous"]}
