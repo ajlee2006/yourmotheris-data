@@ -1,1 +1,1 @@
-{"data": ["2023-04-30T11:02:33.257556+00:00", 10777, "Your mother is", "smiling", "Pronunciation: /\u02c8sma\u026al\u026a\u014b/", "Definition: smiling with happiness or optimism", "Synonyms: beamish, twinkly"]}
+{"data": ["2023-04-30T12:02:51.035130+00:00", 10778, "Your mother is", "regimented", "Pronunciation: /\u02c8r\u025bd\u0292\u028c\u02ccm\u025bnt\u026ad/", "Definition: strictly controlled", ""]}
