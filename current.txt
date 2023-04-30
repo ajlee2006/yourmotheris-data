@@ -1,1 +1,1 @@
-{"data": ["2023-04-30T00:04:03.003829+00:00", 10766, "Your mother is", "nosy", "Pronunciation: /\u02c8no\u028azi/", "Definition: offensively curious or inquisitive", "Synonyms: nosey, prying, snoopy"]}
+{"data": ["2023-04-30T01:02:39.449797+00:00", 10767, "Your mother is", "vagal", "Pronunciation: /\u02c8ve\u026a\u0261\u0259l/", "Definition: of or relating to the vagus nerve", "Synonyms: pneumogastric"]}
