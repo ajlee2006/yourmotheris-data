@@ -1,1 +1,1 @@
-{"data": ["2023-04-30T18:02:55.628268+00:00", 10784, "Your mother is", "au courant", "Pronunciation: /o\u028a-ku\u02ccR\u0251\u014b/", "Definition: being up to particular standard or level especially in being up to date in knowledge", "Synonyms: abreast, au fait, up on"]}
+{"data": ["2023-04-30T19:02:45.593242+00:00", 10785, "Your mother is", "unsarcastic", "", "Definition: not sarcastic", ""]}
