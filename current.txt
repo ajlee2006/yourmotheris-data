@@ -1,1 +1,1 @@
-{"data": ["2023-04-30T16:02:52.509329+00:00", 10782, "Your mother is", "heartening", "Pronunciation: /\u02c8h\u0251rt\u028cn\u026a\u014b/", "Definition: cheerfully encouraging", "Synonyms: inspiriting"]}
+{"data": ["2023-04-30T17:02:58.575280+00:00", 10783, "Your mother is", "consentient", "Pronunciation: /k\u0259n\u02c8s\u025bn\u0283\u0259nt/", "Definition: in complete agreement", "Synonyms: consentaneous, unanimous"]}
