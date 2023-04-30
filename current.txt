@@ -1,1 +1,1 @@
-{"data": ["2023-04-30T17:02:58.575280+00:00", 10783, "Your mother is", "consentient", "Pronunciation: /k\u0259n\u02c8s\u025bn\u0283\u0259nt/", "Definition: in complete agreement", "Synonyms: consentaneous, unanimous"]}
+{"data": ["2023-04-30T18:02:55.628268+00:00", 10784, "Your mother is", "au courant", "Pronunciation: /o\u028a-ku\u02ccR\u0251\u014b/", "Definition: being up to particular standard or level especially in being up to date in knowledge", "Synonyms: abreast, au fait, up on"]}
