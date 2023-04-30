@@ -1,1 +1,1 @@
-{"data": ["2023-04-30T09:03:01.156430+00:00", 10775, "Your mother is", "antsy", "Pronunciation: /\u02c8\u00e6ntsi/", "Definition: nervous and unable to relax", "Synonyms: fidgety, fretful, itchy"]}
+{"data": ["2023-04-30T10:02:36.557614+00:00", 10776, "Your mother is", "spiteful", "Pronunciation: /\u02c8spa\u026atf\u0259l/", "Definition: showing malicious ill will and a desire to hurt; motivated by spite", "Synonyms: despiteful, vindictive"]}
