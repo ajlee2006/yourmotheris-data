@@ -1,1 +1,1 @@
-{"data": ["2023-04-30T07:02:45.956217+00:00", 10773, "Your mother is", "abused", "Pronunciation: /\u028c\u02c8bjuzd/", "Definition: subjected to cruel treatment", "Synonyms: ill-treated, maltreated, mistreated"]}
+{"data": ["2023-04-30T08:03:11.560588+00:00", 10774, "Your mother is", "natural", "Pronunciation: /\u02c8n\u00e6\u02a7\u0259r\u0259l/", "Definition: (of a parent or child) related by blood; genetically related", "Synonyms: biological"]}
