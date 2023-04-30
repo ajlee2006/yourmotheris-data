@@ -1,1 +1,1 @@
-{"data": ["2023-04-30T10:02:36.557614+00:00", 10776, "Your mother is", "spiteful", "Pronunciation: /\u02c8spa\u026atf\u0259l/", "Definition: showing malicious ill will and a desire to hurt; motivated by spite", "Synonyms: despiteful, vindictive"]}
+{"data": ["2023-04-30T11:02:33.257556+00:00", 10777, "Your mother is", "smiling", "Pronunciation: /\u02c8sma\u026al\u026a\u014b/", "Definition: smiling with happiness or optimism", "Synonyms: beamish, twinkly"]}
