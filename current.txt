@@ -1,1 +1,1 @@
-{"data": ["2023-04-30T03:02:57.477306+00:00", 10769, "Your mother is", "flyspeck", "Pronunciation: /\u02c8fla\u026a\u02ccsp\u025bk/", "Definition: very small", "Synonyms: bantam, diminutive, lilliputian, midget, petite, tiny"]}
+{"data": ["2023-04-30T04:03:16.618228+00:00", 10770, "Your mother is", "disentangled", "Similar to: untangled", "Definition: straightened out", "Synonyms: loosened, unsnarled"]}
