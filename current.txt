@@ -1,1 +1,1 @@
-{"data": ["2023-04-29T23:03:01.404313+00:00", 10765, "Your mother is", "hifalutin", "Pronunciation: /\u02ccha\u026af\u0259\u02c8lut\u0259n/", "Definition: affectedly genteel", "Synonyms: grandiose, highfalutin, highfaluting, hoity-toity, la-di-da"]}
+{"data": ["2023-04-30T00:04:03.003829+00:00", 10766, "Your mother is", "nosy", "Pronunciation: /\u02c8no\u028azi/", "Definition: offensively curious or inquisitive", "Synonyms: nosey, prying, snoopy"]}
