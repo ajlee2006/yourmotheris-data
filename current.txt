@@ -1,1 +1,1 @@
-{"data": ["2023-04-30T01:02:39.449797+00:00", 10767, "Your mother is", "vagal", "Pronunciation: /\u02c8ve\u026a\u0261\u0259l/", "Definition: of or relating to the vagus nerve", "Synonyms: pneumogastric"]}
+{"data": ["2023-04-30T02:02:36.178535+00:00", 10768, "Your mother is", "drip-dry", "Pronunciation: /dr\u026ap-dra\u026a/", "Definition: treated so as to be easily or quickly washed and dried and requiring little or no ironing", "Synonyms: wash-and-wear"]}
