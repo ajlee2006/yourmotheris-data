@@ -1,1 +1,1 @@
-{"data": ["2023-04-30T22:03:19.764873+00:00", 10788, "Your mother is", "earlier", "Pronunciation: /\u02c8\u025drli\u025dr/", "Definition: (comparative and superlative of `early') more early than; most early", "Synonyms: earliest"]}
+{"data": ["2023-04-30T23:03:21.278369+00:00", 10789, "Your mother is", "diffuse", "Pronunciation: /d\u026a\u02c8fjus/", "Definition: (of light) transmitted from a broad light source or reflected", "Synonyms: diffused, soft"]}
