@@ -1,1 +1,1 @@
-{"data": ["2023-04-30T19:02:45.593242+00:00", 10785, "Your mother is", "unsarcastic", "", "Definition: not sarcastic", ""]}
+{"data": ["2023-04-30T20:02:50.439929+00:00", 10786, "Your mother is", "groggy", "Pronunciation: /\u02c8gr\u0251\u0261i/", "Definition: stunned or confused and slow to react (as from blows or drunkenness or exhaustion)", "Synonyms: dazed, foggy, logy, stuporous"]}
