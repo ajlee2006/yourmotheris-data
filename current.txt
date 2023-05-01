@@ -1,1 +1,1 @@
-{"data": ["2023-05-01T03:03:08.300786+00:00", 10793, "Your mother is", "unfavourable", "Pronunciation: /\u0259n\u02c8fe\u026av\u0259r\u0259b\u0259l/", "Definition: involving or creating circumstances detrimental to success or effectiveness", "Synonyms: disadvantageous, unfavorable"]}
+{"data": ["2023-05-01T04:03:02.078584+00:00", 10794, "Your mother is", "domesticated", "Pronunciation: /d\u028c\u02c8m\u025bst\u028c\u02ccke\u026at\u028cd/", "Definition: converted or adapted to domestic use", "Synonyms: domestic"]}
