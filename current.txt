@@ -1,1 +1,1 @@
-{"data": ["2023-05-01T13:03:03.047951+00:00", 10803, "Your mother is", "unasterisked", "Similar to: unmarked", "Definition: not marked with an asterisk", "Synonyms: unstarred"]}
+{"data": ["2023-05-01T14:02:39.514859+00:00", 10804, "Your mother is", "accessorial", "Pronunciation: /\u02cc\u00e6ks\u026a\u02c8so\u028ari\u0259l/", "Definition: nonessential but helpful", ""]}
