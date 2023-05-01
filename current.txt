@@ -1,1 +1,1 @@
-{"data": ["2023-05-01T04:03:02.078584+00:00", 10794, "Your mother is", "domesticated", "Pronunciation: /d\u028c\u02c8m\u025bst\u028c\u02ccke\u026at\u028cd/", "Definition: converted or adapted to domestic use", "Synonyms: domestic"]}
+{"data": ["2023-05-01T05:03:04.448785+00:00", 10795, "Your mother is", "arthrosporic", "", "Definition: of or relating to arthrospores", "Synonyms: arthrosporous"]}
