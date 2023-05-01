@@ -1,1 +1,1 @@
-{"data": ["2023-05-01T19:01:01.158321+00:00", 10809, "Your mother is", "metabolic", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8b\u0251l\u026ak/", "Definition: undergoing metamorphosis", "Synonyms: metabolous"]}
+{"data": ["2023-05-01T20:01:39.121210+00:00", 10810, "Your mother is", "spruce", "Pronunciation: /sprus/", "Definition: marked by up-to-dateness in dress and manners", "Synonyms: dapper, dashing, jaunty, natty, raffish, rakish, snappy, spiffy"]}
