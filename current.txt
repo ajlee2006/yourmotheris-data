@@ -1,1 +1,1 @@
-{"data": ["2023-05-01T21:01:28.492557+00:00", 10811, "Your mother is", "consanguineal", "Similar to: related", "Definition: related by blood", "Synonyms: akin, blood-related, cognate, consanguine, consanguineous, kin"]}
+{"data": ["2023-05-01T22:00:51.498598+00:00", 10812, "Your mother is", "diagnostic", "Pronunciation: /\u02ccda\u026a\u0259\u0261\u02c8n\u0251st\u026ak/", "Definition: characteristic or indicative of a disease", "Synonyms: symptomatic"]}
