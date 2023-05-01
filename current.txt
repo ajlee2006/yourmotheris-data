@@ -1,1 +1,1 @@
-{"data": ["2023-05-01T18:02:33.357308+00:00", 10808, "Your mother is", "disqualified", "Pronunciation: /d\u026as\u02c8kw\u0251l\u028c\u02ccfa\u026ad/", "Definition: barred from competition for violation of rules", ""]}
+{"data": ["2023-05-01T19:01:01.158321+00:00", 10809, "Your mother is", "metabolic", "Pronunciation: /\u02ccm\u025bt\u0259\u02c8b\u0251l\u026ak/", "Definition: undergoing metamorphosis", "Synonyms: metabolous"]}
