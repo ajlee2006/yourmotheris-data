@@ -1,1 +1,1 @@
-{"data": ["2023-05-01T14:02:39.514859+00:00", 10804, "Your mother is", "accessorial", "Pronunciation: /\u02cc\u00e6ks\u026a\u02c8so\u028ari\u0259l/", "Definition: nonessential but helpful", ""]}
+{"data": ["2023-05-01T15:03:22.553116+00:00", 10805, "Your mother is", "wellborn", "Pronunciation: /\u02c8w\u025bl\u02c8b\u0254rn/", "Definition: of good or upper-class lineage", ""]}
