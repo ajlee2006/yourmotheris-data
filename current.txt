@@ -1,1 +1,1 @@
-{"data": ["2023-04-30T23:03:21.278369+00:00", 10789, "Your mother is", "diffuse", "Pronunciation: /d\u026a\u02c8fjus/", "Definition: (of light) transmitted from a broad light source or reflected", "Synonyms: diffused, soft"]}
+{"data": ["2023-05-01T00:03:40.615974+00:00", 10790, "Your mother is", "industrialized", "Pronunciation: /\u026an\u02c8d\u028cstri\u028c\u02ccla\u026azd/", "Definition: made industrial; converted to industrialism", "Synonyms: industrialised"]}
