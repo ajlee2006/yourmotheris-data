@@ -1,1 +1,1 @@
-{"data": ["2023-05-01T02:02:34.271848+00:00", 10792, "Your mother is", "mournful", "Pronunciation: /\u02c8mo\u028arnf\u028al/", "Definition: filled with or evoking sadness", "Synonyms: doleful"]}
+{"data": ["2023-05-01T03:03:08.300786+00:00", 10793, "Your mother is", "unfavourable", "Pronunciation: /\u0259n\u02c8fe\u026av\u0259r\u0259b\u0259l/", "Definition: involving or creating circumstances detrimental to success or effectiveness", "Synonyms: disadvantageous, unfavorable"]}
