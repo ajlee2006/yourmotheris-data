@@ -1,1 +1,1 @@
-{"data": ["2023-05-01T15:03:22.553116+00:00", 10805, "Your mother is", "wellborn", "Pronunciation: /\u02c8w\u025bl\u02c8b\u0254rn/", "Definition: of good or upper-class lineage", ""]}
+{"data": ["2023-05-01T16:02:59.489747+00:00", 10806, "Your mother is", "pilose", "Pronunciation: /\u02c8pa\u026alo\u028as/", "Definition: covered with hairs especially fine soft ones", "Synonyms: pilary, pilous"]}
