@@ -1,1 +1,1 @@
-{"data": ["2023-05-01T12:02:59.961670+00:00", 10802, "Your mother is", "nonviable", "Similar to: dead", "Definition: not capable of living or developing successfully", ""]}
+{"data": ["2023-05-01T13:03:03.047951+00:00", 10803, "Your mother is", "unasterisked", "Similar to: unmarked", "Definition: not marked with an asterisk", "Synonyms: unstarred"]}
