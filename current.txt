@@ -1,1 +1,1 @@
-{"data": ["2023-05-01T00:03:40.615974+00:00", 10790, "Your mother is", "industrialized", "Pronunciation: /\u026an\u02c8d\u028cstri\u028c\u02ccla\u026azd/", "Definition: made industrial; converted to industrialism", "Synonyms: industrialised"]}
+{"data": ["2023-05-01T01:02:46.191112+00:00", 10791, "Your mother is", "homoecious", "", "Definition: of parasites especially rust fungi; completing the entire life cycle on a single host", "Synonyms: autoecious"]}
