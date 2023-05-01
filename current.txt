@@ -1,1 +1,1 @@
-{"data": ["2023-05-01T17:03:25.163374+00:00", 10807, "Your mother is", "rotary", "Pronunciation: /\u02c8ro\u028at\u0259ri/", "Definition: describing a circle; moving in a circle", "Synonyms: circular, orbitual"]}
+{"data": ["2023-05-01T18:02:33.357308+00:00", 10808, "Your mother is", "disqualified", "Pronunciation: /d\u026as\u02c8kw\u0251l\u028c\u02ccfa\u026ad/", "Definition: barred from competition for violation of rules", ""]}
