@@ -1,1 +1,1 @@
-{"data": ["2023-05-02T11:01:23.011652+00:00", 10824, "Your mother is", "bifocal", "Pronunciation: /ba\u026a\u02c8fo\u028ak\u0259l/", "Definition: having two foci", ""]}
+{"data": ["2023-05-02T12:01:02.487111+00:00", 10825, "Your mother is", "unstated", "Pronunciation: /\u0259n\u02c8ste\u026at\u026ad/", "Definition: not made explicit", "Synonyms: unexpressed, unsaid, unspoken, unuttered, unverbalised, unverbalized, unvoiced"]}
