@@ -1,1 +1,1 @@
-{"data": ["2023-05-02T00:02:03.364448+00:00", 10814, "Your mother is", "iraki", "Pronunciation: /\u026a\u02c8r\u00e6ki/", "Definition: of or relating to Iraq or its people or culture", "Synonyms: iraqi"]}
+{"data": ["2023-05-02T02:27:45.062666+00:00", 10815, "Your mother is", "tomentose", "Pronunciation: /t\u0259\u02c8m\u025bnto\u028as/", "Definition: densely covered with short matted woolly hairs", "Synonyms: tomentous"]}
