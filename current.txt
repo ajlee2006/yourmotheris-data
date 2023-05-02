@@ -1,1 +1,1 @@
-{"data": ["2023-05-02T06:01:26.836533+00:00", 10819, "Your mother is", "unnourished", "Similar to: malnourished", "Definition: not nourished", ""]}
+{"data": ["2023-05-02T07:01:03.378293+00:00", 10820, "Your mother is", "tomentous", "Similar to: haired", "Definition: densely covered with short matted woolly hairs", "Synonyms: tomentose"]}
