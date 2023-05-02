@@ -1,1 +1,1 @@
-{"data": ["2023-05-02T18:01:33.721842+00:00", 10831, "Your mother is", "bluish black", "Similar to: achromatic", "Definition: of black tinged with blue", "Synonyms: blue-black"]}
+{"data": ["2023-05-02T19:01:20.812813+00:00", 10832, "Your mother is", "protrusile", "Pronunciation: /pro\u028a\u02c8trus\u026al/", "Definition: capable of being thrust forward, as the tongue", "Synonyms: protrusible"]}
