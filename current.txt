@@ -1,1 +1,1 @@
-{"data": ["2023-05-02T02:27:45.062666+00:00", 10815, "Your mother is", "tomentose", "Pronunciation: /t\u0259\u02c8m\u025bnto\u028as/", "Definition: densely covered with short matted woolly hairs", "Synonyms: tomentous"]}
+{"data": ["2023-05-02T03:03:45.636990+00:00", 10816, "Your mother is", "apprenticed", "Pronunciation: /\u028c\u02c8pr\u025bnt\u028cst/", "Definition: bound by contract", "Synonyms: articled, bound, indentured"]}
