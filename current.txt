@@ -1,1 +1,1 @@
-{"data": ["2023-05-02T22:01:21.226426+00:00", 10835, "Your mother is", "slumberous", "Pronunciation: /\u02c8sl\u0259mb\u0259r\u0259s/", "Definition: quiet and tranquil", "Synonyms: slumbrous"]}
+{"data": ["2023-05-02T23:01:02.980616+00:00", 10836, "Your mother is", "stated", "Pronunciation: /\u02c8ste\u026at\u026ad/", "Definition: declared as fact; explicitly stated", "Synonyms: declared"]}
