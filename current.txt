@@ -1,1 +1,1 @@
-{"data": ["2023-05-02T03:03:45.636990+00:00", 10816, "Your mother is", "apprenticed", "Pronunciation: /\u028c\u02c8pr\u025bnt\u028cst/", "Definition: bound by contract", "Synonyms: articled, bound, indentured"]}
+{"data": ["2023-05-02T04:00:58.524048+00:00", 10817, "Your mother is", "red-carpet", "Similar to: uncommon", "Definition: special treatment or hospitality", "Synonyms: red carpet"]}
