@@ -1,1 +1,1 @@
-{"data": ["2023-05-02T05:01:24.618884+00:00", 10818, "Your mother is", "aurorean", "Pronunciation: /\u0254\u02c8ro\u028ari\u0259n/", "Definition: characteristic of the dawn", "Synonyms: auroral"]}
+{"data": ["2023-05-02T06:01:26.836533+00:00", 10819, "Your mother is", "unnourished", "Similar to: malnourished", "Definition: not nourished", ""]}
