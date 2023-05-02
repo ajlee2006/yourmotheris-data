@@ -1,1 +1,1 @@
-{"data": ["2023-05-02T10:01:24.135334+00:00", 10823, "Your mother is", "unequivocal", "Pronunciation: /\u02cc\u0259n\u026a\u02c8kw\u026av\u0259k\u0259l/", "Definition: clearly defined or formulated", "Synonyms: definitive"]}
+{"data": ["2023-05-02T11:01:23.011652+00:00", 10824, "Your mother is", "bifocal", "Pronunciation: /ba\u026a\u02c8fo\u028ak\u0259l/", "Definition: having two foci", ""]}
