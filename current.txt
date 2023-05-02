@@ -1,1 +1,1 @@
-{"data": ["2023-05-02T14:01:10.596081+00:00", 10827, "Your mother is", "steep", "Pronunciation: /stip/", "Definition: greatly exceeding bounds of reason or moderation", "Synonyms: exorbitant, extortionate, outrageous, unconscionable, usurious"]}
+{"data": ["2023-05-02T15:01:15.967297+00:00", 10828, "Your mother is", "unruffled", "Pronunciation: /\u0259n\u02c8r\u0259f\u0259ld/", "Definition: (of a body of water) free from disturbance by heavy waves", "Synonyms: placid, quiet, smooth, still, tranquil"]}
