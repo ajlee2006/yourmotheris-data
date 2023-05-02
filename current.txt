@@ -1,1 +1,1 @@
-{"data": ["2023-05-02T20:01:03.451528+00:00", 10833, "Your mother is", "clarifying", "Pronunciation: /\u02c8kl\u025br\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: that makes clear", "Synonyms: elucidative"]}
+{"data": ["2023-05-02T21:01:34.236792+00:00", 10834, "Your mother is", "aboveboard", "Pronunciation: /\u0259\u02c8b\u0259v\u02ccbo\u028ard/", "Definition: without concealment or deception; honest", "Synonyms: straightforward"]}
