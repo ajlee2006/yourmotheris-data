@@ -1,1 +1,1 @@
-{"data": ["2023-05-02T13:01:29.435263+00:00", 10826, "Your mother is", "inescapable", "Pronunciation: /\u02cc\u026an\u025b\u02c8ske\u026ap\u0259b\u0259l/", "Definition: impossible to avoid or evade", "Synonyms: ineluctable, unavoidable"]}
+{"data": ["2023-05-02T14:01:10.596081+00:00", 10827, "Your mother is", "steep", "Pronunciation: /stip/", "Definition: greatly exceeding bounds of reason or moderation", "Synonyms: exorbitant, extortionate, outrageous, unconscionable, usurious"]}
