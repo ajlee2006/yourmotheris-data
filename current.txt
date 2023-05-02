@@ -1,1 +1,1 @@
-{"data": ["2023-05-01T23:00:56.056035+00:00", 10813, "Your mother is", "trifoliated", "Pronunciation: /tra\u026a\u02c8fo\u028al\u026a\u02cce\u026at\u026ad/", "Definition: (of a leaf shape) having three leaflets", "Synonyms: trifoliate, trifoliolate"]}
+{"data": ["2023-05-02T00:02:03.364448+00:00", 10814, "Your mother is", "iraki", "Pronunciation: /\u026a\u02c8r\u00e6ki/", "Definition: of or relating to Iraq or its people or culture", "Synonyms: iraqi"]}
