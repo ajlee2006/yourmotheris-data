@@ -1,1 +1,1 @@
-{"data": ["2023-05-02T19:01:20.812813+00:00", 10832, "Your mother is", "protrusile", "Pronunciation: /pro\u028a\u02c8trus\u026al/", "Definition: capable of being thrust forward, as the tongue", "Synonyms: protrusible"]}
+{"data": ["2023-05-02T20:01:03.451528+00:00", 10833, "Your mother is", "clarifying", "Pronunciation: /\u02c8kl\u025br\u028c\u02ccfa\u026a\u026a\u014b/", "Definition: that makes clear", "Synonyms: elucidative"]}
