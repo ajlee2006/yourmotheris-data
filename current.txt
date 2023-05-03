@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T14:01:08.843730+00:00", 10851, "Your mother is", "chelicerate", "Pronunciation: /k\u0259\u02c8l\u026as\u0259\u02ccre\u026at/", "Definition: of or relating to or resembling chelicerae", "Synonyms: cheliceral"]}
+{"data": ["2023-05-03T15:01:15.275955+00:00", 10852, "Your mother is", "eye-deceiving", "Similar to: unreal", "Definition: creating the illusion of seeing reality", "Synonyms: trompe-l'oeil"]}
