@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T22:00:54.226108+00:00", 10859, "Your mother is", "top-grade", "Similar to: best", "Definition: surpassing in quality", "Synonyms: high-grade, top-quality"]}
+{"data": ["2023-05-03T23:01:32.249504+00:00", 10860, "Your mother is", "glowering", "Pronunciation: /\u02c8\u0261la\u028a\u025dr\u026a\u014b/", "Definition: showing a brooding ill humor", "Synonyms: dark, dour, glum, moody, morose, saturnine, sour, sullen"]}
