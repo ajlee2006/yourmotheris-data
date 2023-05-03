@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T02:01:15.104530+00:00", 10839, "Your mother is", "unredeemable", "Pronunciation: /\u02cc\u0259nri\u02c8dim\u0259b\u0259l/", "Definition: insusceptible of reform", "Synonyms: irreclaimable, irredeemable, unreformable"]}
+{"data": ["2023-05-03T03:00:59.941723+00:00", 10840, "Your mother is", "self-contained", "Pronunciation: /s\u025blf-k\u0259n\u02c8te\u026and/", "Definition: in full control of your faculties", "Synonyms: collected, equanimous, poised, self-collected, self-possessed"]}
