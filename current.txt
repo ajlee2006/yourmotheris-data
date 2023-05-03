@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T04:00:58.611972+00:00", 10841, "Your mother is", "featured", "Pronunciation: /\u02c8fi\u02a7\u0259rd/", "Definition: having facial features as specified; usually used in combination", ""]}
+{"data": ["2023-05-03T05:01:07.252718+00:00", 10842, "Your mother is", "black-coated", "Pronunciation: /bl\u00e6k-\u02c8ko\u028at\u026ad/", "Definition: coated with black", ""]}
