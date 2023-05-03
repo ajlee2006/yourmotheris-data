@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T12:00:55.571799+00:00", 10849, "Your mother is", "chromatic", "Pronunciation: /kro\u028a\u02c8m\u00e6t\u026ak/", "Definition: based on a scale consisting of 12 semitones", ""]}
+{"data": ["2023-05-03T13:01:11.882253+00:00", 10850, "Your mother is", "nonstructural", "Similar to: nonfunctional", "Definition: not structural", ""]}
