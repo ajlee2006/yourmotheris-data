@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T19:01:14.008682+00:00", 10856, "Your mother is", "unimodal", "", "Definition: having a single mode", ""]}
+{"data": ["2023-05-03T20:01:16.955510+00:00", 10857, "Your mother is", "motile", "Pronunciation: /\u02c8mo\u028at\u0259l/", "Definition: (of spores or microorganisms) capable of movement", ""]}
