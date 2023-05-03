@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T16:00:51.188982+00:00", 10853, "Your mother is", "asquint", "Pronunciation: /\u0259\u02c8skw\u026ant/", "Definition: (used especially of glances) directed to one side with or as if with doubt or suspicion or envy", "Synonyms: askance, askant, sidelong, squint, squint-eyed, squinty"]}
+{"data": ["2023-05-03T17:01:23.018204+00:00", 10854, "Your mother is", "off-the-wall", "Similar to: unconventional", "Definition: conspicuously or grossly unconventional or unusual", "Synonyms: bizarre, eccentric, flakey, flaky, freakish, freaky, gonzo, outlandish, outre"]}
