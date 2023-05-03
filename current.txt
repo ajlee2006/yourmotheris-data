@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T10:01:08.816470+00:00", 10847, "Your mother is", "factor analytic", "", "Definition: of or relating to or the product of factor analysis", "Synonyms: factor analytical"]}
+{"data": ["2023-05-03T11:01:23.993671+00:00", 10848, "Your mother is", "in vitro", "Pronunciation: /\u026an-\u02c8vitro\u028a/", "Definition: of a biological process occurring in an artificial environment outside the living organism", "Synonyms: ex vivo"]}
