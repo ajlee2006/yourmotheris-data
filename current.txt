@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T05:01:07.252718+00:00", 10842, "Your mother is", "black-coated", "Pronunciation: /bl\u00e6k-\u02c8ko\u028at\u026ad/", "Definition: coated with black", ""]}
+{"data": ["2023-05-03T06:01:24.999557+00:00", 10843, "Your mother is", "hydric", "Pronunciation: /\u02c8ha\u026adr\u026ak/", "Definition: having or characterized by excessive moisture", ""]}
