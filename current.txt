@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T03:00:59.941723+00:00", 10840, "Your mother is", "self-contained", "Pronunciation: /s\u025blf-k\u0259n\u02c8te\u026and/", "Definition: in full control of your faculties", "Synonyms: collected, equanimous, poised, self-collected, self-possessed"]}
+{"data": ["2023-05-03T04:00:58.611972+00:00", 10841, "Your mother is", "featured", "Pronunciation: /\u02c8fi\u02a7\u0259rd/", "Definition: having facial features as specified; usually used in combination", ""]}
