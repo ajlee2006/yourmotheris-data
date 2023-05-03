@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T07:01:03.631850+00:00", 10844, "Your mother is", "self-produced", "Pronunciation: /\u02c8s\u025blfpr\u0259\u02c8dust/", "Definition: originating from the self", "Synonyms: self-generated"]}
+{"data": ["2023-05-03T08:00:52.938611+00:00", 10845, "Your mother is", "saudi", "Pronunciation: /\u02c8s\u0254di/", "Definition: of or relating to Saudi Arabia or its people", "Synonyms: saudi-arabian"]}
