@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T13:01:11.882253+00:00", 10850, "Your mother is", "nonstructural", "Similar to: nonfunctional", "Definition: not structural", ""]}
+{"data": ["2023-05-03T14:01:08.843730+00:00", 10851, "Your mother is", "chelicerate", "Pronunciation: /k\u0259\u02c8l\u026as\u0259\u02ccre\u026at/", "Definition: of or relating to or resembling chelicerae", "Synonyms: cheliceral"]}
