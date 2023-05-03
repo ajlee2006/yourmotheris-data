@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T17:01:23.018204+00:00", 10854, "Your mother is", "off-the-wall", "Similar to: unconventional", "Definition: conspicuously or grossly unconventional or unusual", "Synonyms: bizarre, eccentric, flakey, flaky, freakish, freaky, gonzo, outlandish, outre"]}
+{"data": ["2023-05-03T18:01:09.360496+00:00", 10855, "Your mother is", "annelidan", "Pronunciation: /\u0259\u02c8n\u025bl\u026ad\u0259n/", "Definition: relating to or belonging to or characteristic of any worms of the phylum Annelida", "Synonyms: annelid"]}
