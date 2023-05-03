@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T01:01:16.453344+00:00", 10838, "Your mother is", "aeolotropic", "Pronunciation: /\u02cci\u0259lo\u028a\u02c8tr\u0251p\u026ak/", "Definition: having properties with different values along different axes", "Synonyms: eolotropic"]}
+{"data": ["2023-05-03T02:01:15.104530+00:00", 10839, "Your mother is", "unredeemable", "Pronunciation: /\u02cc\u0259nri\u02c8dim\u0259b\u0259l/", "Definition: insusceptible of reform", "Synonyms: irreclaimable, irredeemable, unreformable"]}
