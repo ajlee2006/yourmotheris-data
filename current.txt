@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T06:01:24.999557+00:00", 10843, "Your mother is", "hydric", "Pronunciation: /\u02c8ha\u026adr\u026ak/", "Definition: having or characterized by excessive moisture", ""]}
+{"data": ["2023-05-03T07:01:03.631850+00:00", 10844, "Your mother is", "self-produced", "Pronunciation: /\u02c8s\u025blfpr\u0259\u02c8dust/", "Definition: originating from the self", "Synonyms: self-generated"]}
