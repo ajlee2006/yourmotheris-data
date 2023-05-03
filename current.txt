@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T11:01:23.993671+00:00", 10848, "Your mother is", "in vitro", "Pronunciation: /\u026an-\u02c8vitro\u028a/", "Definition: of a biological process occurring in an artificial environment outside the living organism", "Synonyms: ex vivo"]}
+{"data": ["2023-05-03T12:00:55.571799+00:00", 10849, "Your mother is", "chromatic", "Pronunciation: /kro\u028a\u02c8m\u00e6t\u026ak/", "Definition: based on a scale consisting of 12 semitones", ""]}
