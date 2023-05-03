@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T20:01:16.955510+00:00", 10857, "Your mother is", "motile", "Pronunciation: /\u02c8mo\u028at\u0259l/", "Definition: (of spores or microorganisms) capable of movement", ""]}
+{"data": ["2023-05-03T21:00:55.820233+00:00", 10858, "Your mother is", "dual-use", "Similar to: multiple", "Definition: designed for or serving two purposes", "Synonyms: dual-purpose"]}
