@@ -1,1 +1,1 @@
-{"data": ["2023-05-04T13:01:09.045105+00:00", 10874, "Your mother is", "atilt", "Pronunciation: /\u0259\u02c8t\u026alt/", "Definition: departing or being caused to depart from the true vertical or horizontal", "Synonyms: canted, leaning, tilted, tipped"]}
+{"data": ["2023-05-04T14:01:04.654851+00:00", 10875, "Your mother is", "fired", "Pronunciation: /\u02c8fa\u026a\u025drd/", "Definition: having lost your job", "Synonyms: discharged, dismissed, laid-off, pink-slipped"]}
