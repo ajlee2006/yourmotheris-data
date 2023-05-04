@@ -1,1 +1,1 @@
-{"data": ["2023-05-04T12:00:53.748572+00:00", 10873, "Your mother is", "indirect", "Pronunciation: /\u02cc\u026and\u0259\u02c8r\u025bkt/", "Definition: descended from a common ancestor but through different lines", "Synonyms: collateral"]}
+{"data": ["2023-05-04T13:01:09.045105+00:00", 10874, "Your mother is", "atilt", "Pronunciation: /\u0259\u02c8t\u026alt/", "Definition: departing or being caused to depart from the true vertical or horizontal", "Synonyms: canted, leaning, tilted, tipped"]}
