@@ -1,1 +1,1 @@
-{"data": ["2023-05-04T04:01:21.988400+00:00", 10865, "Your mother is", "weapons-grade", "Similar to: strong", "Definition: extremely strong or concentrated or durable", "Synonyms: industrial-strength"]}
+{"data": ["2023-05-04T05:00:56.297355+00:00", 10866, "Your mother is", "6-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with six members", "Synonyms: six-membered"]}
