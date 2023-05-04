@@ -1,1 +1,1 @@
-{"data": ["2023-05-04T06:01:13.372742+00:00", 10867, "Your mother is", "home-baked", "Similar to: homemade", "Definition: baked at home", ""]}
+{"data": ["2023-05-04T07:01:13.557449+00:00", 10868, "Your mother is", "larghissimo", "Similar to: slow", "Definition: (of tempo) as slow and broad as possible", ""]}
