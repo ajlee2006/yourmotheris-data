@@ -1,1 +1,1 @@
-{"data": ["2023-05-04T21:01:06.331451+00:00", 10881, "Your mother is", "extrusive", "Pronunciation: /\u026ak\u02c8strus\u026av/", "Definition: of rock material; forced out while molten through cracks in the earth's surface", ""]}
+{"data": ["2023-05-04T22:01:10.578296+00:00", 10882, "Your mother is", "brickly", "Similar to: breakable", "Definition: having little elasticity; hence easily cracked or fractured or snapped", "Synonyms: brickle, brittle"]}
