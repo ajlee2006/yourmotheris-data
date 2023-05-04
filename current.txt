@@ -1,1 +1,1 @@
-{"data": ["2023-05-04T08:01:22.953939+00:00", 10869, "Your mother is", "unadjustable", "Similar to: fixed", "Definition: not adjustable", ""]}
+{"data": ["2023-05-04T09:01:21.033453+00:00", 10870, "Your mother is", "accursed", "Pronunciation: /\u0259\u02c8k\u025crs\u026ad/", "Definition: under a curse", "Synonyms: accurst, maledict"]}
