@@ -1,1 +1,1 @@
-{"data": ["2023-05-04T19:01:13.813504+00:00", 10879, "Your mother is", "transonic", "Pronunciation: /tr\u00e6n\u02c8s\u0251n\u026ak/", "Definition: (of speed) having or caused by speed approximately equal to that of sound in air at sea level", "Synonyms: sonic"]}
+{"data": ["2023-05-04T20:01:05.695047+00:00", 10880, "Your mother is", "disciform", "Similar to: rounded", "Definition: having a round or oval shape like a disc", ""]}
