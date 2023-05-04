@@ -1,1 +1,1 @@
-{"data": ["2023-05-04T11:01:05.442161+00:00", 10872, "Your mother is", "flag-waving", "Pronunciation: /\u02c8fl\u00e6\u0261\u02ccwe\u026av\u026a\u014b/", "Definition: fanatically patriotic", "Synonyms: chauvinistic, jingoistic, nationalistic, superpatriotic, ultranationalistic"]}
+{"data": ["2023-05-04T12:00:53.748572+00:00", 10873, "Your mother is", "indirect", "Pronunciation: /\u02cc\u026and\u0259\u02c8r\u025bkt/", "Definition: descended from a common ancestor but through different lines", "Synonyms: collateral"]}
