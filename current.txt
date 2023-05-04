@@ -1,1 +1,1 @@
-{"data": ["2023-05-04T09:01:21.033453+00:00", 10870, "Your mother is", "accursed", "Pronunciation: /\u0259\u02c8k\u025crs\u026ad/", "Definition: under a curse", "Synonyms: accurst, maledict"]}
+{"data": ["2023-05-04T10:01:21.527403+00:00", 10871, "Your mother is", "undischarged", "Pronunciation: /\u02cc\u0259nd\u026as\u02c8t\u0283\u0251rd\u0292d/", "Definition: still capable of exploding or being fired", "Synonyms: unexploded"]}
