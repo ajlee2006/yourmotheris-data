@@ -1,1 +1,1 @@
-{"data": ["2023-05-04T10:01:21.527403+00:00", 10871, "Your mother is", "undischarged", "Pronunciation: /\u02cc\u0259nd\u026as\u02c8t\u0283\u0251rd\u0292d/", "Definition: still capable of exploding or being fired", "Synonyms: unexploded"]}
+{"data": ["2023-05-04T11:01:05.442161+00:00", 10872, "Your mother is", "flag-waving", "Pronunciation: /\u02c8fl\u00e6\u0261\u02ccwe\u026av\u026a\u014b/", "Definition: fanatically patriotic", "Synonyms: chauvinistic, jingoistic, nationalistic, superpatriotic, ultranationalistic"]}
