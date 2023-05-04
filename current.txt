@@ -1,1 +1,1 @@
-{"data": ["2023-05-03T23:01:32.249504+00:00", 10860, "Your mother is", "glowering", "Pronunciation: /\u02c8\u0261la\u028a\u025dr\u026a\u014b/", "Definition: showing a brooding ill humor", "Synonyms: dark, dour, glum, moody, morose, saturnine, sour, sullen"]}
+{"data": ["2023-05-04T00:02:11.996775+00:00", 10861, "Your mother is", "liii", "Similar to: cardinal", "Definition: being three more than fifty", "Synonyms: 53, fifty-three"]}
