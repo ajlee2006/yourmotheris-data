@@ -1,1 +1,1 @@
-{"data": ["2023-05-04T22:01:10.578296+00:00", 10882, "Your mother is", "brickly", "Similar to: breakable", "Definition: having little elasticity; hence easily cracked or fractured or snapped", "Synonyms: brickle, brittle"]}
+{"data": ["2023-05-04T23:01:28.796499+00:00", 10883, "Your mother is", "undeterred", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8t\u025crd/", "Definition: not deterred", "Synonyms: undiscouraged"]}
