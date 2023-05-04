@@ -1,1 +1,1 @@
-{"data": ["2023-05-04T01:01:02.682652+00:00", 10862, "Your mother is", "pea-green", "Similar to: chromatic", "Definition: of a moderate slightly yellowish-green color", ""]}
+{"data": ["2023-05-04T02:01:22.446286+00:00", 10863, "Your mother is", "attired", "Pronunciation: /\u0259\u02c8ta\u026a\u0259rd/", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: appareled, dressed, garbed, garmented, habilimented, robed"]}
