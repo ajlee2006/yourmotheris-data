@@ -1,1 +1,1 @@
-{"data": ["2023-05-04T14:01:04.654851+00:00", 10875, "Your mother is", "fired", "Pronunciation: /\u02c8fa\u026a\u025drd/", "Definition: having lost your job", "Synonyms: discharged, dismissed, laid-off, pink-slipped"]}
+{"data": ["2023-05-04T15:00:58.923434+00:00", 10876, "Your mother is", "preeminent", "Pronunciation: /pri\u02c8\u025bm\u0259n\u0259nt/", "Definition: greatest in importance or degree or significance or achievement", "Synonyms: leading"]}
