@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T11:01:28.476359+00:00", 10895, "Your mother is", "extradural", "", "Definition: on or outside the dura mater", "Synonyms: epidural"]}
+{"data": ["2023-05-05T12:01:32.396198+00:00", 10896, "Your mother is", "untreated", "Pronunciation: /\u0259n\u02c8trit\u026ad/", "Definition: not subjected to chemical or physical treatment", ""]}
