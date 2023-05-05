@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T10:01:09.249656+00:00", 10894, "Your mother is", "sprawly", "Similar to: extended", "Definition: extended out irregularly", ""]}
+{"data": ["2023-05-05T11:01:28.476359+00:00", 10895, "Your mother is", "extradural", "", "Definition: on or outside the dura mater", "Synonyms: epidural"]}
