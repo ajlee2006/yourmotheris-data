@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T02:00:57.415781+00:00", 10886, "Your mother is", "co-ed", "Pronunciation: /\u02c8ko\u028a\u02cc\u025bd/", "Definition: attended by members of both sexes", "Synonyms: coeducational"]}
+{"data": ["2023-05-05T03:00:52.414712+00:00", 10887, "Your mother is", "hypothetical", "Pronunciation: /\u02ccha\u026ap\u0259\u02c8\u03b8\u025bt\u026ak\u0259l/", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetic, supposed, suppositional, suppositious, supposititious"]}
