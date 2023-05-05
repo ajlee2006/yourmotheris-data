@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T05:01:13.509407+00:00", 10889, "Your mother is", "airless", "Pronunciation: /\u02c8\u025crl\u026as/", "Definition: lacking fresh air", "Synonyms: close, stuffy, unaired"]}
+{"data": ["2023-05-05T06:01:33.086800+00:00", 10890, "Your mother is", "chemisorptive", "Similar to: adsorbent", "Definition: having the capacity to adsorb by chemical as contrasted with physical forces", "Synonyms: chemosorptive"]}
