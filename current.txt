@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T01:01:30.797590+00:00", 10885, "Your mother is", "bladed", "Pronunciation: /\u02c8ble\u026ad\u026ad/", "Definition: composed of thin flat plates resembling a knife blade", ""]}
+{"data": ["2023-05-05T02:00:57.415781+00:00", 10886, "Your mother is", "co-ed", "Pronunciation: /\u02c8ko\u028a\u02cc\u025bd/", "Definition: attended by members of both sexes", "Synonyms: coeducational"]}
