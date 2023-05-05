@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T00:02:18.087876+00:00", 10884, "Your mother is", "incongruous", "Pronunciation: /\u026an\u02c8k\u0251\u014bgru\u0259s/", "Definition: lacking in harmony or compatibility or appropriateness", ""]}
+{"data": ["2023-05-05T01:01:30.797590+00:00", 10885, "Your mother is", "bladed", "Pronunciation: /\u02c8ble\u026ad\u026ad/", "Definition: composed of thin flat plates resembling a knife blade", ""]}
