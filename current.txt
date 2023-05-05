@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T15:01:35.399048+00:00", 10899, "Your mother is", "rosaceous", "Pronunciation: /ro\u028a\u02c8ze\u026a\u0283\u0259s/", "Definition: of something having a dusty purplish pink color", "Synonyms: rose, roseate"]}
+{"data": ["2023-05-05T16:01:04.043708+00:00", 10900, "Your mother is", "spoilt", "Pronunciation: /sp\u0254\u026alt/", "Definition: affected by blight; anything that mars or prevents growth or prosperity", "Synonyms: blighted"]}
