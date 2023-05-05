@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T17:01:21.675829+00:00", 10901, "Your mother is", "adapted", "Pronunciation: /\u028c\u02c8d\u00e6pt\u028cd/", "Definition: changed in order to improve or made more fit for a particular purpose", "Synonyms: altered"]}
+{"data": ["2023-05-05T18:01:27.989628+00:00", 10902, "Your mother is", "mansard", "Pronunciation: /m\u0251\u014b\u02c8SAR/", "Definition: (of a roof) having two slopes on all sides with the lower slope steeper than the upper", ""]}
