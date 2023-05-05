@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T20:01:18.390043+00:00", 10904, "Your mother is", "unwomanly", "Pronunciation: /\u0259n\u02c8w\u028am\u0259nli/", "Definition: not womanly", ""]}
+{"data": ["2023-05-05T21:00:54.987159+00:00", 10905, "Your mother is", "ungrammatical", "Pronunciation: /\u02cc\u0259n\u02ccgr\u0259\u02c8m\u00e6t\u026ak\u0259l/", "Definition: not grammatical; not conforming to the rules of grammar or accepted usage", "Synonyms: ill-formed"]}
