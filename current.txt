@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T18:01:27.989628+00:00", 10902, "Your mother is", "mansard", "Pronunciation: /m\u0251\u014b\u02c8SAR/", "Definition: (of a roof) having two slopes on all sides with the lower slope steeper than the upper", ""]}
+{"data": ["2023-05-05T19:01:17.738073+00:00", 10903, "Your mother is", "immotile", "Pronunciation: /\u026a\u02c8mo\u028at\u0259l/", "Definition: (of spores or microorganisms) not capable of movement", "Synonyms: nonmotile"]}
