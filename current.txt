@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T19:01:17.738073+00:00", 10903, "Your mother is", "immotile", "Pronunciation: /\u026a\u02c8mo\u028at\u0259l/", "Definition: (of spores or microorganisms) not capable of movement", "Synonyms: nonmotile"]}
+{"data": ["2023-05-05T20:01:18.390043+00:00", 10904, "Your mother is", "unwomanly", "Pronunciation: /\u0259n\u02c8w\u028am\u0259nli/", "Definition: not womanly", ""]}
