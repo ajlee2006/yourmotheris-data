@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T06:01:33.086800+00:00", 10890, "Your mother is", "chemisorptive", "Similar to: adsorbent", "Definition: having the capacity to adsorb by chemical as contrasted with physical forces", "Synonyms: chemosorptive"]}
+{"data": ["2023-05-05T07:01:08.901481+00:00", 10891, "Your mother is", "screw-topped", "Similar to: topped", "Definition: having a lid with a spiral groove", ""]}
