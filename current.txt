@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T03:00:52.414712+00:00", 10887, "Your mother is", "hypothetical", "Pronunciation: /\u02ccha\u026ap\u0259\u02c8\u03b8\u025bt\u026ak\u0259l/", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetic, supposed, suppositional, suppositious, supposititious"]}
+{"data": ["2023-05-05T04:01:19.496645+00:00", 10888, "Your mother is", "bicornate", "Similar to: horned", "Definition: having two horns or horn-shaped parts", "Synonyms: bicorn, bicorned, bicornuate, bicornuous"]}
