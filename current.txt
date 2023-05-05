@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T07:01:08.901481+00:00", 10891, "Your mother is", "screw-topped", "Similar to: topped", "Definition: having a lid with a spiral groove", ""]}
+{"data": ["2023-05-05T08:01:22.335832+00:00", 10892, "Your mother is", "turbinate", "Pronunciation: /\u02c8t\u025crb\u0259n\u026at/", "Definition: in the shape of a coil", "Synonyms: coiling, helical, spiral, spiraling, volute, voluted, whorled"]}
