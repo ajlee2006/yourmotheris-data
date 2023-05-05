@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T14:01:26.392429+00:00", 10898, "Your mother is", "silvery-white", "Similar to: achromatic", "Definition: of a white that resembles silver", "Synonyms: silver-white"]}
+{"data": ["2023-05-05T15:01:35.399048+00:00", 10899, "Your mother is", "rosaceous", "Pronunciation: /ro\u028a\u02c8ze\u026a\u0283\u0259s/", "Definition: of something having a dusty purplish pink color", "Synonyms: rose, roseate"]}
