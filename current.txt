@@ -1,1 +1,1 @@
-{"data": ["2023-05-05T04:01:19.496645+00:00", 10888, "Your mother is", "bicornate", "Similar to: horned", "Definition: having two horns or horn-shaped parts", "Synonyms: bicorn, bicorned, bicornuate, bicornuous"]}
+{"data": ["2023-05-05T05:01:13.509407+00:00", 10889, "Your mother is", "airless", "Pronunciation: /\u02c8\u025crl\u026as/", "Definition: lacking fresh air", "Synonyms: close, stuffy, unaired"]}
