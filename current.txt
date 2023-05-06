@@ -1,1 +1,1 @@
-{"data": ["2023-05-06T17:01:11.322682+00:00", 10925, "Your mother is", "clonic", "Pronunciation: /\u02c8kl\u0251n\u026ak/", "Definition: of or relating to abnormal neuromuscular activity characterized by rapidly alternating muscle contraction and relaxation", ""]}
+{"data": ["2023-05-06T18:01:20.041334+00:00", 10926, "Your mother is", "approximative", "Similar to: inexact", "Definition: not quite exact or correct", "Synonyms: approximate, rough"]}
