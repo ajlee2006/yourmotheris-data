@@ -1,1 +1,1 @@
-{"data": ["2023-05-06T21:01:24.843908+00:00", 10929, "Your mother is", "rock-bottom", "Pronunciation: /\u02c8r\u0251k\u02c8b\u0251t\u0259m/", "Definition: well below normal (especially in price)", "Synonyms: reduced"]}
+{"data": ["2023-05-06T22:00:58.268604+00:00", 10930, "Your mother is", "abkhazian", "Pronunciation: /\u00e6b\u02c8k\u00e6zi\u0259n/", "Definition: of or relating to Abkazia or its people or their language", "Synonyms: abkhaz"]}
