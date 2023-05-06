@@ -1,1 +1,1 @@
-{"data": ["2023-05-06T11:01:24.592956+00:00", 10919, "Your mother is", "damning", "Pronunciation: /\u02c8d\u00e6m\u026a\u014b/", "Definition: threatening with damnation", "Synonyms: damnatory"]}
+{"data": ["2023-05-06T12:00:55.663858+00:00", 10920, "Your mother is", "unexploratory", "", "Definition: not exploratory", "Synonyms: nonexplorative, nonexploratory, unexplorative"]}
