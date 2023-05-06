@@ -1,1 +1,1 @@
-{"data": ["2023-05-06T03:00:51.911160+00:00", 10911, "Your mother is", "high-ceilinged", "Similar to: ceilinged", "Definition: having a higher than normal ceiling", ""]}
+{"data": ["2023-05-06T04:00:57.200878+00:00", 10912, "Your mother is", "naturalistic", "Pronunciation: /\u02ccn\u00e6t\u0283\u0259r\u0259\u02c8l\u026ast\u026ak/", "Definition: representing what is real; not abstract or ideal", "Synonyms: realistic"]}
