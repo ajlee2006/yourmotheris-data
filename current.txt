@@ -1,1 +1,1 @@
-{"data": ["2023-05-06T20:01:19.509332+00:00", 10928, "Your mother is", "unsanctified", "Pronunciation: /\u0259n\u02c8s\u00e6\u014bkt\u026a\u02ccfa\u026ad/", "Definition: not holy because unconsecrated or impure or defiled", "Synonyms: profane, unconsecrated"]}
+{"data": ["2023-05-06T21:01:24.843908+00:00", 10929, "Your mother is", "rock-bottom", "Pronunciation: /\u02c8r\u0251k\u02c8b\u0251t\u0259m/", "Definition: well below normal (especially in price)", "Synonyms: reduced"]}
