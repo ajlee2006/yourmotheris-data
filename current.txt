@@ -1,1 +1,1 @@
-{"data": ["2023-05-06T00:02:07.700407+00:00", 10908, "Your mother is", "little", "Pronunciation: /\u02c8l\u026at\u0259l/", "Definition: (informal) small and of little importance", "Synonyms: fiddling, footling, lilliputian, niggling, petty, picayune, piddling, piffling, trivial"]}
+{"data": ["2023-05-06T01:00:54.673171+00:00", 10909, "Your mother is", "astonied", "Pronunciation: /\u0259\u02c8st\u0251nid/", "Definition: filled with the emotional impact of overwhelming surprise or shock", "Synonyms: amazed, astonished, astounded, stunned"]}
