@@ -1,1 +1,1 @@
-{"data": ["2023-05-06T15:01:28.103119+00:00", 10923, "Your mother is", "princely", "Pronunciation: /\u02c8pr\u026ansli/", "Definition: ostentatiously rich and superior in quality", "Synonyms: deluxe, gilded, grand, lush, luxurious, opulent, sumptuous"]}
+{"data": ["2023-05-06T16:01:26.296433+00:00", 10924, "Your mother is", "spondaic", "Pronunciation: /sp\u0251n\u02c8de\u026a\u026ak/", "Definition: of or consisting of spondees", ""]}
