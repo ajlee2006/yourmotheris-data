@@ -1,1 +1,1 @@
-{"data": ["2023-05-06T07:01:07.419161+00:00", 10915, "Your mother is", "columned", "Pronunciation: /\u02c8k\u0251l\u028cmd/", "Definition: having or resembling columns; having columns of a specified kind (often used as a combining form)", ""]}
+{"data": ["2023-05-06T08:01:03.262232+00:00", 10916, "Your mother is", "topmost", "Pronunciation: /\u02c8t\u0251p\u02ccmo\u028ast/", "Definition: at or nearest to the top", "Synonyms: upmost, uppermost"]}
