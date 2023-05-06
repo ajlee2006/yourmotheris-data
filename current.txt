@@ -1,1 +1,1 @@
-{"data": ["2023-05-06T10:01:08.596020+00:00", 10918, "Your mother is", "hallucinogenic", "Pronunciation: /h\u0259\u02cclus\u0259no\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: capable of producing hallucinations", ""]}
+{"data": ["2023-05-06T11:01:24.592956+00:00", 10919, "Your mother is", "damning", "Pronunciation: /\u02c8d\u00e6m\u026a\u014b/", "Definition: threatening with damnation", "Synonyms: damnatory"]}
