@@ -1,1 +1,1 @@
-{"data": ["2023-05-06T04:00:57.200878+00:00", 10912, "Your mother is", "naturalistic", "Pronunciation: /\u02ccn\u00e6t\u0283\u0259r\u0259\u02c8l\u026ast\u026ak/", "Definition: representing what is real; not abstract or ideal", "Synonyms: realistic"]}
+{"data": ["2023-05-06T05:01:09.236281+00:00", 10913, "Your mother is", "back-to-back", "Similar to: succeeding", "Definition: one after the other", "Synonyms: consecutive"]}
