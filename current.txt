@@ -1,1 +1,1 @@
-{"data": ["2023-05-06T14:01:09.158923+00:00", 10922, "Your mother is", "portuguese", "Pronunciation: /\u02ccpo\u028artj\u028a\u02c8\u0261iz/", "Definition: of or relating to or characteristic of Portugal or the people of Portugal or their language", "Synonyms: lusitanian"]}
+{"data": ["2023-05-06T15:01:28.103119+00:00", 10923, "Your mother is", "princely", "Pronunciation: /\u02c8pr\u026ansli/", "Definition: ostentatiously rich and superior in quality", "Synonyms: deluxe, gilded, grand, lush, luxurious, opulent, sumptuous"]}
