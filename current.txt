@@ -1,1 +1,1 @@
-{"data": ["2023-05-06T09:01:12.878366+00:00", 10917, "Your mother is", "exasperating", "Pronunciation: /\u026a\u0261\u02c8z\u00e6sp\u025dr\u02cce\u026at\u026a\u014b/", "Definition: making worse", "Synonyms: aggravating, exacerbating"]}
+{"data": ["2023-05-06T10:01:08.596020+00:00", 10918, "Your mother is", "hallucinogenic", "Pronunciation: /h\u0259\u02cclus\u0259no\u028a\u02c8d\u0292\u025bn\u026ak/", "Definition: capable of producing hallucinations", ""]}
