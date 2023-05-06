@@ -1,1 +1,1 @@
-{"data": ["2023-05-06T13:01:09.645850+00:00", 10921, "Your mother is", "riant", "Pronunciation: /\u02c8ra\u026a\u0259nt/", "Definition: showing or feeling mirth or pleasure or happiness", "Synonyms: laughing"]}
+{"data": ["2023-05-06T14:01:09.158923+00:00", 10922, "Your mother is", "portuguese", "Pronunciation: /\u02ccpo\u028artj\u028a\u02c8\u0261iz/", "Definition: of or relating to or characteristic of Portugal or the people of Portugal or their language", "Synonyms: lusitanian"]}
