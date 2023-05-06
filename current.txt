@@ -1,1 +1,1 @@
-{"data": ["2023-05-06T08:01:03.262232+00:00", 10916, "Your mother is", "topmost", "Pronunciation: /\u02c8t\u0251p\u02ccmo\u028ast/", "Definition: at or nearest to the top", "Synonyms: upmost, uppermost"]}
+{"data": ["2023-05-06T09:01:12.878366+00:00", 10917, "Your mother is", "exasperating", "Pronunciation: /\u026a\u0261\u02c8z\u00e6sp\u025dr\u02cce\u026at\u026a\u014b/", "Definition: making worse", "Synonyms: aggravating, exacerbating"]}
