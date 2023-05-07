@@ -1,1 +1,1 @@
-{"data": ["2023-05-07T14:01:24.284383+00:00", 10946, "Your mother is", "blameful", "Pronunciation: /\u02c8ble\u026amf\u0259l/", "Definition: deserving blame or censure as being wrong or evil or injurious", "Synonyms: blamable, blameable, blameworthy, censurable, culpable"]}
+{"data": ["2023-05-07T15:01:11.006718+00:00", 10947, "Your mother is", "piano", "Pronunciation: /pi\u02c8\u0251no\u028a/", "Definition: (used chiefly as a direction or description in music) soft; in a quiet, subdued tone", "Synonyms: soft"]}
