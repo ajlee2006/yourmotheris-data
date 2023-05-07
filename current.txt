@@ -1,1 +1,1 @@
-{"data": ["2023-05-07T21:01:00.879350+00:00", 10953, "Your mother is", "queenly", "Pronunciation: /\u02c8kwinli/", "Definition: having the rank of or resembling or befitting a queen", "Synonyms: queenlike"]}
+{"data": ["2023-05-07T22:01:34.798258+00:00", 10954, "Your mother is", "passe", "Pronunciation: /p\u00e6\u02c8se\u026a/", "Definition: out of fashion", "Synonyms: antique, demode, ex, old-fashioned, old-hat, outmoded, passee"]}
