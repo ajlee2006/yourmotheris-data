@@ -1,1 +1,1 @@
-{"data": ["2023-05-07T02:01:01.332164+00:00", 10934, "Your mother is", "asocial", "Pronunciation: /e\u026a\u02c8so\u028a\u0283\u0259l/", "Definition: hostile to or disruptive of normal standards of social behavior", "Synonyms: antisocial"]}
+{"data": ["2023-05-07T03:01:12.894917+00:00", 10935, "Your mother is", "beginning", "Pronunciation: /b\u026a\u02c8\u0261\u026an\u026a\u014b/", "Definition: serving to begin", "Synonyms: first"]}
