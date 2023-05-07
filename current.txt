@@ -1,1 +1,1 @@
-{"data": ["2023-05-07T05:00:54.426632+00:00", 10937, "Your mother is", "gratified", "Pronunciation: /\u02c8\u0261r\u00e6t\u028c\u02ccfa\u026ad/", "Definition: having received what was desired", ""]}
+{"data": ["2023-05-07T06:01:04.801225+00:00", 10938, "Your mother is", "lessened", "Pronunciation: /\u02c8l\u025bs\u028cnd/", "Definition: impaired by diminution", "Synonyms: diminished, vitiated, weakened"]}
