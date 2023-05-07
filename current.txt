@@ -1,1 +1,1 @@
-{"data": ["2023-05-07T13:01:13.327866+00:00", 10945, "Your mother is", "confederative", "Pronunciation: /k\u0259n\u02c8f\u025bd\u0259\u02ccre\u026at\u026av/", "Definition: united in a confederacy or league", "Synonyms: allied, confederate"]}
+{"data": ["2023-05-07T14:01:24.284383+00:00", 10946, "Your mother is", "blameful", "Pronunciation: /\u02c8ble\u026amf\u0259l/", "Definition: deserving blame or censure as being wrong or evil or injurious", "Synonyms: blamable, blameable, blameworthy, censurable, culpable"]}
