@@ -1,1 +1,1 @@
-{"data": ["2023-05-07T07:00:55.151874+00:00", 10939, "Your mother is", "maniacal", "Pronunciation: /m\u0259\u02c8na\u026a\u0259k\u0259l/", "Definition: wildly disordered", "Synonyms: maniac"]}
+{"data": ["2023-05-07T08:01:28.063705+00:00", 10940, "Your mother is", "commensal", "Pronunciation: /k\u0259\u02c8m\u025bns\u0259l/", "Definition: living in a state of commensalism", ""]}
