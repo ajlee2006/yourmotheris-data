@@ -1,1 +1,1 @@
-{"data": ["2023-05-07T20:00:50.485124+00:00", 10952, "Your mother is", "two-a-penny", "Similar to: cheap", "Definition: of trifling worth", "Synonyms: sixpenny, threepenny, tuppeny, twopenny, twopenny-halfpenny"]}
+{"data": ["2023-05-07T21:01:00.879350+00:00", 10953, "Your mother is", "queenly", "Pronunciation: /\u02c8kwinli/", "Definition: having the rank of or resembling or befitting a queen", "Synonyms: queenlike"]}
