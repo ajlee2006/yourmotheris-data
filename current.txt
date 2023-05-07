@@ -1,1 +1,1 @@
-{"data": ["2023-05-07T08:01:28.063705+00:00", 10940, "Your mother is", "commensal", "Pronunciation: /k\u0259\u02c8m\u025bns\u0259l/", "Definition: living in a state of commensalism", ""]}
+{"data": ["2023-05-07T09:01:24.917690+00:00", 10941, "Your mother is", "cherry-red", "Pronunciation: /\u02c8\u02a7\u025bri-r\u025bd/", "Definition: of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies", "Synonyms: blood-red, carmine, cerise, cherry, crimson, red, reddish, ruby, ruby-red, ruddy, scarlet"]}
