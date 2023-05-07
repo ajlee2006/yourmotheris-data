@@ -1,1 +1,1 @@
-{"data": ["2023-05-07T00:01:43.807097+00:00", 10932, "Your mother is", "underclass", "Pronunciation: /\u02c8\u0259nd\u0259\u02cckl\u0251s/", "Definition: belonging to the lowest and least privileged social stratum", ""]}
+{"data": ["2023-05-07T01:01:02.124068+00:00", 10933, "Your mother is", "seminude", "Similar to: unclothed", "Definition: partially clothed", ""]}
