@@ -1,1 +1,1 @@
-{"data": ["2023-05-07T06:01:04.801225+00:00", 10938, "Your mother is", "lessened", "Pronunciation: /\u02c8l\u025bs\u028cnd/", "Definition: impaired by diminution", "Synonyms: diminished, vitiated, weakened"]}
+{"data": ["2023-05-07T07:00:55.151874+00:00", 10939, "Your mother is", "maniacal", "Pronunciation: /m\u0259\u02c8na\u026a\u0259k\u0259l/", "Definition: wildly disordered", "Synonyms: maniac"]}
