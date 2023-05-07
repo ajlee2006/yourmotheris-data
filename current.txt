@@ -1,1 +1,1 @@
-{"data": ["2023-05-07T11:01:11.138804+00:00", 10943, "Your mother is", "musing", "Pronunciation: /\u02c8mjuz\u026a\u014b/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, pensive, pondering, reflective, ruminative"]}
+{"data": ["2023-05-07T12:01:23.270026+00:00", 10944, "Your mother is", "plumose", "Pronunciation: /\u02c8plumo\u028as/", "Definition: having an ornamental plume or feathery tuft", "Synonyms: plumate, plumed"]}
