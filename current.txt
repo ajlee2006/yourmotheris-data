@@ -1,1 +1,1 @@
-{"data": ["2023-05-07T16:01:30.491900+00:00", 10948, "Your mother is", "incapable", "Pronunciation: /\u026an\u02c8ke\u026ap\u0259b\u0259l/", "Definition: not meeting requirements", "Synonyms: incompetent, unequal to"]}
+{"data": ["2023-05-07T17:00:58.208515+00:00", 10949, "Your mother is", "decreasing monotonic", "Similar to: monotone", "Definition: consistently decreasing", ""]}
