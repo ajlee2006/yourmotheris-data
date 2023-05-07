@@ -1,1 +1,1 @@
-{"data": ["2023-05-07T22:01:34.798258+00:00", 10954, "Your mother is", "passe", "Pronunciation: /p\u00e6\u02c8se\u026a/", "Definition: out of fashion", "Synonyms: antique, demode, ex, old-fashioned, old-hat, outmoded, passee"]}
+{"data": ["2023-05-07T23:01:00.732891+00:00", 10955, "Your mother is", "thin-bodied", "Similar to: bodied", "Definition: having a slim body", "Synonyms: slender-bodied, slim-bodied"]}
