@@ -1,1 +1,1 @@
-{"data": ["2023-05-07T17:00:58.208515+00:00", 10949, "Your mother is", "decreasing monotonic", "Similar to: monotone", "Definition: consistently decreasing", ""]}
+{"data": ["2023-05-07T18:01:09.267046+00:00", 10950, "Your mother is", "denotive", "Pronunciation: /d\u026a\u02c8no\u028at\u026av/", "Definition: having the power of explicitly denoting or designating or naming", "Synonyms: denotative"]}
