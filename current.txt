@@ -1,1 +1,1 @@
-{"data": ["2023-05-08T12:01:22.022177+00:00", 10968, "Your mother is", "sanitized", "Pronunciation: /\u02c8s\u00e6n\u026a\u02ccta\u026azd/", "Definition: made sanitary", "Synonyms: sanitised"]}
+{"data": ["2023-05-08T13:01:15.141869+00:00", 10969, "Your mother is", "gleaming", "Pronunciation: /\u02c8\u0261lim\u026a\u014b/", "Definition: bright with a steady but subdued shining", "Synonyms: agleam, nitid"]}
