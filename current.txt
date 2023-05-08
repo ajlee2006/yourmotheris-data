@@ -1,1 +1,1 @@
-{"data": ["2023-05-08T15:01:01.133294+00:00", 10971, "Your mother is", "melodious", "Pronunciation: /m\u0259\u02c8lo\u028adi\u0259s/", "Definition: containing or constituting or characterized by pleasing melody", "Synonyms: melodic, musical"]}
+{"data": ["2023-05-08T16:00:53.520709+00:00", 10972, "Your mother is", "unspoilt", "Pronunciation: /\u0259n\u02c8sp\u0254\u026alt/", "Definition: not left to spoil", "Synonyms: good, unspoiled"]}
