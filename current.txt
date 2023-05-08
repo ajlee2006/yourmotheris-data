@@ -1,1 +1,1 @@
-{"data": ["2023-05-08T22:01:35.761510+00:00", 10978, "Your mother is", "vapourish", "Pronunciation: /\u02c8ve\u026ap\u0259r\u026a\u0283/", "Definition: resembling or characteristic of vapor", "Synonyms: vaporific, vaporish, vaporous, vapourific, vapourous"]}
+{"data": ["2023-05-08T23:02:00.353599+00:00", 10979, "Your mother is", "extant", "Pronunciation: /\u02c8\u025bkst\u0259nt/", "Definition: still in existence; not extinct or destroyed or lost", ""]}
