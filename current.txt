@@ -1,1 +1,1 @@
-{"data": ["2023-05-08T06:00:58.523739+00:00", 10962, "Your mother is", "iodised", "", "Definition: treated with iodine", "Synonyms: iodinated, iodized"]}
+{"data": ["2023-05-08T07:01:19.285502+00:00", 10963, "Your mother is", "skeletal", "Pronunciation: /\u02c8sk\u025bl\u028ct\u028cl/", "Definition: very thin especially from disease or hunger or cold", "Synonyms: cadaverous, emaciated, gaunt, haggard, pinched, wasted"]}
