@@ -1,1 +1,1 @@
-{"data": ["2023-05-08T11:01:13.682765+00:00", 10967, "Your mother is", "junoesque", "Pronunciation: /\u02ccd\u0292uno\u028a\u02c8\u025bsk/", "Definition: suggestive of a statue", "Synonyms: statuesque"]}
+{"data": ["2023-05-08T12:01:22.022177+00:00", 10968, "Your mother is", "sanitized", "Pronunciation: /\u02c8s\u00e6n\u026a\u02ccta\u026azd/", "Definition: made sanitary", "Synonyms: sanitised"]}
