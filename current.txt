@@ -1,1 +1,1 @@
-{"data": ["2023-05-08T19:00:55.202572+00:00", 10975, "Your mother is", "glutted", "Pronunciation: /\u02c8\u0261l\u028ct\u026ad/", "Definition: exceeding demand", "Synonyms: overfull"]}
+{"data": ["2023-05-08T20:01:23.660832+00:00", 10976, "Your mother is", "hebdomadary", "Pronunciation: /h\u025bb\u02c8d\u0251m\u0259\u02ccd\u025bri/", "Definition: of or occurring every seven days", "Synonyms: hebdomadal, weekly"]}
