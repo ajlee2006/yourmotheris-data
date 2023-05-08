@@ -1,1 +1,1 @@
-{"data": ["2023-05-08T01:00:56.724204+00:00", 10957, "Your mother is", "reverential", "Pronunciation: /\u02ccr\u025bv\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: feeling or manifesting veneration", "Synonyms: respectful, venerating"]}
+{"data": ["2023-05-08T02:01:06.512636+00:00", 10958, "Your mother is", "fetal", "Pronunciation: /\u02c8fit\u0259l/", "Definition: of or relating to a fetus", "Synonyms: foetal"]}
