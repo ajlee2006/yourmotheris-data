@@ -1,1 +1,1 @@
-{"data": ["2023-05-08T08:00:55.369482+00:00", 10964, "Your mother is", "undyed", "Pronunciation: /\u0259n\u02c8da\u026ad/", "Definition: not artificially colored or bleached", "Synonyms: unbleached, uncolored"]}
+{"data": ["2023-05-08T09:01:04.606288+00:00", 10965, "Your mother is", "extracurricular", "Pronunciation: /\u02cc\u025bkstr\u0259k\u0259\u02c8r\u026akj\u0259l\u0259r/", "Definition: characterized by adultery", "Synonyms: adulterous, extramarital"]}
