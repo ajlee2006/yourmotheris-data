@@ -1,1 +1,1 @@
-{"data": ["2023-05-08T00:01:44.778170+00:00", 10956, "Your mother is", "low-necked", "Pronunciation: /\u02c8lo\u028a\u02c8n\u025bkt/", "Definition: (of a garment) having a low-cut neckline", "Synonyms: decollete, low-cut"]}
+{"data": ["2023-05-08T01:00:56.724204+00:00", 10957, "Your mother is", "reverential", "Pronunciation: /\u02ccr\u025bv\u0259\u02c8r\u025bn\u0283\u0259l/", "Definition: feeling or manifesting veneration", "Synonyms: respectful, venerating"]}
