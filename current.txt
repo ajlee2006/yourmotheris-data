@@ -1,1 +1,1 @@
-{"data": ["2023-05-08T09:01:04.606288+00:00", 10965, "Your mother is", "extracurricular", "Pronunciation: /\u02cc\u025bkstr\u0259k\u0259\u02c8r\u026akj\u0259l\u0259r/", "Definition: characterized by adultery", "Synonyms: adulterous, extramarital"]}
+{"data": ["2023-05-08T10:01:30.986850+00:00", 10966, "Your mother is", "dyslogistic", "Pronunciation: /\u02ccd\u026asl\u0259\u02c8d\u0292\u026ast\u026ak/", "Definition: expressing disapproval", "Synonyms: dislogistic, pejorative"]}
