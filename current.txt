@@ -1,1 +1,1 @@
-{"data": ["2023-05-08T18:00:56.584484+00:00", 10974, "Your mother is", "king-sized", "Pronunciation: /k\u026a\u014b-sa\u026azd/", "Definition: extra large", "Synonyms: king-size"]}
+{"data": ["2023-05-08T19:00:55.202572+00:00", 10975, "Your mother is", "glutted", "Pronunciation: /\u02c8\u0261l\u028ct\u026ad/", "Definition: exceeding demand", "Synonyms: overfull"]}
