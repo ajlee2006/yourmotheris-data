@@ -1,1 +1,1 @@
-{"data": ["2023-05-09T02:01:14.886694+00:00", 10982, "Your mother is", "spiraling", "Pronunciation: /\u02c8spa\u026ar\u028cl\u026a\u014b/", "Definition: in the shape of a coil", "Synonyms: coiling, helical, spiral, turbinate, volute, voluted, whorled"]}
+{"data": ["2023-05-09T03:01:06.330976+00:00", 10983, "Your mother is", "uncared-for", "Pronunciation: /\u0259n\u02c8k\u025cdfo\u028ar/", "Definition: lacking needed care and attention", ""]}
