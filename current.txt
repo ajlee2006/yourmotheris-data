@@ -1,1 +1,1 @@
-{"data": ["2023-05-09T10:01:07.331147+00:00", 10990, "Your mother is", "damned", "Pronunciation: /d\u00e6md/", "Definition: in danger of the eternal punishment of Hell", "Synonyms: cursed, doomed, unredeemed, unsaved"]}
+{"data": ["2023-05-09T11:01:38.921481+00:00", 10991, "Your mother is", "murmurous", "Pronunciation: /\u02c8m\u025crm\u0259r\u0259s/", "Definition: characterized by soft sounds", "Synonyms: rustling, soughing, susurrous"]}
