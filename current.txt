@@ -1,1 +1,1 @@
-{"data": ["2023-05-09T19:00:54.909557+00:00", 10998, "Your mother is", "speculative", "Pronunciation: /\u02c8sp\u025bkj\u0259\u02ccle\u026at\u026av/", "Definition: showing curiosity", "Synonyms: inquisitive, questioning, wondering"]}
+{"data": ["2023-05-09T20:01:21.431980+00:00", 10999, "Your mother is", "cramped", "Pronunciation: /kr\u00e6mpt/", "Definition: constricted in size", ""]}
