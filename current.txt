@@ -1,1 +1,1 @@
-{"data": ["2023-05-09T00:02:48.651962+00:00", 10980, "Your mother is", "hail-fellow-well-met", "Similar to: friendly", "Definition: heartily friendly and congenial", "Synonyms: comradely, hail-fellow"]}
+{"data": ["2023-05-09T01:01:19.869601+00:00", 10981, "Your mother is", "counter", "Pronunciation: /\u02c8ka\u028ant\u0259r/", "Definition: indicating opposition or resistance", "Synonyms: antagonistic"]}
