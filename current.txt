@@ -1,1 +1,1 @@
-{"data": ["2023-05-09T06:01:06.598670+00:00", 10986, "Your mother is", "garmented", "Similar to: clad", "Definition: dressed or clothed especially in fine attire; often used in combination", "Synonyms: appareled, attired, dressed, garbed, habilimented, robed"]}
+{"data": ["2023-05-09T07:01:06.108582+00:00", 10987, "Your mother is", "favored", "Pronunciation: /\u02c8fe\u026av\u0259rd/", "Definition: preferred above all others and treated with partiality", "Synonyms: best-loved, favorite, favourite, pet, preferent, preferred"]}
