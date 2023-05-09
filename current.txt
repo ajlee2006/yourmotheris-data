@@ -1,1 +1,1 @@
-{"data": ["2023-05-09T22:01:17.389411+00:00", 11001, "Your mother is", "top-hole", "Pronunciation: /t\u0251p-ho\u028al/", "Definition: excellent; best possible", "Synonyms: top-flight, topping"]}
+{"data": ["2023-05-09T23:00:49.643903+00:00", 11002, "Your mother is", "small-winged", "Similar to: winged", "Definition: having small wings", ""]}
