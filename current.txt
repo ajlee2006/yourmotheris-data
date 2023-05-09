@@ -1,1 +1,1 @@
-{"data": ["2023-05-08T23:02:00.353599+00:00", 10979, "Your mother is", "extant", "Pronunciation: /\u02c8\u025bkst\u0259nt/", "Definition: still in existence; not extinct or destroyed or lost", ""]}
+{"data": ["2023-05-09T00:02:48.651962+00:00", 10980, "Your mother is", "hail-fellow-well-met", "Similar to: friendly", "Definition: heartily friendly and congenial", "Synonyms: comradely, hail-fellow"]}
