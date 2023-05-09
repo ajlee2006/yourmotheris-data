@@ -1,1 +1,1 @@
-{"data": ["2023-05-09T14:01:38.476132+00:00", 10993, "Your mother is", "midget", "Pronunciation: /\u02c8m\u026ad\u0292\u026at/", "Definition: very small", "Synonyms: bantam, diminutive, flyspeck, lilliputian, petite, tiny"]}
+{"data": ["2023-05-09T15:01:00.314744+00:00", 10994, "Your mother is", "unwarmed", "Pronunciation: /\u0259n\u02c8wo\u028armd/", "Definition: not having been heated or warmed", "Synonyms: unheated"]}
