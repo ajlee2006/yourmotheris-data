@@ -1,1 +1,1 @@
-{"data": ["2023-05-09T18:01:11.814644+00:00", 10997, "Your mother is", "cell-free", "Similar to: acellular", "Definition: lacking cells", ""]}
+{"data": ["2023-05-09T19:00:54.909557+00:00", 10998, "Your mother is", "speculative", "Pronunciation: /\u02c8sp\u025bkj\u0259\u02ccle\u026at\u026av/", "Definition: showing curiosity", "Synonyms: inquisitive, questioning, wondering"]}
