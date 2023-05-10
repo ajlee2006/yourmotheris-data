@@ -1,1 +1,1 @@
-{"data": ["2023-05-10T17:01:10.252003+00:00", 11020, "Your mother is", "unhealthful", "Pronunciation: /\u0259n\u02c8h\u025bl\u03b8f\u028al/", "Definition: not sanitary or healthful", "Synonyms: insanitary, unsanitary"]}
+{"data": ["2023-05-10T18:01:00.247807+00:00", 11021, "Your mother is", "conformable", "Pronunciation: /k\u0259n\u02c8f\u0254rm\u0259b\u0259l/", "Definition: disposed or willing to conform", "Synonyms: amenable"]}
