@@ -1,1 +1,1 @@
-{"data": ["2023-05-10T06:01:15.529684+00:00", 11009, "Your mother is", "impermissible", "Pronunciation: /\u02cc\u026amp\u0259r\u02c8m\u026as\u0259b\u0259l/", "Definition: not allowable", ""]}
+{"data": ["2023-05-10T07:01:02.618869+00:00", 11010, "Your mother is", "facilitatory", "Similar to: helpful", "Definition: inducing or aiding in facilitating neural activity", ""]}
