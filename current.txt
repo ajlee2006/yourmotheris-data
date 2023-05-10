@@ -1,1 +1,1 @@
-{"data": ["2023-05-10T01:01:27.805971+00:00", 11004, "Your mother is", "rife", "Pronunciation: /ra\u026af/", "Definition: most frequent or common", "Synonyms: dominant, predominant, prevailing, prevalent"]}
+{"data": ["2023-05-10T02:01:05.735361+00:00", 11005, "Your mother is", "executed", "Pronunciation: /\u02c8\u025bks\u028c\u02cckjut\u028cd/", "Definition: put to death as punishment", ""]}
