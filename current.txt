@@ -1,1 +1,1 @@
-{"data": ["2023-05-10T09:00:58.268640+00:00", 11012, "Your mother is", "exacerbating", "Pronunciation: /\u026a\u0261\u02c8z\u00e6s\u025dr\u02ccbe\u026at\u026a\u014b/", "Definition: making worse", "Synonyms: aggravating, exasperating"]}
+{"data": ["2023-05-10T10:01:22.788523+00:00", 11013, "Your mother is", "homiletical", "", "Definition: of or relating to homiletics", "Synonyms: homiletic"]}
