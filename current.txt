@@ -1,1 +1,1 @@
-{"data": ["2023-05-10T02:01:05.735361+00:00", 11005, "Your mother is", "executed", "Pronunciation: /\u02c8\u025bks\u028c\u02cckjut\u028cd/", "Definition: put to death as punishment", ""]}
+{"data": ["2023-05-10T03:00:51.914363+00:00", 11006, "Your mother is", "romany", "Pronunciation: /\u02c8r\u0251m\u0259ni/", "Definition: of or relating to the Gypsies or their language or culture", "Synonyms: romani"]}
