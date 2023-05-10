@@ -1,1 +1,1 @@
-{"data": ["2023-05-10T19:00:59.836678+00:00", 11022, "Your mother is", "inspirational", "Pronunciation: /\u02cc\u026ansp\u0259\u02c8re\u026a\u0283\u0259n\u0259l/", "Definition: imparting a divine influence on the mind and soul", ""]}
+{"data": ["2023-05-10T20:01:38.379900+00:00", 11023, "Your mother is", "one-time", "Pronunciation: /w\u0259n-ta\u026am/", "Definition: belonging to some prior time", "Synonyms: erstwhile, former, old, onetime, quondam, sometime"]}
