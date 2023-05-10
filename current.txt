@@ -1,1 +1,1 @@
-{"data": ["2023-05-10T16:01:08.255989+00:00", 11019, "Your mother is", "good-humored", "Pronunciation: /\u02c8\u0261\u028ad\u02c8hjum\u0259rd/", "Definition: disposed to please", "Synonyms: amiable, good-humoured"]}
+{"data": ["2023-05-10T17:01:10.252003+00:00", 11020, "Your mother is", "unhealthful", "Pronunciation: /\u0259n\u02c8h\u025bl\u03b8f\u028al/", "Definition: not sanitary or healthful", "Synonyms: insanitary, unsanitary"]}
