@@ -1,1 +1,1 @@
-{"data": ["2023-05-10T12:01:00.096492+00:00", 11015, "Your mother is", "sore", "Pronunciation: /so\u028ar/", "Definition: roused to anger", "Synonyms: huffy, mad"]}
+{"data": ["2023-05-10T13:00:59.080902+00:00", 11016, "Your mother is", "unfinished", "Pronunciation: /\u0259n\u02c8f\u026an\u026a\u0283t/", "Definition: lacking a surface finish such as paint", "Synonyms: bare"]}
