@@ -1,1 +1,1 @@
-{"data": ["2023-05-10T21:00:55.256850+00:00", 11024, "Your mother is", "clockwise", "Pronunciation: /\u02c8kl\u0251k\u02ccwa\u026az/", "Definition: in the same direction as the rotating hands of a clock", ""]}
+{"data": ["2023-05-10T22:01:24.081677+00:00", 11025, "Your mother is", "flat-bellied", "", "Definition: lacking a prominent belly", "Synonyms: bellyless"]}
