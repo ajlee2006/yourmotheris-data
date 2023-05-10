@@ -1,1 +1,1 @@
-{"data": ["2023-05-10T20:01:38.379900+00:00", 11023, "Your mother is", "one-time", "Pronunciation: /w\u0259n-ta\u026am/", "Definition: belonging to some prior time", "Synonyms: erstwhile, former, old, onetime, quondam, sometime"]}
+{"data": ["2023-05-10T21:00:55.256850+00:00", 11024, "Your mother is", "clockwise", "Pronunciation: /\u02c8kl\u0251k\u02ccwa\u026az/", "Definition: in the same direction as the rotating hands of a clock", ""]}
