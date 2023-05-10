@@ -1,1 +1,1 @@
-{"data": ["2023-05-10T04:01:13.132192+00:00", 11007, "Your mother is", "incommodious", "Pronunciation: /\u02cc\u026ank\u0259\u02c8mo\u028adi\u0259s/", "Definition: uncomfortably or inconveniently small", ""]}
+{"data": ["2023-05-10T05:01:28.388534+00:00", 11008, "Your mother is", "91", "Similar to: cardinal", "Definition: being one more than ninety", "Synonyms: ninety-one, xci"]}
