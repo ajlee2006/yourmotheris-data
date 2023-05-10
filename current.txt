@@ -1,1 +1,1 @@
-{"data": ["2023-05-09T23:00:49.643903+00:00", 11002, "Your mother is", "small-winged", "Similar to: winged", "Definition: having small wings", ""]}
+{"data": ["2023-05-10T00:01:51.765962+00:00", 11003, "Your mother is", "degressive", "Pronunciation: /d\u026a\u02c8gr\u025bs\u026av/", "Definition: going down by steps", ""]}
