@@ -1,1 +1,1 @@
-{"data": ["2023-05-11T01:01:22.085295+00:00", 11028, "Your mother is", "inst", "Similar to: present", "Definition: in or of the present month", "Synonyms: instant"]}
+{"data": ["2023-05-11T02:01:24.421151+00:00", 11029, "Your mother is", "psychiatrical", "", "Definition: relating to or used in or engaged in the practice of psychiatry", "Synonyms: psychiatric"]}
