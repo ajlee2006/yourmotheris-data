@@ -1,1 +1,1 @@
-{"data": ["2023-05-11T04:01:30.511870+00:00", 11031, "Your mother is", "good-looking", "Similar to: beautiful", "Definition: pleasing in appearance especially by reason of conformity to ideals of form and proportion", "Synonyms: better-looking, fine-looking, handsome, well-favored, well-favoured"]}
+{"data": ["2023-05-11T05:01:33.425689+00:00", 11032, "Your mother is", "spikelike", "Similar to: pointed", "Definition: resembling a spike", ""]}
