@@ -1,1 +1,1 @@
-{"data": ["2023-05-11T17:00:49.313449+00:00", 11044, "Your mother is", "good-looking", "Similar to: beautiful", "Definition: pleasing in appearance especially by reason of conformity to ideals of form and proportion", "Synonyms: better-looking, fine-looking, handsome, well-favored, well-favoured"]}
+{"data": ["2023-05-11T18:01:24.642802+00:00", 11045, "Your mother is", "evidenced", "Pronunciation: /\u02c8\u025bv\u026ad\u028cnst/", "Definition: supported by evidence", ""]}
