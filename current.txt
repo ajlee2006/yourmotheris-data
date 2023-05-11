@@ -1,1 +1,1 @@
-{"data": ["2023-05-11T10:00:55.513500+00:00", 11037, "Your mother is", "orange-brown", "Similar to: chromatic", "Definition: of brown tinged with orange", ""]}
+{"data": ["2023-05-11T11:01:29.307994+00:00", 11038, "Your mother is", "sausage-shaped", "Pronunciation: /\u02c8s\u0254s\u026ad\u0292-\u0283e\u026apt/", "Definition: shaped like a sausage", "Synonyms: allantoid"]}
