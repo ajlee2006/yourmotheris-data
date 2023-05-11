@@ -1,1 +1,1 @@
-{"data": ["2023-05-11T00:02:01.766356+00:00", 11027, "Your mother is", "bone dry", "Similar to: dry", "Definition: without a trace of moisture; as dry as a weathered bone", "Synonyms: bone-dry"]}
+{"data": ["2023-05-11T01:01:22.085295+00:00", 11028, "Your mother is", "inst", "Similar to: present", "Definition: in or of the present month", "Synonyms: instant"]}
