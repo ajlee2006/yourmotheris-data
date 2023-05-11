@@ -1,1 +1,1 @@
-{"data": ["2023-05-11T16:01:23.924257+00:00", 11043, "Your mother is", "one-way", "Pronunciation: /w\u0259n-we\u026a/", "Definition: moving or permitting movement in one direction only", ""]}
+{"data": ["2023-05-11T17:00:49.313449+00:00", 11044, "Your mother is", "good-looking", "Similar to: beautiful", "Definition: pleasing in appearance especially by reason of conformity to ideals of form and proportion", "Synonyms: better-looking, fine-looking, handsome, well-favored, well-favoured"]}
