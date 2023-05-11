@@ -1,1 +1,1 @@
-{"data": ["2023-05-11T02:01:24.421151+00:00", 11029, "Your mother is", "psychiatrical", "", "Definition: relating to or used in or engaged in the practice of psychiatry", "Synonyms: psychiatric"]}
+{"data": ["2023-05-11T03:01:11.131503+00:00", 11030, "Your mother is", "antineoplastic", "", "Definition: used in the treatment of cancer", "Synonyms: anticancer, antitumor, antitumour"]}
