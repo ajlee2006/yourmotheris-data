@@ -1,1 +1,1 @@
-{"data": ["2023-05-11T11:01:29.307994+00:00", 11038, "Your mother is", "sausage-shaped", "Pronunciation: /\u02c8s\u0254s\u026ad\u0292-\u0283e\u026apt/", "Definition: shaped like a sausage", "Synonyms: allantoid"]}
+{"data": ["2023-05-11T12:00:59.005872+00:00", 11039, "Your mother is", "in his right mind", "Similar to: sane", "Definition: behaving responsibly", "Synonyms: in her right mind, in their right minds"]}
