@@ -1,1 +1,1 @@
-{"data": ["2023-05-11T21:01:16.895495+00:00", 11048, "Your mother is", "cumulative", "Pronunciation: /\u02c8kjumj\u0259\u02ccle\u026at\u026av/", "Definition: increasing by successive addition", "Synonyms: accumulative"]}
+{"data": ["2023-05-11T22:01:14.617120+00:00", 11049, "Your mother is", "paradisiacal", "Pronunciation: /\u02ccp\u00e6r\u0259d\u026a\u02c8sa\u026a\u0259k\u0259l/", "Definition: relating to or befitting Paradise", "Synonyms: paradisaic, paradisaical, paradisal, paradisiac"]}
