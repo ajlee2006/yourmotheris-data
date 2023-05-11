@@ -1,1 +1,1 @@
-{"data": ["2023-05-10T23:01:24.634925+00:00", 11026, "Your mother is", "filipino", "Pronunciation: /\u02ccf\u026al\u0259\u02c8pino\u028a/", "Definition: of or relating to or characteristic of the Philippines or its people or customs", "Synonyms: philippine"]}
+{"data": ["2023-05-11T00:02:01.766356+00:00", 11027, "Your mother is", "bone dry", "Similar to: dry", "Definition: without a trace of moisture; as dry as a weathered bone", "Synonyms: bone-dry"]}
