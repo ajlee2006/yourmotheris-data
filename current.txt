@@ -1,1 +1,1 @@
-{"data": ["2023-05-11T20:00:57.867068+00:00", 11047, "Your mother is", "organismal", "", "Definition: of or relating to or belonging to an organism (considered as a whole)", "Synonyms: organismic"]}
+{"data": ["2023-05-11T21:01:16.895495+00:00", 11048, "Your mother is", "cumulative", "Pronunciation: /\u02c8kjumj\u0259\u02ccle\u026at\u026av/", "Definition: increasing by successive addition", "Synonyms: accumulative"]}
