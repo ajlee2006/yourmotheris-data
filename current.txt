@@ -1,1 +1,1 @@
-{"data": ["2023-05-12T06:01:26.118189+00:00", 11057, "Your mother is", "heretical", "Pronunciation: /h\u0259\u02c8r\u025bt\u026ak\u0259l/", "Definition: characterized by departure from accepted beliefs or standards", "Synonyms: dissident, heterodox"]}
+{"data": ["2023-05-12T07:01:16.772712+00:00", 11058, "Your mother is", "broached", "Pronunciation: /bro\u028at\u0283t/", "Definition: of a cask or barrel", "Synonyms: abroach"]}
