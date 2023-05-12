@@ -1,1 +1,1 @@
-{"data": ["2023-05-12T14:01:08.237495+00:00", 11065, "Your mother is", "ideological", "Pronunciation: /\u02cca\u026adi\u028c\u02c8l\u0251d\u0292\u026ak\u028cl/", "Definition: concerned with or suggestive of ideas", "Synonyms: ideologic"]}
+{"data": ["2023-05-12T15:01:22.147232+00:00", 11066, "Your mother is", "kitty-corner", "Pronunciation: /\u02c8k\u026ati-\u02c8k\u0254rn\u0259r/", "Definition: slanted across a polygon on a diagonal line", "Synonyms: cata-cornered, catacorner, cater-cornered, catercorner, catty-corner, catty-cornered, kitty-cornered"]}
