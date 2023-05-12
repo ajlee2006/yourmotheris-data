@@ -1,1 +1,1 @@
-{"data": ["2023-05-12T08:01:20.390351+00:00", 11059, "Your mother is", "fried", "Pronunciation: /frid/", "Definition: cooked by frying in fat", "Synonyms: deep-fried"]}
+{"data": ["2023-05-12T09:01:23.025640+00:00", 11060, "Your mother is", "cliched", "Pronunciation: /\u02c8kli\u0283e\u026ad/", "Definition: repeated regularly without thought or originality", "Synonyms: ready-made"]}
