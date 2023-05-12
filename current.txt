@@ -1,1 +1,1 @@
-{"data": ["2023-05-12T03:00:55.493721+00:00", 11054, "Your mother is", "awed", "Pronunciation: /\u0254d/", "Definition: inspired by a feeling of fearful wonderment or reverence", "Synonyms: awful"]}
+{"data": ["2023-05-12T04:00:54.215336+00:00", 11055, "Your mother is", "discernable", "", "Definition: perceptible by the senses or intellect", "Synonyms: discernible"]}
