@@ -1,1 +1,1 @@
-{"data": ["2023-05-12T19:00:50.479919+00:00", 11070, "Your mother is", "bicolour", "Similar to: colored", "Definition: having two colors", "Synonyms: bichrome, bicolor, bicolored, bicoloured, dichromatic"]}
+{"data": ["2023-05-12T20:01:27.922065+00:00", 11071, "Your mother is", "northwestward", "Similar to: north", "Definition: toward the northwest", ""]}
