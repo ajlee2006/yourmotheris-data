@@ -1,1 +1,1 @@
-{"data": ["2023-05-12T20:01:27.922065+00:00", 11071, "Your mother is", "northwestward", "Similar to: north", "Definition: toward the northwest", ""]}
+{"data": ["2023-05-12T21:01:13.550398+00:00", 11072, "Your mother is", "highly-developed", "Similar to: industrial", "Definition: (used of societies) having high industrial development", "Synonyms: developed"]}
