@@ -1,1 +1,1 @@
-{"data": ["2023-05-12T09:01:23.025640+00:00", 11060, "Your mother is", "cliched", "Pronunciation: /\u02c8kli\u0283e\u026ad/", "Definition: repeated regularly without thought or originality", "Synonyms: ready-made"]}
+{"data": ["2023-05-12T10:00:52.358455+00:00", 11061, "Your mother is", "left-slanting", "Similar to: written", "Definition: (of handwriting) having the letters slanting backward", "Synonyms: backhand"]}
