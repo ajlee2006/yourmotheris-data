@@ -1,1 +1,1 @@
-{"data": ["2023-05-12T05:00:55.247075+00:00", 11056, "Your mother is", "neanderthalian", "", "Definition: relating to or belonging to or resembling Neanderthal man", "Synonyms: neandertal, neanderthal"]}
+{"data": ["2023-05-12T06:01:26.118189+00:00", 11057, "Your mother is", "heretical", "Pronunciation: /h\u0259\u02c8r\u025bt\u026ak\u0259l/", "Definition: characterized by departure from accepted beliefs or standards", "Synonyms: dissident, heterodox"]}
