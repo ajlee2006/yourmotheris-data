@@ -1,1 +1,1 @@
-{"data": ["2023-05-12T15:01:22.147232+00:00", 11066, "Your mother is", "kitty-corner", "Pronunciation: /\u02c8k\u026ati-\u02c8k\u0254rn\u0259r/", "Definition: slanted across a polygon on a diagonal line", "Synonyms: cata-cornered, catacorner, cater-cornered, catercorner, catty-corner, catty-cornered, kitty-cornered"]}
+{"data": ["2023-05-12T16:01:09.775244+00:00", 11067, "Your mother is", "willful", "Pronunciation: /\u02c8w\u026alf\u0259l/", "Definition: done by design", "Synonyms: wilful"]}
