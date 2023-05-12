@@ -1,1 +1,1 @@
-{"data": ["2023-05-12T00:02:14.116371+00:00", 11051, "Your mother is", "valedictory", "Pronunciation: /\u02ccv\u00e6l\u026a\u02c8d\u026akt\u0259ri/", "Definition: of a speech expressing leave-taking", ""]}
+{"data": ["2023-05-12T01:00:55.011350+00:00", 11052, "Your mother is", "brindled", "Pronunciation: /\u02c8br\u026and\u0259ld/", "Definition: having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats", "Synonyms: brinded, brindle, tabby"]}
