@@ -1,1 +1,1 @@
-{"data": ["2023-05-12T11:00:57.252642+00:00", 11062, "Your mother is", "individualized", "Pronunciation: /\u02cc\u026and\u026a\u02c8v\u026ad\u0292u\u028cla\u026azd/", "Definition: made for or directed or adjusted to a particular individual", "Synonyms: individualised, personalised, personalized"]}
+{"data": ["2023-05-12T12:01:15.376782+00:00", 11063, "Your mother is", "32nd", "Similar to: ordinal", "Definition: the ordinal number of thirty-two in counting order", "Synonyms: thirty-second"]}
