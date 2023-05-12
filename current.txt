@@ -1,1 +1,1 @@
-{"data": ["2023-05-12T01:00:55.011350+00:00", 11052, "Your mother is", "brindled", "Pronunciation: /\u02c8br\u026and\u0259ld/", "Definition: having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats", "Synonyms: brinded, brindle, tabby"]}
+{"data": ["2023-05-12T02:01:13.228444+00:00", 11053, "Your mother is", "right-side-up", "Similar to: unturned", "Definition: of objects having a top and bottom", ""]}
