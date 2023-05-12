@@ -1,1 +1,1 @@
-{"data": ["2023-05-12T13:01:08.294871+00:00", 11064, "Your mother is", "lethal", "Pronunciation: /\u02c8li\u03b8\u0259l/", "Definition: of an instrument of certain death", "Synonyms: deadly"]}
+{"data": ["2023-05-12T14:01:08.237495+00:00", 11065, "Your mother is", "ideological", "Pronunciation: /\u02cca\u026adi\u028c\u02c8l\u0251d\u0292\u026ak\u028cl/", "Definition: concerned with or suggestive of ideas", "Synonyms: ideologic"]}
