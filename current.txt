@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T01:00:53.206485+00:00", 11076, "Your mother is", "shiny", "Pronunciation: /\u02c8\u0283a\u026ani/", "Definition: having a shiny surface or coating", "Synonyms: glazed"]}
+{"data": ["2023-05-13T02:01:21.054811+00:00", 11077, "Your mother is", "hypnotised", "Similar to: enchanted", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotized, mesmerised, mesmerized, spell-bound, spellbound, transfixed"]}
