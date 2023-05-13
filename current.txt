@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T12:01:04.196312+00:00", 11087, "Your mother is", "nauseated", "Pronunciation: /\u02c8n\u0254zi\u02cce\u026at\u028cd/", "Definition: feeling nausea; feeling about to vomit", "Synonyms: nauseous, queasy, sick, sickish"]}
+{"data": ["2023-05-13T13:01:05.188019+00:00", 11088, "Your mother is", "lathery", "Pronunciation: /\u02c8l\u00e6\u00f0\u0259ri/", "Definition: resembling lather or covered with lather", "Synonyms: sudsy"]}
