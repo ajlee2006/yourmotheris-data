@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T11:00:54.735617+00:00", 11086, "Your mother is", "entire", "Pronunciation: /\u025bn\u02c8ta\u026a\u0259r/", "Definition: constituting the full quantity or extent; complete", "Synonyms: full, total"]}
+{"data": ["2023-05-13T12:01:04.196312+00:00", 11087, "Your mother is", "nauseated", "Pronunciation: /\u02c8n\u0254zi\u02cce\u026at\u028cd/", "Definition: feeling nausea; feeling about to vomit", "Synonyms: nauseous, queasy, sick, sickish"]}
