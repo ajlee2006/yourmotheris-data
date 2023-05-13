@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T05:01:12.226281+00:00", 11080, "Your mother is", "antitrust", "Pronunciation: /\u02cc\u00e6nti\u02c8tr\u0259st/", "Definition: of laws and regulations; designed to protect trade and commerce from unfair business practices", "Synonyms: antimonopoly"]}
+{"data": ["2023-05-13T06:01:04.386951+00:00", 11081, "Your mother is", "adrenocorticotropic", "Pronunciation: /\u0259\u02c8drino\u028a\u02cck\u0254rt\u0259ko\u028a\u02c8tr\u0251p\u026ak/", "Definition: stimulating or acting on the adrenal cortex", "Synonyms: adrenocorticotrophic"]}
