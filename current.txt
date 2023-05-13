@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T02:01:21.054811+00:00", 11077, "Your mother is", "hypnotised", "Similar to: enchanted", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotized, mesmerised, mesmerized, spell-bound, spellbound, transfixed"]}
+{"data": ["2023-05-13T03:01:20.564170+00:00", 11078, "Your mother is", "shopsoiled", "Similar to: worn", "Definition: worn or faded from being on display in a store", "Synonyms: shopworn"]}
