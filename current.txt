@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T09:01:27.196472+00:00", 11084, "Your mother is", "upper-middle-class", "Similar to: middle-class", "Definition: occupying the upper part of the middle socioeconomic range in a society", ""]}
+{"data": ["2023-05-13T10:01:13.368086+00:00", 11085, "Your mother is", "tittering", "", "Definition: being or sounding of nervous or suppressed laughter", "Synonyms: thoriated"]}
