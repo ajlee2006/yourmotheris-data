@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T00:02:10.843771+00:00", 11075, "Your mother is", "bidirectional", "Pronunciation: /\u02ccba\u026ad\u026a\u02c8r\u025bk\u0283\u0259n\u0259l/", "Definition: reactive or functioning or allowing movement in two usually opposite directions", ""]}
+{"data": ["2023-05-13T01:00:53.206485+00:00", 11076, "Your mother is", "shiny", "Pronunciation: /\u02c8\u0283a\u026ani/", "Definition: having a shiny surface or coating", "Synonyms: glazed"]}
