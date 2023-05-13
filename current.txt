@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T07:01:27.596894+00:00", 11082, "Your mother is", "redoubtable", "Pronunciation: /r\u026a\u02c8da\u028at\u0259b\u0259l/", "Definition: inspiring fear", "Synonyms: formidable, unnerving"]}
+{"data": ["2023-05-13T08:01:16.745664+00:00", 11083, "Your mother is", "cosmological", "Pronunciation: /\u02cck\u0251zm\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe", "Synonyms: cosmogenic, cosmogonic, cosmogonical, cosmologic"]}
