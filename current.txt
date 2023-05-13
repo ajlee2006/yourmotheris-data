@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T06:01:04.386951+00:00", 11081, "Your mother is", "adrenocorticotropic", "Pronunciation: /\u0259\u02c8drino\u028a\u02cck\u0254rt\u0259ko\u028a\u02c8tr\u0251p\u026ak/", "Definition: stimulating or acting on the adrenal cortex", "Synonyms: adrenocorticotrophic"]}
+{"data": ["2023-05-13T07:01:27.596894+00:00", 11082, "Your mother is", "redoubtable", "Pronunciation: /r\u026a\u02c8da\u028at\u0259b\u0259l/", "Definition: inspiring fear", "Synonyms: formidable, unnerving"]}
