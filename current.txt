@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T17:01:00.426888+00:00", 11092, "Your mother is", "obtainable", "Pronunciation: /\u028cb\u02c8te\u026an\u028cb\u028cl/", "Definition: capable of being obtained", "Synonyms: getable, gettable, procurable"]}
+{"data": ["2023-05-13T18:01:11.815958+00:00", 11093, "Your mother is", "hushed-up", "Similar to: suppressed", "Definition: (used of information or news) kept secret by using influence", ""]}
