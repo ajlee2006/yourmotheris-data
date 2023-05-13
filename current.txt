@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T22:00:58.007735+00:00", 11097, "Your mother is", "self-complacent", "Pronunciation: /s\u025blf-k\u0259m\u02c8ple\u026as\u0259nt/", "Definition: contented to a fault with oneself or one's actions", "Synonyms: complacent, self-satisfied"]}
+{"data": ["2023-05-13T23:01:34.761141+00:00", 11098, "Your mother is", "threadbare", "Pronunciation: /\u02c8\u03b8r\u025bd\u02ccb\u025cr/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, timeworn, tired, trite, well-worn"]}
