@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T08:01:16.745664+00:00", 11083, "Your mother is", "cosmological", "Pronunciation: /\u02cck\u0251zm\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: pertaining to the branch of astronomy dealing with the origin and history and structure and dynamics of the universe", "Synonyms: cosmogenic, cosmogonic, cosmogonical, cosmologic"]}
+{"data": ["2023-05-13T09:01:27.196472+00:00", 11084, "Your mother is", "upper-middle-class", "Similar to: middle-class", "Definition: occupying the upper part of the middle socioeconomic range in a society", ""]}
