@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T19:01:20.034191+00:00", 11094, "Your mother is", "unbranched", "Similar to: branchless", "Definition: without branches", "Synonyms: unbranching"]}
+{"data": ["2023-05-13T20:00:55.178793+00:00", 11095, "Your mother is", "obsolete", "Pronunciation: /\u02cc\u0251bs\u0259\u02c8lit/", "Definition: no longer in use", "Synonyms: disused"]}
