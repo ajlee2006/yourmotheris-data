@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T21:01:03.657259+00:00", 11096, "Your mother is", "knowable", "Pronunciation: /\u02c8no\u028a\u0259b\u0259l/", "Definition: capable of being known", "Synonyms: cognisable, cognizable, cognoscible"]}
+{"data": ["2023-05-13T22:00:58.007735+00:00", 11097, "Your mother is", "self-complacent", "Pronunciation: /s\u025blf-k\u0259m\u02c8ple\u026as\u0259nt/", "Definition: contented to a fault with oneself or one's actions", "Synonyms: complacent, self-satisfied"]}
