@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T04:01:09.296666+00:00", 11079, "Your mother is", "worldly-minded", "Pronunciation: /\u02c8w\u025crldli-\u02c8ma\u026and\u026ad/", "Definition: marked by materialism", "Synonyms: materialistic, mercenary"]}
+{"data": ["2023-05-13T05:01:12.226281+00:00", 11080, "Your mother is", "antitrust", "Pronunciation: /\u02cc\u00e6nti\u02c8tr\u0259st/", "Definition: of laws and regulations; designed to protect trade and commerce from unfair business practices", "Synonyms: antimonopoly"]}
