@@ -1,1 +1,1 @@
-{"data": ["2023-05-14T16:01:11.448317+00:00", 11115, "Your mother is", "prefaded", "Similar to: colorless", "Definition: (of fabric or clothing) having been given a faded (weathered) appearance by artificial means", ""]}
+{"data": ["2023-05-14T17:00:52.391579+00:00", 11116, "Your mother is", "anthropomorphic", "Pronunciation: /\u02cc\u00e6n\u03b8r\u0259p\u0259\u02c8m\u0254rf\u026ak/", "Definition: suggesting human characteristics for animals or inanimate things", "Synonyms: anthropomorphous, humanlike"]}
