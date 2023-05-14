@@ -1,1 +1,1 @@
-{"data": ["2023-05-14T08:01:05.415642+00:00", 11107, "Your mother is", "keel-shaped", "Similar to: formed", "Definition: shaped in the form of the keel of a boat", ""]}
+{"data": ["2023-05-14T09:00:54.861317+00:00", 11108, "Your mother is", "acaudate", "Pronunciation: /e\u026a\u02c8k\u0254de\u026at/", "Definition: lacking a tail or taillike appendage", "Synonyms: acaudal"]}
