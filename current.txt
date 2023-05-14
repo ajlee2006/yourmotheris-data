@@ -1,1 +1,1 @@
-{"data": ["2023-05-14T19:01:08.674128+00:00", 11118, "Your mother is", "fragmental", "Pronunciation: /fr\u00e6\u0261\u02c8m\u025bnt\u0259l/", "Definition: consisting of small disconnected parts", "Synonyms: fragmentary"]}
+{"data": ["2023-05-14T20:01:14.525768+00:00", 11119, "Your mother is", "greathearted", "Pronunciation: /\u02c8gre\u026at\u02c8h\u0251rt\u026ad/", "Definition: noble and generous in spirit", "Synonyms: magnanimous"]}
