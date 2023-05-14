@@ -1,1 +1,1 @@
-{"data": ["2023-05-14T07:00:59.867631+00:00", 11106, "Your mother is", "companionable", "Pronunciation: /k\u0259m\u02c8p\u00e6nj\u0259n\u0259b\u0259l/", "Definition: suggestive of companionship", ""]}
+{"data": ["2023-05-14T08:01:05.415642+00:00", 11107, "Your mother is", "keel-shaped", "Similar to: formed", "Definition: shaped in the form of the keel of a boat", ""]}
