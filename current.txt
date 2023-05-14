@@ -1,1 +1,1 @@
-{"data": ["2023-05-14T01:01:05.824139+00:00", 11100, "Your mother is", "headlong", "Pronunciation: /\u02c8h\u025bd\u02ccl\u0254\u014b/", "Definition: with the head foremost", "Synonyms: headfirst"]}
+{"data": ["2023-05-14T02:01:24.284297+00:00", 11101, "Your mother is", "multifarious", "Pronunciation: /\u02ccm\u0259lt\u0259\u02c8f\u025cri\u0259s/", "Definition: having many aspects or qualities", "Synonyms: many-sided, miscellaneous, multifaceted"]}
