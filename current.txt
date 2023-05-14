@@ -1,1 +1,1 @@
-{"data": ["2023-05-14T18:01:10.818096+00:00", 11117, "Your mother is", "determinative", "Pronunciation: /d\u026a\u02c8t\u025crm\u0259\u02ccne\u026at\u026av/", "Definition: having the power or quality of deciding", "Synonyms: deciding, determinant, determining"]}
+{"data": ["2023-05-14T19:01:08.674128+00:00", 11118, "Your mother is", "fragmental", "Pronunciation: /fr\u00e6\u0261\u02c8m\u025bnt\u0259l/", "Definition: consisting of small disconnected parts", "Synonyms: fragmentary"]}
