@@ -1,1 +1,1 @@
-{"data": ["2023-05-14T13:01:12.079231+00:00", 11112, "Your mother is", "flavourous", "Similar to: tasty", "Definition: full of flavor", "Synonyms: flavorful, flavorous, flavorsome, flavourful, flavoursome, sapid, saporous"]}
+{"data": ["2023-05-14T14:00:57.707035+00:00", 11113, "Your mother is", "sculpted", "Pronunciation: /\u02c8sk\u028clpt\u026ad/", "Definition: cut into a desired shape", "Synonyms: graven, sculptured"]}
