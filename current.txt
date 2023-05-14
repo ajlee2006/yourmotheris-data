@@ -1,1 +1,1 @@
-{"data": ["2023-05-14T05:01:04.387866+00:00", 11104, "Your mother is", "sheetlike", "Similar to: bedded", "Definition: resembling a sheet", ""]}
+{"data": ["2023-05-14T06:01:24.726703+00:00", 11105, "Your mother is", "achlamydeous", "Pronunciation: /\u02cc\u00e6kl\u0259\u02c8m\u026adi\u0259s/", "Definition: not having a floral envelope or perianth", ""]}
