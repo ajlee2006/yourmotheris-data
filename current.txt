@@ -1,1 +1,1 @@
-{"data": ["2023-05-14T10:01:05.223077+00:00", 11109, "Your mother is", "dishonourable", "Pronunciation: /d\u026as\u02c8\u0251n\u0259r\u0259b\u0259l/", "Definition: lacking honor or integrity; deserving dishonor", "Synonyms: dishonorable"]}
+{"data": ["2023-05-14T11:01:02.954167+00:00", 11110, "Your mother is", "mystified", "Pronunciation: /\u02c8m\u026ast\u028c\u02ccfa\u026ad/", "Definition: totally perplexed and mixed up", "Synonyms: metagrabolised, metagrabolized, metagrobolised, metagrobolized"]}
