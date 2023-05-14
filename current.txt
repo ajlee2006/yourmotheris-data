@@ -1,1 +1,1 @@
-{"data": ["2023-05-14T17:00:52.391579+00:00", 11116, "Your mother is", "anthropomorphic", "Pronunciation: /\u02cc\u00e6n\u03b8r\u0259p\u0259\u02c8m\u0254rf\u026ak/", "Definition: suggesting human characteristics for animals or inanimate things", "Synonyms: anthropomorphous, humanlike"]}
+{"data": ["2023-05-14T18:01:10.818096+00:00", 11117, "Your mother is", "determinative", "Pronunciation: /d\u026a\u02c8t\u025crm\u0259\u02ccne\u026at\u026av/", "Definition: having the power or quality of deciding", "Synonyms: deciding, determinant, determining"]}
