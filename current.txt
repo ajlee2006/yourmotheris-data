@@ -1,1 +1,1 @@
-{"data": ["2023-05-13T23:01:34.761141+00:00", 11098, "Your mother is", "threadbare", "Pronunciation: /\u02c8\u03b8r\u025bd\u02ccb\u025cr/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, timeworn, tired, trite, well-worn"]}
+{"data": ["2023-05-14T00:02:16.694915+00:00", 11099, "Your mother is", "unwitting", "Pronunciation: /\u0259n\u02c8w\u026at\u026a\u014b/", "Definition: not done with purpose or intent", "Synonyms: unintentional, unplanned"]}
