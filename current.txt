@@ -1,1 +1,1 @@
-{"data": ["2023-05-14T15:01:30.260748+00:00", 11114, "Your mother is", "immunized", "Pronunciation: /\u02c8\u026amj\u028c\u02ccna\u026azd/", "Definition: having been rendered unsusceptible to a disease", "Synonyms: immunised, vaccinated"]}
+{"data": ["2023-05-14T16:01:11.448317+00:00", 11115, "Your mother is", "prefaded", "Similar to: colorless", "Definition: (of fabric or clothing) having been given a faded (weathered) appearance by artificial means", ""]}
