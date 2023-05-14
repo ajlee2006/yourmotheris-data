@@ -1,1 +1,1 @@
-{"data": ["2023-05-14T12:01:00.118723+00:00", 11111, "Your mother is", "good-humored", "Pronunciation: /\u02c8\u0261\u028ad\u02c8hjum\u0259rd/", "Definition: disposed to please", "Synonyms: amiable, good-humoured"]}
+{"data": ["2023-05-14T13:01:12.079231+00:00", 11112, "Your mother is", "flavourous", "Similar to: tasty", "Definition: full of flavor", "Synonyms: flavorful, flavorous, flavorsome, flavourful, flavoursome, sapid, saporous"]}
