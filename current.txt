@@ -1,1 +1,1 @@
-{"data": ["2023-05-14T00:02:16.694915+00:00", 11099, "Your mother is", "unwitting", "Pronunciation: /\u0259n\u02c8w\u026at\u026a\u014b/", "Definition: not done with purpose or intent", "Synonyms: unintentional, unplanned"]}
+{"data": ["2023-05-14T01:01:05.824139+00:00", 11100, "Your mother is", "headlong", "Pronunciation: /\u02c8h\u025bd\u02ccl\u0254\u014b/", "Definition: with the head foremost", "Synonyms: headfirst"]}
