@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T14:01:14.315076+00:00", 11137, "Your mother is", "ungracious", "Pronunciation: /\u0259n\u02c8gre\u026a\u0283\u0259s/", "Definition: lacking social graces", "Synonyms: discourteous"]}
+{"data": ["2023-05-15T15:01:09.661610+00:00", 11138, "Your mother is", "disabling", "Pronunciation: /d\u026as\u02c8e\u026ab\u028cl\u026a\u014b/", "Definition: depriving of legal right; rendering legally disqualified", "Synonyms: disqualifying"]}
