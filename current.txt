@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T10:01:08.658574+00:00", 11133, "Your mother is", "flint", "Pronunciation: /fl\u026ant/", "Definition: showing unfeeling resistance to tender feelings", "Synonyms: flinty, granitic, obdurate, stony"]}
+{"data": ["2023-05-15T11:01:07.120433+00:00", 11134, "Your mother is", "foamy", "Pronunciation: /\u02c8fo\u028ami/", "Definition: emitting or filled with bubbles as from carbonation or fermentation", "Synonyms: bubbling, bubbly, effervescing, foaming, frothy, spumy"]}
