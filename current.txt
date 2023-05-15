@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T03:01:06.269218+00:00", 11126, "Your mother is", "distraught", "Pronunciation: /d\u026a\u02c8str\u0254t/", "Definition: deeply agitated especially from emotion", "Synonyms: overwrought"]}
+{"data": ["2023-05-15T04:01:22.102458+00:00", 11127, "Your mother is", "observational", "Similar to: empiric", "Definition: relying on observation or experiment", "Synonyms: data-based, experimental"]}
