@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T01:01:19.964415+00:00", 11124, "Your mother is", "pug-nosed", "Similar to: nosed", "Definition: having a blunt nose", "Synonyms: pug-nose, short-nosed, snub-nosed"]}
+{"data": ["2023-05-15T02:01:09.713165+00:00", 11125, "Your mother is", "liquefied", "Pronunciation: /\u02c8l\u026akw\u028c\u02ccfa\u026ad/", "Definition: reduced to liquid form by heating", "Synonyms: liquified, molten"]}
