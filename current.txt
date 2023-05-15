@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T06:01:15.631458+00:00", 11129, "Your mother is", "diatonic", "Pronunciation: /\u02ccda\u026a\u0259\u02c8t\u0251n\u026ak/", "Definition: based on or using the five tones and two semitones of the major or minor scales of western music", ""]}
+{"data": ["2023-05-15T07:01:30.119710+00:00", 11130, "Your mother is", "harum-scarum", "Pronunciation: /\u02c8h\u025cr\u0259m\u02c8sk\u00e6r\u0259m/", "Definition: cheerfully irresponsible", "Synonyms: carefree, devil-may-care, freewheeling, happy-go-lucky, slaphappy"]}
