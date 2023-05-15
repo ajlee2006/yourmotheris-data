@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T07:01:30.119710+00:00", 11130, "Your mother is", "harum-scarum", "Pronunciation: /\u02c8h\u025cr\u0259m\u02c8sk\u00e6r\u0259m/", "Definition: cheerfully irresponsible", "Synonyms: carefree, devil-may-care, freewheeling, happy-go-lucky, slaphappy"]}
+{"data": ["2023-05-15T08:00:58.794353+00:00", 11131, "Your mother is", "first-year", "Similar to: first", "Definition: used of a person in the first year of an experience (especially in United States high school or college)", "Synonyms: freshman"]}
