@@ -1,1 +1,1 @@
-{"data": ["2023-05-14T23:01:07.890208+00:00", 11122, "Your mother is", "unpardonable", "Pronunciation: /\u0259n\u02c8p\u0251rd\u0259n\u0259b\u0259l/", "Definition: not admitting of pardon", ""]}
+{"data": ["2023-05-15T00:01:54.788346+00:00", 11123, "Your mother is", "javan", "Pronunciation: /d\u0292\u028c\u02c8v\u0251n/", "Definition: of or relating to or characteristic of Java or its inhabitants or its language", "Synonyms: javanese"]}
