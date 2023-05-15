@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T09:01:03.634384+00:00", 11132, "Your mother is", "semiopaque", "Similar to: opaque", "Definition: partially opaque", ""]}
+{"data": ["2023-05-15T10:01:08.658574+00:00", 11133, "Your mother is", "flint", "Pronunciation: /fl\u026ant/", "Definition: showing unfeeling resistance to tender feelings", "Synonyms: flinty, granitic, obdurate, stony"]}
