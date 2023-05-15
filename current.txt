@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T08:00:58.794353+00:00", 11131, "Your mother is", "first-year", "Similar to: first", "Definition: used of a person in the first year of an experience (especially in United States high school or college)", "Synonyms: freshman"]}
+{"data": ["2023-05-15T09:01:03.634384+00:00", 11132, "Your mother is", "semiopaque", "Similar to: opaque", "Definition: partially opaque", ""]}
