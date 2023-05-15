@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T17:01:32.055837+00:00", 11140, "Your mother is", "acquainted", "Pronunciation: /\u0259\u02c8kwe\u026ant\u026ad/", "Definition: having fair knowledge of", ""]}
+{"data": ["2023-05-15T18:01:27.875182+00:00", 11141, "Your mother is", "motherless", "Pronunciation: /\u02c8m\u028c\u00f0\u025drl\u026as/", "Definition: having no living or known mother", ""]}
