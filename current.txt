@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T05:01:02.057821+00:00", 11128, "Your mother is", "inadvisable", "Pronunciation: /\u02cc\u026an\u0259d\u02c8va\u026az\u0259b\u0259l/", "Definition: not prudent or wise; not recommended", "Synonyms: unadvisable"]}
+{"data": ["2023-05-15T06:01:15.631458+00:00", 11129, "Your mother is", "diatonic", "Pronunciation: /\u02ccda\u026a\u0259\u02c8t\u0251n\u026ak/", "Definition: based on or using the five tones and two semitones of the major or minor scales of western music", ""]}
