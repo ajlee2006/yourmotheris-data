@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T04:01:22.102458+00:00", 11127, "Your mother is", "observational", "Similar to: empiric", "Definition: relying on observation or experiment", "Synonyms: data-based, experimental"]}
+{"data": ["2023-05-15T05:01:02.057821+00:00", 11128, "Your mother is", "inadvisable", "Pronunciation: /\u02cc\u026an\u0259d\u02c8va\u026az\u0259b\u0259l/", "Definition: not prudent or wise; not recommended", "Synonyms: unadvisable"]}
