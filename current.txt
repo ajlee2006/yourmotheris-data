@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T00:01:54.788346+00:00", 11123, "Your mother is", "javan", "Pronunciation: /d\u0292\u028c\u02c8v\u0251n/", "Definition: of or relating to or characteristic of Java or its inhabitants or its language", "Synonyms: javanese"]}
+{"data": ["2023-05-15T01:01:19.964415+00:00", 11124, "Your mother is", "pug-nosed", "Similar to: nosed", "Definition: having a blunt nose", "Synonyms: pug-nose, short-nosed, snub-nosed"]}
