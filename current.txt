@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T12:00:58.909176+00:00", 11135, "Your mother is", "hunchbacked", "Pronunciation: /\u02c8h\u0259n\u02a7\u02ccb\u00e6kt/", "Definition: characteristic of or suffering from kyphosis, an abnormality of the vertebral column", "Synonyms: crookback, crookbacked, gibbous, humpbacked, humped, kyphotic"]}
+{"data": ["2023-05-15T13:01:07.502859+00:00", 11136, "Your mother is", "screaky", "Similar to: high", "Definition: having or making a high-pitched sound such as that made by a mouse or a rusty hinge", "Synonyms: screechy, squeaking, squeaky, squealing"]}
