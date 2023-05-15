@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T13:01:07.502859+00:00", 11136, "Your mother is", "screaky", "Similar to: high", "Definition: having or making a high-pitched sound such as that made by a mouse or a rusty hinge", "Synonyms: screechy, squeaking, squeaky, squealing"]}
+{"data": ["2023-05-15T14:01:14.315076+00:00", 11137, "Your mother is", "ungracious", "Pronunciation: /\u0259n\u02c8gre\u026a\u0283\u0259s/", "Definition: lacking social graces", "Synonyms: discourteous"]}
