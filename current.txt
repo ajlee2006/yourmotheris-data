@@ -1,1 +1,1 @@
-{"data": ["2023-05-16T09:01:03.582121+00:00", 11156, "Your mother is", "yearlong", "Pronunciation: /\u02c8jir\u02c8l\u0254\u014b/", "Definition: lasting through a year", ""]}
+{"data": ["2023-05-16T10:01:23.181361+00:00", 11157, "Your mother is", "footling", "Pronunciation: /\u02c8f\u028atl\u026a\u014b/", "Definition: (informal) small and of little importance", "Synonyms: fiddling, lilliputian, little, niggling, petty, picayune, piddling, piffling, trivial"]}
