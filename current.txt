@@ -1,1 +1,1 @@
-{"data": ["2023-05-16T21:01:36.946415+00:00", 11168, "Your mother is", "scaphoid", "Pronunciation: /\u02c8sk\u00e6f\u0254\u026ad/", "Definition: shaped like a boat", "Synonyms: navicular"]}
+{"data": ["2023-05-16T22:01:36.443660+00:00", 11169, "Your mother is", "zero", "Pronunciation: /\u02c8ziro\u028a/", "Definition: indicating the absence of any or all units under consideration", "Synonyms: 0"]}
