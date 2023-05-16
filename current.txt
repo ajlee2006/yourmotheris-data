@@ -1,1 +1,1 @@
-{"data": ["2023-05-16T07:00:54.877786+00:00", 11154, "Your mother is", "musing", "Pronunciation: /\u02c8mjuz\u026a\u014b/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, pensive, pondering, reflective, ruminative"]}
+{"data": ["2023-05-16T08:01:28.465451+00:00", 11155, "Your mother is", "indocile", "Pronunciation: /\u026an\u02c8d\u0251s\u026al/", "Definition: incapable of being controlled", "Synonyms: uncontrollable, ungovernable, unruly"]}
