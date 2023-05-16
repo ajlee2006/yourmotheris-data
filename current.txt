@@ -1,1 +1,1 @@
-{"data": ["2023-05-16T02:01:06.376058+00:00", 11149, "Your mother is", "plundering", "Pronunciation: /\u02c8pl\u028cnd\u025dr\u026a\u014b/", "Definition: given to taking by force what is desired", ""]}
+{"data": ["2023-05-16T03:01:18.164703+00:00", 11150, "Your mother is", "bibliothecarial", "", "Definition: of or relating to a library or bibliotheca or a librarian", "Synonyms: bibliothecal"]}
