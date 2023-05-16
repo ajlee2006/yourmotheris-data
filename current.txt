@@ -1,1 +1,1 @@
-{"data": ["2023-05-16T19:01:08.809313+00:00", 11166, "Your mother is", "convinced", "Pronunciation: /k\u028cn\u02c8v\u026anst/", "Definition: persuaded of; very sure", "Synonyms: confident, positive"]}
+{"data": ["2023-05-16T20:00:50.749867+00:00", 11167, "Your mother is", "sown", "Pronunciation: /s\u025b\u028an/", "Definition: sprinkled with seed", "Synonyms: seeded"]}
