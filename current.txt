@@ -1,1 +1,1 @@
-{"data": ["2023-05-16T16:00:48.828469+00:00", 11163, "Your mother is", "in straitened circumstances", "Similar to: poor", "Definition: not having enough money to pay for necessities", "Synonyms: hard up, impecunious, penniless, penurious, pinched"]}
+{"data": ["2023-05-16T17:01:20.231090+00:00", 11164, "Your mother is", "slate-black", "Similar to: achromatic", "Definition: of a black tinged with slate-grey", ""]}
