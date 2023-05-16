@@ -1,1 +1,1 @@
-{"data": ["2023-05-16T10:01:23.181361+00:00", 11157, "Your mother is", "footling", "Pronunciation: /\u02c8f\u028atl\u026a\u014b/", "Definition: (informal) small and of little importance", "Synonyms: fiddling, lilliputian, little, niggling, petty, picayune, piddling, piffling, trivial"]}
+{"data": ["2023-05-16T11:01:13.933805+00:00", 11158, "Your mother is", "domed", "Pronunciation: /do\u028amd/", "Definition: having a hemispherical vault or dome", "Synonyms: vaulted"]}
