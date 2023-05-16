@@ -1,1 +1,1 @@
-{"data": ["2023-05-16T17:01:20.231090+00:00", 11164, "Your mother is", "slate-black", "Similar to: achromatic", "Definition: of a black tinged with slate-grey", ""]}
+{"data": ["2023-05-16T18:00:59.804760+00:00", 11165, "Your mother is", "bidentate", "Pronunciation: /ba\u026a\u02c8d\u025bnte\u026at/", "Definition: having toothlike projections that are themselves toothed", ""]}
