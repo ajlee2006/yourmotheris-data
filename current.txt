@@ -1,1 +1,1 @@
-{"data": ["2023-05-16T01:01:31.530233+00:00", 11148, "Your mother is", "weeping", "Pronunciation: /\u02c8wip\u026a\u014b/", "Definition: showing sorrow", "Synonyms: dolorous, dolourous, lachrymose, tearful"]}
+{"data": ["2023-05-16T02:01:06.376058+00:00", 11149, "Your mother is", "plundering", "Pronunciation: /\u02c8pl\u028cnd\u025dr\u026a\u014b/", "Definition: given to taking by force what is desired", ""]}
