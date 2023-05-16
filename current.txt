@@ -1,1 +1,1 @@
-{"data": ["2023-05-16T06:01:06.280076+00:00", 11153, "Your mother is", "bedridden", "Pronunciation: /\u02c8b\u025bd\u02ccr\u026ad\u0259n/", "Definition: confined to bed (by illness)", "Synonyms: bedfast, bedrid, sick-abed"]}
+{"data": ["2023-05-16T07:00:54.877786+00:00", 11154, "Your mother is", "musing", "Pronunciation: /\u02c8mjuz\u026a\u014b/", "Definition: deeply or seriously thoughtful", "Synonyms: brooding, broody, contemplative, meditative, pensive, pondering, reflective, ruminative"]}
