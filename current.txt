@@ -1,1 +1,1 @@
-{"data": ["2023-05-16T00:02:12.664844+00:00", 11147, "Your mother is", "uncommunicative", "Pronunciation: /\u02cc\u0259nk\u0259\u02c8mjun\u0259\u02ccke\u026at\u026av/", "Definition: not inclined to talk or give information or express opinions", "Synonyms: incommunicative"]}
+{"data": ["2023-05-16T01:01:31.530233+00:00", 11148, "Your mother is", "weeping", "Pronunciation: /\u02c8wip\u026a\u014b/", "Definition: showing sorrow", "Synonyms: dolorous, dolourous, lachrymose, tearful"]}
