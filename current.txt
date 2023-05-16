@@ -1,1 +1,1 @@
-{"data": ["2023-05-16T20:00:50.749867+00:00", 11167, "Your mother is", "sown", "Pronunciation: /s\u025b\u028an/", "Definition: sprinkled with seed", "Synonyms: seeded"]}
+{"data": ["2023-05-16T21:01:36.946415+00:00", 11168, "Your mother is", "scaphoid", "Pronunciation: /\u02c8sk\u00e6f\u0254\u026ad/", "Definition: shaped like a boat", "Synonyms: navicular"]}
