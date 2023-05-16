@@ -1,1 +1,1 @@
-{"data": ["2023-05-15T23:00:56.336896+00:00", 11146, "Your mother is", "fishy", "Pronunciation: /\u02c8f\u026a\u0283i/", "Definition: not as expected", "Synonyms: funny, shady, suspect, suspicious"]}
+{"data": ["2023-05-16T00:02:12.664844+00:00", 11147, "Your mother is", "uncommunicative", "Pronunciation: /\u02cc\u0259nk\u0259\u02c8mjun\u0259\u02ccke\u026at\u026av/", "Definition: not inclined to talk or give information or express opinions", "Synonyms: incommunicative"]}
