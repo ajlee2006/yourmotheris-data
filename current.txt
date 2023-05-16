@@ -1,1 +1,1 @@
-{"data": ["2023-05-16T13:01:05.667579+00:00", 11160, "Your mother is", "algonquian", "Pronunciation: /\u00e6l\u02c8\u0261\u0251\u014bki\u0259n/", "Definition: of or relating to an Algonquian tribe or its people or language", "Synonyms: algonkian, algonquin"]}
+{"data": ["2023-05-16T14:01:05.388479+00:00", 11161, "Your mother is", "two-footed", "Pronunciation: /tu-\u02c8f\u028at\u026ad/", "Definition: having two feet", "Synonyms: biped, bipedal"]}
