@@ -1,1 +1,1 @@
-{"data": ["2023-05-17T07:01:25.447790+00:00", 11178, "Your mother is", "declarative", "Pronunciation: /d\u026a\u02c8kl\u00e6r\u0259t\u026av/", "Definition: relating to the use of or having the nature of a declaration", "Synonyms: asserting, declaratory"]}
+{"data": ["2023-05-17T08:01:19.191389+00:00", 11179, "Your mother is", "curly-leaved", "Similar to: leafy", "Definition: having curly leaves", "Synonyms: curly-leafed"]}
