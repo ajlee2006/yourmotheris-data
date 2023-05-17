@@ -1,1 +1,1 @@
-{"data": ["2023-05-17T15:01:35.748957+00:00", 11186, "Your mother is", "grasping", "Pronunciation: /\u02c8gr\u00e6sp\u026a\u014b/", "Definition: immoderately desirous of acquiring e.g. wealth", "Synonyms: avaricious, covetous, grabby, greedy, prehensile"]}
+{"data": ["2023-05-17T16:01:03.405374+00:00", 11187, "Your mother is", "hexed", "Similar to: luckless", "Definition: (usually used colloquially) causing or accompanied by misfortune", "Synonyms: jinxed"]}
