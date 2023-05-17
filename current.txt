@@ -1,1 +1,1 @@
-{"data": ["2023-05-17T19:01:06.289966+00:00", 11190, "Your mother is", "nonslippery", "Similar to: nonskid", "Definition: not slippery; not likely to slip or skid", ""]}
+{"data": ["2023-05-17T20:00:54.807042+00:00", 11191, "Your mother is", "silty", "Pronunciation: /\u02c8s\u026alti/", "Definition: full of silt", ""]}
