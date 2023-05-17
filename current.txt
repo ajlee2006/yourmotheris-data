@@ -1,1 +1,1 @@
-{"data": ["2023-05-17T12:01:10.056022+00:00", 11183, "Your mother is", "sixty-eight", "Pronunciation: /\u02c8s\u026aksti-\u02c8e\u026at/", "Definition: being eight more than sixty", "Synonyms: 68, lxviii"]}
+{"data": ["2023-05-17T13:01:37.644491+00:00", 11184, "Your mother is", "closed-door", "Pronunciation: /\u02c8klo\u028azd\u02c8do\u028ar/", "Definition: not open to the public", ""]}
