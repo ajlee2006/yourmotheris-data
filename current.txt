@@ -1,1 +1,1 @@
-{"data": ["2023-05-17T13:01:37.644491+00:00", 11184, "Your mother is", "closed-door", "Pronunciation: /\u02c8klo\u028azd\u02c8do\u028ar/", "Definition: not open to the public", ""]}
+{"data": ["2023-05-17T14:01:11.577378+00:00", 11185, "Your mother is", "undiversified", "Pronunciation: /\u02cc\u028cnd\u026a\u02c8v\u025drs\u026a\u02ccfa\u026ad/", "Definition: not diversified", ""]}
