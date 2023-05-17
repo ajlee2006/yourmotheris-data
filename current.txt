@@ -1,1 +1,1 @@
-{"data": ["2023-05-17T05:01:32.857118+00:00", 11176, "Your mother is", "wakeful", "Pronunciation: /\u02c8we\u026akf\u0259l/", "Definition: carefully observant or attentive; on the lookout for possible danger", "Synonyms: argus-eyed, open-eyed, vigilant"]}
+{"data": ["2023-05-17T06:01:06.072581+00:00", 11177, "Your mother is", "incorporated", "Pronunciation: /\u026an\u02c8k\u0254rp\u0259\u02ccre\u026at\u026ad/", "Definition: formed or united into a whole", "Synonyms: incorporate, integrated, merged, unified"]}
