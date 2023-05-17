@@ -1,1 +1,1 @@
-{"data": ["2023-05-17T10:01:01.334325+00:00", 11181, "Your mother is", "achy", "Pronunciation: /\u02c8e\u026aki/", "Definition: causing a dull and steady pain", "Synonyms: aching"]}
+{"data": ["2023-05-17T11:00:53.701191+00:00", 11182, "Your mother is", "unrequited", "Pronunciation: /\u02cc\u0259nri\u02c8kwa\u026at\u026ad/", "Definition: not returned in kind", "Synonyms: unanswered, unreciprocated"]}
