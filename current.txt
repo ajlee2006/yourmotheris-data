@@ -1,1 +1,1 @@
-{"data": ["2023-05-17T20:00:54.807042+00:00", 11191, "Your mother is", "silty", "Pronunciation: /\u02c8s\u026alti/", "Definition: full of silt", ""]}
+{"data": ["2023-05-17T21:01:23.947864+00:00", 11192, "Your mother is", "euclidian", "", "Definition: relating to geometry as developed by Euclid", "Synonyms: euclidean"]}
