@@ -1,1 +1,1 @@
-{"data": ["2023-05-17T21:01:23.947864+00:00", 11192, "Your mother is", "euclidian", "", "Definition: relating to geometry as developed by Euclid", "Synonyms: euclidean"]}
+{"data": ["2023-05-17T22:00:51.296176+00:00", 11193, "Your mother is", "cone-bearing", "Similar to: evergreen", "Definition: of or relating to or part of trees or shrubs bearing cones and evergreen leaves", "Synonyms: coniferous"]}
