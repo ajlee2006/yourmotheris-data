@@ -1,1 +1,1 @@
-{"data": ["2023-05-17T04:01:24.430059+00:00", 11175, "Your mother is", "takeout", "Pronunciation: /\u02c8te\u026ak\u02cca\u028at/", "Definition: of or involving food to be taken and eaten off the premises", "Synonyms: take-away"]}
+{"data": ["2023-05-17T05:01:32.857118+00:00", 11176, "Your mother is", "wakeful", "Pronunciation: /\u02c8we\u026akf\u0259l/", "Definition: carefully observant or attentive; on the lookout for possible danger", "Synonyms: argus-eyed, open-eyed, vigilant"]}
