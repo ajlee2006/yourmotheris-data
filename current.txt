@@ -1,1 +1,1 @@
-{"data": ["2023-05-17T09:01:12.605455+00:00", 11180, "Your mother is", "mythic", "Pronunciation: /\u02c8m\u026a\u03b8\u026ak/", "Definition: based on or told of in traditional stories; lacking factual basis or historical validity", "Synonyms: fabulous, mythical, mythologic, mythological"]}
+{"data": ["2023-05-17T10:01:01.334325+00:00", 11181, "Your mother is", "achy", "Pronunciation: /\u02c8e\u026aki/", "Definition: causing a dull and steady pain", "Synonyms: aching"]}
