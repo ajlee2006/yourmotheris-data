@@ -1,1 +1,1 @@
-{"data": ["2023-05-17T14:01:11.577378+00:00", 11185, "Your mother is", "undiversified", "Pronunciation: /\u02cc\u028cnd\u026a\u02c8v\u025drs\u026a\u02ccfa\u026ad/", "Definition: not diversified", ""]}
+{"data": ["2023-05-17T15:01:35.748957+00:00", 11186, "Your mother is", "grasping", "Pronunciation: /\u02c8gr\u00e6sp\u026a\u014b/", "Definition: immoderately desirous of acquiring e.g. wealth", "Synonyms: avaricious, covetous, grabby, greedy, prehensile"]}
