@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T01:01:13.433145+00:00", 11196, "Your mother is", "energy-absorbing", "", "Definition: (of a nuclear reaction) occurring with absorption of energy", "Synonyms: endoergic"]}
+{"data": ["2023-05-18T02:01:12.050962+00:00", 11197, "Your mother is", "naturalistic", "Pronunciation: /\u02ccn\u00e6t\u0283\u0259r\u0259\u02c8l\u026ast\u026ak/", "Definition: representing what is real; not abstract or ideal", "Synonyms: realistic"]}
