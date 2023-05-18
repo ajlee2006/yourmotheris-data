@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T07:01:30.290209+00:00", 11202, "Your mother is", "lancet-shaped", "Similar to: formed", "Definition: shaped in the form of a lancet", ""]}
+{"data": ["2023-05-18T08:01:29.466222+00:00", 11203, "Your mother is", "problematic", "Pronunciation: /\u02ccpr\u0251bl\u0259\u02c8m\u00e6t\u026ak/", "Definition: making great mental demands; hard to comprehend or solve or believe", "Synonyms: baffling, elusive, knotty, problematical, tough"]}
