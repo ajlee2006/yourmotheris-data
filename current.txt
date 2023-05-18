@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T19:13:52.110820+00:00", 11214, "Your mother is", "learned", "Pronunciation: /l\u025crnd/", "Definition: having or showing profound knowledge", "Synonyms: erudite"]}
+{"data": ["2023-05-18T20:01:07.334926+00:00", 11215, "Your mother is", "uninquisitive", "", "Definition: not inquiring", "Synonyms: uninquiring"]}
