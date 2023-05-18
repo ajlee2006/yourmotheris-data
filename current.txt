@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T13:01:08.215918+00:00", 11208, "Your mother is", "hand-hewn", "Pronunciation: /h\u00e6nd-hjun/", "Definition: cut or shaped with hard blows of a heavy cutting instrument like an ax or chisel", "Synonyms: hewn"]}
+{"data": ["2023-05-18T14:01:26.236514+00:00", 11209, "Your mother is", "stabilized", "Pronunciation: /\u02c8ste\u026ab\u028c\u02ccla\u026azd/", "Definition: made stable or firm", "Synonyms: stabilised"]}
