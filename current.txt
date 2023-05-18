@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T14:01:26.236514+00:00", 11209, "Your mother is", "stabilized", "Pronunciation: /\u02c8ste\u026ab\u028c\u02ccla\u026azd/", "Definition: made stable or firm", "Synonyms: stabilised"]}
+{"data": ["2023-05-18T15:01:14.585465+00:00", 11210, "Your mother is", "jagged", "Pronunciation: /\u02c8d\u0292\u00e6\u0261\u026ad/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: erose, jaggy, notched, toothed"]}
