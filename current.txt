@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T10:00:57.241517+00:00", 11205, "Your mother is", "advancing", "Pronunciation: /\u028cd\u02c8v\u00e6ns\u026a\u014b/", "Definition: moving forward", "Synonyms: forward, forward-moving"]}
+{"data": ["2023-05-18T11:00:59.222626+00:00", 11206, "Your mother is", "smoothened", "Similar to: ironed", "Definition: made smooth by ironing", "Synonyms: smoothed"]}
