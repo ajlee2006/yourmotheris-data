@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T15:01:14.585465+00:00", 11210, "Your mother is", "jagged", "Pronunciation: /\u02c8d\u0292\u00e6\u0261\u026ad/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: erose, jaggy, notched, toothed"]}
+{"data": ["2023-05-18T16:01:04.121269+00:00", 11211, "Your mother is", "evidentiary", "Pronunciation: /\u02cc\u025bv\u026a\u02c8d\u025bn\u0283\u0259ri/", "Definition: serving as or based on evidence", "Synonyms: evidential"]}
