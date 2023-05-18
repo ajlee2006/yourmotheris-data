@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T09:01:05.426877+00:00", 11204, "Your mother is", "corruptive", "Pronunciation: /k\u025dr\u02c8\u028cpt\u026av/", "Definition: tending to corrupt or pervert", "Synonyms: perversive, pestiferous"]}
+{"data": ["2023-05-18T10:00:57.241517+00:00", 11205, "Your mother is", "advancing", "Pronunciation: /\u028cd\u02c8v\u00e6ns\u026a\u014b/", "Definition: moving forward", "Synonyms: forward, forward-moving"]}
