@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T06:00:54.222543+00:00", 11201, "Your mother is", "effervescent", "Pronunciation: /\u02cc\u025bf\u0259r\u02c8v\u025bs\u0259nt/", "Definition: used of wines and waters; charged naturally or artificially with carbon dioxide", "Synonyms: sparkling"]}
+{"data": ["2023-05-18T07:01:30.290209+00:00", 11202, "Your mother is", "lancet-shaped", "Similar to: formed", "Definition: shaped in the form of a lancet", ""]}
