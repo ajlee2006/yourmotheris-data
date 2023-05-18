@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T16:01:04.121269+00:00", 11211, "Your mother is", "evidentiary", "Pronunciation: /\u02cc\u025bv\u026a\u02c8d\u025bn\u0283\u0259ri/", "Definition: serving as or based on evidence", "Synonyms: evidential"]}
+{"data": ["2023-05-18T17:01:23.390935+00:00", 11212, "Your mother is", "unexclusive", "Similar to: public", "Definition: not restricted or exclusive", "Synonyms: unrestricted"]}
