@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T03:01:08.040968+00:00", 11198, "Your mother is", "operational", "Pronunciation: /\u02cc\u0251p\u0259\u02c8re\u026a\u0283\u0259n\u0259l/", "Definition: being in effect or operation", "Synonyms: in operation, operating"]}
+{"data": ["2023-05-18T04:01:25.893907+00:00", 11199, "Your mother is", "crying", "Pronunciation: /\u02c8kra\u026a\u026a\u014b/", "Definition: demanding attention", "Synonyms: clamant, exigent, insistent, instant"]}
