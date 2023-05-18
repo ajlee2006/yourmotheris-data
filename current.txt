@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T04:01:25.893907+00:00", 11199, "Your mother is", "crying", "Pronunciation: /\u02c8kra\u026a\u026a\u014b/", "Definition: demanding attention", "Synonyms: clamant, exigent, insistent, instant"]}
+{"data": ["2023-05-18T05:01:24.913545+00:00", 11200, "Your mother is", "out to", "Similar to: resolute", "Definition: fixed in your purpose", "Synonyms: bent, bent on, dead set"]}
