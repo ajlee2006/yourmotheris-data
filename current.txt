@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T21:01:22.764591+00:00", 11216, "Your mother is", "departed", "Pronunciation: /d\u026a\u02c8p\u0251rt\u026ad/", "Definition: well in the past; former", "Synonyms: bygone, bypast, foregone, gone"]}
+{"data": ["2023-05-18T22:00:54.534330+00:00", 11217, "Your mother is", "inmost", "Pronunciation: /\u02c8\u026an\u02ccmo\u028ast/", "Definition: situated or occurring farthest within", "Synonyms: innermost"]}
