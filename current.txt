@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T12:01:31.425484+00:00", 11207, "Your mother is", "overseas", "Pronunciation: /\u02cco\u028av\u0259r\u02c8siz/", "Definition: in a foreign country", "Synonyms: abroad"]}
+{"data": ["2023-05-18T13:01:08.215918+00:00", 11208, "Your mother is", "hand-hewn", "Pronunciation: /h\u00e6nd-hjun/", "Definition: cut or shaped with hard blows of a heavy cutting instrument like an ax or chisel", "Synonyms: hewn"]}
