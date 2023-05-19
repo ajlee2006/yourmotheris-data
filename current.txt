@@ -1,1 +1,1 @@
-{"data": ["2023-05-19T05:00:59.954961+00:00", 11224, "Your mother is", "wearing", "Pronunciation: /\u02c8w\u025br\u026a\u014b/", "Definition: producing exhaustion", "Synonyms: exhausting, tiring, wearying"]}
+{"data": ["2023-05-19T06:01:00.903377+00:00", 11225, "Your mother is", "rose-purple", "Similar to: chromatic", "Definition: of purple with a rose tinge", "Synonyms: rosy-purple"]}
