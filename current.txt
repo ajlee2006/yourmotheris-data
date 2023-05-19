@@ -1,1 +1,1 @@
-{"data": ["2023-05-18T23:01:12.542836+00:00", 11218, "Your mother is", "egocentric", "Pronunciation: /\u02cci\u0261o\u028a\u02c8s\u025bntr\u026ak/", "Definition: limited to or caring only about yourself and your own needs", "Synonyms: egoistic, egoistical, self-centered, self-centred"]}
+{"data": ["2023-05-19T00:01:42.067802+00:00", 11219, "Your mother is", "squeamish", "Pronunciation: /\u02c8skwim\u026a\u0283/", "Definition: excessively fastidious and easily disgusted", "Synonyms: dainty, nice, overnice, prissy"]}
