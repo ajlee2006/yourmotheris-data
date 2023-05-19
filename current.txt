@@ -1,1 +1,1 @@
-{"data": ["2023-05-19T04:01:17.835607+00:00", 11223, "Your mother is", "killable", "Similar to: comestible", "Definition: fit to kill, especially for food", ""]}
+{"data": ["2023-05-19T05:00:59.954961+00:00", 11224, "Your mother is", "wearing", "Pronunciation: /\u02c8w\u025br\u026a\u014b/", "Definition: producing exhaustion", "Synonyms: exhausting, tiring, wearying"]}
