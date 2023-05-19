@@ -1,1 +1,1 @@
-{"data": ["2023-05-19T16:00:54.182551+00:00", 11235, "Your mother is", "eighty-five", "Pronunciation: /\u02c8e\u026ati-fa\u026av/", "Definition: being five more than eighty", "Synonyms: 85, lxxxv"]}
+{"data": ["2023-05-19T17:01:20.068282+00:00", 11236, "Your mother is", "uncompassionate", "Similar to: hardhearted", "Definition: lacking compassion or feeling for others", ""]}
