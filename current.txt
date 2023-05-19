@@ -1,1 +1,1 @@
-{"data": ["2023-05-19T08:01:12.126385+00:00", 11227, "Your mother is", "totaled", "Pronunciation: /\u02c8to\u028at\u028cld/", "Definition: used of automobiles; completely demolished", ""]}
+{"data": ["2023-05-19T09:01:28.299545+00:00", 11228, "Your mother is", "liable", "Pronunciation: /\u02c8la\u026a\u0259b\u0259l/", "Definition: (often followed by `to') likely to be affected with", "Synonyms: nonimmune, nonresistant, unresistant"]}
