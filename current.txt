@@ -1,1 +1,1 @@
-{"data": ["2023-05-19T19:00:51.873381+00:00", 11238, "Your mother is", "dependant on", "Similar to: conditional", "Definition: being determined by conditions or circumstances that follow", "Synonyms: contingent, contingent on, contingent upon, dependant upon, dependent on, dependent upon, depending on"]}
+{"data": ["2023-05-19T20:01:08.627942+00:00", 11239, "Your mother is", "agrarian", "Pronunciation: /\u0259\u02c8gr\u025cri\u0259n/", "Definition: relating to farming or agriculture", "Synonyms: agricultural, farming"]}
