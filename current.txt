@@ -1,1 +1,1 @@
-{"data": ["2023-05-19T01:01:07.460247+00:00", 11220, "Your mother is", "bluish black", "Similar to: achromatic", "Definition: of black tinged with blue", "Synonyms: blue-black"]}
+{"data": ["2023-05-19T02:01:29.627471+00:00", 11221, "Your mother is", "transistorized", "Similar to: equipped", "Definition: (of an electronic device) equipped with transistors", "Synonyms: transistorised"]}
