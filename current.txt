@@ -1,1 +1,1 @@
-{"data": ["2023-05-19T12:01:11.648973+00:00", 11231, "Your mother is", "walk-in", "Pronunciation: /\u02c8w\u0254k-\u02cc\u026an/", "Definition: (of e.g. closets or refrigerators) extending very far enough back to allow a person to enter", ""]}
+{"data": ["2023-05-19T13:00:55.477309+00:00", 11232, "Your mother is", "glassy", "Pronunciation: /\u02c8gl\u00e6si/", "Definition: (of ceramics) having the surface made shiny and nonporous by fusing a vitreous solution to it", "Synonyms: vitreous, vitrified"]}
