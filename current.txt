@@ -1,1 +1,1 @@
-{"data": ["2023-05-19T09:01:28.299545+00:00", 11228, "Your mother is", "liable", "Pronunciation: /\u02c8la\u026a\u0259b\u0259l/", "Definition: (often followed by `to') likely to be affected with", "Synonyms: nonimmune, nonresistant, unresistant"]}
+{"data": ["2023-05-19T10:01:16.568340+00:00", 11229, "Your mother is", "softhearted", "", "Definition: easily moved to pity or sorrow", "Synonyms: soft-boiled"]}
