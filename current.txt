@@ -1,1 +1,1 @@
-{"data": ["2023-05-19T11:01:07.082204+00:00", 11230, "Your mother is", "polyunsaturated", "Pronunciation: /\u02ccp\u0251li\u0259n\u02c8s\u00e6\u02a7\u0259\u02ccre\u026at\u026ad/", "Definition: (of long-chain carbon compounds especially fats) having many unsaturated bonds", ""]}
+{"data": ["2023-05-19T12:01:11.648973+00:00", 11231, "Your mother is", "walk-in", "Pronunciation: /\u02c8w\u0254k-\u02cc\u026an/", "Definition: (of e.g. closets or refrigerators) extending very far enough back to allow a person to enter", ""]}
