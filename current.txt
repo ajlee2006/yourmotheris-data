@@ -1,1 +1,1 @@
-{"data": ["2023-05-19T17:01:20.068282+00:00", 11236, "Your mother is", "uncompassionate", "Similar to: hardhearted", "Definition: lacking compassion or feeling for others", ""]}
+{"data": ["2023-05-19T18:01:01.429794+00:00", 11237, "Your mother is", "hexagonal", "Pronunciation: /h\u025bk\u02c8s\u00e6\u0261\u0259n\u0259l/", "Definition: having six sides or divided into hexagons", "Synonyms: hexangular"]}
