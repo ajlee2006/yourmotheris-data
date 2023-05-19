@@ -1,1 +1,1 @@
-{"data": ["2023-05-19T03:00:55.663822+00:00", 11222, "Your mother is", "rarefied", "Pronunciation: /\u02c8r\u025cr\u0259\u02ccfa\u026ad/", "Definition: of high moral or intellectual value; elevated in nature or style", "Synonyms: elevated, exalted, grand, high-flown, high-minded, idealistic, lofty, noble-minded, rarified, sublime"]}
+{"data": ["2023-05-19T04:01:17.835607+00:00", 11223, "Your mother is", "killable", "Similar to: comestible", "Definition: fit to kill, especially for food", ""]}
