@@ -1,1 +1,1 @@
-{"data": ["2023-05-20T16:01:27.489207+00:00", 11259, "Your mother is", "noninfectious", "Similar to: noncommunicable", "Definition: not infectious", ""]}
+{"data": ["2023-05-20T17:01:16.526671+00:00", 11260, "Your mother is", "glaciated", "Pronunciation: /\u02c8gle\u026as\u026a\u02cce\u026at\u026ad/", "Definition: covered with ice (as by a glacier) or affected by glacial action", ""]}
