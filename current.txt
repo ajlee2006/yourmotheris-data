@@ -1,1 +1,1 @@
-{"data": ["2023-05-20T20:00:50.928981+00:00", 11263, "Your mother is", "stone-broke", "Pronunciation: /\u02c8sto\u028an\u02c8bro\u028ak/", "Definition: lacking funds", "Synonyms: broke, bust, skint, stony-broke"]}
+{"data": ["2023-05-20T21:01:11.763837+00:00", 11264, "Your mother is", "spicy", "Pronunciation: /\u02c8spa\u026asi/", "Definition: producing a burning sensation on the taste nerves", "Synonyms: hot"]}
