@@ -1,1 +1,1 @@
-{"data": ["2023-05-20T06:01:06.159215+00:00", 11249, "Your mother is", "nettled", "Pronunciation: /\u02c8n\u025bt\u028cld/", "Definition: aroused to impatience or anger", "Synonyms: annoyed, irritated, miffed, peeved, pissed, pissed off, riled, roiled, steamed, stung"]}
+{"data": ["2023-05-20T07:01:27.271820+00:00", 11250, "Your mother is", "stagnant", "Pronunciation: /\u02c8st\u00e6gn\u0259nt/", "Definition: not growing or changing; without force or vitality", "Synonyms: moribund"]}
