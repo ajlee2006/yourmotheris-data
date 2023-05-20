@@ -1,1 +1,1 @@
-{"data": ["2023-05-20T01:00:59.885799+00:00", 11244, "Your mother is", "plushy", "Pronunciation: /\u02c8pl\u0259\u0283i/", "Definition: (of textures) resembling plush", "Synonyms: plush-like"]}
+{"data": ["2023-05-20T02:01:30.653375+00:00", 11245, "Your mother is", "55th", "Similar to: ordinal", "Definition: the ordinal number of fifty-five in counting order", "Synonyms: fifty-fifth"]}
