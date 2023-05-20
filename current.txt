@@ -1,1 +1,1 @@
-{"data": ["2023-05-19T23:01:20.690577+00:00", 11242, "Your mother is", "dated", "Pronunciation: /\u02c8de\u026at\u026ad/", "Definition: marked by features of the immediate and usually discounted past", ""]}
+{"data": ["2023-05-20T00:02:05.349222+00:00", 11243, "Your mother is", "wishful", "Pronunciation: /\u02c8w\u026a\u0283f\u0259l/", "Definition: having or expressing desire for something", "Synonyms: desirous"]}
