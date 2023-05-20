@@ -1,1 +1,1 @@
-{"data": ["2023-05-20T05:01:08.751423+00:00", 11248, "Your mother is", "seagirt", "Pronunciation: /\u02c8si\u02cc\u0261\u025crt/", "Definition: surrounded or enclosed by the sea", ""]}
+{"data": ["2023-05-20T06:01:06.159215+00:00", 11249, "Your mother is", "nettled", "Pronunciation: /\u02c8n\u025bt\u028cld/", "Definition: aroused to impatience or anger", "Synonyms: annoyed, irritated, miffed, peeved, pissed, pissed off, riled, roiled, steamed, stung"]}
