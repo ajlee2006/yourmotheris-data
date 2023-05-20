@@ -1,1 +1,1 @@
-{"data": ["2023-05-20T09:01:24.811077+00:00", 11252, "Your mother is", "cliched", "Pronunciation: /\u02c8kli\u0283e\u026ad/", "Definition: repeated regularly without thought or originality", "Synonyms: ready-made"]}
+{"data": ["2023-05-20T10:01:25.717317+00:00", 11253, "Your mother is", "xx", "Similar to: cardinal", "Definition: denoting a quantity consisting of 20 items or units", "Synonyms: 20, twenty"]}
