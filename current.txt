@@ -1,1 +1,1 @@
-{"data": ["2023-05-20T21:01:11.763837+00:00", 11264, "Your mother is", "spicy", "Pronunciation: /\u02c8spa\u026asi/", "Definition: producing a burning sensation on the taste nerves", "Synonyms: hot"]}
+{"data": ["2023-05-20T22:01:15.437055+00:00", 11265, "Your mother is", "nonpolar", "", "Definition: not ionic", "Synonyms: nonionic"]}
