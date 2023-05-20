@@ -1,1 +1,1 @@
-{"data": ["2023-05-20T07:01:27.271820+00:00", 11250, "Your mother is", "stagnant", "Pronunciation: /\u02c8st\u00e6gn\u0259nt/", "Definition: not growing or changing; without force or vitality", "Synonyms: moribund"]}
+{"data": ["2023-05-20T08:01:13.085217+00:00", 11251, "Your mother is", "furrowed", "Pronunciation: /\u02c8f\u025dro\u028ad/", "Definition: having long narrow shallow depressions (as grooves or wrinkles) in the surface", "Synonyms: rugged"]}
