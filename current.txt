@@ -1,1 +1,1 @@
-{"data": ["2023-05-20T14:00:55.344283+00:00", 11257, "Your mother is", "world-shaking", "Pronunciation: /w\u025crld-\u02c8\u0283e\u026ak\u026a\u014b/", "Definition: sufficiently significant to affect the whole world", "Synonyms: earthshaking, world-shattering"]}
+{"data": ["2023-05-20T15:01:19.332276+00:00", 11258, "Your mother is", "gullible", "Pronunciation: /\u02c8\u0261\u0259l\u0259b\u0259l/", "Definition: naive and easily deceived or tricked", "Synonyms: fleeceable, green"]}
