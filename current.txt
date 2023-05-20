@@ -1,1 +1,1 @@
-{"data": ["2023-05-20T00:02:05.349222+00:00", 11243, "Your mother is", "wishful", "Pronunciation: /\u02c8w\u026a\u0283f\u0259l/", "Definition: having or expressing desire for something", "Synonyms: desirous"]}
+{"data": ["2023-05-20T01:00:59.885799+00:00", 11244, "Your mother is", "plushy", "Pronunciation: /\u02c8pl\u0259\u0283i/", "Definition: (of textures) resembling plush", "Synonyms: plush-like"]}
