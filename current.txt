@@ -1,1 +1,1 @@
-{"data": ["2023-05-20T02:01:30.653375+00:00", 11245, "Your mother is", "55th", "Similar to: ordinal", "Definition: the ordinal number of fifty-five in counting order", "Synonyms: fifty-fifth"]}
+{"data": ["2023-05-20T03:01:34.156188+00:00", 11246, "Your mother is", "unsporting", "Pronunciation: /\u0259n\u02c8spo\u028arti\u014b/", "Definition: violating accepted standards or rules", "Synonyms: cheating, dirty, foul, unsportsmanlike"]}
