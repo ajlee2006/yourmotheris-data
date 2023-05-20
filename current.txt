@@ -1,1 +1,1 @@
-{"data": ["2023-05-20T13:01:33.061028+00:00", 11256, "Your mother is", "trapped", "Pronunciation: /tr\u00e6pt/", "Definition: forced to turn and face attackers", "Synonyms: at bay, cornered, treed"]}
+{"data": ["2023-05-20T14:00:55.344283+00:00", 11257, "Your mother is", "world-shaking", "Pronunciation: /w\u025crld-\u02c8\u0283e\u026ak\u026a\u014b/", "Definition: sufficiently significant to affect the whole world", "Synonyms: earthshaking, world-shattering"]}
