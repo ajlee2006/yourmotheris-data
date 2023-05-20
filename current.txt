@@ -1,1 +1,1 @@
-{"data": ["2023-05-20T12:01:07.507059+00:00", 11255, "Your mother is", "sceptical", "Pronunciation: /\u02c8sk\u025bpt\u026ak\u0259l/", "Definition: marked by or given to doubt", "Synonyms: doubting, questioning, skeptical"]}
+{"data": ["2023-05-20T13:01:33.061028+00:00", 11256, "Your mother is", "trapped", "Pronunciation: /tr\u00e6pt/", "Definition: forced to turn and face attackers", "Synonyms: at bay, cornered, treed"]}
