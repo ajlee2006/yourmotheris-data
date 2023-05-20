@@ -1,1 +1,1 @@
-{"data": ["2023-05-20T18:01:21.067870+00:00", 11261, "Your mother is", "segmented", "Pronunciation: /\u02c8s\u025b\u0261\u02ccm\u025bnt\u026ad/", "Definition: having the body divided into successive metameres or segments, as in earthworms or lobsters", "Synonyms: metameric, segmental"]}
+{"data": ["2023-05-20T19:01:03.042419+00:00", 11262, "Your mother is", "acromegalic", "Pronunciation: /\u02cc\u00e6kro\u028am\u0259\u02c8\u0261\u00e6l\u026ak/", "Definition: marked or affected by enlargement or hypertrophy of the extremities or the face", ""]}
