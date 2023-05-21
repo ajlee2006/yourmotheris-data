@@ -1,1 +1,1 @@
-{"data": ["2023-05-21T16:01:21.470720+00:00", 11283, "Your mother is", "soprano", "Pronunciation: /s\u0259\u02c8pr\u00e6no\u028a/", "Definition: having or denoting a high range", "Synonyms: treble"]}
+{"data": ["2023-05-21T17:00:54.538295+00:00", 11284, "Your mother is", "consensual", "Pronunciation: /k\u0259n\u02c8s\u025bn\u0283u\u0259l/", "Definition: existing by consent", ""]}
