@@ -1,1 +1,1 @@
-{"data": ["2023-05-21T10:01:01.990744+00:00", 11277, "Your mother is", "full-grown", "Pronunciation: /f\u028al-gro\u028an/", "Definition: (of animals) fully developed", "Synonyms: adult, big, fully grown, grown, grownup"]}
+{"data": ["2023-05-21T11:01:08.688729+00:00", 11278, "Your mother is", "nonionized", "", "Definition: not converted into ions", "Synonyms: nonionic, nonionised, unionised, unionized"]}
