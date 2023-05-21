@@ -1,1 +1,1 @@
-{"data": ["2023-05-21T03:00:52.213233+00:00", 11270, "Your mother is", "fireproof", "Pronunciation: /\u02c8fa\u026a\u0259r\u02ccpruf/", "Definition: impervious to damage by fire", ""]}
+{"data": ["2023-05-21T04:01:03.667901+00:00", 11271, "Your mother is", "summery", "Similar to: aestival", "Definition: belonging to or characteristic of or occurring in summer", ""]}
