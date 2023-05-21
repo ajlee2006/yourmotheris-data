@@ -1,1 +1,1 @@
-{"data": ["2023-05-21T02:01:16.629448+00:00", 11269, "Your mother is", "saleable", "Pronunciation: /\u02c8se\u026al\u0259b\u0259l/", "Definition: capable of being sold; fit for sale", "Synonyms: salable"]}
+{"data": ["2023-05-21T03:00:52.213233+00:00", 11270, "Your mother is", "fireproof", "Pronunciation: /\u02c8fa\u026a\u0259r\u02ccpruf/", "Definition: impervious to damage by fire", ""]}
