@@ -1,1 +1,1 @@
-{"data": ["2023-05-21T13:01:03.769515+00:00", 11280, "Your mother is", "translatable", "Pronunciation: /tr\u00e6ns\u02c8le\u026at\u0259b\u0259l/", "Definition: capable of being changed in substance as if by alchemy", "Synonyms: convertible, transformable, transmutable"]}
+{"data": ["2023-05-21T14:01:37.868037+00:00", 11281, "Your mother is", "resident", "Pronunciation: /\u02c8r\u025bz\u026ad\u0259nt/", "Definition: used of animals that do not migrate", "Synonyms: nonmigratory"]}
