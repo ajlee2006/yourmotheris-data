@@ -1,1 +1,1 @@
-{"data": ["2023-05-21T15:01:29.971183+00:00", 11282, "Your mother is", "twin-bedded", "Similar to: bedded", "Definition: having twin beds", ""]}
+{"data": ["2023-05-21T16:01:21.470720+00:00", 11283, "Your mother is", "soprano", "Pronunciation: /s\u0259\u02c8pr\u00e6no\u028a/", "Definition: having or denoting a high range", "Synonyms: treble"]}
