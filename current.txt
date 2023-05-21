@@ -1,1 +1,1 @@
-{"data": ["2023-05-21T07:00:52.603121+00:00", 11274, "Your mother is", "unimproved", "Pronunciation: /\u02cc\u0259n\u026am\u02c8pruvd/", "Definition: not made more desirable or valuable or profitable; especially not made ready for use or marketing", ""]}
+{"data": ["2023-05-21T08:01:26.543305+00:00", 11275, "Your mother is", "prefatorial", "Similar to: preceding", "Definition: serving as an introduction or preface", "Synonyms: introductory, prefatory"]}
