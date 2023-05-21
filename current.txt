@@ -1,1 +1,1 @@
-{"data": ["2023-05-21T00:02:10.658626+00:00", 11267, "Your mother is", "elocutionary", "Pronunciation: /\u02cc\u025bl\u0259\u02c8kju\u0283\u0259\u02ccn\u025bri/", "Definition: (used of style of speaking) overly embellished", ""]}
+{"data": ["2023-05-21T01:01:04.936642+00:00", 11268, "Your mother is", "lachrymal", "Pronunciation: /\u02c8l\u00e6kr\u0259m\u0259l/", "Definition: of or relating to tears", "Synonyms: lacrimal"]}
