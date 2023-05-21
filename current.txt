@@ -1,1 +1,1 @@
-{"data": ["2023-05-21T12:01:14.335076+00:00", 11279, "Your mother is", "spoilt", "Pronunciation: /sp\u0254\u026alt/", "Definition: affected by blight; anything that mars or prevents growth or prosperity", "Synonyms: blighted"]}
+{"data": ["2023-05-21T13:01:03.769515+00:00", 11280, "Your mother is", "translatable", "Pronunciation: /tr\u00e6ns\u02c8le\u026at\u0259b\u0259l/", "Definition: capable of being changed in substance as if by alchemy", "Synonyms: convertible, transformable, transmutable"]}
