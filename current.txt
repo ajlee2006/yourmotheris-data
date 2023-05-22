@@ -1,1 +1,1 @@
-{"data": ["2023-05-22T03:01:24.302562+00:00", 11294, "Your mother is", "legendary", "Pronunciation: /\u02c8l\u025bd\u0292\u0259n\u02ccd\u025bri/", "Definition: celebrated in fable or legend", "Synonyms: fabled"]}
+{"data": ["2023-05-22T04:01:32.436084+00:00", 11295, "Your mother is", "areolar", "", "Definition: relating to or like or divided into areolae", "Synonyms: areolate"]}
