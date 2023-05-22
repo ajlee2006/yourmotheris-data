@@ -1,1 +1,1 @@
-{"data": ["2023-05-22T18:01:32.012534+00:00", 11309, "Your mother is", ".38-calibre", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures thirty-eight hundredths of an inch in diameter", "Synonyms: .38-caliber, .38 caliber, .38 calibre"]}
+{"data": ["2023-05-22T19:01:24.379624+00:00", 11310, "Your mother is", "bipartisan", "Pronunciation: /ba\u026a\u02c8p\u0251rt\u026az\u0259n/", "Definition: supported by both sides", "Synonyms: bipartizan, two-party, two-way"]}
