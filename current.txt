@@ -1,1 +1,1 @@
-{"data": ["2023-05-22T20:01:28.978490+00:00", 11311, "Your mother is", "statutory", "Pronunciation: /\u02c8st\u00e6\u02a7\u028a\u02ccto\u028ari/", "Definition: prescribed or authorized by or punishable under a statute", ""]}
+{"data": ["2023-05-22T21:01:24.772531+00:00", 11312, "Your mother is", "tweedy", "Pronunciation: /\u02c8twidi/", "Definition: of textiles; having a rough surface", "Synonyms: homespun, nubbly, nubby, slubbed"]}
