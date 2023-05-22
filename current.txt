@@ -1,1 +1,1 @@
-{"data": ["2023-05-22T05:01:18.076320+00:00", 11296, "Your mother is", "windy", "Pronunciation: /\u02c8w\u026andi/", "Definition: not practical or realizable; speculative", "Synonyms: airy, impractical, laputan, visionary"]}
+{"data": ["2023-05-22T06:01:01.703663+00:00", 11297, "Your mother is", "japanese", "Pronunciation: /\u02ccd\u0292\u00e6p\u0259\u02c8niz/", "Definition: of or relating to or characteristic of Japan or its people or their culture or language", "Synonyms: nipponese"]}
