@@ -1,1 +1,1 @@
-{"data": ["2023-05-22T08:00:58.480680+00:00", 11299, "Your mother is", "imbalanced", "Similar to: labile", "Definition: being or thrown out of equilibrium", "Synonyms: unbalanced"]}
+{"data": ["2023-05-22T09:00:59.419354+00:00", 11300, "Your mother is", "stone-grey", "Similar to: achromatic", "Definition: of the color of slate or granite", "Synonyms: slate-gray, slate-grey, slatey, slaty, slaty-gray, slaty-grey, stone-gray"]}
