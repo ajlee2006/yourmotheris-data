@@ -1,1 +1,1 @@
-{"data": ["2023-05-22T19:01:24.379624+00:00", 11310, "Your mother is", "bipartisan", "Pronunciation: /ba\u026a\u02c8p\u0251rt\u026az\u0259n/", "Definition: supported by both sides", "Synonyms: bipartizan, two-party, two-way"]}
+{"data": ["2023-05-22T20:01:28.978490+00:00", 11311, "Your mother is", "statutory", "Pronunciation: /\u02c8st\u00e6\u02a7\u028a\u02ccto\u028ari/", "Definition: prescribed or authorized by or punishable under a statute", ""]}
