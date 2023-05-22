@@ -1,1 +1,1 @@
-{"data": ["2023-05-22T11:01:03.065436+00:00", 11302, "Your mother is", "ticklish", "Pronunciation: /\u02c8t\u026akl\u026a\u0283/", "Definition: difficult to handle; requiring great tact", "Synonyms: delicate, touchy"]}
+{"data": ["2023-05-22T12:01:20.207938+00:00", 11303, "Your mother is", "first", "Pronunciation: /f\u025crst/", "Definition: indicating the beginning unit in a series", "Synonyms: 1st"]}
