@@ -1,1 +1,1 @@
-{"data": ["2023-05-22T21:01:24.772531+00:00", 11312, "Your mother is", "tweedy", "Pronunciation: /\u02c8twidi/", "Definition: of textiles; having a rough surface", "Synonyms: homespun, nubbly, nubby, slubbed"]}
+{"data": ["2023-05-22T22:01:23.089282+00:00", 11313, "Your mother is", "extrospective", "", "Definition: not introspective; examining what is outside yourself", "Synonyms: extroverted"]}
