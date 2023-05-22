@@ -1,1 +1,1 @@
-{"data": ["2023-05-22T01:01:00.952623+00:00", 11292, "Your mother is", "bulblike", "Similar to: circular", "Definition: shaped like a bulb", "Synonyms: bulb-shaped, bulbous"]}
+{"data": ["2023-05-22T02:00:57.223495+00:00", 11293, "Your mother is", "hydric", "Pronunciation: /\u02c8ha\u026adr\u026ak/", "Definition: having or characterized by excessive moisture", ""]}
