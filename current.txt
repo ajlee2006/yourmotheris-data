@@ -1,1 +1,1 @@
-{"data": ["2023-05-22T06:01:01.703663+00:00", 11297, "Your mother is", "japanese", "Pronunciation: /\u02ccd\u0292\u00e6p\u0259\u02c8niz/", "Definition: of or relating to or characteristic of Japan or its people or their culture or language", "Synonyms: nipponese"]}
+{"data": ["2023-05-22T07:01:13.034858+00:00", 11298, "Your mother is", "stabilising", "Similar to: helpful", "Definition: causing to become stable", "Synonyms: stabilizing"]}
