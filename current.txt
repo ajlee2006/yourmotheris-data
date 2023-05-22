@@ -1,1 +1,1 @@
-{"data": ["2023-05-22T00:01:59.131710+00:00", 11291, "Your mother is", "unclassifiable", "Pronunciation: /\u0259n\u02c8kl\u00e6s\u026a\u02ccfa\u026a\u0259b\u0259l/", "Definition: not possible to classify", ""]}
+{"data": ["2023-05-22T01:01:00.952623+00:00", 11292, "Your mother is", "bulblike", "Similar to: circular", "Definition: shaped like a bulb", "Synonyms: bulb-shaped, bulbous"]}
