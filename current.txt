@@ -1,1 +1,1 @@
-{"data": ["2023-05-22T07:01:13.034858+00:00", 11298, "Your mother is", "stabilising", "Similar to: helpful", "Definition: causing to become stable", "Synonyms: stabilizing"]}
+{"data": ["2023-05-22T08:00:58.480680+00:00", 11299, "Your mother is", "imbalanced", "Similar to: labile", "Definition: being or thrown out of equilibrium", "Synonyms: unbalanced"]}
