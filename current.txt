@@ -1,1 +1,1 @@
-{"data": ["2023-05-22T16:01:23.416142+00:00", 11307, "Your mother is", "inflexible", "Pronunciation: /\u026an\u02c8fl\u025bks\u0259b\u0259l/", "Definition: incapable of adapting or changing to meet circumstances", "Synonyms: rigid, unbending"]}
+{"data": ["2023-05-22T17:01:08.256396+00:00", 11308, "Your mother is", "signal", "Pronunciation: /\u02c8s\u026agn\u0259l/", "Definition: notably out of the ordinary", ""]}
