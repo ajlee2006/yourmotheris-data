@@ -1,1 +1,1 @@
-{"data": ["2023-05-23T02:01:08.318352+00:00", 11317, "Your mother is", "prissy", "Pronunciation: /\u02c8prisi/", "Definition: exaggeratedly proper", "Synonyms: priggish, prim, prudish, puritanical, square-toed, straight-laced, straightlaced, strait-laced, straitlaced, tight-laced, victorian"]}
+{"data": ["2023-05-23T03:01:05.891232+00:00", 11318, "Your mother is", "germinal", "Pronunciation: /\u02c8d\u0292\u025crm\u0259n\u0259l/", "Definition: containing seeds of later development", "Synonyms: originative, seminal"]}
