@@ -1,1 +1,1 @@
-{"data": ["2023-05-23T03:01:05.891232+00:00", 11318, "Your mother is", "germinal", "Pronunciation: /\u02c8d\u0292\u025crm\u0259n\u0259l/", "Definition: containing seeds of later development", "Synonyms: originative, seminal"]}
+{"data": ["2023-05-23T04:01:05.510580+00:00", 11319, "Your mother is", "haploidic", "", "Definition: of a cell or organism having a single set of chromosomes", "Synonyms: haploid, monoploid"]}
