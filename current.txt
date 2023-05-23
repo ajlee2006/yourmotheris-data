@@ -1,1 +1,1 @@
-{"data": ["2023-05-23T20:01:29.597565+00:00", 11335, "Your mother is", "tending", "Pronunciation: /\u02c8t\u025bnd\u026a\u014b/", "Definition: (usually followed by `to') naturally disposed toward", "Synonyms: apt, disposed, given, minded"]}
+{"data": ["2023-05-23T21:01:25.558432+00:00", 11336, "Your mother is", "beetle", "Pronunciation: /\u02c8bit\u0259l/", "Definition: jutting or overhanging", "Synonyms: beetling"]}
