@@ -1,1 +1,1 @@
-{"data": ["2023-05-23T00:02:08.175506+00:00", 11315, "Your mother is", "inadvisable", "Pronunciation: /\u02cc\u026an\u0259d\u02c8va\u026az\u0259b\u0259l/", "Definition: not prudent or wise; not recommended", "Synonyms: unadvisable"]}
+{"data": ["2023-05-23T01:00:53.541996+00:00", 11316, "Your mother is", "volcanic", "Pronunciation: /v\u0251l\u02c8k\u00e6n\u026ak/", "Definition: explosively unstable", ""]}
