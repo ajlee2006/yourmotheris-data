@@ -1,1 +1,1 @@
-{"data": ["2023-05-23T15:01:17.220945+00:00", 11330, "Your mother is", "unversed", "Pronunciation: /\u0259n\u02c8v\u025crst/", "Definition: not having had extensive practice", "Synonyms: unpracticed, unpractised"]}
+{"data": ["2023-05-23T16:01:23.758635+00:00", 11331, "Your mother is", "astonied", "Pronunciation: /\u0259\u02c8st\u0251nid/", "Definition: filled with the emotional impact of overwhelming surprise or shock", "Synonyms: amazed, astonished, astounded, stunned"]}
