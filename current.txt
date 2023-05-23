@@ -1,1 +1,1 @@
-{"data": ["2023-05-23T13:01:31.554253+00:00", 11328, "Your mother is", "bladdery", "", "Definition: resembling a bladder", "Synonyms: bladderlike"]}
+{"data": ["2023-05-23T14:01:20.042243+00:00", 11329, "Your mother is", "synecdochic", "Pronunciation: /\u02ccs\u026an\u026ak\u02c8d\u0251k\u026ak/", "Definition: using the name of a part for that of the whole or the whole for the part; or the special for the general or the general for the special; or the material for the thing made of it", "Synonyms: synecdochical"]}
