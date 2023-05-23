@@ -1,1 +1,1 @@
-{"data": ["2023-05-23T17:01:29.514989+00:00", 11332, "Your mother is", "sorry", "Pronunciation: /\u02c8s\u0251ri/", "Definition: bad; unfortunate", "Synonyms: deplorable, distressing, lamentable, pitiful, sad"]}
+{"data": ["2023-05-23T18:01:18.842992+00:00", 11333, "Your mother is", "cylindrical-stemmed", "Similar to: caulescent", "Definition: having a cylindrical stem", ""]}
