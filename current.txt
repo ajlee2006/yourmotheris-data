@@ -1,1 +1,1 @@
-{"data": ["2023-05-23T22:01:07.328215+00:00", 11337, "Your mother is", "comate", "Pronunciation: /\u02c8ko\u028ame\u026at/", "Definition: of certain seeds (such as cotton) having a tuft or tufts of hair", "Synonyms: comal, comose"]}
+{"data": ["2023-05-23T23:01:27.767622+00:00", 11338, "Your mother is", "forceful", "Pronunciation: /\u02c8fo\u028arsf\u0259l/", "Definition: forceful and definite in expression or action", "Synonyms: emphatic"]}
