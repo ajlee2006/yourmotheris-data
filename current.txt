@@ -1,1 +1,1 @@
-{"data": ["2023-05-23T16:01:23.758635+00:00", 11331, "Your mother is", "astonied", "Pronunciation: /\u0259\u02c8st\u0251nid/", "Definition: filled with the emotional impact of overwhelming surprise or shock", "Synonyms: amazed, astonished, astounded, stunned"]}
+{"data": ["2023-05-23T17:01:29.514989+00:00", 11332, "Your mother is", "sorry", "Pronunciation: /\u02c8s\u0251ri/", "Definition: bad; unfortunate", "Synonyms: deplorable, distressing, lamentable, pitiful, sad"]}
