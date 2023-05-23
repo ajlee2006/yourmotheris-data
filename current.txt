@@ -1,1 +1,1 @@
-{"data": ["2023-05-23T10:00:55.280145+00:00", 11325, "Your mother is", "tinseled", "Similar to: adorned", "Definition: glittering with gold or silver", "Synonyms: clinquant, tinselly"]}
+{"data": ["2023-05-23T11:01:09.888757+00:00", 11326, "Your mother is", "errorless", "Similar to: perfect", "Definition: free from error", ""]}
