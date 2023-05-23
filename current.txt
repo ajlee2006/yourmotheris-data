@@ -1,1 +1,1 @@
-{"data": ["2023-05-23T01:00:53.541996+00:00", 11316, "Your mother is", "volcanic", "Pronunciation: /v\u0251l\u02c8k\u00e6n\u026ak/", "Definition: explosively unstable", ""]}
+{"data": ["2023-05-23T02:01:08.318352+00:00", 11317, "Your mother is", "prissy", "Pronunciation: /\u02c8prisi/", "Definition: exaggeratedly proper", "Synonyms: priggish, prim, prudish, puritanical, square-toed, straight-laced, straightlaced, strait-laced, straitlaced, tight-laced, victorian"]}
