@@ -1,1 +1,1 @@
-{"data": ["2023-05-24T00:02:07.116722+00:00", 11339, "Your mother is", "antitumor", "", "Definition: used in the treatment of cancer", "Synonyms: anticancer, antineoplastic, antitumour"]}
+{"data": ["2023-05-24T01:01:31.570484+00:00", 11340, "Your mother is", "united", "Pronunciation: /ju\u02c8na\u026at\u026ad/", "Definition: of or relating to two people who are married to each other", "Synonyms: joined"]}
