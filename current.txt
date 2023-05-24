@@ -1,1 +1,1 @@
-{"data": ["2023-05-24T12:01:06.855560+00:00", 11351, "Your mother is", "viable", "Pronunciation: /\u02c8va\u026a\u0259b\u0259l/", "Definition: capable of being done with means at hand and circumstances as they are", "Synonyms: executable, feasible, practicable, workable"]}
+{"data": ["2023-05-24T13:01:37.893465+00:00", 11352, "Your mother is", "coarse-grained", "Pronunciation: /ko\u028ars-gre\u026and/", "Definition: composed of or covered with particles resembling meal in texture or consistency", "Synonyms: farinaceous, grainy, granular, granulose, gritty, mealy"]}
