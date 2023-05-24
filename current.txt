@@ -1,1 +1,1 @@
-{"data": ["2023-05-24T10:00:58.750472+00:00", 11349, "Your mother is", "down in the mouth", "Similar to: dejected", "Definition: filled with melancholy and despondency", "Synonyms: blue, depressed, dispirited, down, downcast, downhearted, gloomy, grim, low, low-spirited"]}
+{"data": ["2023-05-24T11:00:57.390552+00:00", 11350, "Your mother is", "sore-eyed", "Pronunciation: /so\u028ar-a\u026ad/", "Definition: having sore eyes; suffering from pinkeye or conjunctivitis", ""]}
