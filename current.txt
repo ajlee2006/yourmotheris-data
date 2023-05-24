@@ -1,1 +1,1 @@
-{"data": ["2023-05-24T19:01:04.666579+00:00", 11358, "Your mother is", "overgenerous", "Pronunciation: /\u02cco\u028av\u0259\u02c8d\u0292\u025bn\u0259r\u0259s/", "Definition: very generous", "Synonyms: lavish, munificent, too-generous, unsparing, unstinted, unstinting"]}
+{"data": ["2023-05-24T20:01:33.259325+00:00", 11359, "Your mother is", "bone-dry", "Pronunciation: /bo\u028an-dra\u026a/", "Definition: without a trace of moisture; as dry as a weathered bone", "Synonyms: bone dry"]}
