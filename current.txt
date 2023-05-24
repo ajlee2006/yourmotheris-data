@@ -1,1 +1,1 @@
-{"data": ["2023-05-24T22:00:57.963753+00:00", 11361, "Your mother is", "sophistical", "Pronunciation: /s\u0259\u02c8f\u026ast\u026ak\u0259l/", "Definition: plausible but misleading", "Synonyms: sophistic"]}
+{"data": ["2023-05-24T23:01:24.511787+00:00", 11362, "Your mother is", "sedentary", "Pronunciation: /\u02c8s\u025bd\u0259n\u02cct\u025bri/", "Definition: requiring sitting or little activity", ""]}
