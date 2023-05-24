@@ -1,1 +1,1 @@
-{"data": ["2023-05-24T09:01:23.014014+00:00", 11348, "Your mother is", "thirty-nine", "Pronunciation: /\u02c8\u03b8\u025crti-\u02c8na\u026an/", "Definition: being nine more than thirty", "Synonyms: 39, ixl"]}
+{"data": ["2023-05-24T10:00:58.750472+00:00", 11349, "Your mother is", "down in the mouth", "Similar to: dejected", "Definition: filled with melancholy and despondency", "Synonyms: blue, depressed, dispirited, down, downcast, downhearted, gloomy, grim, low, low-spirited"]}
