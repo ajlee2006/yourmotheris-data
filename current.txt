@@ -1,1 +1,1 @@
-{"data": ["2023-05-24T11:00:57.390552+00:00", 11350, "Your mother is", "sore-eyed", "Pronunciation: /so\u028ar-a\u026ad/", "Definition: having sore eyes; suffering from pinkeye or conjunctivitis", ""]}
+{"data": ["2023-05-24T12:01:06.855560+00:00", 11351, "Your mother is", "viable", "Pronunciation: /\u02c8va\u026a\u0259b\u0259l/", "Definition: capable of being done with means at hand and circumstances as they are", "Synonyms: executable, feasible, practicable, workable"]}
