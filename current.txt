@@ -1,1 +1,1 @@
-{"data": ["2023-05-24T13:01:37.893465+00:00", 11352, "Your mother is", "coarse-grained", "Pronunciation: /ko\u028ars-gre\u026and/", "Definition: composed of or covered with particles resembling meal in texture or consistency", "Synonyms: farinaceous, grainy, granular, granulose, gritty, mealy"]}
+{"data": ["2023-05-24T14:01:31.442122+00:00", 11353, "Your mother is", "ill-treated", "Similar to: battered", "Definition: subjected to cruel treatment", "Synonyms: abused, maltreated, mistreated"]}
