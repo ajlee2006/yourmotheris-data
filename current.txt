@@ -1,1 +1,1 @@
-{"data": ["2023-05-25T11:01:05.212473+00:00", 11374, "Your mother is", "upper-class", "Pronunciation: /\u02c8\u0259p\u0259r-\u02c8kl\u00e6s/", "Definition: occupying the highest socioeconomic position in a society", ""]}
+{"data": ["2023-05-25T12:01:22.563472+00:00", 11375, "Your mother is", "enhancive", "Similar to: intensifying", "Definition: intensifying by augmentation and enhancement", "Synonyms: augmentative"]}
