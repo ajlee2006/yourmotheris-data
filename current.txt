@@ -1,1 +1,1 @@
-{"data": ["2023-05-25T21:01:38.669850+00:00", 11384, "Your mother is", "gradable", "Similar to: hierarchal", "Definition: capable of being graded (for quality or rank or size etc.)", ""]}
+{"data": ["2023-05-25T22:00:59.762939+00:00", 11385, "Your mother is", "one hundred seventy-five", "Similar to: cardinal", "Definition: being five more than one hundred seventy", "Synonyms: 175, clxxv"]}
