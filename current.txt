@@ -1,1 +1,1 @@
-{"data": ["2023-05-25T05:00:52.529730+00:00", 11368, "Your mother is", "stopped up", "Similar to: obstructed", "Definition: (of a nose) blocked", "Synonyms: stopped, stopped-up"]}
+{"data": ["2023-05-25T06:01:18.627794+00:00", 11369, "Your mother is", "unmannered", "Pronunciation: /\u0259n\u02c8m\u00e6n\u0259rd/", "Definition: socially incorrect in behavior", "Synonyms: bad-mannered, ill-mannered, rude, unmannerly"]}
