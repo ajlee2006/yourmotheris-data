@@ -1,1 +1,1 @@
-{"data": ["2023-05-25T20:01:42.120368+00:00", 11383, "Your mother is", "spoilt", "Pronunciation: /sp\u0254\u026alt/", "Definition: affected by blight; anything that mars or prevents growth or prosperity", "Synonyms: blighted"]}
+{"data": ["2023-05-25T21:01:38.669850+00:00", 11384, "Your mother is", "gradable", "Similar to: hierarchal", "Definition: capable of being graded (for quality or rank or size etc.)", ""]}
