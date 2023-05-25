@@ -1,1 +1,1 @@
-{"data": ["2023-05-25T00:02:22.199263+00:00", 11363, "Your mother is", "kidney-shaped", "Pronunciation: /\u02c8k\u026adni-\u02cc\u0283e\u026apt/", "Definition: (of a leaf or bean shape) resembling the shape of kidney", "Synonyms: reniform"]}
+{"data": ["2023-05-25T01:01:26.608419+00:00", 11364, "Your mother is", "malay", "Pronunciation: /\u02c8me\u026ale\u026a/", "Definition: of or relating to or characteristic of the people or language of Malaysia and the northern Malay Peninsula and parts of the western Malay Archipelago", "Synonyms: malayan"]}
