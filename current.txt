@@ -1,1 +1,1 @@
-{"data": ["2023-05-25T10:01:20.375489+00:00", 11373, "Your mother is", "tricentenary", "Pronunciation: /\u02cctra\u026as\u025bn\u02c8tin\u0259ri/", "Definition: of or relating to or completing a period of 300 years", "Synonyms: tricentennial"]}
+{"data": ["2023-05-25T11:01:05.212473+00:00", 11374, "Your mother is", "upper-class", "Pronunciation: /\u02c8\u0259p\u0259r-\u02c8kl\u00e6s/", "Definition: occupying the highest socioeconomic position in a society", ""]}
