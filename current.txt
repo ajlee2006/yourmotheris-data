@@ -1,1 +1,1 @@
-{"data": ["2023-05-24T23:01:24.511787+00:00", 11362, "Your mother is", "sedentary", "Pronunciation: /\u02c8s\u025bd\u0259n\u02cct\u025bri/", "Definition: requiring sitting or little activity", ""]}
+{"data": ["2023-05-25T00:02:22.199263+00:00", 11363, "Your mother is", "kidney-shaped", "Pronunciation: /\u02c8k\u026adni-\u02cc\u0283e\u026apt/", "Definition: (of a leaf or bean shape) resembling the shape of kidney", "Synonyms: reniform"]}
