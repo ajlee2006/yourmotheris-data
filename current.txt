@@ -1,1 +1,1 @@
-{"data": ["2023-05-25T07:01:25.468793+00:00", 11370, "Your mother is", "tightly fitting", "Similar to: tight", "Definition: fitting snugly", "Synonyms: skinny, tight-fitting, tight fitting, tightfitting"]}
+{"data": ["2023-05-25T08:01:26.325250+00:00", 11371, "Your mother is", "unbalanced", "Pronunciation: /\u0259n\u02c8b\u00e6l\u0259nst/", "Definition: affected with madness or insanity", "Synonyms: brainsick, crazy, demented, disturbed, mad, sick, unhinged"]}
