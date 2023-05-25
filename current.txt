@@ -1,1 +1,1 @@
-{"data": ["2023-05-25T14:01:39.563904+00:00", 11377, "Your mother is", "marauding", "Pronunciation: /m\u0259\u02c8r\u0254d\u026a\u014b/", "Definition: characterized by plundering or pillaging or marauding", "Synonyms: predatory, raiding"]}
+{"data": ["2023-05-25T15:00:55.908015+00:00", 11378, "Your mother is", "laid-off", "Similar to: unemployed", "Definition: having lost your job", "Synonyms: discharged, dismissed, fired, pink-slipped"]}
