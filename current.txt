@@ -1,1 +1,1 @@
-{"data": ["2023-05-25T15:00:55.908015+00:00", 11378, "Your mother is", "laid-off", "Similar to: unemployed", "Definition: having lost your job", "Synonyms: discharged, dismissed, fired, pink-slipped"]}
+{"data": ["2023-05-25T16:00:57.097272+00:00", 11379, "Your mother is", "cloying", "Pronunciation: /\u02c8kl\u0254\u026a\u026a\u014b/", "Definition: overly sweet", "Synonyms: saccharine, syrupy, treacly"]}
