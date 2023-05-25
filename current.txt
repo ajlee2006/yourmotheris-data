@@ -1,1 +1,1 @@
-{"data": ["2023-05-25T18:01:07.593316+00:00", 11381, "Your mother is", "cutting", "Pronunciation: /\u02c8k\u0259t\u026a\u014b/", "Definition: (of speech) harsh or hurtful in tone or character", "Synonyms: edged, stinging"]}
+{"data": ["2023-05-25T19:01:07.428063+00:00", 11382, "Your mother is", "delineate", "Pronunciation: /d\u026a\u02c8l\u026ani\u02cce\u026at/", "Definition: represented accurately or precisely", "Synonyms: delineated, represented"]}
