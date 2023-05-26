@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T15:01:14.146169+00:00", 11402, "Your mother is", "at rest", "Similar to: dead", "Definition: dead", "Synonyms: asleep, at peace, deceased, departed, gone"]}
+{"data": ["2023-05-26T16:01:12.339759+00:00", 11403, "Your mother is", "hydrated", "Pronunciation: /\u02c8ha\u026adre\u026at\u026ad/", "Definition: containing combined water (especially water of crystallization as in a hydrate)", "Synonyms: hydrous"]}
