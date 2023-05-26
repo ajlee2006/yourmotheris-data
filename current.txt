@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T11:01:36.388593+00:00", 11398, "Your mother is", "axiomatical", "", "Definition: of or relating to or derived from axioms", "Synonyms: axiomatic, postulational"]}
+{"data": ["2023-05-26T12:01:25.984987+00:00", 11399, "Your mother is", "exogenous", "Pronunciation: /\u025bk\u02c8s\u0251d\u0292\u0259n\u0259s/", "Definition: derived or originating externally", "Synonyms: exogenic"]}
