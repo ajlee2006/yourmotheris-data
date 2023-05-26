@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T18:01:30.740291+00:00", 11405, "Your mother is", "nonmedicinal", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: unmedical, unmedicative, unmedicinal"]}
+{"data": ["2023-05-26T19:01:39.004302+00:00", 11406, "Your mother is", "medium", "Pronunciation: /\u02c8midi\u0259m/", "Definition: around the middle of a scale of evaluation", "Synonyms: average, intermediate"]}
