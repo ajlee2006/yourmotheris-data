@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T02:01:15.429903+00:00", 11389, "Your mother is", "minor", "Pronunciation: /\u02c8ma\u026an\u0259r/", "Definition: not of legal age", "Synonyms: nonaged, underage"]}
+{"data": ["2023-05-26T03:01:15.249061+00:00", 11390, "Your mother is", "pure", "Pronunciation: /pj\u028ar/", "Definition: without qualification; used informally as (often pejorative) intensifiers", "Synonyms: arrant, complete, consummate, double-dyed, everlasting, gross, perfect, sodding, staring, stark, thorough, thoroughgoing, unadulterated, utter"]}
