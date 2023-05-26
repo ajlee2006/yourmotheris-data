@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T12:01:25.984987+00:00", 11399, "Your mother is", "exogenous", "Pronunciation: /\u025bk\u02c8s\u0251d\u0292\u0259n\u0259s/", "Definition: derived or originating externally", "Synonyms: exogenic"]}
+{"data": ["2023-05-26T13:01:25.644344+00:00", 11400, "Your mother is", "primary", "Pronunciation: /\u02c8pra\u026am\u025bri/", "Definition: of or being the essential or basic part", "Synonyms: basal, elemental, elementary"]}
