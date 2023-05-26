@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T09:01:25.044512+00:00", 11396, "Your mother is", "high-sounding", "Pronunciation: /ha\u026a-\u02c8sa\u028and\u026a\u014b/", "Definition: pretentious (especially with regard to language or ideals)", "Synonyms: high-flown, inflated"]}
+{"data": ["2023-05-26T10:01:32.539800+00:00", 11397, "Your mother is", "orbitual", "Similar to: cyclic", "Definition: describing a circle; moving in a circle", "Synonyms: circular, rotary"]}
