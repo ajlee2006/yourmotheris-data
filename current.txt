@@ -1,1 +1,1 @@
-{"data": ["2023-05-25T23:01:42.345234+00:00", 11386, "Your mother is", "unfed", "Pronunciation: /\u0259n\u02c8f\u025bd/", "Definition: not fed", ""]}
+{"data": ["2023-05-26T00:02:20.800012+00:00", 11387, "Your mother is", "four hundred", "Similar to: cardinal", "Definition: being one hundred more than three hundred", "Synonyms: 400, cd"]}
