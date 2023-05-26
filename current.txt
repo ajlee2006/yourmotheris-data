@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T13:01:25.644344+00:00", 11400, "Your mother is", "primary", "Pronunciation: /\u02c8pra\u026am\u025bri/", "Definition: of or being the essential or basic part", "Synonyms: basal, elemental, elementary"]}
+{"data": ["2023-05-26T14:01:18.554447+00:00", 11401, "Your mother is", "bodied", "Pronunciation: /\u02c8b\u0251did/", "Definition: possessing or existing in bodily form", "Synonyms: corporal, corporate, embodied, incarnate"]}
