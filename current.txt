@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T01:01:16.312883+00:00", 11388, "Your mother is", "commensurate", "Pronunciation: /k\u0259\u02c8m\u025bns\u0259r\u026at/", "Definition: corresponding in size or degree or extent", ""]}
+{"data": ["2023-05-26T02:01:15.429903+00:00", 11389, "Your mother is", "minor", "Pronunciation: /\u02c8ma\u026an\u0259r/", "Definition: not of legal age", "Synonyms: nonaged, underage"]}
