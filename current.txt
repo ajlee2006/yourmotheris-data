@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T04:01:02.643829+00:00", 11391, "Your mother is", "narcotised", "Similar to: drunk", "Definition: under the influence of narcotics", "Synonyms: doped, drugged, narcotized"]}
+{"data": ["2023-05-26T05:01:11.893749+00:00", 11392, "Your mother is", "low-key", "Pronunciation: /lo\u028a-ki/", "Definition: restrained in style or quality", "Synonyms: low-keyed, subdued"]}
