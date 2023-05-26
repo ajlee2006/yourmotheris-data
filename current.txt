@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T05:01:11.893749+00:00", 11392, "Your mother is", "low-key", "Pronunciation: /lo\u028a-ki/", "Definition: restrained in style or quality", "Synonyms: low-keyed, subdued"]}
+{"data": ["2023-05-26T06:01:29.725812+00:00", 11393, "Your mother is", "unsanitary", "Pronunciation: /\u0259n\u02c8s\u00e6n\u026at\u0259ri/", "Definition: not sanitary or healthful", "Synonyms: insanitary, unhealthful"]}
