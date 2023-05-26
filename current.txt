@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T17:01:14.983207+00:00", 11404, "Your mother is", "exasperated", "Pronunciation: /\u026a\u0261\u02c8z\u00e6sp\u025dr\u02cce\u026at\u026ad/", "Definition: greatly annoyed; out of patience", "Synonyms: browned off, cheesed off"]}
+{"data": ["2023-05-26T18:01:30.740291+00:00", 11405, "Your mother is", "nonmedicinal", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: unmedical, unmedicative, unmedicinal"]}
