@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T06:01:29.725812+00:00", 11393, "Your mother is", "unsanitary", "Pronunciation: /\u0259n\u02c8s\u00e6n\u026at\u0259ri/", "Definition: not sanitary or healthful", "Synonyms: insanitary, unhealthful"]}
+{"data": ["2023-05-26T07:01:30.082978+00:00", 11394, "Your mother is", "red-blooded", "Pronunciation: /r\u025bd-\u02c8bl\u0259d\u026ad/", "Definition: endowed with or exhibiting great bodily or mental health", "Synonyms: full-blooded, hearty, lusty"]}
