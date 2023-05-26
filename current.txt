@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T20:01:23.489166+00:00", 11407, "Your mother is", "chasidic", "Pronunciation: /h\u0251\u02c8s\u026ad\u026ak/", "Definition: of or relating to the Jewish Hasidim or its members or their beliefs and practices", "Synonyms: chassidic, hasidic, hassidic"]}
+{"data": ["2023-05-26T21:01:13.118648+00:00", 11408, "Your mother is", "slick", "Pronunciation: /sl\u026ak/", "Definition: having only superficial plausibility", "Synonyms: glib, pat"]}
