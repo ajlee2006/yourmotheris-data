@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T03:01:15.249061+00:00", 11390, "Your mother is", "pure", "Pronunciation: /pj\u028ar/", "Definition: without qualification; used informally as (often pejorative) intensifiers", "Synonyms: arrant, complete, consummate, double-dyed, everlasting, gross, perfect, sodding, staring, stark, thorough, thoroughgoing, unadulterated, utter"]}
+{"data": ["2023-05-26T04:01:02.643829+00:00", 11391, "Your mother is", "narcotised", "Similar to: drunk", "Definition: under the influence of narcotics", "Synonyms: doped, drugged, narcotized"]}
