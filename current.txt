@@ -1,1 +1,1 @@
-{"data": ["2023-05-26T14:01:18.554447+00:00", 11401, "Your mother is", "bodied", "Pronunciation: /\u02c8b\u0251did/", "Definition: possessing or existing in bodily form", "Synonyms: corporal, corporate, embodied, incarnate"]}
+{"data": ["2023-05-26T15:01:14.146169+00:00", 11402, "Your mother is", "at rest", "Similar to: dead", "Definition: dead", "Synonyms: asleep, at peace, deceased, departed, gone"]}
