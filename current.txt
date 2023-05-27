@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T12:01:00.557712+00:00", 11423, "Your mother is", "fail-safe", "Pronunciation: /\u02c8fe\u026al\u02c8se\u026af/", "Definition: eliminating danger by compensating automatically for a failure or malfunction", ""]}
+{"data": ["2023-05-27T13:01:30.661491+00:00", 11424, "Your mother is", "dished", "Pronunciation: /d\u026a\u0283t/", "Definition: shaped like a dish or pan", "Synonyms: dish-shaped, patelliform"]}
