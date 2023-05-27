@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T04:01:31.734145+00:00", 11415, "Your mother is", "disc-shaped", "Similar to: circular", "Definition: having a flat circular shape", "Synonyms: disclike, discoid, discoidal, disk-shaped, disklike"]}
+{"data": ["2023-05-27T05:01:17.040478+00:00", 11416, "Your mother is", "spine-tipped", "Similar to: tipped", "Definition: of a plant tipped with a spine", ""]}
