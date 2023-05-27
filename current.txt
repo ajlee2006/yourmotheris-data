@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T14:01:31.817224+00:00", 11425, "Your mother is", "upstair", "", "Definition: on or of upper floors of a building", "Synonyms: upstairs"]}
+{"data": ["2023-05-27T15:00:57.167485+00:00", 11426, "Your mother is", "flatus-relieving", "Similar to: healthful", "Definition: relieving gas in the alimentary tract (colic or flatulence or griping)", "Synonyms: carminative"]}
