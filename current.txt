@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T09:00:58.101094+00:00", 11420, "Your mother is", "tralatitious", "Similar to: traditional", "Definition: having been passed along from generation to generation", "Synonyms: handed-down"]}
+{"data": ["2023-05-27T10:01:08.732150+00:00", 11421, "Your mother is", "tensed", "Similar to: finite", "Definition: having inflections to indicate tense", ""]}
