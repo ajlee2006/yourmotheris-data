@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T11:01:29.998981+00:00", 11422, "Your mother is", "well-branched", "Similar to: branchy", "Definition: having good branches", ""]}
+{"data": ["2023-05-27T12:01:00.557712+00:00", 11423, "Your mother is", "fail-safe", "Pronunciation: /\u02c8fe\u026al\u02c8se\u026af/", "Definition: eliminating danger by compensating automatically for a failure or malfunction", ""]}
