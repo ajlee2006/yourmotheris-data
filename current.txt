@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T07:01:32.148149+00:00", 11418, "Your mother is", "gasified", "Similar to: gaseous", "Definition: converted into a gas or vapor", "Synonyms: vaporized, vapourised, volatilised, volatilized"]}
+{"data": ["2023-05-27T08:01:03.906851+00:00", 11419, "Your mother is", "rancid", "Pronunciation: /\u02c8r\u00e6ns\u026ad/", "Definition: smelling of fermentation or staleness", "Synonyms: sour"]}
