@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T00:02:16.100069+00:00", 11411, "Your mother is", "irreproachable", "Pronunciation: /\u02cc\u026ar\u026a\u02c8pro\u028a\u02a7\u0259b\u0259l/", "Definition: free of guilt; not subject to blame", "Synonyms: blameless, inculpable, unimpeachable"]}
+{"data": ["2023-05-27T01:01:12.751954+00:00", 11412, "Your mother is", "unstated", "Pronunciation: /\u0259n\u02c8ste\u026at\u026ad/", "Definition: not made explicit", "Synonyms: unexpressed, unsaid, unspoken, unuttered, unverbalised, unverbalized, unvoiced"]}
