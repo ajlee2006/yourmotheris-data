@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T20:00:59.844949+00:00", 11431, "Your mother is", "overbusy", "Pronunciation: /\u02cco\u028av\u0259\u02c8b\u026azi/", "Definition: too busy", ""]}
+{"data": ["2023-05-27T21:01:33.256089+00:00", 11432, "Your mother is", "prescient", "Pronunciation: /\u02c8pr\u025bsi\u0259nt/", "Definition: perceiving the significance of events before they occur", ""]}
