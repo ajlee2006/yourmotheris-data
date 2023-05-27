@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T01:01:12.751954+00:00", 11412, "Your mother is", "unstated", "Pronunciation: /\u0259n\u02c8ste\u026at\u026ad/", "Definition: not made explicit", "Synonyms: unexpressed, unsaid, unspoken, unuttered, unverbalised, unverbalized, unvoiced"]}
+{"data": ["2023-05-27T02:01:34.238084+00:00", 11413, "Your mother is", "deaf", "Pronunciation: /d\u025bf/", "Definition: (usually followed by `to') unwilling or refusing to pay heed", "Synonyms: indifferent"]}
