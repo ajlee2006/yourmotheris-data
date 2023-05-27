@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T16:00:52.113770+00:00", 11427, "Your mother is", "bowed down", "Pronunciation: /bo\u028ad-da\u028an/", "Definition: heavily burdened with work or cares", "Synonyms: loaded down, overburdened, weighed down"]}
+{"data": ["2023-05-27T17:01:23.665112+00:00", 11428, "Your mother is", "predaceous", "Pronunciation: /pr\u026a\u02c8de\u026ash\u0259s/", "Definition: hunting and killing other animals for food", "Synonyms: predacious"]}
