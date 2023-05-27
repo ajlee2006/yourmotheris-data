@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T03:01:23.895677+00:00", 11414, "Your mother is", "young-begetting", "Similar to: male", "Definition: capable of fathering offspring", ""]}
+{"data": ["2023-05-27T04:01:31.734145+00:00", 11415, "Your mother is", "disc-shaped", "Similar to: circular", "Definition: having a flat circular shape", "Synonyms: disclike, discoid, discoidal, disk-shaped, disklike"]}
