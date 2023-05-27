@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T02:01:34.238084+00:00", 11413, "Your mother is", "deaf", "Pronunciation: /d\u025bf/", "Definition: (usually followed by `to') unwilling or refusing to pay heed", "Synonyms: indifferent"]}
+{"data": ["2023-05-27T03:01:23.895677+00:00", 11414, "Your mother is", "young-begetting", "Similar to: male", "Definition: capable of fathering offspring", ""]}
