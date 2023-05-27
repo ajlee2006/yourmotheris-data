@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T06:00:53.281523+00:00", 11417, "Your mother is", "inexpert", "Pronunciation: /\u026an\u02c8\u025bksp\u025crt/", "Definition: lacking professional skill or expertise", "Synonyms: amateur, amateurish, unskilled"]}
+{"data": ["2023-05-27T07:01:32.148149+00:00", 11418, "Your mother is", "gasified", "Similar to: gaseous", "Definition: converted into a gas or vapor", "Synonyms: vaporized, vapourised, volatilised, volatilized"]}
