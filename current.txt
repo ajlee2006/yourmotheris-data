@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T22:00:59.705186+00:00", 11433, "Your mother is", "waterproof", "Pronunciation: /\u02c8w\u0254t\u0259r\u02ccpruf/", "Definition: not permitting the passage of water", "Synonyms: rainproof, waterproofed"]}
+{"data": ["2023-05-27T23:01:01.991058+00:00", 11434, "Your mother is", "reentrant", "Pronunciation: /ri\u02c8\u025bntr\u0259nt/", "Definition: (of angles) pointing inward", "Synonyms: re-entrant"]}
