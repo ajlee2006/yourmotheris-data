@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T13:01:30.661491+00:00", 11424, "Your mother is", "dished", "Pronunciation: /d\u026a\u0283t/", "Definition: shaped like a dish or pan", "Synonyms: dish-shaped, patelliform"]}
+{"data": ["2023-05-27T14:01:31.817224+00:00", 11425, "Your mother is", "upstair", "", "Definition: on or of upper floors of a building", "Synonyms: upstairs"]}
