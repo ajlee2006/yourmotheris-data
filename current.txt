@@ -1,1 +1,1 @@
-{"data": ["2023-05-27T18:01:13.646060+00:00", 11429, "Your mother is", "webbed", "Pronunciation: /w\u025bbd/", "Definition: having open interstices or resembling a web", "Synonyms: lacy, netlike, netted, webby, weblike"]}
+{"data": ["2023-05-27T19:01:28.143587+00:00", 11430, "Your mother is", "shared", "Pronunciation: /\u0283\u025brd/", "Definition: distributed in portions (often equal) on the basis of a plan or purpose", "Synonyms: divided, divided up, shared out"]}
