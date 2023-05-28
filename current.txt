@@ -1,1 +1,1 @@
-{"data": ["2023-05-28T18:01:13.667592+00:00", 11453, "Your mother is", "lowbrow", "Pronunciation: /\u02c8lo\u028a\u02ccbra\u028a/", "Definition: characteristic of a person who is not cultivated or does not have intellectual tastes", "Synonyms: lowbrowed, uncultivated"]}
+{"data": ["2023-05-28T19:01:06.607260+00:00", 11454, "Your mother is", "homemade", "Pronunciation: /\u02c8ho\u028am\u02c8me\u026ad/", "Definition: made or produced in the home or by yourself", ""]}
