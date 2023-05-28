@@ -1,1 +1,1 @@
-{"data": ["2023-05-28T09:01:21.191960+00:00", 11444, "Your mother is", "disgruntled", "Pronunciation: /d\u026as\u02c8gr\u0259nt\u0259ld/", "Definition: in a state of sulky dissatisfaction", "Synonyms: dissatisfied"]}
+{"data": ["2023-05-28T10:01:13.679918+00:00", 11445, "Your mother is", "monochromous", "Similar to: colored", "Definition: having or appearing to have only one color", "Synonyms: monochromatic, monochrome, monochromic"]}
