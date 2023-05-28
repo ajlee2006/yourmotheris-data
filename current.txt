@@ -1,1 +1,1 @@
-{"data": ["2023-05-28T08:01:33.218592+00:00", 11443, "Your mother is", "diminutive", "Pronunciation: /d\u026a\u02c8m\u026anj\u0259t\u026av/", "Definition: very small", "Synonyms: bantam, flyspeck, lilliputian, midget, petite, tiny"]}
+{"data": ["2023-05-28T09:01:21.191960+00:00", 11444, "Your mother is", "disgruntled", "Pronunciation: /d\u026as\u02c8gr\u0259nt\u0259ld/", "Definition: in a state of sulky dissatisfaction", "Synonyms: dissatisfied"]}
