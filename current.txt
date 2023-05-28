@@ -1,1 +1,1 @@
-{"data": ["2023-05-28T19:01:06.607260+00:00", 11454, "Your mother is", "homemade", "Pronunciation: /\u02c8ho\u028am\u02c8me\u026ad/", "Definition: made or produced in the home or by yourself", ""]}
+{"data": ["2023-05-28T20:01:19.818738+00:00", 11455, "Your mother is", "unaccompanied", "Pronunciation: /\u02cc\u0259n\u0259\u02c8k\u0259mp\u0259nid/", "Definition: being without an escort", ""]}
