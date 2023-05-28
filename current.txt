@@ -1,1 +1,1 @@
-{"data": ["2023-05-28T11:01:09.829615+00:00", 11446, "Your mother is", "brahminic", "Pronunciation: /br\u0251\u02c8m\u026an\u026ak/", "Definition: of or relating to or characteristic of a brahmin", "Synonyms: brahminical"]}
+{"data": ["2023-05-28T12:01:10.447626+00:00", 11447, "Your mother is", "hypoglycaemic", "", "Definition: of or relating to hypoglycemia", "Synonyms: hypoglycemic"]}
