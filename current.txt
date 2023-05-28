@@ -1,1 +1,1 @@
-{"data": ["2023-05-28T20:01:19.818738+00:00", 11455, "Your mother is", "unaccompanied", "Pronunciation: /\u02cc\u0259n\u0259\u02c8k\u0259mp\u0259nid/", "Definition: being without an escort", ""]}
+{"data": ["2023-05-28T21:01:01.959084+00:00", 11456, "Your mother is", "nine-fold", "Similar to: multiple", "Definition: having nine units or components", "Synonyms: ninefold, nonuple"]}
