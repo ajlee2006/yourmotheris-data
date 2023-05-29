@@ -1,1 +1,1 @@
-{"data": ["2023-05-29T06:00:58.505464+00:00", 11465, "Your mother is", "unreliable", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8la\u026a\u0259b\u0259l/", "Definition: not worthy of reliance or trust", "Synonyms: undependable"]}
+{"data": ["2023-05-29T07:01:36.890895+00:00", 11466, "Your mother is", "palatalised", "Similar to: soft", "Definition: produced with the front of the tongue near or touching the hard palate (as `y') or with the blade of the tongue near the hard palate (as `ch' in `chin' or `j' in `gin')", "Synonyms: palatal, palatalized"]}
