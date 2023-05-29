@@ -1,1 +1,1 @@
-{"data": ["2023-05-29T19:01:12.004201+00:00", 11478, "Your mother is", "accommodative", "Pronunciation: /\u0259\u02c8k\u0251m\u0259\u02ccde\u026at\u026av/", "Definition: helpful in bringing about a harmonious adaptation", "Synonyms: accommodating"]}
+{"data": ["2023-05-29T20:01:24.953875+00:00", 11479, "Your mother is", "mustached", "Pronunciation: /\u02c8m\u028c\u02ccst\u00e6\u0283t/", "Definition: having a moustache", "Synonyms: mustachioed"]}
