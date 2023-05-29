@@ -1,1 +1,1 @@
-{"data": ["2023-05-29T15:01:37.384355+00:00", 11474, "Your mother is", "zesty", "Similar to: spirited", "Definition: marked by spirited enjoyment", "Synonyms: barmy, yeasty, zestful"]}
+{"data": ["2023-05-29T16:01:02.887757+00:00", 11475, "Your mother is", "pyrogenic", "Pronunciation: /\u02ccpa\u026ar\u0259\u02c8d\u0292\u025bn\u026ak/", "Definition: produced under conditions involving intense heat", "Synonyms: igneous, pyrogenous"]}
