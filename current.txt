@@ -1,1 +1,1 @@
-{"data": ["2023-05-29T08:01:13.756852+00:00", 11467, "Your mother is", "worn-out", "Pronunciation: /wo\u028arn-a\u028at/", "Definition: drained of energy or effectiveness; extremely tired; completely exhausted", "Synonyms: dog-tired, exhausted, fagged, fatigued, gone, played out, spent, washed-out, worn out"]}
+{"data": ["2023-05-29T09:01:16.458871+00:00", 11468, "Your mother is", "dagger-like", "Similar to: sharp", "Definition: resembling a dagger", ""]}
