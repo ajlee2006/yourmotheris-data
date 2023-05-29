@@ -1,1 +1,1 @@
-{"data": ["2023-05-29T05:00:56.375838+00:00", 11464, "Your mother is", "causative", "Pronunciation: /\u02c8k\u0254z\u0259t\u026av/", "Definition: producing an effect", ""]}
+{"data": ["2023-05-29T06:00:58.505464+00:00", 11465, "Your mother is", "unreliable", "Pronunciation: /\u02cc\u0259nr\u026a\u02c8la\u026a\u0259b\u0259l/", "Definition: not worthy of reliance or trust", "Synonyms: undependable"]}
