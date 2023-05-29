@@ -1,1 +1,1 @@
-{"data": ["2023-05-29T04:01:14.500827+00:00", 11463, "Your mother is", "torturing", "Pronunciation: /\u02c8t\u0254rt\u0283\u025dr\u026a\u014b/", "Definition: extremely painful", "Synonyms: agonising, agonizing, excruciating, harrowing, torturesome, torturous"]}
+{"data": ["2023-05-29T05:00:56.375838+00:00", 11464, "Your mother is", "causative", "Pronunciation: /\u02c8k\u0254z\u0259t\u026av/", "Definition: producing an effect", ""]}
