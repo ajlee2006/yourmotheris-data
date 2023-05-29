@@ -1,1 +1,1 @@
-{"data": ["2023-05-29T20:01:24.953875+00:00", 11479, "Your mother is", "mustached", "Pronunciation: /\u02c8m\u028c\u02ccst\u00e6\u0283t/", "Definition: having a moustache", "Synonyms: mustachioed"]}
+{"data": ["2023-05-29T21:01:28.735914+00:00", 11480, "Your mother is", "per capita", "Pronunciation: /p\u0259r-\u02c8k\u00e6p\u026at\u0259/", "Definition: per person", ""]}
