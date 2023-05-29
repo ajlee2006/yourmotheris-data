@@ -1,1 +1,1 @@
-{"data": ["2023-05-29T10:00:58.262389+00:00", 11469, "Your mother is", "lettered", "Pronunciation: /\u02c8l\u025bt\u0259rd/", "Definition: highly educated; having extensive information or understanding", "Synonyms: knowing, knowledgeable, learned, well-educated, well-read"]}
+{"data": ["2023-05-29T11:01:24.876687+00:00", 11470, "Your mother is", "chisel-like", "Similar to: sharp", "Definition: resembling a chisel", ""]}
