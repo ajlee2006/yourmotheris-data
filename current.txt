@@ -1,1 +1,1 @@
-{"data": ["2023-05-29T13:01:36.019381+00:00", 11472, "Your mother is", "cutaneous", "Pronunciation: /kju\u02c8te\u026ani\u0259s/", "Definition: relating to or existing on or affecting the skin", "Synonyms: dermal, cutaneal"]}
+{"data": ["2023-05-29T14:00:59.144231+00:00", 11473, "Your mother is", "watercress", "Pronunciation: /\u02c8w\u0254t\u0259r\u02cckr\u025bs/", "Definition: of a moderate yellow-green color that is greener and deeper than moss green and yellower and darker than pea green", "Synonyms: cress green, cresson"]}
