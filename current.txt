@@ -1,1 +1,1 @@
-{"data": ["2023-05-29T21:01:28.735914+00:00", 11480, "Your mother is", "per capita", "Pronunciation: /p\u0259r-\u02c8k\u00e6p\u026at\u0259/", "Definition: per person", ""]}
+{"data": ["2023-05-29T22:01:03.826391+00:00", 11481, "Your mother is", "scheming", "Pronunciation: /\u02c8skim\u026a\u014b/", "Definition: acting with a specific goal", "Synonyms: calculating, calculative, conniving, shrewd"]}
