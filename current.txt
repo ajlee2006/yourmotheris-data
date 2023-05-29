@@ -1,1 +1,1 @@
-{"data": ["2023-05-28T23:01:12.907628+00:00", 11458, "Your mother is", "buck-toothed", "Similar to: toothed", "Definition: having protruding upper front teeth", ""]}
+{"data": ["2023-05-29T00:02:25.760127+00:00", 11459, "Your mother is", "gimpy", "Pronunciation: /\u02c8\u0261\u026ampi/", "Definition: disabled in the feet or legs", "Synonyms: crippled, game, halt, halting, lame"]}
