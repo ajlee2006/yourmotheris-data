@@ -1,1 +1,1 @@
-{"data": ["2023-05-29T11:01:24.876687+00:00", 11470, "Your mother is", "chisel-like", "Similar to: sharp", "Definition: resembling a chisel", ""]}
+{"data": ["2023-05-29T12:00:54.444960+00:00", 11471, "Your mother is", "telescoped", "Similar to: short", "Definition: shortened by or as if by means of parts that slide one within another or are crushed one into another", "Synonyms: shortened"]}
