@@ -1,1 +1,1 @@
-{"data": ["2023-05-30T11:01:20.724365+00:00", 11494, "Your mother is", "domesticated", "Pronunciation: /d\u028c\u02c8m\u025bst\u028c\u02ccke\u026at\u028cd/", "Definition: converted or adapted to domestic use", "Synonyms: domestic"]}
+{"data": ["2023-05-30T12:01:34.041299+00:00", 11495, "Your mother is", "ploughed", "Pronunciation: /pla\u028ad/", "Definition: (of farmland) broken and turned over with a plow", "Synonyms: plowed"]}
