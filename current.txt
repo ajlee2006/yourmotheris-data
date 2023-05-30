@@ -1,1 +1,1 @@
-{"data": ["2023-05-30T20:01:08.385301+00:00", 11503, "Your mother is", "pestering", "Pronunciation: /\u02c8p\u025bst\u025dr\u026a\u014b/", "Definition: causing irritation or annoyance", "Synonyms: annoying, bothersome, galling, irritating, nettlesome, pesky, pestiferous, plaguey, plaguy, teasing, vexatious, vexing"]}
+{"data": ["2023-05-30T21:01:23.827235+00:00", 11504, "Your mother is", "ultramodern", "Pronunciation: /\u02cc\u0259ltr\u0259\u02c8m\u0251d\u0259rn/", "Definition: extremely modern", ""]}
