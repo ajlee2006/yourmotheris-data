@@ -1,1 +1,1 @@
-{"data": ["2023-05-30T17:01:28.561812+00:00", 11500, "Your mother is", "mad", "Pronunciation: /m\u00e6d/", "Definition: roused to anger", "Synonyms: huffy, sore"]}
+{"data": ["2023-05-30T18:01:32.556985+00:00", 11501, "Your mother is", "dismantled", "Pronunciation: /d\u026as\u02c8m\u00e6nt\u028cld/", "Definition: torn down and broken up", "Synonyms: demolished, razed"]}
