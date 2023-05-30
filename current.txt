@@ -1,1 +1,1 @@
-{"data": ["2023-05-30T10:01:04.188006+00:00", 11493, "Your mother is", "adverse", "Pronunciation: /\u00e6d\u02c8v\u025crs/", "Definition: in an opposing direction", "Synonyms: contrary"]}
+{"data": ["2023-05-30T11:01:20.724365+00:00", 11494, "Your mother is", "domesticated", "Pronunciation: /d\u028c\u02c8m\u025bst\u028c\u02ccke\u026at\u028cd/", "Definition: converted or adapted to domestic use", "Synonyms: domestic"]}
