@@ -1,1 +1,1 @@
-{"data": ["2023-05-30T09:00:55.736557+00:00", 11492, "Your mother is", "bettering", "Pronunciation: /\u02c8b\u025bt\u025dr\u026a\u014b/", "Definition: changing for the better", ""]}
+{"data": ["2023-05-30T10:01:04.188006+00:00", 11493, "Your mother is", "adverse", "Pronunciation: /\u00e6d\u02c8v\u025crs/", "Definition: in an opposing direction", "Synonyms: contrary"]}
