@@ -1,1 +1,1 @@
-{"data": ["2023-05-30T07:01:27.691887+00:00", 11490, "Your mother is", "latticed", "Pronunciation: /\u02c8l\u00e6t\u026ast/", "Definition: having a pattern of fretwork or latticework", "Synonyms: fretted, interlaced, latticelike"]}
+{"data": ["2023-05-30T08:00:56.350749+00:00", 11491, "Your mother is", "xx", "Similar to: cardinal", "Definition: denoting a quantity consisting of 20 items or units", "Synonyms: 20, twenty"]}
