@@ -1,1 +1,1 @@
-{"data": ["2023-05-30T14:00:55.604737+00:00", 11497, "Your mother is", "violated", "Pronunciation: /\u02c8va\u026a\u028cle\u026at\u026ad/", "Definition: treated irreverently or sacrilegiously", "Synonyms: profaned"]}
+{"data": ["2023-05-30T15:01:13.159741+00:00", 11498, "Your mother is", "carthaginian", "Pronunciation: /\u02cck\u0251r\u03b8\u0259\u02c8d\u0292\u026ani\u0259n/", "Definition: of or relating to or characteristic of ancient Carthage or its people or their language", "Synonyms: punic"]}
