@@ -1,1 +1,1 @@
-{"data": ["2023-05-30T02:01:15.822944+00:00", 11485, "Your mother is", "apothegmatic", "Pronunciation: /\u02cc\u00e6p\u0259\u00f0\u025b\u0261\u02c8m\u00e6t\u026ak/", "Definition: given to or characterized by terse apothegms", "Synonyms: apothegmatical"]}
+{"data": ["2023-05-30T03:01:00.811213+00:00", 11486, "Your mother is", "heedful", "Pronunciation: /\u02c8hidf\u0259l/", "Definition: cautiously attentive", "Synonyms: careful"]}
