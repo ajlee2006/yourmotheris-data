@@ -1,1 +1,1 @@
-{"data": ["2023-05-30T19:01:08.438751+00:00", 11502, "Your mother is", "ajar", "Pronunciation: /\u0259\u02c8d\u0292\u0251r/", "Definition: slightly open", ""]}
+{"data": ["2023-05-30T20:01:08.385301+00:00", 11503, "Your mother is", "pestering", "Pronunciation: /\u02c8p\u025bst\u025dr\u026a\u014b/", "Definition: causing irritation or annoyance", "Synonyms: annoying, bothersome, galling, irritating, nettlesome, pesky, pestiferous, plaguey, plaguy, teasing, vexatious, vexing"]}
