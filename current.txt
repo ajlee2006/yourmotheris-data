@@ -1,1 +1,1 @@
-{"data": ["2023-05-30T03:01:00.811213+00:00", 11486, "Your mother is", "heedful", "Pronunciation: /\u02c8hidf\u0259l/", "Definition: cautiously attentive", "Synonyms: careful"]}
+{"data": ["2023-05-30T04:01:30.894631+00:00", 11487, "Your mother is", "apportioned", "Pronunciation: /\u028c\u02c8p\u0254r\u0283\u028cnd/", "Definition: given out in portions", "Synonyms: dealt out, doled out, meted out, parceled out"]}
