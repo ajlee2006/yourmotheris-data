@@ -1,1 +1,1 @@
-{"data": ["2023-05-30T15:01:13.159741+00:00", 11498, "Your mother is", "carthaginian", "Pronunciation: /\u02cck\u0251r\u03b8\u0259\u02c8d\u0292\u026ani\u0259n/", "Definition: of or relating to or characteristic of ancient Carthage or its people or their language", "Synonyms: punic"]}
+{"data": ["2023-05-30T16:01:14.193008+00:00", 11499, "Your mother is", "ill-conceived", "Similar to: foolish", "Definition: poorly conceived or thought out", "Synonyms: misguided"]}
