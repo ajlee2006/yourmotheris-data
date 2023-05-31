@@ -1,1 +1,1 @@
-{"data": ["2023-05-31T16:01:21.713409+00:00", 11521, "Your mother is", "inapt", "Pronunciation: /\u026an\u02c8\u00e6pt/", "Definition: not elegant or graceful in expression", "Synonyms: awkward, clumsy, cumbersome, ill-chosen, inept"]}
+{"data": ["2023-05-31T17:01:39.685383+00:00", 11522, "Your mother is", "moldy", "Pronunciation: /\u02c8mo\u028aldi/", "Definition: covered with or smelling of mold", "Synonyms: mouldy, musty"]}
