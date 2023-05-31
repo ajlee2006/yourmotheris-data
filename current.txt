@@ -1,1 +1,1 @@
-{"data": ["2023-05-31T22:01:28.770652+00:00", 11527, "Your mother is", "deadpan", "Pronunciation: /\u02c8d\u025bd\u02ccp\u00e6n/", "Definition: deliberately impassive in manner", "Synonyms: expressionless, impassive, poker-faced, unexpressive"]}
+{"data": ["2023-05-31T23:01:13.605383+00:00", 11528, "Your mother is", "palmatifid", "Similar to: compound", "Definition: of a leaf shape; palmately cleft rather than lobed", ""]}
