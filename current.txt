@@ -1,1 +1,1 @@
-{"data": ["2023-05-31T07:01:02.103913+00:00", 11512, "Your mother is", "troubling", "Pronunciation: /\u02c8tr\u028cb\u028cl\u026a\u014b/", "Definition: causing distress or worry or anxiety", "Synonyms: distressful, distressing, disturbing, perturbing, worrisome, worrying"]}
+{"data": ["2023-05-31T08:01:30.626662+00:00", 11513, "Your mother is", "comfortless", "Pronunciation: /\u02c8k\u0259mf\u0259tl\u025bs/", "Definition: without comfort", ""]}
