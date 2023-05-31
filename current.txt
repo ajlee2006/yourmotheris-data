@@ -1,1 +1,1 @@
-{"data": ["2023-05-31T11:01:33.426164+00:00", 11516, "Your mother is", "aslant", "Pronunciation: /\u0259\u02c8sl\u00e6nt/", "Definition: having an oblique or slanted direction", "Synonyms: aslope, diagonal, slanted, slanting, sloped, sloping"]}
+{"data": ["2023-05-31T12:01:20.279490+00:00", 11517, "Your mother is", "zymotic", "Pronunciation: /za\u026a\u02c8m\u0251t\u026ak/", "Definition: of or relating to or causing fermentation", "Synonyms: zymolytic"]}
