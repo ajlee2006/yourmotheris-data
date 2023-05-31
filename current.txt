@@ -1,1 +1,1 @@
-{"data": ["2023-05-31T06:01:12.374038+00:00", 11511, "Your mother is", "avestan", "Pronunciation: /\u0259\u02c8v\u025bst\u0259/", "Definition: of or pertaining to the Avesta (sacred text of Zoroastrianism)", ""]}
+{"data": ["2023-05-31T07:01:02.103913+00:00", 11512, "Your mother is", "troubling", "Pronunciation: /\u02c8tr\u028cb\u028cl\u026a\u014b/", "Definition: causing distress or worry or anxiety", "Synonyms: distressful, distressing, disturbing, perturbing, worrisome, worrying"]}
