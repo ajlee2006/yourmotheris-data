@@ -1,1 +1,1 @@
-{"data": ["2023-05-31T08:01:30.626662+00:00", 11513, "Your mother is", "comfortless", "Pronunciation: /\u02c8k\u0259mf\u0259tl\u025bs/", "Definition: without comfort", ""]}
+{"data": ["2023-05-31T09:01:28.128864+00:00", 11514, "Your mother is", "unavailable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8ve\u026al\u0259b\u0259l/", "Definition: not available or accessible or at hand", ""]}
