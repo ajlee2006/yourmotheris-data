@@ -1,1 +1,1 @@
-{"data": ["2023-05-31T00:02:21.991670+00:00", 11507, "Your mother is", "chic", "Pronunciation: /\u0283ik/", "Definition: elegant and stylish", "Synonyms: smart, voguish"]}
+{"data": ["2023-05-31T01:01:22.750592+00:00", 11508, "Your mother is", "gaelic", "Pronunciation: /\u02c8\u0261e\u026al\u026ak/", "Definition: relating to or characteristic of the Celts", "Synonyms: celtic"]}
