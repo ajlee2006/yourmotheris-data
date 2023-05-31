@@ -1,1 +1,1 @@
-{"data": ["2023-05-31T21:00:52.202901+00:00", 11526, "Your mother is", "disturbed", "Pronunciation: /d\u026a\u02c8st\u025crbd/", "Definition: afflicted with or marked by anxious uneasiness or trouble or grief", "Synonyms: disquieted, distressed, upset, worried"]}
+{"data": ["2023-05-31T22:01:28.770652+00:00", 11527, "Your mother is", "deadpan", "Pronunciation: /\u02c8d\u025bd\u02ccp\u00e6n/", "Definition: deliberately impassive in manner", "Synonyms: expressionless, impassive, poker-faced, unexpressive"]}
