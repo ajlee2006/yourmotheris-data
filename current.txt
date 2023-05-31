@@ -1,1 +1,1 @@
-{"data": ["2023-05-31T17:01:39.685383+00:00", 11522, "Your mother is", "moldy", "Pronunciation: /\u02c8mo\u028aldi/", "Definition: covered with or smelling of mold", "Synonyms: mouldy, musty"]}
+{"data": ["2023-05-31T18:01:37.536594+00:00", 11523, "Your mother is", "pyrotechnic", "Pronunciation: /\u02ccpa\u026ar\u0259\u02c8t\u025bkn\u026ak/", "Definition: of or relating to the craft of making fireworks", "Synonyms: pyrotechnical"]}
