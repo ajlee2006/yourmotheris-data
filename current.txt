@@ -1,1 +1,1 @@
-{"data": ["2023-06-01T03:01:20.491975+00:00", 11532, "Your mother is", "verbose", "Pronunciation: /v\u0259r\u02c8bo\u028as/", "Definition: using or containing too many words", "Synonyms: long-winded, tedious, windy, wordy"]}
+{"data": ["2023-06-01T04:01:07.991522+00:00", 11533, "Your mother is", "table d'hote", "", "Definition: (of a restaurant meal) complete but with limited choices and at a fixed price", "Synonyms: prix fixe"]}
