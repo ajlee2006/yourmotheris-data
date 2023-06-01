@@ -1,1 +1,1 @@
-{"data": ["2023-06-01T08:01:33.670753+00:00", 11537, "Your mother is", "obstetric", "Pronunciation: /\u0259b\u02c8st\u025btr\u026ak/", "Definition: of or relating to or used in or practicing obstetrics", "Synonyms: obstetrical"]}
+{"data": ["2023-06-01T09:00:55.539408+00:00", 11538, "Your mother is", "eighty-two", "Pronunciation: /\u02c8e\u026ati-tu/", "Definition: being two more than eighty", "Synonyms: 82, lxxxii"]}
