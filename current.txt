@@ -1,1 +1,1 @@
-{"data": ["2023-06-01T06:01:05.786381+00:00", 11535, "Your mother is", "lowest", "Pronunciation: /\u02c8lo\u028a\u028cst/", "Definition: lowest in rank or importance", "Synonyms: last, last-place"]}
+{"data": ["2023-06-01T07:01:34.187784+00:00", 11536, "Your mother is", "smooth-tongued", "Similar to: persuasive", "Definition: artfully persuasive in speech", "Synonyms: glib, glib-tongued"]}
