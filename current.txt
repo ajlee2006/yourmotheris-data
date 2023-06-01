@@ -1,1 +1,1 @@
-{"data": ["2023-06-01T02:01:38.290898+00:00", 11531, "Your mother is", "transonic", "Pronunciation: /tr\u00e6n\u02c8s\u0251n\u026ak/", "Definition: (of speed) having or caused by speed approximately equal to that of sound in air at sea level", "Synonyms: sonic"]}
+{"data": ["2023-06-01T03:01:20.491975+00:00", 11532, "Your mother is", "verbose", "Pronunciation: /v\u0259r\u02c8bo\u028as/", "Definition: using or containing too many words", "Synonyms: long-winded, tedious, windy, wordy"]}
