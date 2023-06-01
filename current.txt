@@ -1,1 +1,1 @@
-{"data": ["2023-06-01T14:01:07.201948+00:00", 11543, "Your mother is", "stenotic", "Similar to: constricted", "Definition: abnormally constricted body canal or passage", "Synonyms: stenosed"]}
+{"data": ["2023-06-01T15:01:15.641680+00:00", 11544, "Your mother is", "toasted", "Pronunciation: /\u02c8to\u028ast\u026ad/", "Definition: browned over by exposure to heat", ""]}
