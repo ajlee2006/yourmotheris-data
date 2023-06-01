@@ -1,1 +1,1 @@
-{"data": ["2023-06-01T12:01:29.419513+00:00", 11541, "Your mother is", "regulatory", "Pronunciation: /\u02c8r\u025b\u0261j\u0259l\u0259\u02ccto\u028ari/", "Definition: restricting according to rules or principles", "Synonyms: regulative"]}
+{"data": ["2023-06-01T13:01:31.276264+00:00", 11542, "Your mother is", "50", "Similar to: cardinal", "Definition: being ten more than forty", "Synonyms: fifty, l"]}
