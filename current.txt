@@ -1,1 +1,1 @@
-{"data": ["2023-05-31T23:01:13.605383+00:00", 11528, "Your mother is", "palmatifid", "Similar to: compound", "Definition: of a leaf shape; palmately cleft rather than lobed", ""]}
+{"data": ["2023-06-01T00:02:19.775747+00:00", 11529, "Your mother is", "agonizing", "Pronunciation: /\u02c8\u00e6\u0261\u0259\u02ccna\u026az\u026a\u014b/", "Definition: extremely painful", "Synonyms: agonising, excruciating, harrowing, torturesome, torturing, torturous"]}
