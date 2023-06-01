@@ -1,1 +1,1 @@
-{"data": ["2023-06-01T11:00:56.011049+00:00", 11540, "Your mother is", "recreational", "Pronunciation: /\u02ccr\u025bkri\u02c8e\u026a\u0283\u028cn\u028cl/", "Definition: engaged in as a pastime", "Synonyms: amateur, unpaid"]}
+{"data": ["2023-06-01T12:01:29.419513+00:00", 11541, "Your mother is", "regulatory", "Pronunciation: /\u02c8r\u025b\u0261j\u0259l\u0259\u02ccto\u028ari/", "Definition: restricting according to rules or principles", "Synonyms: regulative"]}
