@@ -1,1 +1,1 @@
-{"data": ["2023-06-01T10:01:18.641824+00:00", 11539, "Your mother is", "laborsaving", "Pronunciation: /\u02c8le\u026ab\u0259r\u02ccse\u026av\u026a\u014b/", "Definition: designed to replace or conserve human and especially manual labor", "Synonyms: laboursaving"]}
+{"data": ["2023-06-01T11:00:56.011049+00:00", 11540, "Your mother is", "recreational", "Pronunciation: /\u02ccr\u025bkri\u02c8e\u026a\u0283\u028cn\u028cl/", "Definition: engaged in as a pastime", "Synonyms: amateur, unpaid"]}
