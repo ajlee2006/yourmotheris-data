@@ -1,1 +1,1 @@
-{"data": ["2023-06-01T01:01:38.503365+00:00", 11530, "Your mother is", "copious", "Pronunciation: /\u02c8ko\u028api\u0259s/", "Definition: affording an abundant supply", "Synonyms: ample, plenteous, plentiful, rich"]}
+{"data": ["2023-06-01T02:01:38.290898+00:00", 11531, "Your mother is", "transonic", "Pronunciation: /tr\u00e6n\u02c8s\u0251n\u026ak/", "Definition: (of speed) having or caused by speed approximately equal to that of sound in air at sea level", "Synonyms: sonic"]}
