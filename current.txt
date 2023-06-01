@@ -1,1 +1,1 @@
-{"data": ["2023-06-01T09:00:55.539408+00:00", 11538, "Your mother is", "eighty-two", "Pronunciation: /\u02c8e\u026ati-tu/", "Definition: being two more than eighty", "Synonyms: 82, lxxxii"]}
+{"data": ["2023-06-01T10:01:18.641824+00:00", 11539, "Your mother is", "laborsaving", "Pronunciation: /\u02c8le\u026ab\u0259r\u02ccse\u026av\u026a\u014b/", "Definition: designed to replace or conserve human and especially manual labor", "Synonyms: laboursaving"]}
