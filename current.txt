@@ -1,1 +1,1 @@
-{"data": ["2023-06-02T21:01:23.393188+00:00", 11574, "Your mother is", "lavender", "Pronunciation: /\u02c8l\u00e6v\u0259nd\u0259r/", "Definition: of a pale purple color", "Synonyms: lilac, lilac-colored"]}
+{"data": ["2023-06-02T22:01:35.524331+00:00", 11575, "Your mother is", "glowering", "Pronunciation: /\u02c8\u0261la\u028a\u025dr\u026a\u014b/", "Definition: showing a brooding ill humor", "Synonyms: dark, dour, glum, moody, morose, saturnine, sour, sullen"]}
