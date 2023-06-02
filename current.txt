@@ -1,1 +1,1 @@
-{"data": ["2023-06-02T19:01:12.171985+00:00", 11572, "Your mother is", "confluent", "Pronunciation: /\u02c8k\u0251nflu\u0259nt/", "Definition: flowing together", "Synonyms: merging"]}
+{"data": ["2023-06-02T20:01:17.790982+00:00", 11573, "Your mother is", "frowzy", "Pronunciation: /\u02c8fra\u028azi/", "Definition: negligent of neatness especially in dress and person; habitually dirty and unkempt", "Synonyms: frowsy, slovenly"]}
