@@ -1,1 +1,1 @@
-{"data": ["2023-06-02T22:01:35.524331+00:00", 11575, "Your mother is", "glowering", "Pronunciation: /\u02c8\u0261la\u028a\u025dr\u026a\u014b/", "Definition: showing a brooding ill humor", "Synonyms: dark, dour, glum, moody, morose, saturnine, sour, sullen"]}
+{"data": ["2023-06-02T23:01:10.996626+00:00", 11576, "Your mother is", "cross-shaped", "Pronunciation: /kr\u0254s-\u0283e\u026apt/", "Definition: shaped in the form of a cross", ""]}
