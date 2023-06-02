@@ -1,1 +1,1 @@
-{"data": ["2023-06-02T12:00:58.909225+00:00", 11565, "Your mother is", "aforementioned", "Pronunciation: /\u0259\u02c8fo\u028ar\u02ccm\u025bn\u0283\u0259nd/", "Definition: being the one previously mentioned or spoken of", "Synonyms: aforesaid, said"]}
+{"data": ["2023-06-02T13:01:18.409419+00:00", 11566, "Your mother is", "unharmed", "Pronunciation: /\u0259n\u02c8h\u0251rmd/", "Definition: not injured or harmed", "Synonyms: unhurt, unscathed, whole"]}
