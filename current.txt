@@ -1,1 +1,1 @@
-{"data": ["2023-06-02T08:01:06.787967+00:00", 11561, "Your mother is", "brick-shaped", "Similar to: cubic", "Definition: shaped like a brick", ""]}
+{"data": ["2023-06-02T09:01:14.727236+00:00", 11562, "Your mother is", "slick", "Pronunciation: /sl\u026ak/", "Definition: having only superficial plausibility", "Synonyms: glib, pat"]}
