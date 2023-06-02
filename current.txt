@@ -1,1 +1,1 @@
-{"data": ["2023-06-02T03:01:25.752563+00:00", 11556, "Your mother is", "abyssal", "Pronunciation: /\u0259\u02c8b\u026as\u0259l/", "Definition: resembling an abyss in depth; so deep as to be unmeasurable", "Synonyms: abysmal, unfathomable"]}
+{"data": ["2023-06-02T04:01:39.766560+00:00", 11557, "Your mother is", "lordotic", "Pronunciation: /l\u0254r\u02c8d\u0251t\u026ak/", "Definition: having abnormal sagging of the spine (especially in horses)", "Synonyms: dipped, swayback, swaybacked"]}
