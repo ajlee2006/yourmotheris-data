@@ -1,1 +1,1 @@
-{"data": ["2023-06-02T02:01:03.993473+00:00", 11555, "Your mother is", "uncluttered", "Pronunciation: /\u0259n\u02c8kl\u0259t\u0259d/", "Definition: having nothing extraneous", "Synonyms: unlittered"]}
+{"data": ["2023-06-02T03:01:25.752563+00:00", 11556, "Your mother is", "abyssal", "Pronunciation: /\u0259\u02c8b\u026as\u0259l/", "Definition: resembling an abyss in depth; so deep as to be unmeasurable", "Synonyms: abysmal, unfathomable"]}
