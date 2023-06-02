@@ -1,1 +1,1 @@
-{"data": ["2023-06-02T04:01:39.766560+00:00", 11557, "Your mother is", "lordotic", "Pronunciation: /l\u0254r\u02c8d\u0251t\u026ak/", "Definition: having abnormal sagging of the spine (especially in horses)", "Synonyms: dipped, swayback, swaybacked"]}
+{"data": ["2023-06-02T05:01:24.529905+00:00", 11558, "Your mother is", "fettered", "Pronunciation: /\u02c8f\u025bt\u025drd/", "Definition: bound by chains fastened around the ankles", "Synonyms: shackled"]}
