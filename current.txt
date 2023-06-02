@@ -1,1 +1,1 @@
-{"data": ["2023-06-02T00:02:06.590312+00:00", 11553, "Your mother is", "unmarried", "Pronunciation: /\u0259n\u02c8m\u00e6rid/", "Definition: not married or related to the unmarried state", "Synonyms: single"]}
+{"data": ["2023-06-02T01:01:44.713166+00:00", 11554, "Your mother is", "highly sensitive", "Similar to: sensitive", "Definition: readily affected by various agents", ""]}
