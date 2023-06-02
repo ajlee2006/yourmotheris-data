@@ -1,1 +1,1 @@
-{"data": ["2023-06-02T11:01:24.853445+00:00", 11564, "Your mother is", "unclear", "Pronunciation: /\u0259n\u02c8kli\u0259r/", "Definition: not easily deciphered", "Synonyms: indecipherable, undecipherable, unreadable"]}
+{"data": ["2023-06-02T12:00:58.909225+00:00", 11565, "Your mother is", "aforementioned", "Pronunciation: /\u0259\u02c8fo\u028ar\u02ccm\u025bn\u0283\u0259nd/", "Definition: being the one previously mentioned or spoken of", "Synonyms: aforesaid, said"]}
