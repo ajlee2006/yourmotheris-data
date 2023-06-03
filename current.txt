@@ -1,1 +1,1 @@
-{"data": ["2023-06-03T06:01:03.906030+00:00", 11583, "Your mother is", "chthonian", "Pronunciation: /\u02c8\u03b8o\u028ani\u0259n/", "Definition: dwelling beneath the surface of the earth", "Synonyms: chthonic, nether"]}
+{"data": ["2023-06-03T07:01:20.827127+00:00", 11584, "Your mother is", "promulgated", "Pronunciation: /\u02c8pr\u0251m\u028cl\u02cc\u0261e\u026at\u028cd/", "Definition: formally made public", "Synonyms: published"]}
