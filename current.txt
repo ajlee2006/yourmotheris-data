@@ -1,1 +1,1 @@
-{"data": ["2023-06-03T03:01:33.994173+00:00", 11580, "Your mother is", "distasteful", "Pronunciation: /d\u026as\u02c8te\u026astf\u0259l/", "Definition: not pleasing in odor or taste", "Synonyms: unsavory, unsavoury"]}
+{"data": ["2023-06-03T04:01:32.547906+00:00", 11581, "Your mother is", "impious", "Pronunciation: /\u02c8\u026ampi\u0259s/", "Definition: lacking due respect or dutifulness", "Synonyms: undutiful"]}
