@@ -1,1 +1,1 @@
-{"data": ["2023-06-03T15:01:35.935859+00:00", 11592, "Your mother is", "ischaemic", "Pronunciation: /\u026a\u02c8skim\u026ak/", "Definition: relating to or affected by ischemia", "Synonyms: ischemic"]}
+{"data": ["2023-06-03T16:01:27.874774+00:00", 11593, "Your mother is", "born", "Pronunciation: /b\u0254rn/", "Definition: being talented through inherited qualities", "Synonyms: innate, natural"]}
