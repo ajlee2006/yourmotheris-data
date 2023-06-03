@@ -1,1 +1,1 @@
-{"data": ["2023-06-03T05:01:21.738107+00:00", 11582, "Your mother is", "noduled", "Similar to: unshapely", "Definition: having nodules or occurring in the form of nodules", "Synonyms: nodular, nodulated"]}
+{"data": ["2023-06-03T06:01:03.906030+00:00", 11583, "Your mother is", "chthonian", "Pronunciation: /\u02c8\u03b8o\u028ani\u0259n/", "Definition: dwelling beneath the surface of the earth", "Synonyms: chthonic, nether"]}
