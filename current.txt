@@ -1,1 +1,1 @@
-{"data": ["2023-06-03T21:00:59.285296+00:00", 11598, "Your mother is", "made-up", "Pronunciation: /\u02c8me\u026ad\u02c8\u0259p/", "Definition: having been paved", ""]}
+{"data": ["2023-06-03T22:01:18.842022+00:00", 11599, "Your mother is", "brachiopodous", "Pronunciation: /\u02ccbr\u00e6ki\u02c8\u0251p\u0259d\u0259s/", "Definition: of or belonging to the phylum Brachiopoda", "Synonyms: brachiopod"]}
