@@ -1,1 +1,1 @@
-{"data": ["2023-06-03T04:01:32.547906+00:00", 11581, "Your mother is", "impious", "Pronunciation: /\u02c8\u026ampi\u0259s/", "Definition: lacking due respect or dutifulness", "Synonyms: undutiful"]}
+{"data": ["2023-06-03T05:01:21.738107+00:00", 11582, "Your mother is", "noduled", "Similar to: unshapely", "Definition: having nodules or occurring in the form of nodules", "Synonyms: nodular, nodulated"]}
