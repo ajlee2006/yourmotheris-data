@@ -1,1 +1,1 @@
-{"data": ["2023-06-03T10:01:28.061932+00:00", 11587, "Your mother is", "pear-shaped", "Pronunciation: /p\u025cr-\u0283e\u026apt/", "Definition: (of sounds) full and rich", "Synonyms: orotund, rotund, round"]}
+{"data": ["2023-06-03T11:01:35.063396+00:00", 11588, "Your mother is", "frugal", "Pronunciation: /\u02c8fru\u0261\u0259l/", "Definition: avoiding waste", "Synonyms: economical, scotch, sparing, stinting"]}
