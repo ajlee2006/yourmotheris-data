@@ -1,1 +1,1 @@
-{"data": ["2023-06-03T02:01:23.358622+00:00", 11579, "Your mother is", "pawky", "Pronunciation: /\u02c8p\u0251ki/", "Definition: cunning and sly", ""]}
+{"data": ["2023-06-03T03:01:33.994173+00:00", 11580, "Your mother is", "distasteful", "Pronunciation: /d\u026as\u02c8te\u026astf\u0259l/", "Definition: not pleasing in odor or taste", "Synonyms: unsavory, unsavoury"]}
