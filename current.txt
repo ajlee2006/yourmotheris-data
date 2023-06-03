@@ -1,1 +1,1 @@
-{"data": ["2023-06-03T19:01:25.678905+00:00", 11596, "Your mother is", "skirting", "Pronunciation: /\u02c8sk\u025crti\u014b/", "Definition: being all around the edges; enclosing", "Synonyms: encircling"]}
+{"data": ["2023-06-03T20:01:33.105493+00:00", 11597, "Your mother is", "cycloidal", "Similar to: rounded", "Definition: resembling a circle", "Synonyms: cycloid"]}
