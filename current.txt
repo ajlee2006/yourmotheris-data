@@ -1,1 +1,1 @@
-{"data": ["2023-06-03T22:01:18.842022+00:00", 11599, "Your mother is", "brachiopodous", "Pronunciation: /\u02ccbr\u00e6ki\u02c8\u0251p\u0259d\u0259s/", "Definition: of or belonging to the phylum Brachiopoda", "Synonyms: brachiopod"]}
+{"data": ["2023-06-03T23:01:03.020123+00:00", 11600, "Your mother is", "on-the-spot", "Similar to: on-site", "Definition: at the scene of action", "Synonyms: on-the-scene"]}
