@@ -1,1 +1,1 @@
-{"data": ["2023-06-03T00:01:51.136113+00:00", 11577, "Your mother is", "autonomous", "Pronunciation: /\u0254\u02c8t\u0251n\u0259m\u0259s/", "Definition: (of political bodies) not controlled by outside forces", "Synonyms: independent, self-governing, sovereign"]}
+{"data": ["2023-06-03T01:01:16.138063+00:00", 11578, "Your mother is", "liquid-fueled", "Similar to: fueled", "Definition: fueled by a liquid fuel", ""]}
