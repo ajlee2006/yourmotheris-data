@@ -1,1 +1,1 @@
-{"data": ["2023-06-02T23:01:10.996626+00:00", 11576, "Your mother is", "cross-shaped", "Pronunciation: /kr\u0254s-\u0283e\u026apt/", "Definition: shaped in the form of a cross", ""]}
+{"data": ["2023-06-03T00:01:51.136113+00:00", 11577, "Your mother is", "autonomous", "Pronunciation: /\u0254\u02c8t\u0251n\u0259m\u0259s/", "Definition: (of political bodies) not controlled by outside forces", "Synonyms: independent, self-governing, sovereign"]}
