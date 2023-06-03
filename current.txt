@@ -1,1 +1,1 @@
-{"data": ["2023-06-03T12:01:16.386439+00:00", 11589, "Your mother is", "anosmatic", "Pronunciation: /\u02cc\u00e6n\u0259z\u02c8m\u00e6t\u026ak/", "Definition: relating to an impairment or loss of the sense of smell", "Synonyms: anosmic"]}
+{"data": ["2023-06-03T13:01:34.593673+00:00", 11590, "Your mother is", "close set", "Similar to: close", "Definition: set close together", "Synonyms: close-set"]}
