@@ -1,1 +1,1 @@
-{"data": ["2023-06-03T14:01:21.537935+00:00", 11591, "Your mother is", "nonfatal", "Pronunciation: /\u02c8n\u0251n\u02c8fe\u026at\u028cl/", "Definition: not bringing death", ""]}
+{"data": ["2023-06-03T15:01:35.935859+00:00", 11592, "Your mother is", "ischaemic", "Pronunciation: /\u026a\u02c8skim\u026ak/", "Definition: relating to or affected by ischemia", "Synonyms: ischemic"]}
