@@ -1,1 +1,1 @@
-{"data": ["2023-06-03T16:01:27.874774+00:00", 11593, "Your mother is", "born", "Pronunciation: /b\u0254rn/", "Definition: being talented through inherited qualities", "Synonyms: innate, natural"]}
+{"data": ["2023-06-03T17:01:08.834937+00:00", 11594, "Your mother is", "fast-breaking", "Pronunciation: /\u02c8f\u00e6st\u02c8bre\u026ak\u026a\u014b/", "Definition: occurring rapidly as a series of events in rapid succession", ""]}
