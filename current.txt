@@ -1,1 +1,1 @@
-{"data": ["2023-06-04T21:01:10.006451+00:00", 11622, "Your mother is", "moonlit", "Pronunciation: /\u02c8mun\u02ccl\u026at/", "Definition: lighted by moonlight", "Synonyms: moony"]}
+{"data": ["2023-06-04T22:01:15.129064+00:00", 11623, "Your mother is", "aflutter", "Pronunciation: /\u0259\u02c8fl\u0259t\u0259r/", "Definition: excited in anticipation", "Synonyms: nervous"]}
