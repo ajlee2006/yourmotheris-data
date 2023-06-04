@@ -1,1 +1,1 @@
-{"data": ["2023-06-04T08:01:20.853657+00:00", 11609, "Your mother is", "deflationary", "Pronunciation: /d\u026a\u02c8fle\u026a\u0283\u0259\u02ccn\u025bri/", "Definition: associated with or tending to cause decreases in consumer prices or increases in the purchasing power of money", ""]}
+{"data": ["2023-06-04T09:01:12.467814+00:00", 11610, "Your mother is", "gummed", "Pronunciation: /\u0261\u0259md/", "Definition: covered with adhesive gum", "Synonyms: gummy"]}
