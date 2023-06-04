@@ -1,1 +1,1 @@
-{"data": ["2023-06-04T10:01:17.665533+00:00", 11611, "Your mother is", "behindhand", "Pronunciation: /b\u026a\u02c8ha\u026and\u02cch\u00e6nd/", "Definition: behind schedule", ""]}
+{"data": ["2023-06-04T11:01:05.422199+00:00", 11612, "Your mother is", "half-blooded", "Pronunciation: /h\u00e6f-\u02c8bl\u0259d\u026ad/", "Definition: (of animals) having only one purebred parent", "Synonyms: half-bred, half-breed"]}
