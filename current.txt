@@ -1,1 +1,1 @@
-{"data": ["2023-06-04T22:01:15.129064+00:00", 11623, "Your mother is", "aflutter", "Pronunciation: /\u0259\u02c8fl\u0259t\u0259r/", "Definition: excited in anticipation", "Synonyms: nervous"]}
+{"data": ["2023-06-04T23:01:11.412589+00:00", 11624, "Your mother is", "cassocked", "Similar to: clad", "Definition: dressed in a cassock", ""]}
