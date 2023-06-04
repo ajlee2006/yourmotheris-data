@@ -1,1 +1,1 @@
-{"data": ["2023-06-04T05:01:31.675127+00:00", 11606, "Your mother is", "exogenous", "Pronunciation: /\u025bk\u02c8s\u0251d\u0292\u0259n\u0259s/", "Definition: derived or originating externally", "Synonyms: exogenic"]}
+{"data": ["2023-06-04T06:01:26.105150+00:00", 11607, "Your mother is", "pathetic", "Pronunciation: /p\u0259\u02c8\u03b8\u025bt\u026ak/", "Definition: inspiring scornful pity", "Synonyms: ridiculous, silly"]}
