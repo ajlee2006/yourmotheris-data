@@ -1,1 +1,1 @@
-{"data": ["2023-06-04T20:01:15.181960+00:00", 11621, "Your mother is", "stitched", "Pronunciation: /st\u026at\u0283t/", "Definition: fastened with stitches", "Synonyms: sewed, sewn"]}
+{"data": ["2023-06-04T21:01:10.006451+00:00", 11622, "Your mother is", "moonlit", "Pronunciation: /\u02c8mun\u02ccl\u026at/", "Definition: lighted by moonlight", "Synonyms: moony"]}
