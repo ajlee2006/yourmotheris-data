@@ -1,1 +1,1 @@
-{"data": ["2023-06-04T03:01:25.123059+00:00", 11604, "Your mother is", "measureless", "Pronunciation: /\u02c8m\u025b\u0292\u0259l\u0259s/", "Definition: without limits in extent or size or quantity", "Synonyms: illimitable, limitless, unmeasured"]}
+{"data": ["2023-06-04T04:01:09.068591+00:00", 11605, "Your mother is", "empyrean", "Pronunciation: /\u02cc\u025bmp\u0259\u02c8ri\u0259n/", "Definition: inspiring awe", "Synonyms: empyreal, sublime"]}
