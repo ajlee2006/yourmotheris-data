@@ -1,1 +1,1 @@
-{"data": ["2023-06-04T01:01:15.145241+00:00", 11602, "Your mother is", "topnotch", "Pronunciation: /\u02c8t\u0251p\u02c8n\u0251\u02a7/", "Definition: of the highest quality", "Synonyms: a-one, ace, crack, first-rate, super, tiptop, top-notch, tops"]}
+{"data": ["2023-06-04T02:01:31.815051+00:00", 11603, "Your mother is", "kempt", "Similar to: groomed", "Definition: (of hair) neat and tidy", "Synonyms: tidy"]}
