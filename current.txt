@@ -1,1 +1,1 @@
-{"data": ["2023-06-04T15:01:08.844878+00:00", 11616, "Your mother is", "monarchal", "Pronunciation: /m\u0259\u02c8n\u0251rk\u0259l/", "Definition: having the characteristics of or befitting or worthy of a monarch", "Synonyms: monarchical"]}
+{"data": ["2023-06-04T16:01:37.805040+00:00", 11617, "Your mother is", "measurable", "Pronunciation: /\u02c8m\u025b\u0292\u0259r\u0259b\u0259l/", "Definition: capable of being measured", "Synonyms: mensurable"]}
