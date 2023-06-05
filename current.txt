@@ -1,1 +1,1 @@
-{"data": ["2023-06-05T01:01:07.280516+00:00", 11626, "Your mother is", "unbodied", "Pronunciation: /\u0259n\u02c8b\u0251did/", "Definition: not having a material body", "Synonyms: bodiless, discorporate, disembodied, unembodied"]}
+{"data": ["2023-06-05T02:01:04.542072+00:00", 11627, "Your mother is", "inherent", "Pronunciation: /\u026an\u02c8hir\u0259nt/", "Definition: existing as an essential constituent or characteristic", "Synonyms: built-in, constitutional, inbuilt, integral"]}
