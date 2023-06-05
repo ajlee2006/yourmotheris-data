@@ -1,1 +1,1 @@
-{"data": ["2023-06-05T20:01:42.320674+00:00", 11645, "Your mother is", "raiseable", "Similar to: mobile", "Definition: capable of being raised", "Synonyms: raisable"]}
+{"data": ["2023-06-05T21:00:57.131775+00:00", 11646, "Your mother is", "itsy-bitsy", "Pronunciation: /\u02c8\u026atsi\u02c8b\u026atsi/", "Definition: (used informally) very small", "Synonyms: bittie, bitty, itty-bitty, teensy, teensy-weensy, teentsy, teeny, teeny-weeny, wee, weensy, weeny"]}
