@@ -1,1 +1,1 @@
-{"data": ["2023-06-05T03:01:05.147397+00:00", 11628, "Your mother is", "overeager", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8i\u0261\u0259r/", "Definition: excessively eager", ""]}
+{"data": ["2023-06-05T04:01:07.153364+00:00", 11629, "Your mother is", "turbid", "Pronunciation: /\u02c8t\u025crb\u026ad/", "Definition: (of liquids) clouded as with sediment", "Synonyms: cloudy, mirky, muddy, murky"]}
