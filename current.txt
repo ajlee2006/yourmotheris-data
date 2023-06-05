@@ -1,1 +1,1 @@
-{"data": ["2023-06-05T17:01:37.642586+00:00", 11642, "Your mother is", "stormproof", "Similar to: protected", "Definition: protected against or able to withstand storms", ""]}
+{"data": ["2023-06-05T18:01:18.492091+00:00", 11643, "Your mother is", "heterotrophic", "Pronunciation: /\u02cch\u025bt\u0259r\u0259\u02c8tr\u0251f\u026ak/", "Definition: requiring organic compounds of carbon and nitrogen for nourishment", ""]}
