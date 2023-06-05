@@ -1,1 +1,1 @@
-{"data": ["2023-06-05T18:01:18.492091+00:00", 11643, "Your mother is", "heterotrophic", "Pronunciation: /\u02cch\u025bt\u0259r\u0259\u02c8tr\u0251f\u026ak/", "Definition: requiring organic compounds of carbon and nitrogen for nourishment", ""]}
+{"data": ["2023-06-05T19:00:59.302128+00:00", 11644, "Your mother is", "orbitual", "Similar to: cyclic", "Definition: describing a circle; moving in a circle", "Synonyms: circular, rotary"]}
