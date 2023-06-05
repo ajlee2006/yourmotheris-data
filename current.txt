@@ -1,1 +1,1 @@
-{"data": ["2023-06-05T08:00:54.369725+00:00", 11633, "Your mother is", "neuter", "Pronunciation: /\u02c8nut\u0259r/", "Definition: having no or imperfectly developed or nonfunctional sex organs", "Synonyms: sexless"]}
+{"data": ["2023-06-05T09:01:25.315761+00:00", 11634, "Your mother is", "raffish", "Pronunciation: /\u02c8r\u00e6f\u026a\u0283/", "Definition: marked by up-to-dateness in dress and manners", "Synonyms: dapper, dashing, jaunty, natty, rakish, snappy, spiffy, spruce"]}
