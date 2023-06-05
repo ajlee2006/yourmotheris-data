@@ -1,1 +1,1 @@
-{"data": ["2023-06-05T05:01:28.813320+00:00", 11630, "Your mother is", "spread", "Pronunciation: /spr\u025bd/", "Definition: fully extended in width", "Synonyms: outspread"]}
+{"data": ["2023-06-05T06:01:23.212275+00:00", 11631, "Your mother is", "stoppered", "Similar to: closed", "Definition: (of a container) having a stopper in the opening", ""]}
