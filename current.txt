@@ -1,1 +1,1 @@
-{"data": ["2023-06-05T15:00:57.862165+00:00", 11640, "Your mother is", "single-celled", "Similar to: acellular", "Definition: having a single cell (and thus not divided into cells)", "Synonyms: one-celled"]}
+{"data": ["2023-06-05T16:01:17.742229+00:00", 11641, "Your mother is", "damnable", "Pronunciation: /\u02c8d\u00e6mn\u0259b\u0259l/", "Definition: deserving a curse", "Synonyms: execrable"]}
