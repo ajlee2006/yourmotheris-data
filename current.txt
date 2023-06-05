@@ -1,1 +1,1 @@
-{"data": ["2023-06-05T02:01:04.542072+00:00", 11627, "Your mother is", "inherent", "Pronunciation: /\u026an\u02c8hir\u0259nt/", "Definition: existing as an essential constituent or characteristic", "Synonyms: built-in, constitutional, inbuilt, integral"]}
+{"data": ["2023-06-05T03:01:05.147397+00:00", 11628, "Your mother is", "overeager", "Pronunciation: /\u02c8o\u028av\u0259r\u02c8i\u0261\u0259r/", "Definition: excessively eager", ""]}
