@@ -1,1 +1,1 @@
-{"data": ["2023-06-05T12:01:01.781988+00:00", 11637, "Your mother is", "weatherworn", "Pronunciation: /\u02c8w\u025b\u00f0\u0259r\u02ccwo\u028arn/", "Definition: worn by exposure to the weather", "Synonyms: weather-beaten, weathered"]}
+{"data": ["2023-06-05T13:01:38.846583+00:00", 11638, "Your mother is", "stertorous", "Pronunciation: /\u02c8st\u025crt\u0259r\u0259s/", "Definition: of breathing having a heavy snoring sound", ""]}
