@@ -1,1 +1,1 @@
-{"data": ["2023-06-05T14:01:01.864129+00:00", 11639, "Your mother is", "conforming", "Pronunciation: /k\u028cn\u02c8f\u0254rm\u026a\u014b/", "Definition: adhering to established customs or doctrines (especially in religion)", "Synonyms: conformist"]}
+{"data": ["2023-06-05T15:00:57.862165+00:00", 11640, "Your mother is", "single-celled", "Similar to: acellular", "Definition: having a single cell (and thus not divided into cells)", "Synonyms: one-celled"]}
