@@ -1,1 +1,1 @@
-{"data": ["2023-06-05T16:01:17.742229+00:00", 11641, "Your mother is", "damnable", "Pronunciation: /\u02c8d\u00e6mn\u0259b\u0259l/", "Definition: deserving a curse", "Synonyms: execrable"]}
+{"data": ["2023-06-05T17:01:37.642586+00:00", 11642, "Your mother is", "stormproof", "Similar to: protected", "Definition: protected against or able to withstand storms", ""]}
