@@ -1,1 +1,1 @@
-{"data": ["2023-06-06T07:01:36.719276+00:00", 11656, "Your mother is", "anachronic", "Pronunciation: /\u02cc\u00e6n\u0259\u02c8kr\u0251n\u026ak/", "Definition: chronologically misplaced", "Synonyms: anachronistic, anachronous"]}
+{"data": ["2023-06-06T08:01:28.908674+00:00", 11657, "Your mother is", "isometric", "Pronunciation: /\u02cca\u026as\u0259\u02c8m\u025btr\u026ak/", "Definition: having equal dimensions or measurements", "Synonyms: isometrical"]}
