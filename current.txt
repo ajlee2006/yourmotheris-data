@@ -1,1 +1,1 @@
-{"data": ["2023-06-06T11:01:34.197396+00:00", 11660, "Your mother is", "undepicted", "Similar to: undelineated", "Definition: not pictured", "Synonyms: unpictured"]}
+{"data": ["2023-06-06T12:01:29.454555+00:00", 11661, "Your mother is", "poikilothermous", "Similar to: cold-blooded", "Definition: of animals except birds and mammals; having body temperature that varies with the environment", "Synonyms: ectothermic, heterothermic, poikilothermic"]}
