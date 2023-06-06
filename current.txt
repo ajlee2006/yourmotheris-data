@@ -1,1 +1,1 @@
-{"data": ["2023-06-06T14:01:03.956346+00:00", 11663, "Your mother is", "amuck", "Pronunciation: /\u0259\u02c8m\u0259k/", "Definition: wildly frenzied and out of control", "Synonyms: amok, berserk"]}
+{"data": ["2023-06-06T15:00:56.175398+00:00", 11664, "Your mother is", "mail-clad", "Similar to: armored", "Definition: wearing protective mail", "Synonyms: mailed"]}
