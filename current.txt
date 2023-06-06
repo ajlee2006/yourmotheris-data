@@ -1,1 +1,1 @@
-{"data": ["2023-06-06T05:01:36.206229+00:00", 11654, "Your mother is", "comminatory", "Pronunciation: /k\u0259\u02c8m\u026an\u0259\u02ccto\u028ari/", "Definition: containing warning of punishment", "Synonyms: denunciative, denunciatory"]}
+{"data": ["2023-06-06T06:01:26.557286+00:00", 11655, "Your mother is", "east", "Pronunciation: /ist/", "Definition: situated in or facing or moving toward the east", ""]}
