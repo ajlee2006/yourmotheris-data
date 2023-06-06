@@ -1,1 +1,1 @@
-{"data": ["2023-06-06T18:01:40.488990+00:00", 11667, "Your mother is", "azotic", "Pronunciation: /\u0259\u02c8z\u0251t\u026ak/", "Definition: of or containing nitrogen", "Synonyms: nitric, nitrous"]}
+{"data": ["2023-06-06T19:01:30.672395+00:00", 11668, "Your mother is", "slack", "Pronunciation: /sl\u00e6k/", "Definition: not tense or taut", "Synonyms: loose"]}
