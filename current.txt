@@ -1,1 +1,1 @@
-{"data": ["2023-06-06T12:01:29.454555+00:00", 11661, "Your mother is", "poikilothermous", "Similar to: cold-blooded", "Definition: of animals except birds and mammals; having body temperature that varies with the environment", "Synonyms: ectothermic, heterothermic, poikilothermic"]}
+{"data": ["2023-06-06T13:01:21.403100+00:00", 11662, "Your mother is", "nearsighted", "Pronunciation: /ni\u0259r\u02c8sa\u026at\u026ad/", "Definition: unable to see distant objects clearly", "Synonyms: myopic, shortsighted"]}
