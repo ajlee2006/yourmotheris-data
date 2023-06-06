@@ -1,1 +1,1 @@
-{"data": ["2023-06-06T08:01:28.908674+00:00", 11657, "Your mother is", "isometric", "Pronunciation: /\u02cca\u026as\u0259\u02c8m\u025btr\u026ak/", "Definition: having equal dimensions or measurements", "Synonyms: isometrical"]}
+{"data": ["2023-06-06T09:01:14.212367+00:00", 11658, "Your mother is", "divided", "Pronunciation: /d\u026a\u02c8va\u026ad\u026ad/", "Definition: distributed in portions (often equal) on the basis of a plan or purpose", "Synonyms: divided up, shared, shared out"]}
