@@ -1,1 +1,1 @@
-{"data": ["2023-06-06T09:01:14.212367+00:00", 11658, "Your mother is", "divided", "Pronunciation: /d\u026a\u02c8va\u026ad\u026ad/", "Definition: distributed in portions (often equal) on the basis of a plan or purpose", "Synonyms: divided up, shared, shared out"]}
+{"data": ["2023-06-06T10:01:13.546758+00:00", 11659, "Your mother is", "cumbersome", "Pronunciation: /\u02c8k\u0259mb\u0259rs\u0259m/", "Definition: difficult to handle or use especially because of size or weight", "Synonyms: cumbrous"]}
