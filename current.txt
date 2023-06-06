@@ -1,1 +1,1 @@
-{"data": ["2023-06-06T13:01:21.403100+00:00", 11662, "Your mother is", "nearsighted", "Pronunciation: /ni\u0259r\u02c8sa\u026at\u026ad/", "Definition: unable to see distant objects clearly", "Synonyms: myopic, shortsighted"]}
+{"data": ["2023-06-06T14:01:03.956346+00:00", 11663, "Your mother is", "amuck", "Pronunciation: /\u0259\u02c8m\u0259k/", "Definition: wildly frenzied and out of control", "Synonyms: amok, berserk"]}
