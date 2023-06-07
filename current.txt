@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T09:01:11.296444+00:00", 11682, "Your mother is", "standard", "Pronunciation: /\u02c8st\u00e6nd\u0259rd/", "Definition: conforming to the established language usage of educated native speakers", "Synonyms: received"]}
+{"data": ["2023-06-07T10:01:19.232775+00:00", 11683, "Your mother is", "stern", "Pronunciation: /st\u025crn/", "Definition: of a stern or strict bearing or demeanor; forbidding in aspect", "Synonyms: austere"]}
