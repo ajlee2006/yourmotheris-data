@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T19:01:36.771368+00:00", 11692, "Your mother is", "moderate-size", "Similar to: sized", "Definition: intermediate in size", "Synonyms: medium-size, medium-sized, moderate-sized"]}
+{"data": ["2023-06-07T20:01:42.678378+00:00", 11693, "Your mother is", "sagging", "Pronunciation: /\u02c8s\u00e6\u0261\u026a\u014b/", "Definition: hanging down (as from exhaustion or weakness)", "Synonyms: drooping, droopy"]}
