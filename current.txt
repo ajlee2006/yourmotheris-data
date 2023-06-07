@@ -1,1 +1,1 @@
-{"data": ["2023-06-06T23:01:39.768230+00:00", 11672, "Your mother is", "stagey", "Pronunciation: /\u02c8ste\u026ad\u0292i/", "Definition: having characteristics of the stage especially an artificial and mannered quality", "Synonyms: stagy"]}
+{"data": ["2023-06-07T00:02:15.072140+00:00", 11673, "Your mother is", "large-capitalization", "", "Definition: of stocks of companies with a market capitalization of five billion dollars or more", "Synonyms: large-cap, large-capitalisation"]}
