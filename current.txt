@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T02:01:35.253713+00:00", 11675, "Your mother is", "oral", "Pronunciation: /\u02c8o\u028ar\u0259l/", "Definition: using speech rather than writing", "Synonyms: unwritten"]}
+{"data": ["2023-06-07T03:01:37.165538+00:00", 11676, "Your mother is", "chiseled", "Pronunciation: /\u02c8\u02a7\u026az\u0259ld/", "Definition: having a clean and distinct outline as if precisely cut along the edges", "Synonyms: well-defined"]}
