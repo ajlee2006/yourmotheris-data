@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T08:01:32.815073+00:00", 11681, "Your mother is", "evacuant", "Pronunciation: /\u026a\u02c8v\u00e6kju\u0259nt/", "Definition: strongly laxative", "Synonyms: cathartic, purgative"]}
+{"data": ["2023-06-07T09:01:11.296444+00:00", 11682, "Your mother is", "standard", "Pronunciation: /\u02c8st\u00e6nd\u0259rd/", "Definition: conforming to the established language usage of educated native speakers", "Synonyms: received"]}
