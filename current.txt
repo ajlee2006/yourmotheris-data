@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T06:01:35.992122+00:00", 11679, "Your mother is", "multistorey", "Similar to: high-rise", "Definition: having more than one story", "Synonyms: multistoried, multistory"]}
+{"data": ["2023-06-07T07:01:36.143370+00:00", 11680, "Your mother is", "voluted", "Similar to: coiled", "Definition: in the shape of a coil", "Synonyms: coiling, helical, spiral, spiraling, turbinate, volute, whorled"]}
