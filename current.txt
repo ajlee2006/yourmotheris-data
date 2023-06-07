@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T18:01:38.076933+00:00", 11691, "Your mother is", "ungracious", "Pronunciation: /\u0259n\u02c8gre\u026a\u0283\u0259s/", "Definition: lacking social graces", "Synonyms: discourteous"]}
+{"data": ["2023-06-07T19:01:36.771368+00:00", 11692, "Your mother is", "moderate-size", "Similar to: sized", "Definition: intermediate in size", "Synonyms: medium-size, medium-sized, moderate-sized"]}
