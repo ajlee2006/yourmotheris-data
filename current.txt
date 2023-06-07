@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T21:01:34.669607+00:00", 11694, "Your mother is", "grayish", "Pronunciation: /\u02c8gre\u026a\u026a\u0283/", "Definition: of an achromatic color of any lightness intermediate between the extremes of white and black", "Synonyms: gray, grey, greyish"]}
+{"data": ["2023-06-07T22:01:02.231131+00:00", 11695, "Your mother is", "gaseous", "Pronunciation: /\u02c8\u0261\u00e6si\u0259s/", "Definition: existing as or having characteristics of a gas", ""]}
