@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T10:01:19.232775+00:00", 11683, "Your mother is", "stern", "Pronunciation: /st\u025crn/", "Definition: of a stern or strict bearing or demeanor; forbidding in aspect", "Synonyms: austere"]}
+{"data": ["2023-06-07T11:01:03.902583+00:00", 11684, "Your mother is", "toilet-trained", "Similar to: trained", "Definition: (of children) trained to use the toilet", "Synonyms: pot-trained, potty-trained"]}
