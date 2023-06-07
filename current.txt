@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T14:01:02.746977+00:00", 11687, "Your mother is", "showy", "Pronunciation: /\u02c8\u0283o\u028ai/", "Definition: (used especially of clothes) marked by conspicuous display", "Synonyms: flashy, gaudy, jazzy, sporty"]}
+{"data": ["2023-06-07T15:00:52.820244+00:00", 11688, "Your mother is", "untenable", "Pronunciation: /\u0259n\u02c8t\u025bn\u0259b\u0259l/", "Definition: (of theories etc) incapable of being defended or justified", "Synonyms: indefensible"]}
