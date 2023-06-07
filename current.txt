@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T17:01:30.834639+00:00", 11690, "Your mother is", "carthaginian", "Pronunciation: /\u02cck\u0251r\u03b8\u0259\u02c8d\u0292\u026ani\u0259n/", "Definition: of or relating to or characteristic of ancient Carthage or its people or their language", "Synonyms: punic"]}
+{"data": ["2023-06-07T18:01:38.076933+00:00", 11691, "Your mother is", "ungracious", "Pronunciation: /\u0259n\u02c8gre\u026a\u0283\u0259s/", "Definition: lacking social graces", "Synonyms: discourteous"]}
