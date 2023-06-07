@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T20:01:42.678378+00:00", 11693, "Your mother is", "sagging", "Pronunciation: /\u02c8s\u00e6\u0261\u026a\u014b/", "Definition: hanging down (as from exhaustion or weakness)", "Synonyms: drooping, droopy"]}
+{"data": ["2023-06-07T21:01:34.669607+00:00", 11694, "Your mother is", "grayish", "Pronunciation: /\u02c8gre\u026a\u026a\u0283/", "Definition: of an achromatic color of any lightness intermediate between the extremes of white and black", "Synonyms: gray, grey, greyish"]}
