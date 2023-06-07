@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T03:01:37.165538+00:00", 11676, "Your mother is", "chiseled", "Pronunciation: /\u02c8\u02a7\u026az\u0259ld/", "Definition: having a clean and distinct outline as if precisely cut along the edges", "Synonyms: well-defined"]}
+{"data": ["2023-06-07T04:01:27.098256+00:00", 11677, "Your mother is", "experient", "Similar to: knowledgeable", "Definition: having experience; having knowledge or skill from observation or participation", "Synonyms: experienced"]}
