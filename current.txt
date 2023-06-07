@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T01:01:28.741668+00:00", 11674, "Your mother is", "challengeable", "Similar to: contestable", "Definition: capable of being challenged", ""]}
+{"data": ["2023-06-07T02:01:35.253713+00:00", 11675, "Your mother is", "oral", "Pronunciation: /\u02c8o\u028ar\u0259l/", "Definition: using speech rather than writing", "Synonyms: unwritten"]}
