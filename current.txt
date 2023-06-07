@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T12:01:20.726069+00:00", 11685, "Your mother is", "phobic", "Pronunciation: /\u02c8fo\u028ab\u026ak/", "Definition: suffering from irrational fears", ""]}
+{"data": ["2023-06-07T13:00:57.713246+00:00", 11686, "Your mother is", "unverifiable", "Pronunciation: /\u0259n\u02c8v\u025bri\u02ccfa\u026a\u0259b\u0259l/", "Definition: (of e.g. evidence) not objective or easily verified", "Synonyms: unobjective"]}
