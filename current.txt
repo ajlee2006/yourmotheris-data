@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T05:01:22.694511+00:00", 11678, "Your mother is", "lionhearted", "Pronunciation: /\u02c8la\u026a\u0259n\u02cch\u0251rt\u026ad/", "Definition: extraordinarily courageous", ""]}
+{"data": ["2023-06-07T06:01:35.992122+00:00", 11679, "Your mother is", "multistorey", "Similar to: high-rise", "Definition: having more than one story", "Synonyms: multistoried, multistory"]}
