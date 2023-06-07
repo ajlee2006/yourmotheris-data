@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T22:01:02.231131+00:00", 11695, "Your mother is", "gaseous", "Pronunciation: /\u02c8\u0261\u00e6si\u0259s/", "Definition: existing as or having characteristics of a gas", ""]}
+{"data": ["2023-06-07T23:01:04.150547+00:00", 11696, "Your mother is", "fabled", "Pronunciation: /\u02c8fe\u026ab\u0259ld/", "Definition: celebrated in fable or legend", "Synonyms: legendary"]}
