@@ -1,1 +1,1 @@
-{"data": ["2023-06-08T08:01:28.807894+00:00", 11705, "Your mother is", "square-rigged", "Pronunciation: /\u02c8skw\u00e6\u0259r\u02c8r\u026agd/", "Definition: rigged with square sails as the principal ones", ""]}
+{"data": ["2023-06-08T09:01:07.070514+00:00", 11706, "Your mother is", "fast-growing", "Pronunciation: /f\u00e6st-\u02c8gro\u028a\u026a\u014b/", "Definition: tending to spread quickly", "Synonyms: aggressive, strong-growing"]}
