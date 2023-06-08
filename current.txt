@@ -1,1 +1,1 @@
-{"data": ["2023-06-07T23:01:04.150547+00:00", 11696, "Your mother is", "fabled", "Pronunciation: /\u02c8fe\u026ab\u0259ld/", "Definition: celebrated in fable or legend", "Synonyms: legendary"]}
+{"data": ["2023-06-08T00:02:11.933316+00:00", 11697, "Your mother is", "coeval", "Pronunciation: /ko\u028a\u02c8iv\u0259l/", "Definition: of the same period", "Synonyms: coetaneous, contemporaneous"]}
