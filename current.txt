@@ -1,1 +1,1 @@
-{"data": ["2023-06-08T13:01:28.654569+00:00", 11710, "Your mother is", "anapaestic", "", "Definition: (of a metric foot) characterized by two short syllables followed by a long one", "Synonyms: anapestic"]}
+{"data": ["2023-06-08T14:01:40.052594+00:00", 11711, "Your mother is", "at hand", "Similar to: close", "Definition: close in time; about to occur", "Synonyms: close at hand, imminent, impendent, impending"]}
