@@ -1,1 +1,1 @@
-{"data": ["2023-06-08T14:01:40.052594+00:00", 11711, "Your mother is", "at hand", "Similar to: close", "Definition: close in time; about to occur", "Synonyms: close at hand, imminent, impendent, impending"]}
+{"data": ["2023-06-08T15:00:56.912108+00:00", 11712, "Your mother is", "contrasting", "Pronunciation: /k\u028cn\u02c8tr\u00e6st\u026a\u014b/", "Definition: strikingly different; tending to contrast", "Synonyms: contrastive"]}
