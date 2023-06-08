@@ -1,1 +1,1 @@
-{"data": ["2023-06-08T21:01:41.968626+00:00", 11716, "Your mother is", "malcontent", "Pronunciation: /\u02c8m\u00e6lk\u0259n\u02cct\u025bnt/", "Definition: discontented as toward authority", "Synonyms: disaffected, ill-affected, rebellious"]}
+{"data": ["2023-06-08T22:01:25.674518+00:00", 11717, "Your mother is", "plumlike", "Similar to: rounded", "Definition: resembling a plum fruit", ""]}
