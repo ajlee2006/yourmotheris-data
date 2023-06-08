@@ -1,1 +1,1 @@
-{"data": ["2023-06-08T02:01:00.469147+00:00", 11699, "Your mother is", "splattered", "Pronunciation: /\u02c8spl\u00e6t\u025drd/", "Definition: covered with bright patches (often used in combination)", "Synonyms: dabbled, spattered, splashed"]}
+{"data": ["2023-06-08T03:01:07.037783+00:00", 11700, "Your mother is", "unwed", "Pronunciation: /\u0259n\u02c8w\u025bd/", "Definition: of someone who has not been married", "Synonyms: unwedded"]}
