@@ -1,1 +1,1 @@
-{"data": ["2023-06-08T07:01:18.475846+00:00", 11704, "Your mother is", "crowning", "Pronunciation: /\u02c8kra\u028an\u026a\u014b/", "Definition: forming or providing a crown or summit", ""]}
+{"data": ["2023-06-08T08:01:28.807894+00:00", 11705, "Your mother is", "square-rigged", "Pronunciation: /\u02c8skw\u00e6\u0259r\u02c8r\u026agd/", "Definition: rigged with square sails as the principal ones", ""]}
