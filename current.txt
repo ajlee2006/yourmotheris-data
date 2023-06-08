@@ -1,1 +1,1 @@
-{"data": ["2023-06-08T06:01:31.355066+00:00", 11703, "Your mother is", "chocolate-colored", "Pronunciation: /\u02c8\u02a7\u0254k\u0259l\u026at-\u02c8k\u0259l\u0259rd/", "Definition: having the color of dark chocolate", "Synonyms: chocolate-coloured"]}
+{"data": ["2023-06-08T07:01:18.475846+00:00", 11704, "Your mother is", "crowning", "Pronunciation: /\u02c8kra\u028an\u026a\u014b/", "Definition: forming or providing a crown or summit", ""]}
