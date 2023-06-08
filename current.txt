@@ -1,1 +1,1 @@
-{"data": ["2023-06-08T04:01:02.042827+00:00", 11701, "Your mother is", "apolitical", "Pronunciation: /\u02cce\u026ap\u0259\u02c8l\u026at\u026ak\u0259l/", "Definition: politically neutral", "Synonyms: unpolitical"]}
+{"data": ["2023-06-08T05:01:19.941882+00:00", 11702, "Your mother is", "confident", "Pronunciation: /\u02c8k\u0251nf\u026ad\u0259nt/", "Definition: persuaded of; very sure", "Synonyms: convinced, positive"]}
