@@ -1,1 +1,1 @@
-{"data": ["2023-06-08T03:01:07.037783+00:00", 11700, "Your mother is", "unwed", "Pronunciation: /\u0259n\u02c8w\u025bd/", "Definition: of someone who has not been married", "Synonyms: unwedded"]}
+{"data": ["2023-06-08T04:01:02.042827+00:00", 11701, "Your mother is", "apolitical", "Pronunciation: /\u02cce\u026ap\u0259\u02c8l\u026at\u026ak\u0259l/", "Definition: politically neutral", "Synonyms: unpolitical"]}
