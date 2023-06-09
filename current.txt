@@ -1,1 +1,1 @@
-{"data": ["2023-06-09T04:01:29.673002+00:00", 11723, "Your mother is", "unsympathetic", "Pronunciation: /\u028cn\u02ccs\u026amp\u028c\u02c8\u03b8\u025bt\u026ak/", "Definition: lacking in sympathy and kindness", "Synonyms: unkindly"]}
+{"data": ["2023-06-09T05:00:59.928604+00:00", 11724, "Your mother is", "vaporized", "Pronunciation: /\u02c8ve\u026ap\u025dr\u02cca\u026azd/", "Definition: converted into a gas or vapor", "Synonyms: gasified, vapourised, volatilised, volatilized"]}
