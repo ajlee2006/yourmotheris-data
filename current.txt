@@ -1,1 +1,1 @@
-{"data": ["2023-06-09T18:01:39.028274+00:00", 11737, "Your mother is", "fourteen", "Pronunciation: /\u02c8fo\u028ar\u02c8tin/", "Definition: being one more than thirteen", "Synonyms: 14, xiv"]}
+{"data": ["2023-06-09T19:01:36.241531+00:00", 11738, "Your mother is", "apposable", "", "Definition: capable of being placed opposite to something", "Synonyms: opposable"]}
