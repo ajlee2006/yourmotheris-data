@@ -1,1 +1,1 @@
-{"data": ["2023-06-09T13:01:40.264540+00:00", 11732, "Your mother is", "water-insoluble", "Similar to: indissoluble", "Definition: not soluble in water", "Synonyms: non-water-soluble"]}
+{"data": ["2023-06-09T14:01:23.863658+00:00", 11733, "Your mother is", "superfine", "Pronunciation: /\u02ccsup\u0259r\u02c8fa\u026an/", "Definition: excessively delicate or refined", "Synonyms: overrefined"]}
