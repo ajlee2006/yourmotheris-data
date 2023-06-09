@@ -1,1 +1,1 @@
-{"data": ["2023-06-09T17:01:02.465867+00:00", 11736, "Your mother is", "moribund", "Pronunciation: /\u02c8m\u0251ri\u02ccb\u0259nd/", "Definition: not growing or changing; without force or vitality", "Synonyms: stagnant"]}
+{"data": ["2023-06-09T18:01:39.028274+00:00", 11737, "Your mother is", "fourteen", "Pronunciation: /\u02c8fo\u028ar\u02c8tin/", "Definition: being one more than thirteen", "Synonyms: 14, xiv"]}
