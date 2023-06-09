@@ -1,1 +1,1 @@
-{"data": ["2023-06-09T05:00:59.928604+00:00", 11724, "Your mother is", "vaporized", "Pronunciation: /\u02c8ve\u026ap\u025dr\u02cca\u026azd/", "Definition: converted into a gas or vapor", "Synonyms: gasified, vapourised, volatilised, volatilized"]}
+{"data": ["2023-06-09T06:01:26.793767+00:00", 11725, "Your mother is", "elastic", "Pronunciation: /\u026a\u02c8l\u00e6st\u026ak/", "Definition: able to adjust readily to different conditions", "Synonyms: flexible, pliable, pliant"]}
