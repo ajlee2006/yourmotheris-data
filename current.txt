@@ -1,1 +1,1 @@
-{"data": ["2023-06-09T14:01:23.863658+00:00", 11733, "Your mother is", "superfine", "Pronunciation: /\u02ccsup\u0259r\u02c8fa\u026an/", "Definition: excessively delicate or refined", "Synonyms: overrefined"]}
+{"data": ["2023-06-09T15:00:59.673214+00:00", 11734, "Your mother is", "bimodal", "Pronunciation: /ba\u026a\u02c8mo\u028ad\u0259l/", "Definition: of a distribution; having or occurring with two modes", ""]}
