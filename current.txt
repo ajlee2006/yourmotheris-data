@@ -1,1 +1,1 @@
-{"data": ["2023-06-09T07:01:08.982932+00:00", 11726, "Your mother is", "offhanded", "Similar to: careless", "Definition: casually thoughtless or inconsiderate", "Synonyms: offhand"]}
+{"data": ["2023-06-09T08:01:05.807496+00:00", 11727, "Your mother is", "chambered", "Pronunciation: /\u02c8t\u0283e\u026amb\u0259d/", "Definition: having compartmental chambers", ""]}
