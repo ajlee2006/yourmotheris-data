@@ -1,1 +1,1 @@
-{"data": ["2023-06-09T11:01:26.997769+00:00", 11730, "Your mother is", "mediocre", "Pronunciation: /\u02ccmidi\u02c8o\u028akr/", "Definition: moderate to inferior in quality", "Synonyms: second-rate"]}
+{"data": ["2023-06-09T12:01:22.265459+00:00", 11731, "Your mother is", "bunchy", "Pronunciation: /\u02c8b\u0259n\u02a7i/", "Definition: occurring close together in bunches or clusters", ""]}
