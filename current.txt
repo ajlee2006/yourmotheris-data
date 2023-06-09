@@ -1,1 +1,1 @@
-{"data": ["2023-06-09T03:01:08.500106+00:00", 11722, "Your mother is", "wholesale", "Pronunciation: /\u02c8ho\u028al\u02ccse\u026al/", "Definition: ignoring distinctions", "Synonyms: sweeping"]}
+{"data": ["2023-06-09T04:01:29.673002+00:00", 11723, "Your mother is", "unsympathetic", "Pronunciation: /\u028cn\u02ccs\u026amp\u028c\u02c8\u03b8\u025bt\u026ak/", "Definition: lacking in sympathy and kindness", "Synonyms: unkindly"]}
