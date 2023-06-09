@@ -1,1 +1,1 @@
-{"data": ["2023-06-09T12:01:22.265459+00:00", 11731, "Your mother is", "bunchy", "Pronunciation: /\u02c8b\u0259n\u02a7i/", "Definition: occurring close together in bunches or clusters", ""]}
+{"data": ["2023-06-09T13:01:40.264540+00:00", 11732, "Your mother is", "water-insoluble", "Similar to: indissoluble", "Definition: not soluble in water", "Synonyms: non-water-soluble"]}
