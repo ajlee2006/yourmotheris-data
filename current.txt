@@ -1,1 +1,1 @@
-{"data": ["2023-06-09T15:00:59.673214+00:00", 11734, "Your mother is", "bimodal", "Pronunciation: /ba\u026a\u02c8mo\u028ad\u0259l/", "Definition: of a distribution; having or occurring with two modes", ""]}
+{"data": ["2023-06-09T16:01:13.717258+00:00", 11735, "Your mother is", "dark-skinned", "Similar to: brunet", "Definition: naturally having skin of a dark color", "Synonyms: dusky, swart, swarthy"]}
