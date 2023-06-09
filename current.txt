@@ -1,1 +1,1 @@
-{"data": ["2023-06-09T16:01:13.717258+00:00", 11735, "Your mother is", "dark-skinned", "Similar to: brunet", "Definition: naturally having skin of a dark color", "Synonyms: dusky, swart, swarthy"]}
+{"data": ["2023-06-09T17:01:02.465867+00:00", 11736, "Your mother is", "moribund", "Pronunciation: /\u02c8m\u0251ri\u02ccb\u0259nd/", "Definition: not growing or changing; without force or vitality", "Synonyms: stagnant"]}
