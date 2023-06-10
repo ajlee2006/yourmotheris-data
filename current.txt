@@ -1,1 +1,1 @@
-{"data": ["2023-06-10T21:01:13.105153+00:00", 11764, "Your mother is", "serpentine", "Pronunciation: /\u02c8s\u025crp\u0259n\u02cctin/", "Definition: resembling a serpent in form", "Synonyms: snakelike, snaky"]}
+{"data": ["2023-06-10T22:01:31.011795+00:00", 11765, "Your mother is", "censorious", "Pronunciation: /s\u025bn\u02c8so\u028ari\u0259s/", "Definition: harshly critical or expressing censure", ""]}
