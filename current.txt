@@ -1,1 +1,1 @@
-{"data": ["2023-06-10T07:01:22.155293+00:00", 11750, "Your mother is", "fooling", "Pronunciation: /\u02c8ful\u026a\u014b/", "Definition: characterized by a feeling of irresponsibility", "Synonyms: casual"]}
+{"data": ["2023-06-10T08:01:34.829432+00:00", 11751, "Your mother is", "amiable", "Pronunciation: /\u02c8e\u026ami\u0259b\u0259l/", "Definition: disposed to please", "Synonyms: good-humored, good-humoured"]}
