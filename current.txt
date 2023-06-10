@@ -1,1 +1,1 @@
-{"data": ["2023-06-10T09:01:39.090647+00:00", 11752, "Your mother is", "loose-fitting", "Pronunciation: /lus-\u02c8f\u026at\u026a\u014b/", "Definition: not fitting closely; hanging loosely", "Synonyms: baggy, sloppy"]}
+{"data": ["2023-06-10T10:01:25.256252+00:00", 11753, "Your mother is", "derived", "Pronunciation: /d\u025dr\u02c8a\u026avd/", "Definition: formed or developed from something else; not original", ""]}
