@@ -1,1 +1,1 @@
-{"data": ["2023-06-10T20:01:30.133631+00:00", 11763, "Your mother is", "privy", "Pronunciation: /\u02c8pr\u026avi/", "Definition: hidden from general view or use", "Synonyms: secluded, secret"]}
+{"data": ["2023-06-10T21:01:13.105153+00:00", 11764, "Your mother is", "serpentine", "Pronunciation: /\u02c8s\u025crp\u0259n\u02cctin/", "Definition: resembling a serpent in form", "Synonyms: snakelike, snaky"]}
