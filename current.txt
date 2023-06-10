@@ -1,1 +1,1 @@
-{"data": ["2023-06-10T01:01:39.472020+00:00", 11744, "Your mother is", "misty-eyed", "Similar to: tearful", "Definition: having eyes blurred as with tears", ""]}
+{"data": ["2023-06-10T02:01:28.103820+00:00", 11745, "Your mother is", "kechuan", "Pronunciation: /\u02c8k\u025b\u02a7\u02ccw\u0259n/", "Definition: of or relating to the Quechua or their language", "Synonyms: quechuan"]}
