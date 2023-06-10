@@ -1,1 +1,1 @@
-{"data": ["2023-06-10T22:01:31.011795+00:00", 11765, "Your mother is", "censorious", "Pronunciation: /s\u025bn\u02c8so\u028ari\u0259s/", "Definition: harshly critical or expressing censure", ""]}
+{"data": ["2023-06-10T23:01:35.620749+00:00", 11766, "Your mother is", "endocrine", "Pronunciation: /\u02c8\u025bnd\u0259kr\u026an/", "Definition: of or belonging to endocrine glands or their secretions", "Synonyms: endocrinal"]}
