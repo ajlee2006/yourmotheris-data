@@ -1,1 +1,1 @@
-{"data": ["2023-06-10T05:01:10.524481+00:00", 11748, "Your mother is", "mated", "Pronunciation: /\u02c8me\u026at\u026ad/", "Definition: occurring in pairs or as a pair", "Synonyms: paired"]}
+{"data": ["2023-06-10T06:01:32.972069+00:00", 11749, "Your mother is", "deuteranopic", "Pronunciation: /\u02ccdut\u0259r\u0259\u02c8n\u0251p\u026ak/", "Definition: inability to see the color green or to distinguish green and purplish-red", "Synonyms: green-blind"]}
