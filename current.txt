@@ -1,1 +1,1 @@
-{"data": ["2023-06-10T08:01:34.829432+00:00", 11751, "Your mother is", "amiable", "Pronunciation: /\u02c8e\u026ami\u0259b\u0259l/", "Definition: disposed to please", "Synonyms: good-humored, good-humoured"]}
+{"data": ["2023-06-10T09:01:39.090647+00:00", 11752, "Your mother is", "loose-fitting", "Pronunciation: /lus-\u02c8f\u026at\u026a\u014b/", "Definition: not fitting closely; hanging loosely", "Synonyms: baggy, sloppy"]}
