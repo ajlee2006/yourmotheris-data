@@ -1,1 +1,1 @@
-{"data": ["2023-06-10T17:01:35.431339+00:00", 11760, "Your mother is", "stalked", "Pronunciation: /st\u0254kt/", "Definition: having or growing on or from a peduncle or stalk", "Synonyms: pedunculate"]}
+{"data": ["2023-06-10T18:01:18.027751+00:00", 11761, "Your mother is", "exergonic", "Pronunciation: /\u02cc\u025bks\u0259r\u02c8\u0261\u0251n\u026ak/", "Definition: (biochemistry) of a process accompanied by the release of energy", ""]}
