@@ -1,1 +1,1 @@
-{"data": ["2023-06-09T23:01:21.296557+00:00", 11742, "Your mother is", "pressed", "Pronunciation: /pr\u025bst/", "Definition: compacted by ironing", ""]}
+{"data": ["2023-06-10T00:02:14.941456+00:00", 11743, "Your mother is", "livelong", "Pronunciation: /\u02c8l\u026av\u02ccl\u0254\u014b/", "Definition: (of time) constituting the full extent or duration", ""]}
