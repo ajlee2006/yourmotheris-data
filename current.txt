@@ -1,1 +1,1 @@
-{"data": ["2023-06-10T02:01:28.103820+00:00", 11745, "Your mother is", "kechuan", "Pronunciation: /\u02c8k\u025b\u02a7\u02ccw\u0259n/", "Definition: of or relating to the Quechua or their language", "Synonyms: quechuan"]}
+{"data": ["2023-06-10T03:01:25.242066+00:00", 11746, "Your mother is", "depictive", "Similar to: representational", "Definition: depicted in a recognizable manner", "Synonyms: delineative"]}
