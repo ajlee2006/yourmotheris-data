@@ -1,1 +1,1 @@
-{"data": ["2023-06-10T15:00:57.788839+00:00", 11758, "Your mother is", "outlined", "Pronunciation: /\u02c8a\u028at\u02ccla\u026and/", "Definition: showing clearly the outline or profile or boundary", "Synonyms: defined"]}
+{"data": ["2023-06-10T16:01:26.347247+00:00", 11759, "Your mother is", "autacoidal", "", "Definition: of or relating to an autacoid", ""]}
