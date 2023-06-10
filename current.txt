@@ -1,1 +1,1 @@
-{"data": ["2023-06-10T10:01:25.256252+00:00", 11753, "Your mother is", "derived", "Pronunciation: /d\u025dr\u02c8a\u026avd/", "Definition: formed or developed from something else; not original", ""]}
+{"data": ["2023-06-10T11:01:13.397450+00:00", 11754, "Your mother is", "dusky-colored", "Pronunciation: /\u02c8d\u0259ski-\u02c8k\u0259l\u0259rd/", "Definition: having a dark color", "Synonyms: dark-colored, dark-coloured, dusky-coloured"]}
