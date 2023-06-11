@@ -1,1 +1,1 @@
-{"data": ["2023-06-11T11:00:56.161745+00:00", 11778, "Your mother is", "solid-hoofed", "Pronunciation: /\u02c8s\u0251l\u026ad-h\u028aft/", "Definition: having solid hooves", ""]}
+{"data": ["2023-06-11T12:01:30.927385+00:00", 11779, "Your mother is", "orthopedical", "", "Definition: of or relating to orthopedics", "Synonyms: orthopaedic, orthopedic"]}
