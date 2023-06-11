@@ -1,1 +1,1 @@
-{"data": ["2023-06-11T08:01:19.423873+00:00", 11775, "Your mother is", "catercorner", "Pronunciation: /\u02cck\u00e6ti\u02c8k\u0254rn\u0259r/", "Definition: slanted across a polygon on a diagonal line", "Synonyms: cata-cornered, catacorner, cater-cornered, catty-corner, catty-cornered, kitty-corner, kitty-cornered"]}
+{"data": ["2023-06-11T09:01:35.112443+00:00", 11776, "Your mother is", "upcoming", "Pronunciation: /\u0259p\u02c8k\u0259mi\u014b/", "Definition: of the relatively near future", "Synonyms: approaching, coming, forthcoming"]}
