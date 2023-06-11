@@ -1,1 +1,1 @@
-{"data": ["2023-06-11T22:00:55.728894+00:00", 11789, "Your mother is", "pugnacious", "Pronunciation: /p\u0259\u0261\u02c8ne\u026a\u0283\u0259s/", "Definition: ready and able to resort to force or violence", "Synonyms: rough"]}
+{"data": ["2023-06-11T23:01:30.047578+00:00", 11790, "Your mother is", "episcopal", "Pronunciation: /\u026a\u02c8p\u026ask\u0259p\u0259l/", "Definition: of or pertaining to or characteristic of the Episcopal church", "Synonyms: episcopalian"]}
