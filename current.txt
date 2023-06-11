@@ -1,1 +1,1 @@
-{"data": ["2023-06-11T07:00:55.667286+00:00", 11774, "Your mother is", "scholarly", "Pronunciation: /\u02c8sk\u0251l\u025drli/", "Definition: characteristic of scholars or scholarship", ""]}
+{"data": ["2023-06-11T08:01:19.423873+00:00", 11775, "Your mother is", "catercorner", "Pronunciation: /\u02cck\u00e6ti\u02c8k\u0254rn\u0259r/", "Definition: slanted across a polygon on a diagonal line", "Synonyms: cata-cornered, catacorner, cater-cornered, catty-corner, catty-cornered, kitty-corner, kitty-cornered"]}
