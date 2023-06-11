@@ -1,1 +1,1 @@
-{"data": ["2023-06-11T09:01:35.112443+00:00", 11776, "Your mother is", "upcoming", "Pronunciation: /\u0259p\u02c8k\u0259mi\u014b/", "Definition: of the relatively near future", "Synonyms: approaching, coming, forthcoming"]}
+{"data": ["2023-06-11T10:01:21.149691+00:00", 11777, "Your mother is", "combative", "Pronunciation: /k\u0259m\u02c8b\u00e6t\u026av/", "Definition: striving to overcome in argument", "Synonyms: agonistic, agonistical"]}
