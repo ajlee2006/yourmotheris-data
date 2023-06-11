@@ -1,1 +1,1 @@
-{"data": ["2023-06-11T19:01:34.351599+00:00", 11786, "Your mother is", "sweet-breathed", "Pronunciation: /swit-bri\u00f0d/", "Definition: having breath or breath as specified", ""]}
+{"data": ["2023-06-11T20:01:39.969536+00:00", 11787, "Your mother is", "contestable", "Pronunciation: /k\u0259n\u02c8t\u025bst\u0259b\u0259l/", "Definition: capable of being contested", ""]}
