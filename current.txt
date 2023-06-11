@@ -1,1 +1,1 @@
-{"data": ["2023-06-11T10:01:21.149691+00:00", 11777, "Your mother is", "combative", "Pronunciation: /k\u0259m\u02c8b\u00e6t\u026av/", "Definition: striving to overcome in argument", "Synonyms: agonistic, agonistical"]}
+{"data": ["2023-06-11T11:00:56.161745+00:00", 11778, "Your mother is", "solid-hoofed", "Pronunciation: /\u02c8s\u0251l\u026ad-h\u028aft/", "Definition: having solid hooves", ""]}
