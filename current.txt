@@ -1,1 +1,1 @@
-{"data": ["2023-06-11T15:01:24.101553+00:00", 11782, "Your mother is", "shattering", "Pronunciation: /\u02c8\u0283\u00e6t\u025dr\u026a\u014b/", "Definition: seemingly loud enough to break something; violently rattling or clattering", ""]}
+{"data": ["2023-06-11T16:01:11.775948+00:00", 11783, "Your mother is", "edgy", "Pronunciation: /\u02c8\u025bd\u0292i/", "Definition: being in a tense state", "Synonyms: high-strung, highly strung, jittery, jumpy, nervy, overstrung, restive, uptight"]}
