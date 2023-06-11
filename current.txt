@@ -1,1 +1,1 @@
-{"data": ["2023-06-11T12:01:30.927385+00:00", 11779, "Your mother is", "orthopedical", "", "Definition: of or relating to orthopedics", "Synonyms: orthopaedic, orthopedic"]}
+{"data": ["2023-06-11T13:01:20.009612+00:00", 11780, "Your mother is", "corticoafferent", "Similar to: afferent", "Definition: of a nerve fiber or impulse originating outside and passing toward the cerebral cortex", "Synonyms: corticipetal"]}
