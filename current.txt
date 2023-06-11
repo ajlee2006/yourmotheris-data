@@ -1,1 +1,1 @@
-{"data": ["2023-06-11T17:01:00.753384+00:00", 11784, "Your mother is", "hard-shelled", "Pronunciation: /h\u0251rd-\u0283\u025bld/", "Definition: of animals or plants that have a hard shell", ""]}
+{"data": ["2023-06-11T18:01:34.693706+00:00", 11785, "Your mother is", "amerindic", "", "Definition: of or pertaining to Native Americans or their culture or languages", "Synonyms: amerind, indian, native american"]}
