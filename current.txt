@@ -1,1 +1,1 @@
-{"data": ["2023-06-12T07:01:09.173392+00:00", 11798, "Your mother is", "empyrean", "Pronunciation: /\u02cc\u025bmp\u0259\u02c8ri\u0259n/", "Definition: inspiring awe", "Synonyms: empyreal, sublime"]}
+{"data": ["2023-06-12T08:01:08.421210+00:00", 11799, "Your mother is", "bedraggled", "Pronunciation: /b\u026a\u02c8dr\u00e6\u0261\u0259ld/", "Definition: in deplorable condition", "Synonyms: broken-down, derelict, dilapidated, ramshackle, tatterdemalion, tumble-down"]}
