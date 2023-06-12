@@ -1,1 +1,1 @@
-{"data": ["2023-06-12T01:01:05.886066+00:00", 11792, "Your mother is", "uncolumned", "Similar to: astylar", "Definition: not having columns", "Synonyms: noncolumned"]}
+{"data": ["2023-06-12T02:01:24.360965+00:00", 11793, "Your mother is", "auriform", "Pronunciation: /\u02c8\u0254r\u0259\u02ccf\u0254rm/", "Definition: having a shape resembling an ear", "Synonyms: ear-like, ear-shaped"]}
