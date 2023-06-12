@@ -1,1 +1,1 @@
-{"data": ["2023-06-12T10:01:10.385257+00:00", 11801, "Your mother is", "coloured", "Pronunciation: /\u02c8k\u0259l\u0259d/", "Definition: favoring one person or side over another", "Synonyms: biased, colored, one-sided, slanted"]}
+{"data": ["2023-06-12T11:01:13.751589+00:00", 11802, "Your mother is", "evident", "Pronunciation: /\u02c8\u025bv\u026ad\u0259nt/", "Definition: capable of being seen or noticed", "Synonyms: discernible, observable"]}
