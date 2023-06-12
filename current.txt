@@ -1,1 +1,1 @@
-{"data": ["2023-06-12T04:00:59.298870+00:00", 11795, "Your mother is", "isolating", "Pronunciation: /\u02c8a\u026as\u0259\u02ccle\u026ati\u014b/", "Definition: relating to or being a language in which each word typically expresses a distinct idea and part of speech and syntactical relations are determined almost exclusively by word order and particles", ""]}
+{"data": ["2023-06-12T05:01:26.579952+00:00", 11796, "Your mother is", "adhesive", "Pronunciation: /\u00e6d\u02c8his\u026av/", "Definition: tending to adhere", ""]}
