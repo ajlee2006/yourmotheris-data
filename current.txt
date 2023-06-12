@@ -1,1 +1,1 @@
-{"data": ["2023-06-12T21:01:21.920883+00:00", 11812, "Your mother is", "lowly", "Pronunciation: /\u02c8lo\u028ali/", "Definition: of low birth or station (`base' is archaic in this sense)", "Synonyms: base, baseborn, humble"]}
+{"data": ["2023-06-12T22:01:25.398309+00:00", 11813, "Your mother is", "twenty-eight", "Pronunciation: /\u02c8tw\u025bnti-\u02c8e\u026at/", "Definition: being eight more than twenty", "Synonyms: 28, xxviii"]}
