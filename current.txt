@@ -1,1 +1,1 @@
-{"data": ["2023-06-12T13:01:09.723332+00:00", 11804, "Your mother is", "livable", "Pronunciation: /\u02c8l\u026av\u0259b\u0259l/", "Definition: fit or suitable to live in or with", "Synonyms: liveable"]}
+{"data": ["2023-06-12T14:01:15.570512+00:00", 11805, "Your mother is", "expedient", "Pronunciation: /\u026ak\u02c8spidi\u0259nt/", "Definition: appropriate to a purpose; practical", ""]}
