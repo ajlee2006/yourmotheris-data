@@ -1,1 +1,1 @@
-{"data": ["2023-06-12T05:01:26.579952+00:00", 11796, "Your mother is", "adhesive", "Pronunciation: /\u00e6d\u02c8his\u026av/", "Definition: tending to adhere", ""]}
+{"data": ["2023-06-12T06:01:30.129355+00:00", 11797, "Your mother is", "effaceable", "Similar to: eradicable", "Definition: capable of being effaced", "Synonyms: erasable"]}
