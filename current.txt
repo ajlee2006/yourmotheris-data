@@ -1,1 +1,1 @@
-{"data": ["2023-06-12T02:01:24.360965+00:00", 11793, "Your mother is", "auriform", "Pronunciation: /\u02c8\u0254r\u0259\u02ccf\u0254rm/", "Definition: having a shape resembling an ear", "Synonyms: ear-like, ear-shaped"]}
+{"data": ["2023-06-12T03:01:17.936966+00:00", 11794, "Your mother is", "unwieldy", "Pronunciation: /\u0259n\u02c8wildi/", "Definition: difficult to use or handle or manage because of size or weight or shape", "Synonyms: unmanageable"]}
