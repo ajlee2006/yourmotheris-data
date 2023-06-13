@@ -1,1 +1,1 @@
-{"data": ["2023-06-13T11:01:01.707223+00:00", 11826, "Your mother is", "polychrome", "Pronunciation: /\u02c8p\u0251li\u02cckro\u028am/", "Definition: having or exhibiting many colors", "Synonyms: polychromatic, polychromic"]}
+{"data": ["2023-06-13T12:01:13.876931+00:00", 11827, "Your mother is", "coarse-haired", "Similar to: haired", "Definition: having coarse hair or fur", "Synonyms: coarse-furred"]}
