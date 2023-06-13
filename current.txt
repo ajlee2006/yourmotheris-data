@@ -1,1 +1,1 @@
-{"data": ["2023-06-13T08:01:26.200812+00:00", 11823, "Your mother is", "unvitrified", "Similar to: unglazed", "Definition: (of ceramics) lacking a vitreous finish", ""]}
+{"data": ["2023-06-13T09:01:36.087911+00:00", 11824, "Your mother is", "relative", "Pronunciation: /\u02c8r\u025bl\u0259t\u026av/", "Definition: properly related in size or degree or other measurable characteristics; usually followed by `to'", "Synonyms: proportional"]}
