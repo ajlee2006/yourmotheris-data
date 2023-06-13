@@ -1,1 +1,1 @@
-{"data": ["2023-06-13T22:01:22.366250+00:00", 11837, "Your mother is", "130", "Similar to: cardinal", "Definition: being ten more than one hundred twenty", "Synonyms: cxxx, one hundred thirty"]}
+{"data": ["2023-06-13T23:01:17.070744+00:00", 11838, "Your mother is", "alterative", "Pronunciation: /\u02c8\u0254lt\u0259\u02ccre\u026at\u026av/", "Definition: tending to cure or restore to health", "Synonyms: curative, healing, remedial, sanative, therapeutic"]}
