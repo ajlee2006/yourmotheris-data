@@ -1,1 +1,1 @@
-{"data": ["2023-06-13T01:01:17.017279+00:00", 11816, "Your mother is", "snazzy", "Pronunciation: /\u02c8sn\u00e6zi/", "Definition: flashily stylish", ""]}
+{"data": ["2023-06-13T02:01:22.973329+00:00", 11817, "Your mother is", "stepwise", "Pronunciation: /\u02c8st\u025bpwa\u026as/", "Definition: one thing at a time", "Synonyms: bit-by-bit, in small stages, piecemeal, step-by-step"]}
