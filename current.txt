@@ -1,1 +1,1 @@
-{"data": ["2023-06-13T03:01:08.633573+00:00", 11818, "Your mother is", "dome-shaped", "Pronunciation: /do\u028am-\u0283e\u026apt/", "Definition: having the shape of a dome", ""]}
+{"data": ["2023-06-13T04:01:20.101127+00:00", 11819, "Your mother is", "unawakened", "Similar to: asleep", "Definition: still asleep", ""]}
