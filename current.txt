@@ -1,1 +1,1 @@
-{"data": ["2023-06-13T05:01:25.210477+00:00", 11820, "Your mother is", "anxious", "Pronunciation: /\u02c8\u00e6\u014bk\u0283\u0259s/", "Definition: eagerly desirous", "Synonyms: dying"]}
+{"data": ["2023-06-13T06:00:52.886678+00:00", 11821, "Your mother is", "petrifying", "Similar to: alarming", "Definition: paralyzing with terror", ""]}
