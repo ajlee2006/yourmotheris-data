@@ -1,1 +1,1 @@
-{"data": ["2023-06-13T02:01:22.973329+00:00", 11817, "Your mother is", "stepwise", "Pronunciation: /\u02c8st\u025bpwa\u026as/", "Definition: one thing at a time", "Synonyms: bit-by-bit, in small stages, piecemeal, step-by-step"]}
+{"data": ["2023-06-13T03:01:08.633573+00:00", 11818, "Your mother is", "dome-shaped", "Pronunciation: /do\u028am-\u0283e\u026apt/", "Definition: having the shape of a dome", ""]}
