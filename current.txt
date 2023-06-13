@@ -1,1 +1,1 @@
-{"data": ["2023-06-12T23:01:10.416021+00:00", 11814, "Your mother is", "whole-souled", "Pronunciation: /\u02c8ho\u028al-\u02c8so\u028ald/", "Definition: with unconditional and enthusiastic devotion", "Synonyms: heart-whole, wholehearted"]}
+{"data": ["2023-06-13T00:02:01.137417+00:00", 11815, "Your mother is", "non compos mentis", "Pronunciation: /\u02ccn\u0251n\u02cck\u0251mp\u0259s\u02c8m\u025bnt\u0259s/", "Definition: not of sound mind, memory, or understanding; in law, not competent to go to trial", "Synonyms: of unsound mind"]}
