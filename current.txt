@@ -1,1 +1,1 @@
-{"data": ["2023-06-13T09:01:36.087911+00:00", 11824, "Your mother is", "relative", "Pronunciation: /\u02c8r\u025bl\u0259t\u026av/", "Definition: properly related in size or degree or other measurable characteristics; usually followed by `to'", "Synonyms: proportional"]}
+{"data": ["2023-06-13T10:01:23.128352+00:00", 11825, "Your mother is", "ineradicable", "Pronunciation: /\u02cc\u026an\u026a\u02c8r\u00e6d\u0259k\u0259b\u0259l/", "Definition: not able to be destroyed or rooted out", ""]}
