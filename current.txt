@@ -1,1 +1,1 @@
-{"data": ["2023-06-14T05:01:12.761406+00:00", 11844, "Your mother is", "awless", "Pronunciation: /\u02c8\u0254l\u026as/", "Definition: neither feeling nor showing respect", "Synonyms: aweless, disrespectful"]}
+{"data": ["2023-06-14T06:00:58.881108+00:00", 11845, "Your mother is", "lipotropic", "Pronunciation: /\u02ccl\u026ap\u0259\u02c8tr\u0251p\u026ak/", "Definition: having an affinity for lipids", "Synonyms: lipophilic"]}
