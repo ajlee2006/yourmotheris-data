@@ -1,1 +1,1 @@
-{"data": ["2023-06-14T15:01:40.427986+00:00", 11854, "Your mother is", "autogenous", "Pronunciation: /\u0254\u02c8t\u0251d\u0292\u0259n\u0259s/", "Definition: originating within the body", "Synonyms: autogenic"]}
+{"data": ["2023-06-14T16:01:15.278224+00:00", 11855, "Your mother is", "arrogant", "Pronunciation: /\u02c8\u00e6r\u0259\u0261\u0259nt/", "Definition: having or showing feelings of unwarranted importance out of overbearing pride", "Synonyms: chesty, self-important"]}
