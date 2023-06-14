@@ -1,1 +1,1 @@
-{"data": ["2023-06-14T19:01:17.744078+00:00", 11858, "Your mother is", "high-backed", "Pronunciation: /ha\u026a-b\u00e6kt/", "Definition: having a high back", ""]}
+{"data": ["2023-06-14T20:00:58.961448+00:00", 11859, "Your mother is", "unsalable", "Pronunciation: /\u028cn\u02c8se\u026al\u028cb\u028cl/", "Definition: impossible to sell", "Synonyms: unsaleable"]}
