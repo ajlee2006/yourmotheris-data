@@ -1,1 +1,1 @@
-{"data": ["2023-06-14T02:01:34.909652+00:00", 11841, "Your mother is", "dissimilar", "Pronunciation: /d\u026a\u02c8s\u026am\u0259l\u0259r/", "Definition: not alike or similar", "Synonyms: unalike"]}
+{"data": ["2023-06-14T03:01:33.722129+00:00", 11842, "Your mother is", "serrulate", "Pronunciation: /\u02c8s\u025brj\u0259l\u026at/", "Definition: minutely serrated", ""]}
