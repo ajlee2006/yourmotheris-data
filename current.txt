@@ -1,1 +1,1 @@
-{"data": ["2023-06-14T06:00:58.881108+00:00", 11845, "Your mother is", "lipotropic", "Pronunciation: /\u02ccl\u026ap\u0259\u02c8tr\u0251p\u026ak/", "Definition: having an affinity for lipids", "Synonyms: lipophilic"]}
+{"data": ["2023-06-14T07:01:00.006380+00:00", 11846, "Your mother is", "childly", "Pronunciation: /\u02c8\u02a7a\u026aldli/", "Definition: befitting a young child", "Synonyms: childlike"]}
