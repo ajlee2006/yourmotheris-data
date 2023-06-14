@@ -1,1 +1,1 @@
-{"data": ["2023-06-14T13:01:19.892953+00:00", 11852, "Your mother is", "unascertainable", "Pronunciation: /\u02cc\u0259n\u00e6s\u0259\u02c8te\u026an\u0259b\u0259l/", "Definition: not able to be ascertained; resisting discovery", "Synonyms: undiscoverable"]}
+{"data": ["2023-06-14T14:00:55.404693+00:00", 11853, "Your mother is", "ferret-sized", "Similar to: sized", "Definition: having the approximate size of a ferret", ""]}
