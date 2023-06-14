@@ -1,1 +1,1 @@
-{"data": ["2023-06-14T17:01:39.404187+00:00", 11856, "Your mother is", "fulgent", "Pronunciation: /\u02c8f\u0259ld\u0292\u0259nt/", "Definition: shining intensely", "Synonyms: blazing, blinding, dazzling, glaring, glary"]}
+{"data": ["2023-06-14T18:01:10.751954+00:00", 11857, "Your mother is", "impellent", "Pronunciation: /\u026am\u02c8p\u025bl\u0259nt/", "Definition: forcing forward or onward; impelling", ""]}
