@@ -1,1 +1,1 @@
-{"data": ["2023-06-14T04:01:52.051610+00:00", 11843, "Your mother is", "single-bedded", "Similar to: bedded", "Definition: having single beds", ""]}
+{"data": ["2023-06-14T05:01:12.761406+00:00", 11844, "Your mother is", "awless", "Pronunciation: /\u02c8\u0254l\u026as/", "Definition: neither feeling nor showing respect", "Synonyms: aweless, disrespectful"]}
