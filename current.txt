@@ -1,1 +1,1 @@
-{"data": ["2023-06-14T08:01:34.024500+00:00", 11847, "Your mother is", "twilight", "Pronunciation: /\u02c8twa\u026a\u02ccla\u026at/", "Definition: lighted by or as if by twilight", "Synonyms: dusky, twilit"]}
+{"data": ["2023-06-14T09:01:18.032722+00:00", 11848, "Your mother is", "crossbred", "Pronunciation: /\u02c8kr\u0254s\u02ccbr\u025bd/", "Definition: bred from parents of different varieties or species", ""]}
