@@ -1,1 +1,1 @@
-{"data": ["2023-06-14T22:01:02.254313+00:00", 11861, "Your mother is", "slap-up", "Pronunciation: /sl\u00e6p-\u0259p/", "Definition: very good", "Synonyms: bang-up, bully, corking, cracking, dandy, great, groovy, keen, neat, nifty, not bad, old, peachy, smashing, swell"]}
+{"data": ["2023-06-14T23:01:19.111117+00:00", 11862, "Your mother is", "unladylike", "Pronunciation: /\u0259n\u02c8le\u026ad\u026a\u02ccla\u026ak/", "Definition: lacking the behavior or manner or style considered proper for a lady", ""]}
