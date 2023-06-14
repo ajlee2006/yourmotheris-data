@@ -1,1 +1,1 @@
-{"data": ["2023-06-14T16:01:15.278224+00:00", 11855, "Your mother is", "arrogant", "Pronunciation: /\u02c8\u00e6r\u0259\u0261\u0259nt/", "Definition: having or showing feelings of unwarranted importance out of overbearing pride", "Synonyms: chesty, self-important"]}
+{"data": ["2023-06-14T17:01:39.404187+00:00", 11856, "Your mother is", "fulgent", "Pronunciation: /\u02c8f\u0259ld\u0292\u0259nt/", "Definition: shining intensely", "Synonyms: blazing, blinding, dazzling, glaring, glary"]}
