@@ -1,1 +1,1 @@
-{"data": ["2023-06-14T01:01:20.997487+00:00", 11840, "Your mother is", "refreshed", "Pronunciation: /ri\u02c8fr\u025b\u0283t/", "Definition: with restored energy", "Synonyms: fresh, invigorated, reinvigorated"]}
+{"data": ["2023-06-14T02:01:34.909652+00:00", 11841, "Your mother is", "dissimilar", "Pronunciation: /d\u026a\u02c8s\u026am\u0259l\u0259r/", "Definition: not alike or similar", "Synonyms: unalike"]}
