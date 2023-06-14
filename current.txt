@@ -1,1 +1,1 @@
-{"data": ["2023-06-14T07:01:00.006380+00:00", 11846, "Your mother is", "childly", "Pronunciation: /\u02c8\u02a7a\u026aldli/", "Definition: befitting a young child", "Synonyms: childlike"]}
+{"data": ["2023-06-14T08:01:34.024500+00:00", 11847, "Your mother is", "twilight", "Pronunciation: /\u02c8twa\u026a\u02ccla\u026at/", "Definition: lighted by or as if by twilight", "Synonyms: dusky, twilit"]}
