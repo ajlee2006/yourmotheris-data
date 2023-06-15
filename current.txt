@@ -1,1 +1,1 @@
-{"data": ["2023-06-15T15:01:35.311785+00:00", 11878, "Your mother is", "ischemic", "", "Definition: relating to or affected by ischemia", "Synonyms: ischaemic"]}
+{"data": ["2023-06-15T16:01:39.646313+00:00", 11879, "Your mother is", "insecure", "Pronunciation: /\u02cc\u026ans\u026a\u02c8kj\u028ar/", "Definition: lacking in security or safety", "Synonyms: unsafe"]}
