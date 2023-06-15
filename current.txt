@@ -1,1 +1,1 @@
-{"data": ["2023-06-15T12:00:53.371048+00:00", 11875, "Your mother is", "rose-lilac", "Similar to: chromatic", "Definition: of lavender tinged with rose", "Synonyms: rose-lavender"]}
+{"data": ["2023-06-15T13:01:14.107237+00:00", 11876, "Your mother is", "asyndetic", "", "Definition: lacking conjunctions", ""]}
