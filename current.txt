@@ -1,1 +1,1 @@
-{"data": ["2023-06-15T20:01:03.318617+00:00", 11883, "Your mother is", "right-angled", "Pronunciation: /ra\u026at-\u02c8\u00e6\u014b\u0261\u0259ld/", "Definition: forming a right angle or containing one or more right angles", ""]}
+{"data": ["2023-06-15T21:01:21.089399+00:00", 11884, "Your mother is", "long-playing", "Pronunciation: /\u02c8l\u0254\u014b\u02c8ple\u026a\u026a\u014b/", "Definition: (used of records) playing at a slower speed and for a longer time than earlier records", "Synonyms: long-play"]}
