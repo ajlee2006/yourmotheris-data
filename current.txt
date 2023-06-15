@@ -1,1 +1,1 @@
-{"data": ["2023-06-15T14:01:11.695052+00:00", 11877, "Your mother is", "fundamental", "Pronunciation: /\u02ccf\u0259nd\u0259\u02c8m\u025bnt\u0259l/", "Definition: far-reaching and thoroughgoing in effect especially on the nature of something", "Synonyms: profound"]}
+{"data": ["2023-06-15T15:01:35.311785+00:00", 11878, "Your mother is", "ischemic", "", "Definition: relating to or affected by ischemia", "Synonyms: ischaemic"]}
