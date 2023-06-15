@@ -1,1 +1,1 @@
-{"data": ["2023-06-15T03:01:30.530957+00:00", 11866, "Your mother is", "actinomorphous", "Similar to: actinoid", "Definition: capable of division into symmetrical halves by any longitudinal plane passing through the axis", "Synonyms: actinomorphic"]}
+{"data": ["2023-06-15T04:01:24.523836+00:00", 11867, "Your mother is", "nonparallel", "Similar to: asynchronous", "Definition: of or relating to the sequential performance of multiple operations", "Synonyms: in series, serial"]}
