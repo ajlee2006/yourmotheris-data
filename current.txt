@@ -1,1 +1,1 @@
-{"data": ["2023-06-15T10:01:38.573591+00:00", 11873, "Your mother is", "custom-built", "Pronunciation: /\u02c8k\u0259st\u0259m-b\u026alt/", "Definition: built for a particular individual", "Synonyms: made-to-order"]}
+{"data": ["2023-06-15T11:00:54.855161+00:00", 11874, "Your mother is", "semi-upright", "Similar to: erect", "Definition: of animals that are partly erect", ""]}
