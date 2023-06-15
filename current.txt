@@ -1,1 +1,1 @@
-{"data": ["2023-06-15T21:01:21.089399+00:00", 11884, "Your mother is", "long-playing", "Pronunciation: /\u02c8l\u0254\u014b\u02c8ple\u026a\u026a\u014b/", "Definition: (used of records) playing at a slower speed and for a longer time than earlier records", "Synonyms: long-play"]}
+{"data": ["2023-06-15T22:01:23.589443+00:00", 11885, "Your mother is", "assertive", "Pronunciation: /\u0259\u02c8s\u025crt\u026av/", "Definition: aggressively self-assured", "Synonyms: self-asserting, self-assertive"]}
