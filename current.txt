@@ -1,1 +1,1 @@
-{"data": ["2023-06-15T09:01:33.012852+00:00", 11872, "Your mother is", "afraid", "Pronunciation: /\u0259\u02c8fre\u026ad/", "Definition: feeling worry or concern or insecurity", ""]}
+{"data": ["2023-06-15T10:01:38.573591+00:00", 11873, "Your mother is", "custom-built", "Pronunciation: /\u02c8k\u0259st\u0259m-b\u026alt/", "Definition: built for a particular individual", "Synonyms: made-to-order"]}
