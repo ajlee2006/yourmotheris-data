@@ -1,1 +1,1 @@
-{"data": ["2023-06-15T16:01:39.646313+00:00", 11879, "Your mother is", "insecure", "Pronunciation: /\u02cc\u026ans\u026a\u02c8kj\u028ar/", "Definition: lacking in security or safety", "Synonyms: unsafe"]}
+{"data": ["2023-06-15T17:01:09.521232+00:00", 11880, "Your mother is", "bound up", "Similar to: committed", "Definition: deeply devoted to", "Synonyms: wrapped up"]}
