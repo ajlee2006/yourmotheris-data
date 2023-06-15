@@ -1,1 +1,1 @@
-{"data": ["2023-06-15T08:01:10.863932+00:00", 11871, "Your mother is", "stretched", "Pronunciation: /\u02c8str\u025b\u02a7t/", "Definition: extended or spread over a wide area or distance", ""]}
+{"data": ["2023-06-15T09:01:33.012852+00:00", 11872, "Your mother is", "afraid", "Pronunciation: /\u0259\u02c8fre\u026ad/", "Definition: feeling worry or concern or insecurity", ""]}
