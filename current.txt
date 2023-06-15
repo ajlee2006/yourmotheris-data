@@ -1,1 +1,1 @@
-{"data": ["2023-06-15T05:01:28.639157+00:00", 11868, "Your mother is", "craggy", "Pronunciation: /\u02c8kr\u00e6\u0261i/", "Definition: having hills and crags", "Synonyms: cragged, hilly, mountainous"]}
+{"data": ["2023-06-15T06:00:54.433036+00:00", 11869, "Your mother is", "one hundred ninety", "Similar to: cardinal", "Definition: being ten more than one hundred eighty", "Synonyms: 190, xcl"]}
