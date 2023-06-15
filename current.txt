@@ -1,1 +1,1 @@
-{"data": ["2023-06-15T02:01:17.455011+00:00", 11865, "Your mother is", "beastly", "Pronunciation: /\u02c8bistli/", "Definition: (informal) very unpleasant", "Synonyms: god-awful, hellish"]}
+{"data": ["2023-06-15T03:01:30.530957+00:00", 11866, "Your mother is", "actinomorphous", "Similar to: actinoid", "Definition: capable of division into symmetrical halves by any longitudinal plane passing through the axis", "Synonyms: actinomorphic"]}
