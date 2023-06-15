@@ -1,1 +1,1 @@
-{"data": ["2023-06-15T13:01:14.107237+00:00", 11876, "Your mother is", "asyndetic", "", "Definition: lacking conjunctions", ""]}
+{"data": ["2023-06-15T14:01:11.695052+00:00", 11877, "Your mother is", "fundamental", "Pronunciation: /\u02ccf\u0259nd\u0259\u02c8m\u025bnt\u0259l/", "Definition: far-reaching and thoroughgoing in effect especially on the nature of something", "Synonyms: profound"]}
