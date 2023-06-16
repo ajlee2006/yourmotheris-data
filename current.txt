@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T06:01:18.869833+00:00", 11893, "Your mother is", "ammoniacal", "Pronunciation: /\u02cc\u00e6m\u0259\u02c8na\u026a\u0259k\u0259l/", "Definition: pertaining to or containing or similar to ammonia", "Synonyms: ammoniac"]}
+{"data": ["2023-06-16T07:00:54.196369+00:00", 11894, "Your mother is", "abortifacient", "Pronunciation: /\u0259\u02ccb\u0254rt\u0259\u02c8fe\u026a\u0283\u0259nt/", "Definition: causing abortion", ""]}
