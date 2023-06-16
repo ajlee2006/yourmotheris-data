@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T01:01:38.509119+00:00", 11888, "Your mother is", "sought after", "Similar to: desirable", "Definition: greatly desired", "Synonyms: coveted, in demand, sought-after"]}
+{"data": ["2023-06-16T02:01:01.398133+00:00", 11889, "Your mother is", "unvaccinated", "Pronunciation: /\u0259n\u02c8v\u00e6ks\u026a\u02ccne\u026at\u026ad/", "Definition: not vaccinated", ""]}
