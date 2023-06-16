@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T16:01:10.145889+00:00", 11903, "Your mother is", "short-tailed", "Similar to: caudate", "Definition: having a short tail", ""]}
+{"data": ["2023-06-16T17:01:36.350457+00:00", 11904, "Your mother is", "actinomorphic", "Pronunciation: /\u02cc\u00e6kt\u0259no\u028a\u02c8m\u0254rf\u026ak/", "Definition: capable of division into symmetrical halves by any longitudinal plane passing through the axis", "Synonyms: actinomorphous"]}
