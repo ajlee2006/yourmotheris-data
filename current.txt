@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T04:01:33.328520+00:00", 11891, "Your mother is", "gross", "Pronunciation: /gro\u028as/", "Definition: without qualification; used informally as (often pejorative) intensifiers", "Synonyms: arrant, complete, consummate, double-dyed, everlasting, perfect, pure, sodding, staring, stark, thorough, thoroughgoing, unadulterated, utter"]}
+{"data": ["2023-06-16T05:01:34.884591+00:00", 11892, "Your mother is", "actuating", "Similar to: causative", "Definition: causing motion or action or change", "Synonyms: activating"]}
