@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T19:01:10.930489+00:00", 11906, "Your mother is", "owner-occupied", "Similar to: inhabited", "Definition: lived in by the owner", ""]}
+{"data": ["2023-06-16T20:00:59.869083+00:00", 11907, "Your mother is", "pseudonymous", "Pronunciation: /su\u02c8d\u0251n\u0259m\u0259s/", "Definition: bearing or identified by an assumed (often pen) name", ""]}
