@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T15:01:17.111927+00:00", 11902, "Your mother is", "32nd", "Similar to: ordinal", "Definition: the ordinal number of thirty-two in counting order", "Synonyms: thirty-second"]}
+{"data": ["2023-06-16T16:01:10.145889+00:00", 11903, "Your mother is", "short-tailed", "Similar to: caudate", "Definition: having a short tail", ""]}
