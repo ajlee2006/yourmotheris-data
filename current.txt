@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T18:00:58.965440+00:00", 11905, "Your mother is", "particular", "Pronunciation: /p\u0259r\u02c8t\u026akj\u0259l\u0259r/", "Definition: exacting especially about details", "Synonyms: finical, finicky, fussy, picky"]}
+{"data": ["2023-06-16T19:01:10.930489+00:00", 11906, "Your mother is", "owner-occupied", "Similar to: inhabited", "Definition: lived in by the owner", ""]}
