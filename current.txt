@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T14:01:38.390407+00:00", 11901, "Your mother is", "institutionalized", "Pronunciation: /\u02cc\u026anst\u026a\u02c8tu\u0283\u028cn\u028cla\u026azd/", "Definition: officially placed in or committed to a specialized institution", "Synonyms: institutionalised"]}
+{"data": ["2023-06-16T15:01:17.111927+00:00", 11902, "Your mother is", "32nd", "Similar to: ordinal", "Definition: the ordinal number of thirty-two in counting order", "Synonyms: thirty-second"]}
