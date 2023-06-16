@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T13:01:01.980966+00:00", 11900, "Your mother is", "percipient", "Pronunciation: /p\u0259r\u02c8s\u026api\u0259nt/", "Definition: characterized by ease and quickness in perceiving", "Synonyms: clear"]}
+{"data": ["2023-06-16T14:01:38.390407+00:00", 11901, "Your mother is", "institutionalized", "Pronunciation: /\u02cc\u026anst\u026a\u02c8tu\u0283\u028cn\u028cla\u026azd/", "Definition: officially placed in or committed to a specialized institution", "Synonyms: institutionalised"]}
