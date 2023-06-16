@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T11:01:09.849583+00:00", 11898, "Your mother is", "quasi-religious", "Pronunciation: /\u02c8kw\u0251si-r\u026a\u02c8l\u026ad\u0292\u0259s/", "Definition: resembling something that is religious", ""]}
+{"data": ["2023-06-16T12:01:13.881769+00:00", 11899, "Your mother is", "pastoral", "Pronunciation: /\u02c8p\u00e6st\u0259r\u0259l/", "Definition: (used with regard to idealized country life) idyllically rustic", "Synonyms: arcadian, bucolic"]}
