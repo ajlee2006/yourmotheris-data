@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T12:01:13.881769+00:00", 11899, "Your mother is", "pastoral", "Pronunciation: /\u02c8p\u00e6st\u0259r\u0259l/", "Definition: (used with regard to idealized country life) idyllically rustic", "Synonyms: arcadian, bucolic"]}
+{"data": ["2023-06-16T13:01:01.980966+00:00", 11900, "Your mother is", "percipient", "Pronunciation: /p\u0259r\u02c8s\u026api\u0259nt/", "Definition: characterized by ease and quickness in perceiving", "Synonyms: clear"]}
