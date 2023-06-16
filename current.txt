@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T02:01:01.398133+00:00", 11889, "Your mother is", "unvaccinated", "Pronunciation: /\u0259n\u02c8v\u00e6ks\u026a\u02ccne\u026at\u026ad/", "Definition: not vaccinated", ""]}
+{"data": ["2023-06-16T03:01:05.132042+00:00", 11890, "Your mother is", "wailing", "Pronunciation: /\u02c8we\u026al\u026a\u014b/", "Definition: vocally expressing grief or sorrow or resembling such expression", "Synonyms: lamenting, wailful"]}
