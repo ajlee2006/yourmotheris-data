@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T17:01:36.350457+00:00", 11904, "Your mother is", "actinomorphic", "Pronunciation: /\u02cc\u00e6kt\u0259no\u028a\u02c8m\u0254rf\u026ak/", "Definition: capable of division into symmetrical halves by any longitudinal plane passing through the axis", "Synonyms: actinomorphous"]}
+{"data": ["2023-06-16T18:00:58.965440+00:00", 11905, "Your mother is", "particular", "Pronunciation: /p\u0259r\u02c8t\u026akj\u0259l\u0259r/", "Definition: exacting especially about details", "Synonyms: finical, finicky, fussy, picky"]}
