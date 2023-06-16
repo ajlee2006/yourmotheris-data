@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T20:00:59.869083+00:00", 11907, "Your mother is", "pseudonymous", "Pronunciation: /su\u02c8d\u0251n\u0259m\u0259s/", "Definition: bearing or identified by an assumed (often pen) name", ""]}
+{"data": ["2023-06-16T21:01:04.272200+00:00", 11908, "Your mother is", "well-founded", "Pronunciation: /\u02c8f\u00e6\u028and\u0259d/", "Definition: based on sound reasoning or evidence", "Synonyms: tenable"]}
