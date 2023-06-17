@@ -1,1 +1,1 @@
-{"data": ["2023-06-17T22:00:58.077489+00:00", 11933, "Your mother is", "unceremonious", "Pronunciation: /\u02cc\u0259ns\u025br\u0259\u02c8mo\u028ani\u0259s/", "Definition: without ceremony or formality", "Synonyms: unceremonial"]}
+{"data": ["2023-06-17T23:00:57.746833+00:00", 11934, "Your mother is", "tacit", "Pronunciation: /\u02c8t\u00e6s\u026at/", "Definition: implied by or inferred from actions or statements", "Synonyms: silent, understood"]}
