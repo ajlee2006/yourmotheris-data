@@ -1,1 +1,1 @@
-{"data": ["2023-06-17T11:01:35.098032+00:00", 11922, "Your mother is", "overcast", "Pronunciation: /\u02c8o\u028av\u0259r\u02cck\u00e6st/", "Definition: filled or abounding with clouds", "Synonyms: cloud-covered, clouded, sunless"]}
+{"data": ["2023-06-17T12:01:36.005788+00:00", 11923, "Your mother is", "hazel-brown", "Similar to: chromatic", "Definition: of brown tinged with hazel", ""]}
