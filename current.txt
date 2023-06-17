@@ -1,1 +1,1 @@
-{"data": ["2023-06-17T19:01:35.406501+00:00", 11930, "Your mother is", "elated", "Pronunciation: /\u026a\u02c8le\u026at\u026ad/", "Definition: full of high-spirited delight", "Synonyms: gleeful, joyful, jubilant"]}
+{"data": ["2023-06-17T20:00:59.072933+00:00", 11931, "Your mother is", "ectothermic", "Similar to: cold-blooded", "Definition: of animals except birds and mammals; having body temperature that varies with the environment", "Synonyms: heterothermic, poikilothermic, poikilothermous"]}
