@@ -1,1 +1,1 @@
-{"data": ["2023-06-17T20:00:59.072933+00:00", 11931, "Your mother is", "ectothermic", "Similar to: cold-blooded", "Definition: of animals except birds and mammals; having body temperature that varies with the environment", "Synonyms: heterothermic, poikilothermic, poikilothermous"]}
+{"data": ["2023-06-17T21:01:24.517534+00:00", 11932, "Your mother is", "unvoiced", "Pronunciation: /\u0259n\u02c8v\u0254\u026ast/", "Definition: not made explicit", "Synonyms: unexpressed, unsaid, unspoken, unstated, unuttered, unverbalised, unverbalized"]}
