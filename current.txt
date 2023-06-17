@@ -1,1 +1,1 @@
-{"data": ["2023-06-17T17:00:59.926260+00:00", 11928, "Your mother is", "expected", "Pronunciation: /\u026ak\u02c8sp\u025bkt\u028cd/", "Definition: considered likely or probable to happen or arrive", ""]}
+{"data": ["2023-06-17T18:01:07.051638+00:00", 11929, "Your mother is", "alimental", "Pronunciation: /\u02cc\u00e6l\u026a\u02c8m\u025bnt\u0259l/", "Definition: of or providing nourishment", "Synonyms: alimentary, nourishing, nutrient, nutritious, nutritive"]}
