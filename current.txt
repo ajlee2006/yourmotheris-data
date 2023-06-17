@@ -1,1 +1,1 @@
-{"data": ["2023-06-17T05:01:25.330800+00:00", 11916, "Your mother is", "passe", "Pronunciation: /p\u00e6\u02c8se\u026a/", "Definition: out of fashion", "Synonyms: antique, demode, ex, old-fashioned, old-hat, outmoded, passee"]}
+{"data": ["2023-06-17T06:01:00.962915+00:00", 11917, "Your mother is", "substitutable", "Similar to: exchangeable", "Definition: capable of being exchanged for another or for something else that is equivalent", "Synonyms: commutable"]}
