@@ -1,1 +1,1 @@
-{"data": ["2023-06-17T08:01:07.183638+00:00", 11919, "Your mother is", "smooth-faced", "Pronunciation: /\u02c8smu\u00f0\u02c8fe\u026ast/", "Definition: lacking hair on the face", "Synonyms: beardless"]}
+{"data": ["2023-06-17T09:01:04.391848+00:00", 11920, "Your mother is", "graecophilic", "", "Definition: characterized by a love of Greece and Grecian things", "Synonyms: graecophile, philhellene, philhellenic"]}
