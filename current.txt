@@ -1,1 +1,1 @@
-{"data": ["2023-06-16T23:01:16.061536+00:00", 11910, "Your mother is", "westernmost", "Pronunciation: /\u02c8w\u025bst\u025drn\u02ccmo\u028ast/", "Definition: farthest to the west", "Synonyms: westmost"]}
+{"data": ["2023-06-17T00:01:56.803341+00:00", 11911, "Your mother is", "squinched", "Similar to: closed", "Definition: having eyes half closed in order to see better", "Synonyms: squinting"]}
