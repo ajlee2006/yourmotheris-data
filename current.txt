@@ -1,1 +1,1 @@
-{"data": ["2023-06-17T13:01:24.932742+00:00", 11924, "Your mother is", "visceral", "Pronunciation: /\u02c8v\u026as\u0259r\u0259l/", "Definition: relating to or affecting the viscera", "Synonyms: splanchnic"]}
+{"data": ["2023-06-17T14:01:39.049420+00:00", 11925, "Your mother is", "despotic", "Pronunciation: /d\u026a\u02c8sp\u0251t\u026ak/", "Definition: characteristic of an absolute ruler or absolute rule; having absolute sovereignty", "Synonyms: authoritarian, autocratic, dictatorial, tyrannic, tyrannical"]}
