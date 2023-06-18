@@ -1,1 +1,1 @@
-{"data": ["2023-06-18T09:01:27.905915+00:00", 11944, "Your mother is", "causal", "Pronunciation: /\u02c8k\u0254z\u0259l/", "Definition: involving or constituting a cause; causing", ""]}
+{"data": ["2023-06-18T10:01:33.572303+00:00", 11945, "Your mother is", "unprejudiced", "Pronunciation: /\u0259n\u02c8pr\u025bd\u0292\u0259d\u026ast/", "Definition: free from undue bias or preconceived opinions", "Synonyms: impartial"]}
