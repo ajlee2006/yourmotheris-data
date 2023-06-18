@@ -1,1 +1,1 @@
-{"data": ["2023-06-18T08:01:20.080787+00:00", 11943, "Your mother is", "interchurch", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8\u02a7\u025cr\u02a7/", "Definition: occurring between or among or common to different churches or denominations", "Synonyms: interdenominational"]}
+{"data": ["2023-06-18T09:01:27.905915+00:00", 11944, "Your mother is", "causal", "Pronunciation: /\u02c8k\u0254z\u0259l/", "Definition: involving or constituting a cause; causing", ""]}
