@@ -1,1 +1,1 @@
-{"data": ["2023-06-18T01:00:56.021225+00:00", 11936, "Your mother is", "sporting", "Pronunciation: /\u02c8spo\u028art\u026a\u014b/", "Definition: exhibiting or calling for sportsmanship or fair play", "Synonyms: clean, sportsmanlike, sporty"]}
+{"data": ["2023-06-18T02:00:56.730900+00:00", 11937, "Your mother is", "nonmaterial", "Pronunciation: /\u02ccn\u0251nm\u0259\u02c8tiri\u0259l/", "Definition: not consisting of matter", "Synonyms: immaterial"]}
