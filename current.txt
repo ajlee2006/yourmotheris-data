@@ -1,1 +1,1 @@
-{"data": ["2023-06-18T20:00:58.059185+00:00", 11955, "Your mother is", "injectable", "Pronunciation: /\u026an\u02c8d\u0292\u025bkt\u028cb\u028cl/", "Definition: (used of drugs) capable of being injected", ""]}
+{"data": ["2023-06-18T22:00:55.323382+00:00", 11956, "Your mother is", "quenched", "Similar to: suppressed", "Definition: subdued or overcome", "Synonyms: quelled, squelched"]}
