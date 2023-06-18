@@ -1,1 +1,1 @@
-{"data": ["2023-06-18T19:01:37.247465+00:00", 11954, "Your mother is", "staminate", "Pronunciation: /\u02c8st\u00e6m\u026an\u0259t/", "Definition: capable of fertilizing female organs", "Synonyms: antheral"]}
+{"data": ["2023-06-18T20:00:58.059185+00:00", 11955, "Your mother is", "injectable", "Pronunciation: /\u026an\u02c8d\u0292\u025bkt\u028cb\u028cl/", "Definition: (used of drugs) capable of being injected", ""]}
