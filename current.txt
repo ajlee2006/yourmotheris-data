@@ -1,1 +1,1 @@
-{"data": ["2023-06-18T02:00:56.730900+00:00", 11937, "Your mother is", "nonmaterial", "Pronunciation: /\u02ccn\u0251nm\u0259\u02c8tiri\u0259l/", "Definition: not consisting of matter", "Synonyms: immaterial"]}
+{"data": ["2023-06-18T03:01:40.891275+00:00", 11938, "Your mother is", "apprehensible", "Pronunciation: /\u02cc\u00e6pr\u026a\u02c8h\u025bns\u0259b\u0259l/", "Definition: capable of being apprehended or understood", "Synonyms: graspable, intelligible, perceivable, understandable"]}
