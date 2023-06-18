@@ -1,1 +1,1 @@
-{"data": ["2023-06-18T03:01:40.891275+00:00", 11938, "Your mother is", "apprehensible", "Pronunciation: /\u02cc\u00e6pr\u026a\u02c8h\u025bns\u0259b\u0259l/", "Definition: capable of being apprehended or understood", "Synonyms: graspable, intelligible, perceivable, understandable"]}
+{"data": ["2023-06-18T04:00:53.469788+00:00", 11939, "Your mother is", "depictive", "Similar to: representational", "Definition: depicted in a recognizable manner", "Synonyms: delineative"]}
