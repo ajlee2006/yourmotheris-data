@@ -1,1 +1,1 @@
-{"data": ["2023-06-18T17:01:13.150139+00:00", 11952, "Your mother is", "unskillful", "Pronunciation: /\u0259n\u02c8sk\u026alf\u0259l/", "Definition: poorly done", "Synonyms: botchy, butcherly"]}
+{"data": ["2023-06-18T18:00:58.428598+00:00", 11953, "Your mother is", "sizeable", "Pronunciation: /\u02c8sa\u026az\u0259b\u0259l/", "Definition: fairly large in size", "Synonyms: ample, sizable"]}
