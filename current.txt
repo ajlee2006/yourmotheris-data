@@ -1,1 +1,1 @@
-{"data": ["2023-06-18T07:01:19.608365+00:00", 11942, "Your mother is", "unlucky", "Pronunciation: /\u0259n\u02c8l\u0259ki/", "Definition: marked by or promising bad fortune", "Synonyms: doomed, ill-fated, ill-omened, ill-starred"]}
+{"data": ["2023-06-18T08:01:20.080787+00:00", 11943, "Your mother is", "interchurch", "Pronunciation: /\u02cc\u026ant\u0259r\u02c8\u02a7\u025cr\u02a7/", "Definition: occurring between or among or common to different churches or denominations", "Synonyms: interdenominational"]}
