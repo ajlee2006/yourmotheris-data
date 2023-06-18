@@ -1,1 +1,1 @@
-{"data": ["2023-06-18T13:01:19.188548+00:00", 11948, "Your mother is", "lavender-pink", "Similar to: chromatic", "Definition: of pink tinged with lavender", "Synonyms: lilac-pink, violet-pink"]}
+{"data": ["2023-06-18T14:01:37.299588+00:00", 11949, "Your mother is", "southern", "Pronunciation: /\u02c8s\u0259\u00f0\u0259rn/", "Definition: from the south; used especially of wind", "Synonyms: southerly"]}
