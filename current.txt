@@ -1,1 +1,1 @@
-{"data": ["2023-06-18T22:00:55.323382+00:00", 11956, "Your mother is", "quenched", "Similar to: suppressed", "Definition: subdued or overcome", "Synonyms: quelled, squelched"]}
+{"data": ["2023-06-18T23:01:18.788638+00:00", 11957, "Your mother is", "aluminiferous", "Pronunciation: /\u0259\u02cclum\u0259\u02c8n\u026af\u0259r\u0259s/", "Definition: containing alum or aluminum", ""]}
