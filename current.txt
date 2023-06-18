@@ -1,1 +1,1 @@
-{"data": ["2023-06-18T18:00:58.428598+00:00", 11953, "Your mother is", "sizeable", "Pronunciation: /\u02c8sa\u026az\u0259b\u0259l/", "Definition: fairly large in size", "Synonyms: ample, sizable"]}
+{"data": ["2023-06-18T19:01:37.247465+00:00", 11954, "Your mother is", "staminate", "Pronunciation: /\u02c8st\u00e6m\u026an\u0259t/", "Definition: capable of fertilizing female organs", "Synonyms: antheral"]}
