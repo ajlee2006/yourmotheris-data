@@ -1,1 +1,1 @@
-{"data": ["2023-06-18T06:00:53.502178+00:00", 11941, "Your mother is", "clinched", "Pronunciation: /kl\u026ant\u0283t/", "Definition: closed or squeezed together tightly", "Synonyms: clenched"]}
+{"data": ["2023-06-18T07:01:19.608365+00:00", 11942, "Your mother is", "unlucky", "Pronunciation: /\u0259n\u02c8l\u0259ki/", "Definition: marked by or promising bad fortune", "Synonyms: doomed, ill-fated, ill-omened, ill-starred"]}
