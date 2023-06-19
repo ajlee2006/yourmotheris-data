@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T22:01:14.905088+00:00", 11980, "Your mother is", "froward", "Pronunciation: /\u02c8fro\u028aw\u0259rd/", "Definition: habitually disposed to disobedience and opposition", "Synonyms: headstrong, self-willed, wilful, willful"]}
+{"data": ["2023-06-19T23:01:05.769420+00:00", 11981, "Your mother is", "executable", "Similar to: possible", "Definition: capable of being done with means at hand and circumstances as they are", "Synonyms: feasible, practicable, viable, workable"]}
