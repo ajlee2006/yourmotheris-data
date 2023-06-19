@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T11:01:21.255471+00:00", 11969, "Your mother is", "cloying", "Pronunciation: /\u02c8kl\u0254\u026a\u026a\u014b/", "Definition: overly sweet", "Synonyms: saccharine, syrupy, treacly"]}
+{"data": ["2023-06-19T12:00:57.359651+00:00", 11970, "Your mother is", "whispered", "Pronunciation: /\u02c8w\u026asp\u025drd/", "Definition: spoken in soft hushed tones without vibrations of the vocal cords", ""]}
