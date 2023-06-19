@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T09:01:26.479937+00:00", 11967, "Your mother is", "reclusive", "Pronunciation: /r\u026a\u02c8klus\u026av/", "Definition: withdrawn from society; seeking solitude", "Synonyms: recluse, withdrawn"]}
+{"data": ["2023-06-19T10:01:33.124269+00:00", 11968, "Your mother is", "sequent", "Pronunciation: /\u02c8sikw\u0259nt/", "Definition: occurring with or following as a consequence", "Synonyms: accompanying, attendant, collateral, concomitant, consequent, ensuant, incidental, resultant"]}
