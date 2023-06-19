@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T14:01:13.829795+00:00", 11972, "Your mother is", "unplanted", "Pronunciation: /\u0259n\u02c8pl\u0251nt\u026ad/", "Definition: not planted", ""]}
+{"data": ["2023-06-19T15:01:28.102327+00:00", 11973, "Your mother is", "caulked", "Similar to: chinked", "Definition: having cracks and crevices stopped up with a filler", ""]}
