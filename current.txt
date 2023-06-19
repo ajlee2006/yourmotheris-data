@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T00:02:03.080595+00:00", 11958, "Your mother is", "implicit", "Pronunciation: /\u026am\u02c8pl\u026as\u026at/", "Definition: implied though not directly expressed; inherent in the nature of something", "Synonyms: inexplicit"]}
+{"data": ["2023-06-19T01:01:35.997072+00:00", 11959, "Your mother is", "unquiet", "Pronunciation: /\u0259n\u02c8kwa\u026a\u026at/", "Definition: causing or fraught with or showing anxiety", "Synonyms: anxious, nervous, queasy, uneasy"]}
