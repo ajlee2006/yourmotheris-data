@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T17:00:52.396631+00:00", 11975, "Your mother is", "gruelling", "Pronunciation: /\u02c8gru\u0259li\u014b/", "Definition: characterized by effort to the point of exhaustion; especially physical effort", "Synonyms: arduous, backbreaking, grueling, hard, heavy, laborious, operose, punishing, toilsome"]}
+{"data": ["2023-06-19T18:01:27.486988+00:00", 11976, "Your mother is", "cyanobacterial", "", "Definition: relating to or caused by photosynthetic bacteria of the class Cyanobacteria", "Synonyms: cyanophyte"]}
