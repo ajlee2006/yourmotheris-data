@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T01:01:35.997072+00:00", 11959, "Your mother is", "unquiet", "Pronunciation: /\u0259n\u02c8kwa\u026a\u026at/", "Definition: causing or fraught with or showing anxiety", "Synonyms: anxious, nervous, queasy, uneasy"]}
+{"data": ["2023-06-19T02:01:12.775782+00:00", 11960, "Your mother is", "lithe", "Pronunciation: /la\u026a\u00f0/", "Definition: gracefully thin and bending and moving with ease", "Synonyms: lissom, lissome, lithesome, sinuous, supple"]}
