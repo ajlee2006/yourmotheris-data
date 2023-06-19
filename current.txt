@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T05:01:04.474412+00:00", 11963, "Your mother is", "oval-shaped", "Pronunciation: /\u02c8o\u028av\u0259l-\u0283e\u026apt/", "Definition: rounded like an egg", "Synonyms: egg-shaped, elliptic, elliptical, oval, ovate, oviform, ovoid, prolate"]}
+{"data": ["2023-06-19T06:01:35.729795+00:00", 11964, "Your mother is", "tantamount", "Pronunciation: /\u02c8t\u00e6nt\u0259\u02ccm\u00e6\u028ant/", "Definition: being essentially equal to something", "Synonyms: equivalent"]}
