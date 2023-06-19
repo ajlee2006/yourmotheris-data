@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T18:01:27.486988+00:00", 11976, "Your mother is", "cyanobacterial", "", "Definition: relating to or caused by photosynthetic bacteria of the class Cyanobacteria", "Synonyms: cyanophyte"]}
+{"data": ["2023-06-19T19:01:19.395538+00:00", 11977, "Your mother is", "foldaway", "Pronunciation: /\u02c8fo\u028ald\u0259\u02ccwe\u026a/", "Definition: capable of being folded up and stored", "Synonyms: foldable, folding"]}
