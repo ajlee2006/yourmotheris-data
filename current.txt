@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T19:01:19.395538+00:00", 11977, "Your mother is", "foldaway", "Pronunciation: /\u02c8fo\u028ald\u0259\u02ccwe\u026a/", "Definition: capable of being folded up and stored", "Synonyms: foldable, folding"]}
+{"data": ["2023-06-19T20:01:33.923675+00:00", 11978, "Your mother is", "unconformist", "", "Definition: not conforming to some norm or socially approved pattern of behavior or thought", "Synonyms: nonconformist"]}
