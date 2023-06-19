@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T04:01:05.980417+00:00", 11962, "Your mother is", "actinomorphous", "Similar to: actinoid", "Definition: capable of division into symmetrical halves by any longitudinal plane passing through the axis", "Synonyms: actinomorphic"]}
+{"data": ["2023-06-19T05:01:04.474412+00:00", 11963, "Your mother is", "oval-shaped", "Pronunciation: /\u02c8o\u028av\u0259l-\u0283e\u026apt/", "Definition: rounded like an egg", "Synonyms: egg-shaped, elliptic, elliptical, oval, ovate, oviform, ovoid, prolate"]}
