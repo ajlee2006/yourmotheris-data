@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T07:00:59.281128+00:00", 11965, "Your mother is", "thrown", "Pronunciation: /\u03b8ro\u028an/", "Definition: twisted together; as of filaments spun into a thread", "Synonyms: thrown and twisted"]}
+{"data": ["2023-06-19T08:01:36.318260+00:00", 11966, "Your mother is", "palatine", "Pronunciation: /\u02c8p\u00e6l\u0259\u02ccta\u026an/", "Definition: relating to or lying near the palate", "Synonyms: palatal"]}
