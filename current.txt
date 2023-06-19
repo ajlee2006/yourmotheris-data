@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T12:00:57.359651+00:00", 11970, "Your mother is", "whispered", "Pronunciation: /\u02c8w\u026asp\u025drd/", "Definition: spoken in soft hushed tones without vibrations of the vocal cords", ""]}
+{"data": ["2023-06-19T13:01:13.127003+00:00", 11971, "Your mother is", "crownless", "Similar to: quasi-royal", "Definition: not (especially not yet) provided with a crown", "Synonyms: uncrowned"]}
