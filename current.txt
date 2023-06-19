@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T03:01:02.144070+00:00", 11961, "Your mother is", "homogenized", "Pronunciation: /ho\u028a\u02c8m\u0251d\u0292\u028c\u02ccna\u026azd/", "Definition: formed by blending unlike elements especially by reducing one element to particles and dispersing them throughout another substance", "Synonyms: homogenised"]}
+{"data": ["2023-06-19T04:01:05.980417+00:00", 11962, "Your mother is", "actinomorphous", "Similar to: actinoid", "Definition: capable of division into symmetrical halves by any longitudinal plane passing through the axis", "Synonyms: actinomorphic"]}
