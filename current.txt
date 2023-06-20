@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T19:01:01.152219+00:00", 12001, "Your mother is", "double-quick", "Similar to: fast", "Definition: (of a marching cadence) very quick", ""]}
+{"data": ["2023-06-20T20:01:19.313514+00:00", 12002, "Your mother is", "accredited", "Pronunciation: /\u028c\u02c8kr\u025bd\u026at\u026ad/", "Definition: given official approval to act", "Synonyms: commissioned, licenced, licensed"]}
