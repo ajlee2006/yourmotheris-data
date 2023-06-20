@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T06:01:06.205290+00:00", 11988, "Your mother is", "vagrant", "Pronunciation: /\u02c8ve\u026agr\u0259nt/", "Definition: continually changing especially as from one abode or occupation to another", "Synonyms: aimless, drifting, floating, vagabond"]}
+{"data": ["2023-06-20T07:01:09.619743+00:00", 11989, "Your mother is", "damn", "Pronunciation: /d\u00e6m/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blasted, blessed, damned, darned, deuced, goddam, goddamn, goddamned, infernal"]}
