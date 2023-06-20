@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T14:01:38.663049+00:00", 11996, "Your mother is", "visually challenged", "Similar to: blind", "Definition: having greatly reduced vision", "Synonyms: dim-sighted, near-blind, purblind, sand-blind, visually impaired"]}
+{"data": ["2023-06-20T15:00:54.263103+00:00", 11997, "Your mother is", "boxed in", "Similar to: enclosed", "Definition: enclosed in or as if in a box", "Synonyms: boxed, boxed-in"]}
