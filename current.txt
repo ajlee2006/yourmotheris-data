@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T17:01:01.264953+00:00", 11999, "Your mother is", "pulverised", "Similar to: fine", "Definition: consisting of fine particles", "Synonyms: fine-grained, powdered, powdery, pulverized, small-grained"]}
+{"data": ["2023-06-20T18:01:23.584840+00:00", 12000, "Your mother is", "consanguineal", "Similar to: related", "Definition: related by blood", "Synonyms: akin, blood-related, cognate, consanguine, consanguineous, kin"]}
