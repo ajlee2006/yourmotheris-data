@@ -1,1 +1,1 @@
-{"data": ["2023-06-19T23:01:05.769420+00:00", 11981, "Your mother is", "executable", "Similar to: possible", "Definition: capable of being done with means at hand and circumstances as they are", "Synonyms: feasible, practicable, viable, workable"]}
+{"data": ["2023-06-20T00:02:02.290631+00:00", 11982, "Your mother is", "sky-blue", "Pronunciation: /ska\u026a-blu/", "Definition: of a deep somewhat purplish blue color similar to that of a clear October sky", "Synonyms: azure, bright blue, cerulean"]}
