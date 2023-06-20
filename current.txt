@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T10:01:36.057911+00:00", 11992, "Your mother is", "uninitiated", "Pronunciation: /\u02cc\u0259n\u026a\u02c8n\u026a\u0283\u026a\u02cce\u026at\u026ad/", "Definition: not initiated; deficient in relevant experience", "Synonyms: naive, uninitiate"]}
+{"data": ["2023-06-20T11:01:23.362093+00:00", 11993, "Your mother is", "singable", "Similar to: musical", "Definition: suitable for singing", ""]}
