@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T05:01:12.971446+00:00", 11987, "Your mother is", "irascible", "Pronunciation: /a\u026a\u02c8r\u00e6s\u0259b\u0259l/", "Definition: characterized by anger", "Synonyms: choleric"]}
+{"data": ["2023-06-20T06:01:06.205290+00:00", 11988, "Your mother is", "vagrant", "Pronunciation: /\u02c8ve\u026agr\u0259nt/", "Definition: continually changing especially as from one abode or occupation to another", "Synonyms: aimless, drifting, floating, vagabond"]}
