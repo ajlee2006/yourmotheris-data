@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T08:01:00.676579+00:00", 11990, "Your mother is", "unloved", "Pronunciation: /\u0259n\u02c8l\u0259vd/", "Definition: not loved", ""]}
+{"data": ["2023-06-20T09:01:25.653890+00:00", 11991, "Your mother is", "tailless", "Similar to: acaudal", "Definition: not having a tail", "Synonyms: anurous"]}
