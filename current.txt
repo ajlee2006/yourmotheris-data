@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T20:01:19.313514+00:00", 12002, "Your mother is", "accredited", "Pronunciation: /\u028c\u02c8kr\u025bd\u026at\u026ad/", "Definition: given official approval to act", "Synonyms: commissioned, licenced, licensed"]}
+{"data": ["2023-06-20T21:01:20.269409+00:00", 12003, "Your mother is", "educated", "Pronunciation: /\u02c8\u025bd\u0292\u028a\u02ccke\u026at\u026ad/", "Definition: characterized by full comprehension of the problem involved", "Synonyms: enlightened"]}
