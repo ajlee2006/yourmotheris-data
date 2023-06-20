@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T07:01:09.619743+00:00", 11989, "Your mother is", "damn", "Pronunciation: /d\u00e6m/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blasted, blessed, damned, darned, deuced, goddam, goddamn, goddamned, infernal"]}
+{"data": ["2023-06-20T08:01:00.676579+00:00", 11990, "Your mother is", "unloved", "Pronunciation: /\u0259n\u02c8l\u0259vd/", "Definition: not loved", ""]}
