@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T21:01:20.269409+00:00", 12003, "Your mother is", "educated", "Pronunciation: /\u02c8\u025bd\u0292\u028a\u02ccke\u026at\u026ad/", "Definition: characterized by full comprehension of the problem involved", "Synonyms: enlightened"]}
+{"data": ["2023-06-20T22:00:56.142190+00:00", 12004, "Your mother is", "prenatal", "Pronunciation: /pri\u02c8ne\u026at\u0259l/", "Definition: occurring or existing before birth", "Synonyms: antenatal, antepartum"]}
