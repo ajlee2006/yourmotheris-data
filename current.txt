@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T16:00:57.642534+00:00", 11998, "Your mother is", "quizzical", "Pronunciation: /\u02c8kw\u026az\u026ak\u0259l/", "Definition: perplexed (as if being expected to know something that you do not know)", "Synonyms: questioning"]}
+{"data": ["2023-06-20T17:01:01.264953+00:00", 11999, "Your mother is", "pulverised", "Similar to: fine", "Definition: consisting of fine particles", "Synonyms: fine-grained, powdered, powdery, pulverized, small-grained"]}
