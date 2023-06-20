@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T00:02:02.290631+00:00", 11982, "Your mother is", "sky-blue", "Pronunciation: /ska\u026a-blu/", "Definition: of a deep somewhat purplish blue color similar to that of a clear October sky", "Synonyms: azure, bright blue, cerulean"]}
+{"data": ["2023-06-20T01:01:07.376813+00:00", 11983, "Your mother is", "creaseless", "Similar to: smooth", "Definition: used especially of fabrics", "Synonyms: uncreased"]}
