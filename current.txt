@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T15:00:54.263103+00:00", 11997, "Your mother is", "boxed in", "Similar to: enclosed", "Definition: enclosed in or as if in a box", "Synonyms: boxed, boxed-in"]}
+{"data": ["2023-06-20T16:00:57.642534+00:00", 11998, "Your mother is", "quizzical", "Pronunciation: /\u02c8kw\u026az\u026ak\u0259l/", "Definition: perplexed (as if being expected to know something that you do not know)", "Synonyms: questioning"]}
