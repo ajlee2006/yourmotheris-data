@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T12:01:17.129303+00:00", 11994, "Your mother is", "c", "Pronunciation: /si/", "Definition: being ten more than ninety", "Synonyms: 100, hundred, one hundred"]}
+{"data": ["2023-06-20T13:01:13.417487+00:00", 11995, "Your mother is", "intervening", "Pronunciation: /\u02cc\u026ant\u025dr\u02c8vin\u026a\u014b/", "Definition: occurring or falling between events or points in time", ""]}
