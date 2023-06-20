@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T22:00:56.142190+00:00", 12004, "Your mother is", "prenatal", "Pronunciation: /pri\u02c8ne\u026at\u0259l/", "Definition: occurring or existing before birth", "Synonyms: antenatal, antepartum"]}
+{"data": ["2023-06-20T23:01:16.451846+00:00", 12005, "Your mother is", "unarmored", "Similar to: scaleless", "Definition: used of animals; without protective covering", "Synonyms: unarmoured"]}
