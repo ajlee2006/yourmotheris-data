@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T02:01:00.006814+00:00", 11984, "Your mother is", "drizzly", "Pronunciation: /\u02c8dr\u026azli/", "Definition: wet with light rain", "Synonyms: drippy"]}
+{"data": ["2023-06-20T03:01:14.265433+00:00", 11985, "Your mother is", "flyaway", "Pronunciation: /\u02c8fla\u026a\u0259\u02ccwe\u026a/", "Definition: guided by whim and fancy", "Synonyms: flighty, head-in-the-clouds, scatterbrained"]}
