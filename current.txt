@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T04:01:19.274957+00:00", 11986, "Your mother is", "packed", "Pronunciation: /p\u00e6kt/", "Definition: extremely crowed or filled to capacity", "Synonyms: jam-packed, jammed"]}
+{"data": ["2023-06-20T05:01:12.971446+00:00", 11987, "Your mother is", "irascible", "Pronunciation: /a\u026a\u02c8r\u00e6s\u0259b\u0259l/", "Definition: characterized by anger", "Synonyms: choleric"]}
