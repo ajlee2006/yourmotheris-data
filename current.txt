@@ -1,1 +1,1 @@
-{"data": ["2023-06-21T13:01:15.973071+00:00", 12019, "Your mother is", "unpredictable", "Pronunciation: /\u02cc\u0259npri\u02c8d\u026akt\u0259b\u0259l/", "Definition: not occurring at a regular rate or fixed intervals", "Synonyms: irregular"]}
+{"data": ["2023-06-21T14:01:35.853591+00:00", 12020, "Your mother is", "half-bred", "Pronunciation: /h\u00e6f-br\u025bd/", "Definition: (of animals) having only one purebred parent", "Synonyms: half-blooded, half-breed"]}
