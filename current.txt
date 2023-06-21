@@ -1,1 +1,1 @@
-{"data": ["2023-06-21T17:01:21.197029+00:00", 12023, "Your mother is", "sure-fire", "Pronunciation: /\u0283\u028ar-fa\u026a\u0259r/", "Definition: certain to be successful", ""]}
+{"data": ["2023-06-21T18:01:28.648607+00:00", 12024, "Your mother is", "snuffly", "Similar to: tearful", "Definition: liable to sniffle", "Synonyms: sniffly, snuffling"]}
