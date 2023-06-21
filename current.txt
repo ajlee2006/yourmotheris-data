@@ -1,1 +1,1 @@
-{"data": ["2023-06-21T01:01:42.386498+00:00", 12007, "Your mother is", "penny-pinching", "Similar to: stingy", "Definition: giving or spending with reluctance", "Synonyms: cheeseparing, close, near, skinny"]}
+{"data": ["2023-06-21T02:01:27.769112+00:00", 12008, "Your mother is", "powdered", "Pronunciation: /\u02c8pa\u028ad\u025drd/", "Definition: consisting of fine particles", "Synonyms: fine-grained, powdery, pulverised, pulverized, small-grained"]}
