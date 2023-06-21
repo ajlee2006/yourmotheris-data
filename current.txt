@@ -1,1 +1,1 @@
-{"data": ["2023-06-20T23:01:16.451846+00:00", 12005, "Your mother is", "unarmored", "Similar to: scaleless", "Definition: used of animals; without protective covering", "Synonyms: unarmoured"]}
+{"data": ["2023-06-21T00:01:43.339117+00:00", 12006, "Your mother is", "premonitory", "Pronunciation: /pr\u026a\u02c8m\u0251n\u026a\u02ccto\u028ari/", "Definition: warning of future misfortune", "Synonyms: precursory"]}
