@@ -1,1 +1,1 @@
-{"data": ["2023-06-21T14:01:35.853591+00:00", 12020, "Your mother is", "half-bred", "Pronunciation: /h\u00e6f-br\u025bd/", "Definition: (of animals) having only one purebred parent", "Synonyms: half-blooded, half-breed"]}
+{"data": ["2023-06-21T15:01:10.824829+00:00", 12021, "Your mother is", "famous", "Pronunciation: /\u02c8fe\u026am\u0259s/", "Definition: widely known and esteemed", "Synonyms: celebrated, famed, far-famed, illustrious, notable, noted, renowned"]}
