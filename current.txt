@@ -1,1 +1,1 @@
-{"data": ["2023-06-21T07:01:36.610721+00:00", 12013, "Your mother is", "ruly", "Similar to: tidy", "Definition: neat and tidy", ""]}
+{"data": ["2023-06-21T08:01:36.205750+00:00", 12014, "Your mother is", "barbellate", "Pronunciation: /\u02c8b\u0251rb\u0259\u02ccle\u026at/", "Definition: having or covered with protective barbs or quills or spines or thorns or setae etc.", "Synonyms: barbed, briary, briery, bristled, bristly, burred, burry, prickly, setaceous, setose, spiny, thorny"]}
