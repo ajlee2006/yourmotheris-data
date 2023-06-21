@@ -1,1 +1,1 @@
-{"data": ["2023-06-21T11:00:58.983545+00:00", 12017, "Your mother is", "double-barreled", "Pronunciation: /\u02c8d\u0259b\u0259l-\u02c8b\u00e6r\u0259ld/", "Definition: having two purposes; twofold", "Synonyms: double-barrelled"]}
+{"data": ["2023-06-21T12:01:36.569265+00:00", 12018, "Your mother is", "unproblematic", "Pronunciation: /\u02cc\u0259npr\u0251bl\u0259\u02c8m\u00e6t\u026ak/", "Definition: easy and not involved or complicated", "Synonyms: elementary, simple, uncomplicated"]}
