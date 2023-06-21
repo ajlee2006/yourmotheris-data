@@ -1,1 +1,1 @@
-{"data": ["2023-06-21T15:01:10.824829+00:00", 12021, "Your mother is", "famous", "Pronunciation: /\u02c8fe\u026am\u0259s/", "Definition: widely known and esteemed", "Synonyms: celebrated, famed, far-famed, illustrious, notable, noted, renowned"]}
+{"data": ["2023-06-21T16:01:17.981742+00:00", 12022, "Your mother is", "deadpan", "Pronunciation: /\u02c8d\u025bd\u02ccp\u00e6n/", "Definition: deliberately impassive in manner", "Synonyms: expressionless, impassive, poker-faced, unexpressive"]}
