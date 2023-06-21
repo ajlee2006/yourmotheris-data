@@ -1,1 +1,1 @@
-{"data": ["2023-06-21T03:01:22.157357+00:00", 12009, "Your mother is", "aureate", "Pronunciation: /\u02c8\u0254ri\u026at/", "Definition: elaborately or excessively ornamented", "Synonyms: flamboyant, florid"]}
+{"data": ["2023-06-21T04:01:29.486054+00:00", 12010, "Your mother is", "communistic", "", "Definition: relating to or marked by communism", "Synonyms: communist"]}
