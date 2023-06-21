@@ -1,1 +1,1 @@
-{"data": ["2023-06-21T02:01:27.769112+00:00", 12008, "Your mother is", "powdered", "Pronunciation: /\u02c8pa\u028ad\u025drd/", "Definition: consisting of fine particles", "Synonyms: fine-grained, powdery, pulverised, pulverized, small-grained"]}
+{"data": ["2023-06-21T03:01:22.157357+00:00", 12009, "Your mother is", "aureate", "Pronunciation: /\u02c8\u0254ri\u026at/", "Definition: elaborately or excessively ornamented", "Synonyms: flamboyant, florid"]}
