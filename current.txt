@@ -1,1 +1,1 @@
-{"data": ["2023-06-21T16:01:17.981742+00:00", 12022, "Your mother is", "deadpan", "Pronunciation: /\u02c8d\u025bd\u02ccp\u00e6n/", "Definition: deliberately impassive in manner", "Synonyms: expressionless, impassive, poker-faced, unexpressive"]}
+{"data": ["2023-06-21T17:01:21.197029+00:00", 12023, "Your mother is", "sure-fire", "Pronunciation: /\u0283\u028ar-fa\u026a\u0259r/", "Definition: certain to be successful", ""]}
