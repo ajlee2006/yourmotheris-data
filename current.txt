@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T05:01:22.931002+00:00", 12035, "Your mother is", "highly infective", "Similar to: virulent", "Definition: (of a microorganism) extremely infective", ""]}
+{"data": ["2023-06-22T06:01:23.829255+00:00", 12036, "Your mother is", "nubbly", "Pronunciation: /\u02c8n\u0259bli/", "Definition: of textiles; having a rough surface", "Synonyms: homespun, nubby, slubbed, tweedy"]}
