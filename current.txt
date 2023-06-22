@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T06:01:23.829255+00:00", 12036, "Your mother is", "nubbly", "Pronunciation: /\u02c8n\u0259bli/", "Definition: of textiles; having a rough surface", "Synonyms: homespun, nubby, slubbed, tweedy"]}
+{"data": ["2023-06-22T07:01:40.464643+00:00", 12037, "Your mother is", "bewildered", "Pronunciation: /b\u026a\u02c8w\u026ald\u025drd/", "Definition: perplexed by many conflicting situations or statements; filled with bewilderment", "Synonyms: at sea, baffled, befuddled, bemused, confounded, confused, lost, mazed, mixed-up"]}
