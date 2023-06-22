@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T07:01:40.464643+00:00", 12037, "Your mother is", "bewildered", "Pronunciation: /b\u026a\u02c8w\u026ald\u025drd/", "Definition: perplexed by many conflicting situations or statements; filled with bewilderment", "Synonyms: at sea, baffled, befuddled, bemused, confounded, confused, lost, mazed, mixed-up"]}
+{"data": ["2023-06-22T08:01:12.341371+00:00", 12038, "Your mother is", "ingratiating", "Pronunciation: /\u026an\u02c8gre\u026a\u0283i\u02cce\u026at\u026a\u014b/", "Definition: calculated to please or gain favor", "Synonyms: ingratiatory, insinuating"]}
