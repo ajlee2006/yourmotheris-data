@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T21:01:16.285753+00:00", 12051, "Your mother is", "uncoupled", "Similar to: unconnected", "Definition: having the coupling undone", ""]}
+{"data": ["2023-06-22T22:01:07.625752+00:00", 12052, "Your mother is", "grumbling", "Pronunciation: /\u02c8\u0261r\u028cmb\u028cl\u026a\u014b/", "Definition: continuous full and low-pitched throbbing sound", "Synonyms: rumbling"]}
