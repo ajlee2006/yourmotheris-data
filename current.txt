@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T02:00:55.679111+00:00", 12032, "Your mother is", "mottled", "Pronunciation: /\u02c8m\u0251t\u0259ld/", "Definition: having spots or patches of color", "Synonyms: dappled"]}
+{"data": ["2023-06-22T03:01:29.367450+00:00", 12033, "Your mother is", "unhygienic", "Similar to: insanitary", "Definition: unclean and constituting a likely cause of disease", ""]}
