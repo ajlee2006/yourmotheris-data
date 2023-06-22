@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T20:01:38.553144+00:00", 12050, "Your mother is", "electronegative", "Pronunciation: /\u026a\u02ccl\u025bktro\u028a\u02c8n\u025b\u0261\u0259t\u026av/", "Definition: having a negative charge", "Synonyms: negative, negatively charged"]}
+{"data": ["2023-06-22T21:01:16.285753+00:00", 12051, "Your mother is", "uncoupled", "Similar to: unconnected", "Definition: having the coupling undone", ""]}
