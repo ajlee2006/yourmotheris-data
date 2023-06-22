@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T19:01:31.105030+00:00", 12049, "Your mother is", "aligned", "Pronunciation: /\u028c\u02c8la\u026and/", "Definition: brought into agreement or cooperation on the side of a faction, party, or cause", ""]}
+{"data": ["2023-06-22T20:01:38.553144+00:00", 12050, "Your mother is", "electronegative", "Pronunciation: /\u026a\u02ccl\u025bktro\u028a\u02c8n\u025b\u0261\u0259t\u026av/", "Definition: having a negative charge", "Synonyms: negative, negatively charged"]}
