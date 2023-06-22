@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T08:01:12.341371+00:00", 12038, "Your mother is", "ingratiating", "Pronunciation: /\u026an\u02c8gre\u026a\u0283i\u02cce\u026at\u026a\u014b/", "Definition: calculated to please or gain favor", "Synonyms: ingratiatory, insinuating"]}
+{"data": ["2023-06-22T09:01:16.233596+00:00", 12039, "Your mother is", "decomposable", "Similar to: complex", "Definition: capable of being partitioned", "Synonyms: analyzable"]}
