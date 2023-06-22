@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T13:01:11.478411+00:00", 12043, "Your mother is", "roughish", "Pronunciation: /\u02c8r\u0259f\u026a\u0283/", "Definition: somewhat rough", ""]}
+{"data": ["2023-06-22T14:01:31.676769+00:00", 12044, "Your mother is", "fervent", "Pronunciation: /\u02c8f\u025crv\u0259nt/", "Definition: characterized by intense emotion", "Synonyms: ardent, fervid, fiery, impassioned, perfervid, torrid"]}
