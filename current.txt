@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T22:01:07.625752+00:00", 12052, "Your mother is", "grumbling", "Pronunciation: /\u02c8\u0261r\u028cmb\u028cl\u026a\u014b/", "Definition: continuous full and low-pitched throbbing sound", "Synonyms: rumbling"]}
+{"data": ["2023-06-22T23:01:17.691773+00:00", 12053, "Your mother is", "truthful", "Pronunciation: /\u02c8tru\u03b8f\u0259l/", "Definition: expressing or given to expressing the truth", "Synonyms: true"]}
