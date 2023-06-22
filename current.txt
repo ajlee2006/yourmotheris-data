@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T03:01:29.367450+00:00", 12033, "Your mother is", "unhygienic", "Similar to: insanitary", "Definition: unclean and constituting a likely cause of disease", ""]}
+{"data": ["2023-06-22T04:01:31.655163+00:00", 12034, "Your mother is", "punic", "Pronunciation: /\u02c8pjun\u026ak/", "Definition: of or relating to or characteristic of ancient Carthage or its people or their language", "Synonyms: carthaginian"]}
