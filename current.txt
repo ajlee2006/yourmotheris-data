@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T15:01:28.037834+00:00", 12045, "Your mother is", "viscometric", "Pronunciation: /\u02ccv\u026ask\u0259\u02c8m\u025btr\u026ak/", "Definition: of or relating to the measurement of viscosity", "Synonyms: viscosimetric"]}
+{"data": ["2023-06-22T16:01:10.934060+00:00", 12046, "Your mother is", "unshadowed", "Pronunciation: /\u0259n\u02c8\u0283\u00e6do\u028ad/", "Definition: not darkened or obscured by shadow", ""]}
