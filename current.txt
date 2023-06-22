@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T04:01:31.655163+00:00", 12034, "Your mother is", "punic", "Pronunciation: /\u02c8pjun\u026ak/", "Definition: of or relating to or characteristic of ancient Carthage or its people or their language", "Synonyms: carthaginian"]}
+{"data": ["2023-06-22T05:01:22.931002+00:00", 12035, "Your mother is", "highly infective", "Similar to: virulent", "Definition: (of a microorganism) extremely infective", ""]}
