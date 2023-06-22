@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T11:01:06.414837+00:00", 12041, "Your mother is", "dowdy", "Pronunciation: /\u02c8da\u028adi/", "Definition: primly out of date", "Synonyms: frumpish, frumpy"]}
+{"data": ["2023-06-22T12:01:18.136467+00:00", 12042, "Your mother is", "sri lankan", "", "Definition: of or relating to Sri Lanka (formerly Ceylon) or its people or culture", "Synonyms: ceylonese"]}
