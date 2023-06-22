@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T17:00:54.802464+00:00", 12047, "Your mother is", "infrared", "Pronunciation: /\u02cc\u026anfr\u0259\u02c8r\u025bd/", "Definition: having or employing wavelengths longer than light but shorter than radio waves; lying outside the visible spectrum at its red end", ""]}
+{"data": ["2023-06-22T18:01:29.265119+00:00", 12048, "Your mother is", "lentic", "Pronunciation: /\u02c8l\u025bnt\u026ak/", "Definition: of or relating to or living in still waters (as lakes or ponds)", ""]}
