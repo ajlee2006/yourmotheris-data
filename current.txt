@@ -1,1 +1,1 @@
-{"data": ["2023-06-23T12:00:52.543729+00:00", 12066, "Your mother is", "dilute", "Pronunciation: /d\u026a\u02c8lut/", "Definition: reduced in strength or concentration or quality or purity", "Synonyms: diluted"]}
+{"data": ["2023-06-23T13:01:34.605577+00:00", 12067, "Your mother is", "norse", "Pronunciation: /n\u0254rs/", "Definition: of or relating to Norway or its people or culture or language", "Synonyms: norwegian"]}
