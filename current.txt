@@ -1,1 +1,1 @@
-{"data": ["2023-06-23T20:01:17.070406+00:00", 12074, "Your mother is", "latent", "Pronunciation: /\u02c8le\u026at\u0259nt/", "Definition: (pathology) not presently active", ""]}
+{"data": ["2023-06-23T21:01:07.952630+00:00", 12075, "Your mother is", "accretionary", "Similar to: increasing", "Definition: marked or produced by accretion", ""]}
