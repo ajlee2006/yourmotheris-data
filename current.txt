@@ -1,1 +1,1 @@
-{"data": ["2023-06-23T11:01:14.687061+00:00", 12065, "Your mother is", "homologous", "Pronunciation: /h\u0259\u02c8m\u0251l\u0259\u0261\u0259s/", "Definition: having the same evolutionary origin but not necessarily the same function", ""]}
+{"data": ["2023-06-23T12:00:52.543729+00:00", 12066, "Your mother is", "dilute", "Pronunciation: /d\u026a\u02c8lut/", "Definition: reduced in strength or concentration or quality or purity", "Synonyms: diluted"]}
