@@ -1,1 +1,1 @@
-{"data": ["2023-06-22T23:01:17.691773+00:00", 12053, "Your mother is", "truthful", "Pronunciation: /\u02c8tru\u03b8f\u0259l/", "Definition: expressing or given to expressing the truth", "Synonyms: true"]}
+{"data": ["2023-06-23T00:02:15.680820+00:00", 12054, "Your mother is", "approbative", "Pronunciation: /\u02c8\u00e6pr\u0259\u02ccbe\u026at\u026av/", "Definition: expressing or manifesting praise or approval", "Synonyms: affirmative, approbatory, approving, plausive"]}
