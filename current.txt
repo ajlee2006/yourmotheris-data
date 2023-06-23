@@ -1,1 +1,1 @@
-{"data": ["2023-06-23T14:00:57.122316+00:00", 12068, "Your mother is", "oldish", "Similar to: old", "Definition: somewhat elderly", ""]}
+{"data": ["2023-06-23T15:00:56.394714+00:00", 12069, "Your mother is", "linguistic", "Pronunciation: /l\u026a\u014b\u02c8gw\u026ast\u026ak/", "Definition: consisting of or related to language", "Synonyms: lingual"]}
