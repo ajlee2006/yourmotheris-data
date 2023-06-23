@@ -1,1 +1,1 @@
-{"data": ["2023-06-23T01:01:32.234398+00:00", 12055, "Your mother is", "cured", "Pronunciation: /kj\u028ard/", "Definition: (used of rubber) treated by a chemical or physical process to improve its properties (hardness and strength and odor and elasticity)", "Synonyms: vulcanised, vulcanized"]}
+{"data": ["2023-06-23T02:01:21.908914+00:00", 12056, "Your mother is", "cacuminal", "Pronunciation: /k\u0259\u02c8kjum\u0259n\u0259l/", "Definition: pronounced with the tip of the tongue turned back toward the hard palate", "Synonyms: retroflex"]}
