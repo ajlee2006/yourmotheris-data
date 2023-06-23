@@ -1,1 +1,1 @@
-{"data": ["2023-06-23T02:01:21.908914+00:00", 12056, "Your mother is", "cacuminal", "Pronunciation: /k\u0259\u02c8kjum\u0259n\u0259l/", "Definition: pronounced with the tip of the tongue turned back toward the hard palate", "Synonyms: retroflex"]}
+{"data": ["2023-06-23T03:01:27.376093+00:00", 12057, "Your mother is", "ceremonious", "Pronunciation: /\u02ccs\u025br\u0259\u02c8mo\u028ani\u0259s/", "Definition: rigidly formal or bound by convention", "Synonyms: conventional"]}
