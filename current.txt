@@ -1,1 +1,1 @@
-{"data": ["2023-06-24T22:01:21.650091+00:00", 12100, "Your mother is", "fifteen", "Pronunciation: /\u02c8f\u026af\u02c8tin/", "Definition: being one more than fourteen", "Synonyms: 15, xv"]}
+{"data": ["2023-06-24T23:01:37.310898+00:00", 12101, "Your mother is", "accursed", "Pronunciation: /\u0259\u02c8k\u025crs\u026ad/", "Definition: under a curse", "Synonyms: accurst, maledict"]}
