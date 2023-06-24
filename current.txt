@@ -1,1 +1,1 @@
-{"data": ["2023-06-24T04:01:23.738829+00:00", 12082, "Your mother is", "unsung", "Pronunciation: /\u0259n\u02c8s\u0259\u014b/", "Definition: not famous or acclaimed", "Synonyms: obscure, unknown"]}
+{"data": ["2023-06-24T05:01:33.810110+00:00", 12083, "Your mother is", "tinkly", "Pronunciation: /\u02c8t\u026a\u014bkli/", "Definition: like the short high ringing sound of a small bell", "Synonyms: tinkling"]}
