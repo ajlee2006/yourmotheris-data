@@ -1,1 +1,1 @@
-{"data": ["2023-06-24T06:01:15.142512+00:00", 12084, "Your mother is", "stylish", "Pronunciation: /\u02c8sta\u026al\u026a\u0283/", "Definition: being or in accordance with current social fashions", "Synonyms: fashionable"]}
+{"data": ["2023-06-24T07:01:08.492773+00:00", 12085, "Your mother is", "anthropometrical", "", "Definition: of or relating to anthropometry", "Synonyms: anthropometric"]}
