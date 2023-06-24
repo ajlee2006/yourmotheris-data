@@ -1,1 +1,1 @@
-{"data": ["2023-06-24T19:01:17.599733+00:00", 12097, "Your mother is", "unspecific", "Similar to: general", "Definition: not detailed or specific", "Synonyms: broad"]}
+{"data": ["2023-06-24T20:01:24.385918+00:00", 12098, "Your mother is", "conserved", "Pronunciation: /k\u028cn\u02c8s\u025drvd/", "Definition: protected from harm or loss", ""]}
