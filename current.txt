@@ -1,1 +1,1 @@
-{"data": ["2023-06-24T14:01:09.176102+00:00", 12092, "Your mother is", "off-base", "Pronunciation: /\u0254f-be\u026as/", "Definition: located outside a military base", ""]}
+{"data": ["2023-06-24T15:01:26.360561+00:00", 12093, "Your mother is", "untapped", "Pronunciation: /\u0259n\u02c8t\u00e6pt/", "Definition: not drawn upon or used", ""]}
