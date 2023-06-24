@@ -1,1 +1,1 @@
-{"data": ["2023-06-24T08:00:51.854097+00:00", 12086, "Your mother is", "starving", "Pronunciation: /\u02c8st\u0251rv\u026a\u014b/", "Definition: suffering from lack of food", "Synonyms: starved"]}
+{"data": ["2023-06-24T09:01:25.782283+00:00", 12087, "Your mother is", "fathomable", "Pronunciation: /\u02c8f\u00e6\u00f0\u028cm\u028cb\u028cl/", "Definition: (of depth) capable of being sounded or measured for depth", "Synonyms: plumbable, soundable"]}
