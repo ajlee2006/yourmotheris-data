@@ -1,1 +1,1 @@
-{"data": ["2023-06-24T16:01:19.554711+00:00", 12094, "Your mother is", "inexplicit", "Pronunciation: /\u02cc\u026an\u026ak\u02c8spl\u026as\u026at/", "Definition: implied though not directly expressed; inherent in the nature of something", "Synonyms: implicit"]}
+{"data": ["2023-06-24T17:01:00.020317+00:00", 12095, "Your mother is", "sextuple", "Pronunciation: /s\u025bks\u02c8tup\u0259l/", "Definition: having six units or components", "Synonyms: six-fold, sixfold"]}
