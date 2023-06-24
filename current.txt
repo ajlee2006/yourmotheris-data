@@ -1,1 +1,1 @@
-{"data": ["2023-06-24T03:01:26.483329+00:00", 12081, "Your mother is", "erasable", "Pronunciation: /\u026a\u02c8re\u026as\u028cb\u028cl/", "Definition: capable of being effaced", "Synonyms: effaceable"]}
+{"data": ["2023-06-24T04:01:23.738829+00:00", 12082, "Your mother is", "unsung", "Pronunciation: /\u0259n\u02c8s\u0259\u014b/", "Definition: not famous or acclaimed", "Synonyms: obscure, unknown"]}
