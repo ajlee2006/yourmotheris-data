@@ -1,1 +1,1 @@
-{"data": ["2023-06-24T18:01:22.640316+00:00", 12096, "Your mother is", "recognised", "Similar to: constituted", "Definition: provided with a secure reputation", "Synonyms: recognized"]}
+{"data": ["2023-06-24T19:01:17.599733+00:00", 12097, "Your mother is", "unspecific", "Similar to: general", "Definition: not detailed or specific", "Synonyms: broad"]}
