@@ -1,1 +1,1 @@
-{"data": ["2023-06-24T12:01:02.141497+00:00", 12090, "Your mother is", "telepathic", "Pronunciation: /\u02cct\u025bl\u0259\u02c8p\u00e6\u03b8\u026ak/", "Definition: communicating without apparent physical signals", ""]}
+{"data": ["2023-06-24T13:01:31.523616+00:00", 12091, "Your mother is", "86", "Similar to: cardinal", "Definition: being six more than eighty", "Synonyms: eighty-six, lxxxvi"]}
