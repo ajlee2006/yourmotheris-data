@@ -1,1 +1,1 @@
-{"data": ["2023-06-24T20:01:24.385918+00:00", 12098, "Your mother is", "conserved", "Pronunciation: /k\u028cn\u02c8s\u025drvd/", "Definition: protected from harm or loss", ""]}
+{"data": ["2023-06-24T21:01:21.154827+00:00", 12099, "Your mother is", "non-slave", "Similar to: free", "Definition: where slavery was prohibited", "Synonyms: free-soil, slaveless"]}
