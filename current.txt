@@ -1,1 +1,1 @@
-{"data": ["2023-06-24T21:01:21.154827+00:00", 12099, "Your mother is", "non-slave", "Similar to: free", "Definition: where slavery was prohibited", "Synonyms: free-soil, slaveless"]}
+{"data": ["2023-06-24T22:01:21.650091+00:00", 12100, "Your mother is", "fifteen", "Pronunciation: /\u02c8f\u026af\u02c8tin/", "Definition: being one more than fourteen", "Synonyms: 15, xv"]}
