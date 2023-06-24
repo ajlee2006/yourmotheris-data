@@ -1,1 +1,1 @@
-{"data": ["2023-06-24T01:01:00.885460+00:00", 12079, "Your mother is", "unpronounceable", "Pronunciation: /\u02cc\u0259npr\u0259\u02c8n\u00e6\u028ans\u0259b\u0259l/", "Definition: very difficult to pronounce correctly", "Synonyms: unutterable"]}
+{"data": ["2023-06-24T02:01:33.509553+00:00", 12080, "Your mother is", "nonproprietary", "Similar to: generic", "Definition: not protected by trademark or patent or copyright", ""]}
