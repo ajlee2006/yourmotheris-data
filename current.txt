@@ -1,1 +1,1 @@
-{"data": ["2023-06-25T07:01:33.310624+00:00", 12109, "Your mother is", "one-eared", "Pronunciation: /w\u0259n-ird/", "Definition: having a single ear", ""]}
+{"data": ["2023-06-25T08:01:33.233286+00:00", 12110, "Your mother is", "edified", "Similar to: enlightened", "Definition: instructed and encouraged in moral, intellectual, and spiritual improvement", ""]}
