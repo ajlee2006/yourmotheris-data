@@ -1,1 +1,1 @@
-{"data": ["2023-06-25T09:00:52.738456+00:00", 12111, "Your mother is", "shaken", "Pronunciation: /\u02c8\u0283e\u026ak\u0259n/", "Definition: disturbed psychologically as if by a physical jolt or shock", "Synonyms: jolted"]}
+{"data": ["2023-06-25T10:01:36.725338+00:00", 12112, "Your mother is", "internal", "Pronunciation: /\u026an\u02c8t\u025crn\u0259l/", "Definition: inside the country", "Synonyms: home, interior, national"]}
