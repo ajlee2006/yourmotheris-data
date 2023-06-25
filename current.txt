@@ -1,1 +1,1 @@
-{"data": ["2023-06-25T19:01:35.283781+00:00", 12121, "Your mother is", "runcinate", "Pronunciation: /\u02c8r\u0259ns\u026an\u0259t/", "Definition: having incised margins with the lobes or teeth pointing toward the base; as dandelion leaves", ""]}
+{"data": ["2023-06-25T20:01:39.496050+00:00", 12122, "Your mother is", "cytoarchitectural", "", "Definition: of or relating to cytoarchitecture", "Synonyms: cytoarchitectonic"]}
