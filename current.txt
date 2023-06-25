@@ -1,1 +1,1 @@
-{"data": ["2023-06-25T01:01:29.493457+00:00", 12103, "Your mother is", "deadening", "Pronunciation: /\u02c8d\u025bd\u0259n\u026a\u014b/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: boring, dull, ho-hum, irksome, slow, tedious, tiresome, wearisome"]}
+{"data": ["2023-06-25T02:01:00.001502+00:00", 12104, "Your mother is", "tasseled", "Pronunciation: /\u02c8t\u00e6s\u028cld/", "Definition: fringed or adorned with tassels", "Synonyms: tasselled"]}
