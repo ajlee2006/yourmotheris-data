@@ -1,1 +1,1 @@
-{"data": ["2023-06-25T10:01:36.725338+00:00", 12112, "Your mother is", "internal", "Pronunciation: /\u026an\u02c8t\u025crn\u0259l/", "Definition: inside the country", "Synonyms: home, interior, national"]}
+{"data": ["2023-06-25T11:01:05.870352+00:00", 12113, "Your mother is", "prepaid", "Pronunciation: /pri\u02c8pe\u026ad/", "Definition: used especially of mail; paid in advance", "Synonyms: postpaid"]}
