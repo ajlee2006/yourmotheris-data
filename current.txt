@@ -1,1 +1,1 @@
-{"data": ["2023-06-24T23:01:37.310898+00:00", 12101, "Your mother is", "accursed", "Pronunciation: /\u0259\u02c8k\u025crs\u026ad/", "Definition: under a curse", "Synonyms: accurst, maledict"]}
+{"data": ["2023-06-25T00:02:04.694554+00:00", 12102, "Your mother is", "perfidious", "Pronunciation: /p\u0259r\u02c8f\u026adi\u0259s/", "Definition: tending to betray; especially having a treacherous character as attributed to the Carthaginians by the Romans", "Synonyms: punic, treacherous"]}
