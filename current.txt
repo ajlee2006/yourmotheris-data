@@ -1,1 +1,1 @@
-{"data": ["2023-06-25T02:01:00.001502+00:00", 12104, "Your mother is", "tasseled", "Pronunciation: /\u02c8t\u00e6s\u028cld/", "Definition: fringed or adorned with tassels", "Synonyms: tasselled"]}
+{"data": ["2023-06-25T03:01:18.061146+00:00", 12105, "Your mother is", "bullish", "Pronunciation: /\u02c8b\u028al\u026a\u0283/", "Definition: expecting a rise in prices", ""]}
