@@ -1,1 +1,1 @@
-{"data": ["2023-06-25T03:01:18.061146+00:00", 12105, "Your mother is", "bullish", "Pronunciation: /\u02c8b\u028al\u026a\u0283/", "Definition: expecting a rise in prices", ""]}
+{"data": ["2023-06-25T04:01:11.575758+00:00", 12106, "Your mother is", "bituminoid", "Pronunciation: /b\u026a\u02c8tum\u0259\u02ccn\u0254\u026ad/", "Definition: like bitumen", "Synonyms: bitumenoid"]}
