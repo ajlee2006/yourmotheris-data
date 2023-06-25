@@ -1,1 +1,1 @@
-{"data": ["2023-06-25T17:01:38.399745+00:00", 12119, "Your mother is", "material", "Pronunciation: /m\u0259\u02c8tiri\u0259l/", "Definition: having substance or capable of being treated as fact; not imaginary", "Synonyms: real, substantial"]}
+{"data": ["2023-06-25T18:00:56.519549+00:00", 12120, "Your mother is", "prox", "Similar to: future", "Definition: in or of the next month after the present", "Synonyms: proximo"]}
