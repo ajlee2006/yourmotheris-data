@@ -1,1 +1,1 @@
-{"data": ["2023-06-25T16:01:33.066468+00:00", 12118, "Your mother is", "gory", "Pronunciation: /\u02c8\u0261o\u028ari/", "Definition: covered with blood", "Synonyms: bloodstained"]}
+{"data": ["2023-06-25T17:01:38.399745+00:00", 12119, "Your mother is", "material", "Pronunciation: /m\u0259\u02c8tiri\u0259l/", "Definition: having substance or capable of being treated as fact; not imaginary", "Synonyms: real, substantial"]}
