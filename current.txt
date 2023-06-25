@@ -1,1 +1,1 @@
-{"data": ["2023-06-25T14:00:59.884474+00:00", 12116, "Your mother is", "unpleasing", "Pronunciation: /\u0259n\u02c8plizi\u014b/", "Definition: unpleasant or disagreeable to the senses", ""]}
+{"data": ["2023-06-25T15:01:30.013894+00:00", 12117, "Your mother is", "umteenth", "Pronunciation: /\u02c8\u0259m\u02c8tin\u03b8/", "Definition: last in an indefinitely numerous series", "Synonyms: umpteenth, umptieth"]}
