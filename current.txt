@@ -1,1 +1,1 @@
-{"data": ["2023-06-25T12:01:14.192015+00:00", 12114, "Your mother is", "diacritic", "Pronunciation: /\u02ccda\u026a\u0259\u02c8kr\u026at\u026ak/", "Definition: capable of distinguishing", "Synonyms: diacritical"]}
+{"data": ["2023-06-25T13:01:31.774739+00:00", 12115, "Your mother is", "fumbling", "Pronunciation: /\u02c8f\u028cmb\u028cl\u026a\u014b/", "Definition: showing lack of skill or aptitude", "Synonyms: bungling, clumsy, incompetent"]}
