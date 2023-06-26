@@ -1,1 +1,1 @@
-{"data": ["2023-06-26T14:01:40.432605+00:00", 12140, "Your mother is", "fragmentary", "Pronunciation: /\u02c8fr\u00e6gm\u0259n\u02cct\u025bri/", "Definition: consisting of small disconnected parts", "Synonyms: fragmental"]}
+{"data": ["2023-06-26T15:01:04.008360+00:00", 12141, "Your mother is", "indispensable", "Pronunciation: /\u02cc\u026and\u026a\u02c8sp\u025bns\u0259b\u0259l/", "Definition: absolutely necessary; vitally necessary", "Synonyms: essential"]}
