@@ -1,1 +1,1 @@
-{"data": ["2023-06-26T00:01:52.132655+00:00", 12126, "Your mother is", "uninventive", "Pronunciation: /\u02cc\u0259n\u026an\u02c8v\u025bnt\u026av/", "Definition: deficient in originality or creativity; lacking powers of invention", "Synonyms: sterile, unimaginative, uninspired"]}
+{"data": ["2023-06-26T01:01:35.847764+00:00", 12127, "Your mother is", "ventilated", "Pronunciation: /\u02c8v\u025bnt\u028c\u02ccle\u026at\u026ad/", "Definition: exposed to air", ""]}
