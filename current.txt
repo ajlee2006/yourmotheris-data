@@ -1,1 +1,1 @@
-{"data": ["2023-06-26T03:01:34.586456+00:00", 12129, "Your mother is", "cyprian", "Pronunciation: /\u02c8s\u026apri\u0259n/", "Definition: of or relating to Cyprus or its people or culture", "Synonyms: cypriot, cypriote"]}
+{"data": ["2023-06-26T04:01:29.623400+00:00", 12130, "Your mother is", "take-home", "Pronunciation: /te\u026ak-ho\u028am/", "Definition: (of salary or wages) remaining after all deductions including taxes", ""]}
