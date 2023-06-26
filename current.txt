@@ -1,1 +1,1 @@
-{"data": ["2023-06-26T22:01:41.197540+00:00", 12148, "Your mother is", "self-aggrandizing", "Pronunciation: /\u02c8s\u025blf\u0259\u02c8gr\u00e6nda\u026az\u026a\u014b/", "Definition: of or relating to or characteristic of self-aggrandizement", "Synonyms: self-aggrandising"]}
+{"data": ["2023-06-26T23:01:09.466145+00:00", 12149, "Your mother is", "latin", "Pronunciation: /\u02c8l\u00e6t\u0259n/", "Definition: relating to languages derived from Latin", "Synonyms: romance"]}
