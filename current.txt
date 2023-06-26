@@ -1,1 +1,1 @@
-{"data": ["2023-06-26T09:01:16.508279+00:00", 12135, "Your mother is", "nationwide", "Pronunciation: /\u02c8ne\u026a\u0283\u0259n\u02ccwa\u026ad/", "Definition: occurring or extending throughout a country or nation", "Synonyms: countrywide"]}
+{"data": ["2023-06-26T10:01:27.732647+00:00", 12136, "Your mother is", "pan-hellenic", "", "Definition: of or relating to all the Greeks", "Synonyms: panhellenic"]}
