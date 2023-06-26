@@ -1,1 +1,1 @@
-{"data": ["2023-06-26T07:01:04.960606+00:00", 12133, "Your mother is", "dateable", "", "Definition: that can be given a date", "Synonyms: datable"]}
+{"data": ["2023-06-26T08:01:35.165610+00:00", 12134, "Your mother is", "glutinous", "Pronunciation: /\u02c8glut\u0259n\u0259s/", "Definition: having the sticky properties of an adhesive", "Synonyms: gluey, gummy, mucilaginous, pasty, sticky, viscid, viscous"]}
