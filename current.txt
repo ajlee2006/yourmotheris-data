@@ -1,1 +1,1 @@
-{"data": ["2023-06-26T13:01:31.798406+00:00", 12139, "Your mother is", "hundred-and-forty-fifth", "Similar to: ordinal", "Definition: the ordinal number of one hundred forty-five in counting order", "Synonyms: 145th"]}
+{"data": ["2023-06-26T14:01:40.432605+00:00", 12140, "Your mother is", "fragmentary", "Pronunciation: /\u02c8fr\u00e6gm\u0259n\u02cct\u025bri/", "Definition: consisting of small disconnected parts", "Synonyms: fragmental"]}
