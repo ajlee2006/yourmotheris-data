@@ -1,1 +1,1 @@
-{"data": ["2023-06-26T11:01:11.967357+00:00", 12137, "Your mother is", "xxxvi", "Similar to: cardinal", "Definition: being six more than thirty", "Synonyms: 36, thirty-six"]}
+{"data": ["2023-06-26T12:00:55.076784+00:00", 12138, "Your mother is", "unarticulated", "Pronunciation: /\u02cc\u0259n\u0251r\u02c8t\u026akj\u028a\u02ccle\u026at\u026ad/", "Definition: not consisting of segments that are held together by joints", ""]}
