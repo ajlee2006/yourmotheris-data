@@ -1,1 +1,1 @@
-{"data": ["2023-06-26T20:01:24.054224+00:00", 12146, "Your mother is", "pentamerous", "Pronunciation: /p\u025bn\u02c8t\u00e6m\u0259r\u0259s/", "Definition: divided into five parts; specifically, having each floral whorl consist of five (or a multiple of five) members", ""]}
+{"data": ["2023-06-26T21:01:20.703449+00:00", 12147, "Your mother is", "putrescible", "Pronunciation: /pju\u02c8tr\u025bs\u0259b\u0259l/", "Definition: liable to decay or spoil or become putrid", "Synonyms: decayable, putrefiable, spoilable"]}
