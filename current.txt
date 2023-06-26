@@ -1,1 +1,1 @@
-{"data": ["2023-06-26T01:01:35.847764+00:00", 12127, "Your mother is", "ventilated", "Pronunciation: /\u02c8v\u025bnt\u028c\u02ccle\u026at\u026ad/", "Definition: exposed to air", ""]}
+{"data": ["2023-06-26T02:01:36.924716+00:00", 12128, "Your mother is", "tactile", "Pronunciation: /\u02c8t\u00e6kt\u026al/", "Definition: of or relating to or proceeding from the sense of touch", "Synonyms: haptic, tactual"]}
