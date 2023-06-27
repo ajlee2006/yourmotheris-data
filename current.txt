@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T16:01:06.008155+00:00", 12166, "Your mother is", "active", "Pronunciation: /\u02c8\u00e6kt\u026av/", "Definition: engaged in or ready for military or naval operations", "Synonyms: combat-ready, fighting"]}
+{"data": ["2023-06-27T17:01:12.800925+00:00", 12167, "Your mother is", "ambagious", "Pronunciation: /\u00e6m\u02c8be\u026ad\u0292\u0259s/", "Definition: roundabout and unnecessarily wordy", "Synonyms: circumlocutious, circumlocutory, periphrastic"]}
