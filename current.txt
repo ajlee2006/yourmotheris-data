@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T12:01:25.131533+00:00", 12162, "Your mother is", "romanist", "Pronunciation: /\u02c8ro\u028am\u0259n\u026ast/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, papistical, popish, r.c., roman, roman catholic, romish"]}
+{"data": ["2023-06-27T13:01:16.612365+00:00", 12163, "Your mother is", "offsides", "", "Definition: illegally beyond a prescribed line or area or ahead of the ball or puck", "Synonyms: offside"]}
