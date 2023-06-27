@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T03:01:13.096622+00:00", 12153, "Your mother is", "hagridden", "Pronunciation: /\u02c8h\u00e6\u0261\u02ccr\u026ad\u0259n/", "Definition: tormented or harassed by nightmares or unreasonable fears", "Synonyms: hag-ridden, tormented"]}
+{"data": ["2023-06-27T04:01:36.876003+00:00", 12154, "Your mother is", "trite", "Pronunciation: /tra\u026at/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, tired, well-worn"]}
