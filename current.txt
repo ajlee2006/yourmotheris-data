@@ -1,1 +1,1 @@
-{"data": ["2023-06-26T23:01:09.466145+00:00", 12149, "Your mother is", "latin", "Pronunciation: /\u02c8l\u00e6t\u0259n/", "Definition: relating to languages derived from Latin", "Synonyms: romance"]}
+{"data": ["2023-06-27T00:01:50.705510+00:00", 12150, "Your mother is", "at sea", "Similar to: perplexed", "Definition: perplexed by many conflicting situations or statements; filled with bewilderment", "Synonyms: baffled, befuddled, bemused, bewildered, confounded, confused, lost, mazed, mixed-up"]}
