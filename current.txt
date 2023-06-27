@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T21:01:31.548860+00:00", 12171, "Your mother is", "stagey", "Pronunciation: /\u02c8ste\u026ad\u0292i/", "Definition: having characteristics of the stage especially an artificial and mannered quality", "Synonyms: stagy"]}
+{"data": ["2023-06-27T22:01:18.742156+00:00", 12172, "Your mother is", "matriarchal", "Pronunciation: /\u02ccme\u026atri\u02c8\u0251rk\u028cl/", "Definition: characteristic of a matriarchy", ""]}
