@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T04:01:36.876003+00:00", 12154, "Your mother is", "trite", "Pronunciation: /tra\u026at/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, timeworn, tired, well-worn"]}
+{"data": ["2023-06-27T05:01:19.564432+00:00", 12155, "Your mother is", "in store", "Similar to: future", "Definition: in readiness; awaiting", ""]}
