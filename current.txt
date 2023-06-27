@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T19:01:23.407700+00:00", 12169, "Your mother is", "uninvited", "Pronunciation: /\u02cc\u0259n\u026an\u02c8va\u026at\u026ad/", "Definition: (of a person) not having been invited", ""]}
+{"data": ["2023-06-27T20:01:17.706370+00:00", 12170, "Your mother is", "noiseless", "Pronunciation: /\u02c8n\u0254\u026azl\u026as/", "Definition: making no sound", ""]}
