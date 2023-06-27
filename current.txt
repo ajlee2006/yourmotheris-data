@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T08:01:15.681451+00:00", 12158, "Your mother is", "softish", "Pronunciation: /\u02c8s\u0254ft\u026a\u0283/", "Definition: somewhat soft", "Synonyms: semisoft"]}
+{"data": ["2023-06-27T09:01:03.837620+00:00", 12159, "Your mother is", "nonindulgent", "Similar to: austere", "Definition: characterized by strictness, severity, or restraint", "Synonyms: strict"]}
