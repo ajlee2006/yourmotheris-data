@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T22:01:18.742156+00:00", 12172, "Your mother is", "matriarchal", "Pronunciation: /\u02ccme\u026atri\u02c8\u0251rk\u028cl/", "Definition: characteristic of a matriarchy", ""]}
+{"data": ["2023-06-27T23:01:19.950330+00:00", 12173, "Your mother is", "relative", "Pronunciation: /\u02c8r\u025bl\u0259t\u026av/", "Definition: properly related in size or degree or other measurable characteristics; usually followed by `to'", "Synonyms: proportional"]}
