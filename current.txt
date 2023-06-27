@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T07:00:55.705082+00:00", 12157, "Your mother is", "full", "Pronunciation: /f\u028al/", "Definition: constituting the full quantity or extent; complete", "Synonyms: entire, total"]}
+{"data": ["2023-06-27T08:01:15.681451+00:00", 12158, "Your mother is", "softish", "Pronunciation: /\u02c8s\u0254ft\u026a\u0283/", "Definition: somewhat soft", "Synonyms: semisoft"]}
