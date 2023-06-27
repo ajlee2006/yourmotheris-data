@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T17:01:12.800925+00:00", 12167, "Your mother is", "ambagious", "Pronunciation: /\u00e6m\u02c8be\u026ad\u0292\u0259s/", "Definition: roundabout and unnecessarily wordy", "Synonyms: circumlocutious, circumlocutory, periphrastic"]}
+{"data": ["2023-06-27T18:01:21.773440+00:00", 12168, "Your mother is", "unadapted", "Similar to: maladjusted", "Definition: not having adapted to new conditions", "Synonyms: unadjusted"]}
