@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T11:01:01.738712+00:00", 12161, "Your mother is", "mensurable", "Pronunciation: /\u02c8m\u025bn\u0283\u0259r\u0259b\u0259l/", "Definition: having notes of fixed rhythmic value", "Synonyms: measured, mensural"]}
+{"data": ["2023-06-27T12:01:25.131533+00:00", 12162, "Your mother is", "romanist", "Pronunciation: /\u02c8ro\u028am\u0259n\u026ast/", "Definition: of or relating to or supporting Romanism", "Synonyms: papist, papistic, papistical, popish, r.c., roman, roman catholic, romish"]}
