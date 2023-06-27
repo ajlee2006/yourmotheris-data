@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T00:01:50.705510+00:00", 12150, "Your mother is", "at sea", "Similar to: perplexed", "Definition: perplexed by many conflicting situations or statements; filled with bewilderment", "Synonyms: baffled, befuddled, bemused, bewildered, confounded, confused, lost, mazed, mixed-up"]}
+{"data": ["2023-06-27T01:01:09.266167+00:00", 12151, "Your mother is", "miasmal", "Similar to: cloudy", "Definition: filled with vapor", "Synonyms: miasmic, vaporous, vapourous"]}
