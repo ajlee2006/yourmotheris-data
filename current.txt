@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T10:01:22.993622+00:00", 12160, "Your mother is", "earthy", "Pronunciation: /\u02c8\u025cr\u03b8i/", "Definition: conspicuously and tastelessly indecent", "Synonyms: crude, gross, vulgar"]}
+{"data": ["2023-06-27T11:01:01.738712+00:00", 12161, "Your mother is", "mensurable", "Pronunciation: /\u02c8m\u025bn\u0283\u0259r\u0259b\u0259l/", "Definition: having notes of fixed rhythmic value", "Synonyms: measured, mensural"]}
