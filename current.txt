@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T14:01:14.605253+00:00", 12164, "Your mother is", "half-and-half", "Pronunciation: /\u02c8h\u00e6f\u0259n-\u02c8h\u00e6f/", "Definition: in equal parts", ""]}
+{"data": ["2023-06-27T15:01:38.503363+00:00", 12165, "Your mother is", "leglike", "Similar to: legged", "Definition: resembling or functioning like a leg", ""]}
