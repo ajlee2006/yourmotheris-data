@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T20:01:17.706370+00:00", 12170, "Your mother is", "noiseless", "Pronunciation: /\u02c8n\u0254\u026azl\u026as/", "Definition: making no sound", ""]}
+{"data": ["2023-06-27T21:01:31.548860+00:00", 12171, "Your mother is", "stagey", "Pronunciation: /\u02c8ste\u026ad\u0292i/", "Definition: having characteristics of the stage especially an artificial and mannered quality", "Synonyms: stagy"]}
