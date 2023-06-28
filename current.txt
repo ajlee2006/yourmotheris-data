@@ -1,1 +1,1 @@
-{"data": ["2023-06-28T05:01:32.041633+00:00", 12179, "Your mother is", "atonic", "Pronunciation: /\u0259\u02c8t\u0251n\u026ak/", "Definition: (used of syllables) carrying no stress", "Synonyms: unaccented"]}
+{"data": ["2023-06-28T06:01:31.600549+00:00", 12180, "Your mother is", "technical-grade", "Similar to: impure", "Definition: containing small amounts of other chemicals, hence slightly impure", "Synonyms: technical grade"]}
