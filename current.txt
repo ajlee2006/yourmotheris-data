@@ -1,1 +1,1 @@
-{"data": ["2023-06-28T00:02:19.088787+00:00", 12174, "Your mother is", "contemptuous", "Pronunciation: /k\u0259n\u02c8t\u025bmp\u02a7u\u0259s/", "Definition: expressing extreme contempt", "Synonyms: disdainful, insulting, scornful"]}
+{"data": ["2023-06-28T01:01:18.832102+00:00", 12175, "Your mother is", "kept", "Pronunciation: /k\u025bpt/", "Definition: (especially of promises or contracts) not violated or disregarded", "Synonyms: unbroken"]}
