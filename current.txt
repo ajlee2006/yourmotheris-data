@@ -1,1 +1,1 @@
-{"data": ["2023-06-27T23:01:19.950330+00:00", 12173, "Your mother is", "relative", "Pronunciation: /\u02c8r\u025bl\u0259t\u026av/", "Definition: properly related in size or degree or other measurable characteristics; usually followed by `to'", "Synonyms: proportional"]}
+{"data": ["2023-06-28T00:02:19.088787+00:00", 12174, "Your mother is", "contemptuous", "Pronunciation: /k\u0259n\u02c8t\u025bmp\u02a7u\u0259s/", "Definition: expressing extreme contempt", "Synonyms: disdainful, insulting, scornful"]}
