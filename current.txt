@@ -1,1 +1,1 @@
-{"data": ["2023-06-28T13:01:13.566622+00:00", 12187, "Your mother is", "gangly", "Pronunciation: /\u0261\u00e6\u014bli/", "Definition: tall and thin and having long slender limbs", "Synonyms: gangling, lanky, rangy"]}
+{"data": ["2023-06-28T14:01:02.259640+00:00", 12188, "Your mother is", "rejective", "Similar to: dismissive", "Definition: rejecting or tending to reject", ""]}
