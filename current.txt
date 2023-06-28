@@ -1,1 +1,1 @@
-{"data": ["2023-06-28T12:01:38.201565+00:00", 12186, "Your mother is", "stocked", "Pronunciation: /st\u0251kt/", "Definition: furnished with more than enough", "Synonyms: stocked with"]}
+{"data": ["2023-06-28T13:01:13.566622+00:00", 12187, "Your mother is", "gangly", "Pronunciation: /\u0261\u00e6\u014bli/", "Definition: tall and thin and having long slender limbs", "Synonyms: gangling, lanky, rangy"]}
