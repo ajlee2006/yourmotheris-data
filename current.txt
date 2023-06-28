@@ -1,1 +1,1 @@
-{"data": ["2023-06-28T08:00:58.590193+00:00", 12182, "Your mother is", "technological", "Pronunciation: /\u02cct\u025bkn\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: of or relating to a practical subject that is organized according to scientific principles", "Synonyms: technical"]}
+{"data": ["2023-06-28T09:01:06.673222+00:00", 12183, "Your mother is", "deterministic", "Pronunciation: /d\u026a\u02cct\u025drm\u028c\u02c8n\u026ast\u026ak/", "Definition: an inevitable consequence of antecedent sufficient causes", ""]}
