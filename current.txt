@@ -1,1 +1,1 @@
-{"data": ["2023-06-28T21:01:23.698213+00:00", 12195, "Your mother is", "pentagonal", "Pronunciation: /p\u025bn\u02c8t\u00e6\u0261\u0259n\u0259l/", "Definition: of or relating to or shaped like a pentagon", "Synonyms: pentangular"]}
+{"data": ["2023-06-28T22:01:22.766573+00:00", 12196, "Your mother is", "pecuniary", "Pronunciation: /p\u026a\u02c8kjuni\u02cc\u025bri/", "Definition: relating to or involving money", "Synonyms: monetary"]}
