@@ -1,1 +1,1 @@
-{"data": ["2023-06-28T09:01:06.673222+00:00", 12183, "Your mother is", "deterministic", "Pronunciation: /d\u026a\u02cct\u025drm\u028c\u02c8n\u026ast\u026ak/", "Definition: an inevitable consequence of antecedent sufficient causes", ""]}
+{"data": ["2023-06-28T10:01:33.106755+00:00", 12184, "Your mother is", "parentless", "Similar to: fatherless", "Definition: having no parent or parents or not cared for by parent surrogates", "Synonyms: unparented"]}
