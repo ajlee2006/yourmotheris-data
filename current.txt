@@ -1,1 +1,1 @@
-{"data": ["2023-06-28T10:01:33.106755+00:00", 12184, "Your mother is", "parentless", "Similar to: fatherless", "Definition: having no parent or parents or not cared for by parent surrogates", "Synonyms: unparented"]}
+{"data": ["2023-06-28T11:01:26.537240+00:00", 12185, "Your mother is", "unforethoughtful", "Similar to: improvident", "Definition: lacking forethought", ""]}
