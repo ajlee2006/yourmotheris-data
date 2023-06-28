@@ -1,1 +1,1 @@
-{"data": ["2023-06-28T20:01:01.128162+00:00", 12194, "Your mother is", "tightfitting", "Similar to: tight", "Definition: fitting snugly", "Synonyms: skinny, tight-fitting, tight fitting, tightly fitting"]}
+{"data": ["2023-06-28T21:01:23.698213+00:00", 12195, "Your mother is", "pentagonal", "Pronunciation: /p\u025bn\u02c8t\u00e6\u0261\u0259n\u0259l/", "Definition: of or relating to or shaped like a pentagon", "Synonyms: pentangular"]}
