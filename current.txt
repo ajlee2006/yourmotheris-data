@@ -1,1 +1,1 @@
-{"data": ["2023-06-29T05:01:24.237866+00:00", 12203, "Your mother is", "skeptical", "Pronunciation: /\u02c8sk\u025bpt\u026ak\u0259l/", "Definition: marked by or given to doubt", "Synonyms: doubting, questioning, sceptical"]}
+{"data": ["2023-06-29T06:01:05.671450+00:00", 12204, "Your mother is", "silvery", "Pronunciation: /\u02c8s\u026alv\u0259ri/", "Definition: resembling or reminiscent of silver", "Synonyms: silvern"]}
