@@ -1,1 +1,1 @@
-{"data": ["2023-06-29T00:02:12.934298+00:00", 12198, "Your mother is", "catchpenny", "Pronunciation: /\u02c8k\u00e6\u02a7\u02ccp\u025bni/", "Definition: designed to sell quickly without concern for quality", ""]}
+{"data": ["2023-06-29T01:01:29.165173+00:00", 12199, "Your mother is", "abaxial", "Pronunciation: /\u00e6b\u02c8\u00e6ksi\u0259l/", "Definition: facing away from the axis of an organ or organism", "Synonyms: dorsal"]}
