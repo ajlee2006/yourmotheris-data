@@ -1,1 +1,1 @@
-{"data": ["2023-06-29T07:01:21.723494+00:00", 12205, "Your mother is", "ethnographic", "Pronunciation: /\u02cc\u025b\u03b8n\u0259\u02c8gr\u00e6f\u026ak/", "Definition: of or relating to ethnography", "Synonyms: ethnographical"]}
+{"data": ["2023-06-29T08:01:03.623719+00:00", 12206, "Your mother is", "demonstrable", "Pronunciation: /d\u026a\u02c8m\u0251nstr\u0259b\u0259l/", "Definition: capable of being demonstrated or proved", "Synonyms: provable"]}
