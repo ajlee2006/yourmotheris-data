@@ -1,1 +1,1 @@
-{"data": ["2023-06-29T01:01:29.165173+00:00", 12199, "Your mother is", "abaxial", "Pronunciation: /\u00e6b\u02c8\u00e6ksi\u0259l/", "Definition: facing away from the axis of an organ or organism", "Synonyms: dorsal"]}
+{"data": ["2023-06-29T02:01:26.219193+00:00", 12200, "Your mother is", "non-poisonous", "Pronunciation: /n\u0251n\u02c8p\u0254\u026az\u0259n\u0259s/", "Definition: safe to eat", "Synonyms: nonpoisonous, nontoxic"]}
