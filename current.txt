@@ -1,1 +1,1 @@
-{"data": ["2023-06-29T02:01:26.219193+00:00", 12200, "Your mother is", "non-poisonous", "Pronunciation: /n\u0251n\u02c8p\u0254\u026az\u0259n\u0259s/", "Definition: safe to eat", "Synonyms: nonpoisonous, nontoxic"]}
+{"data": ["2023-06-29T03:00:56.486456+00:00", 12201, "Your mother is", "propitiative", "Similar to: conciliative", "Definition: intended to reconcile or appease", "Synonyms: propitiatory"]}
