@@ -1,1 +1,1 @@
-{"data": ["2023-06-29T12:01:23.707348+00:00", 12210, "Your mother is", "detergent", "Pronunciation: /d\u026a\u02c8t\u025crd\u0292\u0259nt/", "Definition: having cleansing power", "Synonyms: detersive"]}
+{"data": ["2023-06-29T13:00:51.981410+00:00", 12211, "Your mother is", "sunny-side up", "Pronunciation: /\u02c8s\u0259ni-\u02ccsa\u026ad/", "Definition: (eggs) fried on only one side", ""]}
