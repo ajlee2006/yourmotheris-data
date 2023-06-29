@@ -1,1 +1,1 @@
-{"data": ["2023-06-29T10:01:17.224118+00:00", 12208, "Your mother is", "rust-red", "Pronunciation: /r\u0259st-r\u025bd/", "Definition: of a red color tinged with rust", "Synonyms: rusty-red"]}
+{"data": ["2023-06-29T11:01:05.733726+00:00", 12209, "Your mother is", "afflicted", "Pronunciation: /\u028c\u02c8fl\u026akt\u028cd/", "Definition: mentally or physically unfit", "Synonyms: impaired"]}
