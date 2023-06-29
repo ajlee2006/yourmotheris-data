@@ -1,1 +1,1 @@
-{"data": ["2023-06-29T04:01:12.299143+00:00", 12202, "Your mother is", "hypochondriacal", "Pronunciation: /\u02ccha\u026apo\u028ak\u0251n\u02c8dra\u026a\u0259k\u0259l/", "Definition: suffering from hypochondria", "Synonyms: hypochondriac"]}
+{"data": ["2023-06-29T05:01:24.237866+00:00", 12203, "Your mother is", "skeptical", "Pronunciation: /\u02c8sk\u025bpt\u026ak\u0259l/", "Definition: marked by or given to doubt", "Synonyms: doubting, questioning, sceptical"]}
