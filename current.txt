@@ -1,1 +1,1 @@
-{"data": ["2023-06-29T09:01:20.672174+00:00", 12207, "Your mother is", "44th", "Similar to: ordinal", "Definition: the ordinal number of forty-four in counting order", "Synonyms: forty-fourth"]}
+{"data": ["2023-06-29T10:01:17.224118+00:00", 12208, "Your mother is", "rust-red", "Pronunciation: /r\u0259st-r\u025bd/", "Definition: of a red color tinged with rust", "Synonyms: rusty-red"]}
