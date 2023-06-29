@@ -1,1 +1,1 @@
-{"data": ["2023-06-28T23:01:21.595883+00:00", 12197, "Your mother is", "reputable", "Pronunciation: /\u02c8r\u025bpj\u028at\u0259b\u0259l/", "Definition: having a good reputation", ""]}
+{"data": ["2023-06-29T00:02:12.934298+00:00", 12198, "Your mother is", "catchpenny", "Pronunciation: /\u02c8k\u00e6\u02a7\u02ccp\u025bni/", "Definition: designed to sell quickly without concern for quality", ""]}
