@@ -1,1 +1,1 @@
-{"data": ["2023-06-29T19:01:36.922320+00:00", 12216, "Your mother is", "extreme", "Pronunciation: /\u026ak\u02c8strim/", "Definition: of the greatest possible degree or extent or intensity", "Synonyms: utmost, uttermost"]}
+{"data": ["2023-06-29T20:01:35.662584+00:00", 12217, "Your mother is", "branchiopod", "Pronunciation: /\u02c8br\u00e6\u014bki\u0259\u02ccp\u0251d/", "Definition: of or relating to or characteristic of the subclass Branchiopoda", "Synonyms: branchiopodan, branchiopodous"]}
