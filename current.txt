@@ -1,1 +1,1 @@
-{"data": ["2023-06-29T15:01:16.911308+00:00", 12213, "Your mother is", "preliterate", "Pronunciation: /pri\u02c8l\u026at\u0259r\u0259t/", "Definition: used of a society that has not developed writing", "Synonyms: nonliterate"]}
+{"data": ["2023-06-29T16:01:27.704445+00:00", 12214, "Your mother is", "adsorbent", "Similar to: chemisorptive", "Definition: having capacity or tendency to adsorb or cause to accumulate on a surface", "Synonyms: adsorptive, surface-assimilative"]}
