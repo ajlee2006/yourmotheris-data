@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T21:01:01.052933+00:00", 12242, "Your mother is", "needy", "Pronunciation: /\u02c8nidi/", "Definition: poor enough to need help from others", "Synonyms: destitute, impoverished, indigent, necessitous, poverty-stricken"]}
+{"data": ["2023-06-30T22:01:03.807150+00:00", 12243, "Your mother is", "smooth-textured", "Similar to: smooth", "Definition: having a smooth, fine-grained structure", "Synonyms: fine-textured"]}
