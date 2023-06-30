@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T03:00:53.343055+00:00", 12224, "Your mother is", "nonintegrated", "", "Definition: not integrated; not taken into or made a part of a whole", "Synonyms: unintegrated"]}
+{"data": ["2023-06-30T04:01:22.601642+00:00", 12225, "Your mother is", "pleasing", "Pronunciation: /\u02c8pliz\u026a\u014b/", "Definition: giving pleasure and satisfaction", ""]}
