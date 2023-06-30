@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T11:01:23.816918+00:00", 12232, "Your mother is", "monoploid", "Pronunciation: /\u02c8m\u0251n\u0259\u02ccpl\u0254\u026ad/", "Definition: of a cell or organism having a single set of chromosomes", "Synonyms: haploid, haploidic"]}
+{"data": ["2023-06-30T12:00:58.317532+00:00", 12233, "Your mother is", "admissible", "Pronunciation: /\u00e6d\u02c8m\u026as\u0259b\u0259l/", "Definition: deserving to be admitted", ""]}
