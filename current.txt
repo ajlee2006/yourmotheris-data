@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T01:01:32.649110+00:00", 12222, "Your mother is", "disjoint", "Pronunciation: /d\u026as\u02c8d\u0292\u0254\u026ant/", "Definition: having no elements in common", ""]}
+{"data": ["2023-06-30T02:01:30.263948+00:00", 12223, "Your mother is", "placeable", "Similar to: identifiable", "Definition: capable of being recognized", "Synonyms: recognisable, recognizable"]}
