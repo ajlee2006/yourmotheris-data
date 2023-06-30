@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T20:00:54.532089+00:00", 12241, "Your mother is", "viewable", "Pronunciation: /\u02c8vju\u0259b\u0259l/", "Definition: capable of being viewed", ""]}
+{"data": ["2023-06-30T21:01:01.052933+00:00", 12242, "Your mother is", "needy", "Pronunciation: /\u02c8nidi/", "Definition: poor enough to need help from others", "Synonyms: destitute, impoverished, indigent, necessitous, poverty-stricken"]}
