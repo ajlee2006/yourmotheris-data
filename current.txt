@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T02:01:30.263948+00:00", 12223, "Your mother is", "placeable", "Similar to: identifiable", "Definition: capable of being recognized", "Synonyms: recognisable, recognizable"]}
+{"data": ["2023-06-30T03:00:53.343055+00:00", 12224, "Your mother is", "nonintegrated", "", "Definition: not integrated; not taken into or made a part of a whole", "Synonyms: unintegrated"]}
