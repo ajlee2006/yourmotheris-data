@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T22:01:03.807150+00:00", 12243, "Your mother is", "smooth-textured", "Similar to: smooth", "Definition: having a smooth, fine-grained structure", "Synonyms: fine-textured"]}
+{"data": ["2023-06-30T23:01:01.218845+00:00", 12244, "Your mother is", "bleary", "Pronunciation: /\u02c8bliri/", "Definition: tired to the point of exhaustion", "Synonyms: blear, blear-eyed, bleary-eyed"]}
