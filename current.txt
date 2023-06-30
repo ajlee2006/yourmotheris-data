@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T00:01:46.176225+00:00", 12221, "Your mother is", "nonaligned", "Pronunciation: /\u02c8n\u0251n\u028c\u02ccla\u026and/", "Definition: not affiliated with any faction, party, or cause", ""]}
+{"data": ["2023-06-30T01:01:32.649110+00:00", 12222, "Your mother is", "disjoint", "Pronunciation: /d\u026as\u02c8d\u0292\u0254\u026ant/", "Definition: having no elements in common", ""]}
