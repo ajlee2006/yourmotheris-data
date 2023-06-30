@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T06:00:56.657510+00:00", 12227, "Your mother is", "self-regulating", "Pronunciation: /\u02ccs\u025blf\u02c8r\u025b\u0261j\u0259\u02ccle\u026at\u026a\u014b/", "Definition: designed to activate or move or regulate itself", "Synonyms: self-acting, self-activating, self-moving"]}
+{"data": ["2023-06-30T07:01:19.820639+00:00", 12228, "Your mother is", "sick-abed", "Pronunciation: /s\u026ak-\u0259\u02c8b\u025bd/", "Definition: confined to bed (by illness)", "Synonyms: bedfast, bedrid, bedridden"]}
