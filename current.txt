@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T04:01:22.601642+00:00", 12225, "Your mother is", "pleasing", "Pronunciation: /\u02c8pliz\u026a\u014b/", "Definition: giving pleasure and satisfaction", ""]}
+{"data": ["2023-06-30T05:01:34.697164+00:00", 12226, "Your mother is", "denticulate", "Pronunciation: /d\u025bn\u02c8t\u026akj\u0259l\u026at/", "Definition: having a very finely toothed margin", ""]}
