@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T18:01:14.542213+00:00", 12239, "Your mother is", "dorsal", "Pronunciation: /\u02c8d\u0254rs\u0259l/", "Definition: facing away from the axis of an organ or organism", "Synonyms: abaxial"]}
+{"data": ["2023-06-30T19:01:37.748897+00:00", 12240, "Your mother is", "manipulable", "Similar to: teachable", "Definition: easily managed (controlled or taught or molded)", "Synonyms: tractable"]}
