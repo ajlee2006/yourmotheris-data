@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T05:01:34.697164+00:00", 12226, "Your mother is", "denticulate", "Pronunciation: /d\u025bn\u02c8t\u026akj\u0259l\u026at/", "Definition: having a very finely toothed margin", ""]}
+{"data": ["2023-06-30T06:00:56.657510+00:00", 12227, "Your mother is", "self-regulating", "Pronunciation: /\u02ccs\u025blf\u02c8r\u025b\u0261j\u0259\u02ccle\u026at\u026a\u014b/", "Definition: designed to activate or move or regulate itself", "Synonyms: self-acting, self-activating, self-moving"]}
