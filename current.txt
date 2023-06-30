@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T08:01:22.594696+00:00", 12229, "Your mother is", "nonfinite", "", "Definition: (of verbs) not having tense, person, or number (as a participle or gerund or infinitive)", "Synonyms: infinite, non-finite"]}
+{"data": ["2023-06-30T09:01:27.443330+00:00", 12230, "Your mother is", "fiscal", "Pronunciation: /\u02c8f\u026ask\u0259l/", "Definition: involving financial matters", "Synonyms: financial"]}
