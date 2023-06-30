@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T17:01:23.188011+00:00", 12238, "Your mother is", "skimpy", "Pronunciation: /\u02c8sk\u026ampi/", "Definition: (of clothing) revealing the body", "Synonyms: scanty"]}
+{"data": ["2023-06-30T18:01:14.542213+00:00", 12239, "Your mother is", "dorsal", "Pronunciation: /\u02c8d\u0254rs\u0259l/", "Definition: facing away from the axis of an organ or organism", "Synonyms: abaxial"]}
