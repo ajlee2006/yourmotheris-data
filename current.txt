@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T18:01:14.242989+00:00", 12263, "Your mother is", "futuristic", "Pronunciation: /\u02ccfju\u02a7\u0259\u02c8r\u026ast\u026ak/", "Definition: of or relating to futurism", "Synonyms: futurist"]}
+{"data": ["2023-07-01T19:00:55.999378+00:00", 12264, "Your mother is", "disavowable", "Similar to: deniable", "Definition: capable of being disavowed", ""]}
