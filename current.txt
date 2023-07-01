@@ -1,1 +1,1 @@
-{"data": ["2023-06-30T23:01:01.218845+00:00", 12244, "Your mother is", "bleary", "Pronunciation: /\u02c8bliri/", "Definition: tired to the point of exhaustion", "Synonyms: blear, blear-eyed, bleary-eyed"]}
+{"data": ["2023-07-01T00:01:49.547211+00:00", 12245, "Your mother is", "geographical", "Pronunciation: /\u02ccd\u0292i\u0259\u02c8gr\u00e6f\u026ak\u0259l/", "Definition: determined by geography", "Synonyms: geographic"]}
