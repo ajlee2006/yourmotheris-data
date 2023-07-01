@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T07:01:24.740271+00:00", 12252, "Your mother is", "inextricable", "Pronunciation: /\u026an\u02c8\u025bkstr\u0259k\u0259b\u0259l/", "Definition: not permitting extrication; incapable of being disentangled or untied", ""]}
+{"data": ["2023-07-01T08:00:59.290401+00:00", 12253, "Your mother is", "agrobiologic", "Pronunciation: /\u02cc\u00e6gro\u028a\u02ccba\u026a\u0259\u02c8l\u0251d\u0292\u026ak/", "Definition: of or pertaining to agrobiology", "Synonyms: agrobiological"]}
