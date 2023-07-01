@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T13:00:55.315658+00:00", 12258, "Your mother is", "placative", "Pronunciation: /\u02c8ple\u026ak\u0259t\u026av/", "Definition: intended to pacify by acceding to demands or granting concessions", "Synonyms: appeasing, placating, placatory"]}
+{"data": ["2023-07-01T14:01:05.425856+00:00", 12259, "Your mother is", "valedictory", "Pronunciation: /\u02ccv\u00e6l\u026a\u02c8d\u026akt\u0259ri/", "Definition: of a speech expressing leave-taking", ""]}
