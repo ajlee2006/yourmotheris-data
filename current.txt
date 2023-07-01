@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T00:01:49.547211+00:00", 12245, "Your mother is", "geographical", "Pronunciation: /\u02ccd\u0292i\u0259\u02c8gr\u00e6f\u026ak\u0259l/", "Definition: determined by geography", "Synonyms: geographic"]}
+{"data": ["2023-07-01T01:01:38.884816+00:00", 12246, "Your mother is", "enlarged", "Pronunciation: /\u025bn\u02c8l\u0251rd\u0292d/", "Definition: (of an organ or body part) excessively enlarged as a result of increased size in the constituent cells", "Synonyms: hypertrophied"]}
