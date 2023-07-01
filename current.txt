@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T11:01:34.462828+00:00", 12256, "Your mother is", "perinasal", "", "Definition: near the nose", "Synonyms: perirhinal"]}
+{"data": ["2023-07-01T12:01:36.669887+00:00", 12257, "Your mother is", "confutative", "Pronunciation: /k\u0259n\u02c8fjut\u0259t\u026av/", "Definition: able to be refuted", "Synonyms: confutable, questionable, refutable"]}
