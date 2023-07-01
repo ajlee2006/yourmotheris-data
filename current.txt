@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T01:01:38.884816+00:00", 12246, "Your mother is", "enlarged", "Pronunciation: /\u025bn\u02c8l\u0251rd\u0292d/", "Definition: (of an organ or body part) excessively enlarged as a result of increased size in the constituent cells", "Synonyms: hypertrophied"]}
+{"data": ["2023-07-01T02:01:09.257351+00:00", 12247, "Your mother is", "public-spirited", "Pronunciation: /\u02c8p\u0259bl\u026ak-\u02c8sp\u026ar\u026at\u026ad/", "Definition: showing unselfish interest in the public welfare", ""]}
