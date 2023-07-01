@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T10:01:34.025281+00:00", 12255, "Your mother is", "dingy", "Pronunciation: /\u02c8d\u026a\u014b\u0261i/", "Definition: causing dejection", "Synonyms: blue, dark, disconsolate, dismal, drab, drear, dreary, gloomy, grim, sorry"]}
+{"data": ["2023-07-01T11:01:34.462828+00:00", 12256, "Your mother is", "perinasal", "", "Definition: near the nose", "Synonyms: perirhinal"]}
