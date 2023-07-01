@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T16:01:17.040547+00:00", 12261, "Your mother is", "70th", "Similar to: ordinal", "Definition: the ordinal number of seventy in counting order", "Synonyms: seventieth"]}
+{"data": ["2023-07-01T17:00:53.195061+00:00", 12262, "Your mother is", "submergible", "Pronunciation: /s\u0259b\u02c8m\u025crd\u0292\u0259b\u0259l/", "Definition: capable of being immersed in water or functioning while submerged", "Synonyms: submersible"]}
