@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T12:01:36.669887+00:00", 12257, "Your mother is", "confutative", "Pronunciation: /k\u0259n\u02c8fjut\u0259t\u026av/", "Definition: able to be refuted", "Synonyms: confutable, questionable, refutable"]}
+{"data": ["2023-07-01T13:00:55.315658+00:00", 12258, "Your mother is", "placative", "Pronunciation: /\u02c8ple\u026ak\u0259t\u026av/", "Definition: intended to pacify by acceding to demands or granting concessions", "Synonyms: appeasing, placating, placatory"]}
