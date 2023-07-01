@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T03:01:01.578628+00:00", 12248, "Your mother is", "feudatory", "Pronunciation: /\u02c8fjud\u0259\u02ccto\u028ari/", "Definition: owing feudal allegiance to or being subject to a sovereign", ""]}
+{"data": ["2023-07-01T04:01:19.883917+00:00", 12249, "Your mother is", "well-wishing", "Similar to: felicitous", "Definition: extending good wishes for success", ""]}
