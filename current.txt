@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T09:01:35.177325+00:00", 12254, "Your mother is", "ribbed", "Pronunciation: /r\u026abd/", "Definition: (of the surface) having a rough, riblike texture", "Synonyms: costate"]}
+{"data": ["2023-07-01T10:01:34.025281+00:00", 12255, "Your mother is", "dingy", "Pronunciation: /\u02c8d\u026a\u014b\u0261i/", "Definition: causing dejection", "Synonyms: blue, dark, disconsolate, dismal, drab, drear, dreary, gloomy, grim, sorry"]}
