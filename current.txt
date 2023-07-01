@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T14:01:05.425856+00:00", 12259, "Your mother is", "valedictory", "Pronunciation: /\u02ccv\u00e6l\u026a\u02c8d\u026akt\u0259ri/", "Definition: of a speech expressing leave-taking", ""]}
+{"data": ["2023-07-01T15:01:19.747661+00:00", 12260, "Your mother is", "good-for-nothing", "Pronunciation: /\u02c8\u0261\u028adf\u0259r-\u02c8n\u0259\u03b8\u026a\u014b/", "Definition: without merit; of little or no value or use", "Synonyms: good-for-naught, meritless, no-account, no-count, no-good, sorry"]}
