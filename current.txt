@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T17:00:53.195061+00:00", 12262, "Your mother is", "submergible", "Pronunciation: /s\u0259b\u02c8m\u025crd\u0292\u0259b\u0259l/", "Definition: capable of being immersed in water or functioning while submerged", "Synonyms: submersible"]}
+{"data": ["2023-07-01T18:01:14.242989+00:00", 12263, "Your mother is", "futuristic", "Pronunciation: /\u02ccfju\u02a7\u0259\u02c8r\u026ast\u026ak/", "Definition: of or relating to futurism", "Synonyms: futurist"]}
