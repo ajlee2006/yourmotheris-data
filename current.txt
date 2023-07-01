@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T02:01:09.257351+00:00", 12247, "Your mother is", "public-spirited", "Pronunciation: /\u02c8p\u0259bl\u026ak-\u02c8sp\u026ar\u026at\u026ad/", "Definition: showing unselfish interest in the public welfare", ""]}
+{"data": ["2023-07-01T03:01:01.578628+00:00", 12248, "Your mother is", "feudatory", "Pronunciation: /\u02c8fjud\u0259\u02ccto\u028ari/", "Definition: owing feudal allegiance to or being subject to a sovereign", ""]}
