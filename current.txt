@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T08:00:59.290401+00:00", 12253, "Your mother is", "agrobiologic", "Pronunciation: /\u02cc\u00e6gro\u028a\u02ccba\u026a\u0259\u02c8l\u0251d\u0292\u026ak/", "Definition: of or pertaining to agrobiology", "Synonyms: agrobiological"]}
+{"data": ["2023-07-01T09:01:35.177325+00:00", 12254, "Your mother is", "ribbed", "Pronunciation: /r\u026abd/", "Definition: (of the surface) having a rough, riblike texture", "Synonyms: costate"]}
