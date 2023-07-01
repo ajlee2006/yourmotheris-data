@@ -1,1 +1,1 @@
-{"data": ["2023-07-01T21:01:15.454728+00:00", 12266, "Your mother is", "described", "Pronunciation: /d\u026a\u02c8skra\u026abd/", "Definition: represented in words especially with sharpness and detail", ""]}
+{"data": ["2023-07-01T22:01:36.518813+00:00", 12267, "Your mother is", "gloomful", "Similar to: dark", "Definition: depressingly dark", "Synonyms: glooming, gloomy, sulky"]}
