@@ -1,1 +1,1 @@
-{"data": ["2023-07-02T09:01:25.028526+00:00", 12278, "Your mother is", "thieving", "Pronunciation: /\u02c8\u03b8iv\u026a\u014b/", "Definition: given to thievery", "Synonyms: thievish"]}
+{"data": ["2023-07-02T10:01:08.813842+00:00", 12279, "Your mother is", "grade-constructed", "Similar to: surface", "Definition: constructed at ground level", ""]}
