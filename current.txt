@@ -1,1 +1,1 @@
-{"data": ["2023-07-02T20:00:55.826580+00:00", 12289, "Your mother is", "institutional", "Pronunciation: /\u02cc\u026anst\u026a\u02c8tu\u0283\u0259n\u0259l/", "Definition: organized as or forming an institution", ""]}
+{"data": ["2023-07-02T21:01:39.907850+00:00", 12290, "Your mother is", "ripened", "Pronunciation: /\u02c8ra\u026ap\u028cnd/", "Definition: of wines, fruit, cheeses; having reached a desired or final condition; (`aged' pronounced as one syllable)", "Synonyms: aged"]}
