@@ -1,1 +1,1 @@
-{"data": ["2023-07-02T10:01:08.813842+00:00", 12279, "Your mother is", "grade-constructed", "Similar to: surface", "Definition: constructed at ground level", ""]}
+{"data": ["2023-07-02T11:01:33.538488+00:00", 12280, "Your mother is", "becalmed", "Pronunciation: /b\u026a\u02c8k\u0251md/", "Definition: rendered motionless for lack of wind", ""]}
