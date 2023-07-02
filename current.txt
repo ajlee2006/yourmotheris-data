@@ -1,1 +1,1 @@
-{"data": ["2023-07-02T02:01:25.130331+00:00", 12271, "Your mother is", "expired", "Pronunciation: /\u026ak\u02c8spa\u026ard/", "Definition: having come to an end or become void after passage of a period of time", ""]}
+{"data": ["2023-07-02T03:01:03.878837+00:00", 12272, "Your mother is", "blistering", "Pronunciation: /\u02c8bl\u026ast\u025dr\u026a\u014b/", "Definition: hot enough to raise (or as if to raise) blisters", "Synonyms: blistery"]}
