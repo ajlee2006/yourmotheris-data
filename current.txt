@@ -1,1 +1,1 @@
-{"data": ["2023-07-02T16:01:38.544105+00:00", 12285, "Your mother is", "quantitative", "Pronunciation: /\u02c8kw\u0251nt\u026a\u02ccte\u026at\u026av/", "Definition: expressible as a quantity or relating to or susceptible of measurement", ""]}
+{"data": ["2023-07-02T17:01:38.161340+00:00", 12286, "Your mother is", "untransferable", "Pronunciation: /\u02cc\u0259ntr\u00e6ns\u02c8f\u025crr\u0259b\u0259l/", "Definition: incapable of being transferred", "Synonyms: nontransferable, unassignable"]}
