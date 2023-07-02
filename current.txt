@@ -1,1 +1,1 @@
-{"data": ["2023-07-02T19:01:24.096660+00:00", 12288, "Your mother is", "arranged", "Pronunciation: /\u025dr\u02c8e\u026and\u0292d/", "Definition: disposed or placed in a particular kind of order", "Synonyms: ordered"]}
+{"data": ["2023-07-02T20:00:55.826580+00:00", 12289, "Your mother is", "institutional", "Pronunciation: /\u02cc\u026anst\u026a\u02c8tu\u0283\u0259n\u0259l/", "Definition: organized as or forming an institution", ""]}
