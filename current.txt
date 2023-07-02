@@ -1,1 +1,1 @@
-{"data": ["2023-07-02T13:01:05.958864+00:00", 12282, "Your mother is", "rectangular", "Pronunciation: /r\u025bk\u02c8t\u00e6\u014b\u0261j\u0259l\u0259r/", "Definition: having a set of mutually perpendicular axes; meeting at right angles", "Synonyms: orthogonal"]}
+{"data": ["2023-07-02T14:01:35.176318+00:00", 12283, "Your mother is", "135th", "Similar to: ordinal", "Definition: the ordinal number of one hundred thirty-five in counting order", "Synonyms: hundred-and-thirty-fifth"]}
