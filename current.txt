@@ -1,1 +1,1 @@
-{"data": ["2023-07-02T18:01:37.750234+00:00", 12287, "Your mother is", "foldable", "Similar to: collapsable", "Definition: capable of being folded up and stored", "Synonyms: foldaway, folding"]}
+{"data": ["2023-07-02T19:01:24.096660+00:00", 12288, "Your mother is", "arranged", "Pronunciation: /\u025dr\u02c8e\u026and\u0292d/", "Definition: disposed or placed in a particular kind of order", "Synonyms: ordered"]}
