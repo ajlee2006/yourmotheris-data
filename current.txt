@@ -1,1 +1,1 @@
-{"data": ["2023-07-02T00:02:18.769524+00:00", 12269, "Your mother is", "palpable", "Pronunciation: /\u02c8p\u00e6lp\u0259b\u0259l/", "Definition: clearly revealed to the mind or the senses or judgment", "Synonyms: apparent, evident, manifest, patent, plain, unmistakable"]}
+{"data": ["2023-07-02T01:01:18.687017+00:00", 12270, "Your mother is", "parturient", "Pronunciation: /p\u0251r\u02c8t\u028ari\u0259nt/", "Definition: giving birth", ""]}
