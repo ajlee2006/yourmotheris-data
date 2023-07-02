@@ -1,1 +1,1 @@
-{"data": ["2023-07-02T17:01:38.161340+00:00", 12286, "Your mother is", "untransferable", "Pronunciation: /\u02cc\u0259ntr\u00e6ns\u02c8f\u025crr\u0259b\u0259l/", "Definition: incapable of being transferred", "Synonyms: nontransferable, unassignable"]}
+{"data": ["2023-07-02T18:01:37.750234+00:00", 12287, "Your mother is", "foldable", "Similar to: collapsable", "Definition: capable of being folded up and stored", "Synonyms: foldaway, folding"]}
