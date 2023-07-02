@@ -1,1 +1,1 @@
-{"data": ["2023-07-02T14:01:35.176318+00:00", 12283, "Your mother is", "135th", "Similar to: ordinal", "Definition: the ordinal number of one hundred thirty-five in counting order", "Synonyms: hundred-and-thirty-fifth"]}
+{"data": ["2023-07-02T15:01:00.514679+00:00", 12284, "Your mother is", "safe", "Pronunciation: /se\u026af/", "Definition: financially safe", "Synonyms: dependable, good, secure"]}
