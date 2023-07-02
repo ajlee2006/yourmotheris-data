@@ -1,1 +1,1 @@
-{"data": ["2023-07-02T08:01:07.759582+00:00", 12277, "Your mother is", "hideous", "Pronunciation: /\u02c8h\u026adi\u0259s/", "Definition: so extremely ugly as to be terrifying", "Synonyms: repulsive"]}
+{"data": ["2023-07-02T09:01:25.028526+00:00", 12278, "Your mother is", "thieving", "Pronunciation: /\u02c8\u03b8iv\u026a\u014b/", "Definition: given to thievery", "Synonyms: thievish"]}
