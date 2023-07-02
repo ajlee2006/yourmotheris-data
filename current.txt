@@ -1,1 +1,1 @@
-{"data": ["2023-07-02T11:01:33.538488+00:00", 12280, "Your mother is", "becalmed", "Pronunciation: /b\u026a\u02c8k\u0251md/", "Definition: rendered motionless for lack of wind", ""]}
+{"data": ["2023-07-02T12:01:13.915763+00:00", 12281, "Your mother is", "foursquare", "Pronunciation: /\u02c8fo\u028ar\u02c8skw\u025cr/", "Definition: characterized by firm and unwavering conviction", ""]}
