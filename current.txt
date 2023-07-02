@@ -1,1 +1,1 @@
-{"data": ["2023-07-02T05:01:20.829249+00:00", 12274, "Your mother is", "supercritical", "Pronunciation: /\u02ccsup\u0259r\u02c8kr\u026at\u026ak\u0259l/", "Definition: (especially of fissionable material) able to sustain a chain reaction in such a manner that the rate of reaction increases", ""]}
+{"data": ["2023-07-02T06:01:32.685415+00:00", 12275, "Your mother is", "braky", "Similar to: wooded", "Definition: covered with brambles and ferns and other undergrowth", "Synonyms: brambly"]}
