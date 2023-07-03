@@ -1,1 +1,1 @@
-{"data": ["2023-07-03T20:01:10.159358+00:00", 12313, "Your mother is", "thermal", "Pronunciation: /\u02c8\u03b8\u025crm\u00e6l/", "Definition: relating to or associated with heat", "Synonyms: caloric, thermic"]}
+{"data": ["2023-07-03T21:01:37.256630+00:00", 12314, "Your mother is", "gi", "Pronunciation: /\u02c8d\u0292i\u02c8a\u026a/", "Definition: of or relating to the stomach and intestines", "Synonyms: gastrointestinal"]}
