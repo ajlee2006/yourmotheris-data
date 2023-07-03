@@ -1,1 +1,1 @@
-{"data": ["2023-07-03T05:00:55.457053+00:00", 12298, "Your mother is", "stylish", "Pronunciation: /\u02c8sta\u026al\u026a\u0283/", "Definition: being or in accordance with current social fashions", "Synonyms: fashionable"]}
+{"data": ["2023-07-03T06:01:35.420533+00:00", 12299, "Your mother is", "miry", "Pronunciation: /\u02c8ma\u026a\u0259ri/", "Definition: (of soil) soft and watery", "Synonyms: boggy, marshy, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, swampy, waterlogged"]}
