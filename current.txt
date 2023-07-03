@@ -1,1 +1,1 @@
-{"data": ["2023-07-03T15:00:53.649950+00:00", 12308, "Your mother is", "somatogenetic", "Pronunciation: /\u02ccso\u028am\u0259t\u0259d\u0292\u0259\u02c8n\u025bt\u026ak/", "Definition: of or arising from physiological causes rather than being psychogenic in origin", "Synonyms: somatogenic"]}
+{"data": ["2023-07-03T16:01:39.087901+00:00", 12309, "Your mother is", "headlike", "Similar to: headed", "Definition: having a protuberance that resembles a head", ""]}
