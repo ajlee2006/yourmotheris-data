@@ -1,1 +1,1 @@
-{"data": ["2023-07-03T13:01:06.432049+00:00", 12306, "Your mother is", "unnecessary", "Pronunciation: /\u0259n\u02c8n\u025bs\u026a\u02ccs\u025bri/", "Definition: not necessary", "Synonyms: unneeded"]}
+{"data": ["2023-07-03T14:01:08.088366+00:00", 12307, "Your mother is", "mouse-sized", "Similar to: sized", "Definition: having the approximate size of a mouse", ""]}
