@@ -1,1 +1,1 @@
-{"data": ["2023-07-03T00:02:23.319840+00:00", 12293, "Your mother is", "appreciated", "Pronunciation: /\u028c\u02c8pri\u0283i\u02cce\u026at\u026ad/", "Definition: fully understood or grasped", "Synonyms: apprehended, comprehended"]}
+{"data": ["2023-07-03T01:01:25.464493+00:00", 12294, "Your mother is", "shield-shaped", "Pronunciation: /\u0283ild-\u0283e\u026apt/", "Definition: (of a leaf shape) round, with the stem attached near the center of the lower surface rather than the margin (as a nasturtium leaf for example)", "Synonyms: peltate"]}
