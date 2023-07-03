@@ -1,1 +1,1 @@
-{"data": ["2023-07-03T22:01:02.587166+00:00", 12315, "Your mother is", "acquiescent", "Pronunciation: /\u02cc\u00e6kwi\u02c8\u025bs\u0259nt/", "Definition: willing to carry out the orders or wishes of another without protest", "Synonyms: biddable"]}
+{"data": ["2023-07-03T23:01:08.806951+00:00", 12316, "Your mother is", "sexed", "Pronunciation: /s\u025bkst/", "Definition: characterized by sexuality", ""]}
