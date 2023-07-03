@@ -1,1 +1,1 @@
-{"data": ["2023-07-03T11:01:20.326025+00:00", 12304, "Your mother is", "dolourous", "Similar to: sorrowful", "Definition: showing sorrow", "Synonyms: dolorous, lachrymose, tearful, weeping"]}
+{"data": ["2023-07-03T12:01:13.473581+00:00", 12305, "Your mother is", "cycloid", "Pronunciation: /\u02c8sa\u026akl\u0254\u026ad/", "Definition: resembling a circle", "Synonyms: cycloidal"]}
