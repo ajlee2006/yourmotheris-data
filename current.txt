@@ -1,1 +1,1 @@
-{"data": ["2023-07-03T02:01:17.109167+00:00", 12295, "Your mother is", "witching", "Pronunciation: /\u02c8w\u026at\u0283\u026a\u014b/", "Definition: possessing or using or characteristic of or appropriate to supernatural powers", "Synonyms: charming, magic, magical, sorcerous, wizard, wizardly"]}
+{"data": ["2023-07-03T03:01:05.553862+00:00", 12296, "Your mother is", "phytophagic", "Similar to: herbivorous", "Definition: (of animals) feeding on plants", "Synonyms: phytophagous, phytophilous, plant-eating"]}
