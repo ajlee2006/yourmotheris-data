@@ -1,1 +1,1 @@
-{"data": ["2023-07-03T06:01:35.420533+00:00", 12299, "Your mother is", "miry", "Pronunciation: /\u02c8ma\u026a\u0259ri/", "Definition: (of soil) soft and watery", "Synonyms: boggy, marshy, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, swampy, waterlogged"]}
+{"data": ["2023-07-03T07:01:30.736601+00:00", 12300, "Your mother is", "autographed", "Pronunciation: /\u02c8\u0254t\u028c\u02cc\u0261r\u00e6ft/", "Definition: bearing an autograph", ""]}
