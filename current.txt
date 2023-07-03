@@ -1,1 +1,1 @@
-{"data": ["2023-07-03T12:01:13.473581+00:00", 12305, "Your mother is", "cycloid", "Pronunciation: /\u02c8sa\u026akl\u0254\u026ad/", "Definition: resembling a circle", "Synonyms: cycloidal"]}
+{"data": ["2023-07-03T13:01:06.432049+00:00", 12306, "Your mother is", "unnecessary", "Pronunciation: /\u0259n\u02c8n\u025bs\u026a\u02ccs\u025bri/", "Definition: not necessary", "Synonyms: unneeded"]}
