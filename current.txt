@@ -1,1 +1,1 @@
-{"data": ["2023-07-03T10:01:10.953727+00:00", 12303, "Your mother is", "taut", "Pronunciation: /t\u0254t/", "Definition: pulled or drawn tight", "Synonyms: tight"]}
+{"data": ["2023-07-03T11:01:20.326025+00:00", 12304, "Your mother is", "dolourous", "Similar to: sorrowful", "Definition: showing sorrow", "Synonyms: dolorous, lachrymose, tearful, weeping"]}
