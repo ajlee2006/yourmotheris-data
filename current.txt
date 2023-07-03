@@ -1,1 +1,1 @@
-{"data": ["2023-07-03T19:01:38.521568+00:00", 12312, "Your mother is", "elasticized", "Similar to: elastic", "Definition: made with strands or inserts of elastic", "Synonyms: elasticised"]}
+{"data": ["2023-07-03T20:01:10.159358+00:00", 12313, "Your mother is", "thermal", "Pronunciation: /\u02c8\u03b8\u025crm\u00e6l/", "Definition: relating to or associated with heat", "Synonyms: caloric, thermic"]}
