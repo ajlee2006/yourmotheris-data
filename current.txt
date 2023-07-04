@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T01:01:30.361328+00:00", 12318, "Your mother is", "geodetic", "Pronunciation: /\u02ccd\u0292i\u0259\u02c8d\u025bt\u026ak/", "Definition: of or relating to or determined by geodesy", "Synonyms: geodesic, geodesical"]}
+{"data": ["2023-07-04T02:01:35.321927+00:00", 12319, "Your mother is", "guilt-ridden", "Similar to: guilty", "Definition: feeling or revealing a sense of guilt", ""]}
