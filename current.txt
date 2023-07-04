@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T13:01:38.753189+00:00", 12330, "Your mother is", "deductible", "Pronunciation: /d\u026a\u02c8d\u0259kt\u0259b\u0259l/", "Definition: acceptable as a deduction (especially as a tax deduction)", ""]}
+{"data": ["2023-07-04T14:01:26.108954+00:00", 12331, "Your mother is", "mismatched", "Pronunciation: /m\u026as\u02c8m\u00e6t\u0283t/", "Definition: (of a contest or contestants) not fairly matched as opponents", "Synonyms: uneven"]}
