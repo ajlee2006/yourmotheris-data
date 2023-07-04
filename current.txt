@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T07:00:55.885204+00:00", 12324, "Your mother is", "closing", "Pronunciation: /\u02c8klo\u028az\u026a\u014b/", "Definition: final or ending", ""]}
+{"data": ["2023-07-04T08:01:34.696336+00:00", 12325, "Your mother is", "clastic", "Pronunciation: /\u02c8kl\u00e6st\u026ak/", "Definition: capable of being taken apart", ""]}
