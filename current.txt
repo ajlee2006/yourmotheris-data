@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T08:01:34.696336+00:00", 12325, "Your mother is", "clastic", "Pronunciation: /\u02c8kl\u00e6st\u026ak/", "Definition: capable of being taken apart", ""]}
+{"data": ["2023-07-04T09:01:34.080675+00:00", 12326, "Your mother is", "eastside", "Pronunciation: /\u02c8ist\u02c8sa\u026ad/", "Definition: of the eastern part of a city e.g. Manhattan", ""]}
