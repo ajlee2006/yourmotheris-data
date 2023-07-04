@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T12:00:52.838245+00:00", 12329, "Your mother is", "marvellous", "Pronunciation: /\u02c8m\u0251rv\u0259l\u0259s/", "Definition: too improbable to admit of belief", "Synonyms: improbable, marvelous, tall"]}
+{"data": ["2023-07-04T13:01:38.753189+00:00", 12330, "Your mother is", "deductible", "Pronunciation: /d\u026a\u02c8d\u0259kt\u0259b\u0259l/", "Definition: acceptable as a deduction (especially as a tax deduction)", ""]}
