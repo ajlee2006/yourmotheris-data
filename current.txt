@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T19:01:12.146038+00:00", 12336, "Your mother is", "reasonable", "Pronunciation: /\u02c8riz\u0259-n\u0259-b\u0259l/", "Definition: not excessive or extreme", "Synonyms: fair, fairish"]}
+{"data": ["2023-07-04T20:01:13.595638+00:00", 12337, "Your mother is", "burned-over", "Similar to: destroyed", "Definition: destroyed or badly damaged by fire", "Synonyms: burned, burned-out, burnt, burnt-out"]}
