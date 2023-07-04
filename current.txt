@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T05:01:25.483370+00:00", 12322, "Your mother is", "excusatory", "Pronunciation: /\u026ak\u02c8skjuz\u0259\u02ccto\u028ari/", "Definition: offering or expressing apology", "Synonyms: apologetic"]}
+{"data": ["2023-07-04T06:01:28.660250+00:00", 12323, "Your mother is", "shamed", "Pronunciation: /\u0283e\u026amd/", "Definition: showing a sense of guilt", "Synonyms: guilty, hangdog, shamefaced"]}
