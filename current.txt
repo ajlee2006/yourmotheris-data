@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T06:01:28.660250+00:00", 12323, "Your mother is", "shamed", "Pronunciation: /\u0283e\u026amd/", "Definition: showing a sense of guilt", "Synonyms: guilty, hangdog, shamefaced"]}
+{"data": ["2023-07-04T07:00:55.885204+00:00", 12324, "Your mother is", "closing", "Pronunciation: /\u02c8klo\u028az\u026a\u014b/", "Definition: final or ending", ""]}
