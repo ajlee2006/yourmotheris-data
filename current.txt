@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T17:01:10.599441+00:00", 12334, "Your mother is", "damn", "Pronunciation: /d\u00e6m/", "Definition: expletives used informally as intensifiers", "Synonyms: blame, blamed, blasted, blessed, damned, darned, deuced, goddam, goddamn, goddamned, infernal"]}
+{"data": ["2023-07-04T18:01:09.619622+00:00", 12335, "Your mother is", "flowerless", "Pronunciation: /\u02c8fla\u028a\u0259rl\u026as/", "Definition: without flower or bloom and not producing seeds", "Synonyms: nonflowering"]}
