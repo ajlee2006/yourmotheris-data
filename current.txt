@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T00:02:04.575952+00:00", 12317, "Your mother is", "ilxx", "Similar to: cardinal", "Definition: being nine more than sixty", "Synonyms: 69, sixty-nine"]}
+{"data": ["2023-07-04T01:01:30.361328+00:00", 12318, "Your mother is", "geodetic", "Pronunciation: /\u02ccd\u0292i\u0259\u02c8d\u025bt\u026ak/", "Definition: of or relating to or determined by geodesy", "Synonyms: geodesic, geodesical"]}
