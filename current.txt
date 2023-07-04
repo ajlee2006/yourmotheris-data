@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T09:01:34.080675+00:00", 12326, "Your mother is", "eastside", "Pronunciation: /\u02c8ist\u02c8sa\u026ad/", "Definition: of the eastern part of a city e.g. Manhattan", ""]}
+{"data": ["2023-07-04T10:01:01.677978+00:00", 12327, "Your mother is", "queen-sized", "Similar to: big", "Definition: (used especially of beds) not as large as king-size", "Synonyms: queen-size"]}
