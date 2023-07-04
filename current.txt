@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T11:01:03.463414+00:00", 12328, "Your mother is", "spotted", "Pronunciation: /\u02c8sp\u0251t\u026ad/", "Definition: having spots or patches (small areas of contrasting color or texture)", "Synonyms: patched, spotty"]}
+{"data": ["2023-07-04T12:00:52.838245+00:00", 12329, "Your mother is", "marvellous", "Pronunciation: /\u02c8m\u0251rv\u0259l\u0259s/", "Definition: too improbable to admit of belief", "Synonyms: improbable, marvelous, tall"]}
