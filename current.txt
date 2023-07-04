@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T22:00:56.821673+00:00", 12339, "Your mother is", "stringy", "Pronunciation: /\u02c8stri\u014bi/", "Definition: (of meat) full of sinews; especially impossible to chew", "Synonyms: fibrous, sinewy, unchewable"]}
+{"data": ["2023-07-04T23:01:00.967613+00:00", 12340, "Your mother is", "blackish-gray", "Similar to: achromatic", "Definition: of dark grey", "Synonyms: black-gray, black-grey, blackish-grey"]}
