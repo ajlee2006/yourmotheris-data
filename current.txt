@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T10:01:01.677978+00:00", 12327, "Your mother is", "queen-sized", "Similar to: big", "Definition: (used especially of beds) not as large as king-size", "Synonyms: queen-size"]}
+{"data": ["2023-07-04T11:01:03.463414+00:00", 12328, "Your mother is", "spotted", "Pronunciation: /\u02c8sp\u0251t\u026ad/", "Definition: having spots or patches (small areas of contrasting color or texture)", "Synonyms: patched, spotty"]}
