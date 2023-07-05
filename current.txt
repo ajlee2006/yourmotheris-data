@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T21:00:54.274480+00:00", 12362, "Your mother is", "ill-sorted", "Pronunciation: /\u02c8\u026al\u02c8s\u0254rt\u026ad/", "Definition: not easy to combine harmoniously", "Synonyms: incompatible, mismated, unsuited"]}
+{"data": ["2023-07-05T22:01:35.346852+00:00", 12363, "Your mother is", "snooty", "Pronunciation: /\u02c8snuti/", "Definition: (used colloquially) overly conceited or arrogant", "Synonyms: bigheaded, persnickety, snot-nosed, snotty, stuck-up, too big for one's breeches, uppish"]}
