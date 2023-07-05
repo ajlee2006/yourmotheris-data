@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T09:01:09.691028+00:00", 12350, "Your mother is", "chopped", "Pronunciation: /t\u0283\u0251pt/", "Definition: prepared by cutting", "Synonyms: shredded, sliced"]}
+{"data": ["2023-07-05T10:01:14.546258+00:00", 12351, "Your mother is", "silvery-leaved", "Similar to: leafy", "Definition: having silvery leaves", "Synonyms: silver-leafed, silver-leaved, silvery-leafed"]}
