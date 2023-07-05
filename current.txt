@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T05:01:02.703094+00:00", 12346, "Your mother is", "rectilinear", "Pronunciation: /\u02ccr\u025bk\u02c8t\u0259l\u026ani\u0259r/", "Definition: characterized by a straight line or lines", "Synonyms: rectilineal"]}
+{"data": ["2023-07-05T06:01:11.409601+00:00", 12347, "Your mother is", "uncordial", "Similar to: unfriendly", "Definition: lacking warmth or friendliness", ""]}
