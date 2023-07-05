@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T12:01:04.728965+00:00", 12353, "Your mother is", "130th", "Similar to: ordinal", "Definition: the ordinal number of one hundred thirty in counting order", "Synonyms: hundred-and-thirtieth"]}
+{"data": ["2023-07-05T13:01:00.621585+00:00", 12354, "Your mother is", "nontelescopic", "Similar to: noncollapsable", "Definition: not telescopic", "Synonyms: nontelescoping"]}
