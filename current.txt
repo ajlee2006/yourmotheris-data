@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T17:01:10.973258+00:00", 12358, "Your mother is", "saxon", "Pronunciation: /\u02c8s\u00e6ks\u0259n/", "Definition: of or relating to or characteristic of the early Saxons or Anglo-Saxons and their descendents (especially the English or Lowland Scots) and their language", ""]}
+{"data": ["2023-07-05T18:01:37.294658+00:00", 12359, "Your mother is", "gradual", "Pronunciation: /\u02c8gr\u00e6d\u0292u\u0259l/", "Definition: (of a topographical gradient) not steep or abrupt", ""]}
