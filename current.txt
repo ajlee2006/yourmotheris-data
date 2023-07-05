@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T10:01:14.546258+00:00", 12351, "Your mother is", "silvery-leaved", "Similar to: leafy", "Definition: having silvery leaves", "Synonyms: silver-leafed, silver-leaved, silvery-leafed"]}
+{"data": ["2023-07-05T11:01:20.139746+00:00", 12352, "Your mother is", "gonzo", "Pronunciation: /\u02c8\u0261\u0251nzo\u028a/", "Definition: conspicuously or grossly unconventional or unusual", "Synonyms: bizarre, eccentric, flakey, flaky, freakish, freaky, off-the-wall, outlandish, outre"]}
