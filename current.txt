@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T19:00:54.068841+00:00", 12360, "Your mother is", "olive-colored", "Pronunciation: /\u02c8\u0251l\u026av-\u02c8k\u0259l\u0259rd/", "Definition: having the color of green olives", "Synonyms: olive-coloured"]}
+{"data": ["2023-07-05T20:01:39.399650+00:00", 12361, "Your mother is", "fuggy", "Similar to: unventilated", "Definition: (British informal) poorly ventilated", ""]}
