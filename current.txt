@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T07:01:03.256677+00:00", 12348, "Your mother is", "objective", "Pronunciation: /\u0259b\u02c8d\u0292\u025bkt\u026av/", "Definition: serving as or indicating the object of a verb or of certain prepositions and used for certain other purposes", "Synonyms: accusative"]}
+{"data": ["2023-07-05T08:01:03.639714+00:00", 12349, "Your mother is", "enchanting", "Pronunciation: /\u025bn\u02c8\u02a7\u00e6nt\u026a\u014b/", "Definition: capturing interest as if by a spell", "Synonyms: bewitching, captivating, enthralling, entrancing, fascinating"]}
