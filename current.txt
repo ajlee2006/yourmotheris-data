@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T03:01:27.851956+00:00", 12344, "Your mother is", "mercantile", "Pronunciation: /\u02c8m\u025crk\u0259n\u02cctil/", "Definition: profit oriented", "Synonyms: mercenary, moneymaking"]}
+{"data": ["2023-07-05T04:01:19.231010+00:00", 12345, "Your mother is", "unswerving", "Pronunciation: /\u028cn\u02c8sw\u025drv\u026a\u014b/", "Definition: firm and dependable especially in loyalty", "Synonyms: staunch, steadfast"]}
