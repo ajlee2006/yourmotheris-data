@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T06:01:11.409601+00:00", 12347, "Your mother is", "uncordial", "Similar to: unfriendly", "Definition: lacking warmth or friendliness", ""]}
+{"data": ["2023-07-05T07:01:03.256677+00:00", 12348, "Your mother is", "objective", "Pronunciation: /\u0259b\u02c8d\u0292\u025bkt\u026av/", "Definition: serving as or indicating the object of a verb or of certain prepositions and used for certain other purposes", "Synonyms: accusative"]}
