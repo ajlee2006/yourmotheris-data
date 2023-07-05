@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T16:01:20.147742+00:00", 12357, "Your mother is", "awake", "Pronunciation: /\u0259\u02c8we\u026ak/", "Definition: mentally perceptive and responsive", "Synonyms: alert, alive"]}
+{"data": ["2023-07-05T17:01:10.973258+00:00", 12358, "Your mother is", "saxon", "Pronunciation: /\u02c8s\u00e6ks\u0259n/", "Definition: of or relating to or characteristic of the early Saxons or Anglo-Saxons and their descendents (especially the English or Lowland Scots) and their language", ""]}
