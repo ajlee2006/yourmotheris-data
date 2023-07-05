@@ -1,1 +1,1 @@
-{"data": ["2023-07-04T23:01:00.967613+00:00", 12340, "Your mother is", "blackish-gray", "Similar to: achromatic", "Definition: of dark grey", "Synonyms: black-gray, black-grey, blackish-grey"]}
+{"data": ["2023-07-05T00:02:14.902870+00:00", 12341, "Your mother is", "tacky", "Pronunciation: /\u02c8t\u00e6ki/", "Definition: tastelessly showy", "Synonyms: brassy, cheap, flash, flashy, garish, gaudy, gimcrack, loud, meretricious, tatty, tawdry, trashy"]}
