@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T08:01:03.639714+00:00", 12349, "Your mother is", "enchanting", "Pronunciation: /\u025bn\u02c8\u02a7\u00e6nt\u026a\u014b/", "Definition: capturing interest as if by a spell", "Synonyms: bewitching, captivating, enthralling, entrancing, fascinating"]}
+{"data": ["2023-07-05T09:01:09.691028+00:00", 12350, "Your mother is", "chopped", "Pronunciation: /t\u0283\u0251pt/", "Definition: prepared by cutting", "Synonyms: shredded, sliced"]}
