@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T04:01:19.231010+00:00", 12345, "Your mother is", "unswerving", "Pronunciation: /\u028cn\u02c8sw\u025drv\u026a\u014b/", "Definition: firm and dependable especially in loyalty", "Synonyms: staunch, steadfast"]}
+{"data": ["2023-07-05T05:01:02.703094+00:00", 12346, "Your mother is", "rectilinear", "Pronunciation: /\u02ccr\u025bk\u02c8t\u0259l\u026ani\u0259r/", "Definition: characterized by a straight line or lines", "Synonyms: rectilineal"]}
