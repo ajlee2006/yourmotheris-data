@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T02:01:11.744800+00:00", 12343, "Your mother is", "irritative", "Pronunciation: /\u02c8\u026ar\u026a\u02ccte\u026at\u026av/", "Definition: (used of physical stimuli) serving to stimulate or excite", "Synonyms: irritating"]}
+{"data": ["2023-07-05T03:01:27.851956+00:00", 12344, "Your mother is", "mercantile", "Pronunciation: /\u02c8m\u025crk\u0259n\u02cctil/", "Definition: profit oriented", "Synonyms: mercenary, moneymaking"]}
