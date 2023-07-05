@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T01:01:01.514604+00:00", 12342, "Your mother is", "passee", "Similar to: unfashionable", "Definition: out of fashion", "Synonyms: antique, demode, ex, old-fashioned, old-hat, outmoded, passe"]}
+{"data": ["2023-07-05T02:01:11.744800+00:00", 12343, "Your mother is", "irritative", "Pronunciation: /\u02c8\u026ar\u026a\u02ccte\u026at\u026av/", "Definition: (used of physical stimuli) serving to stimulate or excite", "Synonyms: irritating"]}
