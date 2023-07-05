@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T13:01:00.621585+00:00", 12354, "Your mother is", "nontelescopic", "Similar to: noncollapsable", "Definition: not telescopic", "Synonyms: nontelescoping"]}
+{"data": ["2023-07-05T14:01:14.622506+00:00", 12355, "Your mother is", "rectifiable", "Similar to: maintainable", "Definition: capable of being repaired or rectified", "Synonyms: reparable"]}
