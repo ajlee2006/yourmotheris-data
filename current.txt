@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T22:01:35.346852+00:00", 12363, "Your mother is", "snooty", "Pronunciation: /\u02c8snuti/", "Definition: (used colloquially) overly conceited or arrogant", "Synonyms: bigheaded, persnickety, snot-nosed, snotty, stuck-up, too big for one's breeches, uppish"]}
+{"data": ["2023-07-05T23:01:04.047342+00:00", 12364, "Your mother is", "unassisted", "Pronunciation: /\u02cc\u0259n\u0259\u02c8s\u026ast\u026ad/", "Definition: unsupported by other people", "Synonyms: single-handed, unbacked"]}
