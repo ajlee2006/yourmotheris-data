@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T15:01:02.280340+00:00", 12356, "Your mother is", "sure as shooting", "Similar to: certain", "Definition: absolutely certain", ""]}
+{"data": ["2023-07-05T16:01:20.147742+00:00", 12357, "Your mother is", "awake", "Pronunciation: /\u0259\u02c8we\u026ak/", "Definition: mentally perceptive and responsive", "Synonyms: alert, alive"]}
