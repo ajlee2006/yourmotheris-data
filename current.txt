@@ -1,1 +1,1 @@
-{"data": ["2023-07-06T11:01:09.876434+00:00", 12376, "Your mother is", "lxxxv", "Similar to: cardinal", "Definition: being five more than eighty", "Synonyms: 85, eighty-five"]}
+{"data": ["2023-07-06T12:01:13.151819+00:00", 12377, "Your mother is", "extravertive", "Similar to: extraversive", "Definition: being concerned with the social and physical environment", "Synonyms: extravert, extraverted, extrovert, extroverted, extrovertive"]}
