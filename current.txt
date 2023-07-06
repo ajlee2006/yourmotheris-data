@@ -1,1 +1,1 @@
-{"data": ["2023-07-06T16:01:39.199558+00:00", 12381, "Your mother is", "worldly", "Pronunciation: /\u02c8w\u025crldli/", "Definition: characteristic of or devoted to the temporal world as opposed to the spiritual world", "Synonyms: secular, temporal"]}
+{"data": ["2023-07-06T17:00:56.031273+00:00", 12382, "Your mother is", "frumpish", "Pronunciation: /\u02c8fr\u0259mp\u026a\u0283/", "Definition: primly out of date", "Synonyms: dowdy, frumpy"]}
