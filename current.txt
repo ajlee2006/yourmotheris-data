@@ -1,1 +1,1 @@
-{"data": ["2023-07-06T19:01:26.586683+00:00", 12384, "Your mother is", "keen-sighted", "Similar to: sighted", "Definition: having very keen vision", "Synonyms: argus-eyed, hawk-eyed, lynx-eyed, quick-sighted, sharp-eyed, sharp-sighted"]}
+{"data": ["2023-07-06T20:01:31.108023+00:00", 12385, "Your mother is", "oviparous", "Pronunciation: /o\u028a\u02c8v\u026ap\u0259r\u0259s/", "Definition: egg-laying", ""]}
