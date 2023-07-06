@@ -1,1 +1,1 @@
-{"data": ["2023-07-06T09:01:29.394533+00:00", 12374, "Your mother is", "strenuous", "Pronunciation: /\u02c8str\u025bnju\u0259s/", "Definition: taxing to the utmost; testing powers of endurance", "Synonyms: arduous, straining"]}
+{"data": ["2023-07-06T10:00:53.632184+00:00", 12375, "Your mother is", "edental", "Similar to: toothless", "Definition: having few if any teeth", "Synonyms: edentate, edentulate"]}
