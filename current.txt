@@ -1,1 +1,1 @@
-{"data": ["2023-07-06T03:01:37.676075+00:00", 12368, "Your mother is", "well-meant", "Pronunciation: /w\u025bl-m\u025bnt/", "Definition: marked by good intentions though often producing unfortunate results", "Synonyms: well-intentioned, well-meaning"]}
+{"data": ["2023-07-06T04:01:30.521256+00:00", 12369, "Your mother is", "pretty-pretty", "Pronunciation: /\u02c8pr\u026ati-\u02c8pr\u026ati/", "Definition: ostentatiously or inappropriately pretty", ""]}
