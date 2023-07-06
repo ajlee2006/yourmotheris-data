@@ -1,1 +1,1 @@
-{"data": ["2023-07-06T01:01:03.691718+00:00", 12366, "Your mother is", "annihilated", "Pronunciation: /\u028c\u02c8na\u026a\u028c\u02ccle\u026at\u026ad/", "Definition: destroyed completely", "Synonyms: exterminated, wiped out"]}
+{"data": ["2023-07-06T02:01:10.569926+00:00", 12367, "Your mother is", "plumate", "Pronunciation: /\u02c8plume\u026at/", "Definition: having an ornamental plume or feathery tuft", "Synonyms: plumed, plumose"]}
