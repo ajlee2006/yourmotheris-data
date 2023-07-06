@@ -1,1 +1,1 @@
-{"data": ["2023-07-06T15:01:28.139053+00:00", 12380, "Your mother is", "unmusical", "Pronunciation: /\u0259n\u02c8mjuz\u026ak\u0259l/", "Definition: lacking interest in or talent for music", "Synonyms: nonmusical"]}
+{"data": ["2023-07-06T16:01:39.199558+00:00", 12381, "Your mother is", "worldly", "Pronunciation: /\u02c8w\u025crldli/", "Definition: characteristic of or devoted to the temporal world as opposed to the spiritual world", "Synonyms: secular, temporal"]}
