@@ -1,1 +1,1 @@
-{"data": ["2023-07-06T12:01:13.151819+00:00", 12377, "Your mother is", "extravertive", "Similar to: extraversive", "Definition: being concerned with the social and physical environment", "Synonyms: extravert, extraverted, extrovert, extroverted, extrovertive"]}
+{"data": ["2023-07-06T13:01:23.480716+00:00", 12378, "Your mother is", "drowsy", "Pronunciation: /\u02c8dra\u028azi/", "Definition: showing lack of attention or boredom", "Synonyms: oscitant, yawning"]}
