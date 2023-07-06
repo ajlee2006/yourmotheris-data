@@ -1,1 +1,1 @@
-{"data": ["2023-07-06T18:01:19.135880+00:00", 12383, "Your mother is", "naif", "Pronunciation: /n\u0251\u02c8if/", "Definition: marked by or showing unaffected simplicity and lack of guile or worldly experience", "Synonyms: naive"]}
+{"data": ["2023-07-06T19:01:26.586683+00:00", 12384, "Your mother is", "keen-sighted", "Similar to: sighted", "Definition: having very keen vision", "Synonyms: argus-eyed, hawk-eyed, lynx-eyed, quick-sighted, sharp-eyed, sharp-sighted"]}
