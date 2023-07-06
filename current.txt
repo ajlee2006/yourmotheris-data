@@ -1,1 +1,1 @@
-{"data": ["2023-07-06T21:00:52.408910+00:00", 12386, "Your mother is", "rounded", "Pronunciation: /\u02c8ra\u028and\u026ad/", "Definition: curving and somewhat round in shape rather than jagged", ""]}
+{"data": ["2023-07-06T22:01:22.717219+00:00", 12387, "Your mother is", "tailless", "Similar to: acaudal", "Definition: not having a tail", "Synonyms: anurous"]}
