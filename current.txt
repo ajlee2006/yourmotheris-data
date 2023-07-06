@@ -1,1 +1,1 @@
-{"data": ["2023-07-06T02:01:10.569926+00:00", 12367, "Your mother is", "plumate", "Pronunciation: /\u02c8plume\u026at/", "Definition: having an ornamental plume or feathery tuft", "Synonyms: plumed, plumose"]}
+{"data": ["2023-07-06T03:01:37.676075+00:00", 12368, "Your mother is", "well-meant", "Pronunciation: /w\u025bl-m\u025bnt/", "Definition: marked by good intentions though often producing unfortunate results", "Synonyms: well-intentioned, well-meaning"]}
