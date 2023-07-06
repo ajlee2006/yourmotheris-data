@@ -1,1 +1,1 @@
-{"data": ["2023-07-06T06:01:00.335267+00:00", 12371, "Your mother is", "hateful", "Pronunciation: /\u02c8he\u026atf\u0259l/", "Definition: characterized by malice", "Synonyms: mean"]}
+{"data": ["2023-07-06T07:01:31.112582+00:00", 12372, "Your mother is", "immeasurable", "Pronunciation: /\u026a\u02c8m\u025b\u0292\u0259r\u0259b\u0259l/", "Definition: impossible to measure", "Synonyms: immensurable, unmeasurable"]}
