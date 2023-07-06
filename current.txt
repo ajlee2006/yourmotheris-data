@@ -1,1 +1,1 @@
-{"data": ["2023-07-06T08:01:30.999546+00:00", 12373, "Your mother is", "ragged", "Pronunciation: /\u02c8r\u00e6\u0261\u026ad/", "Definition: being or dressed in clothes that are worn or torn", ""]}
+{"data": ["2023-07-06T09:01:29.394533+00:00", 12374, "Your mother is", "strenuous", "Pronunciation: /\u02c8str\u025bnju\u0259s/", "Definition: taxing to the utmost; testing powers of endurance", "Synonyms: arduous, straining"]}
