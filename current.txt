@@ -1,1 +1,1 @@
-{"data": ["2023-07-05T23:01:04.047342+00:00", 12364, "Your mother is", "unassisted", "Pronunciation: /\u02cc\u0259n\u0259\u02c8s\u026ast\u026ad/", "Definition: unsupported by other people", "Synonyms: single-handed, unbacked"]}
+{"data": ["2023-07-06T00:02:24.414149+00:00", 12365, "Your mother is", "acaudal", "Pronunciation: /e\u026a\u02c8k\u0254d\u0259l/", "Definition: lacking a tail or taillike appendage", "Synonyms: acaudate"]}
