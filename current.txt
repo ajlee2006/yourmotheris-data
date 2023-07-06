@@ -1,1 +1,1 @@
-{"data": ["2023-07-06T20:01:31.108023+00:00", 12385, "Your mother is", "oviparous", "Pronunciation: /o\u028a\u02c8v\u026ap\u0259r\u0259s/", "Definition: egg-laying", ""]}
+{"data": ["2023-07-06T21:00:52.408910+00:00", 12386, "Your mother is", "rounded", "Pronunciation: /\u02c8ra\u028and\u026ad/", "Definition: curving and somewhat round in shape rather than jagged", ""]}
