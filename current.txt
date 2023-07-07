@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T19:01:28.906730+00:00", 12408, "Your mother is", "burning", "Pronunciation: /\u02c8b\u025crn\u026a\u014b/", "Definition: of immediate import", ""]}
+{"data": ["2023-07-07T20:01:40.054026+00:00", 12409, "Your mother is", "prepared", "Pronunciation: /pr\u026a\u02c8p\u025crd/", "Definition: having made preparations", "Synonyms: disposed, fain, inclined"]}
