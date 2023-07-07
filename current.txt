@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T11:01:34.841363+00:00", 12400, "Your mother is", "passee", "Similar to: unfashionable", "Definition: out of fashion", "Synonyms: antique, demode, ex, old-fashioned, old-hat, outmoded, passe"]}
+{"data": ["2023-07-07T12:01:10.341736+00:00", 12401, "Your mother is", "long", "Pronunciation: /l\u0254\u014b/", "Definition: good at remembering", "Synonyms: recollective, retentive, tenacious"]}
