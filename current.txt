@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T16:01:32.947303+00:00", 12405, "Your mother is", "corky", "Pronunciation: /\u02c8k\u0254rki/", "Definition: (of wine) tainted in flavor by a cork containing excess tannin", "Synonyms: corked"]}
+{"data": ["2023-07-07T17:01:34.985296+00:00", 12406, "Your mother is", "swaybacked", "Similar to: unfit", "Definition: having abnormal sagging of the spine (especially in horses)", "Synonyms: dipped, lordotic, swayback"]}
