@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T04:01:10.363254+00:00", 12393, "Your mother is", "right-minded", "Pronunciation: /\u02c8ra\u026at\u02c8ma\u026and\u026ad/", "Definition: disposed toward or having views based on what is right", ""]}
+{"data": ["2023-07-07T05:01:32.108368+00:00", 12394, "Your mother is", "blastemic", "Pronunciation: /bl\u00e6\u02c8st\u025bm\u026ak/", "Definition: of or relating to blastemata", "Synonyms: blastemal, blastematic"]}
