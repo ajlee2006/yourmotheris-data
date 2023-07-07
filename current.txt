@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T17:01:34.985296+00:00", 12406, "Your mother is", "swaybacked", "Similar to: unfit", "Definition: having abnormal sagging of the spine (especially in horses)", "Synonyms: dipped, lordotic, swayback"]}
+{"data": ["2023-07-07T18:01:33.777761+00:00", 12407, "Your mother is", "tautologic", "Similar to: prolix", "Definition: repetition of same sense in different words", "Synonyms: pleonastic, redundant, tautological"]}
