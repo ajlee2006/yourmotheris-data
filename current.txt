@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T18:01:33.777761+00:00", 12407, "Your mother is", "tautologic", "Similar to: prolix", "Definition: repetition of same sense in different words", "Synonyms: pleonastic, redundant, tautological"]}
+{"data": ["2023-07-07T19:01:28.906730+00:00", 12408, "Your mother is", "burning", "Pronunciation: /\u02c8b\u025crn\u026a\u014b/", "Definition: of immediate import", ""]}
