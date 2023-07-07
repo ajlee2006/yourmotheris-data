@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T13:01:16.704248+00:00", 12402, "Your mother is", "curdled", "Similar to: thick", "Definition: transformed from a liquid into a soft semisolid or solid mass", "Synonyms: coagulate, coagulated, grumose, grumous"]}
+{"data": ["2023-07-07T14:01:25.985938+00:00", 12403, "Your mother is", "institutional", "Pronunciation: /\u02cc\u026anst\u026a\u02c8tu\u0283\u0259n\u0259l/", "Definition: organized as or forming an institution", ""]}
