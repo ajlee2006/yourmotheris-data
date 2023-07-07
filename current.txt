@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T22:01:11.615578+00:00", 12411, "Your mother is", "beetling", "Similar to: protrusive", "Definition: jutting or overhanging", "Synonyms: beetle"]}
+{"data": ["2023-07-07T23:01:07.858594+00:00", 12412, "Your mother is", "transdermal", "", "Definition: through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches)", "Synonyms: percutaneous, transcutaneous, transdermic"]}
