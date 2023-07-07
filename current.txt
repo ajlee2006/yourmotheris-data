@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T02:01:19.942559+00:00", 12391, "Your mother is", "adaptable", "Pronunciation: /\u0259\u02c8d\u00e6pt\u0259b\u0259l/", "Definition: capable of adapting (of becoming or being made suitable) to a particular situation or use", ""]}
+{"data": ["2023-07-07T03:01:32.789139+00:00", 12392, "Your mother is", "unmoving", "Pronunciation: /\u0259n\u02c8muv\u026a\u014b/", "Definition: not in motion", "Synonyms: nonmoving"]}
