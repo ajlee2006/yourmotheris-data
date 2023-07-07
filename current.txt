@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T08:01:35.412001+00:00", 12397, "Your mother is", "disordered", "Pronunciation: /d\u026as\u02c8\u0254rd\u0259rd/", "Definition: lacking orderly continuity", "Synonyms: confused, disconnected, disjointed, garbled, illogical, scattered, unconnected"]}
+{"data": ["2023-07-07T09:01:00.469717+00:00", 12398, "Your mother is", "frontmost", "Similar to: front", "Definition: preceding all others in spatial position", "Synonyms: foremost"]}
