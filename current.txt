@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T00:02:21.604386+00:00", 12389, "Your mother is", "beige", "Pronunciation: /be\u026a\u0292/", "Definition: of a light greyish-brown color", ""]}
+{"data": ["2023-07-07T01:01:09.334077+00:00", 12390, "Your mother is", "peacock-blue", "Pronunciation: /\u02c8pi\u02cck\u0251k-blu/", "Definition: of bright greenish blue", ""]}
