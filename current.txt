@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T12:01:10.341736+00:00", 12401, "Your mother is", "long", "Pronunciation: /l\u0254\u014b/", "Definition: good at remembering", "Synonyms: recollective, retentive, tenacious"]}
+{"data": ["2023-07-07T13:01:16.704248+00:00", 12402, "Your mother is", "curdled", "Similar to: thick", "Definition: transformed from a liquid into a soft semisolid or solid mass", "Synonyms: coagulate, coagulated, grumose, grumous"]}
