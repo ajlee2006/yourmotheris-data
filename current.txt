@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T15:01:17.042540+00:00", 12404, "Your mother is", "languid", "Pronunciation: /\u02c8l\u00e6\u014bgw\u026ad/", "Definition: lacking spirit or liveliness", "Synonyms: dreamy, lackadaisical, languorous"]}
+{"data": ["2023-07-07T16:01:32.947303+00:00", 12405, "Your mother is", "corky", "Pronunciation: /\u02c8k\u0254rki/", "Definition: (of wine) tainted in flavor by a cork containing excess tannin", "Synonyms: corked"]}
