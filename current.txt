@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T03:01:32.789139+00:00", 12392, "Your mother is", "unmoving", "Pronunciation: /\u0259n\u02c8muv\u026a\u014b/", "Definition: not in motion", "Synonyms: nonmoving"]}
+{"data": ["2023-07-07T04:01:10.363254+00:00", 12393, "Your mother is", "right-minded", "Pronunciation: /\u02c8ra\u026at\u02c8ma\u026and\u026ad/", "Definition: disposed toward or having views based on what is right", ""]}
