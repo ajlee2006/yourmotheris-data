@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T10:01:22.783735+00:00", 12399, "Your mother is", "public", "Pronunciation: /\u02c8p\u0259bl\u026ak/", "Definition: affecting the people or community as a whole", ""]}
+{"data": ["2023-07-07T11:01:34.841363+00:00", 12400, "Your mother is", "passee", "Similar to: unfashionable", "Definition: out of fashion", "Synonyms: antique, demode, ex, old-fashioned, old-hat, outmoded, passe"]}
