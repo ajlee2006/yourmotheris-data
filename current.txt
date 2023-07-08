@@ -1,1 +1,1 @@
-{"data": ["2023-07-08T11:01:34.165148+00:00", 12424, "Your mother is", "enteric", "Pronunciation: /\u025bn\u02c8t\u025br\u026ak/", "Definition: of or relating to or inside the intestines", "Synonyms: enteral, intestinal"]}
+{"data": ["2023-07-08T12:01:05.595870+00:00", 12425, "Your mother is", "35th", "Similar to: ordinal", "Definition: the ordinal number of thirty-five in counting order", "Synonyms: thirty-fifth"]}
