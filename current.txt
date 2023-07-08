@@ -1,1 +1,1 @@
-{"data": ["2023-07-08T17:01:27.955971+00:00", 12430, "Your mother is", "hesitant", "Pronunciation: /\u02c8h\u025bz\u026at\u0259nt/", "Definition: lacking decisiveness of character; unable to act or decide quickly or firmly", "Synonyms: hesitating"]}
+{"data": ["2023-07-08T18:01:07.192760+00:00", 12431, "Your mother is", "autarkic", "Similar to: independent", "Definition: of countries; not relying on imports", "Synonyms: autarkical"]}
