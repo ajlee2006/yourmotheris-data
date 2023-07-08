@@ -1,1 +1,1 @@
-{"data": ["2023-07-08T12:01:05.595870+00:00", 12425, "Your mother is", "35th", "Similar to: ordinal", "Definition: the ordinal number of thirty-five in counting order", "Synonyms: thirty-fifth"]}
+{"data": ["2023-07-08T13:01:27.414280+00:00", 12426, "Your mother is", "raffish", "Pronunciation: /\u02c8r\u00e6f\u026a\u0283/", "Definition: marked by up-to-dateness in dress and manners", "Synonyms: dapper, dashing, jaunty, natty, rakish, snappy, spiffy, spruce"]}
