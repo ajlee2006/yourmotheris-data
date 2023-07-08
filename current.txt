@@ -1,1 +1,1 @@
-{"data": ["2023-07-07T23:01:07.858594+00:00", 12412, "Your mother is", "transdermal", "", "Definition: through the unbroken skin; refers to medications applied directly to the skin (creams or ointments) or in time-release forms (skin patches)", "Synonyms: percutaneous, transcutaneous, transdermic"]}
+{"data": ["2023-07-08T00:02:15.295926+00:00", 12413, "Your mother is", "polychromic", "Similar to: colored", "Definition: having or exhibiting many colors", "Synonyms: polychromatic, polychrome"]}
