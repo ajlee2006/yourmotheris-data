@@ -1,1 +1,1 @@
-{"data": ["2023-07-08T01:01:21.342148+00:00", 12414, "Your mother is", "belt-like", "Similar to: belted", "Definition: resembling a belt around something", "Synonyms: beltlike"]}
+{"data": ["2023-07-08T02:01:21.078382+00:00", 12415, "Your mother is", "psychoneurotic", "Pronunciation: /\u02ccsa\u026ako\u028an\u028a\u02c8r\u0251t\u026ak/", "Definition: affected with emotional disorder", "Synonyms: neurotic"]}
