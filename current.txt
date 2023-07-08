@@ -1,1 +1,1 @@
-{"data": ["2023-07-08T10:00:55.749059+00:00", 12423, "Your mother is", "unsteady", "Pronunciation: /\u0259n\u02c8st\u025bdi/", "Definition: not firmly or solidly positioned", "Synonyms: unfirm"]}
+{"data": ["2023-07-08T11:01:34.165148+00:00", 12424, "Your mother is", "enteric", "Pronunciation: /\u025bn\u02c8t\u025br\u026ak/", "Definition: of or relating to or inside the intestines", "Synonyms: enteral, intestinal"]}
