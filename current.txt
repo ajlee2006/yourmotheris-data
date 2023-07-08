@@ -1,1 +1,1 @@
-{"data": ["2023-07-08T15:01:03.599800+00:00", 12428, "Your mother is", "ham-handed", "Pronunciation: /h\u00e6m-\u02c8h\u00e6nd\u026ad/", "Definition: lacking physical movement skills, especially with the hands", "Synonyms: bumbling, bungling, butterfingered, ham-fisted, handless, heavy-handed, left-handed"]}
+{"data": ["2023-07-08T16:01:09.098392+00:00", 12429, "Your mother is", "waterproofed", "Similar to: tight", "Definition: not permitting the passage of water", "Synonyms: rainproof, waterproof"]}
