@@ -1,1 +1,1 @@
-{"data": ["2023-07-08T14:01:26.369119+00:00", 12427, "Your mother is", "derived", "Pronunciation: /d\u025dr\u02c8a\u026avd/", "Definition: formed or developed from something else; not original", ""]}
+{"data": ["2023-07-08T15:01:03.599800+00:00", 12428, "Your mother is", "ham-handed", "Pronunciation: /h\u00e6m-\u02c8h\u00e6nd\u026ad/", "Definition: lacking physical movement skills, especially with the hands", "Synonyms: bumbling, bungling, butterfingered, ham-fisted, handless, heavy-handed, left-handed"]}
