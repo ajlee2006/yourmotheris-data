@@ -1,1 +1,1 @@
-{"data": ["2023-07-08T06:01:12.569107+00:00", 12419, "Your mother is", "wailing", "Pronunciation: /\u02c8we\u026al\u026a\u014b/", "Definition: vocally expressing grief or sorrow or resembling such expression", "Synonyms: lamenting, wailful"]}
+{"data": ["2023-07-08T07:01:36.714061+00:00", 12420, "Your mother is", "thyroid", "Pronunciation: /\u02c8\u03b8a\u026ar\u0254\u026ad/", "Definition: of or relating to the thyroid gland", "Synonyms: thyroidal"]}
