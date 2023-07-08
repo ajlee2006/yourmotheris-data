@@ -1,1 +1,1 @@
-{"data": ["2023-07-08T09:01:10.755502+00:00", 12422, "Your mother is", "inst", "Similar to: present", "Definition: in or of the present month", "Synonyms: instant"]}
+{"data": ["2023-07-08T10:00:55.749059+00:00", 12423, "Your mother is", "unsteady", "Pronunciation: /\u0259n\u02c8st\u025bdi/", "Definition: not firmly or solidly positioned", "Synonyms: unfirm"]}
