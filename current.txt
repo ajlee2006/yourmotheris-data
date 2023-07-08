@@ -1,1 +1,1 @@
-{"data": ["2023-07-08T22:01:12.160751+00:00", 12435, "Your mother is", "ill-fed", "Pronunciation: /\u026al-f\u025bd/", "Definition: not getting adequate food", "Synonyms: underfed, undernourished"]}
+{"data": ["2023-07-08T23:01:21.842018+00:00", 12436, "Your mother is", "twiggy", "Pronunciation: /\u02c8tw\u026a\u0261i/", "Definition: thin as a twig", "Synonyms: twiglike"]}
