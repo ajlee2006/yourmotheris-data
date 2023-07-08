@@ -1,1 +1,1 @@
-{"data": ["2023-07-08T21:01:03.728885+00:00", 12434, "Your mother is", "vagrant", "Pronunciation: /\u02c8ve\u026agr\u0259nt/", "Definition: continually changing especially as from one abode or occupation to another", "Synonyms: aimless, drifting, floating, vagabond"]}
+{"data": ["2023-07-08T22:01:12.160751+00:00", 12435, "Your mother is", "ill-fed", "Pronunciation: /\u026al-f\u025bd/", "Definition: not getting adequate food", "Synonyms: underfed, undernourished"]}
