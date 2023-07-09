@@ -1,1 +1,1 @@
-{"data": ["2023-07-09T01:01:06.328155+00:00", 12438, "Your mother is", "ruffianly", "Similar to: violent", "Definition: violent and lawless", "Synonyms: tough"]}
+{"data": ["2023-07-09T02:01:22.521207+00:00", 12439, "Your mother is", "arid", "Pronunciation: /\u02c8\u00e6rid/", "Definition: lacking vitality or spirit; lifeless", "Synonyms: desiccate, desiccated"]}
