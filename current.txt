@@ -1,1 +1,1 @@
-{"data": ["2023-07-09T13:01:35.103011+00:00", 12450, "Your mother is", "unbound", "Pronunciation: /\u0259n\u02c8ba\u028and/", "Definition: not held in chemical or physical combination", ""]}
+{"data": ["2023-07-09T14:01:23.813015+00:00", 12451, "Your mother is", "28th", "Similar to: ordinal", "Definition: coming next after the twenty-seventh in position", "Synonyms: twenty-eighth"]}
