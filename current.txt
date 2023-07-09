@@ -1,1 +1,1 @@
-{"data": ["2023-07-09T21:01:03.947126+00:00", 12458, "Your mother is", "grey-blue", "Similar to: chromatic", "Definition: of blue tinged with grey", "Synonyms: gray-blue, grayish-blue, greyish-blue"]}
+{"data": ["2023-07-09T22:01:14.204824+00:00", 12459, "Your mother is", "primordial", "Pronunciation: /pra\u026a\u02c8m\u0254rdi\u00e6l/", "Definition: having existed from the beginning; in an earliest or original stage or state", "Synonyms: aboriginal, primaeval, primal, primeval"]}
