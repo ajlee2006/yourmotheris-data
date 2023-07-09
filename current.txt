@@ -1,1 +1,1 @@
-{"data": ["2023-07-09T07:01:27.339235+00:00", 12444, "Your mother is", "stemmed", "Pronunciation: /st\u025bmd/", "Definition: (of plants) producing a well-developed stem above ground", "Synonyms: caulescent, cauline"]}
+{"data": ["2023-07-09T08:01:14.519617+00:00", 12445, "Your mother is", "eucaryotic", "", "Definition: having cells with `good' or membrane-bound nuclei", "Synonyms: eukaryotic"]}
