@@ -1,1 +1,1 @@
-{"data": ["2023-07-09T17:00:59.456987+00:00", 12454, "Your mother is", "non-buoyant", "Similar to: heavy", "Definition: tending to sink in a liquid or fall in air", ""]}
+{"data": ["2023-07-09T18:01:24.294845+00:00", 12455, "Your mother is", "fireproof", "Pronunciation: /\u02c8fa\u026a\u0259r\u02ccpruf/", "Definition: impervious to damage by fire", ""]}
