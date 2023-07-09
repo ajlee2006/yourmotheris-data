@@ -1,1 +1,1 @@
-{"data": ["2023-07-09T11:01:31.621103+00:00", 12448, "Your mother is", "cosignatory", "Pronunciation: /ko\u028a\u02c8s\u026agn\u0259\u02ccto\u028ari/", "Definition: signing jointly with others", ""]}
+{"data": ["2023-07-09T12:01:35.698428+00:00", 12449, "Your mother is", "effaceable", "Similar to: eradicable", "Definition: capable of being effaced", "Synonyms: erasable"]}
