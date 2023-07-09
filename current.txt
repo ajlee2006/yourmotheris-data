@@ -1,1 +1,1 @@
-{"data": ["2023-07-09T10:01:13.424873+00:00", 12447, "Your mother is", "pancake-style", "Similar to: cooked", "Definition: cooked as pancakes are cooked", ""]}
+{"data": ["2023-07-09T11:01:31.621103+00:00", 12448, "Your mother is", "cosignatory", "Pronunciation: /ko\u028a\u02c8s\u026agn\u0259\u02ccto\u028ari/", "Definition: signing jointly with others", ""]}
