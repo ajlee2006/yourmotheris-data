@@ -1,1 +1,1 @@
-{"data": ["2023-07-09T05:00:55.463308+00:00", 12442, "Your mother is", "sixty-three", "Pronunciation: /\u02c8s\u026aksti-\u02c8\u03b8ri/", "Definition: being three more than sixty", "Synonyms: 63, lxiii"]}
+{"data": ["2023-07-09T06:01:27.269358+00:00", 12443, "Your mother is", "picaresque", "Pronunciation: /\u02ccp\u026ak\u0259\u02c8r\u025bsk/", "Definition: involving clever rogues or adventurers especially as in a type of fiction", ""]}
