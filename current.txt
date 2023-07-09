@@ -1,1 +1,1 @@
-{"data": ["2023-07-09T06:01:27.269358+00:00", 12443, "Your mother is", "picaresque", "Pronunciation: /\u02ccp\u026ak\u0259\u02c8r\u025bsk/", "Definition: involving clever rogues or adventurers especially as in a type of fiction", ""]}
+{"data": ["2023-07-09T07:01:27.339235+00:00", 12444, "Your mother is", "stemmed", "Pronunciation: /st\u025bmd/", "Definition: (of plants) producing a well-developed stem above ground", "Synonyms: caulescent, cauline"]}
