@@ -1,1 +1,1 @@
-{"data": ["2023-07-09T08:01:14.519617+00:00", 12445, "Your mother is", "eucaryotic", "", "Definition: having cells with `good' or membrane-bound nuclei", "Synonyms: eukaryotic"]}
+{"data": ["2023-07-09T09:01:31.475530+00:00", 12446, "Your mother is", "craniometrical", "", "Definition: of or relating to craniometry", "Synonyms: craniometric"]}
