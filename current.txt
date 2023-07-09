@@ -1,1 +1,1 @@
-{"data": ["2023-07-09T18:01:24.294845+00:00", 12455, "Your mother is", "fireproof", "Pronunciation: /\u02c8fa\u026a\u0259r\u02ccpruf/", "Definition: impervious to damage by fire", ""]}
+{"data": ["2023-07-09T19:01:06.886405+00:00", 12456, "Your mother is", "unvarnished", "Pronunciation: /\u0259n\u02c8v\u0251rn\u026a\u0283t/", "Definition: free from any effort to soften to disguise", "Synonyms: plain"]}
