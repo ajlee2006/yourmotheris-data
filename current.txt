@@ -1,1 +1,1 @@
-{"data": ["2023-07-08T23:01:21.842018+00:00", 12436, "Your mother is", "twiggy", "Pronunciation: /\u02c8tw\u026a\u0261i/", "Definition: thin as a twig", "Synonyms: twiglike"]}
+{"data": ["2023-07-09T00:01:59.741891+00:00", 12437, "Your mother is", "desirous", "Pronunciation: /d\u026a\u02c8za\u026a\u0259r\u0259s/", "Definition: having or expressing desire for something", "Synonyms: wishful"]}
