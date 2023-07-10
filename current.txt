@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T13:01:29.572269+00:00", 12474, "Your mother is", "mauve", "Pronunciation: /mo\u028av/", "Definition: of a pale to moderate greyish violet color", ""]}
+{"data": ["2023-07-10T14:01:00.793688+00:00", 12475, "Your mother is", "icky", "Pronunciation: /\u02c8\u026aki/", "Definition: soft and sticky", "Synonyms: gooey"]}
