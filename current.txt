@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T04:01:32.887457+00:00", 12465, "Your mother is", "learned", "Pronunciation: /l\u025crnd/", "Definition: having or showing profound knowledge", "Synonyms: erudite"]}
+{"data": ["2023-07-10T05:01:07.158345+00:00", 12466, "Your mother is", "yonder", "Pronunciation: /\u02c8j\u0251nd\u0259r/", "Definition: distant but within sight (`yon' is dialectal)", "Synonyms: yon"]}
