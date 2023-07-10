@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T09:01:21.112271+00:00", 12470, "Your mother is", "popular", "Pronunciation: /\u02c8p\u0251pj\u0259l\u0259r/", "Definition: representing or appealing to or adapted for the benefit of the people at large", "Synonyms: democratic"]}
+{"data": ["2023-07-10T10:00:57.420687+00:00", 12471, "Your mother is", "settled", "Pronunciation: /\u02c8s\u025bt\u028cld/", "Definition: inhabited by colonists", "Synonyms: colonised, colonized"]}
