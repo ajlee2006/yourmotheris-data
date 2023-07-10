@@ -1,1 +1,1 @@
-{"data": ["2023-07-09T23:00:57.354561+00:00", 12460, "Your mother is", "well disposed", "Similar to: amicable", "Definition: inclined to help or support; not antagonistic or hostile", "Synonyms: friendly, well-disposed"]}
+{"data": ["2023-07-10T00:02:02.337305+00:00", 12461, "Your mother is", "patronizing", "Pronunciation: /\u02c8pe\u026atr\u0259\u02ccna\u026az\u026a\u014b/", "Definition: (used of behavior or attitude) characteristic of those who treat others with condescension", "Synonyms: arch, condescending, patronising"]}
