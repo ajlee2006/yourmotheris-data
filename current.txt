@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T07:01:04.873666+00:00", 12468, "Your mother is", "unaccompanied", "Pronunciation: /\u02cc\u0259n\u0259\u02c8k\u0259mp\u0259nid/", "Definition: being without an escort", ""]}
+{"data": ["2023-07-10T08:00:52.101186+00:00", 12469, "Your mother is", "pustulate", "Pronunciation: /\u02c8p\u0259s\u02a7\u0259l\u026at/", "Definition: (of complexion) blemished by imperfections of the skin", "Synonyms: acned, pimpled, pimply"]}
