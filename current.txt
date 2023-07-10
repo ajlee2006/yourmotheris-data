@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T00:02:02.337305+00:00", 12461, "Your mother is", "patronizing", "Pronunciation: /\u02c8pe\u026atr\u0259\u02ccna\u026az\u026a\u014b/", "Definition: (used of behavior or attitude) characteristic of those who treat others with condescension", "Synonyms: arch, condescending, patronising"]}
+{"data": ["2023-07-10T01:01:15.825892+00:00", 12462, "Your mother is", "reborn", "Pronunciation: /ri\u02c8b\u0254rn/", "Definition: spiritually reborn or converted", "Synonyms: born-again"]}
