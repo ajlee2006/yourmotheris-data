@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T03:01:33.196540+00:00", 12464, "Your mother is", "torn", "Pronunciation: /to\u028arn/", "Definition: having edges that are jagged from injury", "Synonyms: lacerate, lacerated, mangled"]}
+{"data": ["2023-07-10T04:01:32.887457+00:00", 12465, "Your mother is", "learned", "Pronunciation: /l\u025crnd/", "Definition: having or showing profound knowledge", "Synonyms: erudite"]}
