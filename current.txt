@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T10:00:57.420687+00:00", 12471, "Your mother is", "settled", "Pronunciation: /\u02c8s\u025bt\u028cld/", "Definition: inhabited by colonists", "Synonyms: colonised, colonized"]}
+{"data": ["2023-07-10T11:01:12.602033+00:00", 12472, "Your mother is", "marshy", "Pronunciation: /\u02c8m\u0251r\u0283i/", "Definition: (of soil) soft and watery", "Synonyms: boggy, miry, mucky, muddy, quaggy, sloppy, sloughy, soggy, squashy, swampy, waterlogged"]}
