@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T18:01:36.246253+00:00", 12479, "Your mother is", "bass", "Pronunciation: /b\u00e6s/", "Definition: having or denoting a low vocal or instrumental range", "Synonyms: deep"]}
+{"data": ["2023-07-10T19:01:26.437580+00:00", 12480, "Your mother is", "upfront", "Pronunciation: /\u0259p\u02c8fr\u0259nt/", "Definition: frank and honest", ""]}
