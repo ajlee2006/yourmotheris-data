@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T01:01:15.825892+00:00", 12462, "Your mother is", "reborn", "Pronunciation: /ri\u02c8b\u0254rn/", "Definition: spiritually reborn or converted", "Synonyms: born-again"]}
+{"data": ["2023-07-10T02:01:16.782916+00:00", 12463, "Your mother is", "paralyzed", "Pronunciation: /\u02c8p\u025br\u028c\u02ccla\u026azd/", "Definition: affected with paralysis", "Synonyms: paralytic"]}
