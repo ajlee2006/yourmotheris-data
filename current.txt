@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T06:01:06.407136+00:00", 12467, "Your mother is", "delicious", "Pronunciation: /d\u026a\u02c8l\u026a\u0283\u0259s/", "Definition: greatly pleasing or entertaining", "Synonyms: delightful"]}
+{"data": ["2023-07-10T07:01:04.873666+00:00", 12468, "Your mother is", "unaccompanied", "Pronunciation: /\u02cc\u0259n\u0259\u02c8k\u0259mp\u0259nid/", "Definition: being without an escort", ""]}
