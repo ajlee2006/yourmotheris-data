@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T22:01:05.087659+00:00", 12483, "Your mother is", "slaty-gray", "Similar to: achromatic", "Definition: of the color of slate or granite", "Synonyms: slate-gray, slate-grey, slatey, slaty, slaty-grey, stone-gray, stone-grey"]}
+{"data": ["2023-07-10T23:01:21.597207+00:00", 12484, "Your mother is", "homothermic", "Similar to: warm-blooded", "Definition: of birds and mammals; having constant and relatively high body temperature", "Synonyms: homeothermic, homoiothermic"]}
