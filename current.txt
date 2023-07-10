@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T02:01:16.782916+00:00", 12463, "Your mother is", "paralyzed", "Pronunciation: /\u02c8p\u025br\u028c\u02ccla\u026azd/", "Definition: affected with paralysis", "Synonyms: paralytic"]}
+{"data": ["2023-07-10T03:01:33.196540+00:00", 12464, "Your mother is", "torn", "Pronunciation: /to\u028arn/", "Definition: having edges that are jagged from injury", "Synonyms: lacerate, lacerated, mangled"]}
