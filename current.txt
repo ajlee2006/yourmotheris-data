@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T08:00:52.101186+00:00", 12469, "Your mother is", "pustulate", "Pronunciation: /\u02c8p\u0259s\u02a7\u0259l\u026at/", "Definition: (of complexion) blemished by imperfections of the skin", "Synonyms: acned, pimpled, pimply"]}
+{"data": ["2023-07-10T09:01:21.112271+00:00", 12470, "Your mother is", "popular", "Pronunciation: /\u02c8p\u0251pj\u0259l\u0259r/", "Definition: representing or appealing to or adapted for the benefit of the people at large", "Synonyms: democratic"]}
