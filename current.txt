@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T14:01:00.793688+00:00", 12475, "Your mother is", "icky", "Pronunciation: /\u02c8\u026aki/", "Definition: soft and sticky", "Synonyms: gooey"]}
+{"data": ["2023-07-10T15:01:28.324604+00:00", 12476, "Your mother is", "unusable", "Pronunciation: /\u0259n\u02c8juz\u0259b\u0259l/", "Definition: not capable of being used", "Synonyms: unserviceable, unuseable"]}
