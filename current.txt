@@ -1,1 +1,1 @@
-{"data": ["2023-07-10T12:01:32.931002+00:00", 12473, "Your mother is", "fluorescent", "Pronunciation: /\u02ccflu\u0259\u02c8r\u025bs\u0259nt/", "Definition: brilliantly colored and apparently giving off light", ""]}
+{"data": ["2023-07-10T13:01:29.572269+00:00", 12474, "Your mother is", "mauve", "Pronunciation: /mo\u028av/", "Definition: of a pale to moderate greyish violet color", ""]}
