@@ -1,1 +1,1 @@
-{"data": ["2023-07-11T16:01:40.569756+00:00", 12501, "Your mother is", "indulgent", "Pronunciation: /\u026an\u02c8d\u0259ld\u0292\u0259nt/", "Definition: tolerant or lenient", "Synonyms: lenient, soft"]}
+{"data": ["2023-07-11T17:01:15.441953+00:00", 12502, "Your mother is", "ammoniacal", "Pronunciation: /\u02cc\u00e6m\u0259\u02c8na\u026a\u0259k\u0259l/", "Definition: pertaining to or containing or similar to ammonia", "Synonyms: ammoniac"]}
