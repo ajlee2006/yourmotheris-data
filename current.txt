@@ -1,1 +1,1 @@
-{"data": ["2023-07-11T00:01:55.465369+00:00", 12485, "Your mother is", "scoreless", "Pronunciation: /\u02c8sk\u0254rl\u028cs/", "Definition: having no points scores", "Synonyms: goalless, hitless, pointless"]}
+{"data": ["2023-07-11T01:01:14.916701+00:00", 12486, "Your mother is", "square-shouldered", "Pronunciation: /\u02c8skw\u025cr\u02c8\u0283o\u028ald\u0259rd/", "Definition: having broad shoulders", "Synonyms: big-shouldered, broad-shouldered"]}
