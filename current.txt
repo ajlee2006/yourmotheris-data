@@ -1,1 +1,1 @@
-{"data": ["2023-07-11T03:01:06.420861+00:00", 12488, "Your mother is", "throated", "Pronunciation: /\u02c8\u03b8ro\u028at\u026ad/", "Definition: having a throat as specified", ""]}
+{"data": ["2023-07-11T04:01:17.778990+00:00", 12489, "Your mother is", "claustrophobic", "Pronunciation: /\u02cckl\u0254str\u0259\u02c8fo\u028ab\u026ak/", "Definition: suffering from claustrophobia; abnormally afraid of closed-in places", ""]}
