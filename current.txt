@@ -1,1 +1,1 @@
-{"data": ["2023-07-11T09:01:30.630829+00:00", 12494, "Your mother is", "amino", "Pronunciation: /\u0259\u02c8mino\u028a/", "Definition: pertaining to or containing any of a group of organic compounds of nitrogen derived from ammonia", "Synonyms: aminic"]}
+{"data": ["2023-07-11T10:01:06.647717+00:00", 12495, "Your mother is", "blond", "Pronunciation: /bl\u0251nd/", "Definition: being or having light colored skin and hair and usually blue or grey eyes", "Synonyms: blonde, light-haired"]}
