@@ -1,1 +1,1 @@
-{"data": ["2023-07-11T01:01:14.916701+00:00", 12486, "Your mother is", "square-shouldered", "Pronunciation: /\u02c8skw\u025cr\u02c8\u0283o\u028ald\u0259rd/", "Definition: having broad shoulders", "Synonyms: big-shouldered, broad-shouldered"]}
+{"data": ["2023-07-11T02:00:57.064475+00:00", 12487, "Your mother is", "slushy", "Pronunciation: /\u02c8sl\u0259\u0283i/", "Definition: effusively or insincerely emotional", "Synonyms: bathetic, drippy, hokey, kitschy, maudlin, mawkish, mushy, sappy, schmaltzy, schmalzy, sentimental, soppy, soupy"]}
