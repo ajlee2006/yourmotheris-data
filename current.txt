@@ -1,1 +1,1 @@
-{"data": ["2023-07-11T20:01:23.437298+00:00", 12505, "Your mother is", "unresolvable", "Pronunciation: /\u02cc\u0259nri\u02c8z\u0251lv\u0259b\u0259l/", "Definition: not easily solved", "Synonyms: insolvable, unsoluble, unsolvable"]}
+{"data": ["2023-07-11T21:01:09.390484+00:00", 12506, "Your mother is", "toned", "Pronunciation: /to\u028and/", "Definition: having or characterized or distinguished by tone or a specific tone; often used in combination", ""]}
