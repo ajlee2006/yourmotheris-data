@@ -1,1 +1,1 @@
-{"data": ["2023-07-11T10:01:06.647717+00:00", 12495, "Your mother is", "blond", "Pronunciation: /bl\u0251nd/", "Definition: being or having light colored skin and hair and usually blue or grey eyes", "Synonyms: blonde, light-haired"]}
+{"data": ["2023-07-11T11:01:05.350368+00:00", 12496, "Your mother is", "self-complacent", "Pronunciation: /s\u025blf-k\u0259m\u02c8ple\u026as\u0259nt/", "Definition: contented to a fault with oneself or one's actions", "Synonyms: complacent, self-satisfied"]}
