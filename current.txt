@@ -1,1 +1,1 @@
-{"data": ["2023-07-11T13:00:56.732513+00:00", 12498, "Your mother is", "spiral", "Pronunciation: /\u02c8spa\u026ar\u0259l/", "Definition: in the shape of a coil", "Synonyms: coiling, helical, spiraling, turbinate, volute, voluted, whorled"]}
+{"data": ["2023-07-11T14:01:16.899582+00:00", 12499, "Your mother is", "structural", "Pronunciation: /\u02c8str\u0259k\u02a7\u0259r\u0259l/", "Definition: pertaining to geological structure", "Synonyms: geomorphologic, geomorphological, morphologic, morphological"]}
