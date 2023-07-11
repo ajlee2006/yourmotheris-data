@@ -1,1 +1,1 @@
-{"data": ["2023-07-11T15:01:18.201959+00:00", 12500, "Your mother is", "placeable", "Similar to: identifiable", "Definition: capable of being recognized", "Synonyms: recognisable, recognizable"]}
+{"data": ["2023-07-11T16:01:40.569756+00:00", 12501, "Your mother is", "indulgent", "Pronunciation: /\u026an\u02c8d\u0259ld\u0292\u0259nt/", "Definition: tolerant or lenient", "Synonyms: lenient, soft"]}
