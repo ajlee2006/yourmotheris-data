@@ -1,1 +1,1 @@
-{"data": ["2023-07-11T07:01:35.538083+00:00", 12492, "Your mother is", "clubby", "Pronunciation: /\u02c8kl\u0259bi/", "Definition: effusively sociable", "Synonyms: clubbish"]}
+{"data": ["2023-07-11T08:01:08.088475+00:00", 12493, "Your mother is", "falling", "Pronunciation: /\u02c8f\u0251l\u026a\u014b/", "Definition: coming down freely under the influence of gravity", "Synonyms: dropping"]}
