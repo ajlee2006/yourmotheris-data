@@ -1,1 +1,1 @@
-{"data": ["2023-07-11T14:01:16.899582+00:00", 12499, "Your mother is", "structural", "Pronunciation: /\u02c8str\u0259k\u02a7\u0259r\u0259l/", "Definition: pertaining to geological structure", "Synonyms: geomorphologic, geomorphological, morphologic, morphological"]}
+{"data": ["2023-07-11T15:01:18.201959+00:00", 12500, "Your mother is", "placeable", "Similar to: identifiable", "Definition: capable of being recognized", "Synonyms: recognisable, recognizable"]}
