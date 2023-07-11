@@ -1,1 +1,1 @@
-{"data": ["2023-07-11T04:01:17.778990+00:00", 12489, "Your mother is", "claustrophobic", "Pronunciation: /\u02cckl\u0254str\u0259\u02c8fo\u028ab\u026ak/", "Definition: suffering from claustrophobia; abnormally afraid of closed-in places", ""]}
+{"data": ["2023-07-11T05:01:10.401086+00:00", 12490, "Your mother is", "good for you", "Similar to: wholesome", "Definition: promoting health; healthful", "Synonyms: healthy, salubrious"]}
