@@ -1,1 +1,1 @@
-{"data": ["2023-07-12T08:01:13.077377+00:00", 12517, "Your mother is", "antimicrobial", "Pronunciation: /\u02cc\u00e6ntima\u026a\u02c8kro\u028abi\u0259l/", "Definition: capable of destroying or inhibiting the growth of disease-causing microorganisms", "Synonyms: antimicrobic"]}
+{"data": ["2023-07-12T09:01:21.030234+00:00", 12518, "Your mother is", "presentable", "Pronunciation: /pr\u026a\u02c8z\u025bnt\u0259b\u0259l/", "Definition: fit to be seen", ""]}
