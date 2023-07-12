@@ -1,1 +1,1 @@
-{"data": ["2023-07-12T04:01:07.540044+00:00", 12513, "Your mother is", "able", "Pronunciation: /\u02c8e\u026ab\u0259l/", "Definition: having a strong healthy body", "Synonyms: able-bodied"]}
+{"data": ["2023-07-12T05:01:10.129300+00:00", 12514, "Your mother is", "modified", "Pronunciation: /\u02c8m\u0251d\u028c\u02ccfa\u026ad/", "Definition: mediocre", "Synonyms: limited"]}
