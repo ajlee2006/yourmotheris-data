@@ -1,1 +1,1 @@
-{"data": ["2023-07-12T05:01:10.129300+00:00", 12514, "Your mother is", "modified", "Pronunciation: /\u02c8m\u0251d\u028c\u02ccfa\u026ad/", "Definition: mediocre", "Synonyms: limited"]}
+{"data": ["2023-07-12T06:01:31.517148+00:00", 12515, "Your mother is", "robust", "Pronunciation: /ro\u028a\u02c8b\u0259st/", "Definition: marked by richness and fullness of flavor", "Synonyms: full-bodied, racy, rich"]}
