@@ -1,1 +1,1 @@
-{"data": ["2023-07-12T00:02:02.264097+00:00", 12509, "Your mother is", "abounding", "Pronunciation: /\u028c\u02c8ba\u028and\u026a\u014b/", "Definition: existing in abundance", "Synonyms: galore"]}
+{"data": ["2023-07-12T01:01:30.161526+00:00", 12510, "Your mother is", "monophysitic", "Pronunciation: /\u02ccm\u0251n\u0259f\u026a\u02c8s\u026at\u026ak/", "Definition: of or relating to Monophysitism", "Synonyms: monophysite"]}
