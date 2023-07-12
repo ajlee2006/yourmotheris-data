@@ -1,1 +1,1 @@
-{"data": ["2023-07-12T12:01:33.554388+00:00", 12521, "Your mother is", "robust", "Pronunciation: /ro\u028a\u02c8b\u0259st/", "Definition: marked by richness and fullness of flavor", "Synonyms: full-bodied, racy, rich"]}
+{"data": ["2023-07-12T13:01:32.359591+00:00", 12522, "Your mother is", "uninstructed", "Pronunciation: /\u02cc\u0259n\u026an\u02c8str\u0259kt\u026ad/", "Definition: lacking information or instruction", "Synonyms: naive, unenlightened"]}
