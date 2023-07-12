@@ -1,1 +1,1 @@
-{"data": ["2023-07-12T02:01:02.486504+00:00", 12511, "Your mother is", "extortionate", "Pronunciation: /\u026ak\u02c8st\u0254r\u0283\u0259n\u026at/", "Definition: greatly exceeding bounds of reason or moderation", "Synonyms: exorbitant, outrageous, steep, unconscionable, usurious"]}
+{"data": ["2023-07-12T03:01:28.364755+00:00", 12512, "Your mother is", "ground-hugging", "Similar to: low", "Definition: of plants that grow relatively low to the ground", "Synonyms: flat-growing, low-growing"]}
