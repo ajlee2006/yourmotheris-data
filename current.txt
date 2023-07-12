@@ -1,1 +1,1 @@
-{"data": ["2023-07-12T18:01:41.415433+00:00", 12527, "Your mother is", "under-the-counter", "Pronunciation: /\u02c8\u0259nd\u0259r\u00f0\u0259\u02c8ka\u028ant\u0259r/", "Definition: done or sold illicitly and secretly", ""]}
+{"data": ["2023-07-12T19:01:32.836578+00:00", 12528, "Your mother is", "unregretting", "", "Definition: feeling no regret", "Synonyms: unregretful"]}
