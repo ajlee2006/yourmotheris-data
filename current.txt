@@ -1,1 +1,1 @@
-{"data": ["2023-07-12T21:01:24.464195+00:00", 12530, "Your mother is", "cataclysmic", "Pronunciation: /\u02cck\u00e6t\u0259\u02c8kl\u026azm\u026ak/", "Definition: severely destructive", "Synonyms: cataclysmal"]}
+{"data": ["2023-07-12T22:01:20.366965+00:00", 12531, "Your mother is", "stung", "Pronunciation: /st\u0259\u014b/", "Definition: aroused to impatience or anger", "Synonyms: annoyed, irritated, miffed, nettled, peeved, pissed, pissed off, riled, roiled, steamed"]}
