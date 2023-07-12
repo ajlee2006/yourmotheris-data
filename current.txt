@@ -1,1 +1,1 @@
-{"data": ["2023-07-11T23:01:13.514310+00:00", 12508, "Your mother is", "honorific", "Pronunciation: /\u02cc\u0251n\u0259\u02c8r\u026af\u026ak/", "Definition: conferring or showing honor or respect", ""]}
+{"data": ["2023-07-12T00:02:02.264097+00:00", 12509, "Your mother is", "abounding", "Pronunciation: /\u028c\u02c8ba\u028and\u026a\u014b/", "Definition: existing in abundance", "Synonyms: galore"]}
