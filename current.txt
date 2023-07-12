@@ -1,1 +1,1 @@
-{"data": ["2023-07-12T09:01:21.030234+00:00", 12518, "Your mother is", "presentable", "Pronunciation: /pr\u026a\u02c8z\u025bnt\u0259b\u0259l/", "Definition: fit to be seen", ""]}
+{"data": ["2023-07-12T10:01:11.085838+00:00", 12519, "Your mother is", "hundred-and-fifteenth", "Similar to: ordinal", "Definition: the ordinal number of one hundred fifteen in counting order", "Synonyms: 115th"]}
