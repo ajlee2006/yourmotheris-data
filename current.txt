@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T10:01:19.877135+00:00", 12543, "Your mother is", "impendent", "Pronunciation: /\u026am\u02c8p\u025bnd\u0259nt/", "Definition: close in time; about to occur", "Synonyms: at hand, close at hand, imminent, impending"]}
+{"data": ["2023-07-13T11:01:20.717566+00:00", 12544, "Your mother is", "liked", "Pronunciation: /la\u026akt/", "Definition: found pleasant or attractive; often used as a combining form", ""]}
