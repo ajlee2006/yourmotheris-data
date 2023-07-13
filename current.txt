@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T02:01:28.402855+00:00", 12535, "Your mother is", "quarantined", "Pronunciation: /\u02c8kw\u0254r\u028cn\u02cctind/", "Definition: under forced isolation especially for health reasons", "Synonyms: isolated"]}
+{"data": ["2023-07-13T03:00:54.967182+00:00", 12536, "Your mother is", "ignominious", "Pronunciation: /\u02cc\u026agn\u0259\u02c8m\u026ani\u0259s/", "Definition: (used of conduct or character) deserving or bringing disgrace or shame", "Synonyms: black, disgraceful, inglorious, opprobrious, shameful"]}
