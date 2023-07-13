@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T14:01:29.662934+00:00", 12547, "Your mother is", "unfulfilled", "Pronunciation: /\u02cc\u0259nf\u028al\u02c8f\u026ald/", "Definition: of persons; marked by failure to realize full potentialities", "Synonyms: unrealised, unrealized"]}
+{"data": ["2023-07-13T15:01:38.003151+00:00", 12548, "Your mother is", "stretchy", "Pronunciation: /\u02c8str\u025b\u02a7i/", "Definition: capable of being easily stretched and resuming former size or shape", "Synonyms: stretchable"]}
