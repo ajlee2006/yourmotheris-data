@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T01:01:37.565617+00:00", 12534, "Your mother is", "pathless", "Pronunciation: /\u02c8p\u00e6\u03b8l\u026as/", "Definition: lacking pathways", "Synonyms: roadless, trackless, untracked, untrod, untrodden"]}
+{"data": ["2023-07-13T02:01:28.402855+00:00", 12535, "Your mother is", "quarantined", "Pronunciation: /\u02c8kw\u0254r\u028cn\u02cctind/", "Definition: under forced isolation especially for health reasons", "Synonyms: isolated"]}
