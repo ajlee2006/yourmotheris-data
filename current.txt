@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T06:01:29.826950+00:00", 12539, "Your mother is", "cut", "Pronunciation: /k\u0259t/", "Definition: made neat and tidy by trimming", "Synonyms: trimmed"]}
+{"data": ["2023-07-13T07:01:30.655265+00:00", 12540, "Your mother is", "centenarian", "Pronunciation: /\u02ccs\u025bn\u02c8t\u0259n\u025cri\u0259n/", "Definition: being at least 100 years old", ""]}
