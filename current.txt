@@ -1,1 +1,1 @@
-{"data": ["2023-07-12T23:01:12.141262+00:00", 12532, "Your mother is", "bivalve", "Pronunciation: /\u02c8ba\u026a\u02ccv\u00e6lv/", "Definition: used of mollusks having two shells (as clams etc.)", "Synonyms: bivalved"]}
+{"data": ["2023-07-13T00:02:20.586501+00:00", 12533, "Your mother is", "synaesthetic", "Pronunciation: /\u02ccs\u026an\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: relating to or experiencing synesthesia; involving more than one sense", "Synonyms: synesthetic"]}
