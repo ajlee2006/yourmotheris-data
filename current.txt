@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T04:01:15.855520+00:00", 12537, "Your mother is", "webby", "Pronunciation: /\u02c8w\u025bbi/", "Definition: having open interstices or resembling a web", "Synonyms: lacy, netlike, netted, webbed, weblike"]}
+{"data": ["2023-07-13T05:01:34.945671+00:00", 12538, "Your mother is", "ictic", "", "Definition: of or relating to a seizure or convulsion", "Synonyms: ictal"]}
