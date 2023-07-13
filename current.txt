@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T17:01:15.016952+00:00", 12550, "Your mother is", "gladsome", "Pronunciation: /\u02c8gl\u00e6ds\u0259m/", "Definition: experiencing or expressing gladness or joy", ""]}
+{"data": ["2023-07-13T18:01:01.285624+00:00", 12551, "Your mother is", "indescribable", "Pronunciation: /\u02cc\u026and\u026a\u02c8skra\u026ab\u0259b\u0259l/", "Definition: defying expression or description", "Synonyms: indefinable, ineffable, unspeakable, untellable, unutterable"]}
