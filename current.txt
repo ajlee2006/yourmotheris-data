@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T19:01:37.124511+00:00", 12552, "Your mother is", "timeworn", "Pronunciation: /\u02c8ta\u026am\u02ccwo\u028arn/", "Definition: repeated too often; overfamiliar through overuse", "Synonyms: banal, commonplace, hackneyed, old-hat, shopworn, stock, threadbare, tired, trite, well-worn"]}
+{"data": ["2023-07-13T20:01:21.110481+00:00", 12553, "Your mother is", "unstressed", "Pronunciation: /\u0259n\u02c8str\u025bst/", "Definition: not bearing a stress or accent", ""]}
