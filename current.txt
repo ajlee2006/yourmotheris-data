@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T15:01:38.003151+00:00", 12548, "Your mother is", "stretchy", "Pronunciation: /\u02c8str\u025b\u02a7i/", "Definition: capable of being easily stretched and resuming former size or shape", "Synonyms: stretchable"]}
+{"data": ["2023-07-13T16:01:09.810127+00:00", 12549, "Your mother is", "intumescent", "Similar to: unhealthy", "Definition: abnormally distended especially by fluids or gas", "Synonyms: puffy, tumescent, tumid, turgid"]}
