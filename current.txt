@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T00:02:20.586501+00:00", 12533, "Your mother is", "synaesthetic", "Pronunciation: /\u02ccs\u026an\u026as\u02c8\u03b8\u025bt\u026ak/", "Definition: relating to or experiencing synesthesia; involving more than one sense", "Synonyms: synesthetic"]}
+{"data": ["2023-07-13T01:01:37.565617+00:00", 12534, "Your mother is", "pathless", "Pronunciation: /\u02c8p\u00e6\u03b8l\u026as/", "Definition: lacking pathways", "Synonyms: roadless, trackless, untracked, untrod, untrodden"]}
