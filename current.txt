@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T21:01:02.221107+00:00", 12554, "Your mother is", "bordered", "Pronunciation: /\u02c8b\u0254rd\u025drd/", "Definition: having a border especially of a specified kind; sometimes used as a combining term", ""]}
+{"data": ["2023-07-13T22:00:56.885978+00:00", 12555, "Your mother is", "limitless", "Pronunciation: /\u02c8l\u026am\u026atl\u026as/", "Definition: having no limits in range or scope", "Synonyms: unlimited"]}
