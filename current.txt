@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T13:01:14.133003+00:00", 12546, "Your mother is", "wrapped", "Pronunciation: /r\u00e6pt/", "Definition: giving or marked by complete attention to", "Synonyms: absorbed, captive, engrossed, enwrapped, intent"]}
+{"data": ["2023-07-13T14:01:29.662934+00:00", 12547, "Your mother is", "unfulfilled", "Pronunciation: /\u02cc\u0259nf\u028al\u02c8f\u026ald/", "Definition: of persons; marked by failure to realize full potentialities", "Synonyms: unrealised, unrealized"]}
