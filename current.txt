@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T20:01:21.110481+00:00", 12553, "Your mother is", "unstressed", "Pronunciation: /\u0259n\u02c8str\u025bst/", "Definition: not bearing a stress or accent", ""]}
+{"data": ["2023-07-13T21:01:02.221107+00:00", 12554, "Your mother is", "bordered", "Pronunciation: /\u02c8b\u0254rd\u025drd/", "Definition: having a border especially of a specified kind; sometimes used as a combining term", ""]}
