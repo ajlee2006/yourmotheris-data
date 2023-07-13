@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T07:01:30.655265+00:00", 12540, "Your mother is", "centenarian", "Pronunciation: /\u02ccs\u025bn\u02c8t\u0259n\u025cri\u0259n/", "Definition: being at least 100 years old", ""]}
+{"data": ["2023-07-13T08:01:25.638992+00:00", 12541, "Your mother is", "deprecatory", "Pronunciation: /\u02c8d\u025bpr\u0259k\u0259\u02ccto\u028ari/", "Definition: tending to diminish or disparage", "Synonyms: belittling, deprecating, deprecative, depreciative, depreciatory, slighting"]}
