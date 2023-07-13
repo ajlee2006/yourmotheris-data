@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T11:01:20.717566+00:00", 12544, "Your mother is", "liked", "Pronunciation: /la\u026akt/", "Definition: found pleasant or attractive; often used as a combining form", ""]}
+{"data": ["2023-07-13T12:01:18.967440+00:00", 12545, "Your mother is", "self-pollinating", "", "Definition: of or relating to or characteristic of self-pollination", ""]}
