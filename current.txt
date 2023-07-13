@@ -1,1 +1,1 @@
-{"data": ["2023-07-13T08:01:25.638992+00:00", 12541, "Your mother is", "deprecatory", "Pronunciation: /\u02c8d\u025bpr\u0259k\u0259\u02ccto\u028ari/", "Definition: tending to diminish or disparage", "Synonyms: belittling, deprecating, deprecative, depreciative, depreciatory, slighting"]}
+{"data": ["2023-07-13T09:01:02.544813+00:00", 12542, "Your mother is", "deterministic", "Pronunciation: /d\u026a\u02cct\u025drm\u028c\u02c8n\u026ast\u026ak/", "Definition: an inevitable consequence of antecedent sufficient causes", ""]}
