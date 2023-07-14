@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T14:00:54.971978+00:00", 12571, "Your mother is", "shoreward", "Pronunciation: /\u02c8\u0283o\u028arw\u0259rd/", "Definition: (of winds) coming from the sea toward the land", "Synonyms: inshore, onshore"]}
+{"data": ["2023-07-14T15:01:03.081304+00:00", 12572, "Your mother is", "well-heeled", "Pronunciation: /w\u025bl-hild/", "Definition: in fortunate circumstances financially; moderately rich", "Synonyms: comfortable, easy, prosperous, well-fixed, well-off, well-situated, well-to-do"]}
