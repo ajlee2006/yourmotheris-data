@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T09:01:17.194627+00:00", 12566, "Your mother is", "worsened", "Pronunciation: /\u02c8w\u025drs\u028cnd/", "Definition: changed for the worse in health or fitness", "Synonyms: worse"]}
+{"data": ["2023-07-14T10:01:13.166281+00:00", 12567, "Your mother is", "atrial", "", "Definition: of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart)", ""]}
