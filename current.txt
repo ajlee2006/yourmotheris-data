@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T12:01:16.862295+00:00", 12569, "Your mother is", "unpolished", "Pronunciation: /\u0259n\u02c8p\u0251l\u026a\u0283t/", "Definition: lacking social polish", "Synonyms: gauche, graceless"]}
+{"data": ["2023-07-14T13:01:18.469916+00:00", 12570, "Your mother is", "frilled", "Similar to: adorned", "Definition: having decorative ruffles or frills", "Synonyms: frilly, ruffled"]}
