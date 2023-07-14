@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T06:01:36.201924+00:00", 12563, "Your mother is", "custom-made", "Pronunciation: /\u02c8k\u0259st\u0259m-\u02c8me\u026ad/", "Definition: made according to the specifications of an individual", "Synonyms: custom"]}
+{"data": ["2023-07-14T07:01:27.985520+00:00", 12564, "Your mother is", "ultrasonic", "Pronunciation: /\u02cc\u0259ltr\u0259\u02c8s\u0251n\u026ak/", "Definition: having frequencies above those of audible sound", "Synonyms: supersonic"]}
