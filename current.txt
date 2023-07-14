@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T10:01:13.166281+00:00", 12567, "Your mother is", "atrial", "", "Definition: of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart)", ""]}
+{"data": ["2023-07-14T11:00:55.430241+00:00", 12568, "Your mother is", "bloodguilty", "Pronunciation: /\u02c8bl\u0259d\u02cc\u0261\u026alti/", "Definition: guilty of murder or bloodshed", ""]}
