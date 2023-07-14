@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T01:01:13.415572+00:00", 12558, "Your mother is", "even-toed", "", "Definition: of or relating to or belonging to mammals of the order Artiodactyla", "Synonyms: artiodactyl, artiodactylous"]}
+{"data": ["2023-07-14T02:01:05.262334+00:00", 12559, "Your mother is", "boxed", "Pronunciation: /b\u0251kst/", "Definition: enclosed in or as if in a box", "Synonyms: boxed-in, boxed in"]}
