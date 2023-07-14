@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T20:01:17.822030+00:00", 12577, "Your mother is", "austere", "Pronunciation: /\u0254\u02c8stir/", "Definition: of a stern or strict bearing or demeanor; forbidding in aspect", "Synonyms: stern"]}
+{"data": ["2023-07-14T21:01:38.793685+00:00", 12578, "Your mother is", "tactual", "Pronunciation: /\u02c8t\u00e6k\u02a7u\u0259l/", "Definition: of or relating to or proceeding from the sense of touch", "Synonyms: haptic, tactile"]}
