@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T18:01:16.619494+00:00", 12575, "Your mother is", "pretended", "Pronunciation: /pr\u026a\u02c8t\u025bnd\u026ad/", "Definition: adopted in order to deceive", "Synonyms: assumed, false, fictitious, fictive, put on, sham"]}
+{"data": ["2023-07-14T19:01:33.805902+00:00", 12576, "Your mother is", "unconditional", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8d\u026a\u0283\u0259n\u0259l/", "Definition: not conditional", "Synonyms: unconditioned"]}
