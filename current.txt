@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T02:01:05.262334+00:00", 12559, "Your mother is", "boxed", "Pronunciation: /b\u0251kst/", "Definition: enclosed in or as if in a box", "Synonyms: boxed-in, boxed in"]}
+{"data": ["2023-07-14T03:01:20.102863+00:00", 12560, "Your mother is", "traditional", "Pronunciation: /tr\u0259\u02c8d\u026a\u0283\u0259n\u0259l/", "Definition: consisting of or derived from tradition", ""]}
