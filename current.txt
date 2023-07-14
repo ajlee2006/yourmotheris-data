@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T05:01:02.498388+00:00", 12562, "Your mother is", "unmemorable", "Pronunciation: /\u0259n\u02c8m\u025bm\u0259r\u0259b\u0259l/", "Definition: not worth remembering", ""]}
+{"data": ["2023-07-14T06:01:36.201924+00:00", 12563, "Your mother is", "custom-made", "Pronunciation: /\u02c8k\u0259st\u0259m-\u02c8me\u026ad/", "Definition: made according to the specifications of an individual", "Synonyms: custom"]}
