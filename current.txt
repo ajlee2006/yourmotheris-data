@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T13:01:18.469916+00:00", 12570, "Your mother is", "frilled", "Similar to: adorned", "Definition: having decorative ruffles or frills", "Synonyms: frilly, ruffled"]}
+{"data": ["2023-07-14T14:00:54.971978+00:00", 12571, "Your mother is", "shoreward", "Pronunciation: /\u02c8\u0283o\u028arw\u0259rd/", "Definition: (of winds) coming from the sea toward the land", "Synonyms: inshore, onshore"]}
