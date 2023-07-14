@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T19:01:33.805902+00:00", 12576, "Your mother is", "unconditional", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8d\u026a\u0283\u0259n\u0259l/", "Definition: not conditional", "Synonyms: unconditioned"]}
+{"data": ["2023-07-14T20:01:17.822030+00:00", 12577, "Your mother is", "austere", "Pronunciation: /\u0254\u02c8stir/", "Definition: of a stern or strict bearing or demeanor; forbidding in aspect", "Synonyms: stern"]}
