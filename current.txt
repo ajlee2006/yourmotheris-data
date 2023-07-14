@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T07:01:27.985520+00:00", 12564, "Your mother is", "ultrasonic", "Pronunciation: /\u02cc\u0259ltr\u0259\u02c8s\u0251n\u026ak/", "Definition: having frequencies above those of audible sound", "Synonyms: supersonic"]}
+{"data": ["2023-07-14T08:01:12.625379+00:00", 12565, "Your mother is", "deterministic", "Pronunciation: /d\u026a\u02cct\u025drm\u028c\u02c8n\u026ast\u026ak/", "Definition: an inevitable consequence of antecedent sufficient causes", ""]}
