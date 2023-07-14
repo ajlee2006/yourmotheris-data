@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T21:01:38.793685+00:00", 12578, "Your mother is", "tactual", "Pronunciation: /\u02c8t\u00e6k\u02a7u\u0259l/", "Definition: of or relating to or proceeding from the sense of touch", "Synonyms: haptic, tactile"]}
+{"data": ["2023-07-14T22:01:10.729100+00:00", 12579, "Your mother is", "holy", "Pronunciation: /\u02c8ho\u028ali/", "Definition: belonging to or derived from or associated with a divine power", ""]}
