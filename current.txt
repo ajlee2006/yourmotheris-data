@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T00:02:22.191778+00:00", 12557, "Your mother is", "allelic", "Pronunciation: /\u0259\u02c8lil\u026ak/", "Definition: of or relating to alleles", "Synonyms: allelomorphic"]}
+{"data": ["2023-07-14T01:01:13.415572+00:00", 12558, "Your mother is", "even-toed", "", "Definition: of or relating to or belonging to mammals of the order Artiodactyla", "Synonyms: artiodactyl, artiodactylous"]}
