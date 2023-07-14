@@ -1,1 +1,1 @@
-{"data": ["2023-07-14T22:01:10.729100+00:00", 12579, "Your mother is", "holy", "Pronunciation: /\u02c8ho\u028ali/", "Definition: belonging to or derived from or associated with a divine power", ""]}
+{"data": ["2023-07-14T23:01:23.780865+00:00", 12580, "Your mother is", "gasified", "Similar to: gaseous", "Definition: converted into a gas or vapor", "Synonyms: vaporized, vapourised, volatilised, volatilized"]}
