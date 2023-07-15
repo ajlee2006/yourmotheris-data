@@ -1,1 +1,1 @@
-{"data": ["2023-07-15T22:01:16.294744+00:00", 12603, "Your mother is", "unlocated", "Similar to: unsettled", "Definition: lacking a particular location", ""]}
+{"data": ["2023-07-15T23:01:37.432460+00:00", 12604, "Your mother is", "dextrous", "Pronunciation: /\u02c8d\u025bkstr\u0259s/", "Definition: skillful in physical movements; especially of the hands", "Synonyms: deft, dexterous"]}
