@@ -1,1 +1,1 @@
-{"data": ["2023-07-15T18:01:04.455662+00:00", 12599, "Your mother is", "hoggish", "Pronunciation: /\u02c8h\u0254\u0261\u026a\u0283/", "Definition: resembling swine; coarsely gluttonous or greedy", "Synonyms: piggish, piggy, porcine, swinish"]}
+{"data": ["2023-07-15T19:01:02.619843+00:00", 12600, "Your mother is", "fan-leaved", "Pronunciation: /f\u00e6n-livd/", "Definition: having fan-shaped leaves", "Synonyms: fan-leafed"]}
