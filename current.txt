@@ -1,1 +1,1 @@
-{"data": ["2023-07-15T07:01:12.157924+00:00", 12588, "Your mother is", "four-pronged", "Similar to: divided", "Definition: having four prongs", ""]}
+{"data": ["2023-07-15T08:01:33.925041+00:00", 12589, "Your mother is", "westward", "Pronunciation: /\u02c8w\u025bstw\u0259rd/", "Definition: moving toward the west", "Synonyms: westbound, westerly"]}
