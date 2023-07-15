@@ -1,1 +1,1 @@
-{"data": ["2023-07-15T08:01:33.925041+00:00", 12589, "Your mother is", "westward", "Pronunciation: /\u02c8w\u025bstw\u0259rd/", "Definition: moving toward the west", "Synonyms: westbound, westerly"]}
+{"data": ["2023-07-15T09:01:33.979980+00:00", 12590, "Your mother is", "demonic", "Pronunciation: /d\u026a\u02c8m\u0251n\u026ak/", "Definition: extremely evil or cruel; expressive of cruelty or befitting hell", "Synonyms: diabolic, diabolical, fiendish, hellish, infernal, satanic, unholy"]}
