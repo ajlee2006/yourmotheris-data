@@ -1,1 +1,1 @@
-{"data": ["2023-07-15T21:01:18.263955+00:00", 12602, "Your mother is", "anginose", "Pronunciation: /\u02c8\u00e6nd\u0292\u0259\u02ccno\u028as/", "Definition: of or related to the pain of angina pectoris", "Synonyms: anginal, anginous"]}
+{"data": ["2023-07-15T22:01:16.294744+00:00", 12603, "Your mother is", "unlocated", "Similar to: unsettled", "Definition: lacking a particular location", ""]}
