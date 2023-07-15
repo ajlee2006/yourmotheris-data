@@ -1,1 +1,1 @@
-{"data": ["2023-07-15T10:01:15.953251+00:00", 12591, "Your mother is", "katharobic", "", "Definition: of living being in an oxygenated environment lacking organic matter", ""]}
+{"data": ["2023-07-15T11:01:00.546060+00:00", 12592, "Your mother is", "silty", "Pronunciation: /\u02c8s\u026alti/", "Definition: full of silt", ""]}
