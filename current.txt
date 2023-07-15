@@ -1,1 +1,1 @@
-{"data": ["2023-07-15T05:01:21.432733+00:00", 12586, "Your mother is", "deskbound", "Pronunciation: /\u02c8d\u025bsk\u02ccba\u028and/", "Definition: restricted to working in an office rather than in an active physical capacity", "Synonyms: desk-bound"]}
+{"data": ["2023-07-15T06:01:19.107059+00:00", 12587, "Your mother is", "ridiculous", "Pronunciation: /r\u026a\u02c8d\u026akj\u0259l\u0259s/", "Definition: inspiring scornful pity", "Synonyms: pathetic, silly"]}
