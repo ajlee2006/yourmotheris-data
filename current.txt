@@ -1,1 +1,1 @@
-{"data": ["2023-07-15T14:01:40.825955+00:00", 12595, "Your mother is", "offshore", "Pronunciation: /\u02c8\u0254f\u02c8\u0283o\u028ar/", "Definition: (of winds) coming from the land", "Synonyms: seaward"]}
+{"data": ["2023-07-15T15:01:09.106016+00:00", 12596, "Your mother is", "mononucleate", "", "Definition: having only one nucleus", "Synonyms: mononuclear"]}
