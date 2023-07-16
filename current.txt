@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T07:01:26.318693+00:00", 12612, "Your mother is", "anuran", "Pronunciation: /\u0259\u02c8n\u028ar\u0259n/", "Definition: relating to frogs and toads", "Synonyms: batrachian, salientian"]}
+{"data": ["2023-07-16T08:01:18.344982+00:00", 12613, "Your mother is", "quaternate", "Pronunciation: /\u02c8kw\u0251t\u0259r\u02ccne\u026at/", "Definition: consisting of or especially arranged in sets of four", "Synonyms: quaternary"]}
