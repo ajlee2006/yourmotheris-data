@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T02:01:36.512897+00:00", 12607, "Your mother is", "melodramatic", "Pronunciation: /\u02ccm\u025bl\u0259dr\u0259\u02c8m\u00e6t\u026ak/", "Definition: characteristic of acting or a stage performance; often affected", "Synonyms: histrionic"]}
+{"data": ["2023-07-16T03:01:34.144460+00:00", 12608, "Your mother is", "underarm", "Pronunciation: /\u02c8\u0259nd\u0259r\u02cc\u0251rm/", "Definition: with hand brought forward and up from below shoulder level", "Synonyms: underhand, underhanded"]}
