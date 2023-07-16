@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T11:01:06.637343+00:00", 12616, "Your mother is", "apteral", "Pronunciation: /\u02c8\u00e6pt\u0259r\u0259l/", "Definition: (of insects) without wings", "Synonyms: apterous"]}
+{"data": ["2023-07-16T12:01:18.994685+00:00", 12617, "Your mother is", "foliose", "Pronunciation: /\u02c8fo\u028ali\u02cco\u028as/", "Definition: bearing numerous leaves", "Synonyms: foliaceous, foliaged"]}
