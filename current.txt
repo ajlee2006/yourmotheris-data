@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T22:01:36.715248+00:00", 12627, "Your mother is", "shortened", "Pronunciation: /\u02c8\u0283\u0254rt\u028cnd/", "Definition: cut short in duration", "Synonyms: abbreviated, truncated"]}
+{"data": ["2023-07-16T23:00:52.932892+00:00", 12628, "Your mother is", "blindfold", "Pronunciation: /\u02c8bla\u026and\u02ccfo\u028ald/", "Definition: wearing a blindfold", "Synonyms: blindfolded"]}
