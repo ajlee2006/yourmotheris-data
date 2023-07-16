@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T04:01:08.701902+00:00", 12609, "Your mother is", "crabwise", "Pronunciation: /\u02c8kr\u00e6bwa\u026az/", "Definition: (of movement) at an angle", "Synonyms: sideways"]}
+{"data": ["2023-07-16T05:01:37.196937+00:00", 12610, "Your mother is", "recumbent", "Pronunciation: /r\u026a\u02c8k\u0259mb\u0259nt/", "Definition: lying down; in a position of comfort or rest", "Synonyms: accumbent, decumbent"]}
