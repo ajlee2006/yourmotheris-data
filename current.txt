@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T15:01:05.935877+00:00", 12620, "Your mother is", "lame", "Pronunciation: /le\u026am/", "Definition: pathetically lacking in force or effectiveness", "Synonyms: feeble"]}
+{"data": ["2023-07-16T16:01:05.880018+00:00", 12621, "Your mother is", "parceled out", "Similar to: distributed", "Definition: given out in portions", "Synonyms: apportioned, dealt out, doled out, meted out"]}
