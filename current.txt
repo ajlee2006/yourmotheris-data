@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T10:01:06.143215+00:00", 12615, "Your mother is", "jejune", "Pronunciation: /d\u0292\u026a\u02c8d\u0292un/", "Definition: displaying or suggesting a lack of maturity", "Synonyms: adolescent, juvenile, puerile"]}
+{"data": ["2023-07-16T11:01:06.637343+00:00", 12616, "Your mother is", "apteral", "Pronunciation: /\u02c8\u00e6pt\u0259r\u0259l/", "Definition: (of insects) without wings", "Synonyms: apterous"]}
