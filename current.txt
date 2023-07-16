@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T05:01:37.196937+00:00", 12610, "Your mother is", "recumbent", "Pronunciation: /r\u026a\u02c8k\u0259mb\u0259nt/", "Definition: lying down; in a position of comfort or rest", "Synonyms: accumbent, decumbent"]}
+{"data": ["2023-07-16T06:00:52.654134+00:00", 12611, "Your mother is", "hematologic", "Pronunciation: /\u02cch\u025bm\u0259\u02c8t\u0259l\u0251d\u0292\u026ak/", "Definition: of or relating to or involved in hematology", "Synonyms: haematological, hematological"]}
