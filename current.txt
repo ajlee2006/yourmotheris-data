@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T06:00:52.654134+00:00", 12611, "Your mother is", "hematologic", "Pronunciation: /\u02cch\u025bm\u0259\u02c8t\u0259l\u0251d\u0292\u026ak/", "Definition: of or relating to or involved in hematology", "Synonyms: haematological, hematological"]}
+{"data": ["2023-07-16T07:01:26.318693+00:00", 12612, "Your mother is", "anuran", "Pronunciation: /\u0259\u02c8n\u028ar\u0259n/", "Definition: relating to frogs and toads", "Synonyms: batrachian, salientian"]}
