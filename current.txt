@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T03:01:34.144460+00:00", 12608, "Your mother is", "underarm", "Pronunciation: /\u02c8\u0259nd\u0259r\u02cc\u0251rm/", "Definition: with hand brought forward and up from below shoulder level", "Synonyms: underhand, underhanded"]}
+{"data": ["2023-07-16T04:01:08.701902+00:00", 12609, "Your mother is", "crabwise", "Pronunciation: /\u02c8kr\u00e6bwa\u026az/", "Definition: (of movement) at an angle", "Synonyms: sideways"]}
