@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T01:01:19.340703+00:00", 12606, "Your mother is", "exculpated", "Similar to: clean-handed", "Definition: freed from any question of guilt", "Synonyms: absolved, clear, cleared, exonerated, vindicated"]}
+{"data": ["2023-07-16T02:01:36.512897+00:00", 12607, "Your mother is", "melodramatic", "Pronunciation: /\u02ccm\u025bl\u0259dr\u0259\u02c8m\u00e6t\u026ak/", "Definition: characteristic of acting or a stage performance; often affected", "Synonyms: histrionic"]}
