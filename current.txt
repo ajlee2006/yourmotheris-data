@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T09:01:21.600735+00:00", 12614, "Your mother is", "bullocky", "Pronunciation: /\u02c8b\u028al\u0259ki/", "Definition: resembling a bullock in strength and power", ""]}
+{"data": ["2023-07-16T10:01:06.143215+00:00", 12615, "Your mother is", "jejune", "Pronunciation: /d\u0292\u026a\u02c8d\u0292un/", "Definition: displaying or suggesting a lack of maturity", "Synonyms: adolescent, juvenile, puerile"]}
