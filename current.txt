@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T14:01:27.005268+00:00", 12619, "Your mother is", "unsurpassed", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8p\u0251st/", "Definition: not capable of being improved on", "Synonyms: unexceeded, unexcelled"]}
+{"data": ["2023-07-16T15:01:05.935877+00:00", 12620, "Your mother is", "lame", "Pronunciation: /le\u026am/", "Definition: pathetically lacking in force or effectiveness", "Synonyms: feeble"]}
