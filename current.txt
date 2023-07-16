@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T08:01:18.344982+00:00", 12613, "Your mother is", "quaternate", "Pronunciation: /\u02c8kw\u0251t\u0259r\u02ccne\u026at/", "Definition: consisting of or especially arranged in sets of four", "Synonyms: quaternary"]}
+{"data": ["2023-07-16T09:01:21.600735+00:00", 12614, "Your mother is", "bullocky", "Pronunciation: /\u02c8b\u028al\u0259ki/", "Definition: resembling a bullock in strength and power", ""]}
