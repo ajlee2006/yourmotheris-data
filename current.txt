@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T17:01:02.908120+00:00", 12622, "Your mother is", "ligneous", "Pronunciation: /\u02c8l\u026agni\u0259s/", "Definition: consisting of or containing lignin or xylem", ""]}
+{"data": ["2023-07-16T18:01:40.339167+00:00", 12623, "Your mother is", "meted out", "Similar to: distributed", "Definition: given out in portions", "Synonyms: apportioned, dealt out, doled out, parceled out"]}
