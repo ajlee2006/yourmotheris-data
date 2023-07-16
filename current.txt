@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T13:01:15.043112+00:00", 12618, "Your mother is", "ho-hum", "Pronunciation: /ho\u028a-h\u0259m/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: boring, deadening, dull, irksome, slow, tedious, tiresome, wearisome"]}
+{"data": ["2023-07-16T14:01:27.005268+00:00", 12619, "Your mother is", "unsurpassed", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8p\u0251st/", "Definition: not capable of being improved on", "Synonyms: unexceeded, unexcelled"]}
