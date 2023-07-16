@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T19:01:26.140739+00:00", 12624, "Your mother is", "voracious", "Pronunciation: /vo\u028a\u02c8re\u026a\u0283\u0259s/", "Definition: devouring or craving food in great quantities", "Synonyms: edacious, esurient, rapacious, ravening, ravenous, wolfish"]}
+{"data": ["2023-07-16T20:01:20.336959+00:00", 12625, "Your mother is", "insolent", "Pronunciation: /\u02c8\u026ans\u0259l\u0259nt/", "Definition: unrestrained by convention or propriety", "Synonyms: audacious, bald-faced, barefaced, bodacious, brassy, brazen, brazen-faced"]}
