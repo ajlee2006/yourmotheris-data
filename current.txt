@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T00:01:53.530431+00:00", 12629, "Your mother is", "ventilated", "Pronunciation: /\u02c8v\u025bnt\u028c\u02ccle\u026at\u026ad/", "Definition: exposed to air", ""]}
+{"data": ["2023-07-17T01:01:03.260745+00:00", 12630, "Your mother is", "unneurotic", "Similar to: together", "Definition: not neurotic", ""]}
