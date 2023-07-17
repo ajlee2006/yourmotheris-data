@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T10:01:33.539086+00:00", 12639, "Your mother is", "machine-accessible", "Similar to: on-line", "Definition: stored in, controlled by, or in direct communication with a central computer", "Synonyms: connected"]}
+{"data": ["2023-07-17T11:01:04.367016+00:00", 12640, "Your mother is", "surviving", "Pronunciation: /s\u025dr\u02c8va\u026av\u026a\u014b/", "Definition: still in existence", "Synonyms: living"]}
