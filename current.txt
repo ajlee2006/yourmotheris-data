@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T06:00:57.200196+00:00", 12635, "Your mother is", "slim-waisted", "Pronunciation: /sl\u026am-\u02c8we\u026ast\u026ad/", "Definition: having a small waist", "Synonyms: slender-waisted, wasp-waisted"]}
+{"data": ["2023-07-17T07:01:18.151076+00:00", 12636, "Your mother is", "collect", "Pronunciation: /\u02c8k\u0251l\u025bkt/", "Definition: payable by the recipient on delivery", "Synonyms: cod"]}
