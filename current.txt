@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T11:01:04.367016+00:00", 12640, "Your mother is", "surviving", "Pronunciation: /s\u025dr\u02c8va\u026av\u026a\u014b/", "Definition: still in existence", "Synonyms: living"]}
+{"data": ["2023-07-17T12:01:01.409303+00:00", 12641, "Your mother is", "unsolicited", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8l\u026as\u026at\u026ad/", "Definition: not requested or sought", "Synonyms: unasked-for"]}
