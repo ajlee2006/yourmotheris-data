@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T02:01:14.888120+00:00", 12631, "Your mother is", "geomorphological", "Pronunciation: /\u02ccd\u0292i\u0259\u02ccm\u0254rph\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: pertaining to geological structure", "Synonyms: geomorphologic, morphologic, morphological, structural"]}
+{"data": ["2023-07-17T03:01:21.452355+00:00", 12632, "Your mother is", "compensated", "Pronunciation: /\u02c8k\u0251mp\u028cn\u02ccse\u026at\u028cd/", "Definition: receiving or eligible for compensation", "Synonyms: remunerated, salaried, stipendiary"]}
