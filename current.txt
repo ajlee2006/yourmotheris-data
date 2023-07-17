@@ -1,1 +1,1 @@
-{"data": ["2023-07-16T23:00:52.932892+00:00", 12628, "Your mother is", "blindfold", "Pronunciation: /\u02c8bla\u026and\u02ccfo\u028ald/", "Definition: wearing a blindfold", "Synonyms: blindfolded"]}
+{"data": ["2023-07-17T00:01:53.530431+00:00", 12629, "Your mother is", "ventilated", "Pronunciation: /\u02c8v\u025bnt\u028c\u02ccle\u026at\u026ad/", "Definition: exposed to air", ""]}
