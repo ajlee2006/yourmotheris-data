@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T07:01:18.151076+00:00", 12636, "Your mother is", "collect", "Pronunciation: /\u02c8k\u0251l\u025bkt/", "Definition: payable by the recipient on delivery", "Synonyms: cod"]}
+{"data": ["2023-07-17T08:01:33.418365+00:00", 12637, "Your mother is", "evanescent", "Pronunciation: /\u02cc\u025bv\u0259\u02c8n\u025bs\u0259nt/", "Definition: tending to vanish like vapor", ""]}
