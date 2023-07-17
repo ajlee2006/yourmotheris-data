@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T05:01:23.109610+00:00", 12634, "Your mother is", "ninefold", "Pronunciation: /\u02c8na\u026an\u02ccfo\u028ald/", "Definition: having nine units or components", "Synonyms: nine-fold, nonuple"]}
+{"data": ["2023-07-17T06:00:57.200196+00:00", 12635, "Your mother is", "slim-waisted", "Pronunciation: /sl\u026am-\u02c8we\u026ast\u026ad/", "Definition: having a small waist", "Synonyms: slender-waisted, wasp-waisted"]}
