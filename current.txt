@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T14:01:35.246294+00:00", 12643, "Your mother is", "unattackable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u00e6k\u0259b\u0259l/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, inviolable, secure, strong, unassailable"]}
+{"data": ["2023-07-17T15:01:20.043960+00:00", 12644, "Your mother is", "seamy", "Pronunciation: /\u02c8simi/", "Definition: morally degraded", "Synonyms: seedy, sleazy, sordid, squalid"]}
