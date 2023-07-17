@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T13:01:09.623620+00:00", 12642, "Your mother is", "vocative", "Pronunciation: /\u02c8v\u0251k\u0259t\u026av/", "Definition: relating to a case used in some languages", ""]}
+{"data": ["2023-07-17T14:01:35.246294+00:00", 12643, "Your mother is", "unattackable", "Pronunciation: /\u02cc\u0259n\u0259\u02c8t\u00e6k\u0259b\u0259l/", "Definition: immune to attack; incapable of being tampered with", "Synonyms: impregnable, inviolable, secure, strong, unassailable"]}
