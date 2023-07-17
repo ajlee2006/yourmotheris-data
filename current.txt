@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T18:01:35.641533+00:00", 12647, "Your mother is", "mesodermal", "Pronunciation: /\u02ccm\u025bz\u028c\u02c8d\u025drm\u028cl/", "Definition: relating to or derived from the mesoderm", "Synonyms: mesoblastic"]}
+{"data": ["2023-07-17T19:01:11.079604+00:00", 12648, "Your mother is", "waterless", "Pronunciation: /\u02c8w\u0254t\u0259rl\u026as/", "Definition: lacking sufficient water or rainfall", "Synonyms: arid"]}
