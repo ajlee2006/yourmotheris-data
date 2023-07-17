@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T01:01:03.260745+00:00", 12630, "Your mother is", "unneurotic", "Similar to: together", "Definition: not neurotic", ""]}
+{"data": ["2023-07-17T02:01:14.888120+00:00", 12631, "Your mother is", "geomorphological", "Pronunciation: /\u02ccd\u0292i\u0259\u02ccm\u0254rph\u0259\u02c8l\u0251d\u0292\u026ak\u0259l/", "Definition: pertaining to geological structure", "Synonyms: geomorphologic, morphologic, morphological, structural"]}
