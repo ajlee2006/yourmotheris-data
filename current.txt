@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T04:01:22.637963+00:00", 12633, "Your mother is", "nonproprietary", "Similar to: generic", "Definition: not protected by trademark or patent or copyright", ""]}
+{"data": ["2023-07-17T05:01:23.109610+00:00", 12634, "Your mother is", "ninefold", "Pronunciation: /\u02c8na\u026an\u02ccfo\u028ald/", "Definition: having nine units or components", "Synonyms: nine-fold, nonuple"]}
