@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T09:01:32.456078+00:00", 12638, "Your mother is", "womanlike", "Similar to: feminine", "Definition: resembling a woman", ""]}
+{"data": ["2023-07-17T10:01:33.539086+00:00", 12639, "Your mother is", "machine-accessible", "Similar to: on-line", "Definition: stored in, controlled by, or in direct communication with a central computer", "Synonyms: connected"]}
