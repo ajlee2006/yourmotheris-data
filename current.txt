@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T19:01:11.079604+00:00", 12648, "Your mother is", "waterless", "Pronunciation: /\u02c8w\u0254t\u0259rl\u026as/", "Definition: lacking sufficient water or rainfall", "Synonyms: arid"]}
+{"data": ["2023-07-17T20:00:52.428150+00:00", 12649, "Your mother is", "becalmed", "Pronunciation: /b\u026a\u02c8k\u0251md/", "Definition: rendered motionless for lack of wind", ""]}
