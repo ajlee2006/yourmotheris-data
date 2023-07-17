@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T22:01:41.462126+00:00", 12651, "Your mother is", "foolproof", "Pronunciation: /\u02c8ful\u02ccpruf/", "Definition: not liable to failure", "Synonyms: unfailing"]}
+{"data": ["2023-07-17T23:00:55.531302+00:00", 12652, "Your mother is", "forthright", "Pronunciation: /\u02c8fo\u028ar\u03b8\u02ccra\u026at/", "Definition: characterized by directness in manner or speech; without subtlety or evasion", "Synonyms: blunt, candid, frank, free-spoken, outspoken, plainspoken, point-blank, straight-from-the-shoulder"]}
