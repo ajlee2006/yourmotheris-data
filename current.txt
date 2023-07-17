@@ -1,1 +1,1 @@
-{"data": ["2023-07-17T12:01:01.409303+00:00", 12641, "Your mother is", "unsolicited", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8l\u026as\u026at\u026ad/", "Definition: not requested or sought", "Synonyms: unasked-for"]}
+{"data": ["2023-07-17T13:01:09.623620+00:00", 12642, "Your mother is", "vocative", "Pronunciation: /\u02c8v\u0251k\u0259t\u026av/", "Definition: relating to a case used in some languages", ""]}
