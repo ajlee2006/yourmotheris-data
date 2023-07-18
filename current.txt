@@ -1,1 +1,1 @@
-{"data": ["2023-07-18T18:01:20.714688+00:00", 12671, "Your mother is", "lentiginose", "Pronunciation: /l\u025bn\u02c8t\u026ad\u0292\u0259\u02ccno\u028as/", "Definition: relating to or covered with or resembling freckles", "Synonyms: freckled, lentiginous"]}
+{"data": ["2023-07-18T19:01:12.347758+00:00", 12672, "Your mother is", "activated", "Pronunciation: /\u02c8\u00e6kt\u028c\u02ccve\u026at\u028cd/", "Definition: (of e.g. a molecule) made reactive or more reactive", "Synonyms: excited"]}
