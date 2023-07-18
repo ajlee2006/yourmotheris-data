@@ -1,1 +1,1 @@
-{"data": ["2023-07-18T05:01:35.292848+00:00", 12658, "Your mother is", "o.k.", "Similar to: satisfactory", "Definition: being satisfactory or in satisfactory condition", "Synonyms: all right, cool, fine, hunky-dory, ok, okay"]}
+{"data": ["2023-07-18T06:01:25.685396+00:00", 12659, "Your mother is", "underactive", "Similar to: inactive", "Definition: abnormally inactive", "Synonyms: hypoactive"]}
