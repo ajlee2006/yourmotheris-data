@@ -1,1 +1,1 @@
-{"data": ["2023-07-18T07:01:34.686489+00:00", 12660, "Your mother is", "pancake-like", "Similar to: circular", "Definition: resembling a pancake in shape", ""]}
+{"data": ["2023-07-18T08:00:53.821974+00:00", 12661, "Your mother is", "northward", "Pronunciation: /\u02c8n\u0254r\u03b8\u02ccw\u0259rd/", "Definition: moving toward the north", "Synonyms: northbound"]}
