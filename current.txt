@@ -1,1 +1,1 @@
-{"data": ["2023-07-18T21:01:29.905952+00:00", 12674, "Your mother is", "regimented", "Pronunciation: /\u02c8r\u025bd\u0292\u028c\u02ccm\u025bnt\u026ad/", "Definition: strictly controlled", ""]}
+{"data": ["2023-07-18T22:01:03.033602+00:00", 12675, "Your mother is", "soppy", "Pronunciation: /\u02c8s\u0251pi/", "Definition: wet through and through; thoroughly wet", "Synonyms: sodden"]}
