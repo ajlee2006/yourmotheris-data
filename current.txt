@@ -1,1 +1,1 @@
-{"data": ["2023-07-18T10:01:28.395628+00:00", 12663, "Your mother is", "hominian", "Pronunciation: /ho\u028a\u02c8m\u026ani\u0259n/", "Definition: characterizing the family Hominidae, which includes Homo sapiens as well as extinct species of manlike creatures", "Synonyms: hominid"]}
+{"data": ["2023-07-18T11:01:36.507937+00:00", 12664, "Your mother is", "liquid-fueled", "Similar to: fueled", "Definition: fueled by a liquid fuel", ""]}
