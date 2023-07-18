@@ -1,1 +1,1 @@
-{"data": ["2023-07-18T19:01:12.347758+00:00", 12672, "Your mother is", "activated", "Pronunciation: /\u02c8\u00e6kt\u028c\u02ccve\u026at\u028cd/", "Definition: (of e.g. a molecule) made reactive or more reactive", "Synonyms: excited"]}
+{"data": ["2023-07-18T20:01:39.377067+00:00", 12673, "Your mother is", "wrothful", "Similar to: angry", "Definition: vehemently incensed and condemnatory", "Synonyms: wrathful, wroth"]}
