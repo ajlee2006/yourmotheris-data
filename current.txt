@@ -1,1 +1,1 @@
-{"data": ["2023-07-18T15:01:04.305231+00:00", 12668, "Your mother is", "priggish", "Pronunciation: /\u02c8pr\u026a\u0261\u026a\u0283/", "Definition: exaggeratedly proper", "Synonyms: prim, prissy, prudish, puritanical, square-toed, straight-laced, straightlaced, strait-laced, straitlaced, tight-laced, victorian"]}
+{"data": ["2023-07-18T16:01:01.825291+00:00", 12669, "Your mother is", "paederastic", "", "Definition: of homosexuality between a man and a boy", "Synonyms: pederastic"]}
