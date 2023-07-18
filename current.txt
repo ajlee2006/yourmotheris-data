@@ -1,1 +1,1 @@
-{"data": ["2023-07-18T04:01:15.416733+00:00", 12657, "Your mother is", "mislaid", "Pronunciation: /m\u026as\u02c8le\u026ad/", "Definition: lost temporarily; as especially put in an unaccustomed or forgotten place", "Synonyms: misplaced"]}
+{"data": ["2023-07-18T05:01:35.292848+00:00", 12658, "Your mother is", "o.k.", "Similar to: satisfactory", "Definition: being satisfactory or in satisfactory condition", "Synonyms: all right, cool, fine, hunky-dory, ok, okay"]}
