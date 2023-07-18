@@ -1,1 +1,1 @@
-{"data": ["2023-07-18T13:01:07.736238+00:00", 12666, "Your mother is", "terror-struck", "Pronunciation: /\u02c8t\u025br\u0259r-str\u0259k/", "Definition: struck or filled with terror", "Synonyms: terror-stricken"]}
+{"data": ["2023-07-18T14:01:06.597082+00:00", 12667, "Your mother is", "caring", "Pronunciation: /\u02c8k\u025cri\u014b/", "Definition: feeling and exhibiting concern and empathy for others", ""]}
