@@ -1,1 +1,1 @@
-{"data": ["2023-07-18T09:01:32.708113+00:00", 12662, "Your mother is", "proximate", "Pronunciation: /\u02c8pr\u0251ks\u0259m\u026at/", "Definition: closest in degree or order (space or time) especially in a chain of causes and effects", ""]}
+{"data": ["2023-07-18T10:01:28.395628+00:00", 12663, "Your mother is", "hominian", "Pronunciation: /ho\u028a\u02c8m\u026ani\u0259n/", "Definition: characterizing the family Hominidae, which includes Homo sapiens as well as extinct species of manlike creatures", "Synonyms: hominid"]}
