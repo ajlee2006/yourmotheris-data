@@ -1,1 +1,1 @@
-{"data": ["2023-07-18T17:01:19.962389+00:00", 12670, "Your mother is", "rambling", "Pronunciation: /\u02c8r\u00e6mbl\u026a\u014b/", "Definition: spreading out in different directions or distributed irregularly", "Synonyms: sprawling, straggling, straggly"]}
+{"data": ["2023-07-18T18:01:20.714688+00:00", 12671, "Your mother is", "lentiginose", "Pronunciation: /l\u025bn\u02c8t\u026ad\u0292\u0259\u02ccno\u028as/", "Definition: relating to or covered with or resembling freckles", "Synonyms: freckled, lentiginous"]}
