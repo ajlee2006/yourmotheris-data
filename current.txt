@@ -1,1 +1,1 @@
-{"data": ["2023-07-18T08:00:53.821974+00:00", 12661, "Your mother is", "northward", "Pronunciation: /\u02c8n\u0254r\u03b8\u02ccw\u0259rd/", "Definition: moving toward the north", "Synonyms: northbound"]}
+{"data": ["2023-07-18T09:01:32.708113+00:00", 12662, "Your mother is", "proximate", "Pronunciation: /\u02c8pr\u0251ks\u0259m\u026at/", "Definition: closest in degree or order (space or time) especially in a chain of causes and effects", ""]}
