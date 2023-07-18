@@ -1,1 +1,1 @@
-{"data": ["2023-07-18T20:01:39.377067+00:00", 12673, "Your mother is", "wrothful", "Similar to: angry", "Definition: vehemently incensed and condemnatory", "Synonyms: wrathful, wroth"]}
+{"data": ["2023-07-18T21:01:29.905952+00:00", 12674, "Your mother is", "regimented", "Pronunciation: /\u02c8r\u025bd\u0292\u028c\u02ccm\u025bnt\u026ad/", "Definition: strictly controlled", ""]}
