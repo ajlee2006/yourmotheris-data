@@ -1,1 +1,1 @@
-{"data": ["2023-07-18T11:01:36.507937+00:00", 12664, "Your mother is", "liquid-fueled", "Similar to: fueled", "Definition: fueled by a liquid fuel", ""]}
+{"data": ["2023-07-18T12:01:33.736173+00:00", 12665, "Your mother is", "heads-up", "Pronunciation: /h\u025bdz-\u0259p/", "Definition: fully alert and watchful", "Synonyms: wide-awake"]}
