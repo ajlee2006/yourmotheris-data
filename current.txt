@@ -1,1 +1,1 @@
-{"data": ["2023-07-19T03:01:04.433296+00:00", 12680, "Your mother is", "consistent", "Pronunciation: /k\u0259n\u02c8s\u026ast\u0259nt/", "Definition: the same throughout in structure or composition", "Synonyms: uniform"]}
+{"data": ["2023-07-19T04:01:18.399883+00:00", 12681, "Your mother is", "autarkical", "Similar to: independent", "Definition: of countries; not relying on imports", "Synonyms: autarkic"]}
