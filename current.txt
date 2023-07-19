@@ -1,1 +1,1 @@
-{"data": ["2023-07-19T15:01:13.608088+00:00", 12692, "Your mother is", "well-proportioned", "Pronunciation: /w\u025bl-pr\u0259\u02c8po\u028ar\u0283\u0259nd/", "Definition: of pleasing proportions", ""]}
+{"data": ["2023-07-19T16:01:00.623379+00:00", 12693, "Your mother is", "ornamental", "Pronunciation: /\u02cc\u0254rn\u0259\u02c8m\u025bnt\u0259l/", "Definition: serving an esthetic rather than a useful purpose", "Synonyms: cosmetic, decorative"]}
