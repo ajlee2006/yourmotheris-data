@@ -1,1 +1,1 @@
-{"data": ["2023-07-19T00:03:08.390420+00:00", 12677, "Your mother is", "open-eyed", "Pronunciation: /\u02c8o\u028ap\u0259n-a\u026ad/", "Definition: carefully observant or attentive; on the lookout for possible danger", "Synonyms: argus-eyed, vigilant, wakeful"]}
+{"data": ["2023-07-19T01:01:25.925045+00:00", 12678, "Your mother is", "twin-bedded", "Similar to: bedded", "Definition: having twin beds", ""]}
