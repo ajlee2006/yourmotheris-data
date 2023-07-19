@@ -1,1 +1,1 @@
-{"data": ["2023-07-19T10:01:39.363226+00:00", 12687, "Your mother is", "accustomed", "Pronunciation: /\u0259\u02c8k\u0259st\u0259md/", "Definition: commonly used or practiced; usual", "Synonyms: customary, habitual, wonted"]}
+{"data": ["2023-07-19T11:01:25.566998+00:00", 12688, "Your mother is", "fruitful", "Pronunciation: /\u02c8frutf\u0259l/", "Definition: productive or conducive to producing in abundance", ""]}
