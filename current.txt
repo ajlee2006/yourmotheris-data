@@ -1,1 +1,1 @@
-{"data": ["2023-07-19T18:01:13.833166+00:00", 12695, "Your mother is", "low-priced", "Similar to: cheap", "Definition: that you have the financial means for", "Synonyms: affordable, low-cost"]}
+{"data": ["2023-07-19T19:01:26.363843+00:00", 12696, "Your mother is", "ramous", "Similar to: branchy", "Definition: having branches", "Synonyms: branched, branching, ramate, ramose"]}
