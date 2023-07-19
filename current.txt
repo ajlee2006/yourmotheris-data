@@ -1,1 +1,1 @@
-{"data": ["2023-07-19T16:01:00.623379+00:00", 12693, "Your mother is", "ornamental", "Pronunciation: /\u02cc\u0254rn\u0259\u02c8m\u025bnt\u0259l/", "Definition: serving an esthetic rather than a useful purpose", "Synonyms: cosmetic, decorative"]}
+{"data": ["2023-07-19T17:01:17.927439+00:00", 12694, "Your mother is", "deskbound", "Pronunciation: /\u02c8d\u025bsk\u02ccba\u028and/", "Definition: restricted to working in an office rather than in an active physical capacity", "Synonyms: desk-bound"]}
