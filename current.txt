@@ -1,1 +1,1 @@
-{"data": ["2023-07-19T22:01:30.657921+00:00", 12699, "Your mother is", "fringy", "Similar to: peripheral", "Definition: at or constituting a border or edge", "Synonyms: marginal"]}
+{"data": ["2023-07-19T23:01:09.578894+00:00", 12700, "Your mother is", "plantigrade", "Pronunciation: /\u02c8pl\u00e6nt\u026a\u02ccgre\u026ad/", "Definition: (of mammals) walking on the whole sole of the foot (as rabbits, raccoons, bears, and humans do)", ""]}
