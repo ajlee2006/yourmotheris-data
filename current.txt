@@ -1,1 +1,1 @@
-{"data": ["2023-07-20T02:01:25.900058+00:00", 12703, "Your mother is", "hindi", "Pronunciation: /\u02c8h\u026andi/", "Definition: of or relating to or supporting Hinduism", "Synonyms: hindoo, hindu"]}
+{"data": ["2023-07-20T03:01:26.222765+00:00", 12704, "Your mother is", "kindly", "Pronunciation: /\u02c8ka\u026andli/", "Definition: showing or motivated by sympathy and understanding and generosity", "Synonyms: benevolent, charitable, good-hearted, large-hearted, openhearted, sympathetic"]}
