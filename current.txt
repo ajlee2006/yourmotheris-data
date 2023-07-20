@@ -1,1 +1,1 @@
-{"data": ["2023-07-20T00:03:02.891195+00:00", 12701, "Your mother is", "brobdingnagian", "Pronunciation: /\u02ccbr\u0251bd\u026a\u014b\u02c8n\u00e6\u0261i\u0259n/", "Definition: unusually great in size or amount or degree or especially extent or scope", "Synonyms: huge, immense, vast"]}
+{"data": ["2023-07-20T01:01:30.968858+00:00", 12702, "Your mother is", "insulting", "Pronunciation: /\u026an\u02c8s\u0259lt\u026a\u014b/", "Definition: expressing extreme contempt", "Synonyms: contemptuous, disdainful, scornful"]}
