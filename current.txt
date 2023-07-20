@@ -1,1 +1,1 @@
-{"data": ["2023-07-20T17:01:39.760695+00:00", 12718, "Your mother is", "folding", "Pronunciation: /\u02c8fo\u028ald\u026a\u014b/", "Definition: capable of being folded up and stored", "Synonyms: foldable, foldaway"]}
+{"data": ["2023-07-20T18:01:12.242950+00:00", 12719, "Your mother is", "medium-large", "Similar to: big", "Definition: of anything that is large but not the largest", ""]}
