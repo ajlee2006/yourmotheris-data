@@ -1,1 +1,1 @@
-{"data": ["2023-07-20T21:01:19.580271+00:00", 12722, "Your mother is", "orange", "Pronunciation: /\u02c8\u0254r\u026and\u0292/", "Definition: of the color between red and yellow; similar to the color of a ripe orange", "Synonyms: orangish"]}
+{"data": ["2023-07-20T22:01:20.574708+00:00", 12723, "Your mother is", "fruticulose", "", "Definition: of or relating to or resembling a shrub", "Synonyms: fruticose, shrubby"]}
