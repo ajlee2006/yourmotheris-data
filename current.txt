@@ -1,1 +1,1 @@
-{"data": ["2023-07-20T10:01:01.408887+00:00", 12711, "Your mother is", "abuzz", "Pronunciation: /\u0259\u02c8b\u0259z/", "Definition: noisy like the sound of a bee", "Synonyms: buzzing"]}
+{"data": ["2023-07-20T11:01:39.061157+00:00", 12712, "Your mother is", "chirpy", "Pronunciation: /\u02c8\u02a7\u025crpi/", "Definition: characterized by liveliness and lightheartedness", "Synonyms: buoyant, perky"]}
