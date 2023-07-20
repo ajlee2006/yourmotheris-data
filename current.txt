@@ -1,1 +1,1 @@
-{"data": ["2023-07-20T08:01:34.200573+00:00", 12709, "Your mother is", "on the hook", "Similar to: dangerous", "Definition: caught in a difficult or dangerous situation", ""]}
+{"data": ["2023-07-20T09:01:07.768667+00:00", 12710, "Your mother is", "onomatopoeic", "", "Definition: (of words) formed in imitation of a natural sound", "Synonyms: echoic, imitative, onomatopoeical, onomatopoetic"]}
