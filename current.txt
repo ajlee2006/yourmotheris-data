@@ -1,1 +1,1 @@
-{"data": ["2023-07-20T05:01:32.972860+00:00", 12706, "Your mother is", "toed", "Pronunciation: /to\u028ad/", "Definition: having a toe or toes of a specified kind; often used in combination", ""]}
+{"data": ["2023-07-20T06:00:56.560058+00:00", 12707, "Your mother is", "autocratic", "Pronunciation: /\u02cc\u0254t\u0259\u02c8kr\u00e6t\u026ak/", "Definition: characteristic of an absolute ruler or absolute rule; having absolute sovereignty", "Synonyms: authoritarian, despotic, dictatorial, tyrannic, tyrannical"]}
