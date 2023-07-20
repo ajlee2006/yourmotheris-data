@@ -1,1 +1,1 @@
-{"data": ["2023-07-20T03:01:26.222765+00:00", 12704, "Your mother is", "kindly", "Pronunciation: /\u02c8ka\u026andli/", "Definition: showing or motivated by sympathy and understanding and generosity", "Synonyms: benevolent, charitable, good-hearted, large-hearted, openhearted, sympathetic"]}
+{"data": ["2023-07-20T04:01:18.641169+00:00", 12705, "Your mother is", "oligarchic", "Pronunciation: /\u02cc\u0251l\u0259\u02c8\u0261\u0251rk\u026ak/", "Definition: of or relating to or supporting or characteristic of an oligarchy", "Synonyms: oligarchical"]}
