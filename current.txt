@@ -1,1 +1,1 @@
-{"data": ["2023-07-20T19:01:43.236470+00:00", 12720, "Your mother is", "bowl-shaped", "Pronunciation: /bo\u028al-\u0283e\u026apt/", "Definition: having a concave shape with an open top like a bowl", ""]}
+{"data": ["2023-07-20T20:01:23.937650+00:00", 12721, "Your mother is", "chilling", "Pronunciation: /\u02c8t\u0283\u026al\u026a\u014b/", "Definition: provoking fear terror", "Synonyms: scary, shivery, shuddery"]}
