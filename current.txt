@@ -1,1 +1,1 @@
-{"data": ["2023-07-20T16:01:03.058235+00:00", 12717, "Your mother is", "guitar-shaped", "Pronunciation: /\u0261\u026a\u02c8t\u0251r-\u0283e\u026apt/", "Definition: shaped in the form of a guitar", ""]}
+{"data": ["2023-07-20T17:01:39.760695+00:00", 12718, "Your mother is", "folding", "Pronunciation: /\u02c8fo\u028ald\u026a\u014b/", "Definition: capable of being folded up and stored", "Synonyms: foldable, foldaway"]}
