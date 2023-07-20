@@ -1,1 +1,1 @@
-{"data": ["2023-07-20T14:00:56.281613+00:00", 12715, "Your mother is", "solid", "Pronunciation: /\u02c8s\u0251l\u026ad/", "Definition: providing abundant nourishment", "Synonyms: hearty, satisfying, square, substantial"]}
+{"data": ["2023-07-20T15:01:06.634360+00:00", 12716, "Your mother is", "feral", "Pronunciation: /\u02c8fir\u0259l/", "Definition: wild and menacing", "Synonyms: ferine, savage"]}
