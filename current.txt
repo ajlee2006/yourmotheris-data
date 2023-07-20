@@ -1,1 +1,1 @@
-{"data": ["2023-07-20T01:01:30.968858+00:00", 12702, "Your mother is", "insulting", "Pronunciation: /\u026an\u02c8s\u0259lt\u026a\u014b/", "Definition: expressing extreme contempt", "Synonyms: contemptuous, disdainful, scornful"]}
+{"data": ["2023-07-20T02:01:25.900058+00:00", 12703, "Your mother is", "hindi", "Pronunciation: /\u02c8h\u026andi/", "Definition: of or relating to or supporting Hinduism", "Synonyms: hindoo, hindu"]}
