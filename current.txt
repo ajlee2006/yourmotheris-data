@@ -1,1 +1,1 @@
-{"data": ["2023-07-20T23:01:33.138393+00:00", 12724, "Your mother is", "high-strung", "Pronunciation: /ha\u026a-str\u0259\u014b/", "Definition: being in a tense state", "Synonyms: edgy, highly strung, jittery, jumpy, nervy, overstrung, restive, uptight"]}
+{"data": ["2023-07-21T00:03:03.754672+00:00", 12725, "Your mother is", "clustered", "Pronunciation: /\u02c8kl\u0259st\u0259rd/", "Definition: clustered together but not coherent", "Synonyms: agglomerate, agglomerated, agglomerative"]}
