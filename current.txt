@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T16:01:13.112519+00:00", 12741, "Your mother is", "willful", "Pronunciation: /\u02c8w\u026alf\u0259l/", "Definition: done by design", "Synonyms: wilful"]}
+{"data": ["2023-07-21T17:01:10.995390+00:00", 12742, "Your mother is", "clinical", "Pronunciation: /\u02c8kl\u026an\u026ak\u0259l/", "Definition: scientifically detached; unemotional", ""]}
