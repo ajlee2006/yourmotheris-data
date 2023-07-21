@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T14:01:23.786895+00:00", 12739, "Your mother is", "accessory", "Pronunciation: /\u00e6k\u02c8s\u025bs\u0259ri/", "Definition: aiding and abetting in a crime", "Synonyms: accessary"]}
+{"data": ["2023-07-21T15:01:21.378513+00:00", 12740, "Your mother is", "savourless", "Similar to: tasteless", "Definition: lacking taste or flavor or tang", "Synonyms: bland, flat, flavorless, flavourless, insipid, savorless, vapid"]}
