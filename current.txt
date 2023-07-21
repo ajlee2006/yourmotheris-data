@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T01:01:18.698673+00:00", 12726, "Your mother is", "green-blind", "Pronunciation: /grin-bla\u026and/", "Definition: inability to see the color green or to distinguish green and purplish-red", "Synonyms: deuteranopic"]}
+{"data": ["2023-07-21T02:01:27.908584+00:00", 12727, "Your mother is", "wakeless", "Pronunciation: /\u02c8we\u026akl\u026as/", "Definition: (of sleep) deep and complete", "Synonyms: heavy, profound, sound"]}
