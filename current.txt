@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T04:01:22.364464+00:00", 12729, "Your mother is", "gold-colored", "Pronunciation: /\u0261o\u028ald-\u02c8k\u0259l\u0259rd/", "Definition: having the color of gold", "Synonyms: gold-coloured"]}
+{"data": ["2023-07-21T05:01:12.594059+00:00", 12730, "Your mother is", "twelfth", "Pronunciation: /tw\u025blf\u03b8/", "Definition: coming next after the eleventh and just before the thirteenth in position", "Synonyms: 12th"]}
