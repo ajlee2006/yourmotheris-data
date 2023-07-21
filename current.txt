@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T17:01:10.995390+00:00", 12742, "Your mother is", "clinical", "Pronunciation: /\u02c8kl\u026an\u026ak\u0259l/", "Definition: scientifically detached; unemotional", ""]}
+{"data": ["2023-07-21T18:01:30.756411+00:00", 12743, "Your mother is", "brasslike", "", "Definition: resembling the sound of a brass instrument", "Synonyms: brassy"]}
