@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T03:01:15.155940+00:00", 12728, "Your mother is", "better", "Pronunciation: /\u02c8b\u025bt\u0259r/", "Definition: (comparative and superlative of `well') wiser or more advantageous and hence advisable", "Synonyms: best"]}
+{"data": ["2023-07-21T04:01:22.364464+00:00", 12729, "Your mother is", "gold-colored", "Pronunciation: /\u0261o\u028ald-\u02c8k\u0259l\u0259rd/", "Definition: having the color of gold", "Synonyms: gold-coloured"]}
