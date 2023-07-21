@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T12:01:16.403014+00:00", 12737, "Your mother is", "erose", "Pronunciation: /\u026a\u02c8ro\u028as/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: jagged, jaggy, notched, toothed"]}
+{"data": ["2023-07-21T13:01:23.737637+00:00", 12738, "Your mother is", "gone", "Pronunciation: /\u0261\u0254n/", "Definition: drained of energy or effectiveness; extremely tired; completely exhausted", "Synonyms: dog-tired, exhausted, fagged, fatigued, played out, spent, washed-out, worn-out, worn out"]}
