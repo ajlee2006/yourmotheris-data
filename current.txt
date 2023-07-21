@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T13:01:23.737637+00:00", 12738, "Your mother is", "gone", "Pronunciation: /\u0261\u0254n/", "Definition: drained of energy or effectiveness; extremely tired; completely exhausted", "Synonyms: dog-tired, exhausted, fagged, fatigued, played out, spent, washed-out, worn-out, worn out"]}
+{"data": ["2023-07-21T14:01:23.786895+00:00", 12739, "Your mother is", "accessory", "Pronunciation: /\u00e6k\u02c8s\u025bs\u0259ri/", "Definition: aiding and abetting in a crime", "Synonyms: accessary"]}
