@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T11:01:18.182391+00:00", 12736, "Your mother is", "yellow-striped", "Pronunciation: /\u02c8j\u025blo\u028a-stra\u026apt/", "Definition: having yellow stripes", ""]}
+{"data": ["2023-07-21T12:01:16.403014+00:00", 12737, "Your mother is", "erose", "Pronunciation: /\u026a\u02c8ro\u028as/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: jagged, jaggy, notched, toothed"]}
