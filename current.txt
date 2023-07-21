@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T06:01:11.180372+00:00", 12731, "Your mother is", "starchy", "Pronunciation: /\u02c8st\u0251rt\u0283i/", "Definition: rigidly formal", "Synonyms: buckram, stiff"]}
+{"data": ["2023-07-21T07:01:24.750939+00:00", 12732, "Your mother is", "spoiled", "Pronunciation: /\u02c8sp\u0254\u026ald/", "Definition: having the character or disposition harmed by pampering or oversolicitous attention", "Synonyms: spoilt"]}
