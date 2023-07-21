@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T09:01:24.023768+00:00", 12734, "Your mother is", "nonspecific", "Pronunciation: /\u02ccn\u0251nsp\u028c\u02c8s\u026af\u026ak/", "Definition: not caused by a specific agent; used also of staining in making microscope slides", ""]}
+{"data": ["2023-07-21T10:01:05.498491+00:00", 12735, "Your mother is", "atrioventricular", "Pronunciation: /\u02cce\u026atrio\u028av\u025bn\u02c8tr\u026akj\u0259l\u0259r/", "Definition: relating to or affecting the atria and ventricles of the heart", "Synonyms: auriculoventricular"]}
