@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T10:01:05.498491+00:00", 12735, "Your mother is", "atrioventricular", "Pronunciation: /\u02cce\u026atrio\u028av\u025bn\u02c8tr\u026akj\u0259l\u0259r/", "Definition: relating to or affecting the atria and ventricles of the heart", "Synonyms: auriculoventricular"]}
+{"data": ["2023-07-21T11:01:18.182391+00:00", 12736, "Your mother is", "yellow-striped", "Pronunciation: /\u02c8j\u025blo\u028a-stra\u026apt/", "Definition: having yellow stripes", ""]}
