@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T08:01:15.188026+00:00", 12733, "Your mother is", "hematologic", "Pronunciation: /\u02cch\u025bm\u0259\u02c8t\u0259l\u0251d\u0292\u026ak/", "Definition: of or relating to or involved in hematology", "Synonyms: haematological, hematological"]}
+{"data": ["2023-07-21T09:01:24.023768+00:00", 12734, "Your mother is", "nonspecific", "Pronunciation: /\u02ccn\u0251nsp\u028c\u02c8s\u026af\u026ak/", "Definition: not caused by a specific agent; used also of staining in making microscope slides", ""]}
