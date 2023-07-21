@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T05:01:12.594059+00:00", 12730, "Your mother is", "twelfth", "Pronunciation: /tw\u025blf\u03b8/", "Definition: coming next after the eleventh and just before the thirteenth in position", "Synonyms: 12th"]}
+{"data": ["2023-07-21T06:01:11.180372+00:00", 12731, "Your mother is", "starchy", "Pronunciation: /\u02c8st\u0251rt\u0283i/", "Definition: rigidly formal", "Synonyms: buckram, stiff"]}
