@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T07:01:24.750939+00:00", 12732, "Your mother is", "spoiled", "Pronunciation: /\u02c8sp\u0254\u026ald/", "Definition: having the character or disposition harmed by pampering or oversolicitous attention", "Synonyms: spoilt"]}
+{"data": ["2023-07-21T08:01:15.188026+00:00", 12733, "Your mother is", "hematologic", "Pronunciation: /\u02cch\u025bm\u0259\u02c8t\u0259l\u0251d\u0292\u026ak/", "Definition: of or relating to or involved in hematology", "Synonyms: haematological, hematological"]}
