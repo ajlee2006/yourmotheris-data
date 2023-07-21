@@ -1,1 +1,1 @@
-{"data": ["2023-07-21T21:01:10.385757+00:00", 12746, "Your mother is", "all-weather", "Pronunciation: /\u02c8\u0254l\u02ccw\u025b\u00f0\u0259r/", "Definition: usable or operative or practiced in all kinds of weather", ""]}
+{"data": ["2023-07-21T22:01:06.930830+00:00", 12747, "Your mother is", "non-aromatic", "Similar to: inodorous", "Definition: not aromatic", ""]}
