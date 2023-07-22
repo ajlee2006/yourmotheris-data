@@ -1,1 +1,1 @@
-{"data": ["2023-07-22T19:01:42.787827+00:00", 12768, "Your mother is", "plodding", "Pronunciation: /\u02c8pl\u0251d\u026a\u014b/", "Definition: (of movement) slow and laborious", "Synonyms: leaden"]}
+{"data": ["2023-07-22T20:01:32.745977+00:00", 12769, "Your mother is", "inflatable", "Pronunciation: /\u026an\u02c8fle\u026at\u0259b\u0259l/", "Definition: designed to be filled with air or gas", ""]}
