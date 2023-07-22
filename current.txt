@@ -1,1 +1,1 @@
-{"data": ["2023-07-22T11:01:27.877271+00:00", 12760, "Your mother is", "merchantable", "Pronunciation: /\u02c8m\u025cr\u02a7\u0259nt\u0259b\u0259l/", "Definition: fit to be offered for sale", "Synonyms: marketable, sellable, vendable, vendible"]}
+{"data": ["2023-07-22T12:01:35.927837+00:00", 12761, "Your mother is", "planless", "Similar to: purposeless", "Definition: aimlessly drifting", "Synonyms: adrift, afloat, aimless, directionless, rudderless, undirected"]}
