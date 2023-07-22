@@ -1,1 +1,1 @@
-{"data": ["2023-07-22T17:01:36.373561+00:00", 12766, "Your mother is", "harebrained", "Pronunciation: /\u02c8h\u025cr\u02ccbre\u026and/", "Definition: very foolish", "Synonyms: insane, mad"]}
+{"data": ["2023-07-22T18:01:42.415380+00:00", 12767, "Your mother is", "misogynous", "Similar to: ill-natured", "Definition: hating women in particular", "Synonyms: misogynistic"]}
