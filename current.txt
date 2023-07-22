@@ -1,1 +1,1 @@
-{"data": ["2023-07-22T22:01:08.383564+00:00", 12771, "Your mother is", "pedagogical", "Pronunciation: /\u02ccp\u025bd\u028c\u02c8\u0261\u0251d\u0292\u026ak\u028cl/", "Definition: of or relating to pedagogy", "Synonyms: pedagogic"]}
+{"data": ["2023-07-22T23:01:34.009223+00:00", 12772, "Your mother is", "shriveled", "Pronunciation: /\u02c8\u0283r\u026av\u028cld/", "Definition: lean and wrinkled by shrinkage as from age or illness", "Synonyms: shrivelled, shrunken, withered, wizen, wizened"]}
