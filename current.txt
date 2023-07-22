@@ -1,1 +1,1 @@
-{"data": ["2023-07-22T09:01:21.138437+00:00", 12758, "Your mother is", "apocryphal", "Pronunciation: /\u0259\u02c8p\u0251kr\u0259f\u0259l/", "Definition: being of questionable authenticity", ""]}
+{"data": ["2023-07-22T10:01:31.575755+00:00", 12759, "Your mother is", "charcoal-grey", "Similar to: achromatic", "Definition: of a very dark grey", "Synonyms: charcoal, charcoal-gray"]}
