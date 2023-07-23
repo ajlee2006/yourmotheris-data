@@ -1,1 +1,1 @@
-{"data": ["2023-07-23T21:01:17.105683+00:00", 12794, "Your mother is", "bifurcate", "Pronunciation: /\u02c8ba\u026af\u0259\u02ccke\u026at/", "Definition: resembling a fork; divided or separated into two branches", "Synonyms: biramous, branched, forficate, fork-like, forked, pronged, prongy"]}
+{"data": ["2023-07-23T22:01:39.533442+00:00", 12795, "Your mother is", "architectonic", "Pronunciation: /\u02cc\u0251rk\u026at\u025bk\u02c8t\u0251n\u026ak/", "Definition: of or pertaining to construction or architecture", "Synonyms: tectonic"]}
