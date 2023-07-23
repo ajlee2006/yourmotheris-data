@@ -1,1 +1,1 @@
-{"data": ["2023-07-23T05:01:34.972062+00:00", 12778, "Your mother is", "stellate", "Pronunciation: /\u02c8st\u025bl\u026at/", "Definition: arranged like rays or radii; radiating from a common center", "Synonyms: radial, radiate"]}
+{"data": ["2023-07-23T06:01:15.140444+00:00", 12779, "Your mother is", "larghissimo", "Similar to: slow", "Definition: (of tempo) as slow and broad as possible", ""]}
