@@ -1,1 +1,1 @@
-{"data": ["2023-07-23T16:00:58.122738+00:00", 12789, "Your mother is", "lance-shaped", "Pronunciation: /l\u00e6ns-\u0283e\u026apt/", "Definition: shaped like a lance", ""]}
+{"data": ["2023-07-23T17:01:37.482797+00:00", 12790, "Your mother is", "fragmented", "Pronunciation: /\u02c8fr\u00e6gm\u0259nt\u026ad/", "Definition: having been divided; having the unity destroyed", "Synonyms: disconnected, disunited, split"]}
