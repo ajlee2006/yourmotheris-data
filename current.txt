@@ -1,1 +1,1 @@
-{"data": ["2023-07-23T19:01:14.393250+00:00", 12792, "Your mother is", "agnostic", "Pronunciation: /\u00e6\u0261\u02c8n\u0251st\u026ak/", "Definition: uncertain of all claims to knowledge", "Synonyms: agnostical"]}
+{"data": ["2023-07-23T20:01:26.898896+00:00", 12793, "Your mother is", "untapped", "Pronunciation: /\u0259n\u02c8t\u00e6pt/", "Definition: not drawn upon or used", ""]}
