@@ -1,1 +1,1 @@
-{"data": ["2023-07-23T18:01:34.718305+00:00", 12791, "Your mother is", "risible", "Pronunciation: /\u02c8r\u026az\u0259b\u0259l/", "Definition: arousing or provoking laughter", "Synonyms: amusing, comic, comical, funny, laughable, mirthful"]}
+{"data": ["2023-07-23T19:01:14.393250+00:00", 12792, "Your mother is", "agnostic", "Pronunciation: /\u00e6\u0261\u02c8n\u0251st\u026ak/", "Definition: uncertain of all claims to knowledge", "Synonyms: agnostical"]}
