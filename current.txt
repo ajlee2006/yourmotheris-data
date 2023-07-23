@@ -1,1 +1,1 @@
-{"data": ["2023-07-22T23:01:34.009223+00:00", 12772, "Your mother is", "shriveled", "Pronunciation: /\u02c8\u0283r\u026av\u028cld/", "Definition: lean and wrinkled by shrinkage as from age or illness", "Synonyms: shrivelled, shrunken, withered, wizen, wizened"]}
+{"data": ["2023-07-23T00:03:11.274271+00:00", 12773, "Your mother is", "bar-shaped", "Similar to: formed", "Definition: shaped like a rigid strip of metal or wood", ""]}
