@@ -1,1 +1,1 @@
-{"data": ["2023-07-23T14:01:18.938536+00:00", 12787, "Your mother is", "sacred", "Pronunciation: /\u02c8se\u026akr\u026ad/", "Definition: worthy of religious veneration", "Synonyms: hallowed"]}
+{"data": ["2023-07-23T15:01:36.644430+00:00", 12788, "Your mother is", "fictional", "Pronunciation: /\u02c8f\u026ak\u0283\u0259n\u0259l/", "Definition: formed or conceived by the imagination", "Synonyms: fabricated, fancied, fictitious"]}
