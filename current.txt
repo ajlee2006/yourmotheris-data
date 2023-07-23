@@ -1,1 +1,1 @@
-{"data": ["2023-07-23T07:00:58.365793+00:00", 12780, "Your mother is", "angled", "Pronunciation: /\u02c8\u00e6\u014b\u0261\u0259ld/", "Definition: forming or set at an angle", ""]}
+{"data": ["2023-07-23T08:01:30.916923+00:00", 12781, "Your mother is", "concise", "Pronunciation: /k\u0259n\u02c8sa\u026as/", "Definition: expressing much in few words", ""]}
