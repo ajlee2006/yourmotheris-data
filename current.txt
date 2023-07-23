@@ -1,1 +1,1 @@
-{"data": ["2023-07-23T08:01:30.916923+00:00", 12781, "Your mother is", "concise", "Pronunciation: /k\u0259n\u02c8sa\u026as/", "Definition: expressing much in few words", ""]}
+{"data": ["2023-07-23T09:01:13.184995+00:00", 12782, "Your mother is", "fantastical", "Similar to: strange", "Definition: ludicrously odd", "Synonyms: antic, fantastic, grotesque"]}
