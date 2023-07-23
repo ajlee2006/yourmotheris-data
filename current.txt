@@ -1,1 +1,1 @@
-{"data": ["2023-07-23T15:01:36.644430+00:00", 12788, "Your mother is", "fictional", "Pronunciation: /\u02c8f\u026ak\u0283\u0259n\u0259l/", "Definition: formed or conceived by the imagination", "Synonyms: fabricated, fancied, fictitious"]}
+{"data": ["2023-07-23T16:00:58.122738+00:00", 12789, "Your mother is", "lance-shaped", "Pronunciation: /l\u00e6ns-\u0283e\u026apt/", "Definition: shaped like a lance", ""]}
