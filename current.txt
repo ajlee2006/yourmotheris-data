@@ -1,1 +1,1 @@
-{"data": ["2023-07-23T22:01:39.533442+00:00", 12795, "Your mother is", "architectonic", "Pronunciation: /\u02cc\u0251rk\u026at\u025bk\u02c8t\u0251n\u026ak/", "Definition: of or pertaining to construction or architecture", "Synonyms: tectonic"]}
+{"data": ["2023-07-23T23:01:20.435599+00:00", 12796, "Your mother is", "inexperienced", "Pronunciation: /\u02cc\u026an\u026ak\u02c8spiri\u0259nst/", "Definition: lacking practical experience or training", "Synonyms: inexperient"]}
