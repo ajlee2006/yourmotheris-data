@@ -1,1 +1,1 @@
-{"data": ["2023-07-24T01:01:15.443653+00:00", 12798, "Your mother is", "pissed off", "Similar to: displeased", "Definition: aroused to impatience or anger", "Synonyms: annoyed, irritated, miffed, nettled, peeved, pissed, riled, roiled, steamed, stung"]}
+{"data": ["2023-07-24T02:01:17.280219+00:00", 12799, "Your mother is", "blind", "Pronunciation: /bla\u026and/", "Definition: unable to see", "Synonyms: unsighted"]}
