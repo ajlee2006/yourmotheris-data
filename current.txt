@@ -1,1 +1,1 @@
-{"data": ["2023-07-24T14:01:38.634809+00:00", 12811, "Your mother is", "lantern-jawed", "Pronunciation: /\u02c8l\u00e6nt\u0259rn-\u02c8d\u0292\u0254d/", "Definition: having a protruding jaw giving the face a gaunt appearance", ""]}
+{"data": ["2023-07-24T15:01:31.422081+00:00", 12812, "Your mother is", "cytomegalic", "Similar to: unhealthy", "Definition: of or relating to or characterized by greatly enlarged cells", ""]}
