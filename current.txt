@@ -1,1 +1,1 @@
-{"data": ["2023-07-24T12:01:16.453761+00:00", 12809, "Your mother is", "buttonlike", "Similar to: bright", "Definition: small and round and shiny like a shiny bead or button", "Synonyms: beadlike, beady, buttony"]}
+{"data": ["2023-07-24T13:01:19.123650+00:00", 12810, "Your mother is", "prognathic", "Pronunciation: /pr\u0251\u0261\u02c8n\u00e6\u03b8\u026ak/", "Definition: having a projecting lower jaw", "Synonyms: hypognathous, prognathous"]}
