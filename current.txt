@@ -1,1 +1,1 @@
-{"data": ["2023-07-24T08:01:33.155034+00:00", 12805, "Your mother is", "antimonic", "Pronunciation: /\u02cc\u00e6nt\u0259\u02c8mo\u028an\u026ak/", "Definition: relating to or derived from antimony", "Synonyms: antimonious"]}
+{"data": ["2023-07-24T09:01:15.308023+00:00", 12806, "Your mother is", "retributive", "Pronunciation: /r\u026a\u02c8tr\u026abj\u0259t\u026av/", "Definition: given or inflicted in requital according to merits or deserts", "Synonyms: retributory, vindicatory"]}
