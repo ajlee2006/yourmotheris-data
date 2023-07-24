@@ -1,1 +1,1 @@
-{"data": ["2023-07-24T03:01:03.572796+00:00", 12800, "Your mother is", "retracted", "Pronunciation: /ri\u02c8tr\u00e6kt\u028cd/", "Definition: drawn back and in", ""]}
+{"data": ["2023-07-24T04:01:36.483104+00:00", 12801, "Your mother is", "speech-endowed", "Similar to: articulate", "Definition: capable of speech", ""]}
