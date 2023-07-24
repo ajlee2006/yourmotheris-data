@@ -1,1 +1,1 @@
-{"data": ["2023-07-24T05:01:12.002969+00:00", 12802, "Your mother is", "pastel-colored", "Similar to: colored", "Definition: having pale delicate colors", ""]}
+{"data": ["2023-07-24T06:01:02.205243+00:00", 12803, "Your mother is", "malcontent", "Pronunciation: /\u02c8m\u00e6lk\u0259n\u02cct\u025bnt/", "Definition: discontented as toward authority", "Synonyms: disaffected, ill-affected, rebellious"]}
