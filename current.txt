@@ -1,1 +1,1 @@
-{"data": ["2023-07-24T22:01:34.359739+00:00", 12819, "Your mother is", "toughened", "Pronunciation: /\u02c8t\u028cf\u028cnd/", "Definition: physically toughened", "Synonyms: tough"]}
+{"data": ["2023-07-24T23:01:27.789947+00:00", 12820, "Your mother is", "base-forming", "Similar to: alkalic", "Definition: yielding a base in aqueous solution", ""]}
