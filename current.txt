@@ -1,1 +1,1 @@
-{"data": ["2023-07-24T18:01:33.004472+00:00", 12815, "Your mother is", "germane", "Pronunciation: /d\u0292\u0259r\u02c8me\u026an/", "Definition: relevant and appropriate", ""]}
+{"data": ["2023-07-24T19:00:55.557604+00:00", 12816, "Your mother is", "monastical", "Similar to: unworldly", "Definition: of communal life sequestered from the world under religious vows", "Synonyms: cloistered, cloistral, conventual, monastic"]}
