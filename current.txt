@@ -1,1 +1,1 @@
-{"data": ["2023-07-24T07:01:37.040157+00:00", 12804, "Your mother is", "retroflex", "Pronunciation: /\u02c8r\u025btr\u0259\u02ccfl\u025bks/", "Definition: pronounced with the tip of the tongue turned back toward the hard palate", "Synonyms: cacuminal"]}
+{"data": ["2023-07-24T08:01:33.155034+00:00", 12805, "Your mother is", "antimonic", "Pronunciation: /\u02cc\u00e6nt\u0259\u02c8mo\u028an\u026ak/", "Definition: relating to or derived from antimony", "Synonyms: antimonious"]}
