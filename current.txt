@@ -1,1 +1,1 @@
-{"data": ["2023-07-24T17:01:20.029666+00:00", 12814, "Your mother is", "knitted", "Pronunciation: /\u02c8n\u026at\u026ad/", "Definition: made by intertwining threads in a series of connected loops rather than by weaving", ""]}
+{"data": ["2023-07-24T18:01:33.004472+00:00", 12815, "Your mother is", "germane", "Pronunciation: /d\u0292\u0259r\u02c8me\u026an/", "Definition: relevant and appropriate", ""]}
