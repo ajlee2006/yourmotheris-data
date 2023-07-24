@@ -1,1 +1,1 @@
-{"data": ["2023-07-24T06:01:02.205243+00:00", 12803, "Your mother is", "malcontent", "Pronunciation: /\u02c8m\u00e6lk\u0259n\u02cct\u025bnt/", "Definition: discontented as toward authority", "Synonyms: disaffected, ill-affected, rebellious"]}
+{"data": ["2023-07-24T07:01:37.040157+00:00", 12804, "Your mother is", "retroflex", "Pronunciation: /\u02c8r\u025btr\u0259\u02ccfl\u025bks/", "Definition: pronounced with the tip of the tongue turned back toward the hard palate", "Synonyms: cacuminal"]}
