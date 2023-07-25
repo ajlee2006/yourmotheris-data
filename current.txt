@@ -1,1 +1,1 @@
-{"data": ["2023-07-25T12:01:34.006302+00:00", 12833, "Your mother is", "acquainted", "Pronunciation: /\u0259\u02c8kwe\u026ant\u026ad/", "Definition: having fair knowledge of", ""]}
+{"data": ["2023-07-25T13:01:22.694753+00:00", 12834, "Your mother is", "crinkled", "Similar to: uneven", "Definition: uneven by virtue of having wrinkles or waves", "Synonyms: crinkly, rippled, wavelike, wavy"]}
