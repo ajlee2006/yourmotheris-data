@@ -1,1 +1,1 @@
-{"data": ["2023-07-25T06:00:59.861998+00:00", 12827, "Your mother is", "dried", "Pronunciation: /dra\u026ad/", "Definition: preserved by removing natural moisture", "Synonyms: dehydrated, desiccated"]}
+{"data": ["2023-07-25T07:01:25.154267+00:00", 12828, "Your mother is", "pathologic", "", "Definition: of or relating to the practice of pathology", "Synonyms: pathological"]}
