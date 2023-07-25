@@ -1,1 +1,1 @@
-{"data": ["2023-07-25T04:01:04.449208+00:00", 12825, "Your mother is", "unforeseen", "Pronunciation: /\u02cc\u0259nfo\u028ar\u02c8sin/", "Definition: not anticipated", "Synonyms: out of the blue, unanticipated, unlooked-for, unseen"]}
+{"data": ["2023-07-25T05:00:52.507789+00:00", 12826, "Your mother is", "intoxicating", "Pronunciation: /\u026an\u02c8t\u0251ks\u0259\u02ccke\u026at\u026a\u014b/", "Definition: extremely exciting as if by alcohol or a narcotic", "Synonyms: heady"]}
