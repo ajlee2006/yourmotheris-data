@@ -1,1 +1,1 @@
-{"data": ["2023-07-25T01:01:35.017008+00:00", 12822, "Your mother is", "spongelike", "Similar to: soft", "Definition: easily squashed; resembling a sponge in having soft porous texture and compressibility", "Synonyms: spongy, squashy, squishy"]}
+{"data": ["2023-07-25T02:00:55.984544+00:00", 12823, "Your mother is", "canaliculate", "Similar to: furrowed", "Definition: having thin parallel channels", ""]}
