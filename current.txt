@@ -1,1 +1,1 @@
-{"data": ["2023-07-25T16:01:33.194733+00:00", 12837, "Your mother is", "quadrupedal", "Pronunciation: /kw\u0251\u02c8drup\u026ad\u0259l/", "Definition: having four feet", "Synonyms: four-footed, quadruped"]}
+{"data": ["2023-07-25T17:00:58.155125+00:00", 12838, "Your mother is", "satirical", "Pronunciation: /s\u0259\u02c8t\u026ar\u026ak\u0259l/", "Definition: exposing human folly to ridicule", "Synonyms: satiric"]}
