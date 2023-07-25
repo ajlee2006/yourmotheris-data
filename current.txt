@@ -1,1 +1,1 @@
-{"data": ["2023-07-25T00:03:07.239162+00:00", 12821, "Your mother is", "ain", "Pronunciation: /e\u026an/", "Definition: belonging to or on behalf of a specified person (especially yourself); preceded by a possessive", "Synonyms: own"]}
+{"data": ["2023-07-25T01:01:35.017008+00:00", 12822, "Your mother is", "spongelike", "Similar to: soft", "Definition: easily squashed; resembling a sponge in having soft porous texture and compressibility", "Synonyms: spongy, squashy, squishy"]}
