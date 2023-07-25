@@ -1,1 +1,1 @@
-{"data": ["2023-07-25T08:00:55.254337+00:00", 12829, "Your mother is", "amyloid", "Pronunciation: /\u02c8\u00e6m\u0259\u02ccl\u0254\u026ad/", "Definition: resembling starch", "Synonyms: amylaceous, amyloidal, farinaceous, starchlike"]}
+{"data": ["2023-07-25T09:01:29.028900+00:00", 12830, "Your mother is", "cxxv", "Similar to: cardinal", "Definition: being five more than one hundred twenty", "Synonyms: 125, one hundred twenty-five"]}
