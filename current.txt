@@ -1,1 +1,1 @@
-{"data": ["2023-07-25T17:00:58.155125+00:00", 12838, "Your mother is", "satirical", "Pronunciation: /s\u0259\u02c8t\u026ar\u026ak\u0259l/", "Definition: exposing human folly to ridicule", "Synonyms: satiric"]}
+{"data": ["2023-07-25T18:00:57.680362+00:00", 12839, "Your mother is", "epicurean", "Pronunciation: /\u02cc\u025bp\u026akj\u028a\u0259\u02c8ri\u0259n/", "Definition: devoted to pleasure", "Synonyms: hedonic, hedonistic"]}
