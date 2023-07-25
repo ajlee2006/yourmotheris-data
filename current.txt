@@ -1,1 +1,1 @@
-{"data": ["2023-07-25T09:01:29.028900+00:00", 12830, "Your mother is", "cxxv", "Similar to: cardinal", "Definition: being five more than one hundred twenty", "Synonyms: 125, one hundred twenty-five"]}
+{"data": ["2023-07-25T10:01:34.589484+00:00", 12831, "Your mother is", "extinct", "Pronunciation: /\u026ak\u02c8st\u026a\u014bkt/", "Definition: no longer in existence; lost or especially having died out leaving no living representatives", "Synonyms: nonextant"]}
