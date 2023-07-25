@@ -1,1 +1,1 @@
-{"data": ["2023-07-25T14:01:07.097242+00:00", 12835, "Your mother is", "basilar", "Pronunciation: /\u02c8b\u00e6s\u0259l\u0259r/", "Definition: of or relating to or located at the base", "Synonyms: basilary"]}
+{"data": ["2023-07-25T15:01:29.632390+00:00", 12836, "Your mother is", "seagirt", "Pronunciation: /\u02c8si\u02cc\u0261\u025crt/", "Definition: surrounded or enclosed by the sea", ""]}
