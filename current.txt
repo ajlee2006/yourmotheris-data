@@ -1,1 +1,1 @@
-{"data": ["2023-07-25T19:01:30.094089+00:00", 12840, "Your mother is", "hooklike", "Similar to: curved", "Definition: having or resembling a hook (especially in the ability to grasp and hold)", "Synonyms: hooked"]}
+{"data": ["2023-07-25T20:01:04.642526+00:00", 12841, "Your mother is", "bindable", "Similar to: attachable", "Definition: capable of being fastened or secured with a rope or bond", "Synonyms: bondable"]}
