@@ -1,1 +1,1 @@
-{"data": ["2023-07-25T10:01:34.589484+00:00", 12831, "Your mother is", "extinct", "Pronunciation: /\u026ak\u02c8st\u026a\u014bkt/", "Definition: no longer in existence; lost or especially having died out leaving no living representatives", "Synonyms: nonextant"]}
+{"data": ["2023-07-25T11:01:09.095013+00:00", 12832, "Your mother is", "satiate", "Pronunciation: /\u02c8se\u026a\u0283i\u026at/", "Definition: supplied (especially fed) to satisfaction", "Synonyms: satiated"]}
