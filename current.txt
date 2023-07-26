@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T20:01:40.350003+00:00", 12865, "Your mother is", "antimonic", "Pronunciation: /\u02cc\u00e6nt\u0259\u02c8mo\u028an\u026ak/", "Definition: relating to or derived from antimony", "Synonyms: antimonious"]}
+{"data": ["2023-07-26T21:00:58.082279+00:00", 12866, "Your mother is", "hot under the collar", "Similar to: angry", "Definition: very angry", ""]}
