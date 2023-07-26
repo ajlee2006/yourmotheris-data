@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T00:03:03.129746+00:00", 12845, "Your mother is", "full-strength", "Pronunciation: /f\u028al-str\u025b\u014bk\u03b8/", "Definition: (of an alcoholic drink) without water", "Synonyms: neat, straight"]}
+{"data": ["2023-07-26T01:01:28.768147+00:00", 12846, "Your mother is", "perfervid", "Pronunciation: /p\u0259r\u02c8f\u025crv\u026ad/", "Definition: characterized by intense emotion", "Synonyms: ardent, fervent, fervid, fiery, impassioned, torrid"]}
