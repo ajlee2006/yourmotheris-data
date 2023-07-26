@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T04:01:24.943153+00:00", 12849, "Your mother is", "gap-toothed", "Pronunciation: /\u02c8\u0261\u00e6p\u02cctu\u03b8t/", "Definition: having widely spaced teeth", ""]}
+{"data": ["2023-07-26T05:00:52.732033+00:00", 12850, "Your mother is", "sublime", "Pronunciation: /s\u0259\u02c8bla\u026am/", "Definition: inspiring awe", "Synonyms: empyreal, empyrean"]}
