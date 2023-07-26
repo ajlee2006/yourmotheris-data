@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T21:00:58.082279+00:00", 12866, "Your mother is", "hot under the collar", "Similar to: angry", "Definition: very angry", ""]}
+{"data": ["2023-07-26T22:01:25.061783+00:00", 12867, "Your mother is", "persisting", "Pronunciation: /p\u025dr\u02c8s\u026ast\u026a\u014b/", "Definition: relentless and indefatigable in pursuit or as if in pursuit", "Synonyms: dogging"]}
