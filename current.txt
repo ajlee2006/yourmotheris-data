@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T02:01:03.661629+00:00", 12847, "Your mother is", "earthborn", "Pronunciation: /\u02c8\u025cr\u03b8\u02ccb\u0254rn/", "Definition: connected with earthly life; of earthly origin", ""]}
+{"data": ["2023-07-26T03:01:37.221653+00:00", 12848, "Your mother is", "inutile", "Pronunciation: /\u026an\u02c8jut\u026al/", "Definition: not worth using", ""]}
