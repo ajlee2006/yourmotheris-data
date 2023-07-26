@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T06:01:26.865294+00:00", 12851, "Your mother is", "lightsome", "Pronunciation: /\u02c8la\u026ats\u0259m/", "Definition: carefree and happy and lighthearted", "Synonyms: blithe, blithesome, light-hearted, lighthearted"]}
+{"data": ["2023-07-26T07:01:36.309217+00:00", 12852, "Your mother is", "hypothetical", "Pronunciation: /\u02ccha\u026ap\u0259\u02c8\u03b8\u025bt\u026ak\u0259l/", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetic, supposed, suppositional, suppositious, supposititious"]}
