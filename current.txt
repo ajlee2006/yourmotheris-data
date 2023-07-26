@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T14:01:41.026429+00:00", 12859, "Your mother is", "old-womanish", "Pronunciation: /o\u028ald-\u02c8w\u028am\u0259n\u026a\u0283/", "Definition: primly fastidious", "Synonyms: old-maidish"]}
+{"data": ["2023-07-26T15:01:06.859094+00:00", 12860, "Your mother is", "black-gray", "Similar to: achromatic", "Definition: of dark grey", "Synonyms: black-grey, blackish-gray, blackish-grey"]}
