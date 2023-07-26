@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T16:01:20.051501+00:00", 12861, "Your mother is", "bimestrial", "Pronunciation: /ba\u026a\u02c8m\u025bstri\u0259l/", "Definition: occurring every two months", "Synonyms: bimonthly"]}
+{"data": ["2023-07-26T17:01:12.394832+00:00", 12862, "Your mother is", "unconformist", "", "Definition: not conforming to some norm or socially approved pattern of behavior or thought", "Synonyms: nonconformist"]}
