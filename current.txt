@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T19:01:15.750891+00:00", 12864, "Your mother is", "summery", "Similar to: aestival", "Definition: belonging to or characteristic of or occurring in summer", ""]}
+{"data": ["2023-07-26T20:01:40.350003+00:00", 12865, "Your mother is", "antimonic", "Pronunciation: /\u02cc\u00e6nt\u0259\u02c8mo\u028an\u026ak/", "Definition: relating to or derived from antimony", "Synonyms: antimonious"]}
