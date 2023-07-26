@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T10:00:55.608068+00:00", 12855, "Your mother is", "nonnomadic", "Similar to: settled", "Definition: not nomadic or wandering", ""]}
+{"data": ["2023-07-26T11:01:24.373098+00:00", 12856, "Your mother is", "single-spaced", "Similar to: spaced", "Definition: (of type or print) not having a blank space between lines", ""]}
