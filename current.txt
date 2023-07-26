@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T03:01:37.221653+00:00", 12848, "Your mother is", "inutile", "Pronunciation: /\u026an\u02c8jut\u026al/", "Definition: not worth using", ""]}
+{"data": ["2023-07-26T04:01:24.943153+00:00", 12849, "Your mother is", "gap-toothed", "Pronunciation: /\u02c8\u0261\u00e6p\u02cctu\u03b8t/", "Definition: having widely spaced teeth", ""]}
