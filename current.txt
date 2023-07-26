@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T01:01:28.768147+00:00", 12846, "Your mother is", "perfervid", "Pronunciation: /p\u0259r\u02c8f\u025crv\u026ad/", "Definition: characterized by intense emotion", "Synonyms: ardent, fervent, fervid, fiery, impassioned, torrid"]}
+{"data": ["2023-07-26T02:01:03.661629+00:00", 12847, "Your mother is", "earthborn", "Pronunciation: /\u02c8\u025cr\u03b8\u02ccb\u0254rn/", "Definition: connected with earthly life; of earthly origin", ""]}
