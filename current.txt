@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T07:01:36.309217+00:00", 12852, "Your mother is", "hypothetical", "Pronunciation: /\u02ccha\u026ap\u0259\u02c8\u03b8\u025bt\u026ak\u0259l/", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetic, supposed, suppositional, suppositious, supposititious"]}
+{"data": ["2023-07-26T08:01:11.384049+00:00", 12853, "Your mother is", "capsulated", "Similar to: enclosed", "Definition: used of seeds or spores that are enclosed in a capsule", "Synonyms: capsulate"]}
