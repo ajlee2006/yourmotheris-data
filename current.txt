@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T15:01:06.859094+00:00", 12860, "Your mother is", "black-gray", "Similar to: achromatic", "Definition: of dark grey", "Synonyms: black-grey, blackish-gray, blackish-grey"]}
+{"data": ["2023-07-26T16:01:20.051501+00:00", 12861, "Your mother is", "bimestrial", "Pronunciation: /ba\u026a\u02c8m\u025bstri\u0259l/", "Definition: occurring every two months", "Synonyms: bimonthly"]}
