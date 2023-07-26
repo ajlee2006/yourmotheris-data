@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T22:01:25.061783+00:00", 12867, "Your mother is", "persisting", "Pronunciation: /p\u025dr\u02c8s\u026ast\u026a\u014b/", "Definition: relentless and indefatigable in pursuit or as if in pursuit", "Synonyms: dogging"]}
+{"data": ["2023-07-26T23:01:20.366850+00:00", 12868, "Your mother is", "distributive", "Pronunciation: /d\u026a\u02c8str\u026abj\u0259t\u026av/", "Definition: serving to distribute or allot or disperse", ""]}
