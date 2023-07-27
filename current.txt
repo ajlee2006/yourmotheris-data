@@ -1,1 +1,1 @@
-{"data": ["2023-07-27T01:01:04.245302+00:00", 12870, "Your mother is", "curtainless", "", "Definition: not provided with curtains", "Synonyms: uncurtained"]}
+{"data": ["2023-07-27T02:01:29.579716+00:00", 12871, "Your mother is", "frantic", "Pronunciation: /\u02c8fr\u00e6nt\u026ak/", "Definition: excessively agitated; distraught with fear or other violent emotion", "Synonyms: frenetic, frenzied, phrenetic"]}
