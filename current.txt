@@ -1,1 +1,1 @@
-{"data": ["2023-07-27T03:01:31.553008+00:00", 12872, "Your mother is", "manipulative", "Pronunciation: /m\u0259\u02c8n\u026apj\u028al\u0259t\u026av/", "Definition: skillful in influencing or controlling others to your own advantage", ""]}
+{"data": ["2023-07-27T04:01:07.576149+00:00", 12873, "Your mother is", "lettered", "Pronunciation: /\u02c8l\u025bt\u0259rd/", "Definition: highly educated; having extensive information or understanding", "Synonyms: knowing, knowledgeable, learned, well-educated, well-read"]}
