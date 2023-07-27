@@ -1,1 +1,1 @@
-{"data": ["2023-07-27T15:01:27.453740+00:00", 12884, "Your mother is", "fussy", "Pronunciation: /\u02c8f\u0259si/", "Definition: exacting especially about details", "Synonyms: finical, finicky, particular, picky"]}
+{"data": ["2023-07-27T16:01:27.476270+00:00", 12885, "Your mother is", "trendy", "Pronunciation: /\u02c8tr\u025bndi/", "Definition: in accord with the latest fad", "Synonyms: voguish"]}
