@@ -1,1 +1,1 @@
-{"data": ["2023-07-27T07:01:29.851847+00:00", 12876, "Your mother is", "unquestioned", "Pronunciation: /\u0259n\u02c8kw\u025bs\u02a7\u0259nd/", "Definition: generally agreed upon; not subject to dispute", "Synonyms: unchallenged, undisputed"]}
+{"data": ["2023-07-27T08:01:10.445943+00:00", 12877, "Your mother is", "ashy", "Pronunciation: /\u02c8\u00e6\u0283i/", "Definition: of a light grey", "Synonyms: ash-gray, ash-grey"]}
