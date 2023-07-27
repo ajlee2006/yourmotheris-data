@@ -1,1 +1,1 @@
-{"data": ["2023-07-27T16:01:27.476270+00:00", 12885, "Your mother is", "trendy", "Pronunciation: /\u02c8tr\u025bndi/", "Definition: in accord with the latest fad", "Synonyms: voguish"]}
+{"data": ["2023-07-27T17:01:11.101890+00:00", 12886, "Your mother is", "craggy", "Pronunciation: /\u02c8kr\u00e6\u0261i/", "Definition: having hills and crags", "Synonyms: cragged, hilly, mountainous"]}
