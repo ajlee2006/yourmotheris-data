@@ -1,1 +1,1 @@
-{"data": ["2023-07-27T12:01:25.283380+00:00", 12881, "Your mother is", "assailable", "Similar to: vulnerable", "Definition: not defended or capable of being defended", "Synonyms: open, undefendable, undefended"]}
+{"data": ["2023-07-27T13:01:38.112912+00:00", 12882, "Your mother is", "brimming", "Pronunciation: /\u02c8br\u026am\u026a\u014b/", "Definition: filled to capacity", "Synonyms: brimful, brimfull"]}
