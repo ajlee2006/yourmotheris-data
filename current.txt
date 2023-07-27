@@ -1,1 +1,1 @@
-{"data": ["2023-07-27T13:01:38.112912+00:00", 12882, "Your mother is", "brimming", "Pronunciation: /\u02c8br\u026am\u026a\u014b/", "Definition: filled to capacity", "Synonyms: brimful, brimfull"]}
+{"data": ["2023-07-27T14:01:37.983845+00:00", 12883, "Your mother is", "untellable", "Similar to: inexpressible", "Definition: defying expression or description", "Synonyms: indefinable, indescribable, ineffable, unspeakable, unutterable"]}
