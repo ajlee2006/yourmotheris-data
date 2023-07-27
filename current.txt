@@ -1,1 +1,1 @@
-{"data": ["2023-07-27T00:02:59.366563+00:00", 12869, "Your mother is", "blockaded", "Pronunciation: /\u02ccbl\u0251\u02c8ke\u026ad\u026ad/", "Definition: preventing entry or exit or a course of action", "Synonyms: barred, barricaded"]}
+{"data": ["2023-07-27T01:01:04.245302+00:00", 12870, "Your mother is", "curtainless", "", "Definition: not provided with curtains", "Synonyms: uncurtained"]}
