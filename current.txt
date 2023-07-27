@@ -1,1 +1,1 @@
-{"data": ["2023-07-26T23:01:20.366850+00:00", 12868, "Your mother is", "distributive", "Pronunciation: /d\u026a\u02c8str\u026abj\u0259t\u026av/", "Definition: serving to distribute or allot or disperse", ""]}
+{"data": ["2023-07-27T00:02:59.366563+00:00", 12869, "Your mother is", "blockaded", "Pronunciation: /\u02ccbl\u0251\u02c8ke\u026ad\u026ad/", "Definition: preventing entry or exit or a course of action", "Synonyms: barred, barricaded"]}
