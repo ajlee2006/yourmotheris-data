@@ -1,1 +1,1 @@
-{"data": ["2023-07-27T18:01:26.041033+00:00", 12887, "Your mother is", "forty-six", "Pronunciation: /\u02c8f\u0254rti-\u02c8s\u026aks/", "Definition: being six more than forty", "Synonyms: 46, xlvi"]}
+{"data": ["2023-07-27T19:01:24.222516+00:00", 12888, "Your mother is", "uninspired", "Pronunciation: /\u02cc\u0259n\u026an\u02c8spa\u026a\u0259rd/", "Definition: deficient in originality or creativity; lacking powers of invention", "Synonyms: sterile, unimaginative, uninventive"]}
