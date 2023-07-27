@@ -1,1 +1,1 @@
-{"data": ["2023-07-27T09:01:06.319278+00:00", 12878, "Your mother is", "expressed", "Pronunciation: /\u026ak\u02c8spr\u025bst/", "Definition: precisely and clearly expressed or readily observable; leaving nothing to implication", "Synonyms: explicit"]}
+{"data": ["2023-07-27T10:01:10.445217+00:00", 12879, "Your mother is", "russet", "Pronunciation: /\u02c8r\u0259s\u026at/", "Definition: of brown with a reddish tinge", ""]}
