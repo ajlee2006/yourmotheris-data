@@ -1,1 +1,1 @@
-{"data": ["2023-07-27T02:01:29.579716+00:00", 12871, "Your mother is", "frantic", "Pronunciation: /\u02c8fr\u00e6nt\u026ak/", "Definition: excessively agitated; distraught with fear or other violent emotion", "Synonyms: frenetic, frenzied, phrenetic"]}
+{"data": ["2023-07-27T03:01:31.553008+00:00", 12872, "Your mother is", "manipulative", "Pronunciation: /m\u0259\u02c8n\u026apj\u028al\u0259t\u026av/", "Definition: skillful in influencing or controlling others to your own advantage", ""]}
