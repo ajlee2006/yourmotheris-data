@@ -1,1 +1,1 @@
-{"data": ["2023-07-27T20:00:53.605721+00:00", 12889, "Your mother is", "sensual", "Pronunciation: /\u02c8s\u025bn\u0283u\u0259l/", "Definition: marked by the appetites and passions of the body", "Synonyms: animal, carnal, fleshly"]}
+{"data": ["2023-07-27T21:00:54.025087+00:00", 12890, "Your mother is", "animate", "Pronunciation: /\u02c8\u00e6n\u0259m\u026at/", "Definition: endowed with feeling and unstructured consciousness", "Synonyms: sentient"]}
