@@ -1,1 +1,1 @@
-{"data": ["2023-07-27T10:01:10.445217+00:00", 12879, "Your mother is", "russet", "Pronunciation: /\u02c8r\u0259s\u026at/", "Definition: of brown with a reddish tinge", ""]}
+{"data": ["2023-07-27T11:01:03.736253+00:00", 12880, "Your mother is", "housebroken", "Pronunciation: /\u02c8ha\u028as\u02ccbro\u028ak\u0259n/", "Definition: (of pets) trained to urinate and defecate outside or in a special place", "Synonyms: house-trained"]}
