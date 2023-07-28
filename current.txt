@@ -1,1 +1,1 @@
-{"data": ["2023-07-28T15:01:21.831101+00:00", 12908, "Your mother is", "ground-hugging", "Similar to: low", "Definition: of plants that grow relatively low to the ground", "Synonyms: flat-growing, low-growing"]}
+{"data": ["2023-07-28T16:01:18.695244+00:00", 12908, "Your mother is", "chafflike", "", "Definition: abounding in or covered with or resembling or consisting of chaff", "Synonyms: chaffy"]}
