@@ -1,1 +1,1 @@
-{"data": ["2023-07-28T06:01:09.797034+00:00", 12899, "Your mother is", "valetudinarian", "Pronunciation: /\u02ccv\u00e6l\u026a\u02c8tud\u02c8\u0259n\u025cri\u0259n/", "Definition: of or relating to or characteristic of a person who is a valetudinarian", "Synonyms: valetudinary"]}
+{"data": ["2023-07-28T07:01:33.784374+00:00", 12900, "Your mother is", "chelated", "", "Definition: relating to or characterized by chelation", "Synonyms: chelate"]}
