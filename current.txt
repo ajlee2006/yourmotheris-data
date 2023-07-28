@@ -1,1 +1,1 @@
-{"data": ["2023-07-28T09:01:33.452485+00:00", 12902, "Your mother is", "uncheckable", "Similar to: difficult", "Definition: incapable of being checked or restrained", ""]}
+{"data": ["2023-07-28T10:01:35.786598+00:00", 12903, "Your mother is", "ablutionary", "Similar to: purifying", "Definition: cleansing the body by washing; especially ritual washing of e.g. hands", "Synonyms: cleansing"]}
