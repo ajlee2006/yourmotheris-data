@@ -1,1 +1,1 @@
-{"data": ["2023-07-28T02:01:27.230628+00:00", 12895, "Your mother is", "unwished-for", "Pronunciation: /\u0259n\u02c8w\u026a\u0283t-\u02ccf\u0254r/", "Definition: not welcome", "Synonyms: unwelcome, unwished"]}
+{"data": ["2023-07-28T03:01:35.996642+00:00", 12896, "Your mother is", "overlooked", "Pronunciation: /\u02c8o\u028av\u025dr\u02ccl\u028akt/", "Definition: not taken into account", "Synonyms: unmarked, unnoted"]}
