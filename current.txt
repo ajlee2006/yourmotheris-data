@@ -1,1 +1,1 @@
-{"data": ["2023-07-28T03:01:35.996642+00:00", 12896, "Your mother is", "overlooked", "Pronunciation: /\u02c8o\u028av\u025dr\u02ccl\u028akt/", "Definition: not taken into account", "Synonyms: unmarked, unnoted"]}
+{"data": ["2023-07-28T04:01:31.114943+00:00", 12897, "Your mother is", "doable", "Pronunciation: /\u02c8du\u0259b\u0259l/", "Definition: capable of existing or taking place or proving true; possible to do", "Synonyms: accomplishable, achievable, manageable, realizable"]}
