@@ -1,1 +1,1 @@
-{"data": ["2023-07-28T13:01:17.907880+00:00", 12906, "Your mother is", "antidromic", "Pronunciation: /\u02cc\u00e6nt\u026a\u02c8dr\u0251m\u026ak/", "Definition: conducting nerve impulses in a direction opposite to normal", ""]}
+{"data": ["2023-07-28T14:01:30.119581+00:00", 12907, "Your mother is", "softening", "Pronunciation: /\u02c8s\u0254f\u028cn\u026a\u014b/", "Definition: having a softening or soothing effect especially to the skin", "Synonyms: demulcent, emollient, salving"]}
