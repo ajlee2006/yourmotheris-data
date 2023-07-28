@@ -1,1 +1,1 @@
-{"data": ["2023-07-28T21:00:33.728293+00:00", 12913, "Your mother is", "disproportionate", "Pronunciation: /\u02ccd\u026aspr\u0259\u02c8po\u028ar\u0283\u0259n\u026at/", "Definition: out of proportion", "Synonyms: disproportional"]}
+{"data": ["2023-07-28T22:01:26.005219+00:00", 12914, "Your mother is", "pharmacologic", "", "Definition: of or relating to pharmacology", "Synonyms: pharmacological"]}
