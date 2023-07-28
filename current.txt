@@ -1,1 +1,1 @@
-{"data": ["2023-07-28T00:03:10.871504+00:00", 12893, "Your mother is", "twilight", "Pronunciation: /\u02c8twa\u026a\u02ccla\u026at/", "Definition: lighted by or as if by twilight", "Synonyms: dusky, twilit"]}
+{"data": ["2023-07-28T01:01:11.540428+00:00", 12894, "Your mother is", "tzarist", "Pronunciation: /\u02c8z\u0251r\u026ast/", "Definition: of or relating to or characteristic of a czar", "Synonyms: czarist, czaristic, tsarist, tsaristic"]}
