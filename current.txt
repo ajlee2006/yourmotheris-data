@@ -1,1 +1,1 @@
-{"data": ["2023-07-28T12:01:28.076039+00:00", 12905, "Your mother is", "grayish-black", "Similar to: achromatic", "Definition: of black tinged with grey", "Synonyms: gray-black, grey-black, greyish-black"]}
+{"data": ["2023-07-28T13:01:17.907880+00:00", 12906, "Your mother is", "antidromic", "Pronunciation: /\u02cc\u00e6nt\u026a\u02c8dr\u0251m\u026ak/", "Definition: conducting nerve impulses in a direction opposite to normal", ""]}
