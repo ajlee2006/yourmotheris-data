@@ -1,1 +1,1 @@
-{"data": ["2023-07-29T07:01:25.045990+00:00", 12923, "Your mother is", "livonian-speaking", "Similar to: communicative", "Definition: able to communicate in Livonian", ""]}
+{"data": ["2023-07-29T08:01:02.690178+00:00", 12924, "Your mother is", "social", "Pronunciation: /\u02c8so\u028a\u0283\u0259l/", "Definition: relating to human society and its members", "Synonyms: societal"]}
