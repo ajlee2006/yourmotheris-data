@@ -1,1 +1,1 @@
-{"data": ["2023-07-29T18:01:22.286689+00:00", 12934, "Your mother is", "unsubdued", "Pronunciation: /\u02cc\u0259ns\u0259b\u02c8djud/", "Definition: not brought under control", ""]}
+{"data": ["2023-07-29T19:00:11.910075+00:00", 12935, "Your mother is", ".22-calibre", "", "Definition: of or relating to the bore of a gun (or its ammunition) that measures twenty-two hundredths of an inch in diameter", "Synonyms: .22-caliber, .22 caliber, .22 calibre"]}
