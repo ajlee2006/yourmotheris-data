@@ -1,1 +1,1 @@
-{"data": ["2023-07-29T03:01:25.920099+00:00", 12919, "Your mother is", "illiterate", "Pronunciation: /\u026a\u02c8l\u026at\u0259r\u026at/", "Definition: uneducated in the fundamentals of a given art or branch of learning; lacking knowledge of a specific field", "Synonyms: ignorant"]}
+{"data": ["2023-07-29T04:01:31.097603+00:00", 12920, "Your mother is", "jailed", "Pronunciation: /d\u0292e\u026ald/", "Definition: being in captivity", "Synonyms: captive, confined, imprisoned"]}
