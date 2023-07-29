@@ -1,1 +1,1 @@
-{"data": ["2023-07-29T11:01:04.626540+00:00", 12927, "Your mother is", "ten-sided", "Similar to: many-sided", "Definition: having ten sides", ""]}
+{"data": ["2023-07-29T12:01:12.485341+00:00", 12928, "Your mother is", "bindable", "Similar to: attachable", "Definition: capable of being fastened or secured with a rope or bond", "Synonyms: bondable"]}
