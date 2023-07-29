@@ -1,1 +1,1 @@
-{"data": ["2023-07-29T09:01:14.023584+00:00", 12925, "Your mother is", "erose", "Pronunciation: /\u026a\u02c8ro\u028as/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: jagged, jaggy, notched, toothed"]}
+{"data": ["2023-07-29T10:01:15.147864+00:00", 12926, "Your mother is", "91", "Similar to: cardinal", "Definition: being one more than ninety", "Synonyms: ninety-one, xci"]}
