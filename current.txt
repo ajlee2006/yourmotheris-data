@@ -1,1 +1,1 @@
-{"data": ["2023-07-29T00:02:23.667348+00:00", 12916, "Your mother is", "agnate", "Pronunciation: /\u02c8\u00e6gne\u026at/", "Definition: related on the father's side", "Synonyms: agnatic, paternal"]}
+{"data": ["2023-07-29T01:01:24.563561+00:00", 12917, "Your mother is", "on", "Pronunciation: /\u0251n/", "Definition: in operation or operational", ""]}
