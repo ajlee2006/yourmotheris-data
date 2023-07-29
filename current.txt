@@ -1,1 +1,1 @@
-{"data": ["2023-07-29T12:01:12.485341+00:00", 12928, "Your mother is", "bindable", "Similar to: attachable", "Definition: capable of being fastened or secured with a rope or bond", "Synonyms: bondable"]}
+{"data": ["2023-07-29T13:01:07.371360+00:00", 12929, "Your mother is", "parceled out", "Similar to: distributed", "Definition: given out in portions", "Synonyms: apportioned, dealt out, doled out, meted out"]}
