@@ -1,1 +1,1 @@
-{"data": ["2023-07-29T02:01:27.988332+00:00", 12918, "Your mother is", "unfixed", "Pronunciation: /\u0259n\u02c8f\u026akst/", "Definition: lacking definition or definite content", "Synonyms: nebulous"]}
+{"data": ["2023-07-29T03:01:25.920099+00:00", 12919, "Your mother is", "illiterate", "Pronunciation: /\u026a\u02c8l\u026at\u0259r\u026at/", "Definition: uneducated in the fundamentals of a given art or branch of learning; lacking knowledge of a specific field", "Synonyms: ignorant"]}
