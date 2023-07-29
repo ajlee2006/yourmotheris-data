@@ -1,1 +1,1 @@
-{"data": ["2023-07-29T01:01:24.563561+00:00", 12917, "Your mother is", "on", "Pronunciation: /\u0251n/", "Definition: in operation or operational", ""]}
+{"data": ["2023-07-29T02:01:27.988332+00:00", 12918, "Your mother is", "unfixed", "Pronunciation: /\u0259n\u02c8f\u026akst/", "Definition: lacking definition or definite content", "Synonyms: nebulous"]}
