@@ -1,1 +1,1 @@
-{"data": ["2023-07-29T06:01:13.431085+00:00", 12922, "Your mother is", "insectivorous", "Pronunciation: /\u02cc\u026ans\u025bk\u02c8t\u026av\u0259r\u0259s/", "Definition: (of animals and plants) feeding on insects", ""]}
+{"data": ["2023-07-29T07:01:25.045990+00:00", 12923, "Your mother is", "livonian-speaking", "Similar to: communicative", "Definition: able to communicate in Livonian", ""]}
