@@ -1,1 +1,1 @@
-{"data": ["2023-07-29T05:01:01.638088+00:00", 12921, "Your mother is", "presentable", "Pronunciation: /pr\u026a\u02c8z\u025bnt\u0259b\u0259l/", "Definition: fit to be seen", ""]}
+{"data": ["2023-07-29T06:01:13.431085+00:00", 12922, "Your mother is", "insectivorous", "Pronunciation: /\u02cc\u026ans\u025bk\u02c8t\u026av\u0259r\u0259s/", "Definition: (of animals and plants) feeding on insects", ""]}
