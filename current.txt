@@ -1,1 +1,1 @@
-{"data": ["2023-07-29T08:01:02.690178+00:00", 12924, "Your mother is", "social", "Pronunciation: /\u02c8so\u028a\u0283\u0259l/", "Definition: relating to human society and its members", "Synonyms: societal"]}
+{"data": ["2023-07-29T09:01:14.023584+00:00", 12925, "Your mother is", "erose", "Pronunciation: /\u026a\u02c8ro\u028as/", "Definition: having an irregularly notched or toothed margin as though gnawed", "Synonyms: jagged, jaggy, notched, toothed"]}
