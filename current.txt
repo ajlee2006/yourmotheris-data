@@ -1,1 +1,1 @@
-{"data": ["2023-07-28T23:01:35.859862+00:00", 12915, "Your mother is", "extraordinary", "Pronunciation: /\u026ak\u02c8str\u0254r\u02ccd\u0259n\u025bri/", "Definition: far more than usual or expected", "Synonyms: over-the-top, sinful"]}
+{"data": ["2023-07-29T00:02:23.667348+00:00", 12916, "Your mother is", "agnate", "Pronunciation: /\u02c8\u00e6gne\u026at/", "Definition: related on the father's side", "Synonyms: agnatic, paternal"]}
