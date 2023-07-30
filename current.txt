@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T08:01:10.507302+00:00", 12948, "Your mother is", "foxy", "Pronunciation: /\u02c8f\u0251ksi/", "Definition: marked by skill in deception", "Synonyms: crafty, cunning, dodgy, guileful, knavish, slick, sly, tricksy, tricky, wily"]}
+{"data": ["2023-07-30T09:01:30.074026+00:00", 12949, "Your mother is", "insurrectional", "", "Definition: of or relating to or given to insurrection", "Synonyms: insurrectionary"]}
