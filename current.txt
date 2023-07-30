@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T04:01:12.082361+00:00", 12944, "Your mother is", "illustrative", "Pronunciation: /\u026a\u02c8l\u0259str\u0259t\u026av/", "Definition: serving to demonstrate", "Synonyms: demonstrative"]}
+{"data": ["2023-07-30T05:01:02.739420+00:00", 12945, "Your mother is", "laid-back", "Similar to: relaxed", "Definition: unhurried and relaxed", "Synonyms: mellow"]}
