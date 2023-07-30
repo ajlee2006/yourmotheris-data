@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T22:01:35.163620+00:00", 12962, "Your mother is", "untalented", "Pronunciation: /\u0259n\u02c8t\u00e6l\u0259nt\u026ad/", "Definition: devoid of talent; not gifted", "Synonyms: talentless"]}
+{"data": ["2023-07-30T23:01:25.818526+00:00", 12963, "Your mother is", "unobservable", "Pronunciation: /\u02cc\u0259n\u0259b\u02c8z\u025crv\u0259b\u0259l/", "Definition: not accessible to direct observation", ""]}
