@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T20:01:15.288006+00:00", 12960, "Your mother is", "vitrified", "Similar to: glazed", "Definition: (of ceramics) having the surface made shiny and nonporous by fusing a vitreous solution to it", "Synonyms: glassy, vitreous"]}
+{"data": ["2023-07-30T21:01:07.877301+00:00", 12961, "Your mother is", "calceiform", "Pronunciation: /\u02c8k\u00e6lsi\u0259\u02ccf\u0254rm/", "Definition: of slipper-shaped blossoms", "Synonyms: calceolate"]}
