@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T00:02:12.622853+00:00", 12940, "Your mother is", "unmedicinal", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: nonmedicinal, unmedical, unmedicative"]}
+{"data": ["2023-07-30T01:01:23.048188+00:00", 12941, "Your mother is", "all-metal", "Pronunciation: /\u0254l-\u02c8m\u025bt\u0259l/", "Definition: consisting completely of metal", ""]}
