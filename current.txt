@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T18:01:34.785328+00:00", 12958, "Your mother is", "complaining", "Pronunciation: /k\u028cm\u02c8ple\u026an\u026a\u014b/", "Definition: expressing pain or dissatisfaction of resentment", "Synonyms: complaintive"]}
+{"data": ["2023-07-30T19:01:18.135822+00:00", 12959, "Your mother is", "nonsectarian", "Pronunciation: /\u02ccn\u0251ns\u025bk\u02c8t\u025cri\u0259n/", "Definition: not restricted to one sect or school or party", "Synonyms: unsectarian"]}
