@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T13:01:11.253046+00:00", 12953, "Your mother is", "aromatic", "Pronunciation: /\u02cc\u00e6r\u0259\u02c8m\u00e6t\u026ak/", "Definition: having a strong pleasant odor", "Synonyms: redolent"]}
+{"data": ["2023-07-30T14:01:12.351288+00:00", 12954, "Your mother is", "closing", "Pronunciation: /\u02c8klo\u028az\u026a\u014b/", "Definition: final or ending", ""]}
