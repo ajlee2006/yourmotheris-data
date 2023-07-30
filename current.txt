@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T02:01:20.344869+00:00", 12942, "Your mother is", "half-bound", "Pronunciation: /h\u00e6f-ba\u028and/", "Definition: (of books) having the back bound in one material and the sides in another", ""]}
+{"data": ["2023-07-30T03:01:18.391363+00:00", 12943, "Your mother is", "inconstant", "Pronunciation: /\u026an\u02c8k\u0251nst\u0259nt/", "Definition: likely to change frequently often without apparent or cogent reason; variable", ""]}
