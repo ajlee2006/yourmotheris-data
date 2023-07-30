@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T11:01:33.109737+00:00", 12951, "Your mother is", "zigzag", "Pronunciation: /\u02c8z\u026a\u0261\u02ccz\u00e6\u0261/", "Definition: having short sharp turns or angles", "Synonyms: zig-zag"]}
+{"data": ["2023-07-30T12:01:26.733342+00:00", 12952, "Your mother is", "proterozoic", "Pronunciation: /\u02ccpro\u028at\u0259ro\u028a\u02c8zo\u028a\u026ak/", "Definition: formed in the later of two divisions of the Precambrian era", ""]}
