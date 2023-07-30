@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T16:01:16.963058+00:00", 12956, "Your mother is", "penetrating", "Pronunciation: /\u02c8p\u025bn\u026a\u02cctre\u026at\u026a\u014b/", "Definition: tending to penetrate; having the power of entering or piercing", "Synonyms: penetrative"]}
+{"data": ["2023-07-30T17:01:03.393843+00:00", 12957, "Your mother is", "eponymous", "Pronunciation: /\u025b\u02c8p\u0251n\u0259m\u0259s/", "Definition: being or relating to or bearing the name of an eponym", "Synonyms: eponymic"]}
