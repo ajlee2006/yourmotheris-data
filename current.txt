@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T19:01:18.135822+00:00", 12959, "Your mother is", "nonsectarian", "Pronunciation: /\u02ccn\u0251ns\u025bk\u02c8t\u025cri\u0259n/", "Definition: not restricted to one sect or school or party", "Synonyms: unsectarian"]}
+{"data": ["2023-07-30T20:01:15.288006+00:00", 12960, "Your mother is", "vitrified", "Similar to: glazed", "Definition: (of ceramics) having the surface made shiny and nonporous by fusing a vitreous solution to it", "Synonyms: glassy, vitreous"]}
