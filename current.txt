@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T17:01:03.393843+00:00", 12957, "Your mother is", "eponymous", "Pronunciation: /\u025b\u02c8p\u0251n\u0259m\u0259s/", "Definition: being or relating to or bearing the name of an eponym", "Synonyms: eponymic"]}
+{"data": ["2023-07-30T18:01:34.785328+00:00", 12958, "Your mother is", "complaining", "Pronunciation: /k\u028cm\u02c8ple\u026an\u026a\u014b/", "Definition: expressing pain or dissatisfaction of resentment", "Synonyms: complaintive"]}
