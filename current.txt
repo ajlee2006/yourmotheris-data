@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T14:01:12.351288+00:00", 12954, "Your mother is", "closing", "Pronunciation: /\u02c8klo\u028az\u026a\u014b/", "Definition: final or ending", ""]}
+{"data": ["2023-07-30T15:01:32.993714+00:00", 12955, "Your mother is", "effective", "Pronunciation: /\u026a\u02c8f\u025bkt\u026av/", "Definition: exerting force or influence", "Synonyms: good, in effect, in force"]}
