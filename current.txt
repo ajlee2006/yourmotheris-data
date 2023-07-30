@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T01:01:23.048188+00:00", 12941, "Your mother is", "all-metal", "Pronunciation: /\u0254l-\u02c8m\u025bt\u0259l/", "Definition: consisting completely of metal", ""]}
+{"data": ["2023-07-30T02:01:20.344869+00:00", 12942, "Your mother is", "half-bound", "Pronunciation: /h\u00e6f-ba\u028and/", "Definition: (of books) having the back bound in one material and the sides in another", ""]}
