@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T06:01:08.115196+00:00", 12946, "Your mother is", "contributory", "Pronunciation: /k\u0259n\u02c8tr\u026abj\u0259\u02ccto\u028ari/", "Definition: tending to bring about; being partly responsible for", "Synonyms: conducive, contributing, contributive, tributary"]}
+{"data": ["2023-07-30T07:01:25.389084+00:00", 12947, "Your mother is", "impudent", "Pronunciation: /\u02c8\u026ampj\u0259d\u0259nt/", "Definition: improperly forward or bold", "Synonyms: fresh, impertinent, overbold, sassy, saucy, smart, wise"]}
