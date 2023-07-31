@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T04:00:58.216970+00:00", 12968, "Your mother is", "1", "Similar to: cardinal", "Definition: used of a single unit or thing; not two or more", "Synonyms: ane, i, one"]}
+{"data": ["2023-07-31T05:01:20.930557+00:00", 12969, "Your mother is", "radiate", "Pronunciation: /\u02c8re\u026adi\u026at/", "Definition: arranged like rays or radii; radiating from a common center", "Synonyms: radial, stellate"]}
