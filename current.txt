@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T17:01:23.133740+00:00", 12977, "Your mother is", "gelded", "Similar to: castrated", "Definition: (of a male animal) having the testicles removed", "Synonyms: cut, emasculated"]}
+{"data": ["2023-07-31T18:01:11.471933+00:00", 12978, "Your mother is", "anaerobiotic", "Pronunciation: /\u02cc\u00e6n\u0259ro\u028aba\u026a\u02c8\u0251t\u026ak/", "Definition: living or active in the absence of free oxygen", "Synonyms: anaerobic"]}
