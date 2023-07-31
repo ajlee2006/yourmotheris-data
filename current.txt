@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T05:01:20.930557+00:00", 12969, "Your mother is", "radiate", "Pronunciation: /\u02c8re\u026adi\u026at/", "Definition: arranged like rays or radii; radiating from a common center", "Synonyms: radial, stellate"]}
+{"data": ["2023-07-31T06:00:56.398701+00:00", 12970, "Your mother is", "excitable", "Pronunciation: /\u026ak\u02c8sa\u026at\u0259b\u0259l/", "Definition: capable of responding to stimuli", "Synonyms: irritable"]}
