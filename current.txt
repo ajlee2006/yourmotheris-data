@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T02:00:55.199807+00:00", 12966, "Your mother is", "well-to-do", "Pronunciation: /w\u025bl-t\u0259\u02c8du/", "Definition: in fortunate circumstances financially; moderately rich", "Synonyms: comfortable, easy, prosperous, well-fixed, well-heeled, well-off, well-situated"]}
+{"data": ["2023-07-31T03:00:56.925500+00:00", 12967, "Your mother is", "wasp-waisted", "Pronunciation: /w\u0251sp-\u02c8we\u026ast\u026ad/", "Definition: having a small waist", "Synonyms: slender-waisted, slim-waisted"]}
