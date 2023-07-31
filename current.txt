@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T22:01:42.852858+00:00", 12982, "Your mother is", "rose-purple", "Similar to: chromatic", "Definition: of purple with a rose tinge", "Synonyms: rosy-purple"]}
+{"data": ["2023-07-31T23:01:27.324077+00:00", 12983, "Your mother is", "mailed", "Pronunciation: /me\u026ald/", "Definition: wearing protective mail", "Synonyms: mail-clad"]}
