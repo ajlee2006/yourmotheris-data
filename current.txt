@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T16:01:23.196362+00:00", 12976, "Your mother is", "in condition", "Similar to: fit", "Definition: physically fit", "Synonyms: conditioned"]}
+{"data": ["2023-07-31T17:01:23.133740+00:00", 12977, "Your mother is", "gelded", "Similar to: castrated", "Definition: (of a male animal) having the testicles removed", "Synonyms: cut, emasculated"]}
