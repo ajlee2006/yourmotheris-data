@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T19:01:13.324391+00:00", 12979, "Your mother is", "thirty-seven", "Pronunciation: /\u02c8\u03b8\u025crti-\u02c8s\u025bv\u0259n/", "Definition: being seven more than thirty", "Synonyms: 37, xxxvii"]}
+{"data": ["2023-07-31T20:01:40.599641+00:00", 12980, "Your mother is", "hypothetic", "Similar to: theoretic", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetical, supposed, suppositional, suppositious, supposititious"]}
