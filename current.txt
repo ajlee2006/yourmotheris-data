@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T20:01:40.599641+00:00", 12980, "Your mother is", "hypothetic", "Similar to: theoretic", "Definition: based primarily on surmise rather than adequate evidence", "Synonyms: conjectural, divinatory, hypothetical, supposed, suppositional, suppositious, supposititious"]}
+{"data": ["2023-07-31T21:01:14.103774+00:00", 12981, "Your mother is", "prosy", "Pronunciation: /\u02c8pro\u028azi/", "Definition: lacking wit or imagination", "Synonyms: earthbound, pedestrian, prosaic"]}
