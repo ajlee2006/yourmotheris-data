@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T09:01:00.447961+00:00", 12973, "Your mother is", "whiney", "Similar to: complaining", "Definition: habitually complaining", "Synonyms: fretful, querulous, whiny"]}
+{"data": ["2023-07-31T10:01:08.424984+00:00", 12973, "Your mother is", "undetected", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8t\u025bkt\u026ad/", "Definition: not perceived or discerned", ""]}
