@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T00:02:17.478228+00:00", 12964, "Your mother is", "unmistakable", "Pronunciation: /\u02cc\u0259nm\u026a\u02c8ste\u026ak\u0259b\u0259l/", "Definition: clearly revealed to the mind or the senses or judgment", "Synonyms: apparent, evident, manifest, palpable, patent, plain"]}
+{"data": ["2023-07-31T01:01:34.103921+00:00", 12965, "Your mother is", "germicidal", "Similar to: antiseptic", "Definition: preventing infection by inhibiting the growth or action of microorganisms", "Synonyms: bactericidal, disinfectant"]}
