@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T10:01:08.424984+00:00", 12973, "Your mother is", "undetected", "Pronunciation: /\u02cc\u0259nd\u026a\u02c8t\u025bkt\u026ad/", "Definition: not perceived or discerned", ""]}
+{"data": ["2023-07-31T11:01:02.368822+00:00", 12974, "Your mother is", "tuxedoed", "Similar to: clad", "Definition: dressed in a tuxedo", ""]}
