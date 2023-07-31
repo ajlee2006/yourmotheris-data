@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T18:01:11.471933+00:00", 12978, "Your mother is", "anaerobiotic", "Pronunciation: /\u02cc\u00e6n\u0259ro\u028aba\u026a\u02c8\u0251t\u026ak/", "Definition: living or active in the absence of free oxygen", "Synonyms: anaerobic"]}
+{"data": ["2023-07-31T19:01:13.324391+00:00", 12979, "Your mother is", "thirty-seven", "Pronunciation: /\u02c8\u03b8\u025crti-\u02c8s\u025bv\u0259n/", "Definition: being seven more than thirty", "Synonyms: 37, xxxvii"]}
