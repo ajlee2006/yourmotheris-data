@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T01:01:34.103921+00:00", 12965, "Your mother is", "germicidal", "Similar to: antiseptic", "Definition: preventing infection by inhibiting the growth or action of microorganisms", "Synonyms: bactericidal, disinfectant"]}
+{"data": ["2023-07-31T02:00:55.199807+00:00", 12966, "Your mother is", "well-to-do", "Pronunciation: /w\u025bl-t\u0259\u02c8du/", "Definition: in fortunate circumstances financially; moderately rich", "Synonyms: comfortable, easy, prosperous, well-fixed, well-heeled, well-off, well-situated"]}
