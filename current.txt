@@ -1,1 +1,1 @@
-{"data": ["2023-07-30T23:01:25.818526+00:00", 12963, "Your mother is", "unobservable", "Pronunciation: /\u02cc\u0259n\u0259b\u02c8z\u025crv\u0259b\u0259l/", "Definition: not accessible to direct observation", ""]}
+{"data": ["2023-07-31T00:02:17.478228+00:00", 12964, "Your mother is", "unmistakable", "Pronunciation: /\u02cc\u0259nm\u026a\u02c8ste\u026ak\u0259b\u0259l/", "Definition: clearly revealed to the mind or the senses or judgment", "Synonyms: apparent, evident, manifest, palpable, patent, plain"]}
