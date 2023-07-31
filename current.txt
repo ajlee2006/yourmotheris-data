@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T08:01:24.334816+00:00", 12972, "Your mother is", "advantageous", "Pronunciation: /\u02cc\u00e6dv\u0259n\u02c8te\u026ad\u0292\u0259s/", "Definition: giving an advantage", "Synonyms: favorable, favourable"]}
+{"data": ["2023-07-31T09:01:00.447961+00:00", 12973, "Your mother is", "whiney", "Similar to: complaining", "Definition: habitually complaining", "Synonyms: fretful, querulous, whiny"]}
