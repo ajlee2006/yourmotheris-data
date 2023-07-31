@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T07:01:18.870944+00:00", 12971, "Your mother is", "pillaged", "Pronunciation: /\u02c8p\u026al\u026ad\u0292d/", "Definition: having been robbed and destroyed by force and violence", "Synonyms: despoiled, raped, ravaged, sacked"]}
+{"data": ["2023-07-31T08:01:24.334816+00:00", 12972, "Your mother is", "advantageous", "Pronunciation: /\u02cc\u00e6dv\u0259n\u02c8te\u026ad\u0292\u0259s/", "Definition: giving an advantage", "Synonyms: favorable, favourable"]}
