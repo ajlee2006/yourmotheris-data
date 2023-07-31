@@ -1,1 +1,1 @@
-{"data": ["2023-07-31T13:01:23.294254+00:00", 12975, "Your mother is", "unsoiled", "Pronunciation: /\u0259n\u02c8s\u0254\u026ald/", "Definition: without soil or spot or stain", "Synonyms: unspotted, unstained"]}
+{"data": ["2023-07-31T14:01:05.042949+00:00", 12976, "Your mother is", "leptorrhinian", "", "Definition: having a long narrow nose", "Synonyms: leptorhine, leptorrhine, leptorrhinic"]}
