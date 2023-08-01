@@ -1,1 +1,1 @@
-{"data": ["2023-08-01T08:01:22.842274+00:00", 12991, "Your mother is", "backhand", "Pronunciation: /\u02c8b\u00e6k\u02cch\u00e6nd/", "Definition: (of handwriting) having the letters slanting backward", "Synonyms: left-slanting"]}
+{"data": ["2023-08-01T09:01:20.992300+00:00", 12992, "Your mother is", "homocentric", "Pronunciation: /\u02ccho\u028am\u0259\u02c8s\u025bntr\u026ak/", "Definition: having a common center", "Synonyms: concentric, concentrical"]}
