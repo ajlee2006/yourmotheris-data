@@ -1,1 +1,1 @@
-{"data": ["2023-08-01T20:01:15.448572+00:00", 13002, "Your mother is", "sere", "Pronunciation: /sir/", "Definition: (used especially of vegetation) having lost all moisture", "Synonyms: dried-up, sear, shriveled, shrivelled, withered"]}
+{"data": ["2023-08-01T21:01:11.239783+00:00", 13003, "Your mother is", "54", "Similar to: cardinal", "Definition: being four more than fifty", "Synonyms: fifty-four, liv"]}
