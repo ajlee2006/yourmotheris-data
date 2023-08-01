@@ -1,1 +1,1 @@
-{"data": ["2023-08-01T04:01:03.051735+00:00", 12988, "Your mother is", "125th", "Similar to: ordinal", "Definition: the ordinal number of one hundred twenty-five in counting order", "Synonyms: hundred-and-twenty-fifth"]}
+{"data": ["2023-08-01T05:01:32.316456+00:00", 12989, "Your mother is", "ictal", "", "Definition: of or relating to a seizure or convulsion", "Synonyms: ictic"]}
