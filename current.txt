@@ -1,1 +1,1 @@
-{"data": ["2023-08-01T19:01:37.328591+00:00", 13001, "Your mother is", "argumentative", "Pronunciation: /\u02cc\u0251rgj\u0259\u02c8m\u025bnt\u0259t\u026av/", "Definition: given to or characterized by argument", ""]}
+{"data": ["2023-08-01T20:01:15.448572+00:00", 13002, "Your mother is", "sere", "Pronunciation: /sir/", "Definition: (used especially of vegetation) having lost all moisture", "Synonyms: dried-up, sear, shriveled, shrivelled, withered"]}
