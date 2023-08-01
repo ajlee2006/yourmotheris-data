@@ -1,1 +1,1 @@
-{"data": ["2023-08-01T00:02:15.537733+00:00", 12984, "Your mother is", "flat", "Pronunciation: /fl\u00e6t/", "Definition: lacking the expected range or depth; not designed to give an illusion or depth", "Synonyms: 2-dimensional, two-dimensional"]}
+{"data": ["2023-08-01T01:01:22.175564+00:00", 12985, "Your mother is", "mistreated", "Pronunciation: /m\u026as\u02c8trit\u026ad/", "Definition: subjected to cruel treatment", "Synonyms: abused, ill-treated, maltreated"]}
