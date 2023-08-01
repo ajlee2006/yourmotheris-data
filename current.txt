@@ -1,1 +1,1 @@
-{"data": ["2023-08-01T05:01:32.316456+00:00", 12989, "Your mother is", "ictal", "", "Definition: of or relating to a seizure or convulsion", "Synonyms: ictic"]}
+{"data": ["2023-08-01T06:01:24.629764+00:00", 12990, "Your mother is", "mystical", "Pronunciation: /\u02c8m\u026ast\u026ak\u0259l/", "Definition: relating to or characteristic of mysticism", "Synonyms: mystic"]}
