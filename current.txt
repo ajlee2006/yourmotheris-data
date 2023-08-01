@@ -1,1 +1,1 @@
-{"data": ["2023-08-01T11:01:11.161477+00:00", 12994, "Your mother is", "detergent", "Pronunciation: /d\u026a\u02c8t\u025crd\u0292\u0259nt/", "Definition: having cleansing power", "Synonyms: detersive"]}
+{"data": ["2023-08-01T12:01:15.315346+00:00", 12995, "Your mother is", "gum-like", "Similar to: adhesive", "Definition: resembling chewing gum", ""]}
