@@ -1,1 +1,1 @@
-{"data": ["2023-08-01T22:01:33.034592+00:00", 13004, "Your mother is", "prescriptive", "Pronunciation: /pr\u026a\u02c8skr\u026apt\u026av/", "Definition: pertaining to giving directives or rules", "Synonyms: normative"]}
+{"data": ["2023-08-01T23:01:34.533953+00:00", 13005, "Your mother is", "lambent", "Pronunciation: /\u02c8l\u00e6mb\u0259nt/", "Definition: softly bright or radiant", "Synonyms: aglow, lucent, luminous"]}
