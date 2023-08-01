@@ -1,1 +1,1 @@
-{"data": ["2023-08-01T03:01:16.481787+00:00", 12987, "Your mother is", "glabrescent", "Pronunciation: /gle\u026a\u02c8br\u025bs\u0259nt/", "Definition: lacking hair or a similar growth or tending to become hairless", ""]}
+{"data": ["2023-08-01T04:01:03.051735+00:00", 12988, "Your mother is", "125th", "Similar to: ordinal", "Definition: the ordinal number of one hundred twenty-five in counting order", "Synonyms: hundred-and-twenty-fifth"]}
