@@ -1,1 +1,1 @@
-{"data": ["2023-08-02T07:01:27.421814+00:00", 13013, "Your mother is", "signed", "Pronunciation: /sa\u026and/", "Definition: used of the language of the deaf", "Synonyms: gestural, sign, sign-language"]}
+{"data": ["2023-08-02T08:01:25.779491+00:00", 13014, "Your mother is", "isolationist", "Pronunciation: /\u02cca\u026as\u0259\u02c8le\u026a\u0283\u0259n\u026ast/", "Definition: of or relating to isolationism", "Synonyms: isolationistic"]}
