@@ -1,1 +1,1 @@
-{"data": ["2023-08-02T13:01:03.608733+00:00", 13019, "Your mother is", "polluted", "Pronunciation: /p\u0259\u02c8lut\u026ad/", "Definition: rendered unwholesome by contaminants and pollution", "Synonyms: contaminated"]}
+{"data": ["2023-08-02T14:01:12.377140+00:00", 13020, "Your mother is", "umbelliferous", "Pronunciation: /\u02cc\u0259mb\u0259\u02c8l\u026af\u0259r\u0259s/", "Definition: relating to or belonging to plants of the family Umbelliferae", ""]}
