@@ -1,1 +1,1 @@
-{"data": ["2023-08-02T03:00:52.448221+00:00", 13009, "Your mother is", "unsupported", "Pronunciation: /\u02cc\u0259ns\u0259\u02c8po\u028art\u026ad/", "Definition: not held up or borne", ""]}
+{"data": ["2023-08-02T04:01:03.974890+00:00", 13010, "Your mother is", "mossy", "Pronunciation: /\u02c8m\u0254si/", "Definition: (used pejoratively) out of fashion; old fashioned", "Synonyms: fogyish, moss-grown, stick-in-the-mud, stodgy"]}
