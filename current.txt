@@ -1,1 +1,1 @@
-{"data": ["2023-08-02T21:01:23.212925+00:00", 13027, "Your mother is", "natty", "Pronunciation: /\u02c8n\u00e6ti/", "Definition: marked by up-to-dateness in dress and manners", "Synonyms: dapper, dashing, jaunty, raffish, rakish, snappy, spiffy, spruce"]}
+{"data": ["2023-08-02T22:01:20.080182+00:00", 13028, "Your mother is", "coital", "", "Definition: of or relating to coitus or copulation", "Synonyms: copulatory"]}
