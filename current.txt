@@ -1,1 +1,1 @@
-{"data": ["2023-08-02T16:01:36.487893+00:00", 13022, "Your mother is", "off-limits", "Pronunciation: /\u02c8\u0254f\u02c8l\u026am\u026ats/", "Definition: barred to a designated group", "Synonyms: out-of-bounds"]}
+{"data": ["2023-08-02T17:00:56.898177+00:00", 13023, "Your mother is", "maleficent", "Pronunciation: /m\u0259\u02c8l\u025bf\u026as\u0259nt/", "Definition: harmful or evil in intent or effect", ""]}
