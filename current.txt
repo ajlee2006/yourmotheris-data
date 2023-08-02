@@ -1,1 +1,1 @@
-{"data": ["2023-08-02T17:00:56.898177+00:00", 13023, "Your mother is", "maleficent", "Pronunciation: /m\u0259\u02c8l\u025bf\u026as\u0259nt/", "Definition: harmful or evil in intent or effect", ""]}
+{"data": ["2023-08-02T18:00:53.126456+00:00", 13024, "Your mother is", "unrewarded", "Pronunciation: /\u02cc\u0259nri\u02c8wo\u028ard\u026ad/", "Definition: having acquired or gained nothing", "Synonyms: empty-handed"]}
