@@ -1,1 +1,1 @@
-{"data": ["2023-08-03T03:01:31.856145+00:00", 13033, "Your mother is", "pricy", "Similar to: expensive", "Definition: having a high price", "Synonyms: costly, dear, high-priced, pricey"]}
+{"data": ["2023-08-03T04:01:10.814206+00:00", 13034, "Your mother is", "v", "Pronunciation: /vi/", "Definition: being one more than four", "Synonyms: 5, five"]}
