@@ -1,1 +1,1 @@
-{"data": ["2023-08-03T04:01:10.814206+00:00", 13034, "Your mother is", "v", "Pronunciation: /vi/", "Definition: being one more than four", "Synonyms: 5, five"]}
+{"data": ["2023-08-03T05:01:28.565182+00:00", 13035, "Your mother is", "shakespearian", "Pronunciation: /\u0283e\u026ak\u02c8spi\u0259ri\u0259n/", "Definition: of or relating to William Shakespeare or his works", "Synonyms: shakespearean"]}
