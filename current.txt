@@ -1,1 +1,1 @@
-{"data": ["2023-08-03T20:01:19.670693+00:00", 13050, "Your mother is", "hexangular", "Pronunciation: /h\u025bk\u02c8s\u00e6\u014b\u0261j\u0259l\u0259r/", "Definition: having six sides or divided into hexagons", "Synonyms: hexagonal"]}
+{"data": ["2023-08-03T21:00:56.432009+00:00", 13051, "Your mother is", "apocarpous", "Pronunciation: /\u02cc\u00e6p\u0259\u02c8k\u0251rp\u0259s/", "Definition: (of ovaries of flowering plants) consisting of carpels that are free from one another as in buttercups or roses", ""]}
