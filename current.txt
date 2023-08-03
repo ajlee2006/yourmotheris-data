@@ -1,1 +1,1 @@
-{"data": ["2023-08-03T05:01:28.565182+00:00", 13035, "Your mother is", "shakespearian", "Pronunciation: /\u0283e\u026ak\u02c8spi\u0259ri\u0259n/", "Definition: of or relating to William Shakespeare or his works", "Synonyms: shakespearean"]}
+{"data": ["2023-08-03T06:01:02.372764+00:00", 13036, "Your mother is", "anagrammatical", "", "Definition: related to anagrams or containing or making an anagram", "Synonyms: anagrammatic"]}
