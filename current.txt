@@ -1,1 +1,1 @@
-{"data": ["2023-08-03T08:01:04.004760+00:00", 13038, "Your mother is", "in store", "Similar to: future", "Definition: in readiness; awaiting", ""]}
+{"data": ["2023-08-03T09:01:28.977111+00:00", 13039, "Your mother is", "synoptical", "Similar to: same", "Definition: presenting or taking the same point of view; used especially with regard to the first three gospels of the New Testament", "Synonyms: synoptic"]}
