@@ -1,1 +1,1 @@
-{"data": ["2023-08-03T13:01:16.371452+00:00", 13043, "Your mother is", "dyed", "Pronunciation: /da\u026ad/", "Definition: (used of color) artificially produced; not natural", "Synonyms: bleached, colored, coloured"]}
+{"data": ["2023-08-03T14:01:06.427987+00:00", 13044, "Your mother is", "hyperbolic", "Pronunciation: /\u02ccha\u026ap\u0259r\u02c8b\u0251l\u026ak/", "Definition: enlarged beyond truth or reasonableness", "Synonyms: inflated"]}
