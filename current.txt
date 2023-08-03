@@ -1,1 +1,1 @@
-{"data": ["2023-08-03T22:01:13.398517+00:00", 13052, "Your mother is", "gloved", "Pronunciation: /\u0261l\u028cvd/", "Definition: having the hands covered with gloves", ""]}
+{"data": ["2023-08-03T23:01:25.880991+00:00", 13053, "Your mother is", "obtainable", "Pronunciation: /\u028cb\u02c8te\u026an\u028cb\u028cl/", "Definition: capable of being obtained", "Synonyms: getable, gettable, procurable"]}
