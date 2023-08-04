@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T18:01:06.975350+00:00", 13072, "Your mother is", "brash", "Pronunciation: /br\u00e6\u0283/", "Definition: offensively bold", "Synonyms: cheeky, nervy"]}
+{"data": ["2023-08-04T19:01:23.557525+00:00", 13073, "Your mother is", "61", "Similar to: cardinal", "Definition: being one more than sixty", "Synonyms: lxi, sixty-one"]}
