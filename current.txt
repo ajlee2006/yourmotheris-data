@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T04:01:16.009745+00:00", 13058, "Your mother is", "intradermal", "Pronunciation: /\u02cc\u026antr\u0259\u02c8d\u025crm\u0259l/", "Definition: relating to areas between the layers of the skin", "Synonyms: intracutaneous, intradermic"]}
+{"data": ["2023-08-04T05:01:05.023599+00:00", 13059, "Your mother is", "countryfied", "Pronunciation: /\u02c8k\u0259ntr\u026a\u02ccfa\u026ad/", "Definition: characteristic of rural life", "Synonyms: countrified, rustic"]}
