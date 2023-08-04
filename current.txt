@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T20:01:24.089981+00:00", 13074, "Your mother is", "silken", "Pronunciation: /\u02c8s\u026alk\u0259n/", "Definition: having a smooth, gleaming surface reflecting light", "Synonyms: satiny, silklike, silky, sleek, slick"]}
+{"data": ["2023-08-04T21:01:30.099255+00:00", 13075, "Your mother is", "flattering", "Pronunciation: /\u02c8fl\u00e6t\u025dr\u026a\u014b/", "Definition: showing or representing to advantage", ""]}
