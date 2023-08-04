@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T16:01:06.329337+00:00", 13070, "Your mother is", "unestablished", "Similar to: unrecognised", "Definition: not established", ""]}
+{"data": ["2023-08-04T17:01:19.277876+00:00", 13071, "Your mother is", "coupled", "Pronunciation: /\u02c8k\u028cp\u028cld/", "Definition: connected by a link, as railway cars or trailer trucks", "Synonyms: joined, linked"]}
