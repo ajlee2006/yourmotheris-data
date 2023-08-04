@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T19:01:23.557525+00:00", 13073, "Your mother is", "61", "Similar to: cardinal", "Definition: being one more than sixty", "Synonyms: lxi, sixty-one"]}
+{"data": ["2023-08-04T20:01:24.089981+00:00", 13074, "Your mother is", "silken", "Pronunciation: /\u02c8s\u026alk\u0259n/", "Definition: having a smooth, gleaming surface reflecting light", "Synonyms: satiny, silklike, silky, sleek, slick"]}
