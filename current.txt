@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T00:02:10.139948+00:00", 13054, "Your mother is", "best-known", "Pronunciation: /b\u025bst-no\u028an/", "Definition: most familiar or renowned", ""]}
+{"data": ["2023-08-04T01:00:54.407540+00:00", 13055, "Your mother is", "japanese-speaking", "Similar to: communicative", "Definition: able to communicate in Japanese", ""]}
