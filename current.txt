@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T11:00:57.600724+00:00", 13065, "Your mother is", "spotty", "Pronunciation: /\u02c8sp\u0251ti/", "Definition: having spots or patches (small areas of contrasting color or texture)", "Synonyms: patched, spotted"]}
+{"data": ["2023-08-04T12:00:59.155522+00:00", 13066, "Your mother is", "unjustified", "Pronunciation: /\u0259n\u02c8d\u0292\u0259st\u026a\u02ccfa\u026ad/", "Definition: lacking justification or authorization", "Synonyms: undue, unwarranted"]}
