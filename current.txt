@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T13:01:36.156851+00:00", 13067, "Your mother is", "velar", "Pronunciation: /\u02c8vil\u0259r/", "Definition: produced with the back of the tongue touching or near the soft palate (as `k' in `cat' and `g' in `gun' and `ng' in `sing')", ""]}
+{"data": ["2023-08-04T14:01:32.233671+00:00", 13068, "Your mother is", "meager", "Pronunciation: /\u02c8mi\u0261\u0259r/", "Definition: deficient in amount or quality or extent", "Synonyms: meagerly, meagre, scrimpy, stingy"]}
