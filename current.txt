@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T22:01:07.959439+00:00", 13076, "Your mother is", "foliolate", "Pronunciation: /\u02c8fo\u028ali\u0259\u02ccle\u026at/", "Definition: (often used as a combining form) having leaflets (compound leaves) or a specified kind or number of leaflets", ""]}
+{"data": ["2023-08-04T23:01:14.526232+00:00", 13077, "Your mother is", "venomed", "Similar to: malicious", "Definition: full of malice or hate", ""]}
