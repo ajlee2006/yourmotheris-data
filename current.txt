@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T08:00:55.830757+00:00", 13062, "Your mother is", "yonder", "Pronunciation: /\u02c8j\u0251nd\u0259r/", "Definition: distant but within sight (`yon' is dialectal)", "Synonyms: yon"]}
+{"data": ["2023-08-04T09:00:58.519260+00:00", 13063, "Your mother is", "discouraging", "Pronunciation: /d\u026a\u02c8sk\u025dr\u028cd\u0292\u026a\u014b/", "Definition: depriving of confidence or hope or enthusiasm and hence often deterring action", ""]}
