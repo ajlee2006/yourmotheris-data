@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T09:00:58.519260+00:00", 13063, "Your mother is", "discouraging", "Pronunciation: /d\u026a\u02c8sk\u025dr\u028cd\u0292\u026a\u014b/", "Definition: depriving of confidence or hope or enthusiasm and hence often deterring action", ""]}
+{"data": ["2023-08-04T10:00:56.041080+00:00", 13064, "Your mother is", "all-purpose", "Pronunciation: /\u0254l-\u02c8p\u025crp\u0259s/", "Definition: not limited in use or function", "Synonyms: general-purpose"]}
