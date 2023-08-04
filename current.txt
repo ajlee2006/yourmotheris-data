@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T21:01:30.099255+00:00", 13075, "Your mother is", "flattering", "Pronunciation: /\u02c8fl\u00e6t\u025dr\u026a\u014b/", "Definition: showing or representing to advantage", ""]}
+{"data": ["2023-08-04T22:01:07.959439+00:00", 13076, "Your mother is", "foliolate", "Pronunciation: /\u02c8fo\u028ali\u0259\u02ccle\u026at/", "Definition: (often used as a combining form) having leaflets (compound leaves) or a specified kind or number of leaflets", ""]}
