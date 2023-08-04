@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T02:01:32.080731+00:00", 13056, "Your mother is", "undershot", "Pronunciation: /\u02c8\u0259nd\u0259r\u02cc\u0283\u0251t/", "Definition: having a lower part projecting beyond the upper", "Synonyms: underhung, underslung"]}
+{"data": ["2023-08-04T03:01:28.046726+00:00", 13057, "Your mother is", "coexisting", "Pronunciation: /\u02ccko\u028a\u026a\u0261\u02c8z\u026ast\u026a\u014b/", "Definition: existing at the same time", "Synonyms: coexistent"]}
