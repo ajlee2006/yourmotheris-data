@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T07:01:18.625268+00:00", 13061, "Your mother is", "bigeneric", "Pronunciation: /\u02ccba\u026ad\u0292\u0259\u02c8n\u025br\u026ak/", "Definition: resulting from a cross between species of different genera", ""]}
+{"data": ["2023-08-04T08:00:55.830757+00:00", 13062, "Your mother is", "yonder", "Pronunciation: /\u02c8j\u0251nd\u0259r/", "Definition: distant but within sight (`yon' is dialectal)", "Synonyms: yon"]}
