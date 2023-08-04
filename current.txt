@@ -1,1 +1,1 @@
-{"data": ["2023-08-03T23:01:25.880991+00:00", 13053, "Your mother is", "obtainable", "Pronunciation: /\u028cb\u02c8te\u026an\u028cb\u028cl/", "Definition: capable of being obtained", "Synonyms: getable, gettable, procurable"]}
+{"data": ["2023-08-04T00:02:10.139948+00:00", 13054, "Your mother is", "best-known", "Pronunciation: /b\u025bst-no\u028an/", "Definition: most familiar or renowned", ""]}
