@@ -1,1 +1,1 @@
-{"data": ["2023-08-05T21:01:13.780651+00:00", 13099, "Your mother is", "crooked", "Pronunciation: /\u02c8kr\u028ak\u026ad/", "Definition: irregular in shape or outline", "Synonyms: asymmetrical"]}
+{"data": ["2023-08-05T22:01:14.088969+00:00", 13100, "Your mother is", "undaunted", "Pronunciation: /\u0259n\u02c8d\u0254nt\u026ad/", "Definition: unshaken in purpose", "Synonyms: undismayed, unshaken"]}
