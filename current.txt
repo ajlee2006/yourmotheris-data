@@ -1,1 +1,1 @@
-{"data": ["2023-08-05T06:01:23.487788+00:00", 13084, "Your mother is", "on fire", "Similar to: lighted", "Definition: lighted up by or as by fire or flame", "Synonyms: ablaze, afire, aflame, aflare, alight"]}
+{"data": ["2023-08-05T07:00:56.865234+00:00", 13085, "Your mother is", "ill-humoured", "Similar to: ill-natured", "Definition: brusque and surly and forbidding", "Synonyms: crusty, curmudgeonly, gruff, ill-humored"]}
