@@ -1,1 +1,1 @@
-{"data": ["2023-08-05T13:00:59.536827+00:00", 13091, "Your mother is", "diffusing", "Pronunciation: /d\u026a\u02c8fjuz\u026a\u014b/", "Definition: spreading by diffusion", "Synonyms: diffusive, dispersive, disseminative"]}
+{"data": ["2023-08-05T14:00:53.724177+00:00", 13092, "Your mother is", "glossy", "Pronunciation: /\u02c8gl\u0251si/", "Definition: reflecting light", "Synonyms: glistening, lustrous, sheeny, shining, shiny"]}
