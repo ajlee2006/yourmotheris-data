@@ -1,1 +1,1 @@
-{"data": ["2023-08-04T23:01:14.526232+00:00", 13077, "Your mother is", "venomed", "Similar to: malicious", "Definition: full of malice or hate", ""]}
+{"data": ["2023-08-05T00:01:55.976170+00:00", 13078, "Your mother is", "galvanizing", "Pronunciation: /\u02c8\u0261\u00e6lv\u028c\u02ccna\u026az\u026a\u014b/", "Definition: affected by emotion as if by electricity; thrilling", "Synonyms: electric, galvanic, galvanising"]}
