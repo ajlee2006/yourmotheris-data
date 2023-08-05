@@ -1,1 +1,1 @@
-{"data": ["2023-08-05T09:01:15.883239+00:00", 13087, "Your mother is", "bad", "Pronunciation: /b\u00e6d/", "Definition: very intense", "Synonyms: big"]}
+{"data": ["2023-08-05T10:01:07.522325+00:00", 13088, "Your mother is", "preponderating", "Similar to: dominant", "Definition: having superior power and influence", "Synonyms: overriding, paramount, predominant, predominate, preponderant"]}
