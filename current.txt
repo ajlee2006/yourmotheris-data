@@ -1,1 +1,1 @@
-{"data": ["2023-08-05T11:01:04.205207+00:00", 13089, "Your mother is", "judgmental", "Pronunciation: /d\u0292\u028cd\u0292\u02c8m\u025bnt\u028cl/", "Definition: depending on judgment", ""]}
+{"data": ["2023-08-05T12:00:54.597321+00:00", 13090, "Your mother is", "defined", "Pronunciation: /d\u026a\u02c8fa\u026and/", "Definition: showing clearly the outline or profile or boundary", "Synonyms: outlined"]}
