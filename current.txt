@@ -1,1 +1,1 @@
-{"data": ["2023-08-06T09:00:57.924038+00:00", 13111, "Your mother is", "anomic", "Pronunciation: /\u0259\u02c8n\u0251m\u026ak/", "Definition: socially disoriented", "Synonyms: alienated, disoriented"]}
+{"data": ["2023-08-06T10:00:53.461303+00:00", 13112, "Your mother is", "ignitable", "Similar to: combustible", "Definition: capable of burning", "Synonyms: burnable, ignitible"]}
