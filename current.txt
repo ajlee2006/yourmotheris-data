@@ -1,1 +1,1 @@
-{"data": ["2023-08-06T15:01:26.596481+00:00", 13117, "Your mother is", "maleficent", "Pronunciation: /m\u0259\u02c8l\u025bf\u026as\u0259nt/", "Definition: harmful or evil in intent or effect", ""]}
+{"data": ["2023-08-06T16:00:58.095262+00:00", 13118, "Your mother is", "capitate", "Pronunciation: /\u02c8k\u00e6p\u026a\u02ccte\u026at/", "Definition: being abruptly enlarged and globose at the tip", ""]}
