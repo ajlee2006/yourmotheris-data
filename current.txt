@@ -1,1 +1,1 @@
-{"data": ["2023-08-05T23:00:56.266703+00:00", 13101, "Your mother is", "unsized", "Pronunciation: /\u0259n\u02c8sa\u026azd/", "Definition: not fashioned to sizes", ""]}
+{"data": ["2023-08-06T00:01:41.593457+00:00", 13102, "Your mother is", "bone-lazy", "Pronunciation: /bo\u028an-\u02c8le\u026azi/", "Definition: constitutionally lazy or idle", "Synonyms: bone-idle"]}
