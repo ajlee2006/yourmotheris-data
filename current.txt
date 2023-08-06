@@ -1,1 +1,1 @@
-{"data": ["2023-08-06T17:01:01.123127+00:00", 13119, "Your mother is", "generative", "Pronunciation: /\u02c8d\u0292\u025bn\u0259\u02ccre\u026at\u026av/", "Definition: producing new life or offspring", "Synonyms: procreative, reproductive"]}
+{"data": ["2023-08-06T18:01:14.574109+00:00", 13120, "Your mother is", "unlifelike", "Similar to: artificial", "Definition: without substance", "Synonyms: cardboard"]}
