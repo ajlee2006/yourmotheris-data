@@ -1,1 +1,1 @@
-{"data": ["2023-08-06T01:01:06.425240+00:00", 13103, "Your mother is", "monosyllabic", "Pronunciation: /\u02ccm\u0251n\u0259s\u026a\u02c8l\u00e6b\u026ak/", "Definition: having or characterized by or consisting of one syllable", ""]}
+{"data": ["2023-08-06T02:01:24.528468+00:00", 13104, "Your mother is", "binucleate", "Pronunciation: /ba\u026a\u02c8nukli\u02cce\u026at/", "Definition: having two nuclei", "Synonyms: binuclear, binucleated"]}
