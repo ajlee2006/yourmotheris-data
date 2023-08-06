@@ -1,1 +1,1 @@
-{"data": ["2023-08-06T02:01:24.528468+00:00", 13104, "Your mother is", "binucleate", "Pronunciation: /ba\u026a\u02c8nukli\u02cce\u026at/", "Definition: having two nuclei", "Synonyms: binuclear, binucleated"]}
+{"data": ["2023-08-06T03:01:18.092626+00:00", 13105, "Your mother is", "paperlike", "", "Definition: of or like paper", "Synonyms: chartaceous, papery"]}
