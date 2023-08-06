@@ -1,1 +1,1 @@
-{"data": ["2023-08-06T10:00:53.461303+00:00", 13112, "Your mother is", "ignitable", "Similar to: combustible", "Definition: capable of burning", "Synonyms: burnable, ignitible"]}
+{"data": ["2023-08-06T11:01:31.875474+00:00", 13113, "Your mother is", "raspberry-red", "Similar to: chromatic", "Definition: of the red of fresh raspberries", "Synonyms: bright-red"]}
