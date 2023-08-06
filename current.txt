@@ -1,1 +1,1 @@
-{"data": ["2023-08-06T00:01:41.593457+00:00", 13102, "Your mother is", "bone-lazy", "Pronunciation: /bo\u028an-\u02c8le\u026azi/", "Definition: constitutionally lazy or idle", "Synonyms: bone-idle"]}
+{"data": ["2023-08-06T01:01:06.425240+00:00", 13103, "Your mother is", "monosyllabic", "Pronunciation: /\u02ccm\u0251n\u0259s\u026a\u02c8l\u00e6b\u026ak/", "Definition: having or characterized by or consisting of one syllable", ""]}
