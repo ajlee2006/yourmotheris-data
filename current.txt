@@ -1,1 +1,1 @@
-{"data": ["2023-08-06T16:00:58.095262+00:00", 13118, "Your mother is", "capitate", "Pronunciation: /\u02c8k\u00e6p\u026a\u02ccte\u026at/", "Definition: being abruptly enlarged and globose at the tip", ""]}
+{"data": ["2023-08-06T17:01:01.123127+00:00", 13119, "Your mother is", "generative", "Pronunciation: /\u02c8d\u0292\u025bn\u0259\u02ccre\u026at\u026av/", "Definition: producing new life or offspring", "Synonyms: procreative, reproductive"]}
