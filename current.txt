@@ -1,1 +1,1 @@
-{"data": ["2023-08-06T22:01:34.596254+00:00", 13124, "Your mother is", "reminiscent", "Pronunciation: /\u02ccr\u025bm\u02c8\u0259n\u026as\u0259nt/", "Definition: serving to bring to mind", "Synonyms: evocative, redolent, remindful, resonant"]}
+{"data": ["2023-08-06T23:01:10.275269+00:00", 13125, "Your mother is", "tolerant", "Pronunciation: /\u02c8t\u0251l\u0259r\u0259nt/", "Definition: showing or characterized by broad-mindedness", "Synonyms: broad, large-minded, liberal"]}
