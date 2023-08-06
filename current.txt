@@ -1,1 +1,1 @@
-{"data": ["2023-08-06T20:01:18.199296+00:00", 13122, "Your mother is", "archegonial", "", "Definition: of or relating to an archegonium", "Synonyms: archegoniate"]}
+{"data": ["2023-08-06T21:01:30.237504+00:00", 13123, "Your mother is", "ten-fold", "Similar to: multiple", "Definition: containing ten or ten parts", "Synonyms: denary, tenfold"]}
