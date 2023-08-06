@@ -1,1 +1,1 @@
-{"data": ["2023-08-06T08:01:13.948106+00:00", 13110, "Your mother is", "eighth", "Pronunciation: /e\u026at\u03b8/", "Definition: coming next after the seventh and just before the ninth in position", "Synonyms: 8th"]}
+{"data": ["2023-08-06T09:00:57.924038+00:00", 13111, "Your mother is", "anomic", "Pronunciation: /\u0259\u02c8n\u0251m\u026ak/", "Definition: socially disoriented", "Synonyms: alienated, disoriented"]}
