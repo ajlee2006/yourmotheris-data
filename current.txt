@@ -1,1 +1,1 @@
-{"data": ["2023-08-06T11:01:31.875474+00:00", 13113, "Your mother is", "raspberry-red", "Similar to: chromatic", "Definition: of the red of fresh raspberries", "Synonyms: bright-red"]}
+{"data": ["2023-08-06T12:00:51.273935+00:00", 13114, "Your mother is", "zoophagous", "Similar to: carnivorous", "Definition: (of animals) carnivorous", "Synonyms: flesh-eating, meat-eating"]}
