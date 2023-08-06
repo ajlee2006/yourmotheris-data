@@ -1,1 +1,1 @@
-{"data": ["2023-08-06T13:00:53.544160+00:00", 13115, "Your mother is", "35", "Similar to: cardinal", "Definition: being five more than thirty", "Synonyms: thirty-five, xxxv"]}
+{"data": ["2023-08-06T14:01:14.686798+00:00", 13116, "Your mother is", "initial", "Pronunciation: /\u026a\u02c8n\u026a\u0283\u0259l/", "Definition: occurring at the beginning", ""]}
