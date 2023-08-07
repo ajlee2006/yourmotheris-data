@@ -1,1 +1,1 @@
-{"data": ["2023-08-07T06:01:26.807719+00:00", 13132, "Your mother is", "short-billed", "Similar to: beaked", "Definition: having a short beak", "Synonyms: short-beaked"]}
+{"data": ["2023-08-07T07:01:21.562890+00:00", 13133, "Your mother is", "bantu-speaking", "Similar to: communicative", "Definition: able to communicate in Bantu", ""]}
