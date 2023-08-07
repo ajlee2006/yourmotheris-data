@@ -1,1 +1,1 @@
-{"data": ["2023-08-07T19:01:07.263915+00:00", 13145, "Your mother is", "baseborn", "Pronunciation: /\u02c8be\u026as\u02c8b\u0254rn/", "Definition: of low birth or station (`base' is archaic in this sense)", "Synonyms: base, humble, lowly"]}
+{"data": ["2023-08-07T20:01:04.042140+00:00", 13146, "Your mother is", "high-power", "Pronunciation: /ha\u026a-\u02c8pa\u028a\u0259r/", "Definition: vigorously energetic or forceful", "Synonyms: high-energy, high-octane, high-powered, high-voltage"]}
