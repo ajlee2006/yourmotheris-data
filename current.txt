@@ -1,1 +1,1 @@
-{"data": ["2023-08-07T07:01:21.562890+00:00", 13133, "Your mother is", "bantu-speaking", "Similar to: communicative", "Definition: able to communicate in Bantu", ""]}
+{"data": ["2023-08-07T08:01:04.695411+00:00", 13134, "Your mother is", "diarrhoeic", "Similar to: regular", "Definition: of or relating to diarrhea", "Synonyms: diarrheal, diarrheic, diarrhetic, diarrhoeal, diarrhoetic"]}
