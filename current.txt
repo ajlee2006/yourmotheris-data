@@ -1,1 +1,1 @@
-{"data": ["2023-08-07T18:01:31.512268+00:00", 13144, "Your mother is", "indigent", "Pronunciation: /\u02c8\u026and\u026ad\u0292\u025bnt/", "Definition: poor enough to need help from others", "Synonyms: destitute, impoverished, necessitous, needy, poverty-stricken"]}
+{"data": ["2023-08-07T19:01:07.263915+00:00", 13145, "Your mother is", "baseborn", "Pronunciation: /\u02c8be\u026as\u02c8b\u0254rn/", "Definition: of low birth or station (`base' is archaic in this sense)", "Synonyms: base, humble, lowly"]}
