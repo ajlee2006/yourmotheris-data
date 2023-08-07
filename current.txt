@@ -1,1 +1,1 @@
-{"data": ["2023-08-07T22:00:55.085014+00:00", 13148, "Your mother is", "out of it", "Similar to: unconscious", "Definition: unresponsive to stimulation", "Synonyms: insensible, senseless"]}
+{"data": ["2023-08-07T23:01:28.494298+00:00", 13149, "Your mother is", "tritanopic", "Pronunciation: /\u02cctra\u026at\u02c8\u0259n\u0251p\u026ak/", "Definition: inability to see the color blue or to distinguish the colors blue and yellow", "Synonyms: blue-blind"]}
