@@ -1,1 +1,1 @@
-{"data": ["2023-08-07T04:01:00.971921+00:00", 13130, "Your mother is", "cavalier", "Pronunciation: /\u02cck\u00e6v\u0259\u02c8lir/", "Definition: given to haughty disregard of others", "Synonyms: high-handed"]}
+{"data": ["2023-08-07T05:01:20.071720+00:00", 13131, "Your mother is", "saucer-shaped", "Pronunciation: /\u02c8s\u0254s\u0259r-\u0283e\u026apt/", "Definition: having a concave shape like a saucer", ""]}
