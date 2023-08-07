@@ -1,1 +1,1 @@
-{"data": ["2023-08-07T17:00:55.751780+00:00", 13143, "Your mother is", "stricken", "Pronunciation: /\u02c8str\u026ak\u0259n/", "Definition: (used in combination) affected by something overwhelming", "Synonyms: smitten, struck"]}
+{"data": ["2023-08-07T18:01:31.512268+00:00", 13144, "Your mother is", "indigent", "Pronunciation: /\u02c8\u026and\u026ad\u0292\u025bnt/", "Definition: poor enough to need help from others", "Synonyms: destitute, impoverished, necessitous, needy, poverty-stricken"]}
