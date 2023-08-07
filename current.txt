@@ -1,1 +1,1 @@
-{"data": ["2023-08-06T23:01:10.275269+00:00", 13125, "Your mother is", "tolerant", "Pronunciation: /\u02c8t\u0251l\u0259r\u0259nt/", "Definition: showing or characterized by broad-mindedness", "Synonyms: broad, large-minded, liberal"]}
+{"data": ["2023-08-07T00:01:45.669264+00:00", 13126, "Your mother is", "impassioned", "Pronunciation: /\u026am\u02c8p\u00e6\u0283\u0259nd/", "Definition: characterized by intense emotion", "Synonyms: ardent, fervent, fervid, fiery, perfervid, torrid"]}
