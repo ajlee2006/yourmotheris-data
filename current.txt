@@ -1,1 +1,1 @@
-{"data": ["2023-08-07T05:01:20.071720+00:00", 13131, "Your mother is", "saucer-shaped", "Pronunciation: /\u02c8s\u0254s\u0259r-\u0283e\u026apt/", "Definition: having a concave shape like a saucer", ""]}
+{"data": ["2023-08-07T06:01:26.807719+00:00", 13132, "Your mother is", "short-billed", "Similar to: beaked", "Definition: having a short beak", "Synonyms: short-beaked"]}
