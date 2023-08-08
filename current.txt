@@ -1,1 +1,1 @@
-{"data": ["2023-08-08T05:00:51.531274+00:00", 13155, "Your mother is", "empathetic", "Pronunciation: /\u02cc\u025bmp\u028c\u02c8\u03b8\u025bt\u026ak/", "Definition: showing empathy or ready comprehension of others' states", "Synonyms: empathic"]}
+{"data": ["2023-08-08T06:01:12.509120+00:00", 13156, "Your mother is", "ferned", "Similar to: braky", "Definition: abounding in or covered with ferns", "Synonyms: ferny"]}
