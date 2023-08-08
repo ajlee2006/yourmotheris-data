@@ -1,1 +1,1 @@
-{"data": ["2023-08-08T10:01:09.215202+00:00", 13160, "Your mother is", "sighted", "Pronunciation: /\u02c8sa\u026at\u026ad/", "Definition: able to see", ""]}
+{"data": ["2023-08-08T11:01:14.275098+00:00", 13161, "Your mother is", "amenable", "Pronunciation: /\u0259\u02c8min\u0259b\u0259l/", "Definition: responsive to suggestions and influences", "Synonyms: tractable"]}
