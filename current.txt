@@ -1,1 +1,1 @@
-{"data": ["2023-08-08T17:01:13.594703+00:00", 13167, "Your mother is", "cetaceous", "", "Definition: of or relating to whales and dolphins etc", "Synonyms: cetacean"]}
+{"data": ["2023-08-08T18:01:20.824330+00:00", 13168, "Your mother is", "cyclic", "Pronunciation: /\u02c8sa\u026akl\u026ak/", "Definition: recurring in cycles", "Synonyms: cyclical"]}
