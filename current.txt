@@ -1,1 +1,1 @@
-{"data": ["2023-08-08T21:00:55.042834+00:00", 13170, "Your mother is", "milk-white", "Pronunciation: /\u02c8m\u026alk\u02c8hwa\u026at/", "Definition: of a white the color of fresh milk", ""]}
+{"data": ["2023-08-08T22:01:06.669418+00:00", 13171, "Your mother is", "hypersensitised", "Similar to: susceptible", "Definition: having an allergy or peculiar or excessive susceptibility (especially to a specific factor)", "Synonyms: allergic, hypersensitive, hypersensitized, sensitised, sensitized, supersensitised, supersensitive, supersensitized"]}
