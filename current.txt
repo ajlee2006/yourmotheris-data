@@ -1,1 +1,1 @@
-{"data": ["2023-08-08T04:00:59.612094+00:00", 13154, "Your mother is", "solid-colored", "Pronunciation: /\u02c8s\u0251l\u026ad-\u02c8k\u0259l\u0259rd/", "Definition: having the same color all over", "Synonyms: solid-coloured"]}
+{"data": ["2023-08-08T05:00:51.531274+00:00", 13155, "Your mother is", "empathetic", "Pronunciation: /\u02cc\u025bmp\u028c\u02c8\u03b8\u025bt\u026ak/", "Definition: showing empathy or ready comprehension of others' states", "Synonyms: empathic"]}
