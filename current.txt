@@ -1,1 +1,1 @@
-{"data": ["2023-08-08T16:01:34.487793+00:00", 13166, "Your mother is", "prospective", "Pronunciation: /pr\u0259\u02c8sp\u025bkt\u026av/", "Definition: of or concerned with or related to the future", ""]}
+{"data": ["2023-08-08T17:01:13.594703+00:00", 13167, "Your mother is", "cetaceous", "", "Definition: of or relating to whales and dolphins etc", "Synonyms: cetacean"]}
