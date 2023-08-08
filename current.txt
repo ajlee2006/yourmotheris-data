@@ -1,1 +1,1 @@
-{"data": ["2023-08-08T08:01:30.442305+00:00", 13158, "Your mother is", "anemometrical", "", "Definition: pertaining to the measurement of wind speed and direction", "Synonyms: anemometric"]}
+{"data": ["2023-08-08T09:01:28.758592+00:00", 13159, "Your mother is", "helmeted", "Pronunciation: /\u02c8h\u025blm\u028ct\u026ad/", "Definition: equipped with or wearing a helmet", ""]}
