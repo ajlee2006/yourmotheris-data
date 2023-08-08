@@ -1,1 +1,1 @@
-{"data": ["2023-08-08T11:01:14.275098+00:00", 13161, "Your mother is", "amenable", "Pronunciation: /\u0259\u02c8min\u0259b\u0259l/", "Definition: responsive to suggestions and influences", "Synonyms: tractable"]}
+{"data": ["2023-08-08T12:01:08.371159+00:00", 13162, "Your mother is", "jewish-orthodox", "", "Definition: of or pertaining to or characteristic of Judaism", "Synonyms: orthodox"]}
