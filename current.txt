@@ -1,1 +1,1 @@
-{"data": ["2023-08-08T22:01:06.669418+00:00", 13171, "Your mother is", "hypersensitised", "Similar to: susceptible", "Definition: having an allergy or peculiar or excessive susceptibility (especially to a specific factor)", "Synonyms: allergic, hypersensitive, hypersensitized, sensitised, sensitized, supersensitised, supersensitive, supersensitized"]}
+{"data": ["2023-08-08T23:01:08.672962+00:00", 13172, "Your mother is", "fungous", "Pronunciation: /\u02c8f\u0259\u014b\u0261\u0259s/", "Definition: of or relating to fungi", "Synonyms: fungal"]}
