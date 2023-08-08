@@ -1,1 +1,1 @@
-{"data": ["2023-08-08T00:02:02.356406+00:00", 13150, "Your mother is", "low-cut", "Pronunciation: /lo\u028a-k\u0259t/", "Definition: (of a garment) having a low-cut neckline", "Synonyms: decollete, low-necked"]}
+{"data": ["2023-08-08T01:00:52.951741+00:00", 13151, "Your mother is", "nineteen", "Pronunciation: /\u02c8na\u026an\u02c8tin/", "Definition: being one more than eighteen", "Synonyms: 19, xix"]}
