@@ -1,1 +1,1 @@
-{"data": ["2023-08-08T09:01:28.758592+00:00", 13159, "Your mother is", "helmeted", "Pronunciation: /\u02c8h\u025blm\u028ct\u026ad/", "Definition: equipped with or wearing a helmet", ""]}
+{"data": ["2023-08-08T10:01:09.215202+00:00", 13160, "Your mother is", "sighted", "Pronunciation: /\u02c8sa\u026at\u026ad/", "Definition: able to see", ""]}
