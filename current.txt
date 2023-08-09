@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T00:02:06.840133+00:00", 13173, "Your mother is", "transversal", "Pronunciation: /tr\u00e6ns\u02c8v\u025crs\u0259l/", "Definition: extending or lying across; in a crosswise direction; at right angles to the long axis", "Synonyms: cross, thwartwise, transverse"]}
+{"data": ["2023-08-09T01:01:01.400416+00:00", 13174, "Your mother is", "monounsaturated", "Similar to: unsaturated", "Definition: (of long-chain carbon compounds especially fats) saturated except for one multiple bond", ""]}
