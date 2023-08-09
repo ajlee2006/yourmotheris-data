@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T13:01:24.640223+00:00", 13186, "Your mother is", "blue-gray", "Pronunciation: /blu-gre\u026a/", "Definition: of grey tinged with blue", "Synonyms: blue-grey, bluish-gray, bluish-grey"]}
+{"data": ["2023-08-09T14:01:26.587497+00:00", 13187, "Your mother is", "obvious", "Pronunciation: /\u02c8\u0251bvi\u0259s/", "Definition: easily perceived by the senses or grasped by the mind", ""]}
