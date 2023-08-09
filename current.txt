@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T20:01:14.463801+00:00", 13193, "Your mother is", "antecedent", "Pronunciation: /\u02cc\u00e6nt\u026a\u02c8sid\u0259nt/", "Definition: preceding in time or order", ""]}
+{"data": ["2023-08-09T21:00:58.515382+00:00", 13194, "Your mother is", "coseismal", "Pronunciation: /ko\u028a\u02c8sa\u026asm\u0259l/", "Definition: being where earthquake waves arrive simultaneously", "Synonyms: coseismic"]}
