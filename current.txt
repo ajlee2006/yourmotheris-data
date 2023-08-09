@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T06:01:03.888224+00:00", 13179, "Your mother is", "demonstrated", "Pronunciation: /\u02c8d\u025bm\u028cn\u02ccstre\u026at\u028cd/", "Definition: having been demonstrated or verified beyond doubt", ""]}
+{"data": ["2023-08-09T07:01:14.813717+00:00", 13180, "Your mother is", "interpreted", "Pronunciation: /\u026an\u02c8t\u025drpr\u028ct\u028cd/", "Definition: understood in a certain way; made sense of", "Synonyms: taken"]}
