@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T03:00:52.133693+00:00", 13176, "Your mother is", "miserly", "Pronunciation: /\u02c8ma\u026az\u0259rli/", "Definition: (used of persons or behavior) characterized by or indicative of lack of generosity", "Synonyms: mean, mingy, tight"]}
+{"data": ["2023-08-09T04:01:02.536168+00:00", 13177, "Your mother is", "jangly", "Similar to: cacophonic", "Definition: like the discordant ringing of nonmusical metallic objects striking together", "Synonyms: jangling"]}
