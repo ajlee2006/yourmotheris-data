@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T09:00:54.257873+00:00", 13182, "Your mother is", "insecure", "Pronunciation: /\u02cc\u026ans\u026a\u02c8kj\u028ar/", "Definition: lacking in security or safety", "Synonyms: unsafe"]}
+{"data": ["2023-08-09T10:00:55.415139+00:00", 13183, "Your mother is", "crimson-yellow", "Similar to: chromatic", "Definition: yellow tinged with crimson", ""]}
