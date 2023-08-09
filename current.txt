@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T17:01:29.159447+00:00", 13190, "Your mother is", "mephitic", "Pronunciation: /m\u0259\u02c8f\u026at\u026ak/", "Definition: of noxious stench from atmospheric pollution", "Synonyms: miasmic"]}
+{"data": ["2023-08-09T18:01:17.224550+00:00", 13191, "Your mother is", "embezzled", "Pronunciation: /\u026am\u02c8b\u025bz\u028cld/", "Definition: taken for your own use in violation of a trust", "Synonyms: misappropriated"]}
