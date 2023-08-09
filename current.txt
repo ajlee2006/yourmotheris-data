@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T12:01:29.552631+00:00", 13185, "Your mother is", "bearish", "Pronunciation: /\u02c8b\u025cr\u026a\u0283/", "Definition: expecting prices to fall", ""]}
+{"data": ["2023-08-09T13:01:24.640223+00:00", 13186, "Your mother is", "blue-gray", "Pronunciation: /blu-gre\u026a/", "Definition: of grey tinged with blue", "Synonyms: blue-grey, bluish-gray, bluish-grey"]}
