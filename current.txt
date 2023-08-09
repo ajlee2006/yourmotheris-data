@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T05:01:14.017603+00:00", 13178, "Your mother is", "auburn", "Pronunciation: /\u02c8\u0254b\u0259rn/", "Definition: (of hair) colored a moderate reddish-brown", ""]}
+{"data": ["2023-08-09T06:01:03.888224+00:00", 13179, "Your mother is", "demonstrated", "Pronunciation: /\u02c8d\u025bm\u028cn\u02ccstre\u026at\u028cd/", "Definition: having been demonstrated or verified beyond doubt", ""]}
