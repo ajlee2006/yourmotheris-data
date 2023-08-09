@@ -1,1 +1,1 @@
-{"data": ["2023-08-08T23:01:08.672962+00:00", 13172, "Your mother is", "fungous", "Pronunciation: /\u02c8f\u0259\u014b\u0261\u0259s/", "Definition: of or relating to fungi", "Synonyms: fungal"]}
+{"data": ["2023-08-09T00:02:06.840133+00:00", 13173, "Your mother is", "transversal", "Pronunciation: /tr\u00e6ns\u02c8v\u025crs\u0259l/", "Definition: extending or lying across; in a crosswise direction; at right angles to the long axis", "Synonyms: cross, thwartwise, transverse"]}
