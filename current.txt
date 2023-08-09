@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T01:01:01.400416+00:00", 13174, "Your mother is", "monounsaturated", "Similar to: unsaturated", "Definition: (of long-chain carbon compounds especially fats) saturated except for one multiple bond", ""]}
+{"data": ["2023-08-09T02:01:31.730349+00:00", 13175, "Your mother is", "black-coated", "Pronunciation: /bl\u00e6k-\u02c8ko\u028at\u026ad/", "Definition: coated with black", ""]}
