@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T08:01:18.456463+00:00", 13181, "Your mother is", "daylong", "Pronunciation: /\u02c8de\u026a\u02ccl\u0254\u014b/", "Definition: lasting through an entire day", ""]}
+{"data": ["2023-08-09T09:00:54.257873+00:00", 13182, "Your mother is", "insecure", "Pronunciation: /\u02cc\u026ans\u026a\u02c8kj\u028ar/", "Definition: lacking in security or safety", "Synonyms: unsafe"]}
