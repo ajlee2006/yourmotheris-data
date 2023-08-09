@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T07:01:14.813717+00:00", 13180, "Your mother is", "interpreted", "Pronunciation: /\u026an\u02c8t\u025drpr\u028ct\u028cd/", "Definition: understood in a certain way; made sense of", "Synonyms: taken"]}
+{"data": ["2023-08-09T08:01:18.456463+00:00", 13181, "Your mother is", "daylong", "Pronunciation: /\u02c8de\u026a\u02ccl\u0254\u014b/", "Definition: lasting through an entire day", ""]}
