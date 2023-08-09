@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T10:00:55.415139+00:00", 13183, "Your mother is", "crimson-yellow", "Similar to: chromatic", "Definition: yellow tinged with crimson", ""]}
+{"data": ["2023-08-09T11:01:11.197577+00:00", 13184, "Your mother is", "holometabolous", "Pronunciation: /\u02cch\u0251l\u0259m\u026a\u02c8t\u00e6b\u0259l\u0259s/", "Definition: (of an insect) undergoing complete metamorphosis", "Synonyms: holometabolic"]}
