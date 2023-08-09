@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T19:01:24.623851+00:00", 13192, "Your mother is", "munificent", "Pronunciation: /mju\u02c8n\u026af\u026as\u0259nt/", "Definition: very generous", "Synonyms: lavish, overgenerous, too-generous, unsparing, unstinted, unstinting"]}
+{"data": ["2023-08-09T20:01:14.463801+00:00", 13193, "Your mother is", "antecedent", "Pronunciation: /\u02cc\u00e6nt\u026a\u02c8sid\u0259nt/", "Definition: preceding in time or order", ""]}
