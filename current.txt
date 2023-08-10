@@ -1,1 +1,1 @@
-{"data": ["2023-08-10T12:01:35.741514+00:00", 13209, "Your mother is", "mongoloid", "Pronunciation: /\u02c8m\u0251\u014b\u0261\u0259\u02ccl\u0254\u026ad/", "Definition: (offensive) of or relating to or suffering from Down syndrome", ""]}
+{"data": ["2023-08-10T13:01:28.763686+00:00", 13210, "Your mother is", "phonologic", "", "Definition: of or relating to phonology", "Synonyms: phonological"]}
