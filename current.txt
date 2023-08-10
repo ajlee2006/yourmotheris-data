@@ -1,1 +1,1 @@
-{"data": ["2023-08-10T03:00:53.335269+00:00", 13200, "Your mother is", "congregationalist", "", "Definition: of or pertaining to or characteristic of a Congregational church", "Synonyms: congregational"]}
+{"data": ["2023-08-10T04:01:15.082668+00:00", 13201, "Your mother is", "expositive", "Pronunciation: /\u026ak\u02c8sp\u0251z\u026at\u026av/", "Definition: serving to expound or set forth", "Synonyms: expository"]}
