@@ -1,1 +1,1 @@
-{"data": ["2023-08-09T23:00:55.959835+00:00", 13196, "Your mother is", "smoke-dried", "Pronunciation: /smo\u028ak-dra\u026ad/", "Definition: (used especially of meats and fish) dried and cured by hanging in wood smoke", "Synonyms: smoke-cured, smoked"]}
+{"data": ["2023-08-10T00:01:41.507131+00:00", 13197, "Your mother is", "able", "Pronunciation: /\u02c8e\u026ab\u0259l/", "Definition: having a strong healthy body", "Synonyms: able-bodied"]}
