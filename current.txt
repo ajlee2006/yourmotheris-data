@@ -1,1 +1,1 @@
-{"data": ["2023-08-10T10:01:23.076103+00:00", 13207, "Your mother is", "unrepresentative", "Pronunciation: /\u02cc\u0259nr\u025bpri\u02c8z\u025bnt\u0259t\u026av/", "Definition: not exemplifying a class", ""]}
+{"data": ["2023-08-10T11:01:27.167581+00:00", 13208, "Your mother is", "inexpiable", "Pronunciation: /\u026an\u02c8\u025bkspi\u0259b\u0259l/", "Definition: incapable of being atoned for", ""]}
