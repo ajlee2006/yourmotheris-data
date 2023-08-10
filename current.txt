@@ -1,1 +1,1 @@
-{"data": ["2023-08-10T06:01:15.350364+00:00", 13203, "Your mother is", "foolish", "Pronunciation: /\u02c8ful\u026a\u0283/", "Definition: having or revealing stupidity", "Synonyms: anserine, dopey, dopy, gooselike, goosey, goosy, jerky"]}
+{"data": ["2023-08-10T07:00:54.688825+00:00", 13204, "Your mother is", "deep-rooted", "Pronunciation: /\u02c8dip\u02c8rut\u026ad/", "Definition: (used especially of ideas or principles) deeply rooted; firmly fixed or held", "Synonyms: deep-seated, implanted, ingrained, planted"]}
