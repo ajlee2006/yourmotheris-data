@@ -1,1 +1,1 @@
-{"data": ["2023-08-10T19:01:15.011110+00:00", 13216, "Your mother is", "luxe", "Pronunciation: /l\u028aks/", "Definition: elegant and sumptuous", "Synonyms: de luxe, deluxe"]}
+{"data": ["2023-08-10T20:01:12.764543+00:00", 13217, "Your mother is", "cosher", "Pronunciation: /\u02c8k\u0251\u0283\u0259r/", "Definition: conforming to dietary laws", "Synonyms: kosher"]}
