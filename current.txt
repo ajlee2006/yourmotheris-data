@@ -1,1 +1,1 @@
-{"data": ["2023-08-10T16:00:54.155984+00:00", 13213, "Your mother is", "multipurpose", "Pronunciation: /\u02ccm\u0259lt\u026a\u02c8p\u025crp\u0259s/", "Definition: having multiple uses", ""]}
+{"data": ["2023-08-10T17:00:56.280335+00:00", 13214, "Your mother is", "immense", "Pronunciation: /\u026a\u02c8m\u025bns/", "Definition: unusually great in size or amount or degree or especially extent or scope", "Synonyms: brobdingnagian, huge, vast"]}
