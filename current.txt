@@ -1,1 +1,1 @@
-{"data": ["2023-08-10T02:00:54.076597+00:00", 13199, "Your mother is", "unheeding", "Pronunciation: /\u0259n\u02c8hidi\u014b/", "Definition: marked by or paying little heed or attention", "Synonyms: heedless"]}
+{"data": ["2023-08-10T03:00:53.335269+00:00", 13200, "Your mother is", "congregationalist", "", "Definition: of or pertaining to or characteristic of a Congregational church", "Synonyms: congregational"]}
