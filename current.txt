@@ -1,1 +1,1 @@
-{"data": ["2023-08-10T08:01:00.517346+00:00", 13205, "Your mother is", "atheistic", "Pronunciation: /\u02cce\u026a\u03b8i\u02c8\u026ast\u026ak/", "Definition: rejecting any belief in gods", "Synonyms: atheistical, unbelieving"]}
+{"data": ["2023-08-10T09:01:02.705498+00:00", 13206, "Your mother is", "blue-grey", "Similar to: achromatic", "Definition: of grey tinged with blue", "Synonyms: blue-gray, bluish-gray, bluish-grey"]}
