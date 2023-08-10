@@ -1,1 +1,1 @@
-{"data": ["2023-08-10T04:01:15.082668+00:00", 13201, "Your mother is", "expositive", "Pronunciation: /\u026ak\u02c8sp\u0251z\u026at\u026av/", "Definition: serving to expound or set forth", "Synonyms: expository"]}
+{"data": ["2023-08-10T05:00:56.101932+00:00", 13202, "Your mother is", "urban", "Pronunciation: /\u02c8\u025crb\u0259n/", "Definition: located in or characteristic of a city or city life", ""]}
