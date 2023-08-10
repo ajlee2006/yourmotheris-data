@@ -1,1 +1,1 @@
-{"data": ["2023-08-10T20:01:12.764543+00:00", 13217, "Your mother is", "cosher", "Pronunciation: /\u02c8k\u0251\u0283\u0259r/", "Definition: conforming to dietary laws", "Synonyms: kosher"]}
+{"data": ["2023-08-10T21:00:55.807319+00:00", 13218, "Your mother is", "enough", "Pronunciation: /\u026a\u02c8n\u0259f/", "Definition: sufficient for the purpose", "Synonyms: adequate"]}
