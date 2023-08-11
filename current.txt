@@ -1,1 +1,1 @@
-{"data": ["2023-08-11T18:00:57.186639+00:00", 13239, "Your mother is", "adient", "Pronunciation: /\u02cc\u00e6di\u0259nt/", "Definition: characterized by acceptance or approach", ""]}
+{"data": ["2023-08-11T19:00:54.218673+00:00", 13240, "Your mother is", "nonproductive", "Pronunciation: /\u02ccn\u0251npr\u0259\u02c8d\u0259kt\u026av/", "Definition: not directly productive", ""]}
