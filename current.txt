@@ -1,1 +1,1 @@
-{"data": ["2023-08-11T01:01:18.491517+00:00", 13222, "Your mother is", "emerging", "Pronunciation: /\u026a\u02c8m\u025drd\u0292\u026a\u014b/", "Definition: coming into existence", "Synonyms: emergent"]}
+{"data": ["2023-08-11T02:01:27.154357+00:00", 13223, "Your mother is", "unclogged", "Similar to: unobstructed", "Definition: freed of obstructions", ""]}
