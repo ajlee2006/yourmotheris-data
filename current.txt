@@ -1,1 +1,1 @@
-{"data": ["2023-08-11T07:01:12.037668+00:00", 13228, "Your mother is", "smothered", "Pronunciation: /\u02c8sm\u028c\u00f0\u025drd/", "Definition: held in check with difficulty", "Synonyms: stifled, strangled, suppressed"]}
+{"data": ["2023-08-11T08:00:53.983386+00:00", 13229, "Your mother is", "alphabetised", "Similar to: alphabetic", "Definition: having been put in alphabetical order", "Synonyms: alphabetized"]}
