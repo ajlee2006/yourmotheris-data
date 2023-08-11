@@ -1,1 +1,1 @@
-{"data": ["2023-08-11T12:01:02.939818+00:00", 13233, "Your mother is", "unended", "Similar to: unfinished", "Definition: not ended; lacking an end or conclusion", ""]}
+{"data": ["2023-08-11T13:01:02.647445+00:00", 13234, "Your mother is", "positivistic", "", "Definition: of or relating to positivism", "Synonyms: positive, positivist"]}
