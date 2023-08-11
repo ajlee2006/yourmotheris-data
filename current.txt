@@ -1,1 +1,1 @@
-{"data": ["2023-08-11T05:01:10.112465+00:00", 13226, "Your mother is", "abandoned", "Pronunciation: /\u0259\u02c8b\u00e6nd\u0259nd/", "Definition: forsaken by owner or inhabitants", "Synonyms: derelict, deserted"]}
+{"data": ["2023-08-11T06:00:52.849274+00:00", 13227, "Your mother is", "mangled", "Pronunciation: /\u02c8m\u00e6\u014b\u0261\u028cld/", "Definition: having edges that are jagged from injury", "Synonyms: lacerate, lacerated, torn"]}
