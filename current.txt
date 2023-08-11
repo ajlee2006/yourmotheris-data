@@ -1,1 +1,1 @@
-{"data": ["2023-08-11T14:01:14.112588+00:00", 13235, "Your mother is", "curly-grained", "Similar to: uneven", "Definition: of timber; having fibers running irregularly rather than in parallel", "Synonyms: cross-grained, wavy-grained"]}
+{"data": ["2023-08-11T15:01:05.759940+00:00", 13236, "Your mother is", "top", "Pronunciation: /t\u0251p/", "Definition: situated at the top or highest position", ""]}
