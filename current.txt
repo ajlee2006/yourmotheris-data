@@ -1,1 +1,1 @@
-{"data": ["2023-08-11T04:01:03.874311+00:00", 13225, "Your mother is", "euphonic", "Pronunciation: /ju\u02c8f\u0251n\u026ak/", "Definition: of or relating to or characterized by euphony", "Synonyms: euphonical"]}
+{"data": ["2023-08-11T05:01:10.112465+00:00", 13226, "Your mother is", "abandoned", "Pronunciation: /\u0259\u02c8b\u00e6nd\u0259nd/", "Definition: forsaken by owner or inhabitants", "Synonyms: derelict, deserted"]}
