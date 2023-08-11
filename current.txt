@@ -1,1 +1,1 @@
-{"data": ["2023-08-10T23:01:14.864316+00:00", 13220, "Your mother is", "remittent", "Pronunciation: /r\u026a\u02c8m\u026at\u0259nt/", "Definition: (of a disease) characterized by periods of diminished severity", ""]}
+{"data": ["2023-08-11T00:02:01.945406+00:00", 13221, "Your mother is", "violet", "Pronunciation: /\u02c8va\u026a\u0259l\u026at/", "Definition: of a color intermediate between red and blue", "Synonyms: purple, purplish"]}
