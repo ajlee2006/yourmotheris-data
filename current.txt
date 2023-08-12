@@ -1,1 +1,1 @@
-{"data": ["2023-08-12T08:00:57.399802+00:00", 13253, "Your mother is", "viewless", "Pronunciation: /\u02c8vjul\u026as/", "Definition: not having or expressing opinions or views", ""]}
+{"data": ["2023-08-12T09:01:18.207035+00:00", 13254, "Your mother is", "spastic", "Pronunciation: /\u02c8sp\u00e6st\u026ak/", "Definition: affected by involuntary jerky muscular contractions; resembling a spasm", "Synonyms: convulsive, spasmodic"]}
