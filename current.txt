@@ -1,1 +1,1 @@
-{"data": ["2023-08-12T00:01:49.615437+00:00", 13245, "Your mother is", "nether", "Pronunciation: /\u02c8n\u025b\u00f0\u0259r/", "Definition: dwelling beneath the surface of the earth", "Synonyms: chthonian, chthonic"]}
+{"data": ["2023-08-12T01:01:05.324456+00:00", 13246, "Your mother is", "brick-shaped", "Similar to: cubic", "Definition: shaped like a brick", ""]}
