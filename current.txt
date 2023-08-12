@@ -1,1 +1,1 @@
-{"data": ["2023-08-12T19:01:11.586725+00:00", 13264, "Your mother is", "no-count", "Pronunciation: /no\u028a-ka\u028ant/", "Definition: without merit; of little or no value or use", "Synonyms: good-for-naught, good-for-nothing, meritless, no-account, no-good, sorry"]}
+{"data": ["2023-08-12T20:01:28.338241+00:00", 13265, "Your mother is", "artless", "Pronunciation: /\u02c8\u0251rtl\u026as/", "Definition: (of persons) lacking art or knowledge", "Synonyms: uncultivated, uncultured"]}
