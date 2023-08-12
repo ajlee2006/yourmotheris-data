@@ -1,1 +1,1 @@
-{"data": ["2023-08-12T11:01:32.736233+00:00", 13256, "Your mother is", "woebegone", "Pronunciation: /\u02c8wo\u028ab\u026a\u02cc\u0261\u0254n/", "Definition: affected by or full of grief or woe", "Synonyms: woeful"]}
+{"data": ["2023-08-12T12:01:33.365823+00:00", 13257, "Your mother is", "spaciotemporal", "Similar to: comprehensive", "Definition: existing in both space and time; having both spatial extension and temporal duration", "Synonyms: spatiotemporal"]}
