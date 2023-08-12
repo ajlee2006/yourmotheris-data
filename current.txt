@@ -1,1 +1,1 @@
-{"data": ["2023-08-12T17:01:23.168633+00:00", 13262, "Your mother is", "imperishable", "Pronunciation: /\u026am\u02c8p\u025br\u026a\u0283\u0259b\u0259l/", "Definition: lasting a long time", "Synonyms: abiding, enduring"]}
+{"data": ["2023-08-12T18:00:57.958350+00:00", 13263, "Your mother is", "travelled", "Pronunciation: /\u02c8tr\u00e6v\u0259ld/", "Definition: familiar with many parts of the world", "Synonyms: traveled"]}
