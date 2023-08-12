@@ -1,1 +1,1 @@
-{"data": ["2023-08-12T09:01:18.207035+00:00", 13254, "Your mother is", "spastic", "Pronunciation: /\u02c8sp\u00e6st\u026ak/", "Definition: affected by involuntary jerky muscular contractions; resembling a spasm", "Synonyms: convulsive, spasmodic"]}
+{"data": ["2023-08-12T10:01:32.460424+00:00", 13255, "Your mother is", "deaf as a post", "Similar to: deaf", "Definition: totally deaf; unable to hear anything", "Synonyms: profoundly deaf, stone-deaf, unhearing"]}
