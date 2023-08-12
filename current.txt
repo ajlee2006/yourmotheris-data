@@ -1,1 +1,1 @@
-{"data": ["2023-08-12T02:01:13.906302+00:00", 13247, "Your mother is", "perilous", "Pronunciation: /\u02c8p\u025bril\u0259s/", "Definition: fraught with danger", "Synonyms: parlous, precarious, touch-and-go"]}
+{"data": ["2023-08-12T03:01:21.166231+00:00", 13248, "Your mother is", "crass", "Pronunciation: /kr\u00e6s/", "Definition: (of persons) so unrefined as to be lacking in discrimination and sensibility", ""]}
