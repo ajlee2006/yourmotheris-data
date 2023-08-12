@@ -1,1 +1,1 @@
-{"data": ["2023-08-12T07:01:00.607060+00:00", 13252, "Your mother is", "careworn", "Pronunciation: /\u02c8k\u025cr\u02ccwo\u028arn/", "Definition: showing the wearing effects of overwork or care or suffering", "Synonyms: drawn, haggard, raddled, worn"]}
+{"data": ["2023-08-12T08:00:57.399802+00:00", 13253, "Your mother is", "viewless", "Pronunciation: /\u02c8vjul\u026as/", "Definition: not having or expressing opinions or views", ""]}
