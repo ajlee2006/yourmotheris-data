@@ -1,1 +1,1 @@
-{"data": ["2023-08-12T10:01:32.460424+00:00", 13255, "Your mother is", "deaf as a post", "Similar to: deaf", "Definition: totally deaf; unable to hear anything", "Synonyms: profoundly deaf, stone-deaf, unhearing"]}
+{"data": ["2023-08-12T11:01:32.736233+00:00", 13256, "Your mother is", "woebegone", "Pronunciation: /\u02c8wo\u028ab\u026a\u02cc\u0261\u0254n/", "Definition: affected by or full of grief or woe", "Synonyms: woeful"]}
