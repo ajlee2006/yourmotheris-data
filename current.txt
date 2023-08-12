@@ -1,1 +1,1 @@
-{"data": ["2023-08-12T12:01:33.365823+00:00", 13257, "Your mother is", "spaciotemporal", "Similar to: comprehensive", "Definition: existing in both space and time; having both spatial extension and temporal duration", "Synonyms: spatiotemporal"]}
+{"data": ["2023-08-12T13:01:00.636478+00:00", 13258, "Your mother is", "curvey", "Similar to: curved", "Definition: having curves", "Synonyms: curvy"]}
