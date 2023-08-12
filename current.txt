@@ -1,1 +1,1 @@
-{"data": ["2023-08-12T06:01:11.348260+00:00", 13251, "Your mother is", "adorable", "Pronunciation: /\u0259\u02c8do\u028ar\u0259b\u0259l/", "Definition: lovable especially in a childlike or naive way", "Synonyms: endearing, lovely"]}
+{"data": ["2023-08-12T07:01:00.607060+00:00", 13252, "Your mother is", "careworn", "Pronunciation: /\u02c8k\u025cr\u02ccwo\u028arn/", "Definition: showing the wearing effects of overwork or care or suffering", "Synonyms: drawn, haggard, raddled, worn"]}
