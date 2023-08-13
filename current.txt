@@ -1,1 +1,1 @@
-{"data": ["2023-08-13T01:01:30.070140+00:00", 13270, "Your mother is", "unsullied", "Pronunciation: /\u0259n\u02c8s\u0259l\u026ad/", "Definition: (of reputation) free from blemishes", "Synonyms: stainless, unstained, untainted, untarnished"]}
+{"data": ["2023-08-13T02:01:13.347378+00:00", 13271, "Your mother is", "restless", "Pronunciation: /\u02c8r\u025bstl\u025bs/", "Definition: lacking or not affording physical or mental rest", "Synonyms: uneasy"]}
