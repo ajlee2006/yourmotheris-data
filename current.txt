@@ -1,1 +1,1 @@
-{"data": ["2023-08-13T02:01:13.347378+00:00", 13271, "Your mother is", "restless", "Pronunciation: /\u02c8r\u025bstl\u025bs/", "Definition: lacking or not affording physical or mental rest", "Synonyms: uneasy"]}
+{"data": ["2023-08-13T03:01:07.823380+00:00", 13272, "Your mother is", "palatial", "Pronunciation: /p\u0259\u02c8le\u026a\u0283\u0259l/", "Definition: suitable for or like a palace", ""]}
