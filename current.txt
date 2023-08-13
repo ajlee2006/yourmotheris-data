@@ -1,1 +1,1 @@
-{"data": ["2023-08-13T15:01:24.100139+00:00", 13284, "Your mother is", "specific", "Pronunciation: /sp\u026a\u02c8s\u026af\u026ak/", "Definition: being or affecting a disease produced by a particular microorganism or condition; used also of stains or dyes used in making microscope slides", ""]}
+{"data": ["2023-08-13T16:00:56.603370+00:00", 13285, "Your mother is", "shortsighted", "Pronunciation: /\u02c8\u0283\u0254rt\u02c8sa\u026at\u026ad/", "Definition: unable to see distant objects clearly", "Synonyms: myopic, nearsighted"]}
