@@ -1,1 +1,1 @@
-{"data": ["2023-08-13T11:00:57.894337+00:00", 13280, "Your mother is", "terminal", "Pronunciation: /\u02c8t\u025crm\u0259n\u0259l/", "Definition: occurring at or forming an end or termination", "Synonyms: concluding, final, last"]}
+{"data": ["2023-08-13T12:01:33.306338+00:00", 13281, "Your mother is", "volar", "Pronunciation: /\u02c8vo\u028al\u0259r/", "Definition: relating to the palm of the hand or the sole of the foot", "Synonyms: palmar"]}
