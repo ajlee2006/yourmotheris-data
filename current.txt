@@ -1,1 +1,1 @@
-{"data": ["2023-08-13T06:01:23.295182+00:00", 13275, "Your mother is", "specified", "Pronunciation: /\u02c8sp\u025bs\u028c\u02ccfa\u026ad/", "Definition: clearly and explicitly stated", ""]}
+{"data": ["2023-08-13T07:01:29.720270+00:00", 13276, "Your mother is", "improvident", "Pronunciation: /\u026am\u02c8pr\u0251v\u026ad\u0259nt/", "Definition: not given careful consideration", "Synonyms: ill-considered, ill-judged, shortsighted"]}
