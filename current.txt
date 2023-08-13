@@ -1,1 +1,1 @@
-{"data": ["2023-08-13T13:01:00.981427+00:00", 13282, "Your mother is", "topical", "Pronunciation: /\u02c8t\u0251p\u026ak\u0259l/", "Definition: of interest at the present time", ""]}
+{"data": ["2023-08-13T14:01:20.545088+00:00", 13283, "Your mother is", "rationed", "Pronunciation: /\u02c8r\u00e6\u0283\u028cnd/", "Definition: distributed equitably in limited individual portions", ""]}
