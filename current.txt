@@ -1,1 +1,1 @@
-{"data": ["2023-08-12T23:01:31.015016+00:00", 13268, "Your mother is", "unconsolable", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8so\u028al\u0259b\u0259l/", "Definition: sad beyond comforting; incapable of being consoled", "Synonyms: disconsolate, inconsolable"]}
+{"data": ["2023-08-13T00:01:45.340637+00:00", 13269, "Your mother is", "49th", "Similar to: ordinal", "Definition: the ordinal number of forty-nine in counting order", "Synonyms: forty-ninth"]}
