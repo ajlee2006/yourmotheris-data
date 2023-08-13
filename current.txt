@@ -1,1 +1,1 @@
-{"data": ["2023-08-13T20:01:33.814538+00:00", 13289, "Your mother is", "interspecies", "", "Definition: arising or occurring between species", "Synonyms: interspecific"]}
+{"data": ["2023-08-13T21:01:13.352579+00:00", 13290, "Your mother is", "cotyloidal", "Similar to: concave", "Definition: of the cup-shaped socket that receives the head of the thigh bone", "Synonyms: acetabular, cotyloid"]}
