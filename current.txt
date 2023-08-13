@@ -1,1 +1,1 @@
-{"data": ["2023-08-13T07:01:29.720270+00:00", 13276, "Your mother is", "improvident", "Pronunciation: /\u026am\u02c8pr\u0251v\u026ad\u0259nt/", "Definition: not given careful consideration", "Synonyms: ill-considered, ill-judged, shortsighted"]}
+{"data": ["2023-08-13T08:01:28.589225+00:00", 13277, "Your mother is", "short-handed", "Pronunciation: /\u0283\u0254rt-\u02c8h\u00e6nd\u026ad/", "Definition: inadequate in number of workers or assistants etc.", "Synonyms: short-staffed, undermanned, understaffed"]}
