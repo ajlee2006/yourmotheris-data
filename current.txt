@@ -1,1 +1,1 @@
-{"data": ["2023-08-13T17:01:36.570480+00:00", 13286, "Your mother is", "transalpine", "Pronunciation: /tr\u00e6ns\u02c8\u00e6lp\u026an/", "Definition: on or relating to or characteristic of the region or peoples beyond the Alps from Italy (or north of the Alps)", "Synonyms: ultramontane"]}
+{"data": ["2023-08-13T18:01:22.630790+00:00", 13287, "Your mother is", "captious", "Pronunciation: /\u02c8k\u00e6p\u0283\u0259s/", "Definition: tending to find and call attention to faults", "Synonyms: faultfinding"]}
