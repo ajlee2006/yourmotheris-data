@@ -1,1 +1,1 @@
-{"data": ["2023-08-13T03:01:07.823380+00:00", 13272, "Your mother is", "palatial", "Pronunciation: /p\u0259\u02c8le\u026a\u0283\u0259l/", "Definition: suitable for or like a palace", ""]}
+{"data": ["2023-08-13T04:01:18.338058+00:00", 13273, "Your mother is", "consolidative", "Similar to: integrative", "Definition: combining into a single unit", "Synonyms: unifying"]}
