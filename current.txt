@@ -1,1 +1,1 @@
-{"data": ["2023-08-13T16:00:56.603370+00:00", 13285, "Your mother is", "shortsighted", "Pronunciation: /\u02c8\u0283\u0254rt\u02c8sa\u026at\u026ad/", "Definition: unable to see distant objects clearly", "Synonyms: myopic, nearsighted"]}
+{"data": ["2023-08-13T17:01:36.570480+00:00", 13286, "Your mother is", "transalpine", "Pronunciation: /tr\u00e6ns\u02c8\u00e6lp\u026an/", "Definition: on or relating to or characteristic of the region or peoples beyond the Alps from Italy (or north of the Alps)", "Synonyms: ultramontane"]}
