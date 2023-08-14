@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T20:01:02.169042+00:00", 13313, "Your mother is", "unconverted", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8v\u025crt\u026ad/", "Definition: not converted", "Synonyms: unpersuaded"]}
+{"data": ["2023-08-14T21:01:18.752743+00:00", 13314, "Your mother is", "wearisome", "Pronunciation: /\u02c8wiris\u0259m/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: boring, deadening, dull, ho-hum, irksome, slow, tedious, tiresome"]}
