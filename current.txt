@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T12:01:27.538375+00:00", 13305, "Your mother is", "petticoated", "Pronunciation: /\u02c8p\u025bti\u02ccko\u028at\u026ad/", "Definition: wearing or furnished with a petticoat", ""]}
+{"data": ["2023-08-14T13:01:31.208100+00:00", 13306, "Your mother is", "mussy", "Pronunciation: /\u02c8m\u0259si/", "Definition: dirty and disorderly", "Synonyms: messy"]}
