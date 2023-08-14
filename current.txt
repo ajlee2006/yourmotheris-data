@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T04:01:08.545605+00:00", 13297, "Your mother is", "racist", "Pronunciation: /\u02c8re\u026as\u026ast/", "Definition: discriminatory especially on the basis of race or religion", "Synonyms: anti-semite, antiblack"]}
+{"data": ["2023-08-14T05:01:06.393542+00:00", 13298, "Your mother is", "hydrophytic", "Pronunciation: /\u02ccha\u026adr\u0259\u02c8f\u026at\u026ak/", "Definition: growing wholly or partially in water", ""]}
