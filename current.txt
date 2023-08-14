@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T10:01:15.051038+00:00", 13303, "Your mother is", "civilised", "Pronunciation: /\u02c8s\u026av\u0259\u02ccla\u026azd/", "Definition: having a high state of culture and development both social and technological", "Synonyms: civilized"]}
+{"data": ["2023-08-14T11:01:14.355369+00:00", 13304, "Your mother is", "downtrodden", "Pronunciation: /\u02c8da\u028an\u02cctr\u0251d\u0259n/", "Definition: abused or oppressed by people in power", ""]}
