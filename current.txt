@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T02:01:31.901278+00:00", 13295, "Your mother is", "treed", "Pronunciation: /trid/", "Definition: forced to turn and face attackers", "Synonyms: at bay, cornered, trapped"]}
+{"data": ["2023-08-14T03:01:07.232553+00:00", 13296, "Your mother is", "declarative", "Pronunciation: /d\u026a\u02c8kl\u00e6r\u0259t\u026av/", "Definition: relating to the use of or having the nature of a declaration", "Synonyms: asserting, declaratory"]}
