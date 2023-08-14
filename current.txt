@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T13:01:31.208100+00:00", 13306, "Your mother is", "mussy", "Pronunciation: /\u02c8m\u0259si/", "Definition: dirty and disorderly", "Synonyms: messy"]}
+{"data": ["2023-08-14T14:00:59.176598+00:00", 13307, "Your mother is", "amniotic", "Pronunciation: /\u02cc\u00e6mni\u02c8\u0251t\u026ak/", "Definition: of or related to the amnion or characterized by developing an amnion", "Synonyms: amnic, amnionic"]}
