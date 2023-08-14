@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T17:01:04.454957+00:00", 13310, "Your mother is", "con brio", "Pronunciation: /k\u0251n-\u02c8bRi\u0254/", "Definition: with vigor", ""]}
+{"data": ["2023-08-14T18:01:07.644578+00:00", 13311, "Your mother is", "dostoevskian", "", "Definition: of or relating to or in the style of Feodor Dostoevski", "Synonyms: dostoyevskian"]}
