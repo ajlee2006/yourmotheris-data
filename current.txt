@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T08:00:53.707896+00:00", 13301, "Your mother is", "unlikely", "Pronunciation: /\u0259n\u02c8la\u026akli/", "Definition: not likely to be true or to occur or to have occurred", "Synonyms: improbable"]}
+{"data": ["2023-08-14T09:01:11.279387+00:00", 13302, "Your mother is", "glistering", "Similar to: bright", "Definition: having brief brilliant points or flashes of light", "Synonyms: aglitter, coruscant, fulgid, glinting, glittering, glittery, scintillant, scintillating, sparkly"]}
