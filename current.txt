@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T14:00:59.176598+00:00", 13307, "Your mother is", "amniotic", "Pronunciation: /\u02cc\u00e6mni\u02c8\u0251t\u026ak/", "Definition: of or related to the amnion or characterized by developing an amnion", "Synonyms: amnic, amnionic"]}
+{"data": ["2023-08-14T15:00:56.676752+00:00", 13308, "Your mother is", "pupal", "Similar to: immature", "Definition: of the insects in the chrysalis (cocoon) or post larval stage", ""]}
