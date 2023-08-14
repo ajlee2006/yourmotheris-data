@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T18:01:07.644578+00:00", 13311, "Your mother is", "dostoevskian", "", "Definition: of or relating to or in the style of Feodor Dostoevski", "Synonyms: dostoyevskian"]}
+{"data": ["2023-08-14T19:00:56.592226+00:00", 13312, "Your mother is", "impugnable", "Similar to: questionable", "Definition: subject to being discredited", ""]}
