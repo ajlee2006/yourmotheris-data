@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T06:01:25.698658+00:00", 13299, "Your mother is", "whacking", "Pronunciation: /\u02c8hw\u00e6k\u026a\u014b/", "Definition: (British informal) enormous", ""]}
+{"data": ["2023-08-14T07:01:27.687466+00:00", 13300, "Your mother is", "lethargic", "Pronunciation: /l\u0259\u02c8\u03b8\u0251rd\u0292\u026ak/", "Definition: deficient in alertness or activity", "Synonyms: unenergetic"]}
