@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T21:01:18.752743+00:00", 13314, "Your mother is", "wearisome", "Pronunciation: /\u02c8wiris\u0259m/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: boring, deadening, dull, ho-hum, irksome, slow, tedious, tiresome"]}
+{"data": ["2023-08-14T22:01:34.708960+00:00", 13315, "Your mother is", "forgettable", "Pronunciation: /f\u0254r\u02c8\u0261\u025bt\u028cb\u028cl/", "Definition: easily forgotten", ""]}
