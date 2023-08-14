@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T01:01:15.201899+00:00", 13294, "Your mother is", "disarming", "Pronunciation: /d\u026as\u02c8\u0251rm\u026a\u014b/", "Definition: capable of allaying hostility", ""]}
+{"data": ["2023-08-14T02:01:31.901278+00:00", 13295, "Your mother is", "treed", "Pronunciation: /trid/", "Definition: forced to turn and face attackers", "Synonyms: at bay, cornered, trapped"]}
