@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T03:01:07.232553+00:00", 13296, "Your mother is", "declarative", "Pronunciation: /d\u026a\u02c8kl\u00e6r\u0259t\u026av/", "Definition: relating to the use of or having the nature of a declaration", "Synonyms: asserting, declaratory"]}
+{"data": ["2023-08-14T04:01:08.545605+00:00", 13297, "Your mother is", "racist", "Pronunciation: /\u02c8re\u026as\u026ast/", "Definition: discriminatory especially on the basis of race or religion", "Synonyms: anti-semite, antiblack"]}
