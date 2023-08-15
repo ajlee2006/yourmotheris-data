@@ -1,1 +1,1 @@
-{"data": ["2023-08-15T08:01:09.319299+00:00", 13325, "Your mother is", "disclosed", "Pronunciation: /d\u026as\u02c8klo\u028azd/", "Definition: made known (especially something secret or concealed)", ""]}
+{"data": ["2023-08-15T09:01:04.726150+00:00", 13326, "Your mother is", "jumbo", "Pronunciation: /\u02c8d\u0292\u0259mbo\u028a/", "Definition: of great mass; huge and bulky", "Synonyms: elephantine, gargantuan, giant"]}
