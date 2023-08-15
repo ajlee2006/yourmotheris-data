@@ -1,1 +1,1 @@
-{"data": ["2023-08-14T23:01:04.575232+00:00", 13316, "Your mother is", "barbate", "Pronunciation: /\u02c8b\u0251rbe\u026at/", "Definition: having hair on the cheeks and chin", "Synonyms: bearded, bewhiskered, whiskered, whiskery"]}
+{"data": ["2023-08-15T00:02:12.025128+00:00", 13317, "Your mother is", "vegetational", "", "Definition: composed of vegetation or plants", "Synonyms: vegetal, vegetative"]}
