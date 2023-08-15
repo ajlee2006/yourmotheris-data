@@ -1,1 +1,1 @@
-{"data": ["2023-08-15T04:01:25.729541+00:00", 13321, "Your mother is", "cytogenetic", "", "Definition: of or relating to cytogenetics", "Synonyms: cytogenetical"]}
+{"data": ["2023-08-15T05:00:56.499396+00:00", 13322, "Your mother is", "low-class", "Pronunciation: /lo\u028a-kl\u00e6s/", "Definition: occupying the lowest socioeconomic position in a society", "Synonyms: lower-class"]}
