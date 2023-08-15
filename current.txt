@@ -1,1 +1,1 @@
-{"data": ["2023-08-15T13:00:53.090768+00:00", 13330, "Your mother is", "cimmerian", "Pronunciation: /s\u026a\u02c8miri\u0259n/", "Definition: intensely dark and gloomy as with perpetual darkness", ""]}
+{"data": ["2023-08-15T14:01:20.012011+00:00", 13331, "Your mother is", "cyclic", "Pronunciation: /\u02c8sa\u026akl\u026ak/", "Definition: recurring in cycles", "Synonyms: cyclical"]}
