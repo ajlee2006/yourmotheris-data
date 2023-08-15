@@ -1,1 +1,1 @@
-{"data": ["2023-08-15T19:01:08.353569+00:00", 13336, "Your mother is", "snub-nosed", "Pronunciation: /\u02c8sn\u0259b\u02ccno\u028azd/", "Definition: having a blunt nose", "Synonyms: pug-nose, pug-nosed, short-nosed"]}
+{"data": ["2023-08-15T20:01:14.021409+00:00", 13337, "Your mother is", "pleasant-tasting", "Similar to: tasty", "Definition: extremely pleasing to the sense of taste", "Synonyms: delectable, delicious, luscious, scrumptious, toothsome, yummy"]}
