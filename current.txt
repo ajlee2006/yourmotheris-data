@@ -1,1 +1,1 @@
-{"data": ["2023-08-15T18:01:17.306298+00:00", 13335, "Your mother is", "one-eyed", "Pronunciation: /w\u0259n-a\u026ad/", "Definition: having or showing only one eye", ""]}
+{"data": ["2023-08-15T19:01:08.353569+00:00", 13336, "Your mother is", "snub-nosed", "Pronunciation: /\u02c8sn\u0259b\u02ccno\u028azd/", "Definition: having a blunt nose", "Synonyms: pug-nose, pug-nosed, short-nosed"]}
