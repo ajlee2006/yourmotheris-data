@@ -1,1 +1,1 @@
-{"data": ["2023-08-16T05:01:11.794718+00:00", 13346, "Your mother is", "verbal", "Pronunciation: /\u02c8v\u025crb\u0259l/", "Definition: communicated in the form of words", ""]}
+{"data": ["2023-08-16T06:00:53.180223+00:00", 13347, "Your mother is", "fancy", "Pronunciation: /\u02c8f\u00e6nsi/", "Definition: not plain; decorative or ornamented", ""]}
