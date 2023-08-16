@@ -1,1 +1,1 @@
-{"data": ["2023-08-16T10:01:09.806701+00:00", 13351, "Your mother is", "trespassing", "Pronunciation: /\u02c8tr\u025bs\u02ccp\u00e6s\u026a\u014b/", "Definition: gradually intrusive without right or permission", "Synonyms: encroaching, invasive"]}
+{"data": ["2023-08-16T11:01:01.518223+00:00", 13352, "Your mother is", "rheumatoid", "Pronunciation: /\u02c8rum\u0259\u02cct\u0254\u026ad/", "Definition: of or pertaining to arthritis", "Synonyms: arthritic, creaky, rheumatic, rheumy"]}
