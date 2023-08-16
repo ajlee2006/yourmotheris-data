@@ -1,1 +1,1 @@
-{"data": ["2023-08-16T03:01:22.199718+00:00", 13344, "Your mother is", "bossy", "Pronunciation: /\u02c8b\u0251si/", "Definition: offensively self-assured or given to exercising usually unwarranted power", "Synonyms: autocratic, dominating, high-and-mighty, magisterial, peremptory"]}
+{"data": ["2023-08-16T04:00:53.875243+00:00", 13345, "Your mother is", "unaccented", "Similar to: unstressed", "Definition: (used of vowels or syllables) pronounced with little or no stress", "Synonyms: light, weak"]}
