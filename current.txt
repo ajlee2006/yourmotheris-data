@@ -1,1 +1,1 @@
-{"data": ["2023-08-16T00:01:48.496595+00:00", 13341, "Your mother is", "sixty-seven", "Pronunciation: /\u02c8s\u026aksti-\u02c8s\u025bv\u0259n/", "Definition: being seven more than sixty", "Synonyms: 67, lxvii"]}
+{"data": ["2023-08-16T01:01:15.827926+00:00", 13342, "Your mother is", "palpitating", "Similar to: unsteady", "Definition: having a slight and rapid trembling motion", "Synonyms: palpitant"]}
