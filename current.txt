@@ -1,1 +1,1 @@
-{"data": ["2023-08-16T07:00:58.571482+00:00", 13348, "Your mother is", "chaotic", "Pronunciation: /ke\u026a\u02c8\u0251t\u026ak/", "Definition: completely unordered and unpredictable and confusing", "Synonyms: disorderly"]}
+{"data": ["2023-08-16T08:01:09.715028+00:00", 13349, "Your mother is", "propellant", "Pronunciation: /pr\u0259\u02c8p\u025bl\u0259nt/", "Definition: tending to or capable of propelling", "Synonyms: propellent, propelling, propulsive"]}
