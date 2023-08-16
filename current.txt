@@ -1,1 +1,1 @@
-{"data": ["2023-08-16T08:01:09.715028+00:00", 13349, "Your mother is", "propellant", "Pronunciation: /pr\u0259\u02c8p\u025bl\u0259nt/", "Definition: tending to or capable of propelling", "Synonyms: propellent, propelling, propulsive"]}
+{"data": ["2023-08-16T09:01:01.417855+00:00", 13350, "Your mother is", "seven-membered", "Similar to: membered", "Definition: of a chemical compound having a ring with seven members", "Synonyms: 7-membered"]}
