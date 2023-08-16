@@ -1,1 +1,1 @@
-{"data": ["2023-08-16T02:01:18.422368+00:00", 13343, "Your mother is", "under the weather", "Similar to: ill", "Definition: somewhat ill or prone to illness", "Synonyms: ailing, indisposed, peaked, poorly, seedy, sickly, unwell"]}
+{"data": ["2023-08-16T03:01:22.199718+00:00", 13344, "Your mother is", "bossy", "Pronunciation: /\u02c8b\u0251si/", "Definition: offensively self-assured or given to exercising usually unwarranted power", "Synonyms: autocratic, dominating, high-and-mighty, magisterial, peremptory"]}
