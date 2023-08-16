@@ -1,1 +1,1 @@
-{"data": ["2023-08-16T06:00:53.180223+00:00", 13347, "Your mother is", "fancy", "Pronunciation: /\u02c8f\u00e6nsi/", "Definition: not plain; decorative or ornamented", ""]}
+{"data": ["2023-08-16T07:00:58.571482+00:00", 13348, "Your mother is", "chaotic", "Pronunciation: /ke\u026a\u02c8\u0251t\u026ak/", "Definition: completely unordered and unpredictable and confusing", "Synonyms: disorderly"]}
