@@ -1,1 +1,1 @@
-{"data": ["2023-08-17T19:01:15.719434+00:00", 13384, "Your mother is", "interdenominational", "Pronunciation: /\u02cc\u026ant\u0259rd\u026a\u02ccn\u0251m\u0259\u02c8ne\u026a\u0283\u0259n\u0259l/", "Definition: occurring between or among or common to different churches or denominations", "Synonyms: interchurch"]}
+{"data": ["2023-08-17T20:01:11.611117+00:00", 13385, "Your mother is", "clean-limbed", "Pronunciation: /\u02c8klin\u02ccl\u026amd/", "Definition: having well-proportioned limbs", ""]}
