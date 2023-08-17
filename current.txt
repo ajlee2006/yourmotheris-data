@@ -1,1 +1,1 @@
-{"data": ["2023-08-17T07:01:17.654062+00:00", 13372, "Your mother is", "gilt", "Pronunciation: /\u0261\u026alt/", "Definition: having the deep slightly brownish color of gold", "Synonyms: aureate, gilded, gold, golden"]}
+{"data": ["2023-08-17T08:01:16.902247+00:00", 13373, "Your mother is", "sundried", "Similar to: preserved", "Definition: dried naturally by the sun", "Synonyms: sun-dried"]}
