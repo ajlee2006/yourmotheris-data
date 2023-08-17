@@ -1,1 +1,1 @@
-{"data": ["2023-08-17T10:01:22.949206+00:00", 13375, "Your mother is", "palaeontological", "", "Definition: of or relating to paleontology", "Synonyms: paleontological"]}
+{"data": ["2023-08-17T11:01:32.468777+00:00", 13376, "Your mother is", "unprocessed", "Pronunciation: /\u028cn\u02c8pr\u0254\u02ccs\u025bst/", "Definition: not refined or processed", "Synonyms: crude, unrefined"]}
