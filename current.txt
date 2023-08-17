@@ -1,1 +1,1 @@
-{"data": ["2023-08-17T11:01:32.468777+00:00", 13376, "Your mother is", "unprocessed", "Pronunciation: /\u028cn\u02c8pr\u0254\u02ccs\u025bst/", "Definition: not refined or processed", "Synonyms: crude, unrefined"]}
+{"data": ["2023-08-17T12:01:03.143347+00:00", 13377, "Your mother is", "endermic", "Pronunciation: /\u025bn\u02c8d\u025crm\u026ak/", "Definition: acting by absorption through the skin", "Synonyms: endermatic"]}
