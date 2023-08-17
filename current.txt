@@ -1,1 +1,1 @@
-{"data": ["2023-08-17T06:00:55.023604+00:00", 13371, "Your mother is", "ataraxic", "Similar to: depressant", "Definition: tending to soothe or tranquilize", "Synonyms: ataractic, sedative, tranquilising, tranquilizing, tranquillising, tranquillizing"]}
+{"data": ["2023-08-17T07:01:17.654062+00:00", 13372, "Your mother is", "gilt", "Pronunciation: /\u0261\u026alt/", "Definition: having the deep slightly brownish color of gold", "Synonyms: aureate, gilded, gold, golden"]}
