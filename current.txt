@@ -1,1 +1,1 @@
-{"data": ["2023-08-17T05:01:13.074807+00:00", 13370, "Your mother is", "polygenic", "Similar to: heritable", "Definition: of or relating to an inheritable character that is controlled by several genes at once; of or related to or determined by polygenes", ""]}
+{"data": ["2023-08-17T06:00:55.023604+00:00", 13371, "Your mother is", "ataraxic", "Similar to: depressant", "Definition: tending to soothe or tranquilize", "Synonyms: ataractic, sedative, tranquilising, tranquilizing, tranquillising, tranquillizing"]}
