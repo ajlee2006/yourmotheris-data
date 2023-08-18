@@ -1,1 +1,1 @@
-{"data": ["2023-08-18T19:01:13.719174+00:00", 13408, "Your mother is", "edgy", "Pronunciation: /\u02c8\u025bd\u0292i/", "Definition: being in a tense state", "Synonyms: high-strung, highly strung, jittery, jumpy, nervy, overstrung, restive, uptight"]}
+{"data": ["2023-08-18T20:00:57.404713+00:00", 13409, "Your mother is", "unsociable", "Pronunciation: /\u0259n\u02c8so\u028a\u0283\u0259b\u0259l/", "Definition: not inclined to society or companionship", ""]}
