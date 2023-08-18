@@ -1,1 +1,1 @@
-{"data": ["2023-08-18T14:01:04.344365+00:00", 13403, "Your mother is", "anginose", "Pronunciation: /\u02c8\u00e6nd\u0292\u0259\u02ccno\u028as/", "Definition: of or related to the pain of angina pectoris", "Synonyms: anginal, anginous"]}
+{"data": ["2023-08-18T15:01:23.942350+00:00", 13404, "Your mother is", "unconsolable", "Pronunciation: /\u02cc\u0259nk\u0259n\u02c8so\u028al\u0259b\u0259l/", "Definition: sad beyond comforting; incapable of being consoled", "Synonyms: disconsolate, inconsolable"]}
