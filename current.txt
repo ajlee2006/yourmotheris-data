@@ -1,1 +1,1 @@
-{"data": ["2023-08-18T21:00:53.046135+00:00", 13410, "Your mother is", "devil-may-care", "Pronunciation: /\u02c8d\u025bv\u0259l-me\u026a-\u02c8k\u025cr/", "Definition: cheerfully irresponsible", "Synonyms: carefree, freewheeling, happy-go-lucky, harum-scarum, slaphappy"]}
+{"data": ["2023-08-18T22:01:34.164106+00:00", 13411, "Your mother is", "educational", "Pronunciation: /\u02cc\u025bd\u0292\u028a\u02c8ke\u026a\u0283\u0259n\u0259l/", "Definition: providing knowledge", ""]}
