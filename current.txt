@@ -1,1 +1,1 @@
-{"data": ["2023-08-18T13:01:08.859448+00:00", 13402, "Your mother is", "detested", "Pronunciation: /d\u026a\u02c8t\u025bst\u026ad/", "Definition: treated with dislike or contempt", "Synonyms: despised, hated, scorned"]}
+{"data": ["2023-08-18T14:01:04.344365+00:00", 13403, "Your mother is", "anginose", "Pronunciation: /\u02c8\u00e6nd\u0292\u0259\u02ccno\u028as/", "Definition: of or related to the pain of angina pectoris", "Synonyms: anginal, anginous"]}
