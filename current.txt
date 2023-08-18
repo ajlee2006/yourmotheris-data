@@ -1,1 +1,1 @@
-{"data": ["2023-08-18T07:01:25.278239+00:00", 13396, "Your mother is", "lienal", "Pronunciation: /la\u026a\u02c8in\u0259l/", "Definition: of or relating to the spleen", "Synonyms: splenetic, splenic"]}
+{"data": ["2023-08-18T08:00:53.814143+00:00", 13397, "Your mother is", "m", "Pronunciation: /\u025bm/", "Definition: denoting a quantity consisting of 1,000 items or units", "Synonyms: 1000, k, one thousand, thousand"]}
