@@ -1,1 +1,1 @@
-{"data": ["2023-08-18T17:00:53.401358+00:00", 13406, "Your mother is", "exclusive", "Pronunciation: /\u026ak\u02c8sklus\u026av/", "Definition: not divided or shared with others", "Synonyms: sole"]}
+{"data": ["2023-08-18T18:01:29.033590+00:00", 13407, "Your mother is", "confluent", "Pronunciation: /\u02c8k\u0251nflu\u0259nt/", "Definition: flowing together", "Synonyms: merging"]}
