@@ -1,1 +1,1 @@
-{"data": ["2023-08-18T22:01:34.164106+00:00", 13411, "Your mother is", "educational", "Pronunciation: /\u02cc\u025bd\u0292\u028a\u02c8ke\u026a\u0283\u0259n\u0259l/", "Definition: providing knowledge", ""]}
+{"data": ["2023-08-18T23:00:54.220787+00:00", 13412, "Your mother is", "wide", "Pronunciation: /wa\u026ad/", "Definition: not on target", "Synonyms: wide of the mark"]}
