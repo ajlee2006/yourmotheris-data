@@ -1,1 +1,1 @@
-{"data": ["2023-08-18T00:01:50.275941+00:00", 13389, "Your mother is", "destructive", "Pronunciation: /d\u026a\u02c8str\u0259kt\u026av/", "Definition: causing destruction or much damage", ""]}
+{"data": ["2023-08-18T01:01:04.263365+00:00", 13390, "Your mother is", "inconsequent", "Pronunciation: /\u026an\u02c8k\u0251ns\u0259\u02cckw\u025bnt/", "Definition: lacking worth or importance", "Synonyms: inconsequential"]}
