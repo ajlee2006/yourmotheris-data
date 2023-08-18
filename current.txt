@@ -1,1 +1,1 @@
-{"data": ["2023-08-18T08:00:53.814143+00:00", 13397, "Your mother is", "m", "Pronunciation: /\u025bm/", "Definition: denoting a quantity consisting of 1,000 items or units", "Synonyms: 1000, k, one thousand, thousand"]}
+{"data": ["2023-08-18T09:01:22.659863+00:00", 13398, "Your mother is", "detectable", "Pronunciation: /d\u026a\u02c8t\u025bkt\u028cb\u028cl/", "Definition: easily seen or detected", "Synonyms: perceptible"]}
