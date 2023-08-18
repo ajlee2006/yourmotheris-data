@@ -1,1 +1,1 @@
-{"data": ["2023-08-18T10:01:17.106284+00:00", 13399, "Your mother is", "crenate", "Pronunciation: /\u02c8krine\u026at/", "Definition: having a margin with rounded scallops", "Synonyms: crenated, scalloped"]}
+{"data": ["2023-08-18T11:01:03.505592+00:00", 13400, "Your mother is", "splattered", "Pronunciation: /\u02c8spl\u00e6t\u025drd/", "Definition: covered with bright patches (often used in combination)", "Synonyms: dabbled, spattered, splashed"]}
