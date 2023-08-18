@@ -1,1 +1,1 @@
-{"data": ["2023-08-18T05:01:09.296534+00:00", 13394, "Your mother is", "blue-sky", "Pronunciation: /blu-ska\u026a/", "Definition: without immediate commercial value", ""]}
+{"data": ["2023-08-18T06:00:57.288316+00:00", 13395, "Your mother is", "for sale", "Pronunciation: /f\u0254r-se\u026al/", "Definition: available for purchase", "Synonyms: purchasable"]}
