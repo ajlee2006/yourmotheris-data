@@ -1,1 +1,1 @@
-{"data": ["2023-08-18T09:01:22.659863+00:00", 13398, "Your mother is", "detectable", "Pronunciation: /d\u026a\u02c8t\u025bkt\u028cb\u028cl/", "Definition: easily seen or detected", "Synonyms: perceptible"]}
+{"data": ["2023-08-18T10:01:17.106284+00:00", 13399, "Your mother is", "crenate", "Pronunciation: /\u02c8krine\u026at/", "Definition: having a margin with rounded scallops", "Synonyms: crenated, scalloped"]}
