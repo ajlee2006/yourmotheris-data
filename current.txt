@@ -1,1 +1,1 @@
-{"data": ["2023-08-19T21:01:18.547758+00:00", 13434, "Your mother is", "deskbound", "Pronunciation: /\u02c8d\u025bsk\u02ccba\u028and/", "Definition: restricted to working in an office rather than in an active physical capacity", "Synonyms: desk-bound"]}
+{"data": ["2023-08-19T22:01:23.893140+00:00", 13435, "Your mother is", "homiletic", "Pronunciation: /\u02cch\u0251m\u0259\u02c8l\u025bt\u026ak/", "Definition: of or relating to homiletics", "Synonyms: homiletical"]}
