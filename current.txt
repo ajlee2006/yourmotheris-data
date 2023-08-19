@@ -1,1 +1,1 @@
-{"data": ["2023-08-19T19:01:34.383029+00:00", 13432, "Your mother is", "platonic", "Pronunciation: /pl\u0259\u02cct\u0251n\u026ak/", "Definition: free from physical desire", ""]}
+{"data": ["2023-08-19T20:01:32.447283+00:00", 13433, "Your mother is", "energy-storing", "Similar to: anabolic", "Definition: of or relating to anabolism", "Synonyms: constructive-metabolic"]}
