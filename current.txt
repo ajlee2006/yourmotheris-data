@@ -1,1 +1,1 @@
-{"data": ["2023-08-19T02:01:02.207466+00:00", 13415, "Your mother is", "syncategorematic", "Similar to: synsemantic", "Definition: of a term that cannot stand as the subject or (especially) the predicate of a proposition but must be used in conjunction with other terms", ""]}
+{"data": ["2023-08-19T03:00:52.177943+00:00", 13416, "Your mother is", "hasidic", "Pronunciation: /h\u0259\u02c8s\u026ad\u026ak/", "Definition: of or relating to the Jewish Hasidim or its members or their beliefs and practices", "Synonyms: chasidic, chassidic, hassidic"]}
