@@ -1,1 +1,1 @@
-{"data": ["2023-08-19T08:01:14.528513+00:00", 13421, "Your mother is", "agglomerate", "Pronunciation: /\u0259\u02c8gl\u0251m\u0259\u02ccre\u026at/", "Definition: clustered together but not coherent", "Synonyms: agglomerated, agglomerative, clustered"]}
+{"data": ["2023-08-19T09:01:04.806331+00:00", 13422, "Your mother is", "prismatic", "Pronunciation: /pr\u026az\u02c8m\u00e6t\u026ak/", "Definition: exhibiting spectral colors formed by refraction of light through a prism", ""]}
