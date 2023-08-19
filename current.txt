@@ -1,1 +1,1 @@
-{"data": ["2023-08-19T00:01:52.875097+00:00", 13413, "Your mother is", "foliate", "Pronunciation: /\u02c8fo\u028ali\u026at/", "Definition: (especially of metamorphic rock) having thin leaflike layers or strata", "Synonyms: foliaceous, foliated"]}
+{"data": ["2023-08-19T01:01:16.055931+00:00", 13414, "Your mother is", "unfit", "Pronunciation: /\u0259n\u02c8f\u026at/", "Definition: physically unsound or diseased", "Synonyms: bad, unsound"]}
