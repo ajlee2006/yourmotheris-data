@@ -1,1 +1,1 @@
-{"data": ["2023-08-19T15:01:02.361036+00:00", 13428, "Your mother is", "surrounded", "Pronunciation: /s\u025dr\u02c8a\u028and\u028cd/", "Definition: confined on all sides", "Synonyms: encircled"]}
+{"data": ["2023-08-19T16:00:56.324004+00:00", 13429, "Your mother is", "primeval", "Pronunciation: /pra\u026a\u02c8miv\u0259l/", "Definition: having existed from the beginning; in an earliest or original stage or state", "Synonyms: aboriginal, primaeval, primal, primordial"]}
