@@ -1,1 +1,1 @@
-{"data": ["2023-08-19T22:01:23.893140+00:00", 13435, "Your mother is", "homiletic", "Pronunciation: /\u02cch\u0251m\u0259\u02c8l\u025bt\u026ak/", "Definition: of or relating to homiletics", "Synonyms: homiletical"]}
+{"data": ["2023-08-19T23:01:21.994984+00:00", 13436, "Your mother is", "antitumor", "", "Definition: used in the treatment of cancer", "Synonyms: anticancer, antineoplastic, antitumour"]}
