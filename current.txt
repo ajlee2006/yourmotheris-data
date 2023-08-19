@@ -1,1 +1,1 @@
-{"data": ["2023-08-19T13:01:09.228221+00:00", 13426, "Your mother is", "missionary", "Pronunciation: /\u02c8m\u026a\u0283\u0259\u02ccn\u025bri/", "Definition: relating to or connected to a religious mission", "Synonyms: missional"]}
+{"data": ["2023-08-19T14:01:19.855378+00:00", 13427, "Your mother is", "paunchy", "Pronunciation: /\u02c8p\u0254n\u02a7i/", "Definition: having a large belly", "Synonyms: abdominous, potbellied"]}
