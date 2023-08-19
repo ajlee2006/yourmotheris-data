@@ -1,1 +1,1 @@
-{"data": ["2023-08-19T14:01:19.855378+00:00", 13427, "Your mother is", "paunchy", "Pronunciation: /\u02c8p\u0254n\u02a7i/", "Definition: having a large belly", "Synonyms: abdominous, potbellied"]}
+{"data": ["2023-08-19T15:01:02.361036+00:00", 13428, "Your mother is", "surrounded", "Pronunciation: /s\u025dr\u02c8a\u028and\u028cd/", "Definition: confined on all sides", "Synonyms: encircled"]}
