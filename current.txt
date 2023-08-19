@@ -1,1 +1,1 @@
-{"data": ["2023-08-19T01:01:16.055931+00:00", 13414, "Your mother is", "unfit", "Pronunciation: /\u0259n\u02c8f\u026at/", "Definition: physically unsound or diseased", "Synonyms: bad, unsound"]}
+{"data": ["2023-08-19T02:01:02.207466+00:00", 13415, "Your mother is", "syncategorematic", "Similar to: synsemantic", "Definition: of a term that cannot stand as the subject or (especially) the predicate of a proposition but must be used in conjunction with other terms", ""]}
