@@ -1,1 +1,1 @@
-{"data": ["2023-08-19T07:01:02.981048+00:00", 13420, "Your mother is", "upmarket", "Pronunciation: /\u02c8\u028cp\u02ccm\u0251rk\u028ct/", "Definition: designed for consumers with high incomes", ""]}
+{"data": ["2023-08-19T08:01:14.528513+00:00", 13421, "Your mother is", "agglomerate", "Pronunciation: /\u0259\u02c8gl\u0251m\u0259\u02ccre\u026at/", "Definition: clustered together but not coherent", "Synonyms: agglomerated, agglomerative, clustered"]}
