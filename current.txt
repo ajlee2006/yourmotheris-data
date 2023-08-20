@@ -1,1 +1,1 @@
-{"data": ["2023-08-20T18:01:12.098238+00:00", 13455, "Your mother is", "dyspeptic", "Pronunciation: /d\u026as\u02c8p\u025bpt\u026ak/", "Definition: irritable as if suffering from indigestion", "Synonyms: atrabilious, bilious, liverish"]}
+{"data": ["2023-08-20T19:01:17.174473+00:00", 13456, "Your mother is", "spent", "Pronunciation: /sp\u025bnt/", "Definition: drained of energy or effectiveness; extremely tired; completely exhausted", "Synonyms: dog-tired, exhausted, fagged, fatigued, gone, played out, washed-out, worn-out, worn out"]}
