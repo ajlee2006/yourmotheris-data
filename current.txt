@@ -1,1 +1,1 @@
-{"data": ["2023-08-20T15:00:58.363378+00:00", 13452, "Your mother is", "humpbacked", "Pronunciation: /\u02c8h\u0259mp\u02ccb\u00e6kt/", "Definition: characteristic of or suffering from kyphosis, an abnormality of the vertebral column", "Synonyms: crookback, crookbacked, gibbous, humped, hunchbacked, kyphotic"]}
+{"data": ["2023-08-20T16:01:20.245901+00:00", 13453, "Your mother is", "city-bred", "Pronunciation: /\u02c8s\u026ati-br\u025bd/", "Definition: being or having the customs or manners or dress of a city person", "Synonyms: citified, city-born, cityfied"]}
