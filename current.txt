@@ -1,1 +1,1 @@
-{"data": ["2023-08-19T23:01:21.994984+00:00", 13436, "Your mother is", "antitumor", "", "Definition: used in the treatment of cancer", "Synonyms: anticancer, antineoplastic, antitumour"]}
+{"data": ["2023-08-20T00:01:55.325227+00:00", 13437, "Your mother is", "shattered", "Pronunciation: /\u02c8\u0283\u00e6t\u025drd/", "Definition: ruined or disrupted", "Synonyms: tattered"]}
