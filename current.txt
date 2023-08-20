@@ -1,1 +1,1 @@
-{"data": ["2023-08-20T22:01:32.178566+00:00", 13459, "Your mother is", "belted", "Pronunciation: /\u02c8b\u025blt\u026ad/", "Definition: having or provided with a belt", ""]}
+{"data": ["2023-08-20T23:01:28.672495+00:00", 13460, "Your mother is", "oceangoing", "Pronunciation: /\u02c8o\u028a\u0283\u028cn\u02cc\u0261o\u028a\u026a\u014b/", "Definition: used on the high seas", "Synonyms: seafaring, seagoing"]}
