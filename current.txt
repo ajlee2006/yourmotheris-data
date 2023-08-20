@@ -1,1 +1,1 @@
-{"data": ["2023-08-20T16:01:20.245901+00:00", 13453, "Your mother is", "city-bred", "Pronunciation: /\u02c8s\u026ati-br\u025bd/", "Definition: being or having the customs or manners or dress of a city person", "Synonyms: citified, city-born, cityfied"]}
+{"data": ["2023-08-20T17:00:54.789245+00:00", 13454, "Your mother is", "non-aromatic", "Similar to: inodorous", "Definition: not aromatic", ""]}
