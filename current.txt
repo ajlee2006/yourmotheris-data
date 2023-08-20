@@ -1,1 +1,1 @@
-{"data": ["2023-08-20T04:01:11.015580+00:00", 13441, "Your mother is", "unmedicative", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: nonmedicinal, unmedical, unmedicinal"]}
+{"data": ["2023-08-20T05:00:53.211908+00:00", 13442, "Your mother is", "blebby", "Similar to: blemished", "Definition: (of glass or quartzite) marred by small bubbles or small particles of foreign material", "Synonyms: blebbed"]}
