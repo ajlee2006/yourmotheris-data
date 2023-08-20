@@ -1,1 +1,1 @@
-{"data": ["2023-08-20T14:01:11.247425+00:00", 13451, "Your mother is", "sententious", "Pronunciation: /s\u025bn\u02c8t\u025bn\u0283\u0259s/", "Definition: concise and full of meaning", "Synonyms: pithy"]}
+{"data": ["2023-08-20T15:00:58.363378+00:00", 13452, "Your mother is", "humpbacked", "Pronunciation: /\u02c8h\u0259mp\u02ccb\u00e6kt/", "Definition: characteristic of or suffering from kyphosis, an abnormality of the vertebral column", "Synonyms: crookback, crookbacked, gibbous, humped, hunchbacked, kyphotic"]}
