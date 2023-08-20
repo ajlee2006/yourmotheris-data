@@ -1,1 +1,1 @@
-{"data": ["2023-08-20T06:01:02.930354+00:00", 13443, "Your mother is", "nonmoving", "Similar to: fixed", "Definition: not in motion", "Synonyms: unmoving"]}
+{"data": ["2023-08-20T07:01:04.490715+00:00", 13444, "Your mother is", "carnassial", "Pronunciation: /k\u0251r\u02c8n\u00e6si\u0259l/", "Definition: (of a tooth) adapted for shearing flesh", ""]}
