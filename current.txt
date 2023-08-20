@@ -1,1 +1,1 @@
-{"data": ["2023-08-20T19:01:17.174473+00:00", 13456, "Your mother is", "spent", "Pronunciation: /sp\u025bnt/", "Definition: drained of energy or effectiveness; extremely tired; completely exhausted", "Synonyms: dog-tired, exhausted, fagged, fatigued, gone, played out, washed-out, worn-out, worn out"]}
+{"data": ["2023-08-20T20:00:59.103016+00:00", 13457, "Your mother is", "melodramatic", "Pronunciation: /\u02ccm\u025bl\u0259dr\u0259\u02c8m\u00e6t\u026ak/", "Definition: characteristic of acting or a stage performance; often affected", "Synonyms: histrionic"]}
