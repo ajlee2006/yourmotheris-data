@@ -1,1 +1,1 @@
-{"data": ["2023-08-20T17:00:54.789245+00:00", 13454, "Your mother is", "non-aromatic", "Similar to: inodorous", "Definition: not aromatic", ""]}
+{"data": ["2023-08-20T18:01:12.098238+00:00", 13455, "Your mother is", "dyspeptic", "Pronunciation: /d\u026as\u02c8p\u025bpt\u026ak/", "Definition: irritable as if suffering from indigestion", "Synonyms: atrabilious, bilious, liverish"]}
