@@ -1,1 +1,1 @@
-{"data": ["2023-08-20T03:01:23.320945+00:00", 13440, "Your mother is", "pinwheel-shaped", "Similar to: circular", "Definition: having the round shape of a pinwheel", ""]}
+{"data": ["2023-08-20T04:01:11.015580+00:00", 13441, "Your mother is", "unmedicative", "Similar to: unhealthful", "Definition: not having a medicinal effect or not medically prescribed", "Synonyms: nonmedicinal, unmedical, unmedicinal"]}
