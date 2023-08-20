@@ -1,1 +1,1 @@
-{"data": ["2023-08-20T08:00:59.482555+00:00", 13445, "Your mother is", "mighty", "Pronunciation: /\u02c8ma\u026ati/", "Definition: having or showing great strength or force or intensity", ""]}
+{"data": ["2023-08-20T09:01:08.655977+00:00", 13446, "Your mother is", "unsanctified", "Pronunciation: /\u0259n\u02c8s\u00e6\u014bkt\u026a\u02ccfa\u026ad/", "Definition: not holy because unconsecrated or impure or defiled", "Synonyms: profane, unconsecrated"]}
