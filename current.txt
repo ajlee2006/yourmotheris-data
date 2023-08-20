@@ -1,1 +1,1 @@
-{"data": ["2023-08-20T00:01:55.325227+00:00", 13437, "Your mother is", "shattered", "Pronunciation: /\u02c8\u0283\u00e6t\u025drd/", "Definition: ruined or disrupted", "Synonyms: tattered"]}
+{"data": ["2023-08-20T01:00:51.454817+00:00", 13438, "Your mother is", "well-groomed", "Pronunciation: /\u02c8w\u025bl-\u02c8grumd/", "Definition: having tasteful clothing and being scrupulously neat", "Synonyms: well-dressed"]}
