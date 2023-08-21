@@ -1,1 +1,1 @@
-{"data": ["2023-08-21T22:01:28.260040+00:00", 13483, "Your mother is", "objectionable", "Pronunciation: /\u0259b\u02c8d\u0292\u025bk\u0283\u0259n\u0259b\u0259l/", "Definition: liable to objection or debate; used of something one might take exception to", "Synonyms: exceptionable"]}
+{"data": ["2023-08-21T23:01:29.358519+00:00", 13484, "Your mother is", "insolvent", "Pronunciation: /\u026an\u02c8s\u0251lv\u0259nt/", "Definition: unable to meet or discharge financial obligations", ""]}
