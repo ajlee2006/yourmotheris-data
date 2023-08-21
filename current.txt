@@ -1,1 +1,1 @@
-{"data": ["2023-08-21T06:01:24.738794+00:00", 13467, "Your mother is", "firsthand", "Pronunciation: /\u02c8f\u025crst\u02c8h\u00e6nd/", "Definition: received directly from a source", ""]}
+{"data": ["2023-08-21T07:01:19.143687+00:00", 13468, "Your mother is", "veracious", "Pronunciation: /v\u0259\u02c8re\u026a\u0283\u0259s/", "Definition: precisely accurate", "Synonyms: right"]}
