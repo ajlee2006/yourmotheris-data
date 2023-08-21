@@ -1,1 +1,1 @@
-{"data": ["2023-08-21T03:01:10.568148+00:00", 13464, "Your mother is", "upper-middle-class", "Similar to: middle-class", "Definition: occupying the upper part of the middle socioeconomic range in a society", ""]}
+{"data": ["2023-08-21T04:00:56.942262+00:00", 13465, "Your mother is", "mutual", "Pronunciation: /\u02c8mju\u02a7u\u0259l/", "Definition: concerning each of two or more persons or things; especially given or done in return", "Synonyms: reciprocal"]}
