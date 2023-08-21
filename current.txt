@@ -1,1 +1,1 @@
-{"data": ["2023-08-21T13:00:55.911361+00:00", 13474, "Your mother is", "potholed", "Pronunciation: /\u02c8p\u0251t\u02ccho\u028ald/", "Definition: used of paved surfaces having holes or pits", "Synonyms: pocked, pockmarked"]}
+{"data": ["2023-08-21T14:01:22.633863+00:00", 13475, "Your mother is", "pinnate-leafed", "Similar to: leafy", "Definition: having pinnate leaves", "Synonyms: pinnate-leaved"]}
