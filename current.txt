@@ -1,1 +1,1 @@
-{"data": ["2023-08-21T14:01:22.633863+00:00", 13475, "Your mother is", "pinnate-leafed", "Similar to: leafy", "Definition: having pinnate leaves", "Synonyms: pinnate-leaved"]}
+{"data": ["2023-08-21T15:01:25.543863+00:00", 13476, "Your mother is", "intact", "Pronunciation: /\u026an\u02c8t\u00e6kt/", "Definition: (of a woman) having the hymen unbroken", "Synonyms: inviolate"]}
