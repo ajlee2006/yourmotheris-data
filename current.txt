@@ -1,1 +1,1 @@
-{"data": ["2023-08-21T04:00:56.942262+00:00", 13465, "Your mother is", "mutual", "Pronunciation: /\u02c8mju\u02a7u\u0259l/", "Definition: concerning each of two or more persons or things; especially given or done in return", "Synonyms: reciprocal"]}
+{"data": ["2023-08-21T05:01:17.774756+00:00", 13466, "Your mother is", "summative", "Similar to: additive", "Definition: of or relating to a summation or produced by summation", "Synonyms: summational"]}
