@@ -1,1 +1,1 @@
-{"data": ["2023-08-21T16:01:22.713313+00:00", 13477, "Your mother is", "blaring", "Pronunciation: /\u02c8bl\u025br\u026a\u014b/", "Definition: unpleasantly loud and penetrating", "Synonyms: blasting"]}
+{"data": ["2023-08-21T17:01:12.514091+00:00", 13478, "Your mother is", "separatist", "Pronunciation: /\u02c8s\u025bp\u0259r\u0259t\u026ast/", "Definition: having separated or advocating separation from another entity or policy or attitude", "Synonyms: breakaway, fissiparous"]}
