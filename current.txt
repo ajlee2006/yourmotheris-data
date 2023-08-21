@@ -1,1 +1,1 @@
-{"data": ["2023-08-21T12:01:12.521645+00:00", 13473, "Your mother is", "thinned", "Pronunciation: /\u03b8\u026and/", "Definition: mixed with water", "Synonyms: cut, weakened"]}
+{"data": ["2023-08-21T13:00:55.911361+00:00", 13474, "Your mother is", "potholed", "Pronunciation: /\u02c8p\u0251t\u02ccho\u028ald/", "Definition: used of paved surfaces having holes or pits", "Synonyms: pocked, pockmarked"]}
