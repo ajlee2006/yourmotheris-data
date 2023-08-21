@@ -1,1 +1,1 @@
-{"data": ["2023-08-21T09:00:59.418239+00:00", 13470, "Your mother is", "uneatable", "Pronunciation: /\u0259n\u02c8it\u0259b\u0259l/", "Definition: not suitable for food", "Synonyms: inedible"]}
+{"data": ["2023-08-21T10:00:56.160950+00:00", 13471, "Your mother is", "burnable", "Pronunciation: /\u02c8b\u025drn\u028cb\u028cl/", "Definition: capable of burning", "Synonyms: ignitable, ignitible"]}
