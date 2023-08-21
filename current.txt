@@ -1,1 +1,1 @@
-{"data": ["2023-08-21T19:00:38.980582+00:00", 13480, "Your mother is", "seared", "Pronunciation: /s\u026ard/", "Definition: having the surface burned quickly with intense heat", ""]}
+{"data": ["2023-08-21T20:00:43.980580+00:00", 13481, "Your mother is", "cross-eyed", "Pronunciation: /kr\u0254s-a\u026ad/", "Definition: having convergent strabismus", ""]}
