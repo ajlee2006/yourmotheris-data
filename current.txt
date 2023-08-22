@@ -1,1 +1,1 @@
-{"data": ["2023-08-22T06:00:55.886591+00:00", 13491, "Your mother is", "frizzly", "Pronunciation: /fr\u026azli/", "Definition: (of hair) in small tight curls", "Synonyms: crisp, frizzy, kinky, nappy"]}
+{"data": ["2023-08-22T07:01:18.768697+00:00", 13492, "Your mother is", "cruciform", "Pronunciation: /\u02c8krus\u0259\u02ccf\u0254rm/", "Definition: shaped like a cross", "Synonyms: cruciate"]}
