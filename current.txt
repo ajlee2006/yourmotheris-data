@@ -1,1 +1,1 @@
-{"data": ["2023-08-22T03:01:30.783034+00:00", 13488, "Your mother is", "stooped", "Pronunciation: /stupt/", "Definition: having the back and shoulders rounded; not erect", "Synonyms: crooked, hunched, round-backed, round-shouldered, stooping"]}
+{"data": ["2023-08-22T04:01:00.061078+00:00", 13489, "Your mother is", "inbred", "Pronunciation: /\u02c8\u026an\u02c8br\u025bd/", "Definition: normally existing at birth", "Synonyms: connatural, inborn"]}
