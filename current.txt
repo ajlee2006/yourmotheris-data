@@ -1,1 +1,1 @@
-{"data": ["2023-08-22T16:01:12.788080+00:00", 13501, "Your mother is", "supernatural", "Pronunciation: /\u02ccsup\u0259r\u02c8n\u00e6\u02a7\u0259r\u0259l/", "Definition: not existing in nature or subject to explanation according to natural laws; not physical or material", ""]}
+{"data": ["2023-08-22T17:01:26.516285+00:00", 13502, "Your mother is", "cheeselike", "Similar to: soft", "Definition: having the consistency of cheese", ""]}
