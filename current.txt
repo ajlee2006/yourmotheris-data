@@ -1,1 +1,1 @@
-{"data": ["2023-08-22T10:00:54.433380+00:00", 13495, "Your mother is", "fragile", "Pronunciation: /\u02c8fr\u00e6d\u0292\u0259l/", "Definition: lacking substance or significance", "Synonyms: flimsy, slight, tenuous, thin"]}
+{"data": ["2023-08-22T11:01:22.932816+00:00", 13496, "Your mother is", "totalistic", "", "Definition: of or relating to the principles of totalitarianism according to which the state regulates every realm of life", "Synonyms: totalitarian"]}
