@@ -1,1 +1,1 @@
-{"data": ["2023-08-22T07:01:18.768697+00:00", 13492, "Your mother is", "cruciform", "Pronunciation: /\u02c8krus\u0259\u02ccf\u0254rm/", "Definition: shaped like a cross", "Synonyms: cruciate"]}
+{"data": ["2023-08-22T08:00:58.808626+00:00", 13493, "Your mother is", "matrimonial", "Pronunciation: /\u02ccm\u00e6tr\u0259\u02c8mo\u028ani\u0259l/", "Definition: of or relating to the state of marriage", "Synonyms: marital, married"]}
