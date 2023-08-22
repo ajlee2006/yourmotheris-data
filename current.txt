@@ -1,1 +1,1 @@
-{"data": ["2023-08-21T23:01:29.358519+00:00", 13484, "Your mother is", "insolvent", "Pronunciation: /\u026an\u02c8s\u0251lv\u0259nt/", "Definition: unable to meet or discharge financial obligations", ""]}
+{"data": ["2023-08-22T00:02:12.379917+00:00", 13485, "Your mother is", "predacious", "Pronunciation: /pri\u02c8de\u026a\u0283\u0259s/", "Definition: hunting and killing other animals for food", "Synonyms: predaceous"]}
