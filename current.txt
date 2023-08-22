@@ -1,1 +1,1 @@
-{"data": ["2023-08-22T00:02:12.379917+00:00", 13485, "Your mother is", "predacious", "Pronunciation: /pri\u02c8de\u026a\u0283\u0259s/", "Definition: hunting and killing other animals for food", "Synonyms: predaceous"]}
+{"data": ["2023-08-22T01:01:02.481485+00:00", 13486, "Your mother is", "dichotomous", "Pronunciation: /d\u026a\u02c8k\u0251t\u0259m\u0259s/", "Definition: divided or dividing into two sharply distinguished parts or classifications", ""]}
