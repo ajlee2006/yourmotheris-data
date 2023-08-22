@@ -1,1 +1,1 @@
-{"data": ["2023-08-22T15:01:21.923504+00:00", 13500, "Your mother is", "beetle-browed", "Pronunciation: /\u02c8bit\u0259l\u02ccbra\u028ad/", "Definition: sullen or unfriendly in appearance", "Synonyms: scowling"]}
+{"data": ["2023-08-22T16:01:12.788080+00:00", 13501, "Your mother is", "supernatural", "Pronunciation: /\u02ccsup\u0259r\u02c8n\u00e6\u02a7\u0259r\u0259l/", "Definition: not existing in nature or subject to explanation according to natural laws; not physical or material", ""]}
