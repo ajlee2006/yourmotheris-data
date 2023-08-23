@@ -1,1 +1,1 @@
-{"data": ["2023-08-23T05:01:27.852697+00:00", 13514, "Your mother is", "manual", "Pronunciation: /\u02c8m\u00e6nju\u0259l/", "Definition: doing or requiring physical work", ""]}
+{"data": ["2023-08-23T06:00:59.004769+00:00", 13515, "Your mother is", "micrometeoric", "", "Definition: of or relating to micrometeorites", "Synonyms: micrometeoritic"]}
