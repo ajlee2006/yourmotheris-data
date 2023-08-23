@@ -1,1 +1,1 @@
-{"data": ["2023-08-23T08:00:56.123151+00:00", 13517, "Your mother is", "trochaic", "Pronunciation: /tro\u028a\u02c8ke\u026a\u026ak/", "Definition: of or consisting of trochees", ""]}
+{"data": ["2023-08-23T09:00:55.050828+00:00", 13518, "Your mother is", "purging", "Pronunciation: /\u02c8p\u025drd\u0292\u026a\u014b/", "Definition: serving to purge or rid of sin", "Synonyms: purgatorial, purifying"]}
