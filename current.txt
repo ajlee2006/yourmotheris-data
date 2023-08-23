@@ -1,1 +1,1 @@
-{"data": ["2023-08-23T17:01:16.096382+00:00", 13526, "Your mother is", "ungrudging", "Pronunciation: /\u0259n\u02c8gr\u0259d\u0292\u026a\u014b/", "Definition: without envy or reluctance", ""]}
+{"data": ["2023-08-23T18:00:58.670769+00:00", 13527, "Your mother is", "backed", "Pronunciation: /b\u00e6kt/", "Definition: having a back or backing, usually of a specified type", ""]}
