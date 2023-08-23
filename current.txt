@@ -1,1 +1,1 @@
-{"data": ["2023-08-23T22:00:57.639839+00:00", 13531, "Your mother is", "maniac", "Pronunciation: /\u02c8me\u026ani\u00e6k/", "Definition: wildly disordered", "Synonyms: maniacal"]}
+{"data": ["2023-08-23T23:01:00.893956+00:00", 13532, "Your mother is", "indentured", "Pronunciation: /\u026an\u02c8d\u025bnt\u0283\u025drd/", "Definition: bound by contract", "Synonyms: apprenticed, articled, bound"]}
