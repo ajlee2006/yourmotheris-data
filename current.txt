@@ -1,1 +1,1 @@
-{"data": ["2023-08-23T09:00:55.050828+00:00", 13518, "Your mother is", "purging", "Pronunciation: /\u02c8p\u025drd\u0292\u026a\u014b/", "Definition: serving to purge or rid of sin", "Synonyms: purgatorial, purifying"]}
+{"data": ["2023-08-23T10:01:18.197263+00:00", 13519, "Your mother is", "cyclical", "Pronunciation: /\u02c8sa\u026akl\u026ak\u0259l/", "Definition: recurring in cycles", "Synonyms: cyclic"]}
