@@ -1,1 +1,1 @@
-{"data": ["2023-08-23T02:01:14.825588+00:00", 13511, "Your mother is", "crescent-shaped", "Pronunciation: /\u02c8kr\u025bs\u0259nt-\u0283e\u026apt/", "Definition: resembling the new moon in shape", "Synonyms: crescent, lunate, semilunar"]}
+{"data": ["2023-08-23T03:01:09.245082+00:00", 13512, "Your mother is", "serological", "Pronunciation: /s\u025br\u028c\u02c8l\u0254d\u0292\u026ak\u028cl/", "Definition: of or relating to serology", "Synonyms: serologic"]}
