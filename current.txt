@@ -1,1 +1,1 @@
-{"data": ["2023-08-24T00:02:03.485117+00:00", 13533, "Your mother is", "articulative", "Pronunciation: /\u0251r\u02c8t\u026akj\u0259\u02ccle\u026at\u026av/", "Definition: of or relating to articulation", "Synonyms: articulatory"]}
+{"data": ["2023-08-24T01:01:04.408995+00:00", 13534, "Your mother is", "imaginative", "Pronunciation: /\u026a\u02c8m\u00e6d\u0292\u0259n\u0259t\u026av/", "Definition: (used of persons or artifacts) marked by independence and creativity in thought or action", "Synonyms: inventive"]}
