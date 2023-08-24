@@ -1,1 +1,1 @@
-{"data": ["2023-08-23T23:01:00.893956+00:00", 13532, "Your mother is", "indentured", "Pronunciation: /\u026an\u02c8d\u025bnt\u0283\u025drd/", "Definition: bound by contract", "Synonyms: apprenticed, articled, bound"]}
+{"data": ["2023-08-24T00:02:03.485117+00:00", 13533, "Your mother is", "articulative", "Pronunciation: /\u0251r\u02c8t\u026akj\u0259\u02ccle\u026at\u026av/", "Definition: of or relating to articulation", "Synonyms: articulatory"]}
