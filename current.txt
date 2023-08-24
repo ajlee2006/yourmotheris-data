@@ -1,1 +1,1 @@
-{"data": ["2023-08-24T10:01:29.499062+00:00", 13543, "Your mother is", "epoch-making", "Pronunciation: /\u02c8\u025bp\u0259k-\u02c8me\u026ak\u026a\u014b/", "Definition: highly significant or important especially bringing about or marking the beginning of a new development or era", "Synonyms: epochal"]}
+{"data": ["2023-08-24T11:00:54.106063+00:00", 13544, "Your mother is", "degage", "Pronunciation: /de\u026agA\u02c8\u0292e\u026a/", "Definition: showing lack of emotional involvement", "Synonyms: detached, uninvolved"]}
