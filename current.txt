@@ -1,1 +1,1 @@
-{"data": ["2023-08-24T19:00:44.501699+00:00", 13552, "Your mother is", "downy", "Pronunciation: /\u02c8da\u028ani/", "Definition: covered with fine soft hairs or down", "Synonyms: puberulent, pubescent, sericeous"]}
+{"data": ["2023-08-24T20:00:48.872943+00:00", 13553, "Your mother is", "leptorhine", "", "Definition: having a long narrow nose", "Synonyms: leptorrhine, leptorrhinian, leptorrhinic"]}
