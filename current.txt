@@ -1,1 +1,1 @@
-{"data": ["2023-08-24T13:00:57.923271+00:00", 13546, "Your mother is", "ataraxic", "Similar to: depressant", "Definition: tending to soothe or tranquilize", "Synonyms: ataractic, sedative, tranquilising, tranquilizing, tranquillising, tranquillizing"]}
+{"data": ["2023-08-24T14:01:14.170016+00:00", 13547, "Your mother is", "genial", "Pronunciation: /\u02c8d\u0292inj\u0259l/", "Definition: agreeable, conducive to comfort", "Synonyms: kind"]}
