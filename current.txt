@@ -1,1 +1,1 @@
-{"data": ["2023-08-24T21:00:40.267095+00:00", 13554, "Your mother is", "palmate", "Pronunciation: /\u02c8p\u00e6lme\u026at/", "Definition: of a leaf shape; having leaflets or lobes radiating from a common point", "Synonyms: palm-shaped"]}
+{"data": ["2023-08-24T22:01:31.505321+00:00", 13555, "Your mother is", "calyceal", "", "Definition: of or relating to or resembling a calyx", "Synonyms: calycinal, calycine"]}
