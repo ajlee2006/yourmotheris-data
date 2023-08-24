@@ -1,1 +1,1 @@
-{"data": ["2023-08-24T01:01:04.408995+00:00", 13534, "Your mother is", "imaginative", "Pronunciation: /\u026a\u02c8m\u00e6d\u0292\u0259n\u0259t\u026av/", "Definition: (used of persons or artifacts) marked by independence and creativity in thought or action", "Synonyms: inventive"]}
+{"data": ["2023-08-24T02:01:23.400199+00:00", 13535, "Your mother is", "stemless", "", "Definition: (of plants) having no apparent stem above ground", "Synonyms: acaulescent"]}
