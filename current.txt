@@ -1,1 +1,1 @@
-{"data": ["2023-08-24T08:01:15.471419+00:00", 13541, "Your mother is", "unneighbourly", "Pronunciation: /\u0259n\u02c8ne\u026ab\u0259li/", "Definition: not exhibiting the qualities expected in a friendly neighbor", "Synonyms: unneighborly"]}
+{"data": ["2023-08-24T09:00:53.660063+00:00", 13542, "Your mother is", "pyroelectric", "Pronunciation: /\u02ccpa\u026a\u0259ro\u028a\u026a\u02c8l\u025bktrik/", "Definition: relating to or exhibiting pyroelectricity", "Synonyms: pyroelectrical"]}
