@@ -1,1 +1,1 @@
-{"data": ["2023-08-24T06:01:07.529613+00:00", 13539, "Your mother is", "contingent upon", "Similar to: conditional", "Definition: being determined by conditions or circumstances that follow", "Synonyms: contingent, contingent on, dependant on, dependant upon, dependent on, dependent upon, depending on"]}
+{"data": ["2023-08-24T07:01:25.131933+00:00", 13540, "Your mother is", "interpretive", "Pronunciation: /\u026an\u02c8t\u025crpr\u026at\u026av/", "Definition: that provides interpretation", "Synonyms: interpretative"]}
