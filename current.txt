@@ -1,1 +1,1 @@
-{"data": ["2023-08-24T05:01:00.277115+00:00", 13538, "Your mother is", "chubby", "Pronunciation: /\u02c8\u02a7\u0259bi/", "Definition: sufficiently fat so as to have a pleasing fullness of figure", "Synonyms: embonpoint, plump"]}
+{"data": ["2023-08-24T06:01:07.529613+00:00", 13539, "Your mother is", "contingent upon", "Similar to: conditional", "Definition: being determined by conditions or circumstances that follow", "Synonyms: contingent, contingent on, dependant on, dependant upon, dependent on, dependent upon, depending on"]}
