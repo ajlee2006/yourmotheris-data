@@ -1,1 +1,1 @@
-{"data": ["2023-08-24T03:01:21.221804+00:00", 13536, "Your mother is", "ungulate", "Pronunciation: /\u02c8\u0259\u014b\u0261j\u0259l\u026at/", "Definition: having or resembling hoofs", "Synonyms: hoofed, hooved, ungulated"]}
+{"data": ["2023-08-24T04:00:56.692700+00:00", 13537, "Your mother is", "hand-hewn", "Pronunciation: /h\u00e6nd-hjun/", "Definition: cut or shaped with hard blows of a heavy cutting instrument like an ax or chisel", "Synonyms: hewn"]}
