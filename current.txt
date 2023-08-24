@@ -1,1 +1,1 @@
-{"data": ["2023-08-24T17:01:09.979343+00:00", 13550, "Your mother is", "unprocessed", "Pronunciation: /\u028cn\u02c8pr\u0254\u02ccs\u025bst/", "Definition: not refined or processed", "Synonyms: crude, unrefined"]}
+{"data": ["2023-08-24T18:01:28.472299+00:00", 13551, "Your mother is", "swarthy", "Pronunciation: /\u02c8sw\u0254r\u00f0i/", "Definition: naturally having skin of a dark color", "Synonyms: dark-skinned, dusky, swart"]}
