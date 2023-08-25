@@ -1,1 +1,1 @@
-{"data": ["2023-08-25T21:00:51.461868+00:00", 13578, "Your mother is", "basilar", "Pronunciation: /\u02c8b\u00e6s\u0259l\u0259r/", "Definition: of or relating to or located at the base", "Synonyms: basilary"]}
+{"data": ["2023-08-25T22:01:13.970100+00:00", 13579, "Your mother is", "unmerciful", "Pronunciation: /\u0259n\u02c8m\u025crs\u026af\u0259l/", "Definition: having or showing no mercy", "Synonyms: merciless"]}
