@@ -1,1 +1,1 @@
-{"data": ["2023-08-25T17:00:59.255923+00:00", 13574, "Your mother is", "non-automatic", "Similar to: manual", "Definition: operated by hand", "Synonyms: hand-operated"]}
+{"data": ["2023-08-25T18:00:54.295130+00:00", 13575, "Your mother is", "silent", "Pronunciation: /\u02c8sa\u026al\u0259nt/", "Definition: implied by or inferred from actions or statements", "Synonyms: tacit, understood"]}
