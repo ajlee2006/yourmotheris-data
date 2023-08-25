@@ -1,1 +1,1 @@
-{"data": ["2023-08-25T20:00:45.435634+00:00", 13577, "Your mother is", "unhesitating", "Pronunciation: /\u0259n\u02c8h\u025bz\u026a\u02ccte\u026at\u026a\u014b/", "Definition: characterized by quickness and firmness", "Synonyms: resolute"]}
+{"data": ["2023-08-25T21:00:51.461868+00:00", 13578, "Your mother is", "basilar", "Pronunciation: /\u02c8b\u00e6s\u0259l\u0259r/", "Definition: of or relating to or located at the base", "Synonyms: basilary"]}
