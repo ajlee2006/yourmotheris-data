@@ -1,1 +1,1 @@
-{"data": ["2023-08-25T02:01:00.332646+00:00", 13559, "Your mother is", "uncombed", "Pronunciation: /\u0259n\u02c8ko\u028amd/", "Definition: (of hair) not combed", ""]}
+{"data": ["2023-08-25T03:01:20.369150+00:00", 13560, "Your mother is", "emphatic", "Pronunciation: /\u025bm\u02c8f\u00e6t\u026ak/", "Definition: spoken with emphasis", "Synonyms: emphasised, emphasized"]}
