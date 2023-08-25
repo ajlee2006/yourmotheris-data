@@ -1,1 +1,1 @@
-{"data": ["2023-08-25T01:01:02.133978+00:00", 13558, "Your mother is", "flesh-eating", "Pronunciation: /fl\u025b\u0283-\u02c8it\u026a\u014b/", "Definition: (of animals) carnivorous", "Synonyms: meat-eating, zoophagous"]}
+{"data": ["2023-08-25T02:01:00.332646+00:00", 13559, "Your mother is", "uncombed", "Pronunciation: /\u0259n\u02c8ko\u028amd/", "Definition: (of hair) not combed", ""]}
