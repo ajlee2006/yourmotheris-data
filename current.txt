@@ -1,1 +1,1 @@
-{"data": ["2023-08-25T18:00:54.295130+00:00", 13575, "Your mother is", "silent", "Pronunciation: /\u02c8sa\u026al\u0259nt/", "Definition: implied by or inferred from actions or statements", "Synonyms: tacit, understood"]}
+{"data": ["2023-08-25T19:00:15.946896+00:00", 13576, "Your mother is", "fifty-eight", "Pronunciation: /\u02c8f\u026afti-e\u026at/", "Definition: being eight more than fifty", "Synonyms: 58, lviii"]}
