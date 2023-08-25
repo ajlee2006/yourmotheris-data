@@ -1,1 +1,1 @@
-{"data": ["2023-08-25T03:01:20.369150+00:00", 13560, "Your mother is", "emphatic", "Pronunciation: /\u025bm\u02c8f\u00e6t\u026ak/", "Definition: spoken with emphasis", "Synonyms: emphasised, emphasized"]}
+{"data": ["2023-08-25T04:01:23.478059+00:00", 13561, "Your mother is", "right-down", "Pronunciation: /ra\u026at-da\u028an/", "Definition: complete and without restriction or qualification; sometimes used informally as intensifiers", "Synonyms: absolute, downright, out-and-out, rank, sheer"]}
