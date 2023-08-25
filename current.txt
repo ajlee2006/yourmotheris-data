@@ -1,1 +1,1 @@
-{"data": ["2023-08-25T08:01:06.199524+00:00", 13565, "Your mother is", "liverish", "Pronunciation: /\u02c8l\u026av\u0259r\u026a\u0283/", "Definition: suffering from or suggesting a liver disorder or gastric distress", "Synonyms: bilious, livery"]}
+{"data": ["2023-08-25T09:01:23.828707+00:00", 13566, "Your mother is", "wont to", "Similar to: accustomed to", "Definition: in the habit of doing something", "Synonyms: used to"]}
