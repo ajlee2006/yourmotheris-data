@@ -1,1 +1,1 @@
-{"data": ["2023-08-25T15:01:20.225313+00:00", 13572, "Your mother is", "rawboned", "Pronunciation: /\u02c8r\u0254\u02c8bo\u028and/", "Definition: having a lean and bony physique", ""]}
+{"data": ["2023-08-25T16:00:53.047276+00:00", 13573, "Your mother is", "hollow-horned", "Pronunciation: /\u02c8h\u0251lo\u028a-h\u0254rnd/", "Definition: having horns that are hollow", ""]}
