@@ -1,1 +1,1 @@
-{"data": ["2023-08-25T05:00:53.953580+00:00", 13562, "Your mother is", "abyssal", "Pronunciation: /\u0259\u02c8b\u026as\u0259l/", "Definition: resembling an abyss in depth; so deep as to be unmeasurable", "Synonyms: abysmal, unfathomable"]}
+{"data": ["2023-08-25T06:01:09.107208+00:00", 13563, "Your mother is", "acquisitive", "Pronunciation: /\u0259\u02c8kw\u026az\u026at\u026av/", "Definition: eager to acquire and possess things especially material possessions or ideas", ""]}
