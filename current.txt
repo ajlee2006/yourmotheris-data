@@ -1,1 +1,1 @@
-{"data": ["2023-08-25T11:01:07.718703+00:00", 13568, "Your mother is", "crinkled", "Similar to: uneven", "Definition: uneven by virtue of having wrinkles or waves", "Synonyms: crinkly, rippled, wavelike, wavy"]}
+{"data": ["2023-08-25T12:01:06.545137+00:00", 13569, "Your mother is", "latent", "Pronunciation: /\u02c8le\u026at\u0259nt/", "Definition: (pathology) not presently active", ""]}
