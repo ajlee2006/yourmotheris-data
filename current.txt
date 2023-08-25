@@ -1,1 +1,1 @@
-{"data": ["2023-08-25T16:00:53.047276+00:00", 13573, "Your mother is", "hollow-horned", "Pronunciation: /\u02c8h\u0251lo\u028a-h\u0254rnd/", "Definition: having horns that are hollow", ""]}
+{"data": ["2023-08-25T17:00:59.255923+00:00", 13574, "Your mother is", "non-automatic", "Similar to: manual", "Definition: operated by hand", "Synonyms: hand-operated"]}
