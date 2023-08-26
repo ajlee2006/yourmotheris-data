@@ -1,1 +1,1 @@
-{"data": ["2023-08-26T16:01:11.417365+00:00", 13597, "Your mother is", "20", "Similar to: cardinal", "Definition: denoting a quantity consisting of 20 items or units", "Synonyms: twenty, xx"]}
+{"data": ["2023-08-26T17:00:56.777485+00:00", 13598, "Your mother is", "fleecy", "Pronunciation: /\u02c8flisi/", "Definition: (of fabrics) having soft nap produced by brushing", "Synonyms: brushed, napped"]}
