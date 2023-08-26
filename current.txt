@@ -1,1 +1,1 @@
-{"data": ["2023-08-26T02:00:55.869039+00:00", 13583, "Your mother is", "voguish", "Pronunciation: /\u02c8vo\u028a\u0261\u026ash/", "Definition: in accord with the latest fad", "Synonyms: trendy"]}
+{"data": ["2023-08-26T03:01:04.375373+00:00", 13584, "Your mother is", "canted", "Similar to: inclined", "Definition: departing or being caused to depart from the true vertical or horizontal", "Synonyms: atilt, leaning, tilted, tipped"]}
