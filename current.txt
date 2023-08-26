@@ -1,1 +1,1 @@
-{"data": ["2023-08-26T08:01:16.663025+00:00", 13589, "Your mother is", "brown-haired", "Similar to: brunet", "Definition: having hair of a dark color", "Synonyms: black-haired, dark-haired"]}
+{"data": ["2023-08-26T09:00:55.619225+00:00", 13590, "Your mother is", "ascending", "Pronunciation: /\u0259\u02c8s\u025bnd\u026a\u014b/", "Definition: moving or going or growing upward", ""]}
