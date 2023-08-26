@@ -1,1 +1,1 @@
-{"data": ["2023-08-26T12:01:18.543088+00:00", 13593, "Your mother is", "bittersweet", "Pronunciation: /\u02c8b\u026at\u0259r\u02c8swit/", "Definition: having a taste that is a mixture of bitterness and sweetness", "Synonyms: semisweet"]}
+{"data": ["2023-08-26T13:01:14.817874+00:00", 13594, "Your mother is", "antiheretical", "Similar to: orthodox", "Definition: opposed to heresy", ""]}
