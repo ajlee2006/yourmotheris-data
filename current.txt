@@ -1,1 +1,1 @@
-{"data": ["2023-08-26T06:00:54.533522+00:00", 13587, "Your mother is", "counter", "Pronunciation: /\u02c8ka\u028ant\u0259r/", "Definition: indicating opposition or resistance", "Synonyms: antagonistic"]}
+{"data": ["2023-08-26T07:01:32.483829+00:00", 13588, "Your mother is", "acoustic", "Pronunciation: /\u0259\u02c8kust\u026ak/", "Definition: of or relating to the science of acoustics", "Synonyms: acoustical"]}
