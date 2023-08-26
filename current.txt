@@ -1,1 +1,1 @@
-{"data": ["2023-08-26T00:02:09.528862+00:00", 13581, "Your mother is", "noted", "Pronunciation: /\u02c8no\u028at\u026ad/", "Definition: widely known and esteemed", "Synonyms: celebrated, famed, famous, far-famed, illustrious, notable, renowned"]}
+{"data": ["2023-08-26T01:00:59.907157+00:00", 13582, "Your mother is", "constrictive", "Pronunciation: /k\u0259n\u02c8str\u026akt\u026av/", "Definition: restricting the scope or freedom of action", "Synonyms: confining, constraining, limiting, restricting"]}
