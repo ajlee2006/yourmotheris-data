@@ -1,1 +1,1 @@
-{"data": ["2023-08-26T10:01:05.624957+00:00", 13591, "Your mother is", "condign", "Pronunciation: /k\u0259n\u02c8da\u026an/", "Definition: fitting or appropriate and deserved; used especially of punishment", ""]}
+{"data": ["2023-08-26T11:00:59.233742+00:00", 13592, "Your mother is", "unvoiced", "Pronunciation: /\u0259n\u02c8v\u0254\u026ast/", "Definition: not made explicit", "Synonyms: unexpressed, unsaid, unspoken, unstated, unuttered, unverbalised, unverbalized"]}
