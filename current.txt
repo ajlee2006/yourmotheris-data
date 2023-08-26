@@ -1,1 +1,1 @@
-{"data": ["2023-08-26T22:01:27.698578+00:00", 13603, "Your mother is", "preparatory", "Pronunciation: /pr\u026a\u02c8p\u025cr\u0259\u02ccto\u028ari/", "Definition: preceding and preparing for something", "Synonyms: preparative, propaedeutic"]}
+{"data": ["2023-08-26T23:00:56.537549+00:00", 13604, "Your mother is", "pentamerous", "Pronunciation: /p\u025bn\u02c8t\u00e6m\u0259r\u0259s/", "Definition: divided into five parts; specifically, having each floral whorl consist of five (or a multiple of five) members", ""]}
