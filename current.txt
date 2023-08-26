@@ -1,1 +1,1 @@
-{"data": ["2023-08-26T21:00:30.581422+00:00", 13602, "Your mother is", "short-winged", "Pronunciation: /\u0283\u0254rt-w\u026a\u014bd/", "Definition: (especially of certain insects) having very short or rudimentary wings", "Synonyms: brachypterous"]}
+{"data": ["2023-08-26T22:01:27.698578+00:00", 13603, "Your mother is", "preparatory", "Pronunciation: /pr\u026a\u02c8p\u025cr\u0259\u02ccto\u028ari/", "Definition: preceding and preparing for something", "Synonyms: preparative, propaedeutic"]}
