@@ -1,1 +1,1 @@
-{"data": ["2023-08-25T23:00:54.291755+00:00", 13580, "Your mother is", "drinkable", "Pronunciation: /\u02c8dr\u026a\u014bk\u0259b\u0259l/", "Definition: suitable for drinking", "Synonyms: potable"]}
+{"data": ["2023-08-26T00:02:09.528862+00:00", 13581, "Your mother is", "noted", "Pronunciation: /\u02c8no\u028at\u026ad/", "Definition: widely known and esteemed", "Synonyms: celebrated, famed, famous, far-famed, illustrious, notable, renowned"]}
