@@ -1,1 +1,1 @@
-{"data": ["2023-08-26T03:01:04.375373+00:00", 13584, "Your mother is", "canted", "Similar to: inclined", "Definition: departing or being caused to depart from the true vertical or horizontal", "Synonyms: atilt, leaning, tilted, tipped"]}
+{"data": ["2023-08-26T04:01:03.326166+00:00", 13585, "Your mother is", "contributing", "Pronunciation: /k\u028cn\u02c8tr\u026abjut\u026a\u014b/", "Definition: tending to bring about; being partly responsible for", "Synonyms: conducive, contributive, contributory, tributary"]}
