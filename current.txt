@@ -1,1 +1,1 @@
-{"data": ["2023-08-26T04:01:03.326166+00:00", 13585, "Your mother is", "contributing", "Pronunciation: /k\u028cn\u02c8tr\u026abjut\u026a\u014b/", "Definition: tending to bring about; being partly responsible for", "Synonyms: conducive, contributive, contributory, tributary"]}
+{"data": ["2023-08-26T05:00:54.188301+00:00", 13586, "Your mother is", "automatic", "Pronunciation: /\u02cc\u0254t\u0259\u02c8m\u00e6t\u026ak/", "Definition: resembling the unthinking functioning of a machine", "Synonyms: automatonlike, machinelike, robotic, robotlike"]}
