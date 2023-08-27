@@ -1,1 +1,1 @@
-{"data": ["2023-08-27T20:00:38.985259+00:00", 13625, "Your mother is", "south", "Pronunciation: /sa\u028a\u03b8/", "Definition: situated in or facing or moving toward or coming from the south", ""]}
+{"data": ["2023-08-27T21:00:44.698506+00:00", 13626, "Your mother is", "repressive", "Pronunciation: /r\u026a\u02c8pr\u025bs\u026av/", "Definition: restrictive of action", "Synonyms: inhibitory, repressing"]}
