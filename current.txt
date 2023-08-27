@@ -1,1 +1,1 @@
-{"data": ["2023-08-27T13:01:01.336355+00:00", 13618, "Your mother is", "artiodactyl", "Pronunciation: /\u02cc\u0251rtio\u028a\u02c8d\u00e6kt\u026al/", "Definition: of or relating to or belonging to mammals of the order Artiodactyla", "Synonyms: artiodactylous, even-toed"]}
+{"data": ["2023-08-27T14:01:06.340925+00:00", 13619, "Your mother is", "baggy", "Pronunciation: /\u02c8b\u00e6\u0261i/", "Definition: not fitting closely; hanging loosely", "Synonyms: loose-fitting, sloppy"]}
