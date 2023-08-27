@@ -1,1 +1,1 @@
-{"data": ["2023-08-27T09:01:12.334119+00:00", 13614, "Your mother is", "inhuman", "Pronunciation: /\u026an\u02c8hjum\u0259n/", "Definition: without compunction or human feeling", "Synonyms: cold, cold-blooded, insensate"]}
+{"data": ["2023-08-27T10:01:17.068976+00:00", 13615, "Your mother is", "exonerated", "Pronunciation: /\u026a\u0261\u02c8z\u0251n\u025dr\u02cce\u026at\u026ad/", "Definition: freed from any question of guilt", "Synonyms: absolved, clear, cleared, exculpated, vindicated"]}
