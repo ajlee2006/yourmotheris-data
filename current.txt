@@ -1,1 +1,1 @@
-{"data": ["2023-08-27T15:00:59.685170+00:00", 13620, "Your mother is", "hypnotized", "Pronunciation: /\u02c8h\u026apn\u028c\u02ccta\u026azd/", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotised, mesmerised, mesmerized, spell-bound, spellbound, transfixed"]}
+{"data": ["2023-08-27T16:01:00.020527+00:00", 13621, "Your mother is", "hundred-and-first", "Similar to: ordinal", "Definition: the ordinal number of one hundred one in counting order", "Synonyms: 101st"]}
