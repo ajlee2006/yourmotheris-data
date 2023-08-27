@@ -1,1 +1,1 @@
-{"data": ["2023-08-27T06:01:00.614393+00:00", 13611, "Your mother is", "professional", "Pronunciation: /pr\u0259\u02c8f\u025b\u0283\u0259n\u0259l/", "Definition: engaged in a profession or engaging in as a profession or means of livelihood", ""]}
+{"data": ["2023-08-27T07:01:19.873704+00:00", 13612, "Your mother is", "tutelary", "Pronunciation: /\u02c8tjut\u026al\u0259ri/", "Definition: providing protective supervision; watching over or safeguarding", "Synonyms: custodial, tutelar"]}
