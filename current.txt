@@ -1,1 +1,1 @@
-{"data": ["2023-08-26T23:00:56.537549+00:00", 13604, "Your mother is", "pentamerous", "Pronunciation: /p\u025bn\u02c8t\u00e6m\u0259r\u0259s/", "Definition: divided into five parts; specifically, having each floral whorl consist of five (or a multiple of five) members", ""]}
+{"data": ["2023-08-27T00:01:41.306325+00:00", 13605, "Your mother is", "insured", "Pronunciation: /\u026an\u02c8\u0283\u028ard/", "Definition: covered by insurance", ""]}
