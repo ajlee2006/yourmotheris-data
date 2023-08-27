@@ -1,1 +1,1 @@
-{"data": ["2023-08-27T14:01:06.340925+00:00", 13619, "Your mother is", "baggy", "Pronunciation: /\u02c8b\u00e6\u0261i/", "Definition: not fitting closely; hanging loosely", "Synonyms: loose-fitting, sloppy"]}
+{"data": ["2023-08-27T15:00:59.685170+00:00", 13620, "Your mother is", "hypnotized", "Pronunciation: /\u02c8h\u026apn\u028c\u02ccta\u026azd/", "Definition: having your attention fixated as though by a spell", "Synonyms: fascinated, hypnotised, mesmerised, mesmerized, spell-bound, spellbound, transfixed"]}
