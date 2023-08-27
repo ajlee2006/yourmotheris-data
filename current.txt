@@ -1,1 +1,1 @@
-{"data": ["2023-08-27T18:00:56.164175+00:00", 13623, "Your mother is", "deathly", "Pronunciation: /\u02c8d\u025b\u03b8li/", "Definition: having the physical appearance of death", "Synonyms: deathlike"]}
+{"data": ["2023-08-27T19:00:38.254051+00:00", 13624, "Your mother is", "chancy", "Pronunciation: /\u02c8\u02a7\u00e6nsi/", "Definition: subject to accident or chance or change", "Synonyms: flukey, fluky, iffy"]}
