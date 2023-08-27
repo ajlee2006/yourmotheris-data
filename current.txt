@@ -1,1 +1,1 @@
-{"data": ["2023-08-27T04:01:01.322059+00:00", 13609, "Your mother is", "salted", "Pronunciation: /\u02c8s\u0254lt\u026ad/", "Definition: (used especially of meats) preserved in salt", "Synonyms: brine-cured, salt-cured"]}
+{"data": ["2023-08-27T05:00:59.533528+00:00", 13610, "Your mother is", "waist-length", "Similar to: fractional", "Definition: (of clothing) extending only to the waist", ""]}
