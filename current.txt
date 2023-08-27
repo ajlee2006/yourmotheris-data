@@ -1,1 +1,1 @@
-{"data": ["2023-08-27T19:00:38.254051+00:00", 13624, "Your mother is", "chancy", "Pronunciation: /\u02c8\u02a7\u00e6nsi/", "Definition: subject to accident or chance or change", "Synonyms: flukey, fluky, iffy"]}
+{"data": ["2023-08-27T20:00:38.985259+00:00", 13625, "Your mother is", "south", "Pronunciation: /sa\u028a\u03b8/", "Definition: situated in or facing or moving toward or coming from the south", ""]}
