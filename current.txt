@@ -1,1 +1,1 @@
-{"data": ["2023-08-28T19:00:21.804786+00:00", 13648, "Your mother is", "capital", "Pronunciation: /\u02c8k\u00e6p\u026at\u0259l/", "Definition: uppercase", "Synonyms: great, majuscule"]}
+{"data": ["2023-08-28T20:00:51.952302+00:00", 13649, "Your mother is", "isotropic", "Pronunciation: /\u02cca\u026as\u0259\u02c8tr\u0251p\u026ak/", "Definition: invariant with respect to direction", "Synonyms: isotropous"]}
