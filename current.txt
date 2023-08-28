@@ -1,1 +1,1 @@
-{"data": ["2023-08-28T08:01:00.415844+00:00", 13637, "Your mother is", "pale-colored", "Pronunciation: /pe\u026al-\u02c8k\u0259l\u0259rd/", "Definition: having a pale color", "Synonyms: pale-hued"]}
+{"data": ["2023-08-28T09:01:14.118432+00:00", 13638, "Your mother is", "underclass", "Pronunciation: /\u02c8\u0259nd\u0259\u02cckl\u0251s/", "Definition: belonging to the lowest and least privileged social stratum", ""]}
