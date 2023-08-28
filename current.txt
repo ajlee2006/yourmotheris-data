@@ -1,1 +1,1 @@
-{"data": ["2023-08-28T12:00:54.138164+00:00", 13641, "Your mother is", "analytic", "Pronunciation: /\u02cc\u00e6n\u02c8\u0259l\u026at\u026ak/", "Definition: of a proposition that is necessarily true independent of fact or experience", "Synonyms: analytical"]}
+{"data": ["2023-08-28T13:00:57.179539+00:00", 13642, "Your mother is", "back", "Pronunciation: /b\u00e6k/", "Definition: located at or near the back of an animal", "Synonyms: hind, hinder"]}
