@@ -1,1 +1,1 @@
-{"data": ["2023-08-28T11:00:52.103405+00:00", 13640, "Your mother is", "unsettled", "Pronunciation: /\u0259n\u02c8s\u025bt\u0259ld/", "Definition: subject to change", "Synonyms: changeable, uncertain"]}
+{"data": ["2023-08-28T12:00:54.138164+00:00", 13641, "Your mother is", "analytic", "Pronunciation: /\u02cc\u00e6n\u02c8\u0259l\u026at\u026ak/", "Definition: of a proposition that is necessarily true independent of fact or experience", "Synonyms: analytical"]}
