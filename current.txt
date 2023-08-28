@@ -1,1 +1,1 @@
-{"data": ["2023-08-28T15:00:59.161357+00:00", 13644, "Your mother is", "unworkmanlike", "Pronunciation: /\u0259n\u02c8w\u025crkm\u0259n\u02ccla\u026ak/", "Definition: not characteristic of or suitable for a good workman", ""]}
+{"data": ["2023-08-28T16:01:16.513850+00:00", 13645, "Your mother is", "laminal", "Similar to: bedded", "Definition: arranged in or consisting of laminae", "Synonyms: laminar"]}
