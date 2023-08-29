@@ -1,1 +1,1 @@
-{"data": ["2023-08-29T10:01:05.623156+00:00", 13663, "Your mother is", "shapeless", "Pronunciation: /\u02c8\u0283e\u026apl\u026as/", "Definition: having no definite form or distinct shape", "Synonyms: amorphous, formless"]}
+{"data": ["2023-08-29T11:00:52.343227+00:00", 13664, "Your mother is", "thready", "Pronunciation: /\u02c8\u03b8r\u025bdi/", "Definition: forming viscous or glutinous threads", "Synonyms: ropey, ropy, stringy"]}
