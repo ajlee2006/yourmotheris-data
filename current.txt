@@ -1,1 +1,1 @@
-{"data": ["2023-08-29T05:01:02.525568+00:00", 13658, "Your mother is", "uncaring", "Pronunciation: /\u028cn\u02c8k\u025br\u026a\u014b/", "Definition: lacking affection or warm feeling", "Synonyms: detached, unaffectionate"]}
+{"data": ["2023-08-29T06:00:53.919960+00:00", 13659, "Your mother is", "balding", "Pronunciation: /\u02c8b\u0254ld\u026a\u014b/", "Definition: getting bald", ""]}
