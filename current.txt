@@ -1,1 +1,1 @@
-{"data": ["2023-08-29T08:00:59.739506+00:00", 13661, "Your mother is", "subordinate", "Pronunciation: /s\u0259b\u02c8o\u028ad\u0259n\u02cce\u026at/", "Definition: (of a clause) unable to stand alone syntactically as a complete sentence", "Synonyms: dependent"]}
+{"data": ["2023-08-29T09:00:53.826898+00:00", 13662, "Your mother is", "black-market", "Pronunciation: /\u02c8bl\u00e6k\u02c8m\u0251rk\u026at/", "Definition: distributed or sold illicitly", "Synonyms: black, bootleg, contraband, smuggled"]}
