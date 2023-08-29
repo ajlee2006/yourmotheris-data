@@ -1,1 +1,1 @@
-{"data": ["2023-08-29T07:01:31.065783+00:00", 13660, "Your mother is", "drizzly", "Pronunciation: /\u02c8dr\u026azli/", "Definition: wet with light rain", "Synonyms: drippy"]}
+{"data": ["2023-08-29T08:00:59.739506+00:00", 13661, "Your mother is", "subordinate", "Pronunciation: /s\u0259b\u02c8o\u028ad\u0259n\u02cce\u026at/", "Definition: (of a clause) unable to stand alone syntactically as a complete sentence", "Synonyms: dependent"]}
