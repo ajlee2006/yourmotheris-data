@@ -1,1 +1,1 @@
-{"data": ["2023-08-29T22:00:59.357689+00:00", 13675, "Your mother is", "wholesome", "Pronunciation: /\u02c8ho\u028als\u0259m/", "Definition: conducive to or characteristic of physical or moral well-being", ""]}
+{"data": ["2023-08-29T23:00:42.145099+00:00", 13676, "Your mother is", "orthogonal", "Pronunciation: /\u0254r\u02c8\u03b8\u0251\u0261\u0259n\u00e6l/", "Definition: having a set of mutually perpendicular axes; meeting at right angles", "Synonyms: rectangular"]}
