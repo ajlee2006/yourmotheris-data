@@ -1,1 +1,1 @@
-{"data": ["2023-08-29T15:00:58.161837+00:00", 13668, "Your mother is", "cubical", "Pronunciation: /\u02c8kjub\u026ak\u0259l/", "Definition: shaped like a cube", "Synonyms: cube-shaped, cubelike, cubiform, cuboid, cuboidal"]}
+{"data": ["2023-08-29T16:01:15.554688+00:00", 13669, "Your mother is", "trusted", "Pronunciation: /\u02c8tr\u028cst\u026ad/", "Definition: (of persons) worthy of trust or confidence", "Synonyms: sure"]}
