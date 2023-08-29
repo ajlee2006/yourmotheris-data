@@ -1,1 +1,1 @@
-{"data": ["2023-08-29T03:00:52.049783+00:00", 13656, "Your mother is", "aglitter", "Pronunciation: /\u0259\u02c8gl\u026at\u0259r/", "Definition: having brief brilliant points or flashes of light", "Synonyms: coruscant, fulgid, glinting, glistering, glittering, glittery, scintillant, scintillating, sparkly"]}
+{"data": ["2023-08-29T04:01:11.566078+00:00", 13657, "Your mother is", "eternal", "Pronunciation: /\u026a\u02c8t\u025crn\u0259l/", "Definition: tiresomely long; seemingly without end", "Synonyms: endless, interminable"]}
