@@ -1,1 +1,1 @@
-{"data": ["2023-08-29T11:00:52.343227+00:00", 13664, "Your mother is", "thready", "Pronunciation: /\u02c8\u03b8r\u025bdi/", "Definition: forming viscous or glutinous threads", "Synonyms: ropey, ropy, stringy"]}
+{"data": ["2023-08-29T12:01:19.103532+00:00", 13665, "Your mother is", "alterative", "Pronunciation: /\u02c8\u0254lt\u0259\u02ccre\u026at\u026av/", "Definition: tending to cure or restore to health", "Synonyms: curative, healing, remedial, sanative, therapeutic"]}
