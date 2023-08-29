@@ -1,1 +1,1 @@
-{"data": ["2023-08-29T00:01:44.946657+00:00", 13653, "Your mother is", "matey", "Pronunciation: /\u02c8me\u026ati/", "Definition: (used colloquially) having the relationship of friends or pals", "Synonyms: chummy, pally, palsy-walsy"]}
+{"data": ["2023-08-29T01:01:26.687241+00:00", 13654, "Your mother is", "cumbersome", "Pronunciation: /\u02c8k\u0259mb\u0259rs\u0259m/", "Definition: difficult to handle or use especially because of size or weight", "Synonyms: cumbrous"]}
