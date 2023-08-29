@@ -1,1 +1,1 @@
-{"data": ["2023-08-28T23:01:04.708877+00:00", 13652, "Your mother is", "well-bred", "Pronunciation: /w\u025bl-br\u025bd/", "Definition: of good upbringing", "Synonyms: well-mannered"]}
+{"data": ["2023-08-29T00:01:44.946657+00:00", 13653, "Your mother is", "matey", "Pronunciation: /\u02c8me\u026ati/", "Definition: (used colloquially) having the relationship of friends or pals", "Synonyms: chummy, pally, palsy-walsy"]}
