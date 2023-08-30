@@ -1,1 +1,1 @@
-{"data": ["2023-08-30T06:01:21.522806+00:00", 13683, "Your mother is", "combinative", "Pronunciation: /\u02c8k\u0251mb\u0259\u02ccne\u026at\u026av/", "Definition: relating to or involving combinations", "Synonyms: combinatorial, combinatory"]}
+{"data": ["2023-08-30T07:01:05.838757+00:00", 13684, "Your mother is", "man-portable", "Similar to: portable", "Definition: portable by one man", ""]}
