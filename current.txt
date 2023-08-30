@@ -1,1 +1,1 @@
-{"data": ["2023-08-30T00:02:09.026728+00:00", 13677, "Your mother is", "veracious", "Pronunciation: /v\u0259\u02c8re\u026a\u0283\u0259s/", "Definition: precisely accurate", "Synonyms: right"]}
+{"data": ["2023-08-30T01:01:17.560271+00:00", 13678, "Your mother is", "dividable", "Pronunciation: /d\u026a\u02c8va\u026ad\u0259b\u0259l/", "Definition: can be divided usually without leaving a remainder", ""]}
