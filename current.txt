@@ -1,1 +1,1 @@
-{"data": ["2023-08-30T10:00:59.274758+00:00", 13687, "Your mother is", "starlike", "Pronunciation: /\u02c8st\u0251r\u02ccla\u026ak/", "Definition: resembling a star", ""]}
+{"data": ["2023-08-30T11:01:18.729042+00:00", 13688, "Your mother is", "very", "Pronunciation: /\u02c8v\u025bri/", "Definition: being the exact same one; not any other:", "Synonyms: identical, selfsame"]}
