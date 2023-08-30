@@ -1,1 +1,1 @@
-{"data": ["2023-08-30T05:00:59.469985+00:00", 13682, "Your mother is", "affiliated", "Pronunciation: /\u028c\u02c8f\u026ali\u02cce\u026at\u028cd/", "Definition: being joined in close association", "Synonyms: attached, connected"]}
+{"data": ["2023-08-30T06:01:21.522806+00:00", 13683, "Your mother is", "combinative", "Pronunciation: /\u02c8k\u0251mb\u0259\u02ccne\u026at\u026av/", "Definition: relating to or involving combinations", "Synonyms: combinatorial, combinatory"]}
