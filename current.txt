@@ -1,1 +1,1 @@
-{"data": ["2023-08-30T22:00:59.495494+00:00", 13699, "Your mother is", "instantaneous", "Pronunciation: /\u02cc\u026anst\u0259n\u02c8te\u026ani\u0259s/", "Definition: occurring with no delay", "Synonyms: instant"]}
+{"data": ["2023-08-30T23:01:01.127133+00:00", 13700, "Your mother is", "circumferent", "Similar to: close", "Definition: closely encircling", "Synonyms: encompassing, surrounding"]}
