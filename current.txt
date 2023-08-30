@@ -1,1 +1,1 @@
-{"data": ["2023-08-30T16:00:57.989090+00:00", 13693, "Your mother is", "scarlet", "Pronunciation: /\u02c8sk\u0251rl\u026at/", "Definition: of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies", "Synonyms: blood-red, carmine, cerise, cherry, cherry-red, crimson, red, reddish, ruby, ruby-red, ruddy"]}
+{"data": ["2023-08-30T17:01:34.059329+00:00", 13694, "Your mother is", "h-shaped", "Similar to: formed", "Definition: shaped in the form of the letter H", ""]}
