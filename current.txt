@@ -1,1 +1,1 @@
-{"data": ["2023-08-30T21:00:51.713488+00:00", 13698, "Your mother is", "bibliographic", "Pronunciation: /\u02ccb\u026abli\u0259\u02c8gr\u00e6f\u026ak/", "Definition: relating to or dealing with bibliography", "Synonyms: bibliographical"]}
+{"data": ["2023-08-30T22:00:59.495494+00:00", 13699, "Your mother is", "instantaneous", "Pronunciation: /\u02cc\u026anst\u0259n\u02c8te\u026ani\u0259s/", "Definition: occurring with no delay", "Synonyms: instant"]}
