@@ -1,1 +1,1 @@
-{"data": ["2023-08-29T23:00:42.145099+00:00", 13676, "Your mother is", "orthogonal", "Pronunciation: /\u0254r\u02c8\u03b8\u0251\u0261\u0259n\u00e6l/", "Definition: having a set of mutually perpendicular axes; meeting at right angles", "Synonyms: rectangular"]}
+{"data": ["2023-08-30T00:02:09.026728+00:00", 13677, "Your mother is", "veracious", "Pronunciation: /v\u0259\u02c8re\u026a\u0283\u0259s/", "Definition: precisely accurate", "Synonyms: right"]}
