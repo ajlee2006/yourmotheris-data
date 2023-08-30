@@ -1,1 +1,1 @@
-{"data": ["2023-08-30T12:01:02.755444+00:00", 13689, "Your mother is", "at sea", "Similar to: perplexed", "Definition: perplexed by many conflicting situations or statements; filled with bewilderment", "Synonyms: baffled, befuddled, bemused, bewildered, confounded, confused, lost, mazed, mixed-up"]}
+{"data": ["2023-08-30T13:01:01.228131+00:00", 13690, "Your mother is", "shut up", "Similar to: confined", "Definition: closely confined", "Synonyms: pent"]}
