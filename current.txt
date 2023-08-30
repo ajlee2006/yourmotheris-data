@@ -1,1 +1,1 @@
-{"data": ["2023-08-30T03:01:05.971052+00:00", 13680, "Your mother is", "cocksure", "Pronunciation: /\u02c8k\u0251k\u02c8\u0283\u028ar/", "Definition: marked by excessive confidence", "Synonyms: overconfident, positive"]}
+{"data": ["2023-08-30T04:00:58.038340+00:00", 13681, "Your mother is", "too-careful", "Similar to: careful", "Definition: excessively or unduly careful", "Synonyms: overcareful"]}
