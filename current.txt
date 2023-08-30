@@ -1,1 +1,1 @@
-{"data": ["2023-08-30T07:01:05.838757+00:00", 13684, "Your mother is", "man-portable", "Similar to: portable", "Definition: portable by one man", ""]}
+{"data": ["2023-08-30T08:00:58.986330+00:00", 13685, "Your mother is", "stable", "Pronunciation: /\u02c8ste\u026ab\u0259l/", "Definition: showing little if any change", "Synonyms: static, unchanging"]}
