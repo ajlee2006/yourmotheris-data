@@ -1,1 +1,1 @@
-{"data": ["2023-08-30T14:01:25.910532+00:00", 13691, "Your mother is", "scaly", "Pronunciation: /\u02c8ske\u026ali/", "Definition: rough to the touch; covered with scales or scurf", "Synonyms: lepidote, leprose, scabrous, scurfy"]}
+{"data": ["2023-08-30T15:01:05.399883+00:00", 13692, "Your mother is", "monogamous", "Pronunciation: /m\u0259\u02c8n\u0251\u0261\u0259m\u0259s/", "Definition: (used of relationships and of individuals) having one mate", ""]}
