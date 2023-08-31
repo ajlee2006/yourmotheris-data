@@ -1,1 +1,1 @@
-{"data": ["2023-08-31T15:00:56.599881+00:00", 13716, "Your mother is", "moved", "Pronunciation: /muvd/", "Definition: being excited or provoked to the expression of an emotion", "Synonyms: affected, stirred, touched"]}
+{"data": ["2023-08-31T16:00:57.352118+00:00", 13717, "Your mother is", "unflavoured", "Pronunciation: /\u0259n\u02c8fle\u026av\u0259d/", "Definition: without flavoring added", "Synonyms: nonflavored, nonflavoured, unflavored"]}
