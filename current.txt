@@ -1,1 +1,1 @@
-{"data": ["2023-08-31T09:00:49.824179+00:00", 13710, "Your mother is", "sound asleep", "Pronunciation: /sa\u028and-\u0259\u02c8slip/", "Definition: sleeping deeply", "Synonyms: fast asleep"]}
+{"data": ["2023-08-31T10:01:24.377800+00:00", 13711, "Your mother is", "mutual", "Pronunciation: /\u02c8mju\u02a7u\u0259l/", "Definition: concerning each of two or more persons or things; especially given or done in return", "Synonyms: reciprocal"]}
