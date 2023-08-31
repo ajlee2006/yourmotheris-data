@@ -1,1 +1,1 @@
-{"data": ["2023-08-31T21:00:32.070060+00:00", 13722, "Your mother is", "revolutionary", "Pronunciation: /\u02ccr\u025bv\u0259\u02c8lu\u0283\u0259\u02ccn\u025bri/", "Definition: markedly new or introducing radical change", "Synonyms: radical"]}
+{"data": ["2023-08-31T22:00:51.759319+00:00", 13723, "Your mother is", "cuboid", "Pronunciation: /\u02c8kjub\u0254\u026ad/", "Definition: shaped like a cube", "Synonyms: cube-shaped, cubelike, cubical, cubiform, cuboidal"]}
