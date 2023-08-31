@@ -1,1 +1,1 @@
-{"data": ["2023-08-31T19:00:45.436438+00:00", 13720, "Your mother is", "situated", "Pronunciation: /\u02c8s\u026a\u02a7u\u02cce\u026at\u026ad/", "Definition: situated in a particular spot or position", "Synonyms: located, placed, set"]}
+{"data": ["2023-08-31T20:00:47.209902+00:00", 13721, "Your mother is", "unfettered", "Pronunciation: /\u0259n\u02c8f\u025bt\u0259d/", "Definition: not bound by shackles and chains", "Synonyms: unchained, unshackled, untied"]}
