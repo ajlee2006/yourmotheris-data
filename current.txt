@@ -1,1 +1,1 @@
-{"data": ["2023-08-31T01:01:09.118376+00:00", 13702, "Your mother is", "childish", "Pronunciation: /\u02c8\u02a7a\u026ald\u026a\u0283/", "Definition: indicating a lack of maturity", "Synonyms: infantile"]}
+{"data": ["2023-08-31T02:01:02.451796+00:00", 13703, "Your mother is", "part-time", "Pronunciation: /p\u0251rt-ta\u026am/", "Definition: involving less than the standard or customary time for an activity", "Synonyms: part time"]}
