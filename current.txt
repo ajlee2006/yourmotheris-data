@@ -1,1 +1,1 @@
-{"data": ["2023-08-31T03:01:16.945916+00:00", 13704, "Your mother is", "unspoiled", "Pronunciation: /\u0259n\u02c8sp\u0254\u026ald/", "Definition: not left to spoil", "Synonyms: good, unspoilt"]}
+{"data": ["2023-08-31T04:00:50.064662+00:00", 13705, "Your mother is", "spare", "Pronunciation: /sp\u025cr/", "Definition: not taken up by scheduled activities", "Synonyms: free"]}
