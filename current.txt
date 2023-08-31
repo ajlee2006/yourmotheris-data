@@ -1,1 +1,1 @@
-{"data": ["2023-08-31T20:00:47.209902+00:00", 13721, "Your mother is", "unfettered", "Pronunciation: /\u0259n\u02c8f\u025bt\u0259d/", "Definition: not bound by shackles and chains", "Synonyms: unchained, unshackled, untied"]}
+{"data": ["2023-08-31T21:00:32.070060+00:00", 13722, "Your mother is", "revolutionary", "Pronunciation: /\u02ccr\u025bv\u0259\u02c8lu\u0283\u0259\u02ccn\u025bri/", "Definition: markedly new or introducing radical change", "Synonyms: radical"]}
