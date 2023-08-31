@@ -1,1 +1,1 @@
-{"data": ["2023-08-30T23:01:01.127133+00:00", 13700, "Your mother is", "circumferent", "Similar to: close", "Definition: closely encircling", "Synonyms: encompassing, surrounding"]}
+{"data": ["2023-08-31T00:02:02.208528+00:00", 13701, "Your mother is", "voidable", "Pronunciation: /\u02c8v\u0254\u026ad\u0259b\u0259l/", "Definition: capable of being rescinded or voided", "Synonyms: rescindable"]}
