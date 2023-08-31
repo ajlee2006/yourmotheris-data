@@ -1,1 +1,1 @@
-{"data": ["2023-08-31T02:01:02.451796+00:00", 13703, "Your mother is", "part-time", "Pronunciation: /p\u0251rt-ta\u026am/", "Definition: involving less than the standard or customary time for an activity", "Synonyms: part time"]}
+{"data": ["2023-08-31T03:01:16.945916+00:00", 13704, "Your mother is", "unspoiled", "Pronunciation: /\u0259n\u02c8sp\u0254\u026ald/", "Definition: not left to spoil", "Synonyms: good, unspoilt"]}
