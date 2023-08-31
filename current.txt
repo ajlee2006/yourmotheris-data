@@ -1,1 +1,1 @@
-{"data": ["2023-08-31T00:02:02.208528+00:00", 13701, "Your mother is", "voidable", "Pronunciation: /\u02c8v\u0254\u026ad\u0259b\u0259l/", "Definition: capable of being rescinded or voided", "Synonyms: rescindable"]}
+{"data": ["2023-08-31T01:01:09.118376+00:00", 13702, "Your mother is", "childish", "Pronunciation: /\u02c8\u02a7a\u026ald\u026a\u0283/", "Definition: indicating a lack of maturity", "Synonyms: infantile"]}
