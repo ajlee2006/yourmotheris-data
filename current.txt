@@ -1,1 +1,1 @@
-{"data": ["2023-09-01T17:01:34.402610+00:00", 13742, "Your mother is", "thoroughbred", "Pronunciation: /\u02c8\u03b8\u0259r\u0259\u02ccbr\u025bd/", "Definition: having a list of ancestors as proof of being a purebred animal", "Synonyms: pedigree, pedigreed, pureblood, pureblooded"]}
+{"data": ["2023-09-01T18:01:16.452852+00:00", 13743, "Your mother is", "hardback", "Pronunciation: /\u02c8h\u0251db\u00e6k/", "Definition: having a hard back or cover", "Synonyms: hardbacked, hardbound, hardcover"]}
