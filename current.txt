@@ -1,1 +1,1 @@
-{"data": ["2023-09-01T21:00:34.820262+00:00", 13746, "Your mother is", "quack", "Pronunciation: /kw\u00e6k/", "Definition: medically unqualified", ""]}
+{"data": ["2023-09-01T22:00:46.568913+00:00", 13747, "Your mother is", "blastematic", "", "Definition: of or relating to blastemata", "Synonyms: blastemal, blastemic"]}
