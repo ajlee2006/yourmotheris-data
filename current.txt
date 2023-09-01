@@ -1,1 +1,1 @@
-{"data": ["2023-09-01T03:01:28.955473+00:00", 13728, "Your mother is", "asinine", "Pronunciation: /\u02c8\u00e6s\u0259\u02ccna\u026an/", "Definition: extremely silly or stupid", "Synonyms: fatuous, inane"]}
+{"data": ["2023-09-01T04:01:06.762138+00:00", 13729, "Your mother is", "frostbitten", "Pronunciation: /\u02c8fr\u0254st\u02ccb\u026at\u0259n/", "Definition: injured by freezing or partial freezing", ""]}
