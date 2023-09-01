@@ -1,1 +1,1 @@
-{"data": ["2023-09-01T09:00:58.310724+00:00", 13734, "Your mother is", "flyaway", "Pronunciation: /\u02c8fla\u026a\u0259\u02ccwe\u026a/", "Definition: guided by whim and fancy", "Synonyms: flighty, head-in-the-clouds, scatterbrained"]}
+{"data": ["2023-09-01T10:01:02.584584+00:00", 13735, "Your mother is", "sensitizing", "", "Definition: making susceptible or sensitive to either physical or emotional stimuli", "Synonyms: sensitising"]}
