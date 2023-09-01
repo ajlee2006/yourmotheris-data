@@ -1,1 +1,1 @@
-{"data": ["2023-09-01T04:01:06.762138+00:00", 13729, "Your mother is", "frostbitten", "Pronunciation: /\u02c8fr\u0254st\u02ccb\u026at\u0259n/", "Definition: injured by freezing or partial freezing", ""]}
+{"data": ["2023-09-01T05:00:51.019331+00:00", 13730, "Your mother is", "unsanded", "Similar to: unfinished", "Definition: used of wood and furniture", "Synonyms: raw"]}
