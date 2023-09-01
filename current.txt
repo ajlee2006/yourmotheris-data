@@ -1,1 +1,1 @@
-{"data": ["2023-09-01T08:01:21.236835+00:00", 13733, "Your mother is", "in condition", "Similar to: fit", "Definition: physically fit", "Synonyms: conditioned"]}
+{"data": ["2023-09-01T09:00:58.310724+00:00", 13734, "Your mother is", "flyaway", "Pronunciation: /\u02c8fla\u026a\u0259\u02ccwe\u026a/", "Definition: guided by whim and fancy", "Synonyms: flighty, head-in-the-clouds, scatterbrained"]}
