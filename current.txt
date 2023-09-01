@@ -1,1 +1,1 @@
-{"data": ["2023-09-01T02:00:51.890028+00:00", 13727, "Your mother is", "reminiscent", "Pronunciation: /\u02ccr\u025bm\u02c8\u0259n\u026as\u0259nt/", "Definition: serving to bring to mind", "Synonyms: evocative, redolent, remindful, resonant"]}
+{"data": ["2023-09-01T03:01:28.955473+00:00", 13728, "Your mother is", "asinine", "Pronunciation: /\u02c8\u00e6s\u0259\u02ccna\u026an/", "Definition: extremely silly or stupid", "Synonyms: fatuous, inane"]}
