@@ -1,1 +1,1 @@
-{"data": ["2023-09-01T05:00:51.019331+00:00", 13730, "Your mother is", "unsanded", "Similar to: unfinished", "Definition: used of wood and furniture", "Synonyms: raw"]}
+{"data": ["2023-09-01T06:00:54.040877+00:00", 13731, "Your mother is", "dirt", "Pronunciation: /d\u025crt/", "Definition: (of roads) not leveled or drained; unsuitable for all year travel", "Synonyms: ungraded"]}
