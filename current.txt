@@ -1,1 +1,1 @@
-{"data": ["2023-09-01T13:01:09.898240+00:00", 13738, "Your mother is", "frontal", "Pronunciation: /\u02c8fr\u0259nt\u0259l/", "Definition: meeting front to front", "Synonyms: head-on"]}
+{"data": ["2023-09-01T14:01:30.824679+00:00", 13739, "Your mother is", "sempiternal", "Pronunciation: /\u02ccs\u025bmp\u026a\u02c8t\u025crn\u0259l/", "Definition: having no known beginning and presumably no end", "Synonyms: dateless, endless"]}
