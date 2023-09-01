@@ -1,1 +1,1 @@
-{"data": ["2023-09-01T12:00:55.566062+00:00", 13737, "Your mother is", "unmixed", "Pronunciation: /\u0259n\u02c8m\u026akst/", "Definition: not mixed with extraneous elements", "Synonyms: plain, sheer, unmingled"]}
+{"data": ["2023-09-01T13:01:09.898240+00:00", 13738, "Your mother is", "frontal", "Pronunciation: /\u02c8fr\u0259nt\u0259l/", "Definition: meeting front to front", "Synonyms: head-on"]}
