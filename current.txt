@@ -1,1 +1,1 @@
-{"data": ["2023-09-01T07:01:16.022096+00:00", 13732, "Your mother is", "jarring", "Pronunciation: /\u02c8d\u0292\u0251r\u026a\u014b/", "Definition: making or causing a harsh and irritating sound", ""]}
+{"data": ["2023-09-01T08:01:21.236835+00:00", 13733, "Your mother is", "in condition", "Similar to: fit", "Definition: physically fit", "Synonyms: conditioned"]}
