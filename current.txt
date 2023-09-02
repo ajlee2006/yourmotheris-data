@@ -1,1 +1,1 @@
-{"data": ["2023-09-02T20:00:27.519287+00:00", 13769, "Your mother is", "heavy-coated", "Similar to: clad", "Definition: wearing a heavy coat", ""]}
+{"data": ["2023-09-02T21:00:18.568828+00:00", 13770, "Your mother is", "71", "Similar to: cardinal", "Definition: being one more than seventy", "Synonyms: lxxi, seventy-one"]}
