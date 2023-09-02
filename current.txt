@@ -1,1 +1,1 @@
-{"data": ["2023-09-02T19:00:39.778523+00:00", 13768, "Your mother is", "drinkable", "Pronunciation: /\u02c8dr\u026a\u014bk\u0259b\u0259l/", "Definition: suitable for drinking", "Synonyms: potable"]}
+{"data": ["2023-09-02T20:00:27.519287+00:00", 13769, "Your mother is", "heavy-coated", "Similar to: clad", "Definition: wearing a heavy coat", ""]}
