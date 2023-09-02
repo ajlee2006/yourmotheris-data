@@ -1,1 +1,1 @@
-{"data": ["2023-09-02T16:01:10.487860+00:00", 13765, "Your mother is", "anisogamous", "Pronunciation: /\u02cc\u00e6na\u026a\u02c8s\u0251\u0261\u0259m\u0259s/", "Definition: relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape)", "Synonyms: anisogamic"]}
+{"data": ["2023-09-02T17:01:18.257459+00:00", 13766, "Your mother is", "hardened", "Pronunciation: /\u02c8h\u0251rd\u0259nd/", "Definition: converted to solid form (as concrete)", "Synonyms: set"]}
