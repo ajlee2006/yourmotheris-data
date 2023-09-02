@@ -1,1 +1,1 @@
-{"data": ["2023-09-02T09:01:20.131841+00:00", 13758, "Your mother is", "soused", "Similar to: drunk", "Definition: very drunk", "Synonyms: besotted, blind drunk, blotto, cockeyed, crocked, fuddled, loaded, pie-eyed, pissed, pixilated, plastered, slopped, sloshed, smashed, soaked, sozzled, squiffy, stiff, tight, wet"]}
+{"data": ["2023-09-02T10:01:02.466341+00:00", 13759, "Your mother is", "energetic", "Pronunciation: /\u02cc\u025bn\u0259r\u02c8d\u0292\u025bt\u026ak/", "Definition: working hard to promote an enterprise", "Synonyms: gumptious, industrious, up-and-coming"]}
