@@ -1,1 +1,1 @@
-{"data": ["2023-09-02T02:01:07.507814+00:00", 13751, "Your mother is", "bivalve", "Pronunciation: /\u02c8ba\u026a\u02ccv\u00e6lv/", "Definition: used of mollusks having two shells (as clams etc.)", "Synonyms: bivalved"]}
+{"data": ["2023-09-02T03:01:07.008666+00:00", 13752, "Your mother is", "eager", "Pronunciation: /\u02c8i\u0261\u0259r/", "Definition: having or showing keen interest or intense desire or impatient expectancy", ""]}
