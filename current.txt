@@ -1,1 +1,1 @@
-{"data": ["2023-09-02T22:00:48.468530+00:00", 13771, "Your mother is", "aurous", "Pronunciation: /\u02c8\u0254r\u0259s/", "Definition: of or relating to or containing or derived from gold", "Synonyms: auric"]}
+{"data": ["2023-09-02T23:00:54.195588+00:00", 13772, "Your mother is", "slipping", "Pronunciation: /\u02c8sl\u026ap\u026a\u014b/", "Definition: moving as on a slippery surface", "Synonyms: slithering"]}
