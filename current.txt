@@ -1,1 +1,1 @@
-{"data": ["2023-09-02T03:01:07.008666+00:00", 13752, "Your mother is", "eager", "Pronunciation: /\u02c8i\u0261\u0259r/", "Definition: having or showing keen interest or intense desire or impatient expectancy", ""]}
+{"data": ["2023-09-02T04:01:18.239616+00:00", 13753, "Your mother is", "sabbatic", "", "Definition: of or relating to the Sabbath", "Synonyms: sabbatical"]}
