@@ -1,1 +1,1 @@
-{"data": ["2023-09-02T14:00:54.352094+00:00", 13763, "Your mother is", "unmolested", "Pronunciation: /\u02cc\u0259nm\u0259\u02c8l\u025bst\u026ad/", "Definition: not interfered with, disturbed, or harmed", ""]}
+{"data": ["2023-09-02T15:01:10.083905+00:00", 13764, "Your mother is", "short-headed", "Pronunciation: /\u0283\u0254rt-\u02c8h\u025bd\u026ad/", "Definition: having a brachycephalic head", "Synonyms: broad-headed, roundheaded"]}
