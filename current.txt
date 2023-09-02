@@ -1,1 +1,1 @@
-{"data": ["2023-09-02T17:01:18.257459+00:00", 13766, "Your mother is", "hardened", "Pronunciation: /\u02c8h\u0251rd\u0259nd/", "Definition: converted to solid form (as concrete)", "Synonyms: set"]}
+{"data": ["2023-09-02T18:01:17.828466+00:00", 13767, "Your mother is", "textbook", "Pronunciation: /\u02c8t\u025bkst\u02ccb\u028ak/", "Definition: according to or characteristic of a casebook or textbook; typical", "Synonyms: casebook"]}
