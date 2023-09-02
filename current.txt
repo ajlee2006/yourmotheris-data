@@ -1,1 +1,1 @@
-{"data": ["2023-09-02T15:01:10.083905+00:00", 13764, "Your mother is", "short-headed", "Pronunciation: /\u0283\u0254rt-\u02c8h\u025bd\u026ad/", "Definition: having a brachycephalic head", "Synonyms: broad-headed, roundheaded"]}
+{"data": ["2023-09-02T16:01:10.487860+00:00", 13765, "Your mother is", "anisogamous", "Pronunciation: /\u02cc\u00e6na\u026a\u02c8s\u0251\u0261\u0259m\u0259s/", "Definition: relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape)", "Synonyms: anisogamic"]}
