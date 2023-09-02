@@ -1,1 +1,1 @@
-{"data": ["2023-09-02T18:01:17.828466+00:00", 13767, "Your mother is", "textbook", "Pronunciation: /\u02c8t\u025bkst\u02ccb\u028ak/", "Definition: according to or characteristic of a casebook or textbook; typical", "Synonyms: casebook"]}
+{"data": ["2023-09-02T19:00:39.778523+00:00", 13768, "Your mother is", "drinkable", "Pronunciation: /\u02c8dr\u026a\u014bk\u0259b\u0259l/", "Definition: suitable for drinking", "Synonyms: potable"]}
