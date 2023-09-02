@@ -1,1 +1,1 @@
-{"data": ["2023-09-02T13:00:57.450861+00:00", 13762, "Your mother is", "sixty-two", "Pronunciation: /\u02c8s\u026aksti-tu/", "Definition: being two more than sixty", "Synonyms: 62, lxii"]}
+{"data": ["2023-09-02T14:00:54.352094+00:00", 13763, "Your mother is", "unmolested", "Pronunciation: /\u02cc\u0259nm\u0259\u02c8l\u025bst\u026ad/", "Definition: not interfered with, disturbed, or harmed", ""]}
