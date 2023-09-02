@@ -1,1 +1,1 @@
-{"data": ["2023-09-02T05:01:02.731683+00:00", 13754, "Your mother is", "mechanised", "Similar to: mechanical", "Definition: equipped with machinery", "Synonyms: mechanized"]}
+{"data": ["2023-09-02T06:00:53.605626+00:00", 13755, "Your mother is", "uncivilized", "Pronunciation: /\u0259n\u02c8s\u026av\u0259la\u026azd/", "Definition: without civilizing influences", "Synonyms: barbarian, barbaric, savage, uncivilised, wild"]}
