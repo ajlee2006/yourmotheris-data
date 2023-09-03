@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T13:01:07.412740+00:00", 13786, "Your mother is", "voltaic", "Pronunciation: /v\u0251l\u02c8te\u026a\u026ak/", "Definition: pertaining to or producing electric current by chemical action", "Synonyms: galvanic"]}
+{"data": ["2023-09-03T14:00:55.399177+00:00", 13787, "Your mother is", "gauze-like", "Similar to: thin", "Definition: so thin as to transmit light", "Synonyms: cobwebby, diaphanous, filmy, gauzy, gossamer, see-through, sheer, transparent, vaporous, vapourous"]}
