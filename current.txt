@@ -1,1 +1,1 @@
-{"data": ["2023-09-02T23:00:54.195588+00:00", 13772, "Your mother is", "slipping", "Pronunciation: /\u02c8sl\u026ap\u026a\u014b/", "Definition: moving as on a slippery surface", "Synonyms: slithering"]}
+{"data": ["2023-09-03T00:02:05.895657+00:00", 13773, "Your mother is", "watermelon-shaped", "Similar to: cucumber-shaped", "Definition: having the polar diameter greater than the equatorial diameter", "Synonyms: prolate"]}
