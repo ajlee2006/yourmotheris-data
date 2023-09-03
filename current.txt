@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T15:01:10.933911+00:00", 13788, "Your mother is", "interior", "Pronunciation: /\u026an\u02c8tiri\u0259r/", "Definition: of or coming from the middle of a region or country", "Synonyms: midland, upcountry"]}
+{"data": ["2023-09-03T16:00:52.619153+00:00", 13789, "Your mother is", "foremost", "Pronunciation: /\u02c8fo\u028ar\u02ccmo\u028ast/", "Definition: ranking above all others", "Synonyms: first, world-class"]}
