@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T19:00:58.572247+00:00", 13792, "Your mother is", "slighting", "Pronunciation: /\u02c8sla\u026at\u026a\u014b/", "Definition: tending to diminish or disparage", "Synonyms: belittling, deprecating, deprecative, deprecatory, depreciative, depreciatory"]}
+{"data": ["2023-09-03T20:00:21.706048+00:00", 13793, "Your mother is", "saline", "Pronunciation: /\u02c8se\u026ala\u026an/", "Definition: containing salt", ""]}
