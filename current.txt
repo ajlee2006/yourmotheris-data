@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T07:01:20.703707+00:00", 13780, "Your mother is", "dabbled", "Pronunciation: /\u02c8d\u00e6b\u028cld/", "Definition: covered with bright patches (often used in combination)", "Synonyms: spattered, splashed, splattered"]}
+{"data": ["2023-09-03T08:01:18.564441+00:00", 13781, "Your mother is", "optional", "Pronunciation: /\u02c8\u0251p\u0283\u0259n\u0259l/", "Definition: possible but not necessary; left to personal choice", ""]}
