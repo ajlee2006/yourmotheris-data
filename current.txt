@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T12:01:22.638761+00:00", 13785, "Your mother is", "adulterous", "Pronunciation: /\u0259\u02c8d\u0259lt\u0259r\u0259s/", "Definition: characterized by adultery", "Synonyms: extracurricular, extramarital"]}
+{"data": ["2023-09-03T13:01:07.412740+00:00", 13786, "Your mother is", "voltaic", "Pronunciation: /v\u0251l\u02c8te\u026a\u026ak/", "Definition: pertaining to or producing electric current by chemical action", "Synonyms: galvanic"]}
