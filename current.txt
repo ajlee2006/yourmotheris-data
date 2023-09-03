@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T00:02:05.895657+00:00", 13773, "Your mother is", "watermelon-shaped", "Similar to: cucumber-shaped", "Definition: having the polar diameter greater than the equatorial diameter", "Synonyms: prolate"]}
+{"data": ["2023-09-03T01:01:09.660672+00:00", 13774, "Your mother is", "honied", "Pronunciation: /\u02c8h\u0259nid/", "Definition: with honey added", "Synonyms: honeyed, syrupy"]}
