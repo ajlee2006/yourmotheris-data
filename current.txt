@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T02:00:54.776097+00:00", 13775, "Your mother is", "damaging", "Pronunciation: /\u02c8d\u00e6m\u026ad\u0292\u026a\u014b/", "Definition: designed or tending to discredit, especially without positive or helpful suggestions", "Synonyms: negative"]}
+{"data": ["2023-09-03T03:01:00.311810+00:00", 13776, "Your mother is", "unmown", "Pronunciation: /\u0259n\u02c8mo\u028an/", "Definition: (used of grass or vegetation) not cut down with a hand implement or machine", "Synonyms: uncut"]}
