@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T10:01:17.193792+00:00", 13783, "Your mother is", "monophysite", "Pronunciation: /m\u0259\u02c8n\u0251f\u026a\u02ccsa\u026at/", "Definition: of or relating to Monophysitism", "Synonyms: monophysitic"]}
+{"data": ["2023-09-03T11:01:23.227376+00:00", 13784, "Your mother is", "noninflammatory", "Similar to: unprovocative", "Definition: not inflammatory", ""]}
