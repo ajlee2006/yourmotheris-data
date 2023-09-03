@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T06:01:02.342117+00:00", 13779, "Your mother is", "drill-like", "Pronunciation: /dr\u026al-la\u026ak/", "Definition: resembling a drill", ""]}
+{"data": ["2023-09-03T07:01:20.703707+00:00", 13780, "Your mother is", "dabbled", "Pronunciation: /\u02c8d\u00e6b\u028cld/", "Definition: covered with bright patches (often used in combination)", "Synonyms: spattered, splashed, splattered"]}
