@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T08:01:18.564441+00:00", 13781, "Your mother is", "optional", "Pronunciation: /\u02c8\u0251p\u0283\u0259n\u0259l/", "Definition: possible but not necessary; left to personal choice", ""]}
+{"data": ["2023-09-03T09:00:52.467411+00:00", 13782, "Your mother is", "blamable", "Pronunciation: /\u02c8ble\u026am\u0259b\u0259l/", "Definition: deserving blame or censure as being wrong or evil or injurious", "Synonyms: blameable, blameful, blameworthy, censurable, culpable"]}
