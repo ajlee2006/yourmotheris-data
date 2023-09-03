@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T20:00:21.706048+00:00", 13793, "Your mother is", "saline", "Pronunciation: /\u02c8se\u026ala\u026an/", "Definition: containing salt", ""]}
+{"data": ["2023-09-03T21:00:34.165483+00:00", 13794, "Your mother is", "foreign", "Pronunciation: /\u02c8f\u0254r\u026an/", "Definition: not belonging to that in which it is contained; introduced from an outside source", "Synonyms: extraneous"]}
