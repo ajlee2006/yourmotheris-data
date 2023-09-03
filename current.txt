@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T21:00:34.165483+00:00", 13794, "Your mother is", "foreign", "Pronunciation: /\u02c8f\u0254r\u026an/", "Definition: not belonging to that in which it is contained; introduced from an outside source", "Synonyms: extraneous"]}
+{"data": ["2023-09-03T22:00:51.126341+00:00", 13795, "Your mother is", "rudder-like", "Similar to: formed", "Definition: formed like and serving like a rudder", ""]}
