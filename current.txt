@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T04:01:00.258203+00:00", 13777, "Your mother is", "self-important", "Pronunciation: /s\u025blf-\u026am\u02c8p\u0254rt\u0259nt/", "Definition: having or showing feelings of unwarranted importance out of overbearing pride", "Synonyms: arrogant, chesty"]}
+{"data": ["2023-09-03T05:01:29.341689+00:00", 13778, "Your mother is", "thirty-first", "Pronunciation: /\u02c8\u03b8\u025crti-f\u025crst/", "Definition: coming next after the thirtieth in position", "Synonyms: 31st"]}
