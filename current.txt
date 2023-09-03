@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T17:01:27.845451+00:00", 13790, "Your mother is", "muscular", "Pronunciation: /\u02c8m\u0259skj\u0259l\u0259r/", "Definition: having a robust muscular body-build characterized by predominance of structures (bone and muscle and connective tissue) developed from the embryonic mesodermal layer", "Synonyms: mesomorphic"]}
+{"data": ["2023-09-03T18:00:53.305418+00:00", 13791, "Your mother is", "full-length", "Pronunciation: /\u02c8f\u028al\u02c8l\u025b\u014bk\u03b8/", "Definition: complete", "Synonyms: uncut"]}
