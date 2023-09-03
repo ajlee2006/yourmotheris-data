@@ -1,1 +1,1 @@
-{"data": ["2023-09-03T16:00:52.619153+00:00", 13789, "Your mother is", "foremost", "Pronunciation: /\u02c8fo\u028ar\u02ccmo\u028ast/", "Definition: ranking above all others", "Synonyms: first, world-class"]}
+{"data": ["2023-09-03T17:01:27.845451+00:00", 13790, "Your mother is", "muscular", "Pronunciation: /\u02c8m\u0259skj\u0259l\u0259r/", "Definition: having a robust muscular body-build characterized by predominance of structures (bone and muscle and connective tissue) developed from the embryonic mesodermal layer", "Synonyms: mesomorphic"]}
