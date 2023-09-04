@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T21:00:33.795624+00:00", 13818, "Your mother is", "castellated", "Pronunciation: /\u02c8k\u00e6s\u02cct\u0259le\u026at\u026ad/", "Definition: having or resembling repeated square indentations like those in a battlement", "Synonyms: battlemented, castled, embattled"]}
+{"data": ["2023-09-04T22:00:33.313172+00:00", 13819, "Your mother is", "distaff", "Pronunciation: /\u02c8d\u026ast\u00e6f/", "Definition: characteristic of or peculiar to a woman", "Synonyms: female"]}
