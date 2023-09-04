@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T14:01:36.035941+00:00", 13811, "Your mother is", "underlying", "Pronunciation: /\u02cc\u028cnd\u025dr\u02c8la\u026a\u026a\u014b/", "Definition: in the nature of something though not readily apparent", "Synonyms: implicit in, inherent"]}
+{"data": ["2023-09-04T15:01:20.236219+00:00", 13812, "Your mother is", "livery", "Pronunciation: /\u02c8l\u026av\u0259ri/", "Definition: suffering from or suggesting a liver disorder or gastric distress", "Synonyms: bilious, liverish"]}
