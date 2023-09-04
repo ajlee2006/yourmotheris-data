@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T11:01:13.838070+00:00", 13808, "Your mother is", "bouldery", "Similar to: rough", "Definition: abounding in rocks or stones", "Synonyms: bouldered, rocky, stony"]}
+{"data": ["2023-09-04T12:01:23.696703+00:00", 13809, "Your mother is", "pedestrian", "Pronunciation: /p\u0259\u02c8d\u025bstri\u0259n/", "Definition: lacking wit or imagination", "Synonyms: earthbound, prosaic, prosy"]}
