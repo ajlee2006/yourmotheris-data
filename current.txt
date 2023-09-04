@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T16:01:17.720672+00:00", 13813, "Your mother is", "childish", "Pronunciation: /\u02c8\u02a7a\u026ald\u026a\u0283/", "Definition: indicating a lack of maturity", "Synonyms: infantile"]}
+{"data": ["2023-09-04T17:01:28.107999+00:00", 13814, "Your mother is", "liquid-fueled", "Similar to: fueled", "Definition: fueled by a liquid fuel", ""]}
