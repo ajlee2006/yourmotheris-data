@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T19:01:11.759398+00:00", 13816, "Your mother is", "uncomplimentary", "Pronunciation: /\u02cc\u0259nk\u0251mpl\u026a\u02c8m\u025bnt\u0259ri/", "Definition: showing or representing unfavorably", "Synonyms: unflattering"]}
+{"data": ["2023-09-04T20:00:29.981660+00:00", 13817, "Your mother is", "anginose", "Pronunciation: /\u02c8\u00e6nd\u0292\u0259\u02ccno\u028as/", "Definition: of or related to the pain of angina pectoris", "Synonyms: anginal, anginous"]}
