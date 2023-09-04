@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T00:02:13.151848+00:00", 13797, "Your mother is", "mouse-eared", "Similar to: eared", "Definition: having ears like a mouse's", ""]}
+{"data": ["2023-09-04T01:01:11.021210+00:00", 13798, "Your mother is", "sharpened", "Pronunciation: /\u02c8\u0283\u0251rp\u028cnd/", "Definition: having the point made sharp", ""]}
