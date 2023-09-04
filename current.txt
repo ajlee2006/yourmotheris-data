@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T09:01:02.056812+00:00", 13806, "Your mother is", "dagger-like", "Similar to: sharp", "Definition: resembling a dagger", ""]}
+{"data": ["2023-09-04T10:01:33.687556+00:00", 13807, "Your mother is", "branched", "Pronunciation: /br\u00e6nt\u0283t/", "Definition: having branches", "Synonyms: branching, ramate, ramose, ramous"]}
