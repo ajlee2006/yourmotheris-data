@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T07:01:04.238984+00:00", 13804, "Your mother is", "pleasing", "Pronunciation: /\u02c8pliz\u026a\u014b/", "Definition: giving pleasure and satisfaction", ""]}
+{"data": ["2023-09-04T08:01:12.601951+00:00", 13805, "Your mother is", "superabundant", "Pronunciation: /\u02ccsup\u0259r\u0259\u02c8b\u0259nd\u0259nt/", "Definition: most excessively abundant", ""]}
