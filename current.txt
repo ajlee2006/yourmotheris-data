@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T18:01:31.336948+00:00", 13815, "Your mother is", "explicit", "Pronunciation: /\u026ak\u02c8spl\u026as\u026at/", "Definition: precisely and clearly expressed or readily observable; leaving nothing to implication", "Synonyms: expressed"]}
+{"data": ["2023-09-04T19:01:11.759398+00:00", 13816, "Your mother is", "uncomplimentary", "Pronunciation: /\u02cc\u0259nk\u0251mpl\u026a\u02c8m\u025bnt\u0259ri/", "Definition: showing or representing unfavorably", "Synonyms: unflattering"]}
