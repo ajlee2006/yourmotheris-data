@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T17:01:28.107999+00:00", 13814, "Your mother is", "liquid-fueled", "Similar to: fueled", "Definition: fueled by a liquid fuel", ""]}
+{"data": ["2023-09-04T18:01:31.336948+00:00", 13815, "Your mother is", "explicit", "Pronunciation: /\u026ak\u02c8spl\u026as\u026at/", "Definition: precisely and clearly expressed or readily observable; leaving nothing to implication", "Synonyms: expressed"]}
