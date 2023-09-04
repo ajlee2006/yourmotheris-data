@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T12:01:23.696703+00:00", 13809, "Your mother is", "pedestrian", "Pronunciation: /p\u0259\u02c8d\u025bstri\u0259n/", "Definition: lacking wit or imagination", "Synonyms: earthbound, prosaic, prosy"]}
+{"data": ["2023-09-04T13:00:59.315628+00:00", 13810, "Your mother is", "one hundred seventy", "Similar to: cardinal", "Definition: being ten more than one hundred sixty", "Synonyms: 170, clxx"]}
