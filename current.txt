@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T04:00:51.803505+00:00", 13801, "Your mother is", "boring", "Pronunciation: /\u02c8bo\u028ar\u026a\u014b/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: deadening, dull, ho-hum, irksome, slow, tedious, tiresome, wearisome"]}
+{"data": ["2023-09-04T05:01:17.241200+00:00", 13802, "Your mother is", "hallowed", "Pronunciation: /\u02c8h\u00e6lo\u028ad/", "Definition: worthy of religious veneration", "Synonyms: sacred"]}
