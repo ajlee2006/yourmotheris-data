@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T01:01:11.021210+00:00", 13798, "Your mother is", "sharpened", "Pronunciation: /\u02c8\u0283\u0251rp\u028cnd/", "Definition: having the point made sharp", ""]}
+{"data": ["2023-09-04T02:00:53.104228+00:00", 13799, "Your mother is", "corroborative", "Pronunciation: /k\u025dr\u02c8\u0251b\u025dr\u028c\u02cct\u026av/", "Definition: serving to support or corroborate", "Synonyms: collateral, confirmative, confirmatory, confirming, corroboratory, substantiating, substantiative, validating, validatory, verificatory, verifying"]}
