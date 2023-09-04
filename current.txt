@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T20:00:29.981660+00:00", 13817, "Your mother is", "anginose", "Pronunciation: /\u02c8\u00e6nd\u0292\u0259\u02ccno\u028as/", "Definition: of or related to the pain of angina pectoris", "Synonyms: anginal, anginous"]}
+{"data": ["2023-09-04T21:00:33.795624+00:00", 13818, "Your mother is", "castellated", "Pronunciation: /\u02c8k\u00e6s\u02cct\u0259le\u026at\u026ad/", "Definition: having or resembling repeated square indentations like those in a battlement", "Synonyms: battlemented, castled, embattled"]}
