@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T03:01:04.025626+00:00", 13800, "Your mother is", "saprophagous", "Pronunciation: /s\u00e6\u02c8pr\u0251f\u0259\u0261\u0259s/", "Definition: (of certain animals) feeding on dead or decaying animal matter", "Synonyms: saprozoic"]}
+{"data": ["2023-09-04T04:00:51.803505+00:00", 13801, "Your mother is", "boring", "Pronunciation: /\u02c8bo\u028ar\u026a\u014b/", "Definition: so lacking in interest as to cause mental weariness", "Synonyms: deadening, dull, ho-hum, irksome, slow, tedious, tiresome, wearisome"]}
