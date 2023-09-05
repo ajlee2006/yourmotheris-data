@@ -1,1 +1,1 @@
-{"data": ["2023-09-05T17:01:13.740646+00:00", 13834, "Your mother is", "almond-scented", "Similar to: odorous", "Definition: smelling of almond", ""]}
+{"data": ["2023-09-05T18:01:05.535298+00:00", 13835, "Your mother is", "unacceptable", "Pronunciation: /\u02cc\u028cn\u00e6k\u02c8s\u025bpt\u028cb\u028cl/", "Definition: not conforming to standard usage", "Synonyms: unaccepted"]}
