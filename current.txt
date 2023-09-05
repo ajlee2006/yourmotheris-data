@@ -1,1 +1,1 @@
-{"data": ["2023-09-05T03:01:14.518798+00:00", 13823, "Your mother is", "constrained", "Pronunciation: /k\u0259n\u02c8stre\u026and/", "Definition: lacking spontaneity; not natural", "Synonyms: forced, strained"]}
+{"data": ["2023-09-05T04:01:14.090588+00:00", 13824, "Your mother is", "receding", "Pronunciation: /r\u026a\u02c8sid\u026a\u014b/", "Definition: (of a hairline e.g.) moving slowly back", ""]}
