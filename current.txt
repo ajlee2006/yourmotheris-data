@@ -1,1 +1,1 @@
-{"data": ["2023-09-05T05:01:17.811821+00:00", 13825, "Your mother is", "alienated", "Pronunciation: /\u02c8e\u026ali\u028c\u02ccne\u026at\u028cd/", "Definition: socially disoriented", "Synonyms: anomic, disoriented"]}
+{"data": ["2023-09-05T08:01:05.739205+00:00", 13826, "Your mother is", "interscholastic", "Pronunciation: /\u02cc\u026ant\u0259rsk\u0259\u02c8l\u00e6st\u026ak/", "Definition: used of competition or cooperation between secondary schools", "Synonyms: interschool"]}
