@@ -1,1 +1,1 @@
-{"data": ["2023-09-04T22:00:33.313172+00:00", 13819, "Your mother is", "distaff", "Pronunciation: /\u02c8d\u026ast\u00e6f/", "Definition: characteristic of or peculiar to a woman", "Synonyms: female"]}
+{"data": ["2023-09-05T00:02:36.963788+00:00", 13820, "Your mother is", "perplexing", "Pronunciation: /p\u025dr\u02c8pl\u025bks\u026a\u014b/", "Definition: lacking clarity of meaning; causing confusion or perplexity", "Synonyms: confusing, puzzling"]}
