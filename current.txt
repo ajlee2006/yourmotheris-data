@@ -1,1 +1,1 @@
-{"data": ["2023-09-05T00:02:36.963788+00:00", 13820, "Your mother is", "perplexing", "Pronunciation: /p\u025dr\u02c8pl\u025bks\u026a\u014b/", "Definition: lacking clarity of meaning; causing confusion or perplexity", "Synonyms: confusing, puzzling"]}
+{"data": ["2023-09-05T01:01:21.753752+00:00", 13821, "Your mother is", "hemolytic", "Pronunciation: /\u02cchim\u0259\u02c8l\u026at\u026ak/", "Definition: relating to or involving or causing hemolysis", "Synonyms: haemolytic"]}
