@@ -1,1 +1,1 @@
-{"data": ["2023-09-05T15:01:11.878692+00:00", 13832, "Your mother is", "allegoric", "Similar to: representative", "Definition: used in or characteristic of or containing allegory", "Synonyms: allegorical"]}
+{"data": ["2023-09-05T16:01:29.711640+00:00", 13833, "Your mother is", "comminatory", "Pronunciation: /k\u0259\u02c8m\u026an\u0259\u02ccto\u028ari/", "Definition: containing warning of punishment", "Synonyms: denunciative, denunciatory"]}
