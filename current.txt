@@ -1,1 +1,1 @@
-{"data": ["2023-09-05T08:01:05.739205+00:00", 13826, "Your mother is", "interscholastic", "Pronunciation: /\u02cc\u026ant\u0259rsk\u0259\u02c8l\u00e6st\u026ak/", "Definition: used of competition or cooperation between secondary schools", "Synonyms: interschool"]}
+{"data": ["2023-09-05T09:01:18.959506+00:00", 13827, "Your mother is", "aneurismatic", "", "Definition: relating to or affected by an aneurysm", "Synonyms: aneurismal, aneurysmal, aneurysmatic"]}
