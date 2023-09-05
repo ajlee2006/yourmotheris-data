@@ -1,1 +1,1 @@
-{"data": ["2023-09-05T10:01:47.110199+00:00", 13828, "Your mother is", "demotic", "Pronunciation: /d\u026a\u02c8m\u0251t\u026ak/", "Definition: of or for the common people", ""]}
+{"data": ["2023-09-05T11:01:04.261562+00:00", 13829, "Your mother is", "sounding", "Pronunciation: /\u02c8sa\u028and\u026a\u014b/", "Definition: appearing to be as specified; usually used as combining forms", "Synonyms: looking"]}
