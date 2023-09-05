@@ -1,1 +1,1 @@
-{"data": ["2023-09-05T01:01:21.753752+00:00", 13821, "Your mother is", "hemolytic", "Pronunciation: /\u02cchim\u0259\u02c8l\u026at\u026ak/", "Definition: relating to or involving or causing hemolysis", "Synonyms: haemolytic"]}
+{"data": ["2023-09-05T02:01:45.344855+00:00", 13822, "Your mother is", "representational", "Pronunciation: /\u02ccr\u025bpriz\u025bn\u02c8te\u026a\u0283\u0259n\u0259l/", "Definition: (used especially of art) depicting objects, figures,or scenes as seen", ""]}
