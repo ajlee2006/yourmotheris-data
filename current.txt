@@ -1,1 +1,1 @@
-{"data": ["2023-09-05T04:01:14.090588+00:00", 13824, "Your mother is", "receding", "Pronunciation: /r\u026a\u02c8sid\u026a\u014b/", "Definition: (of a hairline e.g.) moving slowly back", ""]}
+{"data": ["2023-09-05T05:01:17.811821+00:00", 13825, "Your mother is", "alienated", "Pronunciation: /\u02c8e\u026ali\u028c\u02ccne\u026at\u028cd/", "Definition: socially disoriented", "Synonyms: anomic, disoriented"]}
