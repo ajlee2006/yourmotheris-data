@@ -1,1 +1,1 @@
-{"data": ["2023-09-05T09:01:18.959506+00:00", 13827, "Your mother is", "aneurismatic", "", "Definition: relating to or affected by an aneurysm", "Synonyms: aneurismal, aneurysmal, aneurysmatic"]}
+{"data": ["2023-09-05T10:01:47.110199+00:00", 13828, "Your mother is", "demotic", "Pronunciation: /d\u026a\u02c8m\u0251t\u026ak/", "Definition: of or for the common people", ""]}
