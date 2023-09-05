@@ -1,1 +1,1 @@
-{"data": ["2023-09-05T18:01:05.535298+00:00", 13835, "Your mother is", "unacceptable", "Pronunciation: /\u02cc\u028cn\u00e6k\u02c8s\u025bpt\u028cb\u028cl/", "Definition: not conforming to standard usage", "Synonyms: unaccepted"]}
+{"data": ["2023-09-05T19:00:33.285113+00:00", 13836, "Your mother is", "lumbering", "Pronunciation: /\u02c8l\u0259mb\u0259r\u026a\u014b/", "Definition: slow and laborious because of weight", "Synonyms: heavy, ponderous"]}
