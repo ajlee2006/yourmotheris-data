@@ -1,1 +1,1 @@
-{"data": ["2023-09-05T16:01:29.711640+00:00", 13833, "Your mother is", "comminatory", "Pronunciation: /k\u0259\u02c8m\u026an\u0259\u02ccto\u028ari/", "Definition: containing warning of punishment", "Synonyms: denunciative, denunciatory"]}
+{"data": ["2023-09-05T17:01:13.740646+00:00", 13834, "Your mother is", "almond-scented", "Similar to: odorous", "Definition: smelling of almond", ""]}
